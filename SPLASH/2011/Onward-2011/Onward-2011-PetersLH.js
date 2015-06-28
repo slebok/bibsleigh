@@ -1,0 +1,16 @@
+{
+	"author": ["Sebastian Peters", "Vivian Loftness", "Volker Hartkopf"],
+	"booktitle": "ACM Symposium on New Ideas in Programming and Reflections on Software, Onward! 2011, part of SPLASH '11, Portland, OR, USA, October 22-27, 2011",
+	"booktitleshort": "Onward!",
+	"crossref": "conf/oopsla/2011onward",
+	"dblpkey": "conf/oopsla/PetersLH11",
+	"editor": ["Robert Hirschfeld", "Eelco Visser"],
+	"ee": "http://doi.acm.org/10.1145/2048237.2048255",
+	"isbn": "978-1-4503-0941-7",
+	"pages": "113--114",
+	"publisher": "ACM",
+	"title": "The intuitive control of smart home and office environments",
+	"type": "inproceedings",
+	"venue": "Onward",
+	"year": 2011
+}

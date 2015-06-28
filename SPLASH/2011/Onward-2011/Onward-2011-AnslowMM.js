@@ -1,0 +1,16 @@
+{
+	"author": ["Craig Anslow", "Shane Markstrum", "Emerson R. Murphy-Hill"],
+	"booktitle": "ACM Symposium on New Ideas in Programming and Reflections on Software, Onward! 2011, part of SPLASH '11, Portland, OR, USA, October 22-27, 2011",
+	"booktitleshort": "Onward!",
+	"crossref": "conf/oopsla/2011onward",
+	"dblpkey": "conf/oopsla/AnslowMM11",
+	"editor": ["Robert Hirschfeld", "Eelco Visser"],
+	"ee": "http://doi.acm.org/10.1145/2048237.2048258",
+	"isbn": "978-1-4503-0941-7",
+	"pages": "119--120",
+	"publisher": "ACM",
+	"title": "Evaluation and usability of programming languages and tools: (PLATEAU)",
+	"type": "inproceedings",
+	"venue": "Onward",
+	"year": 2011
+}
