@@ -1,4 +1,6 @@
 {
 	"name": "graph grammar",
-	"matchsub": ["graph grammar"]
+	"matchword": ["graph-grammar", "graph-rewriting"],
+	"matchsub": ["graph grammar", "graph rewriting"],
+	"relieves": ["graph"]
 }
