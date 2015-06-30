@@ -1,5 +1,6 @@
 {
 	"name": "λ-calculus",
-	"matchword": ["lambda-calculus", "lambda-calculi", "λ-calculus", "λ-calculi"],
-	"matchsub": ["lambda calculus", "lambda calculi", "λ calculus", "λ calculi"]
+	"matchsubexact": "λ",
+	"matchword": ["lambda-calculus", "lambda-calculi", "lambda-term", "lambda-terms", "lambda-lifting", "lambda-dropping", "lambda-definition", "lambda-dags", "lambda-representable", "beta-reduction"],
+	"matchsub": ["lambda calculus", "lambda calculi", "lambda mu-calculus", "lambda-mu calculus", "lambda encoding", "beta reduction"]
 }

@@ -1,4 +1,5 @@
 {
 	"name": "concurrent",
-	"matchword": ["concurrency", "concurrent", "multi-threaded", "thread", "thread-level"]
+	"matchword": ["concurrency", "concurrent", "multi-threaded", "thread", "thread-level", "deadlock", "livelock"],
+	"matchsub": ["race detection"]
 }
