@@ -1,12 +1,13 @@
 {
-	"type": "inproceedings",
+	"author": ["Philippe Moret", "Walter Binder", "Alex Villazón"],
+	"booktitle": "Proceedings of the 14th Symposium on Partial Evaluation and Semantics-Based Program Manipulation",
+	"crossref": "conf/pepm/2009",
+	"dblpkey": "conf/pepm/MoretBV09a",
 	"ee": "http://doi.acm.org/10.1145/1480945.1480968",
 	"pages": "161-164",
-	"crossref": "conf/pepm/2009",
-	"booktitle": "PEPM",
-	"url": "db/conf/pepm/pepm2009.html#MoretBV09a",
 	"title": "CProf: customizable calling context cross-profiling for embedded java processors",
-	"year": "2009",
-	"dblpkey": "conf/pepm/MoretBV09a",
-	"author": ["Philippe Moret", "Walter Binder", "Alex Villazón"]
+	"type": "inproceedings",
+	"url": "db/conf/pepm/pepm2009.html#MoretBV09a",
+	"venue": "PEPM",
+	"year": 2009
 }

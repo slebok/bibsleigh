@@ -1,12 +1,13 @@
 {
-	"dblpkey": "conf/pepm/ConselPW93",
-	"type": "inproceedings",
-	"title": "Incremental Partial Evaluation: The Key to High Performance, Modularity and Portability in Operating Systems",
-	"url": "db/conf/pepm/pepm93.html#ConselPW93",
 	"author": ["Charles Consel", "Calton Pu", "Jonathan Walpole"],
-	"year": "1993",
-	"pages": "44-46",
+	"booktitle": "Proceedings of the Third Symposium on Partial Evaluation and Semantics-Based Program Manipulation",
 	"crossref": "conf/pepm/1993",
+	"dblpkey": "conf/pepm/ConselPW93",
 	"ee": "http://doi.acm.org/10.1145/154630.154635",
-	"booktitle": "PEPM"
+	"pages": "44-46",
+	"title": "Incremental Partial Evaluation: The Key to High Performance, Modularity and Portability in Operating Systems",
+	"type": "inproceedings",
+	"url": "db/conf/pepm/pepm93.html#ConselPW93",
+	"venue": "PEPM",
+	"year": 1993
 }

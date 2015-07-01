@@ -1,12 +1,13 @@
 {
-	"type": "inproceedings",
+	"author": ["Leon Evers", "Jan Kuper"],
+	"booktitle": "Proceedings of the 14th Symposium on Partial Evaluation and Semantics-Based Program Manipulation",
+	"crossref": "conf/pepm/2009",
+	"dblpkey": "conf/pepm/EversK09",
 	"ee": "http://doi.acm.org/10.1145/1480945.1480956",
 	"pages": "73-80",
-	"crossref": "conf/pepm/2009",
-	"booktitle": "PEPM",
-	"url": "db/conf/pepm/pepm2009.html#EversK09",
 	"title": "Partially evaluated sensor networks: automatic specialization for heterogeneous wireless sensor & actuator networks",
-	"year": "2009",
-	"dblpkey": "conf/pepm/EversK09",
-	"author": ["Leon Evers", "Jan Kuper"]
+	"type": "inproceedings",
+	"url": "db/conf/pepm/pepm2009.html#EversK09",
+	"venue": "PEPM",
+	"year": 2009
 }

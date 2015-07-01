@@ -1,12 +1,13 @@
 {
-	"type": "inproceedings",
+	"author": ["Yukiyoshi Kameyama", "Oleg Kiselyov", "Chung-chieh Shan"],
+	"booktitle": "Proceedings of the 14th Symposium on Partial Evaluation and Semantics-Based Program Manipulation",
+	"crossref": "conf/pepm/2009",
+	"dblpkey": "conf/pepm/KameyamaKS09",
 	"ee": "http://doi.acm.org/10.1145/1480945.1480962",
 	"pages": "111-120",
-	"crossref": "conf/pepm/2009",
-	"booktitle": "PEPM",
-	"url": "db/conf/pepm/pepm2009.html#KameyamaKS09",
 	"title": "Shifting the stage: staging with delimited control",
-	"year": "2009",
-	"dblpkey": "conf/pepm/KameyamaKS09",
-	"author": ["Yukiyoshi Kameyama", "Oleg Kiselyov", "Chung-chieh Shan"]
+	"type": "inproceedings",
+	"url": "db/conf/pepm/pepm2009.html#KameyamaKS09",
+	"venue": "PEPM",
+	"year": 2009
 }

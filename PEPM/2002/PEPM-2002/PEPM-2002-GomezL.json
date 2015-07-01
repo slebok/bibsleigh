@@ -1,12 +1,13 @@
 {
-	"booktitle": "PEPM",
+	"author": ["Gustavo Gomez", "Yanhong A. Liu"],
+	"booktitle": "Proceedings of the Eighth Workshop on Partial Evaluation and Semantics-Based Program Manipulation",
 	"crossref": "conf/pepm/2002",
 	"dblpkey": "conf/pepm/GomezL02",
-	"title": "Automatic time-bound analysis for a higher-order language",
-	"year": "2002",
-	"author": ["Gustavo Gomez", "Yanhong A. Liu"],
-	"url": "db/conf/pepm/pepm2002.html#GomezL02",
-	"pages": "75-86",
 	"ee": "http://doi.acm.org/10.1145/503032.503039",
-	"type": "inproceedings"
+	"pages": "75-86",
+	"title": "Automatic time-bound analysis for a higher-order language",
+	"type": "inproceedings",
+	"url": "db/conf/pepm/pepm2002.html#GomezL02",
+	"venue": "PEPM",
+	"year": 2002
 }
