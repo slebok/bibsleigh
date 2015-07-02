@@ -1,4 +1,9 @@
 {
 	"name": "glr",
-	"matchword": ["sglr", "riglr", "brnglr", "glr"]
+	"namefull": "GLR",
+	"namelong": "generalised LR parsing",
+	"g": "generalised LR",
+	"matchword": ["sglr", "riglr", "brnglr", "glr"],
+	"matchsub": ["generalised lr", "generalized lr"],
+	"relieves": ["lr"]
 }
