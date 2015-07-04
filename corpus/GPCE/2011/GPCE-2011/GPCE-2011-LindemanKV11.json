@@ -1,12 +1,14 @@
 {
-	"url": "db/conf/gpce/gpce2011.html#LindemanKV11",
+	"author": ["Ricky T. Lindeman", "Lennart C. L. Kats", "Eelco Visser"],
+	"booktitle": "Proceedings of the 10th International Conference on Generative Programming and Component Engineering",
+	"crossref": "conf/gpce/2011",
 	"dblpkey": "conf/gpce/LindemanKV11",
+	"doi": "10.1145/2047862.2047885",
+	"ee": "http://doi.acm.org/10.1145/2047862.2047885",
+	"pages": "127-136",
+	"tag": ["domain-specific language"],
 	"title": "Declaratively defining domain-specific language debuggers",
 	"type": "inproceedings",
-	"author": ["Ricky T. Lindeman", "Lennart C. L. Kats", "Eelco Visser"],
-	"year": "2011",
-	"ee": "http://doi.acm.org/10.1145/2047862.2047885",
-	"booktitle": "GPCE",
-	"crossref": "conf/gpce/2011",
-	"pages": "127-136"
+	"venue": "GPCE",
+	"year": 2011
 }

@@ -1,12 +1,14 @@
 {
-	"year": "2007",
-	"type": "inproceedings",
-	"booktitle": "GPCE",
-	"title": "Debugging macros",
-	"ee": "http://doi.acm.org/10.1145/1289971.1289994",
-	"crossref": "conf/gpce/2007",
-	"url": "db/conf/gpce/gpce2007.html#CulpepperF07",
-	"pages": "135-144",
 	"author": ["Ryan Culpepper", "Matthias Felleisen"],
-	"dblpkey": "conf/gpce/CulpepperF07"
+	"booktitle": "Proceedings of the Sixth International Conference on Generative Programming and Component Engineering",
+	"crossref": "conf/gpce/2007",
+	"dblpkey": "conf/gpce/CulpepperF07",
+	"doi": "10.1145/1289971.1289994",
+	"ee": "http://doi.acm.org/10.1145/1289971.1289994",
+	"pages": "135-144",
+	"tag": ["debugging", "metaprogramming"],
+	"title": "Debugging macros",
+	"type": "inproceedings",
+	"venue": "GPCE",
+	"year": 2007
 }

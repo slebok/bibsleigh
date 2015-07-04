@@ -1,12 +1,14 @@
 {
-	"type": "inproceedings",
+	"author": ["Thomas Thüm", "Ina Schaefer", "Martin Hentschel", "Sven Apel"],
+	"booktitle": "Proceedings of the 11th International Conference on Generative Programming and Component Engineering",
+	"crossref": "conf/gpce/2012",
 	"dblpkey": "conf/gpce/ThumSHA12",
-	"url": "db/conf/gpce/gpce2012.html#ThumSHA12",
-	"booktitle": "GPCE",
-	"title": "Family-based deductive verification of software product lines",
-	"author": ["Thomas Thüm", "Ina Schaefer", "Martin Hentschel 0002", "Sven Apel"],
-	"pages": "11-20",
-	"year": "2012",
+	"doi": "10.1145/2371401.2371404",
 	"ee": "http://doi.acm.org/10.1145/2371401.2371404",
-	"crossref": "conf/gpce/2012"
+	"pages": "11-20",
+	"tag": ["product line", "verification"],
+	"title": "Family-based deductive verification of software product lines",
+	"type": "inproceedings",
+	"venue": "GPCE",
+	"year": 2012
 }

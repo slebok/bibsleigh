@@ -1,12 +1,14 @@
 {
-	"url": "db/conf/gpce/gpce2011.html#NystromWD11",
+	"author": ["Nathaniel Nystrom", "Derek White", "Kishen Das"],
+	"booktitle": "Proceedings of the 10th International Conference on Generative Programming and Component Engineering",
+	"crossref": "conf/gpce/2011",
 	"dblpkey": "conf/gpce/NystromWD11",
+	"doi": "10.1145/2047862.2047883",
+	"ee": "http://doi.acm.org/10.1145/2047862.2047883",
+	"pages": "107-116",
+	"tag": ["compilation", "runtime", "scala"],
 	"title": "Firepile: run-time compilation for GPUs in scala",
 	"type": "inproceedings",
-	"author": ["Nathaniel Nystrom", "Derek White", "Kishen Das"],
-	"year": "2011",
-	"ee": "http://doi.acm.org/10.1145/2047862.2047883",
-	"booktitle": "GPCE",
-	"crossref": "conf/gpce/2011",
-	"pages": "107-116"
+	"venue": "GPCE",
+	"year": 2011
 }
