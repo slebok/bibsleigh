@@ -9,7 +9,10 @@
 		]},
 		{"ATEM":
 		[
-			{ "ATEM'03": "SLE/2003/ATEM-2003/*" },
+			{ "ATEM'03": [
+					"SANER/2003/WCRE-2003/WCRE-2003-FavreGW",
+					"SLE/2003/ATEM-2003/*"
+				]},
 			{ "ATEM'04": "SLE/2004/ATEM-2004/*" },
 			{ "ATEM'06": "SLE/2006/ATEM-2006/*" },
 			{ "ATEM'06 Special Issue": "SLE/2006/ATEM-2006-SI/*" },
@@ -52,6 +55,13 @@
 			{ "LDTA'11 Special Issue": "SLE/2011/LDTA-2011-SI/*" },
 			{ "LDTA'12": "SLE/2012/LDTA-2012/*" }
 		]},
+		{"GTTSE":
+		[
+			{ "GTTSE'05": "GTTSE/2005/GTTSE-2005/*" },
+			{ "GTTSE'07": "GTTSE/2007/GTTSE-2007/*" },
+			{ "GTTSE'09": "GTTSE/2009/GTTSE-2009/*" },
+			{ "GTTSE'11": "GTTSE/2011/GTTSE-2011/*" }
+		]},
 		{"SLE":
 		[
 			{ "SLE'08": "SLE/2008/SLE-2008/*" },
@@ -62,6 +72,11 @@
 			{ "SLE'12 Special Issue": "SLE/2012/SLE-2012-SI/*" },
 			{ "SLE'13": "SLE/2013/SLE-2013/*" },
 			{ "SLE'14": "SLE/2014/SLE-2014/*" }
+		]},
+		{"OOPSLE":
+		[
+			{"OOPSLE'13": "SANER/2013/WCRE-2013/WCRE-2013-BaggeZ" },
+			{"OOPSLE'14": "SANER/2014/CSMR-WCRE-2014/CSMR-WCRE-2014-BaggeZ" }
 		]}
 	]
 }
