@@ -1,12 +1,13 @@
 {
-	"type": "inproceedings",
-	"dblpkey": "conf/tools/ChristensenDHST99",
-	"crossref": "conf/tools/32-1999",
-	"ee": ["http://dx.doi.org/10.1109/TOOLS.1999.809410", "http://doi.ieeecomputersociety.org/10.1109/TOOLS.1999.809410"],
-	"year": "1999",
-	"title": "Design and Evolution of Software Architecture in Practice",
-	"url": "db/conf/tools/tools32-1999.html#ChristensenDHST99",
+	"author": ["Michael Christensen", "Christian Heide Damm", "Klaus Marius Hansen", "Elmer Sandvad", "Michael Thomsen"],
 	"booktitle": "TOOLS (32)",
+	"crossref": "conf/tools/32-1999",
+	"dblpkey": "conf/tools/ChristensenDHST99",
+	"ee": ["http://dx.doi.org/10.1109/TOOLS.1999.809410", "http://doi.ieeecomputersociety.org/10.1109/TOOLS.1999.809410"],
 	"pages": "2-15",
-	"author": ["Michael Christensen", "Christian Heide Damm", "Klaus Marius Hansen", "Elmer Sandvad", "Michael Thomsen"]
+	"tag": ["architecture", "design", "evolution"],
+	"title": "Design and Evolution of Software Architecture in Practice",
+	"type": "inproceedings",
+	"venue": "TOOLS",
+	"year": 1999
 }

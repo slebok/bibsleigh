@@ -1,12 +1,14 @@
 {
-	"crossref": "conf/tools/50-2012",
-	"type": "inproceedings",
-	"title": "Identifying a Unifying Mechanism for the Implementation of Concurrency Abstractions on Multi-language Virtual Machines",
+	"author": ["Stefan Marr", "Theo D'Hondt"],
 	"booktitle": "TOOLS (50)",
-	"url": "db/conf/tools/tools50-2012.html#MarrD12",
+	"crossref": "conf/tools/50-2012",
+	"dblpkey": "conf/tools/MarrD12",
+	"doi": "10.1007/978-3-642-30561-0_13",
 	"ee": "http://dx.doi.org/10.1007/978-3-642-30561-0_13",
 	"pages": "171-186",
-	"year": "2012",
-	"dblpkey": "conf/tools/MarrD12",
-	"author": ["Stefan Marr", "Theo D'Hondt"]
+	"tag": ["abstraction", "concurrent", "implementation", "virtual machine"],
+	"title": "Identifying a Unifying Mechanism for the Implementation of Concurrency Abstractions on Multi-language Virtual Machines",
+	"type": "inproceedings",
+	"venue": "TOOLS",
+	"year": 2012
 }

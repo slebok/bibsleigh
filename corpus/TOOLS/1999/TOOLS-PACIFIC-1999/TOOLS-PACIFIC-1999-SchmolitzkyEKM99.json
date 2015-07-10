@@ -1,12 +1,13 @@
 {
-	"type": "inproceedings",
-	"dblpkey": "conf/tools/SchmolitzkyEKM99",
-	"crossref": "conf/tools/32-1999",
-	"ee": ["http://dx.doi.org/10.1109/TOOLS.1999.809426", "http://doi.ieeecomputersociety.org/10.1109/TOOLS.1999.809426"],
-	"year": "1999",
-	"title": "How Can Covariance in Pragmatical Class Methods be Made Statically Type-Safe?",
-	"url": "db/conf/tools/tools32-1999.html#SchmolitzkyEKM99",
+	"author": ["Axel Schmolitzky", "Mark Evered", "James Leslie Keedy", "Gisela Menger"],
 	"booktitle": "TOOLS (32)",
+	"crossref": "conf/tools/32-1999",
+	"dblpkey": "conf/tools/SchmolitzkyEKM99",
+	"ee": ["http://dx.doi.org/10.1109/TOOLS.1999.809426", "http://doi.ieeecomputersociety.org/10.1109/TOOLS.1999.809426"],
 	"pages": "200-209",
-	"author": ["Axel Schmolitzky", "Mark Evered", "James Leslie Keedy", "Gisela Menger"]
+	"tag": ["question", "type safety"],
+	"title": "How Can Covariance in Pragmatical Class Methods be Made Statically Type-Safe?",
+	"type": "inproceedings",
+	"venue": "TOOLS",
+	"year": 1999
 }

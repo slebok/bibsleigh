@@ -1,12 +1,13 @@
 {
-	"type": "inproceedings",
 	"author": ["J.-L. Chen", "F.-J. Wang", "Y.-L. Chen"],
-	"year": "1997",
-	"dblpkey": "conf/tools/ChenWC97",
-	"pages": "121-130",
-	"title": "An Object-Oriented Dependency Graph for Program Slicing",
+	"booktitle": "TOOLS (24)",
 	"crossref": "conf/tools/24-1997",
-	"url": "db/conf/tools/tools24-1997.html#ChenWC97",
+	"dblpkey": "conf/tools/ChenWC97",
 	"ee": ["http://dx.doi.org/10.1109/TOOLS.1997.713535", "http://doi.ieeecomputersociety.org/10.1109/TOOLS.1997.713535"],
-	"booktitle": "TOOLS (24)"
+	"pages": "121-130",
+	"tag": ["dependence", "graph", "object-oriented", "slicing"],
+	"title": "An Object-Oriented Dependency Graph for Program Slicing",
+	"type": "inproceedings",
+	"venue": "TOOLS",
+	"year": 1997
 }

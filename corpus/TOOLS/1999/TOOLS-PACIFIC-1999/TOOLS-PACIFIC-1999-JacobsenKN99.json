@@ -1,12 +1,13 @@
 {
-	"type": "inproceedings",
-	"dblpkey": "conf/tools/JacobsenKN99",
-	"crossref": "conf/tools/32-1999",
-	"ee": ["http://dx.doi.org/10.1109/TOOLS.1999.809417", "http://doi.ieeecomputersociety.org/10.1109/TOOLS.1999.809417"],
-	"year": "1999",
-	"title": "Architecture = Abstractions over Software",
-	"url": "db/conf/tools/tools32-1999.html#JacobsenKN99",
+	"author": ["Eyðun Eli Jacobsen", "Bent Bruun Kristensen", "Palle Nowack"],
 	"booktitle": "TOOLS (32)",
+	"crossref": "conf/tools/32-1999",
+	"dblpkey": "conf/tools/JacobsenKN99",
+	"ee": ["http://dx.doi.org/10.1109/TOOLS.1999.809417", "http://doi.ieeecomputersociety.org/10.1109/TOOLS.1999.809417"],
 	"pages": "89-",
-	"author": ["Eyðun Eli Jacobsen", "Bent Bruun Kristensen", "Palle Nowack"]
+	"tag": ["abstraction", "architecture"],
+	"title": "Architecture = Abstractions over Software",
+	"type": "inproceedings",
+	"venue": "TOOLS",
+	"year": 1999
 }

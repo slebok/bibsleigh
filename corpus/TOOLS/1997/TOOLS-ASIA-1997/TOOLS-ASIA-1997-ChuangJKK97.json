@@ -1,12 +1,13 @@
 {
-	"type": "inproceedings",
 	"author": ["Tyng-Ruey Chuang", "Chuan-Chieh Jung", "Wen-Min Kuan", "Y. S. Kuo"],
-	"year": "1997",
-	"dblpkey": "conf/tools/ChuangJKK97",
-	"pages": "70-79",
-	"title": "ObjectStream: Generating Stream-Based Object I/O for C++",
+	"booktitle": "TOOLS (24)",
 	"crossref": "conf/tools/24-1997",
-	"url": "db/conf/tools/tools24-1997.html#ChuangJKK97",
+	"dblpkey": "conf/tools/ChuangJKK97",
 	"ee": ["http://dx.doi.org/10.1109/TOOLS.1997.713529", "http://doi.ieeecomputersociety.org/10.1109/TOOLS.1997.713529"],
-	"booktitle": "TOOLS (24)"
+	"pages": "70-79",
+	"tag": ["c++", "generative", "named"],
+	"title": "ObjectStream: Generating Stream-Based Object I/O for C++",
+	"type": "inproceedings",
+	"venue": "TOOLS",
+	"year": 1997
 }

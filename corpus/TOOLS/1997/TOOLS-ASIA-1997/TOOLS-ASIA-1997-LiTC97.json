@@ -1,12 +1,13 @@
 {
-	"type": "inproceedings",
-	"author": ["Wei Li 0014", "John R. Talburt", "Y.-T. Chen"],
-	"year": "1997",
-	"dblpkey": "conf/tools/LiTC97",
-	"pages": "362-367",
-	"title": "Quantitatively Evaluate Object Oriented Software Evolution",
+	"author": ["Wei Li", "John R. Talburt", "Y.-T. Chen"],
+	"booktitle": "TOOLS (24)",
 	"crossref": "conf/tools/24-1997",
-	"url": "db/conf/tools/tools24-1997.html#LiTC97",
+	"dblpkey": "conf/tools/LiTC97",
 	"ee": ["http://dx.doi.org/10.1109/TOOLS.1997.713564", "http://doi.ieeecomputersociety.org/10.1109/TOOLS.1997.713564"],
-	"booktitle": "TOOLS (24)"
+	"pages": "362-367",
+	"tag": ["evolution", "object-oriented"],
+	"title": "Quantitatively Evaluate Object Oriented Software Evolution",
+	"type": "inproceedings",
+	"venue": "TOOLS",
+	"year": 1997
 }

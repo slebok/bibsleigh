@@ -1,12 +1,13 @@
 {
-	"type": "inproceedings",
-	"dblpkey": "conf/tools/MurrayCMS99",
-	"crossref": "conf/tools/32-1999",
-	"ee": ["http://dx.doi.org/10.1109/TOOLS.1999.809428", "http://doi.ieeecomputersociety.org/10.1109/TOOLS.1999.809428"],
-	"year": "1999",
-	"title": "TinMan - A Test Derivation and Management Tool for Specification-Based Class Testing",
-	"url": "db/conf/tools/tools32-1999.html#MurrayCMS99",
+	"author": ["Leesa Murray", "David A. Carrington", "Ian MacColl", "Paul A. Strooper"],
 	"booktitle": "TOOLS (32)",
+	"crossref": "conf/tools/32-1999",
+	"dblpkey": "conf/tools/MurrayCMS99",
+	"ee": ["http://dx.doi.org/10.1109/TOOLS.1999.809428", "http://doi.ieeecomputersociety.org/10.1109/TOOLS.1999.809428"],
 	"pages": "222-233",
-	"author": ["Leesa Murray", "David A. Carrington", "Ian MacColl", "Paul A. Strooper"]
+	"tag": ["testing"],
+	"title": "TinMan — A Test Derivation and Management Tool for Specification-Based Class Testing",
+	"type": "inproceedings",
+	"venue": "TOOLS",
+	"year": 1999
 }

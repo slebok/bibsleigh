@@ -1,12 +1,13 @@
 {
-	"type": "inproceedings",
 	"author": ["D. Thompson", "D. Watkins"],
-	"year": "1997",
-	"dblpkey": "conf/tools/ThompsonW97",
-	"pages": "278-283",
-	"title": "Comparisons between CORBA and DCOM: Architectures for Distributed Computing",
+	"booktitle": "TOOLS (24)",
 	"crossref": "conf/tools/24-1997",
-	"url": "db/conf/tools/tools24-1997.html#ThompsonW97",
+	"dblpkey": "conf/tools/ThompsonW97",
 	"ee": ["http://dx.doi.org/10.1109/TOOLS.1997.713554", "http://doi.ieeecomputersociety.org/10.1109/TOOLS.1997.713554"],
-	"booktitle": "TOOLS (24)"
+	"pages": "278-283",
+	"tag": ["architecture", "distributed"],
+	"title": "Comparisons between CORBA and DCOM: Architectures for Distributed Computing",
+	"type": "inproceedings",
+	"venue": "TOOLS",
+	"year": 1997
 }

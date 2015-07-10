@@ -1,12 +1,13 @@
 {
-	"type": "inproceedings",
-	"year": "1998",
 	"author": ["Chi Keen Low", "Tsong Yueh Chen"],
 	"booktitle": "TOOLS (28)",
-	"title": "CDFA: A Testing System for C++",
-	"url": "db/conf/tools/tools28-1998.html#LowC98",
-	"dblpkey": "conf/tools/LowC98",
 	"crossref": "conf/tools/28-1998",
+	"dblpkey": "conf/tools/LowC98",
 	"ee": ["http://dx.doi.org/10.1109/TOOLS.1998.750037", "http://doi.ieeecomputersociety.org/10.1109/TOOLS.1998.750037"],
-	"pages": "216-228"
+	"pages": "216-228",
+	"tag": ["c++", "named", "testing"],
+	"title": "CDFA: A Testing System for C++",
+	"type": "inproceedings",
+	"venue": "TOOLS",
+	"year": 1998
 }
