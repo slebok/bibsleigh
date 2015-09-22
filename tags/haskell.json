@@ -1,7 +1,8 @@
 {
 	"name": "haskell",
 	"namefull": "Haskell",
-	"matchword": ["haskell", "ghc"],
+	"matchsub": ["haskell"],
+	"matchword": ["ghc", "hlint"],
 	"hwiki": "Haskell",
 	"www": "haskell.org",
 	"en.wp": "Haskell (programming language)",
