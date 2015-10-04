@@ -1,4 +1,5 @@
 {
 	"name": "parallel",
-	"matchword": ["parallelism", "parallelisation", "parallelization", "parallel"]
+	"matchword": ["parallelism", "parallelisation", "parallelization", "parallel", "multithreaded"],
+	"relieves": ["multi"]
 }
