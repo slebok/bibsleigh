@@ -1,4 +1,5 @@
 {
+	"address": ["Rouen", "", "France"],
 	"booktitle": "WIA",
 	"dblpkey": "conf/wia/1998",
 	"editor": ["Jean-Marc Champarnaud", "Denis Maurel", "Djelloul Ziadi"],
@@ -7,6 +8,10 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
+	"tagged": [["automaton", 12],
+		["implementation", 3],
+		["algorithm", 2],
+		["parsing", 2]],
 	"title": "Automata Implementation, Third International Workshop on Implementing Automata, WIA'98, Rouen, France, September 17-19, 1998, Revised Papers",
 	"type": "proceedings",
 	"volume": 1660,

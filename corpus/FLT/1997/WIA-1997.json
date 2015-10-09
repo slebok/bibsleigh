@@ -1,4 +1,5 @@
 {
+	"address": ["London", "Ontario", "Canada"],
 	"booktitle": "WIA",
 	"dblpkey": "conf/wia/1997",
 	"editor": ["Derick Wood", "Sheng Yu"],
@@ -7,6 +8,12 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
+	"tagged": [["automaton", 12],
+		["implementation", 4],
+		["performance", 4],
+		["regular expression", 3],
+		["transducer", 2],
+		["named", 2]],
 	"title": "Automata Implementation, Second International Workshop on Implementing Automata, WIA '97, London, Ontario, Canada, September 18-20, 1997, Revised Papers",
 	"type": "proceedings",
 	"volume": 1436,

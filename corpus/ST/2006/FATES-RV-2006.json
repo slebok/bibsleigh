@@ -1,4 +1,5 @@
 {
+	"address": ["Seattle", "Washington", "USA"],
 	"booktitle": "FATES/RV",
 	"dblpkey": "conf/fates/2006",
 	"editor": ["Klaus Havelund", "Manuel Núñez", "Grigore Rosu", "Burkhart Wolff"],
@@ -7,6 +8,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
+	"tagged": [["testing", 9],
+		["modelling", 5],
+		["generative", 3],
+		["aspect-oriented", 2],
+		["framework", 2]],
 	"title": "Revised Selected Papers of the Sixth International Workshop on Formal Approaches to Testing of Software and International Workshop on Runtime Verification",
 	"type": "proceedings",
 	"venue": "FATES",

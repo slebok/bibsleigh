@@ -1,4 +1,5 @@
 {
+	"address": ["Oxford", "England", "United Kingdom"],
 	"booktitle": "TestCom",
 	"dblpkey": "conf/pts/2004",
 	"editor": ["Roland Groz", "Robert M. Hierons"],
@@ -7,6 +8,10 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
+	"tagged": [["testing", 9],
+		["multi", 3],
+		["uml", 2],
+		["validation", 2]],
 	"title": "Proceedings of the 16th International Conference on Testing of Communicating Systems",
 	"type": "proceedings",
 	"venue": "ICTSS",

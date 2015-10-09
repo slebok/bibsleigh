@@ -1,4 +1,5 @@
 {
+	"address": ["Sophia Antipolis", "", "France"],
 	"booktitle": "TestCom",
 	"dblpkey": "conf/pts/2003",
 	"editor": ["Dieter Hogrefe", "Anthony Wiles"],
@@ -7,6 +8,12 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
+	"tagged": [["testing", 12],
+		["distributed", 3],
+		["fault", 2],
+		["architecture", 2],
+		["consistency", 2],
+		["framework", 2]],
 	"title": "Proceedings of the 15th International Conference on Testing of Communicating Systems",
 	"type": "proceedings",
 	"venue": "ICTSS",

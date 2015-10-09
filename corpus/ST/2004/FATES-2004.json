@@ -1,4 +1,5 @@
 {
+	"address": ["Linz", "", "Austria"],
 	"booktitle": "FATES",
 	"dblpkey": "conf/fates/2004",
 	"editor": ["Jens Grabowski", "Brian Nielsen"],
@@ -7,6 +8,12 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
+	"tagged": [["testing", 11],
+		["generative", 5],
+		["realtime", 3],
+		["model checking", 2],
+		["specification", 2],
+		["component", 2]],
 	"title": "Revised Selected Papers of the Fourth International Workshop on Formal Approaches to Testing of Software and International Workshop on Runtime Verification",
 	"type": "proceedings",
 	"venue": "FATES",
