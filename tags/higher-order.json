@@ -2,5 +2,6 @@
 	"name": "higher-order",
 	"matchword": ["higher-order", "second-order", "third-order"],
 	"matchsub": ["higher order", "second order", "third order", "higher dimensional"],
+	"matchsensitive": "wHOLe",
 	"matchsubexact": ["hol-testgen", "isabelle/hol"]
 }
