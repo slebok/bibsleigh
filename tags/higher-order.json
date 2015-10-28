@@ -1,7 +1,8 @@
 {
 	"name": "higher-order",
-	"matchword": ["higher-order", "second-order", "third-order"],
-	"matchsub": ["higher order", "second order", "third order", "higher dimensional"],
+	"matchword": ["higher-order", "second-order", "third-order", "high-order"],
+	"matchsub": ["higher order", "second order", "third order", "higher dimensional", "high order"],
 	"matchsensitive": "wHOLe",
-	"matchsubexact": ["hol-testgen", "isabelle/hol"]
+	"matchsubexact": ["hol-testgen", "isabelle/hol", "order-2"],
+	"relieves": "order"
 }
