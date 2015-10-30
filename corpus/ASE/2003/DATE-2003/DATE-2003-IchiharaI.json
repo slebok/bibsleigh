@@ -1,12 +1,18 @@
 {
+	"acmid": 1022909,
 	"author": ["Hideyuki Ichihara", "Tomoo Inoue"],
 	"booktitle": "DATE",
 	"crossref": "conf/date/2003",
 	"dblpkey": "conf/date/IchiharaI03",
+	"doi": "10.1109/DATE.2003.10057",
 	"ee": ["http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10057", "http://dl.acm.org/citation.cfm?id=1022909"],
 	"pages": "11180-11181",
+	"publisher": "IEEE Computer Society",
+	"publishershort": "IEEE CS",
+	"stemmed": ["test", "generat", "for", "acycl", "sequenti", "circuit", "with", "singl", "stuck", "at", "fault", "combin", "atpg"],
+	"tag": ["fault", "generative", "testing"],
 	"title": "Test Generation for Acyclic Sequential Circuits with Single Stuck-at Fault Combinational ATPG",
 	"type": "inproceedings",
-	"url": "db/conf/date/date2003.html#IchiharaI03",
-	"year": "2003"
+	"venue": "DATE",
+	"year": 2003
 }
