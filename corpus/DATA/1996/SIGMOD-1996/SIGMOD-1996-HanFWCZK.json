@@ -1,14 +1,15 @@
 {
-	"author": ["Jiawei Han", "Yongjian Fu", "Wei Wang 0009", "Jenny Chiang", "Osmar R. Zaïane", "Krzysztof Koperski"],
+	"author": ["Jiawei Han", "Yongjian Fu", "Wei Wang", "Jenny Chiang", "Osmar R. Zaïane", "Krzysztof Koperski"],
 	"booktitle": "SIGMOD Conference",
 	"cdrom": "SIGMOD96/P550.PDF",
 	"cite": ["journals/tkde/HanCC93", "conf/vldb/HanF95", "..."],
 	"crossref": "conf/sigmod/96",
 	"dblpkey": "conf/sigmod/HanFWCZK96",
 	"ee": "http://doi.acm.org/10.1145/233269.280356",
-	"pages": "550",
+	"pages": 550,
+	"stemmed": ["db", "miner", "interact", "mine", "of", "multipl", "level", "knowledg", "in", "relat", "databas"],
 	"title": "DBMiner: Interactive Mining of Multiple-Level Knowledge in Relational Databases",
 	"type": "inproceedings",
 	"url": "db/conf/sigmod/sigmod96.html#HanFWCZK96",
-	"year": "1996"
+	"year": 1996
 }

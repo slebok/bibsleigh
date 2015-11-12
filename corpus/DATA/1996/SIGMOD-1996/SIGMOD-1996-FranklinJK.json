@@ -1,5 +1,5 @@
 {
-	"author": ["Michael J. Franklin", "Björn Þór Jónsson 0001", "Donald Kossmann"],
+	"author": ["Michael J. Franklin", "Björn Þór Jónsson", "Donald Kossmann"],
 	"booktitle": "SIGMOD Conference",
 	"cdrom": "SIGMOD96/P149.PDF",
 	"cite": ["...", "conf/sigmod/CareyDFHMNSSTTWZ94", "books/mk/Cattell94", "conf/sigmod/CareyL86", "conf/vldb/DeWittFMV90", "books/kl/Franklin96", "conf/sigmod/GangulyHK92", "journals/csur/Graefe93", "...", "journals/tods/HagmannF86", "conf/sigmod/IoannidisK90", "conf/edbt/JenqWKL90", "...", "conf/sigmod/Kulkarni94", "conf/vldb/LuC85", "conf/vldb/LanzelotteVZ93", "conf/vldb/MackertL86", "journals/cj/MartinLR90", "conf/sigmetrics/PatelCV94", "journals/debu/RoussopoulosCKDP95", "conf/sigmod/SelingerACLP79", "...", "conf/icde/StonebrakerADLO94", "conf/pdis/SrivastavaE93", "journals/tods/Shapiro86"],
@@ -7,8 +7,9 @@
 	"dblpkey": "conf/sigmod/FranklinJK96",
 	"ee": "http://doi.acm.org/10.1145/233269.233328",
 	"pages": "149-160",
+	"stemmed": ["perform", "tradeoff", "for", "client", "server", "queri", "process"],
 	"title": "Performance Tradeoffs for Client-Server Query Processing",
 	"type": "inproceedings",
 	"url": "db/conf/sigmod/sigmod96.html#FranklinJK96",
-	"year": "1996"
+	"year": 1996
 }

@@ -1,5 +1,5 @@
 {
-	"author": ["Ashish Gupta 0001", "Jennifer Widom"],
+	"author": ["Ashish Gupta", "Jennifer Widom"],
 	"booktitle": "SIGMOD Conference",
 	"cdrom": "SIGMOD93/P049.PDF",
 	"cite": ["journals/tods/BlakeleyCL89", "conf/vldb/BernsteinBC80", "conf/sigmod/BernsteinB82", "conf/edbt/BarbardG92", "...", "conf/lpar/BryMM91", "...", "journals/tse/CeriG85", "books/mg/CeriP84", "conf/pods/Chandra88", "...", "conf/pods/Elkan90", "journals/jacm/Fagin82", "conf/deductive/GuptaU92", "...", "conf/vldb/KowalskiSS87", "conf/dood/Kuchenhoff91", "journals/jlp/LloydST87", "journals/acta/Nicolas82", "books/ph/OzsuV91", "books/cs/Ullman88", "books/cs/Ullman89", "journals/tods/GelderT91"],
@@ -7,8 +7,9 @@
 	"dblpkey": "conf/sigmod/GuptaW93",
 	"ee": "http://doi.acm.org/10.1145/170035.170048",
 	"pages": "49-58",
+	"stemmed": ["local", "verif", "of", "global", "integr", "constraint", "in", "distribut", "databas"],
 	"title": "Local Verification of Global Integrity Constraints in Distributed Databases",
 	"type": "inproceedings",
 	"url": "db/conf/sigmod/sigmod93.html#GuptaW93",
-	"year": "1993"
+	"year": 1993
 }
