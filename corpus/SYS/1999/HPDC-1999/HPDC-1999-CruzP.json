@@ -1,12 +1,18 @@
 {
 	"author": ["John Cruz", "Kihong Park"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the Eighth International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/1999",
 	"dblpkey": "conf/hpdc/CruzP99",
+	"doi": "10.1109/HPDC.1999.805311",
 	"ee": ["http://dx.doi.org/10.1109/HPDC.1999.805311", "http://doi.ieeecomputersociety.org/10.1109/HPDC.1999.805311"],
 	"pages": "309-318",
+	"publisher": "IEEE Computer Society",
+	"publishershort": "IEEE CS",
+	"stemmed": ["dune", "a", "perform", "orient", "system", "support", "environ", "for", "depend", "mainten", "in", "workstat", "network"],
+	"tag": ["dependence", "maintenance", "named", "network"],
 	"title": "DUNES: A Performance-Oriented System Support Environment for Dependency Maintenance in Workstation Networks",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc1999.html#CruzP99",
-	"year": "1999"
+	"venue": "HPDC",
+	"year": 1999
 }

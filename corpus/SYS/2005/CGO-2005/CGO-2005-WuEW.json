@@ -1,12 +1,18 @@
 {
+	"acmid": 1048985,
 	"author": ["Peng Wu", "Alexandre E. Eichenberger", "Amy Wang"],
 	"booktitle": "CGO",
 	"crossref": "conf/cgo/2005",
 	"dblpkey": "conf/cgo/WuEW05",
+	"doi": "10.1109/CGO.2005.18",
 	"ee": ["http://dx.doi.org/10.1109/CGO.2005.18", "http://doi.ieeecomputersociety.org/10.1109/CGO.2005.18", "http://dl.acm.org/citation.cfm?id=1048985"],
 	"pages": "153-164",
+	"publisher": "IEEE Computer Society",
+	"publishershort": "IEEE CS",
+	"stemmed": ["effici", "simd", "code", "generat", "for", "runtim", "align", "and", "length", "convers"],
+	"tag": ["code generation", "performance", "runtime"],
 	"title": "Efficient SIMD Code Generation for Runtime Alignment and Length Conversion",
 	"type": "inproceedings",
-	"url": "db/conf/cgo/cgo2005.html#WuEW05",
-	"year": "2005"
+	"venue": "CGO",
+	"year": 2005
 }

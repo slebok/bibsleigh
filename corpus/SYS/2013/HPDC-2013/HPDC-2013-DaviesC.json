@@ -1,12 +1,17 @@
 {
 	"author": ["Teresa Davies", "Zizhong Chen"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 22nd International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2013",
 	"dblpkey": "conf/hpdc/DaviesC13",
+	"doi": "10.1145/2462902.2462920",
 	"ee": "http://doi.acm.org/10.1145/2462902.2462920",
 	"pages": "167-178",
+	"publisher": "ACM",
+	"stemmed": ["correct", "soft", "error", "onlin", "in", "lu", "factor"],
+	"tag": ["fault", "online"],
 	"title": "Correcting soft errors online in LU factorization",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2013.html#DaviesC13",
-	"year": "2013"
+	"venue": "HPDC",
+	"year": 2013
 }

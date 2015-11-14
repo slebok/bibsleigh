@@ -1,12 +1,17 @@
 {
 	"author": ["Kai Xiao", "Danny Ziyi Chen", "Xiaobo Sharon Hu", "Bo Zhou"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 24th International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2015",
 	"dblpkey": "conf/hpdc/XiaoCHZ15",
+	"doi": "10.1145/2749246.2749271",
 	"ee": "http://doi.acm.org/10.1145/2749246.2749271",
 	"pages": "247-258",
+	"publisher": "ACM",
+	"stemmed": ["mont", "carlo", "base", "ray", "trace", "in", "cpu", "gpu", "heterogen", "system", "and", "applic", "in", "radiat", "therapi"],
+	"tag": ["cpu", "gpu", "monte carlo"],
 	"title": "Monte Carlo Based Ray Tracing in CPU-GPU Heterogeneous Systems and Applications in Radiation Therapy",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2015.html#XiaoCHZ15",
-	"year": "2015"
+	"venue": "HPDC",
+	"year": 2015
 }

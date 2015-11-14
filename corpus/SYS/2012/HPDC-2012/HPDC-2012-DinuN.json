@@ -1,12 +1,17 @@
 {
 	"author": ["Florin Dinu", "T. S. Eugene Ng"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2012",
 	"dblpkey": "conf/hpdc/DinuN12",
+	"doi": "10.1145/2287076.2287108",
 	"ee": "http://doi.acm.org/10.1145/2287076.2287108",
 	"pages": "187-198",
+	"publisher": "ACM",
+	"stemmed": ["understand", "the", "effect", "and", "implic", "of", "comput", "node", "relat", "failur", "in", "hadoop"],
+	"tag": ["comprehension"],
 	"title": "Understanding the effects and implications of compute node related failures in hadoop",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2012.html#DinuN12",
-	"year": "2012"
+	"venue": "HPDC",
+	"year": 2012
 }

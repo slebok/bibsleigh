@@ -1,12 +1,18 @@
 {
 	"author": ["Patrick W. Dowd", "James A. Perreault", "John C. Chu", "D. C. Hoffmeister", "D. Crouse"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the Fourth International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/1995",
 	"dblpkey": "conf/hpdc/DowdPCHC95",
+	"doi": "10.1109/HPDC.1995.518713",
 	"ee": ["http://dx.doi.org/10.1109/HPDC.1995.518713", "http://doi.ieeecomputersociety.org/10.1109/HPDC.1995.518713"],
 	"pages": "220-229",
+	"publisher": "IEEE Computer Society",
+	"publishershort": "IEEE CS",
+	"stemmed": ["lightn", "a", "scalabl", "dynam", "reconfigur", "hierarch", "wdm", "network", "for", "high", "perform", "cluster"],
+	"tag": ["clustering", "configuration management", "named", "network", "scalability"],
 	"title": "LIGHTNING: A Scalable Dynamically Reconfigurable Hierarchical WDM Network for High-Performance Clustering",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc1995.html#DowdPCHC95",
-	"year": "1995"
+	"venue": "HPDC",
+	"year": 1995
 }

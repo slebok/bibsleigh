@@ -1,12 +1,18 @@
 {
-	"author": ["Michal Cierniak", "Wei Li 0015", "Mohammed Javeed Zaki"],
-	"booktitle": "HPDC",
+	"author": ["Michal Cierniak", "Wei Li", "Mohammed Javeed Zaki"],
+	"booktitle": "Proceedings of the Fourth International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/1995",
 	"dblpkey": "conf/hpdc/CierniakLZ95",
+	"doi": "10.1109/HPDC.1995.518697",
 	"ee": ["http://dx.doi.org/10.1109/HPDC.1995.518697", "http://doi.ieeecomputersociety.org/10.1109/HPDC.1995.518697"],
 	"pages": "78-85",
+	"publisher": "IEEE Computer Society",
+	"publishershort": "IEEE CS",
+	"stemmed": ["loop", "schedul", "for", "heterogen"],
+	"tag": ["scheduling"],
 	"title": "Loop Scheduling for Heterogeneity",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc1995.html#CierniakLZ95",
-	"year": "1995"
+	"venue": "HPDC",
+	"year": 1995
 }

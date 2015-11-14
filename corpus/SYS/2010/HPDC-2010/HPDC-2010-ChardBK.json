@@ -1,12 +1,17 @@
 {
 	"author": ["Kyle Chard", "Kris Bubendorfer", "Peter Komisarczuk"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 19th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2010",
 	"dblpkey": "conf/hpdc/ChardBK10",
+	"doi": "10.1145/1851476.1851486",
 	"ee": "http://doi.acm.org/10.1145/1851476.1851486",
 	"pages": "73-84",
+	"publisher": "ACM",
+	"stemmed": ["high", "occup", "resourc", "alloc", "for", "grid", "and", "cloud", "system", "a", "studi", "with", "drive"],
+	"tag": ["case study", "grid", "resource management"],
 	"title": "High occupancy resource allocation for grid and cloud systems, a study with DRIVE",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2010.html#ChardBK10",
-	"year": "2010"
+	"venue": "HPDC",
+	"year": 2010
 }

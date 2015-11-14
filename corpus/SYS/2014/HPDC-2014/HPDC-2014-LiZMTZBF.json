@@ -1,12 +1,17 @@
 {
 	"author": ["Min Li", "Liangzhao Zeng", "Shicong Meng", "Jian Tan", "Li Zhang", "Ali Raza Butt", "Nicholas Fuller"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 23rd International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2014",
 	"dblpkey": "conf/hpdc/LiZMTZBF14",
+	"doi": "10.1145/2600212.2600229",
 	"ee": "http://doi.acm.org/10.1145/2600212.2600229",
 	"pages": "165-176",
+	"publisher": "ACM",
+	"stemmed": ["mronlin", "map", "reduc", "onlin", "perform", "tune"],
+	"tag": ["named", "online", "performance", "pipes and filters"],
 	"title": "MRONLINE: MapReduce online performance tuning",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2014.html#LiZMTZBF14",
-	"year": "2014"
+	"venue": "HPDC",
+	"year": 2014
 }

@@ -1,12 +1,18 @@
 {
 	"author": ["Dmitry N. Zotkin", "Peter J. Keleher"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the Eighth International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/1999",
 	"dblpkey": "conf/hpdc/ZotkinK99",
+	"doi": "10.1109/HPDC.1999.805303",
 	"ee": ["http://dx.doi.org/10.1109/HPDC.1999.805303", "http://doi.ieeecomputersociety.org/10.1109/HPDC.1999.805303"],
 	"pages": "236-243",
+	"publisher": "IEEE Computer Society",
+	"publishershort": "IEEE CS",
+	"stemmed": ["job", "length", "estim", "and", "perform", "in", "backfil", "schedul"],
+	"tag": ["estimation", "performance"],
 	"title": "Job-Length Estimation and Performance in Backfilling Schedulers",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc1999.html#ZotkinK99",
-	"year": "1999"
+	"venue": "HPDC",
+	"year": 1999
 }

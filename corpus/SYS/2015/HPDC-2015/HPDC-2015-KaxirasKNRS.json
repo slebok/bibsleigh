@@ -1,12 +1,17 @@
 {
 	"author": ["Stefanos Kaxiras", "David Klaftenegger", "Magnus Norgren", "Alberto Ros", "Konstantinos F. Sagonas"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 24th International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2015",
 	"dblpkey": "conf/hpdc/KaxirasKNRS15",
+	"doi": "10.1145/2749246.2749250",
 	"ee": "http://doi.acm.org/10.1145/2749246.2749250",
 	"pages": "3-14",
+	"publisher": "ACM",
+	"stemmed": ["turn", "central", "coher", "and", "distribut", "critic", "section", "execut", "on", "their", "head", "a", "new", "approach", "for", "scalabl", "distribut", "share", "memori"],
+	"tag": ["approach", "distributed", "execution", "memory management", "scalability"],
 	"title": "Turning Centralized Coherence and Distributed Critical-Section Execution on their Head: A New Approach for Scalable Distributed Shared Memory",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2015.html#KaxirasKNRS15",
-	"year": "2015"
+	"venue": "HPDC",
+	"year": 2015
 }

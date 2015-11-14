@@ -1,12 +1,17 @@
 {
 	"author": ["Davide Pasetto", "Massimiliano Meneghin", "Hubertus Franke", "Fabrizio Petrini", "Jimi Xenidis"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2012",
 	"dblpkey": "conf/hpdc/PasettoMFPX12",
+	"doi": "10.1145/2287076.2287098",
 	"ee": "http://doi.acm.org/10.1145/2287076.2287098",
 	"pages": "131-132",
-	"title": "Performance evaluation of interthread communicationmechanisms on multicore/multithreaded architectures",
+	"publisher": "ACM",
+	"stemmed": ["perform", "evalu", "of", "interthread", "communic", "mechan", "on", "multicor", "multithread", "architectur"],
+	"tag": ["architecture", "communication", "evaluation", "manycore", "parallel", "performance", "thread"],
+	"title": "Performance evaluation of interthread communication mechanisms on multicore/multithreaded architectures",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2012.html#PasettoMFPX12",
-	"year": "2012"
+	"venue": "HPDC",
+	"year": 2012
 }

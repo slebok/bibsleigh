@@ -1,12 +1,17 @@
 {
 	"author": ["Borja Sotomayor", "Kate Keahey", "Ian T. Foster"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 17th International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2008",
 	"dblpkey": "conf/hpdc/SotomayorKF08",
+	"doi": "10.1145/1383422.1383434",
 	"ee": "http://doi.acm.org/10.1145/1383422.1383434",
 	"pages": "87-96",
+	"publisher": "ACM",
+	"stemmed": ["combin", "batch", "execut", "and", "leas", "use", "virtual", "machin"],
+	"tag": ["execution", "using", "virtual machine"],
 	"title": "Combining batch execution and leasing using virtual machines",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2008.html#SotomayorKF08",
-	"year": "2008"
+	"venue": "HPDC",
+	"year": 2008
 }

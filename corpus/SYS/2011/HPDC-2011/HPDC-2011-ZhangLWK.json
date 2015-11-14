@@ -1,12 +1,17 @@
 {
 	"author": ["Yuanrui Zhang", "Jun Liu", "Ellis Herbert Wilson", "Mahmut T. Kandemir"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 20th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2011",
 	"dblpkey": "conf/hpdc/ZhangLWK11",
+	"doi": "10.1145/1996130.1996175",
 	"ee": "http://doi.acm.org/10.1145/1996130.1996175",
 	"pages": "281-282",
+	"publisher": "ACM",
+	"stemmed": ["softwar", "direct", "data", "access", "schedul", "for", "reduc", "disk", "energi", "consumpt"],
+	"tag": ["data access", "energy", "scheduling"],
 	"title": "Software-directed data access scheduling for reducing disk energy consumption",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2011.html#ZhangLWK11",
-	"year": "2011"
+	"venue": "HPDC",
+	"year": 2011
 }

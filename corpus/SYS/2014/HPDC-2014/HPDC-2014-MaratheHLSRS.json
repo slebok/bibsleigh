@@ -1,12 +1,17 @@
 {
 	"author": ["Aniruddha Marathe", "Rachel Harris", "David K. Lowenthal", "Bronis R. de Supinski", "Barry Rountree", "Martin Schulz"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 23rd International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2014",
 	"dblpkey": "conf/hpdc/MaratheHLSRS14",
+	"doi": "10.1145/2600212.2600226",
 	"ee": "http://doi.acm.org/10.1145/2600212.2600226",
 	"pages": "279-290",
+	"publisher": "ACM",
+	"stemmed": ["exploit", "redund", "for", "cost", "effect", "time", "constrain", "execut", "of", "hpc", "applic", "on", "amazon", "ec"],
+	"tag": ["effectiveness", "execution"],
 	"title": "Exploiting redundancy for cost-effective, time-constrained execution of HPC applications on amazon EC2",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2014.html#MaratheHLSRS14",
-	"year": "2014"
+	"venue": "HPDC",
+	"year": 2014
 }

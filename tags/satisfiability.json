@@ -1,4 +1,8 @@
 {
 	"name": "satisfiability",
-	"matchsub": ["satisfiab"]
+	"fullname": "SAT",
+	"longname": "SAT (Satisfiability)",
+	"matchword": ["sat", "sat-based", "k-sat", "max-sat", "maxsat", "min-sat", "minsat", "k-naesat", "xorsat"],
+	"matchsubexact": ["2-sat", "3-sat"],
+	"matchsub": ["abstract satisfaction", "satisfiab"]
 }

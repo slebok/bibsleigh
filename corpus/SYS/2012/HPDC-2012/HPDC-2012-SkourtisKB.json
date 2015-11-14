@@ -1,12 +1,17 @@
 {
 	"author": ["Dimitris Skourtis", "Shinpei Kato", "Scott A. Brandt"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2012",
 	"dblpkey": "conf/hpdc/SkourtisKB12",
+	"doi": "10.1145/2287076.2287087",
 	"ee": "http://doi.acm.org/10.1145/2287076.2287087",
 	"pages": "73-84",
+	"publisher": "ACM",
+	"stemmed": ["q", "box", "guarante", "i", "o", "perform", "on", "black", "box", "storag", "system"],
+	"tag": ["named", "performance"],
 	"title": "QBox: guaranteeing I/O performance on black box storage systems",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2012.html#SkourtisKB12",
-	"year": "2012"
+	"venue": "HPDC",
+	"year": 2012
 }

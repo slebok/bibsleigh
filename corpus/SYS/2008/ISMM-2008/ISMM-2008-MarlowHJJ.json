@@ -1,12 +1,16 @@
 {
-	"author": ["Simon Marlow", "Tim Harris 0001", "Roshan P. James", "Simon L. Peyton Jones"],
+	"author": ["Simon Marlow", "Tim Harris", "Roshan P. James", "Simon L. Peyton Jones"],
 	"booktitle": "ISMM",
 	"crossref": "conf/iwmm/2008",
 	"dblpkey": "conf/iwmm/MarlowHJJ08",
+	"doi": "10.1145/1375634.1375637",
 	"ee": "http://doi.acm.org/10.1145/1375634.1375637",
 	"pages": "11-20",
+	"publisher": "ACM",
+	"stemmed": ["parallel", "generat", "copi", "garbag", "collect", "with", "a", "block", "structur", "heap"],
+	"tag": ["garbage collection", "parallel"],
 	"title": "Parallel generational-copying garbage collection with a block-structured heap",
 	"type": "inproceedings",
-	"url": "db/conf/iwmm/ismm2008.html#MarlowHJJ08",
-	"year": "2008"
+	"venue": "ISMM",
+	"year": 2008
 }

@@ -1,12 +1,17 @@
 {
 	"author": ["Yutaka Kawai", "Go Iwai", "Takashi Sasaki", "Yoshiyuki Watase"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 19th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2010",
 	"dblpkey": "conf/hpdc/KawaiISW10",
+	"doi": "10.1145/1851476.1851568",
 	"ee": "http://doi.acm.org/10.1145/1851476.1851568",
 	"pages": "622-626",
+	"publisher": "ACM",
+	"stemmed": ["saga", "base", "file", "access", "applic", "over", "multi", "filesystem", "middlewar"],
+	"tag": ["middleware", "multi"],
 	"title": "SAGA-based file access application over multi-filesystem middleware",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2010.html#KawaiISW10",
-	"year": "2010"
+	"venue": "HPDC",
+	"year": 2010
 }

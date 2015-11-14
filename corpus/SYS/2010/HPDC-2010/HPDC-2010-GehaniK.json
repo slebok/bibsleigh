@@ -1,12 +1,17 @@
 {
 	"author": ["Ashish Gehani", "Minyoung Kim"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 19th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2010",
 	"dblpkey": "conf/hpdc/GehaniK10",
+	"doi": "10.1145/1851476.1851503",
 	"ee": "http://doi.acm.org/10.1145/1851476.1851503",
 	"pages": "227-239",
+	"publisher": "ACM",
+	"stemmed": ["mendel", "effici", "verifi", "the", "lineag", "of", "data", "modifi", "in", "multipl", "trust", "domain"],
+	"tag": ["multi", "named", "trust", "verification"],
 	"title": "Mendel: efficiently verifying the lineage of data modified in multiple trust domains",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2010.html#GehaniK10",
-	"year": "2010"
+	"venue": "HPDC",
+	"year": 2010
 }

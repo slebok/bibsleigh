@@ -1,12 +1,18 @@
 {
+	"acmid": 1545048,
 	"author": ["Michael F. Spear", "Maged M. Michael", "Michael L. Scott", "Peng Wu"],
 	"booktitle": "CGO",
 	"crossref": "conf/cgo/2009",
 	"dblpkey": "conf/cgo/SpearMSW09",
+	"doi": "10.1109/CGO.2009.30",
 	"ee": ["http://dx.doi.org/10.1109/CGO.2009.30", "http://doi.ieeecomputersociety.org/10.1109/CGO.2009.30", "http://dl.acm.org/citation.cfm?id=1545048"],
 	"pages": "13-24",
+	"publisher": "IEEE Computer Society",
+	"publishershort": "IEEE CS",
+	"stemmed": ["reduc", "memori", "order", "overhead", "in", "softwar", "transact", "memori"],
+	"tag": ["memory management", "transaction"],
 	"title": "Reducing Memory Ordering Overheads in Software Transactional Memory",
 	"type": "inproceedings",
-	"url": "db/conf/cgo/cgo2009.html#SpearMSW09",
-	"year": "2009"
+	"venue": "CGO",
+	"year": 2009
 }

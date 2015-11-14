@@ -1,12 +1,17 @@
 {
 	"author": ["Thomas Ilsche", "Joseph Schuchart", "Jason Cope", "Dries Kimpe", "Terry Jones", "Andreas Knüpfer", "Kamil Iskra", "Robert B. Ross", "Wolfgang E. Nagel", "Stephen Poole"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2012",
 	"dblpkey": "conf/hpdc/IlscheSCKJKIRNP12",
+	"doi": "10.1145/2287076.2287085",
 	"ee": "http://doi.acm.org/10.1145/2287076.2287085",
 	"pages": "49-60",
+	"publisher": "ACM",
+	"stemmed": ["enabl", "event", "trace", "at", "leadership", "class", "scale", "through", "i", "o", "forward", "middlewar"],
+	"tag": ["middleware"],
 	"title": "Enabling event tracing at leadership-class scale through I/O forwarding middleware",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2012.html#IlscheSCKJKIRNP12",
-	"year": "2012"
+	"venue": "HPDC",
+	"year": 2012
 }

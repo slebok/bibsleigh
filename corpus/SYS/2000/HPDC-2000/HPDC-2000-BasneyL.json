@@ -1,12 +1,18 @@
 {
 	"author": ["Jim Basney", "Miron Livny"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the Ninth International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2000",
 	"dblpkey": "conf/hpdc/BasneyL00",
+	"doi": "10.1109/HPDC.2000.868666",
 	"ee": ["http://dx.doi.org/10.1109/HPDC.2000.868666", "http://doi.ieeecomputersociety.org/10.1109/HPDC.2000.868666"],
 	"pages": "298-299",
+	"publisher": "IEEE Computer Society",
+	"publishershort": "IEEE CS",
+	"stemmed": ["manag", "network", "resourc", "in", "condor"],
+	"tag": ["network"],
 	"title": "Managing Network Resources in Condor",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2000.html#BasneyL00",
-	"year": "2000"
+	"venue": "HPDC",
+	"year": 2000
 }

@@ -1,12 +1,17 @@
 {
-	"author": ["Jian Tan", "Xiaoqiao Meng", "Li Zhang 0002"],
-	"booktitle": "HPDC",
+	"author": ["Jian Tan", "Xiaoqiao Meng", "Li Zhang"],
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2012",
 	"dblpkey": "conf/hpdc/TanMZ12",
+	"doi": "10.1145/2287076.2287097",
 	"ee": "http://doi.acm.org/10.1145/2287076.2287097",
 	"pages": "129-130",
+	"publisher": "ACM",
+	"stemmed": ["coupl", "schedul", "for", "map", "reduc", "hadoop"],
+	"tag": ["pipes and filters"],
 	"title": "Coupling scheduler for MapReduce/Hadoop",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2012.html#TanMZ12",
-	"year": "2012"
+	"venue": "HPDC",
+	"year": 2012
 }

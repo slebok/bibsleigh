@@ -1,12 +1,17 @@
 {
 	"author": ["Ben Perry", "D. Martin Swany"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 19th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2010",
 	"dblpkey": "conf/hpdc/PerryS10",
+	"doi": "10.1145/1851476.1851528",
 	"ee": "http://doi.acm.org/10.1145/1851476.1851528",
 	"pages": "352-355",
+	"publisher": "ACM",
+	"stemmed": ["improv", "mpi", "communic", "via", "data", "type", "fission"],
+	"tag": ["communication", "data type"],
 	"title": "Improving MPI communication via data type fission",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2010.html#PerryS10",
-	"year": "2010"
+	"venue": "HPDC",
+	"year": 2010
 }

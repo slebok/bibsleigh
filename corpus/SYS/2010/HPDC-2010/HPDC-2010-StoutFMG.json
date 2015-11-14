@@ -1,12 +1,17 @@
 {
 	"author": ["Lance Stout", "Michael Fenn", "Michael A. Murphy", "Sebastien Goasguen"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 19th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2010",
 	"dblpkey": "conf/hpdc/StoutFMG10",
+	"doi": "10.1145/1851476.1851578",
 	"ee": "http://doi.acm.org/10.1145/1851476.1851578",
 	"pages": "692-698",
+	"publisher": "ACM",
+	"stemmed": ["scale", "virtual", "organ", "cluster", "over", "a", "wide", "area", "network", "use", "the", "kestrel", "workload", "manag", "system"],
+	"tag": ["clustering", "network", "scalability", "using"],
 	"title": "Scaling virtual organization clusters over a wide area network using the Kestrel workload management system",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2010.html#StoutFMG10",
-	"year": "2010"
+	"venue": "HPDC",
+	"year": 2010
 }

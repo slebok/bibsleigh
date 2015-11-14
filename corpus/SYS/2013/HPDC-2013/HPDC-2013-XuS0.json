@@ -1,12 +1,17 @@
 {
-	"author": ["Yiqi Xu", "Adrian Suarez", "Ming Zhao 0002"],
-	"booktitle": "HPDC",
+	"author": ["Yiqi Xu", "Adrian Suarez", "Ming Zhao"],
+	"booktitle": "Proceedings of the 22nd International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2013",
 	"dblpkey": "conf/hpdc/XuS013",
+	"doi": "10.1145/2462902.2462922",
 	"ee": "http://doi.acm.org/10.1145/2462902.2462922",
 	"pages": "109-110",
+	"publisher": "ACM",
+	"stemmed": ["ibi", "interpos", "big", "data", "i", "o", "schedul"],
+	"tag": ["big data", "named"],
 	"title": "IBIS: interposed big-data I/O scheduler",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2013.html#XuS013",
-	"year": "2013"
+	"venue": "HPDC",
+	"year": 2013
 }

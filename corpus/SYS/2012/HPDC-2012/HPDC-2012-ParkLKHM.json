@@ -1,12 +1,17 @@
 {
 	"author": ["Jongse Park", "DaeWoo Lee", "Bokyeong Kim", "Jaehyuk Huh", "Seungryoul Maeng"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2012",
 	"dblpkey": "conf/hpdc/ParkLKHM12",
+	"doi": "10.1145/2287076.2287082",
 	"ee": "http://doi.acm.org/10.1145/2287076.2287082",
 	"pages": "27-36",
+	"publisher": "ACM",
+	"stemmed": ["local", "awar", "dynam", "vm", "reconfigur", "on", "map", "reduc", "cloud"],
+	"tag": ["configuration management", "pipes and filters", "virtual machine"],
 	"title": "Locality-aware dynamic VM reconfiguration on MapReduce clouds",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2012.html#ParkLKHM12",
-	"year": "2012"
+	"venue": "HPDC",
+	"year": 2012
 }

@@ -1,12 +1,17 @@
 {
 	"author": ["Alexandros Batsakis", "Randal C. Burns"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 14th International Symposium on High Performance Parallel and Distributed Computing",
 	"crossref": "conf/hpdc/2005",
 	"dblpkey": "conf/hpdc/BatsakisB05",
+	"doi": "10.1109/HPDC.2005.1520942",
 	"ee": ["http://dx.doi.org/10.1109/HPDC.2005.1520942", "http://doi.ieeecomputersociety.org/10.1109/HPDC.2005.1520942"],
 	"pages": "100-109",
+	"publisher": "IEEE Computer Society",
+	"publishershort": "IEEE CS",
+	"stemmed": ["cluster", "deleg", "high", "perform", "fault", "toler", "data", "share", "in", "nfs"],
+	"tag": ["clustering", "fault tolerance"],
 	"title": "Cluster delegation: high-performance, fault-tolerant data sharing in NFS",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2005.html#BatsakisB05",
-	"year": "2005"
+	"venue": "HPDC",
+	"year": 2005
 }

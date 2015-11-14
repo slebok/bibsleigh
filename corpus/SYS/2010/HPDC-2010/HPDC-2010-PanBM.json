@@ -1,12 +1,17 @@
 {
 	"author": ["Jie Pan", "Yann Le Biannic", "Frédéric Magoulès"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 19th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2010",
 	"dblpkey": "conf/hpdc/PanBM10",
+	"doi": "10.1145/1851476.1851599",
 	"ee": "http://doi.acm.org/10.1145/1851476.1851599",
 	"pages": "856-863",
+	"publisher": "ACM",
+	"stemmed": ["parallel", "multipl", "group", "by", "queri", "in", "share", "noth", "environ", "a", "map", "reduc", "studi", "case"],
+	"tag": ["multi", "pipes and filters", "query"],
 	"title": "Parallelizing multiple group-by query in share-nothing environment: a MapReduce study case",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2010.html#PanBM10",
-	"year": "2010"
+	"venue": "HPDC",
+	"year": 2010
 }

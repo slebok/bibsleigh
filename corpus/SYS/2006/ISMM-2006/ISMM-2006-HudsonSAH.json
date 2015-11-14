@@ -3,10 +3,14 @@
 	"booktitle": "ISMM",
 	"crossref": "conf/iwmm/2006",
 	"dblpkey": "conf/iwmm/HudsonSAH06",
+	"doi": "10.1145/1133956.1133967",
 	"ee": "http://doi.acm.org/10.1145/1133956.1133967",
 	"pages": "74-83",
+	"publisher": "ACM",
+	"stemmed": ["mc", "rt", "malloc", "a", "scalabl", "transact", "memori", "alloc"],
+	"tag": ["memory management", "named", "scalability", "transaction"],
 	"title": "McRT-Malloc: a scalable transactional memory allocator",
 	"type": "inproceedings",
-	"url": "db/conf/iwmm/ismm2006.html#HudsonSAH06",
-	"year": "2006"
+	"venue": "ISMM",
+	"year": 2006
 }

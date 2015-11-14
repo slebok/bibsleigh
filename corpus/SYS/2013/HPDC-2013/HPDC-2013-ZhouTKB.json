@@ -1,12 +1,17 @@
 {
 	"author": ["Bowen Zhou", "Jonathan Too", "Milind Kulkarni", "Saurabh Bagchi"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 22nd International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2013",
 	"dblpkey": "conf/hpdc/ZhouTKB13",
+	"doi": "10.1145/2462902.2462907",
 	"ee": "http://doi.acm.org/10.1145/2462902.2462907",
 	"pages": "131-142",
+	"publisher": "ACM",
+	"stemmed": ["wu", "kong", "automat", "detect", "and", "local", "bug", "that", "manifest", "at", "larg", "system", "scale"],
+	"tag": ["automation", "debugging", "detection", "named", "scalability"],
 	"title": "WuKong: automatically detecting and localizing bugs that manifest at large system scales",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2013.html#ZhouTKB13",
-	"year": "2013"
+	"venue": "HPDC",
+	"year": 2013
 }

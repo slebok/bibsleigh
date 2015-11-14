@@ -1,12 +1,17 @@
 {
 	"author": ["Chang Bae", "Lei Xia", "Peter A. Dinda", "John R. Lange"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2012",
 	"dblpkey": "conf/hpdc/BaeXDL12",
+	"doi": "10.1145/2287076.2287114",
 	"ee": "http://doi.acm.org/10.1145/2287076.2287114",
 	"pages": "247-258",
+	"publisher": "ACM",
+	"stemmed": ["dynam", "adapt", "virtual", "core", "map", "to", "improv", "power", "energi", "and", "perform", "in", "multi", "socket", "multicor"],
+	"tag": ["adaptation", "energy", "multi", "performance"],
 	"title": "Dynamic adaptive virtual core mapping to improve power, energy, and performance in multi-socket multicores",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2012.html#BaeXDL12",
-	"year": "2012"
+	"venue": "HPDC",
+	"year": 2012
 }

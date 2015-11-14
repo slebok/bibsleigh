@@ -1,12 +1,17 @@
 {
 	"author": ["Zacharia Fadika", "Elif Dede", "Madhusudhan Govindaraju", "Lavanya Ramakrishnan"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 20th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2011",
 	"dblpkey": "conf/hpdc/FadikaDGR11",
+	"doi": "10.1145/1996130.1996166",
 	"ee": "http://doi.acm.org/10.1145/1996130.1996166",
 	"pages": "263-264",
+	"publisher": "ACM",
+	"stemmed": ["adapt", "map", "reduc", "for", "hpc", "environ"],
+	"tag": ["adaptation", "pipes and filters"],
 	"title": "Adapting MapReduce for HPC environments",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2011.html#FadikaDGR11",
-	"year": "2011"
+	"venue": "HPDC",
+	"year": 2011
 }

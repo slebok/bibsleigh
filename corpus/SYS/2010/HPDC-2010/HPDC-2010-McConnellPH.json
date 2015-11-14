@@ -1,12 +1,17 @@
 {
 	"author": ["Christopher McConnell", "Fan Ping", "Jeong-Hyon Hwang"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 19th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2010",
 	"dblpkey": "conf/hpdc/McConnellPH10",
+	"doi": "10.1145/1851476.1851584",
 	"ee": "http://doi.acm.org/10.1145/1851476.1851584",
 	"pages": "737-745",
+	"publisher": "ACM",
+	"stemmed": ["detour", "and", "replic", "for", "fast", "and", "reliabl", "internet", "scale", "stream", "process"],
+	"tag": ["performance", "replication"],
 	"title": "Detouring and replication for fast and reliable internet-scale stream processing",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2010.html#McConnellPH10",
-	"year": "2010"
+	"venue": "HPDC",
+	"year": 2010
 }

@@ -1,12 +1,17 @@
 {
 	"author": ["Cong Xu", "Sahan Gamage", "Pawan N. Rao", "Ardalan Kangarlou", "Ramana Rao Kompella", "Dongyan Xu"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2012",
 	"dblpkey": "conf/hpdc/XuGRKKX12",
+	"doi": "10.1145/2287076.2287080",
 	"ee": "http://doi.acm.org/10.1145/2287076.2287080",
 	"pages": "3-14",
+	"publisher": "ACM",
+	"stemmed": ["vslicer", "latenc", "awar", "virtual", "machin", "schedul", "via", "differenti", "frequenc", "cpu", "slice"],
+	"tag": ["cpu", "named", "scheduling", "slicing", "virtual machine"],
 	"title": "vSlicer: latency-aware virtual machine scheduling via differentiated-frequency CPU slicing",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2012.html#XuGRKKX12",
-	"year": "2012"
+	"venue": "HPDC",
+	"year": 2012
 }

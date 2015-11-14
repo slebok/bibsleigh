@@ -1,12 +1,17 @@
 {
 	"author": ["Diana Moise", "Gabriel Antoniu", "Luc Bougé"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 19th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2010",
 	"dblpkey": "conf/hpdc/MoiseAB10",
+	"doi": "10.1145/1851476.1851596",
 	"ee": "http://doi.acm.org/10.1145/1851476.1851596",
 	"pages": "834-840",
+	"publisher": "ACM",
+	"stemmed": ["improv", "the", "hadoop", "map", "reduc", "framework", "to", "support", "concurr", "append", "through", "the", "blob", "seer", "blob", "manag", "system"],
+	"tag": ["concurrent", "framework"],
 	"title": "Improving the Hadoop map/reduce framework to support concurrent appends through the BlobSeer BLOB management system",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2010.html#MoiseAB10",
-	"year": "2010"
+	"venue": "HPDC",
+	"year": 2010
 }

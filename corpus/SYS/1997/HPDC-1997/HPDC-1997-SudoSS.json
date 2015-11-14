@@ -1,12 +1,18 @@
 {
 	"author": ["Yoshiaki Sudo", "Shigeo Suzuki", "Shigeki Shibayama"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the Sixth International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/1997",
 	"dblpkey": "conf/hpdc/SudoSS97",
+	"doi": "10.1109/HPDC.1997.626444",
 	"ee": "http://doi.ieeecomputersociety.org/10.1109/HPDC.1997.626444",
 	"pages": "356-364",
+	"publisher": "IEEE Computer Society",
+	"publishershort": "IEEE CS",
+	"stemmed": ["distribut", "thread", "schedul", "method", "for", "reduc", "page", "thrash"],
+	"tag": ["scheduling", "thread"],
 	"title": "Distributed-Thread Scheduling Methods for Reducing Page-Thrashing",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc1997.html#SudoSS97",
-	"year": "1997"
+	"venue": "HPDC",
+	"year": 1997
 }

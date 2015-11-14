@@ -1,12 +1,17 @@
 {
 	"author": ["Fábio Coutinho", "Eduardo S. Ogasawara", "Daniel de Oliveira", "Vanessa P. Braganholo", "Alexandre A. B. Lima", "Alberto M. R. Dávila", "Marta Mattoso"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 19th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2010",
 	"dblpkey": "conf/hpdc/CoutinhoOOBLDM10",
+	"doi": "10.1145/1851476.1851550",
 	"ee": "http://doi.acm.org/10.1145/1851476.1851550",
 	"pages": "507-515",
+	"publisher": "ACM",
+	"stemmed": ["data", "parallel", "in", "bioinformat", "workflow", "use", "hydra"],
+	"tag": ["parallel", "using", "workflow"],
 	"title": "Data parallelism in bioinformatics workflows using Hydra",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2010.html#CoutinhoOOBLDM10",
-	"year": "2010"
+	"venue": "HPDC",
+	"year": 2010
 }

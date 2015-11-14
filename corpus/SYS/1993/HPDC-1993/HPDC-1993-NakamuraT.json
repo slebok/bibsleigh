@@ -1,12 +1,17 @@
 {
 	"author": ["Akihito Nakamura", "Makoto Takizawa"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the Second International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/1993",
 	"dblpkey": "conf/hpdc/NakamuraT93",
+	"doi": "10.1109/HPDC.1993.263832",
 	"ee": "http://dx.doi.org/10.1109/HPDC.1993.263832",
 	"pages": "281-288",
+	"publisher": "IEEE",
+	"stemmed": ["starvat", "prevent", "prioriti", "base", "total", "order", "broadcast", "protocol", "on", "high", "speed", "singl", "channel", "network"],
+	"tag": ["network", "performance", "protocol"],
 	"title": "Starvation-Prevented Priority-Based Total Ordering Broadcast Protocol on High-Speed Single Channel Network",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc1993.html#NakamuraT93",
-	"year": "1993"
+	"venue": "HPDC",
+	"year": 1993
 }

@@ -1,12 +1,16 @@
 {
 	"author": ["Joshua Hursey", "Timothy Mattox", "Andrew Lumsdaine"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 18th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2009",
 	"dblpkey": "conf/hpdc/HurseyML09",
+	"doi": "10.1145/1551609.1551619",
 	"ee": "http://doi.acm.org/10.1145/1551609.1551619",
 	"pages": "49-58",
+	"publisher": "ACM",
+	"stemmed": ["interconnect", "agnost", "checkpoint", "restart", "in", "open", "mpi"],
 	"title": "Interconnect agnostic checkpoint/restart in open MPI",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2009.html#HurseyML09",
-	"year": "2009"
+	"venue": "HPDC",
+	"year": 2009
 }

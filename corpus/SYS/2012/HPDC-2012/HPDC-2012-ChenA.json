@@ -1,12 +1,17 @@
 {
 	"author": ["Linchuan Chen", "Gagan Agrawal"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2012",
 	"dblpkey": "conf/hpdc/ChenA12",
+	"doi": "10.1145/2287076.2287109",
 	"ee": "http://doi.acm.org/10.1145/2287076.2287109",
 	"pages": "199-210",
+	"publisher": "ACM",
+	"stemmed": ["optim", "map", "reduc", "for", "gpus", "with", "effect", "share", "memori", "usag"],
+	"tag": ["effectiveness", "memory management", "optimisation", "pipes and filters"],
 	"title": "Optimizing MapReduce for GPUs with effective shared memory usage",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2012.html#ChenA12",
-	"year": "2012"
+	"venue": "HPDC",
+	"year": 2012
 }

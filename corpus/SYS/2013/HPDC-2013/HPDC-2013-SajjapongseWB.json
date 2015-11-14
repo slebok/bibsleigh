@@ -1,12 +1,17 @@
 {
 	"author": ["Kittisak Sajjapongse", "Xiang Wang", "Michela Becchi"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 22nd International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2013",
 	"dblpkey": "conf/hpdc/SajjapongseWB13",
+	"doi": "10.1145/2462902.2462911",
 	"ee": "http://doi.acm.org/10.1145/2462902.2462911",
 	"pages": "179-190",
+	"publisher": "ACM",
+	"stemmed": ["a", "preemption", "base", "runtim", "to", "effici", "schedul", "multi", "process", "applic", "on", "heterogen", "cluster", "with", "gpus"],
+	"tag": ["clustering", "multi", "runtime"],
 	"title": "A preemption-based runtime to efficiently schedule multi-process applications on heterogeneous clusters with GPUs",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2013.html#SajjapongseWB13",
-	"year": "2013"
+	"venue": "HPDC",
+	"year": 2013
 }

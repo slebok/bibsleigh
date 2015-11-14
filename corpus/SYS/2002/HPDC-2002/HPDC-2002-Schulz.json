@@ -1,12 +1,18 @@
 {
 	"author": "Martin Schulz",
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 11th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2002",
 	"dblpkey": "conf/hpdc/Schulz02",
+	"doi": "10.1109/HPDC.2002.1029911",
 	"ee": ["http://dx.doi.org/10.1109/HPDC.2002.1029911", "http://doi.ieeecomputersociety.org/10.1109/HPDC.2002.1029911"],
 	"pages": "135-142",
+	"publisher": "IEEE Computer Society",
+	"publishershort": "IEEE CS",
+	"stemmed": ["use", "semant", "inform", "to", "guid", "effici", "parallel", "i", "o", "on", "cluster"],
+	"tag": ["clustering", "parallel", "performance", "semantics", "using"],
 	"title": "Using Semantic Information to Guide Efficient Parallel I/O on Clusters",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2002.html#Schulz02",
-	"year": "2002"
+	"venue": "HPDC",
+	"year": 2002
 }

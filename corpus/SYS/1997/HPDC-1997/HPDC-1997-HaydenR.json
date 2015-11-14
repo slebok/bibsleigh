@@ -1,12 +1,18 @@
 {
 	"author": ["Mark Hayden", "Robbert van Renesse"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the Sixth International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/1997",
 	"dblpkey": "conf/hpdc/HaydenR97",
+	"doi": "10.1109/HPDC.1997.626686",
 	"ee": ["http://dx.doi.org/10.1109/HPDC.1997.626686", "http://doi.ieeecomputersociety.org/10.1109/HPDC.1997.626686"],
 	"pages": "169-177",
+	"publisher": "IEEE Computer Society",
+	"publishershort": "IEEE CS",
+	"stemmed": ["optim", "layer", "communic", "protocol"],
+	"tag": ["communication", "optimisation", "protocol"],
 	"title": "Optimizing Layered Communication Protocols",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc1997.html#HaydenR97",
-	"year": "1997"
+	"venue": "HPDC",
+	"year": 1997
 }

@@ -1,12 +1,17 @@
 {
 	"author": ["Adam Barker", "Jon B. Weissman", "Jano I. van Hemert"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 17th International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2008",
 	"dblpkey": "conf/hpdc/BarkerWH08",
+	"doi": "10.1145/1383422.1383430",
 	"ee": "http://doi.acm.org/10.1145/1383422.1383430",
 	"pages": "55-64",
+	"publisher": "ACM",
+	"stemmed": ["elimin", "the", "middleman", "peer", "to", "peer", "dataflow"],
+	"tag": ["data flow", "peer-to-peer"],
 	"title": "Eliminating the middleman: peer-to-peer dataflow",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2008.html#BarkerWH08",
-	"year": "2008"
+	"venue": "HPDC",
+	"year": 2008
 }

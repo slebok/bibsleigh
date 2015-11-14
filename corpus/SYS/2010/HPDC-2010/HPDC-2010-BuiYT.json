@@ -1,12 +1,17 @@
 {
 	"author": ["Peter Bui", "Li Yu", "Douglas Thain"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 19th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2010",
 	"dblpkey": "conf/hpdc/BuiYT10",
+	"doi": "10.1145/1851476.1851570",
 	"ee": "http://doi.acm.org/10.1145/1851476.1851570",
 	"pages": "636-643",
+	"publisher": "ACM",
+	"stemmed": ["weaver", "integr", "distribut", "comput", "abstract", "into", "scientif", "workflow", "use", "python"],
+	"tag": ["abstraction", "distributed", "named", "python", "using", "workflow"],
 	"title": "Weaver: integrating distributed computing abstractions into scientific workflows using Python",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2010.html#BuiYT10",
-	"year": "2010"
+	"venue": "HPDC",
+	"year": 2010
 }

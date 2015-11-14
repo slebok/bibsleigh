@@ -1,12 +1,17 @@
 {
 	"author": ["Héctor Montaner", "Federico Silla", "José Duato"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 19th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2010",
 	"dblpkey": "conf/hpdc/MontanerSD10",
+	"doi": "10.1145/1851476.1851495",
 	"ee": "http://doi.acm.org/10.1145/1851476.1851495",
 	"pages": "155-166",
+	"publisher": "ACM",
+	"stemmed": ["a", "practic", "way", "to", "extend", "share", "memori", "support", "beyond", "a", "motherboard", "at", "low", "cost"],
+	"tag": ["memory management"],
 	"title": "A practical way to extend shared memory support beyond a motherboard at low cost",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2010.html#MontanerSD10",
-	"year": "2010"
+	"venue": "HPDC",
+	"year": 2010
 }

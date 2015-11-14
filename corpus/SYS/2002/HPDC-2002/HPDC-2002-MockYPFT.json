@@ -1,12 +1,18 @@
 {
-	"author": ["Stephen A. Mock", "Choon-Han Youn", "Marlon E. Pierce", "Geoffrey Fox", "Mary Thomas"],
-	"booktitle": "HPDC",
+	"author": ["Stephen Mock", "Choon-Han Youn", "Marlon E. Pierce", "Geoffrey Fox", "Mary Thomas"],
+	"booktitle": "Proceedings of the 11th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2002",
 	"dblpkey": "conf/hpdc/MockYPFT02",
+	"doi": "10.1109/HPDC.2002.1029951",
 	"ee": ["http://dx.doi.org/10.1109/HPDC.2002.1029951", "http://doi.ieeecomputersociety.org/10.1109/HPDC.2002.1029951"],
-	"pages": "421",
+	"pages": 421,
+	"publisher": "IEEE Computer Society",
+	"publishershort": "IEEE CS",
+	"stemmed": ["a", "batch", "script", "generat", "web", "servic", "for", "comput", "portal"],
+	"tag": ["generative", "web", "web service"],
 	"title": "A Batch Script Generator Web Service for Computational Portals",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2002.html#MockYPFT02",
-	"year": "2002"
+	"venue": "HPDC",
+	"year": 2002
 }

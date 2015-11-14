@@ -1,12 +1,17 @@
 {
 	"author": ["Phyllis Crandall", "Michael J. Quinn"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the Second International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/1993",
 	"dblpkey": "conf/hpdc/CrandallQ93",
+	"doi": "10.1109/HPDC.1993.263859",
 	"ee": "http://dx.doi.org/10.1109/HPDC.1993.263859",
 	"pages": "42-49",
+	"publisher": "IEEE",
+	"stemmed": ["block", "data", "decomposit", "for", "data", "parallel", "program", "on", "a", "heterogen", "workstat", "network"],
+	"tag": ["composition", "network", "programming"],
 	"title": "Block Data Decomposition for Data-Parallel Programming on a Heterogeneous Workstation Network",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc1993.html#CrandallQ93",
-	"year": "1993"
+	"venue": "HPDC",
+	"year": 1993
 }

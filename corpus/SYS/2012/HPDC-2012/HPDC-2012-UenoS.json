@@ -1,12 +1,17 @@
 {
 	"author": ["Koji Ueno", "Toyotaro Suzumura"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2012",
 	"dblpkey": "conf/hpdc/UenoS12",
+	"doi": "10.1145/2287076.2287104",
 	"ee": "http://doi.acm.org/10.1145/2287076.2287104",
 	"pages": "149-160",
+	"publisher": "ACM",
+	"stemmed": ["high", "scalabl", "graph", "search", "for", "the", "graph", "benchmark"],
+	"tag": ["benchmark", "graph", "metric", "scalability"],
 	"title": "Highly scalable graph search for the Graph500 benchmark",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2012.html#UenoS12",
-	"year": "2012"
+	"venue": "HPDC",
+	"year": 2012
 }

@@ -1,12 +1,17 @@
 {
 	"author": ["Rajat Phull", "Cheng-Hong Li", "Kunal Rao", "Srihari Cadambi", "Srimat T. Chakradhar"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2012",
 	"dblpkey": "conf/hpdc/PhullLRCC12",
+	"doi": "10.1145/2287076.2287091",
 	"ee": "http://doi.acm.org/10.1145/2287076.2287091",
 	"pages": "109-120",
+	"publisher": "ACM",
+	"stemmed": ["interfer", "driven", "resourc", "manag", "for", "gpu", "base", "heterogen", "cluster"],
+	"tag": ["clustering", "resource management"],
 	"title": "Interference-driven resource management for GPU-based heterogeneous clusters",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2012.html#PhullLRCC12",
-	"year": "2012"
+	"venue": "HPDC",
+	"year": 2012
 }

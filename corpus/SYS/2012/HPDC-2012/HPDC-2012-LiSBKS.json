@@ -1,12 +1,17 @@
 {
 	"author": ["Min Li", "Dinesh Subhraveti", "Ali Raza Butt", "Aleksandr Khasymski", "Prasenjit Sarkar"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2012",
 	"dblpkey": "conf/hpdc/LiSBKS12",
+	"doi": "10.1145/2287076.2287110",
 	"ee": "http://doi.acm.org/10.1145/2287076.2287110",
 	"pages": "211-222",
+	"publisher": "ACM",
+	"stemmed": ["cam", "a", "topolog", "awar", "minimum", "cost", "flow", "base", "resourc", "manag", "for", "map", "reduc", "applic", "in", "the", "cloud"],
+	"tag": ["in the cloud", "named", "pipes and filters"],
 	"title": "CAM: a topology aware minimum cost flow based resource manager for MapReduce applications in the cloud",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2012.html#LiSBKS12",
-	"year": "2012"
+	"venue": "HPDC",
+	"year": 2012
 }

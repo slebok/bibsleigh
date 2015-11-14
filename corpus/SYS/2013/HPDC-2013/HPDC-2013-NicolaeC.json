@@ -1,12 +1,17 @@
 {
 	"author": ["Bogdan Nicolae", "Franck Cappello"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 22nd International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2013",
 	"dblpkey": "conf/hpdc/NicolaeC13",
+	"doi": "10.1145/2462902.2462918",
 	"ee": "http://doi.acm.org/10.1145/2462902.2462918",
 	"pages": "155-166",
+	"publisher": "ACM",
+	"stemmed": ["ai", "ckpt", "leverag", "memori", "access", "pattern", "for", "adapt", "asynchron", "increment", "checkpoint"],
+	"tag": ["adaptation", "data access", "incremental", "memory management", "named"],
 	"title": "AI-Ckpt: leveraging memory access patterns for adaptive asynchronous incremental checkpointing",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2013.html#NicolaeC13",
-	"year": "2013"
+	"venue": "HPDC",
+	"year": 2013
 }

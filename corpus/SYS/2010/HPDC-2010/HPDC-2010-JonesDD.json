@@ -1,12 +1,17 @@
 {
 	"author": ["William M. Jones", "John T. Daly", "Nathan DeBardeleben"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 19th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2010",
 	"dblpkey": "conf/hpdc/JonesDD10",
+	"doi": "10.1145/1851476.1851509",
 	"ee": "http://doi.acm.org/10.1145/1851476.1851509",
 	"pages": "276-279",
+	"publisher": "ACM",
+	"stemmed": ["impact", "of", "sub", "optim", "checkpoint", "interv", "on", "applic", "effici", "in", "comput", "cluster"],
+	"tag": ["clustering", "performance"],
 	"title": "Impact of sub-optimal checkpoint intervals on application efficiency in computational clusters",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2010.html#JonesDD10",
-	"year": "2010"
+	"venue": "HPDC",
+	"year": 2010
 }

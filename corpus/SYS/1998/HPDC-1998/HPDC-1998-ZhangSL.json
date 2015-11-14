@@ -1,12 +1,18 @@
 {
 	"author": ["Kang Zhang", "Chengzheng Sun", "Kei-Chun Li"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the Seventh International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/1998",
 	"dblpkey": "conf/hpdc/ZhangSL98",
+	"doi": "10.1109/HPDC.1998.710020",
 	"ee": ["http://dx.doi.org/10.1109/HPDC.1998.710020", "http://doi.ieeecomputersociety.org/10.1109/HPDC.1998.710020"],
 	"pages": "340-341",
+	"publisher": "IEEE Computer Society",
+	"publishershort": "IEEE CS",
+	"stemmed": ["dynam", "instrument", "messag", "pass", "program", "use", "virtual", "clock"],
+	"tag": ["message passing", "source code", "using"],
 	"title": "Dynamically Instrumenting Message-Passing Programs Using Virtual Clocks",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc1998.html#ZhangSL98",
-	"year": "1998"
+	"venue": "HPDC",
+	"year": 1998
 }

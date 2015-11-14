@@ -1,12 +1,17 @@
 {
 	"author": ["Claris Castillo", "George N. Rouskas", "Khaled Harfoush"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 18th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2009",
 	"dblpkey": "conf/hpdc/CastilloRH09",
+	"doi": "10.1145/1551609.1551634",
 	"ee": "http://doi.acm.org/10.1145/1551609.1551634",
 	"pages": "131-140",
+	"publisher": "ACM",
+	"stemmed": ["resourc", "co", "alloc", "for", "larg", "scale", "distribut", "environ"],
+	"tag": ["distributed", "resource management"],
 	"title": "Resource co-allocation for large-scale distributed environments",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2009.html#CastilloRH09",
-	"year": "2009"
+	"venue": "HPDC",
+	"year": 2009
 }

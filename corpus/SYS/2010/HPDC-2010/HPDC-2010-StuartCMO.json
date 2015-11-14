@@ -1,12 +1,17 @@
 {
 	"author": ["Jeff A. Stuart", "Cheng-Kai Chen", "Kwan-Liu Ma", "John D. Owens"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 19th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2010",
 	"dblpkey": "conf/hpdc/StuartCMO10",
+	"doi": "10.1145/1851476.1851597",
 	"ee": "http://doi.acm.org/10.1145/1851476.1851597",
 	"pages": "841-848",
+	"publisher": "ACM",
+	"stemmed": ["multi", "gpu", "volum", "render", "use", "map", "reduc"],
+	"tag": ["multi", "pipes and filters", "using"],
 	"title": "Multi-GPU volume rendering using MapReduce",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2010.html#StuartCMO10",
-	"year": "2010"
+	"venue": "HPDC",
+	"year": 2010
 }

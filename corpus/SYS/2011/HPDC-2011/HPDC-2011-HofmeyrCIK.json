@@ -1,12 +1,17 @@
 {
 	"author": ["Steven A. Hofmeyr", "Juan A. Colmenares", "Costin Iancu", "John Kubiatowicz"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 20th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2011",
 	"dblpkey": "conf/hpdc/HofmeyrCIK11",
+	"doi": "10.1145/1996130.1996134",
 	"ee": "http://doi.acm.org/10.1145/1996130.1996134",
 	"pages": "3-14",
+	"publisher": "ACM",
+	"stemmed": ["juggl", "proactiv", "load", "balanc", "on", "multicor", "comput"],
+	"tag": ["manycore", "named"],
 	"title": "Juggle: proactive load balancing on multicore computers",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2011.html#HofmeyrCIK11",
-	"year": "2011"
+	"venue": "HPDC",
+	"year": 2011
 }

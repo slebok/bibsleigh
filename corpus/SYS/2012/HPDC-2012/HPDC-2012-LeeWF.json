@@ -1,12 +1,17 @@
 {
 	"author": ["Kyungyong Lee", "David Wolinsky", "Renato J. O. Figueiredo"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2012",
 	"dblpkey": "conf/hpdc/LeeWF12",
+	"doi": "10.1145/2287076.2287105",
 	"ee": "http://doi.acm.org/10.1145/2287076.2287105",
 	"pages": "161-172",
+	"publisher": "ACM",
+	"stemmed": ["pon", "d", "dynam", "creation", "of", "htc", "pool", "on", "demand", "use", "a", "decentr", "resourc", "discoveri", "system"],
+	"tag": ["distributed", "named", "resource management", "using"],
 	"title": "PonD: dynamic creation of HTC pool on demand using a decentralized resource discovery system",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2012.html#LeeWF12",
-	"year": "2012"
+	"venue": "HPDC",
+	"year": 2012
 }

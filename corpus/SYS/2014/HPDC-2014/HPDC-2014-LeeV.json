@@ -1,12 +1,17 @@
 {
 	"author": ["Seyong Lee", "Jeffrey S. Vetter"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 23rd International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2014",
 	"dblpkey": "conf/hpdc/LeeV14",
+	"doi": "10.1145/2600212.2600704",
 	"ee": "http://doi.acm.org/10.1145/2600212.2600704",
 	"pages": "115-120",
+	"publisher": "ACM",
+	"stemmed": ["open", "arc", "open", "acceler", "research", "compil", "for", "direct", "base", "effici", "heterogen", "comput"],
+	"tag": ["compilation", "named", "performance", "research"],
 	"title": "OpenARC: open accelerator research compiler for directive-based, efficient heterogeneous computing",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2014.html#LeeV14",
-	"year": "2014"
+	"venue": "HPDC",
+	"year": 2014
 }

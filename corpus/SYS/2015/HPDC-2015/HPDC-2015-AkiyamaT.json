@@ -1,12 +1,17 @@
 {
 	"author": ["Shigeki Akiyama", "Kenjiro Taura"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 24th International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2015",
 	"dblpkey": "conf/hpdc/AkiyamaT15",
+	"doi": "10.1145/2749246.2749272",
 	"ee": "http://doi.acm.org/10.1145/2749246.2749272",
 	"pages": "15-26",
+	"publisher": "ACM",
+	"stemmed": ["uni", "address", "thread", "scalabl", "thread", "manag", "for", "rdma", "base", "work", "steal"],
+	"tag": ["concurrent", "scalability", "thread"],
 	"title": "Uni-Address Threads: Scalable Thread Management for RDMA-Based Work Stealing",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2015.html#AkiyamaT15",
-	"year": "2015"
+	"venue": "HPDC",
+	"year": 2015
 }

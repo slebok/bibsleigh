@@ -1,12 +1,17 @@
 {
 	"author": ["Michela Becchi", "Kittisak Sajjapongse", "Ian Graves", "Adam M. Procter", "Vignesh T. Ravi", "Srimat T. Chakradhar"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2012",
 	"dblpkey": "conf/hpdc/BecchiSGPRC12",
+	"doi": "10.1145/2287076.2287090",
 	"ee": "http://doi.acm.org/10.1145/2287076.2287090",
 	"pages": "97-108",
+	"publisher": "ACM",
+	"stemmed": ["a", "virtual", "memori", "base", "runtim", "to", "support", "multi", "tenanc", "in", "cluster", "with", "gpus"],
+	"tag": ["clustering", "memory management", "multi", "runtime"],
 	"title": "A virtual memory based runtime to support multi-tenancy in clusters with GPUs",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2012.html#BecchiSGPRC12",
-	"year": "2012"
+	"venue": "HPDC",
+	"year": 2012
 }

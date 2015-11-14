@@ -1,12 +1,18 @@
 {
-	"author": ["Sumit Roy 0002", "Vipin Chaudhary"],
-	"booktitle": "HPDC",
+	"author": ["Sumit Roy", "Vipin Chaudhary"],
+	"booktitle": "Proceedings of the Seventh International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/1998",
 	"dblpkey": "conf/hpdc/RoyC98",
+	"doi": "10.1109/HPDC.1998.709960",
 	"ee": ["http://dx.doi.org/10.1109/HPDC.1998.709960", "http://doi.ieeecomputersociety.org/10.1109/HPDC.1998.709960"],
 	"pages": "90-97",
+	"publisher": "IEEE Computer Society",
+	"publishershort": "IEEE CS",
+	"stemmed": ["string", "a", "high", "perform", "distribut", "share", "memori", "for", "symmetr", "multiprocessor", "cluster"],
+	"tag": ["clustering", "distributed", "memory management", "multi", "named", "string", "symmetry"],
 	"title": "Strings: A High-Performance Distributed Shared Memory for Symmetrical Multiprocessor Clusters",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc1998.html#RoyC98",
-	"year": "1998"
+	"venue": "HPDC",
+	"year": 1998
 }

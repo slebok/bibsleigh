@@ -1,12 +1,18 @@
 {
 	"author": ["Randall D. Burris", "M. K. Gleicher", "H. H. Holmes", "D. L. Million", "S. R. White"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the Ninth International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2000",
 	"dblpkey": "conf/hpdc/BurrisGHMW00",
+	"doi": "10.1109/HPDC.2000.868664",
 	"ee": ["http://dx.doi.org/10.1109/HPDC.2000.868664", "http://doi.ieeecomputersociety.org/10.1109/HPDC.2000.868664"],
 	"pages": "294-295",
-	"title": "Probe - A Distributed Storage Testbed",
+	"publisher": "IEEE Computer Society",
+	"publishershort": "IEEE CS",
+	"stemmed": ["probe", "a", "distribut", "storag", "testb"],
+	"tag": ["distributed", "named"],
+	"title": "Probe — A Distributed Storage Testbed",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2000.html#BurrisGHMW00",
-	"year": "2000"
+	"venue": "HPDC",
+	"year": 2000
 }

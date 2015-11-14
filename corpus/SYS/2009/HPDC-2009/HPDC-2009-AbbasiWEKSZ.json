@@ -1,12 +1,17 @@
 {
 	"author": ["Hasan Abbasi", "Matthew Wolf", "Greg Eisenhauer", "Scott Klasky", "Karsten Schwan", "Fang Zheng"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 18th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2009",
 	"dblpkey": "conf/hpdc/AbbasiWEKSZ09",
+	"doi": "10.1145/1551609.1551618",
 	"ee": "http://doi.acm.org/10.1145/1551609.1551618",
 	"pages": "39-48",
+	"publisher": "ACM",
+	"stemmed": ["data", "stager", "scalabl", "data", "stage", "servic", "for", "petascal", "applic"],
+	"tag": ["named", "scalability", "staging"],
 	"title": "DataStager: scalable data staging services for petascale applications",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2009.html#AbbasiWEKSZ09",
-	"year": "2009"
+	"venue": "HPDC",
+	"year": 2009
 }

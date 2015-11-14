@@ -1,12 +1,17 @@
 {
 	"author": ["Jiangtao Yin", "Yong Liao", "Mario Baldi", "Lixin Gao", "Antonio Nucci"],
-	"booktitle": "HPDC",
+	"booktitle": "Proceedings of the 22nd International Symposium on High-Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2013",
 	"dblpkey": "conf/hpdc/YinLBGN13",
+	"doi": "10.1145/2462902.2462930",
 	"ee": "http://doi.acm.org/10.1145/2462902.2462930",
 	"pages": "125-126",
+	"publisher": "ACM",
+	"stemmed": ["effici", "analyt", "on", "order", "dataset", "use", "map", "reduc"],
+	"tag": ["dataset", "order", "performance", "pipes and filters", "using"],
 	"title": "Efficient analytics on ordered datasets using MapReduce",
 	"type": "inproceedings",
-	"url": "db/conf/hpdc/hpdc2013.html#YinLBGN13",
-	"year": "2013"
+	"venue": "HPDC",
+	"year": 2013
 }
