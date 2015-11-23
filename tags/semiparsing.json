@@ -1,6 +1,6 @@
 {
 	"name": "semiparsing",
-	"matchword": ["semiparsing", "semi-parsing"],
-	"matchsub": ["island grammar", "island parsing", "island parser", "bounded seas", "robust parsing", "robust parser", "agile parsing", "agile parser", "permissive grammar", "skeleton grammar", "tolerant grammar", "tolerant parsing", "tolerant parser", "fuzzy parsing", "fuzzy parser", "bridge grammar", "bridge parsing", "bridge parser", "iterative lexical analysis", "shallow parsing"],
-	"relieves": ["fuzzy"]
+	"matchword": ["semiparsing", "semi-parsing", "srcml"],
+	"matchsub": ["island grammar", "island pars", "bounded sea", "robust pars", "agile pars", "permissive grammar", "skeleton grammar", "tolerant grammar", "tolerant pars", "fuzzy pars", "bridge grammar", "bridge pars", "iterative lexical analysis", "hierarchical lexical analysis", "shallow pars", "gap dependency pars", "gap pars", "gapping grammar", "tokenized syntax tree"],
+	"relieves": ["fuzzy", "parsing"]
 }
