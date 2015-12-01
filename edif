@@ -1,0 +1,3 @@
+#!/bin/sh
+
+find corpus -name $1.json | xargs subl
