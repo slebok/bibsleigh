@@ -3,10 +3,13 @@
 	"booktitle": "OOPSLA",
 	"crossref": "conf/oopsla/2015",
 	"dblpkey": "conf/oopsla/SteindorferV15",
-	"ee": "http://doi.acm.org/10.1145/2814270.2814312",
+	"doi": "10.1145/2814270.2814312",
 	"pages": "783-800",
+	"publisher": "ACM",
+	"stemmed": ["optim", "hash", "array", "map", "tri", "for", "fast", "and", "lean", "immut", "jvm", "collect"],
+	"tag": ["agile", "optimisation", "performance", "virtual machine"],
 	"title": "Optimizing hash-array mapped tries for fast and lean immutable JVM collections",
 	"type": "inproceedings",
-	"url": "db/conf/oopsla/oopsla2015.html#SteindorferV15",
-	"year": "2015"
+	"venue": "OOPSLA",
+	"year": 2015
 }

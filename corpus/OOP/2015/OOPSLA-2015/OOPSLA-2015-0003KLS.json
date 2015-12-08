@@ -1,12 +1,15 @@
 {
-	"author": ["Martin Aigner 0003", "Christoph M. Kirsch", "Michael Lippautz", "Ana Sokolova"],
+	"author": ["Martin Aigner", "Christoph M. Kirsch", "Michael Lippautz", "Ana Sokolova"],
 	"booktitle": "OOPSLA",
 	"crossref": "conf/oopsla/2015",
 	"dblpkey": "conf/oopsla/0003KLS15",
-	"ee": "http://doi.acm.org/10.1145/2814270.2814294",
+	"doi": "10.1145/2814270.2814294",
 	"pages": "451-469",
+	"publisher": "ACM",
+	"stemmed": ["fast", "multicor", "scalabl", "low", "fragment", "memori", "alloc", "through", "larg", "virtual", "memori", "and", "global", "data", "structur"],
+	"tag": ["data type", "memory management", "multi", "performance", "scalability"],
 	"title": "Fast, multicore-scalable, low-fragmentation memory allocation through large virtual memory and global data structures",
 	"type": "inproceedings",
-	"url": "db/conf/oopsla/oopsla2015.html#0003KLS15",
-	"year": "2015"
+	"venue": "OOPSLA",
+	"year": 2015
 }

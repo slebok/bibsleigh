@@ -3,10 +3,13 @@
 	"booktitle": "OOPSLA",
 	"crossref": "conf/oopsla/2015",
 	"dblpkey": "conf/oopsla/CohenP15",
-	"ee": "http://doi.acm.org/10.1145/2814270.2814298",
+	"doi": "10.1145/2814270.2814298",
 	"pages": "260-279",
+	"publisher": "ACM",
+	"stemmed": ["automat", "memori", "reclam", "for", "lock", "free", "data", "structur"],
+	"tag": ["automation", "data type", "memory management"],
 	"title": "Automatic memory reclamation for lock-free data structures",
 	"type": "inproceedings",
-	"url": "db/conf/oopsla/oopsla2015.html#CohenP15",
-	"year": "2015"
+	"venue": "OOPSLA",
+	"year": 2015
 }
