@@ -3,10 +3,13 @@
 	"booktitle": "ITiCSE",
 	"crossref": "conf/iticse/2005",
 	"dblpkey": "conf/iticse/BerginW05",
-	"ee": "http://doi.acm.org/10.1145/1067445.1067621",
-	"pages": "416",
+	"doi": "10.1145/1067445.1067621",
+	"pages": 416,
+	"publisher": "ACM",
+	"stemmed": ["test", "first", "pair", "program", "tutori"],
+	"tag": ["tutorial"],
 	"title": "Test-first pair-programming tutorial",
 	"type": "inproceedings",
-	"url": "db/conf/iticse/iticse2005.html#BerginW05",
-	"year": "2005"
+	"venue": "ITiCSE",
+	"year": 2005
 }

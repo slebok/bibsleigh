@@ -1,14 +1,21 @@
 {
+	"address": ["Nijmegen", "", "The Netherlands"],
 	"booktitle": "FPLE",
 	"dblpkey": "conf/fple/1995",
 	"editor": ["Pieter H. Hartel", "Marinus J. Plasmeijer"],
 	"isbn": "3-540-60675-0",
-	"publisher": "Springer",
+	"publisher": "Springer-Verlag",
+	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
+	"seriesshort": "LNCS",
+	"tagged": [["functional", 10],
+		["programming", 8],
+		["education", 5],
+		["student", 3],
+		["using", 2]],
 	"title": "First International Symposium on Functional Programming Languages in Education",
 	"type": "proceedings",
-	"url": "db/conf/fple/fple95.html",
 	"venue": "TFPIE",
-	"volume": "1022",
-	"year": "1995"
+	"volume": 1022,
+	"year": 1995
 }

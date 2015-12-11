@@ -1,13 +1,22 @@
 {
+	"address": ["Pittsburgh", "Pennsylvania", "USA"],
 	"booktitle": "SEI",
 	"dblpkey": "conf/csee/1989",
 	"editor": "Norman E. Gibbs",
 	"isbn": "3-540-97090-8",
-	"publisher": "Springer",
+	"publisher": "Springer-Verlag",
+	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
-	"title": "Proceedings of the 3rd Software Engineering Education Conference",
+	"seriesshort": "LNCS",
+	"tagged": [["re-engineering", 18],
+		["education", 14],
+		["maintenance", 4],
+		["programming", 3],
+		["industrial", 2],
+		["using", 2]],
+	"title": "Proceedings of the Third Software Engineering Education Conference",
 	"type": "proceedings",
 	"venue": "CSEET",
-	"volume": "376",
-	"year": "1989"
+	"volume": 376,
+	"year": 1989
 }
