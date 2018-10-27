@@ -1,5 +1,10 @@
 {
-	"author": ["Christoph Hannebauer", "Michael Patalas", "Sebastian Stünkel", "Volker Gruhn"],
+	"author": [
+		"Christoph Hannebauer",
+		"Michael Patalas",
+		"Sebastian Stünkel",
+		"Volker Gruhn"
+	],
 	"booktitle": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/HannebauerPSG16",
@@ -7,9 +12,28 @@
 	"ee": "http://ieeexplore.ieee.org/document/7582749/",
 	"pages": "99-110",
 	"publisher": "ACM",
-	"stemmed": ["automat", "recommend", "code", "review", "base", "on", "their", "expertis", "an", "empir", "comparison"],
-	"tag": ["automation", "code review", "comparison", "empirical", "recommendation"],
+	"stemmed": [
+		"automat",
+		"recommend",
+		"code",
+		"review",
+		"base",
+		"on",
+		"their",
+		"expertis",
+		"an",
+		"empir",
+		"comparison"
+	],
+	"tag": [
+		"automation",
+		"code review",
+		"comparison",
+		"empirical",
+		"recommendation"
+	],
 	"title": "Automatically recommending code reviewers based on their expertise: an empirical comparison",
 	"type": "inproceedings",
+	"venue": "ASE",
 	"year": 2016
 }

@@ -1,5 +1,10 @@
 {
-	"author": ["Song Wang", "Devin Chollak", "Dana Movshovitz-Attias", "Lin Tan"],
+	"author": [
+		"Song Wang",
+		"Devin Chollak",
+		"Dana Movshovitz-Attias",
+		"Lin Tan"
+	],
 	"booktitle": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/WangCMT16",
@@ -7,9 +12,25 @@
 	"ee": "http://ieeexplore.ieee.org/document/7582806/",
 	"pages": "708-719",
 	"publisher": "ACM",
-	"stemmed": ["bugram", "bug", "detect", "with", "n", "gram", "languag", "model"],
-	"tag": ["debugging", "detection", "modelling", "n-gram", "named"],
+	"stemmed": [
+		"bugram",
+		"bug",
+		"detect",
+		"with",
+		"n",
+		"gram",
+		"languag",
+		"model"
+	],
+	"tag": [
+		"debugging",
+		"detection",
+		"modelling",
+		"n-gram",
+		"named"
+	],
 	"title": "Bugram: bug detection with n-gram language models",
 	"type": "inproceedings",
+	"venue": "ASE",
 	"year": 2016
 }

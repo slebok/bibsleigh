@@ -1,5 +1,9 @@
 {
-	"author": ["Shengjian Guo", "Markus Kusano", "Chao Wang"],
+	"author": [
+		"Shengjian Guo",
+		"Markus Kusano",
+		"Chao Wang"
+	],
 	"booktitle": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/GuoKW16",
@@ -7,9 +11,25 @@
 	"ee": "http://ieeexplore.ieee.org/document/7582788/",
 	"pages": "531-542",
 	"publisher": "ACM",
-	"stemmed": ["conc", "ise", "increment", "symbol", "execut", "of", "concurr", "softwar"],
-	"tag": ["concurrent", "execution", "incremental", "named", "symbolic computation"],
+	"stemmed": [
+		"conc",
+		"ise",
+		"increment",
+		"symbol",
+		"execut",
+		"of",
+		"concurr",
+		"softwar"
+	],
+	"tag": [
+		"concurrent",
+		"execution",
+		"incremental",
+		"named",
+		"symbolic computation"
+	],
 	"title": "Conc-iSE: incremental symbolic execution of concurrent software",
 	"type": "inproceedings",
+	"venue": "ASE",
 	"year": 2016
 }

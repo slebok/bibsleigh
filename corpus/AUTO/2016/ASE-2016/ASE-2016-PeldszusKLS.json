@@ -1,5 +1,10 @@
 {
-	"author": ["Sven Peldszus", "Géza Kulcsár", "Malte Lochau", "Sandro Schulze"],
+	"author": [
+		"Sven Peldszus",
+		"Géza Kulcsár",
+		"Malte Lochau",
+		"Sandro Schulze"
+	],
 	"booktitle": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/PeldszusKLS16",
@@ -7,9 +12,36 @@
 	"ee": "http://ieeexplore.ieee.org/document/7582793/",
 	"pages": "578-589",
 	"publisher": "ACM",
-	"stemmed": ["continu", "detect", "of", "design", "flaw", "in", "evolv", "object", "orient", "program", "use", "increment", "multi", "pattern", "match"],
-	"tag": ["design", "detection", "evolution", "incremental", "multi", "object-oriented", "pattern matching", "source code", "using"],
+	"stemmed": [
+		"continu",
+		"detect",
+		"of",
+		"design",
+		"flaw",
+		"in",
+		"evolv",
+		"object",
+		"orient",
+		"program",
+		"use",
+		"increment",
+		"multi",
+		"pattern",
+		"match"
+	],
+	"tag": [
+		"design",
+		"detection",
+		"evolution",
+		"incremental",
+		"multi",
+		"object-oriented",
+		"pattern matching",
+		"source code",
+		"using"
+	],
 	"title": "Continuous detection of design flaws in evolving object-oriented programs using incremental multi-pattern matching",
 	"type": "inproceedings",
+	"venue": "ASE",
 	"year": 2016
 }

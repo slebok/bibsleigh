@@ -1,5 +1,11 @@
 {
-	"author": ["Tianyong Wu", "Jierui Liu", "Xi Deng", "Jun Yan", "Jian Zhang"],
+	"author": [
+		"Tianyong Wu",
+		"Jierui Liu",
+		"Xi Deng",
+		"Jun Yan",
+		"Jian Zhang"
+	],
 	"booktitle": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/WuLDYZ16",
@@ -7,9 +13,30 @@
 	"ee": "http://ieeexplore.ieee.org/document/7582812/",
 	"pages": "762-767",
 	"publisher": "ACM",
-	"stemmed": ["relda", "an", "effect", "static", "analysi", "tool", "for", "resourc", "leak", "detect", "in", "android", "app"],
-	"tag": ["android", "detection", "effectiveness", "named", "static analysis"],
+	"stemmed": [
+		"relda",
+		"an",
+		"effect",
+		"static",
+		"analysi",
+		"tool",
+		"for",
+		"resourc",
+		"leak",
+		"detect",
+		"in",
+		"android",
+		"app"
+	],
+	"tag": [
+		"android",
+		"detection",
+		"effectiveness",
+		"named",
+		"static analysis"
+	],
 	"title": "Relda2: an effective static analysis tool for resource leak detection in Android apps",
 	"type": "inproceedings",
+	"venue": "ASE",
 	"year": 2016
 }

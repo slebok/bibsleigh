@@ -1,14 +1,31 @@
 {
-	"author": ["Kyle Dewey", "Jared Roesch", "Ben Hardekopf"],
+	"author": [
+		"Kyle Dewey",
+		"Jared Roesch",
+		"Ben Hardekopf"
+	],
 	"booktitle": "ASE",
 	"crossref": "conf/kbse/2015",
 	"dblpkey": "conf/kbse/DeweyRH15",
 	"doi": "10.1109/ASE.2015.65",
 	"pages": "482-493",
 	"publisher": "IEEE Computer Society",
-	"stemmed": ["fuzz", "the", "rust", "typecheck", "use", "clp", "t"],
-	"tag": ["fuzzing", "rust", "using"],
+	"stemmed": [
+		"fuzz",
+		"the",
+		"rust",
+		"typecheck",
+		"use",
+		"clp",
+		"t"
+	],
+	"tag": [
+		"fuzzing",
+		"rust",
+		"using"
+	],
 	"title": "Fuzzing the Rust Typechecker Using CLP (T)",
 	"type": "inproceedings",
+	"venue": "ASE",
 	"year": 2015
 }

@@ -1,14 +1,41 @@
 {
-	"author": ["Johannes Lerch", "Johannes Späth", "Eric Bodden", "Mira Mezini"],
+	"author": [
+		"Johannes Lerch",
+		"Johannes Späth",
+		"Eric Bodden",
+		"Mira Mezini"
+	],
 	"booktitle": "ASE",
 	"crossref": "conf/kbse/2015",
 	"dblpkey": "conf/kbse/LerchSBM15",
 	"doi": "10.1109/ASE.2015.9",
 	"pages": "619-629",
 	"publisher": "IEEE Computer Society",
-	"stemmed": ["access", "path", "abstract", "scale", "field", "sensit", "data", "flow", "analysi", "with", "unbound", "access", "path", "t"],
-	"tag": ["abstraction", "analysis", "bound", "data flow", "scalability"],
+	"stemmed": [
+		"access",
+		"path",
+		"abstract",
+		"scale",
+		"field",
+		"sensit",
+		"data",
+		"flow",
+		"analysi",
+		"with",
+		"unbound",
+		"access",
+		"path",
+		"t"
+	],
+	"tag": [
+		"abstraction",
+		"analysis",
+		"bound",
+		"data flow",
+		"scalability"
+	],
 	"title": "Access-Path Abstraction: Scaling Field-Sensitive Data-Flow Analysis with Unbounded Access Paths (T)",
 	"type": "inproceedings",
+	"venue": "ASE",
 	"year": 2015
 }

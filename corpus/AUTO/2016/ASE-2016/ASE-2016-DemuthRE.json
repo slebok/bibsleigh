@@ -1,5 +1,9 @@
 {
-	"author": ["Andreas Demuth", "Markus Riedl-Ehrenleitner", "Alexander Egyed"],
+	"author": [
+		"Andreas Demuth",
+		"Markus Riedl-Ehrenleitner",
+		"Alexander Egyed"
+	],
 	"booktitle": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/DemuthRE16",
@@ -7,9 +11,28 @@
 	"ee": "http://ieeexplore.ieee.org/document/7582794/",
 	"pages": "590-601",
 	"publisher": "ACM",
-	"stemmed": ["effici", "detect", "of", "inconsist", "in", "a", "multi", "develop", "engin", "environ"],
-	"tag": ["consistency", "detection", "developer", "multi", "nondeterminism", "performance"],
+	"stemmed": [
+		"effici",
+		"detect",
+		"of",
+		"inconsist",
+		"in",
+		"a",
+		"multi",
+		"develop",
+		"engin",
+		"environ"
+	],
+	"tag": [
+		"consistency",
+		"detection",
+		"developer",
+		"multi",
+		"nondeterminism",
+		"performance"
+	],
 	"title": "Efficient detection of inconsistencies in a multi-developer engineering environment",
 	"type": "inproceedings",
+	"venue": "ASE",
 	"year": 2016
 }

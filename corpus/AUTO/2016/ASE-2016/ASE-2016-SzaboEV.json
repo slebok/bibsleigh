@@ -1,5 +1,9 @@
 {
-	"author": ["Tamás Szabó", "Sebastian Erdweg", "Markus Voelter"],
+	"author": [
+		"Tamás Szabó",
+		"Sebastian Erdweg",
+		"Markus Voelter"
+	],
 	"booktitle": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/SzaboEV16",
@@ -7,9 +11,27 @@
 	"ee": "http://ieeexplore.ieee.org/document/7582769/",
 	"pages": "320-331",
 	"publisher": "ACM",
-	"stemmed": ["inc", "a", "a", "dsl", "for", "the", "definit", "of", "increment", "program", "analys"],
-	"tag": ["analysis", "domain-specific language", "incremental", "named"],
+	"stemmed": [
+		"inc",
+		"a",
+		"a",
+		"dsl",
+		"for",
+		"the",
+		"definit",
+		"of",
+		"increment",
+		"program",
+		"analys"
+	],
+	"tag": [
+		"analysis",
+		"domain-specific language",
+		"incremental",
+		"named"
+	],
 	"title": "IncA: a DSL for the definition of incremental program analyses",
 	"type": "inproceedings",
+	"venue": "ASE",
 	"year": 2016
 }

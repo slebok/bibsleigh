@@ -1,5 +1,8 @@
 {
-	"author": ["Matthias Höschele", "Andreas Zeller"],
+	"author": [
+		"Matthias Höschele",
+		"Andreas Zeller"
+	],
 	"booktitle": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/HoscheleZ16",
@@ -7,9 +10,19 @@
 	"ee": "http://ieeexplore.ieee.org/document/7582807/",
 	"pages": "720-725",
 	"publisher": "ACM",
-	"stemmed": ["mine", "input", "grammar", "from", "dynam", "taint"],
-	"tag": ["mining"],
+	"stemmed": [
+		"mine",
+		"input",
+		"grammar",
+		"from",
+		"dynam",
+		"taint"
+	],
+	"tag": [
+		"mining"
+	],
 	"title": "Mining input grammars from dynamic taints",
 	"type": "inproceedings",
+	"venue": "ASE",
 	"year": 2016
 }

@@ -1,5 +1,8 @@
 {
-	"author": ["Ivan Bocic", "Tevfik Bultan"],
+	"author": [
+		"Ivan Bocic",
+		"Tevfik Bultan"
+	],
 	"booktitle": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/BocicB16",
@@ -7,9 +10,25 @@
 	"ee": "http://ieeexplore.ieee.org/document/7582754/",
 	"pages": "155-166",
 	"publisher": "ACM",
-	"stemmed": ["find", "access", "control", "bug", "in", "web", "applic", "with", "can", "check"],
-	"tag": ["data access", "debugging", "web"],
+	"stemmed": [
+		"find",
+		"access",
+		"control",
+		"bug",
+		"in",
+		"web",
+		"applic",
+		"with",
+		"can",
+		"check"
+	],
+	"tag": [
+		"data access",
+		"debugging",
+		"web"
+	],
 	"title": "Finding access control bugs in web applications with CanCheck",
 	"type": "inproceedings",
+	"venue": "ASE",
 	"year": 2016
 }

@@ -1,14 +1,31 @@
 {
-	"author": ["Laure Philips", "Joeri De Koster", "Wolfgang De Meuter", "Coen De Roover"],
+	"author": [
+		"Laure Philips",
+		"Joeri De Koster",
+		"Wolfgang De Meuter",
+		"Coen De Roover"
+	],
 	"booktitle": "GPCE",
 	"crossref": "conf/gpce/2016",
 	"dblpkey": "conf/gpce/PhilipsKMR16",
 	"doi": "10.1145/2993236.2993243",
 	"pages": "59-69",
 	"publisher": "ACM",
-	"stemmed": ["depend", "driven", "delimit", "cps", "transform", "for", "javascript"],
-	"tag": ["continuation", "javascript"],
+	"stemmed": [
+		"depend",
+		"driven",
+		"delimit",
+		"cps",
+		"transform",
+		"for",
+		"javascript"
+	],
+	"tag": [
+		"continuation",
+		"javascript"
+	],
 	"title": "Dependence-driven delimited CPS transformation for JavaScript",
 	"type": "inproceedings",
+	"venue": "GPCE",
 	"year": 2016
 }

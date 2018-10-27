@@ -1,5 +1,11 @@
 {
-	"author": ["Jiang Ming", "Dinghao Wu", "Jun Wang", "Gaoyao Xiao", "Peng Liu"],
+	"author": [
+		"Jiang Ming",
+		"Dinghao Wu",
+		"Jun Wang",
+		"Gaoyao Xiao",
+		"Peng Liu"
+	],
 	"booktitle": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/MingWWXL16",
@@ -7,9 +13,21 @@
 	"ee": "http://ieeexplore.ieee.org/document/7582768/",
 	"pages": "308-319",
 	"publisher": "ACM",
-	"stemmed": ["straight", "taint", "decoupl", "offlin", "symbol", "taint", "analysi"],
-	"tag": ["analysis", "named"],
+	"stemmed": [
+		"straight",
+		"taint",
+		"decoupl",
+		"offlin",
+		"symbol",
+		"taint",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"named"
+	],
 	"title": "StraightTaint: decoupled offline symbolic taint analysis",
 	"type": "inproceedings",
+	"venue": "ASE",
 	"year": 2016
 }

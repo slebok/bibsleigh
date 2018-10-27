@@ -1,5 +1,8 @@
 {
-	"author": ["Haipeng Cai", "Douglas Thain"],
+	"author": [
+		"Haipeng Cai",
+		"Douglas Thain"
+	],
 	"booktitle": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/CaiT16",
@@ -7,9 +10,28 @@
 	"ee": "http://ieeexplore.ieee.org/document/7582771/",
 	"pages": "344-355",
 	"publisher": "ACM",
-	"stemmed": ["dist", "ia", "a", "cost", "effect", "dynam", "impact", "analysi", "for", "distribut", "program"],
-	"tag": ["distributed", "effectiveness", "impact analysis", "named", "source code"],
+	"stemmed": [
+		"dist",
+		"ia",
+		"a",
+		"cost",
+		"effect",
+		"dynam",
+		"impact",
+		"analysi",
+		"for",
+		"distribut",
+		"program"
+	],
+	"tag": [
+		"distributed",
+		"effectiveness",
+		"impact analysis",
+		"named",
+		"source code"
+	],
 	"title": "DistIA: a cost-effective dynamic impact analysis for distributed programs",
 	"type": "inproceedings",
+	"venue": "ASE",
 	"year": 2016
 }

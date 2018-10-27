@@ -1,5 +1,9 @@
 {
-	"author": ["Fengjuan Gao", "Linzhang Wang", "Xuandong Li"],
+	"author": [
+		"Fengjuan Gao",
+		"Linzhang Wang",
+		"Xuandong Li"
+	],
 	"booktitle": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/GaoWL16",
@@ -7,9 +11,24 @@
 	"ee": "http://ieeexplore.ieee.org/document/7582816/",
 	"pages": "786-791",
 	"publisher": "ACM",
-	"stemmed": ["bov", "inspector", "automat", "inspect", "and", "repair", "of", "buffer", "overflow", "vulner"],
-	"tag": ["automation", "named"],
+	"stemmed": [
+		"bov",
+		"inspector",
+		"automat",
+		"inspect",
+		"and",
+		"repair",
+		"of",
+		"buffer",
+		"overflow",
+		"vulner"
+	],
+	"tag": [
+		"automation",
+		"named"
+	],
 	"title": "BovInspector: automatic inspection and repair of buffer overflow vulnerabilities",
 	"type": "inproceedings",
+	"venue": "ASE",
 	"year": 2016
 }

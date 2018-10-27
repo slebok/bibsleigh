@@ -1,5 +1,10 @@
 {
-	"author": ["Hongyin Tang", "Guoquan Wu", "Jun Wei", "Hua Zhong"],
+	"author": [
+		"Hongyin Tang",
+		"Guoquan Wu",
+		"Jun Wei",
+		"Hua Zhong"
+	],
 	"booktitle": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/TangWWZ16",
@@ -7,9 +12,27 @@
 	"ee": "http://ieeexplore.ieee.org/document/7582799/",
 	"pages": "648-653",
 	"publisher": "ACM",
-	"stemmed": ["generat", "test", "case", "to", "expos", "concurr", "bug", "in", "android", "applic"],
-	"tag": ["android", "concurrent", "debugging", "generative", "testing"],
+	"stemmed": [
+		"generat",
+		"test",
+		"case",
+		"to",
+		"expos",
+		"concurr",
+		"bug",
+		"in",
+		"android",
+		"applic"
+	],
+	"tag": [
+		"android",
+		"concurrent",
+		"debugging",
+		"generative",
+		"testing"
+	],
 	"title": "Generating test cases to expose concurrency bugs in Android applications",
 	"type": "inproceedings",
+	"venue": "ASE",
 	"year": 2016
 }

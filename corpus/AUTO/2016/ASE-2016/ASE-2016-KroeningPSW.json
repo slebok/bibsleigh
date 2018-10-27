@@ -1,5 +1,10 @@
 {
-	"author": ["Daniel Kroening", "Daniel Poetzl", "Peter Schrammel", "Björn Wachter"],
+	"author": [
+		"Daniel Kroening",
+		"Daniel Poetzl",
+		"Peter Schrammel",
+		"Björn Wachter"
+	],
 	"booktitle": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/KroeningPSW16",
@@ -7,9 +12,22 @@
 	"ee": "http://ieeexplore.ieee.org/document/7582774/",
 	"pages": "379-390",
 	"publisher": "ACM",
-	"stemmed": ["sound", "static", "deadlock", "analysi", "for", "c", "pthread"],
-	"tag": ["analysis", "concurrent", "thread"],
+	"stemmed": [
+		"sound",
+		"static",
+		"deadlock",
+		"analysi",
+		"for",
+		"c",
+		"pthread"
+	],
+	"tag": [
+		"analysis",
+		"concurrent",
+		"thread"
+	],
 	"title": "Sound static deadlock analysis for C/Pthreads",
 	"type": "inproceedings",
+	"venue": "ASE",
 	"year": 2016
 }

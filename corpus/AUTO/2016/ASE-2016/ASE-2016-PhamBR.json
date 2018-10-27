@@ -1,5 +1,9 @@
 {
-	"author": ["Van-Thuan Pham", "Marcel Böhme", "Abhik Roychoudhury"],
+	"author": [
+		"Van-Thuan Pham",
+		"Marcel Böhme",
+		"Abhik Roychoudhury"
+	],
 	"booktitle": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/PhamBR16",
@@ -7,9 +11,21 @@
 	"ee": "http://ieeexplore.ieee.org/document/7582789/",
 	"pages": "543-553",
 	"publisher": "ACM",
-	"stemmed": ["model", "base", "whitebox", "fuzz", "for", "program", "binari"],
-	"tag": ["fuzzing", "modelling"],
+	"stemmed": [
+		"model",
+		"base",
+		"whitebox",
+		"fuzz",
+		"for",
+		"program",
+		"binari"
+	],
+	"tag": [
+		"fuzzing",
+		"modelling"
+	],
 	"title": "Model-based whitebox fuzzing for program binaries",
 	"type": "inproceedings",
+	"venue": "ASE",
 	"year": 2016
 }

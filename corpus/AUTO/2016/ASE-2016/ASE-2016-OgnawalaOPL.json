@@ -1,5 +1,10 @@
 {
-	"author": ["Saahil Ognawala", "Martín Ochoa", "Alexander Pretschner", "Tobias Limmer"],
+	"author": [
+		"Saahil Ognawala",
+		"Martín Ochoa",
+		"Alexander Pretschner",
+		"Tobias Limmer"
+	],
 	"booktitle": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/OgnawalaOPL16",
@@ -7,9 +12,28 @@
 	"ee": "http://ieeexplore.ieee.org/document/7582815/",
 	"pages": "780-785",
 	"publisher": "ACM",
-	"stemmed": ["mack", "composit", "analysi", "of", "low", "level", "vulner", "with", "symbol", "execut"],
-	"tag": ["analysis", "composition", "execution", "low level", "named", "symbolic computation"],
+	"stemmed": [
+		"mack",
+		"composit",
+		"analysi",
+		"of",
+		"low",
+		"level",
+		"vulner",
+		"with",
+		"symbol",
+		"execut"
+	],
+	"tag": [
+		"analysis",
+		"composition",
+		"execution",
+		"low level",
+		"named",
+		"symbolic computation"
+	],
 	"title": "MACKE: compositional analysis of low-level vulnerabilities with symbolic execution",
 	"type": "inproceedings",
+	"venue": "ASE",
 	"year": 2016
 }

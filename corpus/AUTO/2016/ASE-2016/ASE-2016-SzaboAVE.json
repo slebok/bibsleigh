@@ -1,5 +1,10 @@
 {
-	"author": ["Tamás Szabó", "Simon Alperovich", "Markus Voelter", "Sebastian Erdweg"],
+	"author": [
+		"Tamás Szabó",
+		"Simon Alperovich",
+		"Markus Voelter",
+		"Sebastian Erdweg"
+	],
 	"booktitle": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/SzaboAVE16",
@@ -7,9 +12,26 @@
 	"ee": "http://ieeexplore.ieee.org/document/7582830/",
 	"pages": "870-875",
 	"publisher": "ACM",
-	"stemmed": ["an", "extens", "framework", "for", "variabl", "precis", "data", "flow", "analys", "in", "mps"],
-	"tag": ["analysis", "data flow", "framework"],
+	"stemmed": [
+		"an",
+		"extens",
+		"framework",
+		"for",
+		"variabl",
+		"precis",
+		"data",
+		"flow",
+		"analys",
+		"in",
+		"mps"
+	],
+	"tag": [
+		"analysis",
+		"data flow",
+		"framework"
+	],
 	"title": "An extensible framework for variable-precision data-flow analyses in MPS",
 	"type": "inproceedings",
+	"venue": "ASE",
 	"year": 2016
 }

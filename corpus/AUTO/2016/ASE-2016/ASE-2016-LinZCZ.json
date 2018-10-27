@@ -1,5 +1,10 @@
 {
-	"author": ["Ziyi Lin", "Hao Zhong", "Yuting Chen", "Jianjun Zhao"],
+	"author": [
+		"Ziyi Lin",
+		"Hao Zhong",
+		"Yuting Chen",
+		"Jianjun Zhao"
+	],
 	"booktitle": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/LinZCZ16",
@@ -7,9 +12,24 @@
 	"ee": "http://ieeexplore.ieee.org/document/7582773/",
 	"pages": "368-378",
 	"publisher": "ACM",
-	"stemmed": ["lock", "peeker", "detect", "latent", "lock", "in", "java", "api"],
-	"tag": ["api", "detection", "java", "named"],
+	"stemmed": [
+		"lock",
+		"peeker",
+		"detect",
+		"latent",
+		"lock",
+		"in",
+		"java",
+		"api"
+	],
+	"tag": [
+		"api",
+		"detection",
+		"java",
+		"named"
+	],
 	"title": "LockPeeker: detecting latent locks in Java APIs",
 	"type": "inproceedings",
+	"venue": "ASE",
 	"year": 2016
 }
