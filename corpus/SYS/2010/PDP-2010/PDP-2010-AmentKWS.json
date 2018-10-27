@@ -1,14 +1,40 @@
 {
-	"author": ["Marco Ament", "Günter Knittel", "Daniel Weiskopf", "Wolfgang Straßer"],
+	"author": [
+		"Marco Ament",
+		"Günter Knittel",
+		"Daniel Weiskopf",
+		"Wolfgang Straßer"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/2010",
 	"dblpkey": "conf/pdp/AmentKWS10",
 	"doi": "10.1109/PDP.2010.51",
 	"pages": "583-592",
 	"publisher": "IEEE Computer Society",
-	"stemmed": ["a", "parallel", "precondit", "conjug", "gradient", "solver", "for", "the", "poisson", "problem", "on", "a", "multi", "gpu", "platform"],
-	"tag": ["framework", "parallel", "problem"],
+	"stemmed": [
+		"a",
+		"parallel",
+		"precondit",
+		"conjug",
+		"gradient",
+		"solver",
+		"for",
+		"the",
+		"poisson",
+		"problem",
+		"on",
+		"a",
+		"multi",
+		"gpu",
+		"platform"
+	],
+	"tag": [
+		"framework",
+		"parallel",
+		"problem"
+	],
 	"title": "A Parallel Preconditioned Conjugate Gradient Solver for the Poisson Problem on a Multi-GPU Platform",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 2010
 }

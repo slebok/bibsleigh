@@ -1,14 +1,38 @@
 {
-	"author": ["Epifanio Gaona-Ramírez", "J. Rubén Titos Gil", "Manuel E. Acacio", "Juan Fernández"],
+	"author": [
+		"Epifanio Gaona-Ramírez",
+		"J. Rubén Titos Gil",
+		"Manuel E. Acacio",
+		"Juan Fernández"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/2012",
 	"dblpkey": "conf/pdp/Gaona-RamirezGAF12",
 	"doi": "10.1109/PDP.2012.76",
 	"pages": "221-228",
 	"publisher": "IEEE",
-	"stemmed": ["dynam", "serial", "improv", "energi", "consumpt", "in", "eager", "eager", "hardwar", "transact", "memori", "system"],
-	"tag": ["energy", "hardware", "memory management", "transaction"],
+	"stemmed": [
+		"dynam",
+		"serial",
+		"improv",
+		"energi",
+		"consumpt",
+		"in",
+		"eager",
+		"eager",
+		"hardwar",
+		"transact",
+		"memori",
+		"system"
+	],
+	"tag": [
+		"energy",
+		"hardware",
+		"memory management",
+		"transaction"
+	],
 	"title": "Dynamic Serialization: Improving Energy Consumption in Eager-Eager Hardware Transactional Memory Systems",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 2012
 }

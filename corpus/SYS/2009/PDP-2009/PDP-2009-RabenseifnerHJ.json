@@ -1,14 +1,39 @@
 {
-	"author": ["Rolf Rabenseifner", "Georg Hager", "Gabriele Jost"],
+	"author": [
+		"Rolf Rabenseifner",
+		"Georg Hager",
+		"Gabriele Jost"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/2009",
 	"dblpkey": "conf/pdp/RabenseifnerHJ09",
 	"doi": "10.1109/PDP.2009.43",
 	"pages": "427-436",
 	"publisher": "IEEE Computer Society",
-	"stemmed": ["hybrid", "mpi", "open", "mp", "parallel", "program", "on", "cluster", "of", "multi", "core", "smp", "node"],
-	"tag": ["clustering", "hybrid", "manycore", "parallel", "programming"],
+	"stemmed": [
+		"hybrid",
+		"mpi",
+		"open",
+		"mp",
+		"parallel",
+		"program",
+		"on",
+		"cluster",
+		"of",
+		"multi",
+		"core",
+		"smp",
+		"node"
+	],
+	"tag": [
+		"clustering",
+		"hybrid",
+		"manycore",
+		"parallel",
+		"programming"
+	],
 	"title": "Hybrid MPI/OpenMP Parallel Programming on Clusters of Multi-Core SMP Nodes",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 2009
 }

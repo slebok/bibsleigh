@@ -1,14 +1,33 @@
 {
-	"author": ["Steffen Frey", "Guido Reina", "Thomas Ertl"],
+	"author": [
+		"Steffen Frey",
+		"Guido Reina",
+		"Thomas Ertl"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/2012",
 	"dblpkey": "conf/pdp/FreyRE12",
 	"doi": "10.1109/PDP.2012.62",
 	"pages": "399-406",
 	"publisher": "IEEE",
-	"stemmed": ["simt", "microschedul", "reduc", "thread", "stall", "in", "diverg", "iter", "algorithm"],
-	"tag": ["algorithm", "concurrent", "thread"],
+	"stemmed": [
+		"simt",
+		"microschedul",
+		"reduc",
+		"thread",
+		"stall",
+		"in",
+		"diverg",
+		"iter",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"concurrent",
+		"thread"
+	],
 	"title": "SIMT Microscheduling: Reducing Thread Stalling in Divergent Iterative Algorithms",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 2012
 }

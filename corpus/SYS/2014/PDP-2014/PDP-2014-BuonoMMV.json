@@ -1,14 +1,39 @@
 {
-	"author": ["Daniele Buono", "Tiziano De Matteis", "Gabriele Mencagli", "Marco Vanneschi"],
+	"author": [
+		"Daniele Buono",
+		"Tiziano De Matteis",
+		"Gabriele Mencagli",
+		"Marco Vanneschi"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/2014",
 	"dblpkey": "conf/pdp/BuonoMMV14",
 	"doi": "10.1109/PDP.2014.63",
 	"pages": "262-270",
 	"publisher": "IEEE Computer Society",
-	"stemmed": ["optim", "messag", "pass", "on", "multicor", "architectur", "use", "hardwar", "multi", "thread"],
-	"tag": ["architecture", "hardware", "manycore", "message passing", "optimisation", "thread", "using"],
+	"stemmed": [
+		"optim",
+		"messag",
+		"pass",
+		"on",
+		"multicor",
+		"architectur",
+		"use",
+		"hardwar",
+		"multi",
+		"thread"
+	],
+	"tag": [
+		"architecture",
+		"hardware",
+		"manycore",
+		"message passing",
+		"optimisation",
+		"thread",
+		"using"
+	],
 	"title": "Optimizing Message-Passing on Multicore Architectures Using Hardware Multi-threading",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 2014
 }

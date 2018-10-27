@@ -1,14 +1,32 @@
 {
-	"author": ["Masahiro Miwa", "Kohta Nakashima"],
+	"author": [
+		"Masahiro Miwa",
+		"Kohta Nakashima"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/2015",
 	"dblpkey": "conf/pdp/MiwaN15",
 	"doi": "10.1109/PDP.2015.68",
 	"pages": "163-171",
 	"publisher": "IEEE",
-	"stemmed": ["progress", "of", "mpi", "non", "block", "collect", "oper", "use", "hyper", "thread"],
-	"tag": ["thread", "using"],
+	"stemmed": [
+		"progress",
+		"of",
+		"mpi",
+		"non",
+		"block",
+		"collect",
+		"oper",
+		"use",
+		"hyper",
+		"thread"
+	],
+	"tag": [
+		"thread",
+		"using"
+	],
 	"title": "Progression of MPI Non-blocking Collective Operations Using Hyper-Threading",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 2015
 }

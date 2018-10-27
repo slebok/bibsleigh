@@ -1,14 +1,36 @@
 {
-	"author": ["Andreas Diavastos", "Giannos Stylianou", "Pedro Trancoso"],
+	"author": [
+		"Andreas Diavastos",
+		"Giannos Stylianou",
+		"Pedro Trancoso"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/2015",
 	"dblpkey": "conf/pdp/DiavastosST15",
 	"doi": "10.1109/PDP.2015.69",
 	"pages": "190-198",
 	"publisher": "IEEE",
-	"stemmed": ["tfluxscc", "exploit", "perform", "on", "futur", "mani", "core", "system", "through", "data", "flow"],
-	"tag": ["data flow", "manycore", "named", "performance"],
+	"stemmed": [
+		"tfluxscc",
+		"exploit",
+		"perform",
+		"on",
+		"futur",
+		"mani",
+		"core",
+		"system",
+		"through",
+		"data",
+		"flow"
+	],
+	"tag": [
+		"data flow",
+		"manycore",
+		"named",
+		"performance"
+	],
 	"title": "TFluxSCC: Exploiting Performance on Future Many-Core Systems through Data-Flow",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 2015
 }

@@ -1,14 +1,32 @@
 {
-	"author": ["Hoang-Vu Dang", "Bertil Schmidt", "Andreas Hildebrandt", "Anna Katharina Hildebrandt"],
+	"author": [
+		"Hoang-Vu Dang",
+		"Bertil Schmidt",
+		"Andreas Hildebrandt",
+		"Anna Katharina Hildebrandt"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/2014",
 	"dblpkey": "conf/pdp/DangSHH14",
 	"doi": "10.1109/PDP.2014.9",
 	"pages": "1-8",
 	"publisher": "IEEE Computer Society",
-	"stemmed": ["parallel", "cluster", "of", "protein", "structur", "on", "cuda", "enabl", "gpus"],
-	"tag": ["clustering"],
+	"stemmed": [
+		"parallel",
+		"cluster",
+		"of",
+		"protein",
+		"structur",
+		"on",
+		"cuda",
+		"enabl",
+		"gpus"
+	],
+	"tag": [
+		"clustering"
+	],
 	"title": "Parallelized Clustering of Protein Structures on CUDA-Enabled GPUs",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 2014
 }

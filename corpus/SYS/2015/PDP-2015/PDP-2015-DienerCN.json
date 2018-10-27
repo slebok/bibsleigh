@@ -1,14 +1,33 @@
 {
-	"author": ["Matthias Diener", "Eduardo Henrique Molina da Cruz", "Philippe Olivier Alexandre Navaux"],
+	"author": [
+		"Matthias Diener",
+		"Eduardo Henrique Molina da Cruz",
+		"Philippe Olivier Alexandre Navaux"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/2015",
 	"dblpkey": "conf/pdp/DienerCN15",
 	"doi": "10.1109/PDP.2015.11",
 	"pages": "9-16",
 	"publisher": "IEEE",
-	"stemmed": ["local", "vs", "balanc", "explor", "data", "map", "polici", "on", "numa", "system"],
-	"tag": ["locality", "policy"],
+	"stemmed": [
+		"local",
+		"vs",
+		"balanc",
+		"explor",
+		"data",
+		"map",
+		"polici",
+		"on",
+		"numa",
+		"system"
+	],
+	"tag": [
+		"locality",
+		"policy"
+	],
 	"title": "Locality vs. Balance: Exploring Data Mapping Policies on NUMA Systems",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 2015
 }

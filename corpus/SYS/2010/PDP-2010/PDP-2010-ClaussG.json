@@ -1,14 +1,29 @@
 {
-	"author": ["Pierre-Nicolas Clauss", "Jens Gustedt"],
+	"author": [
+		"Pierre-Nicolas Clauss",
+		"Jens Gustedt"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/2010",
 	"dblpkey": "conf/pdp/ClaussG10",
 	"doi": "10.1109/PDP.2010.11",
 	"pages": "155-162",
 	"publisher": "IEEE Computer Society",
-	"stemmed": ["experi", "iter", "comput", "with", "order", "read", "write", "lock"],
-	"tag": ["order"],
+	"stemmed": [
+		"experi",
+		"iter",
+		"comput",
+		"with",
+		"order",
+		"read",
+		"write",
+		"lock"
+	],
+	"tag": [
+		"order"
+	],
 	"title": "Experimenting Iterative Computations with Ordered Read-Write Locks",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 2010
 }

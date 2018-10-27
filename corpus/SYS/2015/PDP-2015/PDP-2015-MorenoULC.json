@@ -1,14 +1,41 @@
 {
-	"author": ["Javier Arias Moreno", "Osman S. Ünsal", "Jesús Labarta", "Adrián Cristal"],
+	"author": [
+		"Javier Arias Moreno",
+		"Osman S. Ünsal",
+		"Jesús Labarta",
+		"Adrián Cristal"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/2015",
 	"dblpkey": "conf/pdp/MorenoULC15",
 	"doi": "10.1109/PDP.2015.17",
 	"pages": "99-102",
 	"publisher": "IEEE",
-	"stemmed": ["nano", "checkpoint", "a", "task", "base", "asynchron", "dataflow", "framework", "for", "effici", "and", "scalabl", "checkpoint", "restart"],
-	"tag": ["data flow", "framework", "named", "performance", "scalability"],
+	"stemmed": [
+		"nano",
+		"checkpoint",
+		"a",
+		"task",
+		"base",
+		"asynchron",
+		"dataflow",
+		"framework",
+		"for",
+		"effici",
+		"and",
+		"scalabl",
+		"checkpoint",
+		"restart"
+	],
+	"tag": [
+		"data flow",
+		"framework",
+		"named",
+		"performance",
+		"scalability"
+	],
 	"title": "NanoCheckpoints: A Task-Based Asynchronous Dataflow Framework for Efficient and Scalable Checkpoint/Restart",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 2015
 }

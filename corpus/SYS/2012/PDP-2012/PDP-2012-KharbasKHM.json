@@ -1,14 +1,30 @@
 {
-	"author": ["Kishor Kharbas", "Donghoon Kim", "Torsten Hoefler", "Frank Müller"],
+	"author": [
+		"Kishor Kharbas",
+		"Donghoon Kim",
+		"Torsten Hoefler",
+		"Frank Müller"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/2012",
 	"dblpkey": "conf/pdp/KharbasKHM12",
 	"doi": "10.1109/PDP.2012.11",
 	"pages": "81-88",
 	"publisher": "IEEE",
-	"stemmed": ["assess", "hpc", "failur", "detector", "for", "mpi", "job"],
-	"tag": ["detection"],
+	"stemmed": [
+		"assess",
+		"hpc",
+		"failur",
+		"detector",
+		"for",
+		"mpi",
+		"job"
+	],
+	"tag": [
+		"detection"
+	],
 	"title": "Assessing HPC Failure Detectors for MPI Jobs",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 2012
 }

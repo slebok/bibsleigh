@@ -1,14 +1,37 @@
 {
-	"author": ["Paula Navarro", "Vicent Selfa", "Julio Sahuquillo", "María Engracia Gómez", "Crispín Gómez Requena"],
+	"author": [
+		"Paula Navarro",
+		"Vicent Selfa",
+		"Julio Sahuquillo",
+		"María Engracia Gómez",
+		"Crispín Gómez Requena"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/2015",
 	"dblpkey": "conf/pdp/NavarroSSGR15",
 	"doi": "10.1109/PDP.2015.100",
 	"pages": "22-26",
 	"publisher": "IEEE",
-	"stemmed": ["row", "tabl", "design", "choic", "to", "exploit", "bank", "local", "in", "multiprogram", "workload"],
-	"tag": ["design", "locality", "multi"],
+	"stemmed": [
+		"row",
+		"tabl",
+		"design",
+		"choic",
+		"to",
+		"exploit",
+		"bank",
+		"local",
+		"in",
+		"multiprogram",
+		"workload"
+	],
+	"tag": [
+		"design",
+		"locality",
+		"multi"
+	],
 	"title": "Row Tables: Design Choices to Exploit Bank Locality in Multiprogram Workloads",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 2015
 }

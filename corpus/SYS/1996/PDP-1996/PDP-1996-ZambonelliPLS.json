@@ -1,14 +1,43 @@
 {
-	"author": ["Franco Zambonelli", "Matteo Pugassi", "Letizia Leonardi", "Nello Scarabottolo"],
+	"author": [
+		"Franco Zambonelli",
+		"Matteo Pugassi",
+		"Letizia Leonardi",
+		"Nello Scarabottolo"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/1996",
 	"dblpkey": "conf/pdp/ZambonelliPLS96",
 	"doi": "10.1109/EMPDP.1996.500609",
 	"pages": "367-376",
 	"publisher": "IEEE Computer Society",
-	"stemmed": ["experi", "on", "port", "a", "parallel", "object", "environ", "from", "a", "transput", "network", "to", "a", "pvm", "base", "system"],
-	"tag": ["case study", "experience", "migration", "network", "parallel"],
+	"stemmed": [
+		"experi",
+		"on",
+		"port",
+		"a",
+		"parallel",
+		"object",
+		"environ",
+		"from",
+		"a",
+		"transput",
+		"network",
+		"to",
+		"a",
+		"pvm",
+		"base",
+		"system"
+	],
+	"tag": [
+		"case study",
+		"experience",
+		"migration",
+		"network",
+		"parallel"
+	],
 	"title": "Experiences on Porting a Parallel Objects Environment from a Transputer Network to a PVM-Based System",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 1996
 }

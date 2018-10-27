@@ -1,14 +1,36 @@
 {
-	"author": ["Luís Moura Silva", "João Gabriel Silva", "Simon Chapple"],
+	"author": [
+		"Luís Moura Silva",
+		"João Gabriel Silva",
+		"Simon Chapple"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/1996",
 	"dblpkey": "conf/pdp/SilvaSC96",
 	"doi": "10.1109/EMPDP.1996.500568",
 	"pages": "50-58",
 	"publisher": "IEEE Computer Society",
-	"stemmed": ["implement", "distribut", "share", "memori", "on", "top", "of", "mpi", "the", "dsmpi", "librari"],
-	"tag": ["distributed", "implementation", "library", "memory management"],
+	"stemmed": [
+		"implement",
+		"distribut",
+		"share",
+		"memori",
+		"on",
+		"top",
+		"of",
+		"mpi",
+		"the",
+		"dsmpi",
+		"librari"
+	],
+	"tag": [
+		"distributed",
+		"implementation",
+		"library",
+		"memory management"
+	],
 	"title": "Implementing Distributed Shared Memory on Top of MPI: The DSMPI Library",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 1996
 }

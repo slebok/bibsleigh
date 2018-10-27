@@ -1,14 +1,35 @@
 {
-	"author": ["José Colmenares", "Jesús Ortiz", "Sergio Decherchi", "Amir Fijany", "Walter Rocchia"],
+	"author": [
+		"José Colmenares",
+		"Jesús Ortiz",
+		"Sergio Decherchi",
+		"Amir Fijany",
+		"Walter Rocchia"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/2013",
 	"dblpkey": "conf/pdp/ColmenaresODFR13",
 	"doi": "10.1109/PDP.2013.67",
 	"pages": "420-426",
 	"publisher": "IEEE Computer Society",
-	"stemmed": ["solv", "the", "linear", "poisson", "boltzmann", "equat", "on", "gpus", "use", "cuda"],
-	"tag": ["equation", "using"],
+	"stemmed": [
+		"solv",
+		"the",
+		"linear",
+		"poisson",
+		"boltzmann",
+		"equat",
+		"on",
+		"gpus",
+		"use",
+		"cuda"
+	],
+	"tag": [
+		"equation",
+		"using"
+	],
 	"title": "Solving the Linearized Poisson-Boltzmann Equation on GPUs Using CUDA",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 2013
 }

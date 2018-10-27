@@ -1,14 +1,36 @@
 {
-	"author": ["Javier Cuenca", "Luis-Pedro García", "Domingo Giménez"],
+	"author": [
+		"Javier Cuenca",
+		"Luis-Pedro García",
+		"Domingo Giménez"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/2012",
 	"dblpkey": "conf/pdp/CuencaGG12",
 	"doi": "10.1109/PDP.2012.12",
 	"pages": "66-73",
 	"publisher": "IEEE",
-	"stemmed": ["improv", "linear", "algebra", "comput", "on", "numa", "platform", "through", "auto", "tune", "nest", "parallel"],
-	"tag": ["algebra", "linear", "parallel"],
+	"stemmed": [
+		"improv",
+		"linear",
+		"algebra",
+		"comput",
+		"on",
+		"numa",
+		"platform",
+		"through",
+		"auto",
+		"tune",
+		"nest",
+		"parallel"
+	],
+	"tag": [
+		"algebra",
+		"linear",
+		"parallel"
+	],
 	"title": "Improving Linear Algebra Computation on NUMA Platforms through Auto-tuned Nested Parallelism",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 2012
 }

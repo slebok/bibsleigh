@@ -1,14 +1,35 @@
 {
-	"author": ["Noboru Tanabe", "Yuuka Ogawa", "Masami Takata", "Kazuki Joe"],
+	"author": [
+		"Noboru Tanabe",
+		"Yuuka Ogawa",
+		"Masami Takata",
+		"Kazuki Joe"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/2011",
 	"dblpkey": "conf/pdp/TanabeOTJ11",
 	"doi": "10.1109/PDP.2011.92",
 	"pages": "101-108",
 	"publisher": "IEEE Computer Society",
-	"stemmed": ["scaleabl", "spars", "matrix", "vector", "multipl", "with", "function", "memori", "and", "gpus"],
-	"tag": ["functional", "memory management", "multi"],
+	"stemmed": [
+		"scaleabl",
+		"spars",
+		"matrix",
+		"vector",
+		"multipl",
+		"with",
+		"function",
+		"memori",
+		"and",
+		"gpus"
+	],
+	"tag": [
+		"functional",
+		"memory management",
+		"multi"
+	],
 	"title": "Scaleable Sparse Matrix-Vector Multiplication with Functional Memory and GPUs",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 2011
 }

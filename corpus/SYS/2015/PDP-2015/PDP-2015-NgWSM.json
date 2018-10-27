@@ -1,14 +1,42 @@
 {
-	"author": ["Jim Ng", "Xiaohang Wang", "Amit Kumar Singh", "Terrence S. T. Mak"],
+	"author": [
+		"Jim Ng",
+		"Xiaohang Wang",
+		"Amit Kumar Singh",
+		"Terrence S. T. Mak"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/2015",
 	"dblpkey": "conf/pdp/NgWSM15",
 	"doi": "10.1109/PDP.2015.16",
 	"pages": "345-352",
 	"publisher": "IEEE",
-	"stemmed": ["de", "frag", "defragment", "for", "effici", "runtim", "resourc", "alloc", "in", "no", "c", "base", "mani", "core", "system"],
-	"tag": ["manycore", "named", "performance", "resource management", "runtime"],
+	"stemmed": [
+		"de",
+		"frag",
+		"defragment",
+		"for",
+		"effici",
+		"runtim",
+		"resourc",
+		"alloc",
+		"in",
+		"no",
+		"c",
+		"base",
+		"mani",
+		"core",
+		"system"
+	],
+	"tag": [
+		"manycore",
+		"named",
+		"performance",
+		"resource management",
+		"runtime"
+	],
 	"title": "DeFrag: Defragmentation for Efficient Runtime Resource Allocation in NoC-Based Many-core Systems",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 2015
 }

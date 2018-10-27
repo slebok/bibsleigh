@@ -1,14 +1,43 @@
 {
-	"author": ["Evren Yurtesen", "Matti Ropo", "Mats Aspnäs", "Jan Westerholm"],
+	"author": [
+		"Evren Yurtesen",
+		"Matti Ropo",
+		"Mats Aspnäs",
+		"Jan Westerholm"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/2011",
 	"dblpkey": "conf/pdp/YurtesenRAW11",
 	"doi": "10.1109/PDP.2011.80",
 	"pages": "341-348",
 	"publisher": "IEEE Computer Society",
-	"stemmed": ["sse", "vector", "and", "gpu", "implement", "of", "arakawa", "s", "formula", "for", "numer", "integr", "of", "equat", "of", "fluid", "motion"],
-	"tag": ["equation", "gpu", "implementation", "integration"],
+	"stemmed": [
+		"sse",
+		"vector",
+		"and",
+		"gpu",
+		"implement",
+		"of",
+		"arakawa",
+		"s",
+		"formula",
+		"for",
+		"numer",
+		"integr",
+		"of",
+		"equat",
+		"of",
+		"fluid",
+		"motion"
+	],
+	"tag": [
+		"equation",
+		"gpu",
+		"implementation",
+		"integration"
+	],
 	"title": "SSE Vectorized and GPU Implementations of Arakawa’s Formula for Numerical Integration of Equations of Fluid Motion",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 2011
 }

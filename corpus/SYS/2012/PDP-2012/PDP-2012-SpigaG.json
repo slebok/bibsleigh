@@ -1,14 +1,39 @@
 {
-	"author": ["Filippo Spiga", "Ivan Girotto"],
+	"author": [
+		"Filippo Spiga",
+		"Ivan Girotto"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/2012",
 	"dblpkey": "conf/pdp/SpigaG12",
 	"doi": "10.1109/PDP.2012.72",
 	"pages": "368-375",
 	"publisher": "IEEE",
-	"stemmed": ["phigemm", "a", "cpu", "gpu", "librari", "for", "port", "quantum", "espresso", "on", "hybrid", "system"],
-	"tag": ["cpu", "gpu", "hybrid", "library", "migration", "named", "quantum"],
+	"stemmed": [
+		"phigemm",
+		"a",
+		"cpu",
+		"gpu",
+		"librari",
+		"for",
+		"port",
+		"quantum",
+		"espresso",
+		"on",
+		"hybrid",
+		"system"
+	],
+	"tag": [
+		"cpu",
+		"gpu",
+		"hybrid",
+		"library",
+		"migration",
+		"named",
+		"quantum"
+	],
 	"title": "phiGEMM: A CPU-GPU Library for Porting Quantum ESPRESSO on Hybrid Systems",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 2012
 }

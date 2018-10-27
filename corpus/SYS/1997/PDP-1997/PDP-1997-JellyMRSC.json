@@ -1,13 +1,31 @@
 {
-	"author": ["Innes Jelly", "M. Mastroianni", "Stefano Russo", "Carlo Savy", "Peter R. Croll"],
+	"author": [
+		"Innes Jelly",
+		"M. Mastroianni",
+		"Stefano Russo",
+		"Carlo Savy",
+		"Peter R. Croll"
+	],
 	"booktitle": "PDP",
 	"crossref": "conf/pdp/1997",
 	"dblpkey": "conf/pdp/JellyMRSC97",
 	"pages": "351-357",
 	"publisher": "IEEE Computer Society",
-	"stemmed": ["detect", "deadlock", "with", "client", "server", "analysi"],
-	"tag": ["analysis", "concurrent", "detection"],
+	"stemmed": [
+		"detect",
+		"deadlock",
+		"with",
+		"client",
+		"server",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"concurrent",
+		"detection"
+	],
 	"title": "Detecting deadlock with client-server analysis",
 	"type": "inproceedings",
+	"venue": "PDP",
 	"year": 1997
 }
