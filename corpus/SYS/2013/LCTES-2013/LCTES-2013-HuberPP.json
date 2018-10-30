@@ -1,14 +1,38 @@
 {
-	"author": ["Benedikt Huber", "Daniel Prokesch", "Peter P. Puschner"],
-	"booktitle": "LCTES",
+	"author": [
+		"Benedikt Huber",
+		"Daniel Prokesch",
+		"Peter P. Puschner"
+	],
+	"booktitle": "Proceedings of the 14th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2013",
 	"dblpkey": "conf/lctrts/HuberPP13",
 	"doi": "10.1145/2465554.2465567",
 	"ee": "http://doi.acm.org/10.1145/2465554.2465567",
 	"pages": "163-172",
 	"publisher": "ACM",
-	"stemmed": ["combin", "wcet", "analysi", "of", "bitcod", "and", "machin", "code", "use", "control", "flow", "relat", "graph"],
-	"tag": ["analysis", "control flow", "graph", "using"],
+	"stemmed": [
+		"combin",
+		"wcet",
+		"analysi",
+		"of",
+		"bitcod",
+		"and",
+		"machin",
+		"code",
+		"use",
+		"control",
+		"flow",
+		"relat",
+		"graph"
+	],
+	"tag": [
+		"analysis",
+		"control flow",
+		"graph",
+		"using"
+	],
 	"title": "Combined WCET analysis of bitcode and machine code using control-flow relation graphs",
 	"type": "inproceedings",
 	"venue": "LCTES",

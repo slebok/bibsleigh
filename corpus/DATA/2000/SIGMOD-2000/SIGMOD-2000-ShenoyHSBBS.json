@@ -1,16 +1,47 @@
 {
-	"author": ["Pradeep Shenoy", "Jayant R. Haritsa", "S. Sudarshan", "Gaurav Bhalotia", "Mayank Bawa", "Devavrat Shah"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Pradeep Shenoy",
+		"Jayant R. Haritsa",
+		"S. Sudarshan",
+		"Gaurav Bhalotia",
+		"Mayank Bawa",
+		"Devavrat Shah"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
-	"cite": ["conf/sigmod/AgrawalIS93", "conf/vldb/AgrawalS94", "conf/icde/DunkelS99", "...", "...", "conf/kdd/HolsheimerKMT95", "conf/vldb/SavasereON95", "...", "conf/pdis/YenC96", "...", "conf/kdd/ZakiPOL97"],
+	"cite": [
+		"conf/sigmod/AgrawalIS93",
+		"conf/vldb/AgrawalS94",
+		"conf/icde/DunkelS99",
+		"...",
+		"...",
+		"conf/kdd/HolsheimerKMT95",
+		"conf/vldb/SavasereON95",
+		"...",
+		"conf/pdis/YenC96",
+		"...",
+		"conf/kdd/ZakiPOL97"
+	],
 	"crossref": "conf/sigmod/2000",
 	"dblpkey": "conf/sigmod/ShenoyHSBBS00",
 	"doi": "10.1145/342009.335376",
 	"ee": "http://doi.acm.org/10.1145/342009.335376",
 	"pages": "22-33",
 	"publisher": "ACM",
-	"stemmed": ["turbo", "charg", "vertic", "mine", "of", "larg", "databas"],
-	"tag": ["database", "mining", "scalability"],
+	"stemmed": [
+		"turbo",
+		"charg",
+		"vertic",
+		"mine",
+		"of",
+		"larg",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"mining",
+		"scalability"
+	],
 	"title": "Turbo-charging Vertical Mining of Large Databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

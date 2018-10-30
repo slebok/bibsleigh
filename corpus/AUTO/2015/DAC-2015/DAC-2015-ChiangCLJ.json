@@ -1,14 +1,35 @@
 {
-	"author": ["Ting-Wei Chiang", "Kai-Hui Chang", "Yen-Ting Liu", "Jie-Hong R. Jiang"],
-	"booktitle": "DAC",
+	"author": [
+		"Ting-Wei Chiang",
+		"Kai-Hui Chang",
+		"Yen-Ting Liu",
+		"Jie-Hong R. Jiang"
+	],
+	"booktitle": "Proceedings of the 52nd Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2015",
 	"dblpkey": "conf/dac/ChiangCLJ15",
 	"doi": "10.1145/2744769.2744905",
 	"ee": "http://doi.acm.org/10.1145/2744769.2744905",
 	"pages": "130:1-130:6",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "sequenc", "constrain", "retent", "regist", "minim", "in", "power", "gate", "design"],
-	"tag": ["design", "power management", "scalability"],
+	"stemmed": [
+		"scalabl",
+		"sequenc",
+		"constrain",
+		"retent",
+		"regist",
+		"minim",
+		"in",
+		"power",
+		"gate",
+		"design"
+	],
+	"tag": [
+		"design",
+		"power management",
+		"scalability"
+	],
 	"title": "Scalable sequence-constrained retention register minimization in power gating design",
 	"type": "inproceedings",
 	"venue": "DAC",

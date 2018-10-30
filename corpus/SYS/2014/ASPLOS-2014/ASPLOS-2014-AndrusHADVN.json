@@ -1,14 +1,35 @@
 {
-	"author": ["Jeremy Andrus", "Alexander Van't Hof", "Naser AlDuaij", "Christoffer Dall", "Nicolas Viennot", "Jason Nieh"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Jeremy Andrus",
+		"Alexander Van't Hof",
+		"Naser AlDuaij",
+		"Christoffer Dall",
+		"Nicolas Viennot",
+		"Jason Nieh"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2014",
 	"dblpkey": "conf/asplos/AndrusHADVN14",
 	"doi": "10.1145/2541940.2541972",
 	"ee": "http://doi.acm.org/10.1145/2541940.2541972",
 	"pages": "367-382",
 	"publisher": "ACM",
-	"stemmed": ["cider", "nativ", "execut", "of", "io", "app", "on", "android"],
-	"tag": ["android", "execution", "named"],
+	"stemmed": [
+		"cider",
+		"nativ",
+		"execut",
+		"of",
+		"io",
+		"app",
+		"on",
+		"android"
+	],
+	"tag": [
+		"android",
+		"execution",
+		"named"
+	],
 	"title": "Cider: native execution of iOS apps on android",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

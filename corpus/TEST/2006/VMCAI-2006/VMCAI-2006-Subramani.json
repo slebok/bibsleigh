@@ -1,6 +1,7 @@
 {
 	"author": "K. Subramani",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the Seventh International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2006",
 	"dblpkey": "conf/vmcai/Subramani06",
 	"doi": "10.1007/11609773_26",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["total", "clairvoy", "schedul", "with", "relat", "time", "constraint"],
-	"tag": ["constraints", "scheduling"],
+	"stemmed": [
+		"total",
+		"clairvoy",
+		"schedul",
+		"with",
+		"relat",
+		"time",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"scheduling"
+	],
 	"title": "Totally Clairvoyant Scheduling with Relative Timing Constraints",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3855,
+	"volume": "3855",
 	"year": 2006
 }

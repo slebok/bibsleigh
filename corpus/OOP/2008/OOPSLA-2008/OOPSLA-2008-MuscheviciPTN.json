@@ -1,6 +1,11 @@
 {
-	"author": ["Radu Muschevici", "Alex Potanin", "Ewan D. Tempero", "James Noble"],
-	"booktitle": "Proceedings of the 23rd Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Radu Muschevici",
+		"Alex Potanin",
+		"Ewan D. Tempero",
+		"James Noble"
+	],
+	"booktitle": "Proceedings of the 23rd Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2008",
 	"dblpkey": "conf/oopsla/MuscheviciPTN08",
@@ -10,8 +15,15 @@
 	"isbn": "978-1-60558-215-3",
 	"pages": "563-582",
 	"publisher": "ACM",
-	"stemmed": ["multipl", "dispatch", "in", "practic"],
-	"tag": ["multi"],
+	"stemmed": [
+		"multipl",
+		"dispatch",
+		"in",
+		"practic"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "Multiple dispatch in practice",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

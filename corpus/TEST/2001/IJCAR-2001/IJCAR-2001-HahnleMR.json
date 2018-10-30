@@ -1,6 +1,11 @@
 {
-	"author": ["Reiner Hähnle", "Neil V. Murray", "Erik Rosenthal"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Reiner Hähnle",
+		"Neil V. Murray",
+		"Erik Rosenthal"
+	],
+	"booktitle": "Proceedings of the First International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2001",
 	"dblpkey": "conf/cade/HahnleMR01",
 	"doi": "10.1007/3-540-45744-5_14",
@@ -10,11 +15,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["order", "resolut", "vs", "connect", "graph", "resolut"],
-	"tag": ["graph", "order"],
+	"stemmed": [
+		"order",
+		"resolut",
+		"vs",
+		"connect",
+		"graph",
+		"resolut"
+	],
+	"tag": [
+		"graph",
+		"order"
+	],
 	"title": "Ordered Resolution vs. Connection Graph Resolution",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 2083,
+	"volume": "2083",
 	"year": 2001
 }

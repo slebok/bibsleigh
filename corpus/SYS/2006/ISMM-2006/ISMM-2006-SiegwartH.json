@@ -1,14 +1,30 @@
 {
-	"author": ["David Siegwart", "Martin Hirzel"],
-	"booktitle": "ISMM",
+	"author": [
+		"David Siegwart",
+		"Martin Hirzel"
+	],
+	"booktitle": "Proceedings of the Fifth International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2006",
 	"dblpkey": "conf/iwmm/SiegwartH06",
 	"doi": "10.1145/1133956.1133964",
 	"ee": "http://doi.acm.org/10.1145/1133956.1133964",
 	"pages": "52-63",
 	"publisher": "ACM",
-	"stemmed": ["improv", "local", "with", "parallel", "hierarch", "copi", "gc"],
-	"tag": ["garbage collection", "locality", "parallel"],
+	"stemmed": [
+		"improv",
+		"local",
+		"with",
+		"parallel",
+		"hierarch",
+		"copi",
+		"gc"
+	],
+	"tag": [
+		"garbage collection",
+		"locality",
+		"parallel"
+	],
 	"title": "Improving locality with parallel hierarchical copying GC",
 	"type": "inproceedings",
 	"venue": "ISMM",

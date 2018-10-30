@@ -1,14 +1,32 @@
 {
-	"author": ["Jian Pei", "Jiawei Han"],
-	"booktitle": "KDD",
+	"author": [
+		"Jian Pei",
+		"Jiawei Han"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2000",
 	"dblpkey": "conf/kdd/PeiH00",
 	"doi": "10.1145/347090.347166",
 	"ee": "http://doi.acm.org/10.1145/347090.347166",
 	"pages": "350-354",
 	"publisher": "ACM",
-	"stemmed": ["can", "we", "push", "more", "constraint", "into", "frequent", "pattern", "mine"],
-	"tag": ["constraints", "mining", "question"],
+	"stemmed": [
+		"can",
+		"we",
+		"push",
+		"more",
+		"constraint",
+		"into",
+		"frequent",
+		"pattern",
+		"mine"
+	],
+	"tag": [
+		"constraints",
+		"mining",
+		"question"
+	],
 	"title": "Can we push more constraints into frequent pattern mining?",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,15 +1,32 @@
 {
-	"author": ["Jost Enderle", "Matthias Hampel", "Thomas Seidl"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jost Enderle",
+		"Matthias Hampel",
+		"Thomas Seidl"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/EnderleHS04",
 	"doi": "10.1145/1007568.1007645",
-	"ee": ["http://doi.acm.org/10.1145/1007568.1007645", "http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-162.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1007568.1007645",
+		"http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-162.pdf"
+	],
 	"pages": "683-694",
 	"publisher": "ACM",
-	"stemmed": ["join", "interv", "data", "in", "relat", "databas"],
-	"tag": ["database", "relational"],
+	"stemmed": [
+		"join",
+		"interv",
+		"data",
+		"in",
+		"relat",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"relational"
+	],
 	"title": "Joining Interval Data in Relational Databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,17 +1,39 @@
 {
-	"author": ["Santanu Paul", "Edwin Park", "David Hutches", "Jarir K. Chaar"],
-	"booktitle": "ECDL",
+	"author": [
+		"Santanu Paul",
+		"Edwin Park",
+		"David Hutches",
+		"Jarir K. Chaar"
+	],
+	"booktitle": "Proceedings of the Second European Conference on Research and Advanced Technology for Digital Libraries",
+	"booktitleshort": "ECDL",
 	"crossref": "conf/ercimdl/1998",
 	"dblpkey": "conf/ercimdl/PaulPHC98",
 	"doi": "10.1007/3-540-49653-X_82",
 	"pages": "801-818",
 	"publisher": "Springer",
 	"series": "Lecture Notes in Computer Science",
-	"stemmed": ["rain", "maker", "workflow", "execut", "use", "distribut", "interoper", "compon"],
-	"tag": ["component", "distributed", "execution", "named", "using", "workflow"],
+	"stemmed": [
+		"rain",
+		"maker",
+		"workflow",
+		"execut",
+		"use",
+		"distribut",
+		"interoper",
+		"compon"
+	],
+	"tag": [
+		"component",
+		"distributed",
+		"execution",
+		"named",
+		"using",
+		"workflow"
+	],
 	"title": "RainMaker: Workflow Execution Using Distributed, Interoperable Components",
 	"type": "inproceedings",
 	"venue": "TPDL",
-	"volume": 1513,
+	"volume": "1513",
 	"year": 1998
 }

@@ -1,6 +1,7 @@
 {
 	"author": "Jean-Hugues Réty",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the 10th Conference on Hypertext and Hypermedia",
+	"booktitleshort": "HT",
 	"cdrom": "HT1999/P135.pdf",
 	"crossref": "conf/ht/99",
 	"dblpkey": "conf/ht/Rety99",
@@ -8,8 +9,19 @@
 	"ee": "http://doi.acm.org/10.1145/294469.294503",
 	"pages": "135-136",
 	"publisher": "ACM",
-	"stemmed": ["structur", "analysi", "for", "hypertext", "with", "condit", "linkag"],
-	"tag": ["analysis", "hypermedia"],
+	"stemmed": [
+		"structur",
+		"analysi",
+		"for",
+		"hypertext",
+		"with",
+		"condit",
+		"linkag"
+	],
+	"tag": [
+		"analysis",
+		"hypermedia"
+	],
 	"title": "Structure Analysis for Hypertext with Conditional Linkage",
 	"type": "inproceedings",
 	"venue": "HT",

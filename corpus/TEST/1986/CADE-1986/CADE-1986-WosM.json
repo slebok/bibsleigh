@@ -1,6 +1,10 @@
 {
-	"author": ["Larry Wos", "William McCune"],
-	"booktitle": "CADE",
+	"author": [
+		"Larry Wos",
+		"William McCune"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/WosM86",
 	"doi": "10.1007/3-540-16780-3_93",
@@ -10,10 +14,13 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["negat", "paramodul"],
+	"stemmed": [
+		"negat",
+		"paramodul"
+	],
 	"title": "Negative Paramodulation",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

@@ -1,6 +1,7 @@
 {
 	"author": "James Allan",
 	"booktitle": "Proceedings of the 18th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1995/P337.pdf",
 	"crossref": "conf/sigir/95",
 	"dblpkey": "conf/sigir/Allan95",
@@ -8,8 +9,17 @@
 	"ee": "http://doi.acm.org/10.1145/215206.215380",
 	"pages": "337-343",
 	"publisher": "ACM Press",
-	"stemmed": ["relev", "feedback", "with", "too", "much", "data"],
-	"tag": ["feedback"],
+	"stemmed": [
+		"relev",
+		"feedback",
+		"with",
+		"too",
+		"much",
+		"data"
+	],
+	"tag": [
+		"feedback"
+	],
 	"title": "Relevance Feedback With Too Much Data",
 	"type": "inproceedings",
 	"venue": "SIGIR",

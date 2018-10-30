@@ -1,15 +1,37 @@
 {
-	"author": ["Ermir Qeli", "Julinda Gllavata", "Bernd Freisleben"],
-	"booktitle": "ACM Symposium on Document Engineering",
-	"booktitleshort": "DocEng",
+	"author": [
+		"Ermir Qeli",
+		"Julinda Gllavata",
+		"Bernd Freisleben"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Document Engineering",
+	"booktitleshort": "ACM Symposium on Document Engineering",
 	"crossref": "conf/doceng/2006",
 	"dblpkey": "conf/doceng/QeliGF06",
 	"doi": "10.1145/1166160.1166185",
 	"ee": "http://doi.acm.org/10.1145/1166160.1166185",
 	"pages": "88-90",
 	"publisher": "ACM",
-	"stemmed": ["customiz", "detect", "of", "chang", "for", "xml", "document", "use", "x", "path", "express"],
-	"tag": ["detection", "documentation", "using", "xml", "xpath"],
+	"stemmed": [
+		"customiz",
+		"detect",
+		"of",
+		"chang",
+		"for",
+		"xml",
+		"document",
+		"use",
+		"x",
+		"path",
+		"express"
+	],
+	"tag": [
+		"detection",
+		"documentation",
+		"using",
+		"xml",
+		"xpath"
+	],
 	"title": "Customizable detection of changes for XML documents using XPath expressions",
 	"type": "inproceedings",
 	"venue": "DocEng",

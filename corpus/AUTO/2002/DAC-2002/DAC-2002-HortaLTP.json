@@ -1,14 +1,37 @@
 {
-	"author": ["Edson L. Horta", "John W. Lockwood", "David E. Taylor", "David B. Parlour"],
-	"booktitle": "DAC",
+	"author": [
+		"Edson L. Horta",
+		"John W. Lockwood",
+		"David E. Taylor",
+		"David B. Parlour"
+	],
+	"booktitle": "Proceedings of the 39th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2002",
 	"dblpkey": "conf/dac/HortaLTP02",
 	"doi": "10.1145/513918.514007",
 	"ee": "http://doi.acm.org/10.1145/513918.514007",
 	"pages": "343-348",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "hardwar", "plugin", "in", "an", "fpga", "with", "partial", "run", "time", "reconfigur"],
-	"tag": ["configuration management", "hardware", "plugin", "runtime"],
+	"stemmed": [
+		"dynam",
+		"hardwar",
+		"plugin",
+		"in",
+		"an",
+		"fpga",
+		"with",
+		"partial",
+		"run",
+		"time",
+		"reconfigur"
+	],
+	"tag": [
+		"configuration management",
+		"hardware",
+		"plugin",
+		"runtime"
+	],
 	"title": "Dynamic hardware plugins in an FPGA with partial run-time reconfiguration",
 	"type": "inproceedings",
 	"venue": "DAC",

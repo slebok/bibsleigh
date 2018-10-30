@@ -1,6 +1,6 @@
 {
 	"author": "James E. Tomayko",
-	"booktitle": "CSEE",
+	"booktitle": "Proceedings of the Third Software Engineering Education Conference",
 	"booktitleshort": "SEI",
 	"crossref": "conf/csee/1989",
 	"dblpkey": "conf/csee/Tomayko89",
@@ -10,11 +10,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["teach", "mainten", "use", "larg", "softwar", "artifact"],
-	"tag": ["education", "maintenance", "scalability", "using"],
+	"stemmed": [
+		"teach",
+		"mainten",
+		"use",
+		"larg",
+		"softwar",
+		"artifact"
+	],
+	"tag": [
+		"education",
+		"maintenance",
+		"scalability",
+		"using"
+	],
 	"title": "Teaching Maintenance Using Large Software Artifacts",
 	"type": "inproceedings",
 	"venue": "CSEET",
-	"volume": 376,
+	"volume": "376",
 	"year": 1989
 }

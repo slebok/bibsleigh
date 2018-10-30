@@ -1,13 +1,27 @@
 {
-	"author": ["Karel Heyse", "Dirk Stroobandt"],
-	"booktitle": "DAC",
+	"author": [
+		"Karel Heyse",
+		"Dirk Stroobandt"
+	],
+	"booktitle": "Proceedings of the 52nd Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2015",
 	"dblpkey": "conf/dac/HeyseS15",
 	"doi": "10.1145/2744769.2744802",
 	"ee": "http://doi.acm.org/10.1145/2744769.2744802",
 	"pages": "159:1-159:6",
 	"publisher": "ACM",
-	"stemmed": ["avoid", "transit", "effect", "in", "dynam", "circuit", "specialis", "on", "fpgas"],
+	"stemmed": [
+		"avoid",
+		"transit",
+		"effect",
+		"in",
+		"dynam",
+		"circuit",
+		"specialis",
+		"on",
+		"fpgas"
+	],
 	"title": "Avoiding transitional effects in dynamic circuit specialisation on FPGAs",
 	"type": "inproceedings",
 	"venue": "DAC",

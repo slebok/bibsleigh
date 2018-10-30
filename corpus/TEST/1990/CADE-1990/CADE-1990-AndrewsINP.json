@@ -1,6 +1,12 @@
 {
-	"author": ["Peter B. Andrews", "Sunil Issar", "Dan Nesmith", "Frank Pfenning"],
-	"booktitle": "CADE",
+	"author": [
+		"Peter B. Andrews",
+		"Sunil Issar",
+		"Dan Nesmith",
+		"Frank Pfenning"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/AndrewsINP90",
 	"doi": "10.1007/3-540-52885-7_120",
@@ -10,11 +16,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "tps", "theorem", "prove", "system"],
-	"tag": ["proving", "theorem proving"],
+	"stemmed": [
+		"the",
+		"tps",
+		"theorem",
+		"prove",
+		"system"
+	],
+	"tag": [
+		"proving",
+		"theorem proving"
+	],
 	"title": "The TPS Theorem Proving System",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

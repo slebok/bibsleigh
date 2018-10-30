@@ -1,16 +1,38 @@
 {
-	"acmid": 874337,
-	"author": ["Dmitry Ponomarev", "Gurhan Kucuk", "Kanad Ghose"],
-	"booktitle": "DATE",
+	"acmid": "874337",
+	"author": [
+		"Dmitry Ponomarev",
+		"Gurhan Kucuk",
+		"Kanad Ghose"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2002",
 	"dblpkey": "conf/date/PonomarevKG02",
 	"doi": "10.1109/DATE.2002.998259",
-	"ee": ["http://doi.ieeecomputersociety.org/10.1109/DATE.2002.998259", "http://dl.acm.org/citation.cfm?id=874337"],
+	"ee": [
+		"http://doi.ieeecomputersociety.org/10.1109/DATE.2002.998259",
+		"http://dl.acm.org/citation.cfm?id=874337"
+	],
 	"pages": "124-129",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["accu", "power", "an", "accur", "power", "estim", "tool", "for", "superscalar", "microprocessor"],
-	"tag": ["estimation", "named"],
+	"stemmed": [
+		"accu",
+		"power",
+		"an",
+		"accur",
+		"power",
+		"estim",
+		"tool",
+		"for",
+		"superscalar",
+		"microprocessor"
+	],
+	"tag": [
+		"estimation",
+		"named"
+	],
 	"title": "AccuPower: An Accurate Power Estimation Tool for Superscalar Microprocessors",
 	"type": "inproceedings",
 	"venue": "DATE",

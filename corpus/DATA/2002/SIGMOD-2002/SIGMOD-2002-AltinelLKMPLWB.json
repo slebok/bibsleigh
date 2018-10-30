@@ -1,15 +1,37 @@
 {
-	"author": ["Mehmet Altinel", "Qiong Luo", "Sailesh Krishnamurthy", "C. Mohan", "Hamid Pirahesh", "Bruce G. Lindsay", "Honguk Woo", "Larry Brown"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Mehmet Altinel",
+		"Qiong Luo",
+		"Sailesh Krishnamurthy",
+		"C. Mohan",
+		"Hamid Pirahesh",
+		"Bruce G. Lindsay",
+		"Honguk Woo",
+		"Larry Brown"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/AltinelLKMPLWB02",
 	"doi": "10.1145/564691.564765",
 	"ee": "http://doi.acm.org/10.1145/564691.564765",
-	"pages": 612,
+	"pages": "612",
 	"publisher": "ACM",
-	"stemmed": ["db", "cach", "databas", "cach", "for", "web", "applic", "server"],
-	"tag": ["database", "named", "web"],
+	"stemmed": [
+		"db",
+		"cach",
+		"databas",
+		"cach",
+		"for",
+		"web",
+		"applic",
+		"server"
+	],
+	"tag": [
+		"database",
+		"named",
+		"web"
+	],
 	"title": "DBCache: database caching for web application servers",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

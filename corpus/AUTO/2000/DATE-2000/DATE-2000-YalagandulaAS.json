@@ -1,6 +1,11 @@
 {
-	"author": ["Praveen Yalagandula", "Adnan Aziz", "Vigyan Singhal"],
-	"booktitle": "DATE",
+	"author": [
+		"Praveen Yalagandula",
+		"Adnan Aziz",
+		"Vigyan Singhal"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/YalagandulaAS00",
 	"doi": "10.1109/DATE.2000.840045",
@@ -8,8 +13,20 @@
 	"pages": "237-242",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["automat", "lighthous", "generat", "for", "direct", "state", "space", "search"],
-	"tag": ["automation", "generative"],
+	"stemmed": [
+		"automat",
+		"lighthous",
+		"generat",
+		"for",
+		"direct",
+		"state",
+		"space",
+		"search"
+	],
+	"tag": [
+		"automation",
+		"generative"
+	],
 	"title": "Automatic Lighthouse Generation for Directed State Space Search",
 	"type": "inproceedings",
 	"venue": "DATE",

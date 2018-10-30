@@ -1,6 +1,7 @@
 {
 	"author": "Oege de Moor",
 	"booktitle": "Proceedings of the Seventh International Symposium on Programming Languages: Implementations, Logics and Programs",
+	"booktitleshort": "PPDP",
 	"crossref": "conf/plilp/95",
 	"dblpkey": "conf/plilp/Moor95",
 	"doi": "10.1007/BFb0026809",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "generic", "program", "for", "sequenti", "decis", "process"],
-	"tag": ["process"],
+	"stemmed": [
+		"a",
+		"generic",
+		"program",
+		"for",
+		"sequenti",
+		"decis",
+		"process"
+	],
+	"tag": [
+		"process"
+	],
 	"title": "A Generic Program for Sequential Decision Processes",
 	"type": "inproceedings",
 	"venue": "PPDP",
-	"volume": 982,
+	"volume": "982",
 	"year": 1995
 }

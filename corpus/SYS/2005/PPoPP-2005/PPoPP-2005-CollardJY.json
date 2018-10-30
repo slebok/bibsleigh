@@ -1,14 +1,39 @@
 {
-	"author": ["Jean-Francois Collard", "Norman P. Jouppi", "Sami Yehia"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Jean-Francois Collard",
+		"Norman P. Jouppi",
+		"Sami Yehia"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2005",
 	"dblpkey": "conf/ppopp/CollardJY05",
 	"doi": "10.1145/1065944.1065977",
 	"ee": "http://doi.acm.org/10.1145/1065944.1065977",
 	"pages": "247-254",
 	"publisher": "ACM",
-	"stemmed": ["system", "wide", "perform", "monitor", "and", "their", "applic", "to", "the", "optim", "of", "coher", "memori", "access"],
-	"tag": ["memory management", "monitoring", "optimisation", "performance"],
+	"stemmed": [
+		"system",
+		"wide",
+		"perform",
+		"monitor",
+		"and",
+		"their",
+		"applic",
+		"to",
+		"the",
+		"optim",
+		"of",
+		"coher",
+		"memori",
+		"access"
+	],
+	"tag": [
+		"memory management",
+		"monitoring",
+		"optimisation",
+		"performance"
+	],
 	"title": "System-wide performance monitors and their application to the optimization of coherent memory accesses",
 	"type": "inproceedings",
 	"venue": "PPoPP",

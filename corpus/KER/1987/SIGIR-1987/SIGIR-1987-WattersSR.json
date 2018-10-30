@@ -1,6 +1,11 @@
 {
-	"author": ["Carolyn R. Watters", "Michael A. Shepherd", "W. Robertson"],
+	"author": [
+		"Carolyn R. Watters",
+		"Michael A. Shepherd",
+		"W. Robertson"
+	],
 	"booktitle": "Proceedings of the 10th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1987/P272.pdf",
 	"crossref": "conf/sigir/87",
 	"dblpkey": "conf/sigir/WattersSR87",
@@ -8,8 +13,24 @@
 	"ee": "http://doi.acm.org/10.1145/42005.42036",
 	"pages": "272-281",
 	"publisher": "ACM",
-	"stemmed": ["toward", "an", "expert", "system", "for", "bibliograph", "retriev", "a", "prolog", "prototyp"],
-	"tag": ["prolog", "prototype", "retrieval", "towards"],
+	"stemmed": [
+		"toward",
+		"an",
+		"expert",
+		"system",
+		"for",
+		"bibliograph",
+		"retriev",
+		"a",
+		"prolog",
+		"prototyp"
+	],
+	"tag": [
+		"prolog",
+		"prototype",
+		"retrieval",
+		"towards"
+	],
 	"title": "Towards an Expert System for Bibliographic Retrieval: A Prolog Prototype",
 	"type": "inproceedings",
 	"venue": "SIGIR",

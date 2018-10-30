@@ -1,6 +1,11 @@
 {
-	"author": ["Dominic DiTomaso", "Avinash Karanth Kodi", "Ahmed Louri"],
-	"booktitle": "HPCA",
+	"author": [
+		"Dominic DiTomaso",
+		"Avinash Karanth Kodi",
+		"Ahmed Louri"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/DiTomasoKL14",
 	"doi": "10.1109/HPCA.2014.6835942",
@@ -8,8 +13,30 @@
 	"pages": "320-331",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["qore", "a", "fault", "toler", "network", "on", "chip", "architectur", "with", "power", "effici", "quad", "function", "channel", "qfc", "buffer"],
-	"tag": ["architecture", "fault tolerance", "named", "power management"],
+	"stemmed": [
+		"qore",
+		"a",
+		"fault",
+		"toler",
+		"network",
+		"on",
+		"chip",
+		"architectur",
+		"with",
+		"power",
+		"effici",
+		"quad",
+		"function",
+		"channel",
+		"qfc",
+		"buffer"
+	],
+	"tag": [
+		"architecture",
+		"fault tolerance",
+		"named",
+		"power management"
+	],
 	"title": "QORE: A fault tolerant network-on-chip architecture with power-efficient quad-function channel (QFC) buffers",
 	"type": "inproceedings",
 	"venue": "HPCA",

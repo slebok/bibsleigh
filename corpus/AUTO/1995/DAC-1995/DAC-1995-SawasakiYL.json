@@ -1,13 +1,28 @@
 {
-	"author": ["Milton H. Sawasaki", "Chantal Ykman-Couvreur", "Bill Lin"],
-	"booktitle": "DAC",
+	"author": [
+		"Milton H. Sawasaki",
+		"Chantal Ykman-Couvreur",
+		"Bill Lin"
+	],
+	"booktitle": "Proceedings of the 32nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/SawasakiYL95",
 	"doi": "10.1145/217474.217617",
 	"ee": "http://doi.acm.org/10.1145/217474.217617",
 	"pages": "718-724",
 	"publisher": "ACM Press",
-	"stemmed": ["extern", "hazard", "free", "implement", "of", "asynchron", "circuit"],
-	"tag": ["implementation"],
+	"stemmed": [
+		"extern",
+		"hazard",
+		"free",
+		"implement",
+		"of",
+		"asynchron",
+		"circuit"
+	],
+	"tag": [
+		"implementation"
+	],
 	"title": "Externally Hazard-Free Implementations of Asynchronous Circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

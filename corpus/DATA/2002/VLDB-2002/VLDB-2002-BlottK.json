@@ -1,13 +1,36 @@
 {
-	"author": ["Stephen Blott", "Henry F. Korth"],
-	"booktitle": "VLDB",
+	"author": [
+		"Stephen Blott",
+		"Henry F. Korth"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/BlottK02",
 	"ee": "http://www.vldb.org/conf/2002/S20P02.pdf",
 	"pages": "706-717",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["an", "almost", "serial", "protocol", "for", "transact", "execut", "in", "main", "memori", "databas", "system"],
-	"tag": ["database", "execution", "in memory", "protocol", "transaction"],
+	"stemmed": [
+		"an",
+		"almost",
+		"serial",
+		"protocol",
+		"for",
+		"transact",
+		"execut",
+		"in",
+		"main",
+		"memori",
+		"databas",
+		"system"
+	],
+	"tag": [
+		"database",
+		"execution",
+		"in memory",
+		"protocol",
+		"transaction"
+	],
 	"title": "An Almost-Serial Protocol for Transaction Execution in Main-Memory Database Systems",
 	"type": "inproceedings",
 	"venue": "VLDB",

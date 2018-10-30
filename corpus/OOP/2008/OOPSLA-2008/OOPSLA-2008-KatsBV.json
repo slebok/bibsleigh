@@ -1,6 +1,10 @@
 {
-	"author": ["Lennart C. L. Kats", "Martin Bravenboer", "Eelco Visser"],
-	"booktitle": "Proceedings of the 23rd Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Lennart C. L. Kats",
+		"Martin Bravenboer",
+		"Eelco Visser"
+	],
+	"booktitle": "Proceedings of the 23rd Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2008",
 	"dblpkey": "conf/oopsla/KatsBV08",
@@ -10,8 +14,23 @@
 	"isbn": "978-1-60558-215-3",
 	"pages": "91-108",
 	"publisher": "ACM",
-	"stemmed": ["mix", "sourc", "and", "bytecod", "a", "case", "for", "compil", "by", "normal"],
-	"tag": ["bytecode", "compilation", "normalisation"],
+	"stemmed": [
+		"mix",
+		"sourc",
+		"and",
+		"bytecod",
+		"a",
+		"case",
+		"for",
+		"compil",
+		"by",
+		"normal"
+	],
+	"tag": [
+		"bytecode",
+		"compilation",
+		"normalisation"
+	],
 	"title": "Mixing source and bytecode: a case for compilation by normalization",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

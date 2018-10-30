@@ -1,14 +1,39 @@
 {
-	"author": ["Joe Devietti", "Colin Blundell", "Milo M. K. Martin", "Steve Zdancewic"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Joe Devietti",
+		"Colin Blundell",
+		"Milo M. K. Martin",
+		"Steve Zdancewic"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2008",
 	"dblpkey": "conf/asplos/DeviettiBMZ08",
 	"doi": "10.1145/1346281.1346295",
 	"ee": "http://doi.acm.org/10.1145/1346281.1346295",
 	"pages": "103-114",
 	"publisher": "ACM",
-	"stemmed": ["hardbound", "architectur", "support", "for", "spatial", "safeti", "of", "the", "c", "program", "languag"],
-	"tag": ["architecture", "bound", "c", "named", "programming language", "safety"],
+	"stemmed": [
+		"hardbound",
+		"architectur",
+		"support",
+		"for",
+		"spatial",
+		"safeti",
+		"of",
+		"the",
+		"c",
+		"program",
+		"languag"
+	],
+	"tag": [
+		"architecture",
+		"bound",
+		"c",
+		"named",
+		"programming language",
+		"safety"
+	],
 	"title": "Hardbound: architectural support for spatial safety of the C programming language",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

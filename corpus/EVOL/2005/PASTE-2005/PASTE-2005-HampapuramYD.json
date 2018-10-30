@@ -1,14 +1,32 @@
 {
-	"author": ["Hari Hampapuram", "Yue Yang", "Manuvir Das"],
-	"booktitle": "PASTE",
+	"author": [
+		"Hari Hampapuram",
+		"Yue Yang",
+		"Manuvir Das"
+	],
+	"booktitle": "Proceedings of the Sixth Workshop on Program Analysis for Software Tools and Engineering",
+	"booktitleshort": "PASTE",
 	"crossref": "conf/paste/2005",
 	"dblpkey": "conf/paste/HampapuramYD05",
 	"doi": "10.1145/1108792.1108808",
 	"ee": "http://doi.acm.org/10.1145/1108792.1108808",
 	"pages": "52-58",
 	"publisher": "ACM",
-	"stemmed": ["symbol", "path", "simul", "in", "path", "sensit", "dataflow", "analysi"],
-	"tag": ["analysis", "data flow", "simulation"],
+	"stemmed": [
+		"symbol",
+		"path",
+		"simul",
+		"in",
+		"path",
+		"sensit",
+		"dataflow",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"data flow",
+		"simulation"
+	],
 	"title": "Symbolic path simulation in path-sensitive dataflow analysis",
 	"type": "inproceedings",
 	"venue": "PASTE",

@@ -1,14 +1,30 @@
 {
-	"author": ["Madhukar K. Reddy", "Sudhakar M. Reddy", "Prathima Agrawal"],
-	"booktitle": "DAC",
+	"author": [
+		"Madhukar K. Reddy",
+		"Sudhakar M. Reddy",
+		"Prathima Agrawal"
+	],
+	"booktitle": "Proceedings of the 22nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1985",
 	"dblpkey": "conf/dac/ReddyRA85",
 	"doi": "10.1145/317825.318007",
 	"ee": "http://doi.acm.org/10.1145/317825.318007",
 	"pages": "825-828",
 	"publisher": "ACM",
-	"stemmed": ["transistor", "level", "test", "generat", "for", "mos", "circuit"],
-	"tag": ["generative", "testing"],
+	"stemmed": [
+		"transistor",
+		"level",
+		"test",
+		"generat",
+		"for",
+		"mos",
+		"circuit"
+	],
+	"tag": [
+		"generative",
+		"testing"
+	],
 	"title": "Transistor level test generation for MOS circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

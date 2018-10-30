@@ -1,6 +1,14 @@
 {
-	"author": ["Vijayshankar Raman", "Lin Qiao", "Wei Han", "Inderpal Narang", "Ying-Lin Chen", "Kou-Horng Yang", "Fen-Ling Ling"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Vijayshankar Raman",
+		"Lin Qiao",
+		"Wei Han",
+		"Inderpal Narang",
+		"Ying-Lin Chen",
+		"Kou-Horng Yang",
+		"Fen-Ling Ling"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/RamanQHNCYL07",
@@ -8,8 +16,23 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247566",
 	"pages": "773-784",
 	"publisher": "ACM",
-	"stemmed": ["lazi", "adapt", "rid", "list", "intersect", "and", "it", "applic", "to", "index", "and"],
-	"tag": ["adaptation", "lazy evaluation"],
+	"stemmed": [
+		"lazi",
+		"adapt",
+		"rid",
+		"list",
+		"intersect",
+		"and",
+		"it",
+		"applic",
+		"to",
+		"index",
+		"and"
+	],
+	"tag": [
+		"adaptation",
+		"lazy evaluation"
+	],
 	"title": "Lazy, adaptive rid-list intersection, and its application to index anding",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

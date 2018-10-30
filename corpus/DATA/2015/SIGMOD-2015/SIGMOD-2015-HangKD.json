@@ -1,6 +1,10 @@
 {
-	"author": ["Isabelle Hang", "Florian Kerschbaum", "Ernesto Damiani"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Isabelle Hang",
+		"Florian Kerschbaum",
+		"Ernesto Damiani"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/HangKD15",
@@ -8,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2749439",
 	"pages": "183-196",
 	"publisher": "ACM",
-	"stemmed": ["enki", "access", "control", "for", "encrypt", "queri", "process"],
-	"tag": ["data access", "named", "query"],
+	"stemmed": [
+		"enki",
+		"access",
+		"control",
+		"for",
+		"encrypt",
+		"queri",
+		"process"
+	],
+	"tag": [
+		"data access",
+		"named",
+		"query"
+	],
 	"title": "ENKI: Access Control for Encrypted Query Processing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

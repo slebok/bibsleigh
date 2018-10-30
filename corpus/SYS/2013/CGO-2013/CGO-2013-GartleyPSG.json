@@ -1,16 +1,46 @@
 {
-	"acmid": 2495920,
-	"author": ["Ian Gartley", "Marius Pirvu", "Vijay Sundaresan", "Nikola Grcevski"],
-	"booktitle": "CGO",
+	"acmid": "2495920",
+	"author": [
+		"Ian Gartley",
+		"Marius Pirvu",
+		"Vijay Sundaresan",
+		"Nikola Grcevski"
+	],
+	"booktitle": "Proceedings of the 11th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2013",
 	"dblpkey": "conf/cgo/GartleyPSG13",
 	"doi": "10.1109/CGO.2013.6494981",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2013.6494981", "http://doi.ieeecomputersociety.org/10.1109/CGO.2013.6494981", "http://dl.acm.org/citation.cfm?id=2495920"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2013.6494981",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2013.6494981",
+		"http://dl.acm.org/citation.cfm?id=2495920"
+	],
 	"pages": "14:1-14:10",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["experi", "in", "design", "a", "robust", "and", "scalabl", "interpret", "profil", "framework"],
-	"tag": ["case study", "design", "experience", "framework", "interpreter", "profiling", "robust", "scalability"],
+	"stemmed": [
+		"experi",
+		"in",
+		"design",
+		"a",
+		"robust",
+		"and",
+		"scalabl",
+		"interpret",
+		"profil",
+		"framework"
+	],
+	"tag": [
+		"case study",
+		"design",
+		"experience",
+		"framework",
+		"interpreter",
+		"profiling",
+		"robust",
+		"scalability"
+	],
 	"title": "Experiences in designing a robust and scalable interpreter profiling framework",
 	"type": "inproceedings",
 	"venue": "CGO",

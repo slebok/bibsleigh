@@ -1,17 +1,40 @@
 {
-	"author": ["Ross McIlroy", "Joe Sventek"],
-	"booktitle": "Proceedings of the 25th Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Ross McIlroy",
+		"Joe Sventek"
+	],
+	"booktitle": "Proceedings of the 25th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2010",
 	"dblpkey": "conf/oopsla/McIlroyS10",
 	"doi": "10.1145/1869459.1869478",
-	"editor": ["William R. Cook", "Siobhán Clarke", "Martin C. Rinard"],
+	"editor": [
+		"William R. Cook",
+		"Siobhán Clarke",
+		"Martin C. Rinard"
+	],
 	"ee": "http://doi.acm.org/10.1145/1869459.1869478",
 	"isbn": "978-1-4503-0203-6",
 	"pages": "205-222",
 	"publisher": "ACM",
-	"stemmed": ["hera", "jvm", "a", "runtim", "system", "for", "heterogen", "multi", "core", "architectur"],
-	"tag": ["architecture", "manycore", "named", "runtime"],
+	"stemmed": [
+		"hera",
+		"jvm",
+		"a",
+		"runtim",
+		"system",
+		"for",
+		"heterogen",
+		"multi",
+		"core",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"manycore",
+		"named",
+		"runtime"
+	],
 	"title": "Hera-JVM: a runtime system for heterogeneous multi-core architectures",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

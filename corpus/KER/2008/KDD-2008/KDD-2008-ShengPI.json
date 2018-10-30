@@ -1,14 +1,39 @@
 {
-	"author": ["Victor S. Sheng", "Foster J. Provost", "Panagiotis G. Ipeirotis"],
-	"booktitle": "KDD",
+	"author": [
+		"Victor S. Sheng",
+		"Foster J. Provost",
+		"Panagiotis G. Ipeirotis"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/ShengPI08",
 	"doi": "10.1145/1401890.1401965",
 	"ee": "http://doi.acm.org/10.1145/1401890.1401965",
 	"pages": "614-622",
 	"publisher": "ACM",
-	"stemmed": ["get", "anoth", "label", "improv", "data", "qualiti", "and", "data", "mine", "use", "multipl", "noisi", "label"],
-	"tag": ["data mining", "mining", "multi", "quality", "using"],
+	"stemmed": [
+		"get",
+		"anoth",
+		"label",
+		"improv",
+		"data",
+		"qualiti",
+		"and",
+		"data",
+		"mine",
+		"use",
+		"multipl",
+		"noisi",
+		"label"
+	],
+	"tag": [
+		"data mining",
+		"mining",
+		"multi",
+		"quality",
+		"using"
+	],
 	"title": "Get another label? improving data quality and data mining using multiple, noisy labelers",
 	"type": "inproceedings",
 	"venue": "KDD",

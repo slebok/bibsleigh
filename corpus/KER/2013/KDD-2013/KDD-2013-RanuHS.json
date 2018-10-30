@@ -1,14 +1,30 @@
 {
-	"author": ["Sayan Ranu", "Minh X. Hoang", "Ambuj K. Singh"],
-	"booktitle": "KDD",
+	"author": [
+		"Sayan Ranu",
+		"Minh X. Hoang",
+		"Ambuj K. Singh"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/RanuHS13",
 	"doi": "10.1145/2487575.2487692",
 	"ee": "http://doi.acm.org/10.1145/2487575.2487692",
 	"pages": "509-517",
 	"publisher": "ACM",
-	"stemmed": ["mine", "discrimin", "subgraph", "from", "global", "state", "network"],
-	"tag": ["mining", "network"],
+	"stemmed": [
+		"mine",
+		"discrimin",
+		"subgraph",
+		"from",
+		"global",
+		"state",
+		"network"
+	],
+	"tag": [
+		"mining",
+		"network"
+	],
 	"title": "Mining discriminative subgraphs from global-state networks",
 	"type": "inproceedings",
 	"venue": "KDD",

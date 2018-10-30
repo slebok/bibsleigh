@@ -1,6 +1,7 @@
 {
 	"author": "Raul H. C. Lopes",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 16th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1999",
 	"dblpkey": "conf/cade/Lopes99",
 	"doi": "10.1007/3-540-48660-7_40",
@@ -10,11 +11,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["automat", "generat", "of", "proof", "search", "strategi", "for", "second", "order", "logic"],
-	"tag": ["automation", "generative", "higher-order", "logic", "proving"],
+	"stemmed": [
+		"automat",
+		"generat",
+		"of",
+		"proof",
+		"search",
+		"strategi",
+		"for",
+		"second",
+		"order",
+		"logic"
+	],
+	"tag": [
+		"automation",
+		"generative",
+		"higher-order",
+		"logic",
+		"proving"
+	],
 	"title": "Automatic Generation of Proof Search Strategies for Second-order Logic",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1632,
+	"volume": "1632",
 	"year": 1999
 }

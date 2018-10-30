@@ -1,14 +1,23 @@
 {
 	"author": "Clement T. Yu",
 	"booktitle": "Proceedings of the Eighth annual international ACM SIGIR conference on Research and development in information retrieval",
+	"booktitleshort": "SIGIR",
 	"crossref": "conf/sigir/85",
 	"dblpkey": "conf/sigir/Yu85",
 	"doi": "10.1145/253495.253525",
 	"ee": "http://doi.acm.org/10.1145/253495.253525",
 	"pages": "197-203",
 	"publisher": "ACM",
-	"stemmed": ["adapt", "document", "cluster"],
-	"tag": ["adaptation", "clustering", "documentation"],
+	"stemmed": [
+		"adapt",
+		"document",
+		"cluster"
+	],
+	"tag": [
+		"adaptation",
+		"clustering",
+		"documentation"
+	],
 	"title": "Adaptive Document Clustering",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,13 +1,33 @@
 {
-	"author": ["Xiaobo Hu", "Ronald G. Harber", "Steven C. Bass"],
-	"booktitle": "DAC",
+	"author": [
+		"Xiaobo Hu",
+		"Ronald G. Harber",
+		"Steven C. Bass"
+	],
+	"booktitle": "Proceedings of the 28th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/HuHB91",
 	"doi": "10.1145/127601.127765",
 	"ee": "http://doi.acm.org/10.1145/127601.127765",
 	"pages": "758-763",
 	"publisher": "ACM",
-	"stemmed": ["minim", "the", "number", "of", "delay", "buffer", "in", "the", "synchron", "of", "pipelin", "system"],
-	"tag": ["pipes and filters"],
+	"stemmed": [
+		"minim",
+		"the",
+		"number",
+		"of",
+		"delay",
+		"buffer",
+		"in",
+		"the",
+		"synchron",
+		"of",
+		"pipelin",
+		"system"
+	],
+	"tag": [
+		"pipes and filters"
+	],
 	"title": "Minimizing the Number of Delay Buffers in the Synchronization of Pipelined Systems",
 	"type": "inproceedings",
 	"venue": "DAC",

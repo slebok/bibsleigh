@@ -1,13 +1,39 @@
 {
 	"acmid": "502512.502524",
-	"author": ["Jens-Peter Dittrich", "Bernhard Seeger"],
-	"booktitle": "KDD",
+	"author": [
+		"Jens-Peter Dittrich",
+		"Bernhard Seeger"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2001",
 	"dblpkey": "conf/kdd/DittrichS01",
 	"pages": "47-56",
 	"publisher": "ACM",
-	"stemmed": ["gess", "a", "scalabl", "similar", "join", "algorithm", "for", "mine", "larg", "data", "set", "in", "high", "dimension", "space"],
-	"tag": ["algorithm", "mining", "named", "scalability", "set"],
+	"stemmed": [
+		"gess",
+		"a",
+		"scalabl",
+		"similar",
+		"join",
+		"algorithm",
+		"for",
+		"mine",
+		"larg",
+		"data",
+		"set",
+		"in",
+		"high",
+		"dimension",
+		"space"
+	],
+	"tag": [
+		"algorithm",
+		"mining",
+		"named",
+		"scalability",
+		"set"
+	],
 	"title": "GESS: a scalable similarity-join algorithm for mining large data sets in high dimensional spaces",
 	"type": "inproceedings",
 	"venue": "KDD",

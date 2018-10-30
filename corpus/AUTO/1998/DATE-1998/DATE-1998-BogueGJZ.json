@@ -1,6 +1,12 @@
 {
-	"author": ["T. Bogue", "Michael Gössel", "Helmut Jürgensen", "Yervant Zorian"],
-	"booktitle": "DATE",
+	"author": [
+		"T. Bogue",
+		"Michael Gössel",
+		"Helmut Jürgensen",
+		"Yervant Zorian"
+	],
+	"booktitle": "Proceedings of the Third Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1998",
 	"dblpkey": "conf/date/BogueGJZ98",
 	"doi": "10.1109/DATE.1998.655854",
@@ -8,8 +14,19 @@
 	"pages": "180-184",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["built", "in", "self", "test", "with", "an", "altern", "output"],
-	"tag": ["self"],
+	"stemmed": [
+		"built",
+		"in",
+		"self",
+		"test",
+		"with",
+		"an",
+		"altern",
+		"output"
+	],
+	"tag": [
+		"self"
+	],
 	"title": "Built-In Self-Test with an Alternating Output",
 	"type": "inproceedings",
 	"venue": "DATE",

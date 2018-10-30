@@ -1,6 +1,7 @@
 {
 	"author": "Mikael Rittri",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/Rittri90",
 	"doi": "10.1007/3-540-52885-7_117",
@@ -10,11 +11,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["retriev", "librari", "identifi", "via", "equat", "match", "of", "type"],
-	"tag": ["equation", "identifier", "library"],
+	"stemmed": [
+		"retriev",
+		"librari",
+		"identifi",
+		"via",
+		"equat",
+		"match",
+		"of",
+		"type"
+	],
+	"tag": [
+		"equation",
+		"identifier",
+		"library"
+	],
 	"title": "Retrieving Library Identifiers via Equational Matching of Types",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

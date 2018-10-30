@@ -1,14 +1,29 @@
 {
-	"author": ["Lei Yu", "Chris H. Q. Ding", "Steven Loscalzo"],
-	"booktitle": "KDD",
+	"author": [
+		"Lei Yu",
+		"Chris H. Q. Ding",
+		"Steven Loscalzo"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/YuDL08",
 	"doi": "10.1145/1401890.1401986",
 	"ee": "http://doi.acm.org/10.1145/1401890.1401986",
 	"pages": "803-811",
 	"publisher": "ACM",
-	"stemmed": ["stabl", "featur", "select", "via", "dens", "featur", "group"],
-	"tag": ["feature model"],
+	"stemmed": [
+		"stabl",
+		"featur",
+		"select",
+		"via",
+		"dens",
+		"featur",
+		"group"
+	],
+	"tag": [
+		"feature model"
+	],
 	"title": "Stable feature selection via dense feature groups",
 	"type": "inproceedings",
 	"venue": "KDD",

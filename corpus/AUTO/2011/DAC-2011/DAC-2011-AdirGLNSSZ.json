@@ -1,14 +1,38 @@
 {
-	"author": ["Allon Adir", "Maxim Golubev", "Shimon Landa", "Amir Nahir", "Gil Shurek", "Vitali Sokhin", "Avi Ziv"],
-	"booktitle": "DAC",
+	"author": [
+		"Allon Adir",
+		"Maxim Golubev",
+		"Shimon Landa",
+		"Amir Nahir",
+		"Gil Shurek",
+		"Vitali Sokhin",
+		"Avi Ziv"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/AdirGLNSSZ11",
 	"doi": "10.1145/2024724.2024916",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024916",
 	"pages": "860-865",
 	"publisher": "ACM",
-	"stemmed": ["threadmil", "a", "post", "silicon", "exercis", "for", "multi", "thread", "processor"],
-	"tag": ["concurrent", "multi", "named", "thread"],
+	"stemmed": [
+		"threadmil",
+		"a",
+		"post",
+		"silicon",
+		"exercis",
+		"for",
+		"multi",
+		"thread",
+		"processor"
+	],
+	"tag": [
+		"concurrent",
+		"multi",
+		"named",
+		"thread"
+	],
 	"title": "Threadmill: a post-silicon exerciser for multi-threaded processors",
 	"type": "inproceedings",
 	"venue": "DAC",

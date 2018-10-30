@@ -1,13 +1,28 @@
 {
-	"author": ["C. W. Carpenter", "Mark Horowitz"],
-	"booktitle": "DAC",
+	"author": [
+		"C. W. Carpenter",
+		"Mark Horowitz"
+	],
+	"booktitle": "Proceedings of the 24th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/CarpenterH87",
 	"doi": "10.1145/37888.37932",
 	"ee": "http://doi.acm.org/10.1145/37888.37932",
 	"pages": "291-297",
 	"publisher": "IEEE Computer Society Press / ACM",
-	"stemmed": ["generat", "increment", "vlsi", "compact", "space", "constraint"],
-	"tag": ["constraints", "generative", "incremental"],
+	"stemmed": [
+		"generat",
+		"increment",
+		"vlsi",
+		"compact",
+		"space",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"generative",
+		"incremental"
+	],
 	"title": "Generating Incremental VLSI Compaction Spacing Constraints",
 	"type": "inproceedings",
 	"venue": "DAC",

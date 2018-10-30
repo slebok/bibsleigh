@@ -1,15 +1,38 @@
 {
-	"author": ["Yuanyuan Yang", "Jianchao Wang"],
-	"booktitle": "HPCA",
+	"author": [
+		"Yuanyuan Yang",
+		"Jianchao Wang"
+	],
+	"booktitle": "Proceedings of the Fifth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1999",
 	"dblpkey": "conf/hpca/YangW99",
 	"doi": "10.1109/HPCA.1999.744382",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1999.744382", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744382"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1999.744382",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744382"
+	],
 	"pages": "290-299",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["effici", "all", "to", "all", "broadcast", "in", "all", "port", "mesh", "and", "torus", "network"],
-	"tag": ["network", "performance"],
+	"stemmed": [
+		"effici",
+		"all",
+		"to",
+		"all",
+		"broadcast",
+		"in",
+		"all",
+		"port",
+		"mesh",
+		"and",
+		"torus",
+		"network"
+	],
+	"tag": [
+		"network",
+		"performance"
+	],
 	"title": "Efficient All-to-All Broadcast in All-Port Mesh and Torus Networks",
 	"type": "inproceedings",
 	"venue": "HPCA",

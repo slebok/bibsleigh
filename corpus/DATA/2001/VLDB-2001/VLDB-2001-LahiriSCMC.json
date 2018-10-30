@@ -1,13 +1,32 @@
 {
-	"author": ["Tirthankar Lahiri", "Vinay Srihari", "Wilson Chan", "N. MacNaughton", "Sashikanth Chandrasekaran"],
-	"booktitle": "VLDB",
+	"author": [
+		"Tirthankar Lahiri",
+		"Vinay Srihari",
+		"Wilson Chan",
+		"N. MacNaughton",
+		"Sashikanth Chandrasekaran"
+	],
+	"booktitle": "Proceedings of the 27th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2001",
 	"dblpkey": "conf/vldb/LahiriSCMC01",
 	"ee": "http://www.vldb.org/conf/2001/P683.pdf",
 	"pages": "683-686",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["cach", "fusion", "extend", "share", "disk", "cluster", "with", "share", "cach"],
-	"tag": ["clustering"],
+	"stemmed": [
+		"cach",
+		"fusion",
+		"extend",
+		"share",
+		"disk",
+		"cluster",
+		"with",
+		"share",
+		"cach"
+	],
+	"tag": [
+		"clustering"
+	],
 	"title": "Cache Fusion: Extending Shared-Disk Clusters with Shared Caches",
 	"type": "inproceedings",
 	"venue": "VLDB",

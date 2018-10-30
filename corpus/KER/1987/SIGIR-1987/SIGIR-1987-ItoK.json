@@ -1,6 +1,10 @@
 {
-	"author": ["Tetsuro Ito", "Mana Kubota"],
+	"author": [
+		"Tetsuro Ito",
+		"Mana Kubota"
+	],
 	"booktitle": "Proceedings of the 10th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1987/P181.pdf",
 	"crossref": "conf/sigir/87",
 	"dblpkey": "conf/sigir/ItoK87",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/42005.42026",
 	"pages": "181-186",
 	"publisher": "ACM",
-	"stemmed": ["a", "retriev", "system", "for", "on", "line", "english", "japanes", "dictionari"],
-	"tag": ["online", "retrieval"],
+	"stemmed": [
+		"a",
+		"retriev",
+		"system",
+		"for",
+		"on",
+		"line",
+		"english",
+		"japanes",
+		"dictionari"
+	],
+	"tag": [
+		"online",
+		"retrieval"
+	],
 	"title": "A Retrieval System for On-Line English-Japanese Dictionaries",
 	"type": "inproceedings",
 	"venue": "SIGIR",

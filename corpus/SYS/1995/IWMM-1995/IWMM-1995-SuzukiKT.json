@@ -1,6 +1,11 @@
 {
-	"author": ["Mitsugu Suzuki", "Hiroshi Koide", "Motoaki Terashima"],
-	"booktitle": "IWMM",
+	"author": [
+		"Mitsugu Suzuki",
+		"Hiroshi Koide",
+		"Motoaki Terashima"
+	],
+	"booktitle": "Proceedings of the Second International Workshop on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/95",
 	"dblpkey": "conf/iwmm/SuzukiKT95",
 	"doi": "10.1007/3-540-60368-9_25",
@@ -10,11 +15,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["moa", "a", "fast", "slide", "compact", "scheme", "for", "a", "larg", "storag", "space"],
-	"tag": ["named", "performance", "scalability"],
+	"stemmed": [
+		"moa",
+		"a",
+		"fast",
+		"slide",
+		"compact",
+		"scheme",
+		"for",
+		"a",
+		"larg",
+		"storag",
+		"space"
+	],
+	"tag": [
+		"named",
+		"performance",
+		"scalability"
+	],
 	"title": "MOA — A Fast Sliding Compaction Scheme for a Large Storage Space",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 986,
+	"volume": "986",
 	"year": 1995
 }

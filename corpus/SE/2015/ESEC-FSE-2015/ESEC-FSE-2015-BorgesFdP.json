@@ -1,14 +1,33 @@
 {
-	"author": ["Mateus Borges", "Antonio Filieri", "Marcelo d'Amorim", "Corina S. Pasareanu"],
-	"booktitle": "ESEC/SIGSOFT FSE",
+	"author": [
+		"Mateus Borges",
+		"Antonio Filieri",
+		"Marcelo d'Amorim",
+		"Corina S. Pasareanu"
+	],
+	"booktitle": "Proceedings of the 10th Joint Meeting of the 15th European Software Engineering Conference and the 23rd Symposium on the Foundations of Software Engineering",
+	"booktitleshort": "ESEC/SIGSOFT FSE",
 	"crossref": "conf/sigsoft/2015",
 	"dblpkey": "conf/sigsoft/BorgesFdP15",
 	"doi": "10.1145/2786805.2786832",
 	"ee": "http://doi.acm.org/10.1145/2786805.2786832",
 	"pages": "866-877",
 	"publisher": "ACM",
-	"stemmed": ["iter", "distribut", "awar", "sampl", "for", "probabilist", "symbol", "execut"],
-	"tag": ["execution", "probability", "symbolic computation"],
+	"stemmed": [
+		"iter",
+		"distribut",
+		"awar",
+		"sampl",
+		"for",
+		"probabilist",
+		"symbol",
+		"execut"
+	],
+	"tag": [
+		"execution",
+		"probability",
+		"symbolic computation"
+	],
 	"title": "Iterative distribution-aware sampling for probabilistic symbolic execution",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

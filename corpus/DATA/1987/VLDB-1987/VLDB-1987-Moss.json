@@ -1,14 +1,39 @@
 {
 	"author": "J. Eliot B. Moss",
-	"booktitle": "VLDB",
-	"cite": ["conf/ac/Gray78", "journals/csur/GrayMBLLPPT81", "journals/csur/HarderR83", "...", "journals/tods/Lorie77", "...", "...", "...", "...", "journals/tse/Reuter80", "journals/tods/SeveranceL76", "journals/sigops/SturgisMI80", "...", "journals/csur/Verhofstad78"],
+	"booktitle": "Proceedings of the 13th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/ac/Gray78",
+		"journals/csur/GrayMBLLPPT81",
+		"journals/csur/HarderR83",
+		"...",
+		"journals/tods/Lorie77",
+		"...",
+		"...",
+		"...",
+		"...",
+		"journals/tse/Reuter80",
+		"journals/tods/SeveranceL76",
+		"journals/sigops/SturgisMI80",
+		"...",
+		"journals/csur/Verhofstad78"
+	],
 	"crossref": "conf/vldb/87",
 	"dblpkey": "conf/vldb/Moss87",
 	"ee": "http://www.vldb.org/conf/1987/P427.PDF",
 	"pages": "427-432",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["log", "base", "recoveri", "for", "nest", "transact"],
-	"tag": ["transaction"],
+	"stemmed": [
+		"log",
+		"base",
+		"recoveri",
+		"for",
+		"nest",
+		"transact"
+	],
+	"tag": [
+		"transaction"
+	],
 	"title": "Log-Based Recovery for Nested Transactions",
 	"type": "inproceedings",
 	"venue": "VLDB",

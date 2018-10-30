@@ -1,6 +1,9 @@
 {
-	"author": ["David Dice", "Alex Garthwaite"],
-	"booktitle": "MSP/ISMM",
+	"author": [
+		"David Dice",
+		"Alex Garthwaite"
+	],
+	"booktitle": "Proceedings of the Third International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2002",
 	"dblpkey": "conf/iwmm/DiceG02",
@@ -8,7 +11,12 @@
 	"ee": "http://doi.acm.org/10.1145/773039.512451",
 	"pages": "269-280",
 	"publisher": "ACM",
-	"stemmed": ["most", "lock", "free", "malloc"],
+	"stemmed": [
+		"most",
+		"lock",
+		"free",
+		"malloc"
+	],
 	"title": "Mostly lock-free malloc",
 	"type": "inproceedings",
 	"venue": "ISMM",

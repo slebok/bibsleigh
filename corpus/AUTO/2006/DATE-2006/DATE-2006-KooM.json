@@ -1,14 +1,37 @@
 {
-	"author": ["Heon-Mo Koo", "Prabhat Mishra"],
-	"booktitle": "DATE",
+	"author": [
+		"Heon-Mo Koo",
+		"Prabhat Mishra"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2006p",
 	"dblpkey": "conf/date/KooM06",
 	"doi": "10.1145/1131826",
 	"ee": "http://doi.acm.org/10.1145/1131826",
 	"pages": "1240-1245",
 	"publisher": "European Design and Automation Association, Leuven, Belgium",
-	"stemmed": ["function", "test", "generat", "use", "properti", "decomposit", "for", "valid", "of", "pipelin", "processor"],
-	"tag": ["functional", "generative", "pipes and filters", "testing", "using", "validation"],
+	"stemmed": [
+		"function",
+		"test",
+		"generat",
+		"use",
+		"properti",
+		"decomposit",
+		"for",
+		"valid",
+		"of",
+		"pipelin",
+		"processor"
+	],
+	"tag": [
+		"functional",
+		"generative",
+		"pipes and filters",
+		"testing",
+		"using",
+		"validation"
+	],
 	"title": "Functional test generation using property decompositions for validation of pipelined processors",
 	"type": "inproceedings",
 	"venue": "DATE",

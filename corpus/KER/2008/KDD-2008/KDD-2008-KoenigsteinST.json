@@ -1,14 +1,38 @@
 {
-	"author": ["Noam Koenigstein", "Yuval Shavitt", "Tomer Tankel"],
-	"booktitle": "KDD",
+	"author": [
+		"Noam Koenigstein",
+		"Yuval Shavitt",
+		"Tomer Tankel"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/KoenigsteinST08",
 	"doi": "10.1145/1401890.1402002",
 	"ee": "http://doi.acm.org/10.1145/1401890.1402002",
 	"pages": "937-945",
 	"publisher": "ACM",
-	"stemmed": ["spot", "out", "emerg", "artist", "use", "geo", "awar", "analysi", "of", "p", "p", "queri", "string"],
-	"tag": ["analysis", "query", "string", "using"],
+	"stemmed": [
+		"spot",
+		"out",
+		"emerg",
+		"artist",
+		"use",
+		"geo",
+		"awar",
+		"analysi",
+		"of",
+		"p",
+		"p",
+		"queri",
+		"string"
+	],
+	"tag": [
+		"analysis",
+		"query",
+		"string",
+		"using"
+	],
 	"title": "Spotting out emerging artists using geo-aware analysis of P2P query strings",
 	"type": "inproceedings",
 	"venue": "KDD",

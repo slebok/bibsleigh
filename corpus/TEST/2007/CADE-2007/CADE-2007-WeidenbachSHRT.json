@@ -1,6 +1,13 @@
 {
-	"author": ["Christoph Weidenbach", "Renate A. Schmidt", "Thomas Hillenbrand", "Rostislav Rusev", "Dalibor Topic"],
-	"booktitle": "CADE",
+	"author": [
+		"Christoph Weidenbach",
+		"Renate A. Schmidt",
+		"Thomas Hillenbrand",
+		"Rostislav Rusev",
+		"Dalibor Topic"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2007",
 	"dblpkey": "conf/cade/WeidenbachSHRT07",
 	"doi": "10.1007/978-3-540-73595-3_38",
@@ -10,10 +17,15 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "spass", "version"],
+	"stemmed": [
+		"system",
+		"descript",
+		"spass",
+		"version"
+	],
 	"title": "System Description: SpassVersion 3.0",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 4603,
+	"volume": "4603",
 	"year": 2007
 }

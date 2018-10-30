@@ -1,18 +1,36 @@
 {
-	"author": ["Brian L. Davis", "William A. Barrett", "Scott D. Swingle"],
-	"booktitle": "DRR",
+	"author": [
+		"Brian L. Davis",
+		"William A. Barrett",
+		"Scott D. Swingle"
+	],
+	"booktitle": "Proceedings of the 22nd Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2015",
 	"dblpkey": "conf/drr/DavisBS15",
 	"doi": "10.1117/12.2076228",
 	"ee": "http://dx.doi.org/10.1117/12.2076228",
-	"pages": 940208,
+	"pages": "940208",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["min", "cut", "segment", "of", "cursiv", "handwrit", "in", "tabular", "document"],
-	"tag": ["documentation", "segmentation"],
+	"stemmed": [
+		"min",
+		"cut",
+		"segment",
+		"of",
+		"cursiv",
+		"handwrit",
+		"in",
+		"tabular",
+		"document"
+	],
+	"tag": [
+		"documentation",
+		"segmentation"
+	],
 	"title": "Min-cut segmentation of cursive handwriting in tabular documents",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 9402,
+	"volume": "9402",
 	"year": 2015
 }

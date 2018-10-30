@@ -1,14 +1,32 @@
 {
-	"author": ["Hyeonjoong Cho", "Binoy Ravindran", "E. Douglas Jensen"],
-	"booktitle": "DATE",
+	"author": [
+		"Hyeonjoong Cho",
+		"Binoy Ravindran",
+		"E. Douglas Jensen"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2006p",
 	"dblpkey": "conf/date/ChoRJ06",
 	"doi": "10.1145/1131601",
 	"ee": "http://doi.acm.org/10.1145/1131601",
 	"pages": "438-443",
 	"publisher": "European Design and Automation Association, Leuven, Belgium",
-	"stemmed": ["lock", "free", "synchron", "for", "dynam", "embed", "real", "time", "system"],
-	"tag": ["embedded", "realtime"],
+	"stemmed": [
+		"lock",
+		"free",
+		"synchron",
+		"for",
+		"dynam",
+		"embed",
+		"real",
+		"time",
+		"system"
+	],
+	"tag": [
+		"embedded",
+		"realtime"
+	],
 	"title": "Lock-free synchronization for dynamic embedded real-time systems",
 	"type": "inproceedings",
 	"venue": "DATE",

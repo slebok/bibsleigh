@@ -1,6 +1,7 @@
 {
 	"author": "Nina S. T. Hirata",
-	"booktitle": "ICDAR",
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/Hirata07",
 	"doi": "10.1109/ICDAR.2007.104",
@@ -8,8 +9,17 @@
 	"pages": "794-798",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["document", "process", "via", "train", "morpholog", "oper"],
-	"tag": ["documentation"],
+	"stemmed": [
+		"document",
+		"process",
+		"via",
+		"train",
+		"morpholog",
+		"oper"
+	],
+	"tag": [
+		"documentation"
+	],
 	"title": "Document Processing via Trained Morphological Operators",
 	"type": "inproceedings",
 	"venue": "ICDAR",

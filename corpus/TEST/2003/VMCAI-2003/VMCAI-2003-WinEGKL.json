@@ -1,6 +1,13 @@
 {
-	"author": ["Toh Ne Win", "Michael D. Ernst", "Stephen J. Garland", "Dilsun Kirli Kaynar", "Nancy A. Lynch"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Toh Ne Win",
+		"Michael D. Ernst",
+		"Stephen J. Garland",
+		"Dilsun Kirli Kaynar",
+		"Nancy A. Lynch"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2003",
 	"dblpkey": "conf/vmcai/WinEGKL03",
 	"doi": "10.1007/3-540-36384-X_23",
@@ -10,11 +17,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["use", "simul", "execut", "in", "verifi", "distribut", "algorithm"],
-	"tag": ["algorithm", "distributed", "execution", "using", "verification"],
+	"stemmed": [
+		"use",
+		"simul",
+		"execut",
+		"in",
+		"verifi",
+		"distribut",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"distributed",
+		"execution",
+		"using",
+		"verification"
+	],
 	"title": "Using Simulated Execution in Verifying Distributed Algorithms",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2575,
+	"volume": "2575",
 	"year": 2003
 }

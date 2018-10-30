@@ -1,15 +1,45 @@
 {
-	"author": ["Hiromitsu Nishimura", "Masayoshi Tsutsumi", "Minoru Maruyama", "Hidetoshi Miyao", "Yasuaki Nakano"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Hiromitsu Nishimura",
+		"Masayoshi Tsutsumi",
+		"Minoru Maruyama",
+		"Hidetoshi Miyao",
+		"Yasuaki Nakano"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2001",
 	"dblpkey": "conf/icdar/NishimuraTMMN01",
 	"doi": "10.1109/ICDAR.2001.953824",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2001.953824", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953824"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2001.953824",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953824"
+	],
 	"pages": "417-423",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["off", "line", "hand", "written", "charact", "recognit", "use", "integr", "d", "hmms", "base", "on", "featur", "extract", "filter"],
-	"tag": ["feature model", "recognition", "using"],
+	"stemmed": [
+		"off",
+		"line",
+		"hand",
+		"written",
+		"charact",
+		"recognit",
+		"use",
+		"integr",
+		"d",
+		"hmms",
+		"base",
+		"on",
+		"featur",
+		"extract",
+		"filter"
+	],
+	"tag": [
+		"feature model",
+		"recognition",
+		"using"
+	],
 	"title": "Off-line Hand-written Character Recognition Using Integrated 1D HMMs Based on Feature Extraction Filters",
 	"type": "inproceedings",
 	"venue": "ICDAR",

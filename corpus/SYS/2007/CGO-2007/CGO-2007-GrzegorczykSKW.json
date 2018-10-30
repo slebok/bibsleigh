@@ -1,16 +1,39 @@
 {
-	"acmid": 1252551,
-	"author": ["Chris Grzegorczyk", "Sunil Soman", "Chandra Krintz", "Richard Wolski"],
-	"booktitle": "CGO",
+	"acmid": "1252551",
+	"author": [
+		"Chris Grzegorczyk",
+		"Sunil Soman",
+		"Chandra Krintz",
+		"Richard Wolski"
+	],
+	"booktitle": "Proceedings of the Fifth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2007",
 	"dblpkey": "conf/cgo/GrzegorczykSKW07",
 	"doi": "10.1109/CGO.2007.20",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2007.20", "http://doi.ieeecomputersociety.org/10.1109/CGO.2007.20", "http://dl.acm.org/citation.cfm?id=1252551"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2007.20",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2007.20",
+		"http://dl.acm.org/citation.cfm?id=1252551"
+	],
 	"pages": "325-340",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["isla", "vista", "heap", "size", "use", "feedback", "to", "avoid", "page"],
-	"tag": ["feedback", "using"],
+	"stemmed": [
+		"isla",
+		"vista",
+		"heap",
+		"size",
+		"use",
+		"feedback",
+		"to",
+		"avoid",
+		"page"
+	],
+	"tag": [
+		"feedback",
+		"using"
+	],
 	"title": "Isla Vista Heap Sizing: Using Feedback to Avoid Paging",
 	"type": "inproceedings",
 	"venue": "CGO",

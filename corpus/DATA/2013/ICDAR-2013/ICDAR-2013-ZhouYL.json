@@ -1,15 +1,44 @@
 {
-	"author": ["Ming-Ke Zhou", "Fei Yin", "Cheng-Lin Liu"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Ming-Ke Zhou",
+		"Fei Yin",
+		"Cheng-Lin Liu"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2013",
 	"dblpkey": "conf/icdar/ZhouYL13",
 	"doi": "10.1109/ICDAR.2013.172",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2013.172", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2013.172"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2013.172",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2013.172"
+	],
 	"pages": "842-846",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["gpu", "base", "fast", "train", "of", "discrimin", "learn", "quadrat", "discrimin", "function", "for", "handwritten", "chines", "charact", "recognit"],
-	"tag": ["learning", "performance", "polynomial", "recognition"],
+	"stemmed": [
+		"gpu",
+		"base",
+		"fast",
+		"train",
+		"of",
+		"discrimin",
+		"learn",
+		"quadrat",
+		"discrimin",
+		"function",
+		"for",
+		"handwritten",
+		"chines",
+		"charact",
+		"recognit"
+	],
+	"tag": [
+		"learning",
+		"performance",
+		"polynomial",
+		"recognition"
+	],
 	"title": "GPU-Based Fast Training of Discriminative Learning Quadratic Discriminant Function for Handwritten Chinese Character Recognition",
 	"type": "inproceedings",
 	"venue": "ICDAR",

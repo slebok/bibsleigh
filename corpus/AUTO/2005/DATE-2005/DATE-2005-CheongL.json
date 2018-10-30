@@ -1,6 +1,10 @@
 {
-	"author": ["Elaine Cheong", "Jie Liu"],
-	"booktitle": "DATE",
+	"author": [
+		"Elaine Cheong",
+		"Jie Liu"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/CheongL05",
 	"doi": "10.1109/DATE.2005.165",
@@ -8,8 +12,20 @@
 	"pages": "1050-1055",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["galsc", "a", "languag", "for", "event", "driven", "embed", "system"],
-	"tag": ["embedded", "named"],
+	"stemmed": [
+		"galsc",
+		"a",
+		"languag",
+		"for",
+		"event",
+		"driven",
+		"embed",
+		"system"
+	],
+	"tag": [
+		"embedded",
+		"named"
+	],
 	"title": "galsC: A Language for Event-Driven Embedded Systems",
 	"type": "inproceedings",
 	"venue": "DATE",

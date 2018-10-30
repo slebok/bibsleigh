@@ -1,6 +1,11 @@
 {
-	"author": ["Amit Singhal", "Mandar Mitra", "Chris Buckley"],
+	"author": [
+		"Amit Singhal",
+		"Mandar Mitra",
+		"Chris Buckley"
+	],
 	"booktitle": "Proceedings of the 20th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1997/P025.pdf",
 	"crossref": "conf/sigir/97",
 	"dblpkey": "conf/sigir/SinghalMB97",
@@ -8,8 +13,19 @@
 	"ee": "http://doi.acm.org/10.1145/258525.258530",
 	"pages": "25-32",
 	"publisher": "ACM",
-	"stemmed": ["learn", "rout", "queri", "in", "a", "queri", "zone"],
-	"tag": ["learning", "query"],
+	"stemmed": [
+		"learn",
+		"rout",
+		"queri",
+		"in",
+		"a",
+		"queri",
+		"zone"
+	],
+	"tag": [
+		"learning",
+		"query"
+	],
 	"title": "Learning Routing Queries in a Query Zone",
 	"type": "inproceedings",
 	"venue": "SIGIR",

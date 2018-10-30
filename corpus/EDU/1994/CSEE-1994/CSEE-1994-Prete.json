@@ -1,6 +1,7 @@
 {
 	"author": "Cosimo Antonio Prete",
-	"booktitle": "CSEE",
+	"booktitle": "Proceedings of the Seventh Conference on Software Engineering Education and Training",
+	"booktitleshort": "CSEE",
 	"crossref": "conf/csee/1994",
 	"dblpkey": "conf/csee/Prete94",
 	"doi": "10.1007/BFb0017623",
@@ -9,11 +10,31 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["cachesim", "a", "graphic", "softwar", "environ", "to", "support", "the", "teach", "of", "comput", "system", "with", "cach", "memori"],
-	"tag": ["education", "named", "visual notation"],
+	"stemmed": [
+		"cachesim",
+		"a",
+		"graphic",
+		"softwar",
+		"environ",
+		"to",
+		"support",
+		"the",
+		"teach",
+		"of",
+		"comput",
+		"system",
+		"with",
+		"cach",
+		"memori"
+	],
+	"tag": [
+		"education",
+		"named",
+		"visual notation"
+	],
 	"title": "Cachesim: A Graphical Software Environment to Support the Teaching of Computer Systems with Cache Memories",
 	"type": "inproceedings",
 	"venue": "CSEET",
-	"volume": 750,
+	"volume": "750",
 	"year": 1994
 }

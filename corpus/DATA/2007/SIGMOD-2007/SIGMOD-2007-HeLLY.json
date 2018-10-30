@@ -1,6 +1,11 @@
 {
-	"author": ["Bingsheng He", "Yinan Li", "Qiong Luo", "Dongqing Yang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Bingsheng He",
+		"Yinan Li",
+		"Qiong Luo",
+		"Dongqing Yang"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/HeLLY07",
@@ -8,8 +13,22 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247607",
 	"pages": "1064-1066",
 	"publisher": "ACM",
-	"stemmed": ["eas", "db", "a", "cach", "oblivi", "in", "memori", "queri", "processor"],
-	"tag": ["in memory", "named", "query"],
+	"stemmed": [
+		"eas",
+		"db",
+		"a",
+		"cach",
+		"oblivi",
+		"in",
+		"memori",
+		"queri",
+		"processor"
+	],
+	"tag": [
+		"in memory",
+		"named",
+		"query"
+	],
 	"title": "EaseDB: a cache-oblivious in-memory query processor",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

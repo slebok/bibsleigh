@@ -1,16 +1,44 @@
 {
-	"author": ["Steven Berson", "Leana Golubchik", "Richard R. Muntz"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Steven Berson",
+		"Leana Golubchik",
+		"Richard R. Muntz"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD95/P364.PDF",
-	"cite": ["conf/sigmod/BersonGMJ94", "conf/vldb/BittonG88", "conf/mm/ChenKY93", "journals/csur/ChenLGKP94", "conf/icde/HsiaoD90", "conf/vldb/MuntzL90", "conf/sigmod/PattersonGK88", "journals/tkde/RanganV93", "journals/computer/RuemmlerW94", "...", "conf/mm/TobagiPBG93"],
+	"cite": [
+		"conf/sigmod/BersonGMJ94",
+		"conf/vldb/BittonG88",
+		"conf/mm/ChenKY93",
+		"journals/csur/ChenLGKP94",
+		"conf/icde/HsiaoD90",
+		"conf/vldb/MuntzL90",
+		"conf/sigmod/PattersonGK88",
+		"journals/tkde/RanganV93",
+		"journals/computer/RuemmlerW94",
+		"...",
+		"conf/mm/TobagiPBG93"
+	],
 	"crossref": "conf/sigmod/95",
 	"dblpkey": "conf/sigmod/BersonGM95",
 	"doi": "10.1145/223784.223852",
 	"ee": "http://doi.acm.org/10.1145/223784.223852",
 	"pages": "364-375",
 	"publisher": "ACM Press",
-	"stemmed": ["fault", "toler", "design", "of", "multimedia", "server"],
-	"tag": ["design", "fault tolerance", "multi"],
+	"stemmed": [
+		"fault",
+		"toler",
+		"design",
+		"of",
+		"multimedia",
+		"server"
+	],
+	"tag": [
+		"design",
+		"fault tolerance",
+		"multi"
+	],
 	"title": "Fault Tolerant Design of Multimedia Servers",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

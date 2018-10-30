@@ -1,14 +1,36 @@
 {
-	"author": ["Kshitij Sudan", "Niladrish Chatterjee", "David W. Nellans", "Manu Awasthi", "Rajeev Balasubramonian", "Al Davis"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Kshitij Sudan",
+		"Niladrish Chatterjee",
+		"David W. Nellans",
+		"Manu Awasthi",
+		"Rajeev Balasubramonian",
+		"Al Davis"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2010",
 	"dblpkey": "conf/asplos/SudanCNABD10",
 	"doi": "10.1145/1736020.1736045",
 	"ee": "http://doi.acm.org/10.1145/1736020.1736045",
 	"pages": "219-230",
 	"publisher": "ACM",
-	"stemmed": ["micro", "page", "increas", "dram", "effici", "with", "local", "awar", "data", "placement"],
-	"tag": ["named", "performance"],
+	"stemmed": [
+		"micro",
+		"page",
+		"increas",
+		"dram",
+		"effici",
+		"with",
+		"local",
+		"awar",
+		"data",
+		"placement"
+	],
+	"tag": [
+		"named",
+		"performance"
+	],
 	"title": "Micro-pages: increasing DRAM efficiency with locality-aware data placement",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,6 +1,7 @@
 {
 	"author": "R. K. Shyamasundar",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the Third International Workshop on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2002",
 	"dblpkey": "conf/vmcai/Shyamasundar02",
 	"doi": "10.1007/3-540-47813-2_4",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["analyz", "cryptograph", "protocol", "in", "a", "reactiv", "framework"],
-	"tag": ["encryption", "framework", "protocol"],
+	"stemmed": [
+		"analyz",
+		"cryptograph",
+		"protocol",
+		"in",
+		"a",
+		"reactiv",
+		"framework"
+	],
+	"tag": [
+		"encryption",
+		"framework",
+		"protocol"
+	],
 	"title": "Analyzing Cryptographic Protocols in a Reactive Framework",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2294,
+	"volume": "2294",
 	"year": 2002
 }

@@ -1,12 +1,32 @@
 {
-	"author": ["Lukasz Golab", "M. Tamer Özsu"],
-	"booktitle": "VLDB",
+	"author": [
+		"Lukasz Golab",
+		"M. Tamer Özsu"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/GolabO03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S16P01.pdf",
 	"pages": "500-511",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["process", "slide", "window", "multi", "join", "in", "continu", "queri", "over", "data", "stream"],
-	"tag": ["data type", "multi", "query"],
+	"stemmed": [
+		"process",
+		"slide",
+		"window",
+		"multi",
+		"join",
+		"in",
+		"continu",
+		"queri",
+		"over",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"data type",
+		"multi",
+		"query"
+	],
 	"title": "Processing Sliding Window Multi-Joins in Continuous Queries over Data Streams",
 	"type": "inproceedings",
 	"venue": "VLDB",

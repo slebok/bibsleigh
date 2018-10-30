@@ -1,14 +1,36 @@
 {
-	"author": ["Leonid Ryzhyk", "John Keys", "Balachandra Mirla", "Arun Raghunath", "Mona Vij", "Gernot Heiser"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Leonid Ryzhyk",
+		"John Keys",
+		"Balachandra Mirla",
+		"Arun Raghunath",
+		"Mona Vij",
+		"Gernot Heiser"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2011",
 	"dblpkey": "conf/asplos/RyzhykKMRVH11",
 	"doi": "10.1145/1950365.1950383",
 	"ee": "http://doi.acm.org/10.1145/1950365.1950383",
 	"pages": "133-144",
 	"publisher": "ACM",
-	"stemmed": ["improv", "devic", "driver", "reliabl", "through", "hardwar", "verif", "reus"],
-	"tag": ["hardware", "reliability", "reuse", "verification"],
+	"stemmed": [
+		"improv",
+		"devic",
+		"driver",
+		"reliabl",
+		"through",
+		"hardwar",
+		"verif",
+		"reus"
+	],
+	"tag": [
+		"hardware",
+		"reliability",
+		"reuse",
+		"verification"
+	],
 	"title": "Improved device driver reliability through hardware verification reuse",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

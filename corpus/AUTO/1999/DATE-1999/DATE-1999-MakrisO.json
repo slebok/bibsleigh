@@ -1,6 +1,10 @@
 {
-	"author": ["Yiorgos Makris", "Alex Orailoglu"],
-	"booktitle": "DATE",
+	"author": [
+		"Yiorgos Makris",
+		"Alex Orailoglu"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/MakrisO99",
 	"doi": "10.1109/DATE.1999.761135",
@@ -8,8 +12,22 @@
 	"pages": "283-288",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["channel", "base", "behavior", "test", "synthesi", "for", "improv", "modul", "reachabl"],
-	"tag": ["behaviour", "reachability", "synthesis"],
+	"stemmed": [
+		"channel",
+		"base",
+		"behavior",
+		"test",
+		"synthesi",
+		"for",
+		"improv",
+		"modul",
+		"reachabl"
+	],
+	"tag": [
+		"behaviour",
+		"reachability",
+		"synthesis"
+	],
 	"title": "Channel-Based Behavioral Test Synthesis for Improved Module Reachability",
 	"type": "inproceedings",
 	"venue": "DATE",

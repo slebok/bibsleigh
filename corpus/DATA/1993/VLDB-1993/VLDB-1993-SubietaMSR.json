@@ -1,14 +1,48 @@
 {
-	"author": ["Kazimierz Subieta", "Florian Matthes", "Joachim W. Schmidt", "Andreas Rudloff"],
-	"booktitle": "VLDB",
-	"cite": ["conf/vldb/BeeriBG78", "conf/sigmod/BanerjeeKKK87", "journals/iandc/Cardelli88", "journals/tkde/Deux90", "journals/tkde/KimGBW90", "conf/ewdw/MatthesOS90", "journals/tods/MaierUV84", "...", "conf/sigmod/OhoriBT89", "conf/sigmod/RichardsonS91", "...", "journals/tkde/StonebrakerRH90", "...", "conf/ewdw/Subieta90", "conf/ewdw/SubietaBMS94", "conf/oodbs/Wilkes88"],
+	"author": [
+		"Kazimierz Subieta",
+		"Florian Matthes",
+		"Joachim W. Schmidt",
+		"Andreas Rudloff"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/vldb/BeeriBG78",
+		"conf/sigmod/BanerjeeKKK87",
+		"journals/iandc/Cardelli88",
+		"journals/tkde/Deux90",
+		"journals/tkde/KimGBW90",
+		"conf/ewdw/MatthesOS90",
+		"journals/tods/MaierUV84",
+		"...",
+		"conf/sigmod/OhoriBT89",
+		"conf/sigmod/RichardsonS91",
+		"...",
+		"journals/tkde/StonebrakerRH90",
+		"...",
+		"conf/ewdw/Subieta90",
+		"conf/ewdw/SubietaBMS94",
+		"conf/oodbs/Wilkes88"
+	],
 	"crossref": "conf/vldb/93",
 	"dblpkey": "conf/vldb/SubietaMSR93",
 	"ee": "http://www.vldb.org/conf/1993/P268.PDF",
 	"pages": "268-277",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["viewer", "a", "data", "world", "analogu", "of", "procedur", "call"],
-	"tag": ["named"],
+	"stemmed": [
+		"viewer",
+		"a",
+		"data",
+		"world",
+		"analogu",
+		"of",
+		"procedur",
+		"call"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "Viewers: A Data-World Analogue of Procedure Calls",
 	"type": "inproceedings",
 	"venue": "VLDB",

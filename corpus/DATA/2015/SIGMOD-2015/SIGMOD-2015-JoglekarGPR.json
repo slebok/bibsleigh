@@ -1,6 +1,11 @@
 {
-	"author": ["Manas Joglekar", "Hector Garcia-Molina", "Aditya G. Parameswaran", "Christopher Ré"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Manas Joglekar",
+		"Hector Garcia-Molina",
+		"Aditya G. Parameswaran",
+		"Christopher Ré"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/JoglekarGPR15",
@@ -8,8 +13,18 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2723715",
 	"pages": "1183-1198",
 	"publisher": "ACM",
-	"stemmed": ["exploit", "correl", "for", "expens", "predic", "evalu"],
-	"tag": ["correlation", "evaluation"],
+	"stemmed": [
+		"exploit",
+		"correl",
+		"for",
+		"expens",
+		"predic",
+		"evalu"
+	],
+	"tag": [
+		"correlation",
+		"evaluation"
+	],
 	"title": "Exploiting Correlations for Expensive Predicate Evaluation",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

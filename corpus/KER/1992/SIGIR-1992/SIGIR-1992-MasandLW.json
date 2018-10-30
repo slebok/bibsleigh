@@ -1,6 +1,11 @@
 {
-	"author": ["Brij M. Masand", "Gordon Linoff", "David L. Waltz"],
+	"author": [
+		"Brij M. Masand",
+		"Gordon Linoff",
+		"David L. Waltz"
+	],
 	"booktitle": "Proceedings of the 15th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1992/P059.pdf",
 	"crossref": "conf/sigir/92",
 	"dblpkey": "conf/sigir/MasandLW92",
@@ -8,8 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/133160.133177",
 	"pages": "59-65",
 	"publisher": "ACM",
-	"stemmed": ["classifi", "news", "stori", "use", "memori", "base", "reason"],
-	"tag": ["memory management", "reasoning", "using"],
+	"stemmed": [
+		"classifi",
+		"news",
+		"stori",
+		"use",
+		"memori",
+		"base",
+		"reason"
+	],
+	"tag": [
+		"memory management",
+		"reasoning",
+		"using"
+	],
 	"title": "Classifying News Stories using Memory Based Reasoning",
 	"type": "inproceedings",
 	"venue": "SIGIR",

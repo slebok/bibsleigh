@@ -1,14 +1,33 @@
 {
-	"author": ["Serge Abiteboul", "Meghyn Bienvenu", "Alban Galland", "Émilien Antoine"],
-	"booktitle": "PODS",
+	"author": [
+		"Serge Abiteboul",
+		"Meghyn Bienvenu",
+		"Alban Galland",
+		"Émilien Antoine"
+	],
+	"booktitle": "Proceedings of the 30th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2011",
 	"dblpkey": "conf/pods/AbiteboulBGA11",
 	"doi": "10.1145/1989284.1989320",
 	"ee": "http://doi.acm.org/10.1145/1989284.1989320",
 	"pages": "293-304",
 	"publisher": "ACM",
-	"stemmed": ["a", "rule", "base", "languag", "for", "web", "data", "manag"],
-	"tag": ["data transformation", "rule-based", "web"],
+	"stemmed": [
+		"a",
+		"rule",
+		"base",
+		"languag",
+		"for",
+		"web",
+		"data",
+		"manag"
+	],
+	"tag": [
+		"data transformation",
+		"rule-based",
+		"web"
+	],
 	"title": "A rule-based language for web data management",
 	"type": "inproceedings",
 	"venue": "PODS",

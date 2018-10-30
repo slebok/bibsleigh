@@ -1,6 +1,12 @@
 {
-	"author": ["Nidhi Aggarwal", "Jason F. Cantin", "Mikko H. Lipasti", "James E. Smith"],
-	"booktitle": "HPCA",
+	"author": [
+		"Nidhi Aggarwal",
+		"Jason F. Cantin",
+		"Mikko H. Lipasti",
+		"James E. Smith"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2008",
 	"dblpkey": "conf/hpca/AggarwalCLS08",
 	"doi": "10.1109/HPCA.2008.4658649",
@@ -8,8 +14,15 @@
 	"pages": "317-328",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["power", "effici", "dram", "specul"],
-	"tag": ["power management"],
+	"stemmed": [
+		"power",
+		"effici",
+		"dram",
+		"specul"
+	],
+	"tag": [
+		"power management"
+	],
 	"title": "Power-Efficient DRAM Speculation",
 	"type": "inproceedings",
 	"venue": "HPCA",

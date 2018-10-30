@@ -1,6 +1,11 @@
 {
-	"author": ["Xiaowei Sun", "Rui Wang", "Betty Salzberg", "Chendong Zou"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Xiaowei Sun",
+		"Rui Wang",
+		"Betty Salzberg",
+		"Chendong Zou"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/SunWSZ05",
@@ -8,8 +13,15 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066196",
 	"pages": "335-346",
 	"publisher": "ACM",
-	"stemmed": ["onlin", "b", "tree", "merg"],
-	"tag": ["online"],
+	"stemmed": [
+		"onlin",
+		"b",
+		"tree",
+		"merg"
+	],
+	"tag": [
+		"online"
+	],
 	"title": "Online B-tree Merging",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,15 @@
 {
-	"author": ["Benoît Delahaye", "Joost-Pieter Katoen", "Kim G. Larsen", "Axel Legay", "Mikkel L. Pedersen", "Falak Sher", "Andrzej Wasowski"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Benoît Delahaye",
+		"Joost-Pieter Katoen",
+		"Kim G. Larsen",
+		"Axel Legay",
+		"Mikkel L. Pedersen",
+		"Falak Sher",
+		"Andrzej Wasowski"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2011",
 	"dblpkey": "conf/vmcai/DelahayeKLLPSW11",
 	"doi": "10.1007/978-3-642-18275-4_23",
@@ -10,11 +19,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["abstract", "probabilist", "automata"],
-	"tag": ["automaton", "probability"],
+	"stemmed": [
+		"abstract",
+		"probabilist",
+		"automata"
+	],
+	"tag": [
+		"automaton",
+		"probability"
+	],
 	"title": "Abstract Probabilistic Automata",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 6538,
+	"volume": "6538",
 	"year": 2011
 }

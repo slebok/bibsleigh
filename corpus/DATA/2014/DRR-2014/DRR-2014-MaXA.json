@@ -1,6 +1,11 @@
 {
-	"author": ["Di Ma", "Bingqing Xie", "Gady Agam"],
-	"booktitle": "DRR",
+	"author": [
+		"Di Ma",
+		"Bingqing Xie",
+		"Gady Agam"
+	],
+	"booktitle": "Proceedings of the 21st Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2014",
 	"dblpkey": "conf/drr/MaXA14",
 	"doi": "10.1117/12.2042602",
@@ -8,11 +13,27 @@
 	"pages": "90210V-90210V-8",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["a", "machin", "learn", "base", "lectur", "video", "segment", "and", "index", "algorithm"],
-	"tag": ["algorithm", "machine learning", "segmentation", "video"],
+	"stemmed": [
+		"a",
+		"machin",
+		"learn",
+		"base",
+		"lectur",
+		"video",
+		"segment",
+		"and",
+		"index",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"machine learning",
+		"segmentation",
+		"video"
+	],
 	"title": "A machine learning based lecture video segmentation and indexing algorithm",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 9021,
+	"volume": "9021",
 	"year": 2014
 }

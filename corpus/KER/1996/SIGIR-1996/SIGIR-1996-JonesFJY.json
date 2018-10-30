@@ -1,6 +1,12 @@
 {
-	"author": ["Gareth J. F. Jones", "J. T. Foote", "Karen Spärck Jones", "Steve J. Young"],
+	"author": [
+		"Gareth J. F. Jones",
+		"J. T. Foote",
+		"Karen Spärck Jones",
+		"Steve J. Young"
+	],
 	"booktitle": "Proceedings of the 19th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1996/P030.pdf",
 	"crossref": "conf/sigir/96",
 	"dblpkey": "conf/sigir/JonesFJY96",
@@ -8,8 +14,20 @@
 	"ee": "http://doi.acm.org/10.1145/243199.243208",
 	"pages": "30-38",
 	"publisher": "ACM",
-	"stemmed": ["retriev", "spoken", "document", "by", "combin", "multipl", "index", "sourc"],
-	"tag": ["documentation", "multi"],
+	"stemmed": [
+		"retriev",
+		"spoken",
+		"document",
+		"by",
+		"combin",
+		"multipl",
+		"index",
+		"sourc"
+	],
+	"tag": [
+		"documentation",
+		"multi"
+	],
 	"title": "Retrieving Spoken Documents by Combining Multiple Index Sources",
 	"type": "inproceedings",
 	"venue": "SIGIR",

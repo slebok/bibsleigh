@@ -1,6 +1,10 @@
 {
-	"author": ["Peng Wang", "Santiago Cuellar", "Adam Chlipala"],
-	"booktitle": "Proceedings of the 29th International Conference on Object Oriented Programming Systems Languages & Applications",
+	"author": [
+		"Peng Wang",
+		"Santiago Cuellar",
+		"Adam Chlipala"
+	],
+	"booktitle": "Proceedings of the 29th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2014",
 	"dblpkey": "conf/oopsla/WangCC14",
@@ -8,8 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/2660193.2660201",
 	"pages": "675-690",
 	"publisher": "ACM",
-	"stemmed": ["compil", "verif", "meet", "cross", "languag", "link", "via", "data", "abstract"],
-	"tag": ["abstraction", "compilation", "verification"],
+	"stemmed": [
+		"compil",
+		"verif",
+		"meet",
+		"cross",
+		"languag",
+		"link",
+		"via",
+		"data",
+		"abstract"
+	],
+	"tag": [
+		"abstraction",
+		"compilation",
+		"verification"
+	],
 	"title": "Compiler verification meets cross-language linking via data abstraction",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

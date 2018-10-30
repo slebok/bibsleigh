@@ -1,14 +1,31 @@
 {
-	"author": ["Daniele Quercia", "Licia Capra"],
-	"booktitle": "RecSys",
+	"author": [
+		"Daniele Quercia",
+		"Licia Capra"
+	],
+	"booktitle": "Proceedings of the Third Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2009",
 	"dblpkey": "conf/recsys/QuerciaC09",
 	"doi": "10.1145/1639714.1639766",
 	"ee": "http://doi.acm.org/10.1145/1639714.1639766",
 	"pages": "273-276",
 	"publisher": "ACM",
-	"stemmed": ["friend", "sens", "recommend", "friend", "use", "mobil", "phone"],
-	"tag": ["mobile", "named", "recommendation", "using"],
+	"stemmed": [
+		"friend",
+		"sens",
+		"recommend",
+		"friend",
+		"use",
+		"mobil",
+		"phone"
+	],
+	"tag": [
+		"mobile",
+		"named",
+		"recommendation",
+		"using"
+	],
 	"title": "FriendSensing: recommending friends using mobile phones",
 	"type": "inproceedings",
 	"venue": "RecSys",

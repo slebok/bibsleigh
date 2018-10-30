@@ -1,14 +1,27 @@
 {
-	"author": ["Gor V. Nishanov", "Sibylle Schupp"],
-	"booktitle": "ISMM",
+	"author": [
+		"Gor V. Nishanov",
+		"Sibylle Schupp"
+	],
+	"booktitle": "Proceedings of the First International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/1998",
 	"dblpkey": "conf/iwmm/NishanovS98",
 	"doi": "10.1145/286860.286870",
 	"ee": "http://doi.acm.org/10.1145/286860.286870",
 	"pages": "86-96",
 	"publisher": "ACM",
-	"stemmed": ["garbag", "collect", "in", "generic", "librari"],
-	"tag": ["garbage collection", "library"],
+	"stemmed": [
+		"garbag",
+		"collect",
+		"in",
+		"generic",
+		"librari"
+	],
+	"tag": [
+		"garbage collection",
+		"library"
+	],
 	"title": "Garbage Collection in Generic Libraries",
 	"type": "inproceedings",
 	"venue": "ISMM",

@@ -1,6 +1,6 @@
 {
 	"author": "Aneesh Aggarwal",
-	"booktitle": "MSP/ISMM",
+	"booktitle": "Proceedings of the Third International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2002",
 	"dblpkey": "conf/iwmm/Aggarwal02",
@@ -8,7 +8,12 @@
 	"ee": "http://doi.acm.org/10.1145/773039.512450",
 	"pages": "263-268",
 	"publisher": "ACM",
-	"stemmed": ["softwar", "cach", "vs", "prefetch"],
+	"stemmed": [
+		"softwar",
+		"cach",
+		"vs",
+		"prefetch"
+	],
 	"title": "Software caching vs. prefetching",
 	"type": "inproceedings",
 	"venue": "ISMM",

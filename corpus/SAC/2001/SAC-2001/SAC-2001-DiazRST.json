@@ -1,14 +1,37 @@
 {
-	"author": ["Manuel Díaz", "Bartolomé Rubio", "Enrique Soler", "José M. Troya"],
+	"author": [
+		"Manuel Díaz",
+		"Bartolomé Rubio",
+		"Enrique Soler",
+		"José M. Troya"
+	],
 	"booktitle": "Proceedings of the 16th Symposium on Applied Computing",
+	"booktitleshort": "SAC",
 	"crossref": "conf/sac/2001",
 	"dblpkey": "conf/sac/DiazRST01",
 	"doi": "10.1145/372202.372300",
 	"ee": "http://doi.acm.org/10.1145/372202.372300",
 	"pages": "148-150",
 	"publisher": "ACM",
-	"stemmed": ["dip", "a", "pattern", "base", "approach", "for", "task", "and", "data", "parallel", "integr"],
-	"tag": ["approach", "integration", "named", "parallel"],
+	"stemmed": [
+		"dip",
+		"a",
+		"pattern",
+		"base",
+		"approach",
+		"for",
+		"task",
+		"and",
+		"data",
+		"parallel",
+		"integr"
+	],
+	"tag": [
+		"approach",
+		"integration",
+		"named",
+		"parallel"
+	],
 	"title": "DIP: a pattern-based approach for task and data parallelism integration",
 	"type": "inproceedings",
 	"venue": "SAC",

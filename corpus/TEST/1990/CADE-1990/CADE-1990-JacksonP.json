@@ -1,6 +1,10 @@
 {
-	"author": ["Peter Jackson", "John Pais"],
-	"booktitle": "CADE",
+	"author": [
+		"Peter Jackson",
+		"John Pais"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/JacksonP90",
 	"doi": "10.1007/3-540-52885-7_113",
@@ -10,10 +14,14 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["comput", "prime", "implic"],
+	"stemmed": [
+		"comput",
+		"prime",
+		"implic"
+	],
 	"title": "Computing Prime Implicants",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

@@ -1,6 +1,10 @@
 {
-	"author": ["Kazuhiro Ogata", "Kokichi Futatsugi"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Kazuhiro Ogata",
+		"Kokichi Futatsugi"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2003",
 	"dblpkey": "conf/vmcai/OgataF03",
 	"doi": "10.1007/3-540-36384-X_20",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["formal", "verif", "of", "the", "horn", "preneel", "micropay", "protocol"],
-	"tag": ["protocol", "verification"],
+	"stemmed": [
+		"formal",
+		"verif",
+		"of",
+		"the",
+		"horn",
+		"preneel",
+		"micropay",
+		"protocol"
+	],
+	"tag": [
+		"protocol",
+		"verification"
+	],
 	"title": "Formal Verification of the Horn-Preneel Micropayment Protocol",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2575,
+	"volume": "2575",
 	"year": 2003
 }

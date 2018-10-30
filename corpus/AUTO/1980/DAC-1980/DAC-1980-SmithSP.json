@@ -1,14 +1,29 @@
 {
-	"author": ["Valerie K. Smith", "Robert J. Smith II", "Phil A. Preston"],
-	"booktitle": "DAC",
+	"author": [
+		"Valerie K. Smith",
+		"Robert J. Smith II",
+		"Phil A. Preston"
+	],
+	"booktitle": "Proceedings of the 17th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1980",
 	"dblpkey": "conf/dac/SmithSP80",
 	"doi": "10.1145/800139.804571",
 	"ee": "http://doi.acm.org/10.1145/800139.804571",
 	"pages": "465-471",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["comet", "a", "fast", "compon", "placer"],
-	"tag": ["component", "named", "performance"],
+	"stemmed": [
+		"comet",
+		"a",
+		"fast",
+		"compon",
+		"placer"
+	],
+	"tag": [
+		"component",
+		"named",
+		"performance"
+	],
 	"title": "Comet — a fast component placer",
 	"type": "inproceedings",
 	"venue": "DAC",

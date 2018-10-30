@@ -1,6 +1,11 @@
 {
-	"author": ["Gordon V. Cormack", "Christopher R. Palmer", "Charles L. A. Clarke"],
+	"author": [
+		"Gordon V. Cormack",
+		"Christopher R. Palmer",
+		"Charles L. A. Clarke"
+	],
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P282.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/CormackPC98",
@@ -8,8 +13,18 @@
 	"ee": "http://doi.acm.org/10.1145/290941.291009",
 	"pages": "282-289",
 	"publisher": "ACM",
-	"stemmed": ["effici", "construct", "of", "larg", "test", "collect"],
-	"tag": ["performance", "scalability"],
+	"stemmed": [
+		"effici",
+		"construct",
+		"of",
+		"larg",
+		"test",
+		"collect"
+	],
+	"tag": [
+		"performance",
+		"scalability"
+	],
 	"title": "Efficient Construction of Large Test Collections",
 	"type": "inproceedings",
 	"venue": "SIGIR",

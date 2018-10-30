@@ -1,6 +1,12 @@
 {
-	"author": ["Jialu Liu", "Jingbo Shang", "Chi Wang", "Xiang Ren", "Jiawei Han"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jialu Liu",
+		"Jingbo Shang",
+		"Chi Wang",
+		"Xiang Ren",
+		"Jiawei Han"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/LiuSWRH15",
@@ -8,8 +14,20 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2751523",
 	"pages": "1729-1744",
 	"publisher": "ACM",
-	"stemmed": ["mine", "qualiti", "phrase", "from", "massiv", "text", "corpora"],
-	"tag": ["corpus", "mining", "quality"],
+	"stemmed": [
+		"mine",
+		"qualiti",
+		"phrase",
+		"from",
+		"massiv",
+		"text",
+		"corpora"
+	],
+	"tag": [
+		"corpus",
+		"mining",
+		"quality"
+	],
 	"title": "Mining Quality Phrases from Massive Text Corpora",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

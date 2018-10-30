@@ -1,6 +1,10 @@
 {
-	"author": ["Stefan Höreth", "Rolf Drechsler"],
-	"booktitle": "DATE",
+	"author": [
+		"Stefan Höreth",
+		"Rolf Drechsler"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/HorethD99",
 	"doi": "10.1109/DATE.1999.761096",
@@ -8,8 +12,18 @@
 	"pages": "52-57",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["formal", "verif", "of", "word", "level", "specif"],
-	"tag": ["specification", "verification"],
+	"stemmed": [
+		"formal",
+		"verif",
+		"of",
+		"word",
+		"level",
+		"specif"
+	],
+	"tag": [
+		"specification",
+		"verification"
+	],
 	"title": "Formal Verification of Word-Level Specifications",
 	"type": "inproceedings",
 	"venue": "DATE",

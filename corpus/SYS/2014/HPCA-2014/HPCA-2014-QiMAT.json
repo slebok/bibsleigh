@@ -1,6 +1,12 @@
 {
-	"author": ["Shanxiang Qi", "Abdullah Muzahid", "Wonsun Ahn", "Josep Torrellas"],
-	"booktitle": "HPCA",
+	"author": [
+		"Shanxiang Qi",
+		"Abdullah Muzahid",
+		"Wonsun Ahn",
+		"Josep Torrellas"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/QiMAT14",
 	"doi": "10.1109/HPCA.2014.6835923",
@@ -8,8 +14,19 @@
 	"pages": "120-131",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["dynam", "detect", "and", "toler", "if", "condit", "data", "race"],
-	"tag": ["detection"],
+	"stemmed": [
+		"dynam",
+		"detect",
+		"and",
+		"toler",
+		"if",
+		"condit",
+		"data",
+		"race"
+	],
+	"tag": [
+		"detection"
+	],
 	"title": "Dynamically detecting and tolerating IF-Condition Data Races",
 	"type": "inproceedings",
 	"venue": "HPCA",

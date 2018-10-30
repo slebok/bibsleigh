@@ -1,14 +1,31 @@
 {
-	"author": ["Sheetal V. Kakkad", "Mark S. Johnstone", "Paul R. Wilson"],
-	"booktitle": "ISMM",
+	"author": [
+		"Sheetal V. Kakkad",
+		"Mark S. Johnstone",
+		"Paul R. Wilson"
+	],
+	"booktitle": "Proceedings of the First International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/1998",
 	"dblpkey": "conf/iwmm/KakkadJW98",
 	"doi": "10.1145/286860.286876",
 	"ee": "http://doi.acm.org/10.1145/286860.286876",
 	"pages": "146-153",
 	"publisher": "ACM",
-	"stemmed": ["portabl", "run", "time", "type", "descript", "for", "convent", "compil"],
-	"tag": ["compilation", "runtime"],
+	"stemmed": [
+		"portabl",
+		"run",
+		"time",
+		"type",
+		"descript",
+		"for",
+		"convent",
+		"compil"
+	],
+	"tag": [
+		"compilation",
+		"runtime"
+	],
 	"title": "Portable Run-Time Type Description for Conventional Compilers",
 	"type": "inproceedings",
 	"venue": "ISMM",

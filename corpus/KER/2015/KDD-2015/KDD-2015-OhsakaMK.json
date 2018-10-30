@@ -1,14 +1,32 @@
 {
-	"author": ["Naoto Ohsaka", "Takanori Maehara", "Ken-ichi Kawarabayashi"],
-	"booktitle": "KDD",
+	"author": [
+		"Naoto Ohsaka",
+		"Takanori Maehara",
+		"Ken-ichi Kawarabayashi"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/OhsakaMK15",
 	"doi": "10.1145/2783258.2783297",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783297",
 	"pages": "875-884",
 	"publisher": "ACM",
-	"stemmed": ["effici", "page", "rank", "track", "in", "evolv", "network"],
-	"tag": ["evolution", "network", "performance", "rank"],
+	"stemmed": [
+		"effici",
+		"page",
+		"rank",
+		"track",
+		"in",
+		"evolv",
+		"network"
+	],
+	"tag": [
+		"evolution",
+		"network",
+		"performance",
+		"rank"
+	],
 	"title": "Efficient PageRank Tracking in Evolving Networks",
 	"type": "inproceedings",
 	"venue": "KDD",

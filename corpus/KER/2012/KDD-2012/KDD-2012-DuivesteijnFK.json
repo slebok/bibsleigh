@@ -1,14 +1,38 @@
 {
-	"author": ["Wouter Duivesteijn", "Ad Feelders", "Arno J. Knobbe"],
-	"booktitle": "KDD",
+	"author": [
+		"Wouter Duivesteijn",
+		"Ad Feelders",
+		"Arno J. Knobbe"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/DuivesteijnFK12",
 	"doi": "10.1145/2339530.2339668",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339668",
 	"pages": "868-876",
 	"publisher": "ACM",
-	"stemmed": ["differ", "slope", "for", "differ", "folk", "mine", "for", "except", "regress", "model", "with", "cook", "s", "distanc"],
-	"tag": ["distance", "mining", "modelling"],
+	"stemmed": [
+		"differ",
+		"slope",
+		"for",
+		"differ",
+		"folk",
+		"mine",
+		"for",
+		"except",
+		"regress",
+		"model",
+		"with",
+		"cook",
+		"s",
+		"distanc"
+	],
+	"tag": [
+		"distance",
+		"mining",
+		"modelling"
+	],
 	"title": "Different slopes for different folks: mining for exceptional regression models with cook’s distance",
 	"type": "inproceedings",
 	"venue": "KDD",

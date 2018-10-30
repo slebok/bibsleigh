@@ -1,6 +1,7 @@
 {
 	"author": "Allen Van Gelder",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Seventh International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1984",
 	"dblpkey": "conf/cade/Gelder84",
 	"doi": "10.1007/BFb0047116",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "satisfi", "tester", "for", "non", "clausal", "proposit", "calculus"],
-	"tag": ["calculus", "satisfiability"],
+	"stemmed": [
+		"a",
+		"satisfi",
+		"tester",
+		"for",
+		"non",
+		"clausal",
+		"proposit",
+		"calculus"
+	],
+	"tag": [
+		"calculus",
+		"satisfiability"
+	],
 	"title": "A Satisfiability Tester for Non-Clausal Propositional Calculus",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 170,
+	"volume": "170",
 	"year": 1984
 }

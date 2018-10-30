@@ -1,14 +1,34 @@
 {
-	"author": ["Milind Kulkarni", "Martin Burtscher", "Rajasekhar Inkulu", "Keshav Pingali", "Calin Cascaval"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Milind Kulkarni",
+		"Martin Burtscher",
+		"Rajasekhar Inkulu",
+		"Keshav Pingali",
+		"Calin Cascaval"
+	],
+	"booktitle": "Proceedings of the 14th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2009",
 	"dblpkey": "conf/ppopp/KulkarniBIPC09",
 	"doi": "10.1145/1504176.1504181",
 	"ee": "http://doi.acm.org/10.1145/1504176.1504181",
 	"pages": "3-14",
 	"publisher": "ACM",
-	"stemmed": ["how", "much", "parallel", "is", "there", "in", "irregular", "applic"],
-	"tag": ["how", "parallel", "question"],
+	"stemmed": [
+		"how",
+		"much",
+		"parallel",
+		"is",
+		"there",
+		"in",
+		"irregular",
+		"applic"
+	],
+	"tag": [
+		"how",
+		"parallel",
+		"question"
+	],
 	"title": "How much parallelism is there in irregular applications?",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,14 +1,33 @@
 {
-	"author": ["Dong Hyuk Woo", "Hsien-Hsin S. Lee"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Dong Hyuk Woo",
+		"Hsien-Hsin S. Lee"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2010",
 	"dblpkey": "conf/asplos/WooL10",
 	"doi": "10.1145/1736020.1736054",
 	"ee": "http://doi.acm.org/10.1145/1736020.1736054",
 	"pages": "297-310",
 	"publisher": "ACM",
-	"stemmed": ["compass", "a", "programm", "data", "prefetch", "use", "idl", "gpu", "shader"],
-	"tag": ["gpu", "named", "programmable", "using"],
+	"stemmed": [
+		"compass",
+		"a",
+		"programm",
+		"data",
+		"prefetch",
+		"use",
+		"idl",
+		"gpu",
+		"shader"
+	],
+	"tag": [
+		"gpu",
+		"named",
+		"programmable",
+		"using"
+	],
 	"title": "COMPASS: a programmable data prefetcher using idle GPU shaders",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,15 +1,43 @@
 {
-	"author": ["Arnon Rosenthal", "César A. Galindo-Legaria"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Arnon Rosenthal",
+		"César A. Galindo-Legaria"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD90/P291.PDF",
-	"cite": ["conf/icod/Date83", "conf/pods/Dayal83", "conf/vldb/Dayal87", "...", "conf/vldb/Muralikrishna89", "journals/tods/OzsoyogluMO89", "conf/vldb/RosenthalR84", "...", "conf/vldb/SchollPS87", "journals/tods/Shipman81"],
+	"cite": [
+		"conf/icod/Date83",
+		"conf/pods/Dayal83",
+		"conf/vldb/Dayal87",
+		"...",
+		"conf/vldb/Muralikrishna89",
+		"journals/tods/OzsoyogluMO89",
+		"conf/vldb/RosenthalR84",
+		"...",
+		"conf/vldb/SchollPS87",
+		"journals/tods/Shipman81"
+	],
 	"crossref": "conf/sigmod/90",
 	"dblpkey": "conf/sigmod/RosenthalG90",
 	"doi": "10.1145/93597.98738",
 	"ee": "http://doi.acm.org/10.1145/93597.98738",
 	"pages": "291-299",
-	"stemmed": ["queri", "graph", "implement", "tree", "and", "freeli", "reorder", "outerjoin"],
-	"tag": ["graph", "implementation", "query"],
+	"stemmed": [
+		"queri",
+		"graph",
+		"implement",
+		"tree",
+		"and",
+		"freeli",
+		"reorder",
+		"outerjoin"
+	],
+	"tag": [
+		"graph",
+		"implementation",
+		"query"
+	],
 	"title": "Query Graphs, Implementing Trees, and Freely-Reorderable Outerjoins",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

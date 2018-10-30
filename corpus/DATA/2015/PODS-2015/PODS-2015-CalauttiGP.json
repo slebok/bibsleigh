@@ -1,14 +1,28 @@
 {
-	"author": ["Marco Calautti", "Georg Gottlob", "Andreas Pieris"],
-	"booktitle": "PODS",
+	"author": [
+		"Marco Calautti",
+		"Georg Gottlob",
+		"Andreas Pieris"
+	],
+	"booktitle": "Proceedings of the 34th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2015",
 	"dblpkey": "conf/pods/CalauttiGP15",
 	"doi": "10.1145/2745754.2745773",
 	"ee": "http://doi.acm.org/10.1145/2745754.2745773",
 	"pages": "91-103",
 	"publisher": "ACM",
-	"stemmed": ["chase", "termin", "for", "guard", "existenti", "rule"],
-	"tag": ["termination"],
+	"stemmed": [
+		"chase",
+		"termin",
+		"for",
+		"guard",
+		"existenti",
+		"rule"
+	],
+	"tag": [
+		"termination"
+	],
 	"title": "Chase Termination for Guarded Existential Rules",
 	"type": "inproceedings",
 	"venue": "PODS",

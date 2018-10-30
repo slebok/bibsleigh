@@ -1,6 +1,7 @@
 {
 	"author": "Daniel Ott",
-	"booktitle": "REFSQ",
+	"booktitle": "Proceedings of the 19th International Working Conference on Requirements Engineering: Foundation for Software Quality",
+	"booktitleshort": "REFSQ",
 	"crossref": "conf/refsq/2013",
 	"dblpkey": "conf/refsq/Ott13",
 	"doi": "10.1007/978-3-642-37422-7_4",
@@ -9,11 +10,33 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["automat", "requir", "categor", "of", "larg", "natur", "languag", "specif", "at", "merced", "benz", "for", "review", "improv"],
-	"tag": ["automation", "bibliography", "categorisation", "natural language", "scalability", "specification"],
+	"stemmed": [
+		"automat",
+		"requir",
+		"categor",
+		"of",
+		"larg",
+		"natur",
+		"languag",
+		"specif",
+		"at",
+		"merced",
+		"benz",
+		"for",
+		"review",
+		"improv"
+	],
+	"tag": [
+		"automation",
+		"bibliography",
+		"categorisation",
+		"natural language",
+		"scalability",
+		"specification"
+	],
 	"title": "Automatic Requirement Categorization of Large Natural Language Specifications at Mercedes-Benz for Review Improvements",
 	"type": "inproceedings",
 	"venue": "REFSQ",
-	"volume": 7830,
+	"volume": "7830",
 	"year": 2013
 }

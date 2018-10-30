@@ -1,6 +1,7 @@
 {
 	"author": "Francesco Ranzato",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the 14th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2013",
 	"dblpkey": "conf/vmcai/Ranzato13",
 	"doi": "10.1007/978-3-642-35873-9_3",
@@ -10,11 +11,17 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["complet", "abstract", "everywher"],
-	"tag": ["abstraction"],
+	"stemmed": [
+		"complet",
+		"abstract",
+		"everywher"
+	],
+	"tag": [
+		"abstraction"
+	],
 	"title": "Complete Abstractions Everywhere",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 7737,
+	"volume": "7737",
 	"year": 2013
 }

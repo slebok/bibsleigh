@@ -1,15 +1,36 @@
 {
-	"author": ["Rodolfo P. dos Santos", "Gabriela S. Clemente", "Ing Ren Tsang", "George D. C. Cavalcanti"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Rodolfo P. dos Santos",
+		"Gabriela S. Clemente",
+		"Ing Ren Tsang",
+		"George D. C. Cavalcanti"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2009",
 	"dblpkey": "conf/icdar/SantosCTC09",
 	"doi": "10.1109/ICDAR.2009.183",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2009.183", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2009.183"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2009.183",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2009.183"
+	],
 	"pages": "651-655",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["text", "line", "segment", "base", "on", "morpholog", "and", "histogram", "project"],
-	"tag": ["segmentation"],
+	"stemmed": [
+		"text",
+		"line",
+		"segment",
+		"base",
+		"on",
+		"morpholog",
+		"and",
+		"histogram",
+		"project"
+	],
+	"tag": [
+		"segmentation"
+	],
 	"title": "Text Line Segmentation Based on Morphology and Histogram Projection",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,14 +1,37 @@
 {
-	"author": ["Hannah Kim", "Jaegul Choo", "Jingu Kim", "Chandan K. Reddy", "Haesun Park"],
-	"booktitle": "KDD",
+	"author": [
+		"Hannah Kim",
+		"Jaegul Choo",
+		"Jingu Kim",
+		"Chandan K. Reddy",
+		"Haesun Park"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/KimCKRP15",
 	"doi": "10.1145/2783258.2783338",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783338",
 	"pages": "567-576",
 	"publisher": "ACM",
-	"stemmed": ["simultan", "discoveri", "of", "common", "and", "discrimin", "topic", "via", "joint", "nonneg", "matrix", "factor"],
-	"tag": ["matrix", "topic"],
+	"stemmed": [
+		"simultan",
+		"discoveri",
+		"of",
+		"common",
+		"and",
+		"discrimin",
+		"topic",
+		"via",
+		"joint",
+		"nonneg",
+		"matrix",
+		"factor"
+	],
+	"tag": [
+		"matrix",
+		"topic"
+	],
 	"title": "Simultaneous Discovery of Common and Discriminative Topics via Joint Nonnegative Matrix Factorization",
 	"type": "inproceedings",
 	"venue": "KDD",

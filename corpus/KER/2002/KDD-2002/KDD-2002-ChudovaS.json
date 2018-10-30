@@ -1,14 +1,30 @@
 {
-	"author": ["Darya Chudova", "Padhraic Smyth"],
-	"booktitle": "KDD",
+	"author": [
+		"Darya Chudova",
+		"Padhraic Smyth"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/ChudovaS02",
 	"doi": "10.1145/775047.775070",
 	"ee": "http://doi.acm.org/10.1145/775047.775070",
 	"pages": "153-162",
 	"publisher": "ACM",
-	"stemmed": ["pattern", "discoveri", "in", "sequenc", "under", "a", "markov", "assumpt"],
-	"tag": ["markov", "sequence"],
+	"stemmed": [
+		"pattern",
+		"discoveri",
+		"in",
+		"sequenc",
+		"under",
+		"a",
+		"markov",
+		"assumpt"
+	],
+	"tag": [
+		"markov",
+		"sequence"
+	],
 	"title": "Pattern discovery in sequences under a Markov assumption",
 	"type": "inproceedings",
 	"venue": "KDD",

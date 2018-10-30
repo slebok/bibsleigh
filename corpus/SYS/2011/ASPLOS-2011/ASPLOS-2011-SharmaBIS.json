@@ -1,14 +1,31 @@
 {
-	"author": ["Navin Sharma", "Sean Kenneth Barker", "David E. Irwin", "Prashant J. Shenoy"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Navin Sharma",
+		"Sean Kenneth Barker",
+		"David E. Irwin",
+		"Prashant J. Shenoy"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2011",
 	"dblpkey": "conf/asplos/SharmaBIS11",
 	"doi": "10.1145/1950365.1950389",
 	"ee": "http://doi.acm.org/10.1145/1950365.1950389",
 	"pages": "185-198",
 	"publisher": "ACM",
-	"stemmed": ["blink", "manag", "server", "cluster", "on", "intermitt", "power"],
-	"tag": ["clustering", "named"],
+	"stemmed": [
+		"blink",
+		"manag",
+		"server",
+		"cluster",
+		"on",
+		"intermitt",
+		"power"
+	],
+	"tag": [
+		"clustering",
+		"named"
+	],
 	"title": "Blink: managing server clusters on intermittent power",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

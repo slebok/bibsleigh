@@ -1,16 +1,47 @@
 {
-	"author": ["H. T. Kung", "Christos H. Papadimitriou"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"H. T. Kung",
+		"Christos H. Papadimitriou"
+	],
+	"booktitle": "Proceedings of the Ninth ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD79/P116.PDF",
-	"cite": ["journals/tse/BernsteinRGP78", "journals/csur/CoffmanES71", "journals/cacm/EswarranGLT76", "...", "conf/ac/Gray78", "journals/tods/KungL80", "...", "...", "...", "journals/jacm/Papadimitriou79b", "...", "journals/jacm/SilberschatzK80", "conf/focs/StearnsLR76", "..."],
+	"cite": [
+		"journals/tse/BernsteinRGP78",
+		"journals/csur/CoffmanES71",
+		"journals/cacm/EswarranGLT76",
+		"...",
+		"conf/ac/Gray78",
+		"journals/tods/KungL80",
+		"...",
+		"...",
+		"...",
+		"journals/jacm/Papadimitriou79b",
+		"...",
+		"journals/jacm/SilberschatzK80",
+		"conf/focs/StearnsLR76",
+		"..."
+	],
 	"crossref": "conf/sigmod/79",
 	"dblpkey": "conf/sigmod/KungP79",
 	"doi": "10.1145/582095.582114",
 	"ee": "http://doi.acm.org/10.1145/582095.582114",
 	"pages": "116-126",
 	"publisher": "ACM",
-	"stemmed": ["an", "optim", "theori", "of", "concurr", "control", "for", "databas"],
-	"tag": ["concurrent", "database"],
+	"stemmed": [
+		"an",
+		"optim",
+		"theori",
+		"of",
+		"concurr",
+		"control",
+		"for",
+		"databas"
+	],
+	"tag": [
+		"concurrent",
+		"database"
+	],
 	"title": "An Optimality Theory of Concurrency Control for Databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

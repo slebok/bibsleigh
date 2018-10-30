@@ -1,14 +1,35 @@
 {
-	"author": ["Gang Wu", "Edward Y. Chang", "Yen-Kuang Chen", "Christopher J. Hughes"],
-	"booktitle": "KDD",
+	"author": [
+		"Gang Wu",
+		"Edward Y. Chang",
+		"Yen-Kuang Chen",
+		"Christopher J. Hughes"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/WuCCH06",
 	"doi": "10.1145/1150402.1150500",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150500",
 	"pages": "760-766",
 	"publisher": "ACM",
-	"stemmed": ["increment", "approxim", "matrix", "factor", "for", "speed", "up", "support", "vector", "machin"],
-	"tag": ["approximate", "incremental", "matrix"],
+	"stemmed": [
+		"increment",
+		"approxim",
+		"matrix",
+		"factor",
+		"for",
+		"speed",
+		"up",
+		"support",
+		"vector",
+		"machin"
+	],
+	"tag": [
+		"approximate",
+		"incremental",
+		"matrix"
+	],
 	"title": "Incremental approximate matrix factorization for speeding up support vector machines",
 	"type": "inproceedings",
 	"venue": "KDD",

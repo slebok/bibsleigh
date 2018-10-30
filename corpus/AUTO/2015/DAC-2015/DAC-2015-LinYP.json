@@ -1,14 +1,33 @@
 {
-	"author": ["Yibo Lin", "Bei Yu", "David Z. Pan"],
-	"booktitle": "DAC",
+	"author": [
+		"Yibo Lin",
+		"Bei Yu",
+		"David Z. Pan"
+	],
+	"booktitle": "Proceedings of the 52nd Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2015",
 	"dblpkey": "conf/dac/LinYP15",
 	"doi": "10.1145/2744769.2744850",
 	"ee": "http://doi.acm.org/10.1145/2744769.2744850",
 	"pages": "71:1-71:6",
 	"publisher": "ACM",
-	"stemmed": ["high", "perform", "dummi", "fill", "insert", "with", "coupl", "and", "uniform", "constraint"],
-	"tag": ["constraints", "performance"],
+	"stemmed": [
+		"high",
+		"perform",
+		"dummi",
+		"fill",
+		"insert",
+		"with",
+		"coupl",
+		"and",
+		"uniform",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"performance"
+	],
 	"title": "High performance dummy fill insertion with coupling and uniformity constraints",
 	"type": "inproceedings",
 	"venue": "DAC",

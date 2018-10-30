@@ -1,6 +1,10 @@
 {
-	"author": ["Ana R. Cavalli", "Luis Fariñas del Cerro"],
-	"booktitle": "CADE",
+	"author": [
+		"Ana R. Cavalli",
+		"Luis Fariñas del Cerro"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1984",
 	"dblpkey": "conf/cade/CavalliC84",
 	"doi": "10.1007/BFb0047117",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "decis", "method", "for", "linear", "tempor", "logic"],
-	"tag": ["linear", "logic"],
+	"stemmed": [
+		"a",
+		"decis",
+		"method",
+		"for",
+		"linear",
+		"tempor",
+		"logic"
+	],
+	"tag": [
+		"linear",
+		"logic"
+	],
 	"title": "A Decision Method for Linear Temporal Logic",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 170,
+	"volume": "170",
 	"year": 1984
 }

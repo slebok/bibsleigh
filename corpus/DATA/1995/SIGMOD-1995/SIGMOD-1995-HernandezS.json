@@ -1,16 +1,47 @@
 {
-	"author": ["Mauricio A. Hernández", "Salvatore J. Stolfo"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Mauricio A. Hernández",
+		"Salvatore J. Stolfo"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD95/P127.PDF",
-	"cite": ["conf/dpds/AgrawalJ88", "journals/cacm/Bickel87", "journals/tods/BittonD83", "conf/pdis/DewanHMS94", "conf/vldb/DeWittNS91", "...", "...", "journals/siamam/Graham69", "...", "journals/sigmod/Kent91", "journals/csur/Kukich92", "...", "conf/sigmod/NybergBCGL94", "conf/icde/WongM89"],
+	"cite": [
+		"conf/dpds/AgrawalJ88",
+		"journals/cacm/Bickel87",
+		"journals/tods/BittonD83",
+		"conf/pdis/DewanHMS94",
+		"conf/vldb/DeWittNS91",
+		"...",
+		"...",
+		"journals/siamam/Graham69",
+		"...",
+		"journals/sigmod/Kent91",
+		"journals/csur/Kukich92",
+		"...",
+		"conf/sigmod/NybergBCGL94",
+		"conf/icde/WongM89"
+	],
 	"crossref": "conf/sigmod/95",
 	"dblpkey": "conf/sigmod/HernandezS95",
 	"doi": "10.1145/223784.223807",
 	"ee": "http://doi.acm.org/10.1145/223784.223807",
 	"pages": "127-138",
 	"publisher": "ACM Press",
-	"stemmed": ["the", "merg", "purg", "problem", "for", "larg", "databas"],
-	"tag": ["database", "problem", "scalability"],
+	"stemmed": [
+		"the",
+		"merg",
+		"purg",
+		"problem",
+		"for",
+		"larg",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"problem",
+		"scalability"
+	],
 	"title": "The Merge/Purge Problem for Large Databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

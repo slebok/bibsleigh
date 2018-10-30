@@ -1,6 +1,12 @@
 {
-	"author": ["Emanuele De Angelis", "Fabio Fioravanti", "Alberto Pettorossi", "Maurizio Proietti"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Emanuele De Angelis",
+		"Fabio Fioravanti",
+		"Alberto Pettorossi",
+		"Maurizio Proietti"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2014",
 	"dblpkey": "conf/vmcai/AngelisFPP14",
 	"doi": "10.1007/978-3-642-54013-4_11",
@@ -10,11 +16,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["verifi", "array", "program", "by", "transform", "verif", "condit"],
-	"tag": ["array", "source code", "verification"],
+	"stemmed": [
+		"verifi",
+		"array",
+		"program",
+		"by",
+		"transform",
+		"verif",
+		"condit"
+	],
+	"tag": [
+		"array",
+		"source code",
+		"verification"
+	],
 	"title": "Verifying Array Programs by Transforming Verification Conditions",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 8318,
+	"volume": "8318",
 	"year": 2014
 }

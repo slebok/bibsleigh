@@ -1,6 +1,11 @@
 {
-	"author": ["Vera Zaychik Moffitt", "Julia Stoyanovich", "Serge Abiteboul", "Gerome Miklau"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Vera Zaychik Moffitt",
+		"Julia Stoyanovich",
+		"Serge Abiteboul",
+		"Gerome Miklau"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/MoffittSAM15",
@@ -8,8 +13,18 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2749433",
 	"pages": "197-211",
 	"publisher": "ACM",
-	"stemmed": ["collabor", "access", "control", "in", "webdam", "log"],
-	"tag": ["collaboration", "data access"],
+	"stemmed": [
+		"collabor",
+		"access",
+		"control",
+		"in",
+		"webdam",
+		"log"
+	],
+	"tag": [
+		"collaboration",
+		"data access"
+	],
 	"title": "Collaborative Access Control in WebdamLog",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

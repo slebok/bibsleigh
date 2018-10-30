@@ -1,14 +1,32 @@
 {
-	"author": ["Richard Chow", "Philippe Golle", "Jessica Staddon"],
-	"booktitle": "KDD",
+	"author": [
+		"Richard Chow",
+		"Philippe Golle",
+		"Jessica Staddon"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/ChowGS08",
 	"doi": "10.1145/1401890.1401997",
 	"ee": "http://doi.acm.org/10.1145/1401890.1401997",
 	"pages": "893-901",
 	"publisher": "ACM",
-	"stemmed": ["detect", "privaci", "leak", "use", "corpus", "base", "associ", "rule"],
-	"tag": ["detection", "privacy", "using"],
+	"stemmed": [
+		"detect",
+		"privaci",
+		"leak",
+		"use",
+		"corpus",
+		"base",
+		"associ",
+		"rule"
+	],
+	"tag": [
+		"detection",
+		"privacy",
+		"using"
+	],
 	"title": "Detecting privacy leaks using corpus-based association rules",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,14 +1,37 @@
 {
-	"author": ["Michael Benedikt", "Christof Löding", "Jan Van den Bussche", "Thomas Wilke"],
-	"booktitle": "PODS",
+	"author": [
+		"Michael Benedikt",
+		"Christof Löding",
+		"Jan Van den Bussche",
+		"Thomas Wilke"
+	],
+	"booktitle": "Proceedings of the 23rd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2004",
 	"dblpkey": "conf/pods/BenediktLBW04",
 	"doi": "10.1145/1055558.1055575",
-	"ee": ["http://doi.acm.org/10.1145/1055558.1055575", "http://www.acm.org/sigmod/pods/proc04/pdf/P-11.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1055558.1055575",
+		"http://www.acm.org/sigmod/pods/proc04/pdf/P-11.pdf"
+	],
 	"pages": "107-114",
 	"publisher": "ACM",
-	"stemmed": ["a", "character", "of", "first", "order", "topolog", "properti", "of", "planar", "spatial", "data"],
-	"tag": ["first-order"],
+	"stemmed": [
+		"a",
+		"character",
+		"of",
+		"first",
+		"order",
+		"topolog",
+		"properti",
+		"of",
+		"planar",
+		"spatial",
+		"data"
+	],
+	"tag": [
+		"first-order"
+	],
 	"title": "A Characterization of First-Order Topological Properties of Planar Spatial Data",
 	"type": "inproceedings",
 	"venue": "PODS",

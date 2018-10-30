@@ -1,6 +1,11 @@
 {
-	"author": ["David S. Doermann", "Huiping Li", "Omid E. Kia"],
-	"booktitle": "ICDAR",
+	"author": [
+		"David S. Doermann",
+		"Huiping Li",
+		"Omid E. Kia"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/1997",
 	"dblpkey": "conf/icdar/DoermannLK97",
 	"doi": "10.1109/ICDAR.1997.619863",
@@ -8,8 +13,22 @@
 	"pages": "314-318",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["the", "detect", "of", "duplic", "in", "document", "imag", "databas"],
-	"tag": ["database", "detection", "documentation", "image"],
+	"stemmed": [
+		"the",
+		"detect",
+		"of",
+		"duplic",
+		"in",
+		"document",
+		"imag",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"detection",
+		"documentation",
+		"image"
+	],
 	"title": "The Detection of Duplicates in Document Image Databases",
 	"type": "inproceedings",
 	"venue": "ICDAR",

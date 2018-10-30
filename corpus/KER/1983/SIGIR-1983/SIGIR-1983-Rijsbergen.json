@@ -1,6 +1,7 @@
 {
 	"author": "C. J. van Rijsbergen",
 	"booktitle": "Proceedings of the Sixth Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1983/P101.pdf",
 	"crossref": "conf/sigir/83",
 	"dblpkey": "conf/sigir/Rijsbergen83",
@@ -8,7 +9,12 @@
 	"ee": "http://doi.acm.org/10.1145/511793.511807",
 	"pages": "101-104",
 	"publisher": "ACM",
-	"stemmed": ["a", "discrimin", "gain", "hypothesi"],
+	"stemmed": [
+		"a",
+		"discrimin",
+		"gain",
+		"hypothesi"
+	],
 	"title": "A Discrimination Gain Hypothesis",
 	"type": "inproceedings",
 	"venue": "SIGIR",

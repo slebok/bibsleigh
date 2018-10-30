@@ -1,6 +1,11 @@
 {
-	"author": ["Paraic Sheridan", "Martin Wechsler", "Peter Schäuble"],
+	"author": [
+		"Paraic Sheridan",
+		"Martin Wechsler",
+		"Peter Schäuble"
+	],
 	"booktitle": "Proceedings of the 20th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1997/P099.pdf",
 	"crossref": "conf/sigir/97",
 	"dblpkey": "conf/sigir/SheridanWS97",
@@ -8,8 +13,21 @@
 	"ee": "http://doi.acm.org/10.1145/258525.258544",
 	"pages": "99-108",
 	"publisher": "ACM",
-	"stemmed": ["cross", "languag", "speech", "retriev", "establish", "a", "baselin", "perform"],
-	"tag": ["performance", "retrieval", "speech"],
+	"stemmed": [
+		"cross",
+		"languag",
+		"speech",
+		"retriev",
+		"establish",
+		"a",
+		"baselin",
+		"perform"
+	],
+	"tag": [
+		"performance",
+		"retrieval",
+		"speech"
+	],
 	"title": "Cross Language Speech Retrieval: Establishing a Baseline Performance",
 	"type": "inproceedings",
 	"venue": "SIGIR",

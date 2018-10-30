@@ -1,14 +1,37 @@
 {
-	"author": ["Christina M. Patrick", "Seung Woo Son", "Mahmut T. Kandemir"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Christina M. Patrick",
+		"Seung Woo Son",
+		"Mahmut T. Kandemir"
+	],
+	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/PatrickSK08",
 	"doi": "10.1145/1345206.1345254",
 	"ee": "http://doi.acm.org/10.1145/1345206.1345254",
 	"pages": "277-278",
 	"publisher": "ACM",
-	"stemmed": ["enhanc", "the", "perform", "of", "mpi", "io", "applic", "by", "overlap", "i", "o", "comput", "and", "communic"],
-	"tag": ["communication", "performance"],
+	"stemmed": [
+		"enhanc",
+		"the",
+		"perform",
+		"of",
+		"mpi",
+		"io",
+		"applic",
+		"by",
+		"overlap",
+		"i",
+		"o",
+		"comput",
+		"and",
+		"communic"
+	],
+	"tag": [
+		"communication",
+		"performance"
+	],
 	"title": "Enhancing the performance of MPI-IO applications by overlapping I/O, computation and communication",
 	"type": "inproceedings",
 	"venue": "PPoPP",

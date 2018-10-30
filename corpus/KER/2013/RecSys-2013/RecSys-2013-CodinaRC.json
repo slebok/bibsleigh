@@ -1,14 +1,30 @@
 {
-	"author": ["Victor Codina", "Francesco Ricci", "Luigi Ceccaroni"],
-	"booktitle": "RecSys",
+	"author": [
+		"Victor Codina",
+		"Francesco Ricci",
+		"Luigi Ceccaroni"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2013",
 	"dblpkey": "conf/recsys/CodinaRC13",
 	"doi": "10.1145/2507157.2507218",
 	"ee": "http://doi.acm.org/10.1145/2507157.2507218",
 	"pages": "363-366",
 	"publisher": "ACM",
-	"stemmed": ["local", "context", "model", "with", "semant", "pre", "filter"],
-	"tag": ["modelling", "semantics"],
+	"stemmed": [
+		"local",
+		"context",
+		"model",
+		"with",
+		"semant",
+		"pre",
+		"filter"
+	],
+	"tag": [
+		"modelling",
+		"semantics"
+	],
 	"title": "Local context modeling with semantic pre-filtering",
 	"type": "inproceedings",
 	"venue": "RecSys",

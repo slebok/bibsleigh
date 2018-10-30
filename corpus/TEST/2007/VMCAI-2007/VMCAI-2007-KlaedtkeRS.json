@@ -1,6 +1,11 @@
 {
-	"author": ["Felix Klaedtke", "Stefan Ratschan", "Zhikun She"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Felix Klaedtke",
+		"Stefan Ratschan",
+		"Zhikun She"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2007",
 	"dblpkey": "conf/vmcai/KlaedtkeRS07",
 	"doi": "10.1007/978-3-540-69738-1_11",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["languag", "base", "abstract", "refin", "for", "hybrid", "system", "verif"],
-	"tag": ["abstraction", "hybrid", "refinement", "verification"],
+	"stemmed": [
+		"languag",
+		"base",
+		"abstract",
+		"refin",
+		"for",
+		"hybrid",
+		"system",
+		"verif"
+	],
+	"tag": [
+		"abstraction",
+		"hybrid",
+		"refinement",
+		"verification"
+	],
 	"title": "Language-Based Abstraction Refinement for Hybrid System Verification",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 4349,
+	"volume": "4349",
 	"year": 2007
 }

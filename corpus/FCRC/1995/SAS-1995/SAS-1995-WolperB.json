@@ -1,6 +1,10 @@
 {
-	"author": ["Pierre Wolper", "Bernard Boigelot"],
+	"author": [
+		"Pierre Wolper",
+		"Bernard Boigelot"
+	],
 	"booktitle": "Proceedings of the Second International Static Analysis Symposium",
+	"booktitleshort": "SAS",
 	"crossref": "conf/sas/95",
 	"dblpkey": "conf/sas/WolperB95",
 	"doi": "10.1007/3-540-60360-3_30",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "automata", "theoret", "approach", "to", "presburg", "arithmet", "constraint", "extend", "abstract"],
-	"tag": ["approach", "constraints"],
+	"stemmed": [
+		"an",
+		"automata",
+		"theoret",
+		"approach",
+		"to",
+		"presburg",
+		"arithmet",
+		"constraint",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"approach",
+		"constraints"
+	],
 	"title": "An Automata-Theoretic Approach to Presburger Arithmetic Constraints (Extended Abstract)",
 	"type": "inproceedings",
 	"venue": "SAS",
-	"volume": 983,
+	"volume": "983",
 	"year": 1995
 }

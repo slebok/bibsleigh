@@ -1,13 +1,29 @@
 {
-	"acmid": 1251247,
-	"author": ["Darrell C. Anderson", "Jeffrey S. Chase", "Amin Vahdat"],
-	"booktitle": "OSDI",
+	"acmid": "1251247",
+	"author": [
+		"Darrell C. Anderson",
+		"Jeffrey S. Chase",
+		"Amin Vahdat"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2000",
 	"dblpkey": "conf/osdi/AndersonCV00",
 	"pages": "259-272",
 	"publisher": "USENIX Association",
-	"stemmed": ["interpos", "request", "rout", "for", "scalabl", "network", "storag"],
-	"tag": ["network", "scalability"],
+	"stemmed": [
+		"interpos",
+		"request",
+		"rout",
+		"for",
+		"scalabl",
+		"network",
+		"storag"
+	],
+	"tag": [
+		"network",
+		"scalability"
+	],
 	"title": "Interposed Request Routing for Scalable Network Storage",
 	"type": "inproceedings",
 	"venue": "OSDI",

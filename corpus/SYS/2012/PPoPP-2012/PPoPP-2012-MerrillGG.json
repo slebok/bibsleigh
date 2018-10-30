@@ -1,14 +1,29 @@
 {
-	"author": ["Duane Merrill", "Michael Garland", "Andrew S. Grimshaw"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Duane Merrill",
+		"Michael Garland",
+		"Andrew S. Grimshaw"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/MerrillGG12",
 	"doi": "10.1145/2145816.2145832",
 	"ee": "http://doi.acm.org/10.1145/2145816.2145832",
 	"pages": "117-128",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "gpu", "graph", "travers"],
-	"tag": ["gpu", "graph", "scalability", "traversal"],
+	"stemmed": [
+		"scalabl",
+		"gpu",
+		"graph",
+		"travers"
+	],
+	"tag": [
+		"gpu",
+		"graph",
+		"scalability",
+		"traversal"
+	],
 	"title": "Scalable GPU graph traversal",
 	"type": "inproceedings",
 	"venue": "PPoPP",

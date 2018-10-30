@@ -1,14 +1,27 @@
 {
-	"author": ["Stergios Stergiou", "Kostas Tsioutsiouliklis"],
-	"booktitle": "KDD",
+	"author": [
+		"Stergios Stergiou",
+		"Kostas Tsioutsiouliklis"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/StergiouT15",
 	"doi": "10.1145/2783258.2783315",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783315",
 	"pages": "1125-1133",
 	"publisher": "ACM",
-	"stemmed": ["set", "cover", "at", "web", "scale"],
-	"tag": ["set", "web"],
+	"stemmed": [
+		"set",
+		"cover",
+		"at",
+		"web",
+		"scale"
+	],
+	"tag": [
+		"set",
+		"web"
+	],
 	"title": "Set Cover at Web Scale",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,13 +1,25 @@
 {
 	"author": "Makoto Murata",
-	"booktitle": "PODS",
+	"booktitle": "Proceedings of the 20th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2001",
 	"dblpkey": "conf/pods/Murata01",
 	"doi": "10.1145/375551.375569",
-	"ee": ["http://doi.acm.org/10.1145/375551.375569", "http://www.acm.org/sigs/sigmod/pods/proc01/online/p61.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/375551.375569",
+		"http://www.acm.org/sigs/sigmod/pods/proc01/online/p61.pdf"
+	],
 	"publisher": "ACM",
-	"stemmed": ["extend", "path", "express", "for", "xml"],
-	"tag": ["xml"],
+	"stemmed": [
+		"extend",
+		"path",
+		"express",
+		"for",
+		"xml"
+	],
+	"tag": [
+		"xml"
+	],
 	"title": "Extended Path Expressions for XML",
 	"type": "inproceedings",
 	"venue": "PODS",

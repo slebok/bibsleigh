@@ -1,14 +1,31 @@
 {
-	"author": ["Markus Lorenz", "Lars Wehmeyer", "Thorsten Dräger"],
-	"booktitle": "LCTES-SCOPES",
+	"author": [
+		"Markus Lorenz",
+		"Lars Wehmeyer",
+		"Thorsten Dräger"
+	],
+	"booktitle": "Proceedings of the Joint Conference on Languages, Compilers, and Tools for Embedded Systems / Software and Compilers for Embedded Systems",
+	"booktitleshort": "LCTES/SCOPES",
 	"crossref": "conf/lctrts/2002",
 	"dblpkey": "conf/lctrts/LorenzWD02",
 	"doi": "10.1145/513829.513847",
 	"ee": "http://doi.acm.org/10.1145/513829.513847",
 	"pages": "94-101",
 	"publisher": "ACM",
-	"stemmed": ["energi", "awar", "compil", "for", "dsps", "with", "simd", "instruct"],
-	"tag": ["compilation", "energy"],
+	"stemmed": [
+		"energi",
+		"awar",
+		"compil",
+		"for",
+		"dsps",
+		"with",
+		"simd",
+		"instruct"
+	],
+	"tag": [
+		"compilation",
+		"energy"
+	],
 	"title": "Energy aware compilation for DSPs with SIMD instructions",
 	"type": "inproceedings",
 	"venue": "LCTES",

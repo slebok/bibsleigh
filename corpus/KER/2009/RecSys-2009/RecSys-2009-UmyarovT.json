@@ -1,14 +1,38 @@
 {
-	"author": ["Akhmed Umyarov", "Alexander Tuzhilin"],
-	"booktitle": "RecSys",
+	"author": [
+		"Akhmed Umyarov",
+		"Alexander Tuzhilin"
+	],
+	"booktitle": "Proceedings of the Third Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2009",
 	"dblpkey": "conf/recsys/UmyarovT09",
 	"doi": "10.1145/1639714.1639722",
 	"ee": "http://doi.acm.org/10.1145/1639714.1639722",
 	"pages": "37-44",
 	"publisher": "ACM",
-	"stemmed": ["improv", "rate", "estim", "in", "recommend", "system", "use", "aggreg", "and", "varianc", "base", "hierarch", "model"],
-	"tag": ["estimation", "modelling", "rating", "recommendation", "using"],
+	"stemmed": [
+		"improv",
+		"rate",
+		"estim",
+		"in",
+		"recommend",
+		"system",
+		"use",
+		"aggreg",
+		"and",
+		"varianc",
+		"base",
+		"hierarch",
+		"model"
+	],
+	"tag": [
+		"estimation",
+		"modelling",
+		"rating",
+		"recommendation",
+		"using"
+	],
 	"title": "Improving rating estimation in recommender systems using aggregation- and variance-based hierarchical models",
 	"type": "inproceedings",
 	"venue": "RecSys",

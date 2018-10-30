@@ -1,6 +1,9 @@
 {
-	"author": ["Liang Jeff Chen", "Yannis Papakonstantinou"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Liang Jeff Chen",
+		"Yannis Papakonstantinou"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/ChenP11",
@@ -8,8 +11,19 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989403",
 	"pages": "757-768",
 	"publisher": "ACM",
-	"stemmed": ["context", "sensit", "rank", "for", "document", "retriev"],
-	"tag": ["documentation", "ranking", "retrieval"],
+	"stemmed": [
+		"context",
+		"sensit",
+		"rank",
+		"for",
+		"document",
+		"retriev"
+	],
+	"tag": [
+		"documentation",
+		"ranking",
+		"retrieval"
+	],
 	"title": "Context-sensitive ranking for document retrieval",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

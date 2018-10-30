@@ -1,6 +1,10 @@
 {
-	"author": ["Xiaocheng Hu", "Yufei Tao", "Chin-Wan Chung"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Xiaocheng Hu",
+		"Yufei Tao",
+		"Chin-Wan Chung"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/HuTC13",
@@ -8,8 +12,14 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2463704",
 	"pages": "325-336",
 	"publisher": "ACM",
-	"stemmed": ["massiv", "graph", "triangul"],
-	"tag": ["graph"],
+	"stemmed": [
+		"massiv",
+		"graph",
+		"triangul"
+	],
+	"tag": [
+		"graph"
+	],
 	"title": "Massive graph triangulation",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

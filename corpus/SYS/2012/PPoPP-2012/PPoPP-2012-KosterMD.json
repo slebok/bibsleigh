@@ -1,13 +1,25 @@
 {
-	"author": ["Joeri De Koster", "Stefan Marr", "Theo D'Hondt"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Joeri De Koster",
+		"Stefan Marr",
+		"Theo D'Hondt"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/KosterMD12",
 	"doi": "10.1145/2145816.2145873",
 	"ee": "http://doi.acm.org/10.1145/2145816.2145873",
 	"pages": "317-318",
 	"publisher": "ACM",
-	"stemmed": ["synchron", "view", "for", "event", "loop", "actor"],
+	"stemmed": [
+		"synchron",
+		"view",
+		"for",
+		"event",
+		"loop",
+		"actor"
+	],
 	"title": "Synchronization views for event-loop actors",
 	"type": "inproceedings",
 	"venue": "PPoPP",

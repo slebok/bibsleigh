@@ -1,15 +1,35 @@
 {
-	"author": ["Weifeng Zhang", "Dean M. Tullsen", "Brad Calder"],
-	"booktitle": "HPCA",
+	"author": [
+		"Weifeng Zhang",
+		"Dean M. Tullsen",
+		"Brad Calder"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2007",
 	"dblpkey": "conf/hpca/ZhangTC07",
 	"doi": "10.1109/HPCA.2007.346187",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2007.346187", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2007.346187"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2007.346187",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2007.346187"
+	],
 	"pages": "85-95",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["acceler", "and", "adapt", "precomput", "thread", "for", "effcient", "prefetch"],
-	"tag": ["adaptation", "thread"],
+	"stemmed": [
+		"acceler",
+		"and",
+		"adapt",
+		"precomput",
+		"thread",
+		"for",
+		"effcient",
+		"prefetch"
+	],
+	"tag": [
+		"adaptation",
+		"thread"
+	],
 	"title": "Accelerating and Adapting Precomputation Threads for Effcient Prefetching",
 	"type": "inproceedings",
 	"venue": "HPCA",

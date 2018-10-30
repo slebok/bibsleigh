@@ -1,14 +1,34 @@
 {
-	"author": ["Peilin Zhao", "Steven C. H. Hoi"],
-	"booktitle": "KDD",
+	"author": [
+		"Peilin Zhao",
+		"Steven C. H. Hoi"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/ZhaoH13",
 	"doi": "10.1145/2487575.2487647",
 	"ee": "http://doi.acm.org/10.1145/2487575.2487647",
 	"pages": "919-927",
 	"publisher": "ACM",
-	"stemmed": ["cost", "sensit", "onlin", "activ", "learn", "with", "applic", "to", "malici", "url", "detect"],
-	"tag": ["detection", "learning", "online"],
+	"stemmed": [
+		"cost",
+		"sensit",
+		"onlin",
+		"activ",
+		"learn",
+		"with",
+		"applic",
+		"to",
+		"malici",
+		"url",
+		"detect"
+	],
+	"tag": [
+		"detection",
+		"learning",
+		"online"
+	],
 	"title": "Cost-sensitive online active learning with application to malicious URL detection",
 	"type": "inproceedings",
 	"venue": "KDD",

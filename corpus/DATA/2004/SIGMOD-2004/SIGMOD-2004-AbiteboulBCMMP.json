@@ -1,6 +1,13 @@
 {
-	"author": ["Serge Abiteboul", "Omar Benjelloun", "Bogdan Cautis", "Ioana Manolescu", "Tova Milo", "Nicoleta Preda"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Serge Abiteboul",
+		"Omar Benjelloun",
+		"Bogdan Cautis",
+		"Ioana Manolescu",
+		"Tova Milo",
+		"Nicoleta Preda"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/AbiteboulBCMMP04",
@@ -8,8 +15,20 @@
 	"ee": "http://doi.acm.org/10.1145/1007568.1007596",
 	"pages": "227-238",
 	"publisher": "ACM",
-	"stemmed": ["lazi", "queri", "evalu", "for", "activ", "xml"],
-	"tag": ["evaluation", "lazy evaluation", "query", "xml"],
+	"stemmed": [
+		"lazi",
+		"queri",
+		"evalu",
+		"for",
+		"activ",
+		"xml"
+	],
+	"tag": [
+		"evaluation",
+		"lazy evaluation",
+		"query",
+		"xml"
+	],
 	"title": "Lazy Query Evaluation for Active XML",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

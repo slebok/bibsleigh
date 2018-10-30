@@ -1,6 +1,11 @@
 {
-	"author": ["Alvin Cheung", "Owen Arden", "Samuel Madden", "Andrew C. Myers"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Alvin Cheung",
+		"Owen Arden",
+		"Samuel Madden",
+		"Andrew C. Myers"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/CheungAMM13",
@@ -8,8 +13,17 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465265",
 	"pages": "969-972",
 	"publisher": "ACM",
-	"stemmed": ["speed", "up", "databas", "applic", "with", "pyxi"],
-	"tag": ["database"],
+	"stemmed": [
+		"speed",
+		"up",
+		"databas",
+		"applic",
+		"with",
+		"pyxi"
+	],
+	"tag": [
+		"database"
+	],
 	"title": "Speeding up database applications with Pyxis",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

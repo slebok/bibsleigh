@@ -1,14 +1,34 @@
 {
-	"author": ["Michael Greenwald", "Sanjeev Khanna"],
-	"booktitle": "PODS",
+	"author": [
+		"Michael Greenwald",
+		"Sanjeev Khanna"
+	],
+	"booktitle": "Proceedings of the 23rd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2004",
 	"dblpkey": "conf/pods/GreenwaldK04",
 	"doi": "10.1145/1055558.1055597",
-	"ee": ["http://doi.acm.org/10.1145/1055558.1055597", "http://www.acm.org/sigmod/pods/proc04/pdf/P-28.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1055558.1055597",
+		"http://www.acm.org/sigmod/pods/proc04/pdf/P-28.pdf"
+	],
 	"pages": "275-285",
 	"publisher": "ACM",
-	"stemmed": ["power", "conserv", "comput", "of", "order", "statist", "over", "sensor", "network"],
-	"tag": ["network", "statistics"],
+	"stemmed": [
+		"power",
+		"conserv",
+		"comput",
+		"of",
+		"order",
+		"statist",
+		"over",
+		"sensor",
+		"network"
+	],
+	"tag": [
+		"network",
+		"statistics"
+	],
 	"title": "Power-Conserving Computation of Order-Statistics over Sensor Networks",
 	"type": "inproceedings",
 	"venue": "PODS",

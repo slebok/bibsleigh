@@ -1,14 +1,33 @@
 {
-	"author": ["Deepak Agarwal", "Andrew McGregor", "Jeff M. Phillips", "Suresh Venkatasubramanian", "Zhengyuan Zhu"],
-	"booktitle": "KDD",
+	"author": [
+		"Deepak Agarwal",
+		"Andrew McGregor",
+		"Jeff M. Phillips",
+		"Suresh Venkatasubramanian",
+		"Zhengyuan Zhu"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/AgarwalMPVZ06",
 	"doi": "10.1145/1150402.1150410",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150410",
 	"pages": "24-33",
 	"publisher": "ACM",
-	"stemmed": ["spatial", "scan", "statist", "approxim", "and", "perform", "studi"],
-	"tag": ["approximate", "performance", "statistics"],
+	"stemmed": [
+		"spatial",
+		"scan",
+		"statist",
+		"approxim",
+		"and",
+		"perform",
+		"studi"
+	],
+	"tag": [
+		"approximate",
+		"performance",
+		"statistics"
+	],
 	"title": "Spatial scan statistics: approximations and performance study",
 	"type": "inproceedings",
 	"venue": "KDD",

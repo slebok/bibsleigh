@@ -1,16 +1,54 @@
 {
-	"author": ["Serge Abiteboul", "Nicole Bidoit"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS84/P191.PDF", "journals/anthology/dvd1:text/1-3/PODS84/P191.PDF"],
-	"cite": ["...", "...", "conf/vldb/BancilhonRS82", "journals/cacm/Codd70", "journals/tods/Delobel78", "journals/tods/FaginMU82", "conf/pods/HullY82", "...", "conf/pods/JaeschkeS82", "...", "books/cs/Maier83", "conf/sigmod/MaierW82", "conf/vldb/Makinouchi77", "...", "conf/vldb/SchekP82", "books/cs/Ullman82", "conf/vldb/Verroust83"],
+	"author": [
+		"Serge Abiteboul",
+		"Nicole Bidoit"
+	],
+	"booktitle": "Proceedings of the Third Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS84/P191.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS84/P191.PDF"
+	],
+	"cite": [
+		"...",
+		"...",
+		"conf/vldb/BancilhonRS82",
+		"journals/cacm/Codd70",
+		"journals/tods/Delobel78",
+		"journals/tods/FaginMU82",
+		"conf/pods/HullY82",
+		"...",
+		"conf/pods/JaeschkeS82",
+		"...",
+		"books/cs/Maier83",
+		"conf/sigmod/MaierW82",
+		"conf/vldb/Makinouchi77",
+		"...",
+		"conf/vldb/SchekP82",
+		"books/cs/Ullman82",
+		"conf/vldb/Verroust83"
+	],
 	"crossref": "conf/pods/84",
 	"dblpkey": "conf/pods/AbiteboulB84",
 	"doi": "10.1145/588011.588038",
 	"ee": "http://doi.acm.org/10.1145/588011.588038",
 	"pages": "191-200",
 	"publisher": "ACM",
-	"stemmed": ["non", "first", "normal", "form", "relat", "to", "repres", "hierarch", "organ", "data"],
-	"tag": ["normalisation"],
+	"stemmed": [
+		"non",
+		"first",
+		"normal",
+		"form",
+		"relat",
+		"to",
+		"repres",
+		"hierarch",
+		"organ",
+		"data"
+	],
+	"tag": [
+		"normalisation"
+	],
 	"title": "Non First Normal Form Relations to Represent Hierarchical Organized Data",
 	"type": "inproceedings",
 	"venue": "PODS",

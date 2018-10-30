@@ -1,14 +1,33 @@
 {
-	"author": ["Vasileios Porpodas", "Marcelo Cintra"],
-	"booktitle": "LCTES",
+	"author": [
+		"Vasileios Porpodas",
+		"Marcelo Cintra"
+	],
+	"booktitle": "Proceedings of the 14th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2013",
 	"dblpkey": "conf/lctrts/PorpodasC13",
 	"doi": "10.1145/2465554.2465565",
 	"ee": "http://doi.acm.org/10.1145/2465554.2465565",
 	"pages": "45-54",
 	"publisher": "ACM",
-	"stemmed": ["luca", "latenc", "adapt", "unifi", "cluster", "assign", "and", "instruct", "schedul"],
-	"tag": ["adaptation", "clustering", "named", "scheduling"],
+	"stemmed": [
+		"luca",
+		"latenc",
+		"adapt",
+		"unifi",
+		"cluster",
+		"assign",
+		"and",
+		"instruct",
+		"schedul"
+	],
+	"tag": [
+		"adaptation",
+		"clustering",
+		"named",
+		"scheduling"
+	],
 	"title": "LUCAS: latency-adaptive unified cluster assignment and instruction scheduling",
 	"type": "inproceedings",
 	"venue": "LCTES",

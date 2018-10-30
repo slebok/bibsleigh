@@ -1,6 +1,10 @@
 {
-	"author": ["Thomas Meilender", "Abdel Belaïd"],
-	"booktitle": "DRR",
+	"author": [
+		"Thomas Meilender",
+		"Abdel Belaïd"
+	],
+	"booktitle": "Proceedings of the 16th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2009",
 	"dblpkey": "conf/drr/MeilenderB09",
 	"doi": "10.1117/12.805646",
@@ -8,11 +12,27 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["segment", "of", "continu", "document", "flow", "by", "a", "modifi", "backward", "forward", "algorithm"],
-	"tag": ["algorithm", "documentation", "segmentation"],
+	"stemmed": [
+		"segment",
+		"of",
+		"continu",
+		"document",
+		"flow",
+		"by",
+		"a",
+		"modifi",
+		"backward",
+		"forward",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"documentation",
+		"segmentation"
+	],
 	"title": "Segmentation of continuous document flow by a modified backward-forward algorithm",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7247,
+	"volume": "7247",
 	"year": 2009
 }

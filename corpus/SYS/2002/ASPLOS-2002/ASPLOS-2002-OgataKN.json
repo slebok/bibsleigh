@@ -1,14 +1,32 @@
 {
-	"author": ["Kazunori Ogata", "Hideaki Komatsu", "Toshio Nakatani"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Kazunori Ogata",
+		"Hideaki Komatsu",
+		"Toshio Nakatani"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2002",
 	"dblpkey": "conf/asplos/OgataKN02",
 	"doi": "10.1145/605397.605404",
 	"ee": "http://doi.acm.org/10.1145/605397.605404",
 	"pages": "58-67",
 	"publisher": "ACM Press",
-	"stemmed": ["bytecod", "fetch", "optim", "for", "a", "java", "interpret"],
-	"tag": ["bytecode", "interpreter", "java", "optimisation"],
+	"stemmed": [
+		"bytecod",
+		"fetch",
+		"optim",
+		"for",
+		"a",
+		"java",
+		"interpret"
+	],
+	"tag": [
+		"bytecode",
+		"interpreter",
+		"java",
+		"optimisation"
+	],
 	"title": "Bytecode fetch optimization for a Java interpreter",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,6 +1,7 @@
 {
 	"author": "Colin Stirling",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 21st International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2007",
 	"dblpkey": "conf/cade/Stirling07",
 	"doi": "10.1007/978-3-540-73595-3_1",
@@ -10,11 +11,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["game", "automata", "and", "match"],
-	"tag": ["automaton", "game studies"],
+	"stemmed": [
+		"game",
+		"automata",
+		"and",
+		"match"
+	],
+	"tag": [
+		"automaton",
+		"game studies"
+	],
 	"title": "Games, Automata and Matching",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 4603,
+	"volume": "4603",
 	"year": 2007
 }

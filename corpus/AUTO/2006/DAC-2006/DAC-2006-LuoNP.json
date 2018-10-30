@@ -1,14 +1,36 @@
 {
-	"author": ["Tao Luo", "David Newmark", "David Z. Pan"],
-	"booktitle": "DAC",
+	"author": [
+		"Tao Luo",
+		"David Newmark",
+		"David Z. Pan"
+	],
+	"booktitle": "Proceedings of the 43rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/LuoNP06",
 	"doi": "10.1145/1146909.1147190",
 	"ee": "http://doi.acm.org/10.1145/1146909.1147190",
 	"pages": "1115-1120",
 	"publisher": "ACM",
-	"stemmed": ["a", "new", "lp", "base", "increment", "time", "driven", "placement", "for", "high", "perform", "design"],
-	"tag": ["design", "incremental", "performance"],
+	"stemmed": [
+		"a",
+		"new",
+		"lp",
+		"base",
+		"increment",
+		"time",
+		"driven",
+		"placement",
+		"for",
+		"high",
+		"perform",
+		"design"
+	],
+	"tag": [
+		"design",
+		"incremental",
+		"performance"
+	],
 	"title": "A new LP based incremental timing driven placement for high performance designs",
 	"type": "inproceedings",
 	"venue": "DAC",

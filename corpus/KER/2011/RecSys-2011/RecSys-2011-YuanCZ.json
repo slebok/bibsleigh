@@ -1,14 +1,34 @@
 {
-	"author": ["Quan Yuan", "Li Chen", "Shiwan Zhao"],
-	"booktitle": "RecSys",
+	"author": [
+		"Quan Yuan",
+		"Li Chen",
+		"Shiwan Zhao"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2011",
 	"dblpkey": "conf/recsys/YuanCZ11",
 	"doi": "10.1145/2043932.2043975",
 	"ee": "http://doi.acm.org/10.1145/2043932.2043975",
 	"pages": "245-252",
 	"publisher": "ACM",
-	"stemmed": ["factor", "vs", "regular", "fuse", "heterogen", "social", "relationship", "in", "top", "n", "recommend"],
-	"tag": ["recommendation", "social"],
+	"stemmed": [
+		"factor",
+		"vs",
+		"regular",
+		"fuse",
+		"heterogen",
+		"social",
+		"relationship",
+		"in",
+		"top",
+		"n",
+		"recommend"
+	],
+	"tag": [
+		"recommendation",
+		"social"
+	],
 	"title": "Factorization vs. regularization: fusing heterogeneous social relationships in top-n recommendation",
 	"type": "inproceedings",
 	"venue": "RecSys",

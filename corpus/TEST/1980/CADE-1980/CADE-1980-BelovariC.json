@@ -1,6 +1,10 @@
 {
-	"author": ["Gábor Belovári", "J. A. Campbell"],
-	"booktitle": "CADE",
+	"author": [
+		"Gábor Belovári",
+		"J. A. Campbell"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1980",
 	"dblpkey": "conf/cade/BelovariC80",
 	"doi": "10.1007/3-540-10009-1_2",
@@ -10,11 +14,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["generat", "contour", "of", "integr", "an", "applic", "of", "prolog", "in", "symbol", "comput"],
-	"tag": ["generative", "integration", "prolog"],
+	"stemmed": [
+		"generat",
+		"contour",
+		"of",
+		"integr",
+		"an",
+		"applic",
+		"of",
+		"prolog",
+		"in",
+		"symbol",
+		"comput"
+	],
+	"tag": [
+		"generative",
+		"integration",
+		"prolog"
+	],
 	"title": "Generating Contours of Integration: An Application of Prolog in Symbolic Computing",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 87,
+	"volume": "87",
 	"year": 1980
 }

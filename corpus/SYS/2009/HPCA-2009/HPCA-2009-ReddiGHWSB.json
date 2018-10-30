@@ -1,6 +1,14 @@
 {
-	"author": ["Vijay Janapa Reddi", "Meeta Sharma Gupta", "Glenn H. Holloway", "Gu-Yeon Wei", "Michael D. Smith", "David M. Brooks"],
-	"booktitle": "HPCA",
+	"author": [
+		"Vijay Janapa Reddi",
+		"Meeta Sharma Gupta",
+		"Glenn H. Holloway",
+		"Gu-Yeon Wei",
+		"Michael D. Smith",
+		"David M. Brooks"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2009",
 	"dblpkey": "conf/hpca/ReddiGHWSB09",
 	"doi": "10.1109/HPCA.2009.4798233",
@@ -8,8 +16,21 @@
 	"pages": "18-29",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["voltag", "emerg", "predict", "use", "signatur", "to", "reduc", "oper", "margin"],
-	"tag": ["predict", "using"],
+	"stemmed": [
+		"voltag",
+		"emerg",
+		"predict",
+		"use",
+		"signatur",
+		"to",
+		"reduc",
+		"oper",
+		"margin"
+	],
+	"tag": [
+		"predict",
+		"using"
+	],
 	"title": "Voltage emergency prediction: Using signatures to reduce operating margins",
 	"type": "inproceedings",
 	"venue": "HPCA",

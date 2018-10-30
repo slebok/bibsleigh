@@ -1,14 +1,37 @@
 {
-	"author": ["Rasoul Karimi", "Christoph Freudenthaler", "Alexandros Nanopoulos", "Lars Schmidt-Thieme"],
-	"booktitle": "RecSys",
+	"author": [
+		"Rasoul Karimi",
+		"Christoph Freudenthaler",
+		"Alexandros Nanopoulos",
+		"Lars Schmidt-Thieme"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2012",
 	"dblpkey": "conf/recsys/KarimiFNS12",
 	"doi": "10.1145/2365952.2366031",
 	"ee": "http://doi.acm.org/10.1145/2365952.2366031",
 	"pages": "317-320",
 	"publisher": "ACM",
-	"stemmed": ["exploit", "the", "characterist", "of", "matrix", "factor", "for", "activ", "learn", "in", "recommend", "system"],
-	"tag": ["learning", "matrix", "recommendation"],
+	"stemmed": [
+		"exploit",
+		"the",
+		"characterist",
+		"of",
+		"matrix",
+		"factor",
+		"for",
+		"activ",
+		"learn",
+		"in",
+		"recommend",
+		"system"
+	],
+	"tag": [
+		"learning",
+		"matrix",
+		"recommendation"
+	],
 	"title": "Exploiting the characteristics of matrix factorization for active learning in recommender systems",
 	"type": "inproceedings",
 	"venue": "RecSys",

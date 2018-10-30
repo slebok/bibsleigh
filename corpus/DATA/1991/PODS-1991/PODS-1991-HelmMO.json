@@ -1,16 +1,52 @@
 {
-	"author": ["Richard Helm", "Kim Marriott", "Martin Odersky"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS91/P181.PDF", "journals/anthology/dvd1:text/1-3/PODS91/P181.PDF"],
-	"cite": ["...", "...", "...", "...", "...", "conf/sigmod/Guttman84", "...", "journals/tse/JosephC88", "journals/tods/NievergeltHS84", "journals/tse/OrensteinM88", "...", "journals/csur/Samet88", "conf/vldb/SellisRF87", "..."],
+	"author": [
+		"Richard Helm",
+		"Kim Marriott",
+		"Martin Odersky"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS91/P181.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS91/P181.PDF"
+	],
+	"cite": [
+		"...",
+		"...",
+		"...",
+		"...",
+		"...",
+		"conf/sigmod/Guttman84",
+		"...",
+		"journals/tse/JosephC88",
+		"journals/tods/NievergeltHS84",
+		"journals/tse/OrensteinM88",
+		"...",
+		"journals/csur/Samet88",
+		"conf/vldb/SellisRF87",
+		"..."
+	],
 	"crossref": "conf/pods/91",
 	"dblpkey": "conf/pods/HelmMO91",
 	"doi": "10.1145/113413.113429",
 	"ee": "http://doi.acm.org/10.1145/113413.113429",
 	"pages": "181-191",
 	"publisher": "ACM Press",
-	"stemmed": ["constraint", "base", "queri", "optim", "for", "spatial", "databas"],
-	"tag": ["constraints", "database", "optimisation", "query"],
+	"stemmed": [
+		"constraint",
+		"base",
+		"queri",
+		"optim",
+		"for",
+		"spatial",
+		"databas"
+	],
+	"tag": [
+		"constraints",
+		"database",
+		"optimisation",
+		"query"
+	],
 	"title": "Constraint-Based Query Optimization for Spatial Databases",
 	"type": "inproceedings",
 	"venue": "PODS",

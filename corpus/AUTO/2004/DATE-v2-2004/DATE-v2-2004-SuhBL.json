@@ -1,6 +1,11 @@
 {
-	"author": ["Taeweon Suh", "Douglas M. Blough", "Hsien-Hsin S. Lee"],
-	"booktitle": "DATE",
+	"author": [
+		"Taeweon Suh",
+		"Douglas M. Blough",
+		"Hsien-Hsin S. Lee"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/SuhBL04",
 	"doi": "10.1109/DATE.2004.1269047",
@@ -8,8 +13,18 @@
 	"pages": "1150-1157",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["support", "cach", "coher", "in", "heterogen", "multiprocessor", "system"],
-	"tag": ["multi"],
+	"stemmed": [
+		"support",
+		"cach",
+		"coher",
+		"in",
+		"heterogen",
+		"multiprocessor",
+		"system"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "Supporting Cache Coherence in Heterogeneous Multiprocessor Systems",
 	"type": "inproceedings",
 	"venue": "DATE",

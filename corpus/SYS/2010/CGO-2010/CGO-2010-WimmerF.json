@@ -1,14 +1,28 @@
 {
-	"author": ["Christian Wimmer", "Michael Franz"],
-	"booktitle": "CGO",
+	"author": [
+		"Christian Wimmer",
+		"Michael Franz"
+	],
+	"booktitle": "Proceedings of the Eighth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2010",
 	"dblpkey": "conf/cgo/WimmerF10",
 	"doi": "10.1145/1772954.1772979",
 	"ee": "http://doi.acm.org/10.1145/1772954.1772979",
 	"pages": "170-179",
 	"publisher": "ACM",
-	"stemmed": ["linear", "scan", "regist", "alloc", "on", "ssa", "form"],
-	"tag": ["linear"],
+	"stemmed": [
+		"linear",
+		"scan",
+		"regist",
+		"alloc",
+		"on",
+		"ssa",
+		"form"
+	],
+	"tag": [
+		"linear"
+	],
 	"title": "Linear scan register allocation on SSA form",
 	"type": "inproceedings",
 	"venue": "CGO",

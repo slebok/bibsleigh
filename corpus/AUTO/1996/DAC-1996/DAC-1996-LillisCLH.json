@@ -1,13 +1,37 @@
 {
-	"author": ["John Lillis", "Chung-Kuan Cheng", "Ting-Ting Y. Lin", "Chin-Yen Ho"],
-	"booktitle": "DAC",
+	"author": [
+		"John Lillis",
+		"Chung-Kuan Cheng",
+		"Ting-Ting Y. Lin",
+		"Chin-Yen Ho"
+	],
+	"booktitle": "Proceedings of the 33rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/LillisCLH96",
 	"doi": "10.1145/240518.240594",
 	"ee": "http://doi.acm.org/10.1145/240518.240594",
 	"pages": "395-400",
 	"publisher": "ACM Press",
-	"stemmed": ["new", "perform", "driven", "rout", "techniqu", "with", "explicit", "area", "delay", "tradeoff", "and", "simultan", "wire", "size"],
-	"tag": ["performance", "trade-off"],
+	"stemmed": [
+		"new",
+		"perform",
+		"driven",
+		"rout",
+		"techniqu",
+		"with",
+		"explicit",
+		"area",
+		"delay",
+		"tradeoff",
+		"and",
+		"simultan",
+		"wire",
+		"size"
+	],
+	"tag": [
+		"performance",
+		"trade-off"
+	],
 	"title": "New Performance Driven Routing Techniques With Explicit Area/Delay Tradeoff and Simultaneous Wire Sizing",
 	"type": "inproceedings",
 	"venue": "DAC",

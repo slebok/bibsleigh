@@ -1,14 +1,35 @@
 {
-	"author": ["Jhih-Rong Gao", "Xiaoqing Xu", "Bei Yu", "David Z. Pan"],
-	"booktitle": "DAC",
+	"author": [
+		"Jhih-Rong Gao",
+		"Xiaoqing Xu",
+		"Bei Yu",
+		"David Z. Pan"
+	],
+	"booktitle": "Proceedings of the 51st Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2014",
 	"dblpkey": "conf/dac/GaoXYP14",
 	"doi": "10.1145/2593069.2593163",
 	"ee": "http://doi.acm.org/10.1145/2593069.2593163",
 	"pages": "52:1-52:6",
 	"publisher": "ACM",
-	"stemmed": ["mosaic", "mask", "optim", "solut", "with", "process", "window", "awar", "invers", "correct"],
-	"tag": ["named", "optimisation", "process"],
+	"stemmed": [
+		"mosaic",
+		"mask",
+		"optim",
+		"solut",
+		"with",
+		"process",
+		"window",
+		"awar",
+		"invers",
+		"correct"
+	],
+	"tag": [
+		"named",
+		"optimisation",
+		"process"
+	],
 	"title": "MOSAIC: Mask Optimizing Solution With Process Window Aware Inverse Correction",
 	"type": "inproceedings",
 	"venue": "DAC",

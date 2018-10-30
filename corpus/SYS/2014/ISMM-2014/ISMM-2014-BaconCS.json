@@ -1,14 +1,37 @@
 {
-	"author": ["David F. Bacon", "Perry Cheng", "Sunil Shukla"],
-	"booktitle": "ISMM",
+	"author": [
+		"David F. Bacon",
+		"Perry Cheng",
+		"Sunil Shukla"
+	],
+	"booktitle": "Proceedings of the 13th International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2014",
 	"dblpkey": "conf/iwmm/BaconCS14",
 	"doi": "10.1145/2602988.2602996",
 	"ee": "http://doi.acm.org/10.1145/2602988.2602996",
 	"pages": "117-127",
 	"publisher": "ACM",
-	"stemmed": ["parallel", "real", "time", "garbag", "collect", "of", "multipl", "heap", "in", "reconfigur", "hardwar"],
-	"tag": ["configuration management", "garbage collection", "hardware", "parallel", "realtime"],
+	"stemmed": [
+		"parallel",
+		"real",
+		"time",
+		"garbag",
+		"collect",
+		"of",
+		"multipl",
+		"heap",
+		"in",
+		"reconfigur",
+		"hardwar"
+	],
+	"tag": [
+		"configuration management",
+		"garbage collection",
+		"hardware",
+		"parallel",
+		"realtime"
+	],
 	"title": "Parallel real-time garbage collection of multiple heaps in reconfigurable hardware",
 	"type": "inproceedings",
 	"venue": "ISMM",

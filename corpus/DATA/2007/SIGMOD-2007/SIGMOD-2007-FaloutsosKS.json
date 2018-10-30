@@ -1,15 +1,37 @@
 {
-	"author": ["Christos Faloutsos", "Tamara G. Kolda", "Jimeng Sun"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Christos Faloutsos",
+		"Tamara G. Kolda",
+		"Jimeng Sun"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/FaloutsosKS07",
 	"doi": "10.1145/1247480.1247647",
 	"ee": "http://doi.acm.org/10.1145/1247480.1247647",
-	"pages": 1174,
+	"pages": "1174",
 	"publisher": "ACM",
-	"stemmed": ["mine", "larg", "graph", "and", "stream", "use", "matrix", "and", "tensor", "tool"],
-	"tag": ["graph", "matrix", "mining", "scalability", "tool support", "using"],
+	"stemmed": [
+		"mine",
+		"larg",
+		"graph",
+		"and",
+		"stream",
+		"use",
+		"matrix",
+		"and",
+		"tensor",
+		"tool"
+	],
+	"tag": [
+		"graph",
+		"matrix",
+		"mining",
+		"scalability",
+		"tool support",
+		"using"
+	],
 	"title": "Mining large graphs and streams using matrix and tensor tools",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

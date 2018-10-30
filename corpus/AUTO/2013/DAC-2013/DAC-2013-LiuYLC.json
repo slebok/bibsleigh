@@ -1,14 +1,34 @@
 {
-	"author": ["Ren-Shuo Liu", "Chia-Lin Yang", "Cheng-Hsuan Li", "Geng-You Chen"],
-	"booktitle": "DAC",
+	"author": [
+		"Ren-Shuo Liu",
+		"Chia-Lin Yang",
+		"Cheng-Hsuan Li",
+		"Geng-You Chen"
+	],
+	"booktitle": "Proceedings of the 50th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2013",
 	"dblpkey": "conf/dac/LiuYLC13",
 	"doi": "10.1145/2463209.2488939",
 	"ee": "http://doi.acm.org/10.1145/2463209.2488939",
 	"pages": "166:1-166:6",
 	"publisher": "ACM",
-	"stemmed": ["dura", "cach", "a", "durabl", "ssd", "cach", "use", "mlc", "nand", "flash"],
-	"tag": ["named", "using"],
+	"stemmed": [
+		"dura",
+		"cach",
+		"a",
+		"durabl",
+		"ssd",
+		"cach",
+		"use",
+		"mlc",
+		"nand",
+		"flash"
+	],
+	"tag": [
+		"named",
+		"using"
+	],
 	"title": "DuraCache: a durable SSD cache using MLC NAND flash",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,6 +1,11 @@
 {
-	"author": ["Minghua Zhang", "Ben Kao", "David Wai-Lok Cheung", "Kevin Y. Yip"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Minghua Zhang",
+		"Ben Kao",
+		"David Wai-Lok Cheung",
+		"Kevin Y. Yip"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/ZhangKCY05",
@@ -8,8 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066228",
 	"pages": "623-633",
 	"publisher": "ACM",
-	"stemmed": ["mine", "period", "pattern", "with", "gap", "requir", "from", "sequenc"],
-	"tag": ["mining", "sequence"],
+	"stemmed": [
+		"mine",
+		"period",
+		"pattern",
+		"with",
+		"gap",
+		"requir",
+		"from",
+		"sequenc"
+	],
+	"tag": [
+		"mining",
+		"sequence"
+	],
 	"title": "Mining Periodic Patterns with Gap Requirement from Sequences",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

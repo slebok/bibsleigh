@@ -1,14 +1,33 @@
 {
-	"author": ["David Callahan", "Ken Kennedy", "Jaspal Subhlok"],
-	"booktitle": "PPOPP",
+	"author": [
+		"David Callahan",
+		"Ken Kennedy",
+		"Jaspal Subhlok"
+	],
+	"booktitle": "Proceedings of the Second Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1990",
 	"dblpkey": "conf/ppopp/CallahanKS90",
 	"doi": "10.1145/99163.99167",
 	"ee": "http://doi.acm.org/10.1145/99163.99167",
 	"pages": "21-30",
 	"publisher": "ACM",
-	"stemmed": ["analysi", "of", "event", "synchron", "in", "a", "parallel", "program", "tool"],
-	"tag": ["analysis", "parallel", "programming"],
+	"stemmed": [
+		"analysi",
+		"of",
+		"event",
+		"synchron",
+		"in",
+		"a",
+		"parallel",
+		"program",
+		"tool"
+	],
+	"tag": [
+		"analysis",
+		"parallel",
+		"programming"
+	],
 	"title": "Analysis of Event Synchronization in A Parallel Programming Tool",
 	"type": "inproceedings",
 	"venue": "PPoPP",

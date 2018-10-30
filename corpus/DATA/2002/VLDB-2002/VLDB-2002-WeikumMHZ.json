@@ -1,13 +1,37 @@
 {
-	"author": ["Gerhard Weikum", "Axel Mönkeberg", "Christof Hasse", "Peter Zabback"],
-	"booktitle": "VLDB",
+	"author": [
+		"Gerhard Weikum",
+		"Axel Mönkeberg",
+		"Christof Hasse",
+		"Peter Zabback"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/WeikumMHZ02",
 	"ee": "http://www.vldb.org/conf/2002/S02P02.pdf",
 	"pages": "20-31",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["self", "tune", "databas", "technolog", "and", "inform", "servic", "from", "wish", "think", "to", "viabl", "engin"],
-	"tag": ["database", "information management", "self"],
+	"stemmed": [
+		"self",
+		"tune",
+		"databas",
+		"technolog",
+		"and",
+		"inform",
+		"servic",
+		"from",
+		"wish",
+		"think",
+		"to",
+		"viabl",
+		"engin"
+	],
+	"tag": [
+		"database",
+		"information management",
+		"self"
+	],
 	"title": "Self-tuning Database Technology and Information Services: from Wishful Thinking to Viable Engineering",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,16 +1,39 @@
 {
-	"acmid": 2738611,
-	"author": ["William Arthur", "Ben Mehne", "Reetuparna Das", "Todd M. Austin"],
-	"booktitle": "CGO",
+	"acmid": "2738611",
+	"author": [
+		"William Arthur",
+		"Ben Mehne",
+		"Reetuparna Das",
+		"Todd M. Austin"
+	],
+	"booktitle": "Proceedings of the 13th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2015",
 	"dblpkey": "conf/cgo/ArthurMDA15",
 	"doi": "10.1109/CGO.2015.7054189",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2015.7054189", "http://dl.acm.org/citation.cfm?id=2738611"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2015.7054189",
+		"http://dl.acm.org/citation.cfm?id=2738611"
+	],
 	"pages": "79-90",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["get", "in", "control", "of", "your", "control", "flow", "with", "control", "data", "isol"],
-	"tag": ["control flow"],
+	"stemmed": [
+		"get",
+		"in",
+		"control",
+		"of",
+		"your",
+		"control",
+		"flow",
+		"with",
+		"control",
+		"data",
+		"isol"
+	],
+	"tag": [
+		"control flow"
+	],
 	"title": "Getting in control of your control flow with control-data isolation",
 	"type": "inproceedings",
 	"venue": "CGO",

@@ -1,14 +1,36 @@
 {
-	"author": ["Jacob Gotwals", "Suresh Srinivas", "Dennis Gannon"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Jacob Gotwals",
+		"Suresh Srinivas",
+		"Dennis Gannon"
+	],
+	"booktitle": "Proceedings of the Fifth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1995",
 	"dblpkey": "conf/ppopp/GotwalsSG95",
 	"doi": "10.1145/209936.209939",
 	"ee": "http://doi.acm.org/10.1145/209936.209939",
 	"pages": "11-18",
 	"publisher": "ACM",
-	"stemmed": ["pc", "stream", "a", "librari", "for", "i", "o", "on", "complex", "distribut", "data", "structur"],
-	"tag": ["data type", "distributed", "library"],
+	"stemmed": [
+		"pc",
+		"stream",
+		"a",
+		"librari",
+		"for",
+		"i",
+		"o",
+		"on",
+		"complex",
+		"distribut",
+		"data",
+		"structur"
+	],
+	"tag": [
+		"data type",
+		"distributed",
+		"library"
+	],
 	"title": "pC++/streams: a Library for I/O on Complex Distributed Data Structures",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,6 +1,7 @@
 {
 	"author": "Koji Eguchi",
 	"booktitle": "Proceedings of the 22nd International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1999/P265.pdf",
 	"crossref": "conf/sigir/99",
 	"dblpkey": "conf/sigir/Eguchi99",
@@ -8,8 +9,28 @@
 	"ee": "http://doi.acm.org/10.1145/312624.312688",
 	"pages": "265-266",
 	"publisher": "ACM",
-	"stemmed": ["adapt", "cluster", "base", "brows", "use", "increment", "expand", "queri", "and", "it", "effect", "poster", "abstract"],
-	"tag": ["adaptation", "clustering", "incremental", "query", "using"],
+	"stemmed": [
+		"adapt",
+		"cluster",
+		"base",
+		"brows",
+		"use",
+		"increment",
+		"expand",
+		"queri",
+		"and",
+		"it",
+		"effect",
+		"poster",
+		"abstract"
+	],
+	"tag": [
+		"adaptation",
+		"clustering",
+		"incremental",
+		"query",
+		"using"
+	],
 	"title": "Adaptive Cluster-Based Browsing Using Incrementally Expanded Queries and its Effects (poster abstract)",
 	"type": "inproceedings",
 	"venue": "SIGIR",

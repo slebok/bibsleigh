@@ -1,14 +1,37 @@
 {
-	"author": ["Nan Du", "Mehrdad Farajtabar", "Amr Ahmed", "Alexander J. Smola", "Le Song"],
-	"booktitle": "KDD",
+	"author": [
+		"Nan Du",
+		"Mehrdad Farajtabar",
+		"Amr Ahmed",
+		"Alexander J. Smola",
+		"Le Song"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/DuFASS15",
 	"doi": "10.1145/2783258.2783411",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783411",
 	"pages": "219-228",
 	"publisher": "ACM",
-	"stemmed": ["dirichlet", "hawk", "process", "with", "applic", "to", "cluster", "continu", "time", "document", "stream"],
-	"tag": ["clustering", "documentation", "process"],
+	"stemmed": [
+		"dirichlet",
+		"hawk",
+		"process",
+		"with",
+		"applic",
+		"to",
+		"cluster",
+		"continu",
+		"time",
+		"document",
+		"stream"
+	],
+	"tag": [
+		"clustering",
+		"documentation",
+		"process"
+	],
 	"title": "Dirichlet-Hawkes Processes with Applications to Clustering Continuous-Time Document Streams",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,6 +1,12 @@
 {
-	"author": ["Ikumi Ota", "Ryo Yamamoto", "Shinji Sako", "Shigeki Sagayama"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Ikumi Ota",
+		"Ryo Yamamoto",
+		"Shinji Sako",
+		"Shigeki Sagayama"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/OtaYSS07",
 	"doi": "10.1109/ICDAR.2007.202",
@@ -8,8 +14,21 @@
 	"pages": "1188-1192",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["onlin", "handwritten", "kanji", "recognit", "base", "on", "inter", "stroke", "grammar"],
-	"tag": ["online", "recognition"],
+	"stemmed": [
+		"onlin",
+		"handwritten",
+		"kanji",
+		"recognit",
+		"base",
+		"on",
+		"inter",
+		"stroke",
+		"grammar"
+	],
+	"tag": [
+		"online",
+		"recognition"
+	],
 	"title": "Online Handwritten Kanji Recognition Based on Inter-stroke Grammar",
 	"type": "inproceedings",
 	"venue": "ICDAR",

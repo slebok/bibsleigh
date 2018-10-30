@@ -1,6 +1,11 @@
 {
-	"author": ["Vijay V. Raghavan", "Peter Bollmann", "Gwang S. Jung"],
+	"author": [
+		"Vijay V. Raghavan",
+		"Peter Bollmann",
+		"Gwang S. Jung"
+	],
 	"booktitle": "Proceedings of the 12th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P059.pdf",
 	"crossref": "conf/sigir/89",
 	"dblpkey": "conf/sigir/RaghavanBJ89",
@@ -8,8 +13,25 @@
 	"ee": "http://doi.acm.org/10.1145/75334.75342",
 	"pages": "59-68",
 	"publisher": "ACM",
-	"stemmed": ["retriev", "system", "evalu", "use", "recal", "and", "precis", "problem", "and", "answer"],
-	"tag": ["evaluation", "precise", "problem", "retrieval", "using"],
+	"stemmed": [
+		"retriev",
+		"system",
+		"evalu",
+		"use",
+		"recal",
+		"and",
+		"precis",
+		"problem",
+		"and",
+		"answer"
+	],
+	"tag": [
+		"evaluation",
+		"precise",
+		"problem",
+		"retrieval",
+		"using"
+	],
 	"title": "Retrieval System Evaluation Using Recall and Precision: Problems and Answers",
 	"type": "inproceedings",
 	"venue": "SIGIR",

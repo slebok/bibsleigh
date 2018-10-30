@@ -1,14 +1,31 @@
 {
-	"author": ["Yucheng Zhang", "Ali Mesbah"],
-	"booktitle": "ESEC/SIGSOFT FSE",
+	"author": [
+		"Yucheng Zhang",
+		"Ali Mesbah"
+	],
+	"booktitle": "Proceedings of the 10th Joint Meeting of the 15th European Software Engineering Conference and the 23rd Symposium on the Foundations of Software Engineering",
+	"booktitleshort": "ESEC/SIGSOFT FSE",
 	"crossref": "conf/sigsoft/2015",
 	"dblpkey": "conf/sigsoft/ZhangM15",
 	"doi": "10.1145/2786805.2786858",
 	"ee": "http://doi.acm.org/10.1145/2786805.2786858",
 	"pages": "214-224",
 	"publisher": "ACM",
-	"stemmed": ["assert", "are", "strong", "correl", "with", "test", "suit", "effect"],
-	"tag": ["correlation", "effectiveness", "testing"],
+	"stemmed": [
+		"assert",
+		"are",
+		"strong",
+		"correl",
+		"with",
+		"test",
+		"suit",
+		"effect"
+	],
+	"tag": [
+		"correlation",
+		"effectiveness",
+		"testing"
+	],
 	"title": "Assertions are strongly correlated with test suite effectiveness",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

@@ -1,6 +1,11 @@
 {
-	"author": ["Timothy G. Armstrong", "Vamsi Ponnekanti", "Dhruba Borthakur", "Mark Callaghan"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Timothy G. Armstrong",
+		"Vamsi Ponnekanti",
+		"Dhruba Borthakur",
+		"Mark Callaghan"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/ArmstrongPBC13",
@@ -8,8 +13,28 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465296",
 	"pages": "1185-1196",
 	"publisher": "ACM",
-	"stemmed": ["link", "bench", "a", "databas", "benchmark", "base", "on", "the", "facebook", "social", "graph"],
-	"tag": ["benchmark", "database", "facebook", "graph", "metric", "named", "social"],
+	"stemmed": [
+		"link",
+		"bench",
+		"a",
+		"databas",
+		"benchmark",
+		"base",
+		"on",
+		"the",
+		"facebook",
+		"social",
+		"graph"
+	],
+	"tag": [
+		"benchmark",
+		"database",
+		"facebook",
+		"graph",
+		"metric",
+		"named",
+		"social"
+	],
 	"title": "LinkBench: a database benchmark based on the Facebook social graph",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

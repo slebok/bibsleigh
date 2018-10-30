@@ -1,6 +1,7 @@
 {
 	"author": "Julian Seward",
-	"booktitle": "IWMM",
+	"booktitle": "Proceedings of the First International Workshop on Memory Management",
+	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
 	"dblpkey": "conf/iwmm/Seward92",
 	"doi": "10.1007/BFb0017191",
@@ -10,11 +11,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["generat", "garbag", "collect", "for", "lazi", "graph", "reduct"],
-	"tag": ["garbage collection", "graph", "lazy evaluation", "reduction"],
+	"stemmed": [
+		"generat",
+		"garbag",
+		"collect",
+		"for",
+		"lazi",
+		"graph",
+		"reduct"
+	],
+	"tag": [
+		"garbage collection",
+		"graph",
+		"lazy evaluation",
+		"reduction"
+	],
 	"title": "Generational Garbage Collection for Lazy Graph Reduction",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 637,
+	"volume": "637",
 	"year": 1992
 }

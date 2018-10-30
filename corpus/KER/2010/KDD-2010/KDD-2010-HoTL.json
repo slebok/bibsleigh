@@ -1,14 +1,38 @@
 {
-	"author": ["Shen-Shyang Ho", "Wenqing Tang", "W. Timothy Liu"],
-	"booktitle": "KDD",
+	"author": [
+		"Shen-Shyang Ho",
+		"Wenqing Tang",
+		"W. Timothy Liu"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/HoTL10",
 	"doi": "10.1145/1835804.1835824",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835824",
 	"pages": "135-144",
 	"publisher": "ACM",
-	"stemmed": ["tropic", "cyclon", "event", "sequenc", "similar", "search", "via", "dimension", "reduct", "and", "metric", "learn"],
-	"tag": ["learning", "metric", "reduction", "sequence", "similarity"],
+	"stemmed": [
+		"tropic",
+		"cyclon",
+		"event",
+		"sequenc",
+		"similar",
+		"search",
+		"via",
+		"dimension",
+		"reduct",
+		"and",
+		"metric",
+		"learn"
+	],
+	"tag": [
+		"learning",
+		"metric",
+		"reduction",
+		"sequence",
+		"similarity"
+	],
 	"title": "Tropical cyclone event sequence similarity search via dimensionality reduction and metric learning",
 	"type": "inproceedings",
 	"venue": "KDD",

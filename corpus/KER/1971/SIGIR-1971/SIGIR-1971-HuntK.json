@@ -1,6 +1,10 @@
 {
-	"author": ["Earl Hunt", "Gary A. Kildall"],
+	"author": [
+		"Earl Hunt",
+		"Gary A. Kildall"
+	],
 	"booktitle": "Proceedings of the ACM SIGIR Information Storage and Retrieval Symposium",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1971/P117.pdf",
 	"crossref": "conf/sigir/71",
 	"dblpkey": "conf/sigir/HuntK71",
@@ -8,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/511285.511299",
 	"pages": "117-131",
 	"publisher": "ACM",
-	"stemmed": ["a", "heathkit", "method", "for", "build", "data", "manag", "program"],
-	"tag": ["data transformation", "source code"],
+	"stemmed": [
+		"a",
+		"heathkit",
+		"method",
+		"for",
+		"build",
+		"data",
+		"manag",
+		"program"
+	],
+	"tag": [
+		"data transformation",
+		"source code"
+	],
 	"title": "A Heathkit Method for Building Data Management Programs",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,17 +1,43 @@
 {
-	"author": ["Kristof Du Bois", "Jennifer B. Sartor", "Stijn Eyerman", "Lieven Eeckhout"],
-	"booktitle": "Proceedings of the 28th International Conference on Object Oriented Programming Systems Languages & Applications",
+	"author": [
+		"Kristof Du Bois",
+		"Jennifer B. Sartor",
+		"Stijn Eyerman",
+		"Lieven Eeckhout"
+	],
+	"booktitle": "Proceedings of the 28th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2013",
 	"dblpkey": "conf/oopsla/BoisSEE13",
 	"doi": "10.1145/2509136.2509529",
-	"editor": ["Antony L. Hosking", "Patrick Th. Eugster", "Cristina Videira Lopes"],
+	"editor": [
+		"Antony L. Hosking",
+		"Patrick Th. Eugster",
+		"Cristina Videira Lopes"
+	],
 	"ee": "http://doi.acm.org/10.1145/2509136.2509529",
 	"isbn": "978-1-4503-2374-1",
 	"pages": "355-372",
 	"publisher": "ACM",
-	"stemmed": ["bottl", "graph", "visual", "scalabl", "bottleneck", "in", "multi", "thread", "applic"],
-	"tag": ["concurrent", "graph", "multi", "scalability", "thread", "visualisation"],
+	"stemmed": [
+		"bottl",
+		"graph",
+		"visual",
+		"scalabl",
+		"bottleneck",
+		"in",
+		"multi",
+		"thread",
+		"applic"
+	],
+	"tag": [
+		"concurrent",
+		"graph",
+		"multi",
+		"scalability",
+		"thread",
+		"visualisation"
+	],
 	"title": "Bottle graphs: visualizing scalability bottlenecks in multi-threaded applications",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

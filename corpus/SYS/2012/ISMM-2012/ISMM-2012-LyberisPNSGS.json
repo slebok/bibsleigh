@@ -1,14 +1,38 @@
 {
-	"author": ["Spyros Lyberis", "Polyvios Pratikakis", "Dimitrios S. Nikolopoulos", "Martin Schulz", "Todd Gamblin", "Bronis R. de Supinski"],
-	"booktitle": "ISMM",
+	"author": [
+		"Spyros Lyberis",
+		"Polyvios Pratikakis",
+		"Dimitrios S. Nikolopoulos",
+		"Martin Schulz",
+		"Todd Gamblin",
+		"Bronis R. de Supinski"
+	],
+	"booktitle": "Proceedings of the 11th International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2012",
 	"dblpkey": "conf/iwmm/LyberisPNSGS12",
 	"doi": "10.1145/2258996.2259001",
 	"ee": "http://doi.acm.org/10.1145/2258996.2259001",
 	"pages": "15-24",
 	"publisher": "ACM",
-	"stemmed": ["the", "myrmic", "memori", "alloc", "hierarch", "messag", "pass", "alloc", "for", "global", "address", "space"],
-	"tag": ["memory management", "message passing"],
+	"stemmed": [
+		"the",
+		"myrmic",
+		"memori",
+		"alloc",
+		"hierarch",
+		"messag",
+		"pass",
+		"alloc",
+		"for",
+		"global",
+		"address",
+		"space"
+	],
+	"tag": [
+		"memory management",
+		"message passing"
+	],
 	"title": "The myrmics memory allocator: hierarchical, message-passing allocation for global address spaces",
 	"type": "inproceedings",
 	"venue": "ISMM",

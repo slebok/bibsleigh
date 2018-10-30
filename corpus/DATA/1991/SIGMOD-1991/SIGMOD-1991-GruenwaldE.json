@@ -1,15 +1,47 @@
 {
-	"author": ["Le Gruenwald", "Margaret H. Eich"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Le Gruenwald",
+		"Margaret H. Eich"
+	],
+	"booktitle": "Proceedings of the 21st ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD91/P397.PDF",
-	"cite": ["...", "conf/vldb/ChouD85", "...", "conf/sigmod/DeWittKOSSW84", "conf/iwdm/Eich87", "conf/iwdm/Eich89", "...", "...", "...", "...", "...", "journals/tc/Hagmann86", "...", "...", "conf/sigmod/LehmanC87", "conf/icde/SalemG86", "...", "...", "journals/tkde/SalemG90", "...", "..."],
+	"cite": [
+		"...",
+		"conf/vldb/ChouD85",
+		"...",
+		"conf/sigmod/DeWittKOSSW84",
+		"conf/iwdm/Eich87",
+		"conf/iwdm/Eich89",
+		"...",
+		"...",
+		"...",
+		"...",
+		"...",
+		"journals/tc/Hagmann86",
+		"...",
+		"...",
+		"conf/sigmod/LehmanC87",
+		"conf/icde/SalemG86",
+		"...",
+		"...",
+		"journals/tkde/SalemG90",
+		"...",
+		"..."
+	],
 	"crossref": "conf/sigmod/91",
 	"dblpkey": "conf/sigmod/GruenwaldE91",
 	"doi": "10.1145/115790.115858",
 	"ee": "http://doi.acm.org/10.1145/115790.115858",
 	"pages": "397-405",
-	"stemmed": ["mmdb", "reload", "algorithm"],
-	"tag": ["algorithm"],
+	"stemmed": [
+		"mmdb",
+		"reload",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm"
+	],
 	"title": "MMDB Reload Algorithms",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

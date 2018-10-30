@@ -1,6 +1,13 @@
 {
-	"author": ["José A. Blakeley", "Vineet Rao", "Isaac Kunen", "Adam Prout", "Mat Henaire", "Christian Kleinerman"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"José A. Blakeley",
+		"Vineet Rao",
+		"Isaac Kunen",
+		"Adam Prout",
+		"Mat Henaire",
+		"Christian Kleinerman"
+	],
+	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2008",
 	"dblpkey": "conf/sigmod/BlakeleyRKPHK08",
@@ -8,8 +15,23 @@
 	"ee": "http://doi.acm.org/10.1145/1376616.1376725",
 	"pages": "1087-1098",
 	"publisher": "ACM",
-	"stemmed": ["net", "databas", "programm", "and", "extens", "in", "microsoft", "sql", "server"],
-	"tag": ["database", "dot-net", "programmable", "sql"],
+	"stemmed": [
+		"net",
+		"databas",
+		"programm",
+		"and",
+		"extens",
+		"in",
+		"microsoft",
+		"sql",
+		"server"
+	],
+	"tag": [
+		"database",
+		"dot-net",
+		"programmable",
+		"sql"
+	],
 	"title": ".NET database programmability and extensibility in microsoft SQL server",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

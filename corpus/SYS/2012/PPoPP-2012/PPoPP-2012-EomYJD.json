@@ -1,14 +1,31 @@
 {
-	"author": ["Yong Hun Eom", "Stephen Yang", "James Christopher Jenista", "Brian Demsky"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Yong Hun Eom",
+		"Stephen Yang",
+		"James Christopher Jenista",
+		"Brian Demsky"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/EomYJD12",
 	"doi": "10.1145/2145816.2145828",
 	"ee": "http://doi.acm.org/10.1145/2145816.2145828",
 	"pages": "85-96",
 	"publisher": "ACM",
-	"stemmed": ["doj", "dynam", "parallel", "object", "orient", "program"],
-	"tag": ["named", "object-oriented", "source code"],
+	"stemmed": [
+		"doj",
+		"dynam",
+		"parallel",
+		"object",
+		"orient",
+		"program"
+	],
+	"tag": [
+		"named",
+		"object-oriented",
+		"source code"
+	],
 	"title": "DOJ: dynamically parallelizing object-oriented programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

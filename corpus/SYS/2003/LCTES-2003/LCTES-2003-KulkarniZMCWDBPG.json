@@ -1,14 +1,35 @@
 {
-	"author": ["Prasad A. Kulkarni", "Wankang Zhao", "Hwashin Moon", "Kyunghwan Cho", "David B. Whalley", "Jack W. Davidson", "Mark W. Bailey", "Yunheung Paek", "Kyle Gallivan"],
-	"booktitle": "LCTES",
+	"author": [
+		"Prasad A. Kulkarni",
+		"Wankang Zhao",
+		"Hwashin Moon",
+		"Kyunghwan Cho",
+		"David B. Whalley",
+		"Jack W. Davidson",
+		"Mark W. Bailey",
+		"Yunheung Paek",
+		"Kyle Gallivan"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2003",
 	"dblpkey": "conf/lctrts/KulkarniZMCWDBPG03",
 	"doi": "10.1145/780732.780735",
 	"ee": "http://doi.acm.org/10.1145/780732.780735",
 	"pages": "12-23",
 	"publisher": "ACM",
-	"stemmed": ["find", "effect", "optim", "phase", "sequenc"],
-	"tag": ["effectiveness", "optimisation", "sequence"],
+	"stemmed": [
+		"find",
+		"effect",
+		"optim",
+		"phase",
+		"sequenc"
+	],
+	"tag": [
+		"effectiveness",
+		"optimisation",
+		"sequence"
+	],
 	"title": "Finding effective optimization phase sequences",
 	"type": "inproceedings",
 	"venue": "LCTES",

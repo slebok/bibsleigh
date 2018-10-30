@@ -1,14 +1,31 @@
 {
-	"author": ["Michael Benedikt", "Wenfei Fan", "Floris Geerts"],
-	"booktitle": "PODS",
+	"author": [
+		"Michael Benedikt",
+		"Wenfei Fan",
+		"Floris Geerts"
+	],
+	"booktitle": "Proceedings of the 24th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2005",
 	"dblpkey": "conf/pods/BenediktFG05",
 	"doi": "10.1145/1065167.1065172",
 	"ee": "http://doi.acm.org/10.1145/1065167.1065172",
 	"pages": "25-36",
 	"publisher": "ACM",
-	"stemmed": ["x", "path", "satisfi", "in", "the", "presenc", "of", "dtds"],
-	"tag": ["satisfiability", "xpath"],
+	"stemmed": [
+		"x",
+		"path",
+		"satisfi",
+		"in",
+		"the",
+		"presenc",
+		"of",
+		"dtds"
+	],
+	"tag": [
+		"satisfiability",
+		"xpath"
+	],
 	"title": "XPath satisfiability in the presence of DTDs",
 	"type": "inproceedings",
 	"venue": "PODS",

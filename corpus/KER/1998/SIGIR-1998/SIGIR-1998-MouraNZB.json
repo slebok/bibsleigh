@@ -1,6 +1,12 @@
 {
-	"author": ["Edleno Silva de Moura", "Gonzalo Navarro", "Nivio Ziviani", "Ricardo A. Baeza-Yates"],
+	"author": [
+		"Edleno Silva de Moura",
+		"Gonzalo Navarro",
+		"Nivio Ziviani",
+		"Ricardo A. Baeza-Yates"
+	],
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P298.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/MouraNZB98",
@@ -8,8 +14,19 @@
 	"ee": "http://doi.acm.org/10.1145/290941.291013",
 	"pages": "298-306",
 	"publisher": "ACM",
-	"stemmed": ["fast", "search", "on", "compress", "text", "allow", "error"],
-	"tag": ["fault", "performance"],
+	"stemmed": [
+		"fast",
+		"search",
+		"on",
+		"compress",
+		"text",
+		"allow",
+		"error"
+	],
+	"tag": [
+		"fault",
+		"performance"
+	],
 	"title": "Fast Searching on Compressed Text Allowing Errors",
 	"type": "inproceedings",
 	"venue": "SIGIR",

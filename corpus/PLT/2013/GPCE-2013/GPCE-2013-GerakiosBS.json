@@ -1,6 +1,10 @@
 {
-	"author": ["Prodromos Gerakios", "Aggelos Biboudis", "Yannis Smaragdakis"],
-	"booktitle": "Proceedings of the 12th International Conference on Generative Programming: Concepts & Experiences",
+	"author": [
+		"Prodromos Gerakios",
+		"Aggelos Biboudis",
+		"Yannis Smaragdakis"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Generative Programming: Concepts and Experiences",
 	"booktitleshort": "GPCE",
 	"crossref": "conf/gpce/2013",
 	"dblpkey": "conf/gpce/GerakiosBS13",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/2517208.2517223",
 	"pages": "61-64",
 	"publisher": "ACM",
-	"stemmed": ["reifi", "type", "paramet", "use", "java", "annot"],
-	"tag": ["java", "parametricity", "using"],
+	"stemmed": [
+		"reifi",
+		"type",
+		"paramet",
+		"use",
+		"java",
+		"annot"
+	],
+	"tag": [
+		"java",
+		"parametricity",
+		"using"
+	],
 	"title": "Reified type parameters using Java annotations",
 	"type": "inproceedings",
 	"venue": "GPCE",

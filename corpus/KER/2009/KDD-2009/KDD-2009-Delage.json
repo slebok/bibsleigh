@@ -1,14 +1,29 @@
 {
 	"author": "Erick Delage",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/Delage09",
 	"doi": "10.1145/1557019.1557050",
 	"ee": "http://doi.acm.org/10.1145/1557019.1557050",
 	"pages": "229-238",
 	"publisher": "ACM",
-	"stemmed": ["regret", "base", "onlin", "rank", "for", "a", "grow", "digit", "librari"],
-	"tag": ["library", "online", "ranking"],
+	"stemmed": [
+		"regret",
+		"base",
+		"onlin",
+		"rank",
+		"for",
+		"a",
+		"grow",
+		"digit",
+		"librari"
+	],
+	"tag": [
+		"library",
+		"online",
+		"ranking"
+	],
 	"title": "Regret-based online ranking for a growing digital library",
 	"type": "inproceedings",
 	"venue": "KDD",

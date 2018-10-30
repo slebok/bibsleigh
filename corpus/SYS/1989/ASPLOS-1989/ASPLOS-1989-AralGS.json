@@ -1,14 +1,29 @@
 {
-	"author": ["Ziya Aral", "Ilya Gertner", "Greg Schaffer"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Ziya Aral",
+		"Ilya Gertner",
+		"Greg Schaffer"
+	],
+	"booktitle": "Proceedings of the Third International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1989",
 	"dblpkey": "conf/asplos/AralGS89",
 	"doi": "10.1145/70082.68190",
 	"ee": "http://doi.acm.org/10.1145/70082.68190",
 	"pages": "87-95",
 	"publisher": "ACM Press",
-	"stemmed": ["effici", "debug", "primit", "for", "multiprocessor"],
-	"tag": ["debugging", "multi", "performance"],
+	"stemmed": [
+		"effici",
+		"debug",
+		"primit",
+		"for",
+		"multiprocessor"
+	],
+	"tag": [
+		"debugging",
+		"multi",
+		"performance"
+	],
 	"title": "Efficient Debugging Primitives for Multiprocessors",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

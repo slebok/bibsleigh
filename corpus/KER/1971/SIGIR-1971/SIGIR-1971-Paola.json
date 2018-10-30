@@ -1,6 +1,7 @@
 {
 	"author": "Robert A. Di Paola",
 	"booktitle": "Proceedings of the ACM SIGIR Information Storage and Retrieval Symposium",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1971/P095.pdf",
 	"crossref": "conf/sigir/71",
 	"dblpkey": "conf/sigir/Paola71",
@@ -8,8 +9,25 @@
 	"ee": "http://doi.acm.org/10.1145/511285.511296",
 	"pages": "95-104",
 	"publisher": "ACM",
-	"stemmed": ["the", "relat", "data", "file", "and", "the", "decis", "problem", "for", "class", "of", "proper", "formula"],
-	"tag": ["problem", "relational"],
+	"stemmed": [
+		"the",
+		"relat",
+		"data",
+		"file",
+		"and",
+		"the",
+		"decis",
+		"problem",
+		"for",
+		"class",
+		"of",
+		"proper",
+		"formula"
+	],
+	"tag": [
+		"problem",
+		"relational"
+	],
 	"title": "The Relational Data File and the Decision Problem for Classes of Proper Formulas",
 	"type": "inproceedings",
 	"venue": "SIGIR",

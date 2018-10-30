@@ -1,6 +1,12 @@
 {
-	"author": ["Patrick Ziegler", "Christoph Kiefer", "Christoph Sturm", "Klaus R. Dittrich", "Abraham Bernstein"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Patrick Ziegler",
+		"Christoph Kiefer",
+		"Christoph Sturm",
+		"Klaus R. Dittrich",
+		"Abraham Bernstein"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/ZieglerKSDB06",
@@ -8,8 +14,25 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142577",
 	"pages": "751-753",
 	"publisher": "ACM",
-	"stemmed": ["generic", "similar", "detect", "in", "ontolog", "with", "the", "soqa", "sim", "pack", "toolkit"],
-	"tag": ["detection", "ontology", "similarity", "tool support"],
+	"stemmed": [
+		"generic",
+		"similar",
+		"detect",
+		"in",
+		"ontolog",
+		"with",
+		"the",
+		"soqa",
+		"sim",
+		"pack",
+		"toolkit"
+	],
+	"tag": [
+		"detection",
+		"ontology",
+		"similarity",
+		"tool support"
+	],
 	"title": "Generic similarity detection in ontologies with the SOQA-SimPack toolkit",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

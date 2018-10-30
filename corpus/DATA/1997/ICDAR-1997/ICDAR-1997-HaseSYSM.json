@@ -1,15 +1,36 @@
 {
-	"author": ["Hiroyuki Hase", "Toshiyuki Shinokawa", "Masaaki Yoneda", "Mitsuru Sakai", "Hiroshi Maruyama"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Hiroyuki Hase",
+		"Toshiyuki Shinokawa",
+		"Masaaki Yoneda",
+		"Mitsuru Sakai",
+		"Hiroshi Maruyama"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/1997",
 	"dblpkey": "conf/icdar/HaseSYSM97",
 	"doi": "10.1109/ICDAR.1997.619860",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1997.619860", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1997.619860"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1997.619860",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1997.619860"
+	],
 	"pages": "298-302",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["charact", "string", "extract", "by", "multi", "stage", "relax"],
-	"tag": ["multi", "string"],
+	"stemmed": [
+		"charact",
+		"string",
+		"extract",
+		"by",
+		"multi",
+		"stage",
+		"relax"
+	],
+	"tag": [
+		"multi",
+		"string"
+	],
 	"title": "Character String Extraction by Multi-stage Relaxation",
 	"type": "inproceedings",
 	"venue": "ICDAR",

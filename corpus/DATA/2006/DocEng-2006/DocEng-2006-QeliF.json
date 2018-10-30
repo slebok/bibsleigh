@@ -1,15 +1,37 @@
 {
-	"author": ["Ermir Qeli", "Bernd Freisleben"],
-	"booktitle": "ACM Symposium on Document Engineering",
-	"booktitleshort": "DocEng",
+	"author": [
+		"Ermir Qeli",
+		"Bernd Freisleben"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Document Engineering",
+	"booktitleshort": "ACM Symposium on Document Engineering",
 	"crossref": "conf/doceng/2006",
 	"dblpkey": "conf/doceng/QeliF06",
 	"doi": "10.1145/1166160.1166184",
 	"ee": "http://doi.acm.org/10.1145/1166160.1166184",
 	"pages": "85-87",
 	"publisher": "ACM",
-	"stemmed": ["filter", "xml", "document", "use", "x", "path", "express", "and", "aspect", "orient", "program"],
-	"tag": ["aspect-oriented", "documentation", "programming", "using", "xml", "xpath"],
+	"stemmed": [
+		"filter",
+		"xml",
+		"document",
+		"use",
+		"x",
+		"path",
+		"express",
+		"and",
+		"aspect",
+		"orient",
+		"program"
+	],
+	"tag": [
+		"aspect-oriented",
+		"documentation",
+		"programming",
+		"using",
+		"xml",
+		"xpath"
+	],
 	"title": "Filtering XML documents using XPath expressions and aspect-oriented programming",
 	"type": "inproceedings",
 	"venue": "DocEng",

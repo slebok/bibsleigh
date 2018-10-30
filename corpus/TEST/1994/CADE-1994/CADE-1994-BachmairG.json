@@ -1,6 +1,10 @@
 {
-	"author": ["Leo Bachmair", "Harald Ganzinger"],
-	"booktitle": "CADE",
+	"author": [
+		"Leo Bachmair",
+		"Harald Ganzinger"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/BachmairG94",
 	"doi": "10.1007/3-540-58156-1_32",
@@ -10,11 +14,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["order", "chain", "for", "total", "order"],
-	"tag": ["order"],
+	"stemmed": [
+		"order",
+		"chain",
+		"for",
+		"total",
+		"order"
+	],
+	"tag": [
+		"order"
+	],
 	"title": "Ordered Chaining for Total Orderings",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

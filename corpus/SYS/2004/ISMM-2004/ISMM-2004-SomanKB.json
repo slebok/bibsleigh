@@ -1,14 +1,29 @@
 {
-	"author": ["Sunil Soman", "Chandra Krintz", "David F. Bacon"],
-	"booktitle": "ISMM",
+	"author": [
+		"Sunil Soman",
+		"Chandra Krintz",
+		"David F. Bacon"
+	],
+	"booktitle": "Proceedings of the Fourth International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2004",
 	"dblpkey": "conf/iwmm/SomanKB04",
 	"doi": "10.1145/1029873.1029880",
 	"ee": "http://doi.acm.org/10.1145/1029873.1029880",
 	"pages": "49-60",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "select", "of", "applic", "specif", "garbag", "collector"],
-	"tag": ["garbage collection"],
+	"stemmed": [
+		"dynam",
+		"select",
+		"of",
+		"applic",
+		"specif",
+		"garbag",
+		"collector"
+	],
+	"tag": [
+		"garbage collection"
+	],
 	"title": "Dynamic selection of application-specific garbage collectors",
 	"type": "inproceedings",
 	"venue": "ISMM",

@@ -1,14 +1,25 @@
 {
 	"author": "Wenfei Fan",
-	"booktitle": "PODS",
+	"booktitle": "Proceedings of the 27th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2008",
 	"dblpkey": "conf/pods/Fan08",
 	"doi": "10.1145/1376916.1376940",
 	"ee": "http://doi.acm.org/10.1145/1376916.1376940",
 	"pages": "159-170",
 	"publisher": "ACM",
-	"stemmed": ["depend", "revisit", "for", "improv", "data", "qualiti"],
-	"tag": ["dependence", "quality"],
+	"stemmed": [
+		"depend",
+		"revisit",
+		"for",
+		"improv",
+		"data",
+		"qualiti"
+	],
+	"tag": [
+		"dependence",
+		"quality"
+	],
 	"title": "Dependencies revisited for improving data quality",
 	"type": "inproceedings",
 	"venue": "PODS",

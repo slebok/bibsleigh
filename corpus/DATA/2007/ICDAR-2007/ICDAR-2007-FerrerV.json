@@ -1,6 +1,10 @@
 {
-	"author": ["Miquel Ferrer", "Ernest Valveny"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Miquel Ferrer",
+		"Ernest Valveny"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/FerrerV07",
 	"doi": "10.1109/ICDAR.2007.83",
@@ -8,8 +12,24 @@
 	"pages": "784-788",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["combin", "of", "ocr", "engin", "for", "page", "segment", "base", "on", "perform", "evalu"],
-	"tag": ["evaluation", "performance", "segmentation"],
+	"stemmed": [
+		"combin",
+		"of",
+		"ocr",
+		"engin",
+		"for",
+		"page",
+		"segment",
+		"base",
+		"on",
+		"perform",
+		"evalu"
+	],
+	"tag": [
+		"evaluation",
+		"performance",
+		"segmentation"
+	],
 	"title": "Combination of OCR Engines for Page Segmentation Based on Performance Evaluation",
 	"type": "inproceedings",
 	"venue": "ICDAR",

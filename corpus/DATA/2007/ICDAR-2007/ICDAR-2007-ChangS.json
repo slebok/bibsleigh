@@ -1,6 +1,10 @@
 {
-	"author": ["W. Chang", "J. Shin"],
-	"booktitle": "ICDAR",
+	"author": [
+		"W. Chang",
+		"J. Shin"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/ChangS07",
 	"doi": "10.1109/ICDAR.2007.171",
@@ -8,8 +12,23 @@
 	"pages": "724-728",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["modifi", "dynam", "time", "warp", "for", "stroke", "base", "on", "line", "signatur", "verif"],
-	"tag": ["online", "verification"],
+	"stemmed": [
+		"modifi",
+		"dynam",
+		"time",
+		"warp",
+		"for",
+		"stroke",
+		"base",
+		"on",
+		"line",
+		"signatur",
+		"verif"
+	],
+	"tag": [
+		"online",
+		"verification"
+	],
 	"title": "Modified Dynamic Time Warping for Stroke-Based On-line Signature Verification",
 	"type": "inproceedings",
 	"venue": "ICDAR",

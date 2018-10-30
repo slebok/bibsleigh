@@ -1,16 +1,40 @@
 {
-	"author": ["Daniel A. Keim", "Hans-Peter Kriegel"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Daniel A. Keim",
+		"Hans-Peter Kriegel"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD95/P482.PDF",
-	"cite": ["...", "...", "...", "conf/icde/KeimKS94", "..."],
+	"cite": [
+		"...",
+		"...",
+		"...",
+		"conf/icde/KeimKS94",
+		"..."
+	],
 	"crossref": "conf/sigmod/95",
 	"dblpkey": "conf/sigmod/KeimK95",
 	"doi": "10.1145/223784.223895",
 	"ee": "http://doi.acm.org/10.1145/223784.223895",
-	"pages": 482,
+	"pages": "482",
 	"publisher": "ACM Press",
-	"stemmed": ["vis", "db", "a", "system", "for", "visual", "larg", "databas"],
-	"tag": ["database", "named", "scalability", "visualisation"],
+	"stemmed": [
+		"vis",
+		"db",
+		"a",
+		"system",
+		"for",
+		"visual",
+		"larg",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"named",
+		"scalability",
+		"visualisation"
+	],
 	"title": "VisDB: A System for Visualizing Large Databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

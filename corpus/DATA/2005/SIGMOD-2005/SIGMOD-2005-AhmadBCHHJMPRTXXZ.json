@@ -1,6 +1,20 @@
 {
-	"author": ["Yanif Ahmad", "Bradley Berg", "Ugur Çetintemel", "Mark Humphrey", "Jeong-Hyon Hwang", "Anjali Jhingran", "Anurag Maskey", "Olga Papaemmanouil", "Alex Rasin", "Nesime Tatbul", "Wenjuan Xing", "Ying Xing", "Stanley B. Zdonik"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yanif Ahmad",
+		"Bradley Berg",
+		"Ugur Çetintemel",
+		"Mark Humphrey",
+		"Jeong-Hyon Hwang",
+		"Anjali Jhingran",
+		"Anurag Maskey",
+		"Olga Papaemmanouil",
+		"Alex Rasin",
+		"Nesime Tatbul",
+		"Wenjuan Xing",
+		"Ying Xing",
+		"Stanley B. Zdonik"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/AhmadBCHHJMPRTXXZ05",
@@ -8,8 +22,19 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066274",
 	"pages": "882-884",
 	"publisher": "ACM",
-	"stemmed": ["distribut", "oper", "in", "the", "boreali", "stream", "process", "engin"],
-	"tag": ["distributed"],
+	"stemmed": [
+		"distribut",
+		"oper",
+		"in",
+		"the",
+		"boreali",
+		"stream",
+		"process",
+		"engin"
+	],
+	"tag": [
+		"distributed"
+	],
 	"title": "Distributed operation in the Borealis stream processing engine",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

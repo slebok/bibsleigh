@@ -1,16 +1,37 @@
 {
-	"author": ["Frédéric Gingras", "Laks V. S. Lakshmanan", "Iyer N. Subramanian", "Despina Papoulis", "Nematollaah Shiri"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Frédéric Gingras",
+		"Laks V. S. Lakshmanan",
+		"Iyer N. Subramanian",
+		"Despina Papoulis",
+		"Nematollaah Shiri"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD97/P536.PDF",
-	"cite": ["conf/icde/GrayBLP96", "conf/dood/LakshmananSS93", "journals/jlp/LakshmananSS97", "conf/vldb/LakshmananSS96", "..."],
+	"cite": [
+		"conf/icde/GrayBLP96",
+		"conf/dood/LakshmananSS93",
+		"journals/jlp/LakshmananSS97",
+		"conf/vldb/LakshmananSS96",
+		"..."
+	],
 	"crossref": "conf/sigmod/97",
 	"dblpkey": "conf/sigmod/GingrasLSPS97",
 	"doi": "10.1145/253260.253397",
 	"ee": "http://doi.acm.org/10.1145/253260.253397",
 	"pages": "536-538",
 	"publisher": "ACM Press",
-	"stemmed": ["languag", "for", "multi", "databas", "interoper"],
-	"tag": ["multi"],
+	"stemmed": [
+		"languag",
+		"for",
+		"multi",
+		"databas",
+		"interoper"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "Languages for Multi-database Interoperability",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

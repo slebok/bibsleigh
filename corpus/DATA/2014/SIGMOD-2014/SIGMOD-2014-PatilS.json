@@ -1,6 +1,9 @@
 {
-	"author": ["Manish Patil", "Rahul Shah"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Manish Patil",
+		"Rahul Shah"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/PatilS14",
@@ -8,8 +11,18 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2612178",
 	"pages": "1471-1482",
 	"publisher": "ACM",
-	"stemmed": ["similar", "join", "for", "uncertain", "string"],
-	"tag": ["nondeterminism", "similarity", "string"],
+	"stemmed": [
+		"similar",
+		"join",
+		"for",
+		"uncertain",
+		"string"
+	],
+	"tag": [
+		"nondeterminism",
+		"similarity",
+		"string"
+	],
 	"title": "Similarity joins for uncertain strings",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

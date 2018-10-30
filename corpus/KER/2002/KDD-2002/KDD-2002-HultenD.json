@@ -1,14 +1,35 @@
 {
-	"author": ["Geoff Hulten", "Pedro M. Domingos"],
-	"booktitle": "KDD",
+	"author": [
+		"Geoff Hulten",
+		"Pedro M. Domingos"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/HultenD02",
 	"doi": "10.1145/775047.775124",
 	"ee": "http://doi.acm.org/10.1145/775047.775124",
 	"pages": "525-531",
 	"publisher": "ACM",
-	"stemmed": ["mine", "complex", "model", "from", "arbitrarili", "larg", "databas", "in", "constant", "time"],
-	"tag": ["constant", "database", "mining", "modelling", "scalability"],
+	"stemmed": [
+		"mine",
+		"complex",
+		"model",
+		"from",
+		"arbitrarili",
+		"larg",
+		"databas",
+		"in",
+		"constant",
+		"time"
+	],
+	"tag": [
+		"constant",
+		"database",
+		"mining",
+		"modelling",
+		"scalability"
+	],
 	"title": "Mining complex models from arbitrarily large databases in constant time",
 	"type": "inproceedings",
 	"venue": "KDD",

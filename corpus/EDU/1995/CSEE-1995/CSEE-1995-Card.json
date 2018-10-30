@@ -1,6 +1,7 @@
 {
 	"author": "David N. Card",
-	"booktitle": "CSEE",
+	"booktitle": "Proceedings of the Eighth Conference on Software Engineering Education and Training",
+	"booktitleshort": "CSEE",
 	"crossref": "conf/csee/1995",
 	"dblpkey": "conf/csee/Card95",
 	"doi": "10.1007/3-540-58951-1_126",
@@ -9,11 +10,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["teach", "practic", "principl", "of", "softwar", "measur"],
-	"tag": ["education", "metric"],
+	"stemmed": [
+		"teach",
+		"practic",
+		"principl",
+		"of",
+		"softwar",
+		"measur"
+	],
+	"tag": [
+		"education",
+		"metric"
+	],
 	"title": "Teaching Practical Principles of Software Measurement",
 	"type": "inproceedings",
 	"venue": "CSEET",
-	"volume": 895,
+	"volume": "895",
 	"year": 1995
 }

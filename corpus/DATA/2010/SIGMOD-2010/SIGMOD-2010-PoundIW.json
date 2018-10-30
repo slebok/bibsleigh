@@ -1,6 +1,10 @@
 {
-	"author": ["Jeffrey Pound", "Ihab F. Ilyas", "Grant E. Weddell"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jeffrey Pound",
+		"Ihab F. Ilyas",
+		"Grant E. Weddell"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/PoundIW10",
@@ -8,8 +12,27 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807214",
 	"pages": "423-434",
 	"publisher": "ACM",
-	"stemmed": ["express", "and", "flexibl", "access", "to", "web", "extract", "data", "a", "keyword", "base", "structur", "queri", "languag"],
-	"tag": ["flexibility", "keyword", "query"],
+	"stemmed": [
+		"express",
+		"and",
+		"flexibl",
+		"access",
+		"to",
+		"web",
+		"extract",
+		"data",
+		"a",
+		"keyword",
+		"base",
+		"structur",
+		"queri",
+		"languag"
+	],
+	"tag": [
+		"flexibility",
+		"keyword",
+		"query"
+	],
 	"title": "Expressive and flexible access to web-extracted data: a keyword-based structured query language",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

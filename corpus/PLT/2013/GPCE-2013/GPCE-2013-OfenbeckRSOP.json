@@ -1,6 +1,12 @@
 {
-	"author": ["Georg Ofenbeck", "Tiark Rompf", "Alen Stojanov", "Martin Odersky", "Markus Püschel"],
-	"booktitle": "Proceedings of the 12th International Conference on Generative Programming: Concepts & Experiences",
+	"author": [
+		"Georg Ofenbeck",
+		"Tiark Rompf",
+		"Alen Stojanov",
+		"Martin Odersky",
+		"Markus Püschel"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Generative Programming: Concepts and Experiences",
 	"booktitleshort": "GPCE",
 	"crossref": "conf/gpce/2013",
 	"dblpkey": "conf/gpce/OfenbeckRSOP13",
@@ -8,8 +14,27 @@
 	"ee": "http://doi.acm.org/10.1145/2517208.2517228",
 	"pages": "125-134",
 	"publisher": "ACM",
-	"stemmed": ["spiral", "in", "scala", "toward", "the", "systemat", "construct", "of", "generat", "for", "perform", "librari"],
-	"tag": ["generative", "library", "performance", "scala", "towards"],
+	"stemmed": [
+		"spiral",
+		"in",
+		"scala",
+		"toward",
+		"the",
+		"systemat",
+		"construct",
+		"of",
+		"generat",
+		"for",
+		"perform",
+		"librari"
+	],
+	"tag": [
+		"generative",
+		"library",
+		"performance",
+		"scala",
+		"towards"
+	],
 	"title": "Spiral in scala: towards the systematic construction of generators for performance libraries",
 	"type": "inproceedings",
 	"venue": "GPCE",

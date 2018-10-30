@@ -1,6 +1,11 @@
 {
-	"author": ["Jeffrey Jestes", "Feifei Li", "Zhepeng Yan", "Ke Yi"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jeffrey Jestes",
+		"Feifei Li",
+		"Zhepeng Yan",
+		"Ke Yi"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/JestesLYY10",
@@ -8,8 +13,17 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807204",
 	"pages": "327-338",
 	"publisher": "ACM",
-	"stemmed": ["probabilist", "string", "similar", "join"],
-	"tag": ["probability", "similarity", "string"],
+	"stemmed": [
+		"probabilist",
+		"string",
+		"similar",
+		"join"
+	],
+	"tag": [
+		"probability",
+		"similarity",
+		"string"
+	],
 	"title": "Probabilistic string similarity joins",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

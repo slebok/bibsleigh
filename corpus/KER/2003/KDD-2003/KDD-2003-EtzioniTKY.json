@@ -1,14 +1,37 @@
 {
-	"author": ["Oren Etzioni", "Rattapoom Tuchinda", "Craig A. Knoblock", "Alexander Yates"],
-	"booktitle": "KDD",
+	"author": [
+		"Oren Etzioni",
+		"Rattapoom Tuchinda",
+		"Craig A. Knoblock",
+		"Alexander Yates"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2003",
 	"dblpkey": "conf/kdd/EtzioniTKY03",
 	"doi": "10.1145/956750.956767",
 	"ee": "http://doi.acm.org/10.1145/956750.956767",
 	"pages": "119-128",
 	"publisher": "ACM",
-	"stemmed": ["to", "buy", "or", "not", "to", "buy", "mine", "airfar", "data", "to", "minim", "ticket", "purchas", "price"],
-	"tag": ["mining"],
+	"stemmed": [
+		"to",
+		"buy",
+		"or",
+		"not",
+		"to",
+		"buy",
+		"mine",
+		"airfar",
+		"data",
+		"to",
+		"minim",
+		"ticket",
+		"purchas",
+		"price"
+	],
+	"tag": [
+		"mining"
+	],
 	"title": "To buy or not to buy: mining airfare data to minimize ticket purchase price",
 	"type": "inproceedings",
 	"venue": "KDD",

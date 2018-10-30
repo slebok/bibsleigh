@@ -1,14 +1,37 @@
 {
-	"author": ["Yi Wang", "Duo Liu", "Meng Wang", "Zhiwei Qin", "Zili Shao", "Yong Guan"],
-	"booktitle": "LCTES",
+	"author": [
+		"Yi Wang",
+		"Duo Liu",
+		"Meng Wang",
+		"Zhiwei Qin",
+		"Zili Shao",
+		"Yong Guan"
+	],
+	"booktitle": "Proceedings of the 11th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2010",
 	"dblpkey": "conf/lctrts/WangLWQSG10",
 	"doi": "10.1145/1755888.1755912",
 	"ee": "http://doi.acm.org/10.1145/1755888.1755912",
 	"pages": "163-172",
 	"publisher": "ACM",
-	"stemmed": ["rnftl", "a", "reus", "awar", "nand", "flash", "translat", "layer", "for", "flash", "memori"],
-	"tag": ["memory management", "named"],
+	"stemmed": [
+		"rnftl",
+		"a",
+		"reus",
+		"awar",
+		"nand",
+		"flash",
+		"translat",
+		"layer",
+		"for",
+		"flash",
+		"memori"
+	],
+	"tag": [
+		"memory management",
+		"named"
+	],
 	"title": "RNFTL: a reuse-aware NAND flash translation layer for flash memory",
 	"type": "inproceedings",
 	"venue": "LCTES",

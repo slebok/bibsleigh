@@ -1,6 +1,10 @@
 {
-	"author": ["Andreas Franke", "Michael Kohlhase"],
-	"booktitle": "CADE",
+	"author": [
+		"Andreas Franke",
+		"Michael Kohlhase"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1999",
 	"dblpkey": "conf/cade/FrankeK99",
 	"doi": "10.1007/3-540-48660-7_17",
@@ -10,11 +14,32 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "math", "web", "an", "agent", "base", "communic", "layer", "for", "distribut", "autom", "theorem", "prove"],
-	"tag": ["automation", "communication", "distributed", "proving", "theorem proving"],
+	"stemmed": [
+		"system",
+		"descript",
+		"math",
+		"web",
+		"an",
+		"agent",
+		"base",
+		"communic",
+		"layer",
+		"for",
+		"distribut",
+		"autom",
+		"theorem",
+		"prove"
+	],
+	"tag": [
+		"automation",
+		"communication",
+		"distributed",
+		"proving",
+		"theorem proving"
+	],
 	"title": "System Description: MathWeb, an Agent-Based Communication Layer for Distributed Automated Theorem Proving",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1632,
+	"volume": "1632",
 	"year": 1999
 }

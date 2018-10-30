@@ -1,6 +1,7 @@
 {
 	"author": "Siani Baker",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/Baker94",
 	"doi": "10.1007/3-540-58156-1_13",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "new", "applic", "for", "explan", "base", "generalis", "within", "autom", "deduct"],
-	"tag": ["automation", "deduction"],
+	"stemmed": [
+		"a",
+		"new",
+		"applic",
+		"for",
+		"explan",
+		"base",
+		"generalis",
+		"within",
+		"autom",
+		"deduct"
+	],
+	"tag": [
+		"automation",
+		"deduction"
+	],
 	"title": "A New Application for Explanation-Based Generalisation within Automated Deduction",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

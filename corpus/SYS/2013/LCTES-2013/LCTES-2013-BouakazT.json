@@ -1,14 +1,33 @@
 {
-	"author": ["Adnan Bouakaz", "Jean-Pierre Talpin"],
-	"booktitle": "LCTES",
+	"author": [
+		"Adnan Bouakaz",
+		"Jean-Pierre Talpin"
+	],
+	"booktitle": "Proceedings of the 14th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2013",
 	"dblpkey": "conf/lctrts/BouakazT13",
 	"doi": "10.1145/2465554.2465558",
 	"ee": "http://doi.acm.org/10.1145/2465554.2465558",
 	"pages": "133-142",
 	"publisher": "ACM",
-	"stemmed": ["buffer", "minim", "in", "earliest", "deadlin", "first", "schedul", "of", "dataflow", "graph"],
-	"tag": ["data flow", "graph", "scheduling"],
+	"stemmed": [
+		"buffer",
+		"minim",
+		"in",
+		"earliest",
+		"deadlin",
+		"first",
+		"schedul",
+		"of",
+		"dataflow",
+		"graph"
+	],
+	"tag": [
+		"data flow",
+		"graph",
+		"scheduling"
+	],
 	"title": "Buffer minimization in earliest-deadline first scheduling of dataflow graphs",
 	"type": "inproceedings",
 	"venue": "LCTES",

@@ -1,14 +1,33 @@
 {
-	"author": ["Tong Xiao", "Malgorzata Marek-Sadowska"],
-	"booktitle": "DAC",
+	"author": [
+		"Tong Xiao",
+		"Malgorzata Marek-Sadowska"
+	],
+	"booktitle": "Proceedings of the 38th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2001",
 	"dblpkey": "conf/dac/XiaoM01",
 	"doi": "10.1145/378239.379041",
 	"ee": "http://doi.acm.org/10.1145/378239.379041",
 	"pages": "653-656",
 	"publisher": "ACM",
-	"stemmed": ["function", "correl", "analysi", "in", "crosstalk", "induc", "critic", "path", "identif"],
-	"tag": ["analysis", "correlation", "functional", "identification"],
+	"stemmed": [
+		"function",
+		"correl",
+		"analysi",
+		"in",
+		"crosstalk",
+		"induc",
+		"critic",
+		"path",
+		"identif"
+	],
+	"tag": [
+		"analysis",
+		"correlation",
+		"functional",
+		"identification"
+	],
 	"title": "Functional Correlation Analysis in Crosstalk Induced Critical Paths Identification",
 	"type": "inproceedings",
 	"venue": "DAC",

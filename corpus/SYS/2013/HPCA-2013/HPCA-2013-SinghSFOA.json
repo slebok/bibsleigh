@@ -1,15 +1,34 @@
 {
-	"author": ["Inderpreet Singh", "Arrvindh Shriraman", "Wilson W. L. Fung", "Mike O'Connor", "Tor M. Aamodt"],
-	"booktitle": "HPCA",
+	"author": [
+		"Inderpreet Singh",
+		"Arrvindh Shriraman",
+		"Wilson W. L. Fung",
+		"Mike O'Connor",
+		"Tor M. Aamodt"
+	],
+	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/SinghSFOA13",
 	"doi": "10.1109/HPCA.2013.6522351",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522351", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522351"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2013.6522351",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522351"
+	],
 	"pages": "578-590",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["cach", "coher", "for", "gpu", "architectur"],
-	"tag": ["architecture", "gpu"],
+	"stemmed": [
+		"cach",
+		"coher",
+		"for",
+		"gpu",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"gpu"
+	],
 	"title": "Cache coherence for GPU architectures",
 	"type": "inproceedings",
 	"venue": "HPCA",

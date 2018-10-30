@@ -1,6 +1,11 @@
 {
-	"author": ["Wei-Chung Cheng", "Yu Hou", "Massoud Pedram"],
-	"booktitle": "DATE",
+	"author": [
+		"Wei-Chung Cheng",
+		"Yu Hou",
+		"Massoud Pedram"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/ChengHP04",
 	"doi": "10.1109/DATE.2004.1268857",
@@ -8,8 +13,27 @@
 	"pages": "252-259",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["power", "minim", "in", "a", "backlit", "tft", "lcd", "display", "by", "concurr", "bright", "and", "contrast", "scale"],
-	"tag": ["concurrent", "power management", "scalability"],
+	"stemmed": [
+		"power",
+		"minim",
+		"in",
+		"a",
+		"backlit",
+		"tft",
+		"lcd",
+		"display",
+		"by",
+		"concurr",
+		"bright",
+		"and",
+		"contrast",
+		"scale"
+	],
+	"tag": [
+		"concurrent",
+		"power management",
+		"scalability"
+	],
 	"title": "Power Minimization in a Backlit TFT-LCD Display by Concurrent Brightness and Contrast Scaling",
 	"type": "inproceedings",
 	"venue": "DATE",

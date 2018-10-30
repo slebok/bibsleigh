@@ -1,14 +1,29 @@
 {
-	"author": ["Yehuda Koren", "Stephen C. North", "Chris Volinsky"],
-	"booktitle": "KDD",
+	"author": [
+		"Yehuda Koren",
+		"Stephen C. North",
+		"Chris Volinsky"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/KorenNV06",
 	"doi": "10.1145/1150402.1150432",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150432",
 	"pages": "245-255",
 	"publisher": "ACM",
-	"stemmed": ["measur", "and", "extract", "proxim", "in", "network"],
-	"tag": ["network", "proximity"],
+	"stemmed": [
+		"measur",
+		"and",
+		"extract",
+		"proxim",
+		"in",
+		"network"
+	],
+	"tag": [
+		"network",
+		"proximity"
+	],
 	"title": "Measuring and extracting proximity in networks",
 	"type": "inproceedings",
 	"venue": "KDD",

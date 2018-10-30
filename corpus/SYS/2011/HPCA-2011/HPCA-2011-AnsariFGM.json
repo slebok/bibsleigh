@@ -1,15 +1,41 @@
 {
-	"author": ["Amin Ansari", "Shuguang Feng", "Shantanu Gupta", "Scott A. Mahlke"],
-	"booktitle": "HPCA",
+	"author": [
+		"Amin Ansari",
+		"Shuguang Feng",
+		"Shantanu Gupta",
+		"Scott A. Mahlke"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2011",
 	"dblpkey": "conf/hpca/AnsariFGM11",
 	"doi": "10.1109/HPCA.2011.5749758",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2011.5749758", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2011.5749758"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2011.5749758",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2011.5749758"
+	],
 	"pages": "539-550",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["archipelago", "a", "polymorph", "cach", "design", "for", "enabl", "robust", "near", "threshold", "oper"],
-	"tag": ["design", "named", "polymorphism", "robust"],
+	"stemmed": [
+		"archipelago",
+		"a",
+		"polymorph",
+		"cach",
+		"design",
+		"for",
+		"enabl",
+		"robust",
+		"near",
+		"threshold",
+		"oper"
+	],
+	"tag": [
+		"design",
+		"named",
+		"polymorphism",
+		"robust"
+	],
 	"title": "Archipelago: A polymorphic cache design for enabling robust near-threshold operation",
 	"type": "inproceedings",
 	"venue": "HPCA",

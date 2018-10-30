@@ -1,13 +1,35 @@
 {
-	"acmid": 809076,
-	"author": ["Donald M. Schuler", "Ernst G. Ulrich", "Thomas E. Baker", "Susan P. Bryant"],
-	"booktitle": "DAC",
+	"acmid": "809076",
+	"author": [
+		"Donald M. Schuler",
+		"Ernst G. Ulrich",
+		"Thomas E. Baker",
+		"Susan P. Bryant"
+	],
+	"booktitle": "Proceedings of the 12th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1975",
 	"dblpkey": "conf/dac/SchulerUBB75",
 	"pages": "261-267",
 	"publisher": "ACM",
-	"stemmed": ["random", "test", "generat", "use", "concurr", "logic", "simul"],
-	"tag": ["concurrent", "generative", "logic", "random testing", "simulation", "testing", "using"],
+	"stemmed": [
+		"random",
+		"test",
+		"generat",
+		"use",
+		"concurr",
+		"logic",
+		"simul"
+	],
+	"tag": [
+		"concurrent",
+		"generative",
+		"logic",
+		"random testing",
+		"simulation",
+		"testing",
+		"using"
+	],
 	"title": "Random test generation using concurrent logic simulation",
 	"type": "inproceedings",
 	"venue": "DAC",

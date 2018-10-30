@@ -1,14 +1,34 @@
 {
-	"author": ["Wen-Chung Tsai", "Deng-Yuan Zheng", "Sao-Jie Chen", "Yu Hen Hu"],
-	"booktitle": "DAC",
+	"author": [
+		"Wen-Chung Tsai",
+		"Deng-Yuan Zheng",
+		"Sao-Jie Chen",
+		"Yu Hen Hu"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/TsaiZCH11",
 	"doi": "10.1145/2024724.2024929",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024929",
 	"pages": "918-923",
 	"publisher": "ACM",
-	"stemmed": ["a", "fault", "toler", "no", "c", "scheme", "use", "bidirect", "channel"],
-	"tag": ["bidirectional", "fault tolerance", "using"],
+	"stemmed": [
+		"a",
+		"fault",
+		"toler",
+		"no",
+		"c",
+		"scheme",
+		"use",
+		"bidirect",
+		"channel"
+	],
+	"tag": [
+		"bidirectional",
+		"fault tolerance",
+		"using"
+	],
 	"title": "A fault-tolerant NoC scheme using bidirectional channel",
 	"type": "inproceedings",
 	"venue": "DAC",

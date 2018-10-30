@@ -1,6 +1,10 @@
 {
-	"author": ["Martin Alt", "Florian Martin"],
+	"author": [
+		"Martin Alt",
+		"Florian Martin"
+	],
 	"booktitle": "Proceedings of the Second International Static Analysis Symposium",
+	"booktitleshort": "SAS",
 	"crossref": "conf/sas/95",
 	"dblpkey": "conf/sas/AltM95",
 	"doi": "10.1007/3-540-60360-3_31",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["generat", "of", "effici", "interprocedur", "analyz", "with", "pag"],
-	"tag": ["generative", "interprocedural", "performance"],
+	"stemmed": [
+		"generat",
+		"of",
+		"effici",
+		"interprocedur",
+		"analyz",
+		"with",
+		"pag"
+	],
+	"tag": [
+		"generative",
+		"interprocedural",
+		"performance"
+	],
 	"title": "Generation of Efficient Interprocedural Analyzers with PAG",
 	"type": "inproceedings",
 	"venue": "SAS",
-	"volume": 983,
+	"volume": "983",
 	"year": 1995
 }

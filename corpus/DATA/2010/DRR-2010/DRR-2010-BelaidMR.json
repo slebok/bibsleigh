@@ -1,6 +1,11 @@
 {
-	"author": ["Abdel Belaïd", "T. Moinel", "Yves Rangoni"],
-	"booktitle": "DRR",
+	"author": [
+		"Abdel Belaïd",
+		"T. Moinel",
+		"Yves Rangoni"
+	],
+	"booktitle": "Proceedings of the 17th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2010",
 	"dblpkey": "conf/drr/BelaidMR10",
 	"doi": "10.1117/12.839794",
@@ -8,11 +13,23 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["improv", "chaid", "algorithm", "for", "document", "structur", "model"],
-	"tag": ["algorithm", "documentation", "modelling"],
+	"stemmed": [
+		"improv",
+		"chaid",
+		"algorithm",
+		"for",
+		"document",
+		"structur",
+		"model"
+	],
+	"tag": [
+		"algorithm",
+		"documentation",
+		"modelling"
+	],
 	"title": "Improved CHAID algorithm for document structure modelling",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7534,
+	"volume": "7534",
 	"year": 2010
 }

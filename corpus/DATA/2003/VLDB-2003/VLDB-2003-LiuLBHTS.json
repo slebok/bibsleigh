@@ -1,12 +1,38 @@
 {
-	"author": ["Chengfei Liu", "Bruce G. Lindsay", "Serge Bourbonnais", "Elizabeth Hamel", "Tuong C. Truong", "Jens Stankiewitz"],
-	"booktitle": "VLDB",
+	"author": [
+		"Chengfei Liu",
+		"Bruce G. Lindsay",
+		"Serge Bourbonnais",
+		"Elizabeth Hamel",
+		"Tuong C. Truong",
+		"Jens Stankiewitz"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/LiuLBHTS03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S29P03.pdf",
 	"pages": "987-996",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["captur", "global", "transact", "from", "multipl", "recoveri", "log", "file", "in", "a", "partit", "databas", "system"],
-	"tag": ["database", "multi", "transaction"],
+	"stemmed": [
+		"captur",
+		"global",
+		"transact",
+		"from",
+		"multipl",
+		"recoveri",
+		"log",
+		"file",
+		"in",
+		"a",
+		"partit",
+		"databas",
+		"system"
+	],
+	"tag": [
+		"database",
+		"multi",
+		"transaction"
+	],
 	"title": "Capturing Global Transactions from Multiple Recovery Log Files in a Partitioned Database System",
 	"type": "inproceedings",
 	"venue": "VLDB",

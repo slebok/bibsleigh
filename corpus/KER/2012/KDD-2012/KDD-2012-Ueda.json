@@ -1,14 +1,23 @@
 {
 	"author": "Naonori Ueda",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/Ueda12",
 	"doi": "10.1145/2339530.2339659",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339659",
-	"pages": 815,
+	"pages": "815",
 	"publisher": "ACM",
-	"stemmed": ["bayesian", "relat", "data", "analysi"],
-	"tag": ["data analysis", "relational"],
+	"stemmed": [
+		"bayesian",
+		"relat",
+		"data",
+		"analysi"
+	],
+	"tag": [
+		"data analysis",
+		"relational"
+	],
 	"title": "Bayesian relational data analysis",
 	"type": "inproceedings",
 	"venue": "KDD",

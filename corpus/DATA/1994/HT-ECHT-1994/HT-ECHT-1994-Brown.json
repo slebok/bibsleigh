@@ -1,6 +1,7 @@
 {
 	"author": "Peter J. Brown",
-	"booktitle": "ECHT",
+	"booktitle": "Proceedings of the European Conference on Hypertext Technology",
+	"booktitleshort": "HT/ECHT",
 	"cdrom": "ECHT1994/P051.pdf",
 	"crossref": "conf/echt/94",
 	"dblpkey": "conf/echt/Brown94",
@@ -8,8 +9,22 @@
 	"ee": "http://doi.acm.org/10.1145/192757.192769",
 	"pages": "51-58",
 	"publisher": "ACM",
-	"stemmed": ["ad", "network", "to", "hypertext", "can", "it", "be", "done", "transpar"],
-	"tag": ["hypermedia", "network", "question"],
+	"stemmed": [
+		"ad",
+		"network",
+		"to",
+		"hypertext",
+		"can",
+		"it",
+		"be",
+		"done",
+		"transpar"
+	],
+	"tag": [
+		"hypermedia",
+		"network",
+		"question"
+	],
 	"title": "Adding Networking to Hypertext: Can it be Done Transparently?",
 	"type": "inproceedings",
 	"venue": "HT",

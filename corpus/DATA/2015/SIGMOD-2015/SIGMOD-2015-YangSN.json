@@ -1,6 +1,10 @@
 {
-	"author": ["Bin Yang", "Issei Sato", "Hiroshi Nakagawa"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Bin Yang",
+		"Issei Sato",
+		"Hiroshi Nakagawa"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/YangSN15",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2747643",
 	"pages": "747-762",
 	"publisher": "ACM",
-	"stemmed": ["bayesian", "differenti", "privaci", "on", "correl", "data"],
-	"tag": ["correlation", "difference", "privacy"],
+	"stemmed": [
+		"bayesian",
+		"differenti",
+		"privaci",
+		"on",
+		"correl",
+		"data"
+	],
+	"tag": [
+		"correlation",
+		"difference",
+		"privacy"
+	],
 	"title": "Bayesian Differential Privacy on Correlated Data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

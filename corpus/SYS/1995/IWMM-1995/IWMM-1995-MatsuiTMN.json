@@ -1,6 +1,12 @@
 {
-	"author": ["Shogo Matsui", "Yoshio Tanaka", "Atsushi Maeda", "Masakazu Nakanishi"],
-	"booktitle": "IWMM",
+	"author": [
+		"Shogo Matsui",
+		"Yoshio Tanaka",
+		"Atsushi Maeda",
+		"Masakazu Nakanishi"
+	],
+	"booktitle": "Proceedings of the Second International Workshop on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/95",
 	"dblpkey": "conf/iwmm/MatsuiTMN95",
 	"doi": "10.1007/3-540-60368-9_23",
@@ -10,11 +16,17 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["complementari", "garbag", "collector"],
-	"tag": ["garbage collection"],
+	"stemmed": [
+		"complementari",
+		"garbag",
+		"collector"
+	],
+	"tag": [
+		"garbage collection"
+	],
 	"title": "Complementary Garbage Collector",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 986,
+	"volume": "986",
 	"year": 1995
 }

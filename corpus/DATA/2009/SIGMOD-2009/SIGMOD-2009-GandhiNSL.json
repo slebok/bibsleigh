@@ -1,6 +1,11 @@
 {
-	"author": ["Sorabh Gandhi", "Suman Nath", "Subhash Suri", "Jie Liu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Sorabh Gandhi",
+		"Suman Nath",
+		"Subhash Suri",
+		"Jie Liu"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/GandhiNSL09",
@@ -8,8 +13,23 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559926",
 	"pages": "771-784",
 	"publisher": "ACM",
-	"stemmed": ["gamp", "compress", "multi", "sensor", "data", "by", "group", "and", "amplitud", "scale"],
-	"tag": ["multi", "named", "scalability"],
+	"stemmed": [
+		"gamp",
+		"compress",
+		"multi",
+		"sensor",
+		"data",
+		"by",
+		"group",
+		"and",
+		"amplitud",
+		"scale"
+	],
+	"tag": [
+		"multi",
+		"named",
+		"scalability"
+	],
 	"title": "GAMPS: compressing multi sensor data by grouping and amplitude scaling",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

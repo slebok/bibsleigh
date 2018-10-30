@@ -1,6 +1,12 @@
 {
-	"author": ["Dong Hyuk Woo", "Nak Hee Seong", "Dean L. Lewis", "Hsien-Hsin S. Lee"],
-	"booktitle": "HPCA",
+	"author": [
+		"Dong Hyuk Woo",
+		"Nak Hee Seong",
+		"Dean L. Lewis",
+		"Hsien-Hsin S. Lee"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2010",
 	"dblpkey": "conf/hpca/WooSLL10",
 	"doi": "10.1109/HPCA.2010.5416628",
@@ -8,8 +14,26 @@
 	"pages": "1-12",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["an", "optim", "d", "stack", "memori", "architectur", "by", "exploit", "excess", "high", "densiti", "tsv", "bandwidth"],
-	"tag": ["3d", "architecture", "memory management"],
+	"stemmed": [
+		"an",
+		"optim",
+		"d",
+		"stack",
+		"memori",
+		"architectur",
+		"by",
+		"exploit",
+		"excess",
+		"high",
+		"densiti",
+		"tsv",
+		"bandwidth"
+	],
+	"tag": [
+		"3d",
+		"architecture",
+		"memory management"
+	],
 	"title": "An optimized 3D-stacked memory architecture by exploiting excessive, high-density TSV bandwidth",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,13 +1,34 @@
 {
-	"author": ["David Knapp", "Tai Ly", "Don MacMillen", "Ron Miller"],
-	"booktitle": "DAC",
+	"author": [
+		"David Knapp",
+		"Tai Ly",
+		"Don MacMillen",
+		"Ron Miller"
+	],
+	"booktitle": "Proceedings of the 32nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/KnappLMM95",
 	"doi": "10.1145/217474.217543",
 	"ee": "http://doi.acm.org/10.1145/217474.217543",
 	"pages": "286-291",
 	"publisher": "ACM Press",
-	"stemmed": ["behavior", "synthesi", "methodolog", "for", "hdl", "base", "specif", "and", "valid"],
-	"tag": ["behaviour", "specification", "synthesis", "validation"],
+	"stemmed": [
+		"behavior",
+		"synthesi",
+		"methodolog",
+		"for",
+		"hdl",
+		"base",
+		"specif",
+		"and",
+		"valid"
+	],
+	"tag": [
+		"behaviour",
+		"specification",
+		"synthesis",
+		"validation"
+	],
 	"title": "Behavioral Synthesis Methodology for HDL-Based Specification and Validation",
 	"type": "inproceedings",
 	"venue": "DAC",

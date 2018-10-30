@@ -1,6 +1,7 @@
 {
 	"author": "David M. Levy",
-	"booktitle": "ECHT",
+	"booktitle": "Proceedings of the European Conference on Hypertext Technology",
+	"booktitleshort": "HT/ECHT",
 	"cdrom": "ECHT1994/P024.pdf",
 	"crossref": "conf/echt/94",
 	"dblpkey": "conf/echt/Levy94",
@@ -8,8 +9,19 @@
 	"ee": "http://doi.acm.org/10.1145/192757.192760",
 	"pages": "24-31",
 	"publisher": "ACM",
-	"stemmed": ["fix", "or", "fluid", "document", "stabil", "and", "new", "media"],
-	"tag": ["documentation"],
+	"stemmed": [
+		"fix",
+		"or",
+		"fluid",
+		"document",
+		"stabil",
+		"and",
+		"new",
+		"media"
+	],
+	"tag": [
+		"documentation"
+	],
 	"title": "Fixed or Fluid? Document Stability and New Media",
 	"type": "inproceedings",
 	"venue": "HT",

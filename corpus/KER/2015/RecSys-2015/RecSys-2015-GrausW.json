@@ -1,14 +1,35 @@
 {
-	"author": ["Mark P. Graus", "Martijn C. Willemsen"],
-	"booktitle": "RecSys",
+	"author": [
+		"Mark P. Graus",
+		"Martijn C. Willemsen"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2015",
 	"dblpkey": "conf/recsys/GrausW15",
 	"doi": "10.1145/2792838.2799681",
 	"ee": "http://doi.acm.org/10.1145/2792838.2799681",
 	"pages": "273-276",
 	"publisher": "ACM",
-	"stemmed": ["improv", "the", "user", "experi", "dure", "cold", "start", "through", "choic", "base", "prefer", "elicit"],
-	"tag": ["elicitation", "experience", "user interface"],
+	"stemmed": [
+		"improv",
+		"the",
+		"user",
+		"experi",
+		"dure",
+		"cold",
+		"start",
+		"through",
+		"choic",
+		"base",
+		"prefer",
+		"elicit"
+	],
+	"tag": [
+		"elicitation",
+		"experience",
+		"user interface"
+	],
 	"title": "Improving the User Experience during Cold Start through Choice-Based Preference Elicitation",
 	"type": "inproceedings",
 	"venue": "RecSys",

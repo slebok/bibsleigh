@@ -1,13 +1,26 @@
 {
-	"author": ["Ashok Joshi", "William Bridge", "Juan Loaiza", "Tirthankar Lahiri"],
-	"booktitle": "VLDB",
-	"cite": ["journals/csur/HarderR83", "..."],
+	"author": [
+		"Ashok Joshi",
+		"William Bridge",
+		"Juan Loaiza",
+		"Tirthankar Lahiri"
+	],
+	"booktitle": "Proceedings of the 24th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/csur/HarderR83",
+		"..."
+	],
 	"crossref": "conf/vldb/98",
 	"dblpkey": "conf/vldb/JoshiBLL98",
 	"ee": "http://www.vldb.org/conf/1998/p665.pdf",
 	"pages": "665-668",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["checkpoint", "in", "oracl"],
+	"stemmed": [
+		"checkpoint",
+		"in",
+		"oracl"
+	],
 	"title": "Checkpointing in Oracle",
 	"type": "inproceedings",
 	"venue": "VLDB",

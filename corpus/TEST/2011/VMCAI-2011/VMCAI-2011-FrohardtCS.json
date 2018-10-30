@@ -1,6 +1,11 @@
 {
-	"author": ["Robert Frohardt", "Bor-Yuh Evan Chang", "Sriram Sankaranarayanan"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Robert Frohardt",
+		"Bor-Yuh Evan Chang",
+		"Sriram Sankaranarayanan"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2011",
 	"dblpkey": "conf/vmcai/FrohardtCS11",
 	"doi": "10.1007/978-3-642-18275-4_14",
@@ -10,11 +15,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["access", "net", "model", "access", "to", "physic", "space"],
-	"tag": ["modelling", "physics"],
+	"stemmed": [
+		"access",
+		"net",
+		"model",
+		"access",
+		"to",
+		"physic",
+		"space"
+	],
+	"tag": [
+		"modelling",
+		"physics"
+	],
 	"title": "Access Nets: Modeling Access to Physical Spaces",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 6538,
+	"volume": "6538",
 	"year": 2011
 }

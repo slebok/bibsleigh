@@ -1,13 +1,29 @@
 {
-	"author": ["Binh Vo", "Gurmeet Singh Manku"],
-	"booktitle": "VLDB",
+	"author": [
+		"Binh Vo",
+		"Gurmeet Singh Manku"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/VoM07",
 	"ee": "http://www.vldb.org/conf/2007/papers/industrial/p1162-vo.pdf",
 	"pages": "1162-1172",
 	"publisher": "ACM",
-	"stemmed": ["radix", "zip", "linear", "time", "compress", "of", "token", "stream"],
-	"tag": ["linear", "named"],
+	"stemmed": [
+		"radix",
+		"zip",
+		"linear",
+		"time",
+		"compress",
+		"of",
+		"token",
+		"stream"
+	],
+	"tag": [
+		"linear",
+		"named"
+	],
 	"title": "RadixZip: Linear-Time Compression of Token Streams",
 	"type": "inproceedings",
 	"venue": "VLDB",

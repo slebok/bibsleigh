@@ -1,6 +1,13 @@
 {
-	"author": ["Steven P. Callahan", "Juliana Freire", "Emanuele Santos", "Carlos Eduardo Scheidegger", "Cláudio T. Silva", "Huy T. Vo"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Steven P. Callahan",
+		"Juliana Freire",
+		"Emanuele Santos",
+		"Carlos Eduardo Scheidegger",
+		"Cláudio T. Silva",
+		"Huy T. Vo"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/CallahanFSSSV06",
@@ -8,8 +15,19 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142574",
 	"pages": "745-747",
 	"publisher": "ACM",
-	"stemmed": ["vis", "trail", "visual", "meet", "data", "manag"],
-	"tag": ["data transformation", "named", "visualisation"],
+	"stemmed": [
+		"vis",
+		"trail",
+		"visual",
+		"meet",
+		"data",
+		"manag"
+	],
+	"tag": [
+		"data transformation",
+		"named",
+		"visualisation"
+	],
 	"title": "VisTrails: visualization meets data management",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

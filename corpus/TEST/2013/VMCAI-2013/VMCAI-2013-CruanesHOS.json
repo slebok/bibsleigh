@@ -1,6 +1,12 @@
 {
-	"author": ["Simon Cruanes", "Grégoire Hamon", "Sam Owre", "Natarajan Shankar"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Simon Cruanes",
+		"Grégoire Hamon",
+		"Sam Owre",
+		"Natarajan Shankar"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2013",
 	"dblpkey": "conf/vmcai/CruanesHOS13",
 	"doi": "10.1007/978-3-642-35873-9_18",
@@ -10,11 +16,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["tool", "integr", "with", "the", "evidenti", "tool", "bus"],
-	"tag": ["integration", "tool support"],
+	"stemmed": [
+		"tool",
+		"integr",
+		"with",
+		"the",
+		"evidenti",
+		"tool",
+		"bus"
+	],
+	"tag": [
+		"integration",
+		"tool support"
+	],
 	"title": "Tool Integration with the Evidential Tool Bus",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 7737,
+	"volume": "7737",
 	"year": 2013
 }

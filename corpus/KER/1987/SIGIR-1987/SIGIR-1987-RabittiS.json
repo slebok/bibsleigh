@@ -1,6 +1,10 @@
 {
-	"author": ["Fausto Rabitti", "Peter L. Stanchev"],
+	"author": [
+		"Fausto Rabitti",
+		"Peter L. Stanchev"
+	],
 	"booktitle": "Proceedings of the 10th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1987/P284.pdf",
 	"crossref": "conf/sigir/87",
 	"dblpkey": "conf/sigir/RabittiS87",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/42005.42037",
 	"pages": "284-295",
 	"publisher": "ACM",
-	"stemmed": ["an", "approach", "to", "imag", "retriev", "from", "larg", "imag", "databas"],
-	"tag": ["approach", "database", "image", "retrieval", "scalability"],
+	"stemmed": [
+		"an",
+		"approach",
+		"to",
+		"imag",
+		"retriev",
+		"from",
+		"larg",
+		"imag",
+		"databas"
+	],
+	"tag": [
+		"approach",
+		"database",
+		"image",
+		"retrieval",
+		"scalability"
+	],
 	"title": "An Approach to Image Retrieval from Large Image Databases",
 	"type": "inproceedings",
 	"venue": "SIGIR",

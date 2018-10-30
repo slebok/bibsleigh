@@ -1,14 +1,29 @@
 {
-	"author": ["Benjamin Wester", "David Devecsery", "Peter M. Chen", "Jason Flinn", "Satish Narayanasamy"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Benjamin Wester",
+		"David Devecsery",
+		"Peter M. Chen",
+		"Jason Flinn",
+		"Satish Narayanasamy"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2013",
 	"dblpkey": "conf/asplos/WesterDCFN13",
 	"doi": "10.1145/2451116.2451120",
 	"ee": "http://doi.acm.org/10.1145/2451116.2451120",
 	"pages": "27-38",
 	"publisher": "ACM",
-	"stemmed": ["parallel", "data", "race", "detect"],
-	"tag": ["concurrent", "detection"],
+	"stemmed": [
+		"parallel",
+		"data",
+		"race",
+		"detect"
+	],
+	"tag": [
+		"concurrent",
+		"detection"
+	],
 	"title": "Parallelizing data race detection",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

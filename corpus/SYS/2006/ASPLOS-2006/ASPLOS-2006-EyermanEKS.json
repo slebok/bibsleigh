@@ -1,14 +1,34 @@
 {
-	"author": ["Stijn Eyerman", "Lieven Eeckhout", "Tejas Karkhanis", "James E. Smith"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Stijn Eyerman",
+		"Lieven Eeckhout",
+		"Tejas Karkhanis",
+		"James E. Smith"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/EyermanEKS06",
 	"doi": "10.1145/1168857.1168880",
 	"ee": "http://doi.acm.org/10.1145/1168857.1168880",
 	"pages": "175-184",
 	"publisher": "ACM",
-	"stemmed": ["a", "perform", "counter", "architectur", "for", "comput", "accur", "cpi", "compon"],
-	"tag": ["architecture", "component", "performance"],
+	"stemmed": [
+		"a",
+		"perform",
+		"counter",
+		"architectur",
+		"for",
+		"comput",
+		"accur",
+		"cpi",
+		"compon"
+	],
+	"tag": [
+		"architecture",
+		"component",
+		"performance"
+	],
 	"title": "A performance counter architecture for computing accurate CPI components",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

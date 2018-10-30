@@ -1,14 +1,37 @@
 {
-	"author": ["Ethan R. Elenberg", "Karthikeyan Shanmugam", "Michael Borokhovich", "Alexandros G. Dimakis"],
-	"booktitle": "KDD",
+	"author": [
+		"Ethan R. Elenberg",
+		"Karthikeyan Shanmugam",
+		"Michael Borokhovich",
+		"Alexandros G. Dimakis"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/ElenbergSBD15",
 	"doi": "10.1145/2783258.2783413",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783413",
 	"pages": "229-238",
 	"publisher": "ACM",
-	"stemmed": ["beyond", "triangl", "a", "distribut", "framework", "for", "estim", "profil", "of", "larg", "graph"],
-	"tag": ["distributed", "framework", "graph", "scalability"],
+	"stemmed": [
+		"beyond",
+		"triangl",
+		"a",
+		"distribut",
+		"framework",
+		"for",
+		"estim",
+		"profil",
+		"of",
+		"larg",
+		"graph"
+	],
+	"tag": [
+		"distributed",
+		"framework",
+		"graph",
+		"scalability"
+	],
 	"title": "Beyond Triangles: A Distributed Framework for Estimating 3-profiles of Large Graphs",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,13 +1,31 @@
 {
-	"acmid": 800699,
-	"author": ["Eiji Tamura", "Kimihiro Ogawa", "Toshio Nakano"],
-	"booktitle": "DAC",
+	"acmid": "800699",
+	"author": [
+		"Eiji Tamura",
+		"Kimihiro Ogawa",
+		"Toshio Nakano"
+	],
+	"booktitle": "Proceedings of the 20th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1983",
 	"dblpkey": "conf/dac/TamuraON83",
 	"pages": "403-410",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["path", "delay", "analysi", "for", "hierarch", "build", "block", "layout", "system"],
-	"tag": ["analysis", "layout"],
+	"stemmed": [
+		"path",
+		"delay",
+		"analysi",
+		"for",
+		"hierarch",
+		"build",
+		"block",
+		"layout",
+		"system"
+	],
+	"tag": [
+		"analysis",
+		"layout"
+	],
 	"title": "Path delay analysis for hierarchical building block layout system",
 	"type": "inproceedings",
 	"venue": "DAC",

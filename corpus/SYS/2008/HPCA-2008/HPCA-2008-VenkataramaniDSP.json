@@ -1,6 +1,12 @@
 {
-	"author": ["Guru Venkataramani", "Ioannis Doudalis", "Yan Solihin", "Milos Prvulovic"],
-	"booktitle": "HPCA",
+	"author": [
+		"Guru Venkataramani",
+		"Ioannis Doudalis",
+		"Yan Solihin",
+		"Milos Prvulovic"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2008",
 	"dblpkey": "conf/hpca/VenkataramaniDSP08",
 	"doi": "10.1109/HPCA.2008.4658637",
@@ -8,8 +14,21 @@
 	"pages": "173-184",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["flexi", "taint", "a", "programm", "acceler", "for", "dynam", "taint", "propag"],
-	"tag": ["named", "programmable"],
+	"stemmed": [
+		"flexi",
+		"taint",
+		"a",
+		"programm",
+		"acceler",
+		"for",
+		"dynam",
+		"taint",
+		"propag"
+	],
+	"tag": [
+		"named",
+		"programmable"
+	],
 	"title": "FlexiTaint: A programmable accelerator for dynamic taint propagation",
 	"type": "inproceedings",
 	"venue": "HPCA",

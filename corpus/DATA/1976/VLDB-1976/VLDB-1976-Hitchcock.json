@@ -1,14 +1,38 @@
 {
 	"author": "Peter Hitchcock",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the Second International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB76/P169.PDF",
-	"cite": ["journals/tods/AstrahanBCEGGKLMMPTWW76", "conf/sigmod/ChamberlinB74", "conf/sigmod/Codd71", "persons/Codd71a", "persons/Codd72", "conf/popl/HallHT75", "...", "...", "...", "...", "..."],
+	"cite": [
+		"journals/tods/AstrahanBCEGGKLMMPTWW76",
+		"conf/sigmod/ChamberlinB74",
+		"conf/sigmod/Codd71",
+		"persons/Codd71a",
+		"persons/Codd72",
+		"conf/popl/HallHT75",
+		"...",
+		"...",
+		"...",
+		"...",
+		"..."
+	],
 	"crossref": "conf/vldb/76",
 	"dblpkey": "conf/vldb/Hitchcock76",
 	"pages": "169-180",
 	"publisher": "North Holland & IFIP",
-	"stemmed": ["user", "extens", "to", "the", "peterle", "relat", "test", "vehicl"],
-	"tag": ["relational"],
+	"stemmed": [
+		"user",
+		"extens",
+		"to",
+		"the",
+		"peterle",
+		"relat",
+		"test",
+		"vehicl"
+	],
+	"tag": [
+		"relational"
+	],
 	"title": "User Extensions to the Peterlee Relational Test Vehicle",
 	"type": "inproceedings",
 	"venue": "VLDB",

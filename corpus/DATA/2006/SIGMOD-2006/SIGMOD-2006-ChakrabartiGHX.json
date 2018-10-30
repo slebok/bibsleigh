@@ -1,6 +1,11 @@
 {
-	"author": ["Kaushik Chakrabarti", "Venkatesh Ganti", "Jiawei Han", "Dong Xin"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Kaushik Chakrabarti",
+		"Venkatesh Ganti",
+		"Jiawei Han",
+		"Dong Xin"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/ChakrabartiGHX06",
@@ -8,8 +13,16 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142516",
 	"pages": "371-382",
 	"publisher": "ACM",
-	"stemmed": ["rank", "object", "base", "on", "relationship"],
-	"tag": ["ranking"],
+	"stemmed": [
+		"rank",
+		"object",
+		"base",
+		"on",
+		"relationship"
+	],
+	"tag": [
+		"ranking"
+	],
 	"title": "Ranking objects based on relationships",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

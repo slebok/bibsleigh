@@ -1,6 +1,11 @@
 {
-	"author": ["Gennaro Costagliola", "Vincenzo Deufemia", "Michele Risi"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Gennaro Costagliola",
+		"Vincenzo Deufemia",
+		"Michele Risi"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/CostagliolaDR07",
 	"doi": "10.1109/ICDAR.2007.259",
@@ -8,8 +13,24 @@
 	"pages": "1078-1082",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["use", "grammar", "base", "recogn", "for", "symbol", "complet", "in", "diagrammat", "sketch"],
-	"tag": ["diagrams", "grammarware", "sketching", "using"],
+	"stemmed": [
+		"use",
+		"grammar",
+		"base",
+		"recogn",
+		"for",
+		"symbol",
+		"complet",
+		"in",
+		"diagrammat",
+		"sketch"
+	],
+	"tag": [
+		"diagrams",
+		"grammarware",
+		"sketching",
+		"using"
+	],
 	"title": "Using Grammar-Based Recognizers for Symbol Completion in Diagrammatic Sketches",
 	"type": "inproceedings",
 	"venue": "ICDAR",

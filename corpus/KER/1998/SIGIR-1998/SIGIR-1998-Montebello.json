@@ -1,6 +1,7 @@
 {
 	"author": "Matthew Montebello",
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P361.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/Montebello98",
@@ -8,8 +9,22 @@
 	"ee": "http://doi.acm.org/10.1145/290941.291052",
 	"pages": "361-362",
 	"publisher": "ACM",
-	"stemmed": ["optim", "recal", "precis", "score", "in", "ir", "over", "the", "www"],
-	"tag": ["information retrieval", "optimisation", "precise"],
+	"stemmed": [
+		"optim",
+		"recal",
+		"precis",
+		"score",
+		"in",
+		"ir",
+		"over",
+		"the",
+		"www"
+	],
+	"tag": [
+		"information retrieval",
+		"optimisation",
+		"precise"
+	],
 	"title": "Optimizing Recall/Precision Scores in IR over the WWW",
 	"type": "inproceedings",
 	"venue": "SIGIR",

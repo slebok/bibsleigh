@@ -1,6 +1,11 @@
 {
-	"author": ["James Cheng", "Yiping Ke", "Wilfred Ng", "An Lu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"James Cheng",
+		"Yiping Ke",
+		"Wilfred Ng",
+		"An Lu"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/ChengKNL07",
@@ -8,8 +13,25 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247574",
 	"pages": "857-872",
 	"publisher": "ACM",
-	"stemmed": ["fg", "index", "toward", "verif", "free", "queri", "process", "on", "graph", "databas"],
-	"tag": ["database", "graph", "named", "query", "towards"],
+	"stemmed": [
+		"fg",
+		"index",
+		"toward",
+		"verif",
+		"free",
+		"queri",
+		"process",
+		"on",
+		"graph",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"graph",
+		"named",
+		"query",
+		"towards"
+	],
 	"title": "Fg-index: towards verification-free query processing on graph databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

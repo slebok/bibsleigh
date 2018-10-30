@@ -1,16 +1,38 @@
 {
-	"acmid": 1022707,
-	"author": ["Dimitrios Velenis", "Marios C. Papaefthymiou", "Eby G. Friedman"],
-	"booktitle": "DATE",
+	"acmid": "1022707",
+	"author": [
+		"Dimitrios Velenis",
+		"Marios C. Papaefthymiou",
+		"Eby G. Friedman"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2003",
 	"dblpkey": "conf/date/VelenisPF03",
 	"doi": "10.1109/DATE.2003.10206",
-	"ee": ["http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10206", "http://dl.acm.org/citation.cfm?id=1022707"],
+	"ee": [
+		"http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10206",
+		"http://dl.acm.org/citation.cfm?id=1022707"
+	],
 	"pages": "10068-10075",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["reduc", "delay", "uncertainti", "in", "high", "perform", "clock", "distribut", "network"],
-	"tag": ["network", "nondeterminism", "performance"],
+	"stemmed": [
+		"reduc",
+		"delay",
+		"uncertainti",
+		"in",
+		"high",
+		"perform",
+		"clock",
+		"distribut",
+		"network"
+	],
+	"tag": [
+		"network",
+		"nondeterminism",
+		"performance"
+	],
 	"title": "Reduced Delay Uncertainty in High Performance Clock Distribution Networks",
 	"type": "inproceedings",
 	"venue": "DATE",

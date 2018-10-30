@@ -1,6 +1,7 @@
 {
 	"author": "K. Rustan M. Leino",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the 13th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2012",
 	"dblpkey": "conf/vmcai/Leino12",
 	"doi": "10.1007/978-3-642-27940-9_21",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["autom", "induct", "with", "an", "smt", "solver"],
-	"tag": ["automation", "induction", "smt"],
+	"stemmed": [
+		"autom",
+		"induct",
+		"with",
+		"an",
+		"smt",
+		"solver"
+	],
+	"tag": [
+		"automation",
+		"induction",
+		"smt"
+	],
 	"title": "Automating Induction with an SMT Solver",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 7148,
+	"volume": "7148",
 	"year": 2012
 }

@@ -1,13 +1,27 @@
 {
-	"author": ["Torsten Grust", "Sherif Sakr", "Jens Teubner"],
-	"booktitle": "VLDB",
+	"author": [
+		"Torsten Grust",
+		"Sherif Sakr",
+		"Jens Teubner"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/GrustST04",
 	"ee": "http://www.vldb.org/conf/2004/RS7P1.PDF",
 	"pages": "252-263",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["x", "queri", "on", "sql", "host"],
-	"tag": ["sql", "xquery"],
+	"stemmed": [
+		"x",
+		"queri",
+		"on",
+		"sql",
+		"host"
+	],
+	"tag": [
+		"sql",
+		"xquery"
+	],
 	"title": "XQuery on SQL Hosts",
 	"type": "inproceedings",
 	"venue": "VLDB",

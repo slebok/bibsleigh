@@ -1,14 +1,38 @@
 {
-	"author": ["Carlos Moreno", "Sebastian Fischmeister", "M. Anwar Hasan"],
-	"booktitle": "LCTES",
+	"author": [
+		"Carlos Moreno",
+		"Sebastian Fischmeister",
+		"M. Anwar Hasan"
+	],
+	"booktitle": "Proceedings of the 14th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2013",
 	"dblpkey": "conf/lctrts/MorenoFH13",
 	"doi": "10.1145/2465554.2465570",
 	"ee": "http://doi.acm.org/10.1145/2465554.2465570",
 	"pages": "77-88",
 	"publisher": "ACM",
-	"stemmed": ["non", "intrus", "program", "trace", "and", "debug", "of", "deploy", "embed", "system", "through", "side", "channel", "analysi"],
-	"tag": ["analysis", "debugging", "embedded"],
+	"stemmed": [
+		"non",
+		"intrus",
+		"program",
+		"trace",
+		"and",
+		"debug",
+		"of",
+		"deploy",
+		"embed",
+		"system",
+		"through",
+		"side",
+		"channel",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"debugging",
+		"embedded"
+	],
 	"title": "Non-intrusive program tracing and debugging of deployed embedded systems through side-channel analysis",
 	"type": "inproceedings",
 	"venue": "LCTES",

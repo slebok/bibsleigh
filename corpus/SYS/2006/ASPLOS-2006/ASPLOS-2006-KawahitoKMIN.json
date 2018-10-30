@@ -1,14 +1,35 @@
 {
-	"author": ["Motohiro Kawahito", "Hideaki Komatsu", "Takao Moriyama", "Hiroshi Inoue", "Toshio Nakatani"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Motohiro Kawahito",
+		"Hideaki Komatsu",
+		"Takao Moriyama",
+		"Hiroshi Inoue",
+		"Toshio Nakatani"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/KawahitoKMIN06",
 	"doi": "10.1145/1168857.1168905",
 	"ee": "http://doi.acm.org/10.1145/1168857.1168905",
 	"pages": "382-393",
 	"publisher": "ACM",
-	"stemmed": ["a", "new", "idiom", "recognit", "framework", "for", "exploit", "hardwar", "assist", "instruct"],
-	"tag": ["framework", "recognition"],
+	"stemmed": [
+		"a",
+		"new",
+		"idiom",
+		"recognit",
+		"framework",
+		"for",
+		"exploit",
+		"hardwar",
+		"assist",
+		"instruct"
+	],
+	"tag": [
+		"framework",
+		"recognition"
+	],
 	"title": "A new idiom recognition framework for exploiting hardware-assist instructions",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

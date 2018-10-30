@@ -1,6 +1,9 @@
 {
-	"author": ["Amol Ghoting", "Konstantin Makarychev"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Amol Ghoting",
+		"Konstantin Makarychev"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/GhotingM09",
@@ -8,8 +11,23 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559931",
 	"pages": "827-840",
 	"publisher": "ACM",
-	"stemmed": ["serial", "and", "parallel", "method", "for", "i", "o", "effici", "suffix", "tree", "construct"],
-	"tag": ["parallel", "performance"],
+	"stemmed": [
+		"serial",
+		"and",
+		"parallel",
+		"method",
+		"for",
+		"i",
+		"o",
+		"effici",
+		"suffix",
+		"tree",
+		"construct"
+	],
+	"tag": [
+		"parallel",
+		"performance"
+	],
 	"title": "Serial and parallel methods for i/o efficient suffix tree construction",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

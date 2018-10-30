@@ -1,15 +1,48 @@
 {
-	"author": ["Otto Nurmi", "Eljas Soisalon-Soininen"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS91/P192.PDF", "journals/anthology/dvd1:text/1-3/PODS91/P192.PDF"],
-	"cite": ["...", "journals/acta/Bayer72", "journals/cacm/DijkstraLMSS78", "...", "journals/acta/Ellis80", "conf/focs/GuibasS78", "journals/cacm/Kessels83", "journals/tods/KungL80", "journals/tods/ManberL84", "journals/siamcomp/McCreight85", "conf/pods/NurmiSW87", "journals/cacm/SarnakT86", "journals/cacm/StoutW86", "journals/ipl/Tarjan83", "..."],
+	"author": [
+		"Otto Nurmi",
+		"Eljas Soisalon-Soininen"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS91/P192.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS91/P192.PDF"
+	],
+	"cite": [
+		"...",
+		"journals/acta/Bayer72",
+		"journals/cacm/DijkstraLMSS78",
+		"...",
+		"journals/acta/Ellis80",
+		"conf/focs/GuibasS78",
+		"journals/cacm/Kessels83",
+		"journals/tods/KungL80",
+		"journals/tods/ManberL84",
+		"journals/siamcomp/McCreight85",
+		"conf/pods/NurmiSW87",
+		"journals/cacm/SarnakT86",
+		"journals/cacm/StoutW86",
+		"journals/ipl/Tarjan83",
+		"..."
+	],
 	"crossref": "conf/pods/91",
 	"dblpkey": "conf/pods/NurmiS91",
 	"doi": "10.1145/113413.113430",
 	"ee": "http://doi.acm.org/10.1145/113413.113430",
 	"pages": "192-198",
 	"publisher": "ACM Press",
-	"stemmed": ["uncoupl", "updat", "and", "rebalanc", "in", "chromat", "binari", "search", "tree"],
+	"stemmed": [
+		"uncoupl",
+		"updat",
+		"and",
+		"rebalanc",
+		"in",
+		"chromat",
+		"binari",
+		"search",
+		"tree"
+	],
 	"title": "Uncoupling Updating and Rebalancing in Chromatic Binary Search Trees",
 	"type": "inproceedings",
 	"venue": "PODS",

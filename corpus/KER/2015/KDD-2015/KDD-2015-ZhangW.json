@@ -1,14 +1,33 @@
 {
-	"author": ["Wei Zhang", "Jianyong Wang"],
-	"booktitle": "KDD",
+	"author": [
+		"Wei Zhang",
+		"Jianyong Wang"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/ZhangW15",
 	"doi": "10.1145/2783258.2783336",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783336",
 	"pages": "1455-1464",
 	"publisher": "ACM",
-	"stemmed": ["a", "collect", "bayesian", "poisson", "factor", "model", "for", "cold", "start", "local", "event", "recommend"],
-	"tag": ["recommendation"],
+	"stemmed": [
+		"a",
+		"collect",
+		"bayesian",
+		"poisson",
+		"factor",
+		"model",
+		"for",
+		"cold",
+		"start",
+		"local",
+		"event",
+		"recommend"
+	],
+	"tag": [
+		"recommendation"
+	],
 	"title": "A Collective Bayesian Poisson Factorization Model for Cold-start Local Event Recommendation",
 	"type": "inproceedings",
 	"venue": "KDD",

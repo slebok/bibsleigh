@@ -1,14 +1,31 @@
 {
 	"author": "Mahmut T. Kandemir",
 	"booktitle": "Proceedings of the 16th Symposium on Applied Computing",
+	"booktitleshort": "SAC",
 	"crossref": "conf/sac/2001",
 	"dblpkey": "conf/sac/Kandemir01",
 	"doi": "10.1145/372202.372788",
 	"ee": "http://doi.acm.org/10.1145/372202.372788",
 	"pages": "632-635",
 	"publisher": "ACM",
-	"stemmed": ["a", "dynam", "local", "optim", "algorithm", "for", "linear", "algebra", "code"],
-	"tag": ["algebra", "algorithm", "linear", "locality", "optimisation"],
+	"stemmed": [
+		"a",
+		"dynam",
+		"local",
+		"optim",
+		"algorithm",
+		"for",
+		"linear",
+		"algebra",
+		"code"
+	],
+	"tag": [
+		"algebra",
+		"algorithm",
+		"linear",
+		"locality",
+		"optimisation"
+	],
 	"title": "A dynamic locality optimization algorithm for linear algebra codes",
 	"type": "inproceedings",
 	"venue": "SAC",

@@ -1,13 +1,33 @@
 {
-	"author": ["Efthimia Aivaloglou", "David Hoepelman", "Felienne Hermans"],
-	"booktitle": "SCAM",
+	"author": [
+		"Efthimia Aivaloglou",
+		"David Hoepelman",
+		"Felienne Hermans"
+	],
+	"booktitle": "Proceedings of the 15th International Working Conference on Source Code Analysis and Manipulation",
+	"booktitleshort": "SCAM",
 	"crossref": "conf/scam/2015",
 	"dblpkey": "conf/scam/AivaloglouHH15",
 	"doi": "10.1109/SCAM.2015.7335408",
 	"pages": "121-130",
 	"publisher": "IEEE",
-	"stemmed": ["a", "grammar", "for", "spreadsheet", "formula", "evalu", "on", "two", "larg", "dataset"],
-	"tag": ["dataset", "scalability", "spreadsheet"],
+	"stemmed": [
+		"a",
+		"grammar",
+		"for",
+		"spreadsheet",
+		"formula",
+		"evalu",
+		"on",
+		"two",
+		"larg",
+		"dataset"
+	],
+	"tag": [
+		"dataset",
+		"scalability",
+		"spreadsheet"
+	],
 	"title": "A grammar for spreadsheet formulas evaluated on two large datasets",
 	"type": "inproceedings",
 	"venue": "SCAM",

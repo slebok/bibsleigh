@@ -1,6 +1,14 @@
 {
-	"author": ["Jianjun Chen", "Chris Douglas", "Michi Mutsuzaki", "Patrick Quaid", "Raghu Ramakrishnan", "Sriram Rao", "Russell Sears"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jianjun Chen",
+		"Chris Douglas",
+		"Michi Mutsuzaki",
+		"Patrick Quaid",
+		"Raghu Ramakrishnan",
+		"Sriram Rao",
+		"Russell Sears"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/ChenDMQRRS12",
@@ -8,8 +16,17 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213947",
 	"pages": "743-754",
 	"publisher": "ACM",
-	"stemmed": ["walnut", "a", "unifi", "cloud", "object", "store"],
-	"tag": ["named"],
+	"stemmed": [
+		"walnut",
+		"a",
+		"unifi",
+		"cloud",
+		"object",
+		"store"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "Walnut: a unified cloud object store",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

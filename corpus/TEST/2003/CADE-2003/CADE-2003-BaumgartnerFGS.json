@@ -1,6 +1,12 @@
 {
-	"author": ["Peter Baumgartner", "Ulrich Furbach", "Margret Groß-Hardt", "Alex Sinner"],
-	"booktitle": "CADE",
+	"author": [
+		"Peter Baumgartner",
+		"Ulrich Furbach",
+		"Margret Groß-Hardt",
+		"Alex Sinner"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2003",
 	"dblpkey": "conf/cade/BaumgartnerFGS03",
 	"doi": "10.1007/978-3-540-45085-6_23",
@@ -10,11 +16,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["live", "book", "deduct", "slice", "interact"],
-	"tag": ["deduction", "interactive", "quote", "slicing"],
+	"stemmed": [
+		"live",
+		"book",
+		"deduct",
+		"slice",
+		"interact"
+	],
+	"tag": [
+		"deduction",
+		"interactive",
+		"quote",
+		"slicing"
+	],
 	"title": "“Living Book” :- “Deduction”, “Slicing”, “Interaction”",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2741,
+	"volume": "2741",
 	"year": 2003
 }

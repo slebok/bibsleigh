@@ -1,6 +1,7 @@
 {
 	"author": "Robert Nieuwenhuis",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Sixth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2012",
 	"dblpkey": "conf/cade/Nieuwenhuis12",
 	"doi": "10.1007/978-3-642-31365-3_3",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["sat", "and", "smt", "are", "still", "resolut", "question", "and", "challeng"],
-	"tag": ["challenge", "satisfiability", "smt"],
+	"stemmed": [
+		"sat",
+		"and",
+		"smt",
+		"are",
+		"still",
+		"resolut",
+		"question",
+		"and",
+		"challeng"
+	],
+	"tag": [
+		"challenge",
+		"satisfiability",
+		"smt"
+	],
 	"title": "SAT and SMT Are Still Resolution: Questions and Challenges",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 7364,
+	"volume": "7364",
 	"year": 2012
 }

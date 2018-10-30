@@ -1,6 +1,11 @@
 {
-	"author": ["Moria Bergman", "Tova Milo", "Slava Novgorodov", "Wang Chiew Tan"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Moria Bergman",
+		"Tova Milo",
+		"Slava Novgorodov",
+		"Wang Chiew Tan"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/BergmanMNT15",
@@ -8,8 +13,17 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2737786",
 	"pages": "1199-1214",
 	"publisher": "ACM",
-	"stemmed": ["queri", "orient", "data", "clean", "with", "oracl"],
-	"tag": ["query"],
+	"stemmed": [
+		"queri",
+		"orient",
+		"data",
+		"clean",
+		"with",
+		"oracl"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Query-Oriented Data Cleaning with Oracles",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,36 @@
 {
-	"author": ["Rei Odaira", "José G. Castaños", "Hisanobu Tomari"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Rei Odaira",
+		"José G. Castaños",
+		"Hisanobu Tomari"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/OdairaCT14",
 	"doi": "10.1145/2555243.2555247",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555247",
 	"pages": "131-142",
 	"publisher": "ACM",
-	"stemmed": ["elimin", "global", "interpret", "lock", "in", "rubi", "through", "hardwar", "transact", "memori"],
-	"tag": ["hardware", "interpreter", "memory management", "ruby", "transaction"],
+	"stemmed": [
+		"elimin",
+		"global",
+		"interpret",
+		"lock",
+		"in",
+		"rubi",
+		"through",
+		"hardwar",
+		"transact",
+		"memori"
+	],
+	"tag": [
+		"hardware",
+		"interpreter",
+		"memory management",
+		"ruby",
+		"transaction"
+	],
 	"title": "Eliminating global interpreter locks in ruby through hardware transactional memory",
 	"type": "inproceedings",
 	"venue": "PPoPP",

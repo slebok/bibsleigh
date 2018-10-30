@@ -1,6 +1,11 @@
 {
-	"author": ["Jürgen Giesl", "Peter Schneider-Kamp", "René Thiemann"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Jürgen Giesl",
+		"Peter Schneider-Kamp",
+		"René Thiemann"
+	],
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/GieslST06",
 	"doi": "10.1007/11814771_24",
@@ -10,11 +15,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["automat", "termin", "proof", "in", "the", "depend", "pair", "framework"],
-	"tag": ["automation", "dependence", "framework", "proving", "termination"],
+	"stemmed": [
+		"automat",
+		"termin",
+		"proof",
+		"in",
+		"the",
+		"depend",
+		"pair",
+		"framework"
+	],
+	"tag": [
+		"automation",
+		"dependence",
+		"framework",
+		"proving",
+		"termination"
+	],
 	"title": "Automatic Termination Proofs in the Dependency Pair Framework",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

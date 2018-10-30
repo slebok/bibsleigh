@@ -1,6 +1,12 @@
 {
-	"author": ["Reiner Hähnle", "Maritta Heisel", "Wolfgang Reif", "Werner Stephan"],
-	"booktitle": "CADE",
+	"author": [
+		"Reiner Hähnle",
+		"Maritta Heisel",
+		"Wolfgang Reif",
+		"Werner Stephan"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/HahnleHRS86",
 	"doi": "10.1007/3-540-16780-3_99",
@@ -10,11 +16,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "interact", "verif", "system", "base", "on", "dynam", "logic"],
-	"tag": ["interactive", "logic", "verification"],
+	"stemmed": [
+		"an",
+		"interact",
+		"verif",
+		"system",
+		"base",
+		"on",
+		"dynam",
+		"logic"
+	],
+	"tag": [
+		"interactive",
+		"logic",
+		"verification"
+	],
 	"title": "An Interactive Verification System Based on Dynamic Logic",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

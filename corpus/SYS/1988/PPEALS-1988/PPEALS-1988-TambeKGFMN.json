@@ -1,6 +1,13 @@
 {
-	"author": ["Milind Tambe", "Dirk Kalp", "Anoop Gupta", "Charles Forgy", "Brian Milnes", "Allen Newell"],
-	"booktitle": "PPOPP/PPEALS",
+	"author": [
+		"Milind Tambe",
+		"Dirk Kalp",
+		"Anoop Gupta",
+		"Charles Forgy",
+		"Brian Milnes",
+		"Allen Newell"
+	],
+	"booktitle": "Proceedings of the First Symposium on Parallel Programming: Experience with Applications, Languages and Systems",
 	"booktitleshort": "PPEALS",
 	"crossref": "conf/ppopp/1988",
 	"dblpkey": "conf/ppopp/TambeKGFMN88",
@@ -8,8 +15,24 @@
 	"ee": "http://doi.acm.org/10.1145/62115.62130",
 	"pages": "146-160",
 	"publisher": "ACM",
-	"stemmed": ["soar", "psm", "e", "investig", "match", "parallel", "in", "a", "learn", "product", "system"],
-	"tag": ["learning", "named", "parallel"],
+	"stemmed": [
+		"soar",
+		"psm",
+		"e",
+		"investig",
+		"match",
+		"parallel",
+		"in",
+		"a",
+		"learn",
+		"product",
+		"system"
+	],
+	"tag": [
+		"learning",
+		"named",
+		"parallel"
+	],
 	"title": "Soar/PSM-E: Investigating Match Parallelism in a Learning Production System",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,16 +1,40 @@
 {
-	"author": ["Johannes Klein", "Francis Upton IV"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Johannes Klein",
+		"Francis Upton IV"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD93/P430.PDF",
-	"cite": ["...", "books/mk/GrayR93", "...", "journals/dtj/LaingJL91", "...", "...", "...", "..."],
+	"cite": [
+		"...",
+		"books/mk/GrayR93",
+		"...",
+		"journals/dtj/LaingJL91",
+		"...",
+		"...",
+		"...",
+		"..."
+	],
 	"crossref": "conf/sigmod/93",
 	"dblpkey": "conf/sigmod/KleinU93",
 	"doi": "10.1145/170035.170115",
 	"ee": "http://doi.acm.org/10.1145/170035.170115",
 	"pages": "430-433",
 	"publisher": "ACM Press",
-	"stemmed": ["open", "de", "cdtm", "constraint", "base", "transact", "manag"],
-	"tag": ["constraints", "transaction"],
+	"stemmed": [
+		"open",
+		"de",
+		"cdtm",
+		"constraint",
+		"base",
+		"transact",
+		"manag"
+	],
+	"tag": [
+		"constraints",
+		"transaction"
+	],
 	"title": "Open DECdtm: Constraint Based Transaction Management",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

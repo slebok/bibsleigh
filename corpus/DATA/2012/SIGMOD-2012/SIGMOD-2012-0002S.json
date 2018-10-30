@@ -1,6 +1,9 @@
 {
-	"author": ["Karthik Ramachandra", "S. Sudarshan"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Karthik Ramachandra",
+		"S. Sudarshan"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/0002S12",
@@ -8,8 +11,18 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213852",
 	"pages": "133-144",
 	"publisher": "ACM",
-	"stemmed": ["holist", "optim", "by", "prefetch", "queri", "result"],
-	"tag": ["optimisation", "query"],
+	"stemmed": [
+		"holist",
+		"optim",
+		"by",
+		"prefetch",
+		"queri",
+		"result"
+	],
+	"tag": [
+		"optimisation",
+		"query"
+	],
 	"title": "Holistic optimization by prefetching query results",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

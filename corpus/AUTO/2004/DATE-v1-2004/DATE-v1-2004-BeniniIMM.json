@@ -1,6 +1,12 @@
 {
-	"author": ["Luca Benini", "Alessandro Ivaldi", "Alberto Macii", "Enrico Macii"],
-	"booktitle": "DATE",
+	"author": [
+		"Luca Benini",
+		"Alessandro Ivaldi",
+		"Alberto Macii",
+		"Enrico Macii"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/BeniniIMM04",
 	"doi": "10.1109/DATE.2004.1268936",
@@ -8,8 +14,24 @@
 	"pages": "698-699",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["block", "enabl", "memori", "macro", "design", "space", "explor", "and", "applic", "specif", "tune"],
-	"tag": ["design", "memory management", "metaprogramming"],
+	"stemmed": [
+		"block",
+		"enabl",
+		"memori",
+		"macro",
+		"design",
+		"space",
+		"explor",
+		"and",
+		"applic",
+		"specif",
+		"tune"
+	],
+	"tag": [
+		"design",
+		"memory management",
+		"metaprogramming"
+	],
 	"title": "Block-Enabled Memory Macros: Design Space Exploration and Application-Specific Tuning",
 	"type": "inproceedings",
 	"venue": "DATE",

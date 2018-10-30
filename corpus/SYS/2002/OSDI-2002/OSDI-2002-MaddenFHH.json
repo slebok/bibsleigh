@@ -1,14 +1,36 @@
 {
-	"author": ["Samuel Madden", "Michael J. Franklin", "Joseph M. Hellerstein", "Wei Hong"],
-	"booktitle": "OSDI",
+	"author": [
+		"Samuel Madden",
+		"Michael J. Franklin",
+		"Joseph M. Hellerstein",
+		"Wei Hong"
+	],
+	"booktitle": "Proceedings of the Fifth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2002",
 	"dblpkey": "conf/osdi/MaddenFHH02",
 	"doi": "10.1145/1060289.1060303",
 	"ee": "http://www.usenix.org/events/osdi02/tech/madden.html",
 	"pages": "131-146",
 	"publisher": "USENIX Association",
-	"stemmed": ["tag", "a", "tini", "a", "ggregat", "servic", "for", "ad", "hoc", "sensor", "network"],
-	"tag": ["ad hoc", "named", "network"],
+	"stemmed": [
+		"tag",
+		"a",
+		"tini",
+		"a",
+		"ggregat",
+		"servic",
+		"for",
+		"ad",
+		"hoc",
+		"sensor",
+		"network"
+	],
+	"tag": [
+		"ad hoc",
+		"named",
+		"network"
+	],
 	"title": "TAG: A Tiny AGgregation Service for Ad-Hoc Sensor Networks",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,13 +1,35 @@
 {
-	"author": ["Joshua LeVasseur", "Volkmar Uhlig", "Jan Stoess", "Stefan Götz"],
-	"booktitle": "OSDI",
+	"author": [
+		"Joshua LeVasseur",
+		"Volkmar Uhlig",
+		"Jan Stoess",
+		"Stefan Götz"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2004",
 	"dblpkey": "conf/osdi/LevasseurUSG04",
 	"ee": "http://www.usenix.org/events/osdi04/tech/levasseur.html",
 	"pages": "17-30",
 	"publisher": "USENIX Association",
-	"stemmed": ["unmodifi", "devic", "driver", "reus", "and", "improv", "system", "depend", "via", "virtual", "machin"],
-	"tag": ["dependence", "reuse", "virtual machine"],
+	"stemmed": [
+		"unmodifi",
+		"devic",
+		"driver",
+		"reus",
+		"and",
+		"improv",
+		"system",
+		"depend",
+		"via",
+		"virtual",
+		"machin"
+	],
+	"tag": [
+		"dependence",
+		"reuse",
+		"virtual machine"
+	],
 	"title": "Unmodified Device Driver Reuse and Improved System Dependability via Virtual Machines",
 	"type": "inproceedings",
 	"venue": "OSDI",

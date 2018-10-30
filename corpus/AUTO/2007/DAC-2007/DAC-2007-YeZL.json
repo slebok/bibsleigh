@@ -1,14 +1,37 @@
 {
-	"author": ["Xiaoji Ye", "Yaping Zhan", "Peng Li"],
-	"booktitle": "DAC",
+	"author": [
+		"Xiaoji Ye",
+		"Yaping Zhan",
+		"Peng Li"
+	],
+	"booktitle": "Proceedings of the 44th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2007",
 	"dblpkey": "conf/dac/YeZL07",
 	"doi": "10.1145/1278480.1278691",
 	"ee": "http://doi.acm.org/10.1145/1278480.1278691",
 	"pages": "853-858",
 	"publisher": "IEEE",
-	"stemmed": ["statist", "leakag", "power", "minim", "use", "fast", "equi", "slack", "shell", "base", "optim"],
-	"tag": ["optimisation", "performance", "power management", "statistics", "using"],
+	"stemmed": [
+		"statist",
+		"leakag",
+		"power",
+		"minim",
+		"use",
+		"fast",
+		"equi",
+		"slack",
+		"shell",
+		"base",
+		"optim"
+	],
+	"tag": [
+		"optimisation",
+		"performance",
+		"power management",
+		"statistics",
+		"using"
+	],
 	"title": "Statistical Leakage Power Minimization Using Fast Equi-Slack Shell Based Optimization",
 	"type": "inproceedings",
 	"venue": "DAC",

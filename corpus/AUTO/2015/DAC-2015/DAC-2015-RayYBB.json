@@ -1,14 +1,39 @@
 {
-	"author": ["Sandip Ray", "Jin Yang", "Abhishek Basak", "Swarup Bhunia"],
-	"booktitle": "DAC",
+	"author": [
+		"Sandip Ray",
+		"Jin Yang",
+		"Abhishek Basak",
+		"Swarup Bhunia"
+	],
+	"booktitle": "Proceedings of the 52nd Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2015",
 	"dblpkey": "conf/dac/RayYBB15",
 	"doi": "10.1145/2744769.2754896",
 	"ee": "http://doi.acm.org/10.1145/2744769.2754896",
 	"pages": "146:1-146:6",
 	"publisher": "ACM",
-	"stemmed": ["correct", "and", "secur", "at", "odd", "post", "silicon", "valid", "of", "modern", "so", "c", "design"],
-	"tag": ["correctness", "design", "security", "validation"],
+	"stemmed": [
+		"correct",
+		"and",
+		"secur",
+		"at",
+		"odd",
+		"post",
+		"silicon",
+		"valid",
+		"of",
+		"modern",
+		"so",
+		"c",
+		"design"
+	],
+	"tag": [
+		"correctness",
+		"design",
+		"security",
+		"validation"
+	],
 	"title": "Correctness and security at odds: post-silicon validation of modern SoC designs",
 	"type": "inproceedings",
 	"venue": "DAC",

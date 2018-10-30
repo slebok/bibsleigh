@@ -1,15 +1,33 @@
 {
-	"author": ["Rajiv Jain", "David S. Doermann"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Rajiv Jain",
+		"David S. Doermann"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2011",
 	"dblpkey": "conf/icdar/JainD11",
 	"doi": "10.1109/ICDAR.2011.159",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2011.159", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2011.159"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2011.159",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2011.159"
+	],
 	"pages": "769-773",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["offlin", "writer", "identif", "use", "k", "adjac", "segment"],
-	"tag": ["identification", "using"],
+	"stemmed": [
+		"offlin",
+		"writer",
+		"identif",
+		"use",
+		"k",
+		"adjac",
+		"segment"
+	],
+	"tag": [
+		"identification",
+		"using"
+	],
 	"title": "Offline Writer Identification Using K-Adjacent Segments",
 	"type": "inproceedings",
 	"venue": "ICDAR",

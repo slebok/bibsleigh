@@ -1,14 +1,29 @@
 {
-	"author": ["Sara Cohen", "Benny Kimelfeld", "Yehoshua Sagiv"],
-	"booktitle": "PODS",
+	"author": [
+		"Sara Cohen",
+		"Benny Kimelfeld",
+		"Yehoshua Sagiv"
+	],
+	"booktitle": "Proceedings of the 27th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2008",
 	"dblpkey": "conf/pods/CohenKS08",
 	"doi": "10.1145/1376916.1376933",
 	"ee": "http://doi.acm.org/10.1145/1376916.1376933",
 	"pages": "109-118",
 	"publisher": "ACM",
-	"stemmed": ["incorpor", "constraint", "in", "probabilist", "xml"],
-	"tag": ["constraints", "probability", "xml"],
+	"stemmed": [
+		"incorpor",
+		"constraint",
+		"in",
+		"probabilist",
+		"xml"
+	],
+	"tag": [
+		"constraints",
+		"probability",
+		"xml"
+	],
 	"title": "Incorporating constraints in probabilistic XML",
 	"type": "inproceedings",
 	"venue": "PODS",

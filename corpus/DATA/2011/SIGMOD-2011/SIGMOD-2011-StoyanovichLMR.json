@@ -1,6 +1,11 @@
 {
-	"author": ["Julia Stoyanovich", "Mayur Lodha", "William Mee", "Kenneth A. Ross"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Julia Stoyanovich",
+		"Mayur Lodha",
+		"William Mee",
+		"Kenneth A. Ross"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/StoyanovichLMR11",
@@ -8,8 +13,23 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989467",
 	"pages": "1247-1250",
 	"publisher": "ACM",
-	"stemmed": ["skylin", "search", "semant", "rank", "and", "result", "visual", "for", "pubm"],
-	"tag": ["named", "ranking", "semantics", "visualisation"],
+	"stemmed": [
+		"skylin",
+		"search",
+		"semant",
+		"rank",
+		"and",
+		"result",
+		"visual",
+		"for",
+		"pubm"
+	],
+	"tag": [
+		"named",
+		"ranking",
+		"semantics",
+		"visualisation"
+	],
 	"title": "SkylineSearch: semantic ranking and result visualization for pubmed",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,13 +1,28 @@
 {
-	"author": ["Evan Balzuweit", "Jaime Spacco"],
-	"booktitle": "ITiCSE",
+	"author": [
+		"Evan Balzuweit",
+		"Jaime Spacco"
+	],
+	"booktitle": "Proceedings of the 18th Conference on Innovation and Technology in Computer Science Education",
+	"booktitleshort": "ITiCSE",
 	"crossref": "conf/iticse/2013",
 	"dblpkey": "conf/iticse/BalzuweitS13",
 	"doi": "10.1145/2462476.2465615",
-	"pages": 350,
+	"pages": "350",
 	"publisher": "ACM",
-	"stemmed": ["snap", "viz", "visual", "program", "assign", "snapshot"],
-	"tag": ["named", "programming", "visualisation"],
+	"stemmed": [
+		"snap",
+		"viz",
+		"visual",
+		"program",
+		"assign",
+		"snapshot"
+	],
+	"tag": [
+		"named",
+		"programming",
+		"visualisation"
+	],
 	"title": "SnapViz: visualizing programming assignment snapshots",
 	"type": "inproceedings",
 	"venue": "ITiCSE",

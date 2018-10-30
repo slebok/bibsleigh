@@ -1,6 +1,11 @@
 {
-	"author": ["Frank S. de Boer", "Marcello M. Bonsangue", "Jurriaan Rot"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Frank S. de Boer",
+		"Marcello M. Bonsangue",
+		"Jurriaan Rot"
+	],
+	"booktitle": "Proceedings of the Sixth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2012",
 	"dblpkey": "conf/cade/BoerBR12",
 	"doi": "10.1007/978-3-642-31365-3_14",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["autom", "verif", "of", "recurs", "program", "with", "pointer"],
-	"tag": ["automation", "pointer", "recursion", "source code", "verification"],
+	"stemmed": [
+		"autom",
+		"verif",
+		"of",
+		"recurs",
+		"program",
+		"with",
+		"pointer"
+	],
+	"tag": [
+		"automation",
+		"pointer",
+		"recursion",
+		"source code",
+		"verification"
+	],
 	"title": "Automated Verification of Recursive Programs with Pointers",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 7364,
+	"volume": "7364",
 	"year": 2012
 }

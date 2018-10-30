@@ -1,6 +1,11 @@
 {
-	"author": ["Prakash Linga", "Adina Crainiceanu", "Johannes Gehrke", "Jayavel Shanmugasundaram"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Prakash Linga",
+		"Adina Crainiceanu",
+		"Johannes Gehrke",
+		"Jayavel Shanmugasundaram"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/LingaCGS05",
@@ -8,8 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066195",
 	"pages": "323-334",
 	"publisher": "ACM",
-	"stemmed": ["guarante", "correct", "and", "avail", "in", "p", "p", "rang", "indic"],
-	"tag": ["correctness"],
+	"stemmed": [
+		"guarante",
+		"correct",
+		"and",
+		"avail",
+		"in",
+		"p",
+		"p",
+		"rang",
+		"indic"
+	],
+	"tag": [
+		"correctness"
+	],
 	"title": "Guaranteeing Correctness and Availability in P2P Range Indices",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,10 @@
 {
-	"author": ["Larry Wos", "William McCune"],
-	"booktitle": "CADE",
+	"author": [
+		"Larry Wos",
+		"William McCune"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/WosM88",
 	"doi": "10.1007/BFb0012870",
@@ -10,11 +14,33 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["challeng", "problem", "focus", "on", "equal", "and", "combinatori", "logic", "evalu", "autom", "theorem", "prove", "program"],
-	"tag": ["automation", "challenge", "combinator", "logic", "problem", "similarity", "source code"],
+	"stemmed": [
+		"challeng",
+		"problem",
+		"focus",
+		"on",
+		"equal",
+		"and",
+		"combinatori",
+		"logic",
+		"evalu",
+		"autom",
+		"theorem",
+		"prove",
+		"program"
+	],
+	"tag": [
+		"automation",
+		"challenge",
+		"combinator",
+		"logic",
+		"problem",
+		"similarity",
+		"source code"
+	],
 	"title": "Challenge Problems Focusing on Equality and Combinatory Logic: Evaluating Automated Theorem-Proving Programs",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

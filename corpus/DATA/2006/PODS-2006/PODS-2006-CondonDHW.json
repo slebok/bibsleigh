@@ -1,14 +1,33 @@
 {
-	"author": ["Anne Condon", "Amol Deshpande", "Lisa Hellerstein", "Ning Wu"],
-	"booktitle": "PODS",
+	"author": [
+		"Anne Condon",
+		"Amol Deshpande",
+		"Lisa Hellerstein",
+		"Ning Wu"
+	],
+	"booktitle": "Proceedings of the 25th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2006",
 	"dblpkey": "conf/pods/CondonDHW06",
 	"doi": "10.1145/1142351.1142379",
 	"ee": "http://doi.acm.org/10.1145/1142351.1142379",
 	"pages": "193-202",
 	"publisher": "ACM",
-	"stemmed": ["flow", "algorithm", "for", "two", "pipelin", "filter", "order", "problem"],
-	"tag": ["algorithm", "pipes and filters", "problem"],
+	"stemmed": [
+		"flow",
+		"algorithm",
+		"for",
+		"two",
+		"pipelin",
+		"filter",
+		"order",
+		"problem"
+	],
+	"tag": [
+		"algorithm",
+		"pipes and filters",
+		"problem"
+	],
 	"title": "Flow algorithms for two pipelined filter ordering problems",
 	"type": "inproceedings",
 	"venue": "PODS",

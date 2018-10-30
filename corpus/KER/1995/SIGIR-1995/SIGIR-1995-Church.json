@@ -1,6 +1,7 @@
 {
 	"author": "Kenneth Ward Church",
 	"booktitle": "Proceedings of the 18th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1995/P310.pdf",
 	"crossref": "conf/sigir/95",
 	"dblpkey": "conf/sigir/Church95",
@@ -8,8 +9,15 @@
 	"ee": "http://doi.acm.org/10.1145/215206.215376",
 	"pages": "310-318",
 	"publisher": "ACM Press",
-	"stemmed": ["one", "term", "or", "two"],
-	"tag": ["question"],
+	"stemmed": [
+		"one",
+		"term",
+		"or",
+		"two"
+	],
+	"tag": [
+		"question"
+	],
 	"title": "One Term Or Two?",
 	"type": "inproceedings",
 	"venue": "SIGIR",

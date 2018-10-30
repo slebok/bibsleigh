@@ -1,15 +1,45 @@
 {
-	"author": ["Yijun Lu", "Hong Jiang"],
+	"author": [
+		"Yijun Lu",
+		"Hong Jiang"
+	],
 	"booktitle": "Proceedings of the 14th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2005",
 	"dblpkey": "conf/hpdc/LuJ05a",
 	"doi": "10.1109/HPDC.2005.1520993",
-	"ee": ["http://dx.doi.org/10.1109/HPDC.2005.1520993", "http://doi.ieeecomputersociety.org/10.1109/HPDC.2005.1520993"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPDC.2005.1520993",
+		"http://doi.ieeecomputersociety.org/10.1109/HPDC.2005.1520993"
+	],
 	"pages": "318-319",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "framework", "for", "effici", "inconsist", "detect", "in", "a", "grid", "and", "internet", "scale", "distribut", "environ"],
-	"tag": ["consistency", "detection", "distributed", "framework", "grid", "nondeterminism", "performance"],
+	"stemmed": [
+		"a",
+		"framework",
+		"for",
+		"effici",
+		"inconsist",
+		"detect",
+		"in",
+		"a",
+		"grid",
+		"and",
+		"internet",
+		"scale",
+		"distribut",
+		"environ"
+	],
+	"tag": [
+		"consistency",
+		"detection",
+		"distributed",
+		"framework",
+		"grid",
+		"nondeterminism",
+		"performance"
+	],
 	"title": "A framework for efficient inconsistency detection in a grid and Internet-scale distributed environment",
 	"type": "inproceedings",
 	"venue": "HPDC",

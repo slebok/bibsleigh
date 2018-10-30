@@ -1,6 +1,12 @@
 {
-	"author": ["D. Yang", "L. Jin", "Qiang Huo", "Tingting He"],
-	"booktitle": "ICDAR",
+	"author": [
+		"D. Yang",
+		"L. Jin",
+		"Qiang Huo",
+		"Tingting He"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/YangJHH07",
 	"doi": "10.1109/ICDAR.2007.150",
@@ -8,8 +14,25 @@
 	"pages": "38-42",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["kernel", "modifi", "quadrat", "discrimin", "function", "for", "onlin", "handwritten", "chines", "charact", "recognit"],
-	"tag": ["kernel", "online", "polynomial", "recognition"],
+	"stemmed": [
+		"kernel",
+		"modifi",
+		"quadrat",
+		"discrimin",
+		"function",
+		"for",
+		"onlin",
+		"handwritten",
+		"chines",
+		"charact",
+		"recognit"
+	],
+	"tag": [
+		"kernel",
+		"online",
+		"polynomial",
+		"recognition"
+	],
 	"title": "Kernel Modified Quadratic Discriminant Function for Online Handwritten Chinese Characters Recognition",
 	"type": "inproceedings",
 	"venue": "ICDAR",

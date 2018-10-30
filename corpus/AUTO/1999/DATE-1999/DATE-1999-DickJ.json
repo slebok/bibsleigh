@@ -1,6 +1,10 @@
 {
-	"author": ["Robert P. Dick", "Niraj K. Jha"],
-	"booktitle": "DATE",
+	"author": [
+		"Robert P. Dick",
+		"Niraj K. Jha"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/DickJ99",
 	"doi": "10.1109/DATE.1999.761132",
@@ -8,8 +12,21 @@
 	"pages": "263-270",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["mocsyn", "multiobject", "core", "base", "singl", "chip", "system", "synthesi"],
-	"tag": ["multi", "named", "synthesis"],
+	"stemmed": [
+		"mocsyn",
+		"multiobject",
+		"core",
+		"base",
+		"singl",
+		"chip",
+		"system",
+		"synthesi"
+	],
+	"tag": [
+		"multi",
+		"named",
+		"synthesis"
+	],
 	"title": "MOCSYN: Multiobjective Core-Based Single-Chip System Synthesis",
 	"type": "inproceedings",
 	"venue": "DATE",

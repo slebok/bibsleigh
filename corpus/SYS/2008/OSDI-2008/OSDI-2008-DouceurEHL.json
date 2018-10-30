@@ -1,13 +1,33 @@
 {
-	"author": ["John R. Douceur", "Jeremy Elson", "Jon Howell", "Jacob R. Lorch"],
-	"booktitle": "OSDI",
+	"author": [
+		"John R. Douceur",
+		"Jeremy Elson",
+		"Jon Howell",
+		"Jacob R. Lorch"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/DouceurEHL08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/douceur/douceur.pdf",
 	"pages": "339-354",
 	"publisher": "USENIX Association",
-	"stemmed": ["leverag", "legaci", "code", "to", "deploy", "desktop", "applic", "on", "the", "web"],
-	"tag": ["legacy", "web"],
+	"stemmed": [
+		"leverag",
+		"legaci",
+		"code",
+		"to",
+		"deploy",
+		"desktop",
+		"applic",
+		"on",
+		"the",
+		"web"
+	],
+	"tag": [
+		"legacy",
+		"web"
+	],
 	"title": "Leveraging Legacy Code to Deploy Desktop Applications on the Web",
 	"type": "inproceedings",
 	"venue": "OSDI",

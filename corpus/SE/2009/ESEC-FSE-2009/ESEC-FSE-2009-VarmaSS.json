@@ -1,17 +1,34 @@
 {
-	"author": ["Pradeep Varma", "R. K. Shyamasundar", "Harshit J. Shah"],
+	"author": [
+		"Pradeep Varma",
+		"R. K. Shyamasundar",
+		"Harshit J. Shah"
+	],
 	"booktitle": "Proceedings of the Seventh joint meeting of the 12th European Software Engineering Conference and the 17th International Symposium on Foundations of Software Engineering",
-	"booktitleshort": "ESEC/SIGSOFT FSE",
+	"booktitleshort": "ESEC/FSE",
 	"crossref": "conf/sigsoft/2009",
 	"dblpkey": "conf/sigsoft/VarmaSS09",
 	"doi": "10.1145/1595696.1595710",
-	"editor": ["Hans van Vliet", "Valérie Issarny"],
+	"editor": [
+		"Hans van Vliet",
+		"Valérie Issarny"
+	],
 	"ee": "http://doi.acm.org/10.1145/1595696.1595710",
 	"isbn": "978-1-60558-001-2",
 	"pages": "71-80",
 	"publisher": "ACM",
-	"stemmed": ["backward", "compat", "constant", "time", "except", "protect", "memori"],
-	"tag": ["memory management"],
+	"stemmed": [
+		"backward",
+		"compat",
+		"constant",
+		"time",
+		"except",
+		"protect",
+		"memori"
+	],
+	"tag": [
+		"memory management"
+	],
 	"title": "Backward-compatible constant-time exception-protected memory",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

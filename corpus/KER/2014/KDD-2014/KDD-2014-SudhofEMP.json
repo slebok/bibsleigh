@@ -1,14 +1,33 @@
 {
-	"author": ["Moritz Sudhof", "Andrés Goméz Emilsson", "Andrew L. Maas", "Christopher Potts"],
-	"booktitle": "KDD",
+	"author": [
+		"Moritz Sudhof",
+		"Andrés Goméz Emilsson",
+		"Andrew L. Maas",
+		"Christopher Potts"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/SudhofEMP14",
 	"doi": "10.1145/2623330.2623687",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623687",
 	"pages": "1136-1145",
 	"publisher": "ACM",
-	"stemmed": ["sentiment", "express", "condit", "by", "affect", "transit", "and", "social", "forc"],
-	"tag": ["sentiment", "social"],
+	"stemmed": [
+		"sentiment",
+		"express",
+		"condit",
+		"by",
+		"affect",
+		"transit",
+		"and",
+		"social",
+		"forc"
+	],
+	"tag": [
+		"sentiment",
+		"social"
+	],
 	"title": "Sentiment expression conditioned by affective transitions and social forces",
 	"type": "inproceedings",
 	"venue": "KDD",

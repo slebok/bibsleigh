@@ -1,6 +1,9 @@
 {
-	"author": ["Meihui Zhang", "Kaushik Chakrabarti"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Meihui Zhang",
+		"Kaushik Chakrabarti"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/ZhangC13",
@@ -8,8 +11,27 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465276",
 	"pages": "145-156",
 	"publisher": "ACM",
-	"stemmed": ["info", "gather", "semant", "match", "and", "annot", "of", "numer", "and", "time", "vari", "attribut", "in", "web", "tabl"],
-	"tag": ["semantics", "web"],
+	"stemmed": [
+		"info",
+		"gather",
+		"semant",
+		"match",
+		"and",
+		"annot",
+		"of",
+		"numer",
+		"and",
+		"time",
+		"vari",
+		"attribut",
+		"in",
+		"web",
+		"tabl"
+	],
+	"tag": [
+		"semantics",
+		"web"
+	],
 	"title": "InfoGather+: semantic matching and annotation of numeric and time-varying attributes in web tables",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

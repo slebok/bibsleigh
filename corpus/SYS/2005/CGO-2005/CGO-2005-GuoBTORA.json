@@ -1,16 +1,40 @@
 {
-	"acmid": 1048995,
-	"author": ["Bolei Guo", "Matthew J. Bridges", "Spyridon Triantafyllis", "Guilherme Ottoni", "Easwaran Raman", "David I. August"],
-	"booktitle": "CGO",
+	"acmid": "1048995",
+	"author": [
+		"Bolei Guo",
+		"Matthew J. Bridges",
+		"Spyridon Triantafyllis",
+		"Guilherme Ottoni",
+		"Easwaran Raman",
+		"David I. August"
+	],
+	"booktitle": "Proceedings of the Third International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2005",
 	"dblpkey": "conf/cgo/GuoBTORA05",
 	"doi": "10.1109/CGO.2005.27",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2005.27", "http://doi.ieeecomputersociety.org/10.1109/CGO.2005.27", "http://dl.acm.org/citation.cfm?id=1048995"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2005.27",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2005.27",
+		"http://dl.acm.org/citation.cfm?id=1048995"
+	],
 	"pages": "291-302",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["practic", "and", "accur", "low", "level", "pointer", "analysi"],
-	"tag": ["analysis", "low level", "pointer"],
+	"stemmed": [
+		"practic",
+		"and",
+		"accur",
+		"low",
+		"level",
+		"pointer",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"low level",
+		"pointer"
+	],
 	"title": "Practical and Accurate Low-Level Pointer Analysis",
 	"type": "inproceedings",
 	"venue": "CGO",

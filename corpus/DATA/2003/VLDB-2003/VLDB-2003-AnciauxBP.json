@@ -1,12 +1,32 @@
 {
-	"author": ["Nicolas Anciaux", "Luc Bouganim", "Philippe Pucheral"],
-	"booktitle": "VLDB",
+	"author": [
+		"Nicolas Anciaux",
+		"Luc Bouganim",
+		"Philippe Pucheral"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/AnciauxBP03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S21P02.pdf",
 	"pages": "694-705",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["memori", "requir", "for", "queri", "execut", "in", "high", "constrain", "devic"],
-	"tag": ["execution", "memory management", "query", "requirements"],
+	"stemmed": [
+		"memori",
+		"requir",
+		"for",
+		"queri",
+		"execut",
+		"in",
+		"high",
+		"constrain",
+		"devic"
+	],
+	"tag": [
+		"execution",
+		"memory management",
+		"query",
+		"requirements"
+	],
 	"title": "Memory Requirements for Query Execution in Highly Constrained Devices",
 	"type": "inproceedings",
 	"venue": "VLDB",

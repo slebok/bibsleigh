@@ -1,14 +1,35 @@
 {
-	"author": ["Alan Mishchenko", "Satrajit Chatterjee", "Robert K. Brayton"],
-	"booktitle": "DAC",
+	"author": [
+		"Alan Mishchenko",
+		"Satrajit Chatterjee",
+		"Robert K. Brayton"
+	],
+	"booktitle": "Proceedings of the 43rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/MishchenkoCB06",
 	"doi": "10.1145/1146909.1147048",
 	"ee": "http://doi.acm.org/10.1145/1146909.1147048",
 	"pages": "532-535",
 	"publisher": "ACM",
-	"stemmed": ["dag", "awar", "aig", "rewrit", "a", "fresh", "look", "at", "combin", "logic", "synthesi"],
-	"tag": ["fresh look", "logic", "synthesis"],
+	"stemmed": [
+		"dag",
+		"awar",
+		"aig",
+		"rewrit",
+		"a",
+		"fresh",
+		"look",
+		"at",
+		"combin",
+		"logic",
+		"synthesi"
+	],
+	"tag": [
+		"fresh look",
+		"logic",
+		"synthesis"
+	],
 	"title": "DAG-aware AIG rewriting a fresh look at combinational logic synthesis",
 	"type": "inproceedings",
 	"venue": "DAC",

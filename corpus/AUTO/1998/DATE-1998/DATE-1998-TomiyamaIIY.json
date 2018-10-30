@@ -1,6 +1,12 @@
 {
-	"author": ["Hiroyuki Tomiyama", "Tohru Ishihara", "Akihiko Inoue", "Hiroto Yasuura"],
-	"booktitle": "DATE",
+	"author": [
+		"Hiroyuki Tomiyama",
+		"Tohru Ishihara",
+		"Akihiko Inoue",
+		"Hiroto Yasuura"
+	],
+	"booktitle": "Proceedings of the Third Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1998",
 	"dblpkey": "conf/date/TomiyamaIIY98",
 	"doi": "10.1109/DATE.1998.655958",
@@ -8,8 +14,23 @@
 	"pages": "855-860",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["instruct", "schedul", "for", "power", "reduct", "in", "processor", "base", "system", "design"],
-	"tag": ["design", "reduction", "scheduling"],
+	"stemmed": [
+		"instruct",
+		"schedul",
+		"for",
+		"power",
+		"reduct",
+		"in",
+		"processor",
+		"base",
+		"system",
+		"design"
+	],
+	"tag": [
+		"design",
+		"reduction",
+		"scheduling"
+	],
 	"title": "Instruction Scheduling for Power Reduction in Processor-Based System Design",
 	"type": "inproceedings",
 	"venue": "DATE",

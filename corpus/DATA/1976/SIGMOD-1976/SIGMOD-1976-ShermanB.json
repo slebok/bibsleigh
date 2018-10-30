@@ -1,15 +1,36 @@
 {
-	"author": ["Stephen W. Sherman", "Richard S. Brice"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Stephen W. Sherman",
+		"Richard S. Brice"
+	],
+	"booktitle": "Proceedings of the Sixth ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD76/P031.PDF",
 	"crossref": "conf/sigmod/76",
 	"dblpkey": "conf/sigmod/ShermanB76",
 	"doi": "10.1145/509383.509388",
 	"ee": "http://doi.acm.org/10.1145/509383.509388",
-	"pages": 31,
+	"pages": "31",
 	"publisher": "ACM",
-	"stemmed": ["perform", "of", "a", "data", "base", "manag", "in", "a", "virtual", "memori", "system", "abstract"],
-	"tag": ["database", "memory management", "performance"],
+	"stemmed": [
+		"perform",
+		"of",
+		"a",
+		"data",
+		"base",
+		"manag",
+		"in",
+		"a",
+		"virtual",
+		"memori",
+		"system",
+		"abstract"
+	],
+	"tag": [
+		"database",
+		"memory management",
+		"performance"
+	],
 	"title": "Performance of a Data Base Manager in a Virtual Memory System (Abstract)",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

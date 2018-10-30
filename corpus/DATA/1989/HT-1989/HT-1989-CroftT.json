@@ -1,6 +1,10 @@
 {
-	"author": ["W. Bruce Croft", "Howard R. Turtle"],
-	"booktitle": "Hypertext",
+	"author": [
+		"W. Bruce Croft",
+		"Howard R. Turtle"
+	],
+	"booktitle": "Proceedings of the Second Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1989/P213.pdf",
 	"crossref": "conf/ht/89",
 	"dblpkey": "conf/ht/CroftT89",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/74224.74242",
 	"pages": "213-224",
 	"publisher": "ACM",
-	"stemmed": ["a", "retriev", "model", "for", "incorpor", "hypertext", "link"],
-	"tag": ["hypermedia", "retrieval"],
+	"stemmed": [
+		"a",
+		"retriev",
+		"model",
+		"for",
+		"incorpor",
+		"hypertext",
+		"link"
+	],
+	"tag": [
+		"hypermedia",
+		"retrieval"
+	],
 	"title": "A Retrieval Model for Incorporating Hypertext Links",
 	"type": "inproceedings",
 	"venue": "HT",

@@ -1,15 +1,35 @@
 {
-	"author": ["Lluís-Pere de las Heras", "Joan Mas", "Gemma Sánchez", "Ernest Valveny"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Lluís-Pere de las Heras",
+		"Joan Mas",
+		"Gemma Sánchez",
+		"Ernest Valveny"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2011",
 	"dblpkey": "conf/icdar/HerasMSV11",
 	"doi": "10.1109/ICDAR.2011.256",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2011.256", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2011.256"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2011.256",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2011.256"
+	],
 	"pages": "1270-1274",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["wall", "patch", "base", "segment", "in", "architectur", "floorplan"],
-	"tag": ["architecture", "segmentation"],
+	"stemmed": [
+		"wall",
+		"patch",
+		"base",
+		"segment",
+		"in",
+		"architectur",
+		"floorplan"
+	],
+	"tag": [
+		"architecture",
+		"segmentation"
+	],
 	"title": "Wall Patch-Based Segmentation in Architectural Floorplans",
 	"type": "inproceedings",
 	"venue": "ICDAR",

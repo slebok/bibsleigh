@@ -1,14 +1,36 @@
 {
-	"author": ["Philippe Stellwag", "Fabian Scheler", "Jakob Krainz", "Wolfgang Schröder-Preikschat"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Philippe Stellwag",
+		"Fabian Scheler",
+		"Jakob Krainz",
+		"Wolfgang Schröder-Preikschat"
+	],
+	"booktitle": "Proceedings of the 16th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2011",
 	"dblpkey": "conf/ppopp/StellwagSKS11",
 	"doi": "10.1145/1941553.1941599",
 	"ee": "http://doi.acm.org/10.1145/1941553.1941599",
 	"pages": "301-302",
 	"publisher": "ACM",
-	"stemmed": ["a", "wait", "free", "ncas", "librari", "for", "parallel", "applic", "with", "time", "constraint"],
-	"tag": ["constraints", "library", "parallel"],
+	"stemmed": [
+		"a",
+		"wait",
+		"free",
+		"ncas",
+		"librari",
+		"for",
+		"parallel",
+		"applic",
+		"with",
+		"time",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"library",
+		"parallel"
+	],
 	"title": "A wait-free NCAS library for parallel applications with timing constraints",
 	"type": "inproceedings",
 	"venue": "PPoPP",

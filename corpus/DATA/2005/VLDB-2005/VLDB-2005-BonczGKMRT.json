@@ -1,13 +1,32 @@
 {
-	"author": ["Peter A. Boncz", "Torsten Grust", "Maurice van Keulen", "Stefan Manegold", "Jan Rittinger", "Jens Teubner"],
-	"booktitle": "VLDB",
+	"author": [
+		"Peter A. Boncz",
+		"Torsten Grust",
+		"Maurice van Keulen",
+		"Stefan Manegold",
+		"Jan Rittinger",
+		"Jens Teubner"
+	],
+	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/BonczGKMRT05",
 	"ee": "http://www.vldb.org/conf/2005/papers/p1322-boncz.pdf",
 	"pages": "1322-1325",
 	"publisher": "ACM",
-	"stemmed": ["pathfind", "x", "queri", "the", "relat", "way"],
-	"tag": ["named", "relational", "xquery"],
+	"stemmed": [
+		"pathfind",
+		"x",
+		"queri",
+		"the",
+		"relat",
+		"way"
+	],
+	"tag": [
+		"named",
+		"relational",
+		"xquery"
+	],
 	"title": "Pathfinder: XQuery — The Relational Way",
 	"type": "inproceedings",
 	"venue": "VLDB",

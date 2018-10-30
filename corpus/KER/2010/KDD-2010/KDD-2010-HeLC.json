@@ -1,14 +1,31 @@
 {
-	"author": ["Junfeng He", "Wei Liu", "Shih-Fu Chang"],
-	"booktitle": "KDD",
+	"author": [
+		"Junfeng He",
+		"Wei Liu",
+		"Shih-Fu Chang"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/HeLC10",
 	"doi": "10.1145/1835804.1835946",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835946",
 	"pages": "1129-1138",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "similar", "search", "with", "optim", "kernel", "hash"],
-	"tag": ["kernel", "scalability", "similarity"],
+	"stemmed": [
+		"scalabl",
+		"similar",
+		"search",
+		"with",
+		"optim",
+		"kernel",
+		"hash"
+	],
+	"tag": [
+		"kernel",
+		"scalability",
+		"similarity"
+	],
 	"title": "Scalable similarity search with optimized kernel hashing",
 	"type": "inproceedings",
 	"venue": "KDD",

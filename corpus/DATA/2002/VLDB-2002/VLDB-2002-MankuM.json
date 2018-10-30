@@ -1,13 +1,27 @@
 {
-	"author": ["Gurmeet Singh Manku", "Rajeev Motwani"],
-	"booktitle": "VLDB",
+	"author": [
+		"Gurmeet Singh Manku",
+		"Rajeev Motwani"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/MankuM02",
 	"ee": "http://www.vldb.org/conf/2002/S10P03.pdf",
 	"pages": "346-357",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["approxim", "frequenc", "count", "over", "data", "stream"],
-	"tag": ["approximate", "data type"],
+	"stemmed": [
+		"approxim",
+		"frequenc",
+		"count",
+		"over",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"approximate",
+		"data type"
+	],
 	"title": "Approximate Frequency Counts over Data Streams",
 	"type": "inproceedings",
 	"venue": "VLDB",

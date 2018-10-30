@@ -1,15 +1,37 @@
 {
-	"author": ["Abhinav Gupta", "Sankar Subramanian", "Srikanth Bellamkonda", "Tolga Bozkaya", "Nathan Folkert", "Lei Sheng", "Andrew Witkowski"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Abhinav Gupta",
+		"Sankar Subramanian",
+		"Srikanth Bellamkonda",
+		"Tolga Bozkaya",
+		"Nathan Folkert",
+		"Lei Sheng",
+		"Andrew Witkowski"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/GuptaSBBFSW04",
 	"doi": "10.1145/1007568.1007668",
-	"ee": ["http://doi.acm.org/10.1145/1007568.1007668", "http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/I-002a.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1007568.1007668",
+		"http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/I-002a.pdf"
+	],
 	"pages": "855-859",
 	"publisher": "ACM",
-	"stemmed": ["data", "densif", "in", "a", "relat", "databas", "system"],
-	"tag": ["database", "relational"],
+	"stemmed": [
+		"data",
+		"densif",
+		"in",
+		"a",
+		"relat",
+		"databas",
+		"system"
+	],
+	"tag": [
+		"database",
+		"relational"
+	],
 	"title": "Data Densification in a Relational Database System",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

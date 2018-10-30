@@ -1,6 +1,11 @@
 {
-	"author": ["Kaushik Chakrabarti", "Surajit Chaudhuri", "Venkatesh Ganti", "Dong Xin"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Kaushik Chakrabarti",
+		"Surajit Chaudhuri",
+		"Venkatesh Ganti",
+		"Dong Xin"
+	],
+	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2008",
 	"dblpkey": "conf/sigmod/ChakrabartiCGX08",
@@ -8,8 +13,19 @@
 	"ee": "http://doi.acm.org/10.1145/1376616.1376697",
 	"pages": "805-818",
 	"publisher": "ACM",
-	"stemmed": ["an", "effici", "filter", "for", "approxim", "membership", "check"],
-	"tag": ["approximate", "performance"],
+	"stemmed": [
+		"an",
+		"effici",
+		"filter",
+		"for",
+		"approxim",
+		"membership",
+		"check"
+	],
+	"tag": [
+		"approximate",
+		"performance"
+	],
 	"title": "An efficient filter for approximate membership checking",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

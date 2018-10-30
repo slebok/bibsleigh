@@ -1,6 +1,7 @@
 {
 	"author": "Joan M. Morrissey",
 	"booktitle": "Proceedings of the Fifth Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"dblpkey": "conf/sigir/Morrissey82",
 	"doi": "10.1007/BFb0036337",
 	"ee": "http://dx.doi.org/10.1007/BFb0036337",
@@ -9,11 +10,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "intellig", "termin", "for", "implement", "relev", "feedback", "on", "larg", "oper", "retriev", "system"],
-	"tag": ["feedback", "implementation", "retrieval", "scalability"],
+	"stemmed": [
+		"an",
+		"intellig",
+		"termin",
+		"for",
+		"implement",
+		"relev",
+		"feedback",
+		"on",
+		"larg",
+		"oper",
+		"retriev",
+		"system"
+	],
+	"tag": [
+		"feedback",
+		"implementation",
+		"retrieval",
+		"scalability"
+	],
 	"title": "An Intelligent Terminal for Implementing Relevance Feedback on Large Operational Retrieval Systems",
 	"type": "inproceedings",
 	"venue": "SIGIR",
-	"volume": 146,
+	"volume": "146",
 	"year": 1982
 }

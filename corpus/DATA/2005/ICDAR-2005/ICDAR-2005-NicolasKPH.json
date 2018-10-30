@@ -1,15 +1,39 @@
 {
-	"author": ["Stéphane Nicolas", "Yousri Kessentini", "Thierry Paquet", "Laurent Heutte"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Stéphane Nicolas",
+		"Yousri Kessentini",
+		"Thierry Paquet",
+		"Laurent Heutte"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2005",
 	"dblpkey": "conf/icdar/NicolasKPH05",
 	"doi": "10.1109/ICDAR.2005.124",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2005.124", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.124"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2005.124",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.124"
+	],
 	"pages": "212-216",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["handwritten", "document", "segment", "use", "hidden", "markov", "random", "field"],
-	"tag": ["documentation", "markov", "random", "segmentation", "using"],
+	"stemmed": [
+		"handwritten",
+		"document",
+		"segment",
+		"use",
+		"hidden",
+		"markov",
+		"random",
+		"field"
+	],
+	"tag": [
+		"documentation",
+		"markov",
+		"random",
+		"segmentation",
+		"using"
+	],
 	"title": "Handwritten Document Segmentation Using Hidden Markov Random Fields",
 	"type": "inproceedings",
 	"venue": "ICDAR",

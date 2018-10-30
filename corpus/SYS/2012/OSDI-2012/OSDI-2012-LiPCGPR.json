@@ -1,13 +1,35 @@
 {
-	"author": ["Cheng Li", "Daniel Porto", "Allen Clement", "Johannes Gehrke", "Nuno M. Preguiça", "Rodrigo Rodrigues"],
-	"booktitle": "OSDI",
+	"author": [
+		"Cheng Li",
+		"Daniel Porto",
+		"Allen Clement",
+		"Johannes Gehrke",
+		"Nuno M. Preguiça",
+		"Rodrigo Rodrigues"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2012",
 	"dblpkey": "conf/osdi/LiPCGPR12",
 	"ee": "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/li",
 	"pages": "265-278",
 	"publisher": "USENIX Association",
-	"stemmed": ["make", "geo", "replic", "system", "fast", "as", "possibl", "consist", "when", "necessari"],
-	"tag": ["consistency", "performance"],
+	"stemmed": [
+		"make",
+		"geo",
+		"replic",
+		"system",
+		"fast",
+		"as",
+		"possibl",
+		"consist",
+		"when",
+		"necessari"
+	],
+	"tag": [
+		"consistency",
+		"performance"
+	],
 	"title": "Making Geo-Replicated Systems Fast as Possible, Consistent when Necessary",
 	"type": "inproceedings",
 	"venue": "OSDI",

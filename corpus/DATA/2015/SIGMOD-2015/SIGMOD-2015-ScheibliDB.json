@@ -1,6 +1,10 @@
 {
-	"author": ["Daniel Scheibli", "Christian Dinse", "Alexander Böhm"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Daniel Scheibli",
+		"Christian Dinse",
+		"Alexander Böhm"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/ScheibliDB15",
@@ -8,8 +12,27 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2735364",
 	"pages": "877-881",
 	"publisher": "ACM",
-	"stemmed": ["qe", "d", "interact", "visual", "and", "explor", "of", "complex", "distribut", "queri", "plan"],
-	"tag": ["3d", "distributed", "interactive", "named", "query", "visualisation"],
+	"stemmed": [
+		"qe",
+		"d",
+		"interact",
+		"visual",
+		"and",
+		"explor",
+		"of",
+		"complex",
+		"distribut",
+		"queri",
+		"plan"
+	],
+	"tag": [
+		"3d",
+		"distributed",
+		"interactive",
+		"named",
+		"query",
+		"visualisation"
+	],
 	"title": "QE3D: Interactive Visualization and Exploration of Complex, Distributed Query Plans",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

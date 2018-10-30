@@ -1,14 +1,30 @@
 {
-	"author": ["Utkarsh Srivastava", "Kamesh Munagala", "Jennifer Widom"],
-	"booktitle": "PODS",
+	"author": [
+		"Utkarsh Srivastava",
+		"Kamesh Munagala",
+		"Jennifer Widom"
+	],
+	"booktitle": "Proceedings of the 24th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2005",
 	"dblpkey": "conf/pods/SrivastavaMW05",
 	"doi": "10.1145/1065167.1065199",
 	"ee": "http://doi.acm.org/10.1145/1065167.1065199",
 	"pages": "250-258",
 	"publisher": "ACM",
-	"stemmed": ["oper", "placement", "for", "in", "network", "stream", "queri", "process"],
-	"tag": ["query"],
+	"stemmed": [
+		"oper",
+		"placement",
+		"for",
+		"in",
+		"network",
+		"stream",
+		"queri",
+		"process"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Operator placement for in-network stream query processing",
 	"type": "inproceedings",
 	"venue": "PODS",

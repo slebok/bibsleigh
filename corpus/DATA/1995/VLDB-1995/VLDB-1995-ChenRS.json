@@ -1,14 +1,38 @@
 {
-	"author": ["Ling Tony Chen", "Doron Rotem", "Sridhar Seshadri"],
-	"booktitle": "VLDB",
-	"cite": ["conf/vldb/ChenR93", "conf/vldb/GhandeharizadehD90", "...", "conf/pdis/FaloutsosB93", "journals/tc/FaloutsosM91", "conf/vldb/GhandeharizadehRAQ91", "journals/tkde/GhandeharizadehR93", "..."],
+	"author": [
+		"Ling Tony Chen",
+		"Doron Rotem",
+		"Sridhar Seshadri"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/vldb/ChenR93",
+		"conf/vldb/GhandeharizadehD90",
+		"...",
+		"conf/pdis/FaloutsosB93",
+		"journals/tc/FaloutsosM91",
+		"conf/vldb/GhandeharizadehRAQ91",
+		"journals/tkde/GhandeharizadehR93",
+		"..."
+	],
 	"crossref": "conf/vldb/95",
 	"dblpkey": "conf/vldb/ChenRS95",
 	"ee": "http://www.vldb.org/conf/1995/P110.PDF",
 	"pages": "110-121",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["declust", "databas", "on", "heterogen", "disk", "system"],
-	"tag": ["clustering", "database"],
+	"stemmed": [
+		"declust",
+		"databas",
+		"on",
+		"heterogen",
+		"disk",
+		"system"
+	],
+	"tag": [
+		"clustering",
+		"database"
+	],
 	"title": "Declustering Databases on Heterogeneous Disk Systems",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,7 @@
 {
 	"author": "Stephen E. Robertson",
 	"booktitle": "Proceedings of the Fourth International Conference on Information Storage and Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1981/P022.pdf",
 	"crossref": "conf/sigir/81",
 	"dblpkey": "conf/sigir/Robertson81",
@@ -8,7 +9,13 @@
 	"ee": "http://doi.acm.org/10.1145/511754.511758",
 	"pages": "22-29",
 	"publisher": "ACM",
-	"stemmed": ["term", "frequenc", "and", "term", "valu"],
+	"stemmed": [
+		"term",
+		"frequenc",
+		"and",
+		"term",
+		"valu"
+	],
 	"title": "Term Frequency and Term Value",
 	"type": "inproceedings",
 	"venue": "SIGIR",

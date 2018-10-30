@@ -1,13 +1,32 @@
 {
-	"acmid": 2485631,
-	"author": ["Merritt Miller", "Forrest Brewer"],
-	"booktitle": "DATE",
+	"acmid": "2485631",
+	"author": [
+		"Merritt Miller",
+		"Forrest Brewer"
+	],
+	"booktitle": "Proceedings of the 17th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2013",
 	"dblpkey": "conf/date/MillerB13",
 	"pages": "1442-1447",
 	"publisher": "EDA Consortium San Jose, CA, USA / ACM DL",
-	"stemmed": ["formal", "verif", "of", "analog", "circuit", "paramet", "across", "variat", "util", "sat"],
-	"tag": ["parametricity", "satisfiability", "verification"],
+	"stemmed": [
+		"formal",
+		"verif",
+		"of",
+		"analog",
+		"circuit",
+		"paramet",
+		"across",
+		"variat",
+		"util",
+		"sat"
+	],
+	"tag": [
+		"parametricity",
+		"satisfiability",
+		"verification"
+	],
 	"title": "Formal verification of analog circuit parameters across variation utilizing SAT",
 	"type": "inproceedings",
 	"venue": "DATE",

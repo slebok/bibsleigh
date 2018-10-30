@@ -1,14 +1,32 @@
 {
-	"author": ["Joong Hyuk Chang", "Won Suk Lee"],
-	"booktitle": "KDD",
+	"author": [
+		"Joong Hyuk Chang",
+		"Won Suk Lee"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2003",
 	"dblpkey": "conf/kdd/ChangL03",
 	"doi": "10.1145/956750.956807",
 	"ee": "http://doi.acm.org/10.1145/956750.956807",
 	"pages": "487-492",
 	"publisher": "ACM",
-	"stemmed": ["find", "recent", "frequent", "itemset", "adapt", "over", "onlin", "data", "stream"],
-	"tag": ["adaptation", "data type", "online"],
+	"stemmed": [
+		"find",
+		"recent",
+		"frequent",
+		"itemset",
+		"adapt",
+		"over",
+		"onlin",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"adaptation",
+		"data type",
+		"online"
+	],
 	"title": "Finding recent frequent itemsets adaptively over online data streams",
 	"type": "inproceedings",
 	"venue": "KDD",

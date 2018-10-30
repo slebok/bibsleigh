@@ -1,13 +1,35 @@
 {
-	"acmid": 802309,
-	"author": ["Prabhakar Goel", "Barry C. Rosales"],
-	"booktitle": "DAC",
+	"acmid": "802309",
+	"author": [
+		"Prabhakar Goel",
+		"Barry C. Rosales"
+	],
+	"booktitle": "Proceedings of the 18th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1981",
 	"dblpkey": "conf/dac/GoelR81",
 	"pages": "260-268",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["podem", "x", "an", "automat", "test", "generat", "system", "for", "vlsi", "logic", "structur"],
-	"tag": ["automation", "generative", "logic", "named", "testing"],
+	"stemmed": [
+		"podem",
+		"x",
+		"an",
+		"automat",
+		"test",
+		"generat",
+		"system",
+		"for",
+		"vlsi",
+		"logic",
+		"structur"
+	],
+	"tag": [
+		"automation",
+		"generative",
+		"logic",
+		"named",
+		"testing"
+	],
 	"title": "PODEM-X: An automatic test generation system for VLSI logic structures",
 	"type": "inproceedings",
 	"venue": "DAC",

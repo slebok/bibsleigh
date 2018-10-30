@@ -1,6 +1,7 @@
 {
 	"author": "Li-C. Wang",
-	"booktitle": "DATE",
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/Wang04",
 	"doi": "10.1109/DATE.2004.1268934",
@@ -8,8 +9,26 @@
 	"pages": "692-695",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["regress", "simul", "appli", "path", "base", "learn", "in", "delay", "test", "and", "post", "silicon", "valid"],
-	"tag": ["learning", "simulation", "validation"],
+	"stemmed": [
+		"regress",
+		"simul",
+		"appli",
+		"path",
+		"base",
+		"learn",
+		"in",
+		"delay",
+		"test",
+		"and",
+		"post",
+		"silicon",
+		"valid"
+	],
+	"tag": [
+		"learning",
+		"simulation",
+		"validation"
+	],
 	"title": "Regression Simulation: Applying Path-Based Learning In Delay Test and Post-Silicon Validation",
 	"type": "inproceedings",
 	"venue": "DATE",

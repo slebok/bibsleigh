@@ -1,6 +1,13 @@
 {
-	"author": ["Nicholas Gerner", "Fan Yang", "Alan J. Demers", "Johannes Gehrke", "Mirek Riedewald", "Jayavel Shanmugasundaram"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Nicholas Gerner",
+		"Fan Yang",
+		"Alan J. Demers",
+		"Johannes Gehrke",
+		"Mirek Riedewald",
+		"Jayavel Shanmugasundaram"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/GernerYDGRS06",
@@ -8,8 +15,23 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142580",
 	"pages": "760-762",
 	"publisher": "ACM",
-	"stemmed": ["automat", "client", "server", "partit", "of", "data", "driven", "web", "applic"],
-	"tag": ["automation", "clustering", "data-driven", "web"],
+	"stemmed": [
+		"automat",
+		"client",
+		"server",
+		"partit",
+		"of",
+		"data",
+		"driven",
+		"web",
+		"applic"
+	],
+	"tag": [
+		"automation",
+		"clustering",
+		"data-driven",
+		"web"
+	],
 	"title": "Automatic client-server partitioning of data-driven web applications",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

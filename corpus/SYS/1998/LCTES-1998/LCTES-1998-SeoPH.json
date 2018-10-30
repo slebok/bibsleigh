@@ -1,6 +1,11 @@
 {
-	"author": ["Yangmin Seo", "Jungkeun Park", "Seongsoo Hong"],
-	"booktitle": "LCTES",
+	"author": [
+		"Yangmin Seo",
+		"Jungkeun Park",
+		"Seongsoo Hong"
+	],
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/1998",
 	"dblpkey": "conf/lctrts/SeoPH98",
 	"doi": "10.1007/BFb0057789",
@@ -10,11 +15,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["effici", "user", "level", "i", "o", "in", "the", "arx", "real", "time", "oper", "system"],
-	"tag": ["operating system", "performance", "realtime"],
+	"stemmed": [
+		"effici",
+		"user",
+		"level",
+		"i",
+		"o",
+		"in",
+		"the",
+		"arx",
+		"real",
+		"time",
+		"oper",
+		"system"
+	],
+	"tag": [
+		"operating system",
+		"performance",
+		"realtime"
+	],
 	"title": "Efficient User-Level I/O in the ARX Real-Time Operating System",
 	"type": "inproceedings",
 	"venue": "LCTES",
-	"volume": 1474,
+	"volume": "1474",
 	"year": 1998
 }

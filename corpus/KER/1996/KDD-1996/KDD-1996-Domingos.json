@@ -1,13 +1,22 @@
 {
 	"author": "Pedro M. Domingos",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the Second International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1996",
 	"dblpkey": "conf/kdd/Domingos96",
 	"ee": "http://www.aaai.org/Library/KDD/1996/kdd96-016.php",
 	"pages": "96-101",
 	"publisher": "AAAI Press",
-	"stemmed": ["linear", "time", "rule", "induct"],
-	"tag": ["induction", "linear"],
+	"stemmed": [
+		"linear",
+		"time",
+		"rule",
+		"induct"
+	],
+	"tag": [
+		"induction",
+		"linear"
+	],
 	"title": "Linear-Time Rule Induction",
 	"type": "inproceedings",
 	"venue": "KDD",

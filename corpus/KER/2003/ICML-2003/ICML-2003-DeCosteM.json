@@ -1,13 +1,36 @@
 {
-	"author": ["Dennis DeCoste", "Dominic Mazzoni"],
+	"author": [
+		"Dennis DeCoste",
+		"Dominic Mazzoni"
+	],
 	"booktitle": "Proceedings of the 20th International Conference on Machine Learning",
+	"booktitleshort": "ICML",
 	"crossref": "conf/icml/2003",
 	"dblpkey": "conf/icml/DeCosteM03",
 	"ee": "http://www.aaai.org/Library/ICML/2003/icml03-018.php",
 	"pages": "115-122",
 	"publisher": "AAAI Press",
-	"stemmed": ["fast", "queri", "optim", "kernel", "machin", "classif", "via", "increment", "approxim", "nearest", "support", "vector"],
-	"tag": ["approximate", "classification", "incremental", "kernel", "performance"],
+	"stemmed": [
+		"fast",
+		"queri",
+		"optim",
+		"kernel",
+		"machin",
+		"classif",
+		"via",
+		"increment",
+		"approxim",
+		"nearest",
+		"support",
+		"vector"
+	],
+	"tag": [
+		"approximate",
+		"classification",
+		"incremental",
+		"kernel",
+		"performance"
+	],
 	"title": "Fast Query-Optimized Kernel Machine Classification Via Incremental Approximate Nearest Support Vectors",
 	"type": "inproceedings",
 	"venue": "ICML",

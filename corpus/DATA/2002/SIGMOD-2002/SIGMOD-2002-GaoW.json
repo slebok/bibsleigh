@@ -1,6 +1,9 @@
 {
-	"author": ["Like Gao", "Xiaoyang Sean Wang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Like Gao",
+		"Xiaoyang Sean Wang"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/GaoW02",
@@ -8,8 +11,24 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564734",
 	"pages": "370-381",
 	"publisher": "ACM",
-	"stemmed": ["continu", "evalu", "similar", "base", "pattern", "queri", "on", "a", "stream", "time", "seri"],
-	"tag": ["query", "similarity", "streaming"],
+	"stemmed": [
+		"continu",
+		"evalu",
+		"similar",
+		"base",
+		"pattern",
+		"queri",
+		"on",
+		"a",
+		"stream",
+		"time",
+		"seri"
+	],
+	"tag": [
+		"query",
+		"similarity",
+		"streaming"
+	],
 	"title": "Continually evaluating similarity-based pattern queries on a streaming time series",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

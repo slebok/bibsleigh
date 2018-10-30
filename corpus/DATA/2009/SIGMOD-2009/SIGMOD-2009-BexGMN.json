@@ -1,6 +1,11 @@
 {
-	"author": ["Geert Jan Bex", "Wouter Gelade", "Wim Martens", "Frank Neven"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Geert Jan Bex",
+		"Wouter Gelade",
+		"Wim Martens",
+		"Frank Neven"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/BexGMN09",
@@ -8,8 +13,22 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559922",
 	"pages": "731-744",
 	"publisher": "ACM",
-	"stemmed": ["simplifi", "xml", "schema", "effortless", "handl", "of", "nondeterminist", "regular", "express"],
-	"tag": ["nondeterminism", "regular expression", "xml"],
+	"stemmed": [
+		"simplifi",
+		"xml",
+		"schema",
+		"effortless",
+		"handl",
+		"of",
+		"nondeterminist",
+		"regular",
+		"express"
+	],
+	"tag": [
+		"nondeterminism",
+		"regular expression",
+		"xml"
+	],
 	"title": "Simplifying XML schema: effortless handling of nondeterministic regular expressions",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

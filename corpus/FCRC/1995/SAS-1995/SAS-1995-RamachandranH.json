@@ -1,6 +1,10 @@
 {
-	"author": ["Viswanath Ramachandran", "Pascal Van Hentenryck"],
+	"author": [
+		"Viswanath Ramachandran",
+		"Pascal Van Hentenryck"
+	],
 	"booktitle": "Proceedings of the Second International Static Analysis Symposium",
+	"booktitleshort": "SAS",
 	"crossref": "conf/sas/95",
 	"dblpkey": "conf/sas/RamachandranH95",
 	"doi": "10.1007/3-540-60360-3_48",
@@ -10,10 +14,14 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["l", "sign", "reorder"],
+	"stemmed": [
+		"l",
+		"sign",
+		"reorder"
+	],
 	"title": "LSign Reordered",
 	"type": "inproceedings",
 	"venue": "SAS",
-	"volume": 983,
+	"volume": "983",
 	"year": 1995
 }

@@ -1,14 +1,28 @@
 {
-	"author": ["Michael Benedikt", "Georg Gottlob", "Pierre Senellart"],
-	"booktitle": "PODS",
+	"author": [
+		"Michael Benedikt",
+		"Georg Gottlob",
+		"Pierre Senellart"
+	],
+	"booktitle": "Proceedings of the 30th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2011",
 	"dblpkey": "conf/pods/BenediktGS11",
 	"doi": "10.1145/1989284.1989309",
 	"ee": "http://doi.acm.org/10.1145/1989284.1989309",
 	"pages": "211-222",
 	"publisher": "ACM",
-	"stemmed": ["determin", "relev", "of", "access", "at", "runtim"],
-	"tag": ["runtime"],
+	"stemmed": [
+		"determin",
+		"relev",
+		"of",
+		"access",
+		"at",
+		"runtim"
+	],
+	"tag": [
+		"runtime"
+	],
 	"title": "Determining relevance of accesses at runtime",
 	"type": "inproceedings",
 	"venue": "PODS",

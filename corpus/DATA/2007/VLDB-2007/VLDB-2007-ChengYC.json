@@ -1,13 +1,28 @@
 {
-	"author": ["Tao Cheng", "Xifeng Yan", "Kevin Chen-Chuan Chang"],
-	"booktitle": "VLDB",
+	"author": [
+		"Tao Cheng",
+		"Xifeng Yan",
+		"Kevin Chen-Chuan Chang"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/ChengYC07",
 	"ee": "http://www.vldb.org/conf/2007/papers/research/p387-cheng.pdf",
 	"pages": "387-398",
 	"publisher": "ACM",
-	"stemmed": ["entiti", "rank", "search", "entiti", "direct", "and", "holist"],
-	"tag": ["named"],
+	"stemmed": [
+		"entiti",
+		"rank",
+		"search",
+		"entiti",
+		"direct",
+		"and",
+		"holist"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "EntityRank: Searching Entities Directly and Holistically",
 	"type": "inproceedings",
 	"venue": "VLDB",

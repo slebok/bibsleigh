@@ -1,6 +1,11 @@
 {
-	"author": ["Gang Luo", "Curt J. Ellmann", "Peter J. Haas", "Jeffrey F. Naughton"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Gang Luo",
+		"Curt J. Ellmann",
+		"Peter J. Haas",
+		"Jeffrey F. Naughton"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/LuoEHN02",
@@ -8,8 +13,18 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564721",
 	"pages": "252-262",
 	"publisher": "ACM",
-	"stemmed": ["a", "scalabl", "hash", "rippl", "join", "algorithm"],
-	"tag": ["algorithm", "scalability"],
+	"stemmed": [
+		"a",
+		"scalabl",
+		"hash",
+		"rippl",
+		"join",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"scalability"
+	],
 	"title": "A scalable hash ripple join algorithm",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

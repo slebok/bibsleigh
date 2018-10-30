@@ -1,6 +1,9 @@
 {
-	"author": ["Dan Olteanu", "Jiewen Huang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Dan Olteanu",
+		"Jiewen Huang"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/OlteanuH09",
@@ -8,8 +11,20 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559887",
 	"pages": "389-402",
 	"publisher": "ACM",
-	"stemmed": ["secondari", "storag", "confid", "comput", "for", "conjunct", "queri", "with", "inequ"],
-	"tag": ["query"],
+	"stemmed": [
+		"secondari",
+		"storag",
+		"confid",
+		"comput",
+		"for",
+		"conjunct",
+		"queri",
+		"with",
+		"inequ"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Secondary-storage confidence computation for conjunctive queries with inequalities",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

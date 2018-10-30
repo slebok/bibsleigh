@@ -1,14 +1,31 @@
 {
-	"author": ["Nilesh N. Dalvi", "Ravi Kumar", "Ashwin Machanavajjhala", "Vibhor Rastogi"],
-	"booktitle": "KDD",
+	"author": [
+		"Nilesh N. Dalvi",
+		"Ravi Kumar",
+		"Ashwin Machanavajjhala",
+		"Vibhor Rastogi"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/DalviKMR11",
 	"doi": "10.1145/2020408.2020606",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020606",
 	"pages": "1325-1333",
 	"publisher": "ACM",
-	"stemmed": ["sampl", "hidden", "object", "use", "nearest", "neighbor", "oracl"],
-	"tag": ["nearest neighbour", "using"],
+	"stemmed": [
+		"sampl",
+		"hidden",
+		"object",
+		"use",
+		"nearest",
+		"neighbor",
+		"oracl"
+	],
+	"tag": [
+		"nearest neighbour",
+		"using"
+	],
 	"title": "Sampling hidden objects using nearest-neighbor oracles",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,6 +1,7 @@
 {
 	"author": "Charles Hymans",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the Sixth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2005",
 	"dblpkey": "conf/vmcai/Hymans05",
 	"doi": "10.1007/978-3-540-30579-8_22",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["verif", "of", "an", "error", "correct", "code", "by", "abstract", "interpret"],
-	"tag": ["abstract interpretation", "fault", "verification"],
+	"stemmed": [
+		"verif",
+		"of",
+		"an",
+		"error",
+		"correct",
+		"code",
+		"by",
+		"abstract",
+		"interpret"
+	],
+	"tag": [
+		"abstract interpretation",
+		"fault",
+		"verification"
+	],
 	"title": "Verification of an Error Correcting Code by Abstract Interpretation",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3385,
+	"volume": "3385",
 	"year": 2005
 }

@@ -1,16 +1,47 @@
 {
-	"acmid": 776283,
-	"author": ["Enric Gibert", "F. Jesús Sánchez", "Antonio González"],
-	"booktitle": "CGO",
+	"acmid": "776283",
+	"author": [
+		"Enric Gibert",
+		"F. Jesús Sánchez",
+		"Antonio González"
+	],
+	"booktitle": "Proceedings of the First International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2003",
 	"dblpkey": "conf/cgo/GibertSG03",
 	"doi": "10.1109/CGO.2003.1191545",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2003.1191545", "http://doi.ieeecomputersociety.org/10.1109/CGO.2003.1191545", "http://dl.acm.org/citation.cfm?id=776283"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2003.1191545",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2003.1191545",
+		"http://dl.acm.org/citation.cfm?id=776283"
+	],
 	"pages": "193-203",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["local", "schedul", "techniqu", "for", "memori", "coher", "in", "a", "cluster", "vliw", "processor", "with", "a", "distribut", "data", "cach"],
-	"tag": ["clustering", "distributed", "memory management", "scheduling"],
+	"stemmed": [
+		"local",
+		"schedul",
+		"techniqu",
+		"for",
+		"memori",
+		"coher",
+		"in",
+		"a",
+		"cluster",
+		"vliw",
+		"processor",
+		"with",
+		"a",
+		"distribut",
+		"data",
+		"cach"
+	],
+	"tag": [
+		"clustering",
+		"distributed",
+		"memory management",
+		"scheduling"
+	],
 	"title": "Local Scheduling Techniques for Memory Coherence in a Clustered VLIW Processor with a Distributed Data Cache",
 	"type": "inproceedings",
 	"venue": "CGO",

@@ -1,6 +1,10 @@
 {
-	"author": ["Sai Wu", "Beng Chin Ooi", "Kian-Lee Tan"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Sai Wu",
+		"Beng Chin Ooi",
+		"Kian-Lee Tan"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/WuOT10",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807238",
 	"pages": "651-662",
 	"publisher": "ACM",
-	"stemmed": ["continu", "sampl", "for", "onlin", "aggreg", "over", "multipl", "queri"],
-	"tag": ["multi", "online", "query"],
+	"stemmed": [
+		"continu",
+		"sampl",
+		"for",
+		"onlin",
+		"aggreg",
+		"over",
+		"multipl",
+		"queri"
+	],
+	"tag": [
+		"multi",
+		"online",
+		"query"
+	],
 	"title": "Continuous sampling for online aggregation over multiple queries",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

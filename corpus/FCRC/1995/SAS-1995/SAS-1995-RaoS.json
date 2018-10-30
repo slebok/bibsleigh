@@ -1,6 +1,10 @@
 {
-	"author": ["M. R. K. Krishna Rao", "R. K. Shyamasundar"],
+	"author": [
+		"M. R. K. Krishna Rao",
+		"R. K. Shyamasundar"
+	],
 	"booktitle": "Proceedings of the Second International Static Analysis Symposium",
+	"booktitleshort": "SAS",
 	"crossref": "conf/sas/95",
 	"dblpkey": "conf/sas/RaoS95",
 	"doi": "10.1007/3-540-60360-3_43",
@@ -10,11 +14,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["unif", "free", "execut", "of", "well", "mode", "and", "well", "type", "prolog", "program"],
-	"tag": ["execution", "prolog", "source code"],
+	"stemmed": [
+		"unif",
+		"free",
+		"execut",
+		"of",
+		"well",
+		"mode",
+		"and",
+		"well",
+		"type",
+		"prolog",
+		"program"
+	],
+	"tag": [
+		"execution",
+		"prolog",
+		"source code"
+	],
 	"title": "Unification-Free Execution of Well-Moded and Well-Typed Prolog Programs",
 	"type": "inproceedings",
 	"venue": "SAS",
-	"volume": 983,
+	"volume": "983",
 	"year": 1995
 }

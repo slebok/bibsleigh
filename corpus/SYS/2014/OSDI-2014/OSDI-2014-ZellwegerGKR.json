@@ -1,13 +1,29 @@
 {
-	"author": ["Gerd Zellweger", "Simon Gerber", "Kornilios Kourtis", "Timothy Roscoe"],
-	"booktitle": "OSDI",
+	"author": [
+		"Gerd Zellweger",
+		"Simon Gerber",
+		"Kornilios Kourtis",
+		"Timothy Roscoe"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2014",
 	"dblpkey": "conf/osdi/ZellwegerGKR14",
 	"ee": "https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zellweger",
 	"pages": "17-31",
 	"publisher": "USENIX Association",
-	"stemmed": ["decoupl", "core", "kernel", "and", "oper", "system"],
-	"tag": ["kernel", "operating system"],
+	"stemmed": [
+		"decoupl",
+		"core",
+		"kernel",
+		"and",
+		"oper",
+		"system"
+	],
+	"tag": [
+		"kernel",
+		"operating system"
+	],
 	"title": "Decoupling Cores, Kernels, and Operating Systems",
 	"type": "inproceedings",
 	"venue": "OSDI",

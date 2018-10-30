@@ -1,14 +1,31 @@
 {
-	"author": ["Qi Zhao", "Mitsunori Ogihara", "Haixun Wang", "Jun (Jim) Xu"],
-	"booktitle": "PODS",
+	"author": [
+		"Qi Zhao",
+		"Mitsunori Ogihara",
+		"Haixun Wang",
+		"Jun (Jim) Xu"
+	],
+	"booktitle": "Proceedings of the 25th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2006",
 	"dblpkey": "conf/pods/ZhaoOWX06",
 	"doi": "10.1145/1142351.1142394",
 	"ee": "http://doi.acm.org/10.1145/1142351.1142394",
 	"pages": "298-307",
 	"publisher": "ACM",
-	"stemmed": ["find", "global", "iceberg", "over", "distribut", "data", "set"],
-	"tag": ["distributed", "set"],
+	"stemmed": [
+		"find",
+		"global",
+		"iceberg",
+		"over",
+		"distribut",
+		"data",
+		"set"
+	],
+	"tag": [
+		"distributed",
+		"set"
+	],
 	"title": "Finding global icebergs over distributed data sets",
 	"type": "inproceedings",
 	"venue": "PODS",

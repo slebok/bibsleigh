@@ -1,13 +1,30 @@
 {
-	"author": ["George Karypis", "Rajat Aggarwal", "Vipin Kumar", "Shashi Shekhar"],
-	"booktitle": "DAC",
+	"author": [
+		"George Karypis",
+		"Rajat Aggarwal",
+		"Vipin Kumar",
+		"Shashi Shekhar"
+	],
+	"booktitle": "Proceedings of the 34th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/KarypisAKS97",
 	"doi": "10.1145/266021.266273",
 	"ee": "http://doi.acm.org/10.1145/266021.266273",
 	"pages": "526-529",
 	"publisher": "ACM Press",
-	"stemmed": ["multilevel", "hypergraph", "partit", "applic", "in", "vlsi", "domain"],
-	"tag": ["clustering", "multi"],
+	"stemmed": [
+		"multilevel",
+		"hypergraph",
+		"partit",
+		"applic",
+		"in",
+		"vlsi",
+		"domain"
+	],
+	"tag": [
+		"clustering",
+		"multi"
+	],
 	"title": "Multilevel Hypergraph Partitioning: Application in VLSI Domain",
 	"type": "inproceedings",
 	"venue": "DAC",

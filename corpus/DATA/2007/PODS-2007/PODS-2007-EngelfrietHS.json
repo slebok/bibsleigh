@@ -1,14 +1,32 @@
 {
-	"author": ["Joost Engelfriet", "Hendrik Jan Hoogeboom", "Bart Samwel"],
-	"booktitle": "PODS",
+	"author": [
+		"Joost Engelfriet",
+		"Hendrik Jan Hoogeboom",
+		"Bart Samwel"
+	],
+	"booktitle": "Proceedings of the 26th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2007",
 	"dblpkey": "conf/pods/EngelfrietHS07",
 	"doi": "10.1145/1265530.1265540",
 	"ee": "http://doi.acm.org/10.1145/1265530.1265540",
 	"pages": "63-72",
 	"publisher": "ACM",
-	"stemmed": ["xml", "transform", "by", "tree", "walk", "transduc", "with", "invis", "pebbl"],
-	"tag": ["transducer", "xml"],
+	"stemmed": [
+		"xml",
+		"transform",
+		"by",
+		"tree",
+		"walk",
+		"transduc",
+		"with",
+		"invis",
+		"pebbl"
+	],
+	"tag": [
+		"transducer",
+		"xml"
+	],
 	"title": "XML transformation by tree-walking transducers with invisible pebbles",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,14 +1,30 @@
 {
-	"author": ["Giovanni Agosta", "Francesco Bruschi", "Donatella Sciuto"],
-	"booktitle": "DAC",
+	"author": [
+		"Giovanni Agosta",
+		"Francesco Bruschi",
+		"Donatella Sciuto"
+	],
+	"booktitle": "Proceedings of the 40th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2003",
 	"dblpkey": "conf/dac/AgostaBS03",
 	"doi": "10.1145/775832.775950",
 	"ee": "http://doi.acm.org/10.1145/775832.775950",
 	"pages": "448-453",
 	"publisher": "ACM",
-	"stemmed": ["static", "analysi", "of", "transact", "level", "model"],
-	"tag": ["modelling", "static analysis", "transaction"],
+	"stemmed": [
+		"static",
+		"analysi",
+		"of",
+		"transact",
+		"level",
+		"model"
+	],
+	"tag": [
+		"modelling",
+		"static analysis",
+		"transaction"
+	],
 	"title": "Static analysis of transaction-level models",
 	"type": "inproceedings",
 	"venue": "DAC",

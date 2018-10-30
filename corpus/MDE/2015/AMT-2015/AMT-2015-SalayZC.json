@@ -1,6 +1,10 @@
 {
-	"author": ["Rick Salay", "Steffen Zschaler", "Marsha Chechik"],
-	"booktitle": "AMT@MoDELS",
+	"author": [
+		"Rick Salay",
+		"Steffen Zschaler",
+		"Marsha Chechik"
+	],
+	"booktitle": "Proceedings of the Fourth Workshop on the Analysis of Model Transformations",
 	"booktitleshort": "AMT",
 	"crossref": "conf/models/2015amt",
 	"dblpkey": "conf/models/SalayZC15",
@@ -9,11 +13,22 @@
 	"publisher": "CEUR-WS.org",
 	"series": "CEUR Workshop Proceedings",
 	"seriesshort": "CEUR",
-	"stemmed": ["transform", "reus", "what", "is", "the", "intent"],
-	"tag": ["question", "reuse", "what"],
+	"stemmed": [
+		"transform",
+		"reus",
+		"what",
+		"is",
+		"the",
+		"intent"
+	],
+	"tag": [
+		"question",
+		"reuse",
+		"what"
+	],
 	"title": "Transformation Reuse: What is the Intent?",
 	"type": "inproceedings",
 	"venue": "AMT",
-	"volume": 1500,
+	"volume": "1500",
 	"year": 2015
 }

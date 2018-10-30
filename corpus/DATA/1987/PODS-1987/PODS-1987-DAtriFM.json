@@ -1,16 +1,49 @@
 {
-	"author": ["Alessandro D'Atri", "Paolino Di Felice", "Marina Moscarini"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS87/P070.PDF", "journals/anthology/dvd1:text/1-3/PODS87/P070.PDF"],
-	"cite": ["conf/pods/AtzeniP82", "...", "conf/vldb/BiskupB83", "conf/mfdbs/DAtriFLM87", "...", "conf/sigmod/DAtriMS83", "journals/tods/Kent81", "journals/tods/KorthKFGU84", "conf/sigmod/MaierRSSW82", "...", "journals/tods/Sagiv83", "...", "books/cs/Ullman82"],
+	"author": [
+		"Alessandro D'Atri",
+		"Paolino Di Felice",
+		"Marina Moscarini"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS87/P070.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS87/P070.PDF"
+	],
+	"cite": [
+		"conf/pods/AtzeniP82",
+		"...",
+		"conf/vldb/BiskupB83",
+		"conf/mfdbs/DAtriFLM87",
+		"...",
+		"conf/sigmod/DAtriMS83",
+		"journals/tods/Kent81",
+		"journals/tods/KorthKFGU84",
+		"conf/sigmod/MaierRSSW82",
+		"...",
+		"journals/tods/Sagiv83",
+		"...",
+		"books/cs/Ullman82"
+	],
 	"crossref": "conf/pods/87",
 	"dblpkey": "conf/pods/DAtriFM87",
 	"doi": "10.1145/28659.28666",
 	"ee": "http://doi.acm.org/10.1145/28659.28666",
 	"pages": "70-78",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "queri", "interpret", "in", "relat", "databas"],
-	"tag": ["database", "query", "relational"],
+	"stemmed": [
+		"dynam",
+		"queri",
+		"interpret",
+		"in",
+		"relat",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"query",
+		"relational"
+	],
 	"title": "Dynamic Query Interpretation in Relational Databases",
 	"type": "inproceedings",
 	"venue": "PODS",

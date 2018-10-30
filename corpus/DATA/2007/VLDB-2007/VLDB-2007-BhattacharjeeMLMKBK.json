@@ -1,13 +1,37 @@
 {
-	"author": ["Bishwaranjan Bhattacharjee", "Timothy Malkemus", "Sherman Lau", "Sean Mckeough", "Jo-Anne Kirton", "Robin Von Boeschoten", "John Kennedy"],
-	"booktitle": "VLDB",
+	"author": [
+		"Bishwaranjan Bhattacharjee",
+		"Timothy Malkemus",
+		"Sherman Lau",
+		"Sean Mckeough",
+		"Jo-Anne Kirton",
+		"Robin Von Boeschoten",
+		"John Kennedy"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/BhattacharjeeMLMKBK07",
 	"ee": "http://www.vldb.org/conf/2007/papers/industrial/p1197-bhattacharjee.pdf",
 	"pages": "1197-1206",
 	"publisher": "ACM",
-	"stemmed": ["effici", "bulk", "delet", "for", "multi", "dimension", "cluster", "tabl", "in", "db"],
-	"tag": ["clustering", "multi", "performance"],
+	"stemmed": [
+		"effici",
+		"bulk",
+		"delet",
+		"for",
+		"multi",
+		"dimension",
+		"cluster",
+		"tabl",
+		"in",
+		"db"
+	],
+	"tag": [
+		"clustering",
+		"multi",
+		"performance"
+	],
 	"title": "Efficient Bulk Deletes for Multi Dimensionally Clustered Tables in DB2",
 	"type": "inproceedings",
 	"venue": "VLDB",

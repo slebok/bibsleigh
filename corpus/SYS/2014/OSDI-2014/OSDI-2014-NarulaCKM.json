@@ -1,13 +1,30 @@
 {
-	"author": ["Neha Narula", "Cody Cutler", "Eddie Kohler", "Robert Morris"],
-	"booktitle": "OSDI",
+	"author": [
+		"Neha Narula",
+		"Cody Cutler",
+		"Eddie Kohler",
+		"Robert Morris"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2014",
 	"dblpkey": "conf/osdi/NarulaCKM14",
 	"ee": "https://www.usenix.org/conference/osdi14/technical-sessions/presentation/narula",
 	"pages": "511-524",
 	"publisher": "USENIX Association",
-	"stemmed": ["phase", "reconcili", "for", "contend", "in", "memori", "transact"],
-	"tag": ["in memory", "transaction"],
+	"stemmed": [
+		"phase",
+		"reconcili",
+		"for",
+		"contend",
+		"in",
+		"memori",
+		"transact"
+	],
+	"tag": [
+		"in memory",
+		"transaction"
+	],
 	"title": "Phase Reconciliation for Contended In-Memory Transactions",
 	"type": "inproceedings",
 	"venue": "OSDI",

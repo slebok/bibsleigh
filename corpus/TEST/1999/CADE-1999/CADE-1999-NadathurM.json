@@ -1,6 +1,10 @@
 {
-	"author": ["Gopalan Nadathur", "Dustin J. Mitchell"],
-	"booktitle": "CADE",
+	"author": [
+		"Gopalan Nadathur",
+		"Dustin J. Mitchell"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1999",
 	"dblpkey": "conf/cade/NadathurM99",
 	"doi": "10.1007/3-540-48660-7_25",
@@ -10,11 +14,31 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "teyjus", "a", "compil", "and", "abstract", "machin", "base", "implement", "of", "lambda", "prolog"],
-	"tag": ["automaton", "compilation", "implementation", "prolog", "λ-calculus"],
+	"stemmed": [
+		"system",
+		"descript",
+		"teyjus",
+		"a",
+		"compil",
+		"and",
+		"abstract",
+		"machin",
+		"base",
+		"implement",
+		"of",
+		"lambda",
+		"prolog"
+	],
+	"tag": [
+		"automaton",
+		"compilation",
+		"implementation",
+		"prolog",
+		"λ-calculus"
+	],
 	"title": "System Description: Teyjus — A Compiler and Abstract Machine Based Implementation of lambda-Prolog",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1632,
+	"volume": "1632",
 	"year": 1999
 }

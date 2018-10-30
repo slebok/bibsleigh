@@ -1,14 +1,31 @@
 {
-	"author": ["Kaviraj Chopra", "Sarma B. K. Vrudhula"],
-	"booktitle": "DAC",
+	"author": [
+		"Kaviraj Chopra",
+		"Sarma B. K. Vrudhula"
+	],
+	"booktitle": "Proceedings of the 41st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2004",
 	"dblpkey": "conf/dac/ChopraV04",
 	"doi": "10.1145/996566.996774",
 	"ee": "http://doi.acm.org/10.1145/996566.996774",
 	"pages": "767-772",
 	"publisher": "ACM",
-	"stemmed": ["implicit", "pseudo", "boolean", "enumer", "algorithm", "for", "input", "vector", "control"],
-	"tag": ["algorithm", "pseudo"],
+	"stemmed": [
+		"implicit",
+		"pseudo",
+		"boolean",
+		"enumer",
+		"algorithm",
+		"for",
+		"input",
+		"vector",
+		"control"
+	],
+	"tag": [
+		"algorithm",
+		"pseudo"
+	],
 	"title": "Implicit pseudo boolean enumeration algorithms for input vector control",
 	"type": "inproceedings",
 	"venue": "DAC",

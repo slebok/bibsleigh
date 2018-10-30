@@ -1,14 +1,29 @@
 {
-	"author": ["Samir Khuller", "Yoo Ah Kim", "Yung-Chun (Justin) Wan"],
-	"booktitle": "PODS",
+	"author": [
+		"Samir Khuller",
+		"Yoo Ah Kim",
+		"Yung-Chun (Justin) Wan"
+	],
+	"booktitle": "Proceedings of the 22nd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2003",
 	"dblpkey": "conf/pods/KhullerKW03",
 	"doi": "10.1145/773153.773156",
 	"ee": "http://doi.acm.org/10.1145/773153.773156",
 	"pages": "27-36",
 	"publisher": "ACM",
-	"stemmed": ["algorithm", "for", "data", "migrat", "with", "clone"],
-	"tag": ["algorithm", "migration"],
+	"stemmed": [
+		"algorithm",
+		"for",
+		"data",
+		"migrat",
+		"with",
+		"clone"
+	],
+	"tag": [
+		"algorithm",
+		"migration"
+	],
 	"title": "Algorithms for data migration with cloning",
 	"type": "inproceedings",
 	"venue": "PODS",

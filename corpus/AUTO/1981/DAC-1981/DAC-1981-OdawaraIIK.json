@@ -1,13 +1,32 @@
 {
-	"acmid": 802294,
-	"author": ["Gotaro Odawara", "Kazuhiko Iijima", "Naoto Ichihara", "Tetsuro Kiyomatsu"],
-	"booktitle": "DAC",
+	"acmid": "802294",
+	"author": [
+		"Gotaro Odawara",
+		"Kazuhiko Iijima",
+		"Naoto Ichihara",
+		"Tetsuro Kiyomatsu"
+	],
+	"booktitle": "Proceedings of the 18th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1981",
 	"dblpkey": "conf/dac/OdawaraIIK81",
 	"pages": "153-159",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["pas", "lop", "an", "automat", "modul", "locat", "system", "for", "pwb"],
-	"tag": ["automation", "named"],
+	"stemmed": [
+		"pas",
+		"lop",
+		"an",
+		"automat",
+		"modul",
+		"locat",
+		"system",
+		"for",
+		"pwb"
+	],
+	"tag": [
+		"automation",
+		"named"
+	],
 	"title": "PAS-LOP: An automatic module location system for PWB",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,15 +1,44 @@
 {
-	"author": ["Tomoyuki Saoi", "Hideaki Goto", "Hiroaki Kobayashi"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Tomoyuki Saoi",
+		"Hideaki Goto",
+		"Hiroaki Kobayashi"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2005",
 	"dblpkey": "conf/icdar/SaoiGK05",
 	"doi": "10.1109/ICDAR.2005.227",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2005.227", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.227"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2005.227",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.227"
+	],
 	"pages": "690-694",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["text", "detect", "in", "color", "scene", "imag", "base", "on", "unsupervis", "cluster", "of", "multi", "channel", "wavelet", "featur"],
-	"tag": ["clustering", "detection", "image", "multi"],
+	"stemmed": [
+		"text",
+		"detect",
+		"in",
+		"color",
+		"scene",
+		"imag",
+		"base",
+		"on",
+		"unsupervis",
+		"cluster",
+		"of",
+		"multi",
+		"channel",
+		"wavelet",
+		"featur"
+	],
+	"tag": [
+		"clustering",
+		"detection",
+		"image",
+		"multi"
+	],
 	"title": "Text Detection in Color Scene Images based on Unsupervised Clustering of Multi-channel Wavelet Features",
 	"type": "inproceedings",
 	"venue": "ICDAR",

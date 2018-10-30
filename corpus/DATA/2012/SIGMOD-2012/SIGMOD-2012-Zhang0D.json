@@ -1,6 +1,10 @@
 {
-	"author": ["Mingyang Zhang", "Nan Zhang", "Gautam Das"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Mingyang Zhang",
+		"Nan Zhang",
+		"Gautam Das"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/Zhang0D12",
@@ -8,8 +12,17 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213890",
 	"pages": "469-480",
 	"publisher": "ACM",
-	"stemmed": ["aggreg", "suppress", "for", "enterpris", "search", "engin"],
-	"tag": ["enterprise"],
+	"stemmed": [
+		"aggreg",
+		"suppress",
+		"for",
+		"enterpris",
+		"search",
+		"engin"
+	],
+	"tag": [
+		"enterprise"
+	],
 	"title": "Aggregate suppression for enterprise search engines",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

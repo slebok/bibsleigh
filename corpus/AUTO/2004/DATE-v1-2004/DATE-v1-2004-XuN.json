@@ -1,6 +1,10 @@
 {
-	"author": ["Qiang Xu", "Nicola Nicolici"],
-	"booktitle": "DATE",
+	"author": [
+		"Qiang Xu",
+		"Nicola Nicolici"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/XuN04",
 	"doi": "10.1109/DATE.2004.1268882",
@@ -8,8 +12,23 @@
 	"pages": "416-421",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["wrapper", "design", "for", "test", "ip", "core", "with", "multipl", "clock", "domain"],
-	"tag": ["design", "multi", "testing"],
+	"stemmed": [
+		"wrapper",
+		"design",
+		"for",
+		"test",
+		"ip",
+		"core",
+		"with",
+		"multipl",
+		"clock",
+		"domain"
+	],
+	"tag": [
+		"design",
+		"multi",
+		"testing"
+	],
 	"title": "Wrapper Design for Testing IP Cores with Multiple Clock Domains",
 	"type": "inproceedings",
 	"venue": "DATE",

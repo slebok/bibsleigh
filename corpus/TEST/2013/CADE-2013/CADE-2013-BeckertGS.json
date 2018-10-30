@@ -1,6 +1,11 @@
 {
-	"author": ["Bernhard Beckert", "Rajeev Goré", "Carsten Schürmann"],
-	"booktitle": "CADE",
+	"author": [
+		"Bernhard Beckert",
+		"Rajeev Goré",
+		"Carsten Schürmann"
+	],
+	"booktitle": "Proceedings of the 24th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2013",
 	"dblpkey": "conf/cade/BeckertGS13",
 	"doi": "10.1007/978-3-642-38574-2_9",
@@ -10,11 +15,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["analys", "vote", "count", "algorithm", "via", "logic", "and", "it", "applic", "to", "the", "cade", "elect", "scheme"],
-	"tag": ["algorithm", "logic"],
+	"stemmed": [
+		"analys",
+		"vote",
+		"count",
+		"algorithm",
+		"via",
+		"logic",
+		"and",
+		"it",
+		"applic",
+		"to",
+		"the",
+		"cade",
+		"elect",
+		"scheme"
+	],
+	"tag": [
+		"algorithm",
+		"logic"
+	],
 	"title": "Analysing Vote Counting Algorithms via Logic — And Its Application to the CADE Election Scheme",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 7898,
+	"volume": "7898",
 	"year": 2013
 }

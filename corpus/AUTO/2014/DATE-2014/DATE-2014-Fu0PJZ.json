@@ -1,14 +1,39 @@
 {
-	"author": ["Jian Fu", "Qiang Yang", "Raphael Poss", "Chris R. Jesshope", "Chunyuan Zhang"],
-	"booktitle": "DATE",
+	"author": [
+		"Jian Fu",
+		"Qiang Yang",
+		"Raphael Poss",
+		"Chris R. Jesshope",
+		"Chunyuan Zhang"
+	],
+	"booktitle": "Proceedings of the 18th Conference and Exhibition on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2014",
 	"dblpkey": "conf/date/Fu0PJZ14",
 	"doi": "10.7873/DATE.2014.076",
 	"ee": "http://dx.doi.org/10.7873/DATE.2014.076",
 	"pages": "1-4",
 	"publisher": "IEEE",
-	"stemmed": ["a", "fault", "detect", "mechan", "in", "a", "data", "flow", "schedul", "multithread", "processor"],
-	"tag": ["data flow", "detection", "fault", "parallel", "thread"],
+	"stemmed": [
+		"a",
+		"fault",
+		"detect",
+		"mechan",
+		"in",
+		"a",
+		"data",
+		"flow",
+		"schedul",
+		"multithread",
+		"processor"
+	],
+	"tag": [
+		"data flow",
+		"detection",
+		"fault",
+		"parallel",
+		"thread"
+	],
 	"title": "A fault detection mechanism in a Data-flow scheduled Multithreaded processor",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,5 +1,6 @@
 {
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD95/P423.PDF",
 	"crossref": "conf/sigmod/95",
 	"dblpkey": "conf/sigmod/Team95",
@@ -7,8 +8,24 @@
 	"ee": "http://doi.acm.org/10.1145/223784.223857",
 	"pages": "423-424",
 	"publisher": "ACM Press",
-	"stemmed": ["object", "orient", "rapid", "applic", "develop", "in", "a", "pc", "databas", "environ"],
-	"tag": ["agile", "database", "development", "object-oriented"],
+	"stemmed": [
+		"object",
+		"orient",
+		"rapid",
+		"applic",
+		"develop",
+		"in",
+		"a",
+		"pc",
+		"databas",
+		"environ"
+	],
+	"tag": [
+		"agile",
+		"database",
+		"development",
+		"object-oriented"
+	],
 	"title": "Object-Oriented, Rapid Application Development in a PC Database Environment",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,7 @@
 {
 	"author": "Johann Schumann",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/Schumann94",
 	"doi": "10.1007/3-540-58156-1_58",
@@ -10,11 +11,31 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["delta", "a", "bottom", "up", "preprocessor", "for", "top", "down", "theorem", "prover", "system", "abstract"],
-	"tag": ["bottom-up", "named", "preprocessor", "proving", "theorem proving", "top-down"],
+	"stemmed": [
+		"delta",
+		"a",
+		"bottom",
+		"up",
+		"preprocessor",
+		"for",
+		"top",
+		"down",
+		"theorem",
+		"prover",
+		"system",
+		"abstract"
+	],
+	"tag": [
+		"bottom-up",
+		"named",
+		"preprocessor",
+		"proving",
+		"theorem proving",
+		"top-down"
+	],
 	"title": "DELTA — A Bottom-up Preprocessor for Top-Down Theorem Provers — System Abstract",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

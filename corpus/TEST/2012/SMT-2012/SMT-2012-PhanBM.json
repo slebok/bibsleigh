@@ -1,6 +1,10 @@
 {
-	"author": ["Anh-Dung Phan", "Nikolaj Bjørner", "David Monniaux"],
-	"booktitle": "SMT@IJCAR",
+	"author": [
+		"Anh-Dung Phan",
+		"Nikolaj Bjørner",
+		"David Monniaux"
+	],
+	"booktitle": "Proceedings of the 10th International Workshop on Satisfiability Modulo Theories",
 	"booktitleshort": "SMT",
 	"crossref": "conf/cade/2012smt",
 	"dblpkey": "conf/cade/PhanBM12",
@@ -8,11 +12,23 @@
 	"pages": "120-130",
 	"publisher": "EasyChair",
 	"series": "EPiC Series",
-	"stemmed": ["anatomi", "of", "altern", "quantifi", "satisfi", "work", "in", "progress"],
-	"tag": ["quantifier", "satisfiability"],
+	"stemmed": [
+		"anatomi",
+		"of",
+		"altern",
+		"quantifi",
+		"satisfi",
+		"work",
+		"in",
+		"progress"
+	],
+	"tag": [
+		"quantifier",
+		"satisfiability"
+	],
 	"title": "Anatomy of Alternating Quantifier Satisfiability (Work in progress)",
 	"type": "inproceedings",
 	"venue": "SMT",
-	"volume": 20,
+	"volume": "20",
 	"year": 2012
 }

@@ -1,14 +1,33 @@
 {
-	"author": ["Melanie Elm", "Hans-Joachim Wunderlich", "Michael E. Imhof", "Christian G. Zoellin", "Jens Leenstra", "Nicolas Mäding"],
-	"booktitle": "DAC",
+	"author": [
+		"Melanie Elm",
+		"Hans-Joachim Wunderlich",
+		"Michael E. Imhof",
+		"Christian G. Zoellin",
+		"Jens Leenstra",
+		"Nicolas Mäding"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/ElmWIZLM08",
 	"doi": "10.1145/1391469.1391680",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391680",
 	"pages": "828-833",
 	"publisher": "ACM",
-	"stemmed": ["scan", "chain", "cluster", "for", "test", "power", "reduct"],
-	"tag": ["clustering", "reduction"],
+	"stemmed": [
+		"scan",
+		"chain",
+		"cluster",
+		"for",
+		"test",
+		"power",
+		"reduct"
+	],
+	"tag": [
+		"clustering",
+		"reduction"
+	],
 	"title": "Scan chain clustering for test power reduction",
 	"type": "inproceedings",
 	"venue": "DAC",

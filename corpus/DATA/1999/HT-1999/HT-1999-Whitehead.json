@@ -1,6 +1,7 @@
 {
 	"author": "E. James Whitehead Jr.",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the 10th Conference on Hypertext and Hypermedia",
+	"booktitleshort": "HT",
 	"cdrom": "HT1999/P075.pdf",
 	"crossref": "conf/ht/99",
 	"dblpkey": "conf/ht/Whitehead99",
@@ -8,8 +9,20 @@
 	"ee": "http://doi.acm.org/10.1145/294469.294491",
 	"pages": "75-82",
 	"publisher": "ACM",
-	"stemmed": ["control", "choic", "and", "network", "effect", "in", "hypertext", "system"],
-	"tag": ["hypermedia", "network"],
+	"stemmed": [
+		"control",
+		"choic",
+		"and",
+		"network",
+		"effect",
+		"in",
+		"hypertext",
+		"system"
+	],
+	"tag": [
+		"hypermedia",
+		"network"
+	],
 	"title": "Control Choices and Network Effects in Hypertext Systems",
 	"type": "inproceedings",
 	"venue": "HT",

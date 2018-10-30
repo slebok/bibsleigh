@@ -1,6 +1,11 @@
 {
-	"author": ["Peter B. Andrews", "Matthew Bishop", "Chad E. Brown"],
-	"booktitle": "CADE",
+	"author": [
+		"Peter B. Andrews",
+		"Matthew Bishop",
+		"Chad E. Brown"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2000",
 	"dblpkey": "conf/cade/AndrewsBB00",
 	"doi": "10.1007/10721959_11",
@@ -10,11 +15,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "tps", "a", "theorem", "prove", "system", "for", "type", "theori"],
-	"tag": ["proving", "theorem proving", "type system"],
+	"stemmed": [
+		"system",
+		"descript",
+		"tps",
+		"a",
+		"theorem",
+		"prove",
+		"system",
+		"for",
+		"type",
+		"theori"
+	],
+	"tag": [
+		"proving",
+		"theorem proving",
+		"type system"
+	],
 	"title": "System Description: TPS: A Theorem Proving System for Type Theory",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1831,
+	"volume": "1831",
 	"year": 2000
 }

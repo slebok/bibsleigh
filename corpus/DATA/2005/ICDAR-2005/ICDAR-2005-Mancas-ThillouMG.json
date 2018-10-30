@@ -1,15 +1,35 @@
 {
-	"author": ["Céline Mancas-Thillou", "Matei Mancas", "Bernard Gosselin"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Céline Mancas-Thillou",
+		"Matei Mancas",
+		"Bernard Gosselin"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2005",
 	"dblpkey": "conf/icdar/Mancas-ThillouMG05",
 	"doi": "10.1109/ICDAR.2005.63",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2005.63", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.63"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2005.63",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.63"
+	],
 	"pages": "755-759",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["camera", "base", "degrad", "charact", "segment", "into", "individu", "compon"],
-	"tag": ["component", "segmentation"],
+	"stemmed": [
+		"camera",
+		"base",
+		"degrad",
+		"charact",
+		"segment",
+		"into",
+		"individu",
+		"compon"
+	],
+	"tag": [
+		"component",
+		"segmentation"
+	],
 	"title": "Camera-based Degraded Character Segmentation into Individual Components",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,6 +1,9 @@
 {
-	"author": ["Alper Okcan", "Mirek Riedewald"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Alper Okcan",
+		"Mirek Riedewald"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/OkcanR14",
@@ -8,8 +11,16 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2610499",
 	"pages": "839-850",
 	"publisher": "ACM",
-	"stemmed": ["anti", "combin", "for", "map", "reduc"],
-	"tag": ["pipes and filters"],
+	"stemmed": [
+		"anti",
+		"combin",
+		"for",
+		"map",
+		"reduc"
+	],
+	"tag": [
+		"pipes and filters"
+	],
 	"title": "Anti-combining for MapReduce",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

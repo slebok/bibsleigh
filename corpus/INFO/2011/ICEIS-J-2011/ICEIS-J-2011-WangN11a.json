@@ -1,6 +1,10 @@
 {
-	"author": ["Shu Wang", "Vincent T. Y. Ng"],
-	"booktitle": "ICEIS",
+	"author": [
+		"Shu Wang",
+		"Vincent T. Y. Ng"
+	],
+	"booktitle": "Revised Selected Papers of the 13th International Conference on Enterprise Information Systems",
+	"booktitleshort": "Post-ICEIS",
 	"crossref": "conf/iceis/2011",
 	"dblpkey": "conf/iceis/WangN11a",
 	"doi": "10.1007/978-3-642-29958-2_7",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Business Information Processing",
 	"seriesshort": "LNBIP",
-	"stemmed": ["uf", "evolv", "uncertain", "frequent", "pattern", "mine"],
-	"tag": ["mining", "named", "nondeterminism"],
+	"stemmed": [
+		"uf",
+		"evolv",
+		"uncertain",
+		"frequent",
+		"pattern",
+		"mine"
+	],
+	"tag": [
+		"mining",
+		"named",
+		"nondeterminism"
+	],
 	"title": "UF-Evolve: Uncertain Frequent Pattern Mining",
 	"type": "inproceedings",
 	"venue": "ICEIS",
-	"volume": 102,
+	"volume": "102",
 	"year": 2011
 }

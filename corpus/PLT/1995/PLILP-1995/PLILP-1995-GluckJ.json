@@ -1,6 +1,10 @@
 {
-	"author": ["Robert Glück", "Jesper Jørgensen"],
+	"author": [
+		"Robert Glück",
+		"Jesper Jørgensen"
+	],
 	"booktitle": "Proceedings of the Seventh International Symposium on Programming Languages: Implementations, Logics and Programs",
+	"booktitleshort": "PPDP",
 	"crossref": "conf/plilp/95",
 	"dblpkey": "conf/plilp/GluckJ95",
 	"doi": "10.1007/BFb0026825",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["effici", "multi", "level", "generat", "extens", "for", "program", "special"],
-	"tag": ["generative", "multi", "performance"],
+	"stemmed": [
+		"effici",
+		"multi",
+		"level",
+		"generat",
+		"extens",
+		"for",
+		"program",
+		"special"
+	],
+	"tag": [
+		"generative",
+		"multi",
+		"performance"
+	],
 	"title": "Efficient Multi-level Generating Extensions for Program Specialization",
 	"type": "inproceedings",
 	"venue": "PPDP",
-	"volume": 982,
+	"volume": "982",
 	"year": 1995
 }

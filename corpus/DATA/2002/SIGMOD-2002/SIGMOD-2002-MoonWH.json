@@ -1,6 +1,10 @@
 {
-	"author": ["Yang-Sae Moon", "Kyu-Young Whang", "Wook-Shin Han"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yang-Sae Moon",
+		"Kyu-Young Whang",
+		"Wook-Shin Han"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/MoonWH02",
@@ -8,8 +12,26 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564735",
 	"pages": "382-393",
 	"publisher": "ACM",
-	"stemmed": ["general", "match", "a", "subsequ", "match", "method", "in", "time", "seri", "databas", "base", "on", "general", "window"],
-	"tag": ["database", "sequence"],
+	"stemmed": [
+		"general",
+		"match",
+		"a",
+		"subsequ",
+		"match",
+		"method",
+		"in",
+		"time",
+		"seri",
+		"databas",
+		"base",
+		"on",
+		"general",
+		"window"
+	],
+	"tag": [
+		"database",
+		"sequence"
+	],
 	"title": "General match: a subsequence matching method in time-series databases based on generalized windows",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

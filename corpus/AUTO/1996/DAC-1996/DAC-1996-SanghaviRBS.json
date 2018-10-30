@@ -1,13 +1,31 @@
 {
-	"author": ["Jagesh V. Sanghavi", "Rajeev K. Ranjan", "Robert K. Brayton", "Alberto L. Sangiovanni-Vincentelli"],
-	"booktitle": "DAC",
+	"author": [
+		"Jagesh V. Sanghavi",
+		"Rajeev K. Ranjan",
+		"Robert K. Brayton",
+		"Alberto L. Sangiovanni-Vincentelli"
+	],
+	"booktitle": "Proceedings of the 33rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/SanghaviRBS96",
 	"doi": "10.1145/240518.240638",
 	"ee": "http://doi.acm.org/10.1145/240518.240638",
 	"pages": "635-640",
 	"publisher": "ACM Press",
-	"stemmed": ["high", "perform", "bdd", "packag", "by", "exploit", "memori", "hiercharchi"],
-	"tag": ["memory management", "performance"],
+	"stemmed": [
+		"high",
+		"perform",
+		"bdd",
+		"packag",
+		"by",
+		"exploit",
+		"memori",
+		"hiercharchi"
+	],
+	"tag": [
+		"memory management",
+		"performance"
+	],
 	"title": "High Performance BDD Package By Exploiting Memory Hiercharchy",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,6 +1,13 @@
 {
-	"author": ["William R. Marczak", "Shan Shan Huang", "Martin Bravenboer", "Micah Sherr", "Boon Thau Loo", "Molham Aref"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"William R. Marczak",
+		"Shan Shan Huang",
+		"Martin Bravenboer",
+		"Micah Sherr",
+		"Boon Thau Loo",
+		"Molham Aref"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/MarczakHBSLA10",
@@ -8,8 +15,19 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807246",
 	"pages": "723-734",
 	"publisher": "ACM",
-	"stemmed": ["secur", "blox", "customiz", "secur", "distribut", "data", "process"],
-	"tag": ["distributed", "named"],
+	"stemmed": [
+		"secur",
+		"blox",
+		"customiz",
+		"secur",
+		"distribut",
+		"data",
+		"process"
+	],
+	"tag": [
+		"distributed",
+		"named"
+	],
 	"title": "SecureBlox: customizable secure distributed data processing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

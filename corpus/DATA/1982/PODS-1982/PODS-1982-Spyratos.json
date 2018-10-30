@@ -1,16 +1,44 @@
 {
 	"author": "Nicolas Spyratos",
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS82/P212.PDF", "journals/anthology/dvd1:text/1-3/PODS82/P212.PDF"],
-	"cite": ["conf/ifip/Armstrong74", "journals/tods/BancilhonS81", "conf/vldb/BancilhonS81", "conf/vldb/BeeriBG78", "conf/stoc/BeeriMSU79", "persons/Codd71a", "conf/vldb/DayalB78", "journals/tods/Fagin77", "journals/tods/Rissanen77", "conf/vldb/Spyratos80", "...", "...", "conf/focs/YannakakisP80"],
+	"booktitle": "Proceedings of the First Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS82/P212.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS82/P212.PDF"
+	],
+	"cite": [
+		"conf/ifip/Armstrong74",
+		"journals/tods/BancilhonS81",
+		"conf/vldb/BancilhonS81",
+		"conf/vldb/BeeriBG78",
+		"conf/stoc/BeeriMSU79",
+		"persons/Codd71a",
+		"conf/vldb/DayalB78",
+		"journals/tods/Fagin77",
+		"journals/tods/Rissanen77",
+		"conf/vldb/Spyratos80",
+		"...",
+		"...",
+		"conf/focs/YannakakisP80"
+	],
 	"crossref": "conf/pods/82",
 	"dblpkey": "conf/pods/Spyratos82",
 	"doi": "10.1145/588111.588147",
 	"ee": "http://doi.acm.org/10.1145/588111.588147",
 	"pages": "212-220",
 	"publisher": "ACM",
-	"stemmed": ["an", "oper", "approach", "to", "data", "base"],
-	"tag": ["approach", "database"],
+	"stemmed": [
+		"an",
+		"oper",
+		"approach",
+		"to",
+		"data",
+		"base"
+	],
+	"tag": [
+		"approach",
+		"database"
+	],
 	"title": "An Operational Approach to Data Bases",
 	"type": "inproceedings",
 	"venue": "PODS",

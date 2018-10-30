@@ -1,13 +1,21 @@
 {
-	"author": ["Cristian Bucila", "Rich Caruana", "Alexandru Niculescu-Mizil"],
-	"booktitle": "KDD",
+	"author": [
+		"Cristian Bucila",
+		"Rich Caruana",
+		"Alexandru Niculescu-Mizil"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/BucilaCN06",
 	"doi": "10.1145/1150402.1150464",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150464",
 	"pages": "535-541",
 	"publisher": "ACM",
-	"stemmed": ["model", "compress"],
+	"stemmed": [
+		"model",
+		"compress"
+	],
 	"title": "Model compression",
 	"type": "inproceedings",
 	"venue": "KDD",

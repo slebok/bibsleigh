@@ -1,6 +1,10 @@
 {
-	"author": ["Xifeng Yan", "Philip S. Yu", "Jiawei Han"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Xifeng Yan",
+		"Philip S. Yu",
+		"Jiawei Han"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/YanYH04",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/1007568.1007607",
 	"pages": "335-346",
 	"publisher": "ACM",
-	"stemmed": ["graph", "index", "a", "frequent", "structur", "base", "approach"],
-	"tag": ["approach", "graph"],
+	"stemmed": [
+		"graph",
+		"index",
+		"a",
+		"frequent",
+		"structur",
+		"base",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"graph"
+	],
 	"title": "Graph Indexing: A Frequent Structure-based Approach",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

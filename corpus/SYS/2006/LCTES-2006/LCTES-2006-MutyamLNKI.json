@@ -1,14 +1,32 @@
 {
-	"author": ["Madhu Mutyam", "Feihui Li", "Narayanan Vijaykrishnan", "Mahmut T. Kandemir", "Mary Jane Irwin"],
-	"booktitle": "LCTES",
+	"author": [
+		"Madhu Mutyam",
+		"Feihui Li",
+		"Narayanan Vijaykrishnan",
+		"Mahmut T. Kandemir",
+		"Mary Jane Irwin"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2006",
 	"dblpkey": "conf/lctrts/MutyamLNKI06",
 	"doi": "10.1145/1134650.1134674",
 	"ee": "http://doi.acm.org/10.1145/1134650.1134674",
 	"pages": "163-172",
 	"publisher": "ACM",
-	"stemmed": ["compil", "direct", "thermal", "manag", "for", "vliw", "function", "unit"],
-	"tag": ["functional"],
+	"stemmed": [
+		"compil",
+		"direct",
+		"thermal",
+		"manag",
+		"for",
+		"vliw",
+		"function",
+		"unit"
+	],
+	"tag": [
+		"functional"
+	],
 	"title": "Compiler-directed thermal management for VLIW functional units",
 	"type": "inproceedings",
 	"venue": "LCTES",

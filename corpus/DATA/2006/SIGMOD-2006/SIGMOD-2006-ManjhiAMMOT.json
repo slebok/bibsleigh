@@ -1,6 +1,13 @@
 {
-	"author": ["Amit Manjhi", "Anastassia Ailamaki", "Bruce M. Maggs", "Todd C. Mowry", "Christopher Olston", "Anthony Tomasic"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Amit Manjhi",
+		"Anastassia Ailamaki",
+		"Bruce M. Maggs",
+		"Todd C. Mowry",
+		"Christopher Olston",
+		"Anthony Tomasic"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/ManjhiAMMOT06",
@@ -8,8 +15,23 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142501",
 	"pages": "241-252",
 	"publisher": "ACM",
-	"stemmed": ["simultan", "scalabl", "and", "secur", "for", "data", "intens", "web", "applic"],
-	"tag": ["data-driven", "scalability", "security", "web"],
+	"stemmed": [
+		"simultan",
+		"scalabl",
+		"and",
+		"secur",
+		"for",
+		"data",
+		"intens",
+		"web",
+		"applic"
+	],
+	"tag": [
+		"data-driven",
+		"scalability",
+		"security",
+		"web"
+	],
 	"title": "Simultaneous scalability and security for data-intensive web applications",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

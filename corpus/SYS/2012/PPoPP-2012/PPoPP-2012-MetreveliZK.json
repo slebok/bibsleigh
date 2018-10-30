@@ -1,14 +1,28 @@
 {
-	"author": ["Zviad Metreveli", "Nickolai Zeldovich", "M. Frans Kaashoek"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Zviad Metreveli",
+		"Nickolai Zeldovich",
+		"M. Frans Kaashoek"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/MetreveliZK12",
 	"doi": "10.1145/2145816.2145874",
 	"ee": "http://doi.acm.org/10.1145/2145816.2145874",
 	"pages": "319-320",
 	"publisher": "ACM",
-	"stemmed": ["cphash", "a", "cach", "partit", "hash", "tabl"],
-	"tag": ["named"],
+	"stemmed": [
+		"cphash",
+		"a",
+		"cach",
+		"partit",
+		"hash",
+		"tabl"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "CPHASH: a cache-partitioned hash table",
 	"type": "inproceedings",
 	"venue": "PPoPP",

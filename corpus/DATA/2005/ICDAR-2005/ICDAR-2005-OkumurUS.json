@@ -1,15 +1,46 @@
 {
-	"author": ["Daiki Okumur", "Seiichi Uchida", "Hiroaki Sakoe"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Daiki Okumur",
+		"Seiichi Uchida",
+		"Hiroaki Sakoe"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2005",
 	"dblpkey": "conf/icdar/OkumurUS05",
 	"doi": "10.1109/ICDAR.2005.50",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2005.50", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.50"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2005.50",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.50"
+	],
 	"pages": "26-30",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["an", "hmm", "implement", "for", "on", "line", "handwrit", "recognit", "base", "on", "pen", "coordin", "featur", "and", "pen", "direct", "featur"],
-	"tag": ["coordination", "implementation", "online", "recognition"],
+	"stemmed": [
+		"an",
+		"hmm",
+		"implement",
+		"for",
+		"on",
+		"line",
+		"handwrit",
+		"recognit",
+		"base",
+		"on",
+		"pen",
+		"coordin",
+		"featur",
+		"and",
+		"pen",
+		"direct",
+		"featur"
+	],
+	"tag": [
+		"coordination",
+		"implementation",
+		"online",
+		"recognition"
+	],
 	"title": "An HMM Implementation for On-line Handwriting Recognition — Based on Pen-Coordinate Feature and Pen-Direction Feature",
 	"type": "inproceedings",
 	"venue": "ICDAR",

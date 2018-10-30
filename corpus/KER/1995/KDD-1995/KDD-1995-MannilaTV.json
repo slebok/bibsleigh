@@ -1,13 +1,26 @@
 {
-	"author": ["Heikki Mannila", "Hannu Toivonen", "A. Inkeri Verkamo"],
-	"booktitle": "KDD",
+	"author": [
+		"Heikki Mannila",
+		"Hannu Toivonen",
+		"A. Inkeri Verkamo"
+	],
+	"booktitle": "Proceedings of the First International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1995",
 	"dblpkey": "conf/kdd/MannilaTV95",
 	"ee": "http://www.aaai.org/Library/KDD/1995/kdd95-024.php",
 	"pages": "210-215",
 	"publisher": "AAAI Press",
-	"stemmed": ["discov", "frequent", "episod", "in", "sequenc"],
-	"tag": ["sequence"],
+	"stemmed": [
+		"discov",
+		"frequent",
+		"episod",
+		"in",
+		"sequenc"
+	],
+	"tag": [
+		"sequence"
+	],
 	"title": "Discovering Frequent Episodes in Sequences",
 	"type": "inproceedings",
 	"venue": "KDD",

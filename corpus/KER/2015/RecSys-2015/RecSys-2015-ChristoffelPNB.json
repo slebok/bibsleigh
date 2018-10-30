@@ -1,14 +1,36 @@
 {
-	"author": ["Fabian Christoffel", "Bibek Paudel", "Chris Newell", "Abraham Bernstein"],
-	"booktitle": "RecSys",
+	"author": [
+		"Fabian Christoffel",
+		"Bibek Paudel",
+		"Chris Newell",
+		"Abraham Bernstein"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2015",
 	"dblpkey": "conf/recsys/ChristoffelPNB15",
 	"doi": "10.1145/2792838.2800180",
 	"ee": "http://doi.acm.org/10.1145/2792838.2800180",
 	"pages": "163-170",
 	"publisher": "ACM",
-	"stemmed": ["blockbust", "and", "wallflow", "accur", "divers", "and", "scalabl", "recommend", "with", "random", "walk"],
-	"tag": ["random", "recommendation", "scalability"],
+	"stemmed": [
+		"blockbust",
+		"and",
+		"wallflow",
+		"accur",
+		"divers",
+		"and",
+		"scalabl",
+		"recommend",
+		"with",
+		"random",
+		"walk"
+	],
+	"tag": [
+		"random",
+		"recommendation",
+		"scalability"
+	],
 	"title": "Blockbusters and Wallflowers: Accurate, Diverse, and Scalable Recommendations with Random Walks",
 	"type": "inproceedings",
 	"venue": "RecSys",

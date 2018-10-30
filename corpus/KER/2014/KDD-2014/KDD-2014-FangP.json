@@ -1,14 +1,36 @@
 {
-	"author": ["Xiaomin Fang", "Rong Pan"],
-	"booktitle": "KDD",
+	"author": [
+		"Xiaomin Fang",
+		"Rong Pan"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/FangP14",
 	"doi": "10.1145/2623330.2623713",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623713",
 	"pages": "967-976",
 	"publisher": "ACM",
-	"stemmed": ["fast", "dtt", "a", "near", "linear", "algorithm", "for", "decompos", "a", "tensor", "into", "factor", "tensor"],
-	"tag": ["algorithm", "linear", "performance"],
+	"stemmed": [
+		"fast",
+		"dtt",
+		"a",
+		"near",
+		"linear",
+		"algorithm",
+		"for",
+		"decompos",
+		"a",
+		"tensor",
+		"into",
+		"factor",
+		"tensor"
+	],
+	"tag": [
+		"algorithm",
+		"linear",
+		"performance"
+	],
 	"title": "Fast DTT: a near linear algorithm for decomposing a tensor into factor tensors",
 	"type": "inproceedings",
 	"venue": "KDD",

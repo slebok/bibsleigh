@@ -1,6 +1,7 @@
 {
 	"author": "Matthias Horbach",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 23rd International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2011",
 	"dblpkey": "conf/cade/Horbach11a",
 	"doi": "10.1007/978-3-642-22438-6_25",
@@ -10,10 +11,15 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "spass", "fd"],
+	"stemmed": [
+		"system",
+		"descript",
+		"spass",
+		"fd"
+	],
 	"title": "System Description: SPASS-FD",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 6803,
+	"volume": "6803",
 	"year": 2011
 }

@@ -1,6 +1,10 @@
 {
-	"author": ["Abhinandan Das", "Johannes Gehrke", "Mirek Riedewald"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Abhinandan Das",
+		"Johannes Gehrke",
+		"Mirek Riedewald"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/DasGR03",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/872757.872765",
 	"pages": "40-51",
 	"publisher": "ACM",
-	"stemmed": ["approxim", "join", "process", "over", "data", "stream"],
-	"tag": ["approximate", "data type"],
+	"stemmed": [
+		"approxim",
+		"join",
+		"process",
+		"over",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"approximate",
+		"data type"
+	],
 	"title": "Approximate Join Processing Over Data Streams",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

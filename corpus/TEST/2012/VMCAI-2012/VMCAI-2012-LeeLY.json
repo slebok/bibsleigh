@@ -1,6 +1,11 @@
 {
-	"author": ["Woosuk Lee", "Wonchan Lee", "Kwangkeun Yi"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Woosuk Lee",
+		"Wonchan Lee",
+		"Kwangkeun Yi"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2012",
 	"dblpkey": "conf/vmcai/LeeLY12",
 	"doi": "10.1007/978-3-642-27940-9_20",
@@ -10,11 +15,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["sound", "non", "statist", "cluster", "of", "static", "analysi", "alarm"],
-	"tag": ["clustering", "static analysis", "statistics"],
+	"stemmed": [
+		"sound",
+		"non",
+		"statist",
+		"cluster",
+		"of",
+		"static",
+		"analysi",
+		"alarm"
+	],
+	"tag": [
+		"clustering",
+		"static analysis",
+		"statistics"
+	],
 	"title": "Sound Non-statistical Clustering of Static Analysis Alarms",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 7148,
+	"volume": "7148",
 	"year": 2012
 }

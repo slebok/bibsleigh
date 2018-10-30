@@ -1,14 +1,39 @@
 {
-	"author": ["Praveen Raghavan", "Andy Lambrechts", "Murali Jayapala", "Francky Catthoor", "Diederik Verkest"],
-	"booktitle": "DATE",
+	"author": [
+		"Praveen Raghavan",
+		"Andy Lambrechts",
+		"Murali Jayapala",
+		"Francky Catthoor",
+		"Diederik Verkest"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2006p",
 	"dblpkey": "conf/date/RaghavanLJCV06",
 	"doi": "10.1145/1131576",
 	"ee": "http://doi.acm.org/10.1145/1131576",
 	"pages": "339-344",
 	"publisher": "European Design and Automation Association, Leuven, Belgium",
-	"stemmed": ["distribut", "loop", "control", "architectur", "for", "multi", "thread", "in", "uni", "thread", "vliw", "processor"],
-	"tag": ["architecture", "distributed", "multi", "thread"],
+	"stemmed": [
+		"distribut",
+		"loop",
+		"control",
+		"architectur",
+		"for",
+		"multi",
+		"thread",
+		"in",
+		"uni",
+		"thread",
+		"vliw",
+		"processor"
+	],
+	"tag": [
+		"architecture",
+		"distributed",
+		"multi",
+		"thread"
+	],
 	"title": "Distributed loop controller architecture for multi-threading in uni-threaded VLIW processors",
 	"type": "inproceedings",
 	"venue": "DATE",

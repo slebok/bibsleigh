@@ -1,13 +1,29 @@
 {
-	"acmid": 800817,
-	"author": ["M. E. Glazier", "Anthony P. Ambler"],
-	"booktitle": "DAC",
+	"acmid": "800817",
+	"author": [
+		"M. E. Glazier",
+		"Anthony P. Ambler"
+	],
+	"booktitle": "Proceedings of the 21st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1984",
 	"dblpkey": "conf/dac/GlazierA84",
 	"pages": "336-342",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["ultim", "a", "hardwar", "logic", "simul", "engin"],
-	"tag": ["hardware", "logic", "named", "simulation"],
+	"stemmed": [
+		"ultim",
+		"a",
+		"hardwar",
+		"logic",
+		"simul",
+		"engin"
+	],
+	"tag": [
+		"hardware",
+		"logic",
+		"named",
+		"simulation"
+	],
 	"title": "Ultimate: A hardware logic simulation engine",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,17 +1,35 @@
 {
 	"author": "Eric Bodden",
 	"booktitle": "Proceedings of the 19th Symposium on the Foundations of Software Engineering and the 13rd European Software Engineering Conference",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "ESEC/FSE",
 	"crossref": "conf/sigsoft/2011",
 	"dblpkey": "conf/sigsoft/Bodden11",
 	"doi": "10.1145/2025113.2025201",
-	"editor": ["Tibor Gyimóthy", "Andreas Zeller"],
+	"editor": [
+		"Tibor Gyimóthy",
+		"Andreas Zeller"
+	],
 	"ee": "http://doi.acm.org/10.1145/2025113.2025201",
 	"isbn": "978-1-4503-0443-6",
 	"pages": "492-495",
 	"publisher": "ACM",
-	"stemmed": ["state", "breakpoint", "a", "practic", "approach", "to", "defin", "parameter", "runtim", "monitor"],
-	"tag": ["approach", "monitoring", "runtime"],
+	"stemmed": [
+		"state",
+		"breakpoint",
+		"a",
+		"practic",
+		"approach",
+		"to",
+		"defin",
+		"parameter",
+		"runtim",
+		"monitor"
+	],
+	"tag": [
+		"approach",
+		"monitoring",
+		"runtime"
+	],
 	"title": "Stateful breakpoints: a practical approach to defining parameterized runtime monitors",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

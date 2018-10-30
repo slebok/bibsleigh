@@ -1,14 +1,35 @@
 {
-	"author": ["Daniel Tomkins", "Timmie G. Smith", "Nancy M. Amato", "Lawrence Rauchwerger"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Daniel Tomkins",
+		"Timmie G. Smith",
+		"Nancy M. Amato",
+		"Lawrence Rauchwerger"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/TomkinsSAR14",
 	"doi": "10.1145/2555243.2555286",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555286",
 	"pages": "393-394",
 	"publisher": "ACM",
-	"stemmed": ["scc", "multi", "an", "improv", "parallel", "strong", "connect", "compon", "algorithm"],
-	"tag": ["algorithm", "component", "named", "parallel"],
+	"stemmed": [
+		"scc",
+		"multi",
+		"an",
+		"improv",
+		"parallel",
+		"strong",
+		"connect",
+		"compon",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"component",
+		"named",
+		"parallel"
+	],
 	"title": "SCCMulti: an improved parallel strongly connected components algorithm",
 	"type": "inproceedings",
 	"venue": "PPoPP",

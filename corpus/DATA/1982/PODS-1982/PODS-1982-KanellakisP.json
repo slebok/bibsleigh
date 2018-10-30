@@ -1,16 +1,48 @@
 {
-	"author": ["Paris C. Kanellakis", "Christos H. Papadimitriou"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS82/P098.PDF", "journals/anthology/dvd1:text/1-3/PODS82/P098.PDF"],
-	"cite": ["journals/csur/BernsteinG81", "journals/tods/BernsteinSR80", "journals/cacm/EswarranGLT76", "conf/focs/KanellakisP81", "journals/jal/LipskiP81b", "journals/tods/MenascePM80", "journals/siamcomp/Papadimitriou83", "conf/sigmod/Papadimitriou81", "journals/jacm/Papadimitriou82", "journals/tods/RosenkrantzSL78", "journals/jcss/Schaefer78", "journals/jacm/SilberschatzK80", "journals/tse/Stonebraker79", "books/cs/Ullman80", "conf/focs/YannakakisPK79", "journals/jacm/Yannakakis82"],
+	"author": [
+		"Paris C. Kanellakis",
+		"Christos H. Papadimitriou"
+	],
+	"booktitle": "Proceedings of the First Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS82/P098.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS82/P098.PDF"
+	],
+	"cite": [
+		"journals/csur/BernsteinG81",
+		"journals/tods/BernsteinSR80",
+		"journals/cacm/EswarranGLT76",
+		"conf/focs/KanellakisP81",
+		"journals/jal/LipskiP81b",
+		"journals/tods/MenascePM80",
+		"journals/siamcomp/Papadimitriou83",
+		"conf/sigmod/Papadimitriou81",
+		"journals/jacm/Papadimitriou82",
+		"journals/tods/RosenkrantzSL78",
+		"journals/jcss/Schaefer78",
+		"journals/jacm/SilberschatzK80",
+		"journals/tse/Stonebraker79",
+		"books/cs/Ullman80",
+		"conf/focs/YannakakisPK79",
+		"journals/jacm/Yannakakis82"
+	],
 	"crossref": "conf/pods/82",
 	"dblpkey": "conf/pods/KanellakisP82",
 	"doi": "10.1145/588111.588129",
 	"ee": "http://doi.acm.org/10.1145/588111.588129",
 	"pages": "98-107",
 	"publisher": "ACM",
-	"stemmed": ["is", "distribut", "lock", "harder"],
-	"tag": ["distributed", "question"],
+	"stemmed": [
+		"is",
+		"distribut",
+		"lock",
+		"harder"
+	],
+	"tag": [
+		"distributed",
+		"question"
+	],
 	"title": "Is Distributed Locking Harder?",
 	"type": "inproceedings",
 	"venue": "PODS",

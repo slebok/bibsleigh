@@ -1,6 +1,10 @@
 {
-	"author": ["Ruiwen Chen", "Yongyi Mao", "Iluju Kiringa"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ruiwen Chen",
+		"Yongyi Mao",
+		"Iluju Kiringa"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/ChenMK10",
@@ -8,8 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807201",
 	"pages": "291-302",
 	"publisher": "ACM",
-	"stemmed": ["grn", "model", "of", "probabilist", "databas", "construct", "transit", "and", "queri"],
-	"tag": ["database", "probability", "query"],
+	"stemmed": [
+		"grn",
+		"model",
+		"of",
+		"probabilist",
+		"databas",
+		"construct",
+		"transit",
+		"and",
+		"queri"
+	],
+	"tag": [
+		"database",
+		"probability",
+		"query"
+	],
 	"title": "GRN model of probabilistic databases: construction, transition and querying",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

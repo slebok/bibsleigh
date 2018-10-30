@@ -1,6 +1,11 @@
 {
-	"author": ["Leonardo Mendonça de Moura", "Harald Rueß", "Maria Sorea"],
-	"booktitle": "CADE",
+	"author": [
+		"Leonardo Mendonça de Moura",
+		"Harald Rueß",
+		"Maria Sorea"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2002",
 	"dblpkey": "conf/cade/MouraRS02",
 	"doi": "10.1007/3-540-45620-1_35",
@@ -10,11 +15,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["lazi", "theorem", "prove", "for", "bound", "model", "check", "over", "infinit", "domain"],
-	"tag": ["bound", "infinity", "lazy evaluation", "model checking", "proving", "theorem proving"],
+	"stemmed": [
+		"lazi",
+		"theorem",
+		"prove",
+		"for",
+		"bound",
+		"model",
+		"check",
+		"over",
+		"infinit",
+		"domain"
+	],
+	"tag": [
+		"bound",
+		"infinity",
+		"lazy evaluation",
+		"model checking",
+		"proving",
+		"theorem proving"
+	],
 	"title": "Lazy Theorem Proving for Bounded Model Checking over Infinite Domains",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2392,
+	"volume": "2392",
 	"year": 2002
 }

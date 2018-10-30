@@ -1,6 +1,11 @@
 {
-	"author": ["Christoph Jäschke", "Rainer Laur", "Friedrich Beckmann"],
-	"booktitle": "DATE",
+	"author": [
+		"Christoph Jäschke",
+		"Rainer Laur",
+		"Friedrich Beckmann"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/JaschkeLB99",
 	"doi": "10.1109/DATE.1999.761124",
@@ -8,8 +13,20 @@
 	"pages": "210-216",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["time", "constrain", "modulo", "schedul", "with", "global", "resourc", "share"],
-	"tag": ["resource management", "scheduling"],
+	"stemmed": [
+		"time",
+		"constrain",
+		"modulo",
+		"schedul",
+		"with",
+		"global",
+		"resourc",
+		"share"
+	],
+	"tag": [
+		"resource management",
+		"scheduling"
+	],
 	"title": "Time Constrained Modulo Scheduling with Global Resource Sharing",
 	"type": "inproceedings",
 	"venue": "DATE",

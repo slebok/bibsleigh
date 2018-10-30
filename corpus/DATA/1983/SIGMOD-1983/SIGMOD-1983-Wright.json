@@ -1,16 +1,33 @@
 {
 	"author": "David D. Wright",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 13th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD83/P006.PDF",
-	"cite": ["books/aw/AhoHU74", "...", "conf/sosp/Gifford79", "books/fm/GareyJ79", "...", "...", "..."],
+	"cite": [
+		"books/aw/AhoHU74",
+		"...",
+		"conf/sosp/Gifford79",
+		"books/fm/GareyJ79",
+		"...",
+		"...",
+		"..."
+	],
 	"crossref": "conf/sigmod/83",
 	"dblpkey": "conf/sigmod/Wright83",
 	"doi": "10.1145/582192.582199",
 	"ee": "http://doi.acm.org/10.1145/582192.582199",
 	"pages": "6-14",
 	"publisher": "ACM Press",
-	"stemmed": ["on", "merg", "partit", "databas"],
-	"tag": ["database", "on the"],
+	"stemmed": [
+		"on",
+		"merg",
+		"partit",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"on the"
+	],
 	"title": "On Merging Partitioned Databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,13 +1,29 @@
 {
-	"author": ["Svein Erik Bratsberg", "Rune Humborstad"],
-	"booktitle": "VLDB",
+	"author": [
+		"Svein Erik Bratsberg",
+		"Rune Humborstad"
+	],
+	"booktitle": "Proceedings of the 27th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2001",
 	"dblpkey": "conf/vldb/BratsbergH01",
 	"ee": "http://www.vldb.org/conf/2001/P451.pdf",
 	"pages": "451-460",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["onlin", "scale", "in", "a", "high", "avail", "databas"],
-	"tag": ["database", "online", "scalability"],
+	"stemmed": [
+		"onlin",
+		"scale",
+		"in",
+		"a",
+		"high",
+		"avail",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"online",
+		"scalability"
+	],
 	"title": "Online Scaling in a Highly Available Database",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,14 +1,36 @@
 {
-	"author": ["Minjia Zhang", "Jipeng Huang", "Man Cao", "Michael D. Bond"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Minjia Zhang",
+		"Jipeng Huang",
+		"Man Cao",
+		"Michael D. Bond"
+	],
+	"booktitle": "Proceedings of the 20th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2015",
 	"dblpkey": "conf/ppopp/ZhangHCB15",
 	"doi": "10.1145/2688500.2688510",
 	"ee": "http://doi.acm.org/10.1145/2688500.2688510",
 	"pages": "97-108",
 	"publisher": "ACM",
-	"stemmed": ["low", "overhead", "softwar", "transact", "memori", "with", "progress", "guarante", "and", "strong", "semant"],
-	"tag": ["memory management", "semantics", "transaction"],
+	"stemmed": [
+		"low",
+		"overhead",
+		"softwar",
+		"transact",
+		"memori",
+		"with",
+		"progress",
+		"guarante",
+		"and",
+		"strong",
+		"semant"
+	],
+	"tag": [
+		"memory management",
+		"semantics",
+		"transaction"
+	],
 	"title": "Low-overhead software transactional memory with progress guarantees and strong semantics",
 	"type": "inproceedings",
 	"venue": "PPoPP",

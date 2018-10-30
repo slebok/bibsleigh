@@ -1,6 +1,10 @@
 {
-	"author": ["W. W. Bledsoe", "Larry M. Hines"],
-	"booktitle": "CADE",
+	"author": [
+		"W. W. Bledsoe",
+		"Larry M. Hines"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1980",
 	"dblpkey": "conf/cade/BledsoeH80",
 	"doi": "10.1007/3-540-10009-1_7",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["variabl", "elimin", "and", "chain", "in", "a", "resolut", "base", "prover", "for", "inequ"],
-	"tag": ["proving"],
+	"stemmed": [
+		"variabl",
+		"elimin",
+		"and",
+		"chain",
+		"in",
+		"a",
+		"resolut",
+		"base",
+		"prover",
+		"for",
+		"inequ"
+	],
+	"tag": [
+		"proving"
+	],
 	"title": "Variable Elimination and Chaining in a Resolution-based Prover for Inequalities",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 87,
+	"volume": "87",
 	"year": 1980
 }

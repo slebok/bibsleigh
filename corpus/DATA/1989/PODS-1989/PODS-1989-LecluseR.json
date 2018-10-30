@@ -1,16 +1,47 @@
 {
-	"author": ["Christophe Lécluse", "Philippe Richard"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS89/P360.PDF", "journals/anthology/dvd1:text/1-3/PODS89/P360.PDF"],
-	"cite": ["journals/vldb/AbiteboulB95", "journals/jlp/Ait-KaciN86", "conf/pods/BancilhonK86", "conf/pods/Bancilhon88", "books/aw/GoldbergR83", "journals/tois/BanerjeeCGKWBK87", "journals/sigmod/BernsteinDDGGJLLMNRRSSSS89", "...", "conf/pods/KuperV84", "conf/sigmod/LecluseRV88", "conf/icdt/LecluseR88"],
+	"author": [
+		"Christophe Lécluse",
+		"Philippe Richard"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS89/P360.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS89/P360.PDF"
+	],
+	"cite": [
+		"journals/vldb/AbiteboulB95",
+		"journals/jlp/Ait-KaciN86",
+		"conf/pods/BancilhonK86",
+		"conf/pods/Bancilhon88",
+		"books/aw/GoldbergR83",
+		"journals/tois/BanerjeeCGKWBK87",
+		"journals/sigmod/BernsteinDDGGJLLMNRRSSSS89",
+		"...",
+		"conf/pods/KuperV84",
+		"conf/sigmod/LecluseRV88",
+		"conf/icdt/LecluseR88"
+	],
 	"crossref": "conf/pods/89",
 	"dblpkey": "conf/pods/LecluseR89",
 	"doi": "10.1145/73721.73756",
 	"ee": "http://doi.acm.org/10.1145/73721.73756",
 	"pages": "360-368",
 	"publisher": "ACM Press",
-	"stemmed": ["model", "complex", "structur", "in", "object", "orient", "databas"],
-	"tag": ["database", "modelling", "object-oriented"],
+	"stemmed": [
+		"model",
+		"complex",
+		"structur",
+		"in",
+		"object",
+		"orient",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"modelling",
+		"object-oriented"
+	],
 	"title": "Modeling Complex Structures in Object-Oriented Databases",
 	"type": "inproceedings",
 	"venue": "PODS",

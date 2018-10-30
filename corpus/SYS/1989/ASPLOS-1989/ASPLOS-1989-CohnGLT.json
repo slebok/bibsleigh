@@ -1,14 +1,36 @@
 {
-	"author": ["Robert Cohn", "Thomas R. Gross", "Monica S. Lam", "P. S. Tseng"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Robert Cohn",
+		"Thomas R. Gross",
+		"Monica S. Lam",
+		"P. S. Tseng"
+	],
+	"booktitle": "Proceedings of the Third International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1989",
 	"dblpkey": "conf/asplos/CohnGLT89",
 	"doi": "10.1145/70082.68183",
 	"ee": "http://doi.acm.org/10.1145/70082.68183",
 	"pages": "2-14",
 	"publisher": "ACM Press",
-	"stemmed": ["architectur", "and", "compil", "tradeoff", "for", "a", "long", "instruct", "word", "microprocessor"],
-	"tag": ["architecture", "compilation", "trade-off", "word"],
+	"stemmed": [
+		"architectur",
+		"and",
+		"compil",
+		"tradeoff",
+		"for",
+		"a",
+		"long",
+		"instruct",
+		"word",
+		"microprocessor"
+	],
+	"tag": [
+		"architecture",
+		"compilation",
+		"trade-off",
+		"word"
+	],
 	"title": "Architecture and Compiler Tradeoffs for a Long Instruction Word Microprocessor",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

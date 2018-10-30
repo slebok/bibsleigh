@@ -1,6 +1,12 @@
 {
-	"author": ["Roman Manevich", "Eran Yahav", "Ganesan Ramalingam", "Shmuel Sagiv"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Roman Manevich",
+		"Eran Yahav",
+		"Ganesan Ramalingam",
+		"Shmuel Sagiv"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2005",
 	"dblpkey": "conf/vmcai/ManevichYRS05",
 	"doi": "10.1007/978-3-540-30579-8_13",
@@ -10,11 +16,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["predic", "abstract", "and", "canon", "abstract", "for", "singl", "link", "list"],
-	"tag": ["abstraction", "canonical"],
+	"stemmed": [
+		"predic",
+		"abstract",
+		"and",
+		"canon",
+		"abstract",
+		"for",
+		"singl",
+		"link",
+		"list"
+	],
+	"tag": [
+		"abstraction",
+		"canonical"
+	],
 	"title": "Predicate Abstraction and Canonical Abstraction for Singly-Linked Lists",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3385,
+	"volume": "3385",
 	"year": 2005
 }

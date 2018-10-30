@@ -1,7 +1,11 @@
 {
-	"author": ["David Garlan", "Robert Allen", "John Ockerbloom"],
+	"author": [
+		"David Garlan",
+		"Robert Allen",
+		"John Ockerbloom"
+	],
 	"booktitle": "Proceedings of the Second Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/1994",
 	"dblpkey": "conf/sigsoft/GarlanAO94",
 	"doi": "10.1145/193173.195404",
@@ -9,8 +13,18 @@
 	"ee": "http://doi.acm.org/10.1145/193173.195404",
 	"pages": "175-188",
 	"publisher": "ACM",
-	"stemmed": ["exploit", "style", "in", "architectur", "design", "environ"],
-	"tag": ["architecture", "design"],
+	"stemmed": [
+		"exploit",
+		"style",
+		"in",
+		"architectur",
+		"design",
+		"environ"
+	],
+	"tag": [
+		"architecture",
+		"design"
+	],
 	"title": "Exploiting Style in Architectural Design Environments",
 	"type": "inproceedings",
 	"venue": "FSE",

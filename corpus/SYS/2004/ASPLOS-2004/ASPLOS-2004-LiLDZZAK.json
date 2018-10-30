@@ -1,14 +1,38 @@
 {
-	"author": ["Xiaodong Li", "Zhenmin Li", "Francis M. David", "Pin Zhou", "Yuanyuan Zhou", "Sarita V. Adve", "Sanjeev Kumar"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Xiaodong Li",
+		"Zhenmin Li",
+		"Francis M. David",
+		"Pin Zhou",
+		"Yuanyuan Zhou",
+		"Sarita V. Adve",
+		"Sanjeev Kumar"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2004",
 	"dblpkey": "conf/asplos/LiLDZZAK04",
 	"doi": "10.1145/1024393.1024425",
 	"ee": "http://doi.acm.org/10.1145/1024393.1024425",
 	"pages": "271-283",
 	"publisher": "ACM",
-	"stemmed": ["perform", "direct", "energi", "manag", "for", "main", "memori", "and", "disk"],
-	"tag": ["energy", "in memory", "memory management", "performance"],
+	"stemmed": [
+		"perform",
+		"direct",
+		"energi",
+		"manag",
+		"for",
+		"main",
+		"memori",
+		"and",
+		"disk"
+	],
+	"tag": [
+		"energy",
+		"in memory",
+		"memory management",
+		"performance"
+	],
 	"title": "Performance directed energy management for main memory and disks",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

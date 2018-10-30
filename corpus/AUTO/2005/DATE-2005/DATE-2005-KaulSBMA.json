@@ -1,6 +1,13 @@
 {
-	"author": ["Himanshu Kaul", "Dennis Sylvester", "David Blaauw", "Trevor N. Mudge", "Todd M. Austin"],
-	"booktitle": "DATE",
+	"author": [
+		"Himanshu Kaul",
+		"Dennis Sylvester",
+		"David Blaauw",
+		"Trevor N. Mudge",
+		"Todd M. Austin"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/KaulSBMA05",
 	"doi": "10.1109/DATE.2005.125",
@@ -8,8 +15,23 @@
 	"pages": "80-85",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["dvs", "for", "on", "chip", "bus", "design", "base", "on", "time", "error", "correct"],
-	"tag": ["design", "fault"],
+	"stemmed": [
+		"dvs",
+		"for",
+		"on",
+		"chip",
+		"bus",
+		"design",
+		"base",
+		"on",
+		"time",
+		"error",
+		"correct"
+	],
+	"tag": [
+		"design",
+		"fault"
+	],
 	"title": "DVS for On-Chip Bus Designs Based on Timing Error Correction",
 	"type": "inproceedings",
 	"venue": "DATE",

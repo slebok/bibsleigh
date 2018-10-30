@@ -1,6 +1,9 @@
 {
-	"author": ["Iman Elghandour", "Ashraf Aboulnaga"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Iman Elghandour",
+		"Ashraf Aboulnaga"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/ElghandourA12",
@@ -8,8 +11,23 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213937",
 	"pages": "701-704",
 	"publisher": "ACM",
-	"stemmed": ["re", "store", "reus", "result", "of", "map", "reduc", "job", "in", "pig"],
-	"tag": ["named", "pipes and filters", "reuse"],
+	"stemmed": [
+		"re",
+		"store",
+		"reus",
+		"result",
+		"of",
+		"map",
+		"reduc",
+		"job",
+		"in",
+		"pig"
+	],
+	"tag": [
+		"named",
+		"pipes and filters",
+		"reuse"
+	],
 	"title": "ReStore: reusing results of MapReduce jobs in pig",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

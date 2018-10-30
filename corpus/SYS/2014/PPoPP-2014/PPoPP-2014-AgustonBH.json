@@ -1,14 +1,27 @@
 {
-	"author": ["Cfir Aguston", "Yosi Ben-Asher", "Gadi Haber"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Cfir Aguston",
+		"Yosi Ben-Asher",
+		"Gadi Haber"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/AgustonBH14",
 	"doi": "10.1145/2555243.2555275",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555275",
 	"pages": "373-374",
 	"publisher": "ACM",
-	"stemmed": ["parallel", "hint", "via", "code", "skeleton"],
-	"tag": ["parallel"],
+	"stemmed": [
+		"parallel",
+		"hint",
+		"via",
+		"code",
+		"skeleton"
+	],
+	"tag": [
+		"parallel"
+	],
 	"title": "Parallelization hints via code skeletonization",
 	"type": "inproceedings",
 	"venue": "PPoPP",

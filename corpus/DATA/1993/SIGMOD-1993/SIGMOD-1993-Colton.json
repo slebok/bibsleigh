@@ -1,6 +1,7 @@
 {
 	"author": "Malcolm Colton",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD93/P464.PDF",
 	"cite": "...",
 	"crossref": "conf/sigmod/93",
@@ -9,8 +10,17 @@
 	"ee": "http://doi.acm.org/10.1145/170035.170138",
 	"pages": "464-466",
 	"publisher": "ACM Press",
-	"stemmed": ["replic", "data", "in", "a", "distribut", "environ"],
-	"tag": ["distributed"],
+	"stemmed": [
+		"replic",
+		"data",
+		"in",
+		"a",
+		"distribut",
+		"environ"
+	],
+	"tag": [
+		"distributed"
+	],
 	"title": "Replicated Data in a Distributed Environment",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

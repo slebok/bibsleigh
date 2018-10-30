@@ -1,6 +1,10 @@
 {
-	"author": ["Duncan A. Buell", "Donald H. Kraft"],
+	"author": [
+		"Duncan A. Buell",
+		"Donald H. Kraft"
+	],
 	"booktitle": "Proceedings of the Fifth Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"dblpkey": "conf/sigir/BuellK82",
 	"doi": "10.1007/BFb0036335",
 	"ee": "http://dx.doi.org/10.1007/BFb0036335",
@@ -9,11 +13,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["liar", "a", "softwar", "environ", "for", "test", "queri", "process", "strategi"],
-	"tag": ["named", "query", "testing"],
+	"stemmed": [
+		"liar",
+		"a",
+		"softwar",
+		"environ",
+		"for",
+		"test",
+		"queri",
+		"process",
+		"strategi"
+	],
+	"tag": [
+		"named",
+		"query",
+		"testing"
+	],
 	"title": "LIARS: A Software Environment for Testing Query Processing Strategies",
 	"type": "inproceedings",
 	"venue": "SIGIR",
-	"volume": 146,
+	"volume": "146",
 	"year": 1982
 }

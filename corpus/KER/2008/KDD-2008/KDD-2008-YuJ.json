@@ -1,14 +1,30 @@
 {
-	"author": ["Chun-Nam John Yu", "Thorsten Joachims"],
-	"booktitle": "KDD",
+	"author": [
+		"Chun-Nam John Yu",
+		"Thorsten Joachims"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/YuJ08",
 	"doi": "10.1145/1401890.1401985",
 	"ee": "http://doi.acm.org/10.1145/1401890.1401985",
 	"pages": "794-802",
 	"publisher": "ACM",
-	"stemmed": ["train", "structur", "svms", "with", "kernel", "use", "sampl", "cut"],
-	"tag": ["kernel", "using"],
+	"stemmed": [
+		"train",
+		"structur",
+		"svms",
+		"with",
+		"kernel",
+		"use",
+		"sampl",
+		"cut"
+	],
+	"tag": [
+		"kernel",
+		"using"
+	],
 	"title": "Training structural svms with kernels using sampled cuts",
 	"type": "inproceedings",
 	"venue": "KDD",

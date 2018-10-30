@@ -1,6 +1,10 @@
 {
-	"author": ["Basilios Gatos", "Nikos Papamarkos"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Basilios Gatos",
+		"Nikos Papamarkos"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2001",
 	"dblpkey": "conf/icdar/GatosP01",
 	"doi": "10.1109/ICDAR.2001.953965",
@@ -8,8 +12,30 @@
 	"pages": "1147-1153",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["appli", "fast", "segment", "techniqu", "at", "a", "binari", "imag", "repres", "by", "a", "set", "of", "non", "overlap", "block"],
-	"tag": ["image", "performance", "segmentation", "set"],
+	"stemmed": [
+		"appli",
+		"fast",
+		"segment",
+		"techniqu",
+		"at",
+		"a",
+		"binari",
+		"imag",
+		"repres",
+		"by",
+		"a",
+		"set",
+		"of",
+		"non",
+		"overlap",
+		"block"
+	],
+	"tag": [
+		"image",
+		"performance",
+		"segmentation",
+		"set"
+	],
 	"title": "Applying Fast Segmentation Techniques at a Binary Image Represented by a Set of Non-Overlapping Blocks",
 	"type": "inproceedings",
 	"venue": "ICDAR",

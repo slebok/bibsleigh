@@ -1,13 +1,35 @@
 {
-	"author": ["Wen-Zen Shen", "Juinn-Dar Huang", "Shih-Min Chao"],
-	"booktitle": "DAC",
+	"author": [
+		"Wen-Zen Shen",
+		"Juinn-Dar Huang",
+		"Shih-Min Chao"
+	],
+	"booktitle": "Proceedings of the 32nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/ShenHC95",
 	"doi": "10.1145/217474.217508",
 	"ee": "http://doi.acm.org/10.1145/217474.217508",
 	"pages": "65-69",
 	"publisher": "ACM Press",
-	"stemmed": ["lambda", "set", "select", "in", "roth", "karp", "decomposit", "for", "lut", "base", "fpga", "technolog", "map"],
-	"tag": ["composition", "set"],
+	"stemmed": [
+		"lambda",
+		"set",
+		"select",
+		"in",
+		"roth",
+		"karp",
+		"decomposit",
+		"for",
+		"lut",
+		"base",
+		"fpga",
+		"technolog",
+		"map"
+	],
+	"tag": [
+		"composition",
+		"set"
+	],
 	"title": "Lambda Set Selection in Roth-Karp Decomposition for LUT-Based FPGA Technology Mapping",
 	"type": "inproceedings",
 	"venue": "DAC",

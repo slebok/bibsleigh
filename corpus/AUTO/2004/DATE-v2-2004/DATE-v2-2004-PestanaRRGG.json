@@ -1,6 +1,13 @@
 {
-	"author": ["Santiago González Pestana", "Edwin Rijpkema", "Andrei Radulescu", "Kees G. W. Goossens", "Om Prakash Gangwal"],
-	"booktitle": "DATE",
+	"author": [
+		"Santiago González Pestana",
+		"Edwin Rijpkema",
+		"Andrei Radulescu",
+		"Kees G. W. Goossens",
+		"Om Prakash Gangwal"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/PestanaRRGG04",
 	"doi": "10.1109/DATE.2004.1268972",
@@ -8,8 +15,25 @@
 	"pages": "764-769",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["cost", "perform", "trade", "off", "in", "network", "on", "chip", "a", "simul", "base", "approach"],
-	"tag": ["approach", "network", "trade-off"],
+	"stemmed": [
+		"cost",
+		"perform",
+		"trade",
+		"off",
+		"in",
+		"network",
+		"on",
+		"chip",
+		"a",
+		"simul",
+		"base",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"network",
+		"trade-off"
+	],
 	"title": "Cost-Performance Trade-Offs in Networks on Chip: A Simulation-Based Approach",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,6 +1,10 @@
 {
-	"author": ["Lucia Lo Bello", "Orazio Mirabella"],
-	"booktitle": "LCTES",
+	"author": [
+		"Lucia Lo Bello",
+		"Orazio Mirabella"
+	],
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2000",
 	"dblpkey": "conf/lctrts/BelloM00",
 	"doi": "10.1007/3-540-45245-1_1",
@@ -10,11 +14,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["random", "base", "approach", "for", "dynam", "prioriti", "schedul", "of", "aperiod", "messag", "on", "a", "can", "network"],
-	"tag": ["network", "scheduling"],
+	"stemmed": [
+		"random",
+		"base",
+		"approach",
+		"for",
+		"dynam",
+		"prioriti",
+		"schedul",
+		"of",
+		"aperiod",
+		"messag",
+		"on",
+		"a",
+		"can",
+		"network"
+	],
+	"tag": [
+		"network",
+		"scheduling"
+	],
 	"title": "Randomization-Based Approaches for Dynamic Priority Scheduling of Aperiodic Messages on a CAN Network",
 	"type": "inproceedings",
 	"venue": "LCTES",
-	"volume": 1985,
+	"volume": "1985",
 	"year": 2000
 }

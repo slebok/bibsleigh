@@ -1,14 +1,31 @@
 {
-	"author": ["Mahesh Kumar", "Nitin R. Patel", "Jonathan Woo"],
-	"booktitle": "KDD",
+	"author": [
+		"Mahesh Kumar",
+		"Nitin R. Patel",
+		"Jonathan Woo"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/KumarPW02",
 	"doi": "10.1145/775047.775129",
 	"ee": "http://doi.acm.org/10.1145/775047.775129",
 	"pages": "557-563",
 	"publisher": "ACM",
-	"stemmed": ["cluster", "season", "pattern", "in", "the", "presenc", "of", "error"],
-	"tag": ["clustering", "fault"],
+	"stemmed": [
+		"cluster",
+		"season",
+		"pattern",
+		"in",
+		"the",
+		"presenc",
+		"of",
+		"error"
+	],
+	"tag": [
+		"clustering",
+		"fault"
+	],
 	"title": "Clustering seasonality patterns in the presence of errors",
 	"type": "inproceedings",
 	"venue": "KDD",

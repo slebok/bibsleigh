@@ -1,6 +1,12 @@
 {
-	"author": ["Bernhard Beckert", "Stefan Gerberding", "Reiner Hähnle", "Werner Kernig"],
-	"booktitle": "CADE",
+	"author": [
+		"Bernhard Beckert",
+		"Stefan Gerberding",
+		"Reiner Hähnle",
+		"Werner Kernig"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/BeckertGHK92",
 	"doi": "10.1007/3-540-55602-8_219",
@@ -10,11 +16,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "tableau", "base", "theorem", "prover", "tap", "for", "multi", "valu", "logic"],
-	"tag": ["logic", "multi", "proving", "theorem proving"],
+	"stemmed": [
+		"the",
+		"tableau",
+		"base",
+		"theorem",
+		"prover",
+		"tap",
+		"for",
+		"multi",
+		"valu",
+		"logic"
+	],
+	"tag": [
+		"logic",
+		"multi",
+		"proving",
+		"theorem proving"
+	],
 	"title": "The Tableau-Based Theorem Prover 3TAP for Multi-Valued Logics",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

@@ -1,15 +1,43 @@
 {
-	"author": ["Andreas Hennig", "E. Marongiu", "Nasser Sherkat", "Robert J. Whitrow"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Andreas Hennig",
+		"E. Marongiu",
+		"Nasser Sherkat",
+		"Robert J. Whitrow"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/1997",
 	"dblpkey": "conf/icdar/HennigMSW97",
 	"doi": "10.1109/ICDAR.1997.619885",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1997.619885", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1997.619885"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1997.619885",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1997.619885"
+	],
 	"pages": "439-",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["dart", "a", "softwar", "architectur", "for", "the", "creation", "of", "a", "distribut", "asynchron", "recognit", "toolbox"],
-	"tag": ["architecture", "distributed", "named", "recognition"],
+	"stemmed": [
+		"dart",
+		"a",
+		"softwar",
+		"architectur",
+		"for",
+		"the",
+		"creation",
+		"of",
+		"a",
+		"distribut",
+		"asynchron",
+		"recognit",
+		"toolbox"
+	],
+	"tag": [
+		"architecture",
+		"distributed",
+		"named",
+		"recognition"
+	],
 	"title": "DART — A Software Architecture for the Creation of a Distributed Asynchronous Recognition Toolbox",
 	"type": "inproceedings",
 	"venue": "ICDAR",

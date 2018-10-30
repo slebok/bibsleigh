@@ -1,14 +1,35 @@
 {
-	"author": ["Javier Resano", "Daniel Mozos"],
-	"booktitle": "DAC",
+	"author": [
+		"Javier Resano",
+		"Daniel Mozos"
+	],
+	"booktitle": "Proceedings of the 41st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2004",
 	"dblpkey": "conf/dac/ResanoM04",
 	"doi": "10.1145/996566.996604",
 	"ee": "http://doi.acm.org/10.1145/996566.996604",
 	"pages": "119-124",
 	"publisher": "ACM",
-	"stemmed": ["specif", "schedul", "support", "to", "minim", "the", "reconfigur", "overhead", "of", "dynam", "reconfigur", "hardwar"],
-	"tag": ["configuration management", "hardware", "scheduling"],
+	"stemmed": [
+		"specif",
+		"schedul",
+		"support",
+		"to",
+		"minim",
+		"the",
+		"reconfigur",
+		"overhead",
+		"of",
+		"dynam",
+		"reconfigur",
+		"hardwar"
+	],
+	"tag": [
+		"configuration management",
+		"hardware",
+		"scheduling"
+	],
 	"title": "Specific scheduling support to minimize the reconfiguration overhead of dynamically reconfigurable hardware",
 	"type": "inproceedings",
 	"venue": "DAC",

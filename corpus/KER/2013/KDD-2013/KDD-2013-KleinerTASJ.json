@@ -1,14 +1,29 @@
 {
-	"author": ["Ariel Kleiner", "Ameet Talwalkar", "Sameer Agarwal", "Ion Stoica", "Michael I. Jordan"],
-	"booktitle": "KDD",
+	"author": [
+		"Ariel Kleiner",
+		"Ameet Talwalkar",
+		"Sameer Agarwal",
+		"Ion Stoica",
+		"Michael I. Jordan"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/KleinerTASJ13",
 	"doi": "10.1145/2487575.2487650",
 	"ee": "http://doi.acm.org/10.1145/2487575.2487650",
 	"pages": "419-427",
 	"publisher": "ACM",
-	"stemmed": ["a", "general", "bootstrap", "perform", "diagnost"],
-	"tag": ["performance"],
+	"stemmed": [
+		"a",
+		"general",
+		"bootstrap",
+		"perform",
+		"diagnost"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "A general bootstrap performance diagnostic",
 	"type": "inproceedings",
 	"venue": "KDD",

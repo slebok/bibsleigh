@@ -1,14 +1,39 @@
 {
-	"author": ["Masakazu Furuichi", "Kazuo Taki", "Nobuyuki Ichiyoshi"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Masakazu Furuichi",
+		"Kazuo Taki",
+		"Nobuyuki Ichiyoshi"
+	],
+	"booktitle": "Proceedings of the Second Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1990",
 	"dblpkey": "conf/ppopp/FuruichiTI90",
 	"doi": "10.1145/99163.99170",
 	"ee": "http://doi.acm.org/10.1145/99163.99170",
 	"pages": "50-59",
 	"publisher": "ACM",
-	"stemmed": ["a", "multi", "level", "load", "balanc", "scheme", "for", "or", "parallel", "exhaust", "search", "program", "on", "the", "multi", "psi"],
-	"tag": ["multi", "source code"],
+	"stemmed": [
+		"a",
+		"multi",
+		"level",
+		"load",
+		"balanc",
+		"scheme",
+		"for",
+		"or",
+		"parallel",
+		"exhaust",
+		"search",
+		"program",
+		"on",
+		"the",
+		"multi",
+		"psi"
+	],
+	"tag": [
+		"multi",
+		"source code"
+	],
 	"title": "A Multi-Level Load Balancing Scheme for OR-Parallel Exhaustive Search Programs on the Multi-PSI",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,6 +1,11 @@
 {
-	"author": ["Thomas Kissinger", "Benjamin Schlegel", "Dirk Habich", "Wolfgang Lehner"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Thomas Kissinger",
+		"Benjamin Schlegel",
+		"Dirk Habich",
+		"Wolfgang Lehner"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/KissingerSHL13",
@@ -8,8 +13,17 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2463682",
 	"pages": "1105-1108",
 	"publisher": "ACM",
-	"stemmed": ["queri", "process", "on", "prefix", "tree", "live"],
-	"tag": ["query"],
+	"stemmed": [
+		"queri",
+		"process",
+		"on",
+		"prefix",
+		"tree",
+		"live"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Query processing on prefix trees live",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

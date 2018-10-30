@@ -1,16 +1,42 @@
 {
-	"acmid": 1252540,
-	"author": ["John Cavazos", "Grigori Fursin", "Felix V. Agakov", "Edwin V. Bonilla", "Michael F. P. O'Boyle", "Olivier Temam"],
-	"booktitle": "CGO",
+	"acmid": "1252540",
+	"author": [
+		"John Cavazos",
+		"Grigori Fursin",
+		"Felix V. Agakov",
+		"Edwin V. Bonilla",
+		"Michael F. P. O'Boyle",
+		"Olivier Temam"
+	],
+	"booktitle": "Proceedings of the Fifth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2007",
 	"dblpkey": "conf/cgo/CavazosFABOT07",
 	"doi": "10.1109/CGO.2007.32",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2007.32", "http://doi.ieeecomputersociety.org/10.1109/CGO.2007.32", "http://dl.acm.org/citation.cfm?id=1252540"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2007.32",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2007.32",
+		"http://dl.acm.org/citation.cfm?id=1252540"
+	],
 	"pages": "185-197",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["rapid", "select", "good", "compil", "optim", "use", "perform", "counter"],
-	"tag": ["compilation", "optimisation", "performance", "using"],
+	"stemmed": [
+		"rapid",
+		"select",
+		"good",
+		"compil",
+		"optim",
+		"use",
+		"perform",
+		"counter"
+	],
+	"tag": [
+		"compilation",
+		"optimisation",
+		"performance",
+		"using"
+	],
 	"title": "Rapidly Selecting Good Compiler Optimizations using Performance Counters",
 	"type": "inproceedings",
 	"venue": "CGO",

@@ -1,13 +1,31 @@
 {
-	"author": ["Jeffrey J. Joyce", "Carl-Johan H. Seger"],
-	"booktitle": "DAC",
+	"author": [
+		"Jeffrey J. Joyce",
+		"Carl-Johan H. Seger"
+	],
+	"booktitle": "Proceedings of the 30th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/JoyceS93",
 	"doi": "10.1145/157485.164981",
 	"ee": "http://doi.acm.org/10.1145/157485.164981",
 	"pages": "469-474",
 	"publisher": "ACM Press",
-	"stemmed": ["link", "bdd", "base", "symbol", "evalu", "to", "interact", "theorem", "prove"],
-	"tag": ["evaluation", "interactive", "symbolic computation"],
+	"stemmed": [
+		"link",
+		"bdd",
+		"base",
+		"symbol",
+		"evalu",
+		"to",
+		"interact",
+		"theorem",
+		"prove"
+	],
+	"tag": [
+		"evaluation",
+		"interactive",
+		"symbolic computation"
+	],
 	"title": "Linking BDD-Based Symbolic Evaluation to Interactive Theorem-Proving",
 	"type": "inproceedings",
 	"venue": "DAC",

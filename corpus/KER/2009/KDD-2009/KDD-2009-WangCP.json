@@ -1,14 +1,32 @@
 {
-	"author": ["Xuanhui Wang", "Deepayan Chakrabarti", "Kunal Punera"],
-	"booktitle": "KDD",
+	"author": [
+		"Xuanhui Wang",
+		"Deepayan Chakrabarti",
+		"Kunal Punera"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/WangCP09",
 	"doi": "10.1145/1557019.1557114",
 	"ee": "http://doi.acm.org/10.1145/1557019.1557114",
 	"pages": "867-876",
 	"publisher": "ACM",
-	"stemmed": ["mine", "broad", "latent", "queri", "aspect", "from", "search", "session"],
-	"tag": ["aspect-oriented", "mining", "query"],
+	"stemmed": [
+		"mine",
+		"broad",
+		"latent",
+		"queri",
+		"aspect",
+		"from",
+		"search",
+		"session"
+	],
+	"tag": [
+		"aspect-oriented",
+		"mining",
+		"query"
+	],
 	"title": "Mining broad latent query aspects from search sessions",
 	"type": "inproceedings",
 	"venue": "KDD",

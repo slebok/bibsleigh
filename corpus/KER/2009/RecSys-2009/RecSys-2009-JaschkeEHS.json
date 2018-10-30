@@ -1,14 +1,33 @@
 {
-	"author": ["Robert Jäschke", "Folke Eisterlehner", "Andreas Hotho", "Gerd Stumme"],
-	"booktitle": "RecSys",
+	"author": [
+		"Robert Jäschke",
+		"Folke Eisterlehner",
+		"Andreas Hotho",
+		"Gerd Stumme"
+	],
+	"booktitle": "Proceedings of the Third Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2009",
 	"dblpkey": "conf/recsys/JaschkeEHS09",
 	"doi": "10.1145/1639714.1639790",
 	"ee": "http://doi.acm.org/10.1145/1639714.1639790",
 	"pages": "369-372",
 	"publisher": "ACM",
-	"stemmed": ["test", "and", "evalu", "tag", "recommend", "in", "a", "live", "system"],
-	"tag": ["recommendation", "testing"],
+	"stemmed": [
+		"test",
+		"and",
+		"evalu",
+		"tag",
+		"recommend",
+		"in",
+		"a",
+		"live",
+		"system"
+	],
+	"tag": [
+		"recommendation",
+		"testing"
+	],
 	"title": "Testing and evaluating tag recommenders in a live system",
 	"type": "inproceedings",
 	"venue": "RecSys",

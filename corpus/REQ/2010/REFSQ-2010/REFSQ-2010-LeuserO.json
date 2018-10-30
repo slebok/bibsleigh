@@ -1,6 +1,10 @@
 {
-	"author": ["Jörg Leuser", "Daniel Ott"],
-	"booktitle": "REFSQ",
+	"author": [
+		"Jörg Leuser",
+		"Daniel Ott"
+	],
+	"booktitle": "Proceedings of the 16th International Working Conference on Requirements Engineering: Foundation for Software Quality",
+	"booktitleshort": "REFSQ",
 	"crossref": "conf/refsq/2010",
 	"dblpkey": "conf/refsq/LeuserO10",
 	"doi": "10.1007/978-3-642-14192-8_19",
@@ -9,11 +13,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["tackl", "semi", "automat", "trace", "recoveri", "for", "larg", "specif"],
-	"tag": ["automation", "scalability", "specification"],
+	"stemmed": [
+		"tackl",
+		"semi",
+		"automat",
+		"trace",
+		"recoveri",
+		"for",
+		"larg",
+		"specif"
+	],
+	"tag": [
+		"automation",
+		"scalability",
+		"specification"
+	],
 	"title": "Tackling Semi-automatic Trace Recovery for Large Specifications",
 	"type": "inproceedings",
 	"venue": "REFSQ",
-	"volume": 6182,
+	"volume": "6182",
 	"year": 2010
 }

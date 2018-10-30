@@ -1,6 +1,10 @@
 {
-	"author": ["William Kornfeld", "John Wattecamps"],
+	"author": [
+		"William Kornfeld",
+		"John Wattecamps"
+	],
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P347.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/KornfeldW98",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/290941.291037",
 	"pages": "347-348",
 	"publisher": "ACM",
-	"stemmed": ["automat", "locat", "extract", "and", "analyz", "tabular", "data"],
-	"tag": ["automation"],
+	"stemmed": [
+		"automat",
+		"locat",
+		"extract",
+		"and",
+		"analyz",
+		"tabular",
+		"data"
+	],
+	"tag": [
+		"automation"
+	],
 	"title": "Automatically Locating, Extracting and Analyzing Tabular Data",
 	"type": "inproceedings",
 	"venue": "SIGIR",

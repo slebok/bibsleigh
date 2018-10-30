@@ -1,14 +1,30 @@
 {
-	"author": ["Bumyong Choi", "Leo Porter", "Dean M. Tullsen"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Bumyong Choi",
+		"Leo Porter",
+		"Dean M. Tullsen"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2008",
 	"dblpkey": "conf/asplos/ChoiPT08",
 	"doi": "10.1145/1346281.1346298",
 	"ee": "http://doi.acm.org/10.1145/1346281.1346298",
 	"pages": "125-134",
 	"publisher": "ACM",
-	"stemmed": ["accur", "branch", "predict", "for", "short", "thread"],
-	"tag": ["branch", "predict", "thread"],
+	"stemmed": [
+		"accur",
+		"branch",
+		"predict",
+		"for",
+		"short",
+		"thread"
+	],
+	"tag": [
+		"branch",
+		"predict",
+		"thread"
+	],
 	"title": "Accurate branch prediction for short threads",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

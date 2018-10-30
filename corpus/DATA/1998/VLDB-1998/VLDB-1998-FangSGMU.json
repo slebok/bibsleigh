@@ -1,14 +1,47 @@
 {
-	"author": ["Min Fang", "Narayanan Shivakumar", "Hector Garcia-Molina", "Rajeev Motwani", "Jeffrey D. Ullman"],
-	"booktitle": "VLDB",
-	"cite": ["conf/vldb/AgrawalS94", "journals/tods/BittonD83", "...", "conf/sigmod/BrinMUT97", "...", "...", "journals/jcss/FlajoletM85", "...", "journals/jcss/HaasNSS96", "...", "conf/sigmod/ParkCY95", "journals/ipm/SaltonB88", "conf/dl/ShivakumarG96", "...", "...", "books/cs/Ullman88", "journals/tods/WhangVT90", "books/aw/Zipf49"],
+	"author": [
+		"Min Fang",
+		"Narayanan Shivakumar",
+		"Hector Garcia-Molina",
+		"Rajeev Motwani",
+		"Jeffrey D. Ullman"
+	],
+	"booktitle": "Proceedings of the 24th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/vldb/AgrawalS94",
+		"journals/tods/BittonD83",
+		"...",
+		"conf/sigmod/BrinMUT97",
+		"...",
+		"...",
+		"journals/jcss/FlajoletM85",
+		"...",
+		"journals/jcss/HaasNSS96",
+		"...",
+		"conf/sigmod/ParkCY95",
+		"journals/ipm/SaltonB88",
+		"conf/dl/ShivakumarG96",
+		"...",
+		"...",
+		"books/cs/Ullman88",
+		"journals/tods/WhangVT90",
+		"books/aw/Zipf49"
+	],
 	"crossref": "conf/vldb/98",
 	"dblpkey": "conf/vldb/FangSGMU98",
 	"ee": "http://www.vldb.org/conf/1998/p299.pdf",
 	"pages": "299-310",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["comput", "iceberg", "queri", "effici"],
-	"tag": ["query"],
+	"stemmed": [
+		"comput",
+		"iceberg",
+		"queri",
+		"effici"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Computing Iceberg Queries Efficiently",
 	"type": "inproceedings",
 	"venue": "VLDB",

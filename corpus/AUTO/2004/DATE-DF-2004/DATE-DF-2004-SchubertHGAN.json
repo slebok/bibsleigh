@@ -1,6 +1,13 @@
 {
-	"author": ["Thorsten Schubert", "Jürgen Hanisch", "Joachim Gerlach", "Jens-E. Appell", "Wolfgang Nebel"],
-	"booktitle": "DATE",
+	"author": [
+		"Thorsten Schubert",
+		"Jürgen Hanisch",
+		"Joachim Gerlach",
+		"Jens-E. Appell",
+		"Wolfgang Nebel"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Designers’ Forum",
+	"booktitleshort": "DATE DF",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/SchubertHGAN04",
 	"doi": "10.1109/DATE.2004.1269245",
@@ -8,8 +15,22 @@
 	"pages": "262-267",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["evalu", "of", "a", "refin", "driven", "system", "c", "base", "design", "flow"],
-	"tag": ["design", "evaluation"],
+	"stemmed": [
+		"evalu",
+		"of",
+		"a",
+		"refin",
+		"driven",
+		"system",
+		"c",
+		"base",
+		"design",
+		"flow"
+	],
+	"tag": [
+		"design",
+		"evaluation"
+	],
 	"title": "Evaluation of a Refinement-Driven SystemC™-Based Design Flow",
 	"type": "inproceedings",
 	"venue": "DATE",

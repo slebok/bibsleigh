@@ -1,6 +1,14 @@
 {
-	"author": ["Arvind K. Sujeeth", "Austin Gibbons", "Kevin J. Brown", "HyoukJoong Lee", "Tiark Rompf", "Martin Odersky", "Kunle Olukotun"],
-	"booktitle": "Proceedings of the 12th International Conference on Generative Programming: Concepts & Experiences",
+	"author": [
+		"Arvind K. Sujeeth",
+		"Austin Gibbons",
+		"Kevin J. Brown",
+		"HyoukJoong Lee",
+		"Tiark Rompf",
+		"Martin Odersky",
+		"Kunle Olukotun"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Generative Programming: Concepts and Experiences",
 	"booktitleshort": "GPCE",
 	"crossref": "conf/gpce/2013",
 	"dblpkey": "conf/gpce/SujeethGBLROO13",
@@ -8,8 +16,28 @@
 	"ee": "http://doi.acm.org/10.1145/2517208.2517220",
 	"pages": "145-154",
 	"publisher": "ACM",
-	"stemmed": ["forg", "generat", "a", "high", "perform", "dsl", "implement", "from", "a", "declar", "specif"],
-	"tag": ["declarative", "domain-specific language", "generative", "implementation", "named", "performance", "specification"],
+	"stemmed": [
+		"forg",
+		"generat",
+		"a",
+		"high",
+		"perform",
+		"dsl",
+		"implement",
+		"from",
+		"a",
+		"declar",
+		"specif"
+	],
+	"tag": [
+		"declarative",
+		"domain-specific language",
+		"generative",
+		"implementation",
+		"named",
+		"performance",
+		"specification"
+	],
 	"title": "Forge: generating a high performance DSL implementation from a declarative specification",
 	"type": "inproceedings",
 	"venue": "GPCE",

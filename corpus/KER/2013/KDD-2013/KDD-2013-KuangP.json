@@ -1,14 +1,33 @@
 {
-	"author": ["Da Kuang", "Haesun Park"],
-	"booktitle": "KDD",
+	"author": [
+		"Da Kuang",
+		"Haesun Park"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/KuangP13",
 	"doi": "10.1145/2487575.2487606",
 	"ee": "http://doi.acm.org/10.1145/2487575.2487606",
 	"pages": "739-747",
 	"publisher": "ACM",
-	"stemmed": ["fast", "rank", "nonneg", "matrix", "factor", "for", "hierarch", "document", "cluster"],
-	"tag": ["clustering", "documentation", "matrix", "performance"],
+	"stemmed": [
+		"fast",
+		"rank",
+		"nonneg",
+		"matrix",
+		"factor",
+		"for",
+		"hierarch",
+		"document",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"documentation",
+		"matrix",
+		"performance"
+	],
 	"title": "Fast rank-2 nonnegative matrix factorization for hierarchical document clustering",
 	"type": "inproceedings",
 	"venue": "KDD",

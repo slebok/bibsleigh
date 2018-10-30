@@ -1,6 +1,11 @@
 {
-	"author": ["Mohan Yang", "Haixun Wang", "Haiquan Chen", "Wei-Shinn Ku"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Mohan Yang",
+		"Haixun Wang",
+		"Haiquan Chen",
+		"Wei-Shinn Ku"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/YangWCK11",
@@ -8,8 +13,19 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989409",
 	"pages": "817-828",
 	"publisher": "ACM",
-	"stemmed": ["queri", "uncertain", "data", "with", "aggreg", "constraint"],
-	"tag": ["constraints", "nondeterminism", "query"],
+	"stemmed": [
+		"queri",
+		"uncertain",
+		"data",
+		"with",
+		"aggreg",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"nondeterminism",
+		"query"
+	],
 	"title": "Querying uncertain data with aggregate constraints",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

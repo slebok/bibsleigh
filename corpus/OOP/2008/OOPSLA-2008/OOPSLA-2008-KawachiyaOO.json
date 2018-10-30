@@ -1,6 +1,10 @@
 {
-	"author": ["Kiyokuni Kawachiya", "Kazunori Ogata", "Tamiya Onodera"],
-	"booktitle": "Proceedings of the 23rd Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Kiyokuni Kawachiya",
+		"Kazunori Ogata",
+		"Tamiya Onodera"
+	],
+	"booktitle": "Proceedings of the 23rd Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2008",
 	"dblpkey": "conf/oopsla/KawachiyaOO08",
@@ -10,8 +14,24 @@
 	"isbn": "978-1-60558-215-3",
 	"pages": "385-402",
 	"publisher": "ACM",
-	"stemmed": ["analysi", "and", "reduct", "of", "memori", "ineffici", "in", "java", "string"],
-	"tag": ["analysis", "java", "memory management", "reduction", "string"],
+	"stemmed": [
+		"analysi",
+		"and",
+		"reduct",
+		"of",
+		"memori",
+		"ineffici",
+		"in",
+		"java",
+		"string"
+	],
+	"tag": [
+		"analysis",
+		"java",
+		"memory management",
+		"reduction",
+		"string"
+	],
 	"title": "Analysis and reduction of memory inefficiencies in Java strings",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

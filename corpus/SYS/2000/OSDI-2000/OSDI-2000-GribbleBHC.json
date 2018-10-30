@@ -1,13 +1,33 @@
 {
-	"acmid": 1251251,
-	"author": ["Steven D. Gribble", "Eric A. Brewer", "Joseph M. Hellerstein", "David E. Culler"],
-	"booktitle": "OSDI",
+	"acmid": "1251251",
+	"author": [
+		"Steven D. Gribble",
+		"Eric A. Brewer",
+		"Joseph M. Hellerstein",
+		"David E. Culler"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2000",
 	"dblpkey": "conf/osdi/GribbleBHC00",
 	"pages": "319-332",
 	"publisher": "USENIX Association",
-	"stemmed": ["scalabl", "distribut", "data", "structur", "for", "internet", "servic", "construct"],
-	"tag": ["data type", "distributed", "internet", "scalability"],
+	"stemmed": [
+		"scalabl",
+		"distribut",
+		"data",
+		"structur",
+		"for",
+		"internet",
+		"servic",
+		"construct"
+	],
+	"tag": [
+		"data type",
+		"distributed",
+		"internet",
+		"scalability"
+	],
 	"title": "Scalable, Distributed Data Structures for Internet Service Construction",
 	"type": "inproceedings",
 	"venue": "OSDI",

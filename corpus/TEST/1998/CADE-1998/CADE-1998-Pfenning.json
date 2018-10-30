@@ -1,6 +1,7 @@
 {
 	"author": "Frank Pfenning",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 15th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1998",
 	"dblpkey": "conf/cade/Pfenning98",
 	"ee": "http://link.springer.de/link/service/series/0558/bibs/1421/14210001.htm",
@@ -9,11 +10,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["reason", "about", "deduct", "in", "linear", "logic", "abstract", "of", "invit", "talk"],
-	"tag": ["deduction", "linear", "logic", "reasoning"],
+	"stemmed": [
+		"reason",
+		"about",
+		"deduct",
+		"in",
+		"linear",
+		"logic",
+		"abstract",
+		"of",
+		"invit",
+		"talk"
+	],
+	"tag": [
+		"deduction",
+		"linear",
+		"logic",
+		"reasoning"
+	],
 	"title": "Reasoning About Deductions in Linear Logic (Abstract of Invited Talk)",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1421,
+	"volume": "1421",
 	"year": 1998
 }

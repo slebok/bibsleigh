@@ -1,13 +1,28 @@
 {
-	"author": ["Charles J. Alpert", "Anirudh Devgan", "Stephen T. Quay"],
-	"booktitle": "DAC",
+	"author": [
+		"Charles J. Alpert",
+		"Anirudh Devgan",
+		"Stephen T. Quay"
+	],
+	"booktitle": "Proceedings of the 35th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/AlpertDQ98",
 	"doi": "10.1145/277044.277145",
 	"ee": "http://doi.acm.org/10.1145/277044.277145",
 	"pages": "362-367",
 	"publisher": "ACM Press",
-	"stemmed": ["buffer", "insert", "for", "nois", "and", "delay", "optim"],
-	"tag": ["optimisation"],
+	"stemmed": [
+		"buffer",
+		"insert",
+		"for",
+		"nois",
+		"and",
+		"delay",
+		"optim"
+	],
+	"tag": [
+		"optimisation"
+	],
 	"title": "Buffer Insertion for Noise and Delay Optimization",
 	"type": "inproceedings",
 	"venue": "DAC",

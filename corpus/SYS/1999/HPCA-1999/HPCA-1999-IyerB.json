@@ -1,15 +1,43 @@
 {
-	"author": ["Ravi R. Iyer", "Laxmi N. Bhuyan"],
-	"booktitle": "HPCA",
+	"author": [
+		"Ravi R. Iyer",
+		"Laxmi N. Bhuyan"
+	],
+	"booktitle": "Proceedings of the Fifth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1999",
 	"dblpkey": "conf/hpca/IyerB99",
 	"doi": "10.1109/HPCA.1999.744357",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1999.744357", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744357"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1999.744357",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744357"
+	],
 	"pages": "152-160",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["switch", "cach", "a", "framework", "for", "improv", "the", "remot", "memori", "access", "latenc", "of", "cc", "numa", "multiprocessor"],
-	"tag": ["framework", "latency", "memory management", "multi"],
+	"stemmed": [
+		"switch",
+		"cach",
+		"a",
+		"framework",
+		"for",
+		"improv",
+		"the",
+		"remot",
+		"memori",
+		"access",
+		"latenc",
+		"of",
+		"cc",
+		"numa",
+		"multiprocessor"
+	],
+	"tag": [
+		"framework",
+		"latency",
+		"memory management",
+		"multi"
+	],
 	"title": "Switch Cache: A Framework for Improving the Remote Memory Access Latency of CC-NUMA Multiprocessors",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,14 +1,29 @@
 {
-	"author": ["Hester Bakewell", "Donna J. Quammen", "Pearl Y. Wang"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Hester Bakewell",
+		"Donna J. Quammen",
+		"Pearl Y. Wang"
+	],
+	"booktitle": "Proceedings of the Third Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1991",
 	"dblpkey": "conf/ppopp/BakewellQW91",
 	"doi": "10.1145/109625.109629",
 	"ee": "http://doi.acm.org/10.1145/109625.109629",
 	"pages": "21-27",
 	"publisher": "ACM",
-	"stemmed": ["map", "concurr", "program", "to", "vliw", "processor"],
-	"tag": ["concurrent", "source code"],
+	"stemmed": [
+		"map",
+		"concurr",
+		"program",
+		"to",
+		"vliw",
+		"processor"
+	],
+	"tag": [
+		"concurrent",
+		"source code"
+	],
 	"title": "Mapping Concurrent Programs to VLIW Processors",
 	"type": "inproceedings",
 	"venue": "PPoPP",

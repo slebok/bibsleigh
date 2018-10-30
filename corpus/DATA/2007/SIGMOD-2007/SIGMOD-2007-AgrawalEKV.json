@@ -1,6 +1,11 @@
 {
-	"author": ["Rakesh Agrawal", "Alexandre V. Evfimievski", "Jerry Kiernan", "Raja Velu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Rakesh Agrawal",
+		"Alexandre V. Evfimievski",
+		"Jerry Kiernan",
+		"Raja Velu"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/AgrawalEKV07",
@@ -8,8 +13,16 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247491",
 	"pages": "79-90",
 	"publisher": "ACM",
-	"stemmed": ["audit", "disclosur", "by", "relev", "rank"],
-	"tag": ["ranking"],
+	"stemmed": [
+		"audit",
+		"disclosur",
+		"by",
+		"relev",
+		"rank"
+	],
+	"tag": [
+		"ranking"
+	],
 	"title": "Auditing disclosure by relevance ranking",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

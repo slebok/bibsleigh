@@ -1,13 +1,34 @@
 {
-	"author": ["Xun Tang", "Ruifeng Guo", "Wu-Tung Cheng", "Sudhakar M. Reddy"],
-	"booktitle": "DATE",
+	"author": [
+		"Xun Tang",
+		"Ruifeng Guo",
+		"Wu-Tung Cheng",
+		"Sudhakar M. Reddy"
+	],
+	"booktitle": "Proceedings of the 13th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2009",
 	"dblpkey": "conf/date/TangGCR09",
 	"ieeearid": 5090810,
 	"pages": "1000-1005",
 	"publisher": "IEEE",
-	"stemmed": ["improv", "compress", "test", "pattern", "generat", "for", "multipl", "scan", "chain", "failur", "diagnosi"],
-	"tag": ["generative", "multi"],
+	"stemmed": [
+		"improv",
+		"compress",
+		"test",
+		"pattern",
+		"generat",
+		"for",
+		"multipl",
+		"scan",
+		"chain",
+		"failur",
+		"diagnosi"
+	],
+	"tag": [
+		"generative",
+		"multi"
+	],
 	"title": "Improving compressed test pattern generation for multiple scan chain failure diagnosis",
 	"type": "inproceedings",
 	"venue": "DATE",

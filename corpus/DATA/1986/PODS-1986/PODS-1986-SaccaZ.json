@@ -1,15 +1,47 @@
 {
-	"author": ["Domenico Saccà", "Carlo Zaniolo"],
-	"booktitle": "PODS",
-	"cite": ["...", "conf/pods/BancilhonMSU86", "conf/pods/ChandraH82", "journals/jacm/HenschenN84", "...", "books/cs/Ullman82", "journals/tods/Ullman85", "journals/jacm/EmdenK76"],
+	"author": [
+		"Domenico Saccà",
+		"Carlo Zaniolo"
+	],
+	"booktitle": "Proceedings of the Fifth Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cite": [
+		"...",
+		"conf/pods/BancilhonMSU86",
+		"conf/pods/ChandraH82",
+		"journals/jacm/HenschenN84",
+		"...",
+		"books/cs/Ullman82",
+		"journals/tods/Ullman85",
+		"journals/jacm/EmdenK76"
+	],
 	"crossref": "conf/pods/86",
 	"dblpkey": "conf/pods/SaccaZ86",
 	"doi": "10.1145/6012.6013",
 	"ee": "http://doi.acm.org/10.1145/6012.6013",
 	"pages": "16-23",
 	"publisher": "ACM",
-	"stemmed": ["on", "the", "implement", "of", "a", "simpl", "class", "of", "logic", "queri", "for", "databas"],
-	"tag": ["database", "implementation", "logic", "on the", "query"],
+	"stemmed": [
+		"on",
+		"the",
+		"implement",
+		"of",
+		"a",
+		"simpl",
+		"class",
+		"of",
+		"logic",
+		"queri",
+		"for",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"implementation",
+		"logic",
+		"on the",
+		"query"
+	],
 	"title": "On the Implementation of a Simple Class of Logic Queries for Databases",
 	"type": "inproceedings",
 	"venue": "PODS",

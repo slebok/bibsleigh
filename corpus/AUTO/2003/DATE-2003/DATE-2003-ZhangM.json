@@ -1,16 +1,44 @@
 {
-	"acmid": 1022835,
-	"author": ["Lintao Zhang", "Sharad Malik"],
-	"booktitle": "DATE",
+	"acmid": "1022835",
+	"author": [
+		"Lintao Zhang",
+		"Sharad Malik"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2003",
 	"dblpkey": "conf/date/ZhangM03",
 	"doi": "10.1109/DATE.2003.10014",
-	"ee": ["http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10014", "http://dl.acm.org/citation.cfm?id=1022835"],
+	"ee": [
+		"http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10014",
+		"http://dl.acm.org/citation.cfm?id=1022835"
+	],
 	"pages": "10880-10885",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["valid", "sat", "solver", "use", "an", "independ", "resolut", "base", "checker", "practic", "implement", "and", "other", "applic"],
-	"tag": ["implementation", "independence", "satisfiability", "using", "validation"],
+	"stemmed": [
+		"valid",
+		"sat",
+		"solver",
+		"use",
+		"an",
+		"independ",
+		"resolut",
+		"base",
+		"checker",
+		"practic",
+		"implement",
+		"and",
+		"other",
+		"applic"
+	],
+	"tag": [
+		"implementation",
+		"independence",
+		"satisfiability",
+		"using",
+		"validation"
+	],
 	"title": "Validating SAT Solvers Using an Independent Resolution-Based Checker: Practical Implementations and Other Applications",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,13 +1,38 @@
 {
-	"author": ["Christian Masson", "Remy Escassut", "Denis Barbier", "Daniel Winer", "Gregory Chevallier"],
-	"booktitle": "DAC",
+	"author": [
+		"Christian Masson",
+		"Remy Escassut",
+		"Denis Barbier",
+		"Daniel Winer",
+		"Gregory Chevallier"
+	],
+	"booktitle": "Proceedings of the 28th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/MassonEBWC91",
 	"doi": "10.1145/127601.127677",
 	"ee": "http://doi.acm.org/10.1145/127601.127677",
 	"pages": "259-264",
 	"publisher": "ACM",
-	"stemmed": ["object", "orient", "lisp", "implement", "of", "the", "cheop", "vlsi", "floor", "plan", "and", "rout", "system"],
-	"tag": ["implementation", "lisp", "object-oriented"],
+	"stemmed": [
+		"object",
+		"orient",
+		"lisp",
+		"implement",
+		"of",
+		"the",
+		"cheop",
+		"vlsi",
+		"floor",
+		"plan",
+		"and",
+		"rout",
+		"system"
+	],
+	"tag": [
+		"implementation",
+		"lisp",
+		"object-oriented"
+	],
 	"title": "Object Oriented Lisp Implementation of the CHEOPS VLSI Floor Planning and Routing System",
 	"type": "inproceedings",
 	"venue": "DAC",

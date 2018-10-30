@@ -1,14 +1,28 @@
 {
 	"author": "D. A. Turner",
 	"booktitle": "Proceedings of the 11th Symposium on Applied Computing",
+	"booktitleshort": "SAC",
 	"crossref": "conf/sac/1996",
 	"dblpkey": "conf/sac/Turner96",
 	"doi": "10.1145/331119.331416",
 	"ee": "http://doi.acm.org/10.1145/331119.331416",
 	"pages": "401-407",
 	"publisher": "ACM",
-	"stemmed": ["snacc", "a", "parser", "generat", "for", "use", "with", "miranda"],
-	"tag": ["generative", "named", "parsing"],
+	"stemmed": [
+		"snacc",
+		"a",
+		"parser",
+		"generat",
+		"for",
+		"use",
+		"with",
+		"miranda"
+	],
+	"tag": [
+		"generative",
+		"named",
+		"parsing"
+	],
 	"title": "SNACC: a parser generator for use with Miranda",
 	"type": "inproceedings",
 	"venue": "SAC",

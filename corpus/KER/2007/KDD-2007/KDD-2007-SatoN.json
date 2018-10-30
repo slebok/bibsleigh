@@ -1,14 +1,39 @@
 {
-	"author": ["Issei Sato", "Hiroshi Nakagawa"],
-	"booktitle": "KDD",
+	"author": [
+		"Issei Sato",
+		"Hiroshi Nakagawa"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2007",
 	"dblpkey": "conf/kdd/SatoN07",
 	"doi": "10.1145/1281192.1281256",
 	"ee": "http://doi.acm.org/10.1145/1281192.1281256",
 	"pages": "590-598",
 	"publisher": "ACM",
-	"stemmed": ["knowledg", "discoveri", "of", "multipl", "topic", "document", "use", "parametr", "mixtur", "model", "with", "dirichlet", "prior"],
-	"tag": ["documentation", "information management", "multi", "parametricity", "topic", "using"],
+	"stemmed": [
+		"knowledg",
+		"discoveri",
+		"of",
+		"multipl",
+		"topic",
+		"document",
+		"use",
+		"parametr",
+		"mixtur",
+		"model",
+		"with",
+		"dirichlet",
+		"prior"
+	],
+	"tag": [
+		"documentation",
+		"information management",
+		"multi",
+		"parametricity",
+		"topic",
+		"using"
+	],
 	"title": "Knowledge discovery of multiple-topic document using parametric mixture model with dirichlet prior",
 	"type": "inproceedings",
 	"venue": "KDD",

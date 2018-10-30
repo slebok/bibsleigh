@@ -1,6 +1,7 @@
 {
 	"author": "Kurt Konolige",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Konolige86",
 	"doi": "10.1007/3-540-16780-3_91",
@@ -10,11 +11,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["resolut", "and", "quantifi", "epistem", "logic"],
-	"tag": ["logic", "quantifier"],
+	"stemmed": [
+		"resolut",
+		"and",
+		"quantifi",
+		"epistem",
+		"logic"
+	],
+	"tag": [
+		"logic",
+		"quantifier"
+	],
 	"title": "Resolution and Quantified Epistemic Logics",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

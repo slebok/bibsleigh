@@ -1,14 +1,33 @@
 {
-	"author": ["Christian Böhm", "Katrin Haegler", "Nikola S. Müller", "Claudia Plant"],
-	"booktitle": "KDD",
+	"author": [
+		"Christian Böhm",
+		"Katrin Haegler",
+		"Nikola S. Müller",
+		"Claudia Plant"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/BohmHMP09",
 	"doi": "10.1145/1557019.1557042",
 	"ee": "http://doi.acm.org/10.1145/1557019.1557042",
 	"pages": "149-158",
 	"publisher": "ACM",
-	"stemmed": ["co", "co", "code", "cost", "for", "paramet", "free", "outlier", "detect"],
-	"tag": ["detection", "named"],
+	"stemmed": [
+		"co",
+		"co",
+		"code",
+		"cost",
+		"for",
+		"paramet",
+		"free",
+		"outlier",
+		"detect"
+	],
+	"tag": [
+		"detection",
+		"named"
+	],
 	"title": "CoCo: coding cost for parameter-free outlier detection",
 	"type": "inproceedings",
 	"venue": "KDD",

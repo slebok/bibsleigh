@@ -1,14 +1,34 @@
 {
-	"author": ["Mongkol Ekpanyapong", "Jacob R. Minz", "Thaisiri Watewai", "Hsien-Hsin S. Lee", "Sung Kyu Lim"],
-	"booktitle": "DAC",
+	"author": [
+		"Mongkol Ekpanyapong",
+		"Jacob R. Minz",
+		"Thaisiri Watewai",
+		"Hsien-Hsin S. Lee",
+		"Sung Kyu Lim"
+	],
+	"booktitle": "Proceedings of the 41st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2004",
 	"dblpkey": "conf/dac/EkpanyapongMWLL04",
 	"doi": "10.1145/996566.996741",
 	"ee": "http://doi.acm.org/10.1145/996566.996741",
 	"pages": "634-639",
 	"publisher": "ACM",
-	"stemmed": ["profil", "guid", "microarchitectur", "floorplan", "for", "deep", "submicron", "processor", "design"],
-	"tag": ["architecture", "design"],
+	"stemmed": [
+		"profil",
+		"guid",
+		"microarchitectur",
+		"floorplan",
+		"for",
+		"deep",
+		"submicron",
+		"processor",
+		"design"
+	],
+	"tag": [
+		"architecture",
+		"design"
+	],
 	"title": "Profile-guided microarchitectural floorplanning for deep submicron processor design",
 	"type": "inproceedings",
 	"venue": "DAC",

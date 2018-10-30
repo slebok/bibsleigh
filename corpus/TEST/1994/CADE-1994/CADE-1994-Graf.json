@@ -1,6 +1,7 @@
 {
 	"author": "Peter Graf",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/Graf94",
 	"doi": "10.1007/3-540-58156-1_37",
@@ -10,10 +11,14 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["extend", "path", "index"],
+	"stemmed": [
+		"extend",
+		"path",
+		"index"
+	],
 	"title": "Extended Path-Indexing",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

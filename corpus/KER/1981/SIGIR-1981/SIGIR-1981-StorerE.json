@@ -1,6 +1,10 @@
 {
-	"author": ["William F. Storer", "Caroline M. Eastman"],
+	"author": [
+		"William F. Storer",
+		"Caroline M. Eastman"
+	],
 	"booktitle": "Proceedings of the Fourth International Conference on Information Storage and Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1981/P088.pdf",
 	"crossref": "conf/sigir/81",
 	"dblpkey": "conf/sigir/StorerE81",
@@ -8,8 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/511754.511768",
 	"pages": "88-89",
 	"publisher": "ACM",
-	"stemmed": ["experi", "on", "the", "applic", "of", "cluster", "techniqu", "to", "data", "valid", "abstract"],
-	"tag": ["clustering", "validation"],
+	"stemmed": [
+		"experi",
+		"on",
+		"the",
+		"applic",
+		"of",
+		"cluster",
+		"techniqu",
+		"to",
+		"data",
+		"valid",
+		"abstract"
+	],
+	"tag": [
+		"clustering",
+		"validation"
+	],
 	"title": "Experiments on the Application of Clustering Techniques to Data Validation (Abstract)",
 	"type": "inproceedings",
 	"venue": "SIGIR",

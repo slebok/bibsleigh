@@ -1,13 +1,36 @@
 {
-	"author": ["Nick Koudas", "Beng Chin Ooi", "Kian-Lee Tan", "Rui Zhang"],
-	"booktitle": "VLDB",
+	"author": [
+		"Nick Koudas",
+		"Beng Chin Ooi",
+		"Kian-Lee Tan",
+		"Rui Zhang"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/KoudasOT004",
 	"ee": "http://www.vldb.org/conf/2004/RS21P3.PDF",
 	"pages": "804-815",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["approxim", "nn", "queri", "on", "stream", "with", "guarante", "error", "perform", "bound"],
-	"tag": ["approximate", "bound", "fault", "performance", "query"],
+	"stemmed": [
+		"approxim",
+		"nn",
+		"queri",
+		"on",
+		"stream",
+		"with",
+		"guarante",
+		"error",
+		"perform",
+		"bound"
+	],
+	"tag": [
+		"approximate",
+		"bound",
+		"fault",
+		"performance",
+		"query"
+	],
 	"title": "Approximate NN queries on Streams with Guaranteed Error/performance Bounds",
 	"type": "inproceedings",
 	"venue": "VLDB",

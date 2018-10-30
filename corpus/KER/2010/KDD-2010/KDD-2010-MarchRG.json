@@ -1,14 +1,33 @@
 {
-	"author": ["William B. March", "Parikshit Ram", "Alexander G. Gray"],
-	"booktitle": "KDD",
+	"author": [
+		"William B. March",
+		"Parikshit Ram",
+		"Alexander G. Gray"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/MarchRG10",
 	"doi": "10.1145/1835804.1835882",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835882",
 	"pages": "603-612",
 	"publisher": "ACM",
-	"stemmed": ["fast", "euclidean", "minimum", "span", "tree", "algorithm", "analysi", "and", "applic"],
-	"tag": ["algorithm", "analysis", "performance"],
+	"stemmed": [
+		"fast",
+		"euclidean",
+		"minimum",
+		"span",
+		"tree",
+		"algorithm",
+		"analysi",
+		"and",
+		"applic"
+	],
+	"tag": [
+		"algorithm",
+		"analysis",
+		"performance"
+	],
 	"title": "Fast euclidean minimum spanning tree: algorithm, analysis, and applications",
 	"type": "inproceedings",
 	"venue": "KDD",

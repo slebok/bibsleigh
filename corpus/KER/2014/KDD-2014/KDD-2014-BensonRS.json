@@ -1,14 +1,31 @@
 {
-	"author": ["Austin R. Benson", "Carlos Riquelme", "Sven Schmit"],
-	"booktitle": "KDD",
+	"author": [
+		"Austin R. Benson",
+		"Carlos Riquelme",
+		"Sven Schmit"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/BensonRS14",
 	"doi": "10.1145/2623330.2623718",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623718",
 	"pages": "1326-1335",
 	"publisher": "ACM",
-	"stemmed": ["learn", "multifract", "structur", "in", "larg", "network"],
-	"tag": ["learning", "multi", "network", "scalability"],
+	"stemmed": [
+		"learn",
+		"multifract",
+		"structur",
+		"in",
+		"larg",
+		"network"
+	],
+	"tag": [
+		"learning",
+		"multi",
+		"network",
+		"scalability"
+	],
 	"title": "Learning multifractal structure in large networks",
 	"type": "inproceedings",
 	"venue": "KDD",

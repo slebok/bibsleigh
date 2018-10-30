@@ -1,6 +1,10 @@
 {
-	"author": ["Minhao Jiang", "Ada Wai-Chee Fu", "Raymond Chi-Wing Wong"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Minhao Jiang",
+		"Ada Wai-Chee Fu",
+		"Raymond Chi-Wing Wong"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/JiangFW15",
@@ -8,8 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2749447",
 	"pages": "393-404",
 	"publisher": "ACM",
-	"stemmed": ["exact", "top", "k", "nearest", "keyword", "search", "in", "larg", "network"],
-	"tag": ["keyword", "network", "scalability"],
+	"stemmed": [
+		"exact",
+		"top",
+		"k",
+		"nearest",
+		"keyword",
+		"search",
+		"in",
+		"larg",
+		"network"
+	],
+	"tag": [
+		"keyword",
+		"network",
+		"scalability"
+	],
 	"title": "Exact Top-k Nearest Keyword Search in Large Networks",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

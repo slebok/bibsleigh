@@ -1,14 +1,35 @@
 {
-	"author": ["Salvatore Scellato", "Anastasios Noulas", "Cecilia Mascolo"],
-	"booktitle": "KDD",
+	"author": [
+		"Salvatore Scellato",
+		"Anastasios Noulas",
+		"Cecilia Mascolo"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/ScellatoNM11",
 	"doi": "10.1145/2020408.2020575",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020575",
 	"pages": "1046-1054",
 	"publisher": "ACM",
-	"stemmed": ["exploit", "place", "featur", "in", "link", "predict", "on", "locat", "base", "social", "network"],
-	"tag": ["network", "predict", "social"],
+	"stemmed": [
+		"exploit",
+		"place",
+		"featur",
+		"in",
+		"link",
+		"predict",
+		"on",
+		"locat",
+		"base",
+		"social",
+		"network"
+	],
+	"tag": [
+		"network",
+		"predict",
+		"social"
+	],
 	"title": "Exploiting place features in link prediction on location-based social networks",
 	"type": "inproceedings",
 	"venue": "KDD",

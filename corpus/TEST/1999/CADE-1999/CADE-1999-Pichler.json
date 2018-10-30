@@ -1,6 +1,7 @@
 {
 	"author": "Reinhard Pichler",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 16th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1999",
 	"dblpkey": "conf/cade/Pichler99",
 	"doi": "10.1007/3-540-48660-7_7",
@@ -10,11 +11,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["solv", "equat", "problem", "effici"],
-	"tag": ["equation", "problem"],
+	"stemmed": [
+		"solv",
+		"equat",
+		"problem",
+		"effici"
+	],
+	"tag": [
+		"equation",
+		"problem"
+	],
 	"title": "Solving Equational Problems Efficiently",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1632,
+	"volume": "1632",
 	"year": 1999
 }

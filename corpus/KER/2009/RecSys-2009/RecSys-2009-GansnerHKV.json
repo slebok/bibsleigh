@@ -1,14 +1,34 @@
 {
-	"author": ["Emden R. Gansner", "Yifan Hu", "Stephen G. Kobourov", "Chris Volinsky"],
-	"booktitle": "RecSys",
+	"author": [
+		"Emden R. Gansner",
+		"Yifan Hu",
+		"Stephen G. Kobourov",
+		"Chris Volinsky"
+	],
+	"booktitle": "Proceedings of the Third Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2009",
 	"dblpkey": "conf/recsys/GansnerHKV09",
 	"doi": "10.1145/1639714.1639784",
 	"ee": "http://doi.acm.org/10.1145/1639714.1639784",
 	"pages": "345-348",
 	"publisher": "ACM",
-	"stemmed": ["put", "recommend", "on", "the", "map", "visual", "cluster", "and", "relat"],
-	"tag": ["clustering", "recommendation", "visualisation"],
+	"stemmed": [
+		"put",
+		"recommend",
+		"on",
+		"the",
+		"map",
+		"visual",
+		"cluster",
+		"and",
+		"relat"
+	],
+	"tag": [
+		"clustering",
+		"recommendation",
+		"visualisation"
+	],
 	"title": "Putting recommendations on the map: visualizing clusters and relations",
 	"type": "inproceedings",
 	"venue": "RecSys",

@@ -1,6 +1,10 @@
 {
-	"author": ["A. A. Aaby", "K. T. Narayana"],
-	"booktitle": "CADE",
+	"author": [
+		"A. A. Aaby",
+		"K. T. Narayana"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/AabyN88",
 	"doi": "10.1007/BFb0012834",
@@ -10,11 +14,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["proposit", "tempor", "interv", "logic", "is", "pspace", "complet"],
-	"tag": ["logic"],
+	"stemmed": [
+		"proposit",
+		"tempor",
+		"interv",
+		"logic",
+		"is",
+		"pspace",
+		"complet"
+	],
+	"tag": [
+		"logic"
+	],
 	"title": "Propositional Temporal Interval Logic is PSPACE Complete",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

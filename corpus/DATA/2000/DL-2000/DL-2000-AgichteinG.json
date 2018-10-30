@@ -1,12 +1,28 @@
 {
-	"author": ["Eugene Agichtein", "Luis Gravano"],
-	"booktitle": "ACM DL",
+	"author": [
+		"Eugene Agichtein",
+		"Luis Gravano"
+	],
+	"booktitle": "Proceedings of the Fifth ACM Conference on Digital Libraries, June 2-7, 2000, San Antonio, TX, USA",
+	"booktitleshort": "DL",
 	"dblpkey": "conf/dl/AgichteinG00",
 	"doi": "10.1145/336597.336644",
 	"pages": "85-94",
 	"publisher": "ACM",
-	"stemmed": ["snowbal", "extract", "relat", "from", "larg", "plain", "text", "collect"],
-	"tag": ["named", "scalability"],
+	"stemmed": [
+		"snowbal",
+		"extract",
+		"relat",
+		"from",
+		"larg",
+		"plain",
+		"text",
+		"collect"
+	],
+	"tag": [
+		"named",
+		"scalability"
+	],
 	"title": "Snowball: extracting relations from large plain-text collections",
 	"type": "inproceedings",
 	"year": 2000

@@ -1,15 +1,46 @@
 {
-	"author": ["Andrea J. Borr", "Gianfranco R. Putzolu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Andrea J. Borr",
+		"Gianfranco R. Putzolu"
+	],
+	"booktitle": "Proceedings of the 18th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD88/P342.PDF",
-	"cite": ["...", "conf/sosp/Bartlett81", "...", "conf/vldb/Borr81", "conf/vldb/Borr84", "...", "journals/debu/GawlickK85", "conf/ac/Gray78", "conf/hpts/HellandSLCGR87", "...", "conf/vldb/StonebrakerR84", "conf/hpts/Group87"],
+	"cite": [
+		"...",
+		"conf/sosp/Bartlett81",
+		"...",
+		"conf/vldb/Borr81",
+		"conf/vldb/Borr84",
+		"...",
+		"journals/debu/GawlickK85",
+		"conf/ac/Gray78",
+		"conf/hpts/HellandSLCGR87",
+		"...",
+		"conf/vldb/StonebrakerR84",
+		"conf/hpts/Group87"
+	],
 	"crossref": "conf/sigmod/88",
 	"dblpkey": "conf/sigmod/BorrP88",
 	"doi": "10.1145/50202.50244",
 	"ee": "http://doi.acm.org/10.1145/50202.50244",
 	"pages": "342-349",
-	"stemmed": ["high", "perform", "sql", "through", "low", "level", "system", "integr"],
-	"tag": ["integration", "low level", "performance", "sql"],
+	"stemmed": [
+		"high",
+		"perform",
+		"sql",
+		"through",
+		"low",
+		"level",
+		"system",
+		"integr"
+	],
+	"tag": [
+		"integration",
+		"low level",
+		"performance",
+		"sql"
+	],
 	"title": "High Performance SQL Through Low-Level System Integration",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

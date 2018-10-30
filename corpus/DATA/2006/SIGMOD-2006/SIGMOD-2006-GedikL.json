@@ -1,6 +1,9 @@
 {
-	"author": ["Bugra Gedik", "Ling Liu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Bugra Gedik",
+		"Ling Liu"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/GedikL06",
@@ -8,8 +11,20 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142521",
 	"pages": "419-430",
 	"publisher": "ACM",
-	"stemmed": ["qualiti", "awar", "dstribut", "data", "deliveri", "for", "continu", "queri", "servic"],
-	"tag": ["query"],
+	"stemmed": [
+		"qualiti",
+		"awar",
+		"dstribut",
+		"data",
+		"deliveri",
+		"for",
+		"continu",
+		"queri",
+		"servic"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Quality-aware dstributed data delivery for continuous query services",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

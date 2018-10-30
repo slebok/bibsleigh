@@ -1,13 +1,31 @@
 {
-	"author": ["Jiawei Han", "Wan Gong", "Yiwen Yin"],
-	"booktitle": "KDD",
+	"author": [
+		"Jiawei Han",
+		"Wan Gong",
+		"Yiwen Yin"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1998",
 	"dblpkey": "conf/kdd/HanGY98",
 	"ee": "http://www.aaai.org/Library/KDD/1998/kdd98-036.php",
 	"pages": "214-218",
 	"publisher": "AAAI Press",
-	"stemmed": ["mine", "segment", "wise", "period", "pattern", "in", "time", "relat", "databas"],
-	"tag": ["database", "mining"],
+	"stemmed": [
+		"mine",
+		"segment",
+		"wise",
+		"period",
+		"pattern",
+		"in",
+		"time",
+		"relat",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"mining"
+	],
 	"title": "Mining Segment-Wise Periodic Patterns in Time-Related Databases",
 	"type": "inproceedings",
 	"venue": "KDD",

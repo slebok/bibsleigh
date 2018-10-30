@@ -1,14 +1,33 @@
 {
-	"author": ["Ritchie Zhao", "Mingxing Tan", "Steve Dai", "Zhiru Zhang"],
-	"booktitle": "DAC",
+	"author": [
+		"Ritchie Zhao",
+		"Mingxing Tan",
+		"Steve Dai",
+		"Zhiru Zhang"
+	],
+	"booktitle": "Proceedings of the 52nd Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2015",
 	"dblpkey": "conf/dac/ZhaoTDZ15",
 	"doi": "10.1145/2744769.2744801",
 	"ee": "http://doi.acm.org/10.1145/2744769.2744801",
 	"pages": "157:1-157:6",
 	"publisher": "ACM",
-	"stemmed": ["area", "effici", "pipelin", "for", "fpga", "target", "high", "level", "synthesi"],
-	"tag": ["pipes and filters", "synthesis"],
+	"stemmed": [
+		"area",
+		"effici",
+		"pipelin",
+		"for",
+		"fpga",
+		"target",
+		"high",
+		"level",
+		"synthesi"
+	],
+	"tag": [
+		"pipes and filters",
+		"synthesis"
+	],
 	"title": "Area-efficient pipelining for FPGA-targeted high-level synthesis",
 	"type": "inproceedings",
 	"venue": "DAC",

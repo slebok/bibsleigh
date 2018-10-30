@@ -1,13 +1,27 @@
 {
-	"author": ["Marco Di Natale", "Alberto L. Sangiovanni-Vincentelli", "Felice Balarin"],
-	"booktitle": "DAC",
+	"author": [
+		"Marco Di Natale",
+		"Alberto L. Sangiovanni-Vincentelli",
+		"Felice Balarin"
+	],
+	"booktitle": "Proceedings of the 37th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/NataleSB00",
 	"doi": "10.1145/337292.337551",
 	"ee": "http://doi.acm.org/10.1145/337292.337551",
 	"pages": "483-488",
 	"publisher": "ACM",
-	"stemmed": ["task", "schedul", "with", "rt", "constraint"],
-	"tag": ["constraints", "scheduling"],
+	"stemmed": [
+		"task",
+		"schedul",
+		"with",
+		"rt",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"scheduling"
+	],
 	"title": "Task scheduling with RT constraints",
 	"type": "inproceedings",
 	"venue": "DAC",

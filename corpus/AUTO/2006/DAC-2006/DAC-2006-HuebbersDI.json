@@ -1,14 +1,37 @@
 {
-	"author": ["Frank Huebbers", "Ali Dasdan", "Yehea I. Ismail"],
-	"booktitle": "DAC",
+	"author": [
+		"Frank Huebbers",
+		"Ali Dasdan",
+		"Yehea I. Ismail"
+	],
+	"booktitle": "Proceedings of the 43rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/HuebbersDI06",
 	"doi": "10.1145/1146909.1147110",
 	"ee": "http://doi.acm.org/10.1145/1146909.1147110",
 	"pages": "797-800",
 	"publisher": "ACM",
-	"stemmed": ["comput", "of", "accur", "interconnect", "process", "paramet", "valu", "for", "perform", "corner", "under", "process", "variat"],
-	"tag": ["parametricity", "performance", "process"],
+	"stemmed": [
+		"comput",
+		"of",
+		"accur",
+		"interconnect",
+		"process",
+		"paramet",
+		"valu",
+		"for",
+		"perform",
+		"corner",
+		"under",
+		"process",
+		"variat"
+	],
+	"tag": [
+		"parametricity",
+		"performance",
+		"process"
+	],
 	"title": "Computation of accurate interconnect process parameter values for performance corners under process variations",
 	"type": "inproceedings",
 	"venue": "DAC",

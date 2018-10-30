@@ -1,14 +1,33 @@
 {
-	"author": ["Vitaliy B. Lvin", "Gene Novark", "Emery D. Berger", "Benjamin G. Zorn"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Vitaliy B. Lvin",
+		"Gene Novark",
+		"Emery D. Berger",
+		"Benjamin G. Zorn"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2008",
 	"dblpkey": "conf/asplos/LvinNBZ08",
 	"doi": "10.1145/1346281.1346296",
 	"ee": "http://doi.acm.org/10.1145/1346281.1346296",
 	"pages": "115-124",
 	"publisher": "ACM",
-	"stemmed": ["archipelago", "trade", "address", "space", "for", "reliabl", "and", "secur"],
-	"tag": ["named", "reliability", "security"],
+	"stemmed": [
+		"archipelago",
+		"trade",
+		"address",
+		"space",
+		"for",
+		"reliabl",
+		"and",
+		"secur"
+	],
+	"tag": [
+		"named",
+		"reliability",
+		"security"
+	],
 	"title": "Archipelago: trading address space for reliability and security",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,13 +1,37 @@
 {
-	"author": ["Nabeel Iqbal", "M. A. Siddique", "Jörg Henkel"],
-	"booktitle": "DATE",
+	"author": [
+		"Nabeel Iqbal",
+		"M. A. Siddique",
+		"Jörg Henkel"
+	],
+	"booktitle": "Proceedings of the 14th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2010",
 	"dblpkey": "conf/date/IqbalSH10a",
 	"ieeearid": 5457076,
 	"pages": "1645-1648",
 	"publisher": "IEEE",
-	"stemmed": ["dag", "distribut", "agnost", "sequenti", "mont", "carlo", "scheme", "for", "task", "execut", "time", "estim"],
-	"tag": ["estimation", "execution", "graph", "monte carlo", "named"],
+	"stemmed": [
+		"dag",
+		"distribut",
+		"agnost",
+		"sequenti",
+		"mont",
+		"carlo",
+		"scheme",
+		"for",
+		"task",
+		"execut",
+		"time",
+		"estim"
+	],
+	"tag": [
+		"estimation",
+		"execution",
+		"graph",
+		"monte carlo",
+		"named"
+	],
 	"title": "DAGS: Distribution agnostic sequential Monte Carlo scheme for task execution time estimation",
 	"type": "inproceedings",
 	"venue": "DATE",

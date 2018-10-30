@@ -1,13 +1,29 @@
 {
-	"author": ["German Shegalov", "Gerhard Weikum", "Roger S. Barga", "David B. Lomet"],
-	"booktitle": "VLDB",
+	"author": [
+		"German Shegalov",
+		"Gerhard Weikum",
+		"Roger S. Barga",
+		"David B. Lomet"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/ShegalovWBL02",
 	"ee": "http://www.vldb.org/conf/2002/S33P01.pdf",
 	"pages": "1043-1046",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["eo", "exact", "onc", "e", "servic", "middlewar"],
-	"tag": ["middleware", "named"],
+	"stemmed": [
+		"eo",
+		"exact",
+		"onc",
+		"e",
+		"servic",
+		"middlewar"
+	],
+	"tag": [
+		"middleware",
+		"named"
+	],
 	"title": "EOS: Exactly-Once E-Service Middleware",
 	"type": "inproceedings",
 	"venue": "VLDB",

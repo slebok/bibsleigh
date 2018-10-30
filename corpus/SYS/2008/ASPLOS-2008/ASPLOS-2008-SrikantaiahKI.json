@@ -1,14 +1,33 @@
 {
-	"author": ["Shekhar Srikantaiah", "Mahmut T. Kandemir", "Mary Jane Irwin"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Shekhar Srikantaiah",
+		"Mahmut T. Kandemir",
+		"Mary Jane Irwin"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2008",
 	"dblpkey": "conf/asplos/SrikantaiahKI08",
 	"doi": "10.1145/1346281.1346299",
 	"ee": "http://doi.acm.org/10.1145/1346281.1346299",
 	"pages": "135-144",
 	"publisher": "ACM",
-	"stemmed": ["adapt", "set", "pin", "manag", "share", "cach", "in", "chip", "multiprocessor"],
-	"tag": ["adaptation", "multi", "set"],
+	"stemmed": [
+		"adapt",
+		"set",
+		"pin",
+		"manag",
+		"share",
+		"cach",
+		"in",
+		"chip",
+		"multiprocessor"
+	],
+	"tag": [
+		"adaptation",
+		"multi",
+		"set"
+	],
 	"title": "Adaptive set pinning: managing shared caches in chip multiprocessors",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,13 +1,37 @@
 {
-	"acmid": 802406,
-	"author": ["Peter Solecky", "R. L. Panko"],
-	"booktitle": "DAC",
+	"acmid": "802406",
+	"author": [
+		"Peter Solecky",
+		"R. L. Panko"
+	],
+	"booktitle": "Proceedings of the 18th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1981",
 	"dblpkey": "conf/dac/SoleckyP81",
 	"pages": "881-890",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["test", "data", "verif", "not", "just", "the", "final", "step", "for", "test", "data", "befor", "releas", "for", "product", "test"],
-	"tag": ["testing", "verification"],
+	"stemmed": [
+		"test",
+		"data",
+		"verif",
+		"not",
+		"just",
+		"the",
+		"final",
+		"step",
+		"for",
+		"test",
+		"data",
+		"befor",
+		"releas",
+		"for",
+		"product",
+		"test"
+	],
+	"tag": [
+		"testing",
+		"verification"
+	],
 	"title": "Test data verification — not just the final step for test data before release for production testing",
 	"type": "inproceedings",
 	"venue": "DAC",

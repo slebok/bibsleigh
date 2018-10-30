@@ -1,6 +1,13 @@
 {
-	"author": ["Tao Zhang", "Matthew Poremba", "Cong Xu", "Guangyu Sun", "Yuan Xie"],
-	"booktitle": "HPCA",
+	"author": [
+		"Tao Zhang",
+		"Matthew Poremba",
+		"Cong Xu",
+		"Guangyu Sun",
+		"Yuan Xie"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/ZhangPXSX14",
 	"doi": "10.1109/HPCA.2014.6835947",
@@ -8,8 +15,21 @@
 	"pages": "368-379",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["cream", "a", "concurr", "refresh", "awar", "dram", "memori", "architectur"],
-	"tag": ["architecture", "memory management", "named"],
+	"stemmed": [
+		"cream",
+		"a",
+		"concurr",
+		"refresh",
+		"awar",
+		"dram",
+		"memori",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"memory management",
+		"named"
+	],
 	"title": "CREAM: A Concurrent-Refresh-Aware DRAM Memory architecture",
 	"type": "inproceedings",
 	"venue": "HPCA",

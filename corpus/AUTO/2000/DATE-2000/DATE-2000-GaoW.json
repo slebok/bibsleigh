@@ -1,6 +1,10 @@
 {
-	"author": ["Youxin Gao", "D. F. Wong"],
-	"booktitle": "DATE",
+	"author": [
+		"Youxin Gao",
+		"D. F. Wong"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/GaoW00",
 	"doi": "10.1109/DATE.2000.840833",
@@ -8,8 +12,23 @@
 	"pages": "512-516",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["wire", "size", "for", "delay", "minim", "and", "ring", "control", "use", "transmiss", "line", "model"],
-	"tag": ["using"],
+	"stemmed": [
+		"wire",
+		"size",
+		"for",
+		"delay",
+		"minim",
+		"and",
+		"ring",
+		"control",
+		"use",
+		"transmiss",
+		"line",
+		"model"
+	],
+	"tag": [
+		"using"
+	],
 	"title": "Wire-Sizing for Delay Minimization and Ringing Control Using Transmission Line Model",
 	"type": "inproceedings",
 	"venue": "DATE",

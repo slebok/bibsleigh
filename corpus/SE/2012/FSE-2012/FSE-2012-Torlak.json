@@ -1,17 +1,38 @@
 {
 	"author": "Emina Torlak",
 	"booktitle": "Proceedings of the 20th Symposium on the Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2012",
 	"dblpkey": "conf/sigsoft/Torlak12",
 	"doi": "10.1145/2393596.2393637",
-	"editor": ["Will Tracz", "Martin P. Robillard", "Tevfik Bultan"],
+	"editor": [
+		"Will Tracz",
+		"Martin P. Robillard",
+		"Tevfik Bultan"
+	],
 	"ee": "http://doi.acm.org/10.1145/2393596.2393637",
-	"isbn": ["978-1-4503-1614-9", "978-1-4503-0443-6"],
+	"isbn": [
+		"978-1-4503-1614-9",
+		"978-1-4503-0443-6"
+	],
 	"pages": "36-36",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "test", "data", "generat", "from", "multidimension", "model"],
-	"tag": ["generative", "modelling", "multi", "scalability", "testing"],
+	"stemmed": [
+		"scalabl",
+		"test",
+		"data",
+		"generat",
+		"from",
+		"multidimension",
+		"model"
+	],
+	"tag": [
+		"generative",
+		"modelling",
+		"multi",
+		"scalability",
+		"testing"
+	],
 	"title": "Scalable test data generation from multidimensional models",
 	"type": "inproceedings",
 	"venue": "FSE",

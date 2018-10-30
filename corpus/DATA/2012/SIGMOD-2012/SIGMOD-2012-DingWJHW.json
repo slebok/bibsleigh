@@ -1,6 +1,12 @@
 {
-	"author": ["Bolin Ding", "Haixun Wang", "Ruoming Jin", "Jiawei Han", "Zhongyuan Wang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Bolin Ding",
+		"Haixun Wang",
+		"Ruoming Jin",
+		"Jiawei Han",
+		"Zhongyuan Wang"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/DingWJHW12",
@@ -8,8 +14,19 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213892",
 	"pages": "493-504",
 	"publisher": "ACM",
-	"stemmed": ["optim", "index", "for", "taxonomi", "keyword", "search"],
-	"tag": ["keyword", "optimisation", "taxonomy"],
+	"stemmed": [
+		"optim",
+		"index",
+		"for",
+		"taxonomi",
+		"keyword",
+		"search"
+	],
+	"tag": [
+		"keyword",
+		"optimisation",
+		"taxonomy"
+	],
 	"title": "Optimizing index for taxonomy keyword search",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,29 @@
 {
-	"author": ["Rada Chirkova", "Chen Li"],
-	"booktitle": "PODS",
+	"author": [
+		"Rada Chirkova",
+		"Chen Li"
+	],
+	"booktitle": "Proceedings of the 22nd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2003",
 	"dblpkey": "conf/pods/ChirkovaL03",
 	"doi": "10.1145/773153.773158",
 	"ee": "http://doi.acm.org/10.1145/773153.773158",
 	"pages": "38-48",
 	"publisher": "ACM",
-	"stemmed": ["materi", "view", "with", "minim", "size", "to", "answer", "queri"],
-	"tag": ["query"],
+	"stemmed": [
+		"materi",
+		"view",
+		"with",
+		"minim",
+		"size",
+		"to",
+		"answer",
+		"queri"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Materializing views with minimal size to answer queries",
 	"type": "inproceedings",
 	"venue": "PODS",

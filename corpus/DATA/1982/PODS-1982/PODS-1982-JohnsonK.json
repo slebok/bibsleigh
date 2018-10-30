@@ -1,16 +1,53 @@
 {
-	"author": ["David S. Johnson", "Anthony C. Klug"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS82/P164.PDF", "journals/anthology/dvd1:text/1-3/PODS82/P164.PDF"],
-	"cite": ["journals/siamcomp/AhoSU79", "journals/tods/AhoSU79", "conf/pods/CasanovaFP82", "conf/stoc/ChandraLM81", "conf/stoc/ChandraM77", "journals/cacm/Codd70", "journals/tods/Codd79", "journals/tods/Fagin81", "conf/focs/JohnsonK81", "conf/er/Klug79", "journals/tods/MaierMS79", "journals/cacm/SmithS77", "conf/sigmod/Zaniolo79"],
+	"author": [
+		"David S. Johnson",
+		"Anthony C. Klug"
+	],
+	"booktitle": "Proceedings of the First Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS82/P164.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS82/P164.PDF"
+	],
+	"cite": [
+		"journals/siamcomp/AhoSU79",
+		"journals/tods/AhoSU79",
+		"conf/pods/CasanovaFP82",
+		"conf/stoc/ChandraLM81",
+		"conf/stoc/ChandraM77",
+		"journals/cacm/Codd70",
+		"journals/tods/Codd79",
+		"journals/tods/Fagin81",
+		"conf/focs/JohnsonK81",
+		"conf/er/Klug79",
+		"journals/tods/MaierMS79",
+		"journals/cacm/SmithS77",
+		"conf/sigmod/Zaniolo79"
+	],
 	"crossref": "conf/pods/82",
 	"dblpkey": "conf/pods/JohnsonK82",
 	"doi": "10.1145/588111.588138",
 	"ee": "http://doi.acm.org/10.1145/588111.588138",
 	"pages": "164-169",
 	"publisher": "ACM",
-	"stemmed": ["test", "contain", "of", "conjunct", "queri", "under", "function", "and", "inclus", "depend"],
-	"tag": ["dependence", "functional", "query", "testing"],
+	"stemmed": [
+		"test",
+		"contain",
+		"of",
+		"conjunct",
+		"queri",
+		"under",
+		"function",
+		"and",
+		"inclus",
+		"depend"
+	],
+	"tag": [
+		"dependence",
+		"functional",
+		"query",
+		"testing"
+	],
 	"title": "Testing Containment of Conjunctive Queries Under Functional and Inclusion Dependencies",
 	"type": "inproceedings",
 	"venue": "PODS",

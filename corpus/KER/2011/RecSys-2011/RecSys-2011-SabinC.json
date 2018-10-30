@@ -1,14 +1,31 @@
 {
-	"author": ["Andrew T. Sabin", "Chun Liang Chan"],
-	"booktitle": "RecSys",
+	"author": [
+		"Andrew T. Sabin",
+		"Chun Liang Chan"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2011",
 	"dblpkey": "conf/recsys/SabinC11",
 	"doi": "10.1145/2043932.2044002",
 	"ee": "http://doi.acm.org/10.1145/2043932.2044002",
 	"pages": "351-352",
 	"publisher": "ACM",
-	"stemmed": ["mymicsound", "an", "onlin", "sound", "base", "microphon", "recommend", "system"],
-	"tag": ["named", "online", "recommendation"],
+	"stemmed": [
+		"mymicsound",
+		"an",
+		"onlin",
+		"sound",
+		"base",
+		"microphon",
+		"recommend",
+		"system"
+	],
+	"tag": [
+		"named",
+		"online",
+		"recommendation"
+	],
 	"title": "myMicSound: an online sound-based microphone recommendation system",
 	"type": "inproceedings",
 	"venue": "RecSys",

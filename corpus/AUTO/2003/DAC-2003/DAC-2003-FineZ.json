@@ -1,14 +1,36 @@
 {
-	"author": ["Shai Fine", "Avi Ziv"],
-	"booktitle": "DAC",
+	"author": [
+		"Shai Fine",
+		"Avi Ziv"
+	],
+	"booktitle": "Proceedings of the 40th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2003",
 	"dblpkey": "conf/dac/FineZ03",
 	"doi": "10.1145/775832.775907",
 	"ee": "http://doi.acm.org/10.1145/775832.775907",
 	"pages": "286-291",
 	"publisher": "ACM",
-	"stemmed": ["coverag", "direct", "test", "generat", "for", "function", "verif", "use", "bayesian", "network"],
-	"tag": ["functional", "generative", "network", "testing", "using", "verification"],
+	"stemmed": [
+		"coverag",
+		"direct",
+		"test",
+		"generat",
+		"for",
+		"function",
+		"verif",
+		"use",
+		"bayesian",
+		"network"
+	],
+	"tag": [
+		"functional",
+		"generative",
+		"network",
+		"testing",
+		"using",
+		"verification"
+	],
 	"title": "Coverage directed test generation for functional verification using bayesian networks",
 	"type": "inproceedings",
 	"venue": "DAC",

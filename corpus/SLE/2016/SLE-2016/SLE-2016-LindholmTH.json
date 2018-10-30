@@ -1,13 +1,33 @@
 {
-	"acmid": 2997378,
-	"author": ["Joel Lindholm", "Johan Thorsberg", "Görel Hedin"],
-	"booktitle": "SLE",
+	"acmid": "2997378",
+	"author": [
+		"Joel Lindholm",
+		"Johan Thorsberg",
+		"Görel Hedin"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Software Language Engineering",
+	"booktitleshort": "SLE",
 	"crossref": "conf/sle/2016",
 	"dblpkey": "conf/sle/LindholmTH16",
 	"pages": "176-180",
 	"publisher": "ACM",
-	"stemmed": ["dr", "ast", "an", "inspect", "tool", "for", "attribut", "syntax", "tree", "tool", "demo"],
-	"tag": ["named", "syntax"],
+	"stemmed": [
+		"dr",
+		"ast",
+		"an",
+		"inspect",
+		"tool",
+		"for",
+		"attribut",
+		"syntax",
+		"tree",
+		"tool",
+		"demo"
+	],
+	"tag": [
+		"named",
+		"syntax"
+	],
 	"title": "DrAST: an inspection tool for attributed syntax trees (tool demo)",
 	"type": "inproceedings",
 	"venue": "SLE",

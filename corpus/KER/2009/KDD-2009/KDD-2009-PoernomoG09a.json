@@ -1,14 +1,33 @@
 {
-	"author": ["Ardian Kristanto Poernomo", "Vivekanand Gopalkrishnan"],
-	"booktitle": "KDD",
+	"author": [
+		"Ardian Kristanto Poernomo",
+		"Vivekanand Gopalkrishnan"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/PoernomoG09a",
 	"doi": "10.1145/1557019.1557097",
 	"ee": "http://doi.acm.org/10.1145/1557019.1557097",
 	"pages": "697-706",
 	"publisher": "ACM",
-	"stemmed": ["toward", "effici", "mine", "of", "proport", "fault", "toler", "frequent", "itemset"],
-	"tag": ["fault tolerance", "mining", "performance", "towards"],
+	"stemmed": [
+		"toward",
+		"effici",
+		"mine",
+		"of",
+		"proport",
+		"fault",
+		"toler",
+		"frequent",
+		"itemset"
+	],
+	"tag": [
+		"fault tolerance",
+		"mining",
+		"performance",
+		"towards"
+	],
 	"title": "Towards efficient mining of proportional fault-tolerant frequent itemsets",
 	"type": "inproceedings",
 	"venue": "KDD",

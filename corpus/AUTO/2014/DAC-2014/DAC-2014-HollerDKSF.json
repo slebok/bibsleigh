@@ -1,14 +1,39 @@
 {
-	"author": ["Andrea Höller", "Norbert Druml", "Christian Kreiner", "Christian Steger", "Tomaz Felicijan"],
-	"booktitle": "DAC",
+	"author": [
+		"Andrea Höller",
+		"Norbert Druml",
+		"Christian Kreiner",
+		"Christian Steger",
+		"Tomaz Felicijan"
+	],
+	"booktitle": "Proceedings of the 51st Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2014",
 	"dblpkey": "conf/dac/HollerDKSF14",
 	"doi": "10.1145/2593069.2593148",
 	"ee": "http://doi.acm.org/10.1145/2593069.2593148",
 	"pages": "207:1-207:6",
 	"publisher": "ACM",
-	"stemmed": ["hardwar", "softwar", "co", "design", "of", "ellipt", "curv", "cryptographi", "for", "resourc", "constrain", "applic"],
-	"tag": ["co-evolution", "design", "encryption", "hardware"],
+	"stemmed": [
+		"hardwar",
+		"softwar",
+		"co",
+		"design",
+		"of",
+		"ellipt",
+		"curv",
+		"cryptographi",
+		"for",
+		"resourc",
+		"constrain",
+		"applic"
+	],
+	"tag": [
+		"co-evolution",
+		"design",
+		"encryption",
+		"hardware"
+	],
 	"title": "Hardware/Software Co-Design of Elliptic-Curve Cryptography for Resource-Constrained Applications",
 	"type": "inproceedings",
 	"venue": "DAC",

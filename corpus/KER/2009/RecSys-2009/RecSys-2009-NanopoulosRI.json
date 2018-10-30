@@ -1,14 +1,31 @@
 {
-	"author": ["Alexandros Nanopoulos", "Milos Radovanovic", "Mirjana Ivanovic"],
-	"booktitle": "RecSys",
+	"author": [
+		"Alexandros Nanopoulos",
+		"Milos Radovanovic",
+		"Mirjana Ivanovic"
+	],
+	"booktitle": "Proceedings of the Third Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2009",
 	"dblpkey": "conf/recsys/NanopoulosRI09",
 	"doi": "10.1145/1639714.1639771",
 	"ee": "http://doi.acm.org/10.1145/1639714.1639771",
 	"pages": "293-296",
 	"publisher": "ACM",
-	"stemmed": ["how", "doe", "high", "dimension", "affect", "collabor", "filter"],
-	"tag": ["collaboration", "how", "question"],
+	"stemmed": [
+		"how",
+		"doe",
+		"high",
+		"dimension",
+		"affect",
+		"collabor",
+		"filter"
+	],
+	"tag": [
+		"collaboration",
+		"how",
+		"question"
+	],
 	"title": "How does high dimensionality affect collaborative filtering?",
 	"type": "inproceedings",
 	"venue": "RecSys",

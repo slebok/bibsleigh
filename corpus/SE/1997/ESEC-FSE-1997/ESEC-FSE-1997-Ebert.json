@@ -1,11 +1,14 @@
 {
 	"author": "Christof Ebert",
 	"booktitle": "Proceedings of the Sixth European Software Engineering Conference / Fifth Symposium on Foundations of Software Engineering",
-	"booktitleshort": "ESEC",
+	"booktitleshort": "ESEC/FSE",
 	"crossref": "conf/esec/1997",
 	"dblpkey": "conf/esec/Ebert98",
 	"doi": "10.1145/267895.267916",
-	"editor": ["Mehdi Jazayeri", "Helmut Schauer"],
+	"editor": [
+		"Mehdi Jazayeri",
+		"Helmut Schauer"
+	],
 	"ee": "http://doi.acm.org/10.1145/267895.267916",
 	"isbn": "3-540-63531-9",
 	"pages": "278-293",
@@ -13,11 +16,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["experi", "with", "critic", "predict", "in", "softwar", "develop"],
-	"tag": ["case study", "development", "experience", "predict"],
+	"stemmed": [
+		"experi",
+		"with",
+		"critic",
+		"predict",
+		"in",
+		"softwar",
+		"develop"
+	],
+	"tag": [
+		"case study",
+		"development",
+		"experience",
+		"predict"
+	],
 	"title": "Experiences with Criticality Predictions in Software Development",
 	"type": "inproceedings",
 	"venue": "ESEC",
-	"volume": 1301,
+	"volume": "1301",
 	"year": 1997
 }

@@ -1,6 +1,15 @@
 {
-	"author": ["Alain Biem", "Eric Bouillet", "Hanhua Feng", "Anand Ranganathan", "Anton Riabov", "Olivier Verscheure", "Haris N. Koutsopoulos", "Carlos Moran"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Alain Biem",
+		"Eric Bouillet",
+		"Hanhua Feng",
+		"Anand Ranganathan",
+		"Anton Riabov",
+		"Olivier Verscheure",
+		"Haris N. Koutsopoulos",
+		"Carlos Moran"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/BiemBFRRVKM10",
@@ -8,8 +17,22 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807291",
 	"pages": "1093-1104",
 	"publisher": "ACM",
-	"stemmed": ["ibm", "infospher", "stream", "for", "scalabl", "real", "time", "intellig", "transport", "servic"],
-	"tag": ["realtime", "scalability"],
+	"stemmed": [
+		"ibm",
+		"infospher",
+		"stream",
+		"for",
+		"scalabl",
+		"real",
+		"time",
+		"intellig",
+		"transport",
+		"servic"
+	],
+	"tag": [
+		"realtime",
+		"scalability"
+	],
 	"title": "IBM infosphere streams for scalable, real-time, intelligent transportation services",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

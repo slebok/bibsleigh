@@ -1,14 +1,25 @@
 {
-	"author": ["Emmett Witchel", "Josh Cates", "Krste Asanovic"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Emmett Witchel",
+		"Josh Cates",
+		"Krste Asanovic"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2002",
 	"dblpkey": "conf/asplos/WitchelCA02",
 	"doi": "10.1145/605397.605429",
 	"ee": "http://doi.acm.org/10.1145/605397.605429",
 	"pages": "304-316",
 	"publisher": "ACM Press",
-	"stemmed": ["mondrian", "memori", "protect"],
-	"tag": ["memory management"],
+	"stemmed": [
+		"mondrian",
+		"memori",
+		"protect"
+	],
+	"tag": [
+		"memory management"
+	],
 	"title": "Mondrian memory protection",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

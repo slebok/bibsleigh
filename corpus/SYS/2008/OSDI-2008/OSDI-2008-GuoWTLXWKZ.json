@@ -1,13 +1,36 @@
 {
-	"author": ["Zhenyu Guo", "Xi Wang", "Jian Tang", "Xuezheng Liu", "Zhilei Xu", "Ming Wu", "M. Frans Kaashoek", "Zheng Zhang"],
-	"booktitle": "OSDI",
+	"author": [
+		"Zhenyu Guo",
+		"Xi Wang",
+		"Jian Tang",
+		"Xuezheng Liu",
+		"Zhilei Xu",
+		"Ming Wu",
+		"M. Frans Kaashoek",
+		"Zheng Zhang"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/GuoWTLXWKZ08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/guo/guo.pdf",
 	"pages": "193-208",
 	"publisher": "USENIX Association",
-	"stemmed": ["r", "an", "applic", "level", "kernel", "for", "record", "and", "replay"],
-	"tag": ["kernel", "named"],
+	"stemmed": [
+		"r",
+		"an",
+		"applic",
+		"level",
+		"kernel",
+		"for",
+		"record",
+		"and",
+		"replay"
+	],
+	"tag": [
+		"kernel",
+		"named"
+	],
 	"title": "R2: An Application-Level Kernel for Record and Replay",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,14 +1,35 @@
 {
-	"author": ["David Terei", "Alex Aiken", "Jan Vitek"],
-	"booktitle": "ISMM",
+	"author": [
+		"David Terei",
+		"Alex Aiken",
+		"Jan Vitek"
+	],
+	"booktitle": "Proceedings of the 13th International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2014",
 	"dblpkey": "conf/iwmm/TereiAV14",
 	"doi": "10.1145/2602988.2602995",
 	"ee": "http://doi.acm.org/10.1145/2602988.2602995",
 	"pages": "3-13",
 	"publisher": "ACM",
-	"stemmed": ["m", "high", "perform", "memori", "manag", "from", "off", "the", "shelf", "compon"],
-	"tag": ["component", "memory management", "named", "off the shelf"],
+	"stemmed": [
+		"m",
+		"high",
+		"perform",
+		"memori",
+		"manag",
+		"from",
+		"off",
+		"the",
+		"shelf",
+		"compon"
+	],
+	"tag": [
+		"component",
+		"memory management",
+		"named",
+		"off the shelf"
+	],
 	"title": "M3: high-performance memory management from off-the-shelf components",
 	"type": "inproceedings",
 	"venue": "ISMM",

@@ -1,16 +1,44 @@
 {
-	"author": ["Joachim Biskup", "Umeshwar Dayal", "Philip A. Bernstein"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Joachim Biskup",
+		"Umeshwar Dayal",
+		"Philip A. Bernstein"
+	],
+	"booktitle": "Proceedings of the Ninth ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD79/P143.PDF",
-	"cite": ["conf/focs/AhoBU77", "journals/tods/BeeriB79", "conf/vldb/BeeriBG78", "conf/sigmod/BeeriFH77", "journals/tods/Bernstein76", "journals/cacm/Codd70", "persons/Codd71a", "...", "...", "journals/tods/Fagin77", "journals/tods/Rissanen77", "conf/mfcs/Rissanen78", "...", "..."],
+	"cite": [
+		"conf/focs/AhoBU77",
+		"journals/tods/BeeriB79",
+		"conf/vldb/BeeriBG78",
+		"conf/sigmod/BeeriFH77",
+		"journals/tods/Bernstein76",
+		"journals/cacm/Codd70",
+		"persons/Codd71a",
+		"...",
+		"...",
+		"journals/tods/Fagin77",
+		"journals/tods/Rissanen77",
+		"conf/mfcs/Rissanen78",
+		"...",
+		"..."
+	],
 	"crossref": "conf/sigmod/79",
 	"dblpkey": "conf/sigmod/BiskupDB79",
 	"doi": "10.1145/582095.582118",
 	"ee": "http://doi.acm.org/10.1145/582095.582118",
 	"pages": "143-151",
 	"publisher": "ACM",
-	"stemmed": ["synthes", "independ", "databas", "schema"],
-	"tag": ["database", "independence"],
+	"stemmed": [
+		"synthes",
+		"independ",
+		"databas",
+		"schema"
+	],
+	"tag": [
+		"database",
+		"independence"
+	],
 	"title": "Synthesizing Independent Database Schemas",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

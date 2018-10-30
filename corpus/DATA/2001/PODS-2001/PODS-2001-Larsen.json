@@ -1,13 +1,27 @@
 {
 	"author": "Kim S. Larsen",
-	"booktitle": "PODS",
+	"booktitle": "Proceedings of the 20th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2001",
 	"dblpkey": "conf/pods/Larsen01",
 	"doi": "10.1145/375551.375566",
-	"ee": ["http://doi.acm.org/10.1145/375551.375566", "http://www.acm.org/sigs/sigmod/pods/proc01/online/p26.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/375551.375566",
+		"http://www.acm.org/sigs/sigmod/pods/proc01/online/p26.pdf"
+	],
 	"publisher": "ACM",
-	"stemmed": ["relax", "multi", "way", "tree", "with", "group", "updat"],
-	"tag": ["multi"],
+	"stemmed": [
+		"relax",
+		"multi",
+		"way",
+		"tree",
+		"with",
+		"group",
+		"updat"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "Relaxed Multi-Way Trees with Group Updates",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,6 +1,7 @@
 {
 	"author": "Peter B. Andrews",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Fifth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1980",
 	"dblpkey": "conf/cade/Andrews80",
 	"doi": "10.1007/3-540-10009-1_22",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["transform", "mate", "into", "natur", "deduct", "proof"],
-	"tag": ["deduction", "proving"],
+	"stemmed": [
+		"transform",
+		"mate",
+		"into",
+		"natur",
+		"deduct",
+		"proof"
+	],
+	"tag": [
+		"deduction",
+		"proving"
+	],
 	"title": "Transforming Matings into Natural Deduction Proofs",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 87,
+	"volume": "87",
 	"year": 1980
 }

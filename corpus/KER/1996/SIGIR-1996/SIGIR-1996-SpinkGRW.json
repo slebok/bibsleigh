@@ -1,6 +1,12 @@
 {
-	"author": ["Amanda Spink", "Abby Goodrum", "David Robins", "Mei Mei Wu"],
+	"author": [
+		"Amanda Spink",
+		"Abby Goodrum",
+		"David Robins",
+		"Mei Mei Wu"
+	],
 	"booktitle": "Proceedings of the 19th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1996/P120.pdf",
 	"crossref": "conf/sigir/96",
 	"dblpkey": "conf/sigir/SpinkGRW96",
@@ -8,8 +14,22 @@
 	"ee": "http://doi.acm.org/10.1145/243199.243239",
 	"pages": "120-127",
 	"publisher": "ACM",
-	"stemmed": ["elicit", "dure", "inform", "retriev", "implic", "for", "ir", "system", "design"],
-	"tag": ["design", "elicitation", "information retrieval"],
+	"stemmed": [
+		"elicit",
+		"dure",
+		"inform",
+		"retriev",
+		"implic",
+		"for",
+		"ir",
+		"system",
+		"design"
+	],
+	"tag": [
+		"design",
+		"elicitation",
+		"information retrieval"
+	],
 	"title": "Elicitations During Information Retrieval: Implications for IR System Design",
 	"type": "inproceedings",
 	"venue": "SIGIR",

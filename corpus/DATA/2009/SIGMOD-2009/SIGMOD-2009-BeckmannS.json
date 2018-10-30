@@ -1,6 +1,9 @@
 {
-	"author": ["Norbert Beckmann", "Bernhard Seeger"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Norbert Beckmann",
+		"Bernhard Seeger"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/BeckmannS09",
@@ -8,8 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559929",
 	"pages": "799-812",
 	"publisher": "ACM",
-	"stemmed": ["a", "revis", "r", "tree", "in", "comparison", "with", "relat", "index", "structur"],
-	"tag": ["comparison"],
+	"stemmed": [
+		"a",
+		"revis",
+		"r",
+		"tree",
+		"in",
+		"comparison",
+		"with",
+		"relat",
+		"index",
+		"structur"
+	],
+	"tag": [
+		"comparison"
+	],
 	"title": "A revised r*-tree in comparison with related index structures",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

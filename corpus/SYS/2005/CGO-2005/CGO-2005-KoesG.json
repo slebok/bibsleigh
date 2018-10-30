@@ -1,16 +1,34 @@
 {
-	"acmid": 1048993,
-	"author": ["David Koes", "Seth Copen Goldstein"],
-	"booktitle": "CGO",
+	"acmid": "1048993",
+	"author": [
+		"David Koes",
+		"Seth Copen Goldstein"
+	],
+	"booktitle": "Proceedings of the Third International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2005",
 	"dblpkey": "conf/cgo/KoesG05",
 	"doi": "10.1109/CGO.2005.4",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2005.4", "http://doi.ieeecomputersociety.org/10.1109/CGO.2005.4", "http://dl.acm.org/citation.cfm?id=1048993"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2005.4",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2005.4",
+		"http://dl.acm.org/citation.cfm?id=1048993"
+	],
 	"pages": "269-280",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "progress", "regist", "alloc", "for", "irregular", "architectur"],
-	"tag": ["architecture"],
+	"stemmed": [
+		"a",
+		"progress",
+		"regist",
+		"alloc",
+		"for",
+		"irregular",
+		"architectur"
+	],
+	"tag": [
+		"architecture"
+	],
 	"title": "A Progressive Register Allocator for Irregular Architectures",
 	"type": "inproceedings",
 	"venue": "CGO",

@@ -1,6 +1,10 @@
 {
-	"author": ["Farhan Tauheed", "Thomas Heinis", "Anastasia Ailamaki"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Farhan Tauheed",
+		"Thomas Heinis",
+		"Anastasia Ailamaki"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/TauheedHA15",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2749434",
 	"pages": "939-950",
 	"publisher": "ACM",
-	"stemmed": ["thermal", "join", "a", "scalabl", "spatial", "join", "for", "dynam", "workload"],
-	"tag": ["named", "scalability"],
+	"stemmed": [
+		"thermal",
+		"join",
+		"a",
+		"scalabl",
+		"spatial",
+		"join",
+		"for",
+		"dynam",
+		"workload"
+	],
+	"tag": [
+		"named",
+		"scalability"
+	],
 	"title": "THERMAL-JOIN: A Scalable Spatial Join for Dynamic Workloads",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

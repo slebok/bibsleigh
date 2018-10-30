@@ -1,14 +1,30 @@
 {
 	"author": "Rona Machlin",
-	"booktitle": "PODS",
+	"booktitle": "Proceedings of the 26th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2007",
 	"dblpkey": "conf/pods/Machlin07",
 	"doi": "10.1145/1265530.1265555",
 	"ee": "http://doi.acm.org/10.1145/1265530.1265555",
 	"pages": "175-184",
 	"publisher": "ACM",
-	"stemmed": ["index", "base", "multidimension", "array", "queri", "safeti", "and", "equival"],
-	"tag": ["array", "equivalence", "multi", "query", "safety"],
+	"stemmed": [
+		"index",
+		"base",
+		"multidimension",
+		"array",
+		"queri",
+		"safeti",
+		"and",
+		"equival"
+	],
+	"tag": [
+		"array",
+		"equivalence",
+		"multi",
+		"query",
+		"safety"
+	],
 	"title": "Index-based multidimensional array queries: safety and equivalence",
 	"type": "inproceedings",
 	"venue": "PODS",

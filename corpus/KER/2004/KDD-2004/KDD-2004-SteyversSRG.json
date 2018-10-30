@@ -1,14 +1,32 @@
 {
-	"author": ["Mark Steyvers", "Padhraic Smyth", "Michal Rosen-Zvi", "Thomas L. Griffiths"],
-	"booktitle": "KDD",
+	"author": [
+		"Mark Steyvers",
+		"Padhraic Smyth",
+		"Michal Rosen-Zvi",
+		"Thomas L. Griffiths"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2004",
 	"dblpkey": "conf/kdd/SteyversSRG04",
 	"doi": "10.1145/1014052.1014087",
 	"ee": "http://doi.acm.org/10.1145/1014052.1014087",
 	"pages": "306-315",
 	"publisher": "ACM",
-	"stemmed": ["probabilist", "author", "topic", "model", "for", "inform", "discoveri"],
-	"tag": ["modelling", "probability", "topic"],
+	"stemmed": [
+		"probabilist",
+		"author",
+		"topic",
+		"model",
+		"for",
+		"inform",
+		"discoveri"
+	],
+	"tag": [
+		"modelling",
+		"probability",
+		"topic"
+	],
 	"title": "Probabilistic author-topic models for information discovery",
 	"type": "inproceedings",
 	"venue": "KDD",

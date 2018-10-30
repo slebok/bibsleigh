@@ -1,14 +1,32 @@
 {
-	"author": ["Wei Dong", "Peng Li"],
-	"booktitle": "DAC",
+	"author": [
+		"Wei Dong",
+		"Peng Li"
+	],
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/DongL09",
 	"doi": "10.1145/1629911.1630012",
 	"ee": "http://doi.acm.org/10.1145/1629911.1630012",
 	"pages": "382-385",
 	"publisher": "ACM",
-	"stemmed": ["paralleliz", "stabl", "explicit", "numer", "integr", "for", "effici", "circuit", "simul"],
-	"tag": ["integration", "performance", "simulation"],
+	"stemmed": [
+		"paralleliz",
+		"stabl",
+		"explicit",
+		"numer",
+		"integr",
+		"for",
+		"effici",
+		"circuit",
+		"simul"
+	],
+	"tag": [
+		"integration",
+		"performance",
+		"simulation"
+	],
 	"title": "Parallelizable stable explicit numerical integration for efficient circuit simulation",
 	"type": "inproceedings",
 	"venue": "DAC",

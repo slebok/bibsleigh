@@ -1,14 +1,34 @@
 {
-	"author": ["Jonas Skeppstedt", "Per Stenström"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Jonas Skeppstedt",
+		"Per Stenström"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1994",
 	"dblpkey": "conf/asplos/SkeppstedtS94",
 	"doi": "10.1145/195473.195572",
 	"ee": "http://doi.acm.org/10.1145/195473.195572",
 	"pages": "286-296",
 	"publisher": "ACM Press",
-	"stemmed": ["simpl", "compil", "algorithm", "to", "reduc", "ownership", "operhead", "in", "cach", "coher", "protocol"],
-	"tag": ["algorithm", "compilation", "protocol"],
+	"stemmed": [
+		"simpl",
+		"compil",
+		"algorithm",
+		"to",
+		"reduc",
+		"ownership",
+		"operhead",
+		"in",
+		"cach",
+		"coher",
+		"protocol"
+	],
+	"tag": [
+		"algorithm",
+		"compilation",
+		"protocol"
+	],
 	"title": "Simple Compiler Algorithms to Reduce Ownership Operhead in Cache Coherence Protocols",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

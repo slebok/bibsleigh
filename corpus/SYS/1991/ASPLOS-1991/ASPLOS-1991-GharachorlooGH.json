@@ -1,14 +1,37 @@
 {
-	"author": ["Kourosh Gharachorloo", "Anoop Gupta", "John L. Hennessy"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Kourosh Gharachorloo",
+		"Anoop Gupta",
+		"John L. Hennessy"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1991",
 	"dblpkey": "conf/asplos/GharachorlooGH91",
 	"doi": "10.1145/106972.106997",
 	"ee": "http://doi.acm.org/10.1145/106972.106997",
 	"pages": "245-257",
 	"publisher": "ACM Press",
-	"stemmed": ["perform", "evalu", "of", "memori", "consist", "model", "for", "share", "memori", "multiprocessor"],
-	"tag": ["consistency", "evaluation", "memory management", "modelling", "multi", "performance"],
+	"stemmed": [
+		"perform",
+		"evalu",
+		"of",
+		"memori",
+		"consist",
+		"model",
+		"for",
+		"share",
+		"memori",
+		"multiprocessor"
+	],
+	"tag": [
+		"consistency",
+		"evaluation",
+		"memory management",
+		"modelling",
+		"multi",
+		"performance"
+	],
 	"title": "Performance Evaluation of Memory Consistency Models for Shared Memory Multiprocessors",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,6 +1,7 @@
 {
 	"author": "Louise E. Moser",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/Moser88",
 	"doi": "10.1007/BFb0012842",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "decis", "procedur", "for", "unquantifi", "formula", "of", "graph", "theori"],
-	"tag": ["graph"],
+	"stemmed": [
+		"a",
+		"decis",
+		"procedur",
+		"for",
+		"unquantifi",
+		"formula",
+		"of",
+		"graph",
+		"theori"
+	],
+	"tag": [
+		"graph"
+	],
 	"title": "A Decision Procedure for Unquantified Formulas of Graph Theory",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

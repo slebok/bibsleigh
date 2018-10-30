@@ -1,16 +1,41 @@
 {
-	"acmid": 1022900,
-	"author": ["Naran Sirisantana", "Kaushik Roy"],
-	"booktitle": "DATE",
+	"acmid": "1022900",
+	"author": [
+		"Naran Sirisantana",
+		"Kaushik Roy"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2003",
 	"dblpkey": "conf/date/SirisantanaR03",
 	"doi": "10.1109/DATE.2003.10131",
-	"ee": ["http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10131", "http://dl.acm.org/citation.cfm?id=1022900"],
+	"ee": [
+		"http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10131",
+		"http://dl.acm.org/citation.cfm?id=1022900"
+	],
 	"pages": "11160-11161",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["select", "clock", "cmos", "logic", "style", "for", "low", "power", "nois", "immun", "oper", "in", "scale", "technolog"],
-	"tag": ["logic", "power management"],
+	"stemmed": [
+		"select",
+		"clock",
+		"cmos",
+		"logic",
+		"style",
+		"for",
+		"low",
+		"power",
+		"nois",
+		"immun",
+		"oper",
+		"in",
+		"scale",
+		"technolog"
+	],
+	"tag": [
+		"logic",
+		"power management"
+	],
 	"title": "Selectively Clocked CMOS Logic Style for Low-Power Noise-Immune Operations in Scaled Technologies",
 	"type": "inproceedings",
 	"venue": "DATE",

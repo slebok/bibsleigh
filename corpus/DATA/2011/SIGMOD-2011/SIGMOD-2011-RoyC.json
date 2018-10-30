@@ -1,6 +1,9 @@
 {
-	"author": ["Senjuti Basu Roy", "Kaushik Chakrabarti"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Senjuti Basu Roy",
+		"Kaushik Chakrabarti"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/RoyC11",
@@ -8,8 +11,24 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989362",
 	"pages": "361-372",
 	"publisher": "ACM",
-	"stemmed": ["locat", "awar", "type", "ahead", "search", "on", "spatial", "databas", "semant", "and", "effici"],
-	"tag": ["database", "performance", "semantics"],
+	"stemmed": [
+		"locat",
+		"awar",
+		"type",
+		"ahead",
+		"search",
+		"on",
+		"spatial",
+		"databas",
+		"semant",
+		"and",
+		"effici"
+	],
+	"tag": [
+		"database",
+		"performance",
+		"semantics"
+	],
 	"title": "Location-aware type ahead search on spatial databases: semantics and efficiency",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

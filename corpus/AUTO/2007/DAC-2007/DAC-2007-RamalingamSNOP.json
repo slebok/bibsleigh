@@ -1,14 +1,39 @@
 {
-	"author": ["Anand Ramalingam", "Ashish Kumar Singh", "Sani R. Nassif", "Michael Orshansky", "David Z. Pan"],
-	"booktitle": "DAC",
+	"author": [
+		"Anand Ramalingam",
+		"Ashish Kumar Singh",
+		"Sani R. Nassif",
+		"Michael Orshansky",
+		"David Z. Pan"
+	],
+	"booktitle": "Proceedings of the 44th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2007",
 	"dblpkey": "conf/dac/RamalingamSNOP07",
 	"doi": "10.1145/1278480.1278517",
 	"ee": "http://doi.acm.org/10.1145/1278480.1278517",
 	"pages": "148-153",
 	"publisher": "IEEE",
-	"stemmed": ["accur", "waveform", "model", "use", "singular", "valu", "decomposit", "with", "applic", "to", "time", "analysi"],
-	"tag": ["analysis", "composition", "modelling", "using"],
+	"stemmed": [
+		"accur",
+		"waveform",
+		"model",
+		"use",
+		"singular",
+		"valu",
+		"decomposit",
+		"with",
+		"applic",
+		"to",
+		"time",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"composition",
+		"modelling",
+		"using"
+	],
 	"title": "Accurate Waveform Modeling using Singular Value Decomposition with Applications to Timing Analysis",
 	"type": "inproceedings",
 	"venue": "DAC",

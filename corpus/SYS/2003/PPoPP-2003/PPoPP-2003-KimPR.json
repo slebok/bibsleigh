@@ -1,14 +1,34 @@
 {
-	"author": ["Hyong-youb Kim", "Vijay S. Pai", "Scott Rixner"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Hyong-youb Kim",
+		"Vijay S. Pai",
+		"Scott Rixner"
+	],
+	"booktitle": "Proceedings of the Ninth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2003",
 	"dblpkey": "conf/ppopp/KimPR03",
 	"doi": "10.1145/781498.781506",
 	"ee": "http://doi.acm.org/10.1145/781498.781506",
 	"pages": "61-72",
 	"publisher": "ACM",
-	"stemmed": ["exploit", "task", "level", "concurr", "in", "a", "programm", "network", "interfac"],
-	"tag": ["concurrent", "interface", "network", "programmable"],
+	"stemmed": [
+		"exploit",
+		"task",
+		"level",
+		"concurr",
+		"in",
+		"a",
+		"programm",
+		"network",
+		"interfac"
+	],
+	"tag": [
+		"concurrent",
+		"interface",
+		"network",
+		"programmable"
+	],
 	"title": "Exploiting task-level concurrency in a programmable network interface",
 	"type": "inproceedings",
 	"venue": "PPoPP",

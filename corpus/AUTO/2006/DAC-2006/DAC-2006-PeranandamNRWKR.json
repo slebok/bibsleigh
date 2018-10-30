@@ -1,14 +1,34 @@
 {
-	"author": ["Prakash Mohan Peranandam", "Pradeep Kumar Nalla", "Jürgen Ruf", "Roland J. Weiss", "Thomas Kropf", "Wolfgang Rosenstiel"],
-	"booktitle": "DAC",
+	"author": [
+		"Prakash Mohan Peranandam",
+		"Pradeep Kumar Nalla",
+		"Jürgen Ruf",
+		"Roland J. Weiss",
+		"Thomas Kropf",
+		"Wolfgang Rosenstiel"
+	],
+	"booktitle": "Proceedings of the 43rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/PeranandamNRWKR06",
 	"doi": "10.1145/1146909.1147181",
 	"ee": "http://doi.acm.org/10.1145/1146909.1147181",
 	"pages": "1077-1082",
 	"publisher": "ACM",
-	"stemmed": ["fast", "falsif", "base", "on", "symbol", "bound", "properti", "check"],
-	"tag": ["bound", "performance"],
+	"stemmed": [
+		"fast",
+		"falsif",
+		"base",
+		"on",
+		"symbol",
+		"bound",
+		"properti",
+		"check"
+	],
+	"tag": [
+		"bound",
+		"performance"
+	],
 	"title": "Fast falsification based on symbolic bounded property checking",
 	"type": "inproceedings",
 	"venue": "DAC",

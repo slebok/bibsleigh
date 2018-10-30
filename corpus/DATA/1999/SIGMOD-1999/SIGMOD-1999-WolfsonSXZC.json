@@ -1,16 +1,38 @@
 {
-	"author": ["Ouri Wolfson", "A. Prasad Sistla", "Bo Xu", "Jutai Zhou", "Sam Chamberlain"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ouri Wolfson",
+		"A. Prasad Sistla",
+		"Bo Xu",
+		"Jutai Zhou",
+		"Sam Chamberlain"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "DiSC2_1/out/papers/sigmod/dominodatabasesouab.pdf",
-	"cite": ["...", "...", "conf/icdt/WolfsonJSCRD99", "conf/ssdbm/WolfsonXCJ98"],
+	"cite": [
+		"...",
+		"...",
+		"conf/icdt/WolfsonJSCRD99",
+		"conf/ssdbm/WolfsonXCJ98"
+	],
 	"crossref": "conf/sigmod/99",
 	"dblpkey": "conf/sigmod/WolfsonSXZC99",
 	"doi": "10.1145/304182.304572",
 	"ee": "http://doi.acm.org/10.1145/304182.304572",
 	"pages": "547-549",
 	"publisher": "ACM Press",
-	"stemmed": ["domino", "databas", "for", "move", "object", "track"],
-	"tag": ["database", "named"],
+	"stemmed": [
+		"domino",
+		"databas",
+		"for",
+		"move",
+		"object",
+		"track"
+	],
+	"tag": [
+		"database",
+		"named"
+	],
 	"title": "DOMINO: Databases fOr MovINg Objects tracking",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

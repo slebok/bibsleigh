@@ -1,14 +1,32 @@
 {
-	"author": ["Emily Denton", "Jason Weston", "Manohar Paluri", "Lubomir D. Bourdev", "Rob Fergus"],
-	"booktitle": "KDD",
+	"author": [
+		"Emily Denton",
+		"Jason Weston",
+		"Manohar Paluri",
+		"Lubomir D. Bourdev",
+		"Rob Fergus"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/DentonWPBF15",
 	"doi": "10.1145/2783258.2788576",
 	"ee": "http://doi.acm.org/10.1145/2783258.2788576",
 	"pages": "1731-1740",
 	"publisher": "ACM",
-	"stemmed": ["user", "condit", "hashtag", "predict", "for", "imag"],
-	"tag": ["hashtag", "image", "predict"],
+	"stemmed": [
+		"user",
+		"condit",
+		"hashtag",
+		"predict",
+		"for",
+		"imag"
+	],
+	"tag": [
+		"hashtag",
+		"image",
+		"predict"
+	],
 	"title": "User Conditional Hashtag Prediction for Images",
 	"type": "inproceedings",
 	"venue": "KDD",

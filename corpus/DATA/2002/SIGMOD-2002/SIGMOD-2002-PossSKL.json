@@ -1,6 +1,11 @@
 {
-	"author": ["Meikel Pöss", "Bryan Smith", "Lubor Kollár", "Per-Åke Larson"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Meikel Pöss",
+		"Bryan Smith",
+		"Lubor Kollár",
+		"Per-Åke Larson"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/PossSKL02",
@@ -8,8 +13,22 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564759",
 	"pages": "582-587",
 	"publisher": "ACM",
-	"stemmed": ["tpc", "ds", "take", "decis", "support", "benchmark", "to", "the", "next", "level"],
-	"tag": ["benchmark", "metric"],
+	"stemmed": [
+		"tpc",
+		"ds",
+		"take",
+		"decis",
+		"support",
+		"benchmark",
+		"to",
+		"the",
+		"next",
+		"level"
+	],
+	"tag": [
+		"benchmark",
+		"metric"
+	],
 	"title": "TPC-DS, taking decision support benchmarking to the next level",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

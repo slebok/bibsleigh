@@ -1,14 +1,32 @@
 {
-	"author": ["Ye Wang", "Ahmed Metwally", "Srinivasan Parthasarathy"],
-	"booktitle": "KDD",
+	"author": [
+		"Ye Wang",
+		"Ahmed Metwally",
+		"Srinivasan Parthasarathy"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/WangMP13",
 	"doi": "10.1145/2487575.2487625",
 	"ee": "http://doi.acm.org/10.1145/2487575.2487625",
 	"pages": "829-837",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "all", "pair", "similar", "search", "in", "metric", "space"],
-	"tag": ["metric", "scalability", "similarity"],
+	"stemmed": [
+		"scalabl",
+		"all",
+		"pair",
+		"similar",
+		"search",
+		"in",
+		"metric",
+		"space"
+	],
+	"tag": [
+		"metric",
+		"scalability",
+		"similarity"
+	],
 	"title": "Scalable all-pairs similarity search in metric spaces",
 	"type": "inproceedings",
 	"venue": "KDD",

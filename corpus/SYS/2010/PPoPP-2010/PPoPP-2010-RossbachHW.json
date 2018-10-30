@@ -1,14 +1,29 @@
 {
-	"author": ["Christopher J. Rossbach", "Owen S. Hofmann", "Emmett Witchel"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Christopher J. Rossbach",
+		"Owen S. Hofmann",
+		"Emmett Witchel"
+	],
+	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/RossbachHW10",
 	"doi": "10.1145/1693453.1693462",
 	"ee": "http://doi.acm.org/10.1145/1693453.1693462",
 	"pages": "47-56",
 	"publisher": "ACM",
-	"stemmed": ["is", "transact", "program", "actual", "easier"],
-	"tag": ["programming", "question", "transaction"],
+	"stemmed": [
+		"is",
+		"transact",
+		"program",
+		"actual",
+		"easier"
+	],
+	"tag": [
+		"programming",
+		"question",
+		"transaction"
+	],
 	"title": "Is transactional programming actually easier?",
 	"type": "inproceedings",
 	"venue": "PPoPP",

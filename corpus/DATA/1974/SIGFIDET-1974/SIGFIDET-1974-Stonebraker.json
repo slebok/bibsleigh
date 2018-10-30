@@ -1,6 +1,7 @@
 {
 	"author": "Michael Stonebraker",
-	"booktitle": "SIGMOD Workshop, Vol. 1",
+	"booktitle": "Proceedings of the Fourth ACM-SIGFIDET Workshop on Data Description, Access and Control",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGFIDET74-1/P063.pdf",
 	"crossref": "conf/sigmod/74",
 	"dblpkey": "conf/sigmod/Stonebraker74",
@@ -8,8 +9,18 @@
 	"ee": "http://doi.acm.org/10.1145/800296.811505",
 	"pages": "63-81",
 	"publisher": "ACM",
-	"stemmed": ["a", "function", "view", "of", "data", "independ"],
-	"tag": ["functional", "independence"],
+	"stemmed": [
+		"a",
+		"function",
+		"view",
+		"of",
+		"data",
+		"independ"
+	],
+	"tag": [
+		"functional",
+		"independence"
+	],
 	"title": "A Functional View of Data Independence",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,12 @@
 {
-	"author": ["George Smith", "A. Frank Ackerman", "George N. Arnovick", "W. J. Gus Radzyminski", "George Sanders"],
-	"booktitle": "CSEE",
+	"author": [
+		"George Smith",
+		"A. Frank Ackerman",
+		"George N. Arnovick",
+		"W. J. Gus Radzyminski",
+		"George Sanders"
+	],
+	"booktitle": "Proceedings of the Fourth Software Engineering Education Conference",
 	"booktitleshort": "SEI",
 	"crossref": "conf/csee/1990",
 	"dblpkey": "conf/csee/SmithAARS90",
@@ -10,11 +16,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["industri", "academ", "cooper", "in", "softwar", "engin", "train", "and", "continu", "educ"],
-	"tag": ["education", "re-engineering"],
+	"stemmed": [
+		"industri",
+		"academ",
+		"cooper",
+		"in",
+		"softwar",
+		"engin",
+		"train",
+		"and",
+		"continu",
+		"educ"
+	],
+	"tag": [
+		"education",
+		"re-engineering"
+	],
 	"title": "Industry-Academic Cooperation in Software Engineering Training and Continuing Education",
 	"type": "inproceedings",
 	"venue": "CSEET",
-	"volume": 423,
+	"volume": "423",
 	"year": 1990
 }

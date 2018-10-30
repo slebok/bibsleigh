@@ -1,6 +1,10 @@
 {
-	"author": ["Thomas Ball", "Orna Kupferman"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Thomas Ball",
+		"Orna Kupferman"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2007",
 	"dblpkey": "conf/vmcai/BallK07",
 	"doi": "10.1007/978-3-540-69738-1_23",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["better", "under", "approxim", "of", "program", "by", "hide", "variabl"],
-	"tag": ["approximate", "source code"],
+	"stemmed": [
+		"better",
+		"under",
+		"approxim",
+		"of",
+		"program",
+		"by",
+		"hide",
+		"variabl"
+	],
+	"tag": [
+		"approximate",
+		"source code"
+	],
 	"title": "Better Under-Approximation of Programs by Hiding Variables",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 4349,
+	"volume": "4349",
 	"year": 2007
 }

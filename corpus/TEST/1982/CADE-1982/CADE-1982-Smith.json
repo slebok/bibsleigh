@@ -1,6 +1,7 @@
 {
 	"author": "Douglas R. Smith",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Sixth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1982",
 	"dblpkey": "conf/cade/Smith82",
 	"doi": "10.1007/BFb0000059",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["deriv", "precondit", "and", "their", "use", "in", "program", "synthesi"],
-	"tag": ["synthesis"],
+	"stemmed": [
+		"deriv",
+		"precondit",
+		"and",
+		"their",
+		"use",
+		"in",
+		"program",
+		"synthesi"
+	],
+	"tag": [
+		"synthesis"
+	],
 	"title": "Derived Preconditions and Their Use in Program Synthesis",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 138,
+	"volume": "138",
 	"year": 1982
 }

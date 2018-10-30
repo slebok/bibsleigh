@@ -1,6 +1,10 @@
 {
-	"author": ["Hinrich Schütze", "Craig Silverstein"],
+	"author": [
+		"Hinrich Schütze",
+		"Craig Silverstein"
+	],
 	"booktitle": "Proceedings of the 20th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1997/P074.pdf",
 	"crossref": "conf/sigir/97",
 	"dblpkey": "conf/sigir/SchuetzeS97",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/258525.258539",
 	"pages": "74-81",
 	"publisher": "ACM",
-	"stemmed": ["project", "for", "effici", "document", "cluster"],
-	"tag": ["clustering", "documentation", "performance"],
+	"stemmed": [
+		"project",
+		"for",
+		"effici",
+		"document",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"documentation",
+		"performance"
+	],
 	"title": "Projections for Efficient Document Clustering",
 	"type": "inproceedings",
 	"venue": "SIGIR",

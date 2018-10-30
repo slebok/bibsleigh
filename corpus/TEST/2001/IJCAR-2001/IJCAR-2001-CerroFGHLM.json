@@ -1,6 +1,14 @@
 {
-	"author": ["Luis Fariñas del Cerro", "David Fauthoux", "Olivier Gasquet", "Andreas Herzig", "Dominique Longin", "Fabio Massacci"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Luis Fariñas del Cerro",
+		"David Fauthoux",
+		"Olivier Gasquet",
+		"Andreas Herzig",
+		"Dominique Longin",
+		"Fabio Massacci"
+	],
+	"booktitle": "Proceedings of the First International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2001",
 	"dblpkey": "conf/cade/CerroFGHLM01",
 	"doi": "10.1007/3-540-45744-5_38",
@@ -10,11 +18,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["lotrec", "the", "generic", "tableau", "prover", "for", "modal", "and", "descript", "logic"],
-	"tag": ["logic", "proving"],
+	"stemmed": [
+		"lotrec",
+		"the",
+		"generic",
+		"tableau",
+		"prover",
+		"for",
+		"modal",
+		"and",
+		"descript",
+		"logic"
+	],
+	"tag": [
+		"logic",
+		"proving"
+	],
 	"title": "Lotrec : The Generic Tableau Prover for Modal and Description Logics",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 2083,
+	"volume": "2083",
 	"year": 2001
 }

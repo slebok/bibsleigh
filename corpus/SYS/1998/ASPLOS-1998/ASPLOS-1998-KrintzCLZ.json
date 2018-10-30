@@ -1,14 +1,38 @@
 {
-	"author": ["Chandra Krintz", "Brad Calder", "Han Bok Lee", "Benjamin G. Zorn"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Chandra Krintz",
+		"Brad Calder",
+		"Han Bok Lee",
+		"Benjamin G. Zorn"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1998",
 	"dblpkey": "conf/asplos/KrintzCLZ98",
 	"doi": "10.1145/291069.291040",
 	"ee": "http://doi.acm.org/10.1145/291069.291040",
 	"pages": "159-169",
 	"publisher": "ACM Press",
-	"stemmed": ["overlap", "execut", "with", "transfer", "use", "non", "strict", "execut", "for", "mobil", "program"],
-	"tag": ["execution", "mobile", "source code", "strict", "using"],
+	"stemmed": [
+		"overlap",
+		"execut",
+		"with",
+		"transfer",
+		"use",
+		"non",
+		"strict",
+		"execut",
+		"for",
+		"mobil",
+		"program"
+	],
+	"tag": [
+		"execution",
+		"mobile",
+		"source code",
+		"strict",
+		"using"
+	],
 	"title": "Overlapping Execution with Transfer Using Non-Strict Execution for Mobile Programs",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,15 +1,36 @@
 {
-	"author": ["Axel Braun", "Torsten Caesar", "Joachim M. Gloger", "Eberhard Mandler"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Axel Braun",
+		"Torsten Caesar",
+		"Joachim M. Gloger",
+		"Eberhard Mandler"
+	],
+	"booktitle": "Proceedings of the Third International Conference on Document Analysis and Recognition (Volume II)",
+	"booktitleshort": "ICDAR v2",
 	"crossref": "conf/icdar/1995-2",
 	"dblpkey": "conf/icdar/BraunCGM95",
 	"doi": "10.1109/ICDAR.1995.601977",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1995.601977", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.601977"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1995.601977",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.601977"
+	],
 	"pages": "640-643",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["preprocess", "raw", "binari", "imag", "by", "mean", "of", "contour"],
-	"tag": ["image", "preprocessor"],
+	"stemmed": [
+		"preprocess",
+		"raw",
+		"binari",
+		"imag",
+		"by",
+		"mean",
+		"of",
+		"contour"
+	],
+	"tag": [
+		"image",
+		"preprocessor"
+	],
 	"title": "Preprocessing raw binary images by means of contours",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,6 +1,10 @@
 {
-	"author": ["Alan Mishchenko", "Robert K. Brayton"],
-	"booktitle": "DATE",
+	"author": [
+		"Alan Mishchenko",
+		"Robert K. Brayton"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/MishchenkoB05",
 	"doi": "10.1109/DATE.2005.264",
@@ -8,8 +12,23 @@
 	"pages": "412-417",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["sat", "base", "complet", "don", "t", "care", "comput", "for", "network", "optim"],
-	"tag": ["network", "optimisation", "satisfiability"],
+	"stemmed": [
+		"sat",
+		"base",
+		"complet",
+		"don",
+		"t",
+		"care",
+		"comput",
+		"for",
+		"network",
+		"optim"
+	],
+	"tag": [
+		"network",
+		"optimisation",
+		"satisfiability"
+	],
 	"title": "SAT-Based Complete Don’t-Care Computation for Network Optimization",
 	"type": "inproceedings",
 	"venue": "DATE",

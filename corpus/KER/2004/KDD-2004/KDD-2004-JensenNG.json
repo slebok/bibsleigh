@@ -1,14 +1,30 @@
 {
-	"author": ["David Jensen", "Jennifer Neville", "Brian Gallagher"],
-	"booktitle": "KDD",
+	"author": [
+		"David Jensen",
+		"Jennifer Neville",
+		"Brian Gallagher"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2004",
 	"dblpkey": "conf/kdd/JensenNG04",
 	"doi": "10.1145/1014052.1014125",
 	"ee": "http://doi.acm.org/10.1145/1014052.1014125",
 	"pages": "593-598",
 	"publisher": "ACM",
-	"stemmed": ["whi", "collect", "infer", "improv", "relat", "classif"],
-	"tag": ["classification", "relational", "why"],
+	"stemmed": [
+		"whi",
+		"collect",
+		"infer",
+		"improv",
+		"relat",
+		"classif"
+	],
+	"tag": [
+		"classification",
+		"relational",
+		"why"
+	],
 	"title": "Why collective inference improves relational classification",
 	"type": "inproceedings",
 	"venue": "KDD",

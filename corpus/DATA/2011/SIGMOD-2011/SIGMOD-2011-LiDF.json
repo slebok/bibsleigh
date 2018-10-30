@@ -1,6 +1,10 @@
 {
-	"author": ["Guoliang Li", "Dong Deng", "Jianhua Feng"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Guoliang Li",
+		"Dong Deng",
+		"Jianhua Feng"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/LiDF11",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989379",
 	"pages": "529-540",
 	"publisher": "ACM",
-	"stemmed": ["faeri", "effici", "filter", "algorithm", "for", "approxim", "dictionari", "base", "entiti", "extract"],
-	"tag": ["algorithm", "approximate", "named", "performance"],
+	"stemmed": [
+		"faeri",
+		"effici",
+		"filter",
+		"algorithm",
+		"for",
+		"approxim",
+		"dictionari",
+		"base",
+		"entiti",
+		"extract"
+	],
+	"tag": [
+		"algorithm",
+		"approximate",
+		"named",
+		"performance"
+	],
 	"title": "Faerie: efficient filtering algorithms for approximate dictionary-based entity extraction",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

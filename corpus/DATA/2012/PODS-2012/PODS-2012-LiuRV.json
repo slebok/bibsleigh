@@ -1,14 +1,29 @@
 {
-	"author": ["Zhenming Liu", "Bozidar Radunovic", "Milan Vojnovic"],
-	"booktitle": "PODS",
+	"author": [
+		"Zhenming Liu",
+		"Bozidar Radunovic",
+		"Milan Vojnovic"
+	],
+	"booktitle": "Proceedings of the 31st Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2012",
 	"dblpkey": "conf/pods/LiuRV12",
 	"doi": "10.1145/2213556.2213597",
 	"ee": "http://doi.acm.org/10.1145/2213556.2213597",
 	"pages": "307-318",
 	"publisher": "ACM",
-	"stemmed": ["continu", "distribut", "count", "for", "non", "monoton", "stream"],
-	"tag": ["distributed"],
+	"stemmed": [
+		"continu",
+		"distribut",
+		"count",
+		"for",
+		"non",
+		"monoton",
+		"stream"
+	],
+	"tag": [
+		"distributed"
+	],
 	"title": "Continuous distributed counting for non-monotonic streams",
 	"type": "inproceedings",
 	"venue": "PODS",

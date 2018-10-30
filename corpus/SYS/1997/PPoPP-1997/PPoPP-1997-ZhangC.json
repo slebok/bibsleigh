@@ -1,14 +1,36 @@
 {
-	"author": ["Xingbin Zhang", "Andrew A. Chien"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Xingbin Zhang",
+		"Andrew A. Chien"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1997",
 	"dblpkey": "conf/ppopp/ZhangC97",
 	"doi": "10.1145/263764.263771",
 	"ee": "http://doi.acm.org/10.1145/263764.263771",
 	"pages": "37-47",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "pointer", "align", "tile", "and", "communic", "optim", "for", "parallel", "pointer", "base", "comput"],
-	"tag": ["communication", "optimisation", "parallel", "pointer"],
+	"stemmed": [
+		"dynam",
+		"pointer",
+		"align",
+		"tile",
+		"and",
+		"communic",
+		"optim",
+		"for",
+		"parallel",
+		"pointer",
+		"base",
+		"comput"
+	],
+	"tag": [
+		"communication",
+		"optimisation",
+		"parallel",
+		"pointer"
+	],
 	"title": "Dynamic Pointer Alignment: Tiling and Communication Optimizations for Parallel Pointer-based Computations",
 	"type": "inproceedings",
 	"venue": "PPoPP",

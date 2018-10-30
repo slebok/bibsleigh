@@ -1,14 +1,36 @@
 {
-	"author": ["Yuan-Hung Kuan", "Yuan-Hao Chang", "Po-Chun Huang", "Kam-yiu Lam"],
-	"booktitle": "DAC",
+	"author": [
+		"Yuan-Hung Kuan",
+		"Yuan-Hao Chang",
+		"Po-Chun Huang",
+		"Kam-yiu Lam"
+	],
+	"booktitle": "Proceedings of the 51st Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2014",
 	"dblpkey": "conf/dac/KuanCHL14",
 	"doi": "10.1145/2593069.2593219",
 	"ee": "http://doi.acm.org/10.1145/2593069.2593219",
 	"pages": "147:1-147:6",
 	"publisher": "ACM",
-	"stemmed": ["space", "effici", "multivers", "index", "scheme", "for", "pcm", "base", "embed", "databas", "system"],
-	"tag": ["database", "embedded", "multi"],
+	"stemmed": [
+		"space",
+		"effici",
+		"multivers",
+		"index",
+		"scheme",
+		"for",
+		"pcm",
+		"base",
+		"embed",
+		"databas",
+		"system"
+	],
+	"tag": [
+		"database",
+		"embedded",
+		"multi"
+	],
 	"title": "Space-Efficient Multiversion Index Scheme for PCM-based Embedded Database Systems",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,13 +1,29 @@
 {
-	"acmid": 802329,
-	"author": ["Paul M. Almy", "Jose L. Rivero"],
-	"booktitle": "DAC",
+	"acmid": "802329",
+	"author": [
+		"Paul M. Almy",
+		"Jose L. Rivero"
+	],
+	"booktitle": "Proceedings of the 18th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1981",
 	"dblpkey": "conf/dac/AlmyR81",
 	"pages": "355-359",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["use", "error", "latch", "trace", "to", "obtain", "diagnost", "inform"],
-	"tag": ["fault", "using"],
+	"stemmed": [
+		"use",
+		"error",
+		"latch",
+		"trace",
+		"to",
+		"obtain",
+		"diagnost",
+		"inform"
+	],
+	"tag": [
+		"fault",
+		"using"
+	],
 	"title": "Using error latch trace to obtain diagnostic information",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,35 @@
 {
-	"author": ["Alistair C. Bruce", "M. M. Kamal Hashmi", "Andrew Nightingale", "Steve Beavis", "Nizar Romdhane", "Christopher K. Lennard"],
-	"booktitle": "DAC",
+	"author": [
+		"Alistair C. Bruce",
+		"M. M. Kamal Hashmi",
+		"Andrew Nightingale",
+		"Steve Beavis",
+		"Nizar Romdhane",
+		"Christopher K. Lennard"
+	],
+	"booktitle": "Proceedings of the 43rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/BruceHNBRL06",
 	"doi": "10.1145/1146909.1146936",
 	"ee": "http://doi.acm.org/10.1145/1146909.1146936",
 	"pages": "85-89",
 	"publisher": "ACM",
-	"stemmed": ["maintain", "consist", "between", "systemc", "and", "rtl", "system", "design"],
-	"tag": ["consistency", "design", "maintenance"],
+	"stemmed": [
+		"maintain",
+		"consist",
+		"between",
+		"systemc",
+		"and",
+		"rtl",
+		"system",
+		"design"
+	],
+	"tag": [
+		"consistency",
+		"design",
+		"maintenance"
+	],
 	"title": "Maintaining consistency between systemC and RTL system designs",
 	"type": "inproceedings",
 	"venue": "DAC",

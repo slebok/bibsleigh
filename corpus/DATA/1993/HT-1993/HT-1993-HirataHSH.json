@@ -1,6 +1,12 @@
 {
-	"author": ["Kyoji Hirata", "Yoshinori Hara", "Naoki Shibata", "Fusako Hirabayashi"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Kyoji Hirata",
+		"Yoshinori Hara",
+		"Naoki Shibata",
+		"Fusako Hirabayashi"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1993/P159.pdf",
 	"crossref": "conf/ht/93",
 	"dblpkey": "conf/ht/HirataHSH93",
@@ -8,8 +14,18 @@
 	"ee": "http://doi.acm.org/10.1145/168750.168818",
 	"pages": "159-173",
 	"publisher": "ACM",
-	"stemmed": ["media", "base", "navig", "for", "hypermedia", "system"],
-	"tag": ["hypermedia", "navigation"],
+	"stemmed": [
+		"media",
+		"base",
+		"navig",
+		"for",
+		"hypermedia",
+		"system"
+	],
+	"tag": [
+		"hypermedia",
+		"navigation"
+	],
 	"title": "Media-Based Navigation for Hypermedia Systems",
 	"type": "inproceedings",
 	"venue": "HT",

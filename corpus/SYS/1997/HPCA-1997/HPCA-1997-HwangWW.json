@@ -1,15 +1,40 @@
 {
-	"author": ["Kai Hwang", "Choming Wang", "Cho-Li Wang"],
-	"booktitle": "HPCA",
+	"author": [
+		"Kai Hwang",
+		"Choming Wang",
+		"Cho-Li Wang"
+	],
+	"booktitle": "Proceedings of the Third International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1997",
 	"dblpkey": "conf/hpca/HwangWW97",
 	"doi": "10.1109/HPCA.1997.569646",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1997.569646", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1997.569646"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1997.569646",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1997.569646"
+	],
 	"pages": "106-115",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["evalu", "mpi", "collect", "communic", "on", "the", "sp", "t", "d", "and", "paragon", "multicomput"],
-	"tag": ["3d", "communication", "multi"],
+	"stemmed": [
+		"evalu",
+		"mpi",
+		"collect",
+		"communic",
+		"on",
+		"the",
+		"sp",
+		"t",
+		"d",
+		"and",
+		"paragon",
+		"multicomput"
+	],
+	"tag": [
+		"3d",
+		"communication",
+		"multi"
+	],
 	"title": "Evaluating MPI Collective Communication on the SP2, T3D, and Paragon Multicomputers",
 	"type": "inproceedings",
 	"venue": "HPCA",

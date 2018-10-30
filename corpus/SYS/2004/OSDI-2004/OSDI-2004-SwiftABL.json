@@ -1,13 +1,28 @@
 {
-	"author": ["Michael M. Swift", "Muthukaruppan Annamalai", "Brian N. Bershad", "Henry M. Levy"],
-	"booktitle": "OSDI",
+	"author": [
+		"Michael M. Swift",
+		"Muthukaruppan Annamalai",
+		"Brian N. Bershad",
+		"Henry M. Levy"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2004",
 	"dblpkey": "conf/osdi/SwiftABL04",
 	"ee": "http://www.usenix.org/events/osdi04/tech/swift.html",
 	"pages": "1-16",
 	"publisher": "USENIX Association",
-	"stemmed": ["recov", "devic", "driver", "award", "best", "paper"],
-	"tag": ["exclamation"],
+	"stemmed": [
+		"recov",
+		"devic",
+		"driver",
+		"award",
+		"best",
+		"paper"
+	],
+	"tag": [
+		"exclamation"
+	],
 	"title": "Recovering Device Drivers (Awarded Best Paper!)",
 	"type": "inproceedings",
 	"venue": "OSDI",

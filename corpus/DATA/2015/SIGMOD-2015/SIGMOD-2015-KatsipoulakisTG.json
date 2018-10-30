@@ -1,6 +1,13 @@
 {
-	"author": ["Nick R. Katsipoulakis", "Cory Thoma", "Eric A. Gratta", "Alexandros Labrinidis", "Adam J. Lee", "Panos K. Chrysanthis"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Nick R. Katsipoulakis",
+		"Cory Thoma",
+		"Eric A. Gratta",
+		"Alexandros Labrinidis",
+		"Adam J. Lee",
+		"Panos K. Chrysanthis"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/KatsipoulakisTG15",
@@ -8,8 +15,20 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2735357",
 	"pages": "859-864",
 	"publisher": "ACM",
-	"stemmed": ["ce", "storm", "confidenti", "elast", "process", "of", "data", "stream"],
-	"tag": ["data type", "named"],
+	"stemmed": [
+		"ce",
+		"storm",
+		"confidenti",
+		"elast",
+		"process",
+		"of",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"data type",
+		"named"
+	],
 	"title": "CE-Storm: Confidential Elastic Processing of Data Streams",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

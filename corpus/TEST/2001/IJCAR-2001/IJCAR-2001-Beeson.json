@@ -1,6 +1,7 @@
 {
 	"author": "Michael Beeson",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the First International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2001",
 	"dblpkey": "conf/cade/Beeson01",
 	"doi": "10.1007/3-540-45744-5_23",
@@ -10,11 +11,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "second", "order", "theorem", "prover", "appli", "to", "circumscript"],
-	"tag": ["higher-order", "proving", "theorem proving"],
+	"stemmed": [
+		"a",
+		"second",
+		"order",
+		"theorem",
+		"prover",
+		"appli",
+		"to",
+		"circumscript"
+	],
+	"tag": [
+		"higher-order",
+		"proving",
+		"theorem proving"
+	],
 	"title": "A Second-Order Theorem Prover Applied to Circumscription",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 2083,
+	"volume": "2083",
 	"year": 2001
 }

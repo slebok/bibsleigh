@@ -1,6 +1,9 @@
 {
-	"author": ["Joaquín Arias", "Manuel Carro"],
-	"booktitle": "ICLP (Technical Communications)",
+	"author": [
+		"Joaquín Arias",
+		"Manuel Carro"
+	],
+	"booktitle": "Technical Communications of the 31st International Conference on Logic Programming",
 	"booktitleshort": "ICLP TC",
 	"crossref": "conf/iclp/2015tc",
 	"dblpkey": "conf/iclp/AriasC15",
@@ -8,11 +11,28 @@
 	"publisher": "CEUR-WS.org",
 	"series": "CEUR Workshop Proceedings",
 	"seriesshort": "CEUR",
-	"stemmed": ["toward", "a", "generic", "interfac", "to", "integr", "clp", "and", "tabl", "execut", "extend", "abstract"],
-	"tag": ["execution", "interface", "towards"],
+	"stemmed": [
+		"toward",
+		"a",
+		"generic",
+		"interfac",
+		"to",
+		"integr",
+		"clp",
+		"and",
+		"tabl",
+		"execut",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"execution",
+		"interface",
+		"towards"
+	],
 	"title": "Towards a Generic Interface to Integrate CLP and Tabled Execution (Extended Abstract)",
 	"type": "inproceedings",
 	"venue": "ICLP",
-	"volume": 1433,
+	"volume": "1433",
 	"year": 2015
 }

@@ -1,6 +1,12 @@
 {
-	"author": ["Marie Pelleau", "Antoine Miné", "Charlotte Truchet", "Frédéric Benhamou"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Marie Pelleau",
+		"Antoine Miné",
+		"Charlotte Truchet",
+		"Frédéric Benhamou"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2013",
 	"dblpkey": "conf/vmcai/PelleauMTB13",
 	"doi": "10.1007/978-3-642-35873-9_26",
@@ -10,11 +16,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "constraint", "solver", "base", "on", "abstract", "domain"],
-	"tag": ["abstract domain", "constraints", "theorem proving"],
+	"stemmed": [
+		"a",
+		"constraint",
+		"solver",
+		"base",
+		"on",
+		"abstract",
+		"domain"
+	],
+	"tag": [
+		"abstract domain",
+		"constraints",
+		"theorem proving"
+	],
 	"title": "A Constraint Solver Based on Abstract Domains",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 7737,
+	"volume": "7737",
 	"year": 2013
 }

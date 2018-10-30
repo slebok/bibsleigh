@@ -1,16 +1,46 @@
 {
-	"author": ["Philip A. Bernstein", "J. Richard Swenson", "Dennis Tsichritzis"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Philip A. Bernstein",
+		"J. Richard Swenson",
+		"Dennis Tsichritzis"
+	],
+	"booktitle": "Proceedings of the Fifth ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD75/P237.PDF",
-	"cite": ["conf/ifip/Armstrong74", "...", "journals/cacm/Codd70", "persons/Codd71a", "...", "...", "...", "...", "conf/focs/Sahni72", "conf/sigmod/SchmidS75", "..."],
+	"cite": [
+		"conf/ifip/Armstrong74",
+		"...",
+		"journals/cacm/Codd70",
+		"persons/Codd71a",
+		"...",
+		"...",
+		"...",
+		"...",
+		"conf/focs/Sahni72",
+		"conf/sigmod/SchmidS75",
+		"..."
+	],
 	"crossref": "conf/sigmod/75",
 	"dblpkey": "conf/sigmod/BernsteinST75",
 	"doi": "10.1145/500080.500112",
 	"ee": "http://doi.acm.org/10.1145/500080.500112",
 	"pages": "237-245",
 	"publisher": "ACM",
-	"stemmed": ["a", "unifi", "approach", "to", "function", "depend", "and", "relat"],
-	"tag": ["approach", "dependence", "functional"],
+	"stemmed": [
+		"a",
+		"unifi",
+		"approach",
+		"to",
+		"function",
+		"depend",
+		"and",
+		"relat"
+	],
+	"tag": [
+		"approach",
+		"dependence",
+		"functional"
+	],
 	"title": "A Unified Approach to Functional Dependencies and Relations",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

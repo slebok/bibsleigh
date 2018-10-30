@@ -1,6 +1,11 @@
 {
-	"author": ["Augusto Celentano", "Maria Grazia Fugini", "Silvano Pozzi"],
+	"author": [
+		"Augusto Celentano",
+		"Maria Grazia Fugini",
+		"Silvano Pozzi"
+	],
 	"booktitle": "Proceedings of the 14th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1991/P183.pdf",
 	"crossref": "conf/sigir/91",
 	"dblpkey": "conf/sigir/CelentanoFP91",
@@ -8,8 +13,18 @@
 	"ee": "http://doi.acm.org/10.1145/122860.122878",
 	"pages": "183-190",
 	"publisher": "ACM",
-	"stemmed": ["queri", "offic", "system", "about", "document", "role"],
-	"tag": ["documentation", "query"],
+	"stemmed": [
+		"queri",
+		"offic",
+		"system",
+		"about",
+		"document",
+		"role"
+	],
+	"tag": [
+		"documentation",
+		"query"
+	],
 	"title": "Querying Office Systems About Document Roles",
 	"type": "inproceedings",
 	"venue": "SIGIR",

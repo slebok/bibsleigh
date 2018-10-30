@@ -1,6 +1,12 @@
 {
-	"author": ["Yupeng Fu", "Keith Kowalczykowski", "Kian Win Ong", "Yannis Papakonstantinou", "Kevin Keliang Zhao"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yupeng Fu",
+		"Keith Kowalczykowski",
+		"Kian Win Ong",
+		"Yannis Papakonstantinou",
+		"Kevin Keliang Zhao"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/FuKOPZ10",
@@ -8,8 +14,19 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807229",
 	"pages": "567-578",
 	"publisher": "ACM",
-	"stemmed": ["ajax", "base", "report", "page", "as", "increment", "render", "view"],
-	"tag": ["incremental"],
+	"stemmed": [
+		"ajax",
+		"base",
+		"report",
+		"page",
+		"as",
+		"increment",
+		"render",
+		"view"
+	],
+	"tag": [
+		"incremental"
+	],
 	"title": "Ajax-based report pages as incrementally rendered views",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

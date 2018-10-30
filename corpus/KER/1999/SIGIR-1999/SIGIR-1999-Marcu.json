@@ -1,6 +1,7 @@
 {
 	"author": "Daniel Marcu",
 	"booktitle": "Proceedings of the 22nd International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1999/P137.pdf",
 	"crossref": "conf/sigir/99",
 	"dblpkey": "conf/sigir/Marcu99",
@@ -8,8 +9,25 @@
 	"ee": "http://doi.acm.org/10.1145/312624.312668",
 	"pages": "137-144",
 	"publisher": "ACM",
-	"stemmed": ["the", "automat", "construct", "of", "larg", "scale", "corpora", "for", "summar", "research"],
-	"tag": ["automation", "corpus", "research", "scalability", "summary"],
+	"stemmed": [
+		"the",
+		"automat",
+		"construct",
+		"of",
+		"larg",
+		"scale",
+		"corpora",
+		"for",
+		"summar",
+		"research"
+	],
+	"tag": [
+		"automation",
+		"corpus",
+		"research",
+		"scalability",
+		"summary"
+	],
 	"title": "The Automatic Construction of Large-Scale Corpora for Summarization Research",
 	"type": "inproceedings",
 	"venue": "SIGIR",

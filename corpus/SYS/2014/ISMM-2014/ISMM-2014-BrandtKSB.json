@@ -1,14 +1,33 @@
 {
-	"author": ["Steven R. Brandt", "Hari Krishnan", "Gokarna Sharma", "Costas Busch"],
-	"booktitle": "ISMM",
+	"author": [
+		"Steven R. Brandt",
+		"Hari Krishnan",
+		"Gokarna Sharma",
+		"Costas Busch"
+	],
+	"booktitle": "Proceedings of the 13th International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2014",
 	"dblpkey": "conf/iwmm/BrandtKSB14",
 	"doi": "10.1145/2602988.2602990",
 	"ee": "http://doi.acm.org/10.1145/2602988.2602990",
 	"pages": "47-58",
 	"publisher": "ACM",
-	"stemmed": ["concurr", "parallel", "garbag", "collect", "in", "linear", "time"],
-	"tag": ["concurrent", "garbage collection", "linear", "parallel"],
+	"stemmed": [
+		"concurr",
+		"parallel",
+		"garbag",
+		"collect",
+		"in",
+		"linear",
+		"time"
+	],
+	"tag": [
+		"concurrent",
+		"garbage collection",
+		"linear",
+		"parallel"
+	],
 	"title": "Concurrent, parallel garbage collection in linear time",
 	"type": "inproceedings",
 	"venue": "ISMM",

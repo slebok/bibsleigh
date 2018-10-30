@@ -1,13 +1,28 @@
 {
-	"author": ["Jens Nicolay", "Carlos Noguera", "Coen De Roover", "Wolfgang De Meuter"],
-	"booktitle": "SCAM",
+	"author": [
+		"Jens Nicolay",
+		"Carlos Noguera",
+		"Coen De Roover",
+		"Wolfgang De Meuter"
+	],
+	"booktitle": "Proceedings of the 15th International Working Conference on Source Code Analysis and Manipulation",
+	"booktitleshort": "SCAM",
 	"crossref": "conf/scam/2015",
 	"dblpkey": "conf/scam/NicolayNRM15",
 	"doi": "10.1109/SCAM.2015.7335406",
 	"pages": "101-110",
 	"publisher": "IEEE",
-	"stemmed": ["detect", "function", "puriti", "in", "javascript"],
-	"tag": ["detection", "javascript"],
+	"stemmed": [
+		"detect",
+		"function",
+		"puriti",
+		"in",
+		"javascript"
+	],
+	"tag": [
+		"detection",
+		"javascript"
+	],
 	"title": "Detecting function purity in JavaScript",
 	"type": "inproceedings",
 	"venue": "SCAM",

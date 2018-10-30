@@ -1,13 +1,25 @@
 {
-	"author": ["Guy M. Lohman", "Sam Lightstone"],
-	"booktitle": "VLDB",
+	"author": [
+		"Guy M. Lohman",
+		"Sam Lightstone"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/LohmanL02",
 	"ee": "http://www.vldb.org/conf/2002/S25P02.pdf",
 	"pages": "877-879",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["smart", "make", "db", "more", "autonom"],
-	"tag": ["named"],
+	"stemmed": [
+		"smart",
+		"make",
+		"db",
+		"more",
+		"autonom"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "SMART: Making DB2 (More) Autonomic",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,11 @@
 {
-	"author": ["Mark Stephenson", "Lixin Zhang", "Ram Rangan"],
-	"booktitle": "HPCA",
+	"author": [
+		"Mark Stephenson",
+		"Lixin Zhang",
+		"Ram Rangan"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2009",
 	"dblpkey": "conf/hpca/StephensonZR09",
 	"doi": "10.1109/HPCA.2009.4798255",
@@ -8,8 +13,20 @@
 	"pages": "201-212",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["lightweight", "predic", "support", "for", "out", "of", "order", "processor"],
-	"tag": ["lightweight", "order"],
+	"stemmed": [
+		"lightweight",
+		"predic",
+		"support",
+		"for",
+		"out",
+		"of",
+		"order",
+		"processor"
+	],
+	"tag": [
+		"lightweight",
+		"order"
+	],
 	"title": "Lightweight predication support for out of order processors",
 	"type": "inproceedings",
 	"venue": "HPCA",

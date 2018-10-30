@@ -1,6 +1,10 @@
 {
-	"author": ["Peter Baumgartner", "Ulrich Furbach"],
-	"booktitle": "CADE",
+	"author": [
+		"Peter Baumgartner",
+		"Ulrich Furbach"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/BaumgartnerF94",
 	"doi": "10.1007/3-540-58156-1_7",
@@ -10,10 +14,15 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["model", "elimin", "without", "contraposit"],
+	"stemmed": [
+		"model",
+		"elimin",
+		"without",
+		"contraposit"
+	],
 	"title": "Model Elimination Without Contrapositives",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

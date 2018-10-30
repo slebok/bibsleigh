@@ -1,14 +1,37 @@
 {
-	"author": ["Bin Zhou", "Daxin Jiang", "Jian Pei", "Hang Li"],
-	"booktitle": "KDD",
+	"author": [
+		"Bin Zhou",
+		"Daxin Jiang",
+		"Jian Pei",
+		"Hang Li"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/ZhouJPL09",
 	"doi": "10.1145/1557019.1557168",
 	"ee": "http://doi.acm.org/10.1145/1557019.1557168",
 	"pages": "1395-1404",
 	"publisher": "ACM",
-	"stemmed": ["olap", "on", "search", "log", "an", "infrastructur", "support", "data", "driven", "applic", "in", "search", "engin"],
-	"tag": ["data-driven", "framework"],
+	"stemmed": [
+		"olap",
+		"on",
+		"search",
+		"log",
+		"an",
+		"infrastructur",
+		"support",
+		"data",
+		"driven",
+		"applic",
+		"in",
+		"search",
+		"engin"
+	],
+	"tag": [
+		"data-driven",
+		"framework"
+	],
 	"title": "OLAP on search logs: an infrastructure supporting data-driven applications in search engines",
 	"type": "inproceedings",
 	"venue": "KDD",

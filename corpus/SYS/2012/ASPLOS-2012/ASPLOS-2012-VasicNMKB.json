@@ -1,14 +1,33 @@
 {
-	"author": ["Nedeljko Vasic", "Dejan M. Novakovic", "Svetozar Miucin", "Dejan Kostic", "Ricardo Bianchini"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Nedeljko Vasic",
+		"Dejan M. Novakovic",
+		"Svetozar Miucin",
+		"Dejan Kostic",
+		"Ricardo Bianchini"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2012",
 	"dblpkey": "conf/asplos/VasicNMKB12",
 	"doi": "10.1145/2150976.2151021",
 	"ee": "http://doi.acm.org/10.1145/2150976.2151021",
 	"pages": "423-436",
 	"publisher": "ACM",
-	"stemmed": ["deja", "vu", "acceler", "resourc", "alloc", "in", "virtual", "environ"],
-	"tag": ["named", "resource management"],
+	"stemmed": [
+		"deja",
+		"vu",
+		"acceler",
+		"resourc",
+		"alloc",
+		"in",
+		"virtual",
+		"environ"
+	],
+	"tag": [
+		"named",
+		"resource management"
+	],
 	"title": "DejaVu: accelerating resource allocation in virtualized environments",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

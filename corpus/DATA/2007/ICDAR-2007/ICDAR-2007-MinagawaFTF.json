@@ -1,6 +1,12 @@
 {
-	"author": ["Akihiro Minagawa", "Yusaku Fujii", "Hiroaki Takebe", "Katsuhito Fujimoto"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Akihiro Minagawa",
+		"Yusaku Fujii",
+		"Hiroaki Takebe",
+		"Katsuhito Fujimoto"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/MinagawaFTF07",
 	"doi": "10.1109/ICDAR.2007.162",
@@ -8,8 +14,26 @@
 	"pages": "714-718",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["logic", "structur", "analysi", "for", "form", "imag", "with", "arbitrari", "layout", "by", "belief", "propag"],
-	"tag": ["analysis", "image", "layout", "logic"],
+	"stemmed": [
+		"logic",
+		"structur",
+		"analysi",
+		"for",
+		"form",
+		"imag",
+		"with",
+		"arbitrari",
+		"layout",
+		"by",
+		"belief",
+		"propag"
+	],
+	"tag": [
+		"analysis",
+		"image",
+		"layout",
+		"logic"
+	],
 	"title": "Logical Structure Analysis for Form Images with Arbitrary Layout by Belief Propagation",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,6 +1,11 @@
 {
-	"author": ["Cheng Long", "Raymond Chi-Wing Wong", "Philip S. Yu", "Minhao Jiang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Cheng Long",
+		"Raymond Chi-Wing Wong",
+		"Philip S. Yu",
+		"Minhao Jiang"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/LongWYJ13",
@@ -8,8 +13,17 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465321",
 	"pages": "845-856",
 	"publisher": "ACM",
-	"stemmed": ["on", "optim", "worst", "case", "match"],
-	"tag": ["on the", "worst-case"],
+	"stemmed": [
+		"on",
+		"optim",
+		"worst",
+		"case",
+		"match"
+	],
+	"tag": [
+		"on the",
+		"worst-case"
+	],
 	"title": "On optimal worst-case matching",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

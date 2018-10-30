@@ -1,6 +1,7 @@
 {
 	"author": "Mark E. Stickel",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/Stickel88",
 	"doi": "10.1007/BFb0012880",
@@ -10,11 +11,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "klaus", "autom", "deduct", "system"],
-	"tag": ["automation", "deduction"],
+	"stemmed": [
+		"the",
+		"klaus",
+		"autom",
+		"deduct",
+		"system"
+	],
+	"tag": [
+		"automation",
+		"deduction"
+	],
 	"title": "The KLAUS Automated Deduction System",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

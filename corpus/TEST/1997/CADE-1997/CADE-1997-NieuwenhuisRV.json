@@ -1,6 +1,11 @@
 {
-	"author": ["Robert Nieuwenhuis", "José Miguel Rivero", "Miguel Ángel Vallejo"],
-	"booktitle": "CADE",
+	"author": [
+		"Robert Nieuwenhuis",
+		"José Miguel Rivero",
+		"Miguel Ángel Vallejo"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
 	"dblpkey": "conf/cade/NieuwenhuisRV97",
 	"doi": "10.1007/3-540-63104-6_5",
@@ -10,11 +15,34 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["dedan", "a", "kernel", "of", "data", "structur", "and", "algorithm", "for", "autom", "deduct", "with", "equal", "claus"],
-	"tag": ["algorithm", "automation", "data type", "deduction", "kernel", "named", "similarity"],
+	"stemmed": [
+		"dedan",
+		"a",
+		"kernel",
+		"of",
+		"data",
+		"structur",
+		"and",
+		"algorithm",
+		"for",
+		"autom",
+		"deduct",
+		"with",
+		"equal",
+		"claus"
+	],
+	"tag": [
+		"algorithm",
+		"automation",
+		"data type",
+		"deduction",
+		"kernel",
+		"named",
+		"similarity"
+	],
 	"title": "Dedan: A Kernel of Data Structures and Algorithms for Automated Deduction with Equality Clauses",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1249,
+	"volume": "1249",
 	"year": 1997
 }

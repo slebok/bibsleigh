@@ -1,14 +1,38 @@
 {
 	"author": "Edward Omiecinski",
-	"booktitle": "VLDB",
-	"cite": ["journals/tods/Batory82", "...", "journals/tods/BriceS77", "books/fm/GareyJ79", "...", "journals/siamcomp/RosenkrantzSL77", "journals/is/ScheuermannO82", "...", "journals/csur/SockutG79", "conf/vldb/Soderlund81", "journals/cacm/Stonebraker81", "...", "...", "journals/tods/YaoDT76", "journals/tods/YuSLS85"],
+	"booktitle": "Proceedings of the 11th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/tods/Batory82",
+		"...",
+		"journals/tods/BriceS77",
+		"books/fm/GareyJ79",
+		"...",
+		"journals/siamcomp/RosenkrantzSL77",
+		"journals/is/ScheuermannO82",
+		"...",
+		"journals/csur/SockutG79",
+		"conf/vldb/Soderlund81",
+		"journals/cacm/Stonebraker81",
+		"...",
+		"...",
+		"journals/tods/YaoDT76",
+		"journals/tods/YuSLS85"
+	],
 	"crossref": "conf/vldb/85",
 	"dblpkey": "conf/vldb/Omiecinski85",
 	"ee": "http://www.vldb.org/conf/1985/P346.PDF",
 	"pages": "346-357",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["increment", "file", "reorgan", "scheme"],
-	"tag": ["incremental"],
+	"stemmed": [
+		"increment",
+		"file",
+		"reorgan",
+		"scheme"
+	],
+	"tag": [
+		"incremental"
+	],
 	"title": "Incremental File Reorganization Schemes",
 	"type": "inproceedings",
 	"venue": "VLDB",

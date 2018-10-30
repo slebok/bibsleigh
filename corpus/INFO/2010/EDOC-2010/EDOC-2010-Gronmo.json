@@ -1,15 +1,33 @@
 {
 	"author": "Roy Grønmo",
-	"booktitle": "EDOC",
+	"booktitle": "Proceedings of the 14th International Enterprise Distributed Object Computing Conference",
+	"booktitleshort": "EDOC",
 	"crossref": "conf/edoc/2010",
 	"dblpkey": "conf/edoc/Gronmo10",
 	"doi": "10.1109/EDOC.2010.31",
-	"ee": ["http://dx.doi.org/10.1109/EDOC.2010.31", "http://doi.ieeecomputersociety.org/10.1109/EDOC.2010.31"],
+	"ee": [
+		"http://dx.doi.org/10.1109/EDOC.2010.31",
+		"http://doi.ieeecomputersociety.org/10.1109/EDOC.2010.31"
+	],
 	"pages": "153-162",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["can", "graph", "transform", "make", "aspect", "languag", "for", "bpel", "redund"],
-	"tag": ["aspect-oriented", "graph transformation", "question"],
+	"stemmed": [
+		"can",
+		"graph",
+		"transform",
+		"make",
+		"aspect",
+		"languag",
+		"for",
+		"bpel",
+		"redund"
+	],
+	"tag": [
+		"aspect-oriented",
+		"graph transformation",
+		"question"
+	],
 	"title": "Can Graph Transformation Make Aspect Languages for BPEL Redundant?",
 	"type": "inproceedings",
 	"venue": "EDOC",

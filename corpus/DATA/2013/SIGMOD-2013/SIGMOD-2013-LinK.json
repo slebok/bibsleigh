@@ -1,6 +1,9 @@
 {
-	"author": ["Bing-Rong Lin", "Daniel Kifer"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Bing-Rong Lin",
+		"Daniel Kifer"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/LinK13",
@@ -8,8 +11,24 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2463721",
 	"pages": "677-688",
 	"publisher": "ACM",
-	"stemmed": ["inform", "preserv", "in", "statist", "privaci", "and", "bayesian", "estim", "of", "unattribut", "histogram"],
-	"tag": ["estimation", "privacy", "statistics"],
+	"stemmed": [
+		"inform",
+		"preserv",
+		"in",
+		"statist",
+		"privaci",
+		"and",
+		"bayesian",
+		"estim",
+		"of",
+		"unattribut",
+		"histogram"
+	],
+	"tag": [
+		"estimation",
+		"privacy",
+		"statistics"
+	],
 	"title": "Information preservation in statistical privacy and bayesian estimation of unattributed histograms",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

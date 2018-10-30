@@ -1,14 +1,35 @@
 {
-	"author": ["Chenhao Tan", "Jie Tang", "Jimeng Sun", "Quan Lin", "Fengjiao Wang"],
-	"booktitle": "KDD",
+	"author": [
+		"Chenhao Tan",
+		"Jie Tang",
+		"Jimeng Sun",
+		"Quan Lin",
+		"Fengjiao Wang"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/TanTSLW10",
 	"doi": "10.1145/1835804.1835936",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835936",
 	"pages": "1049-1058",
 	"publisher": "ACM",
-	"stemmed": ["social", "action", "track", "via", "nois", "toler", "time", "vari", "factor", "graph"],
-	"tag": ["graph", "social"],
+	"stemmed": [
+		"social",
+		"action",
+		"track",
+		"via",
+		"nois",
+		"toler",
+		"time",
+		"vari",
+		"factor",
+		"graph"
+	],
+	"tag": [
+		"graph",
+		"social"
+	],
 	"title": "Social action tracking via noise tolerant time-varying factor graphs",
 	"type": "inproceedings",
 	"venue": "KDD",

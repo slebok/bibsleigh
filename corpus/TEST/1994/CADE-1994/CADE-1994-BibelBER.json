@@ -1,6 +1,12 @@
 {
-	"author": ["Wolfgang Bibel", "Stefan Brüning", "Uwe Egly", "Thomas Rath"],
-	"booktitle": "CADE",
+	"author": [
+		"Wolfgang Bibel",
+		"Stefan Brüning",
+		"Uwe Egly",
+		"Thomas Rath"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/BibelBER94",
 	"doi": "10.1007/3-540-58156-1_60",
@@ -10,10 +16,14 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["ko", "me", "t"],
+	"stemmed": [
+		"ko",
+		"me",
+		"t"
+	],
 	"title": "KoMeT",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

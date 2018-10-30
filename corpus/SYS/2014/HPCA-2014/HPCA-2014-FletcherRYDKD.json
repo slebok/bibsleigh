@@ -1,6 +1,14 @@
 {
-	"author": ["Christopher W. Fletcher", "Ling Ren", "Xiangyao Yu", "Marten van Dijk", "Omer Khan", "Srinivas Devadas"],
-	"booktitle": "HPCA",
+	"author": [
+		"Christopher W. Fletcher",
+		"Ling Ren",
+		"Xiangyao Yu",
+		"Marten van Dijk",
+		"Omer Khan",
+		"Srinivas Devadas"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/FletcherRYDKD14",
 	"doi": "10.1109/HPCA.2014.6835932",
@@ -8,8 +16,29 @@
 	"pages": "213-224",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["suppress", "the", "oblivi", "ram", "time", "channel", "while", "make", "inform", "leakag", "and", "program", "effici", "trade", "off"],
-	"tag": ["information management", "performance", "ram", "trade-off"],
+	"stemmed": [
+		"suppress",
+		"the",
+		"oblivi",
+		"ram",
+		"time",
+		"channel",
+		"while",
+		"make",
+		"inform",
+		"leakag",
+		"and",
+		"program",
+		"effici",
+		"trade",
+		"off"
+	],
+	"tag": [
+		"information management",
+		"performance",
+		"ram",
+		"trade-off"
+	],
 	"title": "Suppressing the Oblivious RAM timing channel while making information leakage and program efficiency trade-offs",
 	"type": "inproceedings",
 	"venue": "HPCA",

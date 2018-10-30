@@ -1,6 +1,10 @@
 {
-	"author": ["Rares Vernica", "Michael J. Carey", "Chen Li"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Rares Vernica",
+		"Michael J. Carey",
+		"Chen Li"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/VernicaCL10",
@@ -8,8 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807222",
 	"pages": "495-506",
 	"publisher": "ACM",
-	"stemmed": ["effici", "parallel", "set", "similar", "join", "use", "map", "reduc"],
-	"tag": ["parallel", "performance", "pipes and filters", "using"],
+	"stemmed": [
+		"effici",
+		"parallel",
+		"set",
+		"similar",
+		"join",
+		"use",
+		"map",
+		"reduc"
+	],
+	"tag": [
+		"parallel",
+		"performance",
+		"pipes and filters",
+		"using"
+	],
 	"title": "Efficient parallel set-similarity joins using MapReduce",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

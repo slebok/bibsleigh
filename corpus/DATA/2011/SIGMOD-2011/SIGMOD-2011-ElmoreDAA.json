@@ -1,6 +1,11 @@
 {
-	"author": ["Aaron J. Elmore", "Sudipto Das", "Divyakant Agrawal", "Amr El Abbadi"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Aaron J. Elmore",
+		"Sudipto Das",
+		"Divyakant Agrawal",
+		"Amr El Abbadi"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/ElmoreDAA11",
@@ -8,8 +13,24 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989356",
 	"pages": "301-312",
 	"publisher": "ACM",
-	"stemmed": ["zephyr", "live", "migrat", "in", "share", "noth", "databas", "for", "elast", "cloud", "platform"],
-	"tag": ["database", "migration", "named"],
+	"stemmed": [
+		"zephyr",
+		"live",
+		"migrat",
+		"in",
+		"share",
+		"noth",
+		"databas",
+		"for",
+		"elast",
+		"cloud",
+		"platform"
+	],
+	"tag": [
+		"database",
+		"migration",
+		"named"
+	],
 	"title": "Zephyr: live migration in shared nothing databases for elastic cloud platforms",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

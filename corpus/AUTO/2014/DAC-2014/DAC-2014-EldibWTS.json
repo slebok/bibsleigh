@@ -1,14 +1,36 @@
 {
-	"author": ["Hassan Eldib", "Chao Wang", "Mostafa M. I. Taha", "Patrick Schaumont"],
-	"booktitle": "DAC",
+	"author": [
+		"Hassan Eldib",
+		"Chao Wang",
+		"Mostafa M. I. Taha",
+		"Patrick Schaumont"
+	],
+	"booktitle": "Proceedings of the 51st Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2014",
 	"dblpkey": "conf/dac/EldibWTS14",
 	"doi": "10.1145/2593069.2593193",
 	"ee": "http://doi.acm.org/10.1145/2593069.2593193",
 	"pages": "209:1-209:6",
 	"publisher": "ACM",
-	"stemmed": ["qms", "evalu", "the", "side", "channel", "resist", "of", "mask", "softwar", "from", "sourc", "code"],
-	"tag": ["named", "source code"],
+	"stemmed": [
+		"qms",
+		"evalu",
+		"the",
+		"side",
+		"channel",
+		"resist",
+		"of",
+		"mask",
+		"softwar",
+		"from",
+		"sourc",
+		"code"
+	],
+	"tag": [
+		"named",
+		"source code"
+	],
 	"title": "QMS: Evaluating the Side-Channel Resistance of Masked Software from Source Code",
 	"type": "inproceedings",
 	"venue": "DAC",

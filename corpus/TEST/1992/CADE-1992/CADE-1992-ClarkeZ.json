@@ -1,6 +1,10 @@
 {
-	"author": ["Edmund M. Clarke", "Xudong Zhao"],
-	"booktitle": "CADE",
+	"author": [
+		"Edmund M. Clarke",
+		"Xudong Zhao"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/ClarkeZ92",
 	"doi": "10.1007/3-540-55602-8_220",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["analytica", "a", "theorem", "prover", "in", "mathematica"],
-	"tag": ["named", "proving", "theorem proving"],
+	"stemmed": [
+		"analytica",
+		"a",
+		"theorem",
+		"prover",
+		"in",
+		"mathematica"
+	],
+	"tag": [
+		"named",
+		"proving",
+		"theorem proving"
+	],
 	"title": "Analytica — A Theorem Prover in Mathematica",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

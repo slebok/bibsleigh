@@ -1,14 +1,35 @@
 {
-	"author": ["David Cunningham", "David Grove", "Benjamin Herta", "Arun Iyengar", "Kiyokuni Kawachiya", "Hiroki Murata", "Vijay A. Saraswat", "Mikio Takeuchi", "Olivier Tardieu"],
-	"booktitle": "PPOPP",
+	"author": [
+		"David Cunningham",
+		"David Grove",
+		"Benjamin Herta",
+		"Arun Iyengar",
+		"Kiyokuni Kawachiya",
+		"Hiroki Murata",
+		"Vijay A. Saraswat",
+		"Mikio Takeuchi",
+		"Olivier Tardieu"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/CunninghamGHIKMSTT14",
 	"doi": "10.1145/2555243.2555248",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555248",
 	"pages": "67-80",
 	"publisher": "ACM",
-	"stemmed": ["resili", "x", "effici", "failur", "awar", "program"],
-	"tag": ["performance", "programming"],
+	"stemmed": [
+		"resili",
+		"x",
+		"effici",
+		"failur",
+		"awar",
+		"program"
+	],
+	"tag": [
+		"performance",
+		"programming"
+	],
 	"title": "Resilient X10: efficient failure-aware programming",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,15 +1,38 @@
 {
-	"author": ["Colby Ranger", "Ramanan Raghuraman", "Arun Penmetsa", "Gary R. Bradski", "Christos Kozyrakis"],
-	"booktitle": "HPCA",
+	"author": [
+		"Colby Ranger",
+		"Ramanan Raghuraman",
+		"Arun Penmetsa",
+		"Gary R. Bradski",
+		"Christos Kozyrakis"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2007",
 	"dblpkey": "conf/hpca/RangerRPBK07",
 	"doi": "10.1109/HPCA.2007.346181",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2007.346181", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2007.346181"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2007.346181",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2007.346181"
+	],
 	"pages": "13-24",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["evalu", "map", "reduc", "for", "multi", "core", "and", "multiprocessor", "system"],
-	"tag": ["manycore", "pipes and filters"],
+	"stemmed": [
+		"evalu",
+		"map",
+		"reduc",
+		"for",
+		"multi",
+		"core",
+		"and",
+		"multiprocessor",
+		"system"
+	],
+	"tag": [
+		"manycore",
+		"pipes and filters"
+	],
 	"title": "Evaluating MapReduce for Multi-core and Multiprocessor Systems",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,14 +1,31 @@
 {
-	"author": ["Roland Lezuo", "Philipp Paulweber", "Andreas Krall"],
-	"booktitle": "LCTES",
+	"author": [
+		"Roland Lezuo",
+		"Philipp Paulweber",
+		"Andreas Krall"
+	],
+	"booktitle": "Proceedings of the 15th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2014",
 	"dblpkey": "conf/lctrts/LezuoPK14",
 	"doi": "10.1145/2597809.2597813",
 	"ee": "http://doi.acm.org/10.1145/2597809.2597813",
 	"pages": "13-22",
 	"publisher": "ACM",
-	"stemmed": ["casm", "optim", "compil", "of", "abstract", "state", "machin"],
-	"tag": ["compilation", "named", "state machine"],
+	"stemmed": [
+		"casm",
+		"optim",
+		"compil",
+		"of",
+		"abstract",
+		"state",
+		"machin"
+	],
+	"tag": [
+		"compilation",
+		"named",
+		"state machine"
+	],
 	"title": "CASM: optimized compilation of abstract state machines",
 	"type": "inproceedings",
 	"venue": "LCTES",

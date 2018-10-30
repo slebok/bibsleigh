@@ -1,14 +1,34 @@
 {
-	"author": ["Tak-Kwong Ng", "S. Lennart Johnsson"],
-	"booktitle": "DAC",
+	"author": [
+		"Tak-Kwong Ng",
+		"S. Lennart Johnsson"
+	],
+	"booktitle": "Proceedings of the 22nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1985",
 	"dblpkey": "conf/dac/NgJ85",
 	"doi": "10.1145/317825.317831",
 	"ee": "http://doi.acm.org/10.1145/317825.317831",
 	"pages": "39-45",
 	"publisher": "ACM",
-	"stemmed": ["generat", "of", "layout", "from", "mos", "circuit", "schemat", "a", "graph", "theoret", "approach"],
-	"tag": ["approach", "generative", "graph"],
+	"stemmed": [
+		"generat",
+		"of",
+		"layout",
+		"from",
+		"mos",
+		"circuit",
+		"schemat",
+		"a",
+		"graph",
+		"theoret",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"generative",
+		"graph"
+	],
 	"title": "Generation of layouts from MOS circuit schematics: a graph theoretic approach",
 	"type": "inproceedings",
 	"venue": "DAC",

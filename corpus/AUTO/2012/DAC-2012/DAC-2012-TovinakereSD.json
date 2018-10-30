@@ -1,14 +1,36 @@
 {
-	"author": ["Vivek D. Tovinakere", "Olivier Sentieys", "Steven Derrien"],
-	"booktitle": "DAC",
+	"author": [
+		"Vivek D. Tovinakere",
+		"Olivier Sentieys",
+		"Steven Derrien"
+	],
+	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/TovinakereSD12",
 	"doi": "10.1145/2228360.2228371",
 	"ee": "http://doi.acm.org/10.1145/2228360.2228371",
 	"pages": "48-55",
 	"publisher": "ACM",
-	"stemmed": ["a", "semiempir", "model", "for", "wakeup", "time", "estim", "in", "power", "gate", "logic", "cluster"],
-	"tag": ["clustering", "estimation", "logic"],
+	"stemmed": [
+		"a",
+		"semiempir",
+		"model",
+		"for",
+		"wakeup",
+		"time",
+		"estim",
+		"in",
+		"power",
+		"gate",
+		"logic",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"estimation",
+		"logic"
+	],
 	"title": "A semiempirical model for wakeup time estimation in power-gated logic clusters",
 	"type": "inproceedings",
 	"venue": "DAC",

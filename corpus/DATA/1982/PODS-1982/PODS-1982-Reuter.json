@@ -1,16 +1,40 @@
 {
 	"author": "Andreas Reuter 0001",
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS82/P083.PDF", "journals/anthology/dvd1:text/1-3/PODS82/P083.PDF"],
-	"cite": ["conf/vldb/FussellKS81", "...", "conf/vldb/Gray81", "...", "journals/acta/CasanovaB80", "conf/icalp/Gray80", "journals/cacm/EswarranGLT76", "journals/tods/BayerHR80", "journals/tods/KungR81", "..."],
+	"booktitle": "Proceedings of the First Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS82/P083.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS82/P083.PDF"
+	],
+	"cite": [
+		"conf/vldb/FussellKS81",
+		"...",
+		"conf/vldb/Gray81",
+		"...",
+		"journals/acta/CasanovaB80",
+		"conf/icalp/Gray80",
+		"journals/cacm/EswarranGLT76",
+		"journals/tods/BayerHR80",
+		"journals/tods/KungR81",
+		"..."
+	],
 	"crossref": "conf/pods/82",
 	"dblpkey": "conf/pods/Reuter82",
 	"doi": "10.1145/588111.588126",
 	"ee": "http://doi.acm.org/10.1145/588111.588126",
 	"pages": "83-92",
 	"publisher": "ACM",
-	"stemmed": ["concurr", "on", "high", "trafic", "data", "element"],
-	"tag": ["concurrent"],
+	"stemmed": [
+		"concurr",
+		"on",
+		"high",
+		"trafic",
+		"data",
+		"element"
+	],
+	"tag": [
+		"concurrent"
+	],
 	"title": "Concurrency on High-trafic Data Elements",
 	"type": "inproceedings",
 	"venue": "PODS",

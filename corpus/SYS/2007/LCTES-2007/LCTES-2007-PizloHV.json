@@ -1,14 +1,28 @@
 {
-	"author": ["Filip Pizlo", "Antony L. Hosking", "Jan Vitek"],
-	"booktitle": "LCTES",
+	"author": [
+		"Filip Pizlo",
+		"Antony L. Hosking",
+		"Jan Vitek"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2007",
 	"dblpkey": "conf/lctrts/PizloHV07",
 	"doi": "10.1145/1254766.1254784",
 	"ee": "http://doi.acm.org/10.1145/1254766.1254784",
 	"pages": "123-133",
 	"publisher": "ACM",
-	"stemmed": ["hierarch", "real", "time", "garbag", "collect"],
-	"tag": ["garbage collection", "realtime"],
+	"stemmed": [
+		"hierarch",
+		"real",
+		"time",
+		"garbag",
+		"collect"
+	],
+	"tag": [
+		"garbage collection",
+		"realtime"
+	],
 	"title": "Hierarchical real-time garbage collection",
 	"type": "inproceedings",
 	"venue": "LCTES",

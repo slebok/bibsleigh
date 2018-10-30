@@ -1,14 +1,36 @@
 {
-	"author": ["Ding Ye", "Yulei Sui", "Jingling Xue"],
-	"booktitle": "CGO",
+	"author": [
+		"Ding Ye",
+		"Yulei Sui",
+		"Jingling Xue"
+	],
+	"booktitle": "Proceedings of the 12th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2014",
 	"dblpkey": "conf/cgo/YeSX14",
 	"doi": "10.1145/2544137.2544154",
 	"ee": "http://doi.acm.org/10.1145/2544137.2544154",
-	"pages": 154,
+	"pages": "154",
 	"publisher": "ACM",
-	"stemmed": ["acceler", "dynam", "detect", "of", "use", "of", "undefin", "valu", "with", "static", "valu", "flow", "analysi"],
-	"tag": ["analysis", "detection"],
+	"stemmed": [
+		"acceler",
+		"dynam",
+		"detect",
+		"of",
+		"use",
+		"of",
+		"undefin",
+		"valu",
+		"with",
+		"static",
+		"valu",
+		"flow",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"detection"
+	],
 	"title": "Accelerating Dynamic Detection of Uses of Undefined Values with Static Value-Flow Analysis",
 	"type": "inproceedings",
 	"venue": "CGO",

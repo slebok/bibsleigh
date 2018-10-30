@@ -1,6 +1,7 @@
 {
 	"author": "Kewen Wang",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the First International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2001",
 	"dblpkey": "conf/cade/Wang01",
 	"doi": "10.1007/3-540-45744-5_22",
@@ -10,11 +11,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "top", "down", "procedur", "for", "disjunct", "well", "found", "semant"],
-	"tag": ["semantics", "top-down"],
+	"stemmed": [
+		"a",
+		"top",
+		"down",
+		"procedur",
+		"for",
+		"disjunct",
+		"well",
+		"found",
+		"semant"
+	],
+	"tag": [
+		"semantics",
+		"top-down"
+	],
 	"title": "A Top-Down Procedure for Disjunctive Well-Founded Semantics",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 2083,
+	"volume": "2083",
 	"year": 2001
 }

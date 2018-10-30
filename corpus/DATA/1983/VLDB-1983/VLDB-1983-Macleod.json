@@ -1,14 +1,39 @@
 {
 	"author": "Ian A. Macleod",
-	"booktitle": "VLDB",
-	"cite": ["...", "conf/sigmod/ChamberlinB74", "journals/tods/Codd79", "...", "...", "journals/is/Macleod81", "...", "...", "...", "conf/vldb/SchekP82", "journals/tois/StonebrakerSLKG83", "journals/tois/TsichritzisC83", "conf/vldb/Tsichritzis81", "journals/ibmsj/Zloof77"],
+	"booktitle": "Proceedings of the Ninth International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"conf/sigmod/ChamberlinB74",
+		"journals/tods/Codd79",
+		"...",
+		"...",
+		"journals/is/Macleod81",
+		"...",
+		"...",
+		"...",
+		"conf/vldb/SchekP82",
+		"journals/tois/StonebrakerSLKG83",
+		"journals/tois/TsichritzisC83",
+		"conf/vldb/Tsichritzis81",
+		"journals/ibmsj/Zloof77"
+	],
 	"crossref": "conf/vldb/83",
 	"dblpkey": "conf/vldb/Macleod83",
 	"ee": "http://www.vldb.org/conf/1983/P280.PDF",
 	"pages": "280-289",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["a", "model", "for", "integr", "inform", "system"],
-	"tag": ["information management"],
+	"stemmed": [
+		"a",
+		"model",
+		"for",
+		"integr",
+		"inform",
+		"system"
+	],
+	"tag": [
+		"information management"
+	],
 	"title": "A Model for Integrated Information Systems",
 	"type": "inproceedings",
 	"venue": "VLDB",

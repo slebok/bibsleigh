@@ -1,6 +1,14 @@
 {
-	"author": ["Regis Pires Magalhães", "José Maria Monteiro", "Vânia Maria P. Vidal", "José Antônio Fernandes de Macêdo", "Macedo Maia", "Fabio Porto", "Marco A. Casanova"],
-	"booktitle": "ICEIS (1)",
+	"author": [
+		"Regis Pires Magalhães",
+		"José Maria Monteiro",
+		"Vânia Maria P. Vidal",
+		"José Antônio Fernandes de Macêdo",
+		"Macedo Maia",
+		"Fabio Porto",
+		"Marco A. Casanova"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Enterprise Information Systems, Volume 1",
 	"booktitleshort": "ICEIS v1",
 	"crossref": "conf/iceis/2013-1",
 	"dblpkey": "conf/iceis/MagalhaesMVMMPC13",
@@ -8,8 +16,27 @@
 	"ee": "http://dx.doi.org/10.5220/0004443401850192",
 	"pages": "185-192",
 	"publisher": "SciTePress",
-	"stemmed": ["qef", "ld", "a", "queri", "engin", "for", "distribut", "queri", "process", "on", "link", "data"],
-	"tag": ["distributed", "linked data", "named", "open data", "query"],
+	"stemmed": [
+		"qef",
+		"ld",
+		"a",
+		"queri",
+		"engin",
+		"for",
+		"distribut",
+		"queri",
+		"process",
+		"on",
+		"link",
+		"data"
+	],
+	"tag": [
+		"distributed",
+		"linked data",
+		"named",
+		"open data",
+		"query"
+	],
 	"title": "QEF-LD — A Query Engine for Distributed Query Processing on Linked Data",
 	"type": "inproceedings",
 	"venue": "ICEIS",

@@ -1,6 +1,11 @@
 {
-	"author": ["Kijung Shin", "Jinhong Jung", "Lee Sael", "U. Kang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Kijung Shin",
+		"Jinhong Jung",
+		"Lee Sael",
+		"U. Kang"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/ShinJSK15",
@@ -8,8 +13,27 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2723716",
 	"pages": "1571-1585",
 	"publisher": "ACM",
-	"stemmed": ["bear", "block", "elimin", "approach", "for", "random", "walk", "with", "restart", "on", "larg", "graph"],
-	"tag": ["approach", "graph", "named", "random", "scalability"],
+	"stemmed": [
+		"bear",
+		"block",
+		"elimin",
+		"approach",
+		"for",
+		"random",
+		"walk",
+		"with",
+		"restart",
+		"on",
+		"larg",
+		"graph"
+	],
+	"tag": [
+		"approach",
+		"graph",
+		"named",
+		"random",
+		"scalability"
+	],
 	"title": "BEAR: Block Elimination Approach for Random Walk with Restart on Large Graphs",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

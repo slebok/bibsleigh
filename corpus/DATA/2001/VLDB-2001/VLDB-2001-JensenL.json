@@ -1,13 +1,26 @@
 {
-	"author": ["Christian S. Jensen", "David B. Lomet"],
-	"booktitle": "VLDB",
+	"author": [
+		"Christian S. Jensen",
+		"David B. Lomet"
+	],
+	"booktitle": "Proceedings of the 27th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2001",
 	"dblpkey": "conf/vldb/JensenL01",
 	"ee": "http://www.vldb.org/conf/2001/P441.pdf",
 	"pages": "441-450",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["transact", "timestamp", "in", "tempor", "databas"],
-	"tag": ["database", "transaction"],
+	"stemmed": [
+		"transact",
+		"timestamp",
+		"in",
+		"tempor",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"transaction"
+	],
 	"title": "Transaction Timestamping in (Temporal) Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

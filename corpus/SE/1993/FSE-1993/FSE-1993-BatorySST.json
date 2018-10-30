@@ -1,7 +1,12 @@
 {
-	"author": ["Don S. Batory", "Vivek Singhal", "Marty Sirkin", "Jeff Thomas"],
+	"author": [
+		"Don S. Batory",
+		"Vivek Singhal",
+		"Marty Sirkin",
+		"Jeff Thomas"
+	],
 	"booktitle": "Proceedings of the First Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/1993",
 	"dblpkey": "conf/sigsoft/BatorySST93",
 	"doi": "10.1145/256428.167078",
@@ -9,8 +14,15 @@
 	"ee": "http://doi.acm.org/10.1145/256428.167078",
 	"pages": "191-199",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "softwar", "librari"],
-	"tag": ["library", "scalability"],
+	"stemmed": [
+		"scalabl",
+		"softwar",
+		"librari"
+	],
+	"tag": [
+		"library",
+		"scalability"
+	],
 	"title": "Scalable Software Libraries",
 	"type": "inproceedings",
 	"venue": "FSE",

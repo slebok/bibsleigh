@@ -1,6 +1,11 @@
 {
-	"author": ["Cecilia Magdalena Procopiuc", "Michael Jones", "Pankaj K. Agarwal", "T. M. Murali"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Cecilia Magdalena Procopiuc",
+		"Michael Jones",
+		"Pankaj K. Agarwal",
+		"T. M. Murali"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/ProcopiucJAM02",
@@ -8,8 +13,22 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564739",
 	"pages": "418-427",
 	"publisher": "ACM",
-	"stemmed": ["a", "mont", "carlo", "algorithm", "for", "fast", "project", "cluster"],
-	"tag": ["algorithm", "clustering", "monte carlo", "performance"],
+	"stemmed": [
+		"a",
+		"mont",
+		"carlo",
+		"algorithm",
+		"for",
+		"fast",
+		"project",
+		"cluster"
+	],
+	"tag": [
+		"algorithm",
+		"clustering",
+		"monte carlo",
+		"performance"
+	],
 	"title": "A Monte Carlo algorithm for fast projective clustering",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

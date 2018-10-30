@@ -1,6 +1,11 @@
 {
-	"author": ["Xia Lin", "Dagobert Soergel", "Gary Marchionini"],
+	"author": [
+		"Xia Lin",
+		"Dagobert Soergel",
+		"Gary Marchionini"
+	],
 	"booktitle": "Proceedings of the 14th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1991/P262.pdf",
 	"crossref": "conf/sigir/91",
 	"dblpkey": "conf/sigir/LinSM91",
@@ -8,8 +13,21 @@
 	"ee": "http://doi.acm.org/10.1145/122860.122887",
 	"pages": "262-269",
 	"publisher": "ACM",
-	"stemmed": ["a", "self", "organ", "semant", "map", "for", "inform", "retriev"],
-	"tag": ["information retrieval", "self", "semantics"],
+	"stemmed": [
+		"a",
+		"self",
+		"organ",
+		"semant",
+		"map",
+		"for",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"information retrieval",
+		"self",
+		"semantics"
+	],
 	"title": "A Self-Organizing Semantic Map for Information Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,6 +1,15 @@
 {
-	"author": ["Andrew Witkowski", "Srikanth Bellamkonda", "Tolga Bozkaya", "Gregory Dorman", "Nathan Folkert", "Abhinav Gupta", "Lei Sheng", "Sankar Subramanian"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Andrew Witkowski",
+		"Srikanth Bellamkonda",
+		"Tolga Bozkaya",
+		"Gregory Dorman",
+		"Nathan Folkert",
+		"Abhinav Gupta",
+		"Lei Sheng",
+		"Sankar Subramanian"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/WitkowskiBBDFGSS03",
@@ -9,8 +18,16 @@
 	"note": "Best Paper",
 	"pages": "52-63",
 	"publisher": "ACM",
-	"stemmed": ["spreadsheet", "in", "rdbms", "for", "olap"],
-	"tag": ["spreadsheet"],
+	"stemmed": [
+		"spreadsheet",
+		"in",
+		"rdbms",
+		"for",
+		"olap"
+	],
+	"tag": [
+		"spreadsheet"
+	],
 	"title": "Spreadsheets in RDBMS for OLAP",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,12 @@
 {
-	"author": ["Jürgen Avenhaus", "Ulrich Kühler", "Tobias Schmidt-Samoa", "Claus-Peter Wirth"],
-	"booktitle": "CADE",
+	"author": [
+		"Jürgen Avenhaus",
+		"Ulrich Kühler",
+		"Tobias Schmidt-Samoa",
+		"Claus-Peter Wirth"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2003",
 	"dblpkey": "conf/cade/AvenhausKSW03",
 	"doi": "10.1007/978-3-540-45085-6_29",
@@ -10,11 +16,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["how", "to", "prove", "induct", "theorem", "quodlibet"],
-	"tag": ["exclamation", "how", "induction", "theorem"],
+	"stemmed": [
+		"how",
+		"to",
+		"prove",
+		"induct",
+		"theorem",
+		"quodlibet"
+	],
+	"tag": [
+		"exclamation",
+		"how",
+		"induction",
+		"theorem"
+	],
 	"title": "How to Prove Inductive Theorems? QUODLIBET!",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2741,
+	"volume": "2741",
 	"year": 2003
 }

@@ -1,15 +1,43 @@
 {
-	"author": ["Cheng-Lin Liu", "Ryuji Mine", "Masashi Koga"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Cheng-Lin Liu",
+		"Ryuji Mine",
+		"Masashi Koga"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2005",
 	"dblpkey": "conf/icdar/LiuMK05",
 	"doi": "10.1109/ICDAR.2005.60",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2005.60", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.60"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2005.60",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.60"
+	],
 	"pages": "846-850",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["build", "compact", "classifi", "for", "larg", "charact", "set", "recognit", "use", "discrimin", "featur", "extract"],
-	"tag": ["classification", "feature model", "recognition", "scalability", "set", "using"],
+	"stemmed": [
+		"build",
+		"compact",
+		"classifi",
+		"for",
+		"larg",
+		"charact",
+		"set",
+		"recognit",
+		"use",
+		"discrimin",
+		"featur",
+		"extract"
+	],
+	"tag": [
+		"classification",
+		"feature model",
+		"recognition",
+		"scalability",
+		"set",
+		"using"
+	],
 	"title": "Building Compact Classifier for Large Character Set Recognition Using Discriminative Feature Extraction",
 	"type": "inproceedings",
 	"venue": "ICDAR",

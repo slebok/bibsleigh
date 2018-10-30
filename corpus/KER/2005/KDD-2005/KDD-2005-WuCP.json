@@ -1,14 +1,30 @@
 {
-	"author": ["Gang Wu", "Edward Y. Chang", "Navneet Panda"],
-	"booktitle": "KDD",
+	"author": [
+		"Gang Wu",
+		"Edward Y. Chang",
+		"Navneet Panda"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2005",
 	"dblpkey": "conf/kdd/WuCP05",
 	"doi": "10.1145/1081870.1081960",
 	"ee": "http://doi.acm.org/10.1145/1081870.1081960",
 	"pages": "703-709",
 	"publisher": "ACM",
-	"stemmed": ["formul", "distanc", "function", "via", "the", "kernel", "trick"],
-	"tag": ["distance", "kernel"],
+	"stemmed": [
+		"formul",
+		"distanc",
+		"function",
+		"via",
+		"the",
+		"kernel",
+		"trick"
+	],
+	"tag": [
+		"distance",
+		"kernel"
+	],
 	"title": "Formulating distance functions via the kernel trick",
 	"type": "inproceedings",
 	"venue": "KDD",

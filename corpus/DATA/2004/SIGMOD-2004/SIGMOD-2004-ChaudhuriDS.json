@@ -1,6 +1,10 @@
 {
-	"author": ["Surajit Chaudhuri", "Gautam Das", "Utkarsh Srivastava"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Surajit Chaudhuri",
+		"Gautam Das",
+		"Utkarsh Srivastava"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/ChaudhuriDS04",
@@ -8,8 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/1007568.1007602",
 	"pages": "287-298",
 	"publisher": "ACM",
-	"stemmed": ["effect", "use", "of", "block", "level", "sampl", "in", "statist", "estim"],
-	"tag": ["effectiveness", "estimation", "statistics"],
+	"stemmed": [
+		"effect",
+		"use",
+		"of",
+		"block",
+		"level",
+		"sampl",
+		"in",
+		"statist",
+		"estim"
+	],
+	"tag": [
+		"effectiveness",
+		"estimation",
+		"statistics"
+	],
 	"title": "Effective Use of Block-Level Sampling in Statistics Estimation",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

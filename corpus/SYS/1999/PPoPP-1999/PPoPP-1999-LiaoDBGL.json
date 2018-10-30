@@ -1,14 +1,32 @@
 {
-	"author": ["Shih-Wei Liao", "Amer Diwan", "Robert P. Bosch Jr.", "Anwar M. Ghuloum", "Monica S. Lam"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Shih-Wei Liao",
+		"Amer Diwan",
+		"Robert P. Bosch Jr.",
+		"Anwar M. Ghuloum",
+		"Monica S. Lam"
+	],
+	"booktitle": "Proceedings of the Seventh Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1999",
 	"dblpkey": "conf/ppopp/LiaoDBGL99",
 	"doi": "10.1145/301104.301108",
 	"ee": "http://doi.acm.org/10.1145/301104.301108",
 	"pages": "37-48",
 	"publisher": "ACM",
-	"stemmed": ["suif", "explor", "an", "interact", "and", "interprocedur", "parallel"],
-	"tag": ["interactive", "interprocedural"],
+	"stemmed": [
+		"suif",
+		"explor",
+		"an",
+		"interact",
+		"and",
+		"interprocedur",
+		"parallel"
+	],
+	"tag": [
+		"interactive",
+		"interprocedural"
+	],
 	"title": "SUIF Explorer: An Interactive and Interprocedural Parallelizer",
 	"type": "inproceedings",
 	"venue": "PPoPP",

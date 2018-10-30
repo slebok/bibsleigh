@@ -1,14 +1,33 @@
 {
-	"author": ["Fadi A. Aloul", "Arathi Ramani", "Igor L. Markov", "Karem A. Sakallah"],
-	"booktitle": "DAC",
+	"author": [
+		"Fadi A. Aloul",
+		"Arathi Ramani",
+		"Igor L. Markov",
+		"Karem A. Sakallah"
+	],
+	"booktitle": "Proceedings of the 39th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2002",
 	"dblpkey": "conf/dac/AloulRMS02",
 	"doi": "10.1145/513918.514102",
 	"ee": "http://doi.acm.org/10.1145/513918.514102",
 	"pages": "731-736",
 	"publisher": "ACM",
-	"stemmed": ["solv", "difficult", "sat", "instanc", "in", "the", "presenc", "of", "symmetri"],
-	"tag": ["satisfiability", "symmetry"],
+	"stemmed": [
+		"solv",
+		"difficult",
+		"sat",
+		"instanc",
+		"in",
+		"the",
+		"presenc",
+		"of",
+		"symmetri"
+	],
+	"tag": [
+		"satisfiability",
+		"symmetry"
+	],
 	"title": "Solving difficult SAT instances in the presence of symmetry",
 	"type": "inproceedings",
 	"venue": "DAC",

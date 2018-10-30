@@ -1,6 +1,12 @@
 {
-	"author": ["Zhewei Wei", "Ge Luo", "Ke Yi", "Xiaoyong Du", "Ji-Rong Wen"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Zhewei Wei",
+		"Ge Luo",
+		"Ke Yi",
+		"Xiaoyong Du",
+		"Ji-Rong Wen"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/WeiLYDW15",
@@ -8,8 +14,15 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2749443",
 	"pages": "795-810",
 	"publisher": "ACM",
-	"stemmed": ["persist", "data", "sketch"],
-	"tag": ["persistent", "sketching"],
+	"stemmed": [
+		"persist",
+		"data",
+		"sketch"
+	],
+	"tag": [
+		"persistent",
+		"sketching"
+	],
 	"title": "Persistent Data Sketching",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

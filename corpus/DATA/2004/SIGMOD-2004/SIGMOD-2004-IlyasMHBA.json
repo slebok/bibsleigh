@@ -1,6 +1,12 @@
 {
-	"author": ["Ihab F. Ilyas", "Volker Markl", "Peter J. Haas", "Paul Brown", "Ashraf Aboulnaga"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ihab F. Ilyas",
+		"Volker Markl",
+		"Peter J. Haas",
+		"Paul Brown",
+		"Ashraf Aboulnaga"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/IlyasMHBA04",
@@ -8,8 +14,24 @@
 	"ee": "http://doi.acm.org/10.1145/1007568.1007641",
 	"pages": "647-658",
 	"publisher": "ACM",
-	"stemmed": ["cord", "automat", "discoveri", "of", "correl", "and", "soft", "function", "depend"],
-	"tag": ["automation", "correlation", "dependence", "functional", "named"],
+	"stemmed": [
+		"cord",
+		"automat",
+		"discoveri",
+		"of",
+		"correl",
+		"and",
+		"soft",
+		"function",
+		"depend"
+	],
+	"tag": [
+		"automation",
+		"correlation",
+		"dependence",
+		"functional",
+		"named"
+	],
 	"title": "CORDS: Automatic Discovery of Correlations and Soft Functional Dependencies",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

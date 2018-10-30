@@ -1,14 +1,31 @@
 {
-	"author": ["Matthew R. Guthaus", "Dennis Sylvester", "Richard B. Brown"],
-	"booktitle": "DAC",
+	"author": [
+		"Matthew R. Guthaus",
+		"Dennis Sylvester",
+		"Richard B. Brown"
+	],
+	"booktitle": "Proceedings of the 43rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/GuthausSB06",
 	"doi": "10.1145/1146909.1147171",
 	"ee": "http://doi.acm.org/10.1145/1146909.1147171",
 	"pages": "1041-1046",
 	"publisher": "ACM",
-	"stemmed": ["clock", "buffer", "and", "wire", "size", "use", "sequenti", "program"],
-	"tag": ["programming", "using"],
+	"stemmed": [
+		"clock",
+		"buffer",
+		"and",
+		"wire",
+		"size",
+		"use",
+		"sequenti",
+		"program"
+	],
+	"tag": [
+		"programming",
+		"using"
+	],
 	"title": "Clock buffer and wire sizing using sequential programming",
 	"type": "inproceedings",
 	"venue": "DAC",

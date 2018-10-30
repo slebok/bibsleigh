@@ -1,14 +1,33 @@
 {
-	"author": ["Thanh Nga Dang", "Abhik Roychoudhury", "Tulika Mitra", "Prabhat Mishra"],
-	"booktitle": "DAC",
+	"author": [
+		"Thanh Nga Dang",
+		"Abhik Roychoudhury",
+		"Tulika Mitra",
+		"Prabhat Mishra"
+	],
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/DangRMM09",
 	"doi": "10.1145/1629911.1629953",
 	"ee": "http://doi.acm.org/10.1145/1629911.1629953",
 	"pages": "142-147",
 	"publisher": "ACM",
-	"stemmed": ["generat", "test", "program", "to", "cover", "pipelin", "interact"],
-	"tag": ["generative", "interactive", "pipes and filters", "source code"],
+	"stemmed": [
+		"generat",
+		"test",
+		"program",
+		"to",
+		"cover",
+		"pipelin",
+		"interact"
+	],
+	"tag": [
+		"generative",
+		"interactive",
+		"pipes and filters",
+		"source code"
+	],
 	"title": "Generating test programs to cover pipeline interactions",
 	"type": "inproceedings",
 	"venue": "DAC",

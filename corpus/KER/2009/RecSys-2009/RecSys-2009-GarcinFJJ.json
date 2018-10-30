@@ -1,14 +1,30 @@
 {
-	"author": ["Florent Garcin", "Boi Faltings", "Radu Jurca", "Nadine Joswig"],
-	"booktitle": "RecSys",
+	"author": [
+		"Florent Garcin",
+		"Boi Faltings",
+		"Radu Jurca",
+		"Nadine Joswig"
+	],
+	"booktitle": "Proceedings of the Third Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2009",
 	"dblpkey": "conf/recsys/GarcinFJJ09",
 	"doi": "10.1145/1639714.1639785",
 	"ee": "http://doi.acm.org/10.1145/1639714.1639785",
 	"pages": "349-352",
 	"publisher": "ACM",
-	"stemmed": ["rate", "aggreg", "in", "collabor", "filter", "system"],
-	"tag": ["collaboration", "rating"],
+	"stemmed": [
+		"rate",
+		"aggreg",
+		"in",
+		"collabor",
+		"filter",
+		"system"
+	],
+	"tag": [
+		"collaboration",
+		"rating"
+	],
 	"title": "Rating aggregation in collaborative filtering systems",
 	"type": "inproceedings",
 	"venue": "RecSys",

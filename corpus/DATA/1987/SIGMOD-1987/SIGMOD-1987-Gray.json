@@ -1,12 +1,24 @@
 {
 	"author": "Jim Gray",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 17th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD87/P004.PDF",
 	"crossref": "conf/sigmod/87",
 	"dblpkey": "conf/sigmod/Gray87",
-	"pages": 4,
-	"stemmed": ["oper", "system", "support", "for", "data", "manag", "system"],
-	"tag": ["data transformation", "operating system"],
+	"pages": "4",
+	"stemmed": [
+		"oper",
+		"system",
+		"support",
+		"for",
+		"data",
+		"manag",
+		"system"
+	],
+	"tag": [
+		"data transformation",
+		"operating system"
+	],
 	"title": "Operating System Support for Data Management Systems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

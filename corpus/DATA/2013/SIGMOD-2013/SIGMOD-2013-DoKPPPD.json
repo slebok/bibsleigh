@@ -1,6 +1,13 @@
 {
-	"author": ["Jaeyoung Do", "Yang-Suk Kee", "Jignesh M. Patel", "Chanik Park", "Kwanghyun Park", "David J. DeWitt"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jaeyoung Do",
+		"Yang-Suk Kee",
+		"Jignesh M. Patel",
+		"Chanik Park",
+		"Kwanghyun Park",
+		"David J. DeWitt"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/DoKPPPD13",
@@ -8,8 +15,20 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465295",
 	"pages": "1221-1230",
 	"publisher": "ACM",
-	"stemmed": ["queri", "process", "on", "smart", "ssds", "opportun", "and", "challeng"],
-	"tag": ["challenge", "query"],
+	"stemmed": [
+		"queri",
+		"process",
+		"on",
+		"smart",
+		"ssds",
+		"opportun",
+		"and",
+		"challeng"
+	],
+	"tag": [
+		"challenge",
+		"query"
+	],
 	"title": "Query processing on smart SSDs: opportunities and challenges",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

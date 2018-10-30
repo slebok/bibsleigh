@@ -1,14 +1,37 @@
 {
-	"author": ["Rajkishore Barik", "Rashid Kaleem", "Deepak Majeti", "Brian T. Lewis", "Tatiana Shpeisman", "Chunling Hu", "Yang Ni", "Ali-Reza Adl-Tabatabai"],
-	"booktitle": "CGO",
+	"author": [
+		"Rajkishore Barik",
+		"Rashid Kaleem",
+		"Deepak Majeti",
+		"Brian T. Lewis",
+		"Tatiana Shpeisman",
+		"Chunling Hu",
+		"Yang Ni",
+		"Ali-Reza Adl-Tabatabai"
+	],
+	"booktitle": "Proceedings of the 12th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2014",
 	"dblpkey": "conf/cgo/BarikKMLSHNA14",
 	"doi": "10.1145/2544137.2544165",
 	"ee": "http://doi.acm.org/10.1145/2544137.2544165",
-	"pages": 33,
+	"pages": "33",
 	"publisher": "ACM",
-	"stemmed": ["effici", "map", "of", "irregular", "c", "applic", "to", "integr", "gpus"],
-	"tag": ["c++", "performance"],
+	"stemmed": [
+		"effici",
+		"map",
+		"of",
+		"irregular",
+		"c",
+		"applic",
+		"to",
+		"integr",
+		"gpus"
+	],
+	"tag": [
+		"c++",
+		"performance"
+	],
 	"title": "Efficient Mapping of Irregular C++ Applications to Integrated GPUs",
 	"type": "inproceedings",
 	"venue": "CGO",

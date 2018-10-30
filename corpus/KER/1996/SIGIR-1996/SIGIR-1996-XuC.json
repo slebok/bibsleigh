@@ -1,6 +1,10 @@
 {
-	"author": ["Jinxi Xu", "W. Bruce Croft"],
+	"author": [
+		"Jinxi Xu",
+		"W. Bruce Croft"
+	],
 	"booktitle": "Proceedings of the 19th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1996/P004.pdf",
 	"crossref": "conf/sigir/96",
 	"dblpkey": "conf/sigir/XuC96",
@@ -8,8 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/243199.243202",
 	"pages": "4-11",
 	"publisher": "ACM",
-	"stemmed": ["queri", "expans", "use", "local", "and", "global", "document", "analysi"],
-	"tag": ["analysis", "documentation", "query", "using"],
+	"stemmed": [
+		"queri",
+		"expans",
+		"use",
+		"local",
+		"and",
+		"global",
+		"document",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"documentation",
+		"query",
+		"using"
+	],
 	"title": "Query Expansion Using Local and Global Document Analysis",
 	"type": "inproceedings",
 	"venue": "SIGIR",

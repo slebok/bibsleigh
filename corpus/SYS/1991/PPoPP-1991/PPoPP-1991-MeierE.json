@@ -1,14 +1,36 @@
 {
-	"author": ["Ulrike Meier", "Rudolf Eigenmann"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Ulrike Meier",
+		"Rudolf Eigenmann"
+	],
+	"booktitle": "Proceedings of the Third Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1991",
 	"dblpkey": "conf/ppopp/MeierE91",
 	"doi": "10.1145/109625.109644",
 	"ee": "http://doi.acm.org/10.1145/109625.109644",
 	"pages": "178-188",
 	"publisher": "ACM",
-	"stemmed": ["parallel", "and", "perform", "of", "conjug", "gradient", "algorithm", "on", "the", "cedar", "hierarch", "memori", "multiprocessor"],
-	"tag": ["algorithm", "parallel", "performance"],
+	"stemmed": [
+		"parallel",
+		"and",
+		"perform",
+		"of",
+		"conjug",
+		"gradient",
+		"algorithm",
+		"on",
+		"the",
+		"cedar",
+		"hierarch",
+		"memori",
+		"multiprocessor"
+	],
+	"tag": [
+		"algorithm",
+		"parallel",
+		"performance"
+	],
 	"title": "Parallelization and Performance of Conjugate Gradient Algorithms on the Cedar Hierarchical-Memory Multiprocessor",
 	"type": "inproceedings",
 	"venue": "PPoPP",

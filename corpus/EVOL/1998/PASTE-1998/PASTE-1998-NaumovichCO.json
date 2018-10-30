@@ -1,14 +1,35 @@
 {
-	"author": ["Gleb Naumovich", "Lori A. Clarke", "Leon J. Osterweil"],
-	"booktitle": "PASTE",
+	"author": [
+		"Gleb Naumovich",
+		"Lori A. Clarke",
+		"Leon J. Osterweil"
+	],
+	"booktitle": "Proceedings of the First Workshop on Program Analysis for Software Tools and Engineering",
+	"booktitleshort": "PASTE",
 	"crossref": "conf/paste/1998",
 	"dblpkey": "conf/paste/NaumovichCO98",
 	"doi": "10.1145/277631.277642",
 	"ee": "http://doi.acm.org/10.1145/277631.277642",
 	"pages": "51-58",
 	"publisher": "ACM",
-	"stemmed": ["effici", "composit", "data", "flow", "analysi", "appli", "to", "concurr", "program"],
-	"tag": ["analysis", "concurrent", "data flow", "performance", "source code"],
+	"stemmed": [
+		"effici",
+		"composit",
+		"data",
+		"flow",
+		"analysi",
+		"appli",
+		"to",
+		"concurr",
+		"program"
+	],
+	"tag": [
+		"analysis",
+		"concurrent",
+		"data flow",
+		"performance",
+		"source code"
+	],
 	"title": "Efficient Composite Data Flow Analysis Applied to Concurrent Programs",
 	"type": "inproceedings",
 	"venue": "PASTE",

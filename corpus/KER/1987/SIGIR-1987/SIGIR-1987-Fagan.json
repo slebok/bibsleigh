@@ -1,6 +1,7 @@
 {
 	"author": "Joel L. Fagan",
 	"booktitle": "Proceedings of the 10th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1987/P091.pdf",
 	"crossref": "conf/sigir/87",
 	"dblpkey": "conf/sigir/Fagan87",
@@ -8,8 +9,27 @@
 	"ee": "http://doi.acm.org/10.1145/42005.42016",
 	"pages": "91-101",
 	"publisher": "ACM",
-	"stemmed": ["automat", "phrase", "index", "for", "document", "retriev", "an", "examin", "of", "syntact", "and", "non", "syntact", "method"],
-	"tag": ["automation", "documentation", "retrieval"],
+	"stemmed": [
+		"automat",
+		"phrase",
+		"index",
+		"for",
+		"document",
+		"retriev",
+		"an",
+		"examin",
+		"of",
+		"syntact",
+		"and",
+		"non",
+		"syntact",
+		"method"
+	],
+	"tag": [
+		"automation",
+		"documentation",
+		"retrieval"
+	],
 	"title": "Automatic Phrase Indexing for Document Retrieval: An Examination of Syntactic and Non-Syntactic Methods",
 	"type": "inproceedings",
 	"venue": "SIGIR",

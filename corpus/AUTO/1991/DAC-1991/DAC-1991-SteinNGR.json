@@ -1,13 +1,33 @@
 {
-	"author": ["Alexander D. Stein", "Tuyen V. Nguyen", "Binay J. George", "Ronald A. Rohrer"],
-	"booktitle": "DAC",
+	"author": [
+		"Alexander D. Stein",
+		"Tuyen V. Nguyen",
+		"Binay J. George",
+		"Ronald A. Rohrer"
+	],
+	"booktitle": "Proceedings of the 28th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/SteinNGR91",
 	"doi": "10.1145/127601.127618",
 	"ee": "http://doi.acm.org/10.1145/127601.127618",
 	"pages": "26-31",
 	"publisher": "ACM",
-	"stemmed": ["adapt", "a", "digit", "transient", "simul", "strategi", "for", "integr", "circuit"],
-	"tag": ["adaptation", "named", "simulation"],
+	"stemmed": [
+		"adapt",
+		"a",
+		"digit",
+		"transient",
+		"simul",
+		"strategi",
+		"for",
+		"integr",
+		"circuit"
+	],
+	"tag": [
+		"adaptation",
+		"named",
+		"simulation"
+	],
 	"title": "ADAPTS: A Digital Transient Simulation Strategy for Integrated Circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,36 @@
 {
-	"author": ["Qiwen Liu", "Tianjian Chen", "Jing Cai", "Dianhai Yu"],
-	"booktitle": "RecSys",
+	"author": [
+		"Qiwen Liu",
+		"Tianjian Chen",
+		"Jing Cai",
+		"Dianhai Yu"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2012",
 	"dblpkey": "conf/recsys/LiuCCY12",
 	"doi": "10.1145/2365952.2366016",
 	"ee": "http://doi.acm.org/10.1145/2365952.2366016",
 	"pages": "285-288",
 	"publisher": "ACM",
-	"stemmed": ["enlist", "baidu", "s", "recommend", "system", "for", "the", "biggest", "chines", "q", "a", "websit"],
-	"tag": ["named", "recommendation"],
+	"stemmed": [
+		"enlist",
+		"baidu",
+		"s",
+		"recommend",
+		"system",
+		"for",
+		"the",
+		"biggest",
+		"chines",
+		"q",
+		"a",
+		"websit"
+	],
+	"tag": [
+		"named",
+		"recommendation"
+	],
 	"title": "Enlister: baidu’s recommender system for the biggest chinese Q&A website",
 	"type": "inproceedings",
 	"venue": "RecSys",

@@ -1,6 +1,11 @@
 {
-	"author": ["Eike Ritter", "David J. Pym", "Lincoln A. Wallen"],
-	"booktitle": "CADE",
+	"author": [
+		"Eike Ritter",
+		"David J. Pym",
+		"Lincoln A. Wallen"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/RitterPW96",
 	"doi": "10.1007/3-540-61511-3_66",
@@ -10,10 +15,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["proof", "term", "for", "classic", "and", "intuitionist", "resolut", "extend", "abstract"],
+	"stemmed": [
+		"proof",
+		"term",
+		"for",
+		"classic",
+		"and",
+		"intuitionist",
+		"resolut",
+		"extend",
+		"abstract"
+	],
 	"title": "Proof-Terms for Classical and Intuitionistic Resolution (Extended Abstract)",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

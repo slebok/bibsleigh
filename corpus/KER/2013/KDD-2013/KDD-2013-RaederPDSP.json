@@ -1,14 +1,33 @@
 {
-	"author": ["Troy Raeder", "Claudia Perlich", "Brian Dalessandro", "Ori Stitelman", "Foster J. Provost"],
-	"booktitle": "KDD",
+	"author": [
+		"Troy Raeder",
+		"Claudia Perlich",
+		"Brian Dalessandro",
+		"Ori Stitelman",
+		"Foster J. Provost"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/RaederPDSP13",
 	"doi": "10.1145/2487575.2488208",
 	"ee": "http://doi.acm.org/10.1145/2487575.2488208",
 	"pages": "1213-1221",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "supervis", "dimension", "reduct", "use", "cluster"],
-	"tag": ["clustering", "reduction", "scalability", "using"],
+	"stemmed": [
+		"scalabl",
+		"supervis",
+		"dimension",
+		"reduct",
+		"use",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"reduction",
+		"scalability",
+		"using"
+	],
 	"title": "Scalable supervised dimensionality reduction using clustering",
 	"type": "inproceedings",
 	"venue": "KDD",

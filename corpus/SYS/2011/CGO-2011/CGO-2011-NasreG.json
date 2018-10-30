@@ -1,16 +1,39 @@
 {
-	"acmid": 2190073,
-	"author": ["Rupesh Nasre", "Ramaswamy Govindarajan"],
-	"booktitle": "CGO",
+	"acmid": "2190073",
+	"author": [
+		"Rupesh Nasre",
+		"Ramaswamy Govindarajan"
+	],
+	"booktitle": "Proceedings of the Ninth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2011",
 	"dblpkey": "conf/cgo/NasreG11",
 	"doi": "10.1109/CGO.2011.5764694",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2011.5764694", "http://doi.ieeecomputersociety.org/10.1109/CGO.2011.5764694", "http://dl.acm.org/citation.cfm?id=2190073"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2011.5764694",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2011.5764694",
+		"http://dl.acm.org/citation.cfm?id=2190073"
+	],
 	"pages": "267-276",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["priorit", "constraint", "evalu", "for", "effici", "point", "to", "analysi"],
-	"tag": ["analysis", "constraints", "evaluation", "performance", "points-to"],
+	"stemmed": [
+		"priorit",
+		"constraint",
+		"evalu",
+		"for",
+		"effici",
+		"point",
+		"to",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"constraints",
+		"evaluation",
+		"performance",
+		"points-to"
+	],
 	"title": "Prioritizing constraint evaluation for efficient points-to analysis",
 	"type": "inproceedings",
 	"venue": "CGO",

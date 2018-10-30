@@ -1,6 +1,12 @@
 {
-	"author": ["J. W. J. M. Rutten", "Michel R. C. M. Berkelaar", "C. A. J. van Eijk", "M. A. J. Kolsteren"],
-	"booktitle": "DATE",
+	"author": [
+		"J. W. J. M. Rutten",
+		"Michel R. C. M. Berkelaar",
+		"C. A. J. van Eijk",
+		"M. A. J. Kolsteren"
+	],
+	"booktitle": "Proceedings of the Third Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1998",
 	"dblpkey": "conf/date/RuttenBEK98",
 	"doi": "10.1109/DATE.1998.655942",
@@ -8,8 +14,26 @@
 	"pages": "749-754",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["an", "effici", "divid", "and", "conquer", "algorithm", "for", "exact", "hazard", "free", "logic", "minim"],
-	"tag": ["algorithm", "divide and conquer", "logic", "performance"],
+	"stemmed": [
+		"an",
+		"effici",
+		"divid",
+		"and",
+		"conquer",
+		"algorithm",
+		"for",
+		"exact",
+		"hazard",
+		"free",
+		"logic",
+		"minim"
+	],
+	"tag": [
+		"algorithm",
+		"divide and conquer",
+		"logic",
+		"performance"
+	],
 	"title": "An Efficient Divide and Conquer Algorithm for Exact Hazard Free Logic Minimization",
 	"type": "inproceedings",
 	"venue": "DATE",

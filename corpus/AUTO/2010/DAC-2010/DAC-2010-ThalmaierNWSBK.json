@@ -1,14 +1,39 @@
 {
-	"author": ["Max Thalmaier", "Minh D. Nguyen", "Markus Wedler", "Dominik Stoffel", "Jörg Bormann", "Wolfgang Kunz"],
-	"booktitle": "DAC",
+	"author": [
+		"Max Thalmaier",
+		"Minh D. Nguyen",
+		"Markus Wedler",
+		"Dominik Stoffel",
+		"Jörg Bormann",
+		"Wolfgang Kunz"
+	],
+	"booktitle": "Proceedings of the 47th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2010",
 	"dblpkey": "conf/dac/ThalmaierNWSBK10",
 	"doi": "10.1145/1837274.1837319",
 	"ee": "http://doi.acm.org/10.1145/1837274.1837319",
 	"pages": "176-181",
 	"publisher": "ACM",
-	"stemmed": ["analyz", "k", "step", "induct", "to", "comput", "invari", "for", "sat", "base", "properti", "check"],
-	"tag": ["induction", "invariant", "satisfiability"],
+	"stemmed": [
+		"analyz",
+		"k",
+		"step",
+		"induct",
+		"to",
+		"comput",
+		"invari",
+		"for",
+		"sat",
+		"base",
+		"properti",
+		"check"
+	],
+	"tag": [
+		"induction",
+		"invariant",
+		"satisfiability"
+	],
 	"title": "Analyzing k-step induction to compute invariants for SAT-based property checking",
 	"type": "inproceedings",
 	"venue": "DAC",

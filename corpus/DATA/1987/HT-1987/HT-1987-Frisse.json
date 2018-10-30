@@ -1,6 +1,7 @@
 {
 	"author": "Mark E. Frisse",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the First Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1987/P057.pdf",
 	"crossref": "conf/ht/87",
 	"dblpkey": "conf/ht/Frisse87",
@@ -8,8 +9,19 @@
 	"ee": "http://doi.acm.org/10.1145/317426.317433",
 	"pages": "57-66",
 	"publisher": "ACM",
-	"stemmed": ["search", "for", "inform", "in", "a", "hypertext", "medic", "handbook"],
-	"tag": ["hypermedia"],
+	"stemmed": [
+		"search",
+		"for",
+		"inform",
+		"in",
+		"a",
+		"hypertext",
+		"medic",
+		"handbook"
+	],
+	"tag": [
+		"hypermedia"
+	],
 	"title": "Searching for Information in a Hypertext Medical Handbook",
 	"type": "inproceedings",
 	"venue": "HT",

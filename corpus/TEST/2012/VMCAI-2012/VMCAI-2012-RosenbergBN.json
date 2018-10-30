@@ -1,6 +1,11 @@
 {
-	"author": ["Stan Rosenberg", "Anindya Banerjee", "David A. Naumann"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Stan Rosenberg",
+		"Anindya Banerjee",
+		"David A. Naumann"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2012",
 	"dblpkey": "conf/vmcai/RosenbergBN12",
 	"doi": "10.1007/978-3-642-27940-9_25",
@@ -10,11 +15,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["decis", "procedur", "for", "region", "logic"],
-	"tag": ["logic"],
+	"stemmed": [
+		"decis",
+		"procedur",
+		"for",
+		"region",
+		"logic"
+	],
+	"tag": [
+		"logic"
+	],
 	"title": "Decision Procedures for Region Logic",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 7148,
+	"volume": "7148",
 	"year": 2012
 }

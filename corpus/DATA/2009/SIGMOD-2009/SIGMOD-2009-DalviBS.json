@@ -1,6 +1,10 @@
 {
-	"author": ["Nilesh N. Dalvi", "Philip Bohannon", "Fei Sha"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Nilesh N. Dalvi",
+		"Philip Bohannon",
+		"Fei Sha"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/DalviBS09",
@@ -8,8 +12,26 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559882",
 	"pages": "335-348",
 	"publisher": "ACM",
-	"stemmed": ["robust", "web", "extract", "an", "approach", "base", "on", "a", "probabilist", "tree", "edit", "model"],
-	"tag": ["approach", "probability", "robust", "web"],
+	"stemmed": [
+		"robust",
+		"web",
+		"extract",
+		"an",
+		"approach",
+		"base",
+		"on",
+		"a",
+		"probabilist",
+		"tree",
+		"edit",
+		"model"
+	],
+	"tag": [
+		"approach",
+		"probability",
+		"robust",
+		"web"
+	],
 	"title": "Robust web extraction: an approach based on a probabilistic tree-edit model",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

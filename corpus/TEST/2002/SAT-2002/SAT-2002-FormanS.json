@@ -1,12 +1,34 @@
 {
-	"address": ["Cincinnati", "Ohio", "USA"],
-	"author": ["Sean Forman", "Alberto M. Segre"],
+	"address": [
+		"Cincinnati",
+		"Ohio",
+		"USA"
+	],
+	"author": [
+		"Sean Forman",
+		"Alberto M. Segre"
+	],
 	"booktitle": "Proceedings of the Fifth International Symposium on the Theory and Applications of Satisfiability Testing",
+	"booktitleshort": "SAT",
 	"editor": "John Franco",
 	"month": "may",
-	"pages": 45,
-	"stemmed": ["nagsat", "a", "random", "complet", "parallel", "solver", "for", "sat"],
-	"tag": ["named", "parallel", "random", "satisfiability"],
+	"pages": "45",
+	"stemmed": [
+		"nagsat",
+		"a",
+		"random",
+		"complet",
+		"parallel",
+		"solver",
+		"for",
+		"sat"
+	],
+	"tag": [
+		"named",
+		"parallel",
+		"random",
+		"satisfiability"
+	],
 	"title": "NAGSAT: A randomized, complete, parallel solver for 3-SAT",
 	"type": "inproceedings",
 	"venue": "SAT",

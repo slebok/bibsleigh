@@ -1,6 +1,10 @@
 {
-	"author": ["Adam Silberstein", "Rebecca Braynard", "Jun Yang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Adam Silberstein",
+		"Rebecca Braynard",
+		"Jun Yang"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/SilbersteinBY06",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142492",
 	"pages": "157-168",
 	"publisher": "ACM",
-	"stemmed": ["constraint", "chain", "on", "energi", "effici", "continu", "monitor", "in", "sensor", "network"],
-	"tag": ["constraints", "energy", "monitoring", "network"],
+	"stemmed": [
+		"constraint",
+		"chain",
+		"on",
+		"energi",
+		"effici",
+		"continu",
+		"monitor",
+		"in",
+		"sensor",
+		"network"
+	],
+	"tag": [
+		"constraints",
+		"energy",
+		"monitoring",
+		"network"
+	],
 	"title": "Constraint chaining: on energy-efficient continuous monitoring in sensor networks",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

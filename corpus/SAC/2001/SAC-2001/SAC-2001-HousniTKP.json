@@ -1,14 +1,33 @@
 {
-	"author": ["Ahmed Housni", "Michel Tréhel", "Mi-Soon Koo", "Myong-Soon Park"],
+	"author": [
+		"Ahmed Housni",
+		"Michel Tréhel",
+		"Mi-Soon Koo",
+		"Myong-Soon Park"
+	],
 	"booktitle": "Proceedings of the 16th Symposium on Applied Computing",
+	"booktitleshort": "SAC",
 	"crossref": "conf/sac/2001",
 	"dblpkey": "conf/sac/HousniTKP01",
 	"doi": "10.1145/372202.372455",
 	"ee": "http://doi.acm.org/10.1145/372202.372455",
 	"pages": "531-538",
 	"publisher": "ACM",
-	"stemmed": ["a", "new", "distribut", "mutual", "exclus", "algorithm", "for", "two", "group"],
-	"tag": ["algorithm", "distributed"],
+	"stemmed": [
+		"a",
+		"new",
+		"distribut",
+		"mutual",
+		"exclus",
+		"algorithm",
+		"for",
+		"two",
+		"group"
+	],
+	"tag": [
+		"algorithm",
+		"distributed"
+	],
 	"title": "A new distributed mutual exclusion algorithm for two groups",
 	"type": "inproceedings",
 	"venue": "SAC",

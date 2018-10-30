@@ -1,15 +1,34 @@
 {
 	"author": "Alain Biem",
-	"booktitle": "ICDAR",
+	"booktitle": "Proceedings of the Seventh International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2003",
 	"dblpkey": "conf/icdar/Biem03",
 	"doi": "10.1109/ICDAR.2003.1227641",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2003.1227641", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2003.1227641"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2003.1227641",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2003.1227641"
+	],
 	"pages": "104-108",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "model", "select", "criterion", "for", "classif", "applic", "to", "hmm", "topolog", "optim"],
-	"tag": ["classification", "optimisation"],
+	"stemmed": [
+		"a",
+		"model",
+		"select",
+		"criterion",
+		"for",
+		"classif",
+		"applic",
+		"to",
+		"hmm",
+		"topolog",
+		"optim"
+	],
+	"tag": [
+		"classification",
+		"optimisation"
+	],
 	"title": "A Model Selection Criterion for Classification: Application to HMM Topology Optimization",
 	"type": "inproceedings",
 	"venue": "ICDAR",

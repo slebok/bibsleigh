@@ -1,6 +1,12 @@
 {
-	"author": ["Yehia Abd Alrahman", "Marina Andric", "Alessandro Beggiato", "Alberto Lluch-Lafuente"],
-	"booktitle": "WRLA",
+	"author": [
+		"Yehia Abd Alrahman",
+		"Marina Andric",
+		"Alessandro Beggiato",
+		"Alberto Lluch-Lafuente"
+	],
+	"booktitle": "Revised Selected Papers of the 10th International Workshop on Rewriting Logic and its Applications",
+	"booktitleshort": "WRLA",
 	"crossref": "conf/wrla/2014",
 	"dblpkey": "conf/wrla/AlrahmanABL14",
 	"doi": "10.1007/978-3-319-12904-4_2",
@@ -10,11 +16,31 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["can", "we", "effici", "check", "concurr", "program", "under", "relax", "memori", "model", "in", "maud"],
-	"tag": ["concurrent", "maude", "memory management", "modelling", "question", "source code"],
+	"stemmed": [
+		"can",
+		"we",
+		"effici",
+		"check",
+		"concurr",
+		"program",
+		"under",
+		"relax",
+		"memori",
+		"model",
+		"in",
+		"maud"
+	],
+	"tag": [
+		"concurrent",
+		"maude",
+		"memory management",
+		"modelling",
+		"question",
+		"source code"
+	],
 	"title": "Can We Efficiently Check Concurrent Programs Under Relaxed Memory Models in Maude?",
 	"type": "inproceedings",
 	"venue": "WRLA",
-	"volume": 8663,
+	"volume": "8663",
 	"year": 2014
 }

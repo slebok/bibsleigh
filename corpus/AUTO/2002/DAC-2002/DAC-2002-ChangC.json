@@ -1,14 +1,33 @@
 {
-	"author": ["Ying-Tsai Chang", "Kwang-Ting Cheng"],
-	"booktitle": "DAC",
+	"author": [
+		"Ying-Tsai Chang",
+		"Kwang-Ting Cheng"
+	],
+	"booktitle": "Proceedings of the 39th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2002",
 	"dblpkey": "conf/dac/ChangC02",
 	"doi": "10.1145/513918.513998",
 	"ee": "http://doi.acm.org/10.1145/513918.513998",
 	"pages": "311-316",
 	"publisher": "ACM",
-	"stemmed": ["self", "referenti", "verif", "of", "gate", "level", "implement", "of", "arithmet", "circuit"],
-	"tag": ["implementation", "self", "verification"],
+	"stemmed": [
+		"self",
+		"referenti",
+		"verif",
+		"of",
+		"gate",
+		"level",
+		"implement",
+		"of",
+		"arithmet",
+		"circuit"
+	],
+	"tag": [
+		"implementation",
+		"self",
+		"verification"
+	],
 	"title": "Self-referential verification of gate-level implementations of arithmetic circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,31 @@
 {
-	"author": ["Erick Amador", "Renaud Pacalet", "Vincent Rezard"],
-	"booktitle": "DAC",
+	"author": [
+		"Erick Amador",
+		"Renaud Pacalet",
+		"Vincent Rezard"
+	],
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/AmadorPR09",
 	"doi": "10.1145/1629911.1630141",
 	"ee": "http://doi.acm.org/10.1145/1629911.1630141",
 	"pages": "891-896",
 	"publisher": "ACM",
-	"stemmed": ["optimum", "ldpc", "decod", "a", "memori", "architectur", "problem"],
-	"tag": ["architecture", "memory management", "problem"],
+	"stemmed": [
+		"optimum",
+		"ldpc",
+		"decod",
+		"a",
+		"memori",
+		"architectur",
+		"problem"
+	],
+	"tag": [
+		"architecture",
+		"memory management",
+		"problem"
+	],
 	"title": "Optimum LDPC decoder: a memory architecture problem",
 	"type": "inproceedings",
 	"venue": "DAC",

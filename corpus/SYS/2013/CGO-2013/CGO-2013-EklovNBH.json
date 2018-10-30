@@ -1,16 +1,36 @@
 {
-	"acmid": 2495924,
-	"author": ["David Eklov", "Nikos Nikoleris", "David Black-Schaffer", "Erik Hagersten"],
-	"booktitle": "CGO",
+	"acmid": "2495924",
+	"author": [
+		"David Eklov",
+		"Nikos Nikoleris",
+		"David Black-Schaffer",
+		"Erik Hagersten"
+	],
+	"booktitle": "Proceedings of the 11th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2013",
 	"dblpkey": "conf/cgo/EklovNBH13",
 	"doi": "10.1109/CGO.2013.6494987",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2013.6494987", "http://doi.ieeecomputersociety.org/10.1109/CGO.2013.6494987", "http://dl.acm.org/citation.cfm?id=2495924"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2013.6494987",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2013.6494987",
+		"http://dl.acm.org/citation.cfm?id=2495924"
+	],
 	"pages": "19:1-19:10",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["bandwidth", "bandit", "quantit", "character", "of", "memori", "content"],
-	"tag": ["memory management"],
+	"stemmed": [
+		"bandwidth",
+		"bandit",
+		"quantit",
+		"character",
+		"of",
+		"memori",
+		"content"
+	],
+	"tag": [
+		"memory management"
+	],
 	"title": "Bandwidth Bandit: Quantitative characterization of memory contention",
 	"type": "inproceedings",
 	"venue": "CGO",

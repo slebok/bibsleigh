@@ -1,14 +1,33 @@
 {
-	"author": ["Ninh Pham", "Rasmus Pagh"],
-	"booktitle": "KDD",
+	"author": [
+		"Ninh Pham",
+		"Rasmus Pagh"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/PhamP13",
 	"doi": "10.1145/2487575.2487591",
 	"ee": "http://doi.acm.org/10.1145/2487575.2487591",
 	"pages": "239-247",
 	"publisher": "ACM",
-	"stemmed": ["fast", "and", "scalabl", "polynomi", "kernel", "via", "explicit", "featur", "map"],
-	"tag": ["kernel", "performance", "polynomial", "scalability"],
+	"stemmed": [
+		"fast",
+		"and",
+		"scalabl",
+		"polynomi",
+		"kernel",
+		"via",
+		"explicit",
+		"featur",
+		"map"
+	],
+	"tag": [
+		"kernel",
+		"performance",
+		"polynomial",
+		"scalability"
+	],
 	"title": "Fast and scalable polynomial kernels via explicit feature maps",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,14 +1,38 @@
 {
-	"author": ["Wenwen Wang", "Chenggang Wu", "Pen-Chung Yew", "Xiang Yuan", "Zhenjiang Wang", "Jianjun Li", "Xiaobing Feng"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Wenwen Wang",
+		"Chenggang Wu",
+		"Pen-Chung Yew",
+		"Xiang Yuan",
+		"Zhenjiang Wang",
+		"Jianjun Li",
+		"Xiaobing Feng"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/WangWYYWL014",
 	"doi": "10.1145/2555243.2555276",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555276",
 	"pages": "375-376",
 	"publisher": "ACM",
-	"stemmed": ["concurr", "bug", "local", "use", "share", "memori", "access", "pair"],
-	"tag": ["concurrent", "debugging", "locality", "memory management", "using"],
+	"stemmed": [
+		"concurr",
+		"bug",
+		"local",
+		"use",
+		"share",
+		"memori",
+		"access",
+		"pair"
+	],
+	"tag": [
+		"concurrent",
+		"debugging",
+		"locality",
+		"memory management",
+		"using"
+	],
 	"title": "Concurrency bug localization using shared memory access pairs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

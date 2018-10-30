@@ -1,14 +1,35 @@
 {
-	"author": ["Vikas Sindhwani", "Amol Ghoting"],
-	"booktitle": "KDD",
+	"author": [
+		"Vikas Sindhwani",
+		"Amol Ghoting"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/SindhwaniG12",
 	"doi": "10.1145/2339530.2339610",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339610",
 	"pages": "489-497",
 	"publisher": "ACM",
-	"stemmed": ["larg", "scale", "distribut", "non", "negat", "spars", "code", "and", "spars", "dictionari", "learn"],
-	"tag": ["distributed", "learning", "scalability", "taxonomy"],
+	"stemmed": [
+		"larg",
+		"scale",
+		"distribut",
+		"non",
+		"negat",
+		"spars",
+		"code",
+		"and",
+		"spars",
+		"dictionari",
+		"learn"
+	],
+	"tag": [
+		"distributed",
+		"learning",
+		"scalability",
+		"taxonomy"
+	],
 	"title": "Large-scale distributed non-negative sparse coding and sparse dictionary learning",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,11 +1,18 @@
 {
-	"author": ["Lesley Pek Wee Land", "Chris Sauer", "D. Ross Jeffery"],
+	"author": [
+		"Lesley Pek Wee Land",
+		"Chris Sauer",
+		"D. Ross Jeffery"
+	],
 	"booktitle": "Proceedings of the Sixth European Software Engineering Conference / Fifth Symposium on Foundations of Software Engineering",
-	"booktitleshort": "ESEC",
+	"booktitleshort": "ESEC/FSE",
 	"crossref": "conf/esec/1997",
 	"dblpkey": "conf/esec/LandSJ98",
 	"doi": "10.1145/267895.267917",
-	"editor": ["Mehdi Jazayeri", "Helmut Schauer"],
+	"editor": [
+		"Mehdi Jazayeri",
+		"Helmut Schauer"
+	],
 	"ee": "http://doi.acm.org/10.1145/267895.267917",
 	"isbn": "3-540-63531-9",
 	"pages": "294-309",
@@ -13,11 +20,40 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["valid", "the", "defect", "detect", "perform", "advantag", "of", "group", "design", "for", "softwar", "review", "report", "of", "a", "laboratori", "experi", "use", "program", "code"],
-	"tag": ["design", "detection", "empirical", "fault", "performance", "using", "validation"],
+	"stemmed": [
+		"valid",
+		"the",
+		"defect",
+		"detect",
+		"perform",
+		"advantag",
+		"of",
+		"group",
+		"design",
+		"for",
+		"softwar",
+		"review",
+		"report",
+		"of",
+		"a",
+		"laboratori",
+		"experi",
+		"use",
+		"program",
+		"code"
+	],
+	"tag": [
+		"design",
+		"detection",
+		"empirical",
+		"fault",
+		"performance",
+		"using",
+		"validation"
+	],
 	"title": "Validating the Defect Detection Performance Advantage of Group Designs for Software Reviews: Report of a Laboratory Experiment Using Program Code",
 	"type": "inproceedings",
 	"venue": "ESEC",
-	"volume": 1301,
+	"volume": "1301",
 	"year": 1997
 }

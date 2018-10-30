@@ -1,6 +1,10 @@
 {
-	"author": ["Christoph Benzmüller", "Michael Kohlhase"],
-	"booktitle": "CADE",
+	"author": [
+		"Christoph Benzmüller",
+		"Michael Kohlhase"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1998",
 	"dblpkey": "conf/cade/BenzmullerK98a",
 	"ee": "http://link.springer.de/link/service/series/0558/bibs/1421/14210139.htm",
@@ -9,11 +13,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "leo", "a", "higher", "order", "theorem", "prover"],
-	"tag": ["higher-order", "proving", "theorem proving"],
+	"stemmed": [
+		"system",
+		"descript",
+		"leo",
+		"a",
+		"higher",
+		"order",
+		"theorem",
+		"prover"
+	],
+	"tag": [
+		"higher-order",
+		"proving",
+		"theorem proving"
+	],
 	"title": "System Description: LEO — A Higher-Order Theorem Prover",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1421,
+	"volume": "1421",
 	"year": 1998
 }

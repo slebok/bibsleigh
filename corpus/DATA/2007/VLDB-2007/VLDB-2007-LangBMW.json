@@ -1,13 +1,38 @@
 {
-	"author": ["Christian A. Lang", "Bishwaranjan Bhattacharjee", "Timothy Malkemus", "Kwai Wong"],
-	"booktitle": "VLDB",
+	"author": [
+		"Christian A. Lang",
+		"Bishwaranjan Bhattacharjee",
+		"Timothy Malkemus",
+		"Kwai Wong"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/LangBMW07",
 	"ee": "http://www.vldb.org/conf/2007/papers/industrial/p1298-lang.pdf",
 	"pages": "1298-1309",
 	"publisher": "ACM",
-	"stemmed": ["increas", "buffer", "local", "for", "multipl", "index", "base", "scan", "through", "intellig", "placement", "and", "index", "scan", "speed", "control"],
-	"tag": ["multi"],
+	"stemmed": [
+		"increas",
+		"buffer",
+		"local",
+		"for",
+		"multipl",
+		"index",
+		"base",
+		"scan",
+		"through",
+		"intellig",
+		"placement",
+		"and",
+		"index",
+		"scan",
+		"speed",
+		"control"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "Increasing Buffer-Locality for Multiple Index Based Scans through Intelligent Placement and Index Scan Speed Control",
 	"type": "inproceedings",
 	"venue": "VLDB",

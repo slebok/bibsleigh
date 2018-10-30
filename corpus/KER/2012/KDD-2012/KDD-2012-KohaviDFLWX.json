@@ -1,14 +1,33 @@
 {
-	"author": ["Ron Kohavi", "Alex Deng", "Brian Frasca", "Roger Longbotham", "Toby Walker", "Ya Xu"],
-	"booktitle": "KDD",
+	"author": [
+		"Ron Kohavi",
+		"Alex Deng",
+		"Brian Frasca",
+		"Roger Longbotham",
+		"Toby Walker",
+		"Ya Xu"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/KohaviDFLWX12",
 	"doi": "10.1145/2339530.2339653",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339653",
 	"pages": "786-794",
 	"publisher": "ACM",
-	"stemmed": ["trustworthi", "onlin", "control", "experi", "five", "puzzl", "outcom", "explain"],
-	"tag": ["online"],
+	"stemmed": [
+		"trustworthi",
+		"onlin",
+		"control",
+		"experi",
+		"five",
+		"puzzl",
+		"outcom",
+		"explain"
+	],
+	"tag": [
+		"online"
+	],
 	"title": "Trustworthy online controlled experiments: five puzzling outcomes explained",
 	"type": "inproceedings",
 	"venue": "KDD",

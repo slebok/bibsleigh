@@ -1,6 +1,7 @@
 {
 	"author": "Andrei Voronkov",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the First International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2001",
 	"dblpkey": "conf/cade/Voronkov01",
 	"doi": "10.1007/3-540-45744-5_3",
@@ -10,11 +11,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["algorithm", "datastructur", "and", "other", "issu", "in", "effici", "autom", "deduct"],
-	"tag": ["algorithm", "automation", "deduction", "performance"],
+	"stemmed": [
+		"algorithm",
+		"datastructur",
+		"and",
+		"other",
+		"issu",
+		"in",
+		"effici",
+		"autom",
+		"deduct"
+	],
+	"tag": [
+		"algorithm",
+		"automation",
+		"deduction",
+		"performance"
+	],
 	"title": "Algorithms, Datastructures, and other Issues in Efficient Automated Deduction",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 2083,
+	"volume": "2083",
 	"year": 2001
 }

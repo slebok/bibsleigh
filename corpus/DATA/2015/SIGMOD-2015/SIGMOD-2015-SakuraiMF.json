@@ -1,6 +1,10 @@
 {
-	"author": ["Yasushi Sakurai", "Yasuko Matsubara", "Christos Faloutsos"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yasushi Sakurai",
+		"Yasuko Matsubara",
+		"Christos Faloutsos"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/SakuraiMF15",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2731081",
 	"pages": "919-922",
 	"publisher": "ACM",
-	"stemmed": ["mine", "and", "forecast", "of", "big", "time", "seri", "data"],
-	"tag": ["mining"],
+	"stemmed": [
+		"mine",
+		"and",
+		"forecast",
+		"of",
+		"big",
+		"time",
+		"seri",
+		"data"
+	],
+	"tag": [
+		"mining"
+	],
 	"title": "Mining and Forecasting of Big Time-series Data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,35 @@
 {
-	"author": ["G. Persky", "David N. Deutsch", "Daniel G. Schweikert"],
-	"booktitle": "DAC",
+	"author": [
+		"G. Persky",
+		"David N. Deutsch",
+		"Daniel G. Schweikert"
+	],
+	"booktitle": "Proceedings of the 13th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1976",
 	"dblpkey": "conf/dac/PerskyDS76",
 	"doi": "10.1145/800146.804840",
 	"ee": "http://doi.acm.org/10.1145/800146.804840",
 	"pages": "399-407",
 	"publisher": "ACM",
-	"stemmed": ["ltx", "a", "system", "for", "the", "direct", "automat", "design", "of", "lsi", "circuit"],
-	"tag": ["automation", "design", "named"],
+	"stemmed": [
+		"ltx",
+		"a",
+		"system",
+		"for",
+		"the",
+		"direct",
+		"automat",
+		"design",
+		"of",
+		"lsi",
+		"circuit"
+	],
+	"tag": [
+		"automation",
+		"design",
+		"named"
+	],
 	"title": "LTX — a system for the directed automatic design of LSI circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

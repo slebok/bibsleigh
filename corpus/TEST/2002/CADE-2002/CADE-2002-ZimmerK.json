@@ -1,6 +1,10 @@
 {
-	"author": ["Jürgen Zimmer", "Michael Kohlhase"],
-	"booktitle": "CADE",
+	"author": [
+		"Jürgen Zimmer",
+		"Michael Kohlhase"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2002",
 	"dblpkey": "conf/cade/ZimmerK02",
 	"doi": "10.1007/3-540-45620-1_11",
@@ -10,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "the", "math", "web", "softwar", "bus", "for", "distribut", "mathemat", "reason"],
-	"tag": ["distributed", "reasoning"],
+	"stemmed": [
+		"system",
+		"descript",
+		"the",
+		"math",
+		"web",
+		"softwar",
+		"bus",
+		"for",
+		"distribut",
+		"mathemat",
+		"reason"
+	],
+	"tag": [
+		"distributed",
+		"reasoning"
+	],
 	"title": "System Description: The MathWeb Software Bus for Distributed Mathematical Reasoning",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2392,
+	"volume": "2392",
 	"year": 2002
 }

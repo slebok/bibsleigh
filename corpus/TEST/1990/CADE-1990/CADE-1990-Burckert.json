@@ -1,6 +1,7 @@
 {
 	"author": "Hans-Jürgen Bürckert",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/Burckert90",
 	"doi": "10.1007/3-540-52885-7_87",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "resolut", "principl", "for", "claus", "with", "constraint"],
-	"tag": ["constraints"],
+	"stemmed": [
+		"a",
+		"resolut",
+		"principl",
+		"for",
+		"claus",
+		"with",
+		"constraint"
+	],
+	"tag": [
+		"constraints"
+	],
 	"title": "A Resolution Principle for Clauses with Constraints",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

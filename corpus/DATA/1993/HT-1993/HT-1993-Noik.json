@@ -1,6 +1,7 @@
 {
 	"author": "Emanuel G. Noik",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the Fifth Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1993/P192.pdf",
 	"crossref": "conf/ht/93",
 	"dblpkey": "conf/ht/Noik93",
@@ -8,8 +9,20 @@
 	"ee": "http://doi.acm.org/10.1145/168750.168823",
 	"pages": "192-205",
 	"publisher": "ACM",
-	"stemmed": ["explor", "larg", "hyperdocu", "fishey", "view", "of", "nest", "network"],
-	"tag": ["network", "scalability"],
+	"stemmed": [
+		"explor",
+		"larg",
+		"hyperdocu",
+		"fishey",
+		"view",
+		"of",
+		"nest",
+		"network"
+	],
+	"tag": [
+		"network",
+		"scalability"
+	],
 	"title": "Exploring Large Hyperdocuments: Fisheye Views of Nested Networks",
 	"type": "inproceedings",
 	"venue": "HT",

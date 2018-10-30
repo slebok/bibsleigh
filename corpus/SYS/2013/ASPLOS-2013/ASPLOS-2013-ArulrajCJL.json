@@ -1,14 +1,33 @@
 {
-	"author": ["Joy Arulraj", "Po-Chun Chang", "Guoliang Jin", "Shan Lu"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Joy Arulraj",
+		"Po-Chun Chang",
+		"Guoliang Jin",
+		"Shan Lu"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2013",
 	"dblpkey": "conf/asplos/ArulrajCJL13",
 	"doi": "10.1145/2451116.2451128",
 	"ee": "http://doi.acm.org/10.1145/2451116.2451128",
 	"pages": "101-112",
 	"publisher": "ACM",
-	"stemmed": ["product", "run", "softwar", "failur", "diagnosi", "via", "hardwar", "perform", "counter"],
-	"tag": ["hardware", "performance"],
+	"stemmed": [
+		"product",
+		"run",
+		"softwar",
+		"failur",
+		"diagnosi",
+		"via",
+		"hardwar",
+		"perform",
+		"counter"
+	],
+	"tag": [
+		"hardware",
+		"performance"
+	],
 	"title": "Production-run software failure diagnosis via hardware performance counters",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,13 +1,29 @@
 {
-	"author": ["Robbert van Renesse", "Fred B. Schneider"],
-	"booktitle": "OSDI",
+	"author": [
+		"Robbert van Renesse",
+		"Fred B. Schneider"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2004",
 	"dblpkey": "conf/osdi/RenesseS04",
 	"ee": "http://www.usenix.org/events/osdi04/tech/renesse.html",
 	"pages": "91-104",
 	"publisher": "USENIX Association",
-	"stemmed": ["chain", "replic", "for", "support", "high", "throughput", "and", "avail"],
-	"tag": ["replication", "throughput"],
+	"stemmed": [
+		"chain",
+		"replic",
+		"for",
+		"support",
+		"high",
+		"throughput",
+		"and",
+		"avail"
+	],
+	"tag": [
+		"replication",
+		"throughput"
+	],
 	"title": "Chain Replication for Supporting High Throughput and Availability",
 	"type": "inproceedings",
 	"venue": "OSDI",

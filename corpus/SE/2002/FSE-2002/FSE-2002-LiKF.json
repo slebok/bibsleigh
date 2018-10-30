@@ -1,7 +1,11 @@
 {
-	"author": ["Harry C. Li", "Shriram Krishnamurthi", "Kathi Fisler"],
+	"author": [
+		"Harry C. Li",
+		"Shriram Krishnamurthi",
+		"Kathi Fisler"
+	],
 	"booktitle": "Proceedings of the 10th Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2002",
 	"dblpkey": "conf/sigsoft/LiKF02",
 	"doi": "10.1145/587051.587066",
@@ -9,8 +13,18 @@
 	"isbn": "1-58113-514-9",
 	"pages": "89-98",
 	"publisher": "ACM",
-	"stemmed": ["verifi", "cross", "cut", "featur", "as", "open", "system"],
-	"tag": ["verification"],
+	"stemmed": [
+		"verifi",
+		"cross",
+		"cut",
+		"featur",
+		"as",
+		"open",
+		"system"
+	],
+	"tag": [
+		"verification"
+	],
 	"title": "Verifying cross-cutting features as open systems",
 	"type": "inproceedings",
 	"venue": "FSE",

@@ -1,6 +1,10 @@
 {
-	"author": ["Peter Schachte", "Harald Søndergaard"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Peter Schachte",
+		"Harald Søndergaard"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2006",
 	"dblpkey": "conf/vmcai/SchachteS06",
 	"doi": "10.1007/11609773_1",
@@ -10,10 +14,15 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["closur", "oper", "for", "robdd"],
+	"stemmed": [
+		"closur",
+		"oper",
+		"for",
+		"robdd"
+	],
 	"title": "Closure Operators for ROBDDs",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3855,
+	"volume": "3855",
 	"year": 2006
 }

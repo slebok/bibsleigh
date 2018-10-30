@@ -1,6 +1,12 @@
 {
-	"author": ["Carlos Eduardo Scheidegger", "Huy T. Vo", "David Koop", "Juliana Freire", "Cláudio T. Silva"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Carlos Eduardo Scheidegger",
+		"Huy T. Vo",
+		"David Koop",
+		"Juliana Freire",
+		"Cláudio T. Silva"
+	],
+	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2008",
 	"dblpkey": "conf/sigmod/ScheideggerVKFS08",
@@ -8,8 +14,20 @@
 	"ee": "http://doi.acm.org/10.1145/1376616.1376747",
 	"pages": "1251-1254",
 	"publisher": "ACM",
-	"stemmed": ["queri", "and", "re", "use", "workflow", "with", "vs", "trail"],
-	"tag": ["query", "workflow"],
+	"stemmed": [
+		"queri",
+		"and",
+		"re",
+		"use",
+		"workflow",
+		"with",
+		"vs",
+		"trail"
+	],
+	"tag": [
+		"query",
+		"workflow"
+	],
 	"title": "Querying and re-using workflows with VsTrails",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

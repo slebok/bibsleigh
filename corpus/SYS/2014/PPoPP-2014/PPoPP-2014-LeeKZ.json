@@ -1,14 +1,35 @@
 {
-	"author": ["Kyu Hyung Lee", "Dohyeong Kim", "Xiangyu Zhang"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Kyu Hyung Lee",
+		"Dohyeong Kim",
+		"Xiangyu Zhang"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/LeeKZ14",
 	"doi": "10.1145/2555243.2555274",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555274",
 	"pages": "371-372",
 	"publisher": "ACM",
-	"stemmed": ["infrastructur", "free", "log", "and", "replay", "of", "concurr", "execut", "on", "multipl", "core"],
-	"tag": ["concurrent", "execution", "multi"],
+	"stemmed": [
+		"infrastructur",
+		"free",
+		"log",
+		"and",
+		"replay",
+		"of",
+		"concurr",
+		"execut",
+		"on",
+		"multipl",
+		"core"
+	],
+	"tag": [
+		"concurrent",
+		"execution",
+		"multi"
+	],
 	"title": "Infrastructure-free logging and replay of concurrent execution on multiple cores",
 	"type": "inproceedings",
 	"venue": "PPoPP",

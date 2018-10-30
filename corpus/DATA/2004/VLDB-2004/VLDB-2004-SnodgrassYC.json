@@ -1,13 +1,26 @@
 {
-	"author": ["Richard T. Snodgrass", "Shilong (Stanley) Yao", "Christian S. Collberg"],
-	"booktitle": "VLDB",
+	"author": [
+		"Richard T. Snodgrass",
+		"Shilong (Stanley) Yao",
+		"Christian S. Collberg"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/SnodgrassYC04",
 	"ee": "http://www.vldb.org/conf/2004/RS13P1.PDF",
 	"pages": "504-515",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["tamper", "detect", "in", "audit", "log"],
-	"tag": ["detection"],
+	"stemmed": [
+		"tamper",
+		"detect",
+		"in",
+		"audit",
+		"log"
+	],
+	"tag": [
+		"detection"
+	],
 	"title": "Tamper Detection in Audit Logs",
 	"type": "inproceedings",
 	"venue": "VLDB",

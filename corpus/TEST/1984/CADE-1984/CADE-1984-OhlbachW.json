@@ -1,6 +1,10 @@
 {
-	"author": ["Hans Jürgen Ohlbach", "Graham Wrightson"],
-	"booktitle": "CADE",
+	"author": [
+		"Hans Jürgen Ohlbach",
+		"Graham Wrightson"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1984",
 	"dblpkey": "conf/cade/OhlbachW84",
 	"doi": "10.1007/BFb0047139",
@@ -10,11 +14,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["solv", "a", "problem", "in", "relev", "logic", "with", "an", "autom", "theorem", "prover"],
-	"tag": ["automation", "logic", "problem", "proving", "theorem proving"],
+	"stemmed": [
+		"solv",
+		"a",
+		"problem",
+		"in",
+		"relev",
+		"logic",
+		"with",
+		"an",
+		"autom",
+		"theorem",
+		"prover"
+	],
+	"tag": [
+		"automation",
+		"logic",
+		"problem",
+		"proving",
+		"theorem proving"
+	],
 	"title": "Solving a Problem in Relevance Logic with an Automated Theorem Prover",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 170,
+	"volume": "170",
 	"year": 1984
 }

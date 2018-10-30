@@ -1,14 +1,35 @@
 {
-	"author": ["Jun Sun", "Hao Xiao", "Yang Liu", "Shang-Wei Lin", "Shengchao Qin"],
-	"booktitle": "ESEC/SIGSOFT FSE",
+	"author": [
+		"Jun Sun",
+		"Hao Xiao",
+		"Yang Liu",
+		"Shang-Wei Lin",
+		"Shengchao Qin"
+	],
+	"booktitle": "Proceedings of the 10th Joint Meeting of the 15th European Software Engineering Conference and the 23rd Symposium on the Foundations of Software Engineering",
+	"booktitleshort": "ESEC/SIGSOFT FSE",
 	"crossref": "conf/sigsoft/2015",
 	"dblpkey": "conf/sigsoft/SunXLLQ15",
 	"doi": "10.1145/2786805.2786817",
 	"ee": "http://doi.acm.org/10.1145/2786805.2786817",
 	"pages": "698-709",
 	"publisher": "ACM",
-	"stemmed": ["tlv", "abstract", "through", "test", "learn", "and", "valid"],
-	"tag": ["abstraction", "learning", "named", "testing", "validation"],
+	"stemmed": [
+		"tlv",
+		"abstract",
+		"through",
+		"test",
+		"learn",
+		"and",
+		"valid"
+	],
+	"tag": [
+		"abstraction",
+		"learning",
+		"named",
+		"testing",
+		"validation"
+	],
 	"title": "TLV: abstraction through testing, learning, and validation",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

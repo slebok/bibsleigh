@@ -1,13 +1,31 @@
 {
-	"author": ["Wenke Lee", "Salvatore J. Stolfo", "Kui W. Mok"],
-	"booktitle": "KDD",
+	"author": [
+		"Wenke Lee",
+		"Salvatore J. Stolfo",
+		"Kui W. Mok"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1998",
 	"dblpkey": "conf/kdd/LeeSM98",
 	"ee": "http://www.aaai.org/Library/KDD/1998/kdd98-010.php",
 	"pages": "66-72",
 	"publisher": "AAAI Press",
-	"stemmed": ["mine", "audit", "data", "to", "build", "intrus", "detect", "model"],
-	"tag": ["detection", "mining", "modelling"],
+	"stemmed": [
+		"mine",
+		"audit",
+		"data",
+		"to",
+		"build",
+		"intrus",
+		"detect",
+		"model"
+	],
+	"tag": [
+		"detection",
+		"mining",
+		"modelling"
+	],
 	"title": "Mining Audit Data to Build Intrusion Detection Models",
 	"type": "inproceedings",
 	"venue": "KDD",

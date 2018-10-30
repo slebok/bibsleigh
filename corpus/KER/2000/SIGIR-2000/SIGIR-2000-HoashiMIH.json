@@ -1,13 +1,31 @@
 {
-	"author": ["Keiichiro Hoashi", "Kazunori Matsumoto", "Naomi Inoue", "Kazuo Hashimoto"],
+	"author": [
+		"Keiichiro Hoashi",
+		"Kazunori Matsumoto",
+		"Naomi Inoue",
+		"Kazuo Hashimoto"
+	],
 	"booktitle": "Proceedings of the 23rd International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"dblpkey": "conf/sigir/HoashiMIH00",
 	"doi": "10.1145/345508.345573",
 	"ee": "http://doi.acm.org/10.1145/345508.345573",
 	"pages": "176-183",
 	"publisher": "ACM",
-	"stemmed": ["document", "filter", "method", "use", "non", "relev", "inform", "profil"],
-	"tag": ["documentation", "using"],
+	"stemmed": [
+		"document",
+		"filter",
+		"method",
+		"use",
+		"non",
+		"relev",
+		"inform",
+		"profil"
+	],
+	"tag": [
+		"documentation",
+		"using"
+	],
 	"title": "Document filtering method using non-relevant information profile",
 	"type": "inproceedings",
 	"venue": "SIGIR",

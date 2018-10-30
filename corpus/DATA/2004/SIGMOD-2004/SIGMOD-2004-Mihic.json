@@ -1,15 +1,30 @@
 {
 	"author": "Matthew Mihic",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/Mihic04",
 	"doi": "10.1145/1007568.1007674",
-	"ee": ["http://doi.acm.org/10.1145/1007568.1007674", "http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/I-003c.pdf"],
-	"pages": 878,
+	"ee": [
+		"http://doi.acm.org/10.1145/1007568.1007674",
+		"http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/I-003c.pdf"
+	],
+	"pages": "878",
 	"publisher": "ACM",
-	"stemmed": ["build", "dynam", "applic", "network", "with", "web", "servic"],
-	"tag": ["network", "web", "web service"],
+	"stemmed": [
+		"build",
+		"dynam",
+		"applic",
+		"network",
+		"with",
+		"web",
+		"servic"
+	],
+	"tag": [
+		"network",
+		"web",
+		"web service"
+	],
 	"title": "Building Dynamic Application Networks with Web Services",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

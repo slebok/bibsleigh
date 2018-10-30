@@ -1,6 +1,9 @@
 {
-	"author": ["Carlos Garcia-Alvarado", "Carlos Ordonez"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Carlos Garcia-Alvarado",
+		"Carlos Ordonez"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/Garcia-AlvaradoO14",
@@ -8,8 +11,19 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2594521",
 	"pages": "1083-1086",
 	"publisher": "ACM",
-	"stemmed": ["ontocubo", "cube", "base", "ontolog", "construct", "and", "explor"],
-	"tag": ["named", "ontology"],
+	"stemmed": [
+		"ontocubo",
+		"cube",
+		"base",
+		"ontolog",
+		"construct",
+		"and",
+		"explor"
+	],
+	"tag": [
+		"named",
+		"ontology"
+	],
 	"title": "ONTOCUBO: cube-based ontology construction and exploration",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,32 @@
 {
-	"author": ["Joshua J. Pieper", "Alain Mellan", "JoAnn M. Paul", "Donald E. Thomas", "Faraydon Karim"],
-	"booktitle": "DAC",
+	"author": [
+		"Joshua J. Pieper",
+		"Alain Mellan",
+		"JoAnn M. Paul",
+		"Donald E. Thomas",
+		"Faraydon Karim"
+	],
+	"booktitle": "Proceedings of the 41st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2004",
 	"dblpkey": "conf/dac/PieperMPTK04",
 	"doi": "10.1145/996566.996652",
 	"ee": "http://doi.acm.org/10.1145/996566.996652",
 	"pages": "287-292",
 	"publisher": "ACM",
-	"stemmed": ["high", "level", "cach", "simul", "for", "heterogen", "multiprocessor"],
-	"tag": ["multi", "simulation"],
+	"stemmed": [
+		"high",
+		"level",
+		"cach",
+		"simul",
+		"for",
+		"heterogen",
+		"multiprocessor"
+	],
+	"tag": [
+		"multi",
+		"simulation"
+	],
 	"title": "High level cache simulation for heterogeneous multiprocessors",
 	"type": "inproceedings",
 	"venue": "DAC",

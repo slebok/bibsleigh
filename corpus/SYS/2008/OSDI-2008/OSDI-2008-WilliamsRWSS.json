@@ -1,13 +1,32 @@
 {
-	"author": ["Dan Williams", "Patrick Reynolds", "Kevin Walsh", "Emin Gün Sirer", "Fred B. Schneider"],
-	"booktitle": "OSDI",
+	"author": [
+		"Dan Williams",
+		"Patrick Reynolds",
+		"Kevin Walsh",
+		"Emin Gün Sirer",
+		"Fred B. Schneider"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/WilliamsRWSS08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/williams/williams.pdf",
 	"pages": "241-254",
 	"publisher": "USENIX Association",
-	"stemmed": ["devic", "driver", "safeti", "through", "a", "refer", "valid", "mechan"],
-	"tag": ["safety", "validation"],
+	"stemmed": [
+		"devic",
+		"driver",
+		"safeti",
+		"through",
+		"a",
+		"refer",
+		"valid",
+		"mechan"
+	],
+	"tag": [
+		"safety",
+		"validation"
+	],
 	"title": "Device Driver Safety Through a Reference Validation Mechanism",
 	"type": "inproceedings",
 	"venue": "OSDI",

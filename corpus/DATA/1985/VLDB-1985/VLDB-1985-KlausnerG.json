@@ -1,14 +1,38 @@
 {
-	"author": ["Aviel Klausner", "Nathan Goodman"],
-	"booktitle": "VLDB",
-	"cite": ["journals/siamcomp/AhoSU79", "conf/pods/DayalGK82", "...", "...", "...", "journals/jacm/Klug82", "journals/tods/MaierMS79", "journals/tods/Shipman81", "books/cs/Ullman82", "journals/tods/WongY76"],
+	"author": [
+		"Aviel Klausner",
+		"Nathan Goodman"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/siamcomp/AhoSU79",
+		"conf/pods/DayalGK82",
+		"...",
+		"...",
+		"...",
+		"journals/jacm/Klug82",
+		"journals/tods/MaierMS79",
+		"journals/tods/Shipman81",
+		"books/cs/Ullman82",
+		"journals/tods/WongY76"
+	],
 	"crossref": "conf/vldb/85",
 	"dblpkey": "conf/vldb/KlausnerG85",
 	"ee": "http://www.vldb.org/conf/1985/P251.PDF",
 	"pages": "251-258",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["multirel", "semantic", "and", "languag"],
-	"tag": ["multi", "named", "semantics"],
+	"stemmed": [
+		"multirel",
+		"semantic",
+		"and",
+		"languag"
+	],
+	"tag": [
+		"multi",
+		"named",
+		"semantics"
+	],
 	"title": "Multirelations — Semantice and Languages",
 	"type": "inproceedings",
 	"venue": "VLDB",

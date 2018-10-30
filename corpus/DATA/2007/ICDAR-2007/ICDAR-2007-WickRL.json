@@ -1,6 +1,11 @@
 {
-	"author": ["Michael L. Wick", "Michael G. Ross", "Erik G. Learned-Miller"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Michael L. Wick",
+		"Michael G. Ross",
+		"Erik G. Learned-Miller"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/WickRL07",
 	"doi": "10.1109/ICDAR.2007.91",
@@ -8,8 +13,24 @@
 	"pages": "1168-1172",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["context", "sensit", "error", "correct", "use", "topic", "model", "to", "improv", "ocr"],
-	"tag": ["fault", "modelling", "topic", "using"],
+	"stemmed": [
+		"context",
+		"sensit",
+		"error",
+		"correct",
+		"use",
+		"topic",
+		"model",
+		"to",
+		"improv",
+		"ocr"
+	],
+	"tag": [
+		"fault",
+		"modelling",
+		"topic",
+		"using"
+	],
 	"title": "Context-Sensitive Error Correction: Using Topic Models to Improve OCR",
 	"type": "inproceedings",
 	"venue": "ICDAR",

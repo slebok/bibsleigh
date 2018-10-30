@@ -1,6 +1,12 @@
 {
-	"author": ["Mahmut T. Kandemir", "Narayanan Vijaykrishnan", "Mary Jane Irwin", "Hyun Suk Kim"],
-	"booktitle": "LCTES",
+	"author": [
+		"Mahmut T. Kandemir",
+		"Narayanan Vijaykrishnan",
+		"Mary Jane Irwin",
+		"Hyun Suk Kim"
+	],
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2000",
 	"dblpkey": "conf/lctrts/KandemirVIK00",
 	"doi": "10.1007/3-540-45245-1_16",
@@ -10,11 +16,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["toward", "energi", "awar", "iter", "space", "tile"],
-	"tag": ["energy", "towards"],
+	"stemmed": [
+		"toward",
+		"energi",
+		"awar",
+		"iter",
+		"space",
+		"tile"
+	],
+	"tag": [
+		"energy",
+		"towards"
+	],
 	"title": "Towards Energy-Aware Iteration Space Tiling",
 	"type": "inproceedings",
 	"venue": "LCTES",
-	"volume": 1985,
+	"volume": "1985",
 	"year": 2000
 }

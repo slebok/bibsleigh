@@ -1,13 +1,35 @@
 {
-	"author": ["Edward W. Y. Liu", "Henry C. Chang", "Alberto L. Sangiovanni-Vincentelli"],
-	"booktitle": "DAC",
+	"author": [
+		"Edward W. Y. Liu",
+		"Henry C. Chang",
+		"Alberto L. Sangiovanni-Vincentelli"
+	],
+	"booktitle": "Proceedings of the 30th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/LiuCS93",
 	"doi": "10.1145/157485.164648",
 	"ee": "http://doi.acm.org/10.1145/157485.164648",
 	"pages": "159-163",
 	"publisher": "ACM Press",
-	"stemmed": ["analog", "system", "verif", "in", "the", "presenc", "of", "parasit", "use", "behavior", "simul"],
-	"tag": ["behaviour", "simulation", "using", "verification"],
+	"stemmed": [
+		"analog",
+		"system",
+		"verif",
+		"in",
+		"the",
+		"presenc",
+		"of",
+		"parasit",
+		"use",
+		"behavior",
+		"simul"
+	],
+	"tag": [
+		"behaviour",
+		"simulation",
+		"using",
+		"verification"
+	],
 	"title": "Analog System Verification in the Presence of Parasitics Using Behavioral Simulation",
 	"type": "inproceedings",
 	"venue": "DAC",

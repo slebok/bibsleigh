@@ -1,6 +1,11 @@
 {
-	"author": ["Oleg Mürk", "Daniel Larsson", "Reiner Hähnle"],
-	"booktitle": "CADE",
+	"author": [
+		"Oleg Mürk",
+		"Daniel Larsson",
+		"Reiner Hähnle"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2007",
 	"dblpkey": "conf/cade/MurkLH07",
 	"doi": "10.1007/978-3-540-73595-3_27",
@@ -10,11 +15,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["ke", "y", "c", "a", "tool", "for", "verif", "of", "c", "program"],
-	"tag": ["c", "named", "source code", "verification"],
+	"stemmed": [
+		"ke",
+		"y",
+		"c",
+		"a",
+		"tool",
+		"for",
+		"verif",
+		"of",
+		"c",
+		"program"
+	],
+	"tag": [
+		"c",
+		"named",
+		"source code",
+		"verification"
+	],
 	"title": "KeY-C: A Tool for Verification of C Programs",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 4603,
+	"volume": "4603",
 	"year": 2007
 }

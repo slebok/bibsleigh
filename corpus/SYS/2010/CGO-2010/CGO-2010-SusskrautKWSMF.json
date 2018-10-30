@@ -1,14 +1,35 @@
 {
-	"author": ["Martin Süßkraut", "Thomas Knauth", "Stefan Weigert", "Ute Schiffel", "Martin Meinhold", "Christof Fetzer"],
-	"booktitle": "CGO",
+	"author": [
+		"Martin Süßkraut",
+		"Thomas Knauth",
+		"Stefan Weigert",
+		"Ute Schiffel",
+		"Martin Meinhold",
+		"Christof Fetzer"
+	],
+	"booktitle": "Proceedings of the Eighth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2010",
 	"dblpkey": "conf/cgo/SusskrautKWSMF10",
 	"doi": "10.1145/1772954.1772974",
 	"ee": "http://doi.acm.org/10.1145/1772954.1772974",
 	"pages": "131-140",
 	"publisher": "ACM",
-	"stemmed": ["prospect", "a", "compil", "framework", "for", "specul", "parallel"],
-	"tag": ["compilation", "framework", "named", "parallel"],
+	"stemmed": [
+		"prospect",
+		"a",
+		"compil",
+		"framework",
+		"for",
+		"specul",
+		"parallel"
+	],
+	"tag": [
+		"compilation",
+		"framework",
+		"named",
+		"parallel"
+	],
 	"title": "Prospect: a compiler framework for speculative parallelization",
 	"type": "inproceedings",
 	"venue": "CGO",

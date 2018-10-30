@@ -1,14 +1,34 @@
 {
-	"author": ["Jungwon Kim", "Seyong Lee", "Jeffrey S. Vetter"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Jungwon Kim",
+		"Seyong Lee",
+		"Jeffrey S. Vetter"
+	],
+	"booktitle": "Proceedings of the 20th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2015",
 	"dblpkey": "conf/ppopp/KimLV15",
 	"doi": "10.1145/2688500.2688531",
 	"ee": "http://doi.acm.org/10.1145/2688500.2688531",
 	"pages": "257-258",
 	"publisher": "ACM",
-	"stemmed": ["an", "open", "acc", "base", "unifi", "program", "model", "for", "multi", "acceler", "system"],
-	"tag": ["multi", "programming"],
+	"stemmed": [
+		"an",
+		"open",
+		"acc",
+		"base",
+		"unifi",
+		"program",
+		"model",
+		"for",
+		"multi",
+		"acceler",
+		"system"
+	],
+	"tag": [
+		"multi",
+		"programming"
+	],
 	"title": "An OpenACC-based unified programming model for multi-accelerator systems",
 	"type": "inproceedings",
 	"venue": "PPoPP",

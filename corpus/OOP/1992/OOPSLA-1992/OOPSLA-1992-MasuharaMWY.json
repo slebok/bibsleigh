@@ -1,6 +1,11 @@
 {
-	"author": ["Hidehiko Masuhara", "Satoshi Matsuoka", "Takuo Watanabe", "Akinori Yonezawa"],
-	"booktitle": "Proceedings of the Seventh Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"author": [
+		"Hidehiko Masuhara",
+		"Satoshi Matsuoka",
+		"Takuo Watanabe",
+		"Akinori Yonezawa"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1992",
 	"dblpkey": "conf/oopsla/MasuharaMWY92",
@@ -10,8 +15,21 @@
 	"isbn": "0-201-53372-3",
 	"pages": "127-144",
 	"publisher": "ACM",
-	"stemmed": ["object", "orient", "concurr", "reflect", "languag", "can", "be", "implement", "effici"],
-	"tag": ["concurrent", "object-oriented"],
+	"stemmed": [
+		"object",
+		"orient",
+		"concurr",
+		"reflect",
+		"languag",
+		"can",
+		"be",
+		"implement",
+		"effici"
+	],
+	"tag": [
+		"concurrent",
+		"object-oriented"
+	],
 	"title": "Object-Oriented Concurrent Reflective Languages can be Implemented Efficiently",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

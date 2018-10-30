@@ -1,6 +1,10 @@
 {
-	"author": ["Stephen J. Garland", "John V. Guttag"],
-	"booktitle": "CADE",
+	"author": [
+		"Stephen J. Garland",
+		"John V. Guttag"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/GarlandG88",
 	"doi": "10.1007/BFb0012879",
@@ -10,11 +14,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["lp", "the", "larch", "prover"],
-	"tag": ["named", "proving"],
+	"stemmed": [
+		"lp",
+		"the",
+		"larch",
+		"prover"
+	],
+	"tag": [
+		"named",
+		"proving"
+	],
 	"title": "LP: The Larch Prover",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

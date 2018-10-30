@@ -1,6 +1,9 @@
 {
-	"author": ["Hyunjung Park", "Jennifer Widom"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Hyunjung Park",
+		"Jennifer Widom"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/ParkW14",
@@ -8,8 +11,19 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2610503",
 	"pages": "577-588",
 	"publisher": "ACM",
-	"stemmed": ["crowd", "fill", "collect", "structur", "data", "from", "the", "crowd"],
-	"tag": ["named"],
+	"stemmed": [
+		"crowd",
+		"fill",
+		"collect",
+		"structur",
+		"data",
+		"from",
+		"the",
+		"crowd"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "CrowdFill: collecting structured data from the crowd",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

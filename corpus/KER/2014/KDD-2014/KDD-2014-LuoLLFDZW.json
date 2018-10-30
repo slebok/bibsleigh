@@ -1,14 +1,34 @@
 {
-	"author": ["Chen Luo", "Jian-Guang Lou", "Qingwei Lin", "Qiang Fu", "Rui Ding", "Dongmei Zhang", "Zhe Wang"],
-	"booktitle": "KDD",
+	"author": [
+		"Chen Luo",
+		"Jian-Guang Lou",
+		"Qingwei Lin",
+		"Qiang Fu",
+		"Rui Ding",
+		"Dongmei Zhang",
+		"Zhe Wang"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/LuoLLFDZW14",
 	"doi": "10.1145/2623330.2623374",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623374",
 	"pages": "1583-1592",
 	"publisher": "ACM",
-	"stemmed": ["correl", "event", "with", "time", "seri", "for", "incid", "diagnosi"],
-	"tag": ["correlation"],
+	"stemmed": [
+		"correl",
+		"event",
+		"with",
+		"time",
+		"seri",
+		"for",
+		"incid",
+		"diagnosi"
+	],
+	"tag": [
+		"correlation"
+	],
 	"title": "Correlating events with time series for incident diagnosis",
 	"type": "inproceedings",
 	"venue": "KDD",

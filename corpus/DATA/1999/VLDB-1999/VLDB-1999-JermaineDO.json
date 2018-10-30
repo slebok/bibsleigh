@@ -1,14 +1,40 @@
 {
-	"author": ["Chris Jermaine", "Anindya Datta", "Edward Omiecinski"],
-	"booktitle": "VLDB",
-	"cite": ["conf/vldb/JagadishNSSK97", "...", "...", "journals/acta/ONeilCGO96", "conf/sigmod/ONeilQ97", "journals/tkde/Pollari-MalmiSY96", "journals/tocs/RosenblumO92", "journals/csur/Salzberg96"],
+	"author": [
+		"Chris Jermaine",
+		"Anindya Datta",
+		"Edward Omiecinski"
+	],
+	"booktitle": "Proceedings of the 25th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/vldb/JagadishNSSK97",
+		"...",
+		"...",
+		"journals/acta/ONeilCGO96",
+		"conf/sigmod/ONeilQ97",
+		"journals/tkde/Pollari-MalmiSY96",
+		"journals/tocs/RosenblumO92",
+		"journals/csur/Salzberg96"
+	],
 	"crossref": "conf/vldb/99",
 	"dblpkey": "conf/vldb/JermaineDO99",
 	"ee": "http://www.vldb.org/conf/1999/P23.pdf",
 	"pages": "235-246",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["a", "novel", "index", "support", "high", "volum", "data", "warehous", "insert"],
-	"tag": ["novel"],
+	"stemmed": [
+		"a",
+		"novel",
+		"index",
+		"support",
+		"high",
+		"volum",
+		"data",
+		"warehous",
+		"insert"
+	],
+	"tag": [
+		"novel"
+	],
 	"title": "A Novel Index Supporting High Volume Data Warehouse Insertion",
 	"type": "inproceedings",
 	"venue": "VLDB",

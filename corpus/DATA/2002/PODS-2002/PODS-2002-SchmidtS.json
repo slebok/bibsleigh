@@ -1,14 +1,34 @@
 {
-	"author": ["Rolfe R. Schmidt", "Cyrus Shahabi"],
-	"booktitle": "PODS",
+	"author": [
+		"Rolfe R. Schmidt",
+		"Cyrus Shahabi"
+	],
+	"booktitle": "Proceedings of the 21st Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2002",
 	"dblpkey": "conf/pods/SchmidtS02",
 	"doi": "10.1145/543613.543630",
-	"ee": ["http://doi.acm.org/10.1145/543613.543630", "http://www.acm.org/sigs/sigmod/pods/proc02/papers/133-SchmidtS.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/543613.543630",
+		"http://www.acm.org/sigs/sigmod/pods/proc02/papers/133-SchmidtS.pdf"
+	],
 	"pages": "133-141",
 	"publisher": "ACM",
-	"stemmed": ["how", "to", "evalu", "multipl", "rang", "sum", "queri", "progress"],
-	"tag": ["how", "multi", "query"],
+	"stemmed": [
+		"how",
+		"to",
+		"evalu",
+		"multipl",
+		"rang",
+		"sum",
+		"queri",
+		"progress"
+	],
+	"tag": [
+		"how",
+		"multi",
+		"query"
+	],
 	"title": "How to Evaluate Multiple Range-Sum Queries Progressively",
 	"type": "inproceedings",
 	"venue": "PODS",

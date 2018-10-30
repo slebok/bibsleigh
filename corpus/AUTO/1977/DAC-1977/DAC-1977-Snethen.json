@@ -1,13 +1,23 @@
 {
-	"acmid": 809110,
+	"acmid": "809110",
 	"author": "Thomas J. Snethen",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 14th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1977",
 	"dblpkey": "conf/dac/Snethen77",
 	"pages": "88-93",
 	"publisher": "ACM",
-	"stemmed": ["simul", "orient", "fault", "test", "generat"],
-	"tag": ["fault", "generative"],
+	"stemmed": [
+		"simul",
+		"orient",
+		"fault",
+		"test",
+		"generat"
+	],
+	"tag": [
+		"fault",
+		"generative"
+	],
 	"title": "Simulator-oriented fault test generator",
 	"type": "inproceedings",
 	"venue": "DAC",

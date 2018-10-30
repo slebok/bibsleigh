@@ -1,6 +1,9 @@
 {
-	"author": ["Michael F. Kleyn", "Paul C. Gingrich"],
-	"booktitle": "Proceedings of the Third Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"author": [
+		"Michael F. Kleyn",
+		"Paul C. Gingrich"
+	],
+	"booktitle": "Proceedings of the Third Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1988",
 	"dblpkey": "conf/oopsla/KleynG88",
@@ -10,8 +13,24 @@
 	"isbn": "0-89791-284-5",
 	"pages": "191-205",
 	"publisher": "ACM",
-	"stemmed": ["graph", "trace", "understand", "object", "orient", "system", "use", "concurr", "anim", "view"],
-	"tag": ["comprehension", "named", "object-oriented", "using"],
+	"stemmed": [
+		"graph",
+		"trace",
+		"understand",
+		"object",
+		"orient",
+		"system",
+		"use",
+		"concurr",
+		"anim",
+		"view"
+	],
+	"tag": [
+		"comprehension",
+		"named",
+		"object-oriented",
+		"using"
+	],
 	"title": "GraphTrace — Understanding Object-Oriented Systems Using Concurrently Animated Views",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

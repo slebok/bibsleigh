@@ -1,6 +1,7 @@
 {
 	"author": "William McCune",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/McCune88",
 	"doi": "10.1007/BFb0012868",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["challeng", "equal", "problem", "in", "lattic", "theori"],
-	"tag": ["challenge", "problem", "similarity"],
+	"stemmed": [
+		"challeng",
+		"equal",
+		"problem",
+		"in",
+		"lattic",
+		"theori"
+	],
+	"tag": [
+		"challenge",
+		"problem",
+		"similarity"
+	],
 	"title": "Challenge Equality Problems in Lattice Theory",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

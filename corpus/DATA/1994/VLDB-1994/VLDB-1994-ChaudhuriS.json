@@ -1,14 +1,48 @@
 {
-	"author": ["Surajit Chaudhuri", "Kyuseok Shim"],
-	"booktitle": "VLDB",
-	"cite": ["books/mg/CormenLR89", "...", "...", "conf/pods/DayalGK82", "conf/vldb/Dayal87", "conf/sigmod/GangulyHK92", "conf/sigmod/GanskiW87", "conf/vldb/IoannidisNSS92", "conf/sigmod/IoannidisK90", "...", "...", "journals/tods/Kim82", "conf/sigmod/Klug82", "journals/sigmod/LuCW93", "conf/vldb/Muralikrishna92", "conf/sigmod/PiraheshHH92", "conf/sigmod/SelingerACLP79", "...", "conf/icde/YanL94"],
+	"author": [
+		"Surajit Chaudhuri",
+		"Kyuseok Shim"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"books/mg/CormenLR89",
+		"...",
+		"...",
+		"conf/pods/DayalGK82",
+		"conf/vldb/Dayal87",
+		"conf/sigmod/GangulyHK92",
+		"conf/sigmod/GanskiW87",
+		"conf/vldb/IoannidisNSS92",
+		"conf/sigmod/IoannidisK90",
+		"...",
+		"...",
+		"journals/tods/Kim82",
+		"conf/sigmod/Klug82",
+		"journals/sigmod/LuCW93",
+		"conf/vldb/Muralikrishna92",
+		"conf/sigmod/PiraheshHH92",
+		"conf/sigmod/SelingerACLP79",
+		"...",
+		"conf/icde/YanL94"
+	],
 	"crossref": "conf/vldb/94",
 	"dblpkey": "conf/vldb/ChaudhuriS94",
 	"ee": "http://www.vldb.org/conf/1994/P354.PDF",
 	"pages": "354-366",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["includ", "group", "by", "in", "queri", "optim"],
-	"tag": ["optimisation", "query"],
+	"stemmed": [
+		"includ",
+		"group",
+		"by",
+		"in",
+		"queri",
+		"optim"
+	],
+	"tag": [
+		"optimisation",
+		"query"
+	],
 	"title": "Including Group-By in Query Optimization",
 	"type": "inproceedings",
 	"venue": "VLDB",

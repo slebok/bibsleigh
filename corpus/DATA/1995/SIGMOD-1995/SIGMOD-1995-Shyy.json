@@ -1,6 +1,11 @@
 {
-	"author": ["Yuh-Ming Shyy", "H. Stephen Au-Yeung", "C. P. Chou"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yuh-Ming Shyy",
+		"H. Stephen Au-Yeung",
+		"C. P. Chou"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD95/P441.PDF",
 	"crossref": "conf/sigmod/95",
 	"dblpkey": "conf/sigmod/Shyy95",
@@ -8,8 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/223784.223866",
 	"pages": "441-442",
 	"publisher": "ACM Press",
-	"stemmed": ["versant", "replic", "support", "fault", "toler", "object", "databas"],
-	"tag": ["database", "fault tolerance", "replication"],
+	"stemmed": [
+		"versant",
+		"replic",
+		"support",
+		"fault",
+		"toler",
+		"object",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"fault tolerance",
+		"replication"
+	],
 	"title": "VERSANT Replication: Supporting Fault-Tolerant Object Databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

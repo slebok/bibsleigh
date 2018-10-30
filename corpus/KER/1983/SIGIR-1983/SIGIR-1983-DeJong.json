@@ -1,6 +1,7 @@
 {
 	"author": "Gerald DeJong",
 	"booktitle": "Proceedings of the Sixth Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1983/P010.pdf",
 	"crossref": "conf/sigir/83",
 	"dblpkey": "conf/sigir/DeJong83",
@@ -8,8 +9,17 @@
 	"ee": "http://doi.acm.org/10.1145/511793.511796",
 	"pages": "10-17",
 	"publisher": "ACM",
-	"stemmed": ["artifici", "intellig", "implic", "for", "inform", "retriev"],
-	"tag": ["information retrieval"],
+	"stemmed": [
+		"artifici",
+		"intellig",
+		"implic",
+		"for",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"information retrieval"
+	],
 	"title": "Artificial Intelligence Implications for Information Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

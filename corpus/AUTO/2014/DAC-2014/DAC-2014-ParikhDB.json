@@ -1,14 +1,32 @@
 {
-	"author": ["Ritesh Parikh", "Reetuparna Das", "Valeria Bertacco"],
-	"booktitle": "DAC",
+	"author": [
+		"Ritesh Parikh",
+		"Reetuparna Das",
+		"Valeria Bertacco"
+	],
+	"booktitle": "Proceedings of the 51st Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2014",
 	"dblpkey": "conf/dac/ParikhDB14",
 	"doi": "10.1145/2593069.2593187",
 	"ee": "http://doi.acm.org/10.1145/2593069.2593187",
 	"pages": "162:1-162:6",
 	"publisher": "ACM",
-	"stemmed": ["power", "awar", "no", "cs", "through", "rout", "and", "topolog", "reconfigur"],
-	"tag": ["configuration management", "power management"],
+	"stemmed": [
+		"power",
+		"awar",
+		"no",
+		"cs",
+		"through",
+		"rout",
+		"and",
+		"topolog",
+		"reconfigur"
+	],
+	"tag": [
+		"configuration management",
+		"power management"
+	],
 	"title": "Power-Aware NoCs through Routing and Topology Reconfiguration",
 	"type": "inproceedings",
 	"venue": "DAC",

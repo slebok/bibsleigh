@@ -1,15 +1,31 @@
 {
-	"author": ["Arnold L. Rosenberg", "Lawrence Snyder"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Arnold L. Rosenberg",
+		"Lawrence Snyder"
+	],
+	"booktitle": "Proceedings of the Ninth ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD79/P043.PDF",
-	"cite": ["journals/acta/BayerM72", "journals/tods/BayerU77", "books/aw/Knuth73", "journals/siamcomp/MillerPRS79", "journals/siamcomp/RosenbergS78", "conf/focs/Snyder77", "journals/acta/Yao78"],
+	"cite": [
+		"journals/acta/BayerM72",
+		"journals/tods/BayerU77",
+		"books/aw/Knuth73",
+		"journals/siamcomp/MillerPRS79",
+		"journals/siamcomp/RosenbergS78",
+		"conf/focs/Snyder77",
+		"journals/acta/Yao78"
+	],
 	"crossref": "conf/sigmod/79",
 	"dblpkey": "conf/sigmod/RosenbergS79",
 	"doi": "10.1145/582095.582102",
 	"ee": "http://doi.acm.org/10.1145/582095.582102",
 	"pages": "43-51",
 	"publisher": "ACM",
-	"stemmed": ["compact", "b", "tree"],
+	"stemmed": [
+		"compact",
+		"b",
+		"tree"
+	],
 	"title": "Compact B-Trees",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

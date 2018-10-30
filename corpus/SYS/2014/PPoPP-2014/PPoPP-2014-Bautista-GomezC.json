@@ -1,14 +1,33 @@
 {
-	"author": ["Leonardo Arturo Bautista-Gomez", "Franck Cappello"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Leonardo Arturo Bautista-Gomez",
+		"Franck Cappello"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/Bautista-GomezC14",
 	"doi": "10.1145/2555243.2555279",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555279",
 	"pages": "381-382",
 	"publisher": "ACM",
-	"stemmed": ["detect", "silent", "data", "corrupt", "through", "data", "dynam", "monitor", "for", "scientif", "applic"],
-	"tag": ["detection", "monitoring"],
+	"stemmed": [
+		"detect",
+		"silent",
+		"data",
+		"corrupt",
+		"through",
+		"data",
+		"dynam",
+		"monitor",
+		"for",
+		"scientif",
+		"applic"
+	],
+	"tag": [
+		"detection",
+		"monitoring"
+	],
 	"title": "Detecting silent data corruption through data dynamic monitoring for scientific applications",
 	"type": "inproceedings",
 	"venue": "PPoPP",

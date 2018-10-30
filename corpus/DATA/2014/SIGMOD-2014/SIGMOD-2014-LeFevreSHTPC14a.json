@@ -1,6 +1,13 @@
 {
-	"author": ["Jeff LeFevre", "Jagan Sankaranarayanan", "Hakan Hacigümüs", "Jun'ichi Tatemura", "Neoklis Polyzotis", "Michael J. Carey"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jeff LeFevre",
+		"Jagan Sankaranarayanan",
+		"Hakan Hacigümüs",
+		"Jun'ichi Tatemura",
+		"Neoklis Polyzotis",
+		"Michael J. Carey"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/LeFevreSHTPC14a",
@@ -8,8 +15,25 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2588568",
 	"pages": "1591-1602",
 	"publisher": "ACM",
-	"stemmed": ["miso", "soup", "up", "big", "data", "queri", "process", "with", "a", "multistor", "system"],
-	"tag": ["big data", "multi", "named", "query"],
+	"stemmed": [
+		"miso",
+		"soup",
+		"up",
+		"big",
+		"data",
+		"queri",
+		"process",
+		"with",
+		"a",
+		"multistor",
+		"system"
+	],
+	"tag": [
+		"big data",
+		"multi",
+		"named",
+		"query"
+	],
 	"title": "MISO: souping up big data query processing with a multistore system",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,11 @@
 {
-	"author": ["Xiaolu Shen", "Changsong Liu", "Xiaoqing Ding"],
-	"booktitle": "DRR",
+	"author": [
+		"Xiaolu Shen",
+		"Changsong Liu",
+		"Xiaoqing Ding"
+	],
+	"booktitle": "Proceedings of the 16th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2009",
 	"dblpkey": "conf/drr/ShenLD09",
 	"doi": "10.1117/12.805695",
@@ -8,11 +13,21 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["text", "line", "extract", "in", "free", "style", "document"],
-	"tag": ["documentation"],
+	"stemmed": [
+		"text",
+		"line",
+		"extract",
+		"in",
+		"free",
+		"style",
+		"document"
+	],
+	"tag": [
+		"documentation"
+	],
 	"title": "Text line extraction in free-style document",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7247,
+	"volume": "7247",
 	"year": 2009
 }

@@ -1,6 +1,10 @@
 {
-	"author": ["Oleg Golubitsky", "Stephen M. Watt"],
-	"booktitle": "DRR",
+	"author": [
+		"Oleg Golubitsky",
+		"Stephen M. Watt"
+	],
+	"booktitle": "Proceedings of the 16th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2009",
 	"dblpkey": "conf/drr/GolubitskyW09",
 	"doi": "10.1117/12.806163",
@@ -8,11 +12,22 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["onlin", "comput", "of", "similar", "between", "handwritten", "charact"],
-	"tag": ["online", "similarity"],
+	"stemmed": [
+		"onlin",
+		"comput",
+		"of",
+		"similar",
+		"between",
+		"handwritten",
+		"charact"
+	],
+	"tag": [
+		"online",
+		"similarity"
+	],
 	"title": "Online computation of similarity between handwritten characters",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7247,
+	"volume": "7247",
 	"year": 2009
 }

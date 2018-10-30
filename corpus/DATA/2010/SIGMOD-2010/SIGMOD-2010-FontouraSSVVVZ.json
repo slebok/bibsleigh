@@ -1,6 +1,14 @@
 {
-	"author": ["Marcus Fontoura", "Suhas Sadanandan", "Jayavel Shanmugasundaram", "Sergei Vassilvitskii", "Erik Vee", "Srihari Venkatesan", "Jason Y. Zien"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Marcus Fontoura",
+		"Suhas Sadanandan",
+		"Jayavel Shanmugasundaram",
+		"Sergei Vassilvitskii",
+		"Erik Vee",
+		"Srihari Venkatesan",
+		"Jason Y. Zien"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/FontouraSSVVVZ10",
@@ -8,7 +16,13 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807171",
 	"pages": "3-14",
 	"publisher": "ACM",
-	"stemmed": ["effici", "evalu", "complex", "boolean", "express"],
+	"stemmed": [
+		"effici",
+		"evalu",
+		"complex",
+		"boolean",
+		"express"
+	],
 	"title": "Efficiently evaluating complex boolean expressions",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

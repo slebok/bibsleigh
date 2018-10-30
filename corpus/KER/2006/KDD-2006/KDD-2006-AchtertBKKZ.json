@@ -1,14 +1,32 @@
 {
-	"author": ["Elke Achtert", "Christian Böhm", "Hans-Peter Kriegel", "Peer Kröger", "Arthur Zimek"],
-	"booktitle": "KDD",
+	"author": [
+		"Elke Achtert",
+		"Christian Böhm",
+		"Hans-Peter Kriegel",
+		"Peer Kröger",
+		"Arthur Zimek"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/AchtertBKKZ06",
 	"doi": "10.1145/1150402.1150408",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150408",
 	"pages": "4-13",
 	"publisher": "ACM",
-	"stemmed": ["deriv", "quantit", "model", "for", "correl", "cluster"],
-	"tag": ["clustering", "correlation", "modelling"],
+	"stemmed": [
+		"deriv",
+		"quantit",
+		"model",
+		"for",
+		"correl",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"correlation",
+		"modelling"
+	],
 	"title": "Deriving quantitative models for correlation clusters",
 	"type": "inproceedings",
 	"venue": "KDD",

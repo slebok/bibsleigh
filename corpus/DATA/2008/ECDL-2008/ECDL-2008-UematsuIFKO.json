@@ -1,17 +1,40 @@
 {
-	"author": ["Yukio Uematsu", "Takafumi Inoue", "Kengo Fujioka", "Ryoji Kataoka", "Hayato Ohwada"],
-	"booktitle": "ECDL",
+	"author": [
+		"Yukio Uematsu",
+		"Takafumi Inoue",
+		"Kengo Fujioka",
+		"Ryoji Kataoka",
+		"Hayato Ohwada"
+	],
+	"booktitle": "Proceedings of the 12th European Conference on Research and Advanced Technology for Digital Libraries",
+	"booktitleshort": "ECDL",
 	"crossref": "conf/ercimdl/2008",
 	"dblpkey": "conf/ercimdl/UematsuIFKO08",
 	"doi": "10.1007/978-3-540-87599-4_33",
 	"pages": "308-319",
 	"publisher": "Springer",
 	"series": "Lecture Notes in Computer Science",
-	"stemmed": ["proxim", "score", "use", "sentenc", "base", "invert", "index", "for", "practic", "full", "text", "search"],
-	"tag": ["proximity", "using"],
+	"stemmed": [
+		"proxim",
+		"score",
+		"use",
+		"sentenc",
+		"base",
+		"invert",
+		"index",
+		"for",
+		"practic",
+		"full",
+		"text",
+		"search"
+	],
+	"tag": [
+		"proximity",
+		"using"
+	],
 	"title": "Proximity Scoring Using Sentence-Based Inverted Index for Practical Full-Text Search",
 	"type": "inproceedings",
 	"venue": "TPDL",
-	"volume": 5173,
+	"volume": "5173",
 	"year": 2008
 }

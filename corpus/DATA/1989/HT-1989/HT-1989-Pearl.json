@@ -1,6 +1,7 @@
 {
 	"author": "Amy Pearl",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the Second Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1989/P137.pdf",
 	"crossref": "conf/ht/89",
 	"dblpkey": "conf/ht/Pearl89",
@@ -8,8 +9,20 @@
 	"ee": "http://doi.acm.org/10.1145/74224.74236",
 	"pages": "137-146",
 	"publisher": "ACM",
-	"stemmed": ["sun", "s", "link", "servic", "a", "protocol", "for", "open", "link"],
-	"tag": ["protocol"],
+	"stemmed": [
+		"sun",
+		"s",
+		"link",
+		"servic",
+		"a",
+		"protocol",
+		"for",
+		"open",
+		"link"
+	],
+	"tag": [
+		"protocol"
+	],
 	"title": "Sun’s Link Service: A Protocol for Open Linking",
 	"type": "inproceedings",
 	"venue": "HT",

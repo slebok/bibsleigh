@@ -1,14 +1,32 @@
 {
-	"author": ["Steve Dai", "Mingxing Tan", "Kecheng Hao", "Zhiru Zhang"],
-	"booktitle": "DAC",
+	"author": [
+		"Steve Dai",
+		"Mingxing Tan",
+		"Kecheng Hao",
+		"Zhiru Zhang"
+	],
+	"booktitle": "Proceedings of the 51st Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2014",
 	"dblpkey": "conf/dac/DaiTHZ14",
 	"doi": "10.1145/2593069.2593143",
 	"ee": "http://doi.acm.org/10.1145/2593069.2593143",
 	"pages": "76:1-76:6",
 	"publisher": "ACM",
-	"stemmed": ["flush", "enabl", "loop", "pipelin", "for", "high", "level", "synthesi"],
-	"tag": ["pipes and filters", "synthesis"],
+	"stemmed": [
+		"flush",
+		"enabl",
+		"loop",
+		"pipelin",
+		"for",
+		"high",
+		"level",
+		"synthesi"
+	],
+	"tag": [
+		"pipes and filters",
+		"synthesis"
+	],
 	"title": "Flushing-Enabled Loop Pipelining for High-Level Synthesis",
 	"type": "inproceedings",
 	"venue": "DAC",

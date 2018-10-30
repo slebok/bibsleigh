@@ -1,6 +1,12 @@
 {
-	"author": ["S. K. Michael Wong", "Wojciech Ziarko", "Vijay V. Raghavan", "P. C. N. Wong"],
+	"author": [
+		"S. K. Michael Wong",
+		"Wojciech Ziarko",
+		"Vijay V. Raghavan",
+		"P. C. N. Wong"
+	],
 	"booktitle": "Proceedings of the Ninth International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1986/P175.pdf",
 	"crossref": "conf/sigir/86",
 	"dblpkey": "conf/sigir/WongZRW86",
@@ -8,8 +14,22 @@
 	"ee": "http://doi.acm.org/10.1145/253168.253205",
 	"pages": "175-185",
 	"publisher": "ACM",
-	"stemmed": ["on", "extend", "the", "vector", "space", "model", "for", "boolean", "queri", "process"],
-	"tag": ["on the", "query"],
+	"stemmed": [
+		"on",
+		"extend",
+		"the",
+		"vector",
+		"space",
+		"model",
+		"for",
+		"boolean",
+		"queri",
+		"process"
+	],
+	"tag": [
+		"on the",
+		"query"
+	],
 	"title": "On Extending the Vector Space Model for Boolean Query Processing",
 	"type": "inproceedings",
 	"venue": "SIGIR",

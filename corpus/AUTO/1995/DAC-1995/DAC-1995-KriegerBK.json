@@ -1,13 +1,36 @@
 {
-	"author": ["Rolf Krieger", "Bernd Becker", "Martin Keim"],
-	"booktitle": "DAC",
+	"author": [
+		"Rolf Krieger",
+		"Bernd Becker",
+		"Martin Keim"
+	],
+	"booktitle": "Proceedings of the 32nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/KriegerBK95",
 	"doi": "10.1145/217474.217552",
 	"ee": "http://doi.acm.org/10.1145/217474.217552",
 	"pages": "339-344",
 	"publisher": "ACM Press",
-	"stemmed": ["symbol", "fault", "simul", "for", "sequenti", "circuit", "and", "the", "multipl", "observ", "time", "test", "strategi"],
-	"tag": ["fault", "multi", "simulation"],
+	"stemmed": [
+		"symbol",
+		"fault",
+		"simul",
+		"for",
+		"sequenti",
+		"circuit",
+		"and",
+		"the",
+		"multipl",
+		"observ",
+		"time",
+		"test",
+		"strategi"
+	],
+	"tag": [
+		"fault",
+		"multi",
+		"simulation"
+	],
 	"title": "Symbolic Fault Simulation for Sequential Circuits and the Multiple Observation Time Test Strategy",
 	"type": "inproceedings",
 	"venue": "DAC",

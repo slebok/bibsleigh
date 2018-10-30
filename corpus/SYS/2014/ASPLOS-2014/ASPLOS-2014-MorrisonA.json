@@ -1,14 +1,29 @@
 {
-	"author": ["Adam Morrison", "Yehuda Afek"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Adam Morrison",
+		"Yehuda Afek"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2014",
 	"dblpkey": "conf/asplos/MorrisonA14",
 	"doi": "10.1145/2541940.2541987",
 	"ee": "http://doi.acm.org/10.1145/2541940.2541987",
 	"pages": "413-426",
 	"publisher": "ACM",
-	"stemmed": ["fenc", "free", "work", "steal", "on", "bound", "tso", "processor"],
-	"tag": ["bound"],
+	"stemmed": [
+		"fenc",
+		"free",
+		"work",
+		"steal",
+		"on",
+		"bound",
+		"tso",
+		"processor"
+	],
+	"tag": [
+		"bound"
+	],
 	"title": "Fence-free work stealing on bounded TSO processors",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

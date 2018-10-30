@@ -1,14 +1,37 @@
 {
-	"author": ["Karla L. Caballero Barajas", "Ram Akella"],
-	"booktitle": "KDD",
+	"author": [
+		"Karla L. Caballero Barajas",
+		"Ram Akella"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/BarajasA15",
 	"doi": "10.1145/2783258.2783289",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783289",
 	"pages": "69-78",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "model", "patient", "s", "health", "state", "from", "electron", "medic", "record", "a", "time", "seri", "approach"],
-	"tag": ["approach", "health", "modelling"],
+	"stemmed": [
+		"dynam",
+		"model",
+		"patient",
+		"s",
+		"health",
+		"state",
+		"from",
+		"electron",
+		"medic",
+		"record",
+		"a",
+		"time",
+		"seri",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"health",
+		"modelling"
+	],
 	"title": "Dynamically Modeling Patient’s Health State from Electronic Medical Records: A Time Series Approach",
 	"type": "inproceedings",
 	"venue": "KDD",

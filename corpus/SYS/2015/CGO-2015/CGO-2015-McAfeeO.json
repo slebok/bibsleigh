@@ -1,16 +1,41 @@
 {
-	"acmid": 2738616,
-	"author": ["Lawrence C. McAfee", "Kunle Olukotun"],
-	"booktitle": "CGO",
+	"acmid": "2738616",
+	"author": [
+		"Lawrence C. McAfee",
+		"Kunle Olukotun"
+	],
+	"booktitle": "Proceedings of the 13th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2015",
 	"dblpkey": "conf/cgo/McAfeeO15",
 	"doi": "10.1109/CGO.2015.7054193",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2015.7054193", "http://dl.acm.org/citation.cfm?id=2738616"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2015.7054193",
+		"http://dl.acm.org/citation.cfm?id=2738616"
+	],
 	"pages": "125-135",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["emeuro", "a", "framework", "for", "generat", "multi", "purpos", "acceler", "via", "deep", "learn"],
-	"tag": ["framework", "generative", "learning", "multi", "named"],
+	"stemmed": [
+		"emeuro",
+		"a",
+		"framework",
+		"for",
+		"generat",
+		"multi",
+		"purpos",
+		"acceler",
+		"via",
+		"deep",
+		"learn"
+	],
+	"tag": [
+		"framework",
+		"generative",
+		"learning",
+		"multi",
+		"named"
+	],
 	"title": "EMEURO: a framework for generating multi-purpose accelerators via deep learning",
 	"type": "inproceedings",
 	"venue": "CGO",

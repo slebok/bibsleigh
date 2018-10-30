@@ -1,13 +1,34 @@
 {
-	"author": ["Liang Jin", "Chen Li"],
-	"booktitle": "VLDB",
+	"author": [
+		"Liang Jin",
+		"Chen Li"
+	],
+	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/JinL05",
 	"ee": "http://www.vldb2005.org/program/paper/wed/p397-jin.pdf",
 	"pages": "397-408",
 	"publisher": "ACM",
-	"stemmed": ["select", "estim", "for", "fuzzi", "string", "predic", "in", "larg", "data", "set"],
-	"tag": ["estimation", "fuzzy", "scalability", "set", "string"],
+	"stemmed": [
+		"select",
+		"estim",
+		"for",
+		"fuzzi",
+		"string",
+		"predic",
+		"in",
+		"larg",
+		"data",
+		"set"
+	],
+	"tag": [
+		"estimation",
+		"fuzzy",
+		"scalability",
+		"set",
+		"string"
+	],
 	"title": "Selectivity Estimation for Fuzzy String Predicates in Large Data Sets",
 	"type": "inproceedings",
 	"venue": "VLDB",

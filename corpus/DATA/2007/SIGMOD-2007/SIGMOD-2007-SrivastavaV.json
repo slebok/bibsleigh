@@ -1,6 +1,9 @@
 {
-	"author": ["Divesh Srivastava", "Yannis Velegrakis"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Divesh Srivastava",
+		"Yannis Velegrakis"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/SrivastavaV07",
@@ -8,8 +11,17 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247526",
 	"pages": "401-412",
 	"publisher": "ACM",
-	"stemmed": ["intension", "associ", "between", "data", "and", "metadata"],
-	"tag": ["metadata"],
+	"stemmed": [
+		"intension",
+		"associ",
+		"between",
+		"data",
+		"and",
+		"metadata"
+	],
+	"tag": [
+		"metadata"
+	],
 	"title": "Intensional associations between data and metadata",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

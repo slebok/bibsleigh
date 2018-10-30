@@ -1,13 +1,32 @@
 {
-	"acmid": 800801,
-	"author": ["Masahiko Kawamura", "Haruo Takagi", "Kanji Hirabayashi"],
-	"booktitle": "DAC",
+	"acmid": "800801",
+	"author": [
+		"Masahiko Kawamura",
+		"Haruo Takagi",
+		"Kanji Hirabayashi"
+	],
+	"booktitle": "Proceedings of the 21st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1984",
 	"dblpkey": "conf/dac/KawamuraTH84",
 	"pages": "228-234",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["function", "verif", "of", "memori", "circuit", "from", "mask", "artwork", "data"],
-	"tag": ["functional", "memory management", "verification"],
+	"stemmed": [
+		"function",
+		"verif",
+		"of",
+		"memori",
+		"circuit",
+		"from",
+		"mask",
+		"artwork",
+		"data"
+	],
+	"tag": [
+		"functional",
+		"memory management",
+		"verification"
+	],
 	"title": "Functional verification of memory circuits from mask artwork data",
 	"type": "inproceedings",
 	"venue": "DAC",

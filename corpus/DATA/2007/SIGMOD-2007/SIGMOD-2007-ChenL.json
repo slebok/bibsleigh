@@ -1,6 +1,9 @@
 {
-	"author": ["Zhiyuan Chen", "Tao Li"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Zhiyuan Chen",
+		"Tao Li"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/ChenL07",
@@ -8,8 +11,20 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247551",
 	"pages": "641-652",
 	"publisher": "ACM",
-	"stemmed": ["address", "divers", "user", "prefer", "in", "sql", "queri", "result", "navig"],
-	"tag": ["navigation"],
+	"stemmed": [
+		"address",
+		"divers",
+		"user",
+		"prefer",
+		"in",
+		"sql",
+		"queri",
+		"result",
+		"navig"
+	],
+	"tag": [
+		"navigation"
+	],
 	"title": "Addressing diverse user preferences in SQL-query-result navigation",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

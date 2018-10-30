@@ -1,12 +1,30 @@
 {
-	"author": ["Doina Precup", "Richard S. Sutton", "Sanjoy Dasgupta"],
+	"author": [
+		"Doina Precup",
+		"Richard S. Sutton",
+		"Sanjoy Dasgupta"
+	],
 	"booktitle": "Proceedings of the 18th International Conference on Machine Learning",
+	"booktitleshort": "ICML",
 	"crossref": "conf/icml/2001",
 	"dblpkey": "conf/icml/PrecupSD01",
 	"pages": "417-424",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["off", "polici", "tempor", "differ", "learn", "with", "function", "approxim"],
-	"tag": ["approximate", "difference", "learning"],
+	"stemmed": [
+		"off",
+		"polici",
+		"tempor",
+		"differ",
+		"learn",
+		"with",
+		"function",
+		"approxim"
+	],
+	"tag": [
+		"approximate",
+		"difference",
+		"learning"
+	],
 	"title": "Off-Policy Temporal Difference Learning with Function Approximation",
 	"type": "inproceedings",
 	"venue": "ICML",

@@ -1,6 +1,11 @@
 {
-	"author": ["Philip Bohannon", "Michael Flaster", "Wenfei Fan", "Rajeev Rastogi"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Philip Bohannon",
+		"Michael Flaster",
+		"Wenfei Fan",
+		"Rajeev Rastogi"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/BohannonFFR05",
@@ -8,8 +13,27 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066175",
 	"pages": "143-154",
 	"publisher": "ACM",
-	"stemmed": ["a", "cost", "base", "model", "and", "effect", "heurist", "for", "repair", "constraint", "by", "valu", "modif"],
-	"tag": ["constraints", "cost analysis", "effectiveness", "heuristic"],
+	"stemmed": [
+		"a",
+		"cost",
+		"base",
+		"model",
+		"and",
+		"effect",
+		"heurist",
+		"for",
+		"repair",
+		"constraint",
+		"by",
+		"valu",
+		"modif"
+	],
+	"tag": [
+		"constraints",
+		"cost analysis",
+		"effectiveness",
+		"heuristic"
+	],
 	"title": "A Cost-Based Model and Effective Heuristic for Repairing Constraints by Value Modification",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

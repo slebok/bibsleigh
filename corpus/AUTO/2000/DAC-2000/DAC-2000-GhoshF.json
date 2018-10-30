@@ -1,13 +1,36 @@
 {
-	"author": ["Indradeep Ghosh", "Masahiro Fujita"],
-	"booktitle": "DAC",
+	"author": [
+		"Indradeep Ghosh",
+		"Masahiro Fujita"
+	],
+	"booktitle": "Proceedings of the 37th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/GhoshF00",
 	"doi": "10.1145/337292.337309",
 	"ee": "http://doi.acm.org/10.1145/337292.337309",
 	"pages": "43-48",
 	"publisher": "ACM",
-	"stemmed": ["automat", "test", "pattern", "generat", "for", "function", "rtl", "circuit", "use", "assign", "decis", "diagram"],
-	"tag": ["automation", "diagrams", "functional", "generative", "using"],
+	"stemmed": [
+		"automat",
+		"test",
+		"pattern",
+		"generat",
+		"for",
+		"function",
+		"rtl",
+		"circuit",
+		"use",
+		"assign",
+		"decis",
+		"diagram"
+	],
+	"tag": [
+		"automation",
+		"diagrams",
+		"functional",
+		"generative",
+		"using"
+	],
 	"title": "Automatic test pattern generation for functional RTL circuits using assignment decision diagrams",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,30 @@
 {
-	"author": ["Hans-Peter Kriegel", "Matthias Schubert", "Arthur Zimek"],
-	"booktitle": "KDD",
+	"author": [
+		"Hans-Peter Kriegel",
+		"Matthias Schubert",
+		"Arthur Zimek"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/KriegelSZ08",
 	"doi": "10.1145/1401890.1401946",
 	"ee": "http://doi.acm.org/10.1145/1401890.1401946",
 	"pages": "444-452",
 	"publisher": "ACM",
-	"stemmed": ["angl", "base", "outlier", "detect", "in", "high", "dimension", "data"],
-	"tag": ["detection"],
+	"stemmed": [
+		"angl",
+		"base",
+		"outlier",
+		"detect",
+		"in",
+		"high",
+		"dimension",
+		"data"
+	],
+	"tag": [
+		"detection"
+	],
 	"title": "Angle-based outlier detection in high-dimensional data",
 	"type": "inproceedings",
 	"venue": "KDD",

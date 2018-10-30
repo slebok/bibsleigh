@@ -1,6 +1,10 @@
 {
-	"author": ["Jiaqi Zhai", "Yin Lou", "Johannes Gehrke"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jiaqi Zhai",
+		"Yin Lou",
+		"Johannes Gehrke"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/ZhaiLG11",
@@ -8,8 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989428",
 	"pages": "997-1008",
 	"publisher": "ACM",
-	"stemmed": ["atlas", "a", "probabilist", "algorithm", "for", "high", "dimension", "similar", "search"],
-	"tag": ["algorithm", "named", "probability", "similarity"],
+	"stemmed": [
+		"atlas",
+		"a",
+		"probabilist",
+		"algorithm",
+		"for",
+		"high",
+		"dimension",
+		"similar",
+		"search"
+	],
+	"tag": [
+		"algorithm",
+		"named",
+		"probability",
+		"similarity"
+	],
 	"title": "ATLAS: a probabilistic algorithm for high dimensional similarity search",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

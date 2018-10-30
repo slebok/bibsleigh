@@ -1,15 +1,32 @@
 {
 	"author": "Nicolas Spyratos",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the Sixth International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB80/P411.PDF",
-	"cite": ["conf/ifip/Armstrong74", "...", "journals/tods/BancilhonS81", "...", "conf/vldb/DayalB78", "...", "books/cs/Ullman80"],
+	"cite": [
+		"conf/ifip/Armstrong74",
+		"...",
+		"journals/tods/BancilhonS81",
+		"...",
+		"conf/vldb/DayalB78",
+		"...",
+		"books/cs/Ullman80"
+	],
 	"crossref": "conf/vldb/80",
 	"dblpkey": "conf/vldb/Spyratos80",
 	"pages": "411-416",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["translat", "structur", "of", "relat", "view"],
-	"tag": ["relational"],
+	"stemmed": [
+		"translat",
+		"structur",
+		"of",
+		"relat",
+		"view"
+	],
+	"tag": [
+		"relational"
+	],
 	"title": "Translation Structures of Relational Views",
 	"type": "inproceedings",
 	"venue": "VLDB",

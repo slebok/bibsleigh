@@ -1,14 +1,34 @@
 {
-	"author": ["John Brevik", "Daniel Nurmi", "Richard Wolski"],
-	"booktitle": "PPOPP",
+	"author": [
+		"John Brevik",
+		"Daniel Nurmi",
+		"Richard Wolski"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2006",
 	"dblpkey": "conf/ppopp/BrevikNW06",
 	"doi": "10.1145/1122971.1122989",
 	"ee": "http://doi.acm.org/10.1145/1122971.1122989",
 	"pages": "110-118",
 	"publisher": "ACM",
-	"stemmed": ["predict", "bound", "on", "queu", "delay", "for", "batch", "schedul", "parallel", "machin"],
-	"tag": ["bound", "parallel", "predict"],
+	"stemmed": [
+		"predict",
+		"bound",
+		"on",
+		"queu",
+		"delay",
+		"for",
+		"batch",
+		"schedul",
+		"parallel",
+		"machin"
+	],
+	"tag": [
+		"bound",
+		"parallel",
+		"predict"
+	],
 	"title": "Predicting bounds on queuing delay for batch-scheduled parallel machines",
 	"type": "inproceedings",
 	"venue": "PPoPP",

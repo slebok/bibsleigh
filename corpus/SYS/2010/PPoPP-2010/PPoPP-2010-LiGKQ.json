@@ -1,14 +1,30 @@
 {
-	"author": ["Guodong Li", "Ganesh Gopalakrishnan", "Robert M. Kirby", "Dan Quinlan"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Guodong Li",
+		"Ganesh Gopalakrishnan",
+		"Robert M. Kirby",
+		"Dan Quinlan"
+	],
+	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/LiGKQ10",
 	"doi": "10.1145/1693453.1693512",
 	"ee": "http://doi.acm.org/10.1145/1693453.1693512",
 	"pages": "357-358",
 	"publisher": "ACM",
-	"stemmed": ["a", "symbol", "verifi", "for", "cuda", "program"],
-	"tag": ["source code", "verification"],
+	"stemmed": [
+		"a",
+		"symbol",
+		"verifi",
+		"for",
+		"cuda",
+		"program"
+	],
+	"tag": [
+		"source code",
+		"verification"
+	],
 	"title": "A symbolic verifier for CUDA programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

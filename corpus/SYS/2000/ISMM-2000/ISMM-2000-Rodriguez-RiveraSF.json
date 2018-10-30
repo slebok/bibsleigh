@@ -1,14 +1,30 @@
 {
-	"author": ["Gustavo Rodriguez-Rivera", "Michael Spertus", "Charles Fiterman"],
-	"booktitle": "ISMM",
+	"author": [
+		"Gustavo Rodriguez-Rivera",
+		"Michael Spertus",
+		"Charles Fiterman"
+	],
+	"booktitle": "Proceedings of the Second International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2000",
 	"dblpkey": "conf/iwmm/Rodriguez-RiveraSF00",
 	"doi": "10.1145/362422.362464",
 	"ee": "http://doi.acm.org/10.1145/362422.362464",
 	"pages": "71-79",
 	"publisher": "ACM",
-	"stemmed": ["conserv", "garbag", "collect", "for", "general", "memori", "alloc"],
-	"tag": ["garbage collection", "memory management"],
+	"stemmed": [
+		"conserv",
+		"garbag",
+		"collect",
+		"for",
+		"general",
+		"memori",
+		"alloc"
+	],
+	"tag": [
+		"garbage collection",
+		"memory management"
+	],
 	"title": "Conservative Garbage Collection for General Memory Allocators",
 	"type": "inproceedings",
 	"venue": "ISMM",

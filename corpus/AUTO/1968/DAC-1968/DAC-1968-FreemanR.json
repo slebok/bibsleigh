@@ -1,13 +1,33 @@
 {
-	"author": ["Murray F. Freeman", "Mark Resnick"],
-	"booktitle": "DAC",
+	"author": [
+		"Murray F. Freeman",
+		"Mark Resnick"
+	],
+	"booktitle": "Proceedings of the Fifth Design Automation Workshop",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1968",
 	"dblpkey": "conf/dac/FreemanR68",
 	"doi": "10.1145/800167.805387",
 	"ee": "http://doi.acm.org/10.1145/800167.805387",
 	"publisher": "ACM",
-	"stemmed": ["genda", "a", "general", "design", "autom", "system", "for", "modular", "hardwar"],
-	"tag": ["automation", "composition", "design", "hardware", "named"],
+	"stemmed": [
+		"genda",
+		"a",
+		"general",
+		"design",
+		"autom",
+		"system",
+		"for",
+		"modular",
+		"hardwar"
+	],
+	"tag": [
+		"automation",
+		"composition",
+		"design",
+		"hardware",
+		"named"
+	],
 	"title": "GENDA — a generalized design automation system for modular hardware",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,35 @@
 {
-	"author": ["Khawar Shahzad", "Ayesha Khalid", "Zoltán Endre Rákossy", "Goutam Paul", "Anupam Chattopadhyay"],
-	"booktitle": "DAC",
+	"author": [
+		"Khawar Shahzad",
+		"Ayesha Khalid",
+		"Zoltán Endre Rákossy",
+		"Goutam Paul",
+		"Anupam Chattopadhyay"
+	],
+	"booktitle": "Proceedings of the 50th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2013",
 	"dblpkey": "conf/dac/ShahzadKRPC13",
 	"doi": "10.1145/2463209.2488898",
 	"ee": "http://doi.acm.org/10.1145/2463209.2488898",
 	"pages": "133:1-133:10",
 	"publisher": "ACM",
-	"stemmed": ["co", "arx", "a", "coprocessor", "for", "arx", "base", "cryptograph", "algorithm"],
-	"tag": ["algorithm", "encryption", "named"],
+	"stemmed": [
+		"co",
+		"arx",
+		"a",
+		"coprocessor",
+		"for",
+		"arx",
+		"base",
+		"cryptograph",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"encryption",
+		"named"
+	],
 	"title": "CoARX: a coprocessor for ARX-based cryptographic algorithms",
 	"type": "inproceedings",
 	"venue": "DAC",

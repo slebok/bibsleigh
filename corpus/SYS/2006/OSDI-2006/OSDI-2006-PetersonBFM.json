@@ -1,13 +1,27 @@
 {
-	"author": ["Larry L. Peterson", "Andy C. Bavier", "Marc E. Fiuczynski", "Steve Muir"],
-	"booktitle": "OSDI",
+	"author": [
+		"Larry L. Peterson",
+		"Andy C. Bavier",
+		"Marc E. Fiuczynski",
+		"Steve Muir"
+	],
+	"booktitle": "Proceedings of the Seventh Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2006",
 	"dblpkey": "conf/osdi/PetersonBFM06",
 	"ee": "http://www.usenix.org/events/osdi06/tech/peterson.html",
 	"pages": "351-366",
 	"publisher": "USENIX Association",
-	"stemmed": ["experi", "build", "planet", "lab"],
-	"tag": ["case study", "experience"],
+	"stemmed": [
+		"experi",
+		"build",
+		"planet",
+		"lab"
+	],
+	"tag": [
+		"case study",
+		"experience"
+	],
 	"title": "Experiences Building PlanetLab",
 	"type": "inproceedings",
 	"venue": "OSDI",

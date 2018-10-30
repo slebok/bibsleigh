@@ -1,15 +1,30 @@
 {
 	"author": "Masaharu Ozaki",
-	"booktitle": "ICDAR",
+	"booktitle": "Proceedings of the Third International Conference on Document Analysis and Recognition (Volume I)",
+	"booktitleshort": "ICDAR v1",
 	"crossref": "conf/icdar/1995-1",
 	"dblpkey": "conf/icdar/Ozaki95",
 	"doi": "10.1109/ICDAR.1995.598960",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1995.598960", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.598960"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1995.598960",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.598960"
+	],
 	"pages": "134-137",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["column", "segment", "by", "white", "space", "pattern", "match"],
-	"tag": ["pattern matching", "segmentation"],
+	"stemmed": [
+		"column",
+		"segment",
+		"by",
+		"white",
+		"space",
+		"pattern",
+		"match"
+	],
+	"tag": [
+		"pattern matching",
+		"segmentation"
+	],
 	"title": "Column segmentation by white space pattern matching",
 	"type": "inproceedings",
 	"venue": "ICDAR",

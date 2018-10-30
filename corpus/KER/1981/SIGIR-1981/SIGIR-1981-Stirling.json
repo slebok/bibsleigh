@@ -1,6 +1,7 @@
 {
 	"author": "Keith H. Stirling",
 	"booktitle": "Proceedings of the Fourth International Conference on Information Storage and Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1981/P063.pdf",
 	"crossref": "conf/sigir/81",
 	"dblpkey": "conf/sigir/Stirling81",
@@ -8,8 +9,25 @@
 	"ee": "http://doi.acm.org/10.1145/511754.511763",
 	"pages": "63-65",
 	"publisher": "ACM",
-	"stemmed": ["on", "the", "limit", "of", "document", "rank", "algorithm", "in", "inform", "retriev"],
-	"tag": ["algorithm", "documentation", "information retrieval", "on the", "ranking"],
+	"stemmed": [
+		"on",
+		"the",
+		"limit",
+		"of",
+		"document",
+		"rank",
+		"algorithm",
+		"in",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"algorithm",
+		"documentation",
+		"information retrieval",
+		"on the",
+		"ranking"
+	],
 	"title": "On the Limitations of Document Ranking Algorithms in Information Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

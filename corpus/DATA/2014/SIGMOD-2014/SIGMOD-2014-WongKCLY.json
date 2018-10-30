@@ -1,6 +1,12 @@
 {
-	"author": ["Wai Kit Wong", "Ben Kao", "David Wai-Lok Cheung", "Rongbin Li", "Siu-Ming Yiu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Wai Kit Wong",
+		"Ben Kao",
+		"David Wai-Lok Cheung",
+		"Rongbin Li",
+		"Siu-Ming Yiu"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/WongKCLY14",
@@ -8,8 +14,23 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2588572",
 	"pages": "1395-1406",
 	"publisher": "ACM",
-	"stemmed": ["secur", "queri", "process", "with", "data", "interoper", "in", "a", "cloud", "databas", "environ"],
-	"tag": ["database", "query"],
+	"stemmed": [
+		"secur",
+		"queri",
+		"process",
+		"with",
+		"data",
+		"interoper",
+		"in",
+		"a",
+		"cloud",
+		"databas",
+		"environ"
+	],
+	"tag": [
+		"database",
+		"query"
+	],
 	"title": "Secure query processing with data interoperability in a cloud database environment",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,7 @@
 {
 	"author": "Peter Bollmann",
 	"booktitle": "Proceedings of the Sixth Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1983/P122.pdf",
 	"crossref": "conf/sigir/83",
 	"dblpkey": "conf/sigir/Bollman83",
@@ -8,8 +9,18 @@
 	"ee": "http://doi.acm.org/10.1145/511793.511811",
 	"pages": "122-128",
 	"publisher": "ACM",
-	"stemmed": ["the", "normal", "recal", "and", "relat", "measur"],
-	"tag": ["metric", "normalisation"],
+	"stemmed": [
+		"the",
+		"normal",
+		"recal",
+		"and",
+		"relat",
+		"measur"
+	],
+	"tag": [
+		"metric",
+		"normalisation"
+	],
 	"title": "The Normalized Recall and Related Measures",
 	"type": "inproceedings",
 	"venue": "SIGIR",

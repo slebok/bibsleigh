@@ -1,6 +1,7 @@
 {
 	"author": "Shang-Ching Chou",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/Chou92",
 	"doi": "10.1007/3-540-55602-8_204",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "geometri", "theorem", "prover", "for", "macintosh"],
-	"tag": ["geometry", "proving", "theorem proving"],
+	"stemmed": [
+		"a",
+		"geometri",
+		"theorem",
+		"prover",
+		"for",
+		"macintosh"
+	],
+	"tag": [
+		"geometry",
+		"proving",
+		"theorem proving"
+	],
 	"title": "A Geometry Theorem Prover for Macintoshes",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

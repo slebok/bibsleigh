@@ -1,6 +1,7 @@
 {
 	"author": "Wolfram Büttner",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Buttner86",
 	"doi": "10.1007/3-540-16780-3_112",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["unif", "in", "the", "data", "structur", "set"],
-	"tag": ["data type", "set", "unification"],
+	"stemmed": [
+		"unif",
+		"in",
+		"the",
+		"data",
+		"structur",
+		"set"
+	],
+	"tag": [
+		"data type",
+		"set",
+		"unification"
+	],
 	"title": "Unification in the Data Structure Sets",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

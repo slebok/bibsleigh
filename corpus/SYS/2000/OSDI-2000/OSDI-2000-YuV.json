@@ -1,13 +1,33 @@
 {
-	"acmid": 1251250,
-	"author": ["Haifeng Yu", "Amin Vahdat"],
-	"booktitle": "OSDI",
+	"acmid": "1251250",
+	"author": [
+		"Haifeng Yu",
+		"Amin Vahdat"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2000",
 	"dblpkey": "conf/osdi/YuV00",
 	"pages": "305-318",
 	"publisher": "USENIX Association",
-	"stemmed": ["design", "and", "evalu", "of", "a", "continu", "consist", "model", "for", "replic", "servic"],
-	"tag": ["consistency", "design", "evaluation"],
+	"stemmed": [
+		"design",
+		"and",
+		"evalu",
+		"of",
+		"a",
+		"continu",
+		"consist",
+		"model",
+		"for",
+		"replic",
+		"servic"
+	],
+	"tag": [
+		"consistency",
+		"design",
+		"evaluation"
+	],
 	"title": "Design and Evaluation of a Continuous Consistency Model for Replicated Services",
 	"type": "inproceedings",
 	"venue": "OSDI",

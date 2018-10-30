@@ -1,14 +1,37 @@
 {
-	"author": ["Isabella Stilkerich", "Clemens Lang", "Christoph Erhardt", "Michael Stilkerich"],
-	"booktitle": "LCTES",
+	"author": [
+		"Isabella Stilkerich",
+		"Clemens Lang",
+		"Christoph Erhardt",
+		"Michael Stilkerich"
+	],
+	"booktitle": "Proceedings of the 16th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2015",
 	"dblpkey": "conf/lctrts/StilkerichLES15",
 	"doi": "10.1145/2670529.2754961",
 	"ee": "http://doi.acm.org/10.1145/2670529.2754961",
 	"pages": "4:1-4:11",
 	"publisher": "ACM",
-	"stemmed": ["a", "practic", "getaway", "applic", "of", "escap", "analysi", "in", "embed", "real", "time", "system"],
-	"tag": ["analysis", "embedded", "realtime"],
+	"stemmed": [
+		"a",
+		"practic",
+		"getaway",
+		"applic",
+		"of",
+		"escap",
+		"analysi",
+		"in",
+		"embed",
+		"real",
+		"time",
+		"system"
+	],
+	"tag": [
+		"analysis",
+		"embedded",
+		"realtime"
+	],
 	"title": "A Practical Getaway: Applications of Escape Analysis in Embedded Real-Time Systems",
 	"type": "inproceedings",
 	"venue": "LCTES",

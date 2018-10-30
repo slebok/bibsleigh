@@ -1,15 +1,39 @@
 {
-	"author": ["Christoph Nagl", "Florian Rosenberg", "Schahram Dustdar"],
-	"booktitle": "EDOC",
+	"author": [
+		"Christoph Nagl",
+		"Florian Rosenberg",
+		"Schahram Dustdar"
+	],
+	"booktitle": "Proceedings of the 10th International Enterprise Distributed Object Computing Conference",
+	"booktitleshort": "EDOC",
 	"crossref": "conf/edoc/2006",
 	"dblpkey": "conf/edoc/NaglRD06",
 	"doi": "10.1109/EDOC.2006.67",
-	"ee": ["http://dx.doi.org/10.1109/EDOC.2006.67", "http://doi.ieeecomputersociety.org/10.1109/EDOC.2006.67"],
+	"ee": [
+		"http://dx.doi.org/10.1109/EDOC.2006.67",
+		"http://doi.ieeecomputersociety.org/10.1109/EDOC.2006.67"
+	],
 	"pages": "35-44",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["vidr", "a", "distribut", "servic", "orient", "busi", "rule", "engin", "base", "on", "rule", "ml"],
-	"tag": ["distributed", "named"],
+	"stemmed": [
+		"vidr",
+		"a",
+		"distribut",
+		"servic",
+		"orient",
+		"busi",
+		"rule",
+		"engin",
+		"base",
+		"on",
+		"rule",
+		"ml"
+	],
+	"tag": [
+		"distributed",
+		"named"
+	],
 	"title": "VIDRE — A Distributed Service-Oriented Business Rule Engine based on RuleML",
 	"type": "inproceedings",
 	"venue": "EDOC",

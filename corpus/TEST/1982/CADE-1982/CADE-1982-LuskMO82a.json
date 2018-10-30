@@ -1,6 +1,11 @@
 {
-	"author": ["Ewing L. Lusk", "William McCune", "Ross A. Overbeek"],
-	"booktitle": "CADE",
+	"author": [
+		"Ewing L. Lusk",
+		"William McCune",
+		"Ross A. Overbeek"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1982",
 	"dblpkey": "conf/cade/LuskMO82a",
 	"doi": "10.1007/BFb0000053",
@@ -10,11 +15,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["logic", "machin", "architectur", "infer", "mechan"],
-	"tag": ["architecture", "logic"],
+	"stemmed": [
+		"logic",
+		"machin",
+		"architectur",
+		"infer",
+		"mechan"
+	],
+	"tag": [
+		"architecture",
+		"logic"
+	],
 	"title": "Logic Machine Architecture: Inference Mechanisms",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 138,
+	"volume": "138",
 	"year": 1982
 }

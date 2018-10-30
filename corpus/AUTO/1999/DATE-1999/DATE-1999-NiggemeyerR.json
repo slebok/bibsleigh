@@ -1,6 +1,10 @@
 {
-	"author": ["Dirk Niggemeyer", "M. Rüffer"],
-	"booktitle": "DATE",
+	"author": [
+		"Dirk Niggemeyer",
+		"M. Rüffer"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/NiggemeyerR99",
 	"doi": "10.1109/DATE.1999.761149",
@@ -8,8 +12,20 @@
 	"pages": "376-",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["parametr", "built", "in", "self", "test", "of", "vlsi", "system"],
-	"tag": ["parametricity", "self"],
+	"stemmed": [
+		"parametr",
+		"built",
+		"in",
+		"self",
+		"test",
+		"of",
+		"vlsi",
+		"system"
+	],
+	"tag": [
+		"parametricity",
+		"self"
+	],
 	"title": "Parametric Built-In Self-Test of VLSI Systems",
 	"type": "inproceedings",
 	"venue": "DATE",

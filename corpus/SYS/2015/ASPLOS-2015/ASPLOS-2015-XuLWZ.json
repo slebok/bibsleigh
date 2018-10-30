@@ -1,14 +1,32 @@
 {
-	"author": ["Chao Xu", "Felix Xiaozhu Lin", "Yuyang Wang", "Lin Zhong"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Chao Xu",
+		"Felix Xiaozhu Lin",
+		"Yuyang Wang",
+		"Lin Zhong"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2015",
 	"dblpkey": "conf/asplos/XuLWZ15",
 	"doi": "10.1145/2694344.2694360",
 	"ee": "http://doi.acm.org/10.1145/2694344.2694360",
 	"pages": "239-252",
 	"publisher": "ACM",
-	"stemmed": ["autom", "os", "level", "devic", "runtim", "power", "manag"],
-	"tag": ["automation", "power management", "runtime"],
+	"stemmed": [
+		"autom",
+		"os",
+		"level",
+		"devic",
+		"runtim",
+		"power",
+		"manag"
+	],
+	"tag": [
+		"automation",
+		"power management",
+		"runtime"
+	],
 	"title": "Automated OS-level Device Runtime Power Management",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

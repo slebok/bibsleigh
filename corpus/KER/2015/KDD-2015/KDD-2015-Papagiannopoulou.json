@@ -1,14 +1,33 @@
 {
-	"author": ["Christina Papagiannopoulou", "Grigorios Tsoumakas", "Ioannis Tsamardinos"],
-	"booktitle": "KDD",
+	"author": [
+		"Christina Papagiannopoulou",
+		"Grigorios Tsoumakas",
+		"Ioannis Tsamardinos"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/Papagiannopoulou15",
 	"doi": "10.1145/2783258.2783302",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783302",
 	"pages": "915-924",
 	"publisher": "ACM",
-	"stemmed": ["discov", "and", "exploit", "determinist", "label", "relationship", "in", "multi", "label", "learn"],
-	"tag": ["learning", "multi"],
+	"stemmed": [
+		"discov",
+		"and",
+		"exploit",
+		"determinist",
+		"label",
+		"relationship",
+		"in",
+		"multi",
+		"label",
+		"learn"
+	],
+	"tag": [
+		"learning",
+		"multi"
+	],
 	"title": "Discovering and Exploiting Deterministic Label Relationships in Multi-Label Learning",
 	"type": "inproceedings",
 	"venue": "KDD",

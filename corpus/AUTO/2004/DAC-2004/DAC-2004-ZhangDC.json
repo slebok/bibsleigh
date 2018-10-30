@@ -1,14 +1,37 @@
 {
-	"author": ["Ying Zhang", "Robert P. Dick", "Krishnendu Chakrabarty"],
-	"booktitle": "DAC",
+	"author": [
+		"Ying Zhang",
+		"Robert P. Dick",
+		"Krishnendu Chakrabarty"
+	],
+	"booktitle": "Proceedings of the 41st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2004",
 	"dblpkey": "conf/dac/ZhangDC04",
 	"doi": "10.1145/996566.996719",
 	"ee": "http://doi.acm.org/10.1145/996566.996719",
 	"pages": "550-555",
 	"publisher": "ACM",
-	"stemmed": ["energi", "awar", "determinist", "fault", "toler", "in", "distribut", "real", "time", "embed", "system"],
-	"tag": ["distributed", "embedded", "energy", "fault tolerance", "realtime"],
+	"stemmed": [
+		"energi",
+		"awar",
+		"determinist",
+		"fault",
+		"toler",
+		"in",
+		"distribut",
+		"real",
+		"time",
+		"embed",
+		"system"
+	],
+	"tag": [
+		"distributed",
+		"embedded",
+		"energy",
+		"fault tolerance",
+		"realtime"
+	],
 	"title": "Energy-aware deterministic fault tolerance in distributed real-time embedded systems",
 	"type": "inproceedings",
 	"venue": "DAC",

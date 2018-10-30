@@ -1,6 +1,10 @@
 {
-	"author": ["Irith Pomeranz", "Sudhakar M. Reddy"],
-	"booktitle": "DATE",
+	"author": [
+		"Irith Pomeranz",
+		"Sudhakar M. Reddy"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/PomeranzR00",
 	"doi": "10.1109/DATE.2000.840287",
@@ -8,8 +12,24 @@
 	"pages": "298-304",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["built", "in", "generat", "of", "weight", "test", "sequenc", "for", "synchron", "sequenti", "circuit"],
-	"tag": ["generative", "sequence", "testing"],
+	"stemmed": [
+		"built",
+		"in",
+		"generat",
+		"of",
+		"weight",
+		"test",
+		"sequenc",
+		"for",
+		"synchron",
+		"sequenti",
+		"circuit"
+	],
+	"tag": [
+		"generative",
+		"sequence",
+		"testing"
+	],
 	"title": "Built-In Generation of Weighted Test Sequences for Synchronous Sequential Circuits",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,14 +1,47 @@
 {
-	"author": ["Ke Wang", "Senqiang Zhou", "Shiang Chen Liew"],
-	"booktitle": "VLDB",
-	"cite": ["conf/aaai/AlmuallimAK96", "conf/sigmod/AgrawalIS93", "conf/vldb/AgrawalS94", "conf/vldb/ChakrabartiDAR97", "journals/vldb/ChakrabartiDAR98", "conf/sigmod/ChakrabartiDI98", "conf/vldb/HanF95", "...", "conf/kdd/LiuHM98", "...", "books/mk/Quinlan93", "conf/vldb/SrikantA95", "journals/tkde/SmythG92", "conf/sigir/SchutzeHP95", "www/fi/hut-som", "..."],
+	"author": [
+		"Ke Wang",
+		"Senqiang Zhou",
+		"Shiang Chen Liew"
+	],
+	"booktitle": "Proceedings of the 25th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/aaai/AlmuallimAK96",
+		"conf/sigmod/AgrawalIS93",
+		"conf/vldb/AgrawalS94",
+		"conf/vldb/ChakrabartiDAR97",
+		"journals/vldb/ChakrabartiDAR98",
+		"conf/sigmod/ChakrabartiDI98",
+		"conf/vldb/HanF95",
+		"...",
+		"conf/kdd/LiuHM98",
+		"...",
+		"books/mk/Quinlan93",
+		"conf/vldb/SrikantA95",
+		"journals/tkde/SmythG92",
+		"conf/sigir/SchutzeHP95",
+		"www/fi/hut-som",
+		"..."
+	],
 	"crossref": "conf/vldb/99",
 	"dblpkey": "conf/vldb/WangZL99",
 	"ee": "http://www.vldb.org/conf/1999/P36.pdf",
 	"pages": "363-374",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["build", "hierarch", "classifi", "use", "class", "proxim"],
-	"tag": ["classification", "proximity", "using"],
+	"stemmed": [
+		"build",
+		"hierarch",
+		"classifi",
+		"use",
+		"class",
+		"proxim"
+	],
+	"tag": [
+		"classification",
+		"proximity",
+		"using"
+	],
 	"title": "Building Hierarchical Classifiers Using Class Proximity",
 	"type": "inproceedings",
 	"venue": "VLDB",

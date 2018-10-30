@@ -1,15 +1,38 @@
 {
-	"author": ["John Miles Smith", "Philip Yen-Tang Chang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"John Miles Smith",
+		"Philip Yen-Tang Chang"
+	],
+	"booktitle": "Proceedings of the Fifth ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD75/P064.PDF",
 	"crossref": "conf/sigmod/75",
 	"dblpkey": "conf/sigmod/SmithC75",
 	"doi": "10.1145/500080.500090",
 	"ee": "http://doi.acm.org/10.1145/500080.500090",
-	"pages": 64,
+	"pages": "64",
 	"publisher": "ACM",
-	"stemmed": ["optim", "the", "perform", "of", "a", "relat", "algebra", "data", "base", "interfac", "abstract"],
-	"tag": ["algebra", "database", "interface", "optimisation", "performance", "relational"],
+	"stemmed": [
+		"optim",
+		"the",
+		"perform",
+		"of",
+		"a",
+		"relat",
+		"algebra",
+		"data",
+		"base",
+		"interfac",
+		"abstract"
+	],
+	"tag": [
+		"algebra",
+		"database",
+		"interface",
+		"optimisation",
+		"performance",
+		"relational"
+	],
 	"title": "Optimizing the Performance of a Relational Algebra Data Base Interface (Abstract)",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

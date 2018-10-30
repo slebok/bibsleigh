@@ -1,6 +1,13 @@
 {
-	"author": ["Marc Oriol", "Nauman A. Qureshi", "Xavier Franch", "Anna Perini", "Jordi Marco"],
-	"booktitle": "REFSQ",
+	"author": [
+		"Marc Oriol",
+		"Nauman A. Qureshi",
+		"Xavier Franch",
+		"Anna Perini",
+		"Jordi Marco"
+	],
+	"booktitle": "Proceedings of the 18th International Working Conference on Requirements Engineering: Foundation for Software Quality",
+	"booktitleshort": "REFSQ",
 	"crossref": "conf/refsq/2012",
 	"dblpkey": "conf/refsq/OriolQFPM12",
 	"doi": "10.1007/978-3-642-28714-5_25",
@@ -9,11 +16,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["requir", "monitor", "for", "adapt", "servic", "base", "applic"],
-	"tag": ["adaptation", "monitoring", "requirements"],
+	"stemmed": [
+		"requir",
+		"monitor",
+		"for",
+		"adapt",
+		"servic",
+		"base",
+		"applic"
+	],
+	"tag": [
+		"adaptation",
+		"monitoring",
+		"requirements"
+	],
 	"title": "Requirements Monitoring for Adaptive Service-Based Applications",
 	"type": "inproceedings",
 	"venue": "REFSQ",
-	"volume": 7195,
+	"volume": "7195",
 	"year": 2012
 }

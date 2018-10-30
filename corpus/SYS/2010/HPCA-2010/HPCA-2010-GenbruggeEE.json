@@ -1,6 +1,11 @@
 {
-	"author": ["Davy Genbrugge", "Stijn Eyerman", "Lieven Eeckhout"],
-	"booktitle": "HPCA",
+	"author": [
+		"Davy Genbrugge",
+		"Stijn Eyerman",
+		"Lieven Eeckhout"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2010",
 	"dblpkey": "conf/hpca/GenbruggeEE10",
 	"doi": "10.1109/HPCA.2010.5416636",
@@ -8,8 +13,23 @@
 	"pages": "1-12",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["interv", "simul", "rais", "the", "level", "of", "abstract", "in", "architectur", "simul"],
-	"tag": ["abstraction", "architecture", "simulation"],
+	"stemmed": [
+		"interv",
+		"simul",
+		"rais",
+		"the",
+		"level",
+		"of",
+		"abstract",
+		"in",
+		"architectur",
+		"simul"
+	],
+	"tag": [
+		"abstraction",
+		"architecture",
+		"simulation"
+	],
 	"title": "Interval simulation: Raising the level of abstraction in architectural simulation",
 	"type": "inproceedings",
 	"venue": "HPCA",

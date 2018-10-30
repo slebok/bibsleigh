@@ -1,14 +1,32 @@
 {
-	"author": ["Swann Perarnau", "Guillaume Huard"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Swann Perarnau",
+		"Guillaume Huard"
+	],
+	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/PerarnauH10",
 	"doi": "10.1145/1693453.1693497",
 	"ee": "http://doi.acm.org/10.1145/1693453.1693497",
 	"pages": "327-328",
 	"publisher": "ACM",
-	"stemmed": ["krash", "reproduc", "cpu", "load", "generat", "on", "mani", "core", "machin"],
-	"tag": ["cpu", "generative", "named"],
+	"stemmed": [
+		"krash",
+		"reproduc",
+		"cpu",
+		"load",
+		"generat",
+		"on",
+		"mani",
+		"core",
+		"machin"
+	],
+	"tag": [
+		"cpu",
+		"generative",
+		"named"
+	],
 	"title": "KRASH: reproducible CPU load generation on many cores machines",
 	"type": "inproceedings",
 	"venue": "PPoPP",

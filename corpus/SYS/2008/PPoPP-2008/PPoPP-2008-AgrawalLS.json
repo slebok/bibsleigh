@@ -1,14 +1,28 @@
 {
-	"author": ["Kunal Agrawal", "I-Ting Angelina Lee", "Jim Sukha"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Kunal Agrawal",
+		"I-Ting Angelina Lee",
+		"Jim Sukha"
+	],
+	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/AgrawalLS08",
 	"doi": "10.1145/1345206.1345261",
 	"ee": "http://doi.acm.org/10.1145/1345206.1345261",
 	"pages": "291-292",
 	"publisher": "ACM",
-	"stemmed": ["safer", "open", "nest", "transact", "through", "ownership"],
-	"tag": ["transaction"],
+	"stemmed": [
+		"safer",
+		"open",
+		"nest",
+		"transact",
+		"through",
+		"ownership"
+	],
+	"tag": [
+		"transaction"
+	],
 	"title": "Safer open-nested transactions through ownership",
 	"type": "inproceedings",
 	"venue": "PPoPP",

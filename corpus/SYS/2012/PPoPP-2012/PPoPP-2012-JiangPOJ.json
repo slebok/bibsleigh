@@ -1,14 +1,35 @@
 {
-	"author": ["Lei Jiang", "Pragneshkumar B. Patel", "George Ostrouchov", "Ferdinand Jamitzky"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Lei Jiang",
+		"Pragneshkumar B. Patel",
+		"George Ostrouchov",
+		"Ferdinand Jamitzky"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/JiangPOJ12",
 	"doi": "10.1145/2145816.2145882",
 	"ee": "http://doi.acm.org/10.1145/2145816.2145882",
 	"pages": "335-336",
 	"publisher": "ACM",
-	"stemmed": ["open", "mp", "style", "parallel", "in", "data", "center", "multicor", "comput", "with", "r"],
-	"tag": ["manycore", "parallel"],
+	"stemmed": [
+		"open",
+		"mp",
+		"style",
+		"parallel",
+		"in",
+		"data",
+		"center",
+		"multicor",
+		"comput",
+		"with",
+		"r"
+	],
+	"tag": [
+		"manycore",
+		"parallel"
+	],
 	"title": "OpenMP-style parallelism in data-centered multicore computing with R",
 	"type": "inproceedings",
 	"venue": "PPoPP",

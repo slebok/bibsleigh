@@ -1,6 +1,7 @@
 {
 	"author": "Roland Dietrich",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Dietrich86",
 	"doi": "10.1007/3-540-16780-3_80",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["relat", "resolut", "and", "algebra", "complet", "for", "horn", "logic"],
-	"tag": ["algebra", "logic"],
+	"stemmed": [
+		"relat",
+		"resolut",
+		"and",
+		"algebra",
+		"complet",
+		"for",
+		"horn",
+		"logic"
+	],
+	"tag": [
+		"algebra",
+		"logic"
+	],
 	"title": "Relating Resolution and Algebraic Completion for Horn Logic",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

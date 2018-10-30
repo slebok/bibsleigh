@@ -1,6 +1,9 @@
 {
-	"author": ["John Altidor", "Yannis Smaragdakis"],
-	"booktitle": "Proceedings of the 29th International Conference on Object Oriented Programming Systems Languages & Applications",
+	"author": [
+		"John Altidor",
+		"Yannis Smaragdakis"
+	],
+	"booktitle": "Proceedings of the 29th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2014",
 	"dblpkey": "conf/oopsla/AltidorS14",
@@ -8,8 +11,20 @@
 	"ee": "http://doi.acm.org/10.1145/2660193.2660203",
 	"pages": "271-290",
 	"publisher": "ACM",
-	"stemmed": ["refactor", "java", "generic", "by", "infer", "wildcard", "in", "practic"],
-	"tag": ["java", "refactoring"],
+	"stemmed": [
+		"refactor",
+		"java",
+		"generic",
+		"by",
+		"infer",
+		"wildcard",
+		"in",
+		"practic"
+	],
+	"tag": [
+		"java",
+		"refactoring"
+	],
 	"title": "Refactoring Java generics by inferring wildcards, in practice",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

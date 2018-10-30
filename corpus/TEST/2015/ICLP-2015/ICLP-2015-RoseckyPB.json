@@ -1,6 +1,10 @@
 {
-	"author": ["Jan Rosecky", "Filip Prochazka", "Barbora Buhnova"],
-	"booktitle": "ICLP (Technical Communications)",
+	"author": [
+		"Jan Rosecky",
+		"Filip Prochazka",
+		"Barbora Buhnova"
+	],
+	"booktitle": "Technical Communications of the 31st International Conference on Logic Programming",
 	"booktitleshort": "ICLP TC",
 	"crossref": "conf/iclp/2015tc",
 	"dblpkey": "conf/iclp/RoseckyPB15",
@@ -8,11 +12,27 @@
 	"publisher": "CEUR-WS.org",
 	"series": "CEUR Workshop Proceedings",
 	"seriesshort": "CEUR",
-	"stemmed": ["grid", "mind", "prolog", "base", "simul", "environ", "for", "futur", "energi", "grid"],
-	"tag": ["energy", "grid", "prolog", "simulation"],
+	"stemmed": [
+		"grid",
+		"mind",
+		"prolog",
+		"base",
+		"simul",
+		"environ",
+		"for",
+		"futur",
+		"energi",
+		"grid"
+	],
+	"tag": [
+		"energy",
+		"grid",
+		"prolog",
+		"simulation"
+	],
 	"title": "Grid Mind: Prolog-Based Simulation Environment for Future Energy Grids",
 	"type": "inproceedings",
 	"venue": "ICLP",
-	"volume": 1433,
+	"volume": "1433",
 	"year": 2015
 }

@@ -1,13 +1,33 @@
 {
-	"author": ["Wei Wang", "Haifeng Jiang", "Hongjun Lu", "Jeffrey Xu Yu"],
-	"booktitle": "VLDB",
+	"author": [
+		"Wei Wang",
+		"Haifeng Jiang",
+		"Hongjun Lu",
+		"Jeffrey Xu Yu"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/WangJLY04",
 	"ee": "http://www.vldb.org/conf/2004/RS6P3.PDF",
 	"pages": "240-251",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["bloom", "histogram", "path", "select", "estim", "for", "xml", "data", "with", "updat"],
-	"tag": ["estimation", "xml"],
+	"stemmed": [
+		"bloom",
+		"histogram",
+		"path",
+		"select",
+		"estim",
+		"for",
+		"xml",
+		"data",
+		"with",
+		"updat"
+	],
+	"tag": [
+		"estimation",
+		"xml"
+	],
 	"title": "Bloom Histogram: Path Selectivity Estimation for XML Data with Updates",
 	"type": "inproceedings",
 	"venue": "VLDB",

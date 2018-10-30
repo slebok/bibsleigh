@@ -1,6 +1,7 @@
 {
 	"author": "Gernot Salzer",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/Salzer96",
 	"doi": "10.1007/3-540-61511-3_122",
@@ -10,11 +11,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["optim", "axiomat", "for", "multipl", "valu", "oper", "and", "quantifi", "base", "on", "semi", "lattic"],
-	"tag": ["axiom", "multi", "quantifier"],
+	"stemmed": [
+		"optim",
+		"axiomat",
+		"for",
+		"multipl",
+		"valu",
+		"oper",
+		"and",
+		"quantifi",
+		"base",
+		"on",
+		"semi",
+		"lattic"
+	],
+	"tag": [
+		"axiom",
+		"multi",
+		"quantifier"
+	],
 	"title": "Optimal Axiomatizations for Multiple-Valued Operators and Quantifiers Based on Semi-lattices",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

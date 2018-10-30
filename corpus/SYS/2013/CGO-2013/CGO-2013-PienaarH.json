@@ -1,16 +1,38 @@
 {
-	"acmid": 2495916,
-	"author": ["Jacques A. Pienaar", "Robert Hundt"],
-	"booktitle": "CGO",
+	"acmid": "2495916",
+	"author": [
+		"Jacques A. Pienaar",
+		"Robert Hundt"
+	],
+	"booktitle": "Proceedings of the 11th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2013",
 	"dblpkey": "conf/cgo/PienaarH13",
 	"doi": "10.1109/CGO.2013.6495007",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2013.6495007", "http://doi.ieeecomputersociety.org/10.1109/CGO.2013.6495007", "http://dl.acm.org/citation.cfm?id=2495916"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2013.6495007",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2013.6495007",
+		"http://dl.acm.org/citation.cfm?id=2495916"
+	],
 	"pages": "11:1-11:11",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["js", "whiz", "static", "analysi", "for", "javascript", "memori", "leak"],
-	"tag": ["javascript", "memory management", "named", "static analysis"],
+	"stemmed": [
+		"js",
+		"whiz",
+		"static",
+		"analysi",
+		"for",
+		"javascript",
+		"memori",
+		"leak"
+	],
+	"tag": [
+		"javascript",
+		"memory management",
+		"named",
+		"static analysis"
+	],
 	"title": "JSWhiz: Static analysis for JavaScript memory leaks",
 	"type": "inproceedings",
 	"venue": "CGO",

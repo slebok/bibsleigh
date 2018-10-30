@@ -1,6 +1,10 @@
 {
-	"author": ["Nikolaj Bjørner", "Kenneth L. McMillan", "Andrey Rybalchenko"],
-	"booktitle": "SMT@IJCAR",
+	"author": [
+		"Nikolaj Bjørner",
+		"Kenneth L. McMillan",
+		"Andrey Rybalchenko"
+	],
+	"booktitle": "Proceedings of the 10th International Workshop on Satisfiability Modulo Theories",
 	"booktitleshort": "SMT",
 	"crossref": "conf/cade/2012smt",
 	"dblpkey": "conf/cade/BjornerMR12",
@@ -8,11 +12,22 @@
 	"pages": "3-11",
 	"publisher": "EasyChair",
 	"series": "EPiC Series",
-	"stemmed": ["program", "verif", "as", "satisfi", "modulo", "theori"],
-	"tag": ["modulo theories", "satisfiability", "verification"],
+	"stemmed": [
+		"program",
+		"verif",
+		"as",
+		"satisfi",
+		"modulo",
+		"theori"
+	],
+	"tag": [
+		"modulo theories",
+		"satisfiability",
+		"verification"
+	],
 	"title": "Program Verification as Satisfiability Modulo Theories",
 	"type": "inproceedings",
 	"venue": "SMT",
-	"volume": 20,
+	"volume": "20",
 	"year": 2012
 }

@@ -1,14 +1,30 @@
 {
 	"author": "Thomas R. Smith",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 22nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1985",
 	"dblpkey": "conf/dac/Smith85",
 	"doi": "10.1145/317825.317876",
 	"ee": "http://doi.acm.org/10.1145/317825.317876",
 	"pages": "312-318",
 	"publisher": "ACM",
-	"stemmed": ["a", "data", "architectur", "for", "an", "uncertain", "design", "and", "manufactur", "environ"],
-	"tag": ["architecture", "design", "nondeterminism"],
+	"stemmed": [
+		"a",
+		"data",
+		"architectur",
+		"for",
+		"an",
+		"uncertain",
+		"design",
+		"and",
+		"manufactur",
+		"environ"
+	],
+	"tag": [
+		"architecture",
+		"design",
+		"nondeterminism"
+	],
 	"title": "A data architecture for an uncertain design and manufacturing environment",
 	"type": "inproceedings",
 	"venue": "DAC",

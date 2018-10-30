@@ -1,14 +1,31 @@
 {
-	"author": ["Dirk Grunwald", "Harini Srinivasan"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Dirk Grunwald",
+		"Harini Srinivasan"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1993",
 	"dblpkey": "conf/ppopp/GrunwaldS93",
 	"doi": "10.1145/155332.155349",
 	"ee": "http://doi.acm.org/10.1145/155332.155349",
 	"pages": "159-168",
 	"publisher": "ACM",
-	"stemmed": ["data", "flow", "equat", "for", "explicit", "parallel", "program"],
-	"tag": ["data flow", "equation", "parallel", "source code"],
+	"stemmed": [
+		"data",
+		"flow",
+		"equat",
+		"for",
+		"explicit",
+		"parallel",
+		"program"
+	],
+	"tag": [
+		"data flow",
+		"equation",
+		"parallel",
+		"source code"
+	],
 	"title": "Data Flow Equations for Explicitly Parallel Programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

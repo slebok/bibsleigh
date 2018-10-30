@@ -1,14 +1,31 @@
 {
-	"author": ["Amie L. Souter", "Lori L. Pollock", "Dixie Hisley"],
-	"booktitle": "PASTE",
+	"author": [
+		"Amie L. Souter",
+		"Lori L. Pollock",
+		"Dixie Hisley"
+	],
+	"booktitle": "Proceedings of the Second Workshop on Program Analysis for Software Tools and Engineering",
+	"booktitleshort": "PASTE",
 	"crossref": "conf/paste/1999",
 	"dblpkey": "conf/paste/SouterPH99",
 	"doi": "10.1145/316158.316178",
 	"ee": "http://doi.acm.org/10.1145/316158.316178",
 	"pages": "47-56",
 	"publisher": "ACM",
-	"stemmed": ["inter", "class", "def", "use", "analysi", "with", "partial", "class", "represent"],
-	"tag": ["analysis"],
+	"stemmed": [
+		"inter",
+		"class",
+		"def",
+		"use",
+		"analysi",
+		"with",
+		"partial",
+		"class",
+		"represent"
+	],
+	"tag": [
+		"analysis"
+	],
 	"title": "Inter-Class Def-Use Analysis with Partial Class Representations",
 	"type": "inproceedings",
 	"venue": "PASTE",

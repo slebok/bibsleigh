@@ -1,16 +1,57 @@
 {
-	"author": ["Jan Van den Bussche", "Jan Paredaens"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS91/P291.PDF", "journals/anthology/dvd1:text/1-3/PODS91/P291.PDF"],
-	"cite": ["journals/vldb/AbiteboulB95", "...", "conf/sigmod/AbiteboulK89", "journals/jcss/AbiteboulV90", "journals/dke/Beeri90", "conf/sigmod/89", "conf/pods/GyssensPG90", "journals/csur/HullK87", "conf/sigmod/HullS89", "conf/vldb/HullY90", "...", "journals/jacm/KiferLW95", "conf/pods/KuperV84", "conf/pods/LecluseR89", "...", "books/cs/NaqviT89", "conf/pods/Ullman87", "books/cs/Ullman88", "journals/tse/VarvelS89", "conf/dood/Zaniolo89"],
+	"author": [
+		"Jan Van den Bussche",
+		"Jan Paredaens"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS91/P291.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS91/P291.PDF"
+	],
+	"cite": [
+		"journals/vldb/AbiteboulB95",
+		"...",
+		"conf/sigmod/AbiteboulK89",
+		"journals/jcss/AbiteboulV90",
+		"journals/dke/Beeri90",
+		"conf/sigmod/89",
+		"conf/pods/GyssensPG90",
+		"journals/csur/HullK87",
+		"conf/sigmod/HullS89",
+		"conf/vldb/HullY90",
+		"...",
+		"journals/jacm/KiferLW95",
+		"conf/pods/KuperV84",
+		"conf/pods/LecluseR89",
+		"...",
+		"books/cs/NaqviT89",
+		"conf/pods/Ullman87",
+		"books/cs/Ullman88",
+		"journals/tse/VarvelS89",
+		"conf/dood/Zaniolo89"
+	],
 	"crossref": "conf/pods/91",
 	"dblpkey": "conf/pods/BusscheP91",
 	"doi": "10.1145/113413.113440",
 	"ee": "http://doi.acm.org/10.1145/113413.113440",
 	"pages": "291-299",
 	"publisher": "ACM Press",
-	"stemmed": ["the", "express", "power", "of", "structur", "valu", "in", "pure", "oodb", "s"],
-	"tag": ["power of"],
+	"stemmed": [
+		"the",
+		"express",
+		"power",
+		"of",
+		"structur",
+		"valu",
+		"in",
+		"pure",
+		"oodb",
+		"s"
+	],
+	"tag": [
+		"power of"
+	],
 	"title": "The Expressive Power of Structured Values in Pure OODB’s",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,16 +1,45 @@
 {
-	"acmid": 1252529,
-	"author": ["Cheng Wang", "Wei-Yu Chen", "Youfeng Wu", "Bratin Saha", "Ali-Reza Adl-Tabatabai"],
-	"booktitle": "CGO",
+	"acmid": "1252529",
+	"author": [
+		"Cheng Wang",
+		"Wei-Yu Chen",
+		"Youfeng Wu",
+		"Bratin Saha",
+		"Ali-Reza Adl-Tabatabai"
+	],
+	"booktitle": "Proceedings of the Fifth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2007",
 	"dblpkey": "conf/cgo/WangCWSA07",
 	"doi": "10.1109/CGO.2007.4",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2007.4", "http://doi.ieeecomputersociety.org/10.1109/CGO.2007.4", "http://dl.acm.org/citation.cfm?id=1252529"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2007.4",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2007.4",
+		"http://dl.acm.org/citation.cfm?id=1252529"
+	],
 	"pages": "34-48",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["code", "generat", "and", "optim", "for", "transact", "memori", "construct", "in", "an", "unmanag", "languag"],
-	"tag": ["code generation", "memory management", "optimisation", "transaction"],
+	"stemmed": [
+		"code",
+		"generat",
+		"and",
+		"optim",
+		"for",
+		"transact",
+		"memori",
+		"construct",
+		"in",
+		"an",
+		"unmanag",
+		"languag"
+	],
+	"tag": [
+		"code generation",
+		"memory management",
+		"optimisation",
+		"transaction"
+	],
 	"title": "Code Generation and Optimization for Transactional Memory Constructs in an Unmanaged Language",
 	"type": "inproceedings",
 	"venue": "CGO",

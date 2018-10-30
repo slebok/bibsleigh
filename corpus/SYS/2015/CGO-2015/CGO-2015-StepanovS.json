@@ -1,16 +1,40 @@
 {
-	"acmid": 2738607,
-	"author": ["Evgeniy Stepanov", "Konstantin Serebryany"],
-	"booktitle": "CGO",
+	"acmid": "2738607",
+	"author": [
+		"Evgeniy Stepanov",
+		"Konstantin Serebryany"
+	],
+	"booktitle": "Proceedings of the 13th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2015",
 	"dblpkey": "conf/cgo/StepanovS15",
 	"doi": "10.1109/CGO.2015.7054186",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2015.7054186", "http://dl.acm.org/citation.cfm?id=2738607"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2015.7054186",
+		"http://dl.acm.org/citation.cfm?id=2738607"
+	],
 	"pages": "46-55",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["memori", "sanit", "fast", "detector", "of", "uniniti", "memori", "use", "in", "c"],
-	"tag": ["c++", "detection", "memory management", "named", "performance"],
+	"stemmed": [
+		"memori",
+		"sanit",
+		"fast",
+		"detector",
+		"of",
+		"uniniti",
+		"memori",
+		"use",
+		"in",
+		"c"
+	],
+	"tag": [
+		"c++",
+		"detection",
+		"memory management",
+		"named",
+		"performance"
+	],
 	"title": "MemorySanitizer: fast detector of uninitialized memory use in C++",
 	"type": "inproceedings",
 	"venue": "CGO",

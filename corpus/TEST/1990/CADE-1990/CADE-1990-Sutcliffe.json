@@ -1,6 +1,7 @@
 {
 	"author": "Geoff Sutcliffe",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/Sutcliffe90",
 	"doi": "10.1007/3-540-52885-7_137",
@@ -10,11 +11,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "general", "claus", "theorem", "prover"],
-	"tag": ["proving", "theorem proving"],
+	"stemmed": [
+		"a",
+		"general",
+		"claus",
+		"theorem",
+		"prover"
+	],
+	"tag": [
+		"proving",
+		"theorem proving"
+	],
 	"title": "A General Clause Theorem Prover",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

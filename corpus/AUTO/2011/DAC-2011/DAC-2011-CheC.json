@@ -1,14 +1,38 @@
 {
-	"author": ["Weijia Che", "Karam S. Chatha"],
-	"booktitle": "DAC",
+	"author": [
+		"Weijia Che",
+		"Karam S. Chatha"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/CheC11",
 	"doi": "10.1145/2024724.2024753",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024753",
 	"pages": "122-127",
 	"publisher": "ACM",
-	"stemmed": ["compil", "of", "stream", "program", "onto", "scratchpad", "memori", "base", "embed", "multicor", "processor", "through", "retim"],
-	"tag": ["compilation", "embedded", "manycore", "memory management", "source code"],
+	"stemmed": [
+		"compil",
+		"of",
+		"stream",
+		"program",
+		"onto",
+		"scratchpad",
+		"memori",
+		"base",
+		"embed",
+		"multicor",
+		"processor",
+		"through",
+		"retim"
+	],
+	"tag": [
+		"compilation",
+		"embedded",
+		"manycore",
+		"memory management",
+		"source code"
+	],
 	"title": "Compilation of stream programs onto scratchpad memory based embedded multicore processors through retiming",
 	"type": "inproceedings",
 	"venue": "DAC",

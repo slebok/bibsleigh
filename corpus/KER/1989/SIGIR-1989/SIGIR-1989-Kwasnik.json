@@ -1,6 +1,7 @@
 {
 	"author": "Barbara H. Kwasnik",
 	"booktitle": "Proceedings of the 12th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P207.pdf",
 	"crossref": "conf/sigir/89",
 	"dblpkey": "conf/sigir/Kwasnik89",
@@ -8,8 +9,28 @@
 	"ee": "http://doi.acm.org/10.1145/75334.75356",
 	"pages": "207-210",
 	"publisher": "ACM",
-	"stemmed": ["how", "a", "person", "document", "s", "intend", "use", "or", "purpos", "affect", "it", "classif", "in", "an", "offic"],
-	"tag": ["classification", "documentation", "how"],
+	"stemmed": [
+		"how",
+		"a",
+		"person",
+		"document",
+		"s",
+		"intend",
+		"use",
+		"or",
+		"purpos",
+		"affect",
+		"it",
+		"classif",
+		"in",
+		"an",
+		"offic"
+	],
+	"tag": [
+		"classification",
+		"documentation",
+		"how"
+	],
 	"title": "How a Personal Document’s Intended Use or Purpose Affects its Classification in an Office",
 	"type": "inproceedings",
 	"venue": "SIGIR",

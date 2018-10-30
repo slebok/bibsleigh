@@ -1,14 +1,37 @@
 {
-	"author": ["Michael B. Henry", "Meeta Srivastav", "Leyla Nazhandali"],
-	"booktitle": "DAC",
+	"author": [
+		"Michael B. Henry",
+		"Meeta Srivastav",
+		"Leyla Nazhandali"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/HenrySN11",
 	"doi": "10.1145/2024724.2024919",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024919",
 	"pages": "872-877",
 	"publisher": "ACM",
-	"stemmed": ["a", "case", "for", "nem", "base", "function", "unit", "power", "gate", "of", "low", "power", "embed", "microprocessor"],
-	"tag": ["embedded", "power management"],
+	"stemmed": [
+		"a",
+		"case",
+		"for",
+		"nem",
+		"base",
+		"function",
+		"unit",
+		"power",
+		"gate",
+		"of",
+		"low",
+		"power",
+		"embed",
+		"microprocessor"
+	],
+	"tag": [
+		"embedded",
+		"power management"
+	],
 	"title": "A case for NEMS-based functional-unit power gating of low-power embedded microprocessors",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,16 +1,47 @@
 {
-	"author": ["Peter Baumann", "Andreas Dehmel", "Paula Furtado", "Roland Ritsch", "Norbert Widmann"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Peter Baumann",
+		"Andreas Dehmel",
+		"Paula Furtado",
+		"Roland Ritsch",
+		"Norbert Widmann"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD98/P575.PDF",
-	"cite": ["conf/icde/AgrawalGS97", "...", "books/mk/BancilhonDK92", "conf/vldb/BaumannFRW97", "...", "...", "books/mk/Cattell96", "...", "...", "...", "conf/sigmod/PatelYKTNBHRLEKGDN97", "..."],
+	"cite": [
+		"conf/icde/AgrawalGS97",
+		"...",
+		"books/mk/BancilhonDK92",
+		"conf/vldb/BaumannFRW97",
+		"...",
+		"...",
+		"books/mk/Cattell96",
+		"...",
+		"...",
+		"...",
+		"conf/sigmod/PatelYKTNBHRLEKGDN97",
+		"..."
+	],
 	"crossref": "conf/sigmod/98",
 	"dblpkey": "conf/sigmod/BaumannDFRW98",
 	"doi": "10.1145/276304.276386",
 	"ee": "http://doi.acm.org/10.1145/276304.276386",
 	"pages": "575-577",
 	"publisher": "ACM Press",
-	"stemmed": ["the", "multidimension", "databas", "system", "ras", "da", "man"],
-	"tag": ["database", "multi"],
+	"stemmed": [
+		"the",
+		"multidimension",
+		"databas",
+		"system",
+		"ras",
+		"da",
+		"man"
+	],
+	"tag": [
+		"database",
+		"multi"
+	],
 	"title": "The Multidimensional Database System RasDaMan",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

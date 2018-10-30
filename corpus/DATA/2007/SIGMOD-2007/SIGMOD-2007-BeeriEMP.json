@@ -1,6 +1,11 @@
 {
-	"author": ["Catriel Beeri", "Anat Eyal", "Tova Milo", "Alon Pilberg"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Catriel Beeri",
+		"Anat Eyal",
+		"Tova Milo",
+		"Alon Pilberg"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/BeeriEMP07",
@@ -8,8 +13,19 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247628",
 	"pages": "1122-1124",
 	"publisher": "ACM",
-	"stemmed": ["queri", "base", "monitor", "of", "bpel", "busi", "process"],
-	"tag": ["monitoring", "process"],
+	"stemmed": [
+		"queri",
+		"base",
+		"monitor",
+		"of",
+		"bpel",
+		"busi",
+		"process"
+	],
+	"tag": [
+		"monitoring",
+		"process"
+	],
 	"title": "Query-based monitoring of BPEL business processes",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

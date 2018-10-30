@@ -1,14 +1,37 @@
 {
-	"author": ["Wing Chiu Tam", "Osei Poku", "R. D. (Shawn) Blanton"],
-	"booktitle": "DAC",
+	"author": [
+		"Wing Chiu Tam",
+		"Osei Poku",
+		"R. D. (Shawn) Blanton"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/TamPB08",
 	"doi": "10.1145/1391469.1391568",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391568",
 	"pages": "367-372",
 	"publisher": "ACM",
-	"stemmed": ["precis", "failur", "local", "use", "autom", "layout", "analysi", "of", "diagnosi", "candid"],
-	"tag": ["analysis", "automation", "layout", "locality", "precise", "using"],
+	"stemmed": [
+		"precis",
+		"failur",
+		"local",
+		"use",
+		"autom",
+		"layout",
+		"analysi",
+		"of",
+		"diagnosi",
+		"candid"
+	],
+	"tag": [
+		"analysis",
+		"automation",
+		"layout",
+		"locality",
+		"precise",
+		"using"
+	],
 	"title": "Precise failure localization using automated layout analysis of diagnosis candidates",
 	"type": "inproceedings",
 	"venue": "DAC",

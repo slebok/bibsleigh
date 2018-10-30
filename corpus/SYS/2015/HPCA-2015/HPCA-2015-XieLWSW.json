@@ -1,14 +1,32 @@
 {
-	"author": ["Xiaolong Xie", "Yun Liang", "Yu Wang", "Guangyu Sun", "Tao Wang"],
-	"booktitle": "HPCA",
+	"author": [
+		"Xiaolong Xie",
+		"Yun Liang",
+		"Yu Wang",
+		"Guangyu Sun",
+		"Tao Wang"
+	],
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2015",
 	"dblpkey": "conf/hpca/XieLWSW15",
 	"doi": "10.1109/HPCA.2015.7056023",
 	"ee": "http://dx.doi.org/10.1109/HPCA.2015.7056023",
 	"pages": "76-88",
 	"publisher": "IEEE",
-	"stemmed": ["coordin", "static", "and", "dynam", "cach", "bypass", "for", "gpus"],
-	"tag": ["coordination"],
+	"stemmed": [
+		"coordin",
+		"static",
+		"and",
+		"dynam",
+		"cach",
+		"bypass",
+		"for",
+		"gpus"
+	],
+	"tag": [
+		"coordination"
+	],
 	"title": "Coordinated static and dynamic cache bypassing for GPUs",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,6 +1,11 @@
 {
-	"author": ["Badrish Chandramouli", "Christopher N. Bond", "Shivnath Babu", "Jun Yang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Badrish Chandramouli",
+		"Christopher N. Bond",
+		"Shivnath Babu",
+		"Jun Yang"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/ChandramouliBBY07",
@@ -8,8 +13,15 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247542",
 	"pages": "557-568",
 	"publisher": "ACM",
-	"stemmed": ["queri", "suspend", "and", "resum"],
-	"tag": ["query"],
+	"stemmed": [
+		"queri",
+		"suspend",
+		"and",
+		"resum"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Query suspend and resume",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,11 @@
 {
-	"author": ["Vijay D'Silva", "Mitra Purandare", "Daniel Kröning"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Vijay D'Silva",
+		"Mitra Purandare",
+		"Daniel Kröning"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2008",
 	"dblpkey": "conf/vmcai/DSilvaPK08",
 	"doi": "10.1007/978-3-540-78163-9_10",
@@ -10,11 +15,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["approxim", "refin", "for", "interpol", "base", "model", "check"],
-	"tag": ["approximate", "model checking", "refinement"],
+	"stemmed": [
+		"approxim",
+		"refin",
+		"for",
+		"interpol",
+		"base",
+		"model",
+		"check"
+	],
+	"tag": [
+		"approximate",
+		"model checking",
+		"refinement"
+	],
 	"title": "Approximation Refinement for Interpolation-Based Model Checking",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 4905,
+	"volume": "4905",
 	"year": 2008
 }

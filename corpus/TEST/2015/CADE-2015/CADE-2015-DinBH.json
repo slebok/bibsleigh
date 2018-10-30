@@ -1,6 +1,11 @@
 {
-	"author": ["Crystal Chang Din", "Richard Bubel", "Reiner Hähnle"],
-	"booktitle": "CADE",
+	"author": [
+		"Crystal Chang Din",
+		"Richard Bubel",
+		"Reiner Hähnle"
+	],
+	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
 	"dblpkey": "conf/cade/DinBH15",
 	"doi": "10.1007/978-3-319-21401-6_35",
@@ -10,11 +15,31 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["ke", "y", "ab", "a", "deduct", "verif", "tool", "for", "the", "concurr", "model", "languag", "ab"],
-	"tag": ["concurrent", "deduction", "modelling", "named", "verification"],
+	"stemmed": [
+		"ke",
+		"y",
+		"ab",
+		"a",
+		"deduct",
+		"verif",
+		"tool",
+		"for",
+		"the",
+		"concurr",
+		"model",
+		"languag",
+		"ab"
+	],
+	"tag": [
+		"concurrent",
+		"deduction",
+		"modelling",
+		"named",
+		"verification"
+	],
 	"title": "KeY-ABS: A Deductive Verification Tool for the Concurrent Modelling Language ABS",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 9195,
+	"volume": "9195",
 	"year": 2015
 }

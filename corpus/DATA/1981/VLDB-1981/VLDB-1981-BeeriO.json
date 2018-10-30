@@ -1,15 +1,44 @@
 {
-	"author": ["Catriel Beeri", "Ron Obermarck"],
-	"booktitle": "VLDB",
+	"author": [
+		"Catriel Beeri",
+		"Ron Obermarck"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB81/P166.PDF",
-	"cite": ["...", "journals/csur/CoffmanES71", "conf/ac/Gray78", "conf/berkeley/GrayHKO81", "journals/csur/Holt72", "journals/siamcomp/Johnson75", "...", "...", "...", "journals/jacm/Sethi74", "journals/tods/TraigerGGL82"],
+	"cite": [
+		"...",
+		"journals/csur/CoffmanES71",
+		"conf/ac/Gray78",
+		"conf/berkeley/GrayHKO81",
+		"journals/csur/Holt72",
+		"journals/siamcomp/Johnson75",
+		"...",
+		"...",
+		"...",
+		"journals/jacm/Sethi74",
+		"journals/tods/TraigerGGL82"
+	],
 	"crossref": "conf/vldb/81",
 	"dblpkey": "conf/vldb/BeeriO81",
 	"pages": "166-178",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "resourc", "class", "independ", "deadlock", "detect", "algorithm"],
-	"tag": ["algorithm", "concurrent", "detection", "independence"],
+	"stemmed": [
+		"a",
+		"resourc",
+		"class",
+		"independ",
+		"deadlock",
+		"detect",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"concurrent",
+		"detection",
+		"independence"
+	],
 	"title": "A Resource Class Independent Deadlock Detection Algorithm",
 	"type": "inproceedings",
 	"venue": "VLDB",

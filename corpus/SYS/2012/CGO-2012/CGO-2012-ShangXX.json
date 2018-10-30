@@ -1,14 +1,32 @@
 {
-	"author": ["Lei Shang", "Xinwei Xie", "Jingling Xue"],
-	"booktitle": "CGO",
+	"author": [
+		"Lei Shang",
+		"Xinwei Xie",
+		"Jingling Xue"
+	],
+	"booktitle": "Proceedings of the 10th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2012",
 	"dblpkey": "conf/cgo/ShangXX12",
 	"doi": "10.1145/2259016.2259050",
 	"ee": "http://doi.acm.org/10.1145/2259016.2259050",
 	"pages": "264-274",
 	"publisher": "ACM",
-	"stemmed": ["on", "demand", "dynam", "summari", "base", "point", "to", "analysi"],
-	"tag": ["analysis", "on-demand", "points-to"],
+	"stemmed": [
+		"on",
+		"demand",
+		"dynam",
+		"summari",
+		"base",
+		"point",
+		"to",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"on-demand",
+		"points-to"
+	],
 	"title": "On-demand dynamic summary-based points-to analysis",
 	"type": "inproceedings",
 	"venue": "CGO",

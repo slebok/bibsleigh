@@ -1,14 +1,42 @@
 {
-	"author": ["Robert A. Kowalski", "Fariba Sadri", "Paul Soper"],
-	"booktitle": "VLDB",
-	"cite": ["conf/adbt/Clark77", "...", "...", "journals/jacm/Kowalski75", "...", "books/sp/Lloyd84", "journals/jlp/LloydST87", "journals/jlp/LloydT85", "journals/jlp/LloydT86", "journals/acta/Nicolas82", "...", "...", "..."],
+	"author": [
+		"Robert A. Kowalski",
+		"Fariba Sadri",
+		"Paul Soper"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/adbt/Clark77",
+		"...",
+		"...",
+		"journals/jacm/Kowalski75",
+		"...",
+		"books/sp/Lloyd84",
+		"journals/jlp/LloydST87",
+		"journals/jlp/LloydT85",
+		"journals/jlp/LloydT86",
+		"journals/acta/Nicolas82",
+		"...",
+		"...",
+		"..."
+	],
 	"crossref": "conf/vldb/87",
 	"dblpkey": "conf/vldb/KowalskiSS87",
 	"ee": "http://www.vldb.org/conf/1987/P061.PDF",
 	"pages": "61-69",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["integr", "check", "in", "deduct", "databas"],
-	"tag": ["database", "deduction"],
+	"stemmed": [
+		"integr",
+		"check",
+		"in",
+		"deduct",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"deduction"
+	],
 	"title": "Integrity Checking in Deductive Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

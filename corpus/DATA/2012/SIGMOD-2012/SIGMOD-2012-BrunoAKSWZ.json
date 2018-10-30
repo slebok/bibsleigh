@@ -1,6 +1,13 @@
 {
-	"author": ["Nicolas Bruno", "Sameer Agarwal", "Srikanth Kandula", "Bing Shi", "Ming-Chuan Wu", "Jingren Zhou"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Nicolas Bruno",
+		"Sameer Agarwal",
+		"Srikanth Kandula",
+		"Bing Shi",
+		"Ming-Chuan Wu",
+		"Jingren Zhou"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/BrunoAKSWZ12",
@@ -8,8 +15,16 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213959",
 	"pages": "805-806",
 	"publisher": "ACM",
-	"stemmed": ["recur", "job", "optim", "in", "scope"],
-	"tag": ["optimisation"],
+	"stemmed": [
+		"recur",
+		"job",
+		"optim",
+		"in",
+		"scope"
+	],
+	"tag": [
+		"optimisation"
+	],
 	"title": "Recurring job optimization in scope",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

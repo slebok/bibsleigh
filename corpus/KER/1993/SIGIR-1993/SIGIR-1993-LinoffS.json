@@ -1,6 +1,10 @@
 {
-	"author": ["Gordon Linoff", "Craig Stanfill"],
+	"author": [
+		"Gordon Linoff",
+		"Craig Stanfill"
+	],
 	"booktitle": "Proceedings of the 16th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1993/P088.pdf",
 	"crossref": "conf/sigir/93",
 	"dblpkey": "conf/sigir/LinoffS93",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/160688.160699",
 	"pages": "88-95",
 	"publisher": "ACM",
-	"stemmed": ["compress", "of", "index", "with", "full", "posit", "inform", "in", "veri", "larg", "text", "databas"],
-	"tag": ["database", "scalability"],
+	"stemmed": [
+		"compress",
+		"of",
+		"index",
+		"with",
+		"full",
+		"posit",
+		"inform",
+		"in",
+		"veri",
+		"larg",
+		"text",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"scalability"
+	],
 	"title": "Compression of Indexes with Full Positional Information in Very Large Text Databases",
 	"type": "inproceedings",
 	"venue": "SIGIR",

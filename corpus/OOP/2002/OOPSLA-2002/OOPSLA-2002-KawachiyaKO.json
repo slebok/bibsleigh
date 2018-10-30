@@ -1,17 +1,37 @@
 {
-	"author": ["Kiyokuni Kawachiya", "Akira Koseki", "Tamiya Onodera"],
-	"booktitle": "Proceedings of the 17th Conference on Object-Oriented Programming Systems, Languages and Applications",
+	"author": [
+		"Kiyokuni Kawachiya",
+		"Akira Koseki",
+		"Tamiya Onodera"
+	],
+	"booktitle": "Proceedings of the 17th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2002",
 	"dblpkey": "conf/oopsla/KawachiyaKO02",
 	"doi": "10.1145/582419.582433",
-	"editor": ["Mamdouh Ibrahim", "Satoshi Matsuoka"],
+	"editor": [
+		"Mamdouh Ibrahim",
+		"Satoshi Matsuoka"
+	],
 	"ee": "http://doi.acm.org/10.1145/582419.582433",
 	"isbn": "1-58113-471-1",
 	"pages": "130-141",
 	"publisher": "ACM",
-	"stemmed": ["lock", "reserv", "java", "lock", "can", "most", "do", "without", "atom", "oper"],
-	"tag": ["java"],
+	"stemmed": [
+		"lock",
+		"reserv",
+		"java",
+		"lock",
+		"can",
+		"most",
+		"do",
+		"without",
+		"atom",
+		"oper"
+	],
+	"tag": [
+		"java"
+	],
 	"title": "Lock reservation: Java locks can mostly do without atomic operations",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

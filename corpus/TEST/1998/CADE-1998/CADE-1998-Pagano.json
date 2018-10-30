@@ -1,6 +1,7 @@
 {
 	"author": "Bruno Pagano",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 15th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1998",
 	"dblpkey": "conf/cade/Pagano98",
 	"ee": "http://link.springer.de/link/service/series/0558/bibs/1421/14210072.htm",
@@ -9,11 +10,31 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["x", "r", "s", "explicit", "reduct", "system", "a", "first", "order", "calculus", "for", "higher", "order", "calculi"],
-	"tag": ["calculus", "first-order", "higher-order", "reduction"],
+	"stemmed": [
+		"x",
+		"r",
+		"s",
+		"explicit",
+		"reduct",
+		"system",
+		"a",
+		"first",
+		"order",
+		"calculus",
+		"for",
+		"higher",
+		"order",
+		"calculi"
+	],
+	"tag": [
+		"calculus",
+		"first-order",
+		"higher-order",
+		"reduction"
+	],
 	"title": "X.R.S : Explicit Reduction Systems — A First-Order Calculus for Higher-Order Calculi",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1421,
+	"volume": "1421",
 	"year": 1998
 }

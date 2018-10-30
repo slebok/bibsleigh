@@ -1,13 +1,33 @@
 {
-	"author": ["David E. Krekelberg", "Eugene Shragowitz", "Gerald E. Sobelman", "Li-Shin Lin"],
-	"booktitle": "DAC",
+	"author": [
+		"David E. Krekelberg",
+		"Eugene Shragowitz",
+		"Gerald E. Sobelman",
+		"Li-Shin Lin"
+	],
+	"booktitle": "Proceedings of the 23rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/KrekelbergSSL86",
 	"doi": "10.1145/318013.318085",
 	"ee": "http://doi.acm.org/10.1145/318013.318085",
 	"pages": "447-453",
 	"publisher": "IEEE Computer Society Press",
-	"stemmed": ["autom", "layout", "synthesi", "in", "the", "yasc", "silicon", "compil"],
-	"tag": ["automation", "compilation", "layout", "synthesis"],
+	"stemmed": [
+		"autom",
+		"layout",
+		"synthesi",
+		"in",
+		"the",
+		"yasc",
+		"silicon",
+		"compil"
+	],
+	"tag": [
+		"automation",
+		"compilation",
+		"layout",
+		"synthesis"
+	],
 	"title": "Automated layout synthesis in the YASC silicon compiler",
 	"type": "inproceedings",
 	"venue": "DAC",

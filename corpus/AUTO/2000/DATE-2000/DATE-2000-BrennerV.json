@@ -1,6 +1,10 @@
 {
-	"author": ["Ulrich Brenner", "Jens Vygen"],
-	"booktitle": "DATE",
+	"author": [
+		"Ulrich Brenner",
+		"Jens Vygen"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/BrennerV00",
 	"doi": "10.1109/DATE.2000.840026",
@@ -8,8 +12,19 @@
 	"pages": "117-121",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["faster", "optim", "singl", "row", "placement", "with", "fix", "order"],
-	"tag": ["performance"],
+	"stemmed": [
+		"faster",
+		"optim",
+		"singl",
+		"row",
+		"placement",
+		"with",
+		"fix",
+		"order"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Faster Optimal Single-Row Placement with Fixed Ordering",
 	"type": "inproceedings",
 	"venue": "DATE",

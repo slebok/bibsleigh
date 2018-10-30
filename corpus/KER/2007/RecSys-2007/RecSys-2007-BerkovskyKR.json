@@ -1,14 +1,29 @@
 {
-	"author": ["Shlomo Berkovsky", "Tsvi Kuflik", "Francesco Ricci"],
-	"booktitle": "RecSys",
+	"author": [
+		"Shlomo Berkovsky",
+		"Tsvi Kuflik",
+		"Francesco Ricci"
+	],
+	"booktitle": "Proceedings of the First Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2007",
 	"dblpkey": "conf/recsys/BerkovskyKR07",
 	"doi": "10.1145/1297231.1297238",
 	"ee": "http://doi.acm.org/10.1145/1297231.1297238",
 	"pages": "33-40",
 	"publisher": "ACM",
-	"stemmed": ["distribut", "collabor", "filter", "with", "domain", "special"],
-	"tag": ["collaboration", "distributed"],
+	"stemmed": [
+		"distribut",
+		"collabor",
+		"filter",
+		"with",
+		"domain",
+		"special"
+	],
+	"tag": [
+		"collaboration",
+		"distributed"
+	],
 	"title": "Distributed collaborative filtering with domain specialization",
 	"type": "inproceedings",
 	"venue": "RecSys",

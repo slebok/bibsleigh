@@ -1,14 +1,33 @@
 {
-	"author": ["Jason Oberg", "Wei Hu", "Ali Irturk", "Mohit Tiwari", "Timothy Sherwood", "Ryan Kastner"],
-	"booktitle": "DAC",
+	"author": [
+		"Jason Oberg",
+		"Wei Hu",
+		"Ali Irturk",
+		"Mohit Tiwari",
+		"Timothy Sherwood",
+		"Ryan Kastner"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/ObergHITSK11",
 	"doi": "10.1145/2024724.2024782",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024782",
 	"pages": "254-259",
 	"publisher": "ACM",
-	"stemmed": ["inform", "flow", "isol", "in", "i", "c", "and", "usb"],
-	"tag": ["data flow"],
+	"stemmed": [
+		"inform",
+		"flow",
+		"isol",
+		"in",
+		"i",
+		"c",
+		"and",
+		"usb"
+	],
+	"tag": [
+		"data flow"
+	],
 	"title": "Information flow isolation in I2C and USB",
 	"type": "inproceedings",
 	"venue": "DAC",

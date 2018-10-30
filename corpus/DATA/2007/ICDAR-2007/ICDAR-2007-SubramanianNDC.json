@@ -1,6 +1,12 @@
 {
-	"author": ["Krishna Subramanian", "Premkumar Natarajan", "Michael Decerbo", "David A. Castañón"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Krishna Subramanian",
+		"Premkumar Natarajan",
+		"Michael Decerbo",
+		"David A. Castañón"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/SubramanianNDC07",
 	"doi": "10.1109/ICDAR.2007.79",
@@ -8,8 +14,19 @@
 	"pages": "33-37",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["charact", "stroke", "detect", "for", "text", "local", "and", "extract"],
-	"tag": ["detection"],
+	"stemmed": [
+		"charact",
+		"stroke",
+		"detect",
+		"for",
+		"text",
+		"local",
+		"and",
+		"extract"
+	],
+	"tag": [
+		"detection"
+	],
 	"title": "Character-Stroke Detection for Text-Localization and Extraction",
 	"type": "inproceedings",
 	"venue": "ICDAR",

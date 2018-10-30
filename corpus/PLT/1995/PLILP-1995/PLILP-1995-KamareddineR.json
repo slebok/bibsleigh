@@ -1,6 +1,10 @@
 {
-	"author": ["Fairouz Kamareddine", "Alejandro Ríos"],
+	"author": [
+		"Fairouz Kamareddine",
+		"Alejandro Ríos"
+	],
 	"booktitle": "Proceedings of the Seventh International Symposium on Programming Languages: Implementations, Logics and Programs",
+	"booktitleshort": "PPDP",
 	"crossref": "conf/plilp/95",
 	"dblpkey": "conf/plilp/KamareddineR95",
 	"doi": "10.1007/BFb0026813",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "calculus", "à", "la", "de", "bruijn", "with", "explicit", "substitut"],
-	"tag": ["λ-calculus"],
+	"stemmed": [
+		"a",
+		"calculus",
+		"à",
+		"la",
+		"de",
+		"bruijn",
+		"with",
+		"explicit",
+		"substitut"
+	],
+	"tag": [
+		"λ-calculus"
+	],
 	"title": "A λ-calculus à la de Bruijn with Explicit Substitutions",
 	"type": "inproceedings",
 	"venue": "PPDP",
-	"volume": 982,
+	"volume": "982",
 	"year": 1995
 }

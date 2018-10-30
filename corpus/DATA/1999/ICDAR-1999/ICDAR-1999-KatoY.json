@@ -1,15 +1,38 @@
 {
-	"author": ["Yoshiharu Kato", "Makoto Yasuhara"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Yoshiharu Kato",
+		"Makoto Yasuhara"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/1999",
 	"dblpkey": "conf/icdar/KatoY99",
 	"doi": "10.1109/ICDAR.1999.791774",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1999.791774", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1999.791774"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1999.791774",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1999.791774"
+	],
 	"pages": "261-264",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["recoveri", "of", "draw", "order", "from", "scan", "imag", "of", "multi", "stroke", "handwrit"],
-	"tag": ["image", "multi", "order"],
+	"stemmed": [
+		"recoveri",
+		"of",
+		"draw",
+		"order",
+		"from",
+		"scan",
+		"imag",
+		"of",
+		"multi",
+		"stroke",
+		"handwrit"
+	],
+	"tag": [
+		"image",
+		"multi",
+		"order"
+	],
 	"title": "Recovery of Drawing Order from Scanned Images of Multi-Stroke Handwriting",
 	"type": "inproceedings",
 	"venue": "ICDAR",

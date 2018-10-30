@@ -1,14 +1,31 @@
 {
-	"author": ["Sigal Asaf", "Eitan Marcus", "Avi Ziv"],
-	"booktitle": "DAC",
+	"author": [
+		"Sigal Asaf",
+		"Eitan Marcus",
+		"Avi Ziv"
+	],
+	"booktitle": "Proceedings of the 41st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2004",
 	"dblpkey": "conf/dac/AsafMZ04",
 	"doi": "10.1145/996566.996579",
 	"ee": "http://doi.acm.org/10.1145/996566.996579",
 	"pages": "41-44",
 	"publisher": "ACM",
-	"stemmed": ["defin", "coverag", "view", "to", "improv", "function", "coverag", "analysi"],
-	"tag": ["analysis", "functional"],
+	"stemmed": [
+		"defin",
+		"coverag",
+		"view",
+		"to",
+		"improv",
+		"function",
+		"coverag",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"functional"
+	],
 	"title": "Defining coverage views to improve functional coverage analysis",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,16 +1,35 @@
 {
-	"acmid": 2190057,
+	"acmid": "2190057",
 	"author": "Qing Yi",
-	"booktitle": "CGO",
+	"booktitle": "Proceedings of the Ninth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2011",
 	"dblpkey": "conf/cgo/Yi11",
 	"doi": "10.1109/CGO.2011.5764678",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2011.5764678", "http://doi.ieeecomputersociety.org/10.1109/CGO.2011.5764678", "http://dl.acm.org/citation.cfm?id=2190057"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2011.5764678",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2011.5764678",
+		"http://dl.acm.org/citation.cfm?id=2190057"
+	],
 	"pages": "97-106",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["autom", "programm", "control", "and", "parameter", "of", "compil", "optim"],
-	"tag": ["automation", "compilation", "optimisation", "programmable"],
+	"stemmed": [
+		"autom",
+		"programm",
+		"control",
+		"and",
+		"parameter",
+		"of",
+		"compil",
+		"optim"
+	],
+	"tag": [
+		"automation",
+		"compilation",
+		"optimisation",
+		"programmable"
+	],
 	"title": "Automated programmable control and parameterization of compiler optimizations",
 	"type": "inproceedings",
 	"venue": "CGO",

@@ -1,14 +1,35 @@
 {
-	"author": ["Barbara M. Chapman", "Piyush Mehrotra", "Hans P. Zima"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Barbara M. Chapman",
+		"Piyush Mehrotra",
+		"Hans P. Zima"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1993",
 	"dblpkey": "conf/ppopp/ChapmanMZ93",
 	"doi": "10.1145/155332.155342",
 	"ee": "http://doi.acm.org/10.1145/155332.155342",
 	"pages": "92-101",
 	"publisher": "ACM",
-	"stemmed": ["high", "perform", "fortran", "without", "templat", "an", "altern", "model", "for", "distribut", "and", "align"],
-	"tag": ["fortran", "performance"],
+	"stemmed": [
+		"high",
+		"perform",
+		"fortran",
+		"without",
+		"templat",
+		"an",
+		"altern",
+		"model",
+		"for",
+		"distribut",
+		"and",
+		"align"
+	],
+	"tag": [
+		"fortran",
+		"performance"
+	],
 	"title": "High Performance Fortran Without Templates: An Alternative Model for Distribution and Alignment",
 	"type": "inproceedings",
 	"venue": "PPoPP",

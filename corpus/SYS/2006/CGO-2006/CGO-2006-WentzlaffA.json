@@ -1,16 +1,34 @@
 {
-	"acmid": 1122402,
-	"author": ["David Wentzlaff", "Anant Agarwal"],
-	"booktitle": "CGO",
+	"acmid": "1122402",
+	"author": [
+		"David Wentzlaff",
+		"Anant Agarwal"
+	],
+	"booktitle": "Proceedings of the Fourth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2006",
 	"dblpkey": "conf/cgo/WentzlaffA06",
 	"doi": "10.1109/CGO.2006.11",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2006.11", "http://doi.ieeecomputersociety.org/10.1109/CGO.2006.11", "http://dl.acm.org/citation.cfm?id=1122402"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2006.11",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2006.11",
+		"http://dl.acm.org/citation.cfm?id=1122402"
+	],
 	"pages": "173-184",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["construct", "virtual", "architectur", "on", "a", "tile", "processor"],
-	"tag": ["architecture"],
+	"stemmed": [
+		"construct",
+		"virtual",
+		"architectur",
+		"on",
+		"a",
+		"tile",
+		"processor"
+	],
+	"tag": [
+		"architecture"
+	],
 	"title": "Constructing Virtual Architectures on a Tiled Processor",
 	"type": "inproceedings",
 	"venue": "CGO",

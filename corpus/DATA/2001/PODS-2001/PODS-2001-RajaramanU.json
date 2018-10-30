@@ -1,13 +1,29 @@
 {
-	"author": ["Anand Rajaraman", "Jeffrey D. Ullman"],
-	"booktitle": "PODS",
+	"author": [
+		"Anand Rajaraman",
+		"Jeffrey D. Ullman"
+	],
+	"booktitle": "Proceedings of the 20th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2001",
 	"dblpkey": "conf/pods/RajaramanU01",
 	"doi": "10.1145/375551.375556",
-	"ee": ["http://doi.acm.org/10.1145/375551.375556", "http://www.acm.org/sigs/sigmod/pods/proc01/online/p86.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/375551.375556",
+		"http://www.acm.org/sigs/sigmod/pods/proc01/online/p86.pdf"
+	],
 	"publisher": "ACM",
-	"stemmed": ["queri", "websit", "use", "compact", "skeleton"],
-	"tag": ["query", "using"],
+	"stemmed": [
+		"queri",
+		"websit",
+		"use",
+		"compact",
+		"skeleton"
+	],
+	"tag": [
+		"query",
+		"using"
+	],
 	"title": "Querying Websites Using Compact Skeletons",
 	"type": "inproceedings",
 	"venue": "PODS",

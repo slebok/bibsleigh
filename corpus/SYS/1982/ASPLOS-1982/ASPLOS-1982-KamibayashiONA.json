@@ -1,14 +1,33 @@
 {
-	"author": ["Noriyuki Kamibayashi", "H. Ogawana", "K. Nagayama", "Hideo Aiso"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Noriyuki Kamibayashi",
+		"H. Ogawana",
+		"K. Nagayama",
+		"Hideo Aiso"
+	],
+	"booktitle": "Proceedings of the First Symposium on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1982",
 	"dblpkey": "conf/asplos/KamibayashiONA82",
 	"doi": "10.1145/800050.801843",
 	"ee": "http://doi.acm.org/10.1145/800050.801843",
 	"pages": "195-204",
 	"publisher": "ACM Press",
-	"stemmed": ["heart", "an", "oper", "system", "nucleus", "machin", "implement", "by", "firmwar"],
-	"tag": ["named", "operating system"],
+	"stemmed": [
+		"heart",
+		"an",
+		"oper",
+		"system",
+		"nucleus",
+		"machin",
+		"implement",
+		"by",
+		"firmwar"
+	],
+	"tag": [
+		"named",
+		"operating system"
+	],
 	"title": "Heart: An Operating System Nucleus Machine Implemented by Firmware",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

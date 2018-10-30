@@ -1,16 +1,38 @@
 {
-	"author": ["Wen-Syan Li", "Chris Clifton"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Wen-Syan Li",
+		"Chris Clifton"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD95/P484.PDF",
 	"cite": "conf/vldb/LiC94",
 	"crossref": "conf/sigmod/95",
 	"dblpkey": "conf/sigmod/LiC95",
 	"doi": "10.1145/223784.223897",
 	"ee": "http://doi.acm.org/10.1145/223784.223897",
-	"pages": 484,
+	"pages": "484",
 	"publisher": "ACM Press",
-	"stemmed": ["semint", "a", "system", "prototyp", "for", "semant", "integr", "in", "heterogen", "databas"],
-	"tag": ["database", "integration", "named", "prototype", "semantics", "semistructured data"],
+	"stemmed": [
+		"semint",
+		"a",
+		"system",
+		"prototyp",
+		"for",
+		"semant",
+		"integr",
+		"in",
+		"heterogen",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"integration",
+		"named",
+		"prototype",
+		"semantics",
+		"semistructured data"
+	],
 	"title": "Semint: A System Prototype for Semantic Integration in Heterogeneous Databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

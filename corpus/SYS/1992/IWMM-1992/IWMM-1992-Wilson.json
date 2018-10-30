@@ -1,6 +1,7 @@
 {
 	"author": "Paul R. Wilson",
-	"booktitle": "IWMM",
+	"booktitle": "Proceedings of the First International Workshop on Memory Management",
+	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
 	"dblpkey": "conf/iwmm/Wilson92",
 	"doi": "10.1007/BFb0017182",
@@ -10,11 +11,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["uniprocessor", "garbag", "collect", "techniqu"],
-	"tag": ["garbage collection"],
+	"stemmed": [
+		"uniprocessor",
+		"garbag",
+		"collect",
+		"techniqu"
+	],
+	"tag": [
+		"garbage collection"
+	],
 	"title": "Uniprocessor Garbage Collection Techniques",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 637,
+	"volume": "637",
 	"year": 1992
 }

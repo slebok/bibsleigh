@@ -1,13 +1,31 @@
 {
-	"author": ["Shu-Yao Chien", "Vassilis J. Tsotras", "Carlo Zaniolo"],
-	"booktitle": "VLDB",
+	"author": [
+		"Shu-Yao Chien",
+		"Vassilis J. Tsotras",
+		"Carlo Zaniolo"
+	],
+	"booktitle": "Proceedings of the 27th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2001",
 	"dblpkey": "conf/vldb/ChienTZ01",
 	"ee": "http://www.vldb.org/conf/2001/P291.pdf",
 	"pages": "291-300",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["effici", "manag", "of", "multivers", "document", "by", "object", "referenc"],
-	"tag": ["documentation", "multi", "performance"],
+	"stemmed": [
+		"effici",
+		"manag",
+		"of",
+		"multivers",
+		"document",
+		"by",
+		"object",
+		"referenc"
+	],
+	"tag": [
+		"documentation",
+		"multi",
+		"performance"
+	],
 	"title": "Efficient Management of Multiversion Documents by Object Referencing",
 	"type": "inproceedings",
 	"venue": "VLDB",

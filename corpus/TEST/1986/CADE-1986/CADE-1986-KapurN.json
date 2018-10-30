@@ -1,6 +1,10 @@
 {
-	"author": ["Deepak Kapur", "Paliath Narendran"],
-	"booktitle": "CADE",
+	"author": [
+		"Deepak Kapur",
+		"Paliath Narendran"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/KapurN86",
 	"doi": "10.1007/3-540-16780-3_113",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["np", "complet", "of", "the", "set", "unif", "and", "match", "problem"],
-	"tag": ["problem", "set", "unification"],
+	"stemmed": [
+		"np",
+		"complet",
+		"of",
+		"the",
+		"set",
+		"unif",
+		"and",
+		"match",
+		"problem"
+	],
+	"tag": [
+		"problem",
+		"set",
+		"unification"
+	],
 	"title": "NP-Completeness of the Set Unification and Matching Problems",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

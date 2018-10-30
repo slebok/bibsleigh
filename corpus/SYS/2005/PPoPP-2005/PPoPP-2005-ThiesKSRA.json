@@ -1,14 +1,31 @@
 {
-	"author": ["William Thies", "Michal Karczmarek", "Janis Sermulins", "Rodric M. Rabbah", "Saman P. Amarasinghe"],
-	"booktitle": "PPOPP",
+	"author": [
+		"William Thies",
+		"Michal Karczmarek",
+		"Janis Sermulins",
+		"Rodric M. Rabbah",
+		"Saman P. Amarasinghe"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2005",
 	"dblpkey": "conf/ppopp/ThiesKSRA05",
 	"doi": "10.1145/1065944.1065975",
 	"ee": "http://doi.acm.org/10.1145/1065944.1065975",
 	"pages": "224-235",
 	"publisher": "ACM",
-	"stemmed": ["teleport", "messag", "for", "distribut", "stream", "program"],
-	"tag": ["distributed", "source code"],
+	"stemmed": [
+		"teleport",
+		"messag",
+		"for",
+		"distribut",
+		"stream",
+		"program"
+	],
+	"tag": [
+		"distributed",
+		"source code"
+	],
 	"title": "Teleport messaging for distributed stream programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

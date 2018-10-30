@@ -1,13 +1,29 @@
 {
-	"author": ["Jun Seomun", "Jaehyun Kim", "Youngsoo Shin"],
-	"booktitle": "DAC",
+	"author": [
+		"Jun Seomun",
+		"Jaehyun Kim",
+		"Youngsoo Shin"
+	],
+	"booktitle": "Proceedings of the 44th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2007",
 	"dblpkey": "conf/dac/SeomunKS07",
 	"doi": "10.1145/1278480.1278506",
 	"ee": "http://doi.acm.org/10.1145/1278480.1278506",
 	"pages": "103-106",
 	"publisher": "IEEE",
-	"stemmed": ["skew", "flip", "flop", "transform", "for", "minim", "leakag", "in", "sequenti", "circuit"],
+	"stemmed": [
+		"skew",
+		"flip",
+		"flop",
+		"transform",
+		"for",
+		"minim",
+		"leakag",
+		"in",
+		"sequenti",
+		"circuit"
+	],
 	"title": "Skewed Flip-Flop Transformation for Minimizing Leakage in Sequential Circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

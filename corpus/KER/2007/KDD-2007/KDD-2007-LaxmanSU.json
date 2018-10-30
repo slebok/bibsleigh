@@ -1,14 +1,33 @@
 {
-	"author": ["Srivatsan Laxman", "P. S. Sastry", "K. P. Unnikrishnan"],
-	"booktitle": "KDD",
+	"author": [
+		"Srivatsan Laxman",
+		"P. S. Sastry",
+		"K. P. Unnikrishnan"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2007",
 	"dblpkey": "conf/kdd/LaxmanSU07",
 	"doi": "10.1145/1281192.1281238",
 	"ee": "http://doi.acm.org/10.1145/1281192.1281238",
 	"pages": "410-419",
 	"publisher": "ACM",
-	"stemmed": ["a", "fast", "algorithm", "for", "find", "frequent", "episod", "in", "event", "stream"],
-	"tag": ["algorithm", "performance"],
+	"stemmed": [
+		"a",
+		"fast",
+		"algorithm",
+		"for",
+		"find",
+		"frequent",
+		"episod",
+		"in",
+		"event",
+		"stream"
+	],
+	"tag": [
+		"algorithm",
+		"performance"
+	],
 	"title": "A fast algorithm for finding frequent episodes in event streams",
 	"type": "inproceedings",
 	"venue": "KDD",

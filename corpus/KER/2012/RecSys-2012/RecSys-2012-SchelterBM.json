@@ -1,14 +1,32 @@
 {
-	"author": ["Sebastian Schelter", "Christoph Boden", "Volker Markl"],
-	"booktitle": "RecSys",
+	"author": [
+		"Sebastian Schelter",
+		"Christoph Boden",
+		"Volker Markl"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2012",
 	"dblpkey": "conf/recsys/SchelterBM12",
 	"doi": "10.1145/2365952.2365984",
 	"ee": "http://doi.acm.org/10.1145/2365952.2365984",
 	"pages": "163-170",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "similar", "base", "neighborhood", "method", "with", "map", "reduc"],
-	"tag": ["pipes and filters", "scalability", "similarity"],
+	"stemmed": [
+		"scalabl",
+		"similar",
+		"base",
+		"neighborhood",
+		"method",
+		"with",
+		"map",
+		"reduc"
+	],
+	"tag": [
+		"pipes and filters",
+		"scalability",
+		"similarity"
+	],
 	"title": "Scalable similarity-based neighborhood methods with MapReduce",
 	"type": "inproceedings",
 	"venue": "RecSys",

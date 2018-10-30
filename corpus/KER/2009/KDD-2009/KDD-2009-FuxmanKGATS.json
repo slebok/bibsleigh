@@ -1,14 +1,35 @@
 {
-	"author": ["Ariel Fuxman", "Anitha Kannan", "Andrew B. Goldberg", "Rakesh Agrawal", "Panayiotis Tsaparas", "John C. Shafer"],
-	"booktitle": "KDD",
+	"author": [
+		"Ariel Fuxman",
+		"Anitha Kannan",
+		"Andrew B. Goldberg",
+		"Rakesh Agrawal",
+		"Panayiotis Tsaparas",
+		"John C. Shafer"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/FuxmanKGATS09",
 	"doi": "10.1145/1557019.1557143",
 	"ee": "http://doi.acm.org/10.1145/1557019.1557143",
 	"pages": "1145-1154",
 	"publisher": "ACM",
-	"stemmed": ["improv", "classif", "accuraci", "use", "automat", "extract", "train", "data"],
-	"tag": ["automation", "classification", "using"],
+	"stemmed": [
+		"improv",
+		"classif",
+		"accuraci",
+		"use",
+		"automat",
+		"extract",
+		"train",
+		"data"
+	],
+	"tag": [
+		"automation",
+		"classification",
+		"using"
+	],
 	"title": "Improving classification accuracy using automatically extracted training data",
 	"type": "inproceedings",
 	"venue": "KDD",

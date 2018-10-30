@@ -1,14 +1,31 @@
 {
-	"author": ["Yufei Chen", "Haibo Chen"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Yufei Chen",
+		"Haibo Chen"
+	],
+	"booktitle": "Proceedings of the 18th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2013",
 	"dblpkey": "conf/ppopp/ChenC13",
 	"doi": "10.1145/2442516.2442537",
 	"ee": "http://doi.acm.org/10.1145/2442516.2442537",
 	"pages": "207-218",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "determinist", "replay", "in", "a", "parallel", "full", "system", "emul"],
-	"tag": ["parallel", "scalability"],
+	"stemmed": [
+		"scalabl",
+		"determinist",
+		"replay",
+		"in",
+		"a",
+		"parallel",
+		"full",
+		"system",
+		"emul"
+	],
+	"tag": [
+		"parallel",
+		"scalability"
+	],
 	"title": "Scalable deterministic replay in a parallel full-system emulator",
 	"type": "inproceedings",
 	"venue": "PPoPP",

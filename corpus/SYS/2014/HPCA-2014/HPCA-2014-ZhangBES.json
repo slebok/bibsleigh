@@ -1,6 +1,12 @@
 {
-	"author": ["Meng Zhang", "Jesse D. Bingham", "John Erickson", "Daniel J. Sorin"],
-	"booktitle": "HPCA",
+	"author": [
+		"Meng Zhang",
+		"Jesse D. Bingham",
+		"John Erickson",
+		"Daniel J. Sorin"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/ZhangBES14",
 	"doi": "10.1109/HPCA.2014.6835949",
@@ -8,8 +14,24 @@
 	"pages": "392-403",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["pv", "coher", "design", "flat", "coher", "protocol", "for", "scalabl", "verif"],
-	"tag": ["design", "named", "protocol", "scalability", "verification"],
+	"stemmed": [
+		"pv",
+		"coher",
+		"design",
+		"flat",
+		"coher",
+		"protocol",
+		"for",
+		"scalabl",
+		"verif"
+	],
+	"tag": [
+		"design",
+		"named",
+		"protocol",
+		"scalability",
+		"verification"
+	],
 	"title": "PVCoherence: Designing flat coherence protocols for scalable verification",
 	"type": "inproceedings",
 	"venue": "HPCA",

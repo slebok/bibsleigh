@@ -1,6 +1,10 @@
 {
-	"author": ["Jürgen Ehrensberger", "Claus Zinn"],
-	"booktitle": "CADE",
+	"author": [
+		"Jürgen Ehrensberger",
+		"Claus Zinn"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
 	"dblpkey": "conf/cade/EhrensbergerZ97",
 	"doi": "10.1007/3-540-63104-6_44",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["dia", "log", "a", "system", "for", "dialogu", "logic"],
-	"tag": ["logic", "named"],
+	"stemmed": [
+		"dia",
+		"log",
+		"a",
+		"system",
+		"for",
+		"dialogu",
+		"logic"
+	],
+	"tag": [
+		"logic",
+		"named"
+	],
 	"title": "DiaLog: A System for Dialogue Logic",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1249,
+	"volume": "1249",
 	"year": 1997
 }

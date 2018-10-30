@@ -1,14 +1,31 @@
 {
-	"author": ["Anirban Dasgupta", "Petros Drineas", "Boulos Harb", "Vanja Josifovski", "Michael W. Mahoney"],
-	"booktitle": "KDD",
+	"author": [
+		"Anirban Dasgupta",
+		"Petros Drineas",
+		"Boulos Harb",
+		"Vanja Josifovski",
+		"Michael W. Mahoney"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2007",
 	"dblpkey": "conf/kdd/DasguptaDHJM07",
 	"doi": "10.1145/1281192.1281220",
 	"ee": "http://doi.acm.org/10.1145/1281192.1281220",
 	"pages": "230-239",
 	"publisher": "ACM",
-	"stemmed": ["featur", "select", "method", "for", "text", "classif"],
-	"tag": ["classification", "feature model"],
+	"stemmed": [
+		"featur",
+		"select",
+		"method",
+		"for",
+		"text",
+		"classif"
+	],
+	"tag": [
+		"classification",
+		"feature model"
+	],
 	"title": "Feature selection methods for text classification",
 	"type": "inproceedings",
 	"venue": "KDD",

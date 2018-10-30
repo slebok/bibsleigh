@@ -1,6 +1,11 @@
 {
-	"author": ["Fotis Psallidas", "Bolin Ding", "Kaushik Chakrabarti", "Surajit Chaudhuri"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Fotis Psallidas",
+		"Bolin Ding",
+		"Kaushik Chakrabarti",
+		"Surajit Chaudhuri"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/PsallidasDCC15",
@@ -8,8 +13,21 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2749452",
 	"pages": "2001-2016",
 	"publisher": "ACM",
-	"stemmed": ["s", "top", "k", "spreadsheet", "style", "search", "for", "queri", "discoveri"],
-	"tag": ["named", "query"],
+	"stemmed": [
+		"s",
+		"top",
+		"k",
+		"spreadsheet",
+		"style",
+		"search",
+		"for",
+		"queri",
+		"discoveri"
+	],
+	"tag": [
+		"named",
+		"query"
+	],
 	"title": "S4: Top-k Spreadsheet-Style Search for Query Discovery",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,12 @@
 {
-	"author": ["Philip A. Bernstein", "Marie Jacob", "Jorge Pérez", "Guillem Rull", "James F. Terwilliger"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Philip A. Bernstein",
+		"Marie Jacob",
+		"Jorge Pérez",
+		"Guillem Rull",
+		"James F. Terwilliger"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/BernsteinJPRT13",
@@ -8,8 +14,22 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465294",
 	"pages": "1269-1280",
 	"publisher": "ACM",
-	"stemmed": ["increment", "map", "compil", "in", "an", "object", "to", "relat", "map", "system"],
-	"tag": ["compilation", "incremental"],
+	"stemmed": [
+		"increment",
+		"map",
+		"compil",
+		"in",
+		"an",
+		"object",
+		"to",
+		"relat",
+		"map",
+		"system"
+	],
+	"tag": [
+		"compilation",
+		"incremental"
+	],
 	"title": "Incremental mapping compilation in an object-to-relational mapping system",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

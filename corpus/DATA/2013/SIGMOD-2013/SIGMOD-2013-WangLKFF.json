@@ -1,6 +1,12 @@
 {
-	"author": ["Jiannan Wang", "Guoliang Li", "Tim Kraska", "Michael J. Franklin", "Jianhua Feng"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jiannan Wang",
+		"Guoliang Li",
+		"Tim Kraska",
+		"Michael J. Franklin",
+		"Jianhua Feng"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/WangLKFF13",
@@ -8,8 +14,18 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465280",
 	"pages": "229-240",
 	"publisher": "ACM",
-	"stemmed": ["leverag", "transit", "relat", "for", "crowdsourc", "join"],
-	"tag": ["crowdsourcing", "transitive"],
+	"stemmed": [
+		"leverag",
+		"transit",
+		"relat",
+		"for",
+		"crowdsourc",
+		"join"
+	],
+	"tag": [
+		"crowdsourcing",
+		"transitive"
+	],
 	"title": "Leveraging transitive relations for crowdsourced joins",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

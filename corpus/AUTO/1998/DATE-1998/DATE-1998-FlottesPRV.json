@@ -1,6 +1,12 @@
 {
-	"author": ["Marie-Lise Flottes", "R. Pires", "Bruno Rouzeyre", "L. Volpe"],
-	"booktitle": "DATE",
+	"author": [
+		"Marie-Lise Flottes",
+		"R. Pires",
+		"Bruno Rouzeyre",
+		"L. Volpe"
+	],
+	"booktitle": "Proceedings of the Third Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1998",
 	"dblpkey": "conf/date/FlottesPRV98",
 	"doi": "10.1109/DATE.1998.655969",
@@ -8,8 +14,22 @@
 	"pages": "921-922",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["scan", "datapath", "a", "fast", "and", "effect", "partial", "scan", "select", "techniqu"],
-	"tag": ["effectiveness", "performance"],
+	"stemmed": [
+		"scan",
+		"datapath",
+		"a",
+		"fast",
+		"and",
+		"effect",
+		"partial",
+		"scan",
+		"select",
+		"techniqu"
+	],
+	"tag": [
+		"effectiveness",
+		"performance"
+	],
 	"title": "Scanning Datapaths: A Fast and Effective Partial Scan Selection Technique",
 	"type": "inproceedings",
 	"venue": "DATE",

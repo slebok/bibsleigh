@@ -1,6 +1,14 @@
 {
-	"author": ["Samuel DeFazio", "Amjad M. Daoud", "Lisa Ann Smith", "Jagannathan Srinivasan", "W. Bruce Croft", "James P. Callan"],
+	"author": [
+		"Samuel DeFazio",
+		"Amjad M. Daoud",
+		"Lisa Ann Smith",
+		"Jagannathan Srinivasan",
+		"W. Bruce Croft",
+		"James P. Callan"
+	],
 	"booktitle": "Proceedings of the 18th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1995/P084.pdf",
 	"crossref": "conf/sigir/95",
 	"dblpkey": "conf/sigir/DeFazioDSSCC95",
@@ -8,8 +16,19 @@
 	"ee": "http://doi.acm.org/10.1145/215206.215335",
 	"pages": "84-92",
 	"publisher": "ACM Press",
-	"stemmed": ["integr", "ir", "and", "rdbms", "use", "cooper", "index"],
-	"tag": ["information retrieval", "using"],
+	"stemmed": [
+		"integr",
+		"ir",
+		"and",
+		"rdbms",
+		"use",
+		"cooper",
+		"index"
+	],
+	"tag": [
+		"information retrieval",
+		"using"
+	],
 	"title": "Integrating IR and RDBMS Using Cooperative Indexing",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,13 +1,24 @@
 {
 	"author": "Mehran Sahami",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the Second International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1996",
 	"dblpkey": "conf/kdd/Sahami96",
 	"ee": "http://www.aaai.org/Library/KDD/1996/kdd96-061.php",
 	"pages": "335-338",
 	"publisher": "AAAI Press",
-	"stemmed": ["learn", "limit", "depend", "bayesian", "classifi"],
-	"tag": ["classification", "dependence", "learning"],
+	"stemmed": [
+		"learn",
+		"limit",
+		"depend",
+		"bayesian",
+		"classifi"
+	],
+	"tag": [
+		"classification",
+		"dependence",
+		"learning"
+	],
 	"title": "Learning Limited Dependence Bayesian Classifiers",
 	"type": "inproceedings",
 	"venue": "KDD",

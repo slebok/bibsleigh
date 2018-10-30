@@ -1,6 +1,10 @@
 {
-	"author": ["Richard Helm", "Ian M. Holland", "Dipayan Gangopadhyay"],
-	"booktitle": "Proceedings of the Fifth Conference on Object-Oriented Programming: Systems, Languages, and Applications / European Conference on Object-Oriented Programming",
+	"author": [
+		"Richard Helm",
+		"Ian M. Holland",
+		"Dipayan Gangopadhyay"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Object-Oriented Programming, Systems, Languages and Applications / Fourth European Conference on Object-Oriented Programming",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1990",
 	"dblpkey": "conf/oopsla/HelmHG90",
@@ -10,8 +14,24 @@
 	"isbn": "0-89791-411-2",
 	"pages": "169-180",
 	"publisher": "ACM",
-	"stemmed": ["contract", "specifi", "behaviour", "composit", "in", "object", "orient", "system"],
-	"tag": ["behaviour", "composition", "contract", "named", "object-oriented", "specification"],
+	"stemmed": [
+		"contract",
+		"specifi",
+		"behaviour",
+		"composit",
+		"in",
+		"object",
+		"orient",
+		"system"
+	],
+	"tag": [
+		"behaviour",
+		"composition",
+		"contract",
+		"named",
+		"object-oriented",
+		"specification"
+	],
 	"title": "Contracts: Specifying Behavioural Compositions in Object-Oriented Systems",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

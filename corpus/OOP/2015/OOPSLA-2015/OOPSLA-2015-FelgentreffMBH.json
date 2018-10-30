@@ -1,13 +1,36 @@
 {
-	"author": ["Tim Felgentreff", "Todd D. Millstein", "Alan Borning", "Robert Hirschfeld"],
-	"booktitle": "OOPSLA",
+	"author": [
+		"Tim Felgentreff",
+		"Todd D. Millstein",
+		"Alan Borning",
+		"Robert Hirschfeld"
+	],
+	"booktitle": "Proceedings of the 30th Conference on Object-Oriented Programming, Systems, Languages and Applications",
+	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2015",
 	"dblpkey": "conf/oopsla/FelgentreffMBH15",
 	"doi": "10.1145/2814270.2814311",
 	"pages": "767-782",
 	"publisher": "ACM",
-	"stemmed": ["check", "and", "balanc", "constraint", "solv", "without", "surpris", "in", "object", "constraint", "program", "languag"],
-	"tag": ["constraints", "programming language", "theorem proving"],
+	"stemmed": [
+		"check",
+		"and",
+		"balanc",
+		"constraint",
+		"solv",
+		"without",
+		"surpris",
+		"in",
+		"object",
+		"constraint",
+		"program",
+		"languag"
+	],
+	"tag": [
+		"constraints",
+		"programming language",
+		"theorem proving"
+	],
 	"title": "Checks and balances: constraint solving without surprises in object-constraint programming languages",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

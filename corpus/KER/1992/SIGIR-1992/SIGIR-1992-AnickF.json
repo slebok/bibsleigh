@@ -1,6 +1,10 @@
 {
-	"author": ["Peter G. Anick", "Rex A. Flynn"],
+	"author": [
+		"Peter G. Anick",
+		"Rex A. Flynn"
+	],
 	"booktitle": "Proceedings of the 15th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1992/P098.pdf",
 	"crossref": "conf/sigir/92",
 	"dblpkey": "conf/sigir/AnickF92",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/133160.133183",
 	"pages": "98-111",
 	"publisher": "ACM",
-	"stemmed": ["version", "a", "full", "text", "inform", "retriev", "system"],
-	"tag": ["information retrieval", "version control"],
+	"stemmed": [
+		"version",
+		"a",
+		"full",
+		"text",
+		"inform",
+		"retriev",
+		"system"
+	],
+	"tag": [
+		"information retrieval",
+		"version control"
+	],
 	"title": "Versioning a Full-text Information Retrieval System",
 	"type": "inproceedings",
 	"venue": "SIGIR",

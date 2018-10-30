@@ -1,6 +1,10 @@
 {
-	"author": ["Yasuko Matsubara", "Yasushi Sakurai", "Christos Faloutsos"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yasuko Matsubara",
+		"Yasushi Sakurai",
+		"Christos Faloutsos"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/MatsubaraSF14",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2588556",
 	"pages": "193-204",
 	"publisher": "ACM",
-	"stemmed": ["auto", "plait", "automat", "mine", "of", "co", "evolv", "time", "sequenc"],
-	"tag": ["automation", "co-evolution", "mining", "named", "sequence"],
+	"stemmed": [
+		"auto",
+		"plait",
+		"automat",
+		"mine",
+		"of",
+		"co",
+		"evolv",
+		"time",
+		"sequenc"
+	],
+	"tag": [
+		"automation",
+		"co-evolution",
+		"mining",
+		"named",
+		"sequence"
+	],
 	"title": "AutoPlait: automatic mining of co-evolving time sequences",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

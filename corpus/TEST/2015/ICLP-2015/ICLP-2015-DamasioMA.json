@@ -1,6 +1,10 @@
 {
-	"author": ["Carlos Viegas Damásio", "João Moura", "Anastasia Analyti"],
-	"booktitle": "ICLP (Technical Communications)",
+	"author": [
+		"Carlos Viegas Damásio",
+		"João Moura",
+		"Anastasia Analyti"
+	],
+	"booktitle": "Technical Communications of the 31st International Conference on Logic Programming",
 	"booktitleshort": "ICLP TC",
 	"crossref": "conf/iclp/2015tc",
 	"dblpkey": "conf/iclp/DamasioMA15",
@@ -8,11 +12,23 @@
 	"publisher": "CEUR-WS.org",
 	"series": "CEUR Workshop Proceedings",
 	"seriesshort": "CEUR",
-	"stemmed": ["unifi", "justif", "and", "debug", "for", "answer", "set", "program"],
-	"tag": ["debugging", "source code"],
+	"stemmed": [
+		"unifi",
+		"justif",
+		"and",
+		"debug",
+		"for",
+		"answer",
+		"set",
+		"program"
+	],
+	"tag": [
+		"debugging",
+		"source code"
+	],
 	"title": "Unifying Justifications and Debugging for Answer-Set Programs",
 	"type": "inproceedings",
 	"venue": "ICLP",
-	"volume": 1433,
+	"volume": "1433",
 	"year": 2015
 }

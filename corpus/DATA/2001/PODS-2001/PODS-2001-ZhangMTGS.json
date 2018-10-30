@@ -1,13 +1,34 @@
 {
-	"author": ["Donghui Zhang", "Alexander Markowetz", "Vassilis J. Tsotras", "Dimitrios Gunopulos", "Bernhard Seeger"],
-	"booktitle": "PODS",
+	"author": [
+		"Donghui Zhang",
+		"Alexander Markowetz",
+		"Vassilis J. Tsotras",
+		"Dimitrios Gunopulos",
+		"Bernhard Seeger"
+	],
+	"booktitle": "Proceedings of the 20th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2001",
 	"dblpkey": "conf/pods/ZhangMTGS01",
 	"doi": "10.1145/375551.375600",
-	"ee": ["http://doi.acm.org/10.1145/375551.375600", "http://www.acm.org/sigs/sigmod/pods/proc01/online/p118.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/375551.375600",
+		"http://www.acm.org/sigs/sigmod/pods/proc01/online/p118.pdf"
+	],
 	"publisher": "ACM",
-	"stemmed": ["effici", "comput", "of", "tempor", "aggreg", "with", "rang", "predic"],
-	"tag": ["performance"],
+	"stemmed": [
+		"effici",
+		"comput",
+		"of",
+		"tempor",
+		"aggreg",
+		"with",
+		"rang",
+		"predic"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Efficient Computation of Temporal Aggregates with Range Predicates",
 	"type": "inproceedings",
 	"venue": "PODS",

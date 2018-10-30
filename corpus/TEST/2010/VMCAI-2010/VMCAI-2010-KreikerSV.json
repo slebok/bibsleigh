@@ -1,6 +1,11 @@
 {
-	"author": ["Jörg Kreiker", "Helmut Seidl", "Vesal Vojdani"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Jörg Kreiker",
+		"Helmut Seidl",
+		"Vesal Vojdani"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2010",
 	"dblpkey": "conf/vmcai/KreikerSV10",
 	"doi": "10.1007/978-3-642-11319-2_17",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["shape", "analysi", "of", "low", "level", "c", "with", "overlap", "structur"],
-	"tag": ["analysis", "c", "low level"],
+	"stemmed": [
+		"shape",
+		"analysi",
+		"of",
+		"low",
+		"level",
+		"c",
+		"with",
+		"overlap",
+		"structur"
+	],
+	"tag": [
+		"analysis",
+		"c",
+		"low level"
+	],
 	"title": "Shape Analysis of Low-Level C with Overlapping Structures",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 5944,
+	"volume": "5944",
 	"year": 2010
 }

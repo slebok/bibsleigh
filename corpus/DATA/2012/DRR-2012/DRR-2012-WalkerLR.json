@@ -1,17 +1,40 @@
 {
-	"author": ["Daniel David Walker", "William B. Lund", "Eric K. Ringger"],
-	"booktitle": "DRR",
+	"author": [
+		"Daniel David Walker",
+		"William B. Lund",
+		"Eric K. Ringger"
+	],
+	"booktitle": "Proceedings of the 19th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2012",
 	"dblpkey": "conf/drr/WalkerLR12",
 	"doi": "10.1117/12.912203",
 	"ee": "http://dx.doi.org/10.1117/12.912203",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["a", "synthet", "document", "imag", "dataset", "for", "develop", "and", "evalu", "histor", "document", "process", "method"],
-	"tag": ["dataset", "documentation", "image"],
+	"stemmed": [
+		"a",
+		"synthet",
+		"document",
+		"imag",
+		"dataset",
+		"for",
+		"develop",
+		"and",
+		"evalu",
+		"histor",
+		"document",
+		"process",
+		"method"
+	],
+	"tag": [
+		"dataset",
+		"documentation",
+		"image"
+	],
 	"title": "A synthetic document image dataset for developing and evaluating historical document processing methods",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 8297,
+	"volume": "8297",
 	"year": 2012
 }

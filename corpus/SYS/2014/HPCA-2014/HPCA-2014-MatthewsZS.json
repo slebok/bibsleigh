@@ -1,6 +1,11 @@
 {
-	"author": ["Opeoluwa Matthews", "Meng Zhang", "Daniel J. Sorin"],
-	"booktitle": "HPCA",
+	"author": [
+		"Opeoluwa Matthews",
+		"Meng Zhang",
+		"Daniel J. Sorin"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/MatthewsZS14",
 	"doi": "10.1109/HPCA.2014.6835967",
@@ -8,8 +13,16 @@
 	"pages": "579-590",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["scalabl", "verifi", "dynam", "power", "manag"],
-	"tag": ["power management"],
+	"stemmed": [
+		"scalabl",
+		"verifi",
+		"dynam",
+		"power",
+		"manag"
+	],
+	"tag": [
+		"power management"
+	],
 	"title": "Scalably verifiable dynamic power management",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,6 +1,10 @@
 {
-	"author": ["V. S. Subrahmanian", "Zerksis D. Umrigar"],
-	"booktitle": "CADE",
+	"author": [
+		"V. S. Subrahmanian",
+		"Zerksis D. Umrigar"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/SubrahmanianU88",
 	"doi": "10.1007/BFb0012878",
@@ -10,11 +14,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["quantlog", "a", "system", "for", "approxim", "reason", "in", "inconsist", "formal", "system"],
-	"tag": ["approximate", "consistency", "named", "reasoning"],
+	"stemmed": [
+		"quantlog",
+		"a",
+		"system",
+		"for",
+		"approxim",
+		"reason",
+		"in",
+		"inconsist",
+		"formal",
+		"system"
+	],
+	"tag": [
+		"approximate",
+		"consistency",
+		"named",
+		"reasoning"
+	],
 	"title": "QUANTLOG: A System for Approximate Reasoning in Inconsistent Formal Systems",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

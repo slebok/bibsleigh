@@ -1,6 +1,6 @@
 {
 	"author": "Gerhard Weikum",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/Weikum07",
@@ -8,8 +8,16 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247484",
 	"pages": "25-30",
 	"publisher": "ACM",
-	"stemmed": ["db", "ir", "both", "side", "now"],
-	"tag": ["information retrieval"],
+	"stemmed": [
+		"db",
+		"ir",
+		"both",
+		"side",
+		"now"
+	],
+	"tag": [
+		"information retrieval"
+	],
 	"title": "DB&IR: both sides now",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

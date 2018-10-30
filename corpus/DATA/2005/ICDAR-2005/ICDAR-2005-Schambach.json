@@ -1,15 +1,33 @@
 {
 	"author": "Marc-Peter Schambach",
-	"booktitle": "ICDAR",
+	"booktitle": "Proceedings of the Eighth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2005",
 	"dblpkey": "conf/icdar/Schambach05",
 	"doi": "10.1109/ICDAR.2005.111",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2005.111", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.111"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2005.111",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.111"
+	],
 	"pages": "9-13",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["fast", "script", "word", "recognit", "with", "veri", "larg", "vocabulari"],
-	"tag": ["performance", "recognition", "scalability", "word"],
+	"stemmed": [
+		"fast",
+		"script",
+		"word",
+		"recognit",
+		"with",
+		"veri",
+		"larg",
+		"vocabulari"
+	],
+	"tag": [
+		"performance",
+		"recognition",
+		"scalability",
+		"word"
+	],
 	"title": "Fast Script Word Recognition with Very Large Vocabulary",
 	"type": "inproceedings",
 	"venue": "ICDAR",

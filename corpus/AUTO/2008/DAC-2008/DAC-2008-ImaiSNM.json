@@ -1,14 +1,38 @@
 {
-	"author": ["Masanori Imai", "Takashi Sato", "Noriaki Nakayama", "Kazuya Masu"],
-	"booktitle": "DAC",
+	"author": [
+		"Masanori Imai",
+		"Takashi Sato",
+		"Noriaki Nakayama",
+		"Kazuya Masu"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/ImaiSNM08",
 	"doi": "10.1145/1391469.1391649",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391649",
 	"pages": "698-701",
 	"publisher": "ACM",
-	"stemmed": ["non", "parametr", "statist", "static", "time", "analysi", "an", "ssta", "framework", "for", "arbitrari", "distribut"],
-	"tag": ["analysis", "framework", "parametricity", "statistics"],
+	"stemmed": [
+		"non",
+		"parametr",
+		"statist",
+		"static",
+		"time",
+		"analysi",
+		"an",
+		"ssta",
+		"framework",
+		"for",
+		"arbitrari",
+		"distribut"
+	],
+	"tag": [
+		"analysis",
+		"framework",
+		"parametricity",
+		"statistics"
+	],
 	"title": "Non-parametric statistical static timing analysis: an SSTA framework for arbitrary distribution",
 	"type": "inproceedings",
 	"venue": "DAC",

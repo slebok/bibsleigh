@@ -1,14 +1,27 @@
 {
 	"author": "Michael E. Houle",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the Ninth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2003",
 	"dblpkey": "conf/kdd/Houle03",
 	"doi": "10.1145/956750.956817",
 	"ee": "http://doi.acm.org/10.1145/956750.956817",
 	"pages": "547-552",
 	"publisher": "ACM",
-	"stemmed": ["navig", "massiv", "data", "set", "via", "local", "cluster"],
-	"tag": ["clustering", "navigation", "set"],
+	"stemmed": [
+		"navig",
+		"massiv",
+		"data",
+		"set",
+		"via",
+		"local",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"navigation",
+		"set"
+	],
 	"title": "Navigating massive data sets via local clustering",
 	"type": "inproceedings",
 	"venue": "KDD",

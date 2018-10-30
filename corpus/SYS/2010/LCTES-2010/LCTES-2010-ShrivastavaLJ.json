@@ -1,14 +1,37 @@
 {
-	"author": ["Aviral Shrivastava", "Jongeun Lee", "Reiley Jeyapaul"],
-	"booktitle": "LCTES",
+	"author": [
+		"Aviral Shrivastava",
+		"Jongeun Lee",
+		"Reiley Jeyapaul"
+	],
+	"booktitle": "Proceedings of the 11th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2010",
 	"dblpkey": "conf/lctrts/ShrivastavaLJ10",
 	"doi": "10.1145/1755888.1755910",
 	"ee": "http://doi.acm.org/10.1145/1755888.1755910",
 	"pages": "143-152",
 	"publisher": "ACM",
-	"stemmed": ["cach", "vulner", "equat", "for", "protect", "data", "in", "embed", "processor", "cach", "from", "soft", "error"],
-	"tag": ["embedded", "equation", "fault"],
+	"stemmed": [
+		"cach",
+		"vulner",
+		"equat",
+		"for",
+		"protect",
+		"data",
+		"in",
+		"embed",
+		"processor",
+		"cach",
+		"from",
+		"soft",
+		"error"
+	],
+	"tag": [
+		"embedded",
+		"equation",
+		"fault"
+	],
 	"title": "Cache vulnerability equations for protecting data in embedded processor caches from soft errors",
 	"type": "inproceedings",
 	"venue": "LCTES",

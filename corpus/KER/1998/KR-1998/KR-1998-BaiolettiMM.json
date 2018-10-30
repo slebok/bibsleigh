@@ -1,12 +1,29 @@
 {
-	"author": ["Marco Baioletti", "Stefano Marcugini", "Alfredo Milani"],
-	"booktitle": "KR",
+	"author": [
+		"Marco Baioletti",
+		"Stefano Marcugini",
+		"Alfredo Milani"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Principles of Knowledge Representation and Reasoning",
+	"booktitleshort": "KR",
 	"crossref": "conf/kr/1998",
 	"dblpkey": "conf/kr/BaiolettiMM98",
 	"pages": "608-616",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["encod", "plan", "constraint", "into", "partial", "order", "planner"],
-	"tag": ["constraints", "encoding", "partial order"],
+	"stemmed": [
+		"encod",
+		"plan",
+		"constraint",
+		"into",
+		"partial",
+		"order",
+		"planner"
+	],
+	"tag": [
+		"constraints",
+		"encoding",
+		"partial order"
+	],
 	"title": "Encoding Planning Constraints into Partial Order Planners",
 	"type": "inproceedings",
 	"venue": "KR",

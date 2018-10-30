@@ -1,6 +1,10 @@
 {
-	"author": ["Michael R. Donat", "Lincoln A. Wallen"],
-	"booktitle": "CADE",
+	"author": [
+		"Michael R. Donat",
+		"Lincoln A. Wallen"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/DonatW88",
 	"doi": "10.1007/BFb0012822",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["learn", "and", "appli", "generalis", "solut", "use", "higher", "order", "resolut"],
-	"tag": ["higher-order", "learning", "using"],
+	"stemmed": [
+		"learn",
+		"and",
+		"appli",
+		"generalis",
+		"solut",
+		"use",
+		"higher",
+		"order",
+		"resolut"
+	],
+	"tag": [
+		"higher-order",
+		"learning",
+		"using"
+	],
 	"title": "Learning and Applying Generalised Solutions using Higher Order Resolution",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

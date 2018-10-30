@@ -1,6 +1,7 @@
 {
 	"author": "Richard Rosing",
-	"booktitle": "DATE",
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/Rosing00",
 	"doi": "10.1109/DATE.2000.840828",
@@ -8,8 +9,18 @@
 	"pages": "476-483",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "fault", "simul", "methodolog", "for", "mem"],
-	"tag": ["fault", "simulation"],
+	"stemmed": [
+		"a",
+		"fault",
+		"simul",
+		"methodolog",
+		"for",
+		"mem"
+	],
+	"tag": [
+		"fault",
+		"simulation"
+	],
 	"title": "A Fault Simulation Methodology for MEMS",
 	"type": "inproceedings",
 	"venue": "DATE",

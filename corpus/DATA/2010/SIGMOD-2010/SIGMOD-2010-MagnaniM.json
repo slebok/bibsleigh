@@ -1,6 +1,9 @@
 {
-	"author": ["Matteo Magnani", "Danilo Montesi"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Matteo Magnani",
+		"Danilo Montesi"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/MagnaniM10",
@@ -8,8 +11,17 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807317",
 	"pages": "1195-1198",
 	"publisher": "ACM",
-	"stemmed": ["us", "sql", "manag", "uncertain", "schemata"],
-	"tag": ["named", "nondeterminism"],
+	"stemmed": [
+		"us",
+		"sql",
+		"manag",
+		"uncertain",
+		"schemata"
+	],
+	"tag": [
+		"named",
+		"nondeterminism"
+	],
 	"title": "US-SQL: managing uncertain schemata",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

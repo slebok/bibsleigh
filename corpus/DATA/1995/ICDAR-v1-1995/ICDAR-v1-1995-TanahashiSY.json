@@ -1,15 +1,43 @@
 {
-	"author": ["Hideki Tanahashi", "Katsuhiko Sakaue", "Kazuhiko Yamamoto"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Hideki Tanahashi",
+		"Katsuhiko Sakaue",
+		"Kazuhiko Yamamoto"
+	],
+	"booktitle": "Proceedings of the Third International Conference on Document Analysis and Recognition (Volume I)",
+	"booktitleshort": "ICDAR v1",
 	"crossref": "conf/icdar/1995-1",
 	"dblpkey": "conf/icdar/TanahashiSY95",
 	"doi": "10.1109/ICDAR.1995.599008",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1995.599008", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.599008"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1995.599008",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.599008"
+	],
 	"pages": "339-342",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["recov", "decor", "pattern", "of", "ceram", "object", "from", "a", "monocular", "imag", "use", "a", "genet", "algorithm"],
-	"tag": ["algorithm", "image", "search-based", "using"],
+	"stemmed": [
+		"recov",
+		"decor",
+		"pattern",
+		"of",
+		"ceram",
+		"object",
+		"from",
+		"a",
+		"monocular",
+		"imag",
+		"use",
+		"a",
+		"genet",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"image",
+		"search-based",
+		"using"
+	],
 	"title": "Recovering decorative patterns of ceramic objects from a monocular image using a genetic algorithm",
 	"type": "inproceedings",
 	"venue": "ICDAR",

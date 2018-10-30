@@ -1,6 +1,11 @@
 {
-	"author": ["Elena Sherman", "Brady J. Garvin", "Matthew B. Dwyer"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Elena Sherman",
+		"Brady J. Garvin",
+		"Matthew B. Dwyer"
+	],
+	"booktitle": "Proceedings of the Fifth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2010",
 	"dblpkey": "conf/cade/ShermanGD10",
 	"doi": "10.1007/978-3-642-14203-1_14",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "slice", "base", "decis", "procedur", "for", "type", "base", "partial", "order"],
-	"tag": ["partial order", "type system"],
+	"stemmed": [
+		"a",
+		"slice",
+		"base",
+		"decis",
+		"procedur",
+		"for",
+		"type",
+		"base",
+		"partial",
+		"order"
+	],
+	"tag": [
+		"partial order",
+		"type system"
+	],
 	"title": "A Slice-Based Decision Procedure for Type-Based Partial Orders",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 6173,
+	"volume": "6173",
 	"year": 2010
 }

@@ -1,6 +1,11 @@
 {
-	"author": ["John B. Smith", "Stephen F. Weiss", "Gordon J. Ferguson"],
-	"booktitle": "Hypertext",
+	"author": [
+		"John B. Smith",
+		"Stephen F. Weiss",
+		"Gordon J. Ferguson"
+	],
+	"booktitle": "Proceedings of the First Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1987/P195.pdf",
 	"crossref": "conf/ht/87",
 	"dblpkey": "conf/ht/SmithWF87",
@@ -8,8 +13,19 @@
 	"ee": "http://doi.acm.org/10.1145/317426.317442",
 	"pages": "195-214",
 	"publisher": "ACM",
-	"stemmed": ["a", "hypertext", "write", "environ", "and", "it", "cognit", "basi"],
-	"tag": ["hypermedia"],
+	"stemmed": [
+		"a",
+		"hypertext",
+		"write",
+		"environ",
+		"and",
+		"it",
+		"cognit",
+		"basi"
+	],
+	"tag": [
+		"hypermedia"
+	],
 	"title": "A Hypertext Writing Environment and its Cognitive Basis",
 	"type": "inproceedings",
 	"venue": "HT",

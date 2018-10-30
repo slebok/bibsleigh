@@ -1,6 +1,7 @@
 {
 	"author": "Rajeev Goré",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Seventh International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2014",
 	"dblpkey": "conf/cade/Gore14",
 	"doi": "10.1007/978-3-319-08587-6_3",
@@ -10,11 +11,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["and", "or", "tableaux", "for", "fixpoint", "logic", "with", "convers", "ltl", "ctl", "pdl", "and", "cpdl"],
-	"tag": ["fixpoint", "logic", "ltl"],
+	"stemmed": [
+		"and",
+		"or",
+		"tableaux",
+		"for",
+		"fixpoint",
+		"logic",
+		"with",
+		"convers",
+		"ltl",
+		"ctl",
+		"pdl",
+		"and",
+		"cpdl"
+	],
+	"tag": [
+		"fixpoint",
+		"logic",
+		"ltl"
+	],
 	"title": "And-Or Tableaux for Fixpoint Logics with Converse: LTL, CTL, PDL and CPDL",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 8562,
+	"volume": "8562",
 	"year": 2014
 }

@@ -1,14 +1,38 @@
 {
 	"author": "Alberto O. Mendelzon",
-	"booktitle": "VLDB",
-	"cite": ["conf/eds/BrodieJ84", "...", "...", "journals/tods/Dahl82", "conf/sigmod/JarkeCV84", "books/sp/Lloyd84", "conf/aaai/KohliM83", "...", "conf/eds/ScioreW84", "conf/sigmod/Ullman85", "conf/vldb/Warren81"],
+	"booktitle": "Proceedings of the 11th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/eds/BrodieJ84",
+		"...",
+		"...",
+		"journals/tods/Dahl82",
+		"conf/sigmod/JarkeCV84",
+		"books/sp/Lloyd84",
+		"conf/aaai/KohliM83",
+		"...",
+		"conf/eds/ScioreW84",
+		"conf/sigmod/Ullman85",
+		"conf/vldb/Warren81"
+	],
 	"crossref": "conf/vldb/85",
 	"dblpkey": "conf/vldb/Mendelzon85",
 	"ee": "http://www.vldb.org/conf/1985/P324.PDF",
 	"pages": "324-330",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["function", "depend", "in", "logic", "program"],
-	"tag": ["dependence", "functional", "logic programming", "source code"],
+	"stemmed": [
+		"function",
+		"depend",
+		"in",
+		"logic",
+		"program"
+	],
+	"tag": [
+		"dependence",
+		"functional",
+		"logic programming",
+		"source code"
+	],
 	"title": "Functional Dependencies in Logic Programs",
 	"type": "inproceedings",
 	"venue": "VLDB",

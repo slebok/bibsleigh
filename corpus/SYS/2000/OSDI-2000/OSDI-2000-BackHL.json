@@ -1,13 +1,34 @@
 {
-	"acmid": 1251252,
-	"author": ["Godmar Back", "Wilson C. Hsieh", "Jay Lepreau"],
-	"booktitle": "OSDI",
+	"acmid": "1251252",
+	"author": [
+		"Godmar Back",
+		"Wilson C. Hsieh",
+		"Jay Lepreau"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2000",
 	"dblpkey": "conf/osdi/BackHL00",
 	"pages": "333-346",
 	"publisher": "USENIX Association",
-	"stemmed": ["process", "in", "kaff", "os", "isol", "resourc", "manag", "and", "share", "in", "java"],
-	"tag": ["java", "process", "resource management"],
+	"stemmed": [
+		"process",
+		"in",
+		"kaff",
+		"os",
+		"isol",
+		"resourc",
+		"manag",
+		"and",
+		"share",
+		"in",
+		"java"
+	],
+	"tag": [
+		"java",
+		"process",
+		"resource management"
+	],
 	"title": "Processes in KaffeOS: Isolation, Resource Management, and Sharing in Java",
 	"type": "inproceedings",
 	"venue": "OSDI",

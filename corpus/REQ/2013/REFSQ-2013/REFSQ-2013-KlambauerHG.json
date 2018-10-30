@@ -1,6 +1,11 @@
 {
-	"author": ["Thomas Klambauer", "Gerald Holl", "Paul Grünbacher"],
-	"booktitle": "REFSQ",
+	"author": [
+		"Thomas Klambauer",
+		"Gerald Holl",
+		"Paul Grünbacher"
+	],
+	"booktitle": "Proceedings of the 19th International Working Conference on Requirements Engineering: Foundation for Software Quality",
+	"booktitleshort": "REFSQ",
 	"crossref": "conf/refsq/2013",
 	"dblpkey": "conf/refsq/KlambauerHG13",
 	"doi": "10.1007/978-3-642-37422-7_27",
@@ -9,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["monitor", "system", "of", "system", "requir", "in", "multi", "product", "line"],
-	"tag": ["monitoring", "multi", "product line", "requirements"],
+	"stemmed": [
+		"monitor",
+		"system",
+		"of",
+		"system",
+		"requir",
+		"in",
+		"multi",
+		"product",
+		"line"
+	],
+	"tag": [
+		"monitoring",
+		"multi",
+		"product line",
+		"requirements"
+	],
 	"title": "Monitoring System-of-Systems Requirements in Multi Product Lines",
 	"type": "inproceedings",
 	"venue": "REFSQ",
-	"volume": 7830,
+	"volume": "7830",
 	"year": 2013
 }

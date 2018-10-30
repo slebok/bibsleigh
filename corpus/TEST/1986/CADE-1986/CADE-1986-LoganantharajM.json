@@ -1,6 +1,10 @@
 {
-	"author": ["Rasiah Loganantharaj", "Robert A. Mueller"],
-	"booktitle": "CADE",
+	"author": [
+		"Rasiah Loganantharaj",
+		"Robert A. Mueller"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/LoganantharajM86",
 	"doi": "10.1007/3-540-16780-3_101",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["parallel", "theorem", "prove", "with", "connect", "graph"],
-	"tag": ["graph", "parallel", "proving", "theorem proving"],
+	"stemmed": [
+		"parallel",
+		"theorem",
+		"prove",
+		"with",
+		"connect",
+		"graph"
+	],
+	"tag": [
+		"graph",
+		"parallel",
+		"proving",
+		"theorem proving"
+	],
 	"title": "Parallel Theorem Proving with Connection Graphs",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

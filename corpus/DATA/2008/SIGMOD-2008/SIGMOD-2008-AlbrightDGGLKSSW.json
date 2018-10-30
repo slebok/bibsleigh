@@ -1,6 +1,16 @@
 {
-	"author": ["Robert Albright", "Alan J. Demers", "Johannes Gehrke", "Nitin Gupta", "Hooyeon Lee", "Rick Keilty", "Gregory Sadowski", "Ben Sowell", "Walker M. White"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Robert Albright",
+		"Alan J. Demers",
+		"Johannes Gehrke",
+		"Nitin Gupta",
+		"Hooyeon Lee",
+		"Rick Keilty",
+		"Gregory Sadowski",
+		"Ben Sowell",
+		"Walker M. White"
+	],
+	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2008",
 	"dblpkey": "conf/sigmod/AlbrightDGGLKSSW08",
@@ -8,8 +18,22 @@
 	"ee": "http://doi.acm.org/10.1145/1376616.1376739",
 	"pages": "1217-1222",
 	"publisher": "ACM",
-	"stemmed": ["sgl", "a", "scalabl", "languag", "for", "data", "driven", "game"],
-	"tag": ["data-driven", "game studies", "named", "scalability"],
+	"stemmed": [
+		"sgl",
+		"a",
+		"scalabl",
+		"languag",
+		"for",
+		"data",
+		"driven",
+		"game"
+	],
+	"tag": [
+		"data-driven",
+		"game studies",
+		"named",
+		"scalability"
+	],
 	"title": "SGL: a scalable language for data-driven games",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

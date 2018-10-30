@@ -1,14 +1,27 @@
 {
-	"author": ["Li Zhou", "David G. Andersen", "Mu Li", "Alexander J. Smola"],
-	"booktitle": "KDD",
+	"author": [
+		"Li Zhou",
+		"David G. Andersen",
+		"Mu Li",
+		"Alexander J. Smola"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/ZhouALS15",
 	"doi": "10.1145/2783258.2783263",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783263",
 	"pages": "1553-1562",
 	"publisher": "ACM",
-	"stemmed": ["cuckoo", "linear", "algebra"],
-	"tag": ["algebra", "linear"],
+	"stemmed": [
+		"cuckoo",
+		"linear",
+		"algebra"
+	],
+	"tag": [
+		"algebra",
+		"linear"
+	],
 	"title": "Cuckoo Linear Algebra",
 	"type": "inproceedings",
 	"venue": "KDD",

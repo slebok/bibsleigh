@@ -1,14 +1,30 @@
 {
-	"author": ["Scott West", "Sebastian Nanz", "Bertrand Meyer"],
-	"booktitle": "ESEC/SIGSOFT FSE",
+	"author": [
+		"Scott West",
+		"Sebastian Nanz",
+		"Bertrand Meyer"
+	],
+	"booktitle": "Proceedings of the 10th Joint Meeting of the 15th European Software Engineering Conference and the 23rd Symposium on the Foundations of Software Engineering",
+	"booktitleshort": "ESEC/SIGSOFT FSE",
 	"crossref": "conf/sigsoft/2015",
 	"dblpkey": "conf/sigsoft/WestNM15",
 	"doi": "10.1145/2786805.2786822",
 	"ee": "http://doi.acm.org/10.1145/2786805.2786822",
 	"pages": "734-744",
 	"publisher": "ACM",
-	"stemmed": ["effici", "and", "reason", "object", "orient", "concurr"],
-	"tag": ["concurrent", "object-oriented", "performance"],
+	"stemmed": [
+		"effici",
+		"and",
+		"reason",
+		"object",
+		"orient",
+		"concurr"
+	],
+	"tag": [
+		"concurrent",
+		"object-oriented",
+		"performance"
+	],
 	"title": "Efficient and reasonable object-oriented concurrency",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

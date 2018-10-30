@@ -1,14 +1,31 @@
 {
-	"author": ["Xianping Ge", "Padhraic Smyth"],
-	"booktitle": "KDD",
+	"author": [
+		"Xianping Ge",
+		"Padhraic Smyth"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2000",
 	"dblpkey": "conf/kdd/GeS00",
 	"doi": "10.1145/347090.347109",
 	"ee": "http://doi.acm.org/10.1145/347090.347109",
 	"pages": "81-90",
 	"publisher": "ACM",
-	"stemmed": ["deform", "markov", "model", "templat", "for", "time", "seri", "pattern", "match"],
-	"tag": ["markov", "pattern matching"],
+	"stemmed": [
+		"deform",
+		"markov",
+		"model",
+		"templat",
+		"for",
+		"time",
+		"seri",
+		"pattern",
+		"match"
+	],
+	"tag": [
+		"markov",
+		"pattern matching"
+	],
 	"title": "Deformable Markov model templates for time-series pattern matching",
 	"type": "inproceedings",
 	"venue": "KDD",

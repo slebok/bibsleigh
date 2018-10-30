@@ -1,16 +1,41 @@
 {
-	"acmid": 1022764,
-	"author": ["Satish Pillai", "Margarida F. Jacome"],
-	"booktitle": "DATE",
+	"acmid": "1022764",
+	"author": [
+		"Satish Pillai",
+		"Margarida F. Jacome"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2003",
 	"dblpkey": "conf/date/PillaiJ03",
 	"doi": "10.1109/DATE.2003.10204",
-	"ee": ["http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10204", "http://dl.acm.org/citation.cfm?id=1022764"],
+	"ee": [
+		"http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10204",
+		"http://dl.acm.org/citation.cfm?id=1022764"
+	],
 	"pages": "10422-10427",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["compil", "direct", "ilp", "extract", "for", "cluster", "vliw", "epic", "machin", "predic", "specul", "and", "modulo", "schedul"],
-	"tag": ["clustering", "scheduling"],
+	"stemmed": [
+		"compil",
+		"direct",
+		"ilp",
+		"extract",
+		"for",
+		"cluster",
+		"vliw",
+		"epic",
+		"machin",
+		"predic",
+		"specul",
+		"and",
+		"modulo",
+		"schedul"
+	],
+	"tag": [
+		"clustering",
+		"scheduling"
+	],
 	"title": "Compiler-Directed ILP Extraction for Clustered VLIW/EPIC Machines: Predication, Speculation and Modulo Scheduling",
 	"type": "inproceedings",
 	"venue": "DATE",

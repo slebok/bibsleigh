@@ -1,15 +1,36 @@
 {
-	"author": ["Fernando Ruiz-Rico", "José Luis Vicedo González", "María-Consuelo Rubio-Sánchez"],
-	"booktitle": "ACM Symposium on Document Engineering",
-	"booktitleshort": "DocEng",
+	"author": [
+		"Fernando Ruiz-Rico",
+		"José Luis Vicedo González",
+		"María-Consuelo Rubio-Sánchez"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Document Engineering",
+	"booktitleshort": "ACM Symposium on Document Engineering",
 	"crossref": "conf/doceng/2006",
 	"dblpkey": "conf/doceng/Ruiz-RicoGR06",
 	"doi": "10.1145/1166160.1166196",
 	"ee": "http://doi.acm.org/10.1145/1166160.1166196",
 	"pages": "128-137",
 	"publisher": "ACM",
-	"stemmed": ["newpar", "an", "automat", "featur", "select", "and", "weight", "schema", "for", "categori", "rank"],
-	"tag": ["automation", "feature model", "named", "ranking"],
+	"stemmed": [
+		"newpar",
+		"an",
+		"automat",
+		"featur",
+		"select",
+		"and",
+		"weight",
+		"schema",
+		"for",
+		"categori",
+		"rank"
+	],
+	"tag": [
+		"automation",
+		"feature model",
+		"named",
+		"ranking"
+	],
 	"title": "NEWPAR: an automatic feature selection and weighting schema for category ranking",
 	"type": "inproceedings",
 	"venue": "DocEng",

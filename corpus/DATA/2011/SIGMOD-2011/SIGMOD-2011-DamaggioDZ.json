@@ -1,6 +1,10 @@
 {
-	"author": ["Elio Damaggio", "Alin Deutsch", "Dayou Zhou"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Elio Damaggio",
+		"Alin Deutsch",
+		"Dayou Zhou"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/DamaggioDZ11",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989365",
 	"pages": "397-408",
 	"publisher": "ACM",
-	"stemmed": ["queri", "contract", "databas", "base", "on", "tempor", "behavior"],
-	"tag": ["behaviour", "contract", "database", "query"],
+	"stemmed": [
+		"queri",
+		"contract",
+		"databas",
+		"base",
+		"on",
+		"tempor",
+		"behavior"
+	],
+	"tag": [
+		"behaviour",
+		"contract",
+		"database",
+		"query"
+	],
 	"title": "Querying contract databases based on temporal behavior",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

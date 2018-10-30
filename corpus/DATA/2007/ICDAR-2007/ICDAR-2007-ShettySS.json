@@ -1,6 +1,11 @@
 {
-	"author": ["Shravya Shetty", "Harish Srinivasan", "Sargur N. Srihari"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Shravya Shetty",
+		"Harish Srinivasan",
+		"Sargur N. Srihari"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/ShettySS07",
 	"doi": "10.1109/ICDAR.2007.130",
@@ -8,8 +13,21 @@
 	"pages": "1098-1102",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["handwritten", "word", "recognit", "use", "condit", "random", "field"],
-	"tag": ["random", "recognition", "using", "word"],
+	"stemmed": [
+		"handwritten",
+		"word",
+		"recognit",
+		"use",
+		"condit",
+		"random",
+		"field"
+	],
+	"tag": [
+		"random",
+		"recognition",
+		"using",
+		"word"
+	],
 	"title": "Handwritten Word Recognition Using Conditional Random Fields",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,16 +1,34 @@
 {
 	"author": "Gerard Salton",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 14th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD84/P277.PDF",
-	"cite": ["journals/cacm/SaltonFW83", "...", "books/mg/SaltonG83"],
+	"cite": [
+		"journals/cacm/SaltonFW83",
+		"...",
+		"books/mg/SaltonG83"
+	],
 	"crossref": "conf/sigmod/84",
 	"dblpkey": "conf/sigmod/Salton84",
 	"doi": "10.1145/602259.602295",
 	"ee": "http://doi.acm.org/10.1145/602259.602295",
 	"pages": "277-285",
 	"publisher": "ACM Press",
-	"stemmed": ["the", "use", "of", "extend", "boolean", "logic", "in", "inform", "retriev"],
-	"tag": ["information retrieval", "logic"],
+	"stemmed": [
+		"the",
+		"use",
+		"of",
+		"extend",
+		"boolean",
+		"logic",
+		"in",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"information retrieval",
+		"logic"
+	],
 	"title": "The Use of Extended Boolean Logic in Information Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

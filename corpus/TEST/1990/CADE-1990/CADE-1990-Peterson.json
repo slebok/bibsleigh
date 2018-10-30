@@ -1,6 +1,7 @@
 {
 	"author": "Gerald E. Peterson",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/Peterson90",
 	"doi": "10.1007/3-540-52885-7_101",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["complet", "set", "of", "reduct", "with", "constraint"],
-	"tag": ["constraints", "reduction", "set"],
+	"stemmed": [
+		"complet",
+		"set",
+		"of",
+		"reduct",
+		"with",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"reduction",
+		"set"
+	],
 	"title": "Complete Sets of Reductions with Constraints",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

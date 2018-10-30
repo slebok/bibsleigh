@@ -1,6 +1,10 @@
 {
-	"author": ["Matthias Keil", "Peter Thiemann"],
-	"booktitle": "ECOOP",
+	"author": [
+		"Matthias Keil",
+		"Peter Thiemann"
+	],
+	"booktitle": "Proceedings of the 29th European Conference on Object-Oriented Programming",
+	"booktitleshort": "ECOOP",
 	"crossref": "conf/ecoop/2015",
 	"dblpkey": "conf/ecoop/KeilT15",
 	"doi": "10.4230/LIPIcs.ECOOP.2015.28",
@@ -10,11 +14,24 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["treat", "js", "higher", "order", "contract", "for", "java", "script"],
-	"tag": ["contract", "higher-order", "named"],
+	"stemmed": [
+		"treat",
+		"js",
+		"higher",
+		"order",
+		"contract",
+		"for",
+		"java",
+		"script"
+	],
+	"tag": [
+		"contract",
+		"higher-order",
+		"named"
+	],
 	"title": "TreatJS: Higher-Order Contracts for JavaScripts",
 	"type": "inproceedings",
 	"venue": "ECOOP",
-	"volume": 37,
+	"volume": "37",
 	"year": 2015
 }

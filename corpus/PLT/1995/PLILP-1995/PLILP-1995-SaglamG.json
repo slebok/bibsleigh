@@ -1,6 +1,10 @@
 {
-	"author": ["Hüseyin Saglam", "John P. Gallagher"],
+	"author": [
+		"Hüseyin Saglam",
+		"John P. Gallagher"
+	],
 	"booktitle": "Proceedings of the Seventh International Symposium on Programming Languages: Implementations, Logics and Programs",
+	"booktitleshort": "PPDP",
 	"crossref": "conf/plilp/95",
 	"dblpkey": "conf/plilp/SaglamG95",
 	"doi": "10.1007/BFb0026840",
@@ -10,11 +14,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["approxim", "constraint", "logic", "program", "use", "polymorph", "type", "and", "regular", "descript"],
-	"tag": ["approximate", "constraints", "logic programming", "polymorphism", "source code", "using"],
+	"stemmed": [
+		"approxim",
+		"constraint",
+		"logic",
+		"program",
+		"use",
+		"polymorph",
+		"type",
+		"and",
+		"regular",
+		"descript"
+	],
+	"tag": [
+		"approximate",
+		"constraints",
+		"logic programming",
+		"polymorphism",
+		"source code",
+		"using"
+	],
 	"title": "Approximating Constraint Logic Programs Using Polymorphic Types and Regular Descriptions",
 	"type": "inproceedings",
 	"venue": "PPDP",
-	"volume": 982,
+	"volume": "982",
 	"year": 1995
 }

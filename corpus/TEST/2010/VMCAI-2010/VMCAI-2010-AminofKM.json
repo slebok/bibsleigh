@@ -1,6 +1,11 @@
 {
-	"author": ["Benjamin Aminof", "Orna Kupferman", "Aniello Murano"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Benjamin Aminof",
+		"Orna Kupferman",
+		"Aniello Murano"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2010",
 	"dblpkey": "conf/vmcai/AminofKM10",
 	"doi": "10.1007/978-3-642-11319-2_8",
@@ -10,11 +15,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["improv", "model", "check", "of", "hierarch", "system"],
-	"tag": ["model checking"],
+	"stemmed": [
+		"improv",
+		"model",
+		"check",
+		"of",
+		"hierarch",
+		"system"
+	],
+	"tag": [
+		"model checking"
+	],
 	"title": "Improved Model Checking of Hierarchical Systems",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 5944,
+	"volume": "5944",
 	"year": 2010
 }

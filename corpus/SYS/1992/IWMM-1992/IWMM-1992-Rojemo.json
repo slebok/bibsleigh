@@ -1,6 +1,7 @@
 {
 	"author": "Niklas Röjemo",
-	"booktitle": "IWMM",
+	"booktitle": "Proceedings of the First International Workshop on Memory Management",
+	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
 	"dblpkey": "conf/iwmm/Rojemo92",
 	"doi": "10.1007/BFb0017206",
@@ -10,11 +11,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "concurr", "generat", "garbag", "collector", "for", "a", "parallel", "graph", "reduc"],
-	"tag": ["concurrent", "garbage collection", "graph", "parallel", "reduction"],
+	"stemmed": [
+		"a",
+		"concurr",
+		"generat",
+		"garbag",
+		"collector",
+		"for",
+		"a",
+		"parallel",
+		"graph",
+		"reduc"
+	],
+	"tag": [
+		"concurrent",
+		"garbage collection",
+		"graph",
+		"parallel",
+		"reduction"
+	],
 	"title": "A Concurrent Generational Garbage Collector for a Parallel Graph Reducer",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 637,
+	"volume": "637",
 	"year": 1992
 }

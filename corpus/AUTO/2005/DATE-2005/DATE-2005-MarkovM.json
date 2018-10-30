@@ -1,6 +1,10 @@
 {
-	"author": ["Igor L. Markov", "Dmitri Maslov"],
-	"booktitle": "DATE",
+	"author": [
+		"Igor L. Markov",
+		"Dmitri Maslov"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/MarkovM05",
 	"doi": "10.1109/DATE.2005.323",
@@ -8,8 +12,19 @@
 	"pages": "432-433",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["uniform", "switch", "logic", "for", "cryptograph", "hardwar"],
-	"tag": ["encryption", "hardware", "logic"],
+	"stemmed": [
+		"uniform",
+		"switch",
+		"logic",
+		"for",
+		"cryptograph",
+		"hardwar"
+	],
+	"tag": [
+		"encryption",
+		"hardware",
+		"logic"
+	],
 	"title": "Uniformly-Switching Logic for Cryptographic Hardware",
 	"type": "inproceedings",
 	"venue": "DATE",

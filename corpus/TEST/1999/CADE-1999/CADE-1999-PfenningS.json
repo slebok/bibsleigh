@@ -1,6 +1,10 @@
 {
-	"author": ["Frank Pfenning", "Carsten Schürmann"],
-	"booktitle": "CADE",
+	"author": [
+		"Frank Pfenning",
+		"Carsten Schürmann"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1999",
 	"dblpkey": "conf/cade/PfenningS99",
 	"doi": "10.1007/3-540-48660-7_14",
@@ -10,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "twelf", "a", "meta", "logic", "framework", "for", "deduct", "system"],
-	"tag": ["deduction", "framework", "logic"],
+	"stemmed": [
+		"system",
+		"descript",
+		"twelf",
+		"a",
+		"meta",
+		"logic",
+		"framework",
+		"for",
+		"deduct",
+		"system"
+	],
+	"tag": [
+		"deduction",
+		"framework",
+		"logic"
+	],
 	"title": "System Description: Twelf — A Meta-Logical Framework for Deductive Systems",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1632,
+	"volume": "1632",
 	"year": 1999
 }

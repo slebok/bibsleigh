@@ -1,6 +1,11 @@
 {
-	"author": ["Alessio Ferrari", "Stefania Gnesi", "Gabriele Tolomei"],
-	"booktitle": "REFSQ",
+	"author": [
+		"Alessio Ferrari",
+		"Stefania Gnesi",
+		"Gabriele Tolomei"
+	],
+	"booktitle": "Proceedings of the 19th International Working Conference on Requirements Engineering: Foundation for Software Quality",
+	"booktitleshort": "REFSQ",
 	"crossref": "conf/refsq/2013",
 	"dblpkey": "conf/refsq/FerrariGT13",
 	"doi": "10.1007/978-3-642-37422-7_3",
@@ -9,11 +14,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["use", "cluster", "to", "improv", "the", "structur", "of", "natur", "languag", "requir", "document"],
-	"tag": ["clustering", "documentation", "natural language", "requirements", "using"],
+	"stemmed": [
+		"use",
+		"cluster",
+		"to",
+		"improv",
+		"the",
+		"structur",
+		"of",
+		"natur",
+		"languag",
+		"requir",
+		"document"
+	],
+	"tag": [
+		"clustering",
+		"documentation",
+		"natural language",
+		"requirements",
+		"using"
+	],
 	"title": "Using Clustering to Improve the Structure of Natural Language Requirements Documents",
 	"type": "inproceedings",
 	"venue": "REFSQ",
-	"volume": 7830,
+	"volume": "7830",
 	"year": 2013
 }

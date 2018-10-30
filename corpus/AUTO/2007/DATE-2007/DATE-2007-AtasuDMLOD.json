@@ -1,14 +1,35 @@
 {
-	"author": ["Kubilay Atasu", "Robert G. Dimond", "Oskar Mencer", "Wayne Luk", "Can C. Özturan", "Günhan Dündar"],
-	"booktitle": "DATE",
+	"author": [
+		"Kubilay Atasu",
+		"Robert G. Dimond",
+		"Oskar Mencer",
+		"Wayne Luk",
+		"Can C. Özturan",
+		"Günhan Dündar"
+	],
+	"booktitle": "Proceedings of the 11th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2007",
 	"dblpkey": "conf/date/AtasuDMLOD07",
 	"doi": "10.1145/1266366.1266491",
 	"ee": "http://doi.acm.org/10.1145/1266366.1266491",
 	"pages": "588-593",
 	"publisher": "ACM",
-	"stemmed": ["optim", "instruct", "set", "extens", "processor", "under", "data", "bandwidth", "constraint"],
-	"tag": ["constraints", "optimisation"],
+	"stemmed": [
+		"optim",
+		"instruct",
+		"set",
+		"extens",
+		"processor",
+		"under",
+		"data",
+		"bandwidth",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"optimisation"
+	],
 	"title": "Optimizing instruction-set extensible processors under data bandwidth constraints",
 	"type": "inproceedings",
 	"venue": "DATE",

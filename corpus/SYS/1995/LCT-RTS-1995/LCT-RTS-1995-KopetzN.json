@@ -1,6 +1,9 @@
 {
-	"author": ["Hermann Kopetz", "Roman Nossal"],
-	"booktitle": "Workshop on Languages, Compilers, & Tools for Real-Time Systems",
+	"author": [
+		"Hermann Kopetz",
+		"Roman Nossal"
+	],
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Real-Time Systems",
 	"booktitleshort": "LCT-RTS",
 	"crossref": "conf/lctrts/1995",
 	"dblpkey": "conf/lctrts/KopetzN95",
@@ -8,8 +11,28 @@
 	"ee": "http://doi.acm.org/10.1145/216636.216670",
 	"pages": "108-116",
 	"publisher": "ACM",
-	"stemmed": ["the", "cluster", "compil", "a", "tool", "for", "the", "design", "of", "time", "trigger", "real", "time", "system"],
-	"tag": ["clustering", "compilation", "design", "realtime"],
+	"stemmed": [
+		"the",
+		"cluster",
+		"compil",
+		"a",
+		"tool",
+		"for",
+		"the",
+		"design",
+		"of",
+		"time",
+		"trigger",
+		"real",
+		"time",
+		"system"
+	],
+	"tag": [
+		"clustering",
+		"compilation",
+		"design",
+		"realtime"
+	],
 	"title": "The Cluster Compiler — A Tool for the Design of Time-Triggered Real-Time Systems",
 	"type": "inproceedings",
 	"venue": "LCTES",

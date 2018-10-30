@@ -1,13 +1,32 @@
 {
-	"author": ["Florian Haftmann", "Donald Kossmann", "Eric Lo"],
-	"booktitle": "VLDB",
+	"author": [
+		"Florian Haftmann",
+		"Donald Kossmann",
+		"Eric Lo"
+	],
+	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/HaftmannKL05",
 	"ee": "http://www.vldb2005.org/program/paper/thu/p589-haftmann.pdf",
 	"pages": "589-600",
 	"publisher": "ACM",
-	"stemmed": ["parallel", "execut", "of", "test", "run", "for", "databas", "applic", "system"],
-	"tag": ["database", "execution", "parallel"],
+	"stemmed": [
+		"parallel",
+		"execut",
+		"of",
+		"test",
+		"run",
+		"for",
+		"databas",
+		"applic",
+		"system"
+	],
+	"tag": [
+		"database",
+		"execution",
+		"parallel"
+	],
 	"title": "Parallel Execution of Test Runs for Database Application Systems",
 	"type": "inproceedings",
 	"venue": "VLDB",

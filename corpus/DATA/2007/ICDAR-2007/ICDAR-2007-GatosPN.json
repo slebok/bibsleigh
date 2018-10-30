@@ -1,6 +1,11 @@
 {
-	"author": ["Basilios Gatos", "Ioannis Pratikakis", "Konstantinos Ntirogiannis"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Basilios Gatos",
+		"Ioannis Pratikakis",
+		"Konstantinos Ntirogiannis"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/GatosPN07",
 	"doi": "10.1109/ICDAR.2007.227",
@@ -8,8 +13,21 @@
 	"pages": "989-993",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["segment", "base", "recoveri", "of", "arbitrarili", "warp", "document", "imag"],
-	"tag": ["documentation", "image", "segmentation"],
+	"stemmed": [
+		"segment",
+		"base",
+		"recoveri",
+		"of",
+		"arbitrarili",
+		"warp",
+		"document",
+		"imag"
+	],
+	"tag": [
+		"documentation",
+		"image",
+		"segmentation"
+	],
 	"title": "Segmentation Based Recovery of Arbitrarily Warped Document Images",
 	"type": "inproceedings",
 	"venue": "ICDAR",

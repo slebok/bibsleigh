@@ -1,6 +1,11 @@
 {
-	"author": ["Chengkai Li", "Philip Bohannon", "Henry F. Korth", "P. P. S. Narayan"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Chengkai Li",
+		"Philip Bohannon",
+		"Henry F. Korth",
+		"P. P. S. Narayan"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/LiBKN03",
@@ -8,8 +13,18 @@
 	"ee": "http://doi.acm.org/10.1145/872757.872820",
 	"pages": "515-526",
 	"publisher": "ACM",
-	"stemmed": ["compos", "xsl", "transform", "with", "xml", "publish", "view"],
-	"tag": ["xml"],
+	"stemmed": [
+		"compos",
+		"xsl",
+		"transform",
+		"with",
+		"xml",
+		"publish",
+		"view"
+	],
+	"tag": [
+		"xml"
+	],
 	"title": "Composing XSL Transformations with XML Publishing Views",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

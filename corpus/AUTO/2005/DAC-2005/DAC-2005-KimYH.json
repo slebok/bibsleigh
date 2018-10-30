@@ -1,14 +1,31 @@
 {
-	"author": ["Dohyung Kim", "Youngmin Yi", "Soonhoi Ha"],
-	"booktitle": "DAC",
+	"author": [
+		"Dohyung Kim",
+		"Youngmin Yi",
+		"Soonhoi Ha"
+	],
+	"booktitle": "Proceedings of the 42nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/KimYH05",
 	"doi": "10.1145/1065579.1065669",
 	"ee": "http://doi.acm.org/10.1145/1065579.1065669",
 	"pages": "345-348",
 	"publisher": "ACM",
-	"stemmed": ["trace", "driven", "hw", "sw", "cosimul", "use", "virtual", "synchron", "techniqu"],
-	"tag": ["using"],
+	"stemmed": [
+		"trace",
+		"driven",
+		"hw",
+		"sw",
+		"cosimul",
+		"use",
+		"virtual",
+		"synchron",
+		"techniqu"
+	],
+	"tag": [
+		"using"
+	],
 	"title": "Trace-driven HW/SW cosimulation using virtual synchronization technique",
 	"type": "inproceedings",
 	"venue": "DAC",

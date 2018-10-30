@@ -1,6 +1,13 @@
 {
-	"author": ["Fulvio Corno", "Matteo Sonza Reorda", "Giovanni Squillero", "Alberto Manzone", "Alessandro Pincetti"],
-	"booktitle": "DATE",
+	"author": [
+		"Fulvio Corno",
+		"Matteo Sonza Reorda",
+		"Giovanni Squillero",
+		"Alberto Manzone",
+		"Alessandro Pincetti"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/CornoRSMP00",
 	"doi": "10.1109/DATE.2000.840300",
@@ -8,8 +15,28 @@
 	"pages": "385-389",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["automat", "test", "bench", "generat", "for", "valid", "of", "rt", "level", "descript", "an", "industri", "experi"],
-	"tag": ["automation", "experience", "generative", "industrial", "validation"],
+	"stemmed": [
+		"automat",
+		"test",
+		"bench",
+		"generat",
+		"for",
+		"valid",
+		"of",
+		"rt",
+		"level",
+		"descript",
+		"an",
+		"industri",
+		"experi"
+	],
+	"tag": [
+		"automation",
+		"experience",
+		"generative",
+		"industrial",
+		"validation"
+	],
 	"title": "Automatic Test Bench Generation for Validation of RT-Level Descriptions: An Industrial Experience",
 	"type": "inproceedings",
 	"venue": "DATE",

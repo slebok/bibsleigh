@@ -1,6 +1,11 @@
 {
-	"author": ["Katherine A. Eastaughffe", "Maris A. Ozols", "Anthony Cant"],
-	"booktitle": "CADE",
+	"author": [
+		"Katherine A. Eastaughffe",
+		"Maris A. Ozols",
+		"Anthony Cant"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
 	"dblpkey": "conf/cade/EastaughffeOC97",
 	"doi": "10.1007/3-540-63104-6_35",
@@ -10,11 +15,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["proof", "tactic", "for", "a", "theori", "of", "state", "machin", "in", "a", "graphic", "environ"],
-	"tag": ["formal method", "proving", "state machine", "visual notation"],
+	"stemmed": [
+		"proof",
+		"tactic",
+		"for",
+		"a",
+		"theori",
+		"of",
+		"state",
+		"machin",
+		"in",
+		"a",
+		"graphic",
+		"environ"
+	],
+	"tag": [
+		"formal method",
+		"proving",
+		"state machine",
+		"visual notation"
+	],
 	"title": "Proof Tactics for a Theory of State Machines in a Graphical Environment",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1249,
+	"volume": "1249",
 	"year": 1997
 }

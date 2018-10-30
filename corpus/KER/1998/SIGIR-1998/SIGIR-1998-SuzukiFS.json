@@ -1,6 +1,11 @@
 {
-	"author": ["Yoshimi Suzuki", "Fumiyo Fukumoto", "Yoshihiro Sekiguchi"],
+	"author": [
+		"Yoshimi Suzuki",
+		"Fumiyo Fukumoto",
+		"Yoshihiro Sekiguchi"
+	],
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P373.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/SuzukiFS98",
@@ -8,8 +13,26 @@
 	"ee": "http://doi.acm.org/10.1145/290941.291062",
 	"pages": "373-374",
 	"publisher": "ACM",
-	"stemmed": ["keyword", "extract", "of", "radio", "news", "use", "term", "weight", "with", "an", "encyclopedia", "and", "newspap", "articl"],
-	"tag": ["keyword", "using"],
+	"stemmed": [
+		"keyword",
+		"extract",
+		"of",
+		"radio",
+		"news",
+		"use",
+		"term",
+		"weight",
+		"with",
+		"an",
+		"encyclopedia",
+		"and",
+		"newspap",
+		"articl"
+	],
+	"tag": [
+		"keyword",
+		"using"
+	],
 	"title": "Keyword Extraction of Radio News Using Term Weighting with an Encyclopedia and Newspaper Articles",
 	"type": "inproceedings",
 	"venue": "SIGIR",

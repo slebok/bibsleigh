@@ -1,15 +1,41 @@
 {
-	"author": ["Yubin Xia", "Yutao Liu", "Haibo Chen"],
-	"booktitle": "HPCA",
+	"author": [
+		"Yubin Xia",
+		"Yutao Liu",
+		"Haibo Chen"
+	],
+	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/XiaLC13",
 	"doi": "10.1109/HPCA.2013.6522323",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522323", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522323"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2013.6522323",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522323"
+	],
 	"pages": "246-257",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["architectur", "support", "for", "guest", "transpar", "vm", "protect", "from", "untrust", "hypervisor", "and", "physic", "attack"],
-	"tag": ["architecture", "physics", "virtual machine"],
+	"stemmed": [
+		"architectur",
+		"support",
+		"for",
+		"guest",
+		"transpar",
+		"vm",
+		"protect",
+		"from",
+		"untrust",
+		"hypervisor",
+		"and",
+		"physic",
+		"attack"
+	],
+	"tag": [
+		"architecture",
+		"physics",
+		"virtual machine"
+	],
 	"title": "Architecture support for guest-transparent VM protection from untrusted hypervisor and physical attacks",
 	"type": "inproceedings",
 	"venue": "HPCA",

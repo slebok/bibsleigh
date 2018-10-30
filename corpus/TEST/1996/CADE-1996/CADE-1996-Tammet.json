@@ -1,6 +1,7 @@
 {
 	"author": "Tanel Tammet",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/Tammet96",
 	"doi": "10.1007/3-540-61511-3_65",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "resolut", "theorem", "prover", "for", "intuitonist", "logic"],
-	"tag": ["logic", "proving", "theorem proving"],
+	"stemmed": [
+		"a",
+		"resolut",
+		"theorem",
+		"prover",
+		"for",
+		"intuitonist",
+		"logic"
+	],
+	"tag": [
+		"logic",
+		"proving",
+		"theorem proving"
+	],
 	"title": "A Resolution Theorem Prover for Intuitonistic Logic",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

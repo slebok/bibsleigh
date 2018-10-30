@@ -1,14 +1,32 @@
 {
-	"author": ["Jill Freyne", "Shlomo Berkovsky", "Elizabeth M. Daly", "Werner Geyer"],
-	"booktitle": "RecSys",
+	"author": [
+		"Jill Freyne",
+		"Shlomo Berkovsky",
+		"Elizabeth M. Daly",
+		"Werner Geyer"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2010",
 	"dblpkey": "conf/recsys/FreyneBDG10",
 	"doi": "10.1145/1864708.1864766",
 	"ee": "http://doi.acm.org/10.1145/1864708.1864766",
 	"pages": "277-280",
 	"publisher": "ACM",
-	"stemmed": ["social", "network", "feed", "recommend", "item", "of", "interest"],
-	"tag": ["network", "recommendation", "social"],
+	"stemmed": [
+		"social",
+		"network",
+		"feed",
+		"recommend",
+		"item",
+		"of",
+		"interest"
+	],
+	"tag": [
+		"network",
+		"recommendation",
+		"social"
+	],
 	"title": "Social networking feeds: recommending items of interest",
 	"type": "inproceedings",
 	"venue": "RecSys",

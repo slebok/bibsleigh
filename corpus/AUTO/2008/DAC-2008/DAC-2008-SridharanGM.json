@@ -1,14 +1,35 @@
 {
-	"author": ["Ranjani Sridharan", "Nikhil Gupta", "Rabi N. Mahapatra"],
-	"booktitle": "DAC",
+	"author": [
+		"Ranjani Sridharan",
+		"Nikhil Gupta",
+		"Rabi N. Mahapatra"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/SridharanGM08",
 	"doi": "10.1145/1391469.1391517",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391517",
 	"pages": "185-190",
 	"publisher": "ACM",
-	"stemmed": ["feedback", "control", "reliabl", "awar", "power", "manag", "for", "real", "time", "embed", "system"],
-	"tag": ["embedded", "power management", "realtime"],
+	"stemmed": [
+		"feedback",
+		"control",
+		"reliabl",
+		"awar",
+		"power",
+		"manag",
+		"for",
+		"real",
+		"time",
+		"embed",
+		"system"
+	],
+	"tag": [
+		"embedded",
+		"power management",
+		"realtime"
+	],
 	"title": "Feedback-controlled reliability-aware power management for real-time embedded systems",
 	"type": "inproceedings",
 	"venue": "DAC",

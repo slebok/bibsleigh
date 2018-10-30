@@ -1,6 +1,7 @@
 {
 	"author": "Adel Bouhoula",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/Bouhoula94",
 	"doi": "10.1007/3-540-58156-1_71",
@@ -10,11 +11,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["spike", "a", "system", "for", "suffici", "complet", "and", "parameter", "induct", "proof"],
-	"tag": ["induction", "named", "proving"],
+	"stemmed": [
+		"spike",
+		"a",
+		"system",
+		"for",
+		"suffici",
+		"complet",
+		"and",
+		"parameter",
+		"induct",
+		"proof"
+	],
+	"tag": [
+		"induction",
+		"named",
+		"proving"
+	],
 	"title": "SPIKE: a System for Sufficient Completeness and Parameterized Inductive Proofs",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

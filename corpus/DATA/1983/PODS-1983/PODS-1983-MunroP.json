@@ -1,16 +1,46 @@
 {
-	"author": ["J. Ian Munro", "Patricio V. Poblete"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS83/P070.PDF", "journals/anthology/dvd1:text/1-3/PODS83/P070.PDF"],
-	"cite": ["...", "books/aw/Knuth73", "journals/siamcomp/NievergeltR73", "...", "journals/tse/TaylorMB80", "journals/tse/TaylorMB80a", "..."],
+	"author": [
+		"J. Ian Munro",
+		"Patricio V. Poblete"
+	],
+	"booktitle": "Proceedings of the Second Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS83/P070.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS83/P070.PDF"
+	],
+	"cite": [
+		"...",
+		"books/aw/Knuth73",
+		"journals/siamcomp/NievergeltR73",
+		"...",
+		"journals/tse/TaylorMB80",
+		"journals/tse/TaylorMB80a",
+		"..."
+	],
 	"crossref": "conf/pods/83",
 	"dblpkey": "conf/pods/MunroP83",
 	"doi": "10.1145/588058.588069",
 	"ee": "http://doi.acm.org/10.1145/588058.588069",
 	"pages": "70-75",
 	"publisher": "ACM",
-	"stemmed": ["a", "disciplin", "for", "robust", "or", "storag", "reduct", "in", "binari", "search", "tree"],
-	"tag": ["reduction", "robust"],
+	"stemmed": [
+		"a",
+		"disciplin",
+		"for",
+		"robust",
+		"or",
+		"storag",
+		"reduct",
+		"in",
+		"binari",
+		"search",
+		"tree"
+	],
+	"tag": [
+		"reduction",
+		"robust"
+	],
 	"title": "A Discipline for Robustness or Storage Reduction in Binary Search Trees",
 	"type": "inproceedings",
 	"venue": "PODS",

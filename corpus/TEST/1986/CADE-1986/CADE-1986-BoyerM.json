@@ -1,6 +1,10 @@
 {
-	"author": ["Robert S. Boyer", "J. Strother Moore"],
-	"booktitle": "CADE",
+	"author": [
+		"Robert S. Boyer",
+		"J. Strother Moore"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/BoyerM86",
 	"doi": "10.1007/3-540-16780-3_133",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["overview", "of", "a", "theorem", "prover", "for", "a", "comput", "logic"],
-	"tag": ["bibliography", "logic"],
+	"stemmed": [
+		"overview",
+		"of",
+		"a",
+		"theorem",
+		"prover",
+		"for",
+		"a",
+		"comput",
+		"logic"
+	],
+	"tag": [
+		"bibliography",
+		"logic"
+	],
 	"title": "Overview of a Theorem-Prover for A Computational Logic",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

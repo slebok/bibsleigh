@@ -1,6 +1,7 @@
 {
 	"author": "Henry G. Baker",
-	"booktitle": "IWMM",
+	"booktitle": "Proceedings of the First International Workshop on Memory Management",
+	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
 	"dblpkey": "conf/iwmm/Baker92",
 	"doi": "10.1007/BFb0017210",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["nrevers", "of", "fortun", "the", "thermodynam", "of", "garbag", "collect"],
-	"tag": ["garbage collection"],
+	"stemmed": [
+		"nrevers",
+		"of",
+		"fortun",
+		"the",
+		"thermodynam",
+		"of",
+		"garbag",
+		"collect"
+	],
+	"tag": [
+		"garbage collection"
+	],
 	"title": "NREVERSAL of Fortune — The Thermodynamics of Garbage Collection",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 637,
+	"volume": "637",
 	"year": 1992
 }

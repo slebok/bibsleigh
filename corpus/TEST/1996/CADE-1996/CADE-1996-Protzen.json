@@ -1,6 +1,7 @@
 {
 	"author": "Martin Protzen",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/Protzen96",
 	"doi": "10.1007/3-540-61511-3_70",
@@ -10,10 +11,14 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["patch", "faulti", "conjectur"],
+	"stemmed": [
+		"patch",
+		"faulti",
+		"conjectur"
+	],
 	"title": "Patching Faulty Conjectures",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

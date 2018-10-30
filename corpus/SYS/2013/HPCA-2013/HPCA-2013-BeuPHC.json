@@ -1,15 +1,36 @@
 {
-	"author": ["Jesse G. Beu", "Jason A. Poovey", "Eric R. Hein", "Thomas M. Conte"],
-	"booktitle": "HPCA",
+	"author": [
+		"Jesse G. Beu",
+		"Jason A. Poovey",
+		"Eric R. Hein",
+		"Thomas M. Conte"
+	],
+	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/BeuPHC13",
 	"doi": "10.1109/HPCA.2013.6522350",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522350", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522350"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2013.6522350",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522350"
+	],
 	"pages": "566-577",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["high", "speed", "formal", "verif", "of", "heterogen", "coher", "hierarchi"],
-	"tag": ["performance", "verification"],
+	"stemmed": [
+		"high",
+		"speed",
+		"formal",
+		"verif",
+		"of",
+		"heterogen",
+		"coher",
+		"hierarchi"
+	],
+	"tag": [
+		"performance",
+		"verification"
+	],
 	"title": "High-speed formal verification of heterogeneous coherence hierarchies",
 	"type": "inproceedings",
 	"venue": "HPCA",

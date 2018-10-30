@@ -1,14 +1,32 @@
 {
-	"author": ["Hiran Tennakoon", "Carl Sechen"],
-	"booktitle": "DAC",
+	"author": [
+		"Hiran Tennakoon",
+		"Carl Sechen"
+	],
+	"booktitle": "Proceedings of the 42nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/TennakoonS05",
 	"doi": "10.1145/1065579.1065793",
 	"ee": "http://doi.acm.org/10.1145/1065579.1065793",
 	"pages": "807-812",
 	"publisher": "ACM",
-	"stemmed": ["effici", "and", "accur", "gate", "size", "with", "piecewis", "convex", "delay", "model"],
-	"tag": ["modelling", "performance"],
+	"stemmed": [
+		"effici",
+		"and",
+		"accur",
+		"gate",
+		"size",
+		"with",
+		"piecewis",
+		"convex",
+		"delay",
+		"model"
+	],
+	"tag": [
+		"modelling",
+		"performance"
+	],
 	"title": "Efficient and accurate gate sizing with piecewise convex delay models",
 	"type": "inproceedings",
 	"venue": "DAC",

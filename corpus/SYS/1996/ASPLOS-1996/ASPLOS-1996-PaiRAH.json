@@ -1,14 +1,39 @@
 {
-	"author": ["Vijay S. Pai", "Parthasarathy Ranganathan", "Sarita V. Adve", "Tracy Harton"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Vijay S. Pai",
+		"Parthasarathy Ranganathan",
+		"Sarita V. Adve",
+		"Tracy Harton"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1996",
 	"dblpkey": "conf/asplos/PaiRAH96",
 	"doi": "10.1145/237090.237142",
 	"ee": "http://doi.acm.org/10.1145/237090.237142",
 	"pages": "12-23",
 	"publisher": "ACM Press",
-	"stemmed": ["an", "evalu", "of", "memori", "consist", "model", "for", "share", "memori", "system", "with", "ilp", "processor"],
-	"tag": ["consistency", "evaluation", "memory management", "modelling"],
+	"stemmed": [
+		"an",
+		"evalu",
+		"of",
+		"memori",
+		"consist",
+		"model",
+		"for",
+		"share",
+		"memori",
+		"system",
+		"with",
+		"ilp",
+		"processor"
+	],
+	"tag": [
+		"consistency",
+		"evaluation",
+		"memory management",
+		"modelling"
+	],
 	"title": "An Evaluation of Memory Consistency Models for Shared-Memory Systems with ILP Processors",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,6 +1,11 @@
 {
-	"author": ["Zhe Hou", "Rajeev Goré", "Alwen Tiu"],
-	"booktitle": "CADE",
+	"author": [
+		"Zhe Hou",
+		"Rajeev Goré",
+		"Alwen Tiu"
+	],
+	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
 	"dblpkey": "conf/cade/HouGT15",
 	"doi": "10.1007/978-3-319-21401-6_34",
@@ -10,11 +15,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["autom", "theorem", "prove", "for", "assert", "in", "separ", "logic", "with", "all", "connect"],
-	"tag": ["automation", "logic", "proving", "theorem proving"],
+	"stemmed": [
+		"autom",
+		"theorem",
+		"prove",
+		"for",
+		"assert",
+		"in",
+		"separ",
+		"logic",
+		"with",
+		"all",
+		"connect"
+	],
+	"tag": [
+		"automation",
+		"logic",
+		"proving",
+		"theorem proving"
+	],
 	"title": "Automated Theorem Proving for Assertions in Separation Logic with All Connectives",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 9195,
+	"volume": "9195",
 	"year": 2015
 }

@@ -1,13 +1,30 @@
 {
 	"author": "C. Mohan",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/Mohan02a",
 	"ee": "http://www.vldb.org/conf/2002/S29P01.pdf",
 	"pages": "940-949",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["an", "effici", "method", "for", "perform", "record", "delet", "and", "updat", "use", "index", "scan"],
-	"tag": ["performance", "using"],
+	"stemmed": [
+		"an",
+		"effici",
+		"method",
+		"for",
+		"perform",
+		"record",
+		"delet",
+		"and",
+		"updat",
+		"use",
+		"index",
+		"scan"
+	],
+	"tag": [
+		"performance",
+		"using"
+	],
 	"title": "An Efficient Method for Performing Record Deletions and Updates Using Index Scans",
 	"type": "inproceedings",
 	"venue": "VLDB",

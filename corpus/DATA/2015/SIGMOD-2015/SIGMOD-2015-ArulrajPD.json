@@ -1,6 +1,10 @@
 {
-	"author": ["Joy Arulraj", "Andrew Pavlo", "Subramanya Dulloor"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Joy Arulraj",
+		"Andrew Pavlo",
+		"Subramanya Dulloor"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/ArulrajPD15",
@@ -8,8 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2749441",
 	"pages": "707-722",
 	"publisher": "ACM",
-	"stemmed": ["let", "s", "talk", "about", "storag", "recoveri", "method", "for", "non", "volatil", "memori", "databas", "system"],
-	"tag": ["database", "memory management"],
+	"stemmed": [
+		"let",
+		"s",
+		"talk",
+		"about",
+		"storag",
+		"recoveri",
+		"method",
+		"for",
+		"non",
+		"volatil",
+		"memori",
+		"databas",
+		"system"
+	],
+	"tag": [
+		"database",
+		"memory management"
+	],
 	"title": "Let’s Talk About Storage & Recovery Methods for Non-Volatile Memory Database Systems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

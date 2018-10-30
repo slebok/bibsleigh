@@ -1,14 +1,26 @@
 {
 	"author": "Marc Geilen",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/Geilen09",
 	"doi": "10.1145/1629911.1630146",
 	"ee": "http://doi.acm.org/10.1145/1629911.1630146",
 	"pages": "911-916",
 	"publisher": "ACM",
-	"stemmed": ["reduct", "techniqu", "for", "synchron", "dataflow", "graph"],
-	"tag": ["data flow", "graph", "reduction"],
+	"stemmed": [
+		"reduct",
+		"techniqu",
+		"for",
+		"synchron",
+		"dataflow",
+		"graph"
+	],
+	"tag": [
+		"data flow",
+		"graph",
+		"reduction"
+	],
 	"title": "Reduction techniques for synchronous dataflow graphs",
 	"type": "inproceedings",
 	"venue": "DAC",

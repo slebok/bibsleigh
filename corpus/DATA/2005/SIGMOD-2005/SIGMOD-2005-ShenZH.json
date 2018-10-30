@@ -1,6 +1,10 @@
 {
-	"author": ["Heng Tao Shen", "Beng Chin Ooi", "Xiaofang Zhou"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Heng Tao Shen",
+		"Beng Chin Ooi",
+		"Xiaofang Zhou"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/ShenZH05",
@@ -8,8 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066240",
 	"pages": "730-741",
 	"publisher": "ACM",
-	"stemmed": ["toward", "effect", "index", "for", "veri", "larg", "video", "sequenc", "databas"],
-	"tag": ["database", "effectiveness", "scalability", "sequence", "towards", "video"],
+	"stemmed": [
+		"toward",
+		"effect",
+		"index",
+		"for",
+		"veri",
+		"larg",
+		"video",
+		"sequenc",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"effectiveness",
+		"scalability",
+		"sequence",
+		"towards",
+		"video"
+	],
 	"title": "Towards Effective Indexing for Very Large Video Sequence Database",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

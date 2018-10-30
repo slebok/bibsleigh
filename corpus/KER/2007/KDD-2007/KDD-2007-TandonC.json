@@ -1,14 +1,35 @@
 {
-	"author": ["Gaurav Tandon", "Philip K. Chan"],
-	"booktitle": "KDD",
+	"author": [
+		"Gaurav Tandon",
+		"Philip K. Chan"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2007",
 	"dblpkey": "conf/kdd/TandonC07",
 	"doi": "10.1145/1281192.1281267",
 	"ee": "http://doi.acm.org/10.1145/1281192.1281267",
 	"pages": "697-706",
 	"publisher": "ACM",
-	"stemmed": ["weight", "versus", "prune", "in", "rule", "valid", "for", "detect", "network", "and", "host", "anomali"],
-	"tag": ["detection", "network", "validation"],
+	"stemmed": [
+		"weight",
+		"versus",
+		"prune",
+		"in",
+		"rule",
+		"valid",
+		"for",
+		"detect",
+		"network",
+		"and",
+		"host",
+		"anomali"
+	],
+	"tag": [
+		"detection",
+		"network",
+		"validation"
+	],
 	"title": "Weighting versus pruning in rule validation for detecting network and host anomalies",
 	"type": "inproceedings",
 	"venue": "KDD",

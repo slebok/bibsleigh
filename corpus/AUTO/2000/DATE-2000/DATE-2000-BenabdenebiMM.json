@@ -1,6 +1,11 @@
 {
-	"author": ["Mounir Benabdenbi", "Walid Maroufi", "Meryem Marzouki"],
-	"booktitle": "DATE",
+	"author": [
+		"Mounir Benabdenbi",
+		"Walid Maroufi",
+		"Meryem Marzouki"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/BenabdenebiMM00",
 	"doi": "10.1109/DATE.2000.840030",
@@ -8,8 +13,27 @@
 	"pages": "141-145",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["cas", "bus", "a", "scalabl", "and", "reconfigur", "test", "access", "mechan", "for", "system", "on", "a", "chip"],
-	"tag": ["configuration management", "named", "scalability"],
+	"stemmed": [
+		"cas",
+		"bus",
+		"a",
+		"scalabl",
+		"and",
+		"reconfigur",
+		"test",
+		"access",
+		"mechan",
+		"for",
+		"system",
+		"on",
+		"a",
+		"chip"
+	],
+	"tag": [
+		"configuration management",
+		"named",
+		"scalability"
+	],
 	"title": "CAS-BUS: A Scalable and Reconfigurable Test Access Mechanism for Systems on a Chip",
 	"type": "inproceedings",
 	"venue": "DATE",

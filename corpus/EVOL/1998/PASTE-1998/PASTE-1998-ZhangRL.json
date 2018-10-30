@@ -1,14 +1,31 @@
 {
-	"author": ["Sean Zhang", "Barbara G. Ryder", "William Landi"],
-	"booktitle": "PASTE",
+	"author": [
+		"Sean Zhang",
+		"Barbara G. Ryder",
+		"William Landi"
+	],
+	"booktitle": "Proceedings of the First Workshop on Program Analysis for Software Tools and Engineering",
+	"booktitleshort": "PASTE",
 	"crossref": "conf/paste/1998",
 	"dblpkey": "conf/paste/ZhangRL98",
 	"doi": "10.1145/277631.277635",
 	"ee": "http://doi.acm.org/10.1145/277631.277635",
 	"pages": "11-18",
 	"publisher": "ACM",
-	"stemmed": ["experi", "with", "combin", "analysi", "for", "pointer", "alias"],
-	"tag": ["alias", "analysis", "pointer"],
+	"stemmed": [
+		"experi",
+		"with",
+		"combin",
+		"analysi",
+		"for",
+		"pointer",
+		"alias"
+	],
+	"tag": [
+		"alias",
+		"analysis",
+		"pointer"
+	],
 	"title": "Experiments with Combined Analysis for Pointer Aliasing",
 	"type": "inproceedings",
 	"venue": "PASTE",

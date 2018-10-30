@@ -1,6 +1,14 @@
 {
-	"author": ["Shankar Mahadevan", "Federico Angiolini", "Michael Storgaard", "Rasmus Grøndahl Olsen", "Jens Sparsø", "Jan Madsen"],
-	"booktitle": "DATE",
+	"author": [
+		"Shankar Mahadevan",
+		"Federico Angiolini",
+		"Michael Storgaard",
+		"Rasmus Grøndahl Olsen",
+		"Jens Sparsø",
+		"Jan Madsen"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/MahadevanASOSM05",
 	"doi": "10.1109/DATE.2005.22",
@@ -8,8 +16,25 @@
 	"pages": "780-785",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "network", "traffic", "generat", "model", "for", "fast", "network", "on", "chip", "simul"],
-	"tag": ["generative", "network", "performance", "simulation"],
+	"stemmed": [
+		"a",
+		"network",
+		"traffic",
+		"generat",
+		"model",
+		"for",
+		"fast",
+		"network",
+		"on",
+		"chip",
+		"simul"
+	],
+	"tag": [
+		"generative",
+		"network",
+		"performance",
+		"simulation"
+	],
 	"title": "A Network Traffic Generator Model for Fast Network-on-Chip Simulation",
 	"type": "inproceedings",
 	"venue": "DATE",

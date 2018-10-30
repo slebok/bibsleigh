@@ -1,14 +1,34 @@
 {
-	"author": ["Nadeem Ahmed Syed", "Huan Liu", "Kah Kay Sung"],
-	"booktitle": "KDD",
+	"author": [
+		"Nadeem Ahmed Syed",
+		"Huan Liu",
+		"Kah Kay Sung"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1999",
 	"dblpkey": "conf/kdd/SyedLS99a",
 	"doi": "10.1145/312129.312267",
 	"ee": "http://doi.acm.org/10.1145/312129.312267",
 	"pages": "317-321",
 	"publisher": "ACM",
-	"stemmed": ["handl", "concept", "drift", "in", "increment", "learn", "with", "support", "vector", "machin"],
-	"tag": ["concept", "incremental", "learning"],
+	"stemmed": [
+		"handl",
+		"concept",
+		"drift",
+		"in",
+		"increment",
+		"learn",
+		"with",
+		"support",
+		"vector",
+		"machin"
+	],
+	"tag": [
+		"concept",
+		"incremental",
+		"learning"
+	],
 	"title": "Handling Concept Drifts in Incremental Learning with Support Vector Machines",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,6 +1,10 @@
 {
-	"author": ["Bin Liu", "Yali Zhu", "Elke A. Rundensteiner"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Bin Liu",
+		"Yali Zhu",
+		"Elke A. Rundensteiner"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/LiuZR06",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142513",
 	"pages": "347-358",
 	"publisher": "ACM",
-	"stemmed": ["run", "time", "oper", "state", "spill", "for", "memori", "intens", "long", "run", "queri"],
-	"tag": ["memory management", "query", "runtime"],
+	"stemmed": [
+		"run",
+		"time",
+		"oper",
+		"state",
+		"spill",
+		"for",
+		"memori",
+		"intens",
+		"long",
+		"run",
+		"queri"
+	],
+	"tag": [
+		"memory management",
+		"query",
+		"runtime"
+	],
 	"title": "Run-time operator state spilling for memory intensive long-running queries",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

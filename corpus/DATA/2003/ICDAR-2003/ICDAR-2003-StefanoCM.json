@@ -1,6 +1,11 @@
 {
-	"author": ["Claudio De Stefano", "Antonio Della Cioppa", "Angelo Marcelli"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Claudio De Stefano",
+		"Antonio Della Cioppa",
+		"Angelo Marcelli"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2003",
 	"dblpkey": "conf/icdar/StefanoCM03",
 	"doi": "10.1109/ICDAR.2003.1227747",
@@ -8,8 +13,26 @@
 	"pages": "671-675",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["exploit", "reliabl", "for", "dynam", "select", "of", "classifi", "by", "mean", "of", "genet", "algorithm"],
-	"tag": ["algorithm", "classification", "reliability", "search-based"],
+	"stemmed": [
+		"exploit",
+		"reliabl",
+		"for",
+		"dynam",
+		"select",
+		"of",
+		"classifi",
+		"by",
+		"mean",
+		"of",
+		"genet",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"classification",
+		"reliability",
+		"search-based"
+	],
 	"title": "Exploiting Reliability for Dynamic Selection of Classifiers by Means of Genetic Algorithms",
 	"type": "inproceedings",
 	"venue": "ICDAR",

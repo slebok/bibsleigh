@@ -1,13 +1,26 @@
 {
-	"author": ["Ashok Vittal", "Malgorzata Marek-Sadowska"],
-	"booktitle": "DAC",
+	"author": [
+		"Ashok Vittal",
+		"Malgorzata Marek-Sadowska"
+	],
+	"booktitle": "Proceedings of the 32nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/VittalM95",
 	"doi": "10.1145/217474.217577",
 	"ee": "http://doi.acm.org/10.1145/217474.217577",
 	"pages": "497-502",
 	"publisher": "ACM Press",
-	"stemmed": ["power", "optim", "buffer", "clock", "tree", "design"],
-	"tag": ["design"],
+	"stemmed": [
+		"power",
+		"optim",
+		"buffer",
+		"clock",
+		"tree",
+		"design"
+	],
+	"tag": [
+		"design"
+	],
 	"title": "Power Optimal Buffered Clock Tree Design",
 	"type": "inproceedings",
 	"venue": "DAC",

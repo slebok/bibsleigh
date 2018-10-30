@@ -1,13 +1,30 @@
 {
 	"author": "Manoj Sachdev",
-	"booktitle": "EDAC-ETC-EUROASIC",
+	"booktitle": "Proceedings of the European Conference on Design Automation (EDAC), European Test Conference (ETC) and the European Event in ASIC Design (EUROASIC)",
+	"booktitleshort": "EDAC-ETC-EUROASIC",
 	"crossref": "conf/eurodac/1994edac",
 	"dblpkey": "conf/eurodac/Sachdev94",
 	"pages": "361-365",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["transform", "sequenti", "logic", "in", "digit", "cmos", "ic", "for", "voltag", "and", "iddq", "test"],
-	"tag": ["logic", "testing"],
+	"stemmed": [
+		"transform",
+		"sequenti",
+		"logic",
+		"in",
+		"digit",
+		"cmos",
+		"ic",
+		"for",
+		"voltag",
+		"and",
+		"iddq",
+		"test"
+	],
+	"tag": [
+		"logic",
+		"testing"
+	],
 	"title": "Transforming Sequential Logic in Digital CMOS ICs for Voltage and IDDQ Testing",
 	"type": "inproceedings",
 	"venue": "DATE",

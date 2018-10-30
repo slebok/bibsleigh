@@ -1,6 +1,12 @@
 {
-	"author": ["Newton Cheung", "Sri Parameswaran", "Jörg Henkel", "Jeremy Chan"],
-	"booktitle": "DATE",
+	"author": [
+		"Newton Cheung",
+		"Sri Parameswaran",
+		"Jörg Henkel",
+		"Jeremy Chan"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/CheungPHC04",
 	"doi": "10.1109/DATE.2004.1269027",
@@ -8,8 +14,23 @@
 	"pages": "1020-1027",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["minc", "match", "i", "nstruction", "use", "combin", "equival", "for", "extens", "processor"],
-	"tag": ["equivalence", "named", "using"],
+	"stemmed": [
+		"minc",
+		"match",
+		"i",
+		"nstruction",
+		"use",
+		"combin",
+		"equival",
+		"for",
+		"extens",
+		"processor"
+	],
+	"tag": [
+		"equivalence",
+		"named",
+		"using"
+	],
 	"title": "MINCE: Matching INstructions Using Combinational Equivalence for Extensible Processor",
 	"type": "inproceedings",
 	"venue": "DATE",

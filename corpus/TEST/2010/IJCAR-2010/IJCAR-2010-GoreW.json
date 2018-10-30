@@ -1,6 +1,10 @@
 {
-	"author": ["Rajeev Goré", "Florian Widmann"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Rajeev Goré",
+		"Florian Widmann"
+	],
+	"booktitle": "Proceedings of the Fifth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2010",
 	"dblpkey": "conf/cade/GoreW10",
 	"doi": "10.1007/978-3-642-14203-1_20",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["optim", "and", "cut", "free", "tableaux", "for", "proposit", "dynam", "logic", "with", "convers"],
-	"tag": ["logic"],
+	"stemmed": [
+		"optim",
+		"and",
+		"cut",
+		"free",
+		"tableaux",
+		"for",
+		"proposit",
+		"dynam",
+		"logic",
+		"with",
+		"convers"
+	],
+	"tag": [
+		"logic"
+	],
 	"title": "Optimal and Cut-Free Tableaux for Propositional Dynamic Logic with Converse",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 6173,
+	"volume": "6173",
 	"year": 2010
 }

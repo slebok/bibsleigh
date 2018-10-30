@@ -1,6 +1,10 @@
 {
-	"author": ["Senjuti Basu Roy", "Laks V. S. Lakshmanan", "Rui Liu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Senjuti Basu Roy",
+		"Laks V. S. Lakshmanan",
+		"Rui Liu"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/RoyLL15",
@@ -8,8 +12,17 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2749448",
 	"pages": "1603-1616",
 	"publisher": "ACM",
-	"stemmed": ["from", "group", "recommend", "to", "group", "format"],
-	"tag": ["recommendation"],
+	"stemmed": [
+		"from",
+		"group",
+		"recommend",
+		"to",
+		"group",
+		"format"
+	],
+	"tag": [
+		"recommendation"
+	],
 	"title": "From Group Recommendations to Group Formation",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

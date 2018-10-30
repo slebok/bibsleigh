@@ -1,15 +1,35 @@
 {
 	"author": "Ray Smith",
-	"booktitle": "ICDAR",
+	"booktitle": "Proceedings of the Third International Conference on Document Analysis and Recognition (Volume II)",
+	"booktitleshort": "ICDAR v2",
 	"crossref": "conf/icdar/1995-2",
 	"dblpkey": "conf/icdar/Smith95",
 	"doi": "10.1109/ICDAR.1995.602124",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1995.602124", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.602124"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1995.602124",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.602124"
+	],
 	"pages": "1145-1148",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "simpl", "and", "effici", "skew", "detect", "algorithm", "via", "text", "row", "accumul"],
-	"tag": ["algorithm", "detection", "performance"],
+	"stemmed": [
+		"a",
+		"simpl",
+		"and",
+		"effici",
+		"skew",
+		"detect",
+		"algorithm",
+		"via",
+		"text",
+		"row",
+		"accumul"
+	],
+	"tag": [
+		"algorithm",
+		"detection",
+		"performance"
+	],
 	"title": "A simple and efficient skew detection algorithm via text row accumulation",
 	"type": "inproceedings",
 	"venue": "ICDAR",

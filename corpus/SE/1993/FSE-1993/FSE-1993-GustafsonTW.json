@@ -1,7 +1,11 @@
 {
-	"author": ["David A. Gustafson", "Joo T. Tan", "Perla Weaver"],
+	"author": [
+		"David A. Gustafson",
+		"Joo T. Tan",
+		"Perla Weaver"
+	],
 	"booktitle": "Proceedings of the First Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/1993",
 	"dblpkey": "conf/sigsoft/GustafsonTW93",
 	"doi": "10.1145/256428.167075",
@@ -9,8 +13,14 @@
 	"ee": "http://doi.acm.org/10.1145/256428.167075",
 	"pages": "163-168",
 	"publisher": "ACM",
-	"stemmed": ["softwar", "measur", "specif"],
-	"tag": ["specification"],
+	"stemmed": [
+		"softwar",
+		"measur",
+		"specif"
+	],
+	"tag": [
+		"specification"
+	],
 	"title": "Software Measure Specification",
 	"type": "inproceedings",
 	"venue": "FSE",

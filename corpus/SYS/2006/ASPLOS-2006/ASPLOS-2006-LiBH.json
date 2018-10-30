@@ -1,14 +1,33 @@
 {
-	"author": ["Xin Li", "Marian Boldt", "Reinhard von Hanxleden"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Xin Li",
+		"Marian Boldt",
+		"Reinhard von Hanxleden"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/LiBH06",
 	"doi": "10.1145/1168857.1168896",
 	"ee": "http://doi.acm.org/10.1145/1168857.1168896",
 	"pages": "303-314",
 	"publisher": "ACM",
-	"stemmed": ["map", "esterel", "onto", "a", "multi", "thread", "embed", "processor"],
-	"tag": ["concurrent", "embedded", "multi", "thread"],
+	"stemmed": [
+		"map",
+		"esterel",
+		"onto",
+		"a",
+		"multi",
+		"thread",
+		"embed",
+		"processor"
+	],
+	"tag": [
+		"concurrent",
+		"embedded",
+		"multi",
+		"thread"
+	],
 	"title": "Mapping esterel onto a multi-threaded embedded processor",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

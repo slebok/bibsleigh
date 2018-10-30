@@ -1,14 +1,25 @@
 {
 	"author": "Jens Krinke",
-	"booktitle": "PASTE",
+	"booktitle": "Proceedings of the First Workshop on Program Analysis for Software Tools and Engineering",
+	"booktitleshort": "PASTE",
 	"crossref": "conf/paste/1998",
 	"dblpkey": "conf/paste/Krinke98",
 	"doi": "10.1145/277631.277638",
 	"ee": "http://doi.acm.org/10.1145/277631.277638",
 	"pages": "35-42",
 	"publisher": "ACM",
-	"stemmed": ["static", "slice", "of", "thread", "program"],
-	"tag": ["slicing", "source code", "thread"],
+	"stemmed": [
+		"static",
+		"slice",
+		"of",
+		"thread",
+		"program"
+	],
+	"tag": [
+		"slicing",
+		"source code",
+		"thread"
+	],
 	"title": "Static Slicing of Threaded Programs",
 	"type": "inproceedings",
 	"venue": "PASTE",

@@ -1,14 +1,32 @@
 {
-	"author": ["Pablo Barceló", "Carlos A. Hurtado", "Leonid Libkin", "Peter T. Wood"],
-	"booktitle": "PODS",
+	"author": [
+		"Pablo Barceló",
+		"Carlos A. Hurtado",
+		"Leonid Libkin",
+		"Peter T. Wood"
+	],
+	"booktitle": "Proceedings of the 29th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2010",
 	"dblpkey": "conf/pods/BarceloHLW10",
 	"doi": "10.1145/1807085.1807089",
 	"ee": "http://doi.acm.org/10.1145/1807085.1807089",
 	"pages": "3-14",
 	"publisher": "ACM",
-	"stemmed": ["express", "languag", "for", "path", "queri", "over", "graph", "structur", "data"],
-	"tag": ["query"],
+	"stemmed": [
+		"express",
+		"languag",
+		"for",
+		"path",
+		"queri",
+		"over",
+		"graph",
+		"structur",
+		"data"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Expressive languages for path queries over graph-structured data",
 	"type": "inproceedings",
 	"venue": "PODS",

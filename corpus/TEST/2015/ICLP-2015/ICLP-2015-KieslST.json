@@ -1,6 +1,10 @@
 {
-	"author": ["Benjamin Kiesl", "Peter Schüller", "Hans Tompits"],
-	"booktitle": "ICLP (Technical Communications)",
+	"author": [
+		"Benjamin Kiesl",
+		"Peter Schüller",
+		"Hans Tompits"
+	],
+	"booktitle": "Technical Communications of the 31st International Conference on Logic Programming",
 	"booktitleshort": "ICLP TC",
 	"crossref": "conf/iclp/2015tc",
 	"dblpkey": "conf/iclp/KieslST15",
@@ -8,11 +12,25 @@
 	"publisher": "CEUR-WS.org",
 	"series": "CEUR Workshop Proceedings",
 	"seriesshort": "CEUR",
-	"stemmed": ["on", "structur", "analysi", "of", "non", "ground", "answer", "set", "program"],
-	"tag": ["analysis", "on the", "source code"],
+	"stemmed": [
+		"on",
+		"structur",
+		"analysi",
+		"of",
+		"non",
+		"ground",
+		"answer",
+		"set",
+		"program"
+	],
+	"tag": [
+		"analysis",
+		"on the",
+		"source code"
+	],
 	"title": "On Structural Analysis of Non-Ground Answer-Set Programs",
 	"type": "inproceedings",
 	"venue": "ICLP",
-	"volume": 1433,
+	"volume": "1433",
 	"year": 2015
 }

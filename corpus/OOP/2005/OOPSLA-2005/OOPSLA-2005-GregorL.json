@@ -1,17 +1,37 @@
 {
-	"author": ["Douglas Gregor", "Andrew Lumsdaine"],
-	"booktitle": "Proceedings of the 20th Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Douglas Gregor",
+		"Andrew Lumsdaine"
+	],
+	"booktitle": "Proceedings of the 20th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2005",
 	"dblpkey": "conf/oopsla/GregorL05",
 	"doi": "10.1145/1094811.1094844",
-	"editor": ["Ralph E. Johnson", "Richard P. Gabriel"],
+	"editor": [
+		"Ralph E. Johnson",
+		"Richard P. Gabriel"
+	],
 	"ee": "http://doi.acm.org/10.1145/1094811.1094844",
 	"isbn": "1-59593-031-0",
 	"pages": "423-437",
 	"publisher": "ACM",
-	"stemmed": ["lift", "sequenti", "graph", "algorithm", "for", "distribut", "memori", "parallel", "comput"],
-	"tag": ["algorithm", "graph", "parallel"],
+	"stemmed": [
+		"lift",
+		"sequenti",
+		"graph",
+		"algorithm",
+		"for",
+		"distribut",
+		"memori",
+		"parallel",
+		"comput"
+	],
+	"tag": [
+		"algorithm",
+		"graph",
+		"parallel"
+	],
 	"title": "Lifting sequential graph algorithms for distributed-memory parallel computation",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

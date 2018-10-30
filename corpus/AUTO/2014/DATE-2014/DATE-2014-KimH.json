@@ -1,14 +1,33 @@
 {
-	"author": ["Taemin Kim", "Yatin Hoskote"],
-	"booktitle": "DATE",
+	"author": [
+		"Taemin Kim",
+		"Yatin Hoskote"
+	],
+	"booktitle": "Proceedings of the 18th Conference and Exhibition on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2014",
 	"dblpkey": "conf/date/KimH14",
 	"doi": "10.7873/DATE.2014.375",
 	"ee": "http://dx.doi.org/10.7873/DATE.2014.375",
 	"pages": "1-6",
 	"publisher": "IEEE",
-	"stemmed": ["automat", "generat", "of", "custom", "simd", "instruct", "for", "superword", "level", "parallel"],
-	"tag": ["automation", "generative", "parallel"],
+	"stemmed": [
+		"automat",
+		"generat",
+		"of",
+		"custom",
+		"simd",
+		"instruct",
+		"for",
+		"superword",
+		"level",
+		"parallel"
+	],
+	"tag": [
+		"automation",
+		"generative",
+		"parallel"
+	],
 	"title": "Automatic generation of custom SIMD instructions for Superword Level Parallelism",
 	"type": "inproceedings",
 	"venue": "DATE",

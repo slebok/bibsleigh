@@ -1,6 +1,9 @@
 {
-	"author": ["Jerry Kiernan", "Michael J. Carey"],
-	"booktitle": "Proceedings of the 10th Annual Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"author": [
+		"Jerry Kiernan",
+		"Michael J. Carey"
+	],
+	"booktitle": "Proceedings of the 10th Annual Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1995",
 	"dblpkey": "conf/oopsla/KiernanC95",
@@ -10,8 +13,22 @@
 	"isbn": "0-89791-703-0",
 	"pages": "467-480",
 	"publisher": "ACM",
-	"stemmed": ["extend", "sql", "for", "oodb", "access", "design", "and", "implement", "experi"],
-	"tag": ["design", "experience", "implementation"],
+	"stemmed": [
+		"extend",
+		"sql",
+		"for",
+		"oodb",
+		"access",
+		"design",
+		"and",
+		"implement",
+		"experi"
+	],
+	"tag": [
+		"design",
+		"experience",
+		"implementation"
+	],
 	"title": "Extending SQL-92 for OODB Access: Design and Implementation Experience",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

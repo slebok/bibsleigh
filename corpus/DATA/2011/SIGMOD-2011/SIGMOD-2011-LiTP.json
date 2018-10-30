@@ -1,6 +1,10 @@
 {
-	"author": ["Yinan Li", "Allison Terrell", "Jignesh M. Patel"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yinan Li",
+		"Allison Terrell",
+		"Jignesh M. Patel"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/LiTP11",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989370",
 	"pages": "445-456",
 	"publisher": "ACM",
-	"stemmed": ["wham", "a", "high", "throughput", "sequenc", "align", "method"],
-	"tag": ["named", "sequence"],
+	"stemmed": [
+		"wham",
+		"a",
+		"high",
+		"throughput",
+		"sequenc",
+		"align",
+		"method"
+	],
+	"tag": [
+		"named",
+		"sequence"
+	],
 	"title": "WHAM: a high-throughput sequence alignment method",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

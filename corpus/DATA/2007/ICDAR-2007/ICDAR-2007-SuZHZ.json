@@ -1,6 +1,12 @@
 {
-	"author": ["T.-H. Su", "T.-W. Zhang", "H.-J. Huang", "Y. Zhou"],
-	"booktitle": "ICDAR",
+	"author": [
+		"T.-H. Su",
+		"T.-W. Zhang",
+		"H.-J. Huang",
+		"Y. Zhou"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/SuZHZ07",
 	"doi": "10.1109/ICDAR.2007.133",
@@ -8,7 +14,20 @@
 	"pages": "133-137",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["hmm", "base", "recogn", "with", "segment", "free", "strategi", "for", "unconstrain", "chines", "handwritten", "text"],
+	"stemmed": [
+		"hmm",
+		"base",
+		"recogn",
+		"with",
+		"segment",
+		"free",
+		"strategi",
+		"for",
+		"unconstrain",
+		"chines",
+		"handwritten",
+		"text"
+	],
 	"title": "HMM-Based Recognizer with Segmentation-free Strategy for Unconstrained Chinese Handwritten Text",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,13 +1,37 @@
 {
-	"author": ["Yan Qi", "K. Selçuk Candan", "Maria Luisa Sapino"],
-	"booktitle": "VLDB",
+	"author": [
+		"Yan Qi",
+		"K. Selçuk Candan",
+		"Maria Luisa Sapino"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/QiCS07",
 	"ee": "http://www.vldb.org/conf/2007/papers/research/p507-qi.pdf",
 	"pages": "507-518",
 	"publisher": "ACM",
-	"stemmed": ["sum", "max", "monoton", "rank", "join", "for", "evalu", "top", "k", "twig", "queri", "on", "weight", "data", "graph"],
-	"tag": ["graph", "query"],
+	"stemmed": [
+		"sum",
+		"max",
+		"monoton",
+		"rank",
+		"join",
+		"for",
+		"evalu",
+		"top",
+		"k",
+		"twig",
+		"queri",
+		"on",
+		"weight",
+		"data",
+		"graph"
+	],
+	"tag": [
+		"graph",
+		"query"
+	],
 	"title": "Sum-Max Monotonic Ranked Joins for Evaluating Top-K Twig Queries on Weighted Data Graphs",
 	"type": "inproceedings",
 	"venue": "VLDB",

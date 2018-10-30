@@ -1,13 +1,35 @@
 {
-	"author": ["Chih-Wei Jim Chang", "Chung-Kuan Cheng", "Peter Suaris", "Malgorzata Marek-Sadowska"],
-	"booktitle": "DAC",
+	"author": [
+		"Chih-Wei Jim Chang",
+		"Chung-Kuan Cheng",
+		"Peter Suaris",
+		"Malgorzata Marek-Sadowska"
+	],
+	"booktitle": "Proceedings of the 37th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/ChangCSM00",
 	"doi": "10.1145/337292.337420",
 	"ee": "http://doi.acm.org/10.1145/337292.337420",
 	"pages": "286-289",
 	"publisher": "ACM",
-	"stemmed": ["fast", "post", "placement", "rewir", "use", "easili", "detect", "function", "symmetri"],
-	"tag": ["detection", "functional", "performance", "symmetry", "using"],
+	"stemmed": [
+		"fast",
+		"post",
+		"placement",
+		"rewir",
+		"use",
+		"easili",
+		"detect",
+		"function",
+		"symmetri"
+	],
+	"tag": [
+		"detection",
+		"functional",
+		"performance",
+		"symmetry",
+		"using"
+	],
 	"title": "Fast post-placement rewiring using easily detectable functional symmetries",
 	"type": "inproceedings",
 	"venue": "DAC",

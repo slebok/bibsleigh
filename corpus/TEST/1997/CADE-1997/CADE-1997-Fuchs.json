@@ -1,6 +1,7 @@
 {
 	"author": "Matthias Fuchs",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
 	"dblpkey": "conf/cade/Fuchs97",
 	"doi": "10.1007/3-540-63104-6_42",
@@ -10,11 +11,17 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["evolv", "combin"],
-	"tag": ["combinator", "evolution"],
+	"stemmed": [
+		"evolv",
+		"combin"
+	],
+	"tag": [
+		"combinator",
+		"evolution"
+	],
 	"title": "Evolving Combinators",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1249,
+	"volume": "1249",
 	"year": 1997
 }

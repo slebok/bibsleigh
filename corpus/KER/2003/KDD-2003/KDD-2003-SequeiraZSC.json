@@ -1,14 +1,34 @@
 {
-	"author": ["Karlton Sequeira", "Mohammed Javeed Zaki", "Boleslaw K. Szymanski", "Christopher D. Carothers"],
-	"booktitle": "KDD",
+	"author": [
+		"Karlton Sequeira",
+		"Mohammed Javeed Zaki",
+		"Boleslaw K. Szymanski",
+		"Christopher D. Carothers"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2003",
 	"dblpkey": "conf/kdd/SequeiraZSC03",
 	"doi": "10.1145/956750.956834",
 	"ee": "http://doi.acm.org/10.1145/956750.956834",
 	"pages": "649-654",
 	"publisher": "ACM",
-	"stemmed": ["improv", "spatial", "local", "of", "program", "via", "data", "mine"],
-	"tag": ["data mining", "locality", "mining", "source code"],
+	"stemmed": [
+		"improv",
+		"spatial",
+		"local",
+		"of",
+		"program",
+		"via",
+		"data",
+		"mine"
+	],
+	"tag": [
+		"data mining",
+		"locality",
+		"mining",
+		"source code"
+	],
 	"title": "Improving spatial locality of programs via data mining",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,6 +1,9 @@
 {
-	"author": ["Michael D. Bond", "Kathryn S. McKinley"],
-	"booktitle": "Proceedings of the 23rd Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Michael D. Bond",
+		"Kathryn S. McKinley"
+	],
+	"booktitle": "Proceedings of the 23rd Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2008",
 	"dblpkey": "conf/oopsla/BondM08",
@@ -10,8 +13,14 @@
 	"isbn": "978-1-60558-215-3",
 	"pages": "109-126",
 	"publisher": "ACM",
-	"stemmed": ["toler", "memori", "leak"],
-	"tag": ["memory management"],
+	"stemmed": [
+		"toler",
+		"memori",
+		"leak"
+	],
+	"tag": [
+		"memory management"
+	],
 	"title": "Tolerating memory leaks",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

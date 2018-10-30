@@ -1,13 +1,32 @@
 {
-	"author": ["Mikael Millberg", "Axel Jantsch"],
-	"booktitle": "DATE",
+	"author": [
+		"Mikael Millberg",
+		"Axel Jantsch"
+	],
+	"booktitle": "Proceedings of the 13th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2009",
 	"dblpkey": "conf/date/MillbergJ09",
 	"ieeearid": 5090823,
 	"pages": "1070-1075",
 	"publisher": "IEEE",
-	"stemmed": ["prioriti", "base", "forc", "requeu", "to", "reduc", "worst", "case", "latenc", "for", "bursti", "traffic"],
-	"tag": ["worst-case"],
+	"stemmed": [
+		"prioriti",
+		"base",
+		"forc",
+		"requeu",
+		"to",
+		"reduc",
+		"worst",
+		"case",
+		"latenc",
+		"for",
+		"bursti",
+		"traffic"
+	],
+	"tag": [
+		"worst-case"
+	],
 	"title": "Priority based forced requeue to reduce worst-case latencies for bursty traffic",
 	"type": "inproceedings",
 	"venue": "DATE",

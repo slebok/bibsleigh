@@ -1,15 +1,28 @@
 {
 	"author": "Daniel J. Dietterich",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD94/P468.PDF",
 	"crossref": "conf/sigmod/94",
 	"dblpkey": "conf/sigmod/Dietterich94",
 	"doi": "10.1145/191839.191931",
 	"ee": "http://doi.acm.org/10.1145/191839.191931",
-	"pages": 468,
+	"pages": "468",
 	"publisher": "ACM Press",
-	"stemmed": ["dec", "data", "distributor", "for", "data", "replic", "and", "data", "wareh"],
-	"tag": ["replication"],
+	"stemmed": [
+		"dec",
+		"data",
+		"distributor",
+		"for",
+		"data",
+		"replic",
+		"and",
+		"data",
+		"wareh"
+	],
+	"tag": [
+		"replication"
+	],
 	"title": "DEC Data Distributor: for Data Replication and Data Warehousing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

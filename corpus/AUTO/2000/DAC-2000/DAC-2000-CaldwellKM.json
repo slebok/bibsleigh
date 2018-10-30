@@ -1,13 +1,29 @@
 {
-	"author": ["Andrew E. Caldwell", "Andrew B. Kahng", "Igor L. Markov"],
-	"booktitle": "DAC",
+	"author": [
+		"Andrew E. Caldwell",
+		"Andrew B. Kahng",
+		"Igor L. Markov"
+	],
+	"booktitle": "Proceedings of the 37th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/CaldwellKM00",
 	"doi": "10.1145/337292.337549",
 	"ee": "http://doi.acm.org/10.1145/337292.337549",
 	"pages": "477-482",
 	"publisher": "ACM",
-	"stemmed": ["can", "recurs", "bisect", "alon", "produc", "routabl", "placement"],
-	"tag": ["question", "recursion"],
+	"stemmed": [
+		"can",
+		"recurs",
+		"bisect",
+		"alon",
+		"produc",
+		"routabl",
+		"placement"
+	],
+	"tag": [
+		"question",
+		"recursion"
+	],
 	"title": "Can recursive bisection alone produce routable placements?",
 	"type": "inproceedings",
 	"venue": "DAC",

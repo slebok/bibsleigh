@@ -1,6 +1,15 @@
 {
-	"author": ["Brian Greskamp", "Lu Wan", "Ulya R. Karpuzcu", "Jeffrey J. Cook", "Josep Torrellas", "Deming Chen", "Craig B. Zilles"],
-	"booktitle": "HPCA",
+	"author": [
+		"Brian Greskamp",
+		"Lu Wan",
+		"Ulya R. Karpuzcu",
+		"Jeffrey J. Cook",
+		"Josep Torrellas",
+		"Deming Chen",
+		"Craig B. Zilles"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2009",
 	"dblpkey": "conf/hpca/GreskampWKCTCZ09",
 	"doi": "10.1109/HPCA.2009.4798256",
@@ -8,8 +17,22 @@
 	"pages": "213-224",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["blueshift", "design", "processor", "for", "time", "specul", "from", "the", "ground", "up"],
-	"tag": ["design", "named"],
+	"stemmed": [
+		"blueshift",
+		"design",
+		"processor",
+		"for",
+		"time",
+		"specul",
+		"from",
+		"the",
+		"ground",
+		"up"
+	],
+	"tag": [
+		"design",
+		"named"
+	],
 	"title": "Blueshift: Designing processors for timing speculation from the ground up",
 	"type": "inproceedings",
 	"venue": "HPCA",

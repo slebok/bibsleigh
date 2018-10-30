@@ -1,6 +1,7 @@
 {
 	"author": "A. Dain Samples",
-	"booktitle": "IWMM",
+	"booktitle": "Proceedings of the First International Workshop on Memory Management",
+	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
 	"dblpkey": "conf/iwmm/Samples92",
 	"doi": "10.1007/BFb0017198",
@@ -10,11 +11,17 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["gc", "cooper", "c"],
-	"tag": ["c++"],
+	"stemmed": [
+		"gc",
+		"cooper",
+		"c"
+	],
+	"tag": [
+		"c++"
+	],
 	"title": "GC-cooperative C++",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 637,
+	"volume": "637",
 	"year": 1992
 }

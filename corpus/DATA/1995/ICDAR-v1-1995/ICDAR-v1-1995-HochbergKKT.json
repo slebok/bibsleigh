@@ -1,15 +1,40 @@
 {
-	"author": ["Judith Hochberg", "Lila Kerns", "Patrick Kelly", "Timothy Thomas"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Judith Hochberg",
+		"Lila Kerns",
+		"Patrick Kelly",
+		"Timothy Thomas"
+	],
+	"booktitle": "Proceedings of the Third International Conference on Document Analysis and Recognition (Volume I)",
+	"booktitleshort": "ICDAR v1",
 	"crossref": "conf/icdar/1995-1",
 	"dblpkey": "conf/icdar/HochbergKKT95",
 	"doi": "10.1109/ICDAR.1995.599017",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1995.599017", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.599017"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1995.599017",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.599017"
+	],
 	"pages": "378-381",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["automat", "script", "identif", "from", "imag", "use", "cluster", "base", "templat"],
-	"tag": ["automation", "clustering", "identification", "image", "using"],
+	"stemmed": [
+		"automat",
+		"script",
+		"identif",
+		"from",
+		"imag",
+		"use",
+		"cluster",
+		"base",
+		"templat"
+	],
+	"tag": [
+		"automation",
+		"clustering",
+		"identification",
+		"image",
+		"using"
+	],
 	"title": "Automatic script identification from images using cluster-based templates",
 	"type": "inproceedings",
 	"venue": "ICDAR",

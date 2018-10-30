@@ -1,14 +1,32 @@
 {
-	"author": ["Maunendra Sankar Desarkar", "Sudeshna Sarkar", "Pabitra Mitra"],
-	"booktitle": "RecSys",
+	"author": [
+		"Maunendra Sankar Desarkar",
+		"Sudeshna Sarkar",
+		"Pabitra Mitra"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2010",
 	"dblpkey": "conf/recsys/DesarkarSM10",
 	"doi": "10.1145/1864708.1864716",
 	"ee": "http://doi.acm.org/10.1145/1864708.1864716",
 	"pages": "21-28",
 	"publisher": "ACM",
-	"stemmed": ["aggreg", "prefer", "graph", "for", "collabor", "rate", "predict"],
-	"tag": ["collaboration", "graph", "predict", "rating"],
+	"stemmed": [
+		"aggreg",
+		"prefer",
+		"graph",
+		"for",
+		"collabor",
+		"rate",
+		"predict"
+	],
+	"tag": [
+		"collaboration",
+		"graph",
+		"predict",
+		"rating"
+	],
 	"title": "Aggregating preference graphs for collaborative rating prediction",
 	"type": "inproceedings",
 	"venue": "RecSys",

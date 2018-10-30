@@ -1,16 +1,42 @@
 {
-	"acmid": 1545067,
-	"author": ["Jianjun Li", "Chenggang Wu", "Wei-Chung Hsu"],
-	"booktitle": "CGO",
+	"acmid": "1545067",
+	"author": [
+		"Jianjun Li",
+		"Chenggang Wu",
+		"Wei-Chung Hsu"
+	],
+	"booktitle": "Proceedings of the Seventh International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2009",
 	"dblpkey": "conf/cgo/LiWH09",
 	"doi": "10.1109/CGO.2009.22",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2009.22", "http://doi.ieeecomputersociety.org/10.1109/CGO.2009.22", "http://dl.acm.org/citation.cfm?id=1545067"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2009.22",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2009.22",
+		"http://dl.acm.org/citation.cfm?id=1545067"
+	],
 	"pages": "180-189",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["an", "evalu", "of", "misalign", "data", "access", "handl", "mechan", "in", "dynam", "binari", "translat", "system"],
-	"tag": ["data access", "evaluation"],
+	"stemmed": [
+		"an",
+		"evalu",
+		"of",
+		"misalign",
+		"data",
+		"access",
+		"handl",
+		"mechan",
+		"in",
+		"dynam",
+		"binari",
+		"translat",
+		"system"
+	],
+	"tag": [
+		"data access",
+		"evaluation"
+	],
 	"title": "An Evaluation of Misaligned Data Access Handling Mechanisms in Dynamic Binary Translation Systems",
 	"type": "inproceedings",
 	"venue": "CGO",

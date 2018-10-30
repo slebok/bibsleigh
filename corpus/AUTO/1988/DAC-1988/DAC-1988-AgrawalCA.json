@@ -1,12 +1,31 @@
 {
 	"acmid": "285730.285743",
-	"author": ["Vishwani D. Agrawal", "Kwang-Ting Cheng", "Prathima Agrawal"],
-	"booktitle": "DAC",
+	"author": [
+		"Vishwani D. Agrawal",
+		"Kwang-Ting Cheng",
+		"Prathima Agrawal"
+	],
+	"booktitle": "Proceedings of the 25th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/AgrawalCA88",
 	"pages": "84-89",
 	"publisher": "ACM",
-	"stemmed": ["contest", "a", "concurr", "test", "generat", "for", "sequenti", "circuit"],
-	"tag": ["concurrent", "contest", "generative", "named"],
+	"stemmed": [
+		"contest",
+		"a",
+		"concurr",
+		"test",
+		"generat",
+		"for",
+		"sequenti",
+		"circuit"
+	],
+	"tag": [
+		"concurrent",
+		"contest",
+		"generative",
+		"named"
+	],
 	"title": "Contest: A Concurrent Test Generator for Sequential Circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

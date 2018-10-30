@@ -1,6 +1,10 @@
 {
-	"author": ["Richard C. Potter", "David A. Plaisted"],
-	"booktitle": "CADE",
+	"author": [
+		"Richard C. Potter",
+		"David A. Plaisted"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/PotterP88",
 	"doi": "10.1007/BFb0012848",
@@ -10,11 +14,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["term", "rewrit", "some", "experiment", "result"],
-	"tag": ["term rewriting"],
+	"stemmed": [
+		"term",
+		"rewrit",
+		"some",
+		"experiment",
+		"result"
+	],
+	"tag": [
+		"term rewriting"
+	],
 	"title": "Term Rewriting: Some Experimental Results",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

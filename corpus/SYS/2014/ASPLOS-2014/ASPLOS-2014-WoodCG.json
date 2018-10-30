@@ -1,14 +1,33 @@
 {
-	"author": ["Benjamin P. Wood", "Luis Ceze", "Dan Grossman"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Benjamin P. Wood",
+		"Luis Ceze",
+		"Dan Grossman"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2014",
 	"dblpkey": "conf/asplos/WoodCG14",
 	"doi": "10.1145/2541940.2541955",
 	"ee": "http://doi.acm.org/10.1145/2541940.2541955",
 	"pages": "671-686",
 	"publisher": "ACM",
-	"stemmed": ["low", "level", "detect", "of", "languag", "level", "data", "race", "with", "lard"],
-	"tag": ["detection", "low level"],
+	"stemmed": [
+		"low",
+		"level",
+		"detect",
+		"of",
+		"languag",
+		"level",
+		"data",
+		"race",
+		"with",
+		"lard"
+	],
+	"tag": [
+		"detection",
+		"low level"
+	],
 	"title": "Low-level detection of language-level data races with LARD",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

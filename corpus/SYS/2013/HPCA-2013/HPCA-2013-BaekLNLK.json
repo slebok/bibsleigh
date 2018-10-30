@@ -1,15 +1,39 @@
 {
-	"author": ["Seungcheol Baek", "Hyung Gyu Lee", "Chrysostomos Nicopoulos", "Junghee Lee", "Jongman Kim"],
-	"booktitle": "HPCA",
+	"author": [
+		"Seungcheol Baek",
+		"Hyung Gyu Lee",
+		"Chrysostomos Nicopoulos",
+		"Junghee Lee",
+		"Jongman Kim"
+	],
+	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/BaekLNLK13",
 	"doi": "10.1109/HPCA.2013.6522313",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522313", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522313"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2013.6522313",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522313"
+	],
 	"pages": "131-142",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["ecm", "effect", "capac", "maxim", "for", "high", "perform", "compress", "cach"],
-	"tag": ["capacity", "effectiveness", "named"],
+	"stemmed": [
+		"ecm",
+		"effect",
+		"capac",
+		"maxim",
+		"for",
+		"high",
+		"perform",
+		"compress",
+		"cach"
+	],
+	"tag": [
+		"capacity",
+		"effectiveness",
+		"named"
+	],
 	"title": "ECM: Effective Capacity Maximizer for high-performance compressed caching",
 	"type": "inproceedings",
 	"venue": "HPCA",

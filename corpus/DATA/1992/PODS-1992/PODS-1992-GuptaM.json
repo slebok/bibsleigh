@@ -1,16 +1,43 @@
 {
-	"author": ["Ashish Gupta", "Inderpal Singh Mumick"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS92/P354.PDF", "journals/anthology/dvd1:text/1-3/PODS92/P354.PDF"],
-	"cite": ["conf/pods/BeeriR87", "...", "...", "conf/sigmod/MumickFPR90", "conf/vldb/MumickPR90", "...", "conf/pods/Naughton86", "conf/iclp/TamakiS84", "books/cs/Ullman88", "books/cs/Ullman89"],
+	"author": [
+		"Ashish Gupta",
+		"Inderpal Singh Mumick"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS92/P354.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS92/P354.PDF"
+	],
+	"cite": [
+		"conf/pods/BeeriR87",
+		"...",
+		"...",
+		"conf/sigmod/MumickFPR90",
+		"conf/vldb/MumickPR90",
+		"...",
+		"conf/pods/Naughton86",
+		"conf/iclp/TamakiS84",
+		"books/cs/Ullman88",
+		"books/cs/Ullman89"
+	],
 	"crossref": "conf/pods/92",
 	"dblpkey": "conf/pods/GuptaM92",
 	"doi": "10.1145/137097.137908",
 	"ee": "http://doi.acm.org/10.1145/137097.137908",
 	"pages": "354-367",
 	"publisher": "ACM Press",
-	"stemmed": ["magic", "set", "transform", "in", "nonrecurs", "system"],
-	"tag": ["recursion"],
+	"stemmed": [
+		"magic",
+		"set",
+		"transform",
+		"in",
+		"nonrecurs",
+		"system"
+	],
+	"tag": [
+		"recursion"
+	],
 	"title": "Magic-sets Transformation in Nonrecursive Systems",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,6 +1,11 @@
 {
-	"author": ["G. Dathe", "K.-H. Dreckmann", "G. Henselmann"],
-	"booktitle": "VLDB",
+	"author": [
+		"G. Dathe",
+		"K.-H. Dreckmann",
+		"G. Henselmann"
+	],
+	"booktitle": "Proceedings of the First International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB75/P546.PDF",
 	"crossref": "conf/vldb/75",
 	"dblpkey": "conf/vldb/DatheDH75",
@@ -8,8 +13,28 @@
 	"ee": "http://doi.acm.org/10.1145/1282480.1282544",
 	"pages": "546-548",
 	"publisher": "ACM",
-	"stemmed": ["design", "principl", "of", "a", "data", "base", "system", "for", "unlimit", "quantiti", "of", "data", "with", "high", "complex", "structur"],
-	"tag": ["database", "design"],
+	"stemmed": [
+		"design",
+		"principl",
+		"of",
+		"a",
+		"data",
+		"base",
+		"system",
+		"for",
+		"unlimit",
+		"quantiti",
+		"of",
+		"data",
+		"with",
+		"high",
+		"complex",
+		"structur"
+	],
+	"tag": [
+		"database",
+		"design"
+	],
 	"title": "Design Principles of a Data Base System for Unlimited Quantities of Data with Highly Complex Structures",
 	"type": "inproceedings",
 	"venue": "VLDB",

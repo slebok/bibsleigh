@@ -1,6 +1,11 @@
 {
-	"author": ["Carlos Areces", "Hans de Nivelle", "Maarten de Rijke"],
-	"booktitle": "CADE",
+	"author": [
+		"Carlos Areces",
+		"Hans de Nivelle",
+		"Maarten de Rijke"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1999",
 	"dblpkey": "conf/cade/ArecesNR99",
 	"doi": "10.1007/3-540-48660-7_13",
@@ -10,11 +15,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["prefix", "resolut", "a", "resolut", "method", "for", "modal", "and", "descript", "logic"],
-	"tag": ["logic"],
+	"stemmed": [
+		"prefix",
+		"resolut",
+		"a",
+		"resolut",
+		"method",
+		"for",
+		"modal",
+		"and",
+		"descript",
+		"logic"
+	],
+	"tag": [
+		"logic"
+	],
 	"title": "Prefixed Resolution: A Resolution Method for Modal and Description Logics",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1632,
+	"volume": "1632",
 	"year": 1999
 }

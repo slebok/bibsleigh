@@ -1,6 +1,11 @@
 {
-	"author": ["Andreas Steigmiller", "Birte Glimm", "Thorsten Liebig"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Andreas Steigmiller",
+		"Birte Glimm",
+		"Thorsten Liebig"
+	],
+	"booktitle": "Proceedings of the Seventh International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2014",
 	"dblpkey": "conf/cade/SteigmillerGL14",
 	"doi": "10.1007/978-3-319-08587-6_35",
@@ -10,11 +15,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["coupl", "tableau", "algorithm", "for", "express", "descript", "logic", "with", "complet", "base", "satur", "procedur"],
-	"tag": ["algorithm", "logic"],
+	"stemmed": [
+		"coupl",
+		"tableau",
+		"algorithm",
+		"for",
+		"express",
+		"descript",
+		"logic",
+		"with",
+		"complet",
+		"base",
+		"satur",
+		"procedur"
+	],
+	"tag": [
+		"algorithm",
+		"logic"
+	],
 	"title": "Coupling Tableau Algorithms for Expressive Description Logics with Completion-Based Saturation Procedures",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 8562,
+	"volume": "8562",
 	"year": 2014
 }

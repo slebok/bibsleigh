@@ -1,6 +1,10 @@
 {
-	"author": ["Mary Cryan", "Allan Ramsay"],
-	"booktitle": "CADE",
+	"author": [
+		"Mary Cryan",
+		"Allan Ramsay"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
 	"dblpkey": "conf/cade/CryanR97",
 	"doi": "10.1007/3-540-63104-6_22",
@@ -10,11 +14,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["construct", "a", "normal", "form", "for", "properti", "theori"],
-	"tag": ["normalisation"],
+	"stemmed": [
+		"construct",
+		"a",
+		"normal",
+		"form",
+		"for",
+		"properti",
+		"theori"
+	],
+	"tag": [
+		"normalisation"
+	],
 	"title": "Constructing a Normal Form for Property Theory",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1249,
+	"volume": "1249",
 	"year": 1997
 }

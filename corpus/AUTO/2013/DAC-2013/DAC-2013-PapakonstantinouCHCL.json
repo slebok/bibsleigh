@@ -1,14 +1,31 @@
 {
-	"author": ["Alexandros Papakonstantinou", "Deming Chen", "Wen-mei W. Hwu", "Jason Cong", "Yun Liang"],
-	"booktitle": "DAC",
+	"author": [
+		"Alexandros Papakonstantinou",
+		"Deming Chen",
+		"Wen-mei W. Hwu",
+		"Jason Cong",
+		"Yun Liang"
+	],
+	"booktitle": "Proceedings of the 50th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2013",
 	"dblpkey": "conf/dac/PapakonstantinouCHCL13",
 	"doi": "10.1145/2463209.2488747",
 	"ee": "http://doi.acm.org/10.1145/2463209.2488747",
 	"pages": "11:1-11:10",
 	"publisher": "ACM",
-	"stemmed": ["throughput", "orient", "kernel", "port", "onto", "fpgas"],
-	"tag": ["kernel", "migration"],
+	"stemmed": [
+		"throughput",
+		"orient",
+		"kernel",
+		"port",
+		"onto",
+		"fpgas"
+	],
+	"tag": [
+		"kernel",
+		"migration"
+	],
 	"title": "Throughput-oriented kernel porting onto FPGAs",
 	"type": "inproceedings",
 	"venue": "DAC",

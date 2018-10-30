@@ -1,6 +1,11 @@
 {
-	"author": ["Hakjoo Oh", "Lucas Brutschy", "Kwangkeun Yi"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Hakjoo Oh",
+		"Lucas Brutschy",
+		"Kwangkeun Yi"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2011",
 	"dblpkey": "conf/vmcai/OhBY11",
 	"doi": "10.1007/978-3-642-18275-4_25",
@@ -10,11 +15,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["access", "analysi", "base", "tight", "local", "of", "abstract", "memori"],
-	"tag": ["locality"],
+	"stemmed": [
+		"access",
+		"analysi",
+		"base",
+		"tight",
+		"local",
+		"of",
+		"abstract",
+		"memori"
+	],
+	"tag": [
+		"locality"
+	],
 	"title": "Access Analysis-Based Tight Localization of Abstract Memories",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 6538,
+	"volume": "6538",
 	"year": 2011
 }

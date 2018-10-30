@@ -1,13 +1,30 @@
 {
-	"author": ["Hyong-youb Kim", "Scott Rixner"],
-	"booktitle": "OSDI",
+	"author": [
+		"Hyong-youb Kim",
+		"Scott Rixner"
+	],
+	"booktitle": "Proceedings of the Seventh Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2006",
 	"dblpkey": "conf/osdi/KimR06",
 	"ee": "http://www.usenix.org/events/osdi06/tech/kim.html",
 	"pages": "293-306",
 	"publisher": "USENIX Association",
-	"stemmed": ["connect", "handoff", "polici", "for", "tcp", "offload", "network", "interfac"],
-	"tag": ["interface", "network", "policy"],
+	"stemmed": [
+		"connect",
+		"handoff",
+		"polici",
+		"for",
+		"tcp",
+		"offload",
+		"network",
+		"interfac"
+	],
+	"tag": [
+		"interface",
+		"network",
+		"policy"
+	],
 	"title": "Connection Handoff Policies for TCP Offload Network Interfaces",
 	"type": "inproceedings",
 	"venue": "OSDI",

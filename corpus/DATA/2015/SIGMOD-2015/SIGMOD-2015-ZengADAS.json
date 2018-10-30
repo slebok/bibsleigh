@@ -1,6 +1,12 @@
 {
-	"author": ["Kai Zeng", "Sameer Agarwal", "Ankur Dave", "Michael Armbrust", "Ion Stoica"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Kai Zeng",
+		"Sameer Agarwal",
+		"Ankur Dave",
+		"Michael Armbrust",
+		"Ion Stoica"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/ZengADAS15",
@@ -8,8 +14,27 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2735381",
 	"pages": "913-918",
 	"publisher": "ACM",
-	"stemmed": ["g", "ola", "general", "on", "line", "aggreg", "for", "interact", "analysi", "on", "big", "data"],
-	"tag": ["analysis", "big data", "interactive", "named", "online"],
+	"stemmed": [
+		"g",
+		"ola",
+		"general",
+		"on",
+		"line",
+		"aggreg",
+		"for",
+		"interact",
+		"analysi",
+		"on",
+		"big",
+		"data"
+	],
+	"tag": [
+		"analysis",
+		"big data",
+		"interactive",
+		"named",
+		"online"
+	],
 	"title": "G-OLA: Generalized On-Line Aggregation for Interactive Analysis on Big Data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

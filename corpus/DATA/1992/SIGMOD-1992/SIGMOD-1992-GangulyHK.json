@@ -1,15 +1,44 @@
 {
-	"author": ["Sumit Ganguly", "Waqar Hasan", "Ravi Krishnamurthy"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Sumit Ganguly",
+		"Waqar Hasan",
+		"Ravi Krishnamurthy"
+	],
+	"booktitle": "Proceedings of the 22nd ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD92/P009.PDF",
-	"cite": ["journals/tse/ApersHY83", "...", "conf/pdis/ConnorsHKNSW91", "journals/sigmod/DeWittG90", "journals/tkde/DeWittGSBHR90", "...", "books/mk/Gray91", "conf/pdis/HongS91", "...", "conf/sigmod/SelingerACLP79", "...", "conf/sigmod/SchneiderD89"],
+	"cite": [
+		"journals/tse/ApersHY83",
+		"...",
+		"conf/pdis/ConnorsHKNSW91",
+		"journals/sigmod/DeWittG90",
+		"journals/tkde/DeWittGSBHR90",
+		"...",
+		"books/mk/Gray91",
+		"conf/pdis/HongS91",
+		"...",
+		"conf/sigmod/SelingerACLP79",
+		"...",
+		"conf/sigmod/SchneiderD89"
+	],
 	"crossref": "conf/sigmod/92",
 	"dblpkey": "conf/sigmod/GangulyHK92",
 	"doi": "10.1145/130283.130291",
 	"ee": "http://doi.acm.org/10.1145/130283.130291",
 	"pages": "9-18",
-	"stemmed": ["queri", "optim", "for", "parallel", "execut"],
-	"tag": ["execution", "optimisation", "parallel", "query"],
+	"stemmed": [
+		"queri",
+		"optim",
+		"for",
+		"parallel",
+		"execut"
+	],
+	"tag": [
+		"execution",
+		"optimisation",
+		"parallel",
+		"query"
+	],
 	"title": "Query Optimization for Parallel Execution",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

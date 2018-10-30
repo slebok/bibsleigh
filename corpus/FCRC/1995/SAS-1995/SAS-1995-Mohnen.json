@@ -1,6 +1,7 @@
 {
 	"author": "Markus Mohnen",
 	"booktitle": "Proceedings of the Second International Static Analysis Symposium",
+	"booktitleshort": "SAS",
 	"crossref": "conf/sas/95",
 	"dblpkey": "conf/sas/Mohnen95",
 	"doi": "10.1007/3-540-60360-3_44",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["effici", "closur", "utilis", "by", "higher", "order", "inherit", "analysi"],
-	"tag": ["analysis", "higher-order", "inheritance", "performance"],
+	"stemmed": [
+		"effici",
+		"closur",
+		"utilis",
+		"by",
+		"higher",
+		"order",
+		"inherit",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"higher-order",
+		"inheritance",
+		"performance"
+	],
 	"title": "Efficient Closure Utilisation by Higher-Order Inheritance Analysis",
 	"type": "inproceedings",
 	"venue": "SAS",
-	"volume": 983,
+	"volume": "983",
 	"year": 1995
 }

@@ -1,6 +1,11 @@
 {
-	"author": ["Nitin Thaper", "Sudipto Guha", "Piotr Indyk", "Nick Koudas"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Nitin Thaper",
+		"Sudipto Guha",
+		"Piotr Indyk",
+		"Nick Koudas"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/ThaperGIK02",
@@ -8,8 +13,14 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564741",
 	"pages": "428-439",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "multidimension", "histogram"],
-	"tag": ["multi"],
+	"stemmed": [
+		"dynam",
+		"multidimension",
+		"histogram"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "Dynamic multidimensional histograms",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

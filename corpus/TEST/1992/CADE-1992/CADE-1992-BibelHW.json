@@ -1,6 +1,11 @@
 {
-	"author": ["Wolfgang Bibel", "Steffen Hölldobler", "Jörg Würtz"],
-	"booktitle": "CADE",
+	"author": [
+		"Wolfgang Bibel",
+		"Steffen Hölldobler",
+		"Jörg Würtz"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/BibelHW92",
 	"doi": "10.1007/3-540-55602-8_158",
@@ -10,11 +15,16 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["cycl", "unif"],
-	"tag": ["unification"],
+	"stemmed": [
+		"cycl",
+		"unif"
+	],
+	"tag": [
+		"unification"
+	],
 	"title": "Cycle Unification",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

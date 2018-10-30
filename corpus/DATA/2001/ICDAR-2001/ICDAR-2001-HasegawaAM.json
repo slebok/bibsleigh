@@ -1,15 +1,39 @@
 {
-	"author": ["Tomoki Hasegawa", "Ken Akamatsu", "Takashi Matsumoto"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Tomoki Hasegawa",
+		"Ken Akamatsu",
+		"Takashi Matsumoto"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2001",
 	"dblpkey": "conf/icdar/HasegawaAM01",
 	"doi": "10.1109/ICDAR.2001.953938",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2001.953938", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953938"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2001.953938",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953938"
+	],
 	"pages": "1012-1016",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "bayesian", "bi", "gram", "scheme", "for", "hmm", "onlin", "handwrit", "recognit", "algorithm"],
-	"tag": ["algorithm", "online", "recognition"],
+	"stemmed": [
+		"a",
+		"bayesian",
+		"bi",
+		"gram",
+		"scheme",
+		"for",
+		"hmm",
+		"onlin",
+		"handwrit",
+		"recognit",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"online",
+		"recognition"
+	],
 	"title": "A Bayesian Bi-gram Scheme for HMM Online Handwriting Recognition Algorithm",
 	"type": "inproceedings",
 	"venue": "ICDAR",

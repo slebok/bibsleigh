@@ -1,6 +1,7 @@
 {
 	"author": "S. Hotta",
-	"booktitle": "ICDAR",
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/Hotta07",
 	"doi": "10.1109/ICDAR.2007.253",
@@ -8,8 +9,25 @@
 	"pages": "347-351",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["transform", "invari", "in", "local", "averag", "classifi", "for", "handwritten", "digit", "pattern", "recognit"],
-	"tag": ["classification", "pattern matching", "pattern recognition", "recognition"],
+	"stemmed": [
+		"transform",
+		"invari",
+		"in",
+		"local",
+		"averag",
+		"classifi",
+		"for",
+		"handwritten",
+		"digit",
+		"pattern",
+		"recognit"
+	],
+	"tag": [
+		"classification",
+		"pattern matching",
+		"pattern recognition",
+		"recognition"
+	],
 	"title": "Transform-Invariance in Local Averaging Classifier for Handwritten Digit Pattern Recognition",
 	"type": "inproceedings",
 	"venue": "ICDAR",

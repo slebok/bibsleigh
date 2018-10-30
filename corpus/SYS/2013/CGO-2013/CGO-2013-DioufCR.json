@@ -1,16 +1,35 @@
 {
-	"acmid": 2495915,
-	"author": ["Boubacar Diouf", "Albert Cohen", "Fabrice Rastello"],
-	"booktitle": "CGO",
+	"acmid": "2495915",
+	"author": [
+		"Boubacar Diouf",
+		"Albert Cohen",
+		"Fabrice Rastello"
+	],
+	"booktitle": "Proceedings of the 11th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2013",
 	"dblpkey": "conf/cgo/DioufCR13",
 	"doi": "10.1109/CGO.2013.6495005",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2013.6495005", "http://doi.ieeecomputersociety.org/10.1109/CGO.2013.6495005", "http://dl.acm.org/citation.cfm?id=2495915"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2013.6495005",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2013.6495005",
+		"http://dl.acm.org/citation.cfm?id=2495915"
+	],
 	"pages": "10:1-10:10",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "polynomi", "spill", "heurist", "layer", "alloc"],
-	"tag": ["heuristic", "polynomial"],
+	"stemmed": [
+		"a",
+		"polynomi",
+		"spill",
+		"heurist",
+		"layer",
+		"alloc"
+	],
+	"tag": [
+		"heuristic",
+		"polynomial"
+	],
 	"title": "A polynomial spilling heuristic: Layered allocation",
 	"type": "inproceedings",
 	"venue": "CGO",

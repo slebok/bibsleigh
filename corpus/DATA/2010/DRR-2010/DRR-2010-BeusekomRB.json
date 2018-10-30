@@ -1,6 +1,11 @@
 {
-	"author": ["Joost van Beusekom", "Yves Rangoni", "Thomas M. Breuel"],
-	"booktitle": "DRR",
+	"author": [
+		"Joost van Beusekom",
+		"Yves Rangoni",
+		"Thomas M. Breuel"
+	],
+	"booktitle": "Proceedings of the 17th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2010",
 	"dblpkey": "conf/drr/BeusekomRB10",
 	"doi": "10.1117/12.839409",
@@ -8,11 +13,19 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["trainabl", "multiscript", "orient", "detect"],
-	"tag": ["detection", "multi"],
+	"stemmed": [
+		"trainabl",
+		"multiscript",
+		"orient",
+		"detect"
+	],
+	"tag": [
+		"detection",
+		"multi"
+	],
 	"title": "Trainable multiscript orientation detection",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7534,
+	"volume": "7534",
 	"year": 2010
 }

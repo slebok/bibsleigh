@@ -1,17 +1,37 @@
 {
-	"author": ["Leonardo Candela", "Donatella Castelli", "Pasquale Pagano", "Manuele Simi"],
-	"booktitle": "ECDL",
+	"author": [
+		"Leonardo Candela",
+		"Donatella Castelli",
+		"Pasquale Pagano",
+		"Manuele Simi"
+	],
+	"booktitle": "Proceedings of the 10th European Conference on Research and Advanced Technology for Digital Libraries",
+	"booktitleshort": "ECDL",
 	"crossref": "conf/ercimdl/2006",
 	"dblpkey": "conf/ercimdl/CandelaCPS06",
 	"doi": "10.1007/11863878_1",
 	"pages": "1-13",
 	"publisher": "Springer",
 	"series": "Lecture Notes in Computer Science",
-	"stemmed": ["opendlibg", "extend", "opendlib", "by", "exploit", "a", "glite", "grid", "infrastructur"],
-	"tag": ["framework", "grid", "named"],
+	"stemmed": [
+		"opendlibg",
+		"extend",
+		"opendlib",
+		"by",
+		"exploit",
+		"a",
+		"glite",
+		"grid",
+		"infrastructur"
+	],
+	"tag": [
+		"framework",
+		"grid",
+		"named"
+	],
 	"title": "OpenDLibG: Extending OpenDLib by Exploiting a gLite Grid Infrastructure",
 	"type": "inproceedings",
 	"venue": "TPDL",
-	"volume": 4172,
+	"volume": "4172",
 	"year": 2006
 }

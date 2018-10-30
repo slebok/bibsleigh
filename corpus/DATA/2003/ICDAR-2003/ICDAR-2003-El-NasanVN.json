@@ -1,15 +1,37 @@
 {
-	"author": ["Adnan El-Nasan", "Sriharsha Veeramachaneni", "George Nagy"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Adnan El-Nasan",
+		"Sriharsha Veeramachaneni",
+		"George Nagy"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2003",
 	"dblpkey": "conf/icdar/El-NasanVN03",
 	"doi": "10.1109/ICDAR.2003.1227730",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2003.1227730", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2003.1227730"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2003.1227730",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2003.1227730"
+	],
 	"pages": "577-",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["handwrit", "recognit", "use", "posit", "sensit", "letter", "n", "gram", "match"],
-	"tag": ["n-gram", "recognition", "using"],
+	"stemmed": [
+		"handwrit",
+		"recognit",
+		"use",
+		"posit",
+		"sensit",
+		"letter",
+		"n",
+		"gram",
+		"match"
+	],
+	"tag": [
+		"n-gram",
+		"recognition",
+		"using"
+	],
 	"title": "Handwriting Recognition Using Position Sensitive Letter N-Gram Matching",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,6 +1,11 @@
 {
-	"author": ["Martin Wechsler", "Eugen Munteanu", "Peter Schäuble"],
+	"author": [
+		"Martin Wechsler",
+		"Eugen Munteanu",
+		"Peter Schäuble"
+	],
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P020.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/WechslerMS98",
@@ -8,8 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/290941.290950",
 	"pages": "20-27",
 	"publisher": "ACM",
-	"stemmed": ["new", "techniqu", "for", "open", "vocabulari", "spoken", "document", "retriev"],
-	"tag": ["documentation", "retrieval"],
+	"stemmed": [
+		"new",
+		"techniqu",
+		"for",
+		"open",
+		"vocabulari",
+		"spoken",
+		"document",
+		"retriev"
+	],
+	"tag": [
+		"documentation",
+		"retrieval"
+	],
 	"title": "New Techniques for Open-Vocabulary Spoken Document Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,13 +1,31 @@
 {
-	"author": ["Laurynas Biveinis", "Simonas Saltenis", "Christian S. Jensen"],
-	"booktitle": "VLDB",
+	"author": [
+		"Laurynas Biveinis",
+		"Simonas Saltenis",
+		"Christian S. Jensen"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/BiveinisSJ07",
 	"ee": "http://www.vldb.org/conf/2007/papers/research/p591-biveinis.pdf",
 	"pages": "591-602",
 	"publisher": "ACM",
-	"stemmed": ["main", "memori", "oper", "buffer", "for", "effici", "r", "tree", "updat"],
-	"tag": ["in memory", "performance"],
+	"stemmed": [
+		"main",
+		"memori",
+		"oper",
+		"buffer",
+		"for",
+		"effici",
+		"r",
+		"tree",
+		"updat"
+	],
+	"tag": [
+		"in memory",
+		"performance"
+	],
 	"title": "Main-Memory Operation Buffering for Efficient R-Tree Update",
 	"type": "inproceedings",
 	"venue": "VLDB",

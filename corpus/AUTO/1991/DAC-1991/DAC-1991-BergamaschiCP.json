@@ -1,13 +1,29 @@
 {
-	"author": ["Reinaldo A. Bergamaschi", "Raul Camposano", "Michael Payer"],
-	"booktitle": "DAC",
+	"author": [
+		"Reinaldo A. Bergamaschi",
+		"Raul Camposano",
+		"Michael Payer"
+	],
+	"booktitle": "Proceedings of the 28th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/BergamaschiCP91",
 	"doi": "10.1145/127601.127738",
 	"ee": "http://doi.acm.org/10.1145/127601.127738",
 	"pages": "591-596",
 	"publisher": "ACM",
-	"stemmed": ["data", "path", "synthesi", "use", "path", "analysi"],
-	"tag": ["analysis", "synthesis", "using"],
+	"stemmed": [
+		"data",
+		"path",
+		"synthesi",
+		"use",
+		"path",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"synthesis",
+		"using"
+	],
 	"title": "Data-Path Synthesis Using Path Analysis",
 	"type": "inproceedings",
 	"venue": "DAC",

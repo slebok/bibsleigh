@@ -1,6 +1,11 @@
 {
-	"author": ["Sangmin Seo", "Jaejin Lee", "Zehra Sura"],
-	"booktitle": "HPCA",
+	"author": [
+		"Sangmin Seo",
+		"Jaejin Lee",
+		"Zehra Sura"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2009",
 	"dblpkey": "conf/hpca/SeoLS09",
 	"doi": "10.1109/HPCA.2009.4798237",
@@ -8,8 +13,26 @@
 	"pages": "55-66",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["design", "and", "implement", "of", "softwar", "manag", "cach", "for", "multicor", "with", "local", "memori"],
-	"tag": ["design", "implementation", "memory management", "multi"],
+	"stemmed": [
+		"design",
+		"and",
+		"implement",
+		"of",
+		"softwar",
+		"manag",
+		"cach",
+		"for",
+		"multicor",
+		"with",
+		"local",
+		"memori"
+	],
+	"tag": [
+		"design",
+		"implementation",
+		"memory management",
+		"multi"
+	],
 	"title": "Design and implementation of software-managed caches for multicores with local memory",
 	"type": "inproceedings",
 	"venue": "HPCA",

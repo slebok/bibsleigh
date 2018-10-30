@@ -1,6 +1,11 @@
 {
-	"author": ["Muhammad Umar Farooq", "Lei Chen", "Lizy Kurian John"],
-	"booktitle": "HPCA",
+	"author": [
+		"Muhammad Umar Farooq",
+		"Lei Chen",
+		"Lizy Kurian John"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2010",
 	"dblpkey": "conf/hpca/FarooqCJ10",
 	"doi": "10.1109/HPCA.2010.5416659",
@@ -8,8 +13,19 @@
 	"pages": "1-11",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["valu", "base", "btb", "index", "for", "indirect", "jump", "predict"],
-	"tag": ["predict"],
+	"stemmed": [
+		"valu",
+		"base",
+		"btb",
+		"index",
+		"for",
+		"indirect",
+		"jump",
+		"predict"
+	],
+	"tag": [
+		"predict"
+	],
 	"title": "Value Based BTB Indexing for indirect jump prediction",
 	"type": "inproceedings",
 	"venue": "HPCA",

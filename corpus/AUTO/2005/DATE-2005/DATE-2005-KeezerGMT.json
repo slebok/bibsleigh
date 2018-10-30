@@ -1,6 +1,12 @@
 {
-	"author": ["David C. Keezer", "Carl Gray", "A. M. Majid", "N. Taher"],
-	"booktitle": "DATE",
+	"author": [
+		"David C. Keezer",
+		"Carl Gray",
+		"A. M. Majid",
+		"N. Taher"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/KeezerGMT05",
 	"doi": "10.1109/DATE.2005.203",
@@ -8,8 +14,24 @@
 	"pages": "152-157",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["low", "cost", "multi", "gigahertz", "test", "system", "use", "cmos", "fpgas", "and", "pecl"],
-	"tag": ["low cost", "multi", "using"],
+	"stemmed": [
+		"low",
+		"cost",
+		"multi",
+		"gigahertz",
+		"test",
+		"system",
+		"use",
+		"cmos",
+		"fpgas",
+		"and",
+		"pecl"
+	],
+	"tag": [
+		"low cost",
+		"multi",
+		"using"
+	],
 	"title": "Low-Cost Multi-Gigahertz Test Systems Using CMOS FPGAs and PECL",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,14 +1,34 @@
 {
-	"author": ["István Pilászy", "Domonkos Tikk"],
-	"booktitle": "RecSys",
+	"author": [
+		"István Pilászy",
+		"Domonkos Tikk"
+	],
+	"booktitle": "Proceedings of the Third Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2009",
 	"dblpkey": "conf/recsys/PilaszyT09",
 	"doi": "10.1145/1639714.1639731",
 	"ee": "http://doi.acm.org/10.1145/1639714.1639731",
 	"pages": "93-100",
 	"publisher": "ACM",
-	"stemmed": ["recommend", "new", "movi", "even", "a", "few", "rate", "are", "more", "valuabl", "than", "metadata"],
-	"tag": ["metadata", "recommendation"],
+	"stemmed": [
+		"recommend",
+		"new",
+		"movi",
+		"even",
+		"a",
+		"few",
+		"rate",
+		"are",
+		"more",
+		"valuabl",
+		"than",
+		"metadata"
+	],
+	"tag": [
+		"metadata",
+		"recommendation"
+	],
 	"title": "Recommending new movies: even a few ratings are more valuable than metadata",
 	"type": "inproceedings",
 	"venue": "RecSys",

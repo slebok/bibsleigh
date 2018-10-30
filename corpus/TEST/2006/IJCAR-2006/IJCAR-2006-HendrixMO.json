@@ -1,6 +1,11 @@
 {
-	"author": ["Joe Hendrix", "José Meseguer", "Hitoshi Ohsaki"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Joe Hendrix",
+		"José Meseguer",
+		"Hitoshi Ohsaki"
+	],
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/HendrixMO06",
 	"doi": "10.1007/11814771_14",
@@ -10,11 +15,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "suffici", "complet", "checker", "for", "linear", "order", "sort", "specif", "modulo", "axiom"],
-	"tag": ["axiom", "linear", "order", "specification"],
+	"stemmed": [
+		"a",
+		"suffici",
+		"complet",
+		"checker",
+		"for",
+		"linear",
+		"order",
+		"sort",
+		"specif",
+		"modulo",
+		"axiom"
+	],
+	"tag": [
+		"axiom",
+		"linear",
+		"order",
+		"specification"
+	],
 	"title": "A Sufficient Completeness Checker for Linear Order-Sorted Specifications Modulo Axioms",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

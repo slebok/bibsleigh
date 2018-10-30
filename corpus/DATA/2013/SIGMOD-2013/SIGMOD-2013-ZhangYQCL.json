@@ -1,6 +1,12 @@
 {
-	"author": ["Zhiwei Zhang", "Jeffrey Xu Yu", "Lu Qin", "Lijun Chang", "Xuemin Lin"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Zhiwei Zhang",
+		"Jeffrey Xu Yu",
+		"Lu Qin",
+		"Lijun Chang",
+		"Xuemin Lin"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/ZhangYQCL13",
@@ -8,8 +14,20 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2463703",
 	"pages": "181-192",
 	"publisher": "ACM",
-	"stemmed": ["i", "o", "effici", "comput", "sccs", "in", "massiv", "graph"],
-	"tag": ["graph", "performance"],
+	"stemmed": [
+		"i",
+		"o",
+		"effici",
+		"comput",
+		"sccs",
+		"in",
+		"massiv",
+		"graph"
+	],
+	"tag": [
+		"graph",
+		"performance"
+	],
 	"title": "I/O efficient: computing SCCs in massive graphs",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,10 @@
 {
-	"author": ["Vasco M. Manquinho", "João P. Marques Silva"],
-	"booktitle": "DATE",
+	"author": [
+		"Vasco M. Manquinho",
+		"João P. Marques Silva"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/ManquinhoS00",
 	"doi": "10.1109/DATE.2000.840296",
@@ -8,8 +12,23 @@
 	"pages": "356-363",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["on", "use", "satisfi", "base", "prune", "techniqu", "in", "cover", "algorithm"],
-	"tag": ["algorithm", "on the", "satisfiability", "using"],
+	"stemmed": [
+		"on",
+		"use",
+		"satisfi",
+		"base",
+		"prune",
+		"techniqu",
+		"in",
+		"cover",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"on the",
+		"satisfiability",
+		"using"
+	],
 	"title": "On Using Satisfiability-Based Pruning Techniques in Covering Algorithms",
 	"type": "inproceedings",
 	"venue": "DATE",

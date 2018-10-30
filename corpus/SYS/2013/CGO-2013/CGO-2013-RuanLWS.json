@@ -1,16 +1,38 @@
 {
-	"acmid": 2495913,
-	"author": ["Wenjia Ruan", "Yujie Liu", "Chao Wang", "Michael F. Spear"],
-	"booktitle": "CGO",
+	"acmid": "2495913",
+	"author": [
+		"Wenjia Ruan",
+		"Yujie Liu",
+		"Chao Wang",
+		"Michael F. Spear"
+	],
+	"booktitle": "Proceedings of the 11th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2013",
 	"dblpkey": "conf/cgo/RuanLWS13",
 	"doi": "10.1109/CGO.2013.6495000",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2013.6495000", "http://doi.ieeecomputersociety.org/10.1109/CGO.2013.6495000", "http://dl.acm.org/citation.cfm?id=2495913"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2013.6495000",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2013.6495000",
+		"http://dl.acm.org/citation.cfm?id=2495913"
+	],
 	"pages": "8:1-8:10",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["on", "the", "platform", "specif", "of", "stm", "instrument", "mechan"],
-	"tag": ["framework", "on the"],
+	"stemmed": [
+		"on",
+		"the",
+		"platform",
+		"specif",
+		"of",
+		"stm",
+		"instrument",
+		"mechan"
+	],
+	"tag": [
+		"framework",
+		"on the"
+	],
 	"title": "On the platform specificity of STM instrumentation mechanisms",
 	"type": "inproceedings",
 	"venue": "CGO",

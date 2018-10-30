@@ -1,19 +1,47 @@
 {
-	"address": ["Dagstuhl", "", "Germany"],
+	"address": [
+		"Dagstuhl",
+		"",
+		"Germany"
+	],
 	"author": "Zinovy Diskin",
 	"booktitle": "Proceedings of the Dagstuhl Seminar 11031 on Bidirectional Transformations",
-	"editor": ["Zhenjiang Hu", "Andy Schürr", "Perdita Stevens", "James Terwilliger"],
+	"booktitleshort": "BX",
+	"editor": [
+		"Zhenjiang Hu",
+		"Andy Schürr",
+		"Perdita Stevens",
+		"James Terwilliger"
+	],
 	"month": "jan",
-	"number": 1,
-	"pages": 55,
+	"number": "1",
+	"pages": "55",
 	"publisher": "Schloss Dagstuhl — Leibniz-Zentrum für Informatik",
 	"publishershort": "Dagstuhl",
 	"series": "Dagstuhl Reports",
-	"stemmed": ["from", "state", "to", "delta", "base", "bidirect", "model", "transform", "unweav", "align", "and", "updat", "propag"],
-	"tag": ["bidirectional", "model transformation", "weaving"],
+	"stemmed": [
+		"from",
+		"state",
+		"to",
+		"delta",
+		"base",
+		"bidirect",
+		"model",
+		"transform",
+		"unweav",
+		"align",
+		"and",
+		"updat",
+		"propag"
+	],
+	"tag": [
+		"bidirectional",
+		"model transformation",
+		"weaving"
+	],
 	"title": "From State- to Delta-Based Bidirectional Model Transformations: Unweaving Alignment and Update Propagation",
 	"type": "inproceedings",
 	"venue": "BX",
-	"volume": 1,
+	"volume": "1",
 	"year": 2011
 }

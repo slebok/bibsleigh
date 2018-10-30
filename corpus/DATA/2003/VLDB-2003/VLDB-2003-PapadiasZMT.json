@@ -1,12 +1,29 @@
 {
-	"author": ["Dimitris Papadias", "Jun Zhang", "Nikos Mamoulis", "Yufei Tao"],
-	"booktitle": "VLDB",
+	"author": [
+		"Dimitris Papadias",
+		"Jun Zhang",
+		"Nikos Mamoulis",
+		"Yufei Tao"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/PapadiasZMT03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S24P02.pdf",
 	"pages": "802-813",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["queri", "process", "in", "spatial", "network", "databas"],
-	"tag": ["database", "network", "query"],
+	"stemmed": [
+		"queri",
+		"process",
+		"in",
+		"spatial",
+		"network",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"network",
+		"query"
+	],
 	"title": "Query Processing in Spatial Network Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

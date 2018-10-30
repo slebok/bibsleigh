@@ -1,6 +1,10 @@
 {
-	"author": ["Raúl Gutiérrez", "Salvador Lucas"],
-	"booktitle": "WRLA",
+	"author": [
+		"Raúl Gutiérrez",
+		"Salvador Lucas"
+	],
+	"booktitle": "Revised Selected Papers of the Eighth International Workshop on Rewriting Logic and its Applications",
+	"booktitleshort": "WRLA",
 	"crossref": "conf/wrla/2010",
 	"dblpkey": "conf/wrla/GutierrezL10",
 	"doi": "10.1007/978-3-642-16310-4_3",
@@ -10,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["prove", "termin", "in", "the", "context", "sensit", "depend", "pair", "framework"],
-	"tag": ["dependence", "framework", "proving", "termination"],
+	"stemmed": [
+		"prove",
+		"termin",
+		"in",
+		"the",
+		"context",
+		"sensit",
+		"depend",
+		"pair",
+		"framework"
+	],
+	"tag": [
+		"dependence",
+		"framework",
+		"proving",
+		"termination"
+	],
 	"title": "Proving Termination in the Context-Sensitive Dependency Pair Framework",
 	"type": "inproceedings",
 	"venue": "WRLA",
-	"volume": 6381,
+	"volume": "6381",
 	"year": 2010
 }

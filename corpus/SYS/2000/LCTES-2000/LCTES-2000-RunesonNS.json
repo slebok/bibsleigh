@@ -1,6 +1,11 @@
 {
-	"author": ["Johan Runeson", "Sven-Olof Nyström", "Jan Sjödin"],
-	"booktitle": "LCTES",
+	"author": [
+		"Johan Runeson",
+		"Sven-Olof Nyström",
+		"Jan Sjödin"
+	],
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2000",
 	"dblpkey": "conf/lctrts/RunesonNS00",
 	"doi": "10.1007/3-540-45245-1_14",
@@ -10,11 +15,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["optim", "code", "size", "through", "procedur", "abstract"],
-	"tag": ["abstraction", "optimisation"],
+	"stemmed": [
+		"optim",
+		"code",
+		"size",
+		"through",
+		"procedur",
+		"abstract"
+	],
+	"tag": [
+		"abstraction",
+		"optimisation"
+	],
 	"title": "Optimizing Code Size through Procedural Abstraction",
 	"type": "inproceedings",
 	"venue": "LCTES",
-	"volume": 1985,
+	"volume": "1985",
 	"year": 2000
 }

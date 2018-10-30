@@ -1,14 +1,30 @@
 {
-	"author": ["Yifang Liu", "Jiang Hu"],
-	"booktitle": "DAC",
+	"author": [
+		"Yifang Liu",
+		"Jiang Hu"
+	],
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/LiuH09",
 	"doi": "10.1145/1629911.1630153",
 	"ee": "http://doi.acm.org/10.1145/1629911.1630153",
 	"pages": "943-946",
 	"publisher": "ACM",
-	"stemmed": ["gpu", "base", "parallel", "for", "fast", "circuit", "optim"],
-	"tag": ["optimisation", "parallel", "performance"],
+	"stemmed": [
+		"gpu",
+		"base",
+		"parallel",
+		"for",
+		"fast",
+		"circuit",
+		"optim"
+	],
+	"tag": [
+		"optimisation",
+		"parallel",
+		"performance"
+	],
 	"title": "GPU-based parallelization for fast circuit optimization",
 	"type": "inproceedings",
 	"venue": "DAC",

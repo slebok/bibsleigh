@@ -1,13 +1,32 @@
 {
-	"author": ["Stefan Manegold", "Peter A. Boncz", "Martin L. Kersten"],
-	"booktitle": "VLDB",
+	"author": [
+		"Stefan Manegold",
+		"Peter A. Boncz",
+		"Martin L. Kersten"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/ManegoldBK02",
 	"ee": "http://www.vldb.org/conf/2002/S06P03.pdf",
 	"pages": "191-202",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["generic", "databas", "cost", "model", "for", "hierarch", "memori", "system"],
-	"tag": ["cost analysis", "database", "memory management", "modelling"],
+	"stemmed": [
+		"generic",
+		"databas",
+		"cost",
+		"model",
+		"for",
+		"hierarch",
+		"memori",
+		"system"
+	],
+	"tag": [
+		"cost analysis",
+		"database",
+		"memory management",
+		"modelling"
+	],
 	"title": "Generic Database Cost Models for Hierarchical Memory Systems",
 	"type": "inproceedings",
 	"venue": "VLDB",

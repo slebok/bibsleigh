@@ -1,6 +1,10 @@
 {
-	"author": ["Fritz Henglein", "David Sands"],
+	"author": [
+		"Fritz Henglein",
+		"David Sands"
+	],
 	"booktitle": "Proceedings of the Seventh International Symposium on Programming Languages: Implementations, Logics and Programs",
+	"booktitleshort": "PPDP",
 	"crossref": "conf/plilp/95",
 	"dblpkey": "conf/plilp/HengleinS95",
 	"doi": "10.1007/BFb0026827",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "semant", "model", "of", "bind", "time", "for", "safe", "partial", "evalu"],
-	"tag": ["partial evaluation", "semantics"],
+	"stemmed": [
+		"a",
+		"semant",
+		"model",
+		"of",
+		"bind",
+		"time",
+		"for",
+		"safe",
+		"partial",
+		"evalu"
+	],
+	"tag": [
+		"partial evaluation",
+		"semantics"
+	],
 	"title": "A Semantic Model of Binding Times for Safe Partial Evaluation",
 	"type": "inproceedings",
 	"venue": "PPDP",
-	"volume": 982,
+	"volume": "982",
 	"year": 1995
 }

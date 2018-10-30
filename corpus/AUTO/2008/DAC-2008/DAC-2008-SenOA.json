@@ -1,14 +1,36 @@
 {
-	"author": ["Alper Sen", "Vinit Ogale", "Magdy S. Abadir"],
-	"booktitle": "DAC",
+	"author": [
+		"Alper Sen",
+		"Vinit Ogale",
+		"Magdy S. Abadir"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/SenOA08",
 	"doi": "10.1145/1391469.1391708",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391708",
 	"pages": "948-953",
 	"publisher": "ACM",
-	"stemmed": ["predict", "runtim", "verif", "of", "multi", "processor", "so", "cs", "in", "system", "c"],
-	"tag": ["multi", "predict", "runtime", "verification"],
+	"stemmed": [
+		"predict",
+		"runtim",
+		"verif",
+		"of",
+		"multi",
+		"processor",
+		"so",
+		"cs",
+		"in",
+		"system",
+		"c"
+	],
+	"tag": [
+		"multi",
+		"predict",
+		"runtime",
+		"verification"
+	],
 	"title": "Predictive runtime verification of multi-processor SoCs in SystemC",
 	"type": "inproceedings",
 	"venue": "DAC",

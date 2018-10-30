@@ -1,14 +1,38 @@
 {
-	"author": ["Zhichun Wang", "Xiaolue Lai", "Jaijeet S. Roychowdhury"],
-	"booktitle": "DAC",
+	"author": [
+		"Zhichun Wang",
+		"Xiaolue Lai",
+		"Jaijeet S. Roychowdhury"
+	],
+	"booktitle": "Proceedings of the 44th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2007",
 	"dblpkey": "conf/dac/WangLR07",
 	"doi": "10.1145/1278480.1278516",
 	"ee": "http://doi.acm.org/10.1145/1278480.1278516",
 	"pages": "142-147",
 	"publisher": "IEEE",
-	"stemmed": ["pv", "ppv", "paramet", "variabl", "awar", "automat", "extract", "nonlinear", "time", "shift", "oscil", "macromodel"],
-	"tag": ["automation", "megamodelling", "named", "parametricity", "variability"],
+	"stemmed": [
+		"pv",
+		"ppv",
+		"paramet",
+		"variabl",
+		"awar",
+		"automat",
+		"extract",
+		"nonlinear",
+		"time",
+		"shift",
+		"oscil",
+		"macromodel"
+	],
+	"tag": [
+		"automation",
+		"megamodelling",
+		"named",
+		"parametricity",
+		"variability"
+	],
 	"title": "PV-PPV: Parameter Variability Aware, Automatically Extracted, Nonlinear Time-Shifted Oscillator Macromodels",
 	"type": "inproceedings",
 	"venue": "DAC",

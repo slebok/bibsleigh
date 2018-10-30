@@ -1,15 +1,47 @@
 {
-	"author": ["Susan J. Eggers", "Frank Olken", "Arie Shoshani"],
-	"booktitle": "VLDB",
+	"author": [
+		"Susan J. Eggers",
+		"Frank Olken",
+		"Arie Shoshani"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB81/P424.PDF",
-	"cite": ["...", "...", "journals/tods/Batory79", "...", "conf/vldb/EggersS80", "...", "journals/cacm/Hahn74", "conf/sigmod/HammerN79", "...", "books/aw/Knuth73", "conf/vldb/Svensson79", "journals/cacm/TarjanY79", "journals/tit/ZivL77", "journals/tit/ZivL78"],
+	"cite": [
+		"...",
+		"...",
+		"journals/tods/Batory79",
+		"...",
+		"conf/vldb/EggersS80",
+		"...",
+		"journals/cacm/Hahn74",
+		"conf/sigmod/HammerN79",
+		"...",
+		"books/aw/Knuth73",
+		"conf/vldb/Svensson79",
+		"journals/cacm/TarjanY79",
+		"journals/tit/ZivL77",
+		"journals/tit/ZivL78"
+	],
 	"crossref": "conf/vldb/81",
 	"dblpkey": "conf/vldb/EggersOS81",
 	"pages": "424-434",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "compress", "techniqu", "for", "larg", "statist", "data", "base"],
-	"tag": ["scalability", "statistics"],
+	"stemmed": [
+		"a",
+		"compress",
+		"techniqu",
+		"for",
+		"larg",
+		"statist",
+		"data",
+		"base"
+	],
+	"tag": [
+		"scalability",
+		"statistics"
+	],
 	"title": "A Compression Technique for Large Statistical Data-Bases",
 	"type": "inproceedings",
 	"venue": "VLDB",

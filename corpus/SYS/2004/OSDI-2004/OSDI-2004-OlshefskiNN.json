@@ -1,13 +1,33 @@
 {
-	"author": ["David P. Olshefski", "Jason Nieh", "Erich M. Nahum"],
-	"booktitle": "OSDI",
+	"author": [
+		"David P. Olshefski",
+		"Jason Nieh",
+		"Erich M. Nahum"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2004",
 	"dblpkey": "conf/osdi/OlshefskiNN04",
 	"ee": "http://www.usenix.org/events/osdi04/tech/olshefski.html",
 	"pages": "333-346",
 	"publisher": "USENIX Association",
-	"stemmed": ["ksniffer", "determin", "the", "remot", "client", "perceiv", "respons", "time", "from", "live", "packet", "stream"],
-	"tag": ["named"],
+	"stemmed": [
+		"ksniffer",
+		"determin",
+		"the",
+		"remot",
+		"client",
+		"perceiv",
+		"respons",
+		"time",
+		"from",
+		"live",
+		"packet",
+		"stream"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "ksniffer: Determining the Remote Client Perceived Response Time from Live Packet Streams",
 	"type": "inproceedings",
 	"venue": "OSDI",

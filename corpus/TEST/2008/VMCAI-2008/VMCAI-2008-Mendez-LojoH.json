@@ -1,6 +1,10 @@
 {
-	"author": ["Mario Méndez-Lojo", "Manuel V. Hermenegildo"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Mario Méndez-Lojo",
+		"Manuel V. Hermenegildo"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2008",
 	"dblpkey": "conf/vmcai/Mendez-LojoH08",
 	"doi": "10.1007/978-3-540-78163-9_17",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["precis", "set", "share", "analysi", "for", "java", "style", "program"],
-	"tag": ["analysis", "precise", "set", "source code"],
+	"stemmed": [
+		"precis",
+		"set",
+		"share",
+		"analysi",
+		"for",
+		"java",
+		"style",
+		"program"
+	],
+	"tag": [
+		"analysis",
+		"precise",
+		"set",
+		"source code"
+	],
 	"title": "Precise Set Sharing Analysis for Java-Style Programs",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 4905,
+	"volume": "4905",
 	"year": 2008
 }

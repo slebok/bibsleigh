@@ -1,6 +1,10 @@
 {
-	"author": ["Harald Ganzinger", "David A. McAllester"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Harald Ganzinger",
+		"David A. McAllester"
+	],
+	"booktitle": "Proceedings of the First International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2001",
 	"dblpkey": "conf/cade/GanzingerM01",
 	"doi": "10.1007/3-540-45744-5_44",
@@ -10,11 +14,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "new", "meta", "complex", "theorem", "for", "bottom", "up", "logic", "program"],
-	"tag": ["bottom-up", "logic programming", "source code", "theorem"],
+	"stemmed": [
+		"a",
+		"new",
+		"meta",
+		"complex",
+		"theorem",
+		"for",
+		"bottom",
+		"up",
+		"logic",
+		"program"
+	],
+	"tag": [
+		"bottom-up",
+		"logic programming",
+		"source code",
+		"theorem"
+	],
 	"title": "A New Meta-complexity Theorem for Bottom-Up Logic Programs",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 2083,
+	"volume": "2083",
 	"year": 2001
 }

@@ -1,6 +1,10 @@
 {
-	"author": ["Peter Bollmann", "Vijay V. Raghavan"],
+	"author": [
+		"Peter Bollmann",
+		"Vijay V. Raghavan"
+	],
 	"booktitle": "Proceedings of the 11th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P245.pdf",
 	"crossref": "conf/sigir/88",
 	"dblpkey": "conf/sigir/BollmannR88",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/62437.62457",
 	"pages": "245-256",
 	"publisher": "ACM",
-	"stemmed": ["a", "util", "theoret", "analysi", "of", "expect", "search", "length"],
-	"tag": ["analysis"],
+	"stemmed": [
+		"a",
+		"util",
+		"theoret",
+		"analysi",
+		"of",
+		"expect",
+		"search",
+		"length"
+	],
+	"tag": [
+		"analysis"
+	],
 	"title": "A Utility-Theoretic Analysis of Expected Search Length",
 	"type": "inproceedings",
 	"venue": "SIGIR",

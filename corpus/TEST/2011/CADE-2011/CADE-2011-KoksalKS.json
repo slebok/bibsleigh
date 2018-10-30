@@ -1,6 +1,11 @@
 {
-	"author": ["Ali Sinan Köksal", "Viktor Kuncak", "Philippe Suter"],
-	"booktitle": "CADE",
+	"author": [
+		"Ali Sinan Köksal",
+		"Viktor Kuncak",
+		"Philippe Suter"
+	],
+	"booktitle": "Proceedings of the 23rd International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2011",
 	"dblpkey": "conf/cade/KoksalKS11",
 	"doi": "10.1007/978-3-642-22438-6_30",
@@ -10,11 +15,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["scala", "to", "the", "power", "of", "z", "integr", "smt", "and", "program"],
-	"tag": ["power of", "programming", "scala", "smt"],
+	"stemmed": [
+		"scala",
+		"to",
+		"the",
+		"power",
+		"of",
+		"z",
+		"integr",
+		"smt",
+		"and",
+		"program"
+	],
+	"tag": [
+		"power of",
+		"programming",
+		"scala",
+		"smt"
+	],
 	"title": "Scala to the Power of Z3: Integrating SMT and Programming",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 6803,
+	"volume": "6803",
 	"year": 2011
 }

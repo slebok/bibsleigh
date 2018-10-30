@@ -1,13 +1,30 @@
 {
-	"author": ["Mihir R. Choudhury", "Kartik Mohanram"],
-	"booktitle": "DATE",
+	"author": [
+		"Mihir R. Choudhury",
+		"Kartik Mohanram"
+	],
+	"booktitle": "Proceedings of the 13th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2009",
 	"dblpkey": "conf/date/ChoudhuryM09",
 	"ieeearid": 5090638,
 	"pages": "87-92",
 	"publisher": "IEEE",
-	"stemmed": ["mask", "time", "error", "on", "speed", "path", "in", "logic", "circuit"],
-	"tag": ["fault", "logic"],
+	"stemmed": [
+		"mask",
+		"time",
+		"error",
+		"on",
+		"speed",
+		"path",
+		"in",
+		"logic",
+		"circuit"
+	],
+	"tag": [
+		"fault",
+		"logic"
+	],
 	"title": "Masking timing errors on speed-paths in logic circuits",
 	"type": "inproceedings",
 	"venue": "DATE",

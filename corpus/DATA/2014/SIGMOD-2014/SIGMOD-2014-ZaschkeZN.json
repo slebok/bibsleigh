@@ -1,6 +1,10 @@
 {
-	"author": ["Tilmann Zäschke", "Christoph Zimmerli", "Moira C. Norrie"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Tilmann Zäschke",
+		"Christoph Zimmerli",
+		"Moira C. Norrie"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/ZaschkeZN14",
@@ -8,8 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2588564",
 	"pages": "397-408",
 	"publisher": "ACM",
-	"stemmed": ["the", "ph", "tree", "a", "space", "effici", "storag", "structur", "and", "multi", "dimension", "index"],
-	"tag": ["multi"],
+	"stemmed": [
+		"the",
+		"ph",
+		"tree",
+		"a",
+		"space",
+		"effici",
+		"storag",
+		"structur",
+		"and",
+		"multi",
+		"dimension",
+		"index"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "The PH-tree: a space-efficient storage structure and multi-dimensional index",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

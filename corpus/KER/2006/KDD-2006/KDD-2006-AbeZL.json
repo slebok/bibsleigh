@@ -1,14 +1,28 @@
 {
-	"author": ["Naoki Abe", "Bianca Zadrozny", "John Langford"],
-	"booktitle": "KDD",
+	"author": [
+		"Naoki Abe",
+		"Bianca Zadrozny",
+		"John Langford"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/AbeZL06",
 	"doi": "10.1145/1150402.1150459",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150459",
 	"pages": "504-509",
 	"publisher": "ACM",
-	"stemmed": ["outlier", "detect", "by", "activ", "learn"],
-	"tag": ["detection", "learning"],
+	"stemmed": [
+		"outlier",
+		"detect",
+		"by",
+		"activ",
+		"learn"
+	],
+	"tag": [
+		"detection",
+		"learning"
+	],
 	"title": "Outlier detection by active learning",
 	"type": "inproceedings",
 	"venue": "KDD",

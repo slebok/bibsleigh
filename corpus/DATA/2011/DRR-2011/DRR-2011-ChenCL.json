@@ -1,6 +1,11 @@
 {
-	"author": ["Jin Chen", "Wen Cheng", "Daniel P. Lopresti"],
-	"booktitle": "DRR",
+	"author": [
+		"Jin Chen",
+		"Wen Cheng",
+		"Daniel P. Lopresti"
+	],
+	"booktitle": "Proceedings of the 18th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2011",
 	"dblpkey": "conf/drr/ChenCL11",
 	"doi": "10.1117/12.876497",
@@ -8,11 +13,30 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["use", "perturb", "handwrit", "to", "support", "writer", "identif", "in", "the", "presenc", "of", "sever", "data", "constraint"],
-	"tag": ["constraints", "identification", "using"],
+	"stemmed": [
+		"use",
+		"perturb",
+		"handwrit",
+		"to",
+		"support",
+		"writer",
+		"identif",
+		"in",
+		"the",
+		"presenc",
+		"of",
+		"sever",
+		"data",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"identification",
+		"using"
+	],
 	"title": "Using perturbed handwriting to support writer identification in the presence of severe data constraints",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7874,
+	"volume": "7874",
 	"year": 2011
 }

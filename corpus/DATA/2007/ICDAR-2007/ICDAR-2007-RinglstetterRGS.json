@@ -1,6 +1,12 @@
 {
-	"author": ["Christoph Ringlstetter", "Ulrich Reffle", "Annette Gotscharek", "Klaus U. Schulz"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Christoph Ringlstetter",
+		"Ulrich Reffle",
+		"Annette Gotscharek",
+		"Klaus U. Schulz"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/RinglstetterRGS07",
 	"doi": "10.1109/ICDAR.2007.99",
@@ -8,8 +14,24 @@
 	"pages": "639-643",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["deriv", "symbol", "depend", "edit", "weight", "for", "text", "correct", "the", "use", "of", "error", "dictionari"],
-	"tag": ["fault"],
+	"stemmed": [
+		"deriv",
+		"symbol",
+		"depend",
+		"edit",
+		"weight",
+		"for",
+		"text",
+		"correct",
+		"the",
+		"use",
+		"of",
+		"error",
+		"dictionari"
+	],
+	"tag": [
+		"fault"
+	],
 	"title": "Deriving Symbol Dependent Edit Weights for Text Correction_The Use of Error Dictionaries",
 	"type": "inproceedings",
 	"venue": "ICDAR",

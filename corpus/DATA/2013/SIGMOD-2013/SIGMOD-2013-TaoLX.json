@@ -1,6 +1,10 @@
 {
-	"author": ["Yufei Tao", "Wenqing Lin", "Xiaokui Xiao"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yufei Tao",
+		"Wenqing Lin",
+		"Xiaokui Xiao"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/TaoLX13",
@@ -8,8 +12,16 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2463719",
 	"pages": "529-540",
 	"publisher": "ACM",
-	"stemmed": ["minim", "map", "reduc", "algorithm"],
-	"tag": ["algorithm", "pipes and filters"],
+	"stemmed": [
+		"minim",
+		"map",
+		"reduc",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"pipes and filters"
+	],
 	"title": "Minimal MapReduce algorithms",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

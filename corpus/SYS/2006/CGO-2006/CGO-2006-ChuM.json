@@ -1,16 +1,35 @@
 {
-	"acmid": 1122406,
-	"author": ["Michael L. Chu", "Scott A. Mahlke"],
-	"booktitle": "CGO",
+	"acmid": "1122406",
+	"author": [
+		"Michael L. Chu",
+		"Scott A. Mahlke"
+	],
+	"booktitle": "Proceedings of the Fourth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2006",
 	"dblpkey": "conf/cgo/ChuM06",
 	"doi": "10.1109/CGO.2006.9",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2006.9", "http://doi.ieeecomputersociety.org/10.1109/CGO.2006.9", "http://dl.acm.org/citation.cfm?id=1122406"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2006.9",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2006.9",
+		"http://dl.acm.org/citation.cfm?id=1122406"
+	],
 	"pages": "208-220",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["compil", "direct", "data", "partit", "for", "multiclust", "processor"],
-	"tag": ["clustering", "multi"],
+	"stemmed": [
+		"compil",
+		"direct",
+		"data",
+		"partit",
+		"for",
+		"multiclust",
+		"processor"
+	],
+	"tag": [
+		"clustering",
+		"multi"
+	],
 	"title": "Compiler-directed Data Partitioning for Multicluster Processors",
 	"type": "inproceedings",
 	"venue": "CGO",

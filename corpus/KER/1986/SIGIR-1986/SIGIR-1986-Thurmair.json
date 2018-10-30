@@ -1,6 +1,7 @@
 {
 	"author": "Gregor Thurmair",
 	"booktitle": "Proceedings of the Ninth International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1986/P138.pdf",
 	"crossref": "conf/sigir/86",
 	"dblpkey": "conf/sigir/Thurmair86",
@@ -8,8 +9,25 @@
 	"ee": "http://doi.acm.org/10.1145/253168.253198",
 	"pages": "138-143",
 	"publisher": "ACM",
-	"stemmed": ["a", "common", "architectur", "for", "differ", "text", "process", "techniqu", "in", "an", "inform", "retriev", "environ"],
-	"tag": ["architecture", "information retrieval"],
+	"stemmed": [
+		"a",
+		"common",
+		"architectur",
+		"for",
+		"differ",
+		"text",
+		"process",
+		"techniqu",
+		"in",
+		"an",
+		"inform",
+		"retriev",
+		"environ"
+	],
+	"tag": [
+		"architecture",
+		"information retrieval"
+	],
 	"title": "A Common Architecture for Different Text Processing Techniques in an Information Retrieval Environment",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,6 +1,14 @@
 {
-	"author": ["Y. Xi", "Y. Chen", "Q. Liao", "L. Winghong", "F. Shunming", "D. Jiangwen"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Y. Xi",
+		"Y. Chen",
+		"Q. Liao",
+		"L. Winghong",
+		"F. Shunming",
+		"D. Jiangwen"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/XiCLWSJ07a",
 	"doi": "10.1109/ICDAR.2007.77",
@@ -8,8 +16,19 @@
 	"pages": "402-406",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["charact", "line", "segment", "base", "on", "featur", "cluster"],
-	"tag": ["clustering", "segmentation"],
+	"stemmed": [
+		"charact",
+		"line",
+		"segment",
+		"base",
+		"on",
+		"featur",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"segmentation"
+	],
 	"title": "Character Line Segmentation Based on Feature Clustering",
 	"type": "inproceedings",
 	"venue": "ICDAR",

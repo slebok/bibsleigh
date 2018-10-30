@@ -1,13 +1,33 @@
 {
-	"author": ["Nicola Bombieri", "Franco Fummi", "Graziano Pravadelli", "Sara Vinco"],
-	"booktitle": "DATE",
+	"author": [
+		"Nicola Bombieri",
+		"Franco Fummi",
+		"Graziano Pravadelli",
+		"Sara Vinco"
+	],
+	"booktitle": "Proceedings of the 13th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2009",
 	"dblpkey": "conf/date/BombieriFPV09",
 	"ieeearid": 5090900,
 	"pages": "1500-1505",
 	"publisher": "IEEE",
-	"stemmed": ["correct", "by", "construct", "generat", "of", "devic", "driver", "base", "on", "rtl", "testbench"],
-	"tag": ["generative"],
+	"stemmed": [
+		"correct",
+		"by",
+		"construct",
+		"generat",
+		"of",
+		"devic",
+		"driver",
+		"base",
+		"on",
+		"rtl",
+		"testbench"
+	],
+	"tag": [
+		"generative"
+	],
 	"title": "Correct-by-construction generation of device drivers based on RTL testbenches",
 	"type": "inproceedings",
 	"venue": "DATE",

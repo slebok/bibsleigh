@@ -1,14 +1,29 @@
 {
-	"author": ["Victor Luchangco", "Virendra J. Marathe"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Victor Luchangco",
+		"Virendra J. Marathe"
+	],
+	"booktitle": "Proceedings of the 16th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2011",
 	"dblpkey": "conf/ppopp/LuchangcoM11",
 	"doi": "10.1145/1941553.1941578",
 	"ee": "http://doi.acm.org/10.1145/1941553.1941578",
 	"pages": "169-178",
 	"publisher": "ACM",
-	"stemmed": ["transact", "communic", "enabl", "cooper", "among", "concurr", "transact"],
-	"tag": ["concurrent", "transaction"],
+	"stemmed": [
+		"transact",
+		"communic",
+		"enabl",
+		"cooper",
+		"among",
+		"concurr",
+		"transact"
+	],
+	"tag": [
+		"concurrent",
+		"transaction"
+	],
 	"title": "Transaction communicators: enabling cooperation among concurrent transactions",
 	"type": "inproceedings",
 	"venue": "PPoPP",

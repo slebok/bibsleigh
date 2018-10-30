@@ -1,14 +1,38 @@
 {
-	"author": ["Siva Kumar Sastry Hari", "Sarita V. Adve", "Helia Naeimi", "Pradeep Ramachandran"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Siva Kumar Sastry Hari",
+		"Sarita V. Adve",
+		"Helia Naeimi",
+		"Pradeep Ramachandran"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2012",
 	"dblpkey": "conf/asplos/HariANR12",
 	"doi": "10.1145/2150976.2150990",
 	"ee": "http://doi.acm.org/10.1145/2150976.2150990",
 	"pages": "123-134",
 	"publisher": "ACM",
-	"stemmed": ["relyz", "exploit", "applic", "level", "fault", "equival", "to", "analyz", "applic", "resili", "to", "transient", "fault"],
-	"tag": ["equivalence", "fault", "named"],
+	"stemmed": [
+		"relyz",
+		"exploit",
+		"applic",
+		"level",
+		"fault",
+		"equival",
+		"to",
+		"analyz",
+		"applic",
+		"resili",
+		"to",
+		"transient",
+		"fault"
+	],
+	"tag": [
+		"equivalence",
+		"fault",
+		"named"
+	],
 	"title": "Relyzer: exploiting application-level fault equivalence to analyze application resiliency to transient faults",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,14 +1,35 @@
 {
-	"author": ["Georgiana Ifrim", "Gökhan H. Bakir", "Gerhard Weikum"],
-	"booktitle": "KDD",
+	"author": [
+		"Georgiana Ifrim",
+		"Gökhan H. Bakir",
+		"Gerhard Weikum"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/IfrimBW08",
 	"doi": "10.1145/1401890.1401936",
 	"ee": "http://doi.acm.org/10.1145/1401890.1401936",
 	"pages": "354-362",
 	"publisher": "ACM",
-	"stemmed": ["fast", "logist", "regress", "for", "text", "categor", "with", "variabl", "length", "n", "gram"],
-	"tag": ["categorisation", "n-gram", "performance"],
+	"stemmed": [
+		"fast",
+		"logist",
+		"regress",
+		"for",
+		"text",
+		"categor",
+		"with",
+		"variabl",
+		"length",
+		"n",
+		"gram"
+	],
+	"tag": [
+		"categorisation",
+		"n-gram",
+		"performance"
+	],
 	"title": "Fast logistic regression for text categorization with variable-length n-grams",
 	"type": "inproceedings",
 	"venue": "KDD",

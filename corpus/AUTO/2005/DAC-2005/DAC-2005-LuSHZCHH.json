@@ -1,14 +1,35 @@
 {
-	"author": ["Yongqiang Lu", "Cliff C. N. Sze", "Xianlong Hong", "Qiang Zhou", "Yici Cai", "Liang Huang", "Jiang Hu"],
-	"booktitle": "DAC",
+	"author": [
+		"Yongqiang Lu",
+		"Cliff C. N. Sze",
+		"Xianlong Hong",
+		"Qiang Zhou",
+		"Yici Cai",
+		"Liang Huang",
+		"Jiang Hu"
+	],
+	"booktitle": "Proceedings of the 42nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/LuSHZCHH05",
 	"doi": "10.1145/1065579.1065628",
 	"ee": "http://doi.acm.org/10.1145/1065579.1065628",
 	"pages": "176-181",
 	"publisher": "ACM",
-	"stemmed": ["navig", "regist", "in", "placement", "for", "clock", "network", "minim"],
-	"tag": ["navigation", "network"],
+	"stemmed": [
+		"navig",
+		"regist",
+		"in",
+		"placement",
+		"for",
+		"clock",
+		"network",
+		"minim"
+	],
+	"tag": [
+		"navigation",
+		"network"
+	],
 	"title": "Navigating registers in placement for clock network minimization",
 	"type": "inproceedings",
 	"venue": "DAC",

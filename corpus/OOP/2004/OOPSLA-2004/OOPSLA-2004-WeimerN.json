@@ -1,17 +1,35 @@
 {
-	"author": ["Westley Weimer", "George C. Necula"],
-	"booktitle": "Proceedings of the 19th Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Westley Weimer",
+		"George C. Necula"
+	],
+	"booktitle": "Proceedings of the 19th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2004p",
 	"dblpkey": "conf/oopsla/WeimerN04",
 	"doi": "10.1145/1028976.1029011",
-	"editor": ["John M. Vlissides", "Douglas C. Schmidt"],
+	"editor": [
+		"John M. Vlissides",
+		"Douglas C. Schmidt"
+	],
 	"ee": "http://doi.acm.org/10.1145/1028976.1029011",
 	"isbn": "1-58113-831-8",
 	"pages": "419-431",
 	"publisher": "ACM",
-	"stemmed": ["find", "and", "prevent", "run", "time", "error", "handl", "mistak"],
-	"tag": ["fault", "runtime"],
+	"stemmed": [
+		"find",
+		"and",
+		"prevent",
+		"run",
+		"time",
+		"error",
+		"handl",
+		"mistak"
+	],
+	"tag": [
+		"fault",
+		"runtime"
+	],
 	"title": "Finding and preventing run-time error handling mistakes",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

@@ -1,14 +1,31 @@
 {
-	"author": ["Jilong Kuang", "Laxmi N. Bhuyan"],
-	"booktitle": "DAC",
+	"author": [
+		"Jilong Kuang",
+		"Laxmi N. Bhuyan"
+	],
+	"booktitle": "Proceedings of the 47th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2010",
 	"dblpkey": "conf/dac/KuangB10",
 	"doi": "10.1145/1837274.1837286",
 	"ee": "http://doi.acm.org/10.1145/1837274.1837286",
 	"pages": "36-41",
 	"publisher": "ACM",
-	"stemmed": ["lata", "a", "latenc", "and", "throughput", "awar", "packet", "process", "system"],
-	"tag": ["latency", "named"],
+	"stemmed": [
+		"lata",
+		"a",
+		"latenc",
+		"and",
+		"throughput",
+		"awar",
+		"packet",
+		"process",
+		"system"
+	],
+	"tag": [
+		"latency",
+		"named"
+	],
 	"title": "LATA: a latency and throughput-aware packet processing system",
 	"type": "inproceedings",
 	"venue": "DAC",

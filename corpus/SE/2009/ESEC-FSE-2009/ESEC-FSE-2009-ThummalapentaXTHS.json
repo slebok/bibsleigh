@@ -1,17 +1,46 @@
 {
-	"author": ["Suresh Thummalapenta", "Tao Xie", "Nikolai Tillmann", "Jonathan de Halleux", "Wolfram Schulte"],
+	"author": [
+		"Suresh Thummalapenta",
+		"Tao Xie",
+		"Nikolai Tillmann",
+		"Jonathan de Halleux",
+		"Wolfram Schulte"
+	],
 	"booktitle": "Proceedings of the Seventh joint meeting of the 12th European Software Engineering Conference and the 17th International Symposium on Foundations of Software Engineering",
-	"booktitleshort": "ESEC/SIGSOFT FSE",
+	"booktitleshort": "ESEC/FSE",
 	"crossref": "conf/sigsoft/2009",
 	"dblpkey": "conf/sigsoft/ThummalapentaXTHS09",
 	"doi": "10.1145/1595696.1595725",
-	"editor": ["Hans van Vliet", "Valérie Issarny"],
+	"editor": [
+		"Hans van Vliet",
+		"Valérie Issarny"
+	],
 	"ee": "http://doi.acm.org/10.1145/1595696.1595725",
 	"isbn": "978-1-60558-001-2",
 	"pages": "193-202",
 	"publisher": "ACM",
-	"stemmed": ["m", "seq", "gen", "object", "orient", "unit", "test", "generat", "via", "mine", "sourc", "code"],
-	"tag": ["generative", "mining", "named", "object-oriented", "source code", "testing"],
+	"stemmed": [
+		"m",
+		"seq",
+		"gen",
+		"object",
+		"orient",
+		"unit",
+		"test",
+		"generat",
+		"via",
+		"mine",
+		"sourc",
+		"code"
+	],
+	"tag": [
+		"generative",
+		"mining",
+		"named",
+		"object-oriented",
+		"source code",
+		"testing"
+	],
 	"title": "MSeqGen: object-oriented unit-test generation via mining source code",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

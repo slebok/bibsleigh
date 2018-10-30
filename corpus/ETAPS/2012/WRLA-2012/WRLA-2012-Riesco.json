@@ -1,6 +1,7 @@
 {
 	"author": "Adrián Riesco",
-	"booktitle": "WRLA",
+	"booktitle": "Revised Selected Papers of the Ninth International Workshop on Rewriting Logic and its Applications",
+	"booktitleshort": "WRLA",
 	"crossref": "conf/wrla/2012",
 	"dblpkey": "conf/wrla/Riesco12",
 	"doi": "10.1007/978-3-642-34005-5_11",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["use", "narrow", "to", "test", "maud", "specif"],
-	"tag": ["maude", "specification", "using"],
+	"stemmed": [
+		"use",
+		"narrow",
+		"to",
+		"test",
+		"maud",
+		"specif"
+	],
+	"tag": [
+		"maude",
+		"specification",
+		"using"
+	],
 	"title": "Using Narrowing to Test Maude Specifications",
 	"type": "inproceedings",
 	"venue": "WRLA",
-	"volume": 7571,
+	"volume": "7571",
 	"year": 2012
 }

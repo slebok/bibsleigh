@@ -1,14 +1,36 @@
 {
-	"author": ["Jin Zhou", "Brian Demsky"],
-	"booktitle": "ISMM",
+	"author": [
+		"Jin Zhou",
+		"Brian Demsky"
+	],
+	"booktitle": "Proceedings of the 11th International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2012",
 	"dblpkey": "conf/iwmm/ZhouD12",
 	"doi": "10.1145/2258996.2259000",
 	"ee": "http://doi.acm.org/10.1145/2258996.2259000",
 	"pages": "3-14",
 	"publisher": "ACM",
-	"stemmed": ["memori", "manag", "for", "mani", "core", "processor", "with", "softwar", "configur", "local", "polici"],
-	"tag": ["configuration management", "locality", "manycore", "memory management", "policy"],
+	"stemmed": [
+		"memori",
+		"manag",
+		"for",
+		"mani",
+		"core",
+		"processor",
+		"with",
+		"softwar",
+		"configur",
+		"local",
+		"polici"
+	],
+	"tag": [
+		"configuration management",
+		"locality",
+		"manycore",
+		"memory management",
+		"policy"
+	],
 	"title": "Memory management for many-core processors with software configurable locality policies",
 	"type": "inproceedings",
 	"venue": "ISMM",

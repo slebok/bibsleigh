@@ -1,15 +1,37 @@
 {
-	"author": ["Chen-Chi Kuo", "John B. Carter", "Ravindra Kuramkote"],
-	"booktitle": "HPCA",
+	"author": [
+		"Chen-Chi Kuo",
+		"John B. Carter",
+		"Ravindra Kuramkote"
+	],
+	"booktitle": "Proceedings of the Fifth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1999",
 	"dblpkey": "conf/hpca/KuoCK99",
 	"doi": "10.1109/HPCA.1999.744381",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1999.744381", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744381"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1999.744381",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744381"
+	],
 	"pages": "284-288",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["mp", "lock", "replac", "h", "w", "synchron", "primit", "with", "messag", "pass"],
-	"tag": ["message passing", "named"],
+	"stemmed": [
+		"mp",
+		"lock",
+		"replac",
+		"h",
+		"w",
+		"synchron",
+		"primit",
+		"with",
+		"messag",
+		"pass"
+	],
+	"tag": [
+		"message passing",
+		"named"
+	],
 	"title": "MP-LOCKs: Replacing H/W Synchronization Primitives with Message Passing",
 	"type": "inproceedings",
 	"venue": "HPCA",

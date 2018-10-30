@@ -1,14 +1,36 @@
 {
-	"author": ["Senzhang Wang", "Xia Hu", "Philip S. Yu", "Zhoujun Li"],
-	"booktitle": "KDD",
+	"author": [
+		"Senzhang Wang",
+		"Xia Hu",
+		"Philip S. Yu",
+		"Zhoujun Li"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/WangHYL14",
 	"doi": "10.1145/2623330.2623728",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623728",
 	"pages": "1246-1255",
 	"publisher": "ACM",
-	"stemmed": ["mm", "rate", "infer", "multi", "aspect", "diffus", "network", "with", "multi", "pattern", "cascad"],
-	"tag": ["multi", "named", "network"],
+	"stemmed": [
+		"mm",
+		"rate",
+		"infer",
+		"multi",
+		"aspect",
+		"diffus",
+		"network",
+		"with",
+		"multi",
+		"pattern",
+		"cascad"
+	],
+	"tag": [
+		"multi",
+		"named",
+		"network"
+	],
 	"title": "MMRate: inferring multi-aspect diffusion networks with multi-pattern cascades",
 	"type": "inproceedings",
 	"venue": "KDD",

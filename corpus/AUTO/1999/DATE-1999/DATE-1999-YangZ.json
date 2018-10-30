@@ -1,6 +1,10 @@
 {
-	"author": ["Zheng Rong Yang", "Mark Zwolinski"],
-	"booktitle": "DATE",
+	"author": [
+		"Zheng Rong Yang",
+		"Mark Zwolinski"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/YangZ99",
 	"doi": "10.1109/DATE.1999.761129",
@@ -8,8 +12,25 @@
 	"pages": "244-248",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["fast", "robust", "dc", "and", "transient", "fault", "simul", "for", "nonlinear", "analog", "circuit"],
-	"tag": ["fault", "performance", "robust", "simulation"],
+	"stemmed": [
+		"fast",
+		"robust",
+		"dc",
+		"and",
+		"transient",
+		"fault",
+		"simul",
+		"for",
+		"nonlinear",
+		"analog",
+		"circuit"
+	],
+	"tag": [
+		"fault",
+		"performance",
+		"robust",
+		"simulation"
+	],
 	"title": "Fast, Robust DC and Transient Fault Simulation for Nonlinear Analog Circuits",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,6 +1,10 @@
 {
-	"author": ["Gordon J. Pace", "Gerardo Schneider"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Gordon J. Pace",
+		"Gerardo Schneider"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2004",
 	"dblpkey": "conf/vmcai/PaceS04",
 	"doi": "10.1007/978-3-540-24622-0_11",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["model", "check", "polygon", "differenti", "inclus", "use", "invari", "kernel"],
-	"tag": ["difference", "kernel", "model checking", "using"],
+	"stemmed": [
+		"model",
+		"check",
+		"polygon",
+		"differenti",
+		"inclus",
+		"use",
+		"invari",
+		"kernel"
+	],
+	"tag": [
+		"difference",
+		"kernel",
+		"model checking",
+		"using"
+	],
 	"title": "Model Checking Polygonal Differential Inclusions Using Invariance Kernels",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2937,
+	"volume": "2937",
 	"year": 2004
 }

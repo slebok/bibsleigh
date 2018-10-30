@@ -1,17 +1,35 @@
 {
-	"author": ["Dongdong Deng", "Wei Zhang", "Shan Lu"],
-	"booktitle": "Proceedings of the 28th International Conference on Object Oriented Programming Systems Languages & Applications",
+	"author": [
+		"Dongdong Deng",
+		"Wei Zhang",
+		"Shan Lu"
+	],
+	"booktitle": "Proceedings of the 28th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2013",
 	"dblpkey": "conf/oopsla/Deng0L13",
 	"doi": "10.1145/2509136.2509539",
-	"editor": ["Antony L. Hosking", "Patrick Th. Eugster", "Cristina Videira Lopes"],
+	"editor": [
+		"Antony L. Hosking",
+		"Patrick Th. Eugster",
+		"Cristina Videira Lopes"
+	],
 	"ee": "http://doi.acm.org/10.1145/2509136.2509539",
 	"isbn": "978-1-4503-2374-1",
 	"pages": "785-802",
 	"publisher": "ACM",
-	"stemmed": ["effici", "concurr", "bug", "detect", "across", "input"],
-	"tag": ["detection", "performance"],
+	"stemmed": [
+		"effici",
+		"concurr",
+		"bug",
+		"detect",
+		"across",
+		"input"
+	],
+	"tag": [
+		"detection",
+		"performance"
+	],
 	"title": "Efficient concurrency-bug detection across inputs",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

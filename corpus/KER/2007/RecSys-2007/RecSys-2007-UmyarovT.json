@@ -1,14 +1,27 @@
 {
-	"author": ["Akhmed Umyarov", "Alexander Tuzhilin"],
-	"booktitle": "RecSys",
+	"author": [
+		"Akhmed Umyarov",
+		"Alexander Tuzhilin"
+	],
+	"booktitle": "Proceedings of the First Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2007",
 	"dblpkey": "conf/recsys/UmyarovT07",
 	"doi": "10.1145/1297231.1297261",
 	"ee": "http://doi.acm.org/10.1145/1297231.1297261",
 	"pages": "161-164",
 	"publisher": "ACM",
-	"stemmed": ["leverag", "aggreg", "rate", "for", "better", "recommend"],
-	"tag": ["recommendation"],
+	"stemmed": [
+		"leverag",
+		"aggreg",
+		"rate",
+		"for",
+		"better",
+		"recommend"
+	],
+	"tag": [
+		"recommendation"
+	],
 	"title": "Leveraging aggregate ratings for better recommendations",
 	"type": "inproceedings",
 	"venue": "RecSys",

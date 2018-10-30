@@ -1,14 +1,29 @@
 {
-	"author": ["Kenneth H. Keller", "A. Richard Newton", "S. Ellis"],
-	"booktitle": "DAC",
+	"author": [
+		"Kenneth H. Keller",
+		"A. Richard Newton",
+		"S. Ellis"
+	],
+	"booktitle": "Proceedings of the 19th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1982",
 	"dblpkey": "conf/dac/KellerNE82",
 	"doi": "10.1145/800263.809245",
 	"ee": "http://doi.acm.org/10.1145/800263.809245",
 	"pages": "460-466",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["a", "symbol", "design", "system", "for", "integr", "circuit"],
-	"tag": ["design"],
+	"stemmed": [
+		"a",
+		"symbol",
+		"design",
+		"system",
+		"for",
+		"integr",
+		"circuit"
+	],
+	"tag": [
+		"design"
+	],
 	"title": "A symbolic design system for integrated circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

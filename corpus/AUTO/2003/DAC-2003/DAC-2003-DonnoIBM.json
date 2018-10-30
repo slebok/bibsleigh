@@ -1,14 +1,32 @@
 {
-	"author": ["Monica Donno", "Alessandro Ivaldi", "Luca Benini", "Enrico Macii"],
-	"booktitle": "DAC",
+	"author": [
+		"Monica Donno",
+		"Alessandro Ivaldi",
+		"Luca Benini",
+		"Enrico Macii"
+	],
+	"booktitle": "Proceedings of the 40th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2003",
 	"dblpkey": "conf/dac/DonnoIBM03",
 	"doi": "10.1145/775832.775989",
 	"ee": "http://doi.acm.org/10.1145/775832.775989",
 	"pages": "622-627",
 	"publisher": "ACM",
-	"stemmed": ["clock", "tree", "power", "optim", "base", "on", "rtl", "clock", "gate"],
-	"tag": ["optimisation"],
+	"stemmed": [
+		"clock",
+		"tree",
+		"power",
+		"optim",
+		"base",
+		"on",
+		"rtl",
+		"clock",
+		"gate"
+	],
+	"tag": [
+		"optimisation"
+	],
 	"title": "Clock-tree power optimization based on RTL clock-gating",
 	"type": "inproceedings",
 	"venue": "DAC",

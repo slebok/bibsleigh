@@ -1,6 +1,11 @@
 {
-	"author": ["Lu Yang", "Hongguang Fu", "Zhenbing Zeng"],
-	"booktitle": "CADE",
+	"author": [
+		"Lu Yang",
+		"Hongguang Fu",
+		"Zhenbing Zeng"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
 	"dblpkey": "conf/cade/YangFZ97",
 	"doi": "10.1007/3-540-63104-6_11",
@@ -10,11 +15,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "practic", "symbol", "algorithm", "for", "the", "invers", "kinemat", "of", "r", "manipul", "with", "simpl", "geometri"],
-	"tag": ["algorithm", "geometry"],
+	"stemmed": [
+		"a",
+		"practic",
+		"symbol",
+		"algorithm",
+		"for",
+		"the",
+		"invers",
+		"kinemat",
+		"of",
+		"r",
+		"manipul",
+		"with",
+		"simpl",
+		"geometri"
+	],
+	"tag": [
+		"algorithm",
+		"geometry"
+	],
 	"title": "A Practical Symbolic Algorithm for the Inverse Kinematics of 6R Manipulators with Simple Geometry",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1249,
+	"volume": "1249",
 	"year": 1997
 }

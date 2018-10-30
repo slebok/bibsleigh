@@ -1,6 +1,7 @@
 {
 	"author": "Frank M. Brown",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Brown86",
 	"doi": "10.1007/3-540-16780-3_92",
@@ -10,11 +11,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "commonsens", "theori", "of", "nonmonoton", "reason"],
-	"tag": ["reasoning"],
+	"stemmed": [
+		"a",
+		"commonsens",
+		"theori",
+		"of",
+		"nonmonoton",
+		"reason"
+	],
+	"tag": [
+		"reasoning"
+	],
 	"title": "A Commonsense Theory of Nonmonotonic Reasoning",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

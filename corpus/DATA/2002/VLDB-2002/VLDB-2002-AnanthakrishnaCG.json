@@ -1,13 +1,27 @@
 {
-	"author": ["Rohit Ananthakrishna", "Surajit Chaudhuri", "Venkatesh Ganti"],
-	"booktitle": "VLDB",
+	"author": [
+		"Rohit Ananthakrishna",
+		"Surajit Chaudhuri",
+		"Venkatesh Ganti"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/AnanthakrishnaCG02",
 	"ee": "http://www.vldb.org/conf/2002/S17P01.pdf",
 	"pages": "586-597",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["elimin", "fuzzi", "duplic", "in", "data", "warehous"],
-	"tag": ["fuzzy"],
+	"stemmed": [
+		"elimin",
+		"fuzzi",
+		"duplic",
+		"in",
+		"data",
+		"warehous"
+	],
+	"tag": [
+		"fuzzy"
+	],
 	"title": "Eliminating Fuzzy Duplicates in Data Warehouses",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,13 +1,36 @@
 {
-	"author": ["Hongrae Lee", "Raymond T. Ng", "Kyuseok Shim"],
-	"booktitle": "VLDB",
+	"author": [
+		"Hongrae Lee",
+		"Raymond T. Ng",
+		"Kyuseok Shim"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/LeeNS07",
 	"ee": "http://www.vldb.org/conf/2007/papers/research/p195-lee.pdf",
 	"pages": "195-206",
 	"publisher": "ACM",
-	"stemmed": ["extend", "q", "gram", "to", "estim", "select", "of", "string", "match", "with", "low", "edit", "distanc"],
-	"tag": ["distance", "edit distance", "string"],
+	"stemmed": [
+		"extend",
+		"q",
+		"gram",
+		"to",
+		"estim",
+		"select",
+		"of",
+		"string",
+		"match",
+		"with",
+		"low",
+		"edit",
+		"distanc"
+	],
+	"tag": [
+		"distance",
+		"edit distance",
+		"string"
+	],
 	"title": "Extending Q-Grams to Estimate Selectivity of String Matching with Low Edit Distance",
 	"type": "inproceedings",
 	"venue": "VLDB",

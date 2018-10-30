@@ -1,6 +1,7 @@
 {
 	"author": "Murray Edelberg",
-	"booktitle": "SIGMOD Workshop, Vol. 1",
+	"booktitle": "Proceedings of the Fourth ACM-SIGFIDET Workshop on Data Description, Access and Control",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGFIDET74-1/P419.pdf",
 	"crossref": "conf/sigmod/74",
 	"dblpkey": "conf/sigmod/Edelberg74",
@@ -8,8 +9,16 @@
 	"ee": "http://doi.acm.org/10.1145/800296.811523",
 	"pages": "419-430",
 	"publisher": "ACM",
-	"stemmed": ["data", "base", "contamin", "and", "recoveri"],
-	"tag": ["database"],
+	"stemmed": [
+		"data",
+		"base",
+		"contamin",
+		"and",
+		"recoveri"
+	],
+	"tag": [
+		"database"
+	],
 	"title": "Data Base Contamination and Recovery",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,10 @@
 {
-	"author": ["Mianwei Zhou", "Tao Cheng", "Kevin Chen-Chuan Chang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Mianwei Zhou",
+		"Tao Cheng",
+		"Kevin Chen-Chuan Chang"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/ZhouCC10",
@@ -8,8 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807321",
 	"pages": "1211-1214",
 	"publisher": "ACM",
-	"stemmed": ["do", "cqs", "a", "prototyp", "system", "for", "support", "data", "orient", "content", "queri"],
-	"tag": ["named", "prototype", "query", "type system"],
+	"stemmed": [
+		"do",
+		"cqs",
+		"a",
+		"prototyp",
+		"system",
+		"for",
+		"support",
+		"data",
+		"orient",
+		"content",
+		"queri"
+	],
+	"tag": [
+		"named",
+		"prototype",
+		"query",
+		"type system"
+	],
 	"title": "DoCQS: a prototype system for supporting data-oriented content query",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

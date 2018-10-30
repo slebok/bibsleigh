@@ -1,6 +1,7 @@
 {
 	"author": "Nicolas Peltier",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 15th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1998",
 	"dblpkey": "conf/cade/Peltier98",
 	"ee": "http://link.springer.de/link/service/series/0558/bibs/1421/14210119.htm",
@@ -9,11 +10,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "an", "equat", "constraint", "solver"],
-	"tag": ["constraints", "equation"],
+	"stemmed": [
+		"system",
+		"descript",
+		"an",
+		"equat",
+		"constraint",
+		"solver"
+	],
+	"tag": [
+		"constraints",
+		"equation"
+	],
 	"title": "System Description: An Equational Constraints Solver",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1421,
+	"volume": "1421",
 	"year": 1998
 }

@@ -1,14 +1,33 @@
 {
-	"author": ["Firew Siyoum", "Marc Geilen", "Henk Corporaal"],
-	"booktitle": "DAC",
+	"author": [
+		"Firew Siyoum",
+		"Marc Geilen",
+		"Henk Corporaal"
+	],
+	"booktitle": "Proceedings of the 51st Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2014",
 	"dblpkey": "conf/dac/SiyoumGC14",
 	"doi": "10.1145/2593069.2593223",
 	"ee": "http://doi.acm.org/10.1145/2593069.2593223",
 	"pages": "127:1-127:6",
 	"publisher": "ACM",
-	"stemmed": ["symbol", "analysi", "of", "dataflow", "applic", "map", "onto", "share", "heterogen", "resourc"],
-	"tag": ["analysis", "data flow"],
+	"stemmed": [
+		"symbol",
+		"analysi",
+		"of",
+		"dataflow",
+		"applic",
+		"map",
+		"onto",
+		"share",
+		"heterogen",
+		"resourc"
+	],
+	"tag": [
+		"analysis",
+		"data flow"
+	],
 	"title": "Symbolic Analysis of Dataflow Applications Mapped onto Shared Heterogeneous Resources",
 	"type": "inproceedings",
 	"venue": "DAC",

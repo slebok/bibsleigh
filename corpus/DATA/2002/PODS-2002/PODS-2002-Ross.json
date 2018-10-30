@@ -1,14 +1,28 @@
 {
 	"author": "Kenneth A. Ross",
-	"booktitle": "PODS",
+	"booktitle": "Proceedings of the 21st Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2002",
 	"dblpkey": "conf/pods/Ross02",
 	"doi": "10.1145/543613.543628",
-	"ee": ["http://doi.acm.org/10.1145/543613.543628", "http://www.acm.org/sigs/sigmod/pods/proc02/papers/109-Ross.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/543613.543628",
+		"http://www.acm.org/sigs/sigmod/pods/proc02/papers/109-Ross.pdf"
+	],
 	"pages": "109-120",
 	"publisher": "ACM",
-	"stemmed": ["conjunct", "select", "condit", "in", "main", "memori"],
-	"tag": ["in memory", "memory management"],
+	"stemmed": [
+		"conjunct",
+		"select",
+		"condit",
+		"in",
+		"main",
+		"memori"
+	],
+	"tag": [
+		"in memory",
+		"memory management"
+	],
 	"title": "Conjunctive Selection Conditions in Main Memory",
 	"type": "inproceedings",
 	"venue": "PODS",

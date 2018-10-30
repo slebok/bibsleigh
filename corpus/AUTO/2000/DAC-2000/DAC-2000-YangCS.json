@@ -1,13 +1,30 @@
 {
-	"author": ["Congguang Yang", "Maciej J. Ciesielski", "Vigyan Singhal"],
-	"booktitle": "DAC",
+	"author": [
+		"Congguang Yang",
+		"Maciej J. Ciesielski",
+		"Vigyan Singhal"
+	],
+	"booktitle": "Proceedings of the 37th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/YangCS00",
 	"doi": "10.1145/337292.337323",
 	"ee": "http://doi.acm.org/10.1145/337292.337323",
 	"pages": "92-97",
 	"publisher": "ACM",
-	"stemmed": ["bds", "a", "bdd", "base", "logic", "optim", "system"],
-	"tag": ["logic", "named", "optimisation"],
+	"stemmed": [
+		"bds",
+		"a",
+		"bdd",
+		"base",
+		"logic",
+		"optim",
+		"system"
+	],
+	"tag": [
+		"logic",
+		"named",
+		"optimisation"
+	],
 	"title": "BDS: a BDD-based logic optimization system",
 	"type": "inproceedings",
 	"venue": "DAC",

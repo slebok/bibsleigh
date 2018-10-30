@@ -1,13 +1,37 @@
 {
-	"author": ["Masayuki Miyoshi", "Yoshio Ooshima", "Atsushi Sugiyama", "Nobuhiko Onizuka", "Nobutaka Amano"],
-	"booktitle": "DAC",
+	"author": [
+		"Masayuki Miyoshi",
+		"Yoshio Ooshima",
+		"Atsushi Sugiyama",
+		"Nobuhiko Onizuka",
+		"Nobutaka Amano"
+	],
+	"booktitle": "Proceedings of the 23rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/MiyoshiOSOA86",
 	"doi": "10.1145/318013.318070",
 	"ee": "http://doi.acm.org/10.1145/318013.318070",
 	"pages": "360-365",
 	"publisher": "IEEE Computer Society Press",
-	"stemmed": ["an", "extens", "logic", "simul", "method", "of", "veri", "larg", "scale", "comput", "design"],
-	"tag": ["design", "logic", "scalability", "simulation"],
+	"stemmed": [
+		"an",
+		"extens",
+		"logic",
+		"simul",
+		"method",
+		"of",
+		"veri",
+		"larg",
+		"scale",
+		"comput",
+		"design"
+	],
+	"tag": [
+		"design",
+		"logic",
+		"scalability",
+		"simulation"
+	],
 	"title": "An extensive logic simulation method of very large scale computer design",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,28 @@
 {
-	"author": ["Adam Morrison", "Yehuda Afek"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Adam Morrison",
+		"Yehuda Afek"
+	],
+	"booktitle": "Proceedings of the 18th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2013",
 	"dblpkey": "conf/ppopp/MorrisonA13",
 	"doi": "10.1145/2442516.2442527",
 	"ee": "http://doi.acm.org/10.1145/2442516.2442527",
 	"pages": "103-112",
 	"publisher": "ACM",
-	"stemmed": ["fast", "concurr", "queue", "for", "x", "processor"],
-	"tag": ["concurrent", "performance"],
+	"stemmed": [
+		"fast",
+		"concurr",
+		"queue",
+		"for",
+		"x",
+		"processor"
+	],
+	"tag": [
+		"concurrent",
+		"performance"
+	],
 	"title": "Fast concurrent queues for x86 processors",
 	"type": "inproceedings",
 	"venue": "PPoPP",

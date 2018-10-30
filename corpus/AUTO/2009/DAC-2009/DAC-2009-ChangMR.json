@@ -1,14 +1,38 @@
 {
-	"author": ["Ik Joon Chang", "Debabrata Mohapatra", "Kaushik Roy"],
-	"booktitle": "DAC",
+	"author": [
+		"Ik Joon Chang",
+		"Debabrata Mohapatra",
+		"Kaushik Roy"
+	],
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/ChangMR09",
 	"doi": "10.1145/1629911.1630087",
 	"ee": "http://doi.acm.org/10.1145/1629911.1630087",
 	"pages": "670-675",
 	"publisher": "ACM",
-	"stemmed": ["a", "voltag", "scalabl", "process", "variat", "resili", "hybrid", "sram", "architectur", "for", "mpeg", "video", "processor"],
-	"tag": ["architecture", "hybrid", "process", "video"],
+	"stemmed": [
+		"a",
+		"voltag",
+		"scalabl",
+		"process",
+		"variat",
+		"resili",
+		"hybrid",
+		"sram",
+		"architectur",
+		"for",
+		"mpeg",
+		"video",
+		"processor"
+	],
+	"tag": [
+		"architecture",
+		"hybrid",
+		"process",
+		"video"
+	],
 	"title": "A voltage-scalable & process variation resilient hybrid SRAM architecture for MPEG-4 video processors",
 	"type": "inproceedings",
 	"venue": "DAC",

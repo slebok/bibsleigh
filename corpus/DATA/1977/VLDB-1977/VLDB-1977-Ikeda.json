@@ -1,15 +1,37 @@
 {
 	"author": "Hideto Ikeda",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the Third International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB77/P231.PDF",
-	"cite": ["journals/iandc/AbrahamGR68", "journals/cacm/Cardenas73", "journals/iandc/Chow69", "journals/cacm/Ghosh72", "...", "journals/cacm/Ghosh75", "...", "...", "journals/iandc/YamamotoISUH75", "..."],
+	"cite": [
+		"journals/iandc/AbrahamGR68",
+		"journals/cacm/Cardenas73",
+		"journals/iandc/Chow69",
+		"journals/cacm/Ghosh72",
+		"...",
+		"journals/cacm/Ghosh75",
+		"...",
+		"...",
+		"journals/iandc/YamamotoISUH75",
+		"..."
+	],
 	"crossref": "conf/vldb/77",
 	"dblpkey": "conf/vldb/Ikeda77",
 	"pages": "231-235",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["evalu", "of", "combinatori", "file", "orgen", "scheme"],
-	"tag": ["combinator", "evaluation"],
+	"stemmed": [
+		"evalu",
+		"of",
+		"combinatori",
+		"file",
+		"orgen",
+		"scheme"
+	],
+	"tag": [
+		"combinator",
+		"evaluation"
+	],
 	"title": "Evaluation of Combinatorial File Orgenization Schemes",
 	"type": "inproceedings",
 	"venue": "VLDB",

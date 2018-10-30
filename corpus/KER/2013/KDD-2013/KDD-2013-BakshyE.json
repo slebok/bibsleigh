@@ -1,14 +1,35 @@
 {
-	"author": ["Eytan Bakshy", "Dean Eckles"],
-	"booktitle": "KDD",
+	"author": [
+		"Eytan Bakshy",
+		"Dean Eckles"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/BakshyE13",
 	"doi": "10.1145/2487575.2488218",
 	"ee": "http://doi.acm.org/10.1145/2487575.2488218",
 	"pages": "1303-1311",
 	"publisher": "ACM",
-	"stemmed": ["uncertainti", "in", "onlin", "experi", "with", "depend", "data", "an", "evalu", "of", "bootstrap", "method"],
-	"tag": ["evaluation", "nondeterminism", "online"],
+	"stemmed": [
+		"uncertainti",
+		"in",
+		"onlin",
+		"experi",
+		"with",
+		"depend",
+		"data",
+		"an",
+		"evalu",
+		"of",
+		"bootstrap",
+		"method"
+	],
+	"tag": [
+		"evaluation",
+		"nondeterminism",
+		"online"
+	],
 	"title": "Uncertainty in online experiments with dependent data: an evaluation of bootstrap methods",
 	"type": "inproceedings",
 	"venue": "KDD",

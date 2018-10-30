@@ -1,6 +1,10 @@
 {
-	"author": ["Montek Singh", "Michael Theobald"],
-	"booktitle": "DATE",
+	"author": [
+		"Montek Singh",
+		"Michael Theobald"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/SinghT04",
 	"doi": "10.1109/DATE.2004.1269025",
@@ -8,8 +12,23 @@
 	"pages": "1008-1013",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["general", "latenc", "insensit", "system", "for", "singl", "clock", "and", "multi", "clock", "architectur"],
-	"tag": ["architecture", "multi"],
+	"stemmed": [
+		"general",
+		"latenc",
+		"insensit",
+		"system",
+		"for",
+		"singl",
+		"clock",
+		"and",
+		"multi",
+		"clock",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"multi"
+	],
 	"title": "Generalized Latency-Insensitive Systems for Single-Clock and Multi-Clock Architectures",
 	"type": "inproceedings",
 	"venue": "DATE",

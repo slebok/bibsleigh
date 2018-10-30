@@ -1,6 +1,12 @@
 {
-	"author": ["Peter B. Danzig", "Jong Suk Ahn", "John Noll", "Katia Obraczka"],
+	"author": [
+		"Peter B. Danzig",
+		"Jong Suk Ahn",
+		"John Noll",
+		"Katia Obraczka"
+	],
 	"booktitle": "Proceedings of the 14th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1991/P220.pdf",
 	"crossref": "conf/sigir/91",
 	"dblpkey": "conf/sigir/DanzigANO91",
@@ -8,8 +14,22 @@
 	"ee": "http://doi.acm.org/10.1145/122860.122883",
 	"pages": "220-229",
 	"publisher": "ACM",
-	"stemmed": ["distribut", "index", "a", "scalabl", "mechan", "for", "distribut", "inform", "retriev"],
-	"tag": ["distributed", "information retrieval", "scalability"],
+	"stemmed": [
+		"distribut",
+		"index",
+		"a",
+		"scalabl",
+		"mechan",
+		"for",
+		"distribut",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"distributed",
+		"information retrieval",
+		"scalability"
+	],
 	"title": "Distributed Indexing: A Scalable Mechanism for Distributed Information Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

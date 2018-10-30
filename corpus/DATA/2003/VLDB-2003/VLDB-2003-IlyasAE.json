@@ -1,12 +1,30 @@
 {
-	"author": ["Ihab F. Ilyas", "Walid G. Aref", "Ahmed K. Elmagarmid"],
-	"booktitle": "VLDB",
+	"author": [
+		"Ihab F. Ilyas",
+		"Walid G. Aref",
+		"Ahmed K. Elmagarmid"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/IlyasAE03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S23P01.pdf",
 	"pages": "754-765",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["support", "top", "k", "join", "queri", "in", "relat", "databas"],
-	"tag": ["database", "query", "relational"],
+	"stemmed": [
+		"support",
+		"top",
+		"k",
+		"join",
+		"queri",
+		"in",
+		"relat",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"query",
+		"relational"
+	],
 	"title": "Supporting Top-k Join Queries in Relational Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

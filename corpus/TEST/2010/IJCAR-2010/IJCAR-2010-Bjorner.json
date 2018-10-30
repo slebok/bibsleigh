@@ -1,6 +1,7 @@
 {
 	"author": "Nikolaj Bjørner",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Fifth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2010",
 	"dblpkey": "conf/cade/Bjorner10",
 	"doi": "10.1007/978-3-642-14203-1_27",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["linear", "quantifi", "elimin", "as", "an", "abstract", "decis", "procedur"],
-	"tag": ["linear", "quantifier"],
+	"stemmed": [
+		"linear",
+		"quantifi",
+		"elimin",
+		"as",
+		"an",
+		"abstract",
+		"decis",
+		"procedur"
+	],
+	"tag": [
+		"linear",
+		"quantifier"
+	],
 	"title": "Linear Quantifier Elimination as an Abstract Decision Procedure",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 6173,
+	"volume": "6173",
 	"year": 2010
 }

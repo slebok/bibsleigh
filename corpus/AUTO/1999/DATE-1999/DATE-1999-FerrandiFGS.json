@@ -1,6 +1,12 @@
 {
-	"author": ["Fabrizio Ferrandi", "Franco Fummi", "Luca Gerli", "Donatella Sciuto"],
-	"booktitle": "DATE",
+	"author": [
+		"Fabrizio Ferrandi",
+		"Franco Fummi",
+		"Luca Gerli",
+		"Donatella Sciuto"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/FerrandiFGS99",
 	"doi": "10.1109/DATE.1999.761163",
@@ -8,8 +14,20 @@
 	"pages": "442-",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["symbol", "function", "vector", "generat", "for", "vhdl", "specif"],
-	"tag": ["functional", "generative", "specification"],
+	"stemmed": [
+		"symbol",
+		"function",
+		"vector",
+		"generat",
+		"for",
+		"vhdl",
+		"specif"
+	],
+	"tag": [
+		"functional",
+		"generative",
+		"specification"
+	],
 	"title": "Symbolic Functional Vector Generation for VHDL Specifications",
 	"type": "inproceedings",
 	"venue": "DATE",

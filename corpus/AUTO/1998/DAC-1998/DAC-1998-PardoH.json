@@ -1,13 +1,29 @@
 {
-	"author": ["Abelardo Pardo", "Gary D. Hachtel"],
-	"booktitle": "DAC",
+	"author": [
+		"Abelardo Pardo",
+		"Gary D. Hachtel"
+	],
+	"booktitle": "Proceedings of the 35th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/PardoH98",
 	"doi": "10.1145/277044.277171",
 	"ee": "http://doi.acm.org/10.1145/277044.277171",
 	"pages": "457-462",
 	"publisher": "ACM Press",
-	"stemmed": ["increment", "ctl", "model", "check", "use", "bdd", "subset"],
-	"tag": ["incremental", "model checking", "using"],
+	"stemmed": [
+		"increment",
+		"ctl",
+		"model",
+		"check",
+		"use",
+		"bdd",
+		"subset"
+	],
+	"tag": [
+		"incremental",
+		"model checking",
+		"using"
+	],
 	"title": "Incremental CTL Model Checking Using BDD Subsetting",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,37 @@
 {
-	"author": ["Patrick Schaumont", "Bo-Cheng Charles Lai", "Wei Qin", "Ingrid Verbauwhede"],
-	"booktitle": "DAC",
+	"author": [
+		"Patrick Schaumont",
+		"Bo-Cheng Charles Lai",
+		"Wei Qin",
+		"Ingrid Verbauwhede"
+	],
+	"booktitle": "Proceedings of the 42nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/SchaumontLQV05",
 	"doi": "10.1145/1065579.1065591",
 	"ee": "http://doi.acm.org/10.1145/1065579.1065591",
 	"pages": "27-30",
 	"publisher": "ACM",
-	"stemmed": ["cooper", "multithread", "on", "mbed", "multiprocessor", "architectur", "enabl", "energi", "scalabl", "design"],
-	"tag": ["architecture", "design", "energy", "multi", "thread"],
+	"stemmed": [
+		"cooper",
+		"multithread",
+		"on",
+		"mbed",
+		"multiprocessor",
+		"architectur",
+		"enabl",
+		"energi",
+		"scalabl",
+		"design"
+	],
+	"tag": [
+		"architecture",
+		"design",
+		"energy",
+		"multi",
+		"thread"
+	],
 	"title": "Cooperative multithreading on 3mbedded multiprocessor architectures enables energy-scalable design",
 	"type": "inproceedings",
 	"venue": "DAC",

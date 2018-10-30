@@ -1,15 +1,41 @@
 {
-	"author": ["Yalin Wang", "Robert M. Haralick", "Ihsin T. Phillips"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Yalin Wang",
+		"Robert M. Haralick",
+		"Ihsin T. Phillips"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2001",
 	"dblpkey": "conf/icdar/WangHP01",
 	"doi": "10.1109/ICDAR.2001.953845",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2001.953845", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953845"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2001.953845",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953845"
+	],
 	"pages": "528-532",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["automat", "tabl", "ground", "truth", "generat", "and", "a", "background", "analysi", "base", "tabl", "structur", "extract", "method"],
-	"tag": ["automation", "generative"],
+	"stemmed": [
+		"automat",
+		"tabl",
+		"ground",
+		"truth",
+		"generat",
+		"and",
+		"a",
+		"background",
+		"analysi",
+		"base",
+		"tabl",
+		"structur",
+		"extract",
+		"method"
+	],
+	"tag": [
+		"automation",
+		"generative"
+	],
 	"title": "Automatic Table Ground Truth Generation and a Background-Analysis-Based Table Structure Extraction Method",
 	"type": "inproceedings",
 	"venue": "ICDAR",

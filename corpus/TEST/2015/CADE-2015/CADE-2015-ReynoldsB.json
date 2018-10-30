@@ -1,6 +1,10 @@
 {
-	"author": ["Andrew Reynolds", "Jasmin Christian Blanchette"],
-	"booktitle": "CADE",
+	"author": [
+		"Andrew Reynolds",
+		"Jasmin Christian Blanchette"
+	],
+	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
 	"dblpkey": "conf/cade/ReynoldsB15",
 	"doi": "10.1007/978-3-319-21401-6_13",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "decis", "procedur", "for", "co", "datatyp", "in", "smt", "solver"],
-	"tag": ["data type", "smt"],
+	"stemmed": [
+		"a",
+		"decis",
+		"procedur",
+		"for",
+		"co",
+		"datatyp",
+		"in",
+		"smt",
+		"solver"
+	],
+	"tag": [
+		"data type",
+		"smt"
+	],
 	"title": "A Decision Procedure for (Co)datatypes in SMT Solvers",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 9195,
+	"volume": "9195",
 	"year": 2015
 }

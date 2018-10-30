@@ -1,14 +1,34 @@
 {
-	"author": ["Sven Heithecker", "Rolf Ernst"],
-	"booktitle": "DAC",
+	"author": [
+		"Sven Heithecker",
+		"Rolf Ernst"
+	],
+	"booktitle": "Proceedings of the 42nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/HeitheckerE05",
 	"doi": "10.1145/1065579.1065729",
 	"ee": "http://doi.acm.org/10.1145/1065579.1065729",
 	"pages": "575-578",
 	"publisher": "ACM",
-	"stemmed": ["traffic", "shape", "for", "an", "fpga", "base", "sdram", "control", "with", "complex", "qo", "s", "requir"],
-	"tag": ["requirements"],
+	"stemmed": [
+		"traffic",
+		"shape",
+		"for",
+		"an",
+		"fpga",
+		"base",
+		"sdram",
+		"control",
+		"with",
+		"complex",
+		"qo",
+		"s",
+		"requir"
+	],
+	"tag": [
+		"requirements"
+	],
 	"title": "Traffic shaping for an FPGA based SDRAM controller with complex QoS requirements",
 	"type": "inproceedings",
 	"venue": "DAC",

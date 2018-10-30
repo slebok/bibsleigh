@@ -1,6 +1,10 @@
 {
-	"author": ["Shahid Jabbar", "Stefan Edelkamp"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Shahid Jabbar",
+		"Stefan Edelkamp"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2005",
 	"dblpkey": "conf/vmcai/JabbarE05",
 	"doi": "10.1007/978-3-540-30579-8_21",
@@ -10,11 +14,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["i", "o", "effici", "direct", "model", "check"],
-	"tag": ["model checking", "performance"],
+	"stemmed": [
+		"i",
+		"o",
+		"effici",
+		"direct",
+		"model",
+		"check"
+	],
+	"tag": [
+		"model checking",
+		"performance"
+	],
 	"title": "I/O Efficient Directed Model Checking",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3385,
+	"volume": "3385",
 	"year": 2005
 }

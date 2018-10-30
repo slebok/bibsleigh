@@ -1,6 +1,11 @@
 {
-	"author": ["Cynthia Dwork", "Paris C. Kanellakis", "Larry J. Stockmeyer"],
-	"booktitle": "CADE",
+	"author": [
+		"Cynthia Dwork",
+		"Paris C. Kanellakis",
+		"Larry J. Stockmeyer"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/DworkCKS86",
 	"doi": "10.1007/3-540-16780-3_109",
@@ -10,11 +15,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["parallel", "algorithm", "for", "term", "match"],
-	"tag": ["algorithm", "parallel"],
+	"stemmed": [
+		"parallel",
+		"algorithm",
+		"for",
+		"term",
+		"match"
+	],
+	"tag": [
+		"algorithm",
+		"parallel"
+	],
 	"title": "Parallel Algorithms for Term Matching",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

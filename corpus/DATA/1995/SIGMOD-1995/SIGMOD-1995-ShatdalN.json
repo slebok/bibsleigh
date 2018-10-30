@@ -1,16 +1,42 @@
 {
-	"author": ["Ambuj Shatdal", "Jeffrey F. Naughton"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ambuj Shatdal",
+		"Jeffrey F. Naughton"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD95/P104.PDF",
-	"cite": ["journals/tods/BittonBDW83", "conf/vldb/BrownCL93", "...", "journals/tkde/DeWittGSBHR90", "...", "...", "journals/csur/Graefe93", "...", "...", "conf/vldb/SuM82", "...", "conf/vldb/WaltonDJ91"],
+	"cite": [
+		"journals/tods/BittonBDW83",
+		"conf/vldb/BrownCL93",
+		"...",
+		"journals/tkde/DeWittGSBHR90",
+		"...",
+		"...",
+		"journals/csur/Graefe93",
+		"...",
+		"...",
+		"conf/vldb/SuM82",
+		"...",
+		"conf/vldb/WaltonDJ91"
+	],
 	"crossref": "conf/sigmod/95",
 	"dblpkey": "conf/sigmod/ShatdalN95",
 	"doi": "10.1145/223784.223801",
 	"ee": "http://doi.acm.org/10.1145/223784.223801",
 	"pages": "104-114",
 	"publisher": "ACM Press",
-	"stemmed": ["adapt", "parallel", "aggreg", "algorithm"],
-	"tag": ["adaptation", "algorithm", "parallel"],
+	"stemmed": [
+		"adapt",
+		"parallel",
+		"aggreg",
+		"algorithm"
+	],
+	"tag": [
+		"adaptation",
+		"algorithm",
+		"parallel"
+	],
 	"title": "Adaptive Parallel Aggregation Algorithms",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

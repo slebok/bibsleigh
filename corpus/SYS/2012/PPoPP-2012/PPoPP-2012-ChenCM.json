@@ -1,14 +1,33 @@
 {
-	"author": ["Yifeng Chen", "Xiang Cui", "Hong Mei"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Yifeng Chen",
+		"Xiang Cui",
+		"Hong Mei"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/ChenCM12",
 	"doi": "10.1145/2145816.2145838",
 	"ee": "http://doi.acm.org/10.1145/2145816.2145838",
 	"pages": "171-180",
 	"publisher": "ACM",
-	"stemmed": ["parray", "a", "unifi", "array", "represent", "for", "heterogen", "parallel"],
-	"tag": ["array", "named", "parallel", "representation"],
+	"stemmed": [
+		"parray",
+		"a",
+		"unifi",
+		"array",
+		"represent",
+		"for",
+		"heterogen",
+		"parallel"
+	],
+	"tag": [
+		"array",
+		"named",
+		"parallel",
+		"representation"
+	],
 	"title": "PARRAY: a unifying array representation for heterogeneous parallelism",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,14 +1,38 @@
 {
-	"author": ["Seong-Won Lee", "Soo-Mook Moon", "Seong-Moo Kim"],
-	"booktitle": "LCTES",
+	"author": [
+		"Seong-Won Lee",
+		"Soo-Mook Moon",
+		"Seong-Moo Kim"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2008",
 	"dblpkey": "conf/lctrts/LeeMK08",
 	"doi": "10.1145/1375657.1375660",
 	"ee": "http://doi.acm.org/10.1145/1375657.1375660",
 	"pages": "13-22",
 	"publisher": "ACM",
-	"stemmed": ["enhanc", "hot", "spot", "detect", "heurist", "for", "embed", "java", "just", "in", "time", "compil"],
-	"tag": ["compilation", "detection", "embedded", "heuristic", "java"],
+	"stemmed": [
+		"enhanc",
+		"hot",
+		"spot",
+		"detect",
+		"heurist",
+		"for",
+		"embed",
+		"java",
+		"just",
+		"in",
+		"time",
+		"compil"
+	],
+	"tag": [
+		"compilation",
+		"detection",
+		"embedded",
+		"heuristic",
+		"java"
+	],
 	"title": "Enhanced hot spot detection heuristics for embedded java just-in-time compilers",
 	"type": "inproceedings",
 	"venue": "LCTES",

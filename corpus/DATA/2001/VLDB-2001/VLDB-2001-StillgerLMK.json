@@ -1,13 +1,29 @@
 {
-	"author": ["Michael Stillger", "Guy M. Lohman", "Volker Markl", "Mokhtar Kandil"],
-	"booktitle": "VLDB",
+	"author": [
+		"Michael Stillger",
+		"Guy M. Lohman",
+		"Volker Markl",
+		"Mokhtar Kandil"
+	],
+	"booktitle": "Proceedings of the 27th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2001",
 	"dblpkey": "conf/vldb/StillgerLMK01",
 	"ee": "http://www.vldb.org/conf/2001/P019.pdf",
 	"pages": "19-28",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["leo", "db", "s", "l", "earn", "optim"],
-	"tag": ["learning", "named"],
+	"stemmed": [
+		"leo",
+		"db",
+		"s",
+		"l",
+		"earn",
+		"optim"
+	],
+	"tag": [
+		"learning",
+		"named"
+	],
 	"title": "LEO — DB2’s LEarning Optimizer",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,12 @@
 {
-	"author": ["Gang Tan", "Andrew W. Appel", "Kedar N. Swadi", "Dinghao Wu"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Gang Tan",
+		"Andrew W. Appel",
+		"Kedar N. Swadi",
+		"Dinghao Wu"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2004",
 	"dblpkey": "conf/vmcai/TanASW04",
 	"doi": "10.1007/978-3-540-24622-0_4",
@@ -10,11 +16,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["construct", "of", "a", "semant", "model", "for", "a", "type", "assembl", "languag"],
-	"tag": ["assembly", "semantics"],
+	"stemmed": [
+		"construct",
+		"of",
+		"a",
+		"semant",
+		"model",
+		"for",
+		"a",
+		"type",
+		"assembl",
+		"languag"
+	],
+	"tag": [
+		"assembly",
+		"semantics"
+	],
 	"title": "Construction of a Semantic Model for a Typed Assembly Language",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2937,
+	"volume": "2937",
 	"year": 2004
 }

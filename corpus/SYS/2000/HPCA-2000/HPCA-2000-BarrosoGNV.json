@@ -1,15 +1,38 @@
 {
-	"author": ["Luiz André Barroso", "Kourosh Gharachorloo", "Andreas Nowatzyk", "Ben Verghese"],
-	"booktitle": "HPCA",
+	"author": [
+		"Luiz André Barroso",
+		"Kourosh Gharachorloo",
+		"Andreas Nowatzyk",
+		"Ben Verghese"
+	],
+	"booktitle": "Proceedings of the Sixth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2000",
 	"dblpkey": "conf/hpca/BarrosoGNV00",
 	"doi": "10.1109/HPCA.2000.824334",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2000.824334", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2000.824334"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2000.824334",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2000.824334"
+	],
 	"pages": "3-14",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["impact", "of", "chip", "level", "integr", "on", "perform", "of", "oltp", "workload"],
-	"tag": ["integration", "performance"],
+	"stemmed": [
+		"impact",
+		"of",
+		"chip",
+		"level",
+		"integr",
+		"on",
+		"perform",
+		"of",
+		"oltp",
+		"workload"
+	],
+	"tag": [
+		"integration",
+		"performance"
+	],
 	"title": "Impact of Chip-Level Integration on Performance of OLTP Workloads",
 	"type": "inproceedings",
 	"venue": "HPCA",

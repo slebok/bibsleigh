@@ -1,14 +1,36 @@
 {
-	"author": ["Wei Liu", "Shiqian Ma", "Dacheng Tao", "Jianzhuang Liu", "Peng Liu"],
-	"booktitle": "KDD",
+	"author": [
+		"Wei Liu",
+		"Shiqian Ma",
+		"Dacheng Tao",
+		"Jianzhuang Liu",
+		"Peng Liu"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/LiuMTLL10",
 	"doi": "10.1145/1835804.1835947",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835947",
 	"pages": "1139-1148",
 	"publisher": "ACM",
-	"stemmed": ["semi", "supervis", "spars", "metric", "learn", "use", "altern", "linear", "optim"],
-	"tag": ["learning", "metric", "optimisation", "using"],
+	"stemmed": [
+		"semi",
+		"supervis",
+		"spars",
+		"metric",
+		"learn",
+		"use",
+		"altern",
+		"linear",
+		"optim"
+	],
+	"tag": [
+		"learning",
+		"metric",
+		"optimisation",
+		"using"
+	],
 	"title": "Semi-supervised sparse metric learning using alternating linearization optimization",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,13 +1,36 @@
 {
-	"author": ["Zhimin Chen", "Patrick Schaumont"],
-	"booktitle": "DATE",
+	"author": [
+		"Zhimin Chen",
+		"Patrick Schaumont"
+	],
+	"booktitle": "Proceedings of the 14th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2010",
 	"dblpkey": "conf/date/ChenS10",
 	"ieeearid": 5456935,
 	"pages": "843-848",
 	"publisher": "IEEE",
-	"stemmed": ["pshs", "a", "scalabl", "parallel", "softwar", "implement", "of", "montgomeri", "multipl", "for", "multicor", "system"],
-	"tag": ["implementation", "manycore", "named", "parallel", "scalability"],
+	"stemmed": [
+		"pshs",
+		"a",
+		"scalabl",
+		"parallel",
+		"softwar",
+		"implement",
+		"of",
+		"montgomeri",
+		"multipl",
+		"for",
+		"multicor",
+		"system"
+	],
+	"tag": [
+		"implementation",
+		"manycore",
+		"named",
+		"parallel",
+		"scalability"
+	],
 	"title": "pSHS: A scalable parallel software implementation of Montgomery multiplication for multicore systems",
 	"type": "inproceedings",
 	"venue": "DATE",

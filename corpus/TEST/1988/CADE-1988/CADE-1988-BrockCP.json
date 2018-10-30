@@ -1,6 +1,11 @@
 {
-	"author": ["Bishop Brock", "Shaun Cooper", "William Pierce"],
-	"booktitle": "CADE",
+	"author": [
+		"Bishop Brock",
+		"Shaun Cooper",
+		"William Pierce"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/BrockCP88",
 	"doi": "10.1007/BFb0012849",
@@ -10,11 +15,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["analog", "reason", "and", "proof", "discoveri"],
-	"tag": ["proving", "reasoning"],
+	"stemmed": [
+		"analog",
+		"reason",
+		"and",
+		"proof",
+		"discoveri"
+	],
+	"tag": [
+		"proving",
+		"reasoning"
+	],
 	"title": "Analogical Reasoning and Proof Discovery",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

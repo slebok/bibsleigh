@@ -1,13 +1,31 @@
 {
-	"author": ["Joon-Seo Yim", "Chong-Min Kyung"],
-	"booktitle": "DAC",
+	"author": [
+		"Joon-Seo Yim",
+		"Chong-Min Kyung"
+	],
+	"booktitle": "Proceedings of the 36th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/YimK99",
 	"doi": "10.1145/309847.309984",
 	"ee": "http://doi.acm.org/10.1145/309847.309984",
 	"pages": "485-490",
 	"publisher": "ACM Press",
-	"stemmed": ["reduc", "cross", "coupl", "among", "interconnect", "wire", "in", "deep", "submicron", "datapath", "design"],
-	"tag": ["design"],
+	"stemmed": [
+		"reduc",
+		"cross",
+		"coupl",
+		"among",
+		"interconnect",
+		"wire",
+		"in",
+		"deep",
+		"submicron",
+		"datapath",
+		"design"
+	],
+	"tag": [
+		"design"
+	],
 	"title": "Reducing Cross-Coupling Among Interconnect Wires in Deep-Submicron Datapath Design",
 	"type": "inproceedings",
 	"venue": "DAC",

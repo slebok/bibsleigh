@@ -1,14 +1,35 @@
 {
-	"author": ["Hyojin Sung", "Rakesh Komuravelli", "Sarita V. Adve"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Hyojin Sung",
+		"Rakesh Komuravelli",
+		"Sarita V. Adve"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2013",
 	"dblpkey": "conf/asplos/SungKA13",
 	"doi": "10.1145/2451116.2451119",
 	"ee": "http://doi.acm.org/10.1145/2451116.2451119",
 	"pages": "13-26",
 	"publisher": "ACM",
-	"stemmed": ["de", "novo", "nd", "effici", "hardwar", "support", "for", "disciplin", "non", "determin"],
-	"tag": ["hardware", "named", "nondeterminism", "performance"],
+	"stemmed": [
+		"de",
+		"novo",
+		"nd",
+		"effici",
+		"hardwar",
+		"support",
+		"for",
+		"disciplin",
+		"non",
+		"determin"
+	],
+	"tag": [
+		"hardware",
+		"named",
+		"nondeterminism",
+		"performance"
+	],
 	"title": "DeNovoND: efficient hardware support for disciplined non-determinism",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

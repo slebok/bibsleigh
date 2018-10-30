@@ -1,6 +1,7 @@
 {
 	"author": "David M. Jackson",
 	"booktitle": "Proceedings of the ACM SIGIR Information Storage and Retrieval Symposium",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1971/P217.pdf",
 	"crossref": "conf/sigir/71",
 	"dblpkey": "conf/sigir/Jackson71",
@@ -8,8 +9,16 @@
 	"ee": "http://doi.acm.org/10.1145/511285.511309",
 	"pages": "217-224",
 	"publisher": "ACM",
-	"stemmed": ["optim", "classif", "and", "it", "consequ"],
-	"tag": ["classification"],
+	"stemmed": [
+		"optim",
+		"classif",
+		"and",
+		"it",
+		"consequ"
+	],
+	"tag": [
+		"classification"
+	],
 	"title": "Optimal Classification and Its Consequences",
 	"type": "inproceedings",
 	"venue": "SIGIR",

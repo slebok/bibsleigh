@@ -1,14 +1,27 @@
 {
-	"author": ["David Detlefs", "Christine H. Flood", "Steve Heller", "Tony Printezis"],
-	"booktitle": "ISMM",
+	"author": [
+		"David Detlefs",
+		"Christine H. Flood",
+		"Steve Heller",
+		"Tony Printezis"
+	],
+	"booktitle": "Proceedings of the Fourth International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2004",
 	"dblpkey": "conf/iwmm/DetlefsFHP04",
 	"doi": "10.1145/1029873.1029879",
 	"ee": "http://doi.acm.org/10.1145/1029873.1029879",
 	"pages": "37-48",
 	"publisher": "ACM",
-	"stemmed": ["garbag", "first", "garbag", "collect"],
-	"tag": ["garbage collection"],
+	"stemmed": [
+		"garbag",
+		"first",
+		"garbag",
+		"collect"
+	],
+	"tag": [
+		"garbage collection"
+	],
 	"title": "Garbage-first garbage collection",
 	"type": "inproceedings",
 	"venue": "ISMM",

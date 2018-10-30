@@ -1,14 +1,34 @@
 {
-	"author": ["Vikas C. Raykar", "Balaji Krishnapuram", "Shipeng Yu"],
-	"booktitle": "KDD",
+	"author": [
+		"Vikas C. Raykar",
+		"Balaji Krishnapuram",
+		"Shipeng Yu"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/RaykarKY10",
 	"doi": "10.1145/1835804.1835912",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835912",
 	"pages": "853-860",
 	"publisher": "ACM",
-	"stemmed": ["design", "effici", "cascad", "classifi", "tradeoff", "between", "accuraci", "and", "cost"],
-	"tag": ["classification", "design", "performance", "trade-off"],
+	"stemmed": [
+		"design",
+		"effici",
+		"cascad",
+		"classifi",
+		"tradeoff",
+		"between",
+		"accuraci",
+		"and",
+		"cost"
+	],
+	"tag": [
+		"classification",
+		"design",
+		"performance",
+		"trade-off"
+	],
 	"title": "Designing efficient cascaded classifiers: tradeoff between accuracy and cost",
 	"type": "inproceedings",
 	"venue": "KDD",

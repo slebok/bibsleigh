@@ -1,6 +1,9 @@
 {
-	"author": ["Jayanta Mondal", "Amol Deshpande"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jayanta Mondal",
+		"Amol Deshpande"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/MondalD14",
@@ -8,8 +11,26 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2612182",
 	"pages": "1335-1346",
 	"publisher": "ACM",
-	"stemmed": ["ea", "gr", "support", "continu", "ego", "centric", "aggreg", "queri", "over", "larg", "dynam", "graph"],
-	"tag": ["graph", "named", "query", "scalability"],
+	"stemmed": [
+		"ea",
+		"gr",
+		"support",
+		"continu",
+		"ego",
+		"centric",
+		"aggreg",
+		"queri",
+		"over",
+		"larg",
+		"dynam",
+		"graph"
+	],
+	"tag": [
+		"graph",
+		"named",
+		"query",
+		"scalability"
+	],
 	"title": "EAGr: supporting continuous ego-centric aggregate queries over large dynamic graphs",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

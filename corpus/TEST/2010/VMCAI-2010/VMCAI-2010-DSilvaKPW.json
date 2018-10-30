@@ -1,6 +1,12 @@
 {
-	"author": ["Vijay D'Silva", "Daniel Kröning", "Mitra Purandare", "Georg Weissenbacher"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Vijay D'Silva",
+		"Daniel Kröning",
+		"Mitra Purandare",
+		"Georg Weissenbacher"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2010",
 	"dblpkey": "conf/vmcai/DSilvaKPW10",
 	"doi": "10.1007/978-3-642-11319-2_12",
@@ -10,10 +16,13 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["interpol", "strength"],
+	"stemmed": [
+		"interpol",
+		"strength"
+	],
 	"title": "Interpolant Strength",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 5944,
+	"volume": "5944",
 	"year": 2010
 }

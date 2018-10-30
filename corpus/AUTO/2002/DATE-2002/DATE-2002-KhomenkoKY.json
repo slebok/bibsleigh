@@ -1,16 +1,39 @@
 {
-	"acmid": 874504,
-	"author": ["Victor Khomenko", "Maciej Koutny", "Alexandre Yakovlev"],
-	"booktitle": "DATE",
+	"acmid": "874504",
+	"author": [
+		"Victor Khomenko",
+		"Maciej Koutny",
+		"Alexandre Yakovlev"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2002",
 	"dblpkey": "conf/date/KhomenkoKY02",
 	"doi": "10.1109/DATE.2002.998295",
-	"ee": ["http://doi.ieeecomputersociety.org/10.1109/DATE.2002.998295", "http://dl.acm.org/citation.cfm?id=874504"],
+	"ee": [
+		"http://doi.ieeecomputersociety.org/10.1109/DATE.2002.998295",
+		"http://dl.acm.org/citation.cfm?id=874504"
+	],
 	"pages": "338-345",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["detect", "state", "code", "conflict", "in", "stgs", "use", "integ", "program"],
-	"tag": ["detection", "integer", "programming", "using"],
+	"stemmed": [
+		"detect",
+		"state",
+		"code",
+		"conflict",
+		"in",
+		"stgs",
+		"use",
+		"integ",
+		"program"
+	],
+	"tag": [
+		"detection",
+		"integer",
+		"programming",
+		"using"
+	],
 	"title": "Detecting State Coding Conflicts in STGs Using Integer Programming",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,14 +1,41 @@
 {
-	"author": ["Per-Åke Larson", "H. Z. Yang"],
-	"booktitle": "VLDB",
-	"cite": ["conf/vldb/AdibaL80", "journals/siamcomp/AhoSU79", "journals/tods/AstrahanBCEGGKLMMPTWW76", "journals/tods/Babb82", "...", "books/mg/CeriP84", "conf/sigmod/Finkelstein82", "books/cs/Maier83", "conf/vldb/RosenkrantzH80", "journals/tods/Roussopoulos82", "journals/jacm/SagivY80", "...", "journals/tods/StonebrakerWKH76", "books/cs/Ullman82"],
+	"author": [
+		"Per-Åke Larson",
+		"H. Z. Yang"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/vldb/AdibaL80",
+		"journals/siamcomp/AhoSU79",
+		"journals/tods/AstrahanBCEGGKLMMPTWW76",
+		"journals/tods/Babb82",
+		"...",
+		"books/mg/CeriP84",
+		"conf/sigmod/Finkelstein82",
+		"books/cs/Maier83",
+		"conf/vldb/RosenkrantzH80",
+		"journals/tods/Roussopoulos82",
+		"journals/jacm/SagivY80",
+		"...",
+		"journals/tods/StonebrakerWKH76",
+		"books/cs/Ullman82"
+	],
 	"crossref": "conf/vldb/85",
 	"dblpkey": "conf/vldb/LarsonY85",
 	"ee": "http://www.vldb.org/conf/1985/P259.PDF",
 	"pages": "259-269",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["comput", "queri", "from", "deriv", "relat"],
-	"tag": ["query"],
+	"stemmed": [
+		"comput",
+		"queri",
+		"from",
+		"deriv",
+		"relat"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Computing Queries from Derived Relations",
 	"type": "inproceedings",
 	"venue": "VLDB",

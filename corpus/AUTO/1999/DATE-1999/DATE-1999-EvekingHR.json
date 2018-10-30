@@ -1,6 +1,11 @@
 {
-	"author": ["Hans Eveking", "Holger Hinrichsen", "Gerd Ritter"],
-	"booktitle": "DATE",
+	"author": [
+		"Hans Eveking",
+		"Holger Hinrichsen",
+		"Gerd Ritter"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/EvekingHR99",
 	"doi": "10.1109/DATE.1999.761097",
@@ -8,8 +13,23 @@
 	"pages": "59-64",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["automat", "verif", "of", "schedul", "result", "in", "high", "level", "synthesi"],
-	"tag": ["automation", "scheduling", "synthesis", "verification"],
+	"stemmed": [
+		"automat",
+		"verif",
+		"of",
+		"schedul",
+		"result",
+		"in",
+		"high",
+		"level",
+		"synthesi"
+	],
+	"tag": [
+		"automation",
+		"scheduling",
+		"synthesis",
+		"verification"
+	],
 	"title": "Automatic Verification of Scheduling Results in High-Level Synthesis",
 	"type": "inproceedings",
 	"venue": "DATE",

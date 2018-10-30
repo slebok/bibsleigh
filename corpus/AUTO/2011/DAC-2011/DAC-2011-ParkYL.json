@@ -1,14 +1,34 @@
 {
-	"author": ["Hyunsun Park", "Sungjoo Yoo", "Sunggu Lee"],
-	"booktitle": "DAC",
+	"author": [
+		"Hyunsun Park",
+		"Sungjoo Yoo",
+		"Sunggu Lee"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/ParkYL11",
 	"doi": "10.1145/2024724.2024738",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024738",
 	"pages": "59-64",
 	"publisher": "ACM",
-	"stemmed": ["power", "manag", "of", "hybrid", "dram", "pram", "base", "main", "memori"],
-	"tag": ["hybrid", "in memory", "memory management", "power management"],
+	"stemmed": [
+		"power",
+		"manag",
+		"of",
+		"hybrid",
+		"dram",
+		"pram",
+		"base",
+		"main",
+		"memori"
+	],
+	"tag": [
+		"hybrid",
+		"in memory",
+		"memory management",
+		"power management"
+	],
 	"title": "Power management of hybrid DRAM/PRAM-based main memory",
 	"type": "inproceedings",
 	"venue": "DAC",

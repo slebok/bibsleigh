@@ -1,13 +1,37 @@
 {
-	"author": ["Muli Ben-Yehuda", "Michael D. Day", "Zvi Dubitzky", "Michael Factor", "Nadav Har'El", "Abel Gordon", "Anthony Liguori", "Orit Wasserman", "Ben-Ami Yassour"],
-	"booktitle": "OSDI",
+	"author": [
+		"Muli Ben-Yehuda",
+		"Michael D. Day",
+		"Zvi Dubitzky",
+		"Michael Factor",
+		"Nadav Har'El",
+		"Abel Gordon",
+		"Anthony Liguori",
+		"Orit Wasserman",
+		"Ben-Ami Yassour"
+	],
+	"booktitle": "Proceedings of the Ninth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2010",
 	"dblpkey": "conf/osdi/Ben-YehudaDDFHGLWY10",
 	"ee": "http://www.usenix.org/events/osdi10/tech/full_papers/Ben-Yehuda.pdf",
 	"pages": "423-436",
 	"publisher": "USENIX Association",
-	"stemmed": ["the", "turtl", "project", "design", "and", "implement", "of", "nest", "virtual"],
-	"tag": ["design", "implementation"],
+	"stemmed": [
+		"the",
+		"turtl",
+		"project",
+		"design",
+		"and",
+		"implement",
+		"of",
+		"nest",
+		"virtual"
+	],
+	"tag": [
+		"design",
+		"implementation"
+	],
 	"title": "The Turtles Project: Design and Implementation of Nested Virtualization",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,6 +1,12 @@
 {
-	"author": ["Jürgen Christ", "Evren Ermis", "Martin Schäf", "Thomas Wies"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Jürgen Christ",
+		"Evren Ermis",
+		"Martin Schäf",
+		"Thomas Wies"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2013",
 	"dblpkey": "conf/vmcai/ChristESW13",
 	"doi": "10.1007/978-3-642-35873-9_13",
@@ -10,11 +16,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["flow", "sensit", "fault", "local"],
-	"tag": ["fault", "locality"],
+	"stemmed": [
+		"flow",
+		"sensit",
+		"fault",
+		"local"
+	],
+	"tag": [
+		"fault",
+		"locality"
+	],
 	"title": "Flow-Sensitive Fault Localization",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 7737,
+	"volume": "7737",
 	"year": 2013
 }

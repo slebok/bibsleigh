@@ -1,14 +1,38 @@
 {
-	"author": ["Franco Fummi", "Giovanni Perbellini", "Paolo Gallo", "Massimo Poncino", "Stefano Martini", "Fabio Ricciato"],
-	"booktitle": "DAC",
+	"author": [
+		"Franco Fummi",
+		"Giovanni Perbellini",
+		"Paolo Gallo",
+		"Massimo Poncino",
+		"Stefano Martini",
+		"Fabio Ricciato"
+	],
+	"booktitle": "Proceedings of the 40th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2003",
 	"dblpkey": "conf/dac/FummiPGPMR03",
 	"doi": "10.1145/775832.775846",
 	"ee": "http://doi.acm.org/10.1145/775832.775846",
 	"pages": "42-47",
 	"publisher": "ACM",
-	"stemmed": ["a", "time", "accur", "model", "and", "simul", "environ", "for", "network", "embed", "system"],
-	"tag": ["embedded", "modelling", "simulation"],
+	"stemmed": [
+		"a",
+		"time",
+		"accur",
+		"model",
+		"and",
+		"simul",
+		"environ",
+		"for",
+		"network",
+		"embed",
+		"system"
+	],
+	"tag": [
+		"embedded",
+		"modelling",
+		"simulation"
+	],
 	"title": "A timing-accurate modeling and simulation environment for networked embedded systems",
 	"type": "inproceedings",
 	"venue": "DAC",

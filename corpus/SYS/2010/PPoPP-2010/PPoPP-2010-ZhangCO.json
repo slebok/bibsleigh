@@ -1,14 +1,29 @@
 {
-	"author": ["Yao Zhang", "Jonathan Cohen", "John D. Owens"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Yao Zhang",
+		"Jonathan Cohen",
+		"John D. Owens"
+	],
+	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/ZhangCO10",
 	"doi": "10.1145/1693453.1693472",
 	"ee": "http://doi.acm.org/10.1145/1693453.1693472",
 	"pages": "127-136",
 	"publisher": "ACM",
-	"stemmed": ["fast", "tridiagon", "solver", "on", "the", "gpu"],
-	"tag": ["gpu", "performance"],
+	"stemmed": [
+		"fast",
+		"tridiagon",
+		"solver",
+		"on",
+		"the",
+		"gpu"
+	],
+	"tag": [
+		"gpu",
+		"performance"
+	],
 	"title": "Fast tridiagonal solvers on the GPU",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,14 +1,34 @@
 {
-	"author": ["Akshay Gadde", "Aamir Anis", "Antonio Ortega"],
-	"booktitle": "KDD",
+	"author": [
+		"Akshay Gadde",
+		"Aamir Anis",
+		"Antonio Ortega"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/GaddeAO14",
 	"doi": "10.1145/2623330.2623760",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623760",
 	"pages": "492-501",
 	"publisher": "ACM",
-	"stemmed": ["activ", "semi", "supervis", "learn", "use", "sampl", "theori", "for", "graph", "signal"],
-	"tag": ["graph", "learning", "using"],
+	"stemmed": [
+		"activ",
+		"semi",
+		"supervis",
+		"learn",
+		"use",
+		"sampl",
+		"theori",
+		"for",
+		"graph",
+		"signal"
+	],
+	"tag": [
+		"graph",
+		"learning",
+		"using"
+	],
 	"title": "Active semi-supervised learning using sampling theory for graph signals",
 	"type": "inproceedings",
 	"venue": "KDD",

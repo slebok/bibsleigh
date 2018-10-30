@@ -1,6 +1,14 @@
 {
-	"author": ["Todd Deshane", "Wenjin Hu", "Patty Jablonski", "Hai Lin", "Christopher Lynch", "Ralph Eric McGregor"],
-	"booktitle": "CADE",
+	"author": [
+		"Todd Deshane",
+		"Wenjin Hu",
+		"Patty Jablonski",
+		"Hai Lin",
+		"Christopher Lynch",
+		"Ralph Eric McGregor"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2007",
 	"dblpkey": "conf/cade/DeshaneHJLLM07",
 	"doi": "10.1007/978-3-540-73595-3_35",
@@ -10,11 +18,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["encod", "first", "order", "proof", "in", "sat"],
-	"tag": ["encoding", "first-order", "proving", "satisfiability"],
+	"stemmed": [
+		"encod",
+		"first",
+		"order",
+		"proof",
+		"in",
+		"sat"
+	],
+	"tag": [
+		"encoding",
+		"first-order",
+		"proving",
+		"satisfiability"
+	],
 	"title": "Encoding First Order Proofs in SAT",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 4603,
+	"volume": "4603",
 	"year": 2007
 }

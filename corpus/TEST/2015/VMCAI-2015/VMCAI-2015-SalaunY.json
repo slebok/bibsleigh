@@ -1,6 +1,10 @@
 {
-	"author": ["Gwen Salaün", "Lina Ye"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Gwen Salaün",
+		"Lina Ye"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2015",
 	"dblpkey": "conf/vmcai/SalaunY15",
 	"doi": "10.1007/978-3-662-46081-8_14",
@@ -10,11 +14,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["debug", "process", "algebra", "specif"],
-	"tag": ["algebra", "debugging", "process", "specification"],
+	"stemmed": [
+		"debug",
+		"process",
+		"algebra",
+		"specif"
+	],
+	"tag": [
+		"algebra",
+		"debugging",
+		"process",
+		"specification"
+	],
 	"title": "Debugging Process Algebra Specifications",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 8931,
+	"volume": "8931",
 	"year": 2015
 }

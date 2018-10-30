@@ -1,14 +1,28 @@
 {
-	"author": ["Hana Chockler", "Daniel Kröning", "Mitra Purandare"],
-	"booktitle": "DAC",
+	"author": [
+		"Hana Chockler",
+		"Daniel Kröning",
+		"Mitra Purandare"
+	],
+	"booktitle": "Proceedings of the 47th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2010",
 	"dblpkey": "conf/dac/ChocklerKP10",
 	"doi": "10.1145/1837274.1837320",
 	"ee": "http://doi.acm.org/10.1145/1837274.1837320",
 	"pages": "182-187",
 	"publisher": "ACM",
-	"stemmed": ["coverag", "in", "interpol", "base", "model", "check"],
-	"tag": ["model checking"],
+	"stemmed": [
+		"coverag",
+		"in",
+		"interpol",
+		"base",
+		"model",
+		"check"
+	],
+	"tag": [
+		"model checking"
+	],
 	"title": "Coverage in interpolation-based model checking",
 	"type": "inproceedings",
 	"venue": "DAC",

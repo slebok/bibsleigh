@@ -1,13 +1,35 @@
 {
-	"author": ["Reza Sadri", "Carlo Zaniolo", "Amir M. Zarkesh", "Jafar Adibi"],
-	"booktitle": "PODS",
+	"author": [
+		"Reza Sadri",
+		"Carlo Zaniolo",
+		"Amir M. Zarkesh",
+		"Jafar Adibi"
+	],
+	"booktitle": "Proceedings of the 20th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2001",
 	"dblpkey": "conf/pods/SadriZZA01",
 	"doi": "10.1145/375551.375563",
-	"ee": ["http://doi.acm.org/10.1145/375551.375563", "http://www.acm.org/sigs/sigmod/pods/proc01/online/p73.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/375551.375563",
+		"http://www.acm.org/sigs/sigmod/pods/proc01/online/p73.pdf"
+	],
 	"publisher": "ACM",
-	"stemmed": ["optim", "of", "sequenc", "queri", "in", "databas", "system"],
-	"tag": ["database", "optimisation", "query", "sequence"],
+	"stemmed": [
+		"optim",
+		"of",
+		"sequenc",
+		"queri",
+		"in",
+		"databas",
+		"system"
+	],
+	"tag": [
+		"database",
+		"optimisation",
+		"query",
+		"sequence"
+	],
 	"title": "Optimization of Sequence Queries in Database Systems",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,6 +1,14 @@
 {
-	"author": ["Inah Omoronyia", "Guttorm Sindre", "Tor Stålhane", "Stefan Biffl", "Thomas Moser", "Wikan Danar Sunindyo"],
-	"booktitle": "REFSQ",
+	"author": [
+		"Inah Omoronyia",
+		"Guttorm Sindre",
+		"Tor Stålhane",
+		"Stefan Biffl",
+		"Thomas Moser",
+		"Wikan Danar Sunindyo"
+	],
+	"booktitle": "Proceedings of the 16th International Working Conference on Requirements Engineering: Foundation for Software Quality",
+	"booktitleshort": "REFSQ",
 	"crossref": "conf/refsq/2010",
 	"dblpkey": "conf/refsq/OmoronyiaSSBMS10",
 	"doi": "10.1007/978-3-642-14192-8_18",
@@ -9,11 +17,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "domain", "ontolog", "build", "process", "for", "guid", "requir", "elicit"],
-	"tag": ["elicitation", "ontology", "process", "requirements"],
+	"stemmed": [
+		"a",
+		"domain",
+		"ontolog",
+		"build",
+		"process",
+		"for",
+		"guid",
+		"requir",
+		"elicit"
+	],
+	"tag": [
+		"elicitation",
+		"ontology",
+		"process",
+		"requirements"
+	],
 	"title": "A Domain Ontology Building Process for Guiding Requirements Elicitation",
 	"type": "inproceedings",
 	"venue": "REFSQ",
-	"volume": 6182,
+	"volume": "6182",
 	"year": 2010
 }

@@ -1,6 +1,12 @@
 {
-	"author": ["George Nagy", "David W. Embley", "Mukkai S. Krishnamoorthy", "Sharad C. Seth"],
-	"booktitle": "DRR",
+	"author": [
+		"George Nagy",
+		"David W. Embley",
+		"Mukkai S. Krishnamoorthy",
+		"Sharad C. Seth"
+	],
+	"booktitle": "Proceedings of the 22nd Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2015",
 	"dblpkey": "conf/drr/NagyEKS15",
 	"doi": "10.1117/12.2076209",
@@ -8,11 +14,23 @@
 	"pages": "94020M",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["cluster", "header", "categori", "extract", "from", "web", "tabl"],
-	"tag": ["category theory", "clustering", "web"],
+	"stemmed": [
+		"cluster",
+		"header",
+		"categori",
+		"extract",
+		"from",
+		"web",
+		"tabl"
+	],
+	"tag": [
+		"category theory",
+		"clustering",
+		"web"
+	],
 	"title": "Clustering header categories extracted from web tables",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 9402,
+	"volume": "9402",
 	"year": 2015
 }

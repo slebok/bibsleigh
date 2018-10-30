@@ -1,13 +1,30 @@
 {
-	"author": ["Klaus Berberich", "Srikanta J. Bedathur", "Thomas Neumann", "Gerhard Weikum"],
-	"booktitle": "VLDB",
+	"author": [
+		"Klaus Berberich",
+		"Srikanta J. Bedathur",
+		"Thomas Neumann",
+		"Gerhard Weikum"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/BerberichBNW07",
 	"ee": "http://www.vldb.org/conf/2007/papers/demo/p1414-berberich.pdf",
 	"pages": "1414-1417",
 	"publisher": "ACM",
-	"stemmed": ["flux", "capacitor", "effici", "time", "travel", "text", "search"],
-	"tag": ["named", "performance"],
+	"stemmed": [
+		"flux",
+		"capacitor",
+		"effici",
+		"time",
+		"travel",
+		"text",
+		"search"
+	],
+	"tag": [
+		"named",
+		"performance"
+	],
 	"title": "FluxCapacitor: Efficient Time-Travel Text Search",
 	"type": "inproceedings",
 	"venue": "VLDB",

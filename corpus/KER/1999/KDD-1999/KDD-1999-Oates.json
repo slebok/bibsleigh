@@ -1,14 +1,30 @@
 {
 	"author": "Tim Oates",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the Fifth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1999",
 	"dblpkey": "conf/kdd/Oates99",
 	"doi": "10.1145/312129.312268",
 	"ee": "http://doi.acm.org/10.1145/312129.312268",
 	"pages": "322-326",
 	"publisher": "ACM",
-	"stemmed": ["identifi", "distinct", "subsequ", "in", "multivari", "time", "seri", "by", "cluster"],
-	"tag": ["clustering", "identification", "multi", "sequence"],
+	"stemmed": [
+		"identifi",
+		"distinct",
+		"subsequ",
+		"in",
+		"multivari",
+		"time",
+		"seri",
+		"by",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"identification",
+		"multi",
+		"sequence"
+	],
 	"title": "Identifying Distinctive Subsequences in Multivariate Time Series by Clustering",
 	"type": "inproceedings",
 	"venue": "KDD",

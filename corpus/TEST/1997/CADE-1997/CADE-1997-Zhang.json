@@ -1,6 +1,7 @@
 {
 	"author": "Hantao Zhang",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
 	"dblpkey": "conf/cade/Zhang97",
 	"doi": "10.1007/3-540-63104-6_28",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["sato", "an", "effici", "proposit", "prover"],
-	"tag": ["named", "performance", "proving"],
+	"stemmed": [
+		"sato",
+		"an",
+		"effici",
+		"proposit",
+		"prover"
+	],
+	"tag": [
+		"named",
+		"performance",
+		"proving"
+	],
 	"title": "SATO: An Efficient Propositional Prover",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1249,
+	"volume": "1249",
 	"year": 1997
 }

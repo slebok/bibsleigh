@@ -1,6 +1,11 @@
 {
-	"author": ["Yan Zheng", "Jeffrey Jestes", "Jeff M. Phillips", "Feifei Li"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yan Zheng",
+		"Jeffrey Jestes",
+		"Jeff M. Phillips",
+		"Feifei Li"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/ZhengJPL13",
@@ -8,8 +13,24 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465319",
 	"pages": "433-444",
 	"publisher": "ACM",
-	"stemmed": ["qualiti", "and", "effici", "for", "kernel", "densiti", "estim", "in", "larg", "data"],
-	"tag": ["kernel", "performance", "quality", "scalability"],
+	"stemmed": [
+		"qualiti",
+		"and",
+		"effici",
+		"for",
+		"kernel",
+		"densiti",
+		"estim",
+		"in",
+		"larg",
+		"data"
+	],
+	"tag": [
+		"kernel",
+		"performance",
+		"quality",
+		"scalability"
+	],
 	"title": "Quality and efficiency for kernel density estimates in large data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,31 @@
 {
-	"author": ["Pierre Salverda", "Charles Tucker", "Craig B. Zilles"],
-	"booktitle": "CGO",
+	"author": [
+		"Pierre Salverda",
+		"Charles Tucker",
+		"Craig B. Zilles"
+	],
+	"booktitle": "Proceedings of the Sixth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2008",
 	"dblpkey": "conf/cgo/SalverdakZ08",
 	"doi": "10.1145/1356058.1356068",
 	"ee": "http://doi.acm.org/10.1145/1356058.1356068",
 	"pages": "64-73",
 	"publisher": "ACM",
-	"stemmed": ["accur", "critic", "path", "predict", "via", "random", "trace", "construct"],
-	"tag": ["predict", "random"],
+	"stemmed": [
+		"accur",
+		"critic",
+		"path",
+		"predict",
+		"via",
+		"random",
+		"trace",
+		"construct"
+	],
+	"tag": [
+		"predict",
+		"random"
+	],
 	"title": "Accurate critical path prediction via random trace construction",
 	"type": "inproceedings",
 	"venue": "CGO",

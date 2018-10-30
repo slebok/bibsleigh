@@ -1,13 +1,33 @@
 {
-	"author": ["Osbert Bastani", "Saswat Anand", "Alex Aiken"],
-	"booktitle": "OOPSLA",
+	"author": [
+		"Osbert Bastani",
+		"Saswat Anand",
+		"Alex Aiken"
+	],
+	"booktitle": "Proceedings of the 30th Conference on Object-Oriented Programming, Systems, Languages and Applications",
+	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2015",
 	"dblpkey": "conf/oopsla/BastaniAA15",
 	"doi": "10.1145/2814270.2814274",
 	"pages": "299-315",
 	"publisher": "ACM",
-	"stemmed": ["interact", "verifi", "absenc", "of", "explicit", "inform", "flow", "in", "android", "app"],
-	"tag": ["android", "data flow", "verification"],
+	"stemmed": [
+		"interact",
+		"verifi",
+		"absenc",
+		"of",
+		"explicit",
+		"inform",
+		"flow",
+		"in",
+		"android",
+		"app"
+	],
+	"tag": [
+		"android",
+		"data flow",
+		"verification"
+	],
 	"title": "Interactively verifying absence of explicit information flows in Android apps",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

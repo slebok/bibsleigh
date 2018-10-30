@@ -1,14 +1,30 @@
 {
-	"author": ["Viktor S. Lapinskii", "Margarida F. Jacome", "Gustavo de Veciana"],
-	"booktitle": "DAC",
+	"author": [
+		"Viktor S. Lapinskii",
+		"Margarida F. Jacome",
+		"Gustavo de Veciana"
+	],
+	"booktitle": "Proceedings of the 38th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2001",
 	"dblpkey": "conf/dac/LapinskiiJV01",
 	"doi": "10.1145/378239.379051",
 	"ee": "http://doi.acm.org/10.1145/378239.379051",
 	"pages": "702-707",
 	"publisher": "ACM",
-	"stemmed": ["high", "qualiti", "oper", "bind", "for", "cluster", "vliw", "datapath"],
-	"tag": ["clustering"],
+	"stemmed": [
+		"high",
+		"qualiti",
+		"oper",
+		"bind",
+		"for",
+		"cluster",
+		"vliw",
+		"datapath"
+	],
+	"tag": [
+		"clustering"
+	],
 	"title": "High-Quality Operation Binding for Clustered VLIW Datapaths",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,6 +1,7 @@
 {
 	"author": "Tomás E. Uribe",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/Uribe92",
 	"doi": "10.1007/3-540-55602-8_163",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["sort", "unif", "use", "set", "constraint"],
-	"tag": ["constraints", "set", "unification", "using"],
+	"stemmed": [
+		"sort",
+		"unif",
+		"use",
+		"set",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"set",
+		"unification",
+		"using"
+	],
 	"title": "Sorted Unification Using Set Constraints",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

@@ -1,13 +1,33 @@
 {
-	"author": ["Jorge-Arnulfo Quiané-Ruiz", "Philippe Lamarre", "Patrick Valduriez"],
-	"booktitle": "VLDB",
+	"author": [
+		"Jorge-Arnulfo Quiané-Ruiz",
+		"Philippe Lamarre",
+		"Patrick Valduriez"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/Quiane-RuizLV07",
 	"ee": "http://www.vldb.org/conf/2007/papers/research/p974-quiane.pdf",
 	"pages": "974-985",
 	"publisher": "ACM",
-	"stemmed": ["sqlb", "a", "queri", "alloc", "framework", "for", "autonom", "consum", "and", "provid"],
-	"tag": ["framework", "named", "query"],
+	"stemmed": [
+		"sqlb",
+		"a",
+		"queri",
+		"alloc",
+		"framework",
+		"for",
+		"autonom",
+		"consum",
+		"and",
+		"provid"
+	],
+	"tag": [
+		"framework",
+		"named",
+		"query"
+	],
 	"title": "SQLB: A Query Allocation Framework for Autonomous Consumers and Providers",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,16 +1,48 @@
 {
-	"author": ["David Maier", "David Scott Warren"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"David Maier",
+		"David Scott Warren"
+	],
+	"booktitle": "Proceedings of the 12th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD82/P001.PDF",
-	"cite": ["...", "conf/pods/BeeriK82", "...", "journals/jacm/Honeyman82", "...", "journals/tods/KorthKFGU84", "...", "conf/sigmod/MaierRSSW82", "journals/tods/MaierU83", "conf/sigmod/Sagiv81", "journals/tods/Sagiv83", "...", "journals/tods/SmithS77", "conf/vldb/Vassiliou80", "conf/vldb/Yannakakis81"],
+	"cite": [
+		"...",
+		"conf/pods/BeeriK82",
+		"...",
+		"journals/jacm/Honeyman82",
+		"...",
+		"journals/tods/KorthKFGU84",
+		"...",
+		"conf/sigmod/MaierRSSW82",
+		"journals/tods/MaierU83",
+		"conf/sigmod/Sagiv81",
+		"journals/tods/Sagiv83",
+		"...",
+		"journals/tods/SmithS77",
+		"conf/vldb/Vassiliou80",
+		"conf/vldb/Yannakakis81"
+	],
 	"crossref": "conf/sigmod/82",
 	"dblpkey": "conf/sigmod/MaierW82",
 	"doi": "10.1145/582353.582355",
 	"ee": "http://doi.acm.org/10.1145/582353.582355",
 	"pages": "1-7",
 	"publisher": "ACM Press",
-	"stemmed": ["specifi", "connect", "for", "a", "univers", "relat", "scheme", "databas"],
-	"tag": ["database", "specification"],
+	"stemmed": [
+		"specifi",
+		"connect",
+		"for",
+		"a",
+		"univers",
+		"relat",
+		"scheme",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"specification"
+	],
 	"title": "Specifying Connections for a Universal Relation Scheme Database",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

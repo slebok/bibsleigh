@@ -1,6 +1,11 @@
 {
-	"author": ["Seth J. White", "R. G. G. Cattell", "Sheldon J. Finkelstein"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Seth J. White",
+		"R. G. G. Cattell",
+		"Sheldon J. Finkelstein"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD98/P504.PDF",
 	"crossref": "conf/sigmod/98",
 	"dblpkey": "conf/sigmod/WhiteCF98",
@@ -8,8 +13,19 @@
 	"ee": "http://doi.acm.org/10.1145/276304.276355",
 	"pages": "504-505",
 	"publisher": "ACM Press",
-	"stemmed": ["enterpris", "java", "platform", "data", "access"],
-	"tag": ["data access", "enterprise", "framework", "java"],
+	"stemmed": [
+		"enterpris",
+		"java",
+		"platform",
+		"data",
+		"access"
+	],
+	"tag": [
+		"data access",
+		"enterprise",
+		"framework",
+		"java"
+	],
 	"title": "Enterprise Java Platform Data Access",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

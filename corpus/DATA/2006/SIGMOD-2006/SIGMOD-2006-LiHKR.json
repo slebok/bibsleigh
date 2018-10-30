@@ -1,6 +1,11 @@
 {
-	"author": ["Feifei Li", "Marios Hadjieleftheriou", "George Kollios", "Leonid Reyzin"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Feifei Li",
+		"Marios Hadjieleftheriou",
+		"George Kollios",
+		"Leonid Reyzin"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/LiHKR06",
@@ -8,8 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142488",
 	"pages": "121-132",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "authent", "index", "structur", "for", "outsourc", "databas"],
-	"tag": ["authentication", "database", "outsourcing"],
+	"stemmed": [
+		"dynam",
+		"authent",
+		"index",
+		"structur",
+		"for",
+		"outsourc",
+		"databas"
+	],
+	"tag": [
+		"authentication",
+		"database",
+		"outsourcing"
+	],
 	"title": "Dynamic authenticated index structures for outsourced databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,36 @@
 {
-	"author": ["Wenlei Xie", "David Bindel", "Alan J. Demers", "Johannes Gehrke"],
-	"booktitle": "KDD",
+	"author": [
+		"Wenlei Xie",
+		"David Bindel",
+		"Alan J. Demers",
+		"Johannes Gehrke"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/XieBDG15",
 	"doi": "10.1145/2783258.2783278",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783278",
 	"pages": "1325-1334",
 	"publisher": "ACM",
-	"stemmed": ["edg", "weight", "person", "page", "rank", "break", "a", "decad", "old", "perform", "barrier"],
-	"tag": ["performance", "personalisation", "rank"],
+	"stemmed": [
+		"edg",
+		"weight",
+		"person",
+		"page",
+		"rank",
+		"break",
+		"a",
+		"decad",
+		"old",
+		"perform",
+		"barrier"
+	],
+	"tag": [
+		"performance",
+		"personalisation",
+		"rank"
+	],
 	"title": "Edge-Weighted Personalized PageRank: Breaking A Decade-Old Performance Barrier",
 	"type": "inproceedings",
 	"venue": "KDD",

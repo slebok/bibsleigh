@@ -1,13 +1,34 @@
 {
-	"author": ["Enrico Franconi", "Gabriel M. Kuper", "Andrei Lopatenko", "Ilya Zaihrayeu"],
-	"booktitle": "VLDB",
+	"author": [
+		"Enrico Franconi",
+		"Gabriel M. Kuper",
+		"Andrei Lopatenko",
+		"Ilya Zaihrayeu"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/FranconiKLZ04",
 	"ee": "http://www.vldb.org/conf/2004/DEMP7.PDF",
 	"pages": "1277-1280",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["queri", "and", "updat", "in", "the", "codb", "peer", "to", "peer", "databas", "system"],
-	"tag": ["database", "query"],
+	"stemmed": [
+		"queri",
+		"and",
+		"updat",
+		"in",
+		"the",
+		"codb",
+		"peer",
+		"to",
+		"peer",
+		"databas",
+		"system"
+	],
+	"tag": [
+		"database",
+		"query"
+	],
 	"title": "Queries and Updates in the coDB Peer to Peer Database System",
 	"type": "inproceedings",
 	"venue": "VLDB",

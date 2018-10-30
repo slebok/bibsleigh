@@ -1,14 +1,29 @@
 {
-	"author": ["Tamás Horváth", "Jan Ramon", "Stefan Wrobel"],
-	"booktitle": "KDD",
+	"author": [
+		"Tamás Horváth",
+		"Jan Ramon",
+		"Stefan Wrobel"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/HorvathRW06",
 	"doi": "10.1145/1150402.1150427",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150427",
 	"pages": "197-206",
 	"publisher": "ACM",
-	"stemmed": ["frequent", "subgraph", "mine", "in", "outerplanar", "graph"],
-	"tag": ["graph", "mining"],
+	"stemmed": [
+		"frequent",
+		"subgraph",
+		"mine",
+		"in",
+		"outerplanar",
+		"graph"
+	],
+	"tag": [
+		"graph",
+		"mining"
+	],
 	"title": "Frequent subgraph mining in outerplanar graphs",
 	"type": "inproceedings",
 	"venue": "KDD",

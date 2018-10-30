@@ -1,6 +1,11 @@
 {
-	"author": ["Manish Verma", "Lars Wehmeyer", "Peter Marwedel"],
-	"booktitle": "DATE",
+	"author": [
+		"Manish Verma",
+		"Lars Wehmeyer",
+		"Peter Marwedel"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/VermaWM04",
 	"doi": "10.1109/DATE.2004.1269069",
@@ -8,8 +13,16 @@
 	"pages": "1264-1269",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["cach", "awar", "scratchpad", "alloc", "algorithm"],
-	"tag": ["algorithm"],
+	"stemmed": [
+		"cach",
+		"awar",
+		"scratchpad",
+		"alloc",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm"
+	],
 	"title": "Cache-Aware Scratchpad Allocation Algorithm",
 	"type": "inproceedings",
 	"venue": "DATE",

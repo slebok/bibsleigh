@@ -1,6 +1,17 @@
 {
-	"author": ["Xiaowei Jiang", "Niti Madan", "Li Zhao", "Mike Upton", "Ravishankar Iyer", "Srihari Makineni", "Donald Newell", "Yan Solihin", "Rajeev Balasubramonian"],
-	"booktitle": "HPCA",
+	"author": [
+		"Xiaowei Jiang",
+		"Niti Madan",
+		"Li Zhao",
+		"Mike Upton",
+		"Ravishankar Iyer",
+		"Srihari Makineni",
+		"Donald Newell",
+		"Yan Solihin",
+		"Rajeev Balasubramonian"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2010",
 	"dblpkey": "conf/hpca/JiangMZUIMNSB10",
 	"doi": "10.1109/HPCA.2010.5416642",
@@ -8,8 +19,22 @@
 	"pages": "1-12",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["chop", "adapt", "filter", "base", "dram", "cach", "for", "cmp", "server", "platform"],
-	"tag": ["adaptation", "named"],
+	"stemmed": [
+		"chop",
+		"adapt",
+		"filter",
+		"base",
+		"dram",
+		"cach",
+		"for",
+		"cmp",
+		"server",
+		"platform"
+	],
+	"tag": [
+		"adaptation",
+		"named"
+	],
 	"title": "CHOP: Adaptive filter-based DRAM caching for CMP server platforms",
 	"type": "inproceedings",
 	"venue": "HPCA",

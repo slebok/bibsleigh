@@ -1,6 +1,11 @@
 {
-	"author": ["Alessandro Bogliolo", "Luca Benini", "Giovanni De Micheli"],
-	"booktitle": "DATE",
+	"author": [
+		"Alessandro Bogliolo",
+		"Luca Benini",
+		"Giovanni De Micheli"
+	],
+	"booktitle": "Proceedings of the Third Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1998",
 	"dblpkey": "conf/date/BoglioloBM98",
 	"doi": "10.1109/DATE.1998.655945",
@@ -8,8 +13,17 @@
 	"pages": "767-773",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["character", "free", "behavior", "power", "model"],
-	"tag": ["behaviour", "modelling"],
+	"stemmed": [
+		"character",
+		"free",
+		"behavior",
+		"power",
+		"model"
+	],
+	"tag": [
+		"behaviour",
+		"modelling"
+	],
 	"title": "Characterization-Free Behavioral Power Modeling",
 	"type": "inproceedings",
 	"venue": "DATE",

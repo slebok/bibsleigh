@@ -1,13 +1,34 @@
 {
-	"author": ["Masao Sato", "Kazuto Kubota", "Tatsuo Ohtsuki"],
-	"booktitle": "DAC",
+	"author": [
+		"Masao Sato",
+		"Kazuto Kubota",
+		"Tatsuo Ohtsuki"
+	],
+	"booktitle": "Proceedings of the 27th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/SatoKO90",
 	"doi": "10.1145/123186.128298",
 	"ee": "http://doi.acm.org/10.1145/123186.128298",
 	"pages": "646-649",
 	"publisher": "IEEE Computer Society Press",
-	"stemmed": ["a", "hardwar", "implement", "of", "gridless", "rout", "base", "on", "content", "address", "memori"],
-	"tag": ["hardware", "implementation", "memory management"],
+	"stemmed": [
+		"a",
+		"hardwar",
+		"implement",
+		"of",
+		"gridless",
+		"rout",
+		"base",
+		"on",
+		"content",
+		"address",
+		"memori"
+	],
+	"tag": [
+		"hardware",
+		"implementation",
+		"memory management"
+	],
 	"title": "A Hardware Implementation of Gridless Routing Based on Content Addressable Memory",
 	"type": "inproceedings",
 	"venue": "DAC",

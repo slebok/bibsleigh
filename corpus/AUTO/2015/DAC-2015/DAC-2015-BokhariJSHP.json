@@ -1,14 +1,34 @@
 {
-	"author": ["Haseeb Bokhari", "Haris Javaid", "Muhammad Shafique", "Jörg Henkel", "Sri Parameswaran"],
-	"booktitle": "DAC",
+	"author": [
+		"Haseeb Bokhari",
+		"Haris Javaid",
+		"Muhammad Shafique",
+		"Jörg Henkel",
+		"Sri Parameswaran"
+	],
+	"booktitle": "Proceedings of the 52nd Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2015",
 	"dblpkey": "conf/dac/BokhariJSHP15",
 	"doi": "10.1145/2744769.2744912",
 	"ee": "http://doi.acm.org/10.1145/2744769.2744912",
 	"pages": "85:1-85:6",
 	"publisher": "ACM",
-	"stemmed": ["super", "net", "multimod", "interconnect", "architectur", "for", "manycor", "chip"],
-	"tag": ["architecture", "manycore", "named"],
+	"stemmed": [
+		"super",
+		"net",
+		"multimod",
+		"interconnect",
+		"architectur",
+		"for",
+		"manycor",
+		"chip"
+	],
+	"tag": [
+		"architecture",
+		"manycore",
+		"named"
+	],
 	"title": "SuperNet: multimode interconnect architecture for manycore chips",
 	"type": "inproceedings",
 	"venue": "DAC",

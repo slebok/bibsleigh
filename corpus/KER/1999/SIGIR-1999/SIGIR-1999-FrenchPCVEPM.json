@@ -1,6 +1,15 @@
 {
-	"author": ["James C. French", "Allison L. Powell", "James P. Callan", "Charles L. Viles", "Travis Emmitt", "Kevin J. Prey", "Yun Mou"],
+	"author": [
+		"James C. French",
+		"Allison L. Powell",
+		"James P. Callan",
+		"Charles L. Viles",
+		"Travis Emmitt",
+		"Kevin J. Prey",
+		"Yun Mou"
+	],
 	"booktitle": "Proceedings of the 22nd International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1999/P238.pdf",
 	"crossref": "conf/sigir/99",
 	"dblpkey": "conf/sigir/FrenchPCVEPM99",
@@ -8,8 +17,20 @@
 	"ee": "http://doi.acm.org/10.1145/312624.312684",
 	"pages": "238-245",
 	"publisher": "ACM",
-	"stemmed": ["compar", "the", "perform", "of", "databas", "select", "algorithm"],
-	"tag": ["algorithm", "database", "performance"],
+	"stemmed": [
+		"compar",
+		"the",
+		"perform",
+		"of",
+		"databas",
+		"select",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"database",
+		"performance"
+	],
 	"title": "Comparing the Performance of Database Selection Algorithms",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,6 +1,9 @@
 {
-	"author": ["Erwin Leonardi", "Sourav S. Bhowmick"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Erwin Leonardi",
+		"Sourav S. Bhowmick"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/LeonardiB07",
@@ -8,8 +11,29 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247633",
 	"pages": "1137-1140",
 	"publisher": "ACM",
-	"stemmed": ["xanadu", "a", "system", "for", "detect", "chang", "to", "xml", "data", "in", "tree", "unawar", "relat", "databas"],
-	"tag": ["database", "detection", "named", "relational", "xml"],
+	"stemmed": [
+		"xanadu",
+		"a",
+		"system",
+		"for",
+		"detect",
+		"chang",
+		"to",
+		"xml",
+		"data",
+		"in",
+		"tree",
+		"unawar",
+		"relat",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"detection",
+		"named",
+		"relational",
+		"xml"
+	],
 	"title": "XANADUE: a system for detecting changes to XML data in tree-unaware relational databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,11 @@
 {
-	"author": ["Werner Hans", "Fernando Sáenz", "Stephan Winkler"],
+	"author": [
+		"Werner Hans",
+		"Fernando Sáenz",
+		"Stephan Winkler"
+	],
 	"booktitle": "Proceedings of the Seventh International Symposium on Programming Languages: Implementations, Logics and Programs",
+	"booktitleshort": "PPDP",
 	"crossref": "conf/plilp/95",
 	"dblpkey": "conf/plilp/HansSW95",
 	"doi": "10.1007/BFb0026838",
@@ -10,11 +15,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "express", "or", "parallel", "implement", "for", "a", "function", "logic", "languag"],
-	"tag": ["functional", "implementation", "logic"],
+	"stemmed": [
+		"an",
+		"express",
+		"or",
+		"parallel",
+		"implement",
+		"for",
+		"a",
+		"function",
+		"logic",
+		"languag"
+	],
+	"tag": [
+		"functional",
+		"implementation",
+		"logic"
+	],
 	"title": "An Expression-Or-Parallel Implementation for a Functional Logic Language",
 	"type": "inproceedings",
 	"venue": "PPDP",
-	"volume": 982,
+	"volume": "982",
 	"year": 1995
 }

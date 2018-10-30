@@ -1,14 +1,36 @@
 {
-	"author": ["Jinze Liu", "Qi Zhang", "Wei Wang", "Leonard McMillan", "Jan Prins"],
-	"booktitle": "KDD",
+	"author": [
+		"Jinze Liu",
+		"Qi Zhang",
+		"Wei Wang",
+		"Leonard McMillan",
+		"Jan Prins"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/LiuZWMP06",
 	"doi": "10.1145/1150402.1150480",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150480",
 	"pages": "637-642",
 	"publisher": "ACM",
-	"stemmed": ["cluster", "pair", "wise", "dissimilar", "data", "into", "partial", "order", "set"],
-	"tag": ["clustering", "difference", "order", "set"],
+	"stemmed": [
+		"cluster",
+		"pair",
+		"wise",
+		"dissimilar",
+		"data",
+		"into",
+		"partial",
+		"order",
+		"set"
+	],
+	"tag": [
+		"clustering",
+		"difference",
+		"order",
+		"set"
+	],
 	"title": "Clustering pair-wise dissimilarity data into partially ordered sets",
 	"type": "inproceedings",
 	"venue": "KDD",

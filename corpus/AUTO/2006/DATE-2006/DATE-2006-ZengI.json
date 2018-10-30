@@ -1,14 +1,36 @@
 {
-	"author": ["Gang Zeng", "Hideo Ito"],
-	"booktitle": "DATE",
+	"author": [
+		"Gang Zeng",
+		"Hideo Ito"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2006p",
 	"dblpkey": "conf/date/ZengI06",
 	"doi": "10.1145/1131770",
 	"ee": "http://doi.acm.org/10.1145/1131770",
 	"pages": "1045-1050",
 	"publisher": "European Design and Automation Association, Leuven, Belgium",
-	"stemmed": ["concurr", "core", "test", "for", "soc", "use", "share", "test", "set", "and", "scan", "chain", "disabl"],
-	"tag": ["concurrent", "testing", "using"],
+	"stemmed": [
+		"concurr",
+		"core",
+		"test",
+		"for",
+		"soc",
+		"use",
+		"share",
+		"test",
+		"set",
+		"and",
+		"scan",
+		"chain",
+		"disabl"
+	],
+	"tag": [
+		"concurrent",
+		"testing",
+		"using"
+	],
 	"title": "Concurrent core test for SOC using shared test set and scan chain disable",
 	"type": "inproceedings",
 	"venue": "DATE",

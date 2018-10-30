@@ -1,14 +1,34 @@
 {
-	"author": ["Michael Mampaey", "Nikolaj Tatti", "Jilles Vreeken"],
-	"booktitle": "KDD",
+	"author": [
+		"Michael Mampaey",
+		"Nikolaj Tatti",
+		"Jilles Vreeken"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/MampaeyTV11",
 	"doi": "10.1145/2020408.2020499",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020499",
 	"pages": "573-581",
 	"publisher": "ACM",
-	"stemmed": ["tell", "me", "what", "i", "need", "to", "know", "succinct", "summar", "data", "with", "itemset"],
-	"tag": ["what"],
+	"stemmed": [
+		"tell",
+		"me",
+		"what",
+		"i",
+		"need",
+		"to",
+		"know",
+		"succinct",
+		"summar",
+		"data",
+		"with",
+		"itemset"
+	],
+	"tag": [
+		"what"
+	],
 	"title": "Tell me what i need to know: succinctly summarizing data with itemsets",
 	"type": "inproceedings",
 	"venue": "KDD",

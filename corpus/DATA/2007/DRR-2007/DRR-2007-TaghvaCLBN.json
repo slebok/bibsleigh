@@ -1,13 +1,32 @@
 {
-	"author": ["Kazem Taghva", "Allen Condit", "Steven E. Lumos", "Julie Borsack", "Thomas A. Nartker"],
-	"booktitle": "DRR",
+	"author": [
+		"Kazem Taghva",
+		"Allen Condit",
+		"Steven E. Lumos",
+		"Julie Borsack",
+		"Thomas A. Nartker"
+	],
+	"booktitle": "Proceedings of the 14th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2007",
 	"dblpkey": "conf/drr/TaghvaCLBN07",
 	"doi": "10.1117/12.712264",
 	"ee": "http://dx.doi.org/10.1117/12.712264",
 	"publisher": "SPIE",
-	"stemmed": ["titl", "extract", "and", "generat", "from", "ocr", "d", "document"],
-	"tag": ["documentation", "generative"],
+	"stemmed": [
+		"titl",
+		"extract",
+		"and",
+		"generat",
+		"from",
+		"ocr",
+		"d",
+		"document"
+	],
+	"tag": [
+		"documentation",
+		"generative"
+	],
 	"title": "Title extraction and generation from OCR’d documents",
 	"type": "inproceedings",
 	"venue": "DRR",

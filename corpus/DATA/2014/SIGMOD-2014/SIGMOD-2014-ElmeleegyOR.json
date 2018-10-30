@@ -1,6 +1,10 @@
 {
-	"author": ["Khaled Elmeleegy", "Christopher Olston", "Benjamin Reed"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Khaled Elmeleegy",
+		"Christopher Olston",
+		"Benjamin Reed"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/ElmeleegyOR14",
@@ -8,8 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2595634",
 	"pages": "551-562",
 	"publisher": "ACM",
-	"stemmed": ["spong", "file", "mitig", "data", "skew", "in", "mapreduc", "use", "distribut", "memori"],
-	"tag": ["distributed", "memory management", "named", "pipes and filters", "using"],
+	"stemmed": [
+		"spong",
+		"file",
+		"mitig",
+		"data",
+		"skew",
+		"in",
+		"mapreduc",
+		"use",
+		"distribut",
+		"memori"
+	],
+	"tag": [
+		"distributed",
+		"memory management",
+		"named",
+		"pipes and filters",
+		"using"
+	],
 	"title": "SpongeFiles: mitigating data skew in mapreduce using distributed memory",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,13 @@
 {
-	"author": ["Sandeep Kumar Goel", "Kuoshu Chiu", "Erik Jan Marinissen", "Toan Nguyen", "Steven Oostdijk"],
-	"booktitle": "DATE",
+	"author": [
+		"Sandeep Kumar Goel",
+		"Kuoshu Chiu",
+		"Erik Jan Marinissen",
+		"Toan Nguyen",
+		"Steven Oostdijk"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Designers’ Forum",
+	"booktitleshort": "DATE DF",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/GoelCMNO04",
 	"doi": "10.1109/DATE.2004.1269215",
@@ -8,8 +15,23 @@
 	"pages": "108-113",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["test", "infrastructur", "design", "for", "the", "nexperia", "home", "platform", "pnx", "system", "chip"],
-	"tag": ["design", "framework"],
+	"stemmed": [
+		"test",
+		"infrastructur",
+		"design",
+		"for",
+		"the",
+		"nexperia",
+		"home",
+		"platform",
+		"pnx",
+		"system",
+		"chip"
+	],
+	"tag": [
+		"design",
+		"framework"
+	],
 	"title": "Test Infrastructure Design for the Nexperia? Home Platform PNX8550 System Chip",
 	"type": "inproceedings",
 	"venue": "DATE",

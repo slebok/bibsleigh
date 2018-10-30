@@ -1,14 +1,31 @@
 {
-	"author": ["Jason Cong", "Hui Huang", "Chunyue Liu", "Yi Zou"],
-	"booktitle": "DAC",
+	"author": [
+		"Jason Cong",
+		"Hui Huang",
+		"Chunyue Liu",
+		"Yi Zou"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/CongHLZ11",
 	"doi": "10.1145/2024724.2024937",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024937",
 	"pages": "960-965",
 	"publisher": "ACM",
-	"stemmed": ["a", "reus", "awar", "prefetch", "scheme", "for", "scratchpad", "memori"],
-	"tag": ["memory management"],
+	"stemmed": [
+		"a",
+		"reus",
+		"awar",
+		"prefetch",
+		"scheme",
+		"for",
+		"scratchpad",
+		"memori"
+	],
+	"tag": [
+		"memory management"
+	],
 	"title": "A reuse-aware prefetching scheme for scratchpad memory",
 	"type": "inproceedings",
 	"venue": "DAC",

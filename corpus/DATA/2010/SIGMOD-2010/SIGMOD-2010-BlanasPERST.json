@@ -1,6 +1,13 @@
 {
-	"author": ["Spyros Blanas", "Jignesh M. Patel", "Vuk Ercegovac", "Jun Rao", "Eugene J. Shekita", "Yuanyuan Tian"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Spyros Blanas",
+		"Jignesh M. Patel",
+		"Vuk Ercegovac",
+		"Jun Rao",
+		"Eugene J. Shekita",
+		"Yuanyuan Tian"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/BlanasPERST10",
@@ -8,8 +15,24 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807273",
 	"pages": "975-986",
 	"publisher": "ACM",
-	"stemmed": ["a", "comparison", "of", "join", "algorithm", "for", "log", "process", "in", "ma", "preduc"],
-	"tag": ["algorithm", "comparison", "pipes and filters"],
+	"stemmed": [
+		"a",
+		"comparison",
+		"of",
+		"join",
+		"algorithm",
+		"for",
+		"log",
+		"process",
+		"in",
+		"ma",
+		"preduc"
+	],
+	"tag": [
+		"algorithm",
+		"comparison",
+		"pipes and filters"
+	],
 	"title": "A comparison of join algorithms for log processing in MaPreduce",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,15 +1,36 @@
 {
-	"author": ["Jian Li", "José F. Martínez"],
-	"booktitle": "HPCA",
+	"author": [
+		"Jian Li",
+		"José F. Martínez"
+	],
+	"booktitle": "Proceedings of the 12th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2006",
 	"dblpkey": "conf/hpca/LiM06",
 	"doi": "10.1109/HPCA.2006.1598114",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2006.1598114", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2006.1598114"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2006.1598114",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2006.1598114"
+	],
 	"pages": "77-87",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["dynam", "power", "perform", "adapt", "of", "parallel", "comput", "on", "chip", "multiprocessor"],
-	"tag": ["adaptation", "parallel"],
+	"stemmed": [
+		"dynam",
+		"power",
+		"perform",
+		"adapt",
+		"of",
+		"parallel",
+		"comput",
+		"on",
+		"chip",
+		"multiprocessor"
+	],
+	"tag": [
+		"adaptation",
+		"parallel"
+	],
 	"title": "Dynamic power-performance adaptation of parallel computation on chip multiprocessors",
 	"type": "inproceedings",
 	"venue": "HPCA",

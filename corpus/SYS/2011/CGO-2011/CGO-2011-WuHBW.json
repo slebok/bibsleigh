@@ -1,16 +1,47 @@
 {
-	"acmid": 2190070,
-	"author": ["Youfeng Wu", "Shiliang Hu", "Edson Borin", "Cheng Wang"],
-	"booktitle": "CGO",
+	"acmid": "2190070",
+	"author": [
+		"Youfeng Wu",
+		"Shiliang Hu",
+		"Edson Borin",
+		"Cheng Wang"
+	],
+	"booktitle": "Proceedings of the Ninth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2011",
 	"dblpkey": "conf/cgo/WuHBW11",
 	"doi": "10.1109/CGO.2011.5764691",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2011.5764691", "http://doi.ieeecomputersociety.org/10.1109/CGO.2011.5764691", "http://dl.acm.org/citation.cfm?id=2190070"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2011.5764691",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2011.5764691",
+		"http://dl.acm.org/citation.cfm?id=2190070"
+	],
 	"pages": "236-245",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "hw", "sw", "co", "design", "heterogen", "multi", "core", "virtual", "machin", "for", "energi", "effici", "general", "purpos", "comput"],
-	"tag": ["energy", "manycore", "virtual machine"],
+	"stemmed": [
+		"a",
+		"hw",
+		"sw",
+		"co",
+		"design",
+		"heterogen",
+		"multi",
+		"core",
+		"virtual",
+		"machin",
+		"for",
+		"energi",
+		"effici",
+		"general",
+		"purpos",
+		"comput"
+	],
+	"tag": [
+		"energy",
+		"manycore",
+		"virtual machine"
+	],
 	"title": "A HW/SW co-designed heterogeneous multi-core virtual machine for energy-efficient general purpose computing",
 	"type": "inproceedings",
 	"venue": "CGO",

@@ -1,14 +1,32 @@
 {
-	"author": ["Christer Sandberg", "Andreas Ermedahl", "Jan Gustafsson", "Björn Lisper"],
-	"booktitle": "LCTES",
+	"author": [
+		"Christer Sandberg",
+		"Andreas Ermedahl",
+		"Jan Gustafsson",
+		"Björn Lisper"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2006",
 	"dblpkey": "conf/lctrts/SandbergEGL06",
 	"doi": "10.1145/1134650.1134666",
 	"ee": "http://doi.acm.org/10.1145/1134650.1134666",
 	"pages": "103-112",
 	"publisher": "ACM",
-	"stemmed": ["faster", "wcet", "flow", "analysi", "by", "program", "slice"],
-	"tag": ["analysis", "performance", "slicing"],
+	"stemmed": [
+		"faster",
+		"wcet",
+		"flow",
+		"analysi",
+		"by",
+		"program",
+		"slice"
+	],
+	"tag": [
+		"analysis",
+		"performance",
+		"slicing"
+	],
 	"title": "Faster WCET flow analysis by program slicing",
 	"type": "inproceedings",
 	"venue": "LCTES",

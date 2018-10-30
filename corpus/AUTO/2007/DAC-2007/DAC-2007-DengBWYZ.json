@@ -1,14 +1,38 @@
 {
-	"author": ["Shujun Deng", "Jinian Bian", "Weimin Wu", "Xiaoqing Yang", "Yanni Zhao"],
-	"booktitle": "DAC",
+	"author": [
+		"Shujun Deng",
+		"Jinian Bian",
+		"Weimin Wu",
+		"Xiaoqing Yang",
+		"Yanni Zhao"
+	],
+	"booktitle": "Proceedings of the 44th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2007",
 	"dblpkey": "conf/dac/DengBWYZ07",
 	"doi": "10.1145/1278480.1278629",
 	"ee": "http://doi.acm.org/10.1145/1278480.1278629",
 	"pages": "588-593",
 	"publisher": "IEEE",
-	"stemmed": ["ehsat", "an", "effici", "rtl", "satisfi", "solver", "use", "an", "extend", "dpll", "procedur"],
-	"tag": ["named", "performance", "satisfiability", "using"],
+	"stemmed": [
+		"ehsat",
+		"an",
+		"effici",
+		"rtl",
+		"satisfi",
+		"solver",
+		"use",
+		"an",
+		"extend",
+		"dpll",
+		"procedur"
+	],
+	"tag": [
+		"named",
+		"performance",
+		"satisfiability",
+		"using"
+	],
 	"title": "EHSAT: An Efficient RTL Satisfiability Solver Using an Extended DPLL Procedure",
 	"type": "inproceedings",
 	"venue": "DAC",

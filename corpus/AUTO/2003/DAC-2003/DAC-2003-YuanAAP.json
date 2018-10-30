@@ -1,14 +1,35 @@
 {
-	"author": ["Jun Yuan", "Ken Albin", "Adnan Aziz", "Carl Pixley"],
-	"booktitle": "DAC",
+	"author": [
+		"Jun Yuan",
+		"Ken Albin",
+		"Adnan Aziz",
+		"Carl Pixley"
+	],
+	"booktitle": "Proceedings of the 40th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2003",
 	"dblpkey": "conf/dac/YuanAAP03",
 	"doi": "10.1145/775832.775909",
 	"ee": "http://doi.acm.org/10.1145/775832.775909",
 	"pages": "296-299",
 	"publisher": "ACM",
-	"stemmed": ["constraint", "synthesi", "for", "environ", "model", "in", "function", "verif"],
-	"tag": ["constraints", "functional", "modelling", "synthesis", "verification"],
+	"stemmed": [
+		"constraint",
+		"synthesi",
+		"for",
+		"environ",
+		"model",
+		"in",
+		"function",
+		"verif"
+	],
+	"tag": [
+		"constraints",
+		"functional",
+		"modelling",
+		"synthesis",
+		"verification"
+	],
 	"title": "Constraint synthesis for environment modeling in functional verification",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,13 +1,29 @@
 {
-	"author": ["Richard Raimi", "Jacob A. Abraham"],
-	"booktitle": "DAC",
+	"author": [
+		"Richard Raimi",
+		"Jacob A. Abraham"
+	],
+	"booktitle": "Proceedings of the 36th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/RaimiA99",
 	"doi": "10.1145/309847.310047",
 	"ee": "http://doi.acm.org/10.1145/309847.310047",
 	"pages": "737-741",
 	"publisher": "ACM Press",
-	"stemmed": ["detect", "fals", "time", "path", "experi", "on", "power", "pc", "microprocessor"],
-	"tag": ["detection"],
+	"stemmed": [
+		"detect",
+		"fals",
+		"time",
+		"path",
+		"experi",
+		"on",
+		"power",
+		"pc",
+		"microprocessor"
+	],
+	"tag": [
+		"detection"
+	],
 	"title": "Detecting False Timing Paths: Experiments on PowerPC Microprocessors",
 	"type": "inproceedings",
 	"venue": "DAC",

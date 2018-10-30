@@ -1,6 +1,7 @@
 {
 	"author": "Manfred Schmidt-Schauß",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/Schmidt-Schauss88",
 	"doi": "10.1007/BFb0012845",
@@ -10,11 +11,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["unif", "in", "a", "combin", "of", "arbitrari", "disjoint", "equat", "theori"],
-	"tag": ["equation", "unification"],
+	"stemmed": [
+		"unif",
+		"in",
+		"a",
+		"combin",
+		"of",
+		"arbitrari",
+		"disjoint",
+		"equat",
+		"theori"
+	],
+	"tag": [
+		"equation",
+		"unification"
+	],
 	"title": "Unification in a Combination of Arbitrary Disjoint Equational Theories",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

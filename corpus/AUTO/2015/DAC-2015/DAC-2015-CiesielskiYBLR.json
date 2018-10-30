@@ -1,14 +1,33 @@
 {
-	"author": ["Maciej J. Ciesielski", "Cunxi Yu", "Walter Brown", "Duo Liu", "André Rossi"],
-	"booktitle": "DAC",
+	"author": [
+		"Maciej J. Ciesielski",
+		"Cunxi Yu",
+		"Walter Brown",
+		"Duo Liu",
+		"André Rossi"
+	],
+	"booktitle": "Proceedings of the 52nd Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2015",
 	"dblpkey": "conf/dac/CiesielskiYBLR15",
 	"doi": "10.1145/2744769.2744925",
 	"ee": "http://doi.acm.org/10.1145/2744769.2744925",
 	"pages": "52:1-52:6",
 	"publisher": "ACM",
-	"stemmed": ["verif", "of", "gate", "level", "arithmet", "circuit", "by", "function", "extract"],
-	"tag": ["verification"],
+	"stemmed": [
+		"verif",
+		"of",
+		"gate",
+		"level",
+		"arithmet",
+		"circuit",
+		"by",
+		"function",
+		"extract"
+	],
+	"tag": [
+		"verification"
+	],
 	"title": "Verification of gate-level arithmetic circuits by function extraction",
 	"type": "inproceedings",
 	"venue": "DAC",

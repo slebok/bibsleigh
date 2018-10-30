@@ -1,6 +1,7 @@
 {
 	"author": "Naftaly H. Minsky",
-	"booktitle": "SIGMOD Workshop, Vol. 1",
+	"booktitle": "Proceedings of the Fourth ACM-SIGFIDET Workshop on Data Description, Access and Control",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGFIDET74-1/P051.pdf",
 	"crossref": "conf/sigmod/74",
 	"dblpkey": "conf/sigmod/Minsky74",
@@ -8,8 +9,18 @@
 	"ee": "http://doi.acm.org/10.1145/800296.811504",
 	"pages": "51-62",
 	"publisher": "ACM",
-	"stemmed": ["on", "interact", "with", "data", "base"],
-	"tag": ["database", "interactive", "on the"],
+	"stemmed": [
+		"on",
+		"interact",
+		"with",
+		"data",
+		"base"
+	],
+	"tag": [
+		"database",
+		"interactive",
+		"on the"
+	],
 	"title": "On Interaction with Data Bases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

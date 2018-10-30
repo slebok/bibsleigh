@@ -1,14 +1,44 @@
 {
-	"author": ["Shaul Dar", "Gadi Entin", "Shai Geva", "Eran Palmon"],
-	"booktitle": "VLDB",
-	"cite": ["conf/sigmod/BunemanDHS96", "...", "conf/sigmod/FernandezFKLS97", "conf/vldb/GoldmanSVG98", "conf/vldb/KonopnickiS95", "conf/vldb/LevyRO96", "journals/sigmod/McHughAGQW97", "conf/pods/MendelzonM97", "...", "conf/icde/PapakonstantinouGW95"],
+	"author": [
+		"Shaul Dar",
+		"Gadi Entin",
+		"Shai Geva",
+		"Eran Palmon"
+	],
+	"booktitle": "Proceedings of the 24th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/sigmod/BunemanDHS96",
+		"...",
+		"conf/sigmod/FernandezFKLS97",
+		"conf/vldb/GoldmanSVG98",
+		"conf/vldb/KonopnickiS95",
+		"conf/vldb/LevyRO96",
+		"journals/sigmod/McHughAGQW97",
+		"conf/pods/MendelzonM97",
+		"...",
+		"conf/icde/PapakonstantinouGW95"
+	],
 	"crossref": "conf/vldb/98",
 	"dblpkey": "conf/vldb/DarEGP98",
 	"ee": "http://www.vldb.org/conf/1998/p645.pdf",
 	"pages": "645-649",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["dtl", "s", "data", "spot", "databas", "explor", "use", "plain", "languag"],
-	"tag": ["database", "using"],
+	"stemmed": [
+		"dtl",
+		"s",
+		"data",
+		"spot",
+		"databas",
+		"explor",
+		"use",
+		"plain",
+		"languag"
+	],
+	"tag": [
+		"database",
+		"using"
+	],
 	"title": "DTL’s DataSpot: Database Exploration Using Plain Language",
 	"type": "inproceedings",
 	"venue": "VLDB",

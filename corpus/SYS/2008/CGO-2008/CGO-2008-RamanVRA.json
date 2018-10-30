@@ -1,14 +1,31 @@
 {
-	"author": ["Easwaran Raman", "Neil Vachharajani", "Ram Rangan", "David I. August"],
-	"booktitle": "CGO",
+	"author": [
+		"Easwaran Raman",
+		"Neil Vachharajani",
+		"Ram Rangan",
+		"David I. August"
+	],
+	"booktitle": "Proceedings of the Sixth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2008",
 	"dblpkey": "conf/cgo/RamanVRA08",
 	"doi": "10.1145/1356058.1356082",
 	"ee": "http://doi.acm.org/10.1145/1356058.1356082",
 	"pages": "175-184",
 	"publisher": "ACM",
-	"stemmed": ["spice", "specul", "parallel", "iter", "chunk", "execut"],
-	"tag": ["execution", "named", "parallel"],
+	"stemmed": [
+		"spice",
+		"specul",
+		"parallel",
+		"iter",
+		"chunk",
+		"execut"
+	],
+	"tag": [
+		"execution",
+		"named",
+		"parallel"
+	],
 	"title": "Spice: speculative parallel iteration chunk execution",
 	"type": "inproceedings",
 	"venue": "CGO",

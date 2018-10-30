@@ -1,14 +1,27 @@
 {
-	"author": ["Michael A. Bender", "Martin Farach-Colton", "Bradley C. Kuszmaul"],
-	"booktitle": "PODS",
+	"author": [
+		"Michael A. Bender",
+		"Martin Farach-Colton",
+		"Bradley C. Kuszmaul"
+	],
+	"booktitle": "Proceedings of the 25th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2006",
 	"dblpkey": "conf/pods/BenderFK06",
 	"doi": "10.1145/1142351.1142385",
 	"ee": "http://doi.acm.org/10.1145/1142351.1142385",
 	"pages": "233-242",
 	"publisher": "ACM",
-	"stemmed": ["cach", "oblivi", "string", "b", "tree"],
-	"tag": ["string"],
+	"stemmed": [
+		"cach",
+		"oblivi",
+		"string",
+		"b",
+		"tree"
+	],
+	"tag": [
+		"string"
+	],
 	"title": "Cache-oblivious string B-trees",
 	"type": "inproceedings",
 	"venue": "PODS",

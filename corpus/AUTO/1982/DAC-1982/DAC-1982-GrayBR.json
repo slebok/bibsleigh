@@ -1,14 +1,32 @@
 {
-	"author": ["John P. Gray", "Irene Buchanan", "Peter S. Robertson"],
-	"booktitle": "DAC",
+	"author": [
+		"John P. Gray",
+		"Irene Buchanan",
+		"Peter S. Robertson"
+	],
+	"booktitle": "Proceedings of the 19th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1982",
 	"dblpkey": "conf/dac/GrayBR82",
 	"doi": "10.1145/800263.809233",
 	"ee": "http://doi.acm.org/10.1145/800263.809233",
 	"pages": "377-383",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["design", "gate", "array", "use", "a", "silicon", "compil"],
-	"tag": ["array", "compilation", "design", "using"],
+	"stemmed": [
+		"design",
+		"gate",
+		"array",
+		"use",
+		"a",
+		"silicon",
+		"compil"
+	],
+	"tag": [
+		"array",
+		"compilation",
+		"design",
+		"using"
+	],
 	"title": "Designing gate arrays using a silicon compiler",
 	"type": "inproceedings",
 	"venue": "DAC",

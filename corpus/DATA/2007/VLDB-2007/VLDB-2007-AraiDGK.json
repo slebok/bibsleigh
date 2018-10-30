@@ -1,13 +1,29 @@
 {
-	"author": ["Benjamin Arai", "Gautam Das", "Dimitrios Gunopulos", "Nick Koudas"],
-	"booktitle": "VLDB",
+	"author": [
+		"Benjamin Arai",
+		"Gautam Das",
+		"Dimitrios Gunopulos",
+		"Nick Koudas"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/AraiDGK07",
 	"ee": "http://www.vldb.org/conf/2007/papers/research/p914-arai.pdf",
 	"pages": "914-925",
 	"publisher": "ACM",
-	"stemmed": ["anytim", "measur", "for", "top", "k", "algorithm"],
-	"tag": ["algorithm", "metric"],
+	"stemmed": [
+		"anytim",
+		"measur",
+		"for",
+		"top",
+		"k",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"metric"
+	],
 	"title": "Anytime Measures for Top-k Algorithms",
 	"type": "inproceedings",
 	"venue": "VLDB",

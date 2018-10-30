@@ -1,14 +1,29 @@
 {
-	"author": ["Enric Junqué de Fortuny", "Marija Stankova", "Julie Moeyersoms", "Bart Minnaert", "Foster J. Provost", "David Martens"],
-	"booktitle": "KDD",
+	"author": [
+		"Enric Junqué de Fortuny",
+		"Marija Stankova",
+		"Julie Moeyersoms",
+		"Bart Minnaert",
+		"Foster J. Provost",
+		"David Martens"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/FortunySMMPM14",
 	"doi": "10.1145/2623330.2623333",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623333",
 	"pages": "1650-1659",
 	"publisher": "ACM",
-	"stemmed": ["corpor", "resid", "fraud", "detect"],
-	"tag": ["detection"],
+	"stemmed": [
+		"corpor",
+		"resid",
+		"fraud",
+		"detect"
+	],
+	"tag": [
+		"detection"
+	],
 	"title": "Corporate residence fraud detection",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,13 +1,29 @@
 {
-	"author": ["Weiwei Xiong", "Soyeon Park", "Jiaqi Zhang", "Yuanyuan Zhou", "Zhiqiang Ma"],
-	"booktitle": "OSDI",
+	"author": [
+		"Weiwei Xiong",
+		"Soyeon Park",
+		"Jiaqi Zhang",
+		"Yuanyuan Zhou",
+		"Zhiqiang Ma"
+	],
+	"booktitle": "Proceedings of the Ninth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2010",
 	"dblpkey": "conf/osdi/XiongPZZM10",
 	"ee": "http://www.usenix.org/events/osdi10/tech/full_papers/Xiong.pdf",
 	"pages": "163-176",
 	"publisher": "USENIX Association",
-	"stemmed": ["ad", "hoc", "synchron", "consid", "harm"],
-	"tag": ["ad hoc", "harmful"],
+	"stemmed": [
+		"ad",
+		"hoc",
+		"synchron",
+		"consid",
+		"harm"
+	],
+	"tag": [
+		"ad hoc",
+		"harmful"
+	],
 	"title": "Ad Hoc Synchronization Considered Harmful",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,13 +1,28 @@
 {
-	"author": ["Vijayshankar Raman", "Joseph M. Hellerstein"],
-	"booktitle": "VLDB",
+	"author": [
+		"Vijayshankar Raman",
+		"Joseph M. Hellerstein"
+	],
+	"booktitle": "Proceedings of the 27th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2001",
 	"dblpkey": "conf/vldb/RamanH01",
 	"ee": "http://www.vldb.org/conf/2001/P381.pdf",
 	"pages": "381-390",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["potter", "s", "wheel", "an", "interact", "data", "clean", "system"],
-	"tag": ["interactive"],
+	"stemmed": [
+		"potter",
+		"s",
+		"wheel",
+		"an",
+		"interact",
+		"data",
+		"clean",
+		"system"
+	],
+	"tag": [
+		"interactive"
+	],
 	"title": "Potter’s Wheel: An Interactive Data Cleaning System",
 	"type": "inproceedings",
 	"venue": "VLDB",

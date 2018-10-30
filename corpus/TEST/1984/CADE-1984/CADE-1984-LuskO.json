@@ -1,6 +1,10 @@
 {
-	"author": ["Ewing L. Lusk", "Ross A. Overbeek"],
-	"booktitle": "CADE",
+	"author": [
+		"Ewing L. Lusk",
+		"Ross A. Overbeek"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1984",
 	"dblpkey": "conf/cade/LuskO84",
 	"doi": "10.1007/BFb0047112",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "portabl", "environ", "for", "research", "in", "autom", "reason"],
-	"tag": ["automation", "reasoning", "research"],
+	"stemmed": [
+		"a",
+		"portabl",
+		"environ",
+		"for",
+		"research",
+		"in",
+		"autom",
+		"reason"
+	],
+	"tag": [
+		"automation",
+		"reasoning",
+		"research"
+	],
 	"title": "A Portable Environment for Research in Automated Reasoning",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 170,
+	"volume": "170",
 	"year": 1984
 }

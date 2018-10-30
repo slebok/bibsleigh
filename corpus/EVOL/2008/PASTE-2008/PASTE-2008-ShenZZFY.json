@@ -1,14 +1,34 @@
 {
-	"author": ["Haihao Shen", "Sai Zhang", "Jianjun Zhao", "Jianhong Fang", "Shiyuan Yao"],
-	"booktitle": "PASTE",
+	"author": [
+		"Haihao Shen",
+		"Sai Zhang",
+		"Jianjun Zhao",
+		"Jianhong Fang",
+		"Shiyuan Yao"
+	],
+	"booktitle": "Proceedings of the Eighth Workshop on Program Analysis for Software Tools and Engineering",
+	"booktitleshort": "PASTE",
 	"crossref": "conf/paste/2008",
 	"dblpkey": "conf/paste/ShenZZFY08",
 	"doi": "10.1145/1512475.1512490",
 	"ee": "http://doi.acm.org/10.1145/1512475.1512490",
 	"pages": "70-76",
 	"publisher": "ACM",
-	"stemmed": ["x", "find", "bug", "extend", "find", "bug", "for", "aspect", "j"],
-	"tag": ["aspectj", "named"],
+	"stemmed": [
+		"x",
+		"find",
+		"bug",
+		"extend",
+		"find",
+		"bug",
+		"for",
+		"aspect",
+		"j"
+	],
+	"tag": [
+		"aspectj",
+		"named"
+	],
 	"title": "XFindBugs: eXtended FindBugs for AspectJ",
 	"type": "inproceedings",
 	"venue": "PASTE",

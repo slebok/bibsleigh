@@ -1,13 +1,38 @@
 {
-	"author": ["Shou-Wei Chang", "Kun-Yuan Hsieh", "Jenq Kuen Lee"],
-	"booktitle": "DATE",
+	"author": [
+		"Shou-Wei Chang",
+		"Kun-Yuan Hsieh",
+		"Jenq Kuen Lee"
+	],
+	"booktitle": "Proceedings of the 13th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2009",
 	"dblpkey": "conf/date/ChangHL09",
 	"ieeearid": 5090812,
 	"pages": "1012-1017",
 	"publisher": "IEEE",
-	"stemmed": ["ptest", "an", "adapt", "test", "tool", "for", "concurr", "softwar", "on", "embed", "multicor", "processor"],
-	"tag": ["adaptation", "concurrent", "embedded", "manycore", "named", "testing"],
+	"stemmed": [
+		"ptest",
+		"an",
+		"adapt",
+		"test",
+		"tool",
+		"for",
+		"concurr",
+		"softwar",
+		"on",
+		"embed",
+		"multicor",
+		"processor"
+	],
+	"tag": [
+		"adaptation",
+		"concurrent",
+		"embedded",
+		"manycore",
+		"named",
+		"testing"
+	],
 	"title": "pTest: An adaptive testing tool for concurrent software on embedded multicore processors",
 	"type": "inproceedings",
 	"venue": "DATE",

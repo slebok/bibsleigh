@@ -1,14 +1,27 @@
 {
-	"author": ["Yucheng Low", "Deepak Agarwal", "Alexander J. Smola"],
-	"booktitle": "KDD",
+	"author": [
+		"Yucheng Low",
+		"Deepak Agarwal",
+		"Alexander J. Smola"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/LowAS11",
 	"doi": "10.1145/2020408.2020434",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020434",
 	"pages": "123-131",
 	"publisher": "ACM",
-	"stemmed": ["multipl", "domain", "user", "person"],
-	"tag": ["multi", "personalisation"],
+	"stemmed": [
+		"multipl",
+		"domain",
+		"user",
+		"person"
+	],
+	"tag": [
+		"multi",
+		"personalisation"
+	],
 	"title": "Multiple domain user personalization",
 	"type": "inproceedings",
 	"venue": "KDD",

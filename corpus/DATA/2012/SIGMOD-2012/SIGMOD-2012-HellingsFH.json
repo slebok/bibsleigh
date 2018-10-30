@@ -1,6 +1,10 @@
 {
-	"author": ["Jelle Hellings", "George H. L. Fletcher", "Herman J. Haverkort"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jelle Hellings",
+		"George H. L. Fletcher",
+		"Herman J. Haverkort"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/HellingsFH12",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213899",
 	"pages": "553-564",
 	"publisher": "ACM",
-	"stemmed": ["effici", "extern", "memori", "bisimul", "on", "dag"],
-	"tag": ["bisimulation", "graph", "performance"],
+	"stemmed": [
+		"effici",
+		"extern",
+		"memori",
+		"bisimul",
+		"on",
+		"dag"
+	],
+	"tag": [
+		"bisimulation",
+		"graph",
+		"performance"
+	],
 	"title": "Efficient external-memory bisimulation on DAGs",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

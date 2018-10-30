@@ -1,6 +1,10 @@
 {
-	"author": ["Luca Bonomi", "Li Xiong", "James J. Lu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Luca Bonomi",
+		"Li Xiong",
+		"James J. Lu"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/BonomiXL13",
@@ -8,8 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465259",
 	"pages": "1029-1032",
 	"publisher": "ACM",
-	"stemmed": ["link", "it", "privaci", "preserv", "record", "linkag", "and", "integr", "via", "transform"],
-	"tag": ["integration", "named", "privacy"],
+	"stemmed": [
+		"link",
+		"it",
+		"privaci",
+		"preserv",
+		"record",
+		"linkag",
+		"and",
+		"integr",
+		"via",
+		"transform"
+	],
+	"tag": [
+		"integration",
+		"named",
+		"privacy"
+	],
 	"title": "LinkIT: privacy preserving record linkage and integration via transformations",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

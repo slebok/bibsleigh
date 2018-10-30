@@ -1,13 +1,38 @@
 {
-	"author": ["Cristian Cadar", "Daniel Dunbar", "Dawson R. Engler"],
-	"booktitle": "OSDI",
+	"author": [
+		"Cristian Cadar",
+		"Daniel Dunbar",
+		"Dawson R. Engler"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/CadarDE08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/cadar/cadar.pdf",
 	"pages": "209-224",
 	"publisher": "USENIX Association",
-	"stemmed": ["klee", "unassist", "and", "automat", "generat", "of", "high", "coverag", "test", "for", "complex", "system", "program"],
-	"tag": ["automation", "generative", "named", "source code", "testing"],
+	"stemmed": [
+		"klee",
+		"unassist",
+		"and",
+		"automat",
+		"generat",
+		"of",
+		"high",
+		"coverag",
+		"test",
+		"for",
+		"complex",
+		"system",
+		"program"
+	],
+	"tag": [
+		"automation",
+		"generative",
+		"named",
+		"source code",
+		"testing"
+	],
 	"title": "KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs",
 	"type": "inproceedings",
 	"venue": "OSDI",

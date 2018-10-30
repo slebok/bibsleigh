@@ -1,14 +1,31 @@
 {
-	"author": ["Martin Kero", "Johan Nordlander", "Per Lindgren"],
-	"booktitle": "ISMM",
+	"author": [
+		"Martin Kero",
+		"Johan Nordlander",
+		"Per Lindgren"
+	],
+	"booktitle": "Proceedings of the Sixth International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2007",
 	"dblpkey": "conf/iwmm/KeroNL07",
 	"doi": "10.1145/1296907.1296924",
 	"ee": "http://doi.acm.org/10.1145/1296907.1296924",
 	"pages": "129-140",
 	"publisher": "ACM",
-	"stemmed": ["a", "correct", "and", "use", "increment", "copi", "garbag", "collector"],
-	"tag": ["garbage collection", "incremental"],
+	"stemmed": [
+		"a",
+		"correct",
+		"and",
+		"use",
+		"increment",
+		"copi",
+		"garbag",
+		"collector"
+	],
+	"tag": [
+		"garbage collection",
+		"incremental"
+	],
 	"title": "A correct and useful incremental copying garbage collector",
 	"type": "inproceedings",
 	"venue": "ISMM",

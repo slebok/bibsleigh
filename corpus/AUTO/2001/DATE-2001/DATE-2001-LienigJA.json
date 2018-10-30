@@ -1,14 +1,35 @@
 {
-	"author": ["Jens Lienig", "Göran Jerke", "Thorsten Adler"],
-	"booktitle": "DATE",
+	"author": [
+		"Jens Lienig",
+		"Göran Jerke",
+		"Thorsten Adler"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2001",
 	"dblpkey": "conf/date/LienigJA01",
 	"doi": "10.1145/367072.368040",
 	"ee": "http://doi.acm.org/10.1145/367072.368040",
-	"pages": 819,
+	"pages": "819",
 	"publisher": "ACM",
-	"stemmed": ["analog", "router", "a", "new", "approach", "of", "current", "driven", "rout", "for", "analog", "circuit"],
-	"tag": ["approach", "named"],
+	"stemmed": [
+		"analog",
+		"router",
+		"a",
+		"new",
+		"approach",
+		"of",
+		"current",
+		"driven",
+		"rout",
+		"for",
+		"analog",
+		"circuit"
+	],
+	"tag": [
+		"approach",
+		"named"
+	],
 	"title": "AnalogRouter: a new approach of current-driven routing for analog circuits",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,6 +1,12 @@
 {
-	"author": ["Zachary Tatlock", "Chris Tucker", "David Shuffelton", "Ranjit Jhala", "Sorin Lerner"],
-	"booktitle": "Proceedings of the 23rd Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Zachary Tatlock",
+		"Chris Tucker",
+		"David Shuffelton",
+		"Ranjit Jhala",
+		"Sorin Lerner"
+	],
+	"booktitle": "Proceedings of the 23rd Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2008",
 	"dblpkey": "conf/oopsla/TatlockTSJL08",
@@ -10,8 +16,15 @@
 	"isbn": "978-1-60558-215-3",
 	"pages": "37-52",
 	"publisher": "ACM",
-	"stemmed": ["deep", "typecheck", "and", "refactor"],
-	"tag": ["refactoring"],
+	"stemmed": [
+		"deep",
+		"typecheck",
+		"and",
+		"refactor"
+	],
+	"tag": [
+		"refactoring"
+	],
 	"title": "Deep typechecking and refactoring",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

@@ -1,14 +1,32 @@
 {
-	"author": ["Sholom M. Weiss", "Amit Dhurandhar", "Robert J. Baseman"],
-	"booktitle": "KDD",
+	"author": [
+		"Sholom M. Weiss",
+		"Amit Dhurandhar",
+		"Robert J. Baseman"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/WeissDB13",
 	"doi": "10.1145/2487575.2488192",
 	"ee": "http://doi.acm.org/10.1145/2487575.2488192",
 	"pages": "1258-1266",
 	"publisher": "ACM",
-	"stemmed": ["improv", "qualiti", "control", "by", "earli", "predict", "of", "manufactur", "outcom"],
-	"tag": ["predict", "quality"],
+	"stemmed": [
+		"improv",
+		"qualiti",
+		"control",
+		"by",
+		"earli",
+		"predict",
+		"of",
+		"manufactur",
+		"outcom"
+	],
+	"tag": [
+		"predict",
+		"quality"
+	],
 	"title": "Improving quality control by early prediction of manufacturing outcomes",
 	"type": "inproceedings",
 	"venue": "KDD",

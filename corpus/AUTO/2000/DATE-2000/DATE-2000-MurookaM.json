@@ -1,6 +1,10 @@
 {
-	"author": ["Takahiro Murooka", "Toshiaki Miyazaki"],
-	"booktitle": "DATE",
+	"author": [
+		"Takahiro Murooka",
+		"Toshiaki Miyazaki"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/MurookaM00",
 	"doi": "10.1109/DATE.2000.840037",
@@ -8,8 +12,16 @@
 	"pages": "186-191",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["protocol", "stack", "base", "telecom", "emul"],
-	"tag": ["protocol"],
+	"stemmed": [
+		"protocol",
+		"stack",
+		"base",
+		"telecom",
+		"emul"
+	],
+	"tag": [
+		"protocol"
+	],
 	"title": "Protocol Stack-Based Telecom-Emulator",
 	"type": "inproceedings",
 	"venue": "DATE",

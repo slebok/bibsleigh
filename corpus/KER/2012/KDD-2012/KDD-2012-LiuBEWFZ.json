@@ -1,14 +1,39 @@
 {
-	"author": ["Xuemei Liu", "James Biagioni", "Jakob Eriksson", "Yin Wang", "George Forman", "Yanmin Zhu"],
-	"booktitle": "KDD",
+	"author": [
+		"Xuemei Liu",
+		"James Biagioni",
+		"Jakob Eriksson",
+		"Yin Wang",
+		"George Forman",
+		"Yanmin Zhu"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/LiuBEWFZ12",
 	"doi": "10.1145/2339530.2339637",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339637",
 	"pages": "669-677",
 	"publisher": "ACM",
-	"stemmed": ["mine", "larg", "scale", "spars", "gps", "trace", "for", "map", "infer", "comparison", "of", "approach"],
-	"tag": ["comparison", "mining", "scalability"],
+	"stemmed": [
+		"mine",
+		"larg",
+		"scale",
+		"spars",
+		"gps",
+		"trace",
+		"for",
+		"map",
+		"infer",
+		"comparison",
+		"of",
+		"approach"
+	],
+	"tag": [
+		"comparison",
+		"mining",
+		"scalability"
+	],
 	"title": "Mining large-scale, sparse GPS traces for map inference: comparison of approaches",
 	"type": "inproceedings",
 	"venue": "KDD",

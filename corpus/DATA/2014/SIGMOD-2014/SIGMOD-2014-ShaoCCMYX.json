@@ -1,6 +1,13 @@
 {
-	"author": ["Yingxia Shao", "Bin Cui", "Lei Chen", "Lin Ma", "Junjie Yao", "Ning Xu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yingxia Shao",
+		"Bin Cui",
+		"Lei Chen",
+		"Lin Ma",
+		"Junjie Yao",
+		"Ning Xu"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/ShaoCCMYX14",
@@ -8,8 +15,21 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2588557",
 	"pages": "625-636",
 	"publisher": "ACM",
-	"stemmed": ["parallel", "subgraph", "list", "in", "a", "larg", "scale", "graph"],
-	"tag": ["graph", "parallel", "scalability"],
+	"stemmed": [
+		"parallel",
+		"subgraph",
+		"list",
+		"in",
+		"a",
+		"larg",
+		"scale",
+		"graph"
+	],
+	"tag": [
+		"graph",
+		"parallel",
+		"scalability"
+	],
 	"title": "Parallel subgraph listing in a large-scale graph",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,13 +1,28 @@
 {
 	"author": "Kurt Keutzer",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 24th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/Keutzer87",
 	"doi": "10.1145/37888.37940",
 	"ee": "http://doi.acm.org/10.1145/37888.37940",
 	"pages": "341-347",
 	"publisher": "IEEE Computer Society Press / ACM",
-	"stemmed": ["dagon", "technolog", "bind", "and", "local", "optim", "by", "dag", "match"],
-	"tag": ["graph", "named", "optimisation"],
+	"stemmed": [
+		"dagon",
+		"technolog",
+		"bind",
+		"and",
+		"local",
+		"optim",
+		"by",
+		"dag",
+		"match"
+	],
+	"tag": [
+		"graph",
+		"named",
+		"optimisation"
+	],
 	"title": "DAGON: Technology Binding and Local Optimization by DAG Matching",
 	"type": "inproceedings",
 	"venue": "DAC",

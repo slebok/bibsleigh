@@ -1,6 +1,10 @@
 {
-	"author": ["Dejan Jovanovic", "Leonardo Mendonça de Moura"],
-	"booktitle": "CADE",
+	"author": [
+		"Dejan Jovanovic",
+		"Leonardo Mendonça de Moura"
+	],
+	"booktitle": "Proceedings of the 23rd International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2011",
 	"dblpkey": "conf/cade/JovanovicM11",
 	"doi": "10.1007/978-3-642-22438-6_26",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["cut", "to", "the", "chase", "solv", "linear", "integ", "arithmet"],
-	"tag": ["integer", "linear"],
+	"stemmed": [
+		"cut",
+		"to",
+		"the",
+		"chase",
+		"solv",
+		"linear",
+		"integ",
+		"arithmet"
+	],
+	"tag": [
+		"integer",
+		"linear"
+	],
 	"title": "Cutting to the Chase Solving Linear Integer Arithmetic",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 6803,
+	"volume": "6803",
 	"year": 2011
 }

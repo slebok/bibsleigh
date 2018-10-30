@@ -1,14 +1,27 @@
 {
-	"author": ["Alvin R. Lebeck", "Xiaobo Fan", "Heng Zeng", "Carla Schlatter Ellis"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Alvin R. Lebeck",
+		"Xiaobo Fan",
+		"Heng Zeng",
+		"Carla Schlatter Ellis"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2000",
 	"dblpkey": "conf/asplos/LebeckFZE00",
 	"doi": "10.1145/356989.356999",
 	"ee": "http://doi.acm.org/10.1145/356989.356999",
 	"pages": "105-116",
 	"publisher": "ACM Press",
-	"stemmed": ["power", "awar", "page", "alloc"],
-	"tag": ["power management"],
+	"stemmed": [
+		"power",
+		"awar",
+		"page",
+		"alloc"
+	],
+	"tag": [
+		"power management"
+	],
 	"title": "Power Aware Page Allocation",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

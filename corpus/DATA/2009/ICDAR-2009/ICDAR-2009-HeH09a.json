@@ -1,15 +1,47 @@
 {
-	"author": ["Tingting He", "Qiang Huo"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Tingting He",
+		"Qiang Huo"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2009",
 	"dblpkey": "conf/icdar/HeH09a",
 	"doi": "10.1109/ICDAR.2009.87",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2009.87", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2009.87"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2009.87",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2009.87"
+	],
 	"pages": "1226-1230",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["affin", "distort", "compens", "for", "an", "isol", "onlin", "handwritten", "chines", "charact", "use", "combin", "orient", "estim", "and", "hmm", "base", "minimax", "classif"],
-	"tag": ["classification", "estimation", "online", "using"],
+	"stemmed": [
+		"affin",
+		"distort",
+		"compens",
+		"for",
+		"an",
+		"isol",
+		"onlin",
+		"handwritten",
+		"chines",
+		"charact",
+		"use",
+		"combin",
+		"orient",
+		"estim",
+		"and",
+		"hmm",
+		"base",
+		"minimax",
+		"classif"
+	],
+	"tag": [
+		"classification",
+		"estimation",
+		"online",
+		"using"
+	],
 	"title": "Affine Distortion Compensation for an Isolated Online Handwritten Chinese Character Using Combined Orientation Estimation and HMM-Based Minimax Classification",
 	"type": "inproceedings",
 	"venue": "ICDAR",

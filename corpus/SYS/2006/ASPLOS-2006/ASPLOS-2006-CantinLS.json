@@ -1,13 +1,21 @@
 {
-	"author": ["Jason F. Cantin", "Mikko H. Lipasti", "James E. Smith"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Jason F. Cantin",
+		"Mikko H. Lipasti",
+		"James E. Smith"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/CantinLS06",
 	"doi": "10.1145/1168857.1168892",
 	"ee": "http://doi.acm.org/10.1145/1168857.1168892",
 	"pages": "274-282",
 	"publisher": "ACM",
-	"stemmed": ["stealth", "prefetch"],
+	"stemmed": [
+		"stealth",
+		"prefetch"
+	],
 	"title": "Stealth prefetching",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,6 +1,7 @@
 {
 	"author": "Jian Zhang 0001",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 16th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1999",
 	"dblpkey": "conf/cade/ZhangJ99",
 	"doi": "10.1007/3-540-48660-7_37",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "mcs", "model", "base", "conjectur", "search"],
-	"tag": ["modelling"],
+	"stemmed": [
+		"system",
+		"descript",
+		"mcs",
+		"model",
+		"base",
+		"conjectur",
+		"search"
+	],
+	"tag": [
+		"modelling"
+	],
 	"title": "System Description: MCS: Model-based Conjecture Searching",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1632,
+	"volume": "1632",
 	"year": 1999
 }

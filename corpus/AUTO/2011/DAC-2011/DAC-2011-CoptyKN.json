@@ -1,14 +1,38 @@
 {
-	"author": ["Eman Copty", "Gila Kamhi", "Sasha Novakovsky"],
-	"booktitle": "DAC",
+	"author": [
+		"Eman Copty",
+		"Gila Kamhi",
+		"Sasha Novakovsky"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/CoptyKN11",
 	"doi": "10.1145/2024724.2024809",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024809",
 	"pages": "351-356",
 	"publisher": "ACM",
-	"stemmed": ["transact", "level", "statist", "analysi", "for", "effici", "micro", "architectur", "power", "and", "perform", "studi"],
-	"tag": ["analysis", "architecture", "performance", "statistics", "transaction"],
+	"stemmed": [
+		"transact",
+		"level",
+		"statist",
+		"analysi",
+		"for",
+		"effici",
+		"micro",
+		"architectur",
+		"power",
+		"and",
+		"perform",
+		"studi"
+	],
+	"tag": [
+		"analysis",
+		"architecture",
+		"performance",
+		"statistics",
+		"transaction"
+	],
 	"title": "Transaction level statistical analysis for efficient micro-architectural power and performance studies",
 	"type": "inproceedings",
 	"venue": "DAC",

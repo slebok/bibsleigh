@@ -1,16 +1,47 @@
 {
-	"acmid": 2738632,
-	"author": ["Hee-Seok Kim", "Izzat El Hajj", "John A. Stratton", "Steven S. Lumetta", "Wen-mei W. Hwu"],
-	"booktitle": "CGO",
+	"acmid": "2738632",
+	"author": [
+		"Hee-Seok Kim",
+		"Izzat El Hajj",
+		"John A. Stratton",
+		"Steven S. Lumetta",
+		"Wen-mei W. Hwu"
+	],
+	"booktitle": "Proceedings of the 13th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2015",
 	"dblpkey": "conf/cgo/KimHSLH15",
 	"doi": "10.1109/CGO.2015.7054205",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2015.7054205", "http://dl.acm.org/citation.cfm?id=2738632"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2015.7054205",
+		"http://dl.acm.org/citation.cfm?id=2738632"
+	],
 	"pages": "257-268",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["local", "centric", "thread", "schedul", "for", "bulk", "synchron", "program", "model", "on", "cpu", "architectur"],
-	"tag": ["architecture", "concurrent", "cpu", "modelling", "programming", "scheduling", "thread"],
+	"stemmed": [
+		"local",
+		"centric",
+		"thread",
+		"schedul",
+		"for",
+		"bulk",
+		"synchron",
+		"program",
+		"model",
+		"on",
+		"cpu",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"concurrent",
+		"cpu",
+		"modelling",
+		"programming",
+		"scheduling",
+		"thread"
+	],
 	"title": "Locality-centric thread scheduling for bulk-synchronous programming models on CPU architectures",
 	"type": "inproceedings",
 	"venue": "CGO",

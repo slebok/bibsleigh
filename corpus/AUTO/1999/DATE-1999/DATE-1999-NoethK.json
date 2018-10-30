@@ -1,6 +1,10 @@
 {
-	"author": ["Winfried Nöth", "Reiner Kolla"],
-	"booktitle": "DATE",
+	"author": [
+		"Winfried Nöth",
+		"Reiner Kolla"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/NoethK99",
 	"doi": "10.1109/DATE.1999.761114",
@@ -8,8 +12,21 @@
 	"pages": "168-174",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["span", "tree", "base", "state", "encod", "for", "low", "power", "dissip"],
-	"tag": ["encoding", "power management"],
+	"stemmed": [
+		"span",
+		"tree",
+		"base",
+		"state",
+		"encod",
+		"for",
+		"low",
+		"power",
+		"dissip"
+	],
+	"tag": [
+		"encoding",
+		"power management"
+	],
 	"title": "Spanning Tree-based State Encoding for Low Power Dissipation",
 	"type": "inproceedings",
 	"venue": "DATE",

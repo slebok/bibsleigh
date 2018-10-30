@@ -1,14 +1,37 @@
 {
-	"author": ["Sourav Chatterji", "Sai Surya Kiran Evani", "Sumit Ganguly", "Mahesh Datt Yemmanuru"],
-	"booktitle": "PODS",
+	"author": [
+		"Sourav Chatterji",
+		"Sai Surya Kiran Evani",
+		"Sumit Ganguly",
+		"Mahesh Datt Yemmanuru"
+	],
+	"booktitle": "Proceedings of the 21st Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2002",
 	"dblpkey": "conf/pods/ChatterjiEGY02",
 	"doi": "10.1145/543613.543650",
-	"ee": ["http://doi.acm.org/10.1145/543613.543650", "http://www.acm.org/sigs/sigmod/pods/proc02/papers/282-ChatterjiEGY.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/543613.543650",
+		"http://www.acm.org/sigs/sigmod/pods/proc02/papers/282-ChatterjiEGY.pdf"
+	],
 	"pages": "282-292",
 	"publisher": "ACM",
-	"stemmed": ["on", "the", "complex", "of", "approxim", "queri", "optim"],
-	"tag": ["approximate", "complexity", "on the", "optimisation", "query"],
+	"stemmed": [
+		"on",
+		"the",
+		"complex",
+		"of",
+		"approxim",
+		"queri",
+		"optim"
+	],
+	"tag": [
+		"approximate",
+		"complexity",
+		"on the",
+		"optimisation",
+		"query"
+	],
 	"title": "On the Complexity of Approximate Query Optimization",
 	"type": "inproceedings",
 	"venue": "PODS",

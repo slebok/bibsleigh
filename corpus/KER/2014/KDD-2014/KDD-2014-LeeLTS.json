@@ -1,14 +1,33 @@
 {
-	"author": ["Pei Lee", "Laks V. S. Lakshmanan", "Mitul Tiwari", "Sam Shah"],
-	"booktitle": "KDD",
+	"author": [
+		"Pei Lee",
+		"Laks V. S. Lakshmanan",
+		"Mitul Tiwari",
+		"Sam Shah"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/LeeLTS14",
 	"doi": "10.1145/2623330.2623356",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623356",
 	"pages": "1837-1846",
 	"publisher": "ACM",
-	"stemmed": ["model", "impress", "discount", "in", "larg", "scale", "recommend", "system"],
-	"tag": ["modelling", "recommendation", "scalability"],
+	"stemmed": [
+		"model",
+		"impress",
+		"discount",
+		"in",
+		"larg",
+		"scale",
+		"recommend",
+		"system"
+	],
+	"tag": [
+		"modelling",
+		"recommendation",
+		"scalability"
+	],
 	"title": "Modeling impression discounting in large-scale recommender systems",
 	"type": "inproceedings",
 	"venue": "KDD",

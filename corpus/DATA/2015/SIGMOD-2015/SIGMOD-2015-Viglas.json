@@ -1,6 +1,6 @@
 {
 	"author": "Stratis D. Viglas",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/Viglas15",
@@ -8,8 +8,18 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2731082",
 	"pages": "1707-1711",
 	"publisher": "ACM",
-	"stemmed": ["data", "manag", "in", "non", "volatil", "memori"],
-	"tag": ["data transformation", "memory management"],
+	"stemmed": [
+		"data",
+		"manag",
+		"in",
+		"non",
+		"volatil",
+		"memori"
+	],
+	"tag": [
+		"data transformation",
+		"memory management"
+	],
 	"title": "Data Management in Non-Volatile Memory",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

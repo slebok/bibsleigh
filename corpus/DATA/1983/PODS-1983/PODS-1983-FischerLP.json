@@ -1,16 +1,54 @@
 {
-	"author": ["Michael J. Fischer", "Nancy A. Lynch", "Mike Paterson"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS83/P001.PDF", "journals/anthology/dvd1:text/1-3/PODS83/P001.PDF"],
-	"cite": ["...", "conf/stoc/DeMilloLM82", "...", "conf/stoc/DolevS82", "journals/ipl/FischerL82", "journals/tc/Garcia-Molina82", "...", "...", "...", "...", "...", "journals/toplas/LamportSP82", "journals/jacm/PeaseSL80", "...", "journals/tods/RosenkrantzSL78", "...", "conf/berkeley/SkeenS81"],
+	"author": [
+		"Michael J. Fischer",
+		"Nancy A. Lynch",
+		"Mike Paterson"
+	],
+	"booktitle": "Proceedings of the Second Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS83/P001.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS83/P001.PDF"
+	],
+	"cite": [
+		"...",
+		"conf/stoc/DeMilloLM82",
+		"...",
+		"conf/stoc/DolevS82",
+		"journals/ipl/FischerL82",
+		"journals/tc/Garcia-Molina82",
+		"...",
+		"...",
+		"...",
+		"...",
+		"...",
+		"journals/toplas/LamportSP82",
+		"journals/jacm/PeaseSL80",
+		"...",
+		"journals/tods/RosenkrantzSL78",
+		"...",
+		"conf/berkeley/SkeenS81"
+	],
 	"crossref": "conf/pods/83",
 	"dblpkey": "conf/pods/FischerLP83",
 	"doi": "10.1145/588058.588060",
 	"ee": "http://doi.acm.org/10.1145/588058.588060",
 	"pages": "1-7",
 	"publisher": "ACM",
-	"stemmed": ["imposs", "of", "distribut", "consensus", "with", "one", "faulti", "process"],
-	"tag": ["distributed", "process"],
+	"stemmed": [
+		"imposs",
+		"of",
+		"distribut",
+		"consensus",
+		"with",
+		"one",
+		"faulti",
+		"process"
+	],
+	"tag": [
+		"distributed",
+		"process"
+	],
 	"title": "Impossibility of Distributed Consensus with One Faulty Process",
 	"type": "inproceedings",
 	"venue": "PODS",

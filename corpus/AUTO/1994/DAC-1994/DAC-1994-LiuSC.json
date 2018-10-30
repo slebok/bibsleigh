@@ -1,13 +1,32 @@
 {
-	"author": ["Lung-Tien Liu", "Minshine Shih", "Chung-Kuan Cheng"],
-	"booktitle": "DAC",
+	"author": [
+		"Lung-Tien Liu",
+		"Minshine Shih",
+		"Chung-Kuan Cheng"
+	],
+	"booktitle": "Proceedings of the 31st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/LiuSC94",
 	"doi": "10.1145/196244.196605",
 	"ee": "http://doi.acm.org/10.1145/196244.196605",
 	"pages": "658-663",
 	"publisher": "ACM Press",
-	"stemmed": ["data", "flow", "partit", "for", "clock", "period", "and", "latenc", "minim"],
-	"tag": ["clustering", "data flow", "latency"],
+	"stemmed": [
+		"data",
+		"flow",
+		"partit",
+		"for",
+		"clock",
+		"period",
+		"and",
+		"latenc",
+		"minim"
+	],
+	"tag": [
+		"clustering",
+		"data flow",
+		"latency"
+	],
 	"title": "Data Flow Partitioning for Clock Period and Latency Minimization",
 	"type": "inproceedings",
 	"venue": "DAC",

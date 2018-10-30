@@ -1,16 +1,48 @@
 {
-	"author": ["Nick Roussopoulos", "Yannis Kotidis", "Mema Roussopoulos"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Nick Roussopoulos",
+		"Yannis Kotidis",
+		"Mema Roussopoulos"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD97/P089.PDF",
-	"cite": ["conf/vldb/AgarwalADGNRS96", "journals/acta/BayerM72", "conf/icde/GrayBLP96", "conf/icde/GuptaHRU97", "books/mk/Gray93", "conf/sigmod/GraySEBW94", "conf/sigmod/Guttman84", "conf/sigmod/HarinarayanRU96", "conf/vldb/KamelF94", "conf/sigmod/NybergBCGL94", "conf/sigmod/RoussopoulosL85", "journals/tods/Roussopoulos82", "conf/vldb/ShuklaDNR96"],
+	"cite": [
+		"conf/vldb/AgarwalADGNRS96",
+		"journals/acta/BayerM72",
+		"conf/icde/GrayBLP96",
+		"conf/icde/GuptaHRU97",
+		"books/mk/Gray93",
+		"conf/sigmod/GraySEBW94",
+		"conf/sigmod/Guttman84",
+		"conf/sigmod/HarinarayanRU96",
+		"conf/vldb/KamelF94",
+		"conf/sigmod/NybergBCGL94",
+		"conf/sigmod/RoussopoulosL85",
+		"journals/tods/Roussopoulos82",
+		"conf/vldb/ShuklaDNR96"
+	],
 	"crossref": "conf/sigmod/97",
 	"dblpkey": "conf/sigmod/RoussopoulosKR97",
 	"doi": "10.1145/253260.253276",
 	"ee": "http://doi.acm.org/10.1145/253260.253276",
 	"pages": "89-99",
 	"publisher": "ACM Press",
-	"stemmed": ["cubetre", "organ", "of", "and", "bulk", "updat", "on", "the", "data", "cube"],
-	"tag": ["named"],
+	"stemmed": [
+		"cubetre",
+		"organ",
+		"of",
+		"and",
+		"bulk",
+		"updat",
+		"on",
+		"the",
+		"data",
+		"cube"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "Cubetree: Organization of and Bulk Updates on the Data Cube",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

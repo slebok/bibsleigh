@@ -1,6 +1,10 @@
 {
-	"author": ["Salvatore Ruggieri", "Dino Pedreschi", "Franco Turini"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Salvatore Ruggieri",
+		"Dino Pedreschi",
+		"Franco Turini"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/RuggieriPT10",
@@ -8,8 +12,17 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807298",
 	"pages": "1127-1130",
 	"publisher": "ACM",
-	"stemmed": ["dcube", "discrimin", "discoveri", "in", "databas"],
-	"tag": ["database", "named"],
+	"stemmed": [
+		"dcube",
+		"discrimin",
+		"discoveri",
+		"in",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"named"
+	],
 	"title": "DCUBE: discrimination discovery in databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

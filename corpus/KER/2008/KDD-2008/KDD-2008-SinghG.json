@@ -1,14 +1,29 @@
 {
-	"author": ["Ajit Paul Singh", "Geoffrey J. Gordon"],
-	"booktitle": "KDD",
+	"author": [
+		"Ajit Paul Singh",
+		"Geoffrey J. Gordon"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/SinghG08",
 	"doi": "10.1145/1401890.1401969",
 	"ee": "http://doi.acm.org/10.1145/1401890.1401969",
 	"pages": "650-658",
 	"publisher": "ACM",
-	"stemmed": ["relat", "learn", "via", "collect", "matrix", "factor"],
-	"tag": ["learning", "matrix", "relational"],
+	"stemmed": [
+		"relat",
+		"learn",
+		"via",
+		"collect",
+		"matrix",
+		"factor"
+	],
+	"tag": [
+		"learning",
+		"matrix",
+		"relational"
+	],
 	"title": "Relational learning via collective matrix factorization",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,14 +1,35 @@
 {
-	"author": ["Swarup Kumar Sahoo", "John Criswell", "Chase Geigle", "Vikram S. Adve"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Swarup Kumar Sahoo",
+		"John Criswell",
+		"Chase Geigle",
+		"Vikram S. Adve"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2013",
 	"dblpkey": "conf/asplos/SahooCGA13",
 	"doi": "10.1145/2451116.2451131",
 	"ee": "http://doi.acm.org/10.1145/2451116.2451131",
 	"pages": "139-152",
 	"publisher": "ACM",
-	"stemmed": ["use", "like", "invari", "for", "autom", "softwar", "fault", "local"],
-	"tag": ["automation", "fault", "invariant", "locality", "using"],
+	"stemmed": [
+		"use",
+		"like",
+		"invari",
+		"for",
+		"autom",
+		"softwar",
+		"fault",
+		"local"
+	],
+	"tag": [
+		"automation",
+		"fault",
+		"invariant",
+		"locality",
+		"using"
+	],
 	"title": "Using likely invariants for automated software fault localization",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

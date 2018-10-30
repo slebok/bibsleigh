@@ -1,14 +1,38 @@
 {
-	"author": ["Andrew Erlichson", "Neal Nuckolls", "Greg Chesson", "John L. Hennessy"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Andrew Erlichson",
+		"Neal Nuckolls",
+		"Greg Chesson",
+		"John L. Hennessy"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1996",
 	"dblpkey": "conf/asplos/ErlichsonNCH96",
 	"doi": "10.1145/237090.237187",
 	"ee": "http://doi.acm.org/10.1145/237090.237187",
 	"pages": "210-220",
 	"publisher": "ACM Press",
-	"stemmed": ["soft", "flash", "analyz", "the", "perform", "of", "cluster", "distribut", "virtual", "share", "memori"],
-	"tag": ["clustering", "distributed", "memory management", "named", "performance"],
+	"stemmed": [
+		"soft",
+		"flash",
+		"analyz",
+		"the",
+		"perform",
+		"of",
+		"cluster",
+		"distribut",
+		"virtual",
+		"share",
+		"memori"
+	],
+	"tag": [
+		"clustering",
+		"distributed",
+		"memory management",
+		"named",
+		"performance"
+	],
 	"title": "SoftFLASH: Analyzing the Performance of Clustered Distributed Virtual Shared Memory",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

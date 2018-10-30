@@ -1,6 +1,11 @@
 {
-	"author": ["Ayrat Khalimov", "Swen Jacobs", "Roderick Bloem"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Ayrat Khalimov",
+		"Swen Jacobs",
+		"Roderick Bloem"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2013",
 	"dblpkey": "conf/vmcai/KhalimovJB13",
 	"doi": "10.1007/978-3-642-35873-9_9",
@@ -10,11 +15,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["toward", "effici", "parameter", "synthesi"],
-	"tag": ["performance", "synthesis", "towards"],
+	"stemmed": [
+		"toward",
+		"effici",
+		"parameter",
+		"synthesi"
+	],
+	"tag": [
+		"performance",
+		"synthesis",
+		"towards"
+	],
 	"title": "Towards Efficient Parameterized Synthesis",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 7737,
+	"volume": "7737",
 	"year": 2013
 }

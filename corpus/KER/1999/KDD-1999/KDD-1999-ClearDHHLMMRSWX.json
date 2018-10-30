@@ -1,14 +1,39 @@
 {
-	"author": ["John Clear", "Debbie Dunn", "Brad Harvey", "Michael L. Heytens", "Peter Lohman", "Abhay Mehta", "Mark Melton", "Lars Rohrberg", "Ashok Savasere", "Robert M. Wehrmeister", "Melody Xu"],
-	"booktitle": "KDD",
+	"author": [
+		"John Clear",
+		"Debbie Dunn",
+		"Brad Harvey",
+		"Michael L. Heytens",
+		"Peter Lohman",
+		"Abhay Mehta",
+		"Mark Melton",
+		"Lars Rohrberg",
+		"Ashok Savasere",
+		"Robert M. Wehrmeister",
+		"Melody Xu"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1999",
 	"dblpkey": "conf/kdd/ClearDHHLMMRSWX99",
 	"doi": "10.1145/312129.312309",
 	"ee": "http://doi.acm.org/10.1145/312129.312309",
 	"pages": "425-429",
 	"publisher": "ACM",
-	"stemmed": ["non", "stop", "sql", "mx", "primit", "for", "knowledg", "discoveri"],
-	"tag": ["information management", "sql"],
+	"stemmed": [
+		"non",
+		"stop",
+		"sql",
+		"mx",
+		"primit",
+		"for",
+		"knowledg",
+		"discoveri"
+	],
+	"tag": [
+		"information management",
+		"sql"
+	],
 	"title": "NonStop SQL/MX Primitives for Knowledge Discovery",
 	"type": "inproceedings",
 	"venue": "KDD",

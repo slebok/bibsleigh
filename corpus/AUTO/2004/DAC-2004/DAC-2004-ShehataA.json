@@ -1,14 +1,30 @@
 {
-	"author": ["Hazem I. Shehata", "Mark Aagaard"],
-	"booktitle": "DAC",
+	"author": [
+		"Hazem I. Shehata",
+		"Mark Aagaard"
+	],
+	"booktitle": "Proceedings of the 41st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2004",
 	"dblpkey": "conf/dac/ShehataA04",
 	"doi": "10.1145/996566.996632",
 	"ee": "http://doi.acm.org/10.1145/996566.996632",
 	"pages": "234-237",
 	"publisher": "ACM",
-	"stemmed": ["a", "general", "decomposit", "strategi", "for", "verifi", "regist", "renam"],
-	"tag": ["composition", "verification"],
+	"stemmed": [
+		"a",
+		"general",
+		"decomposit",
+		"strategi",
+		"for",
+		"verifi",
+		"regist",
+		"renam"
+	],
+	"tag": [
+		"composition",
+		"verification"
+	],
 	"title": "A general decomposition strategy for verifying register renaming",
 	"type": "inproceedings",
 	"venue": "DAC",

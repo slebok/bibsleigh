@@ -1,6 +1,7 @@
 {
 	"author": "Paul Jackson",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/Jackson94",
 	"doi": "10.1007/3-540-58156-1_43",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["explor", "abstract", "algebra", "in", "construct", "type", "theori"],
-	"tag": ["algebra", "type system"],
+	"stemmed": [
+		"explor",
+		"abstract",
+		"algebra",
+		"in",
+		"construct",
+		"type",
+		"theori"
+	],
+	"tag": [
+		"algebra",
+		"type system"
+	],
 	"title": "Exploring Abstract Algebra in Constructive Type Theory",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

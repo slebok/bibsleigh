@@ -1,14 +1,35 @@
 {
-	"author": ["Tai-Hsuan Wu", "Azadeh Davoodi", "Jeffrey T. Linderoth"],
-	"booktitle": "DAC",
+	"author": [
+		"Tai-Hsuan Wu",
+		"Azadeh Davoodi",
+		"Jeffrey T. Linderoth"
+	],
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/WuDL09",
 	"doi": "10.1145/1629911.1629999",
 	"ee": "http://doi.acm.org/10.1145/1629911.1629999",
 	"pages": "320-325",
 	"publisher": "ACM",
-	"stemmed": ["grip", "scalabl", "d", "global", "rout", "use", "integ", "program"],
-	"tag": ["3d", "integer", "named", "programming", "scalability", "using"],
+	"stemmed": [
+		"grip",
+		"scalabl",
+		"d",
+		"global",
+		"rout",
+		"use",
+		"integ",
+		"program"
+	],
+	"tag": [
+		"3d",
+		"integer",
+		"named",
+		"programming",
+		"scalability",
+		"using"
+	],
 	"title": "GRIP: scalable 3D global routing using integer programming",
 	"type": "inproceedings",
 	"venue": "DAC",

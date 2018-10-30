@@ -1,14 +1,33 @@
 {
-	"author": ["Rong Ye", "Feng Yuan", "Zelong Sun", "Wen-Ben Jone", "Qiang Xu"],
-	"booktitle": "DAC",
+	"author": [
+		"Rong Ye",
+		"Feng Yuan",
+		"Zelong Sun",
+		"Wen-Ben Jone",
+		"Qiang Xu"
+	],
+	"booktitle": "Proceedings of the 50th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2013",
 	"dblpkey": "conf/dac/YeYSJX13",
 	"doi": "10.1145/2463209.2488872",
 	"ee": "http://doi.acm.org/10.1145/2463209.2488872",
 	"pages": "112:1-112:6",
 	"publisher": "ACM",
-	"stemmed": ["post", "placement", "voltag", "island", "generat", "for", "time", "specul", "circuit"],
-	"tag": ["generative"],
+	"stemmed": [
+		"post",
+		"placement",
+		"voltag",
+		"island",
+		"generat",
+		"for",
+		"time",
+		"specul",
+		"circuit"
+	],
+	"tag": [
+		"generative"
+	],
 	"title": "Post-placement voltage island generation for timing-speculative circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

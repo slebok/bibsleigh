@@ -1,14 +1,35 @@
 {
-	"author": ["Jason Cong", "Bin Liu"],
-	"booktitle": "DAC",
+	"author": [
+		"Jason Cong",
+		"Bin Liu"
+	],
+	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/CongL12",
 	"doi": "10.1145/2228360.2228587",
 	"ee": "http://doi.acm.org/10.1145/2228360.2228587",
 	"pages": "1239-1244",
 	"publisher": "ACM",
-	"stemmed": ["a", "metric", "for", "layout", "friend", "microarchitectur", "optim", "in", "high", "level", "synthesi"],
-	"tag": ["architecture", "metric", "optimisation", "synthesis"],
+	"stemmed": [
+		"a",
+		"metric",
+		"for",
+		"layout",
+		"friend",
+		"microarchitectur",
+		"optim",
+		"in",
+		"high",
+		"level",
+		"synthesi"
+	],
+	"tag": [
+		"architecture",
+		"metric",
+		"optimisation",
+		"synthesis"
+	],
 	"title": "A metric for layout-friendly microarchitecture optimization in high-level synthesis",
 	"type": "inproceedings",
 	"venue": "DAC",

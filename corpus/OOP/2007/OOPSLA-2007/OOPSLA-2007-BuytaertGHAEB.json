@@ -1,17 +1,40 @@
 {
-	"author": ["Dries Buytaert", "Andy Georges", "Michael Hind", "Matthew Arnold", "Lieven Eeckhout", "Koen De Bosschere"],
-	"booktitle": "Proceedings of the 22nd Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Dries Buytaert",
+		"Andy Georges",
+		"Michael Hind",
+		"Matthew Arnold",
+		"Lieven Eeckhout",
+		"Koen De Bosschere"
+	],
+	"booktitle": "Proceedings of the 22nd Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2007",
 	"dblpkey": "conf/oopsla/BuytaertGHAEB07",
 	"doi": "10.1145/1297027.1297068",
-	"editor": ["Richard P. Gabriel", "David F. Bacon", "Cristina Videira Lopes", "Guy L. Steele Jr."],
+	"editor": [
+		"Richard P. Gabriel",
+		"David F. Bacon",
+		"Cristina Videira Lopes",
+		"Guy L. Steele Jr."
+	],
 	"ee": "http://doi.acm.org/10.1145/1297027.1297068",
 	"isbn": "978-1-59593-786-5",
 	"pages": "553-568",
 	"publisher": "ACM",
-	"stemmed": ["use", "hpm", "sampl", "to", "drive", "dynam", "compil"],
-	"tag": ["compilation", "using"],
+	"stemmed": [
+		"use",
+		"hpm",
+		"sampl",
+		"to",
+		"drive",
+		"dynam",
+		"compil"
+	],
+	"tag": [
+		"compilation",
+		"using"
+	],
 	"title": "Using hpm-sampling to drive dynamic compilation",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

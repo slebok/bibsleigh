@@ -1,14 +1,36 @@
 {
-	"author": ["Vito Claudio Ostuni", "Tommaso Di Noia", "Eugenio Di Sciascio", "Roberto Mirizzi"],
-	"booktitle": "RecSys",
+	"author": [
+		"Vito Claudio Ostuni",
+		"Tommaso Di Noia",
+		"Eugenio Di Sciascio",
+		"Roberto Mirizzi"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2013",
 	"dblpkey": "conf/recsys/OstuniNSM13",
 	"doi": "10.1145/2507157.2507172",
 	"ee": "http://doi.acm.org/10.1145/2507157.2507172",
 	"pages": "85-92",
 	"publisher": "ACM",
-	"stemmed": ["top", "n", "recommend", "from", "implicit", "feedback", "leverag", "link", "open", "data"],
-	"tag": ["feedback", "linked data", "open data", "recommendation"],
+	"stemmed": [
+		"top",
+		"n",
+		"recommend",
+		"from",
+		"implicit",
+		"feedback",
+		"leverag",
+		"link",
+		"open",
+		"data"
+	],
+	"tag": [
+		"feedback",
+		"linked data",
+		"open data",
+		"recommendation"
+	],
 	"title": "Top-N recommendations from implicit feedback leveraging linked open data",
 	"type": "inproceedings",
 	"venue": "RecSys",

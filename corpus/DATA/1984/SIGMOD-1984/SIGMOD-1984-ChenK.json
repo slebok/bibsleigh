@@ -1,16 +1,45 @@
 {
-	"author": ["Huei-Huang Chen", "Sharon McCure Kuck"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Huei-Huang Chen",
+		"Sharon McCure Kuck"
+	],
+	"booktitle": "Proceedings of the 14th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD84/P131.PDF",
-	"cite": ["journals/tods/BernsteinGWRR81", "journals/cacm/Codd70", "conf/sigmod/DayalG82", "journals/tods/Kim82", "...", "conf/pods/KuckS82", "conf/sigmod/KuckS83", "...", "...", "conf/sigmod/SelingerACLP79", "journals/tods/WongY76", "journals/cacm/Yao77", "journals/tods/Yao79"],
+	"cite": [
+		"journals/tods/BernsteinGWRR81",
+		"journals/cacm/Codd70",
+		"conf/sigmod/DayalG82",
+		"journals/tods/Kim82",
+		"...",
+		"conf/pods/KuckS82",
+		"conf/sigmod/KuckS83",
+		"...",
+		"...",
+		"conf/sigmod/SelingerACLP79",
+		"journals/tods/WongY76",
+		"journals/cacm/Yao77",
+		"journals/tods/Yao79"
+	],
 	"crossref": "conf/sigmod/84",
 	"dblpkey": "conf/sigmod/ChenK84",
 	"doi": "10.1145/602259.602277",
 	"ee": "http://doi.acm.org/10.1145/602259.602277",
 	"pages": "131-142",
 	"publisher": "ACM Press",
-	"stemmed": ["combin", "relat", "and", "network", "retriev", "method"],
-	"tag": ["network", "relational", "retrieval"],
+	"stemmed": [
+		"combin",
+		"relat",
+		"and",
+		"network",
+		"retriev",
+		"method"
+	],
+	"tag": [
+		"network",
+		"relational",
+		"retrieval"
+	],
 	"title": "Combining Relational and Network Retrieval Methods",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

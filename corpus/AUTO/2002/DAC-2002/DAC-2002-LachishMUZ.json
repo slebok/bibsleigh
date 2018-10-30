@@ -1,14 +1,30 @@
 {
-	"author": ["Oded Lachish", "Eitan Marcus", "Shmuel Ur", "Avi Ziv"],
-	"booktitle": "DAC",
+	"author": [
+		"Oded Lachish",
+		"Eitan Marcus",
+		"Shmuel Ur",
+		"Avi Ziv"
+	],
+	"booktitle": "Proceedings of the 39th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2002",
 	"dblpkey": "conf/dac/LachishMUZ02",
 	"doi": "10.1145/513918.514119",
 	"ee": "http://doi.acm.org/10.1145/513918.514119",
 	"pages": "807-812",
 	"publisher": "ACM",
-	"stemmed": ["hole", "analysi", "for", "function", "coverag", "data"],
-	"tag": ["analysis", "functional"],
+	"stemmed": [
+		"hole",
+		"analysi",
+		"for",
+		"function",
+		"coverag",
+		"data"
+	],
+	"tag": [
+		"analysis",
+		"functional"
+	],
 	"title": "Hole analysis for functional coverage data",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,6 +1,12 @@
 {
-	"author": ["Juha Kontinen", "Julian-Steffen Müller", "Henning Schnoor", "Heribert Vollmer"],
-	"booktitle": "CSL",
+	"author": [
+		"Juha Kontinen",
+		"Julian-Steffen Müller",
+		"Henning Schnoor",
+		"Heribert Vollmer"
+	],
+	"booktitle": "24th EACSL Annual Conference on Computer Science Logic, CSL 2015, September 7-10, 2015, Berlin, Germany",
+	"booktitleshort": "CSL",
 	"crossref": "conf/csl/2015",
 	"dblpkey": "conf/csl/KontinenMSV15",
 	"doi": "10.4230/LIPIcs.CSL.2015.277",
@@ -10,11 +16,23 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["a", "van", "benthem", "theorem", "for", "modal", "team", "semant"],
-	"tag": ["semantics", "theorem"],
+	"stemmed": [
+		"a",
+		"van",
+		"benthem",
+		"theorem",
+		"for",
+		"modal",
+		"team",
+		"semant"
+	],
+	"tag": [
+		"semantics",
+		"theorem"
+	],
 	"title": "A Van Benthem Theorem for Modal Team Semantics",
 	"type": "inproceedings",
 	"venue": "CSL",
-	"volume": 41,
+	"volume": "41",
 	"year": 2015
 }

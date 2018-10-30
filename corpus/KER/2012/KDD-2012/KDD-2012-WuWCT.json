@@ -1,14 +1,39 @@
 {
-	"author": ["Zhiang Wu", "Junjie Wu", "Jie Cao", "Dacheng Tao"],
-	"booktitle": "KDD",
+	"author": [
+		"Zhiang Wu",
+		"Junjie Wu",
+		"Jie Cao",
+		"Dacheng Tao"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/WuWCT12",
 	"doi": "10.1145/2339530.2339684",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339684",
 	"pages": "985-993",
 	"publisher": "ACM",
-	"stemmed": ["hy", "sad", "a", "semi", "supervis", "hybrid", "shill", "attack", "detector", "for", "trustworthi", "product", "recommend"],
-	"tag": ["detection", "hybrid", "named", "recommendation"],
+	"stemmed": [
+		"hy",
+		"sad",
+		"a",
+		"semi",
+		"supervis",
+		"hybrid",
+		"shill",
+		"attack",
+		"detector",
+		"for",
+		"trustworthi",
+		"product",
+		"recommend"
+	],
+	"tag": [
+		"detection",
+		"hybrid",
+		"named",
+		"recommendation"
+	],
 	"title": "HySAD: a semi-supervised hybrid shilling attack detector for trustworthy product recommendation",
 	"type": "inproceedings",
 	"venue": "KDD",

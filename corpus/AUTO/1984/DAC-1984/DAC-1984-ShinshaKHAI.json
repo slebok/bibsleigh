@@ -1,13 +1,34 @@
 {
-	"acmid": 800815,
-	"author": ["T. Shinsha", "T. Kubo", "M. Hikosaka", "K. Akiyama", "Koichiro Ishihara"],
-	"booktitle": "DAC",
+	"acmid": "800815",
+	"author": [
+		"T. Shinsha",
+		"T. Kubo",
+		"M. Hikosaka",
+		"K. Akiyama",
+		"Koichiro Ishihara"
+	],
+	"booktitle": "Proceedings of the 21st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1984",
 	"dblpkey": "conf/dac/ShinshaKHAI84",
 	"pages": "322-328",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["polari", "polar", "propag", "algorithm", "for", "combin", "logic", "synthesi"],
-	"tag": ["algorithm", "logic", "named", "synthesis"],
+	"stemmed": [
+		"polari",
+		"polar",
+		"propag",
+		"algorithm",
+		"for",
+		"combin",
+		"logic",
+		"synthesi"
+	],
+	"tag": [
+		"algorithm",
+		"logic",
+		"named",
+		"synthesis"
+	],
 	"title": "Polaris: Polarity propagation algorithm for combinational logic synthesis",
 	"type": "inproceedings",
 	"venue": "DAC",

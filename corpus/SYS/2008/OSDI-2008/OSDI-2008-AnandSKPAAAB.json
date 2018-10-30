@@ -1,13 +1,33 @@
 {
-	"author": ["Ashok Anand", "Sayandeep Sen", "Andrew Krioukov", "Florentina I. Popovici", "Aditya Akella", "Andrea C. Arpaci-Dusseau", "Remzi H. Arpaci-Dusseau", "Suman Banerjee"],
-	"booktitle": "OSDI",
+	"author": [
+		"Ashok Anand",
+		"Sayandeep Sen",
+		"Andrew Krioukov",
+		"Florentina I. Popovici",
+		"Aditya Akella",
+		"Andrea C. Arpaci-Dusseau",
+		"Remzi H. Arpaci-Dusseau",
+		"Suman Banerjee"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/AnandSKPAAAB08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/anand/anand.pdf",
 	"pages": "161-176",
 	"publisher": "USENIX Association",
-	"stemmed": ["avoid", "file", "system", "micromanag", "with", "rang", "write"],
-	"tag": ["file system"],
+	"stemmed": [
+		"avoid",
+		"file",
+		"system",
+		"micromanag",
+		"with",
+		"rang",
+		"write"
+	],
+	"tag": [
+		"file system"
+	],
 	"title": "Avoiding File System Micromanagement with Range Writes",
 	"type": "inproceedings",
 	"venue": "OSDI",

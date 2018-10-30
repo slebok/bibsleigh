@@ -1,13 +1,32 @@
 {
-	"author": ["Chee Yong Chan", "Minos N. Garofalakis", "Rajeev Rastogi"],
-	"booktitle": "VLDB",
+	"author": [
+		"Chee Yong Chan",
+		"Minos N. Garofalakis",
+		"Rajeev Rastogi"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/ChanGR02",
 	"ee": "http://www.vldb.org/conf/2002/S08P02.pdf",
 	"pages": "263-274",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["re", "tree", "an", "effici", "index", "structur", "for", "regular", "express"],
-	"tag": ["named", "performance", "regular expression"],
+	"stemmed": [
+		"re",
+		"tree",
+		"an",
+		"effici",
+		"index",
+		"structur",
+		"for",
+		"regular",
+		"express"
+	],
+	"tag": [
+		"named",
+		"performance",
+		"regular expression"
+	],
 	"title": "RE-Tree: An Efficient Index Structure for Regular Expressions",
 	"type": "inproceedings",
 	"venue": "VLDB",

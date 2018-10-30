@@ -1,6 +1,12 @@
 {
-	"author": ["Nikolaos Papailiou", "Dimitrios Tsoumakos", "Ioannis Konstantinou", "Panagiotis Karras", "Nectarios Koziris"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Nikolaos Papailiou",
+		"Dimitrios Tsoumakos",
+		"Ioannis Konstantinou",
+		"Panagiotis Karras",
+		"Nectarios Koziris"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/PapailiouTKKK14",
@@ -8,8 +14,25 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2594535",
 	"pages": "909-912",
 	"publisher": "ACM",
-	"stemmed": ["h", "rdf", "an", "effici", "data", "manag", "system", "for", "big", "rdf", "graph"],
-	"tag": ["data transformation", "graph", "performance", "rdf"],
+	"stemmed": [
+		"h",
+		"rdf",
+		"an",
+		"effici",
+		"data",
+		"manag",
+		"system",
+		"for",
+		"big",
+		"rdf",
+		"graph"
+	],
+	"tag": [
+		"data transformation",
+		"graph",
+		"performance",
+		"rdf"
+	],
 	"title": "H2RDF+: an efficient data management system for big RDF graphs",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

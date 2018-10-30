@@ -1,14 +1,27 @@
 {
 	"author": "Carl A. Waldspurger",
-	"booktitle": "OSDI",
+	"booktitle": "Proceedings of the Fifth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2002",
 	"dblpkey": "conf/osdi/Waldspurger02",
 	"doi": "10.1145/1060289.1060307",
 	"ee": "http://www.usenix.org/events/osdi02/tech/waldspurger.html",
 	"pages": "181-194",
 	"publisher": "USENIX Association",
-	"stemmed": ["memori", "resourc", "manag", "in", "v", "mware", "esx", "server"],
-	"tag": ["memory management", "resource management"],
+	"stemmed": [
+		"memori",
+		"resourc",
+		"manag",
+		"in",
+		"v",
+		"mware",
+		"esx",
+		"server"
+	],
+	"tag": [
+		"memory management",
+		"resource management"
+	],
 	"title": "Memory Resource Management in VMware ESX Server",
 	"type": "inproceedings",
 	"venue": "OSDI",

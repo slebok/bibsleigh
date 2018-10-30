@@ -1,15 +1,44 @@
 {
-	"author": ["Georges Gardarin", "Michel A. Melkanoff"],
-	"booktitle": "VLDB",
+	"author": [
+		"Georges Gardarin",
+		"Michel A. Melkanoff"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB79/P291.PDF",
-	"cite": ["...", "...", "journals/cacm/Codd70", "journals/cacm/EswarranGLT76", "journals/cacm/Hoare69", "journals/cacm/Howard76", "...", "journals/cacm/OwickiG76", "...", "...", "journals/tods/StonebrakerWKH76", "conf/vldb/StonebrakerR77", "..."],
+	"cite": [
+		"...",
+		"...",
+		"journals/cacm/Codd70",
+		"journals/cacm/EswarranGLT76",
+		"journals/cacm/Hoare69",
+		"journals/cacm/Howard76",
+		"...",
+		"journals/cacm/OwickiG76",
+		"...",
+		"...",
+		"journals/tods/StonebrakerWKH76",
+		"conf/vldb/StonebrakerR77",
+		"..."
+	],
 	"crossref": "conf/vldb/79",
 	"dblpkey": "conf/vldb/GardarinM79",
 	"pages": "291-298",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["prove", "consist", "of", "databas", "transact"],
-	"tag": ["consistency", "database", "proving", "transaction"],
+	"stemmed": [
+		"prove",
+		"consist",
+		"of",
+		"databas",
+		"transact"
+	],
+	"tag": [
+		"consistency",
+		"database",
+		"proving",
+		"transaction"
+	],
 	"title": "Proving Consistency of Database Transactions",
 	"type": "inproceedings",
 	"venue": "VLDB",

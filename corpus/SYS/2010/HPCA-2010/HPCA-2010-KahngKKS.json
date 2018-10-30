@@ -1,6 +1,12 @@
 {
-	"author": ["Andrew B. Kahng", "Seokhyeong Kang", "Rakesh Kumar", "John Sartori"],
-	"booktitle": "HPCA",
+	"author": [
+		"Andrew B. Kahng",
+		"Seokhyeong Kang",
+		"Rakesh Kumar",
+		"John Sartori"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2010",
 	"dblpkey": "conf/hpca/KahngKKS10",
 	"doi": "10.1109/HPCA.2010.5416652",
@@ -8,8 +14,25 @@
 	"pages": "1-11",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["design", "a", "processor", "from", "the", "ground", "up", "to", "allow", "voltag", "reliabl", "tradeoff"],
-	"tag": ["design", "reliability", "trade-off"],
+	"stemmed": [
+		"design",
+		"a",
+		"processor",
+		"from",
+		"the",
+		"ground",
+		"up",
+		"to",
+		"allow",
+		"voltag",
+		"reliabl",
+		"tradeoff"
+	],
+	"tag": [
+		"design",
+		"reliability",
+		"trade-off"
+	],
 	"title": "Designing a processor from the ground up to allow voltage/reliability tradeoffs",
 	"type": "inproceedings",
 	"venue": "HPCA",

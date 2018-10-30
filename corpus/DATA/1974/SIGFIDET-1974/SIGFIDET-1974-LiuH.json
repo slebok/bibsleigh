@@ -1,6 +1,10 @@
 {
-	"author": ["Shaun Liu", "Jack Heller"],
-	"booktitle": "SIGMOD Workshop, Vol. 1",
+	"author": [
+		"Shaun Liu",
+		"Jack Heller"
+	],
+	"booktitle": "Proceedings of the Fourth ACM-SIGFIDET Workshop on Data Description, Access and Control",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGFIDET74-1/P171.pdf",
 	"crossref": "conf/sigmod/74",
 	"dblpkey": "conf/sigmod/LiuH74",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/800296.811511",
 	"pages": "171-189",
 	"publisher": "ACM",
-	"stemmed": ["a", "record", "orient", "grammar", "driven", "data", "translat", "model"],
-	"tag": ["grammarware"],
+	"stemmed": [
+		"a",
+		"record",
+		"orient",
+		"grammar",
+		"driven",
+		"data",
+		"translat",
+		"model"
+	],
+	"tag": [
+		"grammarware"
+	],
 	"title": "A Record Oriented, Grammar Driven Data Translation Model",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

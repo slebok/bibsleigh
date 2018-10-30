@@ -1,6 +1,10 @@
 {
-	"author": ["Edgar B. Wendlandt", "James R. Driscoll"],
+	"author": [
+		"Edgar B. Wendlandt",
+		"James R. Driscoll"
+	],
 	"booktitle": "Proceedings of the 14th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1991/P270.pdf",
 	"crossref": "conf/sigir/91",
 	"dblpkey": "conf/sigir/WendlandtD91",
@@ -8,8 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/122860.122888",
 	"pages": "270-279",
 	"publisher": "ACM",
-	"stemmed": ["incorpor", "a", "semant", "analysi", "into", "a", "document", "retriev", "strategi"],
-	"tag": ["analysis", "documentation", "retrieval", "semantics"],
+	"stemmed": [
+		"incorpor",
+		"a",
+		"semant",
+		"analysi",
+		"into",
+		"a",
+		"document",
+		"retriev",
+		"strategi"
+	],
+	"tag": [
+		"analysis",
+		"documentation",
+		"retrieval",
+		"semantics"
+	],
 	"title": "Incorporating a Semantic Analysis into a Document Retrieval Strategy",
 	"type": "inproceedings",
 	"venue": "SIGIR",

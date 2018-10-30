@@ -1,7 +1,7 @@
 {
 	"author": "Carl A. Gunter",
 	"booktitle": "Proceedings of the Fourth Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/1996",
 	"dblpkey": "conf/sigsoft/Gunter96",
 	"doi": "10.1145/239098.239129",
@@ -9,8 +9,17 @@
 	"ee": "http://doi.acm.org/10.1145/239098.239129",
 	"pages": "167-178",
 	"publisher": "ACM",
-	"stemmed": ["abstract", "depend", "between", "softwar", "configur", "item"],
-	"tag": ["dependence"],
+	"stemmed": [
+		"abstract",
+		"depend",
+		"between",
+		"softwar",
+		"configur",
+		"item"
+	],
+	"tag": [
+		"dependence"
+	],
 	"title": "Abstracting Dependencies between Software Configuration Items",
 	"type": "inproceedings",
 	"venue": "FSE",

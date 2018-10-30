@@ -1,6 +1,10 @@
 {
-	"author": ["Paolo Atzeni", "Paolo Cappellari", "Giorgio Gianforme"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Paolo Atzeni",
+		"Paolo Cappellari",
+		"Giorgio Gianforme"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/AtzeniCG07",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247632",
 	"pages": "1134-1136",
 	"publisher": "ACM",
-	"stemmed": ["midst", "model", "independ", "schema", "and", "data", "translat"],
-	"tag": ["independence", "named"],
+	"stemmed": [
+		"midst",
+		"model",
+		"independ",
+		"schema",
+		"and",
+		"data",
+		"translat"
+	],
+	"tag": [
+		"independence",
+		"named"
+	],
 	"title": "MIDST: model independent schema and data translation",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

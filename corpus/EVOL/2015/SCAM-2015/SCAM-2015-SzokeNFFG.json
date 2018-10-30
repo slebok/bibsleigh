@@ -1,13 +1,35 @@
 {
-	"author": ["Gábor Szoke", "Csaba Nagy", "Lajos Jeno Fülöp", "Rudolf Ferenc", "Tibor Gyimóthy"],
-	"booktitle": "SCAM",
+	"author": [
+		"Gábor Szoke",
+		"Csaba Nagy",
+		"Lajos Jeno Fülöp",
+		"Rudolf Ferenc",
+		"Tibor Gyimóthy"
+	],
+	"booktitle": "Proceedings of the 15th International Working Conference on Source Code Analysis and Manipulation",
+	"booktitleshort": "SCAM",
 	"crossref": "conf/scam/2015",
 	"dblpkey": "conf/scam/SzokeNFFG15",
 	"doi": "10.1109/SCAM.2015.7335422",
 	"pages": "253-258",
 	"publisher": "IEEE",
-	"stemmed": ["fault", "buster", "an", "automat", "code", "smell", "refactor", "toolset"],
-	"tag": ["automation", "named", "refactoring", "smell", "tool support"],
+	"stemmed": [
+		"fault",
+		"buster",
+		"an",
+		"automat",
+		"code",
+		"smell",
+		"refactor",
+		"toolset"
+	],
+	"tag": [
+		"automation",
+		"named",
+		"refactoring",
+		"smell",
+		"tool support"
+	],
 	"title": "FaultBuster: An automatic code smell refactoring toolset",
 	"type": "inproceedings",
 	"venue": "SCAM",

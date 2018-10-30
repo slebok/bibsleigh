@@ -1,15 +1,39 @@
 {
-	"author": ["Daniel Sánchez", "Christos Kozyrakis"],
-	"booktitle": "HPCA",
+	"author": [
+		"Daniel Sánchez",
+		"Christos Kozyrakis"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2012",
 	"dblpkey": "conf/hpca/SanchezK12",
 	"doi": "10.1109/HPCA.2012.6168950",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2012.6168950", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6168950"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2012.6168950",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6168950"
+	],
 	"pages": "129-140",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["scd", "a", "scalabl", "coher", "directori", "with", "flexibl", "sharer", "set", "encod"],
-	"tag": ["encoding", "flexibility", "named", "scalability", "set"],
+	"stemmed": [
+		"scd",
+		"a",
+		"scalabl",
+		"coher",
+		"directori",
+		"with",
+		"flexibl",
+		"sharer",
+		"set",
+		"encod"
+	],
+	"tag": [
+		"encoding",
+		"flexibility",
+		"named",
+		"scalability",
+		"set"
+	],
 	"title": "SCD: A scalable coherence directory with flexible sharer set encoding",
 	"type": "inproceedings",
 	"venue": "HPCA",

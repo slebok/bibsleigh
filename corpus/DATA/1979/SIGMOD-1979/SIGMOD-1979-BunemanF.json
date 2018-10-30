@@ -1,16 +1,41 @@
 {
-	"author": ["Peter Buneman", "Robert E. Frankel"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Peter Buneman",
+		"Robert E. Frankel"
+	],
+	"booktitle": "Proceedings of the Ninth ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD79/P052.PDF",
-	"cite": ["journals/cacm/Backus78", "...", "conf/sigmod/ChamberlinB74", "...", "conf/icalp/FriedmanW76", "...", "...", "...", "journals/tods/SmithS77", "journals/tods/StonebrakerWKH76"],
+	"cite": [
+		"journals/cacm/Backus78",
+		"...",
+		"conf/sigmod/ChamberlinB74",
+		"...",
+		"conf/icalp/FriedmanW76",
+		"...",
+		"...",
+		"...",
+		"journals/tods/SmithS77",
+		"journals/tods/StonebrakerWKH76"
+	],
 	"crossref": "conf/sigmod/79",
 	"dblpkey": "conf/sigmod/BunemanF79",
 	"doi": "10.1145/582095.582104",
 	"ee": "http://doi.acm.org/10.1145/582095.582104",
 	"pages": "52-58",
 	"publisher": "ACM",
-	"stemmed": ["fql", "a", "function", "queri", "languag"],
-	"tag": ["functional", "named", "query"],
+	"stemmed": [
+		"fql",
+		"a",
+		"function",
+		"queri",
+		"languag"
+	],
+	"tag": [
+		"functional",
+		"named",
+		"query"
+	],
 	"title": "FQL — A Functional Query Language",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

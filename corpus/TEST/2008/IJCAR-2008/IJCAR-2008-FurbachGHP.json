@@ -1,6 +1,12 @@
 {
-	"author": ["Ulrich Furbach", "Ingo Glöckner", "Hermann Helbig", "Björn Pelzer"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Ulrich Furbach",
+		"Ingo Glöckner",
+		"Hermann Helbig",
+		"Björn Pelzer"
+	],
+	"booktitle": "Proceedings of the Fourth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2008",
 	"dblpkey": "conf/cade/FurbachGHP08",
 	"doi": "10.1007/978-3-540-71070-7_11",
@@ -10,11 +16,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["log", "answer", "a", "deduct", "base", "question", "answer", "system", "system", "descript"],
-	"tag": ["named"],
+	"stemmed": [
+		"log",
+		"answer",
+		"a",
+		"deduct",
+		"base",
+		"question",
+		"answer",
+		"system",
+		"system",
+		"descript"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "LogAnswer — A Deduction-Based Question Answering System (System Description)",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 5195,
+	"volume": "5195",
 	"year": 2008
 }

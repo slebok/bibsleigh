@@ -1,14 +1,34 @@
 {
-	"author": ["Mehran Bozorgi", "Lawrence K. Saul", "Stefan Savage", "Geoffrey M. Voelker"],
-	"booktitle": "KDD",
+	"author": [
+		"Mehran Bozorgi",
+		"Lawrence K. Saul",
+		"Stefan Savage",
+		"Geoffrey M. Voelker"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/BozorgiSSV10",
 	"doi": "10.1145/1835804.1835821",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835821",
 	"pages": "105-114",
 	"publisher": "ACM",
-	"stemmed": ["beyond", "heurist", "learn", "to", "classifi", "vulner", "and", "predict", "exploit"],
-	"tag": ["heuristic", "learning", "predict"],
+	"stemmed": [
+		"beyond",
+		"heurist",
+		"learn",
+		"to",
+		"classifi",
+		"vulner",
+		"and",
+		"predict",
+		"exploit"
+	],
+	"tag": [
+		"heuristic",
+		"learning",
+		"predict"
+	],
 	"title": "Beyond heuristics: learning to classify vulnerabilities and predict exploits",
 	"type": "inproceedings",
 	"venue": "KDD",

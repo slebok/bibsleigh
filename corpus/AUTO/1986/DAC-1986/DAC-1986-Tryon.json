@@ -1,13 +1,24 @@
 {
 	"author": "David R. Tryon",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 23rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/Tryon86",
 	"doi": "10.1145/318013.318073",
 	"ee": "http://doi.acm.org/10.1145/318013.318073",
 	"pages": "374-377",
 	"publisher": "IEEE Computer Society Press",
-	"stemmed": ["self", "test", "with", "correl", "fault"],
-	"tag": ["correlation", "fault", "self"],
+	"stemmed": [
+		"self",
+		"test",
+		"with",
+		"correl",
+		"fault"
+	],
+	"tag": [
+		"correlation",
+		"fault",
+		"self"
+	],
 	"title": "Self-testing with correlated faults",
 	"type": "inproceedings",
 	"venue": "DAC",

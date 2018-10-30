@@ -1,13 +1,30 @@
 {
-	"author": ["Horatiu Jula", "Daniel M. Tralamazza", "Cristian Zamfir", "George Candea"],
-	"booktitle": "OSDI",
+	"author": [
+		"Horatiu Jula",
+		"Daniel M. Tralamazza",
+		"Cristian Zamfir",
+		"George Candea"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/JulaTZC08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/jula/jula.pdf",
 	"pages": "295-308",
 	"publisher": "USENIX Association",
-	"stemmed": ["deadlock", "immun", "enabl", "system", "to", "defend", "against", "deadlock"],
-	"tag": ["concurrent"],
+	"stemmed": [
+		"deadlock",
+		"immun",
+		"enabl",
+		"system",
+		"to",
+		"defend",
+		"against",
+		"deadlock"
+	],
+	"tag": [
+		"concurrent"
+	],
 	"title": "Deadlock Immunity: Enabling Systems to Defend Against Deadlocks",
 	"type": "inproceedings",
 	"venue": "OSDI",

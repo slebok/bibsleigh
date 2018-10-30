@@ -1,16 +1,41 @@
 {
-	"author": ["Arding Hsu", "Tomasz Imielinski"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Arding Hsu",
+		"Tomasz Imielinski"
+	],
+	"booktitle": "Proceedings of the 15th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD85/P152.PDF",
-	"cite": ["conf/vldb/BernsteinBC80", "...", "journals/tods/BunemanC79", "conf/vldb/EswaranC75", "conf/stoc/Fagin80", "conf/sigmod/HammerS78", "conf/adbt/HenschenMN82", "conf/vldb/KoenigP81", "...", "conf/adbt/NicolasY77", "journals/acta/Nicolas82", "conf/sigmod/Stonebraker75"],
+	"cite": [
+		"conf/vldb/BernsteinBC80",
+		"...",
+		"journals/tods/BunemanC79",
+		"conf/vldb/EswaranC75",
+		"conf/stoc/Fagin80",
+		"conf/sigmod/HammerS78",
+		"conf/adbt/HenschenMN82",
+		"conf/vldb/KoenigP81",
+		"...",
+		"conf/adbt/NicolasY77",
+		"journals/acta/Nicolas82",
+		"conf/sigmod/Stonebraker75"
+	],
 	"crossref": "conf/sigmod/85",
 	"dblpkey": "conf/sigmod/HsuI85",
 	"doi": "10.1145/318898.318914",
 	"ee": "http://doi.acm.org/10.1145/318898.318914",
 	"pages": "152-168",
 	"publisher": "ACM Press",
-	"stemmed": ["integr", "check", "for", "multipl", "updat"],
-	"tag": ["multi"],
+	"stemmed": [
+		"integr",
+		"check",
+		"for",
+		"multipl",
+		"updat"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "Integrity Checking for Multiple Updates",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

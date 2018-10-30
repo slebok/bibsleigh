@@ -1,13 +1,37 @@
 {
-	"author": ["Sangjin Han", "Scott Marshall", "Byung-Gon Chun", "Sylvia Ratnasamy"],
-	"booktitle": "OSDI",
+	"author": [
+		"Sangjin Han",
+		"Scott Marshall",
+		"Byung-Gon Chun",
+		"Sylvia Ratnasamy"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2012",
 	"dblpkey": "conf/osdi/HanMCR12",
 	"ee": "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/han",
 	"pages": "135-148",
 	"publisher": "USENIX Association",
-	"stemmed": ["mega", "pipe", "a", "new", "program", "interfac", "for", "scalabl", "network", "i", "o"],
-	"tag": ["interface", "named", "network", "programming", "scalability"],
+	"stemmed": [
+		"mega",
+		"pipe",
+		"a",
+		"new",
+		"program",
+		"interfac",
+		"for",
+		"scalabl",
+		"network",
+		"i",
+		"o"
+	],
+	"tag": [
+		"interface",
+		"named",
+		"network",
+		"programming",
+		"scalability"
+	],
 	"title": "MegaPipe: A New Programming Interface for Scalable Network I/O",
 	"type": "inproceedings",
 	"venue": "OSDI",

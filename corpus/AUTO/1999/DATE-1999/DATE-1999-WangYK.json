@@ -1,6 +1,11 @@
 {
-	"author": ["Janet Meiling Wang", "Qingjian Yu", "Ernest S. Kuh"],
-	"booktitle": "DATE",
+	"author": [
+		"Janet Meiling Wang",
+		"Qingjian Yu",
+		"Ernest S. Kuh"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/WangYK99",
 	"doi": "10.1109/DATE.1999.761200",
@@ -8,8 +13,20 @@
 	"pages": "664-668",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["coupl", "nois", "estim", "for", "distribut", "rc", "interconnect", "model"],
-	"tag": ["distributed", "estimation"],
+	"stemmed": [
+		"coupl",
+		"nois",
+		"estim",
+		"for",
+		"distribut",
+		"rc",
+		"interconnect",
+		"model"
+	],
+	"tag": [
+		"distributed",
+		"estimation"
+	],
 	"title": "Coupled Noise Estimation for Distributed RC Interconnect Model",
 	"type": "inproceedings",
 	"venue": "DATE",

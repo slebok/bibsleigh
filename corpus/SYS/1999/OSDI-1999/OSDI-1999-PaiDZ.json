@@ -1,14 +1,32 @@
 {
-	"author": ["Vivek S. Pai", "Peter Druschel", "Willy Zwaenepoel"],
-	"booktitle": "OSDI",
+	"author": [
+		"Vivek S. Pai",
+		"Peter Druschel",
+		"Willy Zwaenepoel"
+	],
+	"booktitle": "Proceedings of the Third Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/1999",
 	"dblpkey": "conf/osdi/PaiDZ99",
 	"doi": "10.1145/296806.296808",
 	"ee": "http://doi.acm.org/10.1145/296806.296808",
 	"pages": "15-28",
 	"publisher": "USENIX Association",
-	"stemmed": ["io", "lite", "a", "unifi", "i", "o", "buffer", "and", "cach", "system"],
-	"tag": ["named"],
+	"stemmed": [
+		"io",
+		"lite",
+		"a",
+		"unifi",
+		"i",
+		"o",
+		"buffer",
+		"and",
+		"cach",
+		"system"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "IO-Lite: A Unified I/O Buffering and Caching System",
 	"type": "inproceedings",
 	"venue": "OSDI",

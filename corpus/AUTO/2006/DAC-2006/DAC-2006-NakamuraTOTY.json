@@ -1,14 +1,37 @@
 {
-	"author": ["Yuichi Nakamura", "Mitsuru Tagata", "Takumi Okamoto", "Shigeyoshi Tawada", "Ko Yoshikawa"],
-	"booktitle": "DAC",
+	"author": [
+		"Yuichi Nakamura",
+		"Mitsuru Tagata",
+		"Takumi Okamoto",
+		"Shigeyoshi Tawada",
+		"Ko Yoshikawa"
+	],
+	"booktitle": "Proceedings of the 43rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/NakamuraTOTY06",
 	"doi": "10.1145/1146909.1147151",
 	"ee": "http://doi.acm.org/10.1145/1146909.1147151",
 	"pages": "955-958",
 	"publisher": "ACM",
-	"stemmed": ["budget", "free", "hierarch", "design", "method", "for", "larg", "scale", "and", "high", "perform", "lsis"],
-	"tag": ["design", "scalability"],
+	"stemmed": [
+		"budget",
+		"free",
+		"hierarch",
+		"design",
+		"method",
+		"for",
+		"larg",
+		"scale",
+		"and",
+		"high",
+		"perform",
+		"lsis"
+	],
+	"tag": [
+		"design",
+		"scalability"
+	],
 	"title": "Budgeting-free hierarchical design method for large scale and high-performance LSIs",
 	"type": "inproceedings",
 	"venue": "DAC",

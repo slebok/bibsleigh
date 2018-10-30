@@ -1,14 +1,33 @@
 {
-	"author": ["Yi-Chang Lu", "Mustafa Celik", "Tak Young", "Lawrence T. Pileggi"],
-	"booktitle": "DAC",
+	"author": [
+		"Yi-Chang Lu",
+		"Mustafa Celik",
+		"Tak Young",
+		"Lawrence T. Pileggi"
+	],
+	"booktitle": "Proceedings of the 38th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2001",
 	"dblpkey": "conf/dac/LuCYP01",
 	"doi": "10.1145/378239.378506",
 	"ee": "http://doi.acm.org/10.1145/378239.378506",
 	"pages": "341-346",
 	"publisher": "ACM",
-	"stemmed": ["min", "max", "on", "chip", "induct", "model", "and", "delay", "metric"],
-	"tag": ["metric", "modelling"],
+	"stemmed": [
+		"min",
+		"max",
+		"on",
+		"chip",
+		"induct",
+		"model",
+		"and",
+		"delay",
+		"metric"
+	],
+	"tag": [
+		"metric",
+		"modelling"
+	],
 	"title": "Min/max On-Chip Inductance Models and Delay Metrics",
 	"type": "inproceedings",
 	"venue": "DAC",

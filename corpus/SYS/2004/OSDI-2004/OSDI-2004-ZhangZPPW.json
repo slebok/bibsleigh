@@ -1,13 +1,37 @@
 {
-	"author": ["Ming Zhang", "Chi Zhang", "Vivek S. Pai", "Larry L. Peterson", "Randolph Y. Wang"],
-	"booktitle": "OSDI",
+	"author": [
+		"Ming Zhang",
+		"Chi Zhang",
+		"Vivek S. Pai",
+		"Larry L. Peterson",
+		"Randolph Y. Wang"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2004",
 	"dblpkey": "conf/osdi/ZhangZPPW04",
 	"ee": "http://www.usenix.org/events/osdi04/tech/zhang.html",
 	"pages": "167-182",
 	"publisher": "USENIX Association",
-	"stemmed": ["planet", "seer", "internet", "path", "failur", "monitor", "and", "character", "in", "wide", "area", "servic"],
-	"tag": ["internet", "monitoring", "named"],
+	"stemmed": [
+		"planet",
+		"seer",
+		"internet",
+		"path",
+		"failur",
+		"monitor",
+		"and",
+		"character",
+		"in",
+		"wide",
+		"area",
+		"servic"
+	],
+	"tag": [
+		"internet",
+		"monitoring",
+		"named"
+	],
 	"title": "PlanetSeer: Internet Path Failure Monitoring and Characterization in Wide-Area Services",
 	"type": "inproceedings",
 	"venue": "OSDI",

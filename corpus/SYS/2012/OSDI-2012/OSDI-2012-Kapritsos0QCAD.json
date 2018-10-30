@@ -1,13 +1,36 @@
 {
-	"author": ["Manos Kapritsos", "Yang Wang", "Vivien Quéma", "Allen Clement", "Lorenzo Alvisi", "Mike Dahlin"],
-	"booktitle": "OSDI",
+	"author": [
+		"Manos Kapritsos",
+		"Yang Wang",
+		"Vivien Quéma",
+		"Allen Clement",
+		"Lorenzo Alvisi",
+		"Mike Dahlin"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2012",
 	"dblpkey": "conf/osdi/Kapritsos0QCAD12",
 	"ee": "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kapritsos",
 	"pages": "237-250",
 	"publisher": "USENIX Association",
-	"stemmed": ["all", "about", "eve", "execut", "verifi", "replic", "for", "multi", "core", "server"],
-	"tag": ["all about", "manycore", "replication"],
+	"stemmed": [
+		"all",
+		"about",
+		"eve",
+		"execut",
+		"verifi",
+		"replic",
+		"for",
+		"multi",
+		"core",
+		"server"
+	],
+	"tag": [
+		"all about",
+		"manycore",
+		"replication"
+	],
 	"title": "All about Eve: Execute-Verify Replication for Multi-Core Servers",
 	"type": "inproceedings",
 	"venue": "OSDI",

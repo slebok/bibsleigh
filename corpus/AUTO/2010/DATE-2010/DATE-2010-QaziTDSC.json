@@ -1,13 +1,38 @@
 {
-	"author": ["Masood Qazi", "Mehul Tikekar", "Lara Dolecek", "Devavrat Shah", "Anantha Chandrakasan"],
-	"booktitle": "DATE",
+	"author": [
+		"Masood Qazi",
+		"Mehul Tikekar",
+		"Lara Dolecek",
+		"Devavrat Shah",
+		"Anantha Chandrakasan"
+	],
+	"booktitle": "Proceedings of the 14th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2010",
 	"dblpkey": "conf/date/QaziTDSC10",
 	"ieeearid": 5456940,
 	"pages": "801-806",
 	"publisher": "IEEE",
-	"stemmed": ["loop", "flatten", "spheric", "sampl", "high", "effici", "model", "reduct", "techniqu", "for", "sram", "yield", "analysi"],
-	"tag": ["analysis", "performance", "reduction"],
+	"stemmed": [
+		"loop",
+		"flatten",
+		"spheric",
+		"sampl",
+		"high",
+		"effici",
+		"model",
+		"reduct",
+		"techniqu",
+		"for",
+		"sram",
+		"yield",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"performance",
+		"reduction"
+	],
 	"title": "Loop flattening & spherical sampling: Highly efficient model reduction techniques for SRAM yield analysis",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,14 +1,24 @@
 {
 	"author": "Joseph M. Hellerstein",
-	"booktitle": "PODS",
+	"booktitle": "Proceedings of the 29th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2010",
 	"dblpkey": "conf/pods/Hellerstein10",
 	"doi": "10.1145/1807085.1807087",
 	"ee": "http://doi.acm.org/10.1145/1807085.1807087",
 	"pages": "1-2",
 	"publisher": "ACM",
-	"stemmed": ["datalog", "redux", "experi", "and", "conjectur"],
-	"tag": ["datalog", "experience"],
+	"stemmed": [
+		"datalog",
+		"redux",
+		"experi",
+		"and",
+		"conjectur"
+	],
+	"tag": [
+		"datalog",
+		"experience"
+	],
 	"title": "Datalog redux: experience and conjecture",
 	"type": "inproceedings",
 	"venue": "PODS",

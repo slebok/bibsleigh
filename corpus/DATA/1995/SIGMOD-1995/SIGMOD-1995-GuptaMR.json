@@ -1,16 +1,47 @@
 {
-	"author": ["Ashish Gupta", "Inderpal Singh Mumick", "Kenneth A. Ross"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ashish Gupta",
+		"Inderpal Singh Mumick",
+		"Kenneth A. Ross"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD95/P211.PDF",
-	"cite": ["...", "conf/sigmod/BorgidaBMR89", "...", "journals/ijcis/BrachmanSTAHKL93", "conf/icde/ChaudhuriKPS95", "...", "conf/sigmod/GuptaMS93", "conf/pods/GuptaSUW94", "conf/vldb/LevyMS94", "conf/pods/LevyMSS95", "conf/vldb/LarsonY85", "conf/vldb/MumickPR90", "conf/pods/RajaramanSU95", "conf/vldb/TsatalosSI94", "books/cs/Ullman89", "...", "conf/vldb/YangL87"],
+	"cite": [
+		"...",
+		"conf/sigmod/BorgidaBMR89",
+		"...",
+		"journals/ijcis/BrachmanSTAHKL93",
+		"conf/icde/ChaudhuriKPS95",
+		"...",
+		"conf/sigmod/GuptaMS93",
+		"conf/pods/GuptaSUW94",
+		"conf/vldb/LevyMS94",
+		"conf/pods/LevyMSS95",
+		"conf/vldb/LarsonY85",
+		"conf/vldb/MumickPR90",
+		"conf/pods/RajaramanSU95",
+		"conf/vldb/TsatalosSI94",
+		"books/cs/Ullman89",
+		"...",
+		"conf/vldb/YangL87"
+	],
 	"crossref": "conf/sigmod/95",
 	"dblpkey": "conf/sigmod/GuptaMR95",
 	"doi": "10.1145/223784.223817",
 	"ee": "http://doi.acm.org/10.1145/223784.223817",
 	"pages": "211-222",
 	"publisher": "ACM Press",
-	"stemmed": ["adapt", "materi", "view", "after", "redefinit"],
-	"tag": ["adaptation"],
+	"stemmed": [
+		"adapt",
+		"materi",
+		"view",
+		"after",
+		"redefinit"
+	],
+	"tag": [
+		"adaptation"
+	],
 	"title": "Adapting Materialized Views after Redefinitions",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

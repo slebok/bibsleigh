@@ -1,6 +1,11 @@
 {
-	"author": ["Pascal Fontaine", "Stephan Merz", "Bruno Woltzenlogel Paleo"],
-	"booktitle": "CADE",
+	"author": [
+		"Pascal Fontaine",
+		"Stephan Merz",
+		"Bruno Woltzenlogel Paleo"
+	],
+	"booktitle": "Proceedings of the 23rd International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2011",
 	"dblpkey": "conf/cade/FontaineMP11",
 	"doi": "10.1007/978-3-642-22438-6_19",
@@ -10,11 +15,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["compress", "of", "proposit", "resolut", "proof", "via", "partial", "regular"],
-	"tag": ["proving"],
+	"stemmed": [
+		"compress",
+		"of",
+		"proposit",
+		"resolut",
+		"proof",
+		"via",
+		"partial",
+		"regular"
+	],
+	"tag": [
+		"proving"
+	],
 	"title": "Compression of Propositional Resolution Proofs via Partial Regularization",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 6803,
+	"volume": "6803",
 	"year": 2011
 }

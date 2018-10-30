@@ -1,6 +1,7 @@
 {
 	"author": "Joon Ho Lee",
 	"booktitle": "Proceedings of the 18th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1995/P180.pdf",
 	"crossref": "conf/sigir/95",
 	"dblpkey": "conf/sigir/Lee95",
@@ -8,8 +9,20 @@
 	"ee": "http://doi.acm.org/10.1145/215206.215358",
 	"pages": "180-188",
 	"publisher": "ACM Press",
-	"stemmed": ["combin", "multipl", "evid", "from", "differ", "properti", "of", "weight", "scheme"],
-	"tag": ["multi"],
+	"stemmed": [
+		"combin",
+		"multipl",
+		"evid",
+		"from",
+		"differ",
+		"properti",
+		"of",
+		"weight",
+		"scheme"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "Combining Multiple Evidence from Different Properties of Weighting Schemes",
 	"type": "inproceedings",
 	"venue": "SIGIR",

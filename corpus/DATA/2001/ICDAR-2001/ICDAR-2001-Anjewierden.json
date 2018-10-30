@@ -1,15 +1,33 @@
 {
 	"author": "Anjo Anjewierden",
-	"booktitle": "ICDAR",
+	"booktitle": "Proceedings of the Sixth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2001",
 	"dblpkey": "conf/icdar/Anjewierden01",
 	"doi": "10.1109/ICDAR.2001.953816",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2001.953816", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953816"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2001.953816",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953816"
+	],
 	"pages": "374-378",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["aida", "increment", "logic", "structur", "discoveri", "in", "pdf", "document"],
-	"tag": ["documentation", "incremental", "logic", "named"],
+	"stemmed": [
+		"aida",
+		"increment",
+		"logic",
+		"structur",
+		"discoveri",
+		"in",
+		"pdf",
+		"document"
+	],
+	"tag": [
+		"documentation",
+		"incremental",
+		"logic",
+		"named"
+	],
 	"title": "AIDAS: Incremental Logical Structure Discovery in PDF Documents",
 	"type": "inproceedings",
 	"venue": "ICDAR",

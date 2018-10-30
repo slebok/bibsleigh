@@ -1,6 +1,10 @@
 {
-	"author": ["Akrivi Vlachou", "Christos Doulkeridis", "Neoklis Polyzotis"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Akrivi Vlachou",
+		"Christos Doulkeridis",
+		"Neoklis Polyzotis"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/VlachouDP11",
@@ -8,8 +12,16 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989332",
 	"pages": "73-84",
 	"publisher": "ACM",
-	"stemmed": ["skylin", "queri", "process", "over", "join"],
-	"tag": ["query"],
+	"stemmed": [
+		"skylin",
+		"queri",
+		"process",
+		"over",
+		"join"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Skyline query processing over joins",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

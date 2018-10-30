@@ -1,13 +1,30 @@
 {
-	"author": ["Balakrishna Kumthekar", "Luca Benini", "Enrico Macii", "Fabio Somenzi"],
-	"booktitle": "DAC",
+	"author": [
+		"Balakrishna Kumthekar",
+		"Luca Benini",
+		"Enrico Macii",
+		"Fabio Somenzi"
+	],
+	"booktitle": "Proceedings of the 35th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/KumthekarBMS98",
 	"doi": "10.1145/277044.277224",
 	"ee": "http://doi.acm.org/10.1145/277044.277224",
 	"pages": "718-721",
 	"publisher": "ACM Press",
-	"stemmed": ["in", "place", "power", "optim", "for", "lut", "base", "fpgas"],
-	"tag": ["optimisation"],
+	"stemmed": [
+		"in",
+		"place",
+		"power",
+		"optim",
+		"for",
+		"lut",
+		"base",
+		"fpgas"
+	],
+	"tag": [
+		"optimisation"
+	],
 	"title": "In-Place Power Optimization for LUT-Based FPGAs",
 	"type": "inproceedings",
 	"venue": "DAC",

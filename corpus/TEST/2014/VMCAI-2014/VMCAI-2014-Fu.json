@@ -1,6 +1,7 @@
 {
 	"author": "Zhoulai Fu",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the 15th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2014",
 	"dblpkey": "conf/vmcai/Fu14",
 	"doi": "10.1007/978-3-642-54013-4_16",
@@ -10,11 +11,35 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["modular", "combin", "numer", "abstract", "domain", "with", "point", "to", "analysi", "and", "a", "scalabl", "static", "numer", "analyz", "for", "java"],
-	"tag": ["abstract domain", "analysis", "java", "points-to", "scalability"],
+	"stemmed": [
+		"modular",
+		"combin",
+		"numer",
+		"abstract",
+		"domain",
+		"with",
+		"point",
+		"to",
+		"analysi",
+		"and",
+		"a",
+		"scalabl",
+		"static",
+		"numer",
+		"analyz",
+		"for",
+		"java"
+	],
+	"tag": [
+		"abstract domain",
+		"analysis",
+		"java",
+		"points-to",
+		"scalability"
+	],
 	"title": "Modularly Combining Numeric Abstract Domains with Points-to Analysis, and a Scalable Static Numeric Analyzer for Java",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 8318,
+	"volume": "8318",
 	"year": 2014
 }

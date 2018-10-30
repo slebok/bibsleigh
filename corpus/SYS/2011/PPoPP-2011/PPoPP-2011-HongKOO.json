@@ -1,14 +1,31 @@
 {
-	"author": ["Sungpack Hong", "Sang Kyun Kim", "Tayo Oguntebi", "Kunle Olukotun"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Sungpack Hong",
+		"Sang Kyun Kim",
+		"Tayo Oguntebi",
+		"Kunle Olukotun"
+	],
+	"booktitle": "Proceedings of the 16th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2011",
 	"dblpkey": "conf/ppopp/HongKOO11",
 	"doi": "10.1145/1941553.1941590",
 	"ee": "http://doi.acm.org/10.1145/1941553.1941590",
 	"pages": "267-276",
 	"publisher": "ACM",
-	"stemmed": ["acceler", "cuda", "graph", "algorithm", "at", "maximum", "warp"],
-	"tag": ["algorithm", "graph"],
+	"stemmed": [
+		"acceler",
+		"cuda",
+		"graph",
+		"algorithm",
+		"at",
+		"maximum",
+		"warp"
+	],
+	"tag": [
+		"algorithm",
+		"graph"
+	],
 	"title": "Accelerating CUDA graph algorithms at maximum warp",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,6 +1,10 @@
 {
-	"author": ["Laks V. S. Lakshmanan", "Jian Pei", "Yan Zhao"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Laks V. S. Lakshmanan",
+		"Jian Pei",
+		"Yan Zhao"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/LakshmananPZ03",
@@ -8,8 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/872757.872768",
 	"pages": "64-75",
 	"publisher": "ACM",
-	"stemmed": ["qc", "tree", "an", "effici", "summari", "structur", "for", "semant", "olap"],
-	"tag": ["named", "performance", "semantics", "summary"],
+	"stemmed": [
+		"qc",
+		"tree",
+		"an",
+		"effici",
+		"summari",
+		"structur",
+		"for",
+		"semant",
+		"olap"
+	],
+	"tag": [
+		"named",
+		"performance",
+		"semantics",
+		"summary"
+	],
 	"title": "QC-Trees: An Efficient Summary Structure for Semantic OLAP",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

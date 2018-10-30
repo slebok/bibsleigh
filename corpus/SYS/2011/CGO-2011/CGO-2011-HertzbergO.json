@@ -1,16 +1,33 @@
 {
-	"acmid": 2190054,
-	"author": ["Ben Hertzberg", "Kunle Olukotun"],
-	"booktitle": "CGO",
+	"acmid": "2190054",
+	"author": [
+		"Ben Hertzberg",
+		"Kunle Olukotun"
+	],
+	"booktitle": "Proceedings of the Ninth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2011",
 	"dblpkey": "conf/cgo/HertzbergO11",
 	"doi": "10.1109/CGO.2011.5764675",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2011.5764675", "http://doi.ieeecomputersociety.org/10.1109/CGO.2011.5764675", "http://dl.acm.org/citation.cfm?id=2190054"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2011.5764675",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2011.5764675",
+		"http://dl.acm.org/citation.cfm?id=2190054"
+	],
 	"pages": "64-73",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["runtim", "automat", "specul", "parallel"],
-	"tag": ["automation", "parallel", "runtime"],
+	"stemmed": [
+		"runtim",
+		"automat",
+		"specul",
+		"parallel"
+	],
+	"tag": [
+		"automation",
+		"parallel",
+		"runtime"
+	],
 	"title": "Runtime automatic speculative parallelization",
 	"type": "inproceedings",
 	"venue": "CGO",

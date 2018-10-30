@@ -1,15 +1,34 @@
 {
-	"author": ["Haitham Akkary", "Srikanth T. Srinivasan", "Rajendar Koltur", "Yogesh Patil", "Wael Refaai"],
-	"booktitle": "HPCA",
+	"author": [
+		"Haitham Akkary",
+		"Srikanth T. Srinivasan",
+		"Rajendar Koltur",
+		"Yogesh Patil",
+		"Wael Refaai"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2004",
 	"dblpkey": "conf/hpca/AkkarySKPR04",
 	"doi": "10.1109/HPCA.2004.10002",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2004.10002", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2004.10002"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2004.10002",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2004.10002"
+	],
 	"pages": "265-275",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["perceptron", "base", "branch", "confid", "estim"],
-	"tag": ["branch", "estimation"],
+	"stemmed": [
+		"perceptron",
+		"base",
+		"branch",
+		"confid",
+		"estim"
+	],
+	"tag": [
+		"branch",
+		"estimation"
+	],
 	"title": "Perceptron-Based Branch Confidence Estimation",
 	"type": "inproceedings",
 	"venue": "HPCA",

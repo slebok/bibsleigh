@@ -1,6 +1,10 @@
 {
-	"author": ["Rémi Douence", "Pascal Fradet"],
+	"author": [
+		"Rémi Douence",
+		"Pascal Fradet"
+	],
 	"booktitle": "Proceedings of the Seventh International Symposium on Programming Languages: Implementations, Logics and Programs",
+	"booktitleshort": "PPDP",
 	"crossref": "conf/plilp/95",
 	"dblpkey": "conf/plilp/DouenceF95",
 	"doi": "10.1007/BFb0026812",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["toward", "a", "taxonomi", "of", "function", "languag", "implement"],
-	"tag": ["functional", "implementation", "taxonomy", "towards"],
+	"stemmed": [
+		"toward",
+		"a",
+		"taxonomi",
+		"of",
+		"function",
+		"languag",
+		"implement"
+	],
+	"tag": [
+		"functional",
+		"implementation",
+		"taxonomy",
+		"towards"
+	],
 	"title": "Towards a Taxonomy of Functional Languages Implementations",
 	"type": "inproceedings",
 	"venue": "PPDP",
-	"volume": 982,
+	"volume": "982",
 	"year": 1995
 }

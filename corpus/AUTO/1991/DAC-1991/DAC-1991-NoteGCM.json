@@ -1,13 +1,37 @@
 {
-	"author": ["Stefaan Note", "Werner Geurts", "Francky Catthoor", "Hugo De Man"],
-	"booktitle": "DAC",
+	"author": [
+		"Stefaan Note",
+		"Werner Geurts",
+		"Francky Catthoor",
+		"Hugo De Man"
+	],
+	"booktitle": "Proceedings of the 28th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/NoteGCM91",
 	"doi": "10.1145/127601.127739",
 	"ee": "http://doi.acm.org/10.1145/127601.127739",
 	"pages": "597-602",
 	"publisher": "ACM",
-	"stemmed": ["cathedr", "iii", "architectur", "driven", "high", "level", "synthesi", "for", "high", "throughput", "dsp", "applic"],
-	"tag": ["architecture", "named", "synthesis", "throughput"],
+	"stemmed": [
+		"cathedr",
+		"iii",
+		"architectur",
+		"driven",
+		"high",
+		"level",
+		"synthesi",
+		"for",
+		"high",
+		"throughput",
+		"dsp",
+		"applic"
+	],
+	"tag": [
+		"architecture",
+		"named",
+		"synthesis",
+		"throughput"
+	],
 	"title": "Cathedral-III: Architecture-Driven High-level Synthesis for High Throughput DSP Applications",
 	"type": "inproceedings",
 	"venue": "DAC",

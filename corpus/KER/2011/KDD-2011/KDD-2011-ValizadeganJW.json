@@ -1,14 +1,36 @@
 {
-	"author": ["Hamed Valizadegan", "Rong Jin", "Shijun Wang"],
-	"booktitle": "KDD",
+	"author": [
+		"Hamed Valizadegan",
+		"Rong Jin",
+		"Shijun Wang"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/ValizadeganJW11",
 	"doi": "10.1145/2020408.2020445",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020445",
 	"pages": "204-212",
 	"publisher": "ACM",
-	"stemmed": ["learn", "to", "trade", "off", "between", "explor", "and", "exploit", "in", "multiclass", "bandit", "predict"],
-	"tag": ["learning", "multi", "predict"],
+	"stemmed": [
+		"learn",
+		"to",
+		"trade",
+		"off",
+		"between",
+		"explor",
+		"and",
+		"exploit",
+		"in",
+		"multiclass",
+		"bandit",
+		"predict"
+	],
+	"tag": [
+		"learning",
+		"multi",
+		"predict"
+	],
 	"title": "Learning to trade off between exploration and exploitation in multiclass bandit prediction",
 	"type": "inproceedings",
 	"venue": "KDD",

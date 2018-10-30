@@ -1,16 +1,37 @@
 {
-	"author": ["Stefano Ceri", "Piero Fraternali", "Stefano Paraboschi", "Giuseppe Psaila"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Stefano Ceri",
+		"Piero Fraternali",
+		"Stefano Paraboschi",
+		"Giuseppe Psaila"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD95/P473.PDF",
 	"cite": "books/mk/WidomC96",
 	"crossref": "conf/sigmod/95",
 	"dblpkey": "conf/sigmod/CeriFPP95",
 	"doi": "10.1145/223784.223886",
 	"ee": "http://doi.acm.org/10.1145/223784.223886",
-	"pages": 473,
+	"pages": "473",
 	"publisher": "ACM Press",
-	"stemmed": ["the", "algr", "testb", "of", "chimera", "an", "activ", "object", "orient", "databas", "system"],
-	"tag": ["database", "object-oriented"],
+	"stemmed": [
+		"the",
+		"algr",
+		"testb",
+		"of",
+		"chimera",
+		"an",
+		"activ",
+		"object",
+		"orient",
+		"databas",
+		"system"
+	],
+	"tag": [
+		"database",
+		"object-oriented"
+	],
 	"title": "The Algres Testbed of CHIMERA: An Active Object-Oriented Database System",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

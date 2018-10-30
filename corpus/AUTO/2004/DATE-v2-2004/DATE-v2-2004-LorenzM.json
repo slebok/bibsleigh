@@ -1,6 +1,10 @@
 {
-	"author": ["Markus Lorenz", "Peter Marwedel"],
-	"booktitle": "DATE",
+	"author": [
+		"Markus Lorenz",
+		"Peter Marwedel"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/LorenzM04",
 	"doi": "10.1109/DATE.2004.1269070",
@@ -8,8 +12,24 @@
 	"pages": "1270-1275",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["phase", "coupl", "code", "generat", "for", "dsps", "use", "a", "genet", "algorithm"],
-	"tag": ["algorithm", "code generation", "search-based", "using"],
+	"stemmed": [
+		"phase",
+		"coupl",
+		"code",
+		"generat",
+		"for",
+		"dsps",
+		"use",
+		"a",
+		"genet",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"code generation",
+		"search-based",
+		"using"
+	],
 	"title": "Phase Coupled Code Generation for DSPs Using a Genetic Algorithm",
 	"type": "inproceedings",
 	"venue": "DATE",

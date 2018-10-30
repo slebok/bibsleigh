@@ -1,14 +1,32 @@
 {
-	"author": ["José San Pedro", "Alexandros Karatzoglou"],
-	"booktitle": "RecSys",
+	"author": [
+		"José San Pedro",
+		"Alexandros Karatzoglou"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2014",
 	"dblpkey": "conf/recsys/PedroK14",
 	"doi": "10.1145/2645710.2645736",
 	"ee": "http://doi.acm.org/10.1145/2645710.2645736",
 	"pages": "193-200",
 	"publisher": "ACM",
-	"stemmed": ["question", "recommend", "for", "collabor", "question", "answer", "system", "with", "rank", "slda"],
-	"tag": ["collaboration", "recommendation"],
+	"stemmed": [
+		"question",
+		"recommend",
+		"for",
+		"collabor",
+		"question",
+		"answer",
+		"system",
+		"with",
+		"rank",
+		"slda"
+	],
+	"tag": [
+		"collaboration",
+		"recommendation"
+	],
 	"title": "Question recommendation for collaborative question answering systems with RankSLDA",
 	"type": "inproceedings",
 	"venue": "RecSys",

@@ -1,14 +1,30 @@
 {
-	"author": ["Sebastian Rudolph", "Markus Krötzsch"],
-	"booktitle": "PODS",
+	"author": [
+		"Sebastian Rudolph",
+		"Markus Krötzsch"
+	],
+	"booktitle": "Proceedings of the 32nd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2013",
 	"dblpkey": "conf/pods/RudolphK13",
 	"doi": "10.1145/2463664.2465227",
 	"ee": "http://doi.acm.org/10.1145/2463664.2465227",
 	"pages": "151-162",
 	"publisher": "ACM",
-	"stemmed": ["flag", "check", "data", "access", "with", "monad", "defin", "queri"],
-	"tag": ["data access", "query"],
+	"stemmed": [
+		"flag",
+		"check",
+		"data",
+		"access",
+		"with",
+		"monad",
+		"defin",
+		"queri"
+	],
+	"tag": [
+		"data access",
+		"query"
+	],
 	"title": "Flag & check: data access with monadically defined queries",
 	"type": "inproceedings",
 	"venue": "PODS",

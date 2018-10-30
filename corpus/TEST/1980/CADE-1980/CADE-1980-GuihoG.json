@@ -1,6 +1,10 @@
 {
-	"author": ["Gérard D. Guiho", "Christian Gresse"],
-	"booktitle": "CADE",
+	"author": [
+		"Gérard D. Guiho",
+		"Christian Gresse"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1980",
 	"dblpkey": "conf/cade/GuihoG80",
 	"doi": "10.1007/3-540-10009-1_5",
@@ -10,11 +14,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["program", "synthesi", "from", "incomplet", "specifiact"],
-	"tag": ["synthesis"],
+	"stemmed": [
+		"program",
+		"synthesi",
+		"from",
+		"incomplet",
+		"specifiact"
+	],
+	"tag": [
+		"synthesis"
+	],
 	"title": "Program Synthesis from Incomplete Specifiactions",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 87,
+	"volume": "87",
 	"year": 1980
 }

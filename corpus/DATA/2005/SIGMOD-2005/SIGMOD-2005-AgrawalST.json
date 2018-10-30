@@ -1,6 +1,10 @@
 {
-	"author": ["Rakesh Agrawal", "Ramakrishnan Srikant", "Dilys Thomas"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Rakesh Agrawal",
+		"Ramakrishnan Srikant",
+		"Dilys Thomas"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/AgrawalST05",
@@ -8,8 +12,14 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066187",
 	"pages": "251-262",
 	"publisher": "ACM",
-	"stemmed": ["privaci", "preserv", "olap"],
-	"tag": ["privacy"],
+	"stemmed": [
+		"privaci",
+		"preserv",
+		"olap"
+	],
+	"tag": [
+		"privacy"
+	],
 	"title": "Privacy Preserving OLAP",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

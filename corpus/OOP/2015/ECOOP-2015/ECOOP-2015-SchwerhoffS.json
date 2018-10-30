@@ -1,6 +1,10 @@
 {
-	"author": ["Malte Schwerhoff", "Alexander J. Summers"],
-	"booktitle": "ECOOP",
+	"author": [
+		"Malte Schwerhoff",
+		"Alexander J. Summers"
+	],
+	"booktitle": "Proceedings of the 29th European Conference on Object-Oriented Programming",
+	"booktitleshort": "ECOOP",
 	"crossref": "conf/ecoop/2015",
 	"dblpkey": "conf/ecoop/SchwerhoffS15",
 	"doi": "10.4230/LIPIcs.ECOOP.2015.614",
@@ -10,11 +14,25 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["lightweight", "support", "for", "magic", "wand", "in", "an", "automat", "verifi"],
-	"tag": ["automation", "lightweight", "verification"],
+	"stemmed": [
+		"lightweight",
+		"support",
+		"for",
+		"magic",
+		"wand",
+		"in",
+		"an",
+		"automat",
+		"verifi"
+	],
+	"tag": [
+		"automation",
+		"lightweight",
+		"verification"
+	],
 	"title": "Lightweight Support for Magic Wands in an Automatic Verifier",
 	"type": "inproceedings",
 	"venue": "ECOOP",
-	"volume": 37,
+	"volume": "37",
 	"year": 2015
 }

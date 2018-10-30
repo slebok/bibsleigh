@@ -1,14 +1,33 @@
 {
-	"author": ["Madeleine Seeland", "Andreas Karwath", "Stefan Kramer"],
-	"booktitle": "KDD",
+	"author": [
+		"Madeleine Seeland",
+		"Andreas Karwath",
+		"Stefan Kramer"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/SeelandKK12",
 	"doi": "10.1145/2339530.2339614",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339614",
 	"pages": "516-524",
 	"publisher": "ACM",
-	"stemmed": ["a", "structur", "cluster", "kernel", "for", "learn", "on", "graph"],
-	"tag": ["clustering", "graph", "kernel", "learning"],
+	"stemmed": [
+		"a",
+		"structur",
+		"cluster",
+		"kernel",
+		"for",
+		"learn",
+		"on",
+		"graph"
+	],
+	"tag": [
+		"clustering",
+		"graph",
+		"kernel",
+		"learning"
+	],
 	"title": "A structural cluster kernel for learning on graphs",
 	"type": "inproceedings",
 	"venue": "KDD",

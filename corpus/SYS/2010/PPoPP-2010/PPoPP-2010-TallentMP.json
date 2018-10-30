@@ -1,14 +1,29 @@
 {
-	"author": ["Nathan R. Tallent", "John M. Mellor-Crummey", "Allan Porterfield"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Nathan R. Tallent",
+		"John M. Mellor-Crummey",
+		"Allan Porterfield"
+	],
+	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/TallentMP10",
 	"doi": "10.1145/1693453.1693489",
 	"ee": "http://doi.acm.org/10.1145/1693453.1693489",
 	"pages": "269-280",
 	"publisher": "ACM",
-	"stemmed": ["analyz", "lock", "content", "in", "multithread", "applic"],
-	"tag": ["parallel", "thread"],
+	"stemmed": [
+		"analyz",
+		"lock",
+		"content",
+		"in",
+		"multithread",
+		"applic"
+	],
+	"tag": [
+		"parallel",
+		"thread"
+	],
 	"title": "Analyzing lock contention in multithreaded applications",
 	"type": "inproceedings",
 	"venue": "PPoPP",

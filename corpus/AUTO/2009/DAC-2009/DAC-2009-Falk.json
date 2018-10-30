@@ -1,14 +1,26 @@
 {
 	"author": "Heiko Falk",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/Falk09",
 	"doi": "10.1145/1629911.1630100",
 	"ee": "http://doi.acm.org/10.1145/1629911.1630100",
 	"pages": "726-731",
 	"publisher": "ACM",
-	"stemmed": ["wcet", "awar", "regist", "alloc", "base", "on", "graph", "color"],
-	"tag": ["graph"],
+	"stemmed": [
+		"wcet",
+		"awar",
+		"regist",
+		"alloc",
+		"base",
+		"on",
+		"graph",
+		"color"
+	],
+	"tag": [
+		"graph"
+	],
 	"title": "WCET-aware register allocation based on graph coloring",
 	"type": "inproceedings",
 	"venue": "DAC",

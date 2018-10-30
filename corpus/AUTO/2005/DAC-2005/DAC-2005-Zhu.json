@@ -1,14 +1,29 @@
 {
 	"author": "Jianwen Zhu",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 42nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/Zhu05",
 	"doi": "10.1145/1065579.1065798",
 	"ee": "http://doi.acm.org/10.1145/1065579.1065798",
 	"pages": "831-836",
 	"publisher": "ACM",
-	"stemmed": ["toward", "scalabl", "flow", "and", "context", "sensit", "pointer", "analysi"],
-	"tag": ["analysis", "pointer", "scalability", "towards"],
+	"stemmed": [
+		"toward",
+		"scalabl",
+		"flow",
+		"and",
+		"context",
+		"sensit",
+		"pointer",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"pointer",
+		"scalability",
+		"towards"
+	],
 	"title": "Towards scalable flow and context sensitive pointer analysis",
 	"type": "inproceedings",
 	"venue": "DAC",

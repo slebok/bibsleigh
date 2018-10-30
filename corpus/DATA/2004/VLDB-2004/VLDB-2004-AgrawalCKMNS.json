@@ -1,12 +1,31 @@
 {
-	"author": ["Sanjay Agrawal", "Surajit Chaudhuri", "Lubor Kollár", "Arunprasad P. Marathe", "Vivek R. Narasayya", "Manoj Syamala"],
-	"booktitle": "VLDB",
+	"author": [
+		"Sanjay Agrawal",
+		"Surajit Chaudhuri",
+		"Lubor Kollár",
+		"Arunprasad P. Marathe",
+		"Vivek R. Narasayya",
+		"Manoj Syamala"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/AgrawalCKMNS04",
 	"pages": "1110-1121",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["databas", "tune", "advisor", "for", "microsoft", "sql", "server"],
-	"tag": ["database", "sql"],
+	"stemmed": [
+		"databas",
+		"tune",
+		"advisor",
+		"for",
+		"microsoft",
+		"sql",
+		"server"
+	],
+	"tag": [
+		"database",
+		"sql"
+	],
 	"title": "Database Tuning Advisor for Microsoft SQL Server 2005",
 	"type": "inproceedings",
 	"venue": "VLDB",

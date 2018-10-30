@@ -1,6 +1,7 @@
 {
 	"author": "Warren R. Greiff",
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P011.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/Greiff98",
@@ -8,8 +9,22 @@
 	"ee": "http://doi.acm.org/10.1145/290941.290948",
 	"pages": "11-19",
 	"publisher": "ACM",
-	"stemmed": ["a", "theori", "of", "term", "weight", "base", "on", "exploratori", "data", "analysi"],
-	"tag": ["data analysis", "formal method"],
+	"stemmed": [
+		"a",
+		"theori",
+		"of",
+		"term",
+		"weight",
+		"base",
+		"on",
+		"exploratori",
+		"data",
+		"analysi"
+	],
+	"tag": [
+		"data analysis",
+		"formal method"
+	],
 	"title": "A Theory of Term Weighting Based on Exploratory Data Analysis",
 	"type": "inproceedings",
 	"venue": "SIGIR",

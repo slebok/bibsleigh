@@ -1,14 +1,26 @@
 {
 	"author": "William Kent",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the Fifth International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB79/P232.PDF",
-	"cite": ["journals/tods/AstrahanBCEGGKLMMPTWW76", "journals/cacm/Codd70", "persons/Codd72", "conf/sigmod/Codd79", "...", "..."],
+	"cite": [
+		"journals/tods/AstrahanBCEGGKLMMPTWW76",
+		"journals/cacm/Codd70",
+		"persons/Codd72",
+		"conf/sigmod/Codd79",
+		"...",
+		"..."
+	],
 	"crossref": "conf/vldb/79",
 	"dblpkey": "conf/vldb/Kent79",
 	"pages": "232-238",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["the", "entiti", "join"],
+	"stemmed": [
+		"the",
+		"entiti",
+		"join"
+	],
 	"title": "The Entity Join",
 	"type": "inproceedings",
 	"venue": "VLDB",

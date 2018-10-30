@@ -1,13 +1,29 @@
 {
-	"author": ["Eugene Wong", "Karel Youssefi"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Eugene Wong",
+		"Karel Youssefi"
+	],
+	"booktitle": "Proceedings of the Sixth ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD76/P155.PDF",
 	"crossref": "conf/sigmod/76",
 	"dblpkey": "conf/sigmod/WongY76",
-	"pages": 155,
+	"pages": "155",
 	"publisher": "ACM",
-	"stemmed": ["decomposit", "a", "strategi", "for", "queri", "process", "abstract"],
-	"tag": ["composition", "named", "query"],
+	"stemmed": [
+		"decomposit",
+		"a",
+		"strategi",
+		"for",
+		"queri",
+		"process",
+		"abstract"
+	],
+	"tag": [
+		"composition",
+		"named",
+		"query"
+	],
 	"title": "Decomposition — A Strategy for Query Processing (Abstract)",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

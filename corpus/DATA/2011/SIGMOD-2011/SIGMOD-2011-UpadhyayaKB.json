@@ -1,6 +1,10 @@
 {
-	"author": ["Prasang Upadhyaya", "YongChul Kwon", "Magdalena Balazinska"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Prasang Upadhyaya",
+		"YongChul Kwon",
+		"Magdalena Balazinska"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/UpadhyayaKB11",
@@ -8,8 +12,26 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989350",
 	"pages": "241-252",
 	"publisher": "ACM",
-	"stemmed": ["a", "latenc", "and", "fault", "toler", "optim", "for", "onlin", "parallel", "queri", "plan"],
-	"tag": ["fault tolerance", "latency", "online", "parallel", "query"],
+	"stemmed": [
+		"a",
+		"latenc",
+		"and",
+		"fault",
+		"toler",
+		"optim",
+		"for",
+		"onlin",
+		"parallel",
+		"queri",
+		"plan"
+	],
+	"tag": [
+		"fault tolerance",
+		"latency",
+		"online",
+		"parallel",
+		"query"
+	],
 	"title": "A latency and fault-tolerance optimizer for online parallel query plans",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

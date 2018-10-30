@@ -1,6 +1,12 @@
 {
-	"author": ["Sebastian Burckhardt", "Daan Leijen", "Jonathan Protzenko", "Manuel Fähndrich"],
-	"booktitle": "ECOOP",
+	"author": [
+		"Sebastian Burckhardt",
+		"Daan Leijen",
+		"Jonathan Protzenko",
+		"Manuel Fähndrich"
+	],
+	"booktitle": "Proceedings of the 29th European Conference on Object-Oriented Programming",
+	"booktitleshort": "ECOOP",
 	"crossref": "conf/ecoop/2015",
 	"dblpkey": "conf/ecoop/BurckhardtLPF15",
 	"doi": "10.4230/LIPIcs.ECOOP.2015.568",
@@ -10,11 +16,27 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["global", "sequenc", "protocol", "a", "robust", "abstract", "for", "replic", "share", "state"],
-	"tag": ["abstraction", "protocol", "robust", "sequence"],
+	"stemmed": [
+		"global",
+		"sequenc",
+		"protocol",
+		"a",
+		"robust",
+		"abstract",
+		"for",
+		"replic",
+		"share",
+		"state"
+	],
+	"tag": [
+		"abstraction",
+		"protocol",
+		"robust",
+		"sequence"
+	],
 	"title": "Global Sequence Protocol: A Robust Abstraction for Replicated Shared State",
 	"type": "inproceedings",
 	"venue": "ECOOP",
-	"volume": 37,
+	"volume": "37",
 	"year": 2015
 }

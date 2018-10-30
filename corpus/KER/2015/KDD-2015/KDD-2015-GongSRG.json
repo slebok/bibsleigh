@@ -1,14 +1,31 @@
 {
-	"author": ["Jen J. Gong", "Thoralf M. Sundt", "James D. Rawn", "John V. Guttag"],
-	"booktitle": "KDD",
+	"author": [
+		"Jen J. Gong",
+		"Thoralf M. Sundt",
+		"James D. Rawn",
+		"John V. Guttag"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/GongSRG15",
 	"doi": "10.1145/2783258.2783397",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783397",
 	"pages": "369-378",
 	"publisher": "ACM",
-	"stemmed": ["instanc", "weight", "for", "patient", "specif", "risk", "stratif", "model"],
-	"tag": ["modelling"],
+	"stemmed": [
+		"instanc",
+		"weight",
+		"for",
+		"patient",
+		"specif",
+		"risk",
+		"stratif",
+		"model"
+	],
+	"tag": [
+		"modelling"
+	],
 	"title": "Instance Weighting for Patient-Specific Risk Stratification Models",
 	"type": "inproceedings",
 	"venue": "KDD",

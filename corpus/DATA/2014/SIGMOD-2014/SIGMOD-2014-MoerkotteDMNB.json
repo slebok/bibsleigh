@@ -1,6 +1,12 @@
 {
-	"author": ["Guido Moerkotte", "David DeHaan", "Norman May", "Anisoara Nica", "Alexander Böhm"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Guido Moerkotte",
+		"David DeHaan",
+		"Norman May",
+		"Anisoara Nica",
+		"Alexander Böhm"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/MoerkotteDMNB14",
@@ -8,8 +14,25 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2595629",
 	"pages": "361-372",
 	"publisher": "ACM",
-	"stemmed": ["exploit", "order", "dictionari", "to", "effici", "construct", "histogram", "with", "q", "error", "guarante", "in", "sap", "hana"],
-	"tag": ["order"],
+	"stemmed": [
+		"exploit",
+		"order",
+		"dictionari",
+		"to",
+		"effici",
+		"construct",
+		"histogram",
+		"with",
+		"q",
+		"error",
+		"guarante",
+		"in",
+		"sap",
+		"hana"
+	],
+	"tag": [
+		"order"
+	],
 	"title": "Exploiting ordered dictionaries to efficiently construct histograms with q-error guarantees in SAP HANA",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

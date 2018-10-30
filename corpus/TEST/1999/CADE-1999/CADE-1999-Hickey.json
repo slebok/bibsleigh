@@ -1,6 +1,7 @@
 {
 	"author": "Jason Hickey",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 16th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1999",
 	"dblpkey": "conf/cade/Hickey99",
 	"doi": "10.1007/3-540-48660-7_19",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["fault", "toler", "distribut", "theorem", "prove"],
-	"tag": ["distributed", "fault tolerance", "proving", "theorem proving"],
+	"stemmed": [
+		"fault",
+		"toler",
+		"distribut",
+		"theorem",
+		"prove"
+	],
+	"tag": [
+		"distributed",
+		"fault tolerance",
+		"proving",
+		"theorem proving"
+	],
 	"title": "Fault-Tolerant Distributed Theorem Proving",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1632,
+	"volume": "1632",
 	"year": 1999
 }

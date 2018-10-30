@@ -1,6 +1,6 @@
 {
 	"author": "Nikos Mamoulis",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/Mamoulis03",
@@ -8,8 +8,19 @@
 	"ee": "http://doi.acm.org/10.1145/872757.872778",
 	"pages": "157-168",
 	"publisher": "ACM",
-	"stemmed": ["effici", "process", "of", "join", "on", "set", "valu", "attribut"],
-	"tag": ["performance"],
+	"stemmed": [
+		"effici",
+		"process",
+		"of",
+		"join",
+		"on",
+		"set",
+		"valu",
+		"attribut"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Efficient Processing of Joins on Set-valued Attributes",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

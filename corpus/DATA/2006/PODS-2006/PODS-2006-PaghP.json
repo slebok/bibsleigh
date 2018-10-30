@@ -1,14 +1,26 @@
 {
-	"author": ["Anna Pagh", "Rasmus Pagh"],
-	"booktitle": "PODS",
+	"author": [
+		"Anna Pagh",
+		"Rasmus Pagh"
+	],
+	"booktitle": "Proceedings of the 25th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2006",
 	"dblpkey": "conf/pods/PaghP06",
 	"doi": "10.1145/1142351.1142384",
 	"ee": "http://doi.acm.org/10.1145/1142351.1142384",
 	"pages": "225-232",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "comput", "of", "acycl", "join"],
-	"tag": ["scalability"],
+	"stemmed": [
+		"scalabl",
+		"comput",
+		"of",
+		"acycl",
+		"join"
+	],
+	"tag": [
+		"scalability"
+	],
 	"title": "Scalable computation of acyclic joins",
 	"type": "inproceedings",
 	"venue": "PODS",

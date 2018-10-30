@@ -1,14 +1,26 @@
 {
-	"author": ["Dave Dice", "Yossi Lev", "Mark Moir"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Dave Dice",
+		"Yossi Lev",
+		"Mark Moir"
+	],
+	"booktitle": "Proceedings of the 18th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2013",
 	"dblpkey": "conf/ppopp/DiceLM13",
 	"doi": "10.1145/2442516.2442558",
 	"ee": "http://doi.acm.org/10.1145/2442516.2442558",
 	"pages": "307-308",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "statist", "counter"],
-	"tag": ["scalability", "statistics"],
+	"stemmed": [
+		"scalabl",
+		"statist",
+		"counter"
+	],
+	"tag": [
+		"scalability",
+		"statistics"
+	],
 	"title": "Scalable statistics counters",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,14 +1,36 @@
 {
-	"author": ["Ferad Zyulkyarov", "Tim Harris", "Osman S. Ünsal", "Adrián Cristal", "Mateo Valero"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Ferad Zyulkyarov",
+		"Tim Harris",
+		"Osman S. Ünsal",
+		"Adrián Cristal",
+		"Mateo Valero"
+	],
+	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/ZyulkyarovHUCV10",
 	"doi": "10.1145/1693453.1693463",
 	"ee": "http://doi.acm.org/10.1145/1693453.1693463",
 	"pages": "57-66",
 	"publisher": "ACM",
-	"stemmed": ["debug", "program", "that", "use", "atom", "block", "and", "transact", "memori"],
-	"tag": ["debugging", "memory management", "source code", "transaction"],
+	"stemmed": [
+		"debug",
+		"program",
+		"that",
+		"use",
+		"atom",
+		"block",
+		"and",
+		"transact",
+		"memori"
+	],
+	"tag": [
+		"debugging",
+		"memory management",
+		"source code",
+		"transaction"
+	],
 	"title": "Debugging programs that use atomic blocks and transactional memory",
 	"type": "inproceedings",
 	"venue": "PPoPP",

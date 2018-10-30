@@ -1,6 +1,14 @@
 {
-	"author": ["Tomas Karnagel", "Matthias Hille", "Mario Ludwig", "Dirk Habich", "Wolfgang Lehner", "Max Heimel", "Volker Markl"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Tomas Karnagel",
+		"Matthias Hille",
+		"Mario Ludwig",
+		"Dirk Habich",
+		"Wolfgang Lehner",
+		"Max Heimel",
+		"Volker Markl"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/KarnagelHLHLHM14",
@@ -8,8 +16,19 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2594526",
 	"pages": "693-696",
 	"publisher": "ACM",
-	"stemmed": ["demonstr", "effici", "queri", "process", "in", "heterogen", "environ"],
-	"tag": ["performance", "query"],
+	"stemmed": [
+		"demonstr",
+		"effici",
+		"queri",
+		"process",
+		"in",
+		"heterogen",
+		"environ"
+	],
+	"tag": [
+		"performance",
+		"query"
+	],
 	"title": "Demonstrating efficient query processing in heterogeneous environments",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

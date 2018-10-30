@@ -1,14 +1,37 @@
 {
-	"author": ["Tao Li", "Lizy Kurian John", "Anand Sivasubramaniam", "Narayanan Vijaykrishnan", "Juan Rubio"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Tao Li",
+		"Lizy Kurian John",
+		"Anand Sivasubramaniam",
+		"Narayanan Vijaykrishnan",
+		"Juan Rubio"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2002",
 	"dblpkey": "conf/asplos/LiJSVR02",
 	"doi": "10.1145/605397.605405",
 	"ee": "http://doi.acm.org/10.1145/605397.605405",
 	"pages": "68-80",
 	"publisher": "ACM Press",
-	"stemmed": ["understand", "and", "improv", "oper", "system", "effect", "in", "control", "flow", "predict"],
-	"tag": ["comprehension", "control flow", "operating system", "predict"],
+	"stemmed": [
+		"understand",
+		"and",
+		"improv",
+		"oper",
+		"system",
+		"effect",
+		"in",
+		"control",
+		"flow",
+		"predict"
+	],
+	"tag": [
+		"comprehension",
+		"control flow",
+		"operating system",
+		"predict"
+	],
 	"title": "Understanding and improving operating system effects in control flow prediction",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

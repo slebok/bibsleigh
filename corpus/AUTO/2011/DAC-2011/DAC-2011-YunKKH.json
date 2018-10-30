@@ -1,14 +1,36 @@
 {
-	"author": ["Dukyoung Yun", "Jinwoo Kim", "Sungchan Kim", "Soonhoi Ha"],
-	"booktitle": "DAC",
+	"author": [
+		"Dukyoung Yun",
+		"Jinwoo Kim",
+		"Sungchan Kim",
+		"Soonhoi Ha"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/YunKKH11",
 	"doi": "10.1145/2024724.2024808",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024808",
 	"pages": "345-350",
 	"publisher": "ACM",
-	"stemmed": ["simul", "environ", "configur", "for", "parallel", "simul", "of", "multicor", "embed", "system"],
-	"tag": ["embedded", "manycore", "parallel", "simulation"],
+	"stemmed": [
+		"simul",
+		"environ",
+		"configur",
+		"for",
+		"parallel",
+		"simul",
+		"of",
+		"multicor",
+		"embed",
+		"system"
+	],
+	"tag": [
+		"embedded",
+		"manycore",
+		"parallel",
+		"simulation"
+	],
 	"title": "Simulation environment configuration for parallel simulation of multicore embedded systems",
 	"type": "inproceedings",
 	"venue": "DAC",

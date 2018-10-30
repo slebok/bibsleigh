@@ -1,15 +1,31 @@
 {
-	"author": ["Vibhuti S. Sengar", "Jayant R. Haritsa"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Vibhuti S. Sengar",
+		"Jayant R. Haritsa"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/SengarH03",
 	"doi": "10.1145/872757.872867",
 	"ee": "http://doi.acm.org/10.1145/872757.872867",
-	"pages": 676,
+	"pages": "676",
 	"publisher": "ACM",
-	"stemmed": ["plastic", "reduc", "queri", "optim", "overhead", "through", "plan", "recycl"],
-	"tag": ["named", "optimisation", "query"],
+	"stemmed": [
+		"plastic",
+		"reduc",
+		"queri",
+		"optim",
+		"overhead",
+		"through",
+		"plan",
+		"recycl"
+	],
+	"tag": [
+		"named",
+		"optimisation",
+		"query"
+	],
 	"title": "PLASTIC: Reducing Query Optimization Overheads through Plan Recycling",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

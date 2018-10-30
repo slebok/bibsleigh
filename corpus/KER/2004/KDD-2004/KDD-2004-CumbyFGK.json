@@ -1,14 +1,33 @@
 {
-	"author": ["Chad M. Cumby", "Andrew E. Fano", "Rayid Ghani", "Marko Krema"],
-	"booktitle": "KDD",
+	"author": [
+		"Chad M. Cumby",
+		"Andrew E. Fano",
+		"Rayid Ghani",
+		"Marko Krema"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2004",
 	"dblpkey": "conf/kdd/CumbyFGK04",
 	"doi": "10.1145/1014052.1014098",
 	"ee": "http://doi.acm.org/10.1145/1014052.1014098",
 	"pages": "402-409",
 	"publisher": "ACM",
-	"stemmed": ["predict", "custom", "shop", "list", "from", "point", "of", "sale", "purchas", "data"],
-	"tag": ["predict"],
+	"stemmed": [
+		"predict",
+		"custom",
+		"shop",
+		"list",
+		"from",
+		"point",
+		"of",
+		"sale",
+		"purchas",
+		"data"
+	],
+	"tag": [
+		"predict"
+	],
 	"title": "Predicting customer shopping lists from point-of-sale purchase data",
 	"type": "inproceedings",
 	"venue": "KDD",

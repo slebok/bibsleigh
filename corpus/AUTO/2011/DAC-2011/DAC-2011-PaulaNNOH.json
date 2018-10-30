@@ -1,14 +1,37 @@
 {
-	"author": ["Flavio M. de Paula", "Amir Nahir", "Ziv Nevo", "Avigail Orni", "Alan J. Hu"],
-	"booktitle": "DAC",
+	"author": [
+		"Flavio M. de Paula",
+		"Amir Nahir",
+		"Ziv Nevo",
+		"Avigail Orni",
+		"Alan J. Hu"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/PaulaNNOH11",
 	"doi": "10.1145/2024724.2024821",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024821",
 	"pages": "411-416",
 	"publisher": "ACM",
-	"stemmed": ["tab", "back", "space", "unlimit", "length", "trace", "buffer", "with", "zero", "addit", "on", "chip", "overhead"],
-	"tag": ["named"],
+	"stemmed": [
+		"tab",
+		"back",
+		"space",
+		"unlimit",
+		"length",
+		"trace",
+		"buffer",
+		"with",
+		"zero",
+		"addit",
+		"on",
+		"chip",
+		"overhead"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "TAB-BackSpace: unlimited-length trace buffers with zero additional on-chip overhead",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,15 +1,38 @@
 {
-	"author": ["Jonas Richiardi", "Hamed Ketabdar", "Andrzej Drygajlo"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Jonas Richiardi",
+		"Hamed Ketabdar",
+		"Andrzej Drygajlo"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2005",
 	"dblpkey": "conf/icdar/RichiardiKD05",
 	"doi": "10.1109/ICDAR.2005.152",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2005.152", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.152"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2005.152",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.152"
+	],
 	"pages": "625-629",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["local", "and", "global", "featur", "select", "for", "on", "line", "signatur", "verif"],
-	"tag": ["feature model", "online", "verification"],
+	"stemmed": [
+		"local",
+		"and",
+		"global",
+		"featur",
+		"select",
+		"for",
+		"on",
+		"line",
+		"signatur",
+		"verif"
+	],
+	"tag": [
+		"feature model",
+		"online",
+		"verification"
+	],
 	"title": "Local and Global Feature Selection for On-line Signature Verification",
 	"type": "inproceedings",
 	"venue": "ICDAR",

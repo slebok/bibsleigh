@@ -1,14 +1,37 @@
 {
-	"author": ["Xu Liu", "John M. Mellor-Crummey"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Xu Liu",
+		"John M. Mellor-Crummey"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/LiuM14",
 	"doi": "10.1145/2555243.2555271",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555271",
 	"pages": "259-272",
 	"publisher": "ACM",
-	"stemmed": ["a", "tool", "to", "analyz", "the", "perform", "of", "multithread", "program", "on", "numa", "architectur"],
-	"tag": ["architecture", "parallel", "performance", "source code", "thread"],
+	"stemmed": [
+		"a",
+		"tool",
+		"to",
+		"analyz",
+		"the",
+		"perform",
+		"of",
+		"multithread",
+		"program",
+		"on",
+		"numa",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"parallel",
+		"performance",
+		"source code",
+		"thread"
+	],
 	"title": "A tool to analyze the performance of multithreaded programs on NUMA architectures",
 	"type": "inproceedings",
 	"venue": "PPoPP",

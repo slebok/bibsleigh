@@ -1,14 +1,39 @@
 {
-	"author": ["Kiran Chandramohan", "Michael F. P. O'Boyle"],
-	"booktitle": "LCTES",
+	"author": [
+		"Kiran Chandramohan",
+		"Michael F. P. O'Boyle"
+	],
+	"booktitle": "Proceedings of the 15th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2014",
 	"dblpkey": "conf/lctrts/ChandramohanO14",
 	"doi": "10.1145/2597809.2597822",
 	"ee": "http://doi.acm.org/10.1145/2597809.2597822",
 	"pages": "73-82",
 	"publisher": "ACM",
-	"stemmed": ["partit", "data", "parallel", "program", "for", "heterogen", "mp", "so", "cs", "time", "and", "energi", "design", "space", "explor"],
-	"tag": ["clustering", "design", "energy", "source code"],
+	"stemmed": [
+		"partit",
+		"data",
+		"parallel",
+		"program",
+		"for",
+		"heterogen",
+		"mp",
+		"so",
+		"cs",
+		"time",
+		"and",
+		"energi",
+		"design",
+		"space",
+		"explor"
+	],
+	"tag": [
+		"clustering",
+		"design",
+		"energy",
+		"source code"
+	],
 	"title": "Partitioning data-parallel programs for heterogeneous MPSoCs: time and energy design space exploration",
 	"type": "inproceedings",
 	"venue": "LCTES",

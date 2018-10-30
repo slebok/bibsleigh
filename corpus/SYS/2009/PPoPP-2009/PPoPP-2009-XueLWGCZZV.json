@@ -1,14 +1,35 @@
 {
-	"author": ["Ruini Xue", "Xuezheng Liu", "Ming Wu", "Zhenyu Guo", "Wenguang Chen", "Weimin Zheng", "Zheng Zhang", "Geoffrey M. Voelker"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Ruini Xue",
+		"Xuezheng Liu",
+		"Ming Wu",
+		"Zhenyu Guo",
+		"Wenguang Chen",
+		"Weimin Zheng",
+		"Zheng Zhang",
+		"Geoffrey M. Voelker"
+	],
+	"booktitle": "Proceedings of the 14th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2009",
 	"dblpkey": "conf/ppopp/XueLWGCZZV09",
 	"doi": "10.1145/1504176.1504213",
 	"ee": "http://doi.acm.org/10.1145/1504176.1504213",
 	"pages": "251-260",
 	"publisher": "ACM",
-	"stemmed": ["mpi", "wiz", "subgroup", "reproduc", "replay", "of", "mpi", "applic"],
-	"tag": ["named"],
+	"stemmed": [
+		"mpi",
+		"wiz",
+		"subgroup",
+		"reproduc",
+		"replay",
+		"of",
+		"mpi",
+		"applic"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "MPIWiz: subgroup reproducible replay of mpi applications",
 	"type": "inproceedings",
 	"venue": "PPoPP",

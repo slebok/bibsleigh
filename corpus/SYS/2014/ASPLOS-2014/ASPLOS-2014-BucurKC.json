@@ -1,14 +1,31 @@
 {
-	"author": ["Stefan Bucur", "Johannes Kinder", "George Candea"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Stefan Bucur",
+		"Johannes Kinder",
+		"George Candea"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2014",
 	"dblpkey": "conf/asplos/BucurKC14",
 	"doi": "10.1145/2541940.2541977",
 	"ee": "http://doi.acm.org/10.1145/2541940.2541977",
 	"pages": "239-254",
 	"publisher": "ACM",
-	"stemmed": ["prototyp", "symbol", "execut", "engin", "for", "interpret", "languag"],
-	"tag": ["execution", "prototype", "symbolic computation"],
+	"stemmed": [
+		"prototyp",
+		"symbol",
+		"execut",
+		"engin",
+		"for",
+		"interpret",
+		"languag"
+	],
+	"tag": [
+		"execution",
+		"prototype",
+		"symbolic computation"
+	],
 	"title": "Prototyping symbolic execution engines for interpreted languages",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

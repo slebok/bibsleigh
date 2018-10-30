@@ -1,15 +1,43 @@
 {
-	"author": ["Sanghoon Lee", "Devesh Tiwari", "Yan Solihin", "James Tuck"],
-	"booktitle": "HPCA",
+	"author": [
+		"Sanghoon Lee",
+		"Devesh Tiwari",
+		"Yan Solihin",
+		"James Tuck"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2011",
 	"dblpkey": "conf/hpca/LeeTST11",
 	"doi": "10.1109/HPCA.2011.5749720",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2011.5749720", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2011.5749720"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2011.5749720",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2011.5749720"
+	],
 	"pages": "99-110",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["ha", "qu", "hardwar", "acceler", "queue", "for", "fine", "grain", "thread", "on", "a", "chip", "multiprocessor"],
-	"tag": ["fine-grained", "multi", "named", "thread"],
+	"stemmed": [
+		"ha",
+		"qu",
+		"hardwar",
+		"acceler",
+		"queue",
+		"for",
+		"fine",
+		"grain",
+		"thread",
+		"on",
+		"a",
+		"chip",
+		"multiprocessor"
+	],
+	"tag": [
+		"fine-grained",
+		"multi",
+		"named",
+		"thread"
+	],
 	"title": "HAQu: Hardware-accelerated queueing for fine-grained threading on a chip multiprocessor",
 	"type": "inproceedings",
 	"venue": "HPCA",

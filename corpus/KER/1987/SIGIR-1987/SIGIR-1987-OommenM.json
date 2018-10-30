@@ -1,6 +1,10 @@
 {
-	"author": ["B. John Oommen", "Daniel C. Y. Ma"],
+	"author": [
+		"B. John Oommen",
+		"Daniel C. Y. Ma"
+	],
 	"booktitle": "Proceedings of the 10th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1987/P111.pdf",
 	"crossref": "conf/sigir/87",
 	"dblpkey": "conf/sigir/OommenM87",
@@ -8,8 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/42005.42018",
 	"pages": "111-122",
 	"publisher": "ACM",
-	"stemmed": ["fast", "object", "partit", "use", "stochast", "learn", "automata"],
-	"tag": ["automaton", "clustering", "learning", "performance", "probability", "using"],
+	"stemmed": [
+		"fast",
+		"object",
+		"partit",
+		"use",
+		"stochast",
+		"learn",
+		"automata"
+	],
+	"tag": [
+		"automaton",
+		"clustering",
+		"learning",
+		"performance",
+		"probability",
+		"using"
+	],
 	"title": "Fast Object Partitioning Using Stochastic Learning Automata",
 	"type": "inproceedings",
 	"venue": "SIGIR",

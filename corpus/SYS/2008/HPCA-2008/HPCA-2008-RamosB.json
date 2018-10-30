@@ -1,6 +1,10 @@
 {
-	"author": ["Luiz E. Ramos", "Ricardo Bianchini"],
-	"booktitle": "HPCA",
+	"author": [
+		"Luiz E. Ramos",
+		"Ricardo Bianchini"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2008",
 	"dblpkey": "conf/hpca/RamosB08",
 	"doi": "10.1109/HPCA.2008.4658632",
@@ -8,8 +12,20 @@
 	"pages": "111-122",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["c", "oracl", "predict", "thermal", "manag", "for", "data", "center"],
-	"tag": ["named", "predict"],
+	"stemmed": [
+		"c",
+		"oracl",
+		"predict",
+		"thermal",
+		"manag",
+		"for",
+		"data",
+		"center"
+	],
+	"tag": [
+		"named",
+		"predict"
+	],
 	"title": "C-Oracle: Predictive thermal management for data centers",
 	"type": "inproceedings",
 	"venue": "HPCA",

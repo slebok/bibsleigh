@@ -1,6 +1,12 @@
 {
-	"author": ["Xiaochun Yang", "Bin Wang", "Tao Qiu", "Yaoshu Wang", "Chen Li"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Xiaochun Yang",
+		"Bin Wang",
+		"Tao Qiu",
+		"Yaoshu Wang",
+		"Chen Li"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/YangWQWL13",
@@ -8,8 +14,21 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465289",
 	"pages": "361-372",
 	"publisher": "ACM",
-	"stemmed": ["improv", "regular", "express", "match", "on", "string", "use", "negat", "factor"],
-	"tag": ["string", "using"],
+	"stemmed": [
+		"improv",
+		"regular",
+		"express",
+		"match",
+		"on",
+		"string",
+		"use",
+		"negat",
+		"factor"
+	],
+	"tag": [
+		"string",
+		"using"
+	],
 	"title": "Improving regular-expression matching on strings using negative factors",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

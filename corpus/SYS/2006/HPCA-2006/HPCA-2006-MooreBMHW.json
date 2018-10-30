@@ -1,15 +1,36 @@
 {
-	"author": ["Kevin E. Moore", "Jayaram Bobba", "Michelle J. Moravan", "Mark D. Hill", "David A. Wood"],
-	"booktitle": "HPCA",
+	"author": [
+		"Kevin E. Moore",
+		"Jayaram Bobba",
+		"Michelle J. Moravan",
+		"Mark D. Hill",
+		"David A. Wood"
+	],
+	"booktitle": "Proceedings of the 12th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2006",
 	"dblpkey": "conf/hpca/MooreBMHW06",
 	"doi": "10.1109/HPCA.2006.1598134",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2006.1598134", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2006.1598134"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2006.1598134",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2006.1598134"
+	],
 	"pages": "254-265",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["log", "tm", "log", "base", "transact", "memori"],
-	"tag": ["memory management", "named", "transaction"],
+	"stemmed": [
+		"log",
+		"tm",
+		"log",
+		"base",
+		"transact",
+		"memori"
+	],
+	"tag": [
+		"memory management",
+		"named",
+		"transaction"
+	],
 	"title": "LogTM: log-based transactional memory",
 	"type": "inproceedings",
 	"venue": "HPCA",

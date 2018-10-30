@@ -1,17 +1,41 @@
 {
-	"author": ["Roger Weber", "Klemens Böhm", "Hans-Jörg Schek"],
-	"booktitle": "ECDL",
+	"author": [
+		"Roger Weber",
+		"Klemens Böhm",
+		"Hans-Jörg Schek"
+	],
+	"booktitle": "Proceedings of the Fourth European Conference on Research and Advanced Technology for Digital Libraries",
+	"booktitleshort": "ECDL",
 	"crossref": "conf/ercimdl/2000",
 	"dblpkey": "conf/ercimdl/WeberBS00",
 	"doi": "10.1007/3-540-45268-0_8",
 	"pages": "83-92",
 	"publisher": "Springer",
 	"series": "Lecture Notes in Computer Science",
-	"stemmed": ["interact", "time", "similar", "search", "for", "larg", "imag", "collect", "use", "parallel", "va", "file"],
-	"tag": ["image", "parallel", "scalability", "similarity", "using"],
+	"stemmed": [
+		"interact",
+		"time",
+		"similar",
+		"search",
+		"for",
+		"larg",
+		"imag",
+		"collect",
+		"use",
+		"parallel",
+		"va",
+		"file"
+	],
+	"tag": [
+		"image",
+		"parallel",
+		"scalability",
+		"similarity",
+		"using"
+	],
 	"title": "Interactive-Time Similarity Search for Large Image Collections Using Parallel VA-Files",
 	"type": "inproceedings",
 	"venue": "TPDL",
-	"volume": 1923,
+	"volume": "1923",
 	"year": 2000
 }

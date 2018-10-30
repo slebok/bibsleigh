@@ -1,6 +1,9 @@
 {
-	"author": ["Eric Stotzer", "Ernst L. Leiss"],
-	"booktitle": "Workshop on Languages, Compilers, and Tools for Embedded Systems",
+	"author": [
+		"Eric Stotzer",
+		"Ernst L. Leiss"
+	],
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Embedded Systems",
 	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/1999",
 	"dblpkey": "conf/lctrts/StotzerL99",
@@ -8,8 +11,22 @@
 	"ee": "http://doi.acm.org/10.1145/314403.314427",
 	"pages": "28-34",
 	"publisher": "ACM",
-	"stemmed": ["modulo", "schedul", "for", "the", "tms", "c", "x", "vliw", "dsp", "architectur"],
-	"tag": ["architecture", "scheduling"],
+	"stemmed": [
+		"modulo",
+		"schedul",
+		"for",
+		"the",
+		"tms",
+		"c",
+		"x",
+		"vliw",
+		"dsp",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"scheduling"
+	],
 	"title": "Modulo Scheduling for the TMS320C6x VLIW DSP Architecture",
 	"type": "inproceedings",
 	"venue": "LCTES",

@@ -1,6 +1,11 @@
 {
-	"author": ["Sumit Gulwani", "Saurabh Srivastava", "Ramarathnam Venkatesan"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Sumit Gulwani",
+		"Saurabh Srivastava",
+		"Ramarathnam Venkatesan"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2009",
 	"dblpkey": "conf/vmcai/GulwaniSV09",
 	"doi": "10.1007/978-3-540-93900-9_13",
@@ -10,11 +15,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["constraint", "base", "invari", "infer", "over", "predic", "abstract"],
-	"tag": ["abstraction", "constraints", "invariant"],
+	"stemmed": [
+		"constraint",
+		"base",
+		"invari",
+		"infer",
+		"over",
+		"predic",
+		"abstract"
+	],
+	"tag": [
+		"abstraction",
+		"constraints",
+		"invariant"
+	],
 	"title": "Constraint-Based Invariant Inference over Predicate Abstraction",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 5403,
+	"volume": "5403",
 	"year": 2009
 }

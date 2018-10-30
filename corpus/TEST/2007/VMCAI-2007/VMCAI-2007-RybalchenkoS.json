@@ -1,6 +1,10 @@
 {
-	"author": ["Andrey Rybalchenko", "Viorica Sofronie-Stokkermans"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Andrey Rybalchenko",
+		"Viorica Sofronie-Stokkermans"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2007",
 	"dblpkey": "conf/vmcai/RybalchenkoS07",
 	"doi": "10.1007/978-3-540-69738-1_25",
@@ -10,11 +14,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["constraint", "solv", "for", "interpol"],
-	"tag": ["constraints", "theorem proving"],
+	"stemmed": [
+		"constraint",
+		"solv",
+		"for",
+		"interpol"
+	],
+	"tag": [
+		"constraints",
+		"theorem proving"
+	],
 	"title": "Constraint Solving for Interpolation",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 4349,
+	"volume": "4349",
 	"year": 2007
 }

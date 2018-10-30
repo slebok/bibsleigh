@@ -1,14 +1,37 @@
 {
-	"author": ["Wei Zhang", "Chong Sun", "Shan Lu"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Wei Zhang",
+		"Chong Sun",
+		"Shan Lu"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2010",
 	"dblpkey": "conf/asplos/ZhangSL10",
 	"doi": "10.1145/1736020.1736041",
 	"ee": "http://doi.acm.org/10.1145/1736020.1736041",
 	"pages": "179-192",
 	"publisher": "ACM",
-	"stemmed": ["con", "mem", "detect", "sever", "concurr", "bug", "through", "an", "effect", "orient", "approach"],
-	"tag": ["approach", "concurrent", "debugging", "detection", "named"],
+	"stemmed": [
+		"con",
+		"mem",
+		"detect",
+		"sever",
+		"concurr",
+		"bug",
+		"through",
+		"an",
+		"effect",
+		"orient",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"concurrent",
+		"debugging",
+		"detection",
+		"named"
+	],
 	"title": "ConMem: detecting severe concurrency bugs through an effect-oriented approach",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

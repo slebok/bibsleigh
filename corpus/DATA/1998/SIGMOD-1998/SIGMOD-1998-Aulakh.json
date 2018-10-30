@@ -1,6 +1,7 @@
 {
 	"author": "Kamar Aulakh",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD98/P531.PDF",
 	"crossref": "conf/sigmod/98",
 	"dblpkey": "conf/sigmod/Aulakh98",
@@ -8,7 +9,13 @@
 	"ee": "http://doi.acm.org/10.1145/276304.276367",
 	"pages": "531-532",
 	"publisher": "ACM Press",
-	"stemmed": ["about", "quark", "digit", "media", "system"],
+	"stemmed": [
+		"about",
+		"quark",
+		"digit",
+		"media",
+		"system"
+	],
 	"title": "About Quark Digital Media System",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

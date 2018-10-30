@@ -1,6 +1,13 @@
 {
-	"author": ["Nicoleta Preda", "Gjergji Kasneci", "Fabian M. Suchanek", "Thomas Neumann", "Wenjun Yuan", "Gerhard Weikum"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Nicoleta Preda",
+		"Gjergji Kasneci",
+		"Fabian M. Suchanek",
+		"Thomas Neumann",
+		"Wenjun Yuan",
+		"Gerhard Weikum"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/PredaKSNYW10",
@@ -8,8 +15,24 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807212",
 	"pages": "399-410",
 	"publisher": "ACM",
-	"stemmed": ["activ", "knowledg", "dynam", "enrich", "rdf", "knowledg", "base", "by", "web", "servic"],
-	"tag": ["knowledge base", "rdf", "web", "web service"],
+	"stemmed": [
+		"activ",
+		"knowledg",
+		"dynam",
+		"enrich",
+		"rdf",
+		"knowledg",
+		"base",
+		"by",
+		"web",
+		"servic"
+	],
+	"tag": [
+		"knowledge base",
+		"rdf",
+		"web",
+		"web service"
+	],
 	"title": "Active knowledge: dynamically enriching RDF knowledge bases by web services",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

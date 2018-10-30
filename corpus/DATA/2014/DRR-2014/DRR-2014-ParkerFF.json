@@ -1,6 +1,11 @@
 {
-	"author": ["Jon Parker", "Ophir Frieder", "Gideon Frieder"],
-	"booktitle": "DRR",
+	"author": [
+		"Jon Parker",
+		"Ophir Frieder",
+		"Gideon Frieder"
+	],
+	"booktitle": "Proceedings of the 21st Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2014",
 	"dblpkey": "conf/drr/ParkerFF14",
 	"doi": "10.1117/12.2042581",
@@ -8,11 +13,26 @@
 	"pages": "90210U-90210U-12",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["robust", "binar", "of", "degrad", "document", "imag", "use", "heurist"],
-	"tag": ["documentation", "heuristic", "image", "robust", "using"],
+	"stemmed": [
+		"robust",
+		"binar",
+		"of",
+		"degrad",
+		"document",
+		"imag",
+		"use",
+		"heurist"
+	],
+	"tag": [
+		"documentation",
+		"heuristic",
+		"image",
+		"robust",
+		"using"
+	],
 	"title": "Robust binarization of degraded document images using heuristics",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 9021,
+	"volume": "9021",
 	"year": 2014
 }

@@ -1,14 +1,32 @@
 {
-	"author": ["Yu Du", "Miao Zhou", "Bruce R. Childers", "Daniel Mossé", "Rami G. Melhem"],
-	"booktitle": "HPCA",
+	"author": [
+		"Yu Du",
+		"Miao Zhou",
+		"Bruce R. Childers",
+		"Daniel Mossé",
+		"Rami G. Melhem"
+	],
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2015",
 	"dblpkey": "conf/hpca/DuZCMM15",
 	"doi": "10.1109/HPCA.2015.7056035",
 	"ee": "http://dx.doi.org/10.1109/HPCA.2015.7056035",
 	"pages": "223-234",
 	"publisher": "IEEE",
-	"stemmed": ["support", "superpag", "in", "non", "contigu", "physic", "memori"],
-	"tag": ["memory management", "physics"],
+	"stemmed": [
+		"support",
+		"superpag",
+		"in",
+		"non",
+		"contigu",
+		"physic",
+		"memori"
+	],
+	"tag": [
+		"memory management",
+		"physics"
+	],
 	"title": "Supporting superpages in non-contiguous physical memory",
 	"type": "inproceedings",
 	"venue": "HPCA",

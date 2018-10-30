@@ -1,6 +1,11 @@
 {
-	"author": ["Chuanjun Zhang", "Frank Vahid", "Roman L. Lysecky"],
-	"booktitle": "DATE",
+	"author": [
+		"Chuanjun Zhang",
+		"Frank Vahid",
+		"Roman L. Lysecky"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/ZhangVL04",
 	"doi": "10.1109/DATE.2004.1268840",
@@ -8,8 +13,21 @@
 	"pages": "142-147",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "self", "tune", "cach", "architectur", "for", "embed", "system"],
-	"tag": ["architecture", "embedded", "self"],
+	"stemmed": [
+		"a",
+		"self",
+		"tune",
+		"cach",
+		"architectur",
+		"for",
+		"embed",
+		"system"
+	],
+	"tag": [
+		"architecture",
+		"embedded",
+		"self"
+	],
 	"title": "A Self-Tuning Cache Architecture for Embedded Systems",
 	"type": "inproceedings",
 	"venue": "DATE",

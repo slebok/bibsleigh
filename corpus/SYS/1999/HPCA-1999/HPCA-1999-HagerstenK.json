@@ -1,15 +1,33 @@
 {
-	"author": ["Erik Hagersten", "Michael Koster"],
-	"booktitle": "HPCA",
+	"author": [
+		"Erik Hagersten",
+		"Michael Koster"
+	],
+	"booktitle": "Proceedings of the Fifth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1999",
 	"dblpkey": "conf/hpca/HagerstenK99",
 	"doi": "10.1109/HPCA.1999.744361",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1999.744361", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744361"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1999.744361",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744361"
+	],
 	"pages": "172-181",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["wild", "fire", "a", "scalabl", "path", "for", "smps"],
-	"tag": ["named", "scalability"],
+	"stemmed": [
+		"wild",
+		"fire",
+		"a",
+		"scalabl",
+		"path",
+		"for",
+		"smps"
+	],
+	"tag": [
+		"named",
+		"scalability"
+	],
 	"title": "WildFire: A Scalable Path for SMPs",
 	"type": "inproceedings",
 	"venue": "HPCA",

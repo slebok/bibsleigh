@@ -1,6 +1,11 @@
 {
-	"author": ["Jason Power", "Mark D. Hill", "David A. Wood"],
-	"booktitle": "HPCA",
+	"author": [
+		"Jason Power",
+		"Mark D. Hill",
+		"David A. Wood"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/PowerHW14",
 	"doi": "10.1109/HPCA.2014.6835965",
@@ -8,8 +13,20 @@
 	"pages": "568-578",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["support", "x", "address", "translat", "for", "s", "of", "gpu", "lane"],
-	"tag": ["gpu"],
+	"stemmed": [
+		"support",
+		"x",
+		"address",
+		"translat",
+		"for",
+		"s",
+		"of",
+		"gpu",
+		"lane"
+	],
+	"tag": [
+		"gpu"
+	],
 	"title": "Supporting x86-64 address translation for 100s of GPU lanes",
 	"type": "inproceedings",
 	"venue": "HPCA",

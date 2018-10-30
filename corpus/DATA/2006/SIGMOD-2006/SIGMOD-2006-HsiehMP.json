@@ -1,6 +1,10 @@
 {
-	"author": ["Wilson C. Hsieh", "Jayant Madhavan", "Rob Pike"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Wilson C. Hsieh",
+		"Jayant Madhavan",
+		"Rob Pike"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/HsiehMP06",
@@ -8,8 +12,16 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142566",
 	"pages": "725-726",
 	"publisher": "ACM",
-	"stemmed": ["data", "manag", "project", "at", "googl"],
-	"tag": ["data transformation"],
+	"stemmed": [
+		"data",
+		"manag",
+		"project",
+		"at",
+		"googl"
+	],
+	"tag": [
+		"data transformation"
+	],
 	"title": "Data management projects at Google",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

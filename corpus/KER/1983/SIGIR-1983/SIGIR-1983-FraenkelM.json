@@ -1,6 +1,10 @@
 {
-	"author": ["Aviezri S. Fraenkel", "Moshe Mor"],
+	"author": [
+		"Aviezri S. Fraenkel",
+		"Moshe Mor"
+	],
 	"booktitle": "Proceedings of the Sixth Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1983/P205.pdf",
 	"crossref": "conf/sigir/83",
 	"dblpkey": "conf/sigir/FraenkelM83",
@@ -8,8 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/511793.511824",
 	"pages": "205-219",
 	"publisher": "ACM",
-	"stemmed": ["combin", "compress", "and", "partit", "of", "larg", "dictionari", "theori", "and", "experi"],
-	"tag": ["clustering", "scalability"],
+	"stemmed": [
+		"combin",
+		"compress",
+		"and",
+		"partit",
+		"of",
+		"larg",
+		"dictionari",
+		"theori",
+		"and",
+		"experi"
+	],
+	"tag": [
+		"clustering",
+		"scalability"
+	],
 	"title": "Combinational Compression and Partitioning of Large Dictionaries: Theory and Experiments",
 	"type": "inproceedings",
 	"venue": "SIGIR",

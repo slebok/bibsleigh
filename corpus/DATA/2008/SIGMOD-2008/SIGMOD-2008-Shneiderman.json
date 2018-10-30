@@ -1,6 +1,6 @@
 {
 	"author": "Ben Shneiderman",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2008",
 	"dblpkey": "conf/sigmod/Shneiderman08",
@@ -8,8 +8,21 @@
 	"ee": "http://doi.acm.org/10.1145/1376616.1376618",
 	"pages": "3-12",
 	"publisher": "ACM",
-	"stemmed": ["extrem", "visual", "squeez", "a", "billion", "record", "into", "a", "million", "pixel"],
-	"tag": ["visualisation"],
+	"stemmed": [
+		"extrem",
+		"visual",
+		"squeez",
+		"a",
+		"billion",
+		"record",
+		"into",
+		"a",
+		"million",
+		"pixel"
+	],
+	"tag": [
+		"visualisation"
+	],
 	"title": "Extreme visualization: squeezing a billion records into a million pixels",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

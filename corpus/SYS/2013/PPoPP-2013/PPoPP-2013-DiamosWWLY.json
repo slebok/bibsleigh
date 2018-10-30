@@ -1,14 +1,33 @@
 {
-	"author": ["Gregory Frederick Diamos", "Haicheng Wu", "Jin Wang", "Ashwin Lele", "Sudhakar Yalamanchili"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Gregory Frederick Diamos",
+		"Haicheng Wu",
+		"Jin Wang",
+		"Ashwin Lele",
+		"Sudhakar Yalamanchili"
+	],
+	"booktitle": "Proceedings of the 18th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2013",
 	"dblpkey": "conf/ppopp/DiamosWWLY13",
 	"doi": "10.1145/2442516.2442555",
 	"ee": "http://doi.acm.org/10.1145/2442516.2442555",
 	"pages": "301-302",
 	"publisher": "ACM",
-	"stemmed": ["relat", "algorithm", "for", "multi", "bulk", "synchron", "processor"],
-	"tag": ["algorithm", "multi", "relational"],
+	"stemmed": [
+		"relat",
+		"algorithm",
+		"for",
+		"multi",
+		"bulk",
+		"synchron",
+		"processor"
+	],
+	"tag": [
+		"algorithm",
+		"multi",
+		"relational"
+	],
 	"title": "Relational algorithms for multi-bulk-synchronous processors",
 	"type": "inproceedings",
 	"venue": "PPoPP",

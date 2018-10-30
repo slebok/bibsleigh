@@ -1,14 +1,29 @@
 {
-	"author": ["Yun-Wu Huang", "Philip S. Yu"],
-	"booktitle": "KDD",
+	"author": [
+		"Yun-Wu Huang",
+		"Philip S. Yu"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1999",
 	"dblpkey": "conf/kdd/HuangY99",
 	"doi": "10.1145/312129.318357",
 	"ee": "http://doi.acm.org/10.1145/312129.318357",
 	"pages": "282-286",
 	"publisher": "ACM",
-	"stemmed": ["adapt", "queri", "process", "for", "time", "seri", "data"],
-	"tag": ["adaptation", "query"],
+	"stemmed": [
+		"adapt",
+		"queri",
+		"process",
+		"for",
+		"time",
+		"seri",
+		"data"
+	],
+	"tag": [
+		"adaptation",
+		"query"
+	],
 	"title": "Adaptive Query Processing for Time-Series Data",
 	"type": "inproceedings",
 	"venue": "KDD",

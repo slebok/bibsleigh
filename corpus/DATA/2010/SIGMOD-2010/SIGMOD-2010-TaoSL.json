@@ -1,6 +1,10 @@
 {
-	"author": ["Yufei Tao", "Cheng Sheng", "Jianzhong Li"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yufei Tao",
+		"Cheng Sheng",
+		"Jianzhong Li"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/TaoSL10",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807263",
 	"pages": "891-902",
 	"publisher": "ACM",
-	"stemmed": ["find", "maximum", "degre", "in", "hidden", "bipartit", "graph"],
-	"tag": ["graph"],
+	"stemmed": [
+		"find",
+		"maximum",
+		"degre",
+		"in",
+		"hidden",
+		"bipartit",
+		"graph"
+	],
+	"tag": [
+		"graph"
+	],
 	"title": "Finding maximum degrees in hidden bipartite graphs",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

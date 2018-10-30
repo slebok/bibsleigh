@@ -1,6 +1,10 @@
 {
-	"author": ["Michael Bieber", "Jiangling Wan"],
-	"booktitle": "ECHT",
+	"author": [
+		"Michael Bieber",
+		"Jiangling Wan"
+	],
+	"booktitle": "Proceedings of the European Conference on Hypertext Technology",
+	"booktitleshort": "HT/ECHT",
 	"cdrom": "ECHT1994/P158.pdf",
 	"crossref": "conf/echt/94",
 	"dblpkey": "conf/echt/BieberW94",
@@ -8,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/192757.192792",
 	"pages": "158-166",
 	"publisher": "ACM",
-	"stemmed": ["backtrack", "in", "a", "multipl", "window", "hypertext", "environ"],
-	"tag": ["backtracking", "hypermedia", "multi"],
+	"stemmed": [
+		"backtrack",
+		"in",
+		"a",
+		"multipl",
+		"window",
+		"hypertext",
+		"environ"
+	],
+	"tag": [
+		"backtracking",
+		"hypermedia",
+		"multi"
+	],
 	"title": "Backtracking in a Multiple-Window Hypertext Environment",
 	"type": "inproceedings",
 	"venue": "HT",

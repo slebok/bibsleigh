@@ -1,14 +1,30 @@
 {
-	"author": ["Liang Zhang", "Deepak Agarwal", "Bee-Chung Chen"],
-	"booktitle": "RecSys",
+	"author": [
+		"Liang Zhang",
+		"Deepak Agarwal",
+		"Bee-Chung Chen"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2011",
 	"dblpkey": "conf/recsys/ZhangAC11",
 	"doi": "10.1145/2043932.2043940",
 	"ee": "http://doi.acm.org/10.1145/2043932.2043940",
 	"pages": "13-20",
 	"publisher": "ACM",
-	"stemmed": ["general", "matrix", "factor", "through", "flexibl", "regress", "prior"],
-	"tag": ["flexibility", "matrix"],
+	"stemmed": [
+		"general",
+		"matrix",
+		"factor",
+		"through",
+		"flexibl",
+		"regress",
+		"prior"
+	],
+	"tag": [
+		"flexibility",
+		"matrix"
+	],
 	"title": "Generalizing matrix factorization through flexible regression priors",
 	"type": "inproceedings",
 	"venue": "RecSys",

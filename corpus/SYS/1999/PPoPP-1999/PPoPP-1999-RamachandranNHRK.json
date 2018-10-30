@@ -1,14 +1,39 @@
 {
-	"author": ["Umakishore Ramachandran", "Rishiyur S. Nikhil", "Nissim Harel", "James M. Rehg", "Kathleen Knobe"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Umakishore Ramachandran",
+		"Rishiyur S. Nikhil",
+		"Nissim Harel",
+		"James M. Rehg",
+		"Kathleen Knobe"
+	],
+	"booktitle": "Proceedings of the Seventh Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1999",
 	"dblpkey": "conf/ppopp/RamachandranNHRK99",
 	"doi": "10.1145/301104.301121",
 	"ee": "http://doi.acm.org/10.1145/301104.301121",
 	"pages": "183-192",
 	"publisher": "ACM",
-	"stemmed": ["space", "time", "memori", "a", "parallel", "program", "abstract", "for", "interact", "multimedia", "applic"],
-	"tag": ["abstraction", "interactive", "memory management", "parallel", "programming"],
+	"stemmed": [
+		"space",
+		"time",
+		"memori",
+		"a",
+		"parallel",
+		"program",
+		"abstract",
+		"for",
+		"interact",
+		"multimedia",
+		"applic"
+	],
+	"tag": [
+		"abstraction",
+		"interactive",
+		"memory management",
+		"parallel",
+		"programming"
+	],
 	"title": "Space-Time Memory: A Parallel Programming Abstraction for Interactive Multimedia Applications",
 	"type": "inproceedings",
 	"venue": "PPoPP",

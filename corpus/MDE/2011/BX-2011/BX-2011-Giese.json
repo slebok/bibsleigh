@@ -1,19 +1,35 @@
 {
-	"address": ["Dagstuhl", "", "Germany"],
+	"address": [
+		"Dagstuhl",
+		"",
+		"Germany"
+	],
 	"author": "Holger Giese",
 	"booktitle": "Proceedings of the Dagstuhl Seminar 11031 on Bidirectional Transformations",
-	"editor": ["Zhenjiang Hu", "Andy Schürr", "Perdita Stevens", "James Terwilliger"],
+	"booktitleshort": "BX",
+	"editor": [
+		"Zhenjiang Hu",
+		"Andy Schürr",
+		"Perdita Stevens",
+		"James Terwilliger"
+	],
 	"month": "jan",
-	"number": 1,
-	"pages": 52,
+	"number": "1",
+	"pages": "52",
 	"publisher": "Schloss Dagstuhl — Leibniz-Zentrum für Informatik",
 	"publishershort": "Dagstuhl",
 	"series": "Dagstuhl Reports",
-	"stemmed": ["increment", "model", "synchron"],
-	"tag": ["incremental"],
+	"stemmed": [
+		"increment",
+		"model",
+		"synchron"
+	],
+	"tag": [
+		"incremental"
+	],
 	"title": "Incremental Model Synchronization",
 	"type": "inproceedings",
 	"venue": "BX",
-	"volume": 1,
+	"volume": "1",
 	"year": 2011
 }

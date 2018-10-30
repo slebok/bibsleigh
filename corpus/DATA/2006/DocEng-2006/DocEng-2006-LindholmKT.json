@@ -1,15 +1,34 @@
 {
-	"author": ["Tancred Lindholm", "Jaakko Kangasharju", "Sasu Tarkoma"],
-	"booktitle": "ACM Symposium on Document Engineering",
-	"booktitleshort": "DocEng",
+	"author": [
+		"Tancred Lindholm",
+		"Jaakko Kangasharju",
+		"Sasu Tarkoma"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Document Engineering",
+	"booktitleshort": "ACM Symposium on Document Engineering",
 	"crossref": "conf/doceng/2006",
 	"dblpkey": "conf/doceng/LindholmKT06",
 	"doi": "10.1145/1166160.1166183",
 	"ee": "http://doi.acm.org/10.1145/1166160.1166183",
 	"pages": "75-84",
 	"publisher": "ACM",
-	"stemmed": ["fast", "and", "simpl", "xml", "tree", "differenc", "by", "sequenc", "align"],
-	"tag": ["difference", "performance", "sequence", "xml"],
+	"stemmed": [
+		"fast",
+		"and",
+		"simpl",
+		"xml",
+		"tree",
+		"differenc",
+		"by",
+		"sequenc",
+		"align"
+	],
+	"tag": [
+		"difference",
+		"performance",
+		"sequence",
+		"xml"
+	],
 	"title": "Fast and simple XML tree differencing by sequence alignment",
 	"type": "inproceedings",
 	"venue": "DocEng",

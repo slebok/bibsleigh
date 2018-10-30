@@ -1,6 +1,11 @@
 {
-	"author": ["Yanfei Lv", "Bin Cui", "Bingsheng He", "Xuexuan Chen"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yanfei Lv",
+		"Bin Cui",
+		"Bingsheng He",
+		"Xuexuan Chen"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/LvCHC11",
@@ -8,7 +13,16 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989326",
 	"pages": "13-24",
 	"publisher": "ACM",
-	"stemmed": ["oper", "awar", "buffer", "manag", "in", "flash", "base", "system"],
+	"stemmed": [
+		"oper",
+		"awar",
+		"buffer",
+		"manag",
+		"in",
+		"flash",
+		"base",
+		"system"
+	],
 	"title": "Operation-aware buffer management in flash-based systems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

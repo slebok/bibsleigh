@@ -1,14 +1,47 @@
 {
-	"author": ["Peter Fankhauser", "Georges Gardarin", "M. Lopez", "J. Muñoz", "Anthony Tomasic"],
-	"booktitle": "VLDB",
-	"cite": ["books/ph/BukhresE96", "conf/ewdw/BusseFN94", "conf/dood/FinanceSF95", "...", "conf/vldb/GardarinST96", "conf/icde/NaackeGT98", "...", "journals/csur/ShethL90", "...", "..."],
+	"author": [
+		"Peter Fankhauser",
+		"Georges Gardarin",
+		"M. Lopez",
+		"J. Muñoz",
+		"Anthony Tomasic"
+	],
+	"booktitle": "Proceedings of the 24th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"books/ph/BukhresE96",
+		"conf/ewdw/BusseFN94",
+		"conf/dood/FinanceSF95",
+		"...",
+		"conf/vldb/GardarinST96",
+		"conf/icde/NaackeGT98",
+		"...",
+		"journals/csur/ShethL90",
+		"...",
+		"..."
+	],
 	"crossref": "conf/vldb/98",
 	"dblpkey": "conf/vldb/FankhauserGLMT98",
 	"ee": "http://www.vldb.org/conf/1998/p655.pdf",
 	"pages": "655-658",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["experi", "in", "feder", "databas", "from", "iro", "db", "to", "miro", "web"],
-	"tag": ["case study", "database", "experience"],
+	"stemmed": [
+		"experi",
+		"in",
+		"feder",
+		"databas",
+		"from",
+		"iro",
+		"db",
+		"to",
+		"miro",
+		"web"
+	],
+	"tag": [
+		"case study",
+		"database",
+		"experience"
+	],
 	"title": "Experiences in Federated Databases: From IRO-DB to MIRO-Web",
 	"type": "inproceedings",
 	"venue": "VLDB",

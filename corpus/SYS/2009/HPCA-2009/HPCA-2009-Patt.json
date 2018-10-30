@@ -1,6 +1,7 @@
 {
 	"author": "Yale N. Patt",
-	"booktitle": "HPCA",
+	"booktitle": "Proceedings of the 15th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2009",
 	"dblpkey": "conf/hpca/Patt09",
 	"doi": "10.1109/HPCA.2009.4798248",
@@ -8,8 +9,17 @@
 	"pages": "147-148",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["multi", "core", "demand", "multi", "interfac"],
-	"tag": ["interface", "manycore"],
+	"stemmed": [
+		"multi",
+		"core",
+		"demand",
+		"multi",
+		"interfac"
+	],
+	"tag": [
+		"interface",
+		"manycore"
+	],
 	"title": "Multi-core demands multi-interfaces",
 	"type": "inproceedings",
 	"venue": "HPCA",

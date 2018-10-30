@@ -1,14 +1,28 @@
 {
-	"author": ["Aditya V. Thakur", "R. Govindarajan"],
-	"booktitle": "CGO",
+	"author": [
+		"Aditya V. Thakur",
+		"R. Govindarajan"
+	],
+	"booktitle": "Proceedings of the Sixth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2008",
 	"dblpkey": "conf/cgo/ThakurG08",
 	"doi": "10.1145/1356058.1356066",
 	"ee": "http://doi.acm.org/10.1145/1356058.1356066",
 	"pages": "55-63",
 	"publisher": "ACM",
-	"stemmed": ["comprehens", "path", "sensit", "data", "flow", "analysi"],
-	"tag": ["analysis", "data flow"],
+	"stemmed": [
+		"comprehens",
+		"path",
+		"sensit",
+		"data",
+		"flow",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"data flow"
+	],
 	"title": "Comprehensive path-sensitive data-flow analysis",
 	"type": "inproceedings",
 	"venue": "CGO",

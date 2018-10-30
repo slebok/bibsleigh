@@ -1,6 +1,12 @@
 {
-	"author": ["Frank P. Burns", "Delong Shang", "Albert Koelmans", "Alexandre Yakovlev"],
-	"booktitle": "DATE",
+	"author": [
+		"Frank P. Burns",
+		"Delong Shang",
+		"Albert Koelmans",
+		"Alexandre Yakovlev"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/BurnsSKY04",
 	"doi": "10.1109/DATE.2004.1268948",
@@ -8,8 +14,19 @@
 	"pages": "724-725",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["an", "asynchron", "synthesi", "toolset", "use", "verilog"],
-	"tag": ["synthesis", "tool support", "using"],
+	"stemmed": [
+		"an",
+		"asynchron",
+		"synthesi",
+		"toolset",
+		"use",
+		"verilog"
+	],
+	"tag": [
+		"synthesis",
+		"tool support",
+		"using"
+	],
 	"title": "An Asynchronous Synthesis Toolset Using Verilog",
 	"type": "inproceedings",
 	"venue": "DATE",

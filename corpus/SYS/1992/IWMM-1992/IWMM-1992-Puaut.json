@@ -1,6 +1,7 @@
 {
 	"author": "Isabelle Puaut",
-	"booktitle": "IWMM",
+	"booktitle": "Proceedings of the First International Workshop on Memory Management",
+	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
 	"dblpkey": "conf/iwmm/Puaut92",
 	"doi": "10.1007/BFb0017188",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["distribut", "garbag", "collect", "of", "activ", "object", "with", "no", "global", "synchronis"],
-	"tag": ["distributed", "garbage collection"],
+	"stemmed": [
+		"distribut",
+		"garbag",
+		"collect",
+		"of",
+		"activ",
+		"object",
+		"with",
+		"no",
+		"global",
+		"synchronis"
+	],
+	"tag": [
+		"distributed",
+		"garbage collection"
+	],
 	"title": "Distributed Garbage Collection of Active Objects with No Global Synchronisation",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 637,
+	"volume": "637",
 	"year": 1992
 }

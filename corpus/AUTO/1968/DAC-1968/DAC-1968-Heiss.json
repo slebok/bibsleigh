@@ -1,13 +1,26 @@
 {
 	"author": "Sam Heiss",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the Fifth Design Automation Workshop",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1968",
 	"dblpkey": "conf/dac/Heiss68",
 	"doi": "10.1145/800167.805391",
 	"ee": "http://doi.acm.org/10.1145/800167.805391",
 	"publisher": "ACM",
-	"stemmed": ["a", "path", "connect", "algorithm", "for", "multi", "layer", "board"],
-	"tag": ["algorithm", "multi"],
+	"stemmed": [
+		"a",
+		"path",
+		"connect",
+		"algorithm",
+		"for",
+		"multi",
+		"layer",
+		"board"
+	],
+	"tag": [
+		"algorithm",
+		"multi"
+	],
 	"title": "A path connection algorithm for multi-layer boards",
 	"type": "inproceedings",
 	"venue": "DAC",

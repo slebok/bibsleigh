@@ -1,13 +1,25 @@
 {
-	"author": ["Sigmund Cherem", "Radu Rugina"],
-	"booktitle": "ISMM",
+	"author": [
+		"Sigmund Cherem",
+		"Radu Rugina"
+	],
+	"booktitle": "Proceedings of the Sixth International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2007",
 	"dblpkey": "conf/iwmm/CheremR07",
 	"doi": "10.1145/1296907.1296923",
 	"ee": "http://doi.acm.org/10.1145/1296907.1296923",
 	"pages": "117-128",
 	"publisher": "ACM",
-	"stemmed": ["uniqu", "infer", "for", "compil", "time", "object", "dealloc"],
+	"stemmed": [
+		"uniqu",
+		"infer",
+		"for",
+		"compil",
+		"time",
+		"object",
+		"dealloc"
+	],
 	"title": "Uniqueness inference for compile-time object deallocation",
 	"type": "inproceedings",
 	"venue": "ISMM",

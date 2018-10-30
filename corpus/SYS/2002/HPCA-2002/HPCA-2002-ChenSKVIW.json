@@ -1,15 +1,39 @@
 {
-	"author": ["Guangyu Chen", "R. Shetty", "Mahmut T. Kandemir", "Narayanan Vijaykrishnan", "Mary Jane Irwin", "Mario Wolczko"],
-	"booktitle": "HPCA",
+	"author": [
+		"Guangyu Chen",
+		"R. Shetty",
+		"Mahmut T. Kandemir",
+		"Narayanan Vijaykrishnan",
+		"Mary Jane Irwin",
+		"Mario Wolczko"
+	],
+	"booktitle": "Proceedings of the Eighth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2002",
 	"dblpkey": "conf/hpca/ChenSKVIW02",
 	"doi": "10.1109/HPCA.2002.995701",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2002.995701", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2002.995701"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2002.995701",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2002.995701"
+	],
 	"pages": "92-103",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["tune", "garbag", "collect", "in", "an", "embed", "java", "environ"],
-	"tag": ["embedded", "garbage collection", "java"],
+	"stemmed": [
+		"tune",
+		"garbag",
+		"collect",
+		"in",
+		"an",
+		"embed",
+		"java",
+		"environ"
+	],
+	"tag": [
+		"embedded",
+		"garbage collection",
+		"java"
+	],
 	"title": "Tuning Garbage Collection in an Embedded Java Environment",
 	"type": "inproceedings",
 	"venue": "HPCA",

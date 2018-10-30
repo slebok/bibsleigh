@@ -1,14 +1,37 @@
 {
-	"author": ["Indu Bhagat", "Enric Gibert", "F. Jesús Sánchez", "Antonio González"],
-	"booktitle": "LCTES",
+	"author": [
+		"Indu Bhagat",
+		"Enric Gibert",
+		"F. Jesús Sánchez",
+		"Antonio González"
+	],
+	"booktitle": "Proceedings of the 12th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2011",
 	"dblpkey": "conf/lctrts/BhagatGSG11",
 	"doi": "10.1145/1967677.1967700",
 	"ee": "http://doi.acm.org/10.1145/1967677.1967700",
 	"pages": "161-170",
 	"publisher": "ACM",
-	"stemmed": ["global", "product", "propag", "a", "code", "optim", "techniqu", "to", "specul", "prune", "useless", "narrow", "comput"],
-	"tag": ["effectiveness", "optimisation"],
+	"stemmed": [
+		"global",
+		"product",
+		"propag",
+		"a",
+		"code",
+		"optim",
+		"techniqu",
+		"to",
+		"specul",
+		"prune",
+		"useless",
+		"narrow",
+		"comput"
+	],
+	"tag": [
+		"effectiveness",
+		"optimisation"
+	],
 	"title": "Global productiveness propagation: a code optimization technique to speculatively prune useless narrow computations",
 	"type": "inproceedings",
 	"venue": "LCTES",

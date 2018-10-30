@@ -1,14 +1,31 @@
 {
-	"author": ["Andrew Lenharth", "Vikram S. Adve", "Samuel T. King"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Andrew Lenharth",
+		"Vikram S. Adve",
+		"Samuel T. King"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2009",
 	"dblpkey": "conf/asplos/LenharthAK09",
 	"doi": "10.1145/1508244.1508251",
 	"ee": "http://doi.acm.org/10.1145/1508244.1508251",
 	"pages": "49-60",
 	"publisher": "ACM",
-	"stemmed": ["recoveri", "domain", "an", "organ", "principl", "for", "recover", "oper", "system"],
-	"tag": ["operating system"],
+	"stemmed": [
+		"recoveri",
+		"domain",
+		"an",
+		"organ",
+		"principl",
+		"for",
+		"recover",
+		"oper",
+		"system"
+	],
+	"tag": [
+		"operating system"
+	],
 	"title": "Recovery domains: an organizing principle for recoverable operating systems",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

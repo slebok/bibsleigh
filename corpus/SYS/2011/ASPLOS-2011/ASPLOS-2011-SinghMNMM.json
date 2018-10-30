@@ -1,14 +1,37 @@
 {
-	"author": ["Abhayendra Singh", "Daniel Marino", "Satish Narayanasamy", "Todd D. Millstein", "Madanlal Musuvathi"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Abhayendra Singh",
+		"Daniel Marino",
+		"Satish Narayanasamy",
+		"Todd D. Millstein",
+		"Madanlal Musuvathi"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2011",
 	"dblpkey": "conf/asplos/SinghMNMM11",
 	"doi": "10.1145/1950365.1950375",
 	"ee": "http://doi.acm.org/10.1145/1950365.1950375",
 	"pages": "53-66",
 	"publisher": "ACM",
-	"stemmed": ["effici", "processor", "support", "for", "dr", "fx", "a", "memori", "model", "with", "except"],
-	"tag": ["exception", "memory management", "performance"],
+	"stemmed": [
+		"effici",
+		"processor",
+		"support",
+		"for",
+		"dr",
+		"fx",
+		"a",
+		"memori",
+		"model",
+		"with",
+		"except"
+	],
+	"tag": [
+		"exception",
+		"memory management",
+		"performance"
+	],
 	"title": "Efficient processor support for DRFx, a memory model with exceptions",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,14 +1,32 @@
 {
-	"author": ["Rey-Long Liu", "Yun-Ling Lu"],
-	"booktitle": "KDD",
+	"author": [
+		"Rey-Long Liu",
+		"Yun-Ling Lu"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/LiuL02",
 	"doi": "10.1145/775047.775136",
 	"ee": "http://doi.acm.org/10.1145/775047.775136",
 	"pages": "599-604",
 	"publisher": "ACM",
-	"stemmed": ["increment", "context", "mine", "for", "adapt", "document", "classif"],
-	"tag": ["adaptation", "classification", "documentation", "incremental", "mining"],
+	"stemmed": [
+		"increment",
+		"context",
+		"mine",
+		"for",
+		"adapt",
+		"document",
+		"classif"
+	],
+	"tag": [
+		"adaptation",
+		"classification",
+		"documentation",
+		"incremental",
+		"mining"
+	],
 	"title": "Incremental context mining for adaptive document classification",
 	"type": "inproceedings",
 	"venue": "KDD",

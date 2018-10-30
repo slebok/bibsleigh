@@ -1,15 +1,33 @@
 {
 	"author": "Jungpil Shin",
-	"booktitle": "ICDAR",
+	"booktitle": "Proceedings of the Sixth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2001",
 	"dblpkey": "conf/icdar/Shin01",
 	"doi": "10.1109/ICDAR.2001.953900",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2001.953900", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953900"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2001.953900",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953900"
+	],
 	"pages": "810-815",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["onlin", "cursiv", "hangul", "charact", "recognit", "base", "on", "dynam", "program"],
-	"tag": ["online", "programming", "recognition"],
+	"stemmed": [
+		"onlin",
+		"cursiv",
+		"hangul",
+		"charact",
+		"recognit",
+		"base",
+		"on",
+		"dynam",
+		"program"
+	],
+	"tag": [
+		"online",
+		"programming",
+		"recognition"
+	],
 	"title": "Online Cursive Hangul Character Recognition Based on Dynamic Programming",
 	"type": "inproceedings",
 	"venue": "ICDAR",

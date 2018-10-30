@@ -1,14 +1,33 @@
 {
-	"author": ["Alan Mishchenko", "Tsutomu Sasao"],
-	"booktitle": "DAC",
+	"author": [
+		"Alan Mishchenko",
+		"Tsutomu Sasao"
+	],
+	"booktitle": "Proceedings of the 40th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2003",
 	"dblpkey": "conf/dac/MishchenkoS03",
 	"doi": "10.1145/775832.775872",
 	"ee": "http://doi.acm.org/10.1145/775832.775872",
 	"pages": "149-154",
 	"publisher": "ACM",
-	"stemmed": ["larg", "scale", "sop", "minim", "use", "decomposit", "and", "function", "properti"],
-	"tag": ["composition", "functional", "scalability", "using"],
+	"stemmed": [
+		"larg",
+		"scale",
+		"sop",
+		"minim",
+		"use",
+		"decomposit",
+		"and",
+		"function",
+		"properti"
+	],
+	"tag": [
+		"composition",
+		"functional",
+		"scalability",
+		"using"
+	],
 	"title": "Large-scale SOP minimization using decomposition and functional properties",
 	"type": "inproceedings",
 	"venue": "DAC",

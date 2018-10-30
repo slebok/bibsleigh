@@ -1,6 +1,7 @@
 {
 	"author": "Yiming Yang",
 	"booktitle": "Proceedings of the 18th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1995/P256.pdf",
 	"crossref": "conf/sigir/95",
 	"dblpkey": "conf/sigir/Yang95",
@@ -8,8 +9,23 @@
 	"ee": "http://doi.acm.org/10.1145/215206.215367",
 	"pages": "256-263",
 	"publisher": "ACM Press",
-	"stemmed": ["nois", "reduct", "in", "a", "statist", "approach", "to", "text", "categor"],
-	"tag": ["approach", "categorisation", "reduction", "statistics"],
+	"stemmed": [
+		"nois",
+		"reduct",
+		"in",
+		"a",
+		"statist",
+		"approach",
+		"to",
+		"text",
+		"categor"
+	],
+	"tag": [
+		"approach",
+		"categorisation",
+		"reduction",
+		"statistics"
+	],
 	"title": "Noise Reduction in a Statistical Approach to Text Categorization",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,13 +1,31 @@
 {
-	"author": ["Sebastian Angel", "Hitesh Ballani", "Thomas Karagiannis", "Greg O'Shea", "Eno Thereska"],
-	"booktitle": "OSDI",
+	"author": [
+		"Sebastian Angel",
+		"Hitesh Ballani",
+		"Thomas Karagiannis",
+		"Greg O'Shea",
+		"Eno Thereska"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2014",
 	"dblpkey": "conf/osdi/AngelBKOT14",
 	"ee": "https://www.usenix.org/conference/osdi14/technical-sessions/presentation/angel",
 	"pages": "233-248",
 	"publisher": "USENIX Association",
-	"stemmed": ["end", "to", "end", "perform", "isol", "through", "virtual", "datacent"],
-	"tag": ["performance"],
+	"stemmed": [
+		"end",
+		"to",
+		"end",
+		"perform",
+		"isol",
+		"through",
+		"virtual",
+		"datacent"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "End-to-end Performance Isolation Through Virtual Datacenters",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,13 +1,38 @@
 {
-	"author": ["Jeffrey Xu Yu", "Zhihong Chong", "Hongjun Lu", "Aoying Zhou"],
-	"booktitle": "VLDB",
+	"author": [
+		"Jeffrey Xu Yu",
+		"Zhihong Chong",
+		"Hongjun Lu",
+		"Aoying Zhou"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/YuCLZ04",
 	"ee": "http://www.vldb.org/conf/2004/RS5P3.PDF",
 	"pages": "204-215",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["fals", "posit", "or", "fals", "negat", "mine", "frequent", "itemset", "from", "high", "speed", "transact", "data", "stream"],
-	"tag": ["data type", "mining", "transaction"],
+	"stemmed": [
+		"fals",
+		"posit",
+		"or",
+		"fals",
+		"negat",
+		"mine",
+		"frequent",
+		"itemset",
+		"from",
+		"high",
+		"speed",
+		"transact",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"data type",
+		"mining",
+		"transaction"
+	],
 	"title": "False Positive or False Negative: Mining Frequent Itemsets from High Speed Transactional Data Streams",
 	"type": "inproceedings",
 	"venue": "VLDB",

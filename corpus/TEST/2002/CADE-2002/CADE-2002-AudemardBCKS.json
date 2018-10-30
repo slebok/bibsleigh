@@ -1,6 +1,13 @@
 {
-	"author": ["Gilles Audemard", "Piergiorgio Bertoli", "Alessandro Cimatti", "Artur Kornilowicz", "Roberto Sebastiani"],
-	"booktitle": "CADE",
+	"author": [
+		"Gilles Audemard",
+		"Piergiorgio Bertoli",
+		"Alessandro Cimatti",
+		"Artur Kornilowicz",
+		"Roberto Sebastiani"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2002",
 	"dblpkey": "conf/cade/AudemardBCKS02",
 	"doi": "10.1007/3-540-45620-1_17",
@@ -10,11 +17,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "sat", "base", "approach", "for", "solv", "formula", "over", "boolean", "and", "linear", "mathemat", "proposit"],
-	"tag": ["approach", "linear", "satisfiability"],
+	"stemmed": [
+		"a",
+		"sat",
+		"base",
+		"approach",
+		"for",
+		"solv",
+		"formula",
+		"over",
+		"boolean",
+		"and",
+		"linear",
+		"mathemat",
+		"proposit"
+	],
+	"tag": [
+		"approach",
+		"linear",
+		"satisfiability"
+	],
 	"title": "A SAT Based Approach for Solving Formulas over Boolean and Linear Mathematical Propositions",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2392,
+	"volume": "2392",
 	"year": 2002
 }

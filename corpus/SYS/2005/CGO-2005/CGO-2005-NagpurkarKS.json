@@ -1,16 +1,32 @@
 {
-	"acmid": 1048987,
-	"author": ["Priya Nagpurkar", "Chandra Krintz", "Timothy Sherwood"],
-	"booktitle": "CGO",
+	"acmid": "1048987",
+	"author": [
+		"Priya Nagpurkar",
+		"Chandra Krintz",
+		"Timothy Sherwood"
+	],
+	"booktitle": "Proceedings of the Third International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2005",
 	"dblpkey": "conf/cgo/NagpurkarKS05",
 	"doi": "10.1109/CGO.2005.26",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2005.26", "http://doi.ieeecomputersociety.org/10.1109/CGO.2005.26", "http://dl.acm.org/citation.cfm?id=1048987"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2005.26",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2005.26",
+		"http://dl.acm.org/citation.cfm?id=1048987"
+	],
 	"pages": "191-202",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["phase", "awar", "remot", "profil"],
-	"tag": ["profiling"],
+	"stemmed": [
+		"phase",
+		"awar",
+		"remot",
+		"profil"
+	],
+	"tag": [
+		"profiling"
+	],
 	"title": "Phase-Aware Remote Profiling",
 	"type": "inproceedings",
 	"venue": "CGO",

@@ -1,6 +1,10 @@
 {
-	"author": ["Chengjie Luo", "Clement T. Yu"],
+	"author": [
+		"Chengjie Luo",
+		"Clement T. Yu"
+	],
 	"booktitle": "Proceedings of the 14th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1991/P082.pdf",
 	"crossref": "conf/sigir/91",
 	"dblpkey": "conf/sigir/LuoY91",
@@ -8,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/122860.122869",
 	"pages": "82-91",
 	"publisher": "ACM",
-	"stemmed": ["imag", "decompress", "a", "hybrid", "imag", "decompress", "algorithm"],
-	"tag": ["algorithm", "hybrid", "image"],
+	"stemmed": [
+		"imag",
+		"decompress",
+		"a",
+		"hybrid",
+		"imag",
+		"decompress",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"hybrid",
+		"image"
+	],
 	"title": "Image Decompression: A Hybrid Image Decompressing Algorithm",
 	"type": "inproceedings",
 	"venue": "SIGIR",

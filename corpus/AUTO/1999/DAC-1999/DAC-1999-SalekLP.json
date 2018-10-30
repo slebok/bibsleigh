@@ -1,13 +1,37 @@
 {
-	"author": ["Amir H. Salek", "Jinan Lou", "Massoud Pedram"],
-	"booktitle": "DAC",
+	"author": [
+		"Amir H. Salek",
+		"Jinan Lou",
+		"Massoud Pedram"
+	],
+	"booktitle": "Proceedings of the 36th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/SalekLP99",
 	"doi": "10.1145/309847.309982",
 	"ee": "http://doi.acm.org/10.1145/309847.309982",
 	"pages": "472-478",
 	"publisher": "ACM Press",
-	"stemmed": ["merlin", "semi", "order", "independ", "hierarch", "buffer", "rout", "tree", "generat", "use", "local", "neighborhood", "search"],
-	"tag": ["generative", "independence", "named", "using"],
+	"stemmed": [
+		"merlin",
+		"semi",
+		"order",
+		"independ",
+		"hierarch",
+		"buffer",
+		"rout",
+		"tree",
+		"generat",
+		"use",
+		"local",
+		"neighborhood",
+		"search"
+	],
+	"tag": [
+		"generative",
+		"independence",
+		"named",
+		"using"
+	],
 	"title": "MERLIN: Semi-Order-Independent Hierarchical Buffered Routing Tree Generation Using Local Neighborhood Search",
 	"type": "inproceedings",
 	"venue": "DAC",

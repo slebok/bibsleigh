@@ -1,6 +1,12 @@
 {
-	"author": ["Timo Latvala", "Armin Biere", "Keijo Heljanko", "Tommi A. Junttila"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Timo Latvala",
+		"Armin Biere",
+		"Keijo Heljanko",
+		"Tommi A. Junttila"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2005",
 	"dblpkey": "conf/vmcai/LatvalaBHJ05",
 	"doi": "10.1007/978-3-540-30579-8_25",
@@ -10,11 +16,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["simpl", "is", "better", "effici", "bound", "model", "check", "for", "past", "ltl"],
-	"tag": ["bound", "ltl", "model checking", "performance"],
+	"stemmed": [
+		"simpl",
+		"is",
+		"better",
+		"effici",
+		"bound",
+		"model",
+		"check",
+		"for",
+		"past",
+		"ltl"
+	],
+	"tag": [
+		"bound",
+		"ltl",
+		"model checking",
+		"performance"
+	],
 	"title": "Simple Is Better: Efficient Bounded Model Checking for Past LTL",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3385,
+	"volume": "3385",
 	"year": 2005
 }

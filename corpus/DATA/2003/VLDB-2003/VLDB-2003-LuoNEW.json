@@ -1,12 +1,28 @@
 {
-	"author": ["Gang Luo", "Jeffrey F. Naughton", "Curt J. Ellmann", "Michael Watzke"],
-	"booktitle": "VLDB",
+	"author": [
+		"Gang Luo",
+		"Jeffrey F. Naughton",
+		"Curt J. Ellmann",
+		"Michael Watzke"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/LuoNEW03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S18P03.pdf",
 	"pages": "596-607",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["lock", "protocol", "for", "materi", "aggreg", "join", "view"],
-	"tag": ["protocol"],
+	"stemmed": [
+		"lock",
+		"protocol",
+		"for",
+		"materi",
+		"aggreg",
+		"join",
+		"view"
+	],
+	"tag": [
+		"protocol"
+	],
 	"title": "Locking Protocols for Materialized Aggregate Join Views",
 	"type": "inproceedings",
 	"venue": "VLDB",

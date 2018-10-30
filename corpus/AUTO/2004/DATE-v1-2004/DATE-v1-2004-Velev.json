@@ -1,6 +1,7 @@
 {
 	"author": "Miroslav N. Velev",
-	"booktitle": "DATE",
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/Velev04",
 	"doi": "10.1109/DATE.2004.1268859",
@@ -8,8 +9,25 @@
 	"pages": "266-271",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["exploit", "signal", "unobserv", "for", "effici", "translat", "to", "cnf", "in", "formal", "verif", "of", "microprocessor"],
-	"tag": ["performance", "verification"],
+	"stemmed": [
+		"exploit",
+		"signal",
+		"unobserv",
+		"for",
+		"effici",
+		"translat",
+		"to",
+		"cnf",
+		"in",
+		"formal",
+		"verif",
+		"of",
+		"microprocessor"
+	],
+	"tag": [
+		"performance",
+		"verification"
+	],
 	"title": "Exploiting Signal Unobservability for Efficient Translation to CNF in Formal Verification of Microprocessors",
 	"type": "inproceedings",
 	"venue": "DATE",

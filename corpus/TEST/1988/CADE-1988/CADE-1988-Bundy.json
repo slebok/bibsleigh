@@ -1,6 +1,7 @@
 {
 	"author": "Alan Bundy",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/Bundy88",
 	"doi": "10.1007/BFb0012826",
@@ -10,11 +11,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "use", "of", "explicit", "plan", "to", "guid", "induct", "proof"],
-	"tag": ["induction", "proving"],
+	"stemmed": [
+		"the",
+		"use",
+		"of",
+		"explicit",
+		"plan",
+		"to",
+		"guid",
+		"induct",
+		"proof"
+	],
+	"tag": [
+		"induction",
+		"proving"
+	],
 	"title": "The Use of Explicit Plans to Guide Inductive Proofs",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

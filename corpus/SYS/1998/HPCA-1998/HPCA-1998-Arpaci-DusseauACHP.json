@@ -1,15 +1,45 @@
 {
-	"author": ["Remzi H. Arpaci-Dusseau", "Andrea C. Arpaci-Dusseau", "David E. Culler", "Joseph M. Hellerstein", "David A. Patterson"],
-	"booktitle": "HPCA",
+	"author": [
+		"Remzi H. Arpaci-Dusseau",
+		"Andrea C. Arpaci-Dusseau",
+		"David E. Culler",
+		"Joseph M. Hellerstein",
+		"David A. Patterson"
+	],
+	"booktitle": "Proceedings of the Fourth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1998",
 	"dblpkey": "conf/hpca/Arpaci-DusseauACHP98",
 	"doi": "10.1109/HPCA.1998.650549",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1998.650549", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1998.650549"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1998.650549",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1998.650549"
+	],
 	"pages": "90-101",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["the", "architectur", "cost", "of", "stream", "i", "o", "a", "comparison", "of", "workstat", "cluster", "and", "smps"],
-	"tag": ["architecture", "clustering", "comparison", "streaming"],
+	"stemmed": [
+		"the",
+		"architectur",
+		"cost",
+		"of",
+		"stream",
+		"i",
+		"o",
+		"a",
+		"comparison",
+		"of",
+		"workstat",
+		"cluster",
+		"and",
+		"smps"
+	],
+	"tag": [
+		"architecture",
+		"clustering",
+		"comparison",
+		"streaming"
+	],
 	"title": "The Architectural Costs of Streaming I/O: A Comparison of Workstations, Clusters, and SMPs",
 	"type": "inproceedings",
 	"venue": "HPCA",

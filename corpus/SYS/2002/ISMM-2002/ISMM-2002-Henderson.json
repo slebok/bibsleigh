@@ -1,6 +1,6 @@
 {
 	"author": "Fergus Henderson",
-	"booktitle": "MSP/ISMM",
+	"booktitle": "Proceedings of the Third International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2002",
 	"dblpkey": "conf/iwmm/Henderson02",
@@ -8,8 +8,18 @@
 	"ee": "http://doi.acm.org/10.1145/773039.512449",
 	"pages": "256-263",
 	"publisher": "ACM",
-	"stemmed": ["accur", "garbag", "collect", "in", "an", "uncoop", "environ"],
-	"tag": ["garbage collection"],
+	"stemmed": [
+		"accur",
+		"garbag",
+		"collect",
+		"in",
+		"an",
+		"uncoop",
+		"environ"
+	],
+	"tag": [
+		"garbage collection"
+	],
 	"title": "Accurate garbage collection in an uncooperative environment",
 	"type": "inproceedings",
 	"venue": "ISMM",

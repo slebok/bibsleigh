@@ -1,13 +1,36 @@
 {
-	"author": ["Hugo A. López", "Eduardo R. B. Marques", "Francisco Martins", "Nicholas Ng", "César Santos", "Vasco Thudichum Vasconcelos", "Nobuko Yoshida"],
-	"booktitle": "OOPSLA",
+	"author": [
+		"Hugo A. López",
+		"Eduardo R. B. Marques",
+		"Francisco Martins",
+		"Nicholas Ng",
+		"César Santos",
+		"Vasco Thudichum Vasconcelos",
+		"Nobuko Yoshida"
+	],
+	"booktitle": "Proceedings of the 30th Conference on Object-Oriented Programming, Systems, Languages and Applications",
+	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2015",
 	"dblpkey": "conf/oopsla/LopezMMNSVY15",
 	"doi": "10.1145/2814270.2814302",
 	"pages": "280-298",
 	"publisher": "ACM",
-	"stemmed": ["protocol", "base", "verif", "of", "messag", "pass", "parallel", "program"],
-	"tag": ["message passing", "parallel", "source code", "verification"],
+	"stemmed": [
+		"protocol",
+		"base",
+		"verif",
+		"of",
+		"messag",
+		"pass",
+		"parallel",
+		"program"
+	],
+	"tag": [
+		"message passing",
+		"parallel",
+		"source code",
+		"verification"
+	],
 	"title": "Protocol-based verification of message-passing parallel programs",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

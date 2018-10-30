@@ -1,6 +1,11 @@
 {
-	"author": ["Majid Ziaratban", "Karim Faez", "Farhad Faradji"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Majid Ziaratban",
+		"Karim Faez",
+		"Farhad Faradji"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/ZiaratbanFF07",
 	"doi": "10.1109/ICDAR.2007.273",
@@ -8,8 +13,26 @@
 	"pages": "297-301",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["languag", "base", "featur", "extract", "use", "templat", "match", "in", "farsi", "arab", "handwritten", "numer", "recognit"],
-	"tag": ["feature model", "recognition", "using"],
+	"stemmed": [
+		"languag",
+		"base",
+		"featur",
+		"extract",
+		"use",
+		"templat",
+		"match",
+		"in",
+		"farsi",
+		"arab",
+		"handwritten",
+		"numer",
+		"recognit"
+	],
+	"tag": [
+		"feature model",
+		"recognition",
+		"using"
+	],
 	"title": "Language-Based Feature Extraction Using Template-Matching In Farsi/Arabic Handwritten Numeral Recognition",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,6 +1,12 @@
 {
-	"author": ["Chris Jermaine", "Alin Dobra", "Subramanian Arumugam", "Shantanu Joshi", "Abhijit Pol"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Chris Jermaine",
+		"Alin Dobra",
+		"Subramanian Arumugam",
+		"Shantanu Joshi",
+		"Abhijit Pol"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/JermaineDAJP05",
@@ -8,8 +14,18 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066222",
 	"pages": "563-574",
 	"publisher": "ACM",
-	"stemmed": ["a", "disk", "base", "join", "with", "probabilist", "guarante"],
-	"tag": ["probability"],
+	"stemmed": [
+		"a",
+		"disk",
+		"base",
+		"join",
+		"with",
+		"probabilist",
+		"guarante"
+	],
+	"tag": [
+		"probability"
+	],
 	"title": "A Disk-Based Join With Probabilistic Guarantees",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

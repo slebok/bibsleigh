@@ -1,16 +1,35 @@
 {
-	"author": ["Marcel Kornacker", "Mehul A. Shah", "Joseph M. Hellerstein"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Marcel Kornacker",
+		"Mehul A. Shah",
+		"Joseph M. Hellerstein"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD98/P570.PDF",
-	"cite": ["conf/pods/HellersteinKP97", "conf/vldb/HellersteinNP95", "..."],
+	"cite": [
+		"conf/pods/HellersteinKP97",
+		"conf/vldb/HellersteinNP95",
+		"..."
+	],
 	"crossref": "conf/sigmod/98",
 	"dblpkey": "conf/sigmod/KornackerSH98",
 	"doi": "10.1145/276304.276384",
 	"ee": "http://doi.acm.org/10.1145/276304.276384",
 	"pages": "570-571",
 	"publisher": "ACM Press",
-	"stemmed": ["amdb", "an", "access", "method", "debug", "tool"],
-	"tag": ["debugging", "named"],
+	"stemmed": [
+		"amdb",
+		"an",
+		"access",
+		"method",
+		"debug",
+		"tool"
+	],
+	"tag": [
+		"debugging",
+		"named"
+	],
 	"title": "amdb: An Access Method Debugging Tool",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

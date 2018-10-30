@@ -1,14 +1,32 @@
 {
-	"author": ["Lorenz Huelsbergen", "Phil Winterbottom"],
-	"booktitle": "ISMM",
+	"author": [
+		"Lorenz Huelsbergen",
+		"Phil Winterbottom"
+	],
+	"booktitle": "Proceedings of the First International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/1998",
 	"dblpkey": "conf/iwmm/HuelsbergenW98",
 	"doi": "10.1145/286860.286878",
 	"ee": "http://doi.acm.org/10.1145/286860.286878",
 	"pages": "166-175",
 	"publisher": "ACM",
-	"stemmed": ["veri", "concurr", "mark", "sweep", "garbag", "collect", "without", "fine", "grain", "synchron"],
-	"tag": ["concurrent", "garbage collection"],
+	"stemmed": [
+		"veri",
+		"concurr",
+		"mark",
+		"sweep",
+		"garbag",
+		"collect",
+		"without",
+		"fine",
+		"grain",
+		"synchron"
+	],
+	"tag": [
+		"concurrent",
+		"garbage collection"
+	],
 	"title": "Very Concurrent Mark-&-Sweep Garbage Collection without Fine-Grain Synchronization",
 	"type": "inproceedings",
 	"venue": "ISMM",

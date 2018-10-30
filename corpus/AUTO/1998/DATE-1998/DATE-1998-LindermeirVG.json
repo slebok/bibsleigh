@@ -1,6 +1,11 @@
 {
-	"author": ["Walter M. Lindermeir", "Thomas J. Vogels", "Helmut E. Graeb"],
-	"booktitle": "DATE",
+	"author": [
+		"Walter M. Lindermeir",
+		"Thomas J. Vogels",
+		"Helmut E. Graeb"
+	],
+	"booktitle": "Proceedings of the Third Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1998",
 	"dblpkey": "conf/date/LindermeirVG98",
 	"doi": "10.1109/DATE.1998.655953",
@@ -8,8 +13,29 @@
 	"pages": "822-827",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["analog", "test", "design", "with", "idd", "measur", "for", "the", "detect", "of", "parametr", "and", "catastroph", "fault"],
-	"tag": ["design", "detection", "fault", "metric", "parametricity"],
+	"stemmed": [
+		"analog",
+		"test",
+		"design",
+		"with",
+		"idd",
+		"measur",
+		"for",
+		"the",
+		"detect",
+		"of",
+		"parametr",
+		"and",
+		"catastroph",
+		"fault"
+	],
+	"tag": [
+		"design",
+		"detection",
+		"fault",
+		"metric",
+		"parametricity"
+	],
 	"title": "Analog Test Design with IDD Measurements for the Detection of Parametric and Catastrophic Faults",
 	"type": "inproceedings",
 	"venue": "DATE",

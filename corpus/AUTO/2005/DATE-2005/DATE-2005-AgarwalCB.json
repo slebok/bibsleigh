@@ -1,6 +1,11 @@
 {
-	"author": ["Aseem Agarwal", "Kaviraj Chopra", "David Blaauw"],
-	"booktitle": "DATE",
+	"author": [
+		"Aseem Agarwal",
+		"Kaviraj Chopra",
+		"David Blaauw"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/AgarwalCB05",
 	"doi": "10.1109/DATE.2005.281",
@@ -8,8 +13,20 @@
 	"pages": "400-405",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["statist", "time", "base", "optim", "use", "gate", "size"],
-	"tag": ["optimisation", "statistics", "using"],
+	"stemmed": [
+		"statist",
+		"time",
+		"base",
+		"optim",
+		"use",
+		"gate",
+		"size"
+	],
+	"tag": [
+		"optimisation",
+		"statistics",
+		"using"
+	],
 	"title": "Statistical Timing Based Optimization using Gate Sizing",
 	"type": "inproceedings",
 	"venue": "DATE",

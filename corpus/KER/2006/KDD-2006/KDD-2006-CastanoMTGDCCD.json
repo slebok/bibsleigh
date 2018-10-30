@@ -1,14 +1,39 @@
 {
-	"author": ["Rebecca Castaño", "Dominic Mazzoni", "Nghia Tang", "Ronald Greeley", "Thomas Doggett", "Benjamin Cichy", "Steve A. Chien", "Ashley Davies"],
-	"booktitle": "KDD",
+	"author": [
+		"Rebecca Castaño",
+		"Dominic Mazzoni",
+		"Nghia Tang",
+		"Ronald Greeley",
+		"Thomas Doggett",
+		"Benjamin Cichy",
+		"Steve A. Chien",
+		"Ashley Davies"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/CastanoMTGDCCD06",
 	"doi": "10.1145/1150402.1150519",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150519",
 	"pages": "845-851",
 	"publisher": "ACM",
-	"stemmed": ["onboard", "classifi", "for", "scienc", "event", "detect", "on", "a", "remot", "sens", "spacecraft"],
-	"tag": ["classification", "detection"],
+	"stemmed": [
+		"onboard",
+		"classifi",
+		"for",
+		"scienc",
+		"event",
+		"detect",
+		"on",
+		"a",
+		"remot",
+		"sens",
+		"spacecraft"
+	],
+	"tag": [
+		"classification",
+		"detection"
+	],
 	"title": "Onboard classifiers for science event detection on a remote sensing spacecraft",
 	"type": "inproceedings",
 	"venue": "KDD",

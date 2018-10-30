@@ -1,14 +1,30 @@
 {
-	"author": ["Leejay Wu", "Christos Faloutsos"],
-	"booktitle": "KDD",
+	"author": [
+		"Leejay Wu",
+		"Christos Faloutsos"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/WuF02",
 	"doi": "10.1145/775047.775146",
 	"ee": "http://doi.acm.org/10.1145/775047.775146",
 	"pages": "664-669",
 	"publisher": "ACM",
-	"stemmed": ["make", "everi", "bit", "count", "fast", "nonlinear", "axi", "scale"],
-	"tag": ["performance", "scalability"],
+	"stemmed": [
+		"make",
+		"everi",
+		"bit",
+		"count",
+		"fast",
+		"nonlinear",
+		"axi",
+		"scale"
+	],
+	"tag": [
+		"performance",
+		"scalability"
+	],
 	"title": "Making every bit count: fast nonlinear axis scaling",
 	"type": "inproceedings",
 	"venue": "KDD",

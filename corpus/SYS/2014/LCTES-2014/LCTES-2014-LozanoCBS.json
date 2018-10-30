@@ -1,14 +1,31 @@
 {
-	"author": ["Roberto Castañeda Lozano", "Mats Carlsson", "Gabriel Hjort Blindell", "Christian Schulte"],
-	"booktitle": "LCTES",
+	"author": [
+		"Roberto Castañeda Lozano",
+		"Mats Carlsson",
+		"Gabriel Hjort Blindell",
+		"Christian Schulte"
+	],
+	"booktitle": "Proceedings of the 15th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2014",
 	"dblpkey": "conf/lctrts/LozanoCBS14",
 	"doi": "10.1145/2597809.2597815",
 	"ee": "http://doi.acm.org/10.1145/2597809.2597815",
 	"pages": "23-32",
 	"publisher": "ACM",
-	"stemmed": ["combinatori", "spill", "code", "optim", "and", "ultim", "coalesc"],
-	"tag": ["combinator", "optimisation"],
+	"stemmed": [
+		"combinatori",
+		"spill",
+		"code",
+		"optim",
+		"and",
+		"ultim",
+		"coalesc"
+	],
+	"tag": [
+		"combinator",
+		"optimisation"
+	],
 	"title": "Combinatorial spill code optimization and ultimate coalescing",
 	"type": "inproceedings",
 	"venue": "LCTES",

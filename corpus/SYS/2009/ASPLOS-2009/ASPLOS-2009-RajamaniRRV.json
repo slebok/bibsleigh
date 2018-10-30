@@ -1,14 +1,31 @@
 {
-	"author": ["Sriram K. Rajamani", "G. Ramalingam", "Venkatesh Prasad Ranganath", "Kapil Vaswani"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Sriram K. Rajamani",
+		"G. Ramalingam",
+		"Venkatesh Prasad Ranganath",
+		"Kapil Vaswani"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2009",
 	"dblpkey": "conf/asplos/RajamaniRRV09",
 	"doi": "10.1145/1508244.1508266",
 	"ee": "http://doi.acm.org/10.1145/1508244.1508266",
 	"pages": "181-192",
 	"publisher": "ACM",
-	"stemmed": ["isol", "dynam", "ensur", "isol", "in", "comcurr", "program"],
-	"tag": ["named", "source code"],
+	"stemmed": [
+		"isol",
+		"dynam",
+		"ensur",
+		"isol",
+		"in",
+		"comcurr",
+		"program"
+	],
+	"tag": [
+		"named",
+		"source code"
+	],
 	"title": "ISOLATOR: dynamically ensuring isolation in comcurrent programs",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

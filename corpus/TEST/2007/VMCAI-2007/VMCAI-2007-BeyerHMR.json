@@ -1,6 +1,12 @@
 {
-	"author": ["Dirk Beyer", "Thomas A. Henzinger", "Rupak Majumdar", "Andrey Rybalchenko"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Dirk Beyer",
+		"Thomas A. Henzinger",
+		"Rupak Majumdar",
+		"Andrey Rybalchenko"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2007",
 	"dblpkey": "conf/vmcai/BeyerHMR07",
 	"doi": "10.1007/978-3-540-69738-1_27",
@@ -10,11 +16,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["invari", "synthesi", "for", "combin", "theori"],
-	"tag": ["invariant", "synthesis"],
+	"stemmed": [
+		"invari",
+		"synthesi",
+		"for",
+		"combin",
+		"theori"
+	],
+	"tag": [
+		"invariant",
+		"synthesis"
+	],
 	"title": "Invariant Synthesis for Combined Theories",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 4349,
+	"volume": "4349",
 	"year": 2007
 }

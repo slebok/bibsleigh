@@ -1,14 +1,28 @@
 {
-	"author": ["Ruihai Dong", "Michael P. O'Mahony", "Markus Schaal", "Kevin McCarthy", "Barry Smyth"],
-	"booktitle": "RecSys",
+	"author": [
+		"Ruihai Dong",
+		"Michael P. O'Mahony",
+		"Markus Schaal",
+		"Kevin McCarthy",
+		"Barry Smyth"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2013",
 	"dblpkey": "conf/recsys/DongOSMS13",
 	"doi": "10.1145/2507157.2507199",
 	"ee": "http://doi.acm.org/10.1145/2507157.2507199",
 	"pages": "411-414",
 	"publisher": "ACM",
-	"stemmed": ["sentiment", "product", "recommend"],
-	"tag": ["recommendation", "sentiment"],
+	"stemmed": [
+		"sentiment",
+		"product",
+		"recommend"
+	],
+	"tag": [
+		"recommendation",
+		"sentiment"
+	],
 	"title": "Sentimental product recommendation",
 	"type": "inproceedings",
 	"venue": "RecSys",

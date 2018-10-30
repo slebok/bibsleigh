@@ -1,13 +1,37 @@
 {
-	"author": ["S. C. Prasad", "P. Anirudhan", "Patrick W. Bosshart"],
-	"booktitle": "DAC",
+	"author": [
+		"S. C. Prasad",
+		"P. Anirudhan",
+		"Patrick W. Bosshart"
+	],
+	"booktitle": "Proceedings of the 31st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/PrasadAB94",
 	"doi": "10.1145/196244.196461",
 	"ee": "http://doi.acm.org/10.1145/196244.196461",
 	"pages": "441-446",
 	"publisher": "ACM Press",
-	"stemmed": ["a", "system", "for", "increment", "synthesi", "to", "gate", "level", "and", "reoptim", "follow", "rtl", "design", "chang"],
-	"tag": ["design", "incremental", "synthesis"],
+	"stemmed": [
+		"a",
+		"system",
+		"for",
+		"increment",
+		"synthesi",
+		"to",
+		"gate",
+		"level",
+		"and",
+		"reoptim",
+		"follow",
+		"rtl",
+		"design",
+		"chang"
+	],
+	"tag": [
+		"design",
+		"incremental",
+		"synthesis"
+	],
 	"title": "A System for Incremental Synthesis to Gate-Level and Reoptimization Following RTL Design Changes",
 	"type": "inproceedings",
 	"venue": "DAC",

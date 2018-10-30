@@ -1,14 +1,32 @@
 {
-	"author": ["Christopher R. Lumb", "Richard A. Golding"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Christopher R. Lumb",
+		"Richard A. Golding"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2004",
 	"dblpkey": "conf/asplos/LumbG04",
 	"doi": "10.1145/1024393.1024399",
 	"ee": "http://doi.acm.org/10.1145/1024393.1024399",
 	"pages": "37-47",
 	"publisher": "ACM",
-	"stemmed": ["d", "sptf", "decentr", "request", "distribut", "in", "brick", "base", "storag", "system"],
-	"tag": ["distributed", "named"],
+	"stemmed": [
+		"d",
+		"sptf",
+		"decentr",
+		"request",
+		"distribut",
+		"in",
+		"brick",
+		"base",
+		"storag",
+		"system"
+	],
+	"tag": [
+		"distributed",
+		"named"
+	],
 	"title": "D-SPTF: decentralized request distribution in brick-based storage systems",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

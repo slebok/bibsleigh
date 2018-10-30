@@ -1,6 +1,7 @@
 {
 	"author": "W. Bruce Croft",
 	"booktitle": "Proceedings of the Sixth Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1983/P018.pdf",
 	"crossref": "conf/sigir/83",
 	"dblpkey": "conf/sigir/Croft83",
@@ -8,8 +9,19 @@
 	"ee": "http://doi.acm.org/10.1145/511793.511797",
 	"pages": "18-23",
 	"publisher": "ACM",
-	"stemmed": ["applic", "for", "inform", "retriev", "techniqu", "in", "the", "offic"],
-	"tag": ["information retrieval"],
+	"stemmed": [
+		"applic",
+		"for",
+		"inform",
+		"retriev",
+		"techniqu",
+		"in",
+		"the",
+		"offic"
+	],
+	"tag": [
+		"information retrieval"
+	],
 	"title": "Applications for Information Retrieval Techniques in the Office",
 	"type": "inproceedings",
 	"venue": "SIGIR",

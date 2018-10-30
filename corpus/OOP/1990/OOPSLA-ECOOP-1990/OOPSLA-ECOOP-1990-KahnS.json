@@ -1,6 +1,9 @@
 {
-	"author": ["Kenneth M. Kahn", "Vijay A. Saraswat"],
-	"booktitle": "Proceedings of the Fifth Conference on Object-Oriented Programming: Systems, Languages, and Applications / European Conference on Object-Oriented Programming",
+	"author": [
+		"Kenneth M. Kahn",
+		"Vijay A. Saraswat"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Object-Oriented Programming, Systems, Languages and Applications / Fourth European Conference on Object-Oriented Programming",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1990",
 	"dblpkey": "conf/oopsla/KahnS90",
@@ -10,8 +13,22 @@
 	"isbn": "0-89791-411-2",
 	"pages": "57-66",
 	"publisher": "ACM",
-	"stemmed": ["actor", "as", "a", "special", "case", "of", "concurr", "constraint", "program"],
-	"tag": ["concurrent", "constraints", "programming"],
+	"stemmed": [
+		"actor",
+		"as",
+		"a",
+		"special",
+		"case",
+		"of",
+		"concurr",
+		"constraint",
+		"program"
+	],
+	"tag": [
+		"concurrent",
+		"constraints",
+		"programming"
+	],
 	"title": "Actors as a Special Case of Concurrent Constraint Programming",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

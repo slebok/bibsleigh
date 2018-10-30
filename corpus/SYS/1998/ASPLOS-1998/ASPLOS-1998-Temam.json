@@ -1,14 +1,24 @@
 {
 	"author": "Olivier Temam",
-	"booktitle": "ASPLOS",
+	"booktitle": "Proceedings of the Eighth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1998",
 	"dblpkey": "conf/asplos/Temam98",
 	"doi": "10.1145/291069.291050",
 	"ee": "http://doi.acm.org/10.1145/291069.291050",
 	"pages": "218-227",
 	"publisher": "ACM Press",
-	"stemmed": ["investig", "optim", "local", "memori", "perform"],
-	"tag": ["memory management", "performance"],
+	"stemmed": [
+		"investig",
+		"optim",
+		"local",
+		"memori",
+		"perform"
+	],
+	"tag": [
+		"memory management",
+		"performance"
+	],
 	"title": "Investigating Optimal Local Memory Performance",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,14 +1,38 @@
 {
-	"author": ["Miroslav N. Velev", "Randal E. Bryant"],
-	"booktitle": "DAC",
+	"author": [
+		"Miroslav N. Velev",
+		"Randal E. Bryant"
+	],
+	"booktitle": "Proceedings of the 38th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2001",
 	"dblpkey": "conf/dac/VelevB01",
 	"doi": "10.1145/378239.378469",
 	"ee": "http://doi.acm.org/10.1145/378239.378469",
 	"pages": "226-231",
 	"publisher": "ACM",
-	"stemmed": ["effect", "use", "of", "boolean", "satisfi", "procedur", "in", "the", "formal", "verif", "of", "superscalar", "and", "vliw", "microprocessor"],
-	"tag": ["effectiveness", "satisfiability", "verification"],
+	"stemmed": [
+		"effect",
+		"use",
+		"of",
+		"boolean",
+		"satisfi",
+		"procedur",
+		"in",
+		"the",
+		"formal",
+		"verif",
+		"of",
+		"superscalar",
+		"and",
+		"vliw",
+		"microprocessor"
+	],
+	"tag": [
+		"effectiveness",
+		"satisfiability",
+		"verification"
+	],
 	"title": "Effective Use of Boolean Satisfiability Procedures in the Formal Verification of Superscalar and VLIW Microprocessors",
 	"type": "inproceedings",
 	"venue": "DAC",

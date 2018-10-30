@@ -1,13 +1,36 @@
 {
-	"author": ["Takao Saito", "Hiroyuki Sugimoto", "Masami Yamazaki", "Nobuaki Kawato"],
-	"booktitle": "DAC",
+	"author": [
+		"Takao Saito",
+		"Hiroyuki Sugimoto",
+		"Masami Yamazaki",
+		"Nobuaki Kawato"
+	],
+	"booktitle": "Proceedings of the 23rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/SaitoSYK86",
 	"doi": "10.1145/318013.318109",
 	"ee": "http://doi.acm.org/10.1145/318013.318109",
 	"pages": "594-600",
 	"publisher": "IEEE Computer Society Press",
-	"stemmed": ["a", "rule", "base", "logic", "circuit", "synthesi", "system", "for", "cmos", "gate", "array"],
-	"tag": ["array", "logic", "rule-based", "synthesis"],
+	"stemmed": [
+		"a",
+		"rule",
+		"base",
+		"logic",
+		"circuit",
+		"synthesi",
+		"system",
+		"for",
+		"cmos",
+		"gate",
+		"array"
+	],
+	"tag": [
+		"array",
+		"logic",
+		"rule-based",
+		"synthesis"
+	],
 	"title": "A rule-based logic circuit synthesis system for CMOS gate arrays",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,6 +1,9 @@
 {
-	"author": ["Cody Hansen", "Feifei Li"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Cody Hansen",
+		"Feifei Li"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/HansenL12",
@@ -8,8 +11,24 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213914",
 	"pages": "617-620",
 	"publisher": "ACM",
-	"stemmed": ["columbu", "scout", "toward", "build", "local", "search", "engin", "over", "larg", "databas"],
-	"tag": ["database", "named", "scalability", "towards"],
+	"stemmed": [
+		"columbu",
+		"scout",
+		"toward",
+		"build",
+		"local",
+		"search",
+		"engin",
+		"over",
+		"larg",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"named",
+		"scalability",
+		"towards"
+	],
 	"title": "ColumbuScout: towards building local search engines over large databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

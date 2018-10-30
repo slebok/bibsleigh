@@ -1,14 +1,30 @@
 {
-	"author": ["Juan Navarro", "Sitaram Iyer", "Peter Druschel", "Alan L. Cox"],
-	"booktitle": "OSDI",
+	"author": [
+		"Juan Navarro",
+		"Sitaram Iyer",
+		"Peter Druschel",
+		"Alan L. Cox"
+	],
+	"booktitle": "Proceedings of the Fifth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2002",
 	"dblpkey": "conf/osdi/NavarroIDC02",
 	"doi": "10.1145/1060289.1060299",
 	"ee": "http://www.usenix.org/events/osdi02/tech/navarro.html",
 	"pages": "89-104",
 	"publisher": "USENIX Association",
-	"stemmed": ["practic", "transpar", "oper", "system", "support", "for", "superpag"],
-	"tag": ["operating system"],
+	"stemmed": [
+		"practic",
+		"transpar",
+		"oper",
+		"system",
+		"support",
+		"for",
+		"superpag"
+	],
+	"tag": [
+		"operating system"
+	],
 	"title": "Practical, Transparent Operating System Support for Superpages",
 	"type": "inproceedings",
 	"venue": "OSDI",

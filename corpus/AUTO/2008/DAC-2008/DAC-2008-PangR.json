@@ -1,14 +1,35 @@
 {
-	"author": ["Yu Pang", "Katarzyna Radecka"],
-	"booktitle": "DAC",
+	"author": [
+		"Yu Pang",
+		"Katarzyna Radecka"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/PangR08",
 	"doi": "10.1145/1391469.1391574",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391574",
 	"pages": "397-402",
 	"publisher": "ACM",
-	"stemmed": ["optim", "imprecis", "fix", "point", "arithmet", "circuit", "specifi", "by", "taylor", "seri", "through", "arithmet", "transform"],
-	"tag": ["fixpoint", "optimisation"],
+	"stemmed": [
+		"optim",
+		"imprecis",
+		"fix",
+		"point",
+		"arithmet",
+		"circuit",
+		"specifi",
+		"by",
+		"taylor",
+		"seri",
+		"through",
+		"arithmet",
+		"transform"
+	],
+	"tag": [
+		"fixpoint",
+		"optimisation"
+	],
 	"title": "Optimizing imprecise fixed-point arithmetic circuits specified by Taylor Series through arithmetic transform",
 	"type": "inproceedings",
 	"venue": "DAC",

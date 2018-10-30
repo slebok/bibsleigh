@@ -1,14 +1,32 @@
 {
-	"acmid": 1164220,
-	"author": ["Adam J. Storm", "Christian Garcia-Arellano", "Sam Lightstone", "Yixin Diao", "Maheswaran Surendra"],
-	"booktitle": "VLDB",
+	"acmid": "1164220",
+	"author": [
+		"Adam J. Storm",
+		"Christian Garcia-Arellano",
+		"Sam Lightstone",
+		"Yixin Diao",
+		"Maheswaran Surendra"
+	],
+	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
 	"dblpkey": "conf/vldb/StormGLDS06",
 	"ee": "http://www.vldb.org/conf/2006/p1081-storm.pdf",
 	"pages": "1081-1092",
 	"publisher": "ACM",
-	"stemmed": ["adapt", "self", "tune", "memori", "in", "db"],
-	"tag": ["adaptation", "memory management", "self"],
+	"stemmed": [
+		"adapt",
+		"self",
+		"tune",
+		"memori",
+		"in",
+		"db"
+	],
+	"tag": [
+		"adaptation",
+		"memory management",
+		"self"
+	],
 	"title": "Adaptive Self-tuning Memory in DB2",
 	"type": "inproceedings",
 	"venue": "VLDB",

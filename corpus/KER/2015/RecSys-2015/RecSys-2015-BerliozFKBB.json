@@ -1,14 +1,32 @@
 {
-	"author": ["Arnaud Berlioz", "Arik Friedman", "Mohamed Ali Kâafar", "Roksana Boreli", "Shlomo Berkovsky"],
-	"booktitle": "RecSys",
+	"author": [
+		"Arnaud Berlioz",
+		"Arik Friedman",
+		"Mohamed Ali Kâafar",
+		"Roksana Boreli",
+		"Shlomo Berkovsky"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2015",
 	"dblpkey": "conf/recsys/BerliozFKBB15",
 	"doi": "10.1145/2792838.2800173",
 	"ee": "http://doi.acm.org/10.1145/2792838.2800173",
 	"pages": "107-114",
 	"publisher": "ACM",
-	"stemmed": ["appli", "differenti", "privaci", "to", "matrix", "factor"],
-	"tag": ["difference", "matrix", "privacy"],
+	"stemmed": [
+		"appli",
+		"differenti",
+		"privaci",
+		"to",
+		"matrix",
+		"factor"
+	],
+	"tag": [
+		"difference",
+		"matrix",
+		"privacy"
+	],
 	"title": "Applying Differential Privacy to Matrix Factorization",
 	"type": "inproceedings",
 	"venue": "RecSys",

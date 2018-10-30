@@ -1,6 +1,11 @@
 {
-	"author": ["W. Bruce Croft", "T. J. Lucia", "Paul R. Cohen"],
+	"author": [
+		"W. Bruce Croft",
+		"T. J. Lucia",
+		"Paul R. Cohen"
+	],
 	"booktitle": "Proceedings of the 11th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P481.pdf",
 	"crossref": "conf/sigir/88",
 	"dblpkey": "conf/sigir/CroftLC88",
@@ -8,8 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/62437.62491",
 	"pages": "481-494",
 	"publisher": "ACM",
-	"stemmed": ["retriev", "document", "by", "plausibl", "infer", "a", "preliminari", "studi"],
-	"tag": ["case study", "documentation"],
+	"stemmed": [
+		"retriev",
+		"document",
+		"by",
+		"plausibl",
+		"infer",
+		"a",
+		"preliminari",
+		"studi"
+	],
+	"tag": [
+		"case study",
+		"documentation"
+	],
 	"title": "Retrieving Documents by Plausible Inference: A Preliminary Study",
 	"type": "inproceedings",
 	"venue": "SIGIR",

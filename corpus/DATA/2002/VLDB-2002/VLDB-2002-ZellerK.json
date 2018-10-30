@@ -1,13 +1,37 @@
 {
-	"author": ["Bernhard Zeller", "Alfons Kemper"],
-	"booktitle": "VLDB",
+	"author": [
+		"Bernhard Zeller",
+		"Alfons Kemper"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/ZellerK02",
 	"ee": "http://www.vldb.org/conf/2002/S26P03.pdf",
 	"pages": "894-905",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["experi", "report", "exploit", "advanc", "databas", "optim", "featur", "for", "larg", "scale", "sap", "r", "instal"],
-	"tag": ["case study", "database", "experience", "optimisation", "scalability"],
+	"stemmed": [
+		"experi",
+		"report",
+		"exploit",
+		"advanc",
+		"databas",
+		"optim",
+		"featur",
+		"for",
+		"larg",
+		"scale",
+		"sap",
+		"r",
+		"instal"
+	],
+	"tag": [
+		"case study",
+		"database",
+		"experience",
+		"optimisation",
+		"scalability"
+	],
 	"title": "Experience Report: Exploiting Advanced Database Optimization Features for Large-Scale SAP R/3 Installations",
 	"type": "inproceedings",
 	"venue": "VLDB",

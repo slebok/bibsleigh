@@ -1,6 +1,13 @@
 {
-	"author": ["Jan Vandenbussche", "Stéphane Donnay", "Francky Leyn", "Georges G. E. Gielen", "Willy M. C. Sansen"],
-	"booktitle": "DATE",
+	"author": [
+		"Jan Vandenbussche",
+		"Stéphane Donnay",
+		"Francky Leyn",
+		"Georges G. E. Gielen",
+		"Willy M. C. Sansen"
+	],
+	"booktitle": "Proceedings of the Third Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1998",
 	"dblpkey": "conf/date/VandenbusscheDLGS98",
 	"doi": "10.1109/DATE.1998.655937",
@@ -8,8 +15,29 @@
 	"pages": "716-720",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["hierarch", "top", "down", "design", "of", "analog", "sensor", "interfac", "from", "system", "level", "specif", "down", "to", "silicon"],
-	"tag": ["design", "interface", "specification", "top-down"],
+	"stemmed": [
+		"hierarch",
+		"top",
+		"down",
+		"design",
+		"of",
+		"analog",
+		"sensor",
+		"interfac",
+		"from",
+		"system",
+		"level",
+		"specif",
+		"down",
+		"to",
+		"silicon"
+	],
+	"tag": [
+		"design",
+		"interface",
+		"specification",
+		"top-down"
+	],
 	"title": "Hierarchical Top-Down Design of Analog Sensor Interfaces: From System-Level Specifications Down to Silicon",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,14 +1,33 @@
 {
-	"acmid": 1164187,
-	"author": ["Yannis Sismanis", "Paul Brown", "Peter J. Haas", "Berthold Reinwald"],
-	"booktitle": "VLDB",
+	"acmid": "1164187",
+	"author": [
+		"Yannis Sismanis",
+		"Paul Brown",
+		"Peter J. Haas",
+		"Berthold Reinwald"
+	],
+	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
 	"dblpkey": "conf/vldb/SismanisBHR06",
 	"ee": "http://www.vldb.org/conf/2006/p691-sismanis.pdf",
 	"pages": "691-702",
 	"publisher": "ACM",
-	"stemmed": ["gordian", "effici", "and", "scalabl", "discoveri", "of", "composit", "key"],
-	"tag": ["named", "performance", "scalability"],
+	"stemmed": [
+		"gordian",
+		"effici",
+		"and",
+		"scalabl",
+		"discoveri",
+		"of",
+		"composit",
+		"key"
+	],
+	"tag": [
+		"named",
+		"performance",
+		"scalability"
+	],
 	"title": "GORDIAN: Efficient and Scalable Discovery of Composite Keys",
 	"type": "inproceedings",
 	"venue": "VLDB",

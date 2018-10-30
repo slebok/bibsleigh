@@ -1,6 +1,11 @@
 {
-	"author": ["Marius Bozga", "Radu Iosif", "Filip Konecný"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Marius Bozga",
+		"Radu Iosif",
+		"Filip Konecný"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2014",
 	"dblpkey": "conf/vmcai/BozgaIK14",
 	"doi": "10.1007/978-3-642-54013-4_14",
@@ -10,11 +15,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["safeti", "problem", "are", "np", "complet", "for", "flat", "integ", "program", "with", "octagon", "loop"],
-	"tag": ["integer", "problem", "safety", "source code"],
+	"stemmed": [
+		"safeti",
+		"problem",
+		"are",
+		"np",
+		"complet",
+		"for",
+		"flat",
+		"integ",
+		"program",
+		"with",
+		"octagon",
+		"loop"
+	],
+	"tag": [
+		"integer",
+		"problem",
+		"safety",
+		"source code"
+	],
 	"title": "Safety Problems Are NP-complete for Flat Integer Programs with Octagonal Loops",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 8318,
+	"volume": "8318",
 	"year": 2014
 }

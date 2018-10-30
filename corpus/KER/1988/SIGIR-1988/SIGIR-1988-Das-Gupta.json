@@ -1,6 +1,7 @@
 {
 	"author": "Padmini Das-Gupta",
 	"booktitle": "Proceedings of the 11th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P567.pdf",
 	"crossref": "conf/sigir/88",
 	"dblpkey": "conf/sigir/Das-Gupta88",
@@ -8,8 +9,17 @@
 	"ee": "http://doi.acm.org/10.1145/62437.62498",
 	"pages": "567-581",
 	"publisher": "ACM",
-	"stemmed": ["rough", "set", "and", "inform", "retriev"],
-	"tag": ["information retrieval", "set"],
+	"stemmed": [
+		"rough",
+		"set",
+		"and",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"information retrieval",
+		"set"
+	],
 	"title": "Rough Sets and Information Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

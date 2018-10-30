@@ -1,6 +1,10 @@
 {
-	"author": ["Andreas Morgenstern", "Klaus Schneider"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Andreas Morgenstern",
+		"Klaus Schneider"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2008",
 	"dblpkey": "conf/vmcai/MorgensternS08",
 	"doi": "10.1007/978-3-540-78163-9_24",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["from", "ltl", "to", "symbol", "repres", "determinist", "automata"],
-	"tag": ["automaton", "ltl"],
+	"stemmed": [
+		"from",
+		"ltl",
+		"to",
+		"symbol",
+		"repres",
+		"determinist",
+		"automata"
+	],
+	"tag": [
+		"automaton",
+		"ltl"
+	],
 	"title": "From LTL to Symbolically Represented Deterministic Automata",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 4905,
+	"volume": "4905",
 	"year": 2008
 }

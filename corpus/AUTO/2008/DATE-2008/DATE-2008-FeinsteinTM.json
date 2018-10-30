@@ -1,14 +1,39 @@
 {
-	"author": ["David Y. Feinstein", "Mitchell A. Thornton", "D. Michael Miller"],
-	"booktitle": "DATE",
+	"author": [
+		"David Y. Feinstein",
+		"Mitchell A. Thornton",
+		"D. Michael Miller"
+	],
+	"booktitle": "Proceedings of the 12th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2008",
 	"dblpkey": "conf/date/FeinsteinTM08",
 	"doi": "10.1109/DATE.2008.4484932",
 	"ee": "http://dx.doi.org/10.1109/DATE.2008.4484932",
 	"pages": "1378-1381",
 	"publisher": "IEEE",
-	"stemmed": ["partial", "redund", "logic", "detect", "use", "symbol", "equival", "check", "in", "revers", "and", "irrevers", "logic", "circuit"],
-	"tag": ["detection", "equivalence", "logic", "using"],
+	"stemmed": [
+		"partial",
+		"redund",
+		"logic",
+		"detect",
+		"use",
+		"symbol",
+		"equival",
+		"check",
+		"in",
+		"revers",
+		"and",
+		"irrevers",
+		"logic",
+		"circuit"
+	],
+	"tag": [
+		"detection",
+		"equivalence",
+		"logic",
+		"using"
+	],
 	"title": "Partially Redundant Logic Detection Using Symbolic Equivalence Checking in Reversible and Irreversible Logic Circuits",
 	"type": "inproceedings",
 	"venue": "DATE",

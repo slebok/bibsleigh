@@ -1,6 +1,10 @@
 {
-	"author": ["Zhen Zhang", "Bin He", "Kevin Chen-Chuan Chang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Zhen Zhang",
+		"Bin He",
+		"Kevin Chen-Chuan Chang"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/ZhangHC04",
@@ -8,8 +12,26 @@
 	"ee": "http://doi.acm.org/10.1145/1007568.1007583",
 	"pages": "107-118",
 	"publisher": "ACM",
-	"stemmed": ["understand", "web", "queri", "interfac", "best", "effort", "pars", "with", "hidden", "syntax"],
-	"tag": ["comprehension", "interface", "parsing", "query", "syntax", "web"],
+	"stemmed": [
+		"understand",
+		"web",
+		"queri",
+		"interfac",
+		"best",
+		"effort",
+		"pars",
+		"with",
+		"hidden",
+		"syntax"
+	],
+	"tag": [
+		"comprehension",
+		"interface",
+		"parsing",
+		"query",
+		"syntax",
+		"web"
+	],
 	"title": "Understanding Web Query Interfaces: Best-Effort Parsing with Hidden Syntax",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

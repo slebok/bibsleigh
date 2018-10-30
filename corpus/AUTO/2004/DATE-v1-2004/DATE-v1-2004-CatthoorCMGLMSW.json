@@ -1,6 +1,16 @@
 {
-	"author": ["Francky Catthoor", "Andrea Cuomo", "Grant Martin", "Patrick Groeneveld", "Rudy Lauwereins", "Karen Maex", "Patrick van de Steeg", "Ron Wilson"],
-	"booktitle": "DATE",
+	"author": [
+		"Francky Catthoor",
+		"Andrea Cuomo",
+		"Grant Martin",
+		"Patrick Groeneveld",
+		"Rudy Lauwereins",
+		"Karen Maex",
+		"Patrick van de Steeg",
+		"Ron Wilson"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/CatthoorCMGLMSW04",
 	"doi": "10.1109/DATE.2004.1268869",
@@ -8,8 +18,26 @@
 	"pages": "332-339",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["how", "can", "system", "level", "design", "solv", "the", "interconnect", "technolog", "scale", "problem"],
-	"tag": ["design", "how", "problem", "question", "scalability"],
+	"stemmed": [
+		"how",
+		"can",
+		"system",
+		"level",
+		"design",
+		"solv",
+		"the",
+		"interconnect",
+		"technolog",
+		"scale",
+		"problem"
+	],
+	"tag": [
+		"design",
+		"how",
+		"problem",
+		"question",
+		"scalability"
+	],
 	"title": "How Can System-Level Design Solve the Interconnect Technology Scaling Problem?",
 	"type": "inproceedings",
 	"venue": "DATE",

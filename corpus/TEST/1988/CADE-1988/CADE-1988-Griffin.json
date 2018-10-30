@@ -1,6 +1,7 @@
 {
 	"author": "Timothy Griffin",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/Griffin88",
 	"doi": "10.1007/BFb0012875",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["ef", "an", "interact", "environ", "for", "formal", "system"],
-	"tag": ["interactive", "named"],
+	"stemmed": [
+		"ef",
+		"an",
+		"interact",
+		"environ",
+		"for",
+		"formal",
+		"system"
+	],
+	"tag": [
+		"interactive",
+		"named"
+	],
 	"title": "EFS — An Interactive Environment for Formal Systems",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

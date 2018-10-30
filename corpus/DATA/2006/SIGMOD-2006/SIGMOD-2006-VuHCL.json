@@ -1,6 +1,11 @@
 {
-	"author": ["Khanh Vu", "Kien A. Hua", "Hao Cheng", "Sheau-Dong Lang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Khanh Vu",
+		"Kien A. Hua",
+		"Hao Cheng",
+		"Sheau-Dong Lang"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/VuHCL06",
@@ -8,8 +13,27 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142532",
 	"pages": "527-538",
 	"publisher": "ACM",
-	"stemmed": ["a", "non", "linear", "dimension", "reduct", "techniqu", "for", "fast", "similar", "search", "in", "larg", "databas"],
-	"tag": ["database", "performance", "scalability", "similarity"],
+	"stemmed": [
+		"a",
+		"non",
+		"linear",
+		"dimension",
+		"reduct",
+		"techniqu",
+		"for",
+		"fast",
+		"similar",
+		"search",
+		"in",
+		"larg",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"performance",
+		"scalability",
+		"similarity"
+	],
 	"title": "A non-linear dimensionality-reduction technique for fast similarity search in large databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

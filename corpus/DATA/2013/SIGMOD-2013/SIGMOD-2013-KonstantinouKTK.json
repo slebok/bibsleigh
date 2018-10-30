@@ -1,6 +1,11 @@
 {
-	"author": ["Ioannis Konstantinou", "Verena Kantere", "Dimitrios Tsoumakos", "Nectarios Koziris"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ioannis Konstantinou",
+		"Verena Kantere",
+		"Dimitrios Tsoumakos",
+		"Nectarios Koziris"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/KonstantinouKTK13",
@@ -8,8 +13,25 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465233",
 	"pages": "1041-1044",
 	"publisher": "ACM",
-	"stemmed": ["coccus", "self", "configur", "cost", "base", "queri", "servic", "in", "the", "cloud"],
-	"tag": ["cost analysis", "in the cloud", "named", "query", "self"],
+	"stemmed": [
+		"coccus",
+		"self",
+		"configur",
+		"cost",
+		"base",
+		"queri",
+		"servic",
+		"in",
+		"the",
+		"cloud"
+	],
+	"tag": [
+		"cost analysis",
+		"in the cloud",
+		"named",
+		"query",
+		"self"
+	],
 	"title": "COCCUS: self-configured cost-based query services in the cloud",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

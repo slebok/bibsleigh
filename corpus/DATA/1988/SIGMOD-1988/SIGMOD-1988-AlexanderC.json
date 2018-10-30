@@ -1,15 +1,48 @@
 {
-	"author": ["William Alexander", "George P. Copeland"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"William Alexander",
+		"George P. Copeland"
+	],
+	"booktitle": "Proceedings of the 18th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD88/P090.PDF",
-	"cite": ["...", "...", "conf/sigmetrics/AlexanderC88", "conf/vldb/DeWittGGHKM86", "conf/sigmod/GrayP87", "...", "conf/iwdm/KhoshafianV87", "conf/sigmetrics/LivnyKB87", "conf/sigmod/SelingerACLP79", "journals/debu/Stonebraker86", "conf/hpts/Group87", "...", "..."],
+	"cite": [
+		"...",
+		"...",
+		"conf/sigmetrics/AlexanderC88",
+		"conf/vldb/DeWittGGHKM86",
+		"conf/sigmod/GrayP87",
+		"...",
+		"conf/iwdm/KhoshafianV87",
+		"conf/sigmetrics/LivnyKB87",
+		"conf/sigmod/SelingerACLP79",
+		"journals/debu/Stonebraker86",
+		"conf/hpts/Group87",
+		"...",
+		"..."
+	],
 	"crossref": "conf/sigmod/88",
 	"dblpkey": "conf/sigmod/AlexanderC88",
 	"doi": "10.1145/50202.50212",
 	"ee": "http://doi.acm.org/10.1145/50202.50212",
 	"pages": "90-98",
-	"stemmed": ["process", "and", "dataflow", "control", "in", "distribut", "data", "intens", "system"],
-	"tag": ["data flow", "data-driven", "distributed", "process"],
+	"stemmed": [
+		"process",
+		"and",
+		"dataflow",
+		"control",
+		"in",
+		"distribut",
+		"data",
+		"intens",
+		"system"
+	],
+	"tag": [
+		"data flow",
+		"data-driven",
+		"distributed",
+		"process"
+	],
 	"title": "Process And Dataflow Control In Distributed Data-Intensive Systems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

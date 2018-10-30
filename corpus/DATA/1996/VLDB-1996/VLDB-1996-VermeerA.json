@@ -1,14 +1,45 @@
 {
-	"author": ["Mark W. W. Vermeer", "Peter M. G. Apers"],
-	"booktitle": "VLDB",
-	"cite": ["conf/bncod/AlzahraniQFG95", "conf/ecoop/BalstersBZ93", "journals/csur/BatiniL86", "conf/icde/ChawatheGW96", "journals/tse/DayalH84", "journals/sigmod/DrewKMRS93", "conf/sigmod/FlokstraKS94", "conf/ngits/Garcia-MolinaQPRSUW95", "conf/coopis/GrefenW96", "conf/icde/LimSPR93", "journals/dke/ReddyPG95", "journals/csur/ShethL90", "conf/er/VermeerA96", "conf/er/VermeerA95"],
+	"author": [
+		"Mark W. W. Vermeer",
+		"Peter M. G. Apers"
+	],
+	"booktitle": "Proceedings of the 22nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/bncod/AlzahraniQFG95",
+		"conf/ecoop/BalstersBZ93",
+		"journals/csur/BatiniL86",
+		"conf/icde/ChawatheGW96",
+		"journals/tse/DayalH84",
+		"journals/sigmod/DrewKMRS93",
+		"conf/sigmod/FlokstraKS94",
+		"conf/ngits/Garcia-MolinaQPRSUW95",
+		"conf/coopis/GrefenW96",
+		"conf/icde/LimSPR93",
+		"journals/dke/ReddyPG95",
+		"journals/csur/ShethL90",
+		"conf/er/VermeerA96",
+		"conf/er/VermeerA95"
+	],
 	"crossref": "conf/vldb/96",
 	"dblpkey": "conf/vldb/VermeerA96",
 	"ee": "http://www.vldb.org/conf/1996/P425.PDF",
 	"pages": "425-435",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["the", "role", "of", "integr", "constraint", "in", "databas", "interoper"],
-	"tag": ["constraints", "database"],
+	"stemmed": [
+		"the",
+		"role",
+		"of",
+		"integr",
+		"constraint",
+		"in",
+		"databas",
+		"interoper"
+	],
+	"tag": [
+		"constraints",
+		"database"
+	],
 	"title": "The Role of Integrity Constraints in Database Interoperation",
 	"type": "inproceedings",
 	"venue": "VLDB",

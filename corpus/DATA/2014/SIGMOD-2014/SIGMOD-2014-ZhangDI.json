@@ -1,6 +1,10 @@
 {
-	"author": ["Haopeng Zhang", "Yanlei Diao", "Neil Immerman"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Haopeng Zhang",
+		"Yanlei Diao",
+		"Neil Immerman"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/ZhangDI14",
@@ -8,8 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2593671",
 	"pages": "217-228",
 	"publisher": "ACM",
-	"stemmed": ["on", "complex", "and", "optim", "of", "expens", "queri", "in", "complex", "event", "process"],
-	"tag": ["complexity", "on the", "optimisation", "query"],
+	"stemmed": [
+		"on",
+		"complex",
+		"and",
+		"optim",
+		"of",
+		"expens",
+		"queri",
+		"in",
+		"complex",
+		"event",
+		"process"
+	],
+	"tag": [
+		"complexity",
+		"on the",
+		"optimisation",
+		"query"
+	],
 	"title": "On complexity and optimization of expensive queries in complex event processing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

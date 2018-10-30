@@ -1,6 +1,11 @@
 {
-	"author": ["Hidehiko Masuhara", "Satoshi Matsuoka", "Kenichi Asai", "Akinori Yonezawa"],
-	"booktitle": "Proceedings of the 10th Annual Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"author": [
+		"Hidehiko Masuhara",
+		"Satoshi Matsuoka",
+		"Kenichi Asai",
+		"Akinori Yonezawa"
+	],
+	"booktitle": "Proceedings of the 10th Annual Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1995",
 	"dblpkey": "conf/oopsla/MasuharaMAY95",
@@ -10,8 +15,29 @@
 	"isbn": "0-89791-703-0",
 	"pages": "300-315",
 	"publisher": "ACM",
-	"stemmed": ["compil", "away", "the", "meta", "level", "in", "object", "orient", "concurr", "reflect", "languag", "use", "partial", "evalu"],
-	"tag": ["compilation", "concurrent", "object-oriented", "partial evaluation", "using"],
+	"stemmed": [
+		"compil",
+		"away",
+		"the",
+		"meta",
+		"level",
+		"in",
+		"object",
+		"orient",
+		"concurr",
+		"reflect",
+		"languag",
+		"use",
+		"partial",
+		"evalu"
+	],
+	"tag": [
+		"compilation",
+		"concurrent",
+		"object-oriented",
+		"partial evaluation",
+		"using"
+	],
 	"title": "Compiling Away the Meta-Level in Object-Oriented Concurrent Reflective Languages Using Partial Evaluation",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

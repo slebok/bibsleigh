@@ -1,6 +1,7 @@
 {
 	"author": "Hans-Josef Jeanrond",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Fifth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1980",
 	"dblpkey": "conf/cade/Jeanrond80",
 	"doi": "10.1007/3-540-10009-1_26",
@@ -10,11 +11,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["decid", "uniqu", "termin", "of", "permut", "rewrit", "system", "choos", "your", "term", "algebra", "care"],
-	"tag": ["algebra", "term rewriting", "termination"],
+	"stemmed": [
+		"decid",
+		"uniqu",
+		"termin",
+		"of",
+		"permut",
+		"rewrit",
+		"system",
+		"choos",
+		"your",
+		"term",
+		"algebra",
+		"care"
+	],
+	"tag": [
+		"algebra",
+		"term rewriting",
+		"termination"
+	],
 	"title": "Deciding Unique Termination of Permutative Rewriting Systems: Choose Your Term Algebra Carefully",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 87,
+	"volume": "87",
 	"year": 1980
 }

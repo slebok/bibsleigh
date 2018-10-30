@@ -1,14 +1,36 @@
 {
-	"acmid": 1164200,
-	"author": ["Tan Apaydin", "Guadalupe Canahuate", "Hakan Ferhatosmanoglu", "Ali Saman Tosun"],
-	"booktitle": "VLDB",
+	"acmid": "1164200",
+	"author": [
+		"Tan Apaydin",
+		"Guadalupe Canahuate",
+		"Hakan Ferhatosmanoglu",
+		"Ali Saman Tosun"
+	],
+	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
 	"dblpkey": "conf/vldb/ApaydinCFT06",
 	"ee": "http://www.vldb.org/conf/2006/p846-apaydin.pdf",
 	"pages": "846-857",
 	"publisher": "ACM",
-	"stemmed": ["approxim", "encod", "for", "direct", "access", "and", "queri", "process", "over", "compress", "bitmap"],
-	"tag": ["approximate", "encoding", "query"],
+	"stemmed": [
+		"approxim",
+		"encod",
+		"for",
+		"direct",
+		"access",
+		"and",
+		"queri",
+		"process",
+		"over",
+		"compress",
+		"bitmap"
+	],
+	"tag": [
+		"approximate",
+		"encoding",
+		"query"
+	],
 	"title": "Approximate Encoding for Direct Access and Query Processing over Compressed Bitmaps",
 	"type": "inproceedings",
 	"venue": "VLDB",

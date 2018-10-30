@@ -1,14 +1,35 @@
 {
-	"author": ["Josep Torrellas", "Anoop Gupta", "John L. Hennessy"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Josep Torrellas",
+		"Anoop Gupta",
+		"John L. Hennessy"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1992",
 	"dblpkey": "conf/asplos/TorrellasGH92",
 	"doi": "10.1145/143365.143506",
 	"ee": "http://doi.acm.org/10.1145/143365.143506",
 	"pages": "162-174",
 	"publisher": "ACM Press",
-	"stemmed": ["character", "the", "cach", "and", "synchron", "perform", "of", "a", "multiprocessor", "oper", "system"],
-	"tag": ["multi", "operating system", "performance"],
+	"stemmed": [
+		"character",
+		"the",
+		"cach",
+		"and",
+		"synchron",
+		"perform",
+		"of",
+		"a",
+		"multiprocessor",
+		"oper",
+		"system"
+	],
+	"tag": [
+		"multi",
+		"operating system",
+		"performance"
+	],
 	"title": "Characterizing the Caching and Synchronization Performance of a Multiprocessor Operating System",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

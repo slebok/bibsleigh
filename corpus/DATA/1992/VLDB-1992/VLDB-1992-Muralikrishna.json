@@ -1,14 +1,37 @@
 {
 	"author": "M. Muralikrishna",
-	"booktitle": "VLDB",
-	"cite": ["journals/cacm/AstrahanC75", "conf/vldb/Dayal87", "...", "conf/sigmod/GanskiW87", "...", "journals/tods/Kim82", "conf/vldb/Muralikrishna89", "conf/sigmod/RosenthalG90"],
+	"booktitle": "Proceedings of the 18th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/cacm/AstrahanC75",
+		"conf/vldb/Dayal87",
+		"...",
+		"conf/sigmod/GanskiW87",
+		"...",
+		"journals/tods/Kim82",
+		"conf/vldb/Muralikrishna89",
+		"conf/sigmod/RosenthalG90"
+	],
 	"crossref": "conf/vldb/92",
 	"dblpkey": "conf/vldb/Muralikrishna92",
 	"ee": "http://www.vldb.org/conf/1992/P091.PDF",
 	"pages": "91-102",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["improv", "unnest", "algorithm", "for", "join", "aggreg", "sql", "queri"],
-	"tag": ["algorithm", "query", "sql"],
+	"stemmed": [
+		"improv",
+		"unnest",
+		"algorithm",
+		"for",
+		"join",
+		"aggreg",
+		"sql",
+		"queri"
+	],
+	"tag": [
+		"algorithm",
+		"query",
+		"sql"
+	],
 	"title": "Improved Unnesting Algorithms for Join Aggregate SQL Queries",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,10 @@
 {
-	"author": ["Deepak Kapur", "Hantao Zhang"],
-	"booktitle": "CADE",
+	"author": [
+		"Deepak Kapur",
+		"Hantao Zhang"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/KapurZ88",
 	"doi": "10.1007/BFb0012889",
@@ -10,11 +14,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["rrl", "a", "rewrit", "rule", "laboratori"],
-	"tag": ["named"],
+	"stemmed": [
+		"rrl",
+		"a",
+		"rewrit",
+		"rule",
+		"laboratori"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "RRL: A Rewrite Rule Laboratory",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

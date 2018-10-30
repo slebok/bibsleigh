@@ -1,16 +1,36 @@
 {
-	"acmid": 1122413,
-	"author": ["Prasad A. Kulkarni", "David B. Whalley", "Gary S. Tyson", "Jack W. Davidson"],
-	"booktitle": "CGO",
+	"acmid": "1122413",
+	"author": [
+		"Prasad A. Kulkarni",
+		"David B. Whalley",
+		"Gary S. Tyson",
+		"Jack W. Davidson"
+	],
+	"booktitle": "Proceedings of the Fourth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2006",
 	"dblpkey": "conf/cgo/KulkarniWTD06",
 	"doi": "10.1109/CGO.2006.15",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2006.15", "http://doi.ieeecomputersociety.org/10.1109/CGO.2006.15", "http://dl.acm.org/citation.cfm?id=1122413"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2006.15",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2006.15",
+		"http://dl.acm.org/citation.cfm?id=1122413"
+	],
 	"pages": "306-318",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["exhaust", "optim", "phase", "order", "space", "explor"],
-	"tag": ["optimisation", "order"],
+	"stemmed": [
+		"exhaust",
+		"optim",
+		"phase",
+		"order",
+		"space",
+		"explor"
+	],
+	"tag": [
+		"optimisation",
+		"order"
+	],
 	"title": "Exhaustive Optimization Phase Order Space Exploration",
 	"type": "inproceedings",
 	"venue": "CGO",

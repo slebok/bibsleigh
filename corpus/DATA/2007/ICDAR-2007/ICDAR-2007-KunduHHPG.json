@@ -1,6 +1,13 @@
 {
-	"author": ["A. Kundu", "T. Hines", "B. Huyck", "J. Phillips", "L. Van Guilder"],
-	"booktitle": "ICDAR",
+	"author": [
+		"A. Kundu",
+		"T. Hines",
+		"B. Huyck",
+		"J. Phillips",
+		"L. Van Guilder"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/KunduHHPG07",
 	"doi": "10.1109/ICDAR.2007.61",
@@ -8,8 +15,19 @@
 	"pages": "644-648",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["arab", "handwrit", "recognit", "use", "variabl", "durat", "hmm"],
-	"tag": ["recognition", "using"],
+	"stemmed": [
+		"arab",
+		"handwrit",
+		"recognit",
+		"use",
+		"variabl",
+		"durat",
+		"hmm"
+	],
+	"tag": [
+		"recognition",
+		"using"
+	],
 	"title": "Arabic Handwriting Recognition Using Variable Duration HMM",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,6 +1,6 @@
 {
 	"author": "Hideaki Kimura",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/Kimura15",
@@ -8,8 +8,20 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2746480",
 	"pages": "691-706",
 	"publisher": "ACM",
-	"stemmed": ["foedus", "oltp", "engin", "for", "a", "thousand", "core", "and", "nvram"],
-	"tag": ["named"],
+	"stemmed": [
+		"foedus",
+		"oltp",
+		"engin",
+		"for",
+		"a",
+		"thousand",
+		"core",
+		"and",
+		"nvram"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "FOEDUS: OLTP Engine for a Thousand Cores and NVRAM",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

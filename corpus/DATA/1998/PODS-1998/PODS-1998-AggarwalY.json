@@ -1,16 +1,46 @@
 {
-	"author": ["Charu C. Aggarwal", "Philip S. Yu"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS98/P018.PDF", "journals/anthology/dvd1:text/1-3/PODS98/P018.PDF"],
-	"cite": ["conf/icde/AggarwalY98", "conf/sigmod/AgrawalIS93", "conf/vldb/AgrawalS94", "conf/sigmod/BrinMS97", "conf/sigmod/BrinMUT97", "journals/tkde/ChenHY96", "conf/cikm/KlemettinenMRTV94", "conf/icde/LentSW97", "journals/tkde/ParkCY97", "...", "conf/vldb/SrikantA95", "conf/sigmod/SrikantA96"],
+	"author": [
+		"Charu C. Aggarwal",
+		"Philip S. Yu"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS98/P018.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS98/P018.PDF"
+	],
+	"cite": [
+		"conf/icde/AggarwalY98",
+		"conf/sigmod/AgrawalIS93",
+		"conf/vldb/AgrawalS94",
+		"conf/sigmod/BrinMS97",
+		"conf/sigmod/BrinMUT97",
+		"journals/tkde/ChenHY96",
+		"conf/cikm/KlemettinenMRTV94",
+		"conf/icde/LentSW97",
+		"journals/tkde/ParkCY97",
+		"...",
+		"conf/vldb/SrikantA95",
+		"conf/sigmod/SrikantA96"
+	],
 	"crossref": "conf/pods/98",
 	"dblpkey": "conf/pods/AggarwalY98",
 	"doi": "10.1145/275487.275490",
 	"ee": "http://doi.acm.org/10.1145/275487.275490",
 	"pages": "18-24",
 	"publisher": "ACM Press",
-	"stemmed": ["a", "new", "framework", "for", "itemset", "generat"],
-	"tag": ["framework", "generative"],
+	"stemmed": [
+		"a",
+		"new",
+		"framework",
+		"for",
+		"itemset",
+		"generat"
+	],
+	"tag": [
+		"framework",
+		"generative"
+	],
 	"title": "A New Framework For Itemset Generation",
 	"type": "inproceedings",
 	"venue": "PODS",

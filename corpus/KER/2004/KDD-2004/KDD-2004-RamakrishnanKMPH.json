@@ -1,14 +1,34 @@
 {
-	"author": ["Naren Ramakrishnan", "Deept Kumar", "Bud Mishra", "Malcolm Potts", "Richard F. Helm"],
-	"booktitle": "KDD",
+	"author": [
+		"Naren Ramakrishnan",
+		"Deept Kumar",
+		"Bud Mishra",
+		"Malcolm Potts",
+		"Richard F. Helm"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2004",
 	"dblpkey": "conf/kdd/RamakrishnanKMPH04",
 	"doi": "10.1145/1014052.1014083",
 	"ee": "http://doi.acm.org/10.1145/1014052.1014083",
 	"pages": "266-275",
 	"publisher": "ACM",
-	"stemmed": ["turn", "car", "twheel", "an", "altern", "algorithm", "for", "mine", "redescript"],
-	"tag": ["algorithm", "mining"],
+	"stemmed": [
+		"turn",
+		"car",
+		"twheel",
+		"an",
+		"altern",
+		"algorithm",
+		"for",
+		"mine",
+		"redescript"
+	],
+	"tag": [
+		"algorithm",
+		"mining"
+	],
 	"title": "Turning CARTwheels: an alternating algorithm for mining redescriptions",
 	"type": "inproceedings",
 	"venue": "KDD",

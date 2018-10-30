@@ -1,6 +1,10 @@
 {
-	"author": ["Daniel Prusa", "Václav Hlavác"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Daniel Prusa",
+		"Václav Hlavác"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/PrusaH07",
 	"doi": "10.1109/ICDAR.2007.165",
@@ -8,8 +12,19 @@
 	"pages": "849-853",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["mathemat", "formula", "recognit", "use", "d", "grammar"],
-	"tag": ["2d", "recognition", "using"],
+	"stemmed": [
+		"mathemat",
+		"formula",
+		"recognit",
+		"use",
+		"d",
+		"grammar"
+	],
+	"tag": [
+		"2d",
+		"recognition",
+		"using"
+	],
 	"title": "Mathematical Formulae Recognition Using 2D Grammars",
 	"type": "inproceedings",
 	"venue": "ICDAR",

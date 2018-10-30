@@ -1,16 +1,45 @@
 {
-	"acmid": 2495932,
-	"author": ["Alen Bardizbanyan", "Peter Gavin", "David B. Whalley", "Magnus Själander", "Per Larsson-Edefors", "Sally A. McKee", "Per Stenström"],
-	"booktitle": "CGO",
+	"acmid": "2495932",
+	"author": [
+		"Alen Bardizbanyan",
+		"Peter Gavin",
+		"David B. Whalley",
+		"Magnus Själander",
+		"Per Larsson-Edefors",
+		"Sally A. McKee",
+		"Per Stenström"
+	],
+	"booktitle": "Proceedings of the 11th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2013",
 	"dblpkey": "conf/cgo/BardizbanyanGWSLMS13",
 	"doi": "10.1109/CGO.2013.6495003",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2013.6495003", "http://doi.ieeecomputersociety.org/10.1109/CGO.2013.6495003", "http://dl.acm.org/citation.cfm?id=2495932"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2013.6495003",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2013.6495003",
+		"http://dl.acm.org/citation.cfm?id=2495932"
+	],
 	"pages": "28:1-28:11",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["improv", "data", "access", "effici", "by", "use", "a", "tagless", "access", "buffer", "tab"],
-	"tag": ["data access", "performance", "using"],
+	"stemmed": [
+		"improv",
+		"data",
+		"access",
+		"effici",
+		"by",
+		"use",
+		"a",
+		"tagless",
+		"access",
+		"buffer",
+		"tab"
+	],
+	"tag": [
+		"data access",
+		"performance",
+		"using"
+	],
 	"title": "Improving data access efficiency by using a tagless access buffer (TAB)",
 	"type": "inproceedings",
 	"venue": "CGO",

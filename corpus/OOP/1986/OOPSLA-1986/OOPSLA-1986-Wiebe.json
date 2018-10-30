@@ -1,6 +1,6 @@
 {
 	"author": "Douglas Wiebe",
-	"booktitle": "Proceedings of the First Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"booktitle": "Proceedings of the First Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1986",
 	"dblpkey": "conf/oopsla/Wiebe86",
@@ -10,8 +10,20 @@
 	"isbn": "0-89791-204-7",
 	"pages": "453-465",
 	"publisher": "ACM",
-	"stemmed": ["a", "distribut", "repositori", "for", "immut", "persist", "object"],
-	"tag": ["distributed", "persistent", "repository"],
+	"stemmed": [
+		"a",
+		"distribut",
+		"repositori",
+		"for",
+		"immut",
+		"persist",
+		"object"
+	],
+	"tag": [
+		"distributed",
+		"persistent",
+		"repository"
+	],
 	"title": "A Distributed Repository for Immutable Persistent Objects",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

@@ -1,6 +1,12 @@
 {
-	"author": ["Di Yang", "Zhenyu Guo", "Zaixian Xie", "Elke A. Rundensteiner", "Matthew O. Ward"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Di Yang",
+		"Zhenyu Guo",
+		"Zaixian Xie",
+		"Elke A. Rundensteiner",
+		"Matthew O. Ward"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/YangGXRW10",
@@ -8,8 +14,23 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807305",
 	"pages": "1151-1154",
 	"publisher": "ACM",
-	"stemmed": ["interact", "visual", "explor", "of", "neighbor", "base", "pattern", "in", "data", "stream"],
-	"tag": ["data type", "interactive", "visual notation"],
+	"stemmed": [
+		"interact",
+		"visual",
+		"explor",
+		"of",
+		"neighbor",
+		"base",
+		"pattern",
+		"in",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"data type",
+		"interactive",
+		"visual notation"
+	],
 	"title": "Interactive visual exploration of neighbor-based patterns in data streams",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

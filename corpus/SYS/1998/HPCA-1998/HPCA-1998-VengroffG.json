@@ -1,15 +1,43 @@
 {
-	"author": ["Darren Erik Vengroff", "Guang R. Gao"],
-	"booktitle": "HPCA",
+	"author": [
+		"Darren Erik Vengroff",
+		"Guang R. Gao"
+	],
+	"booktitle": "Proceedings of the Fourth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1998",
 	"dblpkey": "conf/hpca/VengroffG98",
 	"doi": "10.1109/HPCA.1998.650574",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1998.650574", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1998.650574"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1998.650574",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1998.650574"
+	],
 	"pages": "342-351",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["partial", "sampl", "with", "revers", "state", "reconstruct", "a", "new", "techniqu", "for", "branch", "predictor", "perform", "estim"],
-	"tag": ["branch", "estimation", "performance", "predict", "re-engineering"],
+	"stemmed": [
+		"partial",
+		"sampl",
+		"with",
+		"revers",
+		"state",
+		"reconstruct",
+		"a",
+		"new",
+		"techniqu",
+		"for",
+		"branch",
+		"predictor",
+		"perform",
+		"estim"
+	],
+	"tag": [
+		"branch",
+		"estimation",
+		"performance",
+		"predict",
+		"re-engineering"
+	],
 	"title": "Partial Sampling with Reverse State Reconstruction: A New Technique for Branch Predictor Performance Estimation",
 	"type": "inproceedings",
 	"venue": "HPCA",

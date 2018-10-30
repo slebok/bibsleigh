@@ -1,14 +1,24 @@
 {
 	"author": "Thorsten Joachims",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/Joachims06",
 	"doi": "10.1145/1150402.1150429",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150429",
 	"pages": "217-226",
 	"publisher": "ACM",
-	"stemmed": ["train", "linear", "svms", "in", "linear", "time"],
-	"tag": ["linear"],
+	"stemmed": [
+		"train",
+		"linear",
+		"svms",
+		"in",
+		"linear",
+		"time"
+	],
+	"tag": [
+		"linear"
+	],
 	"title": "Training linear SVMs in linear time",
 	"type": "inproceedings",
 	"venue": "KDD",

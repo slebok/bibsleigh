@@ -1,14 +1,27 @@
 {
-	"author": ["Foto N. Afrati", "Phokion G. Kolaitis"],
-	"booktitle": "PODS",
+	"author": [
+		"Foto N. Afrati",
+		"Phokion G. Kolaitis"
+	],
+	"booktitle": "Proceedings of the 27th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2008",
 	"dblpkey": "conf/pods/AfratiK08",
 	"doi": "10.1145/1376916.1376936",
 	"ee": "http://doi.acm.org/10.1145/1376916.1376936",
 	"pages": "129-138",
 	"publisher": "ACM",
-	"stemmed": ["answer", "aggreg", "queri", "in", "data", "exchang"],
-	"tag": ["query"],
+	"stemmed": [
+		"answer",
+		"aggreg",
+		"queri",
+		"in",
+		"data",
+		"exchang"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Answering aggregate queries in data exchange",
 	"type": "inproceedings",
 	"venue": "PODS",

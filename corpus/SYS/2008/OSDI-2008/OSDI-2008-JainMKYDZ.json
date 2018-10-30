@@ -1,13 +1,37 @@
 {
-	"author": ["Navendu Jain", "Prince Mahajan", "Dmitry Kit", "Praveen Yalagandula", "Michael Dahlin", "Yin Zhang"],
-	"booktitle": "OSDI",
+	"author": [
+		"Navendu Jain",
+		"Prince Mahajan",
+		"Dmitry Kit",
+		"Praveen Yalagandula",
+		"Michael Dahlin",
+		"Yin Zhang"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/JainMKYDZ08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/jain/jain.pdf",
 	"pages": "87-102",
 	"publisher": "USENIX Association",
-	"stemmed": ["network", "imprecis", "a", "new", "consist", "metric", "for", "scalabl", "monitor"],
-	"tag": ["consistency", "metric", "monitoring", "network", "scalability"],
+	"stemmed": [
+		"network",
+		"imprecis",
+		"a",
+		"new",
+		"consist",
+		"metric",
+		"for",
+		"scalabl",
+		"monitor"
+	],
+	"tag": [
+		"consistency",
+		"metric",
+		"monitoring",
+		"network",
+		"scalability"
+	],
 	"title": "Network Imprecision: A New Consistency Metric for Scalable Monitoring",
 	"type": "inproceedings",
 	"venue": "OSDI",

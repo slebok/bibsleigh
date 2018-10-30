@@ -1,13 +1,30 @@
 {
-	"author": ["Thomas Stöhr", "Holger Märtens", "Erhard Rahm"],
-	"booktitle": "VLDB",
+	"author": [
+		"Thomas Stöhr",
+		"Holger Märtens",
+		"Erhard Rahm"
+	],
+	"booktitle": "Proceedings of the 26th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2000",
 	"dblpkey": "conf/vldb/StohrMR00",
 	"ee": "http://www.vldb.org/conf/2000/P273.pdf",
 	"pages": "273-284",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["multi", "dimension", "databas", "alloc", "for", "parallel", "data", "warehous"],
-	"tag": ["database", "parallel"],
+	"stemmed": [
+		"multi",
+		"dimension",
+		"databas",
+		"alloc",
+		"for",
+		"parallel",
+		"data",
+		"warehous"
+	],
+	"tag": [
+		"database",
+		"parallel"
+	],
 	"title": "Multi-Dimensional Database Allocation for Parallel Data Warehouses",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,7 @@
 {
 	"author": "Susan Gauch",
 	"booktitle": "Proceedings of the 13th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1990/P255.pdf",
 	"crossref": "conf/sigir/90",
 	"dblpkey": "conf/sigir/Gauch90",
@@ -8,8 +9,21 @@
 	"ee": "http://doi.acm.org/10.1145/96749.98231",
 	"pages": "255-277",
 	"publisher": "ACM",
-	"stemmed": ["evalu", "of", "an", "expert", "system", "for", "search", "in", "full", "text"],
-	"tag": ["evaluation"],
+	"stemmed": [
+		"evalu",
+		"of",
+		"an",
+		"expert",
+		"system",
+		"for",
+		"search",
+		"in",
+		"full",
+		"text"
+	],
+	"tag": [
+		"evaluation"
+	],
 	"title": "Evaluation of an Expert System for Searching in Full Text",
 	"type": "inproceedings",
 	"venue": "SIGIR",

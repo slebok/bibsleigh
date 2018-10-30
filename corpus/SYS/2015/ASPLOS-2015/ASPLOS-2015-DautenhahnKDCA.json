@@ -1,14 +1,37 @@
 {
-	"author": ["Nathan Dautenhahn", "Theodoros Kasampalis", "Will Dietz", "John Criswell", "Vikram S. Adve"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Nathan Dautenhahn",
+		"Theodoros Kasampalis",
+		"Will Dietz",
+		"John Criswell",
+		"Vikram S. Adve"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2015",
 	"dblpkey": "conf/asplos/DautenhahnKDCA15",
 	"doi": "10.1145/2694344.2694386",
 	"ee": "http://doi.acm.org/10.1145/2694344.2694386",
 	"pages": "191-206",
 	"publisher": "ACM",
-	"stemmed": ["nest", "kernel", "an", "oper", "system", "architectur", "for", "intra", "kernel", "privileg", "separ"],
-	"tag": ["architecture", "kernel", "operating system"],
+	"stemmed": [
+		"nest",
+		"kernel",
+		"an",
+		"oper",
+		"system",
+		"architectur",
+		"for",
+		"intra",
+		"kernel",
+		"privileg",
+		"separ"
+	],
+	"tag": [
+		"architecture",
+		"kernel",
+		"operating system"
+	],
 	"title": "Nested Kernel: An Operating System Architecture for Intra-Kernel Privilege Separation",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

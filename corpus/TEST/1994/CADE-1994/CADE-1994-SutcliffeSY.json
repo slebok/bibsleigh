@@ -1,6 +1,11 @@
 {
-	"author": ["Geoff Sutcliffe", "Christian B. Suttner", "Theodor Yemenis"],
-	"booktitle": "CADE",
+	"author": [
+		"Geoff Sutcliffe",
+		"Christian B. Suttner",
+		"Theodor Yemenis"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/SutcliffeSY94",
 	"doi": "10.1007/3-540-58156-1_18",
@@ -10,11 +15,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "tptp", "problem", "librari"],
-	"tag": ["library", "problem"],
+	"stemmed": [
+		"the",
+		"tptp",
+		"problem",
+		"librari"
+	],
+	"tag": [
+		"library",
+		"problem"
+	],
 	"title": "The TPTP Problem Library",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

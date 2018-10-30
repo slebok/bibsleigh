@@ -1,14 +1,33 @@
 {
-	"author": ["Ilia Polian", "Hideo Fujiwara"],
-	"booktitle": "DATE",
+	"author": [
+		"Ilia Polian",
+		"Hideo Fujiwara"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2006p",
 	"dblpkey": "conf/date/PolianF06",
 	"doi": "10.1145/1131769",
 	"ee": "http://doi.acm.org/10.1145/1131769",
 	"pages": "1039-1044",
 	"publisher": "European Design and Automation Association, Leuven, Belgium",
-	"stemmed": ["function", "constraint", "vs", "test", "compress", "in", "scan", "base", "delay", "test"],
-	"tag": ["constraints", "functional", "testing"],
+	"stemmed": [
+		"function",
+		"constraint",
+		"vs",
+		"test",
+		"compress",
+		"in",
+		"scan",
+		"base",
+		"delay",
+		"test"
+	],
+	"tag": [
+		"constraints",
+		"functional",
+		"testing"
+	],
 	"title": "Functional constraints vs. test compression in scan-based delay testing",
 	"type": "inproceedings",
 	"venue": "DATE",

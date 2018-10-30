@@ -1,14 +1,39 @@
 {
-	"author": ["John Giacomoni", "Tipp Moseley", "Manish Vachharajani"],
-	"booktitle": "PPOPP",
+	"author": [
+		"John Giacomoni",
+		"Tipp Moseley",
+		"Manish Vachharajani"
+	],
+	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/GiacomoniMV08",
 	"doi": "10.1145/1345206.1345215",
 	"ee": "http://doi.acm.org/10.1145/1345206.1345215",
 	"pages": "43-52",
 	"publisher": "ACM",
-	"stemmed": ["fast", "forward", "for", "effici", "pipelin", "parallel", "a", "cach", "optim", "concurr", "lock", "free", "queue"],
-	"tag": ["concurrent", "parallel", "performance", "pipes and filters", "queue"],
+	"stemmed": [
+		"fast",
+		"forward",
+		"for",
+		"effici",
+		"pipelin",
+		"parallel",
+		"a",
+		"cach",
+		"optim",
+		"concurr",
+		"lock",
+		"free",
+		"queue"
+	],
+	"tag": [
+		"concurrent",
+		"parallel",
+		"performance",
+		"pipes and filters",
+		"queue"
+	],
 	"title": "FastForward for efficient pipeline parallelism: a cache-optimized concurrent lock-free queue",
 	"type": "inproceedings",
 	"venue": "PPoPP",

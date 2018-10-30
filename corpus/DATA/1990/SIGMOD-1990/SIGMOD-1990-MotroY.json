@@ -1,15 +1,41 @@
 {
-	"author": ["Amihai Motro", "Qiuhui Yuan"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Amihai Motro",
+		"Qiuhui Yuan"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD90/P173.PDF",
-	"cite": ["journals/debu/ChimentiOKTWZ87", "conf/eds/CholvyD86", "conf/eds/Corella84", "journals/jlp/Imielinski87", "journals/is/MinkerN83", "journals/debu/MorrisNSUG87", "conf/vldb/Motro89", "conf/icde/PirotteR89", "journals/debu/RamamohanaraoSBPNTZD87", "journals/debu/RamnarayanL87", "journals/debu/SaccaDMPGN87", "conf/eds/ShumM88", "conf/vldb/ShumM88", "books/cs/Ullman88"],
+	"cite": [
+		"journals/debu/ChimentiOKTWZ87",
+		"conf/eds/CholvyD86",
+		"conf/eds/Corella84",
+		"journals/jlp/Imielinski87",
+		"journals/is/MinkerN83",
+		"journals/debu/MorrisNSUG87",
+		"conf/vldb/Motro89",
+		"conf/icde/PirotteR89",
+		"journals/debu/RamamohanaraoSBPNTZD87",
+		"journals/debu/RamnarayanL87",
+		"journals/debu/SaccaDMPGN87",
+		"conf/eds/ShumM88",
+		"conf/vldb/ShumM88",
+		"books/cs/Ullman88"
+	],
 	"crossref": "conf/sigmod/90",
 	"dblpkey": "conf/sigmod/MotroY90",
 	"doi": "10.1145/93597.98727",
 	"ee": "http://doi.acm.org/10.1145/93597.98727",
 	"pages": "173-183",
-	"stemmed": ["queri", "databas", "knowledg"],
-	"tag": ["database", "query"],
+	"stemmed": [
+		"queri",
+		"databas",
+		"knowledg"
+	],
+	"tag": [
+		"database",
+		"query"
+	],
 	"title": "Querying Database Knowledge",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,10 @@
 {
-	"author": ["Ursula Martin", "Tobias Nipkow"],
-	"booktitle": "CADE",
+	"author": [
+		"Ursula Martin",
+		"Tobias Nipkow"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/MartinN86",
 	"doi": "10.1007/3-540-16780-3_115",
@@ -10,11 +14,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["unif", "in", "boolean", "ring"],
-	"tag": ["unification"],
+	"stemmed": [
+		"unif",
+		"in",
+		"boolean",
+		"ring"
+	],
+	"tag": [
+		"unification"
+	],
 	"title": "Unification in Boolean Rings",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

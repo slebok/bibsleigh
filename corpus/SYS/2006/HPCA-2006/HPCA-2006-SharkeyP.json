@@ -1,15 +1,32 @@
 {
-	"author": ["Joseph J. Sharkey", "Dmitry V. Ponomarev"],
-	"booktitle": "HPCA",
+	"author": [
+		"Joseph J. Sharkey",
+		"Dmitry V. Ponomarev"
+	],
+	"booktitle": "Proceedings of the 12th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2006",
 	"dblpkey": "conf/hpca/SharkeyP06",
 	"doi": "10.1109/HPCA.2006.1598137",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2006.1598137", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2006.1598137"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2006.1598137",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2006.1598137"
+	],
 	"pages": "288-298",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["effici", "instruct", "schedul", "for", "smt", "processor"],
-	"tag": ["performance", "smt"],
+	"stemmed": [
+		"effici",
+		"instruct",
+		"schedul",
+		"for",
+		"smt",
+		"processor"
+	],
+	"tag": [
+		"performance",
+		"smt"
+	],
 	"title": "Efficient instruction schedulers for SMT processors",
 	"type": "inproceedings",
 	"venue": "HPCA",

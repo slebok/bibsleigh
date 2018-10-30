@@ -1,14 +1,34 @@
 {
-	"author": ["Sungpack Hong", "Semih Salihoglu", "Jennifer Widom", "Kunle Olukotun"],
-	"booktitle": "CGO",
+	"author": [
+		"Sungpack Hong",
+		"Semih Salihoglu",
+		"Jennifer Widom",
+		"Kunle Olukotun"
+	],
+	"booktitle": "Proceedings of the 12th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2014",
 	"dblpkey": "conf/cgo/HongSWO14",
 	"doi": "10.1145/2544137.2544162",
 	"ee": "http://doi.acm.org/10.1145/2544137.2544162",
-	"pages": 208,
+	"pages": "208",
 	"publisher": "ACM",
-	"stemmed": ["simplifi", "scalabl", "graph", "process", "with", "a", "domain", "specif", "languag"],
-	"tag": ["domain-specific language", "graph", "scalability"],
+	"stemmed": [
+		"simplifi",
+		"scalabl",
+		"graph",
+		"process",
+		"with",
+		"a",
+		"domain",
+		"specif",
+		"languag"
+	],
+	"tag": [
+		"domain-specific language",
+		"graph",
+		"scalability"
+	],
 	"title": "Simplifying Scalable Graph Processing with a Domain-Specific Language",
 	"type": "inproceedings",
 	"venue": "CGO",

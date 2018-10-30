@@ -1,14 +1,34 @@
 {
-	"author": ["Yi Yang", "Huiyang Zhou"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Yi Yang",
+		"Huiyang Zhou"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/YangZ14",
 	"doi": "10.1145/2555243.2555254",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555254",
 	"pages": "93-106",
 	"publisher": "ACM",
-	"stemmed": ["cuda", "np", "realiz", "nest", "thread", "level", "parallel", "in", "gpgpu", "applic"],
-	"tag": ["concurrent", "named", "parallel", "thread"],
+	"stemmed": [
+		"cuda",
+		"np",
+		"realiz",
+		"nest",
+		"thread",
+		"level",
+		"parallel",
+		"in",
+		"gpgpu",
+		"applic"
+	],
+	"tag": [
+		"concurrent",
+		"named",
+		"parallel",
+		"thread"
+	],
 	"title": "CUDA-NP: realizing nested thread-level parallelism in GPGPU applications",
 	"type": "inproceedings",
 	"venue": "PPoPP",

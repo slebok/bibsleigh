@@ -1,14 +1,33 @@
 {
-	"author": ["Debapriya Chatterjee", "Anatoly Koyfman", "Ronny Morad", "Avi Ziv", "Valeria Bertacco"],
-	"booktitle": "DAC",
+	"author": [
+		"Debapriya Chatterjee",
+		"Anatoly Koyfman",
+		"Ronny Morad",
+		"Avi Ziv",
+		"Valeria Bertacco"
+	],
+	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/ChatterjeeKMZB12",
 	"doi": "10.1145/2228360.2228531",
 	"ee": "http://doi.acm.org/10.1145/2228360.2228531",
 	"pages": "955-961",
 	"publisher": "ACM",
-	"stemmed": ["check", "architectur", "output", "instruct", "by", "instruct", "on", "acceler", "platform"],
-	"tag": ["architecture"],
+	"stemmed": [
+		"check",
+		"architectur",
+		"output",
+		"instruct",
+		"by",
+		"instruct",
+		"on",
+		"acceler",
+		"platform"
+	],
+	"tag": [
+		"architecture"
+	],
 	"title": "Checking architectural outputs instruction-by-instruction on acceleration platforms",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,37 @@
 {
-	"author": ["Mary McGlohon", "Stephen Bay", "Markus G. Anderle", "David M. Steier", "Christos Faloutsos"],
-	"booktitle": "KDD",
+	"author": [
+		"Mary McGlohon",
+		"Stephen Bay",
+		"Markus G. Anderle",
+		"David M. Steier",
+		"Christos Faloutsos"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/McGlohonBASF09",
 	"doi": "10.1145/1557019.1557155",
 	"ee": "http://doi.acm.org/10.1145/1557019.1557155",
 	"pages": "1265-1274",
 	"publisher": "ACM",
-	"stemmed": ["snare", "a", "link", "analyt", "system", "for", "graph", "label", "and", "risk", "detect"],
-	"tag": ["detection", "graph", "named"],
+	"stemmed": [
+		"snare",
+		"a",
+		"link",
+		"analyt",
+		"system",
+		"for",
+		"graph",
+		"label",
+		"and",
+		"risk",
+		"detect"
+	],
+	"tag": [
+		"detection",
+		"graph",
+		"named"
+	],
 	"title": "SNARE: a link analytic system for graph labeling and risk detection",
 	"type": "inproceedings",
 	"venue": "KDD",

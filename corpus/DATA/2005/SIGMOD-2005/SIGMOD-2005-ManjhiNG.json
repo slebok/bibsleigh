@@ -1,6 +1,10 @@
 {
-	"author": ["Amit Manjhi", "Suman Nath", "Phillip B. Gibbons"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Amit Manjhi",
+		"Suman Nath",
+		"Phillip B. Gibbons"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/ManjhiNG05",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066191",
 	"pages": "287-298",
 	"publisher": "ACM",
-	"stemmed": ["tributari", "and", "delta", "effici", "and", "robust", "aggreg", "in", "sensor", "network", "stream"],
-	"tag": ["network", "performance", "robust"],
+	"stemmed": [
+		"tributari",
+		"and",
+		"delta",
+		"effici",
+		"and",
+		"robust",
+		"aggreg",
+		"in",
+		"sensor",
+		"network",
+		"stream"
+	],
+	"tag": [
+		"network",
+		"performance",
+		"robust"
+	],
 	"title": "Tributaries and Deltas: Efficient and Robust Aggregation in Sensor Network Streams",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

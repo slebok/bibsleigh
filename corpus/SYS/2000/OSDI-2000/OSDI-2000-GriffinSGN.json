@@ -1,13 +1,30 @@
 {
-	"acmid": 1251245,
-	"author": ["John Linwood Griffin", "Steven W. Schlosser", "Gregory R. Ganger", "David Nagle"],
-	"booktitle": "OSDI",
+	"acmid": "1251245",
+	"author": [
+		"John Linwood Griffin",
+		"Steven W. Schlosser",
+		"Gregory R. Ganger",
+		"David Nagle"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2000",
 	"dblpkey": "conf/osdi/GriffinSGN00",
 	"pages": "227-242",
 	"publisher": "USENIX Association",
-	"stemmed": ["oper", "system", "manag", "of", "mem", "base", "storag", "devic"],
-	"tag": ["operating system"],
+	"stemmed": [
+		"oper",
+		"system",
+		"manag",
+		"of",
+		"mem",
+		"base",
+		"storag",
+		"devic"
+	],
+	"tag": [
+		"operating system"
+	],
 	"title": "Operating System Management of MEMS-based Storage Devices",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,6 +1,7 @@
 {
 	"author": "K. L. Kwok",
 	"booktitle": "Proceedings of the 10th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1987/P019.pdf",
 	"crossref": "conf/sigir/87",
 	"dblpkey": "conf/sigir/Kwok87",
@@ -8,8 +9,18 @@
 	"ee": "http://doi.acm.org/10.1145/42005.42008",
 	"pages": "19-23",
 	"publisher": "ACM",
-	"stemmed": ["some", "consider", "for", "approxim", "optim", "queri"],
-	"tag": ["approximate", "query"],
+	"stemmed": [
+		"some",
+		"consider",
+		"for",
+		"approxim",
+		"optim",
+		"queri"
+	],
+	"tag": [
+		"approximate",
+		"query"
+	],
 	"title": "Some Considerations for Approximate Optimal Queries",
 	"type": "inproceedings",
 	"venue": "SIGIR",

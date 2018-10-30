@@ -1,6 +1,9 @@
 {
-	"author": ["Trevor Clinkenbeard", "Anisoara Nica"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Trevor Clinkenbeard",
+		"Anisoara Nica"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/ClinkenbeardN15",
@@ -8,8 +11,19 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2764943",
 	"pages": "2071-2072",
 	"publisher": "ACM",
-	"stemmed": ["job", "schedul", "with", "minim", "data", "communic", "cost"],
-	"tag": ["communication", "scheduling"],
+	"stemmed": [
+		"job",
+		"schedul",
+		"with",
+		"minim",
+		"data",
+		"communic",
+		"cost"
+	],
+	"tag": [
+		"communication",
+		"scheduling"
+	],
 	"title": "Job Scheduling with Minimizing Data Communication Costs",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,33 @@
 {
-	"author": ["Xiaofeng Gao", "Allan Snavely", "Larry Carter"],
+	"author": [
+		"Xiaofeng Gao",
+		"Allan Snavely",
+		"Larry Carter"
+	],
 	"booktitle": "Proceedings of the 15th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2006",
 	"dblpkey": "conf/hpdc/GaoSC06",
 	"doi": "10.1109/HPDC.2006.1652136",
-	"ee": ["http://dx.doi.org/10.1109/HPDC.2006.1652136", "http://doi.ieeecomputersociety.org/10.1109/HPDC.2006.1652136"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPDC.2006.1652136",
+		"http://doi.ieeecomputersociety.org/10.1109/HPDC.2006.1652136"
+	],
 	"pages": "57-68",
 	"publisher": "IEEE",
-	"stemmed": ["path", "grammar", "guid", "trace", "compress", "and", "trace", "approxim"],
-	"tag": ["approximate"],
+	"stemmed": [
+		"path",
+		"grammar",
+		"guid",
+		"trace",
+		"compress",
+		"and",
+		"trace",
+		"approxim"
+	],
+	"tag": [
+		"approximate"
+	],
 	"title": "Path Grammar Guided Trace Compression and Trace Approximation",
 	"type": "inproceedings",
 	"venue": "HPDC",

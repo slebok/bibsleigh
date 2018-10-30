@@ -1,13 +1,27 @@
 {
-	"author": ["Philip Bohannon", "Wenfei Fan", "Michael Flaster", "P. P. S. Narayan"],
-	"booktitle": "VLDB",
+	"author": [
+		"Philip Bohannon",
+		"Wenfei Fan",
+		"Michael Flaster",
+		"P. P. S. Narayan"
+	],
+	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/BohannonFFN05",
 	"ee": "http://www.vldb2005.org/program/paper/tue/p85-bohannon.pdf",
 	"pages": "85-96",
 	"publisher": "ACM",
-	"stemmed": ["inform", "preserv", "xml", "schema", "embed"],
-	"tag": ["xml"],
+	"stemmed": [
+		"inform",
+		"preserv",
+		"xml",
+		"schema",
+		"embed"
+	],
+	"tag": [
+		"xml"
+	],
 	"title": "Information Preserving XML Schema Embedding",
 	"type": "inproceedings",
 	"venue": "VLDB",

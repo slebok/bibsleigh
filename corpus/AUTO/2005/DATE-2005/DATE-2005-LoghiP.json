@@ -1,6 +1,10 @@
 {
-	"author": ["Mirko Loghi", "Massimo Poncino"],
-	"booktitle": "DATE",
+	"author": [
+		"Mirko Loghi",
+		"Massimo Poncino"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/LoghiP05",
 	"doi": "10.1109/DATE.2005.148",
@@ -8,8 +12,31 @@
 	"pages": "508-513",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["explor", "energi", "perform", "tradeoff", "in", "share", "memori", "mp", "so", "cs", "snoop", "base", "cach", "coher", "vs", "softwar", "solut"],
-	"tag": ["energy", "memory management", "performance", "trade-off"],
+	"stemmed": [
+		"explor",
+		"energi",
+		"perform",
+		"tradeoff",
+		"in",
+		"share",
+		"memori",
+		"mp",
+		"so",
+		"cs",
+		"snoop",
+		"base",
+		"cach",
+		"coher",
+		"vs",
+		"softwar",
+		"solut"
+	],
+	"tag": [
+		"energy",
+		"memory management",
+		"performance",
+		"trade-off"
+	],
 	"title": "Exploring Energy/Performance Tradeoffs in Shared Memory MPSoCs: Snoop-Based Cache Coherence vs. Software Solutions",
 	"type": "inproceedings",
 	"venue": "DATE",

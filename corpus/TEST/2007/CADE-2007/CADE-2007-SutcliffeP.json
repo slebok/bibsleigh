@@ -1,6 +1,10 @@
 {
-	"author": ["Geoff Sutcliffe", "Yury Puzis"],
-	"booktitle": "CADE",
+	"author": [
+		"Geoff Sutcliffe",
+		"Yury Puzis"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2007",
 	"dblpkey": "conf/cade/SutcliffeP07",
 	"doi": "10.1007/978-3-540-73595-3_20",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["srass", "a", "semant", "relev", "axiom", "select", "system"],
-	"tag": ["axiom", "named", "semantics"],
+	"stemmed": [
+		"srass",
+		"a",
+		"semant",
+		"relev",
+		"axiom",
+		"select",
+		"system"
+	],
+	"tag": [
+		"axiom",
+		"named",
+		"semantics"
+	],
 	"title": "SRASS — A Semantic Relevance Axiom Selection System",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 4603,
+	"volume": "4603",
 	"year": 2007
 }

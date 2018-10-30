@@ -1,6 +1,7 @@
 {
 	"author": "Helmut Horacek",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 16th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1999",
 	"dblpkey": "conf/cade/Horacek99",
 	"doi": "10.1007/3-540-48660-7_10",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["present", "proof", "in", "a", "human", "orient", "way"],
-	"tag": ["proving"],
+	"stemmed": [
+		"present",
+		"proof",
+		"in",
+		"a",
+		"human",
+		"orient",
+		"way"
+	],
+	"tag": [
+		"proving"
+	],
 	"title": "Presenting Proofs in a Human-Oriented Way",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1632,
+	"volume": "1632",
 	"year": 1999
 }

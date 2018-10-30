@@ -1,6 +1,7 @@
 {
 	"author": "Pierre Lescanne",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/Lescanne90",
 	"doi": "10.1007/3-540-52885-7_130",
@@ -10,11 +11,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["orm", "an", "implement", "of", "complet", "procedur", "as", "set", "of", "transit", "rule"],
-	"tag": ["implementation", "named", "set"],
+	"stemmed": [
+		"orm",
+		"an",
+		"implement",
+		"of",
+		"complet",
+		"procedur",
+		"as",
+		"set",
+		"of",
+		"transit",
+		"rule"
+	],
+	"tag": [
+		"implementation",
+		"named",
+		"set"
+	],
 	"title": "ORME: An Implementation of Completion Procedures as Sets of Transition Rules",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

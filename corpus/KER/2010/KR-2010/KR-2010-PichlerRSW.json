@@ -1,12 +1,35 @@
 {
-	"author": ["Reinhard Pichler", "Stefan Rümmele", "Stefan Szeider", "Stefan Woltran"],
-	"booktitle": "KR",
+	"author": [
+		"Reinhard Pichler",
+		"Stefan Rümmele",
+		"Stefan Szeider",
+		"Stefan Woltran"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Principles of Knowledge Representation and Reasoning",
+	"booktitleshort": "KR",
 	"crossref": "conf/kr/2010",
 	"dblpkey": "conf/kr/PichlerRSW10",
 	"ee": "http://aaai.org/ocs/index.php/KR/KR2010/paper/view/1368",
 	"publisher": "AAAI Press",
-	"stemmed": ["tractabl", "answer", "set", "program", "with", "weight", "constraint", "bound", "treewidth", "is", "not", "enough"],
-	"tag": ["bound", "constraints", "programming"],
+	"stemmed": [
+		"tractabl",
+		"answer",
+		"set",
+		"program",
+		"with",
+		"weight",
+		"constraint",
+		"bound",
+		"treewidth",
+		"is",
+		"not",
+		"enough"
+	],
+	"tag": [
+		"bound",
+		"constraints",
+		"programming"
+	],
 	"title": "Tractable Answer-Set Programming with Weight Constraints: Bounded Treewidth Is not Enough",
 	"type": "inproceedings",
 	"venue": "KR",

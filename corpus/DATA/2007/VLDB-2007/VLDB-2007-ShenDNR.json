@@ -1,13 +1,35 @@
 {
-	"author": ["Warren Shen", "AnHai Doan", "Jeffrey F. Naughton", "Raghu Ramakrishnan"],
-	"booktitle": "VLDB",
+	"author": [
+		"Warren Shen",
+		"AnHai Doan",
+		"Jeffrey F. Naughton",
+		"Raghu Ramakrishnan"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/ShenDNR07",
 	"ee": "http://www.vldb.org/conf/2007/papers/research/p1033-shen.pdf",
 	"pages": "1033-1044",
 	"publisher": "ACM",
-	"stemmed": ["declar", "inform", "extract", "use", "datalog", "with", "embed", "extract", "predic"],
-	"tag": ["datalog", "declarative", "embedded", "information management", "using"],
+	"stemmed": [
+		"declar",
+		"inform",
+		"extract",
+		"use",
+		"datalog",
+		"with",
+		"embed",
+		"extract",
+		"predic"
+	],
+	"tag": [
+		"datalog",
+		"declarative",
+		"embedded",
+		"information management",
+		"using"
+	],
 	"title": "Declarative Information Extraction Using Datalog with Embedded Extraction Predicates",
 	"type": "inproceedings",
 	"venue": "VLDB",

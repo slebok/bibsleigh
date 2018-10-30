@@ -1,6 +1,10 @@
 {
-	"author": ["K. M. Hörnig", "Wolfgang Bibel"],
-	"booktitle": "CADE",
+	"author": [
+		"K. M. Hörnig",
+		"Wolfgang Bibel"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1982",
 	"dblpkey": "conf/cade/HornigB82",
 	"doi": "10.1007/BFb0000068",
@@ -10,11 +14,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["improv", "of", "a", "tautolog", "test", "algorithm"],
-	"tag": ["algorithm"],
+	"stemmed": [
+		"improv",
+		"of",
+		"a",
+		"tautolog",
+		"test",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm"
+	],
 	"title": "Improvements of a Tautology-Testing Algorithm",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 138,
+	"volume": "138",
 	"year": 1982
 }

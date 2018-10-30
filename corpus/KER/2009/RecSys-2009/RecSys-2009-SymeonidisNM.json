@@ -1,14 +1,30 @@
 {
-	"author": ["Panagiotis Symeonidis", "Alexandros Nanopoulos", "Yannis Manolopoulos"],
-	"booktitle": "RecSys",
+	"author": [
+		"Panagiotis Symeonidis",
+		"Alexandros Nanopoulos",
+		"Yannis Manolopoulos"
+	],
+	"booktitle": "Proceedings of the Third Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2009",
 	"dblpkey": "conf/recsys/SymeonidisNM09",
 	"doi": "10.1145/1639714.1639777",
 	"ee": "http://doi.acm.org/10.1145/1639714.1639777",
 	"pages": "317-320",
 	"publisher": "ACM",
-	"stemmed": ["movi", "explain", "a", "recommend", "system", "with", "explan"],
-	"tag": ["named", "recommendation"],
+	"stemmed": [
+		"movi",
+		"explain",
+		"a",
+		"recommend",
+		"system",
+		"with",
+		"explan"
+	],
+	"tag": [
+		"named",
+		"recommendation"
+	],
 	"title": "MoviExplain: a recommender system with explanations",
 	"type": "inproceedings",
 	"venue": "RecSys",

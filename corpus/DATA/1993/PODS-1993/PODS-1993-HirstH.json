@@ -1,16 +1,45 @@
 {
-	"author": ["Tirza Hirst", "David Harel"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS93/P244.PDF", "journals/anthology/dvd1:text/1-3/PODS93/P244.PDF"],
-	"cite": ["conf/stoc/AbiteboulV91", "...", "...", "...", "...", "journals/jcss/ChandraH80", "...", "conf/stoc/Harel91", "...", "...", "journals/ipl/Paredaens78"],
+	"author": [
+		"Tirza Hirst",
+		"David Harel"
+	],
+	"booktitle": "Proceedings of the 12th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS93/P244.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS93/P244.PDF"
+	],
+	"cite": [
+		"conf/stoc/AbiteboulV91",
+		"...",
+		"...",
+		"...",
+		"...",
+		"journals/jcss/ChandraH80",
+		"...",
+		"conf/stoc/Harel91",
+		"...",
+		"...",
+		"journals/ipl/Paredaens78"
+	],
 	"crossref": "conf/pods/93",
 	"dblpkey": "conf/pods/HirstH93",
 	"doi": "10.1145/153850.153905",
 	"ee": "http://doi.acm.org/10.1145/153850.153905",
 	"pages": "244-252",
 	"publisher": "ACM Press",
-	"stemmed": ["complet", "result", "for", "recurs", "data", "base"],
-	"tag": ["database", "recursion"],
+	"stemmed": [
+		"complet",
+		"result",
+		"for",
+		"recurs",
+		"data",
+		"base"
+	],
+	"tag": [
+		"database",
+		"recursion"
+	],
 	"title": "Completeness Results for Recursive Data Bases",
 	"type": "inproceedings",
 	"venue": "PODS",

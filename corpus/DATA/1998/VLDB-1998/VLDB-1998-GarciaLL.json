@@ -1,14 +1,39 @@
 {
-	"author": ["Yván J. García", "Mario A. López", "Scott T. Leutenegger"],
-	"booktitle": "VLDB",
-	"cite": ["conf/sigmod/BeckmannKSS90", "conf/sigmod/Guttman84", "conf/cikm/KamelF93", "conf/vldb/KamelF94", "conf/icde/LeuteneggerL98", "conf/icde/LeuteneggerEL97", "...", "conf/sigmod/RoussopoulosL85", "conf/vldb/SellisRF87"],
+	"author": [
+		"Yván J. García",
+		"Mario A. López",
+		"Scott T. Leutenegger"
+	],
+	"booktitle": "Proceedings of the 24th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/sigmod/BeckmannKSS90",
+		"conf/sigmod/Guttman84",
+		"conf/cikm/KamelF93",
+		"conf/vldb/KamelF94",
+		"conf/icde/LeuteneggerL98",
+		"conf/icde/LeuteneggerEL97",
+		"...",
+		"conf/sigmod/RoussopoulosL85",
+		"conf/vldb/SellisRF87"
+	],
 	"crossref": "conf/vldb/98",
 	"dblpkey": "conf/vldb/GarciaLL98",
 	"ee": "http://www.vldb.org/conf/1998/p334.pdf",
 	"pages": "334-344",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["on", "optim", "node", "split", "for", "r", "tree"],
-	"tag": ["on the"],
+	"stemmed": [
+		"on",
+		"optim",
+		"node",
+		"split",
+		"for",
+		"r",
+		"tree"
+	],
+	"tag": [
+		"on the"
+	],
 	"title": "On Optimal Node Splitting for R-trees",
 	"type": "inproceedings",
 	"venue": "VLDB",

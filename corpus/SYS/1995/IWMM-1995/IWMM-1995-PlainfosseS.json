@@ -1,6 +1,10 @@
 {
-	"author": ["David Plainfossé", "Marc Shapiro"],
-	"booktitle": "IWMM",
+	"author": [
+		"David Plainfossé",
+		"Marc Shapiro"
+	],
+	"booktitle": "Proceedings of the Second International Workshop on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/95",
 	"dblpkey": "conf/iwmm/PlainfosseS95",
 	"doi": "10.1007/3-540-60368-9_26",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "survey", "of", "distribut", "garbag", "collect", "techniqu"],
-	"tag": ["bibliography", "distributed", "garbage collection"],
+	"stemmed": [
+		"a",
+		"survey",
+		"of",
+		"distribut",
+		"garbag",
+		"collect",
+		"techniqu"
+	],
+	"tag": [
+		"bibliography",
+		"distributed",
+		"garbage collection"
+	],
 	"title": "A Survey of Distributed Garbage Collection Techniques",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 986,
+	"volume": "986",
 	"year": 1995
 }

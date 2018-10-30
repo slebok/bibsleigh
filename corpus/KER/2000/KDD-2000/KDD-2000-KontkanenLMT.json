@@ -1,14 +1,30 @@
 {
-	"author": ["Petri Kontkanen", "Jussi Lahtinen", "Petri Myllymäki", "Henry Tirri"],
-	"booktitle": "KDD",
+	"author": [
+		"Petri Kontkanen",
+		"Jussi Lahtinen",
+		"Petri Myllymäki",
+		"Henry Tirri"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2000",
 	"dblpkey": "conf/kdd/KontkanenLMT00",
 	"doi": "10.1145/347090.347161",
 	"ee": "http://doi.acm.org/10.1145/347090.347161",
 	"pages": "325-329",
 	"publisher": "ACM",
-	"stemmed": ["unsupervis", "bayesian", "visual", "of", "high", "dimension", "data"],
-	"tag": ["visualisation"],
+	"stemmed": [
+		"unsupervis",
+		"bayesian",
+		"visual",
+		"of",
+		"high",
+		"dimension",
+		"data"
+	],
+	"tag": [
+		"visualisation"
+	],
 	"title": "Unsupervised Bayesian visualization of high-dimensional data",
 	"type": "inproceedings",
 	"venue": "KDD",

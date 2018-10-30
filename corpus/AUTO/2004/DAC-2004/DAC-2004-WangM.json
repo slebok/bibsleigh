@@ -1,14 +1,33 @@
 {
-	"author": ["Kai Wang", "Malgorzata Marek-Sadowska"],
-	"booktitle": "DAC",
+	"author": [
+		"Kai Wang",
+		"Malgorzata Marek-Sadowska"
+	],
+	"booktitle": "Proceedings of the 41st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2004",
 	"dblpkey": "conf/dac/WangM04",
 	"doi": "10.1145/996566.996614",
 	"ee": "http://doi.acm.org/10.1145/996566.996614",
 	"pages": "159-164",
 	"publisher": "ACM",
-	"stemmed": ["buffer", "size", "for", "clock", "power", "minim", "subject", "to", "general", "skew", "constraint"],
-	"tag": ["constraints", "power management"],
+	"stemmed": [
+		"buffer",
+		"size",
+		"for",
+		"clock",
+		"power",
+		"minim",
+		"subject",
+		"to",
+		"general",
+		"skew",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"power management"
+	],
 	"title": "Buffer sizing for clock power minimization subject to general skew constraints",
 	"type": "inproceedings",
 	"venue": "DAC",

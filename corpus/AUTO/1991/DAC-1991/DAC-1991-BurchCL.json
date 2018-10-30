@@ -1,13 +1,30 @@
 {
-	"author": ["Jerry R. Burch", "Edmund M. Clarke", "David E. Long"],
-	"booktitle": "DAC",
+	"author": [
+		"Jerry R. Burch",
+		"Edmund M. Clarke",
+		"David E. Long"
+	],
+	"booktitle": "Proceedings of the 28th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/BurchCL91",
 	"doi": "10.1145/127601.127702",
 	"ee": "http://doi.acm.org/10.1145/127601.127702",
 	"pages": "403-407",
 	"publisher": "ACM",
-	"stemmed": ["repres", "circuit", "more", "effici", "in", "symbol", "model", "check"],
-	"tag": ["model checking", "representation"],
+	"stemmed": [
+		"repres",
+		"circuit",
+		"more",
+		"effici",
+		"in",
+		"symbol",
+		"model",
+		"check"
+	],
+	"tag": [
+		"model checking",
+		"representation"
+	],
 	"title": "Representing Circuits More Efficiently in Symbolic Model Checking",
 	"type": "inproceedings",
 	"venue": "DAC",

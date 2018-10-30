@@ -1,14 +1,30 @@
 {
-	"author": ["Rainer Gemulla", "Wolfgang Lehner", "Peter J. Haas"],
-	"booktitle": "PODS",
+	"author": [
+		"Rainer Gemulla",
+		"Wolfgang Lehner",
+		"Peter J. Haas"
+	],
+	"booktitle": "Proceedings of the 26th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2007",
 	"dblpkey": "conf/pods/GemullaLH07",
 	"doi": "10.1145/1265530.1265544",
 	"ee": "http://doi.acm.org/10.1145/1265530.1265544",
 	"pages": "93-102",
 	"publisher": "ACM",
-	"stemmed": ["maintain", "bernoulli", "sampl", "over", "evolv", "multiset"],
-	"tag": ["evolution", "maintenance", "multi"],
+	"stemmed": [
+		"maintain",
+		"bernoulli",
+		"sampl",
+		"over",
+		"evolv",
+		"multiset"
+	],
+	"tag": [
+		"evolution",
+		"maintenance",
+		"multi"
+	],
 	"title": "Maintaining bernoulli samples over evolving multisets",
 	"type": "inproceedings",
 	"venue": "PODS",

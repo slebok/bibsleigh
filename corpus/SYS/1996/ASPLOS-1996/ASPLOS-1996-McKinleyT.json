@@ -1,14 +1,29 @@
 {
-	"author": ["Kathryn S. McKinley", "Olivier Temam"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Kathryn S. McKinley",
+		"Olivier Temam"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1996",
 	"dblpkey": "conf/asplos/McKinleyT96",
 	"doi": "10.1145/237090.237161",
 	"ee": "http://doi.acm.org/10.1145/237090.237161",
 	"pages": "94-104",
 	"publisher": "ACM Press",
-	"stemmed": ["a", "quantit", "analysi", "of", "loop", "nest", "local"],
-	"tag": ["analysis", "locality"],
+	"stemmed": [
+		"a",
+		"quantit",
+		"analysi",
+		"of",
+		"loop",
+		"nest",
+		"local"
+	],
+	"tag": [
+		"analysis",
+		"locality"
+	],
 	"title": "A Quantitative Analysis of Loop Nest Locality",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,6 +1,7 @@
 {
 	"author": "Gerhard Knorz",
 	"booktitle": "Proceedings of the Fifth Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"dblpkey": "conf/sigir/Knorz82",
 	"doi": "10.1007/BFb0036346",
 	"ee": "http://dx.doi.org/10.1007/BFb0036346",
@@ -9,11 +10,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "decis", "theori", "approach", "to", "optim", "automat", "index"],
-	"tag": ["approach", "automation"],
+	"stemmed": [
+		"a",
+		"decis",
+		"theori",
+		"approach",
+		"to",
+		"optim",
+		"automat",
+		"index"
+	],
+	"tag": [
+		"approach",
+		"automation"
+	],
 	"title": "A Decision Theory Approach to Optimal Automatic Indexing",
 	"type": "inproceedings",
 	"venue": "SIGIR",
-	"volume": 146,
+	"volume": "146",
 	"year": 1982
 }

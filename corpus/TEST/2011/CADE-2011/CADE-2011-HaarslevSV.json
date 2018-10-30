@@ -1,6 +1,11 @@
 {
-	"author": ["Volker Haarslev", "Roberto Sebastiani", "Michele Vescovi"],
-	"booktitle": "CADE",
+	"author": [
+		"Volker Haarslev",
+		"Roberto Sebastiani",
+		"Michele Vescovi"
+	],
+	"booktitle": "Proceedings of the 23rd International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2011",
 	"dblpkey": "conf/cade/HaarslevSV11",
 	"doi": "10.1007/978-3-642-22438-6_22",
@@ -10,11 +15,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["autom", "reason", "in", "𝒜", "𝒞𝒬", "via", "smt"],
-	"tag": ["automation", "reasoning", "smt"],
+	"stemmed": [
+		"autom",
+		"reason",
+		"in",
+		"𝒜",
+		"𝒞𝒬",
+		"via",
+		"smt"
+	],
+	"tag": [
+		"automation",
+		"reasoning",
+		"smt"
+	],
 	"title": "Automated Reasoning in 𝒜ℒ𝒞𝒬 via SMT",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 6803,
+	"volume": "6803",
 	"year": 2011
 }

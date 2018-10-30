@@ -1,6 +1,11 @@
 {
-	"author": ["Panagiotis G. Ipeirotis", "Eugene Agichtein", "Pranay Jain", "Luis Gravano"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Panagiotis G. Ipeirotis",
+		"Eugene Agichtein",
+		"Pranay Jain",
+		"Luis Gravano"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/IpeirotisAJG06",
@@ -8,8 +13,25 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142504",
 	"pages": "265-276",
 	"publisher": "ACM",
-	"stemmed": ["to", "search", "or", "to", "crawl", "toward", "a", "queri", "optim", "for", "text", "centric", "task"],
-	"tag": ["query", "towards"],
+	"stemmed": [
+		"to",
+		"search",
+		"or",
+		"to",
+		"crawl",
+		"toward",
+		"a",
+		"queri",
+		"optim",
+		"for",
+		"text",
+		"centric",
+		"task"
+	],
+	"tag": [
+		"query",
+		"towards"
+	],
 	"title": "To search or to crawl?: towards a query optimizer for text-centric tasks",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

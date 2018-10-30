@@ -1,6 +1,11 @@
 {
-	"author": ["Nikolaj Bjørner", "Vijay Ganesh", "Raphaël Michel", "Margus Veanes"],
-	"booktitle": "SMT@IJCAR",
+	"author": [
+		"Nikolaj Bjørner",
+		"Vijay Ganesh",
+		"Raphaël Michel",
+		"Margus Veanes"
+	],
+	"booktitle": "Proceedings of the 10th International Workshop on Satisfiability Modulo Theories",
 	"booktitleshort": "SMT",
 	"crossref": "conf/cade/2012smt",
 	"dblpkey": "conf/cade/BjornerGMV12",
@@ -8,11 +13,21 @@
 	"pages": "77-87",
 	"publisher": "EasyChair",
 	"series": "EPiC Series",
-	"stemmed": ["smt", "lib", "sequenc", "and", "regular", "express"],
-	"tag": ["regular expression", "sequence"],
+	"stemmed": [
+		"smt",
+		"lib",
+		"sequenc",
+		"and",
+		"regular",
+		"express"
+	],
+	"tag": [
+		"regular expression",
+		"sequence"
+	],
 	"title": "SMT-LIB Sequences and Regular Expressions",
 	"type": "inproceedings",
 	"venue": "SMT",
-	"volume": 20,
+	"volume": "20",
 	"year": 2012
 }

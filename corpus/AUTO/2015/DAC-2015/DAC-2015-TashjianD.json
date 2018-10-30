@@ -1,14 +1,36 @@
 {
-	"author": ["Edward Tashjian", "Azadeh Davoodi"],
-	"booktitle": "DAC",
+	"author": [
+		"Edward Tashjian",
+		"Azadeh Davoodi"
+	],
+	"booktitle": "Proceedings of the 52nd Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2015",
 	"dblpkey": "conf/dac/TashjianD15",
 	"doi": "10.1145/2744769.2744878",
 	"ee": "http://doi.acm.org/10.1145/2744769.2744878",
 	"pages": "78:1-78:6",
 	"publisher": "ACM",
-	"stemmed": ["on", "use", "control", "signal", "for", "word", "level", "identif", "in", "a", "gate", "level", "netlist"],
-	"tag": ["identification", "on the", "using"],
+	"stemmed": [
+		"on",
+		"use",
+		"control",
+		"signal",
+		"for",
+		"word",
+		"level",
+		"identif",
+		"in",
+		"a",
+		"gate",
+		"level",
+		"netlist"
+	],
+	"tag": [
+		"identification",
+		"on the",
+		"using"
+	],
 	"title": "On using control signals for word-level identification in a gate-level netlist",
 	"type": "inproceedings",
 	"venue": "DAC",

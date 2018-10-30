@@ -1,14 +1,28 @@
 {
-	"author": ["Nikolai Ryzhenko", "Steven Burns"],
-	"booktitle": "DAC",
+	"author": [
+		"Nikolai Ryzhenko",
+		"Steven Burns"
+	],
+	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/RyzhenkoB12",
 	"doi": "10.1145/2228360.2228470",
 	"ee": "http://doi.acm.org/10.1145/2228360.2228470",
 	"pages": "603-612",
 	"publisher": "ACM",
-	"stemmed": ["standard", "cell", "rout", "via", "boolean", "satisfi"],
-	"tag": ["satisfiability", "standard"],
+	"stemmed": [
+		"standard",
+		"cell",
+		"rout",
+		"via",
+		"boolean",
+		"satisfi"
+	],
+	"tag": [
+		"satisfiability",
+		"standard"
+	],
 	"title": "Standard cell routing via boolean satisfiability",
 	"type": "inproceedings",
 	"venue": "DAC",

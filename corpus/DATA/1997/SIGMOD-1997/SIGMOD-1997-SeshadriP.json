@@ -1,16 +1,46 @@
 {
-	"author": ["Praveen Seshadri", "Mark Paskin"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Praveen Seshadri",
+		"Mark Paskin"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD97/P568.PDF",
-	"cite": ["conf/sigmod/CareyDFHMNSSTTWZ94", "...", "conf/vldb/DeWittKLPY94", "...", "journals/sigplan/LiskovZ74", "conf/sigmod/PiraheshHH92", "conf/sigmod/SelingerACLP79", "conf/sigmod/StonebrakerFGM93", "conf/vldb/SeshadriLR96", "...", "...", "journals/tkde/StonebrakerRH90", "conf/icde/Stonebraker86"],
+	"cite": [
+		"conf/sigmod/CareyDFHMNSSTTWZ94",
+		"...",
+		"conf/vldb/DeWittKLPY94",
+		"...",
+		"journals/sigplan/LiskovZ74",
+		"conf/sigmod/PiraheshHH92",
+		"conf/sigmod/SelingerACLP79",
+		"conf/sigmod/StonebrakerFGM93",
+		"conf/vldb/SeshadriLR96",
+		"...",
+		"...",
+		"journals/tkde/StonebrakerRH90",
+		"conf/icde/Stonebraker86"
+	],
 	"crossref": "conf/sigmod/97",
 	"dblpkey": "conf/sigmod/SeshadriP97",
 	"doi": "10.1145/253260.253408",
 	"ee": "http://doi.acm.org/10.1145/253260.253408",
 	"pages": "568-571",
 	"publisher": "ACM Press",
-	"stemmed": ["predat", "an", "or", "dbms", "with", "enhanc", "data", "type"],
-	"tag": ["data type", "named"],
+	"stemmed": [
+		"predat",
+		"an",
+		"or",
+		"dbms",
+		"with",
+		"enhanc",
+		"data",
+		"type"
+	],
+	"tag": [
+		"data type",
+		"named"
+	],
 	"title": "PREDATOR: An OR-DBMS with Enhanced Data Types",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

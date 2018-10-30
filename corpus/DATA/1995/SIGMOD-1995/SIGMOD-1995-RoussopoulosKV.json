@@ -1,16 +1,41 @@
 {
-	"author": ["Nick Roussopoulos", "Stephen Kelley", "Frédéic Vincent"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Nick Roussopoulos",
+		"Stephen Kelley",
+		"Frédéic Vincent"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD95/P071.PDF",
-	"cite": ["conf/sigmod/BeckmannKSS90", "conf/sigmod/BrinkhoffKS93", "...", "conf/sigmod/Guttman84", "books/cs/HorowitzS78", "conf/sigmod/Jagadish90", "conf/vldb/KamelF94", "conf/sigmod/RoussopoulosL85", "books/aw/Samet90", "...", "conf/vldb/SellisRF87", "journals/algorithmica/Sproull91"],
+	"cite": [
+		"conf/sigmod/BeckmannKSS90",
+		"conf/sigmod/BrinkhoffKS93",
+		"...",
+		"conf/sigmod/Guttman84",
+		"books/cs/HorowitzS78",
+		"conf/sigmod/Jagadish90",
+		"conf/vldb/KamelF94",
+		"conf/sigmod/RoussopoulosL85",
+		"books/aw/Samet90",
+		"...",
+		"conf/vldb/SellisRF87",
+		"journals/algorithmica/Sproull91"
+	],
 	"crossref": "conf/sigmod/95",
 	"dblpkey": "conf/sigmod/RoussopoulosKV95",
 	"doi": "10.1145/223784.223794",
 	"ee": "http://doi.acm.org/10.1145/223784.223794",
 	"pages": "71-79",
 	"publisher": "ACM Press",
-	"stemmed": ["nearest", "neighbor", "queri"],
-	"tag": ["nearest neighbour", "query"],
+	"stemmed": [
+		"nearest",
+		"neighbor",
+		"queri"
+	],
+	"tag": [
+		"nearest neighbour",
+		"query"
+	],
 	"title": "Nearest Neighbor Queries",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

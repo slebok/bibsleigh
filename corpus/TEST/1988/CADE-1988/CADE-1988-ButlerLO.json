@@ -1,6 +1,11 @@
 {
-	"author": ["Ralph Butler", "Rasiah Loganantharaj", "Robert Olson"],
-	"booktitle": "CADE",
+	"author": [
+		"Ralph Butler",
+		"Rasiah Loganantharaj",
+		"Robert Olson"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/ButlerLO88",
 	"doi": "10.1007/BFb0012840",
@@ -10,11 +15,33 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["note", "on", "prolog", "program", "transform", "prolog", "style", "and", "effici", "compil", "to", "the", "warren", "abstract", "machin"],
-	"tag": ["automaton", "compilation", "performance", "program transformation", "prolog"],
+	"stemmed": [
+		"note",
+		"on",
+		"prolog",
+		"program",
+		"transform",
+		"prolog",
+		"style",
+		"and",
+		"effici",
+		"compil",
+		"to",
+		"the",
+		"warren",
+		"abstract",
+		"machin"
+	],
+	"tag": [
+		"automaton",
+		"compilation",
+		"performance",
+		"program transformation",
+		"prolog"
+	],
 	"title": "Notes on Prolog Program Transformations, Prolog Style, and Efficient Compilation to The Warren Abstract Machine",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

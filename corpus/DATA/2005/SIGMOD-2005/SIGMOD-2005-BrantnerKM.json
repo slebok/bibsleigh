@@ -1,6 +1,10 @@
 {
-	"author": ["Carl-Christian Kanne", "Matthias Brantner", "Guido Moerkotte"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Carl-Christian Kanne",
+		"Matthias Brantner",
+		"Guido Moerkotte"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/BrantnerKM05",
@@ -8,8 +12,17 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066242",
 	"pages": "742-753",
 	"publisher": "ACM",
-	"stemmed": ["cost", "sensit", "reorder", "of", "navig", "primit"],
-	"tag": ["order"],
+	"stemmed": [
+		"cost",
+		"sensit",
+		"reorder",
+		"of",
+		"navig",
+		"primit"
+	],
+	"tag": [
+		"order"
+	],
 	"title": "Cost-Sensitive Reordering of Navigational Primitives",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

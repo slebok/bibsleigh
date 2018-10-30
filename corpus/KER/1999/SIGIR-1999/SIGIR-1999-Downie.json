@@ -1,6 +1,7 @@
 {
 	"author": "J. Stephen Downie",
 	"booktitle": "Proceedings of the 22nd International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1999/P297.pdf",
 	"crossref": "conf/sigir/99",
 	"dblpkey": "conf/sigir/Downie99",
@@ -8,8 +9,23 @@
 	"ee": "http://doi.acm.org/10.1145/312624.312727",
 	"pages": "297-298",
 	"publisher": "ACM",
-	"stemmed": ["music", "retriev", "as", "text", "retriev", "simpl", "yet", "effect", "poster", "abstract"],
-	"tag": ["effectiveness", "music", "retrieval"],
+	"stemmed": [
+		"music",
+		"retriev",
+		"as",
+		"text",
+		"retriev",
+		"simpl",
+		"yet",
+		"effect",
+		"poster",
+		"abstract"
+	],
+	"tag": [
+		"effectiveness",
+		"music",
+		"retrieval"
+	],
 	"title": "Music Retrieval as Text Retrieval: Simple Yet Effective (poster abstract)",
 	"type": "inproceedings",
 	"venue": "SIGIR",

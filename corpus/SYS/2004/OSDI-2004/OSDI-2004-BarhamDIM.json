@@ -1,13 +1,31 @@
 {
-	"author": ["Paul Barham", "Austin Donnelly", "Rebecca Isaacs", "Richard Mortier"],
-	"booktitle": "OSDI",
+	"author": [
+		"Paul Barham",
+		"Austin Donnelly",
+		"Rebecca Isaacs",
+		"Richard Mortier"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2004",
 	"dblpkey": "conf/osdi/BarhamDIM04",
 	"ee": "http://www.usenix.org/events/osdi04/tech/barham.html",
 	"pages": "259-272",
 	"publisher": "USENIX Association",
-	"stemmed": ["use", "magpi", "for", "request", "extract", "and", "workload", "model"],
-	"tag": ["modelling", "using"],
+	"stemmed": [
+		"use",
+		"magpi",
+		"for",
+		"request",
+		"extract",
+		"and",
+		"workload",
+		"model"
+	],
+	"tag": [
+		"modelling",
+		"using"
+	],
 	"title": "Using Magpie for Request Extraction and Workload Modelling",
 	"type": "inproceedings",
 	"venue": "OSDI",

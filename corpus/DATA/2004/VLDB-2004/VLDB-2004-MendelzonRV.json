@@ -1,13 +1,26 @@
 {
-	"author": ["Alberto O. Mendelzon", "Flavio Rizzolo", "Alejandro A. Vaisman"],
-	"booktitle": "VLDB",
+	"author": [
+		"Alberto O. Mendelzon",
+		"Flavio Rizzolo",
+		"Alejandro A. Vaisman"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/MendelzonRV04",
 	"ee": "http://www.vldb.org/conf/2004/RS6P1.PDF",
 	"pages": "216-227",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["index", "tempor", "xml", "document"],
-	"tag": ["documentation", "xml"],
+	"stemmed": [
+		"index",
+		"tempor",
+		"xml",
+		"document"
+	],
+	"tag": [
+		"documentation",
+		"xml"
+	],
 	"title": "Indexing Temporal XML Documents",
 	"type": "inproceedings",
 	"venue": "VLDB",

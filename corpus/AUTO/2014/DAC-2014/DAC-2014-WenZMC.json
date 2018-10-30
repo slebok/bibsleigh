@@ -1,14 +1,38 @@
 {
-	"author": ["Wujie Wen", "Yaojun Zhang", "Mengjie Mao", "Yiran Chen"],
-	"booktitle": "DAC",
+	"author": [
+		"Wujie Wen",
+		"Yaojun Zhang",
+		"Mengjie Mao",
+		"Yiran Chen"
+	],
+	"booktitle": "Proceedings of the 51st Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2014",
 	"dblpkey": "conf/dac/WenZMC14",
 	"doi": "10.1145/2593069.2593220",
 	"ee": "http://doi.acm.org/10.1145/2593069.2593220",
 	"pages": "35:1-35:6",
 	"publisher": "ACM",
-	"stemmed": ["state", "restrict", "mlc", "stt", "ram", "design", "for", "high", "reliabl", "high", "perform", "memori", "system"],
-	"tag": ["design", "memory management", "strict"],
+	"stemmed": [
+		"state",
+		"restrict",
+		"mlc",
+		"stt",
+		"ram",
+		"design",
+		"for",
+		"high",
+		"reliabl",
+		"high",
+		"perform",
+		"memori",
+		"system"
+	],
+	"tag": [
+		"design",
+		"memory management",
+		"strict"
+	],
 	"title": "State-Restrict MLC STT-RAM Designs for High-Reliable High-Performance Memory System",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,6 +1,7 @@
 {
 	"author": "Daniel R. Edelson",
-	"booktitle": "IWMM",
+	"booktitle": "Proceedings of the First International Workshop on Memory Management",
+	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
 	"dblpkey": "conf/iwmm/Edelson92",
 	"doi": "10.1007/BFb0017197",
@@ -10,11 +11,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["precompil", "c", "for", "garbag", "collect"],
-	"tag": ["c++", "garbage collection"],
+	"stemmed": [
+		"precompil",
+		"c",
+		"for",
+		"garbag",
+		"collect"
+	],
+	"tag": [
+		"c++",
+		"garbage collection"
+	],
 	"title": "Precompiling C++ for Garbage Collection",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 637,
+	"volume": "637",
 	"year": 1992
 }

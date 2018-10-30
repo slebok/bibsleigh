@@ -1,13 +1,29 @@
 {
-	"acmid": 2997370,
-	"author": ["Nicolas Laurent", "Kim Mens"],
-	"booktitle": "SLE",
+	"acmid": "2997370",
+	"author": [
+		"Nicolas Laurent",
+		"Kim Mens"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Software Language Engineering",
+	"booktitleshort": "SLE",
 	"crossref": "conf/sle/2016",
 	"dblpkey": "conf/sle/LaurentM16",
 	"pages": "15-27",
 	"publisher": "ACM",
-	"stemmed": ["tame", "context", "sensit", "languag", "with", "principl", "state", "pars"],
-	"tag": ["context-sensitive grammar", "parsing"],
+	"stemmed": [
+		"tame",
+		"context",
+		"sensit",
+		"languag",
+		"with",
+		"principl",
+		"state",
+		"pars"
+	],
+	"tag": [
+		"context-sensitive grammar",
+		"parsing"
+	],
 	"title": "Taming context-sensitive languages with principled stateful parsing",
 	"type": "inproceedings",
 	"venue": "SLE",

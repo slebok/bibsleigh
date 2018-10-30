@@ -1,6 +1,10 @@
 {
-	"author": ["Ruzica Piskac", "Viktor Kuncak"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Ruzica Piskac",
+		"Viktor Kuncak"
+	],
+	"booktitle": "Proceedings of the Fifth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2010",
 	"dblpkey": "conf/cade/PiskacK10",
 	"doi": "10.1007/978-3-642-14203-1_13",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["munch", "autom", "reason", "for", "set", "and", "multiset"],
-	"tag": ["automation", "multi", "named", "set"],
+	"stemmed": [
+		"munch",
+		"autom",
+		"reason",
+		"for",
+		"set",
+		"and",
+		"multiset"
+	],
+	"tag": [
+		"automation",
+		"multi",
+		"named",
+		"set"
+	],
 	"title": "MUNCH — Automated Reasoner for Sets and Multisets",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 6173,
+	"volume": "6173",
 	"year": 2010
 }

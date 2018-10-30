@@ -1,16 +1,35 @@
 {
-	"author": ["Gilles Farley", "Stewart A. Schuster"],
-	"booktitle": "VLDB",
+	"author": [
+		"Gilles Farley",
+		"Stewart A. Schuster"
+	],
+	"booktitle": "Proceedings of the First International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB75/P519.PDF",
 	"cite": "...",
 	"crossref": "conf/vldb/75",
 	"dblpkey": "conf/vldb/FarleyS75",
 	"doi": "10.1145/1282480.1282531",
 	"ee": "http://doi.acm.org/10.1145/1282480.1282531",
-	"pages": 519,
+	"pages": "519",
 	"publisher": "ACM",
-	"stemmed": ["queri", "execut", "and", "index", "select", "for", "relat", "data", "base"],
-	"tag": ["database", "execution", "query", "relational"],
+	"stemmed": [
+		"queri",
+		"execut",
+		"and",
+		"index",
+		"select",
+		"for",
+		"relat",
+		"data",
+		"base"
+	],
+	"tag": [
+		"database",
+		"execution",
+		"query",
+		"relational"
+	],
 	"title": "Query Execution and Index Selection for Relational Data Bases",
 	"type": "inproceedings",
 	"venue": "VLDB",

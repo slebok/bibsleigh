@@ -1,6 +1,10 @@
 {
-	"author": ["Nuno P. Lopes", "Andrey Rybalchenko"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Nuno P. Lopes",
+		"Andrey Rybalchenko"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2011",
 	"dblpkey": "conf/vmcai/LopesR11",
 	"doi": "10.1007/978-3-642-18275-4_24",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["distribut", "and", "predict", "softwar", "model", "check"],
-	"tag": ["distributed", "model checking", "predict"],
+	"stemmed": [
+		"distribut",
+		"and",
+		"predict",
+		"softwar",
+		"model",
+		"check"
+	],
+	"tag": [
+		"distributed",
+		"model checking",
+		"predict"
+	],
 	"title": "Distributed and Predictable Software Model Checking",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 6538,
+	"volume": "6538",
 	"year": 2011
 }

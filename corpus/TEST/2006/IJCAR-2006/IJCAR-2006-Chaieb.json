@@ -1,6 +1,7 @@
 {
 	"author": "Amine Chaieb",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/Chaieb06",
 	"doi": "10.1007/11814771_43",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["verifi", "mix", "real", "integ", "quantifi", "elimin"],
-	"tag": ["quantifier", "verification"],
+	"stemmed": [
+		"verifi",
+		"mix",
+		"real",
+		"integ",
+		"quantifi",
+		"elimin"
+	],
+	"tag": [
+		"quantifier",
+		"verification"
+	],
 	"title": "Verifying Mixed Real-Integer Quantifier Elimination",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

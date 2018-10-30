@@ -1,14 +1,39 @@
 {
-	"author": ["Michael K. Papamichael", "Peter Milder", "James C. Hoe"],
-	"booktitle": "DAC",
+	"author": [
+		"Michael K. Papamichael",
+		"Peter Milder",
+		"James C. Hoe"
+	],
+	"booktitle": "Proceedings of the 52nd Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2015",
 	"dblpkey": "conf/dac/PapamichaelMH15",
 	"doi": "10.1145/2744769.2744875",
 	"ee": "http://doi.acm.org/10.1145/2744769.2744875",
 	"pages": "43:1-43:6",
 	"publisher": "ACM",
-	"stemmed": ["nautilus", "fast", "autom", "ip", "design", "space", "search", "use", "guid", "genet", "algorithm"],
-	"tag": ["algorithm", "automation", "design", "named", "performance", "search-based", "using"],
+	"stemmed": [
+		"nautilus",
+		"fast",
+		"autom",
+		"ip",
+		"design",
+		"space",
+		"search",
+		"use",
+		"guid",
+		"genet",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"automation",
+		"design",
+		"named",
+		"performance",
+		"search-based",
+		"using"
+	],
 	"title": "Nautilus: fast automated IP design space search using guided genetic algorithms",
 	"type": "inproceedings",
 	"venue": "DAC",

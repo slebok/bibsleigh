@@ -1,6 +1,10 @@
 {
-	"author": ["Suresh Jagannathan", "Andrew K. Wright"],
+	"author": [
+		"Suresh Jagannathan",
+		"Andrew K. Wright"
+	],
 	"booktitle": "Proceedings of the Second International Static Analysis Symposium",
+	"booktitleshort": "SAS",
 	"crossref": "conf/sas/95",
 	"dblpkey": "conf/sas/JagannathanW95",
 	"doi": "10.1007/3-540-60360-3_41",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["effect", "flow", "analysi", "for", "avoid", "run", "time", "check"],
-	"tag": ["analysis", "effectiveness", "runtime"],
+	"stemmed": [
+		"effect",
+		"flow",
+		"analysi",
+		"for",
+		"avoid",
+		"run",
+		"time",
+		"check"
+	],
+	"tag": [
+		"analysis",
+		"effectiveness",
+		"runtime"
+	],
 	"title": "Effective Flow Analysis for Avoiding Run-Time Checks",
 	"type": "inproceedings",
 	"venue": "SAS",
-	"volume": 983,
+	"volume": "983",
 	"year": 1995
 }

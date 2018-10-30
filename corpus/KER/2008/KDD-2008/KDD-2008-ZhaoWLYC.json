@@ -1,14 +1,36 @@
 {
-	"author": ["Zheng Zhao", "Jiangxin Wang", "Huan Liu", "Jieping Ye", "Yung Chang"],
-	"booktitle": "KDD",
+	"author": [
+		"Zheng Zhao",
+		"Jiangxin Wang",
+		"Huan Liu",
+		"Jieping Ye",
+		"Yung Chang"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/ZhaoWLYC08",
 	"doi": "10.1145/1401890.1401990",
 	"ee": "http://doi.acm.org/10.1145/1401890.1401990",
 	"pages": "839-847",
 	"publisher": "ACM",
-	"stemmed": ["identifi", "biolog", "relev", "gene", "via", "multipl", "heterogen", "data", "sourc"],
-	"tag": ["data flow", "identification", "multi", "semistructured data"],
+	"stemmed": [
+		"identifi",
+		"biolog",
+		"relev",
+		"gene",
+		"via",
+		"multipl",
+		"heterogen",
+		"data",
+		"sourc"
+	],
+	"tag": [
+		"data flow",
+		"identification",
+		"multi",
+		"semistructured data"
+	],
 	"title": "Identifying biologically relevant genes via multiple heterogeneous data sources",
 	"type": "inproceedings",
 	"venue": "KDD",

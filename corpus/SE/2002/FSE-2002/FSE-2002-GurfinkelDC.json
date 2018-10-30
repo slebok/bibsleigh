@@ -1,7 +1,11 @@
 {
-	"author": ["Arie Gurfinkel", "Benet Devereux", "Marsha Chechik"],
+	"author": [
+		"Arie Gurfinkel",
+		"Benet Devereux",
+		"Marsha Chechik"
+	],
 	"booktitle": "Proceedings of the 10th Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2002",
 	"dblpkey": "conf/sigsoft/GurfinkelDC02",
 	"doi": "10.1145/587051.587073",
@@ -9,8 +13,19 @@
 	"isbn": "1-58113-514-9",
 	"pages": "139-148",
 	"publisher": "ACM",
-	"stemmed": ["model", "explor", "with", "tempor", "logic", "queri", "check"],
-	"tag": ["logic", "query"],
+	"stemmed": [
+		"model",
+		"explor",
+		"with",
+		"tempor",
+		"logic",
+		"queri",
+		"check"
+	],
+	"tag": [
+		"logic",
+		"query"
+	],
 	"title": "Model exploration with temporal logic query checking",
 	"type": "inproceedings",
 	"venue": "FSE",

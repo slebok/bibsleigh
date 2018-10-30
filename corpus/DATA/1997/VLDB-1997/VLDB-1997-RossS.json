@@ -1,14 +1,36 @@
 {
-	"author": ["Kenneth A. Ross", "Divesh Srivastava"],
-	"booktitle": "VLDB",
-	"cite": ["conf/vldb/AgarwalADGNRS96", "...", "conf/icde/GrayBLP96", "journals/cj/Hoare62", "conf/sigmod/HarinarayanRU96", "...", "...", "...", "conf/sigmod/ZhaoDN97"],
+	"author": [
+		"Kenneth A. Ross",
+		"Divesh Srivastava"
+	],
+	"booktitle": "Proceedings of the 23rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/vldb/AgarwalADGNRS96",
+		"...",
+		"conf/icde/GrayBLP96",
+		"journals/cj/Hoare62",
+		"conf/sigmod/HarinarayanRU96",
+		"...",
+		"...",
+		"...",
+		"conf/sigmod/ZhaoDN97"
+	],
 	"crossref": "conf/vldb/97",
 	"dblpkey": "conf/vldb/RossS97",
 	"ee": "http://www.vldb.org/conf/1997/P116.PDF",
 	"pages": "116-125",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["fast", "comput", "of", "spars", "datacub"],
-	"tag": ["performance"],
+	"stemmed": [
+		"fast",
+		"comput",
+		"of",
+		"spars",
+		"datacub"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Fast Computation of Sparse Datacubes",
 	"type": "inproceedings",
 	"venue": "VLDB",

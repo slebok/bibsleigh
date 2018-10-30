@@ -1,6 +1,11 @@
 {
-	"author": ["Douglas R. Cutting", "David R. Karger", "Jan O. Pedersen"],
+	"author": [
+		"Douglas R. Cutting",
+		"David R. Karger",
+		"Jan O. Pedersen"
+	],
 	"booktitle": "Proceedings of the 16th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1993/P126.pdf",
 	"crossref": "conf/sigir/93",
 	"dblpkey": "conf/sigir/CuttingKP93",
@@ -8,8 +13,24 @@
 	"ee": "http://doi.acm.org/10.1145/160688.160706",
 	"pages": "126-134",
 	"publisher": "ACM",
-	"stemmed": ["constant", "interact", "time", "scatter", "gather", "brows", "of", "veri", "larg", "document", "collect"],
-	"tag": ["constant", "documentation", "scalability"],
+	"stemmed": [
+		"constant",
+		"interact",
+		"time",
+		"scatter",
+		"gather",
+		"brows",
+		"of",
+		"veri",
+		"larg",
+		"document",
+		"collect"
+	],
+	"tag": [
+		"constant",
+		"documentation",
+		"scalability"
+	],
 	"title": "Constant Interaction-Time Scatter/Gather Browsing of Very Large Document Collections",
 	"type": "inproceedings",
 	"venue": "SIGIR",

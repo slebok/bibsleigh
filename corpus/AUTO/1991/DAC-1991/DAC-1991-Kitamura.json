@@ -1,13 +1,29 @@
 {
 	"author": "Yoshihiro Kitamura",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 28th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/Kitamura91",
 	"doi": "10.1145/127601.127649",
 	"ee": "http://doi.acm.org/10.1145/127601.127649",
 	"pages": "151-154",
 	"publisher": "ACM",
-	"stemmed": ["sequenti", "circuit", "fault", "simul", "by", "fault", "inform", "trace", "algorithm", "fit"],
-	"tag": ["algorithm", "fault", "simulation"],
+	"stemmed": [
+		"sequenti",
+		"circuit",
+		"fault",
+		"simul",
+		"by",
+		"fault",
+		"inform",
+		"trace",
+		"algorithm",
+		"fit"
+	],
+	"tag": [
+		"algorithm",
+		"fault",
+		"simulation"
+	],
 	"title": "Sequential Circuit Fault Simulation by Fault Information Tracing Algorithm: FIT",
 	"type": "inproceedings",
 	"venue": "DAC",

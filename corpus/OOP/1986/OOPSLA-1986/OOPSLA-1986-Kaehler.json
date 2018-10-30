@@ -1,6 +1,6 @@
 {
 	"author": "Ted Kaehler",
-	"booktitle": "Proceedings of the First Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"booktitle": "Proceedings of the First Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1986",
 	"dblpkey": "conf/oopsla/Kaehler86",
@@ -10,8 +10,23 @@
 	"isbn": "0-89791-204-7",
 	"pages": "87-106",
 	"publisher": "ACM",
-	"stemmed": ["virtual", "memori", "on", "a", "narrow", "machin", "for", "an", "object", "orient", "languag"],
-	"tag": ["memory management", "object-oriented"],
+	"stemmed": [
+		"virtual",
+		"memori",
+		"on",
+		"a",
+		"narrow",
+		"machin",
+		"for",
+		"an",
+		"object",
+		"orient",
+		"languag"
+	],
+	"tag": [
+		"memory management",
+		"object-oriented"
+	],
 	"title": "Virtual Memory on a Narrow Machine for an Object-Oriented Language",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

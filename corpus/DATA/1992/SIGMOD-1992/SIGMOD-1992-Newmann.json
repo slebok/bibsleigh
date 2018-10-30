@@ -1,14 +1,25 @@
 {
 	"author": "Scott Newmann",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 22nd ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD92/P414.PDF",
 	"crossref": "conf/sigmod/92",
 	"dblpkey": "conf/sigmod/Newmann92",
 	"doi": "10.1145/130283.130345",
 	"ee": "http://doi.acm.org/10.1145/130283.130345",
-	"pages": 414,
-	"stemmed": ["multi", "vendor", "interoper", "through", "sql", "access"],
-	"tag": ["multi", "sql"],
+	"pages": "414",
+	"stemmed": [
+		"multi",
+		"vendor",
+		"interoper",
+		"through",
+		"sql",
+		"access"
+	],
+	"tag": [
+		"multi",
+		"sql"
+	],
 	"title": "Multi-vendor Interoperability Through SQL Access",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

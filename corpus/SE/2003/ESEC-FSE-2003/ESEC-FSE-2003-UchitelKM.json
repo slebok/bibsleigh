@@ -1,15 +1,32 @@
 {
-	"author": ["Sebastián Uchitel", "Jeff Kramer", "Jeff Magee"],
+	"author": [
+		"Sebastián Uchitel",
+		"Jeff Kramer",
+		"Jeff Magee"
+	],
 	"booktitle": "Proceedings of the 11th Symposium on Foundations of Software Engineering held jointly with the Ninth European Software Engineering Conference",
-	"booktitleshort": "ESEC/SIGSOFT FSE",
+	"booktitleshort": "ESEC/FSE",
 	"crossref": "conf/sigsoft/2003",
 	"dblpkey": "conf/sigsoft/UchitelKM03",
 	"doi": "10.1145/940071.940076",
 	"ee": "http://doi.acm.org/10.1145/940071.940076",
 	"pages": "19-27",
 	"publisher": "ACM",
-	"stemmed": ["behaviour", "model", "elabor", "use", "partial", "label", "transit", "system"],
-	"tag": ["behaviour", "lts", "using"],
+	"stemmed": [
+		"behaviour",
+		"model",
+		"elabor",
+		"use",
+		"partial",
+		"label",
+		"transit",
+		"system"
+	],
+	"tag": [
+		"behaviour",
+		"lts",
+		"using"
+	],
 	"title": "Behaviour model elaboration using partial labelled transition systems",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

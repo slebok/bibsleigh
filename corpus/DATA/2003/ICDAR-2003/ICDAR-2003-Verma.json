@@ -1,15 +1,32 @@
 {
 	"author": "Brijesh Verma",
-	"booktitle": "ICDAR",
+	"booktitle": "Proceedings of the Seventh International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2003",
 	"dblpkey": "conf/icdar/Verma03",
 	"doi": "10.1109/ICDAR.2003.1227848",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2003.1227848", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2003.1227848"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2003.1227848",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2003.1227848"
+	],
 	"pages": "1203-1207",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "contour", "code", "featur", "base", "segment", "for", "handwrit", "recognit"],
-	"tag": ["recognition", "segmentation"],
+	"stemmed": [
+		"a",
+		"contour",
+		"code",
+		"featur",
+		"base",
+		"segment",
+		"for",
+		"handwrit",
+		"recognit"
+	],
+	"tag": [
+		"recognition",
+		"segmentation"
+	],
 	"title": "A Contour Code Feature Based Segmentation For Handwriting Recognition",
 	"type": "inproceedings",
 	"venue": "ICDAR",

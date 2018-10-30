@@ -1,14 +1,36 @@
 {
 	"author": "Sergey Brin",
-	"booktitle": "VLDB",
-	"cite": ["...", "journals/cacm/BurkhardK73", "journals/tc/FukunagaN75", "...", "...", "journals/tois/ShashaW90", "journals/ipl/Uhlmann91", "journals/tcs/Ukkonen92", "..."],
+	"booktitle": "Proceedings of the 21st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"journals/cacm/BurkhardK73",
+		"journals/tc/FukunagaN75",
+		"...",
+		"...",
+		"journals/tois/ShashaW90",
+		"journals/ipl/Uhlmann91",
+		"journals/tcs/Ukkonen92",
+		"..."
+	],
 	"crossref": "conf/vldb/95",
 	"dblpkey": "conf/vldb/Brin95",
 	"ee": "http://www.vldb.org/conf/1995/P574.PDF",
 	"pages": "574-584",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["near", "neighbor", "search", "in", "larg", "metric", "space"],
-	"tag": ["metric", "scalability"],
+	"stemmed": [
+		"near",
+		"neighbor",
+		"search",
+		"in",
+		"larg",
+		"metric",
+		"space"
+	],
+	"tag": [
+		"metric",
+		"scalability"
+	],
 	"title": "Near Neighbor Search in Large Metric Spaces",
 	"type": "inproceedings",
 	"venue": "VLDB",

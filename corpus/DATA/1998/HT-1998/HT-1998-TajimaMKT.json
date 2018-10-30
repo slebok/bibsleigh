@@ -1,6 +1,12 @@
 {
-	"author": ["Keishi Tajima", "Yoshiaki Mizuuchi", "Masatsugu Kitagawa", "Katsumi Tanaka"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Keishi Tajima",
+		"Yoshiaki Mizuuchi",
+		"Masatsugu Kitagawa",
+		"Katsumi Tanaka"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Hypertext and Hypermedia: Links, Objects, Time and Space — Structure in Hypermedia Systems",
+	"booktitleshort": "HT",
 	"cdrom": "HT1998/P235.pdf",
 	"crossref": "conf/ht/98",
 	"dblpkey": "conf/ht/TajimaMKT98",
@@ -8,8 +14,22 @@
 	"ee": "http://doi.acm.org/10.1145/276627.276653",
 	"pages": "235-244",
 	"publisher": "ACM",
-	"stemmed": ["cut", "as", "a", "queri", "unit", "for", "www", "netnew", "e", "mail"],
-	"tag": ["email", "query"],
+	"stemmed": [
+		"cut",
+		"as",
+		"a",
+		"queri",
+		"unit",
+		"for",
+		"www",
+		"netnew",
+		"e",
+		"mail"
+	],
+	"tag": [
+		"email",
+		"query"
+	],
 	"title": "Cut as a Querying Unit for WWW, Netnews, e-mail",
 	"type": "inproceedings",
 	"venue": "HT",

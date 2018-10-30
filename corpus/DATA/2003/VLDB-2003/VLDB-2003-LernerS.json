@@ -1,12 +1,33 @@
 {
-	"author": ["Alberto Lerner", "Dennis Shasha"],
-	"booktitle": "VLDB",
+	"author": [
+		"Alberto Lerner",
+		"Dennis Shasha"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/LernerS03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S11P03.pdf",
 	"pages": "345-356",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["a", "queri", "queri", "languag", "for", "order", "data", "optim", "techniqu", "and", "experi"],
-	"tag": ["named", "optimisation", "order", "query"],
+	"stemmed": [
+		"a",
+		"queri",
+		"queri",
+		"languag",
+		"for",
+		"order",
+		"data",
+		"optim",
+		"techniqu",
+		"and",
+		"experi"
+	],
+	"tag": [
+		"named",
+		"optimisation",
+		"order",
+		"query"
+	],
 	"title": "AQuery: Query Language for Ordered Data, Optimization Techniques, and Experiments",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,14 +1,37 @@
 {
-	"author": ["D. R. McGregor", "R. G. Thomson", "W. N. Dawson"],
-	"booktitle": "VLDB",
+	"author": [
+		"D. R. McGregor",
+		"R. G. Thomson",
+		"W. N. Dawson"
+	],
+	"booktitle": "Proceedings of the Second International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB76/P103.PDF",
-	"cite": ["journals/cacm/Codd70", "persons/Codd71a", "...", "journals/tods/LinSS76", "...", "..."],
+	"cite": [
+		"journals/cacm/Codd70",
+		"persons/Codd71a",
+		"...",
+		"journals/tods/LinSS76",
+		"...",
+		"..."
+	],
 	"crossref": "conf/vldb/76",
 	"dblpkey": "conf/vldb/McGregorTD76",
 	"pages": "103-116",
 	"publisher": "North Holland & IFIP",
-	"stemmed": ["high", "perform", "hardwar", "for", "databas", "system"],
-	"tag": ["database", "hardware", "performance"],
+	"stemmed": [
+		"high",
+		"perform",
+		"hardwar",
+		"for",
+		"databas",
+		"system"
+	],
+	"tag": [
+		"database",
+		"hardware",
+		"performance"
+	],
 	"title": "High Performance Hardware for Database Systems",
 	"type": "inproceedings",
 	"venue": "VLDB",

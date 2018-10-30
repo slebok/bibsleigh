@@ -1,6 +1,9 @@
 {
-	"author": ["Daniel Kifer", "Johannes Gehrke"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Daniel Kifer",
+		"Johannes Gehrke"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/KiferG06",
@@ -8,8 +11,17 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142499",
 	"pages": "217-228",
 	"publisher": "ACM",
-	"stemmed": ["inject", "util", "into", "anonym", "dataset"],
-	"tag": ["dataset", "injection"],
+	"stemmed": [
+		"inject",
+		"util",
+		"into",
+		"anonym",
+		"dataset"
+	],
+	"tag": [
+		"dataset",
+		"injection"
+	],
 	"title": "Injecting utility into anonymized datasets",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

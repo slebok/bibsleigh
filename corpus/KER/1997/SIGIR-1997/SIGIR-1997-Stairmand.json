@@ -1,6 +1,7 @@
 {
 	"author": "Mark A. Stairmand",
 	"booktitle": "Proceedings of the 20th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1997/P140.pdf",
 	"crossref": "conf/sigir/97",
 	"dblpkey": "conf/sigir/Stairmand97",
@@ -8,8 +9,18 @@
 	"ee": "http://doi.acm.org/10.1145/258525.258552",
 	"pages": "140-147",
 	"publisher": "ACM",
-	"stemmed": ["textual", "context", "analysi", "for", "inform", "retriev"],
-	"tag": ["analysis", "information retrieval"],
+	"stemmed": [
+		"textual",
+		"context",
+		"analysi",
+		"for",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"analysis",
+		"information retrieval"
+	],
 	"title": "Textual Context Analysis for Information Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

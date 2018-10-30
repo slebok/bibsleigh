@@ -1,6 +1,11 @@
 {
-	"author": ["Lap-Fai Leung", "Chi-Ying Tsui", "Xiaobo Sharon Hu"],
-	"booktitle": "DATE",
+	"author": [
+		"Lap-Fai Leung",
+		"Chi-Ying Tsui",
+		"Xiaobo Sharon Hu"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/LeungTH05",
 	"doi": "10.1109/DATE.2005.146",
@@ -8,8 +13,22 @@
 	"pages": "634-639",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["exploit", "dynam", "workload", "variat", "in", "low", "energi", "preemptiv", "task", "schedul"],
-	"tag": ["energy", "scheduling"],
+	"stemmed": [
+		"exploit",
+		"dynam",
+		"workload",
+		"variat",
+		"in",
+		"low",
+		"energi",
+		"preemptiv",
+		"task",
+		"schedul"
+	],
+	"tag": [
+		"energy",
+		"scheduling"
+	],
 	"title": "Exploiting Dynamic Workload Variation in Low Energy Preemptive Task Scheduling",
 	"type": "inproceedings",
 	"venue": "DATE",

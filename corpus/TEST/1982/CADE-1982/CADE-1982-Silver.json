@@ -1,6 +1,7 @@
 {
 	"author": "Bernard Silver",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Sixth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1982",
 	"dblpkey": "conf/cade/Silver82",
 	"doi": "10.1007/BFb0000055",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "applic", "of", "homogen", "to", "simultan", "equat"],
-	"tag": ["equation"],
+	"stemmed": [
+		"the",
+		"applic",
+		"of",
+		"homogen",
+		"to",
+		"simultan",
+		"equat"
+	],
+	"tag": [
+		"equation"
+	],
 	"title": "The Application of Homogenization to Simultaneous Equations",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 138,
+	"volume": "138",
 	"year": 1982
 }

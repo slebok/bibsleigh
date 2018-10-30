@@ -1,6 +1,9 @@
 {
-	"author": ["Wenbo Tao", "Guoliang Li"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Wenbo Tao",
+		"Guoliang Li"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/TaoL14",
@@ -8,8 +11,20 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2612662",
 	"pages": "1603-1604",
 	"publisher": "ACM",
-	"stemmed": ["effici", "top", "k", "sim", "rank", "base", "similar", "join"],
-	"tag": ["performance", "similarity"],
+	"stemmed": [
+		"effici",
+		"top",
+		"k",
+		"sim",
+		"rank",
+		"base",
+		"similar",
+		"join"
+	],
+	"tag": [
+		"performance",
+		"similarity"
+	],
 	"title": "Efficient top-K SimRank-based similarity join",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

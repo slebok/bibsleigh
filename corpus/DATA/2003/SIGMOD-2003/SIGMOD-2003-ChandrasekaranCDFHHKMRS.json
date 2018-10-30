@@ -1,15 +1,35 @@
 {
-	"author": ["Sirish Chandrasekaran", "Owen Cooper", "Amol Deshpande", "Michael J. Franklin", "Joseph M. Hellerstein", "Wei Hong", "Sailesh Krishnamurthy", "Samuel Madden", "Frederick Reiss", "Mehul A. Shah"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Sirish Chandrasekaran",
+		"Owen Cooper",
+		"Amol Deshpande",
+		"Michael J. Franklin",
+		"Joseph M. Hellerstein",
+		"Wei Hong",
+		"Sailesh Krishnamurthy",
+		"Samuel Madden",
+		"Frederick Reiss",
+		"Mehul A. Shah"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/ChandrasekaranCDFHHKMRS03",
 	"doi": "10.1145/872757.872857",
 	"ee": "http://doi.acm.org/10.1145/872757.872857",
-	"pages": 668,
+	"pages": "668",
 	"publisher": "ACM",
-	"stemmed": ["telegraph", "cq", "continu", "dataflow", "process"],
-	"tag": ["data flow", "named"],
+	"stemmed": [
+		"telegraph",
+		"cq",
+		"continu",
+		"dataflow",
+		"process"
+	],
+	"tag": [
+		"data flow",
+		"named"
+	],
 	"title": "TelegraphCQ: Continuous Dataflow Processing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

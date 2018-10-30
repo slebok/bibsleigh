@@ -1,6 +1,10 @@
 {
-	"author": ["Sang Ho Lee", "Lawrence J. Henschen"],
-	"booktitle": "CADE",
+	"author": [
+		"Sang Ho Lee",
+		"Lawrence J. Henschen"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/LeeH90",
 	"doi": "10.1007/3-540-52885-7_79",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["substitut", "base", "compil", "of", "extend", "rule", "in", "deduct", "databas"],
-	"tag": ["compilation", "database", "deduction"],
+	"stemmed": [
+		"substitut",
+		"base",
+		"compil",
+		"of",
+		"extend",
+		"rule",
+		"in",
+		"deduct",
+		"databas"
+	],
+	"tag": [
+		"compilation",
+		"database",
+		"deduction"
+	],
 	"title": "Substitution-based Compilation of Extended Rules in Deductive Databases",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

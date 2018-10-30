@@ -1,14 +1,34 @@
 {
-	"author": ["Bishan Yang", "Jian-Tao Sun", "Tengjiao Wang", "Zheng Chen"],
-	"booktitle": "KDD",
+	"author": [
+		"Bishan Yang",
+		"Jian-Tao Sun",
+		"Tengjiao Wang",
+		"Zheng Chen"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/YangSWC09",
 	"doi": "10.1145/1557019.1557119",
 	"ee": "http://doi.acm.org/10.1145/1557019.1557119",
 	"pages": "917-926",
 	"publisher": "ACM",
-	"stemmed": ["effect", "multi", "label", "activ", "learn", "for", "text", "classif"],
-	"tag": ["classification", "effectiveness", "learning", "multi"],
+	"stemmed": [
+		"effect",
+		"multi",
+		"label",
+		"activ",
+		"learn",
+		"for",
+		"text",
+		"classif"
+	],
+	"tag": [
+		"classification",
+		"effectiveness",
+		"learning",
+		"multi"
+	],
 	"title": "Effective multi-label active learning for text classification",
 	"type": "inproceedings",
 	"venue": "KDD",

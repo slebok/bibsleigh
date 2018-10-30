@@ -1,6 +1,7 @@
 {
 	"author": "Tadeusz Radecki",
 	"booktitle": "Proceedings of the Fifth Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"dblpkey": "conf/sigir/Radecki82",
 	"doi": "10.1007/BFb0036344",
 	"ee": "http://dx.doi.org/10.1007/BFb0036344",
@@ -9,11 +10,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["incorpor", "of", "relev", "feedback", "into", "boolean", "retriev", "system"],
-	"tag": ["feedback", "retrieval"],
+	"stemmed": [
+		"incorpor",
+		"of",
+		"relev",
+		"feedback",
+		"into",
+		"boolean",
+		"retriev",
+		"system"
+	],
+	"tag": [
+		"feedback",
+		"retrieval"
+	],
 	"title": "Incorporation of Relevance Feedback into Boolean Retrieval System",
 	"type": "inproceedings",
 	"venue": "SIGIR",
-	"volume": 146,
+	"volume": "146",
 	"year": 1982
 }

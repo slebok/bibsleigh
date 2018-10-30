@@ -1,14 +1,29 @@
 {
-	"author": ["Yu Zhang", "Dit-Yan Yeung"],
-	"booktitle": "KDD",
+	"author": [
+		"Yu Zhang",
+		"Dit-Yan Yeung"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/ZhangY10",
 	"doi": "10.1145/1835804.1835954",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835954",
 	"pages": "1199-1208",
 	"publisher": "ACM",
-	"stemmed": ["transfer", "metric", "learn", "by", "learn", "task", "relationship"],
-	"tag": ["learning", "metric"],
+	"stemmed": [
+		"transfer",
+		"metric",
+		"learn",
+		"by",
+		"learn",
+		"task",
+		"relationship"
+	],
+	"tag": [
+		"learning",
+		"metric"
+	],
 	"title": "Transfer metric learning by learning task relationships",
 	"type": "inproceedings",
 	"venue": "KDD",

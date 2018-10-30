@@ -1,14 +1,36 @@
 {
-	"author": ["Ophir Friedler", "Wisam Kadry", "Arkadiy Morgenshtein", "Amir Nahir", "Vitali Sokhin"],
-	"booktitle": "DATE",
+	"author": [
+		"Ophir Friedler",
+		"Wisam Kadry",
+		"Arkadiy Morgenshtein",
+		"Amir Nahir",
+		"Vitali Sokhin"
+	],
+	"booktitle": "Proceedings of the 18th Conference and Exhibition on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2014",
 	"dblpkey": "conf/date/FriedlerKMNS14",
 	"doi": "10.7873/DATE.2014.332",
 	"ee": "http://dx.doi.org/10.7873/DATE.2014.332",
 	"pages": "1-6",
 	"publisher": "IEEE",
-	"stemmed": ["effect", "post", "silicon", "failur", "local", "use", "dynam", "program", "slice"],
-	"tag": ["effectiveness", "locality", "slicing", "using"],
+	"stemmed": [
+		"effect",
+		"post",
+		"silicon",
+		"failur",
+		"local",
+		"use",
+		"dynam",
+		"program",
+		"slice"
+	],
+	"tag": [
+		"effectiveness",
+		"locality",
+		"slicing",
+		"using"
+	],
 	"title": "Effective post-silicon failure localization using dynamic program slicing",
 	"type": "inproceedings",
 	"venue": "DATE",

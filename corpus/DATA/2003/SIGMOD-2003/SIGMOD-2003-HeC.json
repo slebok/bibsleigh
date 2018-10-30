@@ -1,6 +1,9 @@
 {
-	"author": ["Bin He", "Kevin Chen-Chuan Chang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Bin He",
+		"Kevin Chen-Chuan Chang"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/HeC03",
@@ -8,8 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/872757.872784",
 	"pages": "217-228",
 	"publisher": "ACM",
-	"stemmed": ["statist", "schema", "match", "across", "web", "queri", "interfac"],
-	"tag": ["interface", "query", "statistics", "web"],
+	"stemmed": [
+		"statist",
+		"schema",
+		"match",
+		"across",
+		"web",
+		"queri",
+		"interfac"
+	],
+	"tag": [
+		"interface",
+		"query",
+		"statistics",
+		"web"
+	],
 	"title": "Statistical Schema Matching across Web Query Interfaces",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

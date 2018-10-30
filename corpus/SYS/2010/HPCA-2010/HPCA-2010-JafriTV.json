@@ -1,6 +1,11 @@
 {
-	"author": ["Syed Ali Raza Jafri", "Mithuna Thottethodi", "T. N. Vijaykumar"],
-	"booktitle": "HPCA",
+	"author": [
+		"Syed Ali Raza Jafri",
+		"Mithuna Thottethodi",
+		"T. N. Vijaykumar"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2010",
 	"dblpkey": "conf/hpca/JafriTV10",
 	"doi": "10.1109/HPCA.2010.5416653",
@@ -8,8 +13,18 @@
 	"pages": "1-12",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["lite", "tm", "reduc", "transact", "state", "overhead"],
-	"tag": ["named", "transaction"],
+	"stemmed": [
+		"lite",
+		"tm",
+		"reduc",
+		"transact",
+		"state",
+		"overhead"
+	],
+	"tag": [
+		"named",
+		"transaction"
+	],
 	"title": "LiteTM: Reducing transactional state overhead",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,6 +1,10 @@
 {
-	"author": ["Saket Gurukar", "Sayan Ranu", "Balaraman Ravindran"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Saket Gurukar",
+		"Sayan Ranu",
+		"Balaraman Ravindran"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/GurukarRR15",
@@ -8,8 +12,28 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2737791",
 	"pages": "475-489",
 	"publisher": "ACM",
-	"stemmed": ["commit", "a", "scalabl", "approach", "to", "mine", "communic", "motif", "from", "dynam", "network"],
-	"tag": ["approach", "commit", "communication", "mining", "named", "network", "scalability"],
+	"stemmed": [
+		"commit",
+		"a",
+		"scalabl",
+		"approach",
+		"to",
+		"mine",
+		"communic",
+		"motif",
+		"from",
+		"dynam",
+		"network"
+	],
+	"tag": [
+		"approach",
+		"commit",
+		"communication",
+		"mining",
+		"named",
+		"network",
+		"scalability"
+	],
 	"title": "COMMIT: A Scalable Approach to Mining Communication Motifs from Dynamic Networks",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

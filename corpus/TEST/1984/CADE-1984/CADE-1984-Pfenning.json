@@ -1,6 +1,7 @@
 {
 	"author": "Frank Pfenning",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Seventh International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1984",
 	"dblpkey": "conf/cade/Pfenning84",
 	"doi": "10.1007/BFb0047133",
@@ -10,11 +11,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["analyt", "and", "non", "analyt", "proof"],
-	"tag": ["proving"],
+	"stemmed": [
+		"analyt",
+		"and",
+		"non",
+		"analyt",
+		"proof"
+	],
+	"tag": [
+		"proving"
+	],
 	"title": "Analytic and Non-analytic Proofs",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 170,
+	"volume": "170",
 	"year": 1984
 }

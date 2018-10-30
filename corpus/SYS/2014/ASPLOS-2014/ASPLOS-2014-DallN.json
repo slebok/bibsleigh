@@ -1,14 +1,35 @@
 {
-	"author": ["Christoffer Dall", "Jason Nieh"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Christoffer Dall",
+		"Jason Nieh"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2014",
 	"dblpkey": "conf/asplos/DallN14",
 	"doi": "10.1145/2541940.2541946",
 	"ee": "http://doi.acm.org/10.1145/2541940.2541946",
 	"pages": "333-348",
 	"publisher": "ACM",
-	"stemmed": ["kvm", "arm", "the", "design", "and", "implement", "of", "the", "linux", "arm", "hypervisor"],
-	"tag": ["design", "implementation", "linux", "named"],
+	"stemmed": [
+		"kvm",
+		"arm",
+		"the",
+		"design",
+		"and",
+		"implement",
+		"of",
+		"the",
+		"linux",
+		"arm",
+		"hypervisor"
+	],
+	"tag": [
+		"design",
+		"implementation",
+		"linux",
+		"named"
+	],
 	"title": "KVM/ARM: the design and implementation of the linux ARM hypervisor",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

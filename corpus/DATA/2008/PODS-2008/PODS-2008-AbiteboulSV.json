@@ -1,14 +1,29 @@
 {
-	"author": ["Serge Abiteboul", "Luc Segoufin", "Victor Vianu"],
-	"booktitle": "PODS",
+	"author": [
+		"Serge Abiteboul",
+		"Luc Segoufin",
+		"Victor Vianu"
+	],
+	"booktitle": "Proceedings of the 27th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2008",
 	"dblpkey": "conf/pods/AbiteboulSV08",
 	"doi": "10.1145/1376916.1376948",
 	"ee": "http://doi.acm.org/10.1145/1376916.1376948",
 	"pages": "221-230",
 	"publisher": "ACM",
-	"stemmed": ["static", "analysi", "of", "activ", "xml", "system"],
-	"tag": ["static analysis", "xml"],
+	"stemmed": [
+		"static",
+		"analysi",
+		"of",
+		"activ",
+		"xml",
+		"system"
+	],
+	"tag": [
+		"static analysis",
+		"xml"
+	],
 	"title": "Static analysis of active XML systems",
 	"type": "inproceedings",
 	"venue": "PODS",

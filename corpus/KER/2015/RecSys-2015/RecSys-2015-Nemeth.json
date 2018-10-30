@@ -1,14 +1,26 @@
 {
 	"author": "Bottyán Németh",
-	"booktitle": "RecSys",
+	"booktitle": "Proceedings of the Ninth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2015",
 	"dblpkey": "conf/recsys/Nemeth15",
 	"doi": "10.1145/2792838.2799499",
 	"ee": "http://doi.acm.org/10.1145/2792838.2799499",
-	"pages": 233,
+	"pages": "233",
 	"publisher": "ACM",
-	"stemmed": ["scale", "up", "recommend", "servic", "in", "mani", "dimens"],
-	"tag": ["recommendation", "scalability"],
+	"stemmed": [
+		"scale",
+		"up",
+		"recommend",
+		"servic",
+		"in",
+		"mani",
+		"dimens"
+	],
+	"tag": [
+		"recommendation",
+		"scalability"
+	],
 	"title": "Scaling Up Recommendation Services in Many Dimensions",
 	"type": "inproceedings",
 	"venue": "RecSys",

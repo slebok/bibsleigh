@@ -1,14 +1,33 @@
 {
-	"author": ["Ravi Pratap", "Ron Cytron", "David C. Sharp", "Edward Pla"],
-	"booktitle": "LCTES",
+	"author": [
+		"Ravi Pratap",
+		"Ron Cytron",
+		"David C. Sharp",
+		"Edward Pla"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2003",
 	"dblpkey": "conf/lctrts/PratapCSP03",
 	"doi": "10.1145/780732.780752",
 	"ee": "http://doi.acm.org/10.1145/780732.780752",
 	"pages": "144-152",
 	"publisher": "ACM",
-	"stemmed": ["transport", "layer", "abstract", "in", "event", "channel", "for", "embed", "system"],
-	"tag": ["abstraction", "embedded"],
+	"stemmed": [
+		"transport",
+		"layer",
+		"abstract",
+		"in",
+		"event",
+		"channel",
+		"for",
+		"embed",
+		"system"
+	],
+	"tag": [
+		"abstraction",
+		"embedded"
+	],
 	"title": "Transport layer abstraction in event channels for embedded systems",
 	"type": "inproceedings",
 	"venue": "LCTES",

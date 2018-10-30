@@ -1,6 +1,11 @@
 {
-	"author": ["Riccardo Focardi", "Carla Piazza", "Sabina Rossi"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Riccardo Focardi",
+		"Carla Piazza",
+		"Sabina Rossi"
+	],
+	"booktitle": "Proceedings of the Third International Workshop on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2002",
 	"dblpkey": "conf/vmcai/FocardiPR02",
 	"doi": "10.1007/3-540-47813-2_2",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["proof", "method", "for", "bisimul", "base", "inform", "flow", "secur"],
-	"tag": ["bisimulation", "data flow", "proving", "security"],
+	"stemmed": [
+		"proof",
+		"method",
+		"for",
+		"bisimul",
+		"base",
+		"inform",
+		"flow",
+		"secur"
+	],
+	"tag": [
+		"bisimulation",
+		"data flow",
+		"proving",
+		"security"
+	],
 	"title": "Proofs Methods for Bisimulation Based Information Flow Security",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2294,
+	"volume": "2294",
 	"year": 2002
 }

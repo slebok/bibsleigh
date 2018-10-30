@@ -1,6 +1,12 @@
 {
-	"author": ["Brijesh Dongol", "John Derrick", "Lindsay Groves", "Graeme Smith"],
-	"booktitle": "ECOOP",
+	"author": [
+		"Brijesh Dongol",
+		"John Derrick",
+		"Lindsay Groves",
+		"Graeme Smith"
+	],
+	"booktitle": "Proceedings of the 29th European Conference on Object-Oriented Programming",
+	"booktitleshort": "ECOOP",
 	"crossref": "conf/ecoop/2015",
 	"dblpkey": "conf/ecoop/DongolDGS15",
 	"doi": "10.4230/LIPIcs.ECOOP.2015.470",
@@ -10,11 +16,26 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["defin", "correct", "condit", "for", "concurr", "object", "in", "multicor", "architectur"],
-	"tag": ["architecture", "concurrent", "correctness", "manycore"],
+	"stemmed": [
+		"defin",
+		"correct",
+		"condit",
+		"for",
+		"concurr",
+		"object",
+		"in",
+		"multicor",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"concurrent",
+		"correctness",
+		"manycore"
+	],
 	"title": "Defining Correctness Conditions for Concurrent Objects in Multicore Architectures",
 	"type": "inproceedings",
 	"venue": "ECOOP",
-	"volume": 37,
+	"volume": "37",
 	"year": 2015
 }

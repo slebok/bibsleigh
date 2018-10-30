@@ -1,14 +1,28 @@
 {
-	"author": ["Georges Gardarin", "Nathan Goodman", "Bruce G. Lindsay", "Rudolf Munz", "James B. Rothnie Jr."],
-	"booktitle": "VLDB",
+	"author": [
+		"Georges Gardarin",
+		"Nathan Goodman",
+		"Bruce G. Lindsay",
+		"Rudolf Munz",
+		"James B. Rothnie Jr."
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB80/P201.PDF",
 	"crossref": "conf/vldb/80",
 	"dblpkey": "conf/vldb/GardarinGLMR80",
 	"pages": "201-202",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["distribut", "databas", "system"],
-	"tag": ["database", "distributed"],
+	"stemmed": [
+		"distribut",
+		"databas",
+		"system"
+	],
+	"tag": [
+		"database",
+		"distributed"
+	],
 	"title": "Distributed Database Systems",
 	"type": "inproceedings",
 	"venue": "VLDB",

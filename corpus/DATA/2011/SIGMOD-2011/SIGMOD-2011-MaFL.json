@@ -1,6 +1,10 @@
 {
-	"author": ["Dongzhe Ma", "Jianhua Feng", "Guoliang Li"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Dongzhe Ma",
+		"Jianhua Feng",
+		"Guoliang Li"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/MaFL11",
@@ -8,8 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989325",
 	"pages": "1-12",
 	"publisher": "ACM",
-	"stemmed": ["lazi", "ftl", "a", "page", "level", "flash", "translat", "layer", "optim", "for", "nand", "flash", "memori"],
-	"tag": ["memory management", "named"],
+	"stemmed": [
+		"lazi",
+		"ftl",
+		"a",
+		"page",
+		"level",
+		"flash",
+		"translat",
+		"layer",
+		"optim",
+		"for",
+		"nand",
+		"flash",
+		"memori"
+	],
+	"tag": [
+		"memory management",
+		"named"
+	],
 	"title": "LazyFTL: a page-level flash translation layer optimized for NAND flash memory",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,13 +1,33 @@
 {
-	"author": ["Xi Wang", "David Lazar", "Nickolai Zeldovich", "Adam Chlipala", "Zachary Tatlock"],
-	"booktitle": "OSDI",
+	"author": [
+		"Xi Wang",
+		"David Lazar",
+		"Nickolai Zeldovich",
+		"Adam Chlipala",
+		"Zachary Tatlock"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2014",
 	"dblpkey": "conf/osdi/WangLZCT14",
 	"ee": "https://www.usenix.org/conference/osdi14/technical-sessions/presentation/wang_xi",
 	"pages": "33-47",
 	"publisher": "USENIX Association",
-	"stemmed": ["jitk", "a", "trustworthi", "in", "kernel", "interpret", "infrastructur"],
-	"tag": ["framework", "interpreter", "kernel", "named"],
+	"stemmed": [
+		"jitk",
+		"a",
+		"trustworthi",
+		"in",
+		"kernel",
+		"interpret",
+		"infrastructur"
+	],
+	"tag": [
+		"framework",
+		"interpreter",
+		"kernel",
+		"named"
+	],
 	"title": "Jitk: A Trustworthy In-Kernel Interpreter Infrastructure",
 	"type": "inproceedings",
 	"venue": "OSDI",

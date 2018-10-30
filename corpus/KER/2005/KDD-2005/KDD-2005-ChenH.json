@@ -1,14 +1,38 @@
 {
-	"author": ["Rong Chen", "Edward Herskovits"],
-	"booktitle": "KDD",
+	"author": [
+		"Rong Chen",
+		"Edward Herskovits"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2005",
 	"dblpkey": "conf/kdd/ChenH05",
 	"doi": "10.1145/1081870.1081875",
 	"ee": "http://doi.acm.org/10.1145/1081870.1081875",
 	"pages": "4-12",
 	"publisher": "ACM",
-	"stemmed": ["a", "bayesian", "network", "classifi", "with", "invers", "tree", "structur", "for", "voxelwis", "magnet", "reson", "imag", "analysi"],
-	"tag": ["analysis", "classification", "image", "network"],
+	"stemmed": [
+		"a",
+		"bayesian",
+		"network",
+		"classifi",
+		"with",
+		"invers",
+		"tree",
+		"structur",
+		"for",
+		"voxelwis",
+		"magnet",
+		"reson",
+		"imag",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"classification",
+		"image",
+		"network"
+	],
 	"title": "A Bayesian network classifier with inverse tree structure for voxelwise magnetic resonance image analysis",
 	"type": "inproceedings",
 	"venue": "KDD",

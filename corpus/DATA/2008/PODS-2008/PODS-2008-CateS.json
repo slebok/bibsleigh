@@ -1,14 +1,34 @@
 {
-	"author": ["Balder ten Cate", "Luc Segoufin"],
-	"booktitle": "PODS",
+	"author": [
+		"Balder ten Cate",
+		"Luc Segoufin"
+	],
+	"booktitle": "Proceedings of the 27th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2008",
 	"dblpkey": "conf/pods/CateS08",
 	"doi": "10.1145/1376916.1376952",
 	"ee": "http://doi.acm.org/10.1145/1376916.1376952",
 	"pages": "251-260",
 	"publisher": "ACM",
-	"stemmed": ["x", "path", "transit", "closur", "logic", "and", "nest", "tree", "walk", "automata"],
-	"tag": ["automaton", "logic", "transitive", "xpath"],
+	"stemmed": [
+		"x",
+		"path",
+		"transit",
+		"closur",
+		"logic",
+		"and",
+		"nest",
+		"tree",
+		"walk",
+		"automata"
+	],
+	"tag": [
+		"automaton",
+		"logic",
+		"transitive",
+		"xpath"
+	],
 	"title": "XPath, transitive closure logic, and nested tree walking automata",
 	"type": "inproceedings",
 	"venue": "PODS",

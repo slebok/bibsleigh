@@ -1,6 +1,10 @@
 {
-	"author": ["Bo Wan", "C.-J. Richard Shi"],
-	"booktitle": "DATE",
+	"author": [
+		"Bo Wan",
+		"C.-J. Richard Shi"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/WanS04",
 	"doi": "10.1109/DATE.2004.1269076",
@@ -8,8 +12,24 @@
 	"pages": "1310-1315",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["hierarch", "multi", "dimension", "tabl", "lookup", "for", "model", "compil", "base", "circuit", "simul"],
-	"tag": ["compilation", "multi", "simulation"],
+	"stemmed": [
+		"hierarch",
+		"multi",
+		"dimension",
+		"tabl",
+		"lookup",
+		"for",
+		"model",
+		"compil",
+		"base",
+		"circuit",
+		"simul"
+	],
+	"tag": [
+		"compilation",
+		"multi",
+		"simulation"
+	],
 	"title": "Hierarchical Multi-Dimensional Table Lookup for Model Compiler Based Circuit Simulation",
 	"type": "inproceedings",
 	"venue": "DATE",

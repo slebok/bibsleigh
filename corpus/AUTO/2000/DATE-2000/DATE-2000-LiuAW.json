@@ -1,6 +1,11 @@
 {
-	"author": ["I-Min Liu", "Adnan Aziz", "D. F. Wong"],
-	"booktitle": "DATE",
+	"author": [
+		"I-Min Liu",
+		"Adnan Aziz",
+		"D. F. Wong"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/LiuAW00",
 	"doi": "10.1109/DATE.2000.840307",
@@ -8,8 +13,20 @@
 	"pages": "436-440",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["meet", "delay", "constraint", "in", "dsm", "by", "minim", "repeat", "insert"],
-	"tag": ["constraints"],
+	"stemmed": [
+		"meet",
+		"delay",
+		"constraint",
+		"in",
+		"dsm",
+		"by",
+		"minim",
+		"repeat",
+		"insert"
+	],
+	"tag": [
+		"constraints"
+	],
 	"title": "Meeting Delay Constraints in DSM by Minimal Repeater Insertion",
 	"type": "inproceedings",
 	"venue": "DATE",

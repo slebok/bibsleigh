@@ -1,15 +1,38 @@
 {
-	"author": ["Jason Zebchuk", "Harold W. Cain", "Xin Tong", "Vijayalakshmi Srinivasan", "Andreas Moshovos"],
-	"booktitle": "HPCA",
+	"author": [
+		"Jason Zebchuk",
+		"Harold W. Cain",
+		"Xin Tong",
+		"Vijayalakshmi Srinivasan",
+		"Andreas Moshovos"
+	],
+	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/ZebchukCTSM13",
 	"doi": "10.1109/HPCA.2013.6522309",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522309", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522309"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2013.6522309",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522309"
+	],
 	"pages": "83-94",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["recap", "a", "region", "base", "cure", "for", "the", "common", "cold", "cach"],
-	"tag": ["named"],
+	"stemmed": [
+		"recap",
+		"a",
+		"region",
+		"base",
+		"cure",
+		"for",
+		"the",
+		"common",
+		"cold",
+		"cach"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "RECAP: A region-based cure for the common cold (cache)",
 	"type": "inproceedings",
 	"venue": "HPCA",

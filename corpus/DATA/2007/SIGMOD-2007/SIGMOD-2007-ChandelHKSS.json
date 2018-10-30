@@ -1,6 +1,12 @@
 {
-	"author": ["Amit Chandel", "Oktie Hassanzadeh", "Nick Koudas", "Mohammad Sadoghi", "Divesh Srivastava"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Amit Chandel",
+		"Oktie Hassanzadeh",
+		"Nick Koudas",
+		"Mohammad Sadoghi",
+		"Divesh Srivastava"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/ChandelHKSS07",
@@ -8,8 +14,19 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247521",
 	"pages": "353-364",
 	"publisher": "ACM",
-	"stemmed": ["benchmark", "declar", "approxim", "select", "predic"],
-	"tag": ["approximate", "benchmark", "declarative", "metric"],
+	"stemmed": [
+		"benchmark",
+		"declar",
+		"approxim",
+		"select",
+		"predic"
+	],
+	"tag": [
+		"approximate",
+		"benchmark",
+		"declarative",
+		"metric"
+	],
 	"title": "Benchmarking declarative approximate selection predicates",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

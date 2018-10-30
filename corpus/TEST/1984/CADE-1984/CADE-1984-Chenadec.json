@@ -1,6 +1,7 @@
 {
 	"author": "Philippe le Chenadec",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Seventh International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1984",
 	"dblpkey": "conf/cade/Chenadec84",
 	"doi": "10.1007/BFb0047119",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["canon", "form", "in", "finit", "present", "algebra"],
-	"tag": ["algebra", "canonical"],
+	"stemmed": [
+		"canon",
+		"form",
+		"in",
+		"finit",
+		"present",
+		"algebra"
+	],
+	"tag": [
+		"algebra",
+		"canonical"
+	],
 	"title": "Canonical Forms in Finitely Presented Algebras",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 170,
+	"volume": "170",
 	"year": 1984
 }

@@ -1,13 +1,29 @@
 {
-	"author": ["Yuji Kukimoto", "Robert K. Brayton"],
-	"booktitle": "DAC",
+	"author": [
+		"Yuji Kukimoto",
+		"Robert K. Brayton"
+	],
+	"booktitle": "Proceedings of the 34th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/KukimotoB97",
 	"doi": "10.1145/266021.266070",
 	"ee": "http://doi.acm.org/10.1145/266021.266070",
 	"pages": "220-225",
 	"publisher": "ACM Press",
-	"stemmed": ["exact", "requir", "time", "analysi", "via", "fals", "path", "detect"],
-	"tag": ["analysis", "detection"],
+	"stemmed": [
+		"exact",
+		"requir",
+		"time",
+		"analysi",
+		"via",
+		"fals",
+		"path",
+		"detect"
+	],
+	"tag": [
+		"analysis",
+		"detection"
+	],
 	"title": "Exact Required Time Analysis via False Path Detection",
 	"type": "inproceedings",
 	"venue": "DAC",

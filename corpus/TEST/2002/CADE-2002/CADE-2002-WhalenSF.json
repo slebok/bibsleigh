@@ -1,6 +1,11 @@
 {
-	"author": ["Michael W. Whalen", "Johann Schumann", "Bernd Fischer"],
-	"booktitle": "CADE",
+	"author": [
+		"Michael W. Whalen",
+		"Johann Schumann",
+		"Bernd Fischer"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2002",
 	"dblpkey": "conf/cade/WhalenSF02",
 	"doi": "10.1007/3-540-45620-1_25",
@@ -10,11 +15,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["auto", "bay", "cc", "combin", "program", "synthesi", "with", "automat", "code", "certif", "system", "descript"],
-	"tag": ["automation", "certification", "named", "synthesis"],
+	"stemmed": [
+		"auto",
+		"bay",
+		"cc",
+		"combin",
+		"program",
+		"synthesi",
+		"with",
+		"automat",
+		"code",
+		"certif",
+		"system",
+		"descript"
+	],
+	"tag": [
+		"automation",
+		"certification",
+		"named",
+		"synthesis"
+	],
 	"title": "AutoBayes/CC — Combining Program Synthesis with Automatic Code Certification — System Description",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2392,
+	"volume": "2392",
 	"year": 2002
 }

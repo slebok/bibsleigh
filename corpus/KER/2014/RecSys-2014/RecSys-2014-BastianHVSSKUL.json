@@ -1,14 +1,37 @@
 {
-	"author": ["Mathieu Bastian", "Matthew Hayes", "William Vaughan", "Sam Shah", "Peter Skomoroch", "Hyung Jin Kim", "Sal Uryasev", "Christopher Lloyd"],
-	"booktitle": "RecSys",
+	"author": [
+		"Mathieu Bastian",
+		"Matthew Hayes",
+		"William Vaughan",
+		"Sam Shah",
+		"Peter Skomoroch",
+		"Hyung Jin Kim",
+		"Sal Uryasev",
+		"Christopher Lloyd"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2014",
 	"dblpkey": "conf/recsys/BastianHVSSKUL14",
 	"doi": "10.1145/2645710.2645729",
 	"ee": "http://doi.acm.org/10.1145/2645710.2645729",
 	"pages": "1-8",
 	"publisher": "ACM",
-	"stemmed": ["link", "in", "skill", "larg", "scale", "topic", "extract", "and", "infer"],
-	"tag": ["scalability", "topic"],
+	"stemmed": [
+		"link",
+		"in",
+		"skill",
+		"larg",
+		"scale",
+		"topic",
+		"extract",
+		"and",
+		"infer"
+	],
+	"tag": [
+		"scalability",
+		"topic"
+	],
 	"title": "LinkedIn skills: large-scale topic extraction and inference",
 	"type": "inproceedings",
 	"venue": "RecSys",

@@ -1,14 +1,32 @@
 {
-	"author": ["Darakhshan J. Mir", "S. Muthukrishnan", "Aleksandar Nikolov", "Rebecca N. Wright"],
-	"booktitle": "PODS",
+	"author": [
+		"Darakhshan J. Mir",
+		"S. Muthukrishnan",
+		"Aleksandar Nikolov",
+		"Rebecca N. Wright"
+	],
+	"booktitle": "Proceedings of the 30th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2011",
 	"dblpkey": "conf/pods/MirMNW11",
 	"doi": "10.1145/1989284.1989290",
 	"ee": "http://doi.acm.org/10.1145/1989284.1989290",
 	"pages": "37-48",
 	"publisher": "ACM",
-	"stemmed": ["pan", "privat", "algorithm", "via", "statist", "on", "sketch"],
-	"tag": ["algorithm", "sketching", "statistics"],
+	"stemmed": [
+		"pan",
+		"privat",
+		"algorithm",
+		"via",
+		"statist",
+		"on",
+		"sketch"
+	],
+	"tag": [
+		"algorithm",
+		"sketching",
+		"statistics"
+	],
 	"title": "Pan-private algorithms via statistics on sketches",
 	"type": "inproceedings",
 	"venue": "PODS",

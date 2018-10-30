@@ -1,14 +1,33 @@
 {
-	"author": ["Yuxiao Dong", "Jing Zhang", "Jie Tang", "Nitesh V. Chawla", "Bai Wang"],
-	"booktitle": "KDD",
+	"author": [
+		"Yuxiao Dong",
+		"Jing Zhang",
+		"Jie Tang",
+		"Nitesh V. Chawla",
+		"Bai Wang"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/DongZTCW15",
 	"doi": "10.1145/2783258.2783329",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783329",
 	"pages": "199-208",
 	"publisher": "ACM",
-	"stemmed": ["coupl", "lp", "link", "predict", "in", "coupl", "network"],
-	"tag": ["named", "network", "predict"],
+	"stemmed": [
+		"coupl",
+		"lp",
+		"link",
+		"predict",
+		"in",
+		"coupl",
+		"network"
+	],
+	"tag": [
+		"named",
+		"network",
+		"predict"
+	],
 	"title": "CoupledLP: Link Prediction in Coupled Networks",
 	"type": "inproceedings",
 	"venue": "KDD",

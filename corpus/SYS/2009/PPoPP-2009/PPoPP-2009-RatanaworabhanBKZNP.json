@@ -1,14 +1,31 @@
 {
-	"author": ["Paruj Ratanaworabhan", "Martin Burtscher", "Darko Kirovski", "Benjamin G. Zorn", "Rahul Nagpal", "Karthik Pattabiraman"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Paruj Ratanaworabhan",
+		"Martin Burtscher",
+		"Darko Kirovski",
+		"Benjamin G. Zorn",
+		"Rahul Nagpal",
+		"Karthik Pattabiraman"
+	],
+	"booktitle": "Proceedings of the 14th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2009",
 	"dblpkey": "conf/ppopp/RatanaworabhanBKZNP09",
 	"doi": "10.1145/1504176.1504202",
 	"ee": "http://doi.acm.org/10.1145/1504176.1504202",
 	"pages": "173-184",
 	"publisher": "ACM",
-	"stemmed": ["detect", "and", "toler", "asymmetr", "race"],
-	"tag": ["detection", "symmetry"],
+	"stemmed": [
+		"detect",
+		"and",
+		"toler",
+		"asymmetr",
+		"race"
+	],
+	"tag": [
+		"detection",
+		"symmetry"
+	],
 	"title": "Detecting and tolerating asymmetric races",
 	"type": "inproceedings",
 	"venue": "PPoPP",

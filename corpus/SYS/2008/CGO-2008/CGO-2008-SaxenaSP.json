@@ -1,14 +1,32 @@
 {
-	"author": ["Prateek Saxena", "R. Sekar", "Varun Puranik"],
-	"booktitle": "CGO",
+	"author": [
+		"Prateek Saxena",
+		"R. Sekar",
+		"Varun Puranik"
+	],
+	"booktitle": "Proceedings of the Sixth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2008",
 	"dblpkey": "conf/cgo/SaxenaSP08",
 	"doi": "10.1145/1356058.1356069",
 	"ee": "http://doi.acm.org/10.1145/1356058.1356069",
 	"pages": "74-83",
 	"publisher": "ACM",
-	"stemmed": ["effici", "fine", "grain", "binari", "instrumentationwith", "applic", "to", "taint", "track"],
-	"tag": ["fine-grained", "performance"],
+	"stemmed": [
+		"effici",
+		"fine",
+		"grain",
+		"binari",
+		"instrumentationwith",
+		"applic",
+		"to",
+		"taint",
+		"track"
+	],
+	"tag": [
+		"fine-grained",
+		"performance"
+	],
 	"title": "Efficient fine-grained binary instrumentationwith applications to taint-tracking",
 	"type": "inproceedings",
 	"venue": "CGO",

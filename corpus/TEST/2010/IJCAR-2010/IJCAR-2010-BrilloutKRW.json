@@ -1,6 +1,12 @@
 {
-	"author": ["Angelo Brillout", "Daniel Kröning", "Philipp Rümmer", "Thomas Wahl"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Angelo Brillout",
+		"Daniel Kröning",
+		"Philipp Rümmer",
+		"Thomas Wahl"
+	],
+	"booktitle": "Proceedings of the Fifth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2010",
 	"dblpkey": "conf/cade/BrilloutKRW10",
 	"doi": "10.1007/978-3-642-14203-1_33",
@@ -10,11 +16,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "interpol", "sequent", "calculus", "for", "quantifi", "free", "presburg", "arithmet"],
-	"tag": ["calculus", "quantifier"],
+	"stemmed": [
+		"an",
+		"interpol",
+		"sequent",
+		"calculus",
+		"for",
+		"quantifi",
+		"free",
+		"presburg",
+		"arithmet"
+	],
+	"tag": [
+		"calculus",
+		"quantifier"
+	],
 	"title": "An Interpolating Sequent Calculus for Quantifier-Free Presburger Arithmetic",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 6173,
+	"volume": "6173",
 	"year": 2010
 }

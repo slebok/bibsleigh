@@ -1,6 +1,10 @@
 {
-	"author": ["Viktor Kuncak", "Martin C. Rinard"],
-	"booktitle": "CADE",
+	"author": [
+		"Viktor Kuncak",
+		"Martin C. Rinard"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2007",
 	"dblpkey": "conf/cade/KuncakR07",
 	"doi": "10.1007/978-3-540-73595-3_15",
@@ -10,11 +14,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["toward", "effici", "satisfi", "check", "for", "boolean", "algebra", "with", "presburg", "arithmet"],
-	"tag": ["algebra", "performance", "satisfiability", "towards"],
+	"stemmed": [
+		"toward",
+		"effici",
+		"satisfi",
+		"check",
+		"for",
+		"boolean",
+		"algebra",
+		"with",
+		"presburg",
+		"arithmet"
+	],
+	"tag": [
+		"algebra",
+		"performance",
+		"satisfiability",
+		"towards"
+	],
 	"title": "Towards Efficient Satisfiability Checking for Boolean Algebra with Presburger Arithmetic",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 4603,
+	"volume": "4603",
 	"year": 2007
 }

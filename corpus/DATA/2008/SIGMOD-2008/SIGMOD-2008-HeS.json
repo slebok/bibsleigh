@@ -1,6 +1,9 @@
 {
-	"author": ["Huahai He", "Ambuj K. Singh"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Huahai He",
+		"Ambuj K. Singh"
+	],
+	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2008",
 	"dblpkey": "conf/sigmod/HeS08",
@@ -8,8 +11,27 @@
 	"ee": "http://doi.acm.org/10.1145/1376616.1376660",
 	"pages": "405-418",
 	"publisher": "ACM",
-	"stemmed": ["graph", "at", "a", "time", "queri", "languag", "and", "access", "method", "for", "graph", "databas"],
-	"tag": ["data access", "database", "graph", "named", "query"],
+	"stemmed": [
+		"graph",
+		"at",
+		"a",
+		"time",
+		"queri",
+		"languag",
+		"and",
+		"access",
+		"method",
+		"for",
+		"graph",
+		"databas"
+	],
+	"tag": [
+		"data access",
+		"database",
+		"graph",
+		"named",
+		"query"
+	],
 	"title": "Graphs-at-a-time: query language and access methods for graph databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

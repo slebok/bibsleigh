@@ -1,14 +1,30 @@
 {
-	"author": ["Robin Devooght", "Nicolas Kourtellis", "Amin Mantrach"],
-	"booktitle": "KDD",
+	"author": [
+		"Robin Devooght",
+		"Nicolas Kourtellis",
+		"Amin Mantrach"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/DevooghtKM15",
 	"doi": "10.1145/2783258.2783346",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783346",
 	"pages": "189-198",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "matrix", "factor", "with", "prior", "on", "unknown", "valu"],
-	"tag": ["matrix"],
+	"stemmed": [
+		"dynam",
+		"matrix",
+		"factor",
+		"with",
+		"prior",
+		"on",
+		"unknown",
+		"valu"
+	],
+	"tag": [
+		"matrix"
+	],
 	"title": "Dynamic Matrix Factorization with Priors on Unknown Values",
 	"type": "inproceedings",
 	"venue": "KDD",

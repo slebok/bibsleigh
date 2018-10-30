@@ -1,6 +1,11 @@
 {
-	"author": ["Franz Baader", "Carsten Lutz", "Boontawee Suntisrivaraporn"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Franz Baader",
+		"Carsten Lutz",
+		"Boontawee Suntisrivaraporn"
+	],
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/BaaderLS06",
 	"doi": "10.1007/11814771_25",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["cel", "a", "polynomi", "time", "reason", "for", "life", "scienc", "ontolog"],
-	"tag": ["named", "ontology", "polynomial"],
+	"stemmed": [
+		"cel",
+		"a",
+		"polynomi",
+		"time",
+		"reason",
+		"for",
+		"life",
+		"scienc",
+		"ontolog"
+	],
+	"tag": [
+		"named",
+		"ontology",
+		"polynomial"
+	],
 	"title": "CEL — A Polynomial-Time Reasoner for Life Science Ontologies",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

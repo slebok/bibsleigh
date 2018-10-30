@@ -1,6 +1,14 @@
 {
-	"author": ["Mustafa Badaroglu", "Piet Wambacq", "Geert Van der Plas", "Stéphane Donnay", "Georges G. E. Gielen", "Hugo De Man"],
-	"booktitle": "DATE",
+	"author": [
+		"Mustafa Badaroglu",
+		"Piet Wambacq",
+		"Geert Van der Plas",
+		"Stéphane Donnay",
+		"Georges G. E. Gielen",
+		"Hugo De Man"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/BadarogluWPDGM04",
 	"doi": "10.1109/DATE.2004.1268832",
@@ -8,8 +16,21 @@
 	"pages": "88-93",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["digit", "ground", "bounc", "reduct", "by", "phase", "modul", "of", "the", "clock"],
-	"tag": ["reduction"],
+	"stemmed": [
+		"digit",
+		"ground",
+		"bounc",
+		"reduct",
+		"by",
+		"phase",
+		"modul",
+		"of",
+		"the",
+		"clock"
+	],
+	"tag": [
+		"reduction"
+	],
 	"title": "Digital Ground Bounce Reduction by Phase Modulation of the Clock",
 	"type": "inproceedings",
 	"venue": "DATE",

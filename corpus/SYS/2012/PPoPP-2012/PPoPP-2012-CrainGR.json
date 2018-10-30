@@ -1,13 +1,25 @@
 {
-	"author": ["Tyler Crain", "Vincent Gramoli", "Michel Raynal"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Tyler Crain",
+		"Vincent Gramoli",
+		"Michel Raynal"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/CrainGR12",
 	"doi": "10.1145/2145816.2145837",
 	"ee": "http://doi.acm.org/10.1145/2145816.2145837",
 	"pages": "161-170",
 	"publisher": "ACM",
-	"stemmed": ["a", "specul", "friend", "binari", "search", "tree"],
+	"stemmed": [
+		"a",
+		"specul",
+		"friend",
+		"binari",
+		"search",
+		"tree"
+	],
 	"title": "A speculation-friendly binary search tree",
 	"type": "inproceedings",
 	"venue": "PPoPP",

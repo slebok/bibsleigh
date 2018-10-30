@@ -1,6 +1,12 @@
 {
-	"author": ["Gautier Bideault", "Luc Mioulet", "Clément Chatelain", "Thierry Paquet"],
-	"booktitle": "DRR",
+	"author": [
+		"Gautier Bideault",
+		"Luc Mioulet",
+		"Clément Chatelain",
+		"Thierry Paquet"
+	],
+	"booktitle": "Proceedings of the 22nd Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2015",
 	"dblpkey": "conf/drr/BideaultMCP15",
 	"doi": "10.1117/12.2075796",
@@ -8,11 +14,29 @@
 	"pages": "94020G",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["spot", "handwritten", "word", "and", "regex", "use", "a", "two", "stage", "blstm", "hmm", "architectur"],
-	"tag": ["architecture", "regular expression", "using", "word"],
+	"stemmed": [
+		"spot",
+		"handwritten",
+		"word",
+		"and",
+		"regex",
+		"use",
+		"a",
+		"two",
+		"stage",
+		"blstm",
+		"hmm",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"regular expression",
+		"using",
+		"word"
+	],
 	"title": "Spotting handwritten words and REGEX using a two stage BLSTM-HMM architecture",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 9402,
+	"volume": "9402",
 	"year": 2015
 }

@@ -1,14 +1,37 @@
 {
-	"author": ["Maayan Roth", "Assaf Ben-David", "David Deutscher", "Guy Flysher", "Ilan Horn", "Ari Leichtberg", "Naty Leiser", "Yossi Matias", "Ron Merom"],
-	"booktitle": "KDD",
+	"author": [
+		"Maayan Roth",
+		"Assaf Ben-David",
+		"David Deutscher",
+		"Guy Flysher",
+		"Ilan Horn",
+		"Ari Leichtberg",
+		"Naty Leiser",
+		"Yossi Matias",
+		"Ron Merom"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/RothBDFHLLMM10",
 	"doi": "10.1145/1835804.1835836",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835836",
 	"pages": "233-242",
 	"publisher": "ACM",
-	"stemmed": ["suggest", "friend", "use", "the", "implicit", "social", "graph"],
-	"tag": ["graph", "social", "using"],
+	"stemmed": [
+		"suggest",
+		"friend",
+		"use",
+		"the",
+		"implicit",
+		"social",
+		"graph"
+	],
+	"tag": [
+		"graph",
+		"social",
+		"using"
+	],
 	"title": "Suggesting friends using the implicit social graph",
 	"type": "inproceedings",
 	"venue": "KDD",

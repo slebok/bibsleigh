@@ -1,13 +1,33 @@
 {
-	"author": ["Sanjay Agrawal", "Surajit Chaudhuri", "Vivek R. Narasayya"],
-	"booktitle": "VLDB",
+	"author": [
+		"Sanjay Agrawal",
+		"Surajit Chaudhuri",
+		"Vivek R. Narasayya"
+	],
+	"booktitle": "Proceedings of the 26th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2000",
 	"dblpkey": "conf/vldb/AgrawalCN00",
 	"ee": "http://www.vldb.org/conf/2000/P496.pdf",
 	"pages": "496-505",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["autom", "select", "of", "materi", "view", "and", "index", "in", "sql", "databas"],
-	"tag": ["automation", "database", "sql"],
+	"stemmed": [
+		"autom",
+		"select",
+		"of",
+		"materi",
+		"view",
+		"and",
+		"index",
+		"in",
+		"sql",
+		"databas"
+	],
+	"tag": [
+		"automation",
+		"database",
+		"sql"
+	],
 	"title": "Automated Selection of Materialized Views and Indexes in SQL Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

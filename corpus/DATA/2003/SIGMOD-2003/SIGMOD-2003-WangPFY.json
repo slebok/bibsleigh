@@ -1,6 +1,11 @@
 {
-	"author": ["Haixun Wang", "Sanghyun Park", "Wei Fan", "Philip S. Yu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Haixun Wang",
+		"Sanghyun Park",
+		"Wei Fan",
+		"Philip S. Yu"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/WangPFY03",
@@ -8,8 +13,26 @@
 	"ee": "http://doi.acm.org/10.1145/872757.872774",
 	"pages": "110-121",
 	"publisher": "ACM",
-	"stemmed": ["vi", "st", "a", "dynam", "index", "method", "for", "queri", "xml", "data", "by", "tree", "structur"],
-	"tag": ["named", "query", "xml"],
+	"stemmed": [
+		"vi",
+		"st",
+		"a",
+		"dynam",
+		"index",
+		"method",
+		"for",
+		"queri",
+		"xml",
+		"data",
+		"by",
+		"tree",
+		"structur"
+	],
+	"tag": [
+		"named",
+		"query",
+		"xml"
+	],
 	"title": "ViST: A Dynamic Index Method for Querying XML Data by Tree Structures",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

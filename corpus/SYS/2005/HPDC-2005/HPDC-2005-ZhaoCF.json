@@ -1,15 +1,38 @@
 {
-	"author": ["Ming Zhao", "Vineet Chadha", "Renato J. O. Figueiredo"],
+	"author": [
+		"Ming Zhao",
+		"Vineet Chadha",
+		"Renato J. O. Figueiredo"
+	],
 	"booktitle": "Proceedings of the 14th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2005",
 	"dblpkey": "conf/hpdc/ZhaoCF05",
 	"doi": "10.1109/HPDC.2005.1520930",
-	"ee": ["http://dx.doi.org/10.1109/HPDC.2005.1520930", "http://doi.ieeecomputersociety.org/10.1109/HPDC.2005.1520930"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPDC.2005.1520930",
+		"http://doi.ieeecomputersociety.org/10.1109/HPDC.2005.1520930"
+	],
 	"pages": "24-33",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["support", "applic", "tailor", "grid", "file", "system", "session", "with", "wsrf", "base", "servic"],
-	"tag": ["file system", "grid"],
+	"stemmed": [
+		"support",
+		"applic",
+		"tailor",
+		"grid",
+		"file",
+		"system",
+		"session",
+		"with",
+		"wsrf",
+		"base",
+		"servic"
+	],
+	"tag": [
+		"file system",
+		"grid"
+	],
 	"title": "Supporting application-tailored grid file system sessions with WSRF-based services",
 	"type": "inproceedings",
 	"venue": "HPDC",

@@ -1,6 +1,11 @@
 {
-	"author": ["Ahmad Ghazal", "Dawit Yimam Seid", "Alain Crolotte", "Mohammed Al-Kateb"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ahmad Ghazal",
+		"Dawit Yimam Seid",
+		"Alain Crolotte",
+		"Mohammed Al-Kateb"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/GhazalSCA12",
@@ -8,8 +13,21 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213966",
 	"pages": "851-860",
 	"publisher": "ACM",
-	"stemmed": ["adapt", "optim", "of", "recurs", "queri", "in", "teradata"],
-	"tag": ["adaptation", "optimisation", "query", "recursion"],
+	"stemmed": [
+		"adapt",
+		"optim",
+		"of",
+		"recurs",
+		"queri",
+		"in",
+		"teradata"
+	],
+	"tag": [
+		"adaptation",
+		"optimisation",
+		"query",
+		"recursion"
+	],
 	"title": "Adaptive optimizations of recursive queries in teradata",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

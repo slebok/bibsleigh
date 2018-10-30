@@ -1,6 +1,9 @@
 {
-	"author": ["Michael J. Steindorfer", "Jurgen J. Vinju"],
-	"booktitle": "Proceedings of the 13th International Conference on Generative Programming: Concepts & Experiences",
+	"author": [
+		"Michael J. Steindorfer",
+		"Jurgen J. Vinju"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Generative Programming: Concepts and Experiences",
 	"booktitleshort": "GPCE",
 	"crossref": "conf/gpce/2014",
 	"dblpkey": "conf/gpce/SteindorferV14",
@@ -8,8 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/2658761.2658763",
 	"pages": "11-14",
 	"publisher": "ACM",
-	"stemmed": ["code", "special", "for", "memori", "effici", "hash", "tri", "short", "paper"],
-	"tag": ["memory management", "performance"],
+	"stemmed": [
+		"code",
+		"special",
+		"for",
+		"memori",
+		"effici",
+		"hash",
+		"tri",
+		"short",
+		"paper"
+	],
+	"tag": [
+		"memory management",
+		"performance"
+	],
 	"title": "Code specialization for memory efficient hash tries (short paper)",
 	"type": "inproceedings",
 	"venue": "GPCE",

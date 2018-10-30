@@ -1,6 +1,10 @@
 {
-	"author": ["Jun Rao", "Hamid Pirahesh", "Calisto Zuzarte"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jun Rao",
+		"Hamid Pirahesh",
+		"Calisto Zuzarte"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/RaoPZ04",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/1007568.1007643",
 	"pages": "671-682",
 	"publisher": "ACM",
-	"stemmed": ["canon", "abstract", "for", "outerjoin", "optim"],
-	"tag": ["abstraction", "canonical", "optimisation"],
+	"stemmed": [
+		"canon",
+		"abstract",
+		"for",
+		"outerjoin",
+		"optim"
+	],
+	"tag": [
+		"abstraction",
+		"canonical",
+		"optimisation"
+	],
 	"title": "Canonical Abstraction for Outerjoin Optimization",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

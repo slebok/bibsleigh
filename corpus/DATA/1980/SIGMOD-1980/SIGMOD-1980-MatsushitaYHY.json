@@ -1,16 +1,45 @@
 {
-	"author": ["Yutaka Matsushita", "Haruaki Yamazaki", "Sadayuki Hikita", "Isamu Yoshida"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yutaka Matsushita",
+		"Haruaki Yamazaki",
+		"Sadayuki Hikita",
+		"Isamu Yoshida"
+	],
+	"booktitle": "Proceedings of the 10th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD80/P117.PDF",
-	"cite": ["conf/vldb/RothnieG77", "conf/berkeley/StonebrakerN77", "conf/berkeley/RothnieG77", "...", "journals/tse/BernsteinRGP78", "journals/tods/Thomas79", "..."],
+	"cite": [
+		"conf/vldb/RothnieG77",
+		"conf/berkeley/StonebrakerN77",
+		"conf/berkeley/RothnieG77",
+		"...",
+		"journals/tse/BernsteinRGP78",
+		"journals/tods/Thomas79",
+		"..."
+	],
 	"crossref": "conf/sigmod/80",
 	"dblpkey": "conf/sigmod/MatsushitaYHY80",
 	"doi": "10.1145/582250.582269",
 	"ee": "http://doi.acm.org/10.1145/582250.582269",
 	"pages": "117-124",
 	"publisher": "ACM Press",
-	"stemmed": ["cost", "evalu", "of", "directori", "manag", "scheme", "for", "distribut", "databas", "system"],
-	"tag": ["database", "distributed", "evaluation"],
+	"stemmed": [
+		"cost",
+		"evalu",
+		"of",
+		"directori",
+		"manag",
+		"scheme",
+		"for",
+		"distribut",
+		"databas",
+		"system"
+	],
+	"tag": [
+		"database",
+		"distributed",
+		"evaluation"
+	],
 	"title": "Cost Evaluation of Directory Management Schemes for Distributed Database Systems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

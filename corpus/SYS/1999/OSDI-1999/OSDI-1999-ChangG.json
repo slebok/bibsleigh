@@ -1,14 +1,31 @@
 {
-	"author": ["Fay W. Chang", "Garth A. Gibson"],
-	"booktitle": "OSDI",
+	"author": [
+		"Fay W. Chang",
+		"Garth A. Gibson"
+	],
+	"booktitle": "Proceedings of the Third Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/1999",
 	"dblpkey": "conf/osdi/ChangG99",
 	"doi": "10.1145/296806.296807",
 	"ee": "http://doi.acm.org/10.1145/296806.296807",
 	"pages": "1-14",
 	"publisher": "USENIX Association",
-	"stemmed": ["automat", "i", "o", "hint", "generat", "through", "specul", "execut"],
-	"tag": ["automation", "execution", "generative"],
+	"stemmed": [
+		"automat",
+		"i",
+		"o",
+		"hint",
+		"generat",
+		"through",
+		"specul",
+		"execut"
+	],
+	"tag": [
+		"automation",
+		"execution",
+		"generative"
+	],
 	"title": "Automatic I/O Hint Generation Through Speculative Execution",
 	"type": "inproceedings",
 	"venue": "OSDI",

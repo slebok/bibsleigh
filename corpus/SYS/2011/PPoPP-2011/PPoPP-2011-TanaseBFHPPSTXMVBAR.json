@@ -1,14 +1,39 @@
 {
-	"author": ["Gabriel Tanase", "Antal A. Buss", "Adam Fidel", "Harshvardhan", "Ioannis Papadopoulos", "Olga Pearce", "Timmie G. Smith", "Nathan Thomas", "Xiabing Xu", "Nedal Mourad", "Jeremy Vu", "Mauro Bianco", "Nancy M. Amato", "Lawrence Rauchwerger"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Gabriel Tanase",
+		"Antal A. Buss",
+		"Adam Fidel",
+		"Harshvardhan",
+		"Ioannis Papadopoulos",
+		"Olga Pearce",
+		"Timmie G. Smith",
+		"Nathan Thomas",
+		"Xiabing Xu",
+		"Nedal Mourad",
+		"Jeremy Vu",
+		"Mauro Bianco",
+		"Nancy M. Amato",
+		"Lawrence Rauchwerger"
+	],
+	"booktitle": "Proceedings of the 16th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2011",
 	"dblpkey": "conf/ppopp/TanaseBFHPPSTXMVBAR11",
 	"doi": "10.1145/1941553.1941586",
 	"ee": "http://doi.acm.org/10.1145/1941553.1941586",
 	"pages": "235-246",
 	"publisher": "ACM",
-	"stemmed": ["the", "stapl", "parallel", "contain", "framework"],
-	"tag": ["framework", "parallel"],
+	"stemmed": [
+		"the",
+		"stapl",
+		"parallel",
+		"contain",
+		"framework"
+	],
+	"tag": [
+		"framework",
+		"parallel"
+	],
 	"title": "The STAPL parallel container framework",
 	"type": "inproceedings",
 	"venue": "PPoPP",

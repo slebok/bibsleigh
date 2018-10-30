@@ -1,6 +1,12 @@
 {
-	"author": ["Nicolas Anciaux", "Mehdi Benzine", "Luc Bouganim", "Philippe Pucheral", "Dennis Shasha"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Nicolas Anciaux",
+		"Mehdi Benzine",
+		"Luc Bouganim",
+		"Philippe Pucheral",
+		"Dennis Shasha"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/AnciauxBBPS07",
@@ -8,8 +14,21 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247555",
 	"pages": "677-688",
 	"publisher": "ACM",
-	"stemmed": ["ghost", "db", "queri", "visibl", "and", "hidden", "data", "without", "leak"],
-	"tag": ["named", "query"],
+	"stemmed": [
+		"ghost",
+		"db",
+		"queri",
+		"visibl",
+		"and",
+		"hidden",
+		"data",
+		"without",
+		"leak"
+	],
+	"tag": [
+		"named",
+		"query"
+	],
 	"title": "GhostDB: querying visible and hidden data without leaks",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

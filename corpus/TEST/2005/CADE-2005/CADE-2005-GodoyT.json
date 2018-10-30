@@ -1,6 +1,10 @@
 {
-	"author": ["Guillem Godoy", "Ashish Tiwari"],
-	"booktitle": "CADE",
+	"author": [
+		"Guillem Godoy",
+		"Ashish Tiwari"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2005",
 	"dblpkey": "conf/cade/GodoyT05",
 	"doi": "10.1007/11532231_12",
@@ -10,11 +14,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["termin", "of", "rewrit", "system", "with", "shallow", "right", "linear", "collaps", "and", "right", "ground", "rule"],
-	"tag": ["linear", "term rewriting", "termination"],
+	"stemmed": [
+		"termin",
+		"of",
+		"rewrit",
+		"system",
+		"with",
+		"shallow",
+		"right",
+		"linear",
+		"collaps",
+		"and",
+		"right",
+		"ground",
+		"rule"
+	],
+	"tag": [
+		"linear",
+		"term rewriting",
+		"termination"
+	],
 	"title": "Termination of Rewrite Systems with Shallow Right-Linear, Collapsing, and Right-Ground Rules",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 3632,
+	"volume": "3632",
 	"year": 2005
 }

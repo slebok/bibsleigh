@@ -1,14 +1,37 @@
 {
-	"author": ["Qing'an Li", "Mengying Zhao", "Chun Jason Xue", "Yanxiang He"],
-	"booktitle": "LCTES",
+	"author": [
+		"Qing'an Li",
+		"Mengying Zhao",
+		"Chun Jason Xue",
+		"Yanxiang He"
+	],
+	"booktitle": "Proceedings of the 13th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2012",
 	"dblpkey": "conf/lctrts/LiZXH12",
 	"doi": "10.1145/2248418.2248434",
 	"ee": "http://doi.acm.org/10.1145/2248418.2248434",
 	"pages": "109-118",
 	"publisher": "ACM",
-	"stemmed": ["compil", "assist", "prefer", "cach", "for", "embed", "system", "with", "stt", "ram", "base", "hybrid", "cach"],
-	"tag": ["embedded", "hybrid"],
+	"stemmed": [
+		"compil",
+		"assist",
+		"prefer",
+		"cach",
+		"for",
+		"embed",
+		"system",
+		"with",
+		"stt",
+		"ram",
+		"base",
+		"hybrid",
+		"cach"
+	],
+	"tag": [
+		"embedded",
+		"hybrid"
+	],
 	"title": "Compiler-assisted preferred caching for embedded systems with STT-RAM based hybrid cache",
 	"type": "inproceedings",
 	"venue": "LCTES",

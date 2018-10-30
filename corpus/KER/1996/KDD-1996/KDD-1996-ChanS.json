@@ -1,13 +1,32 @@
 {
-	"author": ["Philip K. Chan", "Salvatore J. Stolfo"],
-	"booktitle": "KDD",
+	"author": [
+		"Philip K. Chan",
+		"Salvatore J. Stolfo"
+	],
+	"booktitle": "Proceedings of the Second International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1996",
 	"dblpkey": "conf/kdd/ChanS96",
 	"ee": "http://www.aaai.org/Library/KDD/1996/kdd96-001.php",
 	"pages": "2-7",
 	"publisher": "AAAI Press",
-	"stemmed": ["share", "learn", "model", "among", "remot", "databas", "partit", "by", "local", "meta", "learn"],
-	"tag": ["database", "modelling"],
+	"stemmed": [
+		"share",
+		"learn",
+		"model",
+		"among",
+		"remot",
+		"databas",
+		"partit",
+		"by",
+		"local",
+		"meta",
+		"learn"
+	],
+	"tag": [
+		"database",
+		"modelling"
+	],
 	"title": "Sharing Learned Models among Remote Database Partitions by Local Meta-Learning",
 	"type": "inproceedings",
 	"venue": "KDD",

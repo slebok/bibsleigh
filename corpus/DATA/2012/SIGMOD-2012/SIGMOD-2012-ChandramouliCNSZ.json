@@ -1,6 +1,12 @@
 {
-	"author": ["Badrish Chandramouli", "Joris Claessens", "Suman Nath", "Ivo Santos", "Wenchao Zhou"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Badrish Chandramouli",
+		"Joris Claessens",
+		"Suman Nath",
+		"Ivo Santos",
+		"Wenchao Zhou"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/ChandramouliCNSZ12",
@@ -8,8 +14,19 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213916",
 	"pages": "625-628",
 	"publisher": "ACM",
-	"stemmed": ["race", "real", "time", "applic", "over", "cloud", "edg"],
-	"tag": ["named", "realtime"],
+	"stemmed": [
+		"race",
+		"real",
+		"time",
+		"applic",
+		"over",
+		"cloud",
+		"edg"
+	],
+	"tag": [
+		"named",
+		"realtime"
+	],
 	"title": "RACE: real-time applications over cloud-edge",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

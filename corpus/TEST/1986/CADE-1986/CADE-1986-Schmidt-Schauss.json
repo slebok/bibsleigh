@@ -1,6 +1,7 @@
 {
 	"author": "Manfred Schmidt-Schauß",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Schmidt-Schauss86",
 	"doi": "10.1007/3-540-16780-3_118",
@@ -10,11 +11,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["unif", "in", "mani", "sort", "eqat", "theori"],
-	"tag": ["unification"],
+	"stemmed": [
+		"unif",
+		"in",
+		"mani",
+		"sort",
+		"eqat",
+		"theori"
+	],
+	"tag": [
+		"unification"
+	],
 	"title": "Unification in Many-Sorted Eqational Theories",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

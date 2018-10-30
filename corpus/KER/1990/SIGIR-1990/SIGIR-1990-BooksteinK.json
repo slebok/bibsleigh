@@ -1,6 +1,10 @@
 {
-	"author": ["Abraham Bookstein", "Shmuel T. Klein"],
+	"author": [
+		"Abraham Bookstein",
+		"Shmuel T. Klein"
+	],
 	"booktitle": "Proceedings of the 13th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1990/P327.pdf",
 	"crossref": "conf/sigir/90",
 	"dblpkey": "conf/sigir/BooksteinK90",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/96749.98236",
 	"pages": "327-342",
 	"publisher": "ACM",
-	"stemmed": ["construct", "of", "optim", "graph", "for", "bit", "vector", "compress"],
-	"tag": ["graph"],
+	"stemmed": [
+		"construct",
+		"of",
+		"optim",
+		"graph",
+		"for",
+		"bit",
+		"vector",
+		"compress"
+	],
+	"tag": [
+		"graph"
+	],
 	"title": "Construction of Optimal Graphs for Bit-Vector Compression",
 	"type": "inproceedings",
 	"venue": "SIGIR",

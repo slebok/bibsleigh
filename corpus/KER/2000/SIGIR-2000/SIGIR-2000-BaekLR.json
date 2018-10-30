@@ -1,13 +1,30 @@
 {
-	"author": ["Dae-Ho Baek", "Heui-Seok Lim", "Hae-Chang Rim"],
+	"author": [
+		"Dae-Ho Baek",
+		"Heui-Seok Lim",
+		"Hae-Chang Rim"
+	],
 	"booktitle": "Proceedings of the 23rd International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"dblpkey": "conf/sigir/BaekLR00",
 	"doi": "10.1145/345508.345612",
 	"ee": "http://doi.acm.org/10.1145/345508.345612",
 	"pages": "310-312",
 	"publisher": "ACM",
-	"stemmed": ["latent", "semant", "index", "model", "for", "boolean", "queri", "formul"],
-	"tag": ["query", "semantics"],
+	"stemmed": [
+		"latent",
+		"semant",
+		"index",
+		"model",
+		"for",
+		"boolean",
+		"queri",
+		"formul"
+	],
+	"tag": [
+		"query",
+		"semantics"
+	],
 	"title": "Latent semantic indexing model for boolean query formulation",
 	"type": "inproceedings",
 	"venue": "SIGIR",

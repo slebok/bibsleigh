@@ -1,6 +1,10 @@
 {
-	"author": ["Giuseppe De Giacomo", "Fabio Massacci"],
-	"booktitle": "CADE",
+	"author": [
+		"Giuseppe De Giacomo",
+		"Fabio Massacci"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/GiacomoM96",
 	"doi": "10.1007/3-540-61511-3_117",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["tableaux", "and", "algorithm", "for", "proposit", "dynam", "logic", "with", "convers"],
-	"tag": ["algorithm", "logic"],
+	"stemmed": [
+		"tableaux",
+		"and",
+		"algorithm",
+		"for",
+		"proposit",
+		"dynam",
+		"logic",
+		"with",
+		"convers"
+	],
+	"tag": [
+		"algorithm",
+		"logic"
+	],
 	"title": "Tableaux and Algorithms for Propositional Dynamic Logic with Converse",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

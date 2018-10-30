@@ -1,14 +1,35 @@
 {
-	"author": ["Chen Wang", "Wei Wang", "Jian Pei", "Yongtai Zhu", "Baile Shi"],
-	"booktitle": "KDD",
+	"author": [
+		"Chen Wang",
+		"Wei Wang",
+		"Jian Pei",
+		"Yongtai Zhu",
+		"Baile Shi"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2004",
 	"dblpkey": "conf/kdd/WangWPZS04",
 	"doi": "10.1145/1014052.1014088",
 	"ee": "http://doi.acm.org/10.1145/1014052.1014088",
 	"pages": "316-325",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "mine", "of", "larg", "disk", "base", "graph", "databas"],
-	"tag": ["database", "graph", "mining", "scalability"],
+	"stemmed": [
+		"scalabl",
+		"mine",
+		"of",
+		"larg",
+		"disk",
+		"base",
+		"graph",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"graph",
+		"mining",
+		"scalability"
+	],
 	"title": "Scalable mining of large disk-based graph databases",
 	"type": "inproceedings",
 	"venue": "KDD",

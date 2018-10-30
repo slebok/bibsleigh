@@ -1,6 +1,7 @@
 {
 	"author": "Uwe Egly",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 18th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2002",
 	"dblpkey": "conf/cade/Egly02",
 	"doi": "10.1007/3-540-45620-1_6",
@@ -10,11 +11,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["embed", "lax", "logic", "into", "intuitionist", "logic"],
-	"tag": ["logic"],
+	"stemmed": [
+		"embed",
+		"lax",
+		"logic",
+		"into",
+		"intuitionist",
+		"logic"
+	],
+	"tag": [
+		"logic"
+	],
 	"title": "Embedding Lax Logic into Intuitionistic Logic",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2392,
+	"volume": "2392",
 	"year": 2002
 }

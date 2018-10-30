@@ -1,13 +1,33 @@
 {
-	"acmid": 800657,
-	"author": ["Zeev Barzilai", "Leendert M. Huisman", "Gabriel M. Silberman", "Donald T. Tang", "Lin S. Woo"],
-	"booktitle": "DAC",
+	"acmid": "800657",
+	"author": [
+		"Zeev Barzilai",
+		"Leendert M. Huisman",
+		"Gabriel M. Silberman",
+		"Donald T. Tang",
+		"Lin S. Woo"
+	],
+	"booktitle": "Proceedings of the 20th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1983",
 	"dblpkey": "conf/dac/BarzilaiHSTW83",
 	"pages": "157-163",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["simul", "pass", "transistor", "circuit", "use", "logic", "simul", "machin"],
-	"tag": ["logic", "simulation", "using"],
+	"stemmed": [
+		"simul",
+		"pass",
+		"transistor",
+		"circuit",
+		"use",
+		"logic",
+		"simul",
+		"machin"
+	],
+	"tag": [
+		"logic",
+		"simulation",
+		"using"
+	],
 	"title": "Simulating pass transistor circuits using logic simulation machines",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,28 @@
 {
-	"acmid": 1164238,
-	"author": ["Bogdan Alexe", "Laura Chiticariu", "Wang Chiew Tan"],
-	"booktitle": "VLDB",
+	"acmid": "1164238",
+	"author": [
+		"Bogdan Alexe",
+		"Laura Chiticariu",
+		"Wang Chiew Tan"
+	],
+	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
 	"dblpkey": "conf/vldb/AlexeCT06",
 	"ee": "http://www.vldb.org/conf/2006/p1179-alexe.pdf",
 	"pages": "1179-1182",
 	"publisher": "ACM",
-	"stemmed": ["spider", "a", "schema", "map", "debugg"],
-	"tag": ["debugging", "named"],
+	"stemmed": [
+		"spider",
+		"a",
+		"schema",
+		"map",
+		"debugg"
+	],
+	"tag": [
+		"debugging",
+		"named"
+	],
 	"title": "SPIDER: a Schema mapPIng DEbuggeR",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,10 @@
 {
-	"author": ["Young-Su Kwon", "Chong-Min Kyung"],
-	"booktitle": "DATE",
+	"author": [
+		"Young-Su Kwon",
+		"Chong-Min Kyung"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/KwonK04",
 	"doi": "10.1109/DATE.2004.1268923",
@@ -8,8 +12,23 @@
 	"pages": "670-671",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["function", "coverag", "metric", "generat", "from", "tempor", "event", "relat", "graph"],
-	"tag": ["functional", "generative", "graph", "metric"],
+	"stemmed": [
+		"function",
+		"coverag",
+		"metric",
+		"generat",
+		"from",
+		"tempor",
+		"event",
+		"relat",
+		"graph"
+	],
+	"tag": [
+		"functional",
+		"generative",
+		"graph",
+		"metric"
+	],
 	"title": "Functional Coverage Metric Generation from Temporal Event Relation Graph",
 	"type": "inproceedings",
 	"venue": "DATE",

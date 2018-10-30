@@ -1,6 +1,13 @@
 {
-	"author": ["David Garlan", "Alan W. Brown", "Daniel Jackson", "James E. Tomayko", "Jeannette M. Wing"],
-	"booktitle": "CSEE",
+	"author": [
+		"David Garlan",
+		"Alan W. Brown",
+		"Daniel Jackson",
+		"James E. Tomayko",
+		"Jeannette M. Wing"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Software Engineering Education and Training",
+	"booktitleshort": "CSEE",
 	"crossref": "conf/csee/1995",
 	"dblpkey": "conf/csee/GarlanBJTW95",
 	"doi": "10.1007/3-540-58951-1_93",
@@ -9,11 +16,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "cmu", "master", "of", "softwar", "engin", "core", "curriculum"],
-	"tag": ["education", "re-engineering"],
+	"stemmed": [
+		"the",
+		"cmu",
+		"master",
+		"of",
+		"softwar",
+		"engin",
+		"core",
+		"curriculum"
+	],
+	"tag": [
+		"education",
+		"re-engineering"
+	],
 	"title": "The CMU Master of Software Engineering Core Curriculum",
 	"type": "inproceedings",
 	"venue": "CSEET",
-	"volume": 895,
+	"volume": "895",
 	"year": 1995
 }

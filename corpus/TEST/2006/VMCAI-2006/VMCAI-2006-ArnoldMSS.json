@@ -1,6 +1,12 @@
 {
-	"author": ["Gilad Arnold", "Roman Manevich", "Mooly Sagiv", "Ran Shaham"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Gilad Arnold",
+		"Roman Manevich",
+		"Mooly Sagiv",
+		"Ran Shaham"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2006",
 	"dblpkey": "conf/vmcai/ArnoldMSS06",
 	"doi": "10.1007/11609773_3",
@@ -10,11 +16,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["combin", "shape", "analys", "by", "intersect", "abstract"],
-	"tag": ["abstraction", "analysis"],
+	"stemmed": [
+		"combin",
+		"shape",
+		"analys",
+		"by",
+		"intersect",
+		"abstract"
+	],
+	"tag": [
+		"abstraction",
+		"analysis"
+	],
 	"title": "Combining Shape Analyses by Intersecting Abstractions",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3855,
+	"volume": "3855",
 	"year": 2006
 }

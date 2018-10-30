@@ -1,13 +1,27 @@
 {
-	"author": ["Jinyuan Li", "Maxwell N. Krohn", "David Mazières", "Dennis Shasha"],
-	"booktitle": "OSDI",
+	"author": [
+		"Jinyuan Li",
+		"Maxwell N. Krohn",
+		"David Mazières",
+		"Dennis Shasha"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2004",
 	"dblpkey": "conf/osdi/LiKMS04",
 	"ee": "http://www.usenix.org/events/osdi04/tech/li_j.html",
 	"pages": "121-136",
 	"publisher": "USENIX Association",
-	"stemmed": ["secur", "untrust", "data", "repositori", "sundr"],
-	"tag": ["repository"],
+	"stemmed": [
+		"secur",
+		"untrust",
+		"data",
+		"repositori",
+		"sundr"
+	],
+	"tag": [
+		"repository"
+	],
 	"title": "Secure Untrusted Data Repository (SUNDR)",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,6 +1,7 @@
 {
 	"author": "Etienne Paul",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Seventh International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1984",
 	"dblpkey": "conf/cade/Paul84",
 	"doi": "10.1007/BFb0047130",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "new", "interpret", "of", "the", "resolut", "principl"],
-	"tag": ["principle"],
+	"stemmed": [
+		"a",
+		"new",
+		"interpret",
+		"of",
+		"the",
+		"resolut",
+		"principl"
+	],
+	"tag": [
+		"principle"
+	],
 	"title": "A New Interpretation of the Resolution Principle",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 170,
+	"volume": "170",
 	"year": 1984
 }

@@ -1,6 +1,10 @@
 {
-	"author": ["Edie M. Rasmussen", "Peter Willett"],
+	"author": [
+		"Edie M. Rasmussen",
+		"Peter Willett"
+	],
 	"booktitle": "Proceedings of the 10th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1987/P132.pdf",
 	"crossref": "conf/sigir/87",
 	"dblpkey": "conf/sigir/RasmussenW87",
@@ -8,8 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/42005.42020",
 	"pages": "132-139",
 	"publisher": "ACM",
-	"stemmed": ["non", "hierarch", "document", "cluster", "use", "the", "icl", "distribut", "array", "processor"],
-	"tag": ["array", "clustering", "distributed", "documentation", "using"],
+	"stemmed": [
+		"non",
+		"hierarch",
+		"document",
+		"cluster",
+		"use",
+		"the",
+		"icl",
+		"distribut",
+		"array",
+		"processor"
+	],
+	"tag": [
+		"array",
+		"clustering",
+		"distributed",
+		"documentation",
+		"using"
+	],
 	"title": "Non-Hierarchic Document Clustering Using the ICL Distributed Array Processor",
 	"type": "inproceedings",
 	"venue": "SIGIR",

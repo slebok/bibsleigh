@@ -1,6 +1,6 @@
 {
 	"author": "David M. Nicol",
-	"booktitle": "PPOPP/PPEALS",
+	"booktitle": "Proceedings of the First Symposium on Parallel Programming: Experience with Applications, Languages and Systems",
 	"booktitleshort": "PPEALS",
 	"crossref": "conf/ppopp/1988",
 	"dblpkey": "conf/ppopp/Nicol88",
@@ -8,8 +8,23 @@
 	"ee": "http://doi.acm.org/10.1145/62115.62128",
 	"pages": "124-137",
 	"publisher": "ACM",
-	"stemmed": ["parallel", "discret", "event", "simul", "of", "fcfs", "stochast", "queu", "network"],
-	"tag": ["network", "parallel", "probability", "simulation"],
+	"stemmed": [
+		"parallel",
+		"discret",
+		"event",
+		"simul",
+		"of",
+		"fcfs",
+		"stochast",
+		"queu",
+		"network"
+	],
+	"tag": [
+		"network",
+		"parallel",
+		"probability",
+		"simulation"
+	],
 	"title": "Parallel Discrete-Event Simulation Of FCFS Stochastic Queuing Networks",
 	"type": "inproceedings",
 	"venue": "PPoPP",

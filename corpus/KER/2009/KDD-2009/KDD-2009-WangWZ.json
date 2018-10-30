@@ -1,14 +1,36 @@
 {
-	"author": ["Kuansan Wang", "Toby Walker", "Zijian Zheng"],
-	"booktitle": "KDD",
+	"author": [
+		"Kuansan Wang",
+		"Toby Walker",
+		"Zijian Zheng"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/WangWZ09",
 	"doi": "10.1145/1557019.1557164",
 	"ee": "http://doi.acm.org/10.1145/1557019.1557164",
 	"pages": "1355-1364",
 	"publisher": "ACM",
-	"stemmed": ["p", "skip", "estim", "relev", "rank", "qualiti", "from", "web", "search", "clickthrough", "data"],
-	"tag": ["named", "quality", "ranking", "web"],
+	"stemmed": [
+		"p",
+		"skip",
+		"estim",
+		"relev",
+		"rank",
+		"qualiti",
+		"from",
+		"web",
+		"search",
+		"clickthrough",
+		"data"
+	],
+	"tag": [
+		"named",
+		"quality",
+		"ranking",
+		"web"
+	],
 	"title": "PSkip: estimating relevance ranking quality from web search clickthrough data",
 	"type": "inproceedings",
 	"venue": "KDD",

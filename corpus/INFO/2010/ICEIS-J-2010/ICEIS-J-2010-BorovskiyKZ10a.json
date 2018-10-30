@@ -1,6 +1,11 @@
 {
-	"author": ["Vadym Borovskiy", "Wolfgang Koch", "Alexander Zeier"],
-	"booktitle": "ICEIS",
+	"author": [
+		"Vadym Borovskiy",
+		"Wolfgang Koch",
+		"Alexander Zeier"
+	],
+	"booktitle": "Revised Selected Papers of the 12th International Conference on Enterprise Information Systems",
+	"booktitleshort": "Post-ICEIS",
 	"crossref": "conf/iceis/2010",
 	"dblpkey": "conf/iceis/BorovskiyKZ10a",
 	"doi": "10.1007/978-3-642-19802-1_10",
@@ -10,11 +15,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Business Information Processing",
 	"seriesshort": "LNBIP",
-	"stemmed": ["busi", "object", "queri", "languag", "as", "data", "access", "api", "in", "erp", "system"],
-	"tag": ["api", "data access", "enterprise", "query"],
+	"stemmed": [
+		"busi",
+		"object",
+		"queri",
+		"languag",
+		"as",
+		"data",
+		"access",
+		"api",
+		"in",
+		"erp",
+		"system"
+	],
+	"tag": [
+		"api",
+		"data access",
+		"enterprise",
+		"query"
+	],
 	"title": "Business Object Query Language as Data Access API in ERP Systems",
 	"type": "inproceedings",
 	"venue": "ICEIS",
-	"volume": 73,
+	"volume": "73",
 	"year": 2010
 }

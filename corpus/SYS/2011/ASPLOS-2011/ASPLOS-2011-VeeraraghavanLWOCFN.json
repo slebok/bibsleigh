@@ -1,14 +1,33 @@
 {
-	"author": ["Kaushik Veeraraghavan", "Dongyoon Lee", "Benjamin Wester", "Jessica Ouyang", "Peter M. Chen", "Jason Flinn", "Satish Narayanasamy"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Kaushik Veeraraghavan",
+		"Dongyoon Lee",
+		"Benjamin Wester",
+		"Jessica Ouyang",
+		"Peter M. Chen",
+		"Jason Flinn",
+		"Satish Narayanasamy"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2011",
 	"dblpkey": "conf/asplos/VeeraraghavanLWOCFN11",
 	"doi": "10.1145/1950365.1950370",
 	"ee": "http://doi.acm.org/10.1145/1950365.1950370",
 	"pages": "15-26",
 	"publisher": "ACM",
-	"stemmed": ["doubl", "play", "parallel", "sequenti", "log", "and", "replay"],
-	"tag": ["named"],
+	"stemmed": [
+		"doubl",
+		"play",
+		"parallel",
+		"sequenti",
+		"log",
+		"and",
+		"replay"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "DoublePlay: parallelizing sequential logging and replay",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

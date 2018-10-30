@@ -1,6 +1,10 @@
 {
-	"author": ["Francisco Durán", "José Meseguer"],
-	"booktitle": "WRLA",
+	"author": [
+		"Francisco Durán",
+		"José Meseguer"
+	],
+	"booktitle": "Revised Selected Papers of the Eighth International Workshop on Rewriting Logic and its Applications",
+	"booktitleshort": "WRLA",
 	"crossref": "conf/wrla/2010",
 	"dblpkey": "conf/wrla/DuranM10a",
 	"doi": "10.1007/978-3-642-16310-4_7",
@@ -10,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "maud", "coher", "checker", "tool", "for", "condit", "order", "sort", "rewrit", "theori"],
-	"tag": ["maude", "order"],
+	"stemmed": [
+		"a",
+		"maud",
+		"coher",
+		"checker",
+		"tool",
+		"for",
+		"condit",
+		"order",
+		"sort",
+		"rewrit",
+		"theori"
+	],
+	"tag": [
+		"maude",
+		"order"
+	],
 	"title": "A Maude Coherence Checker Tool for Conditional Order-Sorted Rewrite Theories",
 	"type": "inproceedings",
 	"venue": "WRLA",
-	"volume": 6381,
+	"volume": "6381",
 	"year": 2010
 }

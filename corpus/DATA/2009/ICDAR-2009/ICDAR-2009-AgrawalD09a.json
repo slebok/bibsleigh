@@ -1,15 +1,38 @@
 {
-	"author": ["Mudit Agrawal", "David S. Doermann"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Mudit Agrawal",
+		"David S. Doermann"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2009",
 	"dblpkey": "conf/icdar/AgrawalD09a",
 	"doi": "10.1109/ICDAR.2009.270",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2009.270", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2009.270"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2009.270",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2009.270"
+	],
 	"pages": "1011-1015",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["voronoi", "a", "dynam", "page", "segment", "approach", "base", "on", "voronoi", "and", "docstrum", "featur"],
-	"tag": ["approach", "segmentation"],
+	"stemmed": [
+		"voronoi",
+		"a",
+		"dynam",
+		"page",
+		"segment",
+		"approach",
+		"base",
+		"on",
+		"voronoi",
+		"and",
+		"docstrum",
+		"featur"
+	],
+	"tag": [
+		"approach",
+		"segmentation"
+	],
 	"title": "Voronoi++: A Dynamic Page Segmentation Approach Based on Voronoi and Docstrum Features",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,15 +1,33 @@
 {
-	"author": ["Craig Anderson", "Anna R. Karlin"],
-	"booktitle": "HPCA",
+	"author": [
+		"Craig Anderson",
+		"Anna R. Karlin"
+	],
+	"booktitle": "Proceedings of the Second International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1996",
 	"dblpkey": "conf/hpca/AndersonK96",
 	"doi": "10.1109/HPCA.1996.501195",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1996.501195", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1996.501195"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1996.501195",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1996.501195"
+	],
 	"pages": "303-313",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["two", "adapt", "hybrid", "cach", "coher", "protocol"],
-	"tag": ["adaptation", "hybrid", "protocol"],
+	"stemmed": [
+		"two",
+		"adapt",
+		"hybrid",
+		"cach",
+		"coher",
+		"protocol"
+	],
+	"tag": [
+		"adaptation",
+		"hybrid",
+		"protocol"
+	],
 	"title": "Two Adaptive Hybrid Cache Coherency Protocols",
 	"type": "inproceedings",
 	"venue": "HPCA",

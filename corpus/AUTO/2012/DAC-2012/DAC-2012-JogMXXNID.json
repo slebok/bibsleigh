@@ -1,14 +1,39 @@
 {
-	"author": ["Adwait Jog", "Asit K. Mishra", "Cong Xu", "Yuan Xie", "Vijaykrishnan Narayanan", "Ravishankar Iyer", "Chita R. Das"],
-	"booktitle": "DAC",
+	"author": [
+		"Adwait Jog",
+		"Asit K. Mishra",
+		"Cong Xu",
+		"Yuan Xie",
+		"Vijaykrishnan Narayanan",
+		"Ravishankar Iyer",
+		"Chita R. Das"
+	],
+	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/JogMXXNID12",
 	"doi": "10.1145/2228360.2228406",
 	"ee": "http://doi.acm.org/10.1145/2228360.2228406",
 	"pages": "243-252",
 	"publisher": "ACM",
-	"stemmed": ["cach", "reviv", "architect", "volatil", "stt", "ram", "cach", "for", "enhanc", "perform", "in", "cmps"],
-	"tag": ["architecture", "performance"],
+	"stemmed": [
+		"cach",
+		"reviv",
+		"architect",
+		"volatil",
+		"stt",
+		"ram",
+		"cach",
+		"for",
+		"enhanc",
+		"perform",
+		"in",
+		"cmps"
+	],
+	"tag": [
+		"architecture",
+		"performance"
+	],
 	"title": "Cache revive: architecting volatile STT-RAM caches for enhanced performance in CMPs",
 	"type": "inproceedings",
 	"venue": "DAC",

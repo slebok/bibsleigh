@@ -1,6 +1,10 @@
 {
-	"author": ["JeongKyu Lee", "Jung-Hwan Oh", "Sae Hwang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"JeongKyu Lee",
+		"Jung-Hwan Oh",
+		"Sae Hwang"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/LeeOH05",
@@ -8,8 +12,26 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066239",
 	"pages": "718-729",
 	"publisher": "ACM",
-	"stemmed": ["strg", "index", "spatio", "tempor", "region", "graph", "index", "for", "larg", "video", "databas"],
-	"tag": ["database", "graph", "named", "scalability", "video"],
+	"stemmed": [
+		"strg",
+		"index",
+		"spatio",
+		"tempor",
+		"region",
+		"graph",
+		"index",
+		"for",
+		"larg",
+		"video",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"graph",
+		"named",
+		"scalability",
+		"video"
+	],
 	"title": "STRG-Index: Spatio-Temporal Region Graph Indexing for Large Video Databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

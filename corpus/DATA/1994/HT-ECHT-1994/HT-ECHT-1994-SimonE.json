@@ -1,6 +1,10 @@
 {
-	"author": ["Lothar Simon", "Jochen Erdmann"],
-	"booktitle": "ECHT",
+	"author": [
+		"Lothar Simon",
+		"Jochen Erdmann"
+	],
+	"booktitle": "Proceedings of the European Conference on Hypertext Technology",
+	"booktitleshort": "HT/ECHT",
 	"cdrom": "ECHT1994/P108.pdf",
 	"crossref": "conf/echt/94",
 	"dblpkey": "conf/echt/SimonE94",
@@ -8,8 +12,17 @@
 	"ee": "http://doi.acm.org/10.1145/192757.192784",
 	"pages": "108-116",
 	"publisher": "ACM",
-	"stemmed": ["sirog", "a", "respons", "hypertext", "manual"],
-	"tag": ["hypermedia", "named"],
+	"stemmed": [
+		"sirog",
+		"a",
+		"respons",
+		"hypertext",
+		"manual"
+	],
+	"tag": [
+		"hypermedia",
+		"named"
+	],
 	"title": "SIROG — A Responsive Hypertext Manual",
 	"type": "inproceedings",
 	"venue": "HT",

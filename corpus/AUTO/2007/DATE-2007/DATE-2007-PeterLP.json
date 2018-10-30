@@ -1,14 +1,35 @@
 {
-	"author": ["Steffen Peter", "Peter Langendörfer", "Krzysztof Piotrowski"],
-	"booktitle": "DATE",
+	"author": [
+		"Steffen Peter",
+		"Peter Langendörfer",
+		"Krzysztof Piotrowski"
+	],
+	"booktitle": "Proceedings of the 11th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2007",
 	"dblpkey": "conf/date/PeterLP07",
 	"doi": "10.1145/1266366.1266642",
 	"ee": "http://doi.acm.org/10.1145/1266366.1266642",
 	"pages": "1259-1264",
 	"publisher": "ACM",
-	"stemmed": ["flexibl", "hardwar", "reduct", "for", "ellipt", "curv", "cryptographi", "in", "gf", "m"],
-	"tag": ["encryption", "flexibility", "hardware", "reduction"],
+	"stemmed": [
+		"flexibl",
+		"hardwar",
+		"reduct",
+		"for",
+		"ellipt",
+		"curv",
+		"cryptographi",
+		"in",
+		"gf",
+		"m"
+	],
+	"tag": [
+		"encryption",
+		"flexibility",
+		"hardware",
+		"reduction"
+	],
 	"title": "Flexible hardware reduction for elliptic curve cryptography in GF(2m)",
 	"type": "inproceedings",
 	"venue": "DATE",

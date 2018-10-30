@@ -1,16 +1,41 @@
 {
-	"author": ["Elke Radeke", "Ralf Böttger", "Bernd Burkert", "Yaron Engel", "Gerd Kachel", "Silvia Kolmschlag", "Dietmar Nolte"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Elke Radeke",
+		"Ralf Böttger",
+		"Bernd Burkert",
+		"Yaron Engel",
+		"Gerd Kachel",
+		"Silvia Kolmschlag",
+		"Dietmar Nolte"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD95/P481.PDF",
-	"cite": ["...", "books/mk/Cattell94", "conf/adb/RadekeS94", "conf/ride/RadekeS95", "journals/csur/ShethL90"],
+	"cite": [
+		"...",
+		"books/mk/Cattell94",
+		"conf/adb/RadekeS94",
+		"conf/ride/RadekeS95",
+		"journals/csur/ShethL90"
+	],
 	"crossref": "conf/sigmod/95",
 	"dblpkey": "conf/sigmod/RadekeBBEKKN95",
 	"doi": "10.1145/223784.223894",
 	"ee": "http://doi.acm.org/10.1145/223784.223894",
-	"pages": 481,
+	"pages": "481",
 	"publisher": "ACM Press",
-	"stemmed": ["efendi", "feder", "databas", "system", "of", "cadlab"],
-	"tag": ["database", "named"],
+	"stemmed": [
+		"efendi",
+		"feder",
+		"databas",
+		"system",
+		"of",
+		"cadlab"
+	],
+	"tag": [
+		"database",
+		"named"
+	],
 	"title": "Efendi: Federated Database System of Cadlab",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

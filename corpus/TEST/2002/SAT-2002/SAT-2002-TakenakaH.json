@@ -1,12 +1,32 @@
 {
-	"address": ["Cincinnati", "Ohio", "USA"],
-	"author": ["Yoichi Takenaka", "Akihiro Hashimoto"],
+	"address": [
+		"Cincinnati",
+		"Ohio",
+		"USA"
+	],
+	"author": [
+		"Yoichi Takenaka",
+		"Akihiro Hashimoto"
+	],
 	"booktitle": "Proceedings of the Fifth International Symposium on the Theory and Applications of Satisfiability Testing",
+	"booktitleshort": "SAT",
 	"editor": "John Franco",
 	"month": "may",
-	"pages": 40,
-	"stemmed": ["an", "analog", "algorithm", "for", "the", "satisfi", "problem"],
-	"tag": ["algorithm", "problem", "satisfiability"],
+	"pages": "40",
+	"stemmed": [
+		"an",
+		"analog",
+		"algorithm",
+		"for",
+		"the",
+		"satisfi",
+		"problem"
+	],
+	"tag": [
+		"algorithm",
+		"problem",
+		"satisfiability"
+	],
 	"title": "An analog algorithm for the satisfiability problem",
 	"type": "inproceedings",
 	"venue": "SAT",

@@ -1,14 +1,32 @@
 {
-	"author": ["Mu Li", "Tong Zhang", "Yuqiang Chen", "Alexander J. Smola"],
-	"booktitle": "KDD",
+	"author": [
+		"Mu Li",
+		"Tong Zhang",
+		"Yuqiang Chen",
+		"Alexander J. Smola"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/LiZCS14",
 	"doi": "10.1145/2623330.2623612",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623612",
 	"pages": "661-670",
 	"publisher": "ACM",
-	"stemmed": ["effici", "mini", "batch", "train", "for", "stochast", "optim"],
-	"tag": ["optimisation", "performance", "probability"],
+	"stemmed": [
+		"effici",
+		"mini",
+		"batch",
+		"train",
+		"for",
+		"stochast",
+		"optim"
+	],
+	"tag": [
+		"optimisation",
+		"performance",
+		"probability"
+	],
 	"title": "Efficient mini-batch training for stochastic optimization",
 	"type": "inproceedings",
 	"venue": "KDD",

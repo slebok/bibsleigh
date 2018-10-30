@@ -1,14 +1,30 @@
 {
-	"author": ["Shin Matsushima", "S. V. N. Vishwanathan", "Alexander J. Smola"],
-	"booktitle": "KDD",
+	"author": [
+		"Shin Matsushima",
+		"S. V. N. Vishwanathan",
+		"Alexander J. Smola"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/MatsushimaVS12",
 	"doi": "10.1145/2339530.2339559",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339559",
 	"pages": "177-185",
 	"publisher": "ACM",
-	"stemmed": ["linear", "support", "vector", "machin", "via", "dual", "cach", "loop"],
-	"tag": ["linear"],
+	"stemmed": [
+		"linear",
+		"support",
+		"vector",
+		"machin",
+		"via",
+		"dual",
+		"cach",
+		"loop"
+	],
+	"tag": [
+		"linear"
+	],
 	"title": "Linear support vector machines via dual cached loops",
 	"type": "inproceedings",
 	"venue": "KDD",

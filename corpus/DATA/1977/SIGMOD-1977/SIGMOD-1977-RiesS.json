@@ -1,15 +1,38 @@
 {
-	"author": ["Daniel R. Ries", "Michael Stonebraker"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Daniel R. Ries",
+		"Michael Stonebraker"
+	],
+	"booktitle": "Proceedings of the Seventh ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD77/P121.PDF",
 	"crossref": "conf/sigmod/77",
 	"dblpkey": "conf/sigmod/RiesS77",
 	"doi": "10.1145/509404.509422",
 	"ee": "http://doi.acm.org/10.1145/509404.509422",
-	"pages": 121,
+	"pages": "121",
 	"publisher": "ACM",
-	"stemmed": ["a", "studi", "of", "the", "effect", "of", "lock", "granular", "in", "a", "data", "base", "manag", "system", "abstract"],
-	"tag": ["case study", "database"],
+	"stemmed": [
+		"a",
+		"studi",
+		"of",
+		"the",
+		"effect",
+		"of",
+		"lock",
+		"granular",
+		"in",
+		"a",
+		"data",
+		"base",
+		"manag",
+		"system",
+		"abstract"
+	],
+	"tag": [
+		"case study",
+		"database"
+	],
 	"title": "A Study of the Effects of Locking Granularity in a Data Base Management System (Abstract)",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,12 @@
 {
-	"author": ["Michael Patrick Cutter", "Joost van Beusekom", "Faisal Shafait", "Thomas M. Breuel"],
-	"booktitle": "DRR",
+	"author": [
+		"Michael Patrick Cutter",
+		"Joost van Beusekom",
+		"Faisal Shafait",
+		"Thomas M. Breuel"
+	],
+	"booktitle": "Proceedings of the 18th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2011",
 	"dblpkey": "conf/drr/CutterBSB11",
 	"doi": "10.1117/12.873398",
@@ -8,11 +14,21 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["font", "group", "identif", "use", "reconstruct", "font"],
-	"tag": ["identification", "using"],
+	"stemmed": [
+		"font",
+		"group",
+		"identif",
+		"use",
+		"reconstruct",
+		"font"
+	],
+	"tag": [
+		"identification",
+		"using"
+	],
 	"title": "Font group identification using reconstructed fonts",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7874,
+	"volume": "7874",
 	"year": 2011
 }

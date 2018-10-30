@@ -1,6 +1,10 @@
 {
-	"author": ["Christopher C. Vogt", "Garrison W. Cottrell"],
+	"author": [
+		"Christopher C. Vogt",
+		"Garrison W. Cottrell"
+	],
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P190.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/VogtC98",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/290941.290991",
 	"pages": "190-196",
 	"publisher": "ACM",
-	"stemmed": ["predict", "the", "perform", "of", "linear", "combin", "ir", "system"],
-	"tag": ["information retrieval", "performance", "predict"],
+	"stemmed": [
+		"predict",
+		"the",
+		"perform",
+		"of",
+		"linear",
+		"combin",
+		"ir",
+		"system"
+	],
+	"tag": [
+		"information retrieval",
+		"performance",
+		"predict"
+	],
 	"title": "Predicting the Performance of Linearly Combined IR Systems",
 	"type": "inproceedings",
 	"venue": "SIGIR",

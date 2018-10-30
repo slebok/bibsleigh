@@ -1,14 +1,31 @@
 {
-	"author": ["Tobias J. K. Edler von Koch", "Björn Franke", "Pranav Bhandarkar", "Anshuman Dasgupta"],
-	"booktitle": "LCTES",
+	"author": [
+		"Tobias J. K. Edler von Koch",
+		"Björn Franke",
+		"Pranav Bhandarkar",
+		"Anshuman Dasgupta"
+	],
+	"booktitle": "Proceedings of the 15th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2014",
 	"dblpkey": "conf/lctrts/KochFBD14",
 	"doi": "10.1145/2597809.2597811",
 	"ee": "http://doi.acm.org/10.1145/2597809.2597811",
 	"pages": "85-94",
 	"publisher": "ACM",
-	"stemmed": ["exploit", "function", "similar", "for", "code", "size", "reduct"],
-	"tag": ["reduction", "similarity"],
+	"stemmed": [
+		"exploit",
+		"function",
+		"similar",
+		"for",
+		"code",
+		"size",
+		"reduct"
+	],
+	"tag": [
+		"reduction",
+		"similarity"
+	],
 	"title": "Exploiting function similarity for code size reduction",
 	"type": "inproceedings",
 	"venue": "LCTES",

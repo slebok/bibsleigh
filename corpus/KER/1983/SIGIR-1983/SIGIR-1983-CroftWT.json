@@ -1,6 +1,11 @@
 {
-	"author": ["W. Bruce Croft", "R. Wolf", "R. Thompson"],
+	"author": [
+		"W. Bruce Croft",
+		"R. Wolf",
+		"R. Thompson"
+	],
 	"booktitle": "Proceedings of the Sixth Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1983/P178.pdf",
 	"crossref": "conf/sigir/83",
 	"dblpkey": "conf/sigir/CroftWT83",
@@ -8,8 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/511793.511820",
 	"pages": "178-188",
 	"publisher": "ACM",
-	"stemmed": ["a", "network", "organ", "use", "for", "document", "retriev"],
-	"tag": ["documentation", "network", "retrieval"],
+	"stemmed": [
+		"a",
+		"network",
+		"organ",
+		"use",
+		"for",
+		"document",
+		"retriev"
+	],
+	"tag": [
+		"documentation",
+		"network",
+		"retrieval"
+	],
 	"title": "A Network Organization Used for Document Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

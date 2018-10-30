@@ -1,6 +1,6 @@
 {
 	"author": "Andreas Weininger",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2000",
 	"dblpkey": "conf/sigmod/Weininger00",
@@ -8,8 +8,22 @@
 	"ee": "http://doi.acm.org/10.1145/342009.335465",
 	"pages": "548-549",
 	"publisher": "ACM",
-	"stemmed": ["handl", "veri", "larg", "databas", "with", "informix", "extend", "parallel", "server"],
-	"tag": ["database", "parallel", "scalability"],
+	"stemmed": [
+		"handl",
+		"veri",
+		"larg",
+		"databas",
+		"with",
+		"informix",
+		"extend",
+		"parallel",
+		"server"
+	],
+	"tag": [
+		"database",
+		"parallel",
+		"scalability"
+	],
 	"title": "Handling Very Large Databases with Informix Extended Parallel Server",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

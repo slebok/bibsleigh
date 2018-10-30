@@ -1,14 +1,29 @@
 {
 	"author": "Pedro M. Domingos",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the Fifth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1999",
 	"dblpkey": "conf/kdd/Domingos99",
 	"doi": "10.1145/312129.312220",
 	"ee": "http://doi.acm.org/10.1145/312129.312220",
 	"pages": "155-164",
 	"publisher": "ACM",
-	"stemmed": ["meta", "cost", "a", "general", "method", "for", "make", "classifi", "cost", "sensit"],
-	"tag": ["classification", "named"],
+	"stemmed": [
+		"meta",
+		"cost",
+		"a",
+		"general",
+		"method",
+		"for",
+		"make",
+		"classifi",
+		"cost",
+		"sensit"
+	],
+	"tag": [
+		"classification",
+		"named"
+	],
 	"title": "MetaCost: A General Method for Making Classifiers Cost-Sensitive",
 	"type": "inproceedings",
 	"venue": "KDD",

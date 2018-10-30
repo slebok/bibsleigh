@@ -1,6 +1,11 @@
 {
-	"author": ["Bertrand Mazure", "Lakhdar Saïs", "Éric Grégoire"],
-	"booktitle": "CADE",
+	"author": [
+		"Bertrand Mazure",
+		"Lakhdar Saïs",
+		"Éric Grégoire"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1998",
 	"dblpkey": "conf/cade/MazureSG98",
 	"ee": "http://link.springer.de/link/service/series/0558/bibs/1421/14210124.htm",
@@ -9,11 +14,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "cril", "platform", "for", "sat"],
-	"tag": ["framework", "satisfiability"],
+	"stemmed": [
+		"system",
+		"descript",
+		"cril",
+		"platform",
+		"for",
+		"sat"
+	],
+	"tag": [
+		"framework",
+		"satisfiability"
+	],
 	"title": "System Description: CRIL Platform for SAT",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1421,
+	"volume": "1421",
 	"year": 1998
 }

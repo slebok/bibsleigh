@@ -1,14 +1,42 @@
 {
-	"author": ["Philip A. Bernstein", "Per O. Gyllstrom", "Tom Wimberg"],
-	"booktitle": "VLDB",
-	"cite": ["conf/sigmod/BernsteinHM90", "journals/computer/DetlefsHW88", "...", "books/mk/GrayR93", "journals/toplas/LiskovS83", "...", "...", "...", "journals/dtj/SpeerS91", "...", "..."],
+	"author": [
+		"Philip A. Bernstein",
+		"Per O. Gyllstrom",
+		"Tom Wimberg"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/sigmod/BernsteinHM90",
+		"journals/computer/DetlefsHW88",
+		"...",
+		"books/mk/GrayR93",
+		"journals/toplas/LiskovS83",
+		"...",
+		"...",
+		"...",
+		"journals/dtj/SpeerS91",
+		"...",
+		"..."
+	],
 	"crossref": "conf/vldb/93",
 	"dblpkey": "conf/vldb/BernsteinGW93",
 	"ee": "http://www.vldb.org/conf/1993/P218.PDF",
 	"pages": "218-229",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["stdl", "a", "portabl", "languag", "for", "transact", "process"],
-	"tag": ["named", "transaction"],
+	"stemmed": [
+		"stdl",
+		"a",
+		"portabl",
+		"languag",
+		"for",
+		"transact",
+		"process"
+	],
+	"tag": [
+		"named",
+		"transaction"
+	],
 	"title": "STDL — A Portable Language for Transaction Processing",
 	"type": "inproceedings",
 	"venue": "VLDB",

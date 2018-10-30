@@ -1,14 +1,29 @@
 {
-	"author": ["Jean-Francois Collard", "Denis Barthou", "Paul Feautrier"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Jean-Francois Collard",
+		"Denis Barthou",
+		"Paul Feautrier"
+	],
+	"booktitle": "Proceedings of the Fifth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1995",
 	"dblpkey": "conf/ppopp/CollardBF95",
 	"doi": "10.1145/209936.209947",
 	"ee": "http://doi.acm.org/10.1145/209936.209947",
 	"pages": "92-101",
 	"publisher": "ACM",
-	"stemmed": ["fuzzi", "array", "dataflow", "analysi"],
-	"tag": ["analysis", "array", "data flow", "fuzzy"],
+	"stemmed": [
+		"fuzzi",
+		"array",
+		"dataflow",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"array",
+		"data flow",
+		"fuzzy"
+	],
 	"title": "Fuzzy Array Dataflow Analysis",
 	"type": "inproceedings",
 	"venue": "PPoPP",

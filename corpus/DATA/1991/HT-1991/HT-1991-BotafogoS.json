@@ -1,6 +1,10 @@
 {
-	"author": ["Rodrigo A. Botafogo", "Ben Shneiderman"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Rodrigo A. Botafogo",
+		"Ben Shneiderman"
+	],
+	"booktitle": "Proceedings of the Third Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1991/P063.pdf",
 	"crossref": "conf/ht/91",
 	"dblpkey": "conf/ht/BotafogoS91",
@@ -8,8 +12,17 @@
 	"ee": "http://doi.acm.org/10.1145/122974.122981",
 	"pages": "63-74",
 	"publisher": "ACM",
-	"stemmed": ["identifi", "aggreg", "in", "hypertext", "structur"],
-	"tag": ["hypermedia", "identification"],
+	"stemmed": [
+		"identifi",
+		"aggreg",
+		"in",
+		"hypertext",
+		"structur"
+	],
+	"tag": [
+		"hypermedia",
+		"identification"
+	],
 	"title": "Identifying Aggregates in Hypertext Structures",
 	"type": "inproceedings",
 	"venue": "HT",

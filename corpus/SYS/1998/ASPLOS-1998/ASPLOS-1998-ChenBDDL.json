@@ -1,14 +1,35 @@
 {
-	"author": ["Yuqun Chen", "Angelos Bilas", "Stefanos N. Damianakis", "Cezary Dubnicki", "Kai Li"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Yuqun Chen",
+		"Angelos Bilas",
+		"Stefanos N. Damianakis",
+		"Cezary Dubnicki",
+		"Kai Li"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1998",
 	"dblpkey": "conf/asplos/ChenBDDL98",
 	"doi": "10.1145/291069.291046",
 	"ee": "http://doi.acm.org/10.1145/291069.291046",
 	"pages": "193-204",
 	"publisher": "ACM Press",
-	"stemmed": ["utlb", "a", "mechan", "for", "address", "translat", "on", "network", "interfac"],
-	"tag": ["interface", "named", "network"],
+	"stemmed": [
+		"utlb",
+		"a",
+		"mechan",
+		"for",
+		"address",
+		"translat",
+		"on",
+		"network",
+		"interfac"
+	],
+	"tag": [
+		"interface",
+		"named",
+		"network"
+	],
 	"title": "UTLB: A Mechanism for Address Translation on Network Interfaces",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

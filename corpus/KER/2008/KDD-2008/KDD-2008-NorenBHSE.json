@@ -1,14 +1,37 @@
 {
-	"author": ["G. Niklas Norén", "Andrew Bate", "Johan Hopstadius", "Kristina Star", "I. Ralph Edwards"],
-	"booktitle": "KDD",
+	"author": [
+		"G. Niklas Norén",
+		"Andrew Bate",
+		"Johan Hopstadius",
+		"Kristina Star",
+		"I. Ralph Edwards"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/NorenBHSE08",
 	"doi": "10.1145/1401890.1402005",
 	"ee": "http://doi.acm.org/10.1145/1401890.1402005",
 	"pages": "963-971",
 	"publisher": "ACM",
-	"stemmed": ["tempor", "pattern", "discoveri", "for", "trend", "and", "transient", "effect", "it", "applic", "to", "patient", "record"],
-	"tag": ["roadmap"],
+	"stemmed": [
+		"tempor",
+		"pattern",
+		"discoveri",
+		"for",
+		"trend",
+		"and",
+		"transient",
+		"effect",
+		"it",
+		"applic",
+		"to",
+		"patient",
+		"record"
+	],
+	"tag": [
+		"roadmap"
+	],
 	"title": "Temporal pattern discovery for trends and transient effects: its application to patient records",
 	"type": "inproceedings",
 	"venue": "KDD",

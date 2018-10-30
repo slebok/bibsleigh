@@ -1,15 +1,36 @@
 {
-	"author": ["François Bancilhon", "Nicolas Spyratos"],
-	"booktitle": "VLDB",
+	"author": [
+		"François Bancilhon",
+		"Nicolas Spyratos"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB81/P398.PDF",
-	"cite": ["journals/tods/BancilhonS81", "conf/vldb/BeeriBG78", "...", "conf/sigmod/BiskupDB79", "...", "journals/tods/Rissanen77", "..."],
+	"cite": [
+		"journals/tods/BancilhonS81",
+		"conf/vldb/BeeriBG78",
+		"...",
+		"conf/sigmod/BiskupDB79",
+		"...",
+		"journals/tods/Rissanen77",
+		"..."
+	],
 	"crossref": "conf/vldb/81",
 	"dblpkey": "conf/vldb/BancilhonS81",
 	"pages": "398-408",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["independ", "compon", "of", "databas"],
-	"tag": ["component", "database", "independence"],
+	"stemmed": [
+		"independ",
+		"compon",
+		"of",
+		"databas"
+	],
+	"tag": [
+		"component",
+		"database",
+		"independence"
+	],
 	"title": "Independent Components of Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

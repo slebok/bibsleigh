@@ -1,6 +1,12 @@
 {
-	"author": ["Thomas Arts", "Mads Dam", "Lars-Åke Fredlund", "Dilian Gurov"],
-	"booktitle": "CADE",
+	"author": [
+		"Thomas Arts",
+		"Mads Dam",
+		"Lars-Åke Fredlund",
+		"Dilian Gurov"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1998",
 	"dblpkey": "conf/cade/ArtsDFG98",
 	"ee": "http://link.springer.de/link/service/series/0558/bibs/1421/14210038.htm",
@@ -9,11 +15,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "verif", "of", "distribut", "erlang", "program"],
-	"tag": ["distributed", "erlang", "source code", "verification"],
+	"stemmed": [
+		"system",
+		"descript",
+		"verif",
+		"of",
+		"distribut",
+		"erlang",
+		"program"
+	],
+	"tag": [
+		"distributed",
+		"erlang",
+		"source code",
+		"verification"
+	],
 	"title": "System Description: Verification of Distributed Erlang Programs",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1421,
+	"volume": "1421",
 	"year": 1998
 }

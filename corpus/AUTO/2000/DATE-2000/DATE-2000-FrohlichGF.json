@@ -1,6 +1,11 @@
 {
-	"author": ["Norbert Fröhlich", "Volker Glöckel", "Josef Fleischmann"],
-	"booktitle": "DATE",
+	"author": [
+		"Norbert Fröhlich",
+		"Volker Glöckel",
+		"Josef Fleischmann"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/FrohlichGF00",
 	"doi": "10.1109/DATE.2000.840860",
@@ -8,8 +13,26 @@
 	"pages": "679-684",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "new", "partit", "method", "for", "parallel", "simul", "of", "vlsi", "circuit", "on", "transistor", "level"],
-	"tag": ["clustering", "parallel", "simulation"],
+	"stemmed": [
+		"a",
+		"new",
+		"partit",
+		"method",
+		"for",
+		"parallel",
+		"simul",
+		"of",
+		"vlsi",
+		"circuit",
+		"on",
+		"transistor",
+		"level"
+	],
+	"tag": [
+		"clustering",
+		"parallel",
+		"simulation"
+	],
 	"title": "A New Partitioning Method for Parallel Simulation of VLSI Circuits on Transistor Level",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,6 +1,13 @@
 {
-	"author": ["Stratos Papadomanolakis", "Anastassia Ailamaki", "Julio C. López", "Tiankai Tu", "David R. O'Hallaron", "Gerd Heber"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Stratos Papadomanolakis",
+		"Anastassia Ailamaki",
+		"Julio C. López",
+		"Tiankai Tu",
+		"David R. O'Hallaron",
+		"Gerd Heber"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/PapadomanolakisALTOH06",
@@ -8,8 +15,19 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142535",
 	"pages": "551-562",
 	"publisher": "ACM",
-	"stemmed": ["effici", "queri", "process", "on", "unstructur", "tetrahedr", "mesh"],
-	"tag": ["performance", "query"],
+	"stemmed": [
+		"effici",
+		"queri",
+		"process",
+		"on",
+		"unstructur",
+		"tetrahedr",
+		"mesh"
+	],
+	"tag": [
+		"performance",
+		"query"
+	],
 	"title": "Efficient query processing on unstructured tetrahedral meshes",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

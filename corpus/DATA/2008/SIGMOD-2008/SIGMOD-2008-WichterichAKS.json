@@ -1,6 +1,11 @@
 {
-	"author": ["Marc Wichterich", "Ira Assent", "Philipp Kranen", "Thomas Seidl"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Marc Wichterich",
+		"Ira Assent",
+		"Philipp Kranen",
+		"Thomas Seidl"
+	],
+	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2008",
 	"dblpkey": "conf/sigmod/WichterichAKS08",
@@ -8,8 +13,28 @@
 	"ee": "http://doi.acm.org/10.1145/1376616.1376639",
 	"pages": "199-212",
 	"publisher": "ACM",
-	"stemmed": ["effici", "emd", "base", "similar", "search", "in", "multimedia", "databas", "via", "flexibl", "dimension", "reduct"],
-	"tag": ["database", "flexibility", "multi", "performance", "reduction", "similarity"],
+	"stemmed": [
+		"effici",
+		"emd",
+		"base",
+		"similar",
+		"search",
+		"in",
+		"multimedia",
+		"databas",
+		"via",
+		"flexibl",
+		"dimension",
+		"reduct"
+	],
+	"tag": [
+		"database",
+		"flexibility",
+		"multi",
+		"performance",
+		"reduction",
+		"similarity"
+	],
 	"title": "Efficient EMD-based similarity search in multimedia databases via flexible dimensionality reduction",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

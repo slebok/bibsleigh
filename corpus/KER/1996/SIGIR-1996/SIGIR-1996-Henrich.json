@@ -1,6 +1,7 @@
 {
 	"author": "Andreas Henrich",
 	"booktitle": "Proceedings of the 19th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1996/P101.pdf",
 	"crossref": "conf/sigir/96",
 	"dblpkey": "conf/sigir/Henrich96",
@@ -8,8 +9,22 @@
 	"ee": "http://doi.acm.org/10.1145/243199.243237",
 	"pages": "101-109",
 	"publisher": "ACM",
-	"stemmed": ["document", "retriev", "facil", "for", "repositori", "base", "system", "develop", "environ"],
-	"tag": ["development", "documentation", "retrieval"],
+	"stemmed": [
+		"document",
+		"retriev",
+		"facil",
+		"for",
+		"repositori",
+		"base",
+		"system",
+		"develop",
+		"environ"
+	],
+	"tag": [
+		"development",
+		"documentation",
+		"retrieval"
+	],
 	"title": "Document Retrieval Facilities for Repository-Based System Development Environments",
 	"type": "inproceedings",
 	"venue": "SIGIR",

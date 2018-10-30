@@ -1,6 +1,12 @@
 {
-	"author": ["Douglas R. Cutting", "Jan O. Pedersen", "David R. Karger", "John W. Tukey"],
+	"author": [
+		"Douglas R. Cutting",
+		"Jan O. Pedersen",
+		"David R. Karger",
+		"John W. Tukey"
+	],
 	"booktitle": "Proceedings of the 15th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1992/P318.pdf",
 	"crossref": "conf/sigir/92",
 	"dblpkey": "conf/sigir/CuttingPKT92",
@@ -8,8 +14,26 @@
 	"ee": "http://doi.acm.org/10.1145/133160.133214",
 	"pages": "318-329",
 	"publisher": "ACM",
-	"stemmed": ["scatter", "gather", "a", "cluster", "base", "approach", "to", "brows", "larg", "document", "collect"],
-	"tag": ["approach", "clustering", "documentation", "named", "scalability"],
+	"stemmed": [
+		"scatter",
+		"gather",
+		"a",
+		"cluster",
+		"base",
+		"approach",
+		"to",
+		"brows",
+		"larg",
+		"document",
+		"collect"
+	],
+	"tag": [
+		"approach",
+		"clustering",
+		"documentation",
+		"named",
+		"scalability"
+	],
 	"title": "Scatter/Gather: A Cluster-based Approach to Browsing Large Document Collections",
 	"type": "inproceedings",
 	"venue": "SIGIR",

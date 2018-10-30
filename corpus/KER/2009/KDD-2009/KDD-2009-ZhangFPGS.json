@@ -1,14 +1,35 @@
 {
-	"author": ["Xiangliang Zhang", "Cyril Furtlehner", "Julien Perez", "Cécile Germain-Renaud", "Michèle Sebag"],
-	"booktitle": "KDD",
+	"author": [
+		"Xiangliang Zhang",
+		"Cyril Furtlehner",
+		"Julien Perez",
+		"Cécile Germain-Renaud",
+		"Michèle Sebag"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/ZhangFPGS09",
 	"doi": "10.1145/1557019.1557126",
 	"ee": "http://doi.acm.org/10.1145/1557019.1557126",
 	"pages": "987-996",
 	"publisher": "ACM",
-	"stemmed": ["toward", "autonom", "grid", "analyz", "the", "job", "flow", "with", "affin", "stream"],
-	"tag": ["streaming", "towards"],
+	"stemmed": [
+		"toward",
+		"autonom",
+		"grid",
+		"analyz",
+		"the",
+		"job",
+		"flow",
+		"with",
+		"affin",
+		"stream"
+	],
+	"tag": [
+		"streaming",
+		"towards"
+	],
 	"title": "Toward autonomic grids: analyzing the job flow with affinity streaming",
 	"type": "inproceedings",
 	"venue": "KDD",

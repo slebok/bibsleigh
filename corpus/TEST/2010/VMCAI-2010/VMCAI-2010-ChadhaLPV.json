@@ -1,6 +1,12 @@
 {
-	"author": ["Rohit Chadha", "Axel Legay", "Pavithra Prabhakar", "Mahesh Viswanathan"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Rohit Chadha",
+		"Axel Legay",
+		"Pavithra Prabhakar",
+		"Mahesh Viswanathan"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2010",
 	"dblpkey": "conf/vmcai/ChadhaLPV10",
 	"doi": "10.1007/978-3-642-11319-2_10",
@@ -10,11 +16,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["complex", "bound", "for", "the", "verif", "of", "real", "time", "softwar"],
-	"tag": ["bound", "complexity", "realtime", "verification"],
+	"stemmed": [
+		"complex",
+		"bound",
+		"for",
+		"the",
+		"verif",
+		"of",
+		"real",
+		"time",
+		"softwar"
+	],
+	"tag": [
+		"bound",
+		"complexity",
+		"realtime",
+		"verification"
+	],
 	"title": "Complexity Bounds for the Verification of Real-Time Software",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 5944,
+	"volume": "5944",
 	"year": 2010
 }

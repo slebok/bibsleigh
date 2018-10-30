@@ -1,16 +1,41 @@
 {
-	"acmid": 2738602,
-	"author": ["Qing Jiao", "Mian Lu", "Huynh Phung Huynh", "Tulika Mitra"],
-	"booktitle": "CGO",
+	"acmid": "2738602",
+	"author": [
+		"Qing Jiao",
+		"Mian Lu",
+		"Huynh Phung Huynh",
+		"Tulika Mitra"
+	],
+	"booktitle": "Proceedings of the 13th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2015",
 	"dblpkey": "conf/cgo/JiaoLHM15",
 	"doi": "10.1109/CGO.2015.7054182",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2015.7054182", "http://dl.acm.org/citation.cfm?id=2738602"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2015.7054182",
+		"http://dl.acm.org/citation.cfm?id=2738602"
+	],
 	"pages": "1-11",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["improv", "gpgpu", "energi", "effici", "through", "concurr", "kernel", "execut", "and", "dvfs"],
-	"tag": ["concurrent", "energy", "execution", "kernel"],
+	"stemmed": [
+		"improv",
+		"gpgpu",
+		"energi",
+		"effici",
+		"through",
+		"concurr",
+		"kernel",
+		"execut",
+		"and",
+		"dvfs"
+	],
+	"tag": [
+		"concurrent",
+		"energy",
+		"execution",
+		"kernel"
+	],
 	"title": "Improving GPGPU energy-efficiency through concurrent kernel execution and DVFS",
 	"type": "inproceedings",
 	"venue": "CGO",

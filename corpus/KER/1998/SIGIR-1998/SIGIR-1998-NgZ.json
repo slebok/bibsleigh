@@ -1,6 +1,10 @@
 {
-	"author": ["Corinna Ng", "Justin Zobel"],
+	"author": [
+		"Corinna Ng",
+		"Justin Zobel"
+	],
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P365.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/NgZ98",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/290941.291055",
 	"pages": "365-366",
 	"publisher": "ACM",
-	"stemmed": ["speech", "retriev", "use", "phonem", "with", "error", "correct"],
-	"tag": ["fault", "retrieval", "speech", "using"],
+	"stemmed": [
+		"speech",
+		"retriev",
+		"use",
+		"phonem",
+		"with",
+		"error",
+		"correct"
+	],
+	"tag": [
+		"fault",
+		"retrieval",
+		"speech",
+		"using"
+	],
 	"title": "Speech Retrieval Using Phonemes with Error Correction",
 	"type": "inproceedings",
 	"venue": "SIGIR",

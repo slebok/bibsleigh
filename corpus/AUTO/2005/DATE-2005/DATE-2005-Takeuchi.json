@@ -1,6 +1,7 @@
 {
 	"author": "Tadashi Takeuchi",
-	"booktitle": "DATE",
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/Takeuchi05",
 	"doi": "10.1109/DATE.2005.235",
@@ -8,8 +9,24 @@
 	"pages": "1058-1059",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["os", "debug", "method", "use", "a", "lightweight", "virtual", "machin", "monitor"],
-	"tag": ["debugging", "lightweight", "monitoring", "using", "virtual machine"],
+	"stemmed": [
+		"os",
+		"debug",
+		"method",
+		"use",
+		"a",
+		"lightweight",
+		"virtual",
+		"machin",
+		"monitor"
+	],
+	"tag": [
+		"debugging",
+		"lightweight",
+		"monitoring",
+		"using",
+		"virtual machine"
+	],
 	"title": "OS Debugging Method Using a Lightweight Virtual Machine Monitor",
 	"type": "inproceedings",
 	"venue": "DATE",

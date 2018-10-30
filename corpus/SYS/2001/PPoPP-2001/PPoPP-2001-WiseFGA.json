@@ -1,14 +1,29 @@
 {
-	"author": ["David S. Wise", "Jeremy D. Frens", "Yuhong Gu", "Gregory A. Alexander"],
-	"booktitle": "PPOPP",
+	"author": [
+		"David S. Wise",
+		"Jeremy D. Frens",
+		"Yuhong Gu",
+		"Gregory A. Alexander"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2001",
 	"dblpkey": "conf/ppopp/WiseFGA01",
 	"doi": "10.1145/379539.379559",
 	"ee": "http://doi.acm.org/10.1145/379539.379559",
 	"pages": "24-33",
 	"publisher": "ACM",
-	"stemmed": ["languag", "support", "for", "morton", "order", "matric"],
-	"tag": ["matrix"],
+	"stemmed": [
+		"languag",
+		"support",
+		"for",
+		"morton",
+		"order",
+		"matric"
+	],
+	"tag": [
+		"matrix"
+	],
 	"title": "Language support for Morton-order matrices",
 	"type": "inproceedings",
 	"venue": "PPoPP",

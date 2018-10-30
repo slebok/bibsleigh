@@ -1,14 +1,36 @@
 {
-	"author": ["Philip Axer", "Daniel Thiele", "Rolf Ernst", "Jonas Diemer"],
-	"booktitle": "DAC",
+	"author": [
+		"Philip Axer",
+		"Daniel Thiele",
+		"Rolf Ernst",
+		"Jonas Diemer"
+	],
+	"booktitle": "Proceedings of the 51st Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2014",
 	"dblpkey": "conf/dac/AxerTED14",
 	"doi": "10.1145/2593069.2593136",
 	"ee": "http://doi.acm.org/10.1145/2593069.2593136",
 	"pages": "18:1-18:6",
 	"publisher": "ACM",
-	"stemmed": ["exploit", "shaper", "context", "to", "improv", "perform", "bound", "of", "ethernet", "avb", "network"],
-	"tag": ["bound", "network", "performance"],
+	"stemmed": [
+		"exploit",
+		"shaper",
+		"context",
+		"to",
+		"improv",
+		"perform",
+		"bound",
+		"of",
+		"ethernet",
+		"avb",
+		"network"
+	],
+	"tag": [
+		"bound",
+		"network",
+		"performance"
+	],
 	"title": "Exploiting Shaper Context to Improve Performance Bounds of Ethernet AVB Networks",
 	"type": "inproceedings",
 	"venue": "DAC",

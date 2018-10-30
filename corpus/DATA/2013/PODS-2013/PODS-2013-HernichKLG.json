@@ -1,14 +1,35 @@
 {
-	"author": ["André Hernich", "Clemens Kupke", "Thomas Lukasiewicz", "Georg Gottlob"],
-	"booktitle": "PODS",
+	"author": [
+		"André Hernich",
+		"Clemens Kupke",
+		"Thomas Lukasiewicz",
+		"Georg Gottlob"
+	],
+	"booktitle": "Proceedings of the 32nd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2013",
 	"dblpkey": "conf/pods/HernichKLG13",
 	"doi": "10.1145/2463664.2465229",
 	"ee": "http://doi.acm.org/10.1145/2463664.2465229",
 	"pages": "225-236",
 	"publisher": "ACM",
-	"stemmed": ["well", "found", "semant", "for", "extend", "datalog", "and", "ontolog", "reason"],
-	"tag": ["datalog", "ontology", "reasoning", "semantics"],
+	"stemmed": [
+		"well",
+		"found",
+		"semant",
+		"for",
+		"extend",
+		"datalog",
+		"and",
+		"ontolog",
+		"reason"
+	],
+	"tag": [
+		"datalog",
+		"ontology",
+		"reasoning",
+		"semantics"
+	],
 	"title": "Well-founded semantics for extended datalog and ontological reasoning",
 	"type": "inproceedings",
 	"venue": "PODS",

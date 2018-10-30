@@ -1,15 +1,35 @@
 {
-	"author": ["Gioele Barabucci", "Uwe M. Borghoff", "Angelo Di Iorio", "Sonja Maier"],
-	"booktitle": "ACM Symposium on Document Engineering",
-	"booktitleshort": "DocEng",
+	"author": [
+		"Gioele Barabucci",
+		"Uwe M. Borghoff",
+		"Angelo Di Iorio",
+		"Sonja Maier"
+	],
+	"booktitle": "Proceedings of the 13th Symposium on Document Engineering",
+	"booktitleshort": "ACM Symposium on Document Engineering",
 	"crossref": "conf/doceng/2013",
 	"dblpkey": "conf/doceng/BarabucciBIM13",
 	"doi": "10.1145/2494266.2494322",
 	"ee": "http://doi.acm.org/10.1145/2494266.2494322",
 	"pages": "281-282",
 	"publisher": "ACM",
-	"stemmed": ["document", "chang", "model", "detect", "store", "and", "visual", "d", "chang"],
-	"tag": ["detection", "documentation", "modelling", "visualisation"],
+	"stemmed": [
+		"document",
+		"chang",
+		"model",
+		"detect",
+		"store",
+		"and",
+		"visual",
+		"d",
+		"chang"
+	],
+	"tag": [
+		"detection",
+		"documentation",
+		"modelling",
+		"visualisation"
+	],
 	"title": "Document changes: modeling; detection; storing and visualization (DChanges)",
 	"type": "inproceedings",
 	"venue": "DocEng",

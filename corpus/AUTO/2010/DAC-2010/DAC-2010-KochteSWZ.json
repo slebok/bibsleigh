@@ -1,14 +1,33 @@
 {
-	"author": ["Michael A. Kochte", "Marcel Schaal", "Hans-Joachim Wunderlich", "Christian G. Zoellin"],
-	"booktitle": "DAC",
+	"author": [
+		"Michael A. Kochte",
+		"Marcel Schaal",
+		"Hans-Joachim Wunderlich",
+		"Christian G. Zoellin"
+	],
+	"booktitle": "Proceedings of the 47th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2010",
 	"dblpkey": "conf/dac/KochteSWZ10",
 	"doi": "10.1145/1837274.1837369",
 	"ee": "http://doi.acm.org/10.1145/1837274.1837369",
 	"pages": "380-385",
 	"publisher": "ACM",
-	"stemmed": ["effici", "fault", "simul", "on", "mani", "core", "processor"],
-	"tag": ["fault", "manycore", "performance", "simulation"],
+	"stemmed": [
+		"effici",
+		"fault",
+		"simul",
+		"on",
+		"mani",
+		"core",
+		"processor"
+	],
+	"tag": [
+		"fault",
+		"manycore",
+		"performance",
+		"simulation"
+	],
 	"title": "Efficient fault simulation on many-core processors",
 	"type": "inproceedings",
 	"venue": "DAC",

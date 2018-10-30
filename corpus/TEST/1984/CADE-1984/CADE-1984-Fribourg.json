@@ -1,6 +1,7 @@
 {
 	"author": "Laurent Fribourg",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Seventh International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1984",
 	"dblpkey": "conf/cade/Fribourg84",
 	"doi": "10.1007/BFb0047126",
@@ -10,10 +11,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "narrow", "procedur", "for", "theori", "with", "constructor"],
+	"stemmed": [
+		"a",
+		"narrow",
+		"procedur",
+		"for",
+		"theori",
+		"with",
+		"constructor"
+	],
 	"title": "A Narrowing Procedure for Theories with Constructors",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 170,
+	"volume": "170",
 	"year": 1984
 }

@@ -1,14 +1,43 @@
 {
-	"author": ["Carol Helfgott LeDoux", "Douglas Stott Parker Jr."],
-	"booktitle": "VLDB",
-	"cite": ["conf/pods/AtzeniP82", "journals/tods/BeeriB79", "conf/vldb/BernsteinG80", "conf/sigmod/BiskupDB79", "persons/Codd71a", "...", "...", "...", "...", "journals/tods/Lien81", "journals/ipl/Osborn79", "conf/vldb/ParkerD79", "journals/jacm/SagivDPF81", "conf/pods/Sciore83a", "books/cs/Ullman80"],
+	"author": [
+		"Carol Helfgott LeDoux",
+		"Douglas Stott Parker Jr."
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/pods/AtzeniP82",
+		"journals/tods/BeeriB79",
+		"conf/vldb/BernsteinG80",
+		"conf/sigmod/BiskupDB79",
+		"persons/Codd71a",
+		"...",
+		"...",
+		"...",
+		"...",
+		"journals/tods/Lien81",
+		"journals/ipl/Osborn79",
+		"conf/vldb/ParkerD79",
+		"journals/jacm/SagivDPF81",
+		"conf/pods/Sciore83a",
+		"books/cs/Ullman80"
+	],
 	"crossref": "conf/vldb/82",
 	"dblpkey": "conf/vldb/LeDouxP82",
 	"ee": "http://www.vldb.org/conf/1982/P131.PDF",
 	"pages": "131-141",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["reflect", "on", "boyc", "codd", "normal", "form"],
-	"tag": ["normalisation"],
+	"stemmed": [
+		"reflect",
+		"on",
+		"boyc",
+		"codd",
+		"normal",
+		"form"
+	],
+	"tag": [
+		"normalisation"
+	],
 	"title": "Reflections on Boyce-Codd Normal Form",
 	"type": "inproceedings",
 	"venue": "VLDB",

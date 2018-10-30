@@ -1,13 +1,31 @@
 {
-	"author": ["Weiwei Mao", "Michael D. Ciletti"],
-	"booktitle": "DAC",
+	"author": [
+		"Weiwei Mao",
+		"Michael D. Ciletti"
+	],
+	"booktitle": "Proceedings of the 28th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/MaoC91",
 	"doi": "10.1145/127601.127631",
 	"ee": "http://doi.acm.org/10.1145/127601.127631",
 	"pages": "73-79",
 	"publisher": "ACM",
-	"stemmed": ["correl", "reduc", "scan", "path", "design", "to", "improv", "delay", "fault", "coverag"],
-	"tag": ["design", "fault"],
+	"stemmed": [
+		"correl",
+		"reduc",
+		"scan",
+		"path",
+		"design",
+		"to",
+		"improv",
+		"delay",
+		"fault",
+		"coverag"
+	],
+	"tag": [
+		"design",
+		"fault"
+	],
 	"title": "Correlation-Reduced Scan-path Design To Improve Delay Fault Coverage",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,13 +1,26 @@
 {
-	"acmid": 804001,
+	"acmid": "804001",
 	"author": "Sergio Bernstein",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 10th Design Automation Workshop",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1973",
 	"dblpkey": "conf/dac/Bernstein73",
 	"pages": "68-78",
 	"publisher": "ACM",
-	"stemmed": ["program", "for", "fortran", "compat", "and", "machin", "independ"],
-	"tag": ["fortran", "independence", "programming"],
+	"stemmed": [
+		"program",
+		"for",
+		"fortran",
+		"compat",
+		"and",
+		"machin",
+		"independ"
+	],
+	"tag": [
+		"fortran",
+		"independence",
+		"programming"
+	],
 	"title": "Programming for FORTRAN compatibility and machine independence",
 	"type": "inproceedings",
 	"venue": "DAC",

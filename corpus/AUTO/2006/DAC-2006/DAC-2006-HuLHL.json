@@ -1,14 +1,30 @@
 {
-	"author": ["Shiyan Hu", "Qiuyang Li", "Jiang Hu", "Peng Li"],
-	"booktitle": "DAC",
+	"author": [
+		"Shiyan Hu",
+		"Qiuyang Li",
+		"Jiang Hu",
+		"Peng Li"
+	],
+	"booktitle": "Proceedings of the 43rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/HuLHL06",
 	"doi": "10.1145/1146909.1147010",
 	"ee": "http://doi.acm.org/10.1145/1146909.1147010",
 	"pages": "379-384",
 	"publisher": "ACM",
-	"stemmed": ["steiner", "network", "construct", "for", "time", "critic", "net"],
-	"tag": ["network"],
+	"stemmed": [
+		"steiner",
+		"network",
+		"construct",
+		"for",
+		"time",
+		"critic",
+		"net"
+	],
+	"tag": [
+		"network"
+	],
 	"title": "Steiner network construction for timing critical nets",
 	"type": "inproceedings",
 	"venue": "DAC",

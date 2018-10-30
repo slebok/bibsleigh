@@ -1,14 +1,35 @@
 {
-	"author": ["De-Shiuan Chiou", "Da-Cheng Juan", "Yu-Ting Chen", "Shih-Chieh Chang"],
-	"booktitle": "DAC",
+	"author": [
+		"De-Shiuan Chiou",
+		"Da-Cheng Juan",
+		"Yu-Ting Chen",
+		"Shih-Chieh Chang"
+	],
+	"booktitle": "Proceedings of the 44th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2007",
 	"dblpkey": "conf/dac/ChiouJCC07",
 	"doi": "10.1145/1278480.1278502",
 	"ee": "http://doi.acm.org/10.1145/1278480.1278502",
 	"pages": "81-86",
 	"publisher": "IEEE",
-	"stemmed": ["fine", "grain", "sleep", "transistor", "size", "algorithm", "for", "leakag", "power", "minim"],
-	"tag": ["algorithm", "fine-grained", "power management"],
+	"stemmed": [
+		"fine",
+		"grain",
+		"sleep",
+		"transistor",
+		"size",
+		"algorithm",
+		"for",
+		"leakag",
+		"power",
+		"minim"
+	],
+	"tag": [
+		"algorithm",
+		"fine-grained",
+		"power management"
+	],
 	"title": "Fine-Grained Sleep Transistor Sizing Algorithm for Leakage Power Minimization",
 	"type": "inproceedings",
 	"venue": "DAC",

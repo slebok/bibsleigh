@@ -1,6 +1,7 @@
 {
 	"author": "Kenneth Mark Anderson",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the 10th Conference on Hypertext and Hypermedia",
+	"booktitleshort": "HT",
 	"cdrom": "HT1999/P027.pdf",
 	"crossref": "conf/ht/99",
 	"dblpkey": "conf/ht/Anderson99",
@@ -8,8 +9,18 @@
 	"ee": "http://doi.acm.org/10.1145/294469.294479",
 	"pages": "27-36",
 	"publisher": "ACM",
-	"stemmed": ["data", "scalabl", "in", "open", "hypermedia", "system"],
-	"tag": ["hypermedia", "scalability"],
+	"stemmed": [
+		"data",
+		"scalabl",
+		"in",
+		"open",
+		"hypermedia",
+		"system"
+	],
+	"tag": [
+		"hypermedia",
+		"scalability"
+	],
 	"title": "Data Scalability in Open Hypermedia Systems",
 	"type": "inproceedings",
 	"venue": "HT",

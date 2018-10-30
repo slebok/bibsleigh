@@ -1,14 +1,30 @@
 {
-	"author": ["Ayon Basumallik", "Rudolf Eigenmann"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Ayon Basumallik",
+		"Rudolf Eigenmann"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2006",
 	"dblpkey": "conf/ppopp/BasumallikE06",
 	"doi": "10.1145/1122971.1122990",
 	"ee": "http://doi.acm.org/10.1145/1122971.1122990",
 	"pages": "119-128",
 	"publisher": "ACM",
-	"stemmed": ["optim", "irregular", "share", "memori", "applic", "for", "distribut", "memori", "system"],
-	"tag": ["optimisation"],
+	"stemmed": [
+		"optim",
+		"irregular",
+		"share",
+		"memori",
+		"applic",
+		"for",
+		"distribut",
+		"memori",
+		"system"
+	],
+	"tag": [
+		"optimisation"
+	],
 	"title": "Optimizing irregular shared-memory applications for distributed-memory systems",
 	"type": "inproceedings",
 	"venue": "PPoPP",

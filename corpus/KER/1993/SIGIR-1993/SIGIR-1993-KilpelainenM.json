@@ -1,6 +1,10 @@
 {
-	"author": ["Pekka Kilpeläinen", "Heikki Mannila"],
+	"author": [
+		"Pekka Kilpeläinen",
+		"Heikki Mannila"
+	],
 	"booktitle": "Proceedings of the 16th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1993/P214.pdf",
 	"crossref": "conf/sigir/93",
 	"dblpkey": "conf/sigir/KilpelainenM93",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/160688.160722",
 	"pages": "214-222",
 	"publisher": "ACM",
-	"stemmed": ["retriev", "from", "hierarch", "text", "by", "partial", "pattern"],
-	"tag": ["retrieval"],
+	"stemmed": [
+		"retriev",
+		"from",
+		"hierarch",
+		"text",
+		"by",
+		"partial",
+		"pattern"
+	],
+	"tag": [
+		"retrieval"
+	],
 	"title": "Retrieval from Hierarchical Texts by Partial Patterns",
 	"type": "inproceedings",
 	"venue": "SIGIR",

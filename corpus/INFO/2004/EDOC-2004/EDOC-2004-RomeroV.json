@@ -1,6 +1,10 @@
 {
-	"author": ["José Raúl Romero", "Antonio Vallecillo"],
-	"booktitle": "EDOC",
+	"author": [
+		"José Raúl Romero",
+		"Antonio Vallecillo"
+	],
+	"booktitle": "Proceedings of the Eighth International Enterprise Distributed Object Computing Conference",
+	"booktitleshort": "EDOC",
 	"crossref": "conf/edoc/2004",
 	"dblpkey": "conf/edoc/RomeroV04",
 	"doi": "10.1109/EDOC.2004.10003",
@@ -8,8 +12,20 @@
 	"pages": "212-223",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["formal", "odp", "comput", "viewpoint", "specif", "in", "maud"],
-	"tag": ["formal method", "maude", "specification"],
+	"stemmed": [
+		"formal",
+		"odp",
+		"comput",
+		"viewpoint",
+		"specif",
+		"in",
+		"maud"
+	],
+	"tag": [
+		"formal method",
+		"maude",
+		"specification"
+	],
 	"title": "Formalizing ODP Computational Viewpoint Specifications in Maude",
 	"type": "inproceedings",
 	"venue": "EDOC",

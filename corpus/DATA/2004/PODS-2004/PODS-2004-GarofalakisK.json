@@ -1,14 +1,31 @@
 {
-	"author": ["Minos N. Garofalakis", "Amit Kumar"],
-	"booktitle": "PODS",
+	"author": [
+		"Minos N. Garofalakis",
+		"Amit Kumar"
+	],
+	"booktitle": "Proceedings of the 23rd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2004",
 	"dblpkey": "conf/pods/GarofalakisK04",
 	"doi": "10.1145/1055558.1055582",
-	"ee": ["http://doi.acm.org/10.1145/1055558.1055582", "http://www.acm.org/sigmod/pods/proc04/pdf/P-17.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1055558.1055582",
+		"http://www.acm.org/sigmod/pods/proc04/pdf/P-17.pdf"
+	],
 	"pages": "166-176",
 	"publisher": "ACM",
-	"stemmed": ["determinist", "wavelet", "threshold", "for", "maximum", "error", "metric"],
-	"tag": ["metric"],
+	"stemmed": [
+		"determinist",
+		"wavelet",
+		"threshold",
+		"for",
+		"maximum",
+		"error",
+		"metric"
+	],
+	"tag": [
+		"metric"
+	],
 	"title": "Deterministic Wavelet Thresholding for Maximum-Error Metrics",
 	"type": "inproceedings",
 	"venue": "PODS",

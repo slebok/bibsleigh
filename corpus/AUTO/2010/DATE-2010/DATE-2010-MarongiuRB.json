@@ -1,13 +1,35 @@
 {
-	"author": ["Andrea Marongiu", "Martino Ruggiero", "Luca Benini"],
-	"booktitle": "DATE",
+	"author": [
+		"Andrea Marongiu",
+		"Martino Ruggiero",
+		"Luca Benini"
+	],
+	"booktitle": "Proceedings of the 14th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2010",
 	"dblpkey": "conf/date/MarongiuRB10",
 	"ieeearid": 5457227,
 	"pages": "105-110",
 	"publisher": "IEEE",
-	"stemmed": ["effici", "open", "mp", "data", "map", "for", "multicor", "platform", "with", "vertic", "stack", "memori"],
-	"tag": ["manycore", "memory management", "performance"],
+	"stemmed": [
+		"effici",
+		"open",
+		"mp",
+		"data",
+		"map",
+		"for",
+		"multicor",
+		"platform",
+		"with",
+		"vertic",
+		"stack",
+		"memori"
+	],
+	"tag": [
+		"manycore",
+		"memory management",
+		"performance"
+	],
 	"title": "Efficient OpenMP data mapping for multicore platforms with vertically stacked memory",
 	"type": "inproceedings",
 	"venue": "DATE",

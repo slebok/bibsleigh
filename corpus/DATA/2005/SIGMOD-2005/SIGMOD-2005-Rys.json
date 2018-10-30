@@ -1,6 +1,6 @@
 {
 	"author": "Michael Rys",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/Rys05",
@@ -8,8 +8,24 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066301",
 	"pages": "958-962",
 	"publisher": "ACM",
-	"stemmed": ["xml", "and", "relat", "databas", "manag", "system", "insid", "microsoft", "sql", "server"],
-	"tag": ["database", "relational", "sql", "xml"],
+	"stemmed": [
+		"xml",
+		"and",
+		"relat",
+		"databas",
+		"manag",
+		"system",
+		"insid",
+		"microsoft",
+		"sql",
+		"server"
+	],
+	"tag": [
+		"database",
+		"relational",
+		"sql",
+		"xml"
+	],
 	"title": "XML and relational database management systems: inside Microsoft SQL Server 2005",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,37 @@
 {
-	"author": ["Ngai Wong", "Venkataramanan Balakrishnan"],
-	"booktitle": "DAC",
+	"author": [
+		"Ngai Wong",
+		"Venkataramanan Balakrishnan"
+	],
+	"booktitle": "Proceedings of the 43rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/WongB06",
 	"doi": "10.1145/1146909.1146976",
 	"ee": "http://doi.acm.org/10.1145/1146909.1146976",
 	"pages": "257-260",
 	"publisher": "ACM",
-	"stemmed": ["multi", "shift", "quadrat", "altern", "direct", "implicit", "iter", "for", "high", "speed", "posit", "real", "balanc", "truncat"],
-	"tag": ["multi", "performance", "polynomial"],
+	"stemmed": [
+		"multi",
+		"shift",
+		"quadrat",
+		"altern",
+		"direct",
+		"implicit",
+		"iter",
+		"for",
+		"high",
+		"speed",
+		"posit",
+		"real",
+		"balanc",
+		"truncat"
+	],
+	"tag": [
+		"multi",
+		"performance",
+		"polynomial"
+	],
 	"title": "Multi-shift quadratic alternating direction implicit iteration for high-speed positive-real balanced truncation",
 	"type": "inproceedings",
 	"venue": "DAC",

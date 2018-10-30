@@ -1,13 +1,32 @@
 {
-	"author": ["Maxime Pelcat", "Pierrick Menuet", "Slaheddine Aridhi", "Jean-François Nezan"],
-	"booktitle": "DATE",
+	"author": [
+		"Maxime Pelcat",
+		"Pierrick Menuet",
+		"Slaheddine Aridhi",
+		"Jean-François Nezan"
+	],
+	"booktitle": "Proceedings of the 13th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2009",
 	"dblpkey": "conf/date/PelcatMAN09",
 	"ieeearid": 5090909,
 	"pages": "1552-1555",
 	"publisher": "IEEE",
-	"stemmed": ["scalabl", "compil", "time", "schedul", "for", "multi", "core", "architectur"],
-	"tag": ["architecture", "manycore", "scalability"],
+	"stemmed": [
+		"scalabl",
+		"compil",
+		"time",
+		"schedul",
+		"for",
+		"multi",
+		"core",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"manycore",
+		"scalability"
+	],
 	"title": "Scalable compile-time scheduler for multi-core architectures",
 	"type": "inproceedings",
 	"venue": "DATE",

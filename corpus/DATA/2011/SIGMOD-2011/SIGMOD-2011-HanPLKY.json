@@ -1,6 +1,12 @@
 {
-	"author": ["Wook-Shin Han", "Minh-Duc Pham", "Jinsoo Lee", "Romans Kasperovics", "Jeffrey Xu Yu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Wook-Shin Han",
+		"Minh-Duc Pham",
+		"Jinsoo Lee",
+		"Romans Kasperovics",
+		"Jeffrey Xu Yu"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/HanPLKY11",
@@ -8,8 +14,24 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989464",
 	"pages": "1241-1242",
 	"publisher": "ACM",
-	"stemmed": ["igraph", "in", "action", "perform", "analysi", "of", "disk", "base", "graph", "index", "techniqu"],
-	"tag": ["analysis", "graph", "performance"],
+	"stemmed": [
+		"igraph",
+		"in",
+		"action",
+		"perform",
+		"analysi",
+		"of",
+		"disk",
+		"base",
+		"graph",
+		"index",
+		"techniqu"
+	],
+	"tag": [
+		"analysis",
+		"graph",
+		"performance"
+	],
 	"title": "iGraph in action: performance analysis of disk-based graph indexing techniques",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

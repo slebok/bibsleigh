@@ -1,14 +1,31 @@
 {
-	"author": ["Karthik Raman", "Adith Swaminathan", "Johannes Gehrke", "Thorsten Joachims"],
-	"booktitle": "KDD",
+	"author": [
+		"Karthik Raman",
+		"Adith Swaminathan",
+		"Johannes Gehrke",
+		"Thorsten Joachims"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/RamanSGJ13",
 	"doi": "10.1145/2487575.2487588",
 	"ee": "http://doi.acm.org/10.1145/2487575.2487588",
 	"pages": "86-94",
 	"publisher": "ACM",
-	"stemmed": ["beyond", "myopic", "infer", "in", "big", "data", "pipelin"],
-	"tag": ["big data", "pipes and filters"],
+	"stemmed": [
+		"beyond",
+		"myopic",
+		"infer",
+		"in",
+		"big",
+		"data",
+		"pipelin"
+	],
+	"tag": [
+		"big data",
+		"pipes and filters"
+	],
 	"title": "Beyond myopic inference in big data pipelines",
 	"type": "inproceedings",
 	"venue": "KDD",

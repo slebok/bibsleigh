@@ -1,6 +1,7 @@
 {
 	"author": "David A. Plaisted",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Plaisted86",
 	"doi": "10.1007/3-540-16780-3_81",
@@ -10,10 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "simpl", "non", "termin", "test", "for", "the", "knuth", "bendix", "method"],
+	"stemmed": [
+		"a",
+		"simpl",
+		"non",
+		"termin",
+		"test",
+		"for",
+		"the",
+		"knuth",
+		"bendix",
+		"method"
+	],
 	"title": "A Simple Non-Termination Test for the Knuth-Bendix Method",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

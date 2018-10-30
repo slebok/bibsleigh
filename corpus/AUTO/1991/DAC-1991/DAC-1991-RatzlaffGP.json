@@ -1,13 +1,27 @@
 {
-	"author": ["Curtis L. Ratzlaff", "Nanda Gopal", "Lawrence T. Pillage"],
-	"booktitle": "DAC",
+	"author": [
+		"Curtis L. Ratzlaff",
+		"Nanda Gopal",
+		"Lawrence T. Pillage"
+	],
+	"booktitle": "Proceedings of the 28th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/RatzlaffGP91",
 	"doi": "10.1145/127601.127732",
 	"ee": "http://doi.acm.org/10.1145/127601.127732",
 	"pages": "555-560",
 	"publisher": "ACM",
-	"stemmed": ["rice", "rapid", "interconnect", "circuit", "evalu"],
-	"tag": ["agile", "named"],
+	"stemmed": [
+		"rice",
+		"rapid",
+		"interconnect",
+		"circuit",
+		"evalu"
+	],
+	"tag": [
+		"agile",
+		"named"
+	],
 	"title": "RICE: Rapid Interconnect Circuit Evaluator",
 	"type": "inproceedings",
 	"venue": "DAC",

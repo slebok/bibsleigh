@@ -1,14 +1,36 @@
 {
-	"author": ["Edans F. de O. Sandes", "Guillermo Miranda", "Alba Cristina Magalhaes Alves de Melo", "Xavier Martorell", "Eduard Ayguadé"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Edans F. de O. Sandes",
+		"Guillermo Miranda",
+		"Alba Cristina Magalhaes Alves de Melo",
+		"Xavier Martorell",
+		"Eduard Ayguadé"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/SandesMMMA14",
 	"doi": "10.1145/2555243.2555280",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555280",
 	"pages": "383-384",
 	"publisher": "ACM",
-	"stemmed": ["fine", "grain", "parallel", "megabas", "sequenc", "comparison", "with", "multipl", "heterogen", "gpus"],
-	"tag": ["comparison", "parallel", "sequence"],
+	"stemmed": [
+		"fine",
+		"grain",
+		"parallel",
+		"megabas",
+		"sequenc",
+		"comparison",
+		"with",
+		"multipl",
+		"heterogen",
+		"gpus"
+	],
+	"tag": [
+		"comparison",
+		"parallel",
+		"sequence"
+	],
 	"title": "Fine-grain parallel megabase sequence comparison with multiple heterogeneous GPUs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

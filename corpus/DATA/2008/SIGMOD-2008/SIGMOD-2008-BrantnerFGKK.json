@@ -1,6 +1,12 @@
 {
-	"author": ["Matthias Brantner", "Daniela Florescu", "David A. Graf", "Donald Kossmann", "Tim Kraska"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Matthias Brantner",
+		"Daniela Florescu",
+		"David A. Graf",
+		"Donald Kossmann",
+		"Tim Kraska"
+	],
+	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2008",
 	"dblpkey": "conf/sigmod/BrantnerFGKK08",
@@ -8,8 +14,16 @@
 	"ee": "http://doi.acm.org/10.1145/1376616.1376645",
 	"pages": "251-264",
 	"publisher": "ACM",
-	"stemmed": ["build", "a", "databas", "on", "s"],
-	"tag": ["database"],
+	"stemmed": [
+		"build",
+		"a",
+		"databas",
+		"on",
+		"s"
+	],
+	"tag": [
+		"database"
+	],
 	"title": "Building a database on S3",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

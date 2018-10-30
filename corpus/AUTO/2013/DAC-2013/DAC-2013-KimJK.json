@@ -1,14 +1,37 @@
 {
-	"author": ["Juyeon Kim", "Deokjin Joo", "Taewhan Kim"],
-	"booktitle": "DAC",
+	"author": [
+		"Juyeon Kim",
+		"Deokjin Joo",
+		"Taewhan Kim"
+	],
+	"booktitle": "Proceedings of the 50th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2013",
 	"dblpkey": "conf/dac/KimJK13",
 	"doi": "10.1145/2463209.2488845",
 	"ee": "http://doi.acm.org/10.1145/2463209.2488845",
 	"pages": "90:1-90:6",
 	"publisher": "ACM",
-	"stemmed": ["an", "optim", "algorithm", "of", "adjust", "delay", "buffer", "insert", "for", "solv", "clock", "skew", "variat", "problem"],
-	"tag": ["algorithm", "problem"],
+	"stemmed": [
+		"an",
+		"optim",
+		"algorithm",
+		"of",
+		"adjust",
+		"delay",
+		"buffer",
+		"insert",
+		"for",
+		"solv",
+		"clock",
+		"skew",
+		"variat",
+		"problem"
+	],
+	"tag": [
+		"algorithm",
+		"problem"
+	],
 	"title": "An optimal algorithm of adjustable delay buffer insertion for solving clock skew variation problem",
 	"type": "inproceedings",
 	"venue": "DAC",

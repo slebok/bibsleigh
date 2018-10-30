@@ -1,14 +1,31 @@
 {
-	"author": ["Sanghamitra Roy", "Koushik Chakraborty"],
-	"booktitle": "DAC",
+	"author": [
+		"Sanghamitra Roy",
+		"Koushik Chakraborty"
+	],
+	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/RoyC12",
 	"doi": "10.1145/2228360.2228555",
 	"ee": "http://doi.acm.org/10.1145/2228360.2228555",
 	"pages": "1074-1081",
 	"publisher": "ACM",
-	"stemmed": ["predict", "time", "violat", "through", "instruct", "level", "path", "sensit", "analysi"],
-	"tag": ["analysis", "predict"],
+	"stemmed": [
+		"predict",
+		"time",
+		"violat",
+		"through",
+		"instruct",
+		"level",
+		"path",
+		"sensit",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"predict"
+	],
 	"title": "Predicting timing violations through instruction-level path sensitization analysis",
 	"type": "inproceedings",
 	"venue": "DAC",

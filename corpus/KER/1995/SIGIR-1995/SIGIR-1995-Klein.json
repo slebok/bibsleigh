@@ -1,6 +1,7 @@
 {
 	"author": "Shmuel T. Klein",
 	"booktitle": "Proceedings of the 18th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1995/P039.pdf",
 	"crossref": "conf/sigir/95",
 	"dblpkey": "conf/sigir/Klein95",
@@ -8,8 +9,21 @@
 	"ee": "http://doi.acm.org/10.1145/215206.215330",
 	"pages": "39-47",
 	"publisher": "ACM Press",
-	"stemmed": ["effici", "recompress", "techniqu", "for", "dynam", "full", "text", "retriev", "system"],
-	"tag": ["performance", "retrieval"],
+	"stemmed": [
+		"effici",
+		"recompress",
+		"techniqu",
+		"for",
+		"dynam",
+		"full",
+		"text",
+		"retriev",
+		"system"
+	],
+	"tag": [
+		"performance",
+		"retrieval"
+	],
 	"title": "Efficient Recompression Techniques for Dynamic Full-Text Retrieval Systems",
 	"type": "inproceedings",
 	"venue": "SIGIR",

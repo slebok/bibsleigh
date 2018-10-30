@@ -1,6 +1,7 @@
 {
 	"author": "François Fages",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Seventh International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1984",
 	"dblpkey": "conf/cade/Fages84",
 	"doi": "10.1007/BFb0047122",
@@ -10,11 +11,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["associ", "commut", "unif"],
-	"tag": ["commutative", "unification"],
+	"stemmed": [
+		"associ",
+		"commut",
+		"unif"
+	],
+	"tag": [
+		"commutative",
+		"unification"
+	],
 	"title": "Associative-Commutative Unification",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 170,
+	"volume": "170",
 	"year": 1984
 }

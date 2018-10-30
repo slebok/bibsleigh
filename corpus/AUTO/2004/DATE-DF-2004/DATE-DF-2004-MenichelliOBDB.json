@@ -1,6 +1,13 @@
 {
-	"author": ["Francesco Menichelli", "Mauro Olivieri", "Luca Benini", "Monica Donno", "Labros Bisdounis"],
-	"booktitle": "DATE",
+	"author": [
+		"Francesco Menichelli",
+		"Mauro Olivieri",
+		"Luca Benini",
+		"Monica Donno",
+		"Labros Bisdounis"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Designers’ Forum",
+	"booktitleshort": "DATE DF",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/MenichelliOBDB04",
 	"doi": "10.1109/DATE.2004.1269256",
@@ -8,8 +15,28 @@
 	"pages": "312-317",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "simul", "base", "power", "awar", "architectur", "explor", "of", "a", "multiprocessor", "system", "on", "chip", "design"],
-	"tag": ["architecture", "design", "multi", "power management"],
+	"stemmed": [
+		"a",
+		"simul",
+		"base",
+		"power",
+		"awar",
+		"architectur",
+		"explor",
+		"of",
+		"a",
+		"multiprocessor",
+		"system",
+		"on",
+		"chip",
+		"design"
+	],
+	"tag": [
+		"architecture",
+		"design",
+		"multi",
+		"power management"
+	],
 	"title": "A Simulation-Based Power-Aware Architecture Exploration of a Multiprocessor System-on-Chip Design",
 	"type": "inproceedings",
 	"venue": "DATE",

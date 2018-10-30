@@ -1,13 +1,33 @@
 {
-	"author": ["Wim Kruiskamp", "Domine Leenaerts"],
-	"booktitle": "DAC",
+	"author": [
+		"Wim Kruiskamp",
+		"Domine Leenaerts"
+	],
+	"booktitle": "Proceedings of the 32nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/KruiskampL95",
 	"doi": "10.1145/217474.217566",
 	"ee": "http://doi.acm.org/10.1145/217474.217566",
 	"pages": "433-438",
 	"publisher": "ACM Press",
-	"stemmed": ["darwin", "cmos", "opamp", "synthesi", "by", "mean", "of", "a", "genet", "algorithm"],
-	"tag": ["algorithm", "named", "search-based", "synthesis"],
+	"stemmed": [
+		"darwin",
+		"cmos",
+		"opamp",
+		"synthesi",
+		"by",
+		"mean",
+		"of",
+		"a",
+		"genet",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"named",
+		"search-based",
+		"synthesis"
+	],
 	"title": "DARWIN: CMOS Opamp Synthesis by Means of a Genetic Algorithm",
 	"type": "inproceedings",
 	"venue": "DAC",

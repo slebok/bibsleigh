@@ -1,14 +1,43 @@
 {
-	"author": ["Christophe Lécluse", "Nicolas Spyratos"],
-	"booktitle": "VLDB",
-	"cite": ["conf/pods/CosmadakisKS85", "journals/tods/KorthKFGU84", "...", "...", "journals/tods/Mendelzon84", "...", "journals/acr/MaierRW86", "journals/is/MaierRSSW87", "journals/tods/MaierUV84", "journals/tods/Spyratos87", "journals/tods/Sagiv83"],
+	"author": [
+		"Christophe Lécluse",
+		"Nicolas Spyratos"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/pods/CosmadakisKS85",
+		"journals/tods/KorthKFGU84",
+		"...",
+		"...",
+		"journals/tods/Mendelzon84",
+		"...",
+		"journals/acr/MaierRW86",
+		"journals/is/MaierRSSW87",
+		"journals/tods/MaierUV84",
+		"journals/tods/Spyratos87",
+		"journals/tods/Sagiv83"
+	],
 	"crossref": "conf/vldb/88",
 	"dblpkey": "conf/vldb/LecluseS88",
 	"ee": "http://www.vldb.org/conf/1988/P068.PDF",
 	"pages": "62-75",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["implement", "queri", "and", "updat", "on", "univers", "scheme", "interfac"],
-	"tag": ["implementation", "interface", "query"],
+	"stemmed": [
+		"implement",
+		"queri",
+		"and",
+		"updat",
+		"on",
+		"univers",
+		"scheme",
+		"interfac"
+	],
+	"tag": [
+		"implementation",
+		"interface",
+		"query"
+	],
 	"title": "Implementing Queries and Updates on Universal Scheme Interfaces",
 	"type": "inproceedings",
 	"venue": "VLDB",

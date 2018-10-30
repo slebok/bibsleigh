@@ -1,14 +1,26 @@
 {
-	"author": ["Edward K. Lee", "Chandramohan A. Thekkath"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Edward K. Lee",
+		"Chandramohan A. Thekkath"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1996",
 	"dblpkey": "conf/asplos/LeeT96",
 	"doi": "10.1145/237090.237157",
 	"ee": "http://doi.acm.org/10.1145/237090.237157",
 	"pages": "84-92",
 	"publisher": "ACM Press",
-	"stemmed": ["petal", "distribut", "virtual", "disk"],
-	"tag": ["distributed", "named"],
+	"stemmed": [
+		"petal",
+		"distribut",
+		"virtual",
+		"disk"
+	],
+	"tag": [
+		"distributed",
+		"named"
+	],
 	"title": "Petal: Distributed Virtual Disks",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

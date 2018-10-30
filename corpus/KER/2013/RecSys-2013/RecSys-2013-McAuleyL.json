@@ -1,14 +1,35 @@
 {
-	"author": ["Julian J. McAuley", "Jure Leskovec"],
-	"booktitle": "RecSys",
+	"author": [
+		"Julian J. McAuley",
+		"Jure Leskovec"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2013",
 	"dblpkey": "conf/recsys/McAuleyL13",
 	"doi": "10.1145/2507157.2507163",
 	"ee": "http://doi.acm.org/10.1145/2507157.2507163",
 	"pages": "165-172",
 	"publisher": "ACM",
-	"stemmed": ["hidden", "factor", "and", "hidden", "topic", "understand", "rate", "dimens", "with", "review", "text"],
-	"tag": ["bibliography", "comprehension", "rating", "topic"],
+	"stemmed": [
+		"hidden",
+		"factor",
+		"and",
+		"hidden",
+		"topic",
+		"understand",
+		"rate",
+		"dimens",
+		"with",
+		"review",
+		"text"
+	],
+	"tag": [
+		"bibliography",
+		"comprehension",
+		"rating",
+		"topic"
+	],
 	"title": "Hidden factors and hidden topics: understanding rating dimensions with review text",
 	"type": "inproceedings",
 	"venue": "RecSys",

@@ -1,13 +1,34 @@
 {
-	"author": ["Serge Abiteboul", "Itay Dar", "Radu Pop", "Gabriel Vasile", "Dan Vodislav", "Nicoleta Preda"],
-	"booktitle": "VLDB",
+	"author": [
+		"Serge Abiteboul",
+		"Itay Dar",
+		"Radu Pop",
+		"Gabriel Vasile",
+		"Dan Vodislav",
+		"Nicoleta Preda"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/AbiteboulDPVVP07",
 	"ee": "http://www.vldb.org/conf/2007/papers/demo/p1390-abiteboul.pdf",
 	"pages": "1390-1393",
 	"publisher": "ACM",
-	"stemmed": ["larg", "scale", "p", "p", "distribut", "of", "open", "sourc", "softwar"],
-	"tag": ["open source", "scalability"],
+	"stemmed": [
+		"larg",
+		"scale",
+		"p",
+		"p",
+		"distribut",
+		"of",
+		"open",
+		"sourc",
+		"softwar"
+	],
+	"tag": [
+		"open source",
+		"scalability"
+	],
 	"title": "Large Scale P2P Distribution of Open-Source Software",
 	"type": "inproceedings",
 	"venue": "VLDB",

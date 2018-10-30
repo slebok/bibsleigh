@@ -1,14 +1,28 @@
 {
-	"author": ["Yujie Liu", "Michael F. Spear"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Yujie Liu",
+		"Michael F. Spear"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/LiuS12",
 	"doi": "10.1145/2145816.2145876",
 	"ee": "http://doi.acm.org/10.1145/2145816.2145876",
 	"pages": "323-324",
 	"publisher": "ACM",
-	"stemmed": ["a", "lock", "free", "array", "base", "prioriti", "queue"],
-	"tag": ["queue"],
+	"stemmed": [
+		"a",
+		"lock",
+		"free",
+		"array",
+		"base",
+		"prioriti",
+		"queue"
+	],
+	"tag": [
+		"queue"
+	],
 	"title": "A lock-free, array-based priority queue",
 	"type": "inproceedings",
 	"venue": "PPoPP",

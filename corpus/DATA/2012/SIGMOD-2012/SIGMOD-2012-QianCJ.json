@@ -1,6 +1,10 @@
 {
-	"author": ["Li Qian", "Michael J. Cafarella", "H. V. Jagadish"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Li Qian",
+		"Michael J. Cafarella",
+		"H. V. Jagadish"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/QianCJ12",
@@ -8,7 +12,12 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213846",
 	"pages": "73-84",
 	"publisher": "ACM",
-	"stemmed": ["sampl", "driven", "schema", "map"],
+	"stemmed": [
+		"sampl",
+		"driven",
+		"schema",
+		"map"
+	],
 	"title": "Sample-driven schema mapping",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

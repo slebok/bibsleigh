@@ -1,16 +1,40 @@
 {
-	"author": ["Lyman Do", "Prabhu Ram", "Pamela Drew"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Lyman Do",
+		"Prabhu Ram",
+		"Pamela Drew"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "DiSC2_1/out/papers/sigmod/theneedfordistrlyprp.pdf",
-	"cite": ["books/aw/BernsteinHG87", "conf/vldb/DoDJJR98", "...", "books/mk/Elmagarmid92", "...", "...", "...", "journals/tkde/RamamrithamP95"],
+	"cite": [
+		"books/aw/BernsteinHG87",
+		"conf/vldb/DoDJJR98",
+		"...",
+		"books/mk/Elmagarmid92",
+		"...",
+		"...",
+		"...",
+		"journals/tkde/RamamrithamP95"
+	],
 	"crossref": "conf/sigmod/99",
 	"dblpkey": "conf/sigmod/DoRD99",
 	"doi": "10.1145/304182.304250",
 	"ee": "http://doi.acm.org/10.1145/304182.304250",
 	"pages": "534-535",
 	"publisher": "ACM Press",
-	"stemmed": ["the", "need", "for", "distribut", "asynchron", "transact"],
-	"tag": ["distributed", "transaction"],
+	"stemmed": [
+		"the",
+		"need",
+		"for",
+		"distribut",
+		"asynchron",
+		"transact"
+	],
+	"tag": [
+		"distributed",
+		"transaction"
+	],
 	"title": "The Need for Distributed Asynchronous Transactions",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

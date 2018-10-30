@@ -1,6 +1,11 @@
 {
-	"author": ["Brett Powley", "Robert Dale", "Ilya Anisimoff"],
-	"booktitle": "DRR",
+	"author": [
+		"Brett Powley",
+		"Robert Dale",
+		"Ilya Anisimoff"
+	],
+	"booktitle": "Proceedings of the 16th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2009",
 	"dblpkey": "conf/drr/PowleyDA09",
 	"doi": "10.1117/12.805548",
@@ -8,11 +13,26 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["enrich", "a", "document", "collect", "by", "integr", "inform", "extract", "and", "pdf", "annot"],
-	"tag": ["documentation", "information management"],
+	"stemmed": [
+		"enrich",
+		"a",
+		"document",
+		"collect",
+		"by",
+		"integr",
+		"inform",
+		"extract",
+		"and",
+		"pdf",
+		"annot"
+	],
+	"tag": [
+		"documentation",
+		"information management"
+	],
 	"title": "Enriching a document collection by integrating information extraction and PDF annotation",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7247,
+	"volume": "7247",
 	"year": 2009
 }

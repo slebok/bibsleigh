@@ -1,16 +1,48 @@
 {
-	"author": ["Mark L. McAuliffe", "Michael J. Carey", "Marvin H. Solomon"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Mark L. McAuliffe",
+		"Michael J. Carey",
+		"Marvin H. Solomon"
+	],
+	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD96/P389.PDF",
-	"cite": ["conf/sigmod/CareyDFHMNSSTTWZ94", "...", "journals/tkde/HaasCLMWLLPCS90", "...", "...", "journals/siamcomp/JohnsonDUGG74", "journals/jcss/JohnsonS93", "...", "...", "...", "conf/edbt/MohanH94", "...", "...", "conf/hpts/Group87"],
+	"cite": [
+		"conf/sigmod/CareyDFHMNSSTTWZ94",
+		"...",
+		"journals/tkde/HaasCLMWLLPCS90",
+		"...",
+		"...",
+		"journals/siamcomp/JohnsonDUGG74",
+		"journals/jcss/JohnsonS93",
+		"...",
+		"...",
+		"...",
+		"conf/edbt/MohanH94",
+		"...",
+		"...",
+		"conf/hpts/Group87"
+	],
 	"crossref": "conf/sigmod/96",
 	"dblpkey": "conf/sigmod/McAuliffeCS96",
 	"doi": "10.1145/233269.233355",
 	"ee": "http://doi.acm.org/10.1145/233269.233355",
 	"pages": "389-400",
 	"publisher": "ACM Press",
-	"stemmed": ["toward", "effect", "and", "effici", "free", "space", "manag"],
-	"tag": ["effectiveness", "performance", "towards"],
+	"stemmed": [
+		"toward",
+		"effect",
+		"and",
+		"effici",
+		"free",
+		"space",
+		"manag"
+	],
+	"tag": [
+		"effectiveness",
+		"performance",
+		"towards"
+	],
 	"title": "Towards Effective and Efficient Free Space Management",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

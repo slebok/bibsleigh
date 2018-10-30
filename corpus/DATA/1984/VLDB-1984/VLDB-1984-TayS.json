@@ -1,14 +1,45 @@
 {
-	"author": ["Y. C. Tay", "Rajan Suri"],
-	"booktitle": "VLDB",
-	"cite": ["conf/podc/BalterBD82", "conf/vldb/BeeriO81", "phd/Carey83", "journals/csur/ChandyS78", "...", "journals/is/DevorC82", "journals/acta/DenningKLPS76", "conf/ac/Gray78", "conf/icalp/Gray80", "conf/berkeley/LinN82", "conf/sigmod/MunzK77", "conf/berkeley/Ries79", "...", "...", "journals/cacm/Yao77"],
+	"author": [
+		"Y. C. Tay",
+		"Rajan Suri"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/podc/BalterBD82",
+		"conf/vldb/BeeriO81",
+		"phd/Carey83",
+		"journals/csur/ChandyS78",
+		"...",
+		"journals/is/DevorC82",
+		"journals/acta/DenningKLPS76",
+		"conf/ac/Gray78",
+		"conf/icalp/Gray80",
+		"conf/berkeley/LinN82",
+		"conf/sigmod/MunzK77",
+		"conf/berkeley/Ries79",
+		"...",
+		"...",
+		"journals/cacm/Yao77"
+	],
 	"crossref": "conf/vldb/84",
 	"dblpkey": "conf/vldb/TayS84",
 	"ee": "http://www.vldb.org/conf/1984/P119.PDF",
 	"pages": "119-128",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["choic", "and", "perform", "in", "lock", "for", "databas"],
-	"tag": ["database", "performance"],
+	"stemmed": [
+		"choic",
+		"and",
+		"perform",
+		"in",
+		"lock",
+		"for",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"performance"
+	],
 	"title": "Choice and Performance in Locking for Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

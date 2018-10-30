@@ -1,12 +1,18 @@
 {
 	"author": "Goetz Graefe",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/Graefe04",
 	"ee": "http://www.vldb.org/conf/2004/RS18P2.PDF",
 	"pages": "672-683",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["write", "optim", "b", "tree"],
+	"stemmed": [
+		"write",
+		"optim",
+		"b",
+		"tree"
+	],
 	"title": "Write-Optimized B-Trees",
 	"type": "inproceedings",
 	"venue": "VLDB",

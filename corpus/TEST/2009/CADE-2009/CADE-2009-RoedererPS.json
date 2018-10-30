@@ -1,6 +1,11 @@
 {
-	"author": ["Alex Roederer", "Yury Puzis", "Geoff Sutcliffe"],
-	"booktitle": "CADE",
+	"author": [
+		"Alex Roederer",
+		"Yury Puzis",
+		"Geoff Sutcliffe"
+	],
+	"booktitle": "Proceedings of the 22nd International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2009",
 	"dblpkey": "conf/cade/RoedererPS09",
 	"doi": "10.1007/978-3-642-02959-2_13",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["divvi", "an", "atp", "meta", "system", "base", "on", "axiom", "relev", "order"],
-	"tag": ["axiom", "named"],
+	"stemmed": [
+		"divvi",
+		"an",
+		"atp",
+		"meta",
+		"system",
+		"base",
+		"on",
+		"axiom",
+		"relev",
+		"order"
+	],
+	"tag": [
+		"axiom",
+		"named"
+	],
 	"title": "Divvy: An ATP Meta-system Based on Axiom Relevance Ordering",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 5663,
+	"volume": "5663",
 	"year": 2009
 }

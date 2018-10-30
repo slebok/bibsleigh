@@ -1,6 +1,7 @@
 {
 	"author": "Dieter Merkl",
 	"booktitle": "Proceedings of the 20th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1997/P186.pdf",
 	"crossref": "conf/sigir/97",
 	"dblpkey": "conf/sigir/Merkl97",
@@ -8,7 +9,16 @@
 	"ee": "http://doi.acm.org/10.1145/258525.258564",
 	"pages": "186-195",
 	"publisher": "ACM",
-	"stemmed": ["explor", "of", "text", "collect", "with", "hierarch", "featur", "map"],
+	"stemmed": [
+		"explor",
+		"of",
+		"text",
+		"collect",
+		"with",
+		"hierarch",
+		"featur",
+		"map"
+	],
 	"title": "Exploration of Text Collections with Hierarchical Feature Maps",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,6 +1,10 @@
 {
-	"author": ["Curtis Eubanks", "Yasuaki Yamagishi"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Curtis Eubanks",
+		"Yasuaki Yamagishi"
+	],
+	"booktitle": "Proceedings of the Third Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1991/P427.pdf",
 	"crossref": "conf/ht/91",
 	"dblpkey": "conf/ht/EubanksY91",
@@ -8,8 +12,16 @@
 	"ee": "http://doi.acm.org/10.1145/122974.125136",
 	"pages": "427-428",
 	"publisher": "ACM",
-	"stemmed": ["sal", "a", "hypermedia", "system"],
-	"tag": ["hypermedia", "named"],
+	"stemmed": [
+		"sal",
+		"a",
+		"hypermedia",
+		"system"
+	],
+	"tag": [
+		"hypermedia",
+		"named"
+	],
 	"title": "SAL: A Hypermedia System",
 	"type": "inproceedings",
 	"venue": "HT",

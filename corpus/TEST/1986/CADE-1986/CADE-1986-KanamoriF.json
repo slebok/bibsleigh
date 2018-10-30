@@ -1,6 +1,10 @@
 {
-	"author": ["Tadashi Kanamori", "Hiroshi Fujita"],
-	"booktitle": "CADE",
+	"author": [
+		"Tadashi Kanamori",
+		"Hiroshi Fujita"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/KanamoriF86",
 	"doi": "10.1007/3-540-16780-3_97",
@@ -10,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["formul", "of", "induct", "formula", "in", "verif", "of", "prolog", "program"],
-	"tag": ["induction", "prolog", "source code", "verification"],
+	"stemmed": [
+		"formul",
+		"of",
+		"induct",
+		"formula",
+		"in",
+		"verif",
+		"of",
+		"prolog",
+		"program"
+	],
+	"tag": [
+		"induction",
+		"prolog",
+		"source code",
+		"verification"
+	],
 	"title": "Formulation of Induction Formulas in Verification of Prolog Programs",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

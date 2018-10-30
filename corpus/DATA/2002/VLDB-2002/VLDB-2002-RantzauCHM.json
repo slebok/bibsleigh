@@ -1,13 +1,32 @@
 {
-	"author": ["Ralf Rantzau", "Carmen Constantinescu", "Uwe Heinkel", "Holger Meinecke"],
-	"booktitle": "VLDB",
+	"author": [
+		"Ralf Rantzau",
+		"Carmen Constantinescu",
+		"Uwe Heinkel",
+		"Holger Meinecke"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/RantzauCHM02",
 	"ee": "http://www.vldb.org/conf/2002/S33P15.pdf",
 	"pages": "1099-1102",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["champagn", "data", "chang", "propag", "for", "heterogen", "inform", "system"],
-	"tag": ["co-evolution", "information management", "named"],
+	"stemmed": [
+		"champagn",
+		"data",
+		"chang",
+		"propag",
+		"for",
+		"heterogen",
+		"inform",
+		"system"
+	],
+	"tag": [
+		"co-evolution",
+		"information management",
+		"named"
+	],
 	"title": "Champagne: Data Change Propagation for Heterogeneous Information Systems",
 	"type": "inproceedings",
 	"venue": "VLDB",

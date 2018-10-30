@@ -1,14 +1,38 @@
 {
-	"author": ["Allon Adir", "Yaron Arbetman", "Bella Dubrov", "Yossi Lichtenstein", "Michal Rimon", "Michael Vinov", "Massimo A. Calligaro", "Andrew Cofler", "Gabriel Duffy"],
-	"booktitle": "DAC",
+	"author": [
+		"Allon Adir",
+		"Yaron Arbetman",
+		"Bella Dubrov",
+		"Yossi Lichtenstein",
+		"Michal Rimon",
+		"Michael Vinov",
+		"Massimo A. Calligaro",
+		"Andrew Cofler",
+		"Gabriel Duffy"
+	],
+	"booktitle": "Proceedings of the 42nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/AdirADLRVCCD05",
 	"doi": "10.1145/1065579.1065787",
 	"ee": "http://doi.acm.org/10.1145/1065579.1065787",
 	"pages": "779-782",
 	"publisher": "ACM",
-	"stemmed": ["vliw", "a", "case", "studi", "of", "parallel", "verif"],
-	"tag": ["case study", "named", "parallel", "verification"],
+	"stemmed": [
+		"vliw",
+		"a",
+		"case",
+		"studi",
+		"of",
+		"parallel",
+		"verif"
+	],
+	"tag": [
+		"case study",
+		"named",
+		"parallel",
+		"verification"
+	],
 	"title": "VLIW: a case study of parallelism verification",
 	"type": "inproceedings",
 	"venue": "DAC",

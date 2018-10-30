@@ -1,14 +1,32 @@
 {
-	"author": ["Daniel David Walker", "Eric K. Ringger"],
-	"booktitle": "KDD",
+	"author": [
+		"Daniel David Walker",
+		"Eric K. Ringger"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/WalkerR08",
 	"doi": "10.1145/1401890.1401975",
 	"ee": "http://doi.acm.org/10.1145/1401890.1401975",
 	"pages": "704-712",
 	"publisher": "ACM",
-	"stemmed": ["model", "base", "document", "cluster", "with", "a", "collaps", "gibb", "sampler"],
-	"tag": ["clustering", "documentation", "modelling"],
+	"stemmed": [
+		"model",
+		"base",
+		"document",
+		"cluster",
+		"with",
+		"a",
+		"collaps",
+		"gibb",
+		"sampler"
+	],
+	"tag": [
+		"clustering",
+		"documentation",
+		"modelling"
+	],
 	"title": "Model-based document clustering with a collapsed gibbs sampler",
 	"type": "inproceedings",
 	"venue": "KDD",

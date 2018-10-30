@@ -1,6 +1,10 @@
 {
-	"author": ["Samuel Norman Hamilton", "Alex Orailoglu"],
-	"booktitle": "DATE",
+	"author": [
+		"Samuel Norman Hamilton",
+		"Alex Orailoglu"
+	],
+	"booktitle": "Proceedings of the Third Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1998",
 	"dblpkey": "conf/date/HamiltonO98",
 	"doi": "10.1109/DATE.1998.655920",
@@ -8,8 +12,23 @@
 	"pages": "604-609",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["concurr", "error", "recoveri", "with", "near", "zero", "latenc", "in", "synthes", "asic"],
-	"tag": ["concurrent", "fault", "latency"],
+	"stemmed": [
+		"concurr",
+		"error",
+		"recoveri",
+		"with",
+		"near",
+		"zero",
+		"latenc",
+		"in",
+		"synthes",
+		"asic"
+	],
+	"tag": [
+		"concurrent",
+		"fault",
+		"latency"
+	],
 	"title": "Concurrent Error Recovery with Near-Zero Latency in Synthesized ASICs",
 	"type": "inproceedings",
 	"venue": "DATE",

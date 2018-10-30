@@ -1,14 +1,30 @@
 {
-	"author": ["Austin T. Clements", "M. Frans Kaashoek", "Nickolai Zeldovich"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Austin T. Clements",
+		"M. Frans Kaashoek",
+		"Nickolai Zeldovich"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2012",
 	"dblpkey": "conf/asplos/ClementsKZ12",
 	"doi": "10.1145/2150976.2150998",
 	"ee": "http://doi.acm.org/10.1145/2150976.2150998",
 	"pages": "199-210",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "address", "space", "use", "rcu", "balanc", "tree"],
-	"tag": ["scalability", "using"],
+	"stemmed": [
+		"scalabl",
+		"address",
+		"space",
+		"use",
+		"rcu",
+		"balanc",
+		"tree"
+	],
+	"tag": [
+		"scalability",
+		"using"
+	],
 	"title": "Scalable address spaces using RCU balanced trees",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

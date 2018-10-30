@@ -1,14 +1,35 @@
 {
-	"author": ["Guoming He", "Haijun Feng", "Cuiping Li", "Hong Chen"],
-	"booktitle": "KDD",
+	"author": [
+		"Guoming He",
+		"Haijun Feng",
+		"Cuiping Li",
+		"Hong Chen"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/HeFLC10",
 	"doi": "10.1145/1835804.1835874",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835874",
 	"pages": "543-552",
 	"publisher": "ACM",
-	"stemmed": ["parallel", "sim", "rank", "comput", "on", "larg", "graph", "with", "iter", "aggreg"],
-	"tag": ["graph", "parallel", "scalability"],
+	"stemmed": [
+		"parallel",
+		"sim",
+		"rank",
+		"comput",
+		"on",
+		"larg",
+		"graph",
+		"with",
+		"iter",
+		"aggreg"
+	],
+	"tag": [
+		"graph",
+		"parallel",
+		"scalability"
+	],
 	"title": "Parallel SimRank computation on large graphs with iterative aggregation",
 	"type": "inproceedings",
 	"venue": "KDD",

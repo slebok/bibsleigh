@@ -1,6 +1,12 @@
 {
-	"author": ["Erika Ábrahám", "Bernd Becker", "Felix Klaedtke", "Martin Steffen"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Erika Ábrahám",
+		"Bernd Becker",
+		"Felix Klaedtke",
+		"Martin Steffen"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2005",
 	"dblpkey": "conf/vmcai/AbrahamBKS05",
 	"doi": "10.1007/978-3-540-30579-8_26",
@@ -10,11 +16,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["optim", "bound", "model", "check", "for", "linear", "hybrid", "system"],
-	"tag": ["bound", "hybrid", "linear", "model checking", "optimisation"],
+	"stemmed": [
+		"optim",
+		"bound",
+		"model",
+		"check",
+		"for",
+		"linear",
+		"hybrid",
+		"system"
+	],
+	"tag": [
+		"bound",
+		"hybrid",
+		"linear",
+		"model checking",
+		"optimisation"
+	],
 	"title": "Optimizing Bounded Model Checking for Linear Hybrid Systems",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3385,
+	"volume": "3385",
 	"year": 2005
 }

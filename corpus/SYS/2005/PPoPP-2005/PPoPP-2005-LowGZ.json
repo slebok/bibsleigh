@@ -1,14 +1,38 @@
 {
-	"author": ["Tze Meng Low", "Robert A. van de Geijn", "Field G. Van Zee"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Tze Meng Low",
+		"Robert A. van de Geijn",
+		"Field G. Van Zee"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2005",
 	"dblpkey": "conf/ppopp/LowGZ05",
 	"doi": "10.1145/1065944.1065965",
 	"ee": "http://doi.acm.org/10.1145/1065944.1065965",
 	"pages": "153-163",
 	"publisher": "ACM",
-	"stemmed": ["extract", "smp", "parallel", "for", "dens", "linear", "algebra", "algorithm", "from", "high", "level", "specif"],
-	"tag": ["algebra", "algorithm", "linear", "parallel", "specification"],
+	"stemmed": [
+		"extract",
+		"smp",
+		"parallel",
+		"for",
+		"dens",
+		"linear",
+		"algebra",
+		"algorithm",
+		"from",
+		"high",
+		"level",
+		"specif"
+	],
+	"tag": [
+		"algebra",
+		"algorithm",
+		"linear",
+		"parallel",
+		"specification"
+	],
 	"title": "Extracting SMP parallelism for dense linear algebra algorithms from high-level specifications",
 	"type": "inproceedings",
 	"venue": "PPoPP",

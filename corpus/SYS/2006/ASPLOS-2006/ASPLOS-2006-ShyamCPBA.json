@@ -1,14 +1,34 @@
 {
-	"author": ["Smitha Shyam", "Kypros Constantinides", "Sujay Phadke", "Valeria Bertacco", "Todd M. Austin"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Smitha Shyam",
+		"Kypros Constantinides",
+		"Sujay Phadke",
+		"Valeria Bertacco",
+		"Todd M. Austin"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/ShyamCPBA06",
 	"doi": "10.1145/1168857.1168868",
 	"ee": "http://doi.acm.org/10.1145/1168857.1168868",
 	"pages": "73-82",
 	"publisher": "ACM",
-	"stemmed": ["ultra", "low", "cost", "defect", "protect", "for", "microprocessor", "pipelin"],
-	"tag": ["fault", "low cost", "pipes and filters"],
+	"stemmed": [
+		"ultra",
+		"low",
+		"cost",
+		"defect",
+		"protect",
+		"for",
+		"microprocessor",
+		"pipelin"
+	],
+	"tag": [
+		"fault",
+		"low cost",
+		"pipes and filters"
+	],
 	"title": "Ultra low-cost defect protection for microprocessor pipelines",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

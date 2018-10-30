@@ -1,14 +1,35 @@
 {
-	"author": ["Qi Gao", "Wenbin Zhang", "Zhezhe Chen", "Mai Zheng", "Feng Qin"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Qi Gao",
+		"Wenbin Zhang",
+		"Zhezhe Chen",
+		"Mai Zheng",
+		"Feng Qin"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2011",
 	"dblpkey": "conf/asplos/GaoZCZQ11",
 	"doi": "10.1145/1950365.1950394",
 	"ee": "http://doi.acm.org/10.1145/1950365.1950394",
 	"pages": "239-250",
 	"publisher": "ACM",
-	"stemmed": ["ndstrike", "toward", "manifest", "hidden", "concurr", "typest", "bug"],
-	"tag": ["concurrent", "debugging", "named", "towards", "type system"],
+	"stemmed": [
+		"ndstrike",
+		"toward",
+		"manifest",
+		"hidden",
+		"concurr",
+		"typest",
+		"bug"
+	],
+	"tag": [
+		"concurrent",
+		"debugging",
+		"named",
+		"towards",
+		"type system"
+	],
 	"title": "2ndStrike: toward manifesting hidden concurrency typestate bugs",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

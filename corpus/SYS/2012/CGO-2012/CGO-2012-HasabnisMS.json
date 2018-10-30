@@ -1,14 +1,26 @@
 {
-	"author": ["Niranjan Hasabnis", "Ashish Misra", "R. Sekar"],
-	"booktitle": "CGO",
+	"author": [
+		"Niranjan Hasabnis",
+		"Ashish Misra",
+		"R. Sekar"
+	],
+	"booktitle": "Proceedings of the 10th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2012",
 	"dblpkey": "conf/cgo/HasabnisMS12",
 	"doi": "10.1145/2259016.2259034",
 	"ee": "http://doi.acm.org/10.1145/2259016.2259034",
 	"pages": "135-144",
 	"publisher": "ACM",
-	"stemmed": ["light", "weight", "bound", "check"],
-	"tag": ["bound"],
+	"stemmed": [
+		"light",
+		"weight",
+		"bound",
+		"check"
+	],
+	"tag": [
+		"bound"
+	],
 	"title": "Light-weight bounds checking",
 	"type": "inproceedings",
 	"venue": "CGO",

@@ -1,14 +1,37 @@
 {
-	"author": ["Konstantinos F. Sagonas", "Jesper Wilhelmsson"],
-	"booktitle": "ISMM",
+	"author": [
+		"Konstantinos F. Sagonas",
+		"Jesper Wilhelmsson"
+	],
+	"booktitle": "Proceedings of the Fourth International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2004",
 	"dblpkey": "conf/iwmm/SagonasW04",
 	"doi": "10.1145/1029873.1029875",
 	"ee": "http://doi.acm.org/10.1145/1029873.1029875",
 	"pages": "1-12",
 	"publisher": "ACM",
-	"stemmed": ["messag", "analysi", "guid", "alloc", "and", "low", "paus", "increment", "garbag", "collect", "in", "a", "concurr", "languag"],
-	"tag": ["concurrent", "garbage collection", "incremental"],
+	"stemmed": [
+		"messag",
+		"analysi",
+		"guid",
+		"alloc",
+		"and",
+		"low",
+		"paus",
+		"increment",
+		"garbag",
+		"collect",
+		"in",
+		"a",
+		"concurr",
+		"languag"
+	],
+	"tag": [
+		"concurrent",
+		"garbage collection",
+		"incremental"
+	],
 	"title": "Message analysis-guided allocation and low-pause incremental garbage collection in a concurrent language",
 	"type": "inproceedings",
 	"venue": "ISMM",

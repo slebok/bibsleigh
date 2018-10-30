@@ -1,6 +1,10 @@
 {
-	"author": ["Pantelis Stylianos Yiasemis", "Andreas S. Andreou"],
-	"booktitle": "ICEIS",
+	"author": [
+		"Pantelis Stylianos Yiasemis",
+		"Andreas S. Andreou"
+	],
+	"booktitle": "Revised Selected Papers of the 14th International Conference on Enterprise Information Systems",
+	"booktitleshort": "Post-ICEIS",
 	"crossref": "conf/iceis/2012",
 	"dblpkey": "conf/iceis/YiasemisA12a",
 	"doi": "10.1007/978-3-642-40654-6_13",
@@ -10,11 +14,31 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Business Information Processing",
 	"seriesshort": "LNBIP",
-	"stemmed": ["locat", "and", "correct", "softwar", "fault", "in", "execut", "code", "slice", "via", "evolutionari", "mutat", "test"],
-	"tag": ["execution", "fault", "mutation testing", "slicing", "testing"],
+	"stemmed": [
+		"locat",
+		"and",
+		"correct",
+		"softwar",
+		"fault",
+		"in",
+		"execut",
+		"code",
+		"slice",
+		"via",
+		"evolutionari",
+		"mutat",
+		"test"
+	],
+	"tag": [
+		"execution",
+		"fault",
+		"mutation testing",
+		"slicing",
+		"testing"
+	],
 	"title": "Locating and Correcting Software Faults in Executable Code Slices via Evolutionary Mutation Testing",
 	"type": "inproceedings",
 	"venue": "ICEIS",
-	"volume": 141,
+	"volume": "141",
 	"year": 2012
 }

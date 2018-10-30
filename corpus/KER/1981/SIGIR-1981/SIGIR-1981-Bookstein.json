@@ -1,6 +1,7 @@
 {
 	"author": "Abraham Bookstein",
 	"booktitle": "Proceedings of the Fourth International Conference on Information Storage and Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1981/P004.pdf",
 	"crossref": "conf/sigir/81",
 	"dblpkey": "conf/sigir/Bookstein81",
@@ -8,8 +9,16 @@
 	"ee": "http://doi.acm.org/10.1145/511754.511756",
 	"pages": "4-14",
 	"publisher": "ACM",
-	"stemmed": ["the", "general", "retriev", "problem"],
-	"tag": ["problem", "retrieval"],
+	"stemmed": [
+		"the",
+		"general",
+		"retriev",
+		"problem"
+	],
+	"tag": [
+		"problem",
+		"retrieval"
+	],
 	"title": "The Generalized Retrieval Problem",
 	"type": "inproceedings",
 	"venue": "SIGIR",

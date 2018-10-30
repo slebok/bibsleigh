@@ -1,6 +1,7 @@
 {
 	"author": "Alan Bundy",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/Bundy90",
 	"doi": "10.1007/3-540-52885-7_119",
@@ -10,11 +11,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "scienc", "of", "reason", "extend", "abstract"],
-	"tag": ["reasoning"],
+	"stemmed": [
+		"a",
+		"scienc",
+		"of",
+		"reason",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"reasoning"
+	],
 	"title": "A Science of Reasoning: Extended Abstract",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

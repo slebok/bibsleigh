@@ -1,6 +1,10 @@
 {
-	"author": ["Uffe Kock Wiil", "John J. Leggett"],
-	"booktitle": "ECHT",
+	"author": [
+		"Uffe Kock Wiil",
+		"John J. Leggett"
+	],
+	"booktitle": "Proceedings of the European Conference on Hypertext Technology",
+	"booktitleshort": "HT/ECHT",
 	"cdrom": "ECHT1992/P251.pdf",
 	"crossref": "conf/echt/92",
 	"dblpkey": "conf/echt/WiilL92",
@@ -8,8 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/168466.171510",
 	"pages": "251-261",
 	"publisher": "ACM",
-	"stemmed": ["hyperform", "use", "extens", "to", "develop", "dynam", "open", "and", "distribut", "hypertext", "system"],
-	"tag": ["distributed", "hypermedia", "named", "using"],
+	"stemmed": [
+		"hyperform",
+		"use",
+		"extens",
+		"to",
+		"develop",
+		"dynam",
+		"open",
+		"and",
+		"distribut",
+		"hypertext",
+		"system"
+	],
+	"tag": [
+		"distributed",
+		"hypermedia",
+		"named",
+		"using"
+	],
 	"title": "Hyperform: Using Extensibility to Develop Dynamic, Open and Distributed Hypertext Systems",
 	"type": "inproceedings",
 	"venue": "HT",

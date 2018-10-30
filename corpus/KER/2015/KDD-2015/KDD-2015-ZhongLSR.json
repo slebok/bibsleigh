@@ -1,14 +1,33 @@
 {
-	"author": ["Erheng Zhong", "Nathan Liu", "Yue Shi", "Suju Rajan"],
-	"booktitle": "KDD",
+	"author": [
+		"Erheng Zhong",
+		"Nathan Liu",
+		"Yue Shi",
+		"Suju Rajan"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/ZhongLSR15",
 	"doi": "10.1145/2783258.2788610",
 	"ee": "http://doi.acm.org/10.1145/2783258.2788610",
 	"pages": "2277-2286",
 	"publisher": "ACM",
-	"stemmed": ["build", "discrimin", "user", "profil", "for", "larg", "scale", "content", "recommend"],
-	"tag": ["recommendation", "scalability"],
+	"stemmed": [
+		"build",
+		"discrimin",
+		"user",
+		"profil",
+		"for",
+		"larg",
+		"scale",
+		"content",
+		"recommend"
+	],
+	"tag": [
+		"recommendation",
+		"scalability"
+	],
 	"title": "Building Discriminative User Profiles for Large-scale Content Recommendation",
 	"type": "inproceedings",
 	"venue": "KDD",

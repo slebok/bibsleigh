@@ -1,14 +1,30 @@
 {
 	"author": "Robert M. McClure",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the Ninth Design Automation Workshop",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1972",
 	"dblpkey": "conf/dac/McClure72",
 	"doi": "10.1145/800153.804935",
 	"ee": "http://doi.acm.org/10.1145/800153.804935",
 	"pages": "104-110",
 	"publisher": "ACM",
-	"stemmed": ["fault", "simul", "of", "digit", "logic", "util", "a", "small", "host", "machin"],
-	"tag": ["fault", "logic", "simulation"],
+	"stemmed": [
+		"fault",
+		"simul",
+		"of",
+		"digit",
+		"logic",
+		"util",
+		"a",
+		"small",
+		"host",
+		"machin"
+	],
+	"tag": [
+		"fault",
+		"logic",
+		"simulation"
+	],
 	"title": "Fault simulation of digital logic utilizing a small host machine",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,6 +1,11 @@
 {
-	"author": ["Malú Castellanos", "Song Wang", "Umeshwar Dayal", "Chetan Gupta"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Malú Castellanos",
+		"Song Wang",
+		"Umeshwar Dayal",
+		"Chetan Gupta"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/CastellanosWDG10",
@@ -8,8 +13,25 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807292",
 	"pages": "1105-1110",
 	"publisher": "ACM",
-	"stemmed": ["sie", "obi", "a", "stream", "inform", "extract", "platform", "for", "oper", "busi", "intellig"],
-	"tag": ["framework", "information management", "named", "streaming"],
+	"stemmed": [
+		"sie",
+		"obi",
+		"a",
+		"stream",
+		"inform",
+		"extract",
+		"platform",
+		"for",
+		"oper",
+		"busi",
+		"intellig"
+	],
+	"tag": [
+		"framework",
+		"information management",
+		"named",
+		"streaming"
+	],
 	"title": "SIE-OBI: a streaming information extraction platform for operational business intelligence",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

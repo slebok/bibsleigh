@@ -1,14 +1,36 @@
 {
-	"author": ["Mijung Kim", "Jaechang Nam", "Jaehyuk Yeon", "Soonhwang Choi", "Sunghun Kim"],
-	"booktitle": "ESEC/SIGSOFT FSE",
+	"author": [
+		"Mijung Kim",
+		"Jaechang Nam",
+		"Jaehyuk Yeon",
+		"Soonhwang Choi",
+		"Sunghun Kim"
+	],
+	"booktitle": "Proceedings of the 10th Joint Meeting of the 15th European Software Engineering Conference and the 23rd Symposium on the Foundations of Software Engineering",
+	"booktitleshort": "ESEC/SIGSOFT FSE",
 	"crossref": "conf/sigsoft/2015",
 	"dblpkey": "conf/sigsoft/KimNYCK15",
 	"doi": "10.1145/2786805.2804429",
 	"ee": "http://doi.acm.org/10.1145/2786805.2804429",
 	"pages": "990-993",
 	"publisher": "ACM",
-	"stemmed": ["remi", "defect", "predict", "for", "effici", "api", "test"],
-	"tag": ["api", "fault", "named", "performance", "predict", "testing"],
+	"stemmed": [
+		"remi",
+		"defect",
+		"predict",
+		"for",
+		"effici",
+		"api",
+		"test"
+	],
+	"tag": [
+		"api",
+		"fault",
+		"named",
+		"performance",
+		"predict",
+		"testing"
+	],
 	"title": "REMI: defect prediction for efficient API testing",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

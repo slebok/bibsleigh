@@ -1,6 +1,12 @@
 {
-	"author": ["Dongwoo Lee", "Harmander Deogun", "David Blaauw", "Dennis Sylvester"],
-	"booktitle": "DATE",
+	"author": [
+		"Dongwoo Lee",
+		"Harmander Deogun",
+		"David Blaauw",
+		"Dennis Sylvester"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/LeeDBS04",
 	"doi": "10.1109/DATE.2004.1268894",
@@ -8,8 +14,22 @@
 	"pages": "494-499",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["simultan", "state", "vt", "and", "tox", "assign", "for", "total", "standbi", "power", "minim"],
-	"tag": ["power management"],
+	"stemmed": [
+		"simultan",
+		"state",
+		"vt",
+		"and",
+		"tox",
+		"assign",
+		"for",
+		"total",
+		"standbi",
+		"power",
+		"minim"
+	],
+	"tag": [
+		"power management"
+	],
 	"title": "Simultaneous State, Vt and Tox Assignment for Total Standby Power Minimization",
 	"type": "inproceedings",
 	"venue": "DATE",

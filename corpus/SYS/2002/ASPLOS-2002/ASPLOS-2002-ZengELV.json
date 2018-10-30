@@ -1,14 +1,37 @@
 {
-	"author": ["Heng Zeng", "Carla Schlatter Ellis", "Alvin R. Lebeck", "Amin Vahdat"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Heng Zeng",
+		"Carla Schlatter Ellis",
+		"Alvin R. Lebeck",
+		"Amin Vahdat"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2002",
 	"dblpkey": "conf/asplos/ZengELV02",
 	"doi": "10.1145/605397.605411",
 	"ee": "http://doi.acm.org/10.1145/605397.605411",
 	"pages": "123-132",
 	"publisher": "ACM Press",
-	"stemmed": ["eco", "system", "manag", "energi", "as", "a", "first", "class", "oper", "system", "resourc"],
-	"tag": ["ecosystem", "energy", "named", "operating system"],
+	"stemmed": [
+		"eco",
+		"system",
+		"manag",
+		"energi",
+		"as",
+		"a",
+		"first",
+		"class",
+		"oper",
+		"system",
+		"resourc"
+	],
+	"tag": [
+		"ecosystem",
+		"energy",
+		"named",
+		"operating system"
+	],
 	"title": "ECOSystem: managing energy as a first class operating system resource",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

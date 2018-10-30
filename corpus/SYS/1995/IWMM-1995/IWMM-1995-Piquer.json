@@ -1,6 +1,7 @@
 {
 	"author": "José M. Piquer",
-	"booktitle": "IWMM",
+	"booktitle": "Proceedings of the Second International Workshop on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/95",
 	"dblpkey": "conf/iwmm/Piquer95",
 	"doi": "10.1007/3-540-60368-9_28",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["indirect", "mark", "and", "sweep", "a", "distribut", "gc"],
-	"tag": ["distributed", "garbage collection"],
+	"stemmed": [
+		"indirect",
+		"mark",
+		"and",
+		"sweep",
+		"a",
+		"distribut",
+		"gc"
+	],
+	"tag": [
+		"distributed",
+		"garbage collection"
+	],
 	"title": "Indirect Mark and Sweep: A Distributed GC",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 986,
+	"volume": "986",
 	"year": 1995
 }

@@ -1,14 +1,28 @@
 {
 	"author": "Tingting Yu",
-	"booktitle": "ESEC/SIGSOFT FSE",
+	"booktitle": "Proceedings of the 10th Joint Meeting of the 15th European Software Engineering Conference and the 23rd Symposium on the Foundations of Software Engineering",
+	"booktitleshort": "ESEC/SIGSOFT FSE",
 	"crossref": "conf/sigsoft/2015",
 	"dblpkey": "conf/sigsoft/Yu15",
 	"doi": "10.1145/2786805.2803201",
 	"ee": "http://doi.acm.org/10.1145/2786805.2803201",
 	"pages": "918-921",
 	"publisher": "ACM",
-	"stemmed": ["taco", "test", "suit", "augment", "for", "concurr", "program"],
-	"tag": ["concurrent", "named", "source code", "testing"],
+	"stemmed": [
+		"taco",
+		"test",
+		"suit",
+		"augment",
+		"for",
+		"concurr",
+		"program"
+	],
+	"tag": [
+		"concurrent",
+		"named",
+		"source code",
+		"testing"
+	],
 	"title": "TACO: test suite augmentation for concurrent programs",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

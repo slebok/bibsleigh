@@ -1,6 +1,10 @@
 {
-	"author": ["Chris J. M. Verhoeven", "Arie van Staveren"],
-	"booktitle": "DATE",
+	"author": [
+		"Chris J. M. Verhoeven",
+		"Arie van Staveren"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/VerhoevenS99",
 	"doi": "10.1109/DATE.1999.761140",
@@ -8,8 +12,17 @@
 	"pages": "318-322",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["systemat", "bias", "of", "negat", "feedback", "amplifi"],
-	"tag": ["feedback"],
+	"stemmed": [
+		"systemat",
+		"bias",
+		"of",
+		"negat",
+		"feedback",
+		"amplifi"
+	],
+	"tag": [
+		"feedback"
+	],
 	"title": "Systematic Biasing of Negative Feedback Amplifiers",
 	"type": "inproceedings",
 	"venue": "DATE",

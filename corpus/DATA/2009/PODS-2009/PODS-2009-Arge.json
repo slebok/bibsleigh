@@ -1,14 +1,28 @@
 {
 	"author": "Lars Arge",
-	"booktitle": "PODS",
+	"booktitle": "Proceedings of the 28th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2009",
 	"dblpkey": "conf/pods/Arge09",
 	"doi": "10.1145/1559795.1559822",
 	"ee": "http://doi.acm.org/10.1145/1559795.1559822",
 	"pages": "175-176",
 	"publisher": "ACM",
-	"stemmed": ["worst", "case", "effici", "rang", "search", "index", "invit", "tutori"],
-	"tag": ["performance", "tutorial", "worst-case"],
+	"stemmed": [
+		"worst",
+		"case",
+		"effici",
+		"rang",
+		"search",
+		"index",
+		"invit",
+		"tutori"
+	],
+	"tag": [
+		"performance",
+		"tutorial",
+		"worst-case"
+	],
 	"title": "Worst-case efficient range search indexing: invited tutorial",
 	"type": "inproceedings",
 	"venue": "PODS",

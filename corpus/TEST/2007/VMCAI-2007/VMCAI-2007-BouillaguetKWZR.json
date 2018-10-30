@@ -1,6 +1,13 @@
 {
-	"author": ["Charles Bouillaguet", "Viktor Kuncak", "Thomas Wies", "Karen Zee", "Martin C. Rinard"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Charles Bouillaguet",
+		"Viktor Kuncak",
+		"Thomas Wies",
+		"Karen Zee",
+		"Martin C. Rinard"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2007",
 	"dblpkey": "conf/vmcai/BouillaguetKWZR07",
 	"doi": "10.1007/978-3-540-69738-1_5",
@@ -10,11 +17,31 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["use", "first", "order", "theorem", "prover", "in", "the", "jahob", "data", "structur", "verif", "system"],
-	"tag": ["data type", "first-order", "proving", "theorem proving", "using", "verification"],
+	"stemmed": [
+		"use",
+		"first",
+		"order",
+		"theorem",
+		"prover",
+		"in",
+		"the",
+		"jahob",
+		"data",
+		"structur",
+		"verif",
+		"system"
+	],
+	"tag": [
+		"data type",
+		"first-order",
+		"proving",
+		"theorem proving",
+		"using",
+		"verification"
+	],
 	"title": "Using First-Order Theorem Provers in the Jahob Data Structure Verification System",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 4349,
+	"volume": "4349",
 	"year": 2007
 }

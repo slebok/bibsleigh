@@ -1,14 +1,25 @@
 {
-	"author": ["Satoshi Watanabe", "Takao Miura"],
+	"author": [
+		"Satoshi Watanabe",
+		"Takao Miura"
+	],
 	"booktitle": "Proceedings of the 17th Symposium on Applied Computing",
+	"booktitleshort": "SAC",
 	"crossref": "conf/sac/2002",
 	"dblpkey": "conf/sac/WatanabeM02",
 	"doi": "10.1145/508791.508922",
 	"ee": "http://doi.acm.org/10.1145/508791.508922",
 	"pages": "681-686",
 	"publisher": "ACM",
-	"stemmed": ["reorder", "b", "tree", "file"],
-	"tag": ["order"],
+	"stemmed": [
+		"reorder",
+		"b",
+		"tree",
+		"file"
+	],
+	"tag": [
+		"order"
+	],
 	"title": "Reordering B-tree files",
 	"type": "inproceedings",
 	"venue": "SAC",

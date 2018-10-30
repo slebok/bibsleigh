@@ -1,14 +1,39 @@
 {
-	"author": ["Arvind Arasu", "Brian Babcock", "Shivnath Babu", "Jon McAlister", "Jennifer Widom"],
-	"booktitle": "PODS",
+	"author": [
+		"Arvind Arasu",
+		"Brian Babcock",
+		"Shivnath Babu",
+		"Jon McAlister",
+		"Jennifer Widom"
+	],
+	"booktitle": "Proceedings of the 21st Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2002",
 	"dblpkey": "conf/pods/ArasuBBMW02",
 	"doi": "10.1145/543613.543642",
-	"ee": ["http://doi.acm.org/10.1145/543613.543642", "http://www.acm.org/sigs/sigmod/pods/proc02/papers/221-ArasuBBMW.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/543613.543642",
+		"http://www.acm.org/sigs/sigmod/pods/proc02/papers/221-ArasuBBMW.pdf"
+	],
 	"pages": "221-232",
 	"publisher": "ACM",
-	"stemmed": ["character", "memori", "requir", "for", "queri", "over", "continu", "data", "stream"],
-	"tag": ["data type", "memory management", "query", "requirements"],
+	"stemmed": [
+		"character",
+		"memori",
+		"requir",
+		"for",
+		"queri",
+		"over",
+		"continu",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"data type",
+		"memory management",
+		"query",
+		"requirements"
+	],
 	"title": "Characterizing Memory Requirements for Queries over Continuous Data Streams",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,6 +1,7 @@
 {
 	"author": "Vincent Vanackère",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the Fifth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2004",
 	"dblpkey": "conf/vmcai/Vanackere04",
 	"doi": "10.1007/978-3-540-24622-0_3",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["histori", "depend", "schedul", "for", "cryptograph", "process"],
-	"tag": ["encryption", "process", "scheduling"],
+	"stemmed": [
+		"histori",
+		"depend",
+		"schedul",
+		"for",
+		"cryptograph",
+		"process"
+	],
+	"tag": [
+		"encryption",
+		"process",
+		"scheduling"
+	],
 	"title": "History-Dependent Scheduling for Cryptographic Processes",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2937,
+	"volume": "2937",
 	"year": 2004
 }

@@ -1,14 +1,44 @@
 {
-	"author": ["Rakesh Agrawal", "H. V. Jagadish"],
-	"booktitle": "VLDB",
-	"cite": ["conf/sigmod/AgrawalG89", "...", "...", "conf/icde/BeechM88", "...", "books/aw/BernsteinHG87", "conf/vldb/ChouK86", "journals/tse/DittrichL88", "conf/sigmod/KatzCB86", "conf/vldb/KatzC87", "conf/sigmod/KimBG89", "...", "...", "...", "..."],
+	"author": [
+		"Rakesh Agrawal",
+		"H. V. Jagadish"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/sigmod/AgrawalG89",
+		"...",
+		"...",
+		"conf/icde/BeechM88",
+		"...",
+		"books/aw/BernsteinHG87",
+		"conf/vldb/ChouK86",
+		"journals/tse/DittrichL88",
+		"conf/sigmod/KatzCB86",
+		"conf/vldb/KatzC87",
+		"conf/sigmod/KimBG89",
+		"...",
+		"...",
+		"...",
+		"..."
+	],
 	"crossref": "conf/vldb/89",
 	"dblpkey": "conf/vldb/AgrawalJ89",
 	"ee": "http://www.vldb.org/conf/1989/P367.PDF",
 	"pages": "367-374",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["on", "correct", "configur", "version", "object"],
-	"tag": ["configuration management", "on the", "version control"],
+	"stemmed": [
+		"on",
+		"correct",
+		"configur",
+		"version",
+		"object"
+	],
+	"tag": [
+		"configuration management",
+		"on the",
+		"version control"
+	],
 	"title": "On Correctly Configuring Versioned Objects",
 	"type": "inproceedings",
 	"venue": "VLDB",

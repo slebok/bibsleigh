@@ -1,6 +1,7 @@
 {
 	"author": "Heinrich Hußmann",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Hussmann86",
 	"doi": "10.1007/3-540-16780-3_139",
@@ -10,11 +11,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "passau", "rap", "system", "prototyp", "algebra", "specif", "use", "condit", "narrow"],
-	"tag": ["algebra", "prototype", "specification", "using"],
+	"stemmed": [
+		"the",
+		"passau",
+		"rap",
+		"system",
+		"prototyp",
+		"algebra",
+		"specif",
+		"use",
+		"condit",
+		"narrow"
+	],
+	"tag": [
+		"algebra",
+		"prototype",
+		"specification",
+		"using"
+	],
 	"title": "The Passau RAP System: Prototyping Algebraic Specifications Using Conditional Narrowing",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

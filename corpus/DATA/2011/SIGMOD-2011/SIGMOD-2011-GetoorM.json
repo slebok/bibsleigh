@@ -1,6 +1,9 @@
 {
-	"author": ["Lise Getoor", "Lilyana Mihalkova"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Lise Getoor",
+		"Lilyana Mihalkova"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/GetoorM11",
@@ -8,8 +11,20 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989451",
 	"pages": "1195-1198",
 	"publisher": "ACM",
-	"stemmed": ["learn", "statist", "model", "from", "relat", "data"],
-	"tag": ["learning", "modelling", "relational", "statistics"],
+	"stemmed": [
+		"learn",
+		"statist",
+		"model",
+		"from",
+		"relat",
+		"data"
+	],
+	"tag": [
+		"learning",
+		"modelling",
+		"relational",
+		"statistics"
+	],
 	"title": "Learning statistical models from relational data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

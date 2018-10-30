@@ -1,15 +1,32 @@
 {
-	"author": ["Venu Govindaraju", "Sergey Tulyakov"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Venu Govindaraju",
+		"Sergey Tulyakov"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2003",
 	"dblpkey": "conf/icdar/GovindarajuT03",
 	"doi": "10.1109/ICDAR.2003.1227703",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2003.1227703", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2003.1227703"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2003.1227703",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2003.1227703"
+	],
 	"pages": "429-432",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["postal", "address", "block", "locat", "by", "contour", "cluster"],
-	"tag": ["clustering"],
+	"stemmed": [
+		"postal",
+		"address",
+		"block",
+		"locat",
+		"by",
+		"contour",
+		"cluster"
+	],
+	"tag": [
+		"clustering"
+	],
 	"title": "Postal address block location by contour clustering",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,13 +1,25 @@
 {
-	"author": ["William DuMouchel", "Chris Volinsky", "Theodore Johnson", "Corinna Cortes", "Daryl Pregibon"],
-	"booktitle": "KDD",
+	"author": [
+		"William DuMouchel",
+		"Chris Volinsky",
+		"Theodore Johnson",
+		"Corinna Cortes",
+		"Daryl Pregibon"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1999",
 	"dblpkey": "conf/kdd/DuMouchelVJCP99",
 	"doi": "10.1145/312129.312184",
 	"ee": "http://doi.acm.org/10.1145/312129.312184",
 	"pages": "6-15",
 	"publisher": "ACM",
-	"stemmed": ["squash", "flat", "file", "flatter"],
+	"stemmed": [
+		"squash",
+		"flat",
+		"file",
+		"flatter"
+	],
 	"title": "Squashing Flat Files Flatter",
 	"type": "inproceedings",
 	"venue": "KDD",

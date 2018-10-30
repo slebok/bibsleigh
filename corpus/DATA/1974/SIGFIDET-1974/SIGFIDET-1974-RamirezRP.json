@@ -1,6 +1,11 @@
 {
-	"author": ["J. A. Ramirez", "N. Adam Rin", "Noah S. Prywes"],
-	"booktitle": "SIGMOD Workshop, Vol. 1",
+	"author": [
+		"J. A. Ramirez",
+		"N. Adam Rin",
+		"Noah S. Prywes"
+	],
+	"booktitle": "Proceedings of the Fourth ACM-SIGFIDET Workshop on Data Description, Access and Control",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGFIDET74-1/P207.pdf",
 	"crossref": "conf/sigmod/74",
 	"dblpkey": "conf/sigmod/RamirezRP74",
@@ -8,8 +13,25 @@
 	"ee": "http://doi.acm.org/10.1145/800296.811513",
 	"pages": "207-225",
 	"publisher": "ACM",
-	"stemmed": ["automat", "generat", "of", "data", "convers", "program", "use", "a", "data", "descript", "languag"],
-	"tag": ["automation", "generative", "source code", "using"],
+	"stemmed": [
+		"automat",
+		"generat",
+		"of",
+		"data",
+		"convers",
+		"program",
+		"use",
+		"a",
+		"data",
+		"descript",
+		"languag"
+	],
+	"tag": [
+		"automation",
+		"generative",
+		"source code",
+		"using"
+	],
 	"title": "Automatic Generation of Data Conversion Programs Using A Data Description Language",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

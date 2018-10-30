@@ -1,14 +1,37 @@
 {
-	"author": ["Jude Angelo Ambrose", "Roshan G. Ragel", "Sri Parameswaran"],
-	"booktitle": "DAC",
+	"author": [
+		"Jude Angelo Ambrose",
+		"Roshan G. Ragel",
+		"Sri Parameswaran"
+	],
+	"booktitle": "Proceedings of the 44th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2007",
 	"dblpkey": "conf/dac/AmbroseRP07",
 	"doi": "10.1145/1278480.1278606",
 	"ee": "http://doi.acm.org/10.1145/1278480.1278606",
 	"pages": "489-492",
 	"publisher": "IEEE",
-	"stemmed": ["rijid", "random", "code", "inject", "to", "mask", "power", "analysi", "base", "side", "channel", "attack"],
-	"tag": ["analysis", "injection", "named", "random"],
+	"stemmed": [
+		"rijid",
+		"random",
+		"code",
+		"inject",
+		"to",
+		"mask",
+		"power",
+		"analysi",
+		"base",
+		"side",
+		"channel",
+		"attack"
+	],
+	"tag": [
+		"analysis",
+		"injection",
+		"named",
+		"random"
+	],
 	"title": "RIJID: Random Code Injection to Mask Power Analysis based Side Channel Attacks",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,6 +1,12 @@
 {
-	"author": ["Kaj Grønbæk", "Jens A. Hem", "Ole Lehrmann Madsen", "Lennert Sloth"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Kaj Grønbæk",
+		"Jens A. Hem",
+		"Ole Lehrmann Madsen",
+		"Lennert Sloth"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1993/P025.pdf",
 	"crossref": "conf/ht/93",
 	"dblpkey": "conf/ht/GronbaekHMS93",
@@ -8,8 +14,18 @@
 	"ee": "http://doi.acm.org/10.1145/168750.168764",
 	"pages": "25-38",
 	"publisher": "ACM",
-	"stemmed": ["design", "dexter", "base", "cooper", "hypermedia", "system"],
-	"tag": ["design", "hypermedia"],
+	"stemmed": [
+		"design",
+		"dexter",
+		"base",
+		"cooper",
+		"hypermedia",
+		"system"
+	],
+	"tag": [
+		"design",
+		"hypermedia"
+	],
 	"title": "Designing Dexter-Based Cooperative Hypermedia Systems",
 	"type": "inproceedings",
 	"venue": "HT",

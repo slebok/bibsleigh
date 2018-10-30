@@ -1,13 +1,39 @@
 {
-	"author": ["Jun Zhu", "Ingo Sander", "Axel Jantsch"],
-	"booktitle": "DATE",
+	"author": [
+		"Jun Zhu",
+		"Ingo Sander",
+		"Axel Jantsch"
+	],
+	"booktitle": "Proceedings of the 13th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2009",
 	"dblpkey": "conf/date/ZhuSJ09",
 	"ieeearid": 5090901,
 	"pages": "1506-1511",
 	"publisher": "IEEE",
-	"stemmed": ["buffer", "minim", "of", "real", "time", "stream", "applic", "schedul", "on", "hybrid", "cpu", "fpga", "architectur"],
-	"tag": ["architecture", "cpu", "hybrid", "realtime", "scheduling", "streaming"],
+	"stemmed": [
+		"buffer",
+		"minim",
+		"of",
+		"real",
+		"time",
+		"stream",
+		"applic",
+		"schedul",
+		"on",
+		"hybrid",
+		"cpu",
+		"fpga",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"cpu",
+		"hybrid",
+		"realtime",
+		"scheduling",
+		"streaming"
+	],
 	"title": "Buffer minimization of real-time streaming applications scheduling on hybrid CPU/FPGA architectures",
 	"type": "inproceedings",
 	"venue": "DATE",

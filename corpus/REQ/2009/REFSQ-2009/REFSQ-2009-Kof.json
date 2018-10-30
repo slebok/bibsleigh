@@ -1,6 +1,7 @@
 {
 	"author": "Leonid Kof",
-	"booktitle": "REFSQ",
+	"booktitle": "Proceedings of the 15th International Working Conference on Requirements Engineering: Foundation for Software Quality",
+	"booktitleshort": "REFSQ",
 	"crossref": "conf/refsq/2009",
 	"dblpkey": "conf/refsq/Kof09",
 	"doi": "10.1007/978-3-642-02050-6_17",
@@ -9,11 +10,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["translat", "of", "textual", "specif", "to", "automata", "by", "mean", "of", "discours", "context", "model"],
-	"tag": ["automaton", "modelling", "specification"],
+	"stemmed": [
+		"translat",
+		"of",
+		"textual",
+		"specif",
+		"to",
+		"automata",
+		"by",
+		"mean",
+		"of",
+		"discours",
+		"context",
+		"model"
+	],
+	"tag": [
+		"automaton",
+		"modelling",
+		"specification"
+	],
 	"title": "Translation of Textual Specifications to Automata by Means of Discourse Context Modeling",
 	"type": "inproceedings",
 	"venue": "REFSQ",
-	"volume": 5512,
+	"volume": "5512",
 	"year": 2009
 }

@@ -1,6 +1,7 @@
 {
 	"author": "Michael Lesk",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the Second Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1989/P305.pdf",
 	"crossref": "conf/ht/89",
 	"dblpkey": "conf/ht/Lesk89",
@@ -8,8 +9,20 @@
 	"ee": "http://doi.acm.org/10.1145/74224.74249",
 	"pages": "305-318",
 	"publisher": "ACM",
-	"stemmed": ["what", "to", "do", "when", "there", "s", "too", "much", "inform"],
-	"tag": ["what"],
+	"stemmed": [
+		"what",
+		"to",
+		"do",
+		"when",
+		"there",
+		"s",
+		"too",
+		"much",
+		"inform"
+	],
+	"tag": [
+		"what"
+	],
 	"title": "What To Do When There’s Too Much Information",
 	"type": "inproceedings",
 	"venue": "HT",

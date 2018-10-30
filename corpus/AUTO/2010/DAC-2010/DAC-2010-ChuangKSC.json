@@ -1,14 +1,31 @@
 {
-	"author": ["Yi-Lin Chuang", "Sangmin Kim", "Youngsoo Shin", "Yao-Wen Chang"],
-	"booktitle": "DAC",
+	"author": [
+		"Yi-Lin Chuang",
+		"Sangmin Kim",
+		"Youngsoo Shin",
+		"Yao-Wen Chang"
+	],
+	"booktitle": "Proceedings of the 47th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2010",
 	"dblpkey": "conf/dac/ChuangKSC10",
 	"doi": "10.1145/1837274.1837346",
 	"ee": "http://doi.acm.org/10.1145/1837274.1837346",
 	"pages": "280-285",
 	"publisher": "ACM",
-	"stemmed": ["puls", "latch", "awar", "placement", "for", "time", "integr", "optim"],
-	"tag": ["optimisation"],
+	"stemmed": [
+		"puls",
+		"latch",
+		"awar",
+		"placement",
+		"for",
+		"time",
+		"integr",
+		"optim"
+	],
+	"tag": [
+		"optimisation"
+	],
 	"title": "Pulsed-latch aware placement for timing-integrity optimization",
 	"type": "inproceedings",
 	"venue": "DAC",

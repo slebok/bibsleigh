@@ -1,14 +1,35 @@
 {
-	"author": ["Brian Babcock", "Shivnath Babu", "Mayur Datar", "Rajeev Motwani", "Jennifer Widom"],
-	"booktitle": "PODS",
+	"author": [
+		"Brian Babcock",
+		"Shivnath Babu",
+		"Mayur Datar",
+		"Rajeev Motwani",
+		"Jennifer Widom"
+	],
+	"booktitle": "Proceedings of the 21st Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2002",
 	"dblpkey": "conf/pods/BabcockBDMW02",
 	"doi": "10.1145/543613.543615",
-	"ee": ["http://doi.acm.org/10.1145/543613.543615", "http://www.acm.org/sigs/sigmod/pods/proc02/papers/001-BabcockBDMW.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/543613.543615",
+		"http://www.acm.org/sigs/sigmod/pods/proc02/papers/001-BabcockBDMW.pdf"
+	],
 	"pages": "1-16",
 	"publisher": "ACM",
-	"stemmed": ["model", "and", "issu", "in", "data", "stream", "system"],
-	"tag": ["data type", "modelling"],
+	"stemmed": [
+		"model",
+		"and",
+		"issu",
+		"in",
+		"data",
+		"stream",
+		"system"
+	],
+	"tag": [
+		"data type",
+		"modelling"
+	],
 	"title": "Models and Issues in Data Stream Systems",
 	"type": "inproceedings",
 	"venue": "PODS",

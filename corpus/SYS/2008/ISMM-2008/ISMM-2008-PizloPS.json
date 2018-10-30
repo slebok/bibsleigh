@@ -1,14 +1,28 @@
 {
-	"author": ["Filip Pizlo", "Erez Petrank", "Bjarne Steensgaard"],
-	"booktitle": "ISMM",
+	"author": [
+		"Filip Pizlo",
+		"Erez Petrank",
+		"Bjarne Steensgaard"
+	],
+	"booktitle": "Proceedings of the Seventh International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2008",
 	"dblpkey": "conf/iwmm/PizloPS08",
 	"doi": "10.1145/1375634.1375647",
 	"ee": "http://doi.acm.org/10.1145/1375634.1375647",
 	"pages": "81-90",
 	"publisher": "ACM",
-	"stemmed": ["path", "special", "reduc", "phase", "execut", "overhead"],
-	"tag": ["execution"],
+	"stemmed": [
+		"path",
+		"special",
+		"reduc",
+		"phase",
+		"execut",
+		"overhead"
+	],
+	"tag": [
+		"execution"
+	],
 	"title": "Path specialization: reducing phased execution overheads",
 	"type": "inproceedings",
 	"venue": "ISMM",

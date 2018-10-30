@@ -1,6 +1,12 @@
 {
-	"author": ["Luís Rolíndez", "Salvador Mir", "Guillaume Prenat", "Ahcène Bounceur"],
-	"booktitle": "DATE",
+	"author": [
+		"Luís Rolíndez",
+		"Salvador Mir",
+		"Guillaume Prenat",
+		"Ahcène Bounceur"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/RolindezMPB04",
 	"doi": "10.1109/DATE.2004.1268939",
@@ -8,8 +14,27 @@
 	"pages": "706-707",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "m", "cmos", "implement", "of", "on", "chip", "analogu", "test", "signal", "generat", "from", "digit", "test", "pattern"],
-	"tag": ["generative", "implementation"],
+	"stemmed": [
+		"a",
+		"m",
+		"cmos",
+		"implement",
+		"of",
+		"on",
+		"chip",
+		"analogu",
+		"test",
+		"signal",
+		"generat",
+		"from",
+		"digit",
+		"test",
+		"pattern"
+	],
+	"tag": [
+		"generative",
+		"implementation"
+	],
 	"title": "A 0.18 µm CMOS Implementation of On-chip Analogue Test Signal Generation from Digital Test Patterns",
 	"type": "inproceedings",
 	"venue": "DATE",

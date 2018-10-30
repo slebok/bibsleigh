@@ -1,14 +1,38 @@
 {
-	"author": ["Chih-Chun Chia", "Zeeshan Syed"],
-	"booktitle": "KDD",
+	"author": [
+		"Chih-Chun Chia",
+		"Zeeshan Syed"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/ChiaS14",
 	"doi": "10.1145/2623330.2623702",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623702",
 	"pages": "125-134",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "nois", "mine", "in", "long", "term", "electrocardiograph", "time", "seri", "to", "predict", "death", "follow", "heart", "attack"],
-	"tag": ["mining", "predict", "scalability"],
+	"stemmed": [
+		"scalabl",
+		"nois",
+		"mine",
+		"in",
+		"long",
+		"term",
+		"electrocardiograph",
+		"time",
+		"seri",
+		"to",
+		"predict",
+		"death",
+		"follow",
+		"heart",
+		"attack"
+	],
+	"tag": [
+		"mining",
+		"predict",
+		"scalability"
+	],
 	"title": "Scalable noise mining in long-term electrocardiographic time-series to predict death following heart attacks",
 	"type": "inproceedings",
 	"venue": "KDD",

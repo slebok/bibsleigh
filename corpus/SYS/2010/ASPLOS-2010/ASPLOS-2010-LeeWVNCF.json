@@ -1,14 +1,37 @@
 {
-	"author": ["Dongyoon Lee", "Benjamin Wester", "Kaushik Veeraraghavan", "Satish Narayanasamy", "Peter M. Chen", "Jason Flinn"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Dongyoon Lee",
+		"Benjamin Wester",
+		"Kaushik Veeraraghavan",
+		"Satish Narayanasamy",
+		"Peter M. Chen",
+		"Jason Flinn"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2010",
 	"dblpkey": "conf/asplos/LeeWVNCF10",
 	"doi": "10.1145/1736020.1736031",
 	"ee": "http://doi.acm.org/10.1145/1736020.1736031",
 	"pages": "77-90",
 	"publisher": "ACM",
-	"stemmed": ["respec", "effici", "onlin", "multiprocessor", "replayvia", "specul", "and", "extern", "determin"],
-	"tag": ["multi", "named", "online", "performance"],
+	"stemmed": [
+		"respec",
+		"effici",
+		"onlin",
+		"multiprocessor",
+		"replayvia",
+		"specul",
+		"and",
+		"extern",
+		"determin"
+	],
+	"tag": [
+		"multi",
+		"named",
+		"online",
+		"performance"
+	],
 	"title": "Respec: efficient online multiprocessor replayvia speculation and external determinism",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

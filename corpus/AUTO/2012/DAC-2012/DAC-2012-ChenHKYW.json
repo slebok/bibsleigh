@@ -1,14 +1,34 @@
 {
-	"author": ["Chi-Hao Chen", "Pi-Cheng Hsiu", "Tei-Wei Kuo", "Chia-Lin Yang", "Cheng-Yuan Michael Wang"],
-	"booktitle": "DAC",
+	"author": [
+		"Chi-Hao Chen",
+		"Pi-Cheng Hsiu",
+		"Tei-Wei Kuo",
+		"Chia-Lin Yang",
+		"Cheng-Yuan Michael Wang"
+	],
+	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/ChenHKYW12",
 	"doi": "10.1145/2228360.2228439",
 	"ee": "http://doi.acm.org/10.1145/2228360.2228439",
 	"pages": "453-458",
 	"publisher": "ACM",
-	"stemmed": ["age", "base", "pcm", "wear", "level", "with", "near", "zero", "search", "cost"],
-	"tag": ["low cost"],
+	"stemmed": [
+		"age",
+		"base",
+		"pcm",
+		"wear",
+		"level",
+		"with",
+		"near",
+		"zero",
+		"search",
+		"cost"
+	],
+	"tag": [
+		"low cost"
+	],
 	"title": "Age-based PCM wear leveling with nearly zero search cost",
 	"type": "inproceedings",
 	"venue": "DAC",

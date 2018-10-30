@@ -1,6 +1,11 @@
 {
-	"author": ["Gaurav Kumar", "Safwan Wshah", "Venu Govindaraju"],
-	"booktitle": "DRR",
+	"author": [
+		"Gaurav Kumar",
+		"Safwan Wshah",
+		"Venu Govindaraju"
+	],
+	"booktitle": "Proceedings of the 21st Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2014",
 	"dblpkey": "conf/drr/KumarWG14",
 	"doi": "10.1117/12.2041244",
@@ -8,11 +13,25 @@
 	"pages": "902104-902104-9",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["variat", "dynam", "background", "model", "for", "keyword", "spot", "in", "handwritten", "document"],
-	"tag": ["documentation", "keyword"],
+	"stemmed": [
+		"variat",
+		"dynam",
+		"background",
+		"model",
+		"for",
+		"keyword",
+		"spot",
+		"in",
+		"handwritten",
+		"document"
+	],
+	"tag": [
+		"documentation",
+		"keyword"
+	],
 	"title": "Variational dynamic background model for keyword spotting in handwritten documents",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 9021,
+	"volume": "9021",
 	"year": 2014
 }

@@ -1,6 +1,12 @@
 {
-	"author": ["Olav Reinert", "Dirk Bucka-Lassen", "Claus Aagaard Pedersen", "Peter J. Nürnberg"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Olav Reinert",
+		"Dirk Bucka-Lassen",
+		"Claus Aagaard Pedersen",
+		"Peter J. Nürnberg"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Hypertext and Hypermedia",
+	"booktitleshort": "HT",
 	"cdrom": "HT1999/P049.pdf",
 	"crossref": "conf/ht/99",
 	"dblpkey": "conf/ht/ReinertBPN99",
@@ -8,8 +14,28 @@
 	"ee": "http://doi.acm.org/10.1145/294469.294484",
 	"pages": "49-50",
 	"publisher": "ACM",
-	"stemmed": ["cao", "a", "collabor", "and", "open", "spatial", "structur", "servic", "compon", "with", "increment", "spatial", "pars"],
-	"tag": ["collaboration", "component", "incremental", "named", "parsing"],
+	"stemmed": [
+		"cao",
+		"a",
+		"collabor",
+		"and",
+		"open",
+		"spatial",
+		"structur",
+		"servic",
+		"compon",
+		"with",
+		"increment",
+		"spatial",
+		"pars"
+	],
+	"tag": [
+		"collaboration",
+		"component",
+		"incremental",
+		"named",
+		"parsing"
+	],
 	"title": "CAOS: A Collaborative and Open Spatial Structure Service Component with Incremental Spatial Parsing",
 	"type": "inproceedings",
 	"venue": "HT",

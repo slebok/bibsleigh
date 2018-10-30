@@ -1,13 +1,28 @@
 {
-	"author": ["Xiangfeng Chen", "Peichen Pan", "C. L. Liu"],
-	"booktitle": "DAC",
+	"author": [
+		"Xiangfeng Chen",
+		"Peichen Pan",
+		"C. L. Liu"
+	],
+	"booktitle": "Proceedings of the 33rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/ChenPL96",
 	"doi": "10.1145/240518.240668",
 	"ee": "http://doi.acm.org/10.1145/240518.240668",
 	"pages": "795-800",
 	"publisher": "ACM Press",
-	"stemmed": ["desensit", "for", "power", "reduct", "in", "sequenti", "circuit"],
-	"tag": ["reduction"],
+	"stemmed": [
+		"desensit",
+		"for",
+		"power",
+		"reduct",
+		"in",
+		"sequenti",
+		"circuit"
+	],
+	"tag": [
+		"reduction"
+	],
 	"title": "Desensitization for Power Reduction in Sequential Circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

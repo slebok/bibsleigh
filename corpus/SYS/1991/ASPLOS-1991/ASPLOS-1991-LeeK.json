@@ -1,14 +1,30 @@
 {
-	"author": ["Edward K. Lee", "Randy H. Katz"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Edward K. Lee",
+		"Randy H. Katz"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1991",
 	"dblpkey": "conf/asplos/LeeK91",
 	"doi": "10.1145/106972.106992",
 	"ee": "http://doi.acm.org/10.1145/106972.106992",
 	"pages": "190-199",
 	"publisher": "ACM Press",
-	"stemmed": ["perform", "consequ", "of", "pariti", "placement", "in", "disk", "array"],
-	"tag": ["array", "performance"],
+	"stemmed": [
+		"perform",
+		"consequ",
+		"of",
+		"pariti",
+		"placement",
+		"in",
+		"disk",
+		"array"
+	],
+	"tag": [
+		"array",
+		"performance"
+	],
 	"title": "Performance Consequences of Parity Placement in Disk Arrays",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

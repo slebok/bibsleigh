@@ -1,6 +1,7 @@
 {
 	"author": "Barry Hayes",
-	"booktitle": "IWMM",
+	"booktitle": "Proceedings of the First International Workshop on Memory Management",
+	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
 	"dblpkey": "conf/iwmm/Hayes92",
 	"doi": "10.1007/BFb0017196",
@@ -10,11 +11,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["final", "in", "the", "collector", "interfac"],
-	"tag": ["interface"],
+	"stemmed": [
+		"final",
+		"in",
+		"the",
+		"collector",
+		"interfac"
+	],
+	"tag": [
+		"interface"
+	],
 	"title": "Finalization in the Collector Interface",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 637,
+	"volume": "637",
 	"year": 1992
 }

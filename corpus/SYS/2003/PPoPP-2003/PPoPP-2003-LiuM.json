@@ -1,14 +1,33 @@
 {
-	"author": ["Ting Liu", "Margaret Martonosi"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Ting Liu",
+		"Margaret Martonosi"
+	],
+	"booktitle": "Proceedings of the Ninth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2003",
 	"dblpkey": "conf/ppopp/LiuM03",
 	"doi": "10.1145/781498.781516",
 	"ee": "http://doi.acm.org/10.1145/781498.781516",
 	"pages": "107-118",
 	"publisher": "ACM",
-	"stemmed": ["impala", "a", "middlewar", "system", "for", "manag", "autonom", "parallel", "sensor", "system"],
-	"tag": ["middleware", "named", "parallel"],
+	"stemmed": [
+		"impala",
+		"a",
+		"middlewar",
+		"system",
+		"for",
+		"manag",
+		"autonom",
+		"parallel",
+		"sensor",
+		"system"
+	],
+	"tag": [
+		"middleware",
+		"named",
+		"parallel"
+	],
 	"title": "Impala: a middleware system for managing autonomic, parallel sensor systems",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,7 +1,7 @@
 {
 	"author": "Richard G. Hamlet",
 	"booktitle": "Proceedings of the Second Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/1994",
 	"dblpkey": "conf/sigsoft/Hamlet94",
 	"doi": "10.1145/193173.195400",
@@ -9,8 +9,18 @@
 	"ee": "http://doi.acm.org/10.1145/193173.195400",
 	"pages": "128-139",
 	"publisher": "ACM",
-	"stemmed": ["foundat", "of", "softwar", "test", "depend", "theori"],
-	"tag": ["dependence", "testing"],
+	"stemmed": [
+		"foundat",
+		"of",
+		"softwar",
+		"test",
+		"depend",
+		"theori"
+	],
+	"tag": [
+		"dependence",
+		"testing"
+	],
 	"title": "Foundations of Software Testing: Dependability Theory",
 	"type": "inproceedings",
 	"venue": "FSE",

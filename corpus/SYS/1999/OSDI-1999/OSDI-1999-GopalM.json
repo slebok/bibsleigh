@@ -1,14 +1,30 @@
 {
-	"author": ["Burra Gopal", "Udi Manber"],
-	"booktitle": "OSDI",
+	"author": [
+		"Burra Gopal",
+		"Udi Manber"
+	],
+	"booktitle": "Proceedings of the Third Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/1999",
 	"dblpkey": "conf/osdi/GopalM99",
 	"doi": "10.1145/296806.296838",
 	"ee": "http://doi.acm.org/10.1145/296806.296838",
 	"pages": "265-278",
 	"publisher": "USENIX Association",
-	"stemmed": ["integr", "content", "base", "access", "mechan", "with", "hierarch", "file", "system"],
-	"tag": ["file system"],
+	"stemmed": [
+		"integr",
+		"content",
+		"base",
+		"access",
+		"mechan",
+		"with",
+		"hierarch",
+		"file",
+		"system"
+	],
+	"tag": [
+		"file system"
+	],
 	"title": "Integrating Content-Based Access Mechanisms with Hierarchical File Systems",
 	"type": "inproceedings",
 	"venue": "OSDI",

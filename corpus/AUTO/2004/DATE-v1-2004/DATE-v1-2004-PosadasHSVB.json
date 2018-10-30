@@ -1,6 +1,13 @@
 {
-	"author": ["Hector Posadas", "Fernando Herrera", "Pablo Sánchez", "Eugenio Villar", "Francisco Blasco"],
-	"booktitle": "DATE",
+	"author": [
+		"Hector Posadas",
+		"Fernando Herrera",
+		"Pablo Sánchez",
+		"Eugenio Villar",
+		"Francisco Blasco"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/PosadasHSVB04",
 	"doi": "10.1109/DATE.2004.1268876",
@@ -8,8 +15,19 @@
 	"pages": "378-383",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["system", "level", "perform", "analysi", "in", "system", "c"],
-	"tag": ["analysis", "performance"],
+	"stemmed": [
+		"system",
+		"level",
+		"perform",
+		"analysi",
+		"in",
+		"system",
+		"c"
+	],
+	"tag": [
+		"analysis",
+		"performance"
+	],
 	"title": "System-Level Performance Analysis in SystemC",
 	"type": "inproceedings",
 	"venue": "DATE",

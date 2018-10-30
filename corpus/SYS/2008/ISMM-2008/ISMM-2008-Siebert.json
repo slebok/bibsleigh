@@ -1,14 +1,25 @@
 {
 	"author": "Fridtjof Siebert",
-	"booktitle": "ISMM",
+	"booktitle": "Proceedings of the Seventh International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2008",
 	"dblpkey": "conf/iwmm/Siebert08",
 	"doi": "10.1145/1375634.1375638",
 	"ee": "http://doi.acm.org/10.1145/1375634.1375638",
 	"pages": "21-29",
 	"publisher": "ACM",
-	"stemmed": ["limit", "of", "parallel", "mark", "garbag", "collect"],
-	"tag": ["garbage collection", "parallel"],
+	"stemmed": [
+		"limit",
+		"of",
+		"parallel",
+		"mark",
+		"garbag",
+		"collect"
+	],
+	"tag": [
+		"garbage collection",
+		"parallel"
+	],
 	"title": "Limits of parallel marking garbage collection",
 	"type": "inproceedings",
 	"venue": "ISMM",

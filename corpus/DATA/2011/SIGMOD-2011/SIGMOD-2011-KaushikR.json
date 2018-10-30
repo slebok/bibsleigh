@@ -1,6 +1,9 @@
 {
-	"author": ["Raghav Kaushik", "Ravishankar Ramamurthy"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Raghav Kaushik",
+		"Ravishankar Ramamurthy"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/KaushikR11",
@@ -8,8 +11,19 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989396",
 	"pages": "697-708",
 	"publisher": "ACM",
-	"stemmed": ["effici", "audit", "for", "complex", "sql", "queri"],
-	"tag": ["performance", "query", "sql"],
+	"stemmed": [
+		"effici",
+		"audit",
+		"for",
+		"complex",
+		"sql",
+		"queri"
+	],
+	"tag": [
+		"performance",
+		"query",
+		"sql"
+	],
 	"title": "Efficient auditing for complex SQL queries",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,36 @@
 {
-	"acmid": 1164257,
-	"author": ["Gye-Jeong Kim", "Seung-Cheon Baek", "Hyun-Sook Lee", "Han-Deok Lee", "Moon Jeung Joe"],
-	"booktitle": "VLDB",
+	"acmid": "1164257",
+	"author": [
+		"Gye-Jeong Kim",
+		"Seung-Cheon Baek",
+		"Hyun-Sook Lee",
+		"Han-Deok Lee",
+		"Moon Jeung Joe"
+	],
+	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
 	"dblpkey": "conf/vldb/KimBLLJ06",
 	"ee": "http://www.vldb.org/conf/2006/p1255-kim.pdf",
 	"pages": "1255-1258",
 	"publisher": "ACM",
-	"stemmed": ["lgedbm", "a", "small", "dbms", "for", "embed", "system", "with", "flash", "memori"],
-	"tag": ["embedded", "memory management", "named"],
+	"stemmed": [
+		"lgedbm",
+		"a",
+		"small",
+		"dbms",
+		"for",
+		"embed",
+		"system",
+		"with",
+		"flash",
+		"memori"
+	],
+	"tag": [
+		"embedded",
+		"memory management",
+		"named"
+	],
 	"title": "LGeDBMS: A Small DBMS for Embedded System with Flash Memory",
 	"type": "inproceedings",
 	"venue": "VLDB",

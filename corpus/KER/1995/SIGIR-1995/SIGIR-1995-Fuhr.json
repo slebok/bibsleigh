@@ -1,6 +1,7 @@
 {
 	"author": "Norbert Fuhr",
 	"booktitle": "Proceedings of the 18th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1995/P282.pdf",
 	"crossref": "conf/sigir/95",
 	"dblpkey": "conf/sigir/Fuhr95",
@@ -8,8 +9,22 @@
 	"ee": "http://doi.acm.org/10.1145/215206.215372",
 	"pages": "282-290",
 	"publisher": "ACM Press",
-	"stemmed": ["probabilist", "datalog", "a", "logic", "for", "power", "retriev", "method"],
-	"tag": ["datalog", "logic", "probability", "retrieval"],
+	"stemmed": [
+		"probabilist",
+		"datalog",
+		"a",
+		"logic",
+		"for",
+		"power",
+		"retriev",
+		"method"
+	],
+	"tag": [
+		"datalog",
+		"logic",
+		"probability",
+		"retrieval"
+	],
 	"title": "Probabilistic Datalog — A Logic For Powerful Retrieval Methods",
 	"type": "inproceedings",
 	"venue": "SIGIR",

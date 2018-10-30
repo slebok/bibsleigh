@@ -1,6 +1,7 @@
 {
 	"author": "Ellen Riloff",
 	"booktitle": "Proceedings of the 18th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1995/P130.pdf",
 	"crossref": "conf/sigir/95",
 	"dblpkey": "conf/sigir/Riloff95",
@@ -8,8 +9,23 @@
 	"ee": "http://doi.acm.org/10.1145/215206.215349",
 	"pages": "130-136",
 	"publisher": "ACM Press",
-	"stemmed": ["littl", "word", "can", "make", "a", "big", "differ", "for", "text", "classif"],
-	"tag": ["classification", "difference", "word"],
+	"stemmed": [
+		"littl",
+		"word",
+		"can",
+		"make",
+		"a",
+		"big",
+		"differ",
+		"for",
+		"text",
+		"classif"
+	],
+	"tag": [
+		"classification",
+		"difference",
+		"word"
+	],
 	"title": "Little Words Can Make a Big Difference for Text Classification",
 	"type": "inproceedings",
 	"venue": "SIGIR",

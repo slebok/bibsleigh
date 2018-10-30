@@ -1,14 +1,35 @@
 {
-	"author": ["Zhangxi Tan", "Zhenghao Qian", "Xi Chen", "Krste Asanovic", "David A. Patterson"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Zhangxi Tan",
+		"Zhenghao Qian",
+		"Xi Chen",
+		"Krste Asanovic",
+		"David A. Patterson"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2015",
 	"dblpkey": "conf/asplos/TanQCAP15",
 	"doi": "10.1145/2694344.2694362",
 	"ee": "http://doi.acm.org/10.1145/2694344.2694362",
 	"pages": "207-221",
 	"publisher": "ACM",
-	"stemmed": ["diablo", "a", "warehous", "scale", "comput", "network", "simul", "use", "fpgas"],
-	"tag": ["named", "network", "using"],
+	"stemmed": [
+		"diablo",
+		"a",
+		"warehous",
+		"scale",
+		"comput",
+		"network",
+		"simul",
+		"use",
+		"fpgas"
+	],
+	"tag": [
+		"named",
+		"network",
+		"using"
+	],
 	"title": "DIABLO: A Warehouse-Scale Computer Network Simulator using FPGAs",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

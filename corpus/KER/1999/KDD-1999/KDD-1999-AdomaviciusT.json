@@ -1,14 +1,33 @@
 {
-	"author": ["Gediminas Adomavicius", "Alexander Tuzhilin"],
-	"booktitle": "KDD",
+	"author": [
+		"Gediminas Adomavicius",
+		"Alexander Tuzhilin"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1999",
 	"dblpkey": "conf/kdd/AdomaviciusT99",
 	"doi": "10.1145/312129.312287",
 	"ee": "http://doi.acm.org/10.1145/312129.312287",
 	"pages": "377-381",
 	"publisher": "ACM",
-	"stemmed": ["user", "profil", "in", "person", "applic", "through", "rule", "discoveri", "and", "valid"],
-	"tag": ["personalisation", "profiling", "validation"],
+	"stemmed": [
+		"user",
+		"profil",
+		"in",
+		"person",
+		"applic",
+		"through",
+		"rule",
+		"discoveri",
+		"and",
+		"valid"
+	],
+	"tag": [
+		"personalisation",
+		"profiling",
+		"validation"
+	],
 	"title": "User Profiling in Personalization Applications Through Rule Discovery and Validation",
 	"type": "inproceedings",
 	"venue": "KDD",

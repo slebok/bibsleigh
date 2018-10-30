@@ -1,6 +1,9 @@
 {
-	"author": ["Kazi A. Zaman", "Donovan A. Schneider"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Kazi A. Zaman",
+		"Donovan A. Schneider"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/ZamanS05",
@@ -8,8 +11,28 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066258",
 	"pages": "822-827",
 	"publisher": "ACM",
-	"stemmed": ["model", "and", "queri", "multidimension", "data", "sourc", "in", "siebel", "analyt", "a", "feder", "relat", "system"],
-	"tag": ["data flow", "modelling", "multi", "query", "relational"],
+	"stemmed": [
+		"model",
+		"and",
+		"queri",
+		"multidimension",
+		"data",
+		"sourc",
+		"in",
+		"siebel",
+		"analyt",
+		"a",
+		"feder",
+		"relat",
+		"system"
+	],
+	"tag": [
+		"data flow",
+		"modelling",
+		"multi",
+		"query",
+		"relational"
+	],
 	"title": "Modeling and querying multidimensional data sources in Siebel Analytics: a federated relational system",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

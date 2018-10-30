@@ -1,15 +1,30 @@
 {
-	"author": ["Milo M. K. Martin", "Daniel J. Sorin", "Mark D. Hill", "David A. Wood"],
-	"booktitle": "HPCA",
+	"author": [
+		"Milo M. K. Martin",
+		"Daniel J. Sorin",
+		"Mark D. Hill",
+		"David A. Wood"
+	],
+	"booktitle": "Proceedings of the Eighth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2002",
 	"dblpkey": "conf/hpca/MartinSHW02",
 	"doi": "10.1109/HPCA.2002.995715",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2002.995715", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2002.995715"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2002.995715",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2002.995715"
+	],
 	"pages": "251-262",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["bandwidth", "adapt", "snoop"],
-	"tag": ["adaptation"],
+	"stemmed": [
+		"bandwidth",
+		"adapt",
+		"snoop"
+	],
+	"tag": [
+		"adaptation"
+	],
 	"title": "Bandwidth Adaptive Snooping",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,6 +1,11 @@
 {
-	"author": ["Richard H. Fowler", "Wendy A. Lawrence-Fowler", "Bradley A. Wilson"],
+	"author": [
+		"Richard H. Fowler",
+		"Wendy A. Lawrence-Fowler",
+		"Bradley A. Wilson"
+	],
 	"booktitle": "Proceedings of the 14th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1991/P142.pdf",
 	"crossref": "conf/sigir/91",
 	"dblpkey": "conf/sigir/FowlerFW91",
@@ -8,8 +13,24 @@
 	"ee": "http://doi.acm.org/10.1145/122860.122874",
 	"pages": "142-151",
 	"publisher": "ACM",
-	"stemmed": ["integr", "queri", "thesaurus", "and", "document", "through", "a", "common", "visual", "represent"],
-	"tag": ["documentation", "query", "representation", "visual notation"],
+	"stemmed": [
+		"integr",
+		"queri",
+		"thesaurus",
+		"and",
+		"document",
+		"through",
+		"a",
+		"common",
+		"visual",
+		"represent"
+	],
+	"tag": [
+		"documentation",
+		"query",
+		"representation",
+		"visual notation"
+	],
 	"title": "Integrating Query, Thesaurus, and Documents Through a Common Visual Representation",
 	"type": "inproceedings",
 	"venue": "SIGIR",

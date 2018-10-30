@@ -1,13 +1,28 @@
 {
-	"author": ["Chun-Nan Hsu", "Craig A. Knoblock"],
-	"booktitle": "KDD Workshop",
+	"author": [
+		"Chun-Nan Hsu",
+		"Craig A. Knoblock"
+	],
+	"booktitle": "Papers from the AAAI Workshop on Knowledge Discovery in Databases. Technical Report WS-94-03",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1994",
 	"dblpkey": "conf/kdd/HsuK94",
 	"pages": "311-322",
 	"publisher": "AAAI Press",
-	"stemmed": ["rule", "induct", "for", "semant", "queri", "optim"],
-	"tag": ["induction", "optimisation", "query", "semantics"],
+	"stemmed": [
+		"rule",
+		"induct",
+		"for",
+		"semant",
+		"queri",
+		"optim"
+	],
+	"tag": [
+		"induction",
+		"optimisation",
+		"query",
+		"semantics"
+	],
 	"title": "Rule Induction for Semantic Query Optimization",
 	"type": "inproceedings",
 	"venue": "KDD",

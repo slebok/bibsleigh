@@ -1,6 +1,7 @@
 {
 	"author": "Ketan Mulmuley",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Seventh International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1984",
 	"dblpkey": "conf/cade/Mulmuley84",
 	"doi": "10.1007/BFb0047137",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "mechan", "of", "exist", "proof", "of", "recurs", "predic"],
-	"tag": ["proving", "recursion"],
+	"stemmed": [
+		"the",
+		"mechan",
+		"of",
+		"exist",
+		"proof",
+		"of",
+		"recurs",
+		"predic"
+	],
+	"tag": [
+		"proving",
+		"recursion"
+	],
 	"title": "The Mechanization of Existence Proofs of Recursive Predicates",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 170,
+	"volume": "170",
 	"year": 1984
 }

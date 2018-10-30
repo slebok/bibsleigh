@@ -1,6 +1,10 @@
 {
-	"author": ["Luís Moniz Pereira", "António Porto"],
-	"booktitle": "CADE",
+	"author": [
+		"Luís Moniz Pereira",
+		"António Porto"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1980",
 	"dblpkey": "conf/cade/PereiraP80",
 	"doi": "10.1007/3-540-10009-1_24",
@@ -10,11 +14,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["select", "backtrack", "for", "logic", "program"],
-	"tag": ["backtracking", "logic programming", "source code"],
+	"stemmed": [
+		"select",
+		"backtrack",
+		"for",
+		"logic",
+		"program"
+	],
+	"tag": [
+		"backtracking",
+		"logic programming",
+		"source code"
+	],
 	"title": "Selective Backtracking for Logic Programs",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 87,
+	"volume": "87",
 	"year": 1980
 }

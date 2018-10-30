@@ -1,15 +1,36 @@
 {
-	"author": ["Yali Zhu", "Elke A. Rundensteiner", "George T. Heineman"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yali Zhu",
+		"Elke A. Rundensteiner",
+		"George T. Heineman"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/ZhuRH04",
 	"doi": "10.1145/1007568.1007617",
-	"ee": ["http://doi.acm.org/10.1145/1007568.1007617", "http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-533.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1007568.1007617",
+		"http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-533.pdf"
+	],
 	"pages": "431-442",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "plan", "migrat", "for", "continu", "queri", "over", "data", "stream"],
-	"tag": ["data type", "migration", "query"],
+	"stemmed": [
+		"dynam",
+		"plan",
+		"migrat",
+		"for",
+		"continu",
+		"queri",
+		"over",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"data type",
+		"migration",
+		"query"
+	],
 	"title": "Dynamic Plan Migration for Continuous Queries Over Data Streams",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

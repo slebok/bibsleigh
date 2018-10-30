@@ -1,14 +1,37 @@
 {
-	"acmid": 1164199,
-	"author": ["Hector Gonzalez", "Jiawei Han", "Xiaolei Li"],
-	"booktitle": "VLDB",
+	"acmid": "1164199",
+	"author": [
+		"Hector Gonzalez",
+		"Jiawei Han",
+		"Xiaolei Li"
+	],
+	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
 	"dblpkey": "conf/vldb/GonzalezHL06",
 	"ee": "http://www.vldb.org/conf/2006/p834-gonzalez.pdf",
 	"pages": "834-845",
 	"publisher": "ACM",
-	"stemmed": ["flow", "cube", "constructu", "rfid", "flow", "cube", "for", "multi", "dimension", "analysi", "of", "commod", "flow"],
-	"tag": ["analysis", "multi", "named"],
+	"stemmed": [
+		"flow",
+		"cube",
+		"constructu",
+		"rfid",
+		"flow",
+		"cube",
+		"for",
+		"multi",
+		"dimension",
+		"analysi",
+		"of",
+		"commod",
+		"flow"
+	],
+	"tag": [
+		"analysis",
+		"multi",
+		"named"
+	],
 	"title": "FlowCube: Constructuing RFID FlowCubes for Multi-Dimensional Analysis of Commodity Flows",
 	"type": "inproceedings",
 	"venue": "VLDB",

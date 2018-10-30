@@ -1,13 +1,32 @@
 {
-	"author": ["Kai Zhu", "D. F. Wong"],
-	"booktitle": "DAC",
+	"author": [
+		"Kai Zhu",
+		"D. F. Wong"
+	],
+	"booktitle": "Proceedings of the 31st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/ZhuW94",
 	"doi": "10.1145/196244.196324",
 	"ee": "http://doi.acm.org/10.1145/196244.196324",
 	"pages": "165-170",
 	"publisher": "ACM Press",
-	"stemmed": ["switch", "bound", "alloc", "for", "maxim", "routabl", "in", "time", "driven", "rout", "of", "fpgas"],
-	"tag": ["bound"],
+	"stemmed": [
+		"switch",
+		"bound",
+		"alloc",
+		"for",
+		"maxim",
+		"routabl",
+		"in",
+		"time",
+		"driven",
+		"rout",
+		"of",
+		"fpgas"
+	],
+	"tag": [
+		"bound"
+	],
 	"title": "Switch Bound Allocation for Maximizing Routability in Timing-Driven Routing of FPGAs",
 	"type": "inproceedings",
 	"venue": "DAC",

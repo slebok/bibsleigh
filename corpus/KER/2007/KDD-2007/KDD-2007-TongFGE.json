@@ -1,14 +1,35 @@
 {
-	"author": ["Hanghang Tong", "Christos Faloutsos", "Brian Gallagher", "Tina Eliassi-Rad"],
-	"booktitle": "KDD",
+	"author": [
+		"Hanghang Tong",
+		"Christos Faloutsos",
+		"Brian Gallagher",
+		"Tina Eliassi-Rad"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2007",
 	"dblpkey": "conf/kdd/TongFGE07",
 	"doi": "10.1145/1281192.1281271",
 	"ee": "http://doi.acm.org/10.1145/1281192.1281271",
 	"pages": "737-746",
 	"publisher": "ACM",
-	"stemmed": ["fast", "best", "effort", "pattern", "match", "in", "larg", "attribut", "graph"],
-	"tag": ["graph", "pattern matching", "performance", "scalability"],
+	"stemmed": [
+		"fast",
+		"best",
+		"effort",
+		"pattern",
+		"match",
+		"in",
+		"larg",
+		"attribut",
+		"graph"
+	],
+	"tag": [
+		"graph",
+		"pattern matching",
+		"performance",
+		"scalability"
+	],
 	"title": "Fast best-effort pattern matching in large attributed graphs",
 	"type": "inproceedings",
 	"venue": "KDD",

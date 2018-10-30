@@ -1,6 +1,11 @@
 {
-	"author": ["Peter Baumgartner", "Joshua Bax", "Uwe Waldmann"],
-	"booktitle": "CADE",
+	"author": [
+		"Peter Baumgartner",
+		"Joshua Bax",
+		"Uwe Waldmann"
+	],
+	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
 	"dblpkey": "conf/cade/BaumgartnerBW15",
 	"doi": "10.1007/978-3-319-21401-6_25",
@@ -10,11 +15,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["beagl", "a", "hierarch", "superposit", "theorem", "prover"],
-	"tag": ["named", "proving", "theorem proving"],
+	"stemmed": [
+		"beagl",
+		"a",
+		"hierarch",
+		"superposit",
+		"theorem",
+		"prover"
+	],
+	"tag": [
+		"named",
+		"proving",
+		"theorem proving"
+	],
 	"title": "Beagle — A Hierarchic Superposition Theorem Prover",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 9195,
+	"volume": "9195",
 	"year": 2015
 }

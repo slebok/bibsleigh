@@ -1,6 +1,11 @@
 {
-	"author": ["Badrish Chandramouli", "Justin J. Levandoski", "Ahmed Eldawy", "Mohamed F. Mokbel"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Badrish Chandramouli",
+		"Justin J. Levandoski",
+		"Ahmed Eldawy",
+		"Mohamed F. Mokbel"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/ChandramouliLEM11",
@@ -8,8 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989465",
 	"pages": "1243-1246",
 	"publisher": "ACM",
-	"stemmed": ["stream", "rec", "a", "real", "time", "recommend", "system"],
-	"tag": ["named", "realtime", "recommendation"],
+	"stemmed": [
+		"stream",
+		"rec",
+		"a",
+		"real",
+		"time",
+		"recommend",
+		"system"
+	],
+	"tag": [
+		"named",
+		"realtime",
+		"recommendation"
+	],
 	"title": "StreamRec: a real-time recommender system",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

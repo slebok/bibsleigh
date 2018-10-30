@@ -1,6 +1,6 @@
 {
 	"author": "Takashi Horikawa",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/Horikawa13",
@@ -8,8 +8,24 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2463720",
 	"pages": "409-420",
 	"publisher": "ACM",
-	"stemmed": ["latch", "free", "data", "structur", "for", "dbms", "design", "implement", "and", "evalu"],
-	"tag": ["data type", "design", "evaluation", "implementation"],
+	"stemmed": [
+		"latch",
+		"free",
+		"data",
+		"structur",
+		"for",
+		"dbms",
+		"design",
+		"implement",
+		"and",
+		"evalu"
+	],
+	"tag": [
+		"data type",
+		"design",
+		"evaluation",
+		"implementation"
+	],
 	"title": "Latch-free data structures for DBMS: design, implementation, and evaluation",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

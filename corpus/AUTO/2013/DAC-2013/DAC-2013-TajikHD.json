@@ -1,14 +1,38 @@
 {
-	"author": ["Hossein Tajik", "Houman Homayoun", "Nikil Dutt"],
-	"booktitle": "DAC",
+	"author": [
+		"Hossein Tajik",
+		"Houman Homayoun",
+		"Nikil Dutt"
+	],
+	"booktitle": "Proceedings of the 50th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2013",
 	"dblpkey": "conf/dac/TajikHD13",
 	"doi": "10.1145/2463209.2488953",
 	"ee": "http://doi.acm.org/10.1145/2463209.2488953",
 	"pages": "178:1-178:8",
 	"publisher": "ACM",
-	"stemmed": ["vawom", "temperatur", "and", "process", "variat", "awar", "wearout", "manag", "in", "d", "multicor", "architectur"],
-	"tag": ["3d", "architecture", "manycore", "named", "process"],
+	"stemmed": [
+		"vawom",
+		"temperatur",
+		"and",
+		"process",
+		"variat",
+		"awar",
+		"wearout",
+		"manag",
+		"in",
+		"d",
+		"multicor",
+		"architectur"
+	],
+	"tag": [
+		"3d",
+		"architecture",
+		"manycore",
+		"named",
+		"process"
+	],
 	"title": "VAWOM: temperature and process variation aware wearout management in 3D multicore architecture",
 	"type": "inproceedings",
 	"venue": "DAC",

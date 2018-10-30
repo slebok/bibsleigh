@@ -1,6 +1,10 @@
 {
-	"author": ["Nathan Bales", "Alin Deutsch", "Vasilis Vassalos"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Nathan Bales",
+		"Alin Deutsch",
+		"Vasilis Vassalos"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/BalesDV11",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989404",
 	"pages": "769-780",
 	"publisher": "ACM",
-	"stemmed": ["score", "consist", "algebra", "optim", "of", "full", "text", "search", "queri", "with", "graft"],
-	"tag": ["algebra", "optimisation", "query"],
+	"stemmed": [
+		"score",
+		"consist",
+		"algebra",
+		"optim",
+		"of",
+		"full",
+		"text",
+		"search",
+		"queri",
+		"with",
+		"graft"
+	],
+	"tag": [
+		"algebra",
+		"optimisation",
+		"query"
+	],
 	"title": "Score-consistent algebraic optimization of full-text search queries with GRAFT",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

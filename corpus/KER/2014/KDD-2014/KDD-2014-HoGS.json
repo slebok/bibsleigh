@@ -1,14 +1,36 @@
 {
-	"author": ["Joyce C. Ho", "Joydeep Ghosh", "Jimeng Sun"],
-	"booktitle": "KDD",
+	"author": [
+		"Joyce C. Ho",
+		"Joydeep Ghosh",
+		"Jimeng Sun"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/HoGS14",
 	"doi": "10.1145/2623330.2623658",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623658",
 	"pages": "115-124",
 	"publisher": "ACM",
-	"stemmed": ["marbl", "high", "throughput", "phenotyp", "from", "electron", "health", "record", "via", "spars", "nonneg", "tensor", "factor"],
-	"tag": ["health", "named"],
+	"stemmed": [
+		"marbl",
+		"high",
+		"throughput",
+		"phenotyp",
+		"from",
+		"electron",
+		"health",
+		"record",
+		"via",
+		"spars",
+		"nonneg",
+		"tensor",
+		"factor"
+	],
+	"tag": [
+		"health",
+		"named"
+	],
 	"title": "Marble: high-throughput phenotyping from electronic health records via sparse nonnegative tensor factorization",
 	"type": "inproceedings",
 	"venue": "KDD",

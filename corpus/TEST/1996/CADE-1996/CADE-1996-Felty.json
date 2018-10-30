@@ -1,6 +1,7 @@
 {
 	"author": "Amy P. Felty",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/Felty96",
 	"doi": "10.1007/3-540-61511-3_120",
@@ -10,11 +11,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["proof", "search", "with", "set", "variabl", "instanti", "in", "the", "calculus", "of", "construct"],
-	"tag": ["calculus", "proving", "set"],
+	"stemmed": [
+		"proof",
+		"search",
+		"with",
+		"set",
+		"variabl",
+		"instanti",
+		"in",
+		"the",
+		"calculus",
+		"of",
+		"construct"
+	],
+	"tag": [
+		"calculus",
+		"proving",
+		"set"
+	],
 	"title": "Proof Search with Set Variable Instantiation in the Calculus of Constructions",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

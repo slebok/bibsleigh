@@ -1,6 +1,12 @@
 {
-	"author": ["Ben Hardekopf", "Ben Wiedermann", "Berkeley R. Churchill", "Vineeth Kashyap"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Ben Hardekopf",
+		"Ben Wiedermann",
+		"Berkeley R. Churchill",
+		"Vineeth Kashyap"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2014",
 	"dblpkey": "conf/vmcai/HardekopfWCK14",
 	"doi": "10.1007/978-3-642-54013-4_26",
@@ -10,11 +16,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["widen", "for", "control", "flow"],
-	"tag": ["control flow"],
+	"stemmed": [
+		"widen",
+		"for",
+		"control",
+		"flow"
+	],
+	"tag": [
+		"control flow"
+	],
 	"title": "Widening for Control-Flow",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 8318,
+	"volume": "8318",
 	"year": 2014
 }

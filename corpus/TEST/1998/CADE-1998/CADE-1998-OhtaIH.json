@@ -1,6 +1,11 @@
 {
-	"author": ["Yoshihiko Ohta", "Katsumi Inoue", "Ryuzo Hasegawa"],
-	"booktitle": "CADE",
+	"author": [
+		"Yoshihiko Ohta",
+		"Katsumi Inoue",
+		"Ryuzo Hasegawa"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1998",
 	"dblpkey": "conf/cade/OhtaIH98",
 	"ee": "http://link.springer.de/link/service/series/0558/bibs/1421/14210333.htm",
@@ -9,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["on", "the", "relationship", "between", "non", "horn", "magic", "set", "and", "relev", "test"],
-	"tag": ["on the", "testing"],
+	"stemmed": [
+		"on",
+		"the",
+		"relationship",
+		"between",
+		"non",
+		"horn",
+		"magic",
+		"set",
+		"and",
+		"relev",
+		"test"
+	],
+	"tag": [
+		"on the",
+		"testing"
+	],
 	"title": "On the Relationship Between Non-Horn Magic Sets and Relevancy Testing",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1421,
+	"volume": "1421",
 	"year": 1998
 }

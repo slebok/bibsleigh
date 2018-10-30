@@ -1,16 +1,38 @@
 {
-	"author": ["Wei Huang", "Ana Milanova", "Werner Dietl", "Michael D. Ernst"],
-	"booktitle": "Proceedings of the 27th Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Wei Huang",
+		"Ana Milanova",
+		"Werner Dietl",
+		"Michael D. Ernst"
+	],
+	"booktitle": "Proceedings of the 27th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2012",
 	"dblpkey": "conf/oopsla/HuangMDE12",
 	"doi": "10.1145/2384616.2384680",
-	"editor": ["Gary T. Leavens", "Matthew B. Dwyer"],
+	"editor": [
+		"Gary T. Leavens",
+		"Matthew B. Dwyer"
+	],
 	"ee": "http://doi.acm.org/10.1145/2384616.2384680",
 	"isbn": "978-1-4503-1561-6",
 	"pages": "879-896",
 	"publisher": "ACM",
-	"stemmed": ["reim", "re", "im", "infer", "check", "and", "infer", "of", "refer", "immut", "and", "method", "puriti"],
+	"stemmed": [
+		"reim",
+		"re",
+		"im",
+		"infer",
+		"check",
+		"and",
+		"infer",
+		"of",
+		"refer",
+		"immut",
+		"and",
+		"method",
+		"puriti"
+	],
 	"title": "Reim & ReImInfer: checking and inference of reference immutability and method purity",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

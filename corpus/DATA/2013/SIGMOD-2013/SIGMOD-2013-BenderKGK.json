@@ -1,6 +1,11 @@
 {
-	"author": ["Gabriel Bender", "Lucja Kot", "Johannes Gehrke", "Christoph Koch"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Gabriel Bender",
+		"Lucja Kot",
+		"Johannes Gehrke",
+		"Christoph Koch"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/BenderKGK13",
@@ -8,8 +13,19 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2467798",
 	"pages": "869-880",
 	"publisher": "ACM",
-	"stemmed": ["fine", "grain", "disclosur", "control", "for", "app", "ecosystem"],
-	"tag": ["ecosystem", "fine-grained"],
+	"stemmed": [
+		"fine",
+		"grain",
+		"disclosur",
+		"control",
+		"for",
+		"app",
+		"ecosystem"
+	],
+	"tag": [
+		"ecosystem",
+		"fine-grained"
+	],
 	"title": "Fine-grained disclosure control for app ecosystems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

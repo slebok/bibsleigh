@@ -1,13 +1,29 @@
 {
-	"author": ["Matthias Bender", "Sebastian Michel", "Peter Triantafillou", "Gerhard Weikum", "Christian Zimmer"],
-	"booktitle": "VLDB",
+	"author": [
+		"Matthias Bender",
+		"Sebastian Michel",
+		"Peter Triantafillou",
+		"Gerhard Weikum",
+		"Christian Zimmer"
+	],
+	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/BenderMTWZ05",
 	"ee": "http://www.vldb.org/conf/2005/papers/p1263-bender.pdf",
 	"pages": "1263-1266",
 	"publisher": "ACM",
-	"stemmed": ["minerva", "collabor", "p", "p", "search"],
-	"tag": ["collaboration", "named"],
+	"stemmed": [
+		"minerva",
+		"collabor",
+		"p",
+		"p",
+		"search"
+	],
+	"tag": [
+		"collaboration",
+		"named"
+	],
 	"title": "MINERVA: Collaborative P2P Search",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,7 @@
 {
 	"author": "Infodata Systems",
 	"booktitle": "Proceedings of the ACM SIGIR International Conference on Information Storage and Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1978/P171.pdf",
 	"crossref": "conf/sigir/78",
 	"dblpkey": "conf/sigir/Inquire78",
@@ -8,8 +9,15 @@
 	"ee": "http://doi.acm.org/10.1145/800096.803142",
 	"pages": "171-174",
 	"publisher": "ACM",
-	"stemmed": ["inquir", "system", "overview"],
-	"tag": ["bibliography", "perspective"],
+	"stemmed": [
+		"inquir",
+		"system",
+		"overview"
+	],
+	"tag": [
+		"bibliography",
+		"perspective"
+	],
 	"title": "Inquire System Overview",
 	"type": "inproceedings",
 	"venue": "SIGIR",

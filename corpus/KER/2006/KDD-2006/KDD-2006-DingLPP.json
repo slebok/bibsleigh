@@ -1,14 +1,32 @@
 {
-	"author": ["Chris H. Q. Ding", "Tao Li", "Wei Peng", "Haesun Park"],
-	"booktitle": "KDD",
+	"author": [
+		"Chris H. Q. Ding",
+		"Tao Li",
+		"Wei Peng",
+		"Haesun Park"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/DingLPP06",
 	"doi": "10.1145/1150402.1150420",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150420",
 	"pages": "126-135",
 	"publisher": "ACM",
-	"stemmed": ["orthogon", "nonneg", "matrix", "t", "factor", "for", "cluster"],
-	"tag": ["clustering", "matrix", "orthogonal"],
+	"stemmed": [
+		"orthogon",
+		"nonneg",
+		"matrix",
+		"t",
+		"factor",
+		"for",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"matrix",
+		"orthogonal"
+	],
 	"title": "Orthogonal nonnegative matrix t-factorizations for clustering",
 	"type": "inproceedings",
 	"venue": "KDD",

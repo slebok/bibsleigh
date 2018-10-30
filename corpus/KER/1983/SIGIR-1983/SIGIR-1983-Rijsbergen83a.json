@@ -1,6 +1,7 @@
 {
 	"author": "C. J. van Rijsbergen",
 	"booktitle": "Proceedings of the Sixth Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1983/P264.pdf",
 	"crossref": "conf/sigir/83",
 	"dblpkey": "conf/sigir/Rijsbergen83a",
@@ -8,8 +9,17 @@
 	"ee": "http://doi.acm.org/10.1145/511793.511831",
 	"pages": "264-265",
 	"publisher": "ACM",
-	"stemmed": ["inform", "retriev", "new", "direct", "old", "solut"],
-	"tag": ["information retrieval"],
+	"stemmed": [
+		"inform",
+		"retriev",
+		"new",
+		"direct",
+		"old",
+		"solut"
+	],
+	"tag": [
+		"information retrieval"
+	],
 	"title": "Information Retrieval: New Directions, Old Solutions",
 	"type": "inproceedings",
 	"venue": "SIGIR",

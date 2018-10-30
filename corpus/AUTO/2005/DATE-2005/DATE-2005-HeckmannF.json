@@ -1,6 +1,10 @@
 {
-	"author": ["Reinhold Heckmann", "Christian Ferdinand"],
-	"booktitle": "DATE",
+	"author": [
+		"Reinhold Heckmann",
+		"Christian Ferdinand"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/HeckmannF05",
 	"doi": "10.1109/DATE.2005.326",
@@ -8,8 +12,27 @@
 	"pages": "618-619",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["erifi", "safeti", "critic", "time", "and", "memori", "usag", "properti", "of", "embed", "softwar", "by", "abstract", "interpret"],
-	"tag": ["abstract interpretation", "embedded", "safety"],
+	"stemmed": [
+		"erifi",
+		"safeti",
+		"critic",
+		"time",
+		"and",
+		"memori",
+		"usag",
+		"properti",
+		"of",
+		"embed",
+		"softwar",
+		"by",
+		"abstract",
+		"interpret"
+	],
+	"tag": [
+		"abstract interpretation",
+		"embedded",
+		"safety"
+	],
 	"title": "erifying Safety-Critical Timing and Memory-Usage Properties of Embedded Software by Abstract Interpretation",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,13 +1,26 @@
 {
-	"author": ["Sirish Chandrasekaran", "Michael J. Franklin"],
-	"booktitle": "VLDB",
+	"author": [
+		"Sirish Chandrasekaran",
+		"Michael J. Franklin"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/ChandrasekaranF02",
 	"ee": "http://www.vldb.org/conf/2002/S07P01.pdf",
 	"pages": "203-214",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["stream", "queri", "over", "stream", "data"],
-	"tag": ["query", "streaming"],
+	"stemmed": [
+		"stream",
+		"queri",
+		"over",
+		"stream",
+		"data"
+	],
+	"tag": [
+		"query",
+		"streaming"
+	],
 	"title": "Streaming Queries over Streaming Data",
 	"type": "inproceedings",
 	"venue": "VLDB",

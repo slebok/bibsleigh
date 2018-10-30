@@ -1,6 +1,12 @@
 {
-	"author": ["Christian Jacobi", "Kai Weber", "Viresh Paruthi", "Jason Baumgartner"],
-	"booktitle": "DATE",
+	"author": [
+		"Christian Jacobi",
+		"Kai Weber",
+		"Viresh Paruthi",
+		"Jason Baumgartner"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/JacobiWPB05",
 	"doi": "10.1109/DATE.2005.75",
@@ -8,8 +14,21 @@
 	"pages": "1298-1303",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["automat", "formal", "verif", "of", "fuse", "multipli", "add", "fpus"],
-	"tag": ["automation", "multi", "verification"],
+	"stemmed": [
+		"automat",
+		"formal",
+		"verif",
+		"of",
+		"fuse",
+		"multipli",
+		"add",
+		"fpus"
+	],
+	"tag": [
+		"automation",
+		"multi",
+		"verification"
+	],
 	"title": "Automatic Formal Verification of Fused-Multiply-Add FPUs",
 	"type": "inproceedings",
 	"venue": "DATE",

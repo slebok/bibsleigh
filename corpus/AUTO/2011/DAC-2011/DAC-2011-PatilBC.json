@@ -1,14 +1,31 @@
 {
-	"author": ["Nikhil A. Patil", "Ankit Bansal", "Derek Chiou"],
-	"booktitle": "DAC",
+	"author": [
+		"Nikhil A. Patil",
+		"Ankit Bansal",
+		"Derek Chiou"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/PatilBC11",
 	"doi": "10.1145/2024724.2024909",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024909",
 	"pages": "824-829",
 	"publisher": "ACM",
-	"stemmed": ["enforc", "architectur", "contract", "in", "high", "level", "synthesi"],
-	"tag": ["architecture", "contract", "synthesis"],
+	"stemmed": [
+		"enforc",
+		"architectur",
+		"contract",
+		"in",
+		"high",
+		"level",
+		"synthesi"
+	],
+	"tag": [
+		"architecture",
+		"contract",
+		"synthesis"
+	],
 	"title": "Enforcing architectural contracts in high-level synthesis",
 	"type": "inproceedings",
 	"venue": "DAC",

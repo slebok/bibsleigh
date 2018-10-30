@@ -1,14 +1,32 @@
 {
-	"author": ["Ronald Fagin", "Benny Kimelfeld", "Frederick Reiss", "Stijn Vansummeren"],
-	"booktitle": "PODS",
+	"author": [
+		"Ronald Fagin",
+		"Benny Kimelfeld",
+		"Frederick Reiss",
+		"Stijn Vansummeren"
+	],
+	"booktitle": "Proceedings of the 32nd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2013",
 	"dblpkey": "conf/pods/FaginKRV13",
 	"doi": "10.1145/2463664.2463665",
 	"ee": "http://doi.acm.org/10.1145/2463664.2463665",
 	"pages": "37-48",
 	"publisher": "ACM",
-	"stemmed": ["spanner", "a", "formal", "framework", "for", "inform", "extract"],
-	"tag": ["framework", "information management", "named"],
+	"stemmed": [
+		"spanner",
+		"a",
+		"formal",
+		"framework",
+		"for",
+		"inform",
+		"extract"
+	],
+	"tag": [
+		"framework",
+		"information management",
+		"named"
+	],
 	"title": "Spanners: a formal framework for information extraction",
 	"type": "inproceedings",
 	"venue": "PODS",

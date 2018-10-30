@@ -1,13 +1,28 @@
 {
 	"author": "Sven Helmer",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/Helmer07",
 	"ee": "http://www.vldb.org/conf/2007/papers/research/p1022-helmer.pdf",
 	"pages": "1022-1032",
 	"publisher": "ACM",
-	"stemmed": ["measur", "the", "structur", "similar", "of", "semistructur", "document", "use", "entropi"],
-	"tag": ["documentation", "similarity", "using"],
+	"stemmed": [
+		"measur",
+		"the",
+		"structur",
+		"similar",
+		"of",
+		"semistructur",
+		"document",
+		"use",
+		"entropi"
+	],
+	"tag": [
+		"documentation",
+		"similarity",
+		"using"
+	],
 	"title": "Measuring the Structural Similarity of Semistructured Documents Using Entropy",
 	"type": "inproceedings",
 	"venue": "VLDB",

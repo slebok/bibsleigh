@@ -1,18 +1,38 @@
 {
-	"author": ["Mats Carlsson", "Olga Grinchtein", "Justin Pearson"],
+	"author": [
+		"Mats Carlsson",
+		"Olga Grinchtein",
+		"Justin Pearson"
+	],
 	"booktitle": "Proceedings of the 12th International Workshop on Satisfiability Modulo Theories",
-	"editor": ["Philipp Rümmer", "Christoph M. Wintersteiger"],
+	"booktitleshort": "SMT",
+	"editor": [
+		"Philipp Rümmer",
+		"Christoph M. Wintersteiger"
+	],
 	"openpdf": "http://ceur-ws.org/Vol-1163/paper-04.pdf",
 	"pages": "17-26",
 	"publisher": "CEUR-WS.org",
 	"series": "CEUR Workshop Proceedings",
 	"seriesshort": "CEUR",
-	"stemmed": ["protocol", "log", "analysi", "with", "constraint", "program"],
-	"tag": ["analysis", "constraints", "programming", "protocol"],
+	"stemmed": [
+		"protocol",
+		"log",
+		"analysi",
+		"with",
+		"constraint",
+		"program"
+	],
+	"tag": [
+		"analysis",
+		"constraints",
+		"programming",
+		"protocol"
+	],
 	"title": "Protocol Log Analysis with Constraint Programming",
 	"type": "inproceedings",
 	"url": "http://ceur-ws.org/Vol-1163/#paper-04",
 	"venue": "SMT",
-	"volume": 1163,
+	"volume": "1163",
 	"year": 2014
 }

@@ -1,14 +1,34 @@
 {
-	"author": ["Ryan Cochran", "Sherief Reda"],
-	"booktitle": "DAC",
+	"author": [
+		"Ryan Cochran",
+		"Sherief Reda"
+	],
+	"booktitle": "Proceedings of the 47th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2010",
 	"dblpkey": "conf/dac/CochranR10",
 	"doi": "10.1145/1837274.1837292",
 	"ee": "http://doi.acm.org/10.1145/1837274.1837292",
 	"pages": "62-67",
 	"publisher": "ACM",
-	"stemmed": ["consist", "runtim", "thermal", "predict", "and", "control", "through", "workload", "phase", "detect"],
-	"tag": ["consistency", "detection", "predict", "runtime"],
+	"stemmed": [
+		"consist",
+		"runtim",
+		"thermal",
+		"predict",
+		"and",
+		"control",
+		"through",
+		"workload",
+		"phase",
+		"detect"
+	],
+	"tag": [
+		"consistency",
+		"detection",
+		"predict",
+		"runtime"
+	],
 	"title": "Consistent runtime thermal prediction and control through workload phase detection",
 	"type": "inproceedings",
 	"venue": "DAC",

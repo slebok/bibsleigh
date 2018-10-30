@@ -1,15 +1,42 @@
 {
-	"author": ["Christopher Wood", "Eduardo B. Fernández"],
-	"booktitle": "VLDB",
+	"author": [
+		"Christopher Wood",
+		"Eduardo B. Fernández"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB79/P352.PDF",
-	"cite": ["conf/vldb/AdibaCDGB78", "...", "conf/jcdkb/ArditiZ78", "journals/tods/AstrahanBCEGGKLMMPTWW76", "...", "conf/vldb/Comba75", "conf/sigmod/FernandezSC75", "conf/vldb/FernandezSL75", "journals/tods/GriffithsW76", "...", "conf/berkeley/RothnieG77", "..."],
+	"cite": [
+		"conf/vldb/AdibaCDGB78",
+		"...",
+		"conf/jcdkb/ArditiZ78",
+		"journals/tods/AstrahanBCEGGKLMMPTWW76",
+		"...",
+		"conf/vldb/Comba75",
+		"conf/sigmod/FernandezSC75",
+		"conf/vldb/FernandezSL75",
+		"journals/tods/GriffithsW76",
+		"...",
+		"conf/berkeley/RothnieG77",
+		"..."
+	],
 	"crossref": "conf/vldb/79",
 	"dblpkey": "conf/vldb/WoodF79",
 	"pages": "352-359",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["decentr", "author", "in", "a", "databas", "system"],
-	"tag": ["database", "distributed"],
+	"stemmed": [
+		"decentr",
+		"author",
+		"in",
+		"a",
+		"databas",
+		"system"
+	],
+	"tag": [
+		"database",
+		"distributed"
+	],
 	"title": "Decentralized Authorization in a Database System",
 	"type": "inproceedings",
 	"venue": "VLDB",

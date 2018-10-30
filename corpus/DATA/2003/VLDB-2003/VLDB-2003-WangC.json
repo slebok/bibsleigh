@@ -1,12 +1,26 @@
 {
-	"author": ["Xiaoyu Wang", "Mitch Cherniack"],
-	"booktitle": "VLDB",
+	"author": [
+		"Xiaoyu Wang",
+		"Mitch Cherniack"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/WangC03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S25P01.pdf",
 	"pages": "826-837",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["avoid", "order", "and", "group", "in", "queri", "process"],
-	"tag": ["query"],
+	"stemmed": [
+		"avoid",
+		"order",
+		"and",
+		"group",
+		"in",
+		"queri",
+		"process"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Avoiding Ordering and Grouping In Query Processing",
 	"type": "inproceedings",
 	"venue": "VLDB",

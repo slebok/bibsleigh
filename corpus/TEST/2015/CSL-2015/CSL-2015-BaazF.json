@@ -1,6 +1,10 @@
 {
-	"author": ["Matthias Baaz", "Christian G. Fermüller"],
-	"booktitle": "CSL",
+	"author": [
+		"Matthias Baaz",
+		"Christian G. Fermüller"
+	],
+	"booktitle": "24th EACSL Annual Conference on Computer Science Logic, CSL 2015, September 7-10, 2015, Berlin, Germany",
+	"booktitleshort": "CSL",
 	"crossref": "conf/csl/2015",
 	"dblpkey": "conf/csl/BaazF15",
 	"doi": "10.4230/LIPIcs.CSL.2015.94",
@@ -10,11 +14,24 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["elementari", "elimin", "of", "prenex", "cut", "in", "disjunct", "free", "intuitionist", "logic"],
-	"tag": ["logic"],
+	"stemmed": [
+		"elementari",
+		"elimin",
+		"of",
+		"prenex",
+		"cut",
+		"in",
+		"disjunct",
+		"free",
+		"intuitionist",
+		"logic"
+	],
+	"tag": [
+		"logic"
+	],
 	"title": "Elementary Elimination of Prenex Cuts in Disjunction-free Intuitionistic Logic",
 	"type": "inproceedings",
 	"venue": "CSL",
-	"volume": 41,
+	"volume": "41",
 	"year": 2015
 }

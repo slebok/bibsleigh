@@ -1,6 +1,15 @@
 {
-	"author": ["Sudip Roy", "Lucja Kot", "Gabriel Bender", "Bailu Ding", "Hossein Hojjat", "Christoph Koch", "Nate Foster", "Johannes Gehrke"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Sudip Roy",
+		"Lucja Kot",
+		"Gabriel Bender",
+		"Bailu Ding",
+		"Hossein Hojjat",
+		"Christoph Koch",
+		"Nate Foster",
+		"Johannes Gehrke"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/0002KBDHKFG15",
@@ -8,8 +17,23 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2723720",
 	"pages": "1311-1326",
 	"publisher": "ACM",
-	"stemmed": ["the", "homeostasi", "protocol", "avoid", "transact", "coordin", "through", "program", "analysi"],
-	"tag": ["coordination", "program analysis", "protocol", "transaction"],
+	"stemmed": [
+		"the",
+		"homeostasi",
+		"protocol",
+		"avoid",
+		"transact",
+		"coordin",
+		"through",
+		"program",
+		"analysi"
+	],
+	"tag": [
+		"coordination",
+		"program analysis",
+		"protocol",
+		"transaction"
+	],
 	"title": "The Homeostasis Protocol: Avoiding Transaction Coordination Through Program Analysis",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,31 @@
 {
-	"author": ["Ziv Bar-Yossef", "Marcus Fontoura", "Vanja Josifovski"],
-	"booktitle": "PODS",
+	"author": [
+		"Ziv Bar-Yossef",
+		"Marcus Fontoura",
+		"Vanja Josifovski"
+	],
+	"booktitle": "Proceedings of the 24th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2005",
 	"dblpkey": "conf/pods/Bar-YossefFJ05",
 	"doi": "10.1145/1065167.1065195",
 	"ee": "http://doi.acm.org/10.1145/1065167.1065195",
 	"pages": "216-227",
 	"publisher": "ACM",
-	"stemmed": ["buffer", "in", "queri", "evalu", "over", "xml", "stream"],
-	"tag": ["evaluation", "query", "xml"],
+	"stemmed": [
+		"buffer",
+		"in",
+		"queri",
+		"evalu",
+		"over",
+		"xml",
+		"stream"
+	],
+	"tag": [
+		"evaluation",
+		"query",
+		"xml"
+	],
 	"title": "Buffering in query evaluation over XML streams",
 	"type": "inproceedings",
 	"venue": "PODS",

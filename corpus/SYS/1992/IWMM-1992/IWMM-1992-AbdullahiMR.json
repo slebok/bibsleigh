@@ -1,6 +1,11 @@
 {
-	"author": ["Saleh E. Abdullahi", "Eliot E. Miranda", "Graem A. Ringwood"],
-	"booktitle": "IWMM",
+	"author": [
+		"Saleh E. Abdullahi",
+		"Eliot E. Miranda",
+		"Graem A. Ringwood"
+	],
+	"booktitle": "Proceedings of the First International Workshop on Memory Management",
+	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
 	"dblpkey": "conf/iwmm/AbdullahiMR92",
 	"doi": "10.1007/BFb0017183",
@@ -10,11 +15,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["collect", "scheme", "for", "distribut", "garbag"],
-	"tag": ["distributed"],
+	"stemmed": [
+		"collect",
+		"scheme",
+		"for",
+		"distribut",
+		"garbag"
+	],
+	"tag": [
+		"distributed"
+	],
 	"title": "Collection Schemes for Distributed Garbage",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 637,
+	"volume": "637",
 	"year": 1992
 }

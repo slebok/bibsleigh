@@ -1,16 +1,46 @@
 {
 	"author": "Allen Van Gelder",
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS93/P180.PDF", "journals/anthology/dvd1:text/1-3/PODS93/P180.PDF"],
-	"cite": ["...", "conf/pods/HouOT88", "conf/sigmod/IoannidisK90", "conf/sigmod/IoannidisK91", "conf/sigmod/Ioannidis87", "conf/vldb/KrishnamurthyBZ86", "conf/sigmod/LiptonNS90", "conf/sigmod/LanzelotteVZ92", "conf/vldb/Lynch88", "conf/sigmod/Piatetsky-ShapiroC84", "conf/sigmod/SelingerACLP79", "conf/sigmod/SwamiG88", "conf/sigmod/Swami89", "books/cs/Ullman82"],
+	"booktitle": "Proceedings of the 12th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS93/P180.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS93/P180.PDF"
+	],
+	"cite": [
+		"...",
+		"conf/pods/HouOT88",
+		"conf/sigmod/IoannidisK90",
+		"conf/sigmod/IoannidisK91",
+		"conf/sigmod/Ioannidis87",
+		"conf/vldb/KrishnamurthyBZ86",
+		"conf/sigmod/LiptonNS90",
+		"conf/sigmod/LanzelotteVZ92",
+		"conf/vldb/Lynch88",
+		"conf/sigmod/Piatetsky-ShapiroC84",
+		"conf/sigmod/SelingerACLP79",
+		"conf/sigmod/SwamiG88",
+		"conf/sigmod/Swami89",
+		"books/cs/Ullman82"
+	],
 	"crossref": "conf/pods/93",
 	"dblpkey": "conf/pods/Gelder93",
 	"doi": "10.1145/153850.153872",
 	"ee": "http://doi.acm.org/10.1145/153850.153872",
 	"pages": "180-189",
 	"publisher": "ACM Press",
-	"stemmed": ["multipl", "join", "size", "estim", "by", "virtual", "domain"],
-	"tag": ["estimation", "multi"],
+	"stemmed": [
+		"multipl",
+		"join",
+		"size",
+		"estim",
+		"by",
+		"virtual",
+		"domain"
+	],
+	"tag": [
+		"estimation",
+		"multi"
+	],
 	"title": "Multiple Join Size Estimation by Virtual Domains",
 	"type": "inproceedings",
 	"venue": "PODS",

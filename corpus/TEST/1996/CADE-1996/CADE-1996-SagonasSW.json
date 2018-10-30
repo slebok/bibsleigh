@@ -1,6 +1,11 @@
 {
-	"author": ["Konstantinos F. Sagonas", "Terrance Swift", "David Scott Warren"],
-	"booktitle": "CADE",
+	"author": [
+		"Konstantinos F. Sagonas",
+		"Terrance Swift",
+		"David Scott Warren"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/SagonasSW96",
 	"doi": "10.1007/3-540-61511-3_98",
@@ -10,11 +15,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "abstract", "machin", "for", "fix", "order", "dynam", "stratifi", "program"],
-	"tag": ["automaton", "source code"],
+	"stemmed": [
+		"an",
+		"abstract",
+		"machin",
+		"for",
+		"fix",
+		"order",
+		"dynam",
+		"stratifi",
+		"program"
+	],
+	"tag": [
+		"automaton",
+		"source code"
+	],
 	"title": "An Abstract Machine for Fixed-Order Dynamically Stratified Programs",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

@@ -1,6 +1,10 @@
 {
-	"author": ["Pietro Ferrara", "Peter Müller"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Pietro Ferrara",
+		"Peter Müller"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2012",
 	"dblpkey": "conf/vmcai/FerraraM12",
 	"doi": "10.1007/978-3-642-27940-9_14",
@@ -10,11 +14,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["automat", "infer", "of", "access", "permiss"],
-	"tag": ["automation"],
+	"stemmed": [
+		"automat",
+		"infer",
+		"of",
+		"access",
+		"permiss"
+	],
+	"tag": [
+		"automation"
+	],
 	"title": "Automatic Inference of Access Permissions",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 7148,
+	"volume": "7148",
 	"year": 2012
 }

@@ -1,6 +1,14 @@
 {
-	"author": ["Jie S. Hu", "Feihui Li", "Vijay Degalahal", "Mahmut T. Kandemir", "Narayanan Vijaykrishnan", "Mary Jane Irwin"],
-	"booktitle": "DATE",
+	"author": [
+		"Jie S. Hu",
+		"Feihui Li",
+		"Vijay Degalahal",
+		"Mahmut T. Kandemir",
+		"Narayanan Vijaykrishnan",
+		"Mary Jane Irwin"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/HuLDKVI05",
 	"doi": "10.1109/DATE.2005.98",
@@ -8,8 +16,20 @@
 	"pages": "1056-1057",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["compil", "direct", "instruct", "duplic", "for", "soft", "error", "detect"],
-	"tag": ["detection", "fault"],
+	"stemmed": [
+		"compil",
+		"direct",
+		"instruct",
+		"duplic",
+		"for",
+		"soft",
+		"error",
+		"detect"
+	],
+	"tag": [
+		"detection",
+		"fault"
+	],
 	"title": "Compiler-Directed Instruction Duplication for Soft Error Detection",
 	"type": "inproceedings",
 	"venue": "DATE",

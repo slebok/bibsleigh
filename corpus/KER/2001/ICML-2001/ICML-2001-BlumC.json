@@ -1,12 +1,30 @@
 {
-	"author": ["Avrim Blum", "Shuchi Chawla"],
+	"author": [
+		"Avrim Blum",
+		"Shuchi Chawla"
+	],
 	"booktitle": "Proceedings of the 18th International Conference on Machine Learning",
+	"booktitleshort": "ICML",
 	"crossref": "conf/icml/2001",
 	"dblpkey": "conf/icml/BlumC01",
 	"pages": "19-26",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["learn", "from", "label", "and", "unlabel", "data", "use", "graph", "mincut"],
-	"tag": ["graph", "learning", "using"],
+	"stemmed": [
+		"learn",
+		"from",
+		"label",
+		"and",
+		"unlabel",
+		"data",
+		"use",
+		"graph",
+		"mincut"
+	],
+	"tag": [
+		"graph",
+		"learning",
+		"using"
+	],
 	"title": "Learning from Labeled and Unlabeled Data using Graph Mincuts",
 	"type": "inproceedings",
 	"venue": "ICML",

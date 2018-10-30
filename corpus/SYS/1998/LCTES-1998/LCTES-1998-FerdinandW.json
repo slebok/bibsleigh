@@ -1,6 +1,10 @@
 {
-	"author": ["Christian Ferdinand", "Reinhard Wilhelm"],
-	"booktitle": "LCTES",
+	"author": [
+		"Christian Ferdinand",
+		"Reinhard Wilhelm"
+	],
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/1998",
 	"dblpkey": "conf/lctrts/FerdinandW98",
 	"doi": "10.1007/BFb0057777",
@@ -10,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["on", "predict", "data", "cach", "behavior", "for", "real", "time", "system"],
-	"tag": ["behaviour", "on the", "predict", "realtime"],
+	"stemmed": [
+		"on",
+		"predict",
+		"data",
+		"cach",
+		"behavior",
+		"for",
+		"real",
+		"time",
+		"system"
+	],
+	"tag": [
+		"behaviour",
+		"on the",
+		"predict",
+		"realtime"
+	],
 	"title": "On Predicting Data Cache Behavior for Real-Time Systems",
 	"type": "inproceedings",
 	"venue": "LCTES",
-	"volume": 1474,
+	"volume": "1474",
 	"year": 1998
 }

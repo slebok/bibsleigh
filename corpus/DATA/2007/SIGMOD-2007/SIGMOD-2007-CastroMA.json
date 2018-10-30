@@ -1,6 +1,10 @@
 {
-	"author": ["Pablo Castro", "Sergey Melnik", "Atul Adya"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Pablo Castro",
+		"Sergey Melnik",
+		"Atul Adya"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/CastroMA07",
@@ -8,8 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247609",
 	"pages": "1070-1072",
 	"publisher": "ACM",
-	"stemmed": ["ado", "net", "entiti", "framework", "rais", "the", "level", "of", "abstract", "in", "data", "program"],
-	"tag": ["abstraction", "framework", "programming"],
+	"stemmed": [
+		"ado",
+		"net",
+		"entiti",
+		"framework",
+		"rais",
+		"the",
+		"level",
+		"of",
+		"abstract",
+		"in",
+		"data",
+		"program"
+	],
+	"tag": [
+		"abstraction",
+		"framework",
+		"programming"
+	],
 	"title": "ADO.NET entity framework: raising the level of abstraction in data programming",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

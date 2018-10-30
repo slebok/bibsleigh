@@ -1,13 +1,36 @@
 {
-	"author": ["Ganesh Ananthanarayanan", "Srikanth Kandula", "Albert G. Greenberg", "Ion Stoica", "Yi Lu", "Bikas Saha", "Edward Harris"],
-	"booktitle": "OSDI",
+	"author": [
+		"Ganesh Ananthanarayanan",
+		"Srikanth Kandula",
+		"Albert G. Greenberg",
+		"Ion Stoica",
+		"Yi Lu",
+		"Bikas Saha",
+		"Edward Harris"
+	],
+	"booktitle": "Proceedings of the Ninth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2010",
 	"dblpkey": "conf/osdi/AnanthanarayananKGSLSH10",
 	"ee": "http://www.usenix.org/events/osdi10/tech/full_papers/Ananthanarayanan.pdf",
 	"pages": "265-278",
 	"publisher": "USENIX Association",
-	"stemmed": ["rein", "in", "the", "outlier", "in", "map", "reduc", "cluster", "use", "mantri"],
-	"tag": ["clustering", "using"],
+	"stemmed": [
+		"rein",
+		"in",
+		"the",
+		"outlier",
+		"in",
+		"map",
+		"reduc",
+		"cluster",
+		"use",
+		"mantri"
+	],
+	"tag": [
+		"clustering",
+		"using"
+	],
 	"title": "Reining in the Outliers in Map-Reduce Clusters using Mantri",
 	"type": "inproceedings",
 	"venue": "OSDI",

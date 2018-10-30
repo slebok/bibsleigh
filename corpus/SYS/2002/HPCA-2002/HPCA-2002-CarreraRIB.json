@@ -1,15 +1,35 @@
 {
-	"author": ["Enrique V. Carrera", "Srinath Rao", "Liviu Iftode", "Ricardo Bianchini"],
-	"booktitle": "HPCA",
+	"author": [
+		"Enrique V. Carrera",
+		"Srinath Rao",
+		"Liviu Iftode",
+		"Ricardo Bianchini"
+	],
+	"booktitle": "Proceedings of the Eighth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2002",
 	"dblpkey": "conf/hpca/CarreraRIB02",
 	"doi": "10.1109/HPCA.2002.995717",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2002.995717", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2002.995717"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2002.995717",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2002.995717"
+	],
 	"pages": "275-286",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["user", "level", "communic", "in", "cluster", "base", "server"],
-	"tag": ["clustering", "communication"],
+	"stemmed": [
+		"user",
+		"level",
+		"communic",
+		"in",
+		"cluster",
+		"base",
+		"server"
+	],
+	"tag": [
+		"clustering",
+		"communication"
+	],
 	"title": "User-Level Communication in Cluster-Based Servers",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,6 +1,10 @@
 {
-	"author": ["Tingjian Ge", "Stanley B. Zdonik", "Samuel Madden"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Tingjian Ge",
+		"Stanley B. Zdonik",
+		"Samuel Madden"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/GeZM09",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559886",
 	"pages": "375-388",
 	"publisher": "ACM",
-	"stemmed": ["top", "k", "queri", "on", "uncertain", "data", "on", "score", "distribut", "and", "typic", "answer"],
-	"tag": ["nondeterminism", "query"],
+	"stemmed": [
+		"top",
+		"k",
+		"queri",
+		"on",
+		"uncertain",
+		"data",
+		"on",
+		"score",
+		"distribut",
+		"and",
+		"typic",
+		"answer"
+	],
+	"tag": [
+		"nondeterminism",
+		"query"
+	],
 	"title": "Top-k queries on uncertain data: on score distribution and typical answers",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

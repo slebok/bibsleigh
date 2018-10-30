@@ -1,6 +1,10 @@
 {
-	"author": ["Hrishikesh B. Aradhye", "Gregory K. Myers"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Hrishikesh B. Aradhye",
+		"Gregory K. Myers"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/AradhyeM07",
 	"doi": "10.1109/ICDAR.2007.111",
@@ -8,8 +12,18 @@
 	"pages": "894-898",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["exploit", "videotext", "event", "for", "improv", "videotext", "detect"],
-	"tag": ["detection"],
+	"stemmed": [
+		"exploit",
+		"videotext",
+		"event",
+		"for",
+		"improv",
+		"videotext",
+		"detect"
+	],
+	"tag": [
+		"detection"
+	],
 	"title": "Exploiting Videotext _Events_ for Improved Videotext Detection",
 	"type": "inproceedings",
 	"venue": "ICDAR",

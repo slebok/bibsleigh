@@ -1,6 +1,11 @@
 {
-	"author": ["Yasin N. Silva", "Ahmed M. Aly", "Walid G. Aref", "Per-Åke Larson"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yasin N. Silva",
+		"Ahmed M. Aly",
+		"Walid G. Aref",
+		"Per-Åke Larson"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/SilvaAAL10",
@@ -8,8 +13,19 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807330",
 	"pages": "1243-1246",
 	"publisher": "ACM",
-	"stemmed": ["sim", "db", "a", "similar", "awar", "databas", "system"],
-	"tag": ["database", "named"],
+	"stemmed": [
+		"sim",
+		"db",
+		"a",
+		"similar",
+		"awar",
+		"databas",
+		"system"
+	],
+	"tag": [
+		"database",
+		"named"
+	],
 	"title": "SimDB: a similarity-aware database system",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

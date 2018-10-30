@@ -1,14 +1,32 @@
 {
-	"author": ["David L. Black", "Richard F. Rashid", "David B. Golub", "Charles R. Hill", "Robert V. Baron"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"David L. Black",
+		"Richard F. Rashid",
+		"David B. Golub",
+		"Charles R. Hill",
+		"Robert V. Baron"
+	],
+	"booktitle": "Proceedings of the Third International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1989",
 	"dblpkey": "conf/asplos/BlackRGHB89",
 	"doi": "10.1145/70082.68193",
 	"ee": "http://doi.acm.org/10.1145/70082.68193",
 	"pages": "113-122",
 	"publisher": "ACM Press",
-	"stemmed": ["translat", "lookasid", "buffer", "consist", "a", "softwar", "approach"],
-	"tag": ["approach", "consistency"],
+	"stemmed": [
+		"translat",
+		"lookasid",
+		"buffer",
+		"consist",
+		"a",
+		"softwar",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"consistency"
+	],
 	"title": "Translation Lookaside Buffer Consistency: A Software Approach",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

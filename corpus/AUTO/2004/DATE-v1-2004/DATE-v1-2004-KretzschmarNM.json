@@ -1,6 +1,11 @@
 {
-	"author": ["Claudia Kretzschmar", "André K. Nieuwland", "Dietmar Müller"],
-	"booktitle": "DATE",
+	"author": [
+		"Claudia Kretzschmar",
+		"André K. Nieuwland",
+		"Dietmar Müller"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/KretzschmarNM04",
 	"doi": "10.1109/DATE.2004.1268897",
@@ -8,8 +13,25 @@
 	"pages": "512-517",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["whi", "transit", "code", "for", "power", "minim", "of", "on", "chip", "buse", "doe", "not", "work"],
-	"tag": ["power management", "why"],
+	"stemmed": [
+		"whi",
+		"transit",
+		"code",
+		"for",
+		"power",
+		"minim",
+		"of",
+		"on",
+		"chip",
+		"buse",
+		"doe",
+		"not",
+		"work"
+	],
+	"tag": [
+		"power management",
+		"why"
+	],
 	"title": "Why Transition Coding for Power Minimization of On-Chip Buses Does Not Work",
 	"type": "inproceedings",
 	"venue": "DATE",

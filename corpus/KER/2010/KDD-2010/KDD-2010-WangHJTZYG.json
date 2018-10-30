@@ -1,14 +1,36 @@
 {
-	"author": ["Chi Wang", "Jiawei Han", "Yuntao Jia", "Jie Tang", "Duo Zhang", "Yintao Yu", "Jingyi Guo"],
-	"booktitle": "KDD",
+	"author": [
+		"Chi Wang",
+		"Jiawei Han",
+		"Yuntao Jia",
+		"Jie Tang",
+		"Duo Zhang",
+		"Yintao Yu",
+		"Jingyi Guo"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/WangHJTZYG10",
 	"doi": "10.1145/1835804.1835833",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835833",
 	"pages": "203-212",
 	"publisher": "ACM",
-	"stemmed": ["mine", "advisor", "advise", "relationship", "from", "research", "public", "network"],
-	"tag": ["mining", "network", "research"],
+	"stemmed": [
+		"mine",
+		"advisor",
+		"advise",
+		"relationship",
+		"from",
+		"research",
+		"public",
+		"network"
+	],
+	"tag": [
+		"mining",
+		"network",
+		"research"
+	],
 	"title": "Mining advisor-advisee relationships from research publication networks",
 	"type": "inproceedings",
 	"venue": "KDD",

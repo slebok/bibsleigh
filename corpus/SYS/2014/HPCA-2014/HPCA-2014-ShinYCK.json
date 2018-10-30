@@ -1,6 +1,12 @@
 {
-	"author": ["Wongyu Shin", "Jeongmin Yang", "Jungwhan Choi", "Lee-Sup Kim"],
-	"booktitle": "HPCA",
+	"author": [
+		"Wongyu Shin",
+		"Jeongmin Yang",
+		"Jungwhan Choi",
+		"Lee-Sup Kim"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/ShinYCK14",
 	"doi": "10.1109/HPCA.2014.6835956",
@@ -8,8 +14,20 @@
 	"pages": "464-475",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["nuat", "a", "non", "uniform", "access", "time", "memori", "control"],
-	"tag": ["memory management", "named"],
+	"stemmed": [
+		"nuat",
+		"a",
+		"non",
+		"uniform",
+		"access",
+		"time",
+		"memori",
+		"control"
+	],
+	"tag": [
+		"memory management",
+		"named"
+	],
 	"title": "NUAT: A non-uniform access time memory controller",
 	"type": "inproceedings",
 	"venue": "HPCA",

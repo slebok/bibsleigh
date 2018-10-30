@@ -1,14 +1,33 @@
 {
-	"author": ["Fangjian Guo", "David B. Dunson"],
-	"booktitle": "RecSys",
+	"author": [
+		"Fangjian Guo",
+		"David B. Dunson"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2015",
 	"dblpkey": "conf/recsys/GuoD15",
 	"doi": "10.1145/2792838.2799683",
 	"ee": "http://doi.acm.org/10.1145/2792838.2799683",
 	"pages": "317-320",
 	"publisher": "ACM",
-	"stemmed": ["uncov", "systemat", "bias", "in", "rate", "across", "categori", "a", "bayesian", "approach"],
-	"tag": ["approach", "bias", "category theory"],
+	"stemmed": [
+		"uncov",
+		"systemat",
+		"bias",
+		"in",
+		"rate",
+		"across",
+		"categori",
+		"a",
+		"bayesian",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"bias",
+		"category theory"
+	],
 	"title": "Uncovering Systematic Bias in Ratings across Categories: a Bayesian Approach",
 	"type": "inproceedings",
 	"venue": "RecSys",

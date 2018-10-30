@@ -1,6 +1,10 @@
 {
-	"author": ["Koichiro Noguchi", "Makoto Nagata"],
-	"booktitle": "DATE",
+	"author": [
+		"Koichiro Noguchi",
+		"Makoto Nagata"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/NoguchiN05",
 	"doi": "10.1109/DATE.2005.230",
@@ -8,8 +12,25 @@
 	"pages": "146-151",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["on", "chip", "multi", "channel", "waveform", "monitor", "for", "diagnost", "of", "mix", "signal", "vlsi", "circuit"],
-	"tag": ["monitoring", "multi"],
+	"stemmed": [
+		"on",
+		"chip",
+		"multi",
+		"channel",
+		"waveform",
+		"monitor",
+		"for",
+		"diagnost",
+		"of",
+		"mix",
+		"signal",
+		"vlsi",
+		"circuit"
+	],
+	"tag": [
+		"monitoring",
+		"multi"
+	],
 	"title": "On-Chip Multi-Channel Waveform Monitoring for Diagnostics of Mixed-Signal VLSI Circuits",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,6 +1,10 @@
 {
-	"author": ["Martin Theobald", "Ralf Schenkel", "Gerhard Weikum"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Martin Theobald",
+		"Ralf Schenkel",
+		"Gerhard Weikum"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/TheobaldSW07",
@@ -8,8 +12,17 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247635",
 	"pages": "1141-1143",
 	"publisher": "ACM",
-	"stemmed": ["the", "top", "x", "db", "ir", "engin"],
-	"tag": ["information retrieval"],
+	"stemmed": [
+		"the",
+		"top",
+		"x",
+		"db",
+		"ir",
+		"engin"
+	],
+	"tag": [
+		"information retrieval"
+	],
 	"title": "The TopX DB&IR engine",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

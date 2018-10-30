@@ -1,15 +1,38 @@
 {
-	"author": ["Vincent Rabeux", "Nicholas Journet", "Jean-Philippe Domenger"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Vincent Rabeux",
+		"Nicholas Journet",
+		"Jean-Philippe Domenger"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2011",
 	"dblpkey": "conf/icdar/VincentNP11",
 	"doi": "10.1109/ICDAR.2011.248",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2011.248", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2011.248"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2011.248",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2011.248"
+	],
 	"pages": "1230-1234",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["document", "recto", "verso", "registr", "use", "a", "dynam", "time", "warp", "algorithm"],
-	"tag": ["algorithm", "documentation", "using"],
+	"stemmed": [
+		"document",
+		"recto",
+		"verso",
+		"registr",
+		"use",
+		"a",
+		"dynam",
+		"time",
+		"warp",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"documentation",
+		"using"
+	],
 	"title": "Document Recto-verso Registration Using a Dynamic Time Warping Algorithm",
 	"type": "inproceedings",
 	"venue": "ICDAR",

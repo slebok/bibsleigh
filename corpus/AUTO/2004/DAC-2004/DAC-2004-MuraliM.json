@@ -1,14 +1,35 @@
 {
-	"author": ["Srinivasan Murali", "Giovanni De Micheli"],
-	"booktitle": "DAC",
+	"author": [
+		"Srinivasan Murali",
+		"Giovanni De Micheli"
+	],
+	"booktitle": "Proceedings of the 41st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2004",
 	"dblpkey": "conf/dac/MuraliM04",
 	"doi": "10.1145/996566.996809",
 	"ee": "http://doi.acm.org/10.1145/996566.996809",
 	"pages": "914-919",
 	"publisher": "ACM",
-	"stemmed": ["sunmap", "a", "tool", "for", "automat", "topolog", "select", "and", "generat", "for", "no", "cs"],
-	"tag": ["automation", "generative", "named"],
+	"stemmed": [
+		"sunmap",
+		"a",
+		"tool",
+		"for",
+		"automat",
+		"topolog",
+		"select",
+		"and",
+		"generat",
+		"for",
+		"no",
+		"cs"
+	],
+	"tag": [
+		"automation",
+		"generative",
+		"named"
+	],
 	"title": "SUNMAP: a tool for automatic topology selection and generation for NoCs",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,30 @@
 {
-	"author": ["Luk Van Ertvelde", "Lieven Eeckhout"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Luk Van Ertvelde",
+		"Lieven Eeckhout"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2008",
 	"dblpkey": "conf/asplos/ErtveldeE08",
 	"doi": "10.1145/1346281.1346307",
 	"ee": "http://doi.acm.org/10.1145/1346281.1346307",
 	"pages": "201-210",
 	"publisher": "ACM",
-	"stemmed": ["dispers", "proprietari", "applic", "as", "benchmark", "through", "code", "mutat"],
-	"tag": ["benchmark", "metric"],
+	"stemmed": [
+		"dispers",
+		"proprietari",
+		"applic",
+		"as",
+		"benchmark",
+		"through",
+		"code",
+		"mutat"
+	],
+	"tag": [
+		"benchmark",
+		"metric"
+	],
 	"title": "Dispersing proprietary applications as benchmarks through code mutation",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

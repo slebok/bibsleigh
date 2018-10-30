@@ -1,6 +1,7 @@
 {
 	"author": "Ole Rasmussen",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/Rasmussen96",
 	"doi": "10.1007/3-540-61511-3_80",
@@ -10,11 +11,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "embed", "of", "rubi", "in", "isabell"],
-	"tag": ["ruby"],
+	"stemmed": [
+		"an",
+		"embed",
+		"of",
+		"rubi",
+		"in",
+		"isabell"
+	],
+	"tag": [
+		"ruby"
+	],
 	"title": "An Embedding of Ruby in Isabelle",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

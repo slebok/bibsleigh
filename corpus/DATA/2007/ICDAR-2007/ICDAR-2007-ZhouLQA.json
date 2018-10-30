@@ -1,6 +1,12 @@
 {
-	"author": ["X.-D. Zhou", "C.-L. Liu", "Solen Quiniou", "Éric Anquetil"],
-	"booktitle": "ICDAR",
+	"author": [
+		"X.-D. Zhou",
+		"C.-L. Liu",
+		"Solen Quiniou",
+		"Éric Anquetil"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/ZhouLQA07",
 	"doi": "10.1109/ICDAR.2007.248",
@@ -8,8 +14,27 @@
 	"pages": "377-381",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["text", "non", "text", "ink", "stroke", "classif", "in", "japanes", "handwrit", "base", "on", "markov", "random", "field"],
-	"tag": ["classification", "markov", "random"],
+	"stemmed": [
+		"text",
+		"non",
+		"text",
+		"ink",
+		"stroke",
+		"classif",
+		"in",
+		"japanes",
+		"handwrit",
+		"base",
+		"on",
+		"markov",
+		"random",
+		"field"
+	],
+	"tag": [
+		"classification",
+		"markov",
+		"random"
+	],
 	"title": "Text/Non-text Ink Stroke Classification in Japanese Handwriting Based on Markov Random Fields",
 	"type": "inproceedings",
 	"venue": "ICDAR",

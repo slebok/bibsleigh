@@ -1,6 +1,12 @@
 {
-	"author": ["Parag Agrawal", "Adam Silberstein", "Brian F. Cooper", "Utkarsh Srivastava", "Raghu Ramakrishnan"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Parag Agrawal",
+		"Adam Silberstein",
+		"Brian F. Cooper",
+		"Utkarsh Srivastava",
+		"Raghu Ramakrishnan"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/AgrawalSCSR09",
@@ -8,8 +14,18 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559866",
 	"pages": "179-192",
 	"publisher": "ACM",
-	"stemmed": ["asynchron", "view", "mainten", "for", "vlsd", "databas"],
-	"tag": ["database", "maintenance"],
+	"stemmed": [
+		"asynchron",
+		"view",
+		"mainten",
+		"for",
+		"vlsd",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"maintenance"
+	],
 	"title": "Asynchronous view maintenance for VLSD databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

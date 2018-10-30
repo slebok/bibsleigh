@@ -1,14 +1,36 @@
 {
-	"author": ["Chris Thornton", "Frank Hutter", "Holger H. Hoos", "Kevin Leyton-Brown"],
-	"booktitle": "KDD",
+	"author": [
+		"Chris Thornton",
+		"Frank Hutter",
+		"Holger H. Hoos",
+		"Kevin Leyton-Brown"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/ThorntonHHL13",
 	"doi": "10.1145/2487575.2487629",
 	"ee": "http://doi.acm.org/10.1145/2487575.2487629",
 	"pages": "847-855",
 	"publisher": "ACM",
-	"stemmed": ["auto", "weka", "combin", "select", "and", "hyperparamet", "optim", "of", "classif", "algorithm"],
-	"tag": ["algorithm", "classification", "named", "optimisation"],
+	"stemmed": [
+		"auto",
+		"weka",
+		"combin",
+		"select",
+		"and",
+		"hyperparamet",
+		"optim",
+		"of",
+		"classif",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"classification",
+		"named",
+		"optimisation"
+	],
 	"title": "Auto-WEKA: combined selection and hyperparameter optimization of classification algorithms",
 	"type": "inproceedings",
 	"venue": "KDD",

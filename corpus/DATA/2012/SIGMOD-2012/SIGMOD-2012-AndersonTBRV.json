@@ -1,6 +1,12 @@
 {
-	"author": ["Philip Anderson", "Andreas Thor", "Joseph Benik", "Louiqa Raschid", "Maria-Esther Vidal"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Philip Anderson",
+		"Andreas Thor",
+		"Joseph Benik",
+		"Louiqa Raschid",
+		"Maria-Esther Vidal"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/AndersonTBRV12",
@@ -8,8 +14,18 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213930",
 	"pages": "677-680",
 	"publisher": "ACM",
-	"stemmed": ["pang", "find", "pattern", "in", "annot", "graph"],
-	"tag": ["graph", "named"],
+	"stemmed": [
+		"pang",
+		"find",
+		"pattern",
+		"in",
+		"annot",
+		"graph"
+	],
+	"tag": [
+		"graph",
+		"named"
+	],
 	"title": "PAnG: finding patterns in annotation graphs",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

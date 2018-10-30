@@ -1,14 +1,36 @@
 {
 	"author": "Piero A. Bonatti",
-	"booktitle": "PODS",
+	"booktitle": "Proceedings of the 23rd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2004",
 	"dblpkey": "conf/pods/Bonatti04",
 	"doi": "10.1145/1055558.1055600",
-	"ee": ["http://doi.acm.org/10.1145/1055558.1055600", "http://www.acm.org/sigmod/pods/proc04/pdf/P-30.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1055558.1055600",
+		"http://www.acm.org/sigmod/pods/proc04/pdf/P-30.pdf"
+	],
 	"pages": "297-306",
 	"publisher": "ACM",
-	"stemmed": ["on", "the", "decid", "of", "contain", "of", "recurs", "datalog", "queri", "preliminari", "report"],
-	"tag": ["datalog", "decidability", "on the", "query", "recursion"],
+	"stemmed": [
+		"on",
+		"the",
+		"decid",
+		"of",
+		"contain",
+		"of",
+		"recurs",
+		"datalog",
+		"queri",
+		"preliminari",
+		"report"
+	],
+	"tag": [
+		"datalog",
+		"decidability",
+		"on the",
+		"query",
+		"recursion"
+	],
 	"title": "On the Decidability of Containment of Recursive Datalog Queries — Preliminary report",
 	"type": "inproceedings",
 	"venue": "PODS",

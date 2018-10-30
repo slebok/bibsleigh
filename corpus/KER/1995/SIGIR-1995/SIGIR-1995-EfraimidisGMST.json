@@ -1,6 +1,13 @@
 {
-	"author": ["Pavlos S. Efraimidis", "Christos Glymidakis", "Basilis Mamalis", "Paul G. Spirakis", "Basil Tampakas"],
+	"author": [
+		"Pavlos S. Efraimidis",
+		"Christos Glymidakis",
+		"Basilis Mamalis",
+		"Paul G. Spirakis",
+		"Basil Tampakas"
+	],
 	"booktitle": "Proceedings of the 18th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1995/P058.pdf",
 	"crossref": "conf/sigir/95",
 	"dblpkey": "conf/sigir/EfraimidisGMST95",
@@ -8,8 +15,28 @@
 	"ee": "http://doi.acm.org/10.1145/215206.215332",
 	"pages": "58-66",
 	"publisher": "ACM Press",
-	"stemmed": ["parallel", "text", "retriev", "on", "a", "high", "perform", "super", "comput", "use", "the", "vector", "space", "model"],
-	"tag": ["parallel", "performance", "retrieval", "using"],
+	"stemmed": [
+		"parallel",
+		"text",
+		"retriev",
+		"on",
+		"a",
+		"high",
+		"perform",
+		"super",
+		"comput",
+		"use",
+		"the",
+		"vector",
+		"space",
+		"model"
+	],
+	"tag": [
+		"parallel",
+		"performance",
+		"retrieval",
+		"using"
+	],
 	"title": "Parallel Text Retrieval on a High Performance Super Computer Using the Vector Space Model",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,6 +1,10 @@
 {
-	"author": ["M. Bärtschi", "Hans-Peter Frei"],
+	"author": [
+		"M. Bärtschi",
+		"Hans-Peter Frei"
+	],
 	"booktitle": "Proceedings of the Fifth Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"dblpkey": "conf/sigir/BartschiF82",
 	"doi": "10.1007/BFb0036339",
 	"ee": "http://dx.doi.org/10.1007/BFb0036339",
@@ -9,11 +13,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["adapt", "a", "data", "organ", "to", "the", "structur", "of", "store", "inform"],
-	"tag": ["adaptation", "data transformation"],
+	"stemmed": [
+		"adapt",
+		"a",
+		"data",
+		"organ",
+		"to",
+		"the",
+		"structur",
+		"of",
+		"store",
+		"inform"
+	],
+	"tag": [
+		"adaptation",
+		"data transformation"
+	],
 	"title": "Adapting a Data Organization to the Structure of Stored Information",
 	"type": "inproceedings",
 	"venue": "SIGIR",
-	"volume": 146,
+	"volume": "146",
 	"year": 1982
 }

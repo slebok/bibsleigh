@@ -1,14 +1,48 @@
 {
-	"author": ["Sharma Chakravarthy", "V. Krishnaprasad", "Eman Anwar", "S.-K. Kim"],
-	"booktitle": "VLDB",
-	"cite": ["conf/sigmod/AnwarMC93", "conf/icde/ChakravarthyKTB95", "journals/dke/ChakravarthyM94", "...", "journals/ai/Forgy82", "conf/rules/GatziuD93", "conf/ride/GatziuD94", "journals/lncs/GehaniJS93", "conf/sigmod/GehaniJS92", "...", "...", "...", "journals/tkde/SistlaW95"],
+	"author": [
+		"Sharma Chakravarthy",
+		"V. Krishnaprasad",
+		"Eman Anwar",
+		"S.-K. Kim"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/sigmod/AnwarMC93",
+		"conf/icde/ChakravarthyKTB95",
+		"journals/dke/ChakravarthyM94",
+		"...",
+		"journals/ai/Forgy82",
+		"conf/rules/GatziuD93",
+		"conf/ride/GatziuD94",
+		"journals/lncs/GehaniJS93",
+		"conf/sigmod/GehaniJS92",
+		"...",
+		"...",
+		"...",
+		"journals/tkde/SistlaW95"
+	],
 	"crossref": "conf/vldb/94",
 	"dblpkey": "conf/vldb/ChakravarthyKAK94",
 	"ee": "http://www.vldb.org/conf/1994/P606.PDF",
 	"pages": "606-617",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["composit", "event", "for", "activ", "databas", "semant", "context", "and", "detect"],
-	"tag": ["database", "detection", "semantics"],
+	"stemmed": [
+		"composit",
+		"event",
+		"for",
+		"activ",
+		"databas",
+		"semant",
+		"context",
+		"and",
+		"detect"
+	],
+	"tag": [
+		"database",
+		"detection",
+		"semantics"
+	],
 	"title": "Composite Events for Active Databases: Semantics, Contexts and Detection",
 	"type": "inproceedings",
 	"venue": "VLDB",

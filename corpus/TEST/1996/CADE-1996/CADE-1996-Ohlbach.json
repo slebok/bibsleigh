@@ -1,6 +1,7 @@
 {
 	"author": "Hans Jürgen Ohlbach",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/Ohlbach96",
 	"doi": "10.1007/3-540-61511-3_77",
@@ -10,11 +11,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["scan", "elimin", "of", "predic", "quantifi"],
-	"tag": ["named", "quantifier"],
+	"stemmed": [
+		"scan",
+		"elimin",
+		"of",
+		"predic",
+		"quantifi"
+	],
+	"tag": [
+		"named",
+		"quantifier"
+	],
 	"title": "SCAN — Elimination of Predicate Quantifiers",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

@@ -1,6 +1,13 @@
 {
-	"author": ["Robert Bai", "Nam Sung Kim", "Taeho Kgil", "Dennis Sylvester", "Trevor N. Mudge"],
-	"booktitle": "DATE",
+	"author": [
+		"Robert Bai",
+		"Nam Sung Kim",
+		"Taeho Kgil",
+		"Dennis Sylvester",
+		"Trevor N. Mudge"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/BaiKKSM05",
 	"doi": "10.1109/DATE.2005.243",
@@ -8,8 +15,25 @@
 	"pages": "650-651",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["power", "perform", "trade", "off", "in", "nanomet", "scale", "multi", "level", "cach", "consid", "total", "leakag"],
-	"tag": ["multi", "trade-off"],
+	"stemmed": [
+		"power",
+		"perform",
+		"trade",
+		"off",
+		"in",
+		"nanomet",
+		"scale",
+		"multi",
+		"level",
+		"cach",
+		"consid",
+		"total",
+		"leakag"
+	],
+	"tag": [
+		"multi",
+		"trade-off"
+	],
 	"title": "Power-Performance Trade-Offs in Nanometer-Scale Multi-Level Caches Considering Total Leakage",
 	"type": "inproceedings",
 	"venue": "DATE",

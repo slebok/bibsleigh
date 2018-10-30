@@ -1,17 +1,41 @@
 {
-	"author": ["Magnus E. Bjornsson", "Liuba Shrira"],
-	"booktitle": "Proceedings of the 17th Conference on Object-Oriented Programming Systems, Languages and Applications",
+	"author": [
+		"Magnus E. Bjornsson",
+		"Liuba Shrira"
+	],
+	"booktitle": "Proceedings of the 17th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2002",
 	"dblpkey": "conf/oopsla/BjornssonS02",
 	"doi": "10.1145/582419.582423",
-	"editor": ["Mamdouh Ibrahim", "Satoshi Matsuoka"],
+	"editor": [
+		"Mamdouh Ibrahim",
+		"Satoshi Matsuoka"
+	],
 	"ee": "http://doi.acm.org/10.1145/582419.582423",
 	"isbn": "1-58113-471-1",
 	"pages": "26-39",
 	"publisher": "ACM",
-	"stemmed": ["buddi", "cach", "high", "perform", "object", "storag", "for", "collabor", "strong", "consist", "applic", "in", "a", "wan"],
-	"tag": ["collaboration", "named"],
+	"stemmed": [
+		"buddi",
+		"cach",
+		"high",
+		"perform",
+		"object",
+		"storag",
+		"for",
+		"collabor",
+		"strong",
+		"consist",
+		"applic",
+		"in",
+		"a",
+		"wan"
+	],
+	"tag": [
+		"collaboration",
+		"named"
+	],
 	"title": "BuddyCache: high-performance object storage for collaborative strong-consistency applications in a WAN",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

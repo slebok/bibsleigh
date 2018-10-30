@@ -1,6 +1,11 @@
 {
-	"author": ["Hans Schippers", "Dirk Janssens", "Michael Haupt", "Robert Hirschfeld"],
-	"booktitle": "Proceedings of the 23rd Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Hans Schippers",
+		"Dirk Janssens",
+		"Michael Haupt",
+		"Robert Hirschfeld"
+	],
+	"booktitle": "Proceedings of the 23rd Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2008",
 	"dblpkey": "conf/oopsla/SchippersJHH08",
@@ -10,8 +15,18 @@
 	"isbn": "978-1-60558-215-3",
 	"pages": "525-542",
 	"publisher": "ACM",
-	"stemmed": ["deleg", "base", "semant", "for", "modular", "crosscut", "concern"],
-	"tag": ["semantics"],
+	"stemmed": [
+		"deleg",
+		"base",
+		"semant",
+		"for",
+		"modular",
+		"crosscut",
+		"concern"
+	],
+	"tag": [
+		"semantics"
+	],
 	"title": "Delegation-based semantics for modularizing crosscutting concerns",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

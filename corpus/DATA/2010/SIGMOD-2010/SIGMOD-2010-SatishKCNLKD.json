@@ -1,6 +1,14 @@
 {
-	"author": ["Nadathur Satish", "Changkyu Kim", "Jatin Chhugani", "Anthony D. Nguyen", "Victor W. Lee", "Daehyun Kim", "Pradeep Dubey"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Nadathur Satish",
+		"Changkyu Kim",
+		"Jatin Chhugani",
+		"Anthony D. Nguyen",
+		"Victor W. Lee",
+		"Daehyun Kim",
+		"Pradeep Dubey"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/SatishKCNLKD10",
@@ -8,8 +16,24 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807207",
 	"pages": "351-362",
 	"publisher": "ACM",
-	"stemmed": ["fast", "sort", "on", "cpus", "and", "gpus", "a", "case", "for", "bandwidth", "oblivi", "simd", "sort"],
-	"tag": ["performance"],
+	"stemmed": [
+		"fast",
+		"sort",
+		"on",
+		"cpus",
+		"and",
+		"gpus",
+		"a",
+		"case",
+		"for",
+		"bandwidth",
+		"oblivi",
+		"simd",
+		"sort"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Fast sort on CPUs and GPUs: a case for bandwidth oblivious SIMD sort",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

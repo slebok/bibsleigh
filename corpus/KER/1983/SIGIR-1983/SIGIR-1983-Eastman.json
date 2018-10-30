@@ -1,6 +1,7 @@
 {
 	"author": "Caroline M. Eastman",
 	"booktitle": "Proceedings of the Sixth Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1983/P197.pdf",
 	"crossref": "conf/sigir/83",
 	"dblpkey": "conf/sigir/Eastman83",
@@ -8,8 +9,22 @@
 	"ee": "http://doi.acm.org/10.1145/511793.511823",
 	"pages": "197-204",
 	"publisher": "ACM",
-	"stemmed": ["current", "practic", "in", "the", "evalu", "of", "multikey", "search", "algorithm"],
-	"tag": ["algorithm", "evaluation", "multi"],
+	"stemmed": [
+		"current",
+		"practic",
+		"in",
+		"the",
+		"evalu",
+		"of",
+		"multikey",
+		"search",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"evaluation",
+		"multi"
+	],
 	"title": "Current Practice in The Evaluation of Multikey Search Algorithms",
 	"type": "inproceedings",
 	"venue": "SIGIR",

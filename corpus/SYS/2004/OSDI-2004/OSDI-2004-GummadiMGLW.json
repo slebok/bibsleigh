@@ -1,13 +1,35 @@
 {
-	"author": ["P. Krishna Gummadi", "Harsha V. Madhyastha", "Steven D. Gribble", "Henry M. Levy", "David Wetherall"],
-	"booktitle": "OSDI",
+	"author": [
+		"P. Krishna Gummadi",
+		"Harsha V. Madhyastha",
+		"Steven D. Gribble",
+		"Henry M. Levy",
+		"David Wetherall"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2004",
 	"dblpkey": "conf/osdi/GummadiMGLW04",
 	"ee": "http://www.usenix.org/events/osdi04/tech/gummadi.html",
 	"pages": "183-198",
 	"publisher": "USENIX Association",
-	"stemmed": ["improv", "the", "reliabl", "of", "internet", "path", "with", "one", "hop", "sourc", "rout"],
-	"tag": ["internet", "reliability"],
+	"stemmed": [
+		"improv",
+		"the",
+		"reliabl",
+		"of",
+		"internet",
+		"path",
+		"with",
+		"one",
+		"hop",
+		"sourc",
+		"rout"
+	],
+	"tag": [
+		"internet",
+		"reliability"
+	],
 	"title": "Improving the Reliability of Internet Paths with One-hop Source Routing",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,14 +1,35 @@
 {
-	"author": ["Robert D. Blumofe", "Christopher F. Joerg", "Bradley C. Kuszmaul", "Charles E. Leiserson", "Keith H. Randall", "Yuli Zhou"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Robert D. Blumofe",
+		"Christopher F. Joerg",
+		"Bradley C. Kuszmaul",
+		"Charles E. Leiserson",
+		"Keith H. Randall",
+		"Yuli Zhou"
+	],
+	"booktitle": "Proceedings of the Fifth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1995",
 	"dblpkey": "conf/ppopp/BlumofeJKLRZ95",
 	"doi": "10.1145/209936.209958",
 	"ee": "http://doi.acm.org/10.1145/209936.209958",
 	"pages": "207-216",
 	"publisher": "ACM",
-	"stemmed": ["cilk", "an", "effici", "multithread", "runtim", "system"],
-	"tag": ["named", "parallel", "performance", "runtime", "thread"],
+	"stemmed": [
+		"cilk",
+		"an",
+		"effici",
+		"multithread",
+		"runtim",
+		"system"
+	],
+	"tag": [
+		"named",
+		"parallel",
+		"performance",
+		"runtime",
+		"thread"
+	],
 	"title": "Cilk: An Efficient Multithreaded Runtime System",
 	"type": "inproceedings",
 	"venue": "PPoPP",

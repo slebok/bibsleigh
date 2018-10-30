@@ -1,14 +1,29 @@
 {
-	"author": ["Mahdi Eslamimehr", "Jens Palsberg"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Mahdi Eslamimehr",
+		"Jens Palsberg"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/EslamimehrP14",
 	"doi": "10.1145/2555243.2555263",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555263",
 	"pages": "301-314",
 	"publisher": "ACM",
-	"stemmed": ["race", "direct", "schedul", "of", "concurr", "program"],
-	"tag": ["concurrent", "scheduling", "source code"],
+	"stemmed": [
+		"race",
+		"direct",
+		"schedul",
+		"of",
+		"concurr",
+		"program"
+	],
+	"tag": [
+		"concurrent",
+		"scheduling",
+		"source code"
+	],
 	"title": "Race directed scheduling of concurrent programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,14 +1,42 @@
 {
-	"author": ["Bharat K. Bhargava", "Shirley Browne"],
-	"booktitle": "VLDB",
-	"cite": ["journals/tods/AbbadiT89", "...", "...", "books/aw/BernsteinHG87", "conf/icde/BhargavaNS88", "journals/tkde/BhargavaR89", "journals/tse/BhargavaR89", "...", "conf/sosp/Gifford79", "...", "journals/tods/Herlihy87", "...", "conf/berkeley/Skeen82"],
+	"author": [
+		"Bharat K. Bhargava",
+		"Shirley Browne"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/tods/AbbadiT89",
+		"...",
+		"...",
+		"books/aw/BernsteinHG87",
+		"conf/icde/BhargavaNS88",
+		"journals/tkde/BhargavaR89",
+		"journals/tse/BhargavaR89",
+		"...",
+		"conf/sosp/Gifford79",
+		"...",
+		"journals/tods/Herlihy87",
+		"...",
+		"conf/berkeley/Skeen82"
+	],
 	"crossref": "conf/vldb/90",
 	"dblpkey": "conf/vldb/BhargavaB90",
 	"ee": "http://www.vldb.org/conf/1990/P231.PDF",
 	"pages": "231-242",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["adapt", "recoveri", "use", "dynam", "quorum", "assign"],
-	"tag": ["adaptation", "using"],
+	"stemmed": [
+		"adapt",
+		"recoveri",
+		"use",
+		"dynam",
+		"quorum",
+		"assign"
+	],
+	"tag": [
+		"adaptation",
+		"using"
+	],
 	"title": "Adaptable Recovery Using Dynamic Quorum Assignments",
 	"type": "inproceedings",
 	"venue": "VLDB",

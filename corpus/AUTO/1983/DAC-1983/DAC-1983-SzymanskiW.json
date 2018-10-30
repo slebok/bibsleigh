@@ -1,13 +1,29 @@
 {
-	"acmid": 800754,
-	"author": ["Thomas G. Szymanski", "Christopher J. Van Wyk"],
-	"booktitle": "DAC",
+	"acmid": "800754",
+	"author": [
+		"Thomas G. Szymanski",
+		"Christopher J. Van Wyk"
+	],
+	"booktitle": "Proceedings of the 20th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1983",
 	"dblpkey": "conf/dac/SzymanskiW83",
 	"pages": "734-739",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["space", "effici", "algorithm", "for", "vlsi", "artwork", "analysi"],
-	"tag": ["algorithm", "analysis", "performance"],
+	"stemmed": [
+		"space",
+		"effici",
+		"algorithm",
+		"for",
+		"vlsi",
+		"artwork",
+		"analysi"
+	],
+	"tag": [
+		"algorithm",
+		"analysis",
+		"performance"
+	],
 	"title": "Space efficient algorithms for VLSI artwork analysis",
 	"type": "inproceedings",
 	"venue": "DAC",

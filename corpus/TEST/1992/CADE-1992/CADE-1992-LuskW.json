@@ -1,6 +1,10 @@
 {
-	"author": ["Ewing L. Lusk", "Larry Wos"],
-	"booktitle": "CADE",
+	"author": [
+		"Ewing L. Lusk",
+		"Larry Wos"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/LuskW92",
 	"doi": "10.1007/3-540-55602-8_224",
@@ -10,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["benchmark", "problem", "in", "which", "equal", "play", "the", "major", "role"],
-	"tag": ["benchmark", "metric", "problem", "similarity"],
+	"stemmed": [
+		"benchmark",
+		"problem",
+		"in",
+		"which",
+		"equal",
+		"play",
+		"the",
+		"major",
+		"role"
+	],
+	"tag": [
+		"benchmark",
+		"metric",
+		"problem",
+		"similarity"
+	],
 	"title": "Benchmark Problems in Which Equality Plays the Major Role",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

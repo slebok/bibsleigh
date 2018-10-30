@@ -1,6 +1,10 @@
 {
-	"author": ["Alekh Jindal", "Jorge-Arnulfo Quiané-Ruiz", "Samuel Madden"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Alekh Jindal",
+		"Jorge-Arnulfo Quiané-Ruiz",
+		"Samuel Madden"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/JindalQM13",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465258",
 	"pages": "1057-1060",
 	"publisher": "ACM",
-	"stemmed": ["cartilag", "ad", "flexibl", "to", "the", "hadoop", "skeleton"],
-	"tag": ["flexibility", "named"],
+	"stemmed": [
+		"cartilag",
+		"ad",
+		"flexibl",
+		"to",
+		"the",
+		"hadoop",
+		"skeleton"
+	],
+	"tag": [
+		"flexibility",
+		"named"
+	],
 	"title": "CARTILAGE: adding flexibility to the Hadoop skeleton",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

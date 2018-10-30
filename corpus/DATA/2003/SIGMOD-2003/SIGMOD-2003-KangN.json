@@ -1,6 +1,9 @@
 {
-	"author": ["Jaewoo Kang", "Jeffrey F. Naughton"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jaewoo Kang",
+		"Jeffrey F. Naughton"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/KangN03",
@@ -8,8 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/872757.872783",
 	"pages": "205-216",
 	"publisher": "ACM",
-	"stemmed": ["on", "schema", "match", "with", "opaqu", "column", "name", "and", "data", "valu"],
-	"tag": ["on the"],
+	"stemmed": [
+		"on",
+		"schema",
+		"match",
+		"with",
+		"opaqu",
+		"column",
+		"name",
+		"and",
+		"data",
+		"valu"
+	],
+	"tag": [
+		"on the"
+	],
 	"title": "On Schema Matching with Opaque Column Names and Data Values",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

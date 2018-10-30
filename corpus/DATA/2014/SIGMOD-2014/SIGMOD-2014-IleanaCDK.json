@@ -1,6 +1,11 @@
 {
-	"author": ["Ioana Ileana", "Bogdan Cautis", "Alin Deutsch", "Yannis Katsis"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ioana Ileana",
+		"Bogdan Cautis",
+		"Alin Deutsch",
+		"Yannis Katsis"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/IleanaCDK14",
@@ -8,8 +13,22 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2593683",
 	"pages": "1015-1026",
 	"publisher": "ACM",
-	"stemmed": ["complet", "yet", "practic", "search", "for", "minim", "queri", "reformul", "under", "constraint"],
-	"tag": ["constraints", "query"],
+	"stemmed": [
+		"complet",
+		"yet",
+		"practic",
+		"search",
+		"for",
+		"minim",
+		"queri",
+		"reformul",
+		"under",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"query"
+	],
 	"title": "Complete yet practical search for minimal query reformulations under constraints",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

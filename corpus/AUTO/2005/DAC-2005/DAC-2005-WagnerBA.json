@@ -1,14 +1,39 @@
 {
-	"author": ["Ilya Wagner", "Valeria Bertacco", "Todd M. Austin"],
-	"booktitle": "DAC",
+	"author": [
+		"Ilya Wagner",
+		"Valeria Bertacco",
+		"Todd M. Austin"
+	],
+	"booktitle": "Proceedings of the 42nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/WagnerBA05",
 	"doi": "10.1145/1065579.1065788",
 	"ee": "http://doi.acm.org/10.1145/1065579.1065788",
 	"pages": "783-788",
 	"publisher": "ACM",
-	"stemmed": ["stress", "test", "an", "automat", "approach", "to", "test", "generat", "via", "activ", "monitor"],
-	"tag": ["approach", "automation", "generative", "monitoring", "named", "process", "testing"],
+	"stemmed": [
+		"stress",
+		"test",
+		"an",
+		"automat",
+		"approach",
+		"to",
+		"test",
+		"generat",
+		"via",
+		"activ",
+		"monitor"
+	],
+	"tag": [
+		"approach",
+		"automation",
+		"generative",
+		"monitoring",
+		"named",
+		"process",
+		"testing"
+	],
 	"title": "StressTest: an automatic approach to test generation via activity monitors",
 	"type": "inproceedings",
 	"venue": "DAC",

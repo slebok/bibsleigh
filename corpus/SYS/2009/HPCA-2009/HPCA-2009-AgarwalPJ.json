@@ -1,6 +1,11 @@
 {
-	"author": ["Niket Agarwal", "Li-Shiuan Peh", "Niraj K. Jha"],
-	"booktitle": "HPCA",
+	"author": [
+		"Niket Agarwal",
+		"Li-Shiuan Peh",
+		"Niraj K. Jha"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2009",
 	"dblpkey": "conf/hpca/AgarwalPJ09",
 	"doi": "10.1109/HPCA.2009.4798238",
@@ -8,7 +13,18 @@
 	"pages": "67-78",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["in", "network", "snoop", "order", "inso", "snoopi", "coher", "on", "unord", "interconnect"],
+	"stemmed": [
+		"in",
+		"network",
+		"snoop",
+		"order",
+		"inso",
+		"snoopi",
+		"coher",
+		"on",
+		"unord",
+		"interconnect"
+	],
 	"title": "In-Network Snoop Ordering (INSO): Snoopy coherence on unordered interconnects",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,14 +1,38 @@
 {
-	"author": ["Xinxin Jin", "Soyeon Park", "Tianwei Sheng", "Rishan Chen", "Zhiyong Shan", "Yuanyuan Zhou"],
-	"booktitle": "HPCA",
+	"author": [
+		"Xinxin Jin",
+		"Soyeon Park",
+		"Tianwei Sheng",
+		"Rishan Chen",
+		"Zhiyong Shan",
+		"Yuanyuan Zhou"
+	],
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2015",
 	"dblpkey": "conf/hpca/JinPSCSZ15",
 	"doi": "10.1109/HPCA.2015.7056054",
 	"ee": "http://dx.doi.org/10.1109/HPCA.2015.7056054",
 	"pages": "451-462",
 	"publisher": "IEEE",
-	"stemmed": ["ft", "xen", "make", "hypervisor", "resili", "to", "hardwar", "fault", "on", "relax", "core"],
-	"tag": ["fault", "hardware", "named"],
+	"stemmed": [
+		"ft",
+		"xen",
+		"make",
+		"hypervisor",
+		"resili",
+		"to",
+		"hardwar",
+		"fault",
+		"on",
+		"relax",
+		"core"
+	],
+	"tag": [
+		"fault",
+		"hardware",
+		"named"
+	],
 	"title": "FTXen: Making hypervisor resilient to hardware faults on relaxed cores",
 	"type": "inproceedings",
 	"venue": "HPCA",

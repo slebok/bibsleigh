@@ -1,6 +1,9 @@
 {
-	"author": ["Ahmed El-Roby", "Ashraf Aboulnaga"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ahmed El-Roby",
+		"Ashraf Aboulnaga"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/El-RobyA15",
@@ -8,8 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2749428",
 	"pages": "1839-1853",
 	"publisher": "ACM",
-	"stemmed": ["alex", "automat", "link", "explor", "in", "link", "data"],
-	"tag": ["automation", "linked data", "named", "open data"],
+	"stemmed": [
+		"alex",
+		"automat",
+		"link",
+		"explor",
+		"in",
+		"link",
+		"data"
+	],
+	"tag": [
+		"automation",
+		"linked data",
+		"named",
+		"open data"
+	],
 	"title": "ALEX: Automatic Link Exploration in Linked Data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

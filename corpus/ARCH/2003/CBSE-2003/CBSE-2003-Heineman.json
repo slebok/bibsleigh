@@ -1,10 +1,27 @@
 {
-	"address": ["Portland", "Oregon", "USA"],
+	"address": [
+		"Portland",
+		"Oregon",
+		"USA"
+	],
 	"author": "George T. Heineman",
 	"booktitle": "Proceedings of the Sixth ICSE Workshop on Component-Based Software Engineering: Automated Reasoning and Prediction",
-	"pages": 9,
-	"stemmed": ["integr", "interfac", "assert", "checker", "into", "compon", "model"],
-	"tag": ["component", "interface", "modelling"],
+	"booktitleshort": "CBSE",
+	"pages": "9",
+	"stemmed": [
+		"integr",
+		"interfac",
+		"assert",
+		"checker",
+		"into",
+		"compon",
+		"model"
+	],
+	"tag": [
+		"component",
+		"interface",
+		"modelling"
+	],
 	"title": "Integrating Interface Assertion Checkers into Component Models",
 	"type": "inproceedings",
 	"venue": "CBSE",

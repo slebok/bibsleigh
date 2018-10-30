@@ -1,14 +1,33 @@
 {
-	"author": ["Kai Shen", "Hong Tang", "Tao Yang", "Lingkun Chu"],
-	"booktitle": "OSDI",
+	"author": [
+		"Kai Shen",
+		"Hong Tang",
+		"Tao Yang",
+		"Lingkun Chu"
+	],
+	"booktitle": "Proceedings of the Fifth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2002",
 	"dblpkey": "conf/osdi/ShenTYC02",
 	"doi": "10.1145/1060289.1060311",
 	"ee": "http://www.usenix.org/events/osdi02/tech/shen.html",
 	"pages": "225-238",
 	"publisher": "USENIX Association",
-	"stemmed": ["integr", "resourc", "manag", "for", "cluster", "base", "internet", "servic"],
-	"tag": ["clustering", "internet", "resource management"],
+	"stemmed": [
+		"integr",
+		"resourc",
+		"manag",
+		"for",
+		"cluster",
+		"base",
+		"internet",
+		"servic"
+	],
+	"tag": [
+		"clustering",
+		"internet",
+		"resource management"
+	],
 	"title": "Integrated Resource Management for Cluster-based Internet Services",
 	"type": "inproceedings",
 	"venue": "OSDI",

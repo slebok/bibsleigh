@@ -1,14 +1,33 @@
 {
-	"author": ["Piotr Indyk", "Reut Levi", "Ronitt Rubinfeld"],
-	"booktitle": "PODS",
+	"author": [
+		"Piotr Indyk",
+		"Reut Levi",
+		"Ronitt Rubinfeld"
+	],
+	"booktitle": "Proceedings of the 31st Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2012",
 	"dblpkey": "conf/pods/IndykLR12",
 	"doi": "10.1145/2213556.2213561",
 	"ee": "http://doi.acm.org/10.1145/2213556.2213561",
 	"pages": "15-22",
 	"publisher": "ACM",
-	"stemmed": ["approxim", "and", "test", "k", "histogram", "distribut", "in", "sub", "linear", "time"],
-	"tag": ["approximate", "testing"],
+	"stemmed": [
+		"approxim",
+		"and",
+		"test",
+		"k",
+		"histogram",
+		"distribut",
+		"in",
+		"sub",
+		"linear",
+		"time"
+	],
+	"tag": [
+		"approximate",
+		"testing"
+	],
 	"title": "Approximating and testing k-histogram distributions in sub-linear time",
 	"type": "inproceedings",
 	"venue": "PODS",

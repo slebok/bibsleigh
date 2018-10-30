@@ -1,6 +1,7 @@
 {
 	"author": "Stanley Y. W. Su",
 	"booktitle": "Proceedings of the ACM SIGIR Information Storage and Retrieval Symposium",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1971/P105.pdf",
 	"crossref": "conf/sigir/71",
 	"dblpkey": "conf/sigir/Su71",
@@ -8,8 +9,18 @@
 	"ee": "http://doi.acm.org/10.1145/511285.511298",
 	"pages": "105-116",
 	"publisher": "ACM",
-	"stemmed": ["manag", "semant", "data", "in", "an", "associ", "net"],
-	"tag": ["semantics"],
+	"stemmed": [
+		"manag",
+		"semant",
+		"data",
+		"in",
+		"an",
+		"associ",
+		"net"
+	],
+	"tag": [
+		"semantics"
+	],
 	"title": "Managing Semantic Data in an Associative Net",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,14 +1,35 @@
 {
-	"author": ["Ju Qian", "Baowen Xu", "Hongbo Min"],
-	"booktitle": "PASTE",
+	"author": [
+		"Ju Qian",
+		"Baowen Xu",
+		"Hongbo Min"
+	],
+	"booktitle": "Proceedings of the Seventh Workshop on Program Analysis for Software Tools and Engineering",
+	"booktitleshort": "PASTE",
 	"crossref": "conf/paste/2007",
 	"dblpkey": "conf/paste/QianXM07",
 	"doi": "10.1145/1251535.1251539",
 	"ee": "http://doi.acm.org/10.1145/1251535.1251539",
 	"pages": "17-24",
 	"publisher": "ACM",
-	"stemmed": ["interstat", "must", "alias", "for", "data", "depend", "analysi", "of", "heap", "locat"],
-	"tag": ["alias", "analysis", "data flow", "dependence"],
+	"stemmed": [
+		"interstat",
+		"must",
+		"alias",
+		"for",
+		"data",
+		"depend",
+		"analysi",
+		"of",
+		"heap",
+		"locat"
+	],
+	"tag": [
+		"alias",
+		"analysis",
+		"data flow",
+		"dependence"
+	],
 	"title": "Interstatement must aliases for data dependence analysis of heap locations",
 	"type": "inproceedings",
 	"venue": "PASTE",

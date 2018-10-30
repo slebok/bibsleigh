@@ -1,6 +1,7 @@
 {
 	"author": "Dines Bjørner",
 	"booktitle": "Towards a Formal Description of Ada",
+	"booktitleshort": "Towards a Formal Description of Ada",
 	"crossref": "conf/sigada/1980",
 	"dblpkey": "conf/sigada/Bjorner80",
 	"pages": "607-623",
@@ -8,11 +9,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["refer", "manual", "for", "the", "meta", "languag"],
-	"tag": ["metalanguage"],
+	"stemmed": [
+		"refer",
+		"manual",
+		"for",
+		"the",
+		"meta",
+		"languag"
+	],
+	"tag": [
+		"metalanguage"
+	],
 	"title": "Reference Manual for the Meta-Language",
 	"type": "inproceedings",
 	"venue": "Ada",
-	"volume": 98,
+	"volume": "98",
 	"year": 1980
 }

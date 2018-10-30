@@ -1,6 +1,9 @@
 {
-	"author": ["Ron Goldman", "Richard P. Gabriel"],
-	"booktitle": "PPOPP/PPEALS",
+	"author": [
+		"Ron Goldman",
+		"Richard P. Gabriel"
+	],
+	"booktitle": "Proceedings of the First Symposium on Parallel Programming: Experience with Applications, Languages and Systems",
 	"booktitleshort": "PPEALS",
 	"crossref": "conf/ppopp/1988",
 	"dblpkey": "conf/ppopp/GoldmanG88",
@@ -8,8 +11,17 @@
 	"ee": "http://doi.acm.org/10.1145/62115.62127",
 	"pages": "111-123",
 	"publisher": "ACM",
-	"stemmed": ["qlisp", "experi", "and", "new", "direct"],
-	"tag": ["experience", "named"],
+	"stemmed": [
+		"qlisp",
+		"experi",
+		"and",
+		"new",
+		"direct"
+	],
+	"tag": [
+		"experience",
+		"named"
+	],
 	"title": "Qlisp: Experience and New Directions",
 	"type": "inproceedings",
 	"venue": "PPoPP",

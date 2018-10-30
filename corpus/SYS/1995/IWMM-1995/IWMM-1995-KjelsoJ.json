@@ -1,6 +1,10 @@
 {
-	"author": ["Morten Kjelsø", "Simon Jones"],
-	"booktitle": "IWMM",
+	"author": [
+		"Morten Kjelsø",
+		"Simon Jones"
+	],
+	"booktitle": "Proceedings of the Second International Workshop on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/95",
 	"dblpkey": "conf/iwmm/KjelsoJ95",
 	"doi": "10.1007/3-540-60368-9_36",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["memori", "manag", "in", "flash", "memori", "disk", "with", "data", "compress"],
-	"tag": ["memory management"],
+	"stemmed": [
+		"memori",
+		"manag",
+		"in",
+		"flash",
+		"memori",
+		"disk",
+		"with",
+		"data",
+		"compress"
+	],
+	"tag": [
+		"memory management"
+	],
 	"title": "Memory Management in Flash-Memory Disks with Data Compression",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 986,
+	"volume": "986",
 	"year": 1995
 }

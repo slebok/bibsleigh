@@ -1,13 +1,30 @@
 {
-	"acmid": 800678,
-	"author": ["Kaoru Okazaki", "Tomoko Moriya", "Toshihiko Yahara"],
-	"booktitle": "DAC",
+	"acmid": "800678",
+	"author": [
+		"Kaoru Okazaki",
+		"Tomoko Moriya",
+		"Toshihiko Yahara"
+	],
+	"booktitle": "Proceedings of the 20th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1983",
 	"dblpkey": "conf/dac/OkazakiMY83",
 	"pages": "279-285",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["a", "multipl", "media", "delay", "simul", "for", "mos", "lsi", "circuit"],
-	"tag": ["multi"],
+	"stemmed": [
+		"a",
+		"multipl",
+		"media",
+		"delay",
+		"simul",
+		"for",
+		"mos",
+		"lsi",
+		"circuit"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "A multiple media delay simulator for MOS LSI circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

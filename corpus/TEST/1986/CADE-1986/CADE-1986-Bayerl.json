@@ -1,6 +1,7 @@
 {
 	"author": "M. Bayerl",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Bayerl86",
 	"doi": "10.1007/3-540-16780-3_130",
@@ -10,11 +11,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["high", "parallel", "infer", "machin"],
-	"tag": ["parallel"],
+	"stemmed": [
+		"high",
+		"parallel",
+		"infer",
+		"machin"
+	],
+	"tag": [
+		"parallel"
+	],
 	"title": "Highly Parallel Inference Machine",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

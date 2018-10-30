@@ -1,14 +1,28 @@
 {
-	"author": ["Andrew W. Appel", "Kai Li"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Andrew W. Appel",
+		"Kai Li"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1991",
 	"dblpkey": "conf/asplos/AppelL91",
 	"doi": "10.1145/106972.106984",
 	"ee": "http://doi.acm.org/10.1145/106972.106984",
 	"pages": "96-107",
 	"publisher": "ACM Press",
-	"stemmed": ["virtual", "memori", "primit", "for", "user", "program"],
-	"tag": ["memory management", "source code"],
+	"stemmed": [
+		"virtual",
+		"memori",
+		"primit",
+		"for",
+		"user",
+		"program"
+	],
+	"tag": [
+		"memory management",
+		"source code"
+	],
 	"title": "Virtual Memory Primitives for User Programs",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

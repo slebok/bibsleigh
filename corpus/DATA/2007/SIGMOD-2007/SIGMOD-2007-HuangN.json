@@ -1,6 +1,9 @@
 {
-	"author": ["Jiansheng Huang", "Jeffrey F. Naughton"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jiansheng Huang",
+		"Jeffrey F. Naughton"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/HuangN07",
@@ -8,8 +11,25 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247500",
 	"pages": "163-174",
 	"publisher": "ACM",
-	"stemmed": ["k", "relev", "a", "spectrum", "of", "relev", "for", "data", "sourc", "impact", "a", "queri"],
-	"tag": ["data flow", "named", "query"],
+	"stemmed": [
+		"k",
+		"relev",
+		"a",
+		"spectrum",
+		"of",
+		"relev",
+		"for",
+		"data",
+		"sourc",
+		"impact",
+		"a",
+		"queri"
+	],
+	"tag": [
+		"data flow",
+		"named",
+		"query"
+	],
 	"title": "K-relevance: a spectrum of relevance for data sources impacting a query",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,10 @@
 {
-	"author": ["Petar Jovanovic", "Alkis Simitsis", "Kevin Wilkinson"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Petar Jovanovic",
+		"Alkis Simitsis",
+		"Kevin Wilkinson"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/0001SW14",
@@ -8,8 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2594534",
 	"pages": "713-716",
 	"publisher": "ACM",
-	"stemmed": ["babbl", "flow", "a", "translat", "for", "analyt", "data", "flow", "program"],
-	"tag": ["data flow", "named", "source code"],
+	"stemmed": [
+		"babbl",
+		"flow",
+		"a",
+		"translat",
+		"for",
+		"analyt",
+		"data",
+		"flow",
+		"program"
+	],
+	"tag": [
+		"data flow",
+		"named",
+		"source code"
+	],
 	"title": "BabbleFlow: a translator for analytic data flow programs",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

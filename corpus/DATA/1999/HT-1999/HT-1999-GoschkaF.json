@@ -1,6 +1,10 @@
 {
-	"author": ["Karl M. Göschka", "Jürgen Falb"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Karl M. Göschka",
+		"Jürgen Falb"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Hypertext and Hypermedia",
+	"booktitleshort": "HT",
 	"cdrom": "HT1999/P023.pdf",
 	"crossref": "conf/ht/99",
 	"dblpkey": "conf/ht/GoschkaF99",
@@ -8,8 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/294469.294476",
 	"pages": "23-24",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "hyperlink", "generat", "for", "navig", "in", "relat", "databas"],
-	"tag": ["database", "generative", "navigation", "relational"],
+	"stemmed": [
+		"dynam",
+		"hyperlink",
+		"generat",
+		"for",
+		"navig",
+		"in",
+		"relat",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"generative",
+		"navigation",
+		"relational"
+	],
 	"title": "Dynamic Hyperlink Generation for Navigation in Relational Databases",
 	"type": "inproceedings",
 	"venue": "HT",

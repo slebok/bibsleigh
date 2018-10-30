@@ -1,14 +1,25 @@
 {
 	"author": "Maarten Marx",
-	"booktitle": "PODS",
+	"booktitle": "Proceedings of the 26th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2007",
 	"dblpkey": "conf/pods/Marx07",
 	"doi": "10.1145/1265530.1265534",
 	"ee": "http://doi.acm.org/10.1145/1265530.1265534",
 	"pages": "23-30",
 	"publisher": "ACM",
-	"stemmed": ["queri", "determin", "by", "view", "pack", "your", "view"],
-	"tag": ["query"],
+	"stemmed": [
+		"queri",
+		"determin",
+		"by",
+		"view",
+		"pack",
+		"your",
+		"view"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Queries determined by views: pack your views",
 	"type": "inproceedings",
 	"venue": "PODS",

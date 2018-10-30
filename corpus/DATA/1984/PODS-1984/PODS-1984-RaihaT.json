@@ -1,16 +1,56 @@
 {
-	"author": ["Kari-Jouko Räihä", "Henry Tirri"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS84/P323.PDF", "journals/anthology/dvd1:text/1-3/PODS84/P323.PDF"],
-	"cite": ["journals/acta/CasanovaB80", "conf/vldb/BernsteinG80a", "journals/csur/BernsteinG81", "conf/vldb/BernsteinG82", "journals/tods/BernsteinSR80", "journals/tse/BernsteinSW79", "journals/cacm/EswarranGLT76", "...", "conf/ac/Gray78", "conf/sigmod/IraniL79", "journals/acta/KungP83", "...", "journals/tse/MenasceM79", "journals/jacm/Papadimitriou79b", "...", "conf/focs/Sethi81", "...", "journals/tods/Thomas79", "...", "books/cs/Ullman82", "..."],
+	"author": [
+		"Kari-Jouko Räihä",
+		"Henry Tirri"
+	],
+	"booktitle": "Proceedings of the Third Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS84/P323.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS84/P323.PDF"
+	],
+	"cite": [
+		"journals/acta/CasanovaB80",
+		"conf/vldb/BernsteinG80a",
+		"journals/csur/BernsteinG81",
+		"conf/vldb/BernsteinG82",
+		"journals/tods/BernsteinSR80",
+		"journals/tse/BernsteinSW79",
+		"journals/cacm/EswarranGLT76",
+		"...",
+		"conf/ac/Gray78",
+		"conf/sigmod/IraniL79",
+		"journals/acta/KungP83",
+		"...",
+		"journals/tse/MenasceM79",
+		"journals/jacm/Papadimitriou79b",
+		"...",
+		"conf/focs/Sethi81",
+		"...",
+		"journals/tods/Thomas79",
+		"...",
+		"books/cs/Ullman82",
+		"..."
+	],
 	"crossref": "conf/pods/84",
 	"dblpkey": "conf/pods/RaihaT84",
 	"doi": "10.1145/588011.588057",
 	"ee": "http://doi.acm.org/10.1145/588011.588057",
 	"pages": "323-332",
 	"publisher": "ACM",
-	"stemmed": ["toward", "a", "theori", "of", "onlin", "schedul"],
-	"tag": ["formal method", "online", "towards"],
+	"stemmed": [
+		"toward",
+		"a",
+		"theori",
+		"of",
+		"onlin",
+		"schedul"
+	],
+	"tag": [
+		"formal method",
+		"online",
+		"towards"
+	],
 	"title": "Towards a Theory of Online Schedulers",
 	"type": "inproceedings",
 	"venue": "PODS",

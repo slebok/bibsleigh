@@ -1,6 +1,12 @@
 {
-	"author": ["Tanausú Ramírez", "Alex Pajuelo", "Oliverio J. Santana", "Mateo Valero"],
-	"booktitle": "HPCA",
+	"author": [
+		"Tanausú Ramírez",
+		"Alex Pajuelo",
+		"Oliverio J. Santana",
+		"Mateo Valero"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2008",
 	"dblpkey": "conf/hpca/RamirezPSV08",
 	"doi": "10.1109/HPCA.2008.4658635",
@@ -8,8 +14,19 @@
 	"pages": "149-158",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["runahead", "thread", "to", "improv", "smt", "perform"],
-	"tag": ["performance", "smt", "thread"],
+	"stemmed": [
+		"runahead",
+		"thread",
+		"to",
+		"improv",
+		"smt",
+		"perform"
+	],
+	"tag": [
+		"performance",
+		"smt",
+		"thread"
+	],
 	"title": "Runahead Threads to improve SMT performance",
 	"type": "inproceedings",
 	"venue": "HPCA",

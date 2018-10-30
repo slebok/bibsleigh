@@ -1,14 +1,41 @@
 {
-	"author": ["Robert K. Abbott", "Hector Garcia-Molina"],
-	"booktitle": "VLDB",
-	"cite": ["journals/sigmod/AbbottG88", "journals/cacm/EswarranGLT76", "journals/tods/Garcia-Molina83", "...", "...", "journals/jacm/LiuL73", "...", "..."],
+	"author": [
+		"Robert K. Abbott",
+		"Hector Garcia-Molina"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/sigmod/AbbottG88",
+		"journals/cacm/EswarranGLT76",
+		"journals/tods/Garcia-Molina83",
+		"...",
+		"...",
+		"journals/jacm/LiuL73",
+		"...",
+		"..."
+	],
 	"crossref": "conf/vldb/88",
 	"dblpkey": "conf/vldb/AbbottG88",
 	"ee": "http://www.vldb.org/conf/1988/P001.PDF",
 	"pages": "1-12",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["schedul", "real", "time", "transact", "a", "perform", "evalu"],
-	"tag": ["evaluation", "performance", "realtime", "scheduling", "transaction"],
+	"stemmed": [
+		"schedul",
+		"real",
+		"time",
+		"transact",
+		"a",
+		"perform",
+		"evalu"
+	],
+	"tag": [
+		"evaluation",
+		"performance",
+		"realtime",
+		"scheduling",
+		"transaction"
+	],
 	"title": "Scheduling Real-time Transactions: a Performance Evaluation",
 	"type": "inproceedings",
 	"venue": "VLDB",

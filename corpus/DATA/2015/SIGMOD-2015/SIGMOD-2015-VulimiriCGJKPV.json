@@ -1,6 +1,14 @@
 {
-	"author": ["Ashish Vulimiri", "Carlo Curino", "Philip Brighten Godfrey", "Thomas Jungblut", "Konstantinos Karanasos", "Jitendra Padhye", "George Varghese"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ashish Vulimiri",
+		"Carlo Curino",
+		"Philip Brighten Godfrey",
+		"Thomas Jungblut",
+		"Konstantinos Karanasos",
+		"Jitendra Padhye",
+		"George Varghese"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/VulimiriCGJKPV15",
@@ -8,8 +16,22 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2735365",
 	"pages": "1087-1092",
 	"publisher": "ACM",
-	"stemmed": ["wa", "nalyt", "geo", "distribut", "analyt", "for", "a", "data", "intens", "world"],
-	"tag": ["data-driven", "named"],
+	"stemmed": [
+		"wa",
+		"nalyt",
+		"geo",
+		"distribut",
+		"analyt",
+		"for",
+		"a",
+		"data",
+		"intens",
+		"world"
+	],
+	"tag": [
+		"data-driven",
+		"named"
+	],
 	"title": "WANalytics: Geo-Distributed Analytics for a Data Intensive World",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

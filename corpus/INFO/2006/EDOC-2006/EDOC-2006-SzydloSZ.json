@@ -1,6 +1,11 @@
 {
-	"author": ["Tomasz Szydlo", "Robert Szymacha", "Krzysztof Zielinski"],
-	"booktitle": "EDOC",
+	"author": [
+		"Tomasz Szydlo",
+		"Robert Szymacha",
+		"Krzysztof Zielinski"
+	],
+	"booktitle": "Proceedings of the 10th International Enterprise Distributed Object Computing Conference",
+	"booktitleshort": "EDOC",
 	"crossref": "conf/edoc/2006",
 	"dblpkey": "conf/edoc/SzydloSZ06",
 	"doi": "10.1109/EDOC.2006.40",
@@ -8,8 +13,22 @@
 	"pages": "483-487",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["polici", "base", "context", "awar", "adapt", "softwar", "compon", "for", "mobil", "comput"],
-	"tag": ["adaptation", "component"],
+	"stemmed": [
+		"polici",
+		"base",
+		"context",
+		"awar",
+		"adapt",
+		"softwar",
+		"compon",
+		"for",
+		"mobil",
+		"comput"
+	],
+	"tag": [
+		"adaptation",
+		"component"
+	],
 	"title": "Policy-based Context-aware Adaptable Software Components for Mobility Computing",
 	"type": "inproceedings",
 	"venue": "EDOC",

@@ -1,14 +1,32 @@
 {
-	"author": ["Xiangnan Kong", "Wei Fan", "Philip S. Yu"],
-	"booktitle": "KDD",
+	"author": [
+		"Xiangnan Kong",
+		"Wei Fan",
+		"Philip S. Yu"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/KongFY11",
 	"doi": "10.1145/2020408.2020511",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020511",
 	"pages": "654-662",
 	"publisher": "ACM",
-	"stemmed": ["dual", "activ", "featur", "and", "sampl", "select", "for", "graph", "classif"],
-	"tag": ["classification", "graph"],
+	"stemmed": [
+		"dual",
+		"activ",
+		"featur",
+		"and",
+		"sampl",
+		"select",
+		"for",
+		"graph",
+		"classif"
+	],
+	"tag": [
+		"classification",
+		"graph"
+	],
 	"title": "Dual active feature and sample selection for graph classification",
 	"type": "inproceedings",
 	"venue": "KDD",

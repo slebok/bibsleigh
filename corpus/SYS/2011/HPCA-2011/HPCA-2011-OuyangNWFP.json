@@ -1,14 +1,33 @@
 {
-	"author": ["Xiangyong Ouyang", "David W. Nellans", "Robert Wipfel", "David Flynn", "Dhabaleswar K. Panda"],
-	"booktitle": "HPCA",
+	"author": [
+		"Xiangyong Ouyang",
+		"David W. Nellans",
+		"Robert Wipfel",
+		"David Flynn",
+		"Dhabaleswar K. Panda"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2011",
 	"dblpkey": "conf/hpca/OuyangNWFP11",
 	"doi": "10.1109/HPCA.2011.5749738",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2011.5749738", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2011.5749738"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2011.5749738",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2011.5749738"
+	],
 	"pages": "301-311",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["beyond", "block", "i", "o", "rethink", "tradit", "storag", "primit"],
+	"stemmed": [
+		"beyond",
+		"block",
+		"i",
+		"o",
+		"rethink",
+		"tradit",
+		"storag",
+		"primit"
+	],
 	"title": "Beyond block I/O: Rethinking traditional storage primitives",
 	"type": "inproceedings",
 	"venue": "HPCA",

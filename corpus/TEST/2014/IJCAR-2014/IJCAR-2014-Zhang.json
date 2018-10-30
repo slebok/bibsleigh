@@ -1,6 +1,7 @@
 {
 	"author": "Wenhui Zhang",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Seventh International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2014",
 	"dblpkey": "conf/cade/Zhang14",
 	"doi": "10.1007/978-3-319-08587-6_16",
@@ -10,11 +11,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["qbf", "encod", "of", "tempor", "properti", "and", "qbf", "base", "verif"],
-	"tag": ["encoding", "verification"],
+	"stemmed": [
+		"qbf",
+		"encod",
+		"of",
+		"tempor",
+		"properti",
+		"and",
+		"qbf",
+		"base",
+		"verif"
+	],
+	"tag": [
+		"encoding",
+		"verification"
+	],
 	"title": "QBF Encoding of Temporal Properties and QBF-Based Verification",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 8562,
+	"volume": "8562",
 	"year": 2014
 }

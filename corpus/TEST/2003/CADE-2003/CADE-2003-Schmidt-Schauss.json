@@ -1,6 +1,7 @@
 {
 	"author": "Manfred Schmidt-Schauß",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 19th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2003",
 	"dblpkey": "conf/cade/Schmidt-Schauss03",
 	"doi": "10.1007/978-3-540-45085-6_41",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["decid", "of", "ariti", "bound", "higher", "order", "match"],
-	"tag": ["bound", "decidability", "higher-order"],
+	"stemmed": [
+		"decid",
+		"of",
+		"ariti",
+		"bound",
+		"higher",
+		"order",
+		"match"
+	],
+	"tag": [
+		"bound",
+		"decidability",
+		"higher-order"
+	],
 	"title": "Decidability of Arity-Bounded Higher-Order Matching",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2741,
+	"volume": "2741",
 	"year": 2003
 }

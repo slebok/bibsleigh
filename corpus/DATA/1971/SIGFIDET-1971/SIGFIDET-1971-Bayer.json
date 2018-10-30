@@ -1,13 +1,23 @@
 {
 	"author": "Rudolf Bayer",
-	"booktitle": "SIGFIDET Workshop",
+	"booktitle": "Proceedings of the Second ACM-SIGFIDET Workshop on Data Description, Access and Control",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGFIDET71/P219.pdf",
 	"crossref": "conf/sigmod/71",
 	"dblpkey": "conf/sigmod/Bayer71",
 	"pages": "219-235",
 	"publisher": "ACM",
-	"stemmed": ["binari", "b", "tree", "for", "virtual", "memori"],
-	"tag": ["memory management"],
+	"stemmed": [
+		"binari",
+		"b",
+		"tree",
+		"for",
+		"virtual",
+		"memori"
+	],
+	"tag": [
+		"memory management"
+	],
 	"title": "Binary B-Trees for Virtual Memory",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

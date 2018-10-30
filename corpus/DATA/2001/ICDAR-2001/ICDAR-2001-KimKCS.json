@@ -1,15 +1,40 @@
 {
-	"author": ["Kye Kyung Kim", "Jin-Ho Kim", "YunKoo Chung", "Ching Y. Suen"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Kye Kyung Kim",
+		"Jin-Ho Kim",
+		"YunKoo Chung",
+		"Ching Y. Suen"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2001",
 	"dblpkey": "conf/icdar/KimKCS01",
 	"doi": "10.1109/ICDAR.2001.953928",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2001.953928", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953928"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2001.953928",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953928"
+	],
 	"pages": "964-967",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["legal", "amount", "recognit", "base", "on", "the", "segment", "hypothes", "for", "bank", "check", "process"],
-	"tag": ["recognition", "segmentation"],
+	"stemmed": [
+		"legal",
+		"amount",
+		"recognit",
+		"base",
+		"on",
+		"the",
+		"segment",
+		"hypothes",
+		"for",
+		"bank",
+		"check",
+		"process"
+	],
+	"tag": [
+		"recognition",
+		"segmentation"
+	],
 	"title": "Legal Amount Recognition Based on the Segmentation Hypotheses for Bank Check Processing",
 	"type": "inproceedings",
 	"venue": "ICDAR",

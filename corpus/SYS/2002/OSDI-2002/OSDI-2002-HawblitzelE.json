@@ -1,14 +1,29 @@
 {
-	"author": ["Chris Hawblitzel", "Thorsten von Eicken"],
-	"booktitle": "OSDI",
+	"author": [
+		"Chris Hawblitzel",
+		"Thorsten von Eicken"
+	],
+	"booktitle": "Proceedings of the Fifth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2002",
 	"dblpkey": "conf/osdi/HawblitzelE02",
 	"doi": "10.1145/1060289.1060325",
 	"ee": "http://www.usenix.org/events/osdi02/tech/hawblitzel.html",
 	"pages": "391-401",
 	"publisher": "USENIX Association",
-	"stemmed": ["luna", "a", "flexibl", "java", "protect", "system"],
-	"tag": ["flexibility", "java", "named"],
+	"stemmed": [
+		"luna",
+		"a",
+		"flexibl",
+		"java",
+		"protect",
+		"system"
+	],
+	"tag": [
+		"flexibility",
+		"java",
+		"named"
+	],
 	"title": "Luna: A Flexible Java Protection System",
 	"type": "inproceedings",
 	"venue": "OSDI",

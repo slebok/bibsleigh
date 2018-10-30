@@ -1,15 +1,39 @@
 {
-	"author": ["Patrick Haffner", "Léon Bottou", "Paul G. Howard", "Yann LeCun"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Patrick Haffner",
+		"Léon Bottou",
+		"Paul G. Howard",
+		"Yann LeCun"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/1999",
 	"dblpkey": "conf/icdar/HaffnerBHL99",
 	"doi": "10.1109/ICDAR.1999.791865",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1999.791865", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1999.791865"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1999.791865",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1999.791865"
+	],
 	"pages": "625-628",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["dj", "vu", "analyz", "and", "compress", "scan", "document", "for", "internet", "distribut"],
-	"tag": ["documentation", "internet", "named"],
+	"stemmed": [
+		"dj",
+		"vu",
+		"analyz",
+		"and",
+		"compress",
+		"scan",
+		"document",
+		"for",
+		"internet",
+		"distribut"
+	],
+	"tag": [
+		"documentation",
+		"internet",
+		"named"
+	],
 	"title": "DjVu: Analyzing and Compressing Scanned Documents for Internet Distribution",
 	"type": "inproceedings",
 	"venue": "ICDAR",

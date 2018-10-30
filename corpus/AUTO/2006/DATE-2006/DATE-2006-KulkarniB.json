@@ -1,14 +1,31 @@
 {
-	"author": ["Chidamber Kulkarni", "Gordon J. Brebner"],
-	"booktitle": "DATE",
+	"author": [
+		"Chidamber Kulkarni",
+		"Gordon J. Brebner"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2006p",
 	"dblpkey": "conf/date/KulkarniB06",
 	"doi": "10.1145/1131749",
 	"ee": "http://doi.acm.org/10.1145/1131749",
 	"pages": "959-964",
 	"publisher": "European Design and Automation Association, Leuven, Belgium",
-	"stemmed": ["memori", "centric", "thread", "synchron", "on", "platform", "fpgas"],
-	"tag": ["concurrent", "framework", "memory management", "thread"],
+	"stemmed": [
+		"memori",
+		"centric",
+		"thread",
+		"synchron",
+		"on",
+		"platform",
+		"fpgas"
+	],
+	"tag": [
+		"concurrent",
+		"framework",
+		"memory management",
+		"thread"
+	],
 	"title": "Memory centric thread synchronization on platform FPGAs",
 	"type": "inproceedings",
 	"venue": "DATE",

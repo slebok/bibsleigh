@@ -1,14 +1,34 @@
 {
-	"author": ["Xianfeng Li", "Tulika Mitra", "Abhik Roychoudhury"],
-	"booktitle": "DAC",
+	"author": [
+		"Xianfeng Li",
+		"Tulika Mitra",
+		"Abhik Roychoudhury"
+	],
+	"booktitle": "Proceedings of the 40th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2003",
 	"dblpkey": "conf/dac/LiMR03",
 	"doi": "10.1145/775832.775953",
 	"ee": "http://doi.acm.org/10.1145/775832.775953",
 	"pages": "466-471",
 	"publisher": "ACM",
-	"stemmed": ["accur", "time", "analysi", "by", "model", "cach", "specul", "and", "their", "interact"],
-	"tag": ["analysis", "interactive", "modelling"],
+	"stemmed": [
+		"accur",
+		"time",
+		"analysi",
+		"by",
+		"model",
+		"cach",
+		"specul",
+		"and",
+		"their",
+		"interact"
+	],
+	"tag": [
+		"analysis",
+		"interactive",
+		"modelling"
+	],
 	"title": "Accurate timing analysis by modeling caches, speculation and their interaction",
 	"type": "inproceedings",
 	"venue": "DAC",

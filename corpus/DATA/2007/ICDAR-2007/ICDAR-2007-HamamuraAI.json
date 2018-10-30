@@ -1,6 +1,11 @@
 {
-	"author": ["Tomoyuki Hamamura", "Takuma Akagi", "Bunpei Irie"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Tomoyuki Hamamura",
+		"Takuma Akagi",
+		"Bunpei Irie"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/HamamuraAI07",
 	"doi": "10.1109/ICDAR.2007.44",
@@ -8,8 +13,24 @@
 	"pages": "669-673",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["an", "analyt", "word", "recognit", "algorithm", "use", "a", "posteriori", "probabl"],
-	"tag": ["algorithm", "probability", "recognition", "using", "word"],
+	"stemmed": [
+		"an",
+		"analyt",
+		"word",
+		"recognit",
+		"algorithm",
+		"use",
+		"a",
+		"posteriori",
+		"probabl"
+	],
+	"tag": [
+		"algorithm",
+		"probability",
+		"recognition",
+		"using",
+		"word"
+	],
 	"title": "An Analytic Word Recognition Algorithm Using a Posteriori Probability",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,16 +1,46 @@
 {
 	"author": "Surajit Chaudhuri",
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS91/P115.PDF", "journals/anthology/dvd1:text/1-3/PODS91/P115.PDF"],
-	"cite": ["conf/pods/BeeriR87", "conf/slp/Helm89", "...", "conf/slp/MaherR89", "journals/jcss/Naughton89", "conf/vldb/NaughtonR90", "...", "conf/pods/RamakrishnanSUV89", "conf/pods/Sagiv87", "conf/pods/Saraiya89", "books/cs/Ullman88", "books/cs/Ullman89", "conf/pods/Vardi88"],
+	"booktitle": "Proceedings of the 10th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS91/P115.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS91/P115.PDF"
+	],
+	"cite": [
+		"conf/pods/BeeriR87",
+		"conf/slp/Helm89",
+		"...",
+		"conf/slp/MaherR89",
+		"journals/jcss/Naughton89",
+		"conf/vldb/NaughtonR90",
+		"...",
+		"conf/pods/RamakrishnanSUV89",
+		"conf/pods/Sagiv87",
+		"conf/pods/Saraiya89",
+		"books/cs/Ullman88",
+		"books/cs/Ullman89",
+		"conf/pods/Vardi88"
+	],
 	"crossref": "conf/pods/91",
 	"dblpkey": "conf/pods/Chaudhuri91",
 	"doi": "10.1145/113413.113424",
 	"ee": "http://doi.acm.org/10.1145/113413.113424",
 	"pages": "115-126",
 	"publisher": "ACM Press",
-	"stemmed": ["detect", "redund", "tupl", "dure", "queri", "evalu"],
-	"tag": ["detection", "evaluation", "query", "tuple"],
+	"stemmed": [
+		"detect",
+		"redund",
+		"tupl",
+		"dure",
+		"queri",
+		"evalu"
+	],
+	"tag": [
+		"detection",
+		"evaluation",
+		"query",
+		"tuple"
+	],
 	"title": "Detecting Redundant Tuples During Query Evaluation",
 	"type": "inproceedings",
 	"venue": "PODS",

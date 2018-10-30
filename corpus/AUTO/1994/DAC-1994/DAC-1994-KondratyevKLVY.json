@@ -1,13 +1,31 @@
 {
-	"author": ["Alex Kondratyev", "Michael Kishinevsky", "Bill Lin", "Peter Vanbekbergen", "Alexandre Yakovlev"],
-	"booktitle": "DAC",
+	"author": [
+		"Alex Kondratyev",
+		"Michael Kishinevsky",
+		"Bill Lin",
+		"Peter Vanbekbergen",
+		"Alexandre Yakovlev"
+	],
+	"booktitle": "Proceedings of the 31st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/KondratyevKLVY94",
 	"doi": "10.1145/196244.196275",
 	"ee": "http://doi.acm.org/10.1145/196244.196275",
 	"pages": "56-62",
 	"publisher": "ACM Press",
-	"stemmed": ["basic", "gate", "implement", "of", "speed", "independ", "circuit"],
-	"tag": ["implementation", "independence"],
+	"stemmed": [
+		"basic",
+		"gate",
+		"implement",
+		"of",
+		"speed",
+		"independ",
+		"circuit"
+	],
+	"tag": [
+		"implementation",
+		"independence"
+	],
 	"title": "Basic Gate Implementation of Speed-Independent Circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

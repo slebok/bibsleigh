@@ -1,6 +1,11 @@
 {
-	"author": ["Saba Alimadadi", "Ali Mesbah", "Karthik Pattabiraman"],
-	"booktitle": "ECOOP",
+	"author": [
+		"Saba Alimadadi",
+		"Ali Mesbah",
+		"Karthik Pattabiraman"
+	],
+	"booktitle": "Proceedings of the 29th European Conference on Object-Oriented Programming",
+	"booktitleshort": "ECOOP",
 	"crossref": "conf/ecoop/2015",
 	"dblpkey": "conf/ecoop/Alimadadi0P15",
 	"doi": "10.4230/LIPIcs.ECOOP.2015.321",
@@ -10,11 +15,24 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["hybrid", "dom", "sensit", "chang", "impact", "analysi", "for", "javascript"],
-	"tag": ["hybrid", "impact analysis", "javascript"],
+	"stemmed": [
+		"hybrid",
+		"dom",
+		"sensit",
+		"chang",
+		"impact",
+		"analysi",
+		"for",
+		"javascript"
+	],
+	"tag": [
+		"hybrid",
+		"impact analysis",
+		"javascript"
+	],
 	"title": "Hybrid DOM-Sensitive Change Impact Analysis for JavaScript",
 	"type": "inproceedings",
 	"venue": "ECOOP",
-	"volume": 37,
+	"volume": "37",
 	"year": 2015
 }

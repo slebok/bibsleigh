@@ -1,6 +1,9 @@
 {
-	"author": ["Gregory B. Prokopski", "Clark Verbrugge"],
-	"booktitle": "Proceedings of the 23rd Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Gregory B. Prokopski",
+		"Clark Verbrugge"
+	],
+	"booktitle": "Proceedings of the 23rd Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2008",
 	"dblpkey": "conf/oopsla/ProkopskiV08",
@@ -10,8 +13,20 @@
 	"isbn": "978-1-60558-215-3",
 	"pages": "403-422",
 	"publisher": "ACM",
-	"stemmed": ["analyz", "the", "perform", "of", "code", "copi", "virtual", "machin"],
-	"tag": ["performance", "virtual machine"],
+	"stemmed": [
+		"analyz",
+		"the",
+		"perform",
+		"of",
+		"code",
+		"copi",
+		"virtual",
+		"machin"
+	],
+	"tag": [
+		"performance",
+		"virtual machine"
+	],
 	"title": "Analyzing the performance of code-copying virtual machines",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

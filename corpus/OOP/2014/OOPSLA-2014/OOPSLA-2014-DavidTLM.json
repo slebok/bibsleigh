@@ -1,6 +1,11 @@
 {
-	"author": ["Florian David", "Gaël Thomas", "Julia Lawall", "Gilles Muller"],
-	"booktitle": "Proceedings of the 29th International Conference on Object Oriented Programming Systems Languages & Applications",
+	"author": [
+		"Florian David",
+		"Gaël Thomas",
+		"Julia Lawall",
+		"Gilles Muller"
+	],
+	"booktitle": "Proceedings of the 29th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2014",
 	"dblpkey": "conf/oopsla/DavidTLM14",
@@ -8,8 +13,21 @@
 	"ee": "http://doi.acm.org/10.1145/2660193.2660210",
 	"pages": "291-307",
 	"publisher": "ACM",
-	"stemmed": ["continu", "measur", "critic", "section", "pressur", "with", "the", "free", "lunch", "profil"],
-	"tag": ["profiling"],
+	"stemmed": [
+		"continu",
+		"measur",
+		"critic",
+		"section",
+		"pressur",
+		"with",
+		"the",
+		"free",
+		"lunch",
+		"profil"
+	],
+	"tag": [
+		"profiling"
+	],
 	"title": "Continuously measuring critical section pressure with the free-lunch profiler",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

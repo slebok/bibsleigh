@@ -1,6 +1,12 @@
 {
-	"author": ["Haruhiko Sato", "Sarah Winkler", "Masahito Kurihara", "Aart Middeldorp"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Haruhiko Sato",
+		"Sarah Winkler",
+		"Masahito Kurihara",
+		"Aart Middeldorp"
+	],
+	"booktitle": "Proceedings of the Fourth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2008",
 	"dblpkey": "conf/cade/SatoWKM08",
 	"doi": "10.1007/978-3-540-71070-7_26",
@@ -10,11 +16,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["multi", "complet", "with", "termin", "tool", "system", "descript"],
-	"tag": ["multi", "termination", "tool support"],
+	"stemmed": [
+		"multi",
+		"complet",
+		"with",
+		"termin",
+		"tool",
+		"system",
+		"descript"
+	],
+	"tag": [
+		"multi",
+		"termination",
+		"tool support"
+	],
 	"title": "Multi-completion with Termination Tools (System Description)",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 5195,
+	"volume": "5195",
 	"year": 2008
 }

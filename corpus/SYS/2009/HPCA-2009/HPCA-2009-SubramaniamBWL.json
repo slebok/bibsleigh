@@ -1,6 +1,12 @@
 {
-	"author": ["Samantika Subramaniam", "Anne Bracy", "Hong Wang", "Gabriel H. Loh"],
-	"booktitle": "HPCA",
+	"author": [
+		"Samantika Subramaniam",
+		"Anne Bracy",
+		"Hong Wang",
+		"Gabriel H. Loh"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2009",
 	"dblpkey": "conf/hpca/SubramaniamBWL09",
 	"doi": "10.1109/HPCA.2009.4798280",
@@ -8,8 +14,19 @@
 	"pages": "419-430",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["critic", "base", "optim", "for", "effici", "load", "process"],
-	"tag": ["optimisation", "performance"],
+	"stemmed": [
+		"critic",
+		"base",
+		"optim",
+		"for",
+		"effici",
+		"load",
+		"process"
+	],
+	"tag": [
+		"optimisation",
+		"performance"
+	],
 	"title": "Criticality-based optimizations for efficient load processing",
 	"type": "inproceedings",
 	"venue": "HPCA",

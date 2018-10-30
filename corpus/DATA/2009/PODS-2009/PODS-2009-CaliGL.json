@@ -1,14 +1,35 @@
 {
-	"author": ["Andrea Calì", "Georg Gottlob", "Thomas Lukasiewicz"],
-	"booktitle": "PODS",
+	"author": [
+		"Andrea Calì",
+		"Georg Gottlob",
+		"Thomas Lukasiewicz"
+	],
+	"booktitle": "Proceedings of the 28th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2009",
 	"dblpkey": "conf/pods/CaliGL09",
 	"doi": "10.1145/1559795.1559809",
 	"ee": "http://doi.acm.org/10.1145/1559795.1559809",
 	"pages": "77-86",
 	"publisher": "ACM",
-	"stemmed": ["a", "general", "datalog", "base", "framework", "for", "tractabl", "queri", "answer", "over", "ontolog"],
-	"tag": ["framework", "ontology", "query"],
+	"stemmed": [
+		"a",
+		"general",
+		"datalog",
+		"base",
+		"framework",
+		"for",
+		"tractabl",
+		"queri",
+		"answer",
+		"over",
+		"ontolog"
+	],
+	"tag": [
+		"framework",
+		"ontology",
+		"query"
+	],
 	"title": "A general datalog-based framework for tractable query answering over ontologies",
 	"type": "inproceedings",
 	"venue": "PODS",

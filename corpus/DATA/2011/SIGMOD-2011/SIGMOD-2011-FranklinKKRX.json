@@ -1,6 +1,12 @@
 {
-	"author": ["Michael J. Franklin", "Donald Kossmann", "Tim Kraska", "Sukriti Ramesh", "Reynold Xin"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Michael J. Franklin",
+		"Donald Kossmann",
+		"Tim Kraska",
+		"Sukriti Ramesh",
+		"Reynold Xin"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/FranklinKKRX11",
@@ -8,8 +14,19 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989331",
 	"pages": "61-72",
 	"publisher": "ACM",
-	"stemmed": ["crowd", "db", "answer", "queri", "with", "crowdsourc"],
-	"tag": ["crowdsourcing", "named", "query"],
+	"stemmed": [
+		"crowd",
+		"db",
+		"answer",
+		"queri",
+		"with",
+		"crowdsourc"
+	],
+	"tag": [
+		"crowdsourcing",
+		"named",
+		"query"
+	],
 	"title": "CrowdDB: answering queries with crowdsourcing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

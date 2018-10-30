@@ -1,13 +1,32 @@
 {
-	"author": ["Maxim Lifantsev", "Tzi-cker Chiueh"],
-	"booktitle": "VLDB",
+	"author": [
+		"Maxim Lifantsev",
+		"Tzi-cker Chiueh"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/LifantsevC02",
 	"ee": "http://www.vldb.org/conf/2002/S11P02.pdf",
 	"pages": "382-393",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["i", "o", "conscious", "data", "prepar", "for", "larg", "scale", "web", "search", "engin"],
-	"tag": ["scalability", "web"],
+	"stemmed": [
+		"i",
+		"o",
+		"conscious",
+		"data",
+		"prepar",
+		"for",
+		"larg",
+		"scale",
+		"web",
+		"search",
+		"engin"
+	],
+	"tag": [
+		"scalability",
+		"web"
+	],
 	"title": "I/O-Conscious Data Preparation for Large-Scale Web Search Engines",
 	"type": "inproceedings",
 	"venue": "VLDB",

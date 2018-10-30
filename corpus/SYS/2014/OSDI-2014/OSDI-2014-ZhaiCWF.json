@@ -1,13 +1,33 @@
 {
-	"author": ["Ennan Zhai", "Ruichuan Chen", "David Isaac Wolinsky", "Bryan Ford"],
-	"booktitle": "OSDI",
+	"author": [
+		"Ennan Zhai",
+		"Ruichuan Chen",
+		"David Isaac Wolinsky",
+		"Bryan Ford"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2014",
 	"dblpkey": "conf/osdi/ZhaiCWF14",
 	"ee": "https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zhai",
 	"pages": "317-334",
 	"publisher": "USENIX Association",
-	"stemmed": ["head", "off", "correl", "failur", "through", "independ", "as", "a", "servic"],
-	"tag": ["as a service", "correlation", "independence"],
+	"stemmed": [
+		"head",
+		"off",
+		"correl",
+		"failur",
+		"through",
+		"independ",
+		"as",
+		"a",
+		"servic"
+	],
+	"tag": [
+		"as a service",
+		"correlation",
+		"independence"
+	],
 	"title": "Heading Off Correlated Failures through Independence-as-a-Service",
 	"type": "inproceedings",
 	"venue": "OSDI",

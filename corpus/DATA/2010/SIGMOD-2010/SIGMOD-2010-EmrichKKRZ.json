@@ -1,6 +1,12 @@
 {
-	"author": ["Tobias Emrich", "Hans-Peter Kriegel", "Peer Kröger", "Matthias Renz", "Andreas Züfle"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Tobias Emrich",
+		"Hans-Peter Kriegel",
+		"Peer Kröger",
+		"Matthias Renz",
+		"Andreas Züfle"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/EmrichKKRZ10",
@@ -8,7 +14,16 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807174",
 	"pages": "39-50",
 	"publisher": "ACM",
-	"stemmed": ["boost", "spatial", "prune", "on", "optim", "prune", "of", "mbrs"],
+	"stemmed": [
+		"boost",
+		"spatial",
+		"prune",
+		"on",
+		"optim",
+		"prune",
+		"of",
+		"mbrs"
+	],
 	"title": "Boosting spatial pruning: on optimal pruning of MBRs",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

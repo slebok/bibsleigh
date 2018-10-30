@@ -1,14 +1,37 @@
 {
-	"author": ["Ashutosh Chakraborty", "Anurag Kumar", "David Z. Pan"],
-	"booktitle": "DAC",
+	"author": [
+		"Ashutosh Chakraborty",
+		"Anurag Kumar",
+		"David Z. Pan"
+	],
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/ChakrabortyKP09",
 	"doi": "10.1145/1629911.1630029",
 	"ee": "http://doi.acm.org/10.1145/1629911.1630029",
 	"pages": "442-447",
 	"publisher": "ACM",
-	"stemmed": ["reg", "place", "a", "high", "qualiti", "open", "sourc", "placement", "framework", "for", "structur", "asic"],
-	"tag": ["framework", "named", "open source", "quality"],
+	"stemmed": [
+		"reg",
+		"place",
+		"a",
+		"high",
+		"qualiti",
+		"open",
+		"sourc",
+		"placement",
+		"framework",
+		"for",
+		"structur",
+		"asic"
+	],
+	"tag": [
+		"framework",
+		"named",
+		"open source",
+		"quality"
+	],
 	"title": "RegPlace: a high quality open-source placement framework for structured ASICs",
 	"type": "inproceedings",
 	"venue": "DAC",

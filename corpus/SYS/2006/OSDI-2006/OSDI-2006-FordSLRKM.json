@@ -1,13 +1,33 @@
 {
-	"author": ["Bryan Ford", "Jacob Strauss", "Chris Lesniewski-Laas", "Sean C. Rhea", "M. Frans Kaashoek", "Robert Morris"],
-	"booktitle": "OSDI",
+	"author": [
+		"Bryan Ford",
+		"Jacob Strauss",
+		"Chris Lesniewski-Laas",
+		"Sean C. Rhea",
+		"M. Frans Kaashoek",
+		"Robert Morris"
+	],
+	"booktitle": "Proceedings of the Seventh Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2006",
 	"dblpkey": "conf/osdi/FordSLRKM06",
 	"ee": "http://www.usenix.org/events/osdi06/tech/ford.html",
 	"pages": "233-248",
 	"publisher": "USENIX Association",
-	"stemmed": ["persist", "person", "name", "for", "global", "connect", "mobil", "devic"],
-	"tag": ["mobile", "persistent"],
+	"stemmed": [
+		"persist",
+		"person",
+		"name",
+		"for",
+		"global",
+		"connect",
+		"mobil",
+		"devic"
+	],
+	"tag": [
+		"mobile",
+		"persistent"
+	],
 	"title": "Persistent Personal Names for Globally Connected Mobile Devices",
 	"type": "inproceedings",
 	"venue": "OSDI",

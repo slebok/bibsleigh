@@ -1,6 +1,10 @@
 {
-	"author": ["Zongyi Liu", "Hanning Zhou"],
-	"booktitle": "DRR",
+	"author": [
+		"Zongyi Liu",
+		"Hanning Zhou"
+	],
+	"booktitle": "Proceedings of the 17th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2010",
 	"dblpkey": "conf/drr/LiuZ10",
 	"doi": "10.1117/12.837362",
@@ -8,11 +12,28 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["semi", "supervis", "learn", "for", "detect", "text", "line", "in", "noisi", "document", "imag"],
-	"tag": ["detection", "documentation", "image", "learning"],
+	"stemmed": [
+		"semi",
+		"supervis",
+		"learn",
+		"for",
+		"detect",
+		"text",
+		"line",
+		"in",
+		"noisi",
+		"document",
+		"imag"
+	],
+	"tag": [
+		"detection",
+		"documentation",
+		"image",
+		"learning"
+	],
 	"title": "Semi-supervised learning for detecting text-lines in noisy document images",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7534,
+	"volume": "7534",
 	"year": 2010
 }

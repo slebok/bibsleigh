@@ -1,6 +1,12 @@
 {
-	"author": ["Jingkuan Song", "Yang Yang", "Yi Yang", "Zi Huang", "Heng Tao Shen"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jingkuan Song",
+		"Yang Yang",
+		"Yi Yang",
+		"Zi Huang",
+		"Heng Tao Shen"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/SongYYHS13",
@@ -8,8 +14,25 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465274",
 	"pages": "785-796",
 	"publisher": "ACM",
-	"stemmed": ["inter", "media", "hash", "for", "larg", "scale", "retriev", "from", "heterogen", "data", "sourc"],
-	"tag": ["data flow", "retrieval", "scalability", "semistructured data"],
+	"stemmed": [
+		"inter",
+		"media",
+		"hash",
+		"for",
+		"larg",
+		"scale",
+		"retriev",
+		"from",
+		"heterogen",
+		"data",
+		"sourc"
+	],
+	"tag": [
+		"data flow",
+		"retrieval",
+		"scalability",
+		"semistructured data"
+	],
 	"title": "Inter-media hashing for large-scale retrieval from heterogeneous data sources",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

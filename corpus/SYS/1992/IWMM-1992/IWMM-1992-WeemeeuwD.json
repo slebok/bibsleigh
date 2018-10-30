@@ -1,6 +1,10 @@
 {
-	"author": ["Patrick Weemeeuw", "Bart Demoen"],
-	"booktitle": "IWMM",
+	"author": [
+		"Patrick Weemeeuw",
+		"Bart Demoen"
+	],
+	"booktitle": "Proceedings of the First International Workshop on Memory Management",
+	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
 	"dblpkey": "conf/iwmm/WeemeeuwD92",
 	"doi": "10.1007/BFb0017207",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["garbag", "collect", "in", "aurora", "an", "overview"],
-	"tag": ["bibliography", "garbage collection", "perspective"],
+	"stemmed": [
+		"garbag",
+		"collect",
+		"in",
+		"aurora",
+		"an",
+		"overview"
+	],
+	"tag": [
+		"bibliography",
+		"garbage collection",
+		"perspective"
+	],
 	"title": "Garbage Collection in Aurora: An Overview",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 637,
+	"volume": "637",
 	"year": 1992
 }

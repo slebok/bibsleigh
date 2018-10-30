@@ -1,14 +1,33 @@
 {
-	"author": ["Michele Coscia", "Giulio Rossetti", "Fosca Giannotti", "Dino Pedreschi"],
-	"booktitle": "KDD",
+	"author": [
+		"Michele Coscia",
+		"Giulio Rossetti",
+		"Fosca Giannotti",
+		"Dino Pedreschi"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/CosciaRGP12",
 	"doi": "10.1145/2339530.2339630",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339630",
 	"pages": "615-623",
 	"publisher": "ACM",
-	"stemmed": ["demon", "a", "local", "first", "discoveri", "method", "for", "overlap", "communiti"],
-	"tag": ["community", "named"],
+	"stemmed": [
+		"demon",
+		"a",
+		"local",
+		"first",
+		"discoveri",
+		"method",
+		"for",
+		"overlap",
+		"communiti"
+	],
+	"tag": [
+		"community",
+		"named"
+	],
 	"title": "DEMON: a local-first discovery method for overlapping communities",
 	"type": "inproceedings",
 	"venue": "KDD",

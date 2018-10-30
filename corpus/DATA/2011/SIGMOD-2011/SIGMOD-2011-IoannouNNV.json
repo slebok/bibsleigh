@@ -1,6 +1,11 @@
 {
-	"author": ["Ekaterini Ioannou", "Wolfgang Nejdl", "Claudia Niederée", "Yannis Velegrakis"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ekaterini Ioannou",
+		"Wolfgang Nejdl",
+		"Claudia Niederée",
+		"Yannis Velegrakis"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/IoannouNNV11",
@@ -8,8 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989483",
 	"pages": "1307-1310",
 	"publisher": "ACM",
-	"stemmed": ["link", "db", "a", "probabilist", "linkag", "databas", "system"],
-	"tag": ["database", "named", "probability"],
+	"stemmed": [
+		"link",
+		"db",
+		"a",
+		"probabilist",
+		"linkag",
+		"databas",
+		"system"
+	],
+	"tag": [
+		"database",
+		"named",
+		"probability"
+	],
 	"title": "LinkDB: a probabilistic linkage database system",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

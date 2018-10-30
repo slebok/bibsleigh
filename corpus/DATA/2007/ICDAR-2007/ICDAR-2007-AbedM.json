@@ -1,6 +1,10 @@
 {
-	"author": ["Haikal El Abed", "Volker Märgner"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Haikal El Abed",
+		"Volker Märgner"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/AbedM07",
 	"doi": "10.1109/ICDAR.2007.85",
@@ -8,8 +12,29 @@
 	"pages": "974-978",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["comparison", "of", "differ", "preprocess", "and", "featur", "extract", "method", "for", "offlin", "recognit", "of", "handwritten", "arab", "word"],
-	"tag": ["comparison", "feature model", "preprocessor", "recognition"],
+	"stemmed": [
+		"comparison",
+		"of",
+		"differ",
+		"preprocess",
+		"and",
+		"featur",
+		"extract",
+		"method",
+		"for",
+		"offlin",
+		"recognit",
+		"of",
+		"handwritten",
+		"arab",
+		"word"
+	],
+	"tag": [
+		"comparison",
+		"feature model",
+		"preprocessor",
+		"recognition"
+	],
 	"title": "Comparison of Different Preprocessing and Feature Extraction Methods for Offline Recognition of Handwritten ArabicWords",
 	"type": "inproceedings",
 	"venue": "ICDAR",

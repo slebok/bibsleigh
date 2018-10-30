@@ -1,6 +1,13 @@
 {
-	"author": ["Jae-Gon Lee", "Moo-Kyoung Chung", "Ki-Yong Ahn", "Sang-Heon Lee", "Chong-Min Kyung"],
-	"booktitle": "DATE",
+	"author": [
+		"Jae-Gon Lee",
+		"Moo-Kyoung Chung",
+		"Ki-Yong Ahn",
+		"Sang-Heon Lee",
+		"Chong-Min Kyung"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/LeeCALK05",
 	"doi": "10.1109/DATE.2005.30",
@@ -8,8 +15,28 @@
 	"pages": "384-389",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "predict", "packet", "scheme", "for", "reduc", "channel", "traffic", "in", "transact", "level", "hardwar", "softwar", "co", "emul"],
-	"tag": ["hardware", "predict", "transaction"],
+	"stemmed": [
+		"a",
+		"predict",
+		"packet",
+		"scheme",
+		"for",
+		"reduc",
+		"channel",
+		"traffic",
+		"in",
+		"transact",
+		"level",
+		"hardwar",
+		"softwar",
+		"co",
+		"emul"
+	],
+	"tag": [
+		"hardware",
+		"predict",
+		"transaction"
+	],
 	"title": "A Prediction Packetizing Scheme for Reducing Channel Traffic in Transaction-Level Hardware/Software Co-Emulation",
 	"type": "inproceedings",
 	"venue": "DATE",

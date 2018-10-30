@@ -1,6 +1,13 @@
 {
-	"author": ["Jaeyoung Do", "Donghui Zhang", "Jignesh M. Patel", "David J. DeWitt", "Jeffrey F. Naughton", "Alan Halverson"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jaeyoung Do",
+		"Donghui Zhang",
+		"Jignesh M. Patel",
+		"David J. DeWitt",
+		"Jeffrey F. Naughton",
+		"Alan Halverson"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/DoZPDNH11",
@@ -8,8 +15,17 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989442",
 	"pages": "1113-1124",
 	"publisher": "ACM",
-	"stemmed": ["turbocharg", "dbms", "buffer", "pool", "use", "ssds"],
-	"tag": ["using"],
+	"stemmed": [
+		"turbocharg",
+		"dbms",
+		"buffer",
+		"pool",
+		"use",
+		"ssds"
+	],
+	"tag": [
+		"using"
+	],
 	"title": "Turbocharging DBMS buffer pool using SSDs",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

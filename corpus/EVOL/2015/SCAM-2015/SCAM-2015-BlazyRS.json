@@ -1,13 +1,30 @@
 {
-	"author": ["Sandrine Blazy", "Stéphanie Riaud", "Thomas Sirvent"],
-	"booktitle": "SCAM",
+	"author": [
+		"Sandrine Blazy",
+		"Stéphanie Riaud",
+		"Thomas Sirvent"
+	],
+	"booktitle": "Proceedings of the 15th International Working Conference on Source Code Analysis and Manipulation",
+	"booktitleshort": "SCAM",
 	"crossref": "conf/scam/2015",
 	"dblpkey": "conf/scam/BlazyRS15",
 	"doi": "10.1109/SCAM.2015.7335407",
 	"pages": "111-120",
 	"publisher": "IEEE",
-	"stemmed": ["data", "taint", "and", "obfusc", "improv", "plausibl", "of", "incorrect", "taint"],
-	"tag": ["obfuscation"],
+	"stemmed": [
+		"data",
+		"taint",
+		"and",
+		"obfusc",
+		"improv",
+		"plausibl",
+		"of",
+		"incorrect",
+		"taint"
+	],
+	"tag": [
+		"obfuscation"
+	],
 	"title": "Data tainting and obfuscation: Improving plausibility of incorrect taint",
 	"type": "inproceedings",
 	"venue": "SCAM",

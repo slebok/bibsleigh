@@ -1,14 +1,31 @@
 {
-	"author": ["Purnamrita Sarkar", "Andrew W. Moore"],
-	"booktitle": "KDD",
+	"author": [
+		"Purnamrita Sarkar",
+		"Andrew W. Moore"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/SarkarM10",
 	"doi": "10.1145/1835804.1835871",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835871",
 	"pages": "513-522",
 	"publisher": "ACM",
-	"stemmed": ["fast", "nearest", "neighbor", "search", "in", "disk", "resid", "graph"],
-	"tag": ["graph", "nearest neighbour", "performance"],
+	"stemmed": [
+		"fast",
+		"nearest",
+		"neighbor",
+		"search",
+		"in",
+		"disk",
+		"resid",
+		"graph"
+	],
+	"tag": [
+		"graph",
+		"nearest neighbour",
+		"performance"
+	],
 	"title": "Fast nearest-neighbor search in disk-resident graphs",
 	"type": "inproceedings",
 	"venue": "KDD",

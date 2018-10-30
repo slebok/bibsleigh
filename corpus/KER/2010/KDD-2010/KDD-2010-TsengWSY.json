@@ -1,14 +1,36 @@
 {
-	"author": ["Vincent S. Tseng", "Cheng-Wei Wu", "Bai-En Shie", "Philip S. Yu"],
-	"booktitle": "KDD",
+	"author": [
+		"Vincent S. Tseng",
+		"Cheng-Wei Wu",
+		"Bai-En Shie",
+		"Philip S. Yu"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/TsengWSY10",
 	"doi": "10.1145/1835804.1835839",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835839",
 	"pages": "253-262",
 	"publisher": "ACM",
-	"stemmed": ["up", "growth", "an", "effici", "algorithm", "for", "high", "util", "itemset", "mine"],
-	"tag": ["algorithm", "mining", "named", "performance"],
+	"stemmed": [
+		"up",
+		"growth",
+		"an",
+		"effici",
+		"algorithm",
+		"for",
+		"high",
+		"util",
+		"itemset",
+		"mine"
+	],
+	"tag": [
+		"algorithm",
+		"mining",
+		"named",
+		"performance"
+	],
 	"title": "UP-Growth: an efficient algorithm for high utility itemset mining",
 	"type": "inproceedings",
 	"venue": "KDD",

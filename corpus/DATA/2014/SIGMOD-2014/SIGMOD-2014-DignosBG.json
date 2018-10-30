@@ -1,6 +1,10 @@
 {
-	"author": ["Anton Dignös", "Michael H. Böhlen", "Johann Gamper"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Anton Dignös",
+		"Michael H. Böhlen",
+		"Johann Gamper"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/DignosBG14",
@@ -8,7 +12,12 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2612175",
 	"pages": "1459-1470",
 	"publisher": "ACM",
-	"stemmed": ["overlap", "interv", "partit", "join"],
+	"stemmed": [
+		"overlap",
+		"interv",
+		"partit",
+		"join"
+	],
 	"title": "Overlap interval partition join",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

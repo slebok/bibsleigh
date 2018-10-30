@@ -1,14 +1,35 @@
 {
-	"author": ["Aritra Sengupta", "Swarnendu Biswas", "Minjia Zhang", "Michael D. Bond", "Milind Kulkarni"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Aritra Sengupta",
+		"Swarnendu Biswas",
+		"Minjia Zhang",
+		"Michael D. Bond",
+		"Milind Kulkarni"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2015",
 	"dblpkey": "conf/asplos/SenguptaBZBK15",
 	"doi": "10.1145/2694344.2694379",
 	"ee": "http://doi.acm.org/10.1145/2694344.2694379",
 	"pages": "561-575",
 	"publisher": "ACM",
-	"stemmed": ["hybrid", "static", "dynam", "analysi", "for", "static", "bound", "region", "serializ"],
-	"tag": ["bound", "dynamic analysis", "hybrid"],
+	"stemmed": [
+		"hybrid",
+		"static",
+		"dynam",
+		"analysi",
+		"for",
+		"static",
+		"bound",
+		"region",
+		"serializ"
+	],
+	"tag": [
+		"bound",
+		"dynamic analysis",
+		"hybrid"
+	],
 	"title": "Hybrid Static: Dynamic Analysis for Statically Bounded Region Serializability",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

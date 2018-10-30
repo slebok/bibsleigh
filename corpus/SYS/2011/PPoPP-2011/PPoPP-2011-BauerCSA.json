@@ -1,14 +1,35 @@
 {
-	"author": ["Michael Bauer", "John Clark", "Eric Schkufza", "Alex Aiken"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Michael Bauer",
+		"John Clark",
+		"Eric Schkufza",
+		"Alex Aiken"
+	],
+	"booktitle": "Proceedings of the 16th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2011",
 	"dblpkey": "conf/ppopp/BauerCSA11",
 	"doi": "10.1145/1941553.1941558",
 	"ee": "http://doi.acm.org/10.1145/1941553.1941558",
 	"pages": "13-24",
 	"publisher": "ACM",
-	"stemmed": ["program", "the", "memori", "hierarchi", "revisit", "support", "irregular", "parallel", "in", "sequoia"],
-	"tag": ["memory management", "parallel", "programming"],
+	"stemmed": [
+		"program",
+		"the",
+		"memori",
+		"hierarchi",
+		"revisit",
+		"support",
+		"irregular",
+		"parallel",
+		"in",
+		"sequoia"
+	],
+	"tag": [
+		"memory management",
+		"parallel",
+		"programming"
+	],
 	"title": "Programming the memory hierarchy revisited: supporting irregular parallelism in sequoia",
 	"type": "inproceedings",
 	"venue": "PPoPP",

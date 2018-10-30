@@ -1,14 +1,30 @@
 {
-	"author": ["Bryan C. Catanzaro", "Alexander Keller", "Michael Garland"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Bryan C. Catanzaro",
+		"Alexander Keller",
+		"Michael Garland"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/CatanzaroKG14",
 	"doi": "10.1145/2555243.2555253",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555253",
 	"pages": "193-206",
 	"publisher": "ACM",
-	"stemmed": ["a", "decomposit", "for", "in", "place", "matrix", "transposit"],
-	"tag": ["composition", "matrix"],
+	"stemmed": [
+		"a",
+		"decomposit",
+		"for",
+		"in",
+		"place",
+		"matrix",
+		"transposit"
+	],
+	"tag": [
+		"composition",
+		"matrix"
+	],
 	"title": "A decomposition for in-place matrix transposition",
 	"type": "inproceedings",
 	"venue": "PPoPP",

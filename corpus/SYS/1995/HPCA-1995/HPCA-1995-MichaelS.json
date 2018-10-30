@@ -1,6 +1,10 @@
 {
-	"author": ["Maged M. Michael", "Michael L. Scott"],
-	"booktitle": "HPCA",
+	"author": [
+		"Maged M. Michael",
+		"Michael L. Scott"
+	],
+	"booktitle": "Proceedings of the First Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1995",
 	"dblpkey": "conf/hpca/MichaelS95",
 	"doi": "10.1109/HPCA.1995.386540",
@@ -8,8 +12,23 @@
 	"pages": "222-231",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["implement", "of", "atom", "primit", "on", "distribut", "share", "memori", "multiprocessor"],
-	"tag": ["distributed", "implementation", "memory management", "multi"],
+	"stemmed": [
+		"implement",
+		"of",
+		"atom",
+		"primit",
+		"on",
+		"distribut",
+		"share",
+		"memori",
+		"multiprocessor"
+	],
+	"tag": [
+		"distributed",
+		"implementation",
+		"memory management",
+		"multi"
+	],
 	"title": "Implementation of Atomic Primitives on Distributed Shared Memory Multiprocessors",
 	"type": "inproceedings",
 	"venue": "HPCA",

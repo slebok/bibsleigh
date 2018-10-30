@@ -1,15 +1,37 @@
 {
 	"author": "Prakash G. Hebalkar",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the Fourth International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB78/P442.PDF",
-	"cite": ["...", "journals/cacm/Hoare74", "journals/tse/Hansen75", "...", "...", "journals/cacm/LiskovSAS77", "journals/sigplan/LiskovZ74", "journals/tods/Schmidt77"],
+	"cite": [
+		"...",
+		"journals/cacm/Hoare74",
+		"journals/tse/Hansen75",
+		"...",
+		"...",
+		"journals/cacm/LiskovSAS77",
+		"journals/sigplan/LiskovZ74",
+		"journals/tods/Schmidt77"
+	],
 	"crossref": "conf/vldb/78",
 	"dblpkey": "conf/vldb/Hebalkar78",
 	"pages": "442-449",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["applic", "specif", "for", "distribut", "data", "base", "system"],
-	"tag": ["database", "distributed", "specification"],
+	"stemmed": [
+		"applic",
+		"specif",
+		"for",
+		"distribut",
+		"data",
+		"base",
+		"system"
+	],
+	"tag": [
+		"database",
+		"distributed",
+		"specification"
+	],
 	"title": "Application Specification for Distributed Data Base Systems",
 	"type": "inproceedings",
 	"venue": "VLDB",

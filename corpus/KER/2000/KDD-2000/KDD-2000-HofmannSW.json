@@ -1,14 +1,30 @@
 {
-	"author": ["Heike Hofmann", "Arno Siebes", "Adalbert F. X. Wilhelm"],
-	"booktitle": "KDD",
+	"author": [
+		"Heike Hofmann",
+		"Arno Siebes",
+		"Adalbert F. X. Wilhelm"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2000",
 	"dblpkey": "conf/kdd/HofmannSW00",
 	"doi": "10.1145/347090.347133",
 	"ee": "http://doi.acm.org/10.1145/347090.347133",
 	"pages": "227-235",
 	"publisher": "ACM",
-	"stemmed": ["visual", "associ", "rule", "with", "interact", "mosaic", "plot"],
-	"tag": ["interactive", "visualisation"],
+	"stemmed": [
+		"visual",
+		"associ",
+		"rule",
+		"with",
+		"interact",
+		"mosaic",
+		"plot"
+	],
+	"tag": [
+		"interactive",
+		"visualisation"
+	],
 	"title": "Visualizing association rules with interactive mosaic plots",
 	"type": "inproceedings",
 	"venue": "KDD",

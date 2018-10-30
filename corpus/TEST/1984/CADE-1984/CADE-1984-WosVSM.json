@@ -1,6 +1,12 @@
 {
-	"author": ["Larry Wos", "Robert Veroff", "B. Smith", "William McCune"],
-	"booktitle": "CADE",
+	"author": [
+		"Larry Wos",
+		"Robert Veroff",
+		"B. Smith",
+		"William McCune"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1984",
 	"dblpkey": "conf/cade/WosVSM84",
 	"doi": "10.1007/BFb0047129",
@@ -10,10 +16,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "link", "infer", "principl", "ii", "the", "user", "s", "viewpoint"],
+	"stemmed": [
+		"the",
+		"link",
+		"infer",
+		"principl",
+		"ii",
+		"the",
+		"user",
+		"s",
+		"viewpoint"
+	],
 	"title": "The Linked Inference Principle, II: The User’s Viewpoint",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 170,
+	"volume": "170",
 	"year": 1984
 }

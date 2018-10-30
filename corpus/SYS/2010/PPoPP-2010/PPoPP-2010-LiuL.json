@@ -1,14 +1,30 @@
 {
-	"author": ["Lixia Liu", "Zhiyuan Li"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Lixia Liu",
+		"Zhiyuan Li"
+	],
+	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/LiuL10",
 	"doi": "10.1145/1693453.1693483",
 	"ee": "http://doi.acm.org/10.1145/1693453.1693483",
 	"pages": "213-222",
 	"publisher": "ACM",
-	"stemmed": ["improv", "parallel", "and", "local", "with", "asynchron", "algorithm"],
-	"tag": ["algorithm", "locality", "parallel"],
+	"stemmed": [
+		"improv",
+		"parallel",
+		"and",
+		"local",
+		"with",
+		"asynchron",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"locality",
+		"parallel"
+	],
 	"title": "Improving parallelism and locality with asynchronous algorithms",
 	"type": "inproceedings",
 	"venue": "PPoPP",

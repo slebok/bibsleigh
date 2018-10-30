@@ -1,6 +1,10 @@
 {
-	"author": ["Stratos Idreos", "Martin L. Kersten", "Stefan Manegold"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Stratos Idreos",
+		"Martin L. Kersten",
+		"Stefan Manegold"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/IdreosKM09",
@@ -8,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559878",
 	"pages": "297-308",
 	"publisher": "ACM",
-	"stemmed": ["self", "organ", "tupl", "reconstruct", "in", "column", "store"],
-	"tag": ["re-engineering", "self", "tuple"],
+	"stemmed": [
+		"self",
+		"organ",
+		"tupl",
+		"reconstruct",
+		"in",
+		"column",
+		"store"
+	],
+	"tag": [
+		"re-engineering",
+		"self",
+		"tuple"
+	],
 	"title": "Self-organizing tuple reconstruction in column-stores",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

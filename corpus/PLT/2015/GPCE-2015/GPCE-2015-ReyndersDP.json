@@ -1,13 +1,33 @@
 {
-	"author": ["Bob Reynders", "Dominique Devriese", "Frank Piessens"],
-	"booktitle": "GPCE",
+	"author": [
+		"Bob Reynders",
+		"Dominique Devriese",
+		"Frank Piessens"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Generative Programming: Concepts and Experiences",
+	"booktitleshort": "GPCE",
 	"crossref": "conf/gpce/2015",
 	"dblpkey": "conf/gpce/ReyndersDP15",
 	"doi": "10.1145/2814204.2814219",
 	"pages": "31-34",
 	"publisher": "ACM",
-	"stemmed": ["generat", "safe", "boundari", "api", "between", "type", "edsl", "and", "their", "environ"],
-	"tag": ["api", "bound", "generative"],
+	"stemmed": [
+		"generat",
+		"safe",
+		"boundari",
+		"api",
+		"between",
+		"type",
+		"edsl",
+		"and",
+		"their",
+		"environ"
+	],
+	"tag": [
+		"api",
+		"bound",
+		"generative"
+	],
 	"title": "Generating safe boundary APIs between typed EDSLs and their environments",
 	"type": "inproceedings",
 	"venue": "GPCE",

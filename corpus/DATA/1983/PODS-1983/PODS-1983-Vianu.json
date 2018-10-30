@@ -1,16 +1,46 @@
 {
 	"author": "Victor Vianu",
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS83/P389.PDF", "journals/anthology/dvd1:text/1-3/PODS83/P389.PDF"],
-	"cite": ["conf/vldb/Brodie81", "...", "conf/vldb/CastilhoCF82", "journals/is/CeriPB81", "journals/tods/CliffordW83", "conf/vldb/AntonellisZ81", "...", "conf/stoc/Fagin80", "conf/vldb/Gallaire81", "conf/vldb/HammerM75", "conf/pods/HullY82", "...", "conf/pods/Spyratos82", "...", "..."],
+	"booktitle": "Proceedings of the Second Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS83/P389.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS83/P389.PDF"
+	],
+	"cite": [
+		"conf/vldb/Brodie81",
+		"...",
+		"conf/vldb/CastilhoCF82",
+		"journals/is/CeriPB81",
+		"journals/tods/CliffordW83",
+		"conf/vldb/AntonellisZ81",
+		"...",
+		"conf/stoc/Fagin80",
+		"conf/vldb/Gallaire81",
+		"conf/vldb/HammerM75",
+		"conf/pods/HullY82",
+		"...",
+		"conf/pods/Spyratos82",
+		"...",
+		"..."
+	],
 	"crossref": "conf/pods/83",
 	"dblpkey": "conf/pods/Vianu83",
 	"doi": "10.1145/588058.588105",
 	"ee": "http://doi.acm.org/10.1145/588058.588105",
 	"pages": "389-399",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "constraint", "and", "databas", "evolut"],
-	"tag": ["constraints", "database", "evolution"],
+	"stemmed": [
+		"dynam",
+		"constraint",
+		"and",
+		"databas",
+		"evolut"
+	],
+	"tag": [
+		"constraints",
+		"database",
+		"evolution"
+	],
 	"title": "Dynamic Constraints and Database Evolution",
 	"type": "inproceedings",
 	"venue": "PODS",

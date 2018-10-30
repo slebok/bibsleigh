@@ -1,13 +1,33 @@
 {
-	"author": ["Aapo Kyrola", "Guy E. Blelloch", "Carlos Guestrin"],
-	"booktitle": "OSDI",
+	"author": [
+		"Aapo Kyrola",
+		"Guy E. Blelloch",
+		"Carlos Guestrin"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2012",
 	"dblpkey": "conf/osdi/KyrolaBG12",
 	"ee": "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kyrola",
 	"pages": "31-46",
 	"publisher": "USENIX Association",
-	"stemmed": ["graph", "chi", "larg", "scale", "graph", "comput", "on", "just", "a", "pc"],
-	"tag": ["graph", "named", "scalability"],
+	"stemmed": [
+		"graph",
+		"chi",
+		"larg",
+		"scale",
+		"graph",
+		"comput",
+		"on",
+		"just",
+		"a",
+		"pc"
+	],
+	"tag": [
+		"graph",
+		"named",
+		"scalability"
+	],
 	"title": "GraphChi: Large-Scale Graph Computation on Just a PC",
 	"type": "inproceedings",
 	"venue": "OSDI",

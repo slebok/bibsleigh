@@ -1,14 +1,34 @@
 {
-	"author": ["Jacob Burnim", "George C. Necula", "Koushik Sen"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Jacob Burnim",
+		"George C. Necula",
+		"Koushik Sen"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2011",
 	"dblpkey": "conf/asplos/BurnimNS11",
 	"doi": "10.1145/1950365.1950377",
 	"ee": "http://doi.acm.org/10.1145/1950365.1950377",
 	"pages": "79-90",
 	"publisher": "ACM",
-	"stemmed": ["specifi", "and", "check", "semant", "atom", "for", "multithread", "program"],
-	"tag": ["parallel", "semantics", "source code", "specification", "thread"],
+	"stemmed": [
+		"specifi",
+		"and",
+		"check",
+		"semant",
+		"atom",
+		"for",
+		"multithread",
+		"program"
+	],
+	"tag": [
+		"parallel",
+		"semantics",
+		"source code",
+		"specification",
+		"thread"
+	],
 	"title": "Specifying and checking semantic atomicity for multithreaded programs",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

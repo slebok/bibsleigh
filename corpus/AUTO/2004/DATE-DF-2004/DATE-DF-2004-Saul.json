@@ -1,6 +1,7 @@
 {
 	"author": "Peter H. Saul",
-	"booktitle": "DATE",
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Designers’ Forum",
+	"booktitleshort": "DATE DF",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/Saul04",
 	"doi": "10.1109/DATE.2004.1269194",
@@ -8,8 +9,17 @@
 	"pages": "28-33",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["low", "power", "analogu", "degre", "phase", "shifter"],
-	"tag": ["power management"],
+	"stemmed": [
+		"low",
+		"power",
+		"analogu",
+		"degre",
+		"phase",
+		"shifter"
+	],
+	"tag": [
+		"power management"
+	],
 	"title": "Low Power Analogue 90 Degree Phase Shifter",
 	"type": "inproceedings",
 	"venue": "DATE",

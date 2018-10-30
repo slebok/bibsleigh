@@ -1,14 +1,33 @@
 {
-	"author": ["Ian N. Davidson", "Sean Gilpin", "Owen T. Carmichael", "Peter B. Walker"],
-	"booktitle": "KDD",
+	"author": [
+		"Ian N. Davidson",
+		"Sean Gilpin",
+		"Owen T. Carmichael",
+		"Peter B. Walker"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/DavidsonGCW13",
 	"doi": "10.1145/2487575.2487619",
 	"ee": "http://doi.acm.org/10.1145/2487575.2487619",
 	"pages": "194-202",
 	"publisher": "ACM",
-	"stemmed": ["network", "discoveri", "via", "constrain", "tensor", "analysi", "of", "fmri", "data"],
-	"tag": ["analysis", "network"],
+	"stemmed": [
+		"network",
+		"discoveri",
+		"via",
+		"constrain",
+		"tensor",
+		"analysi",
+		"of",
+		"fmri",
+		"data"
+	],
+	"tag": [
+		"analysis",
+		"network"
+	],
 	"title": "Network discovery via constrained tensor analysis of fMRI data",
 	"type": "inproceedings",
 	"venue": "KDD",

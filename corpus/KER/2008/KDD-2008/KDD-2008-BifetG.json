@@ -1,14 +1,33 @@
 {
-	"author": ["Albert Bifet", "Ricard Gavaldà"],
-	"booktitle": "KDD",
+	"author": [
+		"Albert Bifet",
+		"Ricard Gavaldà"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/BifetG08",
 	"doi": "10.1145/1401890.1401900",
 	"ee": "http://doi.acm.org/10.1145/1401890.1401900",
 	"pages": "34-42",
 	"publisher": "ACM",
-	"stemmed": ["mine", "adapt", "frequent", "close", "unlabel", "root", "tree", "in", "data", "stream"],
-	"tag": ["adaptation", "data type", "mining"],
+	"stemmed": [
+		"mine",
+		"adapt",
+		"frequent",
+		"close",
+		"unlabel",
+		"root",
+		"tree",
+		"in",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"adaptation",
+		"data type",
+		"mining"
+	],
 	"title": "Mining adaptively frequent closed unlabeled rooted trees in data streams",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,15 +1,31 @@
 {
-	"author": ["Michael F. Miller", "Kenneth J. Janik", "Shih-Lien Lu"],
-	"booktitle": "HPCA",
+	"author": [
+		"Michael F. Miller",
+		"Kenneth J. Janik",
+		"Shih-Lien Lu"
+	],
+	"booktitle": "Proceedings of the Fourth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1998",
 	"dblpkey": "conf/hpca/MillerJL98",
 	"doi": "10.1109/HPCA.1998.650572",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1998.650572", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1998.650572"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1998.650572",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1998.650572"
+	],
 	"pages": "334-341",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["non", "stall", "counter", "flow", "architectur"],
-	"tag": ["architecture"],
+	"stemmed": [
+		"non",
+		"stall",
+		"counter",
+		"flow",
+		"architectur"
+	],
+	"tag": [
+		"architecture"
+	],
 	"title": "Non-Stalling CounterFlow Architecture",
 	"type": "inproceedings",
 	"venue": "HPCA",

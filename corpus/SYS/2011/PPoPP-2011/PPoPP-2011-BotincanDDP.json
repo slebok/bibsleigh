@@ -1,14 +1,33 @@
 {
-	"author": ["Matko Botincan", "Mike Dodds", "Alastair F. Donaldson", "Matthew J. Parkinson"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Matko Botincan",
+		"Mike Dodds",
+		"Alastair F. Donaldson",
+		"Matthew J. Parkinson"
+	],
+	"booktitle": "Proceedings of the 16th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2011",
 	"dblpkey": "conf/ppopp/BotincanDDP11",
 	"doi": "10.1145/1941553.1941605",
 	"ee": "http://doi.acm.org/10.1145/1941553.1941605",
 	"pages": "313-314",
 	"publisher": "ACM",
-	"stemmed": ["automat", "safeti", "proof", "for", "asynchron", "memori", "oper"],
-	"tag": ["automation", "memory management", "proving", "safety"],
+	"stemmed": [
+		"automat",
+		"safeti",
+		"proof",
+		"for",
+		"asynchron",
+		"memori",
+		"oper"
+	],
+	"tag": [
+		"automation",
+		"memory management",
+		"proving",
+		"safety"
+	],
 	"title": "Automatic safety proofs for asynchronous memory operations",
 	"type": "inproceedings",
 	"venue": "PPoPP",

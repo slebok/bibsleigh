@@ -1,14 +1,38 @@
 {
-	"author": ["Aparna Chandramowlishwaran", "Kathleen Knobe", "Richard W. Vuduc"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Aparna Chandramowlishwaran",
+		"Kathleen Knobe",
+		"Richard W. Vuduc"
+	],
+	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/ChandramowlishwaranKV10",
 	"doi": "10.1145/1693453.1693506",
 	"ee": "http://doi.acm.org/10.1145/1693453.1693506",
 	"pages": "345-346",
 	"publisher": "ACM",
-	"stemmed": ["appli", "the", "concurr", "collect", "program", "model", "to", "asynchron", "parallel", "dens", "linear", "algebra"],
-	"tag": ["algebra", "concurrent", "linear", "parallel", "programming"],
+	"stemmed": [
+		"appli",
+		"the",
+		"concurr",
+		"collect",
+		"program",
+		"model",
+		"to",
+		"asynchron",
+		"parallel",
+		"dens",
+		"linear",
+		"algebra"
+	],
+	"tag": [
+		"algebra",
+		"concurrent",
+		"linear",
+		"parallel",
+		"programming"
+	],
 	"title": "Applying the concurrent collections programming model to asynchronous parallel dense linear algebra",
 	"type": "inproceedings",
 	"venue": "PPoPP",

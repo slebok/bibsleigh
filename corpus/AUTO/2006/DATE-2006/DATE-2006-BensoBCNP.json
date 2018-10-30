@@ -1,14 +1,36 @@
 {
-	"author": ["Alfredo Benso", "Alberto Bosio", "Stefano Di Carlo", "Giorgio Di Natale", "Paolo Prinetto"],
-	"booktitle": "DATE",
+	"author": [
+		"Alfredo Benso",
+		"Alberto Bosio",
+		"Stefano Di Carlo",
+		"Giorgio Di Natale",
+		"Paolo Prinetto"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2006p",
 	"dblpkey": "conf/date/BensoBCNP06",
 	"doi": "10.1145/1131830",
 	"ee": "http://doi.acm.org/10.1145/1131830",
 	"pages": "1258-1263",
 	"publisher": "European Design and Automation Association, Leuven, Belgium",
-	"stemmed": ["automat", "march", "test", "generat", "for", "static", "link", "fault", "in", "sram"],
-	"tag": ["automation", "fault", "testing"],
+	"stemmed": [
+		"automat",
+		"march",
+		"test",
+		"generat",
+		"for",
+		"static",
+		"link",
+		"fault",
+		"in",
+		"sram"
+	],
+	"tag": [
+		"automation",
+		"fault",
+		"testing"
+	],
 	"title": "Automatic march tests generations for static linked faults in SRAMs",
 	"type": "inproceedings",
 	"venue": "DATE",

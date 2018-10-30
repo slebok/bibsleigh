@@ -1,6 +1,10 @@
 {
-	"author": ["Keval Vora", "Sai Charan Koduru", "Rajiv Gupta"],
-	"booktitle": "Proceedings of the 29th International Conference on Object Oriented Programming Systems Languages & Applications",
+	"author": [
+		"Keval Vora",
+		"Sai Charan Koduru",
+		"Rajiv Gupta"
+	],
+	"booktitle": "Proceedings of the 29th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2014",
 	"dblpkey": "conf/oopsla/VoraKG14",
@@ -8,8 +12,28 @@
 	"ee": "http://doi.acm.org/10.1145/2660193.2660227",
 	"pages": "861-878",
 	"publisher": "ACM",
-	"stemmed": ["aspir", "exploit", "asynchron", "parallel", "in", "iter", "algorithm", "use", "a", "relax", "consist", "base", "dsm"],
-	"tag": ["algorithm", "consistency", "named", "parallel", "using"],
+	"stemmed": [
+		"aspir",
+		"exploit",
+		"asynchron",
+		"parallel",
+		"in",
+		"iter",
+		"algorithm",
+		"use",
+		"a",
+		"relax",
+		"consist",
+		"base",
+		"dsm"
+	],
+	"tag": [
+		"algorithm",
+		"consistency",
+		"named",
+		"parallel",
+		"using"
+	],
 	"title": "ASPIRE: exploiting asynchronous parallelism in iterative algorithms using a relaxed consistency based DSM",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

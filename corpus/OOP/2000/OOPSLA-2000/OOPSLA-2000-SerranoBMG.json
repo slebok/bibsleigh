@@ -1,17 +1,37 @@
 {
-	"author": ["Mauricio J. Serrano", "Rajesh Bordawekar", "Samuel P. Midkiff", "Manish Gupta"],
-	"booktitle": "Proceedings of the 15th Conference on Object-Oriented Programming Systems, Languages & Applications",
+	"author": [
+		"Mauricio J. Serrano",
+		"Rajesh Bordawekar",
+		"Samuel P. Midkiff",
+		"Manish Gupta"
+	],
+	"booktitle": "Proceedings of the 15th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2000",
 	"dblpkey": "conf/oopsla/SerranoBMG00",
 	"doi": "10.1145/353171.353176",
-	"editor": ["Mary Beth Rosson", "Doug Lea"],
+	"editor": [
+		"Mary Beth Rosson",
+		"Doug Lea"
+	],
 	"ee": "http://doi.acm.org/10.1145/353171.353176",
 	"isbn": "1-58113-200-X",
 	"pages": "66-82",
 	"publisher": "ACM",
-	"stemmed": ["quicksilv", "a", "quasi", "static", "compil", "for", "java"],
-	"tag": ["compilation", "java", "named"],
+	"stemmed": [
+		"quicksilv",
+		"a",
+		"quasi",
+		"static",
+		"compil",
+		"for",
+		"java"
+	],
+	"tag": [
+		"compilation",
+		"java",
+		"named"
+	],
 	"title": "Quicksilver: a quasi-static compiler for Java",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

@@ -1,14 +1,37 @@
 {
-	"author": ["Sumanta Chaudhuri", "Sylvain Guilley", "Florent Flament", "Philippe Hoogvorst", "Jean-Luc Danger"],
-	"booktitle": "DAC",
+	"author": [
+		"Sumanta Chaudhuri",
+		"Sylvain Guilley",
+		"Florent Flament",
+		"Philippe Hoogvorst",
+		"Jean-Luc Danger"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/ChaudhuriGFHD08",
 	"doi": "10.1145/1391469.1391500",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391500",
 	"pages": "120-125",
 	"publisher": "ACM",
-	"stemmed": ["an", "x", "run", "time", "reconfigur", "fpga", "embed", "in", "a", "so", "c"],
-	"tag": ["configuration management", "embedded", "runtime"],
+	"stemmed": [
+		"an",
+		"x",
+		"run",
+		"time",
+		"reconfigur",
+		"fpga",
+		"embed",
+		"in",
+		"a",
+		"so",
+		"c"
+	],
+	"tag": [
+		"configuration management",
+		"embedded",
+		"runtime"
+	],
 	"title": "An 8x8 run-time reconfigurable FPGA embedded in a SoC",
 	"type": "inproceedings",
 	"venue": "DAC",

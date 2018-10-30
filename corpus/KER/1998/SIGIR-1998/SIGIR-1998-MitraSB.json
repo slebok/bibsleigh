@@ -1,6 +1,11 @@
 {
-	"author": ["Mandar Mitra", "Amit Singhal", "Chris Buckley"],
+	"author": [
+		"Mandar Mitra",
+		"Amit Singhal",
+		"Chris Buckley"
+	],
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P206.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/MitraSB98",
@@ -8,8 +13,16 @@
 	"ee": "http://doi.acm.org/10.1145/290941.290995",
 	"pages": "206-214",
 	"publisher": "ACM",
-	"stemmed": ["improv", "automat", "queri", "expans"],
-	"tag": ["automation", "query"],
+	"stemmed": [
+		"improv",
+		"automat",
+		"queri",
+		"expans"
+	],
+	"tag": [
+		"automation",
+		"query"
+	],
 	"title": "Improving Automatic Query Expansion",
 	"type": "inproceedings",
 	"venue": "SIGIR",

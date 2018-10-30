@@ -1,14 +1,33 @@
 {
-	"author": ["Simon Kahan", "Petr Konecny"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Simon Kahan",
+		"Petr Konecny"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2006",
 	"dblpkey": "conf/ppopp/KahanK06",
 	"doi": "10.1145/1122971.1122999",
 	"ee": "http://doi.acm.org/10.1145/1122971.1122999",
 	"pages": "178-186",
 	"publisher": "ACM",
-	"stemmed": ["mama", "a", "memori", "alloc", "for", "multithread", "architectur"],
-	"tag": ["architecture", "exclamation", "memory management", "parallel", "quote", "thread"],
+	"stemmed": [
+		"mama",
+		"a",
+		"memori",
+		"alloc",
+		"for",
+		"multithread",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"exclamation",
+		"memory management",
+		"parallel",
+		"quote",
+		"thread"
+	],
 	"title": "“MAMA!”: a memory allocator for multithreaded architectures",
 	"type": "inproceedings",
 	"venue": "PPoPP",

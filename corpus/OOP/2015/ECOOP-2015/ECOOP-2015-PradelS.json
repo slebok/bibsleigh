@@ -1,6 +1,10 @@
 {
-	"author": ["Michael Pradel", "Koushik Sen"],
-	"booktitle": "ECOOP",
+	"author": [
+		"Michael Pradel",
+		"Koushik Sen"
+	],
+	"booktitle": "Proceedings of the 29th European Conference on Object-Oriented Programming",
+	"booktitleshort": "ECOOP",
 	"crossref": "conf/ecoop/2015",
 	"dblpkey": "conf/ecoop/PradelS15",
 	"doi": "10.4230/LIPIcs.ECOOP.2015.519",
@@ -10,11 +14,31 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["the", "good", "the", "bad", "and", "the", "ugli", "an", "empir", "studi", "of", "implicit", "type", "convers", "in", "javascript"],
-	"tag": ["empirical", "javascript"],
+	"stemmed": [
+		"the",
+		"good",
+		"the",
+		"bad",
+		"and",
+		"the",
+		"ugli",
+		"an",
+		"empir",
+		"studi",
+		"of",
+		"implicit",
+		"type",
+		"convers",
+		"in",
+		"javascript"
+	],
+	"tag": [
+		"empirical",
+		"javascript"
+	],
 	"title": "The Good, the Bad, and the Ugly: An Empirical Study of Implicit Type Conversions in JavaScript",
 	"type": "inproceedings",
 	"venue": "ECOOP",
-	"volume": 37,
+	"volume": "37",
 	"year": 2015
 }

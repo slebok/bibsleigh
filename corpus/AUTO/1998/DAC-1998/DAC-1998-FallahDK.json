@@ -1,13 +1,38 @@
 {
-	"author": ["Farzan Fallah", "Srinivas Devadas", "Kurt Keutzer"],
-	"booktitle": "DAC",
+	"author": [
+		"Farzan Fallah",
+		"Srinivas Devadas",
+		"Kurt Keutzer"
+	],
+	"booktitle": "Proceedings of the 35th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/FallahDK98",
 	"doi": "10.1145/277044.277187",
 	"ee": "http://doi.acm.org/10.1145/277044.277187",
 	"pages": "528-533",
 	"publisher": "ACM Press",
-	"stemmed": ["function", "vector", "generat", "for", "hdl", "model", "use", "linear", "program", "and", "satisfi"],
-	"tag": ["functional", "generative", "linear", "modelling", "programming", "satisfiability", "using"],
+	"stemmed": [
+		"function",
+		"vector",
+		"generat",
+		"for",
+		"hdl",
+		"model",
+		"use",
+		"linear",
+		"program",
+		"and",
+		"satisfi"
+	],
+	"tag": [
+		"functional",
+		"generative",
+		"linear",
+		"modelling",
+		"programming",
+		"satisfiability",
+		"using"
+	],
 	"title": "Functional Vector Generation for HDL Models Using Linear Programming and 3-Satisfiability",
 	"type": "inproceedings",
 	"venue": "DAC",

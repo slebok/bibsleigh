@@ -1,6 +1,10 @@
 {
-	"author": ["Kaustuv Chaudhuri", "Frank Pfenning"],
-	"booktitle": "CADE",
+	"author": [
+		"Kaustuv Chaudhuri",
+		"Frank Pfenning"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2005",
 	"dblpkey": "conf/cade/ChaudhuriP05",
 	"doi": "10.1007/11532231_6",
@@ -10,11 +14,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "focus", "invers", "method", "theorem", "prover", "for", "first", "order", "linear", "logic"],
-	"tag": ["first-order", "linear", "logic", "proving", "theorem proving"],
+	"stemmed": [
+		"a",
+		"focus",
+		"invers",
+		"method",
+		"theorem",
+		"prover",
+		"for",
+		"first",
+		"order",
+		"linear",
+		"logic"
+	],
+	"tag": [
+		"first-order",
+		"linear",
+		"logic",
+		"proving",
+		"theorem proving"
+	],
 	"title": "A Focusing Inverse Method Theorem Prover for First-Order Linear Logic",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 3632,
+	"volume": "3632",
 	"year": 2005
 }

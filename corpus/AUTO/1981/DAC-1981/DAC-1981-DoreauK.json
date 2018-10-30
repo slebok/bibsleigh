@@ -1,13 +1,28 @@
 {
-	"acmid": 802389,
-	"author": ["Michel T. Doreau", "Piotr Koziol"],
-	"booktitle": "DAC",
+	"acmid": "802389",
+	"author": [
+		"Michel T. Doreau",
+		"Piotr Koziol"
+	],
+	"booktitle": "Proceedings of the 18th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1981",
 	"dblpkey": "conf/dac/DoreauK81",
 	"pages": "746-755",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["twigi", "a", "topolog", "algorithm", "base", "rout", "system"],
-	"tag": ["algorithm", "named"],
+	"stemmed": [
+		"twigi",
+		"a",
+		"topolog",
+		"algorithm",
+		"base",
+		"rout",
+		"system"
+	],
+	"tag": [
+		"algorithm",
+		"named"
+	],
 	"title": "TWIGY — a topological algorithm based routing system",
 	"type": "inproceedings",
 	"venue": "DAC",

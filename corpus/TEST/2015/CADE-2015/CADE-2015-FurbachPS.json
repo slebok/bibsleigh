@@ -1,6 +1,11 @@
 {
-	"author": ["Ulrich Furbach", "Björn Pelzer", "Claudia Schon"],
-	"booktitle": "CADE",
+	"author": [
+		"Ulrich Furbach",
+		"Björn Pelzer",
+		"Claudia Schon"
+	],
+	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
 	"dblpkey": "conf/cade/FurbachPS15",
 	"doi": "10.1007/978-3-319-21401-6_3",
@@ -10,11 +15,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["autom", "reason", "in", "the", "wild"],
-	"tag": ["automation", "reasoning"],
+	"stemmed": [
+		"autom",
+		"reason",
+		"in",
+		"the",
+		"wild"
+	],
+	"tag": [
+		"automation",
+		"reasoning"
+	],
 	"title": "Automated Reasoning in the Wild",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 9195,
+	"volume": "9195",
 	"year": 2015
 }

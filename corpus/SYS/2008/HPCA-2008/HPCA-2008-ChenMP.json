@@ -1,6 +1,11 @@
 {
-	"author": ["Kaiyu Chen", "Sharad Malik", "Priyadarsan Patra"],
-	"booktitle": "HPCA",
+	"author": [
+		"Kaiyu Chen",
+		"Sharad Malik",
+		"Priyadarsan Patra"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2008",
 	"dblpkey": "conf/hpca/ChenMP08",
 	"doi": "10.1109/HPCA.2008.4658657",
@@ -8,8 +13,25 @@
 	"pages": "415-426",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["runtim", "valid", "of", "memori", "order", "use", "constraint", "graph", "check"],
-	"tag": ["constraints", "graph", "memory management", "runtime", "using", "validation"],
+	"stemmed": [
+		"runtim",
+		"valid",
+		"of",
+		"memori",
+		"order",
+		"use",
+		"constraint",
+		"graph",
+		"check"
+	],
+	"tag": [
+		"constraints",
+		"graph",
+		"memory management",
+		"runtime",
+		"using",
+		"validation"
+	],
 	"title": "Runtime validation of memory ordering using constraint graph checking",
 	"type": "inproceedings",
 	"venue": "HPCA",

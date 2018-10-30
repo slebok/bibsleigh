@@ -1,14 +1,48 @@
 {
-	"author": ["Yannis E. Ioannidis", "Raghu Ramakrishnan"],
-	"booktitle": "VLDB",
-	"cite": ["conf/vldb/AgrawalJ87", "...", "...", "books/aw/AhoHU74", "...", "...", "...", "journals/acta/EveK77", "conf/vldb/Ioannidis86", "...", "conf/vldb/Lu87", "conf/icde/LuMR87", "conf/pods/Naughton87", "conf/sigmod/RosenthalHDM86", "...", "journals/siamcomp/Schnorr78", "journals/siamcomp/Tarjan72", "conf/eds/ValduriezB86", "journals/cacm/Warren75", "journals/jacm/Warshall62"],
+	"author": [
+		"Yannis E. Ioannidis",
+		"Raghu Ramakrishnan"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/vldb/AgrawalJ87",
+		"...",
+		"...",
+		"books/aw/AhoHU74",
+		"...",
+		"...",
+		"...",
+		"journals/acta/EveK77",
+		"conf/vldb/Ioannidis86",
+		"...",
+		"conf/vldb/Lu87",
+		"conf/icde/LuMR87",
+		"conf/pods/Naughton87",
+		"conf/sigmod/RosenthalHDM86",
+		"...",
+		"journals/siamcomp/Schnorr78",
+		"journals/siamcomp/Tarjan72",
+		"conf/eds/ValduriezB86",
+		"journals/cacm/Warren75",
+		"journals/jacm/Warshall62"
+	],
 	"crossref": "conf/vldb/88",
 	"dblpkey": "conf/vldb/IoannidisR88",
 	"ee": "http://www.vldb.org/conf/1988/P382.PDF",
 	"pages": "382-394",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["effici", "transit", "closur", "algorithm"],
-	"tag": ["algorithm", "performance", "transitive"],
+	"stemmed": [
+		"effici",
+		"transit",
+		"closur",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"performance",
+		"transitive"
+	],
 	"title": "Efficient Transitive Closure Algorithms",
 	"type": "inproceedings",
 	"venue": "VLDB",

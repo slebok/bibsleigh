@@ -1,13 +1,31 @@
 {
-	"author": ["Xi Wang", "Haogang Chen", "Zhihao Jia", "Nickolai Zeldovich", "M. Frans Kaashoek"],
-	"booktitle": "OSDI",
+	"author": [
+		"Xi Wang",
+		"Haogang Chen",
+		"Zhihao Jia",
+		"Nickolai Zeldovich",
+		"M. Frans Kaashoek"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2012",
 	"dblpkey": "conf/osdi/WangCJZK12",
 	"ee": "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/wang",
 	"pages": "163-177",
 	"publisher": "USENIX Association",
-	"stemmed": ["improv", "integ", "secur", "for", "system", "with", "kint"],
-	"tag": ["integer", "security"],
+	"stemmed": [
+		"improv",
+		"integ",
+		"secur",
+		"for",
+		"system",
+		"with",
+		"kint"
+	],
+	"tag": [
+		"integer",
+		"security"
+	],
 	"title": "Improving Integer Security for Systems with KINT",
 	"type": "inproceedings",
 	"venue": "OSDI",

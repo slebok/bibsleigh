@@ -1,6 +1,13 @@
 {
-	"author": ["Dimitrios Georgiadis", "Maria Kontaki", "Anastasios Gounaris", "Apostolos N. Papadopoulos", "Kostas Tsichlas", "Yannis Manolopoulos"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Dimitrios Georgiadis",
+		"Maria Kontaki",
+		"Anastasios Gounaris",
+		"Apostolos N. Papadopoulos",
+		"Kostas Tsichlas",
+		"Yannis Manolopoulos"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/GeorgiadisKGPTM13",
@@ -8,8 +15,30 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2463691",
 	"pages": "1061-1064",
 	"publisher": "ACM",
-	"stemmed": ["continu", "outlier", "detect", "in", "data", "stream", "an", "extens", "framework", "and", "state", "of", "the", "art", "algorithm"],
-	"tag": ["algorithm", "data type", "detection", "framework", "state of the art"],
+	"stemmed": [
+		"continu",
+		"outlier",
+		"detect",
+		"in",
+		"data",
+		"stream",
+		"an",
+		"extens",
+		"framework",
+		"and",
+		"state",
+		"of",
+		"the",
+		"art",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"data type",
+		"detection",
+		"framework",
+		"state of the art"
+	],
 	"title": "Continuous outlier detection in data streams: an extensible framework and state-of-the-art algorithms",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

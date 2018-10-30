@@ -1,6 +1,7 @@
 {
 	"author": "Xavier Urbain",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the First International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2001",
 	"dblpkey": "conf/cade/Urbain01",
 	"doi": "10.1007/3-540-45744-5_42",
@@ -10,11 +11,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["autom", "increment", "termin", "proof", "for", "hierarch", "defin", "term", "rewrit", "system"],
-	"tag": ["automation", "incremental", "proving", "term rewriting", "termination"],
+	"stemmed": [
+		"autom",
+		"increment",
+		"termin",
+		"proof",
+		"for",
+		"hierarch",
+		"defin",
+		"term",
+		"rewrit",
+		"system"
+	],
+	"tag": [
+		"automation",
+		"incremental",
+		"proving",
+		"term rewriting",
+		"termination"
+	],
 	"title": "Automated Incremental Termination Proofs for Hierarchically Defined Term Rewriting Systems",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 2083,
+	"volume": "2083",
 	"year": 2001
 }

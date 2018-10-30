@@ -1,14 +1,35 @@
 {
-	"author": ["Mohamed Bouguessa", "Benoît Dumoulin", "Shengrui Wang"],
-	"booktitle": "KDD",
+	"author": [
+		"Mohamed Bouguessa",
+		"Benoît Dumoulin",
+		"Shengrui Wang"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/BouguessaDW08",
 	"doi": "10.1145/1401890.1401994",
 	"ee": "http://doi.acm.org/10.1145/1401890.1401994",
 	"pages": "866-874",
 	"publisher": "ACM",
-	"stemmed": ["identifi", "authorit", "actor", "in", "question", "answer", "forum", "the", "case", "of", "yahoo", "answer"],
-	"tag": ["exclamation", "identification"],
+	"stemmed": [
+		"identifi",
+		"authorit",
+		"actor",
+		"in",
+		"question",
+		"answer",
+		"forum",
+		"the",
+		"case",
+		"of",
+		"yahoo",
+		"answer"
+	],
+	"tag": [
+		"exclamation",
+		"identification"
+	],
 	"title": "Identifying authoritative actors in question-answering forums: the case of Yahoo! answers",
 	"type": "inproceedings",
 	"venue": "KDD",

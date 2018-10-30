@@ -1,6 +1,11 @@
 {
-	"author": ["Ton Vullinghs", "Daniel Tuinman", "Wolfram Schulte"],
+	"author": [
+		"Ton Vullinghs",
+		"Daniel Tuinman",
+		"Wolfram Schulte"
+	],
 	"booktitle": "Proceedings of the Seventh International Symposium on Programming Languages: Implementations, Logics and Programs",
+	"booktitleshort": "PPDP",
 	"crossref": "conf/plilp/95",
 	"dblpkey": "conf/plilp/VullinghsTS95",
 	"doi": "10.1007/BFb0026829",
@@ -10,11 +15,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["lightweight", "gui", "for", "function", "program"],
-	"tag": ["functional", "lightweight", "programming", "user interface"],
+	"stemmed": [
+		"lightweight",
+		"gui",
+		"for",
+		"function",
+		"program"
+	],
+	"tag": [
+		"functional",
+		"lightweight",
+		"programming",
+		"user interface"
+	],
 	"title": "Lightweight GUIs for Functional Programming",
 	"type": "inproceedings",
 	"venue": "PPDP",
-	"volume": 982,
+	"volume": "982",
 	"year": 1995
 }

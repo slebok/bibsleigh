@@ -1,14 +1,29 @@
 {
-	"author": ["Daniel G. Chavarría-Miranda", "John M. Mellor-Crummey"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Daniel G. Chavarría-Miranda",
+		"John M. Mellor-Crummey"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2005",
 	"dblpkey": "conf/ppopp/Chavarria-MirandaM05",
 	"doi": "10.1145/1065944.1065948",
 	"ee": "http://doi.acm.org/10.1145/1065944.1065948",
 	"pages": "14-25",
 	"publisher": "ACM",
-	"stemmed": ["effect", "communic", "coalesc", "for", "data", "parallel", "applic"],
-	"tag": ["communication", "effectiveness"],
+	"stemmed": [
+		"effect",
+		"communic",
+		"coalesc",
+		"for",
+		"data",
+		"parallel",
+		"applic"
+	],
+	"tag": [
+		"communication",
+		"effectiveness"
+	],
 	"title": "Effective communication coalescing for data-parallel applications",
 	"type": "inproceedings",
 	"venue": "PPoPP",

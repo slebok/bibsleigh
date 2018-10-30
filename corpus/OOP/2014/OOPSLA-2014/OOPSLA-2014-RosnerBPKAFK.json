@@ -1,6 +1,14 @@
 {
-	"author": ["Nicolás Rosner", "Valeria S. Bengolea", "Pablo Ponzio", "Shadi Abdul Khalek", "Nazareno Aguirre", "Marcelo F. Frias", "Sarfraz Khurshid"],
-	"booktitle": "Proceedings of the 29th International Conference on Object Oriented Programming Systems Languages & Applications",
+	"author": [
+		"Nicolás Rosner",
+		"Valeria S. Bengolea",
+		"Pablo Ponzio",
+		"Shadi Abdul Khalek",
+		"Nazareno Aguirre",
+		"Marcelo F. Frias",
+		"Sarfraz Khurshid"
+	],
+	"booktitle": "Proceedings of the 29th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2014",
 	"dblpkey": "conf/oopsla/RosnerBPKAFK14",
@@ -8,8 +16,22 @@
 	"ee": "http://doi.acm.org/10.1145/2660193.2660232",
 	"pages": "655-674",
 	"publisher": "ACM",
-	"stemmed": ["bound", "exhaust", "test", "input", "generat", "from", "hybrid", "invari"],
-	"tag": ["bound", "generative", "hybrid", "invariant"],
+	"stemmed": [
+		"bound",
+		"exhaust",
+		"test",
+		"input",
+		"generat",
+		"from",
+		"hybrid",
+		"invari"
+	],
+	"tag": [
+		"bound",
+		"generative",
+		"hybrid",
+		"invariant"
+	],
 	"title": "Bounded exhaustive test input generation from hybrid invariants",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

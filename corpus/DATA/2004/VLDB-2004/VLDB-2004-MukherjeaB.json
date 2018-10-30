@@ -1,13 +1,32 @@
 {
-	"author": ["Sougata Mukherjea", "Bhuvan Bamba"],
-	"booktitle": "VLDB",
+	"author": [
+		"Sougata Mukherjea",
+		"Bhuvan Bamba"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/MukherjeaB04",
 	"ee": "http://www.vldb.org/conf/2004/IND3P2.PDF",
 	"pages": "1066-1077",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["bio", "patent", "miner", "an", "inform", "retriev", "system", "for", "bio", "medic", "patent"],
-	"tag": ["information retrieval", "named"],
+	"stemmed": [
+		"bio",
+		"patent",
+		"miner",
+		"an",
+		"inform",
+		"retriev",
+		"system",
+		"for",
+		"bio",
+		"medic",
+		"patent"
+	],
+	"tag": [
+		"information retrieval",
+		"named"
+	],
 	"title": "BioPatentMiner: An Information Retrieval System for BioMedical Patents",
 	"type": "inproceedings",
 	"venue": "VLDB",

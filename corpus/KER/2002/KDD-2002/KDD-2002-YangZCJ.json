@@ -1,14 +1,28 @@
 {
-	"author": ["Yiming Yang", "Jian Zhang", "Jaime G. Carbonell", "Chun Jin"],
-	"booktitle": "KDD",
+	"author": [
+		"Yiming Yang",
+		"Jian Zhang",
+		"Jaime G. Carbonell",
+		"Chun Jin"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/YangZCJ02",
 	"doi": "10.1145/775047.775150",
 	"ee": "http://doi.acm.org/10.1145/775047.775150",
 	"pages": "688-693",
 	"publisher": "ACM",
-	"stemmed": ["topic", "condit", "novelti", "detect"],
-	"tag": ["detection", "topic"],
+	"stemmed": [
+		"topic",
+		"condit",
+		"novelti",
+		"detect"
+	],
+	"tag": [
+		"detection",
+		"topic"
+	],
 	"title": "Topic-conditioned novelty detection",
 	"type": "inproceedings",
 	"venue": "KDD",

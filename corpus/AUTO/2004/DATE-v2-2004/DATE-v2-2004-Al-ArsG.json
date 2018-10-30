@@ -1,6 +1,10 @@
 {
-	"author": ["Zaid Al-Ars", "A. J. van de Goor"],
-	"booktitle": "DATE",
+	"author": [
+		"Zaid Al-Ars",
+		"A. J. van de Goor"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/Al-ArsG04",
 	"doi": "10.1109/DATE.2004.1269037",
@@ -8,8 +12,24 @@
 	"pages": "1084-1091",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["soft", "fault", "and", "the", "import", "of", "stress", "in", "memori", "test"],
-	"tag": ["fault", "in memory", "memory management", "testing"],
+	"stemmed": [
+		"soft",
+		"fault",
+		"and",
+		"the",
+		"import",
+		"of",
+		"stress",
+		"in",
+		"memori",
+		"test"
+	],
+	"tag": [
+		"fault",
+		"in memory",
+		"memory management",
+		"testing"
+	],
 	"title": "Soft Faults and the Importance of Stresses in Memory Testing",
 	"type": "inproceedings",
 	"venue": "DATE",

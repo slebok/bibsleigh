@@ -1,6 +1,10 @@
 {
-	"author": ["Zheng Li", "Tingjian Ge", "Cindy X. Chen"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Zheng Li",
+		"Tingjian Ge",
+		"Cindy X. Chen"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/LiGC13",
@@ -8,8 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2463715",
 	"pages": "601-612",
 	"publisher": "ACM",
-	"stemmed": ["match", "event", "process", "over", "noisi", "sequenc", "in", "real", "time"],
-	"tag": ["named", "realtime", "sequence"],
+	"stemmed": [
+		"match",
+		"event",
+		"process",
+		"over",
+		"noisi",
+		"sequenc",
+		"in",
+		"real",
+		"time"
+	],
+	"tag": [
+		"named",
+		"realtime",
+		"sequence"
+	],
 	"title": "ε-Matching: event processing over noisy sequences in real time",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

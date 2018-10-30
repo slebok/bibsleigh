@@ -1,6 +1,10 @@
 {
-	"author": ["Franz Oppacher", "E. Suen"],
-	"booktitle": "CADE",
+	"author": [
+		"Franz Oppacher",
+		"E. Suen"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/OppacherS86",
 	"doi": "10.1007/3-540-16780-3_105",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["control", "deduct", "with", "proof", "condens", "and", "heurist"],
-	"tag": ["deduction", "heuristic", "proving"],
+	"stemmed": [
+		"control",
+		"deduct",
+		"with",
+		"proof",
+		"condens",
+		"and",
+		"heurist"
+	],
+	"tag": [
+		"deduction",
+		"heuristic",
+		"proving"
+	],
 	"title": "Controlling Deduction with Proof Condensation and Heuristics",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

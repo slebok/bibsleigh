@@ -1,6 +1,7 @@
 {
 	"author": "Hasan H. Sayani",
-	"booktitle": "SIGMOD Workshop, Vol. 1",
+	"booktitle": "Proceedings of the Fourth ACM-SIGFIDET Workshop on Data Description, Access and Control",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGFIDET74-1/P351.pdf",
 	"crossref": "conf/sigmod/74",
 	"dblpkey": "conf/sigmod/Sayani74",
@@ -8,8 +9,22 @@
 	"ee": "http://doi.acm.org/10.1145/800296.811520",
 	"pages": "351-366",
 	"publisher": "ACM",
-	"stemmed": ["restart", "and", "recoveri", "in", "a", "transact", "orient", "inform", "process", "system"],
-	"tag": ["information management", "transaction"],
+	"stemmed": [
+		"restart",
+		"and",
+		"recoveri",
+		"in",
+		"a",
+		"transact",
+		"orient",
+		"inform",
+		"process",
+		"system"
+	],
+	"tag": [
+		"information management",
+		"transaction"
+	],
 	"title": "Restart and Recovery in a Transaction-Oriented Information Processing System",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

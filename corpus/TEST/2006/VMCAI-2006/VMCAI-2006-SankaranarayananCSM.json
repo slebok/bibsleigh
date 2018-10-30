@@ -1,6 +1,12 @@
 {
-	"author": ["Sriram Sankaranarayanan", "Michael Colón", "Henny B. Sipma", "Zohar Manna"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Sriram Sankaranarayanan",
+		"Michael Colón",
+		"Henny B. Sipma",
+		"Zohar Manna"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2006",
 	"dblpkey": "conf/vmcai/SankaranarayananCSM06",
 	"doi": "10.1007/11609773_8",
@@ -10,11 +16,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["effici", "strong", "relat", "polyhedr", "analysi"],
-	"tag": ["analysis", "performance", "relational"],
+	"stemmed": [
+		"effici",
+		"strong",
+		"relat",
+		"polyhedr",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"performance",
+		"relational"
+	],
 	"title": "Efficient Strongly Relational Polyhedral Analysis",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3855,
+	"volume": "3855",
 	"year": 2006
 }

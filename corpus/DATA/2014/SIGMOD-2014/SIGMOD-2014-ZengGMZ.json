@@ -1,6 +1,11 @@
 {
-	"author": ["Kai Zeng", "Shi Gao", "Barzan Mozafari", "Carlo Zaniolo"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Kai Zeng",
+		"Shi Gao",
+		"Barzan Mozafari",
+		"Carlo Zaniolo"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/ZengGMZ14",
@@ -8,8 +13,29 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2588579",
 	"pages": "277-288",
 	"publisher": "ACM",
-	"stemmed": ["the", "analyt", "bootstrap", "a", "new", "method", "for", "fast", "error", "estim", "in", "approxim", "queri", "process"],
-	"tag": ["approximate", "estimation", "fault", "performance", "query"],
+	"stemmed": [
+		"the",
+		"analyt",
+		"bootstrap",
+		"a",
+		"new",
+		"method",
+		"for",
+		"fast",
+		"error",
+		"estim",
+		"in",
+		"approxim",
+		"queri",
+		"process"
+	],
+	"tag": [
+		"approximate",
+		"estimation",
+		"fault",
+		"performance",
+		"query"
+	],
 	"title": "The analytical bootstrap: a new method for fast error estimation in approximate query processing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

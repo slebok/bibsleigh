@@ -1,13 +1,30 @@
 {
-	"author": ["Jianliang Gao", "Yinhe Han", "Xiaowei Li"],
-	"booktitle": "DATE",
+	"author": [
+		"Jianliang Gao",
+		"Yinhe Han",
+		"Xiaowei Li"
+	],
+	"booktitle": "Proceedings of the 15th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2011",
 	"dblpkey": "conf/date/GaoHL11",
 	"ieeearid": 5763117,
 	"pages": "691-696",
 	"publisher": "IEEE",
-	"stemmed": ["elimin", "data", "invalid", "in", "debug", "multipl", "clock", "chip"],
-	"tag": ["debugging", "multi"],
+	"stemmed": [
+		"elimin",
+		"data",
+		"invalid",
+		"in",
+		"debug",
+		"multipl",
+		"clock",
+		"chip"
+	],
+	"tag": [
+		"debugging",
+		"multi"
+	],
 	"title": "Eliminating data invalidation in debugging multiple-clock chips",
 	"type": "inproceedings",
 	"venue": "DATE",

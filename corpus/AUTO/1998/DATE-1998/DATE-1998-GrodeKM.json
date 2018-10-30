@@ -1,6 +1,11 @@
 {
-	"author": ["Jesper Grode", "Peter Voigt Knudsen", "Jan Madsen"],
-	"booktitle": "DATE",
+	"author": [
+		"Jesper Grode",
+		"Peter Voigt Knudsen",
+		"Jan Madsen"
+	],
+	"booktitle": "Proceedings of the Third Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1998",
 	"dblpkey": "conf/date/GrodeKM98",
 	"doi": "10.1109/DATE.1998.655832",
@@ -8,8 +13,24 @@
 	"pages": "22-27",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["hardwar", "resourc", "alloc", "for", "hardwar", "softwar", "partit", "in", "the", "lyco", "system"],
-	"tag": ["clustering", "hardware", "resource management"],
+	"stemmed": [
+		"hardwar",
+		"resourc",
+		"alloc",
+		"for",
+		"hardwar",
+		"softwar",
+		"partit",
+		"in",
+		"the",
+		"lyco",
+		"system"
+	],
+	"tag": [
+		"clustering",
+		"hardware",
+		"resource management"
+	],
 	"title": "Hardware Resource Allocation for Hardware/Software Partitioning in the LYCOS System",
 	"type": "inproceedings",
 	"venue": "DATE",

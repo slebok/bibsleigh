@@ -1,12 +1,33 @@
 {
-	"address": ["Shonan", "", "Japan"],
+	"address": [
+		"Shonan",
+		"",
+		"Japan"
+	],
 	"author": "Hui Song",
 	"booktitle": "Proceedings of the GRACE International Meeting on Bidirectional Transformations",
-	"editor": ["Krzysztof Czarnecki", "J. Nathan Foster", "Zhenjiang Hu", "Ralf Lämmel", "Andy Schürr", "James F. Terwilliger"],
+	"booktitleshort": "BX",
+	"editor": [
+		"Krzysztof Czarnecki",
+		"J. Nathan Foster",
+		"Zhenjiang Hu",
+		"Ralf Lämmel",
+		"Andy Schürr",
+		"James F. Terwilliger"
+	],
 	"month": "dec",
-	"pages": 47,
-	"stemmed": ["architectur", "base", "runtim", "system", "manag"],
-	"tag": ["architecture", "runtime"],
+	"pages": "47",
+	"stemmed": [
+		"architectur",
+		"base",
+		"runtim",
+		"system",
+		"manag"
+	],
+	"tag": [
+		"architecture",
+		"runtime"
+	],
 	"title": "Architecture-Based Runtime System Management",
 	"type": "inproceedings",
 	"venue": "BX",

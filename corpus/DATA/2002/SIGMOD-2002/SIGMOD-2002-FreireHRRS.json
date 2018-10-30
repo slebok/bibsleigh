@@ -1,6 +1,12 @@
 {
-	"author": ["Juliana Freire", "Jayant R. Haritsa", "Maya Ramanath", "Prasan Roy", "Jérôme Siméon"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Juliana Freire",
+		"Jayant R. Haritsa",
+		"Maya Ramanath",
+		"Prasan Roy",
+		"Jérôme Siméon"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/FreireHRRS02",
@@ -8,8 +14,17 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564713",
 	"pages": "181-191",
 	"publisher": "ACM",
-	"stemmed": ["stati", "x", "make", "xml", "count"],
-	"tag": ["named", "xml"],
+	"stemmed": [
+		"stati",
+		"x",
+		"make",
+		"xml",
+		"count"
+	],
+	"tag": [
+		"named",
+		"xml"
+	],
 	"title": "StatiX: making XML count",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

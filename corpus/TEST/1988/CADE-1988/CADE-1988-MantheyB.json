@@ -1,6 +1,10 @@
 {
-	"author": ["Rainer Manthey", "François Bry"],
-	"booktitle": "CADE",
+	"author": [
+		"Rainer Manthey",
+		"François Bry"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/MantheyB88",
 	"doi": "10.1007/BFb0012847",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["satchmo", "a", "theorem", "prover", "implement", "in", "prolog"],
-	"tag": ["named", "prolog", "proving", "theorem proving"],
+	"stemmed": [
+		"satchmo",
+		"a",
+		"theorem",
+		"prover",
+		"implement",
+		"in",
+		"prolog"
+	],
+	"tag": [
+		"named",
+		"prolog",
+		"proving",
+		"theorem proving"
+	],
 	"title": "SATCHMO: A Theorem Prover Implemented in Prolog",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

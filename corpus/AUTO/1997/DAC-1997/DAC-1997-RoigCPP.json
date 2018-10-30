@@ -1,13 +1,32 @@
 {
-	"author": ["Oriol Roig", "Jordi Cortadella", "Marco A. Peña", "Enric Pastor"],
-	"booktitle": "DAC",
+	"author": [
+		"Oriol Roig",
+		"Jordi Cortadella",
+		"Marco A. Peña",
+		"Enric Pastor"
+	],
+	"booktitle": "Proceedings of the 34th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/RoigCPP97",
 	"doi": "10.1145/266021.266300",
 	"ee": "http://doi.acm.org/10.1145/266021.266300",
 	"pages": "620-625",
 	"publisher": "ACM Press",
-	"stemmed": ["automat", "generat", "of", "synchron", "test", "pattern", "for", "asynchron", "circuit"],
-	"tag": ["automation", "generative"],
+	"stemmed": [
+		"automat",
+		"generat",
+		"of",
+		"synchron",
+		"test",
+		"pattern",
+		"for",
+		"asynchron",
+		"circuit"
+	],
+	"tag": [
+		"automation",
+		"generative"
+	],
 	"title": "Automatic Generation of Synchronous Test Patterns for Asynchronous Circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,39 @@
 {
-	"author": ["Yizhou Sun", "Brandon Norick", "Jiawei Han", "Xifeng Yan", "Philip S. Yu", "Xiao Yu"],
-	"booktitle": "KDD",
+	"author": [
+		"Yizhou Sun",
+		"Brandon Norick",
+		"Jiawei Han",
+		"Xifeng Yan",
+		"Philip S. Yu",
+		"Xiao Yu"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/SunNHYYY12",
 	"doi": "10.1145/2339530.2339738",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339738",
 	"pages": "1348-1356",
 	"publisher": "ACM",
-	"stemmed": ["integr", "meta", "path", "select", "with", "user", "guid", "object", "cluster", "in", "heterogen", "inform", "network"],
-	"tag": ["clustering", "network"],
+	"stemmed": [
+		"integr",
+		"meta",
+		"path",
+		"select",
+		"with",
+		"user",
+		"guid",
+		"object",
+		"cluster",
+		"in",
+		"heterogen",
+		"inform",
+		"network"
+	],
+	"tag": [
+		"clustering",
+		"network"
+	],
 	"title": "Integrating meta-path selection with user-guided object clustering in heterogeneous information networks",
 	"type": "inproceedings",
 	"venue": "KDD",

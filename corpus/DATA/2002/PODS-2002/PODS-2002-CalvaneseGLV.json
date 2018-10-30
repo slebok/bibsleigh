@@ -1,13 +1,26 @@
 {
-	"author": ["Diego Calvanese", "Giuseppe De Giacomo", "Maurizio Lenzerini", "Moshe Y. Vardi"],
-	"booktitle": "PODS",
+	"author": [
+		"Diego Calvanese",
+		"Giuseppe De Giacomo",
+		"Maurizio Lenzerini",
+		"Moshe Y. Vardi"
+	],
+	"booktitle": "Proceedings of the 21st Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2002",
 	"dblpkey": "conf/pods/CalvaneseGLV02",
 	"doi": "10.1145/543613.543646",
-	"ee": ["http://doi.acm.org/10.1145/543613.543646", "http://www.acm.org/sigs/sigmod/pods/proc02/papers/247-CalvaneseDLV.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/543613.543646",
+		"http://www.acm.org/sigs/sigmod/pods/proc02/papers/247-CalvaneseDLV.pdf"
+	],
 	"pages": "247-258",
 	"publisher": "ACM",
-	"stemmed": ["lossless", "regular", "view"],
+	"stemmed": [
+		"lossless",
+		"regular",
+		"view"
+	],
 	"title": "Lossless Regular Views",
 	"type": "inproceedings",
 	"venue": "PODS",

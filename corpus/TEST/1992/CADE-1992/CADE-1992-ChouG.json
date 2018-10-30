@@ -1,6 +1,10 @@
 {
-	"author": ["Shang-Ching Chou", "Xiao-Shan Gao"],
-	"booktitle": "CADE",
+	"author": [
+		"Shang-Ching Chou",
+		"Xiao-Shan Gao"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/ChouG92",
 	"doi": "10.1007/3-540-55602-8_153",
@@ -10,11 +14,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["prove", "geometri", "statement", "of", "construct", "type"],
-	"tag": ["geometry", "proving"],
+	"stemmed": [
+		"prove",
+		"geometri",
+		"statement",
+		"of",
+		"construct",
+		"type"
+	],
+	"tag": [
+		"geometry",
+		"proving"
+	],
 	"title": "Proving Geometry Statements of Constructive Type",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

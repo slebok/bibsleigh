@@ -1,6 +1,10 @@
 {
-	"author": ["Reynold Cheng", "Dmitri V. Kalashnikov", "Sunil Prabhakar"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Reynold Cheng",
+		"Dmitri V. Kalashnikov",
+		"Sunil Prabhakar"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/ChengKP03",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/872757.872823",
 	"pages": "551-562",
 	"publisher": "ACM",
-	"stemmed": ["evalu", "probabilist", "queri", "over", "imprecis", "data"],
-	"tag": ["probability", "query"],
+	"stemmed": [
+		"evalu",
+		"probabilist",
+		"queri",
+		"over",
+		"imprecis",
+		"data"
+	],
+	"tag": [
+		"probability",
+		"query"
+	],
 	"title": "Evaluating Probabilistic Queries over Imprecise Data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

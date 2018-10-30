@@ -1,6 +1,11 @@
 {
-	"author": ["Franz Baader", "Stefan Borgwardt", "Barbara Morawska"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Franz Baader",
+		"Stefan Borgwardt",
+		"Barbara Morawska"
+	],
+	"booktitle": "Proceedings of the Sixth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2012",
 	"dblpkey": "conf/cade/BaaderBM12",
 	"doi": "10.1007/978-3-642-31365-3_5",
@@ -10,11 +15,30 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["sat", "encod", "of", "unif", "in", "r", "w", "r", "t", "cycl", "restrict", "ontolog"],
-	"tag": ["encoding", "ontology", "satisfiability", "strict", "unification"],
+	"stemmed": [
+		"sat",
+		"encod",
+		"of",
+		"unif",
+		"in",
+		"r",
+		"w",
+		"r",
+		"t",
+		"cycl",
+		"restrict",
+		"ontolog"
+	],
+	"tag": [
+		"encoding",
+		"ontology",
+		"satisfiability",
+		"strict",
+		"unification"
+	],
 	"title": "SAT Encoding of Unification in ℰℒℋ_R⁺ w.r.t. Cycle-Restricted Ontologies",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 7364,
+	"volume": "7364",
 	"year": 2012
 }

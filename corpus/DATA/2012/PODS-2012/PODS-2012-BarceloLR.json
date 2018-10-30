@@ -1,14 +1,29 @@
 {
-	"author": ["Pablo Barceló", "Leonid Libkin", "Miguel Romero"],
-	"booktitle": "PODS",
+	"author": [
+		"Pablo Barceló",
+		"Leonid Libkin",
+		"Miguel Romero"
+	],
+	"booktitle": "Proceedings of the 31st Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2012",
 	"dblpkey": "conf/pods/BarceloLR12",
 	"doi": "10.1145/2213556.2213591",
 	"ee": "http://doi.acm.org/10.1145/2213556.2213591",
 	"pages": "249-260",
 	"publisher": "ACM",
-	"stemmed": ["effici", "approxim", "of", "conjunct", "queri"],
-	"tag": ["approximate", "performance", "query"],
+	"stemmed": [
+		"effici",
+		"approxim",
+		"of",
+		"conjunct",
+		"queri"
+	],
+	"tag": [
+		"approximate",
+		"performance",
+		"query"
+	],
 	"title": "Efficient approximations of conjunctive queries",
 	"type": "inproceedings",
 	"venue": "PODS",

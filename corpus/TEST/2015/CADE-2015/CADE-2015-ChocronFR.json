@@ -1,6 +1,11 @@
 {
-	"author": ["Paula Chocron", "Pascal Fontaine", "Christophe Ringeissen"],
-	"booktitle": "CADE",
+	"author": [
+		"Paula Chocron",
+		"Pascal Fontaine",
+		"Christophe Ringeissen"
+	],
+	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
 	"dblpkey": "conf/cade/ChocronFR15",
 	"doi": "10.1007/978-3-319-21401-6_29",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "polit", "non", "disjoint", "combin", "method", "theori", "with", "bridg", "function", "revisit"],
-	"tag": ["revisited"],
+	"stemmed": [
+		"a",
+		"polit",
+		"non",
+		"disjoint",
+		"combin",
+		"method",
+		"theori",
+		"with",
+		"bridg",
+		"function",
+		"revisit"
+	],
+	"tag": [
+		"revisited"
+	],
 	"title": "A Polite Non-Disjoint Combination Method: Theories with Bridging Functions Revisited",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 9195,
+	"volume": "9195",
 	"year": 2015
 }

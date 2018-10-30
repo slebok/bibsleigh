@@ -1,14 +1,38 @@
 {
-	"author": ["Ilya Issenin", "Erik Brockmeyer", "Bart Durinck", "Nikil Dutt"],
-	"booktitle": "DAC",
+	"author": [
+		"Ilya Issenin",
+		"Erik Brockmeyer",
+		"Bart Durinck",
+		"Nikil Dutt"
+	],
+	"booktitle": "Proceedings of the 43rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/IsseninBDD06",
 	"doi": "10.1145/1146909.1146925",
 	"ee": "http://doi.acm.org/10.1145/1146909.1146925",
 	"pages": "49-52",
 	"publisher": "ACM",
-	"stemmed": ["multiprocessor", "system", "on", "chip", "data", "reus", "analysi", "for", "explor", "custom", "memori", "hierarchi"],
-	"tag": ["analysis", "memory management", "multi", "reuse"],
+	"stemmed": [
+		"multiprocessor",
+		"system",
+		"on",
+		"chip",
+		"data",
+		"reus",
+		"analysi",
+		"for",
+		"explor",
+		"custom",
+		"memori",
+		"hierarchi"
+	],
+	"tag": [
+		"analysis",
+		"memory management",
+		"multi",
+		"reuse"
+	],
 	"title": "Multiprocessor system-on-chip data reuse analysis for exploring customized memory hierarchies",
 	"type": "inproceedings",
 	"venue": "DAC",

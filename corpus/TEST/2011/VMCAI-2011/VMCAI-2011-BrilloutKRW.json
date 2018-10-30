@@ -1,6 +1,12 @@
 {
-	"author": ["Angelo Brillout", "Daniel Kröning", "Philipp Rümmer", "Thomas Wahl"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Angelo Brillout",
+		"Daniel Kröning",
+		"Philipp Rümmer",
+		"Thomas Wahl"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2011",
 	"dblpkey": "conf/vmcai/BrilloutKRW11",
 	"doi": "10.1007/978-3-642-18275-4_8",
@@ -10,11 +16,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["beyond", "quantifi", "free", "interpol", "in", "extens", "of", "presburg", "arithmet"],
-	"tag": ["quantifier"],
+	"stemmed": [
+		"beyond",
+		"quantifi",
+		"free",
+		"interpol",
+		"in",
+		"extens",
+		"of",
+		"presburg",
+		"arithmet"
+	],
+	"tag": [
+		"quantifier"
+	],
 	"title": "Beyond Quantifier-Free Interpolation in Extensions of Presburger Arithmetic",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 6538,
+	"volume": "6538",
 	"year": 2011
 }

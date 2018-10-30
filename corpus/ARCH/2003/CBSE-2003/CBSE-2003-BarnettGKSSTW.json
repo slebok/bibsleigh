@@ -1,10 +1,32 @@
 {
-	"address": ["Portland", "Oregon", "USA"],
-	"author": ["Mike Barnett", "Wolfgang Grieskamp", "Clemens Kerer", "Wolfram Schulte", "Clemens Szyperski", "Nikolai Tillmann", "Arthur Watson"],
+	"address": [
+		"Portland",
+		"Oregon",
+		"USA"
+	],
+	"author": [
+		"Mike Barnett",
+		"Wolfgang Grieskamp",
+		"Clemens Kerer",
+		"Wolfram Schulte",
+		"Clemens Szyperski",
+		"Nikolai Tillmann",
+		"Arthur Watson"
+	],
 	"booktitle": "Proceedings of the Sixth ICSE Workshop on Component-Based Software Engineering: Automated Reasoning and Prediction",
-	"pages": 6,
-	"stemmed": ["serious", "specif", "for", "compos", "compon"],
-	"tag": ["component", "specification"],
+	"booktitleshort": "CBSE",
+	"pages": "6",
+	"stemmed": [
+		"serious",
+		"specif",
+		"for",
+		"compos",
+		"compon"
+	],
+	"tag": [
+		"component",
+		"specification"
+	],
 	"title": "Serious Specification for Composing Components",
 	"type": "inproceedings",
 	"venue": "CBSE",

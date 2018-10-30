@@ -1,14 +1,35 @@
 {
-	"author": ["Engin Ipek", "Jeremy Condit", "Edmund B. Nightingale", "Doug Burger", "Thomas Moscibroda"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Engin Ipek",
+		"Jeremy Condit",
+		"Edmund B. Nightingale",
+		"Doug Burger",
+		"Thomas Moscibroda"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2010",
 	"dblpkey": "conf/asplos/IpekCNBM10",
 	"doi": "10.1145/1736020.1736023",
 	"ee": "http://doi.acm.org/10.1145/1736020.1736023",
 	"pages": "3-14",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "replic", "memori", "build", "reliabl", "system", "from", "nanoscal", "resist", "memori"],
-	"tag": ["memory management", "reliability"],
+	"stemmed": [
+		"dynam",
+		"replic",
+		"memori",
+		"build",
+		"reliabl",
+		"system",
+		"from",
+		"nanoscal",
+		"resist",
+		"memori"
+	],
+	"tag": [
+		"memory management",
+		"reliability"
+	],
 	"title": "Dynamically replicated memory: building reliable systems from nanoscale resistive memories",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

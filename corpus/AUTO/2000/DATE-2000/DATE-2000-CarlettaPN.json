@@ -1,6 +1,11 @@
 {
-	"author": ["Joan Carletta", "Christos A. Papachristou", "Mehrdad Nourani"],
-	"booktitle": "DATE",
+	"author": [
+		"Joan Carletta",
+		"Christos A. Papachristou",
+		"Mehrdad Nourani"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/CarlettaPN00",
 	"doi": "10.1109/DATE.2000.840867",
@@ -8,8 +13,21 @@
 	"pages": "723-728",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["detect", "undetect", "control", "fault", "use", "power", "analysi"],
-	"tag": ["analysis", "detection", "fault", "using"],
+	"stemmed": [
+		"detect",
+		"undetect",
+		"control",
+		"fault",
+		"use",
+		"power",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"detection",
+		"fault",
+		"using"
+	],
 	"title": "Detecting Undetectable Controller Faults Using Power Analysis",
 	"type": "inproceedings",
 	"venue": "DATE",

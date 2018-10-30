@@ -1,6 +1,7 @@
 {
 	"author": "Cyril W. Cleverdon",
 	"booktitle": "Proceedings of the 14th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1991/P003.pdf",
 	"crossref": "conf/sigir/91",
 	"dblpkey": "conf/sigir/Cleverdon91",
@@ -8,8 +9,20 @@
 	"ee": "http://doi.acm.org/10.1145/122860.122861",
 	"pages": "3-12",
 	"publisher": "ACM",
-	"stemmed": ["the", "signific", "of", "the", "cranfield", "test", "on", "index", "languag"],
-	"tag": ["testing"],
+	"stemmed": [
+		"the",
+		"signific",
+		"of",
+		"the",
+		"cranfield",
+		"test",
+		"on",
+		"index",
+		"languag"
+	],
+	"tag": [
+		"testing"
+	],
 	"title": "The Significance of the Cranfield Tests on Index Languages",
 	"type": "inproceedings",
 	"venue": "SIGIR",

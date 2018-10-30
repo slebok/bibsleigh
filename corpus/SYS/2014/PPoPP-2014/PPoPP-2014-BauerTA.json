@@ -1,14 +1,32 @@
 {
-	"author": ["Michael Bauer", "Sean Treichler", "Alex Aiken"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Michael Bauer",
+		"Sean Treichler",
+		"Alex Aiken"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/BauerTA14",
 	"doi": "10.1145/2555243.2555258",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555258",
 	"pages": "119-130",
 	"publisher": "ACM",
-	"stemmed": ["sing", "leverag", "warp", "special", "for", "high", "perform", "on", "gpus"],
-	"tag": ["named", "performance"],
+	"stemmed": [
+		"sing",
+		"leverag",
+		"warp",
+		"special",
+		"for",
+		"high",
+		"perform",
+		"on",
+		"gpus"
+	],
+	"tag": [
+		"named",
+		"performance"
+	],
 	"title": "Singe: leveraging warp specialization for high performance on GPUs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

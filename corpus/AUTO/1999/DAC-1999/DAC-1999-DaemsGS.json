@@ -1,13 +1,33 @@
 {
-	"author": ["Walter Daems", "Georges G. E. Gielen", "Willy M. C. Sansen"],
-	"booktitle": "DAC",
+	"author": [
+		"Walter Daems",
+		"Georges G. E. Gielen",
+		"Willy M. C. Sansen"
+	],
+	"booktitle": "Proceedings of the 36th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/DaemsGS99",
 	"doi": "10.1145/309847.310106",
 	"ee": "http://doi.acm.org/10.1145/309847.310106",
 	"pages": "958-963",
 	"publisher": "ACM Press",
-	"stemmed": ["circuit", "complex", "reduct", "for", "symbol", "analysi", "of", "analog", "integr", "circuit"],
-	"tag": ["analysis", "complexity", "reduction"],
+	"stemmed": [
+		"circuit",
+		"complex",
+		"reduct",
+		"for",
+		"symbol",
+		"analysi",
+		"of",
+		"analog",
+		"integr",
+		"circuit"
+	],
+	"tag": [
+		"analysis",
+		"complexity",
+		"reduction"
+	],
 	"title": "Circuit Complexity Reduction for Symbolic Analysis of Analog Integrated Circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

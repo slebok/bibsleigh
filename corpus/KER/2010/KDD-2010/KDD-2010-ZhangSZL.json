@@ -1,14 +1,36 @@
 {
-	"author": ["Jianwen Zhang", "Yangqiu Song", "Changshui Zhang", "Shixia Liu"],
-	"booktitle": "KDD",
+	"author": [
+		"Jianwen Zhang",
+		"Yangqiu Song",
+		"Changshui Zhang",
+		"Shixia Liu"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/ZhangSZL10",
 	"doi": "10.1145/1835804.1835940",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835940",
 	"pages": "1079-1088",
 	"publisher": "ACM",
-	"stemmed": ["evolutionari", "hierarch", "dirichlet", "process", "for", "multipl", "correl", "time", "vari", "corpora"],
-	"tag": ["corpus", "correlation", "multi", "process"],
+	"stemmed": [
+		"evolutionari",
+		"hierarch",
+		"dirichlet",
+		"process",
+		"for",
+		"multipl",
+		"correl",
+		"time",
+		"vari",
+		"corpora"
+	],
+	"tag": [
+		"corpus",
+		"correlation",
+		"multi",
+		"process"
+	],
 	"title": "Evolutionary hierarchical dirichlet processes for multiple correlated time-varying corpora",
 	"type": "inproceedings",
 	"venue": "KDD",

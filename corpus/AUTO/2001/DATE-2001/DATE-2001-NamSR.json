@@ -1,14 +1,35 @@
 {
-	"author": ["Gi-Joon Nam", "Karem A. Sakallah", "Rob A. Rutenbar"],
-	"booktitle": "DATE",
+	"author": [
+		"Gi-Joon Nam",
+		"Karem A. Sakallah",
+		"Rob A. Rutenbar"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2001",
 	"dblpkey": "conf/date/NamSR01",
 	"doi": "10.1145/367072.367405",
 	"ee": "http://doi.acm.org/10.1145/367072.367405",
 	"pages": "560-565",
 	"publisher": "ACM",
-	"stemmed": ["a", "boolean", "satisfi", "base", "increment", "rerout", "approach", "with", "applic", "to", "fpgas"],
-	"tag": ["approach", "incremental", "satisfiability"],
+	"stemmed": [
+		"a",
+		"boolean",
+		"satisfi",
+		"base",
+		"increment",
+		"rerout",
+		"approach",
+		"with",
+		"applic",
+		"to",
+		"fpgas"
+	],
+	"tag": [
+		"approach",
+		"incremental",
+		"satisfiability"
+	],
 	"title": "A boolean satisfiability-based incremental rerouting approach with application to FPGAs",
 	"type": "inproceedings",
 	"venue": "DATE",

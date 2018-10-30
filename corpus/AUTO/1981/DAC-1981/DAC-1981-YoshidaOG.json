@@ -1,13 +1,31 @@
 {
-	"acmid": 802376,
-	"author": ["J. Yoshida", "T. Ozaki", "Y. Goto"],
-	"booktitle": "DAC",
+	"acmid": "802376",
+	"author": [
+		"J. Yoshida",
+		"T. Ozaki",
+		"Y. Goto"
+	],
+	"booktitle": "Proceedings of the 18th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1981",
 	"dblpkey": "conf/dac/YoshidaOG81",
 	"pages": "690-695",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["panamap", "b", "a", "mask", "verif", "system", "for", "bipolar", "ic"],
-	"tag": ["named", "verification"],
+	"stemmed": [
+		"panamap",
+		"b",
+		"a",
+		"mask",
+		"verif",
+		"system",
+		"for",
+		"bipolar",
+		"ic"
+	],
+	"tag": [
+		"named",
+		"verification"
+	],
 	"title": "PANAMAP-B: A mask verification system for bipolar IC",
 	"type": "inproceedings",
 	"venue": "DAC",

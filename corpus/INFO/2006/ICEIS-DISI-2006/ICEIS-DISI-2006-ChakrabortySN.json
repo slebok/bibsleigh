@@ -1,11 +1,30 @@
 {
-	"author": ["Liton Chakraborty", "Ajit Singh", "Kshirasagar Naik"],
-	"booktitle": "ICEIS (1)",
+	"author": [
+		"Liton Chakraborty",
+		"Ajit Singh",
+		"Kshirasagar Naik"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Enterprise Information Systems: Databases and Information Systems Integration",
+	"booktitleshort": "ICEIS DISI",
 	"crossref": "conf/iceis/2006",
 	"dblpkey": "conf/iceis/ChakrabortySN06",
 	"pages": "11-21",
-	"stemmed": ["scalabl", "updat", "propag", "in", "partial", "replic", "disconnect", "client", "server", "databas"],
-	"tag": ["database", "scalability"],
+	"stemmed": [
+		"scalabl",
+		"updat",
+		"propag",
+		"in",
+		"partial",
+		"replic",
+		"disconnect",
+		"client",
+		"server",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"scalability"
+	],
 	"title": "Scalable Update Propagation in Partially Replicated, Disconnected Client Server Databases",
 	"type": "inproceedings",
 	"venue": "ICEIS",

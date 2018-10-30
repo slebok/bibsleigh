@@ -1,14 +1,28 @@
 {
-	"author": ["Girija J. Narlikar", "Guy E. Blelloch"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Girija J. Narlikar",
+		"Guy E. Blelloch"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1997",
 	"dblpkey": "conf/ppopp/NarlikarB97",
 	"doi": "10.1145/263764.263770",
 	"ee": "http://doi.acm.org/10.1145/263764.263770",
 	"pages": "25-36",
 	"publisher": "ACM",
-	"stemmed": ["space", "effici", "implement", "of", "nest", "parallel"],
-	"tag": ["implementation", "parallel"],
+	"stemmed": [
+		"space",
+		"effici",
+		"implement",
+		"of",
+		"nest",
+		"parallel"
+	],
+	"tag": [
+		"implementation",
+		"parallel"
+	],
 	"title": "Space-Efficient Implementation of Nested Parallelism",
 	"type": "inproceedings",
 	"venue": "PPoPP",

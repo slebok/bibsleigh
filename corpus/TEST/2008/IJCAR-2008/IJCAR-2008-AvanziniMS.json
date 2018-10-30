@@ -1,6 +1,11 @@
 {
-	"author": ["Martin Avanzini", "Georg Moser", "Andreas Schnabl"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Martin Avanzini",
+		"Georg Moser",
+		"Andreas Schnabl"
+	],
+	"booktitle": "Proceedings of the Fourth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2008",
 	"dblpkey": "conf/cade/AvanziniMS08",
 	"doi": "10.1007/978-3-540-71070-7_10",
@@ -10,11 +15,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["autom", "implicit", "comput", "complex", "analysi", "system", "descript"],
-	"tag": ["analysis", "automation", "complexity"],
+	"stemmed": [
+		"autom",
+		"implicit",
+		"comput",
+		"complex",
+		"analysi",
+		"system",
+		"descript"
+	],
+	"tag": [
+		"analysis",
+		"automation",
+		"complexity"
+	],
 	"title": "Automated Implicit Computational Complexity Analysis (System Description)",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 5195,
+	"volume": "5195",
 	"year": 2008
 }

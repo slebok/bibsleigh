@@ -1,13 +1,30 @@
 {
-	"author": ["Chee Yong Chan", "Wenfei Fan", "Yiming Zeng"],
-	"booktitle": "VLDB",
+	"author": [
+		"Chee Yong Chan",
+		"Wenfei Fan",
+		"Yiming Zeng"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/ChanFZ04",
 	"ee": "http://www.vldb.org/conf/2004/RS4P4.PDF",
 	"pages": "156-167",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["tame", "x", "path", "queri", "by", "minim", "wildcard", "step"],
-	"tag": ["query", "xpath"],
+	"stemmed": [
+		"tame",
+		"x",
+		"path",
+		"queri",
+		"by",
+		"minim",
+		"wildcard",
+		"step"
+	],
+	"tag": [
+		"query",
+		"xpath"
+	],
 	"title": "Taming XPath Queries by Minimizing Wildcard Steps",
 	"type": "inproceedings",
 	"venue": "VLDB",

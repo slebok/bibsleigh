@@ -1,14 +1,27 @@
 {
-	"author": ["Josif Grabocka", "Nicolas Schilling", "Martin Wistuba", "Lars Schmidt-Thieme"],
-	"booktitle": "KDD",
+	"author": [
+		"Josif Grabocka",
+		"Nicolas Schilling",
+		"Martin Wistuba",
+		"Lars Schmidt-Thieme"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/GrabockaSWS14",
 	"doi": "10.1145/2623330.2623613",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623613",
 	"pages": "392-401",
 	"publisher": "ACM",
-	"stemmed": ["learn", "time", "seri", "shapelet"],
-	"tag": ["learning"],
+	"stemmed": [
+		"learn",
+		"time",
+		"seri",
+		"shapelet"
+	],
+	"tag": [
+		"learning"
+	],
 	"title": "Learning time-series shapelets",
 	"type": "inproceedings",
 	"venue": "KDD",

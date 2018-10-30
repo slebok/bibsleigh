@@ -1,14 +1,32 @@
 {
-	"author": ["Zheng Zhang", "Josep Torrellas"],
-	"booktitle": "HPCA",
+	"author": [
+		"Zheng Zhang",
+		"Josep Torrellas"
+	],
+	"booktitle": "Proceedings of the Third International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1997",
 	"dblpkey": "conf/hpca/ZhangT97",
 	"doi": "10.1109/HPCA.1997.569686",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1997.569686", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1997.569686"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1997.569686",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1997.569686"
+	],
 	"pages": "272-281",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["reduc", "remot", "conflict", "miss", "numa", "with", "remot", "cach", "versus", "coma"],
+	"stemmed": [
+		"reduc",
+		"remot",
+		"conflict",
+		"miss",
+		"numa",
+		"with",
+		"remot",
+		"cach",
+		"versus",
+		"coma"
+	],
 	"title": "Reducing Remote Conflict Misses: NUMA with Remote Cache versus COMA",
 	"type": "inproceedings",
 	"venue": "HPCA",

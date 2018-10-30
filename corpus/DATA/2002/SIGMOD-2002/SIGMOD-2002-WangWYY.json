@@ -1,6 +1,11 @@
 {
-	"author": ["Haixun Wang", "Wei Wang", "Jiong Yang", "Philip S. Yu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Haixun Wang",
+		"Wei Wang",
+		"Jiong Yang",
+		"Philip S. Yu"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/WangWYY02",
@@ -8,8 +13,22 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564737",
 	"pages": "394-405",
 	"publisher": "ACM",
-	"stemmed": ["cluster", "by", "pattern", "similar", "in", "larg", "data", "set"],
-	"tag": ["clustering", "scalability", "set", "similarity"],
+	"stemmed": [
+		"cluster",
+		"by",
+		"pattern",
+		"similar",
+		"in",
+		"larg",
+		"data",
+		"set"
+	],
+	"tag": [
+		"clustering",
+		"scalability",
+		"set",
+		"similarity"
+	],
 	"title": "Clustering by pattern similarity in large data sets",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

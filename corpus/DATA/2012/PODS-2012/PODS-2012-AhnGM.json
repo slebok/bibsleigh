@@ -1,14 +1,29 @@
 {
-	"author": ["Kook Jin Ahn", "Sudipto Guha", "Andrew McGregor"],
-	"booktitle": "PODS",
+	"author": [
+		"Kook Jin Ahn",
+		"Sudipto Guha",
+		"Andrew McGregor"
+	],
+	"booktitle": "Proceedings of the 31st Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2012",
 	"dblpkey": "conf/pods/AhnGM12",
 	"doi": "10.1145/2213556.2213560",
 	"ee": "http://doi.acm.org/10.1145/2213556.2213560",
 	"pages": "5-14",
 	"publisher": "ACM",
-	"stemmed": ["graph", "sketch", "sparsif", "spanner", "and", "subgraph"],
-	"tag": ["graph", "sketching"],
+	"stemmed": [
+		"graph",
+		"sketch",
+		"sparsif",
+		"spanner",
+		"and",
+		"subgraph"
+	],
+	"tag": [
+		"graph",
+		"sketching"
+	],
 	"title": "Graph sketches: sparsification, spanners, and subgraphs",
 	"type": "inproceedings",
 	"venue": "PODS",

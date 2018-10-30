@@ -1,14 +1,38 @@
 {
-	"author": ["Noam Koenigstein", "Gideon Dror", "Yehuda Koren"],
-	"booktitle": "RecSys",
+	"author": [
+		"Noam Koenigstein",
+		"Gideon Dror",
+		"Yehuda Koren"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2011",
 	"dblpkey": "conf/recsys/KoenigsteinDK11",
 	"doi": "10.1145/2043932.2043964",
 	"ee": "http://doi.acm.org/10.1145/2043932.2043964",
 	"pages": "165-172",
 	"publisher": "ACM",
-	"stemmed": ["yahoo", "music", "recommend", "model", "music", "rate", "with", "tempor", "dynam", "and", "item", "taxonomi"],
-	"tag": ["exclamation", "modelling", "music", "recommendation", "taxonomy"],
+	"stemmed": [
+		"yahoo",
+		"music",
+		"recommend",
+		"model",
+		"music",
+		"rate",
+		"with",
+		"tempor",
+		"dynam",
+		"and",
+		"item",
+		"taxonomi"
+	],
+	"tag": [
+		"exclamation",
+		"modelling",
+		"music",
+		"recommendation",
+		"taxonomy"
+	],
 	"title": "Yahoo! music recommendations: modeling music ratings with temporal dynamics and item taxonomy",
 	"type": "inproceedings",
 	"venue": "RecSys",

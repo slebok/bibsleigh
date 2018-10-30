@@ -1,14 +1,27 @@
 {
 	"author": "Raymie Stata",
-	"booktitle": "PPOPP",
+	"booktitle": "Proceedings of the 11th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2006",
 	"dblpkey": "conf/ppopp/Stata06",
 	"doi": "10.1145/1122971.1122973",
 	"ee": "http://doi.acm.org/10.1145/1122971.1122973",
-	"pages": 58,
+	"pages": "58",
 	"publisher": "ACM",
-	"stemmed": ["parallel", "program", "in", "modern", "web", "search", "engin"],
-	"tag": ["parallel", "programming", "web"],
+	"stemmed": [
+		"parallel",
+		"program",
+		"in",
+		"modern",
+		"web",
+		"search",
+		"engin"
+	],
+	"tag": [
+		"parallel",
+		"programming",
+		"web"
+	],
 	"title": "Parallel programming in modern web search engines",
 	"type": "inproceedings",
 	"venue": "PPoPP",

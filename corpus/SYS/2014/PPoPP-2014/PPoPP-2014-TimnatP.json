@@ -1,14 +1,32 @@
 {
-	"author": ["Shahar Timnat", "Erez Petrank"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Shahar Timnat",
+		"Erez Petrank"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/TimnatP14",
 	"doi": "10.1145/2555243.2555261",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555261",
 	"pages": "357-368",
 	"publisher": "ACM",
-	"stemmed": ["a", "practic", "wait", "free", "simul", "for", "lock", "free", "data", "structur"],
-	"tag": ["data type", "simulation"],
+	"stemmed": [
+		"a",
+		"practic",
+		"wait",
+		"free",
+		"simul",
+		"for",
+		"lock",
+		"free",
+		"data",
+		"structur"
+	],
+	"tag": [
+		"data type",
+		"simulation"
+	],
 	"title": "A practical wait-free simulation for lock-free data structures",
 	"type": "inproceedings",
 	"venue": "PPoPP",

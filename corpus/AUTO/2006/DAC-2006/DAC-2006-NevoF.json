@@ -1,14 +1,26 @@
 {
-	"author": ["Ziv Nevo", "Monica Farkash"],
-	"booktitle": "DAC",
+	"author": [
+		"Ziv Nevo",
+		"Monica Farkash"
+	],
+	"booktitle": "Proceedings of the 43rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/NevoF06",
 	"doi": "10.1145/1146909.1146969",
 	"ee": "http://doi.acm.org/10.1145/1146909.1146969",
 	"pages": "223-228",
 	"publisher": "ACM",
-	"stemmed": ["distribut", "dynam", "bdd", "reorder"],
-	"tag": ["distributed", "order"],
+	"stemmed": [
+		"distribut",
+		"dynam",
+		"bdd",
+		"reorder"
+	],
+	"tag": [
+		"distributed",
+		"order"
+	],
 	"title": "Distributed dynamic BDD reordering",
 	"type": "inproceedings",
 	"venue": "DAC",

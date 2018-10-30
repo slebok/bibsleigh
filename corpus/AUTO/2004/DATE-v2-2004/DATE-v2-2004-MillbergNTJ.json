@@ -1,6 +1,12 @@
 {
-	"author": ["Mikael Millberg", "Erland Nilsson", "Rikard Thid", "Axel Jantsch"],
-	"booktitle": "DATE",
+	"author": [
+		"Mikael Millberg",
+		"Erland Nilsson",
+		"Rikard Thid",
+		"Axel Jantsch"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/MillbergNTJ04",
 	"doi": "10.1109/DATE.2004.1269001",
@@ -8,8 +14,27 @@
 	"pages": "890-895",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["guarante", "bandwidth", "use", "loop", "contain", "in", "tempor", "disjoint", "network", "within", "the", "nostrum", "network", "on", "chip"],
-	"tag": ["network", "using"],
+	"stemmed": [
+		"guarante",
+		"bandwidth",
+		"use",
+		"loop",
+		"contain",
+		"in",
+		"tempor",
+		"disjoint",
+		"network",
+		"within",
+		"the",
+		"nostrum",
+		"network",
+		"on",
+		"chip"
+	],
+	"tag": [
+		"network",
+		"using"
+	],
 	"title": "Guaranteed Bandwidth Using Looped Containers in Temporally Disjoint Networks within the Nostrum Network on Chip",
 	"type": "inproceedings",
 	"venue": "DATE",

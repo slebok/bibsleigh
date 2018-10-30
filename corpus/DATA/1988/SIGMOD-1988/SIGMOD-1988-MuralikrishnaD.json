@@ -1,15 +1,44 @@
 {
-	"author": ["M. Muralikrishna", "David J. DeWitt"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"M. Muralikrishna",
+		"David J. DeWitt"
+	],
+	"booktitle": "Proceedings of the 18th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD88/P028.PDF",
-	"cite": ["...", "conf/sigmod/Guttman84", "journals/is/LiouY77", "journals/tods/NievergeltHS84", "conf/sigmod/Robinson81", "...", "conf/sigmod/SelingerACLP79", "conf/sigmod/Piatetsky-ShapiroC84", "books/aw/Zipf49"],
+	"cite": [
+		"...",
+		"conf/sigmod/Guttman84",
+		"journals/is/LiouY77",
+		"journals/tods/NievergeltHS84",
+		"conf/sigmod/Robinson81",
+		"...",
+		"conf/sigmod/SelingerACLP79",
+		"conf/sigmod/Piatetsky-ShapiroC84",
+		"books/aw/Zipf49"
+	],
 	"crossref": "conf/sigmod/88",
 	"dblpkey": "conf/sigmod/MuralikrishnaD88",
 	"doi": "10.1145/50202.50205",
 	"ee": "http://doi.acm.org/10.1145/50202.50205",
 	"pages": "28-36",
-	"stemmed": ["equi", "depth", "histogram", "for", "estim", "select", "factor", "for", "multi", "dimension", "queri"],
-	"tag": ["multi", "query"],
+	"stemmed": [
+		"equi",
+		"depth",
+		"histogram",
+		"for",
+		"estim",
+		"select",
+		"factor",
+		"for",
+		"multi",
+		"dimension",
+		"queri"
+	],
+	"tag": [
+		"multi",
+		"query"
+	],
 	"title": "Equi-Depth Histograms For Estimating Selectivity Factors For Multi-Dimensional Queries",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

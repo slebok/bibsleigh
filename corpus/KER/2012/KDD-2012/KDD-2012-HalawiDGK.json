@@ -1,14 +1,34 @@
 {
-	"author": ["Guy Halawi", "Gideon Dror", "Evgeniy Gabrilovich", "Yehuda Koren"],
-	"booktitle": "KDD",
+	"author": [
+		"Guy Halawi",
+		"Gideon Dror",
+		"Evgeniy Gabrilovich",
+		"Yehuda Koren"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/HalawiDGK12",
 	"doi": "10.1145/2339530.2339751",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339751",
 	"pages": "1406-1414",
 	"publisher": "ACM",
-	"stemmed": ["larg", "scale", "learn", "of", "word", "related", "with", "constraint"],
-	"tag": ["constraints", "learning", "scalability", "word"],
+	"stemmed": [
+		"larg",
+		"scale",
+		"learn",
+		"of",
+		"word",
+		"related",
+		"with",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"learning",
+		"scalability",
+		"word"
+	],
 	"title": "Large-scale learning of word relatedness with constraints",
 	"type": "inproceedings",
 	"venue": "KDD",

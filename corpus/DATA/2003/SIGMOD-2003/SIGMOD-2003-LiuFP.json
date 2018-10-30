@@ -1,15 +1,33 @@
 {
-	"author": ["David T. Liu", "Michael J. Franklin", "Devesh Parekh"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"David T. Liu",
+		"Michael J. Franklin",
+		"Devesh Parekh"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/LiuFP03",
 	"doi": "10.1145/872757.872846",
 	"ee": "http://doi.acm.org/10.1145/872757.872846",
-	"pages": 660,
+	"pages": "660",
 	"publisher": "ACM",
-	"stemmed": ["grid", "db", "a", "databas", "interfac", "to", "the", "grid"],
-	"tag": ["database", "grid", "interface", "named"],
+	"stemmed": [
+		"grid",
+		"db",
+		"a",
+		"databas",
+		"interfac",
+		"to",
+		"the",
+		"grid"
+	],
+	"tag": [
+		"database",
+		"grid",
+		"interface",
+		"named"
+	],
 	"title": "GridDB: A Database Interface to the Grid",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

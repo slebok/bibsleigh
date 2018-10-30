@@ -1,6 +1,11 @@
 {
-	"author": ["Alin Dobra", "Minos N. Garofalakis", "Johannes Gehrke", "Rajeev Rastogi"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Alin Dobra",
+		"Minos N. Garofalakis",
+		"Johannes Gehrke",
+		"Rajeev Rastogi"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/DobraGGR02",
@@ -8,8 +13,19 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564699",
 	"pages": "61-72",
 	"publisher": "ACM",
-	"stemmed": ["process", "complex", "aggreg", "queri", "over", "data", "stream"],
-	"tag": ["data type", "query"],
+	"stemmed": [
+		"process",
+		"complex",
+		"aggreg",
+		"queri",
+		"over",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"data type",
+		"query"
+	],
 	"title": "Processing complex aggregate queries over data streams",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

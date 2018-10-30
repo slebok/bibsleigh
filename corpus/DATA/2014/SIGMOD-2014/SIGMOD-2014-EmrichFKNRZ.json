@@ -1,6 +1,13 @@
 {
-	"author": ["Tobias Emrich", "Maximilian Franzke", "Hans-Peter Kriegel", "Johannes Niedermayer", "Matthias Renz", "Andreas Züfle"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Tobias Emrich",
+		"Maximilian Franzke",
+		"Hans-Peter Kriegel",
+		"Johannes Niedermayer",
+		"Matthias Renz",
+		"Andreas Züfle"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/EmrichFKNRZ14",
@@ -8,8 +15,21 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2594523",
 	"pages": "1087-1090",
 	"publisher": "ACM",
-	"stemmed": ["an", "extend", "framework", "for", "manag", "uncertain", "spatio", "tempor", "data"],
-	"tag": ["framework", "nondeterminism"],
+	"stemmed": [
+		"an",
+		"extend",
+		"framework",
+		"for",
+		"manag",
+		"uncertain",
+		"spatio",
+		"tempor",
+		"data"
+	],
+	"tag": [
+		"framework",
+		"nondeterminism"
+	],
 	"title": "An extendable framework for managing uncertain spatio-temporal data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

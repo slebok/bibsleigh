@@ -1,6 +1,9 @@
 {
-	"author": ["Brian Babcock", "Chris Olston"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Brian Babcock",
+		"Chris Olston"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/BabcockO03",
@@ -8,8 +11,16 @@
 	"ee": "http://doi.acm.org/10.1145/872757.872764",
 	"pages": "28-39",
 	"publisher": "ACM",
-	"stemmed": ["distribut", "top", "k", "monitor"],
-	"tag": ["distributed", "monitoring"],
+	"stemmed": [
+		"distribut",
+		"top",
+		"k",
+		"monitor"
+	],
+	"tag": [
+		"distributed",
+		"monitoring"
+	],
 	"title": "Distributed Top-K Monitoring",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

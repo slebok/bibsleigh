@@ -1,13 +1,36 @@
 {
-	"author": ["Yunyue Zhu", "Dennis Shasha"],
-	"booktitle": "VLDB",
+	"author": [
+		"Yunyue Zhu",
+		"Dennis Shasha"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/ZhuS02",
 	"ee": "http://www.vldb.org/conf/2002/S10P04.pdf",
 	"pages": "358-369",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["stat", "stream", "statist", "monitor", "of", "thousand", "of", "data", "stream", "in", "real", "time"],
-	"tag": ["data type", "monitoring", "named", "realtime", "statistics"],
+	"stemmed": [
+		"stat",
+		"stream",
+		"statist",
+		"monitor",
+		"of",
+		"thousand",
+		"of",
+		"data",
+		"stream",
+		"in",
+		"real",
+		"time"
+	],
+	"tag": [
+		"data type",
+		"monitoring",
+		"named",
+		"realtime",
+		"statistics"
+	],
 	"title": "StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,10 @@
 {
-	"author": ["Yoshiaki Mizuuchi", "Keishi Tajima"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Yoshiaki Mizuuchi",
+		"Keishi Tajima"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Hypertext and Hypermedia",
+	"booktitleshort": "HT",
 	"cdrom": "HT1999/P013.pdf",
 	"crossref": "conf/ht/99",
 	"dblpkey": "conf/ht/MizuuchiT99",
@@ -8,8 +12,17 @@
 	"ee": "http://doi.acm.org/10.1145/294469.294474",
 	"pages": "13-22",
 	"publisher": "ACM",
-	"stemmed": ["find", "context", "path", "for", "web", "page"],
-	"tag": ["web"],
+	"stemmed": [
+		"find",
+		"context",
+		"path",
+		"for",
+		"web",
+		"page"
+	],
+	"tag": [
+		"web"
+	],
 	"title": "Finding Context Paths for Web Pages",
 	"type": "inproceedings",
 	"venue": "HT",

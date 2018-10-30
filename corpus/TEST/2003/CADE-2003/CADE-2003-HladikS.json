@@ -1,6 +1,10 @@
 {
-	"author": ["Jan Hladik", "Ulrike Sattler"],
-	"booktitle": "CADE",
+	"author": [
+		"Jan Hladik",
+		"Ulrike Sattler"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2003",
 	"dblpkey": "conf/cade/HladikS03",
 	"doi": "10.1007/978-3-540-45085-6_8",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "translat", "of", "loop", "altern", "automata", "into", "descript", "logic"],
-	"tag": ["automaton", "logic"],
+	"stemmed": [
+		"a",
+		"translat",
+		"of",
+		"loop",
+		"altern",
+		"automata",
+		"into",
+		"descript",
+		"logic"
+	],
+	"tag": [
+		"automaton",
+		"logic"
+	],
 	"title": "A Translation of Looping Alternating Automata into Description Logics",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2741,
+	"volume": "2741",
 	"year": 2003
 }

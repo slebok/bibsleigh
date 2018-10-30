@@ -1,14 +1,32 @@
 {
-	"author": ["Daniel Ramage", "Christopher D. Manning", "Susan T. Dumais"],
-	"booktitle": "KDD",
+	"author": [
+		"Daniel Ramage",
+		"Christopher D. Manning",
+		"Susan T. Dumais"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/RamageMD11",
 	"doi": "10.1145/2020408.2020481",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020481",
 	"pages": "457-465",
 	"publisher": "ACM",
-	"stemmed": ["partial", "label", "topic", "model", "for", "interpret", "text", "mine"],
-	"tag": ["mining", "modelling", "topic"],
+	"stemmed": [
+		"partial",
+		"label",
+		"topic",
+		"model",
+		"for",
+		"interpret",
+		"text",
+		"mine"
+	],
+	"tag": [
+		"mining",
+		"modelling",
+		"topic"
+	],
 	"title": "Partially labeled topic models for interpretable text mining",
 	"type": "inproceedings",
 	"venue": "KDD",

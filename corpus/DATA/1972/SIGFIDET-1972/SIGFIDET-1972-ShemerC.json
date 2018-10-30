@@ -1,13 +1,31 @@
 {
-	"author": ["Jack E. Shemer", "Arthur J. Collmeyer"],
-	"booktitle": "SIGFIDET Workshop",
+	"author": [
+		"Jack E. Shemer",
+		"Arthur J. Collmeyer"
+	],
+	"booktitle": "Proceedings of the Third ACM-SIGFIDET Workshop on Data Description, Access and Control",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGFIDET72/P147.pdf",
 	"crossref": "conf/sigmod/72",
 	"dblpkey": "conf/sigmod/ShemerC72",
 	"pages": "147-163",
 	"publisher": "ACM",
-	"stemmed": ["databas", "share", "a", "studi", "of", "interfer", "roadblock", "and", "deadlock"],
-	"tag": ["case study", "concurrent", "database"],
+	"stemmed": [
+		"databas",
+		"share",
+		"a",
+		"studi",
+		"of",
+		"interfer",
+		"roadblock",
+		"and",
+		"deadlock"
+	],
+	"tag": [
+		"case study",
+		"concurrent",
+		"database"
+	],
 	"title": "Database Sharing: A Study of Interference, Roadblock and Deadlock",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

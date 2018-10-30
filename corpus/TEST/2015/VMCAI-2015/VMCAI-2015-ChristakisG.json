@@ -1,6 +1,10 @@
 {
-	"author": ["Maria Christakis", "Patrice Godefroid"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Maria Christakis",
+		"Patrice Godefroid"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2015",
 	"dblpkey": "conf/vmcai/ChristakisG15",
 	"doi": "10.1007/978-3-662-46081-8_21",
@@ -10,11 +14,34 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["prove", "memori", "safeti", "of", "the", "ani", "window", "imag", "parser", "use", "composit", "exhaust", "test"],
-	"tag": ["composition", "image", "memory management", "parsing", "proving", "safety", "testing", "using"],
+	"stemmed": [
+		"prove",
+		"memori",
+		"safeti",
+		"of",
+		"the",
+		"ani",
+		"window",
+		"imag",
+		"parser",
+		"use",
+		"composit",
+		"exhaust",
+		"test"
+	],
+	"tag": [
+		"composition",
+		"image",
+		"memory management",
+		"parsing",
+		"proving",
+		"safety",
+		"testing",
+		"using"
+	],
 	"title": "Proving Memory Safety of the ANI Windows Image Parser Using Compositional Exhaustive Testing",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 8931,
+	"volume": "8931",
 	"year": 2015
 }

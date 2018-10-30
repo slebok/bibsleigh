@@ -1,14 +1,37 @@
 {
-	"author": ["David M. Fram", "June S. Almenoff", "William DuMouchel"],
-	"booktitle": "KDD",
+	"author": [
+		"David M. Fram",
+		"June S. Almenoff",
+		"William DuMouchel"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2003",
 	"dblpkey": "conf/kdd/FramAD03",
 	"doi": "10.1145/956750.956792",
 	"ee": "http://doi.acm.org/10.1145/956750.956792",
 	"pages": "359-368",
 	"publisher": "ACM",
-	"stemmed": ["empir", "bayesian", "data", "mine", "for", "discov", "pattern", "in", "post", "market", "drug", "safeti"],
-	"tag": ["data mining", "empirical", "mining", "safety"],
+	"stemmed": [
+		"empir",
+		"bayesian",
+		"data",
+		"mine",
+		"for",
+		"discov",
+		"pattern",
+		"in",
+		"post",
+		"market",
+		"drug",
+		"safeti"
+	],
+	"tag": [
+		"data mining",
+		"empirical",
+		"mining",
+		"safety"
+	],
 	"title": "Empirical Bayesian data mining for discovering patterns in post-marketing drug safety",
 	"type": "inproceedings",
 	"venue": "KDD",

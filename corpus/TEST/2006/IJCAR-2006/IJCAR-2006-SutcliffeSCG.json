@@ -1,6 +1,12 @@
 {
-	"author": ["Geoff Sutcliffe", "Stephan Schulz", "Koen Claessen", "Allen Van Gelder"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Geoff Sutcliffe",
+		"Stephan Schulz",
+		"Koen Claessen",
+		"Allen Van Gelder"
+	],
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/SutcliffeSCG06",
 	"doi": "10.1007/11814771_7",
@@ -10,11 +16,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["use", "the", "tptp", "languag", "for", "write", "deriv", "and", "finit", "interpret"],
-	"tag": ["finite", "using"],
+	"stemmed": [
+		"use",
+		"the",
+		"tptp",
+		"languag",
+		"for",
+		"write",
+		"deriv",
+		"and",
+		"finit",
+		"interpret"
+	],
+	"tag": [
+		"finite",
+		"using"
+	],
 	"title": "Using the TPTP Language for Writing Derivations and Finite Interpretations",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

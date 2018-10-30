@@ -1,6 +1,7 @@
 {
 	"author": "Wolfgang Ahrendt",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 18th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2002",
 	"dblpkey": "conf/cade/Ahrendt02",
 	"doi": "10.1007/3-540-45620-1_18",
@@ -10,11 +11,31 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["deduct", "search", "for", "error", "in", "free", "data", "type", "specif", "use", "model", "generat"],
-	"tag": ["data type", "deduction", "fault", "generative", "specification", "using"],
+	"stemmed": [
+		"deduct",
+		"search",
+		"for",
+		"error",
+		"in",
+		"free",
+		"data",
+		"type",
+		"specif",
+		"use",
+		"model",
+		"generat"
+	],
+	"tag": [
+		"data type",
+		"deduction",
+		"fault",
+		"generative",
+		"specification",
+		"using"
+	],
 	"title": "Deductive Search for Errors in Free Data Type Specifications Using Model Generation",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2392,
+	"volume": "2392",
 	"year": 2002
 }

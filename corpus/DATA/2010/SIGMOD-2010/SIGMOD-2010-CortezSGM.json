@@ -1,6 +1,11 @@
 {
-	"author": ["Eli Cortez", "Altigran Soares da Silva", "Marcos André Gonçalves", "Edleno Silva de Moura"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Eli Cortez",
+		"Altigran Soares da Silva",
+		"Marcos André Gonçalves",
+		"Edleno Silva de Moura"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/CortezSGM10",
@@ -8,8 +13,22 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807254",
 	"pages": "807-818",
 	"publisher": "ACM",
-	"stemmed": ["ondux", "on", "demand", "unsupervis", "learn", "for", "inform", "extract"],
-	"tag": ["information management", "learning", "named", "on-demand"],
+	"stemmed": [
+		"ondux",
+		"on",
+		"demand",
+		"unsupervis",
+		"learn",
+		"for",
+		"inform",
+		"extract"
+	],
+	"tag": [
+		"information management",
+		"learning",
+		"named",
+		"on-demand"
+	],
 	"title": "ONDUX: on-demand unsupervised learning for information extraction",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,10 @@
 {
-	"author": ["Simone Bova", "Barnaby Martin"],
-	"booktitle": "CSL",
+	"author": [
+		"Simone Bova",
+		"Barnaby Martin"
+	],
+	"booktitle": "24th EACSL Annual Conference on Computer Science Logic, CSL 2015, September 7-10, 2015, Berlin, Germany",
+	"booktitleshort": "CSL",
 	"crossref": "conf/csl/2015",
 	"dblpkey": "conf/csl/BovaM15",
 	"doi": "10.4230/LIPIcs.CSL.2015.41",
@@ -10,11 +14,23 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["first", "order", "queri", "on", "finit", "abelian", "group"],
-	"tag": ["finite", "first-order", "query"],
+	"stemmed": [
+		"first",
+		"order",
+		"queri",
+		"on",
+		"finit",
+		"abelian",
+		"group"
+	],
+	"tag": [
+		"finite",
+		"first-order",
+		"query"
+	],
 	"title": "First-Order Queries on Finite Abelian Groups",
 	"type": "inproceedings",
 	"venue": "CSL",
-	"volume": 41,
+	"volume": "41",
 	"year": 2015
 }

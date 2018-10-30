@@ -1,14 +1,35 @@
 {
-	"author": ["Feng Gao", "John P. Hayes"],
-	"booktitle": "DAC",
+	"author": [
+		"Feng Gao",
+		"John P. Hayes"
+	],
+	"booktitle": "Proceedings of the 42nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/GaoH05",
 	"doi": "10.1145/1065579.1065593",
 	"ee": "http://doi.acm.org/10.1145/1065579.1065593",
 	"pages": "31-36",
 	"publisher": "ACM",
-	"stemmed": ["total", "power", "reduct", "in", "cmos", "circuit", "via", "gate", "size", "and", "multipl", "threshold", "voltag"],
-	"tag": ["multi", "reduction"],
+	"stemmed": [
+		"total",
+		"power",
+		"reduct",
+		"in",
+		"cmos",
+		"circuit",
+		"via",
+		"gate",
+		"size",
+		"and",
+		"multipl",
+		"threshold",
+		"voltag"
+	],
+	"tag": [
+		"multi",
+		"reduction"
+	],
 	"title": "Total power reduction in CMOS circuits via gate sizing and multiple threshold voltages",
 	"type": "inproceedings",
 	"venue": "DAC",

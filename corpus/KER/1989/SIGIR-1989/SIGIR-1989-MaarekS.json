@@ -1,6 +1,10 @@
 {
-	"author": ["Yoëlle S. Maarek", "Frank A. Smadja"],
+	"author": [
+		"Yoëlle S. Maarek",
+		"Frank A. Smadja"
+	],
 	"booktitle": "Proceedings of the 12th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P198.pdf",
 	"crossref": "conf/sigir/89",
 	"dblpkey": "conf/sigir/MaarekS89",
@@ -8,8 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/75334.75355",
 	"pages": "198-206",
 	"publisher": "ACM",
-	"stemmed": ["full", "text", "index", "base", "on", "lexic", "relat", "an", "applic", "softwar", "librari"],
-	"tag": ["library"],
+	"stemmed": [
+		"full",
+		"text",
+		"index",
+		"base",
+		"on",
+		"lexic",
+		"relat",
+		"an",
+		"applic",
+		"softwar",
+		"librari"
+	],
+	"tag": [
+		"library"
+	],
 	"title": "Full Text Indexing Based on Lexical Relations An Application: Software Libraries",
 	"type": "inproceedings",
 	"venue": "SIGIR",

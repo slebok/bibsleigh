@@ -1,15 +1,43 @@
 {
-	"author": ["Ouri Wolfson", "Abraham Silberschatz"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ouri Wolfson",
+		"Abraham Silberschatz"
+	],
+	"booktitle": "Proceedings of the 18th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD88/P329.PDF",
-	"cite": ["conf/pods/AfratiP87", "conf/pods/BeeriKBR87", "conf/pods/BancilhonMSU86", "conf/sigmod/BancilhonR86", "conf/pods/CosmadakisK86", "...", "conf/icdt/Kanellakis86", "books/bc/MaierW88", "conf/pods/Naughton86", "conf/pods/Naughton87", "conf/pods/NaughtonS87", "conf/pods/Ullman87", "journals/jacm/EmdenK76"],
+	"cite": [
+		"conf/pods/AfratiP87",
+		"conf/pods/BeeriKBR87",
+		"conf/pods/BancilhonMSU86",
+		"conf/sigmod/BancilhonR86",
+		"conf/pods/CosmadakisK86",
+		"...",
+		"conf/icdt/Kanellakis86",
+		"books/bc/MaierW88",
+		"conf/pods/Naughton86",
+		"conf/pods/Naughton87",
+		"conf/pods/NaughtonS87",
+		"conf/pods/Ullman87",
+		"journals/jacm/EmdenK76"
+	],
 	"crossref": "conf/sigmod/88",
 	"dblpkey": "conf/sigmod/WolfsonS88",
 	"doi": "10.1145/50202.50242",
 	"ee": "http://doi.acm.org/10.1145/50202.50242",
 	"pages": "329-336",
-	"stemmed": ["distribut", "process", "of", "logic", "program"],
-	"tag": ["distributed", "logic programming", "source code"],
+	"stemmed": [
+		"distribut",
+		"process",
+		"of",
+		"logic",
+		"program"
+	],
+	"tag": [
+		"distributed",
+		"logic programming",
+		"source code"
+	],
 	"title": "Distributed Processing of Logic Programs",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

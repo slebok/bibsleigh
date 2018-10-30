@@ -1,14 +1,47 @@
 {
-	"author": ["Harry Leslie", "Rohit Jain", "Dave Birdsall", "Hedieh Yaghmai"],
-	"booktitle": "VLDB",
-	"cite": ["journals/acta/BayerS77", "journals/tods/BayerU77", "conf/sigmod/BeckmannKSS90", "journals/cacm/Bentley75", "conf/sigmod/ChangF80", "journals/csur/Comer79", "conf/sigmod/Guttman84", "journals/cacm/HeldS78", "books/aw/Knuth73", "journals/tods/LometS90", "conf/eci/NievergeltHS81", "conf/sigmod/Robinson81", "journals/cacm/RothnieL74", "conf/vldb/SeegerK90", "conf/vldb/SellisRF87"],
+	"author": [
+		"Harry Leslie",
+		"Rohit Jain",
+		"Dave Birdsall",
+		"Hedieh Yaghmai"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/acta/BayerS77",
+		"journals/tods/BayerU77",
+		"conf/sigmod/BeckmannKSS90",
+		"journals/cacm/Bentley75",
+		"conf/sigmod/ChangF80",
+		"journals/csur/Comer79",
+		"conf/sigmod/Guttman84",
+		"journals/cacm/HeldS78",
+		"books/aw/Knuth73",
+		"journals/tods/LometS90",
+		"conf/eci/NievergeltHS81",
+		"conf/sigmod/Robinson81",
+		"journals/cacm/RothnieL74",
+		"conf/vldb/SeegerK90",
+		"conf/vldb/SellisRF87"
+	],
 	"crossref": "conf/vldb/95",
 	"dblpkey": "conf/vldb/LeslieJBY95",
 	"ee": "http://www.vldb.org/conf/1995/P710.PDF",
 	"pages": "710-719",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["effici", "search", "of", "multi", "dimension", "b", "tree"],
-	"tag": ["multi", "performance"],
+	"stemmed": [
+		"effici",
+		"search",
+		"of",
+		"multi",
+		"dimension",
+		"b",
+		"tree"
+	],
+	"tag": [
+		"multi",
+		"performance"
+	],
 	"title": "Efficient Search of Multi-Dimensional B-Trees",
 	"type": "inproceedings",
 	"venue": "VLDB",

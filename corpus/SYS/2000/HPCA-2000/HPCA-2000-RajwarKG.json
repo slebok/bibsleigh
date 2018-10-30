@@ -1,15 +1,35 @@
 {
-	"author": ["Ravi Rajwar", "Alain Kägi", "James R. Goodman"],
-	"booktitle": "HPCA",
+	"author": [
+		"Ravi Rajwar",
+		"Alain Kägi",
+		"James R. Goodman"
+	],
+	"booktitle": "Proceedings of the Sixth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2000",
 	"dblpkey": "conf/hpca/RajwarKG00",
 	"doi": "10.1109/HPCA.2000.824348",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2000.824348", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2000.824348"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2000.824348",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2000.824348"
+	],
 	"pages": "168-179",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["improv", "the", "throughput", "of", "synchron", "by", "insert", "of", "delay"],
-	"tag": ["throughput"],
+	"stemmed": [
+		"improv",
+		"the",
+		"throughput",
+		"of",
+		"synchron",
+		"by",
+		"insert",
+		"of",
+		"delay"
+	],
+	"tag": [
+		"throughput"
+	],
 	"title": "Improving the Throughput of Synchronization by Insertion of Delays",
 	"type": "inproceedings",
 	"venue": "HPCA",

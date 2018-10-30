@@ -1,13 +1,29 @@
 {
-	"author": ["Bertram Ludäscher", "Pratik Mukhopadhyay", "Yannis Papakonstantinou"],
-	"booktitle": "VLDB",
+	"author": [
+		"Bertram Ludäscher",
+		"Pratik Mukhopadhyay",
+		"Yannis Papakonstantinou"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/LudascherMP02",
 	"ee": "http://www.vldb.org/conf/2002/S07P03.pdf",
 	"pages": "227-238",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["a", "transduc", "base", "xml", "queri", "processor"],
-	"tag": ["query", "transducer", "xml"],
+	"stemmed": [
+		"a",
+		"transduc",
+		"base",
+		"xml",
+		"queri",
+		"processor"
+	],
+	"tag": [
+		"query",
+		"transducer",
+		"xml"
+	],
 	"title": "A Transducer-Based XML Query Processor",
 	"type": "inproceedings",
 	"venue": "VLDB",

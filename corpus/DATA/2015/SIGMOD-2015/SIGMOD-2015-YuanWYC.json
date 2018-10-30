@@ -1,6 +1,11 @@
 {
-	"author": ["Li-Yan Yuan", "Lengdong Wu", "Jia-Huai You", "Yan Chi"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Li-Yan Yuan",
+		"Lengdong Wu",
+		"Jia-Huai You",
+		"Yan Chi"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/YuanWYC15",
@@ -8,8 +13,31 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2735380",
 	"pages": "907-912",
 	"publisher": "ACM",
-	"stemmed": ["a", "demonstr", "of", "rubato", "db", "a", "high", "scalabl", "new", "sql", "databas", "system", "for", "oltp", "and", "big", "data", "applic"],
-	"tag": ["big data", "database", "scalability"],
+	"stemmed": [
+		"a",
+		"demonstr",
+		"of",
+		"rubato",
+		"db",
+		"a",
+		"high",
+		"scalabl",
+		"new",
+		"sql",
+		"databas",
+		"system",
+		"for",
+		"oltp",
+		"and",
+		"big",
+		"data",
+		"applic"
+	],
+	"tag": [
+		"big data",
+		"database",
+		"scalability"
+	],
 	"title": "A Demonstration of Rubato DB: A Highly Scalable NewSQL Database System for OLTP and Big Data Applications",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

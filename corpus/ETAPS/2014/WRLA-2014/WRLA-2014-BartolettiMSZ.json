@@ -1,6 +1,12 @@
 {
-	"author": ["Massimo Bartoletti", "Maurizio Murgia", "Alceste Scalas", "Roberto Zunino"],
-	"booktitle": "WRLA",
+	"author": [
+		"Massimo Bartoletti",
+		"Maurizio Murgia",
+		"Alceste Scalas",
+		"Roberto Zunino"
+	],
+	"booktitle": "Revised Selected Papers of the 10th International Workshop on Rewriting Logic and its Applications",
+	"booktitleshort": "WRLA",
 	"crossref": "conf/wrla/2014",
 	"dblpkey": "conf/wrla/BartolettiMSZ14",
 	"doi": "10.1007/978-3-319-12904-4_7",
@@ -10,11 +16,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["model", "and", "verifi", "contract", "orient", "system", "in", "maud"],
-	"tag": ["maude", "modelling", "verification"],
+	"stemmed": [
+		"model",
+		"and",
+		"verifi",
+		"contract",
+		"orient",
+		"system",
+		"in",
+		"maud"
+	],
+	"tag": [
+		"maude",
+		"modelling",
+		"verification"
+	],
 	"title": "Modelling and Verifying Contract-Oriented Systems in Maude",
 	"type": "inproceedings",
 	"venue": "WRLA",
-	"volume": 8663,
+	"volume": "8663",
 	"year": 2014
 }

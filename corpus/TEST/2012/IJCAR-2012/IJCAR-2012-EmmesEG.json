@@ -1,6 +1,11 @@
 {
-	"author": ["Fabian Emmes", "Tim Enger", "Jürgen Giesl"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Fabian Emmes",
+		"Tim Enger",
+		"Jürgen Giesl"
+	],
+	"booktitle": "Proceedings of the Sixth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2012",
 	"dblpkey": "conf/cade/EmmesEG12",
 	"doi": "10.1007/978-3-642-31365-3_19",
@@ -10,11 +15,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["prove", "non", "loop", "non", "termin", "automat"],
-	"tag": ["automation", "proving"],
+	"stemmed": [
+		"prove",
+		"non",
+		"loop",
+		"non",
+		"termin",
+		"automat"
+	],
+	"tag": [
+		"automation",
+		"proving"
+	],
 	"title": "Proving Non-looping Non-termination Automatically",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 7364,
+	"volume": "7364",
 	"year": 2012
 }

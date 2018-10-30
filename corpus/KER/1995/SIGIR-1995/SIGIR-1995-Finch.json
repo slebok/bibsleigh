@@ -1,6 +1,7 @@
 {
 	"author": "Steven Finch",
 	"booktitle": "Proceedings of the 18th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1995/P264.pdf",
 	"crossref": "conf/sigir/95",
 	"dblpkey": "conf/sigir/Finch95",
@@ -8,8 +9,25 @@
 	"ee": "http://doi.acm.org/10.1145/215206.215369",
 	"pages": "264-272",
 	"publisher": "ACM Press",
-	"stemmed": ["partial", "order", "for", "document", "represent", "a", "new", "methodolog", "for", "combin", "document", "featur"],
-	"tag": ["documentation", "partial order", "representation"],
+	"stemmed": [
+		"partial",
+		"order",
+		"for",
+		"document",
+		"represent",
+		"a",
+		"new",
+		"methodolog",
+		"for",
+		"combin",
+		"document",
+		"featur"
+	],
+	"tag": [
+		"documentation",
+		"partial order",
+		"representation"
+	],
 	"title": "Partial Orders for Document Representation: A New Methodology for Combining Document Features",
 	"type": "inproceedings",
 	"venue": "SIGIR",

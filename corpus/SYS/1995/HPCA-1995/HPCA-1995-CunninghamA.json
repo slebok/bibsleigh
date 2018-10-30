@@ -1,15 +1,35 @@
 {
-	"author": ["Chris M. Cunningham", "Dimiter R. Avresky"],
-	"booktitle": "HPCA",
+	"author": [
+		"Chris M. Cunningham",
+		"Dimiter R. Avresky"
+	],
+	"booktitle": "Proceedings of the First Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1995",
 	"dblpkey": "conf/hpca/CunninghamA95",
 	"doi": "10.1109/HPCA.1995.386549",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1995.386549", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1995.386549"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1995.386549",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1995.386549"
+	],
 	"pages": "122-131",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["fault", "toler", "adapt", "rout", "for", "two", "dimension", "mesh"],
-	"tag": ["2d", "adaptation", "fault tolerance"],
+	"stemmed": [
+		"fault",
+		"toler",
+		"adapt",
+		"rout",
+		"for",
+		"two",
+		"dimension",
+		"mesh"
+	],
+	"tag": [
+		"2d",
+		"adaptation",
+		"fault tolerance"
+	],
 	"title": "Fault-Tolerant Adaptive Routing for Two-Dimensional Meshes",
 	"type": "inproceedings",
 	"venue": "HPCA",

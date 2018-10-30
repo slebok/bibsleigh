@@ -1,6 +1,13 @@
 {
-	"author": ["Takuma Yamaguchi", "Yasuaki Nakano", "Minoru Maruyama", "Hidetoshi Miyao", "Toshihiro Hananoi"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Takuma Yamaguchi",
+		"Yasuaki Nakano",
+		"Minoru Maruyama",
+		"Hidetoshi Miyao",
+		"Toshihiro Hananoi"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2003",
 	"dblpkey": "conf/icdar/YamaguchiNMMH03",
 	"doi": "10.1109/ICDAR.2003.1227689",
@@ -8,8 +15,20 @@
 	"pages": "359-363",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["digit", "classif", "on", "signboard", "for", "telephon", "number", "recognit"],
-	"tag": ["classification", "recognition"],
+	"stemmed": [
+		"digit",
+		"classif",
+		"on",
+		"signboard",
+		"for",
+		"telephon",
+		"number",
+		"recognit"
+	],
+	"tag": [
+		"classification",
+		"recognition"
+	],
 	"title": "Digit Classification on Signboards for Telephone Number Recognition",
 	"type": "inproceedings",
 	"venue": "ICDAR",

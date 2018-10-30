@@ -1,16 +1,38 @@
 {
-	"acmid": 2495906,
-	"author": ["Yulei Sui", "Yue Li", "Jingling Xue"],
-	"booktitle": "CGO",
+	"acmid": "2495906",
+	"author": [
+		"Yulei Sui",
+		"Yue Li",
+		"Jingling Xue"
+	],
+	"booktitle": "Proceedings of the 11th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2013",
 	"dblpkey": "conf/cgo/SuiLX13",
 	"doi": "10.1109/CGO.2013.6494978",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2013.6494978", "http://doi.ieeecomputersociety.org/10.1109/CGO.2013.6494978", "http://dl.acm.org/citation.cfm?id=2495906"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2013.6494978",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2013.6494978",
+		"http://dl.acm.org/citation.cfm?id=2495906"
+	],
 	"pages": "1:1-1:11",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["queri", "direct", "adapt", "heap", "clone", "for", "optim", "compil"],
-	"tag": ["adaptation", "compilation", "optimisation"],
+	"stemmed": [
+		"queri",
+		"direct",
+		"adapt",
+		"heap",
+		"clone",
+		"for",
+		"optim",
+		"compil"
+	],
+	"tag": [
+		"adaptation",
+		"compilation",
+		"optimisation"
+	],
 	"title": "Query-directed adaptive heap cloning for optimizing compilers",
 	"type": "inproceedings",
 	"venue": "CGO",

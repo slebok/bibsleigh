@@ -1,6 +1,10 @@
 {
-	"author": ["Kazem Taghva", "Shivam Agarwal"],
-	"booktitle": "DRR",
+	"author": [
+		"Kazem Taghva",
+		"Shivam Agarwal"
+	],
+	"booktitle": "Proceedings of the 21st Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2014",
 	"dblpkey": "conf/drr/TaghvaA14",
 	"doi": "10.1117/12.2042403",
@@ -8,11 +12,26 @@
 	"pages": "902109-902109-6",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["util", "web", "data", "in", "identif", "and", "correct", "of", "ocr", "error"],
-	"tag": ["fault", "identification", "web"],
+	"stemmed": [
+		"util",
+		"web",
+		"data",
+		"in",
+		"identif",
+		"and",
+		"correct",
+		"of",
+		"ocr",
+		"error"
+	],
+	"tag": [
+		"fault",
+		"identification",
+		"web"
+	],
 	"title": "Utilizing web data in identification and correction of OCR errors",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 9021,
+	"volume": "9021",
 	"year": 2014
 }

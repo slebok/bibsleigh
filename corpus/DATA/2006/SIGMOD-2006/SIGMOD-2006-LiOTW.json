@@ -1,6 +1,11 @@
 {
-	"author": ["Cuiping Li", "Beng Chin Ooi", "Anthony K. H. Tung", "Shan Wang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Cuiping Li",
+		"Beng Chin Ooi",
+		"Anthony K. H. Tung",
+		"Shan Wang"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/LiOTW06",
@@ -8,8 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142547",
 	"pages": "659-670",
 	"publisher": "ACM",
-	"stemmed": ["dada", "a", "data", "cube", "for", "domin", "relationship", "analysi"],
-	"tag": ["analysis", "named"],
+	"stemmed": [
+		"dada",
+		"a",
+		"data",
+		"cube",
+		"for",
+		"domin",
+		"relationship",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"named"
+	],
 	"title": "DADA: a data cube for dominant relationship analysis",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

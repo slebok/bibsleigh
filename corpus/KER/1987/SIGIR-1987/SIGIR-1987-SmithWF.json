@@ -1,6 +1,11 @@
 {
-	"author": ["John B. Smith", "Stephen F. Weiss", "Gordon J. Ferguson"],
+	"author": [
+		"John B. Smith",
+		"Stephen F. Weiss",
+		"Gordon J. Ferguson"
+	],
 	"booktitle": "Proceedings of the 10th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1987/P187.pdf",
 	"crossref": "conf/sigir/87",
 	"dblpkey": "conf/sigir/SmithWF87",
@@ -8,8 +13,22 @@
 	"ee": "http://doi.acm.org/10.1145/42005.42027",
 	"pages": "187-195",
 	"publisher": "ACM",
-	"stemmed": ["microarra", "an", "advanc", "full", "text", "retriev", "and", "analysi", "system"],
-	"tag": ["analysis", "named", "retrieval"],
+	"stemmed": [
+		"microarra",
+		"an",
+		"advanc",
+		"full",
+		"text",
+		"retriev",
+		"and",
+		"analysi",
+		"system"
+	],
+	"tag": [
+		"analysis",
+		"named",
+		"retrieval"
+	],
 	"title": "MICROARRAS: An Advanced Full-Text Retrieval and Analysis System",
 	"type": "inproceedings",
 	"venue": "SIGIR",

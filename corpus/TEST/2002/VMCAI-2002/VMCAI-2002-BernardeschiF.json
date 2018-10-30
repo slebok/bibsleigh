@@ -1,6 +1,10 @@
 {
-	"author": ["Cinzia Bernardeschi", "Nicoletta De Francesco"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Cinzia Bernardeschi",
+		"Nicoletta De Francesco"
+	],
+	"booktitle": "Proceedings of the Third International Workshop on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2002",
 	"dblpkey": "conf/vmcai/BernardeschiF02",
 	"doi": "10.1007/3-540-47813-2_1",
@@ -10,11 +14,31 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["combin", "abstract", "interpret", "and", "model", "check", "for", "analys", "secur", "properti", "of", "java", "bytecod"],
-	"tag": ["abstract interpretation", "bytecode", "java", "model checking", "security"],
+	"stemmed": [
+		"combin",
+		"abstract",
+		"interpret",
+		"and",
+		"model",
+		"check",
+		"for",
+		"analys",
+		"secur",
+		"properti",
+		"of",
+		"java",
+		"bytecod"
+	],
+	"tag": [
+		"abstract interpretation",
+		"bytecode",
+		"java",
+		"model checking",
+		"security"
+	],
 	"title": "Combining Abstract Interpretation and Model Checking for Analysing Security Properties of Java Bytecode",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2294,
+	"volume": "2294",
 	"year": 2002
 }

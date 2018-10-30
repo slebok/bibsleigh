@@ -1,16 +1,42 @@
 {
 	"author": "Sukhamay Kundu",
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS85/P189.PDF", "journals/anthology/dvd1:text/1-3/PODS85/P189.PDF"],
-	"cite": ["books/aw/AhoHU74", "...", "journals/tods/BeeriB79", "journals/tods/Bernstein76", "journals/cacm/Codd70", "...", "journals/tods/LingTK81", "journals/jcss/LucchesiO78"],
+	"booktitle": "Proceedings of the Fourth Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS85/P189.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS85/P189.PDF"
+	],
+	"cite": [
+		"books/aw/AhoHU74",
+		"...",
+		"journals/tods/BeeriB79",
+		"journals/tods/Bernstein76",
+		"journals/cacm/Codd70",
+		"...",
+		"journals/tods/LingTK81",
+		"journals/jcss/LucchesiO78"
+	],
 	"crossref": "conf/pods/85",
 	"dblpkey": "conf/pods/Kundu85",
 	"doi": "10.1145/325405.325431",
 	"ee": "http://doi.acm.org/10.1145/325405.325431",
 	"pages": "189-192",
 	"publisher": "ACM",
-	"stemmed": ["an", "improv", "algorithm", "for", "find", "a", "key", "of", "a", "relat"],
-	"tag": ["algorithm"],
+	"stemmed": [
+		"an",
+		"improv",
+		"algorithm",
+		"for",
+		"find",
+		"a",
+		"key",
+		"of",
+		"a",
+		"relat"
+	],
+	"tag": [
+		"algorithm"
+	],
 	"title": "An Improved Algorithm for Finding a Key of a Relation",
 	"type": "inproceedings",
 	"venue": "PODS",

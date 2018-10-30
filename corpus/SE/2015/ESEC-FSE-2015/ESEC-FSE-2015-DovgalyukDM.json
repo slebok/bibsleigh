@@ -1,14 +1,31 @@
 {
-	"author": ["Pavel Dovgalyuk", "Denis Dmitriev", "Vladimir Makarov"],
-	"booktitle": "ESEC/SIGSOFT FSE",
+	"author": [
+		"Pavel Dovgalyuk",
+		"Denis Dmitriev",
+		"Vladimir Makarov"
+	],
+	"booktitle": "Proceedings of the 10th Joint Meeting of the 15th European Software Engineering Conference and the 23rd Symposium on the Foundations of Software Engineering",
+	"booktitleshort": "ESEC/SIGSOFT FSE",
 	"crossref": "conf/sigsoft/2015",
 	"dblpkey": "conf/sigsoft/DovgalyukDM15",
 	"doi": "10.1145/2786805.2803179",
 	"ee": "http://doi.acm.org/10.1145/2786805.2803179",
 	"pages": "938-941",
 	"publisher": "ACM",
-	"stemmed": ["don", "t", "panic", "revers", "debug", "of", "kernel", "driver"],
-	"tag": ["debugging", "kernel"],
+	"stemmed": [
+		"don",
+		"t",
+		"panic",
+		"revers",
+		"debug",
+		"of",
+		"kernel",
+		"driver"
+	],
+	"tag": [
+		"debugging",
+		"kernel"
+	],
 	"title": "Don’t panic: reverse debugging of kernel drivers",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

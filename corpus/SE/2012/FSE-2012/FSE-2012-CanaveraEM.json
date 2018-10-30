@@ -1,17 +1,49 @@
 {
-	"author": ["Kyle R. Canavera", "Naeem Esfahani", "Sam Malek"],
+	"author": [
+		"Kyle R. Canavera",
+		"Naeem Esfahani",
+		"Sam Malek"
+	],
 	"booktitle": "Proceedings of the 20th Symposium on the Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2012",
 	"dblpkey": "conf/sigsoft/CanaveraEM12",
 	"doi": "10.1145/2393596.2393616",
-	"editor": ["Will Tracz", "Martin P. Robillard", "Tevfik Bultan"],
+	"editor": [
+		"Will Tracz",
+		"Martin P. Robillard",
+		"Tevfik Bultan"
+	],
 	"ee": "http://doi.acm.org/10.1145/2393596.2393616",
-	"isbn": ["978-1-4503-1614-9", "978-1-4503-0443-6"],
+	"isbn": [
+		"978-1-4503-1614-9",
+		"978-1-4503-0443-6"
+	],
 	"pages": "18-18",
 	"publisher": "ACM",
-	"stemmed": ["mine", "the", "execut", "histori", "of", "a", "softwar", "system", "to", "infer", "the", "best", "time", "for", "it", "adapt"],
-	"tag": ["adaptation", "execution", "mining"],
+	"stemmed": [
+		"mine",
+		"the",
+		"execut",
+		"histori",
+		"of",
+		"a",
+		"softwar",
+		"system",
+		"to",
+		"infer",
+		"the",
+		"best",
+		"time",
+		"for",
+		"it",
+		"adapt"
+	],
+	"tag": [
+		"adaptation",
+		"execution",
+		"mining"
+	],
 	"title": "Mining the execution history of a software system to infer the best time for its adaptation",
 	"type": "inproceedings",
 	"venue": "FSE",

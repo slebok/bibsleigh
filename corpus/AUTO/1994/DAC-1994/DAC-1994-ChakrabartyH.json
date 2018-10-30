@@ -1,13 +1,31 @@
 {
-	"author": ["Krishnendu Chakrabarty", "John P. Hayes"],
-	"booktitle": "DAC",
+	"author": [
+		"Krishnendu Chakrabarty",
+		"John P. Hayes"
+	],
+	"booktitle": "Proceedings of the 31st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/ChakrabartyH94",
 	"doi": "10.1145/196244.196419",
 	"ee": "http://doi.acm.org/10.1145/196244.196419",
 	"pages": "351-357",
 	"publisher": "ACM Press",
-	"stemmed": ["dfbt", "a", "design", "for", "testabl", "method", "base", "on", "balanc", "test"],
-	"tag": ["named", "testing"],
+	"stemmed": [
+		"dfbt",
+		"a",
+		"design",
+		"for",
+		"testabl",
+		"method",
+		"base",
+		"on",
+		"balanc",
+		"test"
+	],
+	"tag": [
+		"named",
+		"testing"
+	],
 	"title": "DFBT: A Design-for-Testability Method Based on Balance Testing",
 	"type": "inproceedings",
 	"venue": "DAC",

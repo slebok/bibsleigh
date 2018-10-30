@@ -1,17 +1,33 @@
 {
-	"author": ["Nathaniel Nystrom", "Stephen Chong", "Andrew C. Myers"],
-	"booktitle": "Proceedings of the 19th Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Nathaniel Nystrom",
+		"Stephen Chong",
+		"Andrew C. Myers"
+	],
+	"booktitle": "Proceedings of the 19th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2004p",
 	"dblpkey": "conf/oopsla/NystromCM04",
 	"doi": "10.1145/1028976.1028986",
-	"editor": ["John M. Vlissides", "Douglas C. Schmidt"],
+	"editor": [
+		"John M. Vlissides",
+		"Douglas C. Schmidt"
+	],
 	"ee": "http://doi.acm.org/10.1145/1028976.1028986",
 	"isbn": "1-58113-831-8",
 	"pages": "99-115",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "extens", "via", "nest", "inherit"],
-	"tag": ["inheritance", "scalability"],
+	"stemmed": [
+		"scalabl",
+		"extens",
+		"via",
+		"nest",
+		"inherit"
+	],
+	"tag": [
+		"inheritance",
+		"scalability"
+	],
 	"title": "Scalable extensibility via nested inheritance",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

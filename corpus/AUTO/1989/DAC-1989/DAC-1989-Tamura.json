@@ -1,13 +1,25 @@
 {
 	"author": "K. A. Tamura",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 26th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/Tamura89",
 	"doi": "10.1145/74382.74414",
 	"ee": "http://doi.acm.org/10.1145/74382.74414",
 	"pages": "185-191",
 	"publisher": "ACM Press",
-	"stemmed": ["locat", "function", "error", "in", "logic", "circuit"],
-	"tag": ["fault", "functional", "logic"],
+	"stemmed": [
+		"locat",
+		"function",
+		"error",
+		"in",
+		"logic",
+		"circuit"
+	],
+	"tag": [
+		"fault",
+		"functional",
+		"logic"
+	],
 	"title": "Locating Functional Errors in Logic Circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

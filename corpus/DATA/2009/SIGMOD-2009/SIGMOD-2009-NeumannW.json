@@ -1,6 +1,9 @@
 {
-	"author": ["Thomas Neumann", "Gerhard Weikum"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Thomas Neumann",
+		"Gerhard Weikum"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/NeumannW09",
@@ -8,8 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559911",
 	"pages": "627-640",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "join", "process", "on", "veri", "larg", "rdf", "graph"],
-	"tag": ["graph", "rdf", "scalability"],
+	"stemmed": [
+		"scalabl",
+		"join",
+		"process",
+		"on",
+		"veri",
+		"larg",
+		"rdf",
+		"graph"
+	],
+	"tag": [
+		"graph",
+		"rdf",
+		"scalability"
+	],
 	"title": "Scalable join processing on very large RDF graphs",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

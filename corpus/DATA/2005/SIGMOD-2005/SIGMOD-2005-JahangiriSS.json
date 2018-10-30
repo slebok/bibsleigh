@@ -1,6 +1,10 @@
 {
-	"author": ["Mehrdad Jahangiri", "Dimitris Sacharidis", "Cyrus Shahabi"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Mehrdad Jahangiri",
+		"Dimitris Sacharidis",
+		"Cyrus Shahabi"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/JahangiriSS05",
@@ -8,8 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066189",
 	"pages": "275-286",
 	"publisher": "ACM",
-	"stemmed": ["shift", "split", "i", "o", "effici", "mainten", "of", "wavelet", "transform", "multidimension", "data"],
-	"tag": ["maintenance", "multi", "named", "performance"],
+	"stemmed": [
+		"shift",
+		"split",
+		"i",
+		"o",
+		"effici",
+		"mainten",
+		"of",
+		"wavelet",
+		"transform",
+		"multidimension",
+		"data"
+	],
+	"tag": [
+		"maintenance",
+		"multi",
+		"named",
+		"performance"
+	],
 	"title": "SHIFT-SPLIT: I/O Efficient Maintenance of Wavelet-Transformed Multidimensional Data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

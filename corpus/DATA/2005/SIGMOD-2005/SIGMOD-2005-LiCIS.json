@@ -1,6 +1,11 @@
 {
-	"author": ["Chengkai Li", "Kevin Chen-Chuan Chang", "Ihab F. Ilyas", "Sumin Song"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Chengkai Li",
+		"Kevin Chen-Chuan Chang",
+		"Ihab F. Ilyas",
+		"Sumin Song"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/LiCIS05",
@@ -8,8 +13,26 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066173",
 	"pages": "131-142",
 	"publisher": "ACM",
-	"stemmed": ["rank", "sql", "queri", "algebra", "and", "optim", "for", "relat", "top", "k", "queri"],
-	"tag": ["algebra", "named", "optimisation", "query", "relational"],
+	"stemmed": [
+		"rank",
+		"sql",
+		"queri",
+		"algebra",
+		"and",
+		"optim",
+		"for",
+		"relat",
+		"top",
+		"k",
+		"queri"
+	],
+	"tag": [
+		"algebra",
+		"named",
+		"optimisation",
+		"query",
+		"relational"
+	],
 	"title": "RankSQL: Query Algebra and Optimization for Relational Top-k Queries",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

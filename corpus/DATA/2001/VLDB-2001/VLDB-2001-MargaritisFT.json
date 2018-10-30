@@ -1,13 +1,36 @@
 {
-	"author": ["Dimitris Margaritis", "Christos Faloutsos", "Sebastian Thrun"],
-	"booktitle": "VLDB",
+	"author": [
+		"Dimitris Margaritis",
+		"Christos Faloutsos",
+		"Sebastian Thrun"
+	],
+	"booktitle": "Proceedings of the 27th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2001",
 	"dblpkey": "conf/vldb/MargaritisFT01",
 	"ee": "http://www.vldb.org/conf/2001/P311.pdf",
 	"pages": "311-320",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["net", "cube", "a", "scalabl", "tool", "for", "fast", "data", "mine", "and", "compress"],
-	"tag": ["data mining", "mining", "named", "performance", "scalability"],
+	"stemmed": [
+		"net",
+		"cube",
+		"a",
+		"scalabl",
+		"tool",
+		"for",
+		"fast",
+		"data",
+		"mine",
+		"and",
+		"compress"
+	],
+	"tag": [
+		"data mining",
+		"mining",
+		"named",
+		"performance",
+		"scalability"
+	],
 	"title": "NetCube: A Scalable Tool for Fast Data Mining and Compression",
 	"type": "inproceedings",
 	"venue": "VLDB",

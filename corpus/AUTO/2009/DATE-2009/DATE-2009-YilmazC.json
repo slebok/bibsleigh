@@ -1,13 +1,36 @@
 {
-	"author": ["Mahmut Yilmaz", "Krishnendu Chakrabarty"],
-	"booktitle": "DATE",
+	"author": [
+		"Mahmut Yilmaz",
+		"Krishnendu Chakrabarty"
+	],
+	"booktitle": "Proceedings of the 13th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2009",
 	"dblpkey": "conf/date/YilmazC09",
 	"ieeearid": 5090898,
 	"pages": "1488-1493",
 	"publisher": "IEEE",
-	"stemmed": ["seed", "select", "in", "lfsr", "reseed", "base", "test", "compress", "for", "the", "detect", "of", "small", "delay", "defect"],
-	"tag": ["detection", "fault"],
+	"stemmed": [
+		"seed",
+		"select",
+		"in",
+		"lfsr",
+		"reseed",
+		"base",
+		"test",
+		"compress",
+		"for",
+		"the",
+		"detect",
+		"of",
+		"small",
+		"delay",
+		"defect"
+	],
+	"tag": [
+		"detection",
+		"fault"
+	],
 	"title": "Seed selection in LFSR-reseeding-based test compression for the detection of small-delay defects",
 	"type": "inproceedings",
 	"venue": "DATE",

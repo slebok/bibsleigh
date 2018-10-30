@@ -1,13 +1,31 @@
 {
-	"author": ["Parag Sarda", "Jayant R. Haritsa"],
-	"booktitle": "VLDB",
+	"author": [
+		"Parag Sarda",
+		"Jayant R. Haritsa"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/SardaH04",
 	"ee": "http://www.vldb.org/conf/2004/DEMP21.PDF",
 	"pages": "1333-1336",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["green", "queri", "optim", "tame", "queri", "optim", "overhead", "through", "plan", "recycl"],
-	"tag": ["optimisation", "query"],
+	"stemmed": [
+		"green",
+		"queri",
+		"optim",
+		"tame",
+		"queri",
+		"optim",
+		"overhead",
+		"through",
+		"plan",
+		"recycl"
+	],
+	"tag": [
+		"optimisation",
+		"query"
+	],
 	"title": "Green Query Optimization: Taming Query Optimization Overheads through Plan Recycling",
 	"type": "inproceedings",
 	"venue": "VLDB",

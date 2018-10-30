@@ -1,14 +1,28 @@
 {
-	"author": ["Sandrine Blazy", "Benoît Robillard"],
-	"booktitle": "LCTES",
+	"author": [
+		"Sandrine Blazy",
+		"Benoît Robillard"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2009",
 	"dblpkey": "conf/lctrts/BlazyR09",
 	"doi": "10.1145/1542452.1542462",
 	"ee": "http://doi.acm.org/10.1145/1542452.1542462",
 	"pages": "70-79",
 	"publisher": "ACM",
-	"stemmed": ["live", "rang", "unsplit", "for", "faster", "optim", "coalesc"],
-	"tag": ["performance"],
+	"stemmed": [
+		"live",
+		"rang",
+		"unsplit",
+		"for",
+		"faster",
+		"optim",
+		"coalesc"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Live-range unsplitting for faster optimal coalescing",
 	"type": "inproceedings",
 	"venue": "LCTES",

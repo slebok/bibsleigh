@@ -1,13 +1,29 @@
 {
-	"author": ["Michael Walfish", "Jeremy Stribling", "Maxwell N. Krohn", "Hari Balakrishnan", "Robert Morris", "Scott Shenker"],
-	"booktitle": "OSDI",
+	"author": [
+		"Michael Walfish",
+		"Jeremy Stribling",
+		"Maxwell N. Krohn",
+		"Hari Balakrishnan",
+		"Robert Morris",
+		"Scott Shenker"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2004",
 	"dblpkey": "conf/osdi/WalfishSKBMS04",
 	"ee": "http://www.usenix.org/events/osdi04/tech/walfish.html",
 	"pages": "215-230",
 	"publisher": "USENIX Association",
-	"stemmed": ["middlebox", "no", "longer", "consid", "harm"],
-	"tag": ["harmful"],
+	"stemmed": [
+		"middlebox",
+		"no",
+		"longer",
+		"consid",
+		"harm"
+	],
+	"tag": [
+		"harmful"
+	],
 	"title": "Middleboxes No Longer Considered Harmful",
 	"type": "inproceedings",
 	"venue": "OSDI",

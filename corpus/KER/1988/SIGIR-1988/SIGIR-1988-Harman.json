@@ -1,6 +1,7 @@
 {
 	"author": "Donna Harman",
 	"booktitle": "Proceedings of the 11th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P321.pdf",
 	"crossref": "conf/sigir/88",
 	"dblpkey": "conf/sigir/Harman88",
@@ -8,8 +9,17 @@
 	"ee": "http://doi.acm.org/10.1145/62437.62469",
 	"pages": "321-331",
 	"publisher": "ACM",
-	"stemmed": ["toward", "interact", "queri", "expans"],
-	"tag": ["interactive", "query", "towards"],
+	"stemmed": [
+		"toward",
+		"interact",
+		"queri",
+		"expans"
+	],
+	"tag": [
+		"interactive",
+		"query",
+		"towards"
+	],
 	"title": "Towards Interactive Query Expansion",
 	"type": "inproceedings",
 	"venue": "SIGIR",

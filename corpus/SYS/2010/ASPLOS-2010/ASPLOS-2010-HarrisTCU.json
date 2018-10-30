@@ -1,14 +1,35 @@
 {
-	"author": ["Tim Harris", "Sasa Tomic", "Adrián Cristal", "Osman S. Ünsal"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Tim Harris",
+		"Sasa Tomic",
+		"Adrián Cristal",
+		"Osman S. Ünsal"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2010",
 	"dblpkey": "conf/asplos/HarrisTCU10",
 	"doi": "10.1145/1736020.1736027",
 	"ee": "http://doi.acm.org/10.1145/1736020.1736027",
 	"pages": "39-52",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "filter", "multi", "purpos", "architectur", "support", "for", "languag", "runtim", "system"],
-	"tag": ["architecture", "multi", "runtime"],
+	"stemmed": [
+		"dynam",
+		"filter",
+		"multi",
+		"purpos",
+		"architectur",
+		"support",
+		"for",
+		"languag",
+		"runtim",
+		"system"
+	],
+	"tag": [
+		"architecture",
+		"multi",
+		"runtime"
+	],
 	"title": "Dynamic filtering: multi-purpose architecture support for language runtime systems",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

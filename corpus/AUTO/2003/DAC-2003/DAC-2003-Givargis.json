@@ -1,14 +1,28 @@
 {
 	"author": "Tony Givargis",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 40th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2003",
 	"dblpkey": "conf/dac/Givargis03",
 	"doi": "10.1145/775832.776052",
 	"ee": "http://doi.acm.org/10.1145/775832.776052",
 	"pages": "875-880",
 	"publisher": "ACM",
-	"stemmed": ["improv", "index", "for", "cach", "miss", "reduct", "in", "embed", "system"],
-	"tag": ["embedded", "reduction"],
+	"stemmed": [
+		"improv",
+		"index",
+		"for",
+		"cach",
+		"miss",
+		"reduct",
+		"in",
+		"embed",
+		"system"
+	],
+	"tag": [
+		"embedded",
+		"reduction"
+	],
 	"title": "Improved indexing for cache miss reduction in embedded systems",
 	"type": "inproceedings",
 	"venue": "DAC",

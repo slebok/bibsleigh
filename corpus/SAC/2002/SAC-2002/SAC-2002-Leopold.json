@@ -1,12 +1,24 @@
 {
 	"author": "Claudia Leopold",
 	"booktitle": "Proceedings of the 17th Symposium on Applied Computing",
+	"booktitleshort": "SAC",
 	"crossref": "conf/sac/2002",
 	"dblpkey": "conf/sac/Leopold02",
 	"pages": "948-952",
 	"publisher": "ACM",
-	"stemmed": ["on", "optim", "tempor", "local", "of", "stencil", "code"],
-	"tag": ["locality", "on the"],
+	"stemmed": [
+		"on",
+		"optim",
+		"tempor",
+		"local",
+		"of",
+		"stencil",
+		"code"
+	],
+	"tag": [
+		"locality",
+		"on the"
+	],
 	"title": "On optimal temporal locality of stencil codes",
 	"type": "inproceedings",
 	"venue": "SAC",

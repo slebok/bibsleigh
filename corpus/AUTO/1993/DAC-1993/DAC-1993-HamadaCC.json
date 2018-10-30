@@ -1,13 +1,38 @@
 {
-	"author": ["Takeo Hamada", "Chung-Kuan Cheng", "Paul M. Chau"],
-	"booktitle": "DAC",
+	"author": [
+		"Takeo Hamada",
+		"Chung-Kuan Cheng",
+		"Paul M. Chau"
+	],
+	"booktitle": "Proceedings of the 30th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/HamadaCC93",
 	"doi": "10.1145/157485.165015",
 	"ee": "http://doi.acm.org/10.1145/157485.165015",
 	"pages": "531-536",
 	"publisher": "ACM Press",
-	"stemmed": ["prime", "a", "time", "driven", "placement", "tool", "use", "a", "piecewis", "linear", "resist", "network", "approach"],
-	"tag": ["approach", "linear", "named", "network", "using"],
+	"stemmed": [
+		"prime",
+		"a",
+		"time",
+		"driven",
+		"placement",
+		"tool",
+		"use",
+		"a",
+		"piecewis",
+		"linear",
+		"resist",
+		"network",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"linear",
+		"named",
+		"network",
+		"using"
+	],
 	"title": "Prime: A Timing-Driven Placement Tool using A Piecewise Linear Resistive Network Approach",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,33 @@
 {
-	"author": ["Byron J. Gao", "Obi L. Griffith", "Martin Ester", "Steven J. M. Jones"],
-	"booktitle": "KDD",
+	"author": [
+		"Byron J. Gao",
+		"Obi L. Griffith",
+		"Martin Ester",
+		"Steven J. M. Jones"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/GaoGEJ06",
 	"doi": "10.1145/1150402.1150529",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150529",
 	"pages": "922-928",
 	"publisher": "ACM",
-	"stemmed": ["discov", "signific", "opsm", "subspac", "cluster", "in", "massiv", "gene", "express", "data"],
-	"tag": ["clustering"],
+	"stemmed": [
+		"discov",
+		"signific",
+		"opsm",
+		"subspac",
+		"cluster",
+		"in",
+		"massiv",
+		"gene",
+		"express",
+		"data"
+	],
+	"tag": [
+		"clustering"
+	],
 	"title": "Discovering significant OPSM subspace clusters in massive gene expression data",
 	"type": "inproceedings",
 	"venue": "KDD",

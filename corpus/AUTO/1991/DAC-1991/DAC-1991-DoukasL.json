@@ -1,13 +1,28 @@
 {
-	"author": ["Dimitris Doukas", "Andrea S. LaPaugh"],
-	"booktitle": "DAC",
+	"author": [
+		"Dimitris Doukas",
+		"Andrea S. LaPaugh"
+	],
+	"booktitle": "Proceedings of the 28th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/DoukasL91",
 	"doi": "10.1145/127601.127747",
 	"ee": "http://doi.acm.org/10.1145/127601.127747",
 	"pages": "662-667",
 	"publisher": "ACM",
-	"stemmed": ["clover", "a", "time", "constraint", "verif", "system"],
-	"tag": ["constraints", "named", "verification"],
+	"stemmed": [
+		"clover",
+		"a",
+		"time",
+		"constraint",
+		"verif",
+		"system"
+	],
+	"tag": [
+		"constraints",
+		"named",
+		"verification"
+	],
 	"title": "CLOVER: A Timing Constraints Verification System",
 	"type": "inproceedings",
 	"venue": "DAC",

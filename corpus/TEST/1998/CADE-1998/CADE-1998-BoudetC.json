@@ -1,6 +1,10 @@
 {
-	"author": ["Alexandre Boudet", "Evelyne Contejean"],
-	"booktitle": "CADE",
+	"author": [
+		"Alexandre Boudet",
+		"Evelyne Contejean"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1998",
 	"dblpkey": "conf/cade/BoudetC98",
 	"ee": "http://link.springer.de/link/service/series/0558/bibs/1421/14210088.htm",
@@ -9,11 +13,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["about", "the", "confluenc", "of", "equat", "pattern", "rewrit", "system"],
-	"tag": ["confluence", "equation", "term rewriting"],
+	"stemmed": [
+		"about",
+		"the",
+		"confluenc",
+		"of",
+		"equat",
+		"pattern",
+		"rewrit",
+		"system"
+	],
+	"tag": [
+		"confluence",
+		"equation",
+		"term rewriting"
+	],
 	"title": "About the Confluence of Equational Pattern Rewrite Systems",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1421,
+	"volume": "1421",
 	"year": 1998
 }

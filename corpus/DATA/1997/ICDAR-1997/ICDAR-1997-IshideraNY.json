@@ -1,6 +1,11 @@
 {
-	"author": ["Eiki Ishidera", "Daisuke Nishiwaki", "Keiji Yamada"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Eiki Ishidera",
+		"Daisuke Nishiwaki",
+		"Keiji Yamada"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/1997",
 	"dblpkey": "conf/icdar/IshideraNY97",
 	"doi": "10.1109/ICDAR.1997.620663",
@@ -8,8 +13,26 @@
 	"pages": "1016-",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["unconstrain", "japanes", "address", "recognit", "use", "a", "combin", "of", "spatial", "inform", "and", "word", "knowledg"],
-	"tag": ["recognition", "using", "word"],
+	"stemmed": [
+		"unconstrain",
+		"japanes",
+		"address",
+		"recognit",
+		"use",
+		"a",
+		"combin",
+		"of",
+		"spatial",
+		"inform",
+		"and",
+		"word",
+		"knowledg"
+	],
+	"tag": [
+		"recognition",
+		"using",
+		"word"
+	],
 	"title": "Unconstrained Japanese Address Recognition Using a Combination of Spatial Information and Word Knowledge",
 	"type": "inproceedings",
 	"venue": "ICDAR",

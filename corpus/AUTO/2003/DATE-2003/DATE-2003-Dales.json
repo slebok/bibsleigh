@@ -1,16 +1,33 @@
 {
-	"acmid": 1022848,
+	"acmid": "1022848",
 	"author": "Michael Dales",
-	"booktitle": "DATE",
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2003",
 	"dblpkey": "conf/date/Dales03",
 	"doi": "10.1109/DATE.2003.10013",
-	"ee": ["http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10013", "http://dl.acm.org/citation.cfm?id=1022848"],
+	"ee": [
+		"http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10013",
+		"http://dl.acm.org/citation.cfm?id=1022848"
+	],
 	"pages": "10980-10985",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["manag", "a", "reconfigur", "processor", "in", "a", "general", "purpos", "workstat", "environ"],
-	"tag": ["configuration management"],
+	"stemmed": [
+		"manag",
+		"a",
+		"reconfigur",
+		"processor",
+		"in",
+		"a",
+		"general",
+		"purpos",
+		"workstat",
+		"environ"
+	],
+	"tag": [
+		"configuration management"
+	],
 	"title": "Managing a Reconfigurable Processor in a General Purpose Workstation Environment",
 	"type": "inproceedings",
 	"venue": "DATE",

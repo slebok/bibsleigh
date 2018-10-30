@@ -1,15 +1,34 @@
 {
-	"author": ["Stefanos Kaxiras", "Cliff Young"],
-	"booktitle": "HPCA",
+	"author": [
+		"Stefanos Kaxiras",
+		"Cliff Young"
+	],
+	"booktitle": "Proceedings of the Sixth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2000",
 	"dblpkey": "conf/hpca/KaxirasY00",
 	"doi": "10.1109/HPCA.2000.824347",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2000.824347", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2000.824347"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2000.824347",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2000.824347"
+	],
 	"pages": "156-167",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["coher", "communic", "predict", "in", "share", "memori", "multiprocessor"],
-	"tag": ["communication", "multi", "predict"],
+	"stemmed": [
+		"coher",
+		"communic",
+		"predict",
+		"in",
+		"share",
+		"memori",
+		"multiprocessor"
+	],
+	"tag": [
+		"communication",
+		"multi",
+		"predict"
+	],
 	"title": "Coherence Communication Prediction in Shared-Memory Multiprocessors",
 	"type": "inproceedings",
 	"venue": "HPCA",

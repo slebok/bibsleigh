@@ -1,6 +1,10 @@
 {
-	"author": ["Heng Chu", "David A. Plaisted"],
-	"booktitle": "CADE",
+	"author": [
+		"Heng Chu",
+		"David A. Plaisted"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/ChuP94",
 	"doi": "10.1007/3-540-58156-1_14",
@@ -10,11 +14,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["semant", "guid", "first", "order", "theorem", "prove", "use", "hyper", "link"],
-	"tag": ["first-order", "proving", "semantics", "theorem proving", "using"],
+	"stemmed": [
+		"semant",
+		"guid",
+		"first",
+		"order",
+		"theorem",
+		"prove",
+		"use",
+		"hyper",
+		"link"
+	],
+	"tag": [
+		"first-order",
+		"proving",
+		"semantics",
+		"theorem proving",
+		"using"
+	],
 	"title": "Semantically Guided First-Order Theorem Proving using Hyper-Linking",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

@@ -1,14 +1,29 @@
 {
-	"author": ["Martin T. Vechev", "David F. Bacon"],
-	"booktitle": "ISMM",
+	"author": [
+		"Martin T. Vechev",
+		"David F. Bacon"
+	],
+	"booktitle": "Proceedings of the Fourth International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2004",
 	"dblpkey": "conf/iwmm/VechevB04",
 	"doi": "10.1145/1029873.1029876",
 	"ee": "http://doi.acm.org/10.1145/1029873.1029876",
 	"pages": "13-24",
 	"publisher": "ACM",
-	"stemmed": ["write", "barrier", "elis", "for", "concurr", "garbag", "collector"],
-	"tag": ["concurrent", "garbage collection"],
+	"stemmed": [
+		"write",
+		"barrier",
+		"elis",
+		"for",
+		"concurr",
+		"garbag",
+		"collector"
+	],
+	"tag": [
+		"concurrent",
+		"garbage collection"
+	],
 	"title": "Write barrier elision for concurrent garbage collectors",
 	"type": "inproceedings",
 	"venue": "ISMM",

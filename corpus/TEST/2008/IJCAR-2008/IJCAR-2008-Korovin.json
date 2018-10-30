@@ -1,6 +1,7 @@
 {
 	"author": "Konstantin Korovin",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Fourth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2008",
 	"dblpkey": "conf/cade/Korovin08",
 	"doi": "10.1007/978-3-540-71070-7_24",
@@ -10,11 +11,30 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["iprov", "an", "instanti", "base", "theorem", "prover", "for", "first", "order", "logic", "system", "descript"],
-	"tag": ["first-order", "logic", "named", "proving", "theorem proving"],
+	"stemmed": [
+		"iprov",
+		"an",
+		"instanti",
+		"base",
+		"theorem",
+		"prover",
+		"for",
+		"first",
+		"order",
+		"logic",
+		"system",
+		"descript"
+	],
+	"tag": [
+		"first-order",
+		"logic",
+		"named",
+		"proving",
+		"theorem proving"
+	],
 	"title": "iProver — An Instantiation-Based Theorem Prover for First-Order Logic (System Description)",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 5195,
+	"volume": "5195",
 	"year": 2008
 }

@@ -1,6 +1,9 @@
 {
-	"author": ["Jingren Zhou", "Kenneth A. Ross"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jingren Zhou",
+		"Kenneth A. Ross"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/ZhouR02",
@@ -8,8 +11,19 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564709",
 	"pages": "145-156",
 	"publisher": "ACM",
-	"stemmed": ["implement", "databas", "oper", "use", "simd", "instruct"],
-	"tag": ["database", "implementation", "using"],
+	"stemmed": [
+		"implement",
+		"databas",
+		"oper",
+		"use",
+		"simd",
+		"instruct"
+	],
+	"tag": [
+		"database",
+		"implementation",
+		"using"
+	],
 	"title": "Implementing database operations using SIMD instructions",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

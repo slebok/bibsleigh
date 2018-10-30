@@ -1,13 +1,32 @@
 {
-	"author": ["Mark S. Gordon", "Davoud Anoushe Jamshidi", "Scott A. Mahlke", "Zhuoqing Morley Mao", "Xu Chen"],
-	"booktitle": "OSDI",
+	"author": [
+		"Mark S. Gordon",
+		"Davoud Anoushe Jamshidi",
+		"Scott A. Mahlke",
+		"Zhuoqing Morley Mao",
+		"Xu Chen"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2012",
 	"dblpkey": "conf/osdi/GordonJMMC12",
 	"ee": "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/gordon",
 	"pages": "93-106",
 	"publisher": "USENIX Association",
-	"stemmed": ["comet", "code", "offload", "by", "migrat", "execut", "transpar"],
-	"tag": ["execution", "migration", "named"],
+	"stemmed": [
+		"comet",
+		"code",
+		"offload",
+		"by",
+		"migrat",
+		"execut",
+		"transpar"
+	],
+	"tag": [
+		"execution",
+		"migration",
+		"named"
+	],
 	"title": "COMET: Code Offload by Migrating Execution Transparently",
 	"type": "inproceedings",
 	"venue": "OSDI",

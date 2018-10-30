@@ -1,16 +1,46 @@
 {
-	"author": ["Thanasis Hadzilacos", "Christos H. Papadimitriou"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS85/P096.PDF", "journals/anthology/dvd1:text/1-3/PODS85/P096.PDF"],
-	"cite": ["journals/tods/BayerHR80", "journals/tods/BernsteinG83", "...", "...", "journals/jacm/Papadimitriou79b", "...", "journals/tods/PapadimitriouK84", "...", "conf/sigmod/StearnsR81", "conf/stoc/Yannakakis81"],
+	"author": [
+		"Thanasis Hadzilacos",
+		"Christos H. Papadimitriou"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS85/P096.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS85/P096.PDF"
+	],
+	"cite": [
+		"journals/tods/BayerHR80",
+		"journals/tods/BernsteinG83",
+		"...",
+		"...",
+		"journals/jacm/Papadimitriou79b",
+		"...",
+		"journals/tods/PapadimitriouK84",
+		"...",
+		"conf/sigmod/StearnsR81",
+		"conf/stoc/Yannakakis81"
+	],
 	"crossref": "conf/pods/85",
 	"dblpkey": "conf/pods/HadzilacosP85",
 	"doi": "10.1145/325405.325417",
 	"ee": "http://doi.acm.org/10.1145/325405.325417",
 	"pages": "96-104",
 	"publisher": "ACM",
-	"stemmed": ["algorithm", "aspect", "of", "multivers", "concurr", "control"],
-	"tag": ["algorithm", "aspect-oriented", "concurrent", "multi"],
+	"stemmed": [
+		"algorithm",
+		"aspect",
+		"of",
+		"multivers",
+		"concurr",
+		"control"
+	],
+	"tag": [
+		"algorithm",
+		"aspect-oriented",
+		"concurrent",
+		"multi"
+	],
 	"title": "Algorithmic Aspects of Multiversion Concurrency Control",
 	"type": "inproceedings",
 	"venue": "PODS",

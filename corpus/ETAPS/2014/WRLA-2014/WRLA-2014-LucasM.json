@@ -1,6 +1,10 @@
 {
-	"author": ["Salvador Lucas", "José Meseguer"],
-	"booktitle": "WRLA",
+	"author": [
+		"Salvador Lucas",
+		"José Meseguer"
+	],
+	"booktitle": "Revised Selected Papers of the 10th International Workshop on Rewriting Logic and its Applications",
+	"booktitleshort": "WRLA",
 	"crossref": "conf/wrla/2014",
 	"dblpkey": "conf/wrla/LucasM14",
 	"doi": "10.1007/978-3-319-12904-4_10",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["strong", "and", "weak", "oper", "termin", "of", "order", "sort", "rewrit", "theori"],
-	"tag": ["order", "termination"],
+	"stemmed": [
+		"strong",
+		"and",
+		"weak",
+		"oper",
+		"termin",
+		"of",
+		"order",
+		"sort",
+		"rewrit",
+		"theori"
+	],
+	"tag": [
+		"order",
+		"termination"
+	],
 	"title": "Strong and Weak Operational Termination of Order-Sorted Rewrite Theories",
 	"type": "inproceedings",
 	"venue": "WRLA",
-	"volume": 8663,
+	"volume": "8663",
 	"year": 2014
 }

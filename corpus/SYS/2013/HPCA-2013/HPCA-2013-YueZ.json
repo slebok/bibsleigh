@@ -1,15 +1,31 @@
 {
-	"author": ["Jianhui Yue", "Yifeng Zhu"],
-	"booktitle": "HPCA",
+	"author": [
+		"Jianhui Yue",
+		"Yifeng Zhu"
+	],
+	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/YueZ13",
 	"doi": "10.1109/HPCA.2013.6522326",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522326", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522326"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2013.6522326",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522326"
+	],
 	"pages": "282-293",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["acceler", "write", "by", "exploit", "pcm", "asymmetri"],
-	"tag": ["symmetry"],
+	"stemmed": [
+		"acceler",
+		"write",
+		"by",
+		"exploit",
+		"pcm",
+		"asymmetri"
+	],
+	"tag": [
+		"symmetry"
+	],
 	"title": "Accelerating write by exploiting PCM asymmetries",
 	"type": "inproceedings",
 	"venue": "HPCA",

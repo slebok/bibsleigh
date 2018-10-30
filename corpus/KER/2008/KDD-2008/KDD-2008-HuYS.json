@@ -1,14 +1,35 @@
 {
-	"author": ["Meng Hu", "Jiong Yang", "Wei Su"],
-	"booktitle": "KDD",
+	"author": [
+		"Meng Hu",
+		"Jiong Yang",
+		"Wei Su"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/HuYS08",
 	"doi": "10.1145/1401890.1401932",
 	"ee": "http://doi.acm.org/10.1145/1401890.1401932",
 	"pages": "318-326",
 	"publisher": "ACM",
-	"stemmed": ["permu", "pattern", "discoveri", "of", "mutabl", "permut", "pattern", "with", "proxim", "constraint"],
-	"tag": ["constraints", "named", "permutation", "proximity"],
+	"stemmed": [
+		"permu",
+		"pattern",
+		"discoveri",
+		"of",
+		"mutabl",
+		"permut",
+		"pattern",
+		"with",
+		"proxim",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"named",
+		"permutation",
+		"proximity"
+	],
 	"title": "Permu-pattern: discovery of mutable permutation patterns with proximity constraint",
 	"type": "inproceedings",
 	"venue": "KDD",

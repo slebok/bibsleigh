@@ -1,14 +1,25 @@
 {
 	"author": "Marc Descollonges",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 22nd ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD92/P164.PDF",
 	"crossref": "conf/sigmod/92",
 	"dblpkey": "conf/sigmod/Descollonges92",
 	"doi": "10.1145/130283.130310",
 	"ee": "http://doi.acm.org/10.1145/130283.130310",
-	"pages": 164,
-	"stemmed": ["a", "concurr", "model", "for", "transact", "manag"],
-	"tag": ["concurrent", "transaction"],
+	"pages": "164",
+	"stemmed": [
+		"a",
+		"concurr",
+		"model",
+		"for",
+		"transact",
+		"manag"
+	],
+	"tag": [
+		"concurrent",
+		"transaction"
+	],
 	"title": "A Concurrency Model for Transaction Management",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

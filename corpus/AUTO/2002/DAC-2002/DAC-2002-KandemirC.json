@@ -1,14 +1,31 @@
 {
-	"author": ["Mahmut T. Kandemir", "Alok N. Choudhary"],
-	"booktitle": "DAC",
+	"author": [
+		"Mahmut T. Kandemir",
+		"Alok N. Choudhary"
+	],
+	"booktitle": "Proceedings of the 39th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2002",
 	"dblpkey": "conf/dac/KandemirC02",
 	"doi": "10.1145/513918.514077",
 	"ee": "http://doi.acm.org/10.1145/513918.514077",
 	"pages": "628-633",
 	"publisher": "ACM",
-	"stemmed": ["compil", "direct", "scratch", "pad", "memori", "hierarchi", "design", "and", "manag"],
-	"tag": ["design", "memory management"],
+	"stemmed": [
+		"compil",
+		"direct",
+		"scratch",
+		"pad",
+		"memori",
+		"hierarchi",
+		"design",
+		"and",
+		"manag"
+	],
+	"tag": [
+		"design",
+		"memory management"
+	],
 	"title": "Compiler-directed scratch pad memory hierarchy design and management",
 	"type": "inproceedings",
 	"venue": "DAC",

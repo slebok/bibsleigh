@@ -1,6 +1,10 @@
 {
-	"author": ["Dave Barker-Plummer", "Alex Rothenberg"],
-	"booktitle": "CADE",
+	"author": [
+		"Dave Barker-Plummer",
+		"Alex Rothenberg"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/Baker-PlummerR92",
 	"doi": "10.1007/3-540-55602-8_212",
@@ -10,11 +14,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "gazer", "theorem", "prover"],
-	"tag": ["proving", "theorem proving"],
+	"stemmed": [
+		"the",
+		"gazer",
+		"theorem",
+		"prover"
+	],
+	"tag": [
+		"proving",
+		"theorem proving"
+	],
 	"title": "The GAZER Theorem Prover",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

@@ -1,15 +1,42 @@
 {
-	"author": ["Qingbo Zhu", "Francis M. David", "Christo Frank Devaraj", "Zhenmin Li", "Yuanyuan Zhou", "Pei Cao"],
-	"booktitle": "HPCA",
+	"author": [
+		"Qingbo Zhu",
+		"Francis M. David",
+		"Christo Frank Devaraj",
+		"Zhenmin Li",
+		"Yuanyuan Zhou",
+		"Pei Cao"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2004",
 	"dblpkey": "conf/hpca/ZhuDDLZC04",
 	"doi": "10.1109/HPCA.2004.10022",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2004.10022", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2004.10022"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2004.10022",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2004.10022"
+	],
 	"pages": "118-129",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["reduc", "energi", "consumpt", "of", "disk", "storag", "use", "power", "awar", "cach", "manag"],
-	"tag": ["energy", "power management", "using"],
+	"stemmed": [
+		"reduc",
+		"energi",
+		"consumpt",
+		"of",
+		"disk",
+		"storag",
+		"use",
+		"power",
+		"awar",
+		"cach",
+		"manag"
+	],
+	"tag": [
+		"energy",
+		"power management",
+		"using"
+	],
 	"title": "Reducing Energy Consumption of Disk Storage Using Power-Aware Cache Management",
 	"type": "inproceedings",
 	"venue": "HPCA",

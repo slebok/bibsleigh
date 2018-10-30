@@ -1,6 +1,10 @@
 {
-	"author": ["Alexander Markowetz", "Yin Yang", "Dimitris Papadias"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Alexander Markowetz",
+		"Yin Yang",
+		"Dimitris Papadias"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/MarkowetzYP07",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247548",
 	"pages": "605-616",
 	"publisher": "ACM",
-	"stemmed": ["keyword", "search", "on", "relat", "data", "stream"],
-	"tag": ["data type", "keyword", "relational"],
+	"stemmed": [
+		"keyword",
+		"search",
+		"on",
+		"relat",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"data type",
+		"keyword",
+		"relational"
+	],
 	"title": "Keyword search on relational data streams",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

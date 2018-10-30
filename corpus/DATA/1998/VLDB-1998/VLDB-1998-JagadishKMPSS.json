@@ -1,14 +1,47 @@
 {
-	"author": ["H. V. Jagadish", "Nick Koudas", "S. Muthukrishnan", "Viswanath Poosala", "Kenneth C. Sevcik", "Torsten Suel"],
-	"booktitle": "VLDB",
-	"cite": ["...", "...", "...", "conf/sigmod/HaasS92", "conf/vldb/Ioannidis93", "conf/sigmod/IoannidisP95", "...", "phd/Kooi80", "conf/sigmod/LiptonNS90", "journals/csur/ManninoCS88", "...", "conf/vldb/OlkenR86", "conf/vldb/PoosalaI97", "conf/sigmod/PoosalaIHS96", "conf/sigmod/Piatetsky-ShapiroC84", "books/aw/Zipf49"],
+	"author": [
+		"H. V. Jagadish",
+		"Nick Koudas",
+		"S. Muthukrishnan",
+		"Viswanath Poosala",
+		"Kenneth C. Sevcik",
+		"Torsten Suel"
+	],
+	"booktitle": "Proceedings of the 24th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"...",
+		"...",
+		"conf/sigmod/HaasS92",
+		"conf/vldb/Ioannidis93",
+		"conf/sigmod/IoannidisP95",
+		"...",
+		"phd/Kooi80",
+		"conf/sigmod/LiptonNS90",
+		"journals/csur/ManninoCS88",
+		"...",
+		"conf/vldb/OlkenR86",
+		"conf/vldb/PoosalaI97",
+		"conf/sigmod/PoosalaIHS96",
+		"conf/sigmod/Piatetsky-ShapiroC84",
+		"books/aw/Zipf49"
+	],
 	"crossref": "conf/vldb/98",
 	"dblpkey": "conf/vldb/JagadishKMPSS98",
 	"ee": "http://www.vldb.org/conf/1998/p275.pdf",
 	"pages": "275-286",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["optim", "histogram", "with", "qualiti", "guarante"],
-	"tag": ["quality"],
+	"stemmed": [
+		"optim",
+		"histogram",
+		"with",
+		"qualiti",
+		"guarante"
+	],
+	"tag": [
+		"quality"
+	],
 	"title": "Optimal Histograms with Quality Guarantees",
 	"type": "inproceedings",
 	"venue": "VLDB",

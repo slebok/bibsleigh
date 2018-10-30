@@ -1,6 +1,7 @@
 {
 	"author": "C. Gregory Doherty",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD98/P510.PDF",
 	"cite": "...",
 	"crossref": "conf/sigmod/98",
@@ -9,8 +10,16 @@
 	"ee": "http://doi.acm.org/10.1145/276304.276358",
 	"pages": "510-511",
 	"publisher": "ACM Press",
-	"stemmed": ["databas", "system", "manag", "and", "oracl"],
-	"tag": ["database"],
+	"stemmed": [
+		"databas",
+		"system",
+		"manag",
+		"and",
+		"oracl"
+	],
+	"tag": [
+		"database"
+	],
 	"title": "Database Systems Management and Oracle8",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

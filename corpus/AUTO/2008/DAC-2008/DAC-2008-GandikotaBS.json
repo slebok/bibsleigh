@@ -1,14 +1,31 @@
 {
-	"author": ["Ravikishore Gandikota", "David Blaauw", "Dennis Sylvester"],
-	"booktitle": "DAC",
+	"author": [
+		"Ravikishore Gandikota",
+		"David Blaauw",
+		"Dennis Sylvester"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/GandikotaBS08",
 	"doi": "10.1145/1391469.1391715",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391715",
 	"pages": "974-979",
 	"publisher": "ACM",
-	"stemmed": ["model", "crosstalk", "in", "statist", "static", "time", "analysi"],
-	"tag": ["analysis", "modelling", "statistics"],
+	"stemmed": [
+		"model",
+		"crosstalk",
+		"in",
+		"statist",
+		"static",
+		"time",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"modelling",
+		"statistics"
+	],
 	"title": "Modeling crosstalk in statistical static timing analysis",
 	"type": "inproceedings",
 	"venue": "DAC",

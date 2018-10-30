@@ -1,6 +1,14 @@
 {
-	"author": ["Sungjoo Yoo", "Jong-eun Lee", "Jinyong Jung", "Kyungseok Rha", "Youngchul Cho", "Kiyoung Choi"],
-	"booktitle": "DATE",
+	"author": [
+		"Sungjoo Yoo",
+		"Jong-eun Lee",
+		"Jinyong Jung",
+		"Kyungseok Rha",
+		"Youngchul Cho",
+		"Kiyoung Choi"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/YooLJRCC00",
 	"doi": "10.1109/DATE.2000.840857",
@@ -8,8 +16,22 @@
 	"pages": "663-668",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["fast", "hardwar", "softwar", "coverif", "by", "optimist", "execut", "of", "real", "processor"],
-	"tag": ["execution", "performance"],
+	"stemmed": [
+		"fast",
+		"hardwar",
+		"softwar",
+		"coverif",
+		"by",
+		"optimist",
+		"execut",
+		"of",
+		"real",
+		"processor"
+	],
+	"tag": [
+		"execution",
+		"performance"
+	],
 	"title": "Fast Hardware-Software Coverification by Optimistic Execution of Real Processor",
 	"type": "inproceedings",
 	"venue": "DATE",

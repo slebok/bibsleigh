@@ -1,13 +1,29 @@
 {
-	"author": ["Douglas Burdick", "AnHai Doan", "Raghu Ramakrishnan", "Shivakumar Vaithyanathan"],
-	"booktitle": "VLDB",
+	"author": [
+		"Douglas Burdick",
+		"AnHai Doan",
+		"Raghu Ramakrishnan",
+		"Shivakumar Vaithyanathan"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/BurdickDRV07",
 	"ee": "http://www.vldb.org/conf/2007/papers/research/p39-burdick.pdf",
 	"pages": "39-50",
 	"publisher": "ACM",
-	"stemmed": ["olap", "over", "imprecis", "data", "with", "domain", "constraint"],
-	"tag": ["constraints"],
+	"stemmed": [
+		"olap",
+		"over",
+		"imprecis",
+		"data",
+		"with",
+		"domain",
+		"constraint"
+	],
+	"tag": [
+		"constraints"
+	],
 	"title": "OLAP over Imprecise Data with Domain Constraints",
 	"type": "inproceedings",
 	"venue": "VLDB",

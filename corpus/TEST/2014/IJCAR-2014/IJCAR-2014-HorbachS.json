@@ -1,6 +1,10 @@
 {
-	"author": ["Matthias Horbach", "Viorica Sofronie-Stokkermans"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Matthias Horbach",
+		"Viorica Sofronie-Stokkermans"
+	],
+	"booktitle": "Proceedings of the Seventh International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2014",
 	"dblpkey": "conf/cade/HorbachS14",
 	"doi": "10.1007/978-3-319-08587-6_14",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["local", "transfer", "from", "constrain", "axiomat", "to", "reachabl", "predic"],
-	"tag": ["axiom", "locality", "reachability"],
+	"stemmed": [
+		"local",
+		"transfer",
+		"from",
+		"constrain",
+		"axiomat",
+		"to",
+		"reachabl",
+		"predic"
+	],
+	"tag": [
+		"axiom",
+		"locality",
+		"reachability"
+	],
 	"title": "Locality Transfer: From Constrained Axiomatizations to Reachability Predicates",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 8562,
+	"volume": "8562",
 	"year": 2014
 }

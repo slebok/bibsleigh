@@ -1,14 +1,31 @@
 {
-	"author": ["Jeff Da Silva", "J. Gregory Steffan"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Jeff Da Silva",
+		"J. Gregory Steffan"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/SilvaS06",
 	"doi": "10.1145/1168857.1168908",
 	"ee": "http://doi.acm.org/10.1145/1168857.1168908",
 	"pages": "416-425",
 	"publisher": "ACM",
-	"stemmed": ["a", "probabilist", "pointer", "analysi", "for", "specul", "optim"],
-	"tag": ["analysis", "optimisation", "pointer", "probability"],
+	"stemmed": [
+		"a",
+		"probabilist",
+		"pointer",
+		"analysi",
+		"for",
+		"specul",
+		"optim"
+	],
+	"tag": [
+		"analysis",
+		"optimisation",
+		"pointer",
+		"probability"
+	],
 	"title": "A probabilistic pointer analysis for speculative optimizations",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,6 +1,12 @@
 {
-	"author": ["Peter Bailis", "Alan Fekete", "Joseph M. Hellerstein", "Ali Ghodsi", "Ion Stoica"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Peter Bailis",
+		"Alan Fekete",
+		"Joseph M. Hellerstein",
+		"Ali Ghodsi",
+		"Ion Stoica"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/BailisFHGS14",
@@ -8,8 +14,18 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2588562",
 	"pages": "27-38",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "atom", "visibl", "with", "ramp", "transact"],
-	"tag": ["scalability", "transaction"],
+	"stemmed": [
+		"scalabl",
+		"atom",
+		"visibl",
+		"with",
+		"ramp",
+		"transact"
+	],
+	"tag": [
+		"scalability",
+		"transaction"
+	],
 	"title": "Scalable atomic visibility with RAMP transactions",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

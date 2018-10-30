@@ -1,6 +1,10 @@
 {
-	"author": ["Thomas Sternagel", "Harald Zankl"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Thomas Sternagel",
+		"Harald Zankl"
+	],
+	"booktitle": "Proceedings of the Sixth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2012",
 	"dblpkey": "conf/cade/SternagelZ12",
 	"doi": "10.1007/978-3-642-31365-3_41",
@@ -10,11 +14,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["kbcv", "knuth", "bendix", "complet", "visual"],
-	"tag": ["named", "visualisation"],
+	"stemmed": [
+		"kbcv",
+		"knuth",
+		"bendix",
+		"complet",
+		"visual"
+	],
+	"tag": [
+		"named",
+		"visualisation"
+	],
 	"title": "KBCV — Knuth-Bendix Completion Visualizer",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 7364,
+	"volume": "7364",
 	"year": 2012
 }

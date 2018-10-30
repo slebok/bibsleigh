@@ -1,6 +1,9 @@
 {
-	"author": ["Lukasz Golab", "M. Tamer Özsu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Lukasz Golab",
+		"M. Tamer Özsu"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/GolabO05",
@@ -8,8 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066232",
 	"pages": "658-669",
 	"publisher": "ACM",
-	"stemmed": ["updat", "pattern", "awar", "model", "and", "process", "of", "continu", "queri"],
-	"tag": ["modelling", "query"],
+	"stemmed": [
+		"updat",
+		"pattern",
+		"awar",
+		"model",
+		"and",
+		"process",
+		"of",
+		"continu",
+		"queri"
+	],
+	"tag": [
+		"modelling",
+		"query"
+	],
 	"title": "Update-Pattern-Aware Modeling and Processing of Continuous Queries",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

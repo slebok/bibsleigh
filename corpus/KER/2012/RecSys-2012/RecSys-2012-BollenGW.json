@@ -1,14 +1,34 @@
 {
-	"author": ["Dirk G. F. M. Bollen", "Mark P. Graus", "Martijn C. Willemsen"],
-	"booktitle": "RecSys",
+	"author": [
+		"Dirk G. F. M. Bollen",
+		"Mark P. Graus",
+		"Martijn C. Willemsen"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2012",
 	"dblpkey": "conf/recsys/BollenGW12",
 	"doi": "10.1145/2365952.2365998",
 	"ee": "http://doi.acm.org/10.1145/2365952.2365998",
 	"pages": "217-220",
 	"publisher": "ACM",
-	"stemmed": ["rememb", "the", "star", "effect", "of", "time", "on", "prefer", "retriev", "from", "memori"],
-	"tag": ["memory management", "retrieval"],
+	"stemmed": [
+		"rememb",
+		"the",
+		"star",
+		"effect",
+		"of",
+		"time",
+		"on",
+		"prefer",
+		"retriev",
+		"from",
+		"memori"
+	],
+	"tag": [
+		"memory management",
+		"retrieval"
+	],
 	"title": "Remembering the stars?: effect of time on preference retrieval from memory",
 	"type": "inproceedings",
 	"venue": "RecSys",

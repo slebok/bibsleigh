@@ -1,6 +1,11 @@
 {
-	"author": ["Gregor Richards", "Francesco Zappa Nardelli", "Jan Vitek"],
-	"booktitle": "ECOOP",
+	"author": [
+		"Gregor Richards",
+		"Francesco Zappa Nardelli",
+		"Jan Vitek"
+	],
+	"booktitle": "Proceedings of the 29th European Conference on Object-Oriented Programming",
+	"booktitleshort": "ECOOP",
 	"crossref": "conf/ecoop/2015",
 	"dblpkey": "conf/ecoop/RichardsNV15",
 	"doi": "10.4230/LIPIcs.ECOOP.2015.76",
@@ -10,11 +15,19 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["concret", "type", "for", "type", "script"],
-	"tag": ["typescript"],
+	"stemmed": [
+		"concret",
+		"type",
+		"for",
+		"type",
+		"script"
+	],
+	"tag": [
+		"typescript"
+	],
 	"title": "Concrete Types for TypeScript",
 	"type": "inproceedings",
 	"venue": "ECOOP",
-	"volume": 37,
+	"volume": "37",
 	"year": 2015
 }

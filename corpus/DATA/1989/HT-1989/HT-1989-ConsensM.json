@@ -1,6 +1,10 @@
 {
-	"author": ["Mariano P. Consens", "Alberto O. Mendelzon"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Mariano P. Consens",
+		"Alberto O. Mendelzon"
+	],
+	"booktitle": "Proceedings of the Second Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1989/P269.pdf",
 	"crossref": "conf/ht/89",
 	"dblpkey": "conf/ht/ConsensM89",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/74224.74247",
 	"pages": "269-292",
 	"publisher": "ACM",
-	"stemmed": ["express", "structur", "hypertext", "queri", "in", "graph", "log"],
-	"tag": ["hypermedia", "query"],
+	"stemmed": [
+		"express",
+		"structur",
+		"hypertext",
+		"queri",
+		"in",
+		"graph",
+		"log"
+	],
+	"tag": [
+		"hypermedia",
+		"query"
+	],
 	"title": "Expressing Structural Hypertext Queries in GraphLog",
 	"type": "inproceedings",
 	"venue": "HT",

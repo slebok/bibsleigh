@@ -1,16 +1,35 @@
 {
-	"author": ["Antonio Massari", "Stefano Pavani", "Lorenzo Saladini", "Panos K. Chrysanthis"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Antonio Massari",
+		"Stefano Pavani",
+		"Lorenzo Saladini",
+		"Panos K. Chrysanthis"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD95/P477.PDF",
-	"cite": ["journals/is/CatarciSA93", "journals/tods/MaierU83", "conf/ride/MassariC95", "..."],
+	"cite": [
+		"journals/is/CatarciSA93",
+		"journals/tods/MaierU83",
+		"conf/ride/MassariC95",
+		"..."
+	],
 	"crossref": "conf/sigmod/95",
 	"dblpkey": "conf/sigmod/MassariPSC95",
 	"doi": "10.1145/223784.223890",
 	"ee": "http://doi.acm.org/10.1145/223784.223890",
-	"pages": 477,
+	"pages": "477",
 	"publisher": "ACM Press",
-	"stemmed": ["qbi", "queri", "by", "icon"],
-	"tag": ["named", "query"],
+	"stemmed": [
+		"qbi",
+		"queri",
+		"by",
+		"icon"
+	],
+	"tag": [
+		"named",
+		"query"
+	],
 	"title": "QBI: Query By Icons",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

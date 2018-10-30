@@ -1,14 +1,34 @@
 {
-	"author": ["Tom Spink", "Harry Wagstaff", "Björn Franke", "Nigel P. Topham"],
-	"booktitle": "LCTES",
+	"author": [
+		"Tom Spink",
+		"Harry Wagstaff",
+		"Björn Franke",
+		"Nigel P. Topham"
+	],
+	"booktitle": "Proceedings of the 15th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2014",
 	"dblpkey": "conf/lctrts/SpinkWFT14",
 	"doi": "10.1145/2597809.2597810",
 	"ee": "http://doi.acm.org/10.1145/2597809.2597810",
 	"pages": "3-12",
 	"publisher": "ACM",
-	"stemmed": ["effici", "code", "generat", "in", "a", "region", "base", "dynam", "binari", "translat"],
-	"tag": ["code generation", "performance"],
+	"stemmed": [
+		"effici",
+		"code",
+		"generat",
+		"in",
+		"a",
+		"region",
+		"base",
+		"dynam",
+		"binari",
+		"translat"
+	],
+	"tag": [
+		"code generation",
+		"performance"
+	],
 	"title": "Efficient code generation in a region-based dynamic binary translator",
 	"type": "inproceedings",
 	"venue": "LCTES",

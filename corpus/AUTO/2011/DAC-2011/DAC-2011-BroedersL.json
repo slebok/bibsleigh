@@ -1,14 +1,32 @@
 {
-	"author": ["Harry Broeders", "René van Leuken"],
-	"booktitle": "DAC",
+	"author": [
+		"Harry Broeders",
+		"René van Leuken"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/BroedersL11",
 	"doi": "10.1145/2024724.2024810",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024810",
 	"pages": "357-362",
 	"publisher": "ACM",
-	"stemmed": ["extract", "behavior", "and", "dynam", "generat", "hierarchi", "from", "system", "c", "model"],
-	"tag": ["behaviour", "modelling"],
+	"stemmed": [
+		"extract",
+		"behavior",
+		"and",
+		"dynam",
+		"generat",
+		"hierarchi",
+		"from",
+		"system",
+		"c",
+		"model"
+	],
+	"tag": [
+		"behaviour",
+		"modelling"
+	],
 	"title": "Extracting behavior and dynamically generated hierarchy from SystemC models",
 	"type": "inproceedings",
 	"venue": "DAC",

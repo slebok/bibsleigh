@@ -1,14 +1,27 @@
 {
 	"author": "Steven L. Scott",
-	"booktitle": "ASPLOS",
+	"booktitle": "Proceedings of the Seventh International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1996",
 	"dblpkey": "conf/asplos/Scott96",
 	"doi": "10.1145/237090.237144",
 	"ee": "http://doi.acm.org/10.1145/237090.237144",
 	"pages": "26-36",
 	"publisher": "ACM Press",
-	"stemmed": ["synchron", "and", "communic", "in", "the", "t", "e", "multiprocessor"],
-	"tag": ["communication", "multi"],
+	"stemmed": [
+		"synchron",
+		"and",
+		"communic",
+		"in",
+		"the",
+		"t",
+		"e",
+		"multiprocessor"
+	],
+	"tag": [
+		"communication",
+		"multi"
+	],
 	"title": "Synchronization and Communication in the T3E Multiprocessor",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

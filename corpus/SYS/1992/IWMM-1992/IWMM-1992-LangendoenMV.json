@@ -1,6 +1,11 @@
 {
-	"author": ["Koen Langendoen", "Henk L. Muller", "Willem G. Vree"],
-	"booktitle": "IWMM",
+	"author": [
+		"Koen Langendoen",
+		"Henk L. Muller",
+		"Willem G. Vree"
+	],
+	"booktitle": "Proceedings of the First International Workshop on Memory Management",
+	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
 	"dblpkey": "conf/iwmm/LangendoenMV92",
 	"doi": "10.1007/BFb0017189",
@@ -10,11 +15,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["memori", "manag", "for", "parallel", "task", "in", "share", "memori"],
-	"tag": ["memory management", "parallel"],
+	"stemmed": [
+		"memori",
+		"manag",
+		"for",
+		"parallel",
+		"task",
+		"in",
+		"share",
+		"memori"
+	],
+	"tag": [
+		"memory management",
+		"parallel"
+	],
 	"title": "Memory Management for Parallel Tasks in Shared Memory",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 637,
+	"volume": "637",
 	"year": 1992
 }

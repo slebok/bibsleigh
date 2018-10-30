@@ -1,14 +1,47 @@
 {
-	"author": ["Toshihide Ibaraki", "Tiko Kameda", "Toshimi Minoura"],
-	"booktitle": "VLDB",
-	"cite": ["journals/tse/BernsteinSW79", "conf/podc/BernsteinG82", "journals/cacm/EswarranGLT76", "...", "...", "...", "journals/jcss/MuroKM84", "journals/jacm/Papadimitriou79b", "conf/pods/PapadimitriouK82", "conf/sosp/Reed79", "conf/focs/Sethi81", "conf/focs/StearnsLR76"],
+	"author": [
+		"Toshihide Ibaraki",
+		"Tiko Kameda",
+		"Toshimi Minoura"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/tse/BernsteinSW79",
+		"conf/podc/BernsteinG82",
+		"journals/cacm/EswarranGLT76",
+		"...",
+		"...",
+		"...",
+		"journals/jcss/MuroKM84",
+		"journals/jacm/Papadimitriou79b",
+		"conf/pods/PapadimitriouK82",
+		"conf/sosp/Reed79",
+		"conf/focs/Sethi81",
+		"conf/focs/StearnsLR76"
+	],
 	"crossref": "conf/vldb/83",
 	"dblpkey": "conf/vldb/IbarakiKM83",
 	"ee": "http://www.vldb.org/conf/1983/P089.PDF",
 	"pages": "89-91",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["disjoint", "interv", "topolog", "sort", "a", "use", "concept", "in", "serializ", "theori", "extend", "abstract"],
-	"tag": ["concept"],
+	"stemmed": [
+		"disjoint",
+		"interv",
+		"topolog",
+		"sort",
+		"a",
+		"use",
+		"concept",
+		"in",
+		"serializ",
+		"theori",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"concept"
+	],
 	"title": "Disjoint-Interval Topological Sort: A Useful Concept in Serializability Theory (Extended Abstract)",
 	"type": "inproceedings",
 	"venue": "VLDB",

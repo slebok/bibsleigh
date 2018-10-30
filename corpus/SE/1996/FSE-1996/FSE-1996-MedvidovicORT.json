@@ -1,7 +1,12 @@
 {
-	"author": ["Nenad Medvidović", "Peyman Oreizy", "Jason E. Robbins", "Richard N. Taylor"],
+	"author": [
+		"Nenad Medvidović",
+		"Peyman Oreizy",
+		"Jason E. Robbins",
+		"Richard N. Taylor"
+	],
 	"booktitle": "Proceedings of the Fourth Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/1996",
 	"dblpkey": "conf/sigsoft/MedvidovicORT96",
 	"doi": "10.1145/239098.239106",
@@ -9,8 +14,27 @@
 	"ee": "http://doi.acm.org/10.1145/239098.239106",
 	"pages": "24-32",
 	"publisher": "ACM",
-	"stemmed": ["use", "object", "orient", "type", "to", "support", "architectur", "design", "in", "the", "c", "style"],
-	"tag": ["architecture", "design", "object-oriented", "type system", "using"],
+	"stemmed": [
+		"use",
+		"object",
+		"orient",
+		"type",
+		"to",
+		"support",
+		"architectur",
+		"design",
+		"in",
+		"the",
+		"c",
+		"style"
+	],
+	"tag": [
+		"architecture",
+		"design",
+		"object-oriented",
+		"type system",
+		"using"
+	],
 	"title": "Using Object-Oriented Typing to Support Architectural Design in the C2 Style",
 	"type": "inproceedings",
 	"venue": "FSE",

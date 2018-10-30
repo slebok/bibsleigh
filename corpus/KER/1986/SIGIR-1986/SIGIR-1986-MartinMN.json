@@ -1,6 +1,11 @@
 {
-	"author": ["Patrick Martin", "Ian A. Macleod", "Brent Nordin"],
+	"author": [
+		"Patrick Martin",
+		"Ian A. Macleod",
+		"Brent Nordin"
+	],
 	"booktitle": "Proceedings of the Ninth International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1986/P131.pdf",
 	"crossref": "conf/sigir/86",
 	"dblpkey": "conf/sigir/MartinMN86",
@@ -8,8 +13,22 @@
 	"ee": "http://doi.acm.org/10.1145/253168.253197",
 	"pages": "131-137",
 	"publisher": "ACM",
-	"stemmed": ["a", "design", "of", "a", "distribut", "full", "text", "retriev", "system"],
-	"tag": ["design", "distributed", "retrieval"],
+	"stemmed": [
+		"a",
+		"design",
+		"of",
+		"a",
+		"distribut",
+		"full",
+		"text",
+		"retriev",
+		"system"
+	],
+	"tag": [
+		"design",
+		"distributed",
+		"retrieval"
+	],
 	"title": "A Design of a Distributed Full Text Retrieval System",
 	"type": "inproceedings",
 	"venue": "SIGIR",

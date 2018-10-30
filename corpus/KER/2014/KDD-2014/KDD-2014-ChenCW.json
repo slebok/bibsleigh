@@ -1,14 +1,33 @@
 {
-	"author": ["Wenlin Chen", "Yixin Chen", "Kilian Q. Weinberger"],
-	"booktitle": "KDD",
+	"author": [
+		"Wenlin Chen",
+		"Yixin Chen",
+		"Kilian Q. Weinberger"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/ChenCW14",
 	"doi": "10.1145/2623330.2623627",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623627",
 	"pages": "621-630",
 	"publisher": "ACM",
-	"stemmed": ["fast", "flux", "discrimin", "for", "larg", "scale", "spars", "nonlinear", "classif"],
-	"tag": ["classification", "performance", "scalability"],
+	"stemmed": [
+		"fast",
+		"flux",
+		"discrimin",
+		"for",
+		"larg",
+		"scale",
+		"spars",
+		"nonlinear",
+		"classif"
+	],
+	"tag": [
+		"classification",
+		"performance",
+		"scalability"
+	],
 	"title": "Fast flux discriminant for large-scale sparse nonlinear classification",
 	"type": "inproceedings",
 	"venue": "KDD",

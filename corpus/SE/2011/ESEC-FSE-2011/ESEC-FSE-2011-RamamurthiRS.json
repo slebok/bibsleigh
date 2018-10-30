@@ -1,17 +1,40 @@
 {
-	"author": ["Arun Ramamurthi", "Subhajit Roy", "Y. N. Srikant"],
+	"author": [
+		"Arun Ramamurthi",
+		"Subhajit Roy",
+		"Y. N. Srikant"
+	],
 	"booktitle": "Proceedings of the 19th Symposium on the Foundations of Software Engineering and the 13rd European Software Engineering Conference",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "ESEC/FSE",
 	"crossref": "conf/sigsoft/2011",
 	"dblpkey": "conf/sigsoft/RamamurthiRS11",
 	"doi": "10.1145/2025113.2025206",
-	"editor": ["Tibor Gyimóthy", "Andreas Zeller"],
+	"editor": [
+		"Tibor Gyimóthy",
+		"Andreas Zeller"
+	],
 	"ee": "http://doi.acm.org/10.1145/2025113.2025206",
 	"isbn": "978-1-4503-0443-6",
 	"pages": "512-515",
 	"publisher": "ACM",
-	"stemmed": ["probabilist", "dataflow", "analysi", "use", "path", "profil", "on", "structur", "graph"],
-	"tag": ["analysis", "data flow", "graph", "probability", "using"],
+	"stemmed": [
+		"probabilist",
+		"dataflow",
+		"analysi",
+		"use",
+		"path",
+		"profil",
+		"on",
+		"structur",
+		"graph"
+	],
+	"tag": [
+		"analysis",
+		"data flow",
+		"graph",
+		"probability",
+		"using"
+	],
 	"title": "Probabilistic dataflow analysis using path profiles on structure graphs",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

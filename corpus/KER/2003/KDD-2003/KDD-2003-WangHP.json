@@ -1,14 +1,33 @@
 {
-	"author": ["Jianyong Wang", "Jiawei Han", "Jian Pei"],
-	"booktitle": "KDD",
+	"author": [
+		"Jianyong Wang",
+		"Jiawei Han",
+		"Jian Pei"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2003",
 	"dblpkey": "conf/kdd/WangHP03",
 	"doi": "10.1145/956750.956779",
 	"ee": "http://doi.acm.org/10.1145/956750.956779",
 	"pages": "236-245",
 	"publisher": "ACM",
-	"stemmed": ["closet", "search", "for", "the", "best", "strategi", "for", "mine", "frequent", "close", "itemset"],
-	"tag": ["mining"],
+	"stemmed": [
+		"closet",
+		"search",
+		"for",
+		"the",
+		"best",
+		"strategi",
+		"for",
+		"mine",
+		"frequent",
+		"close",
+		"itemset"
+	],
+	"tag": [
+		"mining"
+	],
 	"title": "CLOSET+: searching for the best strategies for mining frequent closed itemsets",
 	"type": "inproceedings",
 	"venue": "KDD",

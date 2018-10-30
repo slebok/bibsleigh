@@ -1,14 +1,31 @@
 {
-	"author": ["Jacob P. Baskin", "Shriram Krishnamurthi"],
-	"booktitle": "RecSys",
+	"author": [
+		"Jacob P. Baskin",
+		"Shriram Krishnamurthi"
+	],
+	"booktitle": "Proceedings of the Third Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2009",
 	"dblpkey": "conf/recsys/BaskinK09",
 	"doi": "10.1145/1639714.1639782",
 	"ee": "http://doi.acm.org/10.1145/1639714.1639782",
 	"pages": "337-340",
 	"publisher": "ACM",
-	"stemmed": ["prefer", "aggreg", "in", "group", "recommend", "system", "for", "committe", "decis", "make"],
-	"tag": ["recommendation"],
+	"stemmed": [
+		"prefer",
+		"aggreg",
+		"in",
+		"group",
+		"recommend",
+		"system",
+		"for",
+		"committe",
+		"decis",
+		"make"
+	],
+	"tag": [
+		"recommendation"
+	],
 	"title": "Preference aggregation in group recommender systems for committee decision-making",
 	"type": "inproceedings",
 	"venue": "RecSys",

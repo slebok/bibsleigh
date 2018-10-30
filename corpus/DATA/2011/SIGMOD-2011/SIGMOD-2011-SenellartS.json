@@ -1,6 +1,9 @@
 {
-	"author": ["Pierre Senellart", "Asma Souihli"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Pierre Senellart",
+		"Asma Souihli"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/SenellartS11",
@@ -8,8 +11,26 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989480",
 	"pages": "1295-1298",
 	"publisher": "ACM",
-	"stemmed": ["pro", "appro", "x", "a", "lightweight", "approxim", "queri", "processor", "over", "probabilist", "tree"],
-	"tag": ["approximate", "lightweight", "named", "probability", "query"],
+	"stemmed": [
+		"pro",
+		"appro",
+		"x",
+		"a",
+		"lightweight",
+		"approxim",
+		"queri",
+		"processor",
+		"over",
+		"probabilist",
+		"tree"
+	],
+	"tag": [
+		"approximate",
+		"lightweight",
+		"named",
+		"probability",
+		"query"
+	],
 	"title": "ProApproX: a lightweight approximation query processor over probabilistic trees",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

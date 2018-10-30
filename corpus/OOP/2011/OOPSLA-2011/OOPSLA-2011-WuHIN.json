@@ -1,17 +1,42 @@
 {
-	"author": ["Peng Wu", "Hiroshige Hayashizaki", "Hiroshi Inoue", "Toshio Nakatani"],
-	"booktitle": "Proceedings of the 26th Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Peng Wu",
+		"Hiroshige Hayashizaki",
+		"Hiroshi Inoue",
+		"Toshio Nakatani"
+	],
+	"booktitle": "Proceedings of the 26th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2011",
 	"dblpkey": "conf/oopsla/WuHIN11",
 	"doi": "10.1145/2048066.2048127",
-	"editor": ["Cristina Videira Lopes", "Kathleen Fisher"],
+	"editor": [
+		"Cristina Videira Lopes",
+		"Kathleen Fisher"
+	],
 	"ee": "http://doi.acm.org/10.1145/2048066.2048127",
 	"isbn": "978-1-4503-0940-0",
 	"pages": "789-804",
 	"publisher": "ACM",
-	"stemmed": ["reduc", "trace", "select", "footprint", "for", "larg", "scale", "java", "applic", "without", "perform", "loss"],
-	"tag": ["java", "performance", "scalability"],
+	"stemmed": [
+		"reduc",
+		"trace",
+		"select",
+		"footprint",
+		"for",
+		"larg",
+		"scale",
+		"java",
+		"applic",
+		"without",
+		"perform",
+		"loss"
+	],
+	"tag": [
+		"java",
+		"performance",
+		"scalability"
+	],
 	"title": "Reducing trace selection footprint for large-scale Java applications without performance loss",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

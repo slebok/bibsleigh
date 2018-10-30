@@ -1,14 +1,30 @@
 {
-	"author": ["Jason Weston", "Ron J. Weiss", "Hector Yee"],
-	"booktitle": "RecSys",
+	"author": [
+		"Jason Weston",
+		"Ron J. Weiss",
+		"Hector Yee"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2013",
 	"dblpkey": "conf/recsys/WestonWY13",
 	"doi": "10.1145/2507157.2507209",
 	"ee": "http://doi.acm.org/10.1145/2507157.2507209",
 	"pages": "65-68",
 	"publisher": "ACM",
-	"stemmed": ["nonlinear", "latent", "factor", "by", "embed", "multipl", "user", "interest"],
-	"tag": ["multi"],
+	"stemmed": [
+		"nonlinear",
+		"latent",
+		"factor",
+		"by",
+		"embed",
+		"multipl",
+		"user",
+		"interest"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "Nonlinear latent factorization by embedding multiple user interests",
 	"type": "inproceedings",
 	"venue": "RecSys",

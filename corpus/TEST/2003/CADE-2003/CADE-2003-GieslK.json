@@ -1,6 +1,10 @@
 {
-	"author": ["Jürgen Giesl", "Deepak Kapur"],
-	"booktitle": "CADE",
+	"author": [
+		"Jürgen Giesl",
+		"Deepak Kapur"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2003",
 	"dblpkey": "conf/cade/GieslK03",
 	"doi": "10.1007/978-3-540-45085-6_3",
@@ -10,11 +14,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["decid", "induct", "valid", "of", "equat"],
-	"tag": ["equation", "induction"],
+	"stemmed": [
+		"decid",
+		"induct",
+		"valid",
+		"of",
+		"equat"
+	],
+	"tag": [
+		"equation",
+		"induction"
+	],
 	"title": "Deciding Inductive Validity of Equations",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2741,
+	"volume": "2741",
 	"year": 2003
 }

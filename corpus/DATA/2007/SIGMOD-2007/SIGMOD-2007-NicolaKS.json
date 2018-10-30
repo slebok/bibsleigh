@@ -1,6 +1,10 @@
 {
-	"author": ["Matthias Nicola", "Irina Kogan", "Berni Schiefer"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Matthias Nicola",
+		"Irina Kogan",
+		"Berni Schiefer"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/NicolaKS07",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247590",
 	"pages": "937-948",
 	"publisher": "ACM",
-	"stemmed": ["an", "xml", "transact", "process", "benchmark"],
-	"tag": ["benchmark", "metric", "transaction", "xml"],
+	"stemmed": [
+		"an",
+		"xml",
+		"transact",
+		"process",
+		"benchmark"
+	],
+	"tag": [
+		"benchmark",
+		"metric",
+		"transaction",
+		"xml"
+	],
 	"title": "An XML transaction processing benchmark",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

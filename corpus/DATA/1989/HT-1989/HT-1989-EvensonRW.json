@@ -1,6 +1,11 @@
 {
-	"author": ["Shelley Evenson", "John Rheinfrank", "Wendie Wulff"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Shelley Evenson",
+		"John Rheinfrank",
+		"Wendie Wulff"
+	],
+	"booktitle": "Proceedings of the Second Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1989/P083.pdf",
 	"crossref": "conf/ht/89",
 	"dblpkey": "conf/ht/EvensonRW89",
@@ -8,8 +13,22 @@
 	"ee": "http://doi.acm.org/10.1145/74224.74231",
 	"pages": "83-92",
 	"publisher": "ACM",
-	"stemmed": ["toward", "a", "design", "languag", "for", "repres", "hypermedia", "cue"],
-	"tag": ["design", "hypermedia", "representation", "towards"],
+	"stemmed": [
+		"toward",
+		"a",
+		"design",
+		"languag",
+		"for",
+		"repres",
+		"hypermedia",
+		"cue"
+	],
+	"tag": [
+		"design",
+		"hypermedia",
+		"representation",
+		"towards"
+	],
 	"title": "Towards a Design Language for Representing Hypermedia Cues",
 	"type": "inproceedings",
 	"venue": "HT",

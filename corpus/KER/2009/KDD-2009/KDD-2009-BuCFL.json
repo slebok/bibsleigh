@@ -1,14 +1,32 @@
 {
-	"author": ["Yingyi Bu", "Lei Chen", "Ada Wai-Chee Fu", "Dawei Liu"],
-	"booktitle": "KDD",
+	"author": [
+		"Yingyi Bu",
+		"Lei Chen",
+		"Ada Wai-Chee Fu",
+		"Dawei Liu"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/BuCFL09",
 	"doi": "10.1145/1557019.1557043",
 	"ee": "http://doi.acm.org/10.1145/1557019.1557043",
 	"pages": "159-168",
 	"publisher": "ACM",
-	"stemmed": ["effici", "anomali", "monitor", "over", "move", "object", "trajectori", "stream"],
-	"tag": ["monitoring", "performance"],
+	"stemmed": [
+		"effici",
+		"anomali",
+		"monitor",
+		"over",
+		"move",
+		"object",
+		"trajectori",
+		"stream"
+	],
+	"tag": [
+		"monitoring",
+		"performance"
+	],
 	"title": "Efficient anomaly monitoring over moving object trajectory streams",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,6 +1,7 @@
 {
 	"author": "Erich J. Neuhold",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 13th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD83/P004.PDF",
 	"crossref": "conf/sigmod/83",
 	"dblpkey": "conf/sigmod/Neuhold83",
@@ -8,8 +9,15 @@
 	"ee": "http://doi.acm.org/10.1145/582192.582197",
 	"pages": "4-5",
 	"publisher": "ACM Press",
-	"stemmed": ["view", "on", "data", "manag"],
-	"tag": ["data transformation"],
+	"stemmed": [
+		"view",
+		"on",
+		"data",
+		"manag"
+	],
+	"tag": [
+		"data transformation"
+	],
 	"title": "Views on Data Management",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

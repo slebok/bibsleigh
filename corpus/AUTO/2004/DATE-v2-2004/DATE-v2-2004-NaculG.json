@@ -1,6 +1,10 @@
 {
-	"author": ["André C. Nácul", "Tony Givargis"],
-	"booktitle": "DATE",
+	"author": [
+		"André C. Nácul",
+		"Tony Givargis"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/NaculG04",
 	"doi": "10.1109/DATE.2004.1269096",
@@ -8,8 +12,20 @@
 	"pages": "1376-1379",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["dynam", "voltag", "and", "cach", "reconfigur", "for", "low", "power"],
-	"tag": ["configuration management", "power management"],
+	"stemmed": [
+		"dynam",
+		"voltag",
+		"and",
+		"cach",
+		"reconfigur",
+		"for",
+		"low",
+		"power"
+	],
+	"tag": [
+		"configuration management",
+		"power management"
+	],
 	"title": "Dynamic Voltage and Cache Reconfiguration for Low Power",
 	"type": "inproceedings",
 	"venue": "DATE",

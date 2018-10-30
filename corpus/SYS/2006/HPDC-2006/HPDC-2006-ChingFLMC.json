@@ -1,14 +1,40 @@
 {
-	"author": ["Avery Ching", "Wu-chun Feng", "Heshan Lin", "Xiaosong Ma", "Alok N. Choudhary"],
+	"author": [
+		"Avery Ching",
+		"Wu-chun Feng",
+		"Heshan Lin",
+		"Xiaosong Ma",
+		"Alok N. Choudhary"
+	],
 	"booktitle": "Proceedings of the 15th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2006",
 	"dblpkey": "conf/hpdc/ChingFLMC06",
 	"doi": "10.1109/HPDC.2006.1652154",
-	"ee": ["http://dx.doi.org/10.1109/HPDC.2006.1652154", "http://doi.ieeecomputersociety.org/10.1109/HPDC.2006.1652154"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPDC.2006.1652154",
+		"http://doi.ieeecomputersociety.org/10.1109/HPDC.2006.1652154"
+	],
 	"pages": "229-240",
 	"publisher": "IEEE",
-	"stemmed": ["explor", "i", "o", "strategi", "for", "parallel", "sequenc", "search", "tool", "with", "s", "asim"],
-	"tag": ["parallel", "tool support"],
+	"stemmed": [
+		"explor",
+		"i",
+		"o",
+		"strategi",
+		"for",
+		"parallel",
+		"sequenc",
+		"search",
+		"tool",
+		"with",
+		"s",
+		"asim"
+	],
+	"tag": [
+		"parallel",
+		"tool support"
+	],
 	"title": "Exploring I/O Strategies for Parallel Sequence-Search Tools with S3aSim",
 	"type": "inproceedings",
 	"venue": "HPDC",

@@ -1,14 +1,30 @@
 {
-	"author": ["Egor V. Kostylev", "Juan L. Reutter", "András Z. Salamon"],
-	"booktitle": "PODS",
+	"author": [
+		"Egor V. Kostylev",
+		"Juan L. Reutter",
+		"András Z. Salamon"
+	],
+	"booktitle": "Proceedings of the 31st Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2012",
 	"dblpkey": "conf/pods/KostylevRS12",
 	"doi": "10.1145/2213556.2213590",
 	"ee": "http://doi.acm.org/10.1145/2213556.2213590",
 	"pages": "237-248",
 	"publisher": "ACM",
-	"stemmed": ["classif", "of", "annot", "semir", "over", "queri", "contain"],
-	"tag": ["classification", "query"],
+	"stemmed": [
+		"classif",
+		"of",
+		"annot",
+		"semir",
+		"over",
+		"queri",
+		"contain"
+	],
+	"tag": [
+		"classification",
+		"query"
+	],
 	"title": "Classification of annotation semirings over query containment",
 	"type": "inproceedings",
 	"venue": "PODS",

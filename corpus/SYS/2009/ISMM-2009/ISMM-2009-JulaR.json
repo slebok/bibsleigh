@@ -1,14 +1,31 @@
 {
-	"author": ["Alin Jula", "Lawrence Rauchwerger"],
-	"booktitle": "ISMM",
+	"author": [
+		"Alin Jula",
+		"Lawrence Rauchwerger"
+	],
+	"booktitle": "Proceedings of the Eighth International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2009",
 	"dblpkey": "conf/iwmm/JulaR09",
 	"doi": "10.1145/1542431.1542447",
 	"ee": "http://doi.acm.org/10.1145/1542431.1542447",
 	"pages": "109-118",
 	"publisher": "ACM",
-	"stemmed": ["two", "memori", "alloc", "that", "use", "hint", "to", "improv", "local"],
-	"tag": ["locality", "memory management"],
+	"stemmed": [
+		"two",
+		"memori",
+		"alloc",
+		"that",
+		"use",
+		"hint",
+		"to",
+		"improv",
+		"local"
+	],
+	"tag": [
+		"locality",
+		"memory management"
+	],
 	"title": "Two memory allocators that use hints to improve locality",
 	"type": "inproceedings",
 	"venue": "ISMM",

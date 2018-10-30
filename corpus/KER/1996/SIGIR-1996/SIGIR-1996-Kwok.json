@@ -1,6 +1,7 @@
 {
 	"author": "K. L. Kwok",
 	"booktitle": "Proceedings of the 19th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1996/P187.pdf",
 	"crossref": "conf/sigir/96",
 	"dblpkey": "conf/sigir/Kwok96",
@@ -8,8 +9,24 @@
 	"ee": "http://doi.acm.org/10.1145/243199.243266",
 	"pages": "187-195",
 	"publisher": "ACM",
-	"stemmed": ["a", "new", "method", "of", "weight", "queri", "term", "for", "ad", "hoc", "retriev"],
-	"tag": ["ad hoc", "query", "retrieval"],
+	"stemmed": [
+		"a",
+		"new",
+		"method",
+		"of",
+		"weight",
+		"queri",
+		"term",
+		"for",
+		"ad",
+		"hoc",
+		"retriev"
+	],
+	"tag": [
+		"ad hoc",
+		"query",
+		"retrieval"
+	],
 	"title": "A New Method of Weighting Query Terms for Ad-Hoc Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,14 +1,32 @@
 {
-	"author": ["Hai Zhou", "Narendra V. Shenoy", "William Nicholls"],
-	"booktitle": "DAC",
+	"author": [
+		"Hai Zhou",
+		"Narendra V. Shenoy",
+		"William Nicholls"
+	],
+	"booktitle": "Proceedings of the 38th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2001",
 	"dblpkey": "conf/dac/ZhouSN01",
 	"doi": "10.1145/378239.379053",
 	"ee": "http://doi.acm.org/10.1145/378239.379053",
 	"pages": "714-719",
 	"publisher": "ACM",
-	"stemmed": ["time", "analysi", "with", "crosstalk", "as", "fixpoint", "on", "complet", "lattic"],
-	"tag": ["analysis", "fixpoint"],
+	"stemmed": [
+		"time",
+		"analysi",
+		"with",
+		"crosstalk",
+		"as",
+		"fixpoint",
+		"on",
+		"complet",
+		"lattic"
+	],
+	"tag": [
+		"analysis",
+		"fixpoint"
+	],
 	"title": "Timing Analysis with Crosstalk as Fixpoints on Complete Lattice",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,30 @@
 {
-	"author": ["Tarik Hadzic", "Barry O'Sullivan"],
-	"booktitle": "RecSys",
+	"author": [
+		"Tarik Hadzic",
+		"Barry O'Sullivan"
+	],
+	"booktitle": "Proceedings of the Third Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2009",
 	"dblpkey": "conf/recsys/HadzicO09",
 	"doi": "10.1145/1639714.1639792",
 	"ee": "http://doi.acm.org/10.1145/1639714.1639792",
 	"pages": "377-380",
 	"publisher": "ACM",
-	"stemmed": ["uncov", "function", "depend", "in", "mdd", "compil", "product", "catalogu"],
-	"tag": ["dependence", "functional"],
+	"stemmed": [
+		"uncov",
+		"function",
+		"depend",
+		"in",
+		"mdd",
+		"compil",
+		"product",
+		"catalogu"
+	],
+	"tag": [
+		"dependence",
+		"functional"
+	],
 	"title": "Uncovering functional dependencies in MDD-compiled product catalogues",
 	"type": "inproceedings",
 	"venue": "RecSys",

@@ -1,16 +1,38 @@
 {
-	"acmid": 1122394,
-	"author": ["Kris Venstermans", "Lieven Eeckhout", "Koen De Bosschere"],
-	"booktitle": "CGO",
+	"acmid": "1122394",
+	"author": [
+		"Kris Venstermans",
+		"Lieven Eeckhout",
+		"Koen De Bosschere"
+	],
+	"booktitle": "Proceedings of the Fourth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2006",
 	"dblpkey": "conf/cgo/VenstermansEB06",
 	"doi": "10.1109/CGO.2006.34",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2006.34", "http://doi.ieeecomputersociety.org/10.1109/CGO.2006.34", "http://dl.acm.org/citation.cfm?id=1122394"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2006.34",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2006.34",
+		"http://dl.acm.org/citation.cfm?id=1122394"
+	],
 	"pages": "76-86",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["space", "effici", "bit", "java", "object", "through", "select", "type", "virtual", "address"],
-	"tag": ["java"],
+	"stemmed": [
+		"space",
+		"effici",
+		"bit",
+		"java",
+		"object",
+		"through",
+		"select",
+		"type",
+		"virtual",
+		"address"
+	],
+	"tag": [
+		"java"
+	],
 	"title": "Space-Efficient 64-bit Java Objects through Selective Typed Virtual Addressing",
 	"type": "inproceedings",
 	"venue": "CGO",

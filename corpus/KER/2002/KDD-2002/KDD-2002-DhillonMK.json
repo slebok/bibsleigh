@@ -1,14 +1,31 @@
 {
-	"author": ["Inderjit S. Dhillon", "Subramanyam Mallela", "Rahul Kumar"],
-	"booktitle": "KDD",
+	"author": [
+		"Inderjit S. Dhillon",
+		"Subramanyam Mallela",
+		"Rahul Kumar"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/DhillonMK02",
 	"doi": "10.1145/775047.775076",
 	"ee": "http://doi.acm.org/10.1145/775047.775076",
 	"pages": "191-200",
 	"publisher": "ACM",
-	"stemmed": ["enhanc", "word", "cluster", "for", "hierarch", "text", "classif"],
-	"tag": ["classification", "clustering", "word"],
+	"stemmed": [
+		"enhanc",
+		"word",
+		"cluster",
+		"for",
+		"hierarch",
+		"text",
+		"classif"
+	],
+	"tag": [
+		"classification",
+		"clustering",
+		"word"
+	],
 	"title": "Enhanced word clustering for hierarchical text classification",
 	"type": "inproceedings",
 	"venue": "KDD",

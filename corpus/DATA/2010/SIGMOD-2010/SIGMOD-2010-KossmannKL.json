@@ -1,6 +1,10 @@
 {
-	"author": ["Donald Kossmann", "Tim Kraska", "Simon Loesing"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Donald Kossmann",
+		"Tim Kraska",
+		"Simon Loesing"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/KossmannKL10",
@@ -8,8 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807231",
 	"pages": "579-590",
 	"publisher": "ACM",
-	"stemmed": ["an", "evalu", "of", "altern", "architectur", "for", "transact", "process", "in", "the", "cloud"],
-	"tag": ["architecture", "evaluation", "in the cloud", "transaction"],
+	"stemmed": [
+		"an",
+		"evalu",
+		"of",
+		"altern",
+		"architectur",
+		"for",
+		"transact",
+		"process",
+		"in",
+		"the",
+		"cloud"
+	],
+	"tag": [
+		"architecture",
+		"evaluation",
+		"in the cloud",
+		"transaction"
+	],
 	"title": "An evaluation of alternative architectures for transaction processing in the cloud",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

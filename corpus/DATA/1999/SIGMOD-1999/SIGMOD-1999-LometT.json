@@ -1,16 +1,44 @@
 {
-	"author": ["David B. Lomet", "Mark R. Tuttle"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"David B. Lomet",
+		"Mark R. Tuttle"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "DiSC2_1/out/papers/sigmod/logicalloggingtdama.pdf",
-	"cite": ["conf/ifip/BernsteinGH83", "journals/ibmsj/Crus84", "journals/csur/GrayMBLLPPT81", "books/mk/GrayR93", "journals/csur/HarderR83", "...", "conf/icde/Lomet98", "conf/vldb/LometT95", "...", "...", "journals/tods/MohanHLPS92", "journals/tocs/StromY85"],
+	"cite": [
+		"conf/ifip/BernsteinGH83",
+		"journals/ibmsj/Crus84",
+		"journals/csur/GrayMBLLPPT81",
+		"books/mk/GrayR93",
+		"journals/csur/HarderR83",
+		"...",
+		"conf/icde/Lomet98",
+		"conf/vldb/LometT95",
+		"...",
+		"...",
+		"journals/tods/MohanHLPS92",
+		"journals/tocs/StromY85"
+	],
 	"crossref": "conf/sigmod/99",
 	"dblpkey": "conf/sigmod/LometT99",
 	"doi": "10.1145/304182.304189",
 	"ee": "http://doi.acm.org/10.1145/304182.304189",
 	"pages": "73-84",
 	"publisher": "ACM Press",
-	"stemmed": ["logic", "log", "to", "extend", "recoveri", "to", "new", "domain"],
-	"tag": ["logic"],
+	"stemmed": [
+		"logic",
+		"log",
+		"to",
+		"extend",
+		"recoveri",
+		"to",
+		"new",
+		"domain"
+	],
+	"tag": [
+		"logic"
+	],
 	"title": "Logical Logging to Extend Recovery to New Domains",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

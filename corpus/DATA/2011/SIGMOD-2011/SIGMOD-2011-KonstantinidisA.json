@@ -1,6 +1,9 @@
 {
-	"author": ["George Konstantinidis", "José Luis Ambite"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"George Konstantinidis",
+		"José Luis Ambite"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/KonstantinidisA11",
@@ -8,8 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989335",
 	"pages": "97-108",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "queri", "rewrit", "a", "graph", "base", "approach"],
-	"tag": ["approach", "graph", "query", "scalability"],
+	"stemmed": [
+		"scalabl",
+		"queri",
+		"rewrit",
+		"a",
+		"graph",
+		"base",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"graph",
+		"query",
+		"scalability"
+	],
 	"title": "Scalable query rewriting: a graph-based approach",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

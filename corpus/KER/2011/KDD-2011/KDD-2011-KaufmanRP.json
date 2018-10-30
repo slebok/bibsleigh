@@ -1,14 +1,32 @@
 {
-	"author": ["Shachar Kaufman", "Saharon Rosset", "Claudia Perlich"],
-	"booktitle": "KDD",
+	"author": [
+		"Shachar Kaufman",
+		"Saharon Rosset",
+		"Claudia Perlich"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/KaufmanRP11",
 	"doi": "10.1145/2020408.2020496",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020496",
 	"pages": "556-563",
 	"publisher": "ACM",
-	"stemmed": ["leakag", "in", "data", "mine", "formul", "detect", "and", "avoid"],
-	"tag": ["data mining", "detection", "mining"],
+	"stemmed": [
+		"leakag",
+		"in",
+		"data",
+		"mine",
+		"formul",
+		"detect",
+		"and",
+		"avoid"
+	],
+	"tag": [
+		"data mining",
+		"detection",
+		"mining"
+	],
 	"title": "Leakage in data mining: formulation, detection, and avoidance",
 	"type": "inproceedings",
 	"venue": "KDD",

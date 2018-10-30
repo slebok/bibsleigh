@@ -1,14 +1,34 @@
 {
-	"author": ["Chao Wang", "HoonSang Jin", "Gary D. Hachtel", "Fabio Somenzi"],
-	"booktitle": "DAC",
+	"author": [
+		"Chao Wang",
+		"HoonSang Jin",
+		"Gary D. Hachtel",
+		"Fabio Somenzi"
+	],
+	"booktitle": "Proceedings of the 41st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2004",
 	"dblpkey": "conf/dac/WangJHS04",
 	"doi": "10.1145/996566.996713",
 	"ee": "http://doi.acm.org/10.1145/996566.996713",
 	"pages": "535-538",
 	"publisher": "ACM",
-	"stemmed": ["refin", "the", "sat", "decis", "order", "for", "bound", "model", "check"],
-	"tag": ["bound", "model checking", "satisfiability"],
+	"stemmed": [
+		"refin",
+		"the",
+		"sat",
+		"decis",
+		"order",
+		"for",
+		"bound",
+		"model",
+		"check"
+	],
+	"tag": [
+		"bound",
+		"model checking",
+		"satisfiability"
+	],
 	"title": "Refining the SAT decision ordering for bounded model checking",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,6 +1,7 @@
 {
 	"author": "Camilla Schwind",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/Schwind90",
 	"doi": "10.1007/3-540-52885-7_112",
@@ -10,11 +11,30 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "tableau", "base", "theorem", "prover", "for", "a", "decid", "subset", "of", "default", "logic"],
-	"tag": ["decidability", "logic", "proving", "set", "theorem proving"],
+	"stemmed": [
+		"a",
+		"tableau",
+		"base",
+		"theorem",
+		"prover",
+		"for",
+		"a",
+		"decid",
+		"subset",
+		"of",
+		"default",
+		"logic"
+	],
+	"tag": [
+		"decidability",
+		"logic",
+		"proving",
+		"set",
+		"theorem proving"
+	],
 	"title": "A Tableau-Based Theorem Prover for a Decidable Subset of Default Logic",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

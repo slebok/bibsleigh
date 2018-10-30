@@ -1,12 +1,33 @@
 {
-	"author": ["Aris Tsois", "Timos K. Sellis"],
-	"booktitle": "VLDB",
+	"author": [
+		"Aris Tsois",
+		"Timos K. Sellis"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/TsoisS03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S20P01.pdf",
 	"pages": "644-655",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["the", "general", "pre", "group", "transform", "aggreg", "queri", "optim", "in", "the", "presenc", "of", "depend"],
-	"tag": ["dependence", "optimisation"],
+	"stemmed": [
+		"the",
+		"general",
+		"pre",
+		"group",
+		"transform",
+		"aggreg",
+		"queri",
+		"optim",
+		"in",
+		"the",
+		"presenc",
+		"of",
+		"depend"
+	],
+	"tag": [
+		"dependence",
+		"optimisation"
+	],
 	"title": "The Generalized Pre-Grouping Transformation: Aggregate-Query Optimization in the Presence of Dependencies",
 	"type": "inproceedings",
 	"venue": "VLDB",

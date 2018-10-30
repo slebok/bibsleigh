@@ -1,14 +1,26 @@
 {
 	"author": "Ravishankar K. Iyer",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 41st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2004",
 	"dblpkey": "conf/dac/Iyer04",
 	"doi": "10.1145/996566.996592",
 	"ee": "http://doi.acm.org/10.1145/996566.996592",
-	"pages": 79,
+	"pages": "79",
 	"publisher": "ACM",
-	"stemmed": ["hierarch", "applic", "awar", "error", "detect", "and", "recoveri"],
-	"tag": ["detection", "fault"],
+	"stemmed": [
+		"hierarch",
+		"applic",
+		"awar",
+		"error",
+		"detect",
+		"and",
+		"recoveri"
+	],
+	"tag": [
+		"detection",
+		"fault"
+	],
 	"title": "Hierarchical application aware error detection and recovery",
 	"type": "inproceedings",
 	"venue": "DAC",

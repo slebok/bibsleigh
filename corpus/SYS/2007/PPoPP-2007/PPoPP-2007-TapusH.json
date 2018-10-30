@@ -1,14 +1,34 @@
 {
-	"author": ["Cristian Tapus", "Jason Hickey"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Cristian Tapus",
+		"Jason Hickey"
+	],
+	"booktitle": "Proceedings of the 12th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2007",
 	"dblpkey": "conf/ppopp/TapusH07",
 	"doi": "10.1145/1229428.1229462",
 	"ee": "http://doi.acm.org/10.1145/1229428.1229462",
 	"pages": "152-153",
 	"publisher": "ACM",
-	"stemmed": ["specul", "provid", "fault", "toler", "and", "improv", "perform", "of", "parallel", "applic"],
-	"tag": ["fault tolerance", "named", "parallel", "performance"],
+	"stemmed": [
+		"specul",
+		"provid",
+		"fault",
+		"toler",
+		"and",
+		"improv",
+		"perform",
+		"of",
+		"parallel",
+		"applic"
+	],
+	"tag": [
+		"fault tolerance",
+		"named",
+		"parallel",
+		"performance"
+	],
 	"title": "Speculations: providing fault-tolerance and improving performance of parallel applications",
 	"type": "inproceedings",
 	"venue": "PPoPP",

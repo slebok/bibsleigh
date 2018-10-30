@@ -1,6 +1,11 @@
 {
-	"author": ["Predrag Janicic", "Alan Bundy", "Ian Green"],
-	"booktitle": "CADE",
+	"author": [
+		"Predrag Janicic",
+		"Alan Bundy",
+		"Ian Green"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1999",
 	"dblpkey": "conf/cade/JanicicBG99",
 	"doi": "10.1007/3-540-48660-7_9",
@@ -10,11 +15,33 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "framework", "for", "the", "flexibl", "integr", "of", "a", "class", "of", "decis", "procedur", "into", "theorem", "prover"],
-	"tag": ["flexibility", "framework", "integration", "proving", "theorem proving"],
+	"stemmed": [
+		"a",
+		"framework",
+		"for",
+		"the",
+		"flexibl",
+		"integr",
+		"of",
+		"a",
+		"class",
+		"of",
+		"decis",
+		"procedur",
+		"into",
+		"theorem",
+		"prover"
+	],
+	"tag": [
+		"flexibility",
+		"framework",
+		"integration",
+		"proving",
+		"theorem proving"
+	],
 	"title": "A Framework for the Flexible Integration of a Class of Decision Procedures into Theorem Provers",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1632,
+	"volume": "1632",
 	"year": 1999
 }

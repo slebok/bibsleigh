@@ -1,14 +1,33 @@
 {
-	"author": ["Shan Tang", "Qiang Xu"],
-	"booktitle": "DATE",
+	"author": [
+		"Shan Tang",
+		"Qiang Xu"
+	],
+	"booktitle": "Proceedings of the 11th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2007",
 	"dblpkey": "conf/date/TangX07",
 	"doi": "10.1145/1266366.1266555",
 	"ee": "http://doi.acm.org/10.1145/1266366.1266555",
 	"pages": "870-875",
 	"publisher": "ACM",
-	"stemmed": ["a", "multi", "core", "debug", "platform", "for", "no", "c", "base", "system"],
-	"tag": ["debugging", "framework", "manycore"],
+	"stemmed": [
+		"a",
+		"multi",
+		"core",
+		"debug",
+		"platform",
+		"for",
+		"no",
+		"c",
+		"base",
+		"system"
+	],
+	"tag": [
+		"debugging",
+		"framework",
+		"manycore"
+	],
 	"title": "A multi-core debug platform for NoC-based systems",
 	"type": "inproceedings",
 	"venue": "DATE",

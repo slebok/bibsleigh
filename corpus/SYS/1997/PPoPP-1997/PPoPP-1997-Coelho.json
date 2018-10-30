@@ -1,14 +1,25 @@
 {
 	"author": "Fabien Coelho",
-	"booktitle": "PPOPP",
+	"booktitle": "Proceedings of the Sixth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1997",
 	"dblpkey": "conf/ppopp/Coelho97",
 	"doi": "10.1145/263764.263786",
 	"ee": "http://doi.acm.org/10.1145/263764.263786",
 	"pages": "168-179",
 	"publisher": "ACM",
-	"stemmed": ["compil", "dynam", "map", "with", "array", "copi"],
-	"tag": ["array", "compilation"],
+	"stemmed": [
+		"compil",
+		"dynam",
+		"map",
+		"with",
+		"array",
+		"copi"
+	],
+	"tag": [
+		"array",
+		"compilation"
+	],
 	"title": "Compiling Dynamic Mappings with Array Copies",
 	"type": "inproceedings",
 	"venue": "PPoPP",

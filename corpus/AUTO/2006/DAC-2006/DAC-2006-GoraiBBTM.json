@@ -1,14 +1,35 @@
 {
-	"author": ["Saurav Gorai", "Saptarshi Biswas", "Lovleen Bhatia", "Praveen Tiwari", "Raj S. Mitra"],
-	"booktitle": "DAC",
+	"author": [
+		"Saurav Gorai",
+		"Saptarshi Biswas",
+		"Lovleen Bhatia",
+		"Praveen Tiwari",
+		"Raj S. Mitra"
+	],
+	"booktitle": "Proceedings of the 43rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/GoraiBBTM06",
 	"doi": "10.1145/1146909.1147096",
 	"ee": "http://doi.acm.org/10.1145/1146909.1147096",
 	"pages": "731-736",
 	"publisher": "ACM",
-	"stemmed": ["direct", "simul", "assist", "formal", "verif", "of", "serial", "protocol", "and", "bridg"],
-	"tag": ["protocol", "verification"],
+	"stemmed": [
+		"direct",
+		"simul",
+		"assist",
+		"formal",
+		"verif",
+		"of",
+		"serial",
+		"protocol",
+		"and",
+		"bridg"
+	],
+	"tag": [
+		"protocol",
+		"verification"
+	],
 	"title": "Directed-simulation assisted formal verification of serial protocol and bridge",
 	"type": "inproceedings",
 	"venue": "DAC",

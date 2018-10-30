@@ -1,14 +1,29 @@
 {
-	"author": ["Li Li", "Yinghai Lu", "Hai Zhou"],
-	"booktitle": "DAC",
+	"author": [
+		"Li Li",
+		"Yinghai Lu",
+		"Hai Zhou"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/LiLZ11",
 	"doi": "10.1145/2024724.2024759",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024759",
 	"pages": "152-157",
 	"publisher": "ACM",
-	"stemmed": ["optim", "multi", "domain", "clock", "skew", "schedul"],
-	"tag": ["multi", "scheduling"],
+	"stemmed": [
+		"optim",
+		"multi",
+		"domain",
+		"clock",
+		"skew",
+		"schedul"
+	],
+	"tag": [
+		"multi",
+		"scheduling"
+	],
 	"title": "Optimal multi-domain clock skew scheduling",
 	"type": "inproceedings",
 	"venue": "DAC",

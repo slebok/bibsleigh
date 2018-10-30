@@ -1,6 +1,12 @@
 {
-	"author": ["Egor S. Sogomonyan", "Daniel Marienfeld", "Vitalij Ocheretnij", "Michael Gössel"],
-	"booktitle": "DATE",
+	"author": [
+		"Egor S. Sogomonyan",
+		"Daniel Marienfeld",
+		"Vitalij Ocheretnij",
+		"Michael Gössel"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/SogomonyanMOG04",
 	"doi": "10.1109/DATE.2004.1269087",
@@ -8,8 +14,21 @@
 	"pages": "1360-1361",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "new", "self", "check", "sum", "bit", "duplic", "carri", "select", "adder"],
-	"tag": ["self"],
+	"stemmed": [
+		"a",
+		"new",
+		"self",
+		"check",
+		"sum",
+		"bit",
+		"duplic",
+		"carri",
+		"select",
+		"adder"
+	],
+	"tag": [
+		"self"
+	],
 	"title": "A New Self-Checking Sum-Bit Duplicated Carry-Select Adder",
 	"type": "inproceedings",
 	"venue": "DATE",

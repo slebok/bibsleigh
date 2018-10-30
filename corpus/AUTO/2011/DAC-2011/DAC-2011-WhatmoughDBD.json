@@ -1,14 +1,32 @@
 {
-	"author": ["Paul N. Whatmough", "Shidhartha Das", "David M. Bull", "Izzat Darwazeh"],
-	"booktitle": "DAC",
+	"author": [
+		"Paul N. Whatmough",
+		"Shidhartha Das",
+		"David M. Bull",
+		"Izzat Darwazeh"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/WhatmoughDBD11",
 	"doi": "10.1145/2024724.2024946",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024946",
 	"pages": "1008-1013",
 	"publisher": "ACM",
-	"stemmed": ["error", "resili", "low", "power", "dsp", "via", "path", "delay", "shape"],
-	"tag": ["power management"],
+	"stemmed": [
+		"error",
+		"resili",
+		"low",
+		"power",
+		"dsp",
+		"via",
+		"path",
+		"delay",
+		"shape"
+	],
+	"tag": [
+		"power management"
+	],
 	"title": "Error-resilient low-power DSP via path-delay shaping",
 	"type": "inproceedings",
 	"venue": "DAC",

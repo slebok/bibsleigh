@@ -1,14 +1,33 @@
 {
-	"author": ["Ronald Fagin", "Ravi Kumar", "Mohammad Mahdian", "D. Sivakumar", "Erik Vee"],
-	"booktitle": "PODS",
+	"author": [
+		"Ronald Fagin",
+		"Ravi Kumar",
+		"Mohammad Mahdian",
+		"D. Sivakumar",
+		"Erik Vee"
+	],
+	"booktitle": "Proceedings of the 23rd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2004",
 	"dblpkey": "conf/pods/FaginKSMV04",
 	"doi": "10.1145/1055558.1055568",
-	"ee": ["http://doi.acm.org/10.1145/1055558.1055568", "http://www.acm.org/sigmod/pods/proc04/pdf/P-06.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1055558.1055568",
+		"http://www.acm.org/sigmod/pods/proc04/pdf/P-06.pdf"
+	],
 	"pages": "47-58",
 	"publisher": "ACM",
-	"stemmed": ["compar", "and", "aggreg", "rank", "with", "tie"],
-	"tag": ["ranking"],
+	"stemmed": [
+		"compar",
+		"and",
+		"aggreg",
+		"rank",
+		"with",
+		"tie"
+	],
+	"tag": [
+		"ranking"
+	],
 	"title": "Comparing and Aggregating Rankings with Ties",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,13 +1,37 @@
 {
-	"author": ["Donald Carney", "Ugur Çetintemel", "Mitch Cherniack", "Christian Convey", "Sangdon Lee", "Greg Seidman", "Michael Stonebraker", "Nesime Tatbul", "Stanley B. Zdonik"],
-	"booktitle": "VLDB",
+	"author": [
+		"Donald Carney",
+		"Ugur Çetintemel",
+		"Mitch Cherniack",
+		"Christian Convey",
+		"Sangdon Lee",
+		"Greg Seidman",
+		"Michael Stonebraker",
+		"Nesime Tatbul",
+		"Stanley B. Zdonik"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/CarneyCCCLSSTZ02",
 	"ee": "http://www.vldb.org/conf/2002/S07P02.pdf",
 	"pages": "215-226",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["monitor", "stream", "a", "new", "class", "of", "data", "manag", "applic"],
-	"tag": ["data transformation", "monitoring"],
+	"stemmed": [
+		"monitor",
+		"stream",
+		"a",
+		"new",
+		"class",
+		"of",
+		"data",
+		"manag",
+		"applic"
+	],
+	"tag": [
+		"data transformation",
+		"monitoring"
+	],
 	"title": "Monitoring Streams — A New Class of Data Management Applications",
 	"type": "inproceedings",
 	"venue": "VLDB",

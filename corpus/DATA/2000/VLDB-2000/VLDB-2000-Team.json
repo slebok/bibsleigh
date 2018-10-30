@@ -1,12 +1,29 @@
 {
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the 26th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2000",
 	"dblpkey": "conf/vldb/Team00",
 	"ee": "http://www.vldb.org/conf/2000/P677.pdf",
 	"pages": "677-680",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["high", "perform", "and", "scalabl", "through", "applic", "tier", "in", "memori", "data", "manag"],
-	"tag": ["data transformation", "in memory", "scalability"],
+	"stemmed": [
+		"high",
+		"perform",
+		"and",
+		"scalabl",
+		"through",
+		"applic",
+		"tier",
+		"in",
+		"memori",
+		"data",
+		"manag"
+	],
+	"tag": [
+		"data transformation",
+		"in memory",
+		"scalability"
+	],
 	"title": "High-Performance and Scalability through Application Tier,In-Memory Data Management",
 	"type": "inproceedings",
 	"venue": "VLDB",

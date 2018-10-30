@@ -1,6 +1,11 @@
 {
-	"author": ["David DeHaan", "David Toman", "Mariano P. Consens", "M. Tamer Özsu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"David DeHaan",
+		"David Toman",
+		"Mariano P. Consens",
+		"M. Tamer Özsu"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/DeHaanTCO03",
@@ -8,8 +13,25 @@
 	"ee": "http://doi.acm.org/10.1145/872757.872832",
 	"pages": "623-634",
 	"publisher": "ACM",
-	"stemmed": ["a", "comprehens", "x", "queri", "to", "sql", "translat", "use", "dynam", "interv", "encod"],
-	"tag": ["encoding", "sql", "using", "xquery"],
+	"stemmed": [
+		"a",
+		"comprehens",
+		"x",
+		"queri",
+		"to",
+		"sql",
+		"translat",
+		"use",
+		"dynam",
+		"interv",
+		"encod"
+	],
+	"tag": [
+		"encoding",
+		"sql",
+		"using",
+		"xquery"
+	],
 	"title": "A Comprehensive XQuery to SQL Translation using Dynamic Interval Encoding",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

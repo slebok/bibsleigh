@@ -1,15 +1,31 @@
 {
-	"author": ["Paolo Ciancarini", "Federico Folli", "Davide Rossi", "Fabio Vitali"],
-	"booktitle": "ACM Symposium on Document Engineering",
-	"booktitleshort": "DocEng",
+	"author": [
+		"Paolo Ciancarini",
+		"Federico Folli",
+		"Davide Rossi",
+		"Fabio Vitali"
+	],
+	"booktitle": "Proceedings of the Second Symposium on Document Engineering",
+	"booktitleshort": "ACM Symposium on Document Engineering",
 	"crossref": "conf/doceng/2002",
 	"dblpkey": "conf/doceng/CiancariniFRV02",
 	"doi": "10.1145/585058.585070",
 	"ee": "http://doi.acm.org/10.1145/585058.585070",
 	"pages": "57-65",
 	"publisher": "ACM",
-	"stemmed": ["x", "link", "proxi", "extern", "linkbas", "with", "x", "link"],
-	"tag": ["named"],
+	"stemmed": [
+		"x",
+		"link",
+		"proxi",
+		"extern",
+		"linkbas",
+		"with",
+		"x",
+		"link"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "XLinkProxy: external linkbases with XLink",
 	"type": "inproceedings",
 	"venue": "DocEng",

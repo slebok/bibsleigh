@@ -1,6 +1,10 @@
 {
-	"author": ["Philippe Besnard", "Pierre Siegel"],
-	"booktitle": "CADE",
+	"author": [
+		"Philippe Besnard",
+		"Pierre Siegel"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/BesnardS88",
 	"doi": "10.1007/BFb0012860",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["supposit", "base", "logic", "for", "autom", "nonmonton", "reason"],
-	"tag": ["automation", "logic", "reasoning"],
+	"stemmed": [
+		"supposit",
+		"base",
+		"logic",
+		"for",
+		"autom",
+		"nonmonton",
+		"reason"
+	],
+	"tag": [
+		"automation",
+		"logic",
+		"reasoning"
+	],
 	"title": "Supposition-Based Logic for Automated Nonmontonic Reasoning",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

@@ -1,6 +1,7 @@
 {
 	"author": "John F. Buford",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the Seventh Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1996/P105.pdf",
 	"crossref": "conf/ht/96",
 	"dblpkey": "conf/ht/Buford96",
@@ -8,8 +9,20 @@
 	"ee": "http://doi.acm.org/10.1145/234828.234839",
 	"pages": "105-115",
 	"publisher": "ACM",
-	"stemmed": ["evalu", "hy", "time", "an", "examin", "and", "implement", "experi"],
-	"tag": ["experience", "implementation"],
+	"stemmed": [
+		"evalu",
+		"hy",
+		"time",
+		"an",
+		"examin",
+		"and",
+		"implement",
+		"experi"
+	],
+	"tag": [
+		"experience",
+		"implementation"
+	],
 	"title": "Evaluating HyTime: An Examination and Implementation Experience",
 	"type": "inproceedings",
 	"venue": "HT",

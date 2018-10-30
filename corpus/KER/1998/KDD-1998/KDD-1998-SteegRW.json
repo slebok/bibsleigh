@@ -1,13 +1,38 @@
 {
-	"author": ["Evan W. Steeg", "Derek A. Robinson", "Ed Willis"],
-	"booktitle": "KDD",
+	"author": [
+		"Evan W. Steeg",
+		"Derek A. Robinson",
+		"Ed Willis"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1998",
 	"dblpkey": "conf/kdd/SteegRW98",
 	"ee": "http://www.aaai.org/Library/KDD/1998/kdd98-017.php",
 	"pages": "112-120",
 	"publisher": "AAAI Press",
-	"stemmed": ["coincid", "detect", "a", "fast", "method", "for", "discov", "higher", "order", "correl", "in", "multidimension", "data"],
-	"tag": ["correlation", "detection", "higher-order", "multi", "performance"],
+	"stemmed": [
+		"coincid",
+		"detect",
+		"a",
+		"fast",
+		"method",
+		"for",
+		"discov",
+		"higher",
+		"order",
+		"correl",
+		"in",
+		"multidimension",
+		"data"
+	],
+	"tag": [
+		"correlation",
+		"detection",
+		"higher-order",
+		"multi",
+		"performance"
+	],
 	"title": "Coincidence Detection: A Fast Method for Discovering Higher-Order Correlations in Multidimensional Data",
 	"type": "inproceedings",
 	"venue": "KDD",

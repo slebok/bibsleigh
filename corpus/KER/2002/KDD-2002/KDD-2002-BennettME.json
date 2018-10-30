@@ -1,14 +1,33 @@
 {
-	"author": ["Kristin P. Bennett", "Michinari Momma", "Mark J. Embrechts"],
-	"booktitle": "KDD",
+	"author": [
+		"Kristin P. Bennett",
+		"Michinari Momma",
+		"Mark J. Embrechts"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/BennettME02",
 	"doi": "10.1145/775047.775051",
 	"ee": "http://doi.acm.org/10.1145/775047.775051",
 	"pages": "24-31",
 	"publisher": "ACM",
-	"stemmed": ["mark", "a", "boost", "algorithm", "for", "heterogen", "kernel", "model"],
-	"tag": ["algorithm", "kernel", "modelling", "named"],
+	"stemmed": [
+		"mark",
+		"a",
+		"boost",
+		"algorithm",
+		"for",
+		"heterogen",
+		"kernel",
+		"model"
+	],
+	"tag": [
+		"algorithm",
+		"kernel",
+		"modelling",
+		"named"
+	],
 	"title": "MARK: a boosting algorithm for heterogeneous kernel models",
 	"type": "inproceedings",
 	"venue": "KDD",

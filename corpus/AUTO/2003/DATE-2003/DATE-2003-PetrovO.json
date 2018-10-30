@@ -1,16 +1,35 @@
 {
-	"acmid": 1022701,
-	"author": ["Peter Petrov", "Alex Orailoglu"],
-	"booktitle": "DATE",
+	"acmid": "1022701",
+	"author": [
+		"Peter Petrov",
+		"Alex Orailoglu"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2003",
 	"dblpkey": "conf/date/PetrovO03",
 	"doi": "10.1109/DATE.2003.10155",
-	"ee": ["http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10155", "http://dl.acm.org/citation.cfm?id=1022701"],
+	"ee": [
+		"http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10155",
+		"http://dl.acm.org/citation.cfm?id=1022701"
+	],
 	"pages": "10030-10035",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["power", "effici", "through", "applic", "specif", "instruct", "memori", "transform"],
-	"tag": ["memory management", "performance"],
+	"stemmed": [
+		"power",
+		"effici",
+		"through",
+		"applic",
+		"specif",
+		"instruct",
+		"memori",
+		"transform"
+	],
+	"tag": [
+		"memory management",
+		"performance"
+	],
 	"title": "Power Efficiency through Application-Specific Instruction Memory Transformations",
 	"type": "inproceedings",
 	"venue": "DATE",

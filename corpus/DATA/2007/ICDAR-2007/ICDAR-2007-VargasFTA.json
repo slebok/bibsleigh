@@ -1,6 +1,12 @@
 {
-	"author": ["Francisco Vargas", "Miguel A. Ferrer", "Carlos M. Travieso", "Jesús B. Alonso"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Francisco Vargas",
+		"Miguel A. Ferrer",
+		"Carlos M. Travieso",
+		"Jesús B. Alonso"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/VargasFTA07",
 	"doi": "10.1109/ICDAR.2007.190",
@@ -8,8 +14,17 @@
 	"pages": "764-768",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["off", "line", "handwritten", "signatur", "gpds", "corpus"],
-	"tag": ["corpus"],
+	"stemmed": [
+		"off",
+		"line",
+		"handwritten",
+		"signatur",
+		"gpds",
+		"corpus"
+	],
+	"tag": [
+		"corpus"
+	],
 	"title": "Off-line Handwritten Signature GPDS-960 Corpus",
 	"type": "inproceedings",
 	"venue": "ICDAR",

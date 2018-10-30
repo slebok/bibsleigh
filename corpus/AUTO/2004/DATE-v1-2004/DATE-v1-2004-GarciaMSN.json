@@ -1,6 +1,12 @@
 {
-	"author": ["José C. García", "Juan A. Montiel-Nelson", "Javier Sosa", "Héctor Navarro"],
-	"booktitle": "DATE",
+	"author": [
+		"José C. García",
+		"Juan A. Montiel-Nelson",
+		"Javier Sosa",
+		"Héctor Navarro"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/GarciaMSN04",
 	"doi": "10.1109/DATE.2004.1268928",
@@ -8,8 +14,20 @@
 	"pages": "680-681",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "direct", "bootstrap", "cmos", "larg", "capacit", "load", "driver", "circuit"],
-	"tag": ["scalability"],
+	"stemmed": [
+		"a",
+		"direct",
+		"bootstrap",
+		"cmos",
+		"larg",
+		"capacit",
+		"load",
+		"driver",
+		"circuit"
+	],
+	"tag": [
+		"scalability"
+	],
 	"title": "A Direct Bootstrapped CMOS Large Capacitive-Load Driver Circuit",
 	"type": "inproceedings",
 	"venue": "DATE",

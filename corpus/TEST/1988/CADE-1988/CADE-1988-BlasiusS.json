@@ -1,6 +1,10 @@
 {
-	"author": ["Karl-Hans Bläsius", "Jörg H. Siekmann"],
-	"booktitle": "CADE",
+	"author": [
+		"Karl-Hans Bläsius",
+		"Jörg H. Siekmann"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/BlasiusS88",
 	"doi": "10.1007/BFb0012846",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["partial", "unif", "for", "graph", "base", "equat", "reason"],
-	"tag": ["equation", "graph", "reasoning", "unification"],
+	"stemmed": [
+		"partial",
+		"unif",
+		"for",
+		"graph",
+		"base",
+		"equat",
+		"reason"
+	],
+	"tag": [
+		"equation",
+		"graph",
+		"reasoning",
+		"unification"
+	],
 	"title": "Partial Unification for Graph Based Equational Reasoning",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

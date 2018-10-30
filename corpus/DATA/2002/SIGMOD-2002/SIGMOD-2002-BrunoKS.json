@@ -1,6 +1,10 @@
 {
-	"author": ["Nicolas Bruno", "Nick Koudas", "Divesh Srivastava"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Nicolas Bruno",
+		"Nick Koudas",
+		"Divesh Srivastava"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/BrunoKS02",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564727",
 	"pages": "310-321",
 	"publisher": "ACM",
-	"stemmed": ["holist", "twig", "join", "optim", "xml", "pattern", "match"],
-	"tag": ["pattern matching", "xml"],
+	"stemmed": [
+		"holist",
+		"twig",
+		"join",
+		"optim",
+		"xml",
+		"pattern",
+		"match"
+	],
+	"tag": [
+		"pattern matching",
+		"xml"
+	],
 	"title": "Holistic twig joins: optimal XML pattern matching",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

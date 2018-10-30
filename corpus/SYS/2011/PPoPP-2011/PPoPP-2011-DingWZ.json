@@ -1,14 +1,37 @@
 {
-	"author": ["Xiaoning Ding", "Kaibo Wang", "Xiaodong Zhang"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Xiaoning Ding",
+		"Kaibo Wang",
+		"Xiaodong Zhang"
+	],
+	"booktitle": "Proceedings of the 16th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2011",
 	"dblpkey": "conf/ppopp/DingWZ11",
 	"doi": "10.1145/1941553.1941568",
 	"ee": "http://doi.acm.org/10.1145/1941553.1941568",
 	"pages": "103-112",
 	"publisher": "ACM",
-	"stemmed": ["ulcc", "a", "user", "level", "facil", "for", "optim", "share", "cach", "perform", "on", "multicor"],
-	"tag": ["multi", "named", "optimisation", "performance"],
+	"stemmed": [
+		"ulcc",
+		"a",
+		"user",
+		"level",
+		"facil",
+		"for",
+		"optim",
+		"share",
+		"cach",
+		"perform",
+		"on",
+		"multicor"
+	],
+	"tag": [
+		"multi",
+		"named",
+		"optimisation",
+		"performance"
+	],
 	"title": "ULCC: a user-level facility for optimizing shared cache performance on multicores",
 	"type": "inproceedings",
 	"venue": "PPoPP",

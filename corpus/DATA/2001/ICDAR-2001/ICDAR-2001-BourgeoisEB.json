@@ -1,6 +1,11 @@
 {
-	"author": ["Frank Lebourgeois", "Hubert Emptoz", "Souad Souafi-Bensafi"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Frank Lebourgeois",
+		"Hubert Emptoz",
+		"Souad Souafi-Bensafi"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2001",
 	"dblpkey": "conf/icdar/BourgeoisEB01",
 	"doi": "10.1109/ICDAR.2001.953841",
@@ -8,8 +13,26 @@
 	"pages": "508-512",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["document", "understand", "use", "probabilist", "relax", "applic", "on", "tabl", "of", "content", "of", "period"],
-	"tag": ["comprehension", "documentation", "probability", "using"],
+	"stemmed": [
+		"document",
+		"understand",
+		"use",
+		"probabilist",
+		"relax",
+		"applic",
+		"on",
+		"tabl",
+		"of",
+		"content",
+		"of",
+		"period"
+	],
+	"tag": [
+		"comprehension",
+		"documentation",
+		"probability",
+		"using"
+	],
 	"title": "Document Understanding Using Probabilistic Relaxation: Application on Tables of Contents of Periodicals",
 	"type": "inproceedings",
 	"venue": "ICDAR",

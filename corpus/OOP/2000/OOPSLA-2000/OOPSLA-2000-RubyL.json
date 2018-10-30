@@ -1,17 +1,34 @@
 {
-	"author": ["Clyde Ruby", "Gary T. Leavens"],
-	"booktitle": "Proceedings of the 15th Conference on Object-Oriented Programming Systems, Languages & Applications",
+	"author": [
+		"Clyde Ruby",
+		"Gary T. Leavens"
+	],
+	"booktitle": "Proceedings of the 15th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2000",
 	"dblpkey": "conf/oopsla/RubyL00",
 	"doi": "10.1145/353171.353186",
-	"editor": ["Mary Beth Rosson", "Doug Lea"],
+	"editor": [
+		"Mary Beth Rosson",
+		"Doug Lea"
+	],
 	"ee": "http://doi.acm.org/10.1145/353171.353186",
 	"isbn": "1-58113-200-X",
 	"pages": "208-228",
 	"publisher": "ACM",
-	"stemmed": ["safe", "creat", "correct", "subclass", "without", "see", "superclass", "code"],
-	"tag": ["subclass"],
+	"stemmed": [
+		"safe",
+		"creat",
+		"correct",
+		"subclass",
+		"without",
+		"see",
+		"superclass",
+		"code"
+	],
+	"tag": [
+		"subclass"
+	],
 	"title": "Safely creating correct subclasses without seeing superclass code",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

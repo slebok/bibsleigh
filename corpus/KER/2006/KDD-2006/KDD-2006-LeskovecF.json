@@ -1,14 +1,26 @@
 {
-	"author": ["Jure Leskovec", "Christos Faloutsos"],
-	"booktitle": "KDD",
+	"author": [
+		"Jure Leskovec",
+		"Christos Faloutsos"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/LeskovecF06",
 	"doi": "10.1145/1150402.1150479",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150479",
 	"pages": "631-636",
 	"publisher": "ACM",
-	"stemmed": ["sampl", "from", "larg", "graph"],
-	"tag": ["graph", "scalability"],
+	"stemmed": [
+		"sampl",
+		"from",
+		"larg",
+		"graph"
+	],
+	"tag": [
+		"graph",
+		"scalability"
+	],
 	"title": "Sampling from large graphs",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,6 +1,7 @@
 {
 	"author": "Yervant Zorian",
-	"booktitle": "DATE",
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/Zorian00",
 	"doi": "10.1109/DATE.2000.840018",
@@ -8,8 +9,23 @@
 	"pages": "69-70",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["yield", "improv", "and", "repair", "trade", "off", "for", "larg", "embed", "memori"],
-	"tag": ["embedded", "scalability", "trade-off"],
+	"stemmed": [
+		"yield",
+		"improv",
+		"and",
+		"repair",
+		"trade",
+		"off",
+		"for",
+		"larg",
+		"embed",
+		"memori"
+	],
+	"tag": [
+		"embedded",
+		"scalability",
+		"trade-off"
+	],
 	"title": "Yield Improvement and Repair Trade-Off for Large Embedded Memories",
 	"type": "inproceedings",
 	"venue": "DATE",

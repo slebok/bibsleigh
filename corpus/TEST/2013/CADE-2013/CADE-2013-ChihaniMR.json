@@ -1,6 +1,11 @@
 {
-	"author": ["Zakaria Chihani", "Dale Miller", "Fabien Renaud"],
-	"booktitle": "CADE",
+	"author": [
+		"Zakaria Chihani",
+		"Dale Miller",
+		"Fabien Renaud"
+	],
+	"booktitle": "Proceedings of the 24th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2013",
 	"dblpkey": "conf/cade/ChihaniMR13",
 	"doi": "10.1007/978-3-642-38574-2_11",
@@ -10,11 +15,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["foundat", "proof", "certif", "in", "first", "order", "logic"],
-	"tag": ["first-order", "logic", "proving"],
+	"stemmed": [
+		"foundat",
+		"proof",
+		"certif",
+		"in",
+		"first",
+		"order",
+		"logic"
+	],
+	"tag": [
+		"first-order",
+		"logic",
+		"proving"
+	],
 	"title": "Foundational Proof Certificates in First-Order Logic",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 7898,
+	"volume": "7898",
 	"year": 2013
 }

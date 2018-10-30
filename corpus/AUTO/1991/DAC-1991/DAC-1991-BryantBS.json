@@ -1,13 +1,31 @@
 {
-	"author": ["Randal E. Bryant", "Derek L. Beatty", "Carl-Johan H. Seger"],
-	"booktitle": "DAC",
+	"author": [
+		"Randal E. Bryant",
+		"Derek L. Beatty",
+		"Carl-Johan H. Seger"
+	],
+	"booktitle": "Proceedings of the 28th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/BryantBS91",
 	"doi": "10.1145/127601.127701",
 	"ee": "http://doi.acm.org/10.1145/127601.127701",
 	"pages": "397-402",
 	"publisher": "ACM",
-	"stemmed": ["formal", "hardwar", "verif", "by", "symbol", "ternari", "trajectori", "evalu"],
-	"tag": ["evaluation", "hardware", "verification"],
+	"stemmed": [
+		"formal",
+		"hardwar",
+		"verif",
+		"by",
+		"symbol",
+		"ternari",
+		"trajectori",
+		"evalu"
+	],
+	"tag": [
+		"evaluation",
+		"hardware",
+		"verification"
+	],
 	"title": "Formal Hardware Verification by Symbolic Ternary Trajectory Evaluation",
 	"type": "inproceedings",
 	"venue": "DAC",

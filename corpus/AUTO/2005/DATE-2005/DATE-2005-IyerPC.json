@@ -1,6 +1,11 @@
 {
-	"author": ["Madhu K. Iyer", "Ganapathy Parthasarathy", "Kwang-Ting Cheng"],
-	"booktitle": "DATE",
+	"author": [
+		"Madhu K. Iyer",
+		"Ganapathy Parthasarathy",
+		"Kwang-Ting Cheng"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/IyerPC05",
 	"doi": "10.1109/DATE.2005.127",
@@ -8,8 +13,24 @@
 	"pages": "666-671",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["effici", "conflict", "base", "learn", "in", "an", "rtl", "circuit", "constraint", "solver"],
-	"tag": ["constraints", "learning", "performance", "theorem proving"],
+	"stemmed": [
+		"effici",
+		"conflict",
+		"base",
+		"learn",
+		"in",
+		"an",
+		"rtl",
+		"circuit",
+		"constraint",
+		"solver"
+	],
+	"tag": [
+		"constraints",
+		"learning",
+		"performance",
+		"theorem proving"
+	],
 	"title": "Efficient Conflict-Based Learning in an RTL Circuit Constraint Solver",
 	"type": "inproceedings",
 	"venue": "DATE",

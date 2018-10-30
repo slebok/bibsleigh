@@ -1,16 +1,38 @@
 {
-	"acmid": 1022846,
-	"author": ["Andrew S. Cassidy", "JoAnn M. Paul", "Donald E. Thomas"],
-	"booktitle": "DATE",
+	"acmid": "1022846",
+	"author": [
+		"Andrew S. Cassidy",
+		"JoAnn M. Paul",
+		"Donald E. Thomas"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2003",
 	"dblpkey": "conf/date/CassidyPT03",
 	"doi": "10.1109/DATE.2003.10076",
-	"ee": ["http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10076", "http://dl.acm.org/citation.cfm?id=1022846"],
+	"ee": [
+		"http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10076",
+		"http://dl.acm.org/citation.cfm?id=1022846"
+	],
 	"pages": "10954-10959",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["layer", "multi", "thread", "high", "level", "perform", "design"],
-	"tag": ["concurrent", "design", "multi", "performance", "thread"],
+	"stemmed": [
+		"layer",
+		"multi",
+		"thread",
+		"high",
+		"level",
+		"perform",
+		"design"
+	],
+	"tag": [
+		"concurrent",
+		"design",
+		"multi",
+		"performance",
+		"thread"
+	],
 	"title": "Layered, Multi-Threaded, High-Level Performance Design",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,6 +1,10 @@
 {
-	"author": ["Alan F. Smeaton", "C. J. van Rijsbergen"],
+	"author": [
+		"Alan F. Smeaton",
+		"C. J. van Rijsbergen"
+	],
 	"booktitle": "Proceedings of the Fourth International Conference on Information Storage and Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1981/P083.pdf",
 	"crossref": "conf/sigir/81",
 	"dblpkey": "conf/sigir/SmeatonR81",
@@ -8,8 +12,27 @@
 	"ee": "http://doi.acm.org/10.1145/511754.511767",
 	"pages": "83-87",
 	"publisher": "ACM",
-	"stemmed": ["the", "nearest", "neighbour", "problem", "in", "inform", "retriev", "an", "algorithm", "use", "upperbound"],
-	"tag": ["algorithm", "bound", "information retrieval", "nearest neighbour", "problem", "using"],
+	"stemmed": [
+		"the",
+		"nearest",
+		"neighbour",
+		"problem",
+		"in",
+		"inform",
+		"retriev",
+		"an",
+		"algorithm",
+		"use",
+		"upperbound"
+	],
+	"tag": [
+		"algorithm",
+		"bound",
+		"information retrieval",
+		"nearest neighbour",
+		"problem",
+		"using"
+	],
 	"title": "The Nearest Neighbour Problem in Information Retrieval: An Algorithm Using Upperbounds",
 	"type": "inproceedings",
 	"venue": "SIGIR",

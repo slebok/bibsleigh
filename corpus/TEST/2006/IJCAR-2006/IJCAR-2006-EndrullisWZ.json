@@ -1,6 +1,11 @@
 {
-	"author": ["Jörg Endrullis", "Johannes Waldmann", "Hans Zantema"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Jörg Endrullis",
+		"Johannes Waldmann",
+		"Hans Zantema"
+	],
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/EndrullisWZ06",
 	"doi": "10.1007/11814771_47",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["matrix", "interpret", "for", "prove", "termin", "of", "term", "rewrit"],
-	"tag": ["matrix", "proving", "term rewriting", "termination"],
+	"stemmed": [
+		"matrix",
+		"interpret",
+		"for",
+		"prove",
+		"termin",
+		"of",
+		"term",
+		"rewrit"
+	],
+	"tag": [
+		"matrix",
+		"proving",
+		"term rewriting",
+		"termination"
+	],
 	"title": "Matrix Interpretations for Proving Termination of Term Rewriting",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

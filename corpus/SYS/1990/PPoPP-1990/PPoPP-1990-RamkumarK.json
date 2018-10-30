@@ -1,14 +1,34 @@
 {
-	"author": ["Balkrishna Ramkumar", "Laxmikant V. Kalé"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Balkrishna Ramkumar",
+		"Laxmikant V. Kalé"
+	],
+	"booktitle": "Proceedings of the Second Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1990",
 	"dblpkey": "conf/ppopp/RamkumarK90",
 	"doi": "10.1145/99163.99175",
 	"ee": "http://doi.acm.org/10.1145/99163.99175",
 	"pages": "99-108",
 	"publisher": "ACM",
-	"stemmed": ["a", "chare", "kernel", "implement", "of", "a", "parallel", "prolog", "compil"],
-	"tag": ["compilation", "implementation", "kernel", "parallel", "prolog"],
+	"stemmed": [
+		"a",
+		"chare",
+		"kernel",
+		"implement",
+		"of",
+		"a",
+		"parallel",
+		"prolog",
+		"compil"
+	],
+	"tag": [
+		"compilation",
+		"implementation",
+		"kernel",
+		"parallel",
+		"prolog"
+	],
 	"title": "A Chare Kernel Implementation of a Parallel Prolog Compiler",
 	"type": "inproceedings",
 	"venue": "PPoPP",

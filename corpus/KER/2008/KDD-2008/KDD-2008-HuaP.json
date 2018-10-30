@@ -1,14 +1,30 @@
 {
-	"author": ["Ming Hua", "Jian Pei"],
-	"booktitle": "KDD",
+	"author": [
+		"Ming Hua",
+		"Jian Pei"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/HuaP08",
 	"doi": "10.1145/1401890.1402023",
 	"ee": "http://doi.acm.org/10.1145/1401890.1402023",
 	"pages": "1077-1080",
 	"publisher": "ACM",
-	"stemmed": ["di", "ma", "c", "a", "disguis", "miss", "data", "clean", "tool"],
-	"tag": ["named"],
+	"stemmed": [
+		"di",
+		"ma",
+		"c",
+		"a",
+		"disguis",
+		"miss",
+		"data",
+		"clean",
+		"tool"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "DiMaC: a disguised missing data cleaning tool",
 	"type": "inproceedings",
 	"venue": "KDD",

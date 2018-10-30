@@ -1,14 +1,39 @@
 {
-	"author": ["José A. Blakeley", "Per-Åke Larson", "Frank Wm. Tompa"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"José A. Blakeley",
+		"Per-Åke Larson",
+		"Frank Wm. Tompa"
+	],
+	"booktitle": "Proceedings of the 16th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD86/P061.PDF",
-	"cite": ["conf/vldb/AdibaL80", "journals/tods/AhoSU79", "journals/tods/BunemanC79", "...", "...", "conf/sigmod/HammerS78", "...", "...", "conf/vldb/KoenigP81", "...", "books/cs/Maier83", "conf/vldb/RosenkrantzH80", "conf/sigmod/ShmueliI84", "journals/tods/WongY76"],
+	"cite": [
+		"conf/vldb/AdibaL80",
+		"journals/tods/AhoSU79",
+		"journals/tods/BunemanC79",
+		"...",
+		"...",
+		"conf/sigmod/HammerS78",
+		"...",
+		"...",
+		"conf/vldb/KoenigP81",
+		"...",
+		"books/cs/Maier83",
+		"conf/vldb/RosenkrantzH80",
+		"conf/sigmod/ShmueliI84",
+		"journals/tods/WongY76"
+	],
 	"crossref": "conf/sigmod/86",
 	"dblpkey": "conf/sigmod/BlakeleyLT86",
 	"doi": "10.1145/16894.16861",
 	"ee": "http://doi.acm.org/10.1145/16894.16861",
 	"pages": "61-71",
-	"stemmed": ["effici", "updat", "materi", "view"],
+	"stemmed": [
+		"effici",
+		"updat",
+		"materi",
+		"view"
+	],
 	"title": "Efficiently Updating Materialized Views",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

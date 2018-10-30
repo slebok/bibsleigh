@@ -1,14 +1,33 @@
 {
-	"author": ["Dirk Beyer", "Matthias Dangl", "Daniel Dietsch", "Matthias Heizmann", "Andreas Stahlbauer"],
-	"booktitle": "ESEC/SIGSOFT FSE",
+	"author": [
+		"Dirk Beyer",
+		"Matthias Dangl",
+		"Daniel Dietsch",
+		"Matthias Heizmann",
+		"Andreas Stahlbauer"
+	],
+	"booktitle": "Proceedings of the 10th Joint Meeting of the 15th European Software Engineering Conference and the 23rd Symposium on the Foundations of Software Engineering",
+	"booktitleshort": "ESEC/SIGSOFT FSE",
 	"crossref": "conf/sigsoft/2015",
 	"dblpkey": "conf/sigsoft/0001DDHS15",
 	"doi": "10.1145/2786805.2786867",
 	"ee": "http://doi.acm.org/10.1145/2786805.2786867",
 	"pages": "721-733",
 	"publisher": "ACM",
-	"stemmed": ["wit", "valid", "and", "stepwis", "testif", "across", "softwar", "verifi"],
-	"tag": ["validation", "verification"],
+	"stemmed": [
+		"wit",
+		"valid",
+		"and",
+		"stepwis",
+		"testif",
+		"across",
+		"softwar",
+		"verifi"
+	],
+	"tag": [
+		"validation",
+		"verification"
+	],
 	"title": "Witness validation and stepwise testification across software verifiers",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

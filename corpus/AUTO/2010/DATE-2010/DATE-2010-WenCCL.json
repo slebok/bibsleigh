@@ -1,13 +1,38 @@
 {
-	"author": ["Chi-Neng Wen", "Shu-Hsuan Chou", "Tien-Fu Chen", "Tay-Jyi Lin"],
-	"booktitle": "DATE",
+	"author": [
+		"Chi-Neng Wen",
+		"Shu-Hsuan Chou",
+		"Tien-Fu Chen",
+		"Tay-Jyi Lin"
+	],
+	"booktitle": "Proceedings of the 14th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2010",
 	"dblpkey": "conf/date/WenCCL10",
 	"ieeearid": 5457193,
 	"pages": "287-290",
 	"publisher": "IEEE",
-	"stemmed": ["run", "assert", "a", "non", "intrus", "run", "time", "assert", "for", "parallel", "program", "debug"],
-	"tag": ["debugging", "named", "parallel", "runtime", "source code"],
+	"stemmed": [
+		"run",
+		"assert",
+		"a",
+		"non",
+		"intrus",
+		"run",
+		"time",
+		"assert",
+		"for",
+		"parallel",
+		"program",
+		"debug"
+	],
+	"tag": [
+		"debugging",
+		"named",
+		"parallel",
+		"runtime",
+		"source code"
+	],
 	"title": "RunAssert: A non-intrusive run-time assertion for parallel programs debugging",
 	"type": "inproceedings",
 	"venue": "DATE",

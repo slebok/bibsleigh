@@ -1,14 +1,36 @@
 {
-	"author": ["Aleksandar Lazarevic", "Ramdev Kanapady", "Chandrika Kamath"],
-	"booktitle": "KDD",
+	"author": [
+		"Aleksandar Lazarevic",
+		"Ramdev Kanapady",
+		"Chandrika Kamath"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2004",
 	"dblpkey": "conf/kdd/LazarevicKK04",
 	"doi": "10.1145/1014052.1014103",
 	"ee": "http://doi.acm.org/10.1145/1014052.1014103",
 	"pages": "450-459",
 	"publisher": "ACM",
-	"stemmed": ["effect", "local", "regress", "for", "damag", "detect", "in", "larg", "complex", "mechan", "structur"],
-	"tag": ["detection", "effectiveness", "locality", "scalability"],
+	"stemmed": [
+		"effect",
+		"local",
+		"regress",
+		"for",
+		"damag",
+		"detect",
+		"in",
+		"larg",
+		"complex",
+		"mechan",
+		"structur"
+	],
+	"tag": [
+		"detection",
+		"effectiveness",
+		"locality",
+		"scalability"
+	],
 	"title": "Effective localized regression for damage detection in large complex mechanical structures",
 	"type": "inproceedings",
 	"venue": "KDD",

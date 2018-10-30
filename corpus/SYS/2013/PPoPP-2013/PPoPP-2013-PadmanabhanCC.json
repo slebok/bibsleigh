@@ -1,14 +1,33 @@
 {
-	"author": ["Shobana Padmanabhan", "Yixin Chen", "Roger D. Chamberlain"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Shobana Padmanabhan",
+		"Yixin Chen",
+		"Roger D. Chamberlain"
+	],
+	"booktitle": "Proceedings of the 18th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2013",
 	"dblpkey": "conf/ppopp/PadmanabhanCC13",
 	"doi": "10.1145/2442516.2442547",
 	"ee": "http://doi.acm.org/10.1145/2442516.2442547",
 	"pages": "285-286",
 	"publisher": "ACM",
-	"stemmed": ["decomposit", "techniqu", "for", "optim", "design", "space", "explor", "of", "stream", "applic"],
-	"tag": ["composition", "streaming"],
+	"stemmed": [
+		"decomposit",
+		"techniqu",
+		"for",
+		"optim",
+		"design",
+		"space",
+		"explor",
+		"of",
+		"stream",
+		"applic"
+	],
+	"tag": [
+		"composition",
+		"streaming"
+	],
 	"title": "Decomposition techniques for optimal design-space exploration of streaming applications",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,13 +1,30 @@
 {
-	"acmid": 809088,
-	"author": ["Douglas C. Schmidt", "Larry E. Druffel"],
-	"booktitle": "DAC",
+	"acmid": "809088",
+	"author": [
+		"Douglas C. Schmidt",
+		"Larry E. Druffel"
+	],
+	"booktitle": "Proceedings of the 12th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1975",
 	"dblpkey": "conf/dac/SchmidtD75",
 	"pages": "361-368",
 	"publisher": "ACM",
-	"stemmed": ["an", "iter", "algorithm", "for", "placement", "and", "assign", "of", "integr", "circuit"],
-	"tag": ["algorithm"],
+	"stemmed": [
+		"an",
+		"iter",
+		"algorithm",
+		"for",
+		"placement",
+		"and",
+		"assign",
+		"of",
+		"integr",
+		"circuit"
+	],
+	"tag": [
+		"algorithm"
+	],
 	"title": "An iterative algorithm for placement and assignment of integrated circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

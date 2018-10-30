@@ -1,6 +1,11 @@
 {
-	"author": ["Marius Bulacu", "Lambert Schomaker", "Axel Brink"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Marius Bulacu",
+		"Lambert Schomaker",
+		"Axel Brink"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/BulacuSB07",
 	"doi": "10.1109/ICDAR.2007.247",
@@ -8,8 +13,23 @@
 	"pages": "769-773",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["text", "independ", "writer", "identif", "and", "verif", "on", "offlin", "arab", "handwrit"],
-	"tag": ["identification", "independence", "verification"],
+	"stemmed": [
+		"text",
+		"independ",
+		"writer",
+		"identif",
+		"and",
+		"verif",
+		"on",
+		"offlin",
+		"arab",
+		"handwrit"
+	],
+	"tag": [
+		"identification",
+		"independence",
+		"verification"
+	],
 	"title": "Text-Independent Writer Identification and Verification on Offline Arabic Handwriting",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,13 +1,33 @@
 {
-	"author": ["Daniel Peng", "Frank Dabek"],
-	"booktitle": "OSDI",
+	"author": [
+		"Daniel Peng",
+		"Frank Dabek"
+	],
+	"booktitle": "Proceedings of the Ninth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2010",
 	"dblpkey": "conf/osdi/PengD10",
 	"ee": "http://www.usenix.org/events/osdi10/tech/full_papers/Peng.pdf",
 	"pages": "251-264",
 	"publisher": "USENIX Association",
-	"stemmed": ["larg", "scale", "increment", "process", "use", "distribut", "transact", "and", "notif"],
-	"tag": ["distributed", "incremental", "scalability", "transaction", "using"],
+	"stemmed": [
+		"larg",
+		"scale",
+		"increment",
+		"process",
+		"use",
+		"distribut",
+		"transact",
+		"and",
+		"notif"
+	],
+	"tag": [
+		"distributed",
+		"incremental",
+		"scalability",
+		"transaction",
+		"using"
+	],
 	"title": "Large-scale Incremental Processing Using Distributed Transactions and Notifications",
 	"type": "inproceedings",
 	"venue": "OSDI",

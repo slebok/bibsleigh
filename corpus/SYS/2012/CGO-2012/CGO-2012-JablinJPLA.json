@@ -1,14 +1,33 @@
 {
-	"author": ["Thomas B. Jablin", "James A. Jablin", "Prakash Prabhu", "Feng Liu", "David I. August"],
-	"booktitle": "CGO",
+	"author": [
+		"Thomas B. Jablin",
+		"James A. Jablin",
+		"Prakash Prabhu",
+		"Feng Liu",
+		"David I. August"
+	],
+	"booktitle": "Proceedings of the 10th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2012",
 	"dblpkey": "conf/cgo/JablinJPLA12",
 	"doi": "10.1145/2259016.2259038",
 	"ee": "http://doi.acm.org/10.1145/2259016.2259038",
 	"pages": "165-174",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "manag", "data", "for", "cpu", "gpu", "architectur"],
-	"tag": ["architecture", "cpu", "gpu"],
+	"stemmed": [
+		"dynam",
+		"manag",
+		"data",
+		"for",
+		"cpu",
+		"gpu",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"cpu",
+		"gpu"
+	],
 	"title": "Dynamically managed data for CPU-GPU architectures",
 	"type": "inproceedings",
 	"venue": "CGO",

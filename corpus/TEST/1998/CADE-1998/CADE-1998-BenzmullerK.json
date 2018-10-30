@@ -1,6 +1,10 @@
 {
-	"author": ["Christoph Benzmüller", "Michael Kohlhase"],
-	"booktitle": "CADE",
+	"author": [
+		"Christoph Benzmüller",
+		"Michael Kohlhase"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1998",
 	"dblpkey": "conf/cade/BenzmullerK98",
 	"ee": "http://link.springer.de/link/service/series/0558/bibs/1421/14210056.htm",
@@ -9,11 +13,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["extension", "higher", "order", "resolut"],
-	"tag": ["higher-order"],
+	"stemmed": [
+		"extension",
+		"higher",
+		"order",
+		"resolut"
+	],
+	"tag": [
+		"higher-order"
+	],
 	"title": "Extensional Higher-Order Resolution",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1421,
+	"volume": "1421",
 	"year": 1998
 }

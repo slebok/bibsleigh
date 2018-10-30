@@ -1,14 +1,27 @@
 {
 	"author": "Markus Zanker",
-	"booktitle": "RecSys",
+	"booktitle": "Proceedings of the Second Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2008",
 	"dblpkey": "conf/recsys/Zanker08",
 	"doi": "10.1145/1454008.1454032",
 	"ee": "http://doi.acm.org/10.1145/1454008.1454032",
 	"pages": "139-146",
 	"publisher": "ACM",
-	"stemmed": ["a", "collabor", "constraint", "base", "meta", "level", "recommend"],
-	"tag": ["collaboration", "constraints", "recommendation"],
+	"stemmed": [
+		"a",
+		"collabor",
+		"constraint",
+		"base",
+		"meta",
+		"level",
+		"recommend"
+	],
+	"tag": [
+		"collaboration",
+		"constraints",
+		"recommendation"
+	],
 	"title": "A collaborative constraint-based meta-level recommender",
 	"type": "inproceedings",
 	"venue": "RecSys",

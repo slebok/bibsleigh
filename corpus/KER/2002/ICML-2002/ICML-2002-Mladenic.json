@@ -1,12 +1,30 @@
 {
 	"author": "Dunja Mladenic",
 	"booktitle": "Proceedings of the 19th International Conference on Machine Learning",
+	"booktitleshort": "ICML",
 	"crossref": "conf/icml/2002",
 	"dblpkey": "conf/icml/Mladenic02",
 	"pages": "427-434",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["learn", "word", "normal", "use", "word", "suffix", "and", "context", "from", "unlabel", "data"],
-	"tag": ["learning", "normalisation", "using", "word"],
+	"stemmed": [
+		"learn",
+		"word",
+		"normal",
+		"use",
+		"word",
+		"suffix",
+		"and",
+		"context",
+		"from",
+		"unlabel",
+		"data"
+	],
+	"tag": [
+		"learning",
+		"normalisation",
+		"using",
+		"word"
+	],
 	"title": "Learning word normalization using word suffix and context from unlabeled data",
 	"type": "inproceedings",
 	"venue": "ICML",

@@ -1,6 +1,14 @@
 {
-	"author": ["Grzegorz Malewicz", "Matthew H. Austern", "Aart J. C. Bik", "James C. Dehnert", "Ilan Horn", "Naty Leiser", "Grzegorz Czajkowski"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Grzegorz Malewicz",
+		"Matthew H. Austern",
+		"Aart J. C. Bik",
+		"James C. Dehnert",
+		"Ilan Horn",
+		"Naty Leiser",
+		"Grzegorz Czajkowski"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/MalewiczABDHLC10",
@@ -8,8 +16,21 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807184",
 	"pages": "135-146",
 	"publisher": "ACM",
-	"stemmed": ["pregel", "a", "system", "for", "larg", "scale", "graph", "process"],
-	"tag": ["graph", "named", "scalability"],
+	"stemmed": [
+		"pregel",
+		"a",
+		"system",
+		"for",
+		"larg",
+		"scale",
+		"graph",
+		"process"
+	],
+	"tag": [
+		"graph",
+		"named",
+		"scalability"
+	],
 	"title": "Pregel: a system for large-scale graph processing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

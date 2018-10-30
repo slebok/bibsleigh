@@ -1,14 +1,34 @@
 {
-	"author": ["Joydeep Mitra", "Peng Yu", "David Zhigang Pan"],
-	"booktitle": "DAC",
+	"author": [
+		"Joydeep Mitra",
+		"Peng Yu",
+		"David Zhigang Pan"
+	],
+	"booktitle": "Proceedings of the 42nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/MitraYP05",
 	"doi": "10.1145/1065579.1065678",
 	"ee": "http://doi.acm.org/10.1145/1065579.1065678",
 	"pages": "369-372",
 	"publisher": "ACM",
-	"stemmed": ["radar", "ret", "awar", "detail", "rout", "use", "fast", "lithographi", "simul"],
-	"tag": ["named", "performance", "simulation", "using"],
+	"stemmed": [
+		"radar",
+		"ret",
+		"awar",
+		"detail",
+		"rout",
+		"use",
+		"fast",
+		"lithographi",
+		"simul"
+	],
+	"tag": [
+		"named",
+		"performance",
+		"simulation",
+		"using"
+	],
 	"title": "RADAR: RET-aware detailed routing using fast lithography simulations",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,13 +1,29 @@
 {
-	"author": ["Flip Korn", "S. Muthukrishnan", "Divesh Srivastava"],
-	"booktitle": "VLDB",
+	"author": [
+		"Flip Korn",
+		"S. Muthukrishnan",
+		"Divesh Srivastava"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/KornMS02",
 	"ee": "http://www.vldb.org/conf/2002/S23P01.pdf",
 	"pages": "814-825",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["revers", "nearest", "neighbor", "aggreg", "over", "data", "stream"],
-	"tag": ["data type", "nearest neighbour"],
+	"stemmed": [
+		"revers",
+		"nearest",
+		"neighbor",
+		"aggreg",
+		"over",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"data type",
+		"nearest neighbour"
+	],
 	"title": "Reverse Nearest Neighbor Aggregates Over Data Streams",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,13 +1,35 @@
 {
-	"author": ["Jari Kreku", "Kari Tiensyrjä", "Geert Vanmeerbeeck"],
-	"booktitle": "DATE",
+	"author": [
+		"Jari Kreku",
+		"Kari Tiensyrjä",
+		"Geert Vanmeerbeeck"
+	],
+	"booktitle": "Proceedings of the 14th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2010",
 	"dblpkey": "conf/date/KrekuTV10",
 	"ieeearid": 5457175,
 	"pages": "369-374",
 	"publisher": "IEEE",
-	"stemmed": ["automat", "workload", "generat", "for", "system", "level", "explor", "base", "on", "modifi", "gcc", "compil"],
-	"tag": ["automation", "compilation", "generative"],
+	"stemmed": [
+		"automat",
+		"workload",
+		"generat",
+		"for",
+		"system",
+		"level",
+		"explor",
+		"base",
+		"on",
+		"modifi",
+		"gcc",
+		"compil"
+	],
+	"tag": [
+		"automation",
+		"compilation",
+		"generative"
+	],
 	"title": "Automatic workload generation for system-level exploration based on modified GCC compiler",
 	"type": "inproceedings",
 	"venue": "DATE",

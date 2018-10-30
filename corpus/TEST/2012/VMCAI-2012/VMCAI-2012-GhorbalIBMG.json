@@ -1,6 +1,13 @@
 {
-	"author": ["Khalil Ghorbal", "Franjo Ivancic", "Gogul Balakrishnan", "Naoto Maeda", "Aarti Gupta"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Khalil Ghorbal",
+		"Franjo Ivancic",
+		"Gogul Balakrishnan",
+		"Naoto Maeda",
+		"Aarti Gupta"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2012",
 	"dblpkey": "conf/vmcai/GhorbalIBMG12",
 	"doi": "10.1007/978-3-642-27940-9_16",
@@ -10,11 +17,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["donut", "domain", "effici", "non", "convex", "domain", "for", "abstract", "interpret"],
-	"tag": ["abstract interpretation", "performance"],
+	"stemmed": [
+		"donut",
+		"domain",
+		"effici",
+		"non",
+		"convex",
+		"domain",
+		"for",
+		"abstract",
+		"interpret"
+	],
+	"tag": [
+		"abstract interpretation",
+		"performance"
+	],
 	"title": "Donut Domains: Efficient Non-convex Domains for Abstract Interpretation",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 7148,
+	"volume": "7148",
 	"year": 2012
 }

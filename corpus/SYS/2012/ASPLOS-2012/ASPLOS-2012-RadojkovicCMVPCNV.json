@@ -1,14 +1,39 @@
 {
-	"author": ["Petar Radojkovic", "Vladimir Cakarevic", "Miquel Moretó", "Javier Verdú", "Alex Pajuelo", "Francisco J. Cazorla", "Mario Nemirovsky", "Mateo Valero"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Petar Radojkovic",
+		"Vladimir Cakarevic",
+		"Miquel Moretó",
+		"Javier Verdú",
+		"Alex Pajuelo",
+		"Francisco J. Cazorla",
+		"Mario Nemirovsky",
+		"Mateo Valero"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2012",
 	"dblpkey": "conf/asplos/RadojkovicCMVPCNV12",
 	"doi": "10.1145/2150976.2151002",
 	"ee": "http://doi.acm.org/10.1145/2150976.2151002",
 	"pages": "235-248",
 	"publisher": "ACM",
-	"stemmed": ["optim", "task", "assign", "in", "multithread", "processor", "a", "statist", "approach"],
-	"tag": ["approach", "parallel", "statistics", "thread"],
+	"stemmed": [
+		"optim",
+		"task",
+		"assign",
+		"in",
+		"multithread",
+		"processor",
+		"a",
+		"statist",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"parallel",
+		"statistics",
+		"thread"
+	],
 	"title": "Optimal task assignment in multithreaded processors: a statistical approach",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

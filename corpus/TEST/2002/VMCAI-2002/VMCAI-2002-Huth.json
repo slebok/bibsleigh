@@ -1,6 +1,7 @@
 {
 	"author": "Michael Huth",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the Third International Workshop on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2002",
 	"dblpkey": "conf/vmcai/Huth02",
 	"doi": "10.1007/3-540-47813-2_21",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["model", "check", "modal", "transit", "system", "use", "kripk", "structur"],
-	"tag": ["model checking", "using"],
+	"stemmed": [
+		"model",
+		"check",
+		"modal",
+		"transit",
+		"system",
+		"use",
+		"kripk",
+		"structur"
+	],
+	"tag": [
+		"model checking",
+		"using"
+	],
 	"title": "Model Checking Modal Transition Systems Using Kripke Structures",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2294,
+	"volume": "2294",
 	"year": 2002
 }

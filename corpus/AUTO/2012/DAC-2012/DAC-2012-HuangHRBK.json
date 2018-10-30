@@ -1,14 +1,36 @@
 {
-	"author": ["Jia Huang", "Kai Huang", "Andreas Raabe", "Christian Buckl", "Alois Knoll"],
-	"booktitle": "DAC",
+	"author": [
+		"Jia Huang",
+		"Kai Huang",
+		"Andreas Raabe",
+		"Christian Buckl",
+		"Alois Knoll"
+	],
+	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/HuangHRBK12",
 	"doi": "10.1145/2228360.2228398",
 	"ee": "http://doi.acm.org/10.1145/2228360.2228398",
 	"pages": "188-196",
 	"publisher": "ACM",
-	"stemmed": ["toward", "fault", "toler", "embed", "system", "with", "imperfect", "fault", "detect"],
-	"tag": ["detection", "embedded", "fault tolerance", "towards"],
+	"stemmed": [
+		"toward",
+		"fault",
+		"toler",
+		"embed",
+		"system",
+		"with",
+		"imperfect",
+		"fault",
+		"detect"
+	],
+	"tag": [
+		"detection",
+		"embedded",
+		"fault tolerance",
+		"towards"
+	],
 	"title": "Towards fault-tolerant embedded systems with imperfect fault detection",
 	"type": "inproceedings",
 	"venue": "DAC",

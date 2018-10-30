@@ -1,15 +1,34 @@
 {
-	"author": ["Don Sylwester", "Sharad C. Seth"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Don Sylwester",
+		"Sharad C. Seth"
+	],
+	"booktitle": "Proceedings of the Third International Conference on Document Analysis and Recognition (Volume II)",
+	"booktitleshort": "ICDAR v2",
 	"crossref": "conf/icdar/1995-2",
 	"dblpkey": "conf/icdar/SylwesterS95",
 	"doi": "10.1109/ICDAR.1995.601971",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1995.601971", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.601971"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1995.601971",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.601971"
+	],
 	"pages": "615-618",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "trainabl", "singl", "pass", "algorithm", "for", "column", "segment"],
-	"tag": ["algorithm", "segmentation"],
+	"stemmed": [
+		"a",
+		"trainabl",
+		"singl",
+		"pass",
+		"algorithm",
+		"for",
+		"column",
+		"segment"
+	],
+	"tag": [
+		"algorithm",
+		"segmentation"
+	],
 	"title": "A trainable, single-pass algorithm for column segmentation",
 	"type": "inproceedings",
 	"venue": "ICDAR",

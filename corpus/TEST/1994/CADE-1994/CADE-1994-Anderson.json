@@ -1,6 +1,7 @@
 {
 	"author": "Penny Anderson",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/Anderson94",
 	"doi": "10.1007/3-540-58156-1_42",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["repres", "proof", "transform", "for", "program", "optim"],
-	"tag": ["optimisation", "proving", "representation"],
+	"stemmed": [
+		"repres",
+		"proof",
+		"transform",
+		"for",
+		"program",
+		"optim"
+	],
+	"tag": [
+		"optimisation",
+		"proving",
+		"representation"
+	],
 	"title": "Representing Proof Transformations for Program Optimizations",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

@@ -1,6 +1,11 @@
 {
-	"author": ["Sungyoung Lee", "Hyonwoo Seung", "Taewoong Jeon"],
-	"booktitle": "LCTES",
+	"author": [
+		"Sungyoung Lee",
+		"Hyonwoo Seung",
+		"Taewoong Jeon"
+	],
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2000",
 	"dblpkey": "conf/lctrts/LeeSJ00",
 	"doi": "10.1007/3-540-45245-1_17",
@@ -10,11 +15,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "integr", "push", "pull", "buffer", "manag", "method", "in", "multimedia", "communic", "environ"],
-	"tag": ["communication", "multi"],
+	"stemmed": [
+		"an",
+		"integr",
+		"push",
+		"pull",
+		"buffer",
+		"manag",
+		"method",
+		"in",
+		"multimedia",
+		"communic",
+		"environ"
+	],
+	"tag": [
+		"communication",
+		"multi"
+	],
 	"title": "An Integrated Push/Pull Buffer Management Method in Multimedia Communication Environments",
 	"type": "inproceedings",
 	"venue": "LCTES",
-	"volume": 1985,
+	"volume": "1985",
 	"year": 2000
 }

@@ -1,6 +1,7 @@
 {
 	"author": "Peter Schäuble",
 	"booktitle": "Proceedings of the 10th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1987/P254.pdf",
 	"crossref": "conf/sigir/87",
 	"dblpkey": "conf/sigir/Schauble87",
@@ -8,8 +9,15 @@
 	"ee": "http://doi.acm.org/10.1145/42005.42034",
 	"pages": "254-262",
 	"publisher": "ACM",
-	"stemmed": ["thesaurus", "base", "concept", "space"],
-	"tag": ["concept"],
+	"stemmed": [
+		"thesaurus",
+		"base",
+		"concept",
+		"space"
+	],
+	"tag": [
+		"concept"
+	],
 	"title": "Thesaurus Based Concept Spaces",
 	"type": "inproceedings",
 	"venue": "SIGIR",

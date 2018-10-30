@@ -1,6 +1,11 @@
 {
-	"author": ["Conrad Rau", "David Sabel", "Manfred Schmidt-Schauß"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Conrad Rau",
+		"David Sabel",
+		"Manfred Schmidt-Schauß"
+	],
+	"booktitle": "Proceedings of the Sixth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2012",
 	"dblpkey": "conf/cade/RauSS12",
 	"doi": "10.1007/978-3-642-31365-3_36",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["correct", "of", "program", "transform", "as", "a", "termin", "problem"],
-	"tag": ["correctness", "problem", "program transformation", "termination"],
+	"stemmed": [
+		"correct",
+		"of",
+		"program",
+		"transform",
+		"as",
+		"a",
+		"termin",
+		"problem"
+	],
+	"tag": [
+		"correctness",
+		"problem",
+		"program transformation",
+		"termination"
+	],
 	"title": "Correctness of Program Transformations as a Termination Problem",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 7364,
+	"volume": "7364",
 	"year": 2012
 }

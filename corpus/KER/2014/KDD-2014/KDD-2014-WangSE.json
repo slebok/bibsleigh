@@ -1,14 +1,28 @@
 {
-	"author": ["Jialei Wang", "Nathan Srebro", "James Evans"],
-	"booktitle": "KDD",
+	"author": [
+		"Jialei Wang",
+		"Nathan Srebro",
+		"James Evans"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/WangSE14",
 	"doi": "10.1145/2623330.2623730",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623730",
 	"pages": "502-511",
 	"publisher": "ACM",
-	"stemmed": ["activ", "collabor", "permut", "learn"],
-	"tag": ["collaboration", "learning", "permutation"],
+	"stemmed": [
+		"activ",
+		"collabor",
+		"permut",
+		"learn"
+	],
+	"tag": [
+		"collaboration",
+		"learning",
+		"permutation"
+	],
 	"title": "Active collaborative permutation learning",
 	"type": "inproceedings",
 	"venue": "KDD",

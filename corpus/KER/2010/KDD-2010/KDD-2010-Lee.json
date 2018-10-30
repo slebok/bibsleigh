@@ -1,14 +1,26 @@
 {
 	"author": "Chi-Hoon Lee",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/Lee10",
 	"doi": "10.1145/1835804.1835899",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835899",
 	"pages": "743-752",
 	"publisher": "ACM",
-	"stemmed": ["learn", "to", "combin", "discrimin", "classifi", "confid", "base"],
-	"tag": ["classification", "learning"],
+	"stemmed": [
+		"learn",
+		"to",
+		"combin",
+		"discrimin",
+		"classifi",
+		"confid",
+		"base"
+	],
+	"tag": [
+		"classification",
+		"learning"
+	],
 	"title": "Learning to combine discriminative classifiers: confidence based",
 	"type": "inproceedings",
 	"venue": "KDD",

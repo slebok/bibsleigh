@@ -1,6 +1,13 @@
 {
-	"author": ["Pranav Vaidya", "Jaehwan John Lee", "Francis Bowen", "Yingzi Du", "Chandima H. Nadungodage", "Yuni Xia"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Pranav Vaidya",
+		"Jaehwan John Lee",
+		"Francis Bowen",
+		"Yingzi Du",
+		"Chandima H. Nadungodage",
+		"Yuni Xia"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/VaidyaLBDNX10",
@@ -8,8 +15,23 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807304",
 	"pages": "1147-1150",
 	"publisher": "ACM",
-	"stemmed": ["symbiot", "a", "reconfigur", "logic", "assist", "data", "streammanag", "system", "rladsm"],
-	"tag": ["configuration management", "data type", "logic", "named"],
+	"stemmed": [
+		"symbiot",
+		"a",
+		"reconfigur",
+		"logic",
+		"assist",
+		"data",
+		"streammanag",
+		"system",
+		"rladsm"
+	],
+	"tag": [
+		"configuration management",
+		"data type",
+		"logic",
+		"named"
+	],
 	"title": "Symbiote: a reconfigurable logic assisted data streammanagement system (RLADSMS)",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

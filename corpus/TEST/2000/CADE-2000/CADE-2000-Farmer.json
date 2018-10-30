@@ -1,6 +1,7 @@
 {
 	"author": "William M. Farmer",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 17th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2000",
 	"dblpkey": "conf/cade/Farmer00",
 	"doi": "10.1007/10721959_8",
@@ -10,11 +11,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "infrastructur", "for", "intertheori", "reason"],
-	"tag": ["framework", "reasoning"],
+	"stemmed": [
+		"an",
+		"infrastructur",
+		"for",
+		"intertheori",
+		"reason"
+	],
+	"tag": [
+		"framework",
+		"reasoning"
+	],
 	"title": "An Infrastructure for Intertheory Reasoning",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1831,
+	"volume": "1831",
 	"year": 2000
 }

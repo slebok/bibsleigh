@@ -1,6 +1,11 @@
 {
-	"author": ["Craig Stanfill", "Robert Thau", "David L. Waltz"],
+	"author": [
+		"Craig Stanfill",
+		"Robert Thau",
+		"David L. Waltz"
+	],
 	"booktitle": "Proceedings of the 12th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P097.pdf",
 	"crossref": "conf/sigir/89",
 	"dblpkey": "conf/sigir/StanfillTW89",
@@ -8,8 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/75334.75345",
 	"pages": "88-97",
 	"publisher": "ACM",
-	"stemmed": ["a", "parallel", "index", "algorithm", "for", "inform", "retriev"],
-	"tag": ["algorithm", "information retrieval", "parallel"],
+	"stemmed": [
+		"a",
+		"parallel",
+		"index",
+		"algorithm",
+		"for",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"algorithm",
+		"information retrieval",
+		"parallel"
+	],
 	"title": "A Parallel Indexed Algorithm for Information Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

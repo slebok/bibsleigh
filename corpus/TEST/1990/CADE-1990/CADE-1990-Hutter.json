@@ -1,6 +1,7 @@
 {
 	"author": "Dieter Hutter",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/Hutter90",
 	"doi": "10.1007/3-540-52885-7_85",
@@ -10,11 +11,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["guid", "induct", "proof"],
-	"tag": ["induction", "proving"],
+	"stemmed": [
+		"guid",
+		"induct",
+		"proof"
+	],
+	"tag": [
+		"induction",
+		"proving"
+	],
 	"title": "Guiding Induction Proofs",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

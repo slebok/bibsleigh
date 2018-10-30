@@ -1,6 +1,12 @@
 {
-	"author": ["Klaus Winkelmann", "Hans-Joachim Trylus", "Dominik Stoffel", "Görschwin Fey"],
-	"booktitle": "DATE",
+	"author": [
+		"Klaus Winkelmann",
+		"Hans-Joachim Trylus",
+		"Dominik Stoffel",
+		"Görschwin Fey"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/WinkelmannTSF04",
 	"doi": "10.1109/DATE.2004.1268843",
@@ -8,8 +14,24 @@
 	"pages": "162-167",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["cost", "effici", "block", "verif", "for", "a", "umt", "up", "link", "chip", "rate", "coprocessor"],
-	"tag": ["low cost", "verification"],
+	"stemmed": [
+		"cost",
+		"effici",
+		"block",
+		"verif",
+		"for",
+		"a",
+		"umt",
+		"up",
+		"link",
+		"chip",
+		"rate",
+		"coprocessor"
+	],
+	"tag": [
+		"low cost",
+		"verification"
+	],
 	"title": "Cost-Efficient Block Verification for a UMTS Up-Link Chip-Rate Coprocessor",
 	"type": "inproceedings",
 	"venue": "DATE",

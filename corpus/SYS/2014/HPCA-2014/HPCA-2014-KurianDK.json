@@ -1,6 +1,11 @@
 {
-	"author": ["George Kurian", "Srinivas Devadas", "Omer Khan"],
-	"booktitle": "HPCA",
+	"author": [
+		"George Kurian",
+		"Srinivas Devadas",
+		"Omer Khan"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/KurianDK14",
 	"doi": "10.1109/HPCA.2014.6835921",
@@ -8,8 +13,20 @@
 	"pages": "1-12",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["local", "awar", "data", "replic", "in", "the", "last", "level", "cach"],
-	"tag": ["replication"],
+	"stemmed": [
+		"local",
+		"awar",
+		"data",
+		"replic",
+		"in",
+		"the",
+		"last",
+		"level",
+		"cach"
+	],
+	"tag": [
+		"replication"
+	],
 	"title": "Locality-aware data replication in the Last-Level Cache",
 	"type": "inproceedings",
 	"venue": "HPCA",

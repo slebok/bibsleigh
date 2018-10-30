@@ -1,14 +1,48 @@
 {
-	"author": ["Amarnath Gupta", "Terry E. Weymouth", "Ramesh Jain"],
-	"booktitle": "VLDB",
-	"cite": ["...", "...", "...", "journals/tse/JosephC88", "journals/tse/RoussopoulosFS88", "journals/tse/OrensteinM88", "...", "...", "conf/vldb/Kim89", "conf/sigmod/LecluseRV88", "conf/vldb/SeegerK90", "conf/vldb/HenrichSW89", "conf/vldb/ElmasriWK90", "journals/tods/Gadia88", "conf/vldb/WangS90", "conf/edbt/JenqWKL90", "journals/tkde/Kim90"],
+	"author": [
+		"Amarnath Gupta",
+		"Terry E. Weymouth",
+		"Ramesh Jain"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"...",
+		"...",
+		"journals/tse/JosephC88",
+		"journals/tse/RoussopoulosFS88",
+		"journals/tse/OrensteinM88",
+		"...",
+		"...",
+		"conf/vldb/Kim89",
+		"conf/sigmod/LecluseRV88",
+		"conf/vldb/SeegerK90",
+		"conf/vldb/HenrichSW89",
+		"conf/vldb/ElmasriWK90",
+		"journals/tods/Gadia88",
+		"conf/vldb/WangS90",
+		"conf/edbt/JenqWKL90",
+		"journals/tkde/Kim90"
+	],
 	"crossref": "conf/vldb/91",
 	"dblpkey": "conf/vldb/GuptaWJ91",
 	"ee": "http://www.vldb.org/conf/1991/P069.PDF",
 	"pages": "69-79",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["semant", "queri", "with", "pictur", "the", "vimsi", "model"],
-	"tag": ["query", "semantics"],
+	"stemmed": [
+		"semant",
+		"queri",
+		"with",
+		"pictur",
+		"the",
+		"vimsi",
+		"model"
+	],
+	"tag": [
+		"query",
+		"semantics"
+	],
 	"title": "Semantic Queries with Pictures: The VIMSYS Model",
 	"type": "inproceedings",
 	"venue": "VLDB",

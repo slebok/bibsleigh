@@ -1,14 +1,32 @@
 {
-	"author": ["J. Ian Munro", "Yakov Nekrich", "Jeffrey Scott Vitter"],
-	"booktitle": "PODS",
+	"author": [
+		"J. Ian Munro",
+		"Yakov Nekrich",
+		"Jeffrey Scott Vitter"
+	],
+	"booktitle": "Proceedings of the 34th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2015",
 	"dblpkey": "conf/pods/MunroNV15",
 	"doi": "10.1145/2745754.2745778",
 	"ee": "http://doi.acm.org/10.1145/2745754.2745778",
 	"pages": "277-289",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "data", "structur", "for", "document", "collect", "and", "graph"],
-	"tag": ["data type", "documentation", "graph"],
+	"stemmed": [
+		"dynam",
+		"data",
+		"structur",
+		"for",
+		"document",
+		"collect",
+		"and",
+		"graph"
+	],
+	"tag": [
+		"data type",
+		"documentation",
+		"graph"
+	],
 	"title": "Dynamic Data Structures for Document Collections and Graphs",
 	"type": "inproceedings",
 	"venue": "PODS",

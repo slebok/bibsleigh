@@ -1,6 +1,11 @@
 {
-	"author": ["David A. Randell", "Anthony G. Cohn", "Zhan Cui"],
-	"booktitle": "CADE",
+	"author": [
+		"David A. Randell",
+		"Anthony G. Cohn",
+		"Zhan Cui"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/RandellCC92",
 	"doi": "10.1007/3-540-55602-8_225",
@@ -10,11 +15,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["comput", "transiv", "tabl", "a", "challeng", "for", "autom", "theorem", "prover"],
-	"tag": ["automation", "challenge", "proving", "theorem proving"],
+	"stemmed": [
+		"comput",
+		"transiv",
+		"tabl",
+		"a",
+		"challeng",
+		"for",
+		"autom",
+		"theorem",
+		"prover"
+	],
+	"tag": [
+		"automation",
+		"challenge",
+		"proving",
+		"theorem proving"
+	],
 	"title": "Computing Transivity Tables: A Challenge For Automated Theorem Provers",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

@@ -1,6 +1,15 @@
 {
-	"author": ["Minseok Lee", "Seokwoo Song", "Joosik Moon", "John Kim", "Woong Seo", "Yeon-Gon Cho", "Soojung Ryu"],
-	"booktitle": "HPCA",
+	"author": [
+		"Minseok Lee",
+		"Seokwoo Song",
+		"Joosik Moon",
+		"John Kim",
+		"Woong Seo",
+		"Yeon-Gon Cho",
+		"Soojung Ryu"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/LeeSMKSCR14",
 	"doi": "10.1109/HPCA.2014.6835937",
@@ -8,8 +17,23 @@
 	"pages": "260-271",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["improv", "gpgpu", "resourc", "util", "through", "altern", "thread", "block", "schedul"],
-	"tag": ["concurrent", "resource management", "scheduling", "thread"],
+	"stemmed": [
+		"improv",
+		"gpgpu",
+		"resourc",
+		"util",
+		"through",
+		"altern",
+		"thread",
+		"block",
+		"schedul"
+	],
+	"tag": [
+		"concurrent",
+		"resource management",
+		"scheduling",
+		"thread"
+	],
 	"title": "Improving GPGPU resource utilization through alternative thread block scheduling",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,14 +1,37 @@
 {
-	"author": ["Huang Huang", "Gang Quan", "Jeffrey Fan", "Meikang Qiu"],
-	"booktitle": "DAC",
+	"author": [
+		"Huang Huang",
+		"Gang Quan",
+		"Jeffrey Fan",
+		"Meikang Qiu"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/HuangQFQ11",
 	"doi": "10.1145/2024724.2024811",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024811",
 	"pages": "363-368",
 	"publisher": "ACM",
-	"stemmed": ["throughput", "maxim", "for", "period", "real", "time", "system", "under", "the", "maxim", "temperatur", "constraint"],
-	"tag": ["constraints", "realtime", "throughput"],
+	"stemmed": [
+		"throughput",
+		"maxim",
+		"for",
+		"period",
+		"real",
+		"time",
+		"system",
+		"under",
+		"the",
+		"maxim",
+		"temperatur",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"realtime",
+		"throughput"
+	],
 	"title": "Throughput maximization for periodic real-time systems under the maximal temperature constraint",
 	"type": "inproceedings",
 	"venue": "DAC",

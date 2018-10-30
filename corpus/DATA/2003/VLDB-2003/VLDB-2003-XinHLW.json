@@ -1,12 +1,36 @@
 {
-	"author": ["Dong Xin", "Jiawei Han", "Xiaolei Li", "Benjamin W. Wah"],
-	"booktitle": "VLDB",
+	"author": [
+		"Dong Xin",
+		"Jiawei Han",
+		"Xiaolei Li",
+		"Benjamin W. Wah"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/XinHLW03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S15P02.pdf",
 	"pages": "476-487",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["star", "cube", "comput", "iceberg", "cube", "by", "top", "down", "and", "bottom", "up", "integr"],
-	"tag": ["bottom-up", "integration", "named", "top-down"],
+	"stemmed": [
+		"star",
+		"cube",
+		"comput",
+		"iceberg",
+		"cube",
+		"by",
+		"top",
+		"down",
+		"and",
+		"bottom",
+		"up",
+		"integr"
+	],
+	"tag": [
+		"bottom-up",
+		"integration",
+		"named",
+		"top-down"
+	],
 	"title": "Star-Cubing: Computing Iceberg Cubes by Top-Down and Bottom-Up Integration",
 	"type": "inproceedings",
 	"venue": "VLDB",

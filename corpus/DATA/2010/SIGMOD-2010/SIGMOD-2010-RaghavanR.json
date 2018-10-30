@@ -1,6 +1,9 @@
 {
-	"author": ["Venkatesh Raghavan", "Elke A. Rundensteiner"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Venkatesh Raghavan",
+		"Elke A. Rundensteiner"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/RaghavanR10",
@@ -8,8 +11,27 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807300",
 	"pages": "1135-1138",
 	"publisher": "ACM",
-	"stemmed": ["prog", "xe", "progress", "result", "generat", "framework", "for", "multi", "criteria", "decis", "support", "queri"],
-	"tag": ["framework", "generative", "multi", "named", "query"],
+	"stemmed": [
+		"prog",
+		"xe",
+		"progress",
+		"result",
+		"generat",
+		"framework",
+		"for",
+		"multi",
+		"criteria",
+		"decis",
+		"support",
+		"queri"
+	],
+	"tag": [
+		"framework",
+		"generative",
+		"multi",
+		"named",
+		"query"
+	],
 	"title": "ProgXe: progressive result generation framework for multi-criteria decision support queries",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

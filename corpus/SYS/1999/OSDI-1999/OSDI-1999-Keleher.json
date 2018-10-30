@@ -1,14 +1,26 @@
 {
 	"author": "Peter J. Keleher",
-	"booktitle": "OSDI",
+	"booktitle": "Proceedings of the Third Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/1999",
 	"dblpkey": "conf/osdi/Keleher99",
 	"doi": "10.1145/296806.296828",
 	"ee": "http://doi.acm.org/10.1145/296806.296828",
 	"pages": "201-214",
 	"publisher": "USENIX Association",
-	"stemmed": ["tapeworm", "high", "level", "abstract", "of", "share", "access"],
-	"tag": ["abstraction", "named"],
+	"stemmed": [
+		"tapeworm",
+		"high",
+		"level",
+		"abstract",
+		"of",
+		"share",
+		"access"
+	],
+	"tag": [
+		"abstraction",
+		"named"
+	],
 	"title": "Tapeworm: High-Level Abstractions of Shared Accesses",
 	"type": "inproceedings",
 	"venue": "OSDI",

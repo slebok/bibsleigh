@@ -1,14 +1,38 @@
 {
-	"author": ["Jasper C. C. Chang", "Ryan H.-M. Huang", "Louis Y.-Z. Lin", "Charles H.-P. Wen"],
-	"booktitle": "DAC",
+	"author": [
+		"Jasper C. C. Chang",
+		"Ryan H.-M. Huang",
+		"Louis Y.-Z. Lin",
+		"Charles H.-P. Wen"
+	],
+	"booktitle": "Proceedings of the 52nd Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2015",
 	"dblpkey": "conf/dac/ChangHLW15",
 	"doi": "10.1145/2744769.2744914",
 	"ee": "http://doi.acm.org/10.1145/2744769.2744914",
 	"pages": "165:1-165:6",
 	"publisher": "ACM",
-	"stemmed": ["ta", "fta", "transit", "awar", "function", "time", "analysi", "with", "a", "four", "valu", "encod"],
-	"tag": ["analysis", "encoding", "functional", "named"],
+	"stemmed": [
+		"ta",
+		"fta",
+		"transit",
+		"awar",
+		"function",
+		"time",
+		"analysi",
+		"with",
+		"a",
+		"four",
+		"valu",
+		"encod"
+	],
+	"tag": [
+		"analysis",
+		"encoding",
+		"functional",
+		"named"
+	],
 	"title": "TA-FTA: transition-aware functional timing analysis with a four-valued encoding",
 	"type": "inproceedings",
 	"venue": "DAC",

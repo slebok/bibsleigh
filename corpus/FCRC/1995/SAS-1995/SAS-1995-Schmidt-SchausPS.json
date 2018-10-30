@@ -1,6 +1,11 @@
 {
-	"author": ["Manfred Schmidt-Schauß", "Sven Eric Panitz", "Marko Schütz"],
+	"author": [
+		"Manfred Schmidt-Schauß",
+		"Sven Eric Panitz",
+		"Marko Schütz"
+	],
 	"booktitle": "Proceedings of the Second International Static Analysis Symposium",
+	"booktitleshort": "SAS",
 	"crossref": "conf/sas/95",
 	"dblpkey": "conf/sas/Schmidt-SchausPS95",
 	"doi": "10.1007/3-540-60360-3_49",
@@ -10,11 +15,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["abstract", "reduct", "use", "a", "tableau", "calculus"],
-	"tag": ["calculus", "reduction", "using"],
+	"stemmed": [
+		"abstract",
+		"reduct",
+		"use",
+		"a",
+		"tableau",
+		"calculus"
+	],
+	"tag": [
+		"calculus",
+		"reduction",
+		"using"
+	],
 	"title": "Abstract Reduction Using a Tableau Calculus",
 	"type": "inproceedings",
 	"venue": "SAS",
-	"volume": 983,
+	"volume": "983",
 	"year": 1995
 }

@@ -1,14 +1,32 @@
 {
-	"author": ["David R. Ditzel", "Hubert R. McLellan"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"David R. Ditzel",
+		"Hubert R. McLellan"
+	],
+	"booktitle": "Proceedings of the First Symposium on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1982",
 	"dblpkey": "conf/asplos/DitzelM82",
 	"doi": "10.1145/800050.801825",
 	"ee": "http://doi.acm.org/10.1145/800050.801825",
 	"pages": "48-56",
 	"publisher": "ACM Press",
-	"stemmed": ["regist", "alloc", "for", "free", "the", "c", "machin", "stack", "cach"],
-	"tag": ["c", "for free", "stack"],
+	"stemmed": [
+		"regist",
+		"alloc",
+		"for",
+		"free",
+		"the",
+		"c",
+		"machin",
+		"stack",
+		"cach"
+	],
+	"tag": [
+		"c",
+		"for free",
+		"stack"
+	],
 	"title": "Register Allocation for Free: The C Machine Stack Cache",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

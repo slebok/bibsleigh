@@ -1,14 +1,32 @@
 {
-	"author": ["Daniel Barbará", "Carlotta Domeniconi", "James P. Rogers"],
-	"booktitle": "KDD",
+	"author": [
+		"Daniel Barbará",
+		"Carlotta Domeniconi",
+		"James P. Rogers"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/BarbaraDR06",
 	"doi": "10.1145/1150402.1150413",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150413",
 	"pages": "55-64",
 	"publisher": "ACM",
-	"stemmed": ["detect", "outlier", "use", "transduct", "and", "statist", "test"],
-	"tag": ["detection", "statistics", "testing", "using"],
+	"stemmed": [
+		"detect",
+		"outlier",
+		"use",
+		"transduct",
+		"and",
+		"statist",
+		"test"
+	],
+	"tag": [
+		"detection",
+		"statistics",
+		"testing",
+		"using"
+	],
 	"title": "Detecting outliers using transduction and statistical testing",
 	"type": "inproceedings",
 	"venue": "KDD",

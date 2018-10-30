@@ -1,14 +1,38 @@
 {
-	"author": ["Yousra Alkabani", "Tammara Massey", "Farinaz Koushanfar", "Miodrag Potkonjak"],
-	"booktitle": "DAC",
+	"author": [
+		"Yousra Alkabani",
+		"Tammara Massey",
+		"Farinaz Koushanfar",
+		"Miodrag Potkonjak"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/AlkabaniMKP08",
 	"doi": "10.1145/1391469.1391624",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391624",
 	"pages": "606-609",
 	"publisher": "ACM",
-	"stemmed": ["input", "vector", "control", "for", "post", "silicon", "leakag", "current", "minim", "in", "the", "presenc", "of", "manufactur", "variabl"],
-	"tag": ["variability"],
+	"stemmed": [
+		"input",
+		"vector",
+		"control",
+		"for",
+		"post",
+		"silicon",
+		"leakag",
+		"current",
+		"minim",
+		"in",
+		"the",
+		"presenc",
+		"of",
+		"manufactur",
+		"variabl"
+	],
+	"tag": [
+		"variability"
+	],
 	"title": "Input vector control for post-silicon leakage current minimization in the presence of manufacturing variability",
 	"type": "inproceedings",
 	"venue": "DAC",

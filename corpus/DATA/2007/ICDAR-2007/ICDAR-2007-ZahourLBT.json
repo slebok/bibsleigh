@@ -1,6 +1,12 @@
 {
-	"author": ["Abderrazak Zahour", "Laurence Likforman-Sulem", "Wafa Boussellaa", "Bruno Taconet"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Abderrazak Zahour",
+		"Laurence Likforman-Sulem",
+		"Wafa Boussellaa",
+		"Bruno Taconet"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/ZahourLBT07",
 	"doi": "10.1109/ICDAR.2007.245",
@@ -8,8 +14,19 @@
 	"pages": "138-142",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["text", "line", "segment", "of", "histor", "arab", "document"],
-	"tag": ["documentation", "segmentation"],
+	"stemmed": [
+		"text",
+		"line",
+		"segment",
+		"of",
+		"histor",
+		"arab",
+		"document"
+	],
+	"tag": [
+		"documentation",
+		"segmentation"
+	],
 	"title": "Text Line Segmentation of Historical Arabic Documents",
 	"type": "inproceedings",
 	"venue": "ICDAR",

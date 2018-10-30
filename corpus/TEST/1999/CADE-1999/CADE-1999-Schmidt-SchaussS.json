@@ -1,6 +1,10 @@
 {
-	"author": ["Manfred Schmidt-Schauß", "Klaus U. Schulz"],
-	"booktitle": "CADE",
+	"author": [
+		"Manfred Schmidt-Schauß",
+		"Klaus U. Schulz"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1999",
 	"dblpkey": "conf/cade/Schmidt-SchaussS99",
 	"doi": "10.1007/3-540-48660-7_5",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["solvabl", "of", "context", "equat", "with", "two", "context", "variabl", "is", "decid"],
-	"tag": ["decidability", "equation"],
+	"stemmed": [
+		"solvabl",
+		"of",
+		"context",
+		"equat",
+		"with",
+		"two",
+		"context",
+		"variabl",
+		"is",
+		"decid"
+	],
+	"tag": [
+		"decidability",
+		"equation"
+	],
 	"title": "Solvability of Context Equations with Two Context Variables is Decidable",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1632,
+	"volume": "1632",
 	"year": 1999
 }

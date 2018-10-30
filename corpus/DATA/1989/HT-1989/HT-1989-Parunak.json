@@ -1,6 +1,7 @@
 {
 	"author": "H. Van Dyke Parunak",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the Second Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1989/P043.pdf",
 	"crossref": "conf/ht/89",
 	"dblpkey": "conf/ht/Parunak89",
@@ -8,8 +9,17 @@
 	"ee": "http://doi.acm.org/10.1145/74224.74228",
 	"pages": "43-50",
 	"publisher": "ACM",
-	"stemmed": ["hypermedia", "topolog", "and", "user", "navig"],
-	"tag": ["hypermedia", "navigation"],
+	"stemmed": [
+		"hypermedia",
+		"topolog",
+		"and",
+		"user",
+		"navig"
+	],
+	"tag": [
+		"hypermedia",
+		"navigation"
+	],
 	"title": "Hypermedia Topologies and User Navigation",
 	"type": "inproceedings",
 	"venue": "HT",

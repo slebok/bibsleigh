@@ -1,13 +1,29 @@
 {
-	"author": ["Masoud Saeida Ardekani", "Douglas B. Terry"],
-	"booktitle": "OSDI",
+	"author": [
+		"Masoud Saeida Ardekani",
+		"Douglas B. Terry"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2014",
 	"dblpkey": "conf/osdi/ArdekaniT14",
 	"ee": "https://www.usenix.org/conference/osdi14/technical-sessions/presentation/ardekani",
 	"pages": "367-381",
 	"publisher": "USENIX Association",
-	"stemmed": ["a", "self", "configur", "geo", "replic", "cloud", "storag", "system"],
-	"tag": ["configuration management", "self"],
+	"stemmed": [
+		"a",
+		"self",
+		"configur",
+		"geo",
+		"replic",
+		"cloud",
+		"storag",
+		"system"
+	],
+	"tag": [
+		"configuration management",
+		"self"
+	],
 	"title": "A Self-Configurable Geo-Replicated Cloud Storage System",
 	"type": "inproceedings",
 	"venue": "OSDI",

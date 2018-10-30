@@ -1,14 +1,32 @@
 {
-	"author": ["Abdullah Mueen", "Eamonn J. Keogh", "Neal E. Young"],
-	"booktitle": "KDD",
+	"author": [
+		"Abdullah Mueen",
+		"Eamonn J. Keogh",
+		"Neal E. Young"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/MueenKY11",
 	"doi": "10.1145/2020408.2020587",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020587",
 	"pages": "1154-1162",
 	"publisher": "ACM",
-	"stemmed": ["logic", "shapelet", "an", "express", "primit", "for", "time", "seri", "classif"],
-	"tag": ["classification", "named"],
+	"stemmed": [
+		"logic",
+		"shapelet",
+		"an",
+		"express",
+		"primit",
+		"for",
+		"time",
+		"seri",
+		"classif"
+	],
+	"tag": [
+		"classification",
+		"named"
+	],
 	"title": "Logical-shapelets: an expressive primitive for time series classification",
 	"type": "inproceedings",
 	"venue": "KDD",

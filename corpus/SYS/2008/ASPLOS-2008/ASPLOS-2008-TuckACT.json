@@ -1,14 +1,37 @@
 {
-	"author": ["James Tuck", "Wonsun Ahn", "Luis Ceze", "Josep Torrellas"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"James Tuck",
+		"Wonsun Ahn",
+		"Luis Ceze",
+		"Josep Torrellas"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2008",
 	"dblpkey": "conf/asplos/TuckACT08",
 	"doi": "10.1145/1346281.1346300",
 	"ee": "http://doi.acm.org/10.1145/1346281.1346300",
 	"pages": "145-156",
 	"publisher": "ACM",
-	"stemmed": ["soft", "sig", "softwar", "expos", "hardwar", "signatur", "for", "code", "analysi", "and", "optim"],
-	"tag": ["analysis", "hardware", "named", "optimisation"],
+	"stemmed": [
+		"soft",
+		"sig",
+		"softwar",
+		"expos",
+		"hardwar",
+		"signatur",
+		"for",
+		"code",
+		"analysi",
+		"and",
+		"optim"
+	],
+	"tag": [
+		"analysis",
+		"hardware",
+		"named",
+		"optimisation"
+	],
 	"title": "SoftSig: software-exposed hardware signatures for code analysis and optimization",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

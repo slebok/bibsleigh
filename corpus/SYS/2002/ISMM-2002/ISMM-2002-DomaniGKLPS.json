@@ -1,6 +1,13 @@
 {
-	"author": ["Tamar Domani", "Gal Goldshtein", "Elliot K. Kolodner", "Ethan Lewis", "Erez Petrank", "Dafna Sheinwald"],
-	"booktitle": "MSP/ISMM",
+	"author": [
+		"Tamar Domani",
+		"Gal Goldshtein",
+		"Elliot K. Kolodner",
+		"Ethan Lewis",
+		"Erez Petrank",
+		"Dafna Sheinwald"
+	],
+	"booktitle": "Proceedings of the Third International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2002",
 	"dblpkey": "conf/iwmm/DomaniGKLPS02",
@@ -8,8 +15,17 @@
 	"ee": "http://doi.acm.org/10.1145/773039.512439",
 	"pages": "183-194",
 	"publisher": "ACM",
-	"stemmed": ["thread", "local", "heap", "for", "java"],
-	"tag": ["java", "thread"],
+	"stemmed": [
+		"thread",
+		"local",
+		"heap",
+		"for",
+		"java"
+	],
+	"tag": [
+		"java",
+		"thread"
+	],
 	"title": "Thread-local heaps for Java",
 	"type": "inproceedings",
 	"venue": "ISMM",

@@ -1,6 +1,9 @@
 {
-	"author": ["Ichiro Satoh", "Mario Tokoro"],
-	"booktitle": "Proceedings of the Seventh Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"author": [
+		"Ichiro Satoh",
+		"Mario Tokoro"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1992",
 	"dblpkey": "conf/oopsla/SatohT92",
@@ -10,8 +13,22 @@
 	"isbn": "0-201-53372-3",
 	"pages": "315-326",
 	"publisher": "ACM",
-	"stemmed": ["a", "formal", "for", "real", "time", "concurr", "object", "orient", "comput"],
-	"tag": ["concurrent", "object-oriented", "realtime"],
+	"stemmed": [
+		"a",
+		"formal",
+		"for",
+		"real",
+		"time",
+		"concurr",
+		"object",
+		"orient",
+		"comput"
+	],
+	"tag": [
+		"concurrent",
+		"object-oriented",
+		"realtime"
+	],
 	"title": "A Formalism for Real-Time Concurrent Object-Oriented Computing",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

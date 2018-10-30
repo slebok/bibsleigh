@@ -1,6 +1,12 @@
 {
-	"author": ["Andrea Asperti", "Wilmer Ricciotti", "Claudio Sacerdoti Coen", "Enrico Tassi"],
-	"booktitle": "CADE",
+	"author": [
+		"Andrea Asperti",
+		"Wilmer Ricciotti",
+		"Claudio Sacerdoti Coen",
+		"Enrico Tassi"
+	],
+	"booktitle": "Proceedings of the 23rd International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2011",
 	"dblpkey": "conf/cade/AspertiRCT11",
 	"doi": "10.1007/978-3-642-22438-6_7",
@@ -10,11 +16,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "matita", "interact", "theorem", "prover"],
-	"tag": ["interactive", "proving", "theorem proving"],
+	"stemmed": [
+		"the",
+		"matita",
+		"interact",
+		"theorem",
+		"prover"
+	],
+	"tag": [
+		"interactive",
+		"proving",
+		"theorem proving"
+	],
 	"title": "The Matita Interactive Theorem Prover",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 6803,
+	"volume": "6803",
 	"year": 2011
 }

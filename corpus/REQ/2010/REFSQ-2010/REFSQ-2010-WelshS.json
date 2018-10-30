@@ -1,6 +1,10 @@
 {
-	"author": ["Kristopher Welsh", "Peter Sawyer"],
-	"booktitle": "REFSQ",
+	"author": [
+		"Kristopher Welsh",
+		"Peter Sawyer"
+	],
+	"booktitle": "Proceedings of the 16th International Working Conference on Requirements Engineering: Foundation for Software Quality",
+	"booktitleshort": "REFSQ",
 	"crossref": "conf/refsq/2010",
 	"dblpkey": "conf/refsq/WelshS10",
 	"doi": "10.1007/978-3-642-14192-8_2",
@@ -9,11 +13,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["understand", "the", "scope", "of", "uncertainti", "in", "dynam", "adapt", "system"],
-	"tag": ["adaptation", "comprehension", "nondeterminism"],
+	"stemmed": [
+		"understand",
+		"the",
+		"scope",
+		"of",
+		"uncertainti",
+		"in",
+		"dynam",
+		"adapt",
+		"system"
+	],
+	"tag": [
+		"adaptation",
+		"comprehension",
+		"nondeterminism"
+	],
 	"title": "Understanding the Scope of Uncertainty in Dynamically Adaptive Systems",
 	"type": "inproceedings",
 	"venue": "REFSQ",
-	"volume": 6182,
+	"volume": "6182",
 	"year": 2010
 }

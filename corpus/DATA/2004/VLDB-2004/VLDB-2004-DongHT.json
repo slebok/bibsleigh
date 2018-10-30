@@ -1,13 +1,27 @@
 {
-	"author": ["Xin Dong", "Alon Y. Halevy", "Igor Tatarinov"],
-	"booktitle": "VLDB",
+	"author": [
+		"Xin Dong",
+		"Alon Y. Halevy",
+		"Igor Tatarinov"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/DongHT04",
 	"ee": "http://www.vldb.org/conf/2004/RS4P2.PDF",
 	"pages": "132-143",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["contain", "of", "nest", "xml", "queri"],
-	"tag": ["query", "xml"],
+	"stemmed": [
+		"contain",
+		"of",
+		"nest",
+		"xml",
+		"queri"
+	],
+	"tag": [
+		"query",
+		"xml"
+	],
 	"title": "Containment of Nested XML Queries",
 	"type": "inproceedings",
 	"venue": "VLDB",

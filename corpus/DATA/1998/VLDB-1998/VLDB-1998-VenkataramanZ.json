@@ -1,14 +1,41 @@
 {
-	"author": ["Shivakumar Venkataraman", "Tian Zhang"],
-	"booktitle": "VLDB",
-	"cite": ["journals/csur/ShethL90", "conf/vldb/DuKS92", "journals/debu/GassnerLSW93", "conf/vldb/HaasKWY97", "conf/sigmod/PiraheshHH92", "conf/vldb/RezendeH98", "conf/vldb/RothS97"],
+	"author": [
+		"Shivakumar Venkataraman",
+		"Tian Zhang"
+	],
+	"booktitle": "Proceedings of the 24th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/csur/ShethL90",
+		"conf/vldb/DuKS92",
+		"journals/debu/GassnerLSW93",
+		"conf/vldb/HaasKWY97",
+		"conf/sigmod/PiraheshHH92",
+		"conf/vldb/RezendeH98",
+		"conf/vldb/RothS97"
+	],
 	"crossref": "conf/vldb/98",
 	"dblpkey": "conf/vldb/VenkataramanZ98",
 	"ee": "http://www.vldb.org/conf/1998/p685.pdf",
 	"pages": "685-689",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["heterogen", "databas", "queri", "optim", "in", "db", "univers", "data", "joiner"],
-	"tag": ["database", "optimisation", "query", "semistructured data"],
+	"stemmed": [
+		"heterogen",
+		"databas",
+		"queri",
+		"optim",
+		"in",
+		"db",
+		"univers",
+		"data",
+		"joiner"
+	],
+	"tag": [
+		"database",
+		"optimisation",
+		"query",
+		"semistructured data"
+	],
 	"title": "Heterogeneous Database Query Optimization in DB2 Universal DataJoiner",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,9 @@
 {
-	"author": ["Bhargav Kanagal", "Amol Deshpande"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Bhargav Kanagal",
+		"Amol Deshpande"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/KanagalD10",
@@ -8,8 +11,19 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807241",
 	"pages": "675-686",
 	"publisher": "ACM",
-	"stemmed": ["lineag", "process", "over", "correl", "probabilist", "databas"],
-	"tag": ["correlation", "database", "probability"],
+	"stemmed": [
+		"lineag",
+		"process",
+		"over",
+		"correl",
+		"probabilist",
+		"databas"
+	],
+	"tag": [
+		"correlation",
+		"database",
+		"probability"
+	],
 	"title": "Lineage processing over correlated probabilistic databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

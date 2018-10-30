@@ -1,14 +1,32 @@
 {
-	"author": ["Felix Putze", "Peter Sanders", "Johannes Singler"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Felix Putze",
+		"Peter Sanders",
+		"Johannes Singler"
+	],
+	"booktitle": "Proceedings of the 12th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2007",
 	"dblpkey": "conf/ppopp/PutzeSS07",
 	"doi": "10.1145/1229428.1229458",
 	"ee": "http://doi.acm.org/10.1145/1229428.1229458",
 	"pages": "144-145",
 	"publisher": "ACM",
-	"stemmed": ["mcstl", "the", "multi", "core", "standard", "templat", "librari"],
-	"tag": ["library", "manycore", "named", "standard"],
+	"stemmed": [
+		"mcstl",
+		"the",
+		"multi",
+		"core",
+		"standard",
+		"templat",
+		"librari"
+	],
+	"tag": [
+		"library",
+		"manycore",
+		"named",
+		"standard"
+	],
 	"title": "MCSTL: the multi-core standard template library",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,14 +1,31 @@
 {
-	"author": ["Richard L. Hudson", "J. Eliot B. Moss", "Sreenivas Subramoney", "Weldon Washburn"],
-	"booktitle": "ISMM",
+	"author": [
+		"Richard L. Hudson",
+		"J. Eliot B. Moss",
+		"Sreenivas Subramoney",
+		"Weldon Washburn"
+	],
+	"booktitle": "Proceedings of the Second International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2000",
 	"dblpkey": "conf/iwmm/HudsonMSW00",
 	"doi": "10.1145/362422.362470",
 	"ee": "http://doi.acm.org/10.1145/362422.362470",
 	"pages": "101-110",
 	"publisher": "ACM",
-	"stemmed": ["cycl", "to", "recycl", "garbag", "collect", "on", "the", "ia"],
-	"tag": ["garbage collection"],
+	"stemmed": [
+		"cycl",
+		"to",
+		"recycl",
+		"garbag",
+		"collect",
+		"on",
+		"the",
+		"ia"
+	],
+	"tag": [
+		"garbage collection"
+	],
 	"title": "Cycles to Recycle: Garbage Collection on the IA-64",
 	"type": "inproceedings",
 	"venue": "ISMM",

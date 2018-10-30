@@ -1,6 +1,10 @@
 {
-	"author": ["Ullrich Hustadt", "Boris Konev"],
-	"booktitle": "CADE",
+	"author": [
+		"Ullrich Hustadt",
+		"Boris Konev"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2003",
 	"dblpkey": "conf/cade/HustadtK03",
 	"doi": "10.1007/978-3-540-45085-6_21",
@@ -10,11 +14,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["trp", "a", "tempor", "resolut", "prover"],
-	"tag": ["proving"],
+	"stemmed": [
+		"trp",
+		"a",
+		"tempor",
+		"resolut",
+		"prover"
+	],
+	"tag": [
+		"proving"
+	],
 	"title": "TRP++2.0: A Temporal Resolution Prover",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2741,
+	"volume": "2741",
 	"year": 2003
 }

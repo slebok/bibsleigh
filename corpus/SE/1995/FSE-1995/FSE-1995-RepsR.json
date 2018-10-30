@@ -1,7 +1,10 @@
 {
-	"author": ["Thomas W. Reps", "Genevieve Rosay"],
+	"author": [
+		"Thomas W. Reps",
+		"Genevieve Rosay"
+	],
 	"booktitle": "Proceedings of the Third Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/1995",
 	"dblpkey": "conf/sigsoft/RepsR95",
 	"doi": "10.1145/222124.222138",
@@ -9,8 +12,15 @@
 	"ee": "http://doi.acm.org/10.1145/222124.222138",
 	"pages": "41-52",
 	"publisher": "ACM",
-	"stemmed": ["precis", "interprocedur", "chop"],
-	"tag": ["interprocedural", "precise"],
+	"stemmed": [
+		"precis",
+		"interprocedur",
+		"chop"
+	],
+	"tag": [
+		"interprocedural",
+		"precise"
+	],
 	"title": "Precise Interprocedural Chopping",
 	"type": "inproceedings",
 	"venue": "FSE",

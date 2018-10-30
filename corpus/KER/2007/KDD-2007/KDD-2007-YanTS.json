@@ -1,14 +1,31 @@
 {
-	"author": ["Rong Yan", "Jelena Tesic", "John R. Smith"],
-	"booktitle": "KDD",
+	"author": [
+		"Rong Yan",
+		"Jelena Tesic",
+		"John R. Smith"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2007",
 	"dblpkey": "conf/kdd/YanTS07",
 	"doi": "10.1145/1281192.1281281",
 	"ee": "http://doi.acm.org/10.1145/1281192.1281281",
 	"pages": "834-843",
 	"publisher": "ACM",
-	"stemmed": ["model", "share", "subspac", "boost", "for", "multi", "label", "classif"],
-	"tag": ["classification", "multi"],
+	"stemmed": [
+		"model",
+		"share",
+		"subspac",
+		"boost",
+		"for",
+		"multi",
+		"label",
+		"classif"
+	],
+	"tag": [
+		"classification",
+		"multi"
+	],
 	"title": "Model-shared subspace boosting for multi-label classification",
 	"type": "inproceedings",
 	"venue": "KDD",

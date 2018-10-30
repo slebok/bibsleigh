@@ -1,6 +1,12 @@
 {
-	"author": ["Jesse Elwell", "Ryan Riley", "Nael B. Abu-Ghazaleh", "Dmitry Ponomarev"],
-	"booktitle": "HPCA",
+	"author": [
+		"Jesse Elwell",
+		"Ryan Riley",
+		"Nael B. Abu-Ghazaleh",
+		"Dmitry Ponomarev"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/ElwellRAP14",
 	"doi": "10.1109/HPCA.2014.6835931",
@@ -8,8 +14,24 @@
 	"pages": "201-212",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "non", "inclus", "memori", "permiss", "architectur", "for", "protect", "against", "cross", "layer", "attack"],
-	"tag": ["architecture", "memory management"],
+	"stemmed": [
+		"a",
+		"non",
+		"inclus",
+		"memori",
+		"permiss",
+		"architectur",
+		"for",
+		"protect",
+		"against",
+		"cross",
+		"layer",
+		"attack"
+	],
+	"tag": [
+		"architecture",
+		"memory management"
+	],
 	"title": "A Non-Inclusive Memory Permissions architecture for protection against cross-layer attacks",
 	"type": "inproceedings",
 	"venue": "HPCA",

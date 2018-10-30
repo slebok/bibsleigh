@@ -1,17 +1,41 @@
 {
-	"author": ["Manu Sridharan", "Shay Artzi", "Marco Pistoia", "Salvatore Guarnieri", "Omer Tripp", "Ryan Berg"],
-	"booktitle": "Proceedings of the 26th Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Manu Sridharan",
+		"Shay Artzi",
+		"Marco Pistoia",
+		"Salvatore Guarnieri",
+		"Omer Tripp",
+		"Ryan Berg"
+	],
+	"booktitle": "Proceedings of the 26th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2011",
 	"dblpkey": "conf/oopsla/SridharanAPGTB11",
 	"doi": "10.1145/2048066.2048145",
-	"editor": ["Cristina Videira Lopes", "Kathleen Fisher"],
+	"editor": [
+		"Cristina Videira Lopes",
+		"Kathleen Fisher"
+	],
 	"ee": "http://doi.acm.org/10.1145/2048066.2048145",
 	"isbn": "978-1-4503-0940-0",
 	"pages": "1053-1068",
 	"publisher": "ACM",
-	"stemmed": ["f", "f", "taint", "analysi", "of", "framework", "base", "web", "applic"],
-	"tag": ["analysis", "named", "web"],
+	"stemmed": [
+		"f",
+		"f",
+		"taint",
+		"analysi",
+		"of",
+		"framework",
+		"base",
+		"web",
+		"applic"
+	],
+	"tag": [
+		"analysis",
+		"named",
+		"web"
+	],
 	"title": "F4F: taint analysis of framework-based web applications",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

@@ -1,12 +1,29 @@
 {
-	"author": ["Ning An", "Kothuri Venkata Ravi Kanth", "Siva Ravada"],
-	"booktitle": "VLDB",
+	"author": [
+		"Ning An",
+		"Kothuri Venkata Ravi Kanth",
+		"Siva Ravada"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/AnKR03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S28P02.pdf",
 	"pages": "948-951",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["improv", "perform", "with", "bulk", "insert", "in", "oracl", "r", "tree"],
-	"tag": ["performance"],
+	"stemmed": [
+		"improv",
+		"perform",
+		"with",
+		"bulk",
+		"insert",
+		"in",
+		"oracl",
+		"r",
+		"tree"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Improving Performance with Bulk-Inserts in Oracle R-Trees",
 	"type": "inproceedings",
 	"venue": "VLDB",

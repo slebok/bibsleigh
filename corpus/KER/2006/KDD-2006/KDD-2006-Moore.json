@@ -1,14 +1,29 @@
 {
 	"author": "Andrew Moore",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/Moore06",
 	"doi": "10.1145/1150402.1150405",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150405",
-	"pages": 2,
+	"pages": "2",
 	"publisher": "ACM",
-	"stemmed": ["new", "cach", "suffici", "statist", "algorithm", "for", "quick", "answer", "statist", "question"],
-	"tag": ["algorithm", "statistics"],
+	"stemmed": [
+		"new",
+		"cach",
+		"suffici",
+		"statist",
+		"algorithm",
+		"for",
+		"quick",
+		"answer",
+		"statist",
+		"question"
+	],
+	"tag": [
+		"algorithm",
+		"statistics"
+	],
 	"title": "New cached-sufficient statistics algorithms for quickly answering statistical questions",
 	"type": "inproceedings",
 	"venue": "KDD",

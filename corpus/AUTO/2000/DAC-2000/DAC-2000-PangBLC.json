@@ -1,13 +1,37 @@
 {
-	"author": ["Yingxin Pang", "Florin Balasa", "Koen Lampaert", "Chung-Kuan Cheng"],
-	"booktitle": "DAC",
+	"author": [
+		"Yingxin Pang",
+		"Florin Balasa",
+		"Koen Lampaert",
+		"Chung-Kuan Cheng"
+	],
+	"booktitle": "Proceedings of the 37th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/PangBLC00",
 	"doi": "10.1145/337292.337545",
 	"ee": "http://doi.acm.org/10.1145/337292.337545",
 	"pages": "464-467",
 	"publisher": "ACM",
-	"stemmed": ["block", "placement", "with", "symmetri", "constraint", "base", "on", "the", "o", "tree", "non", "slice", "represent"],
-	"tag": ["constraints", "representation", "symmetry"],
+	"stemmed": [
+		"block",
+		"placement",
+		"with",
+		"symmetri",
+		"constraint",
+		"base",
+		"on",
+		"the",
+		"o",
+		"tree",
+		"non",
+		"slice",
+		"represent"
+	],
+	"tag": [
+		"constraints",
+		"representation",
+		"symmetry"
+	],
 	"title": "Block placement with symmetry constraints based on the O-tree non-slicing representation",
 	"type": "inproceedings",
 	"venue": "DAC",

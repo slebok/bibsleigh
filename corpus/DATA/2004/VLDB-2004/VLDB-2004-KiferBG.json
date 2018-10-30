@@ -1,13 +1,27 @@
 {
-	"author": ["Daniel Kifer", "Shai Ben-David", "Johannes Gehrke"],
-	"booktitle": "VLDB",
+	"author": [
+		"Daniel Kifer",
+		"Shai Ben-David",
+		"Johannes Gehrke"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/KiferBG04",
 	"ee": "http://www.vldb.org/conf/2004/RS5P1.PDF",
 	"pages": "180-191",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["detect", "chang", "in", "data", "stream"],
-	"tag": ["data type", "detection"],
+	"stemmed": [
+		"detect",
+		"chang",
+		"in",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"data type",
+		"detection"
+	],
 	"title": "Detecting Change in Data Streams",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,14 +1,30 @@
 {
-	"author": ["Linas Baltrunas", "Bernd Ludwig", "Francesco Ricci"],
-	"booktitle": "RecSys",
+	"author": [
+		"Linas Baltrunas",
+		"Bernd Ludwig",
+		"Francesco Ricci"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2011",
 	"dblpkey": "conf/recsys/BaltrunasLR11",
 	"doi": "10.1145/2043932.2043988",
 	"ee": "http://doi.acm.org/10.1145/2043932.2043988",
 	"pages": "301-304",
 	"publisher": "ACM",
-	"stemmed": ["matrix", "factor", "techniqu", "for", "context", "awar", "recommend"],
-	"tag": ["matrix", "recommendation"],
+	"stemmed": [
+		"matrix",
+		"factor",
+		"techniqu",
+		"for",
+		"context",
+		"awar",
+		"recommend"
+	],
+	"tag": [
+		"matrix",
+		"recommendation"
+	],
 	"title": "Matrix factorization techniques for context aware recommendation",
 	"type": "inproceedings",
 	"venue": "RecSys",

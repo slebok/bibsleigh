@@ -1,16 +1,41 @@
 {
-	"acmid": 2495931,
-	"author": ["Jialu Huang", "Thomas B. Jablin", "Stephen R. Beard", "Nick P. Johnson", "David I. August"],
-	"booktitle": "CGO",
+	"acmid": "2495931",
+	"author": [
+		"Jialu Huang",
+		"Thomas B. Jablin",
+		"Stephen R. Beard",
+		"Nick P. Johnson",
+		"David I. August"
+	],
+	"booktitle": "Proceedings of the 11th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2013",
 	"dblpkey": "conf/cgo/HuangJBJA13",
 	"doi": "10.1109/CGO.2013.6495001",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2013.6495001", "http://doi.ieeecomputersociety.org/10.1109/CGO.2013.6495001", "http://dl.acm.org/citation.cfm?id=2495931"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2013.6495001",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2013.6495001",
+		"http://dl.acm.org/citation.cfm?id=2495931"
+	],
 	"pages": "26:1-26:11",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["automat", "exploit", "cross", "invoc", "parallel", "use", "runtim", "inform"],
-	"tag": ["automation", "parallel", "runtime", "using"],
+	"stemmed": [
+		"automat",
+		"exploit",
+		"cross",
+		"invoc",
+		"parallel",
+		"use",
+		"runtim",
+		"inform"
+	],
+	"tag": [
+		"automation",
+		"parallel",
+		"runtime",
+		"using"
+	],
 	"title": "Automatically exploiting cross-invocation parallelism using runtime information",
 	"type": "inproceedings",
 	"venue": "CGO",

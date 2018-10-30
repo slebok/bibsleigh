@@ -1,6 +1,7 @@
 {
 	"author": "Wesley P. Melling",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD94/P493.PDF",
 	"crossref": "conf/sigmod/94",
 	"dblpkey": "conf/sigmod/Melling94",
@@ -8,8 +9,19 @@
 	"ee": "http://doi.acm.org/10.1145/191839.191948",
 	"pages": "493-504",
 	"publisher": "ACM Press",
-	"stemmed": ["enterpris", "inform", "architectur", "they", "re", "final", "chang"],
-	"tag": ["architecture", "enterprise"],
+	"stemmed": [
+		"enterpris",
+		"inform",
+		"architectur",
+		"they",
+		"re",
+		"final",
+		"chang"
+	],
+	"tag": [
+		"architecture",
+		"enterprise"
+	],
 	"title": "Enterprise Information Architectures — They’re Finally Changing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

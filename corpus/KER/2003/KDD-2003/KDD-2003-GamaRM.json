@@ -1,14 +1,33 @@
 {
-	"author": ["João Gama", "Ricardo Rocha", "Pedro Medas"],
-	"booktitle": "KDD",
+	"author": [
+		"João Gama",
+		"Ricardo Rocha",
+		"Pedro Medas"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2003",
 	"dblpkey": "conf/kdd/GamaRM03",
 	"doi": "10.1145/956750.956813",
 	"ee": "http://doi.acm.org/10.1145/956750.956813",
 	"pages": "523-528",
 	"publisher": "ACM",
-	"stemmed": ["accur", "decis", "tree", "for", "mine", "high", "speed", "data", "stream"],
-	"tag": ["data type", "mining", "performance"],
+	"stemmed": [
+		"accur",
+		"decis",
+		"tree",
+		"for",
+		"mine",
+		"high",
+		"speed",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"data type",
+		"mining",
+		"performance"
+	],
 	"title": "Accurate decision trees for mining high-speed data streams",
 	"type": "inproceedings",
 	"venue": "KDD",

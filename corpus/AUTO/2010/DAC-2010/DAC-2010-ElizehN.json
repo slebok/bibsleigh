@@ -1,14 +1,27 @@
 {
-	"author": ["Kaveh Elizeh", "Nicola Nicolici"],
-	"booktitle": "DAC",
+	"author": [
+		"Kaveh Elizeh",
+		"Nicola Nicolici"
+	],
+	"booktitle": "Proceedings of the 47th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2010",
 	"dblpkey": "conf/dac/ElizehN10",
 	"doi": "10.1145/1837274.1837389",
 	"ee": "http://doi.acm.org/10.1145/1837274.1837389",
 	"pages": "457-462",
 	"publisher": "ACM",
-	"stemmed": ["embed", "memori", "bind", "in", "fpgas"],
-	"tag": ["embedded", "memory management"],
+	"stemmed": [
+		"embed",
+		"memori",
+		"bind",
+		"in",
+		"fpgas"
+	],
+	"tag": [
+		"embedded",
+		"memory management"
+	],
 	"title": "Embedded memory binding in FPGAs",
 	"type": "inproceedings",
 	"venue": "DAC",

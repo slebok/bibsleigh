@@ -1,14 +1,33 @@
 {
-	"author": ["Ohad Shacham", "Mooly Sagiv", "Assaf Schuster"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Ohad Shacham",
+		"Mooly Sagiv",
+		"Assaf Schuster"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2005",
 	"dblpkey": "conf/ppopp/ShachamSS05",
 	"doi": "10.1145/1065944.1065958",
 	"ee": "http://doi.acm.org/10.1145/1065944.1065958",
 	"pages": "107-118",
 	"publisher": "ACM",
-	"stemmed": ["scale", "model", "check", "of", "datarac", "use", "dynam", "inform"],
-	"tag": ["information management", "model checking", "scalability", "using"],
+	"stemmed": [
+		"scale",
+		"model",
+		"check",
+		"of",
+		"datarac",
+		"use",
+		"dynam",
+		"inform"
+	],
+	"tag": [
+		"information management",
+		"model checking",
+		"scalability",
+		"using"
+	],
 	"title": "Scaling model checking of dataraces using dynamic information",
 	"type": "inproceedings",
 	"venue": "PPoPP",

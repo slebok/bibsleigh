@@ -1,14 +1,30 @@
 {
-	"author": ["Dell Zhang", "Wee Sun Lee"],
-	"booktitle": "KDD",
+	"author": [
+		"Dell Zhang",
+		"Wee Sun Lee"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/ZhangL06",
 	"doi": "10.1145/1150402.1150455",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150455",
 	"pages": "474-483",
 	"publisher": "ACM",
-	"stemmed": ["extract", "key", "substr", "group", "featur", "for", "text", "classif"],
-	"tag": ["classification", "string"],
+	"stemmed": [
+		"extract",
+		"key",
+		"substr",
+		"group",
+		"featur",
+		"for",
+		"text",
+		"classif"
+	],
+	"tag": [
+		"classification",
+		"string"
+	],
 	"title": "Extracting key-substring-group features for text classification",
 	"type": "inproceedings",
 	"venue": "KDD",

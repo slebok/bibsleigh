@@ -1,15 +1,38 @@
 {
-	"author": ["Amin Ansari", "Shuguang Feng", "Shantanu Gupta", "Josep Torrellas", "Scott A. Mahlke"],
-	"booktitle": "HPCA",
+	"author": [
+		"Amin Ansari",
+		"Shuguang Feng",
+		"Shantanu Gupta",
+		"Josep Torrellas",
+		"Scott A. Mahlke"
+	],
+	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/AnsariFGTM13",
 	"doi": "10.1109/HPCA.2013.6522339",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522339", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522339"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2013.6522339",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522339"
+	],
 	"pages": "436-447",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["illusionist", "transform", "lightweight", "core", "into", "aggress", "core", "on", "demand"],
-	"tag": ["lightweight", "named"],
+	"stemmed": [
+		"illusionist",
+		"transform",
+		"lightweight",
+		"core",
+		"into",
+		"aggress",
+		"core",
+		"on",
+		"demand"
+	],
+	"tag": [
+		"lightweight",
+		"named"
+	],
 	"title": "Illusionist: Transforming lightweight cores into aggressive cores on demand",
 	"type": "inproceedings",
 	"venue": "HPCA",

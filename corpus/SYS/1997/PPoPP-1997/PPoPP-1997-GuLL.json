@@ -1,14 +1,36 @@
 {
-	"author": ["Junjie Gu", "Zhiyuan Li", "Gyungho Lee"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Junjie Gu",
+		"Zhiyuan Li",
+		"Gyungho Lee"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1997",
 	"dblpkey": "conf/ppopp/GuLL97",
 	"doi": "10.1145/263764.263785",
 	"ee": "http://doi.acm.org/10.1145/263764.263785",
 	"pages": "157-167",
 	"publisher": "ACM",
-	"stemmed": ["experi", "with", "effici", "array", "data", "flow", "analysi", "for", "array", "privat"],
-	"tag": ["analysis", "array", "data flow", "experience", "performance"],
+	"stemmed": [
+		"experi",
+		"with",
+		"effici",
+		"array",
+		"data",
+		"flow",
+		"analysi",
+		"for",
+		"array",
+		"privat"
+	],
+	"tag": [
+		"analysis",
+		"array",
+		"data flow",
+		"experience",
+		"performance"
+	],
 	"title": "Experience with Efficient Array Data-Flow Analysis for Array Privatization",
 	"type": "inproceedings",
 	"venue": "PPoPP",

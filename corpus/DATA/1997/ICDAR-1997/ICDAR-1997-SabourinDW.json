@@ -1,15 +1,39 @@
 {
-	"author": ["Robert Sabourin", "Jean-Pierre Drouhard", "Etienne Sum Wah"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Robert Sabourin",
+		"Jean-Pierre Drouhard",
+		"Etienne Sum Wah"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/1997",
 	"dblpkey": "conf/icdar/SabourinDW97",
 	"doi": "10.1109/ICDAR.1997.620589",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1997.620589", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1997.620589"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1997.620589",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1997.620589"
+	],
 	"pages": "661-666",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["shape", "matric", "as", "a", "mix", "shape", "factor", "for", "off", "line", "signatur", "verif"],
-	"tag": ["matrix", "verification"],
+	"stemmed": [
+		"shape",
+		"matric",
+		"as",
+		"a",
+		"mix",
+		"shape",
+		"factor",
+		"for",
+		"off",
+		"line",
+		"signatur",
+		"verif"
+	],
+	"tag": [
+		"matrix",
+		"verification"
+	],
 	"title": "Shape Matrices as a Mixed Shape Factor for Off-line Signature Verification",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,14 +1,35 @@
 {
-	"author": ["Leandro Balby Marinho", "Christoph Trattner", "Denis Parra"],
-	"booktitle": "RecSys",
+	"author": [
+		"Leandro Balby Marinho",
+		"Christoph Trattner",
+		"Denis Parra"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2015",
 	"dblpkey": "conf/recsys/MarinhoTP15",
 	"doi": "10.1145/2792838.2799674",
 	"ee": "http://doi.acm.org/10.1145/2792838.2799674",
 	"pages": "245-248",
 	"publisher": "ACM",
-	"stemmed": ["are", "real", "world", "place", "recommend", "algorithm", "use", "in", "virtual", "world", "environ"],
-	"tag": ["algorithm", "question", "recommendation"],
+	"stemmed": [
+		"are",
+		"real",
+		"world",
+		"place",
+		"recommend",
+		"algorithm",
+		"use",
+		"in",
+		"virtual",
+		"world",
+		"environ"
+	],
+	"tag": [
+		"algorithm",
+		"question",
+		"recommendation"
+	],
 	"title": "Are Real-World Place Recommender Algorithms Useful in Virtual World Environments?",
 	"type": "inproceedings",
 	"venue": "RecSys",

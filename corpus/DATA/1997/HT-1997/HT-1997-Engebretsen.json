@@ -1,6 +1,7 @@
 {
 	"author": "Martin Engebretsen",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the Eighth Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1997/P222.pdf",
 	"crossref": "conf/ht/97",
 	"dblpkey": "conf/ht/Engebretsen97",
@@ -8,8 +9,17 @@
 	"ee": "http://doi.acm.org/10.1145/267437.267469",
 	"pages": "222-223",
 	"publisher": "ACM",
-	"stemmed": ["hyper", "news", "revolut", "or", "contradict"],
-	"tag": ["named", "question"],
+	"stemmed": [
+		"hyper",
+		"news",
+		"revolut",
+		"or",
+		"contradict"
+	],
+	"tag": [
+		"named",
+		"question"
+	],
 	"title": "Hyper-news: Revolution or Contradiction?",
 	"type": "inproceedings",
 	"venue": "HT",

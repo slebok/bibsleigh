@@ -1,6 +1,10 @@
 {
-	"author": ["Axel Jantsch", "Per Bjuréus"],
-	"booktitle": "DATE",
+	"author": [
+		"Axel Jantsch",
+		"Per Bjuréus"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/JantschB00",
 	"doi": "10.1109/DATE.2000.840032",
@@ -8,7 +12,20 @@
 	"pages": "154-160",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["composit", "signal", "flow", "a", "comput", "model", "combin", "event", "sampl", "stream", "and", "vector"],
+	"stemmed": [
+		"composit",
+		"signal",
+		"flow",
+		"a",
+		"comput",
+		"model",
+		"combin",
+		"event",
+		"sampl",
+		"stream",
+		"and",
+		"vector"
+	],
 	"title": "Composite Signal Flow: A Computational Model Combining Events, Sampled Streams, and Vectors",
 	"type": "inproceedings",
 	"venue": "DATE",

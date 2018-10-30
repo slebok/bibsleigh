@@ -1,6 +1,10 @@
 {
-	"author": ["F. Keith Hanna", "Neil Daeche"],
-	"booktitle": "CADE",
+	"author": [
+		"F. Keith Hanna",
+		"Neil Daeche"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/HannaD86",
 	"doi": "10.1007/3-540-16780-3_124",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["pure", "function", "implement", "of", "a", "logic"],
-	"tag": ["functional", "implementation", "logic"],
+	"stemmed": [
+		"pure",
+		"function",
+		"implement",
+		"of",
+		"a",
+		"logic"
+	],
+	"tag": [
+		"functional",
+		"implementation",
+		"logic"
+	],
 	"title": "Purely Functional Implementation of a Logic",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

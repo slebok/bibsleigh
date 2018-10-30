@@ -1,14 +1,34 @@
 {
-	"author": ["Dehua Cheng", "Yan Liu"],
-	"booktitle": "KDD",
+	"author": [
+		"Dehua Cheng",
+		"Yan Liu"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/ChengL14",
 	"doi": "10.1145/2623330.2623708",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623708",
 	"pages": "562-571",
 	"publisher": "ACM",
-	"stemmed": ["parallel", "gibb", "sampl", "for", "hierarch", "dirichlet", "process", "via", "gamma", "process", "equival"],
-	"tag": ["equivalence", "parallel", "process"],
+	"stemmed": [
+		"parallel",
+		"gibb",
+		"sampl",
+		"for",
+		"hierarch",
+		"dirichlet",
+		"process",
+		"via",
+		"gamma",
+		"process",
+		"equival"
+	],
+	"tag": [
+		"equivalence",
+		"parallel",
+		"process"
+	],
 	"title": "Parallel gibbs sampling for hierarchical dirichlet processes via gamma processes equivalence",
 	"type": "inproceedings",
 	"venue": "KDD",

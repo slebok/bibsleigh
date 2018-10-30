@@ -1,6 +1,14 @@
 {
-	"author": ["Yaozu Dong", "Xiaowei Yang", "Xiaoyong Li", "Jianhui Li", "Kun Tian", "Haibing Guan"],
-	"booktitle": "HPCA",
+	"author": [
+		"Yaozu Dong",
+		"Xiaowei Yang",
+		"Xiaoyong Li",
+		"Jianhui Li",
+		"Kun Tian",
+		"Haibing Guan"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2010",
 	"dblpkey": "conf/hpca/DongYLLTG10",
 	"doi": "10.1109/HPCA.2010.5416637",
@@ -8,8 +16,19 @@
 	"pages": "1-10",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["high", "perform", "network", "virtual", "with", "sr", "iov"],
-	"tag": ["network", "performance"],
+	"stemmed": [
+		"high",
+		"perform",
+		"network",
+		"virtual",
+		"with",
+		"sr",
+		"iov"
+	],
+	"tag": [
+		"network",
+		"performance"
+	],
 	"title": "High performance network virtualization with SR-IOV",
 	"type": "inproceedings",
 	"venue": "HPCA",

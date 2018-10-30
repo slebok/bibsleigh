@@ -1,6 +1,11 @@
 {
-	"author": ["Marijn Heule", "Martina Seidl", "Armin Biere"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Marijn Heule",
+		"Martina Seidl",
+		"Armin Biere"
+	],
+	"booktitle": "Proceedings of the Seventh International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2014",
 	"dblpkey": "conf/cade/HeuleSB14",
 	"doi": "10.1007/978-3-319-08587-6_7",
@@ -10,11 +15,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "unifi", "proof", "system", "for", "qbf", "preprocess"],
-	"tag": ["preprocessor", "proving"],
+	"stemmed": [
+		"a",
+		"unifi",
+		"proof",
+		"system",
+		"for",
+		"qbf",
+		"preprocess"
+	],
+	"tag": [
+		"preprocessor",
+		"proving"
+	],
 	"title": "A Unified Proof System for QBF Preprocessing",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 8562,
+	"volume": "8562",
 	"year": 2014
 }

@@ -1,6 +1,7 @@
 {
 	"author": "Wolfgang Reif",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/Reif92",
 	"doi": "10.1007/3-540-55602-8_218",
@@ -10,10 +11,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "kiv", "system", "systemat", "construct", "of", "verifi", "softwar"],
+	"stemmed": [
+		"the",
+		"kiv",
+		"system",
+		"systemat",
+		"construct",
+		"of",
+		"verifi",
+		"softwar"
+	],
 	"title": "The KIV System: Systematic Construction of Verified Software",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

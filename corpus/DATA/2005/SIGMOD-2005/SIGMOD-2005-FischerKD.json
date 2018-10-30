@@ -1,6 +1,10 @@
 {
-	"author": ["Jens-Peter Dittrich", "Peter M. Fischer", "Donald Kossmann"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jens-Peter Dittrich",
+		"Peter M. Fischer",
+		"Donald Kossmann"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/FischerKD05",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066183",
 	"pages": "215-226",
 	"publisher": "ACM",
-	"stemmed": ["agil", "adapt", "index", "for", "context", "awar", "inform", "filter"],
-	"tag": ["adaptation", "agile", "named"],
+	"stemmed": [
+		"agil",
+		"adapt",
+		"index",
+		"for",
+		"context",
+		"awar",
+		"inform",
+		"filter"
+	],
+	"tag": [
+		"adaptation",
+		"agile",
+		"named"
+	],
 	"title": "AGILE: Adaptive Indexing for Context-Aware Information Filters",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

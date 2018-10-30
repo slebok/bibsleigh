@@ -1,14 +1,41 @@
 {
-	"author": ["François Bancilhon", "Won Kim", "Henry F. Korth"],
-	"booktitle": "VLDB",
-	"cite": ["journals/csur/BernsteinG81", "journals/cacm/EswarranGLT76", "journals/tods/Garcia-Molina83", "conf/ac/Gray78", "conf/vldb/Gray81", "conf/sigmod/HaskinL82", "...", "conf/vldb/KimLMP84", "...", "journals/tods/Lynch83", "...", "journals/jacm/Papadimitriou79b", "journals/jacm/SilberschatzK80"],
+	"author": [
+		"François Bancilhon",
+		"Won Kim",
+		"Henry F. Korth"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/csur/BernsteinG81",
+		"journals/cacm/EswarranGLT76",
+		"journals/tods/Garcia-Molina83",
+		"conf/ac/Gray78",
+		"conf/vldb/Gray81",
+		"conf/sigmod/HaskinL82",
+		"...",
+		"conf/vldb/KimLMP84",
+		"...",
+		"journals/tods/Lynch83",
+		"...",
+		"journals/jacm/Papadimitriou79b",
+		"journals/jacm/SilberschatzK80"
+	],
 	"crossref": "conf/vldb/85",
 	"dblpkey": "conf/vldb/BancilhonKK85",
 	"ee": "http://www.vldb.org/conf/1985/P025.PDF",
 	"pages": "25-33",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["a", "model", "of", "cad", "transact"],
-	"tag": ["transaction"],
+	"stemmed": [
+		"a",
+		"model",
+		"of",
+		"cad",
+		"transact"
+	],
+	"tag": [
+		"transaction"
+	],
 	"title": "A Model of CAD Transactions",
 	"type": "inproceedings",
 	"venue": "VLDB",

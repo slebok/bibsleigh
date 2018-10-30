@@ -1,6 +1,11 @@
 {
-	"author": ["Chun Kit Chui", "Ben Kao", "Eric Lo", "David W. Cheung"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Chun Kit Chui",
+		"Ben Kao",
+		"Eric Lo",
+		"David W. Cheung"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/ChuiKLC10",
@@ -8,8 +13,21 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807299",
 	"pages": "1131-1134",
 	"publisher": "ACM",
-	"stemmed": ["s", "olap", "an", "olap", "system", "for", "analyz", "sequenc", "data"],
-	"tag": ["named", "sequence"],
+	"stemmed": [
+		"s",
+		"olap",
+		"an",
+		"olap",
+		"system",
+		"for",
+		"analyz",
+		"sequenc",
+		"data"
+	],
+	"tag": [
+		"named",
+		"sequence"
+	],
 	"title": "S-OLAP: an OLAP system for analyzing sequence data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,11 @@
 {
-	"author": ["Catherine Moulinoux", "Jean-Claude Faure", "Witold Litwin"],
+	"author": [
+		"Catherine Moulinoux",
+		"Jean-Claude Faure",
+		"Witold Litwin"
+	],
 	"booktitle": "Proceedings of the Fifth Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"dblpkey": "conf/sigir/MoulinouxFL82",
 	"doi": "10.1007/BFb0036338",
 	"ee": "http://dx.doi.org/10.1007/BFb0036338",
@@ -9,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["messidor", "a", "distribut", "inform", "retriev", "system"],
-	"tag": ["distributed", "information retrieval", "named"],
+	"stemmed": [
+		"messidor",
+		"a",
+		"distribut",
+		"inform",
+		"retriev",
+		"system"
+	],
+	"tag": [
+		"distributed",
+		"information retrieval",
+		"named"
+	],
 	"title": "Messidor: A Distributed Information Retrieval Systems",
 	"type": "inproceedings",
 	"venue": "SIGIR",
-	"volume": 146,
+	"volume": "146",
 	"year": 1982
 }

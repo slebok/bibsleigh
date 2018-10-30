@@ -1,16 +1,36 @@
 {
-	"acmid": 2738626,
-	"author": ["Roland Leißa", "Marcel Köster", "Sebastian Hack"],
-	"booktitle": "CGO",
+	"acmid": "2738626",
+	"author": [
+		"Roland Leißa",
+		"Marcel Köster",
+		"Sebastian Hack"
+	],
+	"booktitle": "Proceedings of the 13th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2015",
 	"dblpkey": "conf/cgo/LeissaKH15",
 	"doi": "10.1109/CGO.2015.7054200",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2015.7054200", "http://dl.acm.org/citation.cfm?id=2738626"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2015.7054200",
+		"http://dl.acm.org/citation.cfm?id=2738626"
+	],
 	"pages": "202-212",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "graph", "base", "higher", "order", "intermedi", "represent"],
-	"tag": ["graph", "higher-order", "representation"],
+	"stemmed": [
+		"a",
+		"graph",
+		"base",
+		"higher",
+		"order",
+		"intermedi",
+		"represent"
+	],
+	"tag": [
+		"graph",
+		"higher-order",
+		"representation"
+	],
 	"title": "A graph-based higher-order intermediate representation",
 	"type": "inproceedings",
 	"venue": "CGO",

@@ -1,14 +1,30 @@
 {
-	"author": ["Derek G. Bridge", "Francesco Ricci"],
-	"booktitle": "RecSys",
+	"author": [
+		"Derek G. Bridge",
+		"Francesco Ricci"
+	],
+	"booktitle": "Proceedings of the First Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2007",
 	"dblpkey": "conf/recsys/BridgeR07",
 	"doi": "10.1145/1297231.1297243",
 	"ee": "http://doi.acm.org/10.1145/1297231.1297243",
 	"pages": "65-72",
 	"publisher": "ACM",
-	"stemmed": ["support", "product", "select", "with", "queri", "edit", "recommend"],
-	"tag": ["editing", "query", "recommendation"],
+	"stemmed": [
+		"support",
+		"product",
+		"select",
+		"with",
+		"queri",
+		"edit",
+		"recommend"
+	],
+	"tag": [
+		"editing",
+		"query",
+		"recommendation"
+	],
 	"title": "Supporting product selection with query editing recommendations",
 	"type": "inproceedings",
 	"venue": "RecSys",

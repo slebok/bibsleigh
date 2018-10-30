@@ -1,6 +1,11 @@
 {
-	"author": ["Raghav Kaushik", "Philip Bohannon", "Jeffrey F. Naughton", "Henry F. Korth"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Raghav Kaushik",
+		"Philip Bohannon",
+		"Jeffrey F. Naughton",
+		"Henry F. Korth"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/KaushikBNK02",
@@ -8,8 +13,18 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564707",
 	"pages": "133-144",
 	"publisher": "ACM",
-	"stemmed": ["cover", "index", "for", "branch", "path", "queri"],
-	"tag": ["branch", "query"],
+	"stemmed": [
+		"cover",
+		"index",
+		"for",
+		"branch",
+		"path",
+		"queri"
+	],
+	"tag": [
+		"branch",
+		"query"
+	],
 	"title": "Covering indexes for branching path queries",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

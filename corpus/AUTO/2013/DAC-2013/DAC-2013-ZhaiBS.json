@@ -1,14 +1,37 @@
 {
-	"author": ["Jiali Teddy Zhai", "Mohamed Bamakhrama", "Todor Stefanov"],
-	"booktitle": "DAC",
+	"author": [
+		"Jiali Teddy Zhai",
+		"Mohamed Bamakhrama",
+		"Todor Stefanov"
+	],
+	"booktitle": "Proceedings of the 50th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2013",
 	"dblpkey": "conf/dac/ZhaiBS13",
 	"doi": "10.1145/2463209.2488944",
 	"ee": "http://doi.acm.org/10.1145/2463209.2488944",
 	"pages": "170:1-170:8",
 	"publisher": "ACM",
-	"stemmed": ["exploit", "just", "enough", "parallel", "when", "map", "stream", "applic", "in", "hard", "real", "time", "system"],
-	"tag": ["parallel", "realtime", "streaming"],
+	"stemmed": [
+		"exploit",
+		"just",
+		"enough",
+		"parallel",
+		"when",
+		"map",
+		"stream",
+		"applic",
+		"in",
+		"hard",
+		"real",
+		"time",
+		"system"
+	],
+	"tag": [
+		"parallel",
+		"realtime",
+		"streaming"
+	],
 	"title": "Exploiting just-enough parallelism when mapping streaming applications in hard real-time systems",
 	"type": "inproceedings",
 	"venue": "DAC",

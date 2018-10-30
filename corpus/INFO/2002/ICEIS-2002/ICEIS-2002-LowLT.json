@@ -1,10 +1,29 @@
 {
-	"author": ["Wai Lup Low", "Joseph Lee", "Peter Teoh"],
-	"booktitle": "ICEIS",
+	"author": [
+		"Wai Lup Low",
+		"Joseph Lee",
+		"Peter Teoh"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Enterprise Information Systems",
+	"booktitleshort": "ICEIS",
 	"dblpkey": "conf/iceis/LowLT02",
 	"pages": "121-128",
-	"stemmed": ["didafit", "detect", "intrus", "in", "databas", "through", "fingerprint", "transact"],
-	"tag": ["database", "detection", "named", "transaction"],
+	"stemmed": [
+		"didafit",
+		"detect",
+		"intrus",
+		"in",
+		"databas",
+		"through",
+		"fingerprint",
+		"transact"
+	],
+	"tag": [
+		"database",
+		"detection",
+		"named",
+		"transaction"
+	],
 	"title": "DIDAFIT: Detecting Intrusions in Databases Through Fingerprinting Transactions",
 	"type": "inproceedings",
 	"venue": "ICEIS",

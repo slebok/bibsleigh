@@ -1,15 +1,44 @@
 {
-	"author": ["Hidetoshi Miyao", "Minoru Maruyama", "Yasuaki Nakano", "Toshihiro Hananoi"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Hidetoshi Miyao",
+		"Minoru Maruyama",
+		"Yasuaki Nakano",
+		"Toshihiro Hananoi"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2005",
 	"dblpkey": "conf/icdar/MiyaoMNH05",
 	"doi": "10.1109/ICDAR.2005.170",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2005.170", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.170"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2005.170",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.170"
+	],
 	"pages": "494-498",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["off", "line", "handwritten", "charact", "recognit", "by", "svm", "on", "the", "virtual", "exampl", "synthes", "from", "on", "line", "charact"],
-	"tag": ["online", "recognition"],
+	"stemmed": [
+		"off",
+		"line",
+		"handwritten",
+		"charact",
+		"recognit",
+		"by",
+		"svm",
+		"on",
+		"the",
+		"virtual",
+		"exampl",
+		"synthes",
+		"from",
+		"on",
+		"line",
+		"charact"
+	],
+	"tag": [
+		"online",
+		"recognition"
+	],
 	"title": "Off-Line Handwritten Character Recognition by SVM on the Virtual Examples Synthesized from On-Line Characters",
 	"type": "inproceedings",
 	"venue": "ICDAR",

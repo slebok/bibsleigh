@@ -1,14 +1,38 @@
 {
-	"author": ["Seda Ogrenci Memik", "Gokhan Memik", "Roozbeh Jafari", "Eren Kursun"],
-	"booktitle": "DAC",
+	"author": [
+		"Seda Ogrenci Memik",
+		"Gokhan Memik",
+		"Roozbeh Jafari",
+		"Eren Kursun"
+	],
+	"booktitle": "Proceedings of the 40th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2003",
 	"dblpkey": "conf/dac/MemikMJK03",
 	"doi": "10.1145/775832.775985",
 	"ee": "http://doi.acm.org/10.1145/775832.775985",
 	"pages": "604-609",
 	"publisher": "ACM",
-	"stemmed": ["global", "resourc", "share", "for", "synthesi", "of", "control", "data", "flow", "graph", "on", "fpgas"],
-	"tag": ["data flow", "graph", "resource management", "synthesis"],
+	"stemmed": [
+		"global",
+		"resourc",
+		"share",
+		"for",
+		"synthesi",
+		"of",
+		"control",
+		"data",
+		"flow",
+		"graph",
+		"on",
+		"fpgas"
+	],
+	"tag": [
+		"data flow",
+		"graph",
+		"resource management",
+		"synthesis"
+	],
 	"title": "Global resource sharing for synthesis of control data flow graphs on FPGAs",
 	"type": "inproceedings",
 	"venue": "DAC",

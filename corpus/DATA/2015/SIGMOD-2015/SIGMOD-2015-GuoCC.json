@@ -1,6 +1,10 @@
 {
-	"author": ["Tao Guo", "Xin Cao", "Gao Cong"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Tao Guo",
+		"Xin Cao",
+		"Gao Cong"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/GuoCC15",
@@ -8,8 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2723723",
 	"pages": "405-418",
 	"publisher": "ACM",
-	"stemmed": ["effici", "algorithm", "for", "answer", "the", "m", "closest", "keyword", "queri"],
-	"tag": ["algorithm", "keyword", "performance", "query"],
+	"stemmed": [
+		"effici",
+		"algorithm",
+		"for",
+		"answer",
+		"the",
+		"m",
+		"closest",
+		"keyword",
+		"queri"
+	],
+	"tag": [
+		"algorithm",
+		"keyword",
+		"performance",
+		"query"
+	],
 	"title": "Efficient Algorithms for Answering the m-Closest Keywords Query",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

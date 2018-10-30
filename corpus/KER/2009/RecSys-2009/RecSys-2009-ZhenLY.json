@@ -1,14 +1,30 @@
 {
-	"author": ["Yi Zhen", "Wu-Jun Li", "Dit-Yan Yeung"],
-	"booktitle": "RecSys",
+	"author": [
+		"Yi Zhen",
+		"Wu-Jun Li",
+		"Dit-Yan Yeung"
+	],
+	"booktitle": "Proceedings of the Third Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2009",
 	"dblpkey": "conf/recsys/ZhenLY09",
 	"doi": "10.1145/1639714.1639727",
 	"ee": "http://doi.acm.org/10.1145/1639714.1639727",
 	"pages": "69-76",
 	"publisher": "ACM",
-	"stemmed": ["tagi", "co", "fi", "tag", "inform", "collabor", "filter"],
-	"tag": ["collaboration", "named"],
+	"stemmed": [
+		"tagi",
+		"co",
+		"fi",
+		"tag",
+		"inform",
+		"collabor",
+		"filter"
+	],
+	"tag": [
+		"collaboration",
+		"named"
+	],
 	"title": "TagiCoFi: tag informed collaborative filtering",
 	"type": "inproceedings",
 	"venue": "RecSys",

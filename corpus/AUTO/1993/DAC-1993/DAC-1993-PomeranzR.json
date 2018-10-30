@@ -1,13 +1,36 @@
 {
-	"author": ["Irith Pomeranz", "Sudhakar M. Reddy"],
-	"booktitle": "DAC",
+	"author": [
+		"Irith Pomeranz",
+		"Sudhakar M. Reddy"
+	],
+	"booktitle": "Proceedings of the 30th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/PomeranzR93",
 	"doi": "10.1145/157485.164583",
 	"ee": "http://doi.acm.org/10.1145/157485.164583",
 	"pages": "80-85",
 	"publisher": "ACM Press",
-	"stemmed": ["incredybl", "tg", "incr", "ement", "d", "ynamic", "test", "generat", "base", "on", "l", "earn"],
-	"tag": ["generative", "incremental", "learning", "named", "testing"],
+	"stemmed": [
+		"incredybl",
+		"tg",
+		"incr",
+		"ement",
+		"d",
+		"ynamic",
+		"test",
+		"generat",
+		"base",
+		"on",
+		"l",
+		"earn"
+	],
+	"tag": [
+		"generative",
+		"incremental",
+		"learning",
+		"named",
+		"testing"
+	],
 	"title": "INCREDYBLE-TG: INCREmental DYnamic test generation based on LEarning",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,6 +1,10 @@
 {
-	"author": ["David A. Basin", "Toby Walsh"],
-	"booktitle": "CADE",
+	"author": [
+		"David A. Basin",
+		"Toby Walsh"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/BasinW92",
 	"doi": "10.1007/3-540-55602-8_173",
@@ -10,11 +14,16 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["differ", "match"],
-	"tag": ["difference"],
+	"stemmed": [
+		"differ",
+		"match"
+	],
+	"tag": [
+		"difference"
+	],
 	"title": "Difference Matching",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

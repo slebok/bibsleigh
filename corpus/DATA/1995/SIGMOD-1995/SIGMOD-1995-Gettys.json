@@ -1,6 +1,7 @@
 {
 	"author": "William L. Gettys",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD95/P429.PDF",
 	"crossref": "conf/sigmod/95",
 	"dblpkey": "conf/sigmod/Gettys95",
@@ -8,8 +9,22 @@
 	"ee": "http://doi.acm.org/10.1145/223784.223860",
 	"pages": "429-430",
 	"publisher": "ACM Press",
-	"stemmed": ["directv", "and", "oracl", "rdb", "the", "challeng", "of", "vldb", "transact", "process"],
-	"tag": ["challenge", "transaction"],
+	"stemmed": [
+		"directv",
+		"and",
+		"oracl",
+		"rdb",
+		"the",
+		"challeng",
+		"of",
+		"vldb",
+		"transact",
+		"process"
+	],
+	"tag": [
+		"challenge",
+		"transaction"
+	],
 	"title": "DIRECTV and Oracle Rdb: The Challenges of VLDB Transaction Processing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

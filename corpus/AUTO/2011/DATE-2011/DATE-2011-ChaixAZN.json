@@ -1,13 +1,35 @@
 {
-	"author": ["Fabien Chaix", "Dimiter Avresky", "Nacer-Eddine Zergainoh", "Michael Nicolaidis"],
-	"booktitle": "DATE",
+	"author": [
+		"Fabien Chaix",
+		"Dimiter Avresky",
+		"Nacer-Eddine Zergainoh",
+		"Michael Nicolaidis"
+	],
+	"booktitle": "Proceedings of the 15th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2011",
 	"dblpkey": "conf/date/ChaixAZN11",
 	"ieeearid": 5763303,
 	"pages": "909-912",
 	"publisher": "IEEE",
-	"stemmed": ["a", "fault", "toler", "deadlock", "free", "adapt", "rout", "for", "on", "chip", "interconnect"],
-	"tag": ["adaptation", "concurrent", "fault tolerance"],
+	"stemmed": [
+		"a",
+		"fault",
+		"toler",
+		"deadlock",
+		"free",
+		"adapt",
+		"rout",
+		"for",
+		"on",
+		"chip",
+		"interconnect"
+	],
+	"tag": [
+		"adaptation",
+		"concurrent",
+		"fault tolerance"
+	],
 	"title": "A fault-tolerant deadlock-free adaptive routing for on chip interconnects",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,15 +1,36 @@
 {
-	"author": ["Hyunmin Park", "Dharma P. Agrawal"],
-	"booktitle": "HPCA",
+	"author": [
+		"Hyunmin Park",
+		"Dharma P. Agrawal"
+	],
+	"booktitle": "Proceedings of the Second International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1996",
 	"dblpkey": "conf/hpca/ParkA96",
 	"doi": "10.1109/HPCA.1996.501185",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1996.501185", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1996.501185"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1996.501185",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1996.501185"
+	],
 	"pages": "191-200",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "topolog", "independ", "generic", "methodolog", "for", "deadlock", "free", "wormhol", "rout"],
-	"tag": ["concurrent", "independence"],
+	"stemmed": [
+		"a",
+		"topolog",
+		"independ",
+		"generic",
+		"methodolog",
+		"for",
+		"deadlock",
+		"free",
+		"wormhol",
+		"rout"
+	],
+	"tag": [
+		"concurrent",
+		"independence"
+	],
 	"title": "A Topology-Independent Generic Methodology for Deadlock-Free Wormhole Routing",
 	"type": "inproceedings",
 	"venue": "HPCA",

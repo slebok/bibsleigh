@@ -1,13 +1,35 @@
 {
-	"acmid": 1251236,
-	"author": ["Christopher R. Lumb", "Jiri Schindler", "Gregory R. Ganger", "David Nagle", "Erik Riedel"],
-	"booktitle": "OSDI",
+	"acmid": "1251236",
+	"author": [
+		"Christopher R. Lumb",
+		"Jiri Schindler",
+		"Gregory R. Ganger",
+		"David Nagle",
+		"Erik Riedel"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2000",
 	"dblpkey": "conf/osdi/LumbSGNR00",
 	"pages": "87-102",
 	"publisher": "USENIX Association",
-	"stemmed": ["toward", "higher", "disk", "head", "util", "extract", "free", "bandwidth", "from", "busi", "disk", "drive"],
-	"tag": ["towards"],
+	"stemmed": [
+		"toward",
+		"higher",
+		"disk",
+		"head",
+		"util",
+		"extract",
+		"free",
+		"bandwidth",
+		"from",
+		"busi",
+		"disk",
+		"drive"
+	],
+	"tag": [
+		"towards"
+	],
 	"title": "Towards Higher Disk Head Utilization: Extracting “Free” Bandwidth from Busy Disk Drives",
 	"type": "inproceedings",
 	"venue": "OSDI",

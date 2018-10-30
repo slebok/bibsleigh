@@ -1,6 +1,12 @@
 {
-	"author": ["Tuan Cao", "Benjamin Sowell", "Marcos Antonio Vaz Salles", "Alan J. Demers", "Johannes Gehrke"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Tuan Cao",
+		"Benjamin Sowell",
+		"Marcos Antonio Vaz Salles",
+		"Alan J. Demers",
+		"Johannes Gehrke"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/CaoSSDG11",
@@ -8,8 +14,25 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989462",
 	"pages": "1233-1236",
 	"publisher": "ACM",
-	"stemmed": ["brrl", "a", "recoveri", "librari", "for", "main", "memori", "applic", "in", "the", "cloud"],
-	"tag": ["in memory", "in the cloud", "library", "named"],
+	"stemmed": [
+		"brrl",
+		"a",
+		"recoveri",
+		"librari",
+		"for",
+		"main",
+		"memori",
+		"applic",
+		"in",
+		"the",
+		"cloud"
+	],
+	"tag": [
+		"in memory",
+		"in the cloud",
+		"library",
+		"named"
+	],
 	"title": "BRRL: a recovery library for main-memory applications in the cloud",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

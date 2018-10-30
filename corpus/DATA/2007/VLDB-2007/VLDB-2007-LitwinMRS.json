@@ -1,13 +1,36 @@
 {
-	"author": ["Witold Litwin", "Riad Mokadem", "Philippe Rigaux", "Thomas J. E. Schwarz"],
-	"booktitle": "VLDB",
+	"author": [
+		"Witold Litwin",
+		"Riad Mokadem",
+		"Philippe Rigaux",
+		"Thomas J. E. Schwarz"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/LitwinMRS07",
 	"ee": "http://www.vldb.org/conf/2007/papers/research/p207-litwin.pdf",
 	"pages": "207-218",
 	"publisher": "ACM",
-	"stemmed": ["fast", "ngram", "base", "string", "search", "over", "data", "encod", "use", "algebra", "signatur"],
-	"tag": ["algebra", "performance", "string", "using"],
+	"stemmed": [
+		"fast",
+		"ngram",
+		"base",
+		"string",
+		"search",
+		"over",
+		"data",
+		"encod",
+		"use",
+		"algebra",
+		"signatur"
+	],
+	"tag": [
+		"algebra",
+		"performance",
+		"string",
+		"using"
+	],
 	"title": "Fast nGram-Based String Search Over Data Encoded Using Algebraic Signatures",
 	"type": "inproceedings",
 	"venue": "VLDB",

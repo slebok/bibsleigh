@@ -1,14 +1,32 @@
 {
-	"author": ["Georg Gottlob", "Reinhard Pichler", "Emanuel Sallinger"],
-	"booktitle": "PODS",
+	"author": [
+		"Georg Gottlob",
+		"Reinhard Pichler",
+		"Emanuel Sallinger"
+	],
+	"booktitle": "Proceedings of the 34th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2015",
 	"dblpkey": "conf/pods/GottlobPS15",
 	"doi": "10.1145/2745754.2745756",
 	"ee": "http://doi.acm.org/10.1145/2745754.2745756",
 	"pages": "65-77",
 	"publisher": "ACM",
-	"stemmed": ["function", "symbol", "in", "tupl", "generat", "depend", "express", "power", "and", "comput"],
-	"tag": ["dependence"],
+	"stemmed": [
+		"function",
+		"symbol",
+		"in",
+		"tupl",
+		"generat",
+		"depend",
+		"express",
+		"power",
+		"and",
+		"comput"
+	],
+	"tag": [
+		"dependence"
+	],
 	"title": "Function Symbols in Tuple-Generating Dependencies: Expressive Power and Computability",
 	"type": "inproceedings",
 	"venue": "PODS",

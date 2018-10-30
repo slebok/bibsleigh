@@ -1,6 +1,10 @@
 {
-	"author": ["Zhen Hua Liu", "Beda Christoph Hammerschmidt", "Doug McMahon"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Zhen Hua Liu",
+		"Beda Christoph Hammerschmidt",
+		"Doug McMahon"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/LiuHM14",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2595628",
 	"pages": "1247-1258",
 	"publisher": "ACM",
-	"stemmed": ["json", "data", "manag", "support", "schema", "less", "develop", "in", "rdbms"],
-	"tag": ["data transformation", "development"],
+	"stemmed": [
+		"json",
+		"data",
+		"manag",
+		"support",
+		"schema",
+		"less",
+		"develop",
+		"in",
+		"rdbms"
+	],
+	"tag": [
+		"data transformation",
+		"development"
+	],
 	"title": "JSON data management: supporting schema-less development in RDBMS",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

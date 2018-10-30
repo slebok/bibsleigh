@@ -1,6 +1,12 @@
 {
-	"author": ["Edmund M. Clarke", "Daniel Kröning", "Joël Ouaknine", "Ofer Strichman"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Edmund M. Clarke",
+		"Daniel Kröning",
+		"Joël Ouaknine",
+		"Ofer Strichman"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2004",
 	"dblpkey": "conf/vmcai/ClarkeKOS04",
 	"doi": "10.1007/978-3-540-24622-0_9",
@@ -10,11 +16,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["complet", "and", "complex", "of", "bound", "model", "check"],
-	"tag": ["bound", "complexity", "model checking"],
+	"stemmed": [
+		"complet",
+		"and",
+		"complex",
+		"of",
+		"bound",
+		"model",
+		"check"
+	],
+	"tag": [
+		"bound",
+		"complexity",
+		"model checking"
+	],
 	"title": "Completeness and Complexity of Bounded Model Checking",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2937,
+	"volume": "2937",
 	"year": 2004
 }

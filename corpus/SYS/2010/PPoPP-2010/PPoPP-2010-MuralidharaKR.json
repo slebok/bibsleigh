@@ -1,14 +1,32 @@
 {
-	"author": ["Sai Prashanth Muralidhara", "Mahmut T. Kandemir", "Padma Raghavan"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Sai Prashanth Muralidhara",
+		"Mahmut T. Kandemir",
+		"Padma Raghavan"
+	],
+	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/MuralidharaKR10",
 	"doi": "10.1145/1693453.1693498",
 	"ee": "http://doi.acm.org/10.1145/1693453.1693498",
 	"pages": "329-330",
 	"publisher": "ACM",
-	"stemmed": ["intra", "applic", "share", "cach", "partit", "for", "multithread", "applic"],
-	"tag": ["clustering", "parallel", "thread"],
+	"stemmed": [
+		"intra",
+		"applic",
+		"share",
+		"cach",
+		"partit",
+		"for",
+		"multithread",
+		"applic"
+	],
+	"tag": [
+		"clustering",
+		"parallel",
+		"thread"
+	],
 	"title": "Intra-application shared cache partitioning for multithreaded applications",
 	"type": "inproceedings",
 	"venue": "PPoPP",

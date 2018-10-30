@@ -1,6 +1,7 @@
 {
 	"author": "Thomas Käufl",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/Kafl88",
 	"doi": "10.1007/BFb0012857",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["reason", "about", "system", "of", "linear", "inequ"],
-	"tag": ["linear", "reasoning"],
+	"stemmed": [
+		"reason",
+		"about",
+		"system",
+		"of",
+		"linear",
+		"inequ"
+	],
+	"tag": [
+		"linear",
+		"reasoning"
+	],
 	"title": "Reasoning about Systems of Linear Inequalities",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

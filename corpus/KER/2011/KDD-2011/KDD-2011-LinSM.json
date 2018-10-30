@@ -1,14 +1,38 @@
 {
-	"author": ["Jimmy Lin", "Rion Snow", "William Morgan"],
-	"booktitle": "KDD",
+	"author": [
+		"Jimmy Lin",
+		"Rion Snow",
+		"William Morgan"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/LinSM11",
 	"doi": "10.1145/2020408.2020476",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020476",
 	"pages": "422-429",
 	"publisher": "ACM",
-	"stemmed": ["smooth", "techniqu", "for", "adapt", "onlin", "languag", "model", "topic", "track", "in", "tweet", "stream"],
-	"tag": ["adaptation", "modelling", "online", "topic", "twitter"],
+	"stemmed": [
+		"smooth",
+		"techniqu",
+		"for",
+		"adapt",
+		"onlin",
+		"languag",
+		"model",
+		"topic",
+		"track",
+		"in",
+		"tweet",
+		"stream"
+	],
+	"tag": [
+		"adaptation",
+		"modelling",
+		"online",
+		"topic",
+		"twitter"
+	],
 	"title": "Smoothing techniques for adaptive online language models: topic tracking in tweet streams",
 	"type": "inproceedings",
 	"venue": "KDD",

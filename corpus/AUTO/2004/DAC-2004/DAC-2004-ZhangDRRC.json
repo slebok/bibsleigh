@@ -1,14 +1,38 @@
 {
-	"author": ["Gang Zhang", "E. Aykut Dengi", "Ronald A. Rohrer", "Rob A. Rutenbar", "L. Richard Carley"],
-	"booktitle": "DAC",
+	"author": [
+		"Gang Zhang",
+		"E. Aykut Dengi",
+		"Ronald A. Rohrer",
+		"Rob A. Rutenbar",
+		"L. Richard Carley"
+	],
+	"booktitle": "Proceedings of the 41st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2004",
 	"dblpkey": "conf/dac/ZhangDRRC04",
 	"doi": "10.1145/996566.996612",
 	"ee": "http://doi.acm.org/10.1145/996566.996612",
 	"pages": "155-158",
 	"publisher": "ACM",
-	"stemmed": ["a", "synthesi", "flow", "toward", "fast", "parasit", "closur", "for", "radio", "frequenc", "integr", "circuit"],
-	"tag": ["performance", "synthesis", "towards"],
+	"stemmed": [
+		"a",
+		"synthesi",
+		"flow",
+		"toward",
+		"fast",
+		"parasit",
+		"closur",
+		"for",
+		"radio",
+		"frequenc",
+		"integr",
+		"circuit"
+	],
+	"tag": [
+		"performance",
+		"synthesis",
+		"towards"
+	],
 	"title": "A synthesis flow toward fast parasitic closure for radio-frequency integrated circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

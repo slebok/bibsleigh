@@ -1,6 +1,13 @@
 {
-	"author": ["Jürgen Giesl", "Frédéric Mesnard", "Albert Rubio", "René Thiemann", "Johannes Waldmann"],
-	"booktitle": "CADE",
+	"author": [
+		"Jürgen Giesl",
+		"Frédéric Mesnard",
+		"Albert Rubio",
+		"René Thiemann",
+		"Johannes Waldmann"
+	],
+	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
 	"dblpkey": "conf/cade/GieslMRTW15",
 	"doi": "10.1007/978-3-319-21401-6_6",
@@ -10,11 +17,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["termin", "competit", "termcomp"],
-	"tag": ["contest", "termination"],
+	"stemmed": [
+		"termin",
+		"competit",
+		"termcomp"
+	],
+	"tag": [
+		"contest",
+		"termination"
+	],
 	"title": "Termination Competition (termCOMP 2015)",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 9195,
+	"volume": "9195",
 	"year": 2015
 }

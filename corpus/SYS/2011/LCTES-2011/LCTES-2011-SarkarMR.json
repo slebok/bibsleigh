@@ -1,14 +1,34 @@
 {
-	"author": ["Abhik Sarkar", "Frank Müller", "Harini Ramaprasad"],
-	"booktitle": "LCTES",
+	"author": [
+		"Abhik Sarkar",
+		"Frank Müller",
+		"Harini Ramaprasad"
+	],
+	"booktitle": "Proceedings of the 12th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2011",
 	"dblpkey": "conf/lctrts/SarkarMR11",
 	"doi": "10.1145/1967677.1967696",
 	"ee": "http://doi.acm.org/10.1145/1967677.1967696",
 	"pages": "131-140",
 	"publisher": "ACM",
-	"stemmed": ["predict", "task", "migrat", "for", "lock", "cach", "in", "multi", "core", "system"],
-	"tag": ["manycore", "migration", "predict"],
+	"stemmed": [
+		"predict",
+		"task",
+		"migrat",
+		"for",
+		"lock",
+		"cach",
+		"in",
+		"multi",
+		"core",
+		"system"
+	],
+	"tag": [
+		"manycore",
+		"migration",
+		"predict"
+	],
 	"title": "Predictable task migration for locked caches in multi-core systems",
 	"type": "inproceedings",
 	"venue": "LCTES",

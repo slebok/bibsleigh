@@ -1,15 +1,33 @@
 {
-	"author": ["Enrique V. Carrera", "Ricardo Bianchini"],
-	"booktitle": "HPCA",
+	"author": [
+		"Enrique V. Carrera",
+		"Ricardo Bianchini"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2004",
 	"dblpkey": "conf/hpca/CarreraB04",
 	"doi": "10.1109/HPCA.2004.10023",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2004.10023", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2004.10023"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2004.10023",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2004.10023"
+	],
 	"pages": "130-141",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["improv", "disk", "throughput", "in", "data", "intens", "server"],
-	"tag": ["data-driven", "throughput"],
+	"stemmed": [
+		"improv",
+		"disk",
+		"throughput",
+		"in",
+		"data",
+		"intens",
+		"server"
+	],
+	"tag": [
+		"data-driven",
+		"throughput"
+	],
 	"title": "Improving Disk Throughput in Data-Intensive Servers",
 	"type": "inproceedings",
 	"venue": "HPCA",

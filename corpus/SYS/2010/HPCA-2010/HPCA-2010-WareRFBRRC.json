@@ -1,6 +1,15 @@
 {
-	"author": ["Malcolm S. Ware", "Karthick Rajamani", "Michael S. Floyd", "Bishop Brock", "Juan C. Rubio", "Freeman L. Rawson III", "John B. Carter"],
-	"booktitle": "HPCA",
+	"author": [
+		"Malcolm S. Ware",
+		"Karthick Rajamani",
+		"Michael S. Floyd",
+		"Bishop Brock",
+		"Juan C. Rubio",
+		"Freeman L. Rawson III",
+		"John B. Carter"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2010",
 	"dblpkey": "conf/hpca/WareRFBRRC10",
 	"doi": "10.1109/HPCA.2010.5416627",
@@ -8,8 +17,22 @@
 	"pages": "1-11",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["architect", "for", "power", "manag", "the", "ibm", "power", "tm", "approach"],
-	"tag": ["approach", "architecture", "power management"],
+	"stemmed": [
+		"architect",
+		"for",
+		"power",
+		"manag",
+		"the",
+		"ibm",
+		"power",
+		"tm",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"architecture",
+		"power management"
+	],
 	"title": "Architecting for power management: The IBM POWER7TM approach",
 	"type": "inproceedings",
 	"venue": "HPCA",

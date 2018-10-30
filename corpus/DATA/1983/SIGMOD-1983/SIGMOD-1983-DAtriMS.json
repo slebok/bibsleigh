@@ -1,16 +1,43 @@
 {
-	"author": ["Alessandro D'Atri", "Marina Moscarini", "Nicolas Spyratos"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Alessandro D'Atri",
+		"Marina Moscarini",
+		"Nicolas Spyratos"
+	],
+	"booktitle": "Proceedings of the 13th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD83/P173.PDF",
-	"cite": ["journals/tods/AhoSU79", "conf/pods/AtzeniP82", "conf/adbt/AusielloDM82", "conf/stoc/BeeriFMMUY81", "journals/jacm/BeeriFMY83", "journals/jacm/Fagin83", "journals/tods/FaginMU82", "journals/tods/KorthKFGU84", "journals/tods/MaierU83", "conf/vldb/Osborn79", "conf/mfcs/Rissanen78"],
+	"cite": [
+		"journals/tods/AhoSU79",
+		"conf/pods/AtzeniP82",
+		"conf/adbt/AusielloDM82",
+		"conf/stoc/BeeriFMMUY81",
+		"journals/jacm/BeeriFMY83",
+		"journals/jacm/Fagin83",
+		"journals/tods/FaginMU82",
+		"journals/tods/KorthKFGU84",
+		"journals/tods/MaierU83",
+		"conf/vldb/Osborn79",
+		"conf/mfcs/Rissanen78"
+	],
 	"crossref": "conf/sigmod/83",
 	"dblpkey": "conf/sigmod/DAtriMS83",
 	"doi": "10.1145/582192.582221",
 	"ee": "http://doi.acm.org/10.1145/582192.582221",
 	"pages": "173-177",
 	"publisher": "ACM Press",
-	"stemmed": ["answer", "queri", "in", "relat", "databas"],
-	"tag": ["database", "query", "relational"],
+	"stemmed": [
+		"answer",
+		"queri",
+		"in",
+		"relat",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"query",
+		"relational"
+	],
 	"title": "Answering Queries in Relational Databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

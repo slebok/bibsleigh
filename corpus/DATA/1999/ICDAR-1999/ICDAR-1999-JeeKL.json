@@ -1,15 +1,42 @@
 {
-	"author": ["Tae-Chang Jee", "Eun-Jin Kim", "Yillbyung Lee"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Tae-Chang Jee",
+		"Eun-Jin Kim",
+		"Yillbyung Lee"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/1999",
 	"dblpkey": "conf/icdar/JeeKL99",
 	"doi": "10.1109/ICDAR.1999.791733",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1999.791733", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1999.791733"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1999.791733",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1999.791733"
+	],
 	"pages": "95-98",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["error", "correct", "of", "korean", "courtesi", "amount", "in", "bank", "slip", "use", "rule", "inform", "and", "cross", "referenc"],
-	"tag": ["fault", "using"],
+	"stemmed": [
+		"error",
+		"correct",
+		"of",
+		"korean",
+		"courtesi",
+		"amount",
+		"in",
+		"bank",
+		"slip",
+		"use",
+		"rule",
+		"inform",
+		"and",
+		"cross",
+		"referenc"
+	],
+	"tag": [
+		"fault",
+		"using"
+	],
 	"title": "Error Correction of Korean Courtesy Amounts in Bank Slips using Rule Information and cross-referencing",
 	"type": "inproceedings",
 	"venue": "ICDAR",

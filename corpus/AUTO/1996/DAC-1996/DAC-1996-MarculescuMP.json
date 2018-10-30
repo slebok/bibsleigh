@@ -1,13 +1,32 @@
 {
-	"author": ["Diana Marculescu", "Radu Marculescu", "Massoud Pedram"],
-	"booktitle": "DAC",
+	"author": [
+		"Diana Marculescu",
+		"Radu Marculescu",
+		"Massoud Pedram"
+	],
+	"booktitle": "Proceedings of the 33rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/MarculescuMP96",
 	"doi": "10.1145/240518.240650",
 	"ee": "http://doi.acm.org/10.1145/240518.240650",
 	"pages": "696-701",
 	"publisher": "ACM Press",
-	"stemmed": ["stochast", "sequenti", "machin", "synthesi", "target", "constrain", "sequenc", "generat"],
-	"tag": ["generative", "probability", "sequence", "synthesis"],
+	"stemmed": [
+		"stochast",
+		"sequenti",
+		"machin",
+		"synthesi",
+		"target",
+		"constrain",
+		"sequenc",
+		"generat"
+	],
+	"tag": [
+		"generative",
+		"probability",
+		"sequence",
+		"synthesis"
+	],
 	"title": "Stochastic Sequential Machine Synthesis Targeting Constrained Sequence Generation",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,13 +1,36 @@
 {
-	"author": ["Nikos Karayannidis", "Aris Tsois", "Timos K. Sellis", "Roland Pieringer", "Volker Markl", "Frank Ramsak", "Robert Fenk", "Klaus Elhardt", "Rudolf Bayer"],
-	"booktitle": "VLDB",
+	"author": [
+		"Nikos Karayannidis",
+		"Aris Tsois",
+		"Timos K. Sellis",
+		"Roland Pieringer",
+		"Volker Markl",
+		"Frank Ramsak",
+		"Robert Fenk",
+		"Klaus Elhardt",
+		"Rudolf Bayer"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/KarayannidisTSPMRFEB02",
 	"ee": "http://www.vldb.org/conf/2002/S21P01.pdf",
 	"pages": "730-741",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["process", "star", "queri", "on", "hierarch", "cluster", "fact", "tabl"],
-	"tag": ["clustering", "query"],
+	"stemmed": [
+		"process",
+		"star",
+		"queri",
+		"on",
+		"hierarch",
+		"cluster",
+		"fact",
+		"tabl"
+	],
+	"tag": [
+		"clustering",
+		"query"
+	],
 	"title": "Processing Star Queries on Hierarchically-Clustered Fact Tables",
 	"type": "inproceedings",
 	"venue": "VLDB",

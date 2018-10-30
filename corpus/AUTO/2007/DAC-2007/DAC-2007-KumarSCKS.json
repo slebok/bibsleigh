@@ -1,14 +1,36 @@
 {
-	"author": ["Ram Kumar", "Akhilesh Singhania", "Andrew Castner", "Eddie Kohler", "Mani B. Srivastava"],
-	"booktitle": "DAC",
+	"author": [
+		"Ram Kumar",
+		"Akhilesh Singhania",
+		"Andrew Castner",
+		"Eddie Kohler",
+		"Mani B. Srivastava"
+	],
+	"booktitle": "Proceedings of the 44th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2007",
 	"dblpkey": "conf/dac/KumarSCKS07",
 	"doi": "10.1145/1278480.1278534",
 	"ee": "http://doi.acm.org/10.1145/1278480.1278534",
 	"pages": "218-223",
 	"publisher": "IEEE",
-	"stemmed": ["a", "system", "for", "coars", "grain", "memori", "protect", "in", "tini", "embed", "processor"],
-	"tag": ["embedded", "memory management"],
+	"stemmed": [
+		"a",
+		"system",
+		"for",
+		"coars",
+		"grain",
+		"memori",
+		"protect",
+		"in",
+		"tini",
+		"embed",
+		"processor"
+	],
+	"tag": [
+		"embedded",
+		"memory management"
+	],
 	"title": "A System For Coarse Grained Memory Protection In Tiny Embedded Processors",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,6 +1,11 @@
 {
-	"author": ["Edward A. Fox", "Gary L. Nunn", "Whay C. Lee"],
+	"author": [
+		"Edward A. Fox",
+		"Gary L. Nunn",
+		"Whay C. Lee"
+	],
 	"booktitle": "Proceedings of the 11th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P291.pdf",
 	"crossref": "conf/sigir/88",
 	"dblpkey": "conf/sigir/FoxNL88",
@@ -8,8 +13,19 @@
 	"ee": "http://doi.acm.org/10.1145/62437.62465",
 	"pages": "291-307",
 	"publisher": "ACM",
-	"stemmed": ["coeffici", "for", "combin", "concept", "class", "in", "a", "collect"],
-	"tag": ["concept"],
+	"stemmed": [
+		"coeffici",
+		"for",
+		"combin",
+		"concept",
+		"class",
+		"in",
+		"a",
+		"collect"
+	],
+	"tag": [
+		"concept"
+	],
 	"title": "Coefficients for Combining Concept Classes in a Collection",
 	"type": "inproceedings",
 	"venue": "SIGIR",

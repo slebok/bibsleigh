@@ -1,6 +1,11 @@
 {
-	"author": ["M. Kathryn Di Benigno", "George R. Cross", "Cary deBessonet"],
+	"author": [
+		"M. Kathryn Di Benigno",
+		"George R. Cross",
+		"Cary deBessonet"
+	],
 	"booktitle": "Proceedings of the Ninth International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1986/P144.pdf",
 	"crossref": "conf/sigir/86",
 	"dblpkey": "conf/sigir/BenignoCd86",
@@ -8,8 +13,18 @@
 	"ee": "http://doi.acm.org/10.1145/253168.253199",
 	"pages": "144-148",
 	"publisher": "ACM",
-	"stemmed": ["corel", "a", "conceptu", "retriev", "system"],
-	"tag": ["concept", "named", "retrieval"],
+	"stemmed": [
+		"corel",
+		"a",
+		"conceptu",
+		"retriev",
+		"system"
+	],
+	"tag": [
+		"concept",
+		"named",
+		"retrieval"
+	],
 	"title": "COREL — A Conceptual Retrieval System",
 	"type": "inproceedings",
 	"venue": "SIGIR",

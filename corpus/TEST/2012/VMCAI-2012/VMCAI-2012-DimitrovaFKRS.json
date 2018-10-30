@@ -1,6 +1,13 @@
 {
-	"author": ["Rayna Dimitrova", "Bernd Finkbeiner", "Máté Kovács", "Markus N. Rabe", "Helmut Seidl"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Rayna Dimitrova",
+		"Bernd Finkbeiner",
+		"Máté Kovács",
+		"Markus N. Rabe",
+		"Helmut Seidl"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2012",
 	"dblpkey": "conf/vmcai/DimitrovaFKRS12",
 	"doi": "10.1007/978-3-642-27940-9_12",
@@ -10,11 +17,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["model", "check", "inform", "flow", "in", "reactiv", "system"],
-	"tag": ["data flow", "model checking"],
+	"stemmed": [
+		"model",
+		"check",
+		"inform",
+		"flow",
+		"in",
+		"reactiv",
+		"system"
+	],
+	"tag": [
+		"data flow",
+		"model checking"
+	],
 	"title": "Model Checking Information Flow in Reactive Systems",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 7148,
+	"volume": "7148",
 	"year": 2012
 }

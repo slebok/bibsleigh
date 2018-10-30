@@ -1,14 +1,29 @@
 {
 	"author": "Theo Pavlidis",
-	"booktitle": "ICDAR",
+	"booktitle": "Proceedings of the Second International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/1993",
 	"dblpkey": "conf/icdar/Pavlidis93",
 	"doi": "10.1109/ICDAR.1993.395733",
 	"ee": "http://dx.doi.org/10.1109/ICDAR.1993.395733",
 	"pages": "274-277",
 	"publisher": "IEEE",
-	"stemmed": ["threshold", "select", "use", "second", "deriv", "of", "the", "gray", "scale", "imag"],
-	"tag": ["image", "using"],
+	"stemmed": [
+		"threshold",
+		"select",
+		"use",
+		"second",
+		"deriv",
+		"of",
+		"the",
+		"gray",
+		"scale",
+		"imag"
+	],
+	"tag": [
+		"image",
+		"using"
+	],
 	"title": "Threshold selection using second derivatives of the gray scale image",
 	"type": "inproceedings",
 	"venue": "ICDAR",

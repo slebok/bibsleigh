@@ -1,6 +1,10 @@
 {
-	"author": ["Ying Zhang", "Martin L. Kersten", "Stefan Manegold"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ying Zhang",
+		"Martin L. Kersten",
+		"Stefan Manegold"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/ZhangKM13",
@@ -8,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2463684",
 	"pages": "1049-1052",
 	"publisher": "ACM",
-	"stemmed": ["sci", "ql", "array", "data", "process", "insid", "an", "rdbms"],
-	"tag": ["array", "named"],
+	"stemmed": [
+		"sci",
+		"ql",
+		"array",
+		"data",
+		"process",
+		"insid",
+		"an",
+		"rdbms"
+	],
+	"tag": [
+		"array",
+		"named"
+	],
 	"title": "SciQL: array data processing inside an RDBMS",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

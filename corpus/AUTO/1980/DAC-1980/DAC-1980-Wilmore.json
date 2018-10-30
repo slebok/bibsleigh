@@ -1,14 +1,30 @@
 {
 	"author": "James A. Wilmore",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 17th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1980",
 	"dblpkey": "conf/dac/Wilmore80",
 	"doi": "10.1145/800139.804590",
 	"ee": "http://doi.acm.org/10.1145/800139.804590",
 	"pages": "585-589",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["a", "hierarch", "bit", "map", "format", "for", "the", "represent", "of", "ic", "mask", "data"],
-	"tag": ["representation"],
+	"stemmed": [
+		"a",
+		"hierarch",
+		"bit",
+		"map",
+		"format",
+		"for",
+		"the",
+		"represent",
+		"of",
+		"ic",
+		"mask",
+		"data"
+	],
+	"tag": [
+		"representation"
+	],
 	"title": "A hierarchical bit-map format for the representation of IC mask data",
 	"type": "inproceedings",
 	"venue": "DAC",

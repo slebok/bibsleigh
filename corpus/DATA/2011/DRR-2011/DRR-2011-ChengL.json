@@ -1,6 +1,10 @@
 {
-	"author": ["Wen Cheng", "Daniel P. Lopresti"],
-	"booktitle": "DRR",
+	"author": [
+		"Wen Cheng",
+		"Daniel P. Lopresti"
+	],
+	"booktitle": "Proceedings of the 18th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2011",
 	"dblpkey": "conf/drr/ChengL11",
 	"doi": "10.1117/12.873431",
@@ -8,11 +12,25 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["paramet", "calibr", "for", "synthes", "realist", "look", "variabl", "in", "offlin", "handwrit"],
-	"tag": ["parametricity", "variability"],
+	"stemmed": [
+		"paramet",
+		"calibr",
+		"for",
+		"synthes",
+		"realist",
+		"look",
+		"variabl",
+		"in",
+		"offlin",
+		"handwrit"
+	],
+	"tag": [
+		"parametricity",
+		"variability"
+	],
 	"title": "Parameter calibration for synthesizing realistic-looking variability in offline handwriting",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7874,
+	"volume": "7874",
 	"year": 2011
 }

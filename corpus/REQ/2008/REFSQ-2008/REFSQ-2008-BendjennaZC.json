@@ -1,6 +1,11 @@
 {
-	"author": ["Hakim Bendjenna", "Nacereddine Zarour", "Pierre-Jean Charrel"],
-	"booktitle": "REFSQ",
+	"author": [
+		"Hakim Bendjenna",
+		"Nacereddine Zarour",
+		"Pierre-Jean Charrel"
+	],
+	"booktitle": "Proceedings of the 14th International Working Conference on Requirements Engineering: Foundation for Software Quality",
+	"booktitleshort": "REFSQ",
 	"crossref": "conf/refsq/2008",
 	"dblpkey": "conf/refsq/BendjennaZC08",
 	"doi": "10.1007/978-3-540-69062-7_3",
@@ -9,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["enhanc", "elicit", "techniqu", "select", "process", "in", "a", "cooper", "distribut", "environ"],
-	"tag": ["distributed", "elicitation", "process"],
+	"stemmed": [
+		"enhanc",
+		"elicit",
+		"techniqu",
+		"select",
+		"process",
+		"in",
+		"a",
+		"cooper",
+		"distribut",
+		"environ"
+	],
+	"tag": [
+		"distributed",
+		"elicitation",
+		"process"
+	],
 	"title": "Enhancing Elicitation Technique Selection Process in a Cooperative Distributed Environment",
 	"type": "inproceedings",
 	"venue": "REFSQ",
-	"volume": 5025,
+	"volume": "5025",
 	"year": 2008
 }

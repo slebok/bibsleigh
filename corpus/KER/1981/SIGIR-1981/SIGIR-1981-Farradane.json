@@ -1,6 +1,7 @@
 {
 	"author": "Jason Farradane",
 	"booktitle": "Proceedings of the Fourth International Conference on Information Storage and Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1981/P001.pdf",
 	"crossref": "conf/sigir/81",
 	"dblpkey": "conf/sigir/Farradane81",
@@ -8,8 +9,20 @@
 	"ee": "http://doi.acm.org/10.1145/511754.511755",
 	"pages": "1-3",
 	"publisher": "ACM",
-	"stemmed": ["the", "basi", "for", "a", "theori", "of", "inform", "retriev"],
-	"tag": ["formal method", "information retrieval"],
+	"stemmed": [
+		"the",
+		"basi",
+		"for",
+		"a",
+		"theori",
+		"of",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"formal method",
+		"information retrieval"
+	],
 	"title": "The Basis for a Theory of Information Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

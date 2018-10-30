@@ -1,6 +1,7 @@
 {
 	"author": "W. Bruce Croft",
 	"booktitle": "Proceedings of the Ninth International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1986/P201.pdf",
 	"crossref": "conf/sigir/86",
 	"dblpkey": "conf/sigir/Croft86",
@@ -8,8 +9,19 @@
 	"ee": "http://doi.acm.org/10.1145/253168.253211",
 	"pages": "201-206",
 	"publisher": "ACM",
-	"stemmed": ["user", "specifi", "domain", "knowledg", "for", "document", "retriev"],
-	"tag": ["documentation", "retrieval"],
+	"stemmed": [
+		"user",
+		"specifi",
+		"domain",
+		"knowledg",
+		"for",
+		"document",
+		"retriev"
+	],
+	"tag": [
+		"documentation",
+		"retrieval"
+	],
 	"title": "User-Specified Domain Knowledge for Document Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,14 +1,28 @@
 {
-	"author": ["Asela Gunawardana", "Christopher Meek"],
-	"booktitle": "RecSys",
+	"author": [
+		"Asela Gunawardana",
+		"Christopher Meek"
+	],
+	"booktitle": "Proceedings of the Second Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2008",
 	"dblpkey": "conf/recsys/GunawardanaM08",
 	"doi": "10.1145/1454008.1454013",
 	"ee": "http://doi.acm.org/10.1145/1454008.1454013",
 	"pages": "19-26",
 	"publisher": "ACM",
-	"stemmed": ["tie", "boltzmann", "machin", "for", "cold", "start", "recommend"],
-	"tag": ["recommendation"],
+	"stemmed": [
+		"tie",
+		"boltzmann",
+		"machin",
+		"for",
+		"cold",
+		"start",
+		"recommend"
+	],
+	"tag": [
+		"recommendation"
+	],
 	"title": "Tied boltzmann machines for cold start recommendations",
 	"type": "inproceedings",
 	"venue": "RecSys",

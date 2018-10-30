@@ -1,6 +1,12 @@
 {
-	"author": ["Konrad Slind", "Michael J. C. Gordon", "Richard J. Boulton", "Alan Bundy"],
-	"booktitle": "CADE",
+	"author": [
+		"Konrad Slind",
+		"Michael J. C. Gordon",
+		"Richard J. Boulton",
+		"Alan Bundy"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1998",
 	"dblpkey": "conf/cade/SlindGBB98",
 	"ee": "http://link.springer.de/link/service/series/0558/bibs/1421/14210134.htm",
@@ -9,11 +15,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "an", "interfac", "between", "clam", "and", "hol"],
-	"tag": ["interface"],
+	"stemmed": [
+		"system",
+		"descript",
+		"an",
+		"interfac",
+		"between",
+		"clam",
+		"and",
+		"hol"
+	],
+	"tag": [
+		"interface"
+	],
 	"title": "System Description: An Interface Between CLAM and HOL",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1421,
+	"volume": "1421",
 	"year": 1998
 }

@@ -1,12 +1,27 @@
 {
-	"acmid": 1251249,
-	"author": ["David E. Lowell", "Subhachandra Chandra", "Peter M. Chen"],
-	"booktitle": "OSDI",
+	"acmid": "1251249",
+	"author": [
+		"David E. Lowell",
+		"Subhachandra Chandra",
+		"Peter M. Chen"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2000",
 	"dblpkey": "conf/osdi/LowellCC00",
 	"pages": "289-304",
 	"publisher": "USENIX Association",
-	"stemmed": ["explor", "failur", "transpar", "and", "the", "limit", "of", "generic", "recoveri"],
+	"stemmed": [
+		"explor",
+		"failur",
+		"transpar",
+		"and",
+		"the",
+		"limit",
+		"of",
+		"generic",
+		"recoveri"
+	],
 	"title": "Exploring Failure Transparency and the Limits of Generic Recovery",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,15 +1,39 @@
 {
-	"author": ["Lingjia Tang", "Jason Mars", "Xiao Zhang", "Robert Hagmann", "Robert Hundt", "Eric Tune"],
-	"booktitle": "HPCA",
+	"author": [
+		"Lingjia Tang",
+		"Jason Mars",
+		"Xiao Zhang",
+		"Robert Hagmann",
+		"Robert Hundt",
+		"Eric Tune"
+	],
+	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/TangMZHHT13",
 	"doi": "10.1109/HPCA.2013.6522318",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522318", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522318"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2013.6522318",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522318"
+	],
 	"pages": "188-197",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["optim", "googl", "s", "warehous", "scale", "comput", "the", "numa", "experi"],
-	"tag": ["experience", "optimisation"],
+	"stemmed": [
+		"optim",
+		"googl",
+		"s",
+		"warehous",
+		"scale",
+		"comput",
+		"the",
+		"numa",
+		"experi"
+	],
+	"tag": [
+		"experience",
+		"optimisation"
+	],
 	"title": "Optimizing Google’s warehouse scale computers: The NUMA experience",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,13 +1,26 @@
 {
-	"author": ["Stefan Manegold", "Peter A. Boncz", "Niels Nes"],
-	"booktitle": "VLDB",
+	"author": [
+		"Stefan Manegold",
+		"Peter A. Boncz",
+		"Niels Nes"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/ManegoldBKN04",
 	"ee": "http://www.vldb.org/conf/2004/RS18P3.PDF",
 	"pages": "684-695",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["cach", "conscious", "radix", "declust", "project"],
-	"tag": ["clustering"],
+	"stemmed": [
+		"cach",
+		"conscious",
+		"radix",
+		"declust",
+		"project"
+	],
+	"tag": [
+		"clustering"
+	],
 	"title": "Cache-Conscious Radix-Decluster Projections",
 	"type": "inproceedings",
 	"venue": "VLDB",

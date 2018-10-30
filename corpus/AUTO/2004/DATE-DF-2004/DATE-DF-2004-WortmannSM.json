@@ -1,6 +1,11 @@
 {
-	"author": ["Andreas Wortmann", "Sven Simon", "Matthias Müller"],
-	"booktitle": "DATE",
+	"author": [
+		"Andreas Wortmann",
+		"Sven Simon",
+		"Matthias Müller"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Designers’ Forum",
+	"booktitleshort": "DATE DF",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/WortmannSM04",
 	"doi": "10.1109/DATE.2004.1269197",
@@ -8,8 +13,22 @@
 	"pages": "46-51",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "high", "speed", "transceiv", "architectur", "implement", "as", "synthesiz", "ip", "core"],
-	"tag": ["architecture", "performance"],
+	"stemmed": [
+		"a",
+		"high",
+		"speed",
+		"transceiv",
+		"architectur",
+		"implement",
+		"as",
+		"synthesiz",
+		"ip",
+		"core"
+	],
+	"tag": [
+		"architecture",
+		"performance"
+	],
 	"title": "A High-Speed Transceiver Architecture Implementable as Synthesizable IP Core",
 	"type": "inproceedings",
 	"venue": "DATE",

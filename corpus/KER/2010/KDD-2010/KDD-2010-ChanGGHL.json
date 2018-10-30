@@ -1,14 +1,38 @@
 {
-	"author": ["David Chan", "Rong Ge", "Ori Gershony", "Tim Hesterberg", "Diane Lambert"],
-	"booktitle": "KDD",
+	"author": [
+		"David Chan",
+		"Rong Ge",
+		"Ori Gershony",
+		"Tim Hesterberg",
+		"Diane Lambert"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/ChanGGHL10",
 	"doi": "10.1145/1835804.1835809",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835809",
 	"pages": "7-16",
 	"publisher": "ACM",
-	"stemmed": ["evalu", "onlin", "ad", "campaign", "in", "a", "pipelin", "causal", "model", "at", "scale"],
-	"tag": ["modelling", "online", "pipes and filters", "scalability"],
+	"stemmed": [
+		"evalu",
+		"onlin",
+		"ad",
+		"campaign",
+		"in",
+		"a",
+		"pipelin",
+		"causal",
+		"model",
+		"at",
+		"scale"
+	],
+	"tag": [
+		"modelling",
+		"online",
+		"pipes and filters",
+		"scalability"
+	],
 	"title": "Evaluating online ad campaigns in a pipeline: causal models at scale",
 	"type": "inproceedings",
 	"venue": "KDD",

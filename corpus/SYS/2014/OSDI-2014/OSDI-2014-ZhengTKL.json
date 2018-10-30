@@ -1,13 +1,35 @@
 {
-	"author": ["Wenting Zheng", "Stephen Tu", "Eddie Kohler", "Barbara Liskov"],
-	"booktitle": "OSDI",
+	"author": [
+		"Wenting Zheng",
+		"Stephen Tu",
+		"Eddie Kohler",
+		"Barbara Liskov"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2014",
 	"dblpkey": "conf/osdi/ZhengTKL14",
 	"ee": "https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zheng_wenting",
 	"pages": "465-477",
 	"publisher": "USENIX Association",
-	"stemmed": ["fast", "databas", "with", "fast", "durabl", "and", "recoveri", "through", "multicor", "parallel"],
-	"tag": ["database", "manycore", "parallel", "performance"],
+	"stemmed": [
+		"fast",
+		"databas",
+		"with",
+		"fast",
+		"durabl",
+		"and",
+		"recoveri",
+		"through",
+		"multicor",
+		"parallel"
+	],
+	"tag": [
+		"database",
+		"manycore",
+		"parallel",
+		"performance"
+	],
 	"title": "Fast Databases with Fast Durability and Recovery Through Multicore Parallelism",
 	"type": "inproceedings",
 	"venue": "OSDI",

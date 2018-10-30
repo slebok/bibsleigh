@@ -1,13 +1,34 @@
 {
-	"author": ["Carlo Brandolese", "William Fornaciari", "Fabio Salice", "Donatella Sciuto"],
-	"booktitle": "DAC",
+	"author": [
+		"Carlo Brandolese",
+		"William Fornaciari",
+		"Fabio Salice",
+		"Donatella Sciuto"
+	],
+	"booktitle": "Proceedings of the 37th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/BrandoleseFSS00",
 	"doi": "10.1145/337292.337437",
 	"ee": "http://doi.acm.org/10.1145/337292.337437",
 	"pages": "346-351",
 	"publisher": "ACM",
-	"stemmed": ["an", "instruct", "level", "function", "base", "energi", "estim", "model", "for", "bit", "microprocessor"],
-	"tag": ["energy", "estimation"],
+	"stemmed": [
+		"an",
+		"instruct",
+		"level",
+		"function",
+		"base",
+		"energi",
+		"estim",
+		"model",
+		"for",
+		"bit",
+		"microprocessor"
+	],
+	"tag": [
+		"energy",
+		"estimation"
+	],
 	"title": "An instruction-level functionally-based energy estimation model for 32-bits microprocessors",
 	"type": "inproceedings",
 	"venue": "DAC",

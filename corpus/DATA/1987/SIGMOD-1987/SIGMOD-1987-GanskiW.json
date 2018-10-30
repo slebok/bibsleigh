@@ -1,15 +1,40 @@
 {
-	"author": ["Richard A. Ganski", "Harry K. T. Wong"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Richard A. Ganski",
+		"Harry K. T. Wong"
+	],
+	"booktitle": "Proceedings of the 17th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD87/P023.PDF",
-	"cite": ["journals/cacm/AstrahanC75", "journals/tods/AstrahanBCEGGKLMMPTWW76", "journals/tods/Codd79", "...", "journals/tods/Kim82", "...", "conf/sigmod/SelingerACLP79", "journals/tods/StonebrakerWKH76"],
+	"cite": [
+		"journals/cacm/AstrahanC75",
+		"journals/tods/AstrahanBCEGGKLMMPTWW76",
+		"journals/tods/Codd79",
+		"...",
+		"journals/tods/Kim82",
+		"...",
+		"conf/sigmod/SelingerACLP79",
+		"journals/tods/StonebrakerWKH76"
+	],
 	"crossref": "conf/sigmod/87",
 	"dblpkey": "conf/sigmod/GanskiW87",
 	"doi": "10.1145/38713.38723",
 	"ee": "http://doi.acm.org/10.1145/38713.38723",
 	"pages": "23-33",
-	"stemmed": ["optim", "of", "nest", "sql", "queri", "revisit"],
-	"tag": ["optimisation", "query", "revisited", "sql"],
+	"stemmed": [
+		"optim",
+		"of",
+		"nest",
+		"sql",
+		"queri",
+		"revisit"
+	],
+	"tag": [
+		"optimisation",
+		"query",
+		"revisited",
+		"sql"
+	],
 	"title": "Optimization of Nested SQL Queries Revisited",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

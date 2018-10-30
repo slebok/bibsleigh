@@ -1,6 +1,9 @@
 {
-	"author": ["Yinan Li", "Jignesh M. Patel"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yinan Li",
+		"Jignesh M. Patel"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/LiP13",
@@ -8,8 +11,23 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465322",
 	"pages": "289-300",
 	"publisher": "ACM",
-	"stemmed": ["bit", "weav", "fast", "scan", "for", "main", "memori", "data", "process"],
-	"tag": ["in memory", "memory management", "named", "performance"],
+	"stemmed": [
+		"bit",
+		"weav",
+		"fast",
+		"scan",
+		"for",
+		"main",
+		"memori",
+		"data",
+		"process"
+	],
+	"tag": [
+		"in memory",
+		"memory management",
+		"named",
+		"performance"
+	],
 	"title": "BitWeaving: fast scans for main memory data processing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

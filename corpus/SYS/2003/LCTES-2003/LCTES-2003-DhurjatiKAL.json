@@ -1,14 +1,34 @@
 {
-	"author": ["Dinakar Dhurjati", "Sumant Kowshik", "Vikram S. Adve", "Chris Lattner"],
-	"booktitle": "LCTES",
+	"author": [
+		"Dinakar Dhurjati",
+		"Sumant Kowshik",
+		"Vikram S. Adve",
+		"Chris Lattner"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2003",
 	"dblpkey": "conf/lctrts/DhurjatiKAL03",
 	"doi": "10.1145/780732.780743",
 	"ee": "http://doi.acm.org/10.1145/780732.780743",
 	"pages": "69-80",
 	"publisher": "ACM",
-	"stemmed": ["memori", "safeti", "without", "runtim", "check", "or", "garbag", "collect"],
-	"tag": ["garbage collection", "memory management", "runtime", "safety"],
+	"stemmed": [
+		"memori",
+		"safeti",
+		"without",
+		"runtim",
+		"check",
+		"or",
+		"garbag",
+		"collect"
+	],
+	"tag": [
+		"garbage collection",
+		"memory management",
+		"runtime",
+		"safety"
+	],
 	"title": "Memory safety without runtime checks or garbage collection",
 	"type": "inproceedings",
 	"venue": "LCTES",

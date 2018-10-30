@@ -1,14 +1,36 @@
 {
-	"author": ["Po-Chun Chang", "I-Wei Wu", "Jean Jyh-Jiun Shann", "Chung-Ping Chung"],
-	"booktitle": "DAC",
+	"author": [
+		"Po-Chun Chang",
+		"I-Wei Wu",
+		"Jean Jyh-Jiun Shann",
+		"Chung-Ping Chung"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/ChangWSC08",
 	"doi": "10.1145/1391469.1391667",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391667",
 	"pages": "776-779",
 	"publisher": "ACM",
-	"stemmed": ["etahm", "an", "energi", "awar", "task", "alloc", "algorithm", "for", "heterogen", "multiprocessor"],
-	"tag": ["algorithm", "energy", "multi", "named"],
+	"stemmed": [
+		"etahm",
+		"an",
+		"energi",
+		"awar",
+		"task",
+		"alloc",
+		"algorithm",
+		"for",
+		"heterogen",
+		"multiprocessor"
+	],
+	"tag": [
+		"algorithm",
+		"energy",
+		"multi",
+		"named"
+	],
 	"title": "ETAHM: an energy-aware task allocation algorithm for heterogeneous multiprocessor",
 	"type": "inproceedings",
 	"venue": "DAC",

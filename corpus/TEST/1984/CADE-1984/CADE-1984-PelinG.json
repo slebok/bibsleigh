@@ -1,6 +1,10 @@
 {
-	"author": ["Alex Pelin", "Jean H. Gallier"],
-	"booktitle": "CADE",
+	"author": [
+		"Alex Pelin",
+		"Jean H. Gallier"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1984",
 	"dblpkey": "conf/cade/PelinG84",
 	"doi": "10.1007/BFb0047138",
@@ -10,11 +14,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["solv", "word", "problem", "in", "free", "algebra", "use", "complex", "function"],
-	"tag": ["algebra", "complexity", "problem", "using", "word"],
+	"stemmed": [
+		"solv",
+		"word",
+		"problem",
+		"in",
+		"free",
+		"algebra",
+		"use",
+		"complex",
+		"function"
+	],
+	"tag": [
+		"algebra",
+		"complexity",
+		"problem",
+		"using",
+		"word"
+	],
 	"title": "Solving Word Problems in Free Algebras Using Complexity Functions",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 170,
+	"volume": "170",
 	"year": 1984
 }

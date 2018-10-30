@@ -1,14 +1,29 @@
 {
 	"author": "Baltasar Trancón y Widemann",
-	"booktitle": "ISMM",
+	"booktitle": "Proceedings of the Seventh International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2008",
 	"dblpkey": "conf/iwmm/Trancon-y-Widemann08",
 	"doi": "10.1145/1375634.1375645",
 	"ee": "http://doi.acm.org/10.1145/1375634.1375645",
 	"pages": "71-80",
 	"publisher": "ACM",
-	"stemmed": ["a", "refer", "count", "garbag", "collect", "algorithmfor", "cyclic", "function", "program"],
-	"tag": ["functional", "garbage collection", "programming"],
+	"stemmed": [
+		"a",
+		"refer",
+		"count",
+		"garbag",
+		"collect",
+		"algorithmfor",
+		"cyclic",
+		"function",
+		"program"
+	],
+	"tag": [
+		"functional",
+		"garbage collection",
+		"programming"
+	],
 	"title": "A reference-counting garbage collection algorithmfor cyclical functional programming",
 	"type": "inproceedings",
 	"venue": "ISMM",

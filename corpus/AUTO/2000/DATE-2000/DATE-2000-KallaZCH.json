@@ -1,6 +1,12 @@
 {
-	"author": ["Priyank Kalla", "Zhihong Zeng", "Maciej J. Ciesielski", "ChiLai Huang"],
-	"booktitle": "DATE",
+	"author": [
+		"Priyank Kalla",
+		"Zhihong Zeng",
+		"Maciej J. Ciesielski",
+		"ChiLai Huang"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/KallaZCH00",
 	"doi": "10.1109/DATE.2000.840044",
@@ -8,8 +14,25 @@
 	"pages": "232-236",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "bdd", "base", "satisfi", "infrastructur", "use", "the", "unat", "recurs", "paradigm"],
-	"tag": ["framework", "paradigm", "recursion", "satisfiability", "using"],
+	"stemmed": [
+		"a",
+		"bdd",
+		"base",
+		"satisfi",
+		"infrastructur",
+		"use",
+		"the",
+		"unat",
+		"recurs",
+		"paradigm"
+	],
+	"tag": [
+		"framework",
+		"paradigm",
+		"recursion",
+		"satisfiability",
+		"using"
+	],
 	"title": "A BDD-Based Satisfiability Infrastructure Using the Unate Recursive Paradigm",
 	"type": "inproceedings",
 	"venue": "DATE",

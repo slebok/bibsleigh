@@ -1,16 +1,54 @@
 {
-	"author": ["Z. Meral Özsoyoglu", "Li-Yan Yuan"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS85/P251.PDF", "journals/anthology/dvd1:text/1-3/PODS85/P251.PDF"],
-	"cite": ["conf/pods/AbiteboulB84", "conf/vldb/BeeriBG78", "conf/sigmod/BeeriFH77", "journals/jacm/BeeriFMY83", "conf/pods/BeeriK83", "conf/vldb/BeeriK84", "journals/tods/Fagin77", "conf/pods/FischerG84", "conf/pods/JaeschkeS82", "...", "journals/tods/Lien81", "journals/jacm/Lien82", "books/cs/Maier83", "conf/vldb/Makinouchi77", "conf/sigmod/Sciore81", "...", "...", "...", "...", "books/cs/Ullman82", "journals/tods/ZanioloM81"],
+	"author": [
+		"Z. Meral Özsoyoglu",
+		"Li-Yan Yuan"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS85/P251.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS85/P251.PDF"
+	],
+	"cite": [
+		"conf/pods/AbiteboulB84",
+		"conf/vldb/BeeriBG78",
+		"conf/sigmod/BeeriFH77",
+		"journals/jacm/BeeriFMY83",
+		"conf/pods/BeeriK83",
+		"conf/vldb/BeeriK84",
+		"journals/tods/Fagin77",
+		"conf/pods/FischerG84",
+		"conf/pods/JaeschkeS82",
+		"...",
+		"journals/tods/Lien81",
+		"journals/jacm/Lien82",
+		"books/cs/Maier83",
+		"conf/vldb/Makinouchi77",
+		"conf/sigmod/Sciore81",
+		"...",
+		"...",
+		"...",
+		"...",
+		"books/cs/Ullman82",
+		"journals/tods/ZanioloM81"
+	],
 	"crossref": "conf/pods/85",
 	"dblpkey": "conf/pods/OzsoyogluY85",
 	"doi": "10.1145/325405.325451",
 	"ee": "http://doi.acm.org/10.1145/325405.325451",
 	"pages": "251-260",
 	"publisher": "ACM",
-	"stemmed": ["a", "normal", "form", "for", "nest", "relat"],
-	"tag": ["normalisation"],
+	"stemmed": [
+		"a",
+		"normal",
+		"form",
+		"for",
+		"nest",
+		"relat"
+	],
+	"tag": [
+		"normalisation"
+	],
 	"title": "A Normal Form for Nested Relations",
 	"type": "inproceedings",
 	"venue": "PODS",

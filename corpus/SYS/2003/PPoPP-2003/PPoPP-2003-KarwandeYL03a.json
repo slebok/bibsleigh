@@ -1,14 +1,37 @@
 {
-	"author": ["Amit Karwande", "Xin Yuan", "David K. Lowenthal"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Amit Karwande",
+		"Xin Yuan",
+		"David K. Lowenthal"
+	],
+	"booktitle": "Proceedings of the Ninth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2003",
 	"dblpkey": "conf/ppopp/KarwandeYL03a",
 	"doi": "10.1145/781498.781514",
 	"ee": "http://doi.acm.org/10.1145/781498.781514",
 	"pages": "95-106",
 	"publisher": "ACM",
-	"stemmed": ["cc", "mpi", "a", "compil", "communic", "capabl", "mpi", "prototyp", "for", "ethernet", "switch", "cluster"],
-	"tag": ["clustering", "communication", "named", "prototype"],
+	"stemmed": [
+		"cc",
+		"mpi",
+		"a",
+		"compil",
+		"communic",
+		"capabl",
+		"mpi",
+		"prototyp",
+		"for",
+		"ethernet",
+		"switch",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"communication",
+		"named",
+		"prototype"
+	],
 	"title": "CC-MPI: a compiled communication capable MPI prototype for ethernet switched clusters",
 	"type": "inproceedings",
 	"venue": "PPoPP",

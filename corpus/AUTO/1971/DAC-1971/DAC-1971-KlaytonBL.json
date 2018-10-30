@@ -1,14 +1,32 @@
 {
-	"author": ["Alan R. Klayton", "William A. Barrett", "A. I. Larky"],
-	"booktitle": "DAC",
+	"author": [
+		"Alan R. Klayton",
+		"William A. Barrett",
+		"A. I. Larky"
+	],
+	"booktitle": "Proceedings of the Eighth Design Automation Workshop",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1971",
 	"dblpkey": "conf/dac/KlaytonBL71",
 	"doi": "10.1145/800158.805082",
 	"ee": "http://doi.acm.org/10.1145/800158.805082",
 	"pages": "269-277",
 	"publisher": "ACM",
-	"stemmed": ["fault", "detect", "and", "diagnosi", "of", "memori", "system", "fault"],
-	"tag": ["detection", "fault", "memory management"],
+	"stemmed": [
+		"fault",
+		"detect",
+		"and",
+		"diagnosi",
+		"of",
+		"memori",
+		"system",
+		"fault"
+	],
+	"tag": [
+		"detection",
+		"fault",
+		"memory management"
+	],
 	"title": "Fault detection and diagnosis of memory system faults",
 	"type": "inproceedings",
 	"venue": "DAC",

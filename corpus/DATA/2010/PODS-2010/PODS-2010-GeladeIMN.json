@@ -1,14 +1,34 @@
 {
-	"author": ["Wouter Gelade", "Tomasz Idziaszek", "Wim Martens", "Frank Neven"],
-	"booktitle": "PODS",
+	"author": [
+		"Wouter Gelade",
+		"Tomasz Idziaszek",
+		"Wim Martens",
+		"Frank Neven"
+	],
+	"booktitle": "Proceedings of the 29th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2010",
 	"dblpkey": "conf/pods/GeladeIMN10",
 	"doi": "10.1145/1807085.1807118",
 	"ee": "http://doi.acm.org/10.1145/1807085.1807118",
 	"pages": "251-260",
 	"publisher": "ACM",
-	"stemmed": ["simplifi", "xml", "schema", "singl", "type", "approxim", "of", "regular", "tree", "languag"],
-	"tag": ["approximate", "xml"],
+	"stemmed": [
+		"simplifi",
+		"xml",
+		"schema",
+		"singl",
+		"type",
+		"approxim",
+		"of",
+		"regular",
+		"tree",
+		"languag"
+	],
+	"tag": [
+		"approximate",
+		"xml"
+	],
 	"title": "Simplifying XML schema: single-type approximations of regular tree languages",
 	"type": "inproceedings",
 	"venue": "PODS",

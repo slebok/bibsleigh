@@ -1,14 +1,36 @@
 {
-	"author": ["Mohammed El-Shambakey", "Binoy Ravindran"],
-	"booktitle": "DAC",
+	"author": [
+		"Mohammed El-Shambakey",
+		"Binoy Ravindran"
+	],
+	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/El-ShambakeyR12",
 	"doi": "10.1145/2228360.2228437",
 	"ee": "http://doi.acm.org/10.1145/2228360.2228437",
 	"pages": "437-446",
 	"publisher": "ACM",
-	"stemmed": ["stm", "concurr", "control", "for", "embed", "real", "time", "softwar", "with", "tighter", "time", "bound"],
-	"tag": ["bound", "concurrent", "embedded", "realtime"],
+	"stemmed": [
+		"stm",
+		"concurr",
+		"control",
+		"for",
+		"embed",
+		"real",
+		"time",
+		"softwar",
+		"with",
+		"tighter",
+		"time",
+		"bound"
+	],
+	"tag": [
+		"bound",
+		"concurrent",
+		"embedded",
+		"realtime"
+	],
 	"title": "STM concurrency control for embedded real-time software with tighter time bounds",
 	"type": "inproceedings",
 	"venue": "DAC",

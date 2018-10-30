@@ -1,6 +1,9 @@
 {
-	"author": ["Philip A. Bernstein", "Sergey Melnik"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Philip A. Bernstein",
+		"Sergey Melnik"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/BernsteinM07",
@@ -8,8 +11,16 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247482",
 	"pages": "1-12",
 	"publisher": "ACM",
-	"stemmed": ["model", "manag", "manipul", "richer", "map"],
-	"tag": ["model management"],
+	"stemmed": [
+		"model",
+		"manag",
+		"manipul",
+		"richer",
+		"map"
+	],
+	"tag": [
+		"model management"
+	],
 	"title": "Model management 2.0: manipulating richer mappings",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

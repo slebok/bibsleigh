@@ -1,6 +1,11 @@
 {
-	"author": ["Guy Avni", "Orna Kupferman", "Tami Tamir"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Guy Avni",
+		"Orna Kupferman",
+		"Tami Tamir"
+	],
+	"booktitle": "Proceedings of the Seventh International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2014",
 	"dblpkey": "conf/cade/AvniKT14",
 	"doi": "10.1007/978-3-319-08587-6_1",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["from", "reachabl", "to", "tempor", "specif", "in", "cost", "share", "game"],
-	"tag": ["game studies", "reachability", "specification"],
+	"stemmed": [
+		"from",
+		"reachabl",
+		"to",
+		"tempor",
+		"specif",
+		"in",
+		"cost",
+		"share",
+		"game"
+	],
+	"tag": [
+		"game studies",
+		"reachability",
+		"specification"
+	],
 	"title": "From Reachability to Temporal Specifications in Cost-Sharing Games",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 8562,
+	"volume": "8562",
 	"year": 2014
 }

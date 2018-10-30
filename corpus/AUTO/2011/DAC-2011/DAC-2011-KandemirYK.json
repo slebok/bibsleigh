@@ -1,14 +1,36 @@
 {
-	"author": ["Mahmut T. Kandemir", "Taylan Yemliha", "Emre Kultursay"],
-	"booktitle": "DAC",
+	"author": [
+		"Mahmut T. Kandemir",
+		"Taylan Yemliha",
+		"Emre Kultursay"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/KandemirYK11",
 	"doi": "10.1145/2024724.2024936",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024936",
 	"pages": "954-959",
 	"publisher": "ACM",
-	"stemmed": ["a", "helper", "thread", "base", "dynam", "cach", "partit", "scheme", "for", "multithread", "applic"],
-	"tag": ["clustering", "concurrent", "parallel", "thread"],
+	"stemmed": [
+		"a",
+		"helper",
+		"thread",
+		"base",
+		"dynam",
+		"cach",
+		"partit",
+		"scheme",
+		"for",
+		"multithread",
+		"applic"
+	],
+	"tag": [
+		"clustering",
+		"concurrent",
+		"parallel",
+		"thread"
+	],
 	"title": "A helper thread based dynamic cache partitioning scheme for multithreaded applications",
 	"type": "inproceedings",
 	"venue": "DAC",

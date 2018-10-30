@@ -1,14 +1,37 @@
 {
-	"author": ["Kenji Yamanishi", "Jun-ichi Takeuchi"],
-	"booktitle": "KDD",
+	"author": [
+		"Kenji Yamanishi",
+		"Jun-ichi Takeuchi"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/YamanishiT02",
 	"doi": "10.1145/775047.775148",
 	"ee": "http://doi.acm.org/10.1145/775047.775148",
 	"pages": "676-681",
 	"publisher": "ACM",
-	"stemmed": ["a", "unifi", "framework", "for", "detect", "outlier", "and", "chang", "point", "from", "non", "stationari", "time", "seri", "data"],
-	"tag": ["detection", "framework"],
+	"stemmed": [
+		"a",
+		"unifi",
+		"framework",
+		"for",
+		"detect",
+		"outlier",
+		"and",
+		"chang",
+		"point",
+		"from",
+		"non",
+		"stationari",
+		"time",
+		"seri",
+		"data"
+	],
+	"tag": [
+		"detection",
+		"framework"
+	],
 	"title": "A unifying framework for detecting outliers and change points from non-stationary time series data",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,14 +1,37 @@
 {
-	"author": ["Leipo Yan", "Thambipillai Srikanthan", "Niu Gang"],
-	"booktitle": "LCTES",
+	"author": [
+		"Leipo Yan",
+		"Thambipillai Srikanthan",
+		"Niu Gang"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2006",
 	"dblpkey": "conf/lctrts/YanSG06",
 	"doi": "10.1145/1134650.1134677",
 	"ee": "http://doi.acm.org/10.1145/1134650.1134677",
 	"pages": "182-188",
 	"publisher": "ACM",
-	"stemmed": ["area", "and", "delay", "estim", "for", "fpga", "implement", "of", "coars", "grain", "reconfigur", "architectur"],
-	"tag": ["architecture", "configuration management", "estimation", "implementation"],
+	"stemmed": [
+		"area",
+		"and",
+		"delay",
+		"estim",
+		"for",
+		"fpga",
+		"implement",
+		"of",
+		"coars",
+		"grain",
+		"reconfigur",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"configuration management",
+		"estimation",
+		"implementation"
+	],
 	"title": "Area and delay estimation for FPGA implementation of coarse-grained reconfigurable architectures",
 	"type": "inproceedings",
 	"venue": "LCTES",

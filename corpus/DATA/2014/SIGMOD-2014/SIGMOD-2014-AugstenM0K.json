@@ -1,6 +1,11 @@
 {
-	"author": ["Nikolaus Augsten", "Armando Miraglia", "Thomas Neumann", "Alfons Kemper"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Nikolaus Augsten",
+		"Armando Miraglia",
+		"Thomas Neumann",
+		"Alfons Kemper"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/AugstenM0K14",
@@ -8,8 +13,23 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2610530",
 	"pages": "1495-1506",
 	"publisher": "ACM",
-	"stemmed": ["on", "the", "fli", "token", "similar", "join", "in", "relat", "databas"],
-	"tag": ["database", "on the fly", "relational", "similarity"],
+	"stemmed": [
+		"on",
+		"the",
+		"fli",
+		"token",
+		"similar",
+		"join",
+		"in",
+		"relat",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"on the fly",
+		"relational",
+		"similarity"
+	],
 	"title": "On-the-fly token similarity joins in relational databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,33 @@
 {
-	"author": ["David E. Lowell", "Yasushi Saito", "Eileen J. Samberg"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"David E. Lowell",
+		"Yasushi Saito",
+		"Eileen J. Samberg"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2004",
 	"dblpkey": "conf/asplos/LowellSS04",
 	"doi": "10.1145/1024393.1024419",
 	"ee": "http://doi.acm.org/10.1145/1024393.1024419",
 	"pages": "211-223",
 	"publisher": "ACM",
-	"stemmed": ["devirtualiz", "virtual", "machin", "enabl", "general", "singl", "node", "onlin", "mainten"],
-	"tag": ["maintenance", "online", "virtual machine"],
+	"stemmed": [
+		"devirtualiz",
+		"virtual",
+		"machin",
+		"enabl",
+		"general",
+		"singl",
+		"node",
+		"onlin",
+		"mainten"
+	],
+	"tag": [
+		"maintenance",
+		"online",
+		"virtual machine"
+	],
 	"title": "Devirtualizable virtual machines enabling general, single-node, online maintenance",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,6 +1,10 @@
 {
-	"author": ["Predrag Janicic", "Pedro Quaresma"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Predrag Janicic",
+		"Pedro Quaresma"
+	],
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/JanicicQ06",
 	"doi": "10.1007/11814771_13",
@@ -10,10 +14,17 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "gcl", "cprover", "geo", "thms"],
+	"stemmed": [
+		"system",
+		"descript",
+		"gcl",
+		"cprover",
+		"geo",
+		"thms"
+	],
 	"title": "System Description: GCLCprover + GeoThms",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

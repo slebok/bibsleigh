@@ -1,14 +1,33 @@
 {
-	"author": ["Zheng Wang", "Michael F. P. O'Boyle"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Zheng Wang",
+		"Michael F. P. O'Boyle"
+	],
+	"booktitle": "Proceedings of the 14th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2009",
 	"dblpkey": "conf/ppopp/WangO09",
 	"doi": "10.1145/1504176.1504189",
 	"ee": "http://doi.acm.org/10.1145/1504176.1504189",
 	"pages": "75-84",
 	"publisher": "ACM",
-	"stemmed": ["map", "parallel", "to", "multi", "core", "a", "machin", "learn", "base", "approach"],
-	"tag": ["approach", "machine learning", "parallel"],
+	"stemmed": [
+		"map",
+		"parallel",
+		"to",
+		"multi",
+		"core",
+		"a",
+		"machin",
+		"learn",
+		"base",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"machine learning",
+		"parallel"
+	],
 	"title": "Mapping parallelism to multi-cores: a machine learning based approach",
 	"type": "inproceedings",
 	"venue": "PPoPP",

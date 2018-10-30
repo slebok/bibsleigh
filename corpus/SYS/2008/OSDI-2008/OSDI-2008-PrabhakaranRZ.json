@@ -1,13 +1,23 @@
 {
-	"author": ["Vijayan Prabhakaran", "Thomas L. Rodeheffer", "Lidong Zhou"],
-	"booktitle": "OSDI",
+	"author": [
+		"Vijayan Prabhakaran",
+		"Thomas L. Rodeheffer",
+		"Lidong Zhou"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/PrabhakaranRZ08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/prabhakaran/prabhakaran.pdf",
 	"pages": "147-160",
 	"publisher": "USENIX Association",
-	"stemmed": ["transact", "flash"],
-	"tag": ["transaction"],
+	"stemmed": [
+		"transact",
+		"flash"
+	],
+	"tag": [
+		"transaction"
+	],
 	"title": "Transactional Flash",
 	"type": "inproceedings",
 	"venue": "OSDI",

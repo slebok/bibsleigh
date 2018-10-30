@@ -1,6 +1,11 @@
 {
-	"author": ["Richard Anderson", "Gopalan Arun", "Richard Frank"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Richard Anderson",
+		"Gopalan Arun",
+		"Richard Frank"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD98/P526.PDF",
 	"crossref": "conf/sigmod/98",
 	"dblpkey": "conf/sigmod/AndersonAF98",
@@ -8,7 +13,14 @@
 	"ee": "http://doi.acm.org/10.1145/276304.276365",
 	"pages": "526-527",
 	"publisher": "ACM Press",
-	"stemmed": ["oracl", "rdb", "s", "record", "cach", "model"],
+	"stemmed": [
+		"oracl",
+		"rdb",
+		"s",
+		"record",
+		"cach",
+		"model"
+	],
 	"title": "Oracle Rdb’s Record Caching Model",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

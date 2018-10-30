@@ -1,6 +1,11 @@
 {
-	"author": ["Peter Bailis", "Ali Ghodsi", "Joseph M. Hellerstein", "Ion Stoica"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Peter Bailis",
+		"Ali Ghodsi",
+		"Joseph M. Hellerstein",
+		"Ion Stoica"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/BailisGHS13",
@@ -8,8 +13,15 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465279",
 	"pages": "761-772",
 	"publisher": "ACM",
-	"stemmed": ["bolt", "on", "causal", "consist"],
-	"tag": ["consistency"],
+	"stemmed": [
+		"bolt",
+		"on",
+		"causal",
+		"consist"
+	],
+	"tag": [
+		"consistency"
+	],
 	"title": "Bolt-on causal consistency",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

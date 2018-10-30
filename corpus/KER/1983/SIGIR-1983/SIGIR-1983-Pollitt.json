@@ -1,6 +1,7 @@
 {
 	"author": "A. Steven Pollitt",
 	"booktitle": "Proceedings of the Sixth Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1983/P136.pdf",
 	"crossref": "conf/sigir/83",
 	"dblpkey": "conf/sigir/Pollitt83",
@@ -8,8 +9,24 @@
 	"ee": "http://doi.acm.org/10.1145/511793.511814",
 	"pages": "136-145",
 	"publisher": "ACM",
-	"stemmed": ["end", "user", "touch", "search", "for", "cancer", "therapi", "literatur", "a", "rule", "base", "approach"],
-	"tag": ["approach", "rule-based"],
+	"stemmed": [
+		"end",
+		"user",
+		"touch",
+		"search",
+		"for",
+		"cancer",
+		"therapi",
+		"literatur",
+		"a",
+		"rule",
+		"base",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"rule-based"
+	],
 	"title": "End User Touch Searching for Cancer Therapy Literature: A Rule-Based Approach",
 	"type": "inproceedings",
 	"venue": "SIGIR",

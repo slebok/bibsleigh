@@ -1,13 +1,31 @@
 {
-	"acmid": 1251231,
-	"author": ["Fabrice Mérillon", "Laurent Réveillère", "Charles Consel", "Renaud Marlet", "Gilles Muller"],
-	"booktitle": "OSDI",
+	"acmid": "1251231",
+	"author": [
+		"Fabrice Mérillon",
+		"Laurent Réveillère",
+		"Charles Consel",
+		"Renaud Marlet",
+		"Gilles Muller"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2000",
 	"dblpkey": "conf/osdi/MerillonRCMM00",
 	"pages": "17-30",
 	"publisher": "USENIX Association",
-	"stemmed": ["devil", "an", "idl", "for", "hardwar", "program"],
-	"tag": ["hardware", "named", "programming"],
+	"stemmed": [
+		"devil",
+		"an",
+		"idl",
+		"for",
+		"hardwar",
+		"program"
+	],
+	"tag": [
+		"hardware",
+		"named",
+		"programming"
+	],
 	"title": "Devil: An IDL for Hardware Programming",
 	"type": "inproceedings",
 	"venue": "OSDI",

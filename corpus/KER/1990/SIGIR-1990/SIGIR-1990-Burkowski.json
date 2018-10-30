@@ -1,6 +1,7 @@
 {
 	"author": "Forbes J. Burkowski",
 	"booktitle": "Proceedings of the 13th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1990/P211.pdf",
 	"crossref": "conf/sigir/90",
 	"dblpkey": "conf/sigir/Burkowski90",
@@ -8,8 +9,27 @@
 	"ee": "http://doi.acm.org/10.1145/96749.98226",
 	"pages": "211-226",
 	"publisher": "ACM",
-	"stemmed": ["surrog", "subset", "a", "free", "space", "manag", "strategi", "for", "the", "index", "of", "a", "text", "retriev", "system"],
-	"tag": ["retrieval", "set"],
+	"stemmed": [
+		"surrog",
+		"subset",
+		"a",
+		"free",
+		"space",
+		"manag",
+		"strategi",
+		"for",
+		"the",
+		"index",
+		"of",
+		"a",
+		"text",
+		"retriev",
+		"system"
+	],
+	"tag": [
+		"retrieval",
+		"set"
+	],
 	"title": "Surrogate Subsets: A Free Space Management Strategy for the Index of a Text Retrieval System",
 	"type": "inproceedings",
 	"venue": "SIGIR",

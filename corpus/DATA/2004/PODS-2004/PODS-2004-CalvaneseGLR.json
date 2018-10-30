@@ -1,14 +1,36 @@
 {
-	"author": ["Diego Calvanese", "Giuseppe De Giacomo", "Maurizio Lenzerini", "Riccardo Rosati"],
-	"booktitle": "PODS",
+	"author": [
+		"Diego Calvanese",
+		"Giuseppe De Giacomo",
+		"Maurizio Lenzerini",
+		"Riccardo Rosati"
+	],
+	"booktitle": "Proceedings of the 23rd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2004",
 	"dblpkey": "conf/pods/CalvaneseGLR04",
 	"doi": "10.1145/1055558.1055593",
-	"ee": ["http://doi.acm.org/10.1145/1055558.1055593", "http://www.acm.org/sigmod/pods/proc04/pdf/P-25.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1055558.1055593",
+		"http://www.acm.org/sigmod/pods/proc04/pdf/P-25.pdf"
+	],
 	"pages": "241-251",
 	"publisher": "ACM",
-	"stemmed": ["logic", "foundat", "of", "peer", "to", "peer", "data", "integr"],
-	"tag": ["integration", "logic", "peer-to-peer"],
+	"stemmed": [
+		"logic",
+		"foundat",
+		"of",
+		"peer",
+		"to",
+		"peer",
+		"data",
+		"integr"
+	],
+	"tag": [
+		"integration",
+		"logic",
+		"peer-to-peer"
+	],
 	"title": "Logical Foundations of Peer-To-Peer Data Integration",
 	"type": "inproceedings",
 	"venue": "PODS",

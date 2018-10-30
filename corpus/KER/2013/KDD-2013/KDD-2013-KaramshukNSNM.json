@@ -1,14 +1,38 @@
 {
-	"author": ["Dmytro Karamshuk", "Anastasios Noulas", "Salvatore Scellato", "Vincenzo Nicosia", "Cecilia Mascolo"],
-	"booktitle": "KDD",
+	"author": [
+		"Dmytro Karamshuk",
+		"Anastasios Noulas",
+		"Salvatore Scellato",
+		"Vincenzo Nicosia",
+		"Cecilia Mascolo"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/KaramshukNSNM13",
 	"doi": "10.1145/2487575.2487616",
 	"ee": "http://doi.acm.org/10.1145/2487575.2487616",
 	"pages": "793-801",
 	"publisher": "ACM",
-	"stemmed": ["geo", "spot", "mine", "onlin", "locat", "base", "servic", "for", "optim", "retail", "store", "placement"],
-	"tag": ["mining", "named", "online"],
+	"stemmed": [
+		"geo",
+		"spot",
+		"mine",
+		"onlin",
+		"locat",
+		"base",
+		"servic",
+		"for",
+		"optim",
+		"retail",
+		"store",
+		"placement"
+	],
+	"tag": [
+		"mining",
+		"named",
+		"online"
+	],
 	"title": "Geo-spotting: mining online location-based services for optimal retail store placement",
 	"type": "inproceedings",
 	"venue": "KDD",

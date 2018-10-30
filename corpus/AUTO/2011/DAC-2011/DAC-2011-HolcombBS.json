@@ -1,14 +1,30 @@
 {
-	"author": ["Daniel E. Holcomb", "Bryan A. Brady", "Sanjit A. Seshia"],
-	"booktitle": "DAC",
+	"author": [
+		"Daniel E. Holcomb",
+		"Bryan A. Brady",
+		"Sanjit A. Seshia"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/HolcombBS11",
 	"doi": "10.1145/2024724.2024840",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024840",
 	"pages": "492-497",
 	"publisher": "ACM",
-	"stemmed": ["abstract", "base", "perform", "verif", "of", "no", "cs"],
-	"tag": ["performance", "verification"],
+	"stemmed": [
+		"abstract",
+		"base",
+		"perform",
+		"verif",
+		"of",
+		"no",
+		"cs"
+	],
+	"tag": [
+		"performance",
+		"verification"
+	],
 	"title": "Abstraction-based performance verification of NoCs",
 	"type": "inproceedings",
 	"venue": "DAC",

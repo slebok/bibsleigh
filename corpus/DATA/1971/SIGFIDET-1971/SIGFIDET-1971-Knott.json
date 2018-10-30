@@ -1,13 +1,25 @@
 {
 	"author": "Gary D. Knott",
-	"booktitle": "SIGFIDET Workshop",
+	"booktitle": "Proceedings of the Second ACM-SIGFIDET Workshop on Data Description, Access and Control",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGFIDET71/P187.pdf",
 	"crossref": "conf/sigmod/71",
 	"dblpkey": "conf/sigmod/Knott71",
 	"pages": "187-206",
 	"publisher": "ACM",
-	"stemmed": ["expand", "open", "address", "hash", "tabl", "storag", "and", "retriev"],
-	"tag": ["retrieval"],
+	"stemmed": [
+		"expand",
+		"open",
+		"address",
+		"hash",
+		"tabl",
+		"storag",
+		"and",
+		"retriev"
+	],
+	"tag": [
+		"retrieval"
+	],
 	"title": "Expandable Open Addressing Hash Table Storage and Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

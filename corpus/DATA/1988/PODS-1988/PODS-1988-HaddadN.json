@@ -1,15 +1,42 @@
 {
-	"author": ["Ramsey W. Haddad", "Jeffrey F. Naughton"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS88/P333.PDF", "journals/anthology/dvd1:text/1-3/PODS88/P333.PDF"],
-	"cite": ["conf/pods/BancilhonMSU86", "...", "conf/pods/BeeriR87", "...", "conf/pods/GrahneSS87", "conf/sigmod/HanH87", "journals/jacm/HenschenN84", "conf/pods/Marchetti-SpaccamelaPS87", "journals/jcss/Naughton91", "conf/icdt/SaccaZ86", "conf/pods/SaccaZ86", "conf/sigmod/SaccaZ87", "journals/siamcomp/Tarjan72"],
+	"author": [
+		"Ramsey W. Haddad",
+		"Jeffrey F. Naughton"
+	],
+	"booktitle": "Proceedings of the Seventh Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS88/P333.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS88/P333.PDF"
+	],
+	"cite": [
+		"conf/pods/BancilhonMSU86",
+		"...",
+		"conf/pods/BeeriR87",
+		"...",
+		"conf/pods/GrahneSS87",
+		"conf/sigmod/HanH87",
+		"journals/jacm/HenschenN84",
+		"conf/pods/Marchetti-SpaccamelaPS87",
+		"journals/jcss/Naughton91",
+		"conf/icdt/SaccaZ86",
+		"conf/pods/SaccaZ86",
+		"conf/sigmod/SaccaZ87",
+		"journals/siamcomp/Tarjan72"
+	],
 	"crossref": "conf/pods/88",
 	"dblpkey": "conf/pods/HaddadN88",
 	"doi": "10.1145/308386.308469",
 	"ee": "http://doi.acm.org/10.1145/308386.308469",
 	"pages": "333-340",
 	"publisher": "ACM",
-	"stemmed": ["count", "method", "for", "cyclic", "relat"],
+	"stemmed": [
+		"count",
+		"method",
+		"for",
+		"cyclic",
+		"relat"
+	],
 	"title": "Counting Methods for Cyclic Relations",
 	"type": "inproceedings",
 	"venue": "PODS",

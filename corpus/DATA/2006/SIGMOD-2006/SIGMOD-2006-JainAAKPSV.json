@@ -1,6 +1,14 @@
 {
-	"author": ["Navendu Jain", "Lisa Amini", "Henrique Andrade", "Richard King", "Yoonho Park", "Philippe Selo", "Chitra Venkatramani"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Navendu Jain",
+		"Lisa Amini",
+		"Henrique Andrade",
+		"Richard King",
+		"Yoonho Park",
+		"Philippe Selo",
+		"Chitra Venkatramani"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/JainAAKPSV06",
@@ -8,8 +16,28 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142522",
 	"pages": "431-442",
 	"publisher": "ACM",
-	"stemmed": ["design", "implement", "and", "evalu", "of", "the", "linear", "road", "bnchmark", "on", "the", "stream", "process", "core"],
-	"tag": ["design", "evaluation", "implementation", "linear"],
+	"stemmed": [
+		"design",
+		"implement",
+		"and",
+		"evalu",
+		"of",
+		"the",
+		"linear",
+		"road",
+		"bnchmark",
+		"on",
+		"the",
+		"stream",
+		"process",
+		"core"
+	],
+	"tag": [
+		"design",
+		"evaluation",
+		"implementation",
+		"linear"
+	],
 	"title": "Design, implementation, and evaluation of the linear road bnchmark on the stream processing core",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

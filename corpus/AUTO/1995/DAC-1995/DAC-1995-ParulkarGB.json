@@ -1,13 +1,33 @@
 {
-	"author": ["Ishwar Parulkar", "Sandeep K. Gupta", "Melvin A. Breuer"],
-	"booktitle": "DAC",
+	"author": [
+		"Ishwar Parulkar",
+		"Sandeep K. Gupta",
+		"Melvin A. Breuer"
+	],
+	"booktitle": "Proceedings of the 32nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/ParulkarGB95",
 	"doi": "10.1145/217474.217561",
 	"ee": "http://doi.acm.org/10.1145/217474.217561",
 	"pages": "395-401",
 	"publisher": "ACM Press",
-	"stemmed": ["data", "path", "alloc", "for", "synthes", "rtl", "design", "with", "low", "bist", "area", "overhead"],
-	"tag": ["design"],
+	"stemmed": [
+		"data",
+		"path",
+		"alloc",
+		"for",
+		"synthes",
+		"rtl",
+		"design",
+		"with",
+		"low",
+		"bist",
+		"area",
+		"overhead"
+	],
+	"tag": [
+		"design"
+	],
 	"title": "Data Path Allocation for Synthesizing RTL Designs with Low BIST Area Overhead",
 	"type": "inproceedings",
 	"venue": "DAC",

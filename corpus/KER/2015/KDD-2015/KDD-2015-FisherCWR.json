@@ -1,14 +1,35 @@
 {
-	"author": ["Jeffrey Fisher", "Peter Christen", "Qing Wang", "Erhard Rahm"],
-	"booktitle": "KDD",
+	"author": [
+		"Jeffrey Fisher",
+		"Peter Christen",
+		"Qing Wang",
+		"Erhard Rahm"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/FisherCWR15",
 	"doi": "10.1145/2783258.2783396",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783396",
 	"pages": "279-288",
 	"publisher": "ACM",
-	"stemmed": ["a", "cluster", "base", "framework", "to", "control", "block", "size", "for", "entiti", "resolut"],
-	"tag": ["clustering", "framework"],
+	"stemmed": [
+		"a",
+		"cluster",
+		"base",
+		"framework",
+		"to",
+		"control",
+		"block",
+		"size",
+		"for",
+		"entiti",
+		"resolut"
+	],
+	"tag": [
+		"clustering",
+		"framework"
+	],
 	"title": "A Clustering-Based Framework to Control Block Sizes for Entity Resolution",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,14 +1,39 @@
 {
-	"author": ["Kunal Mukerjee", "Todd Porter", "Sorin Gherman"],
-	"booktitle": "KDD",
+	"author": [
+		"Kunal Mukerjee",
+		"Todd Porter",
+		"Sorin Gherman"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/MukerjeePG11",
 	"doi": "10.1145/2020408.2020447",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020447",
 	"pages": "213-221",
 	"publisher": "ACM",
-	"stemmed": ["linear", "scale", "semant", "mine", "algorithm", "in", "microsoft", "sql", "server", "s", "semant", "platform"],
-	"tag": ["algorithm", "framework", "linear", "mining", "semantics", "sql"],
+	"stemmed": [
+		"linear",
+		"scale",
+		"semant",
+		"mine",
+		"algorithm",
+		"in",
+		"microsoft",
+		"sql",
+		"server",
+		"s",
+		"semant",
+		"platform"
+	],
+	"tag": [
+		"algorithm",
+		"framework",
+		"linear",
+		"mining",
+		"semantics",
+		"sql"
+	],
 	"title": "Linear scale semantic mining algorithms in microsoft SQL server’s semantic platform",
 	"type": "inproceedings",
 	"venue": "KDD",

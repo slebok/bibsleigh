@@ -1,16 +1,37 @@
 {
-	"acmid": 1022858,
-	"author": ["Zhong Wang", "Jianwen Zhu"],
-	"booktitle": "DATE",
+	"acmid": "1022858",
+	"author": [
+		"Zhong Wang",
+		"Jianwen Zhu"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2003",
 	"dblpkey": "conf/date/WangZ03",
 	"doi": "10.1109/DATE.2003.10066",
-	"ee": ["http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10066", "http://dl.acm.org/citation.cfm?id=1022858"],
+	"ee": [
+		"http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10066",
+		"http://dl.acm.org/citation.cfm?id=1022858"
+	],
 	"pages": "11026-11031",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["transistor", "level", "static", "time", "analysi", "by", "piecewis", "quadrat", "waveform", "match"],
-	"tag": ["analysis", "polynomial"],
+	"stemmed": [
+		"transistor",
+		"level",
+		"static",
+		"time",
+		"analysi",
+		"by",
+		"piecewis",
+		"quadrat",
+		"waveform",
+		"match"
+	],
+	"tag": [
+		"analysis",
+		"polynomial"
+	],
 	"title": "Transistor-Level Static Timing Analysis by Piecewise Quadratic Waveform Matching",
 	"type": "inproceedings",
 	"venue": "DATE",

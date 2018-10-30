@@ -1,6 +1,12 @@
 {
-	"author": ["Lizhong Chen", "Lihang Zhao", "Ruisheng Wang", "Timothy Mark Pinkston"],
-	"booktitle": "HPCA",
+	"author": [
+		"Lizhong Chen",
+		"Lihang Zhao",
+		"Ruisheng Wang",
+		"Timothy Mark Pinkston"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/ChenZWP14",
 	"doi": "10.1109/HPCA.2014.6835940",
@@ -8,8 +14,24 @@
 	"pages": "296-307",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["mp", "minim", "perform", "penalti", "for", "power", "gate", "of", "clos", "network", "on", "chip"],
-	"tag": ["named", "performance"],
+	"stemmed": [
+		"mp",
+		"minim",
+		"perform",
+		"penalti",
+		"for",
+		"power",
+		"gate",
+		"of",
+		"clos",
+		"network",
+		"on",
+		"chip"
+	],
+	"tag": [
+		"named",
+		"performance"
+	],
 	"title": "MP3: Minimizing performance penalty for power-gating of Clos network-on-chip",
 	"type": "inproceedings",
 	"venue": "HPCA",

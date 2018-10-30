@@ -1,14 +1,30 @@
 {
-	"acmid": 2755911,
-	"author": ["Bin Wang", "Zhuo Liu", "Xinning Wang", "Weikuan Yu"],
-	"booktitle": "DATE",
+	"acmid": "2755911",
+	"author": [
+		"Bin Wang",
+		"Zhuo Liu",
+		"Xinning Wang",
+		"Weikuan Yu"
+	],
+	"booktitle": "Proceedings of the 19th Conference and Exhibition on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2015",
 	"dblpkey": "conf/date/WangLWY15",
 	"ieeearid": 7092476,
 	"pages": "689-694",
 	"publisher": "ACM",
-	"stemmed": ["elimin", "intra", "warp", "conflict", "miss", "in", "gpu"],
-	"tag": ["gpu"],
+	"stemmed": [
+		"elimin",
+		"intra",
+		"warp",
+		"conflict",
+		"miss",
+		"in",
+		"gpu"
+	],
+	"tag": [
+		"gpu"
+	],
 	"title": "Eliminating intra-warp conflict misses in GPU",
 	"type": "inproceedings",
 	"venue": "DATE",

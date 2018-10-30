@@ -1,6 +1,9 @@
 {
-	"author": ["Iosif Lazaridis", "Sharad Mehrotra"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Iosif Lazaridis",
+		"Sharad Mehrotra"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/LazaridisM07",
@@ -8,8 +11,18 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247568",
 	"pages": "797-808",
 	"publisher": "ACM",
-	"stemmed": ["optim", "of", "multi", "version", "expens", "predic"],
-	"tag": ["multi", "optimisation"],
+	"stemmed": [
+		"optim",
+		"of",
+		"multi",
+		"version",
+		"expens",
+		"predic"
+	],
+	"tag": [
+		"multi",
+		"optimisation"
+	],
 	"title": "Optimization of multi-version expensive predicates",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

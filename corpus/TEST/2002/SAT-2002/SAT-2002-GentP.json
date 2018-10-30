@@ -1,12 +1,37 @@
 {
-	"address": ["Cincinnati", "Ohio", "USA"],
-	"author": ["Ian Gent", "Patrick Prosser"],
+	"address": [
+		"Cincinnati",
+		"Ohio",
+		"USA"
+	],
+	"author": [
+		"Ian Gent",
+		"Patrick Prosser"
+	],
 	"booktitle": "Proceedings of the Fifth International Symposium on the Theory and Applications of Satisfiability Testing",
+	"booktitleshort": "SAT",
 	"editor": "John Franco",
 	"month": "may",
-	"pages": 19,
-	"stemmed": ["sat", "encod", "of", "the", "stabl", "marriag", "problem", "with", "tie", "and", "incomplet", "list"],
-	"tag": ["encoding", "problem", "satisfiability"],
+	"pages": "19",
+	"stemmed": [
+		"sat",
+		"encod",
+		"of",
+		"the",
+		"stabl",
+		"marriag",
+		"problem",
+		"with",
+		"tie",
+		"and",
+		"incomplet",
+		"list"
+	],
+	"tag": [
+		"encoding",
+		"problem",
+		"satisfiability"
+	],
 	"title": "SAT encodings of the stable marriage problem with ties and incomplete lists",
 	"type": "inproceedings",
 	"venue": "SAT",

@@ -1,6 +1,12 @@
 {
-	"author": ["Azza Abouzied", "Kamil Bajda-Pawlikowski", "Jiewen Huang", "Daniel J. Abadi", "Avi Silberschatz"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Azza Abouzied",
+		"Kamil Bajda-Pawlikowski",
+		"Jiewen Huang",
+		"Daniel J. Abadi",
+		"Avi Silberschatz"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/AbouziedBHAS10",
@@ -8,7 +14,16 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807294",
 	"pages": "1111-1114",
 	"publisher": "ACM",
-	"stemmed": ["hadoop", "db", "in", "action", "build", "real", "world", "applic"],
+	"stemmed": [
+		"hadoop",
+		"db",
+		"in",
+		"action",
+		"build",
+		"real",
+		"world",
+		"applic"
+	],
 	"title": "HadoopDB in action: building real world applications",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

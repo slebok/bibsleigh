@@ -1,13 +1,29 @@
 {
-	"author": ["George Candea", "Shinichi Kawamoto", "Yuichi Fujiki", "Greg Friedman", "Armando Fox"],
-	"booktitle": "OSDI",
+	"author": [
+		"George Candea",
+		"Shinichi Kawamoto",
+		"Yuichi Fujiki",
+		"Greg Friedman",
+		"Armando Fox"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2004",
 	"dblpkey": "conf/osdi/CandeaKFFF04",
 	"ee": "http://www.usenix.org/events/osdi04/tech/candea.html",
 	"pages": "31-44",
 	"publisher": "USENIX Association",
-	"stemmed": ["microreboot", "a", "techniqu", "for", "cheap", "recoveri"],
-	"tag": ["named"],
+	"stemmed": [
+		"microreboot",
+		"a",
+		"techniqu",
+		"for",
+		"cheap",
+		"recoveri"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "Microreboot — A Technique for Cheap Recovery",
 	"type": "inproceedings",
 	"venue": "OSDI",

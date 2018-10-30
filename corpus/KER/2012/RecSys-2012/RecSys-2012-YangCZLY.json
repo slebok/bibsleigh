@@ -1,14 +1,34 @@
 {
-	"author": ["Diyi Yang", "Tianqi Chen", "Weinan Zhang", "Qiuxia Lu", "Yong Yu"],
-	"booktitle": "RecSys",
+	"author": [
+		"Diyi Yang",
+		"Tianqi Chen",
+		"Weinan Zhang",
+		"Qiuxia Lu",
+		"Yong Yu"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2012",
 	"dblpkey": "conf/recsys/YangCZLY12",
 	"doi": "10.1145/2365952.2365973",
 	"ee": "http://doi.acm.org/10.1145/2365952.2365973",
 	"pages": "91-98",
 	"publisher": "ACM",
-	"stemmed": ["local", "implicit", "feedback", "mine", "for", "music", "recommend"],
-	"tag": ["feedback", "mining", "music", "recommendation"],
+	"stemmed": [
+		"local",
+		"implicit",
+		"feedback",
+		"mine",
+		"for",
+		"music",
+		"recommend"
+	],
+	"tag": [
+		"feedback",
+		"mining",
+		"music",
+		"recommendation"
+	],
 	"title": "Local implicit feedback mining for music recommendation",
 	"type": "inproceedings",
 	"venue": "RecSys",

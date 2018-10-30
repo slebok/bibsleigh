@@ -1,14 +1,39 @@
 {
-	"author": ["YoungHoon Jung", "Luca P. Carloni"],
-	"booktitle": "DAC",
+	"author": [
+		"YoungHoon Jung",
+		"Luca P. Carloni"
+	],
+	"booktitle": "Proceedings of the 52nd Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2015",
 	"dblpkey": "conf/dac/JungC15",
 	"doi": "10.1145/2744769.2744913",
 	"ee": "http://doi.acm.org/10.1145/2744769.2744913",
 	"pages": "106:1-106:6",
 	"publisher": "ACM",
-	"stemmed": ["σvp", "host", "gpu", "multiplex", "for", "effici", "simul", "of", "multipl", "embed", "gpus", "on", "virtual", "platform"],
-	"tag": ["embedded", "multi", "named", "performance", "simulation"],
+	"stemmed": [
+		"σvp",
+		"host",
+		"gpu",
+		"multiplex",
+		"for",
+		"effici",
+		"simul",
+		"of",
+		"multipl",
+		"embed",
+		"gpus",
+		"on",
+		"virtual",
+		"platform"
+	],
+	"tag": [
+		"embedded",
+		"multi",
+		"named",
+		"performance",
+		"simulation"
+	],
 	"title": "ΣVP: host-GPU multiplexing for efficient simulation of multiple embedded GPUs on virtual platforms",
 	"type": "inproceedings",
 	"venue": "DAC",

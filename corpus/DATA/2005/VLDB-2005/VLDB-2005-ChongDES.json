@@ -1,13 +1,31 @@
 {
-	"author": ["Eugene Inseok Chong", "Souripriya Das", "George Eadon", "Jagannathan Srinivasan"],
-	"booktitle": "VLDB",
+	"author": [
+		"Eugene Inseok Chong",
+		"Souripriya Das",
+		"George Eadon",
+		"Jagannathan Srinivasan"
+	],
+	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/ChongDES05",
 	"ee": "http://www.vldb2005.org/program/paper/fri/p1216-chong.pdf",
 	"pages": "1216-1227",
 	"publisher": "ACM",
-	"stemmed": ["an", "effici", "sql", "base", "rdf", "queri", "scheme"],
-	"tag": ["performance", "query", "rdf"],
+	"stemmed": [
+		"an",
+		"effici",
+		"sql",
+		"base",
+		"rdf",
+		"queri",
+		"scheme"
+	],
+	"tag": [
+		"performance",
+		"query",
+		"rdf"
+	],
 	"title": "An Efficient SQL-based RDF Querying Scheme",
 	"type": "inproceedings",
 	"venue": "VLDB",

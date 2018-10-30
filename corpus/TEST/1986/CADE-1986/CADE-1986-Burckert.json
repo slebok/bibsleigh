@@ -1,6 +1,7 @@
 {
 	"author": "Hans-Jürgen Bürckert",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Burckert86",
 	"doi": "10.1007/3-540-16780-3_116",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["some", "relationship", "between", "unif", "restrict", "unif", "and", "match"],
-	"tag": ["strict", "unification"],
+	"stemmed": [
+		"some",
+		"relationship",
+		"between",
+		"unif",
+		"restrict",
+		"unif",
+		"and",
+		"match"
+	],
+	"tag": [
+		"strict",
+		"unification"
+	],
 	"title": "Some Relationships between Unification, restricted Unification, and Matching",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

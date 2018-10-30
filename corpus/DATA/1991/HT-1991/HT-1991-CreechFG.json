@@ -1,6 +1,11 @@
 {
-	"author": ["Michael L. Creech", "Dennis F. Freeze", "Martin L. Griss"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Michael L. Creech",
+		"Dennis F. Freeze",
+		"Martin L. Griss"
+	],
+	"booktitle": "Proceedings of the Third Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1991/P025.pdf",
 	"crossref": "conf/ht/91",
 	"dblpkey": "conf/ht/CreechFG91",
@@ -8,8 +13,21 @@
 	"ee": "http://doi.acm.org/10.1145/122974.122978",
 	"pages": "25-38",
 	"publisher": "ACM",
-	"stemmed": ["use", "hypertext", "in", "select", "reusabl", "softwar", "compon"],
-	"tag": ["component", "hypermedia", "reuse", "using"],
+	"stemmed": [
+		"use",
+		"hypertext",
+		"in",
+		"select",
+		"reusabl",
+		"softwar",
+		"compon"
+	],
+	"tag": [
+		"component",
+		"hypermedia",
+		"reuse",
+		"using"
+	],
 	"title": "Using Hypertext in Selecting Reusable Software Components",
 	"type": "inproceedings",
 	"venue": "HT",

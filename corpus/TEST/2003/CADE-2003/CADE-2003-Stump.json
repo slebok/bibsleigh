@@ -1,6 +1,7 @@
 {
 	"author": "Aaron Stump",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 19th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2003",
 	"dblpkey": "conf/cade/Stump03",
 	"doi": "10.1007/978-3-540-45085-6_12",
@@ -10,11 +11,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["subset", "type", "and", "partial", "function"],
-	"tag": ["set"],
+	"stemmed": [
+		"subset",
+		"type",
+		"and",
+		"partial",
+		"function"
+	],
+	"tag": [
+		"set"
+	],
 	"title": "Subset Types and Partial Functions",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2741,
+	"volume": "2741",
 	"year": 2003
 }

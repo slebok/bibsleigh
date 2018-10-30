@@ -1,14 +1,35 @@
 {
-	"author": ["Michaek Kwok-Po Ng", "Xutao Li", "Yunming Ye"],
-	"booktitle": "KDD",
+	"author": [
+		"Michaek Kwok-Po Ng",
+		"Xutao Li",
+		"Yunming Ye"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/NgLY11",
 	"doi": "10.1145/2020408.2020594",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020594",
 	"pages": "1217-1225",
 	"publisher": "ACM",
-	"stemmed": ["multi", "rank", "co", "rank", "for", "object", "and", "relat", "in", "multi", "relat", "data"],
-	"tag": ["multi", "named"],
+	"stemmed": [
+		"multi",
+		"rank",
+		"co",
+		"rank",
+		"for",
+		"object",
+		"and",
+		"relat",
+		"in",
+		"multi",
+		"relat",
+		"data"
+	],
+	"tag": [
+		"multi",
+		"named"
+	],
 	"title": "MultiRank: co-ranking for objects and relations in multi-relational data",
 	"type": "inproceedings",
 	"venue": "KDD",

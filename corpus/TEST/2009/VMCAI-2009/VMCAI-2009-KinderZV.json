@@ -1,6 +1,11 @@
 {
-	"author": ["Johannes Kinder", "Florian Zuleger", "Helmut Veith"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Johannes Kinder",
+		"Florian Zuleger",
+		"Helmut Veith"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2009",
 	"dblpkey": "conf/vmcai/KinderZV09",
 	"doi": "10.1007/978-3-540-93900-9_19",
@@ -10,11 +15,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "abstract", "interpret", "base", "framework", "for", "control", "flow", "reconstruct", "from", "binari"],
-	"tag": ["abstract interpretation", "control flow", "framework", "re-engineering"],
+	"stemmed": [
+		"an",
+		"abstract",
+		"interpret",
+		"base",
+		"framework",
+		"for",
+		"control",
+		"flow",
+		"reconstruct",
+		"from",
+		"binari"
+	],
+	"tag": [
+		"abstract interpretation",
+		"control flow",
+		"framework",
+		"re-engineering"
+	],
 	"title": "An Abstract Interpretation-Based Framework for Control Flow Reconstruction from Binaries",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 5403,
+	"volume": "5403",
 	"year": 2009
 }

@@ -1,6 +1,13 @@
 {
-	"author": ["Takeshi Kitahara", "Naoyuki Kawabe", "Fumihiro Minami", "Katsuhiro Seta", "Toshiyuki Furusawa"],
-	"booktitle": "DATE",
+	"author": [
+		"Takeshi Kitahara",
+		"Naoyuki Kawabe",
+		"Fumihiro Minami",
+		"Katsuhiro Seta",
+		"Toshiyuki Furusawa"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/KitaharaKMSF05",
 	"doi": "10.1109/DATE.2005.68",
@@ -8,8 +15,27 @@
 	"pages": "646-647",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["area", "effici", "select", "multi", "threshold", "cmos", "design", "methodolog", "for", "standbi", "leakag", "power", "reduct"],
-	"tag": ["design", "multi", "power management", "reduction"],
+	"stemmed": [
+		"area",
+		"effici",
+		"select",
+		"multi",
+		"threshold",
+		"cmos",
+		"design",
+		"methodolog",
+		"for",
+		"standbi",
+		"leakag",
+		"power",
+		"reduct"
+	],
+	"tag": [
+		"design",
+		"multi",
+		"power management",
+		"reduction"
+	],
 	"title": "Area-Efficient Selective Multi-Threshold CMOS Design Methodology for Standby Leakage Power Reduction",
 	"type": "inproceedings",
 	"venue": "DATE",

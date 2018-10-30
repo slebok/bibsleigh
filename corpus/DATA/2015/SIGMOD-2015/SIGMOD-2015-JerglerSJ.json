@@ -1,6 +1,10 @@
 {
-	"author": ["Martin Jergler", "Mohammad Sadoghi", "Hans-Arno Jacobsen"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Martin Jergler",
+		"Mohammad Sadoghi",
+		"Hans-Arno Jacobsen"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/JerglerSJ15",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2735362",
 	"pages": "1427-1432",
 	"publisher": "ACM",
-	"stemmed": ["d", "worm", "a", "manag", "infrastructur", "for", "distribut", "data", "centric", "workflow"],
-	"tag": ["distributed", "framework", "named", "workflow"],
+	"stemmed": [
+		"d",
+		"worm",
+		"a",
+		"manag",
+		"infrastructur",
+		"for",
+		"distribut",
+		"data",
+		"centric",
+		"workflow"
+	],
+	"tag": [
+		"distributed",
+		"framework",
+		"named",
+		"workflow"
+	],
 	"title": "D2WORM: A Management Infrastructure for Distributed Data-centric Workflows",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

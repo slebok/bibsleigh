@@ -1,14 +1,48 @@
 {
-	"author": ["Serge Abiteboul", "Gösta Grahne"],
-	"booktitle": "VLDB",
-	"cite": ["conf/fodo/AbiteboulH85", "conf/vldb/AbiteboulV84", "conf/pods/AbiteboulV85", "journals/tods/BancilhonS81", "journals/siamcomp/BeeriV84", "journals/tods/Biskup83", "journals/tods/Codd79", "conf/pods/FaginUV83", "conf/vldb/Grahne84", "conf/adbt/Imielinski82", "journals/jacm/ImielinskiL84", "conf/sigmod/ImielinskiL83", "conf/pods/KuperUV84", "journals/tods/MaierMS79", "conf/adbt/Reiter77", "journals/jacm/Reiter86", "books/cs/Ullman82", "conf/pods/Vardi85", "conf/sigmod/Vassiliou79"],
+	"author": [
+		"Serge Abiteboul",
+		"Gösta Grahne"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/fodo/AbiteboulH85",
+		"conf/vldb/AbiteboulV84",
+		"conf/pods/AbiteboulV85",
+		"journals/tods/BancilhonS81",
+		"journals/siamcomp/BeeriV84",
+		"journals/tods/Biskup83",
+		"journals/tods/Codd79",
+		"conf/pods/FaginUV83",
+		"conf/vldb/Grahne84",
+		"conf/adbt/Imielinski82",
+		"journals/jacm/ImielinskiL84",
+		"conf/sigmod/ImielinskiL83",
+		"conf/pods/KuperUV84",
+		"journals/tods/MaierMS79",
+		"conf/adbt/Reiter77",
+		"journals/jacm/Reiter86",
+		"books/cs/Ullman82",
+		"conf/pods/Vardi85",
+		"conf/sigmod/Vassiliou79"
+	],
 	"crossref": "conf/vldb/85",
 	"dblpkey": "conf/vldb/AbiteboulG85",
 	"ee": "http://www.vldb.org/conf/1985/P001.PDF",
 	"pages": "1-12",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["updat", "semant", "for", "incomplet", "databas"],
-	"tag": ["database", "semantics", "semistructured data"],
+	"stemmed": [
+		"updat",
+		"semant",
+		"for",
+		"incomplet",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"semantics",
+		"semistructured data"
+	],
 	"title": "Update Semantics for Incomplete Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

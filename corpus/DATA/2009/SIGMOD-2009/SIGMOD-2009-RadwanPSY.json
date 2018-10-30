@@ -1,6 +1,11 @@
 {
-	"author": ["Ahmed Radwan", "Lucian Popa", "Ioana Roxana Stanoi", "Akmal A. Younis"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ahmed Radwan",
+		"Lucian Popa",
+		"Ioana Roxana Stanoi",
+		"Akmal A. Younis"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/RadwanPSY09",
@@ -8,8 +13,23 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559913",
 	"pages": "641-654",
 	"publisher": "ACM",
-	"stemmed": ["top", "k", "generat", "of", "integr", "schema", "base", "on", "direct", "and", "weight", "correspond"],
-	"tag": ["generative"],
+	"stemmed": [
+		"top",
+		"k",
+		"generat",
+		"of",
+		"integr",
+		"schema",
+		"base",
+		"on",
+		"direct",
+		"and",
+		"weight",
+		"correspond"
+	],
+	"tag": [
+		"generative"
+	],
 	"title": "Top-k generation of integrated schemas based on directed and weighted correspondences",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

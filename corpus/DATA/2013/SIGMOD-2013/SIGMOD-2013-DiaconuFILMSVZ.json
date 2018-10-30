@@ -1,6 +1,15 @@
 {
-	"author": ["Cristian Diaconu", "Craig Freedman", "Erik Ismert", "Per-Åke Larson", "Pravin Mittal", "Ryan Stonecipher", "Nitin Verma", "Mike Zwilling"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Cristian Diaconu",
+		"Craig Freedman",
+		"Erik Ismert",
+		"Per-Åke Larson",
+		"Pravin Mittal",
+		"Ryan Stonecipher",
+		"Nitin Verma",
+		"Mike Zwilling"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/DiaconuFILMSVZ13",
@@ -8,8 +17,20 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2463710",
 	"pages": "1243-1254",
 	"publisher": "ACM",
-	"stemmed": ["hekaton", "sql", "server", "s", "memori", "optim", "oltp", "engin"],
-	"tag": ["named", "sql"],
+	"stemmed": [
+		"hekaton",
+		"sql",
+		"server",
+		"s",
+		"memori",
+		"optim",
+		"oltp",
+		"engin"
+	],
+	"tag": [
+		"named",
+		"sql"
+	],
 	"title": "Hekaton: SQL server’s memory-optimized OLTP engine",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

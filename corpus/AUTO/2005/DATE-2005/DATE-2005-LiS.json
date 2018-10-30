@@ -1,6 +1,10 @@
 {
-	"author": ["Zhao Li", "C.-J. Richard Shi"],
-	"booktitle": "DATE",
+	"author": [
+		"Zhao Li",
+		"C.-J. Richard Shi"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/LiS05",
 	"doi": "10.1109/DATE.2005.57",
@@ -8,8 +12,26 @@
 	"pages": "752-757",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["an", "effici", "precondit", "gmres", "method", "for", "fast", "parasit", "sensit", "deep", "submicron", "vlsi", "circuit", "simul"],
-	"tag": ["performance", "simulation"],
+	"stemmed": [
+		"an",
+		"effici",
+		"precondit",
+		"gmres",
+		"method",
+		"for",
+		"fast",
+		"parasit",
+		"sensit",
+		"deep",
+		"submicron",
+		"vlsi",
+		"circuit",
+		"simul"
+	],
+	"tag": [
+		"performance",
+		"simulation"
+	],
 	"title": "An Efficiently Preconditioned GMRES Method for Fast Parasitic-Sensitive Deep-Submicron VLSI Circuit Simulation",
 	"type": "inproceedings",
 	"venue": "DATE",

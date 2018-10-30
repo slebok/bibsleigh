@@ -1,6 +1,15 @@
 {
-	"author": ["Asuman Dogac", "Yusuf Tambag", "Pinar Pembecioglu", "Sait Pektas", "Gokce Laleci", "Gokhan Kurt", "Serkan Toprak", "Yildiray Kabak"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Asuman Dogac",
+		"Yusuf Tambag",
+		"Pinar Pembecioglu",
+		"Sait Pektas",
+		"Gokce Laleci",
+		"Gokhan Kurt",
+		"Serkan Toprak",
+		"Yildiray Kabak"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/DogacTPPLKTK02",
@@ -8,8 +17,23 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564750",
 	"pages": "512-523",
 	"publisher": "ACM",
-	"stemmed": ["an", "ebxml", "infrastructur", "implement", "through", "uddi", "registri", "and", "rosetta", "net", "pip"],
-	"tag": ["framework", "implementation"],
+	"stemmed": [
+		"an",
+		"ebxml",
+		"infrastructur",
+		"implement",
+		"through",
+		"uddi",
+		"registri",
+		"and",
+		"rosetta",
+		"net",
+		"pip"
+	],
+	"tag": [
+		"framework",
+		"implementation"
+	],
 	"title": "An ebXML infrastructure implementation through UDDI registries and RosettaNet PIPs",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

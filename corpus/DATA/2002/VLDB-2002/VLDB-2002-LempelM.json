@@ -1,13 +1,31 @@
 {
-	"author": ["Ronny Lempel", "Shlomo Moran"],
-	"booktitle": "VLDB",
+	"author": [
+		"Ronny Lempel",
+		"Shlomo Moran"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/LempelM02",
 	"ee": "http://www.vldb.org/conf/2002/S11P01.pdf",
 	"pages": "370-381",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["optim", "result", "prefetch", "in", "web", "search", "engin", "with", "segment", "indic"],
-	"tag": ["optimisation", "web"],
+	"stemmed": [
+		"optim",
+		"result",
+		"prefetch",
+		"in",
+		"web",
+		"search",
+		"engin",
+		"with",
+		"segment",
+		"indic"
+	],
+	"tag": [
+		"optimisation",
+		"web"
+	],
 	"title": "Optimizing Result Prefetching in Web Search Engines with Segmented Indices",
 	"type": "inproceedings",
 	"venue": "VLDB",

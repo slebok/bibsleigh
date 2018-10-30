@@ -1,14 +1,33 @@
 {
-	"author": ["Chen Tian", "Min Feng", "Rajiv Gupta"],
-	"booktitle": "ISMM",
+	"author": [
+		"Chen Tian",
+		"Min Feng",
+		"Rajiv Gupta"
+	],
+	"booktitle": "Proceedings of the Ninth International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2010",
 	"dblpkey": "conf/iwmm/TianFG10",
 	"doi": "10.1145/1806651.1806663",
 	"ee": "http://doi.acm.org/10.1145/1806651.1806663",
 	"pages": "63-72",
 	"publisher": "ACM",
-	"stemmed": ["specul", "parallel", "use", "state", "separ", "and", "multipl", "valu", "predict"],
-	"tag": ["parallel", "predict", "using"],
+	"stemmed": [
+		"specul",
+		"parallel",
+		"use",
+		"state",
+		"separ",
+		"and",
+		"multipl",
+		"valu",
+		"predict"
+	],
+	"tag": [
+		"parallel",
+		"predict",
+		"using"
+	],
 	"title": "Speculative parallelization using state separation and multiple value prediction",
 	"type": "inproceedings",
 	"venue": "ISMM",

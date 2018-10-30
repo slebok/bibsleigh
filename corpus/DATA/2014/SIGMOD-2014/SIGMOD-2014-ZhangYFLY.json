@@ -1,6 +1,12 @@
 {
-	"author": ["Shiming Zhang", "Yin Yang", "Wei Fan", "Liang Lan", "Mingxuan Yuan"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Shiming Zhang",
+		"Yin Yang",
+		"Wei Fan",
+		"Liang Lan",
+		"Mingxuan Yuan"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/ZhangYFLY14",
@@ -8,8 +14,22 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2594513",
 	"pages": "1099-1102",
 	"publisher": "ACM",
-	"stemmed": ["ocean", "rt", "real", "time", "analyt", "over", "larg", "tempor", "data"],
-	"tag": ["named", "realtime", "scalability"],
+	"stemmed": [
+		"ocean",
+		"rt",
+		"real",
+		"time",
+		"analyt",
+		"over",
+		"larg",
+		"tempor",
+		"data"
+	],
+	"tag": [
+		"named",
+		"realtime",
+		"scalability"
+	],
 	"title": "OceanRT: real-time analytics over large temporal data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

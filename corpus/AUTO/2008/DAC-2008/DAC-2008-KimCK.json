@@ -1,14 +1,28 @@
 {
-	"author": ["Daeik D. Kim", "Choongyeun Cho", "Jonghae Kim"],
-	"booktitle": "DAC",
+	"author": [
+		"Daeik D. Kim",
+		"Choongyeun Cho",
+		"Jonghae Kim"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/KimCK08",
 	"doi": "10.1145/1391469.1391557",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391557",
 	"pages": "341-342",
 	"publisher": "ACM",
-	"stemmed": ["analog", "parallel", "in", "ring", "base", "vcos"],
-	"tag": ["parallel"],
+	"stemmed": [
+		"analog",
+		"parallel",
+		"in",
+		"ring",
+		"base",
+		"vcos"
+	],
+	"tag": [
+		"parallel"
+	],
 	"title": "Analog parallelism in ring-based VCOs",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,34 @@
 {
-	"author": ["Nguyen K. Quang", "Doan Duc Tung", "Q. P. Ha"],
-	"booktitle": "CASE",
+	"author": [
+		"Nguyen K. Quang",
+		"Doan Duc Tung",
+		"Q. P. Ha"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Automation Science and Engineering",
+	"booktitleshort": "CASE",
 	"crossref": "conf/case/2015",
 	"dblpkey": "conf/case/QuangTH15",
 	"doi": "10.1109/CoASE.2015.7294338",
 	"ee": "http://dx.doi.org/10.1109/CoASE.2015.7294338",
 	"pages": "1650-1655",
 	"publisher": "IEEE",
-	"stemmed": ["fpga", "base", "sensorless", "pmsm", "speed", "control", "use", "adapt", "extend", "kalman", "filter"],
-	"tag": ["adaptation", "using"],
+	"stemmed": [
+		"fpga",
+		"base",
+		"sensorless",
+		"pmsm",
+		"speed",
+		"control",
+		"use",
+		"adapt",
+		"extend",
+		"kalman",
+		"filter"
+	],
+	"tag": [
+		"adaptation",
+		"using"
+	],
 	"title": "FPGA-based sensorless PMSM speed control using adaptive extended Kalman filter",
 	"type": "inproceedings",
 	"venue": "CASE",

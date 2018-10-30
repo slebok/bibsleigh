@@ -1,6 +1,11 @@
 {
-	"author": ["Roman L. Lysecky", "Frank Vahid", "Tony Givargis"],
-	"booktitle": "DATE",
+	"author": [
+		"Roman L. Lysecky",
+		"Frank Vahid",
+		"Tony Givargis"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/LyseckyVG00",
 	"doi": "10.1109/DATE.2000.840021",
@@ -8,8 +13,20 @@
 	"pages": "84-91",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["techniqu", "for", "reduc", "read", "latenc", "of", "core", "bus", "wrapper"],
-	"tag": ["latency"],
+	"stemmed": [
+		"techniqu",
+		"for",
+		"reduc",
+		"read",
+		"latenc",
+		"of",
+		"core",
+		"bus",
+		"wrapper"
+	],
+	"tag": [
+		"latency"
+	],
 	"title": "Techniques for Reducing Read Latency of Core Bus Wrappers",
 	"type": "inproceedings",
 	"venue": "DATE",

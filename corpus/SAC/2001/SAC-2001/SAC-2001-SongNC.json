@@ -1,14 +1,35 @@
 {
-	"author": ["Kwang-Taek Song", "Hwa-Jin Nam", "Jae-Woo Chang"],
+	"author": [
+		"Kwang-Taek Song",
+		"Hwa-Jin Nam",
+		"Jae-Woo Chang"
+	],
 	"booktitle": "Proceedings of the 16th Symposium on Applied Computing",
+	"booktitleshort": "SAC",
 	"crossref": "conf/sac/2001",
 	"dblpkey": "conf/sac/SongNC01",
 	"doi": "10.1145/372202.372338",
 	"ee": "http://doi.acm.org/10.1145/372202.372338",
 	"pages": "264-268",
 	"publisher": "ACM",
-	"stemmed": ["a", "cell", "base", "index", "structur", "for", "similar", "search", "in", "high", "dimension", "featur", "space"],
-	"tag": ["similarity"],
+	"stemmed": [
+		"a",
+		"cell",
+		"base",
+		"index",
+		"structur",
+		"for",
+		"similar",
+		"search",
+		"in",
+		"high",
+		"dimension",
+		"featur",
+		"space"
+	],
+	"tag": [
+		"similarity"
+	],
 	"title": "A cell-based index structure for similarity search in high-dimensional feature spaces",
 	"type": "inproceedings",
 	"venue": "SAC",

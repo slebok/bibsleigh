@@ -1,15 +1,37 @@
 {
-	"author": ["William B. Lund", "Eric K. Ringger"],
-	"booktitle": "ICDAR",
+	"author": [
+		"William B. Lund",
+		"Eric K. Ringger"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2011",
 	"dblpkey": "conf/icdar/LundR11",
 	"doi": "10.1109/ICDAR.2011.138",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2011.138", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2011.138"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2011.138",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2011.138"
+	],
 	"pages": "658-662",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["error", "correct", "with", "in", "domain", "train", "across", "multipl", "ocr", "system", "output"],
-	"tag": ["fault", "multi"],
+	"stemmed": [
+		"error",
+		"correct",
+		"with",
+		"in",
+		"domain",
+		"train",
+		"across",
+		"multipl",
+		"ocr",
+		"system",
+		"output"
+	],
+	"tag": [
+		"fault",
+		"multi"
+	],
 	"title": "Error Correction with In-domain Training across Multiple OCR System Outputs",
 	"type": "inproceedings",
 	"venue": "ICDAR",

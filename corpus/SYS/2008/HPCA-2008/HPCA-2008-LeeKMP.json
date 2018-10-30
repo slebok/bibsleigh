@@ -1,6 +1,12 @@
 {
-	"author": ["Chang Joo Lee", "Hyesoon Kim", "Onur Mutlu", "Yale N. Patt"],
-	"booktitle": "HPCA",
+	"author": [
+		"Chang Joo Lee",
+		"Hyesoon Kim",
+		"Onur Mutlu",
+		"Yale N. Patt"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2008",
 	"dblpkey": "conf/hpca/LeeKMP08",
 	"doi": "10.1109/HPCA.2008.4658626",
@@ -8,8 +14,21 @@
 	"pages": "39-49",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["perform", "awar", "specul", "control", "use", "wrong", "path", "use", "predict"],
-	"tag": ["predict", "using"],
+	"stemmed": [
+		"perform",
+		"awar",
+		"specul",
+		"control",
+		"use",
+		"wrong",
+		"path",
+		"use",
+		"predict"
+	],
+	"tag": [
+		"predict",
+		"using"
+	],
 	"title": "Performance-aware speculation control using wrong path usefulness prediction",
 	"type": "inproceedings",
 	"venue": "HPCA",

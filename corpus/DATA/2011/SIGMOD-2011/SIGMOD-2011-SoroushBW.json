@@ -1,6 +1,10 @@
 {
-	"author": ["Emad Soroush", "Magdalena Balazinska", "Daniel L. Wang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Emad Soroush",
+		"Magdalena Balazinska",
+		"Daniel L. Wang"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/SoroushBW11",
@@ -8,8 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989351",
 	"pages": "253-264",
 	"publisher": "ACM",
-	"stemmed": ["array", "store", "a", "storag", "manag", "for", "complex", "parallel", "array", "process"],
-	"tag": ["array", "named", "parallel"],
+	"stemmed": [
+		"array",
+		"store",
+		"a",
+		"storag",
+		"manag",
+		"for",
+		"complex",
+		"parallel",
+		"array",
+		"process"
+	],
+	"tag": [
+		"array",
+		"named",
+		"parallel"
+	],
 	"title": "ArrayStore: a storage manager for complex parallel array processing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

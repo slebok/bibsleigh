@@ -1,14 +1,27 @@
 {
-	"author": ["Yidan Liu", "Min Xie", "Laks V. S. Lakshmanan"],
-	"booktitle": "RecSys",
+	"author": [
+		"Yidan Liu",
+		"Min Xie",
+		"Laks V. S. Lakshmanan"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2014",
 	"dblpkey": "conf/recsys/Liu0L14",
 	"doi": "10.1145/2645710.2645750",
 	"ee": "http://doi.acm.org/10.1145/2645710.2645750",
 	"pages": "185-192",
 	"publisher": "ACM",
-	"stemmed": ["recommend", "user", "generat", "item", "list"],
-	"tag": ["recommendation"],
+	"stemmed": [
+		"recommend",
+		"user",
+		"generat",
+		"item",
+		"list"
+	],
+	"tag": [
+		"recommendation"
+	],
 	"title": "Recommending user generated item lists",
 	"type": "inproceedings",
 	"venue": "RecSys",

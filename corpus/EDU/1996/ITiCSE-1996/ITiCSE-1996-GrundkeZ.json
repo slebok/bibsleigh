@@ -1,13 +1,28 @@
 {
-	"author": ["E. W. Grundke", "Zhengya Zhu"],
-	"booktitle": "ITiCSE",
+	"author": [
+		"E. W. Grundke",
+		"Zhengya Zhu"
+	],
+	"booktitle": "Proceedings of the First Conference on Integrating Technology into Computer Science Education",
+	"booktitleshort": "ITiCSE",
 	"crossref": "conf/iticse/1996",
 	"dblpkey": "conf/iticse/GrundkeZ96",
 	"doi": "10.1145/237466.237685",
-	"pages": 235,
+	"pages": "235",
 	"publisher": "ACM",
-	"stemmed": ["simul", "for", "visual", "data", "link", "layer", "protocol"],
-	"tag": ["protocol", "visualisation"],
+	"stemmed": [
+		"simul",
+		"for",
+		"visual",
+		"data",
+		"link",
+		"layer",
+		"protocol"
+	],
+	"tag": [
+		"protocol",
+		"visualisation"
+	],
 	"title": "Simulator for visualizing data link layer protocols",
 	"type": "inproceedings",
 	"venue": "ITiCSE",

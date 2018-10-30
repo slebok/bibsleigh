@@ -1,14 +1,28 @@
 {
-	"author": ["Yehuda Afek", "Amir Levy", "Adam Morrison"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Yehuda Afek",
+		"Amir Levy",
+		"Adam Morrison"
+	],
+	"booktitle": "Proceedings of the 18th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2013",
 	"dblpkey": "conf/ppopp/AfekLM13",
 	"doi": "10.1145/2442516.2442552",
 	"ee": "http://doi.acm.org/10.1145/2442516.2442552",
 	"pages": "295-296",
 	"publisher": "ACM",
-	"stemmed": ["program", "with", "hardwar", "lock", "elis"],
-	"tag": ["hardware", "programming"],
+	"stemmed": [
+		"program",
+		"with",
+		"hardwar",
+		"lock",
+		"elis"
+	],
+	"tag": [
+		"hardware",
+		"programming"
+	],
 	"title": "Programming with hardware lock elision",
 	"type": "inproceedings",
 	"venue": "PPoPP",

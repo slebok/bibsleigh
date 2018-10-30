@@ -1,14 +1,31 @@
 {
-	"author": ["Y. Charlie Hu", "S. Lennart Johnsson", "Shang-Hua Teng"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Y. Charlie Hu",
+		"S. Lennart Johnsson",
+		"Shang-Hua Teng"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1997",
 	"dblpkey": "conf/ppopp/HuJT97",
 	"doi": "10.1145/263764.263769",
 	"ee": "http://doi.acm.org/10.1145/263764.263769",
 	"pages": "13-24",
 	"publisher": "ACM",
-	"stemmed": ["high", "perform", "fortran", "for", "high", "unstructur", "problem"],
-	"tag": ["fortran", "performance", "problem"],
+	"stemmed": [
+		"high",
+		"perform",
+		"fortran",
+		"for",
+		"high",
+		"unstructur",
+		"problem"
+	],
+	"tag": [
+		"fortran",
+		"performance",
+		"problem"
+	],
 	"title": "High Performance FORTRAN for Highly Unstructured Problems",
 	"type": "inproceedings",
 	"venue": "PPoPP",

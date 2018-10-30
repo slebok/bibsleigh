@@ -1,6 +1,7 @@
 {
 	"author": "Matthias Mutz",
-	"booktitle": "DATE",
+	"booktitle": "Proceedings of the Third Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1998",
 	"dblpkey": "conf/date/Mutz98",
 	"doi": "10.1109/DATE.1998.655850",
@@ -8,8 +9,18 @@
 	"pages": "153-158",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["regist", "transfer", "level", "vhdl", "model", "without", "clock"],
-	"tag": ["modelling"],
+	"stemmed": [
+		"regist",
+		"transfer",
+		"level",
+		"vhdl",
+		"model",
+		"without",
+		"clock"
+	],
+	"tag": [
+		"modelling"
+	],
 	"title": "Register Transfer Level VHDL Models without Clocks",
 	"type": "inproceedings",
 	"venue": "DATE",

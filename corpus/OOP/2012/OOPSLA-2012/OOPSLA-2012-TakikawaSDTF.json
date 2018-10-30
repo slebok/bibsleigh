@@ -1,17 +1,35 @@
 {
-	"author": ["Asumu Takikawa", "T. Stephen Strickland", "Christos Dimoulas", "Sam Tobin-Hochstadt", "Matthias Felleisen"],
-	"booktitle": "Proceedings of the 27th Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Asumu Takikawa",
+		"T. Stephen Strickland",
+		"Christos Dimoulas",
+		"Sam Tobin-Hochstadt",
+		"Matthias Felleisen"
+	],
+	"booktitle": "Proceedings of the 27th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2012",
 	"dblpkey": "conf/oopsla/TakikawaSDTF12",
 	"doi": "10.1145/2384616.2384674",
-	"editor": ["Gary T. Leavens", "Matthew B. Dwyer"],
+	"editor": [
+		"Gary T. Leavens",
+		"Matthew B. Dwyer"
+	],
 	"ee": "http://doi.acm.org/10.1145/2384616.2384674",
 	"isbn": "978-1-4503-1561-6",
 	"pages": "793-810",
 	"publisher": "ACM",
-	"stemmed": ["gradual", "type", "for", "first", "class", "class"],
-	"tag": ["type system"],
+	"stemmed": [
+		"gradual",
+		"type",
+		"for",
+		"first",
+		"class",
+		"class"
+	],
+	"tag": [
+		"type system"
+	],
 	"title": "Gradual typing for first-class classes",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

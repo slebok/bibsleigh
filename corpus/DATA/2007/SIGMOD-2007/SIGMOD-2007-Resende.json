@@ -1,6 +1,6 @@
 {
 	"author": "Luciano Resende",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/Resende07",
@@ -8,8 +8,25 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247582",
 	"pages": "895-897",
 	"publisher": "ACM",
-	"stemmed": ["handl", "heterogen", "data", "sourc", "in", "a", "soa", "environ", "with", "servic", "data", "object", "sdo"],
-	"tag": ["data flow", "semistructured data"],
+	"stemmed": [
+		"handl",
+		"heterogen",
+		"data",
+		"sourc",
+		"in",
+		"a",
+		"soa",
+		"environ",
+		"with",
+		"servic",
+		"data",
+		"object",
+		"sdo"
+	],
+	"tag": [
+		"data flow",
+		"semistructured data"
+	],
 	"title": "Handling heterogeneous data sources in a SOA environment with service data objects (SDO)",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,17 +1,39 @@
 {
-	"author": ["Kazunori Ogata", "Tamiya Onodera", "Kiyokuni Kawachiya", "Hideaki Komatsu", "Toshio Nakatani"],
-	"booktitle": "Proceedings of the 21th Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Kazunori Ogata",
+		"Tamiya Onodera",
+		"Kiyokuni Kawachiya",
+		"Hideaki Komatsu",
+		"Toshio Nakatani"
+	],
+	"booktitle": "Proceedings of the 21th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2006",
 	"dblpkey": "conf/oopsla/OgataOKKN06",
 	"doi": "10.1145/1167473.1167493",
-	"editor": ["Peri L. Tarr", "William R. Cook"],
+	"editor": [
+		"Peri L. Tarr",
+		"William R. Cook"
+	],
 	"ee": "http://doi.acm.org/10.1145/1167473.1167493",
 	"isbn": "1-59593-348-4",
 	"pages": "241-252",
 	"publisher": "ACM",
-	"stemmed": ["replay", "compil", "improv", "debugg", "of", "a", "just", "in", "time", "compil"],
-	"tag": ["compilation"],
+	"stemmed": [
+		"replay",
+		"compil",
+		"improv",
+		"debugg",
+		"of",
+		"a",
+		"just",
+		"in",
+		"time",
+		"compil"
+	],
+	"tag": [
+		"compilation"
+	],
 	"title": "Replay compilation: improving debuggability of a just-in-time compiler",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

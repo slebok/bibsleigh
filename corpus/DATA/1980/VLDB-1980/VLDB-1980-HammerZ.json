@@ -1,15 +1,44 @@
 {
-	"author": ["Michael Hammer", "Stanley B. Zdonik"],
-	"booktitle": "VLDB",
+	"author": [
+		"Michael Hammer",
+		"Stanley B. Zdonik"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB80/P137.PDF",
-	"cite": ["journals/cacm/AstrahanC75", "...", "...", "...", "...", "persons/Codd72", "conf/sigmod/Gotlieb75", "conf/sigmod/HammerM78", "...", "conf/sigmod/Minker75", "...", "conf/vldb/RoussopoulosM75", "...", "journals/tods/WongY76", "journals/tods/Yao79", "..."],
+	"cite": [
+		"journals/cacm/AstrahanC75",
+		"...",
+		"...",
+		"...",
+		"...",
+		"persons/Codd72",
+		"conf/sigmod/Gotlieb75",
+		"conf/sigmod/HammerM78",
+		"...",
+		"conf/sigmod/Minker75",
+		"...",
+		"conf/vldb/RoussopoulosM75",
+		"...",
+		"journals/tods/WongY76",
+		"journals/tods/Yao79",
+		"..."
+	],
 	"crossref": "conf/vldb/80",
 	"dblpkey": "conf/vldb/HammerZ80",
 	"pages": "137-147",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["knowledg", "base", "queri", "process"],
-	"tag": ["knowledge-based", "query"],
+	"stemmed": [
+		"knowledg",
+		"base",
+		"queri",
+		"process"
+	],
+	"tag": [
+		"knowledge-based",
+		"query"
+	],
 	"title": "Knowledge-Based Query Processing",
 	"type": "inproceedings",
 	"venue": "VLDB",

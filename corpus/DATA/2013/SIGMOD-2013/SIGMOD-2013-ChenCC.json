@@ -1,6 +1,10 @@
 {
-	"author": ["Lisi Chen", "Gao Cong", "Xin Cao"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Lisi Chen",
+		"Gao Cong",
+		"Xin Cao"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/ChenCC13",
@@ -8,8 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465328",
 	"pages": "749-760",
 	"publisher": "ACM",
-	"stemmed": ["an", "effici", "queri", "index", "mechan", "for", "filter", "geo", "textual", "data"],
-	"tag": ["performance", "query"],
+	"stemmed": [
+		"an",
+		"effici",
+		"queri",
+		"index",
+		"mechan",
+		"for",
+		"filter",
+		"geo",
+		"textual",
+		"data"
+	],
+	"tag": [
+		"performance",
+		"query"
+	],
 	"title": "An efficient query indexing mechanism for filtering geo-textual data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

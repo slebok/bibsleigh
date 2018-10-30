@@ -1,16 +1,44 @@
 {
 	"author": "Jorma Rissanen",
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS82/P023.PDF", "journals/anthology/dvd1:text/1-3/PODS82/P023.PDF"],
-	"cite": ["conf/focs/AhoBU77", "conf/ifip/Armstrong74", "conf/sigmod/BeeriFH77", "...", "conf/stoc/BeeriFMMUY81", "conf/stoc/BeeriMSU79", "journals/cacm/Codd70", "...", "...", "journals/jacm/Honeyman82", "journals/tods/Mendelzon84", "journals/jcss/MaierMSU80", "journals/tods/Rissanen77", "conf/mfcs/Rissanen78"],
+	"booktitle": "Proceedings of the First Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS82/P023.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS82/P023.PDF"
+	],
+	"cite": [
+		"conf/focs/AhoBU77",
+		"conf/ifip/Armstrong74",
+		"conf/sigmod/BeeriFH77",
+		"...",
+		"conf/stoc/BeeriFMMUY81",
+		"conf/stoc/BeeriMSU79",
+		"journals/cacm/Codd70",
+		"...",
+		"...",
+		"journals/jacm/Honeyman82",
+		"journals/tods/Mendelzon84",
+		"journals/jcss/MaierMSU80",
+		"journals/tods/Rissanen77",
+		"conf/mfcs/Rissanen78"
+	],
 	"crossref": "conf/pods/82",
 	"dblpkey": "conf/pods/Rissanen82",
 	"doi": "10.1145/588111.588116",
 	"ee": "http://doi.acm.org/10.1145/588111.588116",
 	"pages": "23-26",
 	"publisher": "ACM",
-	"stemmed": ["on", "equival", "of", "databas", "scheme"],
-	"tag": ["database", "on the"],
+	"stemmed": [
+		"on",
+		"equival",
+		"of",
+		"databas",
+		"scheme"
+	],
+	"tag": [
+		"database",
+		"on the"
+	],
 	"title": "On Equivalences of Database Schemes",
 	"type": "inproceedings",
 	"venue": "PODS",

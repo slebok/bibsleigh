@@ -1,14 +1,36 @@
 {
-	"author": ["Shobeir Fakhraei", "James R. Foulds", "Madhusudana V. S. Shashanka", "Lise Getoor"],
-	"booktitle": "KDD",
+	"author": [
+		"Shobeir Fakhraei",
+		"James R. Foulds",
+		"Madhusudana V. S. Shashanka",
+		"Lise Getoor"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/FakhraeiFSG15",
 	"doi": "10.1145/2783258.2788606",
 	"ee": "http://doi.acm.org/10.1145/2783258.2788606",
 	"pages": "1769-1778",
 	"publisher": "ACM",
-	"stemmed": ["collect", "spammer", "detect", "in", "evolv", "multi", "relat", "social", "network"],
-	"tag": ["detection", "evolution", "multi", "network", "social"],
+	"stemmed": [
+		"collect",
+		"spammer",
+		"detect",
+		"in",
+		"evolv",
+		"multi",
+		"relat",
+		"social",
+		"network"
+	],
+	"tag": [
+		"detection",
+		"evolution",
+		"multi",
+		"network",
+		"social"
+	],
 	"title": "Collective Spammer Detection in Evolving Multi-Relational Social Networks",
 	"type": "inproceedings",
 	"venue": "KDD",

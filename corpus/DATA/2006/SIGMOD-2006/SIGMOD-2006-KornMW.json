@@ -1,6 +1,10 @@
 {
-	"author": ["Flip Korn", "S. Muthukrishnan", "Yihua Wu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Flip Korn",
+		"S. Muthukrishnan",
+		"Yihua Wu"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/KornMW06",
@@ -8,8 +12,17 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142495",
 	"pages": "181-192",
 	"publisher": "ACM",
-	"stemmed": ["model", "skew", "in", "data", "stream"],
-	"tag": ["data type", "modelling"],
+	"stemmed": [
+		"model",
+		"skew",
+		"in",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"data type",
+		"modelling"
+	],
 	"title": "Modeling skew in data streams",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

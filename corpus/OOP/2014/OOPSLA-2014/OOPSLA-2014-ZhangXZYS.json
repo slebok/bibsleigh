@@ -1,6 +1,12 @@
 {
-	"author": ["Qirun Zhang", "Xiao Xiao", "Charles Zhang", "Hao Yuan", "Zhendong Su"],
-	"booktitle": "Proceedings of the 29th International Conference on Object Oriented Programming Systems Languages & Applications",
+	"author": [
+		"Qirun Zhang",
+		"Xiao Xiao",
+		"Charles Zhang",
+		"Hao Yuan",
+		"Zhendong Su"
+	],
+	"booktitle": "Proceedings of the 29th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2014",
 	"dblpkey": "conf/oopsla/ZhangXZYS14",
@@ -8,8 +14,20 @@
 	"ee": "http://doi.acm.org/10.1145/2660193.2660213",
 	"pages": "829-845",
 	"publisher": "ACM",
-	"stemmed": ["effici", "subcub", "alia", "analysi", "for", "c"],
-	"tag": ["alias", "analysis", "c", "performance"],
+	"stemmed": [
+		"effici",
+		"subcub",
+		"alia",
+		"analysi",
+		"for",
+		"c"
+	],
+	"tag": [
+		"alias",
+		"analysis",
+		"c",
+		"performance"
+	],
 	"title": "Efficient subcubic alias analysis for C",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

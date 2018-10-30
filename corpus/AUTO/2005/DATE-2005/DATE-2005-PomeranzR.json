@@ -1,6 +1,10 @@
 {
-	"author": ["Irith Pomeranz", "Sudhakar M. Reddy"],
-	"booktitle": "DATE",
+	"author": [
+		"Irith Pomeranz",
+		"Sudhakar M. Reddy"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/PomeranzR05",
 	"doi": "10.1109/DATE.2005.330",
@@ -8,8 +12,25 @@
 	"pages": "444-449",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["worst", "case", "and", "averag", "case", "analysi", "of", "n", "detect", "test", "set"],
-	"tag": ["analysis", "detection", "testing", "worst-case"],
+	"stemmed": [
+		"worst",
+		"case",
+		"and",
+		"averag",
+		"case",
+		"analysi",
+		"of",
+		"n",
+		"detect",
+		"test",
+		"set"
+	],
+	"tag": [
+		"analysis",
+		"detection",
+		"testing",
+		"worst-case"
+	],
 	"title": "Worst-Case and Average-Case Analysis of n-Detection Test Sets",
 	"type": "inproceedings",
 	"venue": "DATE",

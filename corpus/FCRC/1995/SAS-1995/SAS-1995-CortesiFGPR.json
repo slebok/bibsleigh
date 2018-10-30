@@ -1,6 +1,13 @@
 {
-	"author": ["Agostino Cortesi", "Gilberto Filé", "Roberto Giacobazzi", "Catuscia Palamidessi", "Francesco Ranzato"],
+	"author": [
+		"Agostino Cortesi",
+		"Gilberto Filé",
+		"Roberto Giacobazzi",
+		"Catuscia Palamidessi",
+		"Francesco Ranzato"
+	],
 	"booktitle": "Proceedings of the Second International Static Analysis Symposium",
+	"booktitleshort": "SAS",
 	"crossref": "conf/sas/95",
 	"dblpkey": "conf/sas/CortesiFGPR95",
 	"doi": "10.1007/3-540-60360-3_35",
@@ -10,11 +17,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["complement", "in", "abstract", "interpret"],
-	"tag": ["abstract interpretation"],
+	"stemmed": [
+		"complement",
+		"in",
+		"abstract",
+		"interpret"
+	],
+	"tag": [
+		"abstract interpretation"
+	],
 	"title": "Complementation in Abstract Interpretation",
 	"type": "inproceedings",
 	"venue": "SAS",
-	"volume": 983,
+	"volume": "983",
 	"year": 1995
 }

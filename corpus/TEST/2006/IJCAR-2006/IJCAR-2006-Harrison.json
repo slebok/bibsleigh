@@ -1,6 +1,7 @@
 {
 	"author": "John Harrison",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/Harrison06",
 	"doi": "10.1007/11814771_17",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["toward", "self", "verif", "of", "hol", "light"],
-	"tag": ["self", "towards"],
+	"stemmed": [
+		"toward",
+		"self",
+		"verif",
+		"of",
+		"hol",
+		"light"
+	],
+	"tag": [
+		"self",
+		"towards"
+	],
 	"title": "Towards Self-verification of HOL Light",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

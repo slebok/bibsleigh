@@ -1,14 +1,38 @@
 {
-	"author": ["Walter Lee", "Rajeev Barua", "Matthew Frank", "Devabhaktuni Srikrishna", "Jonathan Babb", "Vivek Sarkar", "Saman P. Amarasinghe"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Walter Lee",
+		"Rajeev Barua",
+		"Matthew Frank",
+		"Devabhaktuni Srikrishna",
+		"Jonathan Babb",
+		"Vivek Sarkar",
+		"Saman P. Amarasinghe"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1998",
 	"dblpkey": "conf/asplos/LeeBFSBSA98",
 	"doi": "10.1145/291069.291018",
 	"ee": "http://doi.acm.org/10.1145/291069.291018",
 	"pages": "46-57",
 	"publisher": "ACM Press",
-	"stemmed": ["space", "time", "schedul", "of", "instruct", "level", "parallel", "on", "a", "raw", "machin"],
-	"tag": ["parallel", "scheduling"],
+	"stemmed": [
+		"space",
+		"time",
+		"schedul",
+		"of",
+		"instruct",
+		"level",
+		"parallel",
+		"on",
+		"a",
+		"raw",
+		"machin"
+	],
+	"tag": [
+		"parallel",
+		"scheduling"
+	],
 	"title": "Space-Time Scheduling of Instruction-Level Parallelism on a Raw Machine",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,14 +1,36 @@
 {
-	"author": ["Qiang Zhu", "Aviral Shrivastava", "Nikil Dutt"],
-	"booktitle": "DATE",
+	"author": [
+		"Qiang Zhu",
+		"Aviral Shrivastava",
+		"Nikil Dutt"
+	],
+	"booktitle": "Proceedings of the 11th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2007",
 	"dblpkey": "conf/date/ZhuSD07",
 	"doi": "10.1145/1266366.1266617",
 	"ee": "http://doi.acm.org/10.1145/1266366.1266617",
 	"pages": "1164-1169",
 	"publisher": "ACM",
-	"stemmed": ["interact", "present", "function", "and", "time", "valid", "of", "partial", "bypass", "processor", "pipelin"],
-	"tag": ["functional", "interactive", "pipes and filters", "validation"],
+	"stemmed": [
+		"interact",
+		"present",
+		"function",
+		"and",
+		"time",
+		"valid",
+		"of",
+		"partial",
+		"bypass",
+		"processor",
+		"pipelin"
+	],
+	"tag": [
+		"functional",
+		"interactive",
+		"pipes and filters",
+		"validation"
+	],
 	"title": "Interactive presentation: Functional and timing validation of partially bypassed processor pipelines",
 	"type": "inproceedings",
 	"venue": "DATE",

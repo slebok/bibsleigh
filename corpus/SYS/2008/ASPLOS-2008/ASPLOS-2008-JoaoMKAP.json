@@ -1,14 +1,38 @@
 {
-	"author": ["José A. Joao", "Onur Mutlu", "Hyesoon Kim", "Rishi Agarwal", "Yale N. Patt"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"José A. Joao",
+		"Onur Mutlu",
+		"Hyesoon Kim",
+		"Rishi Agarwal",
+		"Yale N. Patt"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2008",
 	"dblpkey": "conf/asplos/JoaoMKAP08",
 	"doi": "10.1145/1346281.1346293",
 	"ee": "http://doi.acm.org/10.1145/1346281.1346293",
 	"pages": "80-90",
 	"publisher": "ACM",
-	"stemmed": ["improv", "the", "perform", "of", "object", "orient", "languag", "with", "dynam", "predic", "of", "indirect", "jump"],
-	"tag": ["object-oriented", "performance"],
+	"stemmed": [
+		"improv",
+		"the",
+		"perform",
+		"of",
+		"object",
+		"orient",
+		"languag",
+		"with",
+		"dynam",
+		"predic",
+		"of",
+		"indirect",
+		"jump"
+	],
+	"tag": [
+		"object-oriented",
+		"performance"
+	],
 	"title": "Improving the performance of object-oriented languages with dynamic predication of indirect jumps",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

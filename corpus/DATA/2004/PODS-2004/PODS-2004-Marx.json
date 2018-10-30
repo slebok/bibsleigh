@@ -1,14 +1,32 @@
 {
 	"author": "Maarten Marx",
-	"booktitle": "PODS",
+	"booktitle": "Proceedings of the 23rd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2004",
 	"dblpkey": "conf/pods/Marx04",
 	"doi": "10.1145/1055558.1055562",
-	"ee": ["http://doi.acm.org/10.1145/1055558.1055562", "http://www.acm.org/sigmod/pods/proc04/pdf/P-02.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1055558.1055562",
+		"http://www.acm.org/sigmod/pods/proc04/pdf/P-02.pdf"
+	],
 	"pages": "13-22",
 	"publisher": "ACM",
-	"stemmed": ["condit", "x", "path", "the", "first", "order", "complet", "x", "path", "dialect"],
-	"tag": ["first-order", "xpath"],
+	"stemmed": [
+		"condit",
+		"x",
+		"path",
+		"the",
+		"first",
+		"order",
+		"complet",
+		"x",
+		"path",
+		"dialect"
+	],
+	"tag": [
+		"first-order",
+		"xpath"
+	],
 	"title": "Conditional XPath, the First Order Complete XPath Dialect",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,6 +1,7 @@
 {
 	"author": "L. Vincent",
-	"booktitle": "ICDAR",
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/Vincent07",
 	"doi": "10.1109/ICDAR.2007.125",
@@ -8,8 +9,21 @@
 	"pages": "819-823",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["googl", "book", "search", "document", "understand", "on", "a", "massiv", "scale"],
-	"tag": ["comprehension", "documentation"],
+	"stemmed": [
+		"googl",
+		"book",
+		"search",
+		"document",
+		"understand",
+		"on",
+		"a",
+		"massiv",
+		"scale"
+	],
+	"tag": [
+		"comprehension",
+		"documentation"
+	],
 	"title": "Google Book Search: Document Understanding on a Massive Scale",
 	"type": "inproceedings",
 	"venue": "ICDAR",

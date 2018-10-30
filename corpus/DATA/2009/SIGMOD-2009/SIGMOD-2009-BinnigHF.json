@@ -1,6 +1,10 @@
 {
-	"author": ["Carsten Binnig", "Stefan Hildenbrand", "Franz Färber"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Carsten Binnig",
+		"Stefan Hildenbrand",
+		"Franz Färber"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/BinnigHF09",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559877",
 	"pages": "283-296",
 	"publisher": "ACM",
-	"stemmed": ["dictionari", "base", "order", "preserv", "string", "compress", "for", "main", "memori", "column", "store"],
-	"tag": ["in memory", "memory management", "string"],
+	"stemmed": [
+		"dictionari",
+		"base",
+		"order",
+		"preserv",
+		"string",
+		"compress",
+		"for",
+		"main",
+		"memori",
+		"column",
+		"store"
+	],
+	"tag": [
+		"in memory",
+		"memory management",
+		"string"
+	],
 	"title": "Dictionary-based order-preserving string compression for main memory column stores",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

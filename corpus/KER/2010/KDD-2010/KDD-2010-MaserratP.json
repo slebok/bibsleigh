@@ -1,14 +1,30 @@
 {
-	"author": ["Hossein Maserrat", "Jian Pei"],
-	"booktitle": "KDD",
+	"author": [
+		"Hossein Maserrat",
+		"Jian Pei"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/MaserratP10",
 	"doi": "10.1145/1835804.1835873",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835873",
 	"pages": "533-542",
 	"publisher": "ACM",
-	"stemmed": ["neighbor", "queri", "friend", "compress", "of", "social", "network"],
-	"tag": ["network", "query", "social"],
+	"stemmed": [
+		"neighbor",
+		"queri",
+		"friend",
+		"compress",
+		"of",
+		"social",
+		"network"
+	],
+	"tag": [
+		"network",
+		"query",
+		"social"
+	],
 	"title": "Neighbor query friendly compression of social networks",
 	"type": "inproceedings",
 	"venue": "KDD",

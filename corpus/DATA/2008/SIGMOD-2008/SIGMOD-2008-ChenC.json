@@ -1,6 +1,9 @@
 {
-	"author": ["Ding Chen", "Chee Yong Chan"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ding Chen",
+		"Chee Yong Chan"
+	],
+	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2008",
 	"dblpkey": "conf/sigmod/ChenC08",
@@ -8,8 +11,19 @@
 	"ee": "http://doi.acm.org/10.1145/1376616.1376678",
 	"pages": "609-622",
 	"publisher": "ACM",
-	"stemmed": ["minim", "of", "tree", "pattern", "queri", "with", "constraint"],
-	"tag": ["constraints", "query"],
+	"stemmed": [
+		"minim",
+		"of",
+		"tree",
+		"pattern",
+		"queri",
+		"with",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"query"
+	],
 	"title": "Minimization of tree pattern queries with constraints",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

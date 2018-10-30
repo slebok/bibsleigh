@@ -1,6 +1,7 @@
 {
 	"author": "Martin Protzen",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/Protzen94",
 	"doi": "10.1007/3-540-58156-1_4",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["lazi", "generat", "of", "induct", "hypothes"],
-	"tag": ["generative", "induction", "lazy evaluation"],
+	"stemmed": [
+		"lazi",
+		"generat",
+		"of",
+		"induct",
+		"hypothes"
+	],
+	"tag": [
+		"generative",
+		"induction",
+		"lazy evaluation"
+	],
 	"title": "Lazy Generation of Induction Hypotheses",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

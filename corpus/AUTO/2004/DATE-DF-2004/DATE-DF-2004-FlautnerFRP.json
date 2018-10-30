@@ -1,6 +1,12 @@
 {
-	"author": ["Krisztián Flautner", "David Flynn", "David Roberts", "Dipesh I. Patel"],
-	"booktitle": "DATE",
+	"author": [
+		"Krisztián Flautner",
+		"David Flynn",
+		"David Roberts",
+		"Dipesh I. Patel"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Designers’ Forum",
+	"booktitleshort": "DATE DF",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/FlautnerFRP04",
 	"doi": "10.1109/DATE.2004.1269261",
@@ -8,8 +14,24 @@
 	"pages": "324-329",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["iem", "an", "energi", "effici", "so", "c", "with", "dynam", "voltag", "scale"],
-	"tag": ["energy", "named", "performance", "scalability"],
+	"stemmed": [
+		"iem",
+		"an",
+		"energi",
+		"effici",
+		"so",
+		"c",
+		"with",
+		"dynam",
+		"voltag",
+		"scale"
+	],
+	"tag": [
+		"energy",
+		"named",
+		"performance",
+		"scalability"
+	],
 	"title": "IEM926: An Energy Efficient SoC with Dynamic Voltage Scaling",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,6 +1,7 @@
 {
 	"author": "Delia Kesner",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/Kesner92",
 	"doi": "10.1007/3-540-55602-8_195",
@@ -10,11 +11,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["free", "sequenti", "in", "orthogon", "order", "sort", "rewrit", "system", "with", "constructor"],
-	"tag": ["order", "orthogonal", "term rewriting"],
+	"stemmed": [
+		"free",
+		"sequenti",
+		"in",
+		"orthogon",
+		"order",
+		"sort",
+		"rewrit",
+		"system",
+		"with",
+		"constructor"
+	],
+	"tag": [
+		"order",
+		"orthogonal",
+		"term rewriting"
+	],
 	"title": "Free Sequentially in Orthogonal Order-Sorted Rewriting Systems with Constructors",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

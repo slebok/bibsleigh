@@ -1,13 +1,31 @@
 {
-	"author": ["Swarnendu Biswas", "Minjia Zhang", "Michael D. Bond", "Brandon Lucia"],
-	"booktitle": "OOPSLA",
+	"author": [
+		"Swarnendu Biswas",
+		"Minjia Zhang",
+		"Michael D. Bond",
+		"Brandon Lucia"
+	],
+	"booktitle": "Proceedings of the 30th Conference on Object-Oriented Programming, Systems, Languages and Applications",
+	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2015",
 	"dblpkey": "conf/oopsla/BiswasZBL15",
 	"doi": "10.1145/2814270.2814292",
 	"pages": "241-259",
 	"publisher": "ACM",
-	"stemmed": ["valor", "effici", "softwar", "onli", "region", "conflict", "except"],
-	"tag": ["exception", "named", "performance"],
+	"stemmed": [
+		"valor",
+		"effici",
+		"softwar",
+		"onli",
+		"region",
+		"conflict",
+		"except"
+	],
+	"tag": [
+		"exception",
+		"named",
+		"performance"
+	],
 	"title": "Valor: efficient, software-only region conflict exceptions",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

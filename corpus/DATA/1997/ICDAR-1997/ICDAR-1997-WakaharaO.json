@@ -1,6 +1,10 @@
 {
-	"author": ["Toru Wakahara", "Kazumi Odaka"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Toru Wakahara",
+		"Kazumi Odaka"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/1997",
 	"dblpkey": "conf/icdar/WakaharaO97",
 	"doi": "10.1109/ICDAR.1997.619808",
@@ -8,8 +12,23 @@
 	"pages": "28-",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["adapt", "normal", "of", "handwritten", "charact", "use", "global", "local", "affin", "transform"],
-	"tag": ["adaptation", "normalisation", "using"],
+	"stemmed": [
+		"adapt",
+		"normal",
+		"of",
+		"handwritten",
+		"charact",
+		"use",
+		"global",
+		"local",
+		"affin",
+		"transform"
+	],
+	"tag": [
+		"adaptation",
+		"normalisation",
+		"using"
+	],
 	"title": "Adaptive Normalization of Handwritten Characters Using Global/Local Affine Transformation",
 	"type": "inproceedings",
 	"venue": "ICDAR",

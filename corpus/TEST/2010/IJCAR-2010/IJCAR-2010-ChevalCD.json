@@ -1,6 +1,11 @@
 {
-	"author": ["Vincent Cheval", "Hubert Comon-Lundh", "Stéphanie Delaune"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Vincent Cheval",
+		"Hubert Comon-Lundh",
+		"Stéphanie Delaune"
+	],
+	"booktitle": "Proceedings of the Fifth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2010",
 	"dblpkey": "conf/cade/ChevalCD10",
 	"doi": "10.1007/978-3-642-14203-1_35",
@@ -10,11 +15,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["autom", "secur", "analysi", "symbol", "equival", "of", "constraint", "system"],
-	"tag": ["analysis", "automation", "constraints", "equivalence", "security"],
+	"stemmed": [
+		"autom",
+		"secur",
+		"analysi",
+		"symbol",
+		"equival",
+		"of",
+		"constraint",
+		"system"
+	],
+	"tag": [
+		"analysis",
+		"automation",
+		"constraints",
+		"equivalence",
+		"security"
+	],
 	"title": "Automating Security Analysis: Symbolic Equivalence of Constraint Systems",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 6173,
+	"volume": "6173",
 	"year": 2010
 }

@@ -1,13 +1,30 @@
 {
-	"author": ["Jeff Smits", "Eelco Visser"],
-	"booktitle": "SLE",
+	"author": [
+		"Jeff Smits",
+		"Eelco Visser"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Software Language Engineering",
+	"booktitleshort": "SLE",
 	"crossref": "conf/sle/2017",
 	"dblpkey": "conf/sle/SmitsV17",
 	"doi": "10.1145/3136014.3136029",
 	"pages": "221-231",
 	"publisher": "ACM",
-	"stemmed": ["flow", "spec", "declar", "dataflow", "analysi", "specif"],
-	"tag": ["analysis", "data flow", "declarative", "named", "specification"],
+	"stemmed": [
+		"flow",
+		"spec",
+		"declar",
+		"dataflow",
+		"analysi",
+		"specif"
+	],
+	"tag": [
+		"analysis",
+		"data flow",
+		"declarative",
+		"named",
+		"specification"
+	],
 	"title": "FlowSpec: declarative dataflow analysis specification",
 	"type": "inproceedings",
 	"venue": "SLE",

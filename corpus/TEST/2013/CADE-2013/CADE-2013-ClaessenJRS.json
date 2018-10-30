@@ -1,6 +1,12 @@
 {
-	"author": ["Koen Claessen", "Moa Johansson", "Dan Rosén", "Nicholas Smallbone"],
-	"booktitle": "CADE",
+	"author": [
+		"Koen Claessen",
+		"Moa Johansson",
+		"Dan Rosén",
+		"Nicholas Smallbone"
+	],
+	"booktitle": "Proceedings of the 24th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2013",
 	"dblpkey": "conf/cade/ClaessenJRS13",
 	"doi": "10.1007/978-3-642-38574-2_27",
@@ -10,11 +16,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["autom", "induct", "proof", "use", "theori", "explor"],
-	"tag": ["automation", "induction", "proving", "using"],
+	"stemmed": [
+		"autom",
+		"induct",
+		"proof",
+		"use",
+		"theori",
+		"explor"
+	],
+	"tag": [
+		"automation",
+		"induction",
+		"proving",
+		"using"
+	],
 	"title": "Automating Inductive Proofs Using Theory Exploration",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 7898,
+	"volume": "7898",
 	"year": 2013
 }

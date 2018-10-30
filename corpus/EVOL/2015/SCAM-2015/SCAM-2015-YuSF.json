@@ -1,13 +1,28 @@
 {
-	"author": ["Hengyang Yu", "Xiaohua Shi", "Wei Feng"],
-	"booktitle": "SCAM",
+	"author": [
+		"Hengyang Yu",
+		"Xiaohua Shi",
+		"Wei Feng"
+	],
+	"booktitle": "Proceedings of the 15th International Working Conference on Source Code Analysis and Manipulation",
+	"booktitleshort": "SCAM",
 	"crossref": "conf/scam/2015",
 	"dblpkey": "conf/scam/YuSF15",
 	"doi": "10.1109/SCAM.2015.7335414",
 	"pages": "181-190",
 	"publisher": "IEEE",
-	"stemmed": ["leak", "tracer", "trace", "leak", "along", "the", "way"],
-	"tag": ["named"],
+	"stemmed": [
+		"leak",
+		"tracer",
+		"trace",
+		"leak",
+		"along",
+		"the",
+		"way"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "LeakTracer: Tracing leaks along the way",
 	"type": "inproceedings",
 	"venue": "SCAM",

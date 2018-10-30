@@ -1,13 +1,28 @@
 {
-	"author": ["Stephan Brandauer", "Dave Clarke", "Tobias Wrigstad"],
-	"booktitle": "OOPSLA",
+	"author": [
+		"Stephan Brandauer",
+		"Dave Clarke",
+		"Tobias Wrigstad"
+	],
+	"booktitle": "Proceedings of the 30th Conference on Object-Oriented Programming, Systems, Languages and Applications",
+	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2015",
 	"dblpkey": "conf/oopsla/BrandauerCW15",
 	"doi": "10.1145/2814270.2814280",
 	"pages": "898-916",
 	"publisher": "ACM",
-	"stemmed": ["disjoint", "domain", "for", "fine", "grain", "alias"],
-	"tag": ["alias", "fine-grained"],
+	"stemmed": [
+		"disjoint",
+		"domain",
+		"for",
+		"fine",
+		"grain",
+		"alias"
+	],
+	"tag": [
+		"alias",
+		"fine-grained"
+	],
 	"title": "Disjointness domains for fine-grained aliasing",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

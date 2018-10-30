@@ -1,12 +1,35 @@
 {
-	"address": ["Cincinnati", "Ohio", "USA"],
-	"author": ["Steven Prestwich", "Stéphane Bressan"],
+	"address": [
+		"Cincinnati",
+		"Ohio",
+		"USA"
+	],
+	"author": [
+		"Steven Prestwich",
+		"Stéphane Bressan"
+	],
 	"booktitle": "Proceedings of the Fifth International Symposium on the Theory and Applications of Satisfiability Testing",
+	"booktitleshort": "SAT",
 	"editor": "John Franco",
 	"month": "may",
-	"pages": 33,
-	"stemmed": ["a", "sat", "approach", "to", "queri", "optim", "in", "mediat", "system"],
-	"tag": ["approach", "optimisation", "query", "satisfiability"],
+	"pages": "33",
+	"stemmed": [
+		"a",
+		"sat",
+		"approach",
+		"to",
+		"queri",
+		"optim",
+		"in",
+		"mediat",
+		"system"
+	],
+	"tag": [
+		"approach",
+		"optimisation",
+		"query",
+		"satisfiability"
+	],
 	"title": "A SAT approach to query optimization in mediator systems",
 	"type": "inproceedings",
 	"venue": "SAT",

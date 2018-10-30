@@ -1,14 +1,39 @@
 {
-	"author": ["Wei Zhang", "Marc de Kruijf", "Ang Li", "Shan Lu", "Karthikeyan Sankaralingam"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Wei Zhang",
+		"Marc de Kruijf",
+		"Ang Li",
+		"Shan Lu",
+		"Karthikeyan Sankaralingam"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2013",
 	"dblpkey": "conf/asplos/ZhangKLLS13",
 	"doi": "10.1145/2451116.2451129",
 	"ee": "http://doi.acm.org/10.1145/2451116.2451129",
 	"pages": "113-126",
 	"publisher": "ACM",
-	"stemmed": ["con", "air", "featherweight", "concurr", "bug", "recoveri", "via", "singl", "thread", "idempot", "execut"],
-	"tag": ["concurrent", "debugging", "execution", "named", "thread"],
+	"stemmed": [
+		"con",
+		"air",
+		"featherweight",
+		"concurr",
+		"bug",
+		"recoveri",
+		"via",
+		"singl",
+		"thread",
+		"idempot",
+		"execut"
+	],
+	"tag": [
+		"concurrent",
+		"debugging",
+		"execution",
+		"named",
+		"thread"
+	],
 	"title": "ConAir: featherweight concurrency bug recovery via single-threaded idempotent execution",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

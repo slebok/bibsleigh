@@ -1,6 +1,11 @@
 {
-	"author": ["Douglas Densmore", "Sanjay Rekhi", "Alberto L. Sangiovanni-Vincentelli"],
-	"booktitle": "DATE",
+	"author": [
+		"Douglas Densmore",
+		"Sanjay Rekhi",
+		"Alberto L. Sangiovanni-Vincentelli"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/DensmoreRS04",
 	"doi": "10.1109/DATE.2004.1268871",
@@ -8,8 +13,21 @@
 	"pages": "346-351",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["microarchitectur", "develop", "via", "metropoli", "success", "platform", "refin"],
-	"tag": ["architecture", "development", "framework", "refinement"],
+	"stemmed": [
+		"microarchitectur",
+		"develop",
+		"via",
+		"metropoli",
+		"success",
+		"platform",
+		"refin"
+	],
+	"tag": [
+		"architecture",
+		"development",
+		"framework",
+		"refinement"
+	],
 	"title": "Microarchitecture Development via Metropolis Successive Platform Refinement",
 	"type": "inproceedings",
 	"venue": "DATE",

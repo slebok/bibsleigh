@@ -1,14 +1,28 @@
 {
-	"author": ["Ziqi Liu", "Yu-Xiang Wang", "Alexander J. Smola"],
-	"booktitle": "RecSys",
+	"author": [
+		"Ziqi Liu",
+		"Yu-Xiang Wang",
+		"Alexander J. Smola"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2015",
 	"dblpkey": "conf/recsys/LiuWS15",
 	"doi": "10.1145/2792838.2800191",
 	"ee": "http://doi.acm.org/10.1145/2792838.2800191",
 	"pages": "171-178",
 	"publisher": "ACM",
-	"stemmed": ["fast", "differenti", "privat", "matrix", "factor"],
-	"tag": ["matrix", "performance"],
+	"stemmed": [
+		"fast",
+		"differenti",
+		"privat",
+		"matrix",
+		"factor"
+	],
+	"tag": [
+		"matrix",
+		"performance"
+	],
 	"title": "Fast Differentially Private Matrix Factorization",
 	"type": "inproceedings",
 	"venue": "RecSys",

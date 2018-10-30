@@ -1,15 +1,43 @@
 {
-	"author": ["Richard M. Guest", "Samuel Chindaro", "Michael C. Fairhurst", "Jonathan M. Potter"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Richard M. Guest",
+		"Samuel Chindaro",
+		"Michael C. Fairhurst",
+		"Jonathan M. Potter"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2003",
 	"dblpkey": "conf/icdar/GuestCFP03",
 	"doi": "10.1109/ICDAR.2003.1227808",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2003.1227808", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2003.1227808"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2003.1227808",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2003.1227808"
+	],
 	"pages": "990-994",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["automat", "classif", "of", "hand", "drawn", "geometr", "shape", "use", "construct", "sequenc", "analysi"],
-	"tag": ["analysis", "automation", "classification", "geometry", "sequence", "using"],
+	"stemmed": [
+		"automat",
+		"classif",
+		"of",
+		"hand",
+		"drawn",
+		"geometr",
+		"shape",
+		"use",
+		"construct",
+		"sequenc",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"automation",
+		"classification",
+		"geometry",
+		"sequence",
+		"using"
+	],
 	"title": "Automatic Classification of Hand Drawn Geometric Shapes using Constructional Sequence Analysis",
 	"type": "inproceedings",
 	"venue": "ICDAR",

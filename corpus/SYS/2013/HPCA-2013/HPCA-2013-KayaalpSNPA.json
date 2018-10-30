@@ -1,15 +1,40 @@
 {
-	"author": ["Mehmet Kayaalp", "Timothy Schmitt", "Junaid Nomani", "Dmitry Ponomarev", "Nael B. Abu-Ghazaleh"],
-	"booktitle": "HPCA",
+	"author": [
+		"Mehmet Kayaalp",
+		"Timothy Schmitt",
+		"Junaid Nomani",
+		"Dmitry Ponomarev",
+		"Nael B. Abu-Ghazaleh"
+	],
+	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/KayaalpSNPA13",
 	"doi": "10.1109/HPCA.2013.6522324",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522324", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522324"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2013.6522324",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522324"
+	],
 	"pages": "258-269",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["scrap", "architectur", "for", "signatur", "base", "protect", "from", "code", "reus", "attack"],
-	"tag": ["architecture", "named", "reuse"],
+	"stemmed": [
+		"scrap",
+		"architectur",
+		"for",
+		"signatur",
+		"base",
+		"protect",
+		"from",
+		"code",
+		"reus",
+		"attack"
+	],
+	"tag": [
+		"architecture",
+		"named",
+		"reuse"
+	],
 	"title": "SCRAP: Architecture for signature-based protection from Code Reuse Attacks",
 	"type": "inproceedings",
 	"venue": "HPCA",

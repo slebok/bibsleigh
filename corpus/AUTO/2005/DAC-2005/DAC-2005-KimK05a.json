@@ -1,14 +1,39 @@
 {
-	"author": ["Ho Young Kim", "Tag Gon Kim"],
-	"booktitle": "DAC",
+	"author": [
+		"Ho Young Kim",
+		"Tag Gon Kim"
+	],
+	"booktitle": "Proceedings of the 42nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/KimK05a",
 	"doi": "10.1145/1065579.1065668",
 	"ee": "http://doi.acm.org/10.1145/1065579.1065668",
 	"pages": "341-344",
 	"publisher": "ACM",
-	"stemmed": ["perform", "simul", "model", "for", "fast", "evalu", "of", "pipelin", "scalar", "processor", "by", "evalu", "reus"],
-	"tag": ["evaluation", "modelling", "performance", "pipes and filters", "reuse", "simulation"],
+	"stemmed": [
+		"perform",
+		"simul",
+		"model",
+		"for",
+		"fast",
+		"evalu",
+		"of",
+		"pipelin",
+		"scalar",
+		"processor",
+		"by",
+		"evalu",
+		"reus"
+	],
+	"tag": [
+		"evaluation",
+		"modelling",
+		"performance",
+		"pipes and filters",
+		"reuse",
+		"simulation"
+	],
 	"title": "Performance simulation modeling for fast evaluation of pipelined scalar processor by evaluation reuse",
 	"type": "inproceedings",
 	"venue": "DAC",

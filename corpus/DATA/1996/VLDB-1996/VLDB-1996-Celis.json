@@ -1,13 +1,29 @@
 {
 	"author": "Pedro Celis",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the 22nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/96",
 	"dblpkey": "conf/vldb/Celis96",
 	"ee": "http://www.vldb.org/conf/1996/P592.PDF",
-	"pages": 592,
+	"pages": "592",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["the", "queri", "optim", "in", "tandem", "s", "new", "server", "ware", "sql", "product"],
-	"tag": ["query", "sql"],
+	"stemmed": [
+		"the",
+		"queri",
+		"optim",
+		"in",
+		"tandem",
+		"s",
+		"new",
+		"server",
+		"ware",
+		"sql",
+		"product"
+	],
+	"tag": [
+		"query",
+		"sql"
+	],
 	"title": "The Query Optimizer in Tandem’s new ServerWare SQL Product",
 	"type": "inproceedings",
 	"venue": "VLDB",

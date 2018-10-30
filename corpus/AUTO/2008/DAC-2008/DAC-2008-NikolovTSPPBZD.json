@@ -1,14 +1,39 @@
 {
-	"author": ["Hristo Nikolov", "Mark Thompson", "Todor Stefanov", "Andy D. Pimentel", "Simon Polstra", "R. Bose", "Claudiu Zissulescu", "Ed F. Deprettere"],
-	"booktitle": "DAC",
+	"author": [
+		"Hristo Nikolov",
+		"Mark Thompson",
+		"Todor Stefanov",
+		"Andy D. Pimentel",
+		"Simon Polstra",
+		"R. Bose",
+		"Claudiu Zissulescu",
+		"Ed F. Deprettere"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/NikolovTSPPBZD08",
 	"doi": "10.1145/1391469.1391615",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391615",
 	"pages": "574-579",
 	"publisher": "ACM",
-	"stemmed": ["daedalus", "toward", "compos", "multimedia", "mp", "so", "c", "design"],
-	"tag": ["composition", "design", "multi", "named", "towards"],
+	"stemmed": [
+		"daedalus",
+		"toward",
+		"compos",
+		"multimedia",
+		"mp",
+		"so",
+		"c",
+		"design"
+	],
+	"tag": [
+		"composition",
+		"design",
+		"multi",
+		"named",
+		"towards"
+	],
 	"title": "Daedalus: toward composable multimedia MP-SoC design",
 	"type": "inproceedings",
 	"venue": "DAC",

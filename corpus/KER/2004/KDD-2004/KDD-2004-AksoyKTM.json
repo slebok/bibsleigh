@@ -1,14 +1,37 @@
 {
-	"author": ["Selim Aksoy", "Krzysztof Koperski", "Carsten Tusk", "Giovanni B. Marchisio"],
-	"booktitle": "KDD",
+	"author": [
+		"Selim Aksoy",
+		"Krzysztof Koperski",
+		"Carsten Tusk",
+		"Giovanni B. Marchisio"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2004",
 	"dblpkey": "conf/kdd/AksoyKTM04",
 	"doi": "10.1145/1014052.1016913",
 	"ee": "http://doi.acm.org/10.1145/1014052.1016913",
 	"pages": "773-782",
 	"publisher": "ACM",
-	"stemmed": ["interact", "train", "of", "advanc", "classifi", "for", "mine", "remot", "sens", "imag", "archiv"],
-	"tag": ["classification", "image", "interactive", "mining"],
+	"stemmed": [
+		"interact",
+		"train",
+		"of",
+		"advanc",
+		"classifi",
+		"for",
+		"mine",
+		"remot",
+		"sens",
+		"imag",
+		"archiv"
+	],
+	"tag": [
+		"classification",
+		"image",
+		"interactive",
+		"mining"
+	],
 	"title": "Interactive training of advanced classifiers for mining remote sensing image archives",
 	"type": "inproceedings",
 	"venue": "KDD",

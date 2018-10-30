@@ -1,17 +1,37 @@
 {
-	"author": ["Narendran Sachindran", "J. Eliot B. Moss"],
-	"booktitle": "Proceedings of the 18th Conference on Object-Oriented Programming Systems, Languages and Applications",
+	"author": [
+		"Narendran Sachindran",
+		"J. Eliot B. Moss"
+	],
+	"booktitle": "Proceedings of the 18th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2003p",
 	"dblpkey": "conf/oopsla/SachindranEM03",
 	"doi": "10.1145/949305.949335",
-	"editor": ["Ron Crocker", "Guy L. Steele Jr."],
+	"editor": [
+		"Ron Crocker",
+		"Guy L. Steele Jr."
+	],
 	"ee": "http://doi.acm.org/10.1145/949305.949335",
 	"isbn": "1-58113-712-5",
 	"pages": "326-343",
 	"publisher": "ACM",
-	"stemmed": ["mark", "copi", "fast", "copi", "gc", "with", "less", "space", "overhead"],
-	"tag": ["garbage collection", "named", "performance"],
+	"stemmed": [
+		"mark",
+		"copi",
+		"fast",
+		"copi",
+		"gc",
+		"with",
+		"less",
+		"space",
+		"overhead"
+	],
+	"tag": [
+		"garbage collection",
+		"named",
+		"performance"
+	],
 	"title": "Mark-copy: fast copying GC with less space overhead",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

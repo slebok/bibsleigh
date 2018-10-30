@@ -1,13 +1,34 @@
 {
-	"author": ["Jonas Rox", "Rolf Ernst"],
-	"booktitle": "DATE",
+	"author": [
+		"Jonas Rox",
+		"Rolf Ernst"
+	],
+	"booktitle": "Proceedings of the 14th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2010",
 	"dblpkey": "conf/date/RoxE10",
 	"ieeearid": 5457208,
 	"pages": "226-231",
 	"publisher": "IEEE",
-	"stemmed": ["exploit", "inter", "event", "stream", "correl", "between", "output", "event", "stream", "of", "non", "preemptiv", "schedul", "task"],
-	"tag": ["correlation"],
+	"stemmed": [
+		"exploit",
+		"inter",
+		"event",
+		"stream",
+		"correl",
+		"between",
+		"output",
+		"event",
+		"stream",
+		"of",
+		"non",
+		"preemptiv",
+		"schedul",
+		"task"
+	],
+	"tag": [
+		"correlation"
+	],
 	"title": "Exploiting inter-event stream correlations between output event streams of non-preemptively scheduled tasks",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,14 +1,36 @@
 {
-	"author": ["Paul Willmann", "Michael Brogioli", "Vijay S. Pai"],
-	"booktitle": "LCTES",
+	"author": [
+		"Paul Willmann",
+		"Michael Brogioli",
+		"Vijay S. Pai"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2004",
 	"dblpkey": "conf/lctrts/WillmannBP04",
 	"doi": "10.1145/997163.997167",
 	"ee": "http://doi.acm.org/10.1145/997163.997167",
 	"pages": "20-29",
 	"publisher": "ACM",
-	"stemmed": ["spinach", "a", "liberti", "base", "simul", "for", "programm", "network", "interfac", "architectur"],
-	"tag": ["architecture", "interface", "named", "network", "programmable"],
+	"stemmed": [
+		"spinach",
+		"a",
+		"liberti",
+		"base",
+		"simul",
+		"for",
+		"programm",
+		"network",
+		"interfac",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"interface",
+		"named",
+		"network",
+		"programmable"
+	],
 	"title": "Spinach: a liberty-based simulator for programmable network interface architectures",
 	"type": "inproceedings",
 	"venue": "LCTES",

@@ -1,6 +1,10 @@
 {
-	"author": ["C. P. Wang", "Vincent Y. Lum"],
+	"author": [
+		"C. P. Wang",
+		"Vincent Y. Lum"
+	],
 	"booktitle": "Proceedings of the ACM SIGIR Information Storage and Retrieval Symposium",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1971/P155.pdf",
 	"crossref": "conf/sigir/71",
 	"dblpkey": "conf/sigir/WangL71",
@@ -8,8 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/511285.511303",
 	"pages": "155-162",
 	"publisher": "ACM",
-	"stemmed": ["quantit", "evalu", "of", "design", "tradeoff", "in", "file", "system"],
-	"tag": ["design", "evaluation", "file system", "trade-off"],
+	"stemmed": [
+		"quantit",
+		"evalu",
+		"of",
+		"design",
+		"tradeoff",
+		"in",
+		"file",
+		"system"
+	],
+	"tag": [
+		"design",
+		"evaluation",
+		"file system",
+		"trade-off"
+	],
 	"title": "Quantitative Evaluation of Design Tradeoffs in File Systems",
 	"type": "inproceedings",
 	"venue": "SIGIR",

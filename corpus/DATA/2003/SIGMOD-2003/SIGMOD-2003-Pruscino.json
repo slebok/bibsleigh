@@ -1,14 +1,23 @@
 {
 	"author": "Angelo Pruscino",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/Pruscino03",
 	"ee": "http://www.acm.org/sigmod/sigmod03/eproceedings/papers/ind00.pdf",
-	"pages": 635,
+	"pages": "635",
 	"publisher": "ACM",
-	"stemmed": ["oracl", "rac", "architectur", "and", "perform"],
-	"tag": ["architecture", "performance"],
+	"stemmed": [
+		"oracl",
+		"rac",
+		"architectur",
+		"and",
+		"perform"
+	],
+	"tag": [
+		"architecture",
+		"performance"
+	],
 	"title": "Oracle RAC: Architecture and Performance",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

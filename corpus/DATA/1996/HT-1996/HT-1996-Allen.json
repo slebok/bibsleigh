@@ -1,6 +1,7 @@
 {
 	"author": "James F. Allen",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the Seventh Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1996/P042.pdf",
 	"crossref": "conf/ht/96",
 	"dblpkey": "conf/ht/Allen96",
@@ -8,8 +9,17 @@
 	"ee": "http://doi.acm.org/10.1145/234828.234833",
 	"pages": "42-52",
 	"publisher": "ACM",
-	"stemmed": ["automat", "hypertext", "link", "type"],
-	"tag": ["automation", "hypermedia", "type system"],
+	"stemmed": [
+		"automat",
+		"hypertext",
+		"link",
+		"type"
+	],
+	"tag": [
+		"automation",
+		"hypermedia",
+		"type system"
+	],
 	"title": "Automatic Hypertext Link Typing",
 	"type": "inproceedings",
 	"venue": "HT",

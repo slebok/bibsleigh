@@ -1,6 +1,12 @@
 {
-	"author": ["Azadeh Alebrahim", "Stephan Faßbender", "Maritta Heisel", "Rene Meis"],
-	"booktitle": "REFSQ",
+	"author": [
+		"Azadeh Alebrahim",
+		"Stephan Faßbender",
+		"Maritta Heisel",
+		"Rene Meis"
+	],
+	"booktitle": "Proceedings of the 20th International Working Conference on Requirements Engineering: Foundation for Software Quality",
+	"booktitleshort": "REFSQ",
 	"crossref": "conf/refsq/2014",
 	"dblpkey": "conf/refsq/AlebrahimFHM14",
 	"doi": "10.1007/978-3-319-05843-6_15",
@@ -9,11 +15,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["problem", "base", "requir", "interact", "analysi"],
-	"tag": ["analysis", "interactive", "problem", "requirements"],
+	"stemmed": [
+		"problem",
+		"base",
+		"requir",
+		"interact",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"interactive",
+		"problem",
+		"requirements"
+	],
 	"title": "Problem-Based Requirements Interaction Analysis",
 	"type": "inproceedings",
 	"venue": "REFSQ",
-	"volume": 8396,
+	"volume": "8396",
 	"year": 2014
 }

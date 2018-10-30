@@ -1,6 +1,10 @@
 {
-	"author": ["Chris C. N. Chu", "D. F. Wong"],
-	"booktitle": "DATE",
+	"author": [
+		"Chris C. N. Chu",
+		"D. F. Wong"
+	],
+	"booktitle": "Proceedings of the Third Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1998",
 	"dblpkey": "conf/date/ChuW98",
 	"doi": "10.1109/DATE.1998.655901",
@@ -8,8 +12,23 @@
 	"pages": "479-485",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "polynomi", "time", "optim", "algorithm", "for", "simultan", "buffer", "and", "wire", "size"],
-	"tag": ["algorithm", "polynomial"],
+	"stemmed": [
+		"a",
+		"polynomi",
+		"time",
+		"optim",
+		"algorithm",
+		"for",
+		"simultan",
+		"buffer",
+		"and",
+		"wire",
+		"size"
+	],
+	"tag": [
+		"algorithm",
+		"polynomial"
+	],
 	"title": "A Polynomial Time Optimal Algorithm for Simultaneous Buffer and Wire Sizing",
 	"type": "inproceedings",
 	"venue": "DATE",

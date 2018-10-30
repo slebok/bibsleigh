@@ -1,14 +1,36 @@
 {
-	"author": ["Satish Chandra", "Vijay A. Saraswat", "Vivek Sarkar", "Rastislav Bodík"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Satish Chandra",
+		"Vijay A. Saraswat",
+		"Vivek Sarkar",
+		"Rastislav Bodík"
+	],
+	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/ChandraSSB08",
 	"doi": "10.1145/1345206.1345211",
 	"ee": "http://doi.acm.org/10.1145/1345206.1345211",
 	"pages": "11-22",
 	"publisher": "ACM",
-	"stemmed": ["type", "infer", "for", "local", "analysi", "of", "distribut", "data", "structur"],
-	"tag": ["analysis", "data type", "distributed", "locality", "type inference"],
+	"stemmed": [
+		"type",
+		"infer",
+		"for",
+		"local",
+		"analysi",
+		"of",
+		"distribut",
+		"data",
+		"structur"
+	],
+	"tag": [
+		"analysis",
+		"data type",
+		"distributed",
+		"locality",
+		"type inference"
+	],
 	"title": "Type inference for locality analysis of distributed data structures",
 	"type": "inproceedings",
 	"venue": "PPoPP",

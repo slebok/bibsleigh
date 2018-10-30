@@ -1,13 +1,32 @@
 {
-	"acmid": 1251239,
-	"author": ["Umesh Maheshwari", "Radek Vingralek", "William Shapiro"],
-	"booktitle": "OSDI",
+	"acmid": "1251239",
+	"author": [
+		"Umesh Maheshwari",
+		"Radek Vingralek",
+		"William Shapiro"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2000",
 	"dblpkey": "conf/osdi/MaheshwariVS00",
 	"pages": "135-150",
 	"publisher": "USENIX Association",
-	"stemmed": ["how", "to", "build", "a", "trust", "databas", "system", "on", "untrust", "storag"],
-	"tag": ["database", "how"],
+	"stemmed": [
+		"how",
+		"to",
+		"build",
+		"a",
+		"trust",
+		"databas",
+		"system",
+		"on",
+		"untrust",
+		"storag"
+	],
+	"tag": [
+		"database",
+		"how"
+	],
 	"title": "How to Build a Trusted Database System on Untrusted Storage",
 	"type": "inproceedings",
 	"venue": "OSDI",

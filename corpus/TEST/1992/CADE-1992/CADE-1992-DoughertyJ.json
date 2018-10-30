@@ -1,6 +1,10 @@
 {
-	"author": ["Daniel J. Dougherty", "Patricia Johann"],
-	"booktitle": "CADE",
+	"author": [
+		"Daniel J. Dougherty",
+		"Patricia Johann"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/DoughertyJ92",
 	"doi": "10.1007/3-540-55602-8_157",
@@ -10,11 +14,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "combinatori", "logic", "approach", "to", "higher", "order", "e", "unif", "extend", "abstract"],
-	"tag": ["approach", "combinator", "higher-order", "logic"],
+	"stemmed": [
+		"a",
+		"combinatori",
+		"logic",
+		"approach",
+		"to",
+		"higher",
+		"order",
+		"e",
+		"unif",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"approach",
+		"combinator",
+		"higher-order",
+		"logic"
+	],
 	"title": "A Combinatory Logic Approach to Higher-order E-unification (Extended Abstract)",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

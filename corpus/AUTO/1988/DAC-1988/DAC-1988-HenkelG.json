@@ -1,12 +1,34 @@
 {
 	"acmid": "285730.285805",
-	"author": ["Volker Henkel", "Ulrich Golze"],
-	"booktitle": "DAC",
+	"author": [
+		"Volker Henkel",
+		"Ulrich Golze"
+	],
+	"booktitle": "Proceedings of the 25th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/HenkelG88",
 	"pages": "465-470",
 	"publisher": "ACM",
-	"stemmed": ["risc", "a", "reduc", "instruct", "set", "circuit", "extractor", "for", "hierarch", "vlsi", "layout", "verif"],
-	"tag": ["layout", "named", "set", "verification"],
+	"stemmed": [
+		"risc",
+		"a",
+		"reduc",
+		"instruct",
+		"set",
+		"circuit",
+		"extractor",
+		"for",
+		"hierarch",
+		"vlsi",
+		"layout",
+		"verif"
+	],
+	"tag": [
+		"layout",
+		"named",
+		"set",
+		"verification"
+	],
 	"title": "RISCE — A Reduced Instruction Set Circuit Extractor for Hierarchical VLSI Layout Verification",
 	"type": "inproceedings",
 	"venue": "DAC",

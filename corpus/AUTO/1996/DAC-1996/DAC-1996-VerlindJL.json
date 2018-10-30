@@ -1,13 +1,31 @@
 {
-	"author": ["Eric Verlind", "Gjalt G. de Jong", "Bill Lin"],
-	"booktitle": "DAC",
+	"author": [
+		"Eric Verlind",
+		"Gjalt G. de Jong",
+		"Bill Lin"
+	],
+	"booktitle": "Proceedings of the 33rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/VerlindJL96",
 	"doi": "10.1145/240518.240529",
 	"ee": "http://doi.acm.org/10.1145/240518.240529",
 	"pages": "55-58",
 	"publisher": "ACM Press",
-	"stemmed": ["effici", "partial", "enumer", "for", "time", "analysi", "of", "asynchron", "system"],
-	"tag": ["analysis", "performance"],
+	"stemmed": [
+		"effici",
+		"partial",
+		"enumer",
+		"for",
+		"time",
+		"analysi",
+		"of",
+		"asynchron",
+		"system"
+	],
+	"tag": [
+		"analysis",
+		"performance"
+	],
 	"title": "Efficient Partial Enumeration for Timing Analysis of Asynchronous Systems",
 	"type": "inproceedings",
 	"venue": "DAC",

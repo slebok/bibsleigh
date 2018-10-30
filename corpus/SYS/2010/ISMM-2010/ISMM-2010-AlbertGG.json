@@ -1,14 +1,34 @@
 {
-	"author": ["Elvira Albert", "Samir Genaim", "Miguel Gómez-Zamalloa"],
-	"booktitle": "ISMM",
+	"author": [
+		"Elvira Albert",
+		"Samir Genaim",
+		"Miguel Gómez-Zamalloa"
+	],
+	"booktitle": "Proceedings of the Ninth International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2010",
 	"dblpkey": "conf/iwmm/AlbertGG10",
 	"doi": "10.1145/1806651.1806671",
 	"ee": "http://doi.acm.org/10.1145/1806651.1806671",
 	"pages": "121-130",
 	"publisher": "ACM",
-	"stemmed": ["parametr", "infer", "of", "memori", "requir", "for", "garbag", "collect", "languag"],
-	"tag": ["garbage collection", "memory management", "parametricity", "requirements"],
+	"stemmed": [
+		"parametr",
+		"infer",
+		"of",
+		"memori",
+		"requir",
+		"for",
+		"garbag",
+		"collect",
+		"languag"
+	],
+	"tag": [
+		"garbage collection",
+		"memory management",
+		"parametricity",
+		"requirements"
+	],
 	"title": "Parametric inference of memory requirements for garbage collected languages",
 	"type": "inproceedings",
 	"venue": "ISMM",

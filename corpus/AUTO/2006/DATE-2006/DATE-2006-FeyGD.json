@@ -1,14 +1,32 @@
 {
-	"author": ["Görschwin Fey", "Daniel Große", "Rolf Drechsler"],
-	"booktitle": "DATE",
+	"author": [
+		"Görschwin Fey",
+		"Daniel Große",
+		"Rolf Drechsler"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2006p",
 	"dblpkey": "conf/date/FeyGD06",
 	"doi": "10.1145/1131820",
 	"ee": "http://doi.acm.org/10.1145/1131820",
 	"pages": "1225-1226",
 	"publisher": "European Design and Automation Association, Leuven, Belgium",
-	"stemmed": ["avoid", "fals", "negat", "in", "formal", "verif", "for", "protocol", "driven", "block"],
-	"tag": ["verification"],
+	"stemmed": [
+		"avoid",
+		"fals",
+		"negat",
+		"in",
+		"formal",
+		"verif",
+		"for",
+		"protocol",
+		"driven",
+		"block"
+	],
+	"tag": [
+		"verification"
+	],
 	"title": "Avoiding false negatives in formal verification for protocol-driven blocks",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,6 +1,10 @@
 {
-	"author": ["Jørgen Bundgaard", "Lennart Schultz"],
+	"author": [
+		"Jørgen Bundgaard",
+		"Lennart Schultz"
+	],
 	"booktitle": "Towards a Formal Description of Ada",
+	"booktitleshort": "Towards a Formal Description of Ada",
 	"crossref": "conf/sigada/1980",
 	"dblpkey": "conf/sigada/BundgaardS80",
 	"doi": "10.1007/3-540-10283-3_2",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "denot", "static", "semant", "method", "for", "defin", "ada", "context", "condit"],
-	"tag": ["ada", "semantics"],
+	"stemmed": [
+		"a",
+		"denot",
+		"static",
+		"semant",
+		"method",
+		"for",
+		"defin",
+		"ada",
+		"context",
+		"condit"
+	],
+	"tag": [
+		"ada",
+		"semantics"
+	],
 	"title": "A Denotational (Static) Semantics Method for Defining Ada Context Conditions",
 	"type": "inproceedings",
 	"venue": "Ada",
-	"volume": 98,
+	"volume": "98",
 	"year": 1980
 }

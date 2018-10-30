@@ -1,13 +1,33 @@
 {
-	"author": ["Tapan J. Chakraborty", "Vishwani D. Agrawal", "Michael L. Bushnell"],
-	"booktitle": "DAC",
+	"author": [
+		"Tapan J. Chakraborty",
+		"Vishwani D. Agrawal",
+		"Michael L. Bushnell"
+	],
+	"booktitle": "Proceedings of the 30th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/ChakrabortyAB93",
 	"doi": "10.1145/157485.164973",
 	"ee": "http://doi.acm.org/10.1145/157485.164973",
 	"pages": "453-457",
 	"publisher": "ACM Press",
-	"stemmed": ["design", "for", "testabl", "for", "path", "delay", "fault", "in", "sequenti", "circuit"],
-	"tag": ["design", "fault", "testing"],
+	"stemmed": [
+		"design",
+		"for",
+		"testabl",
+		"for",
+		"path",
+		"delay",
+		"fault",
+		"in",
+		"sequenti",
+		"circuit"
+	],
+	"tag": [
+		"design",
+		"fault",
+		"testing"
+	],
 	"title": "Design for Testability for Path Delay faults in Sequential Circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

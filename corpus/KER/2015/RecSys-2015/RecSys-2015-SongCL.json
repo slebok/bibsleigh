@@ -1,14 +1,35 @@
 {
-	"author": ["Qiang Song", "Jian Cheng", "Hanqing Lu"],
-	"booktitle": "RecSys",
+	"author": [
+		"Qiang Song",
+		"Jian Cheng",
+		"Hanqing Lu"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2015",
 	"dblpkey": "conf/recsys/SongCL15",
 	"doi": "10.1145/2792838.2799668",
 	"ee": "http://doi.acm.org/10.1145/2792838.2799668",
 	"pages": "277-280",
 	"publisher": "ACM",
-	"stemmed": ["increment", "matrix", "factor", "via", "featur", "space", "re", "learn", "for", "recommend", "system"],
-	"tag": ["incremental", "matrix", "recommendation"],
+	"stemmed": [
+		"increment",
+		"matrix",
+		"factor",
+		"via",
+		"featur",
+		"space",
+		"re",
+		"learn",
+		"for",
+		"recommend",
+		"system"
+	],
+	"tag": [
+		"incremental",
+		"matrix",
+		"recommendation"
+	],
 	"title": "Incremental Matrix Factorization via Feature Space Re-learning for Recommender System",
 	"type": "inproceedings",
 	"venue": "RecSys",

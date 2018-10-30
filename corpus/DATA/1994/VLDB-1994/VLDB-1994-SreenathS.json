@@ -1,14 +1,42 @@
 {
-	"author": ["B. Sreenath", "S. Seshadri"],
-	"booktitle": "VLDB",
-	"cite": ["journals/tkde/BertinoK89", "journals/csur/Comer79", "conf/sigmod/IshikawaKO93", "...", "conf/sigmod/KemperM90", "conf/dood/LowLOH91", "conf/sigmod/LowOL92"],
+	"author": [
+		"B. Sreenath",
+		"S. Seshadri"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/tkde/BertinoK89",
+		"journals/csur/Comer79",
+		"conf/sigmod/IshikawaKO93",
+		"...",
+		"conf/sigmod/KemperM90",
+		"conf/dood/LowLOH91",
+		"conf/sigmod/LowOL92"
+	],
 	"crossref": "conf/vldb/94",
 	"dblpkey": "conf/vldb/SreenathS94",
 	"ee": "http://www.vldb.org/conf/1994/P203.PDF",
 	"pages": "203-213",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["the", "hcc", "tree", "an", "effici", "index", "structur", "for", "object", "orient", "databas"],
-	"tag": ["database", "object-oriented", "performance"],
+	"stemmed": [
+		"the",
+		"hcc",
+		"tree",
+		"an",
+		"effici",
+		"index",
+		"structur",
+		"for",
+		"object",
+		"orient",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"object-oriented",
+		"performance"
+	],
 	"title": "The hcC-tree: An Efficient Index Structure for Object Oriented Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

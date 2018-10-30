@@ -1,6 +1,11 @@
 {
-	"author": ["Nikolaj Bjørner", "Mark E. Stickel", "Tomás E. Uribe"],
-	"booktitle": "CADE",
+	"author": [
+		"Nikolaj Bjørner",
+		"Mark E. Stickel",
+		"Tomás E. Uribe"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
 	"dblpkey": "conf/cade/BjornerSU97",
 	"doi": "10.1007/3-540-63104-6_13",
@@ -10,11 +15,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "practic", "integr", "of", "first", "order", "reason", "and", "decis", "procedur"],
-	"tag": ["first-order", "integration", "reasoning"],
+	"stemmed": [
+		"a",
+		"practic",
+		"integr",
+		"of",
+		"first",
+		"order",
+		"reason",
+		"and",
+		"decis",
+		"procedur"
+	],
+	"tag": [
+		"first-order",
+		"integration",
+		"reasoning"
+	],
 	"title": "A Practical Integration of First-Order Reasoning and Decision Procedures",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1249,
+	"volume": "1249",
 	"year": 1997
 }

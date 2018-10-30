@@ -1,14 +1,29 @@
 {
-	"author": ["Yi Qian", "Steve Carr", "Philip H. Sweany"],
-	"booktitle": "LCTES-SCOPES",
+	"author": [
+		"Yi Qian",
+		"Steve Carr",
+		"Philip H. Sweany"
+	],
+	"booktitle": "Proceedings of the Joint Conference on Languages, Compilers, and Tools for Embedded Systems / Software and Compilers for Embedded Systems",
+	"booktitleshort": "LCTES/SCOPES",
 	"crossref": "conf/lctrts/2002",
 	"dblpkey": "conf/lctrts/QianCS02",
 	"doi": "10.1145/513829.513850",
 	"ee": "http://doi.acm.org/10.1145/513829.513850",
 	"pages": "112-119",
 	"publisher": "ACM",
-	"stemmed": ["loop", "fusion", "for", "cluster", "vliw", "architectur"],
-	"tag": ["architecture", "clustering"],
+	"stemmed": [
+		"loop",
+		"fusion",
+		"for",
+		"cluster",
+		"vliw",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"clustering"
+	],
 	"title": "Loop fusion for clustered VLIW architectures",
 	"type": "inproceedings",
 	"venue": "LCTES",

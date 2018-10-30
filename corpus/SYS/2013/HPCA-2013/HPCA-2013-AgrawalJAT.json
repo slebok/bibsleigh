@@ -1,15 +1,40 @@
 {
-	"author": ["Aditya Agrawal", "Prabhat Jain", "Amin Ansari", "Josep Torrellas"],
-	"booktitle": "HPCA",
+	"author": [
+		"Aditya Agrawal",
+		"Prabhat Jain",
+		"Amin Ansari",
+		"Josep Torrellas"
+	],
+	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/AgrawalJAT13",
 	"doi": "10.1109/HPCA.2013.6522336",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522336", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522336"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2013.6522336",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522336"
+	],
 	"pages": "400-411",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["refrint", "intellig", "refresh", "to", "minim", "power", "in", "on", "chip", "multiprocessor", "cach", "hierarchi"],
-	"tag": ["multi", "named"],
+	"stemmed": [
+		"refrint",
+		"intellig",
+		"refresh",
+		"to",
+		"minim",
+		"power",
+		"in",
+		"on",
+		"chip",
+		"multiprocessor",
+		"cach",
+		"hierarchi"
+	],
+	"tag": [
+		"multi",
+		"named"
+	],
 	"title": "Refrint: Intelligent refresh to minimize power in on-chip multiprocessor cache hierarchies",
 	"type": "inproceedings",
 	"venue": "HPCA",

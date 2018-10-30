@@ -1,14 +1,28 @@
 {
-	"author": ["Ramzi A. Haraty", "Nashat Mansour", "Bassel Daou"],
+	"author": [
+		"Ramzi A. Haraty",
+		"Nashat Mansour",
+		"Bassel Daou"
+	],
 	"booktitle": "Proceedings of the 16th Symposium on Applied Computing",
+	"booktitleshort": "SAC",
 	"crossref": "conf/sac/2001",
 	"dblpkey": "conf/sac/HaratyMD01",
 	"doi": "10.1145/372202.372342",
 	"ee": "http://doi.acm.org/10.1145/372202.372342",
 	"pages": "285-289",
 	"publisher": "ACM",
-	"stemmed": ["regress", "test", "of", "databas", "applic"],
-	"tag": ["database", "testing"],
+	"stemmed": [
+		"regress",
+		"test",
+		"of",
+		"databas",
+		"applic"
+	],
+	"tag": [
+		"database",
+		"testing"
+	],
 	"title": "Regression testing of database applications",
 	"type": "inproceedings",
 	"venue": "SAC",

@@ -1,6 +1,10 @@
 {
-	"author": ["Carsten Binnig", "Abdallah Salama", "Erfan Zamanian"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Carsten Binnig",
+		"Abdallah Salama",
+		"Erfan Zamanian"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/BinnigSZ14",
@@ -8,8 +12,17 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2594525",
 	"pages": "913-916",
 	"publisher": "ACM",
-	"stemmed": ["doom", "db", "kill", "the", "queri"],
-	"tag": ["named", "query"],
+	"stemmed": [
+		"doom",
+		"db",
+		"kill",
+		"the",
+		"queri"
+	],
+	"tag": [
+		"named",
+		"query"
+	],
 	"title": "DoomDB: kill the query",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

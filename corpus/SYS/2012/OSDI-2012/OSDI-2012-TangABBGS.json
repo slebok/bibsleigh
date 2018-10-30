@@ -1,13 +1,34 @@
 {
-	"author": ["Yang Tang", "Phillip Ames", "Sravan Bhamidipati", "Ashish Bijlani", "Roxana Geambasu", "Nikhil Sarda"],
-	"booktitle": "OSDI",
+	"author": [
+		"Yang Tang",
+		"Phillip Ames",
+		"Sravan Bhamidipati",
+		"Ashish Bijlani",
+		"Roxana Geambasu",
+		"Nikhil Sarda"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2012",
 	"dblpkey": "conf/osdi/TangABBGS12",
 	"ee": "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/tang",
 	"pages": "77-91",
 	"publisher": "USENIX Association",
-	"stemmed": ["clean", "os", "limit", "mobil", "data", "exposur", "with", "idl", "evict"],
-	"tag": ["mobile", "named"],
+	"stemmed": [
+		"clean",
+		"os",
+		"limit",
+		"mobil",
+		"data",
+		"exposur",
+		"with",
+		"idl",
+		"evict"
+	],
+	"tag": [
+		"mobile",
+		"named"
+	],
 	"title": "CleanOS: Limiting Mobile Data Exposure with Idle Eviction",
 	"type": "inproceedings",
 	"venue": "OSDI",

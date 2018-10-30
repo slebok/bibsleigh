@@ -1,6 +1,11 @@
 {
-	"author": ["Tristan Allard", "Georges Hébrail", "Florent Masseglia", "Esther Pacitti"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Tristan Allard",
+		"Georges Hébrail",
+		"Florent Masseglia",
+		"Esther Pacitti"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/AllardHMP15",
@@ -8,8 +13,23 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2749453",
 	"pages": "779-794",
 	"publisher": "ACM",
-	"stemmed": ["chiaroscuro", "transpar", "and", "privaci", "for", "massiv", "person", "time", "seri", "cluster"],
-	"tag": ["clustering", "named", "privacy"],
+	"stemmed": [
+		"chiaroscuro",
+		"transpar",
+		"and",
+		"privaci",
+		"for",
+		"massiv",
+		"person",
+		"time",
+		"seri",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"named",
+		"privacy"
+	],
 	"title": "Chiaroscuro: Transparency and Privacy for Massive Personal Time-Series Clustering",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

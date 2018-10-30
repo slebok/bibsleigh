@@ -1,6 +1,9 @@
 {
-	"author": ["Toshio Endo", "Kenjiro Taura"],
-	"booktitle": "MSP/ISMM",
+	"author": [
+		"Toshio Endo",
+		"Kenjiro Taura"
+	],
+	"booktitle": "Proceedings of the Third International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2002",
 	"dblpkey": "conf/iwmm/EndoT02",
@@ -8,7 +11,14 @@
 	"ee": "http://doi.acm.org/10.1145/773039.512432",
 	"pages": "119-131",
 	"publisher": "ACM",
-	"stemmed": ["reduc", "paus", "time", "of", "conserv", "collector"],
+	"stemmed": [
+		"reduc",
+		"paus",
+		"time",
+		"of",
+		"conserv",
+		"collector"
+	],
 	"title": "Reducing pause time of conservative collectors",
 	"type": "inproceedings",
 	"venue": "ISMM",

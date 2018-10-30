@@ -1,6 +1,7 @@
 {
 	"author": "Jean François Pique",
-	"booktitle": "IWMM",
+	"booktitle": "Proceedings of the First International Workshop on Memory Management",
+	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
 	"dblpkey": "conf/iwmm/Pique92",
 	"doi": "10.1007/BFb0017199",
@@ -10,11 +11,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["dynam", "revis", "of", "choic", "point", "dure", "garbag", "collect", "in", "prolog", "ii", "iii"],
-	"tag": ["garbage collection", "prolog"],
+	"stemmed": [
+		"dynam",
+		"revis",
+		"of",
+		"choic",
+		"point",
+		"dure",
+		"garbag",
+		"collect",
+		"in",
+		"prolog",
+		"ii",
+		"iii"
+	],
+	"tag": [
+		"garbage collection",
+		"prolog"
+	],
 	"title": "Dynamic Revision of Choice Points during Garbage Collection in Prolog [II/III]",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 637,
+	"volume": "637",
 	"year": 1992
 }

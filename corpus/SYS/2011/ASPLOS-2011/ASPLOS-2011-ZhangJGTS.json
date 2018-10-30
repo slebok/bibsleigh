@@ -1,14 +1,35 @@
 {
-	"author": ["Eddy Z. Zhang", "Yunlian Jiang", "Ziyu Guo", "Kai Tian", "Xipeng Shen"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Eddy Z. Zhang",
+		"Yunlian Jiang",
+		"Ziyu Guo",
+		"Kai Tian",
+		"Xipeng Shen"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2011",
 	"dblpkey": "conf/asplos/ZhangJGTS11",
 	"doi": "10.1145/1950365.1950408",
 	"ee": "http://doi.acm.org/10.1145/1950365.1950408",
 	"pages": "369-380",
 	"publisher": "ACM",
-	"stemmed": ["on", "the", "fli", "elimin", "of", "dynam", "irregular", "for", "gpu", "comput"],
-	"tag": ["gpu", "on the fly"],
+	"stemmed": [
+		"on",
+		"the",
+		"fli",
+		"elimin",
+		"of",
+		"dynam",
+		"irregular",
+		"for",
+		"gpu",
+		"comput"
+	],
+	"tag": [
+		"gpu",
+		"on the fly"
+	],
 	"title": "On-the-fly elimination of dynamic irregularities for GPU computing",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,13 +1,34 @@
 {
-	"author": ["Yin Wang", "Terence Kelly", "Manjunath Kudlur", "Stéphane Lafortune", "Scott A. Mahlke"],
-	"booktitle": "OSDI",
+	"author": [
+		"Yin Wang",
+		"Terence Kelly",
+		"Manjunath Kudlur",
+		"Stéphane Lafortune",
+		"Scott A. Mahlke"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/WangKKLM08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/wang/wang.pdf",
 	"pages": "281-294",
 	"publisher": "USENIX Association",
-	"stemmed": ["gadara", "dynam", "deadlock", "avoid", "for", "multithread", "program"],
-	"tag": ["concurrent", "named", "parallel", "source code", "thread"],
+	"stemmed": [
+		"gadara",
+		"dynam",
+		"deadlock",
+		"avoid",
+		"for",
+		"multithread",
+		"program"
+	],
+	"tag": [
+		"concurrent",
+		"named",
+		"parallel",
+		"source code",
+		"thread"
+	],
 	"title": "Gadara: Dynamic Deadlock Avoidance for Multithreaded Programs",
 	"type": "inproceedings",
 	"venue": "OSDI",

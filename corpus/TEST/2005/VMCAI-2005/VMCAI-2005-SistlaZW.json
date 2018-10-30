@@ -1,6 +1,11 @@
 {
-	"author": ["A. Prasad Sistla", "Min Zhou", "Xiaodong Wang"],
-	"booktitle": "VMCAI",
+	"author": [
+		"A. Prasad Sistla",
+		"Min Zhou",
+		"Xiaodong Wang"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2005",
 	"dblpkey": "conf/vmcai/SistlaZW05",
 	"doi": "10.1007/978-3-540-30579-8_17",
@@ -10,11 +15,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["model", "check", "of", "system", "employ", "commut", "function"],
-	"tag": ["commutative", "model checking"],
+	"stemmed": [
+		"model",
+		"check",
+		"of",
+		"system",
+		"employ",
+		"commut",
+		"function"
+	],
+	"tag": [
+		"commutative",
+		"model checking"
+	],
 	"title": "Model Checking of Systems Employing Commutative Functions",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3385,
+	"volume": "3385",
 	"year": 2005
 }

@@ -1,14 +1,36 @@
 {
-	"author": ["Yu-Hung Huang", "Yi-Shan Lu", "Hsin-I. Wu", "Ren-Song Tsay"],
-	"booktitle": "DAC",
+	"author": [
+		"Yu-Hung Huang",
+		"Yi-Shan Lu",
+		"Hsin-I. Wu",
+		"Ren-Song Tsay"
+	],
+	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/HuangLWT12",
 	"doi": "10.1145/2228360.2228384",
 	"ee": "http://doi.acm.org/10.1145/2228360.2228384",
 	"pages": "127-132",
 	"publisher": "ACM",
-	"stemmed": ["a", "non", "intrus", "time", "synchron", "interfac", "for", "hardwar", "assist", "hw", "sw", "co", "simul"],
-	"tag": ["interface"],
+	"stemmed": [
+		"a",
+		"non",
+		"intrus",
+		"time",
+		"synchron",
+		"interfac",
+		"for",
+		"hardwar",
+		"assist",
+		"hw",
+		"sw",
+		"co",
+		"simul"
+	],
+	"tag": [
+		"interface"
+	],
 	"title": "A non-intrusive timing synchronization interface for hardware-assisted HW/SW co-simulation",
 	"type": "inproceedings",
 	"venue": "DAC",

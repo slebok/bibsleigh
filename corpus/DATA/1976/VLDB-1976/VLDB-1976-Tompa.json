@@ -1,14 +1,33 @@
 {
 	"author": "Frank Wm. Tompa",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the Second International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB76/P065.PDF",
-	"cite": ["...", "journals/cacm/CohenZ74", "...", "...", "journals/acta/GotliebT74", "...", "journals/sigplan/LiskovZ74", "...", "conf/vldb/YaoM75"],
+	"cite": [
+		"...",
+		"journals/cacm/CohenZ74",
+		"...",
+		"...",
+		"journals/acta/GotliebT74",
+		"...",
+		"journals/sigplan/LiskovZ74",
+		"...",
+		"conf/vldb/YaoM75"
+	],
 	"crossref": "conf/vldb/76",
 	"dblpkey": "conf/vldb/Tompa76",
 	"pages": "65-77",
 	"publisher": "North Holland & IFIP",
-	"stemmed": ["choos", "an", "effici", "intern", "schema"],
-	"tag": ["performance"],
+	"stemmed": [
+		"choos",
+		"an",
+		"effici",
+		"intern",
+		"schema"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Choosing an Efficient Internal Schema",
 	"type": "inproceedings",
 	"venue": "VLDB",

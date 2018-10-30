@@ -1,14 +1,33 @@
 {
-	"author": ["Yulan Liang", "Arpad Kelemen"],
-	"booktitle": "KDD",
+	"author": [
+		"Yulan Liang",
+		"Arpad Kelemen"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/LiangK02",
 	"doi": "10.1145/775047.775106",
 	"ee": "http://doi.acm.org/10.1145/775047.775106",
 	"pages": "415-421",
 	"publisher": "ACM",
-	"stemmed": ["mine", "heterogen", "gene", "express", "data", "with", "time", "lag", "recurr", "neural", "network"],
-	"tag": ["mining", "network"],
+	"stemmed": [
+		"mine",
+		"heterogen",
+		"gene",
+		"express",
+		"data",
+		"with",
+		"time",
+		"lag",
+		"recurr",
+		"neural",
+		"network"
+	],
+	"tag": [
+		"mining",
+		"network"
+	],
 	"title": "Mining heterogeneous gene expression data with time lagged recurrent neural networks",
 	"type": "inproceedings",
 	"venue": "KDD",

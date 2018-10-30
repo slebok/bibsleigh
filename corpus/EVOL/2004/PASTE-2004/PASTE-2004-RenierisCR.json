@@ -1,13 +1,21 @@
 {
-	"author": ["Manos Renieris", "Sébastien Chan-Tin", "Steven P. Reiss"],
-	"booktitle": "PASTE",
+	"author": [
+		"Manos Renieris",
+		"Sébastien Chan-Tin",
+		"Steven P. Reiss"
+	],
+	"booktitle": "Proceedings of the Fifth Workshop on Program Analysis for Software Tools and Engineering",
+	"booktitleshort": "PASTE",
 	"crossref": "conf/paste/2004",
 	"dblpkey": "conf/paste/RenierisCR04",
 	"doi": "10.1145/996821.996839",
 	"ee": "http://doi.acm.org/10.1145/996821.996839",
 	"pages": "52-57",
 	"publisher": "ACM",
-	"stemmed": ["elid", "condit"],
+	"stemmed": [
+		"elid",
+		"condit"
+	],
 	"title": "Elided conditionals",
 	"type": "inproceedings",
 	"venue": "PASTE",

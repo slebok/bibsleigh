@@ -1,6 +1,14 @@
 {
-	"author": ["Christoph Weidenbach", "Uwe Brahm", "Thomas Hillenbrand", "Enno Keen", "Christian Theobalt", "Dalibor Topic"],
-	"booktitle": "CADE",
+	"author": [
+		"Christoph Weidenbach",
+		"Uwe Brahm",
+		"Thomas Hillenbrand",
+		"Enno Keen",
+		"Christian Theobalt",
+		"Dalibor Topic"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2002",
 	"dblpkey": "conf/cade/WeidenbachBHKTT02",
 	"doi": "10.1007/3-540-45620-1_22",
@@ -10,10 +18,14 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["s", "pass", "version"],
+	"stemmed": [
+		"s",
+		"pass",
+		"version"
+	],
 	"title": "S PASS Version 2.0",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2392,
+	"volume": "2392",
 	"year": 2002
 }

@@ -1,15 +1,26 @@
 {
 	"author": "Mark D. Hill",
-	"booktitle": "HPCA",
+	"booktitle": "Proceedings of the 14th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2008",
 	"dblpkey": "conf/hpca/Hill08",
 	"doi": "10.1109/HPCA.2008.4658638",
 	"ee": "http://dx.doi.org/10.1109/HPCA.2008.4658638",
-	"pages": 187,
+	"pages": "187",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["amdahl", "s", "law", "in", "the", "multicor", "era"],
-	"tag": ["manycore"],
+	"stemmed": [
+		"amdahl",
+		"s",
+		"law",
+		"in",
+		"the",
+		"multicor",
+		"era"
+	],
+	"tag": [
+		"manycore"
+	],
 	"title": "Amdahl’s Law in the multicore era",
 	"type": "inproceedings",
 	"venue": "HPCA",

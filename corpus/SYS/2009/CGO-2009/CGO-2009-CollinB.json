@@ -1,16 +1,44 @@
 {
-	"acmid": 1545073,
-	"author": ["Mikael Collin", "Mats Brorsson"],
-	"booktitle": "CGO",
+	"acmid": "1545073",
+	"author": [
+		"Mikael Collin",
+		"Mats Brorsson"
+	],
+	"booktitle": "Proceedings of the Seventh International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2009",
 	"dblpkey": "conf/cgo/CollinB09",
 	"doi": "10.1109/CGO.2009.16",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2009.16", "http://doi.ieeecomputersociety.org/10.1109/CGO.2009.16", "http://dl.acm.org/citation.cfm?id=1545073"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2009.16",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2009.16",
+		"http://dl.acm.org/citation.cfm?id=1545073"
+	],
 	"pages": "231-242",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["two", "level", "dictionari", "code", "compress", "a", "new", "scheme", "to", "improv", "instruct", "code", "densiti", "of", "embed", "applic"],
-	"tag": ["embedded", "taxonomy"],
+	"stemmed": [
+		"two",
+		"level",
+		"dictionari",
+		"code",
+		"compress",
+		"a",
+		"new",
+		"scheme",
+		"to",
+		"improv",
+		"instruct",
+		"code",
+		"densiti",
+		"of",
+		"embed",
+		"applic"
+	],
+	"tag": [
+		"embedded",
+		"taxonomy"
+	],
 	"title": "Two-Level Dictionary Code Compression: A New Scheme to Improve Instruction Code Density of Embedded Applications",
 	"type": "inproceedings",
 	"venue": "CGO",

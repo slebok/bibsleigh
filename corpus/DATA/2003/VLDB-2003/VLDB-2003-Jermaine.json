@@ -1,12 +1,26 @@
 {
 	"author": "Chris Jermaine",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/Jermaine03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S26P03.pdf",
 	"pages": "886-897",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["robust", "estim", "with", "sampl", "and", "approxim", "pre", "aggreg"],
-	"tag": ["approximate", "estimation", "robust"],
+	"stemmed": [
+		"robust",
+		"estim",
+		"with",
+		"sampl",
+		"and",
+		"approxim",
+		"pre",
+		"aggreg"
+	],
+	"tag": [
+		"approximate",
+		"estimation",
+		"robust"
+	],
 	"title": "Robust Estimation With Sampling and Approximate Pre-Aggregation",
 	"type": "inproceedings",
 	"venue": "VLDB",

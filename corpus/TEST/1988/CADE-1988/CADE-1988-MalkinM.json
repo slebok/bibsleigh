@@ -1,6 +1,10 @@
 {
-	"author": ["Peter K. Malkin", "Errol P. Martin"],
-	"booktitle": "CADE",
+	"author": [
+		"Peter K. Malkin",
+		"Errol P. Martin"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/MalkinM88",
 	"doi": "10.1007/BFb0012866",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["logic", "matrix", "generat", "and", "test"],
-	"tag": ["generative", "logic", "matrix", "testing"],
+	"stemmed": [
+		"logic",
+		"matrix",
+		"generat",
+		"and",
+		"test"
+	],
+	"tag": [
+		"generative",
+		"logic",
+		"matrix",
+		"testing"
+	],
 	"title": "Logical Matrix Generation and Testing",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

@@ -1,14 +1,47 @@
 {
-	"author": ["Rune Humborstad", "Maitrayi Sabaratnam", "Svein-Olaf Hvasshovd", "Øystein Torbjørnsen"],
-	"booktitle": "VLDB",
-	"cite": ["conf/pods/AbbadiSC85", "...", "conf/compcon/Garcia-MolinaP90", "conf/vldb/Garcia-MolinaPH90", "books/mk/GrayR93", "conf/vldb/HvasshovdTBH95", "...", "...", "...", "journals/tods/KingHGP91", "conf/compcon/Lyon88", "conf/icde/MohanTO93", "...", "conf/sigmod/PolyzoisG92", "...", "..."],
+	"author": [
+		"Rune Humborstad",
+		"Maitrayi Sabaratnam",
+		"Svein-Olaf Hvasshovd",
+		"Øystein Torbjørnsen"
+	],
+	"booktitle": "Proceedings of the 23rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/pods/AbbadiSC85",
+		"...",
+		"conf/compcon/Garcia-MolinaP90",
+		"conf/vldb/Garcia-MolinaPH90",
+		"books/mk/GrayR93",
+		"conf/vldb/HvasshovdTBH95",
+		"...",
+		"...",
+		"...",
+		"journals/tods/KingHGP91",
+		"conf/compcon/Lyon88",
+		"conf/icde/MohanTO93",
+		"...",
+		"conf/sigmod/PolyzoisG92",
+		"...",
+		"..."
+	],
 	"crossref": "conf/vldb/97",
 	"dblpkey": "conf/vldb/HumborstadSHT97",
 	"ee": "http://www.vldb.org/conf/1997/P316.PDF",
 	"pages": "316-325",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["safe", "algorithm", "for", "symmetr", "site", "configur"],
-	"tag": ["algorithm", "symmetry"],
+	"stemmed": [
+		"safe",
+		"algorithm",
+		"for",
+		"symmetr",
+		"site",
+		"configur"
+	],
+	"tag": [
+		"algorithm",
+		"symmetry"
+	],
 	"title": "1-Safe Algorithms for Symmetric Site Configurations",
 	"type": "inproceedings",
 	"venue": "VLDB",

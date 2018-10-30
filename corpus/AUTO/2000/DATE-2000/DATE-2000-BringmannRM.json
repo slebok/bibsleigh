@@ -1,6 +1,11 @@
 {
-	"author": ["Oliver Bringmann", "Wolfgang Rosenstiel", "Carsten Menn"],
-	"booktitle": "DATE",
+	"author": [
+		"Oliver Bringmann",
+		"Wolfgang Rosenstiel",
+		"Carsten Menn"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/BringmannRM00",
 	"doi": "10.1109/DATE.2000.840291",
@@ -8,8 +13,24 @@
 	"pages": "326-332",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["target", "architectur", "orient", "high", "level", "synthesi", "for", "multi", "fpga", "base", "emul"],
-	"tag": ["architecture", "multi", "synthesis"],
+	"stemmed": [
+		"target",
+		"architectur",
+		"orient",
+		"high",
+		"level",
+		"synthesi",
+		"for",
+		"multi",
+		"fpga",
+		"base",
+		"emul"
+	],
+	"tag": [
+		"architecture",
+		"multi",
+		"synthesis"
+	],
 	"title": "Target Architecture Oriented High-Level Synthesis for Multi-FPGA Based Emulation",
 	"type": "inproceedings",
 	"venue": "DATE",

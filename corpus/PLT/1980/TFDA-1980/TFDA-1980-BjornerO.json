@@ -1,6 +1,10 @@
 {
-	"author": ["Dines Bjørner", "Ole N. Oest"],
+	"author": [
+		"Dines Bjørner",
+		"Ole N. Oest"
+	],
 	"booktitle": "Towards a Formal Description of Ada",
+	"booktitleshort": "Towards a Formal Description of Ada",
 	"crossref": "conf/sigada/1980",
 	"dblpkey": "conf/sigada/BjornerO80",
 	"doi": "10.1007/3-540-10283-3_1",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "ddc", "ada", "compil", "develop", "project"],
-	"tag": ["ada", "compilation", "development"],
+	"stemmed": [
+		"the",
+		"ddc",
+		"ada",
+		"compil",
+		"develop",
+		"project"
+	],
+	"tag": [
+		"ada",
+		"compilation",
+		"development"
+	],
 	"title": "The DDC Ada Compiler Development Project",
 	"type": "inproceedings",
 	"venue": "Ada",
-	"volume": 98,
+	"volume": "98",
 	"year": 1980
 }

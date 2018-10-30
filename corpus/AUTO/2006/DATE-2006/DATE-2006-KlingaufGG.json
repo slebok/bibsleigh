@@ -1,14 +1,39 @@
 {
-	"author": ["Wolfgang Klingauf", "Hagen Gädke", "Robert Günzel"],
-	"booktitle": "DATE",
+	"author": [
+		"Wolfgang Klingauf",
+		"Hagen Gädke",
+		"Robert Günzel"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2006p",
 	"dblpkey": "conf/date/KlingaufGG06",
 	"doi": "10.1145/1131843",
 	"ee": "http://doi.acm.org/10.1145/1131843",
 	"pages": "1318-1323",
 	"publisher": "European Design and Automation Association, Leuven, Belgium",
-	"stemmed": ["train", "a", "virtual", "transact", "layer", "architectur", "for", "tlm", "base", "hw", "sw", "codesign", "of", "synthesiz", "mpsoc"],
-	"tag": ["architecture", "named", "transaction"],
+	"stemmed": [
+		"train",
+		"a",
+		"virtual",
+		"transact",
+		"layer",
+		"architectur",
+		"for",
+		"tlm",
+		"base",
+		"hw",
+		"sw",
+		"codesign",
+		"of",
+		"synthesiz",
+		"mpsoc"
+	],
+	"tag": [
+		"architecture",
+		"named",
+		"transaction"
+	],
 	"title": "TRAIN: a virtual transaction layer architecture for TLM-based HW/SW codesign of synthesizable MPSoC",
 	"type": "inproceedings",
 	"venue": "DATE",

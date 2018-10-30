@@ -1,14 +1,30 @@
 {
-	"author": ["Rajesh K. Karmani", "P. Madhusudan", "Brandon M. Moore"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Rajesh K. Karmani",
+		"P. Madhusudan",
+		"Brandon M. Moore"
+	],
+	"booktitle": "Proceedings of the 16th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2011",
 	"dblpkey": "conf/ppopp/KarmaniMM11",
 	"doi": "10.1145/1941553.1941573",
 	"ee": "http://doi.acm.org/10.1145/1941553.1941573",
 	"pages": "125-134",
 	"publisher": "ACM",
-	"stemmed": ["thread", "contract", "for", "safe", "parallel"],
-	"tag": ["concurrent", "contract", "parallel", "thread"],
+	"stemmed": [
+		"thread",
+		"contract",
+		"for",
+		"safe",
+		"parallel"
+	],
+	"tag": [
+		"concurrent",
+		"contract",
+		"parallel",
+		"thread"
+	],
 	"title": "Thread contracts for safe parallelism",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,15 +1,37 @@
 {
-	"author": ["Hossam A. ElGindy", "Arun K. Somani", "Heiko Schröder", "Hartmut Schmeck", "Andrew Spray"],
-	"booktitle": "HPCA",
+	"author": [
+		"Hossam A. ElGindy",
+		"Arun K. Somani",
+		"Heiko Schröder",
+		"Hartmut Schmeck",
+		"Andrew Spray"
+	],
+	"booktitle": "Proceedings of the Second International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1996",
 	"dblpkey": "conf/hpca/ElGindySSSS96",
 	"doi": "10.1109/HPCA.1996.501178",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1996.501178", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1996.501178"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1996.501178",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1996.501178"
+	],
 	"pages": "108-117",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["rmb", "a", "reconfigur", "multipl", "bus", "network"],
-	"tag": ["configuration management", "multi", "named", "network"],
+	"stemmed": [
+		"rmb",
+		"a",
+		"reconfigur",
+		"multipl",
+		"bus",
+		"network"
+	],
+	"tag": [
+		"configuration management",
+		"multi",
+		"named",
+		"network"
+	],
 	"title": "RMB — A Reconfigurable Multiple Bus Network",
 	"type": "inproceedings",
 	"venue": "HPCA",

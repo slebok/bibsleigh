@@ -1,14 +1,33 @@
 {
-	"author": ["Vasileios Megalooikonomou", "Christos Davatzikos", "Edward Herskovits"],
-	"booktitle": "KDD",
+	"author": [
+		"Vasileios Megalooikonomou",
+		"Christos Davatzikos",
+		"Edward Herskovits"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1999",
 	"dblpkey": "conf/kdd/MegalooikonomouDH99",
 	"doi": "10.1145/312129.312277",
 	"ee": "http://doi.acm.org/10.1145/312129.312277",
 	"pages": "347-351",
 	"publisher": "ACM",
-	"stemmed": ["mine", "lesion", "deficit", "associ", "in", "a", "brain", "imag", "databas"],
-	"tag": ["database", "image", "mining"],
+	"stemmed": [
+		"mine",
+		"lesion",
+		"deficit",
+		"associ",
+		"in",
+		"a",
+		"brain",
+		"imag",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"image",
+		"mining"
+	],
 	"title": "Mining Lesion-Deficit Associations in a Brain Image Database",
 	"type": "inproceedings",
 	"venue": "KDD",

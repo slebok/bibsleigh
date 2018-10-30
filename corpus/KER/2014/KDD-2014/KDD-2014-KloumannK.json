@@ -1,14 +1,30 @@
 {
-	"author": ["Isabel M. Kloumann", "Jon M. Kleinberg"],
-	"booktitle": "KDD",
+	"author": [
+		"Isabel M. Kloumann",
+		"Jon M. Kleinberg"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/KloumannK14",
 	"doi": "10.1145/2623330.2623621",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623621",
 	"pages": "1366-1375",
 	"publisher": "ACM",
-	"stemmed": ["communiti", "membership", "identif", "from", "small", "seed", "set"],
-	"tag": ["community", "identification", "set"],
+	"stemmed": [
+		"communiti",
+		"membership",
+		"identif",
+		"from",
+		"small",
+		"seed",
+		"set"
+	],
+	"tag": [
+		"community",
+		"identification",
+		"set"
+	],
 	"title": "Community membership identification from small seed sets",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,7 +1,10 @@
 {
-	"author": ["Andy Podgurski", "Charles Yang"],
+	"author": [
+		"Andy Podgurski",
+		"Charles Yang"
+	],
 	"booktitle": "Proceedings of the First Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/1993",
 	"dblpkey": "conf/sigsoft/PodgurskiY93",
 	"doi": "10.1145/256428.167076",
@@ -9,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/256428.167076",
 	"pages": "169-181",
 	"publisher": "ACM",
-	"stemmed": ["partit", "test", "stratifi", "sampl", "and", "cluster", "analysi"],
-	"tag": ["analysis", "clustering", "testing"],
+	"stemmed": [
+		"partit",
+		"test",
+		"stratifi",
+		"sampl",
+		"and",
+		"cluster",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"clustering",
+		"testing"
+	],
 	"title": "Partition testing, stratified sampling, and cluster analysis",
 	"type": "inproceedings",
 	"venue": "FSE",

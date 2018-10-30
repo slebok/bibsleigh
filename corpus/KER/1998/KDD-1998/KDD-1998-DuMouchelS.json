@@ -1,13 +1,37 @@
 {
-	"author": ["William DuMouchel", "Matthias Schonlau"],
-	"booktitle": "KDD",
+	"author": [
+		"William DuMouchel",
+		"Matthias Schonlau"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1998",
 	"dblpkey": "conf/kdd/DuMouchelS98",
 	"ee": "http://www.aaai.org/Library/KDD/1998/kdd98-031.php",
 	"pages": "189-193",
 	"publisher": "AAAI Press",
-	"stemmed": ["a", "fast", "comput", "intrus", "detect", "algorithm", "base", "on", "hypothesi", "test", "of", "command", "transit", "probabl"],
-	"tag": ["algorithm", "detection", "performance", "testing"],
+	"stemmed": [
+		"a",
+		"fast",
+		"comput",
+		"intrus",
+		"detect",
+		"algorithm",
+		"base",
+		"on",
+		"hypothesi",
+		"test",
+		"of",
+		"command",
+		"transit",
+		"probabl"
+	],
+	"tag": [
+		"algorithm",
+		"detection",
+		"performance",
+		"testing"
+	],
 	"title": "A Fast Computer Intrusion Detection Algorithm Based on Hypothesis Testing of Command Transition Probabilities",
 	"type": "inproceedings",
 	"venue": "KDD",

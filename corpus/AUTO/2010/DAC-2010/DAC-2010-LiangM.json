@@ -1,14 +1,29 @@
 {
-	"author": ["Yun Liang", "Tulika Mitra"],
-	"booktitle": "DAC",
+	"author": [
+		"Yun Liang",
+		"Tulika Mitra"
+	],
+	"booktitle": "Proceedings of the 47th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2010",
 	"dblpkey": "conf/dac/LiangM10",
 	"doi": "10.1145/1837274.1837362",
 	"ee": "http://doi.acm.org/10.1145/1837274.1837362",
 	"pages": "344-349",
 	"publisher": "ACM",
-	"stemmed": ["instruct", "cach", "lock", "use", "tempor", "reus", "profil"],
-	"tag": ["reuse", "using"],
+	"stemmed": [
+		"instruct",
+		"cach",
+		"lock",
+		"use",
+		"tempor",
+		"reus",
+		"profil"
+	],
+	"tag": [
+		"reuse",
+		"using"
+	],
 	"title": "Instruction cache locking using temporal reuse profile",
 	"type": "inproceedings",
 	"venue": "DAC",

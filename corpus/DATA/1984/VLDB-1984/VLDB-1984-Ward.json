@@ -1,13 +1,25 @@
 {
 	"author": "A. G. Ward",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the 10th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/84",
 	"dblpkey": "conf/vldb/Ward84",
 	"ee": "http://www.vldb.org/conf/1984/P523.PDF",
 	"pages": "523-528",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["name", "trace", "use", "the", "icl", "content", "address", "filestor"],
-	"tag": ["using"],
+	"stemmed": [
+		"name",
+		"trace",
+		"use",
+		"the",
+		"icl",
+		"content",
+		"address",
+		"filestor"
+	],
+	"tag": [
+		"using"
+	],
 	"title": "Name-Tracing Using the ICL Content Addressable Filestore",
 	"type": "inproceedings",
 	"venue": "VLDB",

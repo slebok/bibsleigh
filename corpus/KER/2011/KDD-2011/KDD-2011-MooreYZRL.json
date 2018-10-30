@@ -1,14 +1,36 @@
 {
-	"author": ["Cristopher Moore", "Xiaoran Yan", "Yaojia Zhu", "Jean-Baptiste Rouquier", "Terran Lane"],
-	"booktitle": "KDD",
+	"author": [
+		"Cristopher Moore",
+		"Xiaoran Yan",
+		"Yaojia Zhu",
+		"Jean-Baptiste Rouquier",
+		"Terran Lane"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/MooreYZRL11",
 	"doi": "10.1145/2020408.2020552",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020552",
 	"pages": "841-849",
 	"publisher": "ACM",
-	"stemmed": ["activ", "learn", "for", "node", "classif", "in", "assort", "and", "disassort", "network"],
-	"tag": ["classification", "learning", "network"],
+	"stemmed": [
+		"activ",
+		"learn",
+		"for",
+		"node",
+		"classif",
+		"in",
+		"assort",
+		"and",
+		"disassort",
+		"network"
+	],
+	"tag": [
+		"classification",
+		"learning",
+		"network"
+	],
 	"title": "Active learning for node classification in assortative and disassortative networks",
 	"type": "inproceedings",
 	"venue": "KDD",

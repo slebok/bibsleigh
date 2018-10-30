@@ -1,6 +1,11 @@
 {
-	"author": ["Florent Jacquemard", "Yoshiharu Kojima", "Masahiko Sakai"],
-	"booktitle": "CADE",
+	"author": [
+		"Florent Jacquemard",
+		"Yoshiharu Kojima",
+		"Masahiko Sakai"
+	],
+	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
 	"dblpkey": "conf/cade/JacquemardKS15",
 	"doi": "10.1007/978-3-319-21401-6_9",
@@ -10,11 +15,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["term", "rewrit", "with", "prefix", "context", "constraint", "and", "bottom", "up", "strategi"],
-	"tag": ["bottom-up", "constraints", "term rewriting"],
+	"stemmed": [
+		"term",
+		"rewrit",
+		"with",
+		"prefix",
+		"context",
+		"constraint",
+		"and",
+		"bottom",
+		"up",
+		"strategi"
+	],
+	"tag": [
+		"bottom-up",
+		"constraints",
+		"term rewriting"
+	],
 	"title": "Term Rewriting with Prefix Context Constraints and Bottom-Up Strategies",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 9195,
+	"volume": "9195",
 	"year": 2015
 }

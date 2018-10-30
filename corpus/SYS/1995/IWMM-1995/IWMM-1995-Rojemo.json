@@ -1,6 +1,7 @@
 {
 	"author": "Niklas Röjemo",
-	"booktitle": "IWMM",
+	"booktitle": "Proceedings of the Second International Workshop on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/95",
 	"dblpkey": "conf/iwmm/Rojemo95",
 	"doi": "10.1007/3-540-60368-9_22",
@@ -10,11 +11,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["generat", "garbag", "collect", "without", "temporari", "space", "leak", "for", "lazi", "function", "languag"],
-	"tag": ["functional", "garbage collection", "lazy evaluation"],
+	"stemmed": [
+		"generat",
+		"garbag",
+		"collect",
+		"without",
+		"temporari",
+		"space",
+		"leak",
+		"for",
+		"lazi",
+		"function",
+		"languag"
+	],
+	"tag": [
+		"functional",
+		"garbage collection",
+		"lazy evaluation"
+	],
 	"title": "Generational Garbage Collection without Temporary Space Leaks for Lazy Functional Languages",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 986,
+	"volume": "986",
 	"year": 1995
 }

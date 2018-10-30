@@ -1,6 +1,11 @@
 {
-	"author": ["Jongchul Shin", "Hyunjin Kim", "Sungho Kang"],
-	"booktitle": "DATE",
+	"author": [
+		"Jongchul Shin",
+		"Hyunjin Kim",
+		"Sungho Kang"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/ShinKK99",
 	"doi": "10.1109/DATE.1999.761168",
@@ -8,8 +13,26 @@
 	"pages": "473-",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["at", "speed", "boundari", "scan", "interconnect", "test", "in", "a", "board", "with", "multipl", "system", "clock"],
-	"tag": ["bound", "multi", "testing"],
+	"stemmed": [
+		"at",
+		"speed",
+		"boundari",
+		"scan",
+		"interconnect",
+		"test",
+		"in",
+		"a",
+		"board",
+		"with",
+		"multipl",
+		"system",
+		"clock"
+	],
+	"tag": [
+		"bound",
+		"multi",
+		"testing"
+	],
 	"title": "At-Speed Boundary-Scan Interconnect Testing in a Board with Multiple System Clocks",
 	"type": "inproceedings",
 	"venue": "DATE",

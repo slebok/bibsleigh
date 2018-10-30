@@ -1,6 +1,10 @@
 {
-	"author": ["Rainer Hammwöhner", "Ulrich Thiel"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Rainer Hammwöhner",
+		"Ulrich Thiel"
+	],
+	"booktitle": "Proceedings of the First Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1987/P155.pdf",
 	"crossref": "conf/ht/87",
 	"dblpkey": "conf/ht/HammwohnerT87",
@@ -8,7 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/317426.317439",
 	"pages": "155-174",
 	"publisher": "ACM",
-	"stemmed": ["content", "orient", "relat", "between", "text", "unit", "a", "structur", "model", "for", "hypertext"],
+	"stemmed": [
+		"content",
+		"orient",
+		"relat",
+		"between",
+		"text",
+		"unit",
+		"a",
+		"structur",
+		"model",
+		"for",
+		"hypertext"
+	],
 	"title": "Content Oriented Relations between Text Units — A Structural Model for Hypertexts",
 	"type": "inproceedings",
 	"venue": "HT",

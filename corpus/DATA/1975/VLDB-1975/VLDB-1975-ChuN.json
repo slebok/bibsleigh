@@ -1,6 +1,10 @@
 {
-	"author": ["Wesley W. Chu", "E. Nahouraii"],
-	"booktitle": "VLDB",
+	"author": [
+		"Wesley W. Chu",
+		"E. Nahouraii"
+	],
+	"booktitle": "Proceedings of the First International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB75/P543.PDF",
 	"crossref": "conf/vldb/75",
 	"dblpkey": "conf/vldb/ChuN75",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/1282480.1282543",
 	"pages": "543-545",
 	"publisher": "ACM",
-	"stemmed": ["file", "directori", "design", "consider", "for", "distribut", "data", "base"],
-	"tag": ["database", "design", "distributed"],
+	"stemmed": [
+		"file",
+		"directori",
+		"design",
+		"consider",
+		"for",
+		"distribut",
+		"data",
+		"base"
+	],
+	"tag": [
+		"database",
+		"design",
+		"distributed"
+	],
 	"title": "File Directory Design Considerations for Distributed Data Bases",
 	"type": "inproceedings",
 	"venue": "VLDB",

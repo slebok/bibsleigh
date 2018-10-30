@@ -1,14 +1,39 @@
 {
-	"author": ["Weiqing Wang", "Hongzhi Yin", "Ling Chen", "Yizhou Sun", "Shazia Wasim Sadiq", "Xiaofang Zhou"],
-	"booktitle": "KDD",
+	"author": [
+		"Weiqing Wang",
+		"Hongzhi Yin",
+		"Ling Chen",
+		"Yizhou Sun",
+		"Shazia Wasim Sadiq",
+		"Xiaofang Zhou"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/WangYCSSZ15",
 	"doi": "10.1145/2783258.2783335",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783335",
 	"pages": "1255-1264",
 	"publisher": "ACM",
-	"stemmed": ["geo", "sage", "a", "geograph", "spars", "addit", "generat", "model", "for", "spatial", "item", "recommend"],
-	"tag": ["generative", "named", "recommendation"],
+	"stemmed": [
+		"geo",
+		"sage",
+		"a",
+		"geograph",
+		"spars",
+		"addit",
+		"generat",
+		"model",
+		"for",
+		"spatial",
+		"item",
+		"recommend"
+	],
+	"tag": [
+		"generative",
+		"named",
+		"recommendation"
+	],
 	"title": "Geo-SAGE: A Geographical Sparse Additive Generative Model for Spatial Item Recommendation",
 	"type": "inproceedings",
 	"venue": "KDD",

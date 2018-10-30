@@ -1,14 +1,33 @@
 {
-	"author": ["Puneet Gupta", "Andrew B. Kahng", "Amarnath Kasibhatla", "Puneet Sharma"],
-	"booktitle": "DAC",
+	"author": [
+		"Puneet Gupta",
+		"Andrew B. Kahng",
+		"Amarnath Kasibhatla",
+		"Puneet Sharma"
+	],
+	"booktitle": "Proceedings of the 47th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2010",
 	"dblpkey": "conf/dac/GuptaKKS10",
 	"doi": "10.1145/1837274.1837421",
 	"ee": "http://doi.acm.org/10.1145/1837274.1837421",
 	"pages": "597-602",
 	"publisher": "ACM",
-	"stemmed": ["eyechart", "construct", "benchmark", "of", "gate", "size", "heurist"],
-	"tag": ["benchmark", "heuristic", "metric", "named"],
+	"stemmed": [
+		"eyechart",
+		"construct",
+		"benchmark",
+		"of",
+		"gate",
+		"size",
+		"heurist"
+	],
+	"tag": [
+		"benchmark",
+		"heuristic",
+		"metric",
+		"named"
+	],
 	"title": "Eyecharts: constructive benchmarking of gate sizing heuristics",
 	"type": "inproceedings",
 	"venue": "DAC",

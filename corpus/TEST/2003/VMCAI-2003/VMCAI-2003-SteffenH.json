@@ -1,6 +1,10 @@
 {
-	"author": ["Bernhard Steffen", "Hardi Hungar"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Bernhard Steffen",
+		"Hardi Hungar"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2003",
 	"dblpkey": "conf/vmcai/SteffenH03",
 	"doi": "10.1007/3-540-36384-X_3",
@@ -10,11 +14,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["behavior", "base", "model", "construct"],
-	"tag": ["behaviour"],
+	"stemmed": [
+		"behavior",
+		"base",
+		"model",
+		"construct"
+	],
+	"tag": [
+		"behaviour"
+	],
 	"title": "Behavior-Based Model Construction",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2575,
+	"volume": "2575",
 	"year": 2003
 }

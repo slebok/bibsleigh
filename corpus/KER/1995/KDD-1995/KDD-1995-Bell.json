@@ -1,13 +1,27 @@
 {
 	"author": "Siegfried Bell",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the First International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1995",
 	"dblpkey": "conf/kdd/Bell95",
 	"ee": "http://www.aaai.org/Library/KDD/1995/kdd95-051.php",
 	"pages": "27-32",
 	"publisher": "AAAI Press",
-	"stemmed": ["discoveri", "and", "mainten", "of", "function", "depend", "by", "independ"],
-	"tag": ["dependence", "functional", "maintenance"],
+	"stemmed": [
+		"discoveri",
+		"and",
+		"mainten",
+		"of",
+		"function",
+		"depend",
+		"by",
+		"independ"
+	],
+	"tag": [
+		"dependence",
+		"functional",
+		"maintenance"
+	],
 	"title": "Discovery and Maintenance of Functional Dependencies by Independencies",
 	"type": "inproceedings",
 	"venue": "KDD",

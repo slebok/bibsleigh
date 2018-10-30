@@ -1,13 +1,25 @@
 {
 	"author": "George H. John",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the First International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1995",
 	"dblpkey": "conf/kdd/John95",
 	"ee": "http://www.aaai.org/Library/KDD/1995/kdd95-044.php",
 	"pages": "174-179",
 	"publisher": "AAAI Press",
-	"stemmed": ["robust", "decis", "tree", "remov", "outlier", "from", "databas"],
-	"tag": ["database", "robust"],
+	"stemmed": [
+		"robust",
+		"decis",
+		"tree",
+		"remov",
+		"outlier",
+		"from",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"robust"
+	],
 	"title": "Robust Decision Trees: Removing Outliers from Databases",
 	"type": "inproceedings",
 	"venue": "KDD",

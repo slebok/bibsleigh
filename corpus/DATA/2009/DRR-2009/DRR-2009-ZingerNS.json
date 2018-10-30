@@ -1,6 +1,11 @@
 {
-	"author": ["Svitlana Zinger", "John Nerbonne", "Lambert Schomaker"],
-	"booktitle": "DRR",
+	"author": [
+		"Svitlana Zinger",
+		"John Nerbonne",
+		"Lambert Schomaker"
+	],
+	"booktitle": "Proceedings of the 16th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2009",
 	"dblpkey": "conf/drr/ZingerNS09",
 	"doi": "10.1117/12.805511",
@@ -8,11 +13,21 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["text", "imag", "align", "for", "histor", "handwritten", "document"],
-	"tag": ["documentation"],
+	"stemmed": [
+		"text",
+		"imag",
+		"align",
+		"for",
+		"histor",
+		"handwritten",
+		"document"
+	],
+	"tag": [
+		"documentation"
+	],
 	"title": "Text-image alignment for historical handwritten documents",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7247,
+	"volume": "7247",
 	"year": 2009
 }

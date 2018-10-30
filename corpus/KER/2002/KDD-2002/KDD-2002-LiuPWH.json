@@ -1,14 +1,31 @@
 {
-	"author": ["Junqiang Liu", "Yunhe Pan", "Ke Wang", "Jiawei Han"],
-	"booktitle": "KDD",
+	"author": [
+		"Junqiang Liu",
+		"Yunhe Pan",
+		"Ke Wang",
+		"Jiawei Han"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/LiuPWH02",
 	"doi": "10.1145/775047.775081",
 	"ee": "http://doi.acm.org/10.1145/775047.775081",
 	"pages": "229-238",
 	"publisher": "ACM",
-	"stemmed": ["mine", "frequent", "item", "set", "by", "opportunist", "project"],
-	"tag": ["mining", "set"],
+	"stemmed": [
+		"mine",
+		"frequent",
+		"item",
+		"set",
+		"by",
+		"opportunist",
+		"project"
+	],
+	"tag": [
+		"mining",
+		"set"
+	],
 	"title": "Mining frequent item sets by opportunistic projection",
 	"type": "inproceedings",
 	"venue": "KDD",

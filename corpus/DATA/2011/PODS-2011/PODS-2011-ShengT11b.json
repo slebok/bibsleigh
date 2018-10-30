@@ -1,14 +1,34 @@
 {
-	"author": ["Cheng Sheng", "Yufei Tao"],
-	"booktitle": "PODS",
+	"author": [
+		"Cheng Sheng",
+		"Yufei Tao"
+	],
+	"booktitle": "Proceedings of the 30th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2011",
 	"dblpkey": "conf/pods/ShengT11b",
 	"doi": "10.1145/1989284.1989297",
 	"ee": "http://doi.acm.org/10.1145/1989284.1989297",
 	"pages": "129-139",
 	"publisher": "ACM",
-	"stemmed": ["new", "result", "on", "two", "dimension", "orthogon", "rang", "aggreg", "in", "extern", "memori"],
-	"tag": ["2d", "memory management", "orthogonal"],
+	"stemmed": [
+		"new",
+		"result",
+		"on",
+		"two",
+		"dimension",
+		"orthogon",
+		"rang",
+		"aggreg",
+		"in",
+		"extern",
+		"memori"
+	],
+	"tag": [
+		"2d",
+		"memory management",
+		"orthogonal"
+	],
 	"title": "New results on two-dimensional orthogonal range aggregation in external memory",
 	"type": "inproceedings",
 	"venue": "PODS",

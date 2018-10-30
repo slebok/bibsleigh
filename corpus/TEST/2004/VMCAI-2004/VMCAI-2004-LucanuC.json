@@ -1,6 +1,10 @@
 {
-	"author": ["Dorel Lucanu", "Gabriel Ciobanu"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Dorel Lucanu",
+		"Gabriel Ciobanu"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2004",
 	"dblpkey": "conf/vmcai/LucanuC04",
 	"doi": "10.1007/978-3-540-24622-0_10",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["model", "check", "for", "object", "specif", "in", "hidden", "algebra"],
-	"tag": ["algebra", "model checking", "specification"],
+	"stemmed": [
+		"model",
+		"check",
+		"for",
+		"object",
+		"specif",
+		"in",
+		"hidden",
+		"algebra"
+	],
+	"tag": [
+		"algebra",
+		"model checking",
+		"specification"
+	],
 	"title": "Model Checking for Object Specifications in Hidden Algebra",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2937,
+	"volume": "2937",
 	"year": 2004
 }

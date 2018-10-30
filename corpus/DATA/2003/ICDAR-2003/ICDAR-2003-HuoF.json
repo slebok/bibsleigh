@@ -1,15 +1,42 @@
 {
-	"author": ["Qiang Huo", "Zhi-Dan Feng"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Qiang Huo",
+		"Zhi-Dan Feng"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2003",
 	"dblpkey": "conf/icdar/HuoF03",
 	"doi": "10.1109/ICDAR.2003.1227690",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2003.1227690", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2003.1227690"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2003.1227690",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2003.1227690"
+	],
 	"pages": "364-368",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["improv", "chines", "english", "ocr", "perform", "by", "use", "mce", "base", "charact", "pair", "model", "and", "negat", "train"],
-	"tag": ["modelling", "performance", "using"],
+	"stemmed": [
+		"improv",
+		"chines",
+		"english",
+		"ocr",
+		"perform",
+		"by",
+		"use",
+		"mce",
+		"base",
+		"charact",
+		"pair",
+		"model",
+		"and",
+		"negat",
+		"train"
+	],
+	"tag": [
+		"modelling",
+		"performance",
+		"using"
+	],
 	"title": "Improving Chinese/English OCR Performance by Using MCE-based Character-Pair Modeling and Negative Training",
 	"type": "inproceedings",
 	"venue": "ICDAR",

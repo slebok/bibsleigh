@@ -1,14 +1,33 @@
 {
-	"author": ["Evan Tick", "Nobuyuki Ichiyoshi"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Evan Tick",
+		"Nobuyuki Ichiyoshi"
+	],
+	"booktitle": "Proceedings of the Second Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1990",
 	"dblpkey": "conf/ppopp/TickI90",
 	"doi": "10.1145/99163.99168",
 	"ee": "http://doi.acm.org/10.1145/99163.99168",
 	"pages": "31-39",
 	"publisher": "ACM",
-	"stemmed": ["program", "techniqu", "for", "effici", "exploit", "parallel", "in", "logic", "program", "languag"],
-	"tag": ["logic programming", "parallel", "programming language"],
+	"stemmed": [
+		"program",
+		"techniqu",
+		"for",
+		"effici",
+		"exploit",
+		"parallel",
+		"in",
+		"logic",
+		"program",
+		"languag"
+	],
+	"tag": [
+		"logic programming",
+		"parallel",
+		"programming language"
+	],
 	"title": "Programming Techniques for Efficiently Exploiting Parallelism in Logic Programming Languages",
 	"type": "inproceedings",
 	"venue": "PPoPP",

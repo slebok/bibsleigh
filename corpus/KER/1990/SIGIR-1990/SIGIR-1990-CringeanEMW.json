@@ -1,6 +1,12 @@
 {
-	"author": ["Janey K. Cringean", "Roger England", "Gordon A. Manson", "Peter Willett"],
+	"author": [
+		"Janey K. Cringean",
+		"Roger England",
+		"Gordon A. Manson",
+		"Peter Willett"
+	],
 	"booktitle": "Proceedings of the 13th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1990/P429.pdf",
 	"crossref": "conf/sigir/90",
 	"dblpkey": "conf/sigir/CringeanEMW90",
@@ -8,8 +14,22 @@
 	"ee": "http://doi.acm.org/10.1145/96749.98249",
 	"pages": "429-453",
 	"publisher": "ACM",
-	"stemmed": ["parallel", "text", "search", "in", "serial", "file", "use", "a", "processor", "farm"],
-	"tag": ["parallel", "using"],
+	"stemmed": [
+		"parallel",
+		"text",
+		"search",
+		"in",
+		"serial",
+		"file",
+		"use",
+		"a",
+		"processor",
+		"farm"
+	],
+	"tag": [
+		"parallel",
+		"using"
+	],
 	"title": "Parallel Text Searching in Serial Files Using a Processor Farm",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,6 +1,9 @@
 {
-	"author": ["Catharine M. Wyss", "Felix I. Wyss"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Catharine M. Wyss",
+		"Felix I. Wyss"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/WyssW07",
@@ -8,8 +11,27 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247533",
 	"pages": "473-484",
 	"publisher": "ACM",
-	"stemmed": ["extend", "relat", "queri", "optim", "to", "dynam", "schema", "for", "inform", "integr", "in", "multidatabas"],
-	"tag": ["integration", "multi", "optimisation", "query", "relational"],
+	"stemmed": [
+		"extend",
+		"relat",
+		"queri",
+		"optim",
+		"to",
+		"dynam",
+		"schema",
+		"for",
+		"inform",
+		"integr",
+		"in",
+		"multidatabas"
+	],
+	"tag": [
+		"integration",
+		"multi",
+		"optimisation",
+		"query",
+		"relational"
+	],
 	"title": "Extending relational query optimization to dynamic schemas for information integration in multidatabases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

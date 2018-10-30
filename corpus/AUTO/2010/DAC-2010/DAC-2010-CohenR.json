@@ -1,14 +1,33 @@
 {
-	"author": ["Albert Cohen", "Erven Rohou"],
-	"booktitle": "DAC",
+	"author": [
+		"Albert Cohen",
+		"Erven Rohou"
+	],
+	"booktitle": "Proceedings of the 47th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2010",
 	"dblpkey": "conf/dac/CohenR10",
 	"doi": "10.1145/1837274.1837303",
 	"ee": "http://doi.acm.org/10.1145/1837274.1837303",
 	"pages": "102-107",
 	"publisher": "ACM",
-	"stemmed": ["processor", "virtual", "and", "split", "compil", "for", "heterogen", "multicor", "embed", "system"],
-	"tag": ["compilation", "embedded", "manycore"],
+	"stemmed": [
+		"processor",
+		"virtual",
+		"and",
+		"split",
+		"compil",
+		"for",
+		"heterogen",
+		"multicor",
+		"embed",
+		"system"
+	],
+	"tag": [
+		"compilation",
+		"embedded",
+		"manycore"
+	],
 	"title": "Processor virtualization and split compilation for heterogeneous multicore embedded systems",
 	"type": "inproceedings",
 	"venue": "DAC",

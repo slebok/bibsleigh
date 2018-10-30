@@ -1,6 +1,12 @@
 {
-	"author": ["D. Yang", "L. Jin", "L.-X. Zhen", "J.-C. Huang"],
-	"booktitle": "ICDAR",
+	"author": [
+		"D. Yang",
+		"L. Jin",
+		"L.-X. Zhen",
+		"J.-C. Huang"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/YangJZH07",
 	"doi": "10.1109/ICDAR.2007.120",
@@ -8,8 +14,20 @@
 	"pages": "322-326",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["finger", "written", "chines", "charact", "recognit", "use", "hierarch", "lda"],
-	"tag": ["recognition", "using"],
+	"stemmed": [
+		"finger",
+		"written",
+		"chines",
+		"charact",
+		"recognit",
+		"use",
+		"hierarch",
+		"lda"
+	],
+	"tag": [
+		"recognition",
+		"using"
+	],
 	"title": "Finger-Written Chinese Characters Recognition Using Hierarchical LDA",
 	"type": "inproceedings",
 	"venue": "ICDAR",

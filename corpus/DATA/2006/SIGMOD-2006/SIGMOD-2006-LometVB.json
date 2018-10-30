@@ -1,6 +1,10 @@
 {
-	"author": ["David B. Lomet", "Zografoula Vagena", "Roger S. Barga"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"David B. Lomet",
+		"Zografoula Vagena",
+		"Roger S. Barga"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/LometVB06",
@@ -8,8 +12,16 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142512",
 	"pages": "337-346",
 	"publisher": "ACM",
-	"stemmed": ["recoveri", "from", "bad", "user", "transact"],
-	"tag": ["transaction"],
+	"stemmed": [
+		"recoveri",
+		"from",
+		"bad",
+		"user",
+		"transact"
+	],
+	"tag": [
+		"transaction"
+	],
 	"title": "Recovery from “bad” user transactions",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

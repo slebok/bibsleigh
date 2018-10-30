@@ -1,13 +1,37 @@
 {
-	"author": ["Peter Kjellberg", "Torben U. Zahle"],
-	"booktitle": "VLDB",
-	"cite": ["journals/tods/FaginNPS79", "...", "conf/sigmod/Knott71", "books/aw/Knuth73", "journals/bit/Larson78", "conf/vldb/Larson80", "conf/vldb/Larson82", "conf/vldb/Litwin78", "conf/vldb/Litwin80", "journals/tods/Lomet83", "...", "journals/bit/Mullin81", "journals/cj/RamamohanaraoL82", "journals/tods/Scholl81", "...", "journals/cacm/Vitter82"],
+	"author": [
+		"Peter Kjellberg",
+		"Torben U. Zahle"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/tods/FaginNPS79",
+		"...",
+		"conf/sigmod/Knott71",
+		"books/aw/Knuth73",
+		"journals/bit/Larson78",
+		"conf/vldb/Larson80",
+		"conf/vldb/Larson82",
+		"conf/vldb/Litwin78",
+		"conf/vldb/Litwin80",
+		"journals/tods/Lomet83",
+		"...",
+		"journals/bit/Mullin81",
+		"journals/cj/RamamohanaraoL82",
+		"journals/tods/Scholl81",
+		"...",
+		"journals/cacm/Vitter82"
+	],
 	"crossref": "conf/vldb/84",
 	"dblpkey": "conf/vldb/KjellbergZ84",
 	"ee": "http://www.vldb.org/conf/1984/P481.PDF",
 	"pages": "481-492",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["cascad", "hash"],
+	"stemmed": [
+		"cascad",
+		"hash"
+	],
 	"title": "Cascade Hashing",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,14 +1,35 @@
 {
-	"author": ["Rosalia Christodoulopoulou", "Kaloian Manassiev", "Angelos Bilas", "Cristiana Amza"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Rosalia Christodoulopoulou",
+		"Kaloian Manassiev",
+		"Angelos Bilas",
+		"Cristiana Amza"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2006",
 	"dblpkey": "conf/ppopp/ChristodoulopoulouMBA06",
 	"doi": "10.1145/1122971.1123005",
 	"ee": "http://doi.acm.org/10.1145/1122971.1123005",
 	"pages": "221-229",
 	"publisher": "ACM",
-	"stemmed": ["fast", "and", "transpar", "recoveri", "for", "continu", "avail", "of", "cluster", "base", "server"],
-	"tag": ["clustering", "performance"],
+	"stemmed": [
+		"fast",
+		"and",
+		"transpar",
+		"recoveri",
+		"for",
+		"continu",
+		"avail",
+		"of",
+		"cluster",
+		"base",
+		"server"
+	],
+	"tag": [
+		"clustering",
+		"performance"
+	],
 	"title": "Fast and transparent recovery for continuous availability of cluster-based servers",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,15 +1,40 @@
 {
-	"author": ["Ed Grochowski", "David Ayers", "Vivek Tiwari"],
-	"booktitle": "HPCA",
+	"author": [
+		"Ed Grochowski",
+		"David Ayers",
+		"Vivek Tiwari"
+	],
+	"booktitle": "Proceedings of the Eighth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2002",
 	"dblpkey": "conf/hpca/GrochowskiAT02",
 	"doi": "10.1109/HPCA.2002.995694",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2002.995694", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2002.995694"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2002.995694",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2002.995694"
+	],
 	"pages": "7-16",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["microarchitectur", "simul", "and", "control", "of", "di", "dt", "induc", "power", "suppli", "voltag", "variat"],
-	"tag": ["architecture", "power management", "simulation"],
+	"stemmed": [
+		"microarchitectur",
+		"simul",
+		"and",
+		"control",
+		"of",
+		"di",
+		"dt",
+		"induc",
+		"power",
+		"suppli",
+		"voltag",
+		"variat"
+	],
+	"tag": [
+		"architecture",
+		"power management",
+		"simulation"
+	],
 	"title": "Microarchitectural Simulation and Control of di/dt-induced Power Supply Voltage Variation",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,6 +1,17 @@
 {
-	"author": ["Vladimir Bychkovsky", "Kevin Chen", "Michel Goraczko", "Hongyi Hu", "Bret Hull", "Allen Miu", "Eugene Shih", "Yang Zhang", "Hari Balakrishnan", "Samuel Madden"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Vladimir Bychkovsky",
+		"Kevin Chen",
+		"Michel Goraczko",
+		"Hongyi Hu",
+		"Bret Hull",
+		"Allen Miu",
+		"Eugene Shih",
+		"Yang Zhang",
+		"Hari Balakrishnan",
+		"Samuel Madden"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/BychkovskyCGHHMSZBM06",
@@ -8,8 +19,22 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142569",
 	"pages": "730-732",
 	"publisher": "ACM",
-	"stemmed": ["data", "manag", "in", "the", "car", "tel", "mobil", "sensor", "comput", "system"],
-	"tag": ["data transformation", "mobile"],
+	"stemmed": [
+		"data",
+		"manag",
+		"in",
+		"the",
+		"car",
+		"tel",
+		"mobil",
+		"sensor",
+		"comput",
+		"system"
+	],
+	"tag": [
+		"data transformation",
+		"mobile"
+	],
 	"title": "Data management in the CarTel mobile sensor computing system",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

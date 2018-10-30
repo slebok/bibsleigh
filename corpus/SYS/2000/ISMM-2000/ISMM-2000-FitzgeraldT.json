@@ -1,14 +1,30 @@
 {
-	"author": ["Robert P. Fitzgerald", "David Tarditi"],
-	"booktitle": "ISMM",
+	"author": [
+		"Robert P. Fitzgerald",
+		"David Tarditi"
+	],
+	"booktitle": "Proceedings of the Second International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2000",
 	"dblpkey": "conf/iwmm/FitzgeraldT00",
 	"doi": "10.1145/362422.362472",
 	"ee": "http://doi.acm.org/10.1145/362422.362472",
 	"pages": "111-120",
 	"publisher": "ACM",
-	"stemmed": ["the", "case", "for", "profil", "direct", "select", "of", "garbag", "collector"],
-	"tag": ["garbage collection"],
+	"stemmed": [
+		"the",
+		"case",
+		"for",
+		"profil",
+		"direct",
+		"select",
+		"of",
+		"garbag",
+		"collector"
+	],
+	"tag": [
+		"garbage collection"
+	],
 	"title": "The Case for Profile-Directed Selection of Garbage Collectors",
 	"type": "inproceedings",
 	"venue": "ISMM",

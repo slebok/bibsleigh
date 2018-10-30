@@ -1,14 +1,36 @@
 {
-	"author": ["Juan Touriño", "Jacobo Barro", "Ramon Doallo", "Víctor M. Gulías"],
+	"author": [
+		"Juan Touriño",
+		"Jacobo Barro",
+		"Ramon Doallo",
+		"Víctor M. Gulías"
+	],
 	"booktitle": "Proceedings of the 17th Symposium on Applied Computing",
+	"booktitleshort": "SAC",
 	"crossref": "conf/sac/2002",
 	"dblpkey": "conf/sac/TourinoBDG02",
 	"doi": "10.1145/508791.508966",
 	"ee": "http://doi.acm.org/10.1145/508791.508966",
 	"pages": "907-912",
 	"publisher": "ACM",
-	"stemmed": ["perform", "analysi", "of", "mpi", "i", "o", "primit", "on", "a", "pc", "cluster"],
-	"tag": ["analysis", "clustering", "performance"],
+	"stemmed": [
+		"perform",
+		"analysi",
+		"of",
+		"mpi",
+		"i",
+		"o",
+		"primit",
+		"on",
+		"a",
+		"pc",
+		"cluster"
+	],
+	"tag": [
+		"analysis",
+		"clustering",
+		"performance"
+	],
 	"title": "Performance analysis of MPI-I/O primitives on a PC cluster",
 	"type": "inproceedings",
 	"venue": "SAC",

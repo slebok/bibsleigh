@@ -1,6 +1,9 @@
 {
-	"author": ["Zhiyuan Li", "Pen-Chung Yew"],
-	"booktitle": "PPOPP/PPEALS",
+	"author": [
+		"Zhiyuan Li",
+		"Pen-Chung Yew"
+	],
+	"booktitle": "Proceedings of the First Symposium on Parallel Programming: Experience with Applications, Languages and Systems",
 	"booktitleshort": "PPEALS",
 	"crossref": "conf/ppopp/1988",
 	"dblpkey": "conf/ppopp/LiY88",
@@ -8,8 +11,22 @@
 	"ee": "http://doi.acm.org/10.1145/62115.62125",
 	"pages": "85-99",
 	"publisher": "ACM",
-	"stemmed": ["effici", "interprocedur", "analysi", "for", "program", "parallel", "and", "restructur"],
-	"tag": ["analysis", "interprocedural", "parallel", "performance"],
+	"stemmed": [
+		"effici",
+		"interprocedur",
+		"analysi",
+		"for",
+		"program",
+		"parallel",
+		"and",
+		"restructur"
+	],
+	"tag": [
+		"analysis",
+		"interprocedural",
+		"parallel",
+		"performance"
+	],
 	"title": "Efficient Interprocedural Analysis for Program Parallelization and Restructuring",
 	"type": "inproceedings",
 	"venue": "PPoPP",

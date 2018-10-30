@@ -1,16 +1,50 @@
 {
-	"author": ["Jayant R. Haritsa", "Michael J. Carey", "Miron Livny"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS90/P331.PDF", "journals/anthology/dvd1:text/1-3/PODS90/P331.PDF"],
-	"cite": ["conf/vldb/AbbottG88", "conf/vldb/AbbottG89", "journals/tods/AgrawalCL87", "conf/vldb/CareyL88", "conf/vldb/CareyJL89", "journals/cacm/EswarranGLT76", "journals/tods/KungR81", "...", "journals/is/MenasceN82", "...", "...", "...", "..."],
+	"author": [
+		"Jayant R. Haritsa",
+		"Michael J. Carey",
+		"Miron Livny"
+	],
+	"booktitle": "Proceedings of the Ninth Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS90/P331.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS90/P331.PDF"
+	],
+	"cite": [
+		"conf/vldb/AbbottG88",
+		"conf/vldb/AbbottG89",
+		"journals/tods/AgrawalCL87",
+		"conf/vldb/CareyL88",
+		"conf/vldb/CareyJL89",
+		"journals/cacm/EswarranGLT76",
+		"journals/tods/KungR81",
+		"...",
+		"journals/is/MenasceN82",
+		"...",
+		"...",
+		"...",
+		"..."
+	],
 	"crossref": "conf/pods/90",
 	"dblpkey": "conf/pods/HaritsaCL90",
 	"doi": "10.1145/298514.298585",
 	"ee": "http://doi.acm.org/10.1145/298514.298585",
 	"pages": "331-343",
 	"publisher": "ACM Press",
-	"stemmed": ["on", "be", "optimist", "about", "real", "time", "constraint"],
-	"tag": ["constraints", "on the", "realtime"],
+	"stemmed": [
+		"on",
+		"be",
+		"optimist",
+		"about",
+		"real",
+		"time",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"on the",
+		"realtime"
+	],
 	"title": "On Being Optimistic about Real-Time Constraints",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,17 +1,44 @@
 {
-	"author": ["Misha Zitser", "Richard Lippmann", "Tim Leek"],
+	"author": [
+		"Misha Zitser",
+		"Richard Lippmann",
+		"Tim Leek"
+	],
 	"booktitle": "Proceedings of the 12th International Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2004",
 	"dblpkey": "conf/sigsoft/ZitserLL04",
 	"doi": "10.1145/1029894.1029911",
-	"editor": ["Richard N. Taylor", "Matthew B. Dwyer"],
+	"editor": [
+		"Richard N. Taylor",
+		"Matthew B. Dwyer"
+	],
 	"ee": "http://doi.acm.org/10.1145/1029894.1029911",
 	"isbn": "1-58113-855-5",
 	"pages": "97-106",
 	"publisher": "ACM",
-	"stemmed": ["test", "static", "analysi", "tool", "use", "exploit", "buffer", "overflow", "from", "open", "sourc", "code"],
-	"tag": ["open source", "source code", "static analysis", "testing", "tool support", "using"],
+	"stemmed": [
+		"test",
+		"static",
+		"analysi",
+		"tool",
+		"use",
+		"exploit",
+		"buffer",
+		"overflow",
+		"from",
+		"open",
+		"sourc",
+		"code"
+	],
+	"tag": [
+		"open source",
+		"source code",
+		"static analysis",
+		"testing",
+		"tool support",
+		"using"
+	],
 	"title": "Testing static analysis tools using exploitable buffer overflows from open source code",
 	"type": "inproceedings",
 	"venue": "FSE",

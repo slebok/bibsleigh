@@ -1,15 +1,40 @@
 {
-	"author": ["Nilanjan Goswami", "Bingyi Cao", "Tao Li"],
-	"booktitle": "HPCA",
+	"author": [
+		"Nilanjan Goswami",
+		"Bingyi Cao",
+		"Tao Li"
+	],
+	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/GoswamiCL13",
 	"doi": "10.1109/HPCA.2013.6522331",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522331", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522331"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2013.6522331",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522331"
+	],
 	"pages": "342-353",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["power", "perform", "co", "optim", "of", "throughput", "core", "architectur", "use", "resist", "memori"],
-	"tag": ["architecture", "memory management", "throughput", "using"],
+	"stemmed": [
+		"power",
+		"perform",
+		"co",
+		"optim",
+		"of",
+		"throughput",
+		"core",
+		"architectur",
+		"use",
+		"resist",
+		"memori"
+	],
+	"tag": [
+		"architecture",
+		"memory management",
+		"throughput",
+		"using"
+	],
 	"title": "Power-performance co-optimization of throughput core architecture using resistive memory",
 	"type": "inproceedings",
 	"venue": "HPCA",

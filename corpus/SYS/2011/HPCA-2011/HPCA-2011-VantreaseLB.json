@@ -1,15 +1,37 @@
 {
-	"author": ["Dana Vantrease", "Mikko H. Lipasti", "Nathan L. Binkert"],
-	"booktitle": "HPCA",
+	"author": [
+		"Dana Vantrease",
+		"Mikko H. Lipasti",
+		"Nathan L. Binkert"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2011",
 	"dblpkey": "conf/hpca/VantreaseLB11",
 	"doi": "10.1109/HPCA.2011.5749723",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2011.5749723", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2011.5749723"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2011.5749723",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2011.5749723"
+	],
 	"pages": "132-143",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["atom", "coher", "leverag", "nanophoton", "to", "build", "race", "free", "cach", "coher", "protocol"],
-	"tag": ["protocol"],
+	"stemmed": [
+		"atom",
+		"coher",
+		"leverag",
+		"nanophoton",
+		"to",
+		"build",
+		"race",
+		"free",
+		"cach",
+		"coher",
+		"protocol"
+	],
+	"tag": [
+		"protocol"
+	],
 	"title": "Atomic Coherence: Leveraging nanophotonics to build race-free cache coherence protocols",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,6 +1,11 @@
 {
-	"author": ["Aaron R. Bradley", "Zohar Manna", "Henny B. Sipma"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Aaron R. Bradley",
+		"Zohar Manna",
+		"Henny B. Sipma"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2005",
 	"dblpkey": "conf/vmcai/BradleyMS05",
 	"doi": "10.1007/978-3-540-30579-8_8",
@@ -10,11 +15,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["termin", "of", "polynomi", "program"],
-	"tag": ["polynomial", "source code", "termination"],
+	"stemmed": [
+		"termin",
+		"of",
+		"polynomi",
+		"program"
+	],
+	"tag": [
+		"polynomial",
+		"source code",
+		"termination"
+	],
 	"title": "Termination of Polynomial Programs",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3385,
+	"volume": "3385",
 	"year": 2005
 }

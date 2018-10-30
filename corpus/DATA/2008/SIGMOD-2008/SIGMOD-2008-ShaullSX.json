@@ -1,6 +1,10 @@
 {
-	"author": ["Ross Shaull", "Liuba Shrira", "Hao Xu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ross Shaull",
+		"Liuba Shrira",
+		"Hao Xu"
+	],
+	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2008",
 	"dblpkey": "conf/sigmod/ShaullSX08",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/1376616.1376681",
 	"pages": "637-648",
 	"publisher": "ACM",
-	"stemmed": ["skippi", "a", "new", "snapshot", "index", "method", "for", "time", "travel", "in", "the", "storag", "manag"],
-	"tag": ["named"],
+	"stemmed": [
+		"skippi",
+		"a",
+		"new",
+		"snapshot",
+		"index",
+		"method",
+		"for",
+		"time",
+		"travel",
+		"in",
+		"the",
+		"storag",
+		"manag"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "Skippy: a new snapshot indexing method for time travel in the storage manager",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

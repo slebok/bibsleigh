@@ -1,16 +1,40 @@
 {
-	"author": ["Roger L. Haskin", "Raymond A. Lorie"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Roger L. Haskin",
+		"Raymond A. Lorie"
+	],
+	"booktitle": "Proceedings of the 12th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD82/P207.PDF",
-	"cite": ["journals/tods/AstrahanBCEGGKLMMPTWW76", "journals/cacm/Codd70", "journals/tods/Codd79", "...", "conf/pods/JaeschkeS82"],
+	"cite": [
+		"journals/tods/AstrahanBCEGGKLMMPTWW76",
+		"journals/cacm/Codd70",
+		"journals/tods/Codd79",
+		"...",
+		"conf/pods/JaeschkeS82"
+	],
 	"crossref": "conf/sigmod/82",
 	"dblpkey": "conf/sigmod/HaskinL82",
 	"doi": "10.1145/582353.582390",
 	"ee": "http://doi.acm.org/10.1145/582353.582390",
 	"pages": "207-212",
 	"publisher": "ACM Press",
-	"stemmed": ["on", "extend", "the", "function", "of", "a", "relat", "databas", "system"],
-	"tag": ["database", "on the", "relational"],
+	"stemmed": [
+		"on",
+		"extend",
+		"the",
+		"function",
+		"of",
+		"a",
+		"relat",
+		"databas",
+		"system"
+	],
+	"tag": [
+		"database",
+		"on the",
+		"relational"
+	],
 	"title": "On Extending the Functions of a Relational Database System",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

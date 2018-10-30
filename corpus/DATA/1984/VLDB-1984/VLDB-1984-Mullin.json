@@ -1,13 +1,24 @@
 {
 	"author": "James K. Mullin",
-	"booktitle": "VLDB",
-	"cite": ["conf/vldb/Larson80", "conf/vldb/Litwin80", "...", "journals/cj/Mullin85", "journals/bit/Mullin81"],
+	"booktitle": "Proceedings of the 10th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/vldb/Larson80",
+		"conf/vldb/Litwin80",
+		"...",
+		"journals/cj/Mullin85",
+		"journals/bit/Mullin81"
+	],
 	"crossref": "conf/vldb/84",
 	"dblpkey": "conf/vldb/Mullin84",
 	"ee": "http://www.vldb.org/conf/1984/P473.PDF",
 	"pages": "473-480",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["unifi", "dynam", "hash"],
+	"stemmed": [
+		"unifi",
+		"dynam",
+		"hash"
+	],
 	"title": "Unified Dynamic Hashing",
 	"type": "inproceedings",
 	"venue": "VLDB",

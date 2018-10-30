@@ -1,13 +1,29 @@
 {
-	"author": ["Herbert Bos", "Willem de Bruijn", "Mihai-Lucian Cristea", "Trung Nguyen", "Georgios Portokalidis"],
-	"booktitle": "OSDI",
+	"author": [
+		"Herbert Bos",
+		"Willem de Bruijn",
+		"Mihai-Lucian Cristea",
+		"Trung Nguyen",
+		"Georgios Portokalidis"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2004",
 	"dblpkey": "conf/osdi/BosBCNP04",
 	"ee": "http://www.usenix.org/events/osdi04/tech/bos.html",
 	"pages": "347-363",
 	"publisher": "USENIX Association",
-	"stemmed": ["ffpf", "fair", "fast", "packet", "filter"],
-	"tag": ["named", "performance"],
+	"stemmed": [
+		"ffpf",
+		"fair",
+		"fast",
+		"packet",
+		"filter"
+	],
+	"tag": [
+		"named",
+		"performance"
+	],
 	"title": "FFPF: Fairly Fast Packet Filters",
 	"type": "inproceedings",
 	"venue": "OSDI",

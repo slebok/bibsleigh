@@ -1,14 +1,35 @@
 {
-	"author": ["Daniel Lo", "Tao Chen", "Mohamed Ismail", "G. Edward Suh"],
-	"booktitle": "HPCA",
+	"author": [
+		"Daniel Lo",
+		"Tao Chen",
+		"Mohamed Ismail",
+		"G. Edward Suh"
+	],
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2015",
 	"dblpkey": "conf/hpca/LoCIS15",
 	"doi": "10.1109/HPCA.2015.7056071",
 	"ee": "http://dx.doi.org/10.1109/HPCA.2015.7056071",
 	"pages": "662-674",
 	"publisher": "IEEE",
-	"stemmed": ["run", "time", "monitor", "with", "adjust", "overhead", "use", "dataflow", "guid", "filter"],
-	"tag": ["monitoring", "runtime", "using"],
+	"stemmed": [
+		"run",
+		"time",
+		"monitor",
+		"with",
+		"adjust",
+		"overhead",
+		"use",
+		"dataflow",
+		"guid",
+		"filter"
+	],
+	"tag": [
+		"monitoring",
+		"runtime",
+		"using"
+	],
 	"title": "Run-time monitoring with adjustable overhead using dataflow-guided filtering",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,14 +1,33 @@
 {
-	"author": ["Shan Lu", "Joseph Tucek", "Feng Qin", "Yuanyuan Zhou"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Shan Lu",
+		"Joseph Tucek",
+		"Feng Qin",
+		"Yuanyuan Zhou"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/LuTQZ06",
 	"doi": "10.1145/1168857.1168864",
 	"ee": "http://doi.acm.org/10.1145/1168857.1168864",
 	"pages": "37-48",
 	"publisher": "ACM",
-	"stemmed": ["avio", "detect", "atom", "violat", "via", "access", "interleav", "invari"],
-	"tag": ["detection", "invariant", "named"],
+	"stemmed": [
+		"avio",
+		"detect",
+		"atom",
+		"violat",
+		"via",
+		"access",
+		"interleav",
+		"invari"
+	],
+	"tag": [
+		"detection",
+		"invariant",
+		"named"
+	],
 	"title": "AVIO: detecting atomicity violations via access interleaving invariants",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

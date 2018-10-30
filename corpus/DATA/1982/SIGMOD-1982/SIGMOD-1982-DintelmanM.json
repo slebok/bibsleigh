@@ -1,16 +1,46 @@
 {
-	"author": ["Sue M. Dintelman", "A. Timothy Maness"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Sue M. Dintelman",
+		"A. Timothy Maness"
+	],
+	"booktitle": "Proceedings of the 12th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD82/P087.PDF",
-	"cite": ["...", "...", "journals/cacm/Codd70", "...", "journals/tods/StonebrakerWKH76", "...", "journals/tse/Reisner77", "conf/sigmod/Tsichritzis76", "conf/vldb/ShneidermanT80", "...", "journals/tods/Shipman81", "..."],
+	"cite": [
+		"...",
+		"...",
+		"journals/cacm/Codd70",
+		"...",
+		"journals/tods/StonebrakerWKH76",
+		"...",
+		"journals/tse/Reisner77",
+		"conf/sigmod/Tsichritzis76",
+		"conf/vldb/ShneidermanT80",
+		"...",
+		"journals/tods/Shipman81",
+		"..."
+	],
 	"crossref": "conf/sigmod/82",
 	"dblpkey": "conf/sigmod/DintelmanM82",
 	"doi": "10.1145/582353.582368",
 	"ee": "http://doi.acm.org/10.1145/582353.582368",
 	"pages": "87-93",
 	"publisher": "ACM Press",
-	"stemmed": ["an", "implement", "of", "a", "queri", "languag", "support", "path", "express"],
-	"tag": ["implementation", "query"],
+	"stemmed": [
+		"an",
+		"implement",
+		"of",
+		"a",
+		"queri",
+		"languag",
+		"support",
+		"path",
+		"express"
+	],
+	"tag": [
+		"implementation",
+		"query"
+	],
 	"title": "An Implementation of a Query Language Supporting Path Expressions",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

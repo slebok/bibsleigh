@@ -1,14 +1,30 @@
 {
 	"author": "Christoph Albrecht",
-	"booktitle": "DATE",
+	"booktitle": "Proceedings of the 10th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2006p",
 	"dblpkey": "conf/date/Albrecht06",
 	"doi": "10.1145/1131782",
 	"ee": "http://doi.acm.org/10.1145/1131782",
 	"pages": "1091-1096",
 	"publisher": "European Design and Automation Association, Leuven, Belgium",
-	"stemmed": ["effici", "increment", "clock", "latenc", "schedul", "for", "larg", "circuit"],
-	"tag": ["incremental", "latency", "performance", "scalability", "scheduling"],
+	"stemmed": [
+		"effici",
+		"increment",
+		"clock",
+		"latenc",
+		"schedul",
+		"for",
+		"larg",
+		"circuit"
+	],
+	"tag": [
+		"incremental",
+		"latency",
+		"performance",
+		"scalability",
+		"scheduling"
+	],
 	"title": "Efficient incremental clock latency scheduling for large circuits",
 	"type": "inproceedings",
 	"venue": "DATE",

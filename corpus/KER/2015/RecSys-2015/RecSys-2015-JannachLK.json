@@ -1,14 +1,37 @@
 {
-	"author": ["Dietmar Jannach", "Lukas Lerche", "Iman Kamehkhosh"],
-	"booktitle": "RecSys",
+	"author": [
+		"Dietmar Jannach",
+		"Lukas Lerche",
+		"Iman Kamehkhosh"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2015",
 	"dblpkey": "conf/recsys/JannachLK15",
 	"doi": "10.1145/2792838.2800182",
 	"ee": "http://doi.acm.org/10.1145/2792838.2800182",
 	"pages": "187-194",
 	"publisher": "ACM",
-	"stemmed": ["beyond", "hit", "the", "hit", "generat", "coher", "music", "playlist", "continu", "with", "the", "right", "track"],
-	"tag": ["continuation", "generative", "music"],
+	"stemmed": [
+		"beyond",
+		"hit",
+		"the",
+		"hit",
+		"generat",
+		"coher",
+		"music",
+		"playlist",
+		"continu",
+		"with",
+		"the",
+		"right",
+		"track"
+	],
+	"tag": [
+		"continuation",
+		"generative",
+		"music"
+	],
 	"title": "Beyond “Hitting the Hits”: Generating Coherent Music Playlist Continuations with the Right Tracks",
 	"type": "inproceedings",
 	"venue": "RecSys",

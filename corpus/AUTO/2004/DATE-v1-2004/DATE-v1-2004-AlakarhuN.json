@@ -1,6 +1,10 @@
 {
-	"author": ["Juha Alakarhu", "Jarkko Niittylahti"],
-	"booktitle": "DATE",
+	"author": [
+		"Juha Alakarhu",
+		"Jarkko Niittylahti"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/AlakarhuN04",
 	"doi": "10.1109/DATE.2004.1268951",
@@ -8,8 +12,24 @@
 	"pages": "730-731",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["scalar", "metric", "for", "tempor", "local", "and", "estim", "of", "cach", "perform"],
-	"tag": ["estimation", "locality", "metric", "performance"],
+	"stemmed": [
+		"scalar",
+		"metric",
+		"for",
+		"tempor",
+		"local",
+		"and",
+		"estim",
+		"of",
+		"cach",
+		"perform"
+	],
+	"tag": [
+		"estimation",
+		"locality",
+		"metric",
+		"performance"
+	],
 	"title": "Scalar Metric for Temporal Locality and Estimation of Cache Performance",
 	"type": "inproceedings",
 	"venue": "DATE",

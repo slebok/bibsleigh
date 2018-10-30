@@ -1,15 +1,42 @@
 {
-	"author": ["Sébastien Hily", "André Seznec"],
-	"booktitle": "HPCA",
+	"author": [
+		"Sébastien Hily",
+		"André Seznec"
+	],
+	"booktitle": "Proceedings of the Fifth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1999",
 	"dblpkey": "conf/hpca/HilyS99",
 	"doi": "10.1109/HPCA.1999.744331",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1999.744331", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744331"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1999.744331",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744331"
+	],
 	"pages": "64-67",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["out", "of", "order", "execut", "may", "not", "be", "cost", "effect", "on", "processor", "featur", "simultan", "multithread"],
-	"tag": ["effectiveness", "execution", "multi", "thread"],
+	"stemmed": [
+		"out",
+		"of",
+		"order",
+		"execut",
+		"may",
+		"not",
+		"be",
+		"cost",
+		"effect",
+		"on",
+		"processor",
+		"featur",
+		"simultan",
+		"multithread"
+	],
+	"tag": [
+		"effectiveness",
+		"execution",
+		"multi",
+		"thread"
+	],
 	"title": "Out-of-Order Execution may not be Cost-Effective on Processors Featuring Simultaneous Multithreading",
 	"type": "inproceedings",
 	"venue": "HPCA",

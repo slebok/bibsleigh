@@ -1,6 +1,11 @@
 {
-	"author": ["HweeHwa Pang", "Arpit Jain", "Krithi Ramamritham", "Kian-Lee Tan"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"HweeHwa Pang",
+		"Arpit Jain",
+		"Krithi Ramamritham",
+		"Kian-Lee Tan"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/PangJRT05",
@@ -8,8 +13,22 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066204",
 	"pages": "407-418",
 	"publisher": "ACM",
-	"stemmed": ["verifi", "complet", "of", "relat", "queri", "result", "in", "data", "publish"],
-	"tag": ["query", "relational", "verification"],
+	"stemmed": [
+		"verifi",
+		"complet",
+		"of",
+		"relat",
+		"queri",
+		"result",
+		"in",
+		"data",
+		"publish"
+	],
+	"tag": [
+		"query",
+		"relational",
+		"verification"
+	],
 	"title": "Verifying Completeness of Relational Query Results in Data Publishing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

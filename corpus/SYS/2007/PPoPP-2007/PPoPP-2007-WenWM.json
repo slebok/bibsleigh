@@ -1,14 +1,32 @@
 {
-	"author": ["Ye Wen", "Richard Wolski", "Gregory Moore"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Ye Wen",
+		"Richard Wolski",
+		"Gregory Moore"
+	],
+	"booktitle": "Proceedings of the 12th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2007",
 	"dblpkey": "conf/ppopp/WenWM07",
 	"doi": "10.1145/1229428.1229434",
 	"ee": "http://doi.acm.org/10.1145/1229428.1229434",
 	"pages": "24-34",
 	"publisher": "ACM",
-	"stemmed": ["disen", "scalabl", "distribut", "sensor", "network", "simul"],
-	"tag": ["distributed", "named", "network", "scalability", "simulation"],
+	"stemmed": [
+		"disen",
+		"scalabl",
+		"distribut",
+		"sensor",
+		"network",
+		"simul"
+	],
+	"tag": [
+		"distributed",
+		"named",
+		"network",
+		"scalability",
+		"simulation"
+	],
 	"title": "Disens: scalable distributed sensor network simulation",
 	"type": "inproceedings",
 	"venue": "PPoPP",

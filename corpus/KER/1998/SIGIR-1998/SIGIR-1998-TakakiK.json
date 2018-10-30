@@ -1,6 +1,10 @@
 {
-	"author": ["Toru Takaki", "Tsuyoshi Kitani"],
+	"author": [
+		"Toru Takaki",
+		"Tsuyoshi Kitani"
+	],
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P375.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/TakakiK98",
@@ -8,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/290941.291064",
 	"pages": "375-376",
 	"publisher": "ACM",
-	"stemmed": ["effici", "search", "server", "assign", "in", "a", "disproportion", "system", "environ"],
-	"tag": ["performance"],
+	"stemmed": [
+		"effici",
+		"search",
+		"server",
+		"assign",
+		"in",
+		"a",
+		"disproportion",
+		"system",
+		"environ"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Efficient Search Server Assignment in a Disproportionate System Environment",
 	"type": "inproceedings",
 	"venue": "SIGIR",

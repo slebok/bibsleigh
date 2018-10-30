@@ -1,13 +1,30 @@
 {
-	"author": ["Andreas L. Prodromidis", "Salvatore J. Stolfo"],
-	"booktitle": "KDD",
+	"author": [
+		"Andreas L. Prodromidis",
+		"Salvatore J. Stolfo"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1998",
 	"dblpkey": "conf/kdd/Stolfo98",
 	"ee": "http://www.aaai.org/Library/KDD/1998/kdd98-056.php",
 	"pages": "314-318",
 	"publisher": "AAAI Press",
-	"stemmed": ["mine", "databas", "with", "differ", "schema", "integr", "incompat", "classifi"],
-	"tag": ["classification", "database", "mining"],
+	"stemmed": [
+		"mine",
+		"databas",
+		"with",
+		"differ",
+		"schema",
+		"integr",
+		"incompat",
+		"classifi"
+	],
+	"tag": [
+		"classification",
+		"database",
+		"mining"
+	],
 	"title": "Mining Databases with Different Schemas: Integrating Incompatible Classifiers",
 	"type": "inproceedings",
 	"venue": "KDD",

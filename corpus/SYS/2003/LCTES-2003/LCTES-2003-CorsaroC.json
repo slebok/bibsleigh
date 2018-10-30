@@ -1,14 +1,31 @@
 {
-	"author": ["Angelo Corsaro", "Ron Cytron"],
-	"booktitle": "LCTES",
+	"author": [
+		"Angelo Corsaro",
+		"Ron Cytron"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2003",
 	"dblpkey": "conf/lctrts/CorsaroC03",
 	"doi": "10.1145/780732.780740",
 	"ee": "http://doi.acm.org/10.1145/780732.780740",
 	"pages": "51-58",
 	"publisher": "ACM",
-	"stemmed": ["effici", "memori", "refer", "check", "for", "real", "time", "java"],
-	"tag": ["java", "performance", "realtime"],
+	"stemmed": [
+		"effici",
+		"memori",
+		"refer",
+		"check",
+		"for",
+		"real",
+		"time",
+		"java"
+	],
+	"tag": [
+		"java",
+		"performance",
+		"realtime"
+	],
 	"title": "Efficient memory-reference checks for real-time java",
 	"type": "inproceedings",
 	"venue": "LCTES",

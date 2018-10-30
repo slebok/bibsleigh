@@ -1,6 +1,7 @@
 {
 	"author": "W. Bruce Croft",
 	"booktitle": "Proceedings of the ACM SIGIR International Conference on Information Storage and Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1978/P065.pdf",
 	"crossref": "conf/sigir/78",
 	"dblpkey": "conf/sigir/Croft78",
@@ -8,8 +9,19 @@
 	"ee": "http://doi.acm.org/10.1145/800096.803136",
 	"pages": "65-82",
 	"publisher": "ACM",
-	"stemmed": ["a", "file", "organ", "for", "cluster", "base", "retriev"],
-	"tag": ["clustering", "retrieval"],
+	"stemmed": [
+		"a",
+		"file",
+		"organ",
+		"for",
+		"cluster",
+		"base",
+		"retriev"
+	],
+	"tag": [
+		"clustering",
+		"retrieval"
+	],
 	"title": "A File Organization for Cluster-Based Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

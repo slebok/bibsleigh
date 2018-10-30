@@ -1,6 +1,9 @@
 {
-	"author": ["Chun-Hee Lee", "Chin-Wan Chung"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Chun-Hee Lee",
+		"Chin-Wan Chung"
+	],
+	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2008",
 	"dblpkey": "conf/sigmod/LeeC08",
@@ -8,8 +11,25 @@
 	"ee": "http://doi.acm.org/10.1145/1376616.1376648",
 	"pages": "291-302",
 	"publisher": "ACM",
-	"stemmed": ["effici", "storag", "scheme", "and", "queri", "process", "for", "suppli", "chain", "manag", "use", "rfid"],
-	"tag": ["performance", "query", "using"],
+	"stemmed": [
+		"effici",
+		"storag",
+		"scheme",
+		"and",
+		"queri",
+		"process",
+		"for",
+		"suppli",
+		"chain",
+		"manag",
+		"use",
+		"rfid"
+	],
+	"tag": [
+		"performance",
+		"query",
+		"using"
+	],
 	"title": "Efficient storage scheme and query processing for supply chain management using RFID",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

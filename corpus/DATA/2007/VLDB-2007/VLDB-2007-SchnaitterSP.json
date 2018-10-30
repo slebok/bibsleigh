@@ -1,13 +1,30 @@
 {
-	"author": ["Karl Schnaitter", "Joshua Spiegel", "Neoklis Polyzotis"],
-	"booktitle": "VLDB",
+	"author": [
+		"Karl Schnaitter",
+		"Joshua Spiegel",
+		"Neoklis Polyzotis"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/SchnaitterSP07",
 	"ee": "http://www.vldb.org/conf/2007/papers/research/p902-schnaitter.pdf",
 	"pages": "902-913",
 	"publisher": "ACM",
-	"stemmed": ["depth", "estim", "for", "rank", "queri", "optim"],
-	"tag": ["estimation", "optimisation", "query", "ranking"],
+	"stemmed": [
+		"depth",
+		"estim",
+		"for",
+		"rank",
+		"queri",
+		"optim"
+	],
+	"tag": [
+		"estimation",
+		"optimisation",
+		"query",
+		"ranking"
+	],
 	"title": "Depth Estimation for Ranking Query Optimization",
 	"type": "inproceedings",
 	"venue": "VLDB",

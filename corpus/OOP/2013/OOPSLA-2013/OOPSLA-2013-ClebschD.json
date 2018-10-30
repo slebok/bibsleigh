@@ -1,17 +1,39 @@
 {
-	"author": ["Sylvan Clebsch", "Sophia Drossopoulou"],
-	"booktitle": "Proceedings of the 28th International Conference on Object Oriented Programming Systems Languages & Applications",
+	"author": [
+		"Sylvan Clebsch",
+		"Sophia Drossopoulou"
+	],
+	"booktitle": "Proceedings of the 28th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2013",
 	"dblpkey": "conf/oopsla/ClebschD13",
 	"doi": "10.1145/2509136.2509557",
-	"editor": ["Antony L. Hosking", "Patrick Th. Eugster", "Cristina Videira Lopes"],
+	"editor": [
+		"Antony L. Hosking",
+		"Patrick Th. Eugster",
+		"Cristina Videira Lopes"
+	],
 	"ee": "http://doi.acm.org/10.1145/2509136.2509557",
 	"isbn": "978-1-4503-2374-1",
 	"pages": "553-570",
 	"publisher": "ACM",
-	"stemmed": ["fulli", "concurr", "garbag", "collect", "of", "actor", "on", "mani", "core", "machin"],
-	"tag": ["concurrent", "garbage collection", "manycore"],
+	"stemmed": [
+		"fulli",
+		"concurr",
+		"garbag",
+		"collect",
+		"of",
+		"actor",
+		"on",
+		"mani",
+		"core",
+		"machin"
+	],
+	"tag": [
+		"concurrent",
+		"garbage collection",
+		"manycore"
+	],
 	"title": "Fully concurrent garbage collection of actors on many-core machines",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

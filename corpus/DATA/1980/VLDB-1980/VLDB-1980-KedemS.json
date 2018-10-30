@@ -1,15 +1,46 @@
 {
-	"author": ["Zvi M. Kedem", "Abraham Silberschatz"],
-	"booktitle": "VLDB",
+	"author": [
+		"Zvi M. Kedem",
+		"Abraham Silberschatz"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB80/P309.PDF",
-	"cite": ["journals/cacm/EswarranGLT76", "conf/focs/StearnsLR76", "journals/tods/RosenkrantzSL78", "...", "journals/jacm/Papadimitriou79b", "conf/ac/Gray78", "journals/jacm/SilberschatzK80", "conf/focs/KedemS79", "conf/focs/YannakakisPK79", "conf/vldb/Date79", "journals/tse/BernsteinSW79", "books/cs/Ullman80", "journals/csur/CoffmanES71"],
+	"cite": [
+		"journals/cacm/EswarranGLT76",
+		"conf/focs/StearnsLR76",
+		"journals/tods/RosenkrantzSL78",
+		"...",
+		"journals/jacm/Papadimitriou79b",
+		"conf/ac/Gray78",
+		"journals/jacm/SilberschatzK80",
+		"conf/focs/KedemS79",
+		"conf/focs/YannakakisPK79",
+		"conf/vldb/Date79",
+		"journals/tse/BernsteinSW79",
+		"books/cs/Ullman80",
+		"journals/csur/CoffmanES71"
+	],
 	"crossref": "conf/vldb/80",
 	"dblpkey": "conf/vldb/KedemS80",
 	"pages": "309-317",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["non", "two", "phase", "lock", "protocol", "with", "share", "and", "exclus", "lock"],
-	"tag": ["protocol"],
+	"stemmed": [
+		"non",
+		"two",
+		"phase",
+		"lock",
+		"protocol",
+		"with",
+		"share",
+		"and",
+		"exclus",
+		"lock"
+	],
+	"tag": [
+		"protocol"
+	],
 	"title": "Non-Two-Phase Locking Protocols with Shared and Exclusive Locks",
 	"type": "inproceedings",
 	"venue": "VLDB",

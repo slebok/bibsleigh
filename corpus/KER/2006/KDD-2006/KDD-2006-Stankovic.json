@@ -1,14 +1,26 @@
 {
 	"author": "John A. Stankovic",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/Stankovic06",
 	"doi": "10.1145/1150402.1150404",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150404",
-	"pages": 1,
+	"pages": "1",
 	"publisher": "ACM",
-	"stemmed": ["self", "organ", "wireless", "sensor", "network", "in", "action"],
-	"tag": ["network", "self"],
+	"stemmed": [
+		"self",
+		"organ",
+		"wireless",
+		"sensor",
+		"network",
+		"in",
+		"action"
+	],
+	"tag": [
+		"network",
+		"self"
+	],
 	"title": "Self-Organizing wireless sensor networks in action",
 	"type": "inproceedings",
 	"venue": "KDD",

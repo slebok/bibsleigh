@@ -1,14 +1,29 @@
 {
-	"author": ["Shrikant Kashyap", "Panagiotis Karras"],
-	"booktitle": "KDD",
+	"author": [
+		"Shrikant Kashyap",
+		"Panagiotis Karras"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/KashyapK11",
 	"doi": "10.1145/2020408.2020607",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020607",
 	"pages": "1334-1342",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "knn", "search", "on", "vertic", "store", "time", "seri"],
-	"tag": ["scalability"],
+	"stemmed": [
+		"scalabl",
+		"knn",
+		"search",
+		"on",
+		"vertic",
+		"store",
+		"time",
+		"seri"
+	],
+	"tag": [
+		"scalability"
+	],
 	"title": "Scalable kNN search on vertically stored time series",
 	"type": "inproceedings",
 	"venue": "KDD",

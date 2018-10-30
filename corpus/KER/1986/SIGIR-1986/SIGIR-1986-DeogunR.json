@@ -1,6 +1,10 @@
 {
-	"author": ["Jitender S. Deogun", "Vijay V. Raghavan"],
+	"author": [
+		"Jitender S. Deogun",
+		"Vijay V. Raghavan"
+	],
 	"booktitle": "Proceedings of the Ninth International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1986/P157.pdf",
 	"crossref": "conf/sigir/86",
 	"dblpkey": "conf/sigir/DeogunR86",
@@ -8,8 +12,26 @@
 	"ee": "http://doi.acm.org/10.1145/253168.253202",
 	"pages": "157-163",
 	"publisher": "ACM",
-	"stemmed": ["user", "orient", "document", "cluster", "a", "framework", "for", "learn", "in", "inform", "retriev"],
-	"tag": ["clustering", "documentation", "framework", "information retrieval", "learning"],
+	"stemmed": [
+		"user",
+		"orient",
+		"document",
+		"cluster",
+		"a",
+		"framework",
+		"for",
+		"learn",
+		"in",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"clustering",
+		"documentation",
+		"framework",
+		"information retrieval",
+		"learning"
+	],
 	"title": "User-Oriented Document Clustering: A Framework for Learning in Information Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

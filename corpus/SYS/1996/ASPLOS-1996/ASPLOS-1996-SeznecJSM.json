@@ -1,14 +1,30 @@
 {
-	"author": ["André Seznec", "Stéphan Jourdan", "Pascal Sainrat", "Pierre Michaud"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"André Seznec",
+		"Stéphan Jourdan",
+		"Pascal Sainrat",
+		"Pierre Michaud"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1996",
 	"dblpkey": "conf/asplos/SeznecJSM96",
 	"doi": "10.1145/237090.237169",
 	"ee": "http://doi.acm.org/10.1145/237090.237169",
 	"pages": "116-127",
 	"publisher": "ACM Press",
-	"stemmed": ["multipl", "block", "ahead", "branch", "predictor"],
-	"tag": ["branch", "multi", "predict"],
+	"stemmed": [
+		"multipl",
+		"block",
+		"ahead",
+		"branch",
+		"predictor"
+	],
+	"tag": [
+		"branch",
+		"multi",
+		"predict"
+	],
 	"title": "Multiple-Block Ahead Branch Predictors",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

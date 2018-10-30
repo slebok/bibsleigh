@@ -1,14 +1,39 @@
 {
 	"author": "Theodore Johnson",
-	"booktitle": "VLDB",
-	"cite": ["...", "...", "conf/sigmod/ChanI98", "...", "...", "...", "conf/sigir/MoffatZ92", "conf/hpts/ONeil87", "journals/sigmod/ONeilG95", "conf/sigmod/ONeilQ97", "...", "...", "conf/icde/WuB98"],
+	"booktitle": "Proceedings of the 25th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"...",
+		"conf/sigmod/ChanI98",
+		"...",
+		"...",
+		"...",
+		"conf/sigir/MoffatZ92",
+		"conf/hpts/ONeil87",
+		"journals/sigmod/ONeilG95",
+		"conf/sigmod/ONeilQ97",
+		"...",
+		"...",
+		"conf/icde/WuB98"
+	],
 	"crossref": "conf/vldb/99",
 	"dblpkey": "conf/vldb/Johnson99",
 	"ee": "http://www.vldb.org/conf/1999/P29.pdf",
 	"pages": "278-289",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["perform", "measur", "of", "compress", "bitmap", "indic"],
-	"tag": ["metric", "performance"],
+	"stemmed": [
+		"perform",
+		"measur",
+		"of",
+		"compress",
+		"bitmap",
+		"indic"
+	],
+	"tag": [
+		"metric",
+		"performance"
+	],
 	"title": "Performance Measurements of Compressed Bitmap Indices",
 	"type": "inproceedings",
 	"venue": "VLDB",

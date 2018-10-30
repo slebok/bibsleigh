@@ -1,14 +1,29 @@
 {
-	"author": ["Robert H. B. Netzer", "Barton P. Miller"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Robert H. B. Netzer",
+		"Barton P. Miller"
+	],
+	"booktitle": "Proceedings of the Third Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1991",
 	"dblpkey": "conf/ppopp/NetzerM91",
 	"doi": "10.1145/109625.109640",
 	"ee": "http://doi.acm.org/10.1145/109625.109640",
 	"pages": "133-144",
 	"publisher": "ACM",
-	"stemmed": ["improv", "the", "accuraci", "of", "data", "race", "detect"],
-	"tag": ["concurrent", "detection"],
+	"stemmed": [
+		"improv",
+		"the",
+		"accuraci",
+		"of",
+		"data",
+		"race",
+		"detect"
+	],
+	"tag": [
+		"concurrent",
+		"detection"
+	],
 	"title": "Improving the Accuracy of Data Race Detection",
 	"type": "inproceedings",
 	"venue": "PPoPP",

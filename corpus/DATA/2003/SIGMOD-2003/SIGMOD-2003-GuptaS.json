@@ -1,6 +1,9 @@
 {
-	"author": ["Ashish Kumar Gupta", "Dan Suciu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ashish Kumar Gupta",
+		"Dan Suciu"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/GuptaS03",
@@ -8,8 +11,20 @@
 	"ee": "http://doi.acm.org/10.1145/872757.872809",
 	"pages": "419-430",
 	"publisher": "ACM",
-	"stemmed": ["stream", "process", "of", "x", "path", "queri", "with", "predic"],
-	"tag": ["query", "xpath"],
+	"stemmed": [
+		"stream",
+		"process",
+		"of",
+		"x",
+		"path",
+		"queri",
+		"with",
+		"predic"
+	],
+	"tag": [
+		"query",
+		"xpath"
+	],
 	"title": "Stream Processing of XPath Queries with Predicates",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

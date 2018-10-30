@@ -1,16 +1,38 @@
 {
-	"acmid": 977678,
-	"author": ["Fabrice Rastello", "François de Ferrière", "Christophe Guillon"],
-	"booktitle": "CGO",
+	"acmid": "977678",
+	"author": [
+		"Fabrice Rastello",
+		"François de Ferrière",
+		"Christophe Guillon"
+	],
+	"booktitle": "Proceedings of the Second International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2004",
 	"dblpkey": "conf/cgo/RastelloFG04",
 	"doi": "10.1109/CGO.2004.1281680",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2004.1281680", "http://doi.ieeecomputersociety.org/10.1109/CGO.2004.1281680", "http://dl.acm.org/citation.cfm?id=977678"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2004.1281680",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2004.1281680",
+		"http://dl.acm.org/citation.cfm?id=977678"
+	],
 	"pages": "265-278",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["optim", "translat", "out", "of", "ssa", "use", "renam", "constraint"],
-	"tag": ["constraints", "optimisation", "using"],
+	"stemmed": [
+		"optim",
+		"translat",
+		"out",
+		"of",
+		"ssa",
+		"use",
+		"renam",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"optimisation",
+		"using"
+	],
 	"title": "Optimizing Translation Out of SSA Using Renaming Constraints",
 	"type": "inproceedings",
 	"venue": "CGO",

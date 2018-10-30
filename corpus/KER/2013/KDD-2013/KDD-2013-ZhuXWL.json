@@ -1,14 +1,38 @@
 {
-	"author": ["Andy Diwen Zhu", "Xiaokui Xiao", "Sibo Wang", "Wenqing Lin"],
-	"booktitle": "KDD",
+	"author": [
+		"Andy Diwen Zhu",
+		"Xiaokui Xiao",
+		"Sibo Wang",
+		"Wenqing Lin"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/ZhuXWL13",
 	"doi": "10.1145/2487575.2487665",
 	"ee": "http://doi.acm.org/10.1145/2487575.2487665",
 	"pages": "998-1006",
 	"publisher": "ACM",
-	"stemmed": ["effici", "singl", "sourc", "shortest", "path", "and", "distanc", "queri", "on", "larg", "graph"],
-	"tag": ["distance", "graph", "performance", "query", "scalability"],
+	"stemmed": [
+		"effici",
+		"singl",
+		"sourc",
+		"shortest",
+		"path",
+		"and",
+		"distanc",
+		"queri",
+		"on",
+		"larg",
+		"graph"
+	],
+	"tag": [
+		"distance",
+		"graph",
+		"performance",
+		"query",
+		"scalability"
+	],
 	"title": "Efficient single-source shortest path and distance queries on large graphs",
 	"type": "inproceedings",
 	"venue": "KDD",

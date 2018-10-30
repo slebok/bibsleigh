@@ -1,14 +1,37 @@
 {
-	"author": ["Jaeha Kim", "Kevin D. Jones", "Mark A. Horowitz"],
-	"booktitle": "DAC",
+	"author": [
+		"Jaeha Kim",
+		"Kevin D. Jones",
+		"Mark A. Horowitz"
+	],
+	"booktitle": "Proceedings of the 44th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2007",
 	"dblpkey": "conf/dac/KimJH07",
 	"doi": "10.1145/1278480.1278593",
 	"ee": "http://doi.acm.org/10.1145/1278480.1278593",
 	"pages": "440-443",
 	"publisher": "IEEE",
-	"stemmed": ["fast", "non", "mont", "carlo", "estim", "of", "transient", "perform", "variat", "due", "to", "devic", "mismatch"],
-	"tag": ["estimation", "monte carlo", "performance"],
+	"stemmed": [
+		"fast",
+		"non",
+		"mont",
+		"carlo",
+		"estim",
+		"of",
+		"transient",
+		"perform",
+		"variat",
+		"due",
+		"to",
+		"devic",
+		"mismatch"
+	],
+	"tag": [
+		"estimation",
+		"monte carlo",
+		"performance"
+	],
 	"title": "Fast, Non-Monte-Carlo Estimation of Transient Performance Variation Due to Device Mismatch",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,27 @@
 {
-	"author": ["Talal Bonny", "Jörg Henkel"],
-	"booktitle": "DAC",
+	"author": [
+		"Talal Bonny",
+		"Jörg Henkel"
+	],
+	"booktitle": "Proceedings of the 44th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2007",
 	"dblpkey": "conf/dac/BonnyH07",
 	"doi": "10.1145/1278480.1278645",
 	"ee": "http://doi.acm.org/10.1145/1278480.1278645",
 	"pages": "646-651",
 	"publisher": "IEEE",
-	"stemmed": ["instruct", "split", "for", "effici", "code", "compress"],
-	"tag": ["performance"],
+	"stemmed": [
+		"instruct",
+		"split",
+		"for",
+		"effici",
+		"code",
+		"compress"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Instruction Splitting for Efficient Code Compression",
 	"type": "inproceedings",
 	"venue": "DAC",

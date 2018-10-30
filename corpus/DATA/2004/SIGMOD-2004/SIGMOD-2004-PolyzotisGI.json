@@ -1,6 +1,10 @@
 {
-	"author": ["Neoklis Polyzotis", "Minos N. Garofalakis", "Yannis E. Ioannidis"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Neoklis Polyzotis",
+		"Minos N. Garofalakis",
+		"Yannis E. Ioannidis"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/PolyzotisGI04",
@@ -8,8 +12,17 @@
 	"ee": "http://doi.acm.org/10.1145/1007568.1007599",
 	"pages": "263-274",
 	"publisher": "ACM",
-	"stemmed": ["approxim", "xml", "queri", "answer"],
-	"tag": ["approximate", "query", "xml"],
+	"stemmed": [
+		"approxim",
+		"xml",
+		"queri",
+		"answer"
+	],
+	"tag": [
+		"approximate",
+		"query",
+		"xml"
+	],
 	"title": "Approximate XML Query Answers",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

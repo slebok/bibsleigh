@@ -1,6 +1,9 @@
 {
-	"author": ["Oliver Kennedy", "Suman Nath"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Oliver Kennedy",
+		"Suman Nath"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/KennedyN11",
@@ -8,8 +11,22 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989410",
 	"pages": "829-840",
 	"publisher": "ACM",
-	"stemmed": ["jigsaw", "effici", "optim", "over", "uncertain", "enterpris", "data"],
-	"tag": ["enterprise", "named", "nondeterminism", "optimisation", "performance"],
+	"stemmed": [
+		"jigsaw",
+		"effici",
+		"optim",
+		"over",
+		"uncertain",
+		"enterpris",
+		"data"
+	],
+	"tag": [
+		"enterprise",
+		"named",
+		"nondeterminism",
+		"optimisation",
+		"performance"
+	],
 	"title": "Jigsaw: efficient optimization over uncertain enterprise data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

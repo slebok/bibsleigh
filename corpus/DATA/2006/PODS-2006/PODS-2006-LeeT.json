@@ -1,14 +1,35 @@
 {
-	"author": ["Lap-Kei Lee", "H. F. Ting"],
-	"booktitle": "PODS",
+	"author": [
+		"Lap-Kei Lee",
+		"H. F. Ting"
+	],
+	"booktitle": "Proceedings of the 25th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2006",
 	"dblpkey": "conf/pods/LeeT06",
 	"doi": "10.1145/1142351.1142393",
 	"ee": "http://doi.acm.org/10.1145/1142351.1142393",
 	"pages": "290-297",
 	"publisher": "ACM",
-	"stemmed": ["a", "simpler", "and", "more", "effici", "determinist", "scheme", "for", "find", "frequent", "item", "over", "slide", "window"],
-	"tag": ["performance"],
+	"stemmed": [
+		"a",
+		"simpler",
+		"and",
+		"more",
+		"effici",
+		"determinist",
+		"scheme",
+		"for",
+		"find",
+		"frequent",
+		"item",
+		"over",
+		"slide",
+		"window"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "A simpler and more efficient deterministic scheme for finding frequent items over sliding windows",
 	"type": "inproceedings",
 	"venue": "PODS",

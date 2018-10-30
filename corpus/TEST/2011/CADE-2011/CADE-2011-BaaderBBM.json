@@ -1,6 +1,12 @@
 {
-	"author": ["Franz Baader", "Thanh Binh Nguyen", "Stefan Borgwardt", "Barbara Morawska"],
-	"booktitle": "CADE",
+	"author": [
+		"Franz Baader",
+		"Thanh Binh Nguyen",
+		"Stefan Borgwardt",
+		"Barbara Morawska"
+	],
+	"booktitle": "Proceedings of the 23rd International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2011",
 	"dblpkey": "conf/cade/BaaderBBM11",
 	"doi": "10.1007/978-3-642-22438-6_8",
@@ -10,11 +16,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["unif", "in", "the", "descript", "logic", "el", "without", "the", "top", "concept"],
-	"tag": ["concept", "logic", "unification"],
+	"stemmed": [
+		"unif",
+		"in",
+		"the",
+		"descript",
+		"logic",
+		"el",
+		"without",
+		"the",
+		"top",
+		"concept"
+	],
+	"tag": [
+		"concept",
+		"logic",
+		"unification"
+	],
 	"title": "Unification in the Description Logic EL without the Top Concept",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 6803,
+	"volume": "6803",
 	"year": 2011
 }

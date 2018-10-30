@@ -1,6 +1,10 @@
 {
-	"author": ["Alan F. Smeaton", "Ian Quigley"],
+	"author": [
+		"Alan F. Smeaton",
+		"Ian Quigley"
+	],
 	"booktitle": "Proceedings of the 19th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1996/P174.pdf",
 	"crossref": "conf/sigir/96",
 	"dblpkey": "conf/sigir/SmeatonQ96",
@@ -8,8 +12,26 @@
 	"ee": "http://doi.acm.org/10.1145/243199.243261",
 	"pages": "174-180",
 	"publisher": "ACM",
-	"stemmed": ["experi", "on", "use", "semant", "distanc", "between", "word", "in", "imag", "caption", "retriev"],
-	"tag": ["image", "retrieval", "semantics", "using", "word"],
+	"stemmed": [
+		"experi",
+		"on",
+		"use",
+		"semant",
+		"distanc",
+		"between",
+		"word",
+		"in",
+		"imag",
+		"caption",
+		"retriev"
+	],
+	"tag": [
+		"image",
+		"retrieval",
+		"semantics",
+		"using",
+		"word"
+	],
 	"title": "Experiments on Using Semantic Distances Between Words in Image Caption Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

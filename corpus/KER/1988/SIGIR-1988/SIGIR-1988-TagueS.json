@@ -1,6 +1,10 @@
 {
-	"author": ["Jean Tague", "Ryan Schultz"],
+	"author": [
+		"Jean Tague",
+		"Ryan Schultz"
+	],
 	"booktitle": "Proceedings of the 11th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P371.pdf",
 	"crossref": "conf/sigir/88",
 	"dblpkey": "conf/sigir/TagueS88",
@@ -8,8 +12,29 @@
 	"ee": "http://doi.acm.org/10.1145/62437.62477",
 	"pages": "371-385",
 	"publisher": "ACM",
-	"stemmed": ["some", "measur", "and", "procedur", "for", "evalu", "of", "the", "user", "interfac", "in", "an", "inform", "retriev", "system"],
-	"tag": ["evaluation", "information retrieval", "metric", "user interface"],
+	"stemmed": [
+		"some",
+		"measur",
+		"and",
+		"procedur",
+		"for",
+		"evalu",
+		"of",
+		"the",
+		"user",
+		"interfac",
+		"in",
+		"an",
+		"inform",
+		"retriev",
+		"system"
+	],
+	"tag": [
+		"evaluation",
+		"information retrieval",
+		"metric",
+		"user interface"
+	],
 	"title": "Some Measures and Procedures for Evaluation of the User Interface in an Information Retrieval System",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,14 +1,39 @@
 {
-	"author": ["Karthik Chandrasekar", "Sven Goossens", "Christian Weis", "Martijn Koedam", "Benny Akesson", "Norbert Wehn", "Kees Goossens"],
-	"booktitle": "DATE",
+	"author": [
+		"Karthik Chandrasekar",
+		"Sven Goossens",
+		"Christian Weis",
+		"Martijn Koedam",
+		"Benny Akesson",
+		"Norbert Wehn",
+		"Kees Goossens"
+	],
+	"booktitle": "Proceedings of the 18th Conference and Exhibition on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2014",
 	"dblpkey": "conf/date/0001GWKAWG14",
 	"doi": "10.7873/DATE.2014.186",
 	"ee": "http://dx.doi.org/10.7873/DATE.2014.186",
 	"pages": "1-6",
 	"publisher": "IEEE",
-	"stemmed": ["exploit", "expend", "process", "margin", "in", "dram", "for", "run", "time", "perform", "optim"],
-	"tag": ["optimisation", "performance", "runtime"],
+	"stemmed": [
+		"exploit",
+		"expend",
+		"process",
+		"margin",
+		"in",
+		"dram",
+		"for",
+		"run",
+		"time",
+		"perform",
+		"optim"
+	],
+	"tag": [
+		"optimisation",
+		"performance",
+		"runtime"
+	],
 	"title": "Exploiting expendable process-margins in DRAMs for run-time performance optimization",
 	"type": "inproceedings",
 	"venue": "DATE",

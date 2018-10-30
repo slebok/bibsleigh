@@ -1,13 +1,24 @@
 {
-	"author": ["Stanko Novakovic", "Alexandros Daglis", "Edouard Bugnion", "Babak Falsafi", "Boris Grot"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Stanko Novakovic",
+		"Alexandros Daglis",
+		"Edouard Bugnion",
+		"Babak Falsafi",
+		"Boris Grot"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2014",
 	"dblpkey": "conf/asplos/NovakovicDBFG14",
 	"doi": "10.1145/2541940.2541965",
 	"ee": "http://doi.acm.org/10.1145/2541940.2541965",
 	"pages": "3-18",
 	"publisher": "ACM",
-	"stemmed": ["scale", "out", "numa"],
+	"stemmed": [
+		"scale",
+		"out",
+		"numa"
+	],
 	"title": "Scale-out NUMA",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,6 +1,10 @@
 {
-	"author": ["Kalervo Järvelin", "Timo Niemi"],
+	"author": [
+		"Kalervo Järvelin",
+		"Timo Niemi"
+	],
 	"booktitle": "Proceedings of the 14th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1991/P173.pdf",
 	"crossref": "conf/sigir/91",
 	"dblpkey": "conf/sigir/JarvelinN91",
@@ -8,8 +12,29 @@
 	"ee": "http://doi.acm.org/10.1145/122860.122877",
 	"pages": "173-182",
 	"publisher": "ACM",
-	"stemmed": ["advanc", "retriev", "from", "heterogen", "fact", "databas", "integr", "of", "data", "retriev", "convers", "aggreg", "and", "deduct", "techniqu"],
-	"tag": ["database", "deduction", "integration", "retrieval"],
+	"stemmed": [
+		"advanc",
+		"retriev",
+		"from",
+		"heterogen",
+		"fact",
+		"databas",
+		"integr",
+		"of",
+		"data",
+		"retriev",
+		"convers",
+		"aggreg",
+		"and",
+		"deduct",
+		"techniqu"
+	],
+	"tag": [
+		"database",
+		"deduction",
+		"integration",
+		"retrieval"
+	],
 	"title": "Advanced Retrieval From Heterogeneous Fact Databases: Integration of Data Retrieval, Conversion, Aggregation and Deductive Techniques",
 	"type": "inproceedings",
 	"venue": "SIGIR",

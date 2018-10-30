@@ -1,6 +1,13 @@
 {
-	"author": ["Jesse Anton", "Lawrence Jacobs", "Xiang Liu", "Jordan Parker", "Zheng Zeng", "Tie Zhong"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jesse Anton",
+		"Lawrence Jacobs",
+		"Xiang Liu",
+		"Jordan Parker",
+		"Zheng Zeng",
+		"Tie Zhong"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/AntonJLPZZ02",
@@ -8,8 +15,21 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564762",
 	"pages": "594-599",
 	"publisher": "ACM",
-	"stemmed": ["web", "cach", "for", "databas", "applic", "with", "oracl", "web", "cach"],
-	"tag": ["database", "web"],
+	"stemmed": [
+		"web",
+		"cach",
+		"for",
+		"databas",
+		"applic",
+		"with",
+		"oracl",
+		"web",
+		"cach"
+	],
+	"tag": [
+		"database",
+		"web"
+	],
 	"title": "Web caching for database applications with Oracle Web Cache",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,38 @@
 {
-	"author": ["Changchun Shi", "Robert W. Brodersen"],
-	"booktitle": "DAC",
+	"author": [
+		"Changchun Shi",
+		"Robert W. Brodersen"
+	],
+	"booktitle": "Proceedings of the 41st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2004",
 	"dblpkey": "conf/dac/ShiB04",
 	"doi": "10.1145/996566.996700",
 	"ee": "http://doi.acm.org/10.1145/996566.996700",
 	"pages": "478-483",
 	"publisher": "ACM",
-	"stemmed": ["autom", "fix", "point", "data", "type", "optim", "tool", "for", "signal", "process", "and", "communic", "system"],
-	"tag": ["automation", "communication", "data type", "fixpoint", "optimisation"],
+	"stemmed": [
+		"autom",
+		"fix",
+		"point",
+		"data",
+		"type",
+		"optim",
+		"tool",
+		"for",
+		"signal",
+		"process",
+		"and",
+		"communic",
+		"system"
+	],
+	"tag": [
+		"automation",
+		"communication",
+		"data type",
+		"fixpoint",
+		"optimisation"
+	],
 	"title": "Automated fixed-point data-type optimization tool for signal processing and communication systems",
 	"type": "inproceedings",
 	"venue": "DAC",

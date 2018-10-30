@@ -1,6 +1,14 @@
 {
-	"author": ["Qing Liu", "Kerry Taylor", "Xiang Zhao", "Geoffrey Squire", "Xuemin Lin", "Corne Kloppers", "Richard Miller"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Qing Liu",
+		"Kerry Taylor",
+		"Xiang Zhao",
+		"Geoffrey Squire",
+		"Xuemin Lin",
+		"Corne Kloppers",
+		"Richard Miller"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/LiuTZSLKM13",
@@ -8,8 +16,24 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465268",
 	"pages": "1121-1124",
 	"publisher": "ACM",
-	"stemmed": ["c", "trace", "semant", "comparison", "of", "multi", "granular", "process", "trace"],
-	"tag": ["comparison", "multi", "named", "process", "semantics"],
+	"stemmed": [
+		"c",
+		"trace",
+		"semant",
+		"comparison",
+		"of",
+		"multi",
+		"granular",
+		"process",
+		"trace"
+	],
+	"tag": [
+		"comparison",
+		"multi",
+		"named",
+		"process",
+		"semantics"
+	],
 	"title": "CTrace: semantic comparison of multi-granularity process traces",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

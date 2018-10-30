@@ -1,6 +1,11 @@
 {
-	"author": ["Yannis Katsis", "Kian Win Ong", "Yannis Papakonstantinou", "Kevin Keliang Zhao"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yannis Katsis",
+		"Kian Win Ong",
+		"Yannis Papakonstantinou",
+		"Kevin Keliang Zhao"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/KatsisOPZ15",
@@ -8,8 +13,19 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2750546",
 	"pages": "1985-2000",
 	"publisher": "ACM",
-	"stemmed": ["util", "id", "to", "acceler", "increment", "view", "mainten"],
-	"tag": ["incremental", "maintenance"],
+	"stemmed": [
+		"util",
+		"id",
+		"to",
+		"acceler",
+		"increment",
+		"view",
+		"mainten"
+	],
+	"tag": [
+		"incremental",
+		"maintenance"
+	],
 	"title": "Utilizing IDs to Accelerate Incremental View Maintenance",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

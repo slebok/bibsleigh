@@ -1,6 +1,10 @@
 {
-	"author": ["Alvin Cheung", "Samuel Madden", "Armando Solar-Lezama"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Alvin Cheung",
+		"Samuel Madden",
+		"Armando Solar-Lezama"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/CheungMS14",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2593672",
 	"pages": "931-942",
 	"publisher": "ACM",
-	"stemmed": ["sloth", "be", "lazi", "is", "a", "virtu", "when", "issu", "databas", "queri"],
-	"tag": ["database", "lazy evaluation", "named", "query"],
+	"stemmed": [
+		"sloth",
+		"be",
+		"lazi",
+		"is",
+		"a",
+		"virtu",
+		"when",
+		"issu",
+		"databas",
+		"queri"
+	],
+	"tag": [
+		"database",
+		"lazy evaluation",
+		"named",
+		"query"
+	],
 	"title": "Sloth: being lazy is a virtue (when issuing database queries)",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

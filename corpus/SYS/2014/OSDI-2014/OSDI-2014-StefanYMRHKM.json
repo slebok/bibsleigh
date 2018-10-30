@@ -1,13 +1,32 @@
 {
-	"author": ["Deian Stefan", "Edward Z. Yang", "Petr Marchenko", "Alejandro Russo", "David Herman", "Brad Karp", "David Mazières"],
-	"booktitle": "OSDI",
+	"author": [
+		"Deian Stefan",
+		"Edward Z. Yang",
+		"Petr Marchenko",
+		"Alejandro Russo",
+		"David Herman",
+		"Brad Karp",
+		"David Mazières"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2014",
 	"dblpkey": "conf/osdi/StefanYMRHKM14",
 	"ee": "https://www.usenix.org/conference/osdi14/technical-sessions/presentation/stefan",
 	"pages": "131-146",
 	"publisher": "USENIX Association",
-	"stemmed": ["protect", "user", "by", "confin", "javascript", "with", "cowl"],
-	"tag": ["javascript"],
+	"stemmed": [
+		"protect",
+		"user",
+		"by",
+		"confin",
+		"javascript",
+		"with",
+		"cowl"
+	],
+	"tag": [
+		"javascript"
+	],
 	"title": "Protecting Users by Confining JavaScript with COWL",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,6 +1,6 @@
 {
 	"author": "Thomas Neumann 0001",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/Neumann09",
@@ -8,8 +8,20 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559889",
 	"pages": "403-414",
 	"publisher": "ACM",
-	"stemmed": ["queri", "simplif", "grace", "degrad", "for", "join", "order", "optim"],
-	"tag": ["optimisation", "query"],
+	"stemmed": [
+		"queri",
+		"simplif",
+		"grace",
+		"degrad",
+		"for",
+		"join",
+		"order",
+		"optim"
+	],
+	"tag": [
+		"optimisation",
+		"query"
+	],
 	"title": "Query simplification: graceful degradation for join-order optimization",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

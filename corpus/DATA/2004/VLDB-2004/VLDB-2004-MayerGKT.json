@@ -1,13 +1,33 @@
 {
-	"author": ["Sabine Mayer", "Torsten Grust", "Maurice van Keulen", "Jens Teubner"],
-	"booktitle": "VLDB",
+	"author": [
+		"Sabine Mayer",
+		"Torsten Grust",
+		"Maurice van Keulen",
+		"Jens Teubner"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/MayerGKT04",
 	"ee": "http://www.vldb.org/conf/2004/DEMP14.PDF",
 	"pages": "1305-1308",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["an", "inject", "of", "tree", "awar", "ad", "staircas", "join", "to", "postgr", "sql"],
-	"tag": ["injection"],
+	"stemmed": [
+		"an",
+		"inject",
+		"of",
+		"tree",
+		"awar",
+		"ad",
+		"staircas",
+		"join",
+		"to",
+		"postgr",
+		"sql"
+	],
+	"tag": [
+		"injection"
+	],
 	"title": "An Injection of Tree Awareness: Adding Staircase Join to PostgreSQL",
 	"type": "inproceedings",
 	"venue": "VLDB",

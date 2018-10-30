@@ -1,6 +1,7 @@
 {
 	"author": "Hélène Kirchner",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Seventh International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1984",
 	"dblpkey": "conf/cade/Kirchner84a",
 	"doi": "10.1007/BFb0047127",
@@ -10,11 +11,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "general", "induct", "complet", "algorithm", "and", "applic", "to", "abstract", "data", "type"],
-	"tag": ["algorithm", "data type", "induction"],
+	"stemmed": [
+		"a",
+		"general",
+		"induct",
+		"complet",
+		"algorithm",
+		"and",
+		"applic",
+		"to",
+		"abstract",
+		"data",
+		"type"
+	],
+	"tag": [
+		"algorithm",
+		"data type",
+		"induction"
+	],
 	"title": "A General Inductive Completion Algorithm and Application to Abstract Data Types",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 170,
+	"volume": "170",
 	"year": 1984
 }

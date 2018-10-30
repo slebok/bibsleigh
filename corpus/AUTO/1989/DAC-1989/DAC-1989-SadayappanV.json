@@ -1,13 +1,32 @@
 {
-	"author": ["P. Sadayappan", "V. Visvanathan"],
-	"booktitle": "DAC",
+	"author": [
+		"P. Sadayappan",
+		"V. Visvanathan"
+	],
+	"booktitle": "Proceedings of the 26th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/SadayappanV89",
 	"doi": "10.1145/74382.74386",
 	"ee": "http://doi.acm.org/10.1145/74382.74386",
 	"pages": "13-18",
 	"publisher": "ACM Press",
-	"stemmed": ["effici", "spars", "matrix", "factor", "for", "circuit", "simul", "on", "vector", "supercomput"],
-	"tag": ["matrix", "performance", "simulation"],
+	"stemmed": [
+		"effici",
+		"spars",
+		"matrix",
+		"factor",
+		"for",
+		"circuit",
+		"simul",
+		"on",
+		"vector",
+		"supercomput"
+	],
+	"tag": [
+		"matrix",
+		"performance",
+		"simulation"
+	],
 	"title": "Efficient Sparse Matrix Factorization for Circuit Simulation on Vector Supercomputers",
 	"type": "inproceedings",
 	"venue": "DAC",

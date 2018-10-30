@@ -1,15 +1,34 @@
 {
-	"author": ["Shivnath Babu", "Rajeev Motwani", "Kamesh Munagala", "Itaru Nishizawa", "Jennifer Widom"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Shivnath Babu",
+		"Rajeev Motwani",
+		"Kamesh Munagala",
+		"Itaru Nishizawa",
+		"Jennifer Widom"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/BabuMMNW04",
 	"doi": "10.1145/1007568.1007615",
-	"ee": ["http://doi.acm.org/10.1145/1007568.1007615", "http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-137.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1007568.1007615",
+		"http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-137.pdf"
+	],
 	"pages": "407-418",
 	"publisher": "ACM",
-	"stemmed": ["adapt", "order", "of", "pipelin", "stream", "filter"],
-	"tag": ["adaptation", "pipes and filters"],
+	"stemmed": [
+		"adapt",
+		"order",
+		"of",
+		"pipelin",
+		"stream",
+		"filter"
+	],
+	"tag": [
+		"adaptation",
+		"pipes and filters"
+	],
 	"title": "Adaptive Ordering of Pipelined Stream Filters",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

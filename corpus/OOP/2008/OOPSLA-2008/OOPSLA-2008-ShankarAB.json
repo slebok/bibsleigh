@@ -1,6 +1,10 @@
 {
-	"author": ["Ajeet Shankar", "Matthew Arnold", "Rastislav Bodík"],
-	"booktitle": "Proceedings of the 23rd Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Ajeet Shankar",
+		"Matthew Arnold",
+		"Rastislav Bodík"
+	],
+	"booktitle": "Proceedings of the 23rd Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2008",
 	"dblpkey": "conf/oopsla/ShankarAB08",
@@ -10,8 +14,22 @@
 	"isbn": "978-1-60558-215-3",
 	"pages": "127-142",
 	"publisher": "ACM",
-	"stemmed": ["jolt", "lightweight", "dynam", "analysi", "and", "remov", "of", "object", "churn"],
-	"tag": ["dynamic analysis", "lightweight", "named"],
+	"stemmed": [
+		"jolt",
+		"lightweight",
+		"dynam",
+		"analysi",
+		"and",
+		"remov",
+		"of",
+		"object",
+		"churn"
+	],
+	"tag": [
+		"dynamic analysis",
+		"lightweight",
+		"named"
+	],
 	"title": "Jolt: lightweight dynamic analysis and removal of object churn",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

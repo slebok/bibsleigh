@@ -1,14 +1,30 @@
 {
-	"author": ["Georg Gottlob", "Reinhard Pichler", "Fang Wei"],
-	"booktitle": "PODS",
+	"author": [
+		"Georg Gottlob",
+		"Reinhard Pichler",
+		"Fang Wei"
+	],
+	"booktitle": "Proceedings of the 25th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2006",
 	"dblpkey": "conf/pods/GottlobPW06",
 	"doi": "10.1145/1142351.1142370",
 	"ee": "http://doi.acm.org/10.1145/1142351.1142370",
 	"pages": "124-133",
 	"publisher": "ACM",
-	"stemmed": ["tractabl", "databas", "design", "through", "bound", "treewidth"],
-	"tag": ["bound", "database", "design"],
+	"stemmed": [
+		"tractabl",
+		"databas",
+		"design",
+		"through",
+		"bound",
+		"treewidth"
+	],
+	"tag": [
+		"bound",
+		"database",
+		"design"
+	],
 	"title": "Tractable database design through bounded treewidth",
 	"type": "inproceedings",
 	"venue": "PODS",

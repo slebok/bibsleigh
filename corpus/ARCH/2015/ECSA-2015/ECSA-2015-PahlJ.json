@@ -1,6 +1,10 @@
 {
-	"author": ["Claus Pahl", "Pooyan Jamshidi"],
-	"booktitle": "ECSA",
+	"author": [
+		"Claus Pahl",
+		"Pooyan Jamshidi"
+	],
+	"booktitle": "Proceedings of the Ninth European Conference on Software Architecture",
+	"booktitleshort": "ECSA",
 	"crossref": "conf/ecsa/2015",
 	"dblpkey": "conf/ecsa/PahlJ15",
 	"doi": "10.1007/978-3-319-23727-5_17",
@@ -10,11 +14,32 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["softwar", "architectur", "for", "the", "cloud", "a", "roadmap", "toward", "control", "theoret", "model", "base", "cloud", "architectur"],
-	"tag": ["architecture", "formal method", "modelling", "roadmap", "towards"],
+	"stemmed": [
+		"softwar",
+		"architectur",
+		"for",
+		"the",
+		"cloud",
+		"a",
+		"roadmap",
+		"toward",
+		"control",
+		"theoret",
+		"model",
+		"base",
+		"cloud",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"formal method",
+		"modelling",
+		"roadmap",
+		"towards"
+	],
 	"title": "Software Architecture for the Cloud — A Roadmap Towards Control-Theoretic, Model-Based Cloud Architecture",
 	"type": "inproceedings",
 	"venue": "ECSA",
-	"volume": 9278,
+	"volume": "9278",
 	"year": 2015
 }

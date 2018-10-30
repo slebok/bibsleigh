@@ -1,14 +1,32 @@
 {
-	"author": ["Greg Bronevetsky", "Daniel Marques", "Keshav Pingali", "Radu Rugina", "Sally A. McKee"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Greg Bronevetsky",
+		"Daniel Marques",
+		"Keshav Pingali",
+		"Radu Rugina",
+		"Sally A. McKee"
+	],
+	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/BronevetskyMPRM08",
 	"doi": "10.1145/1345206.1345253",
 	"ee": "http://doi.acm.org/10.1145/1345206.1345253",
 	"pages": "275-276",
 	"publisher": "ACM",
-	"stemmed": ["compil", "enhanc", "increment", "checkpoint", "for", "open", "mp", "applic"],
-	"tag": ["incremental"],
+	"stemmed": [
+		"compil",
+		"enhanc",
+		"increment",
+		"checkpoint",
+		"for",
+		"open",
+		"mp",
+		"applic"
+	],
+	"tag": [
+		"incremental"
+	],
 	"title": "Compiler-enhanced incremental checkpointing for OpenMP applications",
 	"type": "inproceedings",
 	"venue": "PPoPP",

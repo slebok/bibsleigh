@@ -1,6 +1,7 @@
 {
 	"author": "Bran Selic",
-	"booktitle": "LCTES",
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/1998",
 	"dblpkey": "conf/lctrts/Selic98",
 	"doi": "10.1007/BFb0057795",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["use", "uml", "for", "model", "complex", "real", "time", "system"],
-	"tag": ["modelling", "realtime", "uml", "using"],
+	"stemmed": [
+		"use",
+		"uml",
+		"for",
+		"model",
+		"complex",
+		"real",
+		"time",
+		"system"
+	],
+	"tag": [
+		"modelling",
+		"realtime",
+		"uml",
+		"using"
+	],
 	"title": "Using UML for Modeling Complex Real-Time Systems",
 	"type": "inproceedings",
 	"venue": "LCTES",
-	"volume": 1474,
+	"volume": "1474",
 	"year": 1998
 }

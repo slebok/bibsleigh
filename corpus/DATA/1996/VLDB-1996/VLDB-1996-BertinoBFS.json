@@ -1,14 +1,45 @@
 {
-	"author": ["Elisa Bertino", "Claudio Bettini", "Elena Ferrari", "Pierangela Samarati"],
-	"booktitle": "VLDB",
-	"cite": ["...", "journals/tkde/BertinoBFS96", "conf/iclp/GelfondL88", "...", "journals/tcs/Revesz93", "conf/usenix/SteinerNS88", "conf/slp/TomanCR94", "journals/jacm/GelderRS91", "..."],
+	"author": [
+		"Elisa Bertino",
+		"Claudio Bettini",
+		"Elena Ferrari",
+		"Pierangela Samarati"
+	],
+	"booktitle": "Proceedings of the 22nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"journals/tkde/BertinoBFS96",
+		"conf/iclp/GelfondL88",
+		"...",
+		"journals/tcs/Revesz93",
+		"conf/usenix/SteinerNS88",
+		"conf/slp/TomanCR94",
+		"journals/jacm/GelderRS91",
+		"..."
+	],
 	"crossref": "conf/vldb/96",
 	"dblpkey": "conf/vldb/BertinoBFS96",
 	"ee": "http://www.vldb.org/conf/1996/P472.PDF",
 	"pages": "472-483",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["support", "period", "author", "and", "tempor", "reason", "in", "databas", "access", "control"],
-	"tag": ["data access", "database", "reasoning"],
+	"stemmed": [
+		"support",
+		"period",
+		"author",
+		"and",
+		"tempor",
+		"reason",
+		"in",
+		"databas",
+		"access",
+		"control"
+	],
+	"tag": [
+		"data access",
+		"database",
+		"reasoning"
+	],
 	"title": "Supporting Periodic Authorizations and Temporal Reasoning in Database Access Control",
 	"type": "inproceedings",
 	"venue": "VLDB",

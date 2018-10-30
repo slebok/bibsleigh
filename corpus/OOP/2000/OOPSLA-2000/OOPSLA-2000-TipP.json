@@ -1,17 +1,35 @@
 {
-	"author": ["Frank Tip", "Jens Palsberg"],
-	"booktitle": "Proceedings of the 15th Conference on Object-Oriented Programming Systems, Languages & Applications",
+	"author": [
+		"Frank Tip",
+		"Jens Palsberg"
+	],
+	"booktitle": "Proceedings of the 15th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2000",
 	"dblpkey": "conf/oopsla/TipP00",
 	"doi": "10.1145/353171.353190",
-	"editor": ["Mary Beth Rosson", "Doug Lea"],
+	"editor": [
+		"Mary Beth Rosson",
+		"Doug Lea"
+	],
 	"ee": "http://doi.acm.org/10.1145/353171.353190",
 	"isbn": "1-58113-200-X",
 	"pages": "281-293",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "propag", "base", "call", "graph", "construct", "algorithm"],
-	"tag": ["algorithm", "graph", "scalability"],
+	"stemmed": [
+		"scalabl",
+		"propag",
+		"base",
+		"call",
+		"graph",
+		"construct",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"graph",
+		"scalability"
+	],
 	"title": "Scalable propagation-based call graph construction algorithms",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

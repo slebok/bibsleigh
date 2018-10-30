@@ -1,6 +1,14 @@
 {
-	"author": ["Jayant Kumar", "Rohit Prasad", "Huaigu Cao", "Wael Abd-Almageed", "David S. Doermann", "Premkumar Natarajan"],
-	"booktitle": "DRR",
+	"author": [
+		"Jayant Kumar",
+		"Rohit Prasad",
+		"Huaigu Cao",
+		"Wael Abd-Almageed",
+		"David S. Doermann",
+		"Premkumar Natarajan"
+	],
+	"booktitle": "Proceedings of the 18th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2011",
 	"dblpkey": "conf/drr/KumarPCADN11",
 	"doi": "10.1117/12.876725",
@@ -8,10 +16,21 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["shape", "codebook", "base", "handwritten", "and", "machin", "print", "text", "zone", "extract"],
+	"stemmed": [
+		"shape",
+		"codebook",
+		"base",
+		"handwritten",
+		"and",
+		"machin",
+		"print",
+		"text",
+		"zone",
+		"extract"
+	],
 	"title": "Shape codebook based handwritten and machine printed text zone extraction",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7874,
+	"volume": "7874",
 	"year": 2011
 }

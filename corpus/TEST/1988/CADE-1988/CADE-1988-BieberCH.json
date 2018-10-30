@@ -1,6 +1,11 @@
 {
-	"author": ["Pierre Bieber", "Luis Fariñas del Cerro", "Andreas Herzig"],
-	"booktitle": "CADE",
+	"author": [
+		"Pierre Bieber",
+		"Luis Fariñas del Cerro",
+		"Andreas Herzig"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/BieberCH88",
 	"doi": "10.1007/BFb0012886",
@@ -10,11 +15,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["molog", "a", "modal", "prolog"],
-	"tag": ["named", "prolog"],
+	"stemmed": [
+		"molog",
+		"a",
+		"modal",
+		"prolog"
+	],
+	"tag": [
+		"named",
+		"prolog"
+	],
 	"title": "MOLOG: a Modal PROLOG",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

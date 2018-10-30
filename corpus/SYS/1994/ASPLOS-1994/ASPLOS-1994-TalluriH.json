@@ -1,14 +1,33 @@
 {
-	"author": ["Madhusudhan Talluri", "Mark D. Hill"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Madhusudhan Talluri",
+		"Mark D. Hill"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1994",
 	"dblpkey": "conf/asplos/TalluriH94",
 	"doi": "10.1145/195473.195531",
 	"ee": "http://doi.acm.org/10.1145/195473.195531",
 	"pages": "171-182",
 	"publisher": "ACM Press",
-	"stemmed": ["surpass", "the", "tlb", "perform", "of", "superpag", "with", "less", "oper", "system", "support"],
-	"tag": ["operating system", "performance"],
+	"stemmed": [
+		"surpass",
+		"the",
+		"tlb",
+		"perform",
+		"of",
+		"superpag",
+		"with",
+		"less",
+		"oper",
+		"system",
+		"support"
+	],
+	"tag": [
+		"operating system",
+		"performance"
+	],
 	"title": "Surpassing the TLB Performance of Superpages with Less Operating System Support",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

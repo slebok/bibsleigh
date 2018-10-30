@@ -1,6 +1,7 @@
 {
 	"author": "William C. McGee",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the Fifth ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD75/P032.PDF",
 	"cite": "...",
 	"crossref": "conf/sigmod/75",
@@ -9,8 +10,19 @@
 	"ee": "http://doi.acm.org/10.1145/500080.500085",
 	"pages": "32-47",
 	"publisher": "ACM",
-	"stemmed": ["file", "level", "oper", "on", "network", "data", "structur"],
-	"tag": ["data type", "network"],
+	"stemmed": [
+		"file",
+		"level",
+		"oper",
+		"on",
+		"network",
+		"data",
+		"structur"
+	],
+	"tag": [
+		"data type",
+		"network"
+	],
 	"title": "File-Level Operations on Network Data Structures",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

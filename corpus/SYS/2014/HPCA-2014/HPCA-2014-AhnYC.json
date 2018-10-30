@@ -1,6 +1,11 @@
 {
-	"author": ["Junwhan Ahn", "Sungjoo Yoo", "Kiyoung Choi"],
-	"booktitle": "HPCA",
+	"author": [
+		"Junwhan Ahn",
+		"Sungjoo Yoo",
+		"Kiyoung Choi"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/AhnYC14",
 	"doi": "10.1109/HPCA.2014.6835944",
@@ -8,8 +13,22 @@
 	"pages": "25-36",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["dasca", "dead", "write", "predict", "assist", "stt", "ram", "cach", "architectur"],
-	"tag": ["architecture", "named", "predict"],
+	"stemmed": [
+		"dasca",
+		"dead",
+		"write",
+		"predict",
+		"assist",
+		"stt",
+		"ram",
+		"cach",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"named",
+		"predict"
+	],
 	"title": "DASCA: Dead Write Prediction Assisted STT-RAM Cache Architecture",
 	"type": "inproceedings",
 	"venue": "HPCA",

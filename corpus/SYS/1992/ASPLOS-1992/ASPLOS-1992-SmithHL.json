@@ -1,14 +1,27 @@
 {
-	"author": ["Michael D. Smith", "Mark Horowitz", "Monica S. Lam"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Michael D. Smith",
+		"Mark Horowitz",
+		"Monica S. Lam"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1992",
 	"dblpkey": "conf/asplos/SmithHL92",
 	"doi": "10.1145/143365.143534",
 	"ee": "http://doi.acm.org/10.1145/143365.143534",
 	"pages": "248-259",
 	"publisher": "ACM Press",
-	"stemmed": ["effici", "superscalar", "perform", "through", "boost"],
-	"tag": ["performance"],
+	"stemmed": [
+		"effici",
+		"superscalar",
+		"perform",
+		"through",
+		"boost"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Efficient Superscalar Performance Through Boosting",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,6 +1,10 @@
 {
-	"author": ["Michaela Götz", "Suman Nath", "Johannes Gehrke"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Michaela Götz",
+		"Suman Nath",
+		"Johannes Gehrke"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/GotzNG12",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213870",
 	"pages": "289-300",
 	"publisher": "ACM",
-	"stemmed": ["mask", "it", "privat", "releas", "user", "context", "stream", "for", "person", "mobil", "applic"],
-	"tag": ["mobile", "named", "personalisation"],
+	"stemmed": [
+		"mask",
+		"it",
+		"privat",
+		"releas",
+		"user",
+		"context",
+		"stream",
+		"for",
+		"person",
+		"mobil",
+		"applic"
+	],
+	"tag": [
+		"mobile",
+		"named",
+		"personalisation"
+	],
 	"title": "MaskIt: privately releasing user context streams for personalized mobile applications",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

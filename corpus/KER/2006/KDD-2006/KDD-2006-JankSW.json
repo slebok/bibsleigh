@@ -1,14 +1,35 @@
 {
-	"author": ["Wolfgang Jank", "Galit Shmueli", "Shanshan Wang"],
-	"booktitle": "KDD",
+	"author": [
+		"Wolfgang Jank",
+		"Galit Shmueli",
+		"Shanshan Wang"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/JankSW06",
 	"doi": "10.1145/1150402.1150471",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150471",
 	"pages": "580-585",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "real", "time", "forecast", "of", "onlin", "auction", "via", "function", "model"],
-	"tag": ["functional", "modelling", "online", "realtime"],
+	"stemmed": [
+		"dynam",
+		"real",
+		"time",
+		"forecast",
+		"of",
+		"onlin",
+		"auction",
+		"via",
+		"function",
+		"model"
+	],
+	"tag": [
+		"functional",
+		"modelling",
+		"online",
+		"realtime"
+	],
 	"title": "Dynamic, real-time forecasting of online auctions via functional models",
 	"type": "inproceedings",
 	"venue": "KDD",

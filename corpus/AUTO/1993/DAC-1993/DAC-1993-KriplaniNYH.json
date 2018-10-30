@@ -1,13 +1,33 @@
 {
-	"author": ["Harish Kriplani", "Farid N. Najm", "Ping Yang", "Ibrahim N. Hajj"],
-	"booktitle": "DAC",
+	"author": [
+		"Harish Kriplani",
+		"Farid N. Najm",
+		"Ping Yang",
+		"Ibrahim N. Hajj"
+	],
+	"booktitle": "Proceedings of the 30th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/KriplaniNYH93",
 	"doi": "10.1145/157485.164941",
 	"ee": "http://doi.acm.org/10.1145/157485.164941",
 	"pages": "384-388",
 	"publisher": "ACM Press",
-	"stemmed": ["resolv", "signal", "correl", "for", "estim", "maximum", "current", "in", "cmos", "combin", "circuit"],
-	"tag": ["correlation"],
+	"stemmed": [
+		"resolv",
+		"signal",
+		"correl",
+		"for",
+		"estim",
+		"maximum",
+		"current",
+		"in",
+		"cmos",
+		"combin",
+		"circuit"
+	],
+	"tag": [
+		"correlation"
+	],
 	"title": "Resolving Signal Correlations for Estimating Maximum Currents in CMOS Combinational Circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

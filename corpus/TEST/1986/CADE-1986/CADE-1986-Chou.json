@@ -1,6 +1,7 @@
 {
 	"author": "Shang-Ching Chou",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Chou86",
 	"doi": "10.1007/3-540-16780-3_134",
@@ -10,11 +11,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["geo", "prover", "a", "geometri", "theorem", "prover", "develop", "at", "ut"],
-	"tag": ["geometry", "named", "proving", "theorem proving"],
+	"stemmed": [
+		"geo",
+		"prover",
+		"a",
+		"geometri",
+		"theorem",
+		"prover",
+		"develop",
+		"at",
+		"ut"
+	],
+	"tag": [
+		"geometry",
+		"named",
+		"proving",
+		"theorem proving"
+	],
 	"title": "GEO-Prover — A Geometry Theorem Prover Developed at UT",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

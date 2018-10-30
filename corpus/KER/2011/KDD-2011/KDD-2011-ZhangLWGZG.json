@@ -1,14 +1,37 @@
 {
-	"author": ["Peng Zhang", "Jun Li", "Peng Wang", "Byron J. Gao", "Xingquan Zhu", "Li Guo"],
-	"booktitle": "KDD",
+	"author": [
+		"Peng Zhang",
+		"Jun Li",
+		"Peng Wang",
+		"Byron J. Gao",
+		"Xingquan Zhu",
+		"Li Guo"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/ZhangLWGZG11",
 	"doi": "10.1145/2020408.2020442",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020442",
 	"pages": "177-185",
 	"publisher": "ACM",
-	"stemmed": ["enabl", "fast", "predict", "for", "ensembl", "model", "on", "data", "stream"],
-	"tag": ["data type", "modelling", "performance", "predict"],
+	"stemmed": [
+		"enabl",
+		"fast",
+		"predict",
+		"for",
+		"ensembl",
+		"model",
+		"on",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"data type",
+		"modelling",
+		"performance",
+		"predict"
+	],
 	"title": "Enabling fast prediction for ensemble models on data streams",
 	"type": "inproceedings",
 	"venue": "KDD",

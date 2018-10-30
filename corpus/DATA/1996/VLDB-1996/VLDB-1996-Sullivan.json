@@ -1,13 +1,29 @@
 {
 	"author": "Mark Sullivan",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the 22nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/96",
 	"dblpkey": "conf/vldb/Sullivan96",
 	"ee": "http://www.vldb.org/conf/1996/P594.PDF",
-	"pages": 594,
+	"pages": "594",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["tribeca", "a", "stream", "databas", "manag", "for", "network", "traffic", "analysi"],
-	"tag": ["analysis", "database", "named", "network"],
+	"stemmed": [
+		"tribeca",
+		"a",
+		"stream",
+		"databas",
+		"manag",
+		"for",
+		"network",
+		"traffic",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"database",
+		"named",
+		"network"
+	],
 	"title": "Tribeca: A Stream Database Manager for Network Traffic Analysis",
 	"type": "inproceedings",
 	"venue": "VLDB",

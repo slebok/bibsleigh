@@ -1,15 +1,37 @@
 {
-	"author": ["Jens Schönherr", "Bernd Straube"],
-	"booktitle": "DATE",
+	"author": [
+		"Jens Schönherr",
+		"Bernd Straube"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/SchonherrS00",
 	"doi": "10.1109/DATE.2000.840892",
 	"ee": "http://doi.ieeecomputersociety.org/10.1109/DATE.2000.840892",
-	"pages": 759,
+	"pages": "759",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["automat", "equival", "check", "of", "circuit", "descript", "at", "clock", "algorithm", "and", "regist", "transfer", "level"],
-	"tag": ["algorithm", "automation", "equivalence"],
+	"stemmed": [
+		"automat",
+		"equival",
+		"check",
+		"of",
+		"circuit",
+		"descript",
+		"at",
+		"clock",
+		"algorithm",
+		"and",
+		"regist",
+		"transfer",
+		"level"
+	],
+	"tag": [
+		"algorithm",
+		"automation",
+		"equivalence"
+	],
 	"title": "Automatic Equivalence Check of Circuit Descriptions at Clocked Algorithmic and Register Transfer Level",
 	"type": "inproceedings",
 	"venue": "DATE",

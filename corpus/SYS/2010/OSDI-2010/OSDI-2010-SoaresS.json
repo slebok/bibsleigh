@@ -1,13 +1,33 @@
 {
-	"author": ["Livio Soares", "Michael Stumm"],
-	"booktitle": "OSDI",
+	"author": [
+		"Livio Soares",
+		"Michael Stumm"
+	],
+	"booktitle": "Proceedings of the Ninth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2010",
 	"dblpkey": "conf/osdi/SoaresS10",
 	"ee": "http://www.usenix.org/events/osdi10/tech/full_papers/Soares.pdf",
 	"pages": "33-46",
 	"publisher": "USENIX Association",
-	"stemmed": ["flex", "sc", "flexibl", "system", "call", "schedul", "with", "except", "less", "system", "call"],
-	"tag": ["flexibility", "named", "scheduling"],
+	"stemmed": [
+		"flex",
+		"sc",
+		"flexibl",
+		"system",
+		"call",
+		"schedul",
+		"with",
+		"except",
+		"less",
+		"system",
+		"call"
+	],
+	"tag": [
+		"flexibility",
+		"named",
+		"scheduling"
+	],
 	"title": "FlexSC: Flexible System Call Scheduling with Exception-Less System Calls",
 	"type": "inproceedings",
 	"venue": "OSDI",

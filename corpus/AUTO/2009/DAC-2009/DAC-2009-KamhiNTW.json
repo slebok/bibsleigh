@@ -1,14 +1,36 @@
 {
-	"author": ["Gila Kamhi", "Alexander Novakovsky", "Andreas Tiemeyer", "Adriana Wolffberg"],
-	"booktitle": "DAC",
+	"author": [
+		"Gila Kamhi",
+		"Alexander Novakovsky",
+		"Andreas Tiemeyer",
+		"Adriana Wolffberg"
+	],
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/KamhiNTW09",
 	"doi": "10.1145/1629911.1630080",
 	"ee": "http://doi.acm.org/10.1145/1629911.1630080",
 	"pages": "639-643",
 	"publisher": "ACM",
-	"stemmed": ["magenta", "transact", "base", "statist", "micro", "architectur", "root", "caus", "analysi"],
-	"tag": ["analysis", "architecture", "named", "statistics", "transaction"],
+	"stemmed": [
+		"magenta",
+		"transact",
+		"base",
+		"statist",
+		"micro",
+		"architectur",
+		"root",
+		"caus",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"architecture",
+		"named",
+		"statistics",
+		"transaction"
+	],
 	"title": "MAGENTA: transaction-based statistical micro-architectural root-cause analysis",
 	"type": "inproceedings",
 	"venue": "DAC",

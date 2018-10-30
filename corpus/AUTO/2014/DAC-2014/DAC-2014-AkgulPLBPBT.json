@@ -1,14 +1,38 @@
 {
-	"author": ["Yeter Akgul", "Diego Puschini", "Suzanne Lesecq", "Edith Beigné", "Ivan Miro Panades", "Pascal Benoit", "Lionel Torres"],
-	"booktitle": "DAC",
+	"author": [
+		"Yeter Akgul",
+		"Diego Puschini",
+		"Suzanne Lesecq",
+		"Edith Beigné",
+		"Ivan Miro Panades",
+		"Pascal Benoit",
+		"Lionel Torres"
+	],
+	"booktitle": "Proceedings of the 51st Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2014",
 	"dblpkey": "conf/dac/AkgulPLBPBT14",
 	"doi": "10.1145/2593069.2593185",
 	"ee": "http://doi.acm.org/10.1145/2593069.2593185",
 	"pages": "183:1-183:6",
 	"publisher": "ACM",
-	"stemmed": ["power", "manag", "through", "dvfs", "and", "dynam", "bodi", "bias", "in", "fd", "soi", "circuit"],
-	"tag": ["power management"],
+	"stemmed": [
+		"power",
+		"manag",
+		"through",
+		"dvfs",
+		"and",
+		"dynam",
+		"bodi",
+		"bias",
+		"in",
+		"fd",
+		"soi",
+		"circuit"
+	],
+	"tag": [
+		"power management"
+	],
 	"title": "Power management through DVFS and dynamic body biasing in FD-SOI circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,15 +1,40 @@
 {
-	"author": ["Clinton Wills Smullen IV", "Vidyabhushan Mohan", "Anurag Nigam", "Sudhanva Gurumurthi", "Mircea R. Stan"],
-	"booktitle": "HPCA",
+	"author": [
+		"Clinton Wills Smullen IV",
+		"Vidyabhushan Mohan",
+		"Anurag Nigam",
+		"Sudhanva Gurumurthi",
+		"Mircea R. Stan"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2011",
 	"dblpkey": "conf/hpca/SmullenMNGS11",
 	"doi": "10.1109/HPCA.2011.5749716",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2011.5749716", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2011.5749716"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2011.5749716",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2011.5749716"
+	],
 	"pages": "50-61",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["relax", "non", "volatil", "for", "fast", "and", "energi", "effici", "stt", "ram", "cach"],
-	"tag": ["energy", "performance"],
+	"stemmed": [
+		"relax",
+		"non",
+		"volatil",
+		"for",
+		"fast",
+		"and",
+		"energi",
+		"effici",
+		"stt",
+		"ram",
+		"cach"
+	],
+	"tag": [
+		"energy",
+		"performance"
+	],
 	"title": "Relaxing non-volatility for fast and energy-efficient STT-RAM caches",
 	"type": "inproceedings",
 	"venue": "HPCA",

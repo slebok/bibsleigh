@@ -1,6 +1,15 @@
 {
-	"author": ["M. Frank Chang", "Jason Cong", "Adam Kaplan", "Mishali Naik", "Glenn Reinman", "Eran Socher", "Sai-Wang Tam"],
-	"booktitle": "HPCA",
+	"author": [
+		"M. Frank Chang",
+		"Jason Cong",
+		"Adam Kaplan",
+		"Mishali Naik",
+		"Glenn Reinman",
+		"Eran Socher",
+		"Sai-Wang Tam"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2008",
 	"dblpkey": "conf/hpca/ChangCKNRST08",
 	"doi": "10.1109/HPCA.2008.4658639",
@@ -8,8 +17,21 @@
 	"pages": "191-202",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["cmp", "network", "on", "chip", "overlaid", "with", "multi", "band", "rf", "interconnect"],
-	"tag": ["multi"],
+	"stemmed": [
+		"cmp",
+		"network",
+		"on",
+		"chip",
+		"overlaid",
+		"with",
+		"multi",
+		"band",
+		"rf",
+		"interconnect"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "CMP network-on-chip overlaid with multi-band RF-interconnect",
 	"type": "inproceedings",
 	"venue": "HPCA",

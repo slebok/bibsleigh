@@ -1,17 +1,36 @@
 {
-	"author": ["Colin S. Gordon", "Matthew J. Parkinson", "Jared Parsons", "Aleks Bromfield", "Joe Duffy"],
-	"booktitle": "Proceedings of the 27th Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Colin S. Gordon",
+		"Matthew J. Parkinson",
+		"Jared Parsons",
+		"Aleks Bromfield",
+		"Joe Duffy"
+	],
+	"booktitle": "Proceedings of the 27th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2012",
 	"dblpkey": "conf/oopsla/GordonPPBD12",
 	"doi": "10.1145/2384616.2384619",
-	"editor": ["Gary T. Leavens", "Matthew B. Dwyer"],
+	"editor": [
+		"Gary T. Leavens",
+		"Matthew B. Dwyer"
+	],
 	"ee": "http://doi.acm.org/10.1145/2384616.2384619",
 	"isbn": "978-1-4503-1561-6",
 	"pages": "21-40",
 	"publisher": "ACM",
-	"stemmed": ["uniqu", "and", "refer", "immut", "for", "safe", "parallel"],
-	"tag": ["parallel"],
+	"stemmed": [
+		"uniqu",
+		"and",
+		"refer",
+		"immut",
+		"for",
+		"safe",
+		"parallel"
+	],
+	"tag": [
+		"parallel"
+	],
 	"title": "Uniqueness and reference immutability for safe parallelism",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

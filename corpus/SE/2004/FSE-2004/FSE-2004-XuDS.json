@@ -1,17 +1,44 @@
 {
-	"author": ["Wei Xu", "Daniel C. DuVarney", "R. Sekar"],
+	"author": [
+		"Wei Xu",
+		"Daniel C. DuVarney",
+		"R. Sekar"
+	],
 	"booktitle": "Proceedings of the 12th International Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2004",
 	"dblpkey": "conf/sigsoft/XuDS04",
 	"doi": "10.1145/1029894.1029913",
-	"editor": ["Richard N. Taylor", "Matthew B. Dwyer"],
+	"editor": [
+		"Richard N. Taylor",
+		"Matthew B. Dwyer"
+	],
 	"ee": "http://doi.acm.org/10.1145/1029894.1029913",
 	"isbn": "1-58113-855-5",
 	"pages": "117-126",
 	"publisher": "ACM",
-	"stemmed": ["an", "effici", "and", "backward", "compat", "transform", "to", "ensur", "memori", "safeti", "of", "c", "program"],
-	"tag": ["c", "memory management", "performance", "safety", "source code"],
+	"stemmed": [
+		"an",
+		"effici",
+		"and",
+		"backward",
+		"compat",
+		"transform",
+		"to",
+		"ensur",
+		"memori",
+		"safeti",
+		"of",
+		"c",
+		"program"
+	],
+	"tag": [
+		"c",
+		"memory management",
+		"performance",
+		"safety",
+		"source code"
+	],
 	"title": "An efficient and backwards-compatible transformation to ensure memory safety of C programs",
 	"type": "inproceedings",
 	"venue": "FSE",

@@ -1,13 +1,37 @@
 {
-	"author": ["Naphtali Rishe", "Jun Yuan", "Rukshan Athauda", "Shu-Ching Chen", "Xiaoling Lu", "Xiaobin Ma", "Alexander Vaschillo", "Artyom Shaposhnikov", "Dmitry Vasilevsky"],
-	"booktitle": "VLDB",
+	"author": [
+		"Naphtali Rishe",
+		"Jun Yuan",
+		"Rukshan Athauda",
+		"Shu-Ching Chen",
+		"Xiaoling Lu",
+		"Xiaobin Ma",
+		"Alexander Vaschillo",
+		"Artyom Shaposhnikov",
+		"Dmitry Vasilevsky"
+	],
+	"booktitle": "Proceedings of the 26th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2000",
 	"dblpkey": "conf/vldb/RisheYACLMVSV00",
 	"ee": "http://www.vldb.org/conf/2000/P591.pdf",
 	"pages": "591-594",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["semant", "access", "semant", "interfac", "for", "queri", "databas"],
-	"tag": ["database", "interface", "query", "semantics"],
+	"stemmed": [
+		"semant",
+		"access",
+		"semant",
+		"interfac",
+		"for",
+		"queri",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"interface",
+		"query",
+		"semantics"
+	],
 	"title": "Semantic Access: Semantic Interface for Querying Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

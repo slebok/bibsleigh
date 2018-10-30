@@ -1,6 +1,10 @@
 {
-	"author": ["Jonghoon Lee", "David Dubin"],
+	"author": [
+		"Jonghoon Lee",
+		"David Dubin"
+	],
 	"booktitle": "Proceedings of the 22nd International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1999/P198.pdf",
 	"crossref": "conf/sigir/99",
 	"dblpkey": "conf/sigir/LeeD99",
@@ -8,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/312624.312678",
 	"pages": "198-205",
 	"publisher": "ACM",
-	"stemmed": ["context", "sensit", "vocabulari", "map", "with", "a", "spread", "activ", "network"],
-	"tag": ["network"],
+	"stemmed": [
+		"context",
+		"sensit",
+		"vocabulari",
+		"map",
+		"with",
+		"a",
+		"spread",
+		"activ",
+		"network"
+	],
+	"tag": [
+		"network"
+	],
 	"title": "Context-Sensitive Vocabulary Mapping with a Spreading Activation Network",
 	"type": "inproceedings",
 	"venue": "SIGIR",

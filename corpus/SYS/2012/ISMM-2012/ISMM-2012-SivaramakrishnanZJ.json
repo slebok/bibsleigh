@@ -1,13 +1,26 @@
 {
-	"author": ["K. C. Sivaramakrishnan", "Lukasz Ziarek", "Suresh Jagannathan"],
-	"booktitle": "ISMM",
+	"author": [
+		"K. C. Sivaramakrishnan",
+		"Lukasz Ziarek",
+		"Suresh Jagannathan"
+	],
+	"booktitle": "Proceedings of the 11th International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2012",
 	"dblpkey": "conf/iwmm/SivaramakrishnanZJ12",
 	"doi": "10.1145/2258996.2259005",
 	"ee": "http://doi.acm.org/10.1145/2258996.2259005",
 	"pages": "49-60",
 	"publisher": "ACM",
-	"stemmed": ["elimin", "read", "barrier", "through", "procrastin", "and", "cleanli"],
+	"stemmed": [
+		"elimin",
+		"read",
+		"barrier",
+		"through",
+		"procrastin",
+		"and",
+		"cleanli"
+	],
 	"title": "Eliminating read barriers through procrastination and cleanliness",
 	"type": "inproceedings",
 	"venue": "ISMM",

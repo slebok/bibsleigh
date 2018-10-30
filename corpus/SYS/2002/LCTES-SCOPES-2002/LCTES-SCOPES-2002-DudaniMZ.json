@@ -1,14 +1,39 @@
 {
-	"author": ["Ajay Dudani", "Frank Müller", "Yifan Zhu"],
-	"booktitle": "LCTES-SCOPES",
+	"author": [
+		"Ajay Dudani",
+		"Frank Müller",
+		"Yifan Zhu"
+	],
+	"booktitle": "Proceedings of the Joint Conference on Languages, Compilers, and Tools for Embedded Systems / Software and Compilers for Embedded Systems",
+	"booktitleshort": "LCTES/SCOPES",
 	"crossref": "conf/lctrts/2002",
 	"dblpkey": "conf/lctrts/DudaniMZ02",
 	"doi": "10.1145/513829.513865",
 	"ee": "http://doi.acm.org/10.1145/513829.513865",
 	"pages": "213-222",
 	"publisher": "ACM",
-	"stemmed": ["energi", "conserv", "feedback", "edf", "schedul", "for", "embed", "system", "with", "real", "time", "constraint"],
-	"tag": ["constraints", "embedded", "energy", "feedback", "realtime", "scheduling"],
+	"stemmed": [
+		"energi",
+		"conserv",
+		"feedback",
+		"edf",
+		"schedul",
+		"for",
+		"embed",
+		"system",
+		"with",
+		"real",
+		"time",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"embedded",
+		"energy",
+		"feedback",
+		"realtime",
+		"scheduling"
+	],
 	"title": "Energy-conserving feedback EDF scheduling for embedded systems with real-time constraints",
 	"type": "inproceedings",
 	"venue": "LCTES",

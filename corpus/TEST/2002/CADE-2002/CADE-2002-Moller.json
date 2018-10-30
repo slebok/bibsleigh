@@ -1,6 +1,7 @@
 {
 	"author": "Jesper B. Møller",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 18th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2002",
 	"dblpkey": "conf/cade/Moller02",
 	"doi": "10.1007/3-540-45620-1_9",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["dddlib", "a", "librari", "for", "solv", "quantifi", "differ", "inequ"],
-	"tag": ["difference", "library", "named", "quantifier"],
+	"stemmed": [
+		"dddlib",
+		"a",
+		"librari",
+		"for",
+		"solv",
+		"quantifi",
+		"differ",
+		"inequ"
+	],
+	"tag": [
+		"difference",
+		"library",
+		"named",
+		"quantifier"
+	],
 	"title": "DDDLIB: A Library for Solving Quantified Difference Inequalities",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2392,
+	"volume": "2392",
 	"year": 2002
 }

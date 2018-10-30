@@ -1,6 +1,7 @@
 {
 	"author": "Harald Rueß",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/Ruess96",
 	"doi": "10.1007/3-540-61511-3_118",
@@ -10,11 +11,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["reflect", "of", "formal", "tactic", "in", "a", "deduct", "reflect", "framework"],
-	"tag": ["deduction", "framework"],
+	"stemmed": [
+		"reflect",
+		"of",
+		"formal",
+		"tactic",
+		"in",
+		"a",
+		"deduct",
+		"reflect",
+		"framework"
+	],
+	"tag": [
+		"deduction",
+		"framework"
+	],
 	"title": "Reflection of Formal Tactics in a Deductive Reflection Framework",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

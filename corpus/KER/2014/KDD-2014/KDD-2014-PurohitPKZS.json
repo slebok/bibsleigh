@@ -1,14 +1,33 @@
 {
-	"author": ["Manish Purohit", "B. Aditya Prakash", "Chanhyun Kang", "Yao Zhang", "V. S. Subrahmanian"],
-	"booktitle": "KDD",
+	"author": [
+		"Manish Purohit",
+		"B. Aditya Prakash",
+		"Chanhyun Kang",
+		"Yao Zhang",
+		"V. S. Subrahmanian"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/PurohitPKZS14",
 	"doi": "10.1145/2623330.2623701",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623701",
 	"pages": "1296-1305",
 	"publisher": "ACM",
-	"stemmed": ["fast", "influenc", "base", "coarsen", "for", "larg", "network"],
-	"tag": ["network", "performance", "scalability"],
+	"stemmed": [
+		"fast",
+		"influenc",
+		"base",
+		"coarsen",
+		"for",
+		"larg",
+		"network"
+	],
+	"tag": [
+		"network",
+		"performance",
+		"scalability"
+	],
 	"title": "Fast influence-based coarsening for large networks",
 	"type": "inproceedings",
 	"venue": "KDD",

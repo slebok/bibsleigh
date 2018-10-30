@@ -1,14 +1,37 @@
 {
-	"author": ["Irfan Pyarali", "Marina Spivak", "Ron Cytron", "Douglas C. Schmidt"],
-	"booktitle": "LCTES/OM",
+	"author": [
+		"Irfan Pyarali",
+		"Marina Spivak",
+		"Ron Cytron",
+		"Douglas C. Schmidt"
+	],
+	"booktitle": "Proceedings of the Joint Workshop on Languages, Compilers, and Tools for Embedded Systems and Workshop on Optimization of Middleware and Distributed Systems",
+	"booktitleshort": "LCTES/OM",
 	"crossref": "conf/lctrts/2001",
 	"dblpkey": "conf/lctrts/PyaraliSCS01",
 	"doi": "10.1145/384197.384226",
 	"ee": "http://doi.acm.org/10.1145/384197.384226",
 	"pages": "214-222",
 	"publisher": "ACM",
-	"stemmed": ["evalu", "and", "optim", "thread", "pool", "strategi", "for", "real", "time", "corba"],
-	"tag": ["concurrent", "corba", "optimisation", "realtime", "thread"],
+	"stemmed": [
+		"evalu",
+		"and",
+		"optim",
+		"thread",
+		"pool",
+		"strategi",
+		"for",
+		"real",
+		"time",
+		"corba"
+	],
+	"tag": [
+		"concurrent",
+		"corba",
+		"optimisation",
+		"realtime",
+		"thread"
+	],
 	"title": "Evaluating and Optimizing Thread Pool Strategies for Real-Time CORBA",
 	"type": "inproceedings",
 	"venue": "LCTES",

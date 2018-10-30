@@ -1,13 +1,25 @@
 {
-	"acmid": 802394,
+	"acmid": "802394",
 	"author": "Randal E. Bryant",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 18th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1981",
 	"dblpkey": "conf/dac/Bryant81",
 	"pages": "786-790",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["mossim", "a", "switch", "level", "simul", "for", "mos", "lsi"],
-	"tag": ["named"],
+	"stemmed": [
+		"mossim",
+		"a",
+		"switch",
+		"level",
+		"simul",
+		"for",
+		"mos",
+		"lsi"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "MOSSIM: A switch-level simulator for MOS LSI",
 	"type": "inproceedings",
 	"venue": "DAC",

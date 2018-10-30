@@ -1,14 +1,34 @@
 {
-	"author": ["Sheldon X.-D. Tan", "C.-J. Richard Shi"],
-	"booktitle": "DAC",
+	"author": [
+		"Sheldon X.-D. Tan",
+		"C.-J. Richard Shi"
+	],
+	"booktitle": "Proceedings of the 38th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2001",
 	"dblpkey": "conf/dac/TanS01",
 	"doi": "10.1145/378239.379021",
 	"ee": "http://doi.acm.org/10.1145/378239.379021",
 	"pages": "550-554",
 	"publisher": "ACM",
-	"stemmed": ["fast", "power", "ground", "network", "optim", "base", "on", "equival", "circuit", "model"],
-	"tag": ["modelling", "network", "optimisation", "performance"],
+	"stemmed": [
+		"fast",
+		"power",
+		"ground",
+		"network",
+		"optim",
+		"base",
+		"on",
+		"equival",
+		"circuit",
+		"model"
+	],
+	"tag": [
+		"modelling",
+		"network",
+		"optimisation",
+		"performance"
+	],
 	"title": "Fast Power/Ground Network Optimization Based on Equivalent Circuit Modeling",
 	"type": "inproceedings",
 	"venue": "DAC",

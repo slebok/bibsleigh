@@ -1,13 +1,34 @@
 {
-	"author": ["Jens-Peter Dittrich", "Bernhard Seeger", "David Scot Taylor", "Peter Widmayer"],
-	"booktitle": "VLDB",
+	"author": [
+		"Jens-Peter Dittrich",
+		"Bernhard Seeger",
+		"David Scot Taylor",
+		"Peter Widmayer"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/DittrichSTW02",
 	"ee": "http://www.vldb.org/conf/2002/S09P03.pdf",
 	"pages": "299-310",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["progress", "merg", "join", "a", "generic", "and", "non", "block", "sort", "base", "join", "algorithm"],
-	"tag": ["algorithm"],
+	"stemmed": [
+		"progress",
+		"merg",
+		"join",
+		"a",
+		"generic",
+		"and",
+		"non",
+		"block",
+		"sort",
+		"base",
+		"join",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm"
+	],
 	"title": "Progressive Merge Join: A Generic and Non-blocking Sort-based Join Algorithm",
 	"type": "inproceedings",
 	"venue": "VLDB",

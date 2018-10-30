@@ -1,14 +1,30 @@
 {
-	"author": ["Trishul M. Chilimbi", "Richard E. Jones", "Benjamin G. Zorn"],
-	"booktitle": "ISMM",
+	"author": [
+		"Trishul M. Chilimbi",
+		"Richard E. Jones",
+		"Benjamin G. Zorn"
+	],
+	"booktitle": "Proceedings of the Second International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2000",
 	"dblpkey": "conf/iwmm/ChilimbiJZ00",
 	"doi": "10.1145/362422.362435",
 	"ee": "http://doi.acm.org/10.1145/362422.362435",
 	"pages": "35-49",
 	"publisher": "ACM",
-	"stemmed": ["design", "a", "trace", "format", "for", "heap", "alloc", "event"],
-	"tag": ["design"],
+	"stemmed": [
+		"design",
+		"a",
+		"trace",
+		"format",
+		"for",
+		"heap",
+		"alloc",
+		"event"
+	],
+	"tag": [
+		"design"
+	],
 	"title": "Designing a Trace Format for Heap Allocation Events",
 	"type": "inproceedings",
 	"venue": "ISMM",

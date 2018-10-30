@@ -1,13 +1,27 @@
 {
 	"author": "Werner Vogels",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/Vogels07",
 	"ee": "http://www.vldb.org/conf/2007/papers/special/p1-vogels.pdf",
-	"pages": 1,
+	"pages": "1",
 	"publisher": "ACM",
-	"stemmed": ["data", "access", "pattern", "in", "the", "amazon", "com", "technolog", "platform"],
-	"tag": ["data access", "framework"],
+	"stemmed": [
+		"data",
+		"access",
+		"pattern",
+		"in",
+		"the",
+		"amazon",
+		"com",
+		"technolog",
+		"platform"
+	],
+	"tag": [
+		"data access",
+		"framework"
+	],
 	"title": "Data Access Patterns in The Amazon.com Technology Platform",
 	"type": "inproceedings",
 	"venue": "VLDB",

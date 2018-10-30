@@ -1,14 +1,37 @@
 {
-	"author": ["Jaewoong Sim", "Aniruddha Dasgupta", "Hyesoon Kim", "Richard W. Vuduc"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Jaewoong Sim",
+		"Aniruddha Dasgupta",
+		"Hyesoon Kim",
+		"Richard W. Vuduc"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/SimDKV12",
 	"doi": "10.1145/2145816.2145819",
 	"ee": "http://doi.acm.org/10.1145/2145816.2145819",
 	"pages": "11-22",
 	"publisher": "ACM",
-	"stemmed": ["a", "perform", "analysi", "framework", "for", "identifi", "potenti", "benefit", "in", "gpgpu", "applic"],
-	"tag": ["analysis", "framework", "identification", "performance"],
+	"stemmed": [
+		"a",
+		"perform",
+		"analysi",
+		"framework",
+		"for",
+		"identifi",
+		"potenti",
+		"benefit",
+		"in",
+		"gpgpu",
+		"applic"
+	],
+	"tag": [
+		"analysis",
+		"framework",
+		"identification",
+		"performance"
+	],
 	"title": "A performance analysis framework for identifying potential benefits in GPGPU applications",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,6 +1,10 @@
 {
-	"author": ["Simon C. Merrall", "Julian A. Padget"],
-	"booktitle": "IWMM",
+	"author": [
+		"Simon C. Merrall",
+		"Julian A. Padget"
+	],
+	"booktitle": "Proceedings of the First International Workshop on Memory Management",
+	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
 	"dblpkey": "conf/iwmm/MerrallP92",
 	"doi": "10.1007/BFb0017208",
@@ -10,11 +14,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["collect", "and", "garbag", "collect"],
-	"tag": ["garbage collection"],
+	"stemmed": [
+		"collect",
+		"and",
+		"garbag",
+		"collect"
+	],
+	"tag": [
+		"garbage collection"
+	],
 	"title": "Collections and Garbage Collection",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 637,
+	"volume": "637",
 	"year": 1992
 }

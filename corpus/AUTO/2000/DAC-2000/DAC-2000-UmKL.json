@@ -1,13 +1,38 @@
 {
-	"author": ["Junhyung Um", "Taewhan Kim", "C. L. Liu"],
-	"booktitle": "DAC",
+	"author": [
+		"Junhyung Um",
+		"Taewhan Kim",
+		"C. L. Liu"
+	],
+	"booktitle": "Proceedings of the 37th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/UmKL00",
 	"doi": "10.1145/337292.337325",
 	"ee": "http://doi.acm.org/10.1145/337292.337325",
 	"pages": "98-103",
 	"publisher": "ACM",
-	"stemmed": ["a", "fine", "grain", "arithmet", "optim", "techniqu", "for", "high", "perform", "low", "power", "data", "path", "synthesi"],
-	"tag": ["fine-grained", "optimisation", "power management", "synthesis"],
+	"stemmed": [
+		"a",
+		"fine",
+		"grain",
+		"arithmet",
+		"optim",
+		"techniqu",
+		"for",
+		"high",
+		"perform",
+		"low",
+		"power",
+		"data",
+		"path",
+		"synthesi"
+	],
+	"tag": [
+		"fine-grained",
+		"optimisation",
+		"power management",
+		"synthesis"
+	],
 	"title": "A fine-grained arithmetic optimization technique for high-performance/low-power data path synthesis",
 	"type": "inproceedings",
 	"venue": "DAC",

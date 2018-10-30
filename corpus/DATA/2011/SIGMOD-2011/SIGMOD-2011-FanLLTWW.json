@@ -1,6 +1,13 @@
 {
-	"author": ["Wenfei Fan", "Jianzhong Li", "Jizhou Luo", "Zijing Tan", "Xin Wang", "Yinghui Wu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Wenfei Fan",
+		"Jianzhong Li",
+		"Jizhou Luo",
+		"Zijing Tan",
+		"Xin Wang",
+		"Yinghui Wu"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/FanLLTWW11",
@@ -8,8 +15,17 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989420",
 	"pages": "925-936",
 	"publisher": "ACM",
-	"stemmed": ["increment", "graph", "pattern", "match"],
-	"tag": ["graph", "incremental", "pattern matching"],
+	"stemmed": [
+		"increment",
+		"graph",
+		"pattern",
+		"match"
+	],
+	"tag": [
+		"graph",
+		"incremental",
+		"pattern matching"
+	],
 	"title": "Incremental graph pattern matching",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

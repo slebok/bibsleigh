@@ -1,14 +1,33 @@
 {
-	"author": ["David J. Palframan", "Nam Sung Kim", "Mikko H. Lipasti"],
-	"booktitle": "HPCA",
+	"author": [
+		"David J. Palframan",
+		"Nam Sung Kim",
+		"Mikko H. Lipasti"
+	],
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2015",
 	"dblpkey": "conf/hpca/PalframanKL15",
 	"doi": "10.1109/HPCA.2015.7056052",
 	"ee": "http://dx.doi.org/10.1109/HPCA.2015.7056052",
 	"pages": "428-438",
 	"publisher": "IEEE",
-	"stemmed": ["ipatch", "intellig", "fault", "patch", "to", "improv", "energi", "effici"],
-	"tag": ["energy", "fault", "named", "performance"],
+	"stemmed": [
+		"ipatch",
+		"intellig",
+		"fault",
+		"patch",
+		"to",
+		"improv",
+		"energi",
+		"effici"
+	],
+	"tag": [
+		"energy",
+		"fault",
+		"named",
+		"performance"
+	],
 	"title": "iPatch: Intelligent fault patching to improve energy efficiency",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,6 +1,11 @@
 {
-	"author": ["Ewing L. Lusk", "William McCune", "John K. Slaney"],
-	"booktitle": "CADE",
+	"author": [
+		"Ewing L. Lusk",
+		"William McCune",
+		"John K. Slaney"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/LuskMS92",
 	"doi": "10.1007/3-540-55602-8_213",
@@ -10,11 +15,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["roo", "a", "parallel", "theorem", "prover"],
-	"tag": ["named", "parallel", "proving", "theorem proving"],
+	"stemmed": [
+		"roo",
+		"a",
+		"parallel",
+		"theorem",
+		"prover"
+	],
+	"tag": [
+		"named",
+		"parallel",
+		"proving",
+		"theorem proving"
+	],
 	"title": "ROO: A Parallel Theorem Prover",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

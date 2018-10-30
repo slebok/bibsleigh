@@ -1,14 +1,42 @@
 {
-	"author": ["Marcin Skubiszewski", "Patrick Valduriez"],
-	"booktitle": "VLDB",
-	"cite": ["conf/vldb/AmsalegFG95", "books/mk/BancilhonDK92", "conf/pldi/Boehm93", "journals/spe/BoehmW88", "journals/cacm/DijkstraLMSS78", "...", "books/mk/GrayR93", "journals/csur/HarderR83", "books/wi/JonesL96", "journals/cacm/LambLOW91", "conf/sigmod/MaheshwariL97", "...", "...", "conf/iwmm/Wilson92"],
+	"author": [
+		"Marcin Skubiszewski",
+		"Patrick Valduriez"
+	],
+	"booktitle": "Proceedings of the 23rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/vldb/AmsalegFG95",
+		"books/mk/BancilhonDK92",
+		"conf/pldi/Boehm93",
+		"journals/spe/BoehmW88",
+		"journals/cacm/DijkstraLMSS78",
+		"...",
+		"books/mk/GrayR93",
+		"journals/csur/HarderR83",
+		"books/wi/JonesL96",
+		"journals/cacm/LambLOW91",
+		"conf/sigmod/MaheshwariL97",
+		"...",
+		"...",
+		"conf/iwmm/Wilson92"
+	],
 	"crossref": "conf/vldb/97",
 	"dblpkey": "conf/vldb/SkubiszewskiV97",
 	"ee": "http://www.vldb.org/conf/1997/P356.PDF",
 	"pages": "356-365",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["concurr", "garbag", "collect", "in", "o"],
-	"tag": ["concurrent", "garbage collection"],
+	"stemmed": [
+		"concurr",
+		"garbag",
+		"collect",
+		"in",
+		"o"
+	],
+	"tag": [
+		"concurrent",
+		"garbage collection"
+	],
 	"title": "Concurrent Garbage Collection in O2",
 	"type": "inproceedings",
 	"venue": "VLDB",

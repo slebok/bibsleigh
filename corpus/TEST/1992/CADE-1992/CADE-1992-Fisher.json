@@ -1,6 +1,7 @@
 {
 	"author": "Michael Fisher",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/Fisher92",
 	"doi": "10.1007/3-540-55602-8_178",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "normal", "form", "for", "first", "order", "tempor", "formula"],
-	"tag": ["first-order", "normalisation"],
+	"stemmed": [
+		"a",
+		"normal",
+		"form",
+		"for",
+		"first",
+		"order",
+		"tempor",
+		"formula"
+	],
+	"tag": [
+		"first-order",
+		"normalisation"
+	],
 	"title": "A Normal Form for First-Order Temporal Formulae",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

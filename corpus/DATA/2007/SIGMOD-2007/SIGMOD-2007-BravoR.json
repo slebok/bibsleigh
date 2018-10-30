@@ -1,6 +1,9 @@
 {
-	"author": ["Héctor Corrada Bravo", "Raghu Ramakrishnan"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Héctor Corrada Bravo",
+		"Raghu Ramakrishnan"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/BravoR07",
@@ -8,8 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247558",
 	"pages": "701-712",
 	"publisher": "ACM",
-	"stemmed": ["optim", "mpf", "queri", "decis", "support", "and", "probabilist", "infer"],
-	"tag": ["optimisation", "probability", "query"],
+	"stemmed": [
+		"optim",
+		"mpf",
+		"queri",
+		"decis",
+		"support",
+		"and",
+		"probabilist",
+		"infer"
+	],
+	"tag": [
+		"optimisation",
+		"probability",
+		"query"
+	],
 	"title": "Optimizing mpf queries: decision support and probabilistic inference",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

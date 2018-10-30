@@ -1,14 +1,25 @@
 {
-	"author": ["Goetz Graefe", "Michael J. Zwilling"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Goetz Graefe",
+		"Michael J. Zwilling"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/GraefeZ04",
 	"doi": "10.1145/1007568.1007606",
 	"ee": "http://doi.acm.org/10.1145/1007568.1007606",
 	"publisher": "ACM",
-	"stemmed": ["transact", "support", "for", "index", "view"],
-	"tag": ["transaction"],
+	"stemmed": [
+		"transact",
+		"support",
+		"for",
+		"index",
+		"view"
+	],
+	"tag": [
+		"transaction"
+	],
 	"title": "Transaction support for indexed views",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

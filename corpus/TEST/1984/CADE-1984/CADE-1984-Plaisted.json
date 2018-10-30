@@ -1,6 +1,7 @@
 {
 	"author": "David A. Plaisted",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Seventh International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1984",
 	"dblpkey": "conf/cade/Plaisted84",
 	"doi": "10.1007/BFb0047131",
@@ -10,11 +11,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["use", "exampl", "case", "analysi", "and", "depend", "graph", "in", "theorem", "prove"],
-	"tag": ["analysis", "dependence", "graph", "proving", "theorem proving", "using"],
+	"stemmed": [
+		"use",
+		"exampl",
+		"case",
+		"analysi",
+		"and",
+		"depend",
+		"graph",
+		"in",
+		"theorem",
+		"prove"
+	],
+	"tag": [
+		"analysis",
+		"dependence",
+		"graph",
+		"proving",
+		"theorem proving",
+		"using"
+	],
 	"title": "Using Examples, Case Analysis, and Dependency Graphs in Theorem Proving",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 170,
+	"volume": "170",
 	"year": 1984
 }

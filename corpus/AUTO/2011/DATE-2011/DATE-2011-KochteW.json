@@ -1,13 +1,33 @@
 {
-	"author": ["Michael A. Kochte", "Hans-Joachim Wunderlich"],
-	"booktitle": "DATE",
+	"author": [
+		"Michael A. Kochte",
+		"Hans-Joachim Wunderlich"
+	],
+	"booktitle": "Proceedings of the 15th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2011",
 	"dblpkey": "conf/date/KochteW11",
 	"ieeearid": 5763209,
 	"pages": "1303-1308",
 	"publisher": "IEEE",
-	"stemmed": ["sat", "base", "fault", "coverag", "evalu", "in", "the", "presenc", "of", "unknown", "valu"],
-	"tag": ["evaluation", "fault", "satisfiability"],
+	"stemmed": [
+		"sat",
+		"base",
+		"fault",
+		"coverag",
+		"evalu",
+		"in",
+		"the",
+		"presenc",
+		"of",
+		"unknown",
+		"valu"
+	],
+	"tag": [
+		"evaluation",
+		"fault",
+		"satisfiability"
+	],
 	"title": "SAT-based fault coverage evaluation in the presence of unknown values",
 	"type": "inproceedings",
 	"venue": "DATE",

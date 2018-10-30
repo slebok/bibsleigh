@@ -1,14 +1,37 @@
 {
-	"author": ["Sungpack Hong", "Hassan Chafi", "Eric Sedlar", "Kunle Olukotun"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Sungpack Hong",
+		"Hassan Chafi",
+		"Eric Sedlar",
+		"Kunle Olukotun"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2012",
 	"dblpkey": "conf/asplos/HongCSO12",
 	"doi": "10.1145/2150976.2151013",
 	"ee": "http://doi.acm.org/10.1145/2150976.2151013",
 	"pages": "349-362",
 	"publisher": "ACM",
-	"stemmed": ["green", "marl", "a", "dsl", "for", "easi", "and", "effici", "graph", "analysi"],
-	"tag": ["analysis", "domain-specific language", "graph", "named", "performance"],
+	"stemmed": [
+		"green",
+		"marl",
+		"a",
+		"dsl",
+		"for",
+		"easi",
+		"and",
+		"effici",
+		"graph",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"domain-specific language",
+		"graph",
+		"named",
+		"performance"
+	],
 	"title": "Green-Marl: a DSL for easy and efficient graph analysis",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

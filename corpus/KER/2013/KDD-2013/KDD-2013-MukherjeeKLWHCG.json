@@ -1,14 +1,33 @@
 {
-	"author": ["Arjun Mukherjee", "Abhinav Kumar", "Bing Liu", "Junhui Wang", "Meichun Hsu", "Malú Castellanos", "Riddhiman Ghosh"],
-	"booktitle": "KDD",
+	"author": [
+		"Arjun Mukherjee",
+		"Abhinav Kumar",
+		"Bing Liu",
+		"Junhui Wang",
+		"Meichun Hsu",
+		"Malú Castellanos",
+		"Riddhiman Ghosh"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/MukherjeeKLWHCG13",
 	"doi": "10.1145/2487575.2487580",
 	"ee": "http://doi.acm.org/10.1145/2487575.2487580",
 	"pages": "632-640",
 	"publisher": "ACM",
-	"stemmed": ["spot", "opinion", "spammer", "use", "behavior", "footprint"],
-	"tag": ["behaviour", "using"],
+	"stemmed": [
+		"spot",
+		"opinion",
+		"spammer",
+		"use",
+		"behavior",
+		"footprint"
+	],
+	"tag": [
+		"behaviour",
+		"using"
+	],
 	"title": "Spotting opinion spammers using behavioral footprints",
 	"type": "inproceedings",
 	"venue": "KDD",

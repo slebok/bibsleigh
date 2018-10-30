@@ -1,14 +1,31 @@
 {
-	"author": ["Alex Kogan", "Erez Petrank"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Alex Kogan",
+		"Erez Petrank"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/KoganP12",
 	"doi": "10.1145/2145816.2145835",
 	"ee": "http://doi.acm.org/10.1145/2145816.2145835",
 	"pages": "141-150",
 	"publisher": "ACM",
-	"stemmed": ["a", "methodolog", "for", "creat", "fast", "wait", "free", "data", "structur"],
-	"tag": ["data type", "performance"],
+	"stemmed": [
+		"a",
+		"methodolog",
+		"for",
+		"creat",
+		"fast",
+		"wait",
+		"free",
+		"data",
+		"structur"
+	],
+	"tag": [
+		"data type",
+		"performance"
+	],
 	"title": "A methodology for creating fast wait-free data structures",
 	"type": "inproceedings",
 	"venue": "PPoPP",

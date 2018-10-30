@@ -1,15 +1,38 @@
 {
-	"author": ["J. Eliot B. Moss", "Nancy D. Griffeth", "Marc H. Graham"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"J. Eliot B. Moss",
+		"Nancy D. Griffeth",
+		"Marc H. Graham"
+	],
+	"booktitle": "Proceedings of the 16th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD86/P072.PDF",
-	"cite": ["conf/podc/BeeriBG83", "journals/cacm/EswarranGLT76", "journals/tods/Garcia-MolinaW82", "conf/pods/Hadzilacos83", "journals/csur/HarderR83", "journals/tods/Lynch83", "...", "journals/jacm/Papadimitriou79b", "journals/tocs/SchwarzS84", "..."],
+	"cite": [
+		"conf/podc/BeeriBG83",
+		"journals/cacm/EswarranGLT76",
+		"journals/tods/Garcia-MolinaW82",
+		"conf/pods/Hadzilacos83",
+		"journals/csur/HarderR83",
+		"journals/tods/Lynch83",
+		"...",
+		"journals/jacm/Papadimitriou79b",
+		"journals/tocs/SchwarzS84",
+		"..."
+	],
 	"crossref": "conf/sigmod/86",
 	"dblpkey": "conf/sigmod/MossGG86",
 	"doi": "10.1145/16894.16862",
 	"ee": "http://doi.acm.org/10.1145/16894.16862",
 	"pages": "72-83",
-	"stemmed": ["abstract", "in", "recoveri", "manag"],
-	"tag": ["abstraction"],
+	"stemmed": [
+		"abstract",
+		"in",
+		"recoveri",
+		"manag"
+	],
+	"tag": [
+		"abstraction"
+	],
 	"title": "Abstraction in Recovery Management",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

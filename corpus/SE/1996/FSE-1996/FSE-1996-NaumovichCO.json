@@ -1,7 +1,11 @@
 {
-	"author": ["Gleb Naumovich", "Lori A. Clarke", "Leon J. Osterweil"],
+	"author": [
+		"Gleb Naumovich",
+		"Lori A. Clarke",
+		"Leon J. Osterweil"
+	],
 	"booktitle": "Proceedings of the Fourth Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/1996",
 	"dblpkey": "conf/sigsoft/NaumovichCO96",
 	"doi": "10.1145/239098.239114",
@@ -9,8 +13,24 @@
 	"ee": "http://doi.acm.org/10.1145/239098.239114",
 	"pages": "93-105",
 	"publisher": "ACM",
-	"stemmed": ["verif", "of", "communic", "protocol", "use", "data", "flow", "analysi"],
-	"tag": ["analysis", "communication", "data flow", "protocol", "using", "verification"],
+	"stemmed": [
+		"verif",
+		"of",
+		"communic",
+		"protocol",
+		"use",
+		"data",
+		"flow",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"communication",
+		"data flow",
+		"protocol",
+		"using",
+		"verification"
+	],
 	"title": "Verification of Communication Protocols Using Data Flow Analysis",
 	"type": "inproceedings",
 	"venue": "FSE",

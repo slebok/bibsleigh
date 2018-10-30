@@ -1,14 +1,35 @@
 {
-	"author": ["M. Shahriar Hossain", "Satish Tadepalli", "Layne T. Watson", "Ian Davidson", "Richard F. Helm", "Naren Ramakrishnan"],
-	"booktitle": "KDD",
+	"author": [
+		"M. Shahriar Hossain",
+		"Satish Tadepalli",
+		"Layne T. Watson",
+		"Ian Davidson",
+		"Richard F. Helm",
+		"Naren Ramakrishnan"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/HossainTWDHR10",
 	"doi": "10.1145/1835804.1835880",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835880",
 	"pages": "593-602",
 	"publisher": "ACM",
-	"stemmed": ["unifi", "depend", "cluster", "and", "dispar", "cluster", "for", "non", "homogen", "data"],
-	"tag": ["clustering"],
+	"stemmed": [
+		"unifi",
+		"depend",
+		"cluster",
+		"and",
+		"dispar",
+		"cluster",
+		"for",
+		"non",
+		"homogen",
+		"data"
+	],
+	"tag": [
+		"clustering"
+	],
 	"title": "Unifying dependent clustering and disparate clustering for non-homogeneous data",
 	"type": "inproceedings",
 	"venue": "KDD",

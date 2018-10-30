@@ -1,14 +1,27 @@
 {
-	"author": ["Christos Faloutsos", "Kevin S. McCurley", "Andrew Tomkins"],
-	"booktitle": "KDD",
+	"author": [
+		"Christos Faloutsos",
+		"Kevin S. McCurley",
+		"Andrew Tomkins"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2004",
 	"dblpkey": "conf/kdd/FaloutsosMT04",
 	"doi": "10.1145/1014052.1014068",
 	"ee": "http://doi.acm.org/10.1145/1014052.1014068",
 	"pages": "118-127",
 	"publisher": "ACM",
-	"stemmed": ["fast", "discoveri", "of", "connect", "subgraph"],
-	"tag": ["performance"],
+	"stemmed": [
+		"fast",
+		"discoveri",
+		"of",
+		"connect",
+		"subgraph"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Fast discovery of connection subgraphs",
 	"type": "inproceedings",
 	"venue": "KDD",

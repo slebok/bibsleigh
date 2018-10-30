@@ -1,14 +1,38 @@
 {
-	"author": ["Jonathan Bachrach", "Huy Vo", "Brian Richards", "Yunsup Lee", "Andrew Waterman", "Rimas Avizienis", "John Wawrzynek", "Krste Asanovic"],
-	"booktitle": "DAC",
+	"author": [
+		"Jonathan Bachrach",
+		"Huy Vo",
+		"Brian Richards",
+		"Yunsup Lee",
+		"Andrew Waterman",
+		"Rimas Avizienis",
+		"John Wawrzynek",
+		"Krste Asanovic"
+	],
+	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/BachrachVRLWAWA12",
 	"doi": "10.1145/2228360.2228584",
 	"ee": "http://doi.acm.org/10.1145/2228360.2228584",
 	"pages": "1216-1225",
 	"publisher": "ACM",
-	"stemmed": ["chisel", "construct", "hardwar", "in", "a", "scala", "embed", "languag"],
-	"tag": ["embedded", "hardware", "named", "scala"],
+	"stemmed": [
+		"chisel",
+		"construct",
+		"hardwar",
+		"in",
+		"a",
+		"scala",
+		"embed",
+		"languag"
+	],
+	"tag": [
+		"embedded",
+		"hardware",
+		"named",
+		"scala"
+	],
 	"title": "Chisel: constructing hardware in a Scala embedded language",
 	"type": "inproceedings",
 	"venue": "DAC",

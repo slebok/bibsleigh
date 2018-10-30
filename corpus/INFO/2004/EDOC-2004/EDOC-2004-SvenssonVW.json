@@ -1,6 +1,11 @@
 {
-	"author": ["Erik Svensson", "Claus Vetter", "Thomas Werner"],
-	"booktitle": "EDOC",
+	"author": [
+		"Erik Svensson",
+		"Claus Vetter",
+		"Thomas Werner"
+	],
+	"booktitle": "Proceedings of the Eighth International Enterprise Distributed Object Computing Conference",
+	"booktitleshort": "EDOC",
 	"crossref": "conf/edoc/2004",
 	"dblpkey": "conf/edoc/SvenssonVW04",
 	"doi": "10.1109/EDOC.2004.10002",
@@ -8,8 +13,25 @@
 	"pages": "3-8",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["data", "consist", "in", "a", "heterogen", "it", "landscap", "a", "servic", "orient", "architectur", "approach"],
-	"tag": ["approach", "architecture", "consistency"],
+	"stemmed": [
+		"data",
+		"consist",
+		"in",
+		"a",
+		"heterogen",
+		"it",
+		"landscap",
+		"a",
+		"servic",
+		"orient",
+		"architectur",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"architecture",
+		"consistency"
+	],
 	"title": "Data Consistency in a Heterogeneous IT Landscape: A Service Oriented Architecture Approach",
 	"type": "inproceedings",
 	"venue": "EDOC",

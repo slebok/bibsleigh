@@ -1,14 +1,30 @@
 {
 	"author": "David W. Hightower",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 13th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1976",
 	"dblpkey": "conf/dac/Hightower76",
 	"doi": "10.1145/800146.804831",
 	"ee": "http://doi.acm.org/10.1145/800146.804831",
 	"pages": "318-326",
 	"publisher": "ACM",
-	"stemmed": ["sleuth", "a", "metal", "to", "metal", "audit", "program", "in", "an", "interact", "environ"],
-	"tag": ["interactive", "named"],
+	"stemmed": [
+		"sleuth",
+		"a",
+		"metal",
+		"to",
+		"metal",
+		"audit",
+		"program",
+		"in",
+		"an",
+		"interact",
+		"environ"
+	],
+	"tag": [
+		"interactive",
+		"named"
+	],
 	"title": "SLEUTH — a metal-to-metal audit program in an interactive environment",
 	"type": "inproceedings",
 	"venue": "DAC",

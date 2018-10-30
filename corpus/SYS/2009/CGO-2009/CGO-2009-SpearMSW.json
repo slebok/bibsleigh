@@ -1,16 +1,38 @@
 {
-	"acmid": 1545048,
-	"author": ["Michael F. Spear", "Maged M. Michael", "Michael L. Scott", "Peng Wu"],
-	"booktitle": "CGO",
+	"acmid": "1545048",
+	"author": [
+		"Michael F. Spear",
+		"Maged M. Michael",
+		"Michael L. Scott",
+		"Peng Wu"
+	],
+	"booktitle": "Proceedings of the Seventh International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2009",
 	"dblpkey": "conf/cgo/SpearMSW09",
 	"doi": "10.1109/CGO.2009.30",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2009.30", "http://doi.ieeecomputersociety.org/10.1109/CGO.2009.30", "http://dl.acm.org/citation.cfm?id=1545048"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2009.30",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2009.30",
+		"http://dl.acm.org/citation.cfm?id=1545048"
+	],
 	"pages": "13-24",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["reduc", "memori", "order", "overhead", "in", "softwar", "transact", "memori"],
-	"tag": ["memory management", "transaction"],
+	"stemmed": [
+		"reduc",
+		"memori",
+		"order",
+		"overhead",
+		"in",
+		"softwar",
+		"transact",
+		"memori"
+	],
+	"tag": [
+		"memory management",
+		"transaction"
+	],
 	"title": "Reducing Memory Ordering Overheads in Software Transactional Memory",
 	"type": "inproceedings",
 	"venue": "CGO",

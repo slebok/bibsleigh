@@ -1,6 +1,11 @@
 {
-	"author": ["Lei Bu", "Jianhua Zhao", "Xuandong Li"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Lei Bu",
+		"Jianhua Zhao",
+		"Xuandong Li"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2010",
 	"dblpkey": "conf/vmcai/BuZL10",
 	"doi": "10.1007/978-3-642-11319-2_9",
@@ -10,11 +15,33 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["path", "orient", "reachabl", "verif", "of", "a", "class", "of", "nonlinear", "hybrid", "automata", "use", "convex", "program"],
-	"tag": ["automaton", "hybrid", "programming", "reachability", "using", "verification"],
+	"stemmed": [
+		"path",
+		"orient",
+		"reachabl",
+		"verif",
+		"of",
+		"a",
+		"class",
+		"of",
+		"nonlinear",
+		"hybrid",
+		"automata",
+		"use",
+		"convex",
+		"program"
+	],
+	"tag": [
+		"automaton",
+		"hybrid",
+		"programming",
+		"reachability",
+		"using",
+		"verification"
+	],
 	"title": "Path-Oriented Reachability Verification of a Class of Nonlinear Hybrid Automata Using Convex Programming",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 5944,
+	"volume": "5944",
 	"year": 2010
 }

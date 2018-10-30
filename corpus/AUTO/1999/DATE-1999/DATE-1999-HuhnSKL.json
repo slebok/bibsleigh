@@ -1,6 +1,12 @@
 {
-	"author": ["Michaela Huhn", "Klaus Schneider", "Thomas Kropf", "George Logothetis"],
-	"booktitle": "DATE",
+	"author": [
+		"Michaela Huhn",
+		"Klaus Schneider",
+		"Thomas Kropf",
+		"George Logothetis"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/HuhnSKL99",
 	"doi": "10.1109/DATE.1999.761098",
@@ -8,8 +14,16 @@
 	"pages": "65-",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["verifi", "imprecis", "work", "arithmet", "circuit"],
-	"tag": ["verification"],
+	"stemmed": [
+		"verifi",
+		"imprecis",
+		"work",
+		"arithmet",
+		"circuit"
+	],
+	"tag": [
+		"verification"
+	],
 	"title": "Verifying Imprecisely Working Arithmetic Circuits",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,13 +1,35 @@
 {
-	"author": ["Michael J. Steindorfer", "Jurgen J. Vinju"],
-	"booktitle": "OOPSLA",
+	"author": [
+		"Michael J. Steindorfer",
+		"Jurgen J. Vinju"
+	],
+	"booktitle": "Proceedings of the 30th Conference on Object-Oriented Programming, Systems, Languages and Applications",
+	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2015",
 	"dblpkey": "conf/oopsla/SteindorferV15",
 	"doi": "10.1145/2814270.2814312",
 	"pages": "783-800",
 	"publisher": "ACM",
-	"stemmed": ["optim", "hash", "array", "map", "tri", "for", "fast", "and", "lean", "immut", "jvm", "collect"],
-	"tag": ["agile", "optimisation", "performance", "virtual machine"],
+	"stemmed": [
+		"optim",
+		"hash",
+		"array",
+		"map",
+		"tri",
+		"for",
+		"fast",
+		"and",
+		"lean",
+		"immut",
+		"jvm",
+		"collect"
+	],
+	"tag": [
+		"agile",
+		"optimisation",
+		"performance",
+		"virtual machine"
+	],
 	"title": "Optimizing hash-array mapped tries for fast and lean immutable JVM collections",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

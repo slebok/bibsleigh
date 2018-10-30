@@ -1,6 +1,11 @@
 {
-	"author": ["Moinuddin K. Qureshi", "Michele Franceschini", "Luis Alfonso Lastras-Montaño"],
-	"booktitle": "HPCA",
+	"author": [
+		"Moinuddin K. Qureshi",
+		"Michele Franceschini",
+		"Luis Alfonso Lastras-Montaño"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2010",
 	"dblpkey": "conf/hpca/QureshiFL10",
 	"doi": "10.1109/HPCA.2010.5416645",
@@ -8,8 +13,24 @@
 	"pages": "1-11",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["improv", "read", "perform", "of", "phase", "chang", "memori", "via", "write", "cancel", "and", "write", "paus"],
-	"tag": ["performance"],
+	"stemmed": [
+		"improv",
+		"read",
+		"perform",
+		"of",
+		"phase",
+		"chang",
+		"memori",
+		"via",
+		"write",
+		"cancel",
+		"and",
+		"write",
+		"paus"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Improving read performance of Phase Change Memories via Write Cancellation and Write Pausing",
 	"type": "inproceedings",
 	"venue": "HPCA",

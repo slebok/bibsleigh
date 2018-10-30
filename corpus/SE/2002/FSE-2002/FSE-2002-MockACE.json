@@ -1,7 +1,12 @@
 {
-	"author": ["Markus Mock", "Darren C. Atkinson", "Craig Chambers", "Susan J. Eggers"],
+	"author": [
+		"Markus Mock",
+		"Darren C. Atkinson",
+		"Craig Chambers",
+		"Susan J. Eggers"
+	],
 	"booktitle": "Proceedings of the 10th Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2002",
 	"dblpkey": "conf/sigsoft/MockACE02",
 	"doi": "10.1145/587051.587062",
@@ -9,8 +14,20 @@
 	"isbn": "1-58113-514-9",
 	"pages": "71-80",
 	"publisher": "ACM",
-	"stemmed": ["improv", "program", "slice", "with", "dynam", "point", "to", "data"],
-	"tag": ["points-to", "slicing"],
+	"stemmed": [
+		"improv",
+		"program",
+		"slice",
+		"with",
+		"dynam",
+		"point",
+		"to",
+		"data"
+	],
+	"tag": [
+		"points-to",
+		"slicing"
+	],
 	"title": "Improving program slicing with dynamic points-to data",
 	"type": "inproceedings",
 	"venue": "FSE",

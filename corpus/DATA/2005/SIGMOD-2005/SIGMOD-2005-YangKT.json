@@ -1,6 +1,10 @@
 {
-	"author": ["Rui Yang", "Panos Kalnis", "Anthony K. H. Tung"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Rui Yang",
+		"Panos Kalnis",
+		"Anthony K. H. Tung"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/YangKT05",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066243",
 	"pages": "754-765",
 	"publisher": "ACM",
-	"stemmed": ["similar", "evalu", "on", "tree", "structur", "data"],
-	"tag": ["evaluation", "similarity"],
+	"stemmed": [
+		"similar",
+		"evalu",
+		"on",
+		"tree",
+		"structur",
+		"data"
+	],
+	"tag": [
+		"evaluation",
+		"similarity"
+	],
 	"title": "Similarity Evaluation on Tree-structured Data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

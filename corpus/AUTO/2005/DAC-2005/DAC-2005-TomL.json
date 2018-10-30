@@ -1,14 +1,35 @@
 {
-	"author": ["Marvin Tom", "Guy G. Lemieux"],
-	"booktitle": "DAC",
+	"author": [
+		"Marvin Tom",
+		"Guy G. Lemieux"
+	],
+	"booktitle": "Proceedings of the 42nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/TomL05",
 	"doi": "10.1145/1065579.1065770",
 	"ee": "http://doi.acm.org/10.1145/1065579.1065770",
 	"pages": "726-731",
 	"publisher": "ACM",
-	"stemmed": ["logic", "block", "cluster", "of", "larg", "design", "for", "channel", "width", "constrain", "fpgas"],
-	"tag": ["clustering", "design", "logic", "scalability"],
+	"stemmed": [
+		"logic",
+		"block",
+		"cluster",
+		"of",
+		"larg",
+		"design",
+		"for",
+		"channel",
+		"width",
+		"constrain",
+		"fpgas"
+	],
+	"tag": [
+		"clustering",
+		"design",
+		"logic",
+		"scalability"
+	],
 	"title": "Logic block clustering of large designs for channel-width constrained FPGAs",
 	"type": "inproceedings",
 	"venue": "DAC",

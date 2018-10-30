@@ -1,6 +1,12 @@
 {
-	"author": ["Bugra Gedik", "Henrique Andrade", "Kun-Lung Wu", "Philip S. Yu", "Myungcheol Doo"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Bugra Gedik",
+		"Henrique Andrade",
+		"Kun-Lung Wu",
+		"Philip S. Yu",
+		"Myungcheol Doo"
+	],
+	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2008",
 	"dblpkey": "conf/sigmod/GedikAWYD08",
@@ -8,8 +14,20 @@
 	"ee": "http://doi.acm.org/10.1145/1376616.1376729",
 	"pages": "1123-1134",
 	"publisher": "ACM",
-	"stemmed": ["spade", "the", "system", "s", "declar", "stream", "process", "engin"],
-	"tag": ["declarative", "named"],
+	"stemmed": [
+		"spade",
+		"the",
+		"system",
+		"s",
+		"declar",
+		"stream",
+		"process",
+		"engin"
+	],
+	"tag": [
+		"declarative",
+		"named"
+	],
 	"title": "SPADE: the system s declarative stream processing engine",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

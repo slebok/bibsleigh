@@ -1,13 +1,23 @@
 {
-	"author": ["Rasmus Pagh", "Zhewei Wei", "Ke Yi", "Qin Zhang"],
-	"booktitle": "PODS",
+	"author": [
+		"Rasmus Pagh",
+		"Zhewei Wei",
+		"Ke Yi",
+		"Qin Zhang"
+	],
+	"booktitle": "Proceedings of the 29th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2010",
 	"dblpkey": "conf/pods/PaghWYZ10",
 	"doi": "10.1145/1807085.1807124",
 	"ee": "http://doi.acm.org/10.1145/1807085.1807124",
 	"pages": "297-304",
 	"publisher": "ACM",
-	"stemmed": ["cach", "oblivi", "hash"],
+	"stemmed": [
+		"cach",
+		"oblivi",
+		"hash"
+	],
 	"title": "Cache-oblivious hashing",
 	"type": "inproceedings",
 	"venue": "PODS",

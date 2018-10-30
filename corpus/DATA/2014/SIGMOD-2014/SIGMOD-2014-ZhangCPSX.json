@@ -1,6 +1,12 @@
 {
-	"author": ["Jun Zhang", "Graham Cormode", "Cecilia M. Procopiuc", "Divesh Srivastava", "Xiaokui Xiao"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jun Zhang",
+		"Graham Cormode",
+		"Cecilia M. Procopiuc",
+		"Divesh Srivastava",
+		"Xiaokui Xiao"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/ZhangCPSX14",
@@ -8,8 +14,20 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2588573",
 	"pages": "1423-1434",
 	"publisher": "ACM",
-	"stemmed": ["priv", "bay", "privat", "data", "releas", "via", "bayesian", "network"],
-	"tag": ["named", "network"],
+	"stemmed": [
+		"priv",
+		"bay",
+		"privat",
+		"data",
+		"releas",
+		"via",
+		"bayesian",
+		"network"
+	],
+	"tag": [
+		"named",
+		"network"
+	],
 	"title": "PrivBayes: private data release via bayesian networks",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

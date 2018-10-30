@@ -1,13 +1,33 @@
 {
-	"author": ["Roland Leißa", "Klaas Boesche", "Sebastian Hack", "Richard Membarth", "Philipp Slusallek"],
-	"booktitle": "GPCE",
+	"author": [
+		"Roland Leißa",
+		"Klaas Boesche",
+		"Sebastian Hack",
+		"Richard Membarth",
+		"Philipp Slusallek"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Generative Programming: Concepts and Experiences",
+	"booktitleshort": "GPCE",
 	"crossref": "conf/gpce/2015",
 	"dblpkey": "conf/gpce/LeissaBHMS15",
 	"doi": "10.1145/2814204.2814208",
 	"pages": "11-20",
 	"publisher": "ACM",
-	"stemmed": ["shallow", "embed", "of", "dsls", "via", "onlin", "partial", "evalu"],
-	"tag": ["domain-specific language", "online", "partial evaluation"],
+	"stemmed": [
+		"shallow",
+		"embed",
+		"of",
+		"dsls",
+		"via",
+		"onlin",
+		"partial",
+		"evalu"
+	],
+	"tag": [
+		"domain-specific language",
+		"online",
+		"partial evaluation"
+	],
 	"title": "Shallow embedding of DSLs via online partial evaluation",
 	"type": "inproceedings",
 	"venue": "GPCE",

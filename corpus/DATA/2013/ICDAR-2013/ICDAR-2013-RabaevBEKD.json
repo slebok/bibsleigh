@@ -1,15 +1,37 @@
 {
-	"author": ["Irina Rabaev", "Ofer Biller", "Jihad El-Sana", "Klara Kedem", "Its'hak Dinstein"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Irina Rabaev",
+		"Ofer Biller",
+		"Jihad El-Sana",
+		"Klara Kedem",
+		"Its'hak Dinstein"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2013",
 	"dblpkey": "conf/icdar/RabaevBEKD13",
 	"doi": "10.1109/ICDAR.2013.166",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2013.166", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2013.166"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2013.166",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2013.166"
+	],
 	"pages": "812-816",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["text", "line", "detect", "in", "corrupt", "and", "damag", "histor", "manuscript"],
-	"tag": ["detection"],
+	"stemmed": [
+		"text",
+		"line",
+		"detect",
+		"in",
+		"corrupt",
+		"and",
+		"damag",
+		"histor",
+		"manuscript"
+	],
+	"tag": [
+		"detection"
+	],
 	"title": "Text Line Detection in Corrupted and Damaged Historical Manuscripts",
 	"type": "inproceedings",
 	"venue": "ICDAR",

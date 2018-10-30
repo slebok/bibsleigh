@@ -1,6 +1,7 @@
 {
 	"author": "Pierre Lescanne",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Lescanne86",
 	"doi": "10.1007/3-540-16780-3_142",
@@ -10,10 +11,16 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["reve", "a", "rewrit", "rule", "laboratori"],
+	"stemmed": [
+		"reve",
+		"a",
+		"rewrit",
+		"rule",
+		"laboratori"
+	],
 	"title": "REVE a Rewrite Rule Laboratory",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

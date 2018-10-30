@@ -1,13 +1,28 @@
 {
-	"author": ["Hsi-Chuan Chen", "David Hung-Chang Du", "Li-Ren Liu"],
-	"booktitle": "DAC",
+	"author": [
+		"Hsi-Chuan Chen",
+		"David Hung-Chang Du",
+		"Li-Ren Liu"
+	],
+	"booktitle": "Proceedings of the 28th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/ChenDL91",
 	"doi": "10.1145/127601.127730",
 	"ee": "http://doi.acm.org/10.1145/127601.127730",
 	"pages": "547-550",
 	"publisher": "ACM",
-	"stemmed": ["critic", "path", "select", "for", "perform", "optim"],
-	"tag": ["optimisation", "performance"],
+	"stemmed": [
+		"critic",
+		"path",
+		"select",
+		"for",
+		"perform",
+		"optim"
+	],
+	"tag": [
+		"optimisation",
+		"performance"
+	],
 	"title": "Critical Path Selection for Performance Optimization",
 	"type": "inproceedings",
 	"venue": "DAC",

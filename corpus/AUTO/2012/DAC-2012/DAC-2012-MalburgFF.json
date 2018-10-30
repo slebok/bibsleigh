@@ -1,14 +1,36 @@
 {
-	"author": ["Jan Malburg", "Alexander Finder", "Görschwin Fey"],
-	"booktitle": "DAC",
+	"author": [
+		"Jan Malburg",
+		"Alexander Finder",
+		"Görschwin Fey"
+	],
+	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/MalburgFF12",
 	"doi": "10.1145/2228360.2228529",
 	"ee": "http://doi.acm.org/10.1145/2228360.2228529",
 	"pages": "941-946",
 	"publisher": "ACM",
-	"stemmed": ["autom", "featur", "local", "for", "hardwar", "design", "use", "coverag", "metric"],
-	"tag": ["automation", "design", "hardware", "locality", "metric", "using"],
+	"stemmed": [
+		"autom",
+		"featur",
+		"local",
+		"for",
+		"hardwar",
+		"design",
+		"use",
+		"coverag",
+		"metric"
+	],
+	"tag": [
+		"automation",
+		"design",
+		"hardware",
+		"locality",
+		"metric",
+		"using"
+	],
 	"title": "Automated feature localization for hardware designs using coverage metrics",
 	"type": "inproceedings",
 	"venue": "DAC",

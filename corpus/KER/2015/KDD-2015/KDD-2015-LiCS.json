@@ -1,14 +1,27 @@
 {
-	"author": ["Ying Li", "Jose D. Contreras", "Luis J. Salazar"],
-	"booktitle": "KDD",
+	"author": [
+		"Ying Li",
+		"Jose D. Contreras",
+		"Luis J. Salazar"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/LiCS15",
 	"doi": "10.1145/2783258.2788619",
 	"ee": "http://doi.acm.org/10.1145/2783258.2788619",
 	"pages": "1969-1978",
 	"publisher": "ACM",
-	"stemmed": ["predict", "voic", "elicit", "emot"],
-	"tag": ["elicitation", "predict"],
+	"stemmed": [
+		"predict",
+		"voic",
+		"elicit",
+		"emot"
+	],
+	"tag": [
+		"elicitation",
+		"predict"
+	],
 	"title": "Predicting Voice Elicited Emotions",
 	"type": "inproceedings",
 	"venue": "KDD",

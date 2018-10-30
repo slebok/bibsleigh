@@ -1,16 +1,41 @@
 {
-	"author": ["Junghoo Cho", "Narayanan Shivakumar", "Hector Garcia-Molina"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Junghoo Cho",
+		"Narayanan Shivakumar",
+		"Hector Garcia-Molina"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
-	"cite": ["...", "journals/cn/BharatB99", "www/com/google", "...", "journals/cn/BroderGMZ97", "books/mg/CormenLR89", "conf/vldb/FangSGMU98", "...", "conf/aaai/PerkowitzE98", "conf/chi/PitkowP97", "books/mg/SaltonG83", "conf/dl/ShivakumarG95", "conf/dl/ShivakumarG96"],
+	"cite": [
+		"...",
+		"journals/cn/BharatB99",
+		"www/com/google",
+		"...",
+		"journals/cn/BroderGMZ97",
+		"books/mg/CormenLR89",
+		"conf/vldb/FangSGMU98",
+		"...",
+		"conf/aaai/PerkowitzE98",
+		"conf/chi/PitkowP97",
+		"books/mg/SaltonG83",
+		"conf/dl/ShivakumarG95",
+		"conf/dl/ShivakumarG96"
+	],
 	"crossref": "conf/sigmod/2000",
 	"dblpkey": "conf/sigmod/ChoSG00",
 	"doi": "10.1145/342009.335429",
 	"ee": "http://doi.acm.org/10.1145/342009.335429",
 	"pages": "355-366",
 	"publisher": "ACM",
-	"stemmed": ["find", "replic", "web", "collect"],
-	"tag": ["web"],
+	"stemmed": [
+		"find",
+		"replic",
+		"web",
+		"collect"
+	],
+	"tag": [
+		"web"
+	],
 	"title": "Finding Replicated Web Collections",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

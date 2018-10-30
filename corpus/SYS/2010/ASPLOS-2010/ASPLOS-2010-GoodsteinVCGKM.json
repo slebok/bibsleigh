@@ -1,14 +1,38 @@
 {
-	"author": ["Michelle L. Goodstein", "Evangelos Vlachos", "Shimin Chen", "Phillip B. Gibbons", "Michael A. Kozuch", "Todd C. Mowry"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Michelle L. Goodstein",
+		"Evangelos Vlachos",
+		"Shimin Chen",
+		"Phillip B. Gibbons",
+		"Michael A. Kozuch",
+		"Todd C. Mowry"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2010",
 	"dblpkey": "conf/asplos/GoodsteinVCGKM10",
 	"doi": "10.1145/1736020.1736050",
 	"ee": "http://doi.acm.org/10.1145/1736020.1736050",
 	"pages": "257-270",
 	"publisher": "ACM",
-	"stemmed": ["butterfli", "analysi", "adapt", "dataflow", "analysi", "to", "dynam", "parallel", "monitor"],
-	"tag": ["adaptation", "analysis", "data flow", "monitoring", "parallel"],
+	"stemmed": [
+		"butterfli",
+		"analysi",
+		"adapt",
+		"dataflow",
+		"analysi",
+		"to",
+		"dynam",
+		"parallel",
+		"monitor"
+	],
+	"tag": [
+		"adaptation",
+		"analysis",
+		"data flow",
+		"monitoring",
+		"parallel"
+	],
 	"title": "Butterfly analysis: adapting dataflow analysis to dynamic parallel monitoring",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

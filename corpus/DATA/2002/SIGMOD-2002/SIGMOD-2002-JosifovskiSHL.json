@@ -1,6 +1,11 @@
 {
-	"author": ["Vanja Josifovski", "Peter M. Schwarz", "Laura M. Haas", "Eileen Tien Lin"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Vanja Josifovski",
+		"Peter M. Schwarz",
+		"Laura M. Haas",
+		"Eileen Tien Lin"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/JosifovskiSHL02",
@@ -8,8 +13,22 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564751",
 	"pages": "524-532",
 	"publisher": "ACM",
-	"stemmed": ["garlic", "a", "new", "flavor", "of", "feder", "queri", "process", "for", "db"],
-	"tag": ["named", "query"],
+	"stemmed": [
+		"garlic",
+		"a",
+		"new",
+		"flavor",
+		"of",
+		"feder",
+		"queri",
+		"process",
+		"for",
+		"db"
+	],
+	"tag": [
+		"named",
+		"query"
+	],
 	"title": "Garlic: a new flavor of federated query processing for DB2",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

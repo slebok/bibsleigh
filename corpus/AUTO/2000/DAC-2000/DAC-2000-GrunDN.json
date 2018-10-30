@@ -1,13 +1,29 @@
 {
-	"author": ["Peter Grun", "Nikil D. Dutt", "Alexandru Nicolau"],
-	"booktitle": "DAC",
+	"author": [
+		"Peter Grun",
+		"Nikil D. Dutt",
+		"Alexandru Nicolau"
+	],
+	"booktitle": "Proceedings of the 37th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/GrunDN00",
 	"doi": "10.1145/337292.337428",
 	"ee": "http://doi.acm.org/10.1145/337292.337428",
 	"pages": "316-321",
 	"publisher": "ACM",
-	"stemmed": ["memori", "awar", "compil", "through", "accur", "time", "extract"],
-	"tag": ["compilation", "memory management"],
+	"stemmed": [
+		"memori",
+		"awar",
+		"compil",
+		"through",
+		"accur",
+		"time",
+		"extract"
+	],
+	"tag": [
+		"compilation",
+		"memory management"
+	],
 	"title": "Memory aware compilation through accurate timing extraction",
 	"type": "inproceedings",
 	"venue": "DAC",

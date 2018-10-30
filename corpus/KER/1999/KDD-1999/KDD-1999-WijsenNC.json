@@ -1,14 +1,26 @@
 {
-	"author": ["Jef Wijsen", "Raymond T. Ng", "Toon Calders"],
-	"booktitle": "KDD",
+	"author": [
+		"Jef Wijsen",
+		"Raymond T. Ng",
+		"Toon Calders"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1999",
 	"dblpkey": "conf/kdd/WijsenNC99",
 	"doi": "10.1145/312129.312232",
 	"ee": "http://doi.acm.org/10.1145/312129.312232",
 	"pages": "213-222",
 	"publisher": "ACM",
-	"stemmed": ["discov", "roll", "up", "depend"],
-	"tag": ["dependence"],
+	"stemmed": [
+		"discov",
+		"roll",
+		"up",
+		"depend"
+	],
+	"tag": [
+		"dependence"
+	],
 	"title": "Discovering Roll-Up Dependencies",
 	"type": "inproceedings",
 	"venue": "KDD",

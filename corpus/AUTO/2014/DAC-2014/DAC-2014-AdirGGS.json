@@ -1,14 +1,39 @@
 {
-	"author": ["Allon Adir", "Alex Goryachev", "Lev Greenberg", "Tamer Salman"],
-	"booktitle": "DAC",
+	"author": [
+		"Allon Adir",
+		"Alex Goryachev",
+		"Lev Greenberg",
+		"Tamer Salman"
+	],
+	"booktitle": "Proceedings of the 51st Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2014",
 	"dblpkey": "conf/dac/AdirGGS14",
 	"doi": "10.1145/2593069.2602978",
 	"ee": "http://doi.acm.org/10.1145/2593069.2602978",
 	"pages": "134:1-134:6",
 	"publisher": "ACM",
-	"stemmed": ["use", "a", "high", "level", "test", "generat", "expert", "system", "for", "test", "in", "car", "network"],
-	"tag": ["generative", "network", "testing", "using"],
+	"stemmed": [
+		"use",
+		"a",
+		"high",
+		"level",
+		"test",
+		"generat",
+		"expert",
+		"system",
+		"for",
+		"test",
+		"in",
+		"car",
+		"network"
+	],
+	"tag": [
+		"generative",
+		"network",
+		"testing",
+		"using"
+	],
 	"title": "Using a High-Level Test Generation Expert System for Testing In-Car Networks",
 	"type": "inproceedings",
 	"venue": "DAC",

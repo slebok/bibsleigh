@@ -1,14 +1,30 @@
 {
-	"author": ["Qin Zhao", "Derek Bruening", "Saman P. Amarasinghe"],
-	"booktitle": "ISMM",
+	"author": [
+		"Qin Zhao",
+		"Derek Bruening",
+		"Saman P. Amarasinghe"
+	],
+	"booktitle": "Proceedings of the Ninth International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2010",
 	"dblpkey": "conf/iwmm/ZhaoBA10",
 	"doi": "10.1145/1806651.1806667",
 	"ee": "http://doi.acm.org/10.1145/1806651.1806667",
 	"pages": "93-102",
 	"publisher": "ACM",
-	"stemmed": ["effici", "memori", "shadow", "for", "bit", "architectur"],
-	"tag": ["architecture", "memory management", "performance"],
+	"stemmed": [
+		"effici",
+		"memori",
+		"shadow",
+		"for",
+		"bit",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"memory management",
+		"performance"
+	],
 	"title": "Efficient memory shadowing for 64-bit architectures",
 	"type": "inproceedings",
 	"venue": "ISMM",

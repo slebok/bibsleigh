@@ -1,14 +1,36 @@
 {
-	"author": ["Vivek S. Pai", "Mohit Aron", "Gaurav Banga", "Michael Svendsen", "Peter Druschel", "Willy Zwaenepoel", "Erich M. Nahum"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Vivek S. Pai",
+		"Mohit Aron",
+		"Gaurav Banga",
+		"Michael Svendsen",
+		"Peter Druschel",
+		"Willy Zwaenepoel",
+		"Erich M. Nahum"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1998",
 	"dblpkey": "conf/asplos/PaiABSDZN98",
 	"doi": "10.1145/291069.291048",
 	"ee": "http://doi.acm.org/10.1145/291069.291048",
 	"pages": "205-216",
 	"publisher": "ACM Press",
-	"stemmed": ["local", "awar", "request", "distribut", "in", "cluster", "base", "network", "server"],
-	"tag": ["clustering", "network"],
+	"stemmed": [
+		"local",
+		"awar",
+		"request",
+		"distribut",
+		"in",
+		"cluster",
+		"base",
+		"network",
+		"server"
+	],
+	"tag": [
+		"clustering",
+		"network"
+	],
 	"title": "Locality-Aware Request Distribution in Cluster-based Network Servers",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

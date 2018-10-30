@@ -1,13 +1,24 @@
 {
-	"author": ["Vladimir Braverman", "Rafail Ostrovsky", "Carlo Zaniolo"],
-	"booktitle": "PODS",
+	"author": [
+		"Vladimir Braverman",
+		"Rafail Ostrovsky",
+		"Carlo Zaniolo"
+	],
+	"booktitle": "Proceedings of the 28th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2009",
 	"dblpkey": "conf/pods/BravermanOZ09",
 	"doi": "10.1145/1559795.1559818",
 	"ee": "http://doi.acm.org/10.1145/1559795.1559818",
 	"pages": "147-156",
 	"publisher": "ACM",
-	"stemmed": ["optim", "sampl", "from", "slide", "window"],
+	"stemmed": [
+		"optim",
+		"sampl",
+		"from",
+		"slide",
+		"window"
+	],
 	"title": "Optimal sampling from sliding windows",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,6 +1,11 @@
 {
-	"author": ["Roland Ducournau", "Michel Habib", "Marianne Huchard", "Marie-Laure Mugnier"],
-	"booktitle": "Proceedings of the Seventh Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"author": [
+		"Roland Ducournau",
+		"Michel Habib",
+		"Marianne Huchard",
+		"Marie-Laure Mugnier"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1992",
 	"dblpkey": "conf/oopsla/DucournauHHM92",
@@ -10,8 +15,17 @@
 	"isbn": "0-201-53372-3",
 	"pages": "16-24",
 	"publisher": "ACM",
-	"stemmed": ["monoton", "conflict", "resolut", "mechan", "for", "inherit"],
-	"tag": ["inheritance"],
+	"stemmed": [
+		"monoton",
+		"conflict",
+		"resolut",
+		"mechan",
+		"for",
+		"inherit"
+	],
+	"tag": [
+		"inheritance"
+	],
 	"title": "Monotonic Conflict Resolution Mechanisms for Inheritance",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

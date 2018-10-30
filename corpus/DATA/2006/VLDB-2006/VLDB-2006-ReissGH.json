@@ -1,14 +1,27 @@
 {
-	"acmid": 1164202,
-	"author": ["Frederick Reiss", "Minos N. Garofalakis", "Joseph M. Hellerstein"],
-	"booktitle": "VLDB",
+	"acmid": "1164202",
+	"author": [
+		"Frederick Reiss",
+		"Minos N. Garofalakis",
+		"Joseph M. Hellerstein"
+	],
+	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
 	"dblpkey": "conf/vldb/ReissGH06",
 	"ee": "http://www.vldb.org/conf/2006/p870-reiss.pdf",
 	"pages": "870-881",
 	"publisher": "ACM",
-	"stemmed": ["compact", "histogram", "for", "hierarch", "identifi"],
-	"tag": ["identifier"],
+	"stemmed": [
+		"compact",
+		"histogram",
+		"for",
+		"hierarch",
+		"identifi"
+	],
+	"tag": [
+		"identifier"
+	],
 	"title": "Compact Histograms for Hierarchical Identifiers",
 	"type": "inproceedings",
 	"venue": "VLDB",

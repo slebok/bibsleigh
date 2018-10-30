@@ -1,14 +1,36 @@
 {
-	"author": ["Qiang Zeng", "Junghwan Rhee", "Hui Zhang", "Nipun Arora", "Guofei Jiang", "Peng Liu"],
-	"booktitle": "CGO",
+	"author": [
+		"Qiang Zeng",
+		"Junghwan Rhee",
+		"Hui Zhang",
+		"Nipun Arora",
+		"Guofei Jiang",
+		"Peng Liu"
+	],
+	"booktitle": "Proceedings of the 12th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2014",
 	"dblpkey": "conf/cgo/ZengR0AJ014",
 	"doi": "10.1145/2544137.2544150",
 	"ee": "http://doi.acm.org/10.1145/2544137.2544150",
-	"pages": 109,
+	"pages": "109",
 	"publisher": "ACM",
-	"stemmed": ["delta", "path", "precis", "and", "scalabl", "call", "context", "encod"],
-	"tag": ["encoding", "named", "precise", "scalability"],
+	"stemmed": [
+		"delta",
+		"path",
+		"precis",
+		"and",
+		"scalabl",
+		"call",
+		"context",
+		"encod"
+	],
+	"tag": [
+		"encoding",
+		"named",
+		"precise",
+		"scalability"
+	],
 	"title": "DeltaPath: Precise and Scalable Calling Context Encoding",
 	"type": "inproceedings",
 	"venue": "CGO",

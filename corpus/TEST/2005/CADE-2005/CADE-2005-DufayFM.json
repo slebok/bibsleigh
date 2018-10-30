@@ -1,6 +1,11 @@
 {
-	"author": ["Guillaume Dufay", "Amy P. Felty", "Stan Matwin"],
-	"booktitle": "CADE",
+	"author": [
+		"Guillaume Dufay",
+		"Amy P. Felty",
+		"Stan Matwin"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2005",
 	"dblpkey": "conf/cade/DufayFM05",
 	"doi": "10.1007/11532231_9",
@@ -10,11 +15,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["privaci", "sensit", "inform", "flow", "with", "jml"],
-	"tag": ["data flow", "information management", "ml", "privacy"],
+	"stemmed": [
+		"privaci",
+		"sensit",
+		"inform",
+		"flow",
+		"with",
+		"jml"
+	],
+	"tag": [
+		"data flow",
+		"information management",
+		"ml",
+		"privacy"
+	],
 	"title": "Privacy-Sensitive Information Flow with JML",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 3632,
+	"volume": "3632",
 	"year": 2005
 }

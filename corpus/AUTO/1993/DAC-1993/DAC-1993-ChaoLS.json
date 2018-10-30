@@ -1,13 +1,29 @@
 {
-	"author": ["Liang-Fang Chao", "Andrea S. LaPaugh", "Edwin Hsing-Mean Sha"],
-	"booktitle": "DAC",
+	"author": [
+		"Liang-Fang Chao",
+		"Andrea S. LaPaugh",
+		"Edwin Hsing-Mean Sha"
+	],
+	"booktitle": "Proceedings of the 30th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/ChaoLS93",
 	"doi": "10.1145/157485.165042",
 	"ee": "http://doi.acm.org/10.1145/157485.165042",
 	"pages": "566-572",
 	"publisher": "ACM Press",
-	"stemmed": ["rotat", "schedul", "a", "loop", "pipelin", "algorithm"],
-	"tag": ["algorithm", "pipes and filters", "scheduling"],
+	"stemmed": [
+		"rotat",
+		"schedul",
+		"a",
+		"loop",
+		"pipelin",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"pipes and filters",
+		"scheduling"
+	],
 	"title": "Rotation Scheduling: A Loop Pipelining Algorithm",
 	"type": "inproceedings",
 	"venue": "DAC",

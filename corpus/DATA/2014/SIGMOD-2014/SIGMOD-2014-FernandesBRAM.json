@@ -1,6 +1,12 @@
 {
-	"author": ["Kevin Fernandes", "Matteo Brucato", "Rahul Ramakrishna", "Azza Abouzied", "Alexandra Meliou"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Kevin Fernandes",
+		"Matteo Brucato",
+		"Rahul Ramakrishna",
+		"Azza Abouzied",
+		"Alexandra Meliou"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/FernandesBRAM14",
@@ -8,8 +14,20 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2612667",
 	"pages": "1613-1614",
 	"publisher": "ACM",
-	"stemmed": ["packag", "builder", "queri", "for", "packag", "of", "tupl"],
-	"tag": ["named", "query", "tuple"],
+	"stemmed": [
+		"packag",
+		"builder",
+		"queri",
+		"for",
+		"packag",
+		"of",
+		"tupl"
+	],
+	"tag": [
+		"named",
+		"query",
+		"tuple"
+	],
 	"title": "PackageBuilder: querying for packages of tuples",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

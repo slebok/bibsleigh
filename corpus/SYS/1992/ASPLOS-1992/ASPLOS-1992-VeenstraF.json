@@ -1,14 +1,33 @@
 {
-	"author": ["Jack E. Veenstra", "Robert J. Fowler"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Jack E. Veenstra",
+		"Robert J. Fowler"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1992",
 	"dblpkey": "conf/asplos/VeenstraF92",
 	"doi": "10.1145/143365.143503",
 	"ee": "http://doi.acm.org/10.1145/143365.143503",
 	"pages": "149-160",
 	"publisher": "ACM Press",
-	"stemmed": ["a", "perform", "evalu", "of", "optim", "hybrid", "cach", "coher", "protocol"],
-	"tag": ["evaluation", "hybrid", "performance", "protocol"],
+	"stemmed": [
+		"a",
+		"perform",
+		"evalu",
+		"of",
+		"optim",
+		"hybrid",
+		"cach",
+		"coher",
+		"protocol"
+	],
+	"tag": [
+		"evaluation",
+		"hybrid",
+		"performance",
+		"protocol"
+	],
 	"title": "A Performance Evaluation of Optimal Hybrid Cache Coherency Protocols",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

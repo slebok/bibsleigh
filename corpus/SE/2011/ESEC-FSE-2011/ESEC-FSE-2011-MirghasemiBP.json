@@ -1,17 +1,38 @@
 {
-	"author": ["Salman Mirghasemi", "John J. Barton", "Claude Petitpierre"],
+	"author": [
+		"Salman Mirghasemi",
+		"John J. Barton",
+		"Claude Petitpierre"
+	],
 	"booktitle": "Proceedings of the 19th Symposium on the Foundations of Software Engineering and the 13rd European Software Engineering Conference",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "ESEC/FSE",
 	"crossref": "conf/sigsoft/2011",
 	"dblpkey": "conf/sigsoft/MirghasemiBP11",
 	"doi": "10.1145/2025113.2025184",
-	"editor": ["Tibor Gyimóthy", "Andreas Zeller"],
+	"editor": [
+		"Tibor Gyimóthy",
+		"Andreas Zeller"
+	],
 	"ee": "http://doi.acm.org/10.1145/2025113.2025184",
 	"isbn": "978-1-4503-0443-6",
 	"pages": "436-439",
 	"publisher": "ACM",
-	"stemmed": ["querypoint", "move", "backward", "on", "wrong", "valu", "in", "the", "buggi", "execut"],
-	"tag": ["execution", "named"],
+	"stemmed": [
+		"querypoint",
+		"move",
+		"backward",
+		"on",
+		"wrong",
+		"valu",
+		"in",
+		"the",
+		"buggi",
+		"execut"
+	],
+	"tag": [
+		"execution",
+		"named"
+	],
 	"title": "Querypoint: moving backwards on wrong values in the buggy execution",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

@@ -1,6 +1,9 @@
 {
-	"author": ["Atsushi Ohori", "Peter Buneman"],
-	"booktitle": "Proceedings of the Fourth Conference on Object-Oriented Programming: Systems, Languages, and Applications",
+	"author": [
+		"Atsushi Ohori",
+		"Peter Buneman"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1989",
 	"dblpkey": "conf/oopsla/OhoriB89",
@@ -10,8 +13,19 @@
 	"isbn": "0-89791-333-7",
 	"pages": "445-456",
 	"publisher": "ACM",
-	"stemmed": ["static", "type", "infer", "for", "parametr", "class"],
-	"tag": ["parametricity", "static typing", "type inference"],
+	"stemmed": [
+		"static",
+		"type",
+		"infer",
+		"for",
+		"parametr",
+		"class"
+	],
+	"tag": [
+		"parametricity",
+		"static typing",
+		"type inference"
+	],
 	"title": "Static Type Inference for Parametric Classes",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

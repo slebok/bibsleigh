@@ -1,14 +1,26 @@
 {
 	"author": "Cristian Cadar",
-	"booktitle": "ESEC/SIGSOFT FSE",
+	"booktitle": "Proceedings of the 10th Joint Meeting of the 15th European Software Engineering Conference and the 23rd Symposium on the Foundations of Software Engineering",
+	"booktitleshort": "ESEC/SIGSOFT FSE",
 	"crossref": "conf/sigsoft/2015",
 	"dblpkey": "conf/sigsoft/Cadar15",
 	"doi": "10.1145/2786805.2803205",
 	"ee": "http://doi.acm.org/10.1145/2786805.2803205",
 	"pages": "906-909",
 	"publisher": "ACM",
-	"stemmed": ["target", "program", "transform", "for", "symbol", "execut"],
-	"tag": ["execution", "program transformation", "symbolic computation"],
+	"stemmed": [
+		"target",
+		"program",
+		"transform",
+		"for",
+		"symbol",
+		"execut"
+	],
+	"tag": [
+		"execution",
+		"program transformation",
+		"symbolic computation"
+	],
 	"title": "Targeted program transformations for symbolic execution",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

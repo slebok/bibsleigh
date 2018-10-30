@@ -1,14 +1,29 @@
 {
-	"author": ["Nikhil Garg", "Ingmar Weber"],
-	"booktitle": "RecSys",
+	"author": [
+		"Nikhil Garg",
+		"Ingmar Weber"
+	],
+	"booktitle": "Proceedings of the Second Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2008",
 	"dblpkey": "conf/recsys/GargW08",
 	"doi": "10.1145/1454008.1454020",
 	"ee": "http://doi.acm.org/10.1145/1454008.1454020",
 	"pages": "67-74",
 	"publisher": "ACM",
-	"stemmed": ["person", "interact", "tag", "recommend", "for", "flickr"],
-	"tag": ["interactive", "personalisation", "recommendation"],
+	"stemmed": [
+		"person",
+		"interact",
+		"tag",
+		"recommend",
+		"for",
+		"flickr"
+	],
+	"tag": [
+		"interactive",
+		"personalisation",
+		"recommendation"
+	],
 	"title": "Personalized, interactive tag recommendation for flickr",
 	"type": "inproceedings",
 	"venue": "RecSys",

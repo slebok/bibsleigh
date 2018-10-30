@@ -1,15 +1,39 @@
 {
-	"author": ["Moinuddin K. Qureshi", "M. Aater Suleman", "Yale N. Patt"],
-	"booktitle": "HPCA",
+	"author": [
+		"Moinuddin K. Qureshi",
+		"M. Aater Suleman",
+		"Yale N. Patt"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2007",
 	"dblpkey": "conf/hpca/QureshiSP07",
 	"doi": "10.1109/HPCA.2007.346202",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2007.346202", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2007.346202"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2007.346202",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2007.346202"
+	],
 	"pages": "250-259",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["line", "distil", "increas", "cach", "capac", "by", "filter", "unus", "word", "in", "cach", "line"],
-	"tag": ["capacity", "word"],
+	"stemmed": [
+		"line",
+		"distil",
+		"increas",
+		"cach",
+		"capac",
+		"by",
+		"filter",
+		"unus",
+		"word",
+		"in",
+		"cach",
+		"line"
+	],
+	"tag": [
+		"capacity",
+		"word"
+	],
 	"title": "Line Distillation: Increasing Cache Capacity by Filtering Unused Words in Cache Lines",
 	"type": "inproceedings",
 	"venue": "HPCA",

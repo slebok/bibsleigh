@@ -1,14 +1,28 @@
 {
-	"author": ["Nevin Kirman", "Meyrem Kirman", "Mainak Chaudhuri", "José F. Martínez"],
-	"booktitle": "HPCA",
+	"author": [
+		"Nevin Kirman",
+		"Meyrem Kirman",
+		"Mainak Chaudhuri",
+		"José F. Martínez"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2005",
 	"dblpkey": "conf/hpca/KirmanKCM05",
 	"doi": "10.1109/HPCA.2005.9",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2005.9", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2005.9"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2005.9",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2005.9"
+	],
 	"pages": "16-27",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["checkpoint", "earli", "load", "retir"],
+	"stemmed": [
+		"checkpoint",
+		"earli",
+		"load",
+		"retir"
+	],
 	"title": "Checkpointed Early Load Retirement",
 	"type": "inproceedings",
 	"venue": "HPCA",

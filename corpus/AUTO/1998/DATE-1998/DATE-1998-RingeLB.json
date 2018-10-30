@@ -1,6 +1,11 @@
 {
-	"author": ["Matthias Ringe", "Thomas Lindenkreuz", "Erich Barke"],
-	"booktitle": "DATE",
+	"author": [
+		"Matthias Ringe",
+		"Thomas Lindenkreuz",
+		"Erich Barke"
+	],
+	"booktitle": "Proceedings of the Third Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1998",
 	"dblpkey": "conf/date/RingeLB98",
 	"doi": "10.1109/DATE.1998.655991",
@@ -8,8 +13,18 @@
 	"pages": "965-966",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["path", "verif", "use", "boolean", "satisfi"],
-	"tag": ["satisfiability", "using", "verification"],
+	"stemmed": [
+		"path",
+		"verif",
+		"use",
+		"boolean",
+		"satisfi"
+	],
+	"tag": [
+		"satisfiability",
+		"using",
+		"verification"
+	],
 	"title": "Path Verification Using Boolean Satisfiability",
 	"type": "inproceedings",
 	"venue": "DATE",

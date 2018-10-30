@@ -1,6 +1,11 @@
 {
-	"author": ["Ning Zhang", "Jun'ichi Tatemura", "Jignesh M. Patel", "Hakan Hacigümüs"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ning Zhang",
+		"Jun'ichi Tatemura",
+		"Jignesh M. Patel",
+		"Hakan Hacigümüs"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/ZhangTPH14",
@@ -8,8 +13,25 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2588567",
 	"pages": "1383-1394",
 	"publisher": "ACM",
-	"stemmed": ["re", "evalu", "design", "for", "multi", "tenant", "oltp", "workload", "on", "ssd", "basedi", "o", "subsystem"],
-	"tag": ["design", "multitenancy"],
+	"stemmed": [
+		"re",
+		"evalu",
+		"design",
+		"for",
+		"multi",
+		"tenant",
+		"oltp",
+		"workload",
+		"on",
+		"ssd",
+		"basedi",
+		"o",
+		"subsystem"
+	],
+	"tag": [
+		"design",
+		"multitenancy"
+	],
 	"title": "Re-evaluating designs for multi-tenant OLTP workloads on SSD-basedI/O subsystems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

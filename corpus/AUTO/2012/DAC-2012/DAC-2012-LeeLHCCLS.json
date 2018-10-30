@@ -1,14 +1,35 @@
 {
-	"author": ["Po-Wei Lee", "Hsu-Chieh Lee", "Yuan-Kai Ho", "Yao-Wen Chang", "Chen-Feng Chang", "I-Jye Lin", "Chin-Fang Shen"],
-	"booktitle": "DAC",
+	"author": [
+		"Po-Wei Lee",
+		"Hsu-Chieh Lee",
+		"Yuan-Kai Ho",
+		"Yao-Wen Chang",
+		"Chen-Feng Chang",
+		"I-Jye Lin",
+		"Chin-Fang Shen"
+	],
+	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/LeeLHCCLS12",
 	"doi": "10.1145/2228360.2228558",
 	"ee": "http://doi.acm.org/10.1145/2228360.2228558",
 	"pages": "1088-1093",
 	"publisher": "ACM",
-	"stemmed": ["obstacl", "avoid", "free", "assign", "rout", "for", "flip", "chip", "design"],
-	"tag": ["design"],
+	"stemmed": [
+		"obstacl",
+		"avoid",
+		"free",
+		"assign",
+		"rout",
+		"for",
+		"flip",
+		"chip",
+		"design"
+	],
+	"tag": [
+		"design"
+	],
 	"title": "Obstacle-avoiding free-assignment routing for flip-chip designs",
 	"type": "inproceedings",
 	"venue": "DAC",

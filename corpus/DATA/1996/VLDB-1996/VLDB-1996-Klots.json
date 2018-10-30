@@ -1,13 +1,23 @@
 {
 	"author": "Boris Klots",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the 22nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/96",
 	"dblpkey": "conf/vldb/Klots96",
 	"ee": "http://www.vldb.org/conf/1996/P583.PDF",
-	"pages": 583,
+	"pages": "583",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["cach", "coher", "in", "oracl", "parallel", "server"],
-	"tag": ["parallel"],
+	"stemmed": [
+		"cach",
+		"coher",
+		"in",
+		"oracl",
+		"parallel",
+		"server"
+	],
+	"tag": [
+		"parallel"
+	],
 	"title": "Cache Coherency in Oracle Parallel Server",
 	"type": "inproceedings",
 	"venue": "VLDB",

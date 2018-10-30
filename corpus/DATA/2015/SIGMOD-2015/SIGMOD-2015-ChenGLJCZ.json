@@ -1,6 +1,13 @@
 {
-	"author": ["Lu Chen", "Yunjun Gao", "Xinhan Li", "Christian S. Jensen", "Gang Chen", "Baihua Zheng"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Lu Chen",
+		"Yunjun Gao",
+		"Xinhan Li",
+		"Christian S. Jensen",
+		"Gang Chen",
+		"Baihua Zheng"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/ChenGLJCZ15",
@@ -8,8 +15,20 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2723728",
 	"pages": "951-965",
 	"publisher": "ACM",
-	"stemmed": ["index", "metric", "uncertain", "data", "for", "rang", "queri"],
-	"tag": ["metric", "nondeterminism", "query"],
+	"stemmed": [
+		"index",
+		"metric",
+		"uncertain",
+		"data",
+		"for",
+		"rang",
+		"queri"
+	],
+	"tag": [
+		"metric",
+		"nondeterminism",
+		"query"
+	],
 	"title": "Indexing Metric Uncertain Data for Range Queries",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

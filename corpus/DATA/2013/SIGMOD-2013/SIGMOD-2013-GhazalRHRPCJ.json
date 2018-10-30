@@ -1,6 +1,14 @@
 {
-	"author": ["Ahmad Ghazal", "Tilmann Rabl", "Minqing Hu", "Francois Raab", "Meikel Pöss", "Alain Crolotte", "Hans-Arno Jacobsen"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ahmad Ghazal",
+		"Tilmann Rabl",
+		"Minqing Hu",
+		"Francois Raab",
+		"Meikel Pöss",
+		"Alain Crolotte",
+		"Hans-Arno Jacobsen"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/GhazalRHRPCJ13",
@@ -8,8 +16,29 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2463712",
 	"pages": "1197-1208",
 	"publisher": "ACM",
-	"stemmed": ["big", "bench", "toward", "an", "industri", "standard", "benchmark", "for", "big", "data", "analyt"],
-	"tag": ["benchmark", "big data", "data analysis", "industrial", "metric", "named", "standard", "towards"],
+	"stemmed": [
+		"big",
+		"bench",
+		"toward",
+		"an",
+		"industri",
+		"standard",
+		"benchmark",
+		"for",
+		"big",
+		"data",
+		"analyt"
+	],
+	"tag": [
+		"benchmark",
+		"big data",
+		"data analysis",
+		"industrial",
+		"metric",
+		"named",
+		"standard",
+		"towards"
+	],
 	"title": "BigBench: towards an industry standard benchmark for big data analytics",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

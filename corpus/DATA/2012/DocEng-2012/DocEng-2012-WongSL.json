@@ -1,15 +1,31 @@
 {
-	"author": ["Raymond K. Wong", "Fengming Shi", "Nicole Lam"],
-	"booktitle": "ACM Symposium on Document Engineering",
-	"booktitleshort": "DocEng",
+	"author": [
+		"Raymond K. Wong",
+		"Fengming Shi",
+		"Nicole Lam"
+	],
+	"booktitle": "Proceedings of the 12th Symposium on Document Engineering",
+	"booktitleshort": "ACM Symposium on Document Engineering",
 	"crossref": "conf/doceng/2012",
 	"dblpkey": "conf/doceng/WongSL12",
 	"doi": "10.1145/2361354.2361404",
 	"ee": "http://doi.acm.org/10.1145/2361354.2361404",
 	"pages": "227-236",
 	"publisher": "ACM",
-	"stemmed": ["full", "text", "search", "on", "multi", "byte", "encod", "document"],
-	"tag": ["documentation", "multi"],
+	"stemmed": [
+		"full",
+		"text",
+		"search",
+		"on",
+		"multi",
+		"byte",
+		"encod",
+		"document"
+	],
+	"tag": [
+		"documentation",
+		"multi"
+	],
 	"title": "Full-text search on multi-byte encoded documents",
 	"type": "inproceedings",
 	"venue": "DocEng",

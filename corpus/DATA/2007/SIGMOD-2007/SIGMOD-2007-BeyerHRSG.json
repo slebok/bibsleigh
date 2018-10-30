@@ -1,6 +1,12 @@
 {
-	"author": ["Kevin S. Beyer", "Peter J. Haas", "Berthold Reinwald", "Yannis Sismanis", "Rainer Gemulla"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Kevin S. Beyer",
+		"Peter J. Haas",
+		"Berthold Reinwald",
+		"Yannis Sismanis",
+		"Rainer Gemulla"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/BeyerHRSG07",
@@ -8,8 +14,22 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247504",
 	"pages": "199-210",
 	"publisher": "ACM",
-	"stemmed": ["on", "synops", "for", "distinct", "valu", "estim", "under", "multiset", "oper"],
-	"tag": ["estimation", "multi", "on the"],
+	"stemmed": [
+		"on",
+		"synops",
+		"for",
+		"distinct",
+		"valu",
+		"estim",
+		"under",
+		"multiset",
+		"oper"
+	],
+	"tag": [
+		"estimation",
+		"multi",
+		"on the"
+	],
 	"title": "On synopses for distinct-value estimation under multiset operations",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

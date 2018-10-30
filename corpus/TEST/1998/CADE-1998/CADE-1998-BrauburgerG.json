@@ -1,6 +1,10 @@
 {
-	"author": ["Jürgen Brauburger", "Jürgen Giesl"],
-	"booktitle": "CADE",
+	"author": [
+		"Jürgen Brauburger",
+		"Jürgen Giesl"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1998",
 	"dblpkey": "conf/cade/BrauburgerG98",
 	"ee": "http://link.springer.de/link/service/series/0558/bibs/1421/14210254.htm",
@@ -9,11 +13,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["termin", "analysi", "by", "induct", "evalu"],
-	"tag": ["analysis", "evaluation", "induction", "termination"],
+	"stemmed": [
+		"termin",
+		"analysi",
+		"by",
+		"induct",
+		"evalu"
+	],
+	"tag": [
+		"analysis",
+		"evaluation",
+		"induction",
+		"termination"
+	],
 	"title": "Termination Analysis by Inductive Evaluation",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1421,
+	"volume": "1421",
 	"year": 1998
 }

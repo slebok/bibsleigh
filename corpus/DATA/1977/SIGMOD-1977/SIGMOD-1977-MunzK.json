@@ -1,16 +1,40 @@
 {
-	"author": ["Rudolf Munz", "G. Krenz"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Rudolf Munz",
+		"G. Krenz"
+	],
+	"booktitle": "Proceedings of the Seventh ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD77/P111.PDF",
-	"cite": ["journals/tods/AstrahanBCEGGKLMMPTWW76", "conf/ifip/ChamberlinBT74", "journals/csur/CoffmanES71", "journals/cacm/EswarranGLT76", "...", "conf/sigmod/Macri76", "conf/sigmod/ShemerC72"],
+	"cite": [
+		"journals/tods/AstrahanBCEGGKLMMPTWW76",
+		"conf/ifip/ChamberlinBT74",
+		"journals/csur/CoffmanES71",
+		"journals/cacm/EswarranGLT76",
+		"...",
+		"conf/sigmod/Macri76",
+		"conf/sigmod/ShemerC72"
+	],
 	"crossref": "conf/sigmod/77",
 	"dblpkey": "conf/sigmod/MunzK77",
 	"doi": "10.1145/509404.509421",
 	"ee": "http://doi.acm.org/10.1145/509404.509421",
 	"pages": "111-120",
 	"publisher": "ACM",
-	"stemmed": ["concurr", "in", "databas", "system", "a", "simul", "studi"],
-	"tag": ["concurrent", "database", "simulation"],
+	"stemmed": [
+		"concurr",
+		"in",
+		"databas",
+		"system",
+		"a",
+		"simul",
+		"studi"
+	],
+	"tag": [
+		"concurrent",
+		"database",
+		"simulation"
+	],
 	"title": "Concurrency in Database Systems — A Simulation Study",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

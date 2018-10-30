@@ -1,17 +1,28 @@
 {
-	"author": ["Huanfeng Ma", "David S. Doermann"],
-	"booktitle": "DRR",
+	"author": [
+		"Huanfeng Ma",
+		"David S. Doermann"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2003",
 	"dblpkey": "conf/drr/MaD03",
 	"ee": "http://www.imaging.org/store/epub.cfm?abstrid=22571",
 	"pages": "179-188",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["bootstrap", "structur", "page", "segment"],
-	"tag": ["segmentation"],
+	"stemmed": [
+		"bootstrap",
+		"structur",
+		"page",
+		"segment"
+	],
+	"tag": [
+		"segmentation"
+	],
 	"title": "Bootstrapping structured page segmentation",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 5010,
+	"volume": "5010",
 	"year": 2003
 }

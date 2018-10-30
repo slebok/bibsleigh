@@ -1,14 +1,33 @@
 {
-	"acmid": 1164140,
-	"author": ["Wendy Hui Wang", "Laks V. S. Lakshmanan"],
-	"booktitle": "VLDB",
+	"acmid": "1164140",
+	"author": [
+		"Wendy Hui Wang",
+		"Laks V. S. Lakshmanan"
+	],
+	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
 	"dblpkey": "conf/vldb/WangL06",
 	"ee": "http://www.vldb.org/conf/2006/p127-wang.pdf",
 	"pages": "127-138",
 	"publisher": "ACM",
-	"stemmed": ["effici", "secur", "queri", "evalu", "over", "encrypt", "xml", "databas"],
-	"tag": ["database", "evaluation", "performance", "query", "xml"],
+	"stemmed": [
+		"effici",
+		"secur",
+		"queri",
+		"evalu",
+		"over",
+		"encrypt",
+		"xml",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"evaluation",
+		"performance",
+		"query",
+		"xml"
+	],
 	"title": "Efficient Secure Query Evaluation over Encrypted XML Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

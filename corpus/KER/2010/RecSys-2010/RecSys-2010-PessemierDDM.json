@@ -1,14 +1,35 @@
 {
-	"author": ["Toon De Pessemier", "Simon Dooms", "Tom Deryckere", "Luc Martens"],
-	"booktitle": "RecSys",
+	"author": [
+		"Toon De Pessemier",
+		"Simon Dooms",
+		"Tom Deryckere",
+		"Luc Martens"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2010",
 	"dblpkey": "conf/recsys/PessemierDDM10",
 	"doi": "10.1145/1864708.1864767",
 	"ee": "http://doi.acm.org/10.1145/1864708.1864767",
 	"pages": "281-284",
 	"publisher": "ACM",
-	"stemmed": ["time", "depend", "of", "data", "qualiti", "for", "collabor", "filter", "algorithm"],
-	"tag": ["algorithm", "collaboration", "dependence", "quality"],
+	"stemmed": [
+		"time",
+		"depend",
+		"of",
+		"data",
+		"qualiti",
+		"for",
+		"collabor",
+		"filter",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"collaboration",
+		"dependence",
+		"quality"
+	],
 	"title": "Time dependency of data quality for collaborative filtering algorithms",
 	"type": "inproceedings",
 	"venue": "RecSys",

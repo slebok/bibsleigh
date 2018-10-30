@@ -1,6 +1,10 @@
 {
-	"author": ["Gerard Salton", "Maria Smith"],
+	"author": [
+		"Gerard Salton",
+		"Maria Smith"
+	],
 	"booktitle": "Proceedings of the 12th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P137.pdf",
 	"crossref": "conf/sigir/89",
 	"dblpkey": "conf/sigir/SaltonS89",
@@ -8,8 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/75334.75479",
 	"pages": "137-150",
 	"publisher": "ACM",
-	"stemmed": ["on", "the", "applic", "of", "syntact", "methodolog", "in", "automat", "text", "analysi"],
-	"tag": ["analysis", "automation", "on the"],
+	"stemmed": [
+		"on",
+		"the",
+		"applic",
+		"of",
+		"syntact",
+		"methodolog",
+		"in",
+		"automat",
+		"text",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"automation",
+		"on the"
+	],
 	"title": "On the Application of Syntactic Methodologies in Automatic Text Analysis",
 	"type": "inproceedings",
 	"venue": "SIGIR",

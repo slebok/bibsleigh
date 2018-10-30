@@ -1,6 +1,7 @@
 {
 	"author": "Larry Wos",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Sixth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1982",
 	"dblpkey": "conf/cade/Wos82",
 	"doi": "10.1007/BFb0000049",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["solv", "open", "question", "with", "an", "autom", "theorem", "prove", "program"],
-	"tag": ["automation"],
+	"stemmed": [
+		"solv",
+		"open",
+		"question",
+		"with",
+		"an",
+		"autom",
+		"theorem",
+		"prove",
+		"program"
+	],
+	"tag": [
+		"automation"
+	],
 	"title": "Solving Open Questions with an Automated Theorem-Proving Program",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 138,
+	"volume": "138",
 	"year": 1982
 }

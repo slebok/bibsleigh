@@ -1,13 +1,24 @@
 {
 	"author": "Larry Kerschberg",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the Eighth International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/82",
 	"dblpkey": "conf/vldb/Kerschberg82",
 	"ee": "http://www.vldb.org/conf/1982/P386.PDF",
 	"pages": "386-387",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["the", "databas", "data", "dictionari", "interfac"],
-	"tag": ["database", "interface", "taxonomy"],
+	"stemmed": [
+		"the",
+		"databas",
+		"data",
+		"dictionari",
+		"interfac"
+	],
+	"tag": [
+		"database",
+		"interface",
+		"taxonomy"
+	],
 	"title": "The Database/Data Dictionary Interface",
 	"type": "inproceedings",
 	"venue": "VLDB",

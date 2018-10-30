@@ -1,14 +1,39 @@
 {
-	"author": ["Sanjay Krishnan", "Jay Patel", "Michael J. Franklin", "Ken Goldberg"],
-	"booktitle": "RecSys",
+	"author": [
+		"Sanjay Krishnan",
+		"Jay Patel",
+		"Michael J. Franklin",
+		"Ken Goldberg"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2014",
 	"dblpkey": "conf/recsys/KrishnanPFG14",
 	"doi": "10.1145/2645710.2645740",
 	"ee": "http://doi.acm.org/10.1145/2645710.2645740",
 	"pages": "137-144",
 	"publisher": "ACM",
-	"stemmed": ["a", "methodolog", "for", "learn", "analyz", "and", "mitig", "social", "influenc", "bias", "in", "recommend", "system"],
-	"tag": ["bias", "learning", "recommendation", "social"],
+	"stemmed": [
+		"a",
+		"methodolog",
+		"for",
+		"learn",
+		"analyz",
+		"and",
+		"mitig",
+		"social",
+		"influenc",
+		"bias",
+		"in",
+		"recommend",
+		"system"
+	],
+	"tag": [
+		"bias",
+		"learning",
+		"recommendation",
+		"social"
+	],
 	"title": "A methodology for learning, analyzing, and mitigating social influence bias in recommender systems",
 	"type": "inproceedings",
 	"venue": "RecSys",

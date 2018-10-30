@@ -1,6 +1,10 @@
 {
-	"author": ["Niels Christian Juul", "Eric Jul"],
-	"booktitle": "IWMM",
+	"author": [
+		"Niels Christian Juul",
+		"Eric Jul"
+	],
+	"booktitle": "Proceedings of the First International Workshop on Memory Management",
+	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
 	"dblpkey": "conf/iwmm/JuulJ92",
 	"doi": "10.1007/BFb0017185",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["comprehens", "and", "robust", "garbag", "collect", "in", "a", "distribut", "system"],
-	"tag": ["distributed", "garbage collection", "robust"],
+	"stemmed": [
+		"comprehens",
+		"and",
+		"robust",
+		"garbag",
+		"collect",
+		"in",
+		"a",
+		"distribut",
+		"system"
+	],
+	"tag": [
+		"distributed",
+		"garbage collection",
+		"robust"
+	],
 	"title": "Comprehensive and Robust Garbage Collection in a Distributed System",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 637,
+	"volume": "637",
 	"year": 1992
 }

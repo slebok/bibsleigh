@@ -1,14 +1,28 @@
 {
 	"author": "Christos P. Sotiriou",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 39th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2002",
 	"dblpkey": "conf/dac/Sotiriou02",
 	"doi": "10.1145/513918.514025",
 	"ee": "http://doi.acm.org/10.1145/513918.514025",
 	"pages": "415-418",
 	"publisher": "ACM",
-	"stemmed": ["implement", "asynchron", "circuit", "use", "a", "convent", "eda", "tool", "flow"],
-	"tag": ["implementation", "using"],
+	"stemmed": [
+		"implement",
+		"asynchron",
+		"circuit",
+		"use",
+		"a",
+		"convent",
+		"eda",
+		"tool",
+		"flow"
+	],
+	"tag": [
+		"implementation",
+		"using"
+	],
 	"title": "Implementing asynchronous circuits using a conventional EDA tool-flow",
 	"type": "inproceedings",
 	"venue": "DAC",

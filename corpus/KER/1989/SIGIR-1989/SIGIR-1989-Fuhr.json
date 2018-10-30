@@ -1,6 +1,7 @@
 {
 	"author": "Norbert Fuhr",
 	"booktitle": "Proceedings of the 12th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P069.pdf",
 	"crossref": "conf/sigir/89",
 	"dblpkey": "conf/sigir/Fuhr89",
@@ -8,8 +9,16 @@
 	"ee": "http://doi.acm.org/10.1145/75334.75343",
 	"pages": "69-76",
 	"publisher": "ACM",
-	"stemmed": ["optimum", "polynomi", "retriev", "function"],
-	"tag": ["polynomial", "retrieval"],
+	"stemmed": [
+		"optimum",
+		"polynomi",
+		"retriev",
+		"function"
+	],
+	"tag": [
+		"polynomial",
+		"retrieval"
+	],
 	"title": "Optimum Polynomial Retrieval Functions",
 	"type": "inproceedings",
 	"venue": "SIGIR",

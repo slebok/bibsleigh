@@ -1,14 +1,32 @@
 {
-	"author": ["Guillaume Bagan", "Angela Bonifati", "Benoît Groz"],
-	"booktitle": "PODS",
+	"author": [
+		"Guillaume Bagan",
+		"Angela Bonifati",
+		"Benoît Groz"
+	],
+	"booktitle": "Proceedings of the 32nd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2013",
 	"dblpkey": "conf/pods/BaganBG13",
 	"doi": "10.1145/2463664.2467795",
 	"ee": "http://doi.acm.org/10.1145/2463664.2467795",
 	"pages": "261-272",
 	"publisher": "ACM",
-	"stemmed": ["a", "trichotomi", "for", "regular", "simpl", "path", "queri", "on", "graph"],
-	"tag": ["graph", "query"],
+	"stemmed": [
+		"a",
+		"trichotomi",
+		"for",
+		"regular",
+		"simpl",
+		"path",
+		"queri",
+		"on",
+		"graph"
+	],
+	"tag": [
+		"graph",
+		"query"
+	],
 	"title": "A trichotomy for regular simple path queries on graphs",
 	"type": "inproceedings",
 	"venue": "PODS",

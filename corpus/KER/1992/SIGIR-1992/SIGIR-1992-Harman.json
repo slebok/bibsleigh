@@ -1,6 +1,7 @@
 {
 	"author": "Donna Harman",
 	"booktitle": "Proceedings of the 15th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1992/P001.pdf",
 	"crossref": "conf/sigir/92",
 	"dblpkey": "conf/sigir/Harman92",
@@ -8,8 +9,15 @@
 	"ee": "http://doi.acm.org/10.1145/133160.133167",
 	"pages": "1-10",
 	"publisher": "ACM",
-	"stemmed": ["relev", "feedback", "revisit"],
-	"tag": ["feedback", "revisited"],
+	"stemmed": [
+		"relev",
+		"feedback",
+		"revisit"
+	],
+	"tag": [
+		"feedback",
+		"revisited"
+	],
 	"title": "Relevance Feedback Revisited",
 	"type": "inproceedings",
 	"venue": "SIGIR",

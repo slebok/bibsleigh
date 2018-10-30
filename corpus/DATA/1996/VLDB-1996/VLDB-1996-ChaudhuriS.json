@@ -1,14 +1,44 @@
 {
-	"author": ["Surajit Chaudhuri", "Kyuseok Shim"],
-	"booktitle": "VLDB",
-	"cite": ["conf/vldb/ChimentiGK89", "conf/vldb/ChaudhuriS93", "conf/vldb/ChaudhuriS94", "...", "conf/sigmod/GangulyHK92", "conf/sigmod/Hellerstein94", "conf/sigmod/HellersteinS93", "conf/sigmod/IoannidisK90", "conf/vldb/KrishnamurthyBZ86", "conf/vldb/KemperMS92", "...", "conf/sigmod/PiraheshHH92", "conf/sigmod/SelingerACLP79", "journals/tods/WhangK90"],
+	"author": [
+		"Surajit Chaudhuri",
+		"Kyuseok Shim"
+	],
+	"booktitle": "Proceedings of the 22nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/vldb/ChimentiGK89",
+		"conf/vldb/ChaudhuriS93",
+		"conf/vldb/ChaudhuriS94",
+		"...",
+		"conf/sigmod/GangulyHK92",
+		"conf/sigmod/Hellerstein94",
+		"conf/sigmod/HellersteinS93",
+		"conf/sigmod/IoannidisK90",
+		"conf/vldb/KrishnamurthyBZ86",
+		"conf/vldb/KemperMS92",
+		"...",
+		"conf/sigmod/PiraheshHH92",
+		"conf/sigmod/SelingerACLP79",
+		"journals/tods/WhangK90"
+	],
 	"crossref": "conf/vldb/96",
 	"dblpkey": "conf/vldb/ChaudhuriS96",
 	"ee": "http://www.vldb.org/conf/1996/P087.PDF",
 	"pages": "87-98",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["optim", "of", "queri", "with", "user", "defin", "predic"],
-	"tag": ["optimisation", "query"],
+	"stemmed": [
+		"optim",
+		"of",
+		"queri",
+		"with",
+		"user",
+		"defin",
+		"predic"
+	],
+	"tag": [
+		"optimisation",
+		"query"
+	],
 	"title": "Optimization of Queries with User-defined Predicates",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,14 +1,25 @@
 {
 	"author": "Jeffrey M. Squyres",
-	"booktitle": "PPOPP",
+	"booktitle": "Proceedings of the Ninth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2003",
 	"dblpkey": "conf/ppopp/Squyres03",
 	"doi": "10.1145/781498.781510",
 	"ee": "http://doi.acm.org/10.1145/781498.781510",
-	"pages": 2,
+	"pages": "2",
 	"publisher": "ACM",
-	"stemmed": ["a", "compon", "architectur", "for", "lam", "mpi"],
-	"tag": ["architecture", "component"],
+	"stemmed": [
+		"a",
+		"compon",
+		"architectur",
+		"for",
+		"lam",
+		"mpi"
+	],
+	"tag": [
+		"architecture",
+		"component"
+	],
 	"title": "A component architecture for LAM/MPI",
 	"type": "inproceedings",
 	"venue": "PPoPP",

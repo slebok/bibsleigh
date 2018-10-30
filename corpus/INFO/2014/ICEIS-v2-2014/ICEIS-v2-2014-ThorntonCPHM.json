@@ -1,6 +1,12 @@
 {
-	"author": ["Dallas Thornton", "Guido van Capelleveen", "Mannes Poel", "Jos van Hillegersberg", "Roland M. Müller"],
-	"booktitle": "ICEIS (2)",
+	"author": [
+		"Dallas Thornton",
+		"Guido van Capelleveen",
+		"Mannes Poel",
+		"Jos van Hillegersberg",
+		"Roland M. Müller"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Enterprise Information Systems, Volume 2",
 	"booktitleshort": "ICEIS v2",
 	"crossref": "conf/iceis/2014-2",
 	"dblpkey": "conf/iceis/ThorntonCPHM14",
@@ -8,8 +14,23 @@
 	"ee": "http://dx.doi.org/10.5220/0004986106840694",
 	"pages": "684-694",
 	"publisher": "SciTePress",
-	"stemmed": ["outlier", "base", "health", "insur", "fraud", "detect", "for", "u", "s", "medicaid", "data"],
-	"tag": ["detection", "health"],
+	"stemmed": [
+		"outlier",
+		"base",
+		"health",
+		"insur",
+		"fraud",
+		"detect",
+		"for",
+		"u",
+		"s",
+		"medicaid",
+		"data"
+	],
+	"tag": [
+		"detection",
+		"health"
+	],
 	"title": "Outlier-based Health Insurance Fraud Detection for U.S. Medicaid Data",
 	"type": "inproceedings",
 	"venue": "ICEIS",

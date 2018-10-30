@@ -1,6 +1,12 @@
 {
-	"author": ["Haichuan Shang", "Xuemin Lin", "Ying Zhang", "Jeffrey Xu Yu", "Wei Wang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Haichuan Shang",
+		"Xuemin Lin",
+		"Ying Zhang",
+		"Jeffrey Xu Yu",
+		"Wei Wang"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/ShangLZYW10",
@@ -8,8 +14,15 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807264",
 	"pages": "903-914",
 	"publisher": "ACM",
-	"stemmed": ["connect", "substructur", "similar", "search"],
-	"tag": ["similarity"],
+	"stemmed": [
+		"connect",
+		"substructur",
+		"similar",
+		"search"
+	],
+	"tag": [
+		"similarity"
+	],
 	"title": "Connected substructure similarity search",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

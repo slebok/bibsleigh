@@ -1,6 +1,10 @@
 {
-	"author": ["Nicholas J. Belkin", "Barbara H. Kwasnik"],
+	"author": [
+		"Nicholas J. Belkin",
+		"Barbara H. Kwasnik"
+	],
 	"booktitle": "Proceedings of the Ninth International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1986/P011.pdf",
 	"crossref": "conf/sigir/86",
 	"dblpkey": "conf/sigir/BelkinK86",
@@ -8,8 +12,26 @@
 	"ee": "http://doi.acm.org/10.1145/253168.253175",
 	"pages": "11-22",
 	"publisher": "ACM",
-	"stemmed": ["use", "structur", "represent", "of", "anomal", "state", "of", "knowledg", "for", "choos", "document", "retriev", "strategi"],
-	"tag": ["documentation", "retrieval", "using"],
+	"stemmed": [
+		"use",
+		"structur",
+		"represent",
+		"of",
+		"anomal",
+		"state",
+		"of",
+		"knowledg",
+		"for",
+		"choos",
+		"document",
+		"retriev",
+		"strategi"
+	],
+	"tag": [
+		"documentation",
+		"retrieval",
+		"using"
+	],
 	"title": "Using Structural Representations of Anomalous States of Knowledge for Choosing Document Retrieval Strategies",
 	"type": "inproceedings",
 	"venue": "SIGIR",

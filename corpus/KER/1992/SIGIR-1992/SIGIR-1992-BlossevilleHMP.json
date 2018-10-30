@@ -1,6 +1,12 @@
 {
-	"author": ["M. J. Blosseville", "Georges Hébrail", "M. G. Monteil", "N. Pénot"],
+	"author": [
+		"M. J. Blosseville",
+		"Georges Hébrail",
+		"M. G. Monteil",
+		"N. Pénot"
+	],
 	"booktitle": "Proceedings of the 15th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1992/P051.pdf",
 	"crossref": "conf/sigir/92",
 	"dblpkey": "conf/sigir/BlossevilleHMP92",
@@ -8,8 +14,30 @@
 	"ee": "http://doi.acm.org/10.1145/133160.133175",
 	"pages": "51-58",
 	"publisher": "ACM",
-	"stemmed": ["automat", "document", "classif", "natur", "languag", "process", "statist", "analysi", "and", "expert", "system", "techniqu", "use", "togeth"],
-	"tag": ["analysis", "automation", "classification", "documentation", "natural language", "statistics"],
+	"stemmed": [
+		"automat",
+		"document",
+		"classif",
+		"natur",
+		"languag",
+		"process",
+		"statist",
+		"analysi",
+		"and",
+		"expert",
+		"system",
+		"techniqu",
+		"use",
+		"togeth"
+	],
+	"tag": [
+		"analysis",
+		"automation",
+		"classification",
+		"documentation",
+		"natural language",
+		"statistics"
+	],
 	"title": "Automatic Document Classification: Natural Language Processing, Statistical Analysis, and Expert System Techniques used together",
 	"type": "inproceedings",
 	"venue": "SIGIR",

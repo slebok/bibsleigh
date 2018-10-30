@@ -1,14 +1,34 @@
 {
-	"author": ["Jia Zeng", "Cristian Soviani", "Stephen A. Edwards"],
-	"booktitle": "LCTES",
+	"author": [
+		"Jia Zeng",
+		"Cristian Soviani",
+		"Stephen A. Edwards"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2004",
 	"dblpkey": "conf/lctrts/ZengSE04",
 	"doi": "10.1145/997163.997188",
 	"ee": "http://doi.acm.org/10.1145/997163.997188",
 	"pages": "175-181",
 	"publisher": "ACM",
-	"stemmed": ["generat", "fast", "code", "from", "concurr", "program", "depend", "graph"],
-	"tag": ["concurrent", "dependence", "generative", "graph", "performance"],
+	"stemmed": [
+		"generat",
+		"fast",
+		"code",
+		"from",
+		"concurr",
+		"program",
+		"depend",
+		"graph"
+	],
+	"tag": [
+		"concurrent",
+		"dependence",
+		"generative",
+		"graph",
+		"performance"
+	],
 	"title": "Generating fast code from concurrent program dependence graphs",
 	"type": "inproceedings",
 	"venue": "LCTES",

@@ -1,14 +1,27 @@
 {
 	"author": "Andrew McCallum",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/McCallum06",
 	"doi": "10.1145/1150402.1150515",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150515",
-	"pages": 835,
+	"pages": "835",
 	"publisher": "ACM",
-	"stemmed": ["inform", "extract", "data", "mine", "and", "joint", "infer"],
-	"tag": ["data mining", "information management", "mining"],
+	"stemmed": [
+		"inform",
+		"extract",
+		"data",
+		"mine",
+		"and",
+		"joint",
+		"infer"
+	],
+	"tag": [
+		"data mining",
+		"information management",
+		"mining"
+	],
 	"title": "Information extraction, data mining and joint inference",
 	"type": "inproceedings",
 	"venue": "KDD",

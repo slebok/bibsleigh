@@ -1,6 +1,10 @@
 {
-	"author": ["Fausto Giunchiglia", "Adolfo Villafiorita"],
-	"booktitle": "CADE",
+	"author": [
+		"Fausto Giunchiglia",
+		"Adolfo Villafiorita"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/GiunchigliaV96",
 	"doi": "10.1007/3-540-61511-3_74",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["absfol", "a", "proof", "checker", "with", "abstract"],
-	"tag": ["abstraction", "named", "proving"],
+	"stemmed": [
+		"absfol",
+		"a",
+		"proof",
+		"checker",
+		"with",
+		"abstract"
+	],
+	"tag": [
+		"abstraction",
+		"named",
+		"proving"
+	],
 	"title": "ABSFOL: A Proof Checker with Abstraction",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

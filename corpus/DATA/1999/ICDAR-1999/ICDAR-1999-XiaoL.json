@@ -1,15 +1,32 @@
 {
-	"author": ["Xuhong Xiao", "Graham Leedham"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Xuhong Xiao",
+		"Graham Leedham"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/1999",
 	"dblpkey": "conf/icdar/XiaoL99",
 	"doi": "10.1109/ICDAR.1999.791843",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1999.791843", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1999.791843"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1999.791843",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1999.791843"
+	],
 	"pages": "535-538",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["cursiv", "script", "segment", "incorpor", "knowledg", "of", "write"],
-	"tag": ["segmentation"],
+	"stemmed": [
+		"cursiv",
+		"script",
+		"segment",
+		"incorpor",
+		"knowledg",
+		"of",
+		"write"
+	],
+	"tag": [
+		"segmentation"
+	],
 	"title": "Cursive Script Segmentation Incorporating Knowledge of Writing",
 	"type": "inproceedings",
 	"venue": "ICDAR",

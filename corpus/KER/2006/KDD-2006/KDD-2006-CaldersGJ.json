@@ -1,14 +1,30 @@
 {
-	"author": ["Toon Calders", "Bart Goethals", "Szymon Jaroszewicz"],
-	"booktitle": "KDD",
+	"author": [
+		"Toon Calders",
+		"Bart Goethals",
+		"Szymon Jaroszewicz"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/CaldersGJ06",
 	"doi": "10.1145/1150402.1150417",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150417",
 	"pages": "96-105",
 	"publisher": "ACM",
-	"stemmed": ["mine", "rank", "correl", "set", "of", "numer", "attribut"],
-	"tag": ["mining", "set"],
+	"stemmed": [
+		"mine",
+		"rank",
+		"correl",
+		"set",
+		"of",
+		"numer",
+		"attribut"
+	],
+	"tag": [
+		"mining",
+		"set"
+	],
 	"title": "Mining rank-correlated sets of numerical attributes",
 	"type": "inproceedings",
 	"venue": "KDD",

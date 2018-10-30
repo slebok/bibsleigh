@@ -1,6 +1,10 @@
 {
-	"author": ["Huy Pham", "Cyrus Shahabi", "Yan Liu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Huy Pham",
+		"Cyrus Shahabi",
+		"Yan Liu"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/PhamSL13",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465301",
 	"pages": "265-276",
 	"publisher": "ACM",
-	"stemmed": ["ebm", "an", "entropi", "base", "model", "to", "infer", "social", "strength", "from", "spatiotempor", "data"],
-	"tag": ["named", "social"],
+	"stemmed": [
+		"ebm",
+		"an",
+		"entropi",
+		"base",
+		"model",
+		"to",
+		"infer",
+		"social",
+		"strength",
+		"from",
+		"spatiotempor",
+		"data"
+	],
+	"tag": [
+		"named",
+		"social"
+	],
 	"title": "EBM: an entropy-based model to infer social strength from spatiotemporal data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

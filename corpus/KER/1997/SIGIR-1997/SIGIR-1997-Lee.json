@@ -1,6 +1,7 @@
 {
 	"author": "Jong-Hak Lee",
 	"booktitle": "Proceedings of the 20th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1997/P267.pdf",
 	"crossref": "conf/sigir/97",
 	"dblpkey": "conf/sigir/Lee97",
@@ -8,8 +9,17 @@
 	"ee": "http://doi.acm.org/10.1145/258525.258587",
 	"pages": "267-276",
 	"publisher": "ACM",
-	"stemmed": ["analys", "of", "multipl", "evid", "combin"],
-	"tag": ["analysis", "multi"],
+	"stemmed": [
+		"analys",
+		"of",
+		"multipl",
+		"evid",
+		"combin"
+	],
+	"tag": [
+		"analysis",
+		"multi"
+	],
 	"title": "Analyses of Multiple Evidence Combination",
 	"type": "inproceedings",
 	"venue": "SIGIR",

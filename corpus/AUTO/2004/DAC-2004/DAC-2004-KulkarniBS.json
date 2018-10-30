@@ -1,14 +1,32 @@
 {
-	"author": ["Chidamber Kulkarni", "Gordon J. Brebner", "Graham Schelle"],
-	"booktitle": "DAC",
+	"author": [
+		"Chidamber Kulkarni",
+		"Gordon J. Brebner",
+		"Graham Schelle"
+	],
+	"booktitle": "Proceedings of the 41st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2004",
 	"dblpkey": "conf/dac/KulkarniBS04",
 	"doi": "10.1145/996566.996811",
 	"ee": "http://doi.acm.org/10.1145/996566.996811",
 	"pages": "924-927",
 	"publisher": "ACM",
-	"stemmed": ["map", "a", "domain", "specif", "languag", "to", "a", "platform", "fpga"],
-	"tag": ["domain-specific language", "framework"],
+	"stemmed": [
+		"map",
+		"a",
+		"domain",
+		"specif",
+		"languag",
+		"to",
+		"a",
+		"platform",
+		"fpga"
+	],
+	"tag": [
+		"domain-specific language",
+		"framework"
+	],
 	"title": "Mapping a domain specific language to a platform FPGA",
 	"type": "inproceedings",
 	"venue": "DAC",

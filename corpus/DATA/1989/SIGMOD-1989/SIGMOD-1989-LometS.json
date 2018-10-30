@@ -1,15 +1,40 @@
 {
-	"author": ["David B. Lomet", "Betty Salzberg"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"David B. Lomet",
+		"Betty Salzberg"
+	],
+	"booktitle": "Proceedings of the 19th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD89/P315.PDF",
-	"cite": ["journals/tods/Christodoulakis87", "journals/ibmrd/Easton86", "journals/tods/Lomet87", "journals/sigmod/McKenzie86", "conf/icde/Rathmann84", "books/ph/Salzberg88", "journals/cacm/SarnakT86", "conf/sigmod/SegevS87", "conf/sigmod/SnodgrassA85", "conf/vldb/Stonebraker87", "journals/tods/Vitter85"],
+	"cite": [
+		"journals/tods/Christodoulakis87",
+		"journals/ibmrd/Easton86",
+		"journals/tods/Lomet87",
+		"journals/sigmod/McKenzie86",
+		"conf/icde/Rathmann84",
+		"books/ph/Salzberg88",
+		"journals/cacm/SarnakT86",
+		"conf/sigmod/SegevS87",
+		"conf/sigmod/SnodgrassA85",
+		"conf/vldb/Stonebraker87",
+		"journals/tods/Vitter85"
+	],
 	"crossref": "conf/sigmod/89",
 	"dblpkey": "conf/sigmod/LometS89",
 	"doi": "10.1145/67544.66956",
 	"ee": "http://doi.acm.org/10.1145/67544.66956",
 	"pages": "315-324",
-	"stemmed": ["access", "method", "for", "multivers", "data"],
-	"tag": ["data access", "multi"],
+	"stemmed": [
+		"access",
+		"method",
+		"for",
+		"multivers",
+		"data"
+	],
+	"tag": [
+		"data access",
+		"multi"
+	],
 	"title": "Access Methods for Multiversion Data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

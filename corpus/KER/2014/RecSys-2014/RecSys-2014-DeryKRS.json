@@ -1,14 +1,33 @@
 {
-	"author": ["Lihi Naamani Dery", "Meir Kalech", "Lior Rokach", "Bracha Shapira"],
-	"booktitle": "RecSys",
+	"author": [
+		"Lihi Naamani Dery",
+		"Meir Kalech",
+		"Lior Rokach",
+		"Bracha Shapira"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2014",
 	"dblpkey": "conf/recsys/DeryKRS14",
 	"doi": "10.1145/2645710.2645760",
 	"ee": "http://doi.acm.org/10.1145/2645710.2645760",
 	"pages": "333-336",
 	"publisher": "ACM",
-	"stemmed": ["prefer", "elicit", "for", "narrow", "the", "recommend", "list", "for", "group"],
-	"tag": ["elicitation", "recommendation"],
+	"stemmed": [
+		"prefer",
+		"elicit",
+		"for",
+		"narrow",
+		"the",
+		"recommend",
+		"list",
+		"for",
+		"group"
+	],
+	"tag": [
+		"elicitation",
+		"recommendation"
+	],
 	"title": "Preference elicitation for narrowing the recommended list for groups",
 	"type": "inproceedings",
 	"venue": "RecSys",

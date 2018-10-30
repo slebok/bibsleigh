@@ -1,6 +1,9 @@
 {
-	"author": ["Vineet Sinha", "David R. Karger"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Vineet Sinha",
+		"David R. Karger"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/SinhaK05",
@@ -8,8 +11,20 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066169",
 	"pages": "97-106",
 	"publisher": "ACM",
-	"stemmed": ["magnet", "support", "navig", "in", "semistructur", "data", "environ"],
-	"tag": ["named", "navigation", "semistructured data"],
+	"stemmed": [
+		"magnet",
+		"support",
+		"navig",
+		"in",
+		"semistructur",
+		"data",
+		"environ"
+	],
+	"tag": [
+		"named",
+		"navigation",
+		"semistructured data"
+	],
 	"title": "Magnet: Supporting Navigation in Semistructured Data Environments",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

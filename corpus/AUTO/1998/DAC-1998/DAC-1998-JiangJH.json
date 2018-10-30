@@ -1,13 +1,33 @@
 {
-	"author": ["Jie-Hong Roland Jiang", "Jing-Yang Jou", "Juinn-Dar Huang"],
-	"booktitle": "DAC",
+	"author": [
+		"Jie-Hong Roland Jiang",
+		"Jing-Yang Jou",
+		"Juinn-Dar Huang"
+	],
+	"booktitle": "Proceedings of the 35th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/JiangJH98",
 	"doi": "10.1145/277044.277223",
 	"ee": "http://doi.acm.org/10.1145/277044.277223",
 	"pages": "712-717",
 	"publisher": "ACM Press",
-	"stemmed": ["compat", "class", "encod", "in", "hyper", "function", "decomposit", "for", "fpga", "synthesi"],
-	"tag": ["composition", "encoding", "synthesis"],
+	"stemmed": [
+		"compat",
+		"class",
+		"encod",
+		"in",
+		"hyper",
+		"function",
+		"decomposit",
+		"for",
+		"fpga",
+		"synthesi"
+	],
+	"tag": [
+		"composition",
+		"encoding",
+		"synthesis"
+	],
 	"title": "Compatible Class Encoding in Hyper-Function Decomposition for FPGA Synthesis",
 	"type": "inproceedings",
 	"venue": "DAC",

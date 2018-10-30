@@ -1,6 +1,7 @@
 {
 	"author": "E. J. Yannakoudakis",
 	"booktitle": "Proceedings of the Sixth Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1983/P220.pdf",
 	"crossref": "conf/sigir/83",
 	"dblpkey": "conf/sigir/Yannakoudakis83",
@@ -8,8 +9,17 @@
 	"ee": "http://doi.acm.org/10.1145/511793.511825",
 	"pages": "220-237",
 	"publisher": "ACM",
-	"stemmed": ["deriv", "search", "key", "for", "bibliograph", "retriev"],
-	"tag": ["retrieval"],
+	"stemmed": [
+		"deriv",
+		"search",
+		"key",
+		"for",
+		"bibliograph",
+		"retriev"
+	],
+	"tag": [
+		"retrieval"
+	],
 	"title": "Derived Search Keys for Bibliographic Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

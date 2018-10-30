@@ -1,14 +1,24 @@
 {
-	"author": ["Andrew A. Chien", "William J. Dally"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Andrew A. Chien",
+		"William J. Dally"
+	],
+	"booktitle": "Proceedings of the Second Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1990",
 	"dblpkey": "conf/ppopp/ChienD90",
 	"doi": "10.1145/99163.376303",
 	"ee": "http://doi.acm.org/10.1145/99163.376303",
 	"pages": "187-196",
 	"publisher": "ACM",
-	"stemmed": ["concurr", "aggreg", "ca"],
-	"tag": ["concurrent"],
+	"stemmed": [
+		"concurr",
+		"aggreg",
+		"ca"
+	],
+	"tag": [
+		"concurrent"
+	],
 	"title": "Concurrent Aggregates (CA)",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,14 +1,30 @@
 {
 	"author": "Fabio Aiolli",
-	"booktitle": "RecSys",
+	"booktitle": "Proceedings of the Eighth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2014",
 	"dblpkey": "conf/recsys/Aiolli14",
 	"doi": "10.1145/2645710.2645770",
 	"ee": "http://doi.acm.org/10.1145/2645710.2645770",
 	"pages": "293-296",
 	"publisher": "ACM",
-	"stemmed": ["convex", "auc", "optim", "for", "top", "n", "recommend", "with", "implicit", "feedback"],
-	"tag": ["feedback", "optimisation", "recommendation"],
+	"stemmed": [
+		"convex",
+		"auc",
+		"optim",
+		"for",
+		"top",
+		"n",
+		"recommend",
+		"with",
+		"implicit",
+		"feedback"
+	],
+	"tag": [
+		"feedback",
+		"optimisation",
+		"recommendation"
+	],
 	"title": "Convex AUC optimization for top-N recommendation with implicit feedback",
 	"type": "inproceedings",
 	"venue": "RecSys",

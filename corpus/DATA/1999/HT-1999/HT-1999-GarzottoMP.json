@@ -1,6 +1,11 @@
 {
-	"author": ["Franca Garzotto", "Maristella Matera", "Paolo Paolini"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Franca Garzotto",
+		"Maristella Matera",
+		"Paolo Paolini"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Hypertext and Hypermedia",
+	"booktitleshort": "HT",
 	"cdrom": "HT1999/P157.pdf",
 	"crossref": "conf/ht/99",
 	"dblpkey": "conf/ht/GarzottoMP99",
@@ -8,8 +13,26 @@
 	"ee": "http://doi.acm.org/10.1145/294469.294510",
 	"pages": "157-163",
 	"publisher": "ACM",
-	"stemmed": ["abstract", "task", "a", "tool", "for", "the", "inspect", "of", "web", "site", "and", "off", "line", "hypermedia"],
-	"tag": ["hypermedia", "web"],
+	"stemmed": [
+		"abstract",
+		"task",
+		"a",
+		"tool",
+		"for",
+		"the",
+		"inspect",
+		"of",
+		"web",
+		"site",
+		"and",
+		"off",
+		"line",
+		"hypermedia"
+	],
+	"tag": [
+		"hypermedia",
+		"web"
+	],
 	"title": "Abstract Tasks: A Tool for the Inspection of Web Sites and Off-Line Hypermedia",
 	"type": "inproceedings",
 	"venue": "HT",

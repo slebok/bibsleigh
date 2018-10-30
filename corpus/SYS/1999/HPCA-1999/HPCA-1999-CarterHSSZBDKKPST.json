@@ -1,15 +1,42 @@
 {
-	"author": ["John B. Carter", "Wilson C. Hsieh", "Leigh Stoller", "Mark R. Swanson", "Lixin Zhang", "Erik Brunvand", "Al Davis", "Chen-Chi Kuo", "Ravindra Kuramkote", "Michael A. Parker", "Lambert Schaelicke", "Terry Tateyama"],
-	"booktitle": "HPCA",
+	"author": [
+		"John B. Carter",
+		"Wilson C. Hsieh",
+		"Leigh Stoller",
+		"Mark R. Swanson",
+		"Lixin Zhang",
+		"Erik Brunvand",
+		"Al Davis",
+		"Chen-Chi Kuo",
+		"Ravindra Kuramkote",
+		"Michael A. Parker",
+		"Lambert Schaelicke",
+		"Terry Tateyama"
+	],
+	"booktitle": "Proceedings of the Fifth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1999",
 	"dblpkey": "conf/hpca/CarterHSSZBDKKPST99",
 	"doi": "10.1109/HPCA.1999.744334",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1999.744334", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744334"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1999.744334",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744334"
+	],
 	"pages": "70-79",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["impuls", "build", "a", "smarter", "memori", "control"],
-	"tag": ["memory management", "named"],
+	"stemmed": [
+		"impuls",
+		"build",
+		"a",
+		"smarter",
+		"memori",
+		"control"
+	],
+	"tag": [
+		"memory management",
+		"named"
+	],
 	"title": "Impulse: Building a Smarter Memory Controller",
 	"type": "inproceedings",
 	"venue": "HPCA",

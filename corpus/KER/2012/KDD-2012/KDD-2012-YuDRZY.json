@@ -1,14 +1,35 @@
 {
-	"author": ["Guo-Xian Yu", "Carlotta Domeniconi", "Huzefa Rangwala", "Guoji Zhang", "Zhiwen Yu"],
-	"booktitle": "KDD",
+	"author": [
+		"Guo-Xian Yu",
+		"Carlotta Domeniconi",
+		"Huzefa Rangwala",
+		"Guoji Zhang",
+		"Zhiwen Yu"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/YuDRZY12",
 	"doi": "10.1145/2339530.2339700",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339700",
 	"pages": "1077-1085",
 	"publisher": "ACM",
-	"stemmed": ["transduct", "multi", "label", "ensembl", "classif", "for", "protein", "function", "predict"],
-	"tag": ["classification", "multi", "predict"],
+	"stemmed": [
+		"transduct",
+		"multi",
+		"label",
+		"ensembl",
+		"classif",
+		"for",
+		"protein",
+		"function",
+		"predict"
+	],
+	"tag": [
+		"classification",
+		"multi",
+		"predict"
+	],
 	"title": "Transductive multi-label ensemble classification for protein function prediction",
 	"type": "inproceedings",
 	"venue": "KDD",

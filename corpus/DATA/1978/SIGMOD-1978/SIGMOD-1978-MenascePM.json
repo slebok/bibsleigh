@@ -1,15 +1,36 @@
 {
-	"author": ["Daniel A. Menascé", "Gerald J. Popek", "Richard R. Muntz"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Daniel A. Menascé",
+		"Gerald J. Popek",
+		"Richard R. Muntz"
+	],
+	"booktitle": "Proceedings of the Eighth ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD78/P002.PDF",
 	"crossref": "conf/sigmod/78",
 	"dblpkey": "conf/sigmod/MenascePM78",
 	"doi": "10.1145/509252.509256",
 	"ee": "http://doi.acm.org/10.1145/509252.509256",
-	"pages": 2,
+	"pages": "2",
 	"publisher": "ACM",
-	"stemmed": ["a", "lock", "protocol", "for", "resourc", "coordin", "in", "distribut", "databas", "abstract"],
-	"tag": ["coordination", "database", "distributed", "protocol"],
+	"stemmed": [
+		"a",
+		"lock",
+		"protocol",
+		"for",
+		"resourc",
+		"coordin",
+		"in",
+		"distribut",
+		"databas",
+		"abstract"
+	],
+	"tag": [
+		"coordination",
+		"database",
+		"distributed",
+		"protocol"
+	],
 	"title": "A Locking Protocol for Resource Coordination in Distributed Databases (Abstract)",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

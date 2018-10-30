@@ -1,12 +1,24 @@
 {
-	"author": ["Harry C. Li", "Allen Clement", "Edmund L. Wong", "Jeff Napper", "Indrajit Roy", "Lorenzo Alvisi", "Michael Dahlin"],
-	"booktitle": "OSDI",
+	"author": [
+		"Harry C. Li",
+		"Allen Clement",
+		"Edmund L. Wong",
+		"Jeff Napper",
+		"Indrajit Roy",
+		"Lorenzo Alvisi",
+		"Michael Dahlin"
+	],
+	"booktitle": "Proceedings of the Seventh Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2006",
 	"dblpkey": "conf/osdi/LiCWNRAD06",
 	"ee": "http://www.usenix.org/events/osdi06/tech/li.html",
 	"pages": "191-204",
 	"publisher": "USENIX Association",
-	"stemmed": ["bar", "gossip"],
+	"stemmed": [
+		"bar",
+		"gossip"
+	],
 	"title": "BAR Gossip",
 	"type": "inproceedings",
 	"venue": "OSDI",

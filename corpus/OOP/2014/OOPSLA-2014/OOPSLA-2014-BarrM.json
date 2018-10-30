@@ -1,6 +1,9 @@
 {
-	"author": ["Earl T. Barr", "Mark Marron"],
-	"booktitle": "Proceedings of the 29th International Conference on Object Oriented Programming Systems Languages & Applications",
+	"author": [
+		"Earl T. Barr",
+		"Mark Marron"
+	],
+	"booktitle": "Proceedings of the 29th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2014",
 	"dblpkey": "conf/oopsla/BarrM14",
@@ -8,8 +11,20 @@
 	"ee": "http://doi.acm.org/10.1145/2660193.2660209",
 	"pages": "67-82",
 	"publisher": "ACM",
-	"stemmed": ["tardi", "afford", "time", "travel", "debug", "in", "manag", "runtim"],
-	"tag": ["debugging", "named"],
+	"stemmed": [
+		"tardi",
+		"afford",
+		"time",
+		"travel",
+		"debug",
+		"in",
+		"manag",
+		"runtim"
+	],
+	"tag": [
+		"debugging",
+		"named"
+	],
 	"title": "Tardis: affordable time-travel debugging in managed runtimes",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

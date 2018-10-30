@@ -1,14 +1,37 @@
 {
-	"author": ["Moritz Beller", "Georgios Gousios", "Annibale Panichella", "Andy Zaidman"],
-	"booktitle": "ESEC/SIGSOFT FSE",
+	"author": [
+		"Moritz Beller",
+		"Georgios Gousios",
+		"Annibale Panichella",
+		"Andy Zaidman"
+	],
+	"booktitle": "Proceedings of the 10th Joint Meeting of the 15th European Software Engineering Conference and the 23rd Symposium on the Foundations of Software Engineering",
+	"booktitleshort": "ESEC/SIGSOFT FSE",
 	"crossref": "conf/sigsoft/2015",
 	"dblpkey": "conf/sigsoft/BellerGPZ15",
 	"doi": "10.1145/2786805.2786843",
 	"ee": "http://doi.acm.org/10.1145/2786805.2786843",
 	"pages": "179-190",
 	"publisher": "ACM",
-	"stemmed": ["when", "how", "and", "whi", "develop", "do", "not", "test", "in", "their", "ide"],
-	"tag": ["developer", "how", "ide", "why"],
+	"stemmed": [
+		"when",
+		"how",
+		"and",
+		"whi",
+		"develop",
+		"do",
+		"not",
+		"test",
+		"in",
+		"their",
+		"ide"
+	],
+	"tag": [
+		"developer",
+		"how",
+		"ide",
+		"why"
+	],
 	"title": "When, how, and why developers (do not) test in their IDEs",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

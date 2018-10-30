@@ -1,6 +1,11 @@
 {
-	"author": ["Michael A. McRobbie", "Robert K. Meyer", "Paul B. Thistlewaite"],
-	"booktitle": "CADE",
+	"author": [
+		"Michael A. McRobbie",
+		"Robert K. Meyer",
+		"Paul B. Thistlewaite"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/McRobbieMT88",
 	"doi": "10.1007/BFb0012833",
@@ -10,11 +15,32 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["toward", "effici", "knowledg", "base", "autom", "theorem", "prove", "for", "non", "standard", "logic"],
-	"tag": ["automation", "knowledge-based", "logic", "performance", "proving", "standard", "theorem proving", "towards"],
+	"stemmed": [
+		"toward",
+		"effici",
+		"knowledg",
+		"base",
+		"autom",
+		"theorem",
+		"prove",
+		"for",
+		"non",
+		"standard",
+		"logic"
+	],
+	"tag": [
+		"automation",
+		"knowledge-based",
+		"logic",
+		"performance",
+		"proving",
+		"standard",
+		"theorem proving",
+		"towards"
+	],
 	"title": "Towards Efficient “Knowledge-Based” Automated Theorem Proving for Non-Standard Logics",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

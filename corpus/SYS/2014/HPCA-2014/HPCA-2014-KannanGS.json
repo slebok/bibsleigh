@@ -1,6 +1,11 @@
 {
-	"author": ["Sudarsun Kannan", "Ada Gavrilovska", "Karsten Schwan"],
-	"booktitle": "HPCA",
+	"author": [
+		"Sudarsun Kannan",
+		"Ada Gavrilovska",
+		"Karsten Schwan"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/KannanGS14",
 	"doi": "10.1109/HPCA.2014.6835960",
@@ -8,8 +13,24 @@
 	"pages": "512-523",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["reduc", "the", "cost", "of", "persist", "for", "nonvolatil", "heap", "in", "end", "user", "devic"],
-	"tag": ["cost analysis", "persistent"],
+	"stemmed": [
+		"reduc",
+		"the",
+		"cost",
+		"of",
+		"persist",
+		"for",
+		"nonvolatil",
+		"heap",
+		"in",
+		"end",
+		"user",
+		"devic"
+	],
+	"tag": [
+		"cost analysis",
+		"persistent"
+	],
 	"title": "Reducing the cost of persistence for nonvolatile heaps in end user devices",
 	"type": "inproceedings",
 	"venue": "HPCA",

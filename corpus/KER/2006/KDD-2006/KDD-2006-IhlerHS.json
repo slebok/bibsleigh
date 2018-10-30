@@ -1,14 +1,32 @@
 {
-	"author": ["Alexander T. Ihler", "Jon Hutchins", "Padhraic Smyth"],
-	"booktitle": "KDD",
+	"author": [
+		"Alexander T. Ihler",
+		"Jon Hutchins",
+		"Padhraic Smyth"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/IhlerHS06",
 	"doi": "10.1145/1150402.1150428",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150428",
 	"pages": "207-216",
 	"publisher": "ACM",
-	"stemmed": ["adapt", "event", "detect", "with", "time", "vari", "poisson", "process"],
-	"tag": ["adaptation", "detection", "process"],
+	"stemmed": [
+		"adapt",
+		"event",
+		"detect",
+		"with",
+		"time",
+		"vari",
+		"poisson",
+		"process"
+	],
+	"tag": [
+		"adaptation",
+		"detection",
+		"process"
+	],
 	"title": "Adaptive event detection with time-varying poisson processes",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,6 +1,11 @@
 {
-	"author": ["Orna Kupferman", "Ulrike Sattler", "Moshe Y. Vardi"],
-	"booktitle": "CADE",
+	"author": [
+		"Orna Kupferman",
+		"Ulrike Sattler",
+		"Moshe Y. Vardi"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2002",
 	"dblpkey": "conf/cade/KupfermanSV02",
 	"doi": "10.1007/3-540-45620-1_34",
@@ -10,11 +15,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "complex", "of", "the", "grade", "calculus"],
-	"tag": ["calculus", "complexity"],
+	"stemmed": [
+		"the",
+		"complex",
+		"of",
+		"the",
+		"grade",
+		"calculus"
+	],
+	"tag": [
+		"calculus",
+		"complexity"
+	],
 	"title": "The Complexity of the Graded µ-Calculus",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2392,
+	"volume": "2392",
 	"year": 2002
 }

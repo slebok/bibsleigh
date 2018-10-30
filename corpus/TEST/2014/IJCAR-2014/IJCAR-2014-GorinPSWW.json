@@ -1,6 +1,13 @@
 {
-	"author": ["Daniel Gorín", "Dirk Pattinson", "Lutz Schröder", "Florian Widmann", "Thorsten Wißmann"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Daniel Gorín",
+		"Dirk Pattinson",
+		"Lutz Schröder",
+		"Florian Widmann",
+		"Thorsten Wißmann"
+	],
+	"booktitle": "Proceedings of the Seventh International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2014",
 	"dblpkey": "conf/cade/GorinPSWW14",
 	"doi": "10.1007/978-3-319-08587-6_31",
@@ -10,11 +17,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["cool", "a", "generic", "reason", "for", "coalgebra", "hybrid", "logic", "system", "descript"],
-	"tag": ["algebra", "hybrid", "logic", "named"],
+	"stemmed": [
+		"cool",
+		"a",
+		"generic",
+		"reason",
+		"for",
+		"coalgebra",
+		"hybrid",
+		"logic",
+		"system",
+		"descript"
+	],
+	"tag": [
+		"algebra",
+		"hybrid",
+		"logic",
+		"named"
+	],
 	"title": "Cool — A Generic Reasoner for Coalgebraic Hybrid Logics (System Description)",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 8562,
+	"volume": "8562",
 	"year": 2014
 }

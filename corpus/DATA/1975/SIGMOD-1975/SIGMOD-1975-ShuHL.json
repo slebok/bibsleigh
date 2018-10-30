@@ -1,15 +1,34 @@
 {
-	"author": ["Nan C. Shu", "Barron C. Housel", "Vincent Y. Lum"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Nan C. Shu",
+		"Barron C. Housel",
+		"Vincent Y. Lum"
+	],
+	"booktitle": "Proceedings of the Fifth ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD75/P111.PDF",
 	"crossref": "conf/sigmod/75",
 	"dblpkey": "conf/sigmod/ShuHL75",
 	"doi": "10.1145/500080.500096",
 	"ee": "http://doi.acm.org/10.1145/500080.500096",
-	"pages": 111,
+	"pages": "111",
 	"publisher": "ACM",
-	"stemmed": ["convert", "a", "high", "level", "translat", "definit", "languag", "for", "data", "convers", "abstract"],
-	"tag": ["named"],
+	"stemmed": [
+		"convert",
+		"a",
+		"high",
+		"level",
+		"translat",
+		"definit",
+		"languag",
+		"for",
+		"data",
+		"convers",
+		"abstract"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "CONVERT: A High Level Translation Definition Language for Data Conversion (Abstract)",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

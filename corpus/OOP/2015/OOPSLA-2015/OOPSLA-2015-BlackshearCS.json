@@ -1,13 +1,28 @@
 {
-	"author": ["Sam Blackshear", "Bor-Yuh Evan Chang", "Manu Sridharan"],
-	"booktitle": "OOPSLA",
+	"author": [
+		"Sam Blackshear",
+		"Bor-Yuh Evan Chang",
+		"Manu Sridharan"
+	],
+	"booktitle": "Proceedings of the 30th Conference on Object-Oriented Programming, Systems, Languages and Applications",
+	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2015",
 	"dblpkey": "conf/oopsla/BlackshearCS15",
 	"doi": "10.1145/2814270.2814293",
 	"pages": "163-182",
 	"publisher": "ACM",
-	"stemmed": ["select", "control", "flow", "abstract", "via", "jump"],
-	"tag": ["abstraction", "control flow"],
+	"stemmed": [
+		"select",
+		"control",
+		"flow",
+		"abstract",
+		"via",
+		"jump"
+	],
+	"tag": [
+		"abstraction",
+		"control flow"
+	],
 	"title": "Selective control-flow abstraction via jumping",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

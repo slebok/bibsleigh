@@ -1,6 +1,11 @@
 {
-	"author": ["Khaled Saab", "Naim Ben Hamida", "Bozena Kaminska"],
-	"booktitle": "DATE",
+	"author": [
+		"Khaled Saab",
+		"Naim Ben Hamida",
+		"Bozena Kaminska"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/SaabHK00",
 	"doi": "10.1109/DATE.2000.840855",
@@ -8,8 +13,21 @@
 	"pages": "650-656",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["parametr", "fault", "simul", "and", "test", "vector", "generat"],
-	"tag": ["fault", "generative", "parametricity", "simulation"],
+	"stemmed": [
+		"parametr",
+		"fault",
+		"simul",
+		"and",
+		"test",
+		"vector",
+		"generat"
+	],
+	"tag": [
+		"fault",
+		"generative",
+		"parametricity",
+		"simulation"
+	],
 	"title": "Parametric Fault Simulation and Test Vector Generation",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,14 +1,33 @@
 {
-	"author": ["Mahesh V. Joshi", "Ramesh C. Agarwal", "Vipin Kumar"],
-	"booktitle": "KDD",
+	"author": [
+		"Mahesh V. Joshi",
+		"Ramesh C. Agarwal",
+		"Vipin Kumar"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/JoshiAK02",
 	"doi": "10.1145/775047.775092",
 	"ee": "http://doi.acm.org/10.1145/775047.775092",
 	"pages": "297-306",
 	"publisher": "ACM",
-	"stemmed": ["predict", "rare", "class", "can", "boost", "make", "ani", "weak", "learner", "strong"],
-	"tag": ["predict", "question"],
+	"stemmed": [
+		"predict",
+		"rare",
+		"class",
+		"can",
+		"boost",
+		"make",
+		"ani",
+		"weak",
+		"learner",
+		"strong"
+	],
+	"tag": [
+		"predict",
+		"question"
+	],
 	"title": "Predicting rare classes: can boosting make any weak learner strong?",
 	"type": "inproceedings",
 	"venue": "KDD",

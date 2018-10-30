@@ -1,14 +1,35 @@
 {
-	"author": ["Emilio Wuerges", "Rômulo Silva de Oliveira", "Luiz C. V. dos Santos"],
-	"booktitle": "DAC",
+	"author": [
+		"Emilio Wuerges",
+		"Rômulo Silva de Oliveira",
+		"Luiz C. V. dos Santos"
+	],
+	"booktitle": "Proceedings of the 50th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2013",
 	"dblpkey": "conf/dac/WuergesOS13",
 	"doi": "10.1145/2463209.2488915",
 	"ee": "http://doi.acm.org/10.1145/2463209.2488915",
 	"pages": "146:1-146:9",
 	"publisher": "ACM",
-	"stemmed": ["reconcil", "real", "time", "guarante", "and", "energi", "effici", "through", "unlock", "cach", "prefetch"],
-	"tag": ["energy", "performance", "realtime"],
+	"stemmed": [
+		"reconcil",
+		"real",
+		"time",
+		"guarante",
+		"and",
+		"energi",
+		"effici",
+		"through",
+		"unlock",
+		"cach",
+		"prefetch"
+	],
+	"tag": [
+		"energy",
+		"performance",
+		"realtime"
+	],
 	"title": "Reconciling real-time guarantees and energy efficiency through unlocked-cache prefetching",
 	"type": "inproceedings",
 	"venue": "DAC",

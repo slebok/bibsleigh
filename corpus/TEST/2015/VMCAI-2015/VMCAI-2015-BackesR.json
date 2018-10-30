@@ -1,6 +1,10 @@
 {
-	"author": ["Peter Backes", "Jan Reineke"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Peter Backes",
+		"Jan Reineke"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2015",
 	"dblpkey": "conf/vmcai/BackesR15",
 	"doi": "10.1007/978-3-662-46081-8_8",
@@ -10,11 +14,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["analysi", "of", "infinit", "state", "graph", "transform", "system", "by", "cluster", "abstract"],
-	"tag": ["abstraction", "analysis", "clustering", "graph transformation", "infinity"],
+	"stemmed": [
+		"analysi",
+		"of",
+		"infinit",
+		"state",
+		"graph",
+		"transform",
+		"system",
+		"by",
+		"cluster",
+		"abstract"
+	],
+	"tag": [
+		"abstraction",
+		"analysis",
+		"clustering",
+		"graph transformation",
+		"infinity"
+	],
 	"title": "Analysis of Infinite-State Graph Transformation Systems by Cluster Abstraction",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 8931,
+	"volume": "8931",
 	"year": 2015
 }

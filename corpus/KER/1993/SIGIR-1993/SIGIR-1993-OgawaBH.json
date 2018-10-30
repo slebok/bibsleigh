@@ -1,6 +1,11 @@
 {
-	"author": ["Yasushi Ogawa", "Ayako Bessho", "Masako Hirose"],
+	"author": [
+		"Yasushi Ogawa",
+		"Ayako Bessho",
+		"Masako Hirose"
+	],
 	"booktitle": "Proceedings of the 16th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1993/P227.pdf",
 	"crossref": "conf/sigir/93",
 	"dblpkey": "conf/sigir/OgawaBH93",
@@ -8,8 +13,28 @@
 	"ee": "http://doi.acm.org/10.1145/160688.160726",
 	"pages": "227-236",
 	"publisher": "ACM",
-	"stemmed": ["simpl", "word", "string", "as", "compound", "keyword", "an", "index", "and", "rank", "method", "for", "japanes", "text"],
-	"tag": ["keyword", "ranking", "string", "word"],
+	"stemmed": [
+		"simpl",
+		"word",
+		"string",
+		"as",
+		"compound",
+		"keyword",
+		"an",
+		"index",
+		"and",
+		"rank",
+		"method",
+		"for",
+		"japanes",
+		"text"
+	],
+	"tag": [
+		"keyword",
+		"ranking",
+		"string",
+		"word"
+	],
 	"title": "Simple Word Strings as Compound Keywords: An Indexing and Ranking Method for Japanese Texts",
 	"type": "inproceedings",
 	"venue": "SIGIR",

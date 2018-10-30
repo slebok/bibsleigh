@@ -1,14 +1,35 @@
 {
-	"author": ["Kuo-Hua Wang", "Chung-Ming Chan", "Jung-Chang Liu"],
-	"booktitle": "DAC",
+	"author": [
+		"Kuo-Hua Wang",
+		"Chung-Ming Chan",
+		"Jung-Chang Liu"
+	],
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/WangCL09",
 	"doi": "10.1145/1629911.1630016",
 	"ee": "http://doi.acm.org/10.1145/1629911.1630016",
 	"pages": "396-401",
 	"publisher": "ACM",
-	"stemmed": ["simul", "and", "sat", "base", "boolean", "match", "for", "larg", "boolean", "network"],
-	"tag": ["network", "satisfiability", "scalability", "simulation"],
+	"stemmed": [
+		"simul",
+		"and",
+		"sat",
+		"base",
+		"boolean",
+		"match",
+		"for",
+		"larg",
+		"boolean",
+		"network"
+	],
+	"tag": [
+		"network",
+		"satisfiability",
+		"scalability",
+		"simulation"
+	],
 	"title": "Simulation and SAT-based Boolean matching for large Boolean networks",
 	"type": "inproceedings",
 	"venue": "DAC",

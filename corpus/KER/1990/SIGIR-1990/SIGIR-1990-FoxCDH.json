@@ -1,6 +1,12 @@
 {
-	"author": ["Edward A. Fox", "Qi Fan Chen", "Amjad M. Daoud", "Lenwood S. Heath"],
+	"author": [
+		"Edward A. Fox",
+		"Qi Fan Chen",
+		"Amjad M. Daoud",
+		"Lenwood S. Heath"
+	],
 	"booktitle": "Proceedings of the 13th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1990/P279.pdf",
 	"crossref": "conf/sigir/90",
 	"dblpkey": "conf/sigir/FoxCDH90",
@@ -8,8 +14,21 @@
 	"ee": "http://doi.acm.org/10.1145/96749.98233",
 	"pages": "279-311",
 	"publisher": "ACM",
-	"stemmed": ["order", "preserv", "minim", "perfect", "hash", "function", "and", "inform", "retriev"],
-	"tag": ["information retrieval", "order"],
+	"stemmed": [
+		"order",
+		"preserv",
+		"minim",
+		"perfect",
+		"hash",
+		"function",
+		"and",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"information retrieval",
+		"order"
+	],
 	"title": "Order Preserving Minimal Perfect Hash Functions and Information Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

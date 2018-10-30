@@ -1,6 +1,10 @@
 {
-	"author": ["Vlad Ureche", "Eugene Burmako", "Martin Odersky"],
-	"booktitle": "Proceedings of the 29th International Conference on Object Oriented Programming Systems Languages & Applications",
+	"author": [
+		"Vlad Ureche",
+		"Eugene Burmako",
+		"Martin Odersky"
+	],
+	"booktitle": "Proceedings of the 29th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2014",
 	"dblpkey": "conf/oopsla/UrecheBO14",
@@ -8,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/2660193.2660197",
 	"pages": "397-416",
 	"publisher": "ACM",
-	"stemmed": ["late", "data", "layout", "unifi", "data", "represent", "transform"],
-	"tag": ["data transformation", "layout", "representation"],
+	"stemmed": [
+		"late",
+		"data",
+		"layout",
+		"unifi",
+		"data",
+		"represent",
+		"transform"
+	],
+	"tag": [
+		"data transformation",
+		"layout",
+		"representation"
+	],
 	"title": "Late data layout: unifying data representation transformations",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

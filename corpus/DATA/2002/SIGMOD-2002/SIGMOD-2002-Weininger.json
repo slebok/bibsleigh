@@ -1,6 +1,6 @@
 {
 	"author": "Andreas Weininger",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/Weininger02",
@@ -8,8 +8,20 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564754",
 	"pages": "542-545",
 	"publisher": "ACM",
-	"stemmed": ["effici", "execut", "of", "join", "in", "a", "star", "schema"],
-	"tag": ["execution", "performance"],
+	"stemmed": [
+		"effici",
+		"execut",
+		"of",
+		"join",
+		"in",
+		"a",
+		"star",
+		"schema"
+	],
+	"tag": [
+		"execution",
+		"performance"
+	],
 	"title": "Efficient execution of joins in a star schema",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,13 +1,34 @@
 {
-	"author": ["Chih-Ang Chen", "Sandeep K. Gupta"],
-	"booktitle": "DAC",
+	"author": [
+		"Chih-Ang Chen",
+		"Sandeep K. Gupta"
+	],
+	"booktitle": "Proceedings of the 33rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/ChenG96",
 	"doi": "10.1145/240518.240557",
 	"ee": "http://doi.acm.org/10.1145/240518.240557",
 	"pages": "209-214",
 	"publisher": "ACM Press",
-	"stemmed": ["a", "satisfi", "base", "test", "generat", "for", "path", "delay", "fault", "in", "combin", "circut"],
-	"tag": ["fault", "generative", "satisfiability"],
+	"stemmed": [
+		"a",
+		"satisfi",
+		"base",
+		"test",
+		"generat",
+		"for",
+		"path",
+		"delay",
+		"fault",
+		"in",
+		"combin",
+		"circut"
+	],
+	"tag": [
+		"fault",
+		"generative",
+		"satisfiability"
+	],
 	"title": "A Satisfiability-Based Test Generator for Path Delay Faults in Combinational Circuts",
 	"type": "inproceedings",
 	"venue": "DAC",

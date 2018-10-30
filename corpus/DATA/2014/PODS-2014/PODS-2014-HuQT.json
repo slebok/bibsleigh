@@ -1,14 +1,25 @@
 {
-	"author": ["Xiaocheng Hu", "Miao Qiao", "Yufei Tao"],
-	"booktitle": "PODS",
+	"author": [
+		"Xiaocheng Hu",
+		"Miao Qiao",
+		"Yufei Tao"
+	],
+	"booktitle": "Proceedings of the 33rd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2014",
 	"dblpkey": "conf/pods/HuQT14",
 	"doi": "10.1145/2594538.2594545",
 	"ee": "http://doi.acm.org/10.1145/2594538.2594545",
 	"pages": "246-255",
 	"publisher": "ACM",
-	"stemmed": ["independ", "rang", "sampl"],
-	"tag": ["independence"],
+	"stemmed": [
+		"independ",
+		"rang",
+		"sampl"
+	],
+	"tag": [
+		"independence"
+	],
 	"title": "Independent range sampling",
 	"type": "inproceedings",
 	"venue": "PODS",

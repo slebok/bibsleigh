@@ -1,12 +1,30 @@
 {
-	"author": ["John Langford", "Matthias W. Seeger", "Nimrod Megiddo"],
+	"author": [
+		"John Langford",
+		"Matthias W. Seeger",
+		"Nimrod Megiddo"
+	],
 	"booktitle": "Proceedings of the 18th International Conference on Machine Learning",
+	"booktitleshort": "ICML",
 	"crossref": "conf/icml/2001",
 	"dblpkey": "conf/icml/LangfordSM01",
 	"pages": "290-297",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["an", "improv", "predict", "accuraci", "bound", "for", "averag", "classifi"],
-	"tag": ["bound", "classification", "predict"],
+	"stemmed": [
+		"an",
+		"improv",
+		"predict",
+		"accuraci",
+		"bound",
+		"for",
+		"averag",
+		"classifi"
+	],
+	"tag": [
+		"bound",
+		"classification",
+		"predict"
+	],
 	"title": "An Improved Predictive Accuracy Bound for Averaging Classifiers",
 	"type": "inproceedings",
 	"venue": "ICML",

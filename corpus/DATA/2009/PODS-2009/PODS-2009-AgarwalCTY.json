@@ -1,14 +1,26 @@
 {
-	"author": ["Pankaj K. Agarwal", "Siu-Wing Cheng", "Yufei Tao", "Ke Yi"],
-	"booktitle": "PODS",
+	"author": [
+		"Pankaj K. Agarwal",
+		"Siu-Wing Cheng",
+		"Yufei Tao",
+		"Ke Yi"
+	],
+	"booktitle": "Proceedings of the 28th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2009",
 	"dblpkey": "conf/pods/AgarwalCTY09",
 	"doi": "10.1145/1559795.1559816",
 	"ee": "http://doi.acm.org/10.1145/1559795.1559816",
 	"pages": "137-146",
 	"publisher": "ACM",
-	"stemmed": ["index", "uncertain", "data"],
-	"tag": ["nondeterminism"],
+	"stemmed": [
+		"index",
+		"uncertain",
+		"data"
+	],
+	"tag": [
+		"nondeterminism"
+	],
 	"title": "Indexing uncertain data",
 	"type": "inproceedings",
 	"venue": "PODS",

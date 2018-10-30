@@ -1,6 +1,11 @@
 {
-	"author": ["Edward A. Fox", "Qi Fan Chen", "Lenwood S. Heath"],
+	"author": [
+		"Edward A. Fox",
+		"Qi Fan Chen",
+		"Lenwood S. Heath"
+	],
 	"booktitle": "Proceedings of the 15th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1992/P266.pdf",
 	"crossref": "conf/sigir/92",
 	"dblpkey": "conf/sigir/FoxCH92",
@@ -8,8 +13,21 @@
 	"ee": "http://doi.acm.org/10.1145/133160.133209",
 	"pages": "266-273",
 	"publisher": "ACM",
-	"stemmed": ["a", "faster", "algorithm", "for", "construct", "minim", "perfect", "hash", "function"],
-	"tag": ["algorithm", "performance"],
+	"stemmed": [
+		"a",
+		"faster",
+		"algorithm",
+		"for",
+		"construct",
+		"minim",
+		"perfect",
+		"hash",
+		"function"
+	],
+	"tag": [
+		"algorithm",
+		"performance"
+	],
 	"title": "A Faster Algorithm for Constructing Minimal Perfect Hash Functions",
 	"type": "inproceedings",
 	"venue": "SIGIR",

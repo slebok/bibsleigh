@@ -1,6 +1,10 @@
 {
-	"author": ["Viktor Kuncak", "Martin C. Rinard"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Viktor Kuncak",
+		"Martin C. Rinard"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2004",
 	"dblpkey": "conf/vmcai/KuncakR04",
 	"doi": "10.1007/978-3-540-24622-0_7",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["boolean", "algebra", "of", "shape", "analysi", "constraint"],
-	"tag": ["algebra", "analysis", "constraints"],
+	"stemmed": [
+		"boolean",
+		"algebra",
+		"of",
+		"shape",
+		"analysi",
+		"constraint"
+	],
+	"tag": [
+		"algebra",
+		"analysis",
+		"constraints"
+	],
 	"title": "Boolean Algebra of Shape Analysis Constraints",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2937,
+	"volume": "2937",
 	"year": 2004
 }

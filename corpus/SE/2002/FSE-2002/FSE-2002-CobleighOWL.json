@@ -1,7 +1,12 @@
 {
-	"author": ["Jamieson M. Cobleigh", "Leon J. Osterweil", "Alexander E. Wise", "Barbara Staudt Lerner"],
+	"author": [
+		"Jamieson M. Cobleigh",
+		"Leon J. Osterweil",
+		"Alexander E. Wise",
+		"Barbara Staudt Lerner"
+	],
 	"booktitle": "Proceedings of the 10th Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2002",
 	"dblpkey": "conf/sigsoft/CobleighOWL02",
 	"doi": "10.1145/587051.587076",
@@ -9,8 +14,22 @@
 	"isbn": "1-58113-514-9",
 	"pages": "159-165",
 	"publisher": "ACM",
-	"stemmed": ["contain", "unit", "a", "hierarch", "compos", "architectur", "for", "adapt", "system"],
-	"tag": ["adaptation", "architecture", "composition"],
+	"stemmed": [
+		"contain",
+		"unit",
+		"a",
+		"hierarch",
+		"compos",
+		"architectur",
+		"for",
+		"adapt",
+		"system"
+	],
+	"tag": [
+		"adaptation",
+		"architecture",
+		"composition"
+	],
 	"title": "Containment units: a hierarchically composable architecture for adaptive systems",
 	"type": "inproceedings",
 	"venue": "FSE",

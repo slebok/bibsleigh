@@ -1,6 +1,11 @@
 {
-	"author": ["Olga Grinchtein", "Martin Leucker", "Nir Piterman"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Olga Grinchtein",
+		"Martin Leucker",
+		"Nir Piterman"
+	],
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/GrinchteinLP06",
 	"doi": "10.1007/11814771_40",
@@ -10,11 +15,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["infer", "network", "invari", "automat"],
-	"tag": ["automation", "invariant", "network"],
+	"stemmed": [
+		"infer",
+		"network",
+		"invari",
+		"automat"
+	],
+	"tag": [
+		"automation",
+		"invariant",
+		"network"
+	],
 	"title": "Inferring Network Invariants Automatically",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

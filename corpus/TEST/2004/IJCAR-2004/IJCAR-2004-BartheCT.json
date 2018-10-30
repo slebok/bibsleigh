@@ -1,6 +1,11 @@
 {
-	"author": ["Gilles Barthe", "Jan Cederquist", "Sabrina Tarento"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Gilles Barthe",
+		"Jan Cederquist",
+		"Sabrina Tarento"
+	],
+	"booktitle": "Proceedings of the Second International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2004",
 	"dblpkey": "conf/cade/BartheCT04",
 	"doi": "10.1007/978-3-540-25984-8_29",
@@ -10,11 +15,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "machin", "check", "formal", "of", "the", "generic", "model", "and", "the", "random", "oracl", "model"],
-	"tag": ["formal method", "random"],
+	"stemmed": [
+		"a",
+		"machin",
+		"check",
+		"formal",
+		"of",
+		"the",
+		"generic",
+		"model",
+		"and",
+		"the",
+		"random",
+		"oracl",
+		"model"
+	],
+	"tag": [
+		"formal method",
+		"random"
+	],
 	"title": "A Machine-Checked Formalization of the Generic Model and the Random Oracle Model",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 3097,
+	"volume": "3097",
 	"year": 2004
 }

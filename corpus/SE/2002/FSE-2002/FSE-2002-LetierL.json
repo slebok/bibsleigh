@@ -1,7 +1,10 @@
 {
-	"author": ["Emmanuel Letier", "Axel van Lamsweerde"],
+	"author": [
+		"Emmanuel Letier",
+		"Axel van Lamsweerde"
+	],
 	"booktitle": "Proceedings of the 10th Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2002",
 	"dblpkey": "conf/sigsoft/LetierL02",
 	"doi": "10.1145/587051.587070",
@@ -9,8 +12,18 @@
 	"isbn": "1-58113-514-9",
 	"pages": "119-128",
 	"publisher": "ACM",
-	"stemmed": ["deriv", "oper", "softwar", "specif", "from", "system", "goal"],
-	"tag": ["specification"],
+	"stemmed": [
+		"deriv",
+		"oper",
+		"softwar",
+		"specif",
+		"from",
+		"system",
+		"goal"
+	],
+	"tag": [
+		"specification"
+	],
 	"title": "Deriving operational software specifications from system goals",
 	"type": "inproceedings",
 	"venue": "FSE",

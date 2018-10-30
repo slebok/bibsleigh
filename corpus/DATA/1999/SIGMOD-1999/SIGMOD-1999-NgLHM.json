@@ -1,16 +1,43 @@
 {
-	"author": ["Raymond T. Ng", "Laks V. S. Lakshmanan", "Jiawei Han", "Teresa Mah"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Raymond T. Ng",
+		"Laks V. S. Lakshmanan",
+		"Jiawei Han",
+		"Teresa Mah"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "DiSC2_1/out/papers/sigmod/exploratoryminiralaj.pdf",
-	"cite": ["conf/sigmod/AgrawalIS93", "conf/sigmod/BrinMS97", "journals/debu/Chaudhuri98", "journals/cacm/ImielinskiM96", "conf/sigmod/NgLHP98", "conf/sigmod/SarawagiTA98", "journals/sigmod/SilberschatzZ97", "conf/sigmod/TsurUACMNR98"],
+	"cite": [
+		"conf/sigmod/AgrawalIS93",
+		"conf/sigmod/BrinMS97",
+		"journals/debu/Chaudhuri98",
+		"journals/cacm/ImielinskiM96",
+		"conf/sigmod/NgLHP98",
+		"conf/sigmod/SarawagiTA98",
+		"journals/sigmod/SilberschatzZ97",
+		"conf/sigmod/TsurUACMNR98"
+	],
 	"crossref": "conf/sigmod/99",
 	"dblpkey": "conf/sigmod/NgLHM99",
 	"doi": "10.1145/304182.304575",
 	"ee": "http://doi.acm.org/10.1145/304182.304575",
 	"pages": "556-558",
 	"publisher": "ACM Press",
-	"stemmed": ["exploratori", "mine", "via", "constrain", "frequent", "set", "queri"],
-	"tag": ["mining", "query", "set"],
+	"stemmed": [
+		"exploratori",
+		"mine",
+		"via",
+		"constrain",
+		"frequent",
+		"set",
+		"queri"
+	],
+	"tag": [
+		"mining",
+		"query",
+		"set"
+	],
 	"title": "Exploratory Mining via Constrained Frequent Set Queries",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

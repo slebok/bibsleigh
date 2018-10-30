@@ -1,6 +1,10 @@
 {
-	"author": ["Jeff Conklin", "Michael L. Begeman"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Jeff Conklin",
+		"Michael L. Begeman"
+	],
+	"booktitle": "Proceedings of the First Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1987/P247.pdf",
 	"crossref": "conf/ht/87",
 	"dblpkey": "conf/ht/ConklinB87",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/317426.317444",
 	"pages": "247-251",
 	"publisher": "ACM",
-	"stemmed": ["gibi", "a", "hypertext", "tool", "for", "team", "design", "deliber"],
-	"tag": ["design", "hypermedia", "named"],
+	"stemmed": [
+		"gibi",
+		"a",
+		"hypertext",
+		"tool",
+		"for",
+		"team",
+		"design",
+		"deliber"
+	],
+	"tag": [
+		"design",
+		"hypermedia",
+		"named"
+	],
 	"title": "gIBIS: A Hypertext Tool for Team Design Deliberation",
 	"type": "inproceedings",
 	"venue": "HT",

@@ -1,15 +1,40 @@
 {
-	"author": ["Stefan Tai", "Thomas A. Mikalsen", "Isabelle Rouvellou", "Stanley M. Sutton Jr."],
-	"booktitle": "EDOC",
+	"author": [
+		"Stefan Tai",
+		"Thomas A. Mikalsen",
+		"Isabelle Rouvellou",
+		"Stanley M. Sutton Jr."
+	],
+	"booktitle": "Proceedings of the Fifth International Enterprise Distributed Object Computing Conference",
+	"booktitleshort": "EDOC",
 	"crossref": "conf/edoc/2001",
 	"dblpkey": "conf/edoc/TaiMRS01",
 	"doi": "10.1109/EDOC.2001.950427",
-	"ee": ["http://dx.doi.org/10.1109/EDOC.2001.950427", "http://doi.ieeecomputersociety.org/10.1109/EDOC.2001.950427"],
+	"ee": [
+		"http://dx.doi.org/10.1109/EDOC.2001.950427",
+		"http://doi.ieeecomputersociety.org/10.1109/EDOC.2001.950427"
+	],
 	"pages": "105-",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["depend", "sphere", "a", "global", "transact", "context", "for", "distribut", "object", "and", "messag"],
-	"tag": ["distributed", "named", "transaction"],
+	"stemmed": [
+		"depend",
+		"sphere",
+		"a",
+		"global",
+		"transact",
+		"context",
+		"for",
+		"distribut",
+		"object",
+		"and",
+		"messag"
+	],
+	"tag": [
+		"distributed",
+		"named",
+		"transaction"
+	],
 	"title": "Dependency-Spheres: A Global Transaction Context for Distributed Objects and Messages",
 	"type": "inproceedings",
 	"venue": "EDOC",

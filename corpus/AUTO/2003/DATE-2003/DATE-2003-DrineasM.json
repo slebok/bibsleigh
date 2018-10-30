@@ -1,16 +1,45 @@
 {
-	"acmid": 1022902,
-	"author": ["Petros Drineas", "Yiorgos Makris"],
-	"booktitle": "DATE",
+	"acmid": "1022902",
+	"author": [
+		"Petros Drineas",
+		"Yiorgos Makris"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2003",
 	"dblpkey": "conf/date/DrineasM03",
 	"doi": "10.1109/DATE.2003.10091",
-	"ee": ["http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10091", "http://dl.acm.org/citation.cfm?id=1022902"],
+	"ee": [
+		"http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10091",
+		"http://dl.acm.org/citation.cfm?id=1022902"
+	],
 	"pages": "11164-11167",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["non", "intrus", "concurr", "error", "detect", "in", "fsms", "through", "state", "output", "compact", "and", "monitor", "via", "pariti", "tree"],
-	"tag": ["concurrent", "detection", "fault", "monitoring"],
+	"stemmed": [
+		"non",
+		"intrus",
+		"concurr",
+		"error",
+		"detect",
+		"in",
+		"fsms",
+		"through",
+		"state",
+		"output",
+		"compact",
+		"and",
+		"monitor",
+		"via",
+		"pariti",
+		"tree"
+	],
+	"tag": [
+		"concurrent",
+		"detection",
+		"fault",
+		"monitoring"
+	],
 	"title": "Non-Intrusive Concurrent Error Detection in FSMs through State/Output Compaction and Monitoring via Parity Trees",
 	"type": "inproceedings",
 	"venue": "DATE",

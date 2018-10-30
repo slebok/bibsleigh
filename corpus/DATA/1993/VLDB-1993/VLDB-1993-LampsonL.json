@@ -1,14 +1,42 @@
 {
-	"author": ["Butler W. Lampson", "David B. Lomet"],
-	"booktitle": "VLDB",
-	"cite": ["...", "...", "books/mk/GrayR93", "...", "conf/pdis/Lomet93", "conf/sigmod/LometS89", "...", "conf/podc/MohanL83", "journals/tods/MohanLO86", "conf/icde/SamarasBCM93"],
+	"author": [
+		"Butler W. Lampson",
+		"David B. Lomet"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"...",
+		"books/mk/GrayR93",
+		"...",
+		"conf/pdis/Lomet93",
+		"conf/sigmod/LometS89",
+		"...",
+		"conf/podc/MohanL83",
+		"journals/tods/MohanLO86",
+		"conf/icde/SamarasBCM93"
+	],
 	"crossref": "conf/vldb/93",
 	"dblpkey": "conf/vldb/LampsonL93",
 	"ee": "http://www.vldb.org/conf/1993/P630.PDF",
 	"pages": "630-640",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["a", "new", "presum", "commit", "optim", "for", "two", "phase", "commit"],
-	"tag": ["commit", "optimisation"],
+	"stemmed": [
+		"a",
+		"new",
+		"presum",
+		"commit",
+		"optim",
+		"for",
+		"two",
+		"phase",
+		"commit"
+	],
+	"tag": [
+		"commit",
+		"optimisation"
+	],
 	"title": "A New Presumed Commit Optimization for Two Phase Commit",
 	"type": "inproceedings",
 	"venue": "VLDB",

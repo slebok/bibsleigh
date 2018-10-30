@@ -1,13 +1,33 @@
 {
-	"author": ["Hsiao-Pin Su", "Allen C.-H. Wu", "Youn-Long Lin"],
-	"booktitle": "DAC",
+	"author": [
+		"Hsiao-Pin Su",
+		"Allen C.-H. Wu",
+		"Youn-Long Lin"
+	],
+	"booktitle": "Proceedings of the 36th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/SuWL99",
 	"doi": "10.1145/309847.309926",
 	"ee": "http://doi.acm.org/10.1145/309847.309926",
 	"pages": "262-267",
 	"publisher": "ACM Press",
-	"stemmed": ["a", "time", "driven", "soft", "macro", "resynthesi", "method", "in", "interact", "with", "chip", "floorplan"],
-	"tag": ["interactive"],
+	"stemmed": [
+		"a",
+		"time",
+		"driven",
+		"soft",
+		"macro",
+		"resynthesi",
+		"method",
+		"in",
+		"interact",
+		"with",
+		"chip",
+		"floorplan"
+	],
+	"tag": [
+		"interactive"
+	],
 	"title": "A Timing-Driven Soft-Macro Resynthesis Method in Interaction with Chip Floorplanning",
 	"type": "inproceedings",
 	"venue": "DAC",

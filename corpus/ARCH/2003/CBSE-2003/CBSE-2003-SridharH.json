@@ -1,10 +1,30 @@
 {
-	"address": ["Portland", "Oregon", "USA"],
-	"author": ["Nigamanth Sridhar", "Jason O. Hallstrom"],
+	"address": [
+		"Portland",
+		"Oregon",
+		"USA"
+	],
+	"author": [
+		"Nigamanth Sridhar",
+		"Jason O. Hallstrom"
+	],
 	"booktitle": "Proceedings of the Sixth ICSE Workshop on Component-Based Software Engineering: Automated Reasoning and Prediction",
-	"pages": 11,
-	"stemmed": ["generat", "configur", "contain", "for", "compon", "base", "softwar"],
-	"tag": ["component", "configuration management", "generative"],
+	"booktitleshort": "CBSE",
+	"pages": "11",
+	"stemmed": [
+		"generat",
+		"configur",
+		"contain",
+		"for",
+		"compon",
+		"base",
+		"softwar"
+	],
+	"tag": [
+		"component",
+		"configuration management",
+		"generative"
+	],
 	"title": "Generating Configurable Containers for Component-Based Software",
 	"type": "inproceedings",
 	"venue": "CBSE",

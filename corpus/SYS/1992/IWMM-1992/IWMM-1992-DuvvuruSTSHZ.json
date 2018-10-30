@@ -1,6 +1,14 @@
 {
-	"author": ["S. Duvvuru", "R. Sundararajan", "Evan Tick", "A. V. S. Sastry", "L. Hansen", "X. Zhong"],
-	"booktitle": "IWMM",
+	"author": [
+		"S. Duvvuru",
+		"R. Sundararajan",
+		"Evan Tick",
+		"A. V. S. Sastry",
+		"L. Hansen",
+		"X. Zhong"
+	],
+	"booktitle": "Proceedings of the First International Workshop on Memory Management",
+	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
 	"dblpkey": "conf/iwmm/DuvvuruSTSHZ92",
 	"doi": "10.1007/BFb0017195",
@@ -10,11 +18,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "compil", "time", "memori", "reus", "scheme", "for", "concurr", "logic", "program"],
-	"tag": ["concurrent", "logic programming", "source code"],
+	"stemmed": [
+		"a",
+		"compil",
+		"time",
+		"memori",
+		"reus",
+		"scheme",
+		"for",
+		"concurr",
+		"logic",
+		"program"
+	],
+	"tag": [
+		"concurrent",
+		"logic programming",
+		"source code"
+	],
 	"title": "A Compile-Time Memory-Reuse Scheme for Concurrent Logic Programs",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 637,
+	"volume": "637",
 	"year": 1992
 }

@@ -1,6 +1,7 @@
 {
 	"author": "Rotem Oshman",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the 10th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2009",
 	"dblpkey": "conf/vmcai/Oshman09",
 	"doi": "10.1007/978-3-540-93900-9_23",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "automata", "theoret", "dynam", "complet", "criterion", "for", "bound", "model", "check"],
-	"tag": ["bound", "model checking"],
+	"stemmed": [
+		"an",
+		"automata",
+		"theoret",
+		"dynam",
+		"complet",
+		"criterion",
+		"for",
+		"bound",
+		"model",
+		"check"
+	],
+	"tag": [
+		"bound",
+		"model checking"
+	],
 	"title": "An Automata-Theoretic Dynamic Completeness Criterion for Bounded Model-Checking",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 5403,
+	"volume": "5403",
 	"year": 2009
 }

@@ -1,14 +1,37 @@
 {
-	"author": ["Luca Gaetano Amarù", "Pierre-Emmanuel Gaillardon", "Giovanni De Micheli"],
-	"booktitle": "DAC",
+	"author": [
+		"Luca Gaetano Amarù",
+		"Pierre-Emmanuel Gaillardon",
+		"Giovanni De Micheli"
+	],
+	"booktitle": "Proceedings of the 50th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2013",
 	"dblpkey": "conf/dac/AmaruGM13",
 	"doi": "10.1145/2463209.2488792",
 	"ee": "http://doi.acm.org/10.1145/2463209.2488792",
 	"pages": "47:1-47:6",
 	"publisher": "ACM",
-	"stemmed": ["bds", "maj", "a", "bdd", "base", "logic", "synthesi", "tool", "exploit", "major", "logic", "decomposit"],
-	"tag": ["composition", "logic", "named", "synthesis"],
+	"stemmed": [
+		"bds",
+		"maj",
+		"a",
+		"bdd",
+		"base",
+		"logic",
+		"synthesi",
+		"tool",
+		"exploit",
+		"major",
+		"logic",
+		"decomposit"
+	],
+	"tag": [
+		"composition",
+		"logic",
+		"named",
+		"synthesis"
+	],
 	"title": "BDS-MAJ: a BDD-based logic synthesis tool exploiting majority logic decomposition",
 	"type": "inproceedings",
 	"venue": "DAC",

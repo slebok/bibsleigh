@@ -1,14 +1,28 @@
 {
-	"author": ["Kishore Kumar Pusukuri", "Rajiv Gupta", "Laxmi Narayan Bhuyan"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Kishore Kumar Pusukuri",
+		"Rajiv Gupta",
+		"Laxmi Narayan Bhuyan"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/PusukuriGB14",
 	"doi": "10.1145/2555243.2555273",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555273",
 	"pages": "369-370",
 	"publisher": "ACM",
-	"stemmed": ["lock", "content", "awar", "thread", "migrat"],
-	"tag": ["concurrent", "thread"],
+	"stemmed": [
+		"lock",
+		"content",
+		"awar",
+		"thread",
+		"migrat"
+	],
+	"tag": [
+		"concurrent",
+		"thread"
+	],
 	"title": "Lock contention aware thread migrations",
 	"type": "inproceedings",
 	"venue": "PPoPP",

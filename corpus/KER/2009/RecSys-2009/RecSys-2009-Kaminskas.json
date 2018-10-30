@@ -1,14 +1,23 @@
 {
 	"author": "Marius Kaminskas",
-	"booktitle": "RecSys",
+	"booktitle": "Proceedings of the Third Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2009",
 	"dblpkey": "conf/recsys/Kaminskas09",
 	"doi": "10.1145/1639714.1639800",
 	"ee": "http://doi.acm.org/10.1145/1639714.1639800",
 	"pages": "405-408",
 	"publisher": "ACM",
-	"stemmed": ["match", "inform", "content", "with", "music"],
-	"tag": ["music"],
+	"stemmed": [
+		"match",
+		"inform",
+		"content",
+		"with",
+		"music"
+	],
+	"tag": [
+		"music"
+	],
 	"title": "Matching information content with music",
 	"type": "inproceedings",
 	"venue": "RecSys",

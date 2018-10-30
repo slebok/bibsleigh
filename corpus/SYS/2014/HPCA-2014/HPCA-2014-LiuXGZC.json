@@ -1,6 +1,13 @@
 {
-	"author": ["Yutao Liu", "Yubin Xia", "Haibing Guan", "Binyu Zang", "Haibo Chen"],
-	"booktitle": "HPCA",
+	"author": [
+		"Yutao Liu",
+		"Yubin Xia",
+		"Haibing Guan",
+		"Binyu Zang",
+		"Haibo Chen"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/LiuXGZC14",
 	"doi": "10.1109/HPCA.2014.6835951",
@@ -8,8 +15,26 @@
 	"pages": "416-427",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["concurr", "and", "consist", "virtual", "machin", "introspect", "with", "hardwar", "transact", "memori"],
-	"tag": ["concurrent", "consistency", "hardware", "memory management", "transaction", "virtual machine"],
+	"stemmed": [
+		"concurr",
+		"and",
+		"consist",
+		"virtual",
+		"machin",
+		"introspect",
+		"with",
+		"hardwar",
+		"transact",
+		"memori"
+	],
+	"tag": [
+		"concurrent",
+		"consistency",
+		"hardware",
+		"memory management",
+		"transaction",
+		"virtual machine"
+	],
 	"title": "Concurrent and consistent virtual machine introspection with hardware transactional memory",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,14 +1,36 @@
 {
-	"author": ["Jayadev Acharya", "Ilias Diakonikolas", "Chinmay Hegde", "Jerry Zheng Li", "Ludwig Schmidt"],
-	"booktitle": "PODS",
+	"author": [
+		"Jayadev Acharya",
+		"Ilias Diakonikolas",
+		"Chinmay Hegde",
+		"Jerry Zheng Li",
+		"Ludwig Schmidt"
+	],
+	"booktitle": "Proceedings of the 34th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2015",
 	"dblpkey": "conf/pods/AcharyaDHLS15",
 	"doi": "10.1145/2745754.2745772",
 	"ee": "http://doi.acm.org/10.1145/2745754.2745772",
 	"pages": "249-263",
 	"publisher": "ACM",
-	"stemmed": ["fast", "and", "near", "optim", "algorithm", "for", "approxim", "distribut", "by", "histogram"],
-	"tag": ["algorithm", "approximate", "performance"],
+	"stemmed": [
+		"fast",
+		"and",
+		"near",
+		"optim",
+		"algorithm",
+		"for",
+		"approxim",
+		"distribut",
+		"by",
+		"histogram"
+	],
+	"tag": [
+		"algorithm",
+		"approximate",
+		"performance"
+	],
 	"title": "Fast and Near-Optimal Algorithms for Approximating Distributions by Histograms",
 	"type": "inproceedings",
 	"venue": "PODS",

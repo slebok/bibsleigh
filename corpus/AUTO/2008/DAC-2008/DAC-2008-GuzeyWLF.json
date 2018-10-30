@@ -1,14 +1,34 @@
 {
-	"author": ["Onur Guzey", "Li-C. Wang", "Jeremy R. Levitt", "Harry Foster"],
-	"booktitle": "DAC",
+	"author": [
+		"Onur Guzey",
+		"Li-C. Wang",
+		"Jeremy R. Levitt",
+		"Harry Foster"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/GuzeyWLF08",
 	"doi": "10.1145/1391469.1391536",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391536",
 	"pages": "262-267",
 	"publisher": "ACM",
-	"stemmed": ["function", "test", "select", "base", "on", "unsupervis", "support", "vector", "analysi"],
-	"tag": ["analysis", "functional", "testing"],
+	"stemmed": [
+		"function",
+		"test",
+		"select",
+		"base",
+		"on",
+		"unsupervis",
+		"support",
+		"vector",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"functional",
+		"testing"
+	],
 	"title": "Functional test selection based on unsupervised support vector analysis",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,13 +1,31 @@
 {
-	"author": ["Chenyi Xia", "Hongjun Lu", "Beng Chin Ooi", "Jin Hu"],
-	"booktitle": "VLDB",
+	"author": [
+		"Chenyi Xia",
+		"Hongjun Lu",
+		"Beng Chin Ooi",
+		"Jin Hu"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/XiaLOH04",
 	"ee": "http://www.vldb.org/conf/2004/RS20P2.PDF",
 	"pages": "756-767",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["gorder", "an", "effici", "method", "for", "knn", "join", "process"],
-	"tag": ["named", "performance"],
+	"stemmed": [
+		"gorder",
+		"an",
+		"effici",
+		"method",
+		"for",
+		"knn",
+		"join",
+		"process"
+	],
+	"tag": [
+		"named",
+		"performance"
+	],
 	"title": "Gorder: An Efficient Method for KNN Join Processing",
 	"type": "inproceedings",
 	"venue": "VLDB",

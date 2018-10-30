@@ -1,14 +1,34 @@
 {
-	"author": ["Vineeth Veetil", "Dennis Sylvester", "David Blaauw"],
-	"booktitle": "DAC",
+	"author": [
+		"Vineeth Veetil",
+		"Dennis Sylvester",
+		"David Blaauw"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/VeetilSB08",
 	"doi": "10.1145/1391469.1391645",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391645",
 	"pages": "676-681",
 	"publisher": "ACM",
-	"stemmed": ["effici", "mont", "carlo", "base", "increment", "statist", "time", "analysi"],
-	"tag": ["analysis", "incremental", "monte carlo", "performance", "statistics"],
+	"stemmed": [
+		"effici",
+		"mont",
+		"carlo",
+		"base",
+		"increment",
+		"statist",
+		"time",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"incremental",
+		"monte carlo",
+		"performance",
+		"statistics"
+	],
 	"title": "Efficient Monte Carlo based incremental statistical timing analysis",
 	"type": "inproceedings",
 	"venue": "DAC",

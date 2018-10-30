@@ -1,14 +1,37 @@
 {
-	"author": ["Colin J. Ihrig", "Rami G. Melhem", "Alex K. Jones"],
-	"booktitle": "DAC",
+	"author": [
+		"Colin J. Ihrig",
+		"Rami G. Melhem",
+		"Alex K. Jones"
+	],
+	"booktitle": "Proceedings of the 47th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2010",
 	"dblpkey": "conf/dac/IhrigMJ10",
 	"doi": "10.1145/1837274.1837383",
 	"ee": "http://doi.acm.org/10.1145/1837274.1837383",
 	"pages": "431-436",
 	"publisher": "ACM",
-	"stemmed": ["autom", "model", "and", "emul", "of", "interconnect", "design", "for", "mani", "core", "chip", "multiprocessor"],
-	"tag": ["automation", "design", "manycore", "modelling"],
+	"stemmed": [
+		"autom",
+		"model",
+		"and",
+		"emul",
+		"of",
+		"interconnect",
+		"design",
+		"for",
+		"mani",
+		"core",
+		"chip",
+		"multiprocessor"
+	],
+	"tag": [
+		"automation",
+		"design",
+		"manycore",
+		"modelling"
+	],
 	"title": "Automated modeling and emulation of interconnect designs for many-core chip multiprocessors",
 	"type": "inproceedings",
 	"venue": "DAC",

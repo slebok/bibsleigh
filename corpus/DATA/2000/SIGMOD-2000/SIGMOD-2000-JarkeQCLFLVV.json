@@ -1,16 +1,44 @@
 {
-	"author": ["Matthias Jarke", "Christoph Quix", "Diego Calvanese", "Maurizio Lenzerini", "Enrico Franconi", "Spyros Ligoudistianos", "Panos Vassiliadis", "Yannis Vassiliou"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Matthias Jarke",
+		"Christoph Quix",
+		"Diego Calvanese",
+		"Maurizio Lenzerini",
+		"Enrico Franconi",
+		"Spyros Ligoudistianos",
+		"Panos Vassiliadis",
+		"Yannis Vassiliou"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
-	"cite": ["...", "...", "journals/is/JarkeJQV99", "conf/vldb/TheodoratosS97", "conf/ssdbm/Vassiliadis98"],
+	"cite": [
+		"...",
+		"...",
+		"journals/is/JarkeJQV99",
+		"conf/vldb/TheodoratosS97",
+		"conf/ssdbm/Vassiliadis98"
+	],
 	"crossref": "conf/sigmod/2000",
 	"dblpkey": "conf/sigmod/JarkeQCLFLVV00",
 	"doi": "10.1145/342009.336570",
 	"ee": "http://doi.acm.org/10.1145/342009.336570",
-	"pages": 591,
+	"pages": "591",
 	"publisher": "ACM",
-	"stemmed": ["concept", "base", "design", "of", "data", "warehous", "the", "dwq", "demonstr"],
-	"tag": ["concept", "design"],
+	"stemmed": [
+		"concept",
+		"base",
+		"design",
+		"of",
+		"data",
+		"warehous",
+		"the",
+		"dwq",
+		"demonstr"
+	],
+	"tag": [
+		"concept",
+		"design"
+	],
 	"title": "Concept Based Design of Data Warehouses: The DWQ Demonstrators",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,13 +1,28 @@
 {
-	"author": ["Xingquan Zhu", "Xindong Wu", "Qijun Chen"],
+	"author": [
+		"Xingquan Zhu",
+		"Xindong Wu",
+		"Qijun Chen"
+	],
 	"booktitle": "Proceedings of the 20th International Conference on Machine Learning",
+	"booktitleshort": "ICML",
 	"crossref": "conf/icml/2003",
 	"dblpkey": "conf/icml/ZhuWC03",
 	"ee": "http://www.aaai.org/Library/ICML/2003/icml03-119.php",
 	"pages": "920-927",
 	"publisher": "AAAI Press",
-	"stemmed": ["elimin", "class", "nois", "in", "larg", "dataset"],
-	"tag": ["dataset", "scalability"],
+	"stemmed": [
+		"elimin",
+		"class",
+		"nois",
+		"in",
+		"larg",
+		"dataset"
+	],
+	"tag": [
+		"dataset",
+		"scalability"
+	],
 	"title": "Eliminating Class Noise in Large Datasets",
 	"type": "inproceedings",
 	"venue": "ICML",

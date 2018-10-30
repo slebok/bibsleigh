@@ -1,14 +1,35 @@
 {
-	"author": ["Adrian Alin Lifa", "Petru Eles", "Zebo Peng"],
-	"booktitle": "DAC",
+	"author": [
+		"Adrian Alin Lifa",
+		"Petru Eles",
+		"Zebo Peng"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/LifaEP11",
 	"doi": "10.1145/2024724.2024812",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024812",
 	"pages": "369-374",
 	"publisher": "ACM",
-	"stemmed": ["perform", "optim", "of", "error", "detect", "base", "on", "specul", "reconfigur"],
-	"tag": ["configuration management", "detection", "fault", "optimisation", "performance"],
+	"stemmed": [
+		"perform",
+		"optim",
+		"of",
+		"error",
+		"detect",
+		"base",
+		"on",
+		"specul",
+		"reconfigur"
+	],
+	"tag": [
+		"configuration management",
+		"detection",
+		"fault",
+		"optimisation",
+		"performance"
+	],
 	"title": "Performance optimization of error detection based on speculative reconfiguration",
 	"type": "inproceedings",
 	"venue": "DAC",

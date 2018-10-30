@@ -1,6 +1,10 @@
 {
-	"author": ["Kyungmin Bae", "José Meseguer"],
-	"booktitle": "WRLA",
+	"author": [
+		"Kyungmin Bae",
+		"José Meseguer"
+	],
+	"booktitle": "Revised Selected Papers of the 10th International Workshop on Rewriting Logic and its Applications",
+	"booktitleshort": "WRLA",
 	"crossref": "conf/wrla/2014",
 	"dblpkey": "conf/wrla/BaeM14",
 	"doi": "10.1007/978-3-319-12904-4_6",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["infinit", "state", "model", "check", "of", "ltlr", "formula", "use", "narrow"],
-	"tag": ["infinity", "model checking", "using"],
+	"stemmed": [
+		"infinit",
+		"state",
+		"model",
+		"check",
+		"of",
+		"ltlr",
+		"formula",
+		"use",
+		"narrow"
+	],
+	"tag": [
+		"infinity",
+		"model checking",
+		"using"
+	],
 	"title": "Infinite-State Model Checking of LTLR Formulas Using Narrowing",
 	"type": "inproceedings",
 	"venue": "WRLA",
-	"volume": 8663,
+	"volume": "8663",
 	"year": 2014
 }

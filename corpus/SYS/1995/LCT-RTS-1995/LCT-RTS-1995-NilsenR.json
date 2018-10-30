@@ -1,6 +1,9 @@
 {
-	"author": ["Kelvin D. Nilsen", "Bernt Rygg"],
-	"booktitle": "Workshop on Languages, Compilers, & Tools for Real-Time Systems",
+	"author": [
+		"Kelvin D. Nilsen",
+		"Bernt Rygg"
+	],
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Real-Time Systems",
 	"booktitleshort": "LCT-RTS",
 	"crossref": "conf/lctrts/1995",
 	"dblpkey": "conf/lctrts/NilsenR95",
@@ -8,8 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/216636.216650",
 	"pages": "20-30",
 	"publisher": "ACM",
-	"stemmed": ["worst", "case", "execut", "time", "analysi", "on", "modern", "processor"],
-	"tag": ["analysis", "execution", "worst-case"],
+	"stemmed": [
+		"worst",
+		"case",
+		"execut",
+		"time",
+		"analysi",
+		"on",
+		"modern",
+		"processor"
+	],
+	"tag": [
+		"analysis",
+		"execution",
+		"worst-case"
+	],
 	"title": "Worst-Case Execution Time Analysis on Modern Processors",
 	"type": "inproceedings",
 	"venue": "LCTES",

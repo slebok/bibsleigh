@@ -1,6 +1,10 @@
 {
-	"author": ["Chuan Lin", "Hai Zhou"],
-	"booktitle": "DATE",
+	"author": [
+		"Chuan Lin",
+		"Hai Zhou"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/LinZ04",
 	"doi": "10.1109/DATE.2004.1269038",
@@ -8,8 +12,20 @@
 	"pages": "1092-1097",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["wire", "retim", "for", "system", "on", "chip", "by", "fixpoint", "comput"],
-	"tag": ["fixpoint"],
+	"stemmed": [
+		"wire",
+		"retim",
+		"for",
+		"system",
+		"on",
+		"chip",
+		"by",
+		"fixpoint",
+		"comput"
+	],
+	"tag": [
+		"fixpoint"
+	],
 	"title": "Wire Retiming for System-on-Chip by Fixpoint Computation",
 	"type": "inproceedings",
 	"venue": "DATE",

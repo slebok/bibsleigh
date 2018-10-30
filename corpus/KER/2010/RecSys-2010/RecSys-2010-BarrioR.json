@@ -1,14 +1,30 @@
 {
-	"author": ["Josep Bachs Barrio", "Xavier Amatriain Rubio"],
-	"booktitle": "RecSys",
+	"author": [
+		"Josep Bachs Barrio",
+		"Xavier Amatriain Rubio"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2010",
 	"dblpkey": "conf/recsys/BarrioR10",
 	"doi": "10.1145/1864708.1864785",
 	"ee": "http://doi.acm.org/10.1145/1864708.1864785",
 	"pages": "347-348",
 	"publisher": "ACM",
-	"stemmed": ["geoloc", "movi", "recommend", "base", "on", "expert", "collabor", "filter"],
-	"tag": ["collaboration", "recommendation"],
+	"stemmed": [
+		"geoloc",
+		"movi",
+		"recommend",
+		"base",
+		"on",
+		"expert",
+		"collabor",
+		"filter"
+	],
+	"tag": [
+		"collaboration",
+		"recommendation"
+	],
 	"title": "Geolocated movie recommendations based on expert collaborative filtering",
 	"type": "inproceedings",
 	"venue": "RecSys",

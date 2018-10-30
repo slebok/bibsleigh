@@ -1,6 +1,10 @@
 {
-	"author": ["Miquel Bofill", "Albert Rubio"],
-	"booktitle": "CADE",
+	"author": [
+		"Miquel Bofill",
+		"Albert Rubio"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2002",
 	"dblpkey": "conf/cade/BofillR02",
 	"doi": "10.1007/3-540-45620-1_36",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["well", "founded", "is", "suffici", "for", "complet", "of", "order", "paramodul"],
-	"tag": ["order"],
+	"stemmed": [
+		"well",
+		"founded",
+		"is",
+		"suffici",
+		"for",
+		"complet",
+		"of",
+		"order",
+		"paramodul"
+	],
+	"tag": [
+		"order"
+	],
 	"title": "Well-Foundedness Is Sufficient for Completeness of Ordered Paramodulation",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2392,
+	"volume": "2392",
 	"year": 2002
 }

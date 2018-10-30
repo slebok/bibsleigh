@@ -1,6 +1,11 @@
 {
-	"author": ["Yi Luo", "Xuemin Lin", "Wei Wang", "Xiaofang Zhou"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yi Luo",
+		"Xuemin Lin",
+		"Wei Wang",
+		"Xiaofang Zhou"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/LuoLWZ07",
@@ -8,8 +13,23 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247495",
 	"pages": "115-126",
 	"publisher": "ACM",
-	"stemmed": ["spark", "top", "k", "keyword", "queri", "in", "relat", "databas"],
-	"tag": ["database", "keyword", "named", "query", "relational"],
+	"stemmed": [
+		"spark",
+		"top",
+		"k",
+		"keyword",
+		"queri",
+		"in",
+		"relat",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"keyword",
+		"named",
+		"query",
+		"relational"
+	],
 	"title": "Spark: top-k keyword query in relational databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

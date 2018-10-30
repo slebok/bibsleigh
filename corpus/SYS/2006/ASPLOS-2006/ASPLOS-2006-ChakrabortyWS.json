@@ -1,14 +1,36 @@
 {
-	"author": ["Koushik Chakraborty", "Philip M. Wells", "Gurindar S. Sohi"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Koushik Chakraborty",
+		"Philip M. Wells",
+		"Gurindar S. Sohi"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/ChakrabortyWS06",
 	"doi": "10.1145/1168857.1168893",
 	"ee": "http://doi.acm.org/10.1145/1168857.1168893",
 	"pages": "283-292",
 	"publisher": "ACM",
-	"stemmed": ["comput", "spread", "employ", "hardwar", "migrat", "to", "special", "cmp", "core", "on", "the", "fli"],
-	"tag": ["hardware", "migration", "on the fly"],
+	"stemmed": [
+		"comput",
+		"spread",
+		"employ",
+		"hardwar",
+		"migrat",
+		"to",
+		"special",
+		"cmp",
+		"core",
+		"on",
+		"the",
+		"fli"
+	],
+	"tag": [
+		"hardware",
+		"migration",
+		"on the fly"
+	],
 	"title": "Computation spreading: employing hardware migration to specialize CMP cores on-the-fly",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

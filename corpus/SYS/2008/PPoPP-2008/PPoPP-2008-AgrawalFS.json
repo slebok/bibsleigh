@@ -1,14 +1,29 @@
 {
-	"author": ["Kunal Agrawal", "Jeremy T. Fineman", "Jim Sukha"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Kunal Agrawal",
+		"Jeremy T. Fineman",
+		"Jim Sukha"
+	],
+	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/AgrawalFS08",
 	"doi": "10.1145/1345206.1345232",
 	"ee": "http://doi.acm.org/10.1145/1345206.1345232",
 	"pages": "163-174",
 	"publisher": "ACM",
-	"stemmed": ["nest", "parallel", "in", "transact", "memori"],
-	"tag": ["memory management", "parallel", "transaction"],
+	"stemmed": [
+		"nest",
+		"parallel",
+		"in",
+		"transact",
+		"memori"
+	],
+	"tag": [
+		"memory management",
+		"parallel",
+		"transaction"
+	],
 	"title": "Nested parallelism in transactional memory",
 	"type": "inproceedings",
 	"venue": "PPoPP",

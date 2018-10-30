@@ -1,6 +1,13 @@
 {
-	"author": ["Takashi Mine", "Hidemasa Kubota", "Atsushi Kamo", "Takayuki Watanabe", "Hideki Asai"],
-	"booktitle": "DATE",
+	"author": [
+		"Takashi Mine",
+		"Hidemasa Kubota",
+		"Atsushi Kamo",
+		"Takayuki Watanabe",
+		"Hideki Asai"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/MineKKWA04",
 	"doi": "10.1109/DATE.2004.1269079",
@@ -8,8 +15,26 @@
 	"pages": "1327-1333",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["hybrid", "reduct", "techniqu", "for", "effici", "simul", "of", "linear", "nonlinear", "mix", "circuit"],
-	"tag": ["hybrid", "linear", "performance", "reduction", "simulation"],
+	"stemmed": [
+		"hybrid",
+		"reduct",
+		"techniqu",
+		"for",
+		"effici",
+		"simul",
+		"of",
+		"linear",
+		"nonlinear",
+		"mix",
+		"circuit"
+	],
+	"tag": [
+		"hybrid",
+		"linear",
+		"performance",
+		"reduction",
+		"simulation"
+	],
 	"title": "Hybrid Reduction Technique for Efficient Simulation of Linear/Nonlinear Mixed Circuits",
 	"type": "inproceedings",
 	"venue": "DATE",

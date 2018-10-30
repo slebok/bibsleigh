@@ -1,14 +1,30 @@
 {
-	"author": ["Peter Damron", "Alexandra Fedorova", "Yossi Lev", "Victor Luchangco", "Mark Moir", "Daniel Nussbaum"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Peter Damron",
+		"Alexandra Fedorova",
+		"Yossi Lev",
+		"Victor Luchangco",
+		"Mark Moir",
+		"Daniel Nussbaum"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/DamronFLLMN06",
 	"doi": "10.1145/1168857.1168900",
 	"ee": "http://doi.acm.org/10.1145/1168857.1168900",
 	"pages": "336-346",
 	"publisher": "ACM",
-	"stemmed": ["hybrid", "transact", "memori"],
-	"tag": ["hybrid", "memory management", "transaction"],
+	"stemmed": [
+		"hybrid",
+		"transact",
+		"memori"
+	],
+	"tag": [
+		"hybrid",
+		"memory management",
+		"transaction"
+	],
 	"title": "Hybrid transactional memory",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

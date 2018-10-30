@@ -1,14 +1,37 @@
 {
-	"author": ["Stephan Günnemann", "Ines Färber", "Kittipat Virochsiri", "Thomas Seidl"],
-	"booktitle": "KDD",
+	"author": [
+		"Stephan Günnemann",
+		"Ines Färber",
+		"Kittipat Virochsiri",
+		"Thomas Seidl"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/GunnemannFVS12",
 	"doi": "10.1145/2339530.2339588",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339588",
 	"pages": "352-360",
 	"publisher": "ACM",
-	"stemmed": ["subspac", "correl", "cluster", "find", "local", "correl", "dimens", "in", "subspac", "project", "of", "the", "data"],
-	"tag": ["clustering", "correlation"],
+	"stemmed": [
+		"subspac",
+		"correl",
+		"cluster",
+		"find",
+		"local",
+		"correl",
+		"dimens",
+		"in",
+		"subspac",
+		"project",
+		"of",
+		"the",
+		"data"
+	],
+	"tag": [
+		"clustering",
+		"correlation"
+	],
 	"title": "Subspace correlation clustering: finding locally correlated dimensions in subspace projections of the data",
 	"type": "inproceedings",
 	"venue": "KDD",

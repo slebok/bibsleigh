@@ -1,6 +1,11 @@
 {
-	"author": ["Brian N. Bershad", "Edward D. Lazowska", "Henry M. Levy", "David B. Wagner"],
-	"booktitle": "PPOPP/PPEALS",
+	"author": [
+		"Brian N. Bershad",
+		"Edward D. Lazowska",
+		"Henry M. Levy",
+		"David B. Wagner"
+	],
+	"booktitle": "Proceedings of the First Symposium on Parallel Programming: Experience with Applications, Languages and Systems",
 	"booktitleshort": "PPEALS",
 	"crossref": "conf/ppopp/1988",
 	"dblpkey": "conf/ppopp/BershadLLW88",
@@ -8,8 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/62115.62117",
 	"pages": "1-9",
 	"publisher": "ACM",
-	"stemmed": ["an", "open", "environ", "for", "build", "parallel", "program", "system"],
-	"tag": ["parallel", "programming"],
+	"stemmed": [
+		"an",
+		"open",
+		"environ",
+		"for",
+		"build",
+		"parallel",
+		"program",
+		"system"
+	],
+	"tag": [
+		"parallel",
+		"programming"
+	],
 	"title": "An Open Environment for Building Parallel Programming Systems",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,6 +1,10 @@
 {
-	"author": ["James Bigelow", "Victor A. Riley"],
-	"booktitle": "Hypertext",
+	"author": [
+		"James Bigelow",
+		"Victor A. Riley"
+	],
+	"booktitle": "Proceedings of the First Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1987/P397.pdf",
 	"crossref": "conf/ht/87",
 	"dblpkey": "conf/ht/BigelowR87",
@@ -8,8 +12,17 @@
 	"ee": "http://doi.acm.org/10.1145/317426.317454",
 	"pages": "397-408",
 	"publisher": "ACM",
-	"stemmed": ["manipul", "sourc", "code", "in", "dynam", "design"],
-	"tag": ["source code"],
+	"stemmed": [
+		"manipul",
+		"sourc",
+		"code",
+		"in",
+		"dynam",
+		"design"
+	],
+	"tag": [
+		"source code"
+	],
 	"title": "Manipulating Source Code in DynamicDesign",
 	"type": "inproceedings",
 	"venue": "HT",

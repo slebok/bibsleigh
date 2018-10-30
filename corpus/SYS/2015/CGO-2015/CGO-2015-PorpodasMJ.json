@@ -1,16 +1,33 @@
 {
-	"acmid": 2738625,
-	"author": ["Vasileios Porpodas", "Alberto Magni", "Timothy M. Jones"],
-	"booktitle": "CGO",
+	"acmid": "2738625",
+	"author": [
+		"Vasileios Porpodas",
+		"Alberto Magni",
+		"Timothy M. Jones"
+	],
+	"booktitle": "Proceedings of the 13th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2015",
 	"dblpkey": "conf/cgo/PorpodasMJ15",
 	"doi": "10.1109/CGO.2015.7054199",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2015.7054199", "http://dl.acm.org/citation.cfm?id=2738625"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2015.7054199",
+		"http://dl.acm.org/citation.cfm?id=2738625"
+	],
 	"pages": "190-201",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["pslp", "pad", "slp", "automat", "vector"],
-	"tag": ["automation", "named"],
+	"stemmed": [
+		"pslp",
+		"pad",
+		"slp",
+		"automat",
+		"vector"
+	],
+	"tag": [
+		"automation",
+		"named"
+	],
 	"title": "PSLP: padded SLP automatic vectorization",
 	"type": "inproceedings",
 	"venue": "CGO",

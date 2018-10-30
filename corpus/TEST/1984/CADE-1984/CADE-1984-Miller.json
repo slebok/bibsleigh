@@ -1,6 +1,7 @@
 {
 	"author": "Dale Miller",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Seventh International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1984",
 	"dblpkey": "conf/cade/Miller84",
 	"doi": "10.1007/BFb0047132",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["expans", "tree", "proof", "and", "their", "convers", "to", "natur", "deduct", "proof"],
-	"tag": ["deduction", "proving"],
+	"stemmed": [
+		"expans",
+		"tree",
+		"proof",
+		"and",
+		"their",
+		"convers",
+		"to",
+		"natur",
+		"deduct",
+		"proof"
+	],
+	"tag": [
+		"deduction",
+		"proving"
+	],
 	"title": "Expansion Tree Proofs and Their Conversion to Natural Deduction Proofs",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 170,
+	"volume": "170",
 	"year": 1984
 }

@@ -1,6 +1,6 @@
 {
 	"author": "Dhruba Borthakur",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/Borthakur13",
@@ -8,8 +8,20 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2463713",
 	"pages": "1267-1268",
 	"publisher": "ACM",
-	"stemmed": ["petabyt", "scale", "databas", "and", "storag", "system", "at", "facebook"],
-	"tag": ["database", "facebook"],
+	"stemmed": [
+		"petabyt",
+		"scale",
+		"databas",
+		"and",
+		"storag",
+		"system",
+		"at",
+		"facebook"
+	],
+	"tag": [
+		"database",
+		"facebook"
+	],
 	"title": "Petabyte scale databases and storage systems at Facebook",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

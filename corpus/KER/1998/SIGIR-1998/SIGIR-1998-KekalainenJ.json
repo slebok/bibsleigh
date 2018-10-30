@@ -1,6 +1,10 @@
 {
-	"author": ["Jaana Kekäläinen", "Kalervo Järvelin"],
+	"author": [
+		"Jaana Kekäläinen",
+		"Kalervo Järvelin"
+	],
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P130.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/KekalainenJ98",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/290941.290978",
 	"pages": "130-137",
 	"publisher": "ACM",
-	"stemmed": ["the", "impact", "of", "queri", "structur", "and", "queri", "expans", "on", "retriev", "perform"],
-	"tag": ["performance", "query", "retrieval"],
+	"stemmed": [
+		"the",
+		"impact",
+		"of",
+		"queri",
+		"structur",
+		"and",
+		"queri",
+		"expans",
+		"on",
+		"retriev",
+		"perform"
+	],
+	"tag": [
+		"performance",
+		"query",
+		"retrieval"
+	],
 	"title": "The Impact of Query Structure and Query Expansion on Retrieval Performance",
 	"type": "inproceedings",
 	"venue": "SIGIR",

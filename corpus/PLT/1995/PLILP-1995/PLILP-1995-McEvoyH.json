@@ -1,6 +1,10 @@
 {
-	"author": ["Hugh McEvoy", "Pieter H. Hartel"],
+	"author": [
+		"Hugh McEvoy",
+		"Pieter H. Hartel"
+	],
 	"booktitle": "Proceedings of the Seventh International Symposium on Programming Languages: Implementations, Logics and Programs",
+	"booktitleshort": "PPDP",
 	"crossref": "conf/plilp/95",
 	"dblpkey": "conf/plilp/McEvoyH95",
 	"doi": "10.1007/BFb0026830",
@@ -10,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["local", "linear", "logic", "for", "local", "conscious", "in", "multiset", "transform"],
-	"tag": ["linear", "locality", "logic", "multi"],
+	"stemmed": [
+		"local",
+		"linear",
+		"logic",
+		"for",
+		"local",
+		"conscious",
+		"in",
+		"multiset",
+		"transform"
+	],
+	"tag": [
+		"linear",
+		"locality",
+		"logic",
+		"multi"
+	],
 	"title": "Local Linear Logic for Locality Consciousness in Multiset Transformation",
 	"type": "inproceedings",
 	"venue": "PPDP",
-	"volume": 982,
+	"volume": "982",
 	"year": 1995
 }

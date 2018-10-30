@@ -1,6 +1,11 @@
 {
-	"author": ["Agostino Dovier", "Andrea Formisano", "Enrico Pontelli", "Flavio Vella"],
-	"booktitle": "ICLP (Technical Communications)",
+	"author": [
+		"Agostino Dovier",
+		"Andrea Formisano",
+		"Enrico Pontelli",
+		"Flavio Vella"
+	],
+	"booktitle": "Technical Communications of the 31st International Conference on Logic Programming",
 	"booktitleshort": "ICLP TC",
 	"crossref": "conf/iclp/2015tc",
 	"dblpkey": "conf/iclp/DovierFPV15",
@@ -8,11 +13,25 @@
 	"publisher": "CEUR-WS.org",
 	"series": "CEUR Workshop Proceedings",
 	"seriesshort": "CEUR",
-	"stemmed": ["parallel", "execut", "of", "the", "asp", "comput", "an", "investig", "on", "gpus"],
-	"tag": ["execution", "parallel"],
+	"stemmed": [
+		"parallel",
+		"execut",
+		"of",
+		"the",
+		"asp",
+		"comput",
+		"an",
+		"investig",
+		"on",
+		"gpus"
+	],
+	"tag": [
+		"execution",
+		"parallel"
+	],
 	"title": "Parallel Execution of the ASP Computation — an Investigation on GPUs",
 	"type": "inproceedings",
 	"venue": "ICLP",
-	"volume": 1433,
+	"volume": "1433",
 	"year": 2015
 }

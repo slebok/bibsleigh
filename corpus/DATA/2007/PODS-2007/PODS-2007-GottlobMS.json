@@ -1,14 +1,30 @@
 {
-	"author": ["Georg Gottlob", "Zoltán Miklós", "Thomas Schwentick"],
-	"booktitle": "PODS",
+	"author": [
+		"Georg Gottlob",
+		"Zoltán Miklós",
+		"Thomas Schwentick"
+	],
+	"booktitle": "Proceedings of the 26th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2007",
 	"dblpkey": "conf/pods/GottlobMS07",
 	"doi": "10.1145/1265530.1265533",
 	"ee": "http://doi.acm.org/10.1145/1265530.1265533",
 	"pages": "13-22",
 	"publisher": "ACM",
-	"stemmed": ["general", "hypertre", "decomposit", "np", "hard", "and", "tractabl", "variant"],
-	"tag": ["np-hard"],
+	"stemmed": [
+		"general",
+		"hypertre",
+		"decomposit",
+		"np",
+		"hard",
+		"and",
+		"tractabl",
+		"variant"
+	],
+	"tag": [
+		"np-hard"
+	],
 	"title": "Generalized hypertree decompositions: np-hardness and tractable variants",
 	"type": "inproceedings",
 	"venue": "PODS",

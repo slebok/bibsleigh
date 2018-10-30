@@ -1,16 +1,35 @@
 {
 	"author": "Walter A. Burkhard",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the First International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB75/P523.PDF",
-	"cite": ["journals/iandc/AbrahamGR68", "journals/cacm/BurkhardK73", "journals/acta/FinkelB74", "...", "books/aw/Knuth73", "journals/siamcomp/Rivest76", "journals/cacm/WongC71"],
+	"cite": [
+		"journals/iandc/AbrahamGR68",
+		"journals/cacm/BurkhardK73",
+		"journals/acta/FinkelB74",
+		"...",
+		"books/aw/Knuth73",
+		"journals/siamcomp/Rivest76",
+		"journals/cacm/WongC71"
+	],
 	"crossref": "conf/vldb/75",
 	"dblpkey": "conf/vldb/Burkhard75",
 	"doi": "10.1145/1282480.1282534",
 	"ee": "http://doi.acm.org/10.1145/1282480.1282534",
 	"pages": "523-525",
 	"publisher": "ACM",
-	"stemmed": ["partial", "match", "queri", "and", "file", "design"],
-	"tag": ["design", "query"],
+	"stemmed": [
+		"partial",
+		"match",
+		"queri",
+		"and",
+		"file",
+		"design"
+	],
+	"tag": [
+		"design",
+		"query"
+	],
 	"title": "Partial-Match Queries and File Designs",
 	"type": "inproceedings",
 	"venue": "VLDB",

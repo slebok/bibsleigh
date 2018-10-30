@@ -1,6 +1,10 @@
 {
-	"author": ["Sungyoung Lee", "Byeong-Soo Jeong", "Hyonwoo Seung"],
-	"booktitle": "Workshop on Languages, Compilers, and Tools for Embedded Systems",
+	"author": [
+		"Sungyoung Lee",
+		"Byeong-Soo Jeong",
+		"Hyonwoo Seung"
+	],
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Embedded Systems",
 	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/1999",
 	"dblpkey": "conf/lctrts/LeeJS99",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/314403.314452",
 	"pages": "73-79",
 	"publisher": "ACM",
-	"stemmed": ["a", "secur", "dynam", "copi", "protocol", "in", "real", "time", "secur", "databas", "system"],
-	"tag": ["database", "protocol", "realtime"],
+	"stemmed": [
+		"a",
+		"secur",
+		"dynam",
+		"copi",
+		"protocol",
+		"in",
+		"real",
+		"time",
+		"secur",
+		"databas",
+		"system"
+	],
+	"tag": [
+		"database",
+		"protocol",
+		"realtime"
+	],
 	"title": "A Secure Dynamic Copy Protocol in Real-Time Secure Database Systems",
 	"type": "inproceedings",
 	"venue": "LCTES",

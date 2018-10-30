@@ -1,6 +1,10 @@
 {
-	"author": ["Laurence Likforman-Sulem", "Marc Sigelle"],
-	"booktitle": "DRR",
+	"author": [
+		"Laurence Likforman-Sulem",
+		"Marc Sigelle"
+	],
+	"booktitle": "Proceedings of the 16th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2009",
 	"dblpkey": "conf/drr/Likforman-SulemS09",
 	"doi": "10.1117/12.805471",
@@ -8,11 +12,28 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["combin", "of", "dynam", "bayesian", "network", "classifi", "for", "the", "recognit", "of", "degrad", "charact"],
-	"tag": ["classification", "network", "recognition"],
+	"stemmed": [
+		"combin",
+		"of",
+		"dynam",
+		"bayesian",
+		"network",
+		"classifi",
+		"for",
+		"the",
+		"recognit",
+		"of",
+		"degrad",
+		"charact"
+	],
+	"tag": [
+		"classification",
+		"network",
+		"recognition"
+	],
 	"title": "Combination of dynamic Bayesian network classifiers for the recognition of degraded characters",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7247,
+	"volume": "7247",
 	"year": 2009
 }

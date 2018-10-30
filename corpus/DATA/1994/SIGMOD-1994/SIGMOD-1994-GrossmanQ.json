@@ -1,15 +1,30 @@
 {
-	"author": ["Robert L. Grossman", "Xiao Qin"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Robert L. Grossman",
+		"Xiao Qin"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD94/P510.PDF",
 	"crossref": "conf/sigmod/94",
 	"dblpkey": "conf/sigmod/GrossmanQ94",
 	"doi": "10.1145/191839.191965",
 	"ee": "http://doi.acm.org/10.1145/191839.191965",
-	"pages": 510,
+	"pages": "510",
 	"publisher": "ACM Press",
-	"stemmed": ["ptool", "a", "scalabl", "persist", "object", "manag"],
-	"tag": ["named", "persistent", "scalability"],
+	"stemmed": [
+		"ptool",
+		"a",
+		"scalabl",
+		"persist",
+		"object",
+		"manag"
+	],
+	"tag": [
+		"named",
+		"persistent",
+		"scalability"
+	],
 	"title": "Ptool: A Scalable Persistent Object Manager",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

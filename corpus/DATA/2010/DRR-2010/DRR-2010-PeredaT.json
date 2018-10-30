@@ -1,6 +1,10 @@
 {
-	"author": ["Ray Pereda", "Kazem Taghva"],
-	"booktitle": "DRR",
+	"author": [
+		"Ray Pereda",
+		"Kazem Taghva"
+	],
+	"booktitle": "Proceedings of the 17th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2010",
 	"dblpkey": "conf/drr/PeredaT10",
 	"doi": "10.1117/12.839546",
@@ -8,11 +12,24 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["date", "of", "birth", "extract", "use", "precis", "shallow", "pars"],
-	"tag": ["precise", "semiparsing", "using"],
+	"stemmed": [
+		"date",
+		"of",
+		"birth",
+		"extract",
+		"use",
+		"precis",
+		"shallow",
+		"pars"
+	],
+	"tag": [
+		"precise",
+		"semiparsing",
+		"using"
+	],
 	"title": "Date of birth extraction using precise shallow parsing",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7534,
+	"volume": "7534",
 	"year": 2010
 }

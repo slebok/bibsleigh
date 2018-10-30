@@ -1,6 +1,7 @@
 {
 	"author": "Jan Storbank Pedersen",
 	"booktitle": "Towards a Formal Description of Ada",
+	"booktitleshort": "Towards a Formal Description of Ada",
 	"crossref": "conf/sigada/1980",
 	"dblpkey": "conf/sigada/Pedersen80",
 	"doi": "10.1007/3-540-10283-3_3",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "formal", "semant", "definit", "of", "sequenti", "ada"],
-	"tag": ["ada", "semantics"],
+	"stemmed": [
+		"a",
+		"formal",
+		"semant",
+		"definit",
+		"of",
+		"sequenti",
+		"ada"
+	],
+	"tag": [
+		"ada",
+		"semantics"
+	],
 	"title": "A Formal Semantics Definition of Sequential Ada",
 	"type": "inproceedings",
 	"venue": "Ada",
-	"volume": 98,
+	"volume": "98",
 	"year": 1980
 }

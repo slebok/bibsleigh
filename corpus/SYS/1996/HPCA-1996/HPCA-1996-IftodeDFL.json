@@ -1,15 +1,38 @@
 {
-	"author": ["Liviu Iftode", "Cezary Dubnicki", "Edward W. Felten", "Kai Li"],
-	"booktitle": "HPCA",
+	"author": [
+		"Liviu Iftode",
+		"Cezary Dubnicki",
+		"Edward W. Felten",
+		"Kai Li"
+	],
+	"booktitle": "Proceedings of the Second International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1996",
 	"dblpkey": "conf/hpca/IftodeDFL96",
 	"doi": "10.1109/HPCA.1996.501170",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1996.501170", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1996.501170"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1996.501170",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1996.501170"
+	],
 	"pages": "14-25",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["improv", "releas", "consist", "share", "virtual", "memori", "use", "automat", "updat"],
-	"tag": ["automation", "memory management", "using"],
+	"stemmed": [
+		"improv",
+		"releas",
+		"consist",
+		"share",
+		"virtual",
+		"memori",
+		"use",
+		"automat",
+		"updat"
+	],
+	"tag": [
+		"automation",
+		"memory management",
+		"using"
+	],
 	"title": "Improving Release-Consistent Shared Virtual Memory Using Automatic Update",
 	"type": "inproceedings",
 	"venue": "HPCA",

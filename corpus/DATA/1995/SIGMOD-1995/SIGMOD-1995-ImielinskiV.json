@@ -1,15 +1,29 @@
 {
-	"author": ["Tomasz Imielinski", "Aashu Virmani"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Tomasz Imielinski",
+		"Aashu Virmani"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD95/P472.PDF",
 	"crossref": "conf/sigmod/95",
 	"dblpkey": "conf/sigmod/ImielinskiV95",
 	"doi": "10.1145/223784.223885",
 	"ee": "http://doi.acm.org/10.1145/223784.223885",
-	"pages": 472,
+	"pages": "472",
 	"publisher": "ACM Press",
-	"stemmed": ["data", "mine", "interact", "rule", "discoveri", "system"],
-	"tag": ["interactive", "named"],
+	"stemmed": [
+		"data",
+		"mine",
+		"interact",
+		"rule",
+		"discoveri",
+		"system"
+	],
+	"tag": [
+		"interactive",
+		"named"
+	],
 	"title": "DataMine — Interactive Rule Discovery System",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

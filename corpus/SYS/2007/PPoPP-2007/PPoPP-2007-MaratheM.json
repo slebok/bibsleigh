@@ -1,14 +1,28 @@
 {
-	"author": ["Virendra J. Marathe", "Mark Moir"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Virendra J. Marathe",
+		"Mark Moir"
+	],
+	"booktitle": "Proceedings of the 12th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2007",
 	"dblpkey": "conf/ppopp/MaratheM07",
 	"doi": "10.1145/1229428.1229454",
 	"ee": "http://doi.acm.org/10.1145/1229428.1229454",
 	"pages": "136-137",
 	"publisher": "ACM",
-	"stemmed": ["effici", "nonblock", "softwar", "transact", "memori"],
-	"tag": ["memory management", "performance", "transaction"],
+	"stemmed": [
+		"effici",
+		"nonblock",
+		"softwar",
+		"transact",
+		"memori"
+	],
+	"tag": [
+		"memory management",
+		"performance",
+		"transaction"
+	],
 	"title": "Efficient nonblocking software transactional memory",
 	"type": "inproceedings",
 	"venue": "PPoPP",

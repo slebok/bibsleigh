@@ -1,14 +1,29 @@
 {
-	"acmid": 1164261,
-	"author": ["Anastassia Ailamaki", "Naga K. Govindaraju", "Stavros Harizopoulos", "Dinesh Manocha"],
-	"booktitle": "VLDB",
+	"acmid": "1164261",
+	"author": [
+		"Anastassia Ailamaki",
+		"Naga K. Govindaraju",
+		"Stavros Harizopoulos",
+		"Dinesh Manocha"
+	],
+	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
 	"dblpkey": "conf/vldb/AilamakiGHM06",
 	"ee": "http://www.vldb.org/conf/2006/p1267-ailamaki.pdf",
-	"pages": 1267,
+	"pages": "1267",
 	"publisher": "ACM",
-	"stemmed": ["queri", "co", "process", "on", "commod", "processor"],
-	"tag": ["query"],
+	"stemmed": [
+		"queri",
+		"co",
+		"process",
+		"on",
+		"commod",
+		"processor"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Query Co-Processing on Commodity Processors",
 	"type": "inproceedings",
 	"venue": "VLDB",

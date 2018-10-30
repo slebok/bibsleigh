@@ -1,13 +1,38 @@
 {
-	"author": ["R. D. Freeman", "S. M. Kang", "C. G. Lin-Hendel", "M. L. Newby"],
-	"booktitle": "DAC",
+	"author": [
+		"R. D. Freeman",
+		"S. M. Kang",
+		"C. G. Lin-Hendel",
+		"M. L. Newby"
+	],
+	"booktitle": "Proceedings of the 23rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/FreemanKLN86",
 	"doi": "10.1145/318013.318081",
 	"ee": "http://doi.acm.org/10.1145/318013.318081",
 	"pages": "418-424",
 	"publisher": "IEEE Computer Society Press",
-	"stemmed": ["autom", "extract", "of", "spice", "circuit", "model", "from", "symbol", "gate", "matrix", "layout", "with", "prune"],
-	"tag": ["automation", "layout", "matrix", "modelling"],
+	"stemmed": [
+		"autom",
+		"extract",
+		"of",
+		"spice",
+		"circuit",
+		"model",
+		"from",
+		"symbol",
+		"gate",
+		"matrix",
+		"layout",
+		"with",
+		"prune"
+	],
+	"tag": [
+		"automation",
+		"layout",
+		"matrix",
+		"modelling"
+	],
 	"title": "Automated extraction of SPICE circuit models from symbolic gate matrix layout with pruning",
 	"type": "inproceedings",
 	"venue": "DAC",

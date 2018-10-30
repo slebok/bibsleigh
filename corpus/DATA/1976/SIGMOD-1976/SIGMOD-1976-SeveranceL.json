@@ -1,15 +1,37 @@
 {
-	"author": ["Dennis G. Severance", "Guy M. Lohman"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Dennis G. Severance",
+		"Guy M. Lohman"
+	],
+	"booktitle": "Proceedings of the Sixth ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD76/P043.PDF",
 	"crossref": "conf/sigmod/76",
 	"dblpkey": "conf/sigmod/SeveranceL76",
 	"doi": "10.1145/509383.509391",
 	"ee": "http://doi.acm.org/10.1145/509383.509391",
-	"pages": 43,
+	"pages": "43",
 	"publisher": "ACM",
-	"stemmed": ["differenti", "file", "their", "applic", "to", "the", "mainten", "of", "larg", "data", "base", "abstract"],
-	"tag": ["database", "difference", "maintenance", "scalability"],
+	"stemmed": [
+		"differenti",
+		"file",
+		"their",
+		"applic",
+		"to",
+		"the",
+		"mainten",
+		"of",
+		"larg",
+		"data",
+		"base",
+		"abstract"
+	],
+	"tag": [
+		"database",
+		"difference",
+		"maintenance",
+		"scalability"
+	],
 	"title": "Differential Files: Their Application to the Maintenance of Large Data Bases (Abstract)",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,34 @@
 {
-	"author": ["Pavan Balaji", "Wu-chun Feng", "Jeremy S. Archuleta", "Heshan Lin", "Rajkumar Kettimuthu", "Rajeev Thakur", "Xiaosong Ma"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Pavan Balaji",
+		"Wu-chun Feng",
+		"Jeremy S. Archuleta",
+		"Heshan Lin",
+		"Rajkumar Kettimuthu",
+		"Rajeev Thakur",
+		"Xiaosong Ma"
+	],
+	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/BalajiFALKTM08",
 	"doi": "10.1145/1345206.1345262",
 	"ee": "http://doi.acm.org/10.1145/1345206.1345262",
 	"pages": "293-294",
 	"publisher": "ACM",
-	"stemmed": ["semant", "base", "distribut", "i", "o", "for", "mpiblast"],
-	"tag": ["distributed", "semantics"],
+	"stemmed": [
+		"semant",
+		"base",
+		"distribut",
+		"i",
+		"o",
+		"for",
+		"mpiblast"
+	],
+	"tag": [
+		"distributed",
+		"semantics"
+	],
 	"title": "Semantics-based distributed I/O for mpiBLAST",
 	"type": "inproceedings",
 	"venue": "PPoPP",

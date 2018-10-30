@@ -1,6 +1,7 @@
 {
 	"author": "Graham Steel",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 20th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2005",
 	"dblpkey": "conf/cade/Steel05",
 	"doi": "10.1007/11532231_24",
@@ -10,11 +11,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["deduct", "with", "xor", "constraint", "in", "secur", "api", "model"],
-	"tag": ["api", "constraints", "deduction", "modelling", "security"],
+	"stemmed": [
+		"deduct",
+		"with",
+		"xor",
+		"constraint",
+		"in",
+		"secur",
+		"api",
+		"model"
+	],
+	"tag": [
+		"api",
+		"constraints",
+		"deduction",
+		"modelling",
+		"security"
+	],
 	"title": "Deduction with XOR Constraints in Security API Modelling",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 3632,
+	"volume": "3632",
 	"year": 2005
 }

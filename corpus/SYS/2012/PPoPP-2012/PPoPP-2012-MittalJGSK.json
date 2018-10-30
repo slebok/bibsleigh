@@ -1,14 +1,29 @@
 {
-	"author": ["Anshul Mittal", "Nikhil Jain", "Thomas George", "Yogish Sabharwal", "Sameer Kumar"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Anshul Mittal",
+		"Nikhil Jain",
+		"Thomas George",
+		"Yogish Sabharwal",
+		"Sameer Kumar"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/MittalJGSK12",
 	"doi": "10.1145/2145816.2145872",
 	"ee": "http://doi.acm.org/10.1145/2145816.2145872",
 	"pages": "315-316",
 	"publisher": "ACM",
-	"stemmed": ["collect", "algorithm", "for", "sub", "communic"],
-	"tag": ["algorithm"],
+	"stemmed": [
+		"collect",
+		"algorithm",
+		"for",
+		"sub",
+		"communic"
+	],
+	"tag": [
+		"algorithm"
+	],
 	"title": "Collective algorithms for sub-communicators",
 	"type": "inproceedings",
 	"venue": "PPoPP",

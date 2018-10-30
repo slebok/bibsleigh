@@ -1,14 +1,30 @@
 {
-	"author": ["Fredrik Kjolstad", "Torsten Hoefler", "Marc Snir"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Fredrik Kjolstad",
+		"Torsten Hoefler",
+		"Marc Snir"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/KjolstadHS12",
 	"doi": "10.1145/2145816.2145878",
 	"ee": "http://doi.acm.org/10.1145/2145816.2145878",
 	"pages": "327-328",
 	"publisher": "ACM",
-	"stemmed": ["automat", "datatyp", "generat", "and", "optim"],
-	"tag": ["automation", "data type", "generative", "optimisation"],
+	"stemmed": [
+		"automat",
+		"datatyp",
+		"generat",
+		"and",
+		"optim"
+	],
+	"tag": [
+		"automation",
+		"data type",
+		"generative",
+		"optimisation"
+	],
 	"title": "Automatic datatype generation and optimization",
 	"type": "inproceedings",
 	"venue": "PPoPP",

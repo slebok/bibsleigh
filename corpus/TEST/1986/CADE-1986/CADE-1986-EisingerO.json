@@ -1,6 +1,10 @@
 {
-	"author": ["Norbert Eisinger", "Hans Jürgen Ohlbach"],
-	"booktitle": "CADE",
+	"author": [
+		"Norbert Eisinger",
+		"Hans Jürgen Ohlbach"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/EisingerO86",
 	"doi": "10.1007/3-540-16780-3_135",
@@ -10,10 +14,17 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "markgraf", "karl", "refut", "procedur", "mkrp"],
+	"stemmed": [
+		"the",
+		"markgraf",
+		"karl",
+		"refut",
+		"procedur",
+		"mkrp"
+	],
 	"title": "The Markgraf Karl Refutation Procedure (MKRP)",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

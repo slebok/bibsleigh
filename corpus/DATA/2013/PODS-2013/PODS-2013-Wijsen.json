@@ -1,14 +1,27 @@
 {
 	"author": "Jef Wijsen",
-	"booktitle": "PODS",
+	"booktitle": "Proceedings of the 32nd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2013",
 	"dblpkey": "conf/pods/Wijsen13",
 	"doi": "10.1145/2463664.2463666",
 	"ee": "http://doi.acm.org/10.1145/2463664.2463666",
 	"pages": "189-200",
 	"publisher": "ACM",
-	"stemmed": ["chart", "the", "tractabl", "frontier", "of", "certain", "conjunct", "queri", "answer"],
-	"tag": ["query"],
+	"stemmed": [
+		"chart",
+		"the",
+		"tractabl",
+		"frontier",
+		"of",
+		"certain",
+		"conjunct",
+		"queri",
+		"answer"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Charting the tractability frontier of certain conjunctive query answering",
 	"type": "inproceedings",
 	"venue": "PODS",

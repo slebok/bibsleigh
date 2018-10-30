@@ -1,6 +1,14 @@
 {
-	"author": ["Mo Liu", "Elke A. Rundensteiner", "Kara Greenfield", "Chetan Gupta", "Song Wang", "Ismail Ari", "Abhay Mehta"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Mo Liu",
+		"Elke A. Rundensteiner",
+		"Kara Greenfield",
+		"Chetan Gupta",
+		"Song Wang",
+		"Ismail Ari",
+		"Abhay Mehta"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/LiuRGGWAM11",
@@ -8,8 +16,28 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989416",
 	"pages": "889-900",
 	"publisher": "ACM",
-	"stemmed": ["e", "cube", "multi", "dimension", "event", "sequenc", "analysi", "use", "hierarch", "pattern", "queri", "share"],
-	"tag": ["analysis", "multi", "named", "query", "sequence", "using"],
+	"stemmed": [
+		"e",
+		"cube",
+		"multi",
+		"dimension",
+		"event",
+		"sequenc",
+		"analysi",
+		"use",
+		"hierarch",
+		"pattern",
+		"queri",
+		"share"
+	],
+	"tag": [
+		"analysis",
+		"multi",
+		"named",
+		"query",
+		"sequence",
+		"using"
+	],
 	"title": "E-Cube: multi-dimensional event sequence analysis using hierarchical pattern query sharing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

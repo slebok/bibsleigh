@@ -1,15 +1,37 @@
 {
-	"author": ["Gi-Hwan Oh", "Jae-Myung Kim", "Woon-Hak Kang", "Sang-Won Lee"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Gi-Hwan Oh",
+		"Jae-Myung Kim",
+		"Woon-Hak Kang",
+		"Sang-Won Lee"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/OhKKL12",
 	"doi": "10.1145/2213836.2213971",
 	"ee": "http://doi.acm.org/10.1145/2213836.2213971",
-	"pages": 864,
+	"pages": "864",
 	"publisher": "ACM",
-	"stemmed": ["reduc", "cach", "miss", "in", "hash", "join", "probe", "phase", "by", "pre", "sort", "strategi", "abstract", "onli"],
-	"tag": ["sorting"],
+	"stemmed": [
+		"reduc",
+		"cach",
+		"miss",
+		"in",
+		"hash",
+		"join",
+		"probe",
+		"phase",
+		"by",
+		"pre",
+		"sort",
+		"strategi",
+		"abstract",
+		"onli"
+	],
+	"tag": [
+		"sorting"
+	],
 	"title": "Reducing cache misses in hash join probing phase by pre-sorting strategy (abstract only)",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,13 +1,33 @@
 {
-	"author": ["Satyamurthy Pullela", "Noel Menezes", "Lawrence T. Pillage"],
-	"booktitle": "DAC",
+	"author": [
+		"Satyamurthy Pullela",
+		"Noel Menezes",
+		"Lawrence T. Pillage"
+	],
+	"booktitle": "Proceedings of the 30th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/PullelaMP93",
 	"doi": "10.1145/157485.164653",
 	"ee": "http://doi.acm.org/10.1145/157485.164653",
 	"pages": "165-170",
 	"publisher": "ACM Press",
-	"stemmed": ["reliabl", "non", "zero", "skew", "clock", "tree", "use", "wire", "width", "optim"],
-	"tag": ["optimisation", "reliability", "using"],
+	"stemmed": [
+		"reliabl",
+		"non",
+		"zero",
+		"skew",
+		"clock",
+		"tree",
+		"use",
+		"wire",
+		"width",
+		"optim"
+	],
+	"tag": [
+		"optimisation",
+		"reliability",
+		"using"
+	],
 	"title": "Reliable Non-Zero Skew Clock Trees Using Wire Width Optimization",
 	"type": "inproceedings",
 	"venue": "DAC",

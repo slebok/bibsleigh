@@ -1,6 +1,11 @@
 {
-	"author": ["Baosheng Wang", "Yuejian Wu", "André Ivanov"],
-	"booktitle": "DATE",
+	"author": [
+		"Baosheng Wang",
+		"Yuejian Wu",
+		"André Ivanov"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/WangWI05",
 	"doi": "10.1109/DATE.2005.13",
@@ -8,8 +13,22 @@
 	"pages": "852-857",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "fast", "diagnosi", "scheme", "for", "distribut", "small", "embed", "sram"],
-	"tag": ["distributed", "embedded", "performance"],
+	"stemmed": [
+		"a",
+		"fast",
+		"diagnosi",
+		"scheme",
+		"for",
+		"distribut",
+		"small",
+		"embed",
+		"sram"
+	],
+	"tag": [
+		"distributed",
+		"embedded",
+		"performance"
+	],
 	"title": "A Fast Diagnosis Scheme for Distributed Small Embedded SRAMs",
 	"type": "inproceedings",
 	"venue": "DATE",

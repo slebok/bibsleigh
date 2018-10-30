@@ -1,14 +1,32 @@
 {
-	"author": ["Mark Silberstein", "Bryan Ford", "Idit Keidar", "Emmett Witchel"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Mark Silberstein",
+		"Bryan Ford",
+		"Idit Keidar",
+		"Emmett Witchel"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2013",
 	"dblpkey": "conf/asplos/SilbersteinFKW13",
 	"doi": "10.1145/2451116.2451169",
 	"ee": "http://doi.acm.org/10.1145/2451116.2451169",
 	"pages": "485-498",
 	"publisher": "ACM",
-	"stemmed": ["gp", "uf", "integr", "a", "file", "system", "with", "gpus"],
-	"tag": ["file system", "named"],
+	"stemmed": [
+		"gp",
+		"uf",
+		"integr",
+		"a",
+		"file",
+		"system",
+		"with",
+		"gpus"
+	],
+	"tag": [
+		"file system",
+		"named"
+	],
 	"title": "GPUfs: integrating a file system with GPUs",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

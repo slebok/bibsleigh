@@ -1,14 +1,33 @@
 {
-	"author": ["José A. Joao", "M. Aater Suleman", "Onur Mutlu", "Yale N. Patt"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"José A. Joao",
+		"M. Aater Suleman",
+		"Onur Mutlu",
+		"Yale N. Patt"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2012",
 	"dblpkey": "conf/asplos/JoaoSMP12",
 	"doi": "10.1145/2150976.2151001",
 	"ee": "http://doi.acm.org/10.1145/2150976.2151001",
 	"pages": "223-234",
 	"publisher": "ACM",
-	"stemmed": ["bottleneck", "identif", "and", "schedul", "in", "multithread", "applic"],
-	"tag": ["identification", "parallel", "scheduling", "thread"],
+	"stemmed": [
+		"bottleneck",
+		"identif",
+		"and",
+		"schedul",
+		"in",
+		"multithread",
+		"applic"
+	],
+	"tag": [
+		"identification",
+		"parallel",
+		"scheduling",
+		"thread"
+	],
 	"title": "Bottleneck identification and scheduling in multithreaded applications",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,6 +1,9 @@
 {
-	"author": ["Jayanta Mondal", "Amol Deshpande"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jayanta Mondal",
+		"Amol Deshpande"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/MondalD12",
@@ -8,8 +11,17 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213854",
 	"pages": "145-156",
 	"publisher": "ACM",
-	"stemmed": ["manag", "larg", "dynam", "graph", "effici"],
-	"tag": ["graph", "scalability"],
+	"stemmed": [
+		"manag",
+		"larg",
+		"dynam",
+		"graph",
+		"effici"
+	],
+	"tag": [
+		"graph",
+		"scalability"
+	],
 	"title": "Managing large dynamic graphs efficiently",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

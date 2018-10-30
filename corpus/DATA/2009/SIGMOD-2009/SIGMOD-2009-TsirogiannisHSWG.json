@@ -1,6 +1,12 @@
 {
-	"author": ["Dimitris Tsirogiannis", "Stavros Harizopoulos", "Mehul A. Shah", "Janet L. Wiener", "Goetz Graefe"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Dimitris Tsirogiannis",
+		"Stavros Harizopoulos",
+		"Mehul A. Shah",
+		"Janet L. Wiener",
+		"Goetz Graefe"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/TsirogiannisHSWG09",
@@ -8,8 +14,18 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559854",
 	"pages": "59-72",
 	"publisher": "ACM",
-	"stemmed": ["queri", "process", "techniqu", "for", "solid", "state", "drive"],
-	"tag": ["query"],
+	"stemmed": [
+		"queri",
+		"process",
+		"techniqu",
+		"for",
+		"solid",
+		"state",
+		"drive"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Query processing techniques for solid state drives",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

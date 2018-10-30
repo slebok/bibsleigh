@@ -1,13 +1,27 @@
 {
-	"author": ["Irina Calciu", "David Dice", "Yossi Lev", "Victor Luchangco", "Virendra J. Marathe", "Nir Shavit"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Irina Calciu",
+		"David Dice",
+		"Yossi Lev",
+		"Victor Luchangco",
+		"Virendra J. Marathe",
+		"Nir Shavit"
+	],
+	"booktitle": "Proceedings of the 18th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2013",
 	"dblpkey": "conf/ppopp/CalciuDLLMS13",
 	"doi": "10.1145/2442516.2442532",
 	"ee": "http://doi.acm.org/10.1145/2442516.2442532",
 	"pages": "157-166",
 	"publisher": "ACM",
-	"stemmed": ["numa", "awar", "reader", "writer", "lock"],
+	"stemmed": [
+		"numa",
+		"awar",
+		"reader",
+		"writer",
+		"lock"
+	],
 	"title": "NUMA-aware reader-writer locks",
 	"type": "inproceedings",
 	"venue": "PPoPP",

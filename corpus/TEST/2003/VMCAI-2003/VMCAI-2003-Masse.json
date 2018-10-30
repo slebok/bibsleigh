@@ -1,6 +1,7 @@
 {
 	"author": "Damien Massé",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the Fourth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2003",
 	"dblpkey": "conf/vmcai/Masse03",
 	"doi": "10.1007/3-540-36384-X_8",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["properti", "check", "driven", "abstract", "interpret", "base", "static", "analysi"],
-	"tag": ["abstract interpretation", "static analysis"],
+	"stemmed": [
+		"properti",
+		"check",
+		"driven",
+		"abstract",
+		"interpret",
+		"base",
+		"static",
+		"analysi"
+	],
+	"tag": [
+		"abstract interpretation",
+		"static analysis"
+	],
 	"title": "Property Checking Driven Abstract Interpretation-Based Static Analysis",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2575,
+	"volume": "2575",
 	"year": 2003
 }

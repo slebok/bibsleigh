@@ -1,13 +1,33 @@
 {
-	"author": ["T. Kolpe", "Antonia Zhai", "Sachin S. Sapatnekar"],
-	"booktitle": "DATE",
+	"author": [
+		"T. Kolpe",
+		"Antonia Zhai",
+		"Sachin S. Sapatnekar"
+	],
+	"booktitle": "Proceedings of the 15th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2011",
 	"dblpkey": "conf/date/KolpeZS11",
 	"ieeearid": 5763052,
 	"pages": "293-298",
 	"publisher": "IEEE",
-	"stemmed": ["enabl", "improv", "power", "manag", "in", "multicor", "processor", "through", "cluster", "dvfs"],
-	"tag": ["clustering", "manycore", "power management"],
+	"stemmed": [
+		"enabl",
+		"improv",
+		"power",
+		"manag",
+		"in",
+		"multicor",
+		"processor",
+		"through",
+		"cluster",
+		"dvfs"
+	],
+	"tag": [
+		"clustering",
+		"manycore",
+		"power management"
+	],
 	"title": "Enabling improved power management in multicore processors through clustered DVFS",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,6 +1,7 @@
 {
 	"author": "Chad E. Brown",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 18th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2002",
 	"dblpkey": "conf/cade/Brown02",
 	"doi": "10.1007/3-540-45620-1_33",
@@ -10,11 +11,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["solv", "for", "set", "variabl", "in", "higher", "order", "theorem", "prove"],
-	"tag": ["higher-order", "proving", "set", "theorem proving"],
+	"stemmed": [
+		"solv",
+		"for",
+		"set",
+		"variabl",
+		"in",
+		"higher",
+		"order",
+		"theorem",
+		"prove"
+	],
+	"tag": [
+		"higher-order",
+		"proving",
+		"set",
+		"theorem proving"
+	],
 	"title": "Solving for Set Variables in Higher-Order Theorem Proving",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2392,
+	"volume": "2392",
 	"year": 2002
 }

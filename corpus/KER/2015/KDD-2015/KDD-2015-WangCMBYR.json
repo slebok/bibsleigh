@@ -1,14 +1,35 @@
 {
-	"author": ["Zheng Wang", "Prithwish Chakraborty", "Sumiko R. Mekaru", "John S. Brownstein", "Jieping Ye", "Naren Ramakrishnan"],
-	"booktitle": "KDD",
+	"author": [
+		"Zheng Wang",
+		"Prithwish Chakraborty",
+		"Sumiko R. Mekaru",
+		"John S. Brownstein",
+		"Jieping Ye",
+		"Naren Ramakrishnan"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/WangCMBYR15",
 	"doi": "10.1145/2783258.2783291",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783291",
 	"pages": "1285-1294",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "poisson", "autoregress", "for", "influenza", "like", "ill", "case", "count", "predict"],
-	"tag": ["predict"],
+	"stemmed": [
+		"dynam",
+		"poisson",
+		"autoregress",
+		"for",
+		"influenza",
+		"like",
+		"ill",
+		"case",
+		"count",
+		"predict"
+	],
+	"tag": [
+		"predict"
+	],
 	"title": "Dynamic Poisson Autoregression for Influenza-Like-Illness Case Count Prediction",
 	"type": "inproceedings",
 	"venue": "KDD",

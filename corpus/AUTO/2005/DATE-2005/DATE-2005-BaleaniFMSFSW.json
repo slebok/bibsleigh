@@ -1,6 +1,15 @@
 {
-	"author": ["Massimo Baleani", "Alberto Ferrari", "Leonardo Mangeruca", "Alberto L. Sangiovanni-Vincentelli", "Ulrich Freund", "Erhard Schlenker", "Hans-Jörg Wolff"],
-	"booktitle": "DATE",
+	"author": [
+		"Massimo Baleani",
+		"Alberto Ferrari",
+		"Leonardo Mangeruca",
+		"Alberto L. Sangiovanni-Vincentelli",
+		"Ulrich Freund",
+		"Erhard Schlenker",
+		"Hans-Jörg Wolff"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/BaleaniFMSFSW05",
 	"doi": "10.1109/DATE.2005.105",
@@ -8,8 +17,27 @@
 	"pages": "1044-1049",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["correct", "by", "construct", "transform", "across", "design", "environ", "for", "model", "base", "embed", "softwar", "develop"],
-	"tag": ["design", "development", "embedded", "modelling"],
+	"stemmed": [
+		"correct",
+		"by",
+		"construct",
+		"transform",
+		"across",
+		"design",
+		"environ",
+		"for",
+		"model",
+		"base",
+		"embed",
+		"softwar",
+		"develop"
+	],
+	"tag": [
+		"design",
+		"development",
+		"embedded",
+		"modelling"
+	],
 	"title": "Correct-by-Construction Transformations across Design Environments for Model-Based Embedded Software Development",
 	"type": "inproceedings",
 	"venue": "DATE",

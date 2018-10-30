@@ -1,6 +1,9 @@
 {
-	"author": ["Kyriacos E. Pavlou", "Richard T. Snodgrass"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Kyriacos E. Pavlou",
+		"Richard T. Snodgrass"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/PavlouS06",
@@ -8,8 +11,18 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142487",
 	"pages": "109-120",
 	"publisher": "ACM",
-	"stemmed": ["forens", "analysi", "of", "databas", "tamper"],
-	"tag": ["analysis", "database", "forensics"],
+	"stemmed": [
+		"forens",
+		"analysi",
+		"of",
+		"databas",
+		"tamper"
+	],
+	"tag": [
+		"analysis",
+		"database",
+		"forensics"
+	],
 	"title": "Forensic analysis of database tampering",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,33 @@
 {
-	"author": ["Benoit Boissinot", "Sebastian Hack", "Daniel Grund", "Benoît Dupont de Dinechin", "Fabrice Rastello"],
-	"booktitle": "CGO",
+	"author": [
+		"Benoit Boissinot",
+		"Sebastian Hack",
+		"Daniel Grund",
+		"Benoît Dupont de Dinechin",
+		"Fabrice Rastello"
+	],
+	"booktitle": "Proceedings of the Sixth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2008",
 	"dblpkey": "conf/cgo/BoissinotHGDR08",
 	"doi": "10.1145/1356058.1356064",
 	"ee": "http://doi.acm.org/10.1145/1356058.1356064",
 	"pages": "35-44",
 	"publisher": "ACM",
-	"stemmed": ["fast", "live", "check", "for", "ssa", "form", "program"],
-	"tag": ["liveness", "performance", "source code"],
+	"stemmed": [
+		"fast",
+		"live",
+		"check",
+		"for",
+		"ssa",
+		"form",
+		"program"
+	],
+	"tag": [
+		"liveness",
+		"performance",
+		"source code"
+	],
 	"title": "Fast liveness checking for ssa-form programs",
 	"type": "inproceedings",
 	"venue": "CGO",

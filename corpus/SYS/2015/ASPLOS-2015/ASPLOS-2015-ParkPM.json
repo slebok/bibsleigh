@@ -1,14 +1,34 @@
 {
-	"author": ["Jason Jong Kyu Park", "Yongjun Park", "Scott A. Mahlke"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Jason Jong Kyu Park",
+		"Yongjun Park",
+		"Scott A. Mahlke"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2015",
 	"dblpkey": "conf/asplos/ParkPM15",
 	"doi": "10.1145/2694344.2694346",
 	"ee": "http://doi.acm.org/10.1145/2694344.2694346",
 	"pages": "593-606",
 	"publisher": "ACM",
-	"stemmed": ["chimera", "collabor", "preemption", "for", "multitask", "on", "a", "share", "gpu"],
-	"tag": ["collaboration", "gpu", "multi", "named"],
+	"stemmed": [
+		"chimera",
+		"collabor",
+		"preemption",
+		"for",
+		"multitask",
+		"on",
+		"a",
+		"share",
+		"gpu"
+	],
+	"tag": [
+		"collaboration",
+		"gpu",
+		"multi",
+		"named"
+	],
 	"title": "Chimera: Collaborative Preemption for Multitasking on a Shared GPU",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

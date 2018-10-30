@@ -1,13 +1,30 @@
 {
-	"author": ["Varun Modi", "Subhajit Roy", "Sanjeev K. Aggarwal"],
-	"booktitle": "PASTE",
+	"author": [
+		"Varun Modi",
+		"Subhajit Roy",
+		"Sanjeev K. Aggarwal"
+	],
+	"booktitle": "Proceedings of the 11th Workshop on Program Analysis for Software Tools and Engineering",
+	"booktitleshort": "PASTE",
 	"dblpkey": "conf/paste/ModiRA13",
 	"doi": "10.1145/2462029.2462034",
 	"ee": "http://doi.acm.org/10.1145/2462029.2462034",
 	"pages": "33-40",
 	"publisher": "ACM",
-	"stemmed": ["explor", "program", "phase", "for", "statist", "bug", "local"],
-	"tag": ["debugging", "locality", "statistics"],
+	"stemmed": [
+		"explor",
+		"program",
+		"phase",
+		"for",
+		"statist",
+		"bug",
+		"local"
+	],
+	"tag": [
+		"debugging",
+		"locality",
+		"statistics"
+	],
 	"title": "Exploring program phases for statistical bug localization",
 	"type": "inproceedings",
 	"venue": "PASTE",

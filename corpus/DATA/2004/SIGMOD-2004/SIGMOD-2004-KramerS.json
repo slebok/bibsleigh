@@ -1,15 +1,35 @@
 {
-	"author": ["Jürgen Krämer", "Bernhard Seeger"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jürgen Krämer",
+		"Bernhard Seeger"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/KramerS04",
 	"doi": "10.1145/1007568.1007699",
-	"ee": ["http://doi.acm.org/10.1145/1007568.1007699", "http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/D-154.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1007568.1007699",
+		"http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/D-154.pdf"
+	],
 	"pages": "925-926",
 	"publisher": "ACM",
-	"stemmed": ["pipe", "a", "public", "infrastructur", "for", "process", "and", "explor", "stream"],
-	"tag": ["framework", "named", "pipes and filters"],
+	"stemmed": [
+		"pipe",
+		"a",
+		"public",
+		"infrastructur",
+		"for",
+		"process",
+		"and",
+		"explor",
+		"stream"
+	],
+	"tag": [
+		"framework",
+		"named",
+		"pipes and filters"
+	],
 	"title": "PIPES — A Public Infrastructure for Processing and Exploring Streams",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,10 @@
 {
-	"author": ["J. Monnard", "Jacques Pasquier-Boltuck"],
-	"booktitle": "ECHT",
+	"author": [
+		"J. Monnard",
+		"Jacques Pasquier-Boltuck"
+	],
+	"booktitle": "Proceedings of the European Conference on Hypertext Technology",
+	"booktitleshort": "HT/ECHT",
 	"cdrom": "ECHT1992/P081.pdf",
 	"crossref": "conf/echt/92",
 	"dblpkey": "conf/echt/MonnardP92",
@@ -8,8 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/168466.168498",
 	"pages": "81-90",
 	"publisher": "ACM",
-	"stemmed": ["an", "object", "orient", "script", "environ", "for", "the", "webss", "electron", "book", "system"],
-	"tag": ["object-oriented"],
+	"stemmed": [
+		"an",
+		"object",
+		"orient",
+		"script",
+		"environ",
+		"for",
+		"the",
+		"webss",
+		"electron",
+		"book",
+		"system"
+	],
+	"tag": [
+		"object-oriented"
+	],
 	"title": "An Object-Oriented Scripting Environment for the WEBSs Electronic Book System",
 	"type": "inproceedings",
 	"venue": "HT",

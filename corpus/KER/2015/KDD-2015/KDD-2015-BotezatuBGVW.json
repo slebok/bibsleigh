@@ -1,14 +1,34 @@
 {
-	"author": ["Mirela Madalina Botezatu", "Jasmina Bogojeska", "Ioana Giurgiu", "Hagen Völzer", "Dorothea Wiesmann"],
-	"booktitle": "KDD",
+	"author": [
+		"Mirela Madalina Botezatu",
+		"Jasmina Bogojeska",
+		"Ioana Giurgiu",
+		"Hagen Völzer",
+		"Dorothea Wiesmann"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/BotezatuBGVW15",
 	"doi": "10.1145/2783258.2788607",
 	"ee": "http://doi.acm.org/10.1145/2783258.2788607",
 	"pages": "1711-1720",
 	"publisher": "ACM",
-	"stemmed": ["multi", "view", "incid", "ticket", "cluster", "for", "optim", "ticket", "dispatch"],
-	"tag": ["clustering", "multi"],
+	"stemmed": [
+		"multi",
+		"view",
+		"incid",
+		"ticket",
+		"cluster",
+		"for",
+		"optim",
+		"ticket",
+		"dispatch"
+	],
+	"tag": [
+		"clustering",
+		"multi"
+	],
 	"title": "Multi-View Incident Ticket Clustering for Optimal Ticket Dispatching",
 	"type": "inproceedings",
 	"venue": "KDD",

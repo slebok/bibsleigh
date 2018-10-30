@@ -1,14 +1,35 @@
 {
-	"author": ["Wei-Shen Wang", "Vladik Kreinovich", "Michael Orshansky"],
-	"booktitle": "DAC",
+	"author": [
+		"Wei-Shen Wang",
+		"Vladik Kreinovich",
+		"Michael Orshansky"
+	],
+	"booktitle": "Proceedings of the 43rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/WangKO06",
 	"doi": "10.1145/1146909.1146954",
 	"ee": "http://doi.acm.org/10.1145/1146909.1146954",
 	"pages": "161-166",
 	"publisher": "ACM",
-	"stemmed": ["statist", "time", "base", "on", "incomplet", "probabilist", "descript", "of", "paramet", "uncertainti"],
-	"tag": ["nondeterminism", "parametricity", "probability", "statistics"],
+	"stemmed": [
+		"statist",
+		"time",
+		"base",
+		"on",
+		"incomplet",
+		"probabilist",
+		"descript",
+		"of",
+		"paramet",
+		"uncertainti"
+	],
+	"tag": [
+		"nondeterminism",
+		"parametricity",
+		"probability",
+		"statistics"
+	],
 	"title": "Statistical timing based on incomplete probabilistic descriptions of parameter uncertainty",
 	"type": "inproceedings",
 	"venue": "DAC",

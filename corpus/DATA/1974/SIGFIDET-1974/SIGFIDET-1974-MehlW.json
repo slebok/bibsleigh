@@ -1,6 +1,10 @@
 {
-	"author": ["James W. Mehl", "C. P. Wang"],
-	"booktitle": "SIGMOD Workshop, Vol. 1",
+	"author": [
+		"James W. Mehl",
+		"C. P. Wang"
+	],
+	"booktitle": "Proceedings of the Fourth ACM-SIGFIDET Workshop on Data Description, Access and Control",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGFIDET74-1/P125.pdf",
 	"crossref": "conf/sigmod/74",
 	"dblpkey": "conf/sigmod/MehlW74",
@@ -8,8 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/800296.811508",
 	"pages": "125-139",
 	"publisher": "ACM",
-	"stemmed": ["a", "studi", "of", "order", "transform", "of", "hierarch", "structur", "in", "im", "data", "base"],
-	"tag": ["case study", "database", "order"],
+	"stemmed": [
+		"a",
+		"studi",
+		"of",
+		"order",
+		"transform",
+		"of",
+		"hierarch",
+		"structur",
+		"in",
+		"im",
+		"data",
+		"base"
+	],
+	"tag": [
+		"case study",
+		"database",
+		"order"
+	],
 	"title": "A Study of Order Transformations of Hierarchical Structures in IMS Data Base",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

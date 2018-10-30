@@ -1,6 +1,11 @@
 {
-	"author": ["Donald B. Crouch", "Carolyn J. Crouch", "Glenn Andreas"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Donald B. Crouch",
+		"Carolyn J. Crouch",
+		"Glenn Andreas"
+	],
+	"booktitle": "Proceedings of the Second Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1989/P225.pdf",
 	"crossref": "conf/ht/89",
 	"dblpkey": "conf/ht/CrouchCA89",
@@ -8,8 +13,22 @@
 	"ee": "http://doi.acm.org/10.1145/74224.74243",
 	"pages": "225-237",
 	"publisher": "ACM",
-	"stemmed": ["the", "use", "of", "cluster", "hierarchi", "in", "hypertext", "inform", "retriev"],
-	"tag": ["clustering", "hypermedia", "information retrieval"],
+	"stemmed": [
+		"the",
+		"use",
+		"of",
+		"cluster",
+		"hierarchi",
+		"in",
+		"hypertext",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"clustering",
+		"hypermedia",
+		"information retrieval"
+	],
 	"title": "The Use of Cluster Hierarchies in Hypertext Information Retrieval",
 	"type": "inproceedings",
 	"venue": "HT",

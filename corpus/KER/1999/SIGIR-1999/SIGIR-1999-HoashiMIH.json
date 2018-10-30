@@ -1,6 +1,12 @@
 {
-	"author": ["Keiichiro Hoashi", "Kazunori Matsumoto", "Naomi Inoue", "Kazuo Hashimoto"],
+	"author": [
+		"Keiichiro Hoashi",
+		"Kazunori Matsumoto",
+		"Naomi Inoue",
+		"Kazuo Hashimoto"
+	],
 	"booktitle": "Proceedings of the 22nd International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1999/P303.pdf",
 	"crossref": "conf/sigir/99",
 	"dblpkey": "conf/sigir/HoashiMIH99",
@@ -8,8 +14,21 @@
 	"ee": "http://doi.acm.org/10.1145/312624.312733",
 	"pages": "303-304",
 	"publisher": "ACM",
-	"stemmed": ["queri", "expans", "method", "base", "on", "word", "contribut", "poster", "abstract"],
-	"tag": ["query", "word"],
+	"stemmed": [
+		"queri",
+		"expans",
+		"method",
+		"base",
+		"on",
+		"word",
+		"contribut",
+		"poster",
+		"abstract"
+	],
+	"tag": [
+		"query",
+		"word"
+	],
 	"title": "Query Expansion Method Based on Word Contribution (poster abstract)",
 	"type": "inproceedings",
 	"venue": "SIGIR",

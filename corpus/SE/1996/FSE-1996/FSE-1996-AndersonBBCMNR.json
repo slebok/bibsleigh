@@ -1,7 +1,15 @@
 {
-	"author": ["Richard J. Anderson", "Paul Beame", "Steve Burns", "William Chan", "Francesmary Modugno", "David Notkin", "Jon Damon Reese"],
+	"author": [
+		"Richard J. Anderson",
+		"Paul Beame",
+		"Steve Burns",
+		"William Chan",
+		"Francesmary Modugno",
+		"David Notkin",
+		"Jon Damon Reese"
+	],
 	"booktitle": "Proceedings of the Fourth Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/1996",
 	"dblpkey": "conf/sigsoft/AndersonBBCMNR96",
 	"doi": "10.1145/239098.239127",
@@ -9,8 +17,18 @@
 	"ee": "http://doi.acm.org/10.1145/239098.239127",
 	"pages": "156-166",
 	"publisher": "ACM",
-	"stemmed": ["model", "check", "larg", "softwar", "specif"],
-	"tag": ["model checking", "scalability", "specification"],
+	"stemmed": [
+		"model",
+		"check",
+		"larg",
+		"softwar",
+		"specif"
+	],
+	"tag": [
+		"model checking",
+		"scalability",
+		"specification"
+	],
 	"title": "Model Checking Large Software Specifications",
 	"type": "inproceedings",
 	"venue": "FSE",

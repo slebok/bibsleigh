@@ -1,14 +1,35 @@
 {
-	"author": ["Arnaud Durand", "Nicole Schweikardt", "Luc Segoufin"],
-	"booktitle": "PODS",
+	"author": [
+		"Arnaud Durand",
+		"Nicole Schweikardt",
+		"Luc Segoufin"
+	],
+	"booktitle": "Proceedings of the 33rd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2014",
 	"dblpkey": "conf/pods/DurandSS14",
 	"doi": "10.1145/2594538.2594539",
 	"ee": "http://doi.acm.org/10.1145/2594538.2594539",
 	"pages": "121-131",
 	"publisher": "ACM",
-	"stemmed": ["enumer", "answer", "to", "first", "order", "queri", "over", "databas", "of", "low", "degre"],
-	"tag": ["database", "first-order", "query"],
+	"stemmed": [
+		"enumer",
+		"answer",
+		"to",
+		"first",
+		"order",
+		"queri",
+		"over",
+		"databas",
+		"of",
+		"low",
+		"degre"
+	],
+	"tag": [
+		"database",
+		"first-order",
+		"query"
+	],
 	"title": "Enumerating answers to first-order queries over databases of low degree",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,6 +1,11 @@
 {
-	"author": ["Abhijit Ghosh", "Joachim Kunkel", "Stan Y. Liao"],
-	"booktitle": "DATE",
+	"author": [
+		"Abhijit Ghosh",
+		"Joachim Kunkel",
+		"Stan Y. Liao"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/GhoshKL99",
 	"doi": "10.1109/DATE.1999.761152",
@@ -8,8 +13,19 @@
 	"pages": "387-389",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["hardwar", "synthesi", "from", "c", "c"],
-	"tag": ["c", "c++", "hardware", "synthesis"],
+	"stemmed": [
+		"hardwar",
+		"synthesi",
+		"from",
+		"c",
+		"c"
+	],
+	"tag": [
+		"c",
+		"c++",
+		"hardware",
+		"synthesis"
+	],
 	"title": "Hardware Synthesis from C/C++",
 	"type": "inproceedings",
 	"venue": "DATE",

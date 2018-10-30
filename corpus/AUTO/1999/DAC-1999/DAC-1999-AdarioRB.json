@@ -1,13 +1,30 @@
 {
-	"author": ["Alexandro M. S. Adário", "Eduardo L. Roehe", "Sergio Bampi"],
-	"booktitle": "DAC",
+	"author": [
+		"Alexandro M. S. Adário",
+		"Eduardo L. Roehe",
+		"Sergio Bampi"
+	],
+	"booktitle": "Proceedings of the 36th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/AdarioRB99",
 	"doi": "10.1145/309847.310012",
 	"ee": "http://doi.acm.org/10.1145/309847.310012",
 	"pages": "623-628",
 	"publisher": "ACM Press",
-	"stemmed": ["dynam", "reconfigur", "architectur", "for", "imag", "processor", "applic"],
-	"tag": ["architecture", "configuration management", "image"],
+	"stemmed": [
+		"dynam",
+		"reconfigur",
+		"architectur",
+		"for",
+		"imag",
+		"processor",
+		"applic"
+	],
+	"tag": [
+		"architecture",
+		"configuration management",
+		"image"
+	],
 	"title": "Dynamically Reconfigurable Architecture for Image Processor Applications",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,30 @@
 {
-	"author": ["Rodric M. Rabbah", "Hariharan Sandanagobalane", "Mongkol Ekpanyapong", "Weng-Fai Wong"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Rodric M. Rabbah",
+		"Hariharan Sandanagobalane",
+		"Mongkol Ekpanyapong",
+		"Weng-Fai Wong"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2004",
 	"dblpkey": "conf/asplos/RabbahSEW04",
 	"doi": "10.1145/1024393.1024416",
 	"ee": "http://doi.acm.org/10.1145/1024393.1024416",
 	"pages": "189-198",
 	"publisher": "ACM",
-	"stemmed": ["compil", "orchestr", "prefetch", "via", "specul", "and", "predic"],
-	"tag": ["compilation"],
+	"stemmed": [
+		"compil",
+		"orchestr",
+		"prefetch",
+		"via",
+		"specul",
+		"and",
+		"predic"
+	],
+	"tag": [
+		"compilation"
+	],
 	"title": "Compiler orchestrated prefetching via speculation and predication",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,13 +1,36 @@
 {
-	"author": ["Lifeng Su", "Stephan Courcambeck", "Pierre Guillemin", "Christian Schwarz", "Renaud Pacalet"],
-	"booktitle": "DATE",
+	"author": [
+		"Lifeng Su",
+		"Stephan Courcambeck",
+		"Pierre Guillemin",
+		"Christian Schwarz",
+		"Renaud Pacalet"
+	],
+	"booktitle": "Proceedings of the 13th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2009",
 	"dblpkey": "conf/date/SuCGSP09",
 	"ieeearid": 5090729,
 	"pages": "570-573",
 	"publisher": "IEEE",
-	"stemmed": ["sec", "bus", "oper", "system", "control", "hierarch", "page", "base", "memori", "bus", "protect"],
-	"tag": ["memory management", "named", "operating system"],
+	"stemmed": [
+		"sec",
+		"bus",
+		"oper",
+		"system",
+		"control",
+		"hierarch",
+		"page",
+		"base",
+		"memori",
+		"bus",
+		"protect"
+	],
+	"tag": [
+		"memory management",
+		"named",
+		"operating system"
+	],
 	"title": "SecBus: Operating System controlled hierarchical page-based memory bus protection",
 	"type": "inproceedings",
 	"venue": "DATE",

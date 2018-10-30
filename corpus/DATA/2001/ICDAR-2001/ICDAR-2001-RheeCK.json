@@ -1,15 +1,45 @@
 {
-	"author": ["Taik H. Rhee", "Sung J. Cho", "Jin-Ho Kim"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Taik H. Rhee",
+		"Sung J. Cho",
+		"Jin-Ho Kim"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2001",
 	"dblpkey": "conf/icdar/RheeCK01",
 	"doi": "10.1109/ICDAR.2001.953869",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2001.953869", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953869"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2001.953869",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953869"
+	],
 	"pages": "645-649",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["on", "line", "signatur", "verif", "use", "model", "guid", "segment", "and", "discrimin", "featur", "select", "for", "skill", "forgeri"],
-	"tag": ["feature model", "online", "segmentation", "using", "verification"],
+	"stemmed": [
+		"on",
+		"line",
+		"signatur",
+		"verif",
+		"use",
+		"model",
+		"guid",
+		"segment",
+		"and",
+		"discrimin",
+		"featur",
+		"select",
+		"for",
+		"skill",
+		"forgeri"
+	],
+	"tag": [
+		"feature model",
+		"online",
+		"segmentation",
+		"using",
+		"verification"
+	],
 	"title": "On-Line Signature Verification Using Model-Guided Segmentation and Discriminative Feature Selection for Skilled Forgeries",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,14 +1,35 @@
 {
-	"author": ["Lei Huang", "Deepak Eachempati", "Marcus W. Hervey", "Barbara M. Chapman"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Lei Huang",
+		"Deepak Eachempati",
+		"Marcus W. Hervey",
+		"Barbara M. Chapman"
+	],
+	"booktitle": "Proceedings of the 14th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2009",
 	"dblpkey": "conf/ppopp/HuangEHC09",
 	"doi": "10.1145/1504176.1504219",
 	"ee": "http://doi.acm.org/10.1145/1504176.1504219",
 	"pages": "289-290",
 	"publisher": "ACM",
-	"stemmed": ["exploit", "global", "optim", "for", "openmp", "program", "in", "the", "openuh", "compil"],
-	"tag": ["compilation", "optimisation", "source code"],
+	"stemmed": [
+		"exploit",
+		"global",
+		"optim",
+		"for",
+		"openmp",
+		"program",
+		"in",
+		"the",
+		"openuh",
+		"compil"
+	],
+	"tag": [
+		"compilation",
+		"optimisation",
+		"source code"
+	],
 	"title": "Exploiting global optimizations for openmp programs in the openuh compiler",
 	"type": "inproceedings",
 	"venue": "PPoPP",

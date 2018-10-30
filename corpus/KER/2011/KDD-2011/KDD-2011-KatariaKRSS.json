@@ -1,14 +1,32 @@
 {
-	"author": ["Saurabh Kataria", "Krishnan S. Kumar", "Rajeev Rastogi", "Prithviraj Sen", "Srinivasan H. Sengamedu"],
-	"booktitle": "KDD",
+	"author": [
+		"Saurabh Kataria",
+		"Krishnan S. Kumar",
+		"Rajeev Rastogi",
+		"Prithviraj Sen",
+		"Srinivasan H. Sengamedu"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/KatariaKRSS11",
 	"doi": "10.1145/2020408.2020574",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020574",
 	"pages": "1037-1045",
 	"publisher": "ACM",
-	"stemmed": ["entiti", "disambigu", "with", "hierarch", "topic", "model"],
-	"tag": ["ambiguity", "modelling", "topic"],
+	"stemmed": [
+		"entiti",
+		"disambigu",
+		"with",
+		"hierarch",
+		"topic",
+		"model"
+	],
+	"tag": [
+		"ambiguity",
+		"modelling",
+		"topic"
+	],
 	"title": "Entity disambiguation with hierarchical topic models",
 	"type": "inproceedings",
 	"venue": "KDD",

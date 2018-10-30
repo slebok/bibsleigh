@@ -1,14 +1,31 @@
 {
-	"author": ["F. Maxwell Harper", "Shilad Sen", "Dan Frankowski"],
-	"booktitle": "RecSys",
+	"author": [
+		"F. Maxwell Harper",
+		"Shilad Sen",
+		"Dan Frankowski"
+	],
+	"booktitle": "Proceedings of the First Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2007",
 	"dblpkey": "conf/recsys/HarperSF07",
 	"doi": "10.1145/1297231.1297262",
 	"ee": "http://doi.acm.org/10.1145/1297231.1297262",
 	"pages": "165-168",
 	"publisher": "ACM",
-	"stemmed": ["support", "social", "recommend", "with", "activ", "balanc", "cluster"],
-	"tag": ["clustering", "recommendation", "social"],
+	"stemmed": [
+		"support",
+		"social",
+		"recommend",
+		"with",
+		"activ",
+		"balanc",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"recommendation",
+		"social"
+	],
 	"title": "Supporting social recommendations with activity-balanced clustering",
 	"type": "inproceedings",
 	"venue": "RecSys",

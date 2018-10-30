@@ -1,6 +1,9 @@
 {
-	"author": ["Younghoon Kim", "Kyuseok Shim"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Younghoon Kim",
+		"Kyuseok Shim"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/KimS13",
@@ -8,8 +11,22 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465324",
 	"pages": "385-396",
 	"publisher": "ACM",
-	"stemmed": ["effici", "top", "k", "algorithm", "for", "approxim", "substr", "match"],
-	"tag": ["algorithm", "approximate", "performance", "string"],
+	"stemmed": [
+		"effici",
+		"top",
+		"k",
+		"algorithm",
+		"for",
+		"approxim",
+		"substr",
+		"match"
+	],
+	"tag": [
+		"algorithm",
+		"approximate",
+		"performance",
+		"string"
+	],
 	"title": "Efficient top-k algorithms for approximate substring matching",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,6 @@
 {
 	"author": "Shigeru Chiba",
-	"booktitle": "Proceedings of the 10th Annual Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"booktitle": "Proceedings of the 10th Annual Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1995",
 	"dblpkey": "conf/oopsla/Chiba95",
@@ -10,8 +10,17 @@
 	"isbn": "0-89791-703-0",
 	"pages": "285-299",
 	"publisher": "ACM",
-	"stemmed": ["a", "metaobject", "protocol", "for", "c"],
-	"tag": ["c++", "protocol"],
+	"stemmed": [
+		"a",
+		"metaobject",
+		"protocol",
+		"for",
+		"c"
+	],
+	"tag": [
+		"c++",
+		"protocol"
+	],
 	"title": "A Metaobject Protocol for C++",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

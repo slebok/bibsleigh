@@ -1,16 +1,46 @@
 {
-	"author": ["Christos Faloutsos", "Dimitris N. Metaxas"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS89/P253.PDF", "journals/anthology/dvd1:text/1-3/PODS89/P253.PDF"],
-	"cite": ["journals/tods/AhoU79", "conf/sigmod/CopelandABK88", "conf/vldb/DeWittGGHKM86", "...", "journals/tods/DuS82", "journals/tods/NievergeltHS84", "conf/sigmod/PattersonGK88", "...", "...", "journals/cacm/RothnieL74", "journals/cacm/StanfillK86", "..."],
+	"author": [
+		"Christos Faloutsos",
+		"Dimitris N. Metaxas"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS89/P253.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS89/P253.PDF"
+	],
+	"cite": [
+		"journals/tods/AhoU79",
+		"conf/sigmod/CopelandABK88",
+		"conf/vldb/DeWittGGHKM86",
+		"...",
+		"journals/tods/DuS82",
+		"journals/tods/NievergeltHS84",
+		"conf/sigmod/PattersonGK88",
+		"...",
+		"...",
+		"journals/cacm/RothnieL74",
+		"journals/cacm/StanfillK86",
+		"..."
+	],
 	"crossref": "conf/pods/89",
 	"dblpkey": "conf/pods/FaloutsosM89",
 	"doi": "10.1145/73721.73747",
 	"ee": "http://doi.acm.org/10.1145/73721.73747",
 	"pages": "253-258",
 	"publisher": "ACM Press",
-	"stemmed": ["declust", "use", "error", "correct", "code"],
-	"tag": ["clustering", "fault", "using"],
+	"stemmed": [
+		"declust",
+		"use",
+		"error",
+		"correct",
+		"code"
+	],
+	"tag": [
+		"clustering",
+		"fault",
+		"using"
+	],
 	"title": "Declustering Using Error Correcting Codes",
 	"type": "inproceedings",
 	"venue": "PODS",

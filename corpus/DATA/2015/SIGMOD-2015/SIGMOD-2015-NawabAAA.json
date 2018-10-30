@@ -1,6 +1,11 @@
 {
-	"author": ["Faisal Nawab", "Vaibhav Arora", "Divyakant Agrawal", "Amr El Abbadi"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Faisal Nawab",
+		"Vaibhav Arora",
+		"Divyakant Agrawal",
+		"Amr El Abbadi"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/NawabAAA15",
@@ -8,8 +13,23 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2723729",
 	"pages": "1279-1294",
 	"publisher": "ACM",
-	"stemmed": ["minim", "commit", "latenc", "of", "transact", "in", "geo", "replic", "data", "store"],
-	"tag": ["commit", "latency", "transaction"],
+	"stemmed": [
+		"minim",
+		"commit",
+		"latenc",
+		"of",
+		"transact",
+		"in",
+		"geo",
+		"replic",
+		"data",
+		"store"
+	],
+	"tag": [
+		"commit",
+		"latency",
+		"transaction"
+	],
 	"title": "Minimizing Commit Latency of Transactions in Geo-Replicated Data Stores",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

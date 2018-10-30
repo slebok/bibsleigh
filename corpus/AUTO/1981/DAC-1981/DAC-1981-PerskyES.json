@@ -1,13 +1,35 @@
 {
-	"acmid": 802275,
-	"author": ["G. Persky", "C. Enger", "D. M. Selove"],
-	"booktitle": "DAC",
+	"acmid": "802275",
+	"author": [
+		"G. Persky",
+		"C. Enger",
+		"D. M. Selove"
+	],
+	"booktitle": "Proceedings of the 18th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1981",
 	"dblpkey": "conf/dac/PerskyES81",
 	"pages": "22-28",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["the", "hugh", "autom", "layout", "system", "autom", "lsi", "vlsi", "layout", "base", "on", "channel", "rout"],
-	"tag": ["automation", "layout"],
+	"stemmed": [
+		"the",
+		"hugh",
+		"autom",
+		"layout",
+		"system",
+		"autom",
+		"lsi",
+		"vlsi",
+		"layout",
+		"base",
+		"on",
+		"channel",
+		"rout"
+	],
+	"tag": [
+		"automation",
+		"layout"
+	],
 	"title": "The Hughes Automated Layout System — automated LSI/VLSI layout based on channel routing",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,35 @@
 {
-	"author": ["Arunmoezhi Ramachandran", "Neeraj Mittal"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Arunmoezhi Ramachandran",
+		"Neeraj Mittal"
+	],
+	"booktitle": "Proceedings of the 20th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2015",
 	"dblpkey": "conf/ppopp/RamachandranM15",
 	"doi": "10.1145/2688500.2688551",
 	"ee": "http://doi.acm.org/10.1145/2688500.2688551",
 	"pages": "281-282",
 	"publisher": "ACM",
-	"stemmed": ["castl", "fast", "concurr", "intern", "binari", "search", "tree", "use", "edg", "base", "lock"],
-	"tag": ["concurrent", "named", "performance", "using"],
+	"stemmed": [
+		"castl",
+		"fast",
+		"concurr",
+		"intern",
+		"binari",
+		"search",
+		"tree",
+		"use",
+		"edg",
+		"base",
+		"lock"
+	],
+	"tag": [
+		"concurrent",
+		"named",
+		"performance",
+		"using"
+	],
 	"title": "CASTLE: fast concurrent internal binary search tree using edge-based locking",
 	"type": "inproceedings",
 	"venue": "PPoPP",

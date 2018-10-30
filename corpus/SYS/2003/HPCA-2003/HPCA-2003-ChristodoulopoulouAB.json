@@ -1,15 +1,42 @@
 {
-	"author": ["Rosalia Christodoulopoulou", "Reza Azimi", "Angelos Bilas"],
-	"booktitle": "HPCA",
+	"author": [
+		"Rosalia Christodoulopoulou",
+		"Reza Azimi",
+		"Angelos Bilas"
+	],
+	"booktitle": "Proceedings of the Ninth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2003",
 	"dblpkey": "conf/hpca/ChristodoulopoulouAB03",
 	"doi": "10.1109/HPCA.2003.1183538",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2003.1183538", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2003.1183538"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2003.1183538",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2003.1183538"
+	],
 	"pages": "203-214",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["dynam", "data", "replic", "an", "approach", "to", "provid", "fault", "toler", "share", "memori", "cluster"],
-	"tag": ["approach", "clustering", "fault tolerance", "memory management", "replication"],
+	"stemmed": [
+		"dynam",
+		"data",
+		"replic",
+		"an",
+		"approach",
+		"to",
+		"provid",
+		"fault",
+		"toler",
+		"share",
+		"memori",
+		"cluster"
+	],
+	"tag": [
+		"approach",
+		"clustering",
+		"fault tolerance",
+		"memory management",
+		"replication"
+	],
 	"title": "Dynamic Data Replication: An Approach to Providing Fault-Tolerant Shared Memory Clusters",
 	"type": "inproceedings",
 	"venue": "HPCA",

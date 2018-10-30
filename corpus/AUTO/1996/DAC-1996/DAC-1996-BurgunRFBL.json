@@ -1,13 +1,26 @@
 {
-	"author": ["Luc Burgun", "Frédéric Reblewski", "Gérard Fenelon", "Jean Barbier", "Olivier Lepape"],
-	"booktitle": "DAC",
+	"author": [
+		"Luc Burgun",
+		"Frédéric Reblewski",
+		"Gérard Fenelon",
+		"Jean Barbier",
+		"Olivier Lepape"
+	],
+	"booktitle": "Proceedings of the 33rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/BurgunRFBL96",
 	"doi": "10.1145/240518.240669",
 	"ee": "http://doi.acm.org/10.1145/240518.240669",
 	"pages": "801-806",
 	"publisher": "ACM Press",
-	"stemmed": ["serial", "fault", "emul"],
-	"tag": ["fault"],
+	"stemmed": [
+		"serial",
+		"fault",
+		"emul"
+	],
+	"tag": [
+		"fault"
+	],
 	"title": "Serial Fault Emulation",
 	"type": "inproceedings",
 	"venue": "DAC",

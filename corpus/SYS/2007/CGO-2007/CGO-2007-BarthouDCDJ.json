@@ -1,16 +1,42 @@
 {
-	"acmid": 1252539,
-	"author": ["Denis Barthou", "Sébastien Donadio", "Patrick Carribault", "Alexandre Duchateau", "William Jalby"],
-	"booktitle": "CGO",
+	"acmid": "1252539",
+	"author": [
+		"Denis Barthou",
+		"Sébastien Donadio",
+		"Patrick Carribault",
+		"Alexandre Duchateau",
+		"William Jalby"
+	],
+	"booktitle": "Proceedings of the Fifth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2007",
 	"dblpkey": "conf/cgo/BarthouDCDJ07",
 	"doi": "10.1109/CGO.2007.22",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2007.22", "http://doi.ieeecomputersociety.org/10.1109/CGO.2007.22", "http://dl.acm.org/citation.cfm?id=1252539"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2007.22",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2007.22",
+		"http://dl.acm.org/citation.cfm?id=1252539"
+	],
 	"pages": "170-184",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["loop", "optim", "use", "hierarch", "compil", "and", "kernel", "decomposit"],
-	"tag": ["compilation", "composition", "kernel", "optimisation", "using"],
+	"stemmed": [
+		"loop",
+		"optim",
+		"use",
+		"hierarch",
+		"compil",
+		"and",
+		"kernel",
+		"decomposit"
+	],
+	"tag": [
+		"compilation",
+		"composition",
+		"kernel",
+		"optimisation",
+		"using"
+	],
 	"title": "Loop Optimization using Hierarchical Compilation and Kernel Decomposition",
 	"type": "inproceedings",
 	"venue": "CGO",

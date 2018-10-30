@@ -1,6 +1,10 @@
 {
-	"author": ["Mountaz Zizi", "Michel Beaudouin-Lafon"],
-	"booktitle": "ECHT",
+	"author": [
+		"Mountaz Zizi",
+		"Michel Beaudouin-Lafon"
+	],
+	"booktitle": "Proceedings of the European Conference on Hypertext Technology",
+	"booktitleshort": "HT/ECHT",
 	"cdrom": "ECHT1994/P126.pdf",
 	"crossref": "conf/echt/94",
 	"dblpkey": "conf/echt/ZiziB94",
@@ -8,8 +12,17 @@
 	"ee": "http://doi.acm.org/10.1145/192757.192786",
 	"pages": "126-135",
 	"publisher": "ACM",
-	"stemmed": ["access", "hyperdocu", "through", "interact", "dynam", "map"],
-	"tag": ["interactive"],
+	"stemmed": [
+		"access",
+		"hyperdocu",
+		"through",
+		"interact",
+		"dynam",
+		"map"
+	],
+	"tag": [
+		"interactive"
+	],
 	"title": "Accessing Hyperdocuments through Interactive Dynamic Maps",
 	"type": "inproceedings",
 	"venue": "HT",

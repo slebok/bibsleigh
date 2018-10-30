@@ -1,14 +1,35 @@
 {
-	"author": ["David D. Jensen", "Andrew S. Fast", "Brian J. Taylor", "Marc E. Maier"],
-	"booktitle": "KDD",
+	"author": [
+		"David D. Jensen",
+		"Andrew S. Fast",
+		"Brian J. Taylor",
+		"Marc E. Maier"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/JensenFTM08",
 	"doi": "10.1145/1401890.1401938",
 	"ee": "http://doi.acm.org/10.1145/1401890.1401938",
 	"pages": "372-380",
 	"publisher": "ACM",
-	"stemmed": ["automat", "identif", "of", "quasi", "experiment", "design", "for", "discov", "causal", "knowledg"],
-	"tag": ["automation", "design", "identification"],
+	"stemmed": [
+		"automat",
+		"identif",
+		"of",
+		"quasi",
+		"experiment",
+		"design",
+		"for",
+		"discov",
+		"causal",
+		"knowledg"
+	],
+	"tag": [
+		"automation",
+		"design",
+		"identification"
+	],
 	"title": "Automatic identification of quasi-experimental designs for discovering causal knowledge",
 	"type": "inproceedings",
 	"venue": "KDD",

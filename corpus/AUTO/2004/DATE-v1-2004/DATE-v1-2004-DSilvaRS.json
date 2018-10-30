@@ -1,6 +1,11 @@
 {
-	"author": ["Vijay D'Silva", "S. Ramesh", "Arcot Sowmya"],
-	"booktitle": "DATE",
+	"author": [
+		"Vijay D'Silva",
+		"S. Ramesh",
+		"Arcot Sowmya"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/DSilvaRS04",
 	"doi": "10.1109/DATE.2004.1268878",
@@ -8,8 +13,31 @@
 	"pages": "390-395",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["synchron", "protocol", "automata", "a", "framework", "for", "model", "and", "verif", "of", "so", "c", "communic", "architectur"],
-	"tag": ["architecture", "automaton", "communication", "framework", "modelling", "protocol", "verification"],
+	"stemmed": [
+		"synchron",
+		"protocol",
+		"automata",
+		"a",
+		"framework",
+		"for",
+		"model",
+		"and",
+		"verif",
+		"of",
+		"so",
+		"c",
+		"communic",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"automaton",
+		"communication",
+		"framework",
+		"modelling",
+		"protocol",
+		"verification"
+	],
 	"title": "Synchronous Protocol Automata: A Framework for Modelling and Verification of SoC Communication Architectures",
 	"type": "inproceedings",
 	"venue": "DATE",

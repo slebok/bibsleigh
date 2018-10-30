@@ -1,15 +1,35 @@
 {
-	"author": ["Patrick E. O'Neil", "Elizabeth J. O'Neil", "Shankar Pal", "Istvan Cseri", "Gideon Schaller", "Nigel Westbury"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Patrick E. O'Neil",
+		"Elizabeth J. O'Neil",
+		"Shankar Pal",
+		"Istvan Cseri",
+		"Gideon Schaller",
+		"Nigel Westbury"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/ONeilOPCSW04",
 	"doi": "10.1145/1007568.1007686",
-	"ee": ["http://doi.acm.org/10.1145/1007568.1007686", "http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/I-007a.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1007568.1007686",
+		"http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/I-007a.pdf"
+	],
 	"pages": "903-908",
 	"publisher": "ACM",
-	"stemmed": ["ordpath", "insert", "friend", "xml", "node", "label"],
-	"tag": ["named", "xml"],
+	"stemmed": [
+		"ordpath",
+		"insert",
+		"friend",
+		"xml",
+		"node",
+		"label"
+	],
+	"tag": [
+		"named",
+		"xml"
+	],
 	"title": "ORDPATHs: Insert-Friendly XML Node Labels",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

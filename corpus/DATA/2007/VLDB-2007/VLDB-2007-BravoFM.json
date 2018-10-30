@@ -1,13 +1,25 @@
 {
-	"author": ["Loreto Bravo", "Wenfei Fan", "Shuai Ma"],
-	"booktitle": "VLDB",
+	"author": [
+		"Loreto Bravo",
+		"Wenfei Fan",
+		"Shuai Ma"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/BravoFM07",
 	"ee": "http://www.vldb.org/conf/2007/papers/research/p243-bravo.pdf",
 	"pages": "243-254",
 	"publisher": "ACM",
-	"stemmed": ["extend", "depend", "with", "condit"],
-	"tag": ["dependence"],
+	"stemmed": [
+		"extend",
+		"depend",
+		"with",
+		"condit"
+	],
+	"tag": [
+		"dependence"
+	],
 	"title": "Extending Dependencies with Conditions",
 	"type": "inproceedings",
 	"venue": "VLDB",

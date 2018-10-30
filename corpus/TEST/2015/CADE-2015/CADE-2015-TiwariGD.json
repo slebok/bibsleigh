@@ -1,6 +1,11 @@
 {
-	"author": ["Ashish Tiwari", "Adria Gascón", "Bruno Dutertre"],
-	"booktitle": "CADE",
+	"author": [
+		"Ashish Tiwari",
+		"Adria Gascón",
+		"Bruno Dutertre"
+	],
+	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
 	"dblpkey": "conf/cade/TiwariGD15",
 	"doi": "10.1007/978-3-319-21401-6_33",
@@ -10,11 +15,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["program", "synthesi", "use", "dual", "interpret"],
-	"tag": ["synthesis", "using"],
+	"stemmed": [
+		"program",
+		"synthesi",
+		"use",
+		"dual",
+		"interpret"
+	],
+	"tag": [
+		"synthesis",
+		"using"
+	],
 	"title": "Program Synthesis Using Dual Interpretation",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 9195,
+	"volume": "9195",
 	"year": 2015
 }

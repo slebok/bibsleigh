@@ -1,6 +1,11 @@
 {
-	"author": ["Yeting Ge", "Clark Barrett", "Cesare Tinelli"],
-	"booktitle": "CADE",
+	"author": [
+		"Yeting Ge",
+		"Clark Barrett",
+		"Cesare Tinelli"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2007",
 	"dblpkey": "conf/cade/GeBT07",
 	"doi": "10.1007/978-3-540-73595-3_12",
@@ -10,11 +15,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["solv", "quantifi", "verif", "condit", "use", "satisfi", "modulo", "theori"],
-	"tag": ["modulo theories", "quantifier", "satisfiability", "using", "verification"],
+	"stemmed": [
+		"solv",
+		"quantifi",
+		"verif",
+		"condit",
+		"use",
+		"satisfi",
+		"modulo",
+		"theori"
+	],
+	"tag": [
+		"modulo theories",
+		"quantifier",
+		"satisfiability",
+		"using",
+		"verification"
+	],
 	"title": "Solving Quantified Verification Conditions Using Satisfiability Modulo Theories",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 4603,
+	"volume": "4603",
 	"year": 2007
 }

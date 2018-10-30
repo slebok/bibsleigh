@@ -1,6 +1,12 @@
 {
-	"author": ["Peter Bailis", "Shivaram Venkataraman", "Michael J. Franklin", "Joseph M. Hellerstein", "Ion Stoica"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Peter Bailis",
+		"Shivaram Venkataraman",
+		"Michael J. Franklin",
+		"Joseph M. Hellerstein",
+		"Ion Stoica"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/BailisVFHS13",
@@ -8,8 +14,22 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465260",
 	"pages": "1113-1116",
 	"publisher": "ACM",
-	"stemmed": ["pbs", "at", "work", "advanc", "data", "manag", "with", "consist", "metric"],
-	"tag": ["consistency", "data transformation", "metric"],
+	"stemmed": [
+		"pbs",
+		"at",
+		"work",
+		"advanc",
+		"data",
+		"manag",
+		"with",
+		"consist",
+		"metric"
+	],
+	"tag": [
+		"consistency",
+		"data transformation",
+		"metric"
+	],
 	"title": "PBS at work: advancing data management with consistency metrics",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

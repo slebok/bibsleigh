@@ -1,14 +1,37 @@
 {
-	"author": ["Pierre Guironnet de Massas", "Frédéric Pétrot"],
-	"booktitle": "DATE",
+	"author": [
+		"Pierre Guironnet de Massas",
+		"Frédéric Pétrot"
+	],
+	"booktitle": "Proceedings of the 12th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2008",
 	"dblpkey": "conf/date/MassasP08",
 	"doi": "10.1109/DATE.2008.4484811",
 	"ee": "http://dx.doi.org/10.1109/DATE.2008.4484811",
 	"pages": "997-1002",
 	"publisher": "IEEE",
-	"stemmed": ["comparison", "of", "memori", "write", "polici", "for", "no", "c", "base", "multicor", "cach", "coher", "system"],
-	"tag": ["comparison", "manycore", "memory management", "policy"],
+	"stemmed": [
+		"comparison",
+		"of",
+		"memori",
+		"write",
+		"polici",
+		"for",
+		"no",
+		"c",
+		"base",
+		"multicor",
+		"cach",
+		"coher",
+		"system"
+	],
+	"tag": [
+		"comparison",
+		"manycore",
+		"memory management",
+		"policy"
+	],
 	"title": "Comparison of memory write policies for NoC based Multicore Cache Coherent Systems",
 	"type": "inproceedings",
 	"venue": "DATE",

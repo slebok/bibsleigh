@@ -1,14 +1,33 @@
 {
-	"author": ["Sven Hartmann", "Sebastian Link"],
-	"booktitle": "PODS",
+	"author": [
+		"Sven Hartmann",
+		"Sebastian Link"
+	],
+	"booktitle": "Proceedings of the 23rd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2004",
 	"dblpkey": "conf/pods/HartmannL04",
 	"doi": "10.1145/1055558.1055603",
-	"ee": ["http://doi.acm.org/10.1145/1055558.1055603", "http://www.acm.org/sigmod/pods/proc04/pdf/P-33.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1055558.1055603",
+		"http://www.acm.org/sigmod/pods/proc04/pdf/P-33.pdf"
+	],
 	"pages": "330-341",
 	"publisher": "ACM",
-	"stemmed": ["multi", "valu", "depend", "in", "the", "presenc", "of", "list"],
-	"tag": ["dependence", "multi"],
+	"stemmed": [
+		"multi",
+		"valu",
+		"depend",
+		"in",
+		"the",
+		"presenc",
+		"of",
+		"list"
+	],
+	"tag": [
+		"dependence",
+		"multi"
+	],
 	"title": "Multi-valued Dependencies in the Presence of Lists",
 	"type": "inproceedings",
 	"venue": "PODS",

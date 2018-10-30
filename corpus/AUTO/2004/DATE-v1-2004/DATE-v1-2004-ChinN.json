@@ -1,6 +1,10 @@
 {
-	"author": ["James Chin", "Mehrdad Nourani"],
-	"booktitle": "DATE",
+	"author": [
+		"James Chin",
+		"Mehrdad Nourani"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/ChinN04",
 	"doi": "10.1109/DATE.2004.1268942",
@@ -8,8 +12,24 @@
 	"pages": "710-711",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["so", "c", "test", "schedul", "with", "power", "time", "tradeoff", "and", "hot", "spot", "avoid"],
-	"tag": ["scheduling", "trade-off"],
+	"stemmed": [
+		"so",
+		"c",
+		"test",
+		"schedul",
+		"with",
+		"power",
+		"time",
+		"tradeoff",
+		"and",
+		"hot",
+		"spot",
+		"avoid"
+	],
+	"tag": [
+		"scheduling",
+		"trade-off"
+	],
 	"title": "SoC Test Scheduling with Power-Time Tradeoff and Hot Spot Avoidance",
 	"type": "inproceedings",
 	"venue": "DATE",

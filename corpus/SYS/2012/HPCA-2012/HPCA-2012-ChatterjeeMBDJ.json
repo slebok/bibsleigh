@@ -1,15 +1,39 @@
 {
-	"author": ["Niladrish Chatterjee", "Naveen Muralimanohar", "Rajeev Balasubramonian", "Al Davis", "Norman P. Jouppi"],
-	"booktitle": "HPCA",
+	"author": [
+		"Niladrish Chatterjee",
+		"Naveen Muralimanohar",
+		"Rajeev Balasubramonian",
+		"Al Davis",
+		"Norman P. Jouppi"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2012",
 	"dblpkey": "conf/hpca/ChatterjeeMBDJ12",
 	"doi": "10.1109/HPCA.2012.6168943",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2012.6168943", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6168943"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2012.6168943",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6168943"
+	],
 	"pages": "41-52",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["stage", "read", "mitig", "the", "impact", "of", "dram", "write", "on", "dram", "read"],
-	"tag": ["staged"],
+	"stemmed": [
+		"stage",
+		"read",
+		"mitig",
+		"the",
+		"impact",
+		"of",
+		"dram",
+		"write",
+		"on",
+		"dram",
+		"read"
+	],
+	"tag": [
+		"staged"
+	],
 	"title": "Staged Reads: Mitigating the impact of DRAM writes on DRAM reads",
 	"type": "inproceedings",
 	"venue": "HPCA",

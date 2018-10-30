@@ -1,7 +1,12 @@
 {
-	"author": ["Thomas W. Reps", "Susan Horwitz", "Shmuel Sagiv", "Genevieve Rosay"],
+	"author": [
+		"Thomas W. Reps",
+		"Susan Horwitz",
+		"Shmuel Sagiv",
+		"Genevieve Rosay"
+	],
 	"booktitle": "Proceedings of the Second Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/1994",
 	"dblpkey": "conf/sigsoft/RepsHSR94",
 	"doi": "10.1145/193173.195287",
@@ -9,8 +14,14 @@
 	"ee": "http://doi.acm.org/10.1145/193173.195287",
 	"pages": "11-20",
 	"publisher": "ACM",
-	"stemmed": ["speed", "up", "slice"],
-	"tag": ["slicing"],
+	"stemmed": [
+		"speed",
+		"up",
+		"slice"
+	],
+	"tag": [
+		"slicing"
+	],
 	"title": "Speeding up Slicing",
 	"type": "inproceedings",
 	"venue": "FSE",

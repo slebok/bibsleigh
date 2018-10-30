@@ -1,14 +1,33 @@
 {
-	"author": ["Taewhan Kim", "Ki-Seok Chung", "Chien-Liang Liu"],
-	"booktitle": "DAC",
+	"author": [
+		"Taewhan Kim",
+		"Ki-Seok Chung",
+		"Chien-Liang Liu"
+	],
+	"booktitle": "Proceedings of the 38th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2001",
 	"dblpkey": "conf/dac/KimCL01",
 	"doi": "10.1145/378239.378466",
 	"ee": "http://doi.acm.org/10.1145/378239.378466",
 	"pages": "215-219",
 	"publisher": "ACM",
-	"stemmed": ["a", "static", "estim", "techniqu", "of", "power", "sensit", "in", "logic", "circuit"],
-	"tag": ["estimation", "logic"],
+	"stemmed": [
+		"a",
+		"static",
+		"estim",
+		"techniqu",
+		"of",
+		"power",
+		"sensit",
+		"in",
+		"logic",
+		"circuit"
+	],
+	"tag": [
+		"estimation",
+		"logic"
+	],
 	"title": "A Static Estimation Technique of Power Sensitivity in Logic Circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

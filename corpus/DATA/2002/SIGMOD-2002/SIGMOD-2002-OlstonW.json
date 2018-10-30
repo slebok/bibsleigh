@@ -1,6 +1,9 @@
 {
-	"author": ["Chris Olston", "Jennifer Widom"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Chris Olston",
+		"Jennifer Widom"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/OlstonW02",
@@ -8,7 +11,15 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564701",
 	"pages": "73-84",
 	"publisher": "ACM",
-	"stemmed": ["best", "effort", "cach", "synchron", "with", "sourc", "cooper"],
+	"stemmed": [
+		"best",
+		"effort",
+		"cach",
+		"synchron",
+		"with",
+		"sourc",
+		"cooper"
+	],
 	"title": "Best-effort cache synchronization with source cooperation",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,36 @@
 {
-	"acmid": 1164255,
-	"author": ["Loredana Afanasiev", "Massimo Franceschet", "Maarten Marx", "Enrico Zimuel"],
-	"booktitle": "VLDB",
+	"acmid": "1164255",
+	"author": [
+		"Loredana Afanasiev",
+		"Massimo Franceschet",
+		"Maarten Marx",
+		"Enrico Zimuel"
+	],
+	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
 	"dblpkey": "conf/vldb/AfanasievFMZ06",
 	"ee": "http://www.vldb.org/conf/2006/p1247-afanasiev.pdf",
 	"pages": "1247-1250",
 	"publisher": "ACM",
-	"stemmed": ["x", "check", "a", "platform", "for", "benchmark", "x", "queri", "engin"],
-	"tag": ["benchmark", "framework", "metric", "named", "xquery"],
+	"stemmed": [
+		"x",
+		"check",
+		"a",
+		"platform",
+		"for",
+		"benchmark",
+		"x",
+		"queri",
+		"engin"
+	],
+	"tag": [
+		"benchmark",
+		"framework",
+		"metric",
+		"named",
+		"xquery"
+	],
 	"title": "XCheck: A Platform for Benchmarking XQuery Engines",
 	"type": "inproceedings",
 	"venue": "VLDB",

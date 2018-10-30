@@ -1,6 +1,10 @@
 {
-	"author": ["Torsten Grust", "Jan Rittinger", "Jens Teubner"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Torsten Grust",
+		"Jan Rittinger",
+		"Jens Teubner"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/GrustRT07",
@@ -8,8 +12,27 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247591",
 	"pages": "949-958",
 	"publisher": "ACM",
-	"stemmed": ["whi", "off", "the", "shelf", "rdbmss", "are", "better", "at", "x", "path", "than", "you", "might", "expect"],
-	"tag": ["off the shelf", "why", "xpath"],
+	"stemmed": [
+		"whi",
+		"off",
+		"the",
+		"shelf",
+		"rdbmss",
+		"are",
+		"better",
+		"at",
+		"x",
+		"path",
+		"than",
+		"you",
+		"might",
+		"expect"
+	],
+	"tag": [
+		"off the shelf",
+		"why",
+		"xpath"
+	],
 	"title": "Why off-the-shelf RDBMSs are better at XPath than you might expect",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

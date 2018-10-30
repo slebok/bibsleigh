@@ -1,14 +1,37 @@
 {
-	"author": ["Sandy El Helou", "Christophe Salzmann", "Stéphane Sire", "Denis Gillet"],
-	"booktitle": "RecSys",
+	"author": [
+		"Sandy El Helou",
+		"Christophe Salzmann",
+		"Stéphane Sire",
+		"Denis Gillet"
+	],
+	"booktitle": "Proceedings of the Third Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2009",
 	"dblpkey": "conf/recsys/HelouSSG09",
 	"doi": "10.1145/1639714.1639791",
 	"ee": "http://doi.acm.org/10.1145/1639714.1639791",
 	"pages": "373-376",
 	"publisher": "ACM",
-	"stemmed": ["the", "a", "contextu", "rank", "system", "simultan", "recommend", "actor", "asset", "and", "group", "activ"],
-	"tag": ["process", "ranking", "recommendation"],
+	"stemmed": [
+		"the",
+		"a",
+		"contextu",
+		"rank",
+		"system",
+		"simultan",
+		"recommend",
+		"actor",
+		"asset",
+		"and",
+		"group",
+		"activ"
+	],
+	"tag": [
+		"process",
+		"ranking",
+		"recommendation"
+	],
 	"title": "The 3A contextual ranking system: simultaneously recommending actors, assets, and group activities",
 	"type": "inproceedings",
 	"venue": "RecSys",

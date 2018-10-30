@@ -1,6 +1,6 @@
 {
 	"author": "Howard P. Katseff",
-	"booktitle": "PPOPP/PPEALS",
+	"booktitle": "Proceedings of the First Symposium on Parallel Programming: Experience with Applications, Languages and Systems",
 	"booktitleshort": "PPEALS",
 	"crossref": "conf/ppopp/1988",
 	"dblpkey": "conf/ppopp/Katseff88",
@@ -8,8 +8,22 @@
 	"ee": "http://doi.acm.org/10.1145/62115.62123",
 	"pages": "66-76",
 	"publisher": "ACM",
-	"stemmed": ["use", "data", "partit", "to", "implement", "a", "parallel", "assembl"],
-	"tag": ["assembly", "clustering", "parallel", "using"],
+	"stemmed": [
+		"use",
+		"data",
+		"partit",
+		"to",
+		"implement",
+		"a",
+		"parallel",
+		"assembl"
+	],
+	"tag": [
+		"assembly",
+		"clustering",
+		"parallel",
+		"using"
+	],
 	"title": "Using Data Partitioning to Implement a Parallel Assembler",
 	"type": "inproceedings",
 	"venue": "PPoPP",

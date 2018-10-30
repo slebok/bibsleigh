@@ -1,13 +1,36 @@
 {
-	"author": ["Pinar Senkul", "Michael Kifer", "Ismail Hakki Toroslu"],
-	"booktitle": "VLDB",
+	"author": [
+		"Pinar Senkul",
+		"Michael Kifer",
+		"Ismail Hakki Toroslu"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/SenkulKT02",
 	"ee": "http://www.vldb.org/conf/2002/S20P01.pdf",
 	"pages": "694-705",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["a", "logic", "framework", "for", "schedul", "workflow", "under", "resourc", "alloc", "constraint"],
-	"tag": ["constraints", "framework", "logic", "resource management", "scheduling", "workflow"],
+	"stemmed": [
+		"a",
+		"logic",
+		"framework",
+		"for",
+		"schedul",
+		"workflow",
+		"under",
+		"resourc",
+		"alloc",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"framework",
+		"logic",
+		"resource management",
+		"scheduling",
+		"workflow"
+	],
 	"title": "A Logical Framework for Scheduling Workflows under Resource Allocation Constraints",
 	"type": "inproceedings",
 	"venue": "VLDB",

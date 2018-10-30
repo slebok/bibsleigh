@@ -1,13 +1,36 @@
 {
-	"author": ["Chao Xie", "Chunzhi Su", "Manos Kapritsos", "Yang Wang", "Navid Yaghmazadeh", "Lorenzo Alvisi", "Prince Mahajan"],
-	"booktitle": "OSDI",
+	"author": [
+		"Chao Xie",
+		"Chunzhi Su",
+		"Manos Kapritsos",
+		"Yang Wang",
+		"Navid Yaghmazadeh",
+		"Lorenzo Alvisi",
+		"Prince Mahajan"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2014",
 	"dblpkey": "conf/osdi/XieSK0YAM14",
 	"ee": "https://www.usenix.org/conference/osdi14/technical-sessions/presentation/xie",
 	"pages": "495-509",
 	"publisher": "USENIX Association",
-	"stemmed": ["salt", "combin", "acid", "and", "base", "in", "a", "distribut", "databas"],
-	"tag": ["database", "distributed", "named"],
+	"stemmed": [
+		"salt",
+		"combin",
+		"acid",
+		"and",
+		"base",
+		"in",
+		"a",
+		"distribut",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"distributed",
+		"named"
+	],
 	"title": "Salt: Combining ACID and BASE in a Distributed Database",
 	"type": "inproceedings",
 	"venue": "OSDI",

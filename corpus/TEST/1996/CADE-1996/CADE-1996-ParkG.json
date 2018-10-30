@@ -1,6 +1,10 @@
 {
-	"author": ["Tai Joon Park", "Allen Van Gelder"],
-	"booktitle": "CADE",
+	"author": [
+		"Tai Joon Park",
+		"Allen Van Gelder"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/ParkG96",
 	"doi": "10.1007/3-540-61511-3_126",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["partit", "method", "for", "satisfi", "test", "on", "larg", "formula"],
-	"tag": ["clustering", "satisfiability", "scalability", "testing"],
+	"stemmed": [
+		"partit",
+		"method",
+		"for",
+		"satisfi",
+		"test",
+		"on",
+		"larg",
+		"formula"
+	],
+	"tag": [
+		"clustering",
+		"satisfiability",
+		"scalability",
+		"testing"
+	],
 	"title": "Partitioning Methods for Satisfiability Testing on Large Formulas",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

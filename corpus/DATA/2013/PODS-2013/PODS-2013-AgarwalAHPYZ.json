@@ -1,14 +1,32 @@
 {
-	"author": ["Pankaj K. Agarwal", "Boris Aronov", "Sariel Har-Peled", "Jeff M. Phillips", "Ke Yi", "Wuzhou Zhang"],
-	"booktitle": "PODS",
+	"author": [
+		"Pankaj K. Agarwal",
+		"Boris Aronov",
+		"Sariel Har-Peled",
+		"Jeff M. Phillips",
+		"Ke Yi",
+		"Wuzhou Zhang"
+	],
+	"booktitle": "Proceedings of the 32nd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2013",
 	"dblpkey": "conf/pods/AgarwalAHPYZ13",
 	"doi": "10.1145/2463664.2465219",
 	"ee": "http://doi.acm.org/10.1145/2463664.2465219",
 	"pages": "115-126",
 	"publisher": "ACM",
-	"stemmed": ["nearest", "neighbor", "search", "under", "uncertainti", "ii"],
-	"tag": ["nearest neighbour", "nondeterminism"],
+	"stemmed": [
+		"nearest",
+		"neighbor",
+		"search",
+		"under",
+		"uncertainti",
+		"ii"
+	],
+	"tag": [
+		"nearest neighbour",
+		"nondeterminism"
+	],
 	"title": "Nearest neighbor searching under uncertainty II",
 	"type": "inproceedings",
 	"venue": "PODS",

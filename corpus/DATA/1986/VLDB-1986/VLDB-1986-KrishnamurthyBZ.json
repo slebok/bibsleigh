@@ -1,14 +1,43 @@
 {
-	"author": ["Ravi Krishnamurthy", "Haran Boral", "Carlo Zaniolo"],
-	"booktitle": "VLDB",
-	"cite": ["...", "...", "journals/csur/GallaireMN84", "journals/tods/IbarakiK84", "...", "conf/adbt/KelloggT79", "...", "...", "...", "conf/sigmod/SelingerACLP79", "...", "journals/tods/Ullman85", "...", "conf/vldb/Zaniolo85"],
+	"author": [
+		"Ravi Krishnamurthy",
+		"Haran Boral",
+		"Carlo Zaniolo"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"...",
+		"journals/csur/GallaireMN84",
+		"journals/tods/IbarakiK84",
+		"...",
+		"conf/adbt/KelloggT79",
+		"...",
+		"...",
+		"...",
+		"conf/sigmod/SelingerACLP79",
+		"...",
+		"journals/tods/Ullman85",
+		"...",
+		"conf/vldb/Zaniolo85"
+	],
 	"crossref": "conf/vldb/86",
 	"dblpkey": "conf/vldb/KrishnamurthyBZ86",
 	"ee": "http://www.vldb.org/conf/1986/P128.PDF",
 	"pages": "128-137",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["optim", "of", "nonrecurs", "queri"],
-	"tag": ["optimisation", "query", "recursion"],
+	"stemmed": [
+		"optim",
+		"of",
+		"nonrecurs",
+		"queri"
+	],
+	"tag": [
+		"optimisation",
+		"query",
+		"recursion"
+	],
 	"title": "Optimization of Nonrecursive Queries",
 	"type": "inproceedings",
 	"venue": "VLDB",

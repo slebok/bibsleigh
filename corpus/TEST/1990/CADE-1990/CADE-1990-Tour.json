@@ -1,6 +1,7 @@
 {
 	"author": "Thierry Boy de la Tour",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/Tour90",
 	"doi": "10.1007/3-540-52885-7_114",
@@ -10,10 +11,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["minim", "the", "number", "of", "claus", "by", "renam"],
+	"stemmed": [
+		"minim",
+		"the",
+		"number",
+		"of",
+		"claus",
+		"by",
+		"renam"
+	],
 	"title": "Minimizing the Number of Clauses by Renaming",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

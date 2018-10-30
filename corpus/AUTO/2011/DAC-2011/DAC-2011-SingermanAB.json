@@ -1,14 +1,30 @@
 {
-	"author": ["Eli Singerman", "Yael Abarbanel", "Sean Baartmans"],
-	"booktitle": "DAC",
+	"author": [
+		"Eli Singerman",
+		"Yael Abarbanel",
+		"Sean Baartmans"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/SingermanAB11",
 	"doi": "10.1145/2024724.2024855",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024855",
 	"pages": "564-568",
 	"publisher": "ACM",
-	"stemmed": ["transact", "base", "pre", "to", "post", "silicon", "valid"],
-	"tag": ["transaction", "validation"],
+	"stemmed": [
+		"transact",
+		"base",
+		"pre",
+		"to",
+		"post",
+		"silicon",
+		"valid"
+	],
+	"tag": [
+		"transaction",
+		"validation"
+	],
 	"title": "Transaction based pre-to-post silicon validation",
 	"type": "inproceedings",
 	"venue": "DAC",

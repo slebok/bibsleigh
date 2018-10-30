@@ -1,14 +1,37 @@
 {
-	"author": ["SungHyun Hong", "Jin-Chul Kim", "Jin Woo Shin", "Soo-Mook Moon", "Hyeong-Seok Oh", "Jaemok Lee", "Hyung-Kyu Choi"],
-	"booktitle": "LCTES",
+	"author": [
+		"SungHyun Hong",
+		"Jin-Chul Kim",
+		"Jin Woo Shin",
+		"Soo-Mook Moon",
+		"Hyeong-Seok Oh",
+		"Jaemok Lee",
+		"Hyung-Kyu Choi"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2007",
 	"dblpkey": "conf/lctrts/HongKSMOLC07",
 	"doi": "10.1145/1254766.1254776",
 	"ee": "http://doi.acm.org/10.1145/1254766.1254776",
 	"pages": "63-72",
 	"publisher": "ACM",
-	"stemmed": ["java", "client", "ahead", "of", "time", "compil", "for", "embed", "system"],
-	"tag": ["compilation", "embedded", "java"],
+	"stemmed": [
+		"java",
+		"client",
+		"ahead",
+		"of",
+		"time",
+		"compil",
+		"for",
+		"embed",
+		"system"
+	],
+	"tag": [
+		"compilation",
+		"embedded",
+		"java"
+	],
 	"title": "Java client ahead-of-time compiler for embedded systems",
 	"type": "inproceedings",
 	"venue": "LCTES",

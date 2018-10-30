@@ -1,14 +1,35 @@
 {
-	"author": ["M. Aater Suleman", "Onur Mutlu", "Moinuddin K. Qureshi", "Yale N. Patt"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"M. Aater Suleman",
+		"Onur Mutlu",
+		"Moinuddin K. Qureshi",
+		"Yale N. Patt"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2009",
 	"dblpkey": "conf/asplos/SulemanMQP09",
 	"doi": "10.1145/1508244.1508274",
 	"ee": "http://doi.acm.org/10.1145/1508244.1508274",
 	"pages": "253-264",
 	"publisher": "ACM",
-	"stemmed": ["acceler", "critic", "section", "execut", "with", "asymmetr", "multi", "core", "architectur"],
-	"tag": ["architecture", "execution", "manycore", "symmetry"],
+	"stemmed": [
+		"acceler",
+		"critic",
+		"section",
+		"execut",
+		"with",
+		"asymmetr",
+		"multi",
+		"core",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"execution",
+		"manycore",
+		"symmetry"
+	],
 	"title": "Accelerating critical section execution with asymmetric multi-core architectures",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

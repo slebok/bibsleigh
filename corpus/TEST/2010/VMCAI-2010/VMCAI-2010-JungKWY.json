@@ -1,6 +1,12 @@
 {
-	"author": ["Yungbum Jung", "Soonho Kong", "Bow-Yaw Wang", "Kwangkeun Yi"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Yungbum Jung",
+		"Soonho Kong",
+		"Bow-Yaw Wang",
+		"Kwangkeun Yi"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2010",
 	"dblpkey": "conf/vmcai/JungKWY10",
 	"doi": "10.1007/978-3-642-11319-2_15",
@@ -10,11 +16,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["deriv", "invari", "by", "algorithm", "learn", "decis", "procedur", "and", "predic", "abstract"],
-	"tag": ["abstraction", "algorithm", "invariant", "learning"],
+	"stemmed": [
+		"deriv",
+		"invari",
+		"by",
+		"algorithm",
+		"learn",
+		"decis",
+		"procedur",
+		"and",
+		"predic",
+		"abstract"
+	],
+	"tag": [
+		"abstraction",
+		"algorithm",
+		"invariant",
+		"learning"
+	],
 	"title": "Deriving Invariants by Algorithmic Learning, Decision Procedures, and Predicate Abstraction",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 5944,
+	"volume": "5944",
 	"year": 2010
 }

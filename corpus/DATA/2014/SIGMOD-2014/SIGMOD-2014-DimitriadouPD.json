@@ -1,6 +1,10 @@
 {
-	"author": ["Kyriaki Dimitriadou", "Olga Papaemmanouil", "Yanlei Diao"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Kyriaki Dimitriadou",
+		"Olga Papaemmanouil",
+		"Yanlei Diao"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/DimitriadouPD14",
@@ -8,8 +12,28 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2610523",
 	"pages": "517-528",
 	"publisher": "ACM",
-	"stemmed": ["explor", "by", "exampl", "an", "automat", "queri", "steer", "framework", "for", "interact", "data", "explor"],
-	"tag": ["automation", "data analysis", "framework", "interactive", "named", "query"],
+	"stemmed": [
+		"explor",
+		"by",
+		"exampl",
+		"an",
+		"automat",
+		"queri",
+		"steer",
+		"framework",
+		"for",
+		"interact",
+		"data",
+		"explor"
+	],
+	"tag": [
+		"automation",
+		"data analysis",
+		"framework",
+		"interactive",
+		"named",
+		"query"
+	],
 	"title": "Explore-by-example: an automatic query steering framework for interactive data exploration",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

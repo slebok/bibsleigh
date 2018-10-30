@@ -1,6 +1,7 @@
 {
 	"author": "Mark Tarver",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/Tarver90",
 	"doi": "10.1007/3-540-52885-7_97",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "examin", "of", "the", "prolog", "technolog", "theorem", "prover"],
-	"tag": ["prolog"],
+	"stemmed": [
+		"an",
+		"examin",
+		"of",
+		"the",
+		"prolog",
+		"technolog",
+		"theorem",
+		"prover"
+	],
+	"tag": [
+		"prolog"
+	],
 	"title": "An Examination of the Prolog Technology Theorem-Prover",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

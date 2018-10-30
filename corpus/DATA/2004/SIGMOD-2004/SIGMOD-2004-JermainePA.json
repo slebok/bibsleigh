@@ -1,6 +1,10 @@
 {
-	"author": ["Chris Jermaine", "Abhijit Pol", "Subramanian Arumugam"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Chris Jermaine",
+		"Abhijit Pol",
+		"Subramanian Arumugam"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/JermainePA04",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/1007568.1007603",
 	"pages": "299-310",
 	"publisher": "ACM",
-	"stemmed": ["onlin", "mainten", "of", "veri", "larg", "random", "sampl"],
-	"tag": ["maintenance", "online", "random", "scalability"],
+	"stemmed": [
+		"onlin",
+		"mainten",
+		"of",
+		"veri",
+		"larg",
+		"random",
+		"sampl"
+	],
+	"tag": [
+		"maintenance",
+		"online",
+		"random",
+		"scalability"
+	],
 	"title": "Online Maintenance of Very Large Random Samples",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

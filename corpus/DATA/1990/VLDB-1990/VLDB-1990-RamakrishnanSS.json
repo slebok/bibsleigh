@@ -1,14 +1,45 @@
 {
-	"author": ["Raghu Ramakrishnan", "Divesh Srivastava", "S. Sudarshan"],
-	"booktitle": "VLDB",
-	"cite": ["...", "journals/jlp/BalbinR87", "journals/jlp/BalbinPRM91", "...", "conf/iclp/Helm87", "...", "journals/is/KablerIC92", "conf/vldb/KuittinenNSS90"],
+	"author": [
+		"Raghu Ramakrishnan",
+		"Divesh Srivastava",
+		"S. Sudarshan"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"journals/jlp/BalbinR87",
+		"journals/jlp/BalbinPRM91",
+		"...",
+		"conf/iclp/Helm87",
+		"...",
+		"journals/is/KablerIC92",
+		"conf/vldb/KuittinenNSS90"
+	],
 	"crossref": "conf/vldb/90",
 	"dblpkey": "conf/vldb/RamakrishnanSS90",
 	"ee": "http://www.vldb.org/conf/1990/P359.PDF",
 	"pages": "359-371",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["rule", "order", "in", "bottom", "up", "fixpoint", "evalu", "of", "logic", "program"],
-	"tag": ["bottom-up", "evaluation", "fixpoint", "logic programming", "source code"],
+	"stemmed": [
+		"rule",
+		"order",
+		"in",
+		"bottom",
+		"up",
+		"fixpoint",
+		"evalu",
+		"of",
+		"logic",
+		"program"
+	],
+	"tag": [
+		"bottom-up",
+		"evaluation",
+		"fixpoint",
+		"logic programming",
+		"source code"
+	],
 	"title": "Rule Ordering in Bottom-Up Fixpoint Evaluation of Logic Programs",
 	"type": "inproceedings",
 	"venue": "VLDB",

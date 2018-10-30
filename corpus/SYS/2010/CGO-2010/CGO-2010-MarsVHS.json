@@ -1,14 +1,33 @@
 {
-	"author": ["Jason Mars", "Neil Vachharajani", "Robert Hundt", "Mary Lou Soffa"],
-	"booktitle": "CGO",
+	"author": [
+		"Jason Mars",
+		"Neil Vachharajani",
+		"Robert Hundt",
+		"Mary Lou Soffa"
+	],
+	"booktitle": "Proceedings of the Eighth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2010",
 	"dblpkey": "conf/cgo/MarsVHS10",
 	"doi": "10.1145/1772954.1772991",
 	"ee": "http://doi.acm.org/10.1145/1772954.1772991",
 	"pages": "257-265",
 	"publisher": "ACM",
-	"stemmed": ["content", "awar", "execut", "onlin", "content", "detect", "and", "respons"],
-	"tag": ["detection", "execution", "online"],
+	"stemmed": [
+		"content",
+		"awar",
+		"execut",
+		"onlin",
+		"content",
+		"detect",
+		"and",
+		"respons"
+	],
+	"tag": [
+		"detection",
+		"execution",
+		"online"
+	],
 	"title": "Contention aware execution: online contention detection and response",
 	"type": "inproceedings",
 	"venue": "CGO",

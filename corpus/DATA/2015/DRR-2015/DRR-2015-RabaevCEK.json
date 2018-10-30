@@ -1,6 +1,12 @@
 {
-	"author": ["Irina Rabaev", "Rafi Cohen", "Jihad El-Sana", "Klara Kedem"],
-	"booktitle": "DRR",
+	"author": [
+		"Irina Rabaev",
+		"Rafi Cohen",
+		"Jihad El-Sana",
+		"Klara Kedem"
+	],
+	"booktitle": "Proceedings of the 22nd Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2015",
 	"dblpkey": "conf/drr/RabaevCEK15",
 	"doi": "10.1117/12.2076062",
@@ -8,11 +14,24 @@
 	"pages": "94020I",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["align", "transcript", "of", "histor", "document", "use", "dynam", "program"],
-	"tag": ["documentation", "programming", "using"],
+	"stemmed": [
+		"align",
+		"transcript",
+		"of",
+		"histor",
+		"document",
+		"use",
+		"dynam",
+		"program"
+	],
+	"tag": [
+		"documentation",
+		"programming",
+		"using"
+	],
 	"title": "Aligning transcript of historical documents using dynamic programming",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 9402,
+	"volume": "9402",
 	"year": 2015
 }

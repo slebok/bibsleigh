@@ -1,14 +1,31 @@
 {
-	"author": ["Ronald P. Cocchi", "James P. Baukus", "Lap Wai Chow", "Bryan J. Wang"],
-	"booktitle": "DAC",
+	"author": [
+		"Ronald P. Cocchi",
+		"James P. Baukus",
+		"Lap Wai Chow",
+		"Bryan J. Wang"
+	],
+	"booktitle": "Proceedings of the 51st Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2014",
 	"dblpkey": "conf/dac/CocchiBCW14",
 	"doi": "10.1145/2593069.2602554",
 	"ee": "http://doi.acm.org/10.1145/2593069.2602554",
 	"pages": "153:1-153:5",
 	"publisher": "ACM",
-	"stemmed": ["circuit", "camouflag", "integr", "for", "hardwar", "ip", "protect"],
-	"tag": ["hardware", "integration"],
+	"stemmed": [
+		"circuit",
+		"camouflag",
+		"integr",
+		"for",
+		"hardwar",
+		"ip",
+		"protect"
+	],
+	"tag": [
+		"hardware",
+		"integration"
+	],
 	"title": "Circuit Camouflage Integration for Hardware IP Protection",
 	"type": "inproceedings",
 	"venue": "DAC",

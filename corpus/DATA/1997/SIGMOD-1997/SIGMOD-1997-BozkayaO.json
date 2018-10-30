@@ -1,16 +1,47 @@
 {
-	"author": ["Tolga Bozkaya", "Z. Meral Özsoyoglu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Tolga Bozkaya",
+		"Z. Meral Özsoyoglu"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD97/P357.PDF",
-	"cite": ["conf/fodo/AgrawalFS93", "journals/cacm/BurkhardK73", "conf/sigmod/BeckmannKSS90", "conf/vldb/Brin95", "conf/vldb/Chiueh94", "journals/jiis/FaloutsosBFHNPE94", "conf/sigmod/FaloutsosRM94", "conf/sigmod/Guttman84", "...", "conf/sigmod/RoussopoulosKV95", "books/aw/Samet90", "conf/vldb/SellisRF87", "journals/tois/ShashaW90", "journals/ipl/Uhlmann91", "..."],
+	"cite": [
+		"conf/fodo/AgrawalFS93",
+		"journals/cacm/BurkhardK73",
+		"conf/sigmod/BeckmannKSS90",
+		"conf/vldb/Brin95",
+		"conf/vldb/Chiueh94",
+		"journals/jiis/FaloutsosBFHNPE94",
+		"conf/sigmod/FaloutsosRM94",
+		"conf/sigmod/Guttman84",
+		"...",
+		"conf/sigmod/RoussopoulosKV95",
+		"books/aw/Samet90",
+		"conf/vldb/SellisRF87",
+		"journals/tois/ShashaW90",
+		"journals/ipl/Uhlmann91",
+		"..."
+	],
 	"crossref": "conf/sigmod/97",
 	"dblpkey": "conf/sigmod/BozkayaO97",
 	"doi": "10.1145/253260.253345",
 	"ee": "http://doi.acm.org/10.1145/253260.253345",
 	"pages": "357-368",
 	"publisher": "ACM Press",
-	"stemmed": ["distanc", "base", "index", "for", "high", "dimension", "metric", "space"],
-	"tag": ["metric"],
+	"stemmed": [
+		"distanc",
+		"base",
+		"index",
+		"for",
+		"high",
+		"dimension",
+		"metric",
+		"space"
+	],
+	"tag": [
+		"metric"
+	],
 	"title": "Distance-Based Indexing for High-Dimensional Metric Spaces",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

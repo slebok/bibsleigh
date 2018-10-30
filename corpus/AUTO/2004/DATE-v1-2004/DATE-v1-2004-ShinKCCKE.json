@@ -1,6 +1,14 @@
 {
-	"author": ["Chulho Shin", "Young-Taek Kim", "Eui-Young Chung", "Kyu-Myung Choi", "Jeong-Taek Kong", "Soo-Kwan Eo"],
-	"booktitle": "DATE",
+	"author": [
+		"Chulho Shin",
+		"Young-Taek Kim",
+		"Eui-Young Chung",
+		"Kyu-Myung Choi",
+		"Jeong-Taek Kong",
+		"Soo-Kwan Eo"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/ShinKCCKE04",
 	"doi": "10.1109/DATE.2004.1268872",
@@ -8,8 +16,25 @@
 	"pages": "352-357",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["fast", "explor", "of", "parameter", "bus", "architectur", "for", "communic", "centric", "so", "c", "design"],
-	"tag": ["architecture", "design", "performance"],
+	"stemmed": [
+		"fast",
+		"explor",
+		"of",
+		"parameter",
+		"bus",
+		"architectur",
+		"for",
+		"communic",
+		"centric",
+		"so",
+		"c",
+		"design"
+	],
+	"tag": [
+		"architecture",
+		"design",
+		"performance"
+	],
 	"title": "Fast Exploration of Parameterized Bus Architecture for Communication-Centric SoC Design",
 	"type": "inproceedings",
 	"venue": "DATE",

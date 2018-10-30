@@ -1,14 +1,39 @@
 {
-	"author": ["Ilari Shafer", "Kai Ren", "Vishnu Naresh Boddeti", "Yoshihisa Abe", "Gregory R. Ganger", "Christos Faloutsos"],
-	"booktitle": "KDD",
+	"author": [
+		"Ilari Shafer",
+		"Kai Ren",
+		"Vishnu Naresh Boddeti",
+		"Yoshihisa Abe",
+		"Gregory R. Ganger",
+		"Christos Faloutsos"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/ShaferRBAGF12",
 	"doi": "10.1145/2339530.2339711",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339711",
 	"pages": "1158-1166",
 	"publisher": "ACM",
-	"stemmed": ["rain", "mon", "an", "integr", "approach", "to", "mine", "bursti", "timeseri", "monitor", "data"],
-	"tag": ["approach", "mining", "monitoring", "named"],
+	"stemmed": [
+		"rain",
+		"mon",
+		"an",
+		"integr",
+		"approach",
+		"to",
+		"mine",
+		"bursti",
+		"timeseri",
+		"monitor",
+		"data"
+	],
+	"tag": [
+		"approach",
+		"mining",
+		"monitoring",
+		"named"
+	],
 	"title": "RainMon: an integrated approach to mining bursty timeseries monitoring data",
 	"type": "inproceedings",
 	"venue": "KDD",

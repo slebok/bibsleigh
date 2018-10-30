@@ -1,14 +1,27 @@
 {
-	"author": ["Francesco Bonchi", "Aristides Gionis", "Francesco Gullo", "Antti Ukkonen"],
-	"booktitle": "KDD",
+	"author": [
+		"Francesco Bonchi",
+		"Aristides Gionis",
+		"Francesco Gullo",
+		"Antti Ukkonen"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/BonchiGGU12",
 	"doi": "10.1145/2339530.2339735",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339735",
 	"pages": "1321-1329",
 	"publisher": "ACM",
-	"stemmed": ["chromat", "correl", "cluster"],
-	"tag": ["clustering", "correlation"],
+	"stemmed": [
+		"chromat",
+		"correl",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"correlation"
+	],
 	"title": "Chromatic correlation clustering",
 	"type": "inproceedings",
 	"venue": "KDD",

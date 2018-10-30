@@ -1,6 +1,9 @@
 {
-	"author": ["Silviu Maniu", "Bogdan Cautis"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Silviu Maniu",
+		"Bogdan Cautis"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/ManiuC12",
@@ -8,8 +11,23 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213926",
 	"pages": "661-664",
 	"publisher": "ACM",
-	"stemmed": ["taagl", "effici", "person", "search", "in", "collabor", "tag", "network"],
-	"tag": ["collaboration", "named", "network", "performance", "personalisation"],
+	"stemmed": [
+		"taagl",
+		"effici",
+		"person",
+		"search",
+		"in",
+		"collabor",
+		"tag",
+		"network"
+	],
+	"tag": [
+		"collaboration",
+		"named",
+		"network",
+		"performance",
+		"personalisation"
+	],
 	"title": "Taagle: efficient, personalized search in collaborative tagging networks",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

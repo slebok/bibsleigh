@@ -1,6 +1,10 @@
 {
-	"author": ["Sobeeh Almukhaizim", "Yiorgos Makris"],
-	"booktitle": "DATE",
+	"author": [
+		"Sobeeh Almukhaizim",
+		"Yiorgos Makris"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/AlmukhaizimM05",
 	"doi": "10.1109/DATE.2005.101",
@@ -8,8 +12,21 @@
 	"pages": "1272-1277",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["concurr", "error", "detect", "in", "asynchron", "burst", "mode", "control"],
-	"tag": ["concurrent", "detection", "fault"],
+	"stemmed": [
+		"concurr",
+		"error",
+		"detect",
+		"in",
+		"asynchron",
+		"burst",
+		"mode",
+		"control"
+	],
+	"tag": [
+		"concurrent",
+		"detection",
+		"fault"
+	],
 	"title": "Concurrent Error Detection in Asynchronous Burst-Mode Controllers",
 	"type": "inproceedings",
 	"venue": "DATE",

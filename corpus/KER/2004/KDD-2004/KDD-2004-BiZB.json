@@ -1,14 +1,30 @@
 {
-	"author": ["Jinbo Bi", "Tong Zhang", "Kristin P. Bennett"],
-	"booktitle": "KDD",
+	"author": [
+		"Jinbo Bi",
+		"Tong Zhang",
+		"Kristin P. Bennett"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2004",
 	"dblpkey": "conf/kdd/BiZB04",
 	"doi": "10.1145/1014052.1014113",
 	"ee": "http://doi.acm.org/10.1145/1014052.1014113",
 	"pages": "521-526",
 	"publisher": "ACM",
-	"stemmed": ["column", "generat", "boost", "method", "for", "mixtur", "of", "kernel"],
-	"tag": ["kernel"],
+	"stemmed": [
+		"column",
+		"generat",
+		"boost",
+		"method",
+		"for",
+		"mixtur",
+		"of",
+		"kernel"
+	],
+	"tag": [
+		"kernel"
+	],
 	"title": "Column-generation boosting methods for mixture of kernels",
 	"type": "inproceedings",
 	"venue": "KDD",

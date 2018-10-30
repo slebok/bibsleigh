@@ -1,6 +1,11 @@
 {
-	"author": ["Fulvio Corno", "Matteo Sonza Reorda", "Giovanni Squillero"],
-	"booktitle": "DATE",
+	"author": [
+		"Fulvio Corno",
+		"Matteo Sonza Reorda",
+		"Giovanni Squillero"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/CornoRS99",
 	"doi": "10.1109/DATE.1999.761215",
@@ -8,8 +13,24 @@
 	"pages": "754-755",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["approxim", "equival", "verif", "of", "sequenti", "circuit", "via", "genet", "algorithm"],
-	"tag": ["algorithm", "approximate", "equivalence", "search-based", "verification"],
+	"stemmed": [
+		"approxim",
+		"equival",
+		"verif",
+		"of",
+		"sequenti",
+		"circuit",
+		"via",
+		"genet",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"approximate",
+		"equivalence",
+		"search-based",
+		"verification"
+	],
 	"title": "Approximate Equivalence Verification of Sequential Circuits via Genetic Algorithms",
 	"type": "inproceedings",
 	"venue": "DATE",

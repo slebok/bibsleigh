@@ -1,17 +1,43 @@
 {
-	"author": ["Dirk Beyer", "Thomas A. Henzinger", "M. Erkan Keremoglu", "Philipp Wendler"],
+	"author": [
+		"Dirk Beyer",
+		"Thomas A. Henzinger",
+		"M. Erkan Keremoglu",
+		"Philipp Wendler"
+	],
 	"booktitle": "Proceedings of the 20th Symposium on the Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2012",
 	"dblpkey": "conf/sigsoft/BeyerHKW12",
 	"doi": "10.1145/2393596.2393664",
-	"editor": ["Will Tracz", "Martin P. Robillard", "Tevfik Bultan"],
+	"editor": [
+		"Will Tracz",
+		"Martin P. Robillard",
+		"Tevfik Bultan"
+	],
 	"ee": "http://doi.acm.org/10.1145/2393596.2393664",
-	"isbn": ["978-1-4503-1614-9", "978-1-4503-0443-6"],
+	"isbn": [
+		"978-1-4503-1614-9",
+		"978-1-4503-0443-6"
+	],
 	"pages": "57-57",
 	"publisher": "ACM",
-	"stemmed": ["condit", "model", "check", "a", "techniqu", "to", "pass", "inform", "between", "verifi"],
-	"tag": ["model checking", "verification"],
+	"stemmed": [
+		"condit",
+		"model",
+		"check",
+		"a",
+		"techniqu",
+		"to",
+		"pass",
+		"inform",
+		"between",
+		"verifi"
+	],
+	"tag": [
+		"model checking",
+		"verification"
+	],
 	"title": "Conditional model checking: a technique to pass information between verifiers",
 	"type": "inproceedings",
 	"venue": "FSE",

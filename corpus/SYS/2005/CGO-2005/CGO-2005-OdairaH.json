@@ -1,16 +1,37 @@
 {
-	"acmid": 1048998,
-	"author": ["Rei Odaira", "Kei Hiraki"],
-	"booktitle": "CGO",
+	"acmid": "1048998",
+	"author": [
+		"Rei Odaira",
+		"Kei Hiraki"
+	],
+	"booktitle": "Proceedings of the Third International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2005",
 	"dblpkey": "conf/cgo/OdairaH05",
 	"doi": "10.1109/CGO.2005.32",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2005.32", "http://doi.ieeecomputersociety.org/10.1109/CGO.2005.32", "http://dl.acm.org/citation.cfm?id=1048998"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2005.32",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2005.32",
+		"http://dl.acm.org/citation.cfm?id=1048998"
+	],
 	"pages": "328-338",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["sentinel", "pre", "hoist", "beyond", "except", "depend", "with", "dynam", "deoptim"],
-	"tag": ["dependence", "exception"],
+	"stemmed": [
+		"sentinel",
+		"pre",
+		"hoist",
+		"beyond",
+		"except",
+		"depend",
+		"with",
+		"dynam",
+		"deoptim"
+	],
+	"tag": [
+		"dependence",
+		"exception"
+	],
 	"title": "Sentinel PRE: Hoisting beyond Exception Dependency with Dynamic Deoptimization",
 	"type": "inproceedings",
 	"venue": "CGO",

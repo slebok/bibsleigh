@@ -1,14 +1,32 @@
 {
-	"author": ["Ron Kohavi", "Alex Deng", "Brian Frasca", "Toby Walker", "Ya Xu", "Nils Pohlmann"],
-	"booktitle": "KDD",
+	"author": [
+		"Ron Kohavi",
+		"Alex Deng",
+		"Brian Frasca",
+		"Toby Walker",
+		"Ya Xu",
+		"Nils Pohlmann"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/KohaviDFWXP13",
 	"doi": "10.1145/2487575.2488217",
 	"ee": "http://doi.acm.org/10.1145/2487575.2488217",
 	"pages": "1168-1176",
 	"publisher": "ACM",
-	"stemmed": ["onlin", "control", "experi", "at", "larg", "scale"],
-	"tag": ["online", "scalability"],
+	"stemmed": [
+		"onlin",
+		"control",
+		"experi",
+		"at",
+		"larg",
+		"scale"
+	],
+	"tag": [
+		"online",
+		"scalability"
+	],
 	"title": "Online controlled experiments at large scale",
 	"type": "inproceedings",
 	"venue": "KDD",

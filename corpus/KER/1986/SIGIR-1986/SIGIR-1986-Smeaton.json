@@ -1,6 +1,7 @@
 {
 	"author": "Alan F. Smeaton",
 	"booktitle": "Proceedings of the Ninth International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1986/P103.pdf",
 	"crossref": "conf/sigir/86",
 	"dblpkey": "conf/sigir/Smeaton86",
@@ -8,8 +9,22 @@
 	"ee": "http://doi.acm.org/10.1145/253168.253193",
 	"pages": "103-113",
 	"publisher": "ACM",
-	"stemmed": ["incorpor", "syntact", "inform", "into", "a", "document", "retriev", "strategi", "an", "investig"],
-	"tag": ["documentation", "retrieval"],
+	"stemmed": [
+		"incorpor",
+		"syntact",
+		"inform",
+		"into",
+		"a",
+		"document",
+		"retriev",
+		"strategi",
+		"an",
+		"investig"
+	],
+	"tag": [
+		"documentation",
+		"retrieval"
+	],
 	"title": "Incorporating Syntactic Information into a Document Retrieval Strategy: An Investigation",
 	"type": "inproceedings",
 	"venue": "SIGIR",

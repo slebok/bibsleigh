@@ -1,6 +1,11 @@
 {
-	"author": ["Stelios Paparizos", "Yuqing Wu", "Laks V. S. Lakshmanan", "H. V. Jagadish"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Stelios Paparizos",
+		"Yuqing Wu",
+		"Laks V. S. Lakshmanan",
+		"H. V. Jagadish"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/PaparizosWLJ04",
@@ -8,8 +13,23 @@
 	"ee": "http://doi.acm.org/10.1145/1007568.1007579",
 	"pages": "71-82",
 	"publisher": "ACM",
-	"stemmed": ["tree", "logic", "class", "for", "effici", "evalu", "of", "x", "queri"],
-	"tag": ["evaluation", "logic", "performance", "xquery"],
+	"stemmed": [
+		"tree",
+		"logic",
+		"class",
+		"for",
+		"effici",
+		"evalu",
+		"of",
+		"x",
+		"queri"
+	],
+	"tag": [
+		"evaluation",
+		"logic",
+		"performance",
+		"xquery"
+	],
 	"title": "Tree Logical Classes for Efficient Evaluation of XQuery",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,10 @@
 {
-	"author": ["Jeffrey Pound", "Stelios Paparizos", "Panayiotis Tsaparas"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jeffrey Pound",
+		"Stelios Paparizos",
+		"Panayiotis Tsaparas"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/PoundPT11",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989342",
 	"pages": "169-180",
 	"publisher": "ACM",
-	"stemmed": ["facet", "discoveri", "for", "structur", "web", "search", "a", "queri", "log", "mine", "approach"],
-	"tag": ["approach", "mining", "web"],
+	"stemmed": [
+		"facet",
+		"discoveri",
+		"for",
+		"structur",
+		"web",
+		"search",
+		"a",
+		"queri",
+		"log",
+		"mine",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"mining",
+		"web"
+	],
 	"title": "Facet discovery for structured web search: a query-log mining approach",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

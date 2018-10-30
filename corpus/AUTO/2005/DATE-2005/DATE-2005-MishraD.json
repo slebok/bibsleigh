@@ -1,6 +1,10 @@
 {
-	"author": ["Prabhat Mishra", "Nikil D. Dutt"],
-	"booktitle": "DATE",
+	"author": [
+		"Prabhat Mishra",
+		"Nikil D. Dutt"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/MishraD05",
 	"doi": "10.1109/DATE.2005.162",
@@ -8,8 +12,25 @@
 	"pages": "678-683",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["function", "coverag", "driven", "test", "generat", "for", "valid", "of", "pipelin", "processor"],
-	"tag": ["functional", "generative", "pipes and filters", "testing", "validation"],
+	"stemmed": [
+		"function",
+		"coverag",
+		"driven",
+		"test",
+		"generat",
+		"for",
+		"valid",
+		"of",
+		"pipelin",
+		"processor"
+	],
+	"tag": [
+		"functional",
+		"generative",
+		"pipes and filters",
+		"testing",
+		"validation"
+	],
 	"title": "Functional Coverage Driven Test Generation for Validation of Pipelined Processors",
 	"type": "inproceedings",
 	"venue": "DATE",

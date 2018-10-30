@@ -1,6 +1,11 @@
 {
-	"author": ["Nikolaos Papailiou", "Dimitrios Tsoumakos", "Panagiotis Karras", "Nectarios Koziris"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Nikolaos Papailiou",
+		"Dimitrios Tsoumakos",
+		"Panagiotis Karras",
+		"Nectarios Koziris"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/PapailiouTKK15",
@@ -8,8 +13,19 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2723714",
 	"pages": "1777-1792",
 	"publisher": "ACM",
-	"stemmed": ["graph", "awar", "workload", "adapt", "sparql", "queri", "cach"],
-	"tag": ["adaptation", "query"],
+	"stemmed": [
+		"graph",
+		"awar",
+		"workload",
+		"adapt",
+		"sparql",
+		"queri",
+		"cach"
+	],
+	"tag": [
+		"adaptation",
+		"query"
+	],
 	"title": "Graph-Aware, Workload-Adaptive SPARQL Query Caching",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,10 @@
 {
-	"author": ["John L. Schnase", "John J. Leggett"],
-	"booktitle": "Hypertext",
+	"author": [
+		"John L. Schnase",
+		"John J. Leggett"
+	],
+	"booktitle": "Proceedings of the Second Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1989/P181.pdf",
 	"crossref": "conf/ht/89",
 	"dblpkey": "conf/ht/SchnaseL89",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/74224.74240",
 	"pages": "181-197",
 	"publisher": "ACM",
-	"stemmed": ["comput", "hypertext", "in", "biolog", "model"],
-	"tag": ["biology", "hypermedia", "modelling"],
+	"stemmed": [
+		"comput",
+		"hypertext",
+		"in",
+		"biolog",
+		"model"
+	],
+	"tag": [
+		"biology",
+		"hypermedia",
+		"modelling"
+	],
 	"title": "Computational Hypertext in Biological Modelling",
 	"type": "inproceedings",
 	"venue": "HT",

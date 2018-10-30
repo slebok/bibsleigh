@@ -1,6 +1,10 @@
 {
-	"author": ["Eamonn J. Keogh", "Michael J. Pazzani"],
+	"author": [
+		"Eamonn J. Keogh",
+		"Michael J. Pazzani"
+	],
 	"booktitle": "Proceedings of the 22nd International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1999/P183.pdf",
 	"crossref": "conf/sigir/99",
 	"dblpkey": "conf/sigir/KeoghP99",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/312624.312676",
 	"pages": "183-190",
 	"publisher": "ACM",
-	"stemmed": ["relev", "feedback", "retriev", "of", "time", "seri", "data"],
-	"tag": ["feedback", "retrieval"],
+	"stemmed": [
+		"relev",
+		"feedback",
+		"retriev",
+		"of",
+		"time",
+		"seri",
+		"data"
+	],
+	"tag": [
+		"feedback",
+		"retrieval"
+	],
 	"title": "Relevance Feedback Retrieval of Time Series Data",
 	"type": "inproceedings",
 	"venue": "SIGIR",

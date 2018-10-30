@@ -1,6 +1,11 @@
 {
-	"author": ["Lin Guo", "Feng Shao", "Chavdar Botev", "Jayavel Shanmugasundaram"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Lin Guo",
+		"Feng Shao",
+		"Chavdar Botev",
+		"Jayavel Shanmugasundaram"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/GuoSBS03",
@@ -8,8 +13,21 @@
 	"ee": "http://doi.acm.org/10.1145/872757.872762",
 	"pages": "16-27",
 	"publisher": "ACM",
-	"stemmed": ["xrank", "rank", "keyword", "search", "over", "xml", "document"],
-	"tag": ["documentation", "keyword", "named", "xml"],
+	"stemmed": [
+		"xrank",
+		"rank",
+		"keyword",
+		"search",
+		"over",
+		"xml",
+		"document"
+	],
+	"tag": [
+		"documentation",
+		"keyword",
+		"named",
+		"xml"
+	],
 	"title": "XRANK: Ranked Keyword Search over XML Documents",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

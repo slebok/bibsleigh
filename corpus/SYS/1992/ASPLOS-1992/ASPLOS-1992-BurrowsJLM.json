@@ -1,14 +1,34 @@
 {
-	"author": ["Michael Burrows", "Charles Jerian", "Butler W. Lampson", "Timothy Mann"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Michael Burrows",
+		"Charles Jerian",
+		"Butler W. Lampson",
+		"Timothy Mann"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1992",
 	"dblpkey": "conf/asplos/BurrowsJLM92",
 	"doi": "10.1145/143365.143376",
 	"ee": "http://doi.acm.org/10.1145/143365.143376",
 	"pages": "2-9",
 	"publisher": "ACM Press",
-	"stemmed": ["on", "line", "data", "compress", "in", "a", "log", "structur", "file", "system"],
-	"tag": ["file system", "online"],
+	"stemmed": [
+		"on",
+		"line",
+		"data",
+		"compress",
+		"in",
+		"a",
+		"log",
+		"structur",
+		"file",
+		"system"
+	],
+	"tag": [
+		"file system",
+		"online"
+	],
 	"title": "On-Line Data Compression in a Log-Structured File System",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

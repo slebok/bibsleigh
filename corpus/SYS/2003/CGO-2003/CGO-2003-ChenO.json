@@ -1,16 +1,36 @@
 {
-	"acmid": 776294,
-	"author": ["Michael K. Chen", "Kunle Olukotun"],
-	"booktitle": "CGO",
+	"acmid": "776294",
+	"author": [
+		"Michael K. Chen",
+		"Kunle Olukotun"
+	],
+	"booktitle": "Proceedings of the First International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2003",
 	"dblpkey": "conf/cgo/ChenO03",
 	"doi": "10.1109/CGO.2003.1191554",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2003.1191554", "http://doi.ieeecomputersociety.org/10.1109/CGO.2003.1191554", "http://dl.acm.org/citation.cfm?id=776294"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2003.1191554",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2003.1191554",
+		"http://dl.acm.org/citation.cfm?id=776294"
+	],
 	"pages": "301-314",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["test", "a", "tracer", "for", "extract", "specul", "thread"],
-	"tag": ["concurrent", "named", "thread"],
+	"stemmed": [
+		"test",
+		"a",
+		"tracer",
+		"for",
+		"extract",
+		"specul",
+		"thread"
+	],
+	"tag": [
+		"concurrent",
+		"named",
+		"thread"
+	],
 	"title": "TEST: A Tracer for Extracting Speculative Thread",
 	"type": "inproceedings",
 	"venue": "CGO",

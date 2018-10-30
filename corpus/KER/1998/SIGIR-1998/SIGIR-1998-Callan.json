@@ -1,6 +1,7 @@
 {
 	"author": "James P. Callan",
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P224.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/Callan98",
@@ -8,8 +9,15 @@
 	"ee": "http://doi.acm.org/10.1145/290941.290998",
 	"pages": "224-231",
 	"publisher": "ACM",
-	"stemmed": ["learn", "while", "filter", "focument"],
-	"tag": ["learning"],
+	"stemmed": [
+		"learn",
+		"while",
+		"filter",
+		"focument"
+	],
+	"tag": [
+		"learning"
+	],
 	"title": "Learning While Filtering Focuments",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,13 +1,35 @@
 {
-	"author": ["Vladimir Zadorozhny", "Avigdor Gal", "Louiqa Raschid", "Qiang Ye"],
-	"booktitle": "VLDB",
+	"author": [
+		"Vladimir Zadorozhny",
+		"Avigdor Gal",
+		"Louiqa Raschid",
+		"Qiang Ye"
+	],
+	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/ZadorozhnyGRY05",
 	"ee": "http://www.vldb.org/conf/2005/papers/p1287-zadorozhny.pdf",
 	"pages": "1287-1290",
 	"publisher": "ACM",
-	"stemmed": ["arena", "adapt", "distribut", "catalog", "infrastructur", "base", "on", "relev", "network"],
-	"tag": ["adaptation", "distributed", "framework", "named", "network"],
+	"stemmed": [
+		"arena",
+		"adapt",
+		"distribut",
+		"catalog",
+		"infrastructur",
+		"base",
+		"on",
+		"relev",
+		"network"
+	],
+	"tag": [
+		"adaptation",
+		"distributed",
+		"framework",
+		"named",
+		"network"
+	],
 	"title": "AReNA: Adaptive Distributed Catalog Infrastructure Based On Relevance Networks",
 	"type": "inproceedings",
 	"venue": "VLDB",

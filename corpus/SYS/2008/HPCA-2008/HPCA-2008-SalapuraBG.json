@@ -1,6 +1,11 @@
 {
-	"author": ["Valentina Salapura", "Matthias A. Blumrich", "Alan Gara"],
-	"booktitle": "HPCA",
+	"author": [
+		"Valentina Salapura",
+		"Matthias A. Blumrich",
+		"Alan Gara"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2008",
 	"dblpkey": "conf/hpca/SalapuraBG08",
 	"doi": "10.1109/HPCA.2008.4658623",
@@ -8,8 +13,22 @@
 	"pages": "5-14",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["design", "and", "implement", "of", "the", "blue", "gene", "p", "snoop", "filter"],
-	"tag": ["design", "implementation"],
+	"stemmed": [
+		"design",
+		"and",
+		"implement",
+		"of",
+		"the",
+		"blue",
+		"gene",
+		"p",
+		"snoop",
+		"filter"
+	],
+	"tag": [
+		"design",
+		"implementation"
+	],
 	"title": "Design and implementation of the blue gene/P snoop filter",
 	"type": "inproceedings",
 	"venue": "HPCA",

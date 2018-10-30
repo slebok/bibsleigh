@@ -1,15 +1,38 @@
 {
-	"author": ["Magnus Karlsson", "Fredrik Dahlgren", "Per Stenström"],
-	"booktitle": "HPCA",
+	"author": [
+		"Magnus Karlsson",
+		"Fredrik Dahlgren",
+		"Per Stenström"
+	],
+	"booktitle": "Proceedings of the Sixth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2000",
 	"dblpkey": "conf/hpca/KarlssonDS00",
 	"doi": "10.1109/HPCA.2000.824351",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2000.824351", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2000.824351"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2000.824351",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2000.824351"
+	],
 	"pages": "206-217",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "prefetch", "techniqu", "for", "irregular", "access", "to", "link", "data", "structur"],
-	"tag": ["data type", "linked data", "open data"],
+	"stemmed": [
+		"a",
+		"prefetch",
+		"techniqu",
+		"for",
+		"irregular",
+		"access",
+		"to",
+		"link",
+		"data",
+		"structur"
+	],
+	"tag": [
+		"data type",
+		"linked data",
+		"open data"
+	],
 	"title": "A Prefetching Technique for Irregular Accesses to Linked Data Structures",
 	"type": "inproceedings",
 	"venue": "HPCA",

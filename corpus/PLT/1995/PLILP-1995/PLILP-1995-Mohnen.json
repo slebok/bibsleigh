@@ -1,6 +1,7 @@
 {
 	"author": "Markus Mohnen",
 	"booktitle": "Proceedings of the Seventh International Symposium on Programming Languages: Implementations, Logics and Programs",
+	"booktitleshort": "PPDP",
 	"crossref": "conf/plilp/95",
 	"dblpkey": "conf/plilp/Mohnen95",
 	"doi": "10.1007/BFb0026824",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["effici", "compil", "time", "garbag", "collect", "for", "arbitrari", "data", "structur"],
-	"tag": ["data type", "garbage collection", "performance"],
+	"stemmed": [
+		"effici",
+		"compil",
+		"time",
+		"garbag",
+		"collect",
+		"for",
+		"arbitrari",
+		"data",
+		"structur"
+	],
+	"tag": [
+		"data type",
+		"garbage collection",
+		"performance"
+	],
 	"title": "Efficient Compile-Time Garbage Collection for Arbitrary Data Structures",
 	"type": "inproceedings",
 	"venue": "PPDP",
-	"volume": 982,
+	"volume": "982",
 	"year": 1995
 }

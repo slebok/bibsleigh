@@ -1,14 +1,33 @@
 {
-	"author": ["Jinyong Lee", "Jongwon Lee", "Jongeun Lee", "Yunheung Paek"],
-	"booktitle": "LCTES",
+	"author": [
+		"Jinyong Lee",
+		"Jongwon Lee",
+		"Jongeun Lee",
+		"Yunheung Paek"
+	],
+	"booktitle": "Proceedings of the 15th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2014",
 	"dblpkey": "conf/lctrts/LeeLLP14",
 	"doi": "10.1145/2597809.2597825",
 	"ee": "http://doi.acm.org/10.1145/2597809.2597825",
 	"pages": "135-144",
 	"publisher": "ACM",
-	"stemmed": ["improv", "perform", "of", "loop", "on", "diam", "base", "vliw", "architectur"],
-	"tag": ["architecture", "performance"],
+	"stemmed": [
+		"improv",
+		"perform",
+		"of",
+		"loop",
+		"on",
+		"diam",
+		"base",
+		"vliw",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"performance"
+	],
 	"title": "Improving performance of loops on DIAM-based VLIW architectures",
 	"type": "inproceedings",
 	"venue": "LCTES",

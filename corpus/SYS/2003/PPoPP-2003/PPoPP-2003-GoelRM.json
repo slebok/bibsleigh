@@ -1,14 +1,28 @@
 {
-	"author": ["Ankit Goel", "Abhik Roychoudhury", "Tulika Mitra"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Ankit Goel",
+		"Abhik Roychoudhury",
+		"Tulika Mitra"
+	],
+	"booktitle": "Proceedings of the Ninth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2003",
 	"dblpkey": "conf/ppopp/GoelRM03",
 	"doi": "10.1145/781498.781530",
 	"ee": "http://doi.acm.org/10.1145/781498.781530",
 	"pages": "191-202",
 	"publisher": "ACM",
-	"stemmed": ["compact", "repres", "parallel", "program", "execut"],
-	"tag": ["parallel", "representation"],
+	"stemmed": [
+		"compact",
+		"repres",
+		"parallel",
+		"program",
+		"execut"
+	],
+	"tag": [
+		"parallel",
+		"representation"
+	],
 	"title": "Compactly representing parallel program executions",
 	"type": "inproceedings",
 	"venue": "PPoPP",

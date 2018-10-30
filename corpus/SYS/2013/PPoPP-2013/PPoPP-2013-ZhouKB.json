@@ -1,14 +1,35 @@
 {
-	"author": ["Bowen Zhou", "Milind Kulkarni", "Saurabh Bagchi"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Bowen Zhou",
+		"Milind Kulkarni",
+		"Saurabh Bagchi"
+	],
+	"booktitle": "Proceedings of the 18th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2013",
 	"dblpkey": "conf/ppopp/ZhouKB13",
 	"doi": "10.1145/2442516.2442563",
 	"ee": "http://doi.acm.org/10.1145/2442516.2442563",
 	"pages": "317-318",
 	"publisher": "ACM",
-	"stemmed": ["wu", "kong", "effect", "diagnosi", "of", "bug", "at", "larg", "system", "scale"],
-	"tag": ["debugging", "effectiveness", "named", "scalability"],
+	"stemmed": [
+		"wu",
+		"kong",
+		"effect",
+		"diagnosi",
+		"of",
+		"bug",
+		"at",
+		"larg",
+		"system",
+		"scale"
+	],
+	"tag": [
+		"debugging",
+		"effectiveness",
+		"named",
+		"scalability"
+	],
 	"title": "WuKong: effective diagnosis of bugs at large system scales",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,14 +1,30 @@
 {
-	"author": ["Linas Baltrunas", "Francesco Ricci"],
-	"booktitle": "RecSys",
+	"author": [
+		"Linas Baltrunas",
+		"Francesco Ricci"
+	],
+	"booktitle": "Proceedings of the Third Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2009",
 	"dblpkey": "conf/recsys/BaltrunasR09",
 	"doi": "10.1145/1639714.1639759",
 	"ee": "http://doi.acm.org/10.1145/1639714.1639759",
 	"pages": "245-248",
 	"publisher": "ACM",
-	"stemmed": ["context", "base", "split", "of", "item", "rate", "in", "collabor", "filter"],
-	"tag": ["collaboration"],
+	"stemmed": [
+		"context",
+		"base",
+		"split",
+		"of",
+		"item",
+		"rate",
+		"in",
+		"collabor",
+		"filter"
+	],
+	"tag": [
+		"collaboration"
+	],
 	"title": "Context-based splitting of item ratings in collaborative filtering",
 	"type": "inproceedings",
 	"venue": "RecSys",

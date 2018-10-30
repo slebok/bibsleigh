@@ -1,6 +1,7 @@
 {
 	"author": "Edward Hill Jr.",
 	"booktitle": "Proceedings of the ACM SIGIR International Conference on Information Storage and Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1978/P037.pdf",
 	"crossref": "conf/sigir/78",
 	"dblpkey": "conf/sigir/Hill78",
@@ -8,8 +9,19 @@
 	"ee": "http://doi.acm.org/10.1145/800096.803135",
 	"pages": "37-64",
 	"publisher": "ACM",
-	"stemmed": ["analysi", "of", "an", "invert", "data", "base", "structur"],
-	"tag": ["analysis", "database"],
+	"stemmed": [
+		"analysi",
+		"of",
+		"an",
+		"invert",
+		"data",
+		"base",
+		"structur"
+	],
+	"tag": [
+		"analysis",
+		"database"
+	],
 	"title": "Analysis of An Inverted Data Base Structure",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,6 +1,9 @@
 {
-	"author": ["Aravind Yalamanchi", "Dieter Gawlick"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Aravind Yalamanchi",
+		"Dieter Gawlick"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/YalamanchiG09",
@@ -8,8 +11,17 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559950",
 	"pages": "931-938",
 	"publisher": "ACM",
-	"stemmed": ["compens", "awar", "data", "type", "in", "rdbms"],
-	"tag": ["data type"],
+	"stemmed": [
+		"compens",
+		"awar",
+		"data",
+		"type",
+		"in",
+		"rdbms"
+	],
+	"tag": [
+		"data type"
+	],
 	"title": "Compensation-aware data types in RDBMS",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,35 @@
 {
-	"author": ["Andrea Arcuri", "Gordon Fraser", "Juan Pablo Galeotti"],
-	"booktitle": "ESEC/SIGSOFT FSE",
+	"author": [
+		"Andrea Arcuri",
+		"Gordon Fraser",
+		"Juan Pablo Galeotti"
+	],
+	"booktitle": "Proceedings of the 10th Joint Meeting of the 15th European Software Engineering Conference and the 23rd Symposium on the Foundations of Software Engineering",
+	"booktitleshort": "ESEC/SIGSOFT FSE",
 	"crossref": "conf/sigsoft/2015",
 	"dblpkey": "conf/sigsoft/ArcuriFG15",
 	"doi": "10.1145/2786805.2786828",
 	"ee": "http://doi.acm.org/10.1145/2786805.2786828",
 	"pages": "155-165",
 	"publisher": "ACM",
-	"stemmed": ["generat", "tcp", "udp", "network", "data", "for", "autom", "unit", "test", "generat"],
-	"tag": ["automation", "generative", "network", "testing"],
+	"stemmed": [
+		"generat",
+		"tcp",
+		"udp",
+		"network",
+		"data",
+		"for",
+		"autom",
+		"unit",
+		"test",
+		"generat"
+	],
+	"tag": [
+		"automation",
+		"generative",
+		"network",
+		"testing"
+	],
 	"title": "Generating TCP/UDP network data for automated unit test generation",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

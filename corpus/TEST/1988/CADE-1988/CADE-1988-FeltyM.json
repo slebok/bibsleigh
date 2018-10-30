@@ -1,6 +1,10 @@
 {
-	"author": ["Amy P. Felty", "Dale Miller"],
-	"booktitle": "CADE",
+	"author": [
+		"Amy P. Felty",
+		"Dale Miller"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/FeltyM88",
 	"doi": "10.1007/BFb0012823",
@@ -10,11 +14,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["specifi", "theorem", "prover", "in", "a", "higher", "order", "logic", "program", "languag"],
-	"tag": ["higher-order", "logic programming", "programming language", "proving", "specification", "theorem proving"],
+	"stemmed": [
+		"specifi",
+		"theorem",
+		"prover",
+		"in",
+		"a",
+		"higher",
+		"order",
+		"logic",
+		"program",
+		"languag"
+	],
+	"tag": [
+		"higher-order",
+		"logic programming",
+		"programming language",
+		"proving",
+		"specification",
+		"theorem proving"
+	],
 	"title": "Specifying Theorem Provers in a Higher-Order Logic Programming Language",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

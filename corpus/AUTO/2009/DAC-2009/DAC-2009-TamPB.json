@@ -1,14 +1,33 @@
 {
-	"author": ["Wing Chiu Tam", "Osei Poku", "R. D. (Shawn) Blanton"],
-	"booktitle": "DAC",
+	"author": [
+		"Wing Chiu Tam",
+		"Osei Poku",
+		"R. D. (Shawn) Blanton"
+	],
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/TamPB09",
 	"doi": "10.1145/1629911.1630096",
 	"ee": "http://doi.acm.org/10.1145/1629911.1630096",
 	"pages": "708-713",
 	"publisher": "ACM",
-	"stemmed": ["autom", "failur", "popul", "creation", "for", "valid", "integr", "circuit", "diagnosi", "method"],
-	"tag": ["automation", "validation"],
+	"stemmed": [
+		"autom",
+		"failur",
+		"popul",
+		"creation",
+		"for",
+		"valid",
+		"integr",
+		"circuit",
+		"diagnosi",
+		"method"
+	],
+	"tag": [
+		"automation",
+		"validation"
+	],
 	"title": "Automated failure population creation for validating integrated circuit diagnosis methods",
 	"type": "inproceedings",
 	"venue": "DAC",

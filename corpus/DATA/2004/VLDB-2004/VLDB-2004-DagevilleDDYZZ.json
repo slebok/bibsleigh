@@ -1,13 +1,31 @@
 {
-	"author": ["Benoît Dageville", "Dinesh Das", "Karl Dias", "Khaled Yagoub", "Mohamed Zaït", "Mohamed Ziauddin"],
-	"booktitle": "VLDB",
+	"author": [
+		"Benoît Dageville",
+		"Dinesh Das",
+		"Karl Dias",
+		"Khaled Yagoub",
+		"Mohamed Zaït",
+		"Mohamed Ziauddin"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/DagevilleDDYZZ04",
 	"ee": "http://www.vldb.org/conf/2004/IND4P2.PDF",
 	"pages": "1098-1109",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["automat", "sql", "tune", "in", "oracl", "g"],
-	"tag": ["automation", "sql"],
+	"stemmed": [
+		"automat",
+		"sql",
+		"tune",
+		"in",
+		"oracl",
+		"g"
+	],
+	"tag": [
+		"automation",
+		"sql"
+	],
 	"title": "Automatic SQL Tuning in Oracle 10g",
 	"type": "inproceedings",
 	"venue": "VLDB",

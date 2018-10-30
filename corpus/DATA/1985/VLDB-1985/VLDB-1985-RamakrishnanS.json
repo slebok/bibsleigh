@@ -1,14 +1,46 @@
 {
-	"author": ["Raghu Ramakrishnan", "Abraham Silberschatz"],
-	"booktitle": "VLDB",
-	"cite": ["...", "...", "conf/pods/AbiteboulB84", "conf/vldb/BatoryB84", "journals/tods/HammerM81", "journals/jacm/HullY84", "...", "journals/tods/Chen76", "journals/cacm/Codd70", "journals/cacm/SmithS77", "journals/tods/SmithS77", "journals/sigplan/LiskovZ74"],
+	"author": [
+		"Raghu Ramakrishnan",
+		"Abraham Silberschatz"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"...",
+		"conf/pods/AbiteboulB84",
+		"conf/vldb/BatoryB84",
+		"journals/tods/HammerM81",
+		"journals/jacm/HullY84",
+		"...",
+		"journals/tods/Chen76",
+		"journals/cacm/Codd70",
+		"journals/cacm/SmithS77",
+		"journals/tods/SmithS77",
+		"journals/sigplan/LiskovZ74"
+	],
 	"crossref": "conf/vldb/85",
 	"dblpkey": "conf/vldb/RamakrishnanS85",
 	"ee": "http://www.vldb.org/conf/1985/P376.PDF",
 	"pages": "376-393",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["the", "mr", "diagram", "a", "model", "for", "conceptu", "databas", "design"],
-	"tag": ["concept", "database", "design", "diagrams"],
+	"stemmed": [
+		"the",
+		"mr",
+		"diagram",
+		"a",
+		"model",
+		"for",
+		"conceptu",
+		"databas",
+		"design"
+	],
+	"tag": [
+		"concept",
+		"database",
+		"design",
+		"diagrams"
+	],
 	"title": "The MR Diagram — A Model for Conceptual Database Design",
 	"type": "inproceedings",
 	"venue": "VLDB",

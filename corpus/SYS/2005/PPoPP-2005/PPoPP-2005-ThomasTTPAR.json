@@ -1,14 +1,35 @@
 {
-	"author": ["Nathan Thomas", "Gabriel Tanase", "Olga Tkachyshyn", "Jack Perdue", "Nancy M. Amato", "Lawrence Rauchwerger"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Nathan Thomas",
+		"Gabriel Tanase",
+		"Olga Tkachyshyn",
+		"Jack Perdue",
+		"Nancy M. Amato",
+		"Lawrence Rauchwerger"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2005",
 	"dblpkey": "conf/ppopp/ThomasTTPAR05",
 	"doi": "10.1145/1065944.1065981",
 	"ee": "http://doi.acm.org/10.1145/1065944.1065981",
 	"pages": "277-288",
 	"publisher": "ACM",
-	"stemmed": ["a", "framework", "for", "adapt", "algorithm", "select", "in", "stapl"],
-	"tag": ["adaptation", "algorithm", "framework"],
+	"stemmed": [
+		"a",
+		"framework",
+		"for",
+		"adapt",
+		"algorithm",
+		"select",
+		"in",
+		"stapl"
+	],
+	"tag": [
+		"adaptation",
+		"algorithm",
+		"framework"
+	],
 	"title": "A framework for adaptive algorithm selection in STAPL",
 	"type": "inproceedings",
 	"venue": "PPoPP",

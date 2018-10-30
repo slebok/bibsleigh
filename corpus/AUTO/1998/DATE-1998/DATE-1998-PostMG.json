@@ -1,6 +1,11 @@
 {
-	"author": ["Guido Post", "Andrea Müller", "Thorsten Grötker"],
-	"booktitle": "DATE",
+	"author": [
+		"Guido Post",
+		"Andrea Müller",
+		"Thorsten Grötker"
+	],
+	"booktitle": "Proceedings of the Third Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1998",
 	"dblpkey": "conf/date/PostMG98",
 	"doi": "10.1109/DATE.1998.655892",
@@ -8,8 +13,22 @@
 	"pages": "424-428",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "system", "level", "co", "verif", "environ", "for", "atm", "hardwar", "design"],
-	"tag": ["design", "hardware"],
+	"stemmed": [
+		"a",
+		"system",
+		"level",
+		"co",
+		"verif",
+		"environ",
+		"for",
+		"atm",
+		"hardwar",
+		"design"
+	],
+	"tag": [
+		"design",
+		"hardware"
+	],
 	"title": "A System-Level Co-Verification Environment for ATM Hardware Design",
 	"type": "inproceedings",
 	"venue": "DATE",

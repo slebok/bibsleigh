@@ -1,6 +1,11 @@
 {
-	"author": ["Paul De Bra", "Geert-Jan Houben", "Hongjing Wu"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Paul De Bra",
+		"Geert-Jan Houben",
+		"Hongjing Wu"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Hypertext and Hypermedia",
+	"booktitleshort": "HT",
 	"cdrom": "HT1999/P147.pdf",
 	"crossref": "conf/ht/99",
 	"dblpkey": "conf/ht/BraHW99",
@@ -8,8 +13,22 @@
 	"ee": "http://doi.acm.org/10.1145/294469.294508",
 	"pages": "147-156",
 	"publisher": "ACM",
-	"stemmed": ["aham", "a", "dexter", "base", "refer", "model", "for", "adapt", "hypermedia"],
-	"tag": ["adaptation", "hypermedia", "named"],
+	"stemmed": [
+		"aham",
+		"a",
+		"dexter",
+		"base",
+		"refer",
+		"model",
+		"for",
+		"adapt",
+		"hypermedia"
+	],
+	"tag": [
+		"adaptation",
+		"hypermedia",
+		"named"
+	],
 	"title": "AHAM: A Dexter-Based Reference Model for Adaptive Hypermedia",
 	"type": "inproceedings",
 	"venue": "HT",

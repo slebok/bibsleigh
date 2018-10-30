@@ -1,6 +1,7 @@
 {
 	"author": "Tobias Thiel",
-	"booktitle": "DATE",
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Designers’ Forum",
+	"booktitleshort": "DATE DF",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/Thiel04",
 	"doi": "10.1109/DATE.2004.1269216",
@@ -8,8 +9,23 @@
 	"pages": "114-119",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["have", "i", "realli", "met", "time", "valid", "prime", "time", "time", "report", "with", "spice"],
-	"tag": ["validation"],
+	"stemmed": [
+		"have",
+		"i",
+		"realli",
+		"met",
+		"time",
+		"valid",
+		"prime",
+		"time",
+		"time",
+		"report",
+		"with",
+		"spice"
+	],
+	"tag": [
+		"validation"
+	],
 	"title": "Have I Really Met Timing? — Validating PrimeTime Timing Reports with Spice",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,14 +1,26 @@
 {
-	"author": ["Helmut Seidl", "Thomas Schwentick", "Anca Muscholl"],
-	"booktitle": "PODS",
+	"author": [
+		"Helmut Seidl",
+		"Thomas Schwentick",
+		"Anca Muscholl"
+	],
+	"booktitle": "Proceedings of the 22nd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2003",
 	"dblpkey": "conf/pods/SeidlSM03",
 	"doi": "10.1145/773153.773169",
 	"ee": "http://doi.acm.org/10.1145/773153.773169",
 	"pages": "155-166",
 	"publisher": "ACM",
-	"stemmed": ["numer", "document", "queri"],
-	"tag": ["documentation", "query"],
+	"stemmed": [
+		"numer",
+		"document",
+		"queri"
+	],
+	"tag": [
+		"documentation",
+		"query"
+	],
 	"title": "Numerical document queries",
 	"type": "inproceedings",
 	"venue": "PODS",

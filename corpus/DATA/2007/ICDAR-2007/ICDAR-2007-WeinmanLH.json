@@ -1,6 +1,11 @@
 {
-	"author": ["Jerod J. Weinman", "Erik G. Learned-Miller", "Allen R. Hanson"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Jerod J. Weinman",
+		"Erik G. Learned-Miller",
+		"Allen R. Hanson"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/WeinmanLH07",
 	"doi": "10.1109/ICDAR.2007.118",
@@ -8,8 +13,22 @@
 	"pages": "979-983",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["fast", "lexicon", "base", "scene", "text", "recognit", "with", "spars", "belief", "propag"],
-	"tag": ["performance", "recognition"],
+	"stemmed": [
+		"fast",
+		"lexicon",
+		"base",
+		"scene",
+		"text",
+		"recognit",
+		"with",
+		"spars",
+		"belief",
+		"propag"
+	],
+	"tag": [
+		"performance",
+		"recognition"
+	],
 	"title": "Fast Lexicon-Based Scene Text Recognition with Sparse Belief Propagation",
 	"type": "inproceedings",
 	"venue": "ICDAR",

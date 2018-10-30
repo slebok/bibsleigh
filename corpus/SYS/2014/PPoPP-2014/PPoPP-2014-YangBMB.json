@@ -1,14 +1,28 @@
 {
-	"author": ["Chaoran Yang", "Wesley Bland", "John M. Mellor-Crummey", "Pavan Balaji"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Chaoran Yang",
+		"Wesley Bland",
+		"John M. Mellor-Crummey",
+		"Pavan Balaji"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/YangBMB14",
 	"doi": "10.1145/2555243.2555270",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555270",
 	"pages": "81-92",
 	"publisher": "ACM",
-	"stemmed": ["portabl", "mpi", "interoper", "coarray", "fortran"],
-	"tag": ["fortran"],
+	"stemmed": [
+		"portabl",
+		"mpi",
+		"interoper",
+		"coarray",
+		"fortran"
+	],
+	"tag": [
+		"fortran"
+	],
 	"title": "Portable, MPI-interoperable coarray fortran",
 	"type": "inproceedings",
 	"venue": "PPoPP",

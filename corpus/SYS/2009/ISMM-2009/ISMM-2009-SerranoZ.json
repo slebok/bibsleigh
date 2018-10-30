@@ -1,14 +1,32 @@
 {
-	"author": ["Mauricio J. Serrano", "Xiaotong Zhuang"],
-	"booktitle": "ISMM",
+	"author": [
+		"Mauricio J. Serrano",
+		"Xiaotong Zhuang"
+	],
+	"booktitle": "Proceedings of the Eighth International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2009",
 	"dblpkey": "conf/iwmm/SerranoZ09",
 	"doi": "10.1145/1542431.1542442",
 	"ee": "http://doi.acm.org/10.1145/1542431.1542442",
 	"pages": "69-78",
 	"publisher": "ACM",
-	"stemmed": ["placement", "optim", "use", "data", "context", "collect", "dure", "garbag", "collect"],
-	"tag": ["garbage collection", "optimisation", "using"],
+	"stemmed": [
+		"placement",
+		"optim",
+		"use",
+		"data",
+		"context",
+		"collect",
+		"dure",
+		"garbag",
+		"collect"
+	],
+	"tag": [
+		"garbage collection",
+		"optimisation",
+		"using"
+	],
 	"title": "Placement optimization using data context collected during garbage collection",
 	"type": "inproceedings",
 	"venue": "ISMM",

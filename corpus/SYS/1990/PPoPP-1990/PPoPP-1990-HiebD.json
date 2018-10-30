@@ -1,14 +1,25 @@
 {
-	"author": ["Robert Hieb", "R. Kent Dybvig"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Robert Hieb",
+		"R. Kent Dybvig"
+	],
+	"booktitle": "Proceedings of the Second Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1990",
 	"dblpkey": "conf/ppopp/HiebD90",
 	"doi": "10.1145/99163.99178",
 	"ee": "http://doi.acm.org/10.1145/99163.99178",
 	"pages": "128-136",
 	"publisher": "ACM",
-	"stemmed": ["continu", "and", "concurr"],
-	"tag": ["concurrent", "continuation"],
+	"stemmed": [
+		"continu",
+		"and",
+		"concurr"
+	],
+	"tag": [
+		"concurrent",
+		"continuation"
+	],
 	"title": "Continuations and Concurrency",
 	"type": "inproceedings",
 	"venue": "PPoPP",

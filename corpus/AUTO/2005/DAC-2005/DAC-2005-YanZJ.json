@@ -1,14 +1,33 @@
 {
-	"author": ["Le Yan", "Lin Zhong", "Niraj K. Jha"],
-	"booktitle": "DAC",
+	"author": [
+		"Le Yan",
+		"Lin Zhong",
+		"Niraj K. Jha"
+	],
+	"booktitle": "Proceedings of the 42nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/YanZJ05",
 	"doi": "10.1145/1065579.1065743",
 	"ee": "http://doi.acm.org/10.1145/1065579.1065743",
 	"pages": "624-627",
 	"publisher": "ACM",
-	"stemmed": ["user", "perceiv", "latenc", "driven", "voltag", "scale", "for", "interact", "applic"],
-	"tag": ["interactive", "latency", "scalability"],
+	"stemmed": [
+		"user",
+		"perceiv",
+		"latenc",
+		"driven",
+		"voltag",
+		"scale",
+		"for",
+		"interact",
+		"applic"
+	],
+	"tag": [
+		"interactive",
+		"latency",
+		"scalability"
+	],
 	"title": "User-perceived latency driven voltage scaling for interactive applications",
 	"type": "inproceedings",
 	"venue": "DAC",

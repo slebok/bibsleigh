@@ -1,14 +1,33 @@
 {
-	"author": ["Charalampos E. Tsourakakis", "U. Kang", "Gary L. Miller", "Christos Faloutsos"],
-	"booktitle": "KDD",
+	"author": [
+		"Charalampos E. Tsourakakis",
+		"U. Kang",
+		"Gary L. Miller",
+		"Christos Faloutsos"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/TsourakakisKMF09",
 	"doi": "10.1145/1557019.1557111",
 	"ee": "http://doi.acm.org/10.1145/1557019.1557111",
 	"pages": "837-846",
 	"publisher": "ACM",
-	"stemmed": ["doulion", "count", "triangl", "in", "massiv", "graph", "with", "a", "coin"],
-	"tag": ["graph", "named"],
+	"stemmed": [
+		"doulion",
+		"count",
+		"triangl",
+		"in",
+		"massiv",
+		"graph",
+		"with",
+		"a",
+		"coin"
+	],
+	"tag": [
+		"graph",
+		"named"
+	],
 	"title": "DOULION: counting triangles in massive graphs with a coin",
 	"type": "inproceedings",
 	"venue": "KDD",

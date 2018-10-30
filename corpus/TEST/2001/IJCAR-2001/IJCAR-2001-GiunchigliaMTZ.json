@@ -1,6 +1,12 @@
 {
-	"author": ["Enrico Giunchiglia", "Marco Maratea", "Armando Tacchella", "Davide Zambonin"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Enrico Giunchiglia",
+		"Marco Maratea",
+		"Armando Tacchella",
+		"Davide Zambonin"
+	],
+	"booktitle": "Proceedings of the First International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2001",
 	"dblpkey": "conf/cade/GiunchigliaMTZ01",
 	"doi": "10.1007/3-540-45744-5_26",
@@ -10,11 +16,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["evalu", "search", "heurist", "and", "optim", "techniqu", "in", "proposit", "satisfi"],
-	"tag": ["heuristic", "optimisation", "satisfiability"],
+	"stemmed": [
+		"evalu",
+		"search",
+		"heurist",
+		"and",
+		"optim",
+		"techniqu",
+		"in",
+		"proposit",
+		"satisfi"
+	],
+	"tag": [
+		"heuristic",
+		"optimisation",
+		"satisfiability"
+	],
 	"title": "Evaluating Search Heuristics and Optimization Techniques in Propositional Satisfiability",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 2083,
+	"volume": "2083",
 	"year": 2001
 }

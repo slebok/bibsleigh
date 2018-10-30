@@ -1,6 +1,11 @@
 {
-	"author": ["Mohamed A. Sharaf", "Panos K. Chrysanthis", "Alexandros Labrinidis", "Cristiana Amza"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Mohamed A. Sharaf",
+		"Panos K. Chrysanthis",
+		"Alexandros Labrinidis",
+		"Cristiana Amza"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/SharafCLA09",
@@ -8,8 +13,22 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559927",
 	"pages": "785-798",
 	"publisher": "ACM",
-	"stemmed": ["optim", "i", "o", "intens", "transact", "in", "high", "interact", "applic"],
-	"tag": ["interactive", "optimisation", "transaction"],
+	"stemmed": [
+		"optim",
+		"i",
+		"o",
+		"intens",
+		"transact",
+		"in",
+		"high",
+		"interact",
+		"applic"
+	],
+	"tag": [
+		"interactive",
+		"optimisation",
+		"transaction"
+	],
 	"title": "Optimizing i/o-intensive transactions in highly interactive applications",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

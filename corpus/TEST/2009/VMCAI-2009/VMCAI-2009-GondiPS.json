@@ -1,6 +1,11 @@
 {
-	"author": ["Kalpana Gondi", "Yogeshkumar Patel", "A. Prasad Sistla"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Kalpana Gondi",
+		"Yogeshkumar Patel",
+		"A. Prasad Sistla"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2009",
 	"dblpkey": "conf/vmcai/GondiPS09",
 	"doi": "10.1007/978-3-540-93900-9_12",
@@ -10,11 +15,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["monitor", "the", "full", "rang", "of", "omega", "regular", "properti", "of", "stochast", "system"],
-	"tag": ["monitoring", "probability"],
+	"stemmed": [
+		"monitor",
+		"the",
+		"full",
+		"rang",
+		"of",
+		"omega",
+		"regular",
+		"properti",
+		"of",
+		"stochast",
+		"system"
+	],
+	"tag": [
+		"monitoring",
+		"probability"
+	],
 	"title": "Monitoring the Full Range of omega-Regular Properties of Stochastic Systems",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 5403,
+	"volume": "5403",
 	"year": 2009
 }

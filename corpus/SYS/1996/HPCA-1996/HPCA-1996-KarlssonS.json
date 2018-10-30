@@ -1,15 +1,44 @@
 {
-	"author": ["Magnus Karlsson", "Per Stenström"],
-	"booktitle": "HPCA",
+	"author": [
+		"Magnus Karlsson",
+		"Per Stenström"
+	],
+	"booktitle": "Proceedings of the Second International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1996",
 	"dblpkey": "conf/hpca/KarlssonS96",
 	"doi": "10.1109/HPCA.1996.501169",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1996.501169", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1996.501169"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1996.501169",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1996.501169"
+	],
 	"pages": "4-13",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["perform", "evalu", "of", "a", "cluster", "base", "multiprocessor", "built", "from", "atm", "switch", "and", "bus", "base", "multiprocessor", "server"],
-	"tag": ["clustering", "evaluation", "multi", "performance"],
+	"stemmed": [
+		"perform",
+		"evalu",
+		"of",
+		"a",
+		"cluster",
+		"base",
+		"multiprocessor",
+		"built",
+		"from",
+		"atm",
+		"switch",
+		"and",
+		"bus",
+		"base",
+		"multiprocessor",
+		"server"
+	],
+	"tag": [
+		"clustering",
+		"evaluation",
+		"multi",
+		"performance"
+	],
 	"title": "Performance Evaluation of a Cluster-Based Multiprocessor Built from ATM Switches and Bus-Based Multiprocessor Servers",
 	"type": "inproceedings",
 	"venue": "HPCA",

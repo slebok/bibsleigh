@@ -1,6 +1,10 @@
 {
-	"author": ["Amar Mukherjee", "Mostafa A. Bassiouni"],
+	"author": [
+		"Amar Mukherjee",
+		"Mostafa A. Bassiouni"
+	],
 	"booktitle": "Proceedings of the 10th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1987/P208.pdf",
 	"crossref": "conf/sigir/87",
 	"dblpkey": "conf/sigir/MukherjeeB87",
@@ -8,8 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/42005.42029",
 	"pages": "208-216",
 	"publisher": "ACM",
-	"stemmed": ["a", "vlsi", "chip", "for", "effici", "transmiss", "and", "retriev", "of", "inform"],
-	"tag": ["performance", "retrieval"],
+	"stemmed": [
+		"a",
+		"vlsi",
+		"chip",
+		"for",
+		"effici",
+		"transmiss",
+		"and",
+		"retriev",
+		"of",
+		"inform"
+	],
+	"tag": [
+		"performance",
+		"retrieval"
+	],
 	"title": "A VLSI Chip for Efficient Transmission and Retrieval of Information",
 	"type": "inproceedings",
 	"venue": "SIGIR",

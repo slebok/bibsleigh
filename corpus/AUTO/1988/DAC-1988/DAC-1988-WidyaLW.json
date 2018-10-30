@@ -1,12 +1,29 @@
 {
 	"acmid": "285730.285788",
-	"author": ["Ing Widya", "T. G. R. van Leuken", "Pieter van der Wolf"],
-	"booktitle": "DAC",
+	"author": [
+		"Ing Widya",
+		"T. G. R. van Leuken",
+		"Pieter van der Wolf"
+	],
+	"booktitle": "Proceedings of the 25th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/WidyaLW88",
 	"pages": "357-362",
 	"publisher": "ACM",
-	"stemmed": ["concurr", "control", "in", "a", "vlsi", "design", "databas"],
-	"tag": ["concurrent", "database", "design"],
+	"stemmed": [
+		"concurr",
+		"control",
+		"in",
+		"a",
+		"vlsi",
+		"design",
+		"databas"
+	],
+	"tag": [
+		"concurrent",
+		"database",
+		"design"
+	],
 	"title": "Concurrency Control in a VLSI Design Database",
 	"type": "inproceedings",
 	"venue": "DAC",

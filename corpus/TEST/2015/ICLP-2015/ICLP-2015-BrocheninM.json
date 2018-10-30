@@ -1,6 +1,9 @@
 {
-	"author": ["Rémi Brochenin", "Marco Maratea"],
-	"booktitle": "ICLP (Technical Communications)",
+	"author": [
+		"Rémi Brochenin",
+		"Marco Maratea"
+	],
+	"booktitle": "Technical Communications of the 31st International Conference on Logic Programming",
 	"booktitleshort": "ICLP TC",
 	"crossref": "conf/iclp/2015tc",
 	"dblpkey": "conf/iclp/BrocheninM15",
@@ -8,11 +11,22 @@
 	"publisher": "CEUR-WS.org",
 	"series": "CEUR Workshop Proceedings",
 	"seriesshort": "CEUR",
-	"stemmed": ["abstract", "answer", "set", "solver", "for", "cautious", "reason"],
-	"tag": ["reasoning", "set"],
+	"stemmed": [
+		"abstract",
+		"answer",
+		"set",
+		"solver",
+		"for",
+		"cautious",
+		"reason"
+	],
+	"tag": [
+		"reasoning",
+		"set"
+	],
 	"title": "Abstract Answer Set Solvers for Cautious Reasoning",
 	"type": "inproceedings",
 	"venue": "ICLP",
-	"volume": 1433,
+	"volume": "1433",
 	"year": 2015
 }

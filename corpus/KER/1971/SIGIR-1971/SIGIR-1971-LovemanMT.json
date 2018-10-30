@@ -1,6 +1,11 @@
 {
-	"author": ["David B. Loveman", "John A. Moyne", "Robert G. Tobey"],
+	"author": [
+		"David B. Loveman",
+		"John A. Moyne",
+		"Robert G. Tobey"
+	],
 	"booktitle": "Proceedings of the ACM SIGIR Information Storage and Retrieval Symposium",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1971/P047.pdf",
 	"crossref": "conf/sigir/71",
 	"dblpkey": "conf/sigir/LovemanMT71",
@@ -8,8 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/511285.511292",
 	"pages": "47-59",
 	"publisher": "ACM",
-	"stemmed": ["cue", "a", "preprocessor", "for", "restrict", "natur", "english"],
-	"tag": ["named", "preprocessor", "strict"],
+	"stemmed": [
+		"cue",
+		"a",
+		"preprocessor",
+		"for",
+		"restrict",
+		"natur",
+		"english"
+	],
+	"tag": [
+		"named",
+		"preprocessor",
+		"strict"
+	],
 	"title": "CUE: A Preprocessor for Restricted, Natural English",
 	"type": "inproceedings",
 	"venue": "SIGIR",

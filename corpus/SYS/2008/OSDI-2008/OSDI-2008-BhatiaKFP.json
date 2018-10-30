@@ -1,13 +1,31 @@
 {
-	"author": ["Sapan Bhatia", "Abhishek Kumar", "Marc E. Fiuczynski", "Larry L. Peterson"],
-	"booktitle": "OSDI",
+	"author": [
+		"Sapan Bhatia",
+		"Abhishek Kumar",
+		"Marc E. Fiuczynski",
+		"Larry L. Peterson"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/BhatiaKFP08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/bhatia/bhatia.pdf",
 	"pages": "103-116",
 	"publisher": "USENIX Association",
-	"stemmed": ["lightweight", "high", "resolut", "monitor", "for", "troubleshoot", "product", "system"],
-	"tag": ["lightweight", "monitoring"],
+	"stemmed": [
+		"lightweight",
+		"high",
+		"resolut",
+		"monitor",
+		"for",
+		"troubleshoot",
+		"product",
+		"system"
+	],
+	"tag": [
+		"lightweight",
+		"monitoring"
+	],
 	"title": "Lightweight, High-Resolution Monitoring for Troubleshooting Production Systems",
 	"type": "inproceedings",
 	"venue": "OSDI",

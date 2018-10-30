@@ -1,14 +1,30 @@
 {
-	"author": ["David Cheng", "Santosh Vempala", "Ravi Kannan", "Grant Wang"],
-	"booktitle": "PODS",
+	"author": [
+		"David Cheng",
+		"Santosh Vempala",
+		"Ravi Kannan",
+		"Grant Wang"
+	],
+	"booktitle": "Proceedings of the 24th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2005",
 	"dblpkey": "conf/pods/ChengVKW05",
 	"doi": "10.1145/1065167.1065192",
 	"ee": "http://doi.acm.org/10.1145/1065167.1065192",
 	"pages": "196-205",
 	"publisher": "ACM",
-	"stemmed": ["a", "divid", "and", "merg", "methodolog", "for", "cluster"],
-	"tag": ["clustering"],
+	"stemmed": [
+		"a",
+		"divid",
+		"and",
+		"merg",
+		"methodolog",
+		"for",
+		"cluster"
+	],
+	"tag": [
+		"clustering"
+	],
 	"title": "A divide-and-merge methodology for clustering",
 	"type": "inproceedings",
 	"venue": "PODS",

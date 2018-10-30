@@ -1,6 +1,7 @@
 {
 	"author": "Robert T. Dattola",
 	"booktitle": "Proceedings of the Second International Conference on Information Storage and Retrieval: Information Implications into the Eighties",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1979/P023.pdf",
 	"crossref": "conf/sigir/79",
 	"dblpkey": "conf/sigir/Dattola79",
@@ -8,8 +9,22 @@
 	"ee": "http://doi.acm.org/10.1145/511706.511710",
 	"pages": "23-32",
 	"publisher": "ACM",
-	"stemmed": ["use", "of", "dynam", "discrimin", "valu", "in", "a", "document", "retriev", "system"],
-	"tag": ["documentation", "retrieval"],
+	"stemmed": [
+		"use",
+		"of",
+		"dynam",
+		"discrimin",
+		"valu",
+		"in",
+		"a",
+		"document",
+		"retriev",
+		"system"
+	],
+	"tag": [
+		"documentation",
+		"retrieval"
+	],
 	"title": "Use of Dynamic Discrimination Values in a Document Retrieval System",
 	"type": "inproceedings",
 	"venue": "SIGIR",

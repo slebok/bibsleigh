@@ -1,6 +1,12 @@
 {
-	"author": ["Carlo Meghini", "Fabrizio Sebastiani", "Umberto Straccia", "Costantino Thanos"],
+	"author": [
+		"Carlo Meghini",
+		"Fabrizio Sebastiani",
+		"Umberto Straccia",
+		"Costantino Thanos"
+	],
 	"booktitle": "Proceedings of the 16th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1993/P298.pdf",
 	"crossref": "conf/sigir/93",
 	"dblpkey": "conf/sigir/MeghiniSST93",
@@ -8,8 +14,22 @@
 	"ee": "http://doi.acm.org/10.1145/160688.160753",
 	"pages": "298-307",
 	"publisher": "ACM",
-	"stemmed": ["a", "model", "of", "inform", "retriev", "base", "on", "a", "terminolog", "logic"],
-	"tag": ["information retrieval", "logic"],
+	"stemmed": [
+		"a",
+		"model",
+		"of",
+		"inform",
+		"retriev",
+		"base",
+		"on",
+		"a",
+		"terminolog",
+		"logic"
+	],
+	"tag": [
+		"information retrieval",
+		"logic"
+	],
 	"title": "A Model of Information Retrieval Based on a Terminological Logic",
 	"type": "inproceedings",
 	"venue": "SIGIR",

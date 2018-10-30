@@ -1,14 +1,30 @@
 {
-	"author": ["Bao-Hong Shen", "Shuiwang Ji", "Jieping Ye"],
-	"booktitle": "KDD",
+	"author": [
+		"Bao-Hong Shen",
+		"Shuiwang Ji",
+		"Jieping Ye"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/ShenJY09",
 	"doi": "10.1145/1557019.1557103",
 	"ee": "http://doi.acm.org/10.1145/1557019.1557103",
 	"pages": "757-766",
 	"publisher": "ACM",
-	"stemmed": ["mine", "discret", "pattern", "via", "binari", "matrix", "factor"],
-	"tag": ["matrix", "mining"],
+	"stemmed": [
+		"mine",
+		"discret",
+		"pattern",
+		"via",
+		"binari",
+		"matrix",
+		"factor"
+	],
+	"tag": [
+		"matrix",
+		"mining"
+	],
 	"title": "Mining discrete patterns via binary matrix factorization",
 	"type": "inproceedings",
 	"venue": "KDD",

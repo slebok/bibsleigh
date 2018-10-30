@@ -1,14 +1,36 @@
 {
-	"author": ["Aron Culotta", "Michael L. Wick", "Robert Hall", "Matthew Marzilli", "Andrew McCallum"],
-	"booktitle": "KDD",
+	"author": [
+		"Aron Culotta",
+		"Michael L. Wick",
+		"Robert Hall",
+		"Matthew Marzilli",
+		"Andrew McCallum"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2007",
 	"dblpkey": "conf/kdd/CulottaWHMM07",
 	"doi": "10.1145/1281192.1281217",
 	"ee": "http://doi.acm.org/10.1145/1281192.1281217",
 	"pages": "201-209",
 	"publisher": "ACM",
-	"stemmed": ["canonic", "of", "databas", "record", "use", "adapt", "similar", "measur"],
-	"tag": ["adaptation", "database", "metric", "similarity", "using"],
+	"stemmed": [
+		"canonic",
+		"of",
+		"databas",
+		"record",
+		"use",
+		"adapt",
+		"similar",
+		"measur"
+	],
+	"tag": [
+		"adaptation",
+		"database",
+		"metric",
+		"similarity",
+		"using"
+	],
 	"title": "Canonicalization of database records using adaptive similarity measures",
 	"type": "inproceedings",
 	"venue": "KDD",

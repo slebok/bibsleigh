@@ -1,15 +1,43 @@
 {
-	"author": ["Marianela Parodi", "Juan Carlos Gómez", "Abdel Belaïd"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Marianela Parodi",
+		"Juan Carlos Gómez",
+		"Abdel Belaïd"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2011",
 	"dblpkey": "conf/icdar/ParodiGB11",
 	"doi": "10.1109/ICDAR.2011.259",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2011.259", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2011.259"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2011.259",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2011.259"
+	],
 	"pages": "1289-1293",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "circular", "grid", "base", "rotat", "invari", "featur", "extract", "approach", "for", "off", "line", "signatur", "verif"],
-	"tag": ["approach", "feature model", "invariant", "verification"],
+	"stemmed": [
+		"a",
+		"circular",
+		"grid",
+		"base",
+		"rotat",
+		"invari",
+		"featur",
+		"extract",
+		"approach",
+		"for",
+		"off",
+		"line",
+		"signatur",
+		"verif"
+	],
+	"tag": [
+		"approach",
+		"feature model",
+		"invariant",
+		"verification"
+	],
 	"title": "A Circular Grid-Based Rotation Invariant Feature Extraction Approach for Off-line Signature Verification",
 	"type": "inproceedings",
 	"venue": "ICDAR",

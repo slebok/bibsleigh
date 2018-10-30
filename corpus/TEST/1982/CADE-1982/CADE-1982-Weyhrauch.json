@@ -1,6 +1,7 @@
 {
 	"author": "Richard W. Weyhrauch",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Sixth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1982",
 	"dblpkey": "conf/cade/Weyhrauch82",
 	"doi": "10.1007/BFb0000057",
@@ -10,11 +11,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "exampl", "of", "fol", "use", "metatheori"],
-	"tag": ["using"],
+	"stemmed": [
+		"an",
+		"exampl",
+		"of",
+		"fol",
+		"use",
+		"metatheori"
+	],
+	"tag": [
+		"using"
+	],
 	"title": "An Example of FOL Using Metatheory",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 138,
+	"volume": "138",
 	"year": 1982
 }

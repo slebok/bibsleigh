@@ -1,13 +1,29 @@
 {
-	"author": ["Rasmus Pagh", "Srinivasa Rao Satti"],
-	"booktitle": "PODS",
+	"author": [
+		"Rasmus Pagh",
+		"Srinivasa Rao Satti"
+	],
+	"booktitle": "Proceedings of the 28th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2009",
 	"dblpkey": "conf/pods/PaghS09",
 	"doi": "10.1145/1559795.1559824",
 	"ee": "http://doi.acm.org/10.1145/1559795.1559824",
 	"pages": "177-186",
 	"publisher": "ACM",
-	"stemmed": ["secondari", "index", "in", "one", "dimens", "beyond", "b", "tree", "and", "bitmap", "index"],
+	"stemmed": [
+		"secondari",
+		"index",
+		"in",
+		"one",
+		"dimens",
+		"beyond",
+		"b",
+		"tree",
+		"and",
+		"bitmap",
+		"index"
+	],
 	"title": "Secondary indexing in one dimension: beyond b-trees and bitmap indexes",
 	"type": "inproceedings",
 	"venue": "PODS",

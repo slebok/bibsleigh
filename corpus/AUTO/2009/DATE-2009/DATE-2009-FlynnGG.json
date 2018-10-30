@@ -1,13 +1,31 @@
 {
-	"author": ["Adam Flynn", "Ann Gordon-Ross", "Alan D. George"],
-	"booktitle": "DATE",
+	"author": [
+		"Adam Flynn",
+		"Ann Gordon-Ross",
+		"Alan D. George"
+	],
+	"booktitle": "Proceedings of the 13th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2009",
 	"dblpkey": "conf/date/FlynnGG09",
 	"ieeearid": 5090676,
 	"pages": "300-303",
 	"publisher": "IEEE",
-	"stemmed": ["bitstream", "reloc", "with", "local", "clock", "domain", "for", "partial", "reconfigur", "fpgas"],
-	"tag": ["configuration management"],
+	"stemmed": [
+		"bitstream",
+		"reloc",
+		"with",
+		"local",
+		"clock",
+		"domain",
+		"for",
+		"partial",
+		"reconfigur",
+		"fpgas"
+	],
+	"tag": [
+		"configuration management"
+	],
 	"title": "Bitstream relocation with local clock domains for partially reconfigurable FPGAs",
 	"type": "inproceedings",
 	"venue": "DATE",

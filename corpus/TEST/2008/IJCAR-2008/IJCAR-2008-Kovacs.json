@@ -1,6 +1,7 @@
 {
 	"author": "Laura Kovács",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Fourth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2008",
 	"dblpkey": "conf/cade/Kovacs08",
 	"doi": "10.1007/978-3-540-71070-7_22",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["alig", "a", "mathematica", "packag", "for", "invari", "generat", "system", "descript"],
-	"tag": ["generative", "invariant", "named"],
+	"stemmed": [
+		"alig",
+		"a",
+		"mathematica",
+		"packag",
+		"for",
+		"invari",
+		"generat",
+		"system",
+		"descript"
+	],
+	"tag": [
+		"generative",
+		"invariant",
+		"named"
+	],
 	"title": "Aligator: A Mathematica Package for Invariant Generation (System Description)",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 5195,
+	"volume": "5195",
 	"year": 2008
 }

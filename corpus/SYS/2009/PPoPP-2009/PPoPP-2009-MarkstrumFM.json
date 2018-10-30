@@ -1,14 +1,29 @@
 {
-	"author": ["Shane Markstrum", "Robert M. Fuhrer", "Todd D. Millstein"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Shane Markstrum",
+		"Robert M. Fuhrer",
+		"Todd D. Millstein"
+	],
+	"booktitle": "Proceedings of the 14th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2009",
 	"dblpkey": "conf/ppopp/MarkstrumFM09",
 	"doi": "10.1145/1504176.1504226",
 	"ee": "http://doi.acm.org/10.1145/1504176.1504226",
 	"pages": "303-304",
 	"publisher": "ACM",
-	"stemmed": ["toward", "concurr", "refactor", "for", "x"],
-	"tag": ["concurrent", "refactoring", "towards"],
+	"stemmed": [
+		"toward",
+		"concurr",
+		"refactor",
+		"for",
+		"x"
+	],
+	"tag": [
+		"concurrent",
+		"refactoring",
+		"towards"
+	],
 	"title": "Towards concurrency refactoring for x10",
 	"type": "inproceedings",
 	"venue": "PPoPP",

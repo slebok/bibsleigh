@@ -1,13 +1,26 @@
 {
 	"author": "Jeffrey D. Ullman",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the Second International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1996",
 	"dblpkey": "conf/kdd/Ullman96",
 	"ee": "http://www.aaai.org/Library/KDD/1996/kdd96-074.php",
 	"pages": "386-388",
 	"publisher": "AAAI Press",
-	"stemmed": ["effici", "implement", "of", "data", "cube", "via", "materi", "view"],
-	"tag": ["implementation", "performance"],
+	"stemmed": [
+		"effici",
+		"implement",
+		"of",
+		"data",
+		"cube",
+		"via",
+		"materi",
+		"view"
+	],
+	"tag": [
+		"implementation",
+		"performance"
+	],
 	"title": "Efficient Implementation of Data Cubes Via Materialized Views",
 	"type": "inproceedings",
 	"venue": "KDD",

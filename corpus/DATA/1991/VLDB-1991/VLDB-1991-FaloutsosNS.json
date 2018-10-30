@@ -1,14 +1,42 @@
 {
-	"author": ["Christos Faloutsos", "Raymond T. Ng", "Timos K. Sellis"],
-	"booktitle": "VLDB",
-	"cite": ["conf/vldb/ChouD85", "journals/tods/Christodoulakis84", "conf/vldb/CornellY89", "journals/tods/EffelsbergH84", "...", "journals/tods/LangWF77", "conf/sigmod/NgFS91", "conf/vldb/SaccoS82", "journals/tods/ShermanB76", "...", "journals/cacm/Yao77"],
+	"author": [
+		"Christos Faloutsos",
+		"Raymond T. Ng",
+		"Timos K. Sellis"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/vldb/ChouD85",
+		"journals/tods/Christodoulakis84",
+		"conf/vldb/CornellY89",
+		"journals/tods/EffelsbergH84",
+		"...",
+		"journals/tods/LangWF77",
+		"conf/sigmod/NgFS91",
+		"conf/vldb/SaccoS82",
+		"journals/tods/ShermanB76",
+		"...",
+		"journals/cacm/Yao77"
+	],
 	"crossref": "conf/vldb/91",
 	"dblpkey": "conf/vldb/FaloutsosNS91",
 	"ee": "http://www.vldb.org/conf/1991/P265.PDF",
 	"pages": "265-274",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["predict", "load", "control", "for", "flexibl", "buffer", "alloc"],
-	"tag": ["flexibility", "predict"],
+	"stemmed": [
+		"predict",
+		"load",
+		"control",
+		"for",
+		"flexibl",
+		"buffer",
+		"alloc"
+	],
+	"tag": [
+		"flexibility",
+		"predict"
+	],
 	"title": "Predictive Load Control for Flexible Buffer Allocation",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,13 +1,31 @@
 {
-	"author": ["Apostol Natsev", "Yuan-Chi Chang", "John R. Smith", "Chung-Sheng Li", "Jeffrey Scott Vitter"],
-	"booktitle": "VLDB",
+	"author": [
+		"Apostol Natsev",
+		"Yuan-Chi Chang",
+		"John R. Smith",
+		"Chung-Sheng Li",
+		"Jeffrey Scott Vitter"
+	],
+	"booktitle": "Proceedings of the 27th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2001",
 	"dblpkey": "conf/vldb/NatsevCSLV01",
 	"ee": "http://www.vldb.org/conf/2001/P281.pdf",
 	"pages": "281-290",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["support", "increment", "join", "queri", "on", "rank", "input"],
-	"tag": ["incremental", "query"],
+	"stemmed": [
+		"support",
+		"increment",
+		"join",
+		"queri",
+		"on",
+		"rank",
+		"input"
+	],
+	"tag": [
+		"incremental",
+		"query"
+	],
 	"title": "Supporting Incremental Join Queries on Ranked Inputs",
 	"type": "inproceedings",
 	"venue": "VLDB",

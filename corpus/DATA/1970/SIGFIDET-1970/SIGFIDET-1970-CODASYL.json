@@ -1,12 +1,28 @@
 {
-	"booktitle": "SIGFIDET Workshop",
+	"booktitle": "Record of the First ACM SIGFIDET Workshop on Data Description and Access",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGFIDET70/P313.pdf",
 	"crossref": "conf/sigmod/70",
 	"dblpkey": "conf/sigmod/CODASYL70",
 	"pages": "313-314",
 	"publisher": "ACM",
-	"stemmed": ["codasyl", "task", "group", "of", "codasyl", "system", "committe", "storag", "structur", "definit", "languag", "ssdl"],
-	"tag": ["named"],
+	"stemmed": [
+		"codasyl",
+		"task",
+		"group",
+		"of",
+		"codasyl",
+		"system",
+		"committe",
+		"storag",
+		"structur",
+		"definit",
+		"languag",
+		"ssdl"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "CODASYL: Task Group of Codasyl System Committee: Storage Structure Definition Language (SSDL)",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

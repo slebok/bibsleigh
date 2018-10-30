@@ -1,6 +1,10 @@
 {
-	"author": ["Marcelo Silva Cintra", "Guido Araujo"],
-	"booktitle": "LCTES",
+	"author": [
+		"Marcelo Silva Cintra",
+		"Guido Araujo"
+	],
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2000",
 	"dblpkey": "conf/lctrts/CintraA00",
 	"doi": "10.1007/3-540-45245-1_4",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["array", "refer", "alloc", "use", "ssa", "form", "and", "live", "rang", "growth"],
-	"tag": ["array", "using"],
+	"stemmed": [
+		"array",
+		"refer",
+		"alloc",
+		"use",
+		"ssa",
+		"form",
+		"and",
+		"live",
+		"rang",
+		"growth"
+	],
+	"tag": [
+		"array",
+		"using"
+	],
 	"title": "Array Reference Allocation Using SSA-Form and Live Range Growth",
 	"type": "inproceedings",
 	"venue": "LCTES",
-	"volume": 1985,
+	"volume": "1985",
 	"year": 2000
 }

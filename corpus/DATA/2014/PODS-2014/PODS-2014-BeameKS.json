@@ -1,14 +1,28 @@
 {
-	"author": ["Paul Beame", "Paraschos Koutris", "Dan Suciu"],
-	"booktitle": "PODS",
+	"author": [
+		"Paul Beame",
+		"Paraschos Koutris",
+		"Dan Suciu"
+	],
+	"booktitle": "Proceedings of the 33rd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2014",
 	"dblpkey": "conf/pods/BeameKS14",
 	"doi": "10.1145/2594538.2594558",
 	"ee": "http://doi.acm.org/10.1145/2594538.2594558",
 	"pages": "212-223",
 	"publisher": "ACM",
-	"stemmed": ["skew", "in", "parallel", "queri", "process"],
-	"tag": ["parallel", "query"],
+	"stemmed": [
+		"skew",
+		"in",
+		"parallel",
+		"queri",
+		"process"
+	],
+	"tag": [
+		"parallel",
+		"query"
+	],
 	"title": "Skew in parallel query processing",
 	"type": "inproceedings",
 	"venue": "PODS",

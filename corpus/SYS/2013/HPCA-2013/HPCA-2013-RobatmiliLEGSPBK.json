@@ -1,15 +1,47 @@
 {
-	"author": ["Behnam Robatmili", "Dong Li", "Hadi Esmaeilzadeh", "Madhu Saravana Sibi Govindan", "Aaron Smith", "Andrew Putnam", "Doug Burger", "Stephen W. Keckler"],
-	"booktitle": "HPCA",
+	"author": [
+		"Behnam Robatmili",
+		"Dong Li",
+		"Hadi Esmaeilzadeh",
+		"Madhu Saravana Sibi Govindan",
+		"Aaron Smith",
+		"Andrew Putnam",
+		"Doug Burger",
+		"Stephen W. Keckler"
+	],
+	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/RobatmiliLEGSPBK13",
 	"doi": "10.1109/HPCA.2013.6522341",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522341", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522341"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2013.6522341",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522341"
+	],
 	"pages": "460-471",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["how", "to", "implement", "effect", "predict", "and", "forward", "for", "fusabl", "dynam", "multicor", "architectur"],
-	"tag": ["architecture", "effectiveness", "how", "manycore", "predict"],
+	"stemmed": [
+		"how",
+		"to",
+		"implement",
+		"effect",
+		"predict",
+		"and",
+		"forward",
+		"for",
+		"fusabl",
+		"dynam",
+		"multicor",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"effectiveness",
+		"how",
+		"manycore",
+		"predict"
+	],
 	"title": "How to implement effective prediction and forwarding for fusable dynamic multicore architectures",
 	"type": "inproceedings",
 	"venue": "HPCA",

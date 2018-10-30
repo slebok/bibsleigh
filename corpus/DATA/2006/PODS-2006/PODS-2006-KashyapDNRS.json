@@ -1,14 +1,29 @@
 {
-	"author": ["Srinivas R. Kashyap", "Supratim Deb", "K. V. M. Naidu", "Rajeev Rastogi", "Anand Srinivasan"],
-	"booktitle": "PODS",
+	"author": [
+		"Srinivas R. Kashyap",
+		"Supratim Deb",
+		"K. V. M. Naidu",
+		"Rajeev Rastogi",
+		"Anand Srinivasan"
+	],
+	"booktitle": "Proceedings of the 25th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2006",
 	"dblpkey": "conf/pods/KashyapDNRS06",
 	"doi": "10.1145/1142351.1142395",
 	"ee": "http://doi.acm.org/10.1145/1142351.1142395",
 	"pages": "308-317",
 	"publisher": "ACM",
-	"stemmed": ["effici", "gossip", "base", "aggreg", "comput"],
-	"tag": ["performance"],
+	"stemmed": [
+		"effici",
+		"gossip",
+		"base",
+		"aggreg",
+		"comput"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Efficient gossip-based aggregate computation",
 	"type": "inproceedings",
 	"venue": "PODS",

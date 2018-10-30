@@ -1,6 +1,11 @@
 {
-	"author": ["Edson J. R. Justino", "Flávio Bortolozzi", "Robert Sabourin"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Edson J. R. Justino",
+		"Flávio Bortolozzi",
+		"Robert Sabourin"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2001",
 	"dblpkey": "conf/icdar/JustinoBS01",
 	"doi": "10.1109/ICDAR.2001.953942",
@@ -8,8 +13,25 @@
 	"pages": "1031-1034",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["off", "line", "signatur", "verif", "use", "hmm", "for", "random", "simpl", "and", "skill", "forgeri"],
-	"tag": ["random", "using", "verification"],
+	"stemmed": [
+		"off",
+		"line",
+		"signatur",
+		"verif",
+		"use",
+		"hmm",
+		"for",
+		"random",
+		"simpl",
+		"and",
+		"skill",
+		"forgeri"
+	],
+	"tag": [
+		"random",
+		"using",
+		"verification"
+	],
 	"title": "Off-line Signature Verification Using HMM for Random, Simple and Skilled Forgeries",
 	"type": "inproceedings",
 	"venue": "ICDAR",

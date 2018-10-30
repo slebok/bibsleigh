@@ -1,14 +1,29 @@
 {
-	"author": ["Tim Salimans", "Ulrich Paquet", "Thore Graepel"],
-	"booktitle": "RecSys",
+	"author": [
+		"Tim Salimans",
+		"Ulrich Paquet",
+		"Thore Graepel"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2012",
 	"dblpkey": "conf/recsys/SalimansPG12",
 	"doi": "10.1145/2365952.2366009",
 	"ee": "http://doi.acm.org/10.1145/2365952.2366009",
 	"pages": "261-264",
 	"publisher": "ACM",
-	"stemmed": ["collabor", "learn", "of", "prefer", "rank"],
-	"tag": ["collaboration", "learning", "ranking"],
+	"stemmed": [
+		"collabor",
+		"learn",
+		"of",
+		"prefer",
+		"rank"
+	],
+	"tag": [
+		"collaboration",
+		"learning",
+		"ranking"
+	],
 	"title": "Collaborative learning of preference rankings",
 	"type": "inproceedings",
 	"venue": "RecSys",

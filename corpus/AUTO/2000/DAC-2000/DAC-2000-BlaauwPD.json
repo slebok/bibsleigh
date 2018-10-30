@@ -1,13 +1,29 @@
 {
-	"author": ["David Blaauw", "Rajendran Panda", "Abhijit Das"],
-	"booktitle": "DAC",
+	"author": [
+		"David Blaauw",
+		"Rajendran Panda",
+		"Abhijit Das"
+	],
+	"booktitle": "Proceedings of the 37th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/BlaauwPD00",
 	"doi": "10.1145/337292.337417",
 	"ee": "http://doi.acm.org/10.1145/337292.337417",
 	"pages": "270-273",
 	"publisher": "ACM",
-	"stemmed": ["remov", "user", "specifi", "fals", "path", "from", "time", "graph"],
-	"tag": ["graph"],
+	"stemmed": [
+		"remov",
+		"user",
+		"specifi",
+		"fals",
+		"path",
+		"from",
+		"time",
+		"graph"
+	],
+	"tag": [
+		"graph"
+	],
 	"title": "Removing user specified false paths from timing graphs",
 	"type": "inproceedings",
 	"venue": "DAC",

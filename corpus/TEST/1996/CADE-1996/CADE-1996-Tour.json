@@ -1,6 +1,7 @@
 {
 	"author": "Thierry Boy de la Tour",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/Tour96",
 	"doi": "10.1007/3-540-61511-3_108",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["ground", "resolut", "with", "group", "comput", "on", "semant", "symmetri"],
-	"tag": ["semantics", "symmetry"],
+	"stemmed": [
+		"ground",
+		"resolut",
+		"with",
+		"group",
+		"comput",
+		"on",
+		"semant",
+		"symmetri"
+	],
+	"tag": [
+		"semantics",
+		"symmetry"
+	],
 	"title": "Ground Resolution with Group Computations on Semantic Symmetries",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

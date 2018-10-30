@@ -1,13 +1,36 @@
 {
-	"author": ["Wolfgang Meyer", "Raul Camposano"],
-	"booktitle": "DAC",
+	"author": [
+		"Wolfgang Meyer",
+		"Raul Camposano"
+	],
+	"booktitle": "Proceedings of the 30th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/MeyerC93",
 	"doi": "10.1145/157485.165011",
 	"ee": "http://doi.acm.org/10.1145/157485.165011",
 	"pages": "515-519",
 	"publisher": "ACM Press",
-	"stemmed": ["fast", "hierarch", "multi", "level", "fault", "simul", "of", "sequenti", "circuit", "with", "switch", "level", "accuraci"],
-	"tag": ["fault", "multi", "performance", "simulation"],
+	"stemmed": [
+		"fast",
+		"hierarch",
+		"multi",
+		"level",
+		"fault",
+		"simul",
+		"of",
+		"sequenti",
+		"circuit",
+		"with",
+		"switch",
+		"level",
+		"accuraci"
+	],
+	"tag": [
+		"fault",
+		"multi",
+		"performance",
+		"simulation"
+	],
 	"title": "Fast Hierarchical Multi-Level Fault Simulation of Sequential Circuits with Switch-Level Accuracy",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,39 @@
 {
-	"author": ["Mohamed A. Gomaa", "Michael D. Powell", "T. N. Vijaykumar"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Mohamed A. Gomaa",
+		"Michael D. Powell",
+		"T. N. Vijaykumar"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2004",
 	"dblpkey": "conf/asplos/GomaaPV04",
 	"doi": "10.1145/1024393.1024424",
 	"ee": "http://doi.acm.org/10.1145/1024393.1024424",
 	"pages": "260-270",
 	"publisher": "ACM",
-	"stemmed": ["heat", "and", "run", "leverag", "smt", "and", "cmp", "to", "manag", "power", "densiti", "through", "the", "oper", "system"],
-	"tag": ["named", "operating system", "smt"],
+	"stemmed": [
+		"heat",
+		"and",
+		"run",
+		"leverag",
+		"smt",
+		"and",
+		"cmp",
+		"to",
+		"manag",
+		"power",
+		"densiti",
+		"through",
+		"the",
+		"oper",
+		"system"
+	],
+	"tag": [
+		"named",
+		"operating system",
+		"smt"
+	],
 	"title": "Heat-and-run: leveraging SMT and CMP to manage power density through the operating system",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

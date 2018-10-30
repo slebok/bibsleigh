@@ -1,6 +1,10 @@
 {
-	"author": ["John B. Smith", "F. Donelson Smith"],
-	"booktitle": "Hypertext",
+	"author": [
+		"John B. Smith",
+		"F. Donelson Smith"
+	],
+	"booktitle": "Proceedings of the Third Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1991/P179.pdf",
 	"crossref": "conf/ht/91",
 	"dblpkey": "conf/ht/SmithS91",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/122974.122992",
 	"pages": "179-192",
 	"publisher": "ACM",
-	"stemmed": ["abc", "a", "hypermedia", "system", "for", "artifact", "base", "collabor"],
-	"tag": ["collaboration", "hypermedia", "named"],
+	"stemmed": [
+		"abc",
+		"a",
+		"hypermedia",
+		"system",
+		"for",
+		"artifact",
+		"base",
+		"collabor"
+	],
+	"tag": [
+		"collaboration",
+		"hypermedia",
+		"named"
+	],
 	"title": "ABC: A Hypermedia System for Artifact-Based Collaboration",
 	"type": "inproceedings",
 	"venue": "HT",

@@ -1,15 +1,48 @@
 {
-	"author": ["Betty Salzberg", "Alex Tsukerman", "Jim Gray", "Michael Stewart", "Susan Uren", "Bonnie Vaughan"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Betty Salzberg",
+		"Alex Tsukerman",
+		"Jim Gray",
+		"Michael Stewart",
+		"Susan Uren",
+		"Bonnie Vaughan"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD90/P094.PDF",
-	"cite": ["...", "journals/tc/BeckBW88", "conf/vldb/DeWittGGHKM86", "...", "books/aw/Knuth73", "conf/vldb/LorieY89", "books/ph/Salzberg88", "journals/acta/Salzberg89", "...", "..."],
+	"cite": [
+		"...",
+		"journals/tc/BeckBW88",
+		"conf/vldb/DeWittGGHKM86",
+		"...",
+		"books/aw/Knuth73",
+		"conf/vldb/LorieY89",
+		"books/ph/Salzberg88",
+		"journals/acta/Salzberg89",
+		"...",
+		"..."
+	],
 	"crossref": "conf/sigmod/90",
 	"dblpkey": "conf/sigmod/SalzbergTGSUV90",
 	"doi": "10.1145/93597.98719",
 	"ee": "http://doi.acm.org/10.1145/93597.98719",
 	"pages": "94-101",
-	"stemmed": ["fast", "sort", "a", "distribut", "singl", "input", "singl", "output", "extern", "sort"],
-	"tag": ["distributed", "named"],
+	"stemmed": [
+		"fast",
+		"sort",
+		"a",
+		"distribut",
+		"singl",
+		"input",
+		"singl",
+		"output",
+		"extern",
+		"sort"
+	],
+	"tag": [
+		"distributed",
+		"named"
+	],
 	"title": "FastSort: A Distributed Single-Input Single-Output External Sort",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

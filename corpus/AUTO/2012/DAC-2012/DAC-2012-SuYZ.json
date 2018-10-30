@@ -1,14 +1,39 @@
 {
-	"author": ["Yangfeng Su", "Fan Yang", "Xuan Zeng"],
-	"booktitle": "DAC",
+	"author": [
+		"Yangfeng Su",
+		"Fan Yang",
+		"Xuan Zeng"
+	],
+	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/SuYZ12",
 	"doi": "10.1145/2228360.2228416",
 	"ee": "http://doi.acm.org/10.1145/2228360.2228416",
 	"pages": "295-300",
 	"publisher": "ACM",
-	"stemmed": ["amor", "an", "effici", "aggreg", "base", "model", "order", "reduct", "method", "for", "mani", "termin", "interconnect", "circuit"],
-	"tag": ["named", "order", "performance", "reduction"],
+	"stemmed": [
+		"amor",
+		"an",
+		"effici",
+		"aggreg",
+		"base",
+		"model",
+		"order",
+		"reduct",
+		"method",
+		"for",
+		"mani",
+		"termin",
+		"interconnect",
+		"circuit"
+	],
+	"tag": [
+		"named",
+		"order",
+		"performance",
+		"reduction"
+	],
 	"title": "AMOR: an efficient aggregating based model order reduction method for many-terminal interconnect circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

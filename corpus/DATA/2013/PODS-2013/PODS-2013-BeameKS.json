@@ -1,14 +1,30 @@
 {
-	"author": ["Paul Beame", "Paraschos Koutris", "Dan Suciu"],
-	"booktitle": "PODS",
+	"author": [
+		"Paul Beame",
+		"Paraschos Koutris",
+		"Dan Suciu"
+	],
+	"booktitle": "Proceedings of the 32nd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2013",
 	"dblpkey": "conf/pods/BeameKS13",
 	"doi": "10.1145/2463664.2465224",
 	"ee": "http://doi.acm.org/10.1145/2463664.2465224",
 	"pages": "273-284",
 	"publisher": "ACM",
-	"stemmed": ["communic", "step", "for", "parallel", "queri", "process"],
-	"tag": ["communication", "parallel", "query"],
+	"stemmed": [
+		"communic",
+		"step",
+		"for",
+		"parallel",
+		"queri",
+		"process"
+	],
+	"tag": [
+		"communication",
+		"parallel",
+		"query"
+	],
 	"title": "Communication steps for parallel query processing",
 	"type": "inproceedings",
 	"venue": "PODS",

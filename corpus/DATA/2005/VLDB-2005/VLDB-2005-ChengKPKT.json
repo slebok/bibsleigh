@@ -1,13 +1,35 @@
 {
-	"author": ["Reynold Cheng", "Ben Kao", "Sunil Prabhakar", "Alan Kwan", "Yi-Cheng Tu"],
-	"booktitle": "VLDB",
+	"author": [
+		"Reynold Cheng",
+		"Ben Kao",
+		"Sunil Prabhakar",
+		"Alan Kwan",
+		"Yi-Cheng Tu"
+	],
+	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/ChengKPKT05",
 	"ee": "http://www.vldb2005.org/program/paper/tue/p37-cheng.pdf",
 	"pages": "37-48",
 	"publisher": "ACM",
-	"stemmed": ["adapt", "stream", "filter", "for", "entiti", "base", "queri", "with", "non", "valu", "toler"],
-	"tag": ["adaptation", "query"],
+	"stemmed": [
+		"adapt",
+		"stream",
+		"filter",
+		"for",
+		"entiti",
+		"base",
+		"queri",
+		"with",
+		"non",
+		"valu",
+		"toler"
+	],
+	"tag": [
+		"adaptation",
+		"query"
+	],
 	"title": "Adaptive Stream Filters for Entity-based Queries with Non-Value Tolerance",
 	"type": "inproceedings",
 	"venue": "VLDB",

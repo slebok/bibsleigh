@@ -1,6 +1,7 @@
 {
 	"author": "Gerhard Jäger",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Jager86",
 	"doi": "10.1007/3-540-16780-3_88",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["some", "contribut", "to", "the", "logic", "analysi", "of", "circumscrit"],
-	"tag": ["analysis", "logic"],
+	"stemmed": [
+		"some",
+		"contribut",
+		"to",
+		"the",
+		"logic",
+		"analysi",
+		"of",
+		"circumscrit"
+	],
+	"tag": [
+		"analysis",
+		"logic"
+	],
 	"title": "Some Contributions to the Logical Analysis of Circumscrition",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

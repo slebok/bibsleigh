@@ -1,14 +1,30 @@
 {
-	"author": ["Sadegh Nobari", "Thanh-Tung Cao", "Panagiotis Karras", "Stéphane Bressan"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Sadegh Nobari",
+		"Thanh-Tung Cao",
+		"Panagiotis Karras",
+		"Stéphane Bressan"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/NobariCKB12",
 	"doi": "10.1145/2145816.2145842",
 	"ee": "http://doi.acm.org/10.1145/2145816.2145842",
 	"pages": "205-214",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "parallel", "minimum", "span", "forest", "comput"],
-	"tag": ["parallel", "scalability"],
+	"stemmed": [
+		"scalabl",
+		"parallel",
+		"minimum",
+		"span",
+		"forest",
+		"comput"
+	],
+	"tag": [
+		"parallel",
+		"scalability"
+	],
 	"title": "Scalable parallel minimum spanning forest computation",
 	"type": "inproceedings",
 	"venue": "PPoPP",

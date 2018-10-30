@@ -1,15 +1,46 @@
 {
-	"author": ["Jim Gray", "Gianfranco R. Putzolu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jim Gray",
+		"Gianfranco R. Putzolu"
+	],
+	"booktitle": "Proceedings of the 17th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD87/P395.PDF",
-	"cite": ["...", "...", "..."],
+	"cite": [
+		"...",
+		"...",
+		"..."
+	],
 	"crossref": "conf/sigmod/87",
 	"dblpkey": "conf/sigmod/GrayP87",
 	"doi": "10.1145/38713.38755",
 	"ee": "http://doi.acm.org/10.1145/38713.38755",
 	"pages": "395-398",
-	"stemmed": ["the", "minut", "rule", "for", "trade", "memori", "for", "disk", "access", "and", "the", "byte", "rule", "for", "trade", "memori", "for", "cpu", "time"],
-	"tag": ["cpu", "memory management"],
+	"stemmed": [
+		"the",
+		"minut",
+		"rule",
+		"for",
+		"trade",
+		"memori",
+		"for",
+		"disk",
+		"access",
+		"and",
+		"the",
+		"byte",
+		"rule",
+		"for",
+		"trade",
+		"memori",
+		"for",
+		"cpu",
+		"time"
+	],
+	"tag": [
+		"cpu",
+		"memory management"
+	],
 	"title": "The 5 Minute Rule for Trading Memory for Disk Accesses and The 10 Byte Rule for Trading Memory for CPU Time",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

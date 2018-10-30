@@ -1,14 +1,35 @@
 {
-	"author": ["Yiying Zhang", "Jian Yang", "Amirsaman Memaripour", "Steven Swanson"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Yiying Zhang",
+		"Jian Yang",
+		"Amirsaman Memaripour",
+		"Steven Swanson"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2015",
 	"dblpkey": "conf/asplos/ZhangYMS15",
 	"doi": "10.1145/2694344.2694370",
 	"ee": "http://doi.acm.org/10.1145/2694344.2694370",
 	"pages": "3-18",
 	"publisher": "ACM",
-	"stemmed": ["mojim", "a", "reliabl", "and", "high", "avail", "non", "volatil", "memori", "system"],
-	"tag": ["memory management", "named", "reliability"],
+	"stemmed": [
+		"mojim",
+		"a",
+		"reliabl",
+		"and",
+		"high",
+		"avail",
+		"non",
+		"volatil",
+		"memori",
+		"system"
+	],
+	"tag": [
+		"memory management",
+		"named",
+		"reliability"
+	],
 	"title": "Mojim: A Reliable and Highly-Available Non-Volatile Memory System",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

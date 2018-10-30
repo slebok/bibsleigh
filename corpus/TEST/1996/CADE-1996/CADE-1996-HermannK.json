@@ -1,6 +1,10 @@
 {
-	"author": ["Miki Hermann", "Phokion G. Kolaitis"],
-	"booktitle": "CADE",
+	"author": [
+		"Miki Hermann",
+		"Phokion G. Kolaitis"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/HermannK96",
 	"doi": "10.1007/3-540-61511-3_89",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["unif", "algorithm", "cannot", "be", "combin", "in", "polynomi", "time"],
-	"tag": ["algorithm", "polynomial", "unification"],
+	"stemmed": [
+		"unif",
+		"algorithm",
+		"cannot",
+		"be",
+		"combin",
+		"in",
+		"polynomi",
+		"time"
+	],
+	"tag": [
+		"algorithm",
+		"polynomial",
+		"unification"
+	],
 	"title": "Unification Algorithms Cannot be Combined in Polynomial Time",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

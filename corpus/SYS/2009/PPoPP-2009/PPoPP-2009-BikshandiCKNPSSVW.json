@@ -1,14 +1,39 @@
 {
-	"author": ["Ganesh Bikshandi", "José G. Castaños", "Sreedhar B. Kodali", "V. Krishna Nandivada", "Igor Peshansky", "Vijay A. Saraswat", "Sayantan Sur", "Pradeep Varma", "Tong Wen"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Ganesh Bikshandi",
+		"José G. Castaños",
+		"Sreedhar B. Kodali",
+		"V. Krishna Nandivada",
+		"Igor Peshansky",
+		"Vijay A. Saraswat",
+		"Sayantan Sur",
+		"Pradeep Varma",
+		"Tong Wen"
+	],
+	"booktitle": "Proceedings of the 14th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2009",
 	"dblpkey": "conf/ppopp/BikshandiCKNPSSVW09",
 	"doi": "10.1145/1504176.1504215",
 	"ee": "http://doi.acm.org/10.1145/1504176.1504215",
 	"pages": "271-282",
 	"publisher": "ACM",
-	"stemmed": ["effici", "portabl", "implement", "of", "asynchron", "multi", "place", "program"],
-	"tag": ["implementation", "multi", "performance", "source code"],
+	"stemmed": [
+		"effici",
+		"portabl",
+		"implement",
+		"of",
+		"asynchron",
+		"multi",
+		"place",
+		"program"
+	],
+	"tag": [
+		"implementation",
+		"multi",
+		"performance",
+		"source code"
+	],
 	"title": "Efficient, portable implementation of asynchronous multi-place programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,14 +1,32 @@
 {
-	"author": ["Utkarsh Srivastava", "Jennifer Widom"],
-	"booktitle": "PODS",
+	"author": [
+		"Utkarsh Srivastava",
+		"Jennifer Widom"
+	],
+	"booktitle": "Proceedings of the 23rd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2004",
 	"dblpkey": "conf/pods/SrivastavaW04",
 	"doi": "10.1145/1055558.1055596",
-	"ee": ["http://doi.acm.org/10.1145/1055558.1055596", "http://www.acm.org/sigmod/pods/proc04/pdf/P-27.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1055558.1055596",
+		"http://www.acm.org/sigmod/pods/proc04/pdf/P-27.pdf"
+	],
 	"pages": "263-274",
 	"publisher": "ACM",
-	"stemmed": ["flexibl", "time", "manag", "in", "data", "stream", "system"],
-	"tag": ["data type", "flexibility"],
+	"stemmed": [
+		"flexibl",
+		"time",
+		"manag",
+		"in",
+		"data",
+		"stream",
+		"system"
+	],
+	"tag": [
+		"data type",
+		"flexibility"
+	],
 	"title": "Flexible Time Management in Data Stream Systems",
 	"type": "inproceedings",
 	"venue": "PODS",

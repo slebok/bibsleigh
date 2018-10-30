@@ -1,14 +1,35 @@
 {
-	"author": ["Iñigo Goiri", "William A. Katsak", "Kien Le", "Thu D. Nguyen", "Ricardo Bianchini"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Iñigo Goiri",
+		"William A. Katsak",
+		"Kien Le",
+		"Thu D. Nguyen",
+		"Ricardo Bianchini"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2013",
 	"dblpkey": "conf/asplos/GoiriKLNB13",
 	"doi": "10.1145/2451116.2451123",
 	"ee": "http://doi.acm.org/10.1145/2451116.2451123",
 	"pages": "51-64",
 	"publisher": "ACM",
-	"stemmed": ["parasol", "and", "green", "switch", "manag", "datacent", "power", "by", "renew", "energi"],
-	"tag": ["data transformation", "energy"],
+	"stemmed": [
+		"parasol",
+		"and",
+		"green",
+		"switch",
+		"manag",
+		"datacent",
+		"power",
+		"by",
+		"renew",
+		"energi"
+	],
+	"tag": [
+		"data transformation",
+		"energy"
+	],
 	"title": "Parasol and GreenSwitch: managing datacenters powered by renewable energy",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

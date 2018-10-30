@@ -1,7 +1,11 @@
 {
-	"author": ["Don S. Batory", "Jeff Thomas", "Marty Sirkin"],
+	"author": [
+		"Don S. Batory",
+		"Jeff Thomas",
+		"Marty Sirkin"
+	],
 	"booktitle": "Proceedings of the Second Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/1994",
 	"dblpkey": "conf/sigsoft/BatoryTS94",
 	"doi": "10.1145/193173.195299",
@@ -9,8 +13,25 @@
 	"ee": "http://doi.acm.org/10.1145/193173.195299",
 	"pages": "111-120",
 	"publisher": "ACM",
-	"stemmed": ["reengin", "a", "complex", "applic", "use", "a", "scalabl", "data", "structur", "compil"],
-	"tag": ["compilation", "data type", "re-engineering", "scalability", "using"],
+	"stemmed": [
+		"reengin",
+		"a",
+		"complex",
+		"applic",
+		"use",
+		"a",
+		"scalabl",
+		"data",
+		"structur",
+		"compil"
+	],
+	"tag": [
+		"compilation",
+		"data type",
+		"re-engineering",
+		"scalability",
+		"using"
+	],
 	"title": "Reengineering a Complex Application Using a Scalable Data Structure Compiler",
 	"type": "inproceedings",
 	"venue": "FSE",

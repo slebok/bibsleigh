@@ -1,13 +1,30 @@
 {
-	"author": ["Mihnea Andrei", "Patrick Valduriez"],
-	"booktitle": "VLDB",
+	"author": [
+		"Mihnea Andrei",
+		"Patrick Valduriez"
+	],
+	"booktitle": "Proceedings of the 27th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2001",
 	"dblpkey": "conf/vldb/AndreiV01",
 	"ee": "http://www.vldb.org/conf/2001/P029.pdf",
 	"pages": "29-38",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["user", "optim", "communic", "use", "abstract", "plan", "in", "sybas", "ase"],
-	"tag": ["communication", "using"],
+	"stemmed": [
+		"user",
+		"optim",
+		"communic",
+		"use",
+		"abstract",
+		"plan",
+		"in",
+		"sybas",
+		"ase"
+	],
+	"tag": [
+		"communication",
+		"using"
+	],
 	"title": "User-Optimizer Communication using Abstract Plans in Sybase ASE",
 	"type": "inproceedings",
 	"venue": "VLDB",

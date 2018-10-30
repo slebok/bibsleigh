@@ -1,13 +1,28 @@
 {
-	"acmid": 802284,
+	"acmid": "802284",
 	"author": "Wendell E. Cory",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 18th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1981",
 	"dblpkey": "conf/dac/Cory81",
 	"pages": "82-89",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["symbol", "simul", "for", "function", "verif", "with", "adlib", "and", "sdl"],
-	"tag": ["functional", "simulation", "verification"],
+	"stemmed": [
+		"symbol",
+		"simul",
+		"for",
+		"function",
+		"verif",
+		"with",
+		"adlib",
+		"and",
+		"sdl"
+	],
+	"tag": [
+		"functional",
+		"simulation",
+		"verification"
+	],
 	"title": "Symbolic simulation for functional verification with ADLIB and SDL",
 	"type": "inproceedings",
 	"venue": "DAC",

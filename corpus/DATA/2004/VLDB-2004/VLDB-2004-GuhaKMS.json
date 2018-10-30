@@ -1,13 +1,29 @@
 {
-	"author": ["Sudipto Guha", "Nick Koudas", "Amit Marathe", "Divesh Srivastava"],
-	"booktitle": "VLDB",
+	"author": [
+		"Sudipto Guha",
+		"Nick Koudas",
+		"Amit Marathe",
+		"Divesh Srivastava"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/GuhaKMS04",
 	"ee": "http://www.vldb.org/conf/2004/RS17P2.PDF",
 	"pages": "636-647",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["merg", "the", "result", "of", "approxim", "match", "oper"],
-	"tag": ["approximate"],
+	"stemmed": [
+		"merg",
+		"the",
+		"result",
+		"of",
+		"approxim",
+		"match",
+		"oper"
+	],
+	"tag": [
+		"approximate"
+	],
 	"title": "Merging the Results of Approximate Match Operations",
 	"type": "inproceedings",
 	"venue": "VLDB",

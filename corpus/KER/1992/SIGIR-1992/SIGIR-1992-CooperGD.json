@@ -1,6 +1,11 @@
 {
-	"author": ["William S. Cooper", "Fredric C. Gey", "Daniel P. Dabney"],
+	"author": [
+		"William S. Cooper",
+		"Fredric C. Gey",
+		"Daniel P. Dabney"
+	],
 	"booktitle": "Proceedings of the 15th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1992/P198.pdf",
 	"crossref": "conf/sigir/92",
 	"dblpkey": "conf/sigir/CooperGD92",
@@ -8,8 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/133160.133199",
 	"pages": "198-210",
 	"publisher": "ACM",
-	"stemmed": ["probabilist", "retriev", "base", "on", "stage", "logist", "regress"],
-	"tag": ["probability", "retrieval", "staged"],
+	"stemmed": [
+		"probabilist",
+		"retriev",
+		"base",
+		"on",
+		"stage",
+		"logist",
+		"regress"
+	],
+	"tag": [
+		"probability",
+		"retrieval",
+		"staged"
+	],
 	"title": "Probabilistic Retrieval Based on Staged Logistic Regression",
 	"type": "inproceedings",
 	"venue": "SIGIR",

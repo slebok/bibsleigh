@@ -1,6 +1,10 @@
 {
-	"author": ["Shahid Jabbar", "Stefan Edelkamp"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Shahid Jabbar",
+		"Stefan Edelkamp"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2006",
 	"dblpkey": "conf/vmcai/JabbarE06",
 	"doi": "10.1007/11609773_16",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["parallel", "extern", "direct", "model", "check", "with", "linear", "i", "o"],
-	"tag": ["linear", "model checking", "parallel"],
+	"stemmed": [
+		"parallel",
+		"extern",
+		"direct",
+		"model",
+		"check",
+		"with",
+		"linear",
+		"i",
+		"o"
+	],
+	"tag": [
+		"linear",
+		"model checking",
+		"parallel"
+	],
 	"title": "Parallel External Directed Model Checking with Linear I/O",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3855,
+	"volume": "3855",
 	"year": 2006
 }

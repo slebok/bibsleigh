@@ -1,14 +1,38 @@
 {
-	"author": ["Jing Zhang", "Jie Tang", "Cong Ma", "Hanghang Tong", "Yu Jing", "Juanzi Li"],
-	"booktitle": "KDD",
+	"author": [
+		"Jing Zhang",
+		"Jie Tang",
+		"Cong Ma",
+		"Hanghang Tong",
+		"Yu Jing",
+		"Juanzi Li"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/ZhangTMTJL15",
 	"doi": "10.1145/2783258.2783267",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783267",
 	"pages": "1445-1454",
 	"publisher": "ACM",
-	"stemmed": ["panther", "fast", "top", "k", "similar", "search", "on", "larg", "network"],
-	"tag": ["named", "network", "performance", "scalability", "similarity"],
+	"stemmed": [
+		"panther",
+		"fast",
+		"top",
+		"k",
+		"similar",
+		"search",
+		"on",
+		"larg",
+		"network"
+	],
+	"tag": [
+		"named",
+		"network",
+		"performance",
+		"scalability",
+		"similarity"
+	],
 	"title": "Panther: Fast Top-k Similarity Search on Large Networks",
 	"type": "inproceedings",
 	"venue": "KDD",

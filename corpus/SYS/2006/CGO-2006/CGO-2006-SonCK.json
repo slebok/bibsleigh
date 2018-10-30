@@ -1,16 +1,44 @@
 {
-	"acmid": 1122410,
-	"author": ["Seung Woo Son", "Guangyu Chen", "Mahmut T. Kandemir"],
-	"booktitle": "CGO",
+	"acmid": "1122410",
+	"author": [
+		"Seung Woo Son",
+		"Guangyu Chen",
+		"Mahmut T. Kandemir"
+	],
+	"booktitle": "Proceedings of the Fourth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2006",
 	"dblpkey": "conf/cgo/SonCK06",
 	"doi": "10.1109/CGO.2006.2",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2006.2", "http://doi.ieeecomputersociety.org/10.1109/CGO.2006.2", "http://dl.acm.org/citation.cfm?id=1122410"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2006.2",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2006.2",
+		"http://dl.acm.org/citation.cfm?id=1122410"
+	],
 	"pages": "256-268",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "compil", "guid", "approach", "for", "reduc", "disk", "power", "consumpt", "by", "exploit", "disk", "access", "local"],
-	"tag": ["approach", "locality", "power management"],
+	"stemmed": [
+		"a",
+		"compil",
+		"guid",
+		"approach",
+		"for",
+		"reduc",
+		"disk",
+		"power",
+		"consumpt",
+		"by",
+		"exploit",
+		"disk",
+		"access",
+		"local"
+	],
+	"tag": [
+		"approach",
+		"locality",
+		"power management"
+	],
 	"title": "A Compiler-Guided Approach for Reducing Disk Power Consumption by Exploiting Disk Access Locality",
 	"type": "inproceedings",
 	"venue": "CGO",

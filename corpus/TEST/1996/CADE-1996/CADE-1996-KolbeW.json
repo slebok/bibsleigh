@@ -1,6 +1,10 @@
 {
-	"author": ["Thomas Kolbe", "Christoph Walther"],
-	"booktitle": "CADE",
+	"author": [
+		"Thomas Kolbe",
+		"Christoph Walther"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/KolbeW96",
 	"doi": "10.1007/3-540-61511-3_72",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["termin", "of", "theorem", "prove", "by", "reus"],
-	"tag": ["proving", "reuse", "termination", "theorem proving"],
+	"stemmed": [
+		"termin",
+		"of",
+		"theorem",
+		"prove",
+		"by",
+		"reus"
+	],
+	"tag": [
+		"proving",
+		"reuse",
+		"termination",
+		"theorem proving"
+	],
 	"title": "Termination of Theorem Proving by Reuse",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

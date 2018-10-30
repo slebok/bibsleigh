@@ -1,6 +1,7 @@
 {
 	"author": "Andrea Caloini",
-	"booktitle": "ECHT",
+	"booktitle": "Proceedings of the European Conference on Hypertext Technology",
+	"booktitleshort": "HT/ECHT",
 	"cdrom": "ECHT1992/P091.pdf",
 	"crossref": "conf/echt/92",
 	"dblpkey": "conf/echt/Caloini92",
@@ -8,8 +9,22 @@
 	"ee": "http://doi.acm.org/10.1145/168466.168500",
 	"pages": "91-101",
 	"publisher": "ACM",
-	"stemmed": ["match", "hypertext", "model", "to", "hypertext", "system", "a", "compil", "approach"],
-	"tag": ["approach", "hypermedia", "modelling"],
+	"stemmed": [
+		"match",
+		"hypertext",
+		"model",
+		"to",
+		"hypertext",
+		"system",
+		"a",
+		"compil",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"hypermedia",
+		"modelling"
+	],
 	"title": "Matching Hypertext Models to Hypertext Systems: A Compilative Approach",
 	"type": "inproceedings",
 	"venue": "HT",

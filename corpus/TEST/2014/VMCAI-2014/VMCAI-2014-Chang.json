@@ -1,6 +1,7 @@
 {
 	"author": "Bor-Yuh Evan Chang",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the 15th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2014",
 	"dblpkey": "conf/vmcai/Chang14",
 	"doi": "10.1007/978-3-642-54013-4_8",
@@ -10,11 +11,17 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["refut", "heap", "reachabl"],
-	"tag": ["reachability"],
+	"stemmed": [
+		"refut",
+		"heap",
+		"reachabl"
+	],
+	"tag": [
+		"reachability"
+	],
 	"title": "Refuting Heap Reachability",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 8318,
+	"volume": "8318",
 	"year": 2014
 }

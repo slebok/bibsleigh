@@ -1,14 +1,36 @@
 {
-	"acmid": 2755922,
-	"author": ["Tushar Rawat", "Aviral Shrivastava"],
-	"booktitle": "DATE",
+	"acmid": "2755922",
+	"author": [
+		"Tushar Rawat",
+		"Aviral Shrivastava"
+	],
+	"booktitle": "Proceedings of the 19th Conference and Exhibition on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2015",
 	"dblpkey": "conf/date/RawatS15",
 	"ieeearid": 7092485,
 	"pages": "742-747",
 	"publisher": "ACM",
-	"stemmed": ["enabl", "multi", "thread", "applic", "on", "hybrid", "share", "memori", "manycor", "architectur"],
-	"tag": ["architecture", "concurrent", "hybrid", "manycore", "memory management", "thread"],
+	"stemmed": [
+		"enabl",
+		"multi",
+		"thread",
+		"applic",
+		"on",
+		"hybrid",
+		"share",
+		"memori",
+		"manycor",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"concurrent",
+		"hybrid",
+		"manycore",
+		"memory management",
+		"thread"
+	],
 	"title": "Enabling multi-threaded applications on hybrid shared memory manycore architectures",
 	"type": "inproceedings",
 	"venue": "DATE",

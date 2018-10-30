@@ -1,15 +1,39 @@
 {
-	"author": ["Mounim A. El-Yacoubi", "Jean-Michel Bertille", "Michel Gilloux"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Mounim A. El-Yacoubi",
+		"Jean-Michel Bertille",
+		"Michel Gilloux"
+	],
+	"booktitle": "Proceedings of the Third International Conference on Document Analysis and Recognition (Volume II)",
+	"booktitleshort": "ICDAR v2",
 	"crossref": "conf/icdar/1995-2",
 	"dblpkey": "conf/icdar/El-YacoubiBG95",
 	"doi": "10.1109/ICDAR.1995.602077",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1995.602077", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.602077"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1995.602077",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.602077"
+	],
 	"pages": "1024-1027",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["conjoin", "locat", "and", "recognit", "of", "street", "name", "within", "a", "postal", "address", "deliveri", "line"],
-	"tag": ["recognition"],
+	"stemmed": [
+		"conjoin",
+		"locat",
+		"and",
+		"recognit",
+		"of",
+		"street",
+		"name",
+		"within",
+		"a",
+		"postal",
+		"address",
+		"deliveri",
+		"line"
+	],
+	"tag": [
+		"recognition"
+	],
 	"title": "Conjoined location and recognition of street names within a postal address delivery line",
 	"type": "inproceedings",
 	"venue": "ICDAR",

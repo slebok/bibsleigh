@@ -1,6 +1,11 @@
 {
-	"author": ["Joel Coburn", "Srivaths Ravi", "Anand Raghunathan"],
-	"booktitle": "DATE",
+	"author": [
+		"Joel Coburn",
+		"Srivaths Ravi",
+		"Anand Raghunathan"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/CoburnRR05",
 	"doi": "10.1109/DATE.2005.168",
@@ -8,8 +13,16 @@
 	"pages": "528-529",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["hardwar", "acceler", "power", "estim"],
-	"tag": ["estimation", "hardware"],
+	"stemmed": [
+		"hardwar",
+		"acceler",
+		"power",
+		"estim"
+	],
+	"tag": [
+		"estimation",
+		"hardware"
+	],
 	"title": "Hardware Accelerated Power Estimation",
 	"type": "inproceedings",
 	"venue": "DATE",

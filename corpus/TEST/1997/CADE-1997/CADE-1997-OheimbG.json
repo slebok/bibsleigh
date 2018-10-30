@@ -1,6 +1,10 @@
 {
-	"author": ["David von Oheimb", "Thomas F. Gritzner"],
-	"booktitle": "CADE",
+	"author": [
+		"David von Oheimb",
+		"Thomas F. Gritzner"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
 	"dblpkey": "conf/cade/OheimbG97",
 	"doi": "10.1007/3-540-63104-6_36",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["rall", "machin", "support", "proof", "for", "relat", "algebra"],
-	"tag": ["algebra", "named", "proving"],
+	"stemmed": [
+		"rall",
+		"machin",
+		"support",
+		"proof",
+		"for",
+		"relat",
+		"algebra"
+	],
+	"tag": [
+		"algebra",
+		"named",
+		"proving"
+	],
 	"title": "RALL: Machine-Supported Proofs for Relation Algebra",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1249,
+	"volume": "1249",
 	"year": 1997
 }

@@ -1,6 +1,7 @@
 {
 	"author": "Lars-Henrik Eriksson",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/Eriksson94",
 	"doi": "10.1007/3-540-58156-1_68",
@@ -10,11 +11,30 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["pi", "an", "interact", "deriv", "editor", "for", "the", "calculus", "of", "partial", "induct", "definit"],
-	"tag": ["calculus", "editing", "induction", "interactive", "named"],
+	"stemmed": [
+		"pi",
+		"an",
+		"interact",
+		"deriv",
+		"editor",
+		"for",
+		"the",
+		"calculus",
+		"of",
+		"partial",
+		"induct",
+		"definit"
+	],
+	"tag": [
+		"calculus",
+		"editing",
+		"induction",
+		"interactive",
+		"named"
+	],
 	"title": "Pi: an Interactive Derivation Editor for the Calculus of Partial Inductive Definitions",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

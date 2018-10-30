@@ -1,15 +1,36 @@
 {
-	"author": ["Hans Grabowski", "Chenguang Liu", "Arno Michelis"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Hans Grabowski",
+		"Chenguang Liu",
+		"Arno Michelis"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/1999",
 	"dblpkey": "conf/icdar/GrabowskiLM99",
 	"doi": "10.1109/ICDAR.1999.791878",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1999.791878", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1999.791878"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1999.791878",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1999.791878"
+	],
 	"pages": "677-680",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["stepwis", "segment", "and", "interpret", "of", "section", "represent", "in", "vector", "draw"],
-	"tag": ["segmentation"],
+	"stemmed": [
+		"stepwis",
+		"segment",
+		"and",
+		"interpret",
+		"of",
+		"section",
+		"represent",
+		"in",
+		"vector",
+		"draw"
+	],
+	"tag": [
+		"segmentation"
+	],
 	"title": "Stepwise Segmentation and Interpretation of Section Representations in Vectorized Drawings",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,13 +1,31 @@
 {
-	"author": ["Russell Power", "Jinyang Li"],
-	"booktitle": "OSDI",
+	"author": [
+		"Russell Power",
+		"Jinyang Li"
+	],
+	"booktitle": "Proceedings of the Ninth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2010",
 	"dblpkey": "conf/osdi/PowerL10",
 	"ee": "http://www.usenix.org/events/osdi10/tech/full_papers/Power.pdf",
 	"pages": "293-306",
 	"publisher": "USENIX Association",
-	"stemmed": ["piccolo", "build", "fast", "distribut", "program", "with", "partit", "tabl"],
-	"tag": ["distributed", "named", "performance", "source code"],
+	"stemmed": [
+		"piccolo",
+		"build",
+		"fast",
+		"distribut",
+		"program",
+		"with",
+		"partit",
+		"tabl"
+	],
+	"tag": [
+		"distributed",
+		"named",
+		"performance",
+		"source code"
+	],
 	"title": "Piccolo: Building Fast, Distributed Programs with Partitioned Tables",
 	"type": "inproceedings",
 	"venue": "OSDI",

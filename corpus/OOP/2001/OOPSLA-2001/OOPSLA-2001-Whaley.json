@@ -1,17 +1,31 @@
 {
 	"author": "John Whaley",
-	"booktitle": "Proceedings of the 16th Conference on Object-Oriented Programming Systems, Languages and Applications",
+	"booktitle": "Proceedings of the 16th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2001",
 	"dblpkey": "conf/oopsla/Whaley01",
 	"doi": "10.1145/504282.504295",
-	"editor": ["Linda M. Northrop", "John M. Vlissides"],
+	"editor": [
+		"Linda M. Northrop",
+		"John M. Vlissides"
+	],
 	"ee": "http://doi.acm.org/10.1145/504282.504295",
 	"isbn": "1-58113-335-9",
 	"pages": "166-179",
 	"publisher": "ACM",
-	"stemmed": ["partial", "method", "compil", "use", "dynam", "profil", "inform"],
-	"tag": ["compilation", "using"],
+	"stemmed": [
+		"partial",
+		"method",
+		"compil",
+		"use",
+		"dynam",
+		"profil",
+		"inform"
+	],
+	"tag": [
+		"compilation",
+		"using"
+	],
 	"title": "Partial Method Compilation using Dynamic Profile Information",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

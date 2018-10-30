@@ -1,14 +1,32 @@
 {
-	"author": ["Masaki Hashizume", "Masahiro Ichimiya", "Hiroyuki Yotsuyanagi", "Takeomi Tamesada"],
-	"booktitle": "DATE",
+	"author": [
+		"Masaki Hashizume",
+		"Masahiro Ichimiya",
+		"Hiroyuki Yotsuyanagi",
+		"Takeomi Tamesada"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2001",
 	"dblpkey": "conf/date/HashizumeIYT01",
 	"doi": "10.1145/367072.367358",
 	"ee": "http://doi.acm.org/10.1145/367072.367358",
-	"pages": 509,
+	"pages": "509",
 	"publisher": "ACM",
-	"stemmed": ["cmos", "open", "defect", "detect", "by", "suppli", "current", "test"],
-	"tag": ["detection", "fault"],
+	"stemmed": [
+		"cmos",
+		"open",
+		"defect",
+		"detect",
+		"by",
+		"suppli",
+		"current",
+		"test"
+	],
+	"tag": [
+		"detection",
+		"fault"
+	],
 	"title": "CMOS open defect detection by supply current test",
 	"type": "inproceedings",
 	"venue": "DATE",

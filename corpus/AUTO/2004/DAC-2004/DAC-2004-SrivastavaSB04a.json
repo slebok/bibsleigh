@@ -1,14 +1,35 @@
 {
-	"author": ["Ashish Srivastava", "Dennis Sylvester", "David Blaauw"],
-	"booktitle": "DAC",
+	"author": [
+		"Ashish Srivastava",
+		"Dennis Sylvester",
+		"David Blaauw"
+	],
+	"booktitle": "Proceedings of the 41st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2004",
 	"dblpkey": "conf/dac/SrivastavaSB04a",
 	"doi": "10.1145/996566.996777",
 	"ee": "http://doi.acm.org/10.1145/996566.996777",
 	"pages": "783-787",
 	"publisher": "ACM",
-	"stemmed": ["power", "minim", "use", "simultan", "gate", "size", "dual", "vdd", "and", "dual", "vth", "assign"],
-	"tag": ["power management", "using"],
+	"stemmed": [
+		"power",
+		"minim",
+		"use",
+		"simultan",
+		"gate",
+		"size",
+		"dual",
+		"vdd",
+		"and",
+		"dual",
+		"vth",
+		"assign"
+	],
+	"tag": [
+		"power management",
+		"using"
+	],
 	"title": "Power minimization using simultaneous gate sizing, dual-Vdd and dual-Vth assignment",
 	"type": "inproceedings",
 	"venue": "DAC",

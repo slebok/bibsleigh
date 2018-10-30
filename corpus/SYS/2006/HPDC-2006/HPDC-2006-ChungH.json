@@ -1,14 +1,41 @@
 {
-	"author": ["I-Hsin Chung", "Jeffrey K. Hollingsworth"],
+	"author": [
+		"I-Hsin Chung",
+		"Jeffrey K. Hollingsworth"
+	],
 	"booktitle": "Proceedings of the 15th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2006",
 	"dblpkey": "conf/hpdc/ChungH06",
 	"doi": "10.1109/HPDC.2006.1652135",
-	"ee": ["http://dx.doi.org/10.1109/HPDC.2006.1652135", "http://doi.ieeecomputersociety.org/10.1109/HPDC.2006.1652135"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPDC.2006.1652135",
+		"http://doi.ieeecomputersociety.org/10.1109/HPDC.2006.1652135"
+	],
 	"pages": "45-56",
 	"publisher": "IEEE",
-	"stemmed": ["a", "case", "studi", "use", "automat", "perform", "tune", "for", "larg", "scale", "scientif", "program"],
-	"tag": ["automation", "case study", "performance", "scalability", "source code", "using"],
+	"stemmed": [
+		"a",
+		"case",
+		"studi",
+		"use",
+		"automat",
+		"perform",
+		"tune",
+		"for",
+		"larg",
+		"scale",
+		"scientif",
+		"program"
+	],
+	"tag": [
+		"automation",
+		"case study",
+		"performance",
+		"scalability",
+		"source code",
+		"using"
+	],
 	"title": "A Case Study Using Automatic Performance Tuning for Large-Scale Scientific Programs",
 	"type": "inproceedings",
 	"venue": "HPDC",

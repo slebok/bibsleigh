@@ -1,13 +1,37 @@
 {
-	"acmid": 2997380,
-	"author": ["Daniel Seybold", "Jörg Domaschka", "Alessandro Rossini", "Christopher B. Hauser", "Frank Griesinger", "Athanasios Tsitsipas"],
-	"booktitle": "SLE",
+	"acmid": "2997380",
+	"author": [
+		"Daniel Seybold",
+		"Jörg Domaschka",
+		"Alessandro Rossini",
+		"Christopher B. Hauser",
+		"Frank Griesinger",
+		"Athanasios Tsitsipas"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Software Language Engineering",
+	"booktitleshort": "SLE",
 	"crossref": "conf/sle/2016",
 	"dblpkey": "conf/sle/SeyboldDRHGT16",
 	"pages": "46-56",
 	"publisher": "ACM",
-	"stemmed": ["experi", "of", "model", "run", "time", "with", "emf", "and", "cdo"],
-	"tag": ["case study", "emf", "experience", "modelling", "runtime"],
+	"stemmed": [
+		"experi",
+		"of",
+		"model",
+		"run",
+		"time",
+		"with",
+		"emf",
+		"and",
+		"cdo"
+	],
+	"tag": [
+		"case study",
+		"emf",
+		"experience",
+		"modelling",
+		"runtime"
+	],
 	"title": "Experiences of models@run-time with EMF and CDO",
 	"type": "inproceedings",
 	"venue": "SLE",

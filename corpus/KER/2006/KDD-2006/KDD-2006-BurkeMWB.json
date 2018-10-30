@@ -1,14 +1,35 @@
 {
-	"author": ["Robin D. Burke", "Bamshad Mobasher", "Chad Williams", "Runa Bhaumik"],
-	"booktitle": "KDD",
+	"author": [
+		"Robin D. Burke",
+		"Bamshad Mobasher",
+		"Chad Williams",
+		"Runa Bhaumik"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/BurkeMWB06",
 	"doi": "10.1145/1150402.1150465",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150465",
 	"pages": "542-547",
 	"publisher": "ACM",
-	"stemmed": ["classif", "featur", "for", "attack", "detect", "in", "collabor", "recommend", "system"],
-	"tag": ["classification", "collaboration", "detection", "recommendation"],
+	"stemmed": [
+		"classif",
+		"featur",
+		"for",
+		"attack",
+		"detect",
+		"in",
+		"collabor",
+		"recommend",
+		"system"
+	],
+	"tag": [
+		"classification",
+		"collaboration",
+		"detection",
+		"recommendation"
+	],
 	"title": "Classification features for attack detection in collaborative recommender systems",
 	"type": "inproceedings",
 	"venue": "KDD",

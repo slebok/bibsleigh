@@ -1,13 +1,31 @@
 {
-	"author": ["Youpyo Hong", "Peter A. Beerel", "Luciano Lavagno", "Ellen Sentovich"],
-	"booktitle": "DAC",
+	"author": [
+		"Youpyo Hong",
+		"Peter A. Beerel",
+		"Luciano Lavagno",
+		"Ellen Sentovich"
+	],
+	"booktitle": "Proceedings of the 35th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/HongBLS98",
 	"doi": "10.1145/277044.277183",
 	"ee": "http://doi.acm.org/10.1145/277044.277183",
 	"pages": "506-509",
 	"publisher": "ACM Press",
-	"stemmed": ["don", "t", "care", "base", "bdd", "minim", "for", "embed", "softwar"],
-	"tag": ["embedded"],
+	"stemmed": [
+		"don",
+		"t",
+		"care",
+		"base",
+		"bdd",
+		"minim",
+		"for",
+		"embed",
+		"softwar"
+	],
+	"tag": [
+		"embedded"
+	],
 	"title": "Don’t Care-Based BDD Minimization for Embedded Software",
 	"type": "inproceedings",
 	"venue": "DAC",

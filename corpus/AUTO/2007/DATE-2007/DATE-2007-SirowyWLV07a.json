@@ -1,14 +1,34 @@
 {
-	"author": ["Scott Sirowy", "Yonghui Wu", "Stefano Lonardi", "Frank Vahid"],
-	"booktitle": "DATE",
+	"author": [
+		"Scott Sirowy",
+		"Yonghui Wu",
+		"Stefano Lonardi",
+		"Frank Vahid"
+	],
+	"booktitle": "Proceedings of the 11th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2007",
 	"dblpkey": "conf/date/SirowyWLV07a",
 	"doi": "10.1145/1266366.1266450",
 	"ee": "http://doi.acm.org/10.1145/1266366.1266450",
 	"pages": "397-402",
 	"publisher": "ACM",
-	"stemmed": ["clock", "frequenc", "assign", "for", "multipl", "clock", "domain", "system", "on", "a", "chip"],
-	"tag": ["multi"],
+	"stemmed": [
+		"clock",
+		"frequenc",
+		"assign",
+		"for",
+		"multipl",
+		"clock",
+		"domain",
+		"system",
+		"on",
+		"a",
+		"chip"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "Clock-frequency assignment for multiple clock domain systems-on-a-chip",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,14 +1,36 @@
 {
-	"author": ["Qiang Xu", "Yubin Zhang", "Krishnendu Chakrabarty"],
-	"booktitle": "DAC",
+	"author": [
+		"Qiang Xu",
+		"Yubin Zhang",
+		"Krishnendu Chakrabarty"
+	],
+	"booktitle": "Proceedings of the 44th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2007",
 	"dblpkey": "conf/dac/XuZC07",
 	"doi": "10.1145/1278480.1278651",
 	"ee": "http://doi.acm.org/10.1145/1278480.1278651",
 	"pages": "676-681",
 	"publisher": "IEEE",
-	"stemmed": ["soc", "test", "architectur", "optim", "for", "signal", "integr", "fault", "on", "core", "extern", "interconnect"],
-	"tag": ["architecture", "fault", "optimisation"],
+	"stemmed": [
+		"soc",
+		"test",
+		"architectur",
+		"optim",
+		"for",
+		"signal",
+		"integr",
+		"fault",
+		"on",
+		"core",
+		"extern",
+		"interconnect"
+	],
+	"tag": [
+		"architecture",
+		"fault",
+		"optimisation"
+	],
 	"title": "SOC Test Architecture Optimization for Signal Integrity Faults on Core-External Interconnects",
 	"type": "inproceedings",
 	"venue": "DAC",

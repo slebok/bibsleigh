@@ -1,14 +1,42 @@
 {
-	"author": ["Frank Olken", "Doron Rotem"],
-	"booktitle": "VLDB",
-	"cite": ["journals/tods/Christodoulakis84", "books/wi/Cochran77", "...", "journals/cj/ErnvallN82", "...", "...", "...", "journals/cacm/Vitter84", "journals/toms/Vitter85", "journals/siamcomp/WongE80", "conf/icalp/Willard84", "journals/cacm/Yao77"],
+	"author": [
+		"Frank Olken",
+		"Doron Rotem"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/tods/Christodoulakis84",
+		"books/wi/Cochran77",
+		"...",
+		"journals/cj/ErnvallN82",
+		"...",
+		"...",
+		"...",
+		"journals/cacm/Vitter84",
+		"journals/toms/Vitter85",
+		"journals/siamcomp/WongE80",
+		"conf/icalp/Willard84",
+		"journals/cacm/Yao77"
+	],
 	"crossref": "conf/vldb/86",
 	"dblpkey": "conf/vldb/OlkenR86",
 	"ee": "http://www.vldb.org/conf/1986/P160.PDF",
 	"pages": "160-169",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["simpl", "random", "sampl", "from", "relat", "databas"],
-	"tag": ["database", "random", "relational"],
+	"stemmed": [
+		"simpl",
+		"random",
+		"sampl",
+		"from",
+		"relat",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"random",
+		"relational"
+	],
 	"title": "Simple Random Sampling from Relational Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

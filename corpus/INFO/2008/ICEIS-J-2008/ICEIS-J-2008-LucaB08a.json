@@ -1,6 +1,10 @@
 {
-	"author": ["Anca-Paula Luca", "Sabin C. Buraga"],
-	"booktitle": "ICEIS",
+	"author": [
+		"Anca-Paula Luca",
+		"Sabin C. Buraga"
+	],
+	"booktitle": "Revised Selected Papers of the 10th International Conference on Enterprise Information Systems",
+	"booktitleshort": "Post-ICEIS",
 	"crossref": "conf/iceis/2008",
 	"dblpkey": "conf/iceis/LucaB08a",
 	"doi": "10.1007/978-3-642-00670-8_24",
@@ -10,11 +14,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Business Information Processing",
 	"seriesshort": "LNBIP",
-	"stemmed": ["enhanc", "user", "experi", "on", "the", "web", "via", "microformat", "base", "recommend"],
-	"tag": ["experience", "recommendation", "user interface", "web"],
+	"stemmed": [
+		"enhanc",
+		"user",
+		"experi",
+		"on",
+		"the",
+		"web",
+		"via",
+		"microformat",
+		"base",
+		"recommend"
+	],
+	"tag": [
+		"experience",
+		"recommendation",
+		"user interface",
+		"web"
+	],
 	"title": "Enhancing User Experience on the Web via Microformats-Based Recommendations",
 	"type": "inproceedings",
 	"venue": "ICEIS",
-	"volume": 19,
+	"volume": "19",
 	"year": 2008
 }

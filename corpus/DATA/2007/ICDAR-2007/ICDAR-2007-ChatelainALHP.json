@@ -1,6 +1,13 @@
 {
-	"author": ["Clément Chatelain", "Sébastien Adam", "Yves Lecourtier", "Laurent Heutte", "Thierry Paquet"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Clément Chatelain",
+		"Sébastien Adam",
+		"Yves Lecourtier",
+		"Laurent Heutte",
+		"Thierry Paquet"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/ChatelainALHP07",
 	"doi": "10.1109/ICDAR.2007.173",
@@ -8,8 +15,19 @@
 	"pages": "427-431",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["multi", "object", "optim", "for", "svm", "model", "select"],
-	"tag": ["multi", "optimisation"],
+	"stemmed": [
+		"multi",
+		"object",
+		"optim",
+		"for",
+		"svm",
+		"model",
+		"select"
+	],
+	"tag": [
+		"multi",
+		"optimisation"
+	],
 	"title": "Multi-Objective Optimization for SVM Model Selection",
 	"type": "inproceedings",
 	"venue": "ICDAR",

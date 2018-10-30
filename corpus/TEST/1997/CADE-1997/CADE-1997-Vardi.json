@@ -1,6 +1,7 @@
 {
 	"author": "Moshe Y. Vardi",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
 	"dblpkey": "conf/cade/Vardi97",
 	"doi": "10.1007/3-540-63104-6_19",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["altern", "automata", "unifi", "truth", "and", "valid", "check", "for", "tempor", "logic"],
-	"tag": ["automaton", "logic"],
+	"stemmed": [
+		"altern",
+		"automata",
+		"unifi",
+		"truth",
+		"and",
+		"valid",
+		"check",
+		"for",
+		"tempor",
+		"logic"
+	],
+	"tag": [
+		"automaton",
+		"logic"
+	],
 	"title": "Alternating Automata: Unifying Truth and Validity Checking for Temporal Logics",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1249,
+	"volume": "1249",
 	"year": 1997
 }

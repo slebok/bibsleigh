@@ -1,6 +1,11 @@
 {
-	"author": ["Thomas Gransden", "Neil Walkinshaw", "Rajeev Raman"],
-	"booktitle": "CADE",
+	"author": [
+		"Thomas Gransden",
+		"Neil Walkinshaw",
+		"Rajeev Raman"
+	],
+	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
 	"dblpkey": "conf/cade/GransdenWR15",
 	"doi": "10.1007/978-3-319-21401-6_16",
@@ -10,11 +15,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["sepia", "search", "for", "proof", "use", "infer", "automata"],
-	"tag": ["automaton", "named", "proving", "using"],
+	"stemmed": [
+		"sepia",
+		"search",
+		"for",
+		"proof",
+		"use",
+		"infer",
+		"automata"
+	],
+	"tag": [
+		"automaton",
+		"named",
+		"proving",
+		"using"
+	],
 	"title": "SEPIA: Search for Proofs Using Inferred Automata",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 9195,
+	"volume": "9195",
 	"year": 2015
 }

@@ -1,6 +1,7 @@
 {
 	"author": "Viorica Sofronie-Stokkermans",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 20th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2005",
 	"dblpkey": "conf/cade/Sofronie-Stokkermans05",
 	"doi": "10.1007/11532231_16",
@@ -10,11 +11,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["hierarch", "reason", "in", "local", "theori", "extens"],
-	"tag": ["reasoning"],
+	"stemmed": [
+		"hierarch",
+		"reason",
+		"in",
+		"local",
+		"theori",
+		"extens"
+	],
+	"tag": [
+		"reasoning"
+	],
 	"title": "Hierarchic Reasoning in Local Theory Extensions",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 3632,
+	"volume": "3632",
 	"year": 2005
 }

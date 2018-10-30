@@ -1,14 +1,30 @@
 {
-	"author": ["Changhui Lin", "Vijay Nagarajan", "Rajiv Gupta", "Bharghava Rajaram"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Changhui Lin",
+		"Vijay Nagarajan",
+		"Rajiv Gupta",
+		"Bharghava Rajaram"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2012",
 	"dblpkey": "conf/asplos/LinNGR12",
 	"doi": "10.1145/2150976.2151006",
 	"ee": "http://doi.acm.org/10.1145/2150976.2151006",
 	"pages": "273-286",
 	"publisher": "ACM",
-	"stemmed": ["effici", "sequenti", "consist", "via", "conflict", "order"],
-	"tag": ["consistency", "performance"],
+	"stemmed": [
+		"effici",
+		"sequenti",
+		"consist",
+		"via",
+		"conflict",
+		"order"
+	],
+	"tag": [
+		"consistency",
+		"performance"
+	],
 	"title": "Efficient sequential consistency via conflict ordering",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

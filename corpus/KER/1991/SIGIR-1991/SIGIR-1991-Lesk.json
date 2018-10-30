@@ -1,6 +1,7 @@
 {
 	"author": "Michael Lesk",
 	"booktitle": "Proceedings of the 14th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1991/P093.pdf",
 	"crossref": "conf/sigir/91",
 	"dblpkey": "conf/sigir/Lesk91",
@@ -8,8 +9,16 @@
 	"ee": "http://doi.acm.org/10.1145/122860.122870",
 	"pages": "93-112",
 	"publisher": "ACM",
-	"stemmed": ["the", "core", "electron", "chemistri", "librari"],
-	"tag": ["library"],
+	"stemmed": [
+		"the",
+		"core",
+		"electron",
+		"chemistri",
+		"librari"
+	],
+	"tag": [
+		"library"
+	],
 	"title": "The CORE Electronic Chemistry Library",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,6 +1,10 @@
 {
-	"author": ["Jasmin Christian Blanchette", "Andrei Paskevich"],
-	"booktitle": "CADE",
+	"author": [
+		"Jasmin Christian Blanchette",
+		"Andrei Paskevich"
+	],
+	"booktitle": "Proceedings of the 24th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2013",
 	"dblpkey": "conf/cade/BlanchetteP13",
 	"doi": "10.1007/978-3-642-38574-2_29",
@@ -10,11 +14,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["tff", "the", "tptp", "type", "first", "order", "form", "with", "rank", "polymorph"],
-	"tag": ["first-order", "morphism", "named", "polymorphism"],
+	"stemmed": [
+		"tff",
+		"the",
+		"tptp",
+		"type",
+		"first",
+		"order",
+		"form",
+		"with",
+		"rank",
+		"polymorph"
+	],
+	"tag": [
+		"first-order",
+		"morphism",
+		"named",
+		"polymorphism"
+	],
 	"title": "TFF1: The TPTP Typed First-Order Form with Rank-1 Polymorphism",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 7898,
+	"volume": "7898",
 	"year": 2013
 }

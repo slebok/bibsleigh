@@ -1,14 +1,36 @@
 {
-	"author": ["Md. Saffat Quasem", "Sandeep K. Gupta"],
-	"booktitle": "DATE",
+	"author": [
+		"Md. Saffat Quasem",
+		"Sandeep K. Gupta"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2001",
 	"dblpkey": "conf/date/QuasemG01",
 	"doi": "10.1145/367072.367997",
 	"ee": "http://doi.acm.org/10.1145/367072.367997",
-	"pages": 804,
+	"pages": "804",
 	"publisher": "ACM",
-	"stemmed": ["exact", "fault", "simul", "for", "system", "on", "silicon", "that", "protect", "each", "core", "s", "intellectu", "properti"],
-	"tag": ["fault", "simulation"],
+	"stemmed": [
+		"exact",
+		"fault",
+		"simul",
+		"for",
+		"system",
+		"on",
+		"silicon",
+		"that",
+		"protect",
+		"each",
+		"core",
+		"s",
+		"intellectu",
+		"properti"
+	],
+	"tag": [
+		"fault",
+		"simulation"
+	],
 	"title": "Exact fault simulation for systems on Silicon that protects each core’s intellectual property",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,7 +1,11 @@
 {
-	"author": ["Sean Zhang", "Barbara G. Ryder", "William Landi"],
+	"author": [
+		"Sean Zhang",
+		"Barbara G. Ryder",
+		"William Landi"
+	],
 	"booktitle": "Proceedings of the Fourth Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/1996",
 	"dblpkey": "conf/sigsoft/ZhangRL96",
 	"doi": "10.1145/239098.239112",
@@ -9,8 +13,25 @@
 	"ee": "http://doi.acm.org/10.1145/239098.239112",
 	"pages": "81-92",
 	"publisher": "ACM",
-	"stemmed": ["program", "decomposit", "for", "pointer", "alias", "a", "step", "toward", "practic", "analys"],
-	"tag": ["alias", "analysis", "composition", "pointer", "towards"],
+	"stemmed": [
+		"program",
+		"decomposit",
+		"for",
+		"pointer",
+		"alias",
+		"a",
+		"step",
+		"toward",
+		"practic",
+		"analys"
+	],
+	"tag": [
+		"alias",
+		"analysis",
+		"composition",
+		"pointer",
+		"towards"
+	],
 	"title": "Program Decomposition for Pointer Aliasing: A Step Toward Practical Analyses",
 	"type": "inproceedings",
 	"venue": "FSE",

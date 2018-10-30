@@ -1,6 +1,11 @@
 {
-	"author": ["Steven Vercauteren", "Jan van der Steen", "Diederik Verkest"],
-	"booktitle": "DATE",
+	"author": [
+		"Steven Vercauteren",
+		"Jan van der Steen",
+		"Diederik Verkest"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/VercauterenSV99",
 	"doi": "10.1109/DATE.1999.761182",
@@ -8,8 +13,30 @@
 	"pages": "556-561",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["combin", "softwar", "synthesi", "and", "hardwar", "softwar", "interfac", "generat", "to", "meet", "hard", "real", "time", "constraint"],
-	"tag": ["constraints", "generative", "hardware", "interface", "realtime", "synthesis"],
+	"stemmed": [
+		"combin",
+		"softwar",
+		"synthesi",
+		"and",
+		"hardwar",
+		"softwar",
+		"interfac",
+		"generat",
+		"to",
+		"meet",
+		"hard",
+		"real",
+		"time",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"generative",
+		"hardware",
+		"interface",
+		"realtime",
+		"synthesis"
+	],
 	"title": "Combining Software Synthesis and Hardware/Software Interface Generation to Meet Hard Real-Time Constraints",
 	"type": "inproceedings",
 	"venue": "DATE",

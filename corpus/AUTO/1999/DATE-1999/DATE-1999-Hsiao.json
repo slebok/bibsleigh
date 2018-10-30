@@ -1,6 +1,7 @@
 {
 	"author": "Michael S. Hsiao",
-	"booktitle": "DATE",
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/Hsiao99",
 	"doi": "10.1109/DATE.1999.761115",
@@ -8,8 +9,26 @@
 	"pages": "175-",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["peak", "power", "estim", "use", "genet", "spot", "optim", "for", "larg", "vlsi", "circuit"],
-	"tag": ["estimation", "optimisation", "scalability", "search-based", "using"],
+	"stemmed": [
+		"peak",
+		"power",
+		"estim",
+		"use",
+		"genet",
+		"spot",
+		"optim",
+		"for",
+		"larg",
+		"vlsi",
+		"circuit"
+	],
+	"tag": [
+		"estimation",
+		"optimisation",
+		"scalability",
+		"search-based",
+		"using"
+	],
 	"title": "Peak Power Estimation Using Genetic Spot Optimization for Large VLSI Circuits",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,6 +1,11 @@
 {
-	"author": ["Franca Garzotto", "Paolo Paolini", "Daniel Schwabe"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Franca Garzotto",
+		"Paolo Paolini",
+		"Daniel Schwabe"
+	],
+	"booktitle": "Proceedings of the Third Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1991/P313.pdf",
 	"crossref": "conf/ht/91",
 	"dblpkey": "conf/ht/GarzottoPS91",
@@ -8,8 +13,22 @@
 	"ee": "http://doi.acm.org/10.1145/122974.123004",
 	"pages": "313-328",
 	"publisher": "ACM",
-	"stemmed": ["hdm", "a", "model", "for", "the", "design", "of", "hypertext", "applic"],
-	"tag": ["design", "hypermedia", "named"],
+	"stemmed": [
+		"hdm",
+		"a",
+		"model",
+		"for",
+		"the",
+		"design",
+		"of",
+		"hypertext",
+		"applic"
+	],
+	"tag": [
+		"design",
+		"hypermedia",
+		"named"
+	],
 	"title": "HDM — A Model for the Design of Hypertext Applications",
 	"type": "inproceedings",
 	"venue": "HT",

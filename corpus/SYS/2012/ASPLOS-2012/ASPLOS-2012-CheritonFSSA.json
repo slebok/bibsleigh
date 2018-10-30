@@ -1,14 +1,38 @@
 {
-	"author": ["David R. Cheriton", "Amin Firoozshahian", "Alex Solomatnikov", "John P. Stevenson", "Omid Azizi"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"David R. Cheriton",
+		"Amin Firoozshahian",
+		"Alex Solomatnikov",
+		"John P. Stevenson",
+		"Omid Azizi"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2012",
 	"dblpkey": "conf/asplos/CheritonFSSA12",
 	"doi": "10.1145/2150976.2151007",
 	"ee": "http://doi.acm.org/10.1145/2150976.2151007",
 	"pages": "287-300",
 	"publisher": "ACM",
-	"stemmed": ["hicamp", "architectur", "support", "for", "effici", "concurr", "safe", "share", "structur", "data", "access"],
-	"tag": ["architecture", "data access", "named", "performance"],
+	"stemmed": [
+		"hicamp",
+		"architectur",
+		"support",
+		"for",
+		"effici",
+		"concurr",
+		"safe",
+		"share",
+		"structur",
+		"data",
+		"access"
+	],
+	"tag": [
+		"architecture",
+		"data access",
+		"named",
+		"performance"
+	],
 	"title": "HICAMP: architectural support for efficient concurrency-safe shared structured data access",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,13 +1,32 @@
 {
-	"author": ["Ting Yang", "Emery D. Berger", "Scott F. Kaplan", "J. Eliot B. Moss"],
-	"booktitle": "OSDI",
+	"author": [
+		"Ting Yang",
+		"Emery D. Berger",
+		"Scott F. Kaplan",
+		"J. Eliot B. Moss"
+	],
+	"booktitle": "Proceedings of the Seventh Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2006",
 	"dblpkey": "conf/osdi/YangBKM06",
 	"ee": "http://www.usenix.org/events/osdi06/tech/yang_ting.html",
 	"pages": "103-116",
 	"publisher": "USENIX Association",
-	"stemmed": ["cramm", "virtual", "memori", "support", "for", "garbag", "collect", "applic"],
-	"tag": ["garbage collection", "memory management", "named"],
+	"stemmed": [
+		"cramm",
+		"virtual",
+		"memori",
+		"support",
+		"for",
+		"garbag",
+		"collect",
+		"applic"
+	],
+	"tag": [
+		"garbage collection",
+		"memory management",
+		"named"
+	],
 	"title": "CRAMM: Virtual Memory Support for Garbage-Collected Applications",
 	"type": "inproceedings",
 	"venue": "OSDI",

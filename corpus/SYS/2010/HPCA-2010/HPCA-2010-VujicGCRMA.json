@@ -1,6 +1,14 @@
 {
-	"author": ["Nikola Vujic", "Marc González", "Felipe Cabarcas", "Alex Ramírez", "Xavier Martorell", "Eduard Ayguadé"],
-	"booktitle": "HPCA",
+	"author": [
+		"Nikola Vujic",
+		"Marc González",
+		"Felipe Cabarcas",
+		"Alex Ramírez",
+		"Xavier Martorell",
+		"Eduard Ayguadé"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2010",
 	"dblpkey": "conf/hpca/VujicGCRMA10",
 	"doi": "10.1109/HPCA.2010.5463057",
@@ -8,8 +16,21 @@
 	"pages": "1-12",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["dma", "on", "the", "fli", "data", "realign", "for", "on", "chip", "memori"],
-	"tag": ["on the fly"],
+	"stemmed": [
+		"dma",
+		"on",
+		"the",
+		"fli",
+		"data",
+		"realign",
+		"for",
+		"on",
+		"chip",
+		"memori"
+	],
+	"tag": [
+		"on the fly"
+	],
 	"title": "DMA++: on the fly data realignment for on-chip memories",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,6 +1,12 @@
 {
-	"author": ["Steven Greenbaum", "A. Nagasaka", "Paul O'Rorke", "David A. Plaisted"],
-	"booktitle": "CADE",
+	"author": [
+		"Steven Greenbaum",
+		"A. Nagasaka",
+		"Paul O'Rorke",
+		"David A. Plaisted"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1982",
 	"dblpkey": "conf/cade/GreenbaumNOP82",
 	"doi": "10.1007/BFb0000058",
@@ -10,11 +16,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["comparison", "of", "natur", "deduct", "and", "lock", "resolut", "implement"],
-	"tag": ["comparison", "deduction", "implementation"],
+	"stemmed": [
+		"comparison",
+		"of",
+		"natur",
+		"deduct",
+		"and",
+		"lock",
+		"resolut",
+		"implement"
+	],
+	"tag": [
+		"comparison",
+		"deduction",
+		"implementation"
+	],
 	"title": "Comparison of Natural Deduction and Locking Resolution Implementations",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 138,
+	"volume": "138",
 	"year": 1982
 }

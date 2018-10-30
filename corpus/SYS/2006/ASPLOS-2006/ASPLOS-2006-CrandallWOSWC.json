@@ -1,14 +1,35 @@
 {
-	"author": ["Jedidiah R. Crandall", "Gary Wassermann", "Daniela A. S. de Oliveira", "Zhendong Su", "Shyhtsun Felix Wu", "Frederic T. Chong"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Jedidiah R. Crandall",
+		"Gary Wassermann",
+		"Daniela A. S. de Oliveira",
+		"Zhendong Su",
+		"Shyhtsun Felix Wu",
+		"Frederic T. Chong"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/CrandallWOSWC06",
 	"doi": "10.1145/1168857.1168862",
 	"ee": "http://doi.acm.org/10.1145/1168857.1168862",
 	"pages": "25-36",
 	"publisher": "ACM",
-	"stemmed": ["tempor", "search", "detect", "hidden", "malwar", "timebomb", "with", "virtual", "machin"],
-	"tag": ["detection", "virtual machine"],
+	"stemmed": [
+		"tempor",
+		"search",
+		"detect",
+		"hidden",
+		"malwar",
+		"timebomb",
+		"with",
+		"virtual",
+		"machin"
+	],
+	"tag": [
+		"detection",
+		"virtual machine"
+	],
 	"title": "Temporal search: detecting hidden malware timebombs with virtual machines",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

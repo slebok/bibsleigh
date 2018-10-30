@@ -1,16 +1,48 @@
 {
-	"author": ["Shamim A. Naqvi", "Ravi Krishnamurthy"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS88/P251.PDF", "journals/anthology/dvd1:text/1-3/PODS88/P251.PDF"],
-	"cite": ["...", "journals/jacm/AptE82", "conf/pods/BancilhonMSU86", "conf/pods/BeeriNRST87", "...", "...", "...", "conf/pods/ImielinskiN88", "...", "conf/pods/Kuper87", "books/sp/Lloyd84", "...", "conf/iclp/ShmueliN87", "conf/vldb/TsurZ86", "journals/tods/Ullman85"],
+	"author": [
+		"Shamim A. Naqvi",
+		"Ravi Krishnamurthy"
+	],
+	"booktitle": "Proceedings of the Seventh Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS88/P251.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS88/P251.PDF"
+	],
+	"cite": [
+		"...",
+		"journals/jacm/AptE82",
+		"conf/pods/BancilhonMSU86",
+		"conf/pods/BeeriNRST87",
+		"...",
+		"...",
+		"...",
+		"conf/pods/ImielinskiN88",
+		"...",
+		"conf/pods/Kuper87",
+		"books/sp/Lloyd84",
+		"...",
+		"conf/iclp/ShmueliN87",
+		"conf/vldb/TsurZ86",
+		"journals/tods/Ullman85"
+	],
 	"crossref": "conf/pods/88",
 	"dblpkey": "conf/pods/NaqviK88",
 	"doi": "10.1145/308386.308451",
 	"ee": "http://doi.acm.org/10.1145/308386.308451",
 	"pages": "251-262",
 	"publisher": "ACM",
-	"stemmed": ["databas", "updat", "in", "logic", "program"],
-	"tag": ["database", "logic programming"],
+	"stemmed": [
+		"databas",
+		"updat",
+		"in",
+		"logic",
+		"program"
+	],
+	"tag": [
+		"database",
+		"logic programming"
+	],
 	"title": "Database Updates in Logic Programming",
 	"type": "inproceedings",
 	"venue": "PODS",

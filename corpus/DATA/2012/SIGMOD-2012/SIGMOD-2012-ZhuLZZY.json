@@ -1,6 +1,12 @@
 {
-	"author": ["Gaoping Zhu", "Xuemin Lin", "Ke Zhu", "Wenjie Zhang", "Jeffrey Xu Yu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Gaoping Zhu",
+		"Xuemin Lin",
+		"Ke Zhu",
+		"Wenjie Zhang",
+		"Jeffrey Xu Yu"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/ZhuLZZY12",
@@ -8,8 +14,19 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213896",
 	"pages": "529-540",
 	"publisher": "ACM",
-	"stemmed": ["tree", "span", "effici", "comput", "similar", "all", "match"],
-	"tag": ["named", "similarity"],
+	"stemmed": [
+		"tree",
+		"span",
+		"effici",
+		"comput",
+		"similar",
+		"all",
+		"match"
+	],
+	"tag": [
+		"named",
+		"similarity"
+	],
 	"title": "TreeSpan: efficiently computing similarity all-matching",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

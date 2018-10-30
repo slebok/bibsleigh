@@ -1,13 +1,38 @@
 {
-	"author": ["Corinna Cortes", "Harris Drucker", "Dennis Hoover", "Vladimir Vapnik"],
-	"booktitle": "KDD",
+	"author": [
+		"Corinna Cortes",
+		"Harris Drucker",
+		"Dennis Hoover",
+		"Vladimir Vapnik"
+	],
+	"booktitle": "Proceedings of the First International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1995",
 	"dblpkey": "conf/kdd/CortesDHV95",
 	"ee": "http://www.aaai.org/Library/KDD/1995/kdd95-006.php",
 	"pages": "51-56",
 	"publisher": "AAAI Press",
-	"stemmed": ["capac", "and", "complex", "control", "in", "predict", "the", "spread", "between", "borrow", "and", "lend", "interest", "rate"],
-	"tag": ["capacity", "complexity", "predict"],
+	"stemmed": [
+		"capac",
+		"and",
+		"complex",
+		"control",
+		"in",
+		"predict",
+		"the",
+		"spread",
+		"between",
+		"borrow",
+		"and",
+		"lend",
+		"interest",
+		"rate"
+	],
+	"tag": [
+		"capacity",
+		"complexity",
+		"predict"
+	],
 	"title": "Capacity and Complexity Control in Predicting the Spread Between Borrowing and Lending Interest Rates",
 	"type": "inproceedings",
 	"venue": "KDD",

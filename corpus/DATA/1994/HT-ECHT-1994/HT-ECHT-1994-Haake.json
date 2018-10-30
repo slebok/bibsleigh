@@ -1,6 +1,7 @@
 {
 	"author": "Anja Haake",
-	"booktitle": "ECHT",
+	"booktitle": "Proceedings of the European Conference on Hypertext Technology",
+	"booktitleshort": "HT/ECHT",
 	"cdrom": "ECHT1994/P081.pdf",
 	"crossref": "conf/echt/94",
 	"dblpkey": "conf/echt/Haake94",
@@ -8,8 +9,25 @@
 	"ee": "http://doi.acm.org/10.1145/192757.192776",
 	"pages": "81-93",
 	"publisher": "ACM",
-	"stemmed": ["under", "co", "ver", "the", "implement", "of", "a", "contextu", "version", "server", "for", "hypertext", "applic"],
-	"tag": ["hypermedia", "implementation"],
+	"stemmed": [
+		"under",
+		"co",
+		"ver",
+		"the",
+		"implement",
+		"of",
+		"a",
+		"contextu",
+		"version",
+		"server",
+		"for",
+		"hypertext",
+		"applic"
+	],
+	"tag": [
+		"hypermedia",
+		"implementation"
+	],
 	"title": "Under CoVer: The Implementation of a Contextual Version Server for Hypertext Applications",
 	"type": "inproceedings",
 	"venue": "HT",

@@ -1,13 +1,35 @@
 {
-	"author": ["Paul E. Stolorz", "Christopher Dean"],
-	"booktitle": "KDD",
+	"author": [
+		"Paul E. Stolorz",
+		"Christopher Dean"
+	],
+	"booktitle": "Proceedings of the Second International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1996",
 	"dblpkey": "conf/kdd/StolorzD96",
 	"ee": "http://www.aaai.org/Library/KDD/1996/kdd96-034.php",
 	"pages": "208-213",
 	"publisher": "AAAI Press",
-	"stemmed": ["quakefind", "a", "scalabl", "data", "mine", "system", "for", "detect", "earthquak", "from", "space"],
-	"tag": ["data mining", "detection", "mining", "named", "scalability"],
+	"stemmed": [
+		"quakefind",
+		"a",
+		"scalabl",
+		"data",
+		"mine",
+		"system",
+		"for",
+		"detect",
+		"earthquak",
+		"from",
+		"space"
+	],
+	"tag": [
+		"data mining",
+		"detection",
+		"mining",
+		"named",
+		"scalability"
+	],
 	"title": "Quakefinder: A Scalable Data Mining System for Detecting Earthquakes from Space",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,14 +1,28 @@
 {
 	"author": "Daniel Ting",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/Ting14",
 	"doi": "10.1145/2623330.2623669",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623669",
 	"pages": "442-451",
 	"publisher": "ACM",
-	"stemmed": ["stream", "approxim", "count", "of", "distinct", "element", "beat", "optim", "batch", "method"],
-	"tag": ["approximate"],
+	"stemmed": [
+		"stream",
+		"approxim",
+		"count",
+		"of",
+		"distinct",
+		"element",
+		"beat",
+		"optim",
+		"batch",
+		"method"
+	],
+	"tag": [
+		"approximate"
+	],
 	"title": "Streamed approximate counting of distinct elements: beating optimal batch methods",
 	"type": "inproceedings",
 	"venue": "KDD",

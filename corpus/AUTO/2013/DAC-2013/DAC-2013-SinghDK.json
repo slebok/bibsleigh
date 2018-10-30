@@ -1,14 +1,38 @@
 {
-	"author": ["Amit Kumar Singh", "Anup Das", "Akash Kumar"],
-	"booktitle": "DAC",
+	"author": [
+		"Amit Kumar Singh",
+		"Anup Das",
+		"Akash Kumar"
+	],
+	"booktitle": "Proceedings of the 50th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2013",
 	"dblpkey": "conf/dac/SinghDK13",
 	"doi": "10.1145/2463209.2488875",
 	"ee": "http://doi.acm.org/10.1145/2463209.2488875",
 	"pages": "115:1-115:7",
 	"publisher": "ACM",
-	"stemmed": ["energi", "optim", "by", "exploit", "execut", "slack", "in", "stream", "applic", "on", "multiprocessor", "system"],
-	"tag": ["energy", "execution", "multi", "optimisation", "streaming"],
+	"stemmed": [
+		"energi",
+		"optim",
+		"by",
+		"exploit",
+		"execut",
+		"slack",
+		"in",
+		"stream",
+		"applic",
+		"on",
+		"multiprocessor",
+		"system"
+	],
+	"tag": [
+		"energy",
+		"execution",
+		"multi",
+		"optimisation",
+		"streaming"
+	],
 	"title": "Energy optimization by exploiting execution slacks in streaming applications on multiprocessor systems",
 	"type": "inproceedings",
 	"venue": "DAC",

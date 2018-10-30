@@ -1,17 +1,39 @@
 {
-	"author": ["Jan Kleindienst", "Frantisek Plasil", "Petr Tuma"],
-	"booktitle": "Proceedings of the 11th Conference on Object-Oriented Programming Systems, Languages & Applications",
+	"author": [
+		"Jan Kleindienst",
+		"Frantisek Plasil",
+		"Petr Tuma"
+	],
+	"booktitle": "Proceedings of the 11th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1996",
 	"dblpkey": "conf/oopsla/KleindienstPT96",
 	"doi": "10.1145/236337.236351",
-	"editor": ["Lougie Anderson", "James Coplien"],
+	"editor": [
+		"Lougie Anderson",
+		"James Coplien"
+	],
 	"ee": "http://doi.acm.org/10.1145/236337.236351",
 	"isbn": "0-89791-788-X",
 	"pages": "150-167",
 	"publisher": "ACM",
-	"stemmed": ["lesson", "learn", "from", "implement", "the", "corba", "persist", "object", "servic"],
-	"tag": ["corba", "implementation", "lessons learnt", "persistent"],
+	"stemmed": [
+		"lesson",
+		"learn",
+		"from",
+		"implement",
+		"the",
+		"corba",
+		"persist",
+		"object",
+		"servic"
+	],
+	"tag": [
+		"corba",
+		"implementation",
+		"lessons learnt",
+		"persistent"
+	],
 	"title": "Lessons Learned from Implementing the CORBA Persistent Object Service",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

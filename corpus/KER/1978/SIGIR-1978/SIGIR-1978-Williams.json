@@ -1,6 +1,7 @@
 {
 	"author": "Robert L. Williams",
 	"booktitle": "Proceedings of the ACM SIGIR International Conference on Information Storage and Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1978/P151.pdf",
 	"crossref": "conf/sigir/78",
 	"dblpkey": "conf/sigir/Williams78",
@@ -8,8 +9,22 @@
 	"ee": "http://doi.acm.org/10.1145/800096.803141",
 	"pages": "151-170",
 	"publisher": "ACM",
-	"stemmed": ["doe", "relev", "feedback", "improv", "document", "retriev", "perform"],
-	"tag": ["documentation", "feedback", "performance", "question", "retrieval"],
+	"stemmed": [
+		"doe",
+		"relev",
+		"feedback",
+		"improv",
+		"document",
+		"retriev",
+		"perform"
+	],
+	"tag": [
+		"documentation",
+		"feedback",
+		"performance",
+		"question",
+		"retrieval"
+	],
 	"title": "Does Relevance Feedback Improve Document Retrieval Performance?",
 	"type": "inproceedings",
 	"venue": "SIGIR",

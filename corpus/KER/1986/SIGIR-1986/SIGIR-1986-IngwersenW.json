@@ -1,6 +1,10 @@
 {
-	"author": ["Peter Ingwersen", "Irene Wormell"],
+	"author": [
+		"Peter Ingwersen",
+		"Irene Wormell"
+	],
 	"booktitle": "Proceedings of the Ninth International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1986/P068.pdf",
 	"crossref": "conf/sigir/86",
 	"dblpkey": "conf/sigir/IngwersenW86",
@@ -8,8 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/253168.253188",
 	"pages": "68-76",
 	"publisher": "ACM",
-	"stemmed": ["improv", "subject", "access", "brows", "and", "scan", "mechan", "in", "modern", "onlin", "ir"],
-	"tag": ["information retrieval", "online"],
+	"stemmed": [
+		"improv",
+		"subject",
+		"access",
+		"brows",
+		"and",
+		"scan",
+		"mechan",
+		"in",
+		"modern",
+		"onlin",
+		"ir"
+	],
+	"tag": [
+		"information retrieval",
+		"online"
+	],
 	"title": "Improved Subject Access, Browsing and Scanning Mechanisms in Modern Online IR",
 	"type": "inproceedings",
 	"venue": "SIGIR",

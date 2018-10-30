@@ -1,14 +1,24 @@
 {
 	"author": "Edith Cohen",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/Cohen15",
 	"doi": "10.1145/2783258.2783279",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783279",
 	"pages": "159-168",
 	"publisher": "ACM",
-	"stemmed": ["stream", "sampl", "for", "frequenc", "cap", "statist"],
-	"tag": ["statistics"],
+	"stemmed": [
+		"stream",
+		"sampl",
+		"for",
+		"frequenc",
+		"cap",
+		"statist"
+	],
+	"tag": [
+		"statistics"
+	],
 	"title": "Stream Sampling for Frequency Cap Statistics",
 	"type": "inproceedings",
 	"venue": "KDD",

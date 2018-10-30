@@ -1,14 +1,26 @@
 {
-	"author": ["Bwolen Yang", "David R. O'Hallaron"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Bwolen Yang",
+		"David R. O'Hallaron"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1997",
 	"dblpkey": "conf/ppopp/YangO97",
 	"doi": "10.1145/263764.263784",
 	"ee": "http://doi.acm.org/10.1145/263764.263784",
 	"pages": "145-156",
 	"publisher": "ACM",
-	"stemmed": ["parallel", "breadth", "first", "bdd", "construct"],
-	"tag": ["parallel"],
+	"stemmed": [
+		"parallel",
+		"breadth",
+		"first",
+		"bdd",
+		"construct"
+	],
+	"tag": [
+		"parallel"
+	],
 	"title": "Parallel Breadth-First BDD Construction",
 	"type": "inproceedings",
 	"venue": "PPoPP",

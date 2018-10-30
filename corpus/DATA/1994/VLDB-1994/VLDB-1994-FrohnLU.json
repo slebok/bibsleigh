@@ -1,14 +1,43 @@
 {
-	"author": ["Jürgen Frohn", "Georg Lausen", "Heinz Uphoff"],
-	"booktitle": "VLDB",
-	"cite": ["conf/sigmod/AbiteboulB91", "books/mk/BancilhonDK92", "journals/jlp/ChenKW93", "journals/tois/FishmanBCCCDDHKLMNRS87", "conf/icde/GardarinV92", "conf/vldb/Kim89", "conf/sigmod/KiferKS92", "journals/jacm/KiferLW95", "journals/jcss/KiferW93", "books/cs/NaqviT89", "conf/dood/BusscheV93", "conf/sigmod/Zaniolo83"],
+	"author": [
+		"Jürgen Frohn",
+		"Georg Lausen",
+		"Heinz Uphoff"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/sigmod/AbiteboulB91",
+		"books/mk/BancilhonDK92",
+		"journals/jlp/ChenKW93",
+		"journals/tois/FishmanBCCCDDHKLMNRS87",
+		"conf/icde/GardarinV92",
+		"conf/vldb/Kim89",
+		"conf/sigmod/KiferKS92",
+		"journals/jacm/KiferLW95",
+		"journals/jcss/KiferW93",
+		"books/cs/NaqviT89",
+		"conf/dood/BusscheV93",
+		"conf/sigmod/Zaniolo83"
+	],
 	"crossref": "conf/vldb/94",
 	"dblpkey": "conf/vldb/FrohnLU94",
 	"ee": "http://www.vldb.org/conf/1994/P273.PDF",
 	"pages": "273-284",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["access", "to", "object", "by", "path", "express", "and", "rule"],
-	"tag": ["data access"],
+	"stemmed": [
+		"access",
+		"to",
+		"object",
+		"by",
+		"path",
+		"express",
+		"and",
+		"rule"
+	],
+	"tag": [
+		"data access"
+	],
 	"title": "Access to Objects by Path Expressions and Rules",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,15 +1,36 @@
 {
-	"author": ["John A. Reisner", "Tom S. Wailes"],
-	"booktitle": "HPCA",
+	"author": [
+		"John A. Reisner",
+		"Tom S. Wailes"
+	],
+	"booktitle": "Proceedings of the Second International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1996",
 	"dblpkey": "conf/hpca/ReisnerW96",
 	"doi": "10.1109/HPCA.1996.501188",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1996.501188", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1996.501188"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1996.501188",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1996.501188"
+	],
 	"pages": "222-231",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "cach", "coher", "protocol", "for", "optic", "connect", "parallel", "comput", "system"],
-	"tag": ["parallel", "protocol"],
+	"stemmed": [
+		"a",
+		"cach",
+		"coher",
+		"protocol",
+		"for",
+		"optic",
+		"connect",
+		"parallel",
+		"comput",
+		"system"
+	],
+	"tag": [
+		"parallel",
+		"protocol"
+	],
 	"title": "A Cache Coherency Protocol for Optically Connected Parallel Computer Systems",
 	"type": "inproceedings",
 	"venue": "HPCA",

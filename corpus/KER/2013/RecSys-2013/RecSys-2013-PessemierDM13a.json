@@ -1,14 +1,31 @@
 {
-	"author": ["Toon De Pessemier", "Simon Dooms", "Luc Martens"],
-	"booktitle": "RecSys",
+	"author": [
+		"Toon De Pessemier",
+		"Simon Dooms",
+		"Luc Martens"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2013",
 	"dblpkey": "conf/recsys/PessemierDM13a",
 	"doi": "10.1145/2507157.2507198",
 	"ee": "http://doi.acm.org/10.1145/2507157.2507198",
 	"pages": "209-212",
 	"publisher": "ACM",
-	"stemmed": ["a", "food", "recommend", "for", "patient", "in", "a", "care", "facil"],
-	"tag": ["recommendation"],
+	"stemmed": [
+		"a",
+		"food",
+		"recommend",
+		"for",
+		"patient",
+		"in",
+		"a",
+		"care",
+		"facil"
+	],
+	"tag": [
+		"recommendation"
+	],
 	"title": "A food recommender for patients in a care facility",
 	"type": "inproceedings",
 	"venue": "RecSys",

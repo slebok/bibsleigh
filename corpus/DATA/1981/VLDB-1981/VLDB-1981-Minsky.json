@@ -1,15 +1,35 @@
 {
 	"author": "Naftaly H. Minsky",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the Seventh International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB81/P543.PDF",
-	"cite": ["journals/tods/GriffithsW76", "conf/focs/JonesLS76", "journals/csur/Linden76", "journals/tse/LockmanM82", "conf/sigmod/Minsky74", "...", "...", "...", "...", "conf/sigmod/Stonebraker75"],
+	"cite": [
+		"journals/tods/GriffithsW76",
+		"conf/focs/JonesLS76",
+		"journals/csur/Linden76",
+		"journals/tse/LockmanM82",
+		"conf/sigmod/Minsky74",
+		"...",
+		"...",
+		"...",
+		"...",
+		"conf/sigmod/Stonebraker75"
+	],
 	"crossref": "conf/vldb/81",
 	"dblpkey": "conf/vldb/Minsky81",
 	"pages": "543-552",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["synergist", "author", "in", "databas", "system"],
-	"tag": ["database"],
+	"stemmed": [
+		"synergist",
+		"author",
+		"in",
+		"databas",
+		"system"
+	],
+	"tag": [
+		"database"
+	],
 	"title": "Synergistic Authorization in Database Systems",
 	"type": "inproceedings",
 	"venue": "VLDB",

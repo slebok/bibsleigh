@@ -1,6 +1,7 @@
 {
 	"author": "Clare Dixon",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/Dixon96",
 	"doi": "10.1007/3-540-61511-3_121",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["search", "strategi", "for", "resolut", "in", "tempor", "logic"],
-	"tag": ["logic"],
+	"stemmed": [
+		"search",
+		"strategi",
+		"for",
+		"resolut",
+		"in",
+		"tempor",
+		"logic"
+	],
+	"tag": [
+		"logic"
+	],
 	"title": "Search Strategies for Resolution in Temporal Logics",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

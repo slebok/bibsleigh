@@ -1,6 +1,11 @@
 {
-	"author": ["X. Chen", "X. Liu", "Y. Jia"],
-	"booktitle": "ICDAR",
+	"author": [
+		"X. Chen",
+		"X. Liu",
+		"Y. Jia"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/ChenLJ07",
 	"doi": "10.1109/ICDAR.2007.157",
@@ -8,8 +13,25 @@
 	"pages": "342-346",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["learn", "handwritten", "digit", "recognit", "by", "the", "max", "min", "posterior", "pseudo", "probabl", "method"],
-	"tag": ["learning", "pseudo", "recognition"],
+	"stemmed": [
+		"learn",
+		"handwritten",
+		"digit",
+		"recognit",
+		"by",
+		"the",
+		"max",
+		"min",
+		"posterior",
+		"pseudo",
+		"probabl",
+		"method"
+	],
+	"tag": [
+		"learning",
+		"pseudo",
+		"recognition"
+	],
 	"title": "Learning Handwritten Digit Recognition by the Max-Min Posterior Pseudo-Probabilities Method",
 	"type": "inproceedings",
 	"venue": "ICDAR",

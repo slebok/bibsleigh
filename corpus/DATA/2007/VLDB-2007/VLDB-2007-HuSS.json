@@ -1,13 +1,29 @@
 {
-	"author": ["Ying Hu", "Seema Sundara", "Jagannathan Srinivasan"],
-	"booktitle": "VLDB",
+	"author": [
+		"Ying Hu",
+		"Seema Sundara",
+		"Jagannathan Srinivasan"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/HuSS07",
 	"ee": "http://www.vldb.org/conf/2007/papers/industrial/p1207-hu.pdf",
 	"pages": "1207-1218",
 	"publisher": "ACM",
-	"stemmed": ["support", "time", "constrain", "sql", "queri", "in", "oracl"],
-	"tag": ["query", "sql"],
+	"stemmed": [
+		"support",
+		"time",
+		"constrain",
+		"sql",
+		"queri",
+		"in",
+		"oracl"
+	],
+	"tag": [
+		"query",
+		"sql"
+	],
 	"title": "Supporting Time-Constrained SQL Queries in Oracle",
 	"type": "inproceedings",
 	"venue": "VLDB",

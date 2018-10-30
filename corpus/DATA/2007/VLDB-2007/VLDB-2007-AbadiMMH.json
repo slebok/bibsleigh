@@ -1,13 +1,35 @@
 {
-	"author": ["Daniel J. Abadi", "Adam Marcus", "Samuel Madden", "Katherine J. Hollenbach"],
-	"booktitle": "VLDB",
+	"author": [
+		"Daniel J. Abadi",
+		"Adam Marcus",
+		"Samuel Madden",
+		"Katherine J. Hollenbach"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/AbadiMMH07",
 	"ee": "http://www.vldb.org/conf/2007/papers/research/p411-abadi.pdf",
 	"pages": "411-422",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "semant", "web", "data", "manag", "use", "vertic", "partit"],
-	"tag": ["clustering", "data transformation", "scalability", "semantics", "using", "web"],
+	"stemmed": [
+		"scalabl",
+		"semant",
+		"web",
+		"data",
+		"manag",
+		"use",
+		"vertic",
+		"partit"
+	],
+	"tag": [
+		"clustering",
+		"data transformation",
+		"scalability",
+		"semantics",
+		"using",
+		"web"
+	],
 	"title": "Scalable Semantic Web Data Management Using Vertical Partitioning",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,7 @@
 {
 	"author": "George H. Collier",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the First Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1987/P269.pdf",
 	"crossref": "conf/ht/87",
 	"dblpkey": "conf/ht/Collier87",
@@ -8,8 +9,19 @@
 	"ee": "http://doi.acm.org/10.1145/317426.317446",
 	"pages": "269-289",
 	"publisher": "ACM",
-	"stemmed": ["thoth", "ii", "hypertext", "with", "explicit", "semant"],
-	"tag": ["hypermedia", "named", "semantics"],
+	"stemmed": [
+		"thoth",
+		"ii",
+		"hypertext",
+		"with",
+		"explicit",
+		"semant"
+	],
+	"tag": [
+		"hypermedia",
+		"named",
+		"semantics"
+	],
 	"title": "Thoth-II: Hypertext with Explicit Semantics",
 	"type": "inproceedings",
 	"venue": "HT",

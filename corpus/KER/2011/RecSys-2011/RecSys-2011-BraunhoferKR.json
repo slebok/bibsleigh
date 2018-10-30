@@ -1,14 +1,35 @@
 {
-	"author": ["Matthias Braunhofer", "Marius Kaminskas", "Francesco Ricci"],
-	"booktitle": "RecSys",
+	"author": [
+		"Matthias Braunhofer",
+		"Marius Kaminskas",
+		"Francesco Ricci"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2011",
 	"dblpkey": "conf/recsys/BraunhoferKR11",
 	"doi": "10.1145/2043932.2043977",
 	"ee": "http://doi.acm.org/10.1145/2043932.2043977",
 	"pages": "253-256",
 	"publisher": "ACM",
-	"stemmed": ["recommend", "music", "for", "place", "of", "interest", "in", "a", "mobil", "travel", "guid"],
-	"tag": ["mobile", "music", "recommendation"],
+	"stemmed": [
+		"recommend",
+		"music",
+		"for",
+		"place",
+		"of",
+		"interest",
+		"in",
+		"a",
+		"mobil",
+		"travel",
+		"guid"
+	],
+	"tag": [
+		"mobile",
+		"music",
+		"recommendation"
+	],
 	"title": "Recommending music for places of interest in a mobile travel guide",
 	"type": "inproceedings",
 	"venue": "RecSys",

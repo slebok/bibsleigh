@@ -1,13 +1,35 @@
 {
-	"author": ["Hiroyuki Higuchi", "Yusuke Matsunaga"],
-	"booktitle": "DAC",
+	"author": [
+		"Hiroyuki Higuchi",
+		"Yusuke Matsunaga"
+	],
+	"booktitle": "Proceedings of the 33rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/HiguchiM96",
 	"doi": "10.1145/240518.240606",
 	"ee": "http://doi.acm.org/10.1145/240518.240606",
 	"pages": "463-466",
 	"publisher": "ACM Press",
-	"stemmed": ["a", "fast", "state", "reduct", "algorithm", "for", "incomplet", "specifi", "finit", "state", "machin"],
-	"tag": ["algorithm", "finite", "performance", "reduction", "state machine"],
+	"stemmed": [
+		"a",
+		"fast",
+		"state",
+		"reduct",
+		"algorithm",
+		"for",
+		"incomplet",
+		"specifi",
+		"finit",
+		"state",
+		"machin"
+	],
+	"tag": [
+		"algorithm",
+		"finite",
+		"performance",
+		"reduction",
+		"state machine"
+	],
 	"title": "A Fast State Reduction Algorithm for Incompletely Specified Finite State Machines",
 	"type": "inproceedings",
 	"venue": "DAC",

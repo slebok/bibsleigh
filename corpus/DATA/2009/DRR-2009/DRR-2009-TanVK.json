@@ -1,6 +1,11 @@
 {
-	"author": ["Guo Xian Tan", "Christian Viard-Gaudin", "Alex C. Kot"],
-	"booktitle": "DRR",
+	"author": [
+		"Guo Xian Tan",
+		"Christian Viard-Gaudin",
+		"Alex C. Kot"
+	],
+	"booktitle": "Proceedings of the 16th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2009",
 	"dblpkey": "conf/drr/TanVK09",
 	"doi": "10.1117/12.805644",
@@ -8,11 +13,24 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["onlin", "writer", "identif", "use", "alphabet", "inform", "cluster"],
-	"tag": ["clustering", "identification", "online", "using"],
+	"stemmed": [
+		"onlin",
+		"writer",
+		"identif",
+		"use",
+		"alphabet",
+		"inform",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"identification",
+		"online",
+		"using"
+	],
 	"title": "Online writer identification using alphabetic information clustering",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7247,
+	"volume": "7247",
 	"year": 2009
 }

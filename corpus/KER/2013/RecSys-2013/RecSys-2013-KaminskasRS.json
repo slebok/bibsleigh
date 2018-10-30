@@ -1,14 +1,35 @@
 {
-	"author": ["Marius Kaminskas", "Francesco Ricci", "Markus Schedl"],
-	"booktitle": "RecSys",
+	"author": [
+		"Marius Kaminskas",
+		"Francesco Ricci",
+		"Markus Schedl"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2013",
 	"dblpkey": "conf/recsys/KaminskasRS13",
 	"doi": "10.1145/2507157.2507180",
 	"ee": "http://doi.acm.org/10.1145/2507157.2507180",
 	"pages": "17-24",
 	"publisher": "ACM",
-	"stemmed": ["locat", "awar", "music", "recommend", "use", "auto", "tag", "and", "hybrid", "match"],
-	"tag": ["hybrid", "music", "recommendation", "using"],
+	"stemmed": [
+		"locat",
+		"awar",
+		"music",
+		"recommend",
+		"use",
+		"auto",
+		"tag",
+		"and",
+		"hybrid",
+		"match"
+	],
+	"tag": [
+		"hybrid",
+		"music",
+		"recommendation",
+		"using"
+	],
 	"title": "Location-aware music recommendation using auto-tagging and hybrid matching",
 	"type": "inproceedings",
 	"venue": "RecSys",

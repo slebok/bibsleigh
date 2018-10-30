@@ -1,14 +1,33 @@
 {
-	"author": ["Michael D. Ekstrand", "Daniel Kluver", "F. Maxwell Harper", "Joseph A. Konstan"],
-	"booktitle": "RecSys",
+	"author": [
+		"Michael D. Ekstrand",
+		"Daniel Kluver",
+		"F. Maxwell Harper",
+		"Joseph A. Konstan"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2015",
 	"dblpkey": "conf/recsys/EkstrandKHK15",
 	"doi": "10.1145/2792838.2800195",
 	"ee": "http://doi.acm.org/10.1145/2792838.2800195",
 	"pages": "11-18",
 	"publisher": "ACM",
-	"stemmed": ["let", "user", "choos", "recommend", "algorithm", "an", "experiment", "studi"],
-	"tag": ["algorithm", "case study", "recommendation"],
+	"stemmed": [
+		"let",
+		"user",
+		"choos",
+		"recommend",
+		"algorithm",
+		"an",
+		"experiment",
+		"studi"
+	],
+	"tag": [
+		"algorithm",
+		"case study",
+		"recommendation"
+	],
 	"title": "Letting Users Choose Recommender Algorithms: An Experimental Study",
 	"type": "inproceedings",
 	"venue": "RecSys",

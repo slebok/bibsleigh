@@ -1,6 +1,12 @@
 {
-	"author": ["Ki-Wook Kim", "Sung-Mo Kang", "TingTing Hwang", "C. L. Liu"],
-	"booktitle": "DATE",
+	"author": [
+		"Ki-Wook Kim",
+		"Sung-Mo Kang",
+		"TingTing Hwang",
+		"C. L. Liu"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/KimKHL99",
 	"doi": "10.1109/DATE.1999.761112",
@@ -8,8 +14,19 @@
 	"pages": "158-162",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["logic", "transform", "for", "low", "power", "synthesi"],
-	"tag": ["logic", "power management", "synthesis"],
+	"stemmed": [
+		"logic",
+		"transform",
+		"for",
+		"low",
+		"power",
+		"synthesi"
+	],
+	"tag": [
+		"logic",
+		"power management",
+		"synthesis"
+	],
 	"title": "Logic Transformation for Low Power Synthesis",
 	"type": "inproceedings",
 	"venue": "DATE",

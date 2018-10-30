@@ -1,6 +1,11 @@
 {
-	"author": ["Pieter Van Gorp", "Dirk Janssens", "Tracy Gardner"],
-	"booktitle": "EDOC",
+	"author": [
+		"Pieter Van Gorp",
+		"Dirk Janssens",
+		"Tracy Gardner"
+	],
+	"booktitle": "Proceedings of the Eighth International Enterprise Distributed Object Computing Conference",
+	"booktitleshort": "EDOC",
 	"crossref": "conf/edoc/2004",
 	"dblpkey": "conf/edoc/GorpJG04",
 	"doi": "10.1109/EDOC.2004.10015",
@@ -8,8 +13,22 @@
 	"pages": "123-134",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["write", "onc", "deploy", "n", "a", "perform", "orient", "mda", "case", "studi"],
-	"tag": ["case study", "performance"],
+	"stemmed": [
+		"write",
+		"onc",
+		"deploy",
+		"n",
+		"a",
+		"perform",
+		"orient",
+		"mda",
+		"case",
+		"studi"
+	],
+	"tag": [
+		"case study",
+		"performance"
+	],
 	"title": "Write Once, Deploy N: A Performance Oriented MDA Case Study",
 	"type": "inproceedings",
 	"venue": "EDOC",

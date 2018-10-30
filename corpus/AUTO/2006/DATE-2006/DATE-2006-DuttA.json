@@ -1,14 +1,39 @@
 {
-	"author": ["Shantanu Dutt", "Hasan Arslan"],
-	"booktitle": "DATE",
+	"author": [
+		"Shantanu Dutt",
+		"Hasan Arslan"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2006p",
 	"dblpkey": "conf/date/DuttA06",
 	"doi": "10.1145/1131700",
 	"ee": "http://doi.acm.org/10.1145/1131700",
 	"pages": "768-773",
 	"publisher": "European Design and Automation Association, Leuven, Belgium",
-	"stemmed": ["effici", "time", "driven", "increment", "rout", "for", "vlsi", "circuit", "use", "dfs", "and", "local", "slack", "satisfact", "comput"],
-	"tag": ["incremental", "locality", "performance", "using"],
+	"stemmed": [
+		"effici",
+		"time",
+		"driven",
+		"increment",
+		"rout",
+		"for",
+		"vlsi",
+		"circuit",
+		"use",
+		"dfs",
+		"and",
+		"local",
+		"slack",
+		"satisfact",
+		"comput"
+	],
+	"tag": [
+		"incremental",
+		"locality",
+		"performance",
+		"using"
+	],
 	"title": "Efficient timing-driven incremental routing for VLSI circuits using DFS and localized slack-satisfaction computations",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,6 +1,7 @@
 {
 	"author": "John Hatcliff",
 	"booktitle": "Proceedings of the Seventh International Symposium on Programming Languages: Implementations, Logics and Programs",
+	"booktitleshort": "PPDP",
 	"crossref": "conf/plilp/95",
 	"dblpkey": "conf/plilp/Hatcliff95",
 	"doi": "10.1007/BFb0026826",
@@ -10,11 +11,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["mechan", "verifi", "the", "correct", "of", "an", "offlin", "partial", "evalu"],
-	"tag": ["correctness", "verification"],
+	"stemmed": [
+		"mechan",
+		"verifi",
+		"the",
+		"correct",
+		"of",
+		"an",
+		"offlin",
+		"partial",
+		"evalu"
+	],
+	"tag": [
+		"correctness",
+		"verification"
+	],
 	"title": "Mechanically Verifying the Correctness of an Offline Partial Evaluator",
 	"type": "inproceedings",
 	"venue": "PPDP",
-	"volume": 982,
+	"volume": "982",
 	"year": 1995
 }

@@ -1,15 +1,36 @@
 {
-	"author": ["Lei Jiang", "Bo Zhao", "Youtao Zhang", "Jun Yang", "Bruce R. Childers"],
-	"booktitle": "HPCA",
+	"author": [
+		"Lei Jiang",
+		"Bo Zhao",
+		"Youtao Zhang",
+		"Jun Yang",
+		"Bruce R. Childers"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2012",
 	"dblpkey": "conf/hpca/JiangZZYC12",
 	"doi": "10.1109/HPCA.2012.6169027",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2012.6169027", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6169027"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2012.6169027",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6169027"
+	],
 	"pages": "201-210",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["improv", "write", "oper", "in", "mlc", "phase", "chang", "memori"],
-	"tag": ["memory management"],
+	"stemmed": [
+		"improv",
+		"write",
+		"oper",
+		"in",
+		"mlc",
+		"phase",
+		"chang",
+		"memori"
+	],
+	"tag": [
+		"memory management"
+	],
 	"title": "Improving write operations in MLC phase change memory",
 	"type": "inproceedings",
 	"venue": "HPCA",

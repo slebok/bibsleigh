@@ -1,13 +1,31 @@
 {
-	"author": ["Ada Wai-Chee Fu", "Eamonn J. Keogh", "Leo Yung Hang Lau", "Chotirat (Ann) Ratanamahatana"],
-	"booktitle": "VLDB",
+	"author": [
+		"Ada Wai-Chee Fu",
+		"Eamonn J. Keogh",
+		"Leo Yung Hang Lau",
+		"Chotirat (Ann) Ratanamahatana"
+	],
+	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/FuKLR05",
 	"ee": "http://www.vldb2005.org/program/paper/thu/p649-fu.pdf",
 	"pages": "649-660",
 	"publisher": "ACM",
-	"stemmed": ["scale", "and", "time", "warp", "in", "time", "seri", "queri"],
-	"tag": ["query", "scalability"],
+	"stemmed": [
+		"scale",
+		"and",
+		"time",
+		"warp",
+		"in",
+		"time",
+		"seri",
+		"queri"
+	],
+	"tag": [
+		"query",
+		"scalability"
+	],
 	"title": "Scaling and Time Warping in Time Series Querying",
 	"type": "inproceedings",
 	"venue": "VLDB",

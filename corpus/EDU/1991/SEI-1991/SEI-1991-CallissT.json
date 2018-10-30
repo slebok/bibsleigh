@@ -1,6 +1,9 @@
 {
-	"author": ["Frank W. Calliss", "Debra L. Trantina"],
-	"booktitle": "CSEE",
+	"author": [
+		"Frank W. Calliss",
+		"Debra L. Trantina"
+	],
+	"booktitle": "Proceedings of the Fifth Software Engineering Education Conference",
 	"booktitleshort": "SEI",
 	"crossref": "conf/csee/1991",
 	"dblpkey": "conf/csee/CallissT91",
@@ -10,11 +13,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "control", "softwar", "mainten", "project"],
-	"tag": ["maintenance"],
+	"stemmed": [
+		"a",
+		"control",
+		"softwar",
+		"mainten",
+		"project"
+	],
+	"tag": [
+		"maintenance"
+	],
 	"title": "A Controlled Software Maintenance Project",
 	"type": "inproceedings",
 	"venue": "CSEET",
-	"volume": 536,
+	"volume": "536",
 	"year": 1991
 }

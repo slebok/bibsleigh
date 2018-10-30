@@ -1,14 +1,29 @@
 {
-	"author": ["Tuomas J. Lukka", "Benja Fallenstein"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Tuomas J. Lukka",
+		"Benja Fallenstein"
+	],
+	"booktitle": "Proceedings of the 13th Conference on Hypertext and Hypermedia",
+	"booktitleshort": "HT",
 	"crossref": "conf/ht/2002",
 	"dblpkey": "conf/ht/LukkaF02",
 	"doi": "10.1145/513338.513386",
 	"ee": "http://doi.acm.org/10.1145/513338.513386",
 	"pages": "194-195",
 	"publisher": "ACM",
-	"stemmed": ["freenet", "like", "guid", "for", "implement", "xanalog", "hypertext"],
-	"tag": ["hypermedia", "implementation"],
+	"stemmed": [
+		"freenet",
+		"like",
+		"guid",
+		"for",
+		"implement",
+		"xanalog",
+		"hypertext"
+	],
+	"tag": [
+		"hypermedia",
+		"implementation"
+	],
 	"title": "Freenet-like GUIDs for implementing xanalogical hypertext",
 	"type": "inproceedings",
 	"venue": "HT",

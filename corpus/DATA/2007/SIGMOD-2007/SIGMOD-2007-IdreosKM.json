@@ -1,6 +1,10 @@
 {
-	"author": ["Stratos Idreos", "Martin L. Kersten", "Stefan Manegold"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Stratos Idreos",
+		"Martin L. Kersten",
+		"Stefan Manegold"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/IdreosKM07",
@@ -8,8 +12,15 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247527",
 	"pages": "413-424",
 	"publisher": "ACM",
-	"stemmed": ["updat", "a", "crack", "databas"],
-	"tag": ["database"],
+	"stemmed": [
+		"updat",
+		"a",
+		"crack",
+		"databas"
+	],
+	"tag": [
+		"database"
+	],
 	"title": "Updating a cracked database",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,38 @@
 {
-	"author": ["Hyunseok Seo", "Jinwook Kim", "Min-Soo Kim"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Hyunseok Seo",
+		"Jinwook Kim",
+		"Min-Soo Kim"
+	],
+	"booktitle": "Proceedings of the 20th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2015",
 	"dblpkey": "conf/ppopp/SeoKK15",
 	"doi": "10.1145/2688500.2688526",
 	"ee": "http://doi.acm.org/10.1145/2688500.2688526",
 	"pages": "253-254",
 	"publisher": "ACM",
-	"stemmed": ["g", "stream", "a", "graph", "stream", "process", "method", "for", "larg", "scale", "graph", "on", "gpus"],
-	"tag": ["graph", "named", "scalability", "streaming"],
+	"stemmed": [
+		"g",
+		"stream",
+		"a",
+		"graph",
+		"stream",
+		"process",
+		"method",
+		"for",
+		"larg",
+		"scale",
+		"graph",
+		"on",
+		"gpus"
+	],
+	"tag": [
+		"graph",
+		"named",
+		"scalability",
+		"streaming"
+	],
 	"title": "GStream: a graph streaming processing method for large-scale graphs on GPUs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,14 +1,28 @@
 {
 	"author": "Laurent Hascoët",
-	"booktitle": "PPOPP",
+	"booktitle": "Proceedings of the Sixth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1997",
 	"dblpkey": "conf/ppopp/Hascoet97",
 	"doi": "10.1145/263764.263783",
 	"ee": "http://doi.acm.org/10.1145/263764.263783",
 	"pages": "136-144",
 	"publisher": "ACM",
-	"stemmed": ["automat", "placement", "of", "communic", "in", "mesh", "partit", "parallel"],
-	"tag": ["automation", "clustering", "parallel"],
+	"stemmed": [
+		"automat",
+		"placement",
+		"of",
+		"communic",
+		"in",
+		"mesh",
+		"partit",
+		"parallel"
+	],
+	"tag": [
+		"automation",
+		"clustering",
+		"parallel"
+	],
 	"title": "Automatic Placement of Communications in Mesh-Partitioning Parallelization",
 	"type": "inproceedings",
 	"venue": "PPoPP",

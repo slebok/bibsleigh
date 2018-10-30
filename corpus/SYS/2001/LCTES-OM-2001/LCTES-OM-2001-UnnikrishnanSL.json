@@ -1,14 +1,34 @@
 {
-	"author": ["Leena Unnikrishnan", "Scott D. Stoller", "Yanhong A. Liu"],
-	"booktitle": "LCTES/OM",
+	"author": [
+		"Leena Unnikrishnan",
+		"Scott D. Stoller",
+		"Yanhong A. Liu"
+	],
+	"booktitle": "Proceedings of the Joint Workshop on Languages, Compilers, and Tools for Embedded Systems and Workshop on Optimization of Middleware and Distributed Systems",
+	"booktitleshort": "LCTES/OM",
 	"crossref": "conf/lctrts/2001",
 	"dblpkey": "conf/lctrts/UnnikrishnanSL01",
 	"doi": "10.1145/384197.384212",
 	"ee": "http://doi.acm.org/10.1145/384197.384212",
 	"pages": "102-111",
 	"publisher": "ACM",
-	"stemmed": ["automat", "accur", "live", "memori", "analysi", "for", "garbag", "collect", "languag"],
-	"tag": ["analysis", "automation", "garbage collection", "memory management"],
+	"stemmed": [
+		"automat",
+		"accur",
+		"live",
+		"memori",
+		"analysi",
+		"for",
+		"garbag",
+		"collect",
+		"languag"
+	],
+	"tag": [
+		"analysis",
+		"automation",
+		"garbage collection",
+		"memory management"
+	],
 	"title": "Automatic Accurate Live Memory Analysis for Garbage-Collected Languages",
 	"type": "inproceedings",
 	"venue": "LCTES",

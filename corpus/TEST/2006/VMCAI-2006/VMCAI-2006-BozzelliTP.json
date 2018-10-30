@@ -1,6 +1,11 @@
 {
-	"author": ["Laura Bozzelli", "Salvatore La Torre", "Adriano Peron"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Laura Bozzelli",
+		"Salvatore La Torre",
+		"Adriano Peron"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2006",
 	"dblpkey": "conf/vmcai/BozzelliTP06",
 	"doi": "10.1007/11609773_27",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["verif", "of", "well", "form", "communic", "recurs", "state", "machin"],
-	"tag": ["communication", "recursion", "state machine", "verification"],
+	"stemmed": [
+		"verif",
+		"of",
+		"well",
+		"form",
+		"communic",
+		"recurs",
+		"state",
+		"machin"
+	],
+	"tag": [
+		"communication",
+		"recursion",
+		"state machine",
+		"verification"
+	],
 	"title": "Verification of Well-Formed Communicating Recursive State Machines",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3855,
+	"volume": "3855",
 	"year": 2006
 }

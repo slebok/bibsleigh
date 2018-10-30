@@ -1,6 +1,13 @@
 {
-	"author": ["Paul Zuber", "Armin Windschiegl", "Raúl Medina Beltán de Otálora", "Walter Stechele", "Andreas Herkersdorf"],
-	"booktitle": "DATE",
+	"author": [
+		"Paul Zuber",
+		"Armin Windschiegl",
+		"Raúl Medina Beltán de Otálora",
+		"Walter Stechele",
+		"Andreas Herkersdorf"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/ZuberWOSH05",
 	"doi": "10.1109/DATE.2005.256",
@@ -8,8 +15,25 @@
 	"pages": "986-987",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["reduct", "of", "cmos", "power", "consumpt", "and", "signal", "integr", "issu", "by", "rout", "optim"],
-	"tag": ["optimisation", "power management", "reduction"],
+	"stemmed": [
+		"reduct",
+		"of",
+		"cmos",
+		"power",
+		"consumpt",
+		"and",
+		"signal",
+		"integr",
+		"issu",
+		"by",
+		"rout",
+		"optim"
+	],
+	"tag": [
+		"optimisation",
+		"power management",
+		"reduction"
+	],
 	"title": "Reduction of CMOS Power Consumption and Signal Integrity Issues by Routing Optimization",
 	"type": "inproceedings",
 	"venue": "DATE",

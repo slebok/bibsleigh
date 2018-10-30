@@ -1,14 +1,37 @@
 {
-	"author": ["Walter Daems", "Georges G. E. Gielen", "Willy M. C. Sansen"],
-	"booktitle": "DAC",
+	"author": [
+		"Walter Daems",
+		"Georges G. E. Gielen",
+		"Willy M. C. Sansen"
+	],
+	"booktitle": "Proceedings of the 39th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2002",
 	"dblpkey": "conf/dac/DaemsGS02",
 	"doi": "10.1145/513918.514029",
 	"ee": "http://doi.acm.org/10.1145/513918.514029",
 	"pages": "431-436",
 	"publisher": "ACM",
-	"stemmed": ["an", "effici", "optim", "base", "techniqu", "to", "generat", "posynomi", "perform", "model", "for", "analog", "integr", "circuit"],
-	"tag": ["modelling", "performance"],
+	"stemmed": [
+		"an",
+		"effici",
+		"optim",
+		"base",
+		"techniqu",
+		"to",
+		"generat",
+		"posynomi",
+		"perform",
+		"model",
+		"for",
+		"analog",
+		"integr",
+		"circuit"
+	],
+	"tag": [
+		"modelling",
+		"performance"
+	],
 	"title": "An efficient optimization--based technique to generate posynomial performance models for analog integrated circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,13 +1,36 @@
 {
-	"author": ["Masaya Murata", "Hiroyuki Toda", "Yumiko Matsuura", "Ryoji Kataoka"],
-	"booktitle": "JCDL",
+	"author": [
+		"Masaya Murata",
+		"Hiroyuki Toda",
+		"Yumiko Matsuura",
+		"Ryoji Kataoka"
+	],
+	"booktitle": "Proceedings of the Ninth Joint Conference on Digital Libraries",
+	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2009",
 	"dblpkey": "conf/jcdl/MurataTMK09",
 	"doi": "10.1145/1555400.1555419",
 	"pages": "105-114",
 	"publisher": "ACM",
-	"stemmed": ["queri", "page", "intent", "match", "use", "click", "titl", "and", "snippet", "to", "boost", "search", "rank"],
-	"tag": ["ranking", "using"],
+	"stemmed": [
+		"queri",
+		"page",
+		"intent",
+		"match",
+		"use",
+		"click",
+		"titl",
+		"and",
+		"snippet",
+		"to",
+		"boost",
+		"search",
+		"rank"
+	],
+	"tag": [
+		"ranking",
+		"using"
+	],
 	"title": "Query-page intention matching using clicked titles and snippets to boost search rankings",
 	"type": "inproceedings",
 	"venue": "JCDL",

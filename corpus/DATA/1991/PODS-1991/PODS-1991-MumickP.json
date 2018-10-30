@@ -1,16 +1,49 @@
 {
-	"author": ["Inderpal Singh Mumick", "Hamid Pirahesh"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS91/P127.PDF", "journals/anthology/dvd1:text/1-3/PODS91/P127.PDF"],
-	"cite": ["conf/popl/AhoU79", "...", "journals/tkde/HaasCLMWLLPCS90", "conf/pods/Jakobsson91", "conf/vldb/KempRS90", "conf/sigmod/MumickFPR90", "journals/debu/MorrisNSUG87", "...", "conf/sigmod/NaughtonRSU89", "conf/vldb/NaughtonRSU89", "conf/pods/Ross91", "books/cs/Ullman88", "books/cs/Ullman89", "journals/algorithmica/UllmanG88", "conf/pods/Yannakakis90"],
+	"author": [
+		"Inderpal Singh Mumick",
+		"Hamid Pirahesh"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS91/P127.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS91/P127.PDF"
+	],
+	"cite": [
+		"conf/popl/AhoU79",
+		"...",
+		"journals/tkde/HaasCLMWLLPCS90",
+		"conf/pods/Jakobsson91",
+		"conf/vldb/KempRS90",
+		"conf/sigmod/MumickFPR90",
+		"journals/debu/MorrisNSUG87",
+		"...",
+		"conf/sigmod/NaughtonRSU89",
+		"conf/vldb/NaughtonRSU89",
+		"conf/pods/Ross91",
+		"books/cs/Ullman88",
+		"books/cs/Ullman89",
+		"journals/algorithmica/UllmanG88",
+		"conf/pods/Yannakakis90"
+	],
 	"crossref": "conf/pods/91",
 	"dblpkey": "conf/pods/MumickP91",
 	"doi": "10.1145/113413.113425",
 	"ee": "http://doi.acm.org/10.1145/113413.113425",
 	"pages": "127-141",
 	"publisher": "ACM Press",
-	"stemmed": ["overbound", "and", "right", "linear", "queri"],
-	"tag": ["bound", "linear", "query"],
+	"stemmed": [
+		"overbound",
+		"and",
+		"right",
+		"linear",
+		"queri"
+	],
+	"tag": [
+		"bound",
+		"linear",
+		"query"
+	],
 	"title": "Overbound and Right-Linear Queries",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,15 +1,42 @@
 {
-	"author": ["Jaekyu Lee", "Hyesoon Kim"],
-	"booktitle": "HPCA",
+	"author": [
+		"Jaekyu Lee",
+		"Hyesoon Kim"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2012",
 	"dblpkey": "conf/hpca/LeeK12",
 	"doi": "10.1109/HPCA.2012.6168947",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2012.6168947", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6168947"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2012.6168947",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6168947"
+	],
 	"pages": "91-102",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["tap", "a", "tlp", "awar", "cach", "manag", "polici", "for", "a", "cpu", "gpu", "heterogen", "architectur"],
-	"tag": ["architecture", "cpu", "gpu", "named", "policy"],
+	"stemmed": [
+		"tap",
+		"a",
+		"tlp",
+		"awar",
+		"cach",
+		"manag",
+		"polici",
+		"for",
+		"a",
+		"cpu",
+		"gpu",
+		"heterogen",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"cpu",
+		"gpu",
+		"named",
+		"policy"
+	],
 	"title": "TAP: A TLP-aware cache management policy for a CPU-GPU heterogeneous architecture",
 	"type": "inproceedings",
 	"venue": "HPCA",

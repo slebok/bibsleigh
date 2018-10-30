@@ -1,14 +1,32 @@
 {
-	"author": ["Serge Abiteboul", "Pierre Bourhis", "Bogdan Marinoiu"],
-	"booktitle": "PODS",
+	"author": [
+		"Serge Abiteboul",
+		"Pierre Bourhis",
+		"Bogdan Marinoiu"
+	],
+	"booktitle": "Proceedings of the 28th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2009",
 	"dblpkey": "conf/pods/AbiteboulBM09",
 	"doi": "10.1145/1559795.1559810",
 	"ee": "http://doi.acm.org/10.1145/1559795.1559810",
 	"pages": "87-96",
 	"publisher": "ACM",
-	"stemmed": ["satisfi", "and", "relev", "for", "queri", "over", "activ", "document"],
-	"tag": ["documentation", "query", "satisfiability"],
+	"stemmed": [
+		"satisfi",
+		"and",
+		"relev",
+		"for",
+		"queri",
+		"over",
+		"activ",
+		"document"
+	],
+	"tag": [
+		"documentation",
+		"query",
+		"satisfiability"
+	],
 	"title": "Satisfiability and relevance for queries over active documents",
 	"type": "inproceedings",
 	"venue": "PODS",

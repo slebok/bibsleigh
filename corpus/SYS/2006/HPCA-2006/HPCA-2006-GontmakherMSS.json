@@ -1,15 +1,37 @@
 {
-	"author": ["Alex Gontmakher", "Avi Mendelson", "Assaf Schuster", "Gregory Shklover"],
-	"booktitle": "HPCA",
+	"author": [
+		"Alex Gontmakher",
+		"Avi Mendelson",
+		"Assaf Schuster",
+		"Gregory Shklover"
+	],
+	"booktitle": "Proceedings of the 12th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2006",
 	"dblpkey": "conf/hpca/GontmakherMSS06",
 	"doi": "10.1109/HPCA.2006.1598136",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2006.1598136", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2006.1598136"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2006.1598136",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2006.1598136"
+	],
 	"pages": "278-287",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["specul", "synchron", "and", "thread", "manag", "for", "fine", "granular", "thread"],
-	"tag": ["concurrent", "thread"],
+	"stemmed": [
+		"specul",
+		"synchron",
+		"and",
+		"thread",
+		"manag",
+		"for",
+		"fine",
+		"granular",
+		"thread"
+	],
+	"tag": [
+		"concurrent",
+		"thread"
+	],
 	"title": "Speculative synchronization and thread management for fine granularity threads",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,15 +1,39 @@
 {
-	"author": ["Blaise Gassend", "G. Edward Suh", "Dwaine E. Clarke", "Marten van Dijk", "Srinivas Devadas"],
-	"booktitle": "HPCA",
+	"author": [
+		"Blaise Gassend",
+		"G. Edward Suh",
+		"Dwaine E. Clarke",
+		"Marten van Dijk",
+		"Srinivas Devadas"
+	],
+	"booktitle": "Proceedings of the Ninth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2003",
 	"dblpkey": "conf/hpca/GassendSCDD03",
 	"doi": "10.1109/HPCA.2003.1183547",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2003.1183547", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2003.1183547"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2003.1183547",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2003.1183547"
+	],
 	"pages": "295-306",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["cach", "and", "hash", "tree", "for", "effici", "memori", "integr", "verif"],
-	"tag": ["memory management", "performance", "verification"],
+	"stemmed": [
+		"cach",
+		"and",
+		"hash",
+		"tree",
+		"for",
+		"effici",
+		"memori",
+		"integr",
+		"verif"
+	],
+	"tag": [
+		"memory management",
+		"performance",
+		"verification"
+	],
 	"title": "Caches and Hash Trees for Efficient Memory Integrity Verification",
 	"type": "inproceedings",
 	"venue": "HPCA",

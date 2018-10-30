@@ -1,14 +1,45 @@
 {
-	"author": ["Rune Hjelsvold", "Roger Midtstraum"],
-	"booktitle": "VLDB",
-	"cite": ["...", "conf/er/BreitenederGT92", "...", "books/bc/ElmasriN94", "conf/edbt/Hjelsvold94", "...", "journals/tkde/LittleG93", "...", "journals/cacm/MackayD89", "...", "...", "journals/tkde/OomotoT93", "...", "...", "...", "conf/nossdav/Stevens91"],
+	"author": [
+		"Rune Hjelsvold",
+		"Roger Midtstraum"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"conf/er/BreitenederGT92",
+		"...",
+		"books/bc/ElmasriN94",
+		"conf/edbt/Hjelsvold94",
+		"...",
+		"journals/tkde/LittleG93",
+		"...",
+		"journals/cacm/MackayD89",
+		"...",
+		"...",
+		"journals/tkde/OomotoT93",
+		"...",
+		"...",
+		"...",
+		"conf/nossdav/Stevens91"
+	],
 	"crossref": "conf/vldb/94",
 	"dblpkey": "conf/vldb/HjelsvoldM94",
 	"ee": "http://www.vldb.org/conf/1994/P686.PDF",
 	"pages": "686-694",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["model", "and", "queri", "video", "data"],
-	"tag": ["modelling", "query", "video"],
+	"stemmed": [
+		"model",
+		"and",
+		"queri",
+		"video",
+		"data"
+	],
+	"tag": [
+		"modelling",
+		"query",
+		"video"
+	],
 	"title": "Modelling and Querying Video Data",
 	"type": "inproceedings",
 	"venue": "VLDB",

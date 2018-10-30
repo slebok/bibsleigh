@@ -1,14 +1,27 @@
 {
-	"author": ["Guy Golan-Gueta", "G. Ramalingam", "Mooly Sagiv", "Eran Yahav"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Guy Golan-Gueta",
+		"G. Ramalingam",
+		"Mooly Sagiv",
+		"Eran Yahav"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/Golan-GuetaRSY14",
 	"doi": "10.1145/2555243.2555281",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555281",
 	"pages": "385-386",
 	"publisher": "ACM",
-	"stemmed": ["automat", "semant", "lock"],
-	"tag": ["automation", "semantics"],
+	"stemmed": [
+		"automat",
+		"semant",
+		"lock"
+	],
+	"tag": [
+		"automation",
+		"semantics"
+	],
 	"title": "Automatic semantic locking",
 	"type": "inproceedings",
 	"venue": "PPoPP",

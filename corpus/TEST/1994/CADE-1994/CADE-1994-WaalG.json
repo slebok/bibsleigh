@@ -1,6 +1,10 @@
 {
-	"author": ["D. Andre de Waal", "John P. Gallagher"],
-	"booktitle": "CADE",
+	"author": [
+		"D. Andre de Waal",
+		"John P. Gallagher"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/WaalG94",
 	"doi": "10.1007/3-540-58156-1_15",
@@ -10,11 +14,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "applic", "of", "logic", "program", "analysi", "and", "transform", "to", "theorem", "prove"],
-	"tag": ["logic programming", "program analysis", "program transformation", "proving", "theorem proving"],
+	"stemmed": [
+		"the",
+		"applic",
+		"of",
+		"logic",
+		"program",
+		"analysi",
+		"and",
+		"transform",
+		"to",
+		"theorem",
+		"prove"
+	],
+	"tag": [
+		"logic programming",
+		"program analysis",
+		"program transformation",
+		"proving",
+		"theorem proving"
+	],
 	"title": "The Applicability of Logic Program Analysis and Transformation to Theorem Proving",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

@@ -1,6 +1,13 @@
 {
-	"author": ["Astrid Rheinländer", "Martin Beckmann", "Anja Kunkel", "Arvid Heise", "Thomas Stoltmann", "Ulf Leser"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Astrid Rheinländer",
+		"Martin Beckmann",
+		"Anja Kunkel",
+		"Arvid Heise",
+		"Thomas Stoltmann",
+		"Ulf Leser"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/RheinlanderBKHSL14",
@@ -8,8 +15,21 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2594517",
 	"pages": "685-688",
 	"publisher": "ACM",
-	"stemmed": ["versatil", "optim", "of", "udf", "heavi", "data", "flow", "with", "sofa"],
-	"tag": ["data flow", "optimisation"],
+	"stemmed": [
+		"versatil",
+		"optim",
+		"of",
+		"udf",
+		"heavi",
+		"data",
+		"flow",
+		"with",
+		"sofa"
+	],
+	"tag": [
+		"data flow",
+		"optimisation"
+	],
 	"title": "Versatile optimization of UDF-heavy data flows with sofa",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

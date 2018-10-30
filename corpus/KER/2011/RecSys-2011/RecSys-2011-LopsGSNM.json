@@ -1,14 +1,37 @@
 {
-	"author": ["Pasquale Lops", "Marco de Gemmis", "Giovanni Semeraro", "Fedelucio Narducci", "Cataldo Musto"],
-	"booktitle": "RecSys",
+	"author": [
+		"Pasquale Lops",
+		"Marco de Gemmis",
+		"Giovanni Semeraro",
+		"Fedelucio Narducci",
+		"Cataldo Musto"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2011",
 	"dblpkey": "conf/recsys/LopsGSNM11",
 	"doi": "10.1145/2043932.2043986",
 	"ee": "http://doi.acm.org/10.1145/2043932.2043986",
 	"pages": "293-296",
 	"publisher": "ACM",
-	"stemmed": ["leverag", "the", "linkedin", "social", "network", "data", "for", "extract", "content", "base", "user", "profil"],
-	"tag": ["network", "social"],
+	"stemmed": [
+		"leverag",
+		"the",
+		"linkedin",
+		"social",
+		"network",
+		"data",
+		"for",
+		"extract",
+		"content",
+		"base",
+		"user",
+		"profil"
+	],
+	"tag": [
+		"network",
+		"social"
+	],
 	"title": "Leveraging the linkedin social network data for extracting content-based user profiles",
 	"type": "inproceedings",
 	"venue": "RecSys",

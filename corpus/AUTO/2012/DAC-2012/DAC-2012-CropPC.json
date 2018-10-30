@@ -1,14 +1,36 @@
 {
-	"author": ["Joseph Crop", "Robert Pawlowski", "Patrick Chiang"],
-	"booktitle": "DAC",
+	"author": [
+		"Joseph Crop",
+		"Robert Pawlowski",
+		"Patrick Chiang"
+	],
+	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/CropPC12",
 	"doi": "10.1145/2228360.2228535",
 	"ee": "http://doi.acm.org/10.1145/2228360.2228535",
 	"pages": "974-979",
 	"publisher": "ACM",
-	"stemmed": ["regain", "throughput", "use", "complet", "detect", "for", "error", "resili", "near", "threshold", "logic"],
-	"tag": ["detection", "logic", "throughput", "using"],
+	"stemmed": [
+		"regain",
+		"throughput",
+		"use",
+		"complet",
+		"detect",
+		"for",
+		"error",
+		"resili",
+		"near",
+		"threshold",
+		"logic"
+	],
+	"tag": [
+		"detection",
+		"logic",
+		"throughput",
+		"using"
+	],
 	"title": "Regaining throughput using completion detection for error-resilient, near-threshold logic",
 	"type": "inproceedings",
 	"venue": "DAC",

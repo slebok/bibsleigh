@@ -1,6 +1,7 @@
 {
 	"author": "Cass Squire",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD95/P446.PDF",
 	"crossref": "conf/sigmod/95",
 	"dblpkey": "conf/sigmod/Squire95",
@@ -8,7 +9,16 @@
 	"ee": "http://doi.acm.org/10.1145/223784.223869",
 	"pages": "446-447",
 	"publisher": "ACM Press",
-	"stemmed": ["data", "extract", "and", "transform", "for", "the", "data", "warehous"],
+	"stemmed": [
+		"data",
+		"extract",
+		"and",
+		"transform",
+		"for",
+		"the",
+		"data",
+		"warehous"
+	],
 	"title": "Data Extraction and Transformation for the Data Warehouse",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

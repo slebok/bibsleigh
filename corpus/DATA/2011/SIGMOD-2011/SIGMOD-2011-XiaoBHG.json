@@ -1,6 +1,11 @@
 {
-	"author": ["Xiaokui Xiao", "Gabriel Bender", "Michael Hay", "Johannes Gehrke"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Xiaokui Xiao",
+		"Gabriel Bender",
+		"Michael Hay",
+		"Johannes Gehrke"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/XiaoBHG11",
@@ -8,8 +13,21 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989348",
 	"pages": "229-240",
 	"publisher": "ACM",
-	"stemmed": ["ireduct", "differenti", "privaci", "with", "reduc", "relat", "error"],
-	"tag": ["difference", "fault", "named", "privacy"],
+	"stemmed": [
+		"ireduct",
+		"differenti",
+		"privaci",
+		"with",
+		"reduc",
+		"relat",
+		"error"
+	],
+	"tag": [
+		"difference",
+		"fault",
+		"named",
+		"privacy"
+	],
 	"title": "iReduct: differential privacy with reduced relative errors",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

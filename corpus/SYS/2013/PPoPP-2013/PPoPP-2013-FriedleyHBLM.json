@@ -1,14 +1,38 @@
 {
-	"author": ["Andrew Friedley", "Torsten Hoefler", "Greg Bronevetsky", "Andrew Lumsdaine", "Ching-Chen Ma"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Andrew Friedley",
+		"Torsten Hoefler",
+		"Greg Bronevetsky",
+		"Andrew Lumsdaine",
+		"Ching-Chen Ma"
+	],
+	"booktitle": "Proceedings of the 18th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2013",
 	"dblpkey": "conf/ppopp/FriedleyHBLM13",
 	"doi": "10.1145/2442516.2442534",
 	"ee": "http://doi.acm.org/10.1145/2442516.2442534",
 	"pages": "177-186",
 	"publisher": "ACM",
-	"stemmed": ["ownership", "pass", "effici", "distribut", "memori", "program", "on", "multi", "core", "system"],
-	"tag": ["distributed", "manycore", "memory management", "performance", "programming"],
+	"stemmed": [
+		"ownership",
+		"pass",
+		"effici",
+		"distribut",
+		"memori",
+		"program",
+		"on",
+		"multi",
+		"core",
+		"system"
+	],
+	"tag": [
+		"distributed",
+		"manycore",
+		"memory management",
+		"performance",
+		"programming"
+	],
 	"title": "Ownership passing: efficient distributed memory programming on multi-core systems",
 	"type": "inproceedings",
 	"venue": "PPoPP",

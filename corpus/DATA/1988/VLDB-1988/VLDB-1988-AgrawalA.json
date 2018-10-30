@@ -1,14 +1,43 @@
 {
-	"author": ["Divyakant Agrawal", "Amr El Abbadi"],
-	"booktitle": "VLDB",
-	"cite": ["journals/tse/AhamadA89", "journals/csur/BernsteinG81", "conf/podc/BernsteinG83", "journals/csur/DavidsonG85", "journals/cacm/EswarranGLT76", "conf/pods/FischerM82", "conf/sosp/Gifford79", "...", "journals/tocs/JosephB86", "journals/cacm/Lamport78", "...", "conf/icdcs/Paris86", "journals/tocs/SchlichtingS83", "journals/toplas/Schneider82", "conf/podc/WuuB84"],
+	"author": [
+		"Divyakant Agrawal",
+		"Amr El Abbadi"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/tse/AhamadA89",
+		"journals/csur/BernsteinG81",
+		"conf/podc/BernsteinG83",
+		"journals/csur/DavidsonG85",
+		"journals/cacm/EswarranGLT76",
+		"conf/pods/FischerM82",
+		"conf/sosp/Gifford79",
+		"...",
+		"journals/tocs/JosephB86",
+		"journals/cacm/Lamport78",
+		"...",
+		"conf/icdcs/Paris86",
+		"journals/tocs/SchlichtingS83",
+		"journals/toplas/Schneider82",
+		"conf/podc/WuuB84"
+	],
 	"crossref": "conf/vldb/88",
 	"dblpkey": "conf/vldb/AgrawalA88",
 	"ee": "http://www.vldb.org/conf/1988/P419.PDF",
 	"pages": "419-430",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["reduc", "storag", "for", "quorum", "consensus", "algorithm"],
-	"tag": ["algorithm"],
+	"stemmed": [
+		"reduc",
+		"storag",
+		"for",
+		"quorum",
+		"consensus",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm"
+	],
 	"title": "Reducing Storage for Quorum Consensus Algorithms",
 	"type": "inproceedings",
 	"venue": "VLDB",

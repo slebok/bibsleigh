@@ -1,6 +1,9 @@
 {
-	"author": ["K. Tuncay Tekle", "Yanhong A. Liu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"K. Tuncay Tekle",
+		"Yanhong A. Liu"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/TekleL11",
@@ -8,8 +11,23 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989393",
 	"pages": "661-672",
 	"publisher": "ACM",
-	"stemmed": ["more", "effici", "datalog", "queri", "subsumpt", "tabl", "beat", "magic", "set"],
-	"tag": ["datalog", "performance", "query", "set"],
+	"stemmed": [
+		"more",
+		"effici",
+		"datalog",
+		"queri",
+		"subsumpt",
+		"tabl",
+		"beat",
+		"magic",
+		"set"
+	],
+	"tag": [
+		"datalog",
+		"performance",
+		"query",
+		"set"
+	],
 	"title": "More efficient datalog queries: subsumptive tabling beats magic sets",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,9 @@
 {
-	"author": ["Lefteris Sidirourgos", "Martin L. Kersten"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Lefteris Sidirourgos",
+		"Martin L. Kersten"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/SidirourgosK13",
@@ -8,7 +11,14 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465306",
 	"pages": "893-904",
 	"publisher": "ACM",
-	"stemmed": ["column", "imprint", "a", "secondari", "index", "structur"],
+	"stemmed": [
+		"column",
+		"imprint",
+		"a",
+		"secondari",
+		"index",
+		"structur"
+	],
 	"title": "Column imprints: a secondary index structure",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,28 @@
 {
-	"author": ["Michael L. Scott", "William N. Scherer III"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Michael L. Scott",
+		"William N. Scherer III"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2001",
 	"dblpkey": "conf/ppopp/ScottS01",
 	"doi": "10.1145/379539.379566",
 	"ee": "http://doi.acm.org/10.1145/379539.379566",
 	"pages": "44-52",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "queue", "base", "spin", "lock", "with", "timeout"],
-	"tag": ["scalability"],
+	"stemmed": [
+		"scalabl",
+		"queue",
+		"base",
+		"spin",
+		"lock",
+		"with",
+		"timeout"
+	],
+	"tag": [
+		"scalability"
+	],
 	"title": "Scalable queue-based spin locks with timeout",
 	"type": "inproceedings",
 	"venue": "PPoPP",

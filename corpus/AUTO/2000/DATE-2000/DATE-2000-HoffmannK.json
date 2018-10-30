@@ -1,15 +1,32 @@
 {
-	"author": ["Dirk W. Hoffmann", "Thomas Kropf"],
-	"booktitle": "DATE",
+	"author": [
+		"Dirk W. Hoffmann",
+		"Thomas Kropf"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/HoffmannK00",
 	"doi": "10.1109/DATE.2000.840891",
 	"ee": "http://doi.ieeecomputersociety.org/10.1109/DATE.2000.840891",
-	"pages": 758,
+	"pages": "758",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["exploit", "hierarchi", "for", "multipl", "error", "correct", "in", "combin", "circuit"],
-	"tag": ["fault", "multi"],
+	"stemmed": [
+		"exploit",
+		"hierarchi",
+		"for",
+		"multipl",
+		"error",
+		"correct",
+		"in",
+		"combin",
+		"circuit"
+	],
+	"tag": [
+		"fault",
+		"multi"
+	],
 	"title": "Exploiting Hierarchy for Multiple Error Correction in Combinational Circuits",
 	"type": "inproceedings",
 	"venue": "DATE",

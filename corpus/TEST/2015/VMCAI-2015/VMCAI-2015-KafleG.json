@@ -1,6 +1,10 @@
 {
-	"author": ["Bishoksan Kafle", "John P. Gallagher"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Bishoksan Kafle",
+		"John P. Gallagher"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2015",
 	"dblpkey": "conf/vmcai/KafleG15",
 	"doi": "10.1007/978-3-662-46081-8_12",
@@ -10,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["tree", "automata", "base", "refin", "with", "applic", "to", "horn", "claus", "verif"],
-	"tag": ["horn clause", "refinement", "verification"],
+	"stemmed": [
+		"tree",
+		"automata",
+		"base",
+		"refin",
+		"with",
+		"applic",
+		"to",
+		"horn",
+		"claus",
+		"verif"
+	],
+	"tag": [
+		"horn clause",
+		"refinement",
+		"verification"
+	],
 	"title": "Tree Automata-Based Refinement with Application to Horn Clause Verification",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 8931,
+	"volume": "8931",
 	"year": 2015
 }

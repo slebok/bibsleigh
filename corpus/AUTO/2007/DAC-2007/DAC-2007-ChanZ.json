@@ -1,14 +1,34 @@
 {
-	"author": ["Henry H. Y. Chan", "Zeljko Zilic"],
-	"booktitle": "DAC",
+	"author": [
+		"Henry H. Y. Chan",
+		"Zeljko Zilic"
+	],
+	"booktitle": "Proceedings of the 44th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2007",
 	"dblpkey": "conf/dac/ChanZ07",
 	"doi": "10.1145/1278480.1278591",
 	"ee": "http://doi.acm.org/10.1145/1278480.1278591",
 	"pages": "430-435",
 	"publisher": "IEEE",
-	"stemmed": ["model", "simultan", "switch", "nois", "induc", "jitter", "for", "system", "on", "chip", "phase", "lock", "loop"],
-	"tag": ["modelling"],
+	"stemmed": [
+		"model",
+		"simultan",
+		"switch",
+		"nois",
+		"induc",
+		"jitter",
+		"for",
+		"system",
+		"on",
+		"chip",
+		"phase",
+		"lock",
+		"loop"
+	],
+	"tag": [
+		"modelling"
+	],
 	"title": "Modeling Simultaneous Switching Noise-Induced Jitter for System-on-Chip Phase-Locked Loops",
 	"type": "inproceedings",
 	"venue": "DAC",

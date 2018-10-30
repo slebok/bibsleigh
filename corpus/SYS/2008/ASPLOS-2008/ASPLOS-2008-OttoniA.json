@@ -1,14 +1,34 @@
 {
-	"author": ["Guilherme Ottoni", "David I. August"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Guilherme Ottoni",
+		"David I. August"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2008",
 	"dblpkey": "conf/asplos/OttoniA08",
 	"doi": "10.1145/1346281.1346310",
 	"ee": "http://doi.acm.org/10.1145/1346281.1346310",
 	"pages": "222-232",
 	"publisher": "ACM",
-	"stemmed": ["communic", "optim", "for", "global", "multi", "thread", "instruct", "schedul"],
-	"tag": ["communication", "concurrent", "multi", "optimisation", "scheduling", "thread"],
+	"stemmed": [
+		"communic",
+		"optim",
+		"for",
+		"global",
+		"multi",
+		"thread",
+		"instruct",
+		"schedul"
+	],
+	"tag": [
+		"communication",
+		"concurrent",
+		"multi",
+		"optimisation",
+		"scheduling",
+		"thread"
+	],
 	"title": "Communication optimizations for global multi-threaded instruction scheduling",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,14 +1,35 @@
 {
-	"author": ["Raghav Kaushik", "Raghu Ramakrishnan", "Venkatesan T. Chakaravarthy"],
-	"booktitle": "PODS",
+	"author": [
+		"Raghav Kaushik",
+		"Raghu Ramakrishnan",
+		"Venkatesan T. Chakaravarthy"
+	],
+	"booktitle": "Proceedings of the 23rd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2004",
 	"dblpkey": "conf/pods/KaushikRC04",
 	"doi": "10.1145/1055558.1055586",
-	"ee": ["http://doi.acm.org/10.1145/1055558.1055586", "http://www.acm.org/sigmod/pods/proc04/pdf/P-20.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1055558.1055586",
+		"http://www.acm.org/sigmod/pods/proc04/pdf/P-20.pdf"
+	],
 	"pages": "201-209",
 	"publisher": "ACM",
-	"stemmed": ["synops", "for", "queri", "optim", "a", "space", "complex", "perspect"],
-	"tag": ["optimisation", "perspective", "query"],
+	"stemmed": [
+		"synops",
+		"for",
+		"queri",
+		"optim",
+		"a",
+		"space",
+		"complex",
+		"perspect"
+	],
+	"tag": [
+		"optimisation",
+		"perspective",
+		"query"
+	],
 	"title": "Synopses for Query Optimization: A Space-Complexity Perspective",
 	"type": "inproceedings",
 	"venue": "PODS",

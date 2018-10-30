@@ -1,6 +1,10 @@
 {
-	"author": ["E. Pascal Gribomont", "Nachaat Salloum"],
-	"booktitle": "CADE",
+	"author": [
+		"E. Pascal Gribomont",
+		"Nachaat Salloum"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1999",
 	"dblpkey": "conf/cade/GribomontS99",
 	"doi": "10.1007/3-540-48660-7_18",
@@ -10,11 +14,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "use", "obdd", "s", "for", "the", "valid", "of", "skolem", "verif", "condit"],
-	"tag": ["using", "validation", "verification"],
+	"stemmed": [
+		"system",
+		"descript",
+		"use",
+		"obdd",
+		"s",
+		"for",
+		"the",
+		"valid",
+		"of",
+		"skolem",
+		"verif",
+		"condit"
+	],
+	"tag": [
+		"using",
+		"validation",
+		"verification"
+	],
 	"title": "System Description: Using OBDD’s for the validation of Skolem verification conditions",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1632,
+	"volume": "1632",
 	"year": 1999
 }

@@ -1,15 +1,43 @@
 {
-	"author": ["Michael Pellauer", "Michael Adler", "Michel A. Kinsy", "Angshuman Parashar", "Joel S. Emer"],
-	"booktitle": "HPCA",
+	"author": [
+		"Michael Pellauer",
+		"Michael Adler",
+		"Michel A. Kinsy",
+		"Angshuman Parashar",
+		"Joel S. Emer"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2011",
 	"dblpkey": "conf/hpca/PellauerAKPE11",
 	"doi": "10.1109/HPCA.2011.5749747",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2011.5749747", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2011.5749747"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2011.5749747",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2011.5749747"
+	],
 	"pages": "406-417",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["h", "asim", "fpga", "base", "high", "detail", "multicor", "simul", "use", "time", "divis", "multiplex"],
-	"tag": ["manycore", "named", "simulation", "using"],
+	"stemmed": [
+		"h",
+		"asim",
+		"fpga",
+		"base",
+		"high",
+		"detail",
+		"multicor",
+		"simul",
+		"use",
+		"time",
+		"divis",
+		"multiplex"
+	],
+	"tag": [
+		"manycore",
+		"named",
+		"simulation",
+		"using"
+	],
 	"title": "HAsim: FPGA-based high-detail multicore simulation using time-division multiplexing",
 	"type": "inproceedings",
 	"venue": "HPCA",

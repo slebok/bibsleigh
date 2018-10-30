@@ -1,14 +1,38 @@
 {
-	"author": ["Jianjiang Ceng", "Jerónimo Castrillón", "Weihua Sheng", "Hanno Scharwächter", "Rainer Leupers", "Gerd Ascheid", "Heinrich Meyr", "Tsuyoshi Isshiki", "Hiroaki Kunieda"],
-	"booktitle": "DAC",
+	"author": [
+		"Jianjiang Ceng",
+		"Jerónimo Castrillón",
+		"Weihua Sheng",
+		"Hanno Scharwächter",
+		"Rainer Leupers",
+		"Gerd Ascheid",
+		"Heinrich Meyr",
+		"Tsuyoshi Isshiki",
+		"Hiroaki Kunieda"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/CengCSSLAMIK08",
 	"doi": "10.1145/1391469.1391663",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391663",
 	"pages": "754-759",
 	"publisher": "ACM",
-	"stemmed": ["map", "an", "integr", "framework", "for", "mpsoc", "applic", "parallel"],
-	"tag": ["framework", "named", "parallel"],
+	"stemmed": [
+		"map",
+		"an",
+		"integr",
+		"framework",
+		"for",
+		"mpsoc",
+		"applic",
+		"parallel"
+	],
+	"tag": [
+		"framework",
+		"named",
+		"parallel"
+	],
 	"title": "MAPS: an integrated framework for MPSoC application parallelization",
 	"type": "inproceedings",
 	"venue": "DAC",

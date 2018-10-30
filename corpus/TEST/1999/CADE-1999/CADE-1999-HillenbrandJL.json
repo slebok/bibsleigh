@@ -1,6 +1,11 @@
 {
-	"author": ["Thomas Hillenbrand", "Andreas Jaeger", "Bernd Löchner"],
-	"booktitle": "CADE",
+	"author": [
+		"Thomas Hillenbrand",
+		"Andreas Jaeger",
+		"Bernd Löchner"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1999",
 	"dblpkey": "conf/cade/HillenbrandJL99",
 	"doi": "10.1007/3-540-48660-7_20",
@@ -10,11 +15,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "waldmeist", "improv", "in", "perform", "and", "eas", "of", "use"],
-	"tag": ["performance"],
+	"stemmed": [
+		"system",
+		"descript",
+		"waldmeist",
+		"improv",
+		"in",
+		"perform",
+		"and",
+		"eas",
+		"of",
+		"use"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "System Description: Waldmeister — Improvements in Performance and Ease of Use",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1632,
+	"volume": "1632",
 	"year": 1999
 }

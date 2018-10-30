@@ -1,6 +1,12 @@
 {
-	"author": ["Marcello Lajolo", "Anand Raghunathan", "Sujit Dey", "Luciano Lavagno"],
-	"booktitle": "DATE",
+	"author": [
+		"Marcello Lajolo",
+		"Anand Raghunathan",
+		"Sujit Dey",
+		"Luciano Lavagno"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/LajoloRDL00",
 	"doi": "10.1109/DATE.2000.840011",
@@ -8,8 +14,22 @@
 	"pages": "27-34",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["effici", "power", "co", "estim", "techniqu", "for", "system", "on", "chip", "design"],
-	"tag": ["design", "performance"],
+	"stemmed": [
+		"effici",
+		"power",
+		"co",
+		"estim",
+		"techniqu",
+		"for",
+		"system",
+		"on",
+		"chip",
+		"design"
+	],
+	"tag": [
+		"design",
+		"performance"
+	],
 	"title": "Efficient Power Co-Estimation Techniques for System-on-Chip Design",
 	"type": "inproceedings",
 	"venue": "DATE",

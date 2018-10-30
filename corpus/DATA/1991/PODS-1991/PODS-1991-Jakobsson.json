@@ -1,16 +1,48 @@
 {
 	"author": "Håkan Jakobsson",
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS91/P199.PDF", "journals/anthology/dvd1:text/1-3/PODS91/P199.PDF"],
-	"cite": ["books/aw/AhoHU74", "...", "...", "conf/stoc/CoppersmithW87", "...", "journals/ipl/Ebert81", "...", "conf/vldb/IoannidisR88", "journals/tcs/Italiano86", "journals/ipl/Italiano88", "...", "journals/ipl/Munro71", "...", "journals/siamcomp/Schnorr78", "...", "journals/jacm/Warshall62", "journals/cacm/Warren75"],
+	"booktitle": "Proceedings of the 10th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS91/P199.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS91/P199.PDF"
+	],
+	"cite": [
+		"books/aw/AhoHU74",
+		"...",
+		"...",
+		"conf/stoc/CoppersmithW87",
+		"...",
+		"journals/ipl/Ebert81",
+		"...",
+		"conf/vldb/IoannidisR88",
+		"journals/tcs/Italiano86",
+		"journals/ipl/Italiano88",
+		"...",
+		"journals/ipl/Munro71",
+		"...",
+		"journals/siamcomp/Schnorr78",
+		"...",
+		"journals/jacm/Warshall62",
+		"journals/cacm/Warren75"
+	],
 	"crossref": "conf/pods/91",
 	"dblpkey": "conf/pods/Jakobsson91",
 	"doi": "10.1145/113413.113431",
 	"ee": "http://doi.acm.org/10.1145/113413.113431",
 	"pages": "199-205",
 	"publisher": "ACM Press",
-	"stemmed": ["mix", "approach", "algorithm", "for", "transit", "closur"],
-	"tag": ["algorithm", "transitive"],
+	"stemmed": [
+		"mix",
+		"approach",
+		"algorithm",
+		"for",
+		"transit",
+		"closur"
+	],
+	"tag": [
+		"algorithm",
+		"transitive"
+	],
 	"title": "Mixed-Approach Algorithms for Transitive Closure",
 	"type": "inproceedings",
 	"venue": "PODS",

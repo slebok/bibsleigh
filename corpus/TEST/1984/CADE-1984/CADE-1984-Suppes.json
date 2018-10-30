@@ -1,6 +1,7 @@
 {
 	"author": "Patrick Suppes",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Seventh International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1984",
 	"dblpkey": "conf/cade/Suppes84",
 	"doi": "10.1007/BFb0047128",
@@ -10,11 +11,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "next", "generat", "of", "interact", "theorem", "prover"],
-	"tag": ["generative", "interactive", "proving", "theorem proving"],
+	"stemmed": [
+		"the",
+		"next",
+		"generat",
+		"of",
+		"interact",
+		"theorem",
+		"prover"
+	],
+	"tag": [
+		"generative",
+		"interactive",
+		"proving",
+		"theorem proving"
+	],
 	"title": "The Next Generation of Interactive Theorem Provers",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 170,
+	"volume": "170",
 	"year": 1984
 }

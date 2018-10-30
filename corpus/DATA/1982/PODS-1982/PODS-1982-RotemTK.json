@@ -1,16 +1,47 @@
 {
-	"author": ["Doron Rotem", "Frank Wm. Tompa", "David G. Kirkpatrick"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS82/P262.PDF", "journals/anthology/dvd1:text/1-3/PODS82/P262.PDF"],
-	"cite": ["journals/cacm/Babad77", "...", "...", "conf/stoc/Cook71", "...", "journals/jacm/EisnerS76", "books/fm/GareyJ79", "...", "journals/jcss/Johnson74a", "..."],
+	"author": [
+		"Doron Rotem",
+		"Frank Wm. Tompa",
+		"David G. Kirkpatrick"
+	],
+	"booktitle": "Proceedings of the First Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS82/P262.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS82/P262.PDF"
+	],
+	"cite": [
+		"journals/cacm/Babad77",
+		"...",
+		"...",
+		"conf/stoc/Cook71",
+		"...",
+		"journals/jacm/EisnerS76",
+		"books/fm/GareyJ79",
+		"...",
+		"journals/jcss/Johnson74a",
+		"..."
+	],
 	"crossref": "conf/pods/82",
 	"dblpkey": "conf/pods/RotemTK82",
 	"doi": "10.1145/588111.588154",
 	"ee": "http://doi.acm.org/10.1145/588111.588154",
 	"pages": "262-267",
 	"publisher": "ACM",
-	"stemmed": ["foundat", "for", "multifil", "design", "by", "applic", "partit"],
-	"tag": ["clustering", "design", "multi"],
+	"stemmed": [
+		"foundat",
+		"for",
+		"multifil",
+		"design",
+		"by",
+		"applic",
+		"partit"
+	],
+	"tag": [
+		"clustering",
+		"design",
+		"multi"
+	],
 	"title": "Foundations for Multifile Design by Application Partitioning",
 	"type": "inproceedings",
 	"venue": "PODS",

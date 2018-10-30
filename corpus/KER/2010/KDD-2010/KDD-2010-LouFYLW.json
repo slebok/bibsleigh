@@ -1,14 +1,31 @@
 {
-	"author": ["Jian-Guang Lou", "Qiang Fu", "Shengqi Yang", "Jiang Li", "Bin Wu"],
-	"booktitle": "KDD",
+	"author": [
+		"Jian-Guang Lou",
+		"Qiang Fu",
+		"Shengqi Yang",
+		"Jiang Li",
+		"Bin Wu"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/LouFYLW10",
 	"doi": "10.1145/1835804.1835883",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835883",
 	"pages": "613-622",
 	"publisher": "ACM",
-	"stemmed": ["mine", "program", "workflow", "from", "interleav", "trace"],
-	"tag": ["mining", "workflow"],
+	"stemmed": [
+		"mine",
+		"program",
+		"workflow",
+		"from",
+		"interleav",
+		"trace"
+	],
+	"tag": [
+		"mining",
+		"workflow"
+	],
 	"title": "Mining program workflow from interleaved traces",
 	"type": "inproceedings",
 	"venue": "KDD",

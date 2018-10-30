@@ -1,13 +1,38 @@
 {
-	"author": ["Michael Stonebraker", "Daniel J. Abadi", "Adam Batkin", "Xuedong Chen", "Mitch Cherniack", "Miguel Ferreira", "Edmond Lau", "Amerson Lin", "Samuel Madden", "Elizabeth J. O'Neil", "Patrick E. O'Neil", "Alex Rasin", "Nga Tran", "Stanley B. Zdonik"],
-	"booktitle": "VLDB",
+	"author": [
+		"Michael Stonebraker",
+		"Daniel J. Abadi",
+		"Adam Batkin",
+		"Xuedong Chen",
+		"Mitch Cherniack",
+		"Miguel Ferreira",
+		"Edmond Lau",
+		"Amerson Lin",
+		"Samuel Madden",
+		"Elizabeth J. O'Neil",
+		"Patrick E. O'Neil",
+		"Alex Rasin",
+		"Nga Tran",
+		"Stanley B. Zdonik"
+	],
+	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/StonebrakerABCCFLLMOORTZ05",
 	"ee": "http://www.vldb2005.org/program/paper/thu/p553-stonebraker.pdf",
 	"pages": "553-564",
 	"publisher": "ACM",
-	"stemmed": ["c", "store", "a", "column", "orient", "dbms"],
-	"tag": ["named"],
+	"stemmed": [
+		"c",
+		"store",
+		"a",
+		"column",
+		"orient",
+		"dbms"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "C-Store: A Column-oriented DBMS",
 	"type": "inproceedings",
 	"venue": "VLDB",

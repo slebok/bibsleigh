@@ -1,6 +1,13 @@
 {
-	"author": ["Toomas Timpka", "Lin Padgham", "Per Hedblom", "Stefan Wallin", "Gösta Tibblin"],
+	"author": [
+		"Toomas Timpka",
+		"Lin Padgham",
+		"Per Hedblom",
+		"Stefan Wallin",
+		"Gösta Tibblin"
+	],
 	"booktitle": "Proceedings of the 12th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P221.pdf",
 	"crossref": "conf/sigir/89",
 	"dblpkey": "conf/sigir/TimpkaPHWT89",
@@ -8,8 +15,22 @@
 	"ee": "http://doi.acm.org/10.1145/75334.75358",
 	"pages": "221-228",
 	"publisher": "ACM",
-	"stemmed": ["a", "hypertext", "knowledg", "base", "for", "primari", "care", "lime", "in", "linck"],
-	"tag": ["hypermedia", "knowledge base"],
+	"stemmed": [
+		"a",
+		"hypertext",
+		"knowledg",
+		"base",
+		"for",
+		"primari",
+		"care",
+		"lime",
+		"in",
+		"linck"
+	],
+	"tag": [
+		"hypermedia",
+		"knowledge base"
+	],
 	"title": "A Hypertext Knowledge Base for Primary Care — LIMEDS in LINCKS",
 	"type": "inproceedings",
 	"venue": "SIGIR",

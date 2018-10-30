@@ -1,14 +1,32 @@
 {
-	"author": ["Shlomo Weiss", "James E. Smith"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Shlomo Weiss",
+		"James E. Smith"
+	],
+	"booktitle": "Proceedings of the Second International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1987",
 	"dblpkey": "conf/asplos/WeissS87",
 	"doi": "10.1145/36206.36191",
 	"ee": "http://doi.acm.org/10.1145/36206.36191",
 	"pages": "105-109",
 	"publisher": "ACM Press",
-	"stemmed": ["a", "studi", "of", "scalar", "compil", "techniqu", "for", "pipelin", "supercomput"],
-	"tag": ["case study", "compilation", "pipes and filters"],
+	"stemmed": [
+		"a",
+		"studi",
+		"of",
+		"scalar",
+		"compil",
+		"techniqu",
+		"for",
+		"pipelin",
+		"supercomput"
+	],
+	"tag": [
+		"case study",
+		"compilation",
+		"pipes and filters"
+	],
 	"title": "A Study of Scalar Compilation Techniques for Pipelined Supercomputers",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

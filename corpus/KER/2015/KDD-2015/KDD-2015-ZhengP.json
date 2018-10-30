@@ -1,14 +1,35 @@
 {
-	"author": ["Yan Zheng", "Jeff M. Phillips"],
-	"booktitle": "KDD",
+	"author": [
+		"Yan Zheng",
+		"Jeff M. Phillips"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/ZhengP15",
 	"doi": "10.1145/2783258.2783357",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783357",
 	"pages": "1533-1542",
 	"publisher": "ACM",
-	"stemmed": ["l", "error", "and", "bandwidth", "select", "for", "kernel", "densiti", "estim", "of", "larg", "data"],
-	"tag": ["fault", "kernel", "scalability"],
+	"stemmed": [
+		"l",
+		"error",
+		"and",
+		"bandwidth",
+		"select",
+		"for",
+		"kernel",
+		"densiti",
+		"estim",
+		"of",
+		"larg",
+		"data"
+	],
+	"tag": [
+		"fault",
+		"kernel",
+		"scalability"
+	],
 	"title": "L∞ Error and Bandwidth Selection for Kernel Density Estimates of Large Data",
 	"type": "inproceedings",
 	"venue": "KDD",

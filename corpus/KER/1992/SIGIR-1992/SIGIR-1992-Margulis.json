@@ -1,6 +1,7 @@
 {
 	"author": "Eugene L. Margulis",
 	"booktitle": "Proceedings of the 15th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1992/P177.pdf",
 	"crossref": "conf/sigir/92",
 	"dblpkey": "conf/sigir/Margulis92",
@@ -8,8 +9,17 @@
 	"ee": "http://doi.acm.org/10.1145/133160.133195",
 	"pages": "177-189",
 	"publisher": "ACM",
-	"stemmed": ["n", "poisson", "document", "model"],
-	"tag": ["documentation", "modelling", "named"],
+	"stemmed": [
+		"n",
+		"poisson",
+		"document",
+		"model"
+	],
+	"tag": [
+		"documentation",
+		"modelling",
+		"named"
+	],
 	"title": "N-Poisson — Document Modelling",
 	"type": "inproceedings",
 	"venue": "SIGIR",

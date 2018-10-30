@@ -1,6 +1,9 @@
 {
-	"author": ["Wilf R. LaLonde", "Mark Van Gulik"],
-	"booktitle": "Proceedings of the Third Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"author": [
+		"Wilf R. LaLonde",
+		"Mark Van Gulik"
+	],
+	"booktitle": "Proceedings of the Third Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1988",
 	"dblpkey": "conf/oopsla/LaLondeG88",
@@ -10,8 +13,22 @@
 	"isbn": "0-89791-284-5",
 	"pages": "105-122",
 	"publisher": "ACM",
-	"stemmed": ["build", "a", "backtrack", "facil", "in", "smalltalk", "without", "kernel", "support"],
-	"tag": ["backtracking", "kernel", "smalltalk"],
+	"stemmed": [
+		"build",
+		"a",
+		"backtrack",
+		"facil",
+		"in",
+		"smalltalk",
+		"without",
+		"kernel",
+		"support"
+	],
+	"tag": [
+		"backtracking",
+		"kernel",
+		"smalltalk"
+	],
 	"title": "Building a Backtracking Facility in Smalltalk Without Kernel Support",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

@@ -1,6 +1,10 @@
 {
-	"author": ["Kedar S. Namjoshi", "Richard J. Trefler"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Kedar S. Namjoshi",
+		"Richard J. Trefler"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2012",
 	"dblpkey": "conf/vmcai/NamjoshiT12",
 	"doi": "10.1007/978-3-642-27940-9_23",
@@ -10,11 +14,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["local", "symmetri", "and", "composit", "verif"],
-	"tag": ["composition", "symmetry", "verification"],
+	"stemmed": [
+		"local",
+		"symmetri",
+		"and",
+		"composit",
+		"verif"
+	],
+	"tag": [
+		"composition",
+		"symmetry",
+		"verification"
+	],
 	"title": "Local Symmetry and Compositional Verification",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 7148,
+	"volume": "7148",
 	"year": 2012
 }

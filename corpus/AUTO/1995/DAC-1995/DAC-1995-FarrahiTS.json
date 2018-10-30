@@ -1,13 +1,29 @@
 {
-	"author": ["Amir H. Farrahi", "Gustavo E. Téllez", "Majid Sarrafzadeh"],
-	"booktitle": "DAC",
+	"author": [
+		"Amir H. Farrahi",
+		"Gustavo E. Téllez",
+		"Majid Sarrafzadeh"
+	],
+	"booktitle": "Proceedings of the 32nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/FarrahiTS95",
 	"doi": "10.1145/217474.217503",
 	"ee": "http://doi.acm.org/10.1145/217474.217503",
 	"pages": "36-41",
 	"publisher": "ACM Press",
-	"stemmed": ["memori", "segment", "to", "exploit", "sleep", "mode", "oper"],
-	"tag": ["memory management", "segmentation"],
+	"stemmed": [
+		"memori",
+		"segment",
+		"to",
+		"exploit",
+		"sleep",
+		"mode",
+		"oper"
+	],
+	"tag": [
+		"memory management",
+		"segmentation"
+	],
 	"title": "Memory Segmentation to Exploit Sleep Mode Operation",
 	"type": "inproceedings",
 	"venue": "DAC",

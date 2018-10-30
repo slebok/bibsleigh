@@ -1,6 +1,10 @@
 {
-	"author": ["Amro Awad", "Yan Solihin"],
-	"booktitle": "HPCA",
+	"author": [
+		"Amro Awad",
+		"Yan Solihin"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/AwadS14",
 	"doi": "10.1109/HPCA.2014.6835935",
@@ -8,8 +12,22 @@
 	"pages": "237-247",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["stm", "clone", "the", "spatial", "and", "tempor", "memori", "access", "behavior"],
-	"tag": ["behaviour", "memory management", "named"],
+	"stemmed": [
+		"stm",
+		"clone",
+		"the",
+		"spatial",
+		"and",
+		"tempor",
+		"memori",
+		"access",
+		"behavior"
+	],
+	"tag": [
+		"behaviour",
+		"memory management",
+		"named"
+	],
 	"title": "STM: Cloning the spatial and temporal memory access behavior",
 	"type": "inproceedings",
 	"venue": "HPCA",

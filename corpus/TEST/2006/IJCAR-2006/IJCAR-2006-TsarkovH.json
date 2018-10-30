@@ -1,6 +1,10 @@
 {
-	"author": ["Dmitry Tsarkov", "Ian Horrocks"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Dmitry Tsarkov",
+		"Ian Horrocks"
+	],
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/TsarkovH06",
 	"doi": "10.1007/11814771_26",
@@ -10,11 +14,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["fa", "ct", "descript", "logic", "reason", "system", "descript"],
-	"tag": ["logic"],
+	"stemmed": [
+		"fa",
+		"ct",
+		"descript",
+		"logic",
+		"reason",
+		"system",
+		"descript"
+	],
+	"tag": [
+		"logic"
+	],
 	"title": "FaCT++ Description Logic Reasoner: System Description",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

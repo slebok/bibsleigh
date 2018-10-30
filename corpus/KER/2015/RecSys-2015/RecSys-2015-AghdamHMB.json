@@ -1,14 +1,37 @@
 {
-	"author": ["Mehdi Hosseinzadeh Aghdam", "Negar Hariri", "Bamshad Mobasher", "Robin D. Burke"],
-	"booktitle": "RecSys",
+	"author": [
+		"Mehdi Hosseinzadeh Aghdam",
+		"Negar Hariri",
+		"Bamshad Mobasher",
+		"Robin D. Burke"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2015",
 	"dblpkey": "conf/recsys/AghdamHMB15",
 	"doi": "10.1145/2792838.2799684",
 	"ee": "http://doi.acm.org/10.1145/2792838.2799684",
 	"pages": "241-244",
 	"publisher": "ACM",
-	"stemmed": ["adapt", "recommend", "to", "contextu", "chang", "use", "hierarch", "hidden", "markov", "model"],
-	"tag": ["adaptation", "markov", "modelling", "recommendation", "using"],
+	"stemmed": [
+		"adapt",
+		"recommend",
+		"to",
+		"contextu",
+		"chang",
+		"use",
+		"hierarch",
+		"hidden",
+		"markov",
+		"model"
+	],
+	"tag": [
+		"adaptation",
+		"markov",
+		"modelling",
+		"recommendation",
+		"using"
+	],
 	"title": "Adapting Recommendations to Contextual Changes Using Hierarchical Hidden Markov Models",
 	"type": "inproceedings",
 	"venue": "RecSys",

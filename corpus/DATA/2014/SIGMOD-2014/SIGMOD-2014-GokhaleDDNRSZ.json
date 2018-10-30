@@ -1,6 +1,14 @@
 {
-	"author": ["Chaitanya Gokhale", "Sanjib Das", "AnHai Doan", "Jeffrey F. Naughton", "Narasimhan Rampalli", "Jude W. Shavlik", "Xiaojin Zhu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Chaitanya Gokhale",
+		"Sanjib Das",
+		"AnHai Doan",
+		"Jeffrey F. Naughton",
+		"Narasimhan Rampalli",
+		"Jude W. Shavlik",
+		"Xiaojin Zhu"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/GokhaleDDNRSZ14",
@@ -8,8 +16,19 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2588576",
 	"pages": "601-612",
 	"publisher": "ACM",
-	"stemmed": ["corleon", "hand", "off", "crowdsourc", "for", "entiti", "match"],
-	"tag": ["crowdsourcing", "named"],
+	"stemmed": [
+		"corleon",
+		"hand",
+		"off",
+		"crowdsourc",
+		"for",
+		"entiti",
+		"match"
+	],
+	"tag": [
+		"crowdsourcing",
+		"named"
+	],
 	"title": "Corleone: hands-off crowdsourcing for entity matching",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

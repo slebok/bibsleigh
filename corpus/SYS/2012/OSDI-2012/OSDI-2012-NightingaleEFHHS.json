@@ -1,12 +1,24 @@
 {
-	"author": ["Edmund B. Nightingale", "Jeremy Elson", "Jinliang Fan", "Owen S. Hofmann", "Jon Howell", "Yutaka Suzue"],
-	"booktitle": "OSDI",
+	"author": [
+		"Edmund B. Nightingale",
+		"Jeremy Elson",
+		"Jinliang Fan",
+		"Owen S. Hofmann",
+		"Jon Howell",
+		"Yutaka Suzue"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2012",
 	"dblpkey": "conf/osdi/NightingaleEFHHS12",
 	"ee": "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/nightingale",
 	"pages": "1-15",
 	"publisher": "USENIX Association",
-	"stemmed": ["flat", "datacent", "storag"],
+	"stemmed": [
+		"flat",
+		"datacent",
+		"storag"
+	],
 	"title": "Flat Datacenter Storage",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,7 +1,12 @@
 {
-	"author": ["David Evans", "John V. Guttag", "James J. Horning", "Yang Meng Tan"],
+	"author": [
+		"David Evans",
+		"John V. Guttag",
+		"James J. Horning",
+		"Yang Meng Tan"
+	],
 	"booktitle": "Proceedings of the Second Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/1994",
 	"dblpkey": "conf/sigsoft/EvansGHT94",
 	"doi": "10.1145/193173.195297",
@@ -9,8 +14,23 @@
 	"ee": "http://doi.acm.org/10.1145/193173.195297",
 	"pages": "87-96",
 	"publisher": "ACM",
-	"stemmed": ["lc", "lint", "a", "tool", "for", "use", "specif", "to", "check", "code"],
-	"tag": ["named", "specification", "using"],
+	"stemmed": [
+		"lc",
+		"lint",
+		"a",
+		"tool",
+		"for",
+		"use",
+		"specif",
+		"to",
+		"check",
+		"code"
+	],
+	"tag": [
+		"named",
+		"specification",
+		"using"
+	],
 	"title": "LCLint: A Tool for Using Specifications to Check Code",
 	"type": "inproceedings",
 	"venue": "FSE",

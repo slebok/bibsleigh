@@ -1,14 +1,35 @@
 {
-	"author": ["Dongkun Shin", "Jihong Kim", "Seongsoo Lee"],
-	"booktitle": "DAC",
+	"author": [
+		"Dongkun Shin",
+		"Jihong Kim",
+		"Seongsoo Lee"
+	],
+	"booktitle": "Proceedings of the 38th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2001",
 	"dblpkey": "conf/dac/ShinKL01",
 	"doi": "10.1145/378239.378551",
 	"ee": "http://doi.acm.org/10.1145/378239.378551",
 	"pages": "438-443",
 	"publisher": "ACM",
-	"stemmed": ["low", "energi", "intra", "task", "voltag", "schedul", "use", "static", "time", "analysi"],
-	"tag": ["analysis", "energy", "scheduling", "using"],
+	"stemmed": [
+		"low",
+		"energi",
+		"intra",
+		"task",
+		"voltag",
+		"schedul",
+		"use",
+		"static",
+		"time",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"energy",
+		"scheduling",
+		"using"
+	],
 	"title": "Low-Energy Intra-Task Voltage Scheduling Using Static Timing Analysis",
 	"type": "inproceedings",
 	"venue": "DAC",

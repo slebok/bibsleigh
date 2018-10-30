@@ -1,14 +1,48 @@
 {
-	"author": ["Calton Pu", "Gail E. Kaiser", "Norman C. Hutchinson"],
-	"booktitle": "VLDB",
-	"cite": ["conf/vldb/BancilhonKK85", "conf/berkeley/CeriO82", "journals/spe/Feldman79", "conf/sigmod/Garcia-MolinaS87", "...", "...", "...", "...", "journals/tods/KungR81", "journals/tse/LeuB87", "...", "...", "...", "conf/hpts/SalemGA87", "...", "conf/sigmod/StonebrakerR86", "journals/sigmod/Thatte88", "..."],
+	"author": [
+		"Calton Pu",
+		"Gail E. Kaiser",
+		"Norman C. Hutchinson"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/vldb/BancilhonKK85",
+		"conf/berkeley/CeriO82",
+		"journals/spe/Feldman79",
+		"conf/sigmod/Garcia-MolinaS87",
+		"...",
+		"...",
+		"...",
+		"...",
+		"journals/tods/KungR81",
+		"journals/tse/LeuB87",
+		"...",
+		"...",
+		"...",
+		"conf/hpts/SalemGA87",
+		"...",
+		"conf/sigmod/StonebrakerR86",
+		"journals/sigmod/Thatte88",
+		"..."
+	],
 	"crossref": "conf/vldb/88",
 	"dblpkey": "conf/vldb/PuKH88",
 	"ee": "http://www.vldb.org/conf/1988/P026.PDF",
 	"pages": "26-37",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["split", "transact", "for", "open", "end", "activ"],
-	"tag": ["process", "transaction"],
+	"stemmed": [
+		"split",
+		"transact",
+		"for",
+		"open",
+		"end",
+		"activ"
+	],
+	"tag": [
+		"process",
+		"transaction"
+	],
 	"title": "Split-Transactions for Open-Ended Activities",
 	"type": "inproceedings",
 	"venue": "VLDB",

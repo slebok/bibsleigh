@@ -1,15 +1,35 @@
 {
-	"author": ["Yunseok Rhee", "Joonwon Lee"],
-	"booktitle": "HPCA",
+	"author": [
+		"Yunseok Rhee",
+		"Joonwon Lee"
+	],
+	"booktitle": "Proceedings of the Fifth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1999",
 	"dblpkey": "conf/hpca/RheeL99",
 	"doi": "10.1109/HPCA.1999.744367",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1999.744367", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744367"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1999.744367",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744367"
+	],
 	"pages": "223-226",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "scalabl", "cach", "coher", "scheme", "exploit", "wormhol", "rout", "network"],
-	"tag": ["network", "scalability"],
+	"stemmed": [
+		"a",
+		"scalabl",
+		"cach",
+		"coher",
+		"scheme",
+		"exploit",
+		"wormhol",
+		"rout",
+		"network"
+	],
+	"tag": [
+		"network",
+		"scalability"
+	],
 	"title": "A Scalable Cache Coherent Scheme Exploiting Wormhole Routing Networks",
 	"type": "inproceedings",
 	"venue": "HPCA",

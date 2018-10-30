@@ -1,14 +1,43 @@
 {
-	"author": ["José A. Blakeley", "Neil Coburn", "Per-Åke Larson"],
-	"booktitle": "VLDB",
-	"cite": ["conf/vldb/AdibaL80", "...", "conf/sigmod/BlakeleyLT86", "journals/tods/BunemanC79", "...", "conf/sigmod/HammerS78", "conf/vldb/LarsonY85", "conf/sigmod/LindsayHM86", "books/cs/Maier83", "conf/vldb/RosenkrantzH80", "journals/is/TsichritzisK78"],
+	"author": [
+		"José A. Blakeley",
+		"Neil Coburn",
+		"Per-Åke Larson"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/vldb/AdibaL80",
+		"...",
+		"conf/sigmod/BlakeleyLT86",
+		"journals/tods/BunemanC79",
+		"...",
+		"conf/sigmod/HammerS78",
+		"conf/vldb/LarsonY85",
+		"conf/sigmod/LindsayHM86",
+		"books/cs/Maier83",
+		"conf/vldb/RosenkrantzH80",
+		"journals/is/TsichritzisK78"
+	],
 	"crossref": "conf/vldb/86",
 	"dblpkey": "conf/vldb/BlakeleyCL86",
 	"ee": "http://www.vldb.org/conf/1986/P457.PDF",
 	"pages": "457-466",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["updat", "deriv", "relat", "detect", "irrelev", "and", "autonom", "comput", "updat"],
-	"tag": ["detection"],
+	"stemmed": [
+		"updat",
+		"deriv",
+		"relat",
+		"detect",
+		"irrelev",
+		"and",
+		"autonom",
+		"comput",
+		"updat"
+	],
+	"tag": [
+		"detection"
+	],
 	"title": "Updating Derived Relations: Detecting Irrelevant and Autonomously Computable Updates",
 	"type": "inproceedings",
 	"venue": "VLDB",

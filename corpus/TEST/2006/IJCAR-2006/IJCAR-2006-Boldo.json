@@ -1,6 +1,7 @@
 {
 	"author": "Sylvie Boldo",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/Boldo06",
 	"doi": "10.1007/11814771_6",
@@ -10,11 +11,33 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["pitfal", "of", "a", "full", "float", "point", "proof", "exampl", "on", "the", "formal", "proof", "of", "the", "veltkamp", "dekker", "algorithm"],
-	"tag": ["algorithm", "float", "proving"],
+	"stemmed": [
+		"pitfal",
+		"of",
+		"a",
+		"full",
+		"float",
+		"point",
+		"proof",
+		"exampl",
+		"on",
+		"the",
+		"formal",
+		"proof",
+		"of",
+		"the",
+		"veltkamp",
+		"dekker",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"float",
+		"proving"
+	],
 	"title": "Pitfalls of a Full Floating-Point Proof: Example on the Formal Proof of the Veltkamp/Dekker Algorithms",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

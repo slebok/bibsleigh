@@ -1,14 +1,26 @@
 {
 	"author": "James Allan",
 	"booktitle": "Proceedings of the 19th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1996/P270.pdf",
 	"dblpkey": "conf/sigir/Allan96",
 	"doi": "10.1145/243199.243274",
 	"ee": "http://doi.acm.org/10.1145/243199.243274",
 	"pages": "270-278",
 	"publisher": "ACM",
-	"stemmed": ["increment", "relev", "feedback", "for", "inform", "filter"],
-	"tag": ["feedback", "incremental", "information management"],
+	"stemmed": [
+		"increment",
+		"relev",
+		"feedback",
+		"for",
+		"inform",
+		"filter"
+	],
+	"tag": [
+		"feedback",
+		"incremental",
+		"information management"
+	],
 	"title": "Incremental Relevance Feedback for Information Filtering",
 	"type": "inproceedings",
 	"venue": "SIGIR",

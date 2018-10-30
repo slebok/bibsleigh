@@ -1,13 +1,33 @@
 {
-	"author": ["Rathin Putatunda", "David Smith", "Stephen McNeary", "James Crabbe"],
-	"booktitle": "DAC",
+	"author": [
+		"Rathin Putatunda",
+		"David Smith",
+		"Stephen McNeary",
+		"James Crabbe"
+	],
+	"booktitle": "Proceedings of the 23rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/PutatundaSMC86",
 	"doi": "10.1145/318013.318153",
 	"ee": "http://doi.acm.org/10.1145/318013.318153",
 	"pages": "736-743",
 	"publisher": "IEEE Computer Society Press",
-	"stemmed": ["happi", "a", "chip", "compil", "base", "on", "doubl", "level", "metal", "technolog"],
-	"tag": ["compilation", "named"],
+	"stemmed": [
+		"happi",
+		"a",
+		"chip",
+		"compil",
+		"base",
+		"on",
+		"doubl",
+		"level",
+		"metal",
+		"technolog"
+	],
+	"tag": [
+		"compilation",
+		"named"
+	],
 	"title": "HAPPI: a chip compiler based on double-level-metal technology",
 	"type": "inproceedings",
 	"venue": "DAC",

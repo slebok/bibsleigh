@@ -1,6 +1,7 @@
 {
 	"author": "Ming-Chien Shan",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD93/P422.PDF",
 	"crossref": "conf/sigmod/93",
 	"dblpkey": "conf/sigmod/Shan93",
@@ -8,8 +9,17 @@
 	"ee": "http://doi.acm.org/10.1145/170035.170111",
 	"pages": "422-425",
 	"publisher": "ACM Press",
-	"stemmed": ["pegasus", "architectur", "and", "design", "principl"],
-	"tag": ["architecture", "design"],
+	"stemmed": [
+		"pegasus",
+		"architectur",
+		"and",
+		"design",
+		"principl"
+	],
+	"tag": [
+		"architecture",
+		"design"
+	],
 	"title": "Pegasus Architecture and Design Principles",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

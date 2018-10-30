@@ -1,15 +1,33 @@
 {
-	"author": ["C. Scott Ananian", "Krste Asanovic", "Bradley C. Kuszmaul", "Charles E. Leiserson", "Sean Lie"],
-	"booktitle": "HPCA",
+	"author": [
+		"C. Scott Ananian",
+		"Krste Asanovic",
+		"Bradley C. Kuszmaul",
+		"Charles E. Leiserson",
+		"Sean Lie"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2005",
 	"dblpkey": "conf/hpca/AnanianAKLL05",
 	"doi": "10.1109/HPCA.2005.41",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2005.41", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2005.41"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2005.41",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2005.41"
+	],
 	"pages": "316-327",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["unbound", "transact", "memori"],
-	"tag": ["bound", "memory management", "transaction"],
+	"stemmed": [
+		"unbound",
+		"transact",
+		"memori"
+	],
+	"tag": [
+		"bound",
+		"memory management",
+		"transaction"
+	],
 	"title": "Unbounded Transactional Memory",
 	"type": "inproceedings",
 	"venue": "HPCA",

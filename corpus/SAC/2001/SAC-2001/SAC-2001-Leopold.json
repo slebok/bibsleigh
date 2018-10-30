@@ -1,14 +1,26 @@
 {
 	"author": "Claudia Leopold",
 	"booktitle": "Proceedings of the 16th Symposium on Applied Computing",
+	"booktitleshort": "SAC",
 	"crossref": "conf/sac/2001",
 	"dblpkey": "conf/sac/Leopold01",
 	"doi": "10.1145/372202.372462",
 	"ee": "http://doi.acm.org/10.1145/372202.372462",
 	"pages": "560-564",
 	"publisher": "ACM",
-	"stemmed": ["exploit", "non", "uniform", "reus", "for", "cach", "optim"],
-	"tag": ["optimisation", "reuse"],
+	"stemmed": [
+		"exploit",
+		"non",
+		"uniform",
+		"reus",
+		"for",
+		"cach",
+		"optim"
+	],
+	"tag": [
+		"optimisation",
+		"reuse"
+	],
 	"title": "Exploiting non-uniform reuse for cache optimization",
 	"type": "inproceedings",
 	"venue": "SAC",

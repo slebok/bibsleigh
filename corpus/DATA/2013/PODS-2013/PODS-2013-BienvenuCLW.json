@@ -1,14 +1,39 @@
 {
-	"author": ["Meghyn Bienvenu", "Balder ten Cate", "Carsten Lutz", "Frank Wolter"],
-	"booktitle": "PODS",
+	"author": [
+		"Meghyn Bienvenu",
+		"Balder ten Cate",
+		"Carsten Lutz",
+		"Frank Wolter"
+	],
+	"booktitle": "Proceedings of the 32nd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2013",
 	"dblpkey": "conf/pods/BienvenuCLW13",
 	"doi": "10.1145/2463664.2465223",
 	"ee": "http://doi.acm.org/10.1145/2463664.2465223",
 	"pages": "213-224",
 	"publisher": "ACM",
-	"stemmed": ["ontolog", "base", "data", "access", "a", "studi", "through", "disjunct", "datalog", "csp", "and", "mmsnp"],
-	"tag": ["case study", "csp", "data access", "datalog", "ontology"],
+	"stemmed": [
+		"ontolog",
+		"base",
+		"data",
+		"access",
+		"a",
+		"studi",
+		"through",
+		"disjunct",
+		"datalog",
+		"csp",
+		"and",
+		"mmsnp"
+	],
+	"tag": [
+		"case study",
+		"csp",
+		"data access",
+		"datalog",
+		"ontology"
+	],
 	"title": "Ontology-based data access: a study through disjunctive datalog, CSP, and MMSNP",
 	"type": "inproceedings",
 	"venue": "PODS",

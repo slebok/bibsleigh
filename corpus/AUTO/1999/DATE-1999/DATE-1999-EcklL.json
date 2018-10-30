@@ -1,6 +1,10 @@
 {
-	"author": ["Klaus Eckl", "Christian Legl"],
-	"booktitle": "DATE",
+	"author": [
+		"Klaus Eckl",
+		"Christian Legl"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/EcklL99",
 	"doi": "10.1109/DATE.1999.761198",
@@ -8,8 +12,18 @@
 	"pages": "650-",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["retim", "sequenti", "circuit", "with", "multipl", "regist", "class"],
-	"tag": ["multi"],
+	"stemmed": [
+		"retim",
+		"sequenti",
+		"circuit",
+		"with",
+		"multipl",
+		"regist",
+		"class"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "Retiming Sequential Circuits with Multiple Register Classes",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,6 +1,11 @@
 {
-	"author": ["Chang An", "Henry S. Baird", "Pingping Xiu"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Chang An",
+		"Henry S. Baird",
+		"Pingping Xiu"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/AnBX07",
 	"doi": "10.1109/ICDAR.2007.148",
@@ -8,8 +13,16 @@
 	"pages": "252-256",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["iter", "document", "content", "classif"],
-	"tag": ["classification", "documentation"],
+	"stemmed": [
+		"iter",
+		"document",
+		"content",
+		"classif"
+	],
+	"tag": [
+		"classification",
+		"documentation"
+	],
 	"title": "Iterated Document Content Classification",
 	"type": "inproceedings",
 	"venue": "ICDAR",

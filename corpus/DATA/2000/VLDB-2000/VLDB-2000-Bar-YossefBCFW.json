@@ -1,13 +1,35 @@
 {
-	"author": ["Ziv Bar-Yossef", "Alexander C. Berg", "Steve Chien", "Jittat Fakcharoenphol", "Dror Weitz"],
-	"booktitle": "VLDB",
+	"author": [
+		"Ziv Bar-Yossef",
+		"Alexander C. Berg",
+		"Steve Chien",
+		"Jittat Fakcharoenphol",
+		"Dror Weitz"
+	],
+	"booktitle": "Proceedings of the 26th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2000",
 	"dblpkey": "conf/vldb/Bar-YossefBCFW00",
 	"ee": "http://www.vldb.org/conf/2000/P535.pdf",
 	"pages": "535-544",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["approxim", "aggreg", "queri", "about", "web", "page", "via", "random", "walk"],
-	"tag": ["approximate", "query", "random", "web"],
+	"stemmed": [
+		"approxim",
+		"aggreg",
+		"queri",
+		"about",
+		"web",
+		"page",
+		"via",
+		"random",
+		"walk"
+	],
+	"tag": [
+		"approximate",
+		"query",
+		"random",
+		"web"
+	],
 	"title": "Approximating Aggregate Queries about Web Pages via Random Walks",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,14 +1,31 @@
 {
-	"author": ["Ruoming Jin", "Lin Liu", "Charu C. Aggarwal"],
-	"booktitle": "KDD",
+	"author": [
+		"Ruoming Jin",
+		"Lin Liu",
+		"Charu C. Aggarwal"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/JinLA11",
 	"doi": "10.1145/2020408.2020569",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020569",
 	"pages": "992-1000",
 	"publisher": "ACM",
-	"stemmed": ["discov", "high", "reliabl", "subgraph", "in", "uncertain", "graph"],
-	"tag": ["graph", "nondeterminism", "reliability"],
+	"stemmed": [
+		"discov",
+		"high",
+		"reliabl",
+		"subgraph",
+		"in",
+		"uncertain",
+		"graph"
+	],
+	"tag": [
+		"graph",
+		"nondeterminism",
+		"reliability"
+	],
 	"title": "Discovering highly reliable subgraphs in uncertain graphs",
 	"type": "inproceedings",
 	"venue": "KDD",

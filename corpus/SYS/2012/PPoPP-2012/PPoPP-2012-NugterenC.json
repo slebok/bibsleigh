@@ -1,14 +1,39 @@
 {
-	"author": ["Cedric Nugteren", "Henk Corporaal"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Cedric Nugteren",
+		"Henk Corporaal"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/NugterenC12",
 	"doi": "10.1145/2145816.2145859",
 	"ee": "http://doi.acm.org/10.1145/2145816.2145859",
 	"pages": "291-292",
 	"publisher": "ACM",
-	"stemmed": ["the", "boat", "hull", "model", "adapt", "the", "rooflin", "model", "to", "enabl", "perform", "predict", "for", "parallel", "comput"],
-	"tag": ["adaptation", "parallel", "performance", "predict"],
+	"stemmed": [
+		"the",
+		"boat",
+		"hull",
+		"model",
+		"adapt",
+		"the",
+		"rooflin",
+		"model",
+		"to",
+		"enabl",
+		"perform",
+		"predict",
+		"for",
+		"parallel",
+		"comput"
+	],
+	"tag": [
+		"adaptation",
+		"parallel",
+		"performance",
+		"predict"
+	],
 	"title": "The boat hull model: adapting the roofline model to enable performance prediction for parallel computing",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,6 +1,10 @@
 {
-	"author": ["Priyank Kalla", "Maciej J. Ciesielski"],
-	"booktitle": "DATE",
+	"author": [
+		"Priyank Kalla",
+		"Maciej J. Ciesielski"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/KallaC99",
 	"doi": "10.1109/DATE.1999.761196",
@@ -8,8 +12,22 @@
 	"pages": "638-642",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["perform", "driven", "resynthesi", "by", "exploit", "retim", "induc", "state", "regist", "equival"],
-	"tag": ["equivalence", "performance"],
+	"stemmed": [
+		"perform",
+		"driven",
+		"resynthesi",
+		"by",
+		"exploit",
+		"retim",
+		"induc",
+		"state",
+		"regist",
+		"equival"
+	],
+	"tag": [
+		"equivalence",
+		"performance"
+	],
 	"title": "Performance Driven Resynthesis by Exploiting Retiming-Induced State Register Equivalence",
 	"type": "inproceedings",
 	"venue": "DATE",

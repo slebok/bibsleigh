@@ -1,6 +1,11 @@
 {
-	"author": ["Harald Ganzinger", "Christoph Meyer", "Christoph Weidenbach"],
-	"booktitle": "CADE",
+	"author": [
+		"Harald Ganzinger",
+		"Christoph Meyer",
+		"Christoph Weidenbach"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
 	"dblpkey": "conf/cade/GanzingerMW97",
 	"doi": "10.1007/3-540-63104-6_32",
@@ -10,11 +15,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["soft", "type", "for", "order", "resolut"],
-	"tag": ["order", "type system"],
+	"stemmed": [
+		"soft",
+		"type",
+		"for",
+		"order",
+		"resolut"
+	],
+	"tag": [
+		"order",
+		"type system"
+	],
 	"title": "Soft Typing for Ordered Resolution",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1249,
+	"volume": "1249",
 	"year": 1997
 }

@@ -1,6 +1,12 @@
 {
-	"author": ["Norbert Seyff", "Florian Graf", "Neil A. M. Maiden", "Paul Grünbacher"],
-	"booktitle": "REFSQ",
+	"author": [
+		"Norbert Seyff",
+		"Florian Graf",
+		"Neil A. M. Maiden",
+		"Paul Grünbacher"
+	],
+	"booktitle": "Proceedings of the 15th International Working Conference on Requirements Engineering: Foundation for Software Quality",
+	"booktitleshort": "REFSQ",
 	"crossref": "conf/refsq/2009",
 	"dblpkey": "conf/refsq/SeyffGMG09",
 	"doi": "10.1007/978-3-642-02050-6_13",
@@ -9,11 +15,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["scenario", "in", "the", "wild", "experi", "with", "a", "contextu", "requir", "discoveri", "method"],
-	"tag": ["case study", "experience", "requirements"],
+	"stemmed": [
+		"scenario",
+		"in",
+		"the",
+		"wild",
+		"experi",
+		"with",
+		"a",
+		"contextu",
+		"requir",
+		"discoveri",
+		"method"
+	],
+	"tag": [
+		"case study",
+		"experience",
+		"requirements"
+	],
 	"title": "Scenarios in the Wild: Experiences with a Contextual Requirements Discovery Method",
 	"type": "inproceedings",
 	"venue": "REFSQ",
-	"volume": 5512,
+	"volume": "5512",
 	"year": 2009
 }

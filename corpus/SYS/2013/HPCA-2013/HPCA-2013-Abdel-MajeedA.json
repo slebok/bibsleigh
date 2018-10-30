@@ -1,15 +1,35 @@
 {
-	"author": ["Mohammad Abdel-Majeed", "Murali Annavaram"],
-	"booktitle": "HPCA",
+	"author": [
+		"Mohammad Abdel-Majeed",
+		"Murali Annavaram"
+	],
+	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/Abdel-MajeedA13",
 	"doi": "10.1109/HPCA.2013.6522337",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522337", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522337"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2013.6522337",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522337"
+	],
 	"pages": "412-423",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["warp", "regist", "file", "a", "power", "effici", "regist", "file", "for", "gpgpus"],
-	"tag": ["performance"],
+	"stemmed": [
+		"warp",
+		"regist",
+		"file",
+		"a",
+		"power",
+		"effici",
+		"regist",
+		"file",
+		"for",
+		"gpgpus"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Warped register file: A power efficient register file for GPGPUs",
 	"type": "inproceedings",
 	"venue": "HPCA",

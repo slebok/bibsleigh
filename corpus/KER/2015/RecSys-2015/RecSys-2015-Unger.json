@@ -1,14 +1,23 @@
 {
 	"author": "Moshe Unger",
-	"booktitle": "RecSys",
+	"booktitle": "Proceedings of the Ninth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2015",
 	"dblpkey": "conf/recsys/Unger15",
 	"doi": "10.1145/2792838.2796546",
 	"ee": "http://doi.acm.org/10.1145/2792838.2796546",
 	"pages": "383-386",
 	"publisher": "ACM",
-	"stemmed": ["latent", "context", "awar", "recommend", "system"],
-	"tag": ["recommendation"],
+	"stemmed": [
+		"latent",
+		"context",
+		"awar",
+		"recommend",
+		"system"
+	],
+	"tag": [
+		"recommendation"
+	],
 	"title": "Latent Context-Aware Recommender Systems",
 	"type": "inproceedings",
 	"venue": "RecSys",

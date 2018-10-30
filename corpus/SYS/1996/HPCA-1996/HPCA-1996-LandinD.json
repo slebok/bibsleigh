@@ -1,6 +1,10 @@
 {
-	"author": ["Anders Landin", "Fredrik Dahlgren"],
-	"booktitle": "HPCA",
+	"author": [
+		"Anders Landin",
+		"Fredrik Dahlgren"
+	],
+	"booktitle": "Proceedings of the Second International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1996",
 	"dblpkey": "conf/hpca/LandinD96",
 	"doi": "10.1109/HPCA.1996.501177",
@@ -8,8 +12,20 @@
 	"pages": "95-105",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["bus", "base", "coma", "reduc", "traffic", "in", "share", "bus", "multiprocessor"],
-	"tag": ["multi"],
+	"stemmed": [
+		"bus",
+		"base",
+		"coma",
+		"reduc",
+		"traffic",
+		"in",
+		"share",
+		"bus",
+		"multiprocessor"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "Bus-Based COMA — Reducing Traffic in Shared-Bus Multiprocessors",
 	"type": "inproceedings",
 	"venue": "HPCA",

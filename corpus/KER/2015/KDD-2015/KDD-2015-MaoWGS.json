@@ -1,14 +1,31 @@
 {
-	"author": ["Qi Mao", "Li Wang", "Steve Goodison", "Yijun Sun"],
-	"booktitle": "KDD",
+	"author": [
+		"Qi Mao",
+		"Li Wang",
+		"Steve Goodison",
+		"Yijun Sun"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/MaoWGS15",
 	"doi": "10.1145/2783258.2783309",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783309",
 	"pages": "765-774",
 	"publisher": "ACM",
-	"stemmed": ["dimension", "reduct", "via", "graph", "structur", "learn"],
-	"tag": ["graph", "learning", "reduction"],
+	"stemmed": [
+		"dimension",
+		"reduct",
+		"via",
+		"graph",
+		"structur",
+		"learn"
+	],
+	"tag": [
+		"graph",
+		"learning",
+		"reduction"
+	],
 	"title": "Dimensionality Reduction Via Graph Structure Learning",
 	"type": "inproceedings",
 	"venue": "KDD",

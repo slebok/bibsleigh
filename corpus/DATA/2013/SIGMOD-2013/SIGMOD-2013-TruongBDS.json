@@ -1,6 +1,11 @@
 {
-	"author": ["Ba Quan Truong", "Sourav S. Bhowmick", "Curtis E. Dyreson", "Aixin Sun"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ba Quan Truong",
+		"Sourav S. Bhowmick",
+		"Curtis E. Dyreson",
+		"Aixin Sun"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/TruongBDS13",
@@ -8,8 +13,22 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2463699",
 	"pages": "37-48",
 	"publisher": "ACM",
-	"stemmed": ["messiah", "miss", "element", "conscious", "slca", "node", "search", "in", "xml", "data"],
-	"tag": ["named", "xml"],
+	"stemmed": [
+		"messiah",
+		"miss",
+		"element",
+		"conscious",
+		"slca",
+		"node",
+		"search",
+		"in",
+		"xml",
+		"data"
+	],
+	"tag": [
+		"named",
+		"xml"
+	],
 	"title": "MESSIAH: missing element-conscious SLCA nodes search in XML data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

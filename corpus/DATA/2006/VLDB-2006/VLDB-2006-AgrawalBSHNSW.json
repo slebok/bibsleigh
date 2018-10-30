@@ -1,14 +1,35 @@
 {
-	"acmid": 1164231,
-	"author": ["Parag Agrawal", "Omar Benjelloun", "Anish Das Sarma", "Chris Hayworth", "Shubha U. Nabar", "Tomoe Sugihara", "Jennifer Widom"],
-	"booktitle": "VLDB",
+	"acmid": "1164231",
+	"author": [
+		"Parag Agrawal",
+		"Omar Benjelloun",
+		"Anish Das Sarma",
+		"Chris Hayworth",
+		"Shubha U. Nabar",
+		"Tomoe Sugihara",
+		"Jennifer Widom"
+	],
+	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
 	"dblpkey": "conf/vldb/AgrawalBSHNSW06",
 	"ee": "http://www.vldb.org/conf/2006/p1151-agrawal.pdf",
 	"pages": "1151-1154",
 	"publisher": "ACM",
-	"stemmed": ["trio", "a", "system", "for", "data", "uncertainti", "and", "lineag"],
-	"tag": ["named", "nondeterminism"],
+	"stemmed": [
+		"trio",
+		"a",
+		"system",
+		"for",
+		"data",
+		"uncertainti",
+		"and",
+		"lineag"
+	],
+	"tag": [
+		"named",
+		"nondeterminism"
+	],
 	"title": "Trio: A System for Data, Uncertainty, and Lineage",
 	"type": "inproceedings",
 	"venue": "VLDB",

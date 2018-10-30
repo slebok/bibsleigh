@@ -1,14 +1,33 @@
 {
-	"author": ["Tomoharu Ugawa", "Hideya Iwasaki", "Taiichi Yuasa"],
-	"booktitle": "ISMM",
+	"author": [
+		"Tomoharu Ugawa",
+		"Hideya Iwasaki",
+		"Taiichi Yuasa"
+	],
+	"booktitle": "Proceedings of the Ninth International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2010",
 	"dblpkey": "conf/iwmm/UgawaIY10",
 	"doi": "10.1145/1806651.1806664",
 	"ee": "http://doi.acm.org/10.1145/1806651.1806664",
 	"pages": "73-82",
 	"publisher": "ACM",
-	"stemmed": ["improv", "replic", "base", "increment", "garbag", "collect", "for", "embed", "system"],
-	"tag": ["embedded", "garbage collection", "incremental"],
+	"stemmed": [
+		"improv",
+		"replic",
+		"base",
+		"increment",
+		"garbag",
+		"collect",
+		"for",
+		"embed",
+		"system"
+	],
+	"tag": [
+		"embedded",
+		"garbage collection",
+		"incremental"
+	],
 	"title": "Improved replication-based incremental garbage collection for embedded systems",
 	"type": "inproceedings",
 	"venue": "ISMM",

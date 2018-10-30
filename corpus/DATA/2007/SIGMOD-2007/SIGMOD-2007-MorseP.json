@@ -1,6 +1,9 @@
 {
-	"author": ["Michael D. Morse", "Jignesh M. Patel"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Michael D. Morse",
+		"Jignesh M. Patel"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/MorseP07",
@@ -8,8 +11,22 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247544",
 	"pages": "569-580",
 	"publisher": "ACM",
-	"stemmed": ["an", "effici", "and", "accur", "method", "for", "evalu", "time", "seri", "similar"],
-	"tag": ["performance", "similarity"],
+	"stemmed": [
+		"an",
+		"effici",
+		"and",
+		"accur",
+		"method",
+		"for",
+		"evalu",
+		"time",
+		"seri",
+		"similar"
+	],
+	"tag": [
+		"performance",
+		"similarity"
+	],
 	"title": "An efficient and accurate method for evaluating time series similarity",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

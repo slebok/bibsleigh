@@ -1,14 +1,32 @@
 {
-	"author": ["Xia Ning", "George Karypis"],
-	"booktitle": "RecSys",
+	"author": [
+		"Xia Ning",
+		"George Karypis"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2012",
 	"dblpkey": "conf/recsys/NingK12",
 	"doi": "10.1145/2365952.2365983",
 	"ee": "http://doi.acm.org/10.1145/2365952.2365983",
 	"pages": "155-162",
 	"publisher": "ACM",
-	"stemmed": ["spars", "linear", "method", "with", "side", "inform", "for", "top", "n", "recommend"],
-	"tag": ["linear", "recommendation"],
+	"stemmed": [
+		"spars",
+		"linear",
+		"method",
+		"with",
+		"side",
+		"inform",
+		"for",
+		"top",
+		"n",
+		"recommend"
+	],
+	"tag": [
+		"linear",
+		"recommendation"
+	],
 	"title": "Sparse linear methods with side information for top-n recommendations",
 	"type": "inproceedings",
 	"venue": "RecSys",

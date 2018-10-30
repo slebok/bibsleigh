@@ -1,14 +1,31 @@
 {
-	"author": ["Fernanda Lima", "Luigi Carro", "Ricardo Augusto da Luz Reis"],
-	"booktitle": "DAC",
+	"author": [
+		"Fernanda Lima",
+		"Luigi Carro",
+		"Ricardo Augusto da Luz Reis"
+	],
+	"booktitle": "Proceedings of the 40th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2003",
 	"dblpkey": "conf/dac/LimaCR03",
 	"doi": "10.1145/775832.775997",
 	"ee": "http://doi.acm.org/10.1145/775832.775997",
 	"pages": "650-655",
 	"publisher": "ACM",
-	"stemmed": ["design", "fault", "toler", "system", "into", "sram", "base", "fpgas"],
-	"tag": ["design", "fault tolerance"],
+	"stemmed": [
+		"design",
+		"fault",
+		"toler",
+		"system",
+		"into",
+		"sram",
+		"base",
+		"fpgas"
+	],
+	"tag": [
+		"design",
+		"fault tolerance"
+	],
 	"title": "Designing fault tolerant systems into SRAM-based FPGAs",
 	"type": "inproceedings",
 	"venue": "DAC",

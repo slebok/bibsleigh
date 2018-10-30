@@ -1,6 +1,13 @@
 {
-	"author": ["Wenchao Zhou", "Micah Sherr", "Tao Tao", "Xiaozhou Li", "Boon Thau Loo", "Yun Mao"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Wenchao Zhou",
+		"Micah Sherr",
+		"Tao Tao",
+		"Xiaozhou Li",
+		"Boon Thau Loo",
+		"Yun Mao"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/ZhouSTLLM10",
@@ -8,8 +15,24 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807234",
 	"pages": "615-626",
 	"publisher": "ACM",
-	"stemmed": ["effici", "queri", "and", "mainten", "of", "network", "proven", "at", "internet", "scale"],
-	"tag": ["maintenance", "network", "performance", "query"],
+	"stemmed": [
+		"effici",
+		"queri",
+		"and",
+		"mainten",
+		"of",
+		"network",
+		"proven",
+		"at",
+		"internet",
+		"scale"
+	],
+	"tag": [
+		"maintenance",
+		"network",
+		"performance",
+		"query"
+	],
 	"title": "Efficient querying and maintenance of network provenance at internet-scale",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

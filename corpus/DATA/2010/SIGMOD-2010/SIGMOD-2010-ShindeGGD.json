@@ -1,6 +1,11 @@
 {
-	"author": ["Rajendra Shinde", "Ashish Goel", "Pankaj Gupta", "Debojyoti Dutta"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Rajendra Shinde",
+		"Ashish Goel",
+		"Pankaj Gupta",
+		"Debojyoti Dutta"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/ShindeGGD10",
@@ -8,8 +13,24 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807209",
 	"pages": "375-386",
 	"publisher": "ACM",
-	"stemmed": ["similar", "search", "and", "local", "sensit", "hash", "use", "ternari", "content", "address", "memori"],
-	"tag": ["locality", "similarity", "using"],
+	"stemmed": [
+		"similar",
+		"search",
+		"and",
+		"local",
+		"sensit",
+		"hash",
+		"use",
+		"ternari",
+		"content",
+		"address",
+		"memori"
+	],
+	"tag": [
+		"locality",
+		"similarity",
+		"using"
+	],
 	"title": "Similarity search and locality sensitive hashing using ternary content addressable memories",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,31 @@
 {
-	"author": ["Hakbeom Jang", "Channoh Kim", "Jae W. Lee"],
-	"booktitle": "LCTES",
+	"author": [
+		"Hakbeom Jang",
+		"Channoh Kim",
+		"Jae W. Lee"
+	],
+	"booktitle": "Proceedings of the 14th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2013",
 	"dblpkey": "conf/lctrts/JangKL13",
 	"doi": "10.1145/2465554.2465557",
 	"ee": "http://doi.acm.org/10.1145/2465554.2465557",
 	"pages": "55-64",
 	"publisher": "ACM",
-	"stemmed": ["practic", "specul", "parallel", "of", "variabl", "length", "decompress", "algorithm"],
-	"tag": ["algorithm", "parallel"],
+	"stemmed": [
+		"practic",
+		"specul",
+		"parallel",
+		"of",
+		"variabl",
+		"length",
+		"decompress",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"parallel"
+	],
 	"title": "Practical speculative parallelization of variable-length decompression algorithms",
 	"type": "inproceedings",
 	"venue": "LCTES",

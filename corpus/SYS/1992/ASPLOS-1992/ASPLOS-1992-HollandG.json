@@ -1,14 +1,31 @@
 {
-	"author": ["Mark Holland", "Garth A. Gibson"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Mark Holland",
+		"Garth A. Gibson"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1992",
 	"dblpkey": "conf/asplos/HollandG92",
 	"doi": "10.1145/143365.143383",
 	"ee": "http://doi.acm.org/10.1145/143365.143383",
 	"pages": "23-35",
 	"publisher": "ACM Press",
-	"stemmed": ["pariti", "declust", "for", "continu", "oper", "in", "redund", "disk", "array"],
-	"tag": ["array", "clustering"],
+	"stemmed": [
+		"pariti",
+		"declust",
+		"for",
+		"continu",
+		"oper",
+		"in",
+		"redund",
+		"disk",
+		"array"
+	],
+	"tag": [
+		"array",
+		"clustering"
+	],
 	"title": "Parity Declustering for Continuous Operation in Redundant Disk Arrays",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

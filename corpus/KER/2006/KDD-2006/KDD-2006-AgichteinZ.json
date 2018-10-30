@@ -1,14 +1,35 @@
 {
-	"author": ["Eugene Agichtein", "Zijian Zheng"],
-	"booktitle": "KDD",
+	"author": [
+		"Eugene Agichtein",
+		"Zijian Zheng"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/AgichteinZ06",
 	"doi": "10.1145/1150402.1150526",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150526",
 	"pages": "902-908",
 	"publisher": "ACM",
-	"stemmed": ["identifi", "best", "bet", "web", "search", "result", "by", "mine", "past", "user", "behavior"],
-	"tag": ["behaviour", "identification", "mining", "web"],
+	"stemmed": [
+		"identifi",
+		"best",
+		"bet",
+		"web",
+		"search",
+		"result",
+		"by",
+		"mine",
+		"past",
+		"user",
+		"behavior"
+	],
+	"tag": [
+		"behaviour",
+		"identification",
+		"mining",
+		"web"
+	],
 	"title": "Identifying “best bet” web search results by mining past user behavior",
 	"type": "inproceedings",
 	"venue": "KDD",

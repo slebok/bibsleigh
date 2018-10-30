@@ -1,14 +1,29 @@
 {
-	"author": ["Thierry Silbermann", "Immanuel Bayer", "Steffen Rendle"],
-	"booktitle": "RecSys",
+	"author": [
+		"Thierry Silbermann",
+		"Immanuel Bayer",
+		"Steffen Rendle"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2013",
 	"dblpkey": "conf/recsys/SilbermannBR13",
 	"doi": "10.1145/2507157.2507224",
 	"ee": "http://doi.acm.org/10.1145/2507157.2507224",
 	"pages": "403-406",
 	"publisher": "ACM",
-	"stemmed": ["sampl", "select", "for", "mcmc", "base", "recommend", "system"],
-	"tag": ["recommendation"],
+	"stemmed": [
+		"sampl",
+		"select",
+		"for",
+		"mcmc",
+		"base",
+		"recommend",
+		"system"
+	],
+	"tag": [
+		"recommendation"
+	],
 	"title": "Sample selection for MCMC-based recommender systems",
 	"type": "inproceedings",
 	"venue": "RecSys",

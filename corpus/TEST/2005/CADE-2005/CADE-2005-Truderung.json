@@ -1,6 +1,7 @@
 {
 	"author": "Tomasz Truderung",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 20th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2005",
 	"dblpkey": "conf/cade/Truderung05",
 	"doi": "10.1007/11532231_28",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["regular", "protocol", "and", "attack", "with", "regular", "knowledg"],
-	"tag": ["protocol"],
+	"stemmed": [
+		"regular",
+		"protocol",
+		"and",
+		"attack",
+		"with",
+		"regular",
+		"knowledg"
+	],
+	"tag": [
+		"protocol"
+	],
 	"title": "Regular Protocols and Attacks with Regular Knowledge",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 3632,
+	"volume": "3632",
 	"year": 2005
 }

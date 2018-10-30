@@ -1,14 +1,30 @@
 {
-	"author": ["Jerry Kiernan", "Evimaria Terzi"],
-	"booktitle": "KDD",
+	"author": [
+		"Jerry Kiernan",
+		"Evimaria Terzi"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/KiernanT08",
 	"doi": "10.1145/1401890.1401943",
 	"ee": "http://doi.acm.org/10.1145/1401890.1401943",
 	"pages": "417-425",
 	"publisher": "ACM",
-	"stemmed": ["construct", "comprehens", "summari", "of", "larg", "event", "sequenc"],
-	"tag": ["scalability", "sequence", "summary"],
+	"stemmed": [
+		"construct",
+		"comprehens",
+		"summari",
+		"of",
+		"larg",
+		"event",
+		"sequenc"
+	],
+	"tag": [
+		"scalability",
+		"sequence",
+		"summary"
+	],
 	"title": "Constructing comprehensive summaries of large event sequences",
 	"type": "inproceedings",
 	"venue": "KDD",

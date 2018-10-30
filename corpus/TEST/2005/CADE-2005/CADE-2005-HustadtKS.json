@@ -1,6 +1,11 @@
 {
-	"author": ["Ullrich Hustadt", "Boris Konev", "Renate A. Schmidt"],
-	"booktitle": "CADE",
+	"author": [
+		"Ullrich Hustadt",
+		"Boris Konev",
+		"Renate A. Schmidt"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2005",
 	"dblpkey": "conf/cade/HustadtKS05",
 	"doi": "10.1007/11532231_15",
@@ -10,10 +15,17 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["decid", "monod", "fragment", "by", "tempor", "resolut"],
+	"stemmed": [
+		"decid",
+		"monod",
+		"fragment",
+		"by",
+		"tempor",
+		"resolut"
+	],
 	"title": "Deciding Monodic Fragments by Temporal Resolution",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 3632,
+	"volume": "3632",
 	"year": 2005
 }

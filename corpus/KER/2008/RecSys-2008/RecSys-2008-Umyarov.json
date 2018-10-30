@@ -1,14 +1,30 @@
 {
 	"author": "Akhmed Umyarov",
-	"booktitle": "RecSys",
+	"booktitle": "Proceedings of the Second Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2008",
 	"dblpkey": "conf/recsys/Umyarov08",
 	"doi": "10.1145/1454008.1454064",
 	"ee": "http://doi.acm.org/10.1145/1454008.1454064",
 	"pages": "327-330",
 	"publisher": "ACM",
-	"stemmed": ["leverag", "aggreg", "rate", "for", "improv", "predict", "perform", "of", "recommend", "system"],
-	"tag": ["performance", "predict", "recommendation"],
+	"stemmed": [
+		"leverag",
+		"aggreg",
+		"rate",
+		"for",
+		"improv",
+		"predict",
+		"perform",
+		"of",
+		"recommend",
+		"system"
+	],
+	"tag": [
+		"performance",
+		"predict",
+		"recommendation"
+	],
 	"title": "Leveraging aggregate ratings for improving predictive performance of recommender systems",
 	"type": "inproceedings",
 	"venue": "RecSys",

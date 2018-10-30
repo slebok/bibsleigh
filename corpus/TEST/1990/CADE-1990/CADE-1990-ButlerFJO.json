@@ -1,6 +1,12 @@
 {
-	"author": ["Ralph Butler", "Ian T. Foster", "Anita Jindal", "Ross A. Overbeek"],
-	"booktitle": "CADE",
+	"author": [
+		"Ralph Butler",
+		"Ian T. Foster",
+		"Anita Jindal",
+		"Ross A. Overbeek"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/ButlerFJO90",
 	"doi": "10.1007/3-540-52885-7_124",
@@ -10,11 +16,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "high", "perform", "parallel", "theorem", "prover"],
-	"tag": ["parallel", "proving", "theorem proving"],
+	"stemmed": [
+		"a",
+		"high",
+		"perform",
+		"parallel",
+		"theorem",
+		"prover"
+	],
+	"tag": [
+		"parallel",
+		"proving",
+		"theorem proving"
+	],
 	"title": "A High-Performance Parallel Theorem Prover",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

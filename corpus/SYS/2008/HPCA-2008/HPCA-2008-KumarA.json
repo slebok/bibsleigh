@@ -1,6 +1,10 @@
 {
-	"author": ["Sumeet Kumar", "Aneesh Aggarwal"],
-	"booktitle": "HPCA",
+	"author": [
+		"Sumeet Kumar",
+		"Aneesh Aggarwal"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2008",
 	"dblpkey": "conf/hpca/KumarA08",
 	"doi": "10.1109/HPCA.2008.4658656",
@@ -8,8 +12,20 @@
 	"pages": "405-414",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["specul", "instruct", "valid", "for", "perform", "reliabl", "trade", "off"],
-	"tag": ["trade-off", "validation"],
+	"stemmed": [
+		"specul",
+		"instruct",
+		"valid",
+		"for",
+		"perform",
+		"reliabl",
+		"trade",
+		"off"
+	],
+	"tag": [
+		"trade-off",
+		"validation"
+	],
 	"title": "Speculative instruction validation for performance-reliability trade-off",
 	"type": "inproceedings",
 	"venue": "HPCA",

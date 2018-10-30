@@ -1,13 +1,38 @@
 {
-	"author": ["Kenneth M. Butler", "Don E. Ross", "Rohit Kapur", "M. Ray Mercer"],
-	"booktitle": "DAC",
+	"author": [
+		"Kenneth M. Butler",
+		"Don E. Ross",
+		"Rohit Kapur",
+		"M. Ray Mercer"
+	],
+	"booktitle": "Proceedings of the 28th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/ButlerRKM91",
 	"doi": "10.1145/127601.127705",
 	"ee": "http://doi.acm.org/10.1145/127601.127705",
 	"pages": "417-420",
 	"publisher": "ACM",
-	"stemmed": ["heurist", "to", "comput", "variabl", "order", "for", "effici", "manipul", "of", "order", "binari", "decis", "diagram"],
-	"tag": ["diagrams", "heuristic", "order", "performance"],
+	"stemmed": [
+		"heurist",
+		"to",
+		"comput",
+		"variabl",
+		"order",
+		"for",
+		"effici",
+		"manipul",
+		"of",
+		"order",
+		"binari",
+		"decis",
+		"diagram"
+	],
+	"tag": [
+		"diagrams",
+		"heuristic",
+		"order",
+		"performance"
+	],
 	"title": "Heuristics to Compute Variable Orderings for Efficient Manipulation of Ordered Binary Decision Diagrams",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,6 +1,7 @@
 {
 	"author": "Radek Burget",
-	"booktitle": "ICDAR",
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/Burget07",
 	"doi": "10.1109/ICDAR.2007.155",
@@ -8,8 +9,21 @@
 	"pages": "624-628",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["layout", "base", "inform", "extract", "from", "html", "document"],
-	"tag": ["documentation", "html", "information management", "layout"],
+	"stemmed": [
+		"layout",
+		"base",
+		"inform",
+		"extract",
+		"from",
+		"html",
+		"document"
+	],
+	"tag": [
+		"documentation",
+		"html",
+		"information management",
+		"layout"
+	],
 	"title": "Layout Based Information Extraction from HTML Documents",
 	"type": "inproceedings",
 	"venue": "ICDAR",

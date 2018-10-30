@@ -1,6 +1,13 @@
 {
-	"author": ["Botong Huang", "Matthias Böhm", "Yuanyuan Tian", "Berthold Reinwald", "Shirish Tatikonda", "Frederick R. Reiss"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Botong Huang",
+		"Matthias Böhm",
+		"Yuanyuan Tian",
+		"Berthold Reinwald",
+		"Shirish Tatikonda",
+		"Frederick R. Reiss"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/HuangBTRTR15",
@@ -8,8 +15,19 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2749432",
 	"pages": "137-152",
 	"publisher": "ACM",
-	"stemmed": ["resourc", "elast", "for", "larg", "scale", "machin", "learn"],
-	"tag": ["machine learning", "scalability"],
+	"stemmed": [
+		"resourc",
+		"elast",
+		"for",
+		"larg",
+		"scale",
+		"machin",
+		"learn"
+	],
+	"tag": [
+		"machine learning",
+		"scalability"
+	],
 	"title": "Resource Elasticity for Large-Scale Machine Learning",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

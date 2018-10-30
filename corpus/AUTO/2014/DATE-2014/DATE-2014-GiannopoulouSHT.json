@@ -1,14 +1,32 @@
 {
-	"author": ["Georgia Giannopoulou", "Nikolay Stoimenov", "Pengcheng Huang", "Lothar Thiele"],
-	"booktitle": "DATE",
+	"author": [
+		"Georgia Giannopoulou",
+		"Nikolay Stoimenov",
+		"Pengcheng Huang",
+		"Lothar Thiele"
+	],
+	"booktitle": "Proceedings of the 18th Conference and Exhibition on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2014",
 	"dblpkey": "conf/date/GiannopoulouSHT14",
 	"doi": "10.7873/DATE.2014.111",
 	"ee": "http://dx.doi.org/10.7873/DATE.2014.111",
 	"pages": "1-6",
 	"publisher": "IEEE",
-	"stemmed": ["map", "mix", "critic", "applic", "on", "multi", "core", "architectur"],
-	"tag": ["architecture", "manycore"],
+	"stemmed": [
+		"map",
+		"mix",
+		"critic",
+		"applic",
+		"on",
+		"multi",
+		"core",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"manycore"
+	],
 	"title": "Mapping mixed-criticality applications on multi-core architectures",
 	"type": "inproceedings",
 	"venue": "DATE",

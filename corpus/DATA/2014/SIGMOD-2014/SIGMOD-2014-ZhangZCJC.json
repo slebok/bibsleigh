@@ -1,6 +1,12 @@
 {
-	"author": ["Chen Jason Zhang", "Ziyuan Zhao", "Lei Chen", "H. V. Jagadish", "Caleb Chen Cao"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Chen Jason Zhang",
+		"Ziyuan Zhao",
+		"Lei Chen",
+		"H. V. Jagadish",
+		"Caleb Chen Cao"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/ZhangZCJC14",
@@ -8,8 +14,17 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2594515",
 	"pages": "721-724",
 	"publisher": "ACM",
-	"stemmed": ["crowd", "matcher", "crowd", "assist", "schema", "match"],
-	"tag": ["named"],
+	"stemmed": [
+		"crowd",
+		"matcher",
+		"crowd",
+		"assist",
+		"schema",
+		"match"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "CrowdMatcher: crowd-assisted schema matching",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

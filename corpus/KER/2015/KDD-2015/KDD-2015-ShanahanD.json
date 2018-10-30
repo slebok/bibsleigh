@@ -1,14 +1,31 @@
 {
-	"author": ["James G. Shanahan", "Laing Dai"],
-	"booktitle": "KDD",
+	"author": [
+		"James G. Shanahan",
+		"Laing Dai"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/ShanahanD15",
 	"doi": "10.1145/2783258.2789993",
 	"ee": "http://doi.acm.org/10.1145/2783258.2789993",
 	"pages": "2323-2324",
 	"publisher": "ACM",
-	"stemmed": ["larg", "scale", "distribut", "data", "scienc", "use", "apach", "spark"],
-	"tag": ["distributed", "scalability", "using"],
+	"stemmed": [
+		"larg",
+		"scale",
+		"distribut",
+		"data",
+		"scienc",
+		"use",
+		"apach",
+		"spark"
+	],
+	"tag": [
+		"distributed",
+		"scalability",
+		"using"
+	],
 	"title": "Large Scale Distributed Data Science using Apache Spark",
 	"type": "inproceedings",
 	"venue": "KDD",

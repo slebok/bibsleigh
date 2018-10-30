@@ -1,6 +1,10 @@
 {
-	"author": ["Meenakshi Kaul", "Ranga Vemuri"],
-	"booktitle": "DATE",
+	"author": [
+		"Meenakshi Kaul",
+		"Ranga Vemuri"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/KaulV99",
 	"doi": "10.1109/DATE.1999.761123",
@@ -8,8 +12,29 @@
 	"pages": "202-209",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["tempor", "partit", "combin", "with", "design", "space", "explor", "for", "latenc", "minim", "of", "run", "time", "reconfigur", "design"],
-	"tag": ["clustering", "design", "latency", "runtime"],
+	"stemmed": [
+		"tempor",
+		"partit",
+		"combin",
+		"with",
+		"design",
+		"space",
+		"explor",
+		"for",
+		"latenc",
+		"minim",
+		"of",
+		"run",
+		"time",
+		"reconfigur",
+		"design"
+	],
+	"tag": [
+		"clustering",
+		"design",
+		"latency",
+		"runtime"
+	],
 	"title": "Temporal Partitioning combined with Design Space Exploration for Latency Minimization of Run-Time Reconfigured Designs",
 	"type": "inproceedings",
 	"venue": "DATE",

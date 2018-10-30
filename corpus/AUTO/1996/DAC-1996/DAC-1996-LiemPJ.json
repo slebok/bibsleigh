@@ -1,13 +1,33 @@
 {
-	"author": ["Clifford Liem", "Pierre G. Paulin", "Ahmed Amine Jerraya"],
-	"booktitle": "DAC",
+	"author": [
+		"Clifford Liem",
+		"Pierre G. Paulin",
+		"Ahmed Amine Jerraya"
+	],
+	"booktitle": "Proceedings of the 33rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/LiemPJ96",
 	"doi": "10.1145/240518.240631",
 	"ee": "http://doi.acm.org/10.1145/240518.240631",
 	"pages": "597-600",
 	"publisher": "ACM Press",
-	"stemmed": ["address", "calcul", "for", "retarget", "compil", "and", "explor", "of", "instruct", "set", "architectur"],
-	"tag": ["architecture", "compilation"],
+	"stemmed": [
+		"address",
+		"calcul",
+		"for",
+		"retarget",
+		"compil",
+		"and",
+		"explor",
+		"of",
+		"instruct",
+		"set",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"compilation"
+	],
 	"title": "Address Calculation for Retargetable Compilation and Exploration of Instruction-Set Architectures",
 	"type": "inproceedings",
 	"venue": "DAC",

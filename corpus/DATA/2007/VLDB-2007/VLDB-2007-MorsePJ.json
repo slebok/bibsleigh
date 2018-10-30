@@ -1,13 +1,28 @@
 {
-	"author": ["Michael D. Morse", "Jignesh M. Patel", "H. V. Jagadish"],
-	"booktitle": "VLDB",
+	"author": [
+		"Michael D. Morse",
+		"Jignesh M. Patel",
+		"H. V. Jagadish"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/MorsePJ07",
 	"ee": "http://www.vldb.org/conf/2007/papers/research/p267-morse.pdf",
 	"pages": "267-278",
 	"publisher": "ACM",
-	"stemmed": ["effici", "skylin", "comput", "over", "low", "cardin", "domain"],
-	"tag": ["performance"],
+	"stemmed": [
+		"effici",
+		"skylin",
+		"comput",
+		"over",
+		"low",
+		"cardin",
+		"domain"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Efficient Skyline Computation over Low-Cardinality Domains",
 	"type": "inproceedings",
 	"venue": "VLDB",

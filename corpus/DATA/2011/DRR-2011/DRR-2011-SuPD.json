@@ -1,6 +1,11 @@
 {
-	"author": ["Bing Su", "Liangrui Peng", "Xiaoqing Ding"],
-	"booktitle": "DRR",
+	"author": [
+		"Bing Su",
+		"Liangrui Peng",
+		"Xiaoqing Ding"
+	],
+	"booktitle": "Proceedings of the 18th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2011",
 	"dblpkey": "conf/drr/SuPD11",
 	"doi": "10.1117/12.876622",
@@ -8,11 +13,21 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["semi", "boost", "base", "arab", "charact", "recognit", "method"],
-	"tag": ["recognition"],
+	"stemmed": [
+		"semi",
+		"boost",
+		"base",
+		"arab",
+		"charact",
+		"recognit",
+		"method"
+	],
+	"tag": [
+		"recognition"
+	],
 	"title": "SemiBoost-based Arabic character recognition method",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7874,
+	"volume": "7874",
 	"year": 2011
 }

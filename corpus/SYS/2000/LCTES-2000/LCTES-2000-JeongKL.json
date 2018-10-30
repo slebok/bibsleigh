@@ -1,6 +1,11 @@
 {
-	"author": ["Byeong-Soo Jeong", "Daeho Kim", "Sungyoung Lee"],
-	"booktitle": "LCTES",
+	"author": [
+		"Byeong-Soo Jeong",
+		"Daeho Kim",
+		"Sungyoung Lee"
+	],
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2000",
 	"dblpkey": "conf/lctrts/JeongKL00",
 	"doi": "10.1007/3-540-45245-1_3",
@@ -10,11 +15,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["optimist", "secur", "real", "time", "concurr", "control", "use", "multipl", "data", "version"],
-	"tag": ["concurrent", "multi", "realtime", "using"],
+	"stemmed": [
+		"optimist",
+		"secur",
+		"real",
+		"time",
+		"concurr",
+		"control",
+		"use",
+		"multipl",
+		"data",
+		"version"
+	],
+	"tag": [
+		"concurrent",
+		"multi",
+		"realtime",
+		"using"
+	],
 	"title": "Optimistic Secure Real-Time Concurrency Control Using Multiple Data Version",
 	"type": "inproceedings",
 	"venue": "LCTES",
-	"volume": 1985,
+	"volume": "1985",
 	"year": 2000
 }

@@ -1,14 +1,36 @@
 {
-	"author": ["Michael Bendersky", "Lluis Garcia Pueyo", "Jeremiah J. Harmsen", "Vanja Josifovski", "Dima Lepikhin"],
-	"booktitle": "KDD",
+	"author": [
+		"Michael Bendersky",
+		"Lluis Garcia Pueyo",
+		"Jeremiah J. Harmsen",
+		"Vanja Josifovski",
+		"Dima Lepikhin"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/BenderskyPHJL14",
 	"doi": "10.1145/2623330.2623344",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623344",
 	"pages": "1769-1778",
 	"publisher": "ACM",
-	"stemmed": ["up", "next", "retriev", "method", "for", "larg", "scale", "relat", "video", "suggest"],
-	"tag": ["retrieval", "scalability", "video"],
+	"stemmed": [
+		"up",
+		"next",
+		"retriev",
+		"method",
+		"for",
+		"larg",
+		"scale",
+		"relat",
+		"video",
+		"suggest"
+	],
+	"tag": [
+		"retrieval",
+		"scalability",
+		"video"
+	],
 	"title": "Up next: retrieval methods for large scale related video suggestion",
 	"type": "inproceedings",
 	"venue": "KDD",

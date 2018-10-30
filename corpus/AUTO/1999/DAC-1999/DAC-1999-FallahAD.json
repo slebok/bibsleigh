@@ -1,13 +1,33 @@
 {
-	"author": ["Farzan Fallah", "Pranav Ashar", "Srinivas Devadas"],
-	"booktitle": "DAC",
+	"author": [
+		"Farzan Fallah",
+		"Pranav Ashar",
+		"Srinivas Devadas"
+	],
+	"booktitle": "Proceedings of the 36th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/FallahAD99",
 	"doi": "10.1145/309847.310023",
 	"ee": "http://doi.acm.org/10.1145/309847.310023",
 	"pages": "666-671",
 	"publisher": "ACM Press",
-	"stemmed": ["simul", "vector", "generat", "from", "hdl", "descript", "for", "observ", "enhanc", "statement", "coverag"],
-	"tag": ["generative", "simulation"],
+	"stemmed": [
+		"simul",
+		"vector",
+		"generat",
+		"from",
+		"hdl",
+		"descript",
+		"for",
+		"observ",
+		"enhanc",
+		"statement",
+		"coverag"
+	],
+	"tag": [
+		"generative",
+		"simulation"
+	],
 	"title": "Simulation Vector Generation from HDL Descriptions for Observability-Enhanced Statement Coverage",
 	"type": "inproceedings",
 	"venue": "DAC",

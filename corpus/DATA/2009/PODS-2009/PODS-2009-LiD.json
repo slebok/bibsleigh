@@ -1,14 +1,30 @@
 {
-	"author": ["Jian Li", "Amol Deshpande"],
-	"booktitle": "PODS",
+	"author": [
+		"Jian Li",
+		"Amol Deshpande"
+	],
+	"booktitle": "Proceedings of the 28th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2009",
 	"dblpkey": "conf/pods/LiD09",
 	"doi": "10.1145/1559795.1559835",
 	"ee": "http://doi.acm.org/10.1145/1559795.1559835",
 	"pages": "259-268",
 	"publisher": "ACM",
-	"stemmed": ["consensus", "answer", "for", "queri", "over", "probabilist", "databas"],
-	"tag": ["database", "probability", "query"],
+	"stemmed": [
+		"consensus",
+		"answer",
+		"for",
+		"queri",
+		"over",
+		"probabilist",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"probability",
+		"query"
+	],
 	"title": "Consensus answers for queries over probabilistic databases",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,6 +1,7 @@
 {
 	"author": "David A. Schmidt",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the Ninth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2008",
 	"dblpkey": "conf/vmcai/Schmidt08",
 	"doi": "10.1007/978-3-540-78163-9_23",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["intern", "and", "extern", "logic", "of", "abstract", "interpret"],
-	"tag": ["abstract interpretation", "logic"],
+	"stemmed": [
+		"intern",
+		"and",
+		"extern",
+		"logic",
+		"of",
+		"abstract",
+		"interpret"
+	],
+	"tag": [
+		"abstract interpretation",
+		"logic"
+	],
 	"title": "Internal and External Logics of Abstract Interpretations",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 4905,
+	"volume": "4905",
 	"year": 2008
 }

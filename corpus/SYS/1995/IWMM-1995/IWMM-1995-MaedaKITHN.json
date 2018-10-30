@@ -1,6 +1,14 @@
 {
-	"author": ["Munenori Maeda", "Hiroki Konaka", "Yutaka Ishikawa", "Takashi Tomokiyo", "Atsushi Hori", "Jörg Nolte"],
-	"booktitle": "IWMM",
+	"author": [
+		"Munenori Maeda",
+		"Hiroki Konaka",
+		"Yutaka Ishikawa",
+		"Takashi Tomokiyo",
+		"Atsushi Hori",
+		"Jörg Nolte"
+	],
+	"booktitle": "Proceedings of the Second International Workshop on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/95",
 	"dblpkey": "conf/iwmm/MaedaKITHN95",
 	"doi": "10.1007/3-540-60368-9_29",
@@ -10,11 +18,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["on", "the", "fli", "global", "garbag", "collect", "base", "on", "part", "mark", "sweep"],
-	"tag": ["garbage collection", "on the fly"],
+	"stemmed": [
+		"on",
+		"the",
+		"fli",
+		"global",
+		"garbag",
+		"collect",
+		"base",
+		"on",
+		"part",
+		"mark",
+		"sweep"
+	],
+	"tag": [
+		"garbage collection",
+		"on the fly"
+	],
 	"title": "On-the-fly Global Garbage Collection Based on Partly Mark-Sweep",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 986,
+	"volume": "986",
 	"year": 1995
 }

@@ -1,15 +1,39 @@
 {
-	"author": ["Tetsushi Wakabayashi", "Umapada Pal", "Fumitaka Kimura", "Yasuji Miyake"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Tetsushi Wakabayashi",
+		"Umapada Pal",
+		"Fumitaka Kimura",
+		"Yasuji Miyake"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2009",
 	"dblpkey": "conf/icdar/WakabayashiPKM09",
 	"doi": "10.1109/ICDAR.2009.197",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2009.197", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2009.197"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2009.197",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2009.197"
+	],
 	"pages": "196-200",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["f", "ratio", "base", "weight", "featur", "extract", "for", "similar", "shape", "charact", "recognit"],
-	"tag": ["feature model", "recognition"],
+	"stemmed": [
+		"f",
+		"ratio",
+		"base",
+		"weight",
+		"featur",
+		"extract",
+		"for",
+		"similar",
+		"shape",
+		"charact",
+		"recognit"
+	],
+	"tag": [
+		"feature model",
+		"recognition"
+	],
 	"title": "F-ratio Based Weighted Feature Extraction for Similar Shape Character Recognition",
 	"type": "inproceedings",
 	"venue": "ICDAR",

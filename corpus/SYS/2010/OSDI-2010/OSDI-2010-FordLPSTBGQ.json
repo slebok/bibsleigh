@@ -1,13 +1,32 @@
 {
-	"author": ["Daniel Ford", "François Labelle", "Florentina I. Popovici", "Murray Stokely", "Van-Anh Truong", "Luiz Barroso", "Carrie Grimes", "Sean Quinlan"],
-	"booktitle": "OSDI",
+	"author": [
+		"Daniel Ford",
+		"François Labelle",
+		"Florentina I. Popovici",
+		"Murray Stokely",
+		"Van-Anh Truong",
+		"Luiz Barroso",
+		"Carrie Grimes",
+		"Sean Quinlan"
+	],
+	"booktitle": "Proceedings of the Ninth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2010",
 	"dblpkey": "conf/osdi/FordLPSTBGQ10",
 	"ee": "http://www.usenix.org/events/osdi10/tech/full_papers/Ford.pdf",
 	"pages": "61-74",
 	"publisher": "USENIX Association",
-	"stemmed": ["avail", "in", "global", "distribut", "storag", "system"],
-	"tag": ["distributed"],
+	"stemmed": [
+		"avail",
+		"in",
+		"global",
+		"distribut",
+		"storag",
+		"system"
+	],
+	"tag": [
+		"distributed"
+	],
 	"title": "Availability in Globally Distributed Storage Systems",
 	"type": "inproceedings",
 	"venue": "OSDI",

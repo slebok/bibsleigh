@@ -1,6 +1,11 @@
 {
-	"author": ["Klaus Schneider", "Ramayya Kumar", "Thomas Kropf"],
-	"booktitle": "CADE",
+	"author": [
+		"Klaus Schneider",
+		"Ramayya Kumar",
+		"Thomas Kropf"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/SchneiderKK92",
 	"doi": "10.1007/3-540-55602-8_221",
@@ -10,11 +15,17 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "faust", "prover"],
-	"tag": ["proving"],
+	"stemmed": [
+		"the",
+		"faust",
+		"prover"
+	],
+	"tag": [
+		"proving"
+	],
 	"title": "The FAUST — Prover",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

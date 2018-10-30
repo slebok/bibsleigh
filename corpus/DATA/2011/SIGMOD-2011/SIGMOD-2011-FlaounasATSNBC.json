@@ -1,6 +1,14 @@
 {
-	"author": ["Ilias N. Flaounas", "Omar Ali", "Marco Turchi", "Tristan Snowsill", "Florent Nicart", "Tijl De Bie", "Nello Cristianini"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ilias N. Flaounas",
+		"Omar Ali",
+		"Marco Turchi",
+		"Tristan Snowsill",
+		"Florent Nicart",
+		"Tijl De Bie",
+		"Nello Cristianini"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/FlaounasATSNBC11",
@@ -8,8 +16,20 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989474",
 	"pages": "1275-1278",
 	"publisher": "ACM",
-	"stemmed": ["noam", "news", "outlet", "analysi", "and", "monitor", "system"],
-	"tag": ["analysis", "monitoring", "named"],
+	"stemmed": [
+		"noam",
+		"news",
+		"outlet",
+		"analysi",
+		"and",
+		"monitor",
+		"system"
+	],
+	"tag": [
+		"analysis",
+		"monitoring",
+		"named"
+	],
 	"title": "NOAM: news outlets analysis and monitoring system",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

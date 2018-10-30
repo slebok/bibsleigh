@@ -1,6 +1,10 @@
 {
-	"author": ["Jinxi Xu", "James P. Callan"],
+	"author": [
+		"Jinxi Xu",
+		"James P. Callan"
+	],
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P112.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/XuC98",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/290941.290974",
 	"pages": "112-120",
 	"publisher": "ACM",
-	"stemmed": ["effect", "retriev", "with", "distribut", "collect"],
-	"tag": ["distributed", "effectiveness", "retrieval"],
+	"stemmed": [
+		"effect",
+		"retriev",
+		"with",
+		"distribut",
+		"collect"
+	],
+	"tag": [
+		"distributed",
+		"effectiveness",
+		"retrieval"
+	],
 	"title": "Effective Retrieval with Distributed Collections",
 	"type": "inproceedings",
 	"venue": "SIGIR",

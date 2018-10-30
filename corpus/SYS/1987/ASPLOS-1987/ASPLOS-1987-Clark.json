@@ -1,14 +1,26 @@
 {
 	"author": "Douglas W. Clark",
-	"booktitle": "ASPLOS",
+	"booktitle": "Proceedings of the Second International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1987",
 	"dblpkey": "conf/asplos/Clark87",
 	"doi": "10.1145/36206.36200",
 	"ee": "http://doi.acm.org/10.1145/36206.36200",
 	"pages": "173-177",
 	"publisher": "ACM Press",
-	"stemmed": ["pipelin", "and", "perform", "in", "the", "vax", "processor"],
-	"tag": ["performance", "pipes and filters"],
+	"stemmed": [
+		"pipelin",
+		"and",
+		"perform",
+		"in",
+		"the",
+		"vax",
+		"processor"
+	],
+	"tag": [
+		"performance",
+		"pipes and filters"
+	],
 	"title": "Pipelining and Performance in the VAX 8800 Processor",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

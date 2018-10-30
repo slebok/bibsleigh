@@ -1,14 +1,34 @@
 {
-	"author": ["Gunhee Kim", "Leonid Sigal"],
-	"booktitle": "KDD",
+	"author": [
+		"Gunhee Kim",
+		"Leonid Sigal"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/KimS15",
 	"doi": "10.1145/2783258.2788569",
 	"ee": "http://doi.acm.org/10.1145/2783258.2788569",
 	"pages": "1899-1908",
 	"publisher": "ACM",
-	"stemmed": ["discov", "collect", "narrat", "of", "theme", "park", "from", "larg", "collect", "of", "visitor", "photo", "stream"],
-	"tag": ["scalability"],
+	"stemmed": [
+		"discov",
+		"collect",
+		"narrat",
+		"of",
+		"theme",
+		"park",
+		"from",
+		"larg",
+		"collect",
+		"of",
+		"visitor",
+		"photo",
+		"stream"
+	],
+	"tag": [
+		"scalability"
+	],
 	"title": "Discovering Collective Narratives of Theme Parks from Large Collections of Visitors’ Photo Streams",
 	"type": "inproceedings",
 	"venue": "KDD",

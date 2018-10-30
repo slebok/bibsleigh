@@ -1,6 +1,14 @@
 {
-	"author": ["Luca Benini", "Giuliano Castelli", "Alberto Macii", "Enrico Macii", "Massimo Poncino", "Riccardo Scarsi"],
-	"booktitle": "DATE",
+	"author": [
+		"Luca Benini",
+		"Giuliano Castelli",
+		"Alberto Macii",
+		"Enrico Macii",
+		"Massimo Poncino",
+		"Riccardo Scarsi"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/BeniniCMMPS00",
 	"doi": "10.1109/DATE.2000.840012",
@@ -8,8 +16,21 @@
 	"pages": "35-39",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "discret", "time", "batteri", "model", "for", "high", "level", "power", "estim"],
-	"tag": ["estimation"],
+	"stemmed": [
+		"a",
+		"discret",
+		"time",
+		"batteri",
+		"model",
+		"for",
+		"high",
+		"level",
+		"power",
+		"estim"
+	],
+	"tag": [
+		"estimation"
+	],
 	"title": "A Discrete-Time Battery Model for High-Level Power Estimation",
 	"type": "inproceedings",
 	"venue": "DATE",

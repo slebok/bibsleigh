@@ -1,6 +1,10 @@
 {
-	"author": ["Jean-Pierre Dodel", "Rajjan Shinghal"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Jean-Pierre Dodel",
+		"Rajjan Shinghal"
+	],
+	"booktitle": "Proceedings of the Third International Conference on Document Analysis and Recognition (Volume I)",
+	"booktitleshort": "ICDAR v1",
 	"crossref": "conf/icdar/1995-1",
 	"dblpkey": "conf/icdar/DodelS95",
 	"doi": "10.1109/ICDAR.1995.598934",
@@ -8,8 +12,20 @@
 	"pages": "15-18",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["symbol", "neural", "recognit", "of", "cursiv", "amount", "on", "bank", "chequ"],
-	"tag": ["recognition"],
+	"stemmed": [
+		"symbol",
+		"neural",
+		"recognit",
+		"of",
+		"cursiv",
+		"amount",
+		"on",
+		"bank",
+		"chequ"
+	],
+	"tag": [
+		"recognition"
+	],
 	"title": "Symbolic/neural recognition of cursive amounts on bank cheques",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,6 +1,11 @@
 {
-	"author": ["Radoslaw Szymanek", "Francky Catthoor", "Krzysztof Kuchcinski"],
-	"booktitle": "DATE",
+	"author": [
+		"Radoslaw Szymanek",
+		"Francky Catthoor",
+		"Krzysztof Kuchcinski"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/SzymanekCK04",
 	"doi": "10.1109/DATE.2004.1268867",
@@ -8,8 +13,25 @@
 	"pages": "318-323",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["time", "energi", "design", "space", "explor", "for", "multi", "layer", "memori", "architectur"],
-	"tag": ["architecture", "design", "energy", "memory management", "multi"],
+	"stemmed": [
+		"time",
+		"energi",
+		"design",
+		"space",
+		"explor",
+		"for",
+		"multi",
+		"layer",
+		"memori",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"design",
+		"energy",
+		"memory management",
+		"multi"
+	],
 	"title": "Time-Energy Design Space Exploration for Multi-Layer Memory Architectures",
 	"type": "inproceedings",
 	"venue": "DATE",

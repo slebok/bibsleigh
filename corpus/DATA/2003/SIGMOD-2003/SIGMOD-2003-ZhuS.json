@@ -1,6 +1,9 @@
 {
-	"author": ["Yunyue Zhu", "Dennis Shasha"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yunyue Zhu",
+		"Dennis Shasha"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/ZhuS03",
@@ -8,8 +11,20 @@
 	"ee": "http://doi.acm.org/10.1145/872757.872780",
 	"pages": "181-192",
 	"publisher": "ACM",
-	"stemmed": ["warp", "index", "with", "envelop", "transform", "for", "queri", "by", "hum"],
-	"tag": ["query"],
+	"stemmed": [
+		"warp",
+		"index",
+		"with",
+		"envelop",
+		"transform",
+		"for",
+		"queri",
+		"by",
+		"hum"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Warping Indexes with Envelope Transforms for Query by Humming",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

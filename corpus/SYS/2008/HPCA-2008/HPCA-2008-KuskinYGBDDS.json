@@ -1,6 +1,15 @@
 {
-	"author": ["Jeffrey Kuskin", "Cliff Young", "J. P. Grossman", "Brannon Batson", "Martin M. Deneroff", "Ron O. Dror", "David E. Shaw"],
-	"booktitle": "HPCA",
+	"author": [
+		"Jeffrey Kuskin",
+		"Cliff Young",
+		"J. P. Grossman",
+		"Brannon Batson",
+		"Martin M. Deneroff",
+		"Ron O. Dror",
+		"David E. Shaw"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2008",
 	"dblpkey": "conf/hpca/KuskinYGBDDS08",
 	"doi": "10.1109/HPCA.2008.4658651",
@@ -8,8 +17,23 @@
 	"pages": "343-354",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["incorpor", "flexibl", "in", "anton", "a", "special", "machin", "for", "molecular", "dynam", "simul"],
-	"tag": ["flexibility", "simulation"],
+	"stemmed": [
+		"incorpor",
+		"flexibl",
+		"in",
+		"anton",
+		"a",
+		"special",
+		"machin",
+		"for",
+		"molecular",
+		"dynam",
+		"simul"
+	],
+	"tag": [
+		"flexibility",
+		"simulation"
+	],
 	"title": "Incorporating flexibility in Anton, a specialized machine for molecular dynamics simulation",
 	"type": "inproceedings",
 	"venue": "HPCA",

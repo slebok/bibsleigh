@@ -1,14 +1,32 @@
 {
-	"author": ["Ke Yang", "Bingsheng He", "Qiong Luo", "Pedro V. Sander", "Jiaoying Shi"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Ke Yang",
+		"Bingsheng He",
+		"Qiong Luo",
+		"Pedro V. Sander",
+		"Jiaoying Shi"
+	],
+	"booktitle": "Proceedings of the 14th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2009",
 	"dblpkey": "conf/ppopp/YangHLSS09",
 	"doi": "10.1145/1504176.1504224",
 	"ee": "http://doi.acm.org/10.1145/1504176.1504224",
 	"pages": "299-300",
 	"publisher": "ACM",
-	"stemmed": ["stack", "base", "parallel", "recurs", "on", "graphic", "processor"],
-	"tag": ["parallel", "recursion"],
+	"stemmed": [
+		"stack",
+		"base",
+		"parallel",
+		"recurs",
+		"on",
+		"graphic",
+		"processor"
+	],
+	"tag": [
+		"parallel",
+		"recursion"
+	],
 	"title": "Stack-based parallel recursion on graphics processors",
 	"type": "inproceedings",
 	"venue": "PPoPP",

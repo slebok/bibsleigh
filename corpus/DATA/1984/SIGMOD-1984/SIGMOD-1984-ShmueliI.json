@@ -1,16 +1,48 @@
 {
-	"author": ["Oded Shmueli", "Alon Itai"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Oded Shmueli",
+		"Alon Itai"
+	],
+	"booktitle": "Proceedings of the 14th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD84/P240.PDF",
-	"cite": ["books/aw/AhoHU74", "journals/jacm/BernsteinC81", "conf/stoc/BeeriFMMUY81", "journals/jacm/BeeriFMY83", "journals/siamcomp/BernsteinG81", "journals/jacm/Fagin83", "journals/tods/FaginMU82", "...", "journals/tods/GoodmanS82", "...", "conf/pods/GoodmanS82", "conf/pods/GoodmanS82a", "journals/acta/GoodmanS83", "conf/pods/GoodmanST83a", "...", "conf/pods/MaierU82", "journals/tods/MaierU83", "conf/stoc/PapadimitriouY82", "journals/siamcomp/TarjanY85", "conf/vldb/Yannakakis81", "..."],
+	"cite": [
+		"books/aw/AhoHU74",
+		"journals/jacm/BernsteinC81",
+		"conf/stoc/BeeriFMMUY81",
+		"journals/jacm/BeeriFMY83",
+		"journals/siamcomp/BernsteinG81",
+		"journals/jacm/Fagin83",
+		"journals/tods/FaginMU82",
+		"...",
+		"journals/tods/GoodmanS82",
+		"...",
+		"conf/pods/GoodmanS82",
+		"conf/pods/GoodmanS82a",
+		"journals/acta/GoodmanS83",
+		"conf/pods/GoodmanST83a",
+		"...",
+		"conf/pods/MaierU82",
+		"journals/tods/MaierU83",
+		"conf/stoc/PapadimitriouY82",
+		"journals/siamcomp/TarjanY85",
+		"conf/vldb/Yannakakis81",
+		"..."
+	],
 	"crossref": "conf/sigmod/84",
 	"dblpkey": "conf/sigmod/ShmueliI84",
 	"doi": "10.1145/602259.602293",
 	"ee": "http://doi.acm.org/10.1145/602259.602293",
 	"pages": "240-255",
 	"publisher": "ACM Press",
-	"stemmed": ["mainten", "of", "view"],
-	"tag": ["maintenance"],
+	"stemmed": [
+		"mainten",
+		"of",
+		"view"
+	],
+	"tag": [
+		"maintenance"
+	],
 	"title": "Maintenance of Views",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

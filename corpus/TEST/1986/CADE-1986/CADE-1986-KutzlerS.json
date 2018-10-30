@@ -1,6 +1,10 @@
 {
-	"author": ["B. Kutzler", "Sabine Stifter"],
-	"booktitle": "CADE",
+	"author": [
+		"B. Kutzler",
+		"Sabine Stifter"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/KutzlerS86",
 	"doi": "10.1007/3-540-16780-3_141",
@@ -10,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "geometri", "theorem", "prover", "base", "on", "buchberg", "s", "algorithm"],
-	"tag": ["algorithm", "geometry", "proving", "theorem proving"],
+	"stemmed": [
+		"a",
+		"geometri",
+		"theorem",
+		"prover",
+		"base",
+		"on",
+		"buchberg",
+		"s",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"geometry",
+		"proving",
+		"theorem proving"
+	],
 	"title": "A Geometry Theorem Prover Based on Buchberger’s Algorithm",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

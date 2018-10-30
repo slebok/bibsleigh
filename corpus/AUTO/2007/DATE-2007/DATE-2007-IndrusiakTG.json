@@ -1,14 +1,39 @@
 {
-	"author": ["Leandro Soares Indrusiak", "Andreas Thuy", "Manfred Glesner"],
-	"booktitle": "DATE",
+	"author": [
+		"Leandro Soares Indrusiak",
+		"Andreas Thuy",
+		"Manfred Glesner"
+	],
+	"booktitle": "Proceedings of the 11th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2007",
 	"dblpkey": "conf/date/IndrusiakTG07",
 	"doi": "10.1145/1266366.1266430",
 	"ee": "http://doi.acm.org/10.1145/1266366.1266430",
 	"pages": "301-306",
 	"publisher": "ACM",
-	"stemmed": ["interact", "present", "execut", "system", "level", "specif", "model", "contain", "uml", "base", "behavior", "pattern"],
-	"tag": ["behaviour", "execution", "interactive", "modelling", "specification", "uml"],
+	"stemmed": [
+		"interact",
+		"present",
+		"execut",
+		"system",
+		"level",
+		"specif",
+		"model",
+		"contain",
+		"uml",
+		"base",
+		"behavior",
+		"pattern"
+	],
+	"tag": [
+		"behaviour",
+		"execution",
+		"interactive",
+		"modelling",
+		"specification",
+		"uml"
+	],
 	"title": "Interactive presentation: Executable system-level specification models containing UML-based behavioral patterns",
 	"type": "inproceedings",
 	"venue": "DATE",

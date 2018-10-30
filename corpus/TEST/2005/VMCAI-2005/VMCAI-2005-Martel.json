@@ -1,6 +1,7 @@
 {
 	"author": "Matthieu Martel",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the Sixth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2005",
 	"dblpkey": "conf/vmcai/Martel05",
 	"doi": "10.1007/978-3-540-30579-8_4",
@@ -10,11 +11,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "overview", "of", "semant", "for", "the", "valid", "of", "numer", "program"],
-	"tag": ["bibliography", "semantics", "source code", "validation"],
+	"stemmed": [
+		"an",
+		"overview",
+		"of",
+		"semant",
+		"for",
+		"the",
+		"valid",
+		"of",
+		"numer",
+		"program"
+	],
+	"tag": [
+		"bibliography",
+		"semantics",
+		"source code",
+		"validation"
+	],
 	"title": "An Overview of Semantics for the Validation of Numerical Programs",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3385,
+	"volume": "3385",
 	"year": 2005
 }

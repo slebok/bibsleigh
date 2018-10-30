@@ -1,14 +1,32 @@
 {
-	"author": ["Dragomir Yankov", "Eamonn J. Keogh", "Jose Medina", "Bill Yuan-chi Chiu", "Victor B. Zordan"],
-	"booktitle": "KDD",
+	"author": [
+		"Dragomir Yankov",
+		"Eamonn J. Keogh",
+		"Jose Medina",
+		"Bill Yuan-chi Chiu",
+		"Victor B. Zordan"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2007",
 	"dblpkey": "conf/kdd/YankovKMCZ07",
 	"doi": "10.1145/1281192.1281282",
 	"ee": "http://doi.acm.org/10.1145/1281192.1281282",
 	"pages": "844-853",
 	"publisher": "ACM",
-	"stemmed": ["detect", "time", "seri", "motif", "under", "uniform", "scale"],
-	"tag": ["detection", "scalability"],
+	"stemmed": [
+		"detect",
+		"time",
+		"seri",
+		"motif",
+		"under",
+		"uniform",
+		"scale"
+	],
+	"tag": [
+		"detection",
+		"scalability"
+	],
 	"title": "Detecting time series motifs under uniform scaling",
 	"type": "inproceedings",
 	"venue": "KDD",

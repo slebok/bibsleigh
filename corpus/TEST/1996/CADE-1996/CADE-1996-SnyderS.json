@@ -1,6 +1,10 @@
 {
-	"author": ["Wayne Snyder", "James G. Schmolze"],
-	"booktitle": "CADE",
+	"author": [
+		"Wayne Snyder",
+		"James G. Schmolze"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/SnyderS96",
 	"doi": "10.1007/3-540-61511-3_110",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["rewrit", "semant", "for", "product", "rule", "system", "theori", "and", "applic"],
-	"tag": ["semantics", "theory and practice"],
+	"stemmed": [
+		"rewrit",
+		"semant",
+		"for",
+		"product",
+		"rule",
+		"system",
+		"theori",
+		"and",
+		"applic"
+	],
+	"tag": [
+		"semantics",
+		"theory and practice"
+	],
 	"title": "Rewrite Semantics for Production Rule Systems: Theory and Applications",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

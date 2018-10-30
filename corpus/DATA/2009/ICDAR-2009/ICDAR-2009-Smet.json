@@ -1,15 +1,33 @@
 {
 	"author": "Patrick de Smet",
-	"booktitle": "ICDAR",
+	"booktitle": "Proceedings of the 10th International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2009",
 	"dblpkey": "conf/icdar/Smet09",
 	"doi": "10.1109/ICDAR.2009.7",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2009.7", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2009.7"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2009.7",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2009.7"
+	],
 	"pages": "703-707",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["semi", "automat", "forens", "reconstruct", "of", "rip", "up", "document"],
-	"tag": ["automation", "documentation", "forensics", "re-engineering"],
+	"stemmed": [
+		"semi",
+		"automat",
+		"forens",
+		"reconstruct",
+		"of",
+		"rip",
+		"up",
+		"document"
+	],
+	"tag": [
+		"automation",
+		"documentation",
+		"forensics",
+		"re-engineering"
+	],
 	"title": "Semi-automatic Forensic Reconstruction of Ripped-up Documents",
 	"type": "inproceedings",
 	"venue": "ICDAR",

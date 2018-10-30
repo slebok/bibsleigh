@@ -1,6 +1,9 @@
 {
-	"author": ["Nomair A. Naeem", "Ondrej Lhoták"],
-	"booktitle": "Proceedings of the 23rd Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Nomair A. Naeem",
+		"Ondrej Lhoták"
+	],
+	"booktitle": "Proceedings of the 23rd Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2008",
 	"dblpkey": "conf/oopsla/NaeemL08",
@@ -10,8 +13,19 @@
 	"isbn": "978-1-60558-215-3",
 	"pages": "347-366",
 	"publisher": "ACM",
-	"stemmed": ["typest", "like", "analysi", "of", "multipl", "interact", "object"],
-	"tag": ["analysis", "multi"],
+	"stemmed": [
+		"typest",
+		"like",
+		"analysi",
+		"of",
+		"multipl",
+		"interact",
+		"object"
+	],
+	"tag": [
+		"analysis",
+		"multi"
+	],
 	"title": "Typestate-like analysis of multiple interacting objects",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

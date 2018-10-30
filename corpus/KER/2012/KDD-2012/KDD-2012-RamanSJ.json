@@ -1,14 +1,31 @@
 {
-	"author": ["Karthik Raman", "Pannaga Shivaswamy", "Thorsten Joachims"],
-	"booktitle": "KDD",
+	"author": [
+		"Karthik Raman",
+		"Pannaga Shivaswamy",
+		"Thorsten Joachims"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/RamanSJ12",
 	"doi": "10.1145/2339530.2339642",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339642",
 	"pages": "705-713",
 	"publisher": "ACM",
-	"stemmed": ["onlin", "learn", "to", "diversifi", "from", "implicit", "feedback"],
-	"tag": ["feedback", "learning", "online"],
+	"stemmed": [
+		"onlin",
+		"learn",
+		"to",
+		"diversifi",
+		"from",
+		"implicit",
+		"feedback"
+	],
+	"tag": [
+		"feedback",
+		"learning",
+		"online"
+	],
 	"title": "Online learning to diversify from implicit feedback",
 	"type": "inproceedings",
 	"venue": "KDD",

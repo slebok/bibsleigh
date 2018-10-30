@@ -1,13 +1,33 @@
 {
-	"author": ["Kiran Nagaraja", "Fábio Oliveira", "Ricardo Bianchini", "Richard P. Martin", "Thu D. Nguyen"],
-	"booktitle": "OSDI",
+	"author": [
+		"Kiran Nagaraja",
+		"Fábio Oliveira",
+		"Ricardo Bianchini",
+		"Richard P. Martin",
+		"Thu D. Nguyen"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2004",
 	"dblpkey": "conf/osdi/NagarajaOBMN04",
 	"ee": "http://www.usenix.org/events/osdi04/tech/naragaraja.html",
 	"pages": "61-76",
 	"publisher": "USENIX Association",
-	"stemmed": ["understand", "and", "deal", "with", "oper", "mistak", "in", "internet", "servic"],
-	"tag": ["comprehension", "internet"],
+	"stemmed": [
+		"understand",
+		"and",
+		"deal",
+		"with",
+		"oper",
+		"mistak",
+		"in",
+		"internet",
+		"servic"
+	],
+	"tag": [
+		"comprehension",
+		"internet"
+	],
 	"title": "Understanding and Dealing with Operator Mistakes in Internet Services",
 	"type": "inproceedings",
 	"venue": "OSDI",

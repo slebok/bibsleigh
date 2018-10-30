@@ -1,13 +1,39 @@
 {
-	"author": ["Nguyen-Ngoc Bình", "Masaharu Imai", "Akichika Shiomi", "Nobuyuki Hikichi"],
-	"booktitle": "DAC",
+	"author": [
+		"Nguyen-Ngoc Bình",
+		"Masaharu Imai",
+		"Akichika Shiomi",
+		"Nobuyuki Hikichi"
+	],
+	"booktitle": "Proceedings of the 33rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/BinhISH96",
 	"doi": "10.1145/240518.240618",
 	"ee": "http://doi.acm.org/10.1145/240518.240618",
 	"pages": "527-532",
 	"publisher": "ACM Press",
-	"stemmed": ["a", "hardwar", "softwar", "partit", "algorithm", "for", "design", "pipelin", "asip", "with", "least", "gate", "count"],
-	"tag": ["algorithm", "clustering", "design", "hardware", "pipes and filters"],
+	"stemmed": [
+		"a",
+		"hardwar",
+		"softwar",
+		"partit",
+		"algorithm",
+		"for",
+		"design",
+		"pipelin",
+		"asip",
+		"with",
+		"least",
+		"gate",
+		"count"
+	],
+	"tag": [
+		"algorithm",
+		"clustering",
+		"design",
+		"hardware",
+		"pipes and filters"
+	],
 	"title": "A Hardware/Software Partitioning Algorithm for Designing Pipelined ASIPs with Least Gate Counts",
 	"type": "inproceedings",
 	"venue": "DAC",

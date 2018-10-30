@@ -1,6 +1,14 @@
 {
-	"author": ["Amy P. Felty", "Elsa L. Gunter", "John Hannan", "Dale Miller", "Gopalan Nadathur", "Andre Scedrov"],
-	"booktitle": "CADE",
+	"author": [
+		"Amy P. Felty",
+		"Elsa L. Gunter",
+		"John Hannan",
+		"Dale Miller",
+		"Gopalan Nadathur",
+		"Andre Scedrov"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/FeltyGHMNS88",
 	"doi": "10.1007/BFb0012882",
@@ -10,11 +18,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["lambda", "prolog", "an", "extend", "logic", "program", "languag"],
-	"tag": ["logic programming", "named", "programming language", "prolog", "λ-calculus"],
+	"stemmed": [
+		"lambda",
+		"prolog",
+		"an",
+		"extend",
+		"logic",
+		"program",
+		"languag"
+	],
+	"tag": [
+		"logic programming",
+		"named",
+		"programming language",
+		"prolog",
+		"λ-calculus"
+	],
 	"title": "Lambda-Prolog: An Extended Logic Programming Language",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

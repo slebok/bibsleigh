@@ -1,14 +1,38 @@
 {
-	"author": ["Alessandro Cilardo", "Edoardo Fusella", "Luca Gallo", "Antonino Mazzeo"],
-	"booktitle": "DATE",
+	"author": [
+		"Alessandro Cilardo",
+		"Edoardo Fusella",
+		"Luca Gallo",
+		"Antonino Mazzeo"
+	],
+	"booktitle": "Proceedings of the 18th Conference and Exhibition on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2014",
 	"dblpkey": "conf/date/CilardoFGM14",
 	"doi": "10.7873/DATE.2014.352",
 	"ee": "http://dx.doi.org/10.7873/DATE.2014.352",
 	"pages": "1-4",
 	"publisher": "IEEE",
-	"stemmed": ["joint", "communic", "schedul", "and", "interconnect", "synthesi", "for", "fpga", "base", "mani", "core", "system"],
-	"tag": ["communication", "manycore", "scheduling", "synthesis"],
+	"stemmed": [
+		"joint",
+		"communic",
+		"schedul",
+		"and",
+		"interconnect",
+		"synthesi",
+		"for",
+		"fpga",
+		"base",
+		"mani",
+		"core",
+		"system"
+	],
+	"tag": [
+		"communication",
+		"manycore",
+		"scheduling",
+		"synthesis"
+	],
 	"title": "Joint communication scheduling and interconnect synthesis for FPGA-based many-core systems",
 	"type": "inproceedings",
 	"venue": "DATE",

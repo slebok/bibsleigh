@@ -1,14 +1,36 @@
 {
-	"author": ["Jared C. Smolens", "Brian T. Gold", "Jangwoo Kim", "Babak Falsafi", "James C. Hoe", "Andreas Nowatzyk"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Jared C. Smolens",
+		"Brian T. Gold",
+		"Jangwoo Kim",
+		"Babak Falsafi",
+		"James C. Hoe",
+		"Andreas Nowatzyk"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2004",
 	"dblpkey": "conf/asplos/SmolensGKFHN04",
 	"doi": "10.1145/1024393.1024420",
 	"ee": "http://doi.acm.org/10.1145/1024393.1024420",
 	"pages": "224-234",
 	"publisher": "ACM",
-	"stemmed": ["fingerprint", "bound", "soft", "error", "detect", "latenc", "and", "bandwidth"],
-	"tag": ["bound", "detection", "latency", "named"],
+	"stemmed": [
+		"fingerprint",
+		"bound",
+		"soft",
+		"error",
+		"detect",
+		"latenc",
+		"and",
+		"bandwidth"
+	],
+	"tag": [
+		"bound",
+		"detection",
+		"latency",
+		"named"
+	],
 	"title": "Fingerprinting: bounding soft-error detection latency and bandwidth",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

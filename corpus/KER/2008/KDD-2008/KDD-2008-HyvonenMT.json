@@ -1,14 +1,26 @@
 {
-	"author": ["Saara Hyvönen", "Pauli Miettinen", "Evimaria Terzi"],
-	"booktitle": "KDD",
+	"author": [
+		"Saara Hyvönen",
+		"Pauli Miettinen",
+		"Evimaria Terzi"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/HyvonenMT08",
 	"doi": "10.1145/1401890.1401935",
 	"ee": "http://doi.acm.org/10.1145/1401890.1401935",
 	"pages": "345-353",
 	"publisher": "ACM",
-	"stemmed": ["interpret", "nonneg", "matrix", "decomposit"],
-	"tag": ["matrix"],
+	"stemmed": [
+		"interpret",
+		"nonneg",
+		"matrix",
+		"decomposit"
+	],
+	"tag": [
+		"matrix"
+	],
 	"title": "Interpretable nonnegative matrix decompositions",
 	"type": "inproceedings",
 	"venue": "KDD",

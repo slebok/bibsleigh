@@ -1,16 +1,48 @@
 {
 	"author": "Shinichi Morishita",
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS93/P123.PDF", "journals/anthology/dvd1:text/1-3/PODS93/P123.PDF"],
-	"cite": ["...", "journals/jlp/BalbinPRM91", "conf/pods/BeeriR87", "conf/iclp/ChenW92", "conf/sigmod/DerrMP93", "conf/fgcs/KerisitP88", "conf/slp/KempSS91", "conf/iclp/KempSS92", "books/sp/Lloyd87", "conf/iclp/RamakrishnanSS92", "journals/jlp/Ross92", "conf/pods/Ross90", "conf/slp/Sagiv90", "books/cs/Ullman89", "journals/jacm/GelderRS91", "conf/pods/Gelder89"],
+	"booktitle": "Proceedings of the 12th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS93/P123.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS93/P123.PDF"
+	],
+	"cite": [
+		"...",
+		"journals/jlp/BalbinPRM91",
+		"conf/pods/BeeriR87",
+		"conf/iclp/ChenW92",
+		"conf/sigmod/DerrMP93",
+		"conf/fgcs/KerisitP88",
+		"conf/slp/KempSS91",
+		"conf/iclp/KempSS92",
+		"books/sp/Lloyd87",
+		"conf/iclp/RamakrishnanSS92",
+		"journals/jlp/Ross92",
+		"conf/pods/Ross90",
+		"conf/slp/Sagiv90",
+		"books/cs/Ullman89",
+		"journals/jacm/GelderRS91",
+		"conf/pods/Gelder89"
+	],
 	"crossref": "conf/pods/93",
 	"dblpkey": "conf/pods/Morishita93",
 	"doi": "10.1145/153850.153861",
 	"ee": "http://doi.acm.org/10.1145/153850.153861",
 	"pages": "123-134",
 	"publisher": "ACM Press",
-	"stemmed": ["an", "altern", "fixpoint", "tailor", "to", "magic", "program"],
-	"tag": ["fixpoint", "source code"],
+	"stemmed": [
+		"an",
+		"altern",
+		"fixpoint",
+		"tailor",
+		"to",
+		"magic",
+		"program"
+	],
+	"tag": [
+		"fixpoint",
+		"source code"
+	],
 	"title": "An Alternating Fixpoint Tailored to Magic Programs",
 	"type": "inproceedings",
 	"venue": "PODS",

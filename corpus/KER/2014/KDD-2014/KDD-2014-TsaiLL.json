@@ -1,14 +1,31 @@
 {
-	"author": ["Cheng-Hao Tsai", "Chieh-Yen Lin", "Chih-Jen Lin"],
-	"booktitle": "KDD",
+	"author": [
+		"Cheng-Hao Tsai",
+		"Chieh-Yen Lin",
+		"Chih-Jen Lin"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/TsaiLL14",
 	"doi": "10.1145/2623330.2623661",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623661",
 	"pages": "343-352",
 	"publisher": "ACM",
-	"stemmed": ["increment", "and", "decrement", "train", "for", "linear", "classif"],
-	"tag": ["classification", "incremental", "linear"],
+	"stemmed": [
+		"increment",
+		"and",
+		"decrement",
+		"train",
+		"for",
+		"linear",
+		"classif"
+	],
+	"tag": [
+		"classification",
+		"incremental",
+		"linear"
+	],
 	"title": "Incremental and decremental training for linear classification",
 	"type": "inproceedings",
 	"venue": "KDD",

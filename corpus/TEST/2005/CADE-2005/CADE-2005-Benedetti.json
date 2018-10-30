@@ -1,6 +1,7 @@
 {
 	"author": "Marco Benedetti",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 20th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2005",
 	"dblpkey": "conf/cade/Benedetti05",
 	"doi": "10.1007/11532231_27",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["skizzo", "a", "suit", "to", "evalu", "and", "certifi", "qbfs"],
-	"tag": ["named"],
+	"stemmed": [
+		"skizzo",
+		"a",
+		"suit",
+		"to",
+		"evalu",
+		"and",
+		"certifi",
+		"qbfs"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "sKizzo: A Suite to Evaluate and Certify QBFs",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 3632,
+	"volume": "3632",
 	"year": 2005
 }

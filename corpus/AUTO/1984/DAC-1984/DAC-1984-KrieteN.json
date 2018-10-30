@@ -1,13 +1,31 @@
 {
-	"acmid": 800882,
-	"author": ["R. A. Kriete", "R. K. Nettleton"],
-	"booktitle": "DAC",
+	"acmid": "800882",
+	"author": [
+		"R. A. Kriete",
+		"R. K. Nettleton"
+	],
+	"booktitle": "Proceedings of the 21st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1984",
 	"dblpkey": "conf/dac/KrieteN84",
 	"pages": "686-688",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["a", "vlsi", "design", "methodolog", "base", "on", "parametr", "macro", "cell"],
-	"tag": ["design", "metaprogramming", "parametricity"],
+	"stemmed": [
+		"a",
+		"vlsi",
+		"design",
+		"methodolog",
+		"base",
+		"on",
+		"parametr",
+		"macro",
+		"cell"
+	],
+	"tag": [
+		"design",
+		"metaprogramming",
+		"parametricity"
+	],
 	"title": "A VLSI design methodology based on parametric macro cells",
 	"type": "inproceedings",
 	"venue": "DAC",

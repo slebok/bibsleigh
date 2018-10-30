@@ -1,14 +1,27 @@
 {
 	"author": "I. McLeod",
 	"booktitle": "Proceedings of the Eighth annual international ACM SIGIR conference on Research and development in information retrieval",
+	"booktitleshort": "SIGIR",
 	"crossref": "conf/sigir/85",
 	"dblpkey": "conf/sigir/McLeod85",
 	"doi": "10.1145/253495.253507",
 	"ee": "http://doi.acm.org/10.1145/253495.253507",
 	"pages": "26-32",
 	"publisher": "ACM",
-	"stemmed": ["handl", "multipl", "databas", "in", "document", "retriev"],
-	"tag": ["database", "documentation", "multi", "retrieval"],
+	"stemmed": [
+		"handl",
+		"multipl",
+		"databas",
+		"in",
+		"document",
+		"retriev"
+	],
+	"tag": [
+		"database",
+		"documentation",
+		"multi",
+		"retrieval"
+	],
 	"title": "Handling Multiple Databases in Document Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

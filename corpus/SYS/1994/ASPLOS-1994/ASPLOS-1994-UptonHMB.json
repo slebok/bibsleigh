@@ -1,14 +1,31 @@
 {
-	"author": ["Michael Upton", "Thomas Huff", "Trevor N. Mudge", "Richard B. Brown"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Michael Upton",
+		"Thomas Huff",
+		"Trevor N. Mudge",
+		"Richard B. Brown"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1994",
 	"dblpkey": "conf/asplos/UptonHMB94",
 	"doi": "10.1145/195473.195510",
 	"ee": "http://doi.acm.org/10.1145/195473.195510",
 	"pages": "98-109",
 	"publisher": "ACM Press",
-	"stemmed": ["resourc", "alloc", "in", "a", "high", "clock", "rate", "microprocessor"],
-	"tag": ["resource management"],
+	"stemmed": [
+		"resourc",
+		"alloc",
+		"in",
+		"a",
+		"high",
+		"clock",
+		"rate",
+		"microprocessor"
+	],
+	"tag": [
+		"resource management"
+	],
 	"title": "Resource Allocation in a High Clock Rate Microprocessor",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

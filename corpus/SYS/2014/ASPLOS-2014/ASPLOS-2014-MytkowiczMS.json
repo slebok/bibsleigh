@@ -1,14 +1,28 @@
 {
-	"author": ["Todd Mytkowicz", "Madanlal Musuvathi", "Wolfram Schulte"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Todd Mytkowicz",
+		"Madanlal Musuvathi",
+		"Wolfram Schulte"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2014",
 	"dblpkey": "conf/asplos/MytkowiczMS14",
 	"doi": "10.1145/2541940.2541988",
 	"ee": "http://doi.acm.org/10.1145/2541940.2541988",
 	"pages": "529-542",
 	"publisher": "ACM",
-	"stemmed": ["data", "parallel", "finit", "state", "machin"],
-	"tag": ["finite", "state machine"],
+	"stemmed": [
+		"data",
+		"parallel",
+		"finit",
+		"state",
+		"machin"
+	],
+	"tag": [
+		"finite",
+		"state machine"
+	],
 	"title": "Data-parallel finite-state machines",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

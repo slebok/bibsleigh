@@ -1,13 +1,34 @@
 {
-	"author": ["Dushyanth Narayanan", "Austin Donnelly", "Eno Thereska", "Sameh Elnikety", "Antony I. T. Rowstron"],
-	"booktitle": "OSDI",
+	"author": [
+		"Dushyanth Narayanan",
+		"Austin Donnelly",
+		"Eno Thereska",
+		"Sameh Elnikety",
+		"Antony I. T. Rowstron"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/NarayananDTER08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/narayanan/narayanan.pdf",
 	"pages": "15-28",
 	"publisher": "USENIX Association",
-	"stemmed": ["everest", "scale", "down", "peak", "load", "through", "i", "o", "off", "load"],
-	"tag": ["named", "scalability"],
+	"stemmed": [
+		"everest",
+		"scale",
+		"down",
+		"peak",
+		"load",
+		"through",
+		"i",
+		"o",
+		"off",
+		"load"
+	],
+	"tag": [
+		"named",
+		"scalability"
+	],
 	"title": "Everest: Scaling Down Peak Loads Through I/O Off-Loading",
 	"type": "inproceedings",
 	"venue": "OSDI",

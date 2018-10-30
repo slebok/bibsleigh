@@ -1,16 +1,44 @@
 {
-	"author": ["Jim Gray", "Pat Helland", "Patrick E. O'Neil", "Dennis Shasha"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jim Gray",
+		"Pat Helland",
+		"Patrick E. O'Neil",
+		"Dennis Shasha"
+	],
+	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD96/P173.PDF",
-	"cite": ["books/aw/BernsteinHG87", "conf/sigmod/BerensonBGMOO95", "...", "journals/jacm/Garcia-MolinaB85", "conf/sosp/Gifford79", "books/mk/GrayR93", "...", "...", "conf/sigmod/HermanGLW87", "...", "..."],
+	"cite": [
+		"books/aw/BernsteinHG87",
+		"conf/sigmod/BerensonBGMOO95",
+		"...",
+		"journals/jacm/Garcia-MolinaB85",
+		"conf/sosp/Gifford79",
+		"books/mk/GrayR93",
+		"...",
+		"...",
+		"conf/sigmod/HermanGLW87",
+		"...",
+		"..."
+	],
 	"crossref": "conf/sigmod/96",
 	"dblpkey": "conf/sigmod/GrayHOS96",
 	"doi": "10.1145/233269.233330",
 	"ee": "http://doi.acm.org/10.1145/233269.233330",
 	"pages": "173-182",
 	"publisher": "ACM Press",
-	"stemmed": ["the", "danger", "of", "replic", "and", "a", "solut"],
-	"tag": ["replication"],
+	"stemmed": [
+		"the",
+		"danger",
+		"of",
+		"replic",
+		"and",
+		"a",
+		"solut"
+	],
+	"tag": [
+		"replication"
+	],
 	"title": "The Dangers of Replication and a Solution",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

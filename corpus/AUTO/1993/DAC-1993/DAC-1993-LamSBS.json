@@ -1,13 +1,30 @@
 {
-	"author": ["William K. C. Lam", "Alexander Saldanha", "Robert K. Brayton", "Alberto L. Sangiovanni-Vincentelli"],
-	"booktitle": "DAC",
+	"author": [
+		"William K. C. Lam",
+		"Alexander Saldanha",
+		"Robert K. Brayton",
+		"Alberto L. Sangiovanni-Vincentelli"
+	],
+	"booktitle": "Proceedings of the 30th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/LamSBS93",
 	"doi": "10.1145/157485.164970",
 	"ee": "http://doi.acm.org/10.1145/157485.164970",
 	"pages": "446-452",
 	"publisher": "ACM Press",
-	"stemmed": ["delay", "fault", "coverag", "and", "perform", "tradeoff"],
-	"tag": ["fault", "performance", "trade-off"],
+	"stemmed": [
+		"delay",
+		"fault",
+		"coverag",
+		"and",
+		"perform",
+		"tradeoff"
+	],
+	"tag": [
+		"fault",
+		"performance",
+		"trade-off"
+	],
 	"title": "Delay Fault Coverage and Performance Tradeoffs",
 	"type": "inproceedings",
 	"venue": "DAC",

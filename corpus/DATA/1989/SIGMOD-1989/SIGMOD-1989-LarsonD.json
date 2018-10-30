@@ -1,15 +1,36 @@
 {
-	"author": ["Per-Åke Larson", "Vinay Deshpande"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Per-Åke Larson",
+		"Vinay Deshpande"
+	],
+	"booktitle": "Proceedings of the 19th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD89/P243.PDF",
-	"cite": ["journals/tse/BanerjeeKKG88", "conf/sigmod/BancilhonR86", "...", "...", "conf/sigmod/RosenthalHDM86", "..."],
+	"cite": [
+		"journals/tse/BanerjeeKKG88",
+		"conf/sigmod/BancilhonR86",
+		"...",
+		"...",
+		"conf/sigmod/RosenthalHDM86",
+		"..."
+	],
 	"crossref": "conf/sigmod/89",
 	"dblpkey": "conf/sigmod/LarsonD89",
 	"doi": "10.1145/67544.66949",
 	"ee": "http://doi.acm.org/10.1145/67544.66949",
 	"pages": "243-252",
-	"stemmed": ["a", "file", "structur", "support", "travers", "recurs"],
-	"tag": ["recursion", "traversal"],
+	"stemmed": [
+		"a",
+		"file",
+		"structur",
+		"support",
+		"travers",
+		"recurs"
+	],
+	"tag": [
+		"recursion",
+		"traversal"
+	],
 	"title": "A File Structure Supporting Traversal Recursion",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

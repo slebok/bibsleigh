@@ -1,16 +1,38 @@
 {
-	"acmid": 1252547,
-	"author": ["Easwaran Raman", "Robert Hundt", "Sandya Mannarswamy"],
-	"booktitle": "CGO",
+	"acmid": "1252547",
+	"author": [
+		"Easwaran Raman",
+		"Robert Hundt",
+		"Sandya Mannarswamy"
+	],
+	"booktitle": "Proceedings of the Fifth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2007",
 	"dblpkey": "conf/cgo/RamanHM07",
 	"doi": "10.1109/CGO.2007.36",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2007.36", "http://doi.ieeecomputersociety.org/10.1109/CGO.2007.36", "http://dl.acm.org/citation.cfm?id=1252547"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2007.36",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2007.36",
+		"http://dl.acm.org/citation.cfm?id=1252547"
+	],
 	"pages": "271-282",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["structur", "layout", "optim", "for", "multithread", "program"],
-	"tag": ["layout", "optimisation", "parallel", "source code", "thread"],
+	"stemmed": [
+		"structur",
+		"layout",
+		"optim",
+		"for",
+		"multithread",
+		"program"
+	],
+	"tag": [
+		"layout",
+		"optimisation",
+		"parallel",
+		"source code",
+		"thread"
+	],
 	"title": "Structure Layout Optimization for Multithreaded Programs",
 	"type": "inproceedings",
 	"venue": "CGO",

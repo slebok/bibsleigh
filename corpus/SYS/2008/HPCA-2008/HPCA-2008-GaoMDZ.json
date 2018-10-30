@@ -1,6 +1,12 @@
 {
-	"author": ["Hongliang Gao", "Yi Ma", "Martin Dimitrov", "Huiyang Zhou"],
-	"booktitle": "HPCA",
+	"author": [
+		"Hongliang Gao",
+		"Yi Ma",
+		"Martin Dimitrov",
+		"Huiyang Zhou"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2008",
 	"dblpkey": "conf/hpca/GaoMDZ08",
 	"doi": "10.1109/HPCA.2008.4658629",
@@ -8,8 +14,28 @@
 	"pages": "74-85",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["address", "branch", "correl", "a", "novel", "local", "for", "long", "latenc", "hard", "to", "predict", "branch"],
-	"tag": ["branch", "correlation", "locality", "novel", "predict"],
+	"stemmed": [
+		"address",
+		"branch",
+		"correl",
+		"a",
+		"novel",
+		"local",
+		"for",
+		"long",
+		"latenc",
+		"hard",
+		"to",
+		"predict",
+		"branch"
+	],
+	"tag": [
+		"branch",
+		"correlation",
+		"locality",
+		"novel",
+		"predict"
+	],
 	"title": "Address-branch correlation: A novel locality for long-latency hard-to-predict branches",
 	"type": "inproceedings",
 	"venue": "HPCA",

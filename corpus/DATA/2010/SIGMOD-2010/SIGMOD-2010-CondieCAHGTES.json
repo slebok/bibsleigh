@@ -1,6 +1,15 @@
 {
-	"author": ["Tyson Condie", "Neil Conway", "Peter Alvaro", "Joseph M. Hellerstein", "John Gerth", "Justin Talbot", "Khaled Elmeleegy", "Russell Sears"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Tyson Condie",
+		"Neil Conway",
+		"Peter Alvaro",
+		"Joseph M. Hellerstein",
+		"John Gerth",
+		"Justin Talbot",
+		"Khaled Elmeleegy",
+		"Russell Sears"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/CondieCAHGTES10",
@@ -8,8 +17,22 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807295",
 	"pages": "1115-1118",
 	"publisher": "ACM",
-	"stemmed": ["onlin", "aggreg", "and", "continu", "queri", "support", "in", "map", "reduc"],
-	"tag": ["online", "pipes and filters", "query"],
+	"stemmed": [
+		"onlin",
+		"aggreg",
+		"and",
+		"continu",
+		"queri",
+		"support",
+		"in",
+		"map",
+		"reduc"
+	],
+	"tag": [
+		"online",
+		"pipes and filters",
+		"query"
+	],
 	"title": "Online aggregation and continuous query support in MapReduce",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

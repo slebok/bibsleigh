@@ -1,14 +1,28 @@
 {
-	"author": ["Julia Neidhardt", "Rainer Schuster", "Leonhard Seyfang", "Hannes Werthner"],
-	"booktitle": "RecSys",
+	"author": [
+		"Julia Neidhardt",
+		"Rainer Schuster",
+		"Leonhard Seyfang",
+		"Hannes Werthner"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2014",
 	"dblpkey": "conf/recsys/NeidhardtSSW14",
 	"doi": "10.1145/2645710.2645767",
 	"ee": "http://doi.acm.org/10.1145/2645710.2645767",
 	"pages": "309-312",
 	"publisher": "ACM",
-	"stemmed": ["elicit", "the", "user", "unknown", "prefer"],
-	"tag": ["elicitation"],
+	"stemmed": [
+		"elicit",
+		"the",
+		"user",
+		"unknown",
+		"prefer"
+	],
+	"tag": [
+		"elicitation"
+	],
 	"title": "Eliciting the users’ unknown preferences",
 	"type": "inproceedings",
 	"venue": "RecSys",

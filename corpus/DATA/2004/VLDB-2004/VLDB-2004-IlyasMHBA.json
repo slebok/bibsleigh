@@ -1,13 +1,35 @@
 {
-	"author": ["Ihab F. Ilyas", "Volker Markl", "Peter J. Haas", "Paul G. Brown", "Ashraf Aboulnaga"],
-	"booktitle": "VLDB",
+	"author": [
+		"Ihab F. Ilyas",
+		"Volker Markl",
+		"Peter J. Haas",
+		"Paul G. Brown",
+		"Ashraf Aboulnaga"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/IlyasMHBA04",
 	"ee": "http://www.vldb.org/conf/2004/DEMP23.PDF",
 	"pages": "1341-1344",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["cord", "automat", "generat", "of", "correl", "statist", "in", "db"],
-	"tag": ["automation", "correlation", "generative", "named", "statistics"],
+	"stemmed": [
+		"cord",
+		"automat",
+		"generat",
+		"of",
+		"correl",
+		"statist",
+		"in",
+		"db"
+	],
+	"tag": [
+		"automation",
+		"correlation",
+		"generative",
+		"named",
+		"statistics"
+	],
 	"title": "CORDS: Automatic Generation of Correlation Statistics in DB2",
 	"type": "inproceedings",
 	"venue": "VLDB",

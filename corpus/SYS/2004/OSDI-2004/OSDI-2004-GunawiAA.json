@@ -1,13 +1,29 @@
 {
-	"author": ["Haryadi S. Gunawi", "Andrea C. Arpaci-Dusseau", "Remzi H. Arpaci-Dusseau"],
-	"booktitle": "OSDI",
+	"author": [
+		"Haryadi S. Gunawi",
+		"Andrea C. Arpaci-Dusseau",
+		"Remzi H. Arpaci-Dusseau"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2004",
 	"dblpkey": "conf/osdi/GunawiAA04",
 	"ee": "http://www.usenix.org/events/osdi04/tech/gunawi.html",
 	"pages": "317-332",
 	"publisher": "USENIX Association",
-	"stemmed": ["deploy", "safe", "user", "level", "network", "servic", "with", "ictcp"],
-	"tag": ["network"],
+	"stemmed": [
+		"deploy",
+		"safe",
+		"user",
+		"level",
+		"network",
+		"servic",
+		"with",
+		"ictcp"
+	],
+	"tag": [
+		"network"
+	],
 	"title": "Deploying Safe User-Level Network Services with icTCP",
 	"type": "inproceedings",
 	"venue": "OSDI",

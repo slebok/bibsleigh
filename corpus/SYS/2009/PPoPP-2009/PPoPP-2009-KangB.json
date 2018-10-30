@@ -1,14 +1,38 @@
 {
-	"author": ["Seunghwa Kang", "David A. Bader"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Seunghwa Kang",
+		"David A. Bader"
+	],
+	"booktitle": "Proceedings of the 14th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2009",
 	"dblpkey": "conf/ppopp/KangB09",
 	"doi": "10.1145/1504176.1504182",
 	"ee": "http://doi.acm.org/10.1145/1504176.1504182",
 	"pages": "15-24",
 	"publisher": "ACM",
-	"stemmed": ["an", "effici", "transact", "memori", "algorithm", "for", "comput", "minimum", "span", "forest", "of", "spars", "graph"],
-	"tag": ["algorithm", "graph", "memory management", "performance", "transaction"],
+	"stemmed": [
+		"an",
+		"effici",
+		"transact",
+		"memori",
+		"algorithm",
+		"for",
+		"comput",
+		"minimum",
+		"span",
+		"forest",
+		"of",
+		"spars",
+		"graph"
+	],
+	"tag": [
+		"algorithm",
+		"graph",
+		"memory management",
+		"performance",
+		"transaction"
+	],
 	"title": "An efficient transactional memory algorithm for computing minimum spanning forest of sparse graphs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

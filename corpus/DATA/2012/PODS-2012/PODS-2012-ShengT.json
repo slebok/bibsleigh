@@ -1,14 +1,29 @@
 {
-	"author": ["Cheng Sheng", "Yufei Tao"],
-	"booktitle": "PODS",
+	"author": [
+		"Cheng Sheng",
+		"Yufei Tao"
+	],
+	"booktitle": "Proceedings of the 31st Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2012",
 	"dblpkey": "conf/pods/ShengT12",
 	"doi": "10.1145/2213556.2213576",
 	"ee": "http://doi.acm.org/10.1145/2213556.2213576",
 	"pages": "121-130",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "top", "k", "rang", "report", "in", "extern", "memori"],
-	"tag": ["memory management"],
+	"stemmed": [
+		"dynam",
+		"top",
+		"k",
+		"rang",
+		"report",
+		"in",
+		"extern",
+		"memori"
+	],
+	"tag": [
+		"memory management"
+	],
 	"title": "Dynamic top-k range reporting in external memory",
 	"type": "inproceedings",
 	"venue": "PODS",

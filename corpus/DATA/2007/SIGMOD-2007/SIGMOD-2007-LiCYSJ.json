@@ -1,6 +1,12 @@
 {
-	"author": ["Yunyao Li", "Ishan Chaudhuri", "Huahai Yang", "Satinder P. Singh", "H. V. Jagadish"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yunyao Li",
+		"Ishan Chaudhuri",
+		"Huahai Yang",
+		"Satinder P. Singh",
+		"H. V. Jagadish"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/LiCYSJ07",
@@ -8,8 +14,28 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247643",
 	"pages": "1165-1168",
 	"publisher": "ACM",
-	"stemmed": ["da", "na", "lix", "a", "domain", "adapt", "natur", "languag", "interfac", "for", "queri", "xml"],
-	"tag": ["adaptation", "interface", "named", "natural language", "query", "xml"],
+	"stemmed": [
+		"da",
+		"na",
+		"lix",
+		"a",
+		"domain",
+		"adapt",
+		"natur",
+		"languag",
+		"interfac",
+		"for",
+		"queri",
+		"xml"
+	],
+	"tag": [
+		"adaptation",
+		"interface",
+		"named",
+		"natural language",
+		"query",
+		"xml"
+	],
 	"title": "DaNaLIX: a domain-adaptive natural language interface for querying XML",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

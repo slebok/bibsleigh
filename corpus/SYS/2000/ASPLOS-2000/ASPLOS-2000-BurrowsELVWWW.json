@@ -1,14 +1,32 @@
 {
-	"author": ["Michael Burrows", "Úlfar Erlingsson", "Shun-Tak Leung", "Mark T. Vandevoorde", "Carl A. Waldspurger", "Kip Walker", "William E. Weihl"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Michael Burrows",
+		"Úlfar Erlingsson",
+		"Shun-Tak Leung",
+		"Mark T. Vandevoorde",
+		"Carl A. Waldspurger",
+		"Kip Walker",
+		"William E. Weihl"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2000",
 	"dblpkey": "conf/asplos/BurrowsELVWWW00",
 	"doi": "10.1145/356989.357004",
 	"ee": "http://doi.acm.org/10.1145/356989.357004",
 	"pages": "160-167",
 	"publisher": "ACM Press",
-	"stemmed": ["effici", "and", "flexibl", "valu", "sampl"],
-	"tag": ["flexibility", "performance"],
+	"stemmed": [
+		"effici",
+		"and",
+		"flexibl",
+		"valu",
+		"sampl"
+	],
+	"tag": [
+		"flexibility",
+		"performance"
+	],
 	"title": "Efficient and Flexible Value Sampling",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

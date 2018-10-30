@@ -1,15 +1,43 @@
 {
-	"author": ["Thotreingam Kasar", "Philippine Barlas", "Sébastien Adam", "Clément Chatelain", "Thierry Paquet"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Thotreingam Kasar",
+		"Philippine Barlas",
+		"Sébastien Adam",
+		"Clément Chatelain",
+		"Thierry Paquet"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2013",
 	"dblpkey": "conf/icdar/KasarBACP13",
 	"doi": "10.1109/ICDAR.2013.240",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2013.240", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2013.240"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2013.240",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2013.240"
+	],
 	"pages": "1185-1189",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["learn", "to", "detect", "tabl", "in", "scan", "document", "imag", "use", "line", "inform"],
-	"tag": ["detection", "documentation", "image", "learning", "using"],
+	"stemmed": [
+		"learn",
+		"to",
+		"detect",
+		"tabl",
+		"in",
+		"scan",
+		"document",
+		"imag",
+		"use",
+		"line",
+		"inform"
+	],
+	"tag": [
+		"detection",
+		"documentation",
+		"image",
+		"learning",
+		"using"
+	],
 	"title": "Learning to Detect Tables in Scanned Document Images Using Line Information",
 	"type": "inproceedings",
 	"venue": "ICDAR",

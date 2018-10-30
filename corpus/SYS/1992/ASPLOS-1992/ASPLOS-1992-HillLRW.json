@@ -1,6 +1,12 @@
 {
-	"author": ["Mark D. Hill", "James R. Larus", "Steven K. Reinhardt", "David A. Wood"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Mark D. Hill",
+		"James R. Larus",
+		"Steven K. Reinhardt",
+		"David A. Wood"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1992",
 	"dblpkey": "conf/asplos/HillLRW92",
 	"doi": "10.1145/143365.143537",
@@ -8,8 +14,24 @@
 	"note": "long version: TOCS 11(4): 300-318 (1993)",
 	"pages": "262-273",
 	"publisher": "ACM Press",
-	"stemmed": ["cooper", "share", "memori", "softwar", "and", "hardwar", "support", "for", "scalabl", "multiprocesor"],
-	"tag": ["hardware", "memory management", "multi", "scalability"],
+	"stemmed": [
+		"cooper",
+		"share",
+		"memori",
+		"softwar",
+		"and",
+		"hardwar",
+		"support",
+		"for",
+		"scalabl",
+		"multiprocesor"
+	],
+	"tag": [
+		"hardware",
+		"memory management",
+		"multi",
+		"scalability"
+	],
 	"title": "Cooperative Shared Memory: Software and Hardware Support for Scalable Multiprocesors",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

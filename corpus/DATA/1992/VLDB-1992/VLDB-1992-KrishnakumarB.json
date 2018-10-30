@@ -1,14 +1,42 @@
 {
-	"author": ["Narayanan Krishnakumar", "Arthur J. Bernstein"],
-	"booktitle": "VLDB",
-	"cite": ["conf/edbt/BarbardG92", "books/aw/BernsteinHG87", "journals/is/Harder88", "journals/tocs/Herlihy87", "...", "conf/pods/KrishnakumarB91", "...", "conf/sigmod/KumarS88", "journals/tods/ONeil86", "conf/pods/SoparkarS90", "conf/podc/WuuB84"],
+	"author": [
+		"Narayanan Krishnakumar",
+		"Arthur J. Bernstein"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/edbt/BarbardG92",
+		"books/aw/BernsteinHG87",
+		"journals/is/Harder88",
+		"journals/tocs/Herlihy87",
+		"...",
+		"conf/pods/KrishnakumarB91",
+		"...",
+		"conf/sigmod/KumarS88",
+		"journals/tods/ONeil86",
+		"conf/pods/SoparkarS90",
+		"conf/podc/WuuB84"
+	],
 	"crossref": "conf/vldb/92",
 	"dblpkey": "conf/vldb/KrishnakumarB92",
 	"ee": "http://www.vldb.org/conf/1992/P175.PDF",
 	"pages": "175-186",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["high", "throughput", "escrow", "algorithm", "for", "replic", "databas"],
-	"tag": ["algorithm", "database", "throughput"],
+	"stemmed": [
+		"high",
+		"throughput",
+		"escrow",
+		"algorithm",
+		"for",
+		"replic",
+		"databas"
+	],
+	"tag": [
+		"algorithm",
+		"database",
+		"throughput"
+	],
 	"title": "High Throughput Escrow Algorithms for Replicated Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

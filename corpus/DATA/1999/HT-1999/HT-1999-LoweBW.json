@@ -1,6 +1,11 @@
 {
-	"author": ["David B. Lowe", "Andrew J. Bucknell", "Richard Webby"],
-	"booktitle": "Hypertext",
+	"author": [
+		"David B. Lowe",
+		"Andrew J. Bucknell",
+		"Richard Webby"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Hypertext and Hypermedia",
+	"booktitleshort": "HT",
 	"cdrom": "HT1999/P139.pdf",
 	"crossref": "conf/ht/99",
 	"dblpkey": "conf/ht/LoweBW99",
@@ -8,8 +13,25 @@
 	"ee": "http://doi.acm.org/10.1145/294469.294507",
 	"pages": "139-146",
 	"publisher": "ACM",
-	"stemmed": ["improv", "hypermedia", "develop", "a", "refer", "model", "base", "process", "assess", "method"],
-	"tag": ["assessment", "development", "hypermedia", "modelling", "process"],
+	"stemmed": [
+		"improv",
+		"hypermedia",
+		"develop",
+		"a",
+		"refer",
+		"model",
+		"base",
+		"process",
+		"assess",
+		"method"
+	],
+	"tag": [
+		"assessment",
+		"development",
+		"hypermedia",
+		"modelling",
+		"process"
+	],
 	"title": "Improving Hypermedia Development: A Reference Model-Based Process Assessment Method",
 	"type": "inproceedings",
 	"venue": "HT",

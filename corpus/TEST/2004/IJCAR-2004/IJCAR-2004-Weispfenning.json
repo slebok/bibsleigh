@@ -1,6 +1,7 @@
 {
 	"author": "Volker Weispfenning",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Second International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2004",
 	"dblpkey": "conf/cade/Weispfenning04",
 	"doi": "10.1007/978-3-540-25984-8_25",
@@ -10,11 +11,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["solv", "constraint", "by", "elimin", "method"],
-	"tag": ["constraints"],
+	"stemmed": [
+		"solv",
+		"constraint",
+		"by",
+		"elimin",
+		"method"
+	],
+	"tag": [
+		"constraints"
+	],
 	"title": "Solving Constraints by Elimination Methods",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 3097,
+	"volume": "3097",
 	"year": 2004
 }

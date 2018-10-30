@@ -1,6 +1,13 @@
 {
-	"author": ["John Morcos", "Ziawasch Abedjan", "Ihab Francis Ilyas", "Mourad Ouzzani", "Paolo Papotti", "Michael Stonebraker"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"John Morcos",
+		"Ziawasch Abedjan",
+		"Ihab Francis Ilyas",
+		"Mourad Ouzzani",
+		"Paolo Papotti",
+		"Michael Stonebraker"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/MorcosAIOPS15",
@@ -8,8 +15,19 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2735366",
 	"pages": "883-888",
 	"publisher": "ACM",
-	"stemmed": ["dataxform", "an", "interact", "data", "transform", "tool"],
-	"tag": ["data transformation", "interactive", "named"],
+	"stemmed": [
+		"dataxform",
+		"an",
+		"interact",
+		"data",
+		"transform",
+		"tool"
+	],
+	"tag": [
+		"data transformation",
+		"interactive",
+		"named"
+	],
 	"title": "DataXFormer: An Interactive Data Transformation Tool",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

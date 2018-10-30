@@ -1,17 +1,39 @@
 {
-	"author": ["Xiangyu Zhang", "Sriraman Tallam", "Rajiv Gupta"],
+	"author": [
+		"Xiangyu Zhang",
+		"Sriraman Tallam",
+		"Rajiv Gupta"
+	],
 	"booktitle": "Proceedings of the 14th International Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2006",
 	"dblpkey": "conf/sigsoft/ZhangTG06",
 	"doi": "10.1145/1181775.1181786",
-	"editor": ["Michal Young", "Premkumar T. Devanbu"],
+	"editor": [
+		"Michal Young",
+		"Premkumar T. Devanbu"
+	],
 	"ee": "http://doi.acm.org/10.1145/1181775.1181786",
 	"isbn": "1-59593-468-5",
 	"pages": "81-91",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "slice", "long", "run", "program", "through", "execut", "fast", "forward"],
-	"tag": ["execution", "performance", "slicing", "source code"],
+	"stemmed": [
+		"dynam",
+		"slice",
+		"long",
+		"run",
+		"program",
+		"through",
+		"execut",
+		"fast",
+		"forward"
+	],
+	"tag": [
+		"execution",
+		"performance",
+		"slicing",
+		"source code"
+	],
 	"title": "Dynamic slicing long running programs through execution fast forwarding",
 	"type": "inproceedings",
 	"venue": "FSE",

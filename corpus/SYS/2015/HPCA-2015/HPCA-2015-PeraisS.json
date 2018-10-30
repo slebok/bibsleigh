@@ -1,14 +1,36 @@
 {
-	"author": ["Arthur Perais", "André Seznec"],
-	"booktitle": "HPCA",
+	"author": [
+		"Arthur Perais",
+		"André Seznec"
+	],
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2015",
 	"dblpkey": "conf/hpca/PeraisS15",
 	"doi": "10.1109/HPCA.2015.7056018",
 	"ee": "http://dx.doi.org/10.1109/HPCA.2015.7056018",
 	"pages": "13-25",
 	"publisher": "IEEE",
-	"stemmed": ["be", "bo", "p", "a", "cost", "effect", "predictor", "infrastructur", "for", "superscalar", "valu", "predict"],
-	"tag": ["effectiveness", "framework", "named", "predict"],
+	"stemmed": [
+		"be",
+		"bo",
+		"p",
+		"a",
+		"cost",
+		"effect",
+		"predictor",
+		"infrastructur",
+		"for",
+		"superscalar",
+		"valu",
+		"predict"
+	],
+	"tag": [
+		"effectiveness",
+		"framework",
+		"named",
+		"predict"
+	],
 	"title": "BeBoP: A cost effective predictor infrastructure for superscalar value prediction",
 	"type": "inproceedings",
 	"venue": "HPCA",

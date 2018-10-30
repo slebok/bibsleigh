@@ -1,15 +1,42 @@
 {
-	"author": ["Murthy Durbhakula", "Vijay S. Pai", "Sarita V. Adve"],
-	"booktitle": "HPCA",
+	"author": [
+		"Murthy Durbhakula",
+		"Vijay S. Pai",
+		"Sarita V. Adve"
+	],
+	"booktitle": "Proceedings of the Fifth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1999",
 	"dblpkey": "conf/hpca/DurbhakulaPA99",
 	"doi": "10.1109/HPCA.1999.744317",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1999.744317", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744317"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1999.744317",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744317"
+	],
 	"pages": "23-32",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["improv", "the", "accuraci", "vs", "speed", "tradeoff", "for", "simul", "share", "memori", "multiprocessor", "with", "ilp", "processor"],
-	"tag": ["multi", "simulation", "trade-off"],
+	"stemmed": [
+		"improv",
+		"the",
+		"accuraci",
+		"vs",
+		"speed",
+		"tradeoff",
+		"for",
+		"simul",
+		"share",
+		"memori",
+		"multiprocessor",
+		"with",
+		"ilp",
+		"processor"
+	],
+	"tag": [
+		"multi",
+		"simulation",
+		"trade-off"
+	],
 	"title": "Improving the Accuracy vs. Speed Tradeoff for Simulating Shared-Memory Multiprocessors with ILP Processors",
 	"type": "inproceedings",
 	"venue": "HPCA",

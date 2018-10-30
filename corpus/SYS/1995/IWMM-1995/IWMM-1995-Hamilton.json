@@ -1,6 +1,7 @@
 {
 	"author": "Geoff W. Hamilton",
-	"booktitle": "IWMM",
+	"booktitle": "Proceedings of the Second International Workshop on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/95",
 	"dblpkey": "conf/iwmm/Hamilton95",
 	"doi": "10.1007/3-540-60368-9_21",
@@ -10,11 +11,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["compil", "time", "garbag", "collect", "for", "lazi", "function", "languag"],
-	"tag": ["functional", "garbage collection", "lazy evaluation"],
+	"stemmed": [
+		"compil",
+		"time",
+		"garbag",
+		"collect",
+		"for",
+		"lazi",
+		"function",
+		"languag"
+	],
+	"tag": [
+		"functional",
+		"garbage collection",
+		"lazy evaluation"
+	],
 	"title": "Compile-Time Garbage Collection for Lazy Functional Languages",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 986,
+	"volume": "986",
 	"year": 1995
 }

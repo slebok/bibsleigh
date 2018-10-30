@@ -1,6 +1,13 @@
 {
-	"author": ["A. Imdad", "Stéphane Bres", "Véronique Eglin", "C. Rivero-Moreno", "Hubert Emptoz"],
-	"booktitle": "ICDAR",
+	"author": [
+		"A. Imdad",
+		"Stéphane Bres",
+		"Véronique Eglin",
+		"C. Rivero-Moreno",
+		"Hubert Emptoz"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/ImdadBERE07",
 	"doi": "10.1109/ICDAR.2007.271",
@@ -8,8 +15,20 @@
 	"pages": "839-843",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["writer", "identif", "use", "steer", "hermit", "featur", "and", "svm"],
-	"tag": ["identification", "using"],
+	"stemmed": [
+		"writer",
+		"identif",
+		"use",
+		"steer",
+		"hermit",
+		"featur",
+		"and",
+		"svm"
+	],
+	"tag": [
+		"identification",
+		"using"
+	],
 	"title": "Writer Identification Using Steered Hermite Features and SVM",
 	"type": "inproceedings",
 	"venue": "ICDAR",

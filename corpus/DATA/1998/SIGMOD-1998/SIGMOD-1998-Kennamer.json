@@ -1,6 +1,7 @@
 {
 	"author": "Sherri Kennamer",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD98/P539.PDF",
 	"crossref": "conf/sigmod/98",
 	"dblpkey": "conf/sigmod/Kennamer98",
@@ -8,8 +9,23 @@
 	"ee": "http://doi.acm.org/10.1145/276304.276373",
 	"pages": "539-540",
 	"publisher": "ACM Press",
-	"stemmed": ["microsoft", "com", "a", "high", "scale", "data", "manag", "and", "transact", "process", "solut"],
-	"tag": ["data transformation", "transaction"],
+	"stemmed": [
+		"microsoft",
+		"com",
+		"a",
+		"high",
+		"scale",
+		"data",
+		"manag",
+		"and",
+		"transact",
+		"process",
+		"solut"
+	],
+	"tag": [
+		"data transformation",
+		"transaction"
+	],
 	"title": "Microsoft.com: A High-Scale Data Management and Transaction Processing Solution",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

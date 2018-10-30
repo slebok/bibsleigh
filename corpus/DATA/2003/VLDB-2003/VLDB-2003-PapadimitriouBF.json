@@ -1,12 +1,26 @@
 {
-	"author": ["Spiros Papadimitriou", "Anthony Brockwell", "Christos Faloutsos"],
-	"booktitle": "VLDB",
+	"author": [
+		"Spiros Papadimitriou",
+		"Anthony Brockwell",
+		"Christos Faloutsos"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/PapadimitriouBF03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S17P03.pdf",
 	"pages": "560-571",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["adapt", "hand", "off", "stream", "mine"],
-	"tag": ["adaptation", "mining"],
+	"stemmed": [
+		"adapt",
+		"hand",
+		"off",
+		"stream",
+		"mine"
+	],
+	"tag": [
+		"adaptation",
+		"mining"
+	],
 	"title": "Adaptive, Hands-Off Stream Mining",
 	"type": "inproceedings",
 	"venue": "VLDB",

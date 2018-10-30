@@ -1,6 +1,12 @@
 {
-	"author": ["Yi Xu", "Bo Zhao", "Youtao Zhang", "Jun Yang"],
-	"booktitle": "HPCA",
+	"author": [
+		"Yi Xu",
+		"Bo Zhao",
+		"Youtao Zhang",
+		"Jun Yang"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2010",
 	"dblpkey": "conf/hpca/XuZZY10",
 	"doi": "10.1109/HPCA.2010.5416640",
@@ -8,8 +14,24 @@
 	"pages": "1-11",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["simpl", "virtual", "channel", "alloc", "for", "high", "throughput", "and", "high", "frequenc", "on", "chip", "router"],
-	"tag": ["throughput"],
+	"stemmed": [
+		"simpl",
+		"virtual",
+		"channel",
+		"alloc",
+		"for",
+		"high",
+		"throughput",
+		"and",
+		"high",
+		"frequenc",
+		"on",
+		"chip",
+		"router"
+	],
+	"tag": [
+		"throughput"
+	],
 	"title": "Simple virtual channel allocation for high throughput and high frequency on-chip routers",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,6 +1,10 @@
 {
-	"author": ["Peter G. Anick", "Shivakumar Vaithyanathan"],
+	"author": [
+		"Peter G. Anick",
+		"Shivakumar Vaithyanathan"
+	],
 	"booktitle": "Proceedings of the 20th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1997/P314.pdf",
 	"crossref": "conf/sigir/97",
 	"dblpkey": "conf/sigir/AnickV97",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/258525.258601",
 	"pages": "314-323",
 	"publisher": "ACM",
-	"stemmed": ["exploit", "cluster", "and", "phrase", "for", "context", "base", "inform", "retriev"],
-	"tag": ["clustering", "information retrieval"],
+	"stemmed": [
+		"exploit",
+		"cluster",
+		"and",
+		"phrase",
+		"for",
+		"context",
+		"base",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"clustering",
+		"information retrieval"
+	],
 	"title": "Exploiting Clustering and Phrases for Context-based Information Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

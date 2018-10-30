@@ -1,6 +1,10 @@
 {
-	"author": ["Leo Marcus", "Timothy Redmond"],
-	"booktitle": "CADE",
+	"author": [
+		"Leo Marcus",
+		"Timothy Redmond"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/MarcusR88",
 	"doi": "10.1007/BFb0012862",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["two", "autom", "method", "in", "implement", "proof"],
-	"tag": ["automation", "implementation", "proving"],
+	"stemmed": [
+		"two",
+		"autom",
+		"method",
+		"in",
+		"implement",
+		"proof"
+	],
+	"tag": [
+		"automation",
+		"implementation",
+		"proving"
+	],
 	"title": "Two Automated Methods in Implementation Proofs",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

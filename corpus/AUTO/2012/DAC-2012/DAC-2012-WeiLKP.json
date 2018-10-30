@@ -1,14 +1,37 @@
 {
-	"author": ["Sheng Wei", "Kai Li", "Farinaz Koushanfar", "Miodrag Potkonjak"],
-	"booktitle": "DAC",
+	"author": [
+		"Sheng Wei",
+		"Kai Li",
+		"Farinaz Koushanfar",
+		"Miodrag Potkonjak"
+	],
+	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/WeiLKP12",
 	"doi": "10.1145/2228360.2228378",
 	"ee": "http://doi.acm.org/10.1145/2228360.2228378",
 	"pages": "90-95",
 	"publisher": "ACM",
-	"stemmed": ["hardwar", "trojan", "hors", "benchmark", "via", "optim", "creation", "and", "placement", "of", "malici", "circuitri"],
-	"tag": ["benchmark", "hardware", "metric"],
+	"stemmed": [
+		"hardwar",
+		"trojan",
+		"hors",
+		"benchmark",
+		"via",
+		"optim",
+		"creation",
+		"and",
+		"placement",
+		"of",
+		"malici",
+		"circuitri"
+	],
+	"tag": [
+		"benchmark",
+		"hardware",
+		"metric"
+	],
 	"title": "Hardware Trojan horse benchmark via optimal creation and placement of malicious circuitry",
 	"type": "inproceedings",
 	"venue": "DAC",

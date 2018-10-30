@@ -1,14 +1,46 @@
 {
-	"author": ["Serge Abiteboul", "Sophie Cluet", "Tova Milo"],
-	"booktitle": "VLDB",
-	"cite": ["conf/sigmod/AbiteboulB91", "conf/sigmod/AbiteboulK89", "journals/csur/AhoJ74", "conf/dbpl/BancilhonCD89", "conf/icdt/BeeriK90", "conf/pods/BeeriM92", "conf/dbpl/TannenBN91", "conf/sigmod/CluetD92", "conf/dbpl/Dayal89", "journals/tkde/Deux90", "books/aw/HopcroftU79", "conf/vldb/Kim89", "...", "conf/dood/ShawZ89", "journals/tods/ShuHTGL77", "journals/tois/StraubeO90", "books/cs/Ullman88", "books/cs/Ullman89"],
+	"author": [
+		"Serge Abiteboul",
+		"Sophie Cluet",
+		"Tova Milo"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/sigmod/AbiteboulB91",
+		"conf/sigmod/AbiteboulK89",
+		"journals/csur/AhoJ74",
+		"conf/dbpl/BancilhonCD89",
+		"conf/icdt/BeeriK90",
+		"conf/pods/BeeriM92",
+		"conf/dbpl/TannenBN91",
+		"conf/sigmod/CluetD92",
+		"conf/dbpl/Dayal89",
+		"journals/tkde/Deux90",
+		"books/aw/HopcroftU79",
+		"conf/vldb/Kim89",
+		"...",
+		"conf/dood/ShawZ89",
+		"journals/tods/ShuHTGL77",
+		"journals/tois/StraubeO90",
+		"books/cs/Ullman88",
+		"books/cs/Ullman89"
+	],
 	"crossref": "conf/vldb/93",
 	"dblpkey": "conf/vldb/AbiteboulCM93",
 	"ee": "http://www.vldb.org/conf/1993/P073.PDF",
 	"pages": "73-84",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["queri", "and", "updat", "the", "file"],
-	"tag": ["query"],
+	"stemmed": [
+		"queri",
+		"and",
+		"updat",
+		"the",
+		"file"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Querying and Updating the File",
 	"type": "inproceedings",
 	"venue": "VLDB",

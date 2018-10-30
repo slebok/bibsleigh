@@ -1,6 +1,7 @@
 {
 	"author": "Charles Antony Richard Hoare",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the Sixth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2005",
 	"dblpkey": "conf/vmcai/Hoare05",
 	"doi": "10.1007/978-3-540-30579-8_5",
@@ -10,11 +11,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "verifi", "compil", "a", "grand", "challeng", "for", "comput", "research"],
-	"tag": ["challenge", "compilation", "research", "verification"],
+	"stemmed": [
+		"the",
+		"verifi",
+		"compil",
+		"a",
+		"grand",
+		"challeng",
+		"for",
+		"comput",
+		"research"
+	],
+	"tag": [
+		"challenge",
+		"compilation",
+		"research",
+		"verification"
+	],
 	"title": "The Verifying Compiler, a Grand Challenge for Computing Research",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3385,
+	"volume": "3385",
 	"year": 2005
 }

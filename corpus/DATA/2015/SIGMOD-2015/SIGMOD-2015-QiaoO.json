@@ -1,6 +1,9 @@
 {
-	"author": ["Shi Qiao", "Z. Meral Özsoyoglu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Shi Qiao",
+		"Z. Meral Özsoyoglu"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/QiaoO15",
@@ -8,8 +11,20 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2746479",
 	"pages": "1825-1838",
 	"publisher": "ACM",
-	"stemmed": ["r", "bench", "applic", "specif", "rdf", "benchmark"],
-	"tag": ["benchmark", "metric", "named", "rdf"],
+	"stemmed": [
+		"r",
+		"bench",
+		"applic",
+		"specif",
+		"rdf",
+		"benchmark"
+	],
+	"tag": [
+		"benchmark",
+		"metric",
+		"named",
+		"rdf"
+	],
 	"title": "RBench: Application-Specific RDF Benchmarking",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

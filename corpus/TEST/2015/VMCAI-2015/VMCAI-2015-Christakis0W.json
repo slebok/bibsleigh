@@ -1,6 +1,11 @@
 {
-	"author": ["Maria Christakis", "Peter Müller", "Valentin Wüstholz"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Maria Christakis",
+		"Peter Müller",
+		"Valentin Wüstholz"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2015",
 	"dblpkey": "conf/vmcai/Christakis0W15",
 	"doi": "10.1007/978-3-662-46081-8_19",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "experiment", "evalu", "of", "deliber", "unsound", "in", "a", "static", "program", "analyz"],
-	"tag": ["evaluation"],
+	"stemmed": [
+		"an",
+		"experiment",
+		"evalu",
+		"of",
+		"deliber",
+		"unsound",
+		"in",
+		"a",
+		"static",
+		"program",
+		"analyz"
+	],
+	"tag": [
+		"evaluation"
+	],
 	"title": "An Experimental Evaluation of Deliberate Unsoundness in a Static Program Analyzer",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 8931,
+	"volume": "8931",
 	"year": 2015
 }

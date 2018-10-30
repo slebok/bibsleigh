@@ -1,15 +1,44 @@
 {
-	"author": ["Mikhail J. Atallah", "Sunil Prabhakar"],
-	"booktitle": "PODS",
-	"cite": ["conf/icdt/Abdel-GhaffarA97", "conf/sigmod/BerchtoldBBKK97", "conf/icde/BhatiaSC00", "conf/edbt/BhatiaSC00", "journals/tods/DuS82", "conf/pdis/FaloutsosB93", "conf/sigmod/KimP88", "conf/vldb/LiSR92", "conf/icde/PrabhakarAAA98", "conf/spaa/PrabhakarAA98", "..."],
+	"author": [
+		"Mikhail J. Atallah",
+		"Sunil Prabhakar"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cite": [
+		"conf/icdt/Abdel-GhaffarA97",
+		"conf/sigmod/BerchtoldBBKK97",
+		"conf/icde/BhatiaSC00",
+		"conf/edbt/BhatiaSC00",
+		"journals/tods/DuS82",
+		"conf/pdis/FaloutsosB93",
+		"conf/sigmod/KimP88",
+		"conf/vldb/LiSR92",
+		"conf/icde/PrabhakarAAA98",
+		"conf/spaa/PrabhakarAA98",
+		"..."
+	],
 	"crossref": "conf/pods/00",
 	"dblpkey": "conf/pods/AtallahP00",
 	"doi": "10.1145/335168.335224",
 	"ee": "http://doi.acm.org/10.1145/335168.335224",
 	"pages": "205-215",
 	"publisher": "ACM",
-	"stemmed": ["almost", "optim", "parallel", "block", "access", "for", "rang", "queri"],
-	"tag": ["data access", "parallel", "query"],
+	"stemmed": [
+		"almost",
+		"optim",
+		"parallel",
+		"block",
+		"access",
+		"for",
+		"rang",
+		"queri"
+	],
+	"tag": [
+		"data access",
+		"parallel",
+		"query"
+	],
 	"title": "(Almost) Optimal Parallel Block Access for Range Queries",
 	"type": "inproceedings",
 	"venue": "PODS",

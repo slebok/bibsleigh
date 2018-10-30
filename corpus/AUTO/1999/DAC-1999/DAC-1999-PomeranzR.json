@@ -1,13 +1,39 @@
 {
-	"author": ["Irith Pomeranz", "Sudhakar M. Reddy"],
-	"booktitle": "DAC",
+	"author": [
+		"Irith Pomeranz",
+		"Sudhakar M. Reddy"
+	],
+	"booktitle": "Proceedings of the 36th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/PomeranzR99",
 	"doi": "10.1145/309847.310052",
 	"ee": "http://doi.acm.org/10.1145/309847.310052",
 	"pages": "754-759",
 	"publisher": "ACM Press",
-	"stemmed": ["built", "in", "test", "sequenc", "generat", "for", "synchron", "sequenti", "circuit", "base", "on", "load", "and", "expans", "of", "test", "subsequ"],
-	"tag": ["generative", "sequence", "testing"],
+	"stemmed": [
+		"built",
+		"in",
+		"test",
+		"sequenc",
+		"generat",
+		"for",
+		"synchron",
+		"sequenti",
+		"circuit",
+		"base",
+		"on",
+		"load",
+		"and",
+		"expans",
+		"of",
+		"test",
+		"subsequ"
+	],
+	"tag": [
+		"generative",
+		"sequence",
+		"testing"
+	],
 	"title": "Built-In Test Sequence Generation for Synchronous Sequential Circuits Based on Loading and Expansion of Test Subsequences",
 	"type": "inproceedings",
 	"venue": "DAC",

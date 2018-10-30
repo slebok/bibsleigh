@@ -1,15 +1,38 @@
 {
-	"author": ["Daniel Lustig", "Margaret Martonosi"],
-	"booktitle": "HPCA",
+	"author": [
+		"Daniel Lustig",
+		"Margaret Martonosi"
+	],
+	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/LustigM13",
 	"doi": "10.1109/HPCA.2013.6522332",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522332", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522332"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2013.6522332",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522332"
+	],
 	"pages": "354-365",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["reduc", "gpu", "offload", "latenc", "via", "fine", "grain", "cpu", "gpu", "synchron"],
-	"tag": ["cpu", "fine-grained", "gpu", "latency"],
+	"stemmed": [
+		"reduc",
+		"gpu",
+		"offload",
+		"latenc",
+		"via",
+		"fine",
+		"grain",
+		"cpu",
+		"gpu",
+		"synchron"
+	],
+	"tag": [
+		"cpu",
+		"fine-grained",
+		"gpu",
+		"latency"
+	],
 	"title": "Reducing GPU offload latency via fine-grained CPU-GPU synchronization",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,6 +1,13 @@
 {
-	"author": ["Carl Eichenlaub", "Bruce Esrig", "James Hook", "Carl Klapper", "Garrel Pottinger"],
-	"booktitle": "CADE",
+	"author": [
+		"Carl Eichenlaub",
+		"Bruce Esrig",
+		"James Hook",
+		"Carl Klapper",
+		"Garrel Pottinger"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/EichenlaubEHKP90",
 	"doi": "10.1007/3-540-52885-7_125",
@@ -10,11 +17,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "romulus", "proof", "checker"],
-	"tag": ["proving"],
+	"stemmed": [
+		"the",
+		"romulus",
+		"proof",
+		"checker"
+	],
+	"tag": [
+		"proving"
+	],
 	"title": "The Romulus Proof Checker",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

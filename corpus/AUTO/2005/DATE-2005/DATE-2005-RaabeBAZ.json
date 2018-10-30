@@ -1,6 +1,12 @@
 {
-	"author": ["Andreas Raabe", "Blazej Bartyzel", "Joachim K. Anlauf", "Gabriel Zachmann"],
-	"booktitle": "DATE",
+	"author": [
+		"Andreas Raabe",
+		"Blazej Bartyzel",
+		"Joachim K. Anlauf",
+		"Gabriel Zachmann"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/RaabeBAZ05",
 	"doi": "10.1109/DATE.2005.167",
@@ -8,8 +14,23 @@
 	"pages": "130-135",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["hardwar", "acceler", "collis", "detect", "an", "architectur", "and", "simul", "result"],
-	"tag": ["architecture", "detection", "hardware", "simulation"],
+	"stemmed": [
+		"hardwar",
+		"acceler",
+		"collis",
+		"detect",
+		"an",
+		"architectur",
+		"and",
+		"simul",
+		"result"
+	],
+	"tag": [
+		"architecture",
+		"detection",
+		"hardware",
+		"simulation"
+	],
 	"title": "Hardware Accelerated Collision Detection — An Architecture and Simulation Results",
 	"type": "inproceedings",
 	"venue": "DATE",

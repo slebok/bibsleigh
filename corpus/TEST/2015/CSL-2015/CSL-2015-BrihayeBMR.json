@@ -1,6 +1,12 @@
 {
-	"author": ["Thomas Brihaye", "Véronique Bruyère", "Noémie Meunier", "Jean-François Raskin"],
-	"booktitle": "CSL",
+	"author": [
+		"Thomas Brihaye",
+		"Véronique Bruyère",
+		"Noémie Meunier",
+		"Jean-François Raskin"
+	],
+	"booktitle": "24th EACSL Annual Conference on Computer Science Logic, CSL 2015, September 7-10, 2015, Berlin, Germany",
+	"booktitleshort": "CSL",
 	"crossref": "conf/csl/2015",
 	"dblpkey": "conf/csl/BrihayeBMR15",
 	"doi": "10.4230/LIPIcs.CSL.2015.504",
@@ -10,11 +16,24 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["weak", "subgam", "perfect", "equilibria", "and", "their", "applic", "to", "quantit", "reachabl"],
-	"tag": ["reachability"],
+	"stemmed": [
+		"weak",
+		"subgam",
+		"perfect",
+		"equilibria",
+		"and",
+		"their",
+		"applic",
+		"to",
+		"quantit",
+		"reachabl"
+	],
+	"tag": [
+		"reachability"
+	],
 	"title": "Weak Subgame Perfect Equilibria and their Application to Quantitative Reachability",
 	"type": "inproceedings",
 	"venue": "CSL",
-	"volume": 41,
+	"volume": "41",
 	"year": 2015
 }

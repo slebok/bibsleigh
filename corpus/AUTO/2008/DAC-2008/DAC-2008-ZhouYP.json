@@ -1,14 +1,36 @@
 {
-	"author": ["Xiangrong Zhou", "Chenjie Yu", "Peter Petrov"],
-	"booktitle": "DAC",
+	"author": [
+		"Xiangrong Zhou",
+		"Chenjie Yu",
+		"Peter Petrov"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/ZhouYP08",
 	"doi": "10.1145/1391469.1391661",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391661",
 	"pages": "750-753",
 	"publisher": "ACM",
-	"stemmed": ["compil", "driven", "regist", "re", "assign", "for", "regist", "file", "power", "densiti", "and", "temperatur", "reduct"],
-	"tag": ["compilation", "reduction"],
+	"stemmed": [
+		"compil",
+		"driven",
+		"regist",
+		"re",
+		"assign",
+		"for",
+		"regist",
+		"file",
+		"power",
+		"densiti",
+		"and",
+		"temperatur",
+		"reduct"
+	],
+	"tag": [
+		"compilation",
+		"reduction"
+	],
 	"title": "Compiler-driven register re-assignment for register file power-density and temperature reduction",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,13 +1,32 @@
 {
-	"author": ["Prince Mahajan", "Srinath T. V. Setty", "Sangmin Lee", "Allen Clement", "Lorenzo Alvisi", "Michael Dahlin", "Michael Walfish"],
-	"booktitle": "OSDI",
+	"author": [
+		"Prince Mahajan",
+		"Srinath T. V. Setty",
+		"Sangmin Lee",
+		"Allen Clement",
+		"Lorenzo Alvisi",
+		"Michael Dahlin",
+		"Michael Walfish"
+	],
+	"booktitle": "Proceedings of the Ninth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2010",
 	"dblpkey": "conf/osdi/MahajanSLCADW10",
 	"ee": "http://www.usenix.org/events/osdi10/tech/full_papers/Mahajan.pdf",
 	"pages": "307-322",
 	"publisher": "USENIX Association",
-	"stemmed": ["depot", "cloud", "storag", "with", "minim", "trust"],
-	"tag": ["named", "trust"],
+	"stemmed": [
+		"depot",
+		"cloud",
+		"storag",
+		"with",
+		"minim",
+		"trust"
+	],
+	"tag": [
+		"named",
+		"trust"
+	],
 	"title": "Depot: Cloud Storage with Minimal Trust",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,6 +1,10 @@
 {
-	"author": ["Thomas Genet", "Francis Klay"],
-	"booktitle": "CADE",
+	"author": [
+		"Thomas Genet",
+		"Francis Klay"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2000",
 	"dblpkey": "conf/cade/GenetK00",
 	"doi": "10.1007/10721959_21",
@@ -10,11 +14,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["rewrit", "for", "cryptograph", "protocol", "verif"],
-	"tag": ["encryption", "protocol", "verification"],
+	"stemmed": [
+		"rewrit",
+		"for",
+		"cryptograph",
+		"protocol",
+		"verif"
+	],
+	"tag": [
+		"encryption",
+		"protocol",
+		"verification"
+	],
 	"title": "Rewriting for Cryptographic Protocol Verification",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1831,
+	"volume": "1831",
 	"year": 2000
 }

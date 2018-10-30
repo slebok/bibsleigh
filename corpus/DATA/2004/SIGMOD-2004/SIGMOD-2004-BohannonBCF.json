@@ -1,15 +1,35 @@
 {
-	"author": ["Philip Bohannon", "Peter Buneman", "Byron Choi", "Wenfei Fan"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Philip Bohannon",
+		"Peter Buneman",
+		"Byron Choi",
+		"Wenfei Fan"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/BohannonBCF04",
 	"doi": "10.1145/1007568.1007625",
-	"ee": ["http://doi.acm.org/10.1145/1007568.1007625", "http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-589.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1007568.1007625",
+		"http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-589.pdf"
+	],
 	"pages": "503-514",
 	"publisher": "ACM",
-	"stemmed": ["increment", "evalu", "of", "schema", "direct", "xml", "publish"],
-	"tag": ["evaluation", "incremental", "xml"],
+	"stemmed": [
+		"increment",
+		"evalu",
+		"of",
+		"schema",
+		"direct",
+		"xml",
+		"publish"
+	],
+	"tag": [
+		"evaluation",
+		"incremental",
+		"xml"
+	],
 	"title": "Incremental Evaluation of Schema-Directed XML Publishing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

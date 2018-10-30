@@ -1,6 +1,12 @@
 {
-	"author": ["Kristi Morton", "Ross Bunker", "Jock D. Mackinlay", "Robert Morton", "Chris Stolte"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Kristi Morton",
+		"Ross Bunker",
+		"Jock D. Mackinlay",
+		"Robert Morton",
+		"Chris Stolte"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/MortonBMMS12",
@@ -8,8 +14,18 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213961",
 	"pages": "807-816",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "workload", "driven", "data", "integr", "in", "tableau"],
-	"tag": ["integration"],
+	"stemmed": [
+		"dynam",
+		"workload",
+		"driven",
+		"data",
+		"integr",
+		"in",
+		"tableau"
+	],
+	"tag": [
+		"integration"
+	],
 	"title": "Dynamic workload driven data integration in tableau",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

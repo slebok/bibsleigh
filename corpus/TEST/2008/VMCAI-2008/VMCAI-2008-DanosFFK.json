@@ -1,6 +1,12 @@
 {
-	"author": ["Vincent Danos", "Jérôme Feret", "Walter Fontana", "Jean Krivine"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Vincent Danos",
+		"Jérôme Feret",
+		"Walter Fontana",
+		"Jean Krivine"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2008",
 	"dblpkey": "conf/vmcai/DanosFFK08",
 	"doi": "10.1007/978-3-540-78163-9_11",
@@ -10,11 +16,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["abstract", "interpret", "of", "cellular", "signal", "network"],
-	"tag": ["abstract interpretation", "network"],
+	"stemmed": [
+		"abstract",
+		"interpret",
+		"of",
+		"cellular",
+		"signal",
+		"network"
+	],
+	"tag": [
+		"abstract interpretation",
+		"network"
+	],
 	"title": "Abstract Interpretation of Cellular Signalling Networks",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 4905,
+	"volume": "4905",
 	"year": 2008
 }

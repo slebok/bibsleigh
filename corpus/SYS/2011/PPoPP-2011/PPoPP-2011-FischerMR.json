@@ -1,14 +1,28 @@
 {
-	"author": ["Topher Fischer", "Eric Mercer", "Neha Rungta"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Topher Fischer",
+		"Eric Mercer",
+		"Neha Rungta"
+	],
+	"booktitle": "Proceedings of the 16th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2011",
 	"dblpkey": "conf/ppopp/FischerMR11",
 	"doi": "10.1145/1941553.1941602",
 	"ee": "http://doi.acm.org/10.1145/1941553.1941602",
 	"pages": "307-308",
 	"publisher": "ACM",
-	"stemmed": ["symbol", "model", "concurr", "mcapi", "execut"],
-	"tag": ["concurrent", "modelling"],
+	"stemmed": [
+		"symbol",
+		"model",
+		"concurr",
+		"mcapi",
+		"execut"
+	],
+	"tag": [
+		"concurrent",
+		"modelling"
+	],
 	"title": "Symbolically modeling concurrent MCAPI executions",
 	"type": "inproceedings",
 	"venue": "PPoPP",

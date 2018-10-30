@@ -1,6 +1,11 @@
 {
-	"author": ["Samuel Madden", "Michael J. Franklin", "Joseph M. Hellerstein", "Wei Hong"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Samuel Madden",
+		"Michael J. Franklin",
+		"Joseph M. Hellerstein",
+		"Wei Hong"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/MaddenFHH03",
@@ -8,8 +13,23 @@
 	"ee": "http://doi.acm.org/10.1145/872757.872817",
 	"pages": "491-502",
 	"publisher": "ACM",
-	"stemmed": ["the", "design", "of", "an", "acquisit", "queri", "processor", "for", "sensor", "network"],
-	"tag": ["design", "network", "query"],
+	"stemmed": [
+		"the",
+		"design",
+		"of",
+		"an",
+		"acquisit",
+		"queri",
+		"processor",
+		"for",
+		"sensor",
+		"network"
+	],
+	"tag": [
+		"design",
+		"network",
+		"query"
+	],
 	"title": "The Design of an Acquisitional Query Processor For Sensor Networks",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

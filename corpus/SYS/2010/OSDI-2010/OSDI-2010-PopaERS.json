@@ -1,13 +1,30 @@
 {
-	"author": ["Lucian Popa", "Norbert Egi", "Sylvia Ratnasamy", "Ion Stoica"],
-	"booktitle": "OSDI",
+	"author": [
+		"Lucian Popa",
+		"Norbert Egi",
+		"Sylvia Ratnasamy",
+		"Ion Stoica"
+	],
+	"booktitle": "Proceedings of the Ninth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2010",
 	"dblpkey": "conf/osdi/PopaERS10",
 	"ee": "http://www.usenix.org/events/osdi10/tech/full_papers/Popa.pdf",
 	"pages": "379-392",
 	"publisher": "USENIX Association",
-	"stemmed": ["build", "extens", "network", "with", "rule", "base", "forward"],
-	"tag": ["network", "rule-based"],
+	"stemmed": [
+		"build",
+		"extens",
+		"network",
+		"with",
+		"rule",
+		"base",
+		"forward"
+	],
+	"tag": [
+		"network",
+		"rule-based"
+	],
 	"title": "Building Extensible Networks with Rule-Based Forwarding",
 	"type": "inproceedings",
 	"venue": "OSDI",

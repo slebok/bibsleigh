@@ -1,12 +1,26 @@
 {
-	"author": ["Andrew Baumann", "Marcus Peinado", "Galen C. Hunt"],
-	"booktitle": "OSDI",
+	"author": [
+		"Andrew Baumann",
+		"Marcus Peinado",
+		"Galen C. Hunt"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2014",
 	"dblpkey": "conf/osdi/BaumannPH14",
 	"ee": "https://www.usenix.org/conference/osdi14/technical-sessions/presentation/baumann",
 	"pages": "267-283",
 	"publisher": "USENIX Association",
-	"stemmed": ["shield", "applic", "from", "an", "untrust", "cloud", "with", "haven"],
+	"stemmed": [
+		"shield",
+		"applic",
+		"from",
+		"an",
+		"untrust",
+		"cloud",
+		"with",
+		"haven"
+	],
 	"title": "Shielding Applications from an Untrusted Cloud with Haven",
 	"type": "inproceedings",
 	"venue": "OSDI",

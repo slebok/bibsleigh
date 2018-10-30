@@ -1,14 +1,37 @@
 {
-	"author": ["Stephen J. Green", "Paul Lamere", "Jeffrey Alexander", "François Maillet", "Susanna Kirk", "Jessica Holt", "Jackie Bourque", "Xiao-Wen Mak"],
-	"booktitle": "RecSys",
+	"author": [
+		"Stephen J. Green",
+		"Paul Lamere",
+		"Jeffrey Alexander",
+		"François Maillet",
+		"Susanna Kirk",
+		"Jessica Holt",
+		"Jackie Bourque",
+		"Xiao-Wen Mak"
+	],
+	"booktitle": "Proceedings of the Third Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2009",
 	"dblpkey": "conf/recsys/GreenLAMKHBM09",
 	"doi": "10.1145/1639714.1639768",
 	"ee": "http://doi.acm.org/10.1145/1639714.1639768",
 	"pages": "281-284",
 	"publisher": "ACM",
-	"stemmed": ["generat", "transpar", "steerabl", "recommend", "from", "textual", "descript", "of", "item"],
-	"tag": ["generative", "recommendation"],
+	"stemmed": [
+		"generat",
+		"transpar",
+		"steerabl",
+		"recommend",
+		"from",
+		"textual",
+		"descript",
+		"of",
+		"item"
+	],
+	"tag": [
+		"generative",
+		"recommendation"
+	],
 	"title": "Generating transparent, steerable recommendations from textual descriptions of items",
 	"type": "inproceedings",
 	"venue": "RecSys",

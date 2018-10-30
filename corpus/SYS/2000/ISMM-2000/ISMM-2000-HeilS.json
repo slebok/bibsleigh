@@ -1,14 +1,30 @@
 {
-	"author": ["Timothy H. Heil", "James E. Smith"],
-	"booktitle": "ISMM",
+	"author": [
+		"Timothy H. Heil",
+		"James E. Smith"
+	],
+	"booktitle": "Proceedings of the Second International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2000",
 	"dblpkey": "conf/iwmm/HeilS00",
 	"doi": "10.1145/362422.362466",
 	"ee": "http://doi.acm.org/10.1145/362422.362466",
 	"pages": "80-93",
 	"publisher": "ACM",
-	"stemmed": ["concurr", "garbag", "collect", "use", "hardwar", "assist", "profil"],
-	"tag": ["concurrent", "garbage collection", "profiling"],
+	"stemmed": [
+		"concurr",
+		"garbag",
+		"collect",
+		"use",
+		"hardwar",
+		"assist",
+		"profil"
+	],
+	"tag": [
+		"concurrent",
+		"garbage collection",
+		"profiling"
+	],
 	"title": "Concurrent Garbage Collection UsingHardware-Assisted Profiling",
 	"type": "inproceedings",
 	"venue": "ISMM",

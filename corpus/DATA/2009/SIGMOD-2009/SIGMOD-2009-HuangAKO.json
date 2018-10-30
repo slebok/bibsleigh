@@ -1,6 +1,11 @@
 {
-	"author": ["Jiewen Huang", "Lyublena Antova", "Christoph Koch", "Dan Olteanu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jiewen Huang",
+		"Lyublena Antova",
+		"Christoph Koch",
+		"Dan Olteanu"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/HuangAKO09",
@@ -8,8 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559984",
 	"pages": "1071-1074",
 	"publisher": "ACM",
-	"stemmed": ["may", "bms", "a", "probabilist", "databas", "manag", "system"],
-	"tag": ["database", "named", "probability"],
+	"stemmed": [
+		"may",
+		"bms",
+		"a",
+		"probabilist",
+		"databas",
+		"manag",
+		"system"
+	],
+	"tag": [
+		"database",
+		"named",
+		"probability"
+	],
 	"title": "MayBMS: a probabilistic database management system",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

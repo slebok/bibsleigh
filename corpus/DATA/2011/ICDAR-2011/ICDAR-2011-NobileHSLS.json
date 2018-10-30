@@ -1,15 +1,39 @@
 {
-	"author": ["Nicola Nobile", "Chun Lei He", "Malik Waqas Sagheer", "Louisa Lam", "Ching Y. Suen"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Nicola Nobile",
+		"Chun Lei He",
+		"Malik Waqas Sagheer",
+		"Louisa Lam",
+		"Ching Y. Suen"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2011",
 	"dblpkey": "conf/icdar/NobileHSLS11",
 	"doi": "10.1109/ICDAR.2011.136",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2011.136", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2011.136"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2011.136",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2011.136"
+	],
 	"pages": "648-652",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["digit", "symbol", "prune", "and", "verif", "for", "arab", "handwritten", "digit", "symbol", "spot"],
-	"tag": ["verification"],
+	"stemmed": [
+		"digit",
+		"symbol",
+		"prune",
+		"and",
+		"verif",
+		"for",
+		"arab",
+		"handwritten",
+		"digit",
+		"symbol",
+		"spot"
+	],
+	"tag": [
+		"verification"
+	],
 	"title": "Digit/Symbol Pruning and Verification for Arabic Handwritten Digit/Symbol Spotting",
 	"type": "inproceedings",
 	"venue": "ICDAR",

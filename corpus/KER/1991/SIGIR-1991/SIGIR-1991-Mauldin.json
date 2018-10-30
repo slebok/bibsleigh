@@ -1,6 +1,7 @@
 {
 	"author": "Michael L. Mauldin",
 	"booktitle": "Proceedings of the 14th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1991/P347.pdf",
 	"crossref": "conf/sigir/91",
 	"dblpkey": "conf/sigir/Mauldin91",
@@ -8,8 +9,21 @@
 	"ee": "http://doi.acm.org/10.1145/122860.122896",
 	"pages": "347-355",
 	"publisher": "ACM",
-	"stemmed": ["perform", "in", "ferret", "a", "conceptu", "inform", "retriev", "system"],
-	"tag": ["concept", "information retrieval", "performance"],
+	"stemmed": [
+		"perform",
+		"in",
+		"ferret",
+		"a",
+		"conceptu",
+		"inform",
+		"retriev",
+		"system"
+	],
+	"tag": [
+		"concept",
+		"information retrieval",
+		"performance"
+	],
 	"title": "Performance in FERRET: A Conceptual Information Retrieval System",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,6 +1,10 @@
 {
-	"author": ["Leonardo Mendonça de Moura", "Nikolaj Bjørner"],
-	"booktitle": "CADE",
+	"author": [
+		"Leonardo Mendonça de Moura",
+		"Nikolaj Bjørner"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2007",
 	"dblpkey": "conf/cade/MouraB07",
 	"doi": "10.1007/978-3-540-73595-3_13",
@@ -10,11 +14,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["effici", "e", "match", "for", "smt", "solver"],
-	"tag": ["performance", "smt"],
+	"stemmed": [
+		"effici",
+		"e",
+		"match",
+		"for",
+		"smt",
+		"solver"
+	],
+	"tag": [
+		"performance",
+		"smt"
+	],
 	"title": "Efficient E-Matching for SMT Solvers",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 4603,
+	"volume": "4603",
 	"year": 2007
 }

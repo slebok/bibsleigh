@@ -1,6 +1,7 @@
 {
 	"author": "Gérard P. Huet",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Huet86a",
 	"doi": "10.1007/3-540-16780-3_138",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["theorem", "prove", "system", "of", "the", "formel", "project"],
-	"tag": ["proving", "theorem proving"],
+	"stemmed": [
+		"theorem",
+		"prove",
+		"system",
+		"of",
+		"the",
+		"formel",
+		"project"
+	],
+	"tag": [
+		"proving",
+		"theorem proving"
+	],
 	"title": "Theorem Proving Systems of the Formel Project",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

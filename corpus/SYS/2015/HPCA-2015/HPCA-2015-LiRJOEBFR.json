@@ -1,14 +1,34 @@
 {
-	"author": ["Dong Li", "Minsoo Rhu", "Daniel R. Johnson", "Mike O'Connor", "Mattan Erez", "Doug Burger", "Donald S. Fussell", "Stephen W. Redder"],
-	"booktitle": "HPCA",
+	"author": [
+		"Dong Li",
+		"Minsoo Rhu",
+		"Daniel R. Johnson",
+		"Mike O'Connor",
+		"Mattan Erez",
+		"Doug Burger",
+		"Donald S. Fussell",
+		"Stephen W. Redder"
+	],
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2015",
 	"dblpkey": "conf/hpca/LiRJOEBFR15",
 	"doi": "10.1109/HPCA.2015.7056024",
 	"ee": "http://dx.doi.org/10.1109/HPCA.2015.7056024",
 	"pages": "89-100",
 	"publisher": "IEEE",
-	"stemmed": ["prioriti", "base", "cach", "alloc", "in", "throughput", "processor"],
-	"tag": ["throughput"],
+	"stemmed": [
+		"prioriti",
+		"base",
+		"cach",
+		"alloc",
+		"in",
+		"throughput",
+		"processor"
+	],
+	"tag": [
+		"throughput"
+	],
 	"title": "Priority-based cache allocation in throughput processors",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,6 +1,11 @@
 {
-	"author": ["Tomohiro Nakai", "Koichi Kise", "Masakazu Iwamura"],
-	"booktitle": "DRR",
+	"author": [
+		"Tomohiro Nakai",
+		"Koichi Kise",
+		"Masakazu Iwamura"
+	],
+	"booktitle": "Proceedings of the 16th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2009",
 	"dblpkey": "conf/drr/NakaiKI09",
 	"doi": "10.1117/12.80616",
@@ -8,11 +13,23 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["camera", "base", "document", "imag", "mosaic", "use", "llah"],
-	"tag": ["documentation", "image", "using"],
+	"stemmed": [
+		"camera",
+		"base",
+		"document",
+		"imag",
+		"mosaic",
+		"use",
+		"llah"
+	],
+	"tag": [
+		"documentation",
+		"image",
+		"using"
+	],
 	"title": "Camera-based document image mosaicing using LLAH",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7247,
+	"volume": "7247",
 	"year": 2009
 }

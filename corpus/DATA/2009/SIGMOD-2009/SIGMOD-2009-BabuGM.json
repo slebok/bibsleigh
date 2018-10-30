@@ -1,6 +1,10 @@
 {
-	"author": ["Shivnath Babu", "Sudipto Guha", "Kamesh Munagala"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Shivnath Babu",
+		"Sudipto Guha",
+		"Kamesh Munagala"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/BabuGM09",
@@ -8,8 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559964",
 	"pages": "995-998",
 	"publisher": "ACM",
-	"stemmed": ["larg", "scale", "uncertainti", "manag", "system", "learn", "and", "exploit", "your", "data"],
-	"tag": ["learning", "nondeterminism", "scalability"],
+	"stemmed": [
+		"larg",
+		"scale",
+		"uncertainti",
+		"manag",
+		"system",
+		"learn",
+		"and",
+		"exploit",
+		"your",
+		"data"
+	],
+	"tag": [
+		"learning",
+		"nondeterminism",
+		"scalability"
+	],
 	"title": "Large-scale uncertainty management systems: learning and exploiting your data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

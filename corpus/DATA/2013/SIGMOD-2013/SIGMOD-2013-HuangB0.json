@@ -1,6 +1,10 @@
 {
-	"author": ["Botong Huang", "Shivnath Babu", "Jun Yang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Botong Huang",
+		"Shivnath Babu",
+		"Jun Yang"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/HuangB013",
@@ -8,8 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465273",
 	"pages": "1-12",
 	"publisher": "ACM",
-	"stemmed": ["cumulon", "optim", "statist", "data", "analysi", "in", "the", "cloud"],
-	"tag": ["data analysis", "in the cloud", "named", "optimisation", "statistics"],
+	"stemmed": [
+		"cumulon",
+		"optim",
+		"statist",
+		"data",
+		"analysi",
+		"in",
+		"the",
+		"cloud"
+	],
+	"tag": [
+		"data analysis",
+		"in the cloud",
+		"named",
+		"optimisation",
+		"statistics"
+	],
 	"title": "Cumulon: optimizing statistical data analysis in the cloud",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

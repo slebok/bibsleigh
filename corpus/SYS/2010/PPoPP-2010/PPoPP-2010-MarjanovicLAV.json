@@ -1,14 +1,34 @@
 {
-	"author": ["Vladimir Marjanovic", "Jesús Labarta", "Eduard Ayguadé", "Mateo Valero"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Vladimir Marjanovic",
+		"Jesús Labarta",
+		"Eduard Ayguadé",
+		"Mateo Valero"
+	],
+	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/MarjanovicLAV10",
 	"doi": "10.1145/1693453.1693502",
 	"ee": "http://doi.acm.org/10.1145/1693453.1693502",
 	"pages": "337-338",
 	"publisher": "ACM",
-	"stemmed": ["effect", "communic", "and", "comput", "overlap", "with", "hybrid", "mpi", "smpss"],
-	"tag": ["communication", "effectiveness", "hybrid"],
+	"stemmed": [
+		"effect",
+		"communic",
+		"and",
+		"comput",
+		"overlap",
+		"with",
+		"hybrid",
+		"mpi",
+		"smpss"
+	],
+	"tag": [
+		"communication",
+		"effectiveness",
+		"hybrid"
+	],
 	"title": "Effective communication and computation overlap with hybrid MPI/SMPSs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

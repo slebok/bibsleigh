@@ -1,6 +1,10 @@
 {
-	"author": ["Franz Baader", "Cesare Tinelli"],
-	"booktitle": "CADE",
+	"author": [
+		"Franz Baader",
+		"Cesare Tinelli"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
 	"dblpkey": "conf/cade/BaaderT97",
 	"doi": "10.1007/3-540-63104-6_3",
@@ -10,11 +14,36 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "new", "approach", "for", "combin", "decis", "procedur", "for", "the", "word", "problem", "and", "it", "connect", "to", "the", "nelson", "oppen", "combin", "method"],
-	"tag": ["approach", "problem", "word"],
+	"stemmed": [
+		"a",
+		"new",
+		"approach",
+		"for",
+		"combin",
+		"decis",
+		"procedur",
+		"for",
+		"the",
+		"word",
+		"problem",
+		"and",
+		"it",
+		"connect",
+		"to",
+		"the",
+		"nelson",
+		"oppen",
+		"combin",
+		"method"
+	],
+	"tag": [
+		"approach",
+		"problem",
+		"word"
+	],
 	"title": "A New Approach for Combining Decision Procedure for the Word Problem, and Its Connection to the Nelson-Oppen Combination Method",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1249,
+	"volume": "1249",
 	"year": 1997
 }

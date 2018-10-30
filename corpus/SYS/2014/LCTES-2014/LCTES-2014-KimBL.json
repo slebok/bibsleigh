@@ -1,14 +1,35 @@
 {
-	"author": ["Hongjune Kim", "Seonmyeong Bak", "Jaejin Lee"],
-	"booktitle": "LCTES",
+	"author": [
+		"Hongjune Kim",
+		"Seonmyeong Bak",
+		"Jaejin Lee"
+	],
+	"booktitle": "Proceedings of the 15th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2014",
 	"dblpkey": "conf/lctrts/KimBL14",
 	"doi": "10.1145/2597809.2597824",
 	"ee": "http://doi.acm.org/10.1145/2597809.2597824",
 	"pages": "155-164",
 	"publisher": "ACM",
-	"stemmed": ["lightweight", "and", "block", "level", "concurr", "sweep", "for", "javascript", "garbag", "collect"],
-	"tag": ["concurrent", "garbage collection", "javascript", "lightweight"],
+	"stemmed": [
+		"lightweight",
+		"and",
+		"block",
+		"level",
+		"concurr",
+		"sweep",
+		"for",
+		"javascript",
+		"garbag",
+		"collect"
+	],
+	"tag": [
+		"concurrent",
+		"garbage collection",
+		"javascript",
+		"lightweight"
+	],
 	"title": "Lightweight and block-level concurrent sweeping for javascript garbage collection",
 	"type": "inproceedings",
 	"venue": "LCTES",

@@ -1,14 +1,31 @@
 {
-	"author": ["Abbas Rahimi", "Luca Benini", "Rajesh K. Gupta"],
-	"booktitle": "DAC",
+	"author": [
+		"Abbas Rahimi",
+		"Luca Benini",
+		"Rajesh K. Gupta"
+	],
+	"booktitle": "Proceedings of the 50th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2013",
 	"dblpkey": "conf/dac/RahimiBG13",
 	"doi": "10.1145/2463209.2488754",
 	"ee": "http://doi.acm.org/10.1145/2463209.2488754",
 	"pages": "16:1-16:6",
 	"publisher": "ACM",
-	"stemmed": ["age", "awar", "compil", "direct", "vliw", "assign", "for", "gpgpu", "architectur"],
-	"tag": ["architecture"],
+	"stemmed": [
+		"age",
+		"awar",
+		"compil",
+		"direct",
+		"vliw",
+		"assign",
+		"for",
+		"gpgpu",
+		"architectur"
+	],
+	"tag": [
+		"architecture"
+	],
 	"title": "Aging-aware compiler-directed VLIW assignment for GPGPU architectures",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,6 +1,7 @@
 {
 	"author": "Efthimis N. Efthimiadis",
 	"booktitle": "Proceedings of the 16th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1993/P146.pdf",
 	"crossref": "conf/sigir/93",
 	"dblpkey": "conf/sigir/Efthimiadis93",
@@ -8,8 +9,25 @@
 	"ee": "http://doi.acm.org/10.1145/160688.160710",
 	"pages": "146-159",
 	"publisher": "ACM",
-	"stemmed": ["a", "user", "center", "evalu", "of", "rank", "algorithim", "for", "interact", "queri", "expans"],
-	"tag": ["evaluation", "interactive", "query", "ranking"],
+	"stemmed": [
+		"a",
+		"user",
+		"center",
+		"evalu",
+		"of",
+		"rank",
+		"algorithim",
+		"for",
+		"interact",
+		"queri",
+		"expans"
+	],
+	"tag": [
+		"evaluation",
+		"interactive",
+		"query",
+		"ranking"
+	],
 	"title": "A User-Centered Evaluation of Ranking Algorithims for Interactive Query Expansion",
 	"type": "inproceedings",
 	"venue": "SIGIR",

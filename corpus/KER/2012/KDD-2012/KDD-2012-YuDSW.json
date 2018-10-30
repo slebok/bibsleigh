@@ -1,14 +1,32 @@
 {
-	"author": ["Kui Yu", "Wei Ding", "Dan A. Simovici", "Xindong Wu"],
-	"booktitle": "KDD",
+	"author": [
+		"Kui Yu",
+		"Wei Ding",
+		"Dan A. Simovici",
+		"Xindong Wu"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/YuDSW12",
 	"doi": "10.1145/2339530.2339544",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339544",
 	"pages": "60-68",
 	"publisher": "ACM",
-	"stemmed": ["mine", "emerg", "pattern", "by", "stream", "featur", "select"],
-	"tag": ["feature model", "mining", "streaming"],
+	"stemmed": [
+		"mine",
+		"emerg",
+		"pattern",
+		"by",
+		"stream",
+		"featur",
+		"select"
+	],
+	"tag": [
+		"feature model",
+		"mining",
+		"streaming"
+	],
 	"title": "Mining emerging patterns by streaming feature selection",
 	"type": "inproceedings",
 	"venue": "KDD",

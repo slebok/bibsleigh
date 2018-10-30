@@ -1,6 +1,10 @@
 {
-	"author": ["James Steuert", "Jay Goldman"],
-	"booktitle": "SIGMOD Workshop, Vol. 1",
+	"author": [
+		"James Steuert",
+		"Jay Goldman"
+	],
+	"booktitle": "Proceedings of the Fourth ACM-SIGFIDET Workshop on Data Description, Access and Control",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGFIDET74-1/P295.pdf",
 	"crossref": "conf/sigmod/74",
 	"dblpkey": "conf/sigmod/SteuertG74",
@@ -8,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/800296.811518",
 	"pages": "295-320",
 	"publisher": "ACM",
-	"stemmed": ["the", "relat", "data", "manag", "system", "a", "perspect"],
-	"tag": ["data transformation", "perspective", "relational"],
+	"stemmed": [
+		"the",
+		"relat",
+		"data",
+		"manag",
+		"system",
+		"a",
+		"perspect"
+	],
+	"tag": [
+		"data transformation",
+		"perspective",
+		"relational"
+	],
 	"title": "The Relational Data Management System: A Perspective",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

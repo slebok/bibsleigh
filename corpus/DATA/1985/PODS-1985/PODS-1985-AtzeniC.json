@@ -1,16 +1,55 @@
 {
-	"author": ["Paolo Atzeni", "Edward P. F. Chan"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS85/P181.PDF", "journals/anthology/dvd1:text/1-3/PODS85/P181.PDF"],
-	"cite": ["journals/tods/AhoBU79", "conf/pods/AtzeniP82", "conf/sigmod/Chan84", "...", "conf/pods/ChanM83", "journals/jcss/GrahamY84", "conf/vldb/Honeyman80", "journals/jacm/Honeyman82", "journals/tods/Kent81", "books/cs/Maier83", "journals/tods/MaierMS79", "conf/sigmod/MaierRW83", "journals/tods/MaierUV84", "journals/tods/Sagiv83", "journals/jacm/SagivY80", "conf/pods/Ullman82", "books/cs/Ullman82", "..."],
+	"author": [
+		"Paolo Atzeni",
+		"Edward P. F. Chan"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS85/P181.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS85/P181.PDF"
+	],
+	"cite": [
+		"journals/tods/AhoBU79",
+		"conf/pods/AtzeniP82",
+		"conf/sigmod/Chan84",
+		"...",
+		"conf/pods/ChanM83",
+		"journals/jcss/GrahamY84",
+		"conf/vldb/Honeyman80",
+		"journals/jacm/Honeyman82",
+		"journals/tods/Kent81",
+		"books/cs/Maier83",
+		"journals/tods/MaierMS79",
+		"conf/sigmod/MaierRW83",
+		"journals/tods/MaierUV84",
+		"journals/tods/Sagiv83",
+		"journals/jacm/SagivY80",
+		"conf/pods/Ullman82",
+		"books/cs/Ullman82",
+		"..."
+	],
 	"crossref": "conf/pods/85",
 	"dblpkey": "conf/pods/AtzeniC85",
 	"doi": "10.1145/325405.325429",
 	"ee": "http://doi.acm.org/10.1145/325405.325429",
 	"pages": "181-188",
 	"publisher": "ACM",
-	"stemmed": ["effici", "queri", "answer", "in", "the", "repres", "instanc", "approach"],
-	"tag": ["approach", "performance", "query"],
+	"stemmed": [
+		"effici",
+		"queri",
+		"answer",
+		"in",
+		"the",
+		"repres",
+		"instanc",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"performance",
+		"query"
+	],
 	"title": "Efficient Query Answering in the Representative Instance Approach",
 	"type": "inproceedings",
 	"venue": "PODS",

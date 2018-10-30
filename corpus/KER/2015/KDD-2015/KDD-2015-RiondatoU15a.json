@@ -1,14 +1,35 @@
 {
-	"author": ["Matteo Riondato", "Eli Upfal"],
-	"booktitle": "KDD",
+	"author": [
+		"Matteo Riondato",
+		"Eli Upfal"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/RiondatoU15a",
 	"doi": "10.1145/2783258.2789984",
 	"ee": "http://doi.acm.org/10.1145/2783258.2789984",
 	"pages": "2321-2322",
 	"publisher": "ACM",
-	"stemmed": ["vc", "dimens", "and", "rademach", "averag", "from", "statist", "learn", "theori", "to", "sampl", "algorithm"],
-	"tag": ["algorithm", "learning", "statistics"],
+	"stemmed": [
+		"vc",
+		"dimens",
+		"and",
+		"rademach",
+		"averag",
+		"from",
+		"statist",
+		"learn",
+		"theori",
+		"to",
+		"sampl",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"learning",
+		"statistics"
+	],
 	"title": "VC-Dimension and Rademacher Averages: From Statistical Learning Theory to Sampling Algorithms",
 	"type": "inproceedings",
 	"venue": "KDD",

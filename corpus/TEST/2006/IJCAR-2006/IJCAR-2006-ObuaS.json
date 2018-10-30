@@ -1,6 +1,10 @@
 {
-	"author": ["Steven Obua", "Sebastian Skalberg"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Steven Obua",
+		"Sebastian Skalberg"
+	],
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/ObuaS06",
 	"doi": "10.1007/11814771_27",
@@ -10,11 +14,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["import", "hol", "into", "isabell", "hol"],
-	"tag": ["higher-order"],
+	"stemmed": [
+		"import",
+		"hol",
+		"into",
+		"isabell",
+		"hol"
+	],
+	"tag": [
+		"higher-order"
+	],
 	"title": "Importing HOL into Isabelle/HOL",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

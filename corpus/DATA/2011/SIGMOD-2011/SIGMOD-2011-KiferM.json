@@ -1,6 +1,9 @@
 {
-	"author": ["Daniel Kifer", "Ashwin Machanavajjhala"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Daniel Kifer",
+		"Ashwin Machanavajjhala"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/KiferM11",
@@ -8,8 +11,17 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989345",
 	"pages": "193-204",
 	"publisher": "ACM",
-	"stemmed": ["no", "free", "lunch", "in", "data", "privaci"],
-	"tag": ["privacy"],
+	"stemmed": [
+		"no",
+		"free",
+		"lunch",
+		"in",
+		"data",
+		"privaci"
+	],
+	"tag": [
+		"privacy"
+	],
 	"title": "No free lunch in data privacy",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

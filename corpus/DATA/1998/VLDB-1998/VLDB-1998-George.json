@@ -1,13 +1,26 @@
 {
 	"author": "Felicity A. W. George",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the 24th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/98",
 	"dblpkey": "conf/vldb/George98",
 	"ee": "http://www.vldb.org/conf/1998/p702.pdf",
-	"pages": 702,
+	"pages": "702",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["dms", "a", "parallel", "data", "mine", "server"],
-	"tag": ["data mining", "mining", "named", "parallel"],
+	"stemmed": [
+		"dms",
+		"a",
+		"parallel",
+		"data",
+		"mine",
+		"server"
+	],
+	"tag": [
+		"data mining",
+		"mining",
+		"named",
+		"parallel"
+	],
 	"title": "DMS: A Parallel Data Mining Server",
 	"type": "inproceedings",
 	"venue": "VLDB",

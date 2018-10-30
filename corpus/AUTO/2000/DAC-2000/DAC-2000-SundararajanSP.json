@@ -1,13 +1,29 @@
 {
-	"author": ["Vijay Sundararajan", "Sachin S. Sapatnekar", "Keshab K. Parhi"],
-	"booktitle": "DAC",
+	"author": [
+		"Vijay Sundararajan",
+		"Sachin S. Sapatnekar",
+		"Keshab K. Parhi"
+	],
+	"booktitle": "Proceedings of the 37th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/SundararajanSP00",
 	"doi": "10.1145/337292.337606",
 	"ee": "http://doi.acm.org/10.1145/337292.337606",
 	"pages": "649-664",
 	"publisher": "ACM",
-	"stemmed": ["minflotransit", "min", "cost", "flow", "base", "transistor", "size", "tool"],
-	"tag": ["named"],
+	"stemmed": [
+		"minflotransit",
+		"min",
+		"cost",
+		"flow",
+		"base",
+		"transistor",
+		"size",
+		"tool"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "MINFLOTRANSIT: min-cost flow based transistor sizing tool",
 	"type": "inproceedings",
 	"venue": "DAC",

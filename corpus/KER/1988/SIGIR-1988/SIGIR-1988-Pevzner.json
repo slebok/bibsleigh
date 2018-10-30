@@ -1,6 +1,7 @@
 {
 	"author": "B. Pevzner",
 	"booktitle": "Proceedings of the 11th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P117.pdf",
 	"crossref": "conf/sigir/88",
 	"dblpkey": "conf/sigir/Pevzner88",
@@ -8,8 +9,25 @@
 	"ee": "http://doi.acm.org/10.1145/62437.62444",
 	"pages": "117-125",
 	"publisher": "ACM",
-	"stemmed": ["precedent", "data", "base", "how", "and", "whi", "they", "are", "work", "out", "and", "use"],
-	"tag": ["database", "how", "why"],
+	"stemmed": [
+		"precedent",
+		"data",
+		"base",
+		"how",
+		"and",
+		"whi",
+		"they",
+		"are",
+		"work",
+		"out",
+		"and",
+		"use"
+	],
+	"tag": [
+		"database",
+		"how",
+		"why"
+	],
 	"title": "Precedental Data Bases: How and Why They are Worked Out and Used",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,14 +1,37 @@
 {
-	"author": ["Kan Shi", "David Boland", "Edward A. Stott", "Samuel Bayliss", "George A. Constantinides"],
-	"booktitle": "DAC",
+	"author": [
+		"Kan Shi",
+		"David Boland",
+		"Edward A. Stott",
+		"Samuel Bayliss",
+		"George A. Constantinides"
+	],
+	"booktitle": "Proceedings of the 51st Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2014",
 	"dblpkey": "conf/dac/ShiBSBC14",
 	"doi": "10.1145/2593069.2593118",
 	"ee": "http://doi.acm.org/10.1145/2593069.2593118",
 	"pages": "190:1-190:6",
 	"publisher": "ACM",
-	"stemmed": ["datapath", "synthesi", "for", "overclock", "onlin", "arithmet", "for", "latenc", "accuraci", "trade", "off"],
-	"tag": ["online", "synthesis", "trade-off"],
+	"stemmed": [
+		"datapath",
+		"synthesi",
+		"for",
+		"overclock",
+		"onlin",
+		"arithmet",
+		"for",
+		"latenc",
+		"accuraci",
+		"trade",
+		"off"
+	],
+	"tag": [
+		"online",
+		"synthesis",
+		"trade-off"
+	],
 	"title": "Datapath Synthesis for Overclocking: Online Arithmetic for Latency-Accuracy Trade-offs",
 	"type": "inproceedings",
 	"venue": "DAC",

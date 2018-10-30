@@ -1,16 +1,51 @@
 {
-	"author": ["Jürgen Seib", "Georg Lausen"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS91/P241.PDF", "journals/anthology/dvd1:text/1-3/PODS91/P241.PDF"],
-	"cite": ["conf/pods/AfratiP87", "conf/sigmod/BancilhonR86", "conf/pods/CosmadakisK86", "conf/pods/CohenW89", "conf/sigmod/GangulyST90", "conf/icdt/Kanellakis86", "conf/iclp/MorrisUG86", "books/cs/NaqviT89", "journals/jcss/Peterson76", "...", "conf/btw/SeibL91", "books/cs/Ullman88", "books/cs/Ullman89", "journals/algorithmica/UllmanG88", "conf/sigmod/WolfsonO90", "conf/dpds/Wolfson88", "conf/sigmod/WolfsonS88"],
+	"author": [
+		"Jürgen Seib",
+		"Georg Lausen"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS91/P241.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS91/P241.PDF"
+	],
+	"cite": [
+		"conf/pods/AfratiP87",
+		"conf/sigmod/BancilhonR86",
+		"conf/pods/CosmadakisK86",
+		"conf/pods/CohenW89",
+		"conf/sigmod/GangulyST90",
+		"conf/icdt/Kanellakis86",
+		"conf/iclp/MorrisUG86",
+		"books/cs/NaqviT89",
+		"journals/jcss/Peterson76",
+		"...",
+		"conf/btw/SeibL91",
+		"books/cs/Ullman88",
+		"books/cs/Ullman89",
+		"journals/algorithmica/UllmanG88",
+		"conf/sigmod/WolfsonO90",
+		"conf/dpds/Wolfson88",
+		"conf/sigmod/WolfsonS88"
+	],
 	"crossref": "conf/pods/91",
 	"dblpkey": "conf/pods/SeibL91",
 	"doi": "10.1145/113413.113435",
 	"ee": "http://doi.acm.org/10.1145/113413.113435",
 	"pages": "241-251",
 	"publisher": "ACM Press",
-	"stemmed": ["parallel", "datalog", "program", "by", "general", "pivot"],
-	"tag": ["datalog", "source code"],
+	"stemmed": [
+		"parallel",
+		"datalog",
+		"program",
+		"by",
+		"general",
+		"pivot"
+	],
+	"tag": [
+		"datalog",
+		"source code"
+	],
 	"title": "Parallelizing Datalog Programs by Generalized Pivoting",
 	"type": "inproceedings",
 	"venue": "PODS",

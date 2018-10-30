@@ -1,6 +1,7 @@
 {
 	"author": "Donald Simon",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Seventh International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1984",
 	"dblpkey": "conf/cade/Simon84",
 	"doi": "10.1007/BFb0047123",
@@ -10,11 +11,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "linear", "time", "algorithm", "for", "a", "subcas", "of", "second", "order", "instanti"],
-	"tag": ["algorithm", "higher-order", "linear"],
+	"stemmed": [
+		"a",
+		"linear",
+		"time",
+		"algorithm",
+		"for",
+		"a",
+		"subcas",
+		"of",
+		"second",
+		"order",
+		"instanti"
+	],
+	"tag": [
+		"algorithm",
+		"higher-order",
+		"linear"
+	],
 	"title": "A Linear Time Algorithm for a Subcase of Second Order Instantiation",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 170,
+	"volume": "170",
 	"year": 1984
 }

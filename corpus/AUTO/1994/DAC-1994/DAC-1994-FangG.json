@@ -1,13 +1,31 @@
 {
-	"author": ["Wen-Chang Fang", "Sandeep K. Gupta"],
-	"booktitle": "DAC",
+	"author": [
+		"Wen-Chang Fang",
+		"Sandeep K. Gupta"
+	],
+	"booktitle": "Proceedings of the 31st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/FangG94",
 	"doi": "10.1145/196244.196291",
 	"ee": "http://doi.acm.org/10.1145/196244.196291",
 	"pages": "94-99",
 	"publisher": "ACM Press",
-	"stemmed": ["clock", "group", "a", "low", "cost", "dft", "methodolog", "for", "delay", "test"],
-	"tag": ["low cost", "testing"],
+	"stemmed": [
+		"clock",
+		"group",
+		"a",
+		"low",
+		"cost",
+		"dft",
+		"methodolog",
+		"for",
+		"delay",
+		"test"
+	],
+	"tag": [
+		"low cost",
+		"testing"
+	],
 	"title": "Clock Grouping: A Low Cost DFT Methodology for Delay Testing",
 	"type": "inproceedings",
 	"venue": "DAC",

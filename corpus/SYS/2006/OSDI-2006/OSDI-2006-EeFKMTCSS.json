@@ -1,13 +1,33 @@
 {
-	"author": ["Cheng Tien Ee", "Rodrigo Fonseca", "Sukun Kim", "Daekyeong Moon", "Arsalan Tavakoli", "David E. Culler", "Scott Shenker", "Ion Stoica"],
-	"booktitle": "OSDI",
+	"author": [
+		"Cheng Tien Ee",
+		"Rodrigo Fonseca",
+		"Sukun Kim",
+		"Daekyeong Moon",
+		"Arsalan Tavakoli",
+		"David E. Culler",
+		"Scott Shenker",
+		"Ion Stoica"
+	],
+	"booktitle": "Proceedings of the Seventh Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2006",
 	"dblpkey": "conf/osdi/EeFKMTCSS06",
 	"ee": "http://www.usenix.org/events/osdi06/tech/ee.html",
 	"pages": "249-262",
 	"publisher": "USENIX Association",
-	"stemmed": ["a", "modular", "network", "layer", "for", "sensornet"],
-	"tag": ["composition", "network"],
+	"stemmed": [
+		"a",
+		"modular",
+		"network",
+		"layer",
+		"for",
+		"sensornet"
+	],
+	"tag": [
+		"composition",
+		"network"
+	],
 	"title": "A Modular Network Layer for Sensornets",
 	"type": "inproceedings",
 	"venue": "OSDI",

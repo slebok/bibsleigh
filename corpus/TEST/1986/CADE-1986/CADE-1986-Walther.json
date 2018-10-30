@@ -1,6 +1,7 @@
 {
 	"author": "Christoph Walther",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Walther86",
 	"doi": "10.1007/3-540-16780-3_117",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "classif", "of", "mani", "sort", "unif", "problem"],
-	"tag": ["classification", "problem", "unification"],
+	"stemmed": [
+		"a",
+		"classif",
+		"of",
+		"mani",
+		"sort",
+		"unif",
+		"problem"
+	],
+	"tag": [
+		"classification",
+		"problem",
+		"unification"
+	],
 	"title": "A Classification of Many-Sorted Unification Problems",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

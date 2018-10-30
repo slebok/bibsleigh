@@ -1,14 +1,46 @@
 {
-	"author": ["Daniela Florescu", "Daphne Koller", "Alon Y. Levy"],
-	"booktitle": "VLDB",
-	"cite": ["conf/sigmod/AdaliCPS96", "journals/jiis/ArensKS96", "journals/cacm/BowmanDMS94", "...", "conf/ipsj/ChawatheGHPUW94", "journals/cacm/EtzioniW94", "...", "...", "journals/tods/IoannidisC93", "conf/aaai/KollerLP97", "conf/aaai/KwokW96", "conf/vldb/LevyRO96", "...", "...", "conf/icdt/Ullman97"],
+	"author": [
+		"Daniela Florescu",
+		"Daphne Koller",
+		"Alon Y. Levy"
+	],
+	"booktitle": "Proceedings of the 23rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/sigmod/AdaliCPS96",
+		"journals/jiis/ArensKS96",
+		"journals/cacm/BowmanDMS94",
+		"...",
+		"conf/ipsj/ChawatheGHPUW94",
+		"journals/cacm/EtzioniW94",
+		"...",
+		"...",
+		"journals/tods/IoannidisC93",
+		"conf/aaai/KollerLP97",
+		"conf/aaai/KwokW96",
+		"conf/vldb/LevyRO96",
+		"...",
+		"...",
+		"conf/icdt/Ullman97"
+	],
 	"crossref": "conf/vldb/97",
 	"dblpkey": "conf/vldb/FlorescuKLP97",
 	"ee": "http://www.vldb.org/conf/1997/P216.PDF",
 	"pages": "216-225",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["use", "probabilist", "inform", "in", "data", "integr"],
-	"tag": ["integration", "probability", "using"],
+	"stemmed": [
+		"use",
+		"probabilist",
+		"inform",
+		"in",
+		"data",
+		"integr"
+	],
+	"tag": [
+		"integration",
+		"probability",
+		"using"
+	],
 	"title": "Using Probabilistic Information in Data Integration",
 	"type": "inproceedings",
 	"venue": "VLDB",

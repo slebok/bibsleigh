@@ -1,13 +1,30 @@
 {
-	"author": ["Irina Botan", "Peter M. Fischer", "Daniela Florescu", "Donald Kossmann", "Tim Kraska", "Rokas Tamosevicius"],
-	"booktitle": "VLDB",
+	"author": [
+		"Irina Botan",
+		"Peter M. Fischer",
+		"Daniela Florescu",
+		"Donald Kossmann",
+		"Tim Kraska",
+		"Rokas Tamosevicius"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/BotanFFKKT07",
 	"ee": "http://www.vldb.org/conf/2007/papers/research/p75-botan.pdf",
 	"pages": "75-86",
 	"publisher": "ACM",
-	"stemmed": ["extend", "x", "queri", "with", "window", "function"],
-	"tag": ["xquery"],
+	"stemmed": [
+		"extend",
+		"x",
+		"queri",
+		"with",
+		"window",
+		"function"
+	],
+	"tag": [
+		"xquery"
+	],
 	"title": "Extending XQuery with Window Functions",
 	"type": "inproceedings",
 	"venue": "VLDB",

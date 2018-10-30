@@ -1,6 +1,7 @@
 {
 	"author": "Peter Baumgartner",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
 	"dblpkey": "conf/cade/Baumgartner15",
 	"doi": "10.1007/978-3-319-21401-6_19",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["smt", "to", "tptp", "a", "convert", "for", "theorem", "prove", "format"],
-	"tag": ["named", "proving", "theorem proving"],
+	"stemmed": [
+		"smt",
+		"to",
+		"tptp",
+		"a",
+		"convert",
+		"for",
+		"theorem",
+		"prove",
+		"format"
+	],
+	"tag": [
+		"named",
+		"proving",
+		"theorem proving"
+	],
 	"title": "SMTtoTPTP — A Converter for Theorem Proving Formats",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 9195,
+	"volume": "9195",
 	"year": 2015
 }

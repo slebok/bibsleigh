@@ -1,14 +1,34 @@
 {
-	"acmid": 1164256,
-	"author": ["Dirk Habich", "Sebastian Richly", "Wolfgang Lehner"],
-	"booktitle": "VLDB",
+	"acmid": "1164256",
+	"author": [
+		"Dirk Habich",
+		"Sebastian Richly",
+		"Wolfgang Lehner"
+	],
+	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
 	"dblpkey": "conf/vldb/HabichRL06",
 	"ee": "http://www.vldb.org/conf/2006/p1251-habich.pdf",
 	"pages": "1251-",
 	"publisher": "ACM",
-	"stemmed": ["gigno", "mda", "exploit", "cross", "layer", "optim", "for", "complex", "databas", "applic"],
-	"tag": ["database", "named", "optimisation"],
+	"stemmed": [
+		"gigno",
+		"mda",
+		"exploit",
+		"cross",
+		"layer",
+		"optim",
+		"for",
+		"complex",
+		"databas",
+		"applic"
+	],
+	"tag": [
+		"database",
+		"named",
+		"optimisation"
+	],
 	"title": "GignoMDA — Exploiting Cross-Layer Optimization for Complex Database Applications",
 	"type": "inproceedings",
 	"venue": "VLDB",

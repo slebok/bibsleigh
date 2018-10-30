@@ -1,14 +1,28 @@
 {
-	"author": ["Lingli Zhang", "Chandra Krintz"],
-	"booktitle": "LCTES",
+	"author": [
+		"Lingli Zhang",
+		"Chandra Krintz"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2004",
 	"dblpkey": "conf/lctrts/ZhangK04",
 	"doi": "10.1145/997163.997186",
 	"ee": "http://doi.acm.org/10.1145/997163.997186",
 	"pages": "155-164",
 	"publisher": "ACM",
-	"stemmed": ["adapt", "code", "unload", "for", "resourc", "constrain", "jvms"],
-	"tag": ["adaptation"],
+	"stemmed": [
+		"adapt",
+		"code",
+		"unload",
+		"for",
+		"resourc",
+		"constrain",
+		"jvms"
+	],
+	"tag": [
+		"adaptation"
+	],
 	"title": "Adaptive code unloading for resource-constrained JVMs",
 	"type": "inproceedings",
 	"venue": "LCTES",

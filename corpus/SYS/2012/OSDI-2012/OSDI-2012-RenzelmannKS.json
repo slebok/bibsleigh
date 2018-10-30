@@ -1,13 +1,28 @@
 {
-	"author": ["Matthew J. Renzelmann", "Asim Kadav", "Michael M. Swift"],
-	"booktitle": "OSDI",
+	"author": [
+		"Matthew J. Renzelmann",
+		"Asim Kadav",
+		"Michael M. Swift"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2012",
 	"dblpkey": "conf/osdi/RenzelmannKS12",
 	"ee": "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/renzelmann",
 	"pages": "279-292",
 	"publisher": "USENIX Association",
-	"stemmed": ["sym", "drive", "test", "driver", "without", "devic"],
-	"tag": ["named", "testing"],
+	"stemmed": [
+		"sym",
+		"drive",
+		"test",
+		"driver",
+		"without",
+		"devic"
+	],
+	"tag": [
+		"named",
+		"testing"
+	],
 	"title": "SymDrive: Testing Drivers without Devices",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,14 +1,39 @@
 {
-	"author": ["Jeremiah Willcock", "Torsten Hoefler", "Nicholas Gerard Edmonds", "Andrew Lumsdaine"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Jeremiah Willcock",
+		"Torsten Hoefler",
+		"Nicholas Gerard Edmonds",
+		"Andrew Lumsdaine"
+	],
+	"booktitle": "Proceedings of the 16th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2011",
 	"dblpkey": "conf/ppopp/WillcockHEL11",
 	"doi": "10.1145/1941553.1941601",
 	"ee": "http://doi.acm.org/10.1145/1941553.1941601",
 	"pages": "305-306",
 	"publisher": "ACM",
-	"stemmed": ["activ", "pebbl", "a", "program", "model", "for", "high", "parallel", "fine", "grain", "data", "driven", "comput"],
-	"tag": ["data-driven", "fine-grained", "parallel", "programming"],
+	"stemmed": [
+		"activ",
+		"pebbl",
+		"a",
+		"program",
+		"model",
+		"for",
+		"high",
+		"parallel",
+		"fine",
+		"grain",
+		"data",
+		"driven",
+		"comput"
+	],
+	"tag": [
+		"data-driven",
+		"fine-grained",
+		"parallel",
+		"programming"
+	],
 	"title": "Active pebbles: a programming model for highly parallel fine-grained data-driven computations",
 	"type": "inproceedings",
 	"venue": "PPoPP",

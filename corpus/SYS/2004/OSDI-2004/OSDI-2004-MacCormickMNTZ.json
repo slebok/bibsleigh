@@ -1,13 +1,33 @@
 {
-	"author": ["John MacCormick", "Nick Murphy", "Marc Najork", "Chandramohan A. Thekkath", "Lidong Zhou"],
-	"booktitle": "OSDI",
+	"author": [
+		"John MacCormick",
+		"Nick Murphy",
+		"Marc Najork",
+		"Chandramohan A. Thekkath",
+		"Lidong Zhou"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2004",
 	"dblpkey": "conf/osdi/MacCormickMNTZ04",
 	"ee": "http://www.usenix.org/events/osdi04/tech/maccormick.html",
 	"pages": "105-120",
 	"publisher": "USENIX Association",
-	"stemmed": ["boxwood", "abstract", "as", "the", "foundat", "for", "storag", "infrastructur"],
-	"tag": ["abstraction", "framework", "named"],
+	"stemmed": [
+		"boxwood",
+		"abstract",
+		"as",
+		"the",
+		"foundat",
+		"for",
+		"storag",
+		"infrastructur"
+	],
+	"tag": [
+		"abstraction",
+		"framework",
+		"named"
+	],
 	"title": "Boxwood: Abstractions as the Foundation for Storage Infrastructure",
 	"type": "inproceedings",
 	"venue": "OSDI",

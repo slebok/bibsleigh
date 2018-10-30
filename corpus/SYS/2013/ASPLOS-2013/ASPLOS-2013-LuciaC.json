@@ -1,14 +1,31 @@
 {
-	"author": ["Brandon Lucia", "Luis Ceze"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Brandon Lucia",
+		"Luis Ceze"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2013",
 	"dblpkey": "conf/asplos/LuciaC13",
 	"doi": "10.1145/2451116.2451121",
 	"ee": "http://doi.acm.org/10.1145/2451116.2451121",
 	"pages": "39-50",
 	"publisher": "ACM",
-	"stemmed": ["cooper", "empir", "failur", "avoid", "for", "multithread", "program"],
-	"tag": ["empirical", "parallel", "source code", "thread"],
+	"stemmed": [
+		"cooper",
+		"empir",
+		"failur",
+		"avoid",
+		"for",
+		"multithread",
+		"program"
+	],
+	"tag": [
+		"empirical",
+		"parallel",
+		"source code",
+		"thread"
+	],
 	"title": "Cooperative empirical failure avoidance for multithreaded programs",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,6 +1,11 @@
 {
-	"author": ["Christophe Bourely", "Ricardo Caferra", "Nicolas Peltier"],
-	"booktitle": "CADE",
+	"author": [
+		"Christophe Bourely",
+		"Ricardo Caferra",
+		"Nicolas Peltier"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/BourelyCP94",
 	"doi": "10.1007/3-540-58156-1_6",
@@ -10,11 +15,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "method", "for", "build", "model", "automat", "experi", "with", "an", "extens", "of", "otter"],
-	"tag": ["automation", "modelling"],
+	"stemmed": [
+		"a",
+		"method",
+		"for",
+		"build",
+		"model",
+		"automat",
+		"experi",
+		"with",
+		"an",
+		"extens",
+		"of",
+		"otter"
+	],
+	"tag": [
+		"automation",
+		"modelling"
+	],
 	"title": "A Method for Building Models Automatically. Experiments with an Extension of OTTER",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

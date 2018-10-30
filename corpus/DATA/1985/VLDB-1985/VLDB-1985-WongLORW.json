@@ -1,13 +1,34 @@
 {
-	"author": ["Harry K. T. Wong", "Hsiu-Fen Liu", "Frank Olken", "Doron Rotem", "Linda Wong"],
-	"booktitle": "VLDB",
-	"cite": ["conf/vldb/ShoshaniOW84", "conf/icde/Wong84", "conf/vldb/EggersOS81", "conf/vldb/TurnerHC79", "...", "books/aw/Knuth73", "journals/tods/Batory79", "...", "..."],
+	"author": [
+		"Harry K. T. Wong",
+		"Hsiu-Fen Liu",
+		"Frank Olken",
+		"Doron Rotem",
+		"Linda Wong"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/vldb/ShoshaniOW84",
+		"conf/icde/Wong84",
+		"conf/vldb/EggersOS81",
+		"conf/vldb/TurnerHC79",
+		"...",
+		"books/aw/Knuth73",
+		"journals/tods/Batory79",
+		"...",
+		"..."
+	],
 	"crossref": "conf/vldb/85",
 	"dblpkey": "conf/vldb/WongLORW85",
 	"ee": "http://www.vldb.org/conf/1985/P448.PDF",
 	"pages": "448-457",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["bit", "transpos", "file"],
+	"stemmed": [
+		"bit",
+		"transpos",
+		"file"
+	],
 	"title": "Bit Transposed Files",
 	"type": "inproceedings",
 	"venue": "VLDB",

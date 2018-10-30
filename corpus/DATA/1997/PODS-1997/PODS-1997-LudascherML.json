@@ -1,16 +1,47 @@
 {
-	"author": ["Bertram Ludäscher", "Wolfgang May", "Georg Lausen"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS97/P217.PDF", "journals/anthology/dvd1:text/1-3/PODS97/P217.PDF"],
-	"cite": ["journals/jcss/AbiteboulV91", "conf/vldb/CochranePM96", "conf/vldb/Date81", "...", "conf/lid/EiterLS96", "conf/icde/Horowitz92", "...", "...", "...", "...", "journals/is/Markowitz94", "conf/pods/PicouetV95", "...", "..."],
+	"author": [
+		"Bertram Ludäscher",
+		"Wolfgang May",
+		"Georg Lausen"
+	],
+	"booktitle": "Proceedings of the 16th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS97/P217.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS97/P217.PDF"
+	],
+	"cite": [
+		"journals/jcss/AbiteboulV91",
+		"conf/vldb/CochranePM96",
+		"conf/vldb/Date81",
+		"...",
+		"conf/lid/EiterLS96",
+		"conf/icde/Horowitz92",
+		"...",
+		"...",
+		"...",
+		"...",
+		"journals/is/Markowitz94",
+		"conf/pods/PicouetV95",
+		"...",
+		"..."
+	],
 	"crossref": "conf/pods/97",
 	"dblpkey": "conf/pods/LudascherML97",
 	"doi": "10.1145/263661.263685",
 	"ee": "http://doi.acm.org/10.1145/263661.263685",
 	"pages": "217-227",
 	"publisher": "ACM Press",
-	"stemmed": ["referenti", "action", "as", "logic", "rule"],
-	"tag": ["logic"],
+	"stemmed": [
+		"referenti",
+		"action",
+		"as",
+		"logic",
+		"rule"
+	],
+	"tag": [
+		"logic"
+	],
 	"title": "Referential Actions as Logic Rules",
 	"type": "inproceedings",
 	"venue": "PODS",

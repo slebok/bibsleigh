@@ -1,6 +1,10 @@
 {
-	"author": ["André Platzer", "Jan-David Quesel"],
-	"booktitle": "IJCAR",
+	"author": [
+		"André Platzer",
+		"Jan-David Quesel"
+	],
+	"booktitle": "Proceedings of the Fourth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2008",
 	"dblpkey": "conf/cade/PlatzerQ08",
 	"doi": "10.1007/978-3-540-71070-7_15",
@@ -10,11 +14,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["ke", "ymaera", "a", "hybrid", "theorem", "prover", "for", "hybrid", "system", "system", "descript"],
-	"tag": ["hybrid", "named", "proving", "theorem proving"],
+	"stemmed": [
+		"ke",
+		"ymaera",
+		"a",
+		"hybrid",
+		"theorem",
+		"prover",
+		"for",
+		"hybrid",
+		"system",
+		"system",
+		"descript"
+	],
+	"tag": [
+		"hybrid",
+		"named",
+		"proving",
+		"theorem proving"
+	],
 	"title": "KeYmaera: A Hybrid Theorem Prover for Hybrid Systems (System Description)",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 5195,
+	"volume": "5195",
 	"year": 2008
 }

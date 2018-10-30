@@ -1,6 +1,10 @@
 {
-	"author": ["Nicola Olivetti", "Gian Luca Pozzato"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Nicola Olivetti",
+		"Gian Luca Pozzato"
+	],
+	"booktitle": "Proceedings of the Seventh International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2014",
 	"dblpkey": "conf/cade/OlivettiP14",
 	"doi": "10.1007/978-3-319-08587-6_39",
@@ -10,11 +14,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["nescond", "an", "implement", "of", "nest", "sequent", "calculi", "for", "condit", "logic"],
-	"tag": ["calculus", "implementation", "logic", "named"],
+	"stemmed": [
+		"nescond",
+		"an",
+		"implement",
+		"of",
+		"nest",
+		"sequent",
+		"calculi",
+		"for",
+		"condit",
+		"logic"
+	],
+	"tag": [
+		"calculus",
+		"implementation",
+		"logic",
+		"named"
+	],
 	"title": "NESCOND: An Implementation of Nested Sequent Calculi for Conditional Logics",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 8562,
+	"volume": "8562",
 	"year": 2014
 }

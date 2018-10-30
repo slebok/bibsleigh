@@ -1,13 +1,32 @@
 {
-	"author": ["Matthias Bauer", "Wolfgang Ecker"],
-	"booktitle": "DAC",
+	"author": [
+		"Matthias Bauer",
+		"Wolfgang Ecker"
+	],
+	"booktitle": "Proceedings of the 34th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/BauerE97",
 	"doi": "10.1145/266021.266371",
 	"ee": "http://doi.acm.org/10.1145/266021.266371",
 	"pages": "774-779",
 	"publisher": "ACM Press",
-	"stemmed": ["hardwar", "softwar", "co", "simul", "in", "a", "vhdl", "base", "test", "bench", "approach"],
-	"tag": ["approach", "hardware"],
+	"stemmed": [
+		"hardwar",
+		"softwar",
+		"co",
+		"simul",
+		"in",
+		"a",
+		"vhdl",
+		"base",
+		"test",
+		"bench",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"hardware"
+	],
 	"title": "Hardware/Software Co-Simulation in a VHDL-Based Test Bench Approach",
 	"type": "inproceedings",
 	"venue": "DAC",

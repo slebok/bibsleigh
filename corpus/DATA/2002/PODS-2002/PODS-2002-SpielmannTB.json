@@ -1,14 +1,36 @@
 {
-	"author": ["Marc Spielmann", "Jerzy Tyszkiewicz", "Jan Van den Bussche"],
-	"booktitle": "PODS",
+	"author": [
+		"Marc Spielmann",
+		"Jerzy Tyszkiewicz",
+		"Jan Van den Bussche"
+	],
+	"booktitle": "Proceedings of the 21st Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2002",
 	"dblpkey": "conf/pods/SpielmannTB02",
 	"doi": "10.1145/543613.543626",
-	"ee": ["http://doi.acm.org/10.1145/543613.543626", "http://www.acm.org/sigs/sigmod/pods/proc02/papers/097-SpielmannTV.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/543613.543626",
+		"http://www.acm.org/sigs/sigmod/pods/proc02/papers/097-SpielmannTV.pdf"
+	],
 	"pages": "97-108",
 	"publisher": "ACM",
-	"stemmed": ["distribut", "comput", "of", "web", "queri", "use", "automata"],
-	"tag": ["automaton", "distributed", "query", "using", "web"],
+	"stemmed": [
+		"distribut",
+		"comput",
+		"of",
+		"web",
+		"queri",
+		"use",
+		"automata"
+	],
+	"tag": [
+		"automaton",
+		"distributed",
+		"query",
+		"using",
+		"web"
+	],
 	"title": "Distributed Computation of Web Queries Using Automata",
 	"type": "inproceedings",
 	"venue": "PODS",

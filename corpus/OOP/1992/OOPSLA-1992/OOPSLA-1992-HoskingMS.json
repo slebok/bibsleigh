@@ -1,6 +1,10 @@
 {
-	"author": ["Antony L. Hosking", "J. Eliot B. Moss", "Darko Stefanovic"],
-	"booktitle": "Proceedings of the Seventh Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"author": [
+		"Antony L. Hosking",
+		"J. Eliot B. Moss",
+		"Darko Stefanovic"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1992",
 	"dblpkey": "conf/oopsla/HoskingMS92",
@@ -10,8 +14,22 @@
 	"isbn": "0-201-53372-3",
 	"pages": "92-109",
 	"publisher": "ACM",
-	"stemmed": ["a", "compar", "perform", "evalu", "of", "write", "barrier", "implement"],
-	"tag": ["comparative", "evaluation", "implementation", "performance"],
+	"stemmed": [
+		"a",
+		"compar",
+		"perform",
+		"evalu",
+		"of",
+		"write",
+		"barrier",
+		"implement"
+	],
+	"tag": [
+		"comparative",
+		"evaluation",
+		"implementation",
+		"performance"
+	],
 	"title": "A Comparative Performance Evaluation of Write Barrier Implementations",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

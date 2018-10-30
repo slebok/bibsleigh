@@ -1,15 +1,37 @@
 {
-	"author": ["Michael Ferdman", "Pejman Lotfi-Kamran", "Ken Balet", "Babak Falsafi"],
-	"booktitle": "HPCA",
+	"author": [
+		"Michael Ferdman",
+		"Pejman Lotfi-Kamran",
+		"Ken Balet",
+		"Babak Falsafi"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2011",
 	"dblpkey": "conf/hpca/FerdmanLBF11",
 	"doi": "10.1109/HPCA.2011.5749726",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2011.5749726", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2011.5749726"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2011.5749726",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2011.5749726"
+	],
 	"pages": "169-180",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["cuckoo", "directori", "a", "scalabl", "directori", "for", "mani", "core", "system"],
-	"tag": ["manycore", "scalability"],
+	"stemmed": [
+		"cuckoo",
+		"directori",
+		"a",
+		"scalabl",
+		"directori",
+		"for",
+		"mani",
+		"core",
+		"system"
+	],
+	"tag": [
+		"manycore",
+		"scalability"
+	],
 	"title": "Cuckoo directory: A scalable directory for many-core systems",
 	"type": "inproceedings",
 	"venue": "HPCA",

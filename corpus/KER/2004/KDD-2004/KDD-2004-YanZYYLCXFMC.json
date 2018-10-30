@@ -1,14 +1,35 @@
 {
-	"author": ["Jun Yan", "Benyu Zhang", "Shuicheng Yan", "Qiang Yang", "Hua Li", "Zheng Chen", "Wensi Xi", "Weiguo Fan", "Wei-Ying Ma", "QianSheng Cheng"],
-	"booktitle": "KDD",
+	"author": [
+		"Jun Yan",
+		"Benyu Zhang",
+		"Shuicheng Yan",
+		"Qiang Yang",
+		"Hua Li",
+		"Zheng Chen",
+		"Wensi Xi",
+		"Weiguo Fan",
+		"Wei-Ying Ma",
+		"QianSheng Cheng"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2004",
 	"dblpkey": "conf/kdd/YanZYYLCXFMC04",
 	"doi": "10.1145/1014052.1014147",
 	"ee": "http://doi.acm.org/10.1145/1014052.1014147",
 	"pages": "725-730",
 	"publisher": "ACM",
-	"stemmed": ["immc", "increment", "maximum", "margin", "criterion"],
-	"tag": ["incremental", "named"],
+	"stemmed": [
+		"immc",
+		"increment",
+		"maximum",
+		"margin",
+		"criterion"
+	],
+	"tag": [
+		"incremental",
+		"named"
+	],
 	"title": "IMMC: incremental maximum margin criterion",
 	"type": "inproceedings",
 	"venue": "KDD",

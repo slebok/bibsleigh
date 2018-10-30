@@ -1,13 +1,29 @@
 {
-	"author": ["Antara Ghosh", "Jignashu Parikh", "Vibhuti S. Sengar", "Jayant R. Haritsa"],
-	"booktitle": "VLDB",
+	"author": [
+		"Antara Ghosh",
+		"Jignashu Parikh",
+		"Vibhuti S. Sengar",
+		"Jayant R. Haritsa"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/GhoshPSH02",
 	"ee": "http://www.vldb.org/conf/2002/S06P02.pdf",
 	"pages": "179-190",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["plan", "select", "base", "on", "queri", "cluster"],
-	"tag": ["clustering", "query"],
+	"stemmed": [
+		"plan",
+		"select",
+		"base",
+		"on",
+		"queri",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"query"
+	],
 	"title": "Plan Selection Based on Query Clustering",
 	"type": "inproceedings",
 	"venue": "VLDB",

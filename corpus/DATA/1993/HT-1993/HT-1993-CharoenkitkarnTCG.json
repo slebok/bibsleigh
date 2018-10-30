@@ -1,6 +1,12 @@
 {
-	"author": ["Nipon Charoenkitkarn", "Jim Tam", "Mark H. Chignell", "Gene Golovchinsky"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Nipon Charoenkitkarn",
+		"Jim Tam",
+		"Mark H. Chignell",
+		"Gene Golovchinsky"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1993/P206.pdf",
 	"crossref": "conf/ht/93",
 	"dblpkey": "conf/ht/CharoenkitkarnTCG93",
@@ -8,8 +14,19 @@
 	"ee": "http://doi.acm.org/10.1145/168750.168824",
 	"pages": "206-216",
 	"publisher": "ACM",
-	"stemmed": ["brows", "through", "queri", "design", "for", "electron", "book"],
-	"tag": ["design", "query"],
+	"stemmed": [
+		"brows",
+		"through",
+		"queri",
+		"design",
+		"for",
+		"electron",
+		"book"
+	],
+	"tag": [
+		"design",
+		"query"
+	],
 	"title": "Browsing Through Querying: Designing for Electronic Books",
 	"type": "inproceedings",
 	"venue": "HT",

@@ -1,14 +1,36 @@
 {
-	"author": ["Xiaohu Qie", "Ruoming Pang", "Larry L. Peterson"],
-	"booktitle": "OSDI",
+	"author": [
+		"Xiaohu Qie",
+		"Ruoming Pang",
+		"Larry L. Peterson"
+	],
+	"booktitle": "Proceedings of the Fifth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2002",
 	"dblpkey": "conf/osdi/QiePP02",
 	"doi": "10.1145/1060289.1060295",
 	"ee": "http://www.usenix.org/events/osdi02/tech/qie.html",
 	"pages": "45-60",
 	"publisher": "USENIX Association",
-	"stemmed": ["defens", "program", "use", "an", "annot", "toolkit", "to", "build", "do", "s", "resist", "softwar"],
-	"tag": ["programming", "tool support", "using"],
+	"stemmed": [
+		"defens",
+		"program",
+		"use",
+		"an",
+		"annot",
+		"toolkit",
+		"to",
+		"build",
+		"do",
+		"s",
+		"resist",
+		"softwar"
+	],
+	"tag": [
+		"programming",
+		"tool support",
+		"using"
+	],
 	"title": "Defensive Programming: Using an Annotation Toolkit to Build DoS-Resistant Software",
 	"type": "inproceedings",
 	"venue": "OSDI",

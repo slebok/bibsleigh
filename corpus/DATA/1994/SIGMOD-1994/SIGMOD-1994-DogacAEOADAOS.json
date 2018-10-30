@@ -1,16 +1,40 @@
 {
-	"author": ["Asuman Dogac", "Ismailcem Budak Arpinar", "Cem Evrendilek", "Cetin Ozkan", "Ilker Altintas", "Ilker Durusoy", "Mehmet Altinel", "Tansel Okay", "Yuksel Saygin"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Asuman Dogac",
+		"Ismailcem Budak Arpinar",
+		"Cem Evrendilek",
+		"Cetin Ozkan",
+		"Ilker Altintas",
+		"Ilker Durusoy",
+		"Mehmet Altinel",
+		"Tansel Okay",
+		"Yuksel Saygin"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD94/P513.PDF",
-	"cite": ["journals/sigmod/ArpinarDE93", "...", "...", "phd/McKenna93", "..."],
+	"cite": [
+		"journals/sigmod/ArpinarDE93",
+		"...",
+		"...",
+		"phd/McKenna93",
+		"..."
+	],
 	"crossref": "conf/sigmod/94",
 	"dblpkey": "conf/sigmod/DogacAEOADAOS94",
 	"doi": "10.1145/191839.197137",
 	"ee": "http://doi.acm.org/10.1145/191839.197137",
-	"pages": 513,
+	"pages": "513",
 	"publisher": "ACM Press",
-	"stemmed": ["metu", "object", "orient", "dbms"],
-	"tag": ["object-oriented"],
+	"stemmed": [
+		"metu",
+		"object",
+		"orient",
+		"dbms"
+	],
+	"tag": [
+		"object-oriented"
+	],
 	"title": "METU Object-Oriented DBMS",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

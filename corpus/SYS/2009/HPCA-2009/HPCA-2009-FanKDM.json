@@ -1,6 +1,12 @@
 {
-	"author": ["Kevin Fan", "Manjunath Kudlur", "Ganesh S. Dasika", "Scott A. Mahlke"],
-	"booktitle": "HPCA",
+	"author": [
+		"Kevin Fan",
+		"Manjunath Kudlur",
+		"Ganesh S. Dasika",
+		"Scott A. Mahlke"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2009",
 	"dblpkey": "conf/hpca/FanKDM09",
 	"doi": "10.1109/HPCA.2009.4798266",
@@ -8,8 +14,21 @@
 	"pages": "313-322",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["bridg", "the", "comput", "gap", "between", "programm", "processor", "and", "hardwir", "acceler"],
-	"tag": ["programmable"],
+	"stemmed": [
+		"bridg",
+		"the",
+		"comput",
+		"gap",
+		"between",
+		"programm",
+		"processor",
+		"and",
+		"hardwir",
+		"acceler"
+	],
+	"tag": [
+		"programmable"
+	],
 	"title": "Bridging the computation gap between programmable processors and hardwired accelerators",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,13 +1,31 @@
 {
-	"author": ["Rajiv Jain", "Alice C. Parker", "Nohbyung Park"],
-	"booktitle": "DAC",
+	"author": [
+		"Rajiv Jain",
+		"Alice C. Parker",
+		"Nohbyung Park"
+	],
+	"booktitle": "Proceedings of the 24th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/JainPP87",
 	"doi": "10.1145/37888.37893",
 	"ee": "http://doi.acm.org/10.1145/37888.37893",
 	"pages": "35-41",
 	"publisher": "IEEE Computer Society Press / ACM",
-	"stemmed": ["predict", "area", "time", "tradeoff", "for", "pipelin", "design"],
-	"tag": ["design", "pipes and filters", "predict", "trade-off"],
+	"stemmed": [
+		"predict",
+		"area",
+		"time",
+		"tradeoff",
+		"for",
+		"pipelin",
+		"design"
+	],
+	"tag": [
+		"design",
+		"pipes and filters",
+		"predict",
+		"trade-off"
+	],
 	"title": "Predicting Area-Time Tradeoffs for Pipelined Design",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,33 @@
 {
-	"author": ["Michael Meier", "Michael Schmidt", "Fang Wei", "Georg Lausen"],
-	"booktitle": "PODS",
+	"author": [
+		"Michael Meier",
+		"Michael Schmidt",
+		"Fang Wei",
+		"Georg Lausen"
+	],
+	"booktitle": "Proceedings of the 29th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2010",
 	"dblpkey": "conf/pods/MeierSWL10",
 	"doi": "10.1145/1807085.1807102",
 	"ee": "http://doi.acm.org/10.1145/1807085.1807102",
 	"pages": "111-122",
 	"publisher": "ACM",
-	"stemmed": ["semant", "queri", "optim", "in", "the", "presenc", "of", "type"],
-	"tag": ["optimisation", "query", "semantics"],
+	"stemmed": [
+		"semant",
+		"queri",
+		"optim",
+		"in",
+		"the",
+		"presenc",
+		"of",
+		"type"
+	],
+	"tag": [
+		"optimisation",
+		"query",
+		"semantics"
+	],
 	"title": "Semantic query optimization in the presence of types",
 	"type": "inproceedings",
 	"venue": "PODS",

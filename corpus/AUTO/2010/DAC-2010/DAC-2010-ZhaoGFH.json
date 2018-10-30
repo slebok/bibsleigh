@@ -1,14 +1,34 @@
 {
-	"author": ["Xueqian Zhao", "Yonghe Guo", "Zhuo Feng", "Shiyan Hu"],
-	"booktitle": "DAC",
+	"author": [
+		"Xueqian Zhao",
+		"Yonghe Guo",
+		"Zhuo Feng",
+		"Shiyan Hu"
+	],
+	"booktitle": "Proceedings of the 47th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2010",
 	"dblpkey": "conf/dac/ZhaoGFH10",
 	"doi": "10.1145/1837274.1837485",
 	"ee": "http://doi.acm.org/10.1145/1837274.1837485",
 	"pages": "843-848",
 	"publisher": "ACM",
-	"stemmed": ["parallel", "hierarch", "cross", "entropi", "optim", "for", "on", "chip", "decap", "budget"],
-	"tag": ["optimisation", "parallel"],
+	"stemmed": [
+		"parallel",
+		"hierarch",
+		"cross",
+		"entropi",
+		"optim",
+		"for",
+		"on",
+		"chip",
+		"decap",
+		"budget"
+	],
+	"tag": [
+		"optimisation",
+		"parallel"
+	],
 	"title": "Parallel hierarchical cross entropy optimization for on-chip decap budgeting",
 	"type": "inproceedings",
 	"venue": "DAC",

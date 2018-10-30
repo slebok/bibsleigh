@@ -1,6 +1,7 @@
 {
 	"author": "Ole Dommergaard",
 	"booktitle": "Towards a Formal Description of Ada",
+	"booktitleshort": "Towards a Formal Description of Ada",
 	"crossref": "conf/sigada/1980",
 	"dblpkey": "conf/sigada/Dommergaard80",
 	"doi": "10.1007/3-540-10283-3_5",
@@ -10,11 +11,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "design", "of", "a", "virtual", "machin", "for", "ada"],
-	"tag": ["ada", "design", "virtual machine"],
+	"stemmed": [
+		"the",
+		"design",
+		"of",
+		"a",
+		"virtual",
+		"machin",
+		"for",
+		"ada"
+	],
+	"tag": [
+		"ada",
+		"design",
+		"virtual machine"
+	],
 	"title": "The Design of a Virtual Machine for Ada",
 	"type": "inproceedings",
 	"venue": "Ada",
-	"volume": 98,
+	"volume": "98",
 	"year": 1980
 }

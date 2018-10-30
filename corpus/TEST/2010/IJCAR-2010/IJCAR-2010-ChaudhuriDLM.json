@@ -1,6 +1,12 @@
 {
-	"author": ["Kaustuv Chaudhuri", "Damien Doligez", "Leslie Lamport", "Stephan Merz"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Kaustuv Chaudhuri",
+		"Damien Doligez",
+		"Leslie Lamport",
+		"Stephan Merz"
+	],
+	"booktitle": "Proceedings of the Fifth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2010",
 	"dblpkey": "conf/cade/ChaudhuriDLM10",
 	"doi": "10.1007/978-3-642-14203-1_12",
@@ -10,11 +16,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["verifi", "safeti", "properti", "with", "the", "tla", "proof", "system"],
-	"tag": ["proving", "safety", "verification"],
+	"stemmed": [
+		"verifi",
+		"safeti",
+		"properti",
+		"with",
+		"the",
+		"tla",
+		"proof",
+		"system"
+	],
+	"tag": [
+		"proving",
+		"safety",
+		"verification"
+	],
 	"title": "Verifying Safety Properties with the TLA+ Proof System",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 6173,
+	"volume": "6173",
 	"year": 2010
 }

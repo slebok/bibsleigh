@@ -1,13 +1,33 @@
 {
-	"author": ["Minglong Shao", "Jiri Schindler", "Steven W. Schlosser", "Anastassia Ailamaki", "Gregory R. Ganger"],
-	"booktitle": "VLDB",
+	"author": [
+		"Minglong Shao",
+		"Jiri Schindler",
+		"Steven W. Schlosser",
+		"Anastassia Ailamaki",
+		"Gregory R. Ganger"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/ShaoSSAG04",
 	"ee": "http://www.vldb.org/conf/2004/RS18P4.PDF",
 	"pages": "696-707",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["clotho", "decoupl", "memori", "page", "layout", "from", "storag", "organ"],
-	"tag": ["layout", "memory management", "named"],
+	"stemmed": [
+		"clotho",
+		"decoupl",
+		"memori",
+		"page",
+		"layout",
+		"from",
+		"storag",
+		"organ"
+	],
+	"tag": [
+		"layout",
+		"memory management",
+		"named"
+	],
 	"title": "Clotho: Decoupling memory page layout from storage organization",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,15 +1,38 @@
 {
-	"author": ["Kiyofumi Tanaka", "Takashi Matsumoto", "Kei Hiraki"],
-	"booktitle": "HPCA",
+	"author": [
+		"Kiyofumi Tanaka",
+		"Takashi Matsumoto",
+		"Kei Hiraki"
+	],
+	"booktitle": "Proceedings of the Fifth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1999",
 	"dblpkey": "conf/hpca/TanakaMH99",
 	"doi": "10.1109/HPCA.1999.744339",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1999.744339", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744339"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1999.744339",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744339"
+	],
 	"pages": "90-99",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["lightweight", "hardwar", "distribut", "share", "memori", "support", "by", "general", "combin"],
-	"tag": ["distributed", "hardware", "lightweight", "memory management"],
+	"stemmed": [
+		"lightweight",
+		"hardwar",
+		"distribut",
+		"share",
+		"memori",
+		"support",
+		"by",
+		"general",
+		"combin"
+	],
+	"tag": [
+		"distributed",
+		"hardware",
+		"lightweight",
+		"memory management"
+	],
 	"title": "Lightweight Hardware Distributed Shared Memory Supported by Generalized Combining",
 	"type": "inproceedings",
 	"venue": "HPCA",

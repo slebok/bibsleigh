@@ -1,13 +1,31 @@
 {
-	"author": ["Daniel Zinn", "Jim Bosch", "Michael Gertz"],
-	"booktitle": "VLDB",
+	"author": [
+		"Daniel Zinn",
+		"Jim Bosch",
+		"Michael Gertz"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/ZinnBG07",
 	"ee": "http://www.vldb.org/conf/2007/papers/research/p567-zinn.pdf",
 	"pages": "567-578",
 	"publisher": "ACM",
-	"stemmed": ["model", "and", "queri", "vagu", "spatial", "object", "use", "shapelet"],
-	"tag": ["modelling", "query", "using"],
+	"stemmed": [
+		"model",
+		"and",
+		"queri",
+		"vagu",
+		"spatial",
+		"object",
+		"use",
+		"shapelet"
+	],
+	"tag": [
+		"modelling",
+		"query",
+		"using"
+	],
 	"title": "Modeling and Querying Vague Spatial Objects Using Shapelets",
 	"type": "inproceedings",
 	"venue": "VLDB",

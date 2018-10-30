@@ -1,6 +1,10 @@
 {
-	"author": ["Fabio Crestani", "C. J. van Rijsbergen"],
+	"author": [
+		"Fabio Crestani",
+		"C. J. van Rijsbergen"
+	],
 	"booktitle": "Proceedings of the 18th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1995/P291.pdf",
 	"crossref": "conf/sigir/95",
 	"dblpkey": "conf/sigir/CrestaniR95",
@@ -8,8 +12,17 @@
 	"ee": "http://doi.acm.org/10.1145/215206.215373",
 	"pages": "291-299",
 	"publisher": "ACM Press",
-	"stemmed": ["probabl", "kinemat", "in", "inform", "retriev"],
-	"tag": ["information retrieval", "probability"],
+	"stemmed": [
+		"probabl",
+		"kinemat",
+		"in",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"information retrieval",
+		"probability"
+	],
 	"title": "Probability Kinematics in Information Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

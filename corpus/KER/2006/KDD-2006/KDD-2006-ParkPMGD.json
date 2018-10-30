@@ -1,14 +1,32 @@
 {
-	"author": ["Seung-Taek Park", "David Pennock", "Omid Madani", "Nathan Good", "Dennis DeCoste"],
-	"booktitle": "KDD",
+	"author": [
+		"Seung-Taek Park",
+		"David Pennock",
+		"Omid Madani",
+		"Nathan Good",
+		"Dennis DeCoste"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/ParkPMGD06",
 	"doi": "10.1145/1150402.1150490",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150490",
 	"pages": "699-705",
 	"publisher": "ACM",
-	"stemmed": ["naïv", "filterbot", "for", "robust", "cold", "start", "recommend"],
-	"tag": ["recommendation", "robust"],
+	"stemmed": [
+		"naïv",
+		"filterbot",
+		"for",
+		"robust",
+		"cold",
+		"start",
+		"recommend"
+	],
+	"tag": [
+		"recommendation",
+		"robust"
+	],
 	"title": "Naïve filterbots for robust cold-start recommendations",
 	"type": "inproceedings",
 	"venue": "KDD",

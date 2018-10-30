@@ -1,14 +1,46 @@
 {
-	"author": ["Hava T. Siegelmann", "B. R. Badrinath"],
-	"booktitle": "VLDB",
-	"cite": ["conf/vldb/AlashqurSL89", "conf/dood/Beeri89", "conf/icde/BanerjeeKK88", "conf/sigmod/BadrinathR90", "conf/eds/Corella84", "journals/tkde/Deux90", "journals/tkde/Kim90", "books/aw/KimL89", "conf/vldb/KemperM90", "...", "books/aw/kimL89/BretlMOPSSWW89", "conf/sigmod/MossGG86", "conf/eds/ShumM88", "conf/dood/ShawZ89", "conf/icde/ShawZ90", "books/mk/ZdonikM90"],
+	"author": [
+		"Hava T. Siegelmann",
+		"B. R. Badrinath"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/vldb/AlashqurSL89",
+		"conf/dood/Beeri89",
+		"conf/icde/BanerjeeKK88",
+		"conf/sigmod/BadrinathR90",
+		"conf/eds/Corella84",
+		"journals/tkde/Deux90",
+		"journals/tkde/Kim90",
+		"books/aw/KimL89",
+		"conf/vldb/KemperM90",
+		"...",
+		"books/aw/kimL89/BretlMOPSSWW89",
+		"conf/sigmod/MossGG86",
+		"conf/eds/ShumM88",
+		"conf/dood/ShawZ89",
+		"conf/icde/ShawZ90",
+		"books/mk/ZdonikM90"
+	],
 	"crossref": "conf/vldb/91",
 	"dblpkey": "conf/vldb/SiegelmannB91",
 	"ee": "http://www.vldb.org/conf/1991/P015.PDF",
 	"pages": "15-24",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["integr", "implicit", "answer", "with", "object", "orient", "queri"],
-	"tag": ["object-oriented", "query"],
+	"stemmed": [
+		"integr",
+		"implicit",
+		"answer",
+		"with",
+		"object",
+		"orient",
+		"queri"
+	],
+	"tag": [
+		"object-oriented",
+		"query"
+	],
 	"title": "Integrating Implicit Answers with Object-Oriented Queries",
 	"type": "inproceedings",
 	"venue": "VLDB",

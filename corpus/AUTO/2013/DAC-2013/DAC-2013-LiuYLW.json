@@ -1,14 +1,34 @@
 {
-	"author": ["Dajiang Liu", "Shouyi Yin", "Leibo Liu", "Shaojun Wei"],
-	"booktitle": "DAC",
+	"author": [
+		"Dajiang Liu",
+		"Shouyi Yin",
+		"Leibo Liu",
+		"Shaojun Wei"
+	],
+	"booktitle": "Proceedings of the 50th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2013",
 	"dblpkey": "conf/dac/LiuYLW13",
 	"doi": "10.1145/2463209.2488757",
 	"ee": "http://doi.acm.org/10.1145/2463209.2488757",
 	"pages": "19:1-19:8",
 	"publisher": "ACM",
-	"stemmed": ["polyhedr", "model", "base", "map", "optim", "of", "loop", "nest", "for", "cgras"],
-	"tag": ["modelling", "optimisation"],
+	"stemmed": [
+		"polyhedr",
+		"model",
+		"base",
+		"map",
+		"optim",
+		"of",
+		"loop",
+		"nest",
+		"for",
+		"cgras"
+	],
+	"tag": [
+		"modelling",
+		"optimisation"
+	],
 	"title": "Polyhedral model based mapping optimization of loop nests for CGRAs",
 	"type": "inproceedings",
 	"venue": "DAC",

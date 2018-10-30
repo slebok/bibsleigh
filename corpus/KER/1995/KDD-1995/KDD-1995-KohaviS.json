@@ -1,13 +1,34 @@
 {
-	"author": ["Ron Kohavi", "Dan Sommerfield"],
-	"booktitle": "KDD",
+	"author": [
+		"Ron Kohavi",
+		"Dan Sommerfield"
+	],
+	"booktitle": "Proceedings of the First International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1995",
 	"dblpkey": "conf/kdd/KohaviS95",
 	"ee": "http://www.aaai.org/Library/KDD/1995/kdd95-049.php",
 	"pages": "192-197",
 	"publisher": "AAAI Press",
-	"stemmed": ["featur", "subset", "select", "use", "the", "wrapper", "method", "overfit", "and", "dynam", "search", "space", "topolog"],
-	"tag": ["set", "using"],
+	"stemmed": [
+		"featur",
+		"subset",
+		"select",
+		"use",
+		"the",
+		"wrapper",
+		"method",
+		"overfit",
+		"and",
+		"dynam",
+		"search",
+		"space",
+		"topolog"
+	],
+	"tag": [
+		"set",
+		"using"
+	],
 	"title": "Feature Subset Selection Using the Wrapper Method: Overfitting and Dynamic Search Space Topology",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,6 +1,9 @@
 {
-	"author": ["Sebastiaan J. van Schaik", "Oege de Moor"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Sebastiaan J. van Schaik",
+		"Oege de Moor"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/SchaikM11",
@@ -8,8 +11,24 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989419",
 	"pages": "913-924",
 	"publisher": "ACM",
-	"stemmed": ["a", "memori", "effici", "reachabl", "data", "structur", "through", "bit", "vector", "compress"],
-	"tag": ["data type", "memory management", "performance", "reachability"],
+	"stemmed": [
+		"a",
+		"memori",
+		"effici",
+		"reachabl",
+		"data",
+		"structur",
+		"through",
+		"bit",
+		"vector",
+		"compress"
+	],
+	"tag": [
+		"data type",
+		"memory management",
+		"performance",
+		"reachability"
+	],
 	"title": "A memory efficient reachability data structure through bit vector compression",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

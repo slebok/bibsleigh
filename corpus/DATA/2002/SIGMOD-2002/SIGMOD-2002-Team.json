@@ -1,6 +1,6 @@
 {
 	"author": "Times-Ten Team",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/Team02",
@@ -8,8 +8,18 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564761",
 	"pages": "588-593",
 	"publisher": "ACM",
-	"stemmed": ["mid", "tier", "cach", "the", "time", "ten", "approach"],
-	"tag": ["approach"],
+	"stemmed": [
+		"mid",
+		"tier",
+		"cach",
+		"the",
+		"time",
+		"ten",
+		"approach"
+	],
+	"tag": [
+		"approach"
+	],
 	"title": "Mid-tier caching: the TimesTen approach",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

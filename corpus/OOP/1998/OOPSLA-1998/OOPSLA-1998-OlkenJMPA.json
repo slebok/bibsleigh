@@ -1,17 +1,44 @@
 {
-	"author": ["Frank Olken", "Hans-Arno Jacobsen", "Chuck McParland", "Mary Ann Piette", "Mary F. Anderson"],
-	"booktitle": "Proceedings of the 13th Conference on Object-Oriented Programming Systems, Languages & Applications",
+	"author": [
+		"Frank Olken",
+		"Hans-Arno Jacobsen",
+		"Chuck McParland",
+		"Mary Ann Piette",
+		"Mary F. Anderson"
+	],
+	"booktitle": "Proceedings of the 13th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1998",
 	"dblpkey": "conf/oopsla/OlkenJMPA98",
 	"doi": "10.1145/286936.286968",
-	"editor": ["Bjørn N. Freeman-Benson", "Craig Chambers"],
+	"editor": [
+		"Bjørn N. Freeman-Benson",
+		"Craig Chambers"
+	],
 	"ee": "http://doi.acm.org/10.1145/286936.286968",
 	"isbn": "1-58113-005-8",
 	"pages": "284-295",
 	"publisher": "ACM",
-	"stemmed": ["object", "lesson", "learn", "from", "a", "distribut", "system", "for", "remot", "build", "monitor", "and", "oper"],
-	"tag": ["distributed", "lessons learnt", "monitoring"],
+	"stemmed": [
+		"object",
+		"lesson",
+		"learn",
+		"from",
+		"a",
+		"distribut",
+		"system",
+		"for",
+		"remot",
+		"build",
+		"monitor",
+		"and",
+		"oper"
+	],
+	"tag": [
+		"distributed",
+		"lessons learnt",
+		"monitoring"
+	],
 	"title": "Object Lessons Learned from a Distributed System for Remote Building Monitoring and Operation",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

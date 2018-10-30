@@ -1,6 +1,12 @@
 {
-	"author": ["Markus Bühler", "Matthias Papesch", "K. Kapp", "Utz G. Baitinger"],
-	"booktitle": "DATE",
+	"author": [
+		"Markus Bühler",
+		"Matthias Papesch",
+		"K. Kapp",
+		"Utz G. Baitinger"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/BuhlerPKB99",
 	"doi": "10.1109/DATE.1999.761166",
@@ -8,8 +14,28 @@
 	"pages": "459-",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["effici", "switch", "activ", "simul", "under", "a", "real", "delay", "model", "use", "a", "bitparallel", "approach"],
-	"tag": ["approach", "performance", "process", "simulation", "using"],
+	"stemmed": [
+		"effici",
+		"switch",
+		"activ",
+		"simul",
+		"under",
+		"a",
+		"real",
+		"delay",
+		"model",
+		"use",
+		"a",
+		"bitparallel",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"performance",
+		"process",
+		"simulation",
+		"using"
+	],
 	"title": "Efficient Switching Activity Simulation under a Real Delay Model Using a Bitparallel Approach",
 	"type": "inproceedings",
 	"venue": "DATE",

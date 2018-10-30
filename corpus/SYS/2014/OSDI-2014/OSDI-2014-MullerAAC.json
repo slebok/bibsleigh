@@ -1,13 +1,35 @@
 {
-	"author": ["Stefan C. Müller", "Gustavo Alonso", "Adam Amara", "André Csillaghy"],
-	"booktitle": "OSDI",
+	"author": [
+		"Stefan C. Müller",
+		"Gustavo Alonso",
+		"Adam Amara",
+		"André Csillaghy"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2014",
 	"dblpkey": "conf/osdi/MullerAAC14",
 	"ee": "https://www.usenix.org/conference/osdi14/technical-sessions/presentation/muller",
 	"pages": "645-659",
 	"publisher": "USENIX Association",
-	"stemmed": ["pydron", "semi", "automat", "parallel", "for", "multi", "core", "and", "the", "cloud"],
-	"tag": ["automation", "manycore", "named", "parallel"],
+	"stemmed": [
+		"pydron",
+		"semi",
+		"automat",
+		"parallel",
+		"for",
+		"multi",
+		"core",
+		"and",
+		"the",
+		"cloud"
+	],
+	"tag": [
+		"automation",
+		"manycore",
+		"named",
+		"parallel"
+	],
 	"title": "Pydron: Semi-Automatic Parallelization for Multi-Core and the Cloud",
 	"type": "inproceedings",
 	"venue": "OSDI",

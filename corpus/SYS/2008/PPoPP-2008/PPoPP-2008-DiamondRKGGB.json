@@ -1,14 +1,38 @@
 {
-	"author": ["Jeffrey R. Diamond", "Behnam Robatmili", "Stephen W. Keckler", "Robert A. van de Geijn", "Kazushige Goto", "Doug Burger"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Jeffrey R. Diamond",
+		"Behnam Robatmili",
+		"Stephen W. Keckler",
+		"Robert A. van de Geijn",
+		"Kazushige Goto",
+		"Doug Burger"
+	],
+	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/DiamondRKGGB08",
 	"doi": "10.1145/1345206.1345218",
 	"ee": "http://doi.acm.org/10.1145/1345206.1345218",
 	"pages": "63-72",
 	"publisher": "ACM",
-	"stemmed": ["high", "perform", "dens", "linear", "algebra", "on", "a", "spatial", "distribut", "processor"],
-	"tag": ["algebra", "distributed", "linear", "performance"],
+	"stemmed": [
+		"high",
+		"perform",
+		"dens",
+		"linear",
+		"algebra",
+		"on",
+		"a",
+		"spatial",
+		"distribut",
+		"processor"
+	],
+	"tag": [
+		"algebra",
+		"distributed",
+		"linear",
+		"performance"
+	],
 	"title": "High performance dense linear algebra on a spatially distributed processor",
 	"type": "inproceedings",
 	"venue": "PPoPP",

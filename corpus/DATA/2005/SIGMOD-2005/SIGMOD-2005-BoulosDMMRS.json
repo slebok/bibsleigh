@@ -1,6 +1,13 @@
 {
-	"author": ["Jihad Boulos", "Nilesh N. Dalvi", "Bhushan Mandhani", "Shobhit Mathur", "Christopher Ré", "Dan Suciu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jihad Boulos",
+		"Nilesh N. Dalvi",
+		"Bhushan Mandhani",
+		"Shobhit Mathur",
+		"Christopher Ré",
+		"Dan Suciu"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/BoulosDMMRS05",
@@ -8,8 +15,22 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066277",
 	"pages": "891-893",
 	"publisher": "ACM",
-	"stemmed": ["mystiq", "a", "system", "for", "find", "more", "answer", "by", "use", "probabl"],
-	"tag": ["named", "using"],
+	"stemmed": [
+		"mystiq",
+		"a",
+		"system",
+		"for",
+		"find",
+		"more",
+		"answer",
+		"by",
+		"use",
+		"probabl"
+	],
+	"tag": [
+		"named",
+		"using"
+	],
 	"title": "MYSTIQ: a system for finding more answers by using probabilities",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

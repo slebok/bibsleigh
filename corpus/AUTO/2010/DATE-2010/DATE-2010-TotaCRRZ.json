@@ -1,13 +1,39 @@
 {
-	"author": ["Sergio Tota", "Mario R. Casu", "Massimo Ruo Roch", "Luca Rostagno", "Maurizio Zamboni"],
-	"booktitle": "DATE",
+	"author": [
+		"Sergio Tota",
+		"Mario R. Casu",
+		"Massimo Ruo Roch",
+		"Luca Rostagno",
+		"Maurizio Zamboni"
+	],
+	"booktitle": "Proceedings of the 14th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2010",
 	"dblpkey": "conf/date/TotaCRRZ10",
 	"ieeearid": 5457237,
 	"pages": "45-50",
 	"publisher": "IEEE",
-	"stemmed": ["medea", "a", "hybrid", "share", "memori", "messag", "pass", "multiprocessor", "no", "c", "base", "architectur"],
-	"tag": ["architecture", "hybrid", "message passing", "multi", "named"],
+	"stemmed": [
+		"medea",
+		"a",
+		"hybrid",
+		"share",
+		"memori",
+		"messag",
+		"pass",
+		"multiprocessor",
+		"no",
+		"c",
+		"base",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"hybrid",
+		"message passing",
+		"multi",
+		"named"
+	],
 	"title": "MEDEA: a hybrid shared-memory/message-passing multiprocessor NoC-based architecture",
 	"type": "inproceedings",
 	"venue": "DATE",

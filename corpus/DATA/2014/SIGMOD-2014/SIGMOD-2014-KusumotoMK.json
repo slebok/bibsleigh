@@ -1,6 +1,10 @@
 {
-	"author": ["Mitsuru Kusumoto", "Takanori Maehara", "Ken-ichi Kawarabayashi"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Mitsuru Kusumoto",
+		"Takanori Maehara",
+		"Ken-ichi Kawarabayashi"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/KusumotoMK14",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2610526",
 	"pages": "325-336",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "similar", "search", "for", "sim", "rank"],
-	"tag": ["scalability", "similarity"],
+	"stemmed": [
+		"scalabl",
+		"similar",
+		"search",
+		"for",
+		"sim",
+		"rank"
+	],
+	"tag": [
+		"scalability",
+		"similarity"
+	],
 	"title": "Scalable similarity search for SimRank",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

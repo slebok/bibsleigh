@@ -1,6 +1,7 @@
 {
 	"author": "Stephen F. Siegel",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the Sixth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2005",
 	"dblpkey": "conf/vmcai/Siegel05",
 	"doi": "10.1007/978-3-540-30579-8_27",
@@ -10,11 +11,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["effici", "verif", "of", "halt", "properti", "for", "mpi", "program", "with", "wildcard", "receiv"],
-	"tag": ["performance", "source code", "verification"],
+	"stemmed": [
+		"effici",
+		"verif",
+		"of",
+		"halt",
+		"properti",
+		"for",
+		"mpi",
+		"program",
+		"with",
+		"wildcard",
+		"receiv"
+	],
+	"tag": [
+		"performance",
+		"source code",
+		"verification"
+	],
 	"title": "Efficient Verification of Halting Properties for MPI Programs with Wildcard Receives",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3385,
+	"volume": "3385",
 	"year": 2005
 }

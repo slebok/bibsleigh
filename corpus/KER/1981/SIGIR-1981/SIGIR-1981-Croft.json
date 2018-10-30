@@ -1,6 +1,7 @@
 {
 	"author": "W. Bruce Croft",
 	"booktitle": "Proceedings of the Fourth International Conference on Information Storage and Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1981/P040.pdf",
 	"crossref": "conf/sigir/81",
 	"dblpkey": "conf/sigir/Croft81",
@@ -8,8 +9,22 @@
 	"ee": "http://doi.acm.org/10.1145/511754.511760",
 	"pages": "40-45",
 	"publisher": "ACM",
-	"stemmed": ["incorpor", "differ", "search", "model", "into", "one", "document", "retriev", "system"],
-	"tag": ["documentation", "modelling", "retrieval"],
+	"stemmed": [
+		"incorpor",
+		"differ",
+		"search",
+		"model",
+		"into",
+		"one",
+		"document",
+		"retriev",
+		"system"
+	],
+	"tag": [
+		"documentation",
+		"modelling",
+		"retrieval"
+	],
 	"title": "Incorporating Different Search Models into One Document Retrieval System",
 	"type": "inproceedings",
 	"venue": "SIGIR",

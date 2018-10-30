@@ -1,13 +1,34 @@
 {
-	"author": ["Chung-Yang Huang", "Kwang-Ting Cheng"],
-	"booktitle": "DAC",
+	"author": [
+		"Chung-Yang Huang",
+		"Kwang-Ting Cheng"
+	],
+	"booktitle": "Proceedings of the 37th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/HuangC00",
 	"doi": "10.1145/337292.337333",
 	"ee": "http://doi.acm.org/10.1145/337292.337333",
 	"pages": "118-123",
 	"publisher": "ACM",
-	"stemmed": ["assert", "check", "by", "combin", "word", "level", "atpg", "and", "modular", "arithmet", "constraint", "solv", "techniqu"],
-	"tag": ["composition", "constraints"],
+	"stemmed": [
+		"assert",
+		"check",
+		"by",
+		"combin",
+		"word",
+		"level",
+		"atpg",
+		"and",
+		"modular",
+		"arithmet",
+		"constraint",
+		"solv",
+		"techniqu"
+	],
+	"tag": [
+		"composition",
+		"constraints"
+	],
 	"title": "Assertion checking by combined word-level ATPG and modular arithmetic constraint-solving techniques",
 	"type": "inproceedings",
 	"venue": "DAC",

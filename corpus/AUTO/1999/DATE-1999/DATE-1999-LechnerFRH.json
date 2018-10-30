@@ -1,6 +1,12 @@
 {
-	"author": ["A. Lechner", "J. Ferguson", "Andrew Richardson", "B. Hermes"],
-	"booktitle": "DATE",
+	"author": [
+		"A. Lechner",
+		"J. Ferguson",
+		"Andrew Richardson",
+		"B. Hermes"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/LechnerFRH99",
 	"doi": "10.1109/DATE.1999.761127",
@@ -8,8 +14,28 @@
 	"pages": "232-238",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "digit", "partial", "built", "in", "self", "test", "for", "a", "high", "perform", "automat", "gain", "control", "circuit"],
-	"tag": ["automation", "performance", "self"],
+	"stemmed": [
+		"a",
+		"digit",
+		"partial",
+		"built",
+		"in",
+		"self",
+		"test",
+		"for",
+		"a",
+		"high",
+		"perform",
+		"automat",
+		"gain",
+		"control",
+		"circuit"
+	],
+	"tag": [
+		"automation",
+		"performance",
+		"self"
+	],
 	"title": "A Digital Partial Built-In Self-Test for a High Performance Automatic Gain Control Circuit ",
 	"type": "inproceedings",
 	"venue": "DATE",

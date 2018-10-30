@@ -1,6 +1,7 @@
 {
 	"author": "Robert Korfhage",
 	"booktitle": "Proceedings of the 14th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1991/P134.pdf",
 	"crossref": "conf/sigir/91",
 	"dblpkey": "conf/sigir/Korfhage91",
@@ -8,8 +9,22 @@
 	"ee": "http://doi.acm.org/10.1145/122860.122873",
 	"pages": "134-141",
 	"publisher": "ACM",
-	"stemmed": ["to", "see", "or", "not", "to", "see", "is", "that", "the", "queri"],
-	"tag": ["query", "question"],
+	"stemmed": [
+		"to",
+		"see",
+		"or",
+		"not",
+		"to",
+		"see",
+		"is",
+		"that",
+		"the",
+		"queri"
+	],
+	"tag": [
+		"query",
+		"question"
+	],
 	"title": "To See, or Not to See: Is That the Query?",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,6 +1,7 @@
 {
 	"author": "Rainer Leupers",
-	"booktitle": "DATE",
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/Leupers99",
 	"doi": "10.1109/DATE.1999.761104",
@@ -8,8 +9,22 @@
 	"pages": "105-",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["exploit", "condit", "instruct", "in", "code", "generat", "for", "embed", "vliw", "processor"],
-	"tag": ["code generation", "embedded"],
+	"stemmed": [
+		"exploit",
+		"condit",
+		"instruct",
+		"in",
+		"code",
+		"generat",
+		"for",
+		"embed",
+		"vliw",
+		"processor"
+	],
+	"tag": [
+		"code generation",
+		"embedded"
+	],
 	"title": "Exploiting Conditional Instructions in Code Generation for Embedded VLIW Processors",
 	"type": "inproceedings",
 	"venue": "DATE",

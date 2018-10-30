@@ -1,6 +1,12 @@
 {
-	"author": ["Woon-Hak Kang", "Sang-Won Lee", "Bongki Moon", "Gi-Hwan Oh", "Changwoo Min"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Woon-Hak Kang",
+		"Sang-Won Lee",
+		"Bongki Moon",
+		"Gi-Hwan Oh",
+		"Changwoo Min"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/KangLMOM13",
@@ -8,8 +14,21 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465326",
 	"pages": "97-108",
 	"publisher": "ACM",
-	"stemmed": ["x", "ftl", "transact", "ftl", "for", "sq", "lite", "databas"],
-	"tag": ["database", "named", "transaction"],
+	"stemmed": [
+		"x",
+		"ftl",
+		"transact",
+		"ftl",
+		"for",
+		"sq",
+		"lite",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"named",
+		"transaction"
+	],
 	"title": "X-FTL: transactional FTL for SQLite databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,11 @@
 {
-	"author": ["Sobeeh Almukhaizim", "Petros Drineas", "Yiorgos Makris"],
-	"booktitle": "DATE",
+	"author": [
+		"Sobeeh Almukhaizim",
+		"Petros Drineas",
+		"Yiorgos Makris"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/AlmukhaizimDM04",
 	"doi": "10.1109/DATE.2004.1268910",
@@ -8,8 +13,25 @@
 	"pages": "596-603",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["on", "concurr", "error", "detect", "with", "bound", "latenc", "in", "fsms"],
-	"tag": ["bound", "concurrent", "detection", "fault", "latency", "on the"],
+	"stemmed": [
+		"on",
+		"concurr",
+		"error",
+		"detect",
+		"with",
+		"bound",
+		"latenc",
+		"in",
+		"fsms"
+	],
+	"tag": [
+		"bound",
+		"concurrent",
+		"detection",
+		"fault",
+		"latency",
+		"on the"
+	],
 	"title": "On Concurrent Error Detection with Bounded Latency in FSMs",
 	"type": "inproceedings",
 	"venue": "DATE",

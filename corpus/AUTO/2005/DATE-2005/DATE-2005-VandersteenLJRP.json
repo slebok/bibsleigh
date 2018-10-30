@@ -1,6 +1,13 @@
 {
-	"author": ["Gerd Vandersteen", "Ludwig De Locht", "Snezana Jenei", "Yves Rolain", "Rik Pintelon"],
-	"booktitle": "DATE",
+	"author": [
+		"Gerd Vandersteen",
+		"Ludwig De Locht",
+		"Snezana Jenei",
+		"Yves Rolain",
+		"Rik Pintelon"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/VandersteenLJRP05",
 	"doi": "10.1109/DATE.2005.140",
@@ -8,8 +15,27 @@
 	"pages": "1076-1081",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["estim", "scalabl", "common", "denomin", "laplac", "domain", "mimo", "model", "in", "an", "error", "in", "variabl", "framework"],
-	"tag": ["framework", "modelling", "scalability"],
+	"stemmed": [
+		"estim",
+		"scalabl",
+		"common",
+		"denomin",
+		"laplac",
+		"domain",
+		"mimo",
+		"model",
+		"in",
+		"an",
+		"error",
+		"in",
+		"variabl",
+		"framework"
+	],
+	"tag": [
+		"framework",
+		"modelling",
+		"scalability"
+	],
 	"title": "Estimating Scalable Common-Denominator Laplace-Domain MIMO Models in an Errors-in-Variables Framework",
 	"type": "inproceedings",
 	"venue": "DATE",

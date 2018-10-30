@@ -1,15 +1,46 @@
 {
-	"author": ["Peter Peinl", "Andreas Reuter", "Harald Sammer"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Peter Peinl",
+		"Andreas Reuter",
+		"Harald Sammer"
+	],
+	"booktitle": "Proceedings of the 18th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD88/P260.PDF",
-	"cite": ["books/aw/Date86", "conf/vldb/Gray81", "...", "...", "...", "journals/tods/KungR81", "conf/pods/Reuter82", "journals/tods/ONeil86", "conf/edbt/ChungRNM88", "...", "journals/csur/GrayMBLLPPT81"],
+	"cite": [
+		"books/aw/Date86",
+		"conf/vldb/Gray81",
+		"...",
+		"...",
+		"...",
+		"journals/tods/KungR81",
+		"conf/pods/Reuter82",
+		"journals/tods/ONeil86",
+		"conf/edbt/ChungRNM88",
+		"...",
+		"journals/csur/GrayMBLLPPT81"
+	],
 	"crossref": "conf/sigmod/88",
 	"dblpkey": "conf/sigmod/ReuterS88",
 	"doi": "10.1145/50202.50234",
 	"ee": "http://doi.acm.org/10.1145/50202.50234",
 	"pages": "260-268",
-	"stemmed": ["high", "content", "in", "a", "stock", "trade", "databas", "a", "case", "studi"],
-	"tag": ["case study", "database"],
+	"stemmed": [
+		"high",
+		"content",
+		"in",
+		"a",
+		"stock",
+		"trade",
+		"databas",
+		"a",
+		"case",
+		"studi"
+	],
+	"tag": [
+		"case study",
+		"database"
+	],
 	"title": "High Contention in a Stock Trading Database: A Case Study",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

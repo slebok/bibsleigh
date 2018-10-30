@@ -1,14 +1,32 @@
 {
-	"author": ["Matthew Frank", "Anant Agarwal", "Mary K. Vernon"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Matthew Frank",
+		"Anant Agarwal",
+		"Mary K. Vernon"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1997",
 	"dblpkey": "conf/ppopp/FrankAV97",
 	"doi": "10.1145/263764.263803",
 	"ee": "http://doi.acm.org/10.1145/263764.263803",
 	"pages": "276-287",
 	"publisher": "ACM",
-	"stemmed": ["lo", "pc", "model", "content", "in", "parallel", "algorithm"],
-	"tag": ["algorithm", "modelling", "named", "parallel"],
+	"stemmed": [
+		"lo",
+		"pc",
+		"model",
+		"content",
+		"in",
+		"parallel",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"modelling",
+		"named",
+		"parallel"
+	],
 	"title": "LoPC: Modeling Contention in Parallel Algorithms",
 	"type": "inproceedings",
 	"venue": "PPoPP",

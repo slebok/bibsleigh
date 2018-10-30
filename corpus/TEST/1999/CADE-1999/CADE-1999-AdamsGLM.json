@@ -1,6 +1,12 @@
 {
-	"author": ["A. A. Adams", "Hanne Gottliebsen", "Steve Linton", "Ursula Martin"],
-	"booktitle": "CADE",
+	"author": [
+		"A. A. Adams",
+		"Hanne Gottliebsen",
+		"Steve Linton",
+		"Ursula Martin"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1999",
 	"dblpkey": "conf/cade/AdamsGLM99",
 	"doi": "10.1007/3-540-48660-7_8",
@@ -10,11 +16,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["vsditlu", "a", "verifi", "symbol", "definit", "integr", "tabl", "look", "up"],
-	"tag": ["named"],
+	"stemmed": [
+		"vsditlu",
+		"a",
+		"verifi",
+		"symbol",
+		"definit",
+		"integr",
+		"tabl",
+		"look",
+		"up"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "VSDITLU: a verifiable symbolic definite integral table look-up",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1632,
+	"volume": "1632",
 	"year": 1999
 }

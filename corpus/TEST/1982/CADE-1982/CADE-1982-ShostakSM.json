@@ -1,6 +1,11 @@
 {
-	"author": ["Robert E. Shostak", "Richard L. Schwartz", "P. M. Melliar-Smith"],
-	"booktitle": "CADE",
+	"author": [
+		"Robert E. Shostak",
+		"Richard L. Schwartz",
+		"P. M. Melliar-Smith"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1982",
 	"dblpkey": "conf/cade/ShostakSM82",
 	"doi": "10.1007/BFb0000050",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["stp", "a", "mechan", "logic", "for", "specif", "and", "verif"],
-	"tag": ["logic", "named", "specification", "verification"],
+	"stemmed": [
+		"stp",
+		"a",
+		"mechan",
+		"logic",
+		"for",
+		"specif",
+		"and",
+		"verif"
+	],
+	"tag": [
+		"logic",
+		"named",
+		"specification",
+		"verification"
+	],
 	"title": "STP: A Mechanized Logic for Specification and Verification",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 138,
+	"volume": "138",
 	"year": 1982
 }

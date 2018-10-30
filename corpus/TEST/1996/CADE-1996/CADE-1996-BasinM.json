@@ -1,6 +1,10 @@
 {
-	"author": ["David A. Basin", "Seán Matthews"],
-	"booktitle": "CADE",
+	"author": [
+		"David A. Basin",
+		"Seán Matthews"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/BasinM96",
 	"doi": "10.1007/3-540-61511-3_79",
@@ -10,11 +14,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["structur", "metatheori", "on", "induct", "definit"],
-	"tag": ["induction"],
+	"stemmed": [
+		"structur",
+		"metatheori",
+		"on",
+		"induct",
+		"definit"
+	],
+	"tag": [
+		"induction"
+	],
 	"title": "Structuring Metatheory on Inductive Definitions",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

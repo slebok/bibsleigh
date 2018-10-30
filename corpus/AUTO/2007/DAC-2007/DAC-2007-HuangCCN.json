@@ -1,13 +1,27 @@
 {
-	"author": ["Shih-Hsu Huang", "Chun-Hua Cheng", "Chia-Ming Chang", "Yow-Tyng Nieh"],
-	"booktitle": "DAC",
+	"author": [
+		"Shih-Hsu Huang",
+		"Chun-Hua Cheng",
+		"Chia-Ming Chang",
+		"Yow-Tyng Nieh"
+	],
+	"booktitle": "Proceedings of the 44th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2007",
 	"dblpkey": "conf/dac/HuangCCN07",
 	"doi": "10.1145/1278480.1278720",
 	"ee": "http://doi.acm.org/10.1145/1278480.1278720",
 	"pages": "970-975",
 	"publisher": "IEEE",
-	"stemmed": ["clock", "period", "minim", "with", "minimum", "delay", "insert"],
+	"stemmed": [
+		"clock",
+		"period",
+		"minim",
+		"with",
+		"minimum",
+		"delay",
+		"insert"
+	],
 	"title": "Clock Period Minimization with Minimum Delay Insertion",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,29 @@
 {
-	"author": ["Sindhu Raghavan", "Suriya Gunasekar", "Joydeep Ghosh"],
-	"booktitle": "RecSys",
+	"author": [
+		"Sindhu Raghavan",
+		"Suriya Gunasekar",
+		"Joydeep Ghosh"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2012",
 	"dblpkey": "conf/recsys/RaghavanGG12",
 	"doi": "10.1145/2365952.2365978",
 	"ee": "http://doi.acm.org/10.1145/2365952.2365978",
 	"pages": "123-130",
 	"publisher": "ACM",
-	"stemmed": ["review", "qualiti", "awar", "collabor", "filter"],
-	"tag": ["bibliography", "collaboration", "quality"],
+	"stemmed": [
+		"review",
+		"qualiti",
+		"awar",
+		"collabor",
+		"filter"
+	],
+	"tag": [
+		"bibliography",
+		"collaboration",
+		"quality"
+	],
 	"title": "Review quality aware collaborative filtering",
 	"type": "inproceedings",
 	"venue": "RecSys",

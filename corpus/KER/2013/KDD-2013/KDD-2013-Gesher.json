@@ -1,14 +1,28 @@
 {
 	"author": "Ari Gesher",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/Gesher13",
 	"doi": "10.1145/2487575.2491134",
 	"ee": "http://doi.acm.org/10.1145/2487575.2491134",
-	"pages": 1136,
+	"pages": "1136",
 	"publisher": "ACM",
-	"stemmed": ["adapt", "adversari", "build", "system", "to", "fight", "fraud", "and", "cyber", "intrud"],
-	"tag": ["adaptation"],
+	"stemmed": [
+		"adapt",
+		"adversari",
+		"build",
+		"system",
+		"to",
+		"fight",
+		"fraud",
+		"and",
+		"cyber",
+		"intrud"
+	],
+	"tag": [
+		"adaptation"
+	],
 	"title": "Adaptive adversaries: building systems to fight fraud and cyber intruders",
 	"type": "inproceedings",
 	"venue": "KDD",

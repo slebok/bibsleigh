@@ -1,6 +1,7 @@
 {
 	"author": "Werner E. Kluge",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the Third International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB77/P211.PDF",
 	"cite": "...",
 	"crossref": "conf/vldb/77",
@@ -8,7 +9,15 @@
 	"pages": "211-212",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["data", "file", "manag", "in", "shift", "regist", "memori"],
+	"stemmed": [
+		"data",
+		"file",
+		"manag",
+		"in",
+		"shift",
+		"regist",
+		"memori"
+	],
 	"title": "Data File Management in Shift Register Memories",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,10 @@
 {
-	"author": ["Laurent Robert", "Eric Lecolinet"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Laurent Robert",
+		"Eric Lecolinet"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Hypertext and Hypermedia: Links, Objects, Time and Space — Structure in Hypermedia Systems",
+	"booktitleshort": "HT",
 	"cdrom": "HT1998/P293.pdf",
 	"crossref": "conf/ht/98",
 	"dblpkey": "conf/ht/RobertL98",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/276627.276665",
 	"pages": "293-294",
 	"publisher": "ACM",
-	"stemmed": ["brows", "hyperdocu", "with", "multipl", "focus", "context", "view"],
-	"tag": ["multi"],
+	"stemmed": [
+		"brows",
+		"hyperdocu",
+		"with",
+		"multipl",
+		"focus",
+		"context",
+		"view"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "Browsing hyperdocuments with multiple focus+context views",
 	"type": "inproceedings",
 	"venue": "HT",

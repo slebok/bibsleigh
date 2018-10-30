@@ -1,14 +1,33 @@
 {
-	"author": ["Tomofumi Yuki", "Paul Feautrier", "Sanjay V. Rajopadhye", "Vijay Saraswat"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Tomofumi Yuki",
+		"Paul Feautrier",
+		"Sanjay V. Rajopadhye",
+		"Vijay Saraswat"
+	],
+	"booktitle": "Proceedings of the 18th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2013",
 	"dblpkey": "conf/ppopp/YukiFRS13",
 	"doi": "10.1145/2442516.2442520",
 	"ee": "http://doi.acm.org/10.1145/2442516.2442520",
 	"pages": "23-34",
 	"publisher": "ACM",
-	"stemmed": ["array", "dataflow", "analysi", "for", "polyhedr", "x", "program"],
-	"tag": ["analysis", "array", "data flow", "source code"],
+	"stemmed": [
+		"array",
+		"dataflow",
+		"analysi",
+		"for",
+		"polyhedr",
+		"x",
+		"program"
+	],
+	"tag": [
+		"analysis",
+		"array",
+		"data flow",
+		"source code"
+	],
 	"title": "Array dataflow analysis for polyhedral X10 programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

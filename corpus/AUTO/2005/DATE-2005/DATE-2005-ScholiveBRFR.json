@@ -1,6 +1,13 @@
 {
-	"author": ["Mathieu Scholivé", "Vincent Beroulle", "Chantal Robach", "Marie-Lise Flottes", "Bruno Rouzeyre"],
-	"booktitle": "DATE",
+	"author": [
+		"Mathieu Scholivé",
+		"Vincent Beroulle",
+		"Chantal Robach",
+		"Marie-Lise Flottes",
+		"Bruno Rouzeyre"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/ScholiveBRFR05",
 	"doi": "10.1109/DATE.2005.220",
@@ -8,8 +15,22 @@
 	"pages": "1022-1023",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["mutat", "sampl", "techniqu", "for", "the", "generat", "of", "structur", "test", "data"],
-	"tag": ["generative", "testing"],
+	"stemmed": [
+		"mutat",
+		"sampl",
+		"techniqu",
+		"for",
+		"the",
+		"generat",
+		"of",
+		"structur",
+		"test",
+		"data"
+	],
+	"tag": [
+		"generative",
+		"testing"
+	],
 	"title": "Mutation Sampling Technique for the Generation of Structural Test Data",
 	"type": "inproceedings",
 	"venue": "DATE",

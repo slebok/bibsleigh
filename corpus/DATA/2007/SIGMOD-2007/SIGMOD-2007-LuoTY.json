@@ -1,6 +1,10 @@
 {
-	"author": ["Gang Luo", "Chunqiang Tang", "Philip S. Yu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Gang Luo",
+		"Chunqiang Tang",
+		"Philip S. Yu"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/LuoTY07",
@@ -8,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247536",
 	"pages": "497-508",
 	"publisher": "ACM",
-	"stemmed": ["resourc", "adapt", "real", "time", "new", "event", "detect"],
-	"tag": ["adaptation", "detection", "realtime"],
+	"stemmed": [
+		"resourc",
+		"adapt",
+		"real",
+		"time",
+		"new",
+		"event",
+		"detect"
+	],
+	"tag": [
+		"adaptation",
+		"detection",
+		"realtime"
+	],
 	"title": "Resource-adaptive real-time new event detection",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

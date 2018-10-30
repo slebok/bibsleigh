@@ -1,6 +1,10 @@
 {
-	"author": ["Zvonimir Rakamaric", "Alan J. Hu"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Zvonimir Rakamaric",
+		"Alan J. Hu"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2009",
 	"dblpkey": "conf/vmcai/RakamaricH09",
 	"doi": "10.1007/978-3-540-93900-9_24",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "scalabl", "memori", "model", "for", "low", "level", "code"],
-	"tag": ["low level", "memory management", "scalability"],
+	"stemmed": [
+		"a",
+		"scalabl",
+		"memori",
+		"model",
+		"for",
+		"low",
+		"level",
+		"code"
+	],
+	"tag": [
+		"low level",
+		"memory management",
+		"scalability"
+	],
 	"title": "A Scalable Memory Model for Low-Level Code",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 5403,
+	"volume": "5403",
 	"year": 2009
 }

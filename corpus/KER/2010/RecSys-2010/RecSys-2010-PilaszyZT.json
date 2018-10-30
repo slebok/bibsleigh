@@ -1,14 +1,36 @@
 {
-	"author": ["István Pilászy", "Dávid Zibriczky", "Domonkos Tikk"],
-	"booktitle": "RecSys",
+	"author": [
+		"István Pilászy",
+		"Dávid Zibriczky",
+		"Domonkos Tikk"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2010",
 	"dblpkey": "conf/recsys/PilaszyZT10",
 	"doi": "10.1145/1864708.1864726",
 	"ee": "http://doi.acm.org/10.1145/1864708.1864726",
 	"pages": "71-78",
 	"publisher": "ACM",
-	"stemmed": ["fast", "al", "base", "matrix", "factor", "for", "explicit", "and", "implicit", "feedback", "dataset"],
-	"tag": ["dataset", "feedback", "matrix", "performance"],
+	"stemmed": [
+		"fast",
+		"al",
+		"base",
+		"matrix",
+		"factor",
+		"for",
+		"explicit",
+		"and",
+		"implicit",
+		"feedback",
+		"dataset"
+	],
+	"tag": [
+		"dataset",
+		"feedback",
+		"matrix",
+		"performance"
+	],
 	"title": "Fast als-based matrix factorization for explicit and implicit feedback datasets",
 	"type": "inproceedings",
 	"venue": "RecSys",

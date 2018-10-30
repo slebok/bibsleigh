@@ -1,6 +1,11 @@
 {
-	"author": ["Yves Bekkers", "Olivier Ridoux", "Lucien Ungaro"],
-	"booktitle": "IWMM",
+	"author": [
+		"Yves Bekkers",
+		"Olivier Ridoux",
+		"Lucien Ungaro"
+	],
+	"booktitle": "Proceedings of the First International Workshop on Memory Management",
+	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
 	"dblpkey": "conf/iwmm/BekkersRU92",
 	"doi": "10.1007/BFb0017184",
@@ -10,11 +15,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["dynam", "memori", "manag", "for", "sequenti", "logic", "program", "languag"],
-	"tag": ["logic programming", "memory management", "programming language"],
+	"stemmed": [
+		"dynam",
+		"memori",
+		"manag",
+		"for",
+		"sequenti",
+		"logic",
+		"program",
+		"languag"
+	],
+	"tag": [
+		"logic programming",
+		"memory management",
+		"programming language"
+	],
 	"title": "Dynamic Memory Management for Sequential Logic Programming Languages",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 637,
+	"volume": "637",
 	"year": 1992
 }

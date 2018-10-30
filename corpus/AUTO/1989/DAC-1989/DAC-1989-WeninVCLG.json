@@ -1,13 +1,34 @@
 {
-	"author": ["Jacques Wenin", "Johan Verhasselt", "Marc Van Camp", "Jean Leonard", "Pierre Guebels"],
-	"booktitle": "DAC",
+	"author": [
+		"Jacques Wenin",
+		"Johan Verhasselt",
+		"Marc Van Camp",
+		"Jean Leonard",
+		"Pierre Guebels"
+	],
+	"booktitle": "Proceedings of the 26th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/WeninVCLG89",
 	"doi": "10.1145/74382.74499",
 	"ee": "http://doi.acm.org/10.1145/74382.74499",
 	"pages": "662-667",
 	"publisher": "ACM Press",
-	"stemmed": ["rule", "base", "vlsi", "verif", "system", "constrain", "by", "layout", "parasit"],
-	"tag": ["layout", "rule-based", "verification"],
+	"stemmed": [
+		"rule",
+		"base",
+		"vlsi",
+		"verif",
+		"system",
+		"constrain",
+		"by",
+		"layout",
+		"parasit"
+	],
+	"tag": [
+		"layout",
+		"rule-based",
+		"verification"
+	],
 	"title": "Rule-based VLSI Verification System Constrained by Layout Parasitics",
 	"type": "inproceedings",
 	"venue": "DAC",

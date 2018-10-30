@@ -1,14 +1,30 @@
 {
-	"author": ["Guangchao Yuan", "Pradeep K. Murukannaiah", "Zhe Zhang", "Munindar P. Singh"],
-	"booktitle": "RecSys",
+	"author": [
+		"Guangchao Yuan",
+		"Pradeep K. Murukannaiah",
+		"Zhe Zhang",
+		"Munindar P. Singh"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2014",
 	"dblpkey": "conf/recsys/YuanMZS14",
 	"doi": "10.1145/2645710.2645734",
 	"ee": "http://doi.acm.org/10.1145/2645710.2645734",
 	"pages": "17-24",
 	"publisher": "ACM",
-	"stemmed": ["exploit", "sentiment", "homophili", "for", "link", "predict"],
-	"tag": ["predict", "sentiment"],
+	"stemmed": [
+		"exploit",
+		"sentiment",
+		"homophili",
+		"for",
+		"link",
+		"predict"
+	],
+	"tag": [
+		"predict",
+		"sentiment"
+	],
 	"title": "Exploiting sentiment homophily for link prediction",
 	"type": "inproceedings",
 	"venue": "RecSys",

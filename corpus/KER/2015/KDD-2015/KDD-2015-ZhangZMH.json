@@ -1,14 +1,39 @@
 {
-	"author": ["Chao Zhang", "Yu Zheng", "Xiuli Ma", "Jiawei Han"],
-	"booktitle": "KDD",
+	"author": [
+		"Chao Zhang",
+		"Yu Zheng",
+		"Xiuli Ma",
+		"Jiawei Han"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/ZhangZMH15",
 	"doi": "10.1145/2783258.2783394",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783394",
 	"pages": "1415-1424",
 	"publisher": "ACM",
-	"stemmed": ["assembl", "effici", "discoveri", "of", "spatial", "co", "evolv", "pattern", "in", "massiv", "geo", "sensori", "data"],
-	"tag": ["assembly", "co-evolution", "named", "performance"],
+	"stemmed": [
+		"assembl",
+		"effici",
+		"discoveri",
+		"of",
+		"spatial",
+		"co",
+		"evolv",
+		"pattern",
+		"in",
+		"massiv",
+		"geo",
+		"sensori",
+		"data"
+	],
+	"tag": [
+		"assembly",
+		"co-evolution",
+		"named",
+		"performance"
+	],
 	"title": "Assembler: Efficient Discovery of Spatial Co-evolving Patterns in Massive Geo-sensory Data",
 	"type": "inproceedings",
 	"venue": "KDD",

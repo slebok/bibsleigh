@@ -1,6 +1,9 @@
 {
-	"author": ["Gert Brettlecker", "Heiko Schuldt"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Gert Brettlecker",
+		"Heiko Schuldt"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/BrettleckerS07",
@@ -8,8 +11,28 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247619",
 	"pages": "1097-1099",
 	"publisher": "ACM",
-	"stemmed": ["the", "osiri", "se", "stream", "enabl", "infrastructur", "for", "reliabl", "data", "stream", "manag", "on", "mobil", "devic"],
-	"tag": ["data type", "framework", "mobile", "reliability"],
+	"stemmed": [
+		"the",
+		"osiri",
+		"se",
+		"stream",
+		"enabl",
+		"infrastructur",
+		"for",
+		"reliabl",
+		"data",
+		"stream",
+		"manag",
+		"on",
+		"mobil",
+		"devic"
+	],
+	"tag": [
+		"data type",
+		"framework",
+		"mobile",
+		"reliability"
+	],
 	"title": "The OSIRIS-SE (stream-enabled) infrastructure for reliable data stream management on mobile devices",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

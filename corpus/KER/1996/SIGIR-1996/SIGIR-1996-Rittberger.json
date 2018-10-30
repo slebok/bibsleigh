@@ -1,6 +1,7 @@
 {
 	"author": "Marc Rittberger",
 	"booktitle": "Proceedings of the 19th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1996/P338.pdf",
 	"crossref": "conf/sigir/96",
 	"dblpkey": "conf/sigir/Rittberger96",
@@ -8,7 +9,11 @@
 	"ee": "http://doi.acm.org/10.1145/243199.243282",
 	"pages": "338-339",
 	"publisher": "ACM",
-	"stemmed": ["system", "demonstr", "abstract"],
+	"stemmed": [
+		"system",
+		"demonstr",
+		"abstract"
+	],
 	"title": "System Demonstrations: Abstracts",
 	"type": "inproceedings",
 	"venue": "SIGIR",

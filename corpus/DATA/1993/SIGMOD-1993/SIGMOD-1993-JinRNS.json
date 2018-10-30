@@ -1,16 +1,48 @@
 {
-	"author": ["W. Woody Jin", "Marek Rusinkiewicz", "Linda Ness", "Amit P. Sheth"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"W. Woody Jin",
+		"Marek Rusinkiewicz",
+		"Linda Ness",
+		"Amit P. Sheth"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD93/P456.PDF",
-	"cite": ["journals/debu/AlonsoGS87", "...", "conf/vldb/AnsariNRS92", "journals/tse/BreitbartGRS91", "...", "conf/sigmod/BreitbartS88", "conf/vldb/ElmagarmidLLR90", "conf/vldb/Gray81", "conf/hpts/SalemGA87", "journals/sigmod/RusinkiewiczELL90"],
+	"cite": [
+		"journals/debu/AlonsoGS87",
+		"...",
+		"conf/vldb/AnsariNRS92",
+		"journals/tse/BreitbartGRS91",
+		"...",
+		"conf/sigmod/BreitbartS88",
+		"conf/vldb/ElmagarmidLLR90",
+		"conf/vldb/Gray81",
+		"conf/hpts/SalemGA87",
+		"journals/sigmod/RusinkiewiczELL90"
+	],
 	"crossref": "conf/sigmod/93",
 	"dblpkey": "conf/sigmod/JinRNS93",
 	"doi": "10.1145/170035.170133",
 	"ee": "http://doi.acm.org/10.1145/170035.170133",
 	"pages": "456-459",
 	"publisher": "ACM Press",
-	"stemmed": ["concurr", "control", "and", "recoveri", "of", "multidatabas", "work", "flow", "in", "telecommun", "applic"],
-	"tag": ["concurrent", "multi"],
+	"stemmed": [
+		"concurr",
+		"control",
+		"and",
+		"recoveri",
+		"of",
+		"multidatabas",
+		"work",
+		"flow",
+		"in",
+		"telecommun",
+		"applic"
+	],
+	"tag": [
+		"concurrent",
+		"multi"
+	],
 	"title": "Concurrency Control and Recovery of Multidatabase Work Flows in Telecommunication Applications",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

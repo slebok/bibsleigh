@@ -1,6 +1,10 @@
 {
-	"author": ["Carlos Ordonez", "Javier García-García", "Zhibo Chen"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Carlos Ordonez",
+		"Javier García-García",
+		"Zhibo Chen"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/OrdonezGC12",
@@ -8,8 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213919",
 	"pages": "637-640",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "optim", "of", "general", "sql", "queri", "with", "horizont", "aggreg"],
-	"tag": ["optimisation", "query", "sql"],
+	"stemmed": [
+		"dynam",
+		"optim",
+		"of",
+		"general",
+		"sql",
+		"queri",
+		"with",
+		"horizont",
+		"aggreg"
+	],
+	"tag": [
+		"optimisation",
+		"query",
+		"sql"
+	],
 	"title": "Dynamic optimization of generalized SQL queries with horizontal aggregations",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

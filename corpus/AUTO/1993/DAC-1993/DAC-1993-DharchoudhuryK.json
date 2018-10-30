@@ -1,13 +1,30 @@
 {
-	"author": ["Abhijit Dharchoudhury", "Sung-Mo Kang"],
-	"booktitle": "DAC",
+	"author": [
+		"Abhijit Dharchoudhury",
+		"Sung-Mo Kang"
+	],
+	"booktitle": "Proceedings of the 30th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/DharchoudhuryK93",
 	"doi": "10.1145/157485.164647",
 	"ee": "http://doi.acm.org/10.1145/157485.164647",
 	"pages": "154-158",
 	"publisher": "ACM Press",
-	"stemmed": ["perform", "constrain", "worst", "case", "variabl", "minim", "of", "vlsi", "circuit"],
-	"tag": ["variability", "worst-case"],
+	"stemmed": [
+		"perform",
+		"constrain",
+		"worst",
+		"case",
+		"variabl",
+		"minim",
+		"of",
+		"vlsi",
+		"circuit"
+	],
+	"tag": [
+		"variability",
+		"worst-case"
+	],
 	"title": "Performance-Constrained Worst-Case Variability Minimization of VLSI Circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

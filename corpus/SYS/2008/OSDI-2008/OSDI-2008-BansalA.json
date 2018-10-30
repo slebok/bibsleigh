@@ -1,13 +1,25 @@
 {
-	"author": ["Sorav Bansal", "Alex Aiken"],
-	"booktitle": "OSDI",
+	"author": [
+		"Sorav Bansal",
+		"Alex Aiken"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/BansalA08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/bansal/bansal.pdf",
 	"pages": "177-192",
 	"publisher": "USENIX Association",
-	"stemmed": ["binari", "translat", "use", "peephol", "superoptim"],
-	"tag": ["using"],
+	"stemmed": [
+		"binari",
+		"translat",
+		"use",
+		"peephol",
+		"superoptim"
+	],
+	"tag": [
+		"using"
+	],
 	"title": "Binary Translation Using Peephole Superoptimizers",
 	"type": "inproceedings",
 	"venue": "OSDI",

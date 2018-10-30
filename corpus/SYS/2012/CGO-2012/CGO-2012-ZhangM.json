@@ -1,14 +1,35 @@
 {
-	"author": ["Yongpeng Zhang", "Frank Müller"],
-	"booktitle": "CGO",
+	"author": [
+		"Yongpeng Zhang",
+		"Frank Müller"
+	],
+	"booktitle": "Proceedings of the 10th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2012",
 	"dblpkey": "conf/cgo/ZhangM12",
 	"doi": "10.1145/2259016.2259037",
 	"ee": "http://doi.acm.org/10.1145/2259016.2259037",
 	"pages": "155-164",
 	"publisher": "ACM",
-	"stemmed": ["auto", "generat", "and", "auto", "tune", "of", "d", "stencil", "code", "on", "gpu", "cluster"],
-	"tag": ["3d", "clustering", "gpu"],
+	"stemmed": [
+		"auto",
+		"generat",
+		"and",
+		"auto",
+		"tune",
+		"of",
+		"d",
+		"stencil",
+		"code",
+		"on",
+		"gpu",
+		"cluster"
+	],
+	"tag": [
+		"3d",
+		"clustering",
+		"gpu"
+	],
 	"title": "Auto-generation and auto-tuning of 3D stencil codes on GPU clusters",
 	"type": "inproceedings",
 	"venue": "CGO",

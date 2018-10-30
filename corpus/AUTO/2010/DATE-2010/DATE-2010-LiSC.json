@@ -1,13 +1,33 @@
 {
-	"author": ["Cheng-Hong Li", "Sampada Sonalkar", "Luca P. Carloni"],
-	"booktitle": "DATE",
+	"author": [
+		"Cheng-Hong Li",
+		"Sampada Sonalkar",
+		"Luca P. Carloni"
+	],
+	"booktitle": "Proceedings of the 14th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2010",
 	"dblpkey": "conf/date/LiSC10",
 	"ieeearid": 5457005,
 	"pages": "1291-1296",
 	"publisher": "IEEE",
-	"stemmed": ["exploit", "local", "logic", "structur", "to", "optim", "multi", "core", "so", "c", "floorplan"],
-	"tag": ["logic", "manycore"],
+	"stemmed": [
+		"exploit",
+		"local",
+		"logic",
+		"structur",
+		"to",
+		"optim",
+		"multi",
+		"core",
+		"so",
+		"c",
+		"floorplan"
+	],
+	"tag": [
+		"logic",
+		"manycore"
+	],
 	"title": "Exploiting local logic structures to optimize multi-core SoC floorplanning",
 	"type": "inproceedings",
 	"venue": "DATE",

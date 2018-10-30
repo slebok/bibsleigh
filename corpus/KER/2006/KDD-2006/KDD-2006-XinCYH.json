@@ -1,13 +1,26 @@
 {
-	"author": ["Dong Xin", "Hong Cheng", "Xifeng Yan", "Jiawei Han"],
-	"booktitle": "KDD",
+	"author": [
+		"Dong Xin",
+		"Hong Cheng",
+		"Xifeng Yan",
+		"Jiawei Han"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/XinCYH06",
 	"doi": "10.1145/1150402.1150452",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150452",
 	"pages": "444-453",
 	"publisher": "ACM",
-	"stemmed": ["extract", "redund", "awar", "top", "k", "pattern"],
+	"stemmed": [
+		"extract",
+		"redund",
+		"awar",
+		"top",
+		"k",
+		"pattern"
+	],
 	"title": "Extracting redundancy-aware top-k patterns",
 	"type": "inproceedings",
 	"venue": "KDD",

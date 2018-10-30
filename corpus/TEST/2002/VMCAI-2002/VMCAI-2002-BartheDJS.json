@@ -1,6 +1,12 @@
 {
-	"author": ["Gilles Barthe", "Guillaume Dufay", "Line Jakubiec", "Simão Melo de Sousa"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Gilles Barthe",
+		"Guillaume Dufay",
+		"Line Jakubiec",
+		"Simão Melo de Sousa"
+	],
+	"booktitle": "Proceedings of the Third International Workshop on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2002",
 	"dblpkey": "conf/vmcai/BartheDJS02",
 	"doi": "10.1007/3-540-47813-2_3",
@@ -10,11 +16,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "formal", "correspond", "between", "offens", "and", "defens", "java", "card", "virtual", "machin"],
-	"tag": ["virtual machine"],
+	"stemmed": [
+		"a",
+		"formal",
+		"correspond",
+		"between",
+		"offens",
+		"and",
+		"defens",
+		"java",
+		"card",
+		"virtual",
+		"machin"
+	],
+	"tag": [
+		"virtual machine"
+	],
 	"title": "A Formal Correspondence between Offensive and Defensive JavaCard Virtual Machines",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2294,
+	"volume": "2294",
 	"year": 2002
 }

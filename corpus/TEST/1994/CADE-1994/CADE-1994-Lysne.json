@@ -1,6 +1,7 @@
 {
 	"author": "Olav Lysne",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/Lysne94",
 	"doi": "10.1007/3-540-58156-1_10",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["on", "the", "connect", "between", "narrow", "and", "proof", "by", "consist"],
-	"tag": ["consistency", "on the", "proving"],
+	"stemmed": [
+		"on",
+		"the",
+		"connect",
+		"between",
+		"narrow",
+		"and",
+		"proof",
+		"by",
+		"consist"
+	],
+	"tag": [
+		"consistency",
+		"on the",
+		"proving"
+	],
 	"title": "On the Connection between Narrowing and Proof by Consistency",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

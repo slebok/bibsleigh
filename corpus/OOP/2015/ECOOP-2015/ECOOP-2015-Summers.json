@@ -1,6 +1,7 @@
 {
 	"author": "Alexander J. Summers",
-	"booktitle": "ECOOP",
+	"booktitle": "Proceedings of the 29th European Conference on Object-Oriented Programming",
+	"booktitleshort": "ECOOP",
 	"crossref": "conf/ecoop/2015",
 	"dblpkey": "conf/ecoop/Summers15",
 	"doi": "10.4230/LIPIcs.ECOOP.2015.3",
@@ -10,11 +11,22 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["softwar", "verif", "across", "the", "stack", "invit", "talk"],
-	"tag": ["stack", "verification"],
+	"stemmed": [
+		"softwar",
+		"verif",
+		"across",
+		"the",
+		"stack",
+		"invit",
+		"talk"
+	],
+	"tag": [
+		"stack",
+		"verification"
+	],
 	"title": "Software Verification “Across the Stack” (Invited Talk)",
 	"type": "inproceedings",
 	"venue": "ECOOP",
-	"volume": 37,
+	"volume": "37",
 	"year": 2015
 }

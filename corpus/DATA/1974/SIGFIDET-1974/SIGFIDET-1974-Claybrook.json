@@ -1,6 +1,7 @@
 {
 	"author": "Billy G. Claybrook",
-	"booktitle": "SIGMOD Workshop, Vol. 1",
+	"booktitle": "Proceedings of the Fourth ACM-SIGFIDET Workshop on Data Description, Access and Control",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGFIDET74-1/P001.pdf",
 	"crossref": "conf/sigmod/74",
 	"dblpkey": "conf/sigmod/Claybrook74",
@@ -8,7 +9,15 @@
 	"ee": "http://doi.acm.org/10.1145/800296.811501",
 	"pages": "1-14",
 	"publisher": "ACM",
-	"stemmed": ["a", "file", "definit", "facil", "for", "file", "structur"],
+	"stemmed": [
+		"a",
+		"file",
+		"definit",
+		"facil",
+		"for",
+		"file",
+		"structur"
+	],
 	"title": "A File Definition Facility for File Structures",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

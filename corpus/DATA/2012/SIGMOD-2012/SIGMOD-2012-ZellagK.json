@@ -1,6 +1,9 @@
 {
-	"author": ["Kamal Zellag", "Bettina Kemme"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Kamal Zellag",
+		"Bettina Kemme"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/ZellagK12",
@@ -8,8 +11,22 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213920",
 	"pages": "641-644",
 	"publisher": "ACM",
-	"stemmed": ["con", "ad", "a", "real", "time", "consist", "anomali", "detector"],
-	"tag": ["consistency", "detection", "named", "realtime"],
+	"stemmed": [
+		"con",
+		"ad",
+		"a",
+		"real",
+		"time",
+		"consist",
+		"anomali",
+		"detector"
+	],
+	"tag": [
+		"consistency",
+		"detection",
+		"named",
+		"realtime"
+	],
 	"title": "ConsAD: a real-time consistency anomalies detector",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,16 +1,36 @@
 {
-	"author": ["David Maier", "David Scott Warren"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"David Maier",
+		"David Scott Warren"
+	],
+	"booktitle": "Proceedings of the 11th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD81/P176.PDF",
-	"cite": ["conf/popl/AhoU79", "conf/stoc/ChandraH79", "journals/tods/Codd79", "...", "conf/sigmod/StonebrakerK80"],
+	"cite": [
+		"conf/popl/AhoU79",
+		"conf/stoc/ChandraH79",
+		"journals/tods/Codd79",
+		"...",
+		"conf/sigmod/StonebrakerK80"
+	],
 	"crossref": "conf/sigmod/81",
 	"dblpkey": "conf/sigmod/MaierW81",
 	"doi": "10.1145/582318.582345",
 	"ee": "http://doi.acm.org/10.1145/582318.582345",
 	"pages": "176-187",
 	"publisher": "ACM Press",
-	"stemmed": ["incorpor", "comput", "relat", "in", "relat", "databas"],
-	"tag": ["database", "relational"],
+	"stemmed": [
+		"incorpor",
+		"comput",
+		"relat",
+		"in",
+		"relat",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"relational"
+	],
 	"title": "Incorporating Computed Relations in Relational Databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

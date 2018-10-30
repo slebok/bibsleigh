@@ -1,6 +1,11 @@
 {
-	"author": ["Maria Paola Bonacina", "Christopher Lynch", "Leonardo Mendonça de Moura"],
-	"booktitle": "CADE",
+	"author": [
+		"Maria Paola Bonacina",
+		"Christopher Lynch",
+		"Leonardo Mendonça de Moura"
+	],
+	"booktitle": "Proceedings of the 22nd International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2009",
 	"dblpkey": "conf/cade/BonacinaLM09",
 	"doi": "10.1007/978-3-642-02959-2_3",
@@ -10,11 +15,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["on", "decid", "satisfi", "by", "dpll", "g", "t", "and", "unsound", "theorem", "prove"],
-	"tag": ["on the", "proving", "satisfiability", "theorem proving"],
+	"stemmed": [
+		"on",
+		"decid",
+		"satisfi",
+		"by",
+		"dpll",
+		"g",
+		"t",
+		"and",
+		"unsound",
+		"theorem",
+		"prove"
+	],
+	"tag": [
+		"on the",
+		"proving",
+		"satisfiability",
+		"theorem proving"
+	],
 	"title": "On Deciding Satisfiability by DPLL(G+T) and Unsound Theorem Proving",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 5663,
+	"volume": "5663",
 	"year": 2009
 }

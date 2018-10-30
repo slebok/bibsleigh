@@ -1,6 +1,10 @@
 {
-	"author": ["Harald Ganzinger", "Uwe Waldmann"],
-	"booktitle": "CADE",
+	"author": [
+		"Harald Ganzinger",
+		"Uwe Waldmann"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/GanzingerW96",
 	"doi": "10.1007/3-540-61511-3_102",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["theorem", "prove", "in", "cancel", "abelian", "monoid", "extend", "abstract"],
-	"tag": ["monad", "proving", "theorem proving"],
+	"stemmed": [
+		"theorem",
+		"prove",
+		"in",
+		"cancel",
+		"abelian",
+		"monoid",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"monad",
+		"proving",
+		"theorem proving"
+	],
 	"title": "Theorem Proving in Cancellative Abelian Monoids (Extended Abstract)",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

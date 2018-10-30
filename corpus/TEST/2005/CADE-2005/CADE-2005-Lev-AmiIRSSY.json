@@ -1,6 +1,14 @@
 {
-	"author": ["Tal Lev-Ami", "Neil Immerman", "Thomas W. Reps", "Shmuel Sagiv", "Siddharth Srivastava", "Greta Yorsh"],
-	"booktitle": "CADE",
+	"author": [
+		"Tal Lev-Ami",
+		"Neil Immerman",
+		"Thomas W. Reps",
+		"Shmuel Sagiv",
+		"Siddharth Srivastava",
+		"Greta Yorsh"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2005",
 	"dblpkey": "conf/cade/Lev-AmiIRSSY05",
 	"doi": "10.1007/11532231_8",
@@ -10,11 +18,36 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["simul", "reachabl", "use", "first", "order", "logic", "with", "applic", "to", "verif", "of", "link", "data", "structur"],
-	"tag": ["data type", "first-order", "linked data", "logic", "open data", "reachability", "simulation", "using", "verification"],
+	"stemmed": [
+		"simul",
+		"reachabl",
+		"use",
+		"first",
+		"order",
+		"logic",
+		"with",
+		"applic",
+		"to",
+		"verif",
+		"of",
+		"link",
+		"data",
+		"structur"
+	],
+	"tag": [
+		"data type",
+		"first-order",
+		"linked data",
+		"logic",
+		"open data",
+		"reachability",
+		"simulation",
+		"using",
+		"verification"
+	],
 	"title": "Simulating Reachability Using First-Order Logic with Applications to Verification of Linked Data Structures",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 3632,
+	"volume": "3632",
 	"year": 2005
 }

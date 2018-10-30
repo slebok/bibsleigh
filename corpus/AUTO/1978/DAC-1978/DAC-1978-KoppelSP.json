@@ -1,13 +1,34 @@
 {
-	"acmid": 803122,
-	"author": ["Ants Koppel", "Siddharth Shah", "Prem Puri"],
-	"booktitle": "DAC",
+	"acmid": "803122",
+	"author": [
+		"Ants Koppel",
+		"Siddharth Shah",
+		"Prem Puri"
+	],
+	"booktitle": "Proceedings of the 15th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1978",
 	"dblpkey": "conf/dac/KoppelSP78",
 	"pages": "405-417",
 	"publisher": "ACM",
-	"stemmed": ["a", "high", "perform", "delay", "calcul", "softwar", "system", "for", "mosfet", "digit", "logic", "chip"],
-	"tag": ["logic", "performance"],
+	"stemmed": [
+		"a",
+		"high",
+		"perform",
+		"delay",
+		"calcul",
+		"softwar",
+		"system",
+		"for",
+		"mosfet",
+		"digit",
+		"logic",
+		"chip"
+	],
+	"tag": [
+		"logic",
+		"performance"
+	],
 	"title": "A high performance delay calculation software system for MOSFET digital logic chips",
 	"type": "inproceedings",
 	"venue": "DAC",

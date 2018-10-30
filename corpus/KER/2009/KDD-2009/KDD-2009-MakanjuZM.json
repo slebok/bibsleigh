@@ -1,14 +1,29 @@
 {
-	"author": ["Adetokunbo Makanju", "A. Nur Zincir-Heywood", "Evangelos E. Milios"],
-	"booktitle": "KDD",
+	"author": [
+		"Adetokunbo Makanju",
+		"A. Nur Zincir-Heywood",
+		"Evangelos E. Milios"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/MakanjuZM09",
 	"doi": "10.1145/1557019.1557154",
 	"ee": "http://doi.acm.org/10.1145/1557019.1557154",
 	"pages": "1255-1264",
 	"publisher": "ACM",
-	"stemmed": ["cluster", "event", "log", "use", "iter", "partit"],
-	"tag": ["clustering", "using"],
+	"stemmed": [
+		"cluster",
+		"event",
+		"log",
+		"use",
+		"iter",
+		"partit"
+	],
+	"tag": [
+		"clustering",
+		"using"
+	],
 	"title": "Clustering event logs using iterative partitioning",
 	"type": "inproceedings",
 	"venue": "KDD",

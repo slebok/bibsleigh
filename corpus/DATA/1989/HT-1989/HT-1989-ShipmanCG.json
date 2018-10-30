@@ -1,6 +1,11 @@
 {
-	"author": ["Frank M. Shipman III", "R. Jesse Chaney", "G. Anthony Gorry"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Frank M. Shipman III",
+		"R. Jesse Chaney",
+		"G. Anthony Gorry"
+	],
+	"booktitle": "Proceedings of the Second Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1989/P129.pdf",
 	"crossref": "conf/ht/89",
 	"dblpkey": "conf/ht/ShipmanCG89",
@@ -8,8 +13,23 @@
 	"ee": "http://doi.acm.org/10.1145/74224.74235",
 	"pages": "129-135",
 	"publisher": "ACM",
-	"stemmed": ["distribut", "hypertext", "for", "collabor", "research", "the", "virtual", "notebook", "system"],
-	"tag": ["collaboration", "distributed", "hypermedia", "research"],
+	"stemmed": [
+		"distribut",
+		"hypertext",
+		"for",
+		"collabor",
+		"research",
+		"the",
+		"virtual",
+		"notebook",
+		"system"
+	],
+	"tag": [
+		"collaboration",
+		"distributed",
+		"hypermedia",
+		"research"
+	],
 	"title": "Distributed Hypertext for Collaborative Research: The Virtual Notebook System",
 	"type": "inproceedings",
 	"venue": "HT",

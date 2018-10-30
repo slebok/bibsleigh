@@ -1,13 +1,30 @@
 {
-	"author": ["Nikolaus Augsten", "Michael H. Böhlen", "Johann Gamper"],
-	"booktitle": "VLDB",
+	"author": [
+		"Nikolaus Augsten",
+		"Michael H. Böhlen",
+		"Johann Gamper"
+	],
+	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/AugstenBG05",
 	"ee": "http://www.vldb2005.org/program/paper/wed/p301-augsten.pdf",
 	"pages": "301-312",
 	"publisher": "ACM",
-	"stemmed": ["approxim", "match", "of", "hierarch", "data", "use", "pq", "gram"],
-	"tag": ["approximate", "using"],
+	"stemmed": [
+		"approxim",
+		"match",
+		"of",
+		"hierarch",
+		"data",
+		"use",
+		"pq",
+		"gram"
+	],
+	"tag": [
+		"approximate",
+		"using"
+	],
 	"title": "Approximate Matching of Hierarchical Data Using pq-Grams",
 	"type": "inproceedings",
 	"venue": "VLDB",

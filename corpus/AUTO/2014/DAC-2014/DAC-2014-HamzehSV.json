@@ -1,13 +1,25 @@
 {
-	"author": ["Mahdi Hamzeh", "Aviral Shrivastava", "Sarma B. K. Vrudhula"],
-	"booktitle": "DAC",
+	"author": [
+		"Mahdi Hamzeh",
+		"Aviral Shrivastava",
+		"Sarma B. K. Vrudhula"
+	],
+	"booktitle": "Proceedings of the 51st Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2014",
 	"dblpkey": "conf/dac/HamzehSV14",
 	"doi": "10.1145/2593069.2593100",
 	"ee": "http://doi.acm.org/10.1145/2593069.2593100",
 	"pages": "107:1-107:6",
 	"publisher": "ACM",
-	"stemmed": ["branch", "awar", "loop", "map", "on", "cgras"],
+	"stemmed": [
+		"branch",
+		"awar",
+		"loop",
+		"map",
+		"on",
+		"cgras"
+	],
 	"title": "Branch-Aware Loop Mapping on CGRAs",
 	"type": "inproceedings",
 	"venue": "DAC",

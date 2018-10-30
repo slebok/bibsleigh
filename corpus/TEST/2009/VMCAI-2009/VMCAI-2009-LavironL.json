@@ -1,6 +1,10 @@
 {
-	"author": ["Vincent Laviron", "Francesco Logozzo"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Vincent Laviron",
+		"Francesco Logozzo"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2009",
 	"dblpkey": "conf/vmcai/LavironL09",
 	"doi": "10.1007/978-3-540-93900-9_20",
@@ -10,11 +14,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["sub", "polyhedra", "a", "more", "scalabl", "approach", "to", "infer", "linear", "inequ"],
-	"tag": ["approach", "linear", "named", "scalability"],
+	"stemmed": [
+		"sub",
+		"polyhedra",
+		"a",
+		"more",
+		"scalabl",
+		"approach",
+		"to",
+		"infer",
+		"linear",
+		"inequ"
+	],
+	"tag": [
+		"approach",
+		"linear",
+		"named",
+		"scalability"
+	],
 	"title": "SubPolyhedra: A (More) Scalable Approach to Infer Linear Inequalities",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 5403,
+	"volume": "5403",
 	"year": 2009
 }

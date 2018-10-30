@@ -1,14 +1,35 @@
 {
-	"author": ["Callum Cameron", "Jeremy Singer", "David Vengerov"],
-	"booktitle": "ISMM",
+	"author": [
+		"Callum Cameron",
+		"Jeremy Singer",
+		"David Vengerov"
+	],
+	"booktitle": "Proceedings of the 14th International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2015",
 	"dblpkey": "conf/iwmm/CameronSV15",
 	"doi": "10.1145/2754169.2754180",
 	"ee": "http://doi.acm.org/10.1145/2754169.2754180",
 	"pages": "143-156",
 	"publisher": "ACM",
-	"stemmed": ["the", "judgment", "of", "forseti", "econom", "util", "for", "dynam", "heap", "size", "of", "multipl", "runtim"],
-	"tag": ["multi"],
+	"stemmed": [
+		"the",
+		"judgment",
+		"of",
+		"forseti",
+		"econom",
+		"util",
+		"for",
+		"dynam",
+		"heap",
+		"size",
+		"of",
+		"multipl",
+		"runtim"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "The judgment of forseti: economic utility for dynamic heap sizing of multiple runtimes",
 	"type": "inproceedings",
 	"venue": "ISMM",

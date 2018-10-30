@@ -1,6 +1,12 @@
 {
-	"author": ["Robert F. Coyne", "Allen H. Dutoit", "Bernd Brügge", "David Rothenberger"],
-	"booktitle": "CSEE",
+	"author": [
+		"Robert F. Coyne",
+		"Allen H. Dutoit",
+		"Bernd Brügge",
+		"David Rothenberger"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Software Engineering Education and Training",
+	"booktitleshort": "CSEE",
 	"crossref": "conf/csee/1995",
 	"dblpkey": "conf/csee/CoyneDGR95",
 	"doi": "10.1007/3-540-58951-1_116",
@@ -9,11 +15,33 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["teach", "more", "comprehens", "model", "base", "softwar", "engin", "experi", "with", "objectori", "s", "use", "case", "approach"],
-	"tag": ["approach", "case study", "education", "experience", "modelling", "re-engineering"],
+	"stemmed": [
+		"teach",
+		"more",
+		"comprehens",
+		"model",
+		"base",
+		"softwar",
+		"engin",
+		"experi",
+		"with",
+		"objectori",
+		"s",
+		"use",
+		"case",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"case study",
+		"education",
+		"experience",
+		"modelling",
+		"re-engineering"
+	],
 	"title": "Teaching More Comprehensive Model-Based Software Engineering: Experience with Objectory’s Use Case Approach",
 	"type": "inproceedings",
 	"venue": "CSEET",
-	"volume": 895,
+	"volume": "895",
 	"year": 1995
 }

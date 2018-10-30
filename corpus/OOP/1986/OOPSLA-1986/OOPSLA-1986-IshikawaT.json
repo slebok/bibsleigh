@@ -1,6 +1,9 @@
 {
-	"author": ["Yutaka Ishikawa", "Mario Tokoro"],
-	"booktitle": "Proceedings of the First Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"author": [
+		"Yutaka Ishikawa",
+		"Mario Tokoro"
+	],
+	"booktitle": "Proceedings of the First Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1986",
 	"dblpkey": "conf/oopsla/IshikawaT86",
@@ -10,8 +13,28 @@
 	"isbn": "0-89791-204-7",
 	"pages": "232-241",
 	"publisher": "ACM",
-	"stemmed": ["a", "concurr", "object", "orient", "knowledg", "represent", "languag", "orient", "k", "it", "featur", "and", "implement"],
-	"tag": ["concurrent", "implementation", "information management", "object-oriented", "representation"],
+	"stemmed": [
+		"a",
+		"concurr",
+		"object",
+		"orient",
+		"knowledg",
+		"represent",
+		"languag",
+		"orient",
+		"k",
+		"it",
+		"featur",
+		"and",
+		"implement"
+	],
+	"tag": [
+		"concurrent",
+		"implementation",
+		"information management",
+		"object-oriented",
+		"representation"
+	],
 	"title": "A Concurrent Object-Oriented Knowledge Representation Language Orient84/K: Its Features and Implementation",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

@@ -1,6 +1,7 @@
 {
 	"author": "Richard Bonichon",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Second International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2004",
 	"dblpkey": "conf/cade/Bonichon04",
 	"doi": "10.1007/978-3-540-25984-8_33",
@@ -10,11 +11,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["ta", "me", "d", "a", "tableau", "method", "for", "deduct", "modulo"],
-	"tag": ["deduction", "named"],
+	"stemmed": [
+		"ta",
+		"me",
+		"d",
+		"a",
+		"tableau",
+		"method",
+		"for",
+		"deduct",
+		"modulo"
+	],
+	"tag": [
+		"deduction",
+		"named"
+	],
 	"title": "TaMeD: A Tableau Method for Deduction Modulo",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 3097,
+	"volume": "3097",
 	"year": 2004
 }

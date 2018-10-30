@@ -1,17 +1,40 @@
 {
-	"author": ["Feng Chen", "Grigore Rosu"],
-	"booktitle": "Proceedings of the 22nd Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Feng Chen",
+		"Grigore Rosu"
+	],
+	"booktitle": "Proceedings of the 22nd Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2007",
 	"dblpkey": "conf/oopsla/ChenR07",
 	"doi": "10.1145/1297027.1297069",
-	"editor": ["Richard P. Gabriel", "David F. Bacon", "Cristina Videira Lopes", "Guy L. Steele Jr."],
+	"editor": [
+		"Richard P. Gabriel",
+		"David F. Bacon",
+		"Cristina Videira Lopes",
+		"Guy L. Steele Jr."
+	],
 	"ee": "http://doi.acm.org/10.1145/1297027.1297069",
 	"isbn": "978-1-59593-786-5",
 	"pages": "569-588",
 	"publisher": "ACM",
-	"stemmed": ["mop", "an", "effici", "and", "generic", "runtim", "verif", "framework"],
-	"tag": ["framework", "named", "performance", "runtime", "verification"],
+	"stemmed": [
+		"mop",
+		"an",
+		"effici",
+		"and",
+		"generic",
+		"runtim",
+		"verif",
+		"framework"
+	],
+	"tag": [
+		"framework",
+		"named",
+		"performance",
+		"runtime",
+		"verification"
+	],
 	"title": "Mop: an efficient and generic runtime verification framework",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

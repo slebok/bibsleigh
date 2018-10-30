@@ -1,14 +1,47 @@
 {
-	"author": ["Amit Shukla", "Prasad Deshpande", "Jeffrey F. Naughton", "Karthikeyan Ramasamy"],
-	"booktitle": "VLDB",
-	"cite": ["conf/vldb/AgarwalADGNRS96", "...", "...", "...", "journals/jcss/FlajoletM85", "conf/icde/GrayBLP96", "...", "conf/vldb/HaasNSS95", "conf/sigmod/HarinarayanRU96", "...", "...", "books/aw/Zipf49"],
+	"author": [
+		"Amit Shukla",
+		"Prasad Deshpande",
+		"Jeffrey F. Naughton",
+		"Karthikeyan Ramasamy"
+	],
+	"booktitle": "Proceedings of the 22nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/vldb/AgarwalADGNRS96",
+		"...",
+		"...",
+		"...",
+		"journals/jcss/FlajoletM85",
+		"conf/icde/GrayBLP96",
+		"...",
+		"conf/vldb/HaasNSS95",
+		"conf/sigmod/HarinarayanRU96",
+		"...",
+		"...",
+		"books/aw/Zipf49"
+	],
 	"crossref": "conf/vldb/96",
 	"dblpkey": "conf/vldb/ShuklaDNR96",
 	"ee": "http://www.vldb.org/conf/1996/P522.PDF",
 	"pages": "522-531",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["storag", "estim", "for", "multidimension", "aggreg", "in", "the", "presenc", "of", "hierarchi"],
-	"tag": ["estimation", "multi"],
+	"stemmed": [
+		"storag",
+		"estim",
+		"for",
+		"multidimension",
+		"aggreg",
+		"in",
+		"the",
+		"presenc",
+		"of",
+		"hierarchi"
+	],
+	"tag": [
+		"estimation",
+		"multi"
+	],
 	"title": "Storage Estimation for Multidimensional Aggregates in the Presence of Hierarchies",
 	"type": "inproceedings",
 	"venue": "VLDB",

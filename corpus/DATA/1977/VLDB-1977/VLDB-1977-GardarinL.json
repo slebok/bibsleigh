@@ -1,15 +1,44 @@
 {
-	"author": ["Georges Gardarin", "P. Lebeux"],
-	"booktitle": "VLDB",
+	"author": [
+		"Georges Gardarin",
+		"P. Lebeux"
+	],
+	"booktitle": "Proceedings of the Third International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB77/P501.PDF",
-	"cite": ["journals/cacm/EswarranGLT76", "...", "...", "...", "journals/cacm/Howard73", "...", "conf/vldb/GrayLPT75", "..."],
+	"cite": [
+		"journals/cacm/EswarranGLT76",
+		"...",
+		"...",
+		"...",
+		"journals/cacm/Howard73",
+		"...",
+		"conf/vldb/GrayLPT75",
+		"..."
+	],
 	"crossref": "conf/vldb/77",
 	"dblpkey": "conf/vldb/GardarinL77",
 	"pages": "501-506",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["schedul", "algorithm", "for", "avoid", "inconsist", "in", "larg", "databas"],
-	"tag": ["algorithm", "consistency", "database", "nondeterminism", "scalability", "scheduling"],
+	"stemmed": [
+		"schedul",
+		"algorithm",
+		"for",
+		"avoid",
+		"inconsist",
+		"in",
+		"larg",
+		"databas"
+	],
+	"tag": [
+		"algorithm",
+		"consistency",
+		"database",
+		"nondeterminism",
+		"scalability",
+		"scheduling"
+	],
 	"title": "Scheduling Algorithms for Avoiding Inconsistency in Large Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

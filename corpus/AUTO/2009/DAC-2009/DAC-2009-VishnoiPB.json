@@ -1,14 +1,30 @@
 {
-	"author": ["Anant Vishnoi", "Preeti Ranjan Panda", "M. Balakrishnan"],
-	"booktitle": "DAC",
+	"author": [
+		"Anant Vishnoi",
+		"Preeti Ranjan Panda",
+		"M. Balakrishnan"
+	],
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/VishnoiPB09",
 	"doi": "10.1145/1629911.1630007",
 	"ee": "http://doi.acm.org/10.1145/1629911.1630007",
 	"pages": "358-363",
 	"publisher": "ACM",
-	"stemmed": ["onlin", "cach", "state", "dump", "for", "processor", "debug"],
-	"tag": ["debugging", "online"],
+	"stemmed": [
+		"onlin",
+		"cach",
+		"state",
+		"dump",
+		"for",
+		"processor",
+		"debug"
+	],
+	"tag": [
+		"debugging",
+		"online"
+	],
 	"title": "Online cache state dumping for processor debug",
 	"type": "inproceedings",
 	"venue": "DAC",

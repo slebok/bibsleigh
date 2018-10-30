@@ -1,13 +1,34 @@
 {
-	"author": ["Ting Yang", "Tongping Liu", "Emery D. Berger", "Scott F. Kaplan", "J. Eliot B. Moss"],
-	"booktitle": "OSDI",
+	"author": [
+		"Ting Yang",
+		"Tongping Liu",
+		"Emery D. Berger",
+		"Scott F. Kaplan",
+		"J. Eliot B. Moss"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/YangLBKM08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/yang/yang.pdf",
 	"pages": "73-86",
 	"publisher": "USENIX Association",
-	"stemmed": ["redlin", "first", "class", "support", "for", "interact", "in", "commod", "oper", "system"],
-	"tag": ["named", "operating system"],
+	"stemmed": [
+		"redlin",
+		"first",
+		"class",
+		"support",
+		"for",
+		"interact",
+		"in",
+		"commod",
+		"oper",
+		"system"
+	],
+	"tag": [
+		"named",
+		"operating system"
+	],
 	"title": "Redline: First Class Support for Interactivity in Commodity Operating Systems",
 	"type": "inproceedings",
 	"venue": "OSDI",

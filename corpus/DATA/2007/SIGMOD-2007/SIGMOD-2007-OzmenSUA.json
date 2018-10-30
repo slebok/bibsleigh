@@ -1,6 +1,11 @@
 {
-	"author": ["Oguzhan Ozmen", "Kenneth Salem", "Mustafa Uysal", "M. Hossein Sheikh Attar"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Oguzhan Ozmen",
+		"Kenneth Salem",
+		"Mustafa Uysal",
+		"M. Hossein Sheikh Attar"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/OzmenSUA07",
@@ -8,8 +13,19 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247523",
 	"pages": "377-388",
 	"publisher": "ACM",
-	"stemmed": ["storag", "workload", "estim", "for", "databas", "manag", "system"],
-	"tag": ["database", "estimation"],
+	"stemmed": [
+		"storag",
+		"workload",
+		"estim",
+		"for",
+		"databas",
+		"manag",
+		"system"
+	],
+	"tag": [
+		"database",
+		"estimation"
+	],
 	"title": "Storage workload estimation for database management systems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

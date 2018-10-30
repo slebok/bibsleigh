@@ -1,6 +1,10 @@
 {
-	"author": ["Kristi Morton", "Magdalena Balazinska", "Dan Grossman"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Kristi Morton",
+		"Magdalena Balazinska",
+		"Dan Grossman"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/MortonBG10",
@@ -8,8 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807223",
 	"pages": "507-518",
 	"publisher": "ACM",
-	"stemmed": ["para", "timer", "a", "progress", "indic", "for", "map", "reduc", "dag"],
-	"tag": ["graph", "named", "pipes and filters"],
+	"stemmed": [
+		"para",
+		"timer",
+		"a",
+		"progress",
+		"indic",
+		"for",
+		"map",
+		"reduc",
+		"dag"
+	],
+	"tag": [
+		"graph",
+		"named",
+		"pipes and filters"
+	],
 	"title": "ParaTimer: a progress indicator for MapReduce DAGs",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

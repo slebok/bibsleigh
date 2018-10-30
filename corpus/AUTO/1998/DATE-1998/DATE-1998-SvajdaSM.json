@@ -1,6 +1,11 @@
 {
-	"author": ["M. Svajda", "B. Straka", "Hans A. R. Manhaeve"],
-	"booktitle": "DATE",
+	"author": [
+		"M. Svajda",
+		"B. Straka",
+		"Hans A. R. Manhaeve"
+	],
+	"booktitle": "Proceedings of the Third Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1998",
 	"dblpkey": "conf/date/SvajdaSM98",
 	"doi": "10.1109/DATE.1998.655988",
@@ -8,8 +13,20 @@
 	"pages": "959-960",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["iocimu", "an", "integr", "off", "chip", "iddq", "measur", "unit"],
-	"tag": ["metric", "named"],
+	"stemmed": [
+		"iocimu",
+		"an",
+		"integr",
+		"off",
+		"chip",
+		"iddq",
+		"measur",
+		"unit"
+	],
+	"tag": [
+		"metric",
+		"named"
+	],
 	"title": "IOCIMU — An Integrated Off-Chip IDDQ Measurement Unit",
 	"type": "inproceedings",
 	"venue": "DATE",

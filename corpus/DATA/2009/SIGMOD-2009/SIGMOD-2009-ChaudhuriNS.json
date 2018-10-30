@@ -1,6 +1,10 @@
 {
-	"author": ["Surajit Chaudhuri", "Vivek R. Narasayya", "Manoj Syamala"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Surajit Chaudhuri",
+		"Vivek R. Narasayya",
+		"Manoj Syamala"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/ChaudhuriNS09",
@@ -8,8 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559975",
 	"pages": "1039-1042",
 	"publisher": "ACM",
-	"stemmed": ["bridg", "the", "applic", "and", "dbms", "divid", "use", "static", "analysi", "and", "dynam", "profil"],
-	"tag": ["profiling", "static analysis", "using"],
+	"stemmed": [
+		"bridg",
+		"the",
+		"applic",
+		"and",
+		"dbms",
+		"divid",
+		"use",
+		"static",
+		"analysi",
+		"and",
+		"dynam",
+		"profil"
+	],
+	"tag": [
+		"profiling",
+		"static analysis",
+		"using"
+	],
 	"title": "Bridging the application and DBMS divide using static analysis and dynamic profiling",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

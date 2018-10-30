@@ -1,14 +1,29 @@
 {
-	"author": ["Arindam Banerjee", "Chase Krumpelman", "Joydeep Ghosh", "Sugato Basu", "Raymond J. Mooney"],
-	"booktitle": "KDD",
+	"author": [
+		"Arindam Banerjee",
+		"Chase Krumpelman",
+		"Joydeep Ghosh",
+		"Sugato Basu",
+		"Raymond J. Mooney"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2005",
 	"dblpkey": "conf/kdd/BanerjeeKGBM05",
 	"doi": "10.1145/1081870.1081932",
 	"ee": "http://doi.acm.org/10.1145/1081870.1081932",
 	"pages": "532-537",
 	"publisher": "ACM",
-	"stemmed": ["model", "base", "overlap", "cluster"],
-	"tag": ["clustering", "modelling"],
+	"stemmed": [
+		"model",
+		"base",
+		"overlap",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"modelling"
+	],
 	"title": "Model-based overlapping clustering",
 	"type": "inproceedings",
 	"venue": "KDD",

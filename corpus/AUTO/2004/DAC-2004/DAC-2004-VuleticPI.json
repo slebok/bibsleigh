@@ -1,14 +1,31 @@
 {
-	"author": ["Miljan Vuletic", "Laura Pozzi", "Paolo Ienne"],
-	"booktitle": "DAC",
+	"author": [
+		"Miljan Vuletic",
+		"Laura Pozzi",
+		"Paolo Ienne"
+	],
+	"booktitle": "Proceedings of the 41st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2004",
 	"dblpkey": "conf/dac/VuleticPI04",
 	"doi": "10.1145/996566.996818",
 	"ee": "http://doi.acm.org/10.1145/996566.996818",
 	"pages": "948-953",
 	"publisher": "ACM",
-	"stemmed": ["virtual", "memori", "window", "for", "applic", "specif", "reconfigur", "coprocessor"],
-	"tag": ["configuration management", "memory management"],
+	"stemmed": [
+		"virtual",
+		"memori",
+		"window",
+		"for",
+		"applic",
+		"specif",
+		"reconfigur",
+		"coprocessor"
+	],
+	"tag": [
+		"configuration management",
+		"memory management"
+	],
 	"title": "Virtual memory window for application-specific reconfigurable coprocessors",
 	"type": "inproceedings",
 	"venue": "DAC",

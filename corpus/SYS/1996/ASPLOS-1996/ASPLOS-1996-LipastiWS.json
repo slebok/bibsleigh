@@ -1,14 +1,29 @@
 {
-	"author": ["Mikko H. Lipasti", "Christopher B. Wilkerson", "John Paul Shen"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Mikko H. Lipasti",
+		"Christopher B. Wilkerson",
+		"John Paul Shen"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1996",
 	"dblpkey": "conf/asplos/LipastiWS96",
 	"doi": "10.1145/237090.237173",
 	"ee": "http://doi.acm.org/10.1145/237090.237173",
 	"pages": "138-147",
 	"publisher": "ACM Press",
-	"stemmed": ["valu", "local", "and", "load", "valu", "predict"],
-	"tag": ["locality", "predict"],
+	"stemmed": [
+		"valu",
+		"local",
+		"and",
+		"load",
+		"valu",
+		"predict"
+	],
+	"tag": [
+		"locality",
+		"predict"
+	],
 	"title": "Value Locality and Load Value Prediction",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

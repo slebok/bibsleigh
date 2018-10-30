@@ -1,15 +1,37 @@
 {
-	"author": ["Samer Nassar", "Jörg Sander", "Corrine Cheng"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Samer Nassar",
+		"Jörg Sander",
+		"Corrine Cheng"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/NassarSC04",
 	"doi": "10.1145/1007568.1007621",
-	"ee": ["http://doi.acm.org/10.1145/1007568.1007621", "http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-459.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1007568.1007621",
+		"http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-459.pdf"
+	],
 	"pages": "467-478",
 	"publisher": "ACM",
-	"stemmed": ["increment", "and", "effect", "data", "summar", "for", "dynam", "hierarch", "cluster"],
-	"tag": ["clustering", "effectiveness", "incremental", "summary"],
+	"stemmed": [
+		"increment",
+		"and",
+		"effect",
+		"data",
+		"summar",
+		"for",
+		"dynam",
+		"hierarch",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"effectiveness",
+		"incremental",
+		"summary"
+	],
 	"title": "Incremental and Effective Data Summarization for Dynamic Hierarchical Clustering",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

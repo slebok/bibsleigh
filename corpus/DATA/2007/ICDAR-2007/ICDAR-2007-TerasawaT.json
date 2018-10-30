@@ -1,6 +1,10 @@
 {
-	"author": ["Kengo Terasawa", "Yuzuru Tanaka"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Kengo Terasawa",
+		"Yuzuru Tanaka"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/TerasawaT07",
 	"doi": "10.1109/ICDAR.2007.160",
@@ -8,8 +12,21 @@
 	"pages": "73-77",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["local", "sensit", "pseudo", "code", "for", "document", "imag"],
-	"tag": ["documentation", "image", "locality", "pseudo"],
+	"stemmed": [
+		"local",
+		"sensit",
+		"pseudo",
+		"code",
+		"for",
+		"document",
+		"imag"
+	],
+	"tag": [
+		"documentation",
+		"image",
+		"locality",
+		"pseudo"
+	],
 	"title": "Locality Sensitive Pseudo-Code for Document Images",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,13 +1,38 @@
 {
-	"author": ["Riley Spahn", "Jonathan Bell", "Michael Lee", "Sravan Bhamidipati", "Roxana Geambasu", "Gail E. Kaiser"],
-	"booktitle": "OSDI",
+	"author": [
+		"Riley Spahn",
+		"Jonathan Bell",
+		"Michael Lee",
+		"Sravan Bhamidipati",
+		"Roxana Geambasu",
+		"Gail E. Kaiser"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2014",
 	"dblpkey": "conf/osdi/SpahnBLBGK14",
 	"ee": "https://www.usenix.org/conference/osdi14/technical-sessions/presentation/spahn",
 	"pages": "113-129",
 	"publisher": "USENIX Association",
-	"stemmed": ["pebbl", "fine", "grain", "data", "manag", "abstract", "for", "modern", "oper", "system"],
-	"tag": ["abstraction", "data transformation", "fine-grained", "named", "operating system"],
+	"stemmed": [
+		"pebbl",
+		"fine",
+		"grain",
+		"data",
+		"manag",
+		"abstract",
+		"for",
+		"modern",
+		"oper",
+		"system"
+	],
+	"tag": [
+		"abstraction",
+		"data transformation",
+		"fine-grained",
+		"named",
+		"operating system"
+	],
 	"title": "Pebbles: Fine-Grained Data Management Abstractions for Modern Operating Systems",
 	"type": "inproceedings",
 	"venue": "OSDI",

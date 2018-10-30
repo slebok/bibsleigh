@@ -1,6 +1,7 @@
 {
 	"author": "William M. Farmer",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Second International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2004",
 	"dblpkey": "conf/cade/Farmer04",
 	"doi": "10.1007/978-3-540-25984-8_35",
@@ -10,11 +11,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["formal", "undefined", "aris", "in", "calculus"],
-	"tag": ["calculus", "formal method"],
+	"stemmed": [
+		"formal",
+		"undefined",
+		"aris",
+		"in",
+		"calculus"
+	],
+	"tag": [
+		"calculus",
+		"formal method"
+	],
 	"title": "Formalizing Undefinedness Arising in Calculus",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 3097,
+	"volume": "3097",
 	"year": 2004
 }

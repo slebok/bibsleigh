@@ -1,13 +1,29 @@
 {
-	"author": ["Thomas Stöhr", "Erhard Rahm"],
-	"booktitle": "VLDB",
+	"author": [
+		"Thomas Stöhr",
+		"Erhard Rahm"
+	],
+	"booktitle": "Proceedings of the 27th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2001",
 	"dblpkey": "conf/vldb/StohrR01",
 	"ee": "http://www.vldb.org/conf/2001/P721.pdf",
 	"pages": "721-722",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["warlock", "a", "data", "alloc", "tool", "for", "parallel", "warehous"],
-	"tag": ["named", "parallel"],
+	"stemmed": [
+		"warlock",
+		"a",
+		"data",
+		"alloc",
+		"tool",
+		"for",
+		"parallel",
+		"warehous"
+	],
+	"tag": [
+		"named",
+		"parallel"
+	],
 	"title": "WARLOCK: A Data Allocation Tool for Parallel Warehouses",
 	"type": "inproceedings",
 	"venue": "VLDB",

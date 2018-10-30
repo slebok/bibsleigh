@@ -1,6 +1,10 @@
 {
-	"author": ["William McCune", "Larry Wos"],
-	"booktitle": "CADE",
+	"author": [
+		"William McCune",
+		"Larry Wos"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/McCuneW92",
 	"doi": "10.1007/3-540-55602-8_167",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["experi", "in", "autom", "deduct", "with", "condens", "detach"],
-	"tag": ["automation", "deduction"],
+	"stemmed": [
+		"experi",
+		"in",
+		"autom",
+		"deduct",
+		"with",
+		"condens",
+		"detach"
+	],
+	"tag": [
+		"automation",
+		"deduction"
+	],
 	"title": "Experiments in Automated Deduction with Condensed Detachment",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

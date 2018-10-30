@@ -1,14 +1,31 @@
 {
-	"author": ["Andrew Whitaker", "Marianne Shaw", "Steven D. Gribble"],
-	"booktitle": "OSDI",
+	"author": [
+		"Andrew Whitaker",
+		"Marianne Shaw",
+		"Steven D. Gribble"
+	],
+	"booktitle": "Proceedings of the Fifth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2002",
 	"dblpkey": "conf/osdi/WhitakerSG02",
 	"doi": "10.1145/1060289.1060308",
 	"ee": "http://www.usenix.org/events/osdi02/tech/whitaker.html",
 	"pages": "195-209",
 	"publisher": "USENIX Association",
-	"stemmed": ["scale", "and", "perform", "in", "the", "denali", "isol", "kernel"],
-	"tag": ["kernel", "performance"],
+	"stemmed": [
+		"scale",
+		"and",
+		"perform",
+		"in",
+		"the",
+		"denali",
+		"isol",
+		"kernel"
+	],
+	"tag": [
+		"kernel",
+		"performance"
+	],
 	"title": "Scale and Performance in the Denali Isolation Kernel",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,14 +1,35 @@
 {
-	"author": ["Miron Abramovici", "Paul Bradley", "Kumar N. Dwarakanath", "Peter Levin", "Gérard Memmi", "Dave Miller"],
-	"booktitle": "DAC",
+	"author": [
+		"Miron Abramovici",
+		"Paul Bradley",
+		"Kumar N. Dwarakanath",
+		"Peter Levin",
+		"Gérard Memmi",
+		"Dave Miller"
+	],
+	"booktitle": "Proceedings of the 43rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/AbramoviciBDLMM06",
 	"doi": "10.1145/1146909.1146916",
 	"ee": "http://doi.acm.org/10.1145/1146909.1146916",
 	"pages": "7-12",
 	"publisher": "ACM",
-	"stemmed": ["a", "reconfigur", "design", "for", "debug", "infrastructur", "for", "so", "cs"],
-	"tag": ["configuration management", "framework"],
+	"stemmed": [
+		"a",
+		"reconfigur",
+		"design",
+		"for",
+		"debug",
+		"infrastructur",
+		"for",
+		"so",
+		"cs"
+	],
+	"tag": [
+		"configuration management",
+		"framework"
+	],
 	"title": "A reconfigurable design-for-debug infrastructure for SoCs",
 	"type": "inproceedings",
 	"venue": "DAC",

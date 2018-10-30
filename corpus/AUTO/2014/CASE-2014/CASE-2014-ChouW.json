@@ -1,14 +1,33 @@
 {
-	"author": ["Chih-Chung Chou", "Chieh-Chih Wang"],
-	"booktitle": "CASE",
+	"author": [
+		"Chih-Chung Chou",
+		"Chieh-Chih Wang"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Automation Science and Engineering",
+	"booktitleshort": "CASE",
 	"crossref": "conf/case/2014",
 	"dblpkey": "conf/case/ChouW14",
 	"doi": "10.1109/CoASE.2014.6899478",
 	"ee": "http://dx.doi.org/10.1109/CoASE.2014.6899478",
 	"pages": "1194-1199",
 	"publisher": "IEEE",
-	"stemmed": ["point", "affin", "ransac", "for", "scene", "imag", "match", "in", "appear", "base", "local"],
-	"tag": ["image", "locality"],
+	"stemmed": [
+		"point",
+		"affin",
+		"ransac",
+		"for",
+		"scene",
+		"imag",
+		"match",
+		"in",
+		"appear",
+		"base",
+		"local"
+	],
+	"tag": [
+		"image",
+		"locality"
+	],
 	"title": "1-point affine RANSAC for scene image matching in appearance-based localization",
 	"type": "inproceedings",
 	"venue": "CASE",

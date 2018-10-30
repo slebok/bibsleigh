@@ -1,14 +1,31 @@
 {
-	"author": ["Jiliang Tang", "Huiji Gao", "Xia Hu", "Huan Liu"],
-	"booktitle": "RecSys",
+	"author": [
+		"Jiliang Tang",
+		"Huiji Gao",
+		"Xia Hu",
+		"Huan Liu"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2013",
 	"dblpkey": "conf/recsys/TangGHL13",
 	"doi": "10.1145/2507157.2507183",
 	"ee": "http://doi.acm.org/10.1145/2507157.2507183",
 	"pages": "1-8",
 	"publisher": "ACM",
-	"stemmed": ["context", "awar", "review", "help", "rate", "predict"],
-	"tag": ["bibliography", "predict", "rating"],
+	"stemmed": [
+		"context",
+		"awar",
+		"review",
+		"help",
+		"rate",
+		"predict"
+	],
+	"tag": [
+		"bibliography",
+		"predict",
+		"rating"
+	],
 	"title": "Context-aware review helpfulness rating prediction",
 	"type": "inproceedings",
 	"venue": "RecSys",

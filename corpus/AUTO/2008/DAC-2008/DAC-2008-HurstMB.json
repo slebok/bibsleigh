@@ -1,14 +1,32 @@
 {
-	"author": ["Aaron P. Hurst", "Alan Mishchenko", "Robert K. Brayton"],
-	"booktitle": "DAC",
+	"author": [
+		"Aaron P. Hurst",
+		"Alan Mishchenko",
+		"Robert K. Brayton"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/HurstMB08",
 	"doi": "10.1145/1391469.1391604",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391604",
 	"pages": "534-539",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "min", "regist", "retim", "under", "time", "and", "initializ", "constraint"],
-	"tag": ["constraints", "scalability"],
+	"stemmed": [
+		"scalabl",
+		"min",
+		"regist",
+		"retim",
+		"under",
+		"time",
+		"and",
+		"initializ",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"scalability"
+	],
 	"title": "Scalable min-register retiming under timing and initializability constraints",
 	"type": "inproceedings",
 	"venue": "DAC",

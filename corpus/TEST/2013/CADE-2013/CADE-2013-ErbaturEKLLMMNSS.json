@@ -1,6 +1,18 @@
 {
-	"author": ["Serdar Erbatur", "Santiago Escobar", "Deepak Kapur", "Zhiqiang Liu", "Christopher Lynch", "Catherine Meadows", "José Meseguer", "Paliath Narendran", "Sonia Santiago", "Ralf Sasse"],
-	"booktitle": "CADE",
+	"author": [
+		"Serdar Erbatur",
+		"Santiago Escobar",
+		"Deepak Kapur",
+		"Zhiqiang Liu",
+		"Christopher Lynch",
+		"Catherine Meadows",
+		"José Meseguer",
+		"Paliath Narendran",
+		"Sonia Santiago",
+		"Ralf Sasse"
+	],
+	"booktitle": "Proceedings of the 24th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2013",
 	"dblpkey": "conf/cade/ErbaturEKLLMMNSS13",
 	"doi": "10.1007/978-3-642-38574-2_16",
@@ -10,11 +22,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["asymmetr", "unif", "a", "new", "unif", "paradigm", "for", "cryptograph", "protocol", "analysi"],
-	"tag": ["analysis", "encryption", "paradigm", "protocol", "symmetry", "unification"],
+	"stemmed": [
+		"asymmetr",
+		"unif",
+		"a",
+		"new",
+		"unif",
+		"paradigm",
+		"for",
+		"cryptograph",
+		"protocol",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"encryption",
+		"paradigm",
+		"protocol",
+		"symmetry",
+		"unification"
+	],
 	"title": "Asymmetric Unification: A New Unification Paradigm for Cryptographic Protocol Analysis",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 7898,
+	"volume": "7898",
 	"year": 2013
 }

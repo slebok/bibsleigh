@@ -1,17 +1,48 @@
 {
-	"author": ["Nathan Chong", "Alastair F. Donaldson", "Paul H. J. Kelly", "Jeroen Ketema", "Shaz Qadeer"],
-	"booktitle": "Proceedings of the 28th International Conference on Object Oriented Programming Systems Languages & Applications",
+	"author": [
+		"Nathan Chong",
+		"Alastair F. Donaldson",
+		"Paul H. J. Kelly",
+		"Jeroen Ketema",
+		"Shaz Qadeer"
+	],
+	"booktitle": "Proceedings of the 28th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2013",
 	"dblpkey": "conf/oopsla/ChongDKKQ13",
 	"doi": "10.1145/2509136.2509517",
-	"editor": ["Antony L. Hosking", "Patrick Th. Eugster", "Cristina Videira Lopes"],
+	"editor": [
+		"Antony L. Hosking",
+		"Patrick Th. Eugster",
+		"Cristina Videira Lopes"
+	],
 	"ee": "http://doi.acm.org/10.1145/2509136.2509517",
 	"isbn": "978-1-4503-2374-1",
 	"pages": "605-622",
 	"publisher": "ACM",
-	"stemmed": ["barrier", "invari", "a", "share", "state", "abstract", "for", "the", "analysi", "of", "data", "depend", "gpu", "kernel"],
-	"tag": ["abstraction", "analysis", "gpu", "invariant", "kernel"],
+	"stemmed": [
+		"barrier",
+		"invari",
+		"a",
+		"share",
+		"state",
+		"abstract",
+		"for",
+		"the",
+		"analysi",
+		"of",
+		"data",
+		"depend",
+		"gpu",
+		"kernel"
+	],
+	"tag": [
+		"abstraction",
+		"analysis",
+		"gpu",
+		"invariant",
+		"kernel"
+	],
 	"title": "Barrier invariants: a shared state abstraction for the analysis of data-dependent GPU kernels",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

@@ -1,14 +1,25 @@
 {
-	"author": ["Ahmed Hassan", "Roberto Palmieri", "Binoy Ravindran"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Ahmed Hassan",
+		"Roberto Palmieri",
+		"Binoy Ravindran"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/HassanPR14",
 	"doi": "10.1145/2555243.2555283",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555283",
 	"pages": "387-388",
 	"publisher": "ACM",
-	"stemmed": ["optimist", "transact", "boost"],
-	"tag": ["transaction"],
+	"stemmed": [
+		"optimist",
+		"transact",
+		"boost"
+	],
+	"tag": [
+		"transaction"
+	],
 	"title": "Optimistic transactional boosting",
 	"type": "inproceedings",
 	"venue": "PPoPP",

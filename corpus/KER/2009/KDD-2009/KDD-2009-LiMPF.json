@@ -1,14 +1,36 @@
 {
-	"author": ["Lei Li", "James McCann", "Nancy S. Pollard", "Christos Faloutsos"],
-	"booktitle": "KDD",
+	"author": [
+		"Lei Li",
+		"James McCann",
+		"Nancy S. Pollard",
+		"Christos Faloutsos"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/LiMPF09",
 	"doi": "10.1145/1557019.1557078",
 	"ee": "http://doi.acm.org/10.1145/1557019.1557078",
 	"pages": "507-516",
 	"publisher": "ACM",
-	"stemmed": ["dynammo", "mine", "and", "summar", "of", "coevolv", "sequenc", "with", "miss", "valu"],
-	"tag": ["mining", "named", "sequence", "summary"],
+	"stemmed": [
+		"dynammo",
+		"mine",
+		"and",
+		"summar",
+		"of",
+		"coevolv",
+		"sequenc",
+		"with",
+		"miss",
+		"valu"
+	],
+	"tag": [
+		"mining",
+		"named",
+		"sequence",
+		"summary"
+	],
 	"title": "DynaMMo: mining and summarization of coevolving sequences with missing values",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,12 +1,26 @@
 {
-	"author": ["Yannis Velegrakis", "Renée J. Miller", "Lucian Popa"],
-	"booktitle": "VLDB",
+	"author": [
+		"Yannis Velegrakis",
+		"Renée J. Miller",
+		"Lucian Popa"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/VelegrakisMP03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S18P02.pdf",
 	"pages": "584-595",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["map", "adapt", "under", "evolv", "schema"],
-	"tag": ["adaptation", "evolution"],
+	"stemmed": [
+		"map",
+		"adapt",
+		"under",
+		"evolv",
+		"schema"
+	],
+	"tag": [
+		"adaptation",
+		"evolution"
+	],
 	"title": "Mapping Adaptation under Evolving Schemas",
 	"type": "inproceedings",
 	"venue": "VLDB",

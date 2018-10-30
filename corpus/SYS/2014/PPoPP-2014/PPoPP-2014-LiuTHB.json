@@ -1,14 +1,30 @@
 {
-	"author": ["Tongping Liu", "Chen Tian", "Ziang Hu", "Emery D. Berger"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Tongping Liu",
+		"Chen Tian",
+		"Ziang Hu",
+		"Emery D. Berger"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/LiuTHB14",
 	"doi": "10.1145/2555243.2555244",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555244",
 	"pages": "3-14",
 	"publisher": "ACM",
-	"stemmed": ["predat", "predict", "fals", "share", "detect"],
-	"tag": ["detection", "named", "predict"],
+	"stemmed": [
+		"predat",
+		"predict",
+		"fals",
+		"share",
+		"detect"
+	],
+	"tag": [
+		"detection",
+		"named",
+		"predict"
+	],
 	"title": "PREDATOR: predictive false sharing detection",
 	"type": "inproceedings",
 	"venue": "PPoPP",

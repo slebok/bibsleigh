@@ -1,14 +1,37 @@
 {
-	"author": ["Isao Shirakawa", "Noboru Okuda", "Takashi Harada", "Sadahiro Tani", "Hiroshi Ozaki"],
-	"booktitle": "DAC",
+	"author": [
+		"Isao Shirakawa",
+		"Noboru Okuda",
+		"Takashi Harada",
+		"Sadahiro Tani",
+		"Hiroshi Ozaki"
+	],
+	"booktitle": "Proceedings of the 17th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1980",
 	"dblpkey": "conf/dac/ShirakawaOHTO80",
 	"doi": "10.1145/800139.804517",
 	"ee": "http://doi.acm.org/10.1145/800139.804517",
 	"pages": "92-99",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["a", "layout", "system", "for", "the", "random", "logic", "portion", "of", "mos", "lsi"],
-	"tag": ["layout", "logic", "random"],
+	"stemmed": [
+		"a",
+		"layout",
+		"system",
+		"for",
+		"the",
+		"random",
+		"logic",
+		"portion",
+		"of",
+		"mos",
+		"lsi"
+	],
+	"tag": [
+		"layout",
+		"logic",
+		"random"
+	],
 	"title": "A layout system for the random logic portion of MOS LSI",
 	"type": "inproceedings",
 	"venue": "DAC",

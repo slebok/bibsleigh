@@ -1,6 +1,11 @@
 {
-	"author": ["Michael Pradel", "Parker Schuh", "George C. Necula", "Koushik Sen"],
-	"booktitle": "Proceedings of the 29th International Conference on Object Oriented Programming Systems Languages & Applications",
+	"author": [
+		"Michael Pradel",
+		"Parker Schuh",
+		"George C. Necula",
+		"Koushik Sen"
+	],
+	"booktitle": "Proceedings of the 29th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2014",
 	"dblpkey": "conf/oopsla/PradelSNS14",
@@ -8,8 +13,28 @@
 	"ee": "http://doi.acm.org/10.1145/2660193.2660233",
 	"pages": "33-47",
 	"publisher": "ACM",
-	"stemmed": ["event", "break", "analyz", "the", "respons", "of", "user", "interfac", "through", "perform", "guid", "test", "generat"],
-	"tag": ["generative", "latency", "named", "testing", "user interface"],
+	"stemmed": [
+		"event",
+		"break",
+		"analyz",
+		"the",
+		"respons",
+		"of",
+		"user",
+		"interfac",
+		"through",
+		"perform",
+		"guid",
+		"test",
+		"generat"
+	],
+	"tag": [
+		"generative",
+		"latency",
+		"named",
+		"testing",
+		"user interface"
+	],
 	"title": "EventBreak: analyzing the responsiveness of user interfaces through performance-guided test generation",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

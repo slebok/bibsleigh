@@ -1,6 +1,11 @@
 {
-	"author": ["Ping Xiang", "Yi Yang", "Huiyang Zhou"],
-	"booktitle": "HPCA",
+	"author": [
+		"Ping Xiang",
+		"Yi Yang",
+		"Huiyang Zhou"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/XiangYZ14",
 	"doi": "10.1109/HPCA.2014.6835939",
@@ -8,7 +13,17 @@
 	"pages": "284-295",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["warp", "level", "diverg", "in", "gpus", "character", "impact", "and", "mitig"],
+	"stemmed": [
+		"warp",
+		"level",
+		"diverg",
+		"in",
+		"gpus",
+		"character",
+		"impact",
+		"and",
+		"mitig"
+	],
 	"title": "Warp-level divergence in GPUs: Characterization, impact, and mitigation",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,14 +1,27 @@
 {
-	"author": ["Sorav Bansal", "Alex Aiken"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Sorav Bansal",
+		"Alex Aiken"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/BansalA06",
 	"doi": "10.1145/1168857.1168906",
 	"ee": "http://doi.acm.org/10.1145/1168857.1168906",
 	"pages": "394-403",
 	"publisher": "ACM",
-	"stemmed": ["automat", "generat", "of", "peephol", "superoptim"],
-	"tag": ["automation", "generative"],
+	"stemmed": [
+		"automat",
+		"generat",
+		"of",
+		"peephol",
+		"superoptim"
+	],
+	"tag": [
+		"automation",
+		"generative"
+	],
 	"title": "Automatic generation of peephole superoptimizers",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

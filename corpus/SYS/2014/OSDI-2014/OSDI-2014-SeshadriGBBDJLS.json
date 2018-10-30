@@ -1,13 +1,32 @@
 {
-	"author": ["Sudharsan Seshadri", "Mark Gahagan", "Meenakshi Sundaram Bhaskaran", "Trevor Bunker", "Arup De", "Yanqin Jin", "Yang Liu", "Steven Swanson"],
-	"booktitle": "OSDI",
+	"author": [
+		"Sudharsan Seshadri",
+		"Mark Gahagan",
+		"Meenakshi Sundaram Bhaskaran",
+		"Trevor Bunker",
+		"Arup De",
+		"Yanqin Jin",
+		"Yang Liu",
+		"Steven Swanson"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2014",
 	"dblpkey": "conf/osdi/SeshadriGBBDJLS14",
 	"ee": "https://www.usenix.org/conference/osdi14/technical-sessions/presentation/seshadri",
 	"pages": "67-80",
 	"publisher": "USENIX Association",
-	"stemmed": ["willow", "a", "user", "programm", "ssd"],
-	"tag": ["named", "programmable"],
+	"stemmed": [
+		"willow",
+		"a",
+		"user",
+		"programm",
+		"ssd"
+	],
+	"tag": [
+		"named",
+		"programmable"
+	],
 	"title": "Willow: A User-Programmable SSD",
 	"type": "inproceedings",
 	"venue": "OSDI",

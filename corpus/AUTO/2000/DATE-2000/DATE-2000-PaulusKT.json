@@ -1,15 +1,32 @@
 {
-	"author": ["Christian Paulus", "Ulrich Kleine", "Roland Thewes"],
-	"booktitle": "DATE",
+	"author": [
+		"Christian Paulus",
+		"Ulrich Kleine",
+		"Roland Thewes"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/PaulusKT00",
 	"doi": "10.1109/DATE.2000.840871",
 	"ee": "http://doi.ieeecomputersociety.org/10.1109/DATE.2000.840871",
-	"pages": 738,
+	"pages": "738",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["area", "optim", "of", "analog", "circuit", "consid", "match", "constraint"],
-	"tag": ["constraints", "optimisation"],
+	"stemmed": [
+		"area",
+		"optim",
+		"of",
+		"analog",
+		"circuit",
+		"consid",
+		"match",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"optimisation"
+	],
 	"title": "Area Optimization of Analog Circuits Considering Matching Constraints",
 	"type": "inproceedings",
 	"venue": "DATE",

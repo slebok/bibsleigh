@@ -1,13 +1,28 @@
 {
 	"author": "Brad Hammond",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the 22nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/96",
 	"dblpkey": "conf/vldb/Hammond96",
 	"ee": "http://www.vldb.org/conf/1996/P591.PDF",
-	"pages": 591,
+	"pages": "591",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["use", "referenti", "integr", "to", "easili", "defin", "consist", "subset", "replica"],
-	"tag": ["consistency", "set", "using"],
+	"stemmed": [
+		"use",
+		"referenti",
+		"integr",
+		"to",
+		"easili",
+		"defin",
+		"consist",
+		"subset",
+		"replica"
+	],
+	"tag": [
+		"consistency",
+		"set",
+		"using"
+	],
 	"title": "Using Referential Integrity To Easily Define Consistent Subset Replicas",
 	"type": "inproceedings",
 	"venue": "VLDB",

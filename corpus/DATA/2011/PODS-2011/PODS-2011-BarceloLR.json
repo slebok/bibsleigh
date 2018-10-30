@@ -1,14 +1,26 @@
 {
-	"author": ["Pablo Barceló", "Leonid Libkin", "Juan L. Reutter"],
-	"booktitle": "PODS",
+	"author": [
+		"Pablo Barceló",
+		"Leonid Libkin",
+		"Juan L. Reutter"
+	],
+	"booktitle": "Proceedings of the 30th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2011",
 	"dblpkey": "conf/pods/BarceloLR11",
 	"doi": "10.1145/1989284.1989307",
 	"ee": "http://doi.acm.org/10.1145/1989284.1989307",
 	"pages": "199-210",
 	"publisher": "ACM",
-	"stemmed": ["queri", "graph", "pattern"],
-	"tag": ["graph", "query"],
+	"stemmed": [
+		"queri",
+		"graph",
+		"pattern"
+	],
+	"tag": [
+		"graph",
+		"query"
+	],
 	"title": "Querying graph patterns",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,6 +1,11 @@
 {
-	"author": ["Gene Golovchinsky", "Morgan N. Price", "Bill N. Schilit"],
+	"author": [
+		"Gene Golovchinsky",
+		"Morgan N. Price",
+		"Bill N. Schilit"
+	],
 	"booktitle": "Proceedings of the 22nd International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1999/P019.pdf",
 	"crossref": "conf/sigir/99",
 	"dblpkey": "conf/sigir/GolovchinskyPS99",
@@ -8,8 +13,21 @@
 	"ee": "http://doi.acm.org/10.1145/312624.312637",
 	"pages": "19-25",
 	"publisher": "ACM",
-	"stemmed": ["from", "read", "to", "retriev", "freeform", "ink", "annot", "as", "queri"],
-	"tag": ["query", "retrieval"],
+	"stemmed": [
+		"from",
+		"read",
+		"to",
+		"retriev",
+		"freeform",
+		"ink",
+		"annot",
+		"as",
+		"queri"
+	],
+	"tag": [
+		"query",
+		"retrieval"
+	],
 	"title": "From Reading to Retrieval: Freeform Ink Annotations as Queries",
 	"type": "inproceedings",
 	"venue": "SIGIR",

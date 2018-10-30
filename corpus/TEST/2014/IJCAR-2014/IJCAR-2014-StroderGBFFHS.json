@@ -1,6 +1,15 @@
 {
-	"author": ["Thomas Ströder", "Jürgen Giesl", "Marc Brockschmidt", "Florian Frohn", "Carsten Fuhs", "Jera Hensel", "Peter Schneider-Kamp"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Thomas Ströder",
+		"Jürgen Giesl",
+		"Marc Brockschmidt",
+		"Florian Frohn",
+		"Carsten Fuhs",
+		"Jera Hensel",
+		"Peter Schneider-Kamp"
+	],
+	"booktitle": "Proceedings of the Seventh International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2014",
 	"dblpkey": "conf/cade/StroderGBFFHS14",
 	"doi": "10.1007/978-3-319-08587-6_15",
@@ -10,11 +19,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["prove", "termin", "and", "memori", "safeti", "for", "program", "with", "pointer", "arithmet"],
-	"tag": ["memory management", "pointer", "proving", "safety", "source code", "termination"],
+	"stemmed": [
+		"prove",
+		"termin",
+		"and",
+		"memori",
+		"safeti",
+		"for",
+		"program",
+		"with",
+		"pointer",
+		"arithmet"
+	],
+	"tag": [
+		"memory management",
+		"pointer",
+		"proving",
+		"safety",
+		"source code",
+		"termination"
+	],
 	"title": "Proving Termination and Memory Safety for Programs with Pointer Arithmetic",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 8562,
+	"volume": "8562",
 	"year": 2014
 }

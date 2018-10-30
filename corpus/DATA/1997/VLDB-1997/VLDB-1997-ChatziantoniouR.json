@@ -1,14 +1,41 @@
 {
-	"author": ["Damianos Chatziantoniou", "Kenneth A. Ross"],
-	"booktitle": "VLDB",
-	"cite": ["conf/icde/AgrawalGS97", "...", "...", "conf/vldb/ChatziantoniouR96", "conf/vldb/ChaudhuriS94", "conf/edbt/ChaudhuriS96", "conf/vldb/Dayal83", "conf/vldb/Dayal87", "journals/cacm/DeWittG92", "journals/jacm/Paola69a", "conf/sigmod/EpsteinSW78", "conf/vldb/GuptaHQ95", "..."],
+	"author": [
+		"Damianos Chatziantoniou",
+		"Kenneth A. Ross"
+	],
+	"booktitle": "Proceedings of the 23rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/icde/AgrawalGS97",
+		"...",
+		"...",
+		"conf/vldb/ChatziantoniouR96",
+		"conf/vldb/ChaudhuriS94",
+		"conf/edbt/ChaudhuriS96",
+		"conf/vldb/Dayal83",
+		"conf/vldb/Dayal87",
+		"journals/cacm/DeWittG92",
+		"journals/jacm/Paola69a",
+		"conf/sigmod/EpsteinSW78",
+		"conf/vldb/GuptaHQ95",
+		"..."
+	],
 	"crossref": "conf/vldb/97",
 	"dblpkey": "conf/vldb/ChatziantoniouR97",
 	"ee": "http://www.vldb.org/conf/1997/P476.PDF",
 	"pages": "476-485",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["groupwis", "process", "of", "relat", "queri"],
-	"tag": ["query", "relational"],
+	"stemmed": [
+		"groupwis",
+		"process",
+		"of",
+		"relat",
+		"queri"
+	],
+	"tag": [
+		"query",
+		"relational"
+	],
 	"title": "Groupwise Processing of Relational Queries",
 	"type": "inproceedings",
 	"venue": "VLDB",

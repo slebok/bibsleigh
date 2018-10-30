@@ -1,6 +1,7 @@
 {
 	"author": "R. Furmaniak",
-	"booktitle": "ICDAR",
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/Furmaniak07",
 	"doi": "10.1109/ICDAR.2007.255",
@@ -8,8 +9,18 @@
 	"pages": "1263-1267",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["unsupervis", "newspap", "segment", "use", "languag", "context"],
-	"tag": ["segmentation", "using"],
+	"stemmed": [
+		"unsupervis",
+		"newspap",
+		"segment",
+		"use",
+		"languag",
+		"context"
+	],
+	"tag": [
+		"segmentation",
+		"using"
+	],
 	"title": "Unsupervised Newspaper Segmentation Using Language Context",
 	"type": "inproceedings",
 	"venue": "ICDAR",

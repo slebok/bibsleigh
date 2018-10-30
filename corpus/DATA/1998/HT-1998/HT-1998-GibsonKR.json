@@ -1,6 +1,11 @@
 {
-	"author": ["David Gibson", "Jon M. Kleinberg", "Prabhakar Raghavan"],
-	"booktitle": "Hypertext",
+	"author": [
+		"David Gibson",
+		"Jon M. Kleinberg",
+		"Prabhakar Raghavan"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Hypertext and Hypermedia: Links, Objects, Time and Space — Structure in Hypermedia Systems",
+	"booktitleshort": "HT",
 	"cdrom": "HT1998/P225.pdf",
 	"crossref": "conf/ht/98",
 	"dblpkey": "conf/ht/GibsonKR98",
@@ -8,8 +13,18 @@
 	"ee": "http://doi.acm.org/10.1145/276627.276652",
 	"pages": "225-234",
 	"publisher": "ACM",
-	"stemmed": ["infer", "web", "communiti", "from", "link", "topolog"],
-	"tag": ["community", "web"],
+	"stemmed": [
+		"infer",
+		"web",
+		"communiti",
+		"from",
+		"link",
+		"topolog"
+	],
+	"tag": [
+		"community",
+		"web"
+	],
 	"title": "Inferring Web Communities from Link Topology",
 	"type": "inproceedings",
 	"venue": "HT",

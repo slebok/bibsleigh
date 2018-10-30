@@ -1,6 +1,12 @@
 {
-	"author": ["Nikos Giatrakos", "Yannis Kotidis", "Antonios Deligiannakis", "Vasilis Vassalos", "Yannis Theodoridis"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Nikos Giatrakos",
+		"Yannis Kotidis",
+		"Antonios Deligiannakis",
+		"Vasilis Vassalos",
+		"Yannis Theodoridis"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/GiatrakosKDVT10",
@@ -8,8 +14,23 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807199",
 	"pages": "279-290",
 	"publisher": "ACM",
-	"stemmed": ["taco", "tunabl", "approxim", "comput", "of", "outlier", "in", "wireless", "sensor", "network"],
-	"tag": ["approximate", "named", "network"],
+	"stemmed": [
+		"taco",
+		"tunabl",
+		"approxim",
+		"comput",
+		"of",
+		"outlier",
+		"in",
+		"wireless",
+		"sensor",
+		"network"
+	],
+	"tag": [
+		"approximate",
+		"named",
+		"network"
+	],
 	"title": "TACO: tunable approximate computation of outliers in wireless sensor networks",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

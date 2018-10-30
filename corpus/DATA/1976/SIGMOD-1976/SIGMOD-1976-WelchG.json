@@ -1,16 +1,42 @@
 {
-	"author": ["James W. Welch", "J. Wesley Graham"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"James W. Welch",
+		"J. Wesley Graham"
+	],
+	"booktitle": "Proceedings of the Sixth ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD76/P021.PDF",
-	"cite": ["journals/csur/Dodd69", "...", "...", "...", "...", "conf/sigmod/WelchG75"],
+	"cite": [
+		"journals/csur/Dodd69",
+		"...",
+		"...",
+		"...",
+		"...",
+		"conf/sigmod/WelchG75"
+	],
 	"crossref": "conf/sigmod/76",
 	"dblpkey": "conf/sigmod/WelchG76",
 	"doi": "10.1145/509383.509387",
 	"ee": "http://doi.acm.org/10.1145/509383.509387",
 	"pages": "21-29",
 	"publisher": "ACM",
-	"stemmed": ["retriev", "use", "order", "list", "in", "invert", "and", "multilist", "file"],
-	"tag": ["multi", "order", "retrieval", "using"],
+	"stemmed": [
+		"retriev",
+		"use",
+		"order",
+		"list",
+		"in",
+		"invert",
+		"and",
+		"multilist",
+		"file"
+	],
+	"tag": [
+		"multi",
+		"order",
+		"retrieval",
+		"using"
+	],
 	"title": "Retrieval Using Ordered Lists in Inverted and Multilist Files",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,15 +1,38 @@
 {
-	"author": ["Theodore Johnson", "Dennis Shasha"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS89/P235.PDF", "journals/anthology/dvd1:text/1-3/PODS89/P235.PDF"],
-	"cite": ["journals/ipl/GuptaS86", "journals/ipl/Leung84", "...", "journals/acta/Wright85", "journals/acta/Yao78"],
+	"author": [
+		"Theodore Johnson",
+		"Dennis Shasha"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS89/P235.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS89/P235.PDF"
+	],
+	"cite": [
+		"journals/ipl/GuptaS86",
+		"journals/ipl/Leung84",
+		"...",
+		"journals/acta/Wright85",
+		"journals/acta/Yao78"
+	],
 	"crossref": "conf/pods/89",
 	"dblpkey": "conf/pods/JohnsonS89",
 	"doi": "10.1145/73721.73745",
 	"ee": "http://doi.acm.org/10.1145/73721.73745",
 	"pages": "235-246",
 	"publisher": "ACM Press",
-	"stemmed": ["util", "of", "b", "tree", "with", "insert", "delet", "and", "modifi"],
+	"stemmed": [
+		"util",
+		"of",
+		"b",
+		"tree",
+		"with",
+		"insert",
+		"delet",
+		"and",
+		"modifi"
+	],
 	"title": "Utilization of B-trees with Inserts, Deletes and Modifies",
 	"type": "inproceedings",
 	"venue": "PODS",

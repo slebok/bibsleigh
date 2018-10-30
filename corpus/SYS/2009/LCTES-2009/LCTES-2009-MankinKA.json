@@ -1,14 +1,32 @@
 {
-	"author": ["Jennifer Mankin", "David R. Kaeli", "John Ardini"],
-	"booktitle": "LCTES",
+	"author": [
+		"Jennifer Mankin",
+		"David R. Kaeli",
+		"John Ardini"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2009",
 	"dblpkey": "conf/lctrts/MankinKA09",
 	"doi": "10.1145/1542452.1542465",
 	"ee": "http://doi.acm.org/10.1145/1542452.1542465",
 	"pages": "90-98",
 	"publisher": "ACM",
-	"stemmed": ["softwar", "transact", "memori", "for", "multicor", "embed", "system"],
-	"tag": ["embedded", "manycore", "memory management", "transaction"],
+	"stemmed": [
+		"softwar",
+		"transact",
+		"memori",
+		"for",
+		"multicor",
+		"embed",
+		"system"
+	],
+	"tag": [
+		"embedded",
+		"manycore",
+		"memory management",
+		"transaction"
+	],
 	"title": "Software transactional memory for multicore embedded systems",
 	"type": "inproceedings",
 	"venue": "LCTES",

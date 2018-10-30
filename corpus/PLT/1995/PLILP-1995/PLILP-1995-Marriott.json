@@ -1,6 +1,7 @@
 {
 	"author": "Kim Marriott",
 	"booktitle": "Proceedings of the Seventh International Symposium on Programming Languages: Implementations, Logics and Programs",
+	"booktitleshort": "PPDP",
 	"crossref": "conf/plilp/95",
 	"dblpkey": "conf/plilp/Marriott95",
 	"doi": "10.1007/BFb0026810",
@@ -10,11 +11,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["pars", "visual", "languag", "with", "constraint", "multiset", "grammar"],
-	"tag": ["constraints", "multi", "parsing", "visual notation"],
+	"stemmed": [
+		"pars",
+		"visual",
+		"languag",
+		"with",
+		"constraint",
+		"multiset",
+		"grammar"
+	],
+	"tag": [
+		"constraints",
+		"multi",
+		"parsing",
+		"visual notation"
+	],
 	"title": "Parsing Visual Languages with Constraint Multiset Grammars",
 	"type": "inproceedings",
 	"venue": "PPDP",
-	"volume": 982,
+	"volume": "982",
 	"year": 1995
 }

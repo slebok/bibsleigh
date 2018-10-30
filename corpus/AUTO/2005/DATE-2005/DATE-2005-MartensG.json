@@ -1,6 +1,10 @@
 {
-	"author": ["Ewout Martens", "Georges G. E. Gielen"],
-	"booktitle": "DATE",
+	"author": [
+		"Ewout Martens",
+		"Georges G. E. Gielen"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/MartensG05",
 	"doi": "10.1109/DATE.2005.311",
@@ -8,8 +12,30 @@
 	"pages": "120-125",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["time", "domain", "simul", "of", "sampl", "weak", "nonlinear", "system", "use", "analyt", "integr", "and", "orthogon", "polynomi", "seri"],
-	"tag": ["integration", "orthogonal", "polynomial", "simulation", "using"],
+	"stemmed": [
+		"time",
+		"domain",
+		"simul",
+		"of",
+		"sampl",
+		"weak",
+		"nonlinear",
+		"system",
+		"use",
+		"analyt",
+		"integr",
+		"and",
+		"orthogon",
+		"polynomi",
+		"seri"
+	],
+	"tag": [
+		"integration",
+		"orthogonal",
+		"polynomial",
+		"simulation",
+		"using"
+	],
 	"title": "Time-Domain Simulation of Sampled Weakly Nonlinear Systems Using Analytical Integration and Orthogonal Polynomial Series",
 	"type": "inproceedings",
 	"venue": "DATE",

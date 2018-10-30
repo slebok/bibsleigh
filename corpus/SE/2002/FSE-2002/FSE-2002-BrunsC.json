@@ -1,7 +1,10 @@
 {
-	"author": ["Glenn Bruns", "Satish Chandra"],
+	"author": [
+		"Glenn Bruns",
+		"Satish Chandra"
+	],
 	"booktitle": "Proceedings of the 10th Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2002",
 	"dblpkey": "conf/sigsoft/BrunsC02",
 	"doi": "10.1145/587051.587061",
@@ -9,8 +12,17 @@
 	"isbn": "1-58113-514-9",
 	"pages": "61-70",
 	"publisher": "ACM",
-	"stemmed": ["search", "for", "point", "to", "analysi"],
-	"tag": ["analysis", "points-to"],
+	"stemmed": [
+		"search",
+		"for",
+		"point",
+		"to",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"points-to"
+	],
 	"title": "Searching for points-to analysis",
 	"type": "inproceedings",
 	"venue": "FSE",

@@ -1,6 +1,11 @@
 {
-	"author": ["Songyun Duan", "Anastasios Kementsietsidis", "Kavitha Srinivas", "Octavian Udrea"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Songyun Duan",
+		"Anastasios Kementsietsidis",
+		"Kavitha Srinivas",
+		"Octavian Udrea"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/DuanKSU11",
@@ -8,8 +13,27 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989340",
 	"pages": "145-156",
 	"publisher": "ACM",
-	"stemmed": ["appl", "and", "orang", "a", "comparison", "of", "rdf", "benchmark", "and", "real", "rdf", "dataset"],
-	"tag": ["benchmark", "comparison", "dataset", "metric", "rdf"],
+	"stemmed": [
+		"appl",
+		"and",
+		"orang",
+		"a",
+		"comparison",
+		"of",
+		"rdf",
+		"benchmark",
+		"and",
+		"real",
+		"rdf",
+		"dataset"
+	],
+	"tag": [
+		"benchmark",
+		"comparison",
+		"dataset",
+		"metric",
+		"rdf"
+	],
 	"title": "Apples and oranges: a comparison of RDF benchmarks and real RDF datasets",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

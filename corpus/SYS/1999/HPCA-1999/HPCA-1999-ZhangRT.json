@@ -1,15 +1,38 @@
 {
-	"author": ["Ye Zhang", "Lawrence Rauchwerger", "Josep Torrellas"],
-	"booktitle": "HPCA",
+	"author": [
+		"Ye Zhang",
+		"Lawrence Rauchwerger",
+		"Josep Torrellas"
+	],
+	"booktitle": "Proceedings of the Fifth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1999",
 	"dblpkey": "conf/hpca/ZhangRT99",
 	"doi": "10.1109/HPCA.1999.744351",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1999.744351", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744351"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1999.744351",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744351"
+	],
 	"pages": "135-139",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["hardwar", "for", "specul", "parallel", "of", "partial", "parallel", "loop", "in", "dsm", "multiprocessor"],
-	"tag": ["hardware", "parallel"],
+	"stemmed": [
+		"hardwar",
+		"for",
+		"specul",
+		"parallel",
+		"of",
+		"partial",
+		"parallel",
+		"loop",
+		"in",
+		"dsm",
+		"multiprocessor"
+	],
+	"tag": [
+		"hardware",
+		"parallel"
+	],
 	"title": "Hardware for Speculative Parallelization of Partially-Parallel Loops in DSM Multiprocessors",
 	"type": "inproceedings",
 	"venue": "HPCA",

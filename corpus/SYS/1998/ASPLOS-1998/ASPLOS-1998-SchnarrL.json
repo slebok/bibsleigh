@@ -1,14 +1,31 @@
 {
-	"author": ["Eric Schnarr", "James R. Larus"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Eric Schnarr",
+		"James R. Larus"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1998",
 	"dblpkey": "conf/asplos/SchnarrL98",
 	"doi": "10.1145/291069.291063",
 	"ee": "http://doi.acm.org/10.1145/291069.291063",
 	"pages": "283-294",
 	"publisher": "ACM Press",
-	"stemmed": ["fast", "out", "of", "order", "processor", "simul", "use", "memoiz"],
-	"tag": ["performance", "simulation", "using"],
+	"stemmed": [
+		"fast",
+		"out",
+		"of",
+		"order",
+		"processor",
+		"simul",
+		"use",
+		"memoiz"
+	],
+	"tag": [
+		"performance",
+		"simulation",
+		"using"
+	],
 	"title": "Fast Out-Of-Order Processor Simulation Using Memoization",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

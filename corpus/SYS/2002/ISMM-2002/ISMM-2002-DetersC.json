@@ -1,6 +1,9 @@
 {
-	"author": ["Morgan Deters", "Ron Cytron"],
-	"booktitle": "MSP/ISMM",
+	"author": [
+		"Morgan Deters",
+		"Ron Cytron"
+	],
+	"booktitle": "Proceedings of the Third International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2002",
 	"dblpkey": "conf/iwmm/DetersC02",
@@ -8,8 +11,24 @@
 	"ee": "http://doi.acm.org/10.1145/773039.512433",
 	"pages": "132-142",
 	"publisher": "ACM",
-	"stemmed": ["autom", "discoveri", "of", "scope", "memori", "region", "for", "real", "time", "java"],
-	"tag": ["automation", "java", "memory management", "realtime"],
+	"stemmed": [
+		"autom",
+		"discoveri",
+		"of",
+		"scope",
+		"memori",
+		"region",
+		"for",
+		"real",
+		"time",
+		"java"
+	],
+	"tag": [
+		"automation",
+		"java",
+		"memory management",
+		"realtime"
+	],
 	"title": "Automated discovery of scoped memory regions for real-time Java",
 	"type": "inproceedings",
 	"venue": "ISMM",

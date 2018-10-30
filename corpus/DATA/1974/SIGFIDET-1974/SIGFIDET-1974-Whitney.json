@@ -1,6 +1,7 @@
 {
 	"author": "V. Kevin M. Whitney",
-	"booktitle": "SIGMOD Workshop, Vol. 1",
+	"booktitle": "Proceedings of the Fourth ACM-SIGFIDET Workshop on Data Description, Access and Control",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGFIDET74-1/P321.pdf",
 	"crossref": "conf/sigmod/74",
 	"dblpkey": "conf/sigmod/Whitney74",
@@ -8,8 +9,18 @@
 	"ee": "http://doi.acm.org/10.1145/800296.811519",
 	"pages": "321-350",
 	"publisher": "ACM",
-	"stemmed": ["relat", "data", "manag", "implement", "techniqu"],
-	"tag": ["data transformation", "implementation", "relational"],
+	"stemmed": [
+		"relat",
+		"data",
+		"manag",
+		"implement",
+		"techniqu"
+	],
+	"tag": [
+		"data transformation",
+		"implementation",
+		"relational"
+	],
 	"title": "Relational Data Management Implementation Techniques",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

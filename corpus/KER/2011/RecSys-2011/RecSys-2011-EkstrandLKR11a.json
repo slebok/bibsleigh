@@ -1,14 +1,32 @@
 {
-	"author": ["Michael D. Ekstrand", "Michael Ludwig", "Jack Kolb", "John Riedl"],
-	"booktitle": "RecSys",
+	"author": [
+		"Michael D. Ekstrand",
+		"Michael Ludwig",
+		"Jack Kolb",
+		"John Riedl"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2011",
 	"dblpkey": "conf/recsys/EkstrandLKR11a",
 	"doi": "10.1145/2043932.2044001",
 	"ee": "http://doi.acm.org/10.1145/2043932.2044001",
 	"pages": "349-350",
 	"publisher": "ACM",
-	"stemmed": ["len", "kit", "a", "modular", "recommend", "framework"],
-	"tag": ["composition", "framework", "named", "recommendation"],
+	"stemmed": [
+		"len",
+		"kit",
+		"a",
+		"modular",
+		"recommend",
+		"framework"
+	],
+	"tag": [
+		"composition",
+		"framework",
+		"named",
+		"recommendation"
+	],
 	"title": "LensKit: a modular recommender framework",
 	"type": "inproceedings",
 	"venue": "RecSys",

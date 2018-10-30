@@ -1,14 +1,34 @@
 {
-	"author": ["Matthew R. Guthaus", "Gustavo Wilke", "Ricardo Reis"],
-	"booktitle": "DAC",
+	"author": [
+		"Matthew R. Guthaus",
+		"Gustavo Wilke",
+		"Ricardo Reis"
+	],
+	"booktitle": "Proceedings of the 47th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2010",
 	"dblpkey": "conf/dac/GuthausWR10",
 	"doi": "10.1145/1837274.1837295",
 	"ee": "http://doi.acm.org/10.1145/1837274.1837295",
 	"pages": "74-79",
 	"publisher": "ACM",
-	"stemmed": ["non", "uniform", "clock", "mesh", "optim", "with", "linear", "program", "buffer", "insert"],
-	"tag": ["linear", "optimisation", "programming"],
+	"stemmed": [
+		"non",
+		"uniform",
+		"clock",
+		"mesh",
+		"optim",
+		"with",
+		"linear",
+		"program",
+		"buffer",
+		"insert"
+	],
+	"tag": [
+		"linear",
+		"optimisation",
+		"programming"
+	],
 	"title": "Non-uniform clock mesh optimization with linear programming buffer insertion",
 	"type": "inproceedings",
 	"venue": "DAC",

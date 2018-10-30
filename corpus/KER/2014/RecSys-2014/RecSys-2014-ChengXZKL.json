@@ -1,13 +1,25 @@
 {
-	"author": ["Chen Cheng", "Fen Xia", "Tong Zhang", "Irwin King", "Michael R. Lyu"],
-	"booktitle": "RecSys",
+	"author": [
+		"Chen Cheng",
+		"Fen Xia",
+		"Tong Zhang",
+		"Irwin King",
+		"Michael R. Lyu"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2014",
 	"dblpkey": "conf/recsys/ChengXZKL14",
 	"doi": "10.1145/2645710.2645730",
 	"ee": "http://doi.acm.org/10.1145/2645710.2645730",
 	"pages": "265-272",
 	"publisher": "ACM",
-	"stemmed": ["gradient", "boost", "factor", "machin"],
+	"stemmed": [
+		"gradient",
+		"boost",
+		"factor",
+		"machin"
+	],
 	"title": "Gradient boosting factorization machines",
 	"type": "inproceedings",
 	"venue": "RecSys",

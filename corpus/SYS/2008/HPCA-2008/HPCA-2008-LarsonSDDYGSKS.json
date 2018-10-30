@@ -1,6 +1,17 @@
 {
-	"author": ["Richard H. Larson", "John K. Salmon", "Ron O. Dror", "Martin M. Deneroff", "Cliff Young", "J. P. Grossman", "Yibing Shan", "John L. Klepeis", "David E. Shaw"],
-	"booktitle": "HPCA",
+	"author": [
+		"Richard H. Larson",
+		"John K. Salmon",
+		"Ron O. Dror",
+		"Martin M. Deneroff",
+		"Cliff Young",
+		"J. P. Grossman",
+		"Yibing Shan",
+		"John L. Klepeis",
+		"David E. Shaw"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2008",
 	"dblpkey": "conf/hpca/LarsonSDDYGSKS08",
 	"doi": "10.1109/HPCA.2008.4658650",
@@ -8,8 +19,26 @@
 	"pages": "331-342",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["high", "throughput", "pairwis", "point", "interact", "in", "anton", "a", "special", "machin", "for", "molecular", "dynam", "simul"],
-	"tag": ["interactive", "simulation"],
+	"stemmed": [
+		"high",
+		"throughput",
+		"pairwis",
+		"point",
+		"interact",
+		"in",
+		"anton",
+		"a",
+		"special",
+		"machin",
+		"for",
+		"molecular",
+		"dynam",
+		"simul"
+	],
+	"tag": [
+		"interactive",
+		"simulation"
+	],
 	"title": "High-throughput pairwise point interactions in Anton, a specialized machine for molecular dynamics simulation",
 	"type": "inproceedings",
 	"venue": "HPCA",

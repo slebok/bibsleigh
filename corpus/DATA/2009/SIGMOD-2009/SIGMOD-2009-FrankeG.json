@@ -1,6 +1,9 @@
 {
-	"author": ["Conny Franke", "Michael Gertz"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Conny Franke",
+		"Michael Gertz"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/FrankeG09",
@@ -8,8 +11,22 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559985",
 	"pages": "1075-1078",
 	"publisher": "ACM",
-	"stemmed": ["orden", "outlier", "region", "detect", "and", "explor", "in", "sensor", "network"],
-	"tag": ["detection", "named", "network"],
+	"stemmed": [
+		"orden",
+		"outlier",
+		"region",
+		"detect",
+		"and",
+		"explor",
+		"in",
+		"sensor",
+		"network"
+	],
+	"tag": [
+		"detection",
+		"named",
+		"network"
+	],
 	"title": "ORDEN: outlier region detection and exploration in sensor networks",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,9 @@
 {
-	"author": ["Roy Levin", "Yaron Kanza"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Roy Levin",
+		"Yaron Kanza"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/LevinK14",
@@ -8,8 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2588577",
 	"pages": "863-874",
 	"publisher": "ACM",
-	"stemmed": ["stratifi", "sampl", "over", "social", "network", "use", "mapreduc"],
-	"tag": ["network", "pipes and filters", "social", "using"],
+	"stemmed": [
+		"stratifi",
+		"sampl",
+		"over",
+		"social",
+		"network",
+		"use",
+		"mapreduc"
+	],
+	"tag": [
+		"network",
+		"pipes and filters",
+		"social",
+		"using"
+	],
 	"title": "Stratified-sampling over social networks using mapreduce",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

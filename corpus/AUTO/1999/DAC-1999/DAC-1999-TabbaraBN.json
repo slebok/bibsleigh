@@ -1,13 +1,33 @@
 {
-	"author": ["Abdallah Tabbara", "Robert K. Brayton", "A. Richard Newton"],
-	"booktitle": "DAC",
+	"author": [
+		"Abdallah Tabbara",
+		"Robert K. Brayton",
+		"A. Richard Newton"
+	],
+	"booktitle": "Proceedings of the 36th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/TabbaraBN99",
 	"doi": "10.1145/309847.310044",
 	"ee": "http://doi.acm.org/10.1145/309847.310044",
 	"pages": "725-730",
 	"publisher": "ACM Press",
-	"stemmed": ["retim", "for", "dsm", "with", "area", "delay", "trade", "off", "and", "delay", "constraint"],
-	"tag": ["constraints", "trade-off"],
+	"stemmed": [
+		"retim",
+		"for",
+		"dsm",
+		"with",
+		"area",
+		"delay",
+		"trade",
+		"off",
+		"and",
+		"delay",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"trade-off"
+	],
 	"title": "Retiming for DSM with Area-Delay Trade-Offs and Delay Constraints",
 	"type": "inproceedings",
 	"venue": "DAC",

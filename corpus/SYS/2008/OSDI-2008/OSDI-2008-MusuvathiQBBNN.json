@@ -1,13 +1,32 @@
 {
-	"author": ["Madanlal Musuvathi", "Shaz Qadeer", "Thomas Ball", "Gérard Basler", "Piramanayagam Arumuga Nainar", "Iulian Neamtiu"],
-	"booktitle": "OSDI",
+	"author": [
+		"Madanlal Musuvathi",
+		"Shaz Qadeer",
+		"Thomas Ball",
+		"Gérard Basler",
+		"Piramanayagam Arumuga Nainar",
+		"Iulian Neamtiu"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/MusuvathiQBBNN08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/musuvathi/musuvathi.pdf",
 	"pages": "267-280",
 	"publisher": "USENIX Association",
-	"stemmed": ["find", "and", "reproduc", "heisenbug", "in", "concurr", "program"],
-	"tag": ["concurrent", "source code"],
+	"stemmed": [
+		"find",
+		"and",
+		"reproduc",
+		"heisenbug",
+		"in",
+		"concurr",
+		"program"
+	],
+	"tag": [
+		"concurrent",
+		"source code"
+	],
 	"title": "Finding and Reproducing Heisenbugs in Concurrent Programs",
 	"type": "inproceedings",
 	"venue": "OSDI",

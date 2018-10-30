@@ -1,6 +1,13 @@
 {
-	"author": ["Sadegh Nobari", "Farhan Tauheed", "Thomas Heinis", "Panagiotis Karras", "Stéphane Bressan", "Anastasia Ailamaki"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Sadegh Nobari",
+		"Farhan Tauheed",
+		"Thomas Heinis",
+		"Panagiotis Karras",
+		"Stéphane Bressan",
+		"Anastasia Ailamaki"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/NobariTHKBA13",
@@ -8,8 +15,23 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2463700",
 	"pages": "701-712",
 	"publisher": "ACM",
-	"stemmed": ["touch", "in", "memori", "spatial", "join", "by", "hierarch", "data", "orient", "partit"],
-	"tag": ["clustering", "in memory", "named"],
+	"stemmed": [
+		"touch",
+		"in",
+		"memori",
+		"spatial",
+		"join",
+		"by",
+		"hierarch",
+		"data",
+		"orient",
+		"partit"
+	],
+	"tag": [
+		"clustering",
+		"in memory",
+		"named"
+	],
 	"title": "TOUCH: in-memory spatial join by hierarchical data-oriented partitioning",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

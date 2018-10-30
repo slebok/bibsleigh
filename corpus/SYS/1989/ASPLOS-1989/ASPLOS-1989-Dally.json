@@ -1,14 +1,24 @@
 {
 	"author": "William J. Dally",
-	"booktitle": "ASPLOS",
+	"booktitle": "Proceedings of the Third International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1989",
 	"dblpkey": "conf/asplos/Dally89",
 	"doi": "10.1145/70082.68208",
 	"ee": "http://doi.acm.org/10.1145/70082.68208",
 	"pages": "283-289",
 	"publisher": "ACM Press",
-	"stemmed": ["micro", "optim", "of", "float", "point", "oper"],
-	"tag": ["float"],
+	"stemmed": [
+		"micro",
+		"optim",
+		"of",
+		"float",
+		"point",
+		"oper"
+	],
+	"tag": [
+		"float"
+	],
 	"title": "Micro-Optimization of Floating Point Operations",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

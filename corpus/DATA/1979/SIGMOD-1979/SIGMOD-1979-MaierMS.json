@@ -1,15 +1,30 @@
 {
-	"author": ["David Maier", "Alberto O. Mendelzon", "Yehoshua Sagiv"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"David Maier",
+		"Alberto O. Mendelzon",
+		"Yehoshua Sagiv"
+	],
+	"booktitle": "Proceedings of the Ninth ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD79/P152.PDF",
 	"crossref": "conf/sigmod/79",
 	"dblpkey": "conf/sigmod/MaierMS79",
 	"doi": "10.1145/582095.582119",
 	"ee": "http://doi.acm.org/10.1145/582095.582119",
-	"pages": 152,
+	"pages": "152",
 	"publisher": "ACM",
-	"stemmed": ["test", "implic", "of", "data", "depend", "abstract"],
-	"tag": ["dependence", "testing"],
+	"stemmed": [
+		"test",
+		"implic",
+		"of",
+		"data",
+		"depend",
+		"abstract"
+	],
+	"tag": [
+		"dependence",
+		"testing"
+	],
 	"title": "Testing Implications of Data Dependencies (Abstract)",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

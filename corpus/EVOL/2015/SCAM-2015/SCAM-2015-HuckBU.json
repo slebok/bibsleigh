@@ -1,13 +1,29 @@
 {
-	"author": ["Alexander Huck", "Christian Bischof", "Jean Utke"],
-	"booktitle": "SCAM",
+	"author": [
+		"Alexander Huck",
+		"Christian Bischof",
+		"Jean Utke"
+	],
+	"booktitle": "Proceedings of the 15th International Working Conference on Source Code Analysis and Manipulation",
+	"booktitleshort": "SCAM",
 	"crossref": "conf/scam/2015",
 	"dblpkey": "conf/scam/HuckBU15",
 	"doi": "10.1109/SCAM.2015.7335405",
 	"pages": "91-100",
 	"publisher": "IEEE",
-	"stemmed": ["check", "c", "code", "for", "compat", "with", "oper", "overload"],
-	"tag": ["c++"],
+	"stemmed": [
+		"check",
+		"c",
+		"code",
+		"for",
+		"compat",
+		"with",
+		"oper",
+		"overload"
+	],
+	"tag": [
+		"c++"
+	],
 	"title": "Checking C++ codes for compatibility with operator overloading",
 	"type": "inproceedings",
 	"venue": "SCAM",

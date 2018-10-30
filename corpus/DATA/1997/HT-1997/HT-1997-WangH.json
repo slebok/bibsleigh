@@ -1,6 +1,10 @@
 {
-	"author": ["Weigang Wang", "Jörg M. Haake"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Weigang Wang",
+		"Jörg M. Haake"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1997/P112.pdf",
 	"crossref": "conf/ht/97",
 	"dblpkey": "conf/ht/WangH97",
@@ -8,8 +12,16 @@
 	"ee": "http://doi.acm.org/10.1145/267437.267450",
 	"pages": "112-123",
 	"publisher": "ACM",
-	"stemmed": ["support", "user", "defin", "activ", "space"],
-	"tag": ["process"],
+	"stemmed": [
+		"support",
+		"user",
+		"defin",
+		"activ",
+		"space"
+	],
+	"tag": [
+		"process"
+	],
 	"title": "Supporting User-defined Activity Spaces",
 	"type": "inproceedings",
 	"venue": "HT",

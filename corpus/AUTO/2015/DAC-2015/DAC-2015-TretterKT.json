@@ -1,14 +1,34 @@
 {
-	"author": ["Andreas Tretter", "Pratyush Kumar", "Lothar Thiele"],
-	"booktitle": "DAC",
+	"author": [
+		"Andreas Tretter",
+		"Pratyush Kumar",
+		"Lothar Thiele"
+	],
+	"booktitle": "Proceedings of the 52nd Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2015",
 	"dblpkey": "conf/dac/TretterKT15",
 	"doi": "10.1145/2744769.2744861",
 	"ee": "http://doi.acm.org/10.1145/2744769.2744861",
 	"pages": "22:1-22:6",
 	"publisher": "ACM",
-	"stemmed": ["interleav", "multi", "bank", "scratchpad", "memori", "a", "probabilist", "descript", "of", "access", "conflict"],
-	"tag": ["multi", "probability"],
+	"stemmed": [
+		"interleav",
+		"multi",
+		"bank",
+		"scratchpad",
+		"memori",
+		"a",
+		"probabilist",
+		"descript",
+		"of",
+		"access",
+		"conflict"
+	],
+	"tag": [
+		"multi",
+		"probability"
+	],
 	"title": "Interleaved multi-bank scratchpad memories: a probabilistic description of access conflicts",
 	"type": "inproceedings",
 	"venue": "DAC",

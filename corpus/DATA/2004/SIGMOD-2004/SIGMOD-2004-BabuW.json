@@ -1,15 +1,35 @@
 {
-	"author": ["Shivnath Babu", "Jennifer Widom"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Shivnath Babu",
+		"Jennifer Widom"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/BabuW04",
 	"doi": "10.1145/1007568.1007702",
-	"ee": ["http://doi.acm.org/10.1145/1007568.1007702", "http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/D-178.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1007568.1007702",
+		"http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/D-178.pdf"
+	],
 	"pages": "931-932",
 	"publisher": "ACM",
-	"stemmed": ["strea", "mon", "an", "adapt", "engin", "for", "stream", "queri", "process"],
-	"tag": ["adaptation", "named", "query"],
+	"stemmed": [
+		"strea",
+		"mon",
+		"an",
+		"adapt",
+		"engin",
+		"for",
+		"stream",
+		"queri",
+		"process"
+	],
+	"tag": [
+		"adaptation",
+		"named",
+		"query"
+	],
 	"title": "StreaMon: An Adaptive Engine for Stream Query Processing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

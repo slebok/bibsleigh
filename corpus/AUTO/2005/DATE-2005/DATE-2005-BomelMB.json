@@ -1,6 +1,11 @@
 {
-	"author": ["Pierre Bomel", "Eric Martin", "Emmanuel Boutillon"],
-	"booktitle": "DATE",
+	"author": [
+		"Pierre Bomel",
+		"Eric Martin",
+		"Emmanuel Boutillon"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/BomelMB05",
 	"doi": "10.1109/DATE.2005.287",
@@ -8,8 +13,19 @@
 	"pages": "896-897",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["synchron", "processor", "synthesi", "for", "latenc", "insensit", "system"],
-	"tag": ["latency", "synthesis"],
+	"stemmed": [
+		"synchron",
+		"processor",
+		"synthesi",
+		"for",
+		"latenc",
+		"insensit",
+		"system"
+	],
+	"tag": [
+		"latency",
+		"synthesis"
+	],
 	"title": "Synchronization Processor Synthesis for Latency Insensitive Systems",
 	"type": "inproceedings",
 	"venue": "DATE",

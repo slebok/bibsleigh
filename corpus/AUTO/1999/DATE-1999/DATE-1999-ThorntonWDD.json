@@ -1,6 +1,12 @@
 {
-	"author": ["Mitchell A. Thornton", "J. P. Williams", "Rolf Drechsler", "Nicole Drechsler"],
-	"booktitle": "DATE",
+	"author": [
+		"Mitchell A. Thornton",
+		"J. P. Williams",
+		"Rolf Drechsler",
+		"Nicole Drechsler"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/ThorntonWDD99",
 	"doi": "10.1109/DATE.1999.761217",
@@ -8,8 +14,23 @@
 	"pages": "758-759",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["variabl", "reorder", "for", "share", "binari", "decis", "diagram", "use", "output", "probabl"],
-	"tag": ["diagrams", "order", "using"],
+	"stemmed": [
+		"variabl",
+		"reorder",
+		"for",
+		"share",
+		"binari",
+		"decis",
+		"diagram",
+		"use",
+		"output",
+		"probabl"
+	],
+	"tag": [
+		"diagrams",
+		"order",
+		"using"
+	],
 	"title": "Variable Reordering for Shared Binary Decision Diagrams Using Output Probabilities",
 	"type": "inproceedings",
 	"venue": "DATE",

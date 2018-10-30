@@ -1,6 +1,11 @@
 {
-	"author": ["Anatoli Nachev", "Seamus Hill", "Borislav Stoyanov"],
-	"booktitle": "ICEIS",
+	"author": [
+		"Anatoli Nachev",
+		"Seamus Hill",
+		"Borislav Stoyanov"
+	],
+	"booktitle": "Revised Selected Papers of the 11th International Conference on Enterprise Information Systems",
+	"booktitleshort": "Post-ICEIS",
 	"crossref": "conf/iceis/2009",
 	"dblpkey": "conf/iceis/NachevHS09",
 	"doi": "10.1007/978-3-642-01347-8_24",
@@ -10,11 +15,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Business Information Processing",
 	"seriesshort": "LNBIP",
-	"stemmed": ["insolv", "predict", "of", "irish", "compani", "use", "backpropag", "and", "fuzzi", "artmap", "neural", "network"],
-	"tag": ["fuzzy", "network", "predict", "using"],
+	"stemmed": [
+		"insolv",
+		"predict",
+		"of",
+		"irish",
+		"compani",
+		"use",
+		"backpropag",
+		"and",
+		"fuzzi",
+		"artmap",
+		"neural",
+		"network"
+	],
+	"tag": [
+		"fuzzy",
+		"network",
+		"predict",
+		"using"
+	],
 	"title": "Insolvency Prediction of Irish Companies Using Backpropagation and Fuzzy ARTMAP Neural Networks",
 	"type": "inproceedings",
 	"venue": "ICEIS",
-	"volume": 24,
+	"volume": "24",
 	"year": 2009
 }

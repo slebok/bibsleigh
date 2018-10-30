@@ -1,6 +1,10 @@
 {
-	"author": ["Andreas Ruprecht", "Bernhard Heinloth", "Daniel Lohmann"],
-	"booktitle": "Proceedings of the 13th International Conference on Generative Programming: Concepts & Experiences",
+	"author": [
+		"Andreas Ruprecht",
+		"Bernhard Heinloth",
+		"Daniel Lohmann"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Generative Programming: Concepts and Experiences",
 	"booktitleshort": "GPCE",
 	"crossref": "conf/gpce/2014",
 	"dblpkey": "conf/gpce/RuprechtHL14",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/2658761.2658767",
 	"pages": "39-48",
 	"publisher": "ACM",
-	"stemmed": ["automat", "featur", "select", "in", "larg", "scale", "system", "softwar", "product", "line"],
-	"tag": ["automation", "feature model", "product line", "scalability"],
+	"stemmed": [
+		"automat",
+		"featur",
+		"select",
+		"in",
+		"larg",
+		"scale",
+		"system",
+		"softwar",
+		"product",
+		"line"
+	],
+	"tag": [
+		"automation",
+		"feature model",
+		"product line",
+		"scalability"
+	],
 	"title": "Automatic feature selection in large-scale system-software product lines",
 	"type": "inproceedings",
 	"venue": "GPCE",

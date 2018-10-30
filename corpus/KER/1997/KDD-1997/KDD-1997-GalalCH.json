@@ -1,13 +1,32 @@
 {
-	"author": ["Gehad Galal", "Diane J. Cook", "Lawrence B. Holder"],
-	"booktitle": "KDD",
+	"author": [
+		"Gehad Galal",
+		"Diane J. Cook",
+		"Lawrence B. Holder"
+	],
+	"booktitle": "Proceedings of the Third International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1997",
 	"dblpkey": "conf/kdd/GalalCH97",
 	"ee": "http://www.aaai.org/Library/KDD/1997/kdd97-032.php",
 	"pages": "171-174",
 	"publisher": "AAAI Press",
-	"stemmed": ["improv", "scalabl", "in", "a", "scientif", "discoveri", "system", "by", "exploit", "parallel"],
-	"tag": ["parallel", "scalability"],
+	"stemmed": [
+		"improv",
+		"scalabl",
+		"in",
+		"a",
+		"scientif",
+		"discoveri",
+		"system",
+		"by",
+		"exploit",
+		"parallel"
+	],
+	"tag": [
+		"parallel",
+		"scalability"
+	],
 	"title": "Improving Scalability in a Scientific Discovery System by Exploiting Parallelism",
 	"type": "inproceedings",
 	"venue": "KDD",

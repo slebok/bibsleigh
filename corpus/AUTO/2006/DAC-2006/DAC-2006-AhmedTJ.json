@@ -1,14 +1,31 @@
 {
-	"author": ["Nisar Ahmed", "Mohammad Tehranipoor", "Vinay Jayaram"],
-	"booktitle": "DAC",
+	"author": [
+		"Nisar Ahmed",
+		"Mohammad Tehranipoor",
+		"Vinay Jayaram"
+	],
+	"booktitle": "Proceedings of the 43rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/AhmedTJ06",
 	"doi": "10.1145/1146909.1146993",
 	"ee": "http://doi.acm.org/10.1145/1146909.1146993",
 	"pages": "320-325",
 	"publisher": "ACM",
-	"stemmed": ["time", "base", "delay", "test", "for", "screen", "small", "delay", "defect"],
-	"tag": ["fault"],
+	"stemmed": [
+		"time",
+		"base",
+		"delay",
+		"test",
+		"for",
+		"screen",
+		"small",
+		"delay",
+		"defect"
+	],
+	"tag": [
+		"fault"
+	],
 	"title": "Timing-based delay test for screening small delay defects",
 	"type": "inproceedings",
 	"venue": "DAC",

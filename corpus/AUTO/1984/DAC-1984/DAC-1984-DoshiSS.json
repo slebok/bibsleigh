@@ -1,13 +1,36 @@
 {
-	"acmid": 800769,
-	"author": ["Mahesh H. Doshi", "Roderick B. Sullivan", "Donald M. Schuler"],
-	"booktitle": "DAC",
+	"acmid": "800769",
+	"author": [
+		"Mahesh H. Doshi",
+		"Roderick B. Sullivan",
+		"Donald M. Schuler"
+	],
+	"booktitle": "Proceedings of the 21st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1984",
 	"dblpkey": "conf/dac/DoshiSS84",
 	"pages": "24-31",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["themi", "logic", "simul", "a", "mix", "mode", "multi", "level", "hierarch", "interact", "digit", "circuit", "simul"],
-	"tag": ["interactive", "logic", "multi"],
+	"stemmed": [
+		"themi",
+		"logic",
+		"simul",
+		"a",
+		"mix",
+		"mode",
+		"multi",
+		"level",
+		"hierarch",
+		"interact",
+		"digit",
+		"circuit",
+		"simul"
+	],
+	"tag": [
+		"interactive",
+		"logic",
+		"multi"
+	],
 	"title": "THEMIS logic simulator — a mix mode, multi-level, hierarchical, interactive digital circuit simulator",
 	"type": "inproceedings",
 	"venue": "DAC",

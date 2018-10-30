@@ -1,6 +1,11 @@
 {
-	"author": ["Steven Dawson", "C. R. Ramakrishnan", "I. V. Ramakrishnan"],
+	"author": [
+		"Steven Dawson",
+		"C. R. Ramakrishnan",
+		"I. V. Ramakrishnan"
+	],
 	"booktitle": "Proceedings of the Seventh International Symposium on Programming Languages: Implementations, Logics and Programs",
+	"booktitleshort": "PPDP",
 	"crossref": "conf/plilp/95",
 	"dblpkey": "conf/plilp/DawsonRR95",
 	"doi": "10.1007/BFb0026818",
@@ -10,11 +15,30 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["design", "and", "implement", "of", "jump", "tabl", "for", "fast", "index", "of", "logic", "program"],
-	"tag": ["design", "implementation", "logic programming", "performance", "source code"],
+	"stemmed": [
+		"design",
+		"and",
+		"implement",
+		"of",
+		"jump",
+		"tabl",
+		"for",
+		"fast",
+		"index",
+		"of",
+		"logic",
+		"program"
+	],
+	"tag": [
+		"design",
+		"implementation",
+		"logic programming",
+		"performance",
+		"source code"
+	],
 	"title": "Design and Implementation of Jump Tables for Fast Indexing of Logic Programs",
 	"type": "inproceedings",
 	"venue": "PPDP",
-	"volume": 982,
+	"volume": "982",
 	"year": 1995
 }

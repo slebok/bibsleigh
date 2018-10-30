@@ -1,14 +1,25 @@
 {
-	"acmid": 1164235,
-	"author": ["Philip A. Bernstein", "Sergey Melnik", "John E. Churchill"],
-	"booktitle": "VLDB",
+	"acmid": "1164235",
+	"author": [
+		"Philip A. Bernstein",
+		"Sergey Melnik",
+		"John E. Churchill"
+	],
+	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
 	"dblpkey": "conf/vldb/BernsteinMC06",
 	"ee": "http://www.vldb.org/conf/2006/p1167-bernstein.pdf",
 	"pages": "1167-1170",
 	"publisher": "ACM",
-	"stemmed": ["increment", "schema", "match"],
-	"tag": ["incremental"],
+	"stemmed": [
+		"increment",
+		"schema",
+		"match"
+	],
+	"tag": [
+		"incremental"
+	],
 	"title": "Incremental Schema Matching",
 	"type": "inproceedings",
 	"venue": "VLDB",

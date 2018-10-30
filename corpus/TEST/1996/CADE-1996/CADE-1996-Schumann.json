@@ -1,6 +1,7 @@
 {
 	"author": "Johann Schumann",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/Schumann96",
 	"doi": "10.1007/3-540-61511-3_87",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["si", "co", "theo", "simpl", "competit", "parallel", "theorem", "prover"],
-	"tag": ["named", "parallel", "proving", "theorem proving"],
+	"stemmed": [
+		"si",
+		"co",
+		"theo",
+		"simpl",
+		"competit",
+		"parallel",
+		"theorem",
+		"prover"
+	],
+	"tag": [
+		"named",
+		"parallel",
+		"proving",
+		"theorem proving"
+	],
 	"title": "SiCoTHEO: Simple Competitive Parallel Theorem Provers",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

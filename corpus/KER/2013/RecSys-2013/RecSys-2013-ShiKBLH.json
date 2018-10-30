@@ -1,14 +1,39 @@
 {
-	"author": ["Yue Shi", "Alexandros Karatzoglou", "Linas Baltrunas", "Martha Larson", "Alan Hanjalic"],
-	"booktitle": "RecSys",
+	"author": [
+		"Yue Shi",
+		"Alexandros Karatzoglou",
+		"Linas Baltrunas",
+		"Martha Larson",
+		"Alan Hanjalic"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2013",
 	"dblpkey": "conf/recsys/ShiKBLH13",
 	"doi": "10.1145/2507157.2507227",
 	"ee": "http://doi.acm.org/10.1145/2507157.2507227",
 	"pages": "431-434",
 	"publisher": "ACM",
-	"stemmed": ["xclimf", "optim", "expect", "reciproc", "rank", "for", "data", "with", "multipl", "level", "of", "relev"],
-	"tag": ["multi", "named", "optimisation", "rank"],
+	"stemmed": [
+		"xclimf",
+		"optim",
+		"expect",
+		"reciproc",
+		"rank",
+		"for",
+		"data",
+		"with",
+		"multipl",
+		"level",
+		"of",
+		"relev"
+	],
+	"tag": [
+		"multi",
+		"named",
+		"optimisation",
+		"rank"
+	],
 	"title": "xCLiMF: optimizing expected reciprocal rank for data with multiple levels of relevance",
 	"type": "inproceedings",
 	"venue": "RecSys",

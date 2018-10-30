@@ -1,7 +1,12 @@
 {
-	"author": ["Adam A. Porter", "Harvey P. Siy", "Carol A. Toman", "Lawrence G. Votta"],
+	"author": [
+		"Adam A. Porter",
+		"Harvey P. Siy",
+		"Carol A. Toman",
+		"Lawrence G. Votta"
+	],
 	"booktitle": "Proceedings of the Third Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/1995",
 	"dblpkey": "conf/sigsoft/PorterSTV95",
 	"doi": "10.1145/222124.222144",
@@ -9,8 +14,28 @@
 	"ee": "http://doi.acm.org/10.1145/222124.222144",
 	"pages": "92-103",
 	"publisher": "ACM",
-	"stemmed": ["an", "experi", "to", "assess", "the", "cost", "benefit", "of", "code", "inspect", "in", "larg", "scale", "softwar", "develop"],
-	"tag": ["development", "empirical", "scalability"],
+	"stemmed": [
+		"an",
+		"experi",
+		"to",
+		"assess",
+		"the",
+		"cost",
+		"benefit",
+		"of",
+		"code",
+		"inspect",
+		"in",
+		"larg",
+		"scale",
+		"softwar",
+		"develop"
+	],
+	"tag": [
+		"development",
+		"empirical",
+		"scalability"
+	],
 	"title": "An Experiment to Assess the Cost-Benefits of Code Inspections in Large Scale Software Development",
 	"type": "inproceedings",
 	"venue": "FSE",

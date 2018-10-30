@@ -1,16 +1,39 @@
 {
 	"author": "David B. Lomet",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the Seventh ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD77/P122.PDF",
-	"cite": ["conf/ifip/ChamberlinBT74", "...", "...", "...", "journals/csur/Holt72", "...", "..."],
+	"cite": [
+		"conf/ifip/ChamberlinBT74",
+		"...",
+		"...",
+		"...",
+		"journals/csur/Holt72",
+		"...",
+		"..."
+	],
 	"crossref": "conf/sigmod/77",
 	"dblpkey": "conf/sigmod/Lomet77",
 	"doi": "10.1145/509404.509423",
 	"ee": "http://doi.acm.org/10.1145/509404.509423",
 	"pages": "122-127",
 	"publisher": "ACM",
-	"stemmed": ["a", "practic", "deadlock", "avoid", "algorithm", "for", "data", "base", "system"],
-	"tag": ["algorithm", "concurrent", "database"],
+	"stemmed": [
+		"a",
+		"practic",
+		"deadlock",
+		"avoid",
+		"algorithm",
+		"for",
+		"data",
+		"base",
+		"system"
+	],
+	"tag": [
+		"algorithm",
+		"concurrent",
+		"database"
+	],
 	"title": "A Practical Deadlock Avoidance Algorithm for Data Base Systems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

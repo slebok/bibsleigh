@@ -1,17 +1,43 @@
 {
-	"author": ["Chris Allan", "Pavel Avgustinov", "Aske Simon Christensen", "Laurie J. Hendren", "Sascha Kuzins", "Ondrej Lhoták", "Oege de Moor", "Damien Sereni", "Ganesh Sittampalam", "Julian Tibble"],
-	"booktitle": "Proceedings of the 20th Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Chris Allan",
+		"Pavel Avgustinov",
+		"Aske Simon Christensen",
+		"Laurie J. Hendren",
+		"Sascha Kuzins",
+		"Ondrej Lhoták",
+		"Oege de Moor",
+		"Damien Sereni",
+		"Ganesh Sittampalam",
+		"Julian Tibble"
+	],
+	"booktitle": "Proceedings of the 20th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2005",
 	"dblpkey": "conf/oopsla/AllanACHKLMSST05",
 	"doi": "10.1145/1094811.1094839",
-	"editor": ["Ralph E. Johnson", "Richard P. Gabriel"],
+	"editor": [
+		"Ralph E. Johnson",
+		"Richard P. Gabriel"
+	],
 	"ee": "http://doi.acm.org/10.1145/1094811.1094839",
 	"isbn": "1-59593-031-0",
 	"pages": "345-364",
 	"publisher": "ACM",
-	"stemmed": ["ad", "trace", "match", "with", "free", "variabl", "to", "aspect", "j"],
-	"tag": ["aspectj"],
+	"stemmed": [
+		"ad",
+		"trace",
+		"match",
+		"with",
+		"free",
+		"variabl",
+		"to",
+		"aspect",
+		"j"
+	],
+	"tag": [
+		"aspectj"
+	],
 	"title": "Adding trace matching with free variables to AspectJ",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

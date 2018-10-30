@@ -1,6 +1,7 @@
 {
 	"author": "Peter Schäuble",
 	"booktitle": "Proceedings of the 16th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1993/P318.pdf",
 	"crossref": "conf/sigir/93",
 	"dblpkey": "conf/sigir/Schauble93",
@@ -8,8 +9,24 @@
 	"ee": "http://doi.acm.org/10.1145/160688.160756",
 	"pages": "318-327",
 	"publisher": "ACM",
-	"stemmed": ["spider", "a", "multius", "inform", "retriev", "system", "for", "semistructur", "and", "dynam", "data"],
-	"tag": ["information retrieval", "multi", "named"],
+	"stemmed": [
+		"spider",
+		"a",
+		"multius",
+		"inform",
+		"retriev",
+		"system",
+		"for",
+		"semistructur",
+		"and",
+		"dynam",
+		"data"
+	],
+	"tag": [
+		"information retrieval",
+		"multi",
+		"named"
+	],
 	"title": "SPIDER: A Multiuser Information Retrieval System for Semistructured and Dynamic Data",
 	"type": "inproceedings",
 	"venue": "SIGIR",

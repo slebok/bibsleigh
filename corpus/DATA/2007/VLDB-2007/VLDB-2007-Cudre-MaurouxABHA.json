@@ -1,13 +1,36 @@
 {
-	"author": ["Philippe Cudré-Mauroux", "Suchit Agarwal", "Adriana Budura", "Parisa Haghani", "Karl Aberer"],
-	"booktitle": "VLDB",
+	"author": [
+		"Philippe Cudré-Mauroux",
+		"Suchit Agarwal",
+		"Adriana Budura",
+		"Parisa Haghani",
+		"Karl Aberer"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/Cudre-MaurouxABHA07",
 	"ee": "http://www.vldb.org/conf/2007/papers/demo/p1334-cudre.pdf",
 	"pages": "1334-1337",
 	"publisher": "ACM",
-	"stemmed": ["self", "organ", "schema", "map", "in", "the", "grid", "vine", "peer", "data", "manag", "system"],
-	"tag": ["data transformation", "self"],
+	"stemmed": [
+		"self",
+		"organ",
+		"schema",
+		"map",
+		"in",
+		"the",
+		"grid",
+		"vine",
+		"peer",
+		"data",
+		"manag",
+		"system"
+	],
+	"tag": [
+		"data transformation",
+		"self"
+	],
 	"title": "Self-Organizing Schema Mappings in the GridVine Peer Data Management System",
 	"type": "inproceedings",
 	"venue": "VLDB",

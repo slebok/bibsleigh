@@ -1,6 +1,7 @@
 {
 	"author": "Jérôme Feret",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the Sixth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2005",
 	"dblpkey": "conf/vmcai/Feret05",
 	"doi": "10.1007/978-3-540-30579-8_3",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "arithmet", "geometr", "progress", "abstract", "domain"],
-	"tag": ["abstract domain", "geometry"],
+	"stemmed": [
+		"the",
+		"arithmet",
+		"geometr",
+		"progress",
+		"abstract",
+		"domain"
+	],
+	"tag": [
+		"abstract domain",
+		"geometry"
+	],
 	"title": "The Arithmetic-Geometric Progression Abstract Domain",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3385,
+	"volume": "3385",
 	"year": 2005
 }

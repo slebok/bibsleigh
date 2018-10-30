@@ -1,6 +1,16 @@
 {
-	"author": ["Niti Madan", "Li Zhao", "Naveen Muralimanohar", "Aniruddha N. Udipi", "Rajeev Balasubramonian", "Ravishankar Iyer", "Srihari Makineni", "Donald Newell"],
-	"booktitle": "HPCA",
+	"author": [
+		"Niti Madan",
+		"Li Zhao",
+		"Naveen Muralimanohar",
+		"Aniruddha N. Udipi",
+		"Rajeev Balasubramonian",
+		"Ravishankar Iyer",
+		"Srihari Makineni",
+		"Donald Newell"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2009",
 	"dblpkey": "conf/hpca/MadanZMUBIMN09",
 	"doi": "10.1109/HPCA.2009.4798261",
@@ -8,8 +18,26 @@
 	"pages": "262-274",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["optim", "communic", "and", "capac", "in", "a", "d", "stack", "reconfigur", "cach", "hierarchi"],
-	"tag": ["3d", "capacity", "communication", "configuration management", "optimisation"],
+	"stemmed": [
+		"optim",
+		"communic",
+		"and",
+		"capac",
+		"in",
+		"a",
+		"d",
+		"stack",
+		"reconfigur",
+		"cach",
+		"hierarchi"
+	],
+	"tag": [
+		"3d",
+		"capacity",
+		"communication",
+		"configuration management",
+		"optimisation"
+	],
 	"title": "Optimizing communication and capacity in a 3D stacked reconfigurable cache hierarchy",
 	"type": "inproceedings",
 	"venue": "HPCA",

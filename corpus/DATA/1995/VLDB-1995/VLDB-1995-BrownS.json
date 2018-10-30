@@ -1,14 +1,44 @@
 {
-	"author": ["Paul Brown", "Michael Stonebraker"],
-	"booktitle": "VLDB",
-	"cite": ["...", "...", "...", "...", "journals/sigmod/AndersonS94", "...", "...", "...", "...", "conf/icde/StonebrakerADLO94", "..."],
+	"author": [
+		"Paul Brown",
+		"Michael Stonebraker"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"...",
+		"...",
+		"...",
+		"journals/sigmod/AndersonS94",
+		"...",
+		"...",
+		"...",
+		"...",
+		"conf/icde/StonebrakerADLO94",
+		"..."
+	],
 	"crossref": "conf/vldb/95",
 	"dblpkey": "conf/vldb/BrownS95",
 	"ee": "http://www.vldb.org/conf/1995/P720.PDF",
 	"pages": "720-728",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["big", "sur", "a", "system", "for", "the", "manag", "of", "earth", "scienc", "data"],
-	"tag": ["named"],
+	"stemmed": [
+		"big",
+		"sur",
+		"a",
+		"system",
+		"for",
+		"the",
+		"manag",
+		"of",
+		"earth",
+		"scienc",
+		"data"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "BigSur: A System For the Management of Earth Science Data",
 	"type": "inproceedings",
 	"venue": "VLDB",

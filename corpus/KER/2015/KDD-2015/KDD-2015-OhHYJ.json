@@ -1,14 +1,33 @@
 {
-	"author": ["Jinoh Oh", "Wook-Shin Han", "Hwanjo Yu", "Xiaoqian Jiang"],
-	"booktitle": "KDD",
+	"author": [
+		"Jinoh Oh",
+		"Wook-Shin Han",
+		"Hwanjo Yu",
+		"Xiaoqian Jiang"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/OhHYJ15",
 	"doi": "10.1145/2783258.2783322",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783322",
 	"pages": "865-874",
 	"publisher": "ACM",
-	"stemmed": ["fast", "and", "robust", "parallel", "sgd", "matrix", "factor"],
-	"tag": ["matrix", "parallel", "performance", "robust"],
+	"stemmed": [
+		"fast",
+		"and",
+		"robust",
+		"parallel",
+		"sgd",
+		"matrix",
+		"factor"
+	],
+	"tag": [
+		"matrix",
+		"parallel",
+		"performance",
+		"robust"
+	],
 	"title": "Fast and Robust Parallel SGD Matrix Factorization",
 	"type": "inproceedings",
 	"venue": "KDD",

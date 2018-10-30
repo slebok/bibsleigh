@@ -1,6 +1,7 @@
 {
 	"author": "Peter Madden",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/Madden92",
 	"doi": "10.1007/3-540-55602-8_183",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["automat", "program", "optim", "through", "proof", "transform"],
-	"tag": ["automation", "optimisation", "proving"],
+	"stemmed": [
+		"automat",
+		"program",
+		"optim",
+		"through",
+		"proof",
+		"transform"
+	],
+	"tag": [
+		"automation",
+		"optimisation",
+		"proving"
+	],
 	"title": "Automatic Program Optimization Through Proof Transformation",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

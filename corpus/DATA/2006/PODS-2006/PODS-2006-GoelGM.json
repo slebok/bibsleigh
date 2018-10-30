@@ -1,14 +1,33 @@
 {
-	"author": ["Ashish Goel", "Sudipto Guha", "Kamesh Munagala"],
-	"booktitle": "PODS",
+	"author": [
+		"Ashish Goel",
+		"Sudipto Guha",
+		"Kamesh Munagala"
+	],
+	"booktitle": "Proceedings of the 25th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2006",
 	"dblpkey": "conf/pods/GoelGM06",
 	"doi": "10.1145/1142351.1142380",
 	"ee": "http://doi.acm.org/10.1145/1142351.1142380",
 	"pages": "203-212",
 	"publisher": "ACM",
-	"stemmed": ["ask", "the", "right", "question", "model", "driven", "optim", "use", "probe"],
-	"tag": ["modelling", "optimisation", "using"],
+	"stemmed": [
+		"ask",
+		"the",
+		"right",
+		"question",
+		"model",
+		"driven",
+		"optim",
+		"use",
+		"probe"
+	],
+	"tag": [
+		"modelling",
+		"optimisation",
+		"using"
+	],
 	"title": "Asking the right questions: model-driven optimization using probes",
 	"type": "inproceedings",
 	"venue": "PODS",

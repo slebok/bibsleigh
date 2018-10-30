@@ -1,6 +1,13 @@
 {
-	"author": ["Ulrich Loup", "Karsten Scheibler", "Florian Corzilius", "Erika Ábrahám", "Bernd Becker"],
-	"booktitle": "CADE",
+	"author": [
+		"Ulrich Loup",
+		"Karsten Scheibler",
+		"Florian Corzilius",
+		"Erika Ábrahám",
+		"Bernd Becker"
+	],
+	"booktitle": "Proceedings of the 24th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2013",
 	"dblpkey": "conf/cade/LoupSCAB13",
 	"doi": "10.1007/978-3-642-38574-2_13",
@@ -10,11 +17,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "symbiosi", "of", "interv", "constraint", "propag", "and", "cylindr", "algebra", "decomposit"],
-	"tag": ["algebra", "composition", "constraints"],
+	"stemmed": [
+		"a",
+		"symbiosi",
+		"of",
+		"interv",
+		"constraint",
+		"propag",
+		"and",
+		"cylindr",
+		"algebra",
+		"decomposit"
+	],
+	"tag": [
+		"algebra",
+		"composition",
+		"constraints"
+	],
 	"title": "A Symbiosis of Interval Constraint Propagation and Cylindrical Algebraic Decomposition",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 7898,
+	"volume": "7898",
 	"year": 2013
 }

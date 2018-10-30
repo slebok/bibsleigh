@@ -1,15 +1,46 @@
 {
-	"author": ["Ying Liu", "Kun Bai", "Prasenjit Mitra", "C. Lee Giles"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Ying Liu",
+		"Kun Bai",
+		"Prasenjit Mitra",
+		"C. Lee Giles"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2009",
 	"dblpkey": "conf/icdar/LiuBMG09",
 	"doi": "10.1109/ICDAR.2009.138",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2009.138", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2009.138"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2009.138",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2009.138"
+	],
 	"pages": "1006-1010",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["improv", "the", "tabl", "boundari", "detect", "in", "pdfs", "by", "fix", "the", "sequenc", "error", "of", "the", "spars", "line"],
-	"tag": ["bound", "detection", "fault", "sequence"],
+	"stemmed": [
+		"improv",
+		"the",
+		"tabl",
+		"boundari",
+		"detect",
+		"in",
+		"pdfs",
+		"by",
+		"fix",
+		"the",
+		"sequenc",
+		"error",
+		"of",
+		"the",
+		"spars",
+		"line"
+	],
+	"tag": [
+		"bound",
+		"detection",
+		"fault",
+		"sequence"
+	],
 	"title": "Improving the Table Boundary Detection in PDFs by Fixing the Sequence Error of the Sparse Lines",
 	"type": "inproceedings",
 	"venue": "ICDAR",

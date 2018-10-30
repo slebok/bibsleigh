@@ -1,6 +1,12 @@
 {
-	"author": ["Jürgen Avenhaus", "Benjamin Benninghofen", "Rüdiger Göbel", "Klaus Madlener"],
-	"booktitle": "CADE",
+	"author": [
+		"Jürgen Avenhaus",
+		"Benjamin Benninghofen",
+		"Rüdiger Göbel",
+		"Klaus Madlener"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/AvenhausBGM86",
 	"doi": "10.1007/3-540-16780-3_129",
@@ -10,11 +16,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["trspec", "a", "term", "rewrit", "base", "system", "for", "algebra", "specif"],
-	"tag": ["algebra", "named", "specification", "term rewriting"],
+	"stemmed": [
+		"trspec",
+		"a",
+		"term",
+		"rewrit",
+		"base",
+		"system",
+		"for",
+		"algebra",
+		"specif"
+	],
+	"tag": [
+		"algebra",
+		"named",
+		"specification",
+		"term rewriting"
+	],
 	"title": "TRSPEC: A Term Rewriting Based System for Algebraic Specifications",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

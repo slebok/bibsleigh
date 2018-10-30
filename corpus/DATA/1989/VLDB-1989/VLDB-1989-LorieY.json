@@ -1,14 +1,47 @@
 {
-	"author": ["Raymond A. Lorie", "Honesty C. Young"],
-	"booktitle": "VLDB",
-	"cite": ["journals/tc/BeckBW88", "journals/csur/BittonDHM84", "...", "journals/cacm/Even74", "...", "...", "journals/tc/JanusL85", "journals/ac/LakshmivarahanDM84", "journals/debu/LorieDHSY89", "...", "..."],
+	"author": [
+		"Raymond A. Lorie",
+		"Honesty C. Young"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/tc/BeckBW88",
+		"journals/csur/BittonDHM84",
+		"...",
+		"journals/cacm/Even74",
+		"...",
+		"...",
+		"journals/tc/JanusL85",
+		"journals/ac/LakshmivarahanDM84",
+		"journals/debu/LorieDHSY89",
+		"...",
+		"..."
+	],
 	"crossref": "conf/vldb/89",
 	"dblpkey": "conf/vldb/LorieY89",
 	"ee": "http://www.vldb.org/conf/1989/P125.PDF",
 	"pages": "125-134",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["a", "low", "communic", "sort", "algorithm", "for", "a", "parallel", "databas", "machin"],
-	"tag": ["algorithm", "communication", "database", "parallel", "sorting"],
+	"stemmed": [
+		"a",
+		"low",
+		"communic",
+		"sort",
+		"algorithm",
+		"for",
+		"a",
+		"parallel",
+		"databas",
+		"machin"
+	],
+	"tag": [
+		"algorithm",
+		"communication",
+		"database",
+		"parallel",
+		"sorting"
+	],
 	"title": "A Low Communication Sort Algorithm for a Parallel Database Machine",
 	"type": "inproceedings",
 	"venue": "VLDB",

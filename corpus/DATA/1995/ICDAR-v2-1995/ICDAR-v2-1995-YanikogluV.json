@@ -1,15 +1,35 @@
 {
-	"author": ["Berrin A. Yanikoglu", "Luc Vincent"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Berrin A. Yanikoglu",
+		"Luc Vincent"
+	],
+	"booktitle": "Proceedings of the Third International Conference on Document Analysis and Recognition (Volume II)",
+	"booktitleshort": "ICDAR v2",
 	"crossref": "conf/icdar/1995-2",
 	"dblpkey": "conf/icdar/YanikogluV95",
 	"doi": "10.1109/ICDAR.1995.601968",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1995.601968", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.601968"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1995.601968",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.601968"
+	],
 	"pages": "601-604",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["ground", "truth", "and", "benchmark", "document", "page", "segment"],
-	"tag": ["benchmark", "documentation", "metric", "segmentation"],
+	"stemmed": [
+		"ground",
+		"truth",
+		"and",
+		"benchmark",
+		"document",
+		"page",
+		"segment"
+	],
+	"tag": [
+		"benchmark",
+		"documentation",
+		"metric",
+		"segmentation"
+	],
 	"title": "Ground-truthing and benchmarking document page segmentation",
 	"type": "inproceedings",
 	"venue": "ICDAR",

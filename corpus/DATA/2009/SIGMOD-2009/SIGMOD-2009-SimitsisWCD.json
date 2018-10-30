@@ -1,6 +1,11 @@
 {
-	"author": ["Alkis Simitsis", "Kevin Wilkinson", "Malú Castellanos", "Umeshwar Dayal"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Alkis Simitsis",
+		"Kevin Wilkinson",
+		"Malú Castellanos",
+		"Umeshwar Dayal"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/SimitsisWCD09",
@@ -8,8 +13,24 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559954",
 	"pages": "953-960",
 	"publisher": "ACM",
-	"stemmed": ["qo", "x", "driven", "etl", "design", "reduc", "the", "cost", "of", "etl", "consult", "engag"],
-	"tag": ["cost analysis", "design"],
+	"stemmed": [
+		"qo",
+		"x",
+		"driven",
+		"etl",
+		"design",
+		"reduc",
+		"the",
+		"cost",
+		"of",
+		"etl",
+		"consult",
+		"engag"
+	],
+	"tag": [
+		"cost analysis",
+		"design"
+	],
 	"title": "QoX-driven ETL design: reducing the cost of ETL consulting engagements",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

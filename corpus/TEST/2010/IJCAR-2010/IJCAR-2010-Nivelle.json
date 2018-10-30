@@ -1,6 +1,7 @@
 {
 	"author": "Hans de Nivelle",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Fifth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2010",
 	"dblpkey": "conf/cade/Nivelle10",
 	"doi": "10.1007/978-3-642-14203-1_18",
@@ -10,11 +11,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["classic", "logic", "with", "partial", "function"],
-	"tag": ["logic"],
+	"stemmed": [
+		"classic",
+		"logic",
+		"with",
+		"partial",
+		"function"
+	],
+	"tag": [
+		"logic"
+	],
 	"title": "Classical Logic with Partial Functions",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 6173,
+	"volume": "6173",
 	"year": 2010
 }

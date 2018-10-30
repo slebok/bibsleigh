@@ -1,6 +1,10 @@
 {
-	"author": ["Filip Mazowiecki", "Cristian Riveros"],
-	"booktitle": "CSL",
+	"author": [
+		"Filip Mazowiecki",
+		"Cristian Riveros"
+	],
+	"booktitle": "24th EACSL Annual Conference on Computer Science Logic, CSL 2015, September 7-10, 2015, Berlin, Germany",
+	"booktitleshort": "CSL",
 	"crossref": "conf/csl/2015",
 	"dblpkey": "conf/csl/MazowieckiR15",
 	"doi": "10.4230/LIPIcs.CSL.2015.144",
@@ -10,11 +14,28 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["maxim", "partit", "logic", "toward", "a", "logic", "character", "of", "copyless", "cost", "regist", "automata"],
-	"tag": ["automaton", "logic", "towards"],
+	"stemmed": [
+		"maxim",
+		"partit",
+		"logic",
+		"toward",
+		"a",
+		"logic",
+		"character",
+		"of",
+		"copyless",
+		"cost",
+		"regist",
+		"automata"
+	],
+	"tag": [
+		"automaton",
+		"logic",
+		"towards"
+	],
 	"title": "Maximal Partition Logic: Towards a Logical Characterization of Copyless Cost Register Automata",
 	"type": "inproceedings",
 	"venue": "CSL",
-	"volume": 41,
+	"volume": "41",
 	"year": 2015
 }

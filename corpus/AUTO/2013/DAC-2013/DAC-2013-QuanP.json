@@ -1,14 +1,34 @@
 {
-	"author": ["Wei Quan", "Andy D. Pimentel"],
-	"booktitle": "DAC",
+	"author": [
+		"Wei Quan",
+		"Andy D. Pimentel"
+	],
+	"booktitle": "Proceedings of the 50th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2013",
 	"dblpkey": "conf/dac/QuanP13",
 	"doi": "10.1145/2463209.2488895",
 	"ee": "http://doi.acm.org/10.1145/2463209.2488895",
 	"pages": "131:1-131:6",
 	"publisher": "ACM",
-	"stemmed": ["a", "scenario", "base", "run", "time", "task", "map", "algorithm", "for", "mp", "so", "cs"],
-	"tag": ["algorithm", "runtime"],
+	"stemmed": [
+		"a",
+		"scenario",
+		"base",
+		"run",
+		"time",
+		"task",
+		"map",
+		"algorithm",
+		"for",
+		"mp",
+		"so",
+		"cs"
+	],
+	"tag": [
+		"algorithm",
+		"runtime"
+	],
 	"title": "A scenario-based run-time task mapping algorithm for MPSoCs",
 	"type": "inproceedings",
 	"venue": "DAC",

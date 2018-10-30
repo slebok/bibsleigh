@@ -1,14 +1,34 @@
 {
-	"author": ["Junjie Wu", "Hui Xiong", "Jian Chen"],
-	"booktitle": "KDD",
+	"author": [
+		"Junjie Wu",
+		"Hui Xiong",
+		"Jian Chen"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/WuXC08",
 	"doi": "10.1145/1401890.1401979",
 	"ee": "http://doi.acm.org/10.1145/1401890.1401979",
 	"pages": "740-748",
 	"publisher": "ACM",
-	"stemmed": ["sail", "summat", "base", "increment", "learn", "for", "inform", "theoret", "cluster"],
-	"tag": ["clustering", "incremental", "learning", "named"],
+	"stemmed": [
+		"sail",
+		"summat",
+		"base",
+		"increment",
+		"learn",
+		"for",
+		"inform",
+		"theoret",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"incremental",
+		"learning",
+		"named"
+	],
 	"title": "SAIL: summation-based incremental learning for information-theoretic clustering",
 	"type": "inproceedings",
 	"venue": "KDD",

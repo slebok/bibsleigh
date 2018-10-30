@@ -1,6 +1,7 @@
 {
 	"author": "Chad E. Brown",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Sixth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2012",
 	"dblpkey": "conf/cade/Brown12",
 	"doi": "10.1007/978-3-642-31365-3_11",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["satallax", "an", "automat", "higher", "order", "prover"],
-	"tag": ["automation", "higher-order", "named", "proving"],
+	"stemmed": [
+		"satallax",
+		"an",
+		"automat",
+		"higher",
+		"order",
+		"prover"
+	],
+	"tag": [
+		"automation",
+		"higher-order",
+		"named",
+		"proving"
+	],
 	"title": "Satallax: An Automatic Higher-Order Prover",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 7364,
+	"volume": "7364",
 	"year": 2012
 }

@@ -1,16 +1,39 @@
 {
-	"author": ["Raymond Fadous", "John Forsyth"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Raymond Fadous",
+		"John Forsyth"
+	],
+	"booktitle": "Proceedings of the Fifth ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD75/P203.PDF",
-	"cite": ["conf/ifip/Armstrong74", "journals/cacm/Codd70", "conf/sigmod/Codd71a", "persons/Codd71a", "...", "...", "..."],
+	"cite": [
+		"conf/ifip/Armstrong74",
+		"journals/cacm/Codd70",
+		"conf/sigmod/Codd71a",
+		"persons/Codd71a",
+		"...",
+		"...",
+		"..."
+	],
 	"crossref": "conf/sigmod/75",
 	"dblpkey": "conf/sigmod/FadousF75",
 	"doi": "10.1145/500080.500109",
 	"ee": "http://doi.acm.org/10.1145/500080.500109",
 	"pages": "203-210",
 	"publisher": "ACM",
-	"stemmed": ["find", "candid", "key", "for", "relat", "data", "base"],
-	"tag": ["database", "relational"],
+	"stemmed": [
+		"find",
+		"candid",
+		"key",
+		"for",
+		"relat",
+		"data",
+		"base"
+	],
+	"tag": [
+		"database",
+		"relational"
+	],
 	"title": "Finding Candidate Keys for Relational Data Bases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

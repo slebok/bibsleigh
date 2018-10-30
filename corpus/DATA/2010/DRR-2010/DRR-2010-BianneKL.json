@@ -1,6 +1,11 @@
 {
-	"author": ["Anne-Laure Bianne", "Christopher Kermorvant", "Laurence Likforman-Sulem"],
-	"booktitle": "DRR",
+	"author": [
+		"Anne-Laure Bianne",
+		"Christopher Kermorvant",
+		"Laurence Likforman-Sulem"
+	],
+	"booktitle": "Proceedings of the 17th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2010",
 	"dblpkey": "conf/drr/BianneKL10",
 	"doi": "10.1117/12.838806",
@@ -8,11 +13,32 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["context", "depend", "hmm", "model", "use", "tree", "base", "cluster", "for", "the", "recognit", "of", "handwritten", "word"],
-	"tag": ["clustering", "modelling", "recognition", "using", "word"],
+	"stemmed": [
+		"context",
+		"depend",
+		"hmm",
+		"model",
+		"use",
+		"tree",
+		"base",
+		"cluster",
+		"for",
+		"the",
+		"recognit",
+		"of",
+		"handwritten",
+		"word"
+	],
+	"tag": [
+		"clustering",
+		"modelling",
+		"recognition",
+		"using",
+		"word"
+	],
 	"title": "Context-dependent HMM modeling using tree-based clustering for the recognition of handwritten words",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7534,
+	"volume": "7534",
 	"year": 2010
 }

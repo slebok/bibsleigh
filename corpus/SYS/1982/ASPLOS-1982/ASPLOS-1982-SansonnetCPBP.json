@@ -1,14 +1,35 @@
 {
-	"author": ["Jean-Paul Sansonnet", "Michel Castan", "Christian Percebois", "D. Botella", "J. Perez"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Jean-Paul Sansonnet",
+		"Michel Castan",
+		"Christian Percebois",
+		"D. Botella",
+		"J. Perez"
+	],
+	"booktitle": "Proceedings of the First Symposium on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1982",
 	"dblpkey": "conf/asplos/SansonnetCPBP82",
 	"doi": "10.1145/800050.801836",
 	"ee": "http://doi.acm.org/10.1145/800050.801836",
 	"pages": "132-139",
 	"publisher": "ACM Press",
-	"stemmed": ["direct", "execut", "of", "lisp", "on", "a", "list", "direct", "architectur"],
-	"tag": ["architecture", "execution", "lisp"],
+	"stemmed": [
+		"direct",
+		"execut",
+		"of",
+		"lisp",
+		"on",
+		"a",
+		"list",
+		"direct",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"execution",
+		"lisp"
+	],
 	"title": "Direct Execution of Lisp on a List-Directed Architecture",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

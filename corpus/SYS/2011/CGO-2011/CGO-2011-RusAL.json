@@ -1,16 +1,44 @@
 {
-	"acmid": 2190065,
-	"author": ["Silvius Rus", "Raksit Ashok", "David Xinliang Li"],
-	"booktitle": "CGO",
+	"acmid": "2190065",
+	"author": [
+		"Silvius Rus",
+		"Raksit Ashok",
+		"David Xinliang Li"
+	],
+	"booktitle": "Proceedings of the Ninth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2011",
 	"dblpkey": "conf/cgo/RusAL11",
 	"doi": "10.1109/CGO.2011.5764686",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2011.5764686", "http://doi.ieeecomputersociety.org/10.1109/CGO.2011.5764686", "http://dl.acm.org/citation.cfm?id=2190065"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2011.5764686",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2011.5764686",
+		"http://dl.acm.org/citation.cfm?id=2190065"
+	],
 	"pages": "181-190",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["autom", "local", "optim", "base", "on", "the", "reus", "distanc", "of", "string", "oper"],
-	"tag": ["automation", "distance", "locality", "optimisation", "reuse", "string"],
+	"stemmed": [
+		"autom",
+		"local",
+		"optim",
+		"base",
+		"on",
+		"the",
+		"reus",
+		"distanc",
+		"of",
+		"string",
+		"oper"
+	],
+	"tag": [
+		"automation",
+		"distance",
+		"locality",
+		"optimisation",
+		"reuse",
+		"string"
+	],
 	"title": "Automated locality optimization based on the reuse distance of string operations",
 	"type": "inproceedings",
 	"venue": "CGO",

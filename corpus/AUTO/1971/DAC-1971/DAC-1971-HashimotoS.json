@@ -1,14 +1,31 @@
 {
-	"author": ["Akihiro Hashimoto", "James G. Stevens"],
-	"booktitle": "DAC",
+	"author": [
+		"Akihiro Hashimoto",
+		"James G. Stevens"
+	],
+	"booktitle": "Proceedings of the Eighth Design Automation Workshop",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1971",
 	"dblpkey": "conf/dac/HashimotoS71",
 	"doi": "10.1145/800158.805069",
 	"ee": "http://doi.acm.org/10.1145/800158.805069",
 	"pages": "155-169",
 	"publisher": "ACM",
-	"stemmed": ["wire", "rout", "by", "optim", "channel", "assign", "within", "larg", "apertur"],
-	"tag": ["optimisation", "scalability"],
+	"stemmed": [
+		"wire",
+		"rout",
+		"by",
+		"optim",
+		"channel",
+		"assign",
+		"within",
+		"larg",
+		"apertur"
+	],
+	"tag": [
+		"optimisation",
+		"scalability"
+	],
 	"title": "Wire routing by optimizing channel assignment within large apertures",
 	"type": "inproceedings",
 	"venue": "DAC",

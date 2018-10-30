@@ -1,6 +1,11 @@
 {
-	"author": ["Roy Dyckhoff", "Delia Kesner", "Stéphane Lengrand"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Roy Dyckhoff",
+		"Delia Kesner",
+		"Stéphane Lengrand"
+	],
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/DyckhoffKL06",
 	"doi": "10.1007/11814771_31",
@@ -10,11 +15,30 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["strong", "cut", "elimin", "system", "for", "hudelmai", "s", "depth", "bound", "sequent", "calculus", "for", "implic", "logic"],
-	"tag": ["bound", "calculus", "logic"],
+	"stemmed": [
+		"strong",
+		"cut",
+		"elimin",
+		"system",
+		"for",
+		"hudelmai",
+		"s",
+		"depth",
+		"bound",
+		"sequent",
+		"calculus",
+		"for",
+		"implic",
+		"logic"
+	],
+	"tag": [
+		"bound",
+		"calculus",
+		"logic"
+	],
 	"title": "Strong Cut-Elimination Systems for Hudelmaier’s Depth-Bounded Sequent Calculus for Implicational Logic",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

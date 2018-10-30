@@ -1,6 +1,9 @@
 {
-	"author": ["Rimma V. Nehme", "Nicolas Bruno"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Rimma V. Nehme",
+		"Nicolas Bruno"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/NehmeB11",
@@ -8,8 +11,22 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989444",
 	"pages": "1137-1148",
 	"publisher": "ACM",
-	"stemmed": ["autom", "partit", "design", "in", "parallel", "databas", "system"],
-	"tag": ["automation", "clustering", "database", "design", "parallel"],
+	"stemmed": [
+		"autom",
+		"partit",
+		"design",
+		"in",
+		"parallel",
+		"databas",
+		"system"
+	],
+	"tag": [
+		"automation",
+		"clustering",
+		"database",
+		"design",
+		"parallel"
+	],
 	"title": "Automated partitioning design in parallel database systems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

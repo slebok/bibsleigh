@@ -1,14 +1,26 @@
 {
-	"author": ["Rupesh Nasre", "Martin Burtscher", "Keshav Pingali"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Rupesh Nasre",
+		"Martin Burtscher",
+		"Keshav Pingali"
+	],
+	"booktitle": "Proceedings of the 18th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2013",
 	"dblpkey": "conf/ppopp/NasreBP13",
 	"doi": "10.1145/2442516.2442531",
 	"ee": "http://doi.acm.org/10.1145/2442516.2442531",
 	"pages": "147-156",
 	"publisher": "ACM",
-	"stemmed": ["morph", "algorithm", "on", "gpus"],
-	"tag": ["algorithm"],
+	"stemmed": [
+		"morph",
+		"algorithm",
+		"on",
+		"gpus"
+	],
+	"tag": [
+		"algorithm"
+	],
 	"title": "Morph algorithms on GPUs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

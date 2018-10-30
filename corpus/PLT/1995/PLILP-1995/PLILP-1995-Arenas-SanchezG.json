@@ -1,6 +1,10 @@
 {
-	"author": ["Puri Arenas-Sánchez", "Ana Gil-Luezas"],
+	"author": [
+		"Puri Arenas-Sánchez",
+		"Ana Gil-Luezas"
+	],
 	"booktitle": "Proceedings of the Seventh International Symposium on Programming Languages: Implementations, Logics and Programs",
+	"booktitleshort": "PPDP",
 	"crossref": "conf/plilp/95",
 	"dblpkey": "conf/plilp/Arenas-SanchezG95",
 	"doi": "10.1007/BFb0026836",
@@ -10,11 +14,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "debug", "model", "for", "lazi", "narrow"],
-	"tag": ["debugging", "lazy evaluation"],
+	"stemmed": [
+		"a",
+		"debug",
+		"model",
+		"for",
+		"lazi",
+		"narrow"
+	],
+	"tag": [
+		"debugging",
+		"lazy evaluation"
+	],
 	"title": "A Debugging Model for Lazy Narrowing",
 	"type": "inproceedings",
 	"venue": "PPDP",
-	"volume": 982,
+	"volume": "982",
 	"year": 1995
 }

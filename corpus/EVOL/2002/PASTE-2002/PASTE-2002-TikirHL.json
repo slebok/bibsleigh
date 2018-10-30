@@ -1,14 +1,30 @@
 {
-	"author": ["Mustafa M. Tikir", "Jeffrey K. Hollingsworth", "Guei-Yuan Lueh"],
-	"booktitle": "PASTE",
+	"author": [
+		"Mustafa M. Tikir",
+		"Jeffrey K. Hollingsworth",
+		"Guei-Yuan Lueh"
+	],
+	"booktitle": "Proceedings of the Fourth Workshop on Program Analysis for Software Tools and Engineering",
+	"booktitleshort": "PASTE",
 	"crossref": "conf/paste/2002",
 	"dblpkey": "conf/paste/TikirHL02",
 	"doi": "10.1145/586094.586100",
 	"ee": "http://doi.acm.org/10.1145/586094.586100",
 	"pages": "10-17",
 	"publisher": "ACM",
-	"stemmed": ["recompil", "for", "debug", "support", "in", "a", "jit", "compil"],
-	"tag": ["debugging"],
+	"stemmed": [
+		"recompil",
+		"for",
+		"debug",
+		"support",
+		"in",
+		"a",
+		"jit",
+		"compil"
+	],
+	"tag": [
+		"debugging"
+	],
 	"title": "Recompilation for debugging support in a JIT-compiler",
 	"type": "inproceedings",
 	"venue": "PASTE",

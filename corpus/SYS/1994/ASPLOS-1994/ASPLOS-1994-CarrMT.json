@@ -1,14 +1,30 @@
 {
-	"author": ["Steve Carr", "Kathryn S. McKinley", "Chau-Wen Tseng"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Steve Carr",
+		"Kathryn S. McKinley",
+		"Chau-Wen Tseng"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1994",
 	"dblpkey": "conf/asplos/CarrMT94",
 	"doi": "10.1145/195473.195557",
 	"ee": "http://doi.acm.org/10.1145/195473.195557",
 	"pages": "252-262",
 	"publisher": "ACM Press",
-	"stemmed": ["compil", "optim", "for", "improv", "data", "local"],
-	"tag": ["compilation", "locality", "optimisation"],
+	"stemmed": [
+		"compil",
+		"optim",
+		"for",
+		"improv",
+		"data",
+		"local"
+	],
+	"tag": [
+		"compilation",
+		"locality",
+		"optimisation"
+	],
 	"title": "Compiler Optimizations for Improving Data Locality",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

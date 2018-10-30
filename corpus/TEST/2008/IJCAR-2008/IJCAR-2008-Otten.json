@@ -1,6 +1,7 @@
 {
 	"author": "Jens Otten",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Fourth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2008",
 	"dblpkey": "conf/cade/Otten08",
 	"doi": "10.1007/978-3-540-71070-7_23",
@@ -10,11 +11,33 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["leancop", "and", "ileancop", "high", "perform", "lean", "theorem", "prove", "in", "classic", "and", "intuitionist", "logic", "system", "descript"],
-	"tag": ["agile", "logic", "performance", "proving", "theorem proving"],
+	"stemmed": [
+		"leancop",
+		"and",
+		"ileancop",
+		"high",
+		"perform",
+		"lean",
+		"theorem",
+		"prove",
+		"in",
+		"classic",
+		"and",
+		"intuitionist",
+		"logic",
+		"system",
+		"descript"
+	],
+	"tag": [
+		"agile",
+		"logic",
+		"performance",
+		"proving",
+		"theorem proving"
+	],
 	"title": "leanCoP 2.0and ileanCoP 1.2: High Performance Lean Theorem Proving in Classical and Intuitionistic Logic (System Descriptions)",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 5195,
+	"volume": "5195",
 	"year": 2008
 }

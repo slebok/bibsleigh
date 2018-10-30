@@ -1,14 +1,39 @@
 {
-	"author": ["Bojan Maric", "Jaume Abella", "Mateo Valero"],
-	"booktitle": "DAC",
+	"author": [
+		"Bojan Maric",
+		"Jaume Abella",
+		"Mateo Valero"
+	],
+	"booktitle": "Proceedings of the 50th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2013",
 	"dblpkey": "conf/dac/MaricAV13",
 	"doi": "10.1145/2463209.2488837",
 	"ee": "http://doi.acm.org/10.1145/2463209.2488837",
 	"pages": "84:1-84:8",
 	"publisher": "ACM",
-	"stemmed": ["appl", "adapt", "perform", "predict", "low", "energi", "cach", "for", "reliabl", "hybrid", "voltag", "oper"],
-	"tag": ["adaptation", "energy", "hybrid", "named", "predict", "reliability"],
+	"stemmed": [
+		"appl",
+		"adapt",
+		"perform",
+		"predict",
+		"low",
+		"energi",
+		"cach",
+		"for",
+		"reliabl",
+		"hybrid",
+		"voltag",
+		"oper"
+	],
+	"tag": [
+		"adaptation",
+		"energy",
+		"hybrid",
+		"named",
+		"predict",
+		"reliability"
+	],
 	"title": "APPLE: adaptive performance-predictable low-energy caches for reliable hybrid voltage operation",
 	"type": "inproceedings",
 	"venue": "DAC",

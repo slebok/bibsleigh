@@ -1,13 +1,28 @@
 {
-	"author": ["Anastassia Ailamaki", "David J. DeWitt", "Mark D. Hill", "Marios Skounakis"],
-	"booktitle": "VLDB",
+	"author": [
+		"Anastassia Ailamaki",
+		"David J. DeWitt",
+		"Mark D. Hill",
+		"Marios Skounakis"
+	],
+	"booktitle": "Proceedings of the 27th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2001",
 	"dblpkey": "conf/vldb/AilamakiDHS01",
 	"ee": "http://www.vldb.org/conf/2001/P169.pdf",
 	"pages": "169-180",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["weav", "relat", "for", "cach", "perform"],
-	"tag": ["performance", "weaving"],
+	"stemmed": [
+		"weav",
+		"relat",
+		"for",
+		"cach",
+		"perform"
+	],
+	"tag": [
+		"performance",
+		"weaving"
+	],
 	"title": "Weaving Relations for Cache Performance",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,11 @@
 {
-	"author": ["Christoph Beierle", "Gabriele Kern-Isberner", "Nicole Koch"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Christoph Beierle",
+		"Gabriele Kern-Isberner",
+		"Nicole Koch"
+	],
+	"booktitle": "Proceedings of the Fourth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2008",
 	"dblpkey": "conf/cade/BeierleKK08",
 	"doi": "10.1007/978-3-540-71070-7_12",
@@ -10,11 +15,31 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "high", "level", "implement", "of", "a", "system", "for", "autom", "reason", "with", "default", "rule", "system", "descript"],
-	"tag": ["automation", "implementation", "reasoning"],
+	"stemmed": [
+		"a",
+		"high",
+		"level",
+		"implement",
+		"of",
+		"a",
+		"system",
+		"for",
+		"autom",
+		"reason",
+		"with",
+		"default",
+		"rule",
+		"system",
+		"descript"
+	],
+	"tag": [
+		"automation",
+		"implementation",
+		"reasoning"
+	],
 	"title": "A High-Level Implementation of a System for Automated Reasoning with Default Rules (System Description)",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 5195,
+	"volume": "5195",
 	"year": 2008
 }

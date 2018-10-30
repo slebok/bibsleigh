@@ -1,13 +1,30 @@
 {
-	"author": ["Themistoklis Palpanas", "Richard Sidle", "Roberta Cochrane", "Hamid Pirahesh"],
-	"booktitle": "VLDB",
+	"author": [
+		"Themistoklis Palpanas",
+		"Richard Sidle",
+		"Roberta Cochrane",
+		"Hamid Pirahesh"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/PalpanasSCP02",
 	"ee": "http://www.vldb.org/conf/2002/S22P04.pdf",
 	"pages": "802-813",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["increment", "mainten", "for", "non", "distribut", "aggreg", "function"],
-	"tag": ["incremental", "maintenance"],
+	"stemmed": [
+		"increment",
+		"mainten",
+		"for",
+		"non",
+		"distribut",
+		"aggreg",
+		"function"
+	],
+	"tag": [
+		"incremental",
+		"maintenance"
+	],
 	"title": "Incremental Maintenance for Non-Distributive Aggregate Functions",
 	"type": "inproceedings",
 	"venue": "VLDB",

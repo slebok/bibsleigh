@@ -1,6 +1,10 @@
 {
-	"author": ["A. J. J. Dick", "Jim Cunningham"],
-	"booktitle": "CADE",
+	"author": [
+		"A. J. J. Dick",
+		"Jim Cunningham"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/DickC86",
 	"doi": "10.1007/3-540-16780-3_96",
@@ -10,11 +14,32 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["use", "narrow", "to", "do", "isol", "in", "symbol", "equat", "solv", "an", "experi", "in", "autom", "reason"],
-	"tag": ["automation", "empirical", "equation", "reasoning", "using"],
+	"stemmed": [
+		"use",
+		"narrow",
+		"to",
+		"do",
+		"isol",
+		"in",
+		"symbol",
+		"equat",
+		"solv",
+		"an",
+		"experi",
+		"in",
+		"autom",
+		"reason"
+	],
+	"tag": [
+		"automation",
+		"empirical",
+		"equation",
+		"reasoning",
+		"using"
+	],
 	"title": "Using Narrowing to do Isolation in Symbolic Equation Solving — An Experiment in Automated Reasoning",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

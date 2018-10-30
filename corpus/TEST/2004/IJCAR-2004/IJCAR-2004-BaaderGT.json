@@ -1,6 +1,11 @@
 {
-	"author": ["Franz Baader", "Silvio Ghilardi", "Cesare Tinelli"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Franz Baader",
+		"Silvio Ghilardi",
+		"Cesare Tinelli"
+	],
+	"booktitle": "Proceedings of the Second International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2004",
 	"dblpkey": "conf/cade/BaaderGT04",
 	"doi": "10.1007/978-3-540-25984-8_11",
@@ -10,11 +15,33 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "new", "combin", "procedur", "for", "the", "word", "problem", "that", "general", "fusion", "decid", "result", "in", "modal", "logic"],
-	"tag": ["decidability", "logic", "problem", "word"],
+	"stemmed": [
+		"a",
+		"new",
+		"combin",
+		"procedur",
+		"for",
+		"the",
+		"word",
+		"problem",
+		"that",
+		"general",
+		"fusion",
+		"decid",
+		"result",
+		"in",
+		"modal",
+		"logic"
+	],
+	"tag": [
+		"decidability",
+		"logic",
+		"problem",
+		"word"
+	],
 	"title": "A New Combination Procedure for the Word Problem That Generalizes Fusion Decidability Results in Modal Logics",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 3097,
+	"volume": "3097",
 	"year": 2004
 }

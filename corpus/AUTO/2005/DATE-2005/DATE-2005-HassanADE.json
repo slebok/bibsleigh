@@ -1,6 +1,12 @@
 {
-	"author": ["Hassan Hassan", "Mohab Anis", "Antoine El Daher", "Mohamed I. Elmasry"],
-	"booktitle": "DATE",
+	"author": [
+		"Hassan Hassan",
+		"Mohab Anis",
+		"Antoine El Daher",
+		"Mohamed I. Elmasry"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/HassanADE05",
 	"doi": "10.1109/DATE.2005.48",
@@ -8,8 +14,21 @@
 	"pages": "212-217",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["activ", "pack", "in", "fpgas", "for", "leakag", "power", "reduct"],
-	"tag": ["power management", "process", "reduction"],
+	"stemmed": [
+		"activ",
+		"pack",
+		"in",
+		"fpgas",
+		"for",
+		"leakag",
+		"power",
+		"reduct"
+	],
+	"tag": [
+		"power management",
+		"process",
+		"reduction"
+	],
 	"title": "Activity Packing in FPGAs for Leakage Power Reduction",
 	"type": "inproceedings",
 	"venue": "DATE",

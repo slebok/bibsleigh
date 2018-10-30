@@ -1,6 +1,11 @@
 {
-	"author": ["Timothy Jones", "Michael Homer", "James Noble"],
-	"booktitle": "ECOOP",
+	"author": [
+		"Timothy Jones",
+		"Michael Homer",
+		"James Noble"
+	],
+	"booktitle": "Proceedings of the 29th European Conference on Object-Oriented Programming",
+	"booktitleshort": "ECOOP",
 	"crossref": "conf/ecoop/2015",
 	"dblpkey": "conf/ecoop/JonesHN15",
 	"doi": "10.4230/LIPIcs.ECOOP.2015.198",
@@ -10,11 +15,19 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["brand", "object", "for", "nomin", "type"],
-	"tag": ["type system"],
+	"stemmed": [
+		"brand",
+		"object",
+		"for",
+		"nomin",
+		"type"
+	],
+	"tag": [
+		"type system"
+	],
 	"title": "Brand Objects for Nominal Typing",
 	"type": "inproceedings",
 	"venue": "ECOOP",
-	"volume": 37,
+	"volume": "37",
 	"year": 2015
 }

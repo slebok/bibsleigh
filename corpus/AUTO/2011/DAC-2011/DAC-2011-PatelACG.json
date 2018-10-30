@@ -1,14 +1,33 @@
 {
-	"author": ["Avadh Patel", "Furat Afram", "Shunfei Chen", "Kanad Ghose"],
-	"booktitle": "DAC",
+	"author": [
+		"Avadh Patel",
+		"Furat Afram",
+		"Shunfei Chen",
+		"Kanad Ghose"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/PatelACG11",
 	"doi": "10.1145/2024724.2024954",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024954",
 	"pages": "1050-1055",
 	"publisher": "ACM",
-	"stemmed": ["marss", "a", "full", "system", "simul", "for", "multicor", "x", "cpus"],
-	"tag": ["manycore", "named"],
+	"stemmed": [
+		"marss",
+		"a",
+		"full",
+		"system",
+		"simul",
+		"for",
+		"multicor",
+		"x",
+		"cpus"
+	],
+	"tag": [
+		"manycore",
+		"named"
+	],
 	"title": "MARSS: a full system simulator for multicore x86 CPUs",
 	"type": "inproceedings",
 	"venue": "DAC",

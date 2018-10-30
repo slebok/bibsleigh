@@ -1,6 +1,13 @@
 {
-	"author": ["Partha Biswas", "Sudarshan Banerjee", "Nikil D. Dutt", "Laura Pozzi", "Paolo Ienne"],
-	"booktitle": "DATE",
+	"author": [
+		"Partha Biswas",
+		"Sudarshan Banerjee",
+		"Nikil D. Dutt",
+		"Laura Pozzi",
+		"Paolo Ienne"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/BiswasBDPI05",
 	"doi": "10.1109/DATE.2005.191",
@@ -8,8 +15,24 @@
 	"pages": "1246-1251",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["isegen", "generat", "of", "high", "qualiti", "instruct", "set", "extens", "by", "iter", "improv"],
-	"tag": ["generative", "named", "set"],
+	"stemmed": [
+		"isegen",
+		"generat",
+		"of",
+		"high",
+		"qualiti",
+		"instruct",
+		"set",
+		"extens",
+		"by",
+		"iter",
+		"improv"
+	],
+	"tag": [
+		"generative",
+		"named",
+		"set"
+	],
 	"title": "ISEGEN: Generation of High-Quality Instruction Set Extensions by Iterative Improvement",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,12 +1,33 @@
 {
-	"address": ["Cincinnati", "Ohio", "USA"],
-	"author": ["Fadi A. Aloul", "Brian Sierawski", "Karem Sakallah"],
+	"address": [
+		"Cincinnati",
+		"Ohio",
+		"USA"
+	],
+	"author": [
+		"Fadi A. Aloul",
+		"Brian Sierawski",
+		"Karem Sakallah"
+	],
 	"booktitle": "Proceedings of the Fifth International Symposium on the Theory and Applications of Satisfiability Testing",
+	"booktitleshort": "SAT",
 	"editor": "John Franco",
 	"month": "may",
-	"pages": 28,
-	"stemmed": ["a", "tool", "for", "measur", "progress", "of", "backtrack", "search", "solver"],
-	"tag": ["backtracking"],
+	"pages": "28",
+	"stemmed": [
+		"a",
+		"tool",
+		"for",
+		"measur",
+		"progress",
+		"of",
+		"backtrack",
+		"search",
+		"solver"
+	],
+	"tag": [
+		"backtracking"
+	],
 	"title": "A tool for measuring progress of backtrack-search solvers",
 	"type": "inproceedings",
 	"venue": "SAT",

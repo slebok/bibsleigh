@@ -1,14 +1,37 @@
 {
-	"author": ["Luis Gravano", "Panagiotis G. Ipeirotis", "H. V. Jagadish", "Nick Koudas", "S. Muthukrishnan", "Divesh Srivastava"],
-	"booktitle": "VLDB",
+	"author": [
+		"Luis Gravano",
+		"Panagiotis G. Ipeirotis",
+		"H. V. Jagadish",
+		"Nick Koudas",
+		"S. Muthukrishnan",
+		"Divesh Srivastava"
+	],
+	"booktitle": "Proceedings of the 27th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2001",
 	"dblpkey": "conf/vldb/GravanoIJKMS01",
 	"ee": "http://www.vldb.org/conf/2001/P491.pdf",
 	"note": "Erratum at http://www1.cs.columbia.edu/~library/TR-repository/reports/reports-2003/cucs-011-03.pdf",
 	"pages": "491-500",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["approxim", "string", "join", "in", "a", "databas", "almost", "for", "free"],
-	"tag": ["approximate", "database", "for free", "string"],
+	"stemmed": [
+		"approxim",
+		"string",
+		"join",
+		"in",
+		"a",
+		"databas",
+		"almost",
+		"for",
+		"free"
+	],
+	"tag": [
+		"approximate",
+		"database",
+		"for free",
+		"string"
+	],
 	"title": "Approximate String Joins in a Database (Almost) for Free",
 	"type": "inproceedings",
 	"venue": "VLDB",

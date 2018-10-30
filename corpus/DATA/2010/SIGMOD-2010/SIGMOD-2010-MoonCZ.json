@@ -1,6 +1,10 @@
 {
-	"author": ["Hyun Jin Moon", "Carlo Curino", "Carlo Zaniolo"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Hyun Jin Moon",
+		"Carlo Curino",
+		"Carlo Zaniolo"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/MoonCZ10",
@@ -8,8 +12,27 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807192",
 	"pages": "207-218",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "architectur", "and", "queri", "optim", "fortransact", "time", "dbs", "with", "evolv", "schema"],
-	"tag": ["architecture", "evolution", "optimisation", "query", "scalability", "transaction"],
+	"stemmed": [
+		"scalabl",
+		"architectur",
+		"and",
+		"queri",
+		"optim",
+		"fortransact",
+		"time",
+		"dbs",
+		"with",
+		"evolv",
+		"schema"
+	],
+	"tag": [
+		"architecture",
+		"evolution",
+		"optimisation",
+		"query",
+		"scalability",
+		"transaction"
+	],
 	"title": "Scalable architecture and query optimization fortransaction-time DBs with evolving schemas",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

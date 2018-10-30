@@ -1,14 +1,38 @@
 {
-	"author": ["Ido Guy", "Naama Zwerdling", "David Carmel", "Inbal Ronen", "Erel Uziel", "Sivan Yogev", "Shila Ofek-Koifman"],
-	"booktitle": "RecSys",
+	"author": [
+		"Ido Guy",
+		"Naama Zwerdling",
+		"David Carmel",
+		"Inbal Ronen",
+		"Erel Uziel",
+		"Sivan Yogev",
+		"Shila Ofek-Koifman"
+	],
+	"booktitle": "Proceedings of the Third Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2009",
 	"dblpkey": "conf/recsys/GuyZCRUYO09",
 	"doi": "10.1145/1639714.1639725",
 	"ee": "http://doi.acm.org/10.1145/1639714.1639725",
 	"pages": "53-60",
 	"publisher": "ACM",
-	"stemmed": ["person", "recommend", "of", "social", "softwar", "item", "base", "on", "social", "relat"],
-	"tag": ["personalisation", "recommendation", "social"],
+	"stemmed": [
+		"person",
+		"recommend",
+		"of",
+		"social",
+		"softwar",
+		"item",
+		"base",
+		"on",
+		"social",
+		"relat"
+	],
+	"tag": [
+		"personalisation",
+		"recommendation",
+		"social"
+	],
 	"title": "Personalized recommendation of social software items based on social relations",
 	"type": "inproceedings",
 	"venue": "RecSys",

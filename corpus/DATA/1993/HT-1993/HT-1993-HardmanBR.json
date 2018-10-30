@@ -1,6 +1,11 @@
 {
-	"author": ["Lynda Hardman", "Dick C. A. Bulterman", "Guido van Rossum"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Lynda Hardman",
+		"Dick C. A. Bulterman",
+		"Guido van Rossum"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1993/P183.pdf",
 	"crossref": "conf/ht/93",
 	"dblpkey": "conf/ht/HardmanBR93",
@@ -8,8 +13,18 @@
 	"ee": "http://doi.acm.org/10.1145/168750.168822",
 	"pages": "183-191",
 	"publisher": "ACM",
-	"stemmed": ["link", "in", "hypermedia", "the", "requir", "for", "context"],
-	"tag": ["hypermedia"],
+	"stemmed": [
+		"link",
+		"in",
+		"hypermedia",
+		"the",
+		"requir",
+		"for",
+		"context"
+	],
+	"tag": [
+		"hypermedia"
+	],
 	"title": "Links in Hypermedia: The Requirement for Context",
 	"type": "inproceedings",
 	"venue": "HT",

@@ -1,14 +1,31 @@
 {
-	"acmid": 1164166,
-	"author": ["Zoltán Gyöngyi", "Pavel Berkhin", "Hector Garcia-Molina", "Jan O. Pedersen"],
-	"booktitle": "VLDB",
+	"acmid": "1164166",
+	"author": [
+		"Zoltán Gyöngyi",
+		"Pavel Berkhin",
+		"Hector Garcia-Molina",
+		"Jan O. Pedersen"
+	],
+	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
 	"dblpkey": "conf/vldb/GyongyiBGP06",
 	"ee": "http://www.vldb.org/conf/2006/p439-gyongyi.pdf",
 	"pages": "439-450",
 	"publisher": "ACM",
-	"stemmed": ["link", "spam", "detect", "base", "on", "mass", "estim"],
-	"tag": ["detection", "estimation"],
+	"stemmed": [
+		"link",
+		"spam",
+		"detect",
+		"base",
+		"on",
+		"mass",
+		"estim"
+	],
+	"tag": [
+		"detection",
+		"estimation"
+	],
 	"title": "Link Spam Detection Based on Mass Estimation",
 	"type": "inproceedings",
 	"venue": "VLDB",

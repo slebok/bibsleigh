@@ -1,6 +1,9 @@
 {
-	"author": ["Arvind Arasu", "Hector Garcia-Molina"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Arvind Arasu",
+		"Hector Garcia-Molina"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/ArasuG03",
@@ -8,8 +11,17 @@
 	"ee": "http://doi.acm.org/10.1145/872757.872799",
 	"pages": "337-348",
 	"publisher": "ACM",
-	"stemmed": ["extract", "structur", "data", "from", "web", "page"],
-	"tag": ["web"],
+	"stemmed": [
+		"extract",
+		"structur",
+		"data",
+		"from",
+		"web",
+		"page"
+	],
+	"tag": [
+		"web"
+	],
 	"title": "Extracting Structured Data from Web Pages",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,26 @@
 {
 	"author": "Andreu Vall",
-	"booktitle": "RecSys",
+	"booktitle": "Proceedings of the Ninth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2015",
 	"dblpkey": "conf/recsys/Vall15",
 	"doi": "10.1145/2792838.2796548",
 	"ee": "http://doi.acm.org/10.1145/2792838.2796548",
 	"pages": "387-390",
 	"publisher": "ACM",
-	"stemmed": ["listen", "inspir", "autom", "music", "playlist", "generat"],
-	"tag": ["automation", "generative", "music"],
+	"stemmed": [
+		"listen",
+		"inspir",
+		"autom",
+		"music",
+		"playlist",
+		"generat"
+	],
+	"tag": [
+		"automation",
+		"generative",
+		"music"
+	],
 	"title": "Listener-Inspired Automated Music Playlist Generation",
 	"type": "inproceedings",
 	"venue": "RecSys",

@@ -1,14 +1,36 @@
 {
-	"author": ["Yi-Ping You", "Hen-Jung Wu", "Yeh-Ning Tsai", "Yen-Ting Chao"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Yi-Ping You",
+		"Hen-Jung Wu",
+		"Yeh-Ning Tsai",
+		"Yen-Ting Chao"
+	],
+	"booktitle": "Proceedings of the 20th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2015",
 	"dblpkey": "conf/ppopp/YouWTC15",
 	"doi": "10.1145/2688500.2688505",
 	"ee": "http://doi.acm.org/10.1145/2688500.2688505",
 	"pages": "161-172",
 	"publisher": "ACM",
-	"stemmed": ["virt", "cl", "a", "framework", "for", "open", "cl", "devic", "abstract", "and", "manag"],
-	"tag": ["abstraction", "framework", "named"],
+	"stemmed": [
+		"virt",
+		"cl",
+		"a",
+		"framework",
+		"for",
+		"open",
+		"cl",
+		"devic",
+		"abstract",
+		"and",
+		"manag"
+	],
+	"tag": [
+		"abstraction",
+		"framework",
+		"named"
+	],
 	"title": "VirtCL: a framework for OpenCL device abstraction and management",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,6 +1,10 @@
 {
-	"author": ["Stephen F. Siegel", "Timothy K. Zirkel"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Stephen F. Siegel",
+		"Timothy K. Zirkel"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2012",
 	"dblpkey": "conf/vmcai/SiegelZ12",
 	"doi": "10.1007/978-3-642-27940-9_27",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["loop", "invari", "symbol", "execut", "for", "parallel", "program"],
-	"tag": ["execution", "invariant", "parallel", "source code", "symbolic computation"],
+	"stemmed": [
+		"loop",
+		"invari",
+		"symbol",
+		"execut",
+		"for",
+		"parallel",
+		"program"
+	],
+	"tag": [
+		"execution",
+		"invariant",
+		"parallel",
+		"source code",
+		"symbolic computation"
+	],
 	"title": "Loop Invariant Symbolic Execution for Parallel Programs",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 7148,
+	"volume": "7148",
 	"year": 2012
 }

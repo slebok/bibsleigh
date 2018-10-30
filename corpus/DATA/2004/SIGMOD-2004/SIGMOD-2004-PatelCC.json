@@ -1,15 +1,34 @@
 {
-	"author": ["Jignesh M. Patel", "Yun Chen", "V. Prasad Chakka"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jignesh M. Patel",
+		"Yun Chen",
+		"V. Prasad Chakka"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/PatelCC04",
 	"doi": "10.1145/1007568.1007639",
-	"ee": ["http://doi.acm.org/10.1145/1007568.1007639", "http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-537.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1007568.1007639",
+		"http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-537.pdf"
+	],
 	"pages": "637-646",
 	"publisher": "ACM",
-	"stemmed": ["stripe", "an", "effici", "index", "for", "predict", "trajectori"],
-	"tag": ["named", "performance", "predict"],
+	"stemmed": [
+		"stripe",
+		"an",
+		"effici",
+		"index",
+		"for",
+		"predict",
+		"trajectori"
+	],
+	"tag": [
+		"named",
+		"performance",
+		"predict"
+	],
 	"title": "STRIPES: An Efficient Index for Predicted Trajectories",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,10 @@
 {
-	"author": ["Frank Pfenning", "Ekkehard Rohwedder"],
-	"booktitle": "CADE",
+	"author": [
+		"Frank Pfenning",
+		"Ekkehard Rohwedder"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/PfenningR92",
 	"doi": "10.1007/3-540-55602-8_190",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["implement", "the", "meta", "theori", "of", "deduct", "system"],
-	"tag": ["deduction", "implementation"],
+	"stemmed": [
+		"implement",
+		"the",
+		"meta",
+		"theori",
+		"of",
+		"deduct",
+		"system"
+	],
+	"tag": [
+		"deduction",
+		"implementation"
+	],
 	"title": "Implementing the Meta-Theory of Deductive Systems",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

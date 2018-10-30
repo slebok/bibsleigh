@@ -1,6 +1,11 @@
 {
-	"author": ["Georgios Giannikis", "Darko Makreshanski", "Gustavo Alonso", "Donald Kossmann"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Georgios Giannikis",
+		"Darko Makreshanski",
+		"Gustavo Alonso",
+		"Donald Kossmann"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/GiannikisMAK13",
@@ -8,8 +13,17 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2463678",
 	"pages": "1045-1048",
 	"publisher": "ACM",
-	"stemmed": ["workload", "optim", "use", "share", "db"],
-	"tag": ["optimisation", "using"],
+	"stemmed": [
+		"workload",
+		"optim",
+		"use",
+		"share",
+		"db"
+	],
+	"tag": [
+		"optimisation",
+		"using"
+	],
 	"title": "Workload optimization using SharedDB",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

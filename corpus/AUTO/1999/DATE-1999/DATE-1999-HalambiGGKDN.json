@@ -1,6 +1,14 @@
 {
-	"author": ["Ashok Halambi", "Peter Grun", "Vijay Ganesh", "Asheesh Khare", "Nikil D. Dutt", "Alexandru Nicolau"],
-	"booktitle": "DATE",
+	"author": [
+		"Ashok Halambi",
+		"Peter Grun",
+		"Vijay Ganesh",
+		"Asheesh Khare",
+		"Nikil D. Dutt",
+		"Alexandru Nicolau"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/HalambiGGKDN99",
 	"doi": "10.1109/DATE.1999.761170",
@@ -8,8 +16,23 @@
 	"pages": "485-490",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["express", "a", "languag", "for", "architectur", "explor", "through", "compil", "simul", "retarget"],
-	"tag": ["architecture", "compilation", "named"],
+	"stemmed": [
+		"express",
+		"a",
+		"languag",
+		"for",
+		"architectur",
+		"explor",
+		"through",
+		"compil",
+		"simul",
+		"retarget"
+	],
+	"tag": [
+		"architecture",
+		"compilation",
+		"named"
+	],
 	"title": "EXPRESSION: A Language for Architecture Exploration through Compiler/Simulator Retargetability",
 	"type": "inproceedings",
 	"venue": "DATE",

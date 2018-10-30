@@ -1,14 +1,35 @@
 {
-	"author": ["David Tarditi", "Sidd Puri", "Jose Oglesby"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"David Tarditi",
+		"Sidd Puri",
+		"Jose Oglesby"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/TarditiPO06",
 	"doi": "10.1145/1168857.1168898",
 	"ee": "http://doi.acm.org/10.1145/1168857.1168898",
 	"pages": "325-335",
 	"publisher": "ACM",
-	"stemmed": ["acceler", "use", "data", "parallel", "to", "program", "gpus", "for", "general", "purpos", "use"],
-	"tag": ["named", "parallel", "using"],
+	"stemmed": [
+		"acceler",
+		"use",
+		"data",
+		"parallel",
+		"to",
+		"program",
+		"gpus",
+		"for",
+		"general",
+		"purpos",
+		"use"
+	],
+	"tag": [
+		"named",
+		"parallel",
+		"using"
+	],
 	"title": "Accelerator: using data parallelism to program GPUs for general-purpose uses",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

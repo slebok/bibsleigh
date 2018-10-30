@@ -1,14 +1,31 @@
 {
-	"author": ["Bahman Bahmani", "Ravi Kumar", "Mohammad Mahdian", "Eli Upfal"],
-	"booktitle": "KDD",
+	"author": [
+		"Bahman Bahmani",
+		"Ravi Kumar",
+		"Mohammad Mahdian",
+		"Eli Upfal"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/BahmaniKMU12",
 	"doi": "10.1145/2339530.2339539",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339539",
 	"pages": "24-32",
 	"publisher": "ACM",
-	"stemmed": ["page", "rank", "on", "an", "evolv", "graph"],
-	"tag": ["evolution", "graph", "rank"],
+	"stemmed": [
+		"page",
+		"rank",
+		"on",
+		"an",
+		"evolv",
+		"graph"
+	],
+	"tag": [
+		"evolution",
+		"graph",
+		"rank"
+	],
 	"title": "PageRank on an evolving graph",
 	"type": "inproceedings",
 	"venue": "KDD",

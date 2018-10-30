@@ -1,16 +1,45 @@
 {
 	"author": "Doron Rotem",
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS89/P225.PDF", "journals/anthology/dvd1:text/1-3/PODS89/P225.PDF"],
-	"cite": ["journals/tods/AhoU79", "journals/jacm/Bolour79", "conf/sigmod/ChristodoulakisF88", "journals/tods/FaginNPS79", "conf/sigmod/Faloutsos86", "journals/tods/Moran83", "journals/tods/NievergeltHS84", "conf/pods/OrensteinM84", "journals/tods/RamamohanaraoL83", "...", "journals/siamcomp/Rivest76", "conf/sigmod/Robinson81", "journals/cacm/RothnieL74", "books/ph/Salzberg88", "journals/csur/Samet84", "journals/is/ScheuermannO82"],
+	"booktitle": "Proceedings of the Eighth Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS89/P225.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS89/P225.PDF"
+	],
+	"cite": [
+		"journals/tods/AhoU79",
+		"journals/jacm/Bolour79",
+		"conf/sigmod/ChristodoulakisF88",
+		"journals/tods/FaginNPS79",
+		"conf/sigmod/Faloutsos86",
+		"journals/tods/Moran83",
+		"journals/tods/NievergeltHS84",
+		"conf/pods/OrensteinM84",
+		"journals/tods/RamamohanaraoL83",
+		"...",
+		"journals/siamcomp/Rivest76",
+		"conf/sigmod/Robinson81",
+		"journals/cacm/RothnieL74",
+		"books/ph/Salzberg88",
+		"journals/csur/Samet84",
+		"journals/is/ScheuermannO82"
+	],
 	"crossref": "conf/pods/89",
 	"dblpkey": "conf/pods/Rotem89",
 	"doi": "10.1145/73721.73744",
 	"ee": "http://doi.acm.org/10.1145/73721.73744",
 	"pages": "225-234",
 	"publisher": "ACM Press",
-	"stemmed": ["cluster", "multiattribut", "hash", "file"],
-	"tag": ["clustering", "multi"],
+	"stemmed": [
+		"cluster",
+		"multiattribut",
+		"hash",
+		"file"
+	],
+	"tag": [
+		"clustering",
+		"multi"
+	],
 	"title": "Clustered Multiattribute Hash Files",
 	"type": "inproceedings",
 	"venue": "PODS",

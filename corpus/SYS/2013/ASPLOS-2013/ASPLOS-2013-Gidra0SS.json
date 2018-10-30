@@ -1,14 +1,39 @@
 {
-	"author": ["Lokesh Gidra", "Gaël Thomas", "Julien Sopena", "Marc Shapiro"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Lokesh Gidra",
+		"Gaël Thomas",
+		"Julien Sopena",
+		"Marc Shapiro"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2013",
 	"dblpkey": "conf/asplos/Gidra0SS13",
 	"doi": "10.1145/2451116.2451142",
 	"ee": "http://doi.acm.org/10.1145/2451116.2451142",
 	"pages": "229-240",
 	"publisher": "ACM",
-	"stemmed": ["a", "studi", "of", "the", "scalabl", "of", "stop", "the", "world", "garbag", "collector", "on", "multicor"],
-	"tag": ["case study", "garbage collection", "multi", "scalability"],
+	"stemmed": [
+		"a",
+		"studi",
+		"of",
+		"the",
+		"scalabl",
+		"of",
+		"stop",
+		"the",
+		"world",
+		"garbag",
+		"collector",
+		"on",
+		"multicor"
+	],
+	"tag": [
+		"case study",
+		"garbage collection",
+		"multi",
+		"scalability"
+	],
 	"title": "A study of the scalability of stop-the-world garbage collectors on multicores",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

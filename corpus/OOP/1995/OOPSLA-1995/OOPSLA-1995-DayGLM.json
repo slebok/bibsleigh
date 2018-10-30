@@ -1,6 +1,11 @@
 {
-	"author": ["Mark Day", "Robert Gruber", "Barbara Liskov", "Andrew C. Myers"],
-	"booktitle": "Proceedings of the 10th Annual Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"author": [
+		"Mark Day",
+		"Robert Gruber",
+		"Barbara Liskov",
+		"Andrew C. Myers"
+	],
+	"booktitle": "Proceedings of the 10th Annual Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1995",
 	"dblpkey": "conf/oopsla/DayGLM95",
@@ -10,8 +15,21 @@
 	"isbn": "0-89791-703-0",
 	"pages": "156-168",
 	"publisher": "ACM",
-	"stemmed": ["subtyp", "vs", "where", "claus", "constrain", "parametr", "polymorph"],
-	"tag": ["morphism", "parametricity", "polymorphism", "type system"],
+	"stemmed": [
+		"subtyp",
+		"vs",
+		"where",
+		"claus",
+		"constrain",
+		"parametr",
+		"polymorph"
+	],
+	"tag": [
+		"morphism",
+		"parametricity",
+		"polymorphism",
+		"type system"
+	],
 	"title": "Subtypes vs. Where Clauses: Constraining Parametric Polymorphism",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

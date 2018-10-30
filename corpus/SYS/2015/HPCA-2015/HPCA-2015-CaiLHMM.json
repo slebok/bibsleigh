@@ -1,14 +1,36 @@
 {
-	"author": ["Yu Cai", "Yixin Luo", "Erich F. Haratsch", "Ken Mai", "Onur Mutlu"],
-	"booktitle": "HPCA",
+	"author": [
+		"Yu Cai",
+		"Yixin Luo",
+		"Erich F. Haratsch",
+		"Ken Mai",
+		"Onur Mutlu"
+	],
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2015",
 	"dblpkey": "conf/hpca/CaiLHMM15",
 	"doi": "10.1109/HPCA.2015.7056062",
 	"ee": "http://dx.doi.org/10.1109/HPCA.2015.7056062",
 	"pages": "551-563",
 	"publisher": "IEEE",
-	"stemmed": ["data", "retent", "in", "mlc", "nand", "flash", "memori", "character", "optim", "and", "recoveri"],
-	"tag": ["memory management", "optimisation"],
+	"stemmed": [
+		"data",
+		"retent",
+		"in",
+		"mlc",
+		"nand",
+		"flash",
+		"memori",
+		"character",
+		"optim",
+		"and",
+		"recoveri"
+	],
+	"tag": [
+		"memory management",
+		"optimisation"
+	],
 	"title": "Data retention in MLC NAND flash memory: Characterization, optimization, and recovery",
 	"type": "inproceedings",
 	"venue": "HPCA",

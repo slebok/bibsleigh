@@ -1,6 +1,11 @@
 {
-	"author": ["Leong Hou U", "Nikos Mamoulis", "Klaus Berberich", "Srikanta J. Bedathur"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Leong Hou U",
+		"Nikos Mamoulis",
+		"Klaus Berberich",
+		"Srikanta J. Bedathur"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/UMBB10",
@@ -8,8 +13,18 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807228",
 	"pages": "555-566",
 	"publisher": "ACM",
-	"stemmed": ["durabl", "top", "k", "search", "in", "document", "archiv"],
-	"tag": ["documentation"],
+	"stemmed": [
+		"durabl",
+		"top",
+		"k",
+		"search",
+		"in",
+		"document",
+		"archiv"
+	],
+	"tag": [
+		"documentation"
+	],
 	"title": "Durable top-k search in document archives",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

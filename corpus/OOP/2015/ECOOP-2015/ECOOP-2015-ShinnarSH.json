@@ -1,6 +1,11 @@
 {
-	"author": ["Avraham Shinnar", "Jérôme Siméon", "Martin Hirzel"],
-	"booktitle": "ECOOP",
+	"author": [
+		"Avraham Shinnar",
+		"Jérôme Siméon",
+		"Martin Hirzel"
+	],
+	"booktitle": "Proceedings of the 29th European Conference on Object-Oriented Programming",
+	"booktitleshort": "ECOOP",
 	"crossref": "conf/ecoop/2015",
 	"dblpkey": "conf/ecoop/ShinnarSH15",
 	"doi": "10.4230/LIPIcs.ECOOP.2015.542",
@@ -10,11 +15,25 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["a", "pattern", "calculus", "for", "rule", "languag", "express", "compil", "and", "mechan"],
-	"tag": ["calculus", "compilation"],
+	"stemmed": [
+		"a",
+		"pattern",
+		"calculus",
+		"for",
+		"rule",
+		"languag",
+		"express",
+		"compil",
+		"and",
+		"mechan"
+	],
+	"tag": [
+		"calculus",
+		"compilation"
+	],
 	"title": "A Pattern Calculus for Rule Languages: Expressiveness, Compilation, and Mechanization",
 	"type": "inproceedings",
 	"venue": "ECOOP",
-	"volume": 37,
+	"volume": "37",
 	"year": 2015
 }

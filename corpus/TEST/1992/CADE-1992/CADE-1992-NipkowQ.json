@@ -1,6 +1,10 @@
 {
-	"author": ["Tobias Nipkow", "Zhenyu Qian"],
-	"booktitle": "CADE",
+	"author": [
+		"Tobias Nipkow",
+		"Zhenyu Qian"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/NipkowQ92",
 	"doi": "10.1007/3-540-55602-8_156",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["reduct", "and", "unif", "in", "lambda", "calculi", "with", "subtyp"],
-	"tag": ["reduction", "type system", "unification", "λ-calculus"],
+	"stemmed": [
+		"reduct",
+		"and",
+		"unif",
+		"in",
+		"lambda",
+		"calculi",
+		"with",
+		"subtyp"
+	],
+	"tag": [
+		"reduction",
+		"type system",
+		"unification",
+		"λ-calculus"
+	],
 	"title": "Reduction and Unification in Lambda Calculi with Subtypes",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

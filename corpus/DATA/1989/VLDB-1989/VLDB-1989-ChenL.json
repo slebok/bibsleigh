@@ -1,14 +1,45 @@
 {
-	"author": ["I-Min A. Chen", "Dennis McLeod"],
-	"booktitle": "VLDB",
-	"cite": ["journals/tods/AbiteboulH87", "journals/tois/AfsarmaneshM89", "journals/tods/AlbanoCO85", "journals/tods/BancilhonS81", "journals/tods/DayalB82", "journals/is/FurtadoSS79", "journals/tods/GottlobPZ88", "journals/tods/GriffithsW76", "journals/tods/HammerM81", "conf/oodbs/HudsonK88", "journals/csur/HullK87", "journals/computer/Keller86", "conf/vldb/Keller86", "journals/tods/MylopoulosBW80", "journals/tods/Shipman81", "conf/edbt/ShethLW88"],
+	"author": [
+		"I-Min A. Chen",
+		"Dennis McLeod"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/tods/AbiteboulH87",
+		"journals/tois/AfsarmaneshM89",
+		"journals/tods/AlbanoCO85",
+		"journals/tods/BancilhonS81",
+		"journals/tods/DayalB82",
+		"journals/is/FurtadoSS79",
+		"journals/tods/GottlobPZ88",
+		"journals/tods/GriffithsW76",
+		"journals/tods/HammerM81",
+		"conf/oodbs/HudsonK88",
+		"journals/csur/HullK87",
+		"journals/computer/Keller86",
+		"conf/vldb/Keller86",
+		"journals/tods/MylopoulosBW80",
+		"journals/tods/Shipman81",
+		"conf/edbt/ShethLW88"
+	],
 	"crossref": "conf/vldb/89",
 	"dblpkey": "conf/vldb/ChenL89",
 	"ee": "http://www.vldb.org/conf/1989/P225.PDF",
 	"pages": "225-235",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["deriv", "data", "updat", "in", "semant", "databas"],
-	"tag": ["database", "semantics"],
+	"stemmed": [
+		"deriv",
+		"data",
+		"updat",
+		"in",
+		"semant",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"semantics"
+	],
 	"title": "Derived Data Update in Semantic Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,10 @@
 {
-	"author": ["Hossein M. Sheini", "Karem A. Sakallah"],
-	"booktitle": "DATE",
+	"author": [
+		"Hossein M. Sheini",
+		"Karem A. Sakallah"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/SheiniS05",
 	"doi": "10.1109/DATE.2005.246",
@@ -8,8 +12,20 @@
 	"pages": "684-685",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["pueblo", "a", "modern", "pseudo", "boolean", "sat", "solver"],
-	"tag": ["named", "pseudo", "satisfiability"],
+	"stemmed": [
+		"pueblo",
+		"a",
+		"modern",
+		"pseudo",
+		"boolean",
+		"sat",
+		"solver"
+	],
+	"tag": [
+		"named",
+		"pseudo",
+		"satisfiability"
+	],
 	"title": "Pueblo: A Modern Pseudo-Boolean SAT Solver",
 	"type": "inproceedings",
 	"venue": "DATE",

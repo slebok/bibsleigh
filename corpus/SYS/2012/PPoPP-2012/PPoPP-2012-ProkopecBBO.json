@@ -1,14 +1,31 @@
 {
-	"author": ["Aleksandar Prokopec", "Nathan Grasso Bronson", "Phil Bagwell", "Martin Odersky"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Aleksandar Prokopec",
+		"Nathan Grasso Bronson",
+		"Phil Bagwell",
+		"Martin Odersky"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/ProkopecBBO12",
 	"doi": "10.1145/2145816.2145836",
 	"ee": "http://doi.acm.org/10.1145/2145816.2145836",
 	"pages": "151-160",
 	"publisher": "ACM",
-	"stemmed": ["concurr", "tri", "with", "effici", "non", "block", "snapshot"],
-	"tag": ["concurrent", "performance"],
+	"stemmed": [
+		"concurr",
+		"tri",
+		"with",
+		"effici",
+		"non",
+		"block",
+		"snapshot"
+	],
+	"tag": [
+		"concurrent",
+		"performance"
+	],
 	"title": "Concurrent tries with efficient non-blocking snapshots",
 	"type": "inproceedings",
 	"venue": "PPoPP",

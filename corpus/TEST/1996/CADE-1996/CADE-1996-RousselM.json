@@ -1,6 +1,10 @@
 {
-	"author": ["Olivier Roussel", "Philippe Mathieu"],
-	"booktitle": "CADE",
+	"author": [
+		"Olivier Roussel",
+		"Philippe Mathieu"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/RousselM96",
 	"doi": "10.1007/3-540-61511-3_109",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "new", "method", "for", "knowledg", "compil", "the", "achiev", "by", "cycl", "search"],
-	"tag": ["compilation"],
+	"stemmed": [
+		"a",
+		"new",
+		"method",
+		"for",
+		"knowledg",
+		"compil",
+		"the",
+		"achiev",
+		"by",
+		"cycl",
+		"search"
+	],
+	"tag": [
+		"compilation"
+	],
 	"title": "A New Method for Knowledge Compilation: The Achievement by Cycle Search",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

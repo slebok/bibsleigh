@@ -1,14 +1,33 @@
 {
-	"author": ["Michael Siegel", "Adriana Maggiore", "Christian Pichler"],
-	"booktitle": "DAC",
+	"author": [
+		"Michael Siegel",
+		"Adriana Maggiore",
+		"Christian Pichler"
+	],
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/SiegelMP09",
 	"doi": "10.1145/1629911.1630081",
 	"ee": "http://doi.acm.org/10.1145/1629911.1630081",
 	"pages": "644-647",
 	"publisher": "ACM",
-	"stemmed": ["untwist", "your", "brain", "effici", "debug", "and", "diagnosi", "of", "complex", "assert"],
-	"tag": ["debugging", "performance"],
+	"stemmed": [
+		"untwist",
+		"your",
+		"brain",
+		"effici",
+		"debug",
+		"and",
+		"diagnosi",
+		"of",
+		"complex",
+		"assert"
+	],
+	"tag": [
+		"debugging",
+		"performance"
+	],
 	"title": "Untwist your brain: efficient debugging and diagnosis of complex assertions",
 	"type": "inproceedings",
 	"venue": "DAC",

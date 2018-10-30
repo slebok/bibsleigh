@@ -1,14 +1,33 @@
 {
-	"author": ["Yada Zhu", "Hongxia Yang", "Jingrui He"],
-	"booktitle": "KDD",
+	"author": [
+		"Yada Zhu",
+		"Hongxia Yang",
+		"Jingrui He"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/ZhuYH15",
 	"doi": "10.1145/2783258.2783337",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783337",
 	"pages": "1583-1592",
 	"publisher": "ACM",
-	"stemmed": ["co", "cluster", "base", "dual", "predict", "for", "cargo", "price", "optim"],
-	"tag": ["clustering", "optimisation", "predict"],
+	"stemmed": [
+		"co",
+		"cluster",
+		"base",
+		"dual",
+		"predict",
+		"for",
+		"cargo",
+		"price",
+		"optim"
+	],
+	"tag": [
+		"clustering",
+		"optimisation",
+		"predict"
+	],
 	"title": "Co-Clustering based Dual Prediction for Cargo Pricing Optimization",
 	"type": "inproceedings",
 	"venue": "KDD",

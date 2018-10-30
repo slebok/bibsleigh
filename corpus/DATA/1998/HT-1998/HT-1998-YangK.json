@@ -1,6 +1,10 @@
 {
-	"author": ["Jack Jingshuang Yang", "Gail E. Kaiser"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Jack Jingshuang Yang",
+		"Gail E. Kaiser"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Hypertext and Hypermedia: Links, Objects, Time and Space — Structure in Hypermedia Systems",
+	"booktitleshort": "HT",
 	"cdrom": "HT1998/P256.pdf",
 	"crossref": "conf/ht/98",
 	"dblpkey": "conf/ht/YangK98",
@@ -8,8 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/276627.276655",
 	"pages": "256-266",
 	"publisher": "ACM",
-	"stemmed": ["j", "pern", "lite", "an", "extens", "transact", "server", "for", "the", "world", "wide", "web"],
-	"tag": ["named", "transaction", "web"],
+	"stemmed": [
+		"j",
+		"pern",
+		"lite",
+		"an",
+		"extens",
+		"transact",
+		"server",
+		"for",
+		"the",
+		"world",
+		"wide",
+		"web"
+	],
+	"tag": [
+		"named",
+		"transaction",
+		"web"
+	],
 	"title": "JPernLite: An Extensible Transaction Server for the World Wide Web",
 	"type": "inproceedings",
 	"venue": "HT",

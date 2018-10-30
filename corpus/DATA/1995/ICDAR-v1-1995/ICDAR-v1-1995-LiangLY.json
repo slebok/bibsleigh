@@ -1,15 +1,37 @@
 {
-	"author": ["Tyne Liang", "Suh-Yin Lee", "Wei-Pang Yang"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Tyne Liang",
+		"Suh-Yin Lee",
+		"Wei-Pang Yang"
+	],
+	"booktitle": "Proceedings of the Third International Conference on Document Analysis and Recognition (Volume I)",
+	"booktitleshort": "ICDAR v1",
 	"crossref": "conf/icdar/1995-1",
 	"dblpkey": "conf/icdar/LiangLY95",
 	"doi": "10.1109/ICDAR.1995.598966",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1995.598966", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.598966"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1995.598966",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.598966"
+	],
 	"pages": "159-162",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["fals", "hit", "of", "tri", "syllab", "queri", "in", "a", "chines", "signatur", "file"],
-	"tag": ["query"],
+	"stemmed": [
+		"fals",
+		"hit",
+		"of",
+		"tri",
+		"syllab",
+		"queri",
+		"in",
+		"a",
+		"chines",
+		"signatur",
+		"file"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "False hits of tri-syllabic queries in a Chinese signature file",
 	"type": "inproceedings",
 	"venue": "ICDAR",

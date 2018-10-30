@@ -1,6 +1,7 @@
 {
 	"author": "Alan L. Tharp",
 	"booktitle": "Proceedings of the ACM SIGIR International Conference on Information Storage and Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1978/P002.pdf",
 	"crossref": "conf/sigir/78",
 	"dblpkey": "conf/sigir/Tharp78",
@@ -8,8 +9,26 @@
 	"ee": "http://doi.acm.org/10.1145/800096.803133",
 	"pages": "2-13",
 	"publisher": "ACM",
-	"stemmed": ["augment", "transit", "network", "as", "a", "design", "tool", "for", "person", "data", "base", "system"],
-	"tag": ["database", "design", "network", "personalisation"],
+	"stemmed": [
+		"augment",
+		"transit",
+		"network",
+		"as",
+		"a",
+		"design",
+		"tool",
+		"for",
+		"person",
+		"data",
+		"base",
+		"system"
+	],
+	"tag": [
+		"database",
+		"design",
+		"network",
+		"personalisation"
+	],
 	"title": "Augmented Transition Networks as a Design Tool for Personalized Data Base Systems",
 	"type": "inproceedings",
 	"venue": "SIGIR",

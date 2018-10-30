@@ -1,6 +1,10 @@
 {
-	"author": ["Orlena Gotel", "Stephen J. Morris"],
-	"booktitle": "REFSQ",
+	"author": [
+		"Orlena Gotel",
+		"Stephen J. Morris"
+	],
+	"booktitle": "Proceedings of the 14th International Working Conference on Requirements Engineering: Foundation for Software Quality",
+	"booktitleshort": "REFSQ",
 	"crossref": "conf/refsq/2008",
 	"dblpkey": "conf/refsq/GotelM08",
 	"doi": "10.1007/978-3-540-69062-7_12",
@@ -9,11 +13,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["macro", "level", "traceabl", "via", "media", "transform"],
-	"tag": ["traceability"],
+	"stemmed": [
+		"macro",
+		"level",
+		"traceabl",
+		"via",
+		"media",
+		"transform"
+	],
+	"tag": [
+		"traceability"
+	],
 	"title": "Macro-level Traceability Via Media Transformations",
 	"type": "inproceedings",
 	"venue": "REFSQ",
-	"volume": 5025,
+	"volume": "5025",
 	"year": 2008
 }

@@ -1,15 +1,39 @@
 {
-	"author": ["Seiichi Uchida", "Hiroaki Sakoe"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Seiichi Uchida",
+		"Hiroaki Sakoe"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2003",
 	"dblpkey": "conf/icdar/UchidaS03",
 	"doi": "10.1109/ICDAR.2003.1227652",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2003.1227652", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2003.1227652"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2003.1227652",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2003.1227652"
+	],
 	"pages": "163-167",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["handwritten", "charact", "recognit", "use", "elast", "match", "base", "on", "a", "class", "depend", "deform", "model"],
-	"tag": ["recognition", "using"],
+	"stemmed": [
+		"handwritten",
+		"charact",
+		"recognit",
+		"use",
+		"elast",
+		"match",
+		"base",
+		"on",
+		"a",
+		"class",
+		"depend",
+		"deform",
+		"model"
+	],
+	"tag": [
+		"recognition",
+		"using"
+	],
 	"title": "Handwritten character recognition using elastic matching based on a class-dependent deformation model",
 	"type": "inproceedings",
 	"venue": "ICDAR",

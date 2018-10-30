@@ -1,14 +1,28 @@
 {
-	"author": ["Peter Haider", "Luca Chiarandini", "Ulf Brefeld"],
-	"booktitle": "KDD",
+	"author": [
+		"Peter Haider",
+		"Luca Chiarandini",
+		"Ulf Brefeld"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/HaiderCB12",
 	"doi": "10.1145/2339530.2339600",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339600",
 	"pages": "417-425",
 	"publisher": "ACM",
-	"stemmed": ["discrimin", "cluster", "for", "market", "segment"],
-	"tag": ["clustering", "segmentation"],
+	"stemmed": [
+		"discrimin",
+		"cluster",
+		"for",
+		"market",
+		"segment"
+	],
+	"tag": [
+		"clustering",
+		"segmentation"
+	],
 	"title": "Discriminative clustering for market segmentation",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,14 +1,37 @@
 {
-	"author": ["Yuan Zhang", "Vugranam C. Sreedhar", "Weirong Zhu", "Vivek Sarkar", "Guang R. Gao"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Yuan Zhang",
+		"Vugranam C. Sreedhar",
+		"Weirong Zhu",
+		"Vivek Sarkar",
+		"Guang R. Gao"
+	],
+	"booktitle": "Proceedings of the 12th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2007",
 	"dblpkey": "conf/ppopp/ZhangSZSG07",
 	"doi": "10.1145/1229428.1229459",
 	"ee": "http://doi.acm.org/10.1145/1229428.1229459",
 	"pages": "146-147",
 	"publisher": "ACM",
-	"stemmed": ["optim", "lock", "assign", "and", "alloc", "a", "method", "for", "exploit", "concurr", "among", "critic", "section"],
-	"tag": ["concurrent"],
+	"stemmed": [
+		"optim",
+		"lock",
+		"assign",
+		"and",
+		"alloc",
+		"a",
+		"method",
+		"for",
+		"exploit",
+		"concurr",
+		"among",
+		"critic",
+		"section"
+	],
+	"tag": [
+		"concurrent"
+	],
 	"title": "Optimized lock assignment and allocation: a method for exploiting concurrency among critical sections",
 	"type": "inproceedings",
 	"venue": "PPoPP",

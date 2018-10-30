@@ -1,14 +1,37 @@
 {
-	"author": ["Freddy Chong Tat Chua", "Ee-Peng Lim"],
-	"booktitle": "KDD",
+	"author": [
+		"Freddy Chong Tat Chua",
+		"Ee-Peng Lim"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/ChuaL10",
 	"doi": "10.1145/1835804.1835917",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835917",
 	"pages": "889-898",
 	"publisher": "ACM",
-	"stemmed": ["trust", "network", "infer", "for", "onlin", "rate", "data", "use", "generat", "model"],
-	"tag": ["generative", "modelling", "network", "online", "rating", "trust", "using"],
+	"stemmed": [
+		"trust",
+		"network",
+		"infer",
+		"for",
+		"onlin",
+		"rate",
+		"data",
+		"use",
+		"generat",
+		"model"
+	],
+	"tag": [
+		"generative",
+		"modelling",
+		"network",
+		"online",
+		"rating",
+		"trust",
+		"using"
+	],
 	"title": "Trust network inference for online rating data using generative models",
 	"type": "inproceedings",
 	"venue": "KDD",

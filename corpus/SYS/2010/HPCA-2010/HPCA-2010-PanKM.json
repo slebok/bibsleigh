@@ -1,6 +1,11 @@
 {
-	"author": ["Yan Pan", "John Kim", "Gokhan Memik"],
-	"booktitle": "HPCA",
+	"author": [
+		"Yan Pan",
+		"John Kim",
+		"Gokhan Memik"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2010",
 	"dblpkey": "conf/hpca/PanKM10",
 	"doi": "10.1109/HPCA.2010.5416626",
@@ -8,8 +13,22 @@
 	"pages": "1-12",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["flexi", "share", "channel", "share", "for", "an", "energi", "effici", "nanophoton", "crossbar"],
-	"tag": ["energy", "named"],
+	"stemmed": [
+		"flexi",
+		"share",
+		"channel",
+		"share",
+		"for",
+		"an",
+		"energi",
+		"effici",
+		"nanophoton",
+		"crossbar"
+	],
+	"tag": [
+		"energy",
+		"named"
+	],
 	"title": "FlexiShare: Channel sharing for an energy-efficient nanophotonic crossbar",
 	"type": "inproceedings",
 	"venue": "HPCA",

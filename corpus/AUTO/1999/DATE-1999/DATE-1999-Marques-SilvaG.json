@@ -1,6 +1,10 @@
 {
-	"author": ["João P. Marques Silva", "Thomas Glaß"],
-	"booktitle": "DATE",
+	"author": [
+		"João P. Marques Silva",
+		"Thomas Glaß"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/Marques-SilvaG99",
 	"doi": "10.1109/DATE.1999.761110",
@@ -8,8 +12,23 @@
 	"pages": "145-149",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["combin", "equival", "check", "use", "satisfi", "and", "recurs", "learn"],
-	"tag": ["equivalence", "learning", "recursion", "satisfiability", "using"],
+	"stemmed": [
+		"combin",
+		"equival",
+		"check",
+		"use",
+		"satisfi",
+		"and",
+		"recurs",
+		"learn"
+	],
+	"tag": [
+		"equivalence",
+		"learning",
+		"recursion",
+		"satisfiability",
+		"using"
+	],
 	"title": "Combinational Equivalence Checking Using Satisfiability and Recursive Learning",
 	"type": "inproceedings",
 	"venue": "DATE",

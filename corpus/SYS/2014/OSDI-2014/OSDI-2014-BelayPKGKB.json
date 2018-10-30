@@ -1,13 +1,39 @@
 {
-	"author": ["Adam Belay", "George Prekas", "Ana Klimovic", "Samuel Grossman", "Christos Kozyrakis", "Edouard Bugnion"],
-	"booktitle": "OSDI",
+	"author": [
+		"Adam Belay",
+		"George Prekas",
+		"Ana Klimovic",
+		"Samuel Grossman",
+		"Christos Kozyrakis",
+		"Edouard Bugnion"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2014",
 	"dblpkey": "conf/osdi/BelayPKGKB14",
 	"ee": "https://www.usenix.org/conference/osdi14/technical-sessions/presentation/belay",
 	"pages": "49-65",
 	"publisher": "USENIX Association",
-	"stemmed": ["ix", "a", "protect", "dataplan", "oper", "system", "for", "high", "throughput", "and", "low", "latenc"],
-	"tag": ["latency", "named", "operating system", "throughput"],
+	"stemmed": [
+		"ix",
+		"a",
+		"protect",
+		"dataplan",
+		"oper",
+		"system",
+		"for",
+		"high",
+		"throughput",
+		"and",
+		"low",
+		"latenc"
+	],
+	"tag": [
+		"latency",
+		"named",
+		"operating system",
+		"throughput"
+	],
 	"title": "IX: A Protected Dataplane Operating System for High Throughput and Low Latency",
 	"type": "inproceedings",
 	"venue": "OSDI",

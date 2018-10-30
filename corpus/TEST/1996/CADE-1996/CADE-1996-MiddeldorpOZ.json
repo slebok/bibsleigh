@@ -1,6 +1,11 @@
 {
-	"author": ["Aart Middeldorp", "Hitoshi Ohsaki", "Hans Zantema"],
-	"booktitle": "CADE",
+	"author": [
+		"Aart Middeldorp",
+		"Hitoshi Ohsaki",
+		"Hans Zantema"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/MiddeldorpOZ96",
 	"doi": "10.1007/3-540-61511-3_101",
@@ -10,11 +15,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["transform", "termin", "by", "self", "label"],
-	"tag": ["self", "termination"],
+	"stemmed": [
+		"transform",
+		"termin",
+		"by",
+		"self",
+		"label"
+	],
+	"tag": [
+		"self",
+		"termination"
+	],
 	"title": "Transforming Termination by Self-Labelling",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

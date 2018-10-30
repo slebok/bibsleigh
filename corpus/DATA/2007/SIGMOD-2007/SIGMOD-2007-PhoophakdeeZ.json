@@ -1,6 +1,9 @@
 {
-	"author": ["Benjarath Phoophakdee", "Mohammed J. Zaki"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Benjarath Phoophakdee",
+		"Mohammed J. Zaki"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/PhoophakdeeZ07",
@@ -8,7 +11,15 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247572",
 	"pages": "833-844",
 	"publisher": "ACM",
-	"stemmed": ["genom", "scale", "disk", "base", "suffix", "tree", "index"],
+	"stemmed": [
+		"genom",
+		"scale",
+		"disk",
+		"base",
+		"suffix",
+		"tree",
+		"index"
+	],
 	"title": "Genome-scale disk-based suffix tree indexing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,12 @@
 {
-	"author": ["Gerd Jochens", "Lars Kruse", "Eike Schmidt", "Wolfgang Nebel"],
-	"booktitle": "DATE",
+	"author": [
+		"Gerd Jochens",
+		"Lars Kruse",
+		"Eike Schmidt",
+		"Wolfgang Nebel"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/JochensKSN99",
 	"doi": "10.1109/DATE.1999.761093",
@@ -8,8 +14,21 @@
 	"pages": "29-",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "new", "parameteriz", "power", "macro", "model", "for", "datapath", "compon"],
-	"tag": ["component", "megamodelling"],
+	"stemmed": [
+		"a",
+		"new",
+		"parameteriz",
+		"power",
+		"macro",
+		"model",
+		"for",
+		"datapath",
+		"compon"
+	],
+	"tag": [
+		"component",
+		"megamodelling"
+	],
 	"title": "A New Parameterizable Power Macro-Model for Datapath Components",
 	"type": "inproceedings",
 	"venue": "DATE",

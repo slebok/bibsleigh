@@ -1,14 +1,39 @@
 {
-	"author": ["Bart P. Knijnenburg", "Niels J. M. Reijmer", "Martijn C. Willemsen"],
-	"booktitle": "RecSys",
+	"author": [
+		"Bart P. Knijnenburg",
+		"Niels J. M. Reijmer",
+		"Martijn C. Willemsen"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2011",
 	"dblpkey": "conf/recsys/KnijnenburgRW11",
 	"doi": "10.1145/2043932.2043960",
 	"ee": "http://doi.acm.org/10.1145/2043932.2043960",
 	"pages": "141-148",
 	"publisher": "ACM",
-	"stemmed": ["each", "to", "his", "own", "how", "differ", "user", "call", "for", "differ", "interact", "method", "in", "recommend", "system"],
-	"tag": ["how", "interactive", "recommendation"],
+	"stemmed": [
+		"each",
+		"to",
+		"his",
+		"own",
+		"how",
+		"differ",
+		"user",
+		"call",
+		"for",
+		"differ",
+		"interact",
+		"method",
+		"in",
+		"recommend",
+		"system"
+	],
+	"tag": [
+		"how",
+		"interactive",
+		"recommendation"
+	],
 	"title": "Each to his own: how different users call for different interaction methods in recommender systems",
 	"type": "inproceedings",
 	"venue": "RecSys",

@@ -1,14 +1,29 @@
 {
-	"author": ["Sandya S. Mannarswamy", "R. Govindarajan"],
-	"booktitle": "CGO",
+	"author": [
+		"Sandya S. Mannarswamy",
+		"R. Govindarajan"
+	],
+	"booktitle": "Proceedings of the 10th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2012",
 	"dblpkey": "conf/cgo/MannarswamyG12",
 	"doi": "10.1145/2259016.2259024",
 	"ee": "http://doi.acm.org/10.1145/2259016.2259024",
 	"pages": "53-62",
 	"publisher": "ACM",
-	"stemmed": ["reconcil", "transact", "conflict", "with", "compil", "s", "help"],
-	"tag": ["compilation", "transaction"],
+	"stemmed": [
+		"reconcil",
+		"transact",
+		"conflict",
+		"with",
+		"compil",
+		"s",
+		"help"
+	],
+	"tag": [
+		"compilation",
+		"transaction"
+	],
 	"title": "Reconciling transactional conflicts with compiler’s help",
 	"type": "inproceedings",
 	"venue": "CGO",

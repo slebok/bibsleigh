@@ -1,14 +1,31 @@
 {
-	"author": ["Sven Reimer", "Matthias Sauer", "Tobias Schubert", "Bernd Becker"],
-	"booktitle": "DATE",
+	"author": [
+		"Sven Reimer",
+		"Matthias Sauer",
+		"Tobias Schubert",
+		"Bernd Becker"
+	],
+	"booktitle": "Proceedings of the 18th Conference and Exhibition on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2014",
 	"dblpkey": "conf/date/ReimerSSB14",
 	"doi": "10.7873/DATE.2014.161",
 	"ee": "http://dx.doi.org/10.7873/DATE.2014.161",
 	"pages": "1-6",
 	"publisher": "IEEE",
-	"stemmed": ["use", "max", "bmc", "for", "pareto", "optim", "circuit", "initi"],
-	"tag": ["using"],
+	"stemmed": [
+		"use",
+		"max",
+		"bmc",
+		"for",
+		"pareto",
+		"optim",
+		"circuit",
+		"initi"
+	],
+	"tag": [
+		"using"
+	],
 	"title": "Using MaxBMC for Pareto-optimal circuit initialization",
 	"type": "inproceedings",
 	"venue": "DATE",

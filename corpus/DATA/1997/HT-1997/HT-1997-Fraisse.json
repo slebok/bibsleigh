@@ -1,6 +1,7 @@
 {
 	"author": "Sylvain Fraïssé",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the Eighth Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1997/P234.pdf",
 	"crossref": "conf/ht/97",
 	"dblpkey": "conf/ht/Fraisse97",
@@ -8,8 +9,26 @@
 	"ee": "http://doi.acm.org/10.1145/267437.267480",
 	"pages": "234-235",
 	"publisher": "ACM",
-	"stemmed": ["a", "task", "driven", "design", "method", "and", "it", "associ", "tool", "for", "automat", "generat", "hypertext"],
-	"tag": ["automation", "design", "generative"],
+	"stemmed": [
+		"a",
+		"task",
+		"driven",
+		"design",
+		"method",
+		"and",
+		"it",
+		"associ",
+		"tool",
+		"for",
+		"automat",
+		"generat",
+		"hypertext"
+	],
+	"tag": [
+		"automation",
+		"design",
+		"generative"
+	],
 	"title": "A Task Driven Design Method and Its Associated Tool for Automatically Generating Hypertexts",
 	"type": "inproceedings",
 	"venue": "HT",

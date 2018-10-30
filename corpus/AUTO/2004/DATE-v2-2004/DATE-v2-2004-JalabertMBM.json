@@ -1,6 +1,12 @@
 {
-	"author": ["Antoine Jalabert", "Srinivasan Murali", "Luca Benini", "Giovanni De Micheli"],
-	"booktitle": "DATE",
+	"author": [
+		"Antoine Jalabert",
+		"Srinivasan Murali",
+		"Luca Benini",
+		"Giovanni De Micheli"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/JalabertMBM04",
 	"doi": "10.1109/DATE.2004.1268999",
@@ -8,8 +14,21 @@
 	"pages": "884-889",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["pipescompil", "a", "tool", "for", "instanti", "applic", "specif", "network", "on", "chip"],
-	"tag": ["network"],
+	"stemmed": [
+		"pipescompil",
+		"a",
+		"tool",
+		"for",
+		"instanti",
+		"applic",
+		"specif",
+		"network",
+		"on",
+		"chip"
+	],
+	"tag": [
+		"network"
+	],
 	"title": "×pipesCompiler: A Tool for Instantiating Application Specific Networks on Chip",
 	"type": "inproceedings",
 	"venue": "DATE",

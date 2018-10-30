@@ -1,14 +1,31 @@
 {
-	"author": ["Michael Wu", "Willy Zwaenepoel"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Michael Wu",
+		"Willy Zwaenepoel"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1994",
 	"dblpkey": "conf/asplos/WuZ94",
 	"doi": "10.1145/195473.195506",
 	"ee": "http://doi.acm.org/10.1145/195473.195506",
 	"pages": "86-97",
 	"publisher": "ACM Press",
-	"stemmed": ["envi", "a", "non", "volatil", "main", "memori", "storag", "system"],
-	"tag": ["in memory", "memory management", "named"],
+	"stemmed": [
+		"envi",
+		"a",
+		"non",
+		"volatil",
+		"main",
+		"memori",
+		"storag",
+		"system"
+	],
+	"tag": [
+		"in memory",
+		"memory management",
+		"named"
+	],
 	"title": "eNVy: A Non-Volatile, Main Memory Storage System",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,13 +1,28 @@
 {
 	"author": "Peter Dahlgren",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 33rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/Dahlgren96",
 	"doi": "10.1145/240518.240547",
 	"ee": "http://doi.acm.org/10.1145/240518.240547",
 	"pages": "155-160",
 	"publisher": "ACM Press",
-	"stemmed": ["oscil", "control", "in", "logic", "simul", "use", "dynam", "domin", "grahp"],
-	"tag": ["logic", "simulation", "using"],
+	"stemmed": [
+		"oscil",
+		"control",
+		"in",
+		"logic",
+		"simul",
+		"use",
+		"dynam",
+		"domin",
+		"grahp"
+	],
+	"tag": [
+		"logic",
+		"simulation",
+		"using"
+	],
 	"title": "Oscillation Control in Logic Simulation using Dynamic Dominance Grahps",
 	"type": "inproceedings",
 	"venue": "DAC",

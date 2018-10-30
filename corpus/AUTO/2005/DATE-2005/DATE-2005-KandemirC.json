@@ -1,6 +1,10 @@
 {
-	"author": ["Mahmut T. Kandemir", "Guilin Chen"],
-	"booktitle": "DATE",
+	"author": [
+		"Mahmut T. Kandemir",
+		"Guilin Chen"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/KandemirC05",
 	"doi": "10.1109/DATE.2005.198",
@@ -8,8 +12,22 @@
 	"pages": "870-875",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["local", "awar", "process", "schedul", "for", "embed", "mp", "so", "cs"],
-	"tag": ["embedded", "process", "scheduling"],
+	"stemmed": [
+		"local",
+		"awar",
+		"process",
+		"schedul",
+		"for",
+		"embed",
+		"mp",
+		"so",
+		"cs"
+	],
+	"tag": [
+		"embedded",
+		"process",
+		"scheduling"
+	],
 	"title": "Locality-Aware Process Scheduling for Embedded MPSoCs",
 	"type": "inproceedings",
 	"venue": "DATE",

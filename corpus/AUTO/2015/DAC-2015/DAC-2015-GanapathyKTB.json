@@ -1,14 +1,35 @@
 {
-	"author": ["Shrikanth Ganapathy", "Georgios Karakonstantis", "Adam Teman", "Andreas Burg"],
-	"booktitle": "DAC",
+	"author": [
+		"Shrikanth Ganapathy",
+		"Georgios Karakonstantis",
+		"Adam Teman",
+		"Andreas Burg"
+	],
+	"booktitle": "Proceedings of the 52nd Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2015",
 	"dblpkey": "conf/dac/GanapathyKTB15",
 	"doi": "10.1145/2744769.2744871",
 	"ee": "http://doi.acm.org/10.1145/2744769.2744871",
 	"pages": "102:1-102:6",
 	"publisher": "ACM",
-	"stemmed": ["mitig", "the", "impact", "of", "fault", "in", "unreli", "memori", "for", "error", "resili", "applic"],
-	"tag": ["fault"],
+	"stemmed": [
+		"mitig",
+		"the",
+		"impact",
+		"of",
+		"fault",
+		"in",
+		"unreli",
+		"memori",
+		"for",
+		"error",
+		"resili",
+		"applic"
+	],
+	"tag": [
+		"fault"
+	],
 	"title": "Mitigating the impact of faults in unreliable memories for error-resilient applications",
 	"type": "inproceedings",
 	"venue": "DAC",

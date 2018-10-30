@@ -1,14 +1,36 @@
 {
-	"author": ["Lars Backstrom", "Daniel P. Huttenlocher", "Jon M. Kleinberg", "Xiangyang Lan"],
-	"booktitle": "KDD",
+	"author": [
+		"Lars Backstrom",
+		"Daniel P. Huttenlocher",
+		"Jon M. Kleinberg",
+		"Xiangyang Lan"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/BackstromHKL06",
 	"doi": "10.1145/1150402.1150412",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150412",
 	"pages": "44-54",
 	"publisher": "ACM",
-	"stemmed": ["group", "format", "in", "larg", "social", "network", "membership", "growth", "and", "evolut"],
-	"tag": ["evolution", "network", "scalability", "social"],
+	"stemmed": [
+		"group",
+		"format",
+		"in",
+		"larg",
+		"social",
+		"network",
+		"membership",
+		"growth",
+		"and",
+		"evolut"
+	],
+	"tag": [
+		"evolution",
+		"network",
+		"scalability",
+		"social"
+	],
 	"title": "Group formation in large social networks: membership, growth, and evolution",
 	"type": "inproceedings",
 	"venue": "KDD",

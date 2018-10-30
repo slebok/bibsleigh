@@ -1,16 +1,43 @@
 {
-	"acmid": 1252544,
-	"author": ["Cheng Wang", "Ho-Seop Kim", "Youfeng Wu", "Victor Ying"],
-	"booktitle": "CGO",
+	"acmid": "1252544",
+	"author": [
+		"Cheng Wang",
+		"Ho-Seop Kim",
+		"Youfeng Wu",
+		"Victor Ying"
+	],
+	"booktitle": "Proceedings of the Fifth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2007",
 	"dblpkey": "conf/cgo/WangKWY07",
 	"doi": "10.1109/CGO.2007.7",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2007.7", "http://doi.ieeecomputersociety.org/10.1109/CGO.2007.7", "http://dl.acm.org/citation.cfm?id=1252544"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2007.7",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2007.7",
+		"http://dl.acm.org/citation.cfm?id=1252544"
+	],
 	"pages": "244-258",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["compil", "manag", "softwar", "base", "redund", "multi", "thread", "for", "transient", "fault", "detect"],
-	"tag": ["detection", "fault", "multi", "thread"],
+	"stemmed": [
+		"compil",
+		"manag",
+		"softwar",
+		"base",
+		"redund",
+		"multi",
+		"thread",
+		"for",
+		"transient",
+		"fault",
+		"detect"
+	],
+	"tag": [
+		"detection",
+		"fault",
+		"multi",
+		"thread"
+	],
 	"title": "Compiler-Managed Software-based Redundant Multi-Threading for Transient Fault Detection",
 	"type": "inproceedings",
 	"venue": "CGO",

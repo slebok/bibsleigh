@@ -1,6 +1,7 @@
 {
 	"author": "Guy A. Boy",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the Third Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1991/P051.pdf",
 	"crossref": "conf/ht/91",
 	"dblpkey": "conf/ht/Boy91",
@@ -8,8 +9,17 @@
 	"ee": "http://doi.acm.org/10.1145/122974.122980",
 	"pages": "51-61",
 	"publisher": "ACM",
-	"stemmed": ["index", "hypertext", "document", "in", "context"],
-	"tag": ["documentation", "hypermedia"],
+	"stemmed": [
+		"index",
+		"hypertext",
+		"document",
+		"in",
+		"context"
+	],
+	"tag": [
+		"documentation",
+		"hypermedia"
+	],
 	"title": "Indexing Hypertext Documents in Context",
 	"type": "inproceedings",
 	"venue": "HT",

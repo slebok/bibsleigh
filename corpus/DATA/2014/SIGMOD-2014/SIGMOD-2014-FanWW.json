@@ -1,6 +1,10 @@
 {
-	"author": ["Wenfei Fan", "Xin Wang", "Yinghui Wu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Wenfei Fan",
+		"Xin Wang",
+		"Yinghui Wu"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/FanWW14",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2610513",
 	"pages": "301-312",
 	"publisher": "ACM",
-	"stemmed": ["queri", "big", "graph", "within", "bound", "resourc"],
-	"tag": ["bound", "graph", "query"],
+	"stemmed": [
+		"queri",
+		"big",
+		"graph",
+		"within",
+		"bound",
+		"resourc"
+	],
+	"tag": [
+		"bound",
+		"graph",
+		"query"
+	],
 	"title": "Querying big graphs within bounded resources",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

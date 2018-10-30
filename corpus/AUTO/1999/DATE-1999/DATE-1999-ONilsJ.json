@@ -1,6 +1,10 @@
 {
-	"author": ["Mattias O'Nils", "Axel Jantsch"],
-	"booktitle": "DATE",
+	"author": [
+		"Mattias O'Nils",
+		"Axel Jantsch"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/ONilsJ99",
 	"doi": "10.1109/DATE.1999.761183",
@@ -8,8 +12,27 @@
 	"pages": "562-567",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["oper", "system", "sensit", "devic", "driver", "synthesi", "from", "implement", "independ", "protocol", "specif"],
-	"tag": ["implementation", "independence", "operating system", "protocol", "specification", "synthesis"],
+	"stemmed": [
+		"oper",
+		"system",
+		"sensit",
+		"devic",
+		"driver",
+		"synthesi",
+		"from",
+		"implement",
+		"independ",
+		"protocol",
+		"specif"
+	],
+	"tag": [
+		"implementation",
+		"independence",
+		"operating system",
+		"protocol",
+		"specification",
+		"synthesis"
+	],
 	"title": "Operating System Sensitive Device Driver Synthesis from Implementation Independent Protocol Specification",
 	"type": "inproceedings",
 	"venue": "DATE",

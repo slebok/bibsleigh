@@ -1,6 +1,11 @@
 {
-	"author": ["Barzan Mozafari", "Carlo Curino", "Alekh Jindal", "Samuel Madden"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Barzan Mozafari",
+		"Carlo Curino",
+		"Alekh Jindal",
+		"Samuel Madden"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/MozafariCJM13",
@@ -8,8 +13,21 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2467800",
 	"pages": "301-312",
 	"publisher": "ACM",
-	"stemmed": ["perform", "and", "resourc", "model", "in", "high", "concurr", "oltp", "workload"],
-	"tag": ["modelling", "performance"],
+	"stemmed": [
+		"perform",
+		"and",
+		"resourc",
+		"model",
+		"in",
+		"high",
+		"concurr",
+		"oltp",
+		"workload"
+	],
+	"tag": [
+		"modelling",
+		"performance"
+	],
 	"title": "Performance and resource modeling in highly-concurrent OLTP workloads",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,10 @@
 {
-	"author": ["Andrew Reynolds", "Viktor Kuncak"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Andrew Reynolds",
+		"Viktor Kuncak"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2015",
 	"dblpkey": "conf/vmcai/ReynoldsK15",
 	"doi": "10.1007/978-3-662-46081-8_5",
@@ -10,11 +14,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["induct", "for", "smt", "solver"],
-	"tag": ["induction", "smt"],
+	"stemmed": [
+		"induct",
+		"for",
+		"smt",
+		"solver"
+	],
+	"tag": [
+		"induction",
+		"smt"
+	],
 	"title": "Induction for SMT Solvers",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 8931,
+	"volume": "8931",
 	"year": 2015
 }

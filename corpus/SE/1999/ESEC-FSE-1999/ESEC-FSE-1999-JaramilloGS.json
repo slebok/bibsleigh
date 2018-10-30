@@ -1,11 +1,18 @@
 {
-	"author": ["Clara Jaramillo", "Rajiv Gupta", "Mary Lou Soffa"],
+	"author": [
+		"Clara Jaramillo",
+		"Rajiv Gupta",
+		"Mary Lou Soffa"
+	],
 	"booktitle": "Proceedings of the Second Joint Meeting of the Seventh European Software Engineering Conference and the Seventh Symposium on the Foundations of Software Engineering",
-	"booktitleshort": "ESEC / SIGSOFT FSE",
+	"booktitleshort": "ESEC/FSE",
 	"crossref": "conf/esec/1999",
 	"dblpkey": "conf/esec/JaramilloGS99",
 	"doi": "10.1007/3-540-48166-4_17",
-	"editor": ["Oscar Nierstrasz", "Michel Lemoine"],
+	"editor": [
+		"Oscar Nierstrasz",
+		"Michel Lemoine"
+	],
 	"ee": "http://dx.doi.org/10.1007/3-540-48166-4_17",
 	"isbn": "3-540-66538-2",
 	"pages": "268-284",
@@ -13,11 +20,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["comparison", "check", "an", "approach", "to", "avoid", "debug", "of", "optim", "code"],
-	"tag": ["approach", "comparison", "debugging"],
+	"stemmed": [
+		"comparison",
+		"check",
+		"an",
+		"approach",
+		"to",
+		"avoid",
+		"debug",
+		"of",
+		"optim",
+		"code"
+	],
+	"tag": [
+		"approach",
+		"comparison",
+		"debugging"
+	],
 	"title": "Comparison Checking: An Approach to Avoid Debugging of Optimized Code",
 	"type": "inproceedings",
 	"venue": "ESEC",
-	"volume": 1687,
+	"volume": "1687",
 	"year": 1999
 }

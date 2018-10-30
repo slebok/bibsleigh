@@ -1,6 +1,9 @@
 {
-	"author": ["William R. Cook", "Jens Palsberg"],
-	"booktitle": "Proceedings of the Fourth Conference on Object-Oriented Programming: Systems, Languages, and Applications",
+	"author": [
+		"William R. Cook",
+		"Jens Palsberg"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1989",
 	"dblpkey": "conf/oopsla/CookP89",
@@ -10,8 +13,21 @@
 	"isbn": "0-89791-333-7",
 	"pages": "433-443",
 	"publisher": "ACM",
-	"stemmed": ["a", "denot", "semant", "of", "inherit", "and", "it", "correct"],
-	"tag": ["correctness", "inheritance", "semantics"],
+	"stemmed": [
+		"a",
+		"denot",
+		"semant",
+		"of",
+		"inherit",
+		"and",
+		"it",
+		"correct"
+	],
+	"tag": [
+		"correctness",
+		"inheritance",
+		"semantics"
+	],
 	"title": "A Denotational Semantics of Inheritance and its Correctness",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

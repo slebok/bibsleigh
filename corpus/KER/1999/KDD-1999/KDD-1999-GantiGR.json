@@ -1,14 +1,32 @@
 {
-	"author": ["Venkatesh Ganti", "Johannes Gehrke", "Raghu Ramakrishnan"],
-	"booktitle": "KDD",
+	"author": [
+		"Venkatesh Ganti",
+		"Johannes Gehrke",
+		"Raghu Ramakrishnan"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1999",
 	"dblpkey": "conf/kdd/GantiGR99",
 	"doi": "10.1145/312129.312201",
 	"ee": "http://doi.acm.org/10.1145/312129.312201",
 	"pages": "73-83",
 	"publisher": "ACM",
-	"stemmed": ["cactus", "cluster", "categor", "data", "use", "summari"],
-	"tag": ["category theory", "clustering", "named", "summary", "using"],
+	"stemmed": [
+		"cactus",
+		"cluster",
+		"categor",
+		"data",
+		"use",
+		"summari"
+	],
+	"tag": [
+		"category theory",
+		"clustering",
+		"named",
+		"summary",
+		"using"
+	],
 	"title": "CACTUS — Clustering Categorical Data Using Summaries",
 	"type": "inproceedings",
 	"venue": "KDD",

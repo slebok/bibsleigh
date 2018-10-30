@@ -1,6 +1,7 @@
 {
 	"author": "Luis De Sopena",
 	"booktitle": "Proceedings of the Sixth Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1983/P075.pdf",
 	"crossref": "conf/sigir/83",
 	"dblpkey": "conf/sigir/Sopena83",
@@ -8,8 +9,19 @@
 	"ee": "http://doi.acm.org/10.1145/511793.511803",
 	"pages": "75-80",
 	"publisher": "ACM",
-	"stemmed": ["natur", "languag", "grammar", "for", "an", "inform", "system"],
-	"tag": ["information management", "natural language"],
+	"stemmed": [
+		"natur",
+		"languag",
+		"grammar",
+		"for",
+		"an",
+		"inform",
+		"system"
+	],
+	"tag": [
+		"information management",
+		"natural language"
+	],
 	"title": "Natural Language Grammars for an Information System",
 	"type": "inproceedings",
 	"venue": "SIGIR",

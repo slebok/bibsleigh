@@ -1,6 +1,10 @@
 {
-	"author": ["Amy P. Felty", "Douglas J. Howe"],
-	"booktitle": "CADE",
+	"author": [
+		"Amy P. Felty",
+		"Douglas J. Howe"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/FeltyH94",
 	"doi": "10.1007/3-540-58156-1_44",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["tactic", "theorem", "prove", "with", "refin", "tree", "proof", "and", "metavari"],
-	"tag": ["proving", "theorem proving"],
+	"stemmed": [
+		"tactic",
+		"theorem",
+		"prove",
+		"with",
+		"refin",
+		"tree",
+		"proof",
+		"and",
+		"metavari"
+	],
+	"tag": [
+		"proving",
+		"theorem proving"
+	],
 	"title": "Tactic Theorem Proving with Refinement-Tree Proofs and Metavariables",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

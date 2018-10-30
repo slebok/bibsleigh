@@ -1,14 +1,37 @@
 {
-	"author": ["Mohsen Jamali", "Tianle Huang", "Martin Ester"],
-	"booktitle": "RecSys",
+	"author": [
+		"Mohsen Jamali",
+		"Tianle Huang",
+		"Martin Ester"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2011",
 	"dblpkey": "conf/recsys/JamaliHE11",
 	"doi": "10.1145/2043932.2043946",
 	"ee": "http://doi.acm.org/10.1145/2043932.2043946",
 	"pages": "53-60",
 	"publisher": "ACM",
-	"stemmed": ["a", "general", "stochast", "block", "model", "for", "recommend", "in", "social", "rate", "network"],
-	"tag": ["network", "probability", "rating", "recommendation", "social"],
+	"stemmed": [
+		"a",
+		"general",
+		"stochast",
+		"block",
+		"model",
+		"for",
+		"recommend",
+		"in",
+		"social",
+		"rate",
+		"network"
+	],
+	"tag": [
+		"network",
+		"probability",
+		"rating",
+		"recommendation",
+		"social"
+	],
 	"title": "A generalized stochastic block model for recommendation in social rating networks",
 	"type": "inproceedings",
 	"venue": "RecSys",

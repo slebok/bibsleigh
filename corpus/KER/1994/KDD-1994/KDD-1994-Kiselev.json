@@ -1,13 +1,27 @@
 {
 	"author": "Mikhail V. Kiselev",
-	"booktitle": "KDD Workshop",
+	"booktitle": "Papers from the AAAI Workshop on Knowledge Discovery in Databases. Technical Report WS-94-03",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1994",
 	"dblpkey": "conf/kdd/Kiselev94",
 	"pages": "237-250",
 	"publisher": "AAAI Press",
-	"stemmed": ["poli", "analyst", "a", "machin", "discoveri", "system", "infer", "function", "program"],
-	"tag": ["functional", "named", "source code"],
+	"stemmed": [
+		"poli",
+		"analyst",
+		"a",
+		"machin",
+		"discoveri",
+		"system",
+		"infer",
+		"function",
+		"program"
+	],
+	"tag": [
+		"functional",
+		"named",
+		"source code"
+	],
 	"title": "PolyAnalyst — A Machine Discovery System Inferring Functional Programs",
 	"type": "inproceedings",
 	"venue": "KDD",

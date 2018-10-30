@@ -1,15 +1,44 @@
 {
-	"author": ["Reetuparna Das", "Rachata Ausavarungnirun", "Onur Mutlu", "Akhilesh Kumar", "Mani Azimi"],
-	"booktitle": "HPCA",
+	"author": [
+		"Reetuparna Das",
+		"Rachata Ausavarungnirun",
+		"Onur Mutlu",
+		"Akhilesh Kumar",
+		"Mani Azimi"
+	],
+	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/DasAMKA13",
 	"doi": "10.1109/HPCA.2013.6522311",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522311", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522311"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2013.6522311",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522311"
+	],
 	"pages": "107-118",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["applic", "to", "core", "map", "polici", "to", "reduc", "memori", "system", "interfer", "in", "multi", "core", "system"],
-	"tag": ["manycore", "memory management", "policy"],
+	"stemmed": [
+		"applic",
+		"to",
+		"core",
+		"map",
+		"polici",
+		"to",
+		"reduc",
+		"memori",
+		"system",
+		"interfer",
+		"in",
+		"multi",
+		"core",
+		"system"
+	],
+	"tag": [
+		"manycore",
+		"memory management",
+		"policy"
+	],
 	"title": "Application-to-core mapping policies to reduce memory system interference in multi-core systems",
 	"type": "inproceedings",
 	"venue": "HPCA",

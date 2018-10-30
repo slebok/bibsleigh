@@ -1,6 +1,7 @@
 {
 	"author": "Lawrence C. Paulson",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
 	"dblpkey": "conf/cade/Paulson15",
 	"doi": "10.1007/978-3-319-21401-6_15",
@@ -10,11 +11,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "formalis", "of", "finit", "automata", "use", "hereditarili", "finit", "set"],
-	"tag": ["automaton", "finite", "formal method", "set", "using"],
+	"stemmed": [
+		"a",
+		"formalis",
+		"of",
+		"finit",
+		"automata",
+		"use",
+		"hereditarili",
+		"finit",
+		"set"
+	],
+	"tag": [
+		"automaton",
+		"finite",
+		"formal method",
+		"set",
+		"using"
+	],
 	"title": "A Formalisation of Finite Automata Using Hereditarily Finite Sets",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 9195,
+	"volume": "9195",
 	"year": 2015
 }

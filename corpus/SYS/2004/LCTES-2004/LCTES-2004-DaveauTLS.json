@@ -1,14 +1,32 @@
 {
-	"author": ["Jean-Marc Daveau", "Thomas Thery", "Thierry Lepley", "Miguel Santana"],
-	"booktitle": "LCTES",
+	"author": [
+		"Jean-Marc Daveau",
+		"Thomas Thery",
+		"Thierry Lepley",
+		"Miguel Santana"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2004",
 	"dblpkey": "conf/lctrts/DaveauTLS04",
 	"doi": "10.1145/997163.997192",
 	"ee": "http://doi.acm.org/10.1145/997163.997192",
 	"pages": "202-210",
 	"publisher": "ACM",
-	"stemmed": ["a", "retarget", "regist", "alloc", "framework", "for", "embed", "processor"],
-	"tag": ["embedded", "framework"],
+	"stemmed": [
+		"a",
+		"retarget",
+		"regist",
+		"alloc",
+		"framework",
+		"for",
+		"embed",
+		"processor"
+	],
+	"tag": [
+		"embedded",
+		"framework"
+	],
 	"title": "A retargetable register allocation framework for embedded processors",
 	"type": "inproceedings",
 	"venue": "LCTES",

@@ -1,14 +1,28 @@
 {
-	"author": ["Shih-Hsu Huang", "Yow-Tyng Nieh", "Feng-Pin Lu"],
-	"booktitle": "DAC",
+	"author": [
+		"Shih-Hsu Huang",
+		"Yow-Tyng Nieh",
+		"Feng-Pin Lu"
+	],
+	"booktitle": "Proceedings of the 42nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/HuangNL05",
 	"doi": "10.1145/1065579.1065704",
 	"ee": "http://doi.acm.org/10.1145/1065579.1065704",
 	"pages": "475-478",
 	"publisher": "ACM",
-	"stemmed": ["race", "condit", "awar", "clock", "skew", "schedul"],
-	"tag": ["scheduling"],
+	"stemmed": [
+		"race",
+		"condit",
+		"awar",
+		"clock",
+		"skew",
+		"schedul"
+	],
+	"tag": [
+		"scheduling"
+	],
 	"title": "Race-condition-aware clock skew scheduling",
 	"type": "inproceedings",
 	"venue": "DAC",

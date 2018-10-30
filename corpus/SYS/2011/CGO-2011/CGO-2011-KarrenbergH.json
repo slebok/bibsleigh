@@ -1,15 +1,27 @@
 {
-	"acmid": 2190061,
-	"author": ["Ralf Karrenberg", "Sebastian Hack"],
-	"booktitle": "CGO",
+	"acmid": "2190061",
+	"author": [
+		"Ralf Karrenberg",
+		"Sebastian Hack"
+	],
+	"booktitle": "Proceedings of the Ninth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2011",
 	"dblpkey": "conf/cgo/KarrenbergH11",
 	"doi": "10.1109/CGO.2011.5764682",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2011.5764682", "http://doi.ieeecomputersociety.org/10.1109/CGO.2011.5764682", "http://dl.acm.org/citation.cfm?id=2190061"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2011.5764682",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2011.5764682",
+		"http://dl.acm.org/citation.cfm?id=2190061"
+	],
 	"pages": "141-150",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["whole", "function", "vector"],
+	"stemmed": [
+		"whole",
+		"function",
+		"vector"
+	],
 	"title": "Whole-function vectorization",
 	"type": "inproceedings",
 	"venue": "CGO",

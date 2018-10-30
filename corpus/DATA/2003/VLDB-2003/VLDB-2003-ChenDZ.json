@@ -1,12 +1,29 @@
 {
-	"author": ["Yi Chen", "Susan B. Davidson", "Carmem S. Hara", "Yifeng Zheng"],
-	"booktitle": "VLDB",
+	"author": [
+		"Yi Chen",
+		"Susan B. Davidson",
+		"Carmem S. Hara",
+		"Yifeng Zheng"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/ChenDZ03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S07P02.pdf",
 	"pages": "189-200",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["rrxf", "redund", "reduc", "xml", "storag", "in", "relat"],
-	"tag": ["named", "xml"],
+	"stemmed": [
+		"rrxf",
+		"redund",
+		"reduc",
+		"xml",
+		"storag",
+		"in",
+		"relat"
+	],
+	"tag": [
+		"named",
+		"xml"
+	],
 	"title": "RRXF: Redundancy reducing XML storage in relations",
 	"type": "inproceedings",
 	"venue": "VLDB",

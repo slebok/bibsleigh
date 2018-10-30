@@ -1,14 +1,47 @@
 {
-	"author": ["Maurizio Lenzerini", "Paolo Nobili"],
-	"booktitle": "VLDB",
-	"cite": ["...", "journals/tods/AlbanoCO85", "...", "...", "journals/tods/Chen76", "...", "journals/tods/HammerM81", "conf/er/Lenzerini85", "...", "books/ph/PapadimitriouS82", "...", "books/cs/Ullman82"],
+	"author": [
+		"Maurizio Lenzerini",
+		"Paolo Nobili"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"journals/tods/AlbanoCO85",
+		"...",
+		"...",
+		"journals/tods/Chen76",
+		"...",
+		"journals/tods/HammerM81",
+		"conf/er/Lenzerini85",
+		"...",
+		"books/ph/PapadimitriouS82",
+		"...",
+		"books/cs/Ullman82"
+	],
 	"crossref": "conf/vldb/87",
 	"dblpkey": "conf/vldb/LenzeriniN87",
 	"ee": "http://www.vldb.org/conf/1987/P147.PDF",
 	"pages": "147-154",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["on", "the", "satisfi", "of", "depend", "constraint", "in", "entiti", "relationship", "schemata"],
-	"tag": ["constraints", "dependence", "on the", "satisfiability"],
+	"stemmed": [
+		"on",
+		"the",
+		"satisfi",
+		"of",
+		"depend",
+		"constraint",
+		"in",
+		"entiti",
+		"relationship",
+		"schemata"
+	],
+	"tag": [
+		"constraints",
+		"dependence",
+		"on the",
+		"satisfiability"
+	],
 	"title": "On The Satisfiability of Dependency Constraints in Entity-Relationship Schemata",
 	"type": "inproceedings",
 	"venue": "VLDB",

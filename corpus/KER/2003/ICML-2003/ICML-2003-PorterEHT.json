@@ -1,13 +1,34 @@
 {
-	"author": ["Reid B. Porter", "Damian Eads", "Don R. Hush", "James Theiler"],
+	"author": [
+		"Reid B. Porter",
+		"Damian Eads",
+		"Don R. Hush",
+		"James Theiler"
+	],
 	"booktitle": "Proceedings of the 20th International Conference on Machine Learning",
+	"booktitleshort": "ICML",
 	"crossref": "conf/icml/2003",
 	"dblpkey": "conf/icml/PorterEHT03",
 	"ee": "http://www.aaai.org/Library/ICML/2003/icml03-079.php",
 	"pages": "600-607",
 	"publisher": "AAAI Press",
-	"stemmed": ["weight", "order", "statist", "classifi", "with", "larg", "rank", "order", "margin"],
-	"tag": ["classification", "order", "scalability", "statistics"],
+	"stemmed": [
+		"weight",
+		"order",
+		"statist",
+		"classifi",
+		"with",
+		"larg",
+		"rank",
+		"order",
+		"margin"
+	],
+	"tag": [
+		"classification",
+		"order",
+		"scalability",
+		"statistics"
+	],
 	"title": "Weighted Order Statistic Classifiers with Large Rank-Order Margin",
 	"type": "inproceedings",
 	"venue": "ICML",

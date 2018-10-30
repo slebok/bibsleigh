@@ -1,13 +1,35 @@
 {
-	"author": ["Trishul M. Chilimbi", "Yutaka Suzue", "Johnson Apacible", "Karthik Kalyanaraman"],
-	"booktitle": "OSDI",
+	"author": [
+		"Trishul M. Chilimbi",
+		"Yutaka Suzue",
+		"Johnson Apacible",
+		"Karthik Kalyanaraman"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2014",
 	"dblpkey": "conf/osdi/ChilimbiSAK14",
 	"ee": "https://www.usenix.org/conference/osdi14/technical-sessions/presentation/chilimbi",
 	"pages": "571-582",
 	"publisher": "USENIX Association",
-	"stemmed": ["project", "adam", "build", "an", "effici", "and", "scalabl", "deep", "learn", "train", "system"],
-	"tag": ["learning", "performance", "scalability"],
+	"stemmed": [
+		"project",
+		"adam",
+		"build",
+		"an",
+		"effici",
+		"and",
+		"scalabl",
+		"deep",
+		"learn",
+		"train",
+		"system"
+	],
+	"tag": [
+		"learning",
+		"performance",
+		"scalability"
+	],
 	"title": "Project Adam: Building an Efficient and Scalable Deep Learning Training System",
 	"type": "inproceedings",
 	"venue": "OSDI",

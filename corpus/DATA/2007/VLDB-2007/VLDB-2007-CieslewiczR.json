@@ -1,13 +1,26 @@
 {
-	"author": ["John Cieslewicz", "Kenneth A. Ross"],
-	"booktitle": "VLDB",
+	"author": [
+		"John Cieslewicz",
+		"Kenneth A. Ross"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/CieslewiczR07",
 	"ee": "http://www.vldb.org/conf/2007/papers/research/p339-cieslewicz.pdf",
 	"pages": "339-350",
 	"publisher": "ACM",
-	"stemmed": ["adapt", "aggreg", "on", "chip", "multiprocessor"],
-	"tag": ["adaptation", "multi"],
+	"stemmed": [
+		"adapt",
+		"aggreg",
+		"on",
+		"chip",
+		"multiprocessor"
+	],
+	"tag": [
+		"adaptation",
+		"multi"
+	],
 	"title": "Adaptive Aggregation on Chip Multiprocessors",
 	"type": "inproceedings",
 	"venue": "VLDB",

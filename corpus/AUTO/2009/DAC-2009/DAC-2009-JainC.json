@@ -1,14 +1,37 @@
 {
-	"author": ["Himanshu Jain", "Edmund M. Clarke"],
-	"booktitle": "DAC",
+	"author": [
+		"Himanshu Jain",
+		"Edmund M. Clarke"
+	],
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/JainC09",
 	"doi": "10.1145/1629911.1630057",
 	"ee": "http://doi.acm.org/10.1145/1629911.1630057",
 	"pages": "563-568",
 	"publisher": "ACM",
-	"stemmed": ["effici", "sat", "solv", "for", "non", "clausal", "formula", "use", "dpll", "graph", "and", "watch", "cut"],
-	"tag": ["graph", "performance", "satisfiability", "using"],
+	"stemmed": [
+		"effici",
+		"sat",
+		"solv",
+		"for",
+		"non",
+		"clausal",
+		"formula",
+		"use",
+		"dpll",
+		"graph",
+		"and",
+		"watch",
+		"cut"
+	],
+	"tag": [
+		"graph",
+		"performance",
+		"satisfiability",
+		"using"
+	],
 	"title": "Efficient SAT solving for non-clausal formulas using DPLL, graphs, and watched cuts",
 	"type": "inproceedings",
 	"venue": "DAC",

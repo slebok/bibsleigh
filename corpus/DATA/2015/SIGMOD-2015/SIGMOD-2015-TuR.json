@@ -1,6 +1,9 @@
 {
-	"author": ["Susan Tu", "Christopher Ré"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Susan Tu",
+		"Christopher Ré"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/TuR15",
@@ -8,8 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2764946",
 	"pages": "2077-2078",
 	"publisher": "ACM",
-	"stemmed": ["dunc", "cap", "queri", "plan", "use", "general", "hypertre", "decomposit"],
-	"tag": ["named", "query", "using"],
+	"stemmed": [
+		"dunc",
+		"cap",
+		"queri",
+		"plan",
+		"use",
+		"general",
+		"hypertre",
+		"decomposit"
+	],
+	"tag": [
+		"named",
+		"query",
+		"using"
+	],
 	"title": "DunceCap: Query Plans Using Generalized Hypertree Decompositions",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

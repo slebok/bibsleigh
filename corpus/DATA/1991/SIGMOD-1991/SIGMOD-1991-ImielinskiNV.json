@@ -1,15 +1,48 @@
 {
-	"author": ["Tomasz Imielinski", "Shamim A. Naqvi", "Kumar V. Vadaparty"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Tomasz Imielinski",
+		"Shamim A. Naqvi",
+		"Kumar V. Vadaparty"
+	],
+	"booktitle": "Proceedings of the 21st ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD91/P288.PDF",
-	"cite": ["conf/sigmod/AbiteboulK89", "journals/sigact/AbiteboulK90", "conf/pods/Bancilhon88", "journals/tois/BanerjeeCGKWBK87", "journals/jlp/BeeriNST91", "journals/jcss/ChandraH82", "books/fm/GareyJ79", "journals/jacm/ImielinskiL84", "conf/pods/ImielinskiV89", "journals/jacm/Jacobs82", "...", "conf/sigmod/LecluseRV88", "conf/stoc/Vardi82", "..."],
+	"cite": [
+		"conf/sigmod/AbiteboulK89",
+		"journals/sigact/AbiteboulK90",
+		"conf/pods/Bancilhon88",
+		"journals/tois/BanerjeeCGKWBK87",
+		"journals/jlp/BeeriNST91",
+		"journals/jcss/ChandraH82",
+		"books/fm/GareyJ79",
+		"journals/jacm/ImielinskiL84",
+		"conf/pods/ImielinskiV89",
+		"journals/jacm/Jacobs82",
+		"...",
+		"conf/sigmod/LecluseRV88",
+		"conf/stoc/Vardi82",
+		"..."
+	],
 	"crossref": "conf/sigmod/91",
 	"dblpkey": "conf/sigmod/ImielinskiNV91",
 	"doi": "10.1145/115790.115838",
 	"ee": "http://doi.acm.org/10.1145/115790.115838",
 	"pages": "288-297",
-	"stemmed": ["incomplet", "object", "a", "data", "model", "for", "design", "and", "plan", "applic"],
-	"tag": ["design"],
+	"stemmed": [
+		"incomplet",
+		"object",
+		"a",
+		"data",
+		"model",
+		"for",
+		"design",
+		"and",
+		"plan",
+		"applic"
+	],
+	"tag": [
+		"design"
+	],
 	"title": "Incomplete Objects — A Data Model for Design and Planning Applications",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

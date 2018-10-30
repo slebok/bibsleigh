@@ -1,14 +1,31 @@
 {
-	"author": ["Sebastian Winkel", "Rakesh Krishnaiyer", "Robyn Sampson"],
-	"booktitle": "CGO",
+	"author": [
+		"Sebastian Winkel",
+		"Rakesh Krishnaiyer",
+		"Robyn Sampson"
+	],
+	"booktitle": "Proceedings of the Sixth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2008",
 	"dblpkey": "conf/cgo/WinkelKS08",
 	"doi": "10.1145/1356058.1356073",
 	"ee": "http://doi.acm.org/10.1145/1356058.1356073",
 	"pages": "104-113",
 	"publisher": "ACM",
-	"stemmed": ["latenc", "toler", "softwar", "pipelin", "in", "a", "product", "compil"],
-	"tag": ["compilation", "pipes and filters"],
+	"stemmed": [
+		"latenc",
+		"toler",
+		"softwar",
+		"pipelin",
+		"in",
+		"a",
+		"product",
+		"compil"
+	],
+	"tag": [
+		"compilation",
+		"pipes and filters"
+	],
 	"title": "Latency-tolerant software pipelining in a production compiler",
 	"type": "inproceedings",
 	"venue": "CGO",

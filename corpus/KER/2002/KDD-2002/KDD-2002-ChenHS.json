@@ -1,14 +1,33 @@
 {
-	"author": ["Bin Chen", "Peter J. Haas", "Peter Scheuermann"],
-	"booktitle": "KDD",
+	"author": [
+		"Bin Chen",
+		"Peter J. Haas",
+		"Peter Scheuermann"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/ChenHS02",
 	"doi": "10.1145/775047.775114",
 	"ee": "http://doi.acm.org/10.1145/775047.775114",
 	"pages": "462-468",
 	"publisher": "ACM",
-	"stemmed": ["a", "new", "two", "phase", "sampl", "base", "algorithm", "for", "discov", "associ", "rule"],
-	"tag": ["algorithm"],
+	"stemmed": [
+		"a",
+		"new",
+		"two",
+		"phase",
+		"sampl",
+		"base",
+		"algorithm",
+		"for",
+		"discov",
+		"associ",
+		"rule"
+	],
+	"tag": [
+		"algorithm"
+	],
 	"title": "A new two-phase sampling based algorithm for discovering association rules",
 	"type": "inproceedings",
 	"venue": "KDD",

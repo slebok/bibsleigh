@@ -1,13 +1,31 @@
 {
-	"author": ["Li Chen", "Amarnath Gupta", "M. Erdem Kurul"],
-	"booktitle": "VLDB",
+	"author": [
+		"Li Chen",
+		"Amarnath Gupta",
+		"M. Erdem Kurul"
+	],
+	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/ChenGK05",
 	"ee": "http://www.vldb2005.org/program/paper/wed/p493-chen.pdf",
 	"pages": "493-504",
 	"publisher": "ACM",
-	"stemmed": ["stack", "base", "algorithm", "for", "pattern", "match", "on", "dag"],
-	"tag": ["algorithm", "graph", "pattern matching"],
+	"stemmed": [
+		"stack",
+		"base",
+		"algorithm",
+		"for",
+		"pattern",
+		"match",
+		"on",
+		"dag"
+	],
+	"tag": [
+		"algorithm",
+		"graph",
+		"pattern matching"
+	],
 	"title": "Stack-based Algorithms for Pattern Matching on DAGs",
 	"type": "inproceedings",
 	"venue": "VLDB",

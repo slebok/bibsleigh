@@ -1,6 +1,11 @@
 {
-	"author": ["Florent Jacquemard", "Michaël Rusinowitch", "Laurent Vigneron"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Florent Jacquemard",
+		"Michaël Rusinowitch",
+		"Laurent Vigneron"
+	],
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/JacquemardRV06",
 	"doi": "10.1007/11814771_45",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["tree", "automata", "with", "equal", "constraint", "modulo", "equat", "theori"],
-	"tag": ["automaton", "constraints", "equation", "similarity"],
+	"stemmed": [
+		"tree",
+		"automata",
+		"with",
+		"equal",
+		"constraint",
+		"modulo",
+		"equat",
+		"theori"
+	],
+	"tag": [
+		"automaton",
+		"constraints",
+		"equation",
+		"similarity"
+	],
 	"title": "Tree Automata with Equality Constraints Modulo Equational Theories",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

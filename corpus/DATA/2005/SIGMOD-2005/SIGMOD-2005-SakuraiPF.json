@@ -1,6 +1,10 @@
 {
-	"author": ["Yasushi Sakurai", "Spiros Papadimitriou", "Christos Faloutsos"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yasushi Sakurai",
+		"Spiros Papadimitriou",
+		"Christos Faloutsos"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/SakuraiPF05",
@@ -8,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066226",
 	"pages": "599-610",
 	"publisher": "ACM",
-	"stemmed": ["braid", "stream", "mine", "through", "group", "lag", "correl"],
-	"tag": ["correlation", "mining", "named"],
+	"stemmed": [
+		"braid",
+		"stream",
+		"mine",
+		"through",
+		"group",
+		"lag",
+		"correl"
+	],
+	"tag": [
+		"correlation",
+		"mining",
+		"named"
+	],
 	"title": "BRAID: Stream Mining through Group Lag Correlations",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,35 @@
 {
-	"author": ["Mukund Seshadri", "Sridhar Machiraju", "Ashwin Sridharan", "Jean Bolot", "Christos Faloutsos", "Jure Leskovec"],
-	"booktitle": "KDD",
+	"author": [
+		"Mukund Seshadri",
+		"Sridhar Machiraju",
+		"Ashwin Sridharan",
+		"Jean Bolot",
+		"Christos Faloutsos",
+		"Jure Leskovec"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/SeshadriMSBFL08",
 	"doi": "10.1145/1401890.1401963",
 	"ee": "http://doi.acm.org/10.1145/1401890.1401963",
 	"pages": "596-604",
 	"publisher": "ACM",
-	"stemmed": ["mobil", "call", "graph", "beyond", "power", "law", "and", "lognorm", "distribut"],
-	"tag": ["graph", "mobile"],
+	"stemmed": [
+		"mobil",
+		"call",
+		"graph",
+		"beyond",
+		"power",
+		"law",
+		"and",
+		"lognorm",
+		"distribut"
+	],
+	"tag": [
+		"graph",
+		"mobile"
+	],
 	"title": "Mobile call graphs: beyond power-law and lognormal distributions",
 	"type": "inproceedings",
 	"venue": "KDD",

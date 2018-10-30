@@ -1,6 +1,17 @@
 {
-	"author": ["Arijit Biswas", "Charles Recchia", "Shubhendu S. Mukherjee", "Vinod Ambrose", "Leo Chan", "Aamer Jaleel", "Athanasios E. Papathanasiou", "Mike Plaster", "Norbert Seifert"],
-	"booktitle": "HPCA",
+	"author": [
+		"Arijit Biswas",
+		"Charles Recchia",
+		"Shubhendu S. Mukherjee",
+		"Vinod Ambrose",
+		"Leo Chan",
+		"Aamer Jaleel",
+		"Athanasios E. Papathanasiou",
+		"Mike Plaster",
+		"Norbert Seifert"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2010",
 	"dblpkey": "conf/hpca/BiswasRMACJPPS10",
 	"doi": "10.1109/HPCA.2010.5416629",
@@ -8,8 +19,20 @@
 	"pages": "1-12",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["explain", "cach", "ser", "anomali", "use", "due", "avf", "measur"],
-	"tag": ["metric", "using"],
+	"stemmed": [
+		"explain",
+		"cach",
+		"ser",
+		"anomali",
+		"use",
+		"due",
+		"avf",
+		"measur"
+	],
+	"tag": [
+		"metric",
+		"using"
+	],
 	"title": "Explaining cache SER anomaly using DUE AVF measurement",
 	"type": "inproceedings",
 	"venue": "HPCA",

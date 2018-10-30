@@ -1,6 +1,7 @@
 {
 	"author": "Don R. Swanson",
 	"booktitle": "Proceedings of the 14th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1991/P280.pdf",
 	"crossref": "conf/sigir/91",
 	"dblpkey": "conf/sigir/Swanson91",
@@ -8,8 +9,19 @@
 	"ee": "http://doi.acm.org/10.1145/122860.122889",
 	"pages": "280-289",
 	"publisher": "ACM",
-	"stemmed": ["analysi", "of", "unintend", "connect", "between", "disjoint", "scienc", "literatur"],
-	"tag": ["analysis"],
+	"stemmed": [
+		"analysi",
+		"of",
+		"unintend",
+		"connect",
+		"between",
+		"disjoint",
+		"scienc",
+		"literatur"
+	],
+	"tag": [
+		"analysis"
+	],
 	"title": "Analysis of Unintended Connections Between Disjoint Science Literatures",
 	"type": "inproceedings",
 	"venue": "SIGIR",

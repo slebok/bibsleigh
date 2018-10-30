@@ -1,13 +1,29 @@
 {
-	"author": ["Trevor Jim", "Dan Suciu"],
-	"booktitle": "PODS",
+	"author": [
+		"Trevor Jim",
+		"Dan Suciu"
+	],
+	"booktitle": "Proceedings of the 20th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2001",
 	"dblpkey": "conf/pods/JimS01",
 	"doi": "10.1145/375551.375557",
-	"ee": ["http://doi.acm.org/10.1145/375551.375557", "http://www.acm.org/sigs/sigmod/pods/proc01/online/p87.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/375551.375557",
+		"http://www.acm.org/sigs/sigmod/pods/proc01/online/p87.pdf"
+	],
 	"publisher": "ACM",
-	"stemmed": ["dynam", "distribut", "queri", "evalu"],
-	"tag": ["distributed", "evaluation", "query"],
+	"stemmed": [
+		"dynam",
+		"distribut",
+		"queri",
+		"evalu"
+	],
+	"tag": [
+		"distributed",
+		"evaluation",
+		"query"
+	],
 	"title": "Dynamically Distributed Query Evaluation",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,14 +1,37 @@
 {
-	"author": ["Simone Campanoni", "Timothy M. Jones", "Glenn H. Holloway", "Vijay Janapa Reddi", "Gu-Yeon Wei", "David M. Brooks"],
-	"booktitle": "CGO",
+	"author": [
+		"Simone Campanoni",
+		"Timothy M. Jones",
+		"Glenn H. Holloway",
+		"Vijay Janapa Reddi",
+		"Gu-Yeon Wei",
+		"David M. Brooks"
+	],
+	"booktitle": "Proceedings of the 10th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2012",
 	"dblpkey": "conf/cgo/CampanoniJHRWB12",
 	"doi": "10.1145/2259016.2259028",
 	"ee": "http://doi.acm.org/10.1145/2259016.2259028",
 	"pages": "84-93",
 	"publisher": "ACM",
-	"stemmed": ["helix", "automat", "parallel", "of", "irregular", "program", "for", "chip", "multiprocess"],
-	"tag": ["automation", "named", "parallel", "source code"],
+	"stemmed": [
+		"helix",
+		"automat",
+		"parallel",
+		"of",
+		"irregular",
+		"program",
+		"for",
+		"chip",
+		"multiprocess"
+	],
+	"tag": [
+		"automation",
+		"named",
+		"parallel",
+		"source code"
+	],
 	"title": "HELIX: automatic parallelization of irregular programs for chip multiprocessing",
 	"type": "inproceedings",
 	"venue": "CGO",

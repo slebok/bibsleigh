@@ -1,14 +1,37 @@
 {
-	"author": ["Christophe Alias", "Alain Darte", "Alexandru Plesco"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Christophe Alias",
+		"Alain Darte",
+		"Alexandru Plesco"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/AliasDP12",
 	"doi": "10.1145/2145816.2145856",
 	"ee": "http://doi.acm.org/10.1145/2145816.2145856",
 	"pages": "285-286",
 	"publisher": "ACM",
-	"stemmed": ["optim", "remot", "access", "for", "offload", "kernel", "applic", "to", "high", "level", "synthesi", "for", "fpga"],
-	"tag": ["kernel", "optimisation", "synthesis"],
+	"stemmed": [
+		"optim",
+		"remot",
+		"access",
+		"for",
+		"offload",
+		"kernel",
+		"applic",
+		"to",
+		"high",
+		"level",
+		"synthesi",
+		"for",
+		"fpga"
+	],
+	"tag": [
+		"kernel",
+		"optimisation",
+		"synthesis"
+	],
 	"title": "Optimizing remote accesses for offloaded kernels: application to high-level synthesis for FPGA",
 	"type": "inproceedings",
 	"venue": "PPoPP",

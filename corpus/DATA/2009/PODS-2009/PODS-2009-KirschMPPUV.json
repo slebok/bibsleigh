@@ -1,14 +1,38 @@
 {
-	"author": ["Adam Kirsch", "Michael Mitzenmacher", "Andrea Pietracaprina", "Geppino Pucci", "Eli Upfal", "Fabio Vandin"],
-	"booktitle": "PODS",
+	"author": [
+		"Adam Kirsch",
+		"Michael Mitzenmacher",
+		"Andrea Pietracaprina",
+		"Geppino Pucci",
+		"Eli Upfal",
+		"Fabio Vandin"
+	],
+	"booktitle": "Proceedings of the 28th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2009",
 	"dblpkey": "conf/pods/KirschMPPUV09",
 	"doi": "10.1145/1559795.1559814",
 	"ee": "http://doi.acm.org/10.1145/1559795.1559814",
 	"pages": "117-126",
 	"publisher": "ACM",
-	"stemmed": ["an", "effici", "rigor", "approach", "for", "identifi", "statist", "signific", "frequent", "itemset"],
-	"tag": ["approach", "identification", "performance", "statistics"],
+	"stemmed": [
+		"an",
+		"effici",
+		"rigor",
+		"approach",
+		"for",
+		"identifi",
+		"statist",
+		"signific",
+		"frequent",
+		"itemset"
+	],
+	"tag": [
+		"approach",
+		"identification",
+		"performance",
+		"statistics"
+	],
 	"title": "An efficient rigorous approach for identifying statistically significant frequent itemsets",
 	"type": "inproceedings",
 	"venue": "PODS",

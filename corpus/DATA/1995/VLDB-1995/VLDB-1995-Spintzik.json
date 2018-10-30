@@ -1,13 +1,29 @@
 {
 	"author": "Hannes Spintzik",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the 21st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/95",
 	"dblpkey": "conf/vldb/Spintzik95",
 	"ee": "http://www.vldb.org/conf/1995/P706.PDF",
-	"pages": 706,
+	"pages": "706",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["informix", "onlin", "xps", "a", "dynam", "scalabl", "rdbms", "for", "open", "parallel", "platform"],
-	"tag": ["parallel", "scalability"],
+	"stemmed": [
+		"informix",
+		"onlin",
+		"xps",
+		"a",
+		"dynam",
+		"scalabl",
+		"rdbms",
+		"for",
+		"open",
+		"parallel",
+		"platform"
+	],
+	"tag": [
+		"parallel",
+		"scalability"
+	],
 	"title": "Informix-Online XPS: A Dynamically Scalable RDBMS for Open Parallel Platforms",
 	"type": "inproceedings",
 	"venue": "VLDB",

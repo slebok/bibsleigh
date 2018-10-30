@@ -1,13 +1,34 @@
 {
-	"author": ["KyoungSoo Park", "Vivek S. Pai", "Larry L. Peterson", "Zhe Wang"],
-	"booktitle": "OSDI",
+	"author": [
+		"KyoungSoo Park",
+		"Vivek S. Pai",
+		"Larry L. Peterson",
+		"Zhe Wang"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2004",
 	"dblpkey": "conf/osdi/ParkPPW04",
 	"ee": "http://www.usenix.org/events/osdi04/tech/park.html",
 	"pages": "199-214",
 	"publisher": "USENIX Association",
-	"stemmed": ["co", "dns", "improv", "dns", "perform", "and", "reliabl", "via", "cooper", "lookup"],
-	"tag": ["named", "performance", "reliability"],
+	"stemmed": [
+		"co",
+		"dns",
+		"improv",
+		"dns",
+		"perform",
+		"and",
+		"reliabl",
+		"via",
+		"cooper",
+		"lookup"
+	],
+	"tag": [
+		"named",
+		"performance",
+		"reliability"
+	],
 	"title": "CoDNS: Improving DNS Performance and Reliability via Cooperative Lookups",
 	"type": "inproceedings",
 	"venue": "OSDI",

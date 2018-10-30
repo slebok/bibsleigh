@@ -1,6 +1,7 @@
 {
 	"author": "Mark E. Stickel",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Stickel86",
 	"doi": "10.1007/3-540-16780-3_122",
@@ -10,11 +11,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "prolog", "technolog", "theorem", "prover", "implement", "by", "an", "extend", "prolog", "compil"],
-	"tag": ["compilation", "implementation", "prolog", "proving", "theorem proving"],
+	"stemmed": [
+		"a",
+		"prolog",
+		"technolog",
+		"theorem",
+		"prover",
+		"implement",
+		"by",
+		"an",
+		"extend",
+		"prolog",
+		"compil"
+	],
+	"tag": [
+		"compilation",
+		"implementation",
+		"prolog",
+		"proving",
+		"theorem proving"
+	],
 	"title": "A prolog Technology Theorem Prover: Implementation by an Extended Prolog Compiler",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

@@ -1,14 +1,33 @@
 {
-	"author": ["Corinne Ancourt", "Thi Viet Nga Nguyen"],
-	"booktitle": "PASTE",
+	"author": [
+		"Corinne Ancourt",
+		"Thi Viet Nga Nguyen"
+	],
+	"booktitle": "Proceedings of the Third Workshop on Program Analysis for Software Tools and Engineering",
+	"booktitleshort": "PASTE",
 	"crossref": "conf/paste/2001",
 	"dblpkey": "conf/paste/AncourtN01",
 	"doi": "10.1145/379605.379656",
 	"ee": "http://doi.acm.org/10.1145/379605.379656",
 	"pages": "32-37",
 	"publisher": "ACM",
-	"stemmed": ["array", "resiz", "for", "scientif", "code", "debug", "mainten", "and", "reus"],
-	"tag": ["array", "debugging", "maintenance", "reuse"],
+	"stemmed": [
+		"array",
+		"resiz",
+		"for",
+		"scientif",
+		"code",
+		"debug",
+		"mainten",
+		"and",
+		"reus"
+	],
+	"tag": [
+		"array",
+		"debugging",
+		"maintenance",
+		"reuse"
+	],
 	"title": "Array resizing for scientific code debugging, maintenance and reuse",
 	"type": "inproceedings",
 	"venue": "PASTE",

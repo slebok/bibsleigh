@@ -1,14 +1,38 @@
 {
-	"author": ["Ravi Krishnamurthy", "Stephen P. Morgan", "Moshé M. Zloof"],
-	"booktitle": "VLDB",
-	"cite": ["journals/jacm/Keller73b", "...", "...", "...", "journals/ibmsj/Zloof77"],
+	"author": [
+		"Ravi Krishnamurthy",
+		"Stephen P. Morgan",
+		"Moshé M. Zloof"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/jacm/Keller73b",
+		"...",
+		"...",
+		"...",
+		"journals/ibmsj/Zloof77"
+	],
 	"crossref": "conf/vldb/83",
 	"dblpkey": "conf/vldb/KrishnamurthyMZ83",
 	"ee": "http://www.vldb.org/conf/1983/P305.PDF",
 	"pages": "305-308",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["queri", "by", "exampl", "oper", "on", "piecewis", "continu", "data", "extend", "abstract"],
-	"tag": ["named"],
+	"stemmed": [
+		"queri",
+		"by",
+		"exampl",
+		"oper",
+		"on",
+		"piecewis",
+		"continu",
+		"data",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "Query-By-Example: Operations on Piecewise Continuous Data (Extended Abstract)",
 	"type": "inproceedings",
 	"venue": "VLDB",

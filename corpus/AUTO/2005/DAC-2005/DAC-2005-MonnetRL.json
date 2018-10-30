@@ -1,14 +1,29 @@
 {
-	"author": ["Yannick Monnet", "Marc Renaudin", "Régis Leveugle"],
-	"booktitle": "DAC",
+	"author": [
+		"Yannick Monnet",
+		"Marc Renaudin",
+		"Régis Leveugle"
+	],
+	"booktitle": "Proceedings of the 42nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/MonnetRL05",
 	"doi": "10.1145/1065579.1065805",
 	"ee": "http://doi.acm.org/10.1145/1065579.1065805",
 	"pages": "863-868",
 	"publisher": "ACM",
-	"stemmed": ["asynchron", "circuit", "transient", "fault", "sensit", "evalu"],
-	"tag": ["evaluation", "fault"],
+	"stemmed": [
+		"asynchron",
+		"circuit",
+		"transient",
+		"fault",
+		"sensit",
+		"evalu"
+	],
+	"tag": [
+		"evaluation",
+		"fault"
+	],
 	"title": "Asynchronous circuits transient faults sensitivity evaluation",
 	"type": "inproceedings",
 	"venue": "DAC",

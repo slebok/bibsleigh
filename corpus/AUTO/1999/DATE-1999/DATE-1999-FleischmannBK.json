@@ -1,6 +1,11 @@
 {
-	"author": ["Josef Fleischmann", "Klaus Buchenrieder", "Rainer Kress"],
-	"booktitle": "DATE",
+	"author": [
+		"Josef Fleischmann",
+		"Klaus Buchenrieder",
+		"Rainer Kress"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/FleischmannBK99",
 	"doi": "10.1109/DATE.1999.761222",
@@ -8,8 +13,26 @@
 	"pages": "768-769",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["codesign", "of", "embed", "system", "base", "on", "java", "and", "reconfigur", "hardwar", "compon"],
-	"tag": ["component", "configuration management", "embedded", "hardware", "java"],
+	"stemmed": [
+		"codesign",
+		"of",
+		"embed",
+		"system",
+		"base",
+		"on",
+		"java",
+		"and",
+		"reconfigur",
+		"hardwar",
+		"compon"
+	],
+	"tag": [
+		"component",
+		"configuration management",
+		"embedded",
+		"hardware",
+		"java"
+	],
 	"title": "Codesign of Embedded Systems Based on Java and Reconfigurable Hardware Components",
 	"type": "inproceedings",
 	"venue": "DATE",

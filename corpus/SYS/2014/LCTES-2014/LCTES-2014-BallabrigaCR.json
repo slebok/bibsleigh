@@ -1,14 +1,30 @@
 {
-	"author": ["Clément Ballabriga", "Lee Kee Chong", "Abhik Roychoudhury"],
-	"booktitle": "LCTES",
+	"author": [
+		"Clément Ballabriga",
+		"Lee Kee Chong",
+		"Abhik Roychoudhury"
+	],
+	"booktitle": "Proceedings of the 15th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2014",
 	"dblpkey": "conf/lctrts/BallabrigaCR14",
 	"doi": "10.1145/2597809.2597814",
 	"ee": "http://doi.acm.org/10.1145/2597809.2597814",
 	"pages": "33-42",
 	"publisher": "ACM",
-	"stemmed": ["cach", "relat", "preemption", "delay", "analysi", "for", "fifo", "cach"],
-	"tag": ["analysis"],
+	"stemmed": [
+		"cach",
+		"relat",
+		"preemption",
+		"delay",
+		"analysi",
+		"for",
+		"fifo",
+		"cach"
+	],
+	"tag": [
+		"analysis"
+	],
 	"title": "Cache-related preemption delay analysis for FIFO caches",
 	"type": "inproceedings",
 	"venue": "LCTES",

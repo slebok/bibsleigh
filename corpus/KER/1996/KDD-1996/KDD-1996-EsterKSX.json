@@ -1,13 +1,38 @@
 {
-	"author": ["Martin Ester", "Hans-Peter Kriegel", "Jörg Sander", "Xiaowei Xu"],
-	"booktitle": "KDD",
+	"author": [
+		"Martin Ester",
+		"Hans-Peter Kriegel",
+		"Jörg Sander",
+		"Xiaowei Xu"
+	],
+	"booktitle": "Proceedings of the Second International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1996",
 	"dblpkey": "conf/kdd/EsterKSX96",
 	"ee": "http://www.aaai.org/Library/KDD/1996/kdd96-037.php",
 	"pages": "226-231",
 	"publisher": "AAAI Press",
-	"stemmed": ["a", "densiti", "base", "algorithm", "for", "discov", "cluster", "in", "larg", "spatial", "databas", "with", "nois"],
-	"tag": ["algorithm", "clustering", "database", "scalability"],
+	"stemmed": [
+		"a",
+		"densiti",
+		"base",
+		"algorithm",
+		"for",
+		"discov",
+		"cluster",
+		"in",
+		"larg",
+		"spatial",
+		"databas",
+		"with",
+		"nois"
+	],
+	"tag": [
+		"algorithm",
+		"clustering",
+		"database",
+		"scalability"
+	],
 	"title": "A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise",
 	"type": "inproceedings",
 	"venue": "KDD",

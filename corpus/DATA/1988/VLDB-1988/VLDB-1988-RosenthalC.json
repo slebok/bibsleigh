@@ -1,14 +1,43 @@
 {
-	"author": ["Arnon Rosenthal", "Upen S. Chakravarthy"],
-	"booktitle": "VLDB",
-	"cite": ["...", "conf/vldb/ChakravarthyM86", "journals/sigmod/DayalBBCHLMRSCLJ88", "conf/sigmod/Finkelstein82", "conf/sigmod/Freytag87", "books/fm/GareyJ79", "conf/sigmod/GraefeD87", "conf/adbt/GrantM79", "...", "conf/sigmod/RosenthalR82", "journals/debu/RosenthalH86", "conf/sigmod/SelingerACLP79", "conf/sigmod/Sellis86"],
+	"author": [
+		"Arnon Rosenthal",
+		"Upen S. Chakravarthy"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"conf/vldb/ChakravarthyM86",
+		"journals/sigmod/DayalBBCHLMRSCLJ88",
+		"conf/sigmod/Finkelstein82",
+		"conf/sigmod/Freytag87",
+		"books/fm/GareyJ79",
+		"conf/sigmod/GraefeD87",
+		"conf/adbt/GrantM79",
+		"...",
+		"conf/sigmod/RosenthalR82",
+		"journals/debu/RosenthalH86",
+		"conf/sigmod/SelingerACLP79",
+		"conf/sigmod/Sellis86"
+	],
 	"crossref": "conf/vldb/88",
 	"dblpkey": "conf/vldb/RosenthalC88",
 	"ee": "http://www.vldb.org/conf/1988/P230.PDF",
 	"pages": "230-239",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["anatomi", "of", "a", "mudular", "multipl", "queri", "optim"],
-	"tag": ["multi", "query"],
+	"stemmed": [
+		"anatomi",
+		"of",
+		"a",
+		"mudular",
+		"multipl",
+		"queri",
+		"optim"
+	],
+	"tag": [
+		"multi",
+		"query"
+	],
 	"title": "Anatomy of a Mudular Multiple Query Optimizer",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,14 +1,32 @@
 {
-	"author": ["Ajoy K. Bose", "Patrick Kozak", "Chi-Yuan Lo", "Hao N. Nham", "Ernesto Pacas-Skewes", "Kwok W. Wu"],
-	"booktitle": "DAC",
+	"author": [
+		"Ajoy K. Bose",
+		"Patrick Kozak",
+		"Chi-Yuan Lo",
+		"Hao N. Nham",
+		"Ernesto Pacas-Skewes",
+		"Kwok W. Wu"
+	],
+	"booktitle": "Proceedings of the 19th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1982",
 	"dblpkey": "conf/dac/BoseKLNPW82",
 	"doi": "10.1145/800263.809236",
 	"ee": "http://doi.acm.org/10.1145/800263.809236",
 	"pages": "400-409",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["a", "fault", "simul", "for", "mos", "lsi", "circuit"],
-	"tag": ["fault"],
+	"stemmed": [
+		"a",
+		"fault",
+		"simul",
+		"for",
+		"mos",
+		"lsi",
+		"circuit"
+	],
+	"tag": [
+		"fault"
+	],
 	"title": "A fault simulator for MOS LSI circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

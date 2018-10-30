@@ -1,6 +1,11 @@
 {
-	"author": ["René Thiemann", "Jürgen Giesl", "Peter Schneider-Kamp"],
-	"booktitle": "IJCAR",
+	"author": [
+		"René Thiemann",
+		"Jürgen Giesl",
+		"Peter Schneider-Kamp"
+	],
+	"booktitle": "Proceedings of the Second International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2004",
 	"dblpkey": "conf/cade/ThiemannGS04",
 	"doi": "10.1007/978-3-540-25984-8_4",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["improv", "modular", "termin", "proof", "use", "depend", "pair"],
-	"tag": ["composition", "dependence", "proving", "termination", "using"],
+	"stemmed": [
+		"improv",
+		"modular",
+		"termin",
+		"proof",
+		"use",
+		"depend",
+		"pair"
+	],
+	"tag": [
+		"composition",
+		"dependence",
+		"proving",
+		"termination",
+		"using"
+	],
 	"title": "Improved Modular Termination Proofs Using Dependency Pairs",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 3097,
+	"volume": "3097",
 	"year": 2004
 }

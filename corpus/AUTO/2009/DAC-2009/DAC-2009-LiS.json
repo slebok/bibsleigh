@@ -1,14 +1,30 @@
 {
-	"author": ["Yan Li", "Vladimir Stojanovic"],
-	"booktitle": "DAC",
+	"author": [
+		"Yan Li",
+		"Vladimir Stojanovic"
+	],
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/LiS09",
 	"doi": "10.1145/1629911.1630065",
 	"ee": "http://doi.acm.org/10.1145/1629911.1630065",
 	"pages": "599-604",
 	"publisher": "ACM",
-	"stemmed": ["yield", "driven", "iter", "robust", "circuit", "optim", "algorithm"],
-	"tag": ["algorithm", "optimisation", "robust"],
+	"stemmed": [
+		"yield",
+		"driven",
+		"iter",
+		"robust",
+		"circuit",
+		"optim",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"optimisation",
+		"robust"
+	],
 	"title": "Yield-driven iterative robust circuit optimization algorithm",
 	"type": "inproceedings",
 	"venue": "DAC",

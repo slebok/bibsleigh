@@ -1,14 +1,36 @@
 {
-	"author": ["Yufei Tao", "Xiaokui Xiao", "Shuigeng Zhou"],
-	"booktitle": "KDD",
+	"author": [
+		"Yufei Tao",
+		"Xiaokui Xiao",
+		"Shuigeng Zhou"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/TaoXZ06",
 	"doi": "10.1145/1150402.1150447",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150447",
 	"pages": "394-403",
 	"publisher": "ACM",
-	"stemmed": ["mine", "distanc", "base", "outlier", "from", "larg", "databas", "in", "ani", "metric", "space"],
-	"tag": ["database", "metric", "mining", "scalability"],
+	"stemmed": [
+		"mine",
+		"distanc",
+		"base",
+		"outlier",
+		"from",
+		"larg",
+		"databas",
+		"in",
+		"ani",
+		"metric",
+		"space"
+	],
+	"tag": [
+		"database",
+		"metric",
+		"mining",
+		"scalability"
+	],
 	"title": "Mining distance-based outliers from large databases in any metric space",
 	"type": "inproceedings",
 	"venue": "KDD",

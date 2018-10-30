@@ -1,14 +1,38 @@
 {
-	"author": ["Robson Leonardo Ferreira Cordeiro", "Caetano Traina Jr.", "Agma Juci Machado Traina", "Julio López", "U. Kang", "Christos Faloutsos"],
-	"booktitle": "KDD",
+	"author": [
+		"Robson Leonardo Ferreira Cordeiro",
+		"Caetano Traina Jr.",
+		"Agma Juci Machado Traina",
+		"Julio López",
+		"U. Kang",
+		"Christos Faloutsos"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/CordeiroTTLKF11",
 	"doi": "10.1145/2020408.2020516",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020516",
 	"pages": "690-698",
 	"publisher": "ACM",
-	"stemmed": ["cluster", "veri", "larg", "multi", "dimension", "dataset", "with", "map", "reduc"],
-	"tag": ["clustering", "dataset", "multi", "pipes and filters", "scalability"],
+	"stemmed": [
+		"cluster",
+		"veri",
+		"larg",
+		"multi",
+		"dimension",
+		"dataset",
+		"with",
+		"map",
+		"reduc"
+	],
+	"tag": [
+		"clustering",
+		"dataset",
+		"multi",
+		"pipes and filters",
+		"scalability"
+	],
 	"title": "Clustering very large multi-dimensional datasets with MapReduce",
 	"type": "inproceedings",
 	"venue": "KDD",

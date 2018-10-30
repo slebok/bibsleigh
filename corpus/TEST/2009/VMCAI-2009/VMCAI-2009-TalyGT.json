@@ -1,6 +1,11 @@
 {
-	"author": ["Ankur Taly", "Sumit Gulwani", "Ashish Tiwari"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Ankur Taly",
+		"Sumit Gulwani",
+		"Ashish Tiwari"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2009",
 	"dblpkey": "conf/vmcai/TalyGT09",
 	"doi": "10.1007/978-3-540-93900-9_25",
@@ -10,11 +15,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["synthes", "switch", "logic", "use", "constraint", "solv"],
-	"tag": ["constraints", "logic", "theorem proving", "using"],
+	"stemmed": [
+		"synthes",
+		"switch",
+		"logic",
+		"use",
+		"constraint",
+		"solv"
+	],
+	"tag": [
+		"constraints",
+		"logic",
+		"theorem proving",
+		"using"
+	],
 	"title": "Synthesizing Switching Logic Using Constraint Solving",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 5403,
+	"volume": "5403",
 	"year": 2009
 }

@@ -1,14 +1,36 @@
 {
-	"author": ["Honghui Lu", "Alan L. Cox", "Sandhya Dwarkadas", "Ramakrishnan Rajamony", "Willy Zwaenepoel"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Honghui Lu",
+		"Alan L. Cox",
+		"Sandhya Dwarkadas",
+		"Ramakrishnan Rajamony",
+		"Willy Zwaenepoel"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1997",
 	"dblpkey": "conf/ppopp/LuCDRZ97",
 	"doi": "10.1145/263764.263772",
 	"ee": "http://doi.acm.org/10.1145/263764.263772",
 	"pages": "48-56",
 	"publisher": "ACM",
-	"stemmed": ["compil", "and", "softwar", "distribut", "share", "memori", "support", "for", "irregular", "applic"],
-	"tag": ["compilation", "distributed", "memory management"],
+	"stemmed": [
+		"compil",
+		"and",
+		"softwar",
+		"distribut",
+		"share",
+		"memori",
+		"support",
+		"for",
+		"irregular",
+		"applic"
+	],
+	"tag": [
+		"compilation",
+		"distributed",
+		"memory management"
+	],
 	"title": "Compiler and Software Distributed Shared Memory Support for Irregular Applications",
 	"type": "inproceedings",
 	"venue": "PPoPP",

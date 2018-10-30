@@ -1,14 +1,32 @@
 {
-	"author": ["Hugh Leather", "Michael F. P. O'Boyle", "Bruce Worton"],
-	"booktitle": "LCTES",
+	"author": [
+		"Hugh Leather",
+		"Michael F. P. O'Boyle",
+		"Bruce Worton"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2009",
 	"dblpkey": "conf/lctrts/LeatherOW09",
 	"doi": "10.1145/1542452.1542460",
 	"ee": "http://doi.acm.org/10.1145/1542452.1542460",
 	"pages": "50-59",
 	"publisher": "ACM",
-	"stemmed": ["race", "profil", "effici", "select", "of", "compet", "compil", "optim"],
-	"tag": ["compilation", "optimisation", "performance"],
+	"stemmed": [
+		"race",
+		"profil",
+		"effici",
+		"select",
+		"of",
+		"compet",
+		"compil",
+		"optim"
+	],
+	"tag": [
+		"compilation",
+		"optimisation",
+		"performance"
+	],
 	"title": "Raced profiles: efficient selection of competing compiler optimizations",
 	"type": "inproceedings",
 	"venue": "LCTES",

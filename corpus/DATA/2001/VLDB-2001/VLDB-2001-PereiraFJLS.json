@@ -1,13 +1,35 @@
 {
-	"author": ["João L. M. Pereira", "Françoise Fabret", "Hans-Arno Jacobsen", "François Llirbat", "Dennis Shasha"],
-	"booktitle": "VLDB",
+	"author": [
+		"João L. M. Pereira",
+		"Françoise Fabret",
+		"Hans-Arno Jacobsen",
+		"François Llirbat",
+		"Dennis Shasha"
+	],
+	"booktitle": "Proceedings of the 27th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2001",
 	"dblpkey": "conf/vldb/PereiraFJLS01",
 	"ee": "http://www.vldb.org/conf/2001/P723.pdf",
 	"pages": "723-724",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["web", "filter", "a", "high", "throughput", "xml", "base", "publish", "and", "subscrib", "system"],
-	"tag": ["named", "xml"],
+	"stemmed": [
+		"web",
+		"filter",
+		"a",
+		"high",
+		"throughput",
+		"xml",
+		"base",
+		"publish",
+		"and",
+		"subscrib",
+		"system"
+	],
+	"tag": [
+		"named",
+		"xml"
+	],
 	"title": "WebFilter: A High-throughput XML-based Publish and Subscribe System",
 	"type": "inproceedings",
 	"venue": "VLDB",

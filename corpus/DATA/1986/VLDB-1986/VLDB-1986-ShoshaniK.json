@@ -1,14 +1,36 @@
 {
-	"author": ["Arie Shoshani", "Kyoji Kawagoe"],
-	"booktitle": "VLDB",
-	"cite": ["conf/icde/Ahn86", "journals/sigmod/BolourADW82", "conf/sigmod/CliffordT85", "conf/vldb/EggersS80", "conf/wg/HinrichsN83", "conf/sigmod/LumDEGPWWW84", "journals/tods/NievergeltHS84", "...", "...", "conf/pods/Snodgrass84", "conf/sigmod/SnodgrassA85"],
+	"author": [
+		"Arie Shoshani",
+		"Kyoji Kawagoe"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/icde/Ahn86",
+		"journals/sigmod/BolourADW82",
+		"conf/sigmod/CliffordT85",
+		"conf/vldb/EggersS80",
+		"conf/wg/HinrichsN83",
+		"conf/sigmod/LumDEGPWWW84",
+		"journals/tods/NievergeltHS84",
+		"...",
+		"...",
+		"conf/pods/Snodgrass84",
+		"conf/sigmod/SnodgrassA85"
+	],
 	"crossref": "conf/vldb/86",
 	"dblpkey": "conf/vldb/ShoshaniK86",
 	"ee": "http://www.vldb.org/conf/1986/P079.PDF",
 	"pages": "79-88",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["tempor", "data", "manag"],
-	"tag": ["data transformation"],
+	"stemmed": [
+		"tempor",
+		"data",
+		"manag"
+	],
+	"tag": [
+		"data transformation"
+	],
 	"title": "Temporal Data Management",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,7 @@
 {
 	"author": "Leslie L. Miller",
 	"booktitle": "Proceedings of the Second International Conference on Information Storage and Retrieval: Information Implications into the Eighties",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1979/P041.pdf",
 	"crossref": "conf/sigir/79",
 	"dblpkey": "conf/sigir/Miller79",
@@ -8,8 +9,20 @@
 	"ee": "http://doi.acm.org/10.1145/511706.511712",
 	"pages": "41-44",
 	"publisher": "ACM",
-	"stemmed": ["document", "represent", "model", "for", "retriev", "system"],
-	"tag": ["documentation", "modelling", "representation", "retrieval"],
+	"stemmed": [
+		"document",
+		"represent",
+		"model",
+		"for",
+		"retriev",
+		"system"
+	],
+	"tag": [
+		"documentation",
+		"modelling",
+		"representation",
+		"retrieval"
+	],
 	"title": "Document Representation Models for Retrieval Systems",
 	"type": "inproceedings",
 	"venue": "SIGIR",

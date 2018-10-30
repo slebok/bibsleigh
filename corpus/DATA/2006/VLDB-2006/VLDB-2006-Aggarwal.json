@@ -1,14 +1,29 @@
 {
-	"acmid": 1164180,
+	"acmid": "1164180",
 	"author": "Charu C. Aggarwal",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
 	"dblpkey": "conf/vldb/Aggarwal06",
 	"ee": "http://www.vldb.org/conf/2006/p607-aggarwal.pdf",
 	"pages": "607-618",
 	"publisher": "ACM",
-	"stemmed": ["on", "bias", "reservoir", "sampl", "in", "the", "presenc", "of", "stream", "evolut"],
-	"tag": ["evolution", "on the"],
+	"stemmed": [
+		"on",
+		"bias",
+		"reservoir",
+		"sampl",
+		"in",
+		"the",
+		"presenc",
+		"of",
+		"stream",
+		"evolut"
+	],
+	"tag": [
+		"evolution",
+		"on the"
+	],
 	"title": "On Biased Reservoir Sampling in the Presence of Stream Evolution",
 	"type": "inproceedings",
 	"venue": "VLDB",

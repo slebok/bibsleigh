@@ -1,14 +1,31 @@
 {
-	"author": ["Donghui Zhang", "Vassilis J. Tsotras", "Dimitrios Gunopulos"],
-	"booktitle": "PODS",
+	"author": [
+		"Donghui Zhang",
+		"Vassilis J. Tsotras",
+		"Dimitrios Gunopulos"
+	],
+	"booktitle": "Proceedings of the 21st Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2002",
 	"dblpkey": "conf/pods/ZhangTG02",
 	"doi": "10.1145/543613.543629",
-	"ee": ["http://doi.acm.org/10.1145/543613.543629", "http://www.acm.org/sigs/sigmod/pods/proc02/papers/121-ZhangTG.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/543613.543629",
+		"http://www.acm.org/sigs/sigmod/pods/proc02/papers/121-ZhangTG.pdf"
+	],
 	"pages": "121-132",
 	"publisher": "ACM",
-	"stemmed": ["effici", "aggreg", "over", "object", "with", "extent"],
-	"tag": ["performance"],
+	"stemmed": [
+		"effici",
+		"aggreg",
+		"over",
+		"object",
+		"with",
+		"extent"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Efficient Aggregation over Objects with Extent",
 	"type": "inproceedings",
 	"venue": "PODS",

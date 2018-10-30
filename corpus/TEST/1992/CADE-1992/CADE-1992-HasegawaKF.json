@@ -1,6 +1,11 @@
 {
-	"author": ["Ryuzo Hasegawa", "Miyuki Koshimura", "Hiroshi Fujita"],
-	"booktitle": "CADE",
+	"author": [
+		"Ryuzo Hasegawa",
+		"Miyuki Koshimura",
+		"Hiroshi Fujita"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/HasegawaKF92",
 	"doi": "10.1007/3-540-55602-8_223",
@@ -10,11 +15,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["mgtp", "a", "parallel", "theorem", "prover", "base", "on", "lazi", "model", "generat"],
-	"tag": ["generative", "lazy evaluation", "named", "parallel", "proving", "theorem proving"],
+	"stemmed": [
+		"mgtp",
+		"a",
+		"parallel",
+		"theorem",
+		"prover",
+		"base",
+		"on",
+		"lazi",
+		"model",
+		"generat"
+	],
+	"tag": [
+		"generative",
+		"lazy evaluation",
+		"named",
+		"parallel",
+		"proving",
+		"theorem proving"
+	],
 	"title": "MGTP: A Parallel Theorem Prover Based on Lazy Model Generation",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

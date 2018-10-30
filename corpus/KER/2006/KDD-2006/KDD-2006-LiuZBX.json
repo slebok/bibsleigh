@@ -1,14 +1,30 @@
 {
-	"author": ["Bing Liu", "Kaidi Zhao", "Jeffrey Benkler", "Weimin Xiao"],
-	"booktitle": "KDD",
+	"author": [
+		"Bing Liu",
+		"Kaidi Zhao",
+		"Jeffrey Benkler",
+		"Weimin Xiao"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/LiuZBX06",
 	"doi": "10.1145/1150402.1150437",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150437",
 	"pages": "297-306",
 	"publisher": "ACM",
-	"stemmed": ["rule", "interesting", "analysi", "use", "olap", "oper"],
-	"tag": ["analysis", "using"],
+	"stemmed": [
+		"rule",
+		"interesting",
+		"analysi",
+		"use",
+		"olap",
+		"oper"
+	],
+	"tag": [
+		"analysis",
+		"using"
+	],
 	"title": "Rule interestingness analysis using OLAP operations",
 	"type": "inproceedings",
 	"venue": "KDD",

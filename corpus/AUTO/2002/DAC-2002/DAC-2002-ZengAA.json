@@ -1,14 +1,34 @@
 {
-	"author": ["Jing Zeng", "Magdy S. Abadir", "Jacob A. Abraham"],
-	"booktitle": "DAC",
+	"author": [
+		"Jing Zeng",
+		"Magdy S. Abadir",
+		"Jacob A. Abraham"
+	],
+	"booktitle": "Proceedings of the 39th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2002",
 	"dblpkey": "conf/dac/ZengAA02",
 	"doi": "10.1145/513918.514060",
 	"ee": "http://doi.acm.org/10.1145/513918.514060",
 	"pages": "562-565",
 	"publisher": "ACM",
-	"stemmed": ["fals", "time", "path", "identif", "use", "atpg", "techniqu", "and", "delay", "base", "inform"],
-	"tag": ["identification", "using"],
+	"stemmed": [
+		"fals",
+		"time",
+		"path",
+		"identif",
+		"use",
+		"atpg",
+		"techniqu",
+		"and",
+		"delay",
+		"base",
+		"inform"
+	],
+	"tag": [
+		"identification",
+		"using"
+	],
 	"title": "False timing path identification using ATPG techniques and delay-based information",
 	"type": "inproceedings",
 	"venue": "DAC",

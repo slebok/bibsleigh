@@ -1,6 +1,12 @@
 {
-	"author": ["Silvio Ghilardi", "Enrica Nicolini", "Silvio Ranise", "Daniele Zucchelli"],
-	"booktitle": "CADE",
+	"author": [
+		"Silvio Ghilardi",
+		"Enrica Nicolini",
+		"Silvio Ranise",
+		"Daniele Zucchelli"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2007",
 	"dblpkey": "conf/cade/GhilardiNRZ07",
 	"doi": "10.1007/978-3-540-73595-3_25",
@@ -10,11 +16,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["combin", "method", "for", "satisfi", "and", "model", "check", "of", "infinit", "state", "system"],
-	"tag": ["infinity", "model checking", "satisfiability"],
+	"stemmed": [
+		"combin",
+		"method",
+		"for",
+		"satisfi",
+		"and",
+		"model",
+		"check",
+		"of",
+		"infinit",
+		"state",
+		"system"
+	],
+	"tag": [
+		"infinity",
+		"model checking",
+		"satisfiability"
+	],
 	"title": "Combination Methods for Satisfiability and Model-Checking of Infinite-State Systems",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 4603,
+	"volume": "4603",
 	"year": 2007
 }

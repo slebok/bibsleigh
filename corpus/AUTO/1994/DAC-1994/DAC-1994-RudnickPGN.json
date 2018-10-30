@@ -1,13 +1,35 @@
 {
-	"author": ["Elizabeth M. Rudnick", "Janak H. Patel", "Gary S. Greenstein", "Thomas M. Niermann"],
-	"booktitle": "DAC",
+	"author": [
+		"Elizabeth M. Rudnick",
+		"Janak H. Patel",
+		"Gary S. Greenstein",
+		"Thomas M. Niermann"
+	],
+	"booktitle": "Proceedings of the 31st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/RudnickPGN94",
 	"doi": "10.1145/196244.196619",
 	"ee": "http://doi.acm.org/10.1145/196244.196619",
 	"pages": "698-704",
 	"publisher": "ACM Press",
-	"stemmed": ["sequenti", "circuit", "test", "generat", "in", "a", "genet", "algorithm", "framework"],
-	"tag": ["algorithm", "framework", "generative", "search-based", "testing"],
+	"stemmed": [
+		"sequenti",
+		"circuit",
+		"test",
+		"generat",
+		"in",
+		"a",
+		"genet",
+		"algorithm",
+		"framework"
+	],
+	"tag": [
+		"algorithm",
+		"framework",
+		"generative",
+		"search-based",
+		"testing"
+	],
 	"title": "Sequential Circuit Test Generation in a Genetic Algorithm Framework",
 	"type": "inproceedings",
 	"venue": "DAC",

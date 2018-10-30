@@ -1,6 +1,10 @@
 {
-	"author": ["Sigmund Cherem", "Radu Rugina"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Sigmund Cherem",
+		"Radu Rugina"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2007",
 	"dblpkey": "conf/vmcai/CheremR07",
 	"doi": "10.1007/978-3-540-69738-1_17",
@@ -10,11 +14,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["maintain", "doubli", "link", "list", "invari", "in", "shape", "analysi", "with", "local", "reason"],
-	"tag": ["analysis", "invariant", "maintenance", "reasoning"],
+	"stemmed": [
+		"maintain",
+		"doubli",
+		"link",
+		"list",
+		"invari",
+		"in",
+		"shape",
+		"analysi",
+		"with",
+		"local",
+		"reason"
+	],
+	"tag": [
+		"analysis",
+		"invariant",
+		"maintenance",
+		"reasoning"
+	],
 	"title": "Maintaining Doubly-Linked List Invariants in Shape Analysis with Local Reasoning",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 4349,
+	"volume": "4349",
 	"year": 2007
 }

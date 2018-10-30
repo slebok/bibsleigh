@@ -1,14 +1,48 @@
 {
-	"author": ["Munir Cochinwala", "John Bradley"],
-	"booktitle": "VLDB",
-	"cite": ["conf/ride/CochinwalaLMY93", "conf/adb/CochinwalaBT94", "conf/vldb/ChrysanthisR91", "conf/sigmod/DayalHL90", "conf/vldb/ElmagarmidLLR90", "...", "...", "...", "conf/vldb/PonsV88", "conf/icde/Pu88", "conf/vldb/Risch89", "conf/vldb/RosenthalCBB89", "journals/vldb/BreitbartGS92", "...", "conf/sigmod/StonebrakerJGP90"],
+	"author": [
+		"Munir Cochinwala",
+		"John Bradley"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/ride/CochinwalaLMY93",
+		"conf/adb/CochinwalaBT94",
+		"conf/vldb/ChrysanthisR91",
+		"conf/sigmod/DayalHL90",
+		"conf/vldb/ElmagarmidLLR90",
+		"...",
+		"...",
+		"...",
+		"conf/vldb/PonsV88",
+		"conf/icde/Pu88",
+		"conf/vldb/Risch89",
+		"conf/vldb/RosenthalCBB89",
+		"journals/vldb/BreitbartGS92",
+		"...",
+		"conf/sigmod/StonebrakerJGP90"
+	],
 	"crossref": "conf/vldb/94",
 	"dblpkey": "conf/vldb/CochinwalaB94",
 	"ee": "http://www.vldb.org/conf/1994/P714.PDF",
 	"pages": "714-721",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["a", "multidatabas", "system", "for", "track", "and", "retriev", "of", "financi", "data"],
-	"tag": ["multi", "retrieval"],
+	"stemmed": [
+		"a",
+		"multidatabas",
+		"system",
+		"for",
+		"track",
+		"and",
+		"retriev",
+		"of",
+		"financi",
+		"data"
+	],
+	"tag": [
+		"multi",
+		"retrieval"
+	],
 	"title": "A Multidatabase System for Tracking and Retrieval of Financial Data",
 	"type": "inproceedings",
 	"venue": "VLDB",

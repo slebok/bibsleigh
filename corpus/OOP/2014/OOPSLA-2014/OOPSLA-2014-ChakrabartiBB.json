@@ -1,6 +1,10 @@
 {
-	"author": ["Dhruva R. Chakrabarti", "Hans-Juergen Boehm", "Kumud Bhandari"],
-	"booktitle": "Proceedings of the 29th International Conference on Object Oriented Programming Systems Languages & Applications",
+	"author": [
+		"Dhruva R. Chakrabarti",
+		"Hans-Juergen Boehm",
+		"Kumud Bhandari"
+	],
+	"booktitle": "Proceedings of the 29th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2014",
 	"dblpkey": "conf/oopsla/ChakrabartiBB14",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/2660193.2660224",
 	"pages": "433-452",
 	"publisher": "ACM",
-	"stemmed": ["atlas", "leverag", "lock", "for", "non", "volatil", "memori", "consist"],
-	"tag": ["consistency", "memory management", "named"],
+	"stemmed": [
+		"atlas",
+		"leverag",
+		"lock",
+		"for",
+		"non",
+		"volatil",
+		"memori",
+		"consist"
+	],
+	"tag": [
+		"consistency",
+		"memory management",
+		"named"
+	],
 	"title": "Atlas: leveraging locks for non-volatile memory consistency",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

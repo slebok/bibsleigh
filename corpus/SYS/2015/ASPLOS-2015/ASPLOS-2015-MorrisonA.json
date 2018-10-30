@@ -1,14 +1,30 @@
 {
-	"author": ["Adam Morrison", "Yehuda Afek"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Adam Morrison",
+		"Yehuda Afek"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2015",
 	"dblpkey": "conf/asplos/MorrisonA15",
 	"doi": "10.1145/2694344.2694374",
 	"ee": "http://doi.acm.org/10.1145/2694344.2694374",
 	"pages": "45-58",
 	"publisher": "ACM",
-	"stemmed": ["tempor", "bound", "tso", "for", "fenc", "free", "asymmetr", "synchron"],
-	"tag": ["bound", "symmetry"],
+	"stemmed": [
+		"tempor",
+		"bound",
+		"tso",
+		"for",
+		"fenc",
+		"free",
+		"asymmetr",
+		"synchron"
+	],
+	"tag": [
+		"bound",
+		"symmetry"
+	],
 	"title": "Temporally Bounding TSO for Fence-Free Asymmetric Synchronization",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

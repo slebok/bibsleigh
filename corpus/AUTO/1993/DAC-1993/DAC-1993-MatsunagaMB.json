@@ -1,13 +1,32 @@
 {
-	"author": ["Yusuke Matsunaga", "Patrick C. McGeer", "Robert K. Brayton"],
-	"booktitle": "DAC",
+	"author": [
+		"Yusuke Matsunaga",
+		"Patrick C. McGeer",
+		"Robert K. Brayton"
+	],
+	"booktitle": "Proceedings of the 30th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/MatsunagaMB93",
 	"doi": "10.1145/157485.164884",
 	"ee": "http://doi.acm.org/10.1145/157485.164884",
 	"pages": "260-265",
 	"publisher": "ACM Press",
-	"stemmed": ["on", "comput", "the", "transit", "closur", "of", "a", "state", "transit", "relat"],
-	"tag": ["on the", "transitive"],
+	"stemmed": [
+		"on",
+		"comput",
+		"the",
+		"transit",
+		"closur",
+		"of",
+		"a",
+		"state",
+		"transit",
+		"relat"
+	],
+	"tag": [
+		"on the",
+		"transitive"
+	],
 	"title": "On Computing the Transitive Closure of a State Transition Relation",
 	"type": "inproceedings",
 	"venue": "DAC",

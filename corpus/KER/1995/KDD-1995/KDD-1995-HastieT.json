@@ -1,13 +1,27 @@
 {
-	"author": ["Trevor Hastie", "Robert Tibshirani"],
-	"booktitle": "KDD",
+	"author": [
+		"Trevor Hastie",
+		"Robert Tibshirani"
+	],
+	"booktitle": "Proceedings of the First International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1995",
 	"dblpkey": "conf/kdd/HastieT95",
 	"ee": "http://www.aaai.org/Library/KDD/1995/kdd95-055.php",
 	"pages": "142-149",
 	"publisher": "AAAI Press",
-	"stemmed": ["discrimin", "adapt", "nearest", "neighbor", "classif"],
-	"tag": ["adaptation", "classification", "nearest neighbour"],
+	"stemmed": [
+		"discrimin",
+		"adapt",
+		"nearest",
+		"neighbor",
+		"classif"
+	],
+	"tag": [
+		"adaptation",
+		"classification",
+		"nearest neighbour"
+	],
 	"title": "Discriminant Adaptive Nearest Neighbor Classification",
 	"type": "inproceedings",
 	"venue": "KDD",

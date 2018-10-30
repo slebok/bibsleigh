@@ -1,13 +1,28 @@
 {
 	"author": "Arno Siebes",
-	"booktitle": "KDD Workshop",
+	"booktitle": "Papers from the AAAI Workshop on Knowledge Discovery in Databases. Technical Report WS-94-03",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1994",
 	"dblpkey": "conf/kdd/Siebes94",
 	"pages": "97-108",
 	"publisher": "AAAI Press",
-	"stemmed": ["homogen", "discoveri", "contain", "no", "surpris", "infer", "risk", "profil", "from", "larg", "databas"],
-	"tag": ["database", "scalability"],
+	"stemmed": [
+		"homogen",
+		"discoveri",
+		"contain",
+		"no",
+		"surpris",
+		"infer",
+		"risk",
+		"profil",
+		"from",
+		"larg",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"scalability"
+	],
 	"title": "Homogeneous Discoveries Contain No Surprises: Inferring Risk Profiles from Large Databases",
 	"type": "inproceedings",
 	"venue": "KDD",

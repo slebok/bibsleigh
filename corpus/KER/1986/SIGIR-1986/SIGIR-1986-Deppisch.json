@@ -1,6 +1,7 @@
 {
 	"author": "Uwe Deppisch",
 	"booktitle": "Proceedings of the Ninth International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1986/P077.pdf",
 	"crossref": "conf/sigir/86",
 	"dblpkey": "conf/sigir/Deppisch86",
@@ -8,8 +9,22 @@
 	"ee": "http://doi.acm.org/10.1145/253168.253189",
 	"pages": "77-87",
 	"publisher": "ACM",
-	"stemmed": ["s", "tree", "a", "dynam", "balanc", "signatur", "index", "for", "offic", "retriev"],
-	"tag": ["named", "retrieval"],
+	"stemmed": [
+		"s",
+		"tree",
+		"a",
+		"dynam",
+		"balanc",
+		"signatur",
+		"index",
+		"for",
+		"offic",
+		"retriev"
+	],
+	"tag": [
+		"named",
+		"retrieval"
+	],
 	"title": "S-Tree: A Dynamic Balanced Signature Index for Office Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

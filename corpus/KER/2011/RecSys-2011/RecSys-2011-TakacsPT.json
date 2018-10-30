@@ -1,14 +1,34 @@
 {
-	"author": ["Gábor Takács", "István Pilászy", "Domonkos Tikk"],
-	"booktitle": "RecSys",
+	"author": [
+		"Gábor Takács",
+		"István Pilászy",
+		"Domonkos Tikk"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2011",
 	"dblpkey": "conf/recsys/TakacsPT11",
 	"doi": "10.1145/2043932.2043987",
 	"ee": "http://doi.acm.org/10.1145/2043932.2043987",
 	"pages": "297-300",
 	"publisher": "ACM",
-	"stemmed": ["applic", "of", "the", "conjug", "gradient", "method", "for", "implicit", "feedback", "collabor", "filter"],
-	"tag": ["collaboration", "feedback"],
+	"stemmed": [
+		"applic",
+		"of",
+		"the",
+		"conjug",
+		"gradient",
+		"method",
+		"for",
+		"implicit",
+		"feedback",
+		"collabor",
+		"filter"
+	],
+	"tag": [
+		"collaboration",
+		"feedback"
+	],
 	"title": "Applications of the conjugate gradient method for implicit feedback collaborative filtering",
 	"type": "inproceedings",
 	"venue": "RecSys",

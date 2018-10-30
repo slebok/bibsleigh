@@ -1,6 +1,7 @@
 {
 	"author": "Carsten Schürmann",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 17th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2000",
 	"dblpkey": "conf/cade/Schurmann00",
 	"doi": "10.1007/10721959_42",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["tutori", "meta", "logic", "framework"],
-	"tag": ["framework", "logic", "named", "tutorial"],
+	"stemmed": [
+		"tutori",
+		"meta",
+		"logic",
+		"framework"
+	],
+	"tag": [
+		"framework",
+		"logic",
+		"named",
+		"tutorial"
+	],
 	"title": "Tutorial: Meta-logical Frameworks",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1831,
+	"volume": "1831",
 	"year": 2000
 }

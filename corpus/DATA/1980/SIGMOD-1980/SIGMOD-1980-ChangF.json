@@ -1,16 +1,48 @@
 {
-	"author": ["Jo-Mei Chang", "King-sun Fu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jo-Mei Chang",
+		"King-sun Fu"
+	],
+	"booktitle": "Proceedings of the 10th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD80/P188.PDF",
-	"cite": ["journals/tods/AhoU79", "journals/tods/AstrahanBCEGGKLMMPTWW76", "journals/cacm/Bentley75", "journals/tse/Bentley79", "...", "journals/tods/Burkhard76", "...", "...", "journals/tse/ChangF81", "journals/is/LiouY77", "journals/siamcomp/Rivest76", "journals/cacm/RothnieL74", "..."],
+	"cite": [
+		"journals/tods/AhoU79",
+		"journals/tods/AstrahanBCEGGKLMMPTWW76",
+		"journals/cacm/Bentley75",
+		"journals/tse/Bentley79",
+		"...",
+		"journals/tods/Burkhard76",
+		"...",
+		"...",
+		"journals/tse/ChangF81",
+		"journals/is/LiouY77",
+		"journals/siamcomp/Rivest76",
+		"journals/cacm/RothnieL74",
+		"..."
+	],
 	"crossref": "conf/sigmod/80",
 	"dblpkey": "conf/sigmod/ChangF80",
 	"doi": "10.1145/582250.582280",
 	"ee": "http://doi.acm.org/10.1145/582250.582280",
 	"pages": "188-199",
 	"publisher": "ACM Press",
-	"stemmed": ["a", "dynam", "cluster", "techniqu", "for", "physic", "databas", "design"],
-	"tag": ["clustering", "database", "design", "physics"],
+	"stemmed": [
+		"a",
+		"dynam",
+		"cluster",
+		"techniqu",
+		"for",
+		"physic",
+		"databas",
+		"design"
+	],
+	"tag": [
+		"clustering",
+		"database",
+		"design",
+		"physics"
+	],
 	"title": "A Dynamic Clustering Technique for Physical Database Design",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

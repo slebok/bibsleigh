@@ -1,14 +1,33 @@
 {
 	"author": "Monika Rauch Henzinger",
-	"booktitle": "PODS",
+	"booktitle": "Proceedings of the 23rd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2004",
 	"dblpkey": "conf/pods/Henzinger04",
 	"doi": "10.1145/1055558.1055566",
-	"ee": ["http://doi.acm.org/10.1145/1055558.1055566", "http://www.acm.org/sigmod/pods/proc04/pdf/P-05.pdf"],
-	"pages": 46,
+	"ee": [
+		"http://doi.acm.org/10.1145/1055558.1055566",
+		"http://www.acm.org/sigmod/pods/proc04/pdf/P-05.pdf"
+	],
+	"pages": "46",
 	"publisher": "ACM",
-	"stemmed": ["the", "past", "present", "and", "futur", "of", "web", "inform", "retriev"],
-	"tag": ["future of", "information retrieval", "past present future", "web"],
+	"stemmed": [
+		"the",
+		"past",
+		"present",
+		"and",
+		"futur",
+		"of",
+		"web",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"future of",
+		"information retrieval",
+		"past present future",
+		"web"
+	],
 	"title": "The Past, Present and Future of Web Information Retrieval",
 	"type": "inproceedings",
 	"venue": "PODS",

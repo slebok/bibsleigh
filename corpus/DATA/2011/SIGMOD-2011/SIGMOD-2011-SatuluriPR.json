@@ -1,6 +1,10 @@
 {
-	"author": ["Venu Satuluri", "Srinivasan Parthasarathy", "Yiye Ruan"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Venu Satuluri",
+		"Srinivasan Parthasarathy",
+		"Yiye Ruan"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/SatuluriPR11",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989399",
 	"pages": "721-732",
 	"publisher": "ACM",
-	"stemmed": ["local", "graph", "sparsif", "for", "scalabl", "cluster"],
-	"tag": ["clustering", "graph", "scalability"],
+	"stemmed": [
+		"local",
+		"graph",
+		"sparsif",
+		"for",
+		"scalabl",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"graph",
+		"scalability"
+	],
 	"title": "Local graph sparsification for scalable clustering",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

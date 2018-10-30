@@ -1,6 +1,10 @@
 {
-	"author": ["Sebastian Adam", "Klaus Schmid"],
-	"booktitle": "REFSQ",
+	"author": [
+		"Sebastian Adam",
+		"Klaus Schmid"
+	],
+	"booktitle": "Proceedings of the 19th International Working Conference on Requirements Engineering: Foundation for Software Quality",
+	"booktitleshort": "REFSQ",
 	"crossref": "conf/refsq/2013",
 	"dblpkey": "conf/refsq/AdamS13",
 	"doi": "10.1007/978-3-642-37422-7_26",
@@ -9,11 +13,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["effect", "requir", "elicit", "in", "product", "line", "applic", "engin", "an", "experi"],
-	"tag": ["effectiveness", "elicitation", "empirical", "product line", "requirements"],
+	"stemmed": [
+		"effect",
+		"requir",
+		"elicit",
+		"in",
+		"product",
+		"line",
+		"applic",
+		"engin",
+		"an",
+		"experi"
+	],
+	"tag": [
+		"effectiveness",
+		"elicitation",
+		"empirical",
+		"product line",
+		"requirements"
+	],
 	"title": "Effective Requirements Elicitation in Product Line Application Engineering — An Experiment",
 	"type": "inproceedings",
 	"venue": "REFSQ",
-	"volume": 7830,
+	"volume": "7830",
 	"year": 2013
 }

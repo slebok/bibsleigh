@@ -1,6 +1,7 @@
 {
 	"author": "Christoph Weidenbach",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 16th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1999",
 	"dblpkey": "conf/cade/Weidenbach99a",
 	"doi": "10.1007/3-540-48660-7_34",
@@ -10,10 +11,15 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "spass", "version"],
+	"stemmed": [
+		"system",
+		"descript",
+		"spass",
+		"version"
+	],
 	"title": "System Description: Spass Version 1.0.0",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1632,
+	"volume": "1632",
 	"year": 1999
 }

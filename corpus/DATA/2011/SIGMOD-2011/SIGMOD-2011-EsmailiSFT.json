@@ -1,6 +1,11 @@
 {
-	"author": ["Kyumars Sheykh Esmaili", "Tahmineh Sanamrad", "Peter M. Fischer", "Nesime Tatbul"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Kyumars Sheykh Esmaili",
+		"Tahmineh Sanamrad",
+		"Peter M. Fischer",
+		"Nesime Tatbul"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/EsmailiSFT11",
@@ -8,8 +13,23 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989388",
 	"pages": "613-624",
 	"publisher": "ACM",
-	"stemmed": ["chang", "flight", "in", "mid", "air", "a", "model", "for", "safe", "modifi", "continu", "queri"],
-	"tag": ["query"],
+	"stemmed": [
+		"chang",
+		"flight",
+		"in",
+		"mid",
+		"air",
+		"a",
+		"model",
+		"for",
+		"safe",
+		"modifi",
+		"continu",
+		"queri"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Changing flights in mid-air: a model for safely modifying continuous queries",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

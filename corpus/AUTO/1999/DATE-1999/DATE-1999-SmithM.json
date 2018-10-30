@@ -1,6 +1,10 @@
 {
-	"author": ["James Smith", "Giovanni De Micheli"],
-	"booktitle": "DATE",
+	"author": [
+		"James Smith",
+		"Giovanni De Micheli"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/SmithM99",
 	"doi": "10.1109/DATE.1999.761125",
@@ -8,8 +12,18 @@
 	"pages": "217-222",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["polynomi", "method", "for", "alloc", "complex", "compon"],
-	"tag": ["component", "polynomial"],
+	"stemmed": [
+		"polynomi",
+		"method",
+		"for",
+		"alloc",
+		"complex",
+		"compon"
+	],
+	"tag": [
+		"component",
+		"polynomial"
+	],
 	"title": "Polynomial Methods for Allocating Complex Components",
 	"type": "inproceedings",
 	"venue": "DATE",

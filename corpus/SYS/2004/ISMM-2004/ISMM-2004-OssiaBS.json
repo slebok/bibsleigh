@@ -1,14 +1,30 @@
 {
-	"author": ["Yoav Ossia", "Ori Ben-Yitzhak", "Marc Segal"],
-	"booktitle": "ISMM",
+	"author": [
+		"Yoav Ossia",
+		"Ori Ben-Yitzhak",
+		"Marc Segal"
+	],
+	"booktitle": "Proceedings of the Fourth International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2004",
 	"dblpkey": "conf/iwmm/OssiaBS04",
 	"doi": "10.1145/1029873.1029877",
 	"ee": "http://doi.acm.org/10.1145/1029873.1029877",
 	"pages": "25-36",
 	"publisher": "ACM",
-	"stemmed": ["most", "concurr", "compact", "for", "mark", "sweep", "gc"],
-	"tag": ["concurrent", "garbage collection"],
+	"stemmed": [
+		"most",
+		"concurr",
+		"compact",
+		"for",
+		"mark",
+		"sweep",
+		"gc"
+	],
+	"tag": [
+		"concurrent",
+		"garbage collection"
+	],
 	"title": "Mostly concurrent compaction for mark-sweep GC",
 	"type": "inproceedings",
 	"venue": "ISMM",

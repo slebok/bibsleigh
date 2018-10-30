@@ -1,6 +1,14 @@
 {
-	"author": ["Cliff Engle", "Antonio Lupher", "Reynold Xin", "Matei Zaharia", "Michael J. Franklin", "Scott Shenker", "Ion Stoica"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Cliff Engle",
+		"Antonio Lupher",
+		"Reynold Xin",
+		"Matei Zaharia",
+		"Michael J. Franklin",
+		"Scott Shenker",
+		"Ion Stoica"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/EngleLXZFSS12",
@@ -8,8 +16,25 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213934",
 	"pages": "689-692",
 	"publisher": "ACM",
-	"stemmed": ["shark", "fast", "data", "analysi", "use", "coars", "grain", "distribut", "memori"],
-	"tag": ["data analysis", "distributed", "memory management", "named", "performance", "using"],
+	"stemmed": [
+		"shark",
+		"fast",
+		"data",
+		"analysi",
+		"use",
+		"coars",
+		"grain",
+		"distribut",
+		"memori"
+	],
+	"tag": [
+		"data analysis",
+		"distributed",
+		"memory management",
+		"named",
+		"performance",
+		"using"
+	],
 	"title": "Shark: fast data analysis using coarse-grained distributed memory",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

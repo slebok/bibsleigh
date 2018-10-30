@@ -1,15 +1,42 @@
 {
-	"author": ["Chee Chin Low", "Beng Chin Ooi", "Hongjun Lu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Chee Chin Low",
+		"Beng Chin Ooi",
+		"Hongjun Lu"
+	],
+	"booktitle": "Proceedings of the 22nd ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD92/P134.PDF",
-	"cite": ["journals/tkde/BertinoK89", "conf/vldb/CareyDRS86", "journals/csur/Comer79", "conf/sigmod/KemperM90", "...", "conf/dood/LowLOH91", "conf/oodbs/MaierS86", "journals/is/ScheuermannO82", "conf/vldb/ValduriezKC86"],
+	"cite": [
+		"journals/tkde/BertinoK89",
+		"conf/vldb/CareyDRS86",
+		"journals/csur/Comer79",
+		"conf/sigmod/KemperM90",
+		"...",
+		"conf/dood/LowLOH91",
+		"conf/oodbs/MaierS86",
+		"journals/is/ScheuermannO82",
+		"conf/vldb/ValduriezKC86"
+	],
 	"crossref": "conf/sigmod/92",
 	"dblpkey": "conf/sigmod/LowOL92",
 	"doi": "10.1145/130283.130307",
 	"ee": "http://doi.acm.org/10.1145/130283.130307",
 	"pages": "134-143",
-	"stemmed": ["h", "tree", "a", "dynam", "associ", "search", "index", "for", "oodb"],
-	"tag": ["named"],
+	"stemmed": [
+		"h",
+		"tree",
+		"a",
+		"dynam",
+		"associ",
+		"search",
+		"index",
+		"for",
+		"oodb"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "H-trees: A Dynamic Associative Search Index for OODB",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

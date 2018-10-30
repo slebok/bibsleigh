@@ -1,6 +1,11 @@
 {
-	"author": ["Gao Cong", "Kian-Lee Tan", "Anthony K. H. Tung", "Xin Xu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Gao Cong",
+		"Kian-Lee Tan",
+		"Anthony K. H. Tung",
+		"Xin Xu"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/CongTTX05",
@@ -8,8 +13,21 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066234",
 	"pages": "670-681",
 	"publisher": "ACM",
-	"stemmed": ["mine", "top", "k", "cover", "rule", "group", "for", "gene", "express", "data"],
-	"tag": ["mining"],
+	"stemmed": [
+		"mine",
+		"top",
+		"k",
+		"cover",
+		"rule",
+		"group",
+		"for",
+		"gene",
+		"express",
+		"data"
+	],
+	"tag": [
+		"mining"
+	],
 	"title": "Mining Top-k Covering Rule Groups for Gene Expression Data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

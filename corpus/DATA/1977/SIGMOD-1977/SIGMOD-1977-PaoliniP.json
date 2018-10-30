@@ -1,16 +1,38 @@
 {
-	"author": ["Paolo Paolini", "Giuseppe Pelagatti"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Paolo Paolini",
+		"Giuseppe Pelagatti"
+	],
+	"booktitle": "Proceedings of the Seventh ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD77/P040.PDF",
-	"cite": ["...", "journals/cacm/Codd70", "...", "journals/acta/Hoare72", "...", "..."],
+	"cite": [
+		"...",
+		"journals/cacm/Codd70",
+		"...",
+		"journals/acta/Hoare72",
+		"...",
+		"..."
+	],
 	"crossref": "conf/sigmod/77",
 	"dblpkey": "conf/sigmod/PaoliniP77",
 	"doi": "10.1145/509404.509413",
 	"ee": "http://doi.acm.org/10.1145/509404.509413",
 	"pages": "40-46",
 	"publisher": "ACM",
-	"stemmed": ["formal", "definit", "of", "map", "in", "a", "data", "base"],
-	"tag": ["database"],
+	"stemmed": [
+		"formal",
+		"definit",
+		"of",
+		"map",
+		"in",
+		"a",
+		"data",
+		"base"
+	],
+	"tag": [
+		"database"
+	],
 	"title": "Formal Definition of Mappings in a Data Base",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

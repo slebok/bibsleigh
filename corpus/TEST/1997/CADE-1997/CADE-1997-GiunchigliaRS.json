@@ -1,6 +1,11 @@
 {
-	"author": ["Fausto Giunchiglia", "Marco Roveri", "Roberto Sebastiani"],
-	"booktitle": "CADE",
+	"author": [
+		"Fausto Giunchiglia",
+		"Marco Roveri",
+		"Roberto Sebastiani"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
 	"dblpkey": "conf/cade/GiunchigliaRS97",
 	"doi": "10.1007/3-540-63104-6_26",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "new", "method", "for", "test", "decis", "procedur", "in", "modal", "logic"],
-	"tag": ["logic", "testing"],
+	"stemmed": [
+		"a",
+		"new",
+		"method",
+		"for",
+		"test",
+		"decis",
+		"procedur",
+		"in",
+		"modal",
+		"logic"
+	],
+	"tag": [
+		"logic",
+		"testing"
+	],
 	"title": "A New Method for Testing Decision Procedures in Modal Logics",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1249,
+	"volume": "1249",
 	"year": 1997
 }

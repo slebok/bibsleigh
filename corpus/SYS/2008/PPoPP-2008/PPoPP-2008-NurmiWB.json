@@ -1,14 +1,31 @@
 {
-	"author": ["Daniel Nurmi", "Richard Wolski", "John Brevik"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Daniel Nurmi",
+		"Richard Wolski",
+		"John Brevik"
+	],
+	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/NurmiWB08",
 	"doi": "10.1145/1345206.1345260",
 	"ee": "http://doi.acm.org/10.1145/1345206.1345260",
 	"pages": "289-290",
 	"publisher": "ACM",
-	"stemmed": ["probabilist", "advanc", "reserv", "for", "batch", "schedul", "parallel", "machin"],
-	"tag": ["parallel", "probability"],
+	"stemmed": [
+		"probabilist",
+		"advanc",
+		"reserv",
+		"for",
+		"batch",
+		"schedul",
+		"parallel",
+		"machin"
+	],
+	"tag": [
+		"parallel",
+		"probability"
+	],
 	"title": "Probabilistic advanced reservations for batch-scheduled parallel machines",
 	"type": "inproceedings",
 	"venue": "PPoPP",

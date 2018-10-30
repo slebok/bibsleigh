@@ -1,15 +1,39 @@
 {
-	"author": ["Jaekyu Ha", "Robert M. Haralick", "Ihsin T. Phillips"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Jaekyu Ha",
+		"Robert M. Haralick",
+		"Ihsin T. Phillips"
+	],
+	"booktitle": "Proceedings of the Third International Conference on Document Analysis and Recognition (Volume II)",
+	"booktitleshort": "ICDAR v2",
 	"crossref": "conf/icdar/1995-2",
 	"dblpkey": "conf/icdar/HaHP95",
 	"doi": "10.1109/ICDAR.1995.602059",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1995.602059", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.602059"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1995.602059",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.602059"
+	],
 	"pages": "952-955",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["recurs", "x", "y", "cut", "use", "bound", "box", "of", "connect", "compon"],
-	"tag": ["bound", "component", "recursion", "using"],
+	"stemmed": [
+		"recurs",
+		"x",
+		"y",
+		"cut",
+		"use",
+		"bound",
+		"box",
+		"of",
+		"connect",
+		"compon"
+	],
+	"tag": [
+		"bound",
+		"component",
+		"recursion",
+		"using"
+	],
 	"title": "Recursive X-Y cut using bounding boxes of connected components",
 	"type": "inproceedings",
 	"venue": "ICDAR",

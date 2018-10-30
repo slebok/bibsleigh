@@ -1,14 +1,28 @@
 {
-	"author": ["Chen Ding", "Trishul M. Chilimbi"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Chen Ding",
+		"Trishul M. Chilimbi"
+	],
+	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/DingC08",
 	"doi": "10.1145/1345206.1345248",
 	"ee": "http://doi.acm.org/10.1145/1345206.1345248",
 	"pages": "265-266",
 	"publisher": "ACM",
-	"stemmed": ["all", "window", "profil", "of", "concurr", "execut"],
-	"tag": ["concurrent", "profiling"],
+	"stemmed": [
+		"all",
+		"window",
+		"profil",
+		"of",
+		"concurr",
+		"execut"
+	],
+	"tag": [
+		"concurrent",
+		"profiling"
+	],
 	"title": "All-window profiling of concurrent executions",
 	"type": "inproceedings",
 	"venue": "PPoPP",

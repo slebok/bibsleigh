@@ -1,6 +1,11 @@
 {
-	"author": ["Paul Gratz", "Boris Grot", "Stephen W. Keckler"],
-	"booktitle": "HPCA",
+	"author": [
+		"Paul Gratz",
+		"Boris Grot",
+		"Stephen W. Keckler"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2008",
 	"dblpkey": "conf/hpca/GratzGK08",
 	"doi": "10.1109/HPCA.2008.4658640",
@@ -8,7 +13,18 @@
 	"pages": "203-214",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["region", "congest", "awar", "for", "load", "balanc", "in", "network", "on", "chip"],
+	"stemmed": [
+		"region",
+		"congest",
+		"awar",
+		"for",
+		"load",
+		"balanc",
+		"in",
+		"network",
+		"on",
+		"chip"
+	],
 	"title": "Regional congestion awareness for load balance in networks-on-chip",
 	"type": "inproceedings",
 	"venue": "HPCA",

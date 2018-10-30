@@ -1,6 +1,11 @@
 {
-	"author": ["Hazem Elmeleegy", "Mourad Ouzzani", "Ahmed K. Elmagarmid", "Ahmad M. Abusalah"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Hazem Elmeleegy",
+		"Mourad Ouzzani",
+		"Ahmed K. Elmagarmid",
+		"Ahmad M. Abusalah"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/ElmeleegyOEA10",
@@ -8,8 +13,23 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807249",
 	"pages": "759-770",
 	"publisher": "ACM",
-	"stemmed": ["preserv", "privaci", "and", "fair", "in", "peer", "to", "peer", "data", "integr"],
-	"tag": ["integration", "peer-to-peer", "privacy"],
+	"stemmed": [
+		"preserv",
+		"privaci",
+		"and",
+		"fair",
+		"in",
+		"peer",
+		"to",
+		"peer",
+		"data",
+		"integr"
+	],
+	"tag": [
+		"integration",
+		"peer-to-peer",
+		"privacy"
+	],
 	"title": "Preserving privacy and fairness in peer-to-peer data integration",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

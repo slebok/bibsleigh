@@ -1,6 +1,10 @@
 {
-	"author": ["Yassamine Seladji", "Olivier Bouissou"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Yassamine Seladji",
+		"Olivier Bouissou"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2013",
 	"dblpkey": "conf/vmcai/SeladjiB13",
 	"doi": "10.1007/978-3-642-35873-9_11",
@@ -10,11 +14,31 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["fixpoint", "comput", "in", "the", "polyhedra", "abstract", "domain", "use", "convex", "and", "numer", "analysi", "tool"],
-	"tag": ["abstract domain", "analysis", "fixpoint", "tool support", "using"],
+	"stemmed": [
+		"fixpoint",
+		"comput",
+		"in",
+		"the",
+		"polyhedra",
+		"abstract",
+		"domain",
+		"use",
+		"convex",
+		"and",
+		"numer",
+		"analysi",
+		"tool"
+	],
+	"tag": [
+		"abstract domain",
+		"analysis",
+		"fixpoint",
+		"tool support",
+		"using"
+	],
 	"title": "Fixpoint Computation in the Polyhedra Abstract Domain Using Convex and Numerical Analysis Tools",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 7737,
+	"volume": "7737",
 	"year": 2013
 }

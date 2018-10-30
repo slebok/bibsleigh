@@ -1,16 +1,52 @@
 {
-	"author": ["C. Mohan", "Donald S. Fussell", "Abraham Silberschatz"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS82/P283.PDF", "journals/anthology/dvd1:text/1-3/PODS82/P283.PDF"],
-	"cite": ["journals/cacm/EswarranGLT76", "conf/vldb/FussellKS81", "conf/sigmod/KedemS81", "conf/ac/Gray78", "conf/focs/KedemS79", "conf/vldb/KedemS80", "...", "...", "...", "journals/tods/RosenkrantzSL78", "journals/jacm/SilberschatzK80", "journals/tse/SilberschatzK82", "conf/focs/StearnsLR76", "conf/focs/YannakakisPK79"],
+	"author": [
+		"C. Mohan",
+		"Donald S. Fussell",
+		"Abraham Silberschatz"
+	],
+	"booktitle": "Proceedings of the First Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS82/P283.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS82/P283.PDF"
+	],
+	"cite": [
+		"journals/cacm/EswarranGLT76",
+		"conf/vldb/FussellKS81",
+		"conf/sigmod/KedemS81",
+		"conf/ac/Gray78",
+		"conf/focs/KedemS79",
+		"conf/vldb/KedemS80",
+		"...",
+		"...",
+		"...",
+		"journals/tods/RosenkrantzSL78",
+		"journals/jacm/SilberschatzK80",
+		"journals/tse/SilberschatzK82",
+		"conf/focs/StearnsLR76",
+		"conf/focs/YannakakisPK79"
+	],
 	"crossref": "conf/pods/82",
 	"dblpkey": "conf/pods/MohanFS82",
 	"doi": "10.1145/588111.588157",
 	"ee": "http://doi.acm.org/10.1145/588111.588157",
 	"pages": "283-292",
 	"publisher": "ACM",
-	"stemmed": ["compat", "and", "commut", "in", "non", "two", "phase", "lock", "protocol"],
-	"tag": ["commutative", "protocol"],
+	"stemmed": [
+		"compat",
+		"and",
+		"commut",
+		"in",
+		"non",
+		"two",
+		"phase",
+		"lock",
+		"protocol"
+	],
+	"tag": [
+		"commutative",
+		"protocol"
+	],
 	"title": "Compatibility and Commutativity in Non-two-phase Locking Protocols",
 	"type": "inproceedings",
 	"venue": "PODS",

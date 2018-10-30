@@ -1,17 +1,33 @@
 {
 	"author": "Mathew Hall",
 	"booktitle": "Proceedings of the 19th Symposium on the Foundations of Software Engineering and the 13rd European Software Engineering Conference",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "ESEC/FSE",
 	"crossref": "conf/sigsoft/2011",
 	"dblpkey": "conf/sigsoft/Hall11",
 	"doi": "10.1145/2025113.2025170",
-	"editor": ["Tibor Gyimóthy", "Andreas Zeller"],
+	"editor": [
+		"Tibor Gyimóthy",
+		"Andreas Zeller"
+	],
 	"ee": "http://doi.acm.org/10.1145/2025113.2025170",
 	"isbn": "978-1-4503-0443-6",
 	"pages": "392-395",
 	"publisher": "ACM",
-	"stemmed": ["search", "base", "hierarchi", "generat", "for", "revers", "engin", "state", "machin"],
-	"tag": ["generative", "state machine"],
+	"stemmed": [
+		"search",
+		"base",
+		"hierarchi",
+		"generat",
+		"for",
+		"revers",
+		"engin",
+		"state",
+		"machin"
+	],
+	"tag": [
+		"generative",
+		"state machine"
+	],
 	"title": "Search based hierarchy generation for reverse engineered state machines",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

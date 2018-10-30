@@ -1,6 +1,11 @@
 {
-	"author": ["John Cieslewicz", "Kenneth A. Ross", "Kyoho Satsumi", "Yang Ye"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"John Cieslewicz",
+		"Kenneth A. Ross",
+		"Kyoho Satsumi",
+		"Yang Ye"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/CieslewiczRSY10",
@@ -8,8 +13,22 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807221",
 	"pages": "483-494",
 	"publisher": "ACM",
-	"stemmed": ["automat", "content", "detect", "and", "amelior", "for", "data", "intens", "oper"],
-	"tag": ["automation", "data-driven", "detection"],
+	"stemmed": [
+		"automat",
+		"content",
+		"detect",
+		"and",
+		"amelior",
+		"for",
+		"data",
+		"intens",
+		"oper"
+	],
+	"tag": [
+		"automation",
+		"data-driven",
+		"detection"
+	],
 	"title": "Automatic contention detection and amelioration for data-intensive operations",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

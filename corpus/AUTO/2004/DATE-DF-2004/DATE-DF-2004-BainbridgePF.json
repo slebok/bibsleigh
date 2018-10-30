@@ -1,6 +1,11 @@
 {
-	"author": ["W. J. Bainbridge", "Luis A. Plana", "Stephen B. Furber"],
-	"booktitle": "DATE",
+	"author": [
+		"W. J. Bainbridge",
+		"Luis A. Plana",
+		"Stephen B. Furber"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Designers’ Forum",
+	"booktitleshort": "DATE DF",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/BainbridgePF04",
 	"doi": "10.1109/DATE.2004.1269249",
@@ -8,8 +13,29 @@
 	"pages": "274-279",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["the", "design", "and", "test", "of", "a", "smartcard", "chip", "use", "a", "chain", "self", "time", "network", "on", "chip"],
-	"tag": ["design", "self", "using"],
+	"stemmed": [
+		"the",
+		"design",
+		"and",
+		"test",
+		"of",
+		"a",
+		"smartcard",
+		"chip",
+		"use",
+		"a",
+		"chain",
+		"self",
+		"time",
+		"network",
+		"on",
+		"chip"
+	],
+	"tag": [
+		"design",
+		"self",
+		"using"
+	],
 	"title": "The Design and Test of a Smartcard Chip Using a CHAIN Self-Timed Network-on-Chip",
 	"type": "inproceedings",
 	"venue": "DATE",

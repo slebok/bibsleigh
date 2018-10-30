@@ -1,6 +1,11 @@
 {
-	"author": ["Adam Silberstein", "Jeff Terrace", "Brian F. Cooper", "Raghu Ramakrishnan"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Adam Silberstein",
+		"Jeff Terrace",
+		"Brian F. Cooper",
+		"Raghu Ramakrishnan"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/SilbersteinTCR10",
@@ -8,7 +13,15 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807257",
 	"pages": "831-842",
 	"publisher": "ACM",
-	"stemmed": ["feed", "frenzi", "select", "materi", "user", "event", "feed"],
+	"stemmed": [
+		"feed",
+		"frenzi",
+		"select",
+		"materi",
+		"user",
+		"event",
+		"feed"
+	],
 	"title": "Feeding frenzy: selectively materializing users’ event feeds",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

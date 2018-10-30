@@ -1,15 +1,41 @@
 {
-	"author": ["Santhosh Srinath", "Onur Mutlu", "Hyesoon Kim", "Yale N. Patt"],
-	"booktitle": "HPCA",
+	"author": [
+		"Santhosh Srinath",
+		"Onur Mutlu",
+		"Hyesoon Kim",
+		"Yale N. Patt"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2007",
 	"dblpkey": "conf/hpca/SrinathMKP07",
 	"doi": "10.1109/HPCA.2007.346185",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2007.346185", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2007.346185"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2007.346185",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2007.346185"
+	],
 	"pages": "63-74",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["feedback", "direct", "prefetch", "improv", "the", "perform", "and", "bandwidth", "effici", "of", "hardwar", "prefetch"],
-	"tag": ["feedback", "hardware", "performance"],
+	"stemmed": [
+		"feedback",
+		"direct",
+		"prefetch",
+		"improv",
+		"the",
+		"perform",
+		"and",
+		"bandwidth",
+		"effici",
+		"of",
+		"hardwar",
+		"prefetch"
+	],
+	"tag": [
+		"feedback",
+		"hardware",
+		"performance"
+	],
 	"title": "Feedback Directed Prefetching: Improving the Performance and Bandwidth-Efficiency of Hardware Prefetchers",
 	"type": "inproceedings",
 	"venue": "HPCA",

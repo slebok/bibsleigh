@@ -1,15 +1,43 @@
 {
-	"author": ["Takafumi Koshinaka", "Daisuke Nishiwaki", "Keiji Yamada"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Takafumi Koshinaka",
+		"Daisuke Nishiwaki",
+		"Keiji Yamada"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2001",
 	"dblpkey": "conf/icdar/KoshinakaNY01",
 	"doi": "10.1109/ICDAR.2001.953774",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2001.953774", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953774"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2001.953774",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953774"
+	],
 	"pages": "154-158",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "stochast", "model", "for", "handwritten", "word", "recognit", "use", "context", "depend", "between", "charact", "pattern"],
-	"tag": ["dependence", "probability", "recognition", "using", "word"],
+	"stemmed": [
+		"a",
+		"stochast",
+		"model",
+		"for",
+		"handwritten",
+		"word",
+		"recognit",
+		"use",
+		"context",
+		"depend",
+		"between",
+		"charact",
+		"pattern"
+	],
+	"tag": [
+		"dependence",
+		"probability",
+		"recognition",
+		"using",
+		"word"
+	],
 	"title": "A Stochastic Model for Handwritten Word Recognition Using Context Dependency Between Character Patterns",
 	"type": "inproceedings",
 	"venue": "ICDAR",

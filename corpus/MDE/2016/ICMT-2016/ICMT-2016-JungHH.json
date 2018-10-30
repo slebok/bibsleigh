@@ -1,17 +1,39 @@
 {
-	"author": ["Reiner Jung", "Robert Heinrich", "Wilhelm Hasselbring"],
-	"booktitle": "ICMT",
+	"author": [
+		"Reiner Jung",
+		"Robert Heinrich",
+		"Wilhelm Hasselbring"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Theory and Practice of Model Transformations",
+	"booktitleshort": "ICMT",
 	"crossref": "conf/icmt/2016",
 	"dblpkey": "conf/icmt/JungHH16",
 	"ee": "https://doi.org/10.1007/978-3-319-42064-6_10",
 	"pages": "141-156",
 	"publisher": "Springer",
 	"series": "Lecture Notes in Computer Science",
-	"stemmed": ["geco", "a", "generat", "composit", "approach", "for", "aspect", "orient", "dsls"],
-	"tag": ["approach", "aspect-oriented", "composition", "domain-specific language", "generative", "named"],
+	"stemmed": [
+		"geco",
+		"a",
+		"generat",
+		"composit",
+		"approach",
+		"for",
+		"aspect",
+		"orient",
+		"dsls"
+	],
+	"tag": [
+		"approach",
+		"aspect-oriented",
+		"composition",
+		"domain-specific language",
+		"generative",
+		"named"
+	],
 	"title": "GECO: A Generator Composition Approach for Aspect-Oriented DSLs",
 	"type": "inproceedings",
 	"venue": "ICMT",
-	"volume": 9765,
+	"volume": "9765",
 	"year": 2016
 }

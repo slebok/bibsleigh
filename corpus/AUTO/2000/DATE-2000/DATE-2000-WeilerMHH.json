@@ -1,6 +1,12 @@
 {
-	"author": ["D. Weiler", "O. Machul", "D. Hammerschmidt", "Bedrich J. Hosticka"],
-	"booktitle": "DATE",
+	"author": [
+		"D. Weiler",
+		"O. Machul",
+		"D. Hammerschmidt",
+		"Bedrich J. Hosticka"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/WeilerMHH00",
 	"doi": "10.1109/DATE.2000.840846",
@@ -8,8 +14,25 @@
 	"pages": "599-603",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["detect", "of", "defect", "sensor", "element", "use", "sigma", "delta", "modul", "and", "a", "match", "filter"],
-	"tag": ["detection", "using"],
+	"stemmed": [
+		"detect",
+		"of",
+		"defect",
+		"sensor",
+		"element",
+		"use",
+		"sigma",
+		"delta",
+		"modul",
+		"and",
+		"a",
+		"match",
+		"filter"
+	],
+	"tag": [
+		"detection",
+		"using"
+	],
 	"title": "Detection of Defective Sensor Elements Using Sigma-Delta-Modulation and a Matched Filter",
 	"type": "inproceedings",
 	"venue": "DATE",

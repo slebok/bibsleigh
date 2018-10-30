@@ -1,6 +1,11 @@
 {
-	"author": ["Chun-Kit Ngan", "Alexander Brodsky", "Jessica Lin"],
-	"booktitle": "ICEIS",
+	"author": [
+		"Chun-Kit Ngan",
+		"Alexander Brodsky",
+		"Jessica Lin"
+	],
+	"booktitle": "Revised Selected Papers of the 13th International Conference on Enterprise Information Systems",
+	"booktitleshort": "Post-ICEIS",
 	"crossref": "conf/iceis/2011",
 	"dblpkey": "conf/iceis/NganBL11a",
 	"doi": "10.1007/978-3-642-29958-2_14",
@@ -10,11 +15,31 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Business Information Processing",
 	"seriesshort": "LNBIP",
-	"stemmed": ["an", "event", "base", "servic", "framework", "for", "learn", "queri", "and", "monitor", "multivari", "time", "seri"],
-	"tag": ["framework", "learning", "monitoring", "multi", "query"],
+	"stemmed": [
+		"an",
+		"event",
+		"base",
+		"servic",
+		"framework",
+		"for",
+		"learn",
+		"queri",
+		"and",
+		"monitor",
+		"multivari",
+		"time",
+		"seri"
+	],
+	"tag": [
+		"framework",
+		"learning",
+		"monitoring",
+		"multi",
+		"query"
+	],
 	"title": "An Event-Based Service Framework for Learning, Querying and Monitoring Multivariate Time Series",
 	"type": "inproceedings",
 	"venue": "ICEIS",
-	"volume": 102,
+	"volume": "102",
 	"year": 2011
 }

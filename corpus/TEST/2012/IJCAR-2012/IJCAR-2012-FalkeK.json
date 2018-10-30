@@ -1,6 +1,10 @@
 {
-	"author": ["Stephan Falke", "Deepak Kapur"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Stephan Falke",
+		"Deepak Kapur"
+	],
+	"booktitle": "Proceedings of the Sixth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2012",
 	"dblpkey": "conf/cade/FalkeK12",
 	"doi": "10.1007/978-3-642-31365-3_20",
@@ -10,11 +14,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["rewrit", "induct", "linear", "arithmet", "decis", "procedur"],
-	"tag": ["induction", "linear"],
+	"stemmed": [
+		"rewrit",
+		"induct",
+		"linear",
+		"arithmet",
+		"decis",
+		"procedur"
+	],
+	"tag": [
+		"induction",
+		"linear"
+	],
 	"title": "Rewriting Induction + Linear Arithmetic = Decision Procedure",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 7364,
+	"volume": "7364",
 	"year": 2012
 }

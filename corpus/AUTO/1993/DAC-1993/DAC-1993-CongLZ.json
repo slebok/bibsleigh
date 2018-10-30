@@ -1,13 +1,32 @@
 {
-	"author": ["Jason Cong", "Kwok-Shing Leung", "Dian Zhou"],
-	"booktitle": "DAC",
+	"author": [
+		"Jason Cong",
+		"Kwok-Shing Leung",
+		"Dian Zhou"
+	],
+	"booktitle": "Proceedings of the 30th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/CongLZ93",
 	"doi": "10.1145/157485.165065",
 	"ee": "http://doi.acm.org/10.1145/157485.165065",
 	"pages": "606-611",
 	"publisher": "ACM Press",
-	"stemmed": ["perform", "driven", "interconnect", "design", "base", "on", "distribut", "rc", "delay", "model"],
-	"tag": ["design", "distributed"],
+	"stemmed": [
+		"perform",
+		"driven",
+		"interconnect",
+		"design",
+		"base",
+		"on",
+		"distribut",
+		"rc",
+		"delay",
+		"model"
+	],
+	"tag": [
+		"design",
+		"distributed"
+	],
 	"title": "Performance-Driven Interconnect Design Based on Distributed RC Delay Model",
 	"type": "inproceedings",
 	"venue": "DAC",

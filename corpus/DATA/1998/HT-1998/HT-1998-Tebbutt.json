@@ -1,6 +1,7 @@
 {
 	"author": "John Tebbutt",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the Ninth Conference on Hypertext and Hypermedia: Links, Objects, Time and Space — Structure in Hypermedia Systems",
+	"booktitleshort": "HT",
 	"cdrom": "HT1998/P299.pdf",
 	"crossref": "conf/ht/98",
 	"dblpkey": "conf/ht/Tebbutt98",
@@ -8,7 +9,10 @@
 	"ee": "http://doi.acm.org/10.1145/276627.276668",
 	"pages": "299-300",
 	"publisher": "ACM",
-	"stemmed": ["find", "link"],
+	"stemmed": [
+		"find",
+		"link"
+	],
 	"title": "Finding Links",
 	"type": "inproceedings",
 	"venue": "HT",

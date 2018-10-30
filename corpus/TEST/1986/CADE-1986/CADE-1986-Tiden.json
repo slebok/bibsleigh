@@ -1,6 +1,7 @@
 {
 	"author": "Erik Tidén",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Tiden86",
 	"doi": "10.1007/3-540-16780-3_110",
@@ -10,11 +11,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["unif", "in", "combin", "of", "collaps", "free", "theori", "with", "disjoint", "set", "of", "function", "symbol"],
-	"tag": ["set", "unification"],
+	"stemmed": [
+		"unif",
+		"in",
+		"combin",
+		"of",
+		"collaps",
+		"free",
+		"theori",
+		"with",
+		"disjoint",
+		"set",
+		"of",
+		"function",
+		"symbol"
+	],
+	"tag": [
+		"set",
+		"unification"
+	],
 	"title": "Unification in Combinations of Collapse-Free Theories with Disjoint Sets of Function Symbols",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

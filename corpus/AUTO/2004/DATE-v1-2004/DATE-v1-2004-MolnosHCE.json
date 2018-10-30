@@ -1,6 +1,12 @@
 {
-	"author": ["Anca Mariana Molnos", "Marc J. M. Heijligers", "Sorin Cotofana", "Jos T. J. van Eijndhoven"],
-	"booktitle": "DATE",
+	"author": [
+		"Anca Mariana Molnos",
+		"Marc J. M. Heijligers",
+		"Sorin Cotofana",
+		"Jos T. J. van Eijndhoven"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/MolnosHCE04",
 	"doi": "10.1109/DATE.2004.1268950",
@@ -8,8 +14,20 @@
 	"pages": "728-729",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["composit", "memori", "system", "for", "data", "intens", "applic"],
-	"tag": ["composition", "data-driven", "memory management"],
+	"stemmed": [
+		"composit",
+		"memori",
+		"system",
+		"for",
+		"data",
+		"intens",
+		"applic"
+	],
+	"tag": [
+		"composition",
+		"data-driven",
+		"memory management"
+	],
 	"title": "Compositional Memory Systems for Data Intensive Applications",
 	"type": "inproceedings",
 	"venue": "DATE",

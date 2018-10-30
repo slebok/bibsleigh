@@ -1,6 +1,10 @@
 {
-	"author": ["Barzan Mozafari", "Eugene Zhen Ye Goh", "Dong Young Yoon"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Barzan Mozafari",
+		"Eugene Zhen Ye Goh",
+		"Dong Young Yoon"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/MozafariGY15",
@@ -8,8 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2749454",
 	"pages": "1167-1182",
 	"publisher": "ACM",
-	"stemmed": ["cliff", "guard", "a", "principl", "framework", "for", "find", "robust", "databas", "design"],
-	"tag": ["database", "design", "framework", "named", "robust"],
+	"stemmed": [
+		"cliff",
+		"guard",
+		"a",
+		"principl",
+		"framework",
+		"for",
+		"find",
+		"robust",
+		"databas",
+		"design"
+	],
+	"tag": [
+		"database",
+		"design",
+		"framework",
+		"named",
+		"robust"
+	],
 	"title": "CliffGuard: A Principled Framework for Finding Robust Database Designs",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

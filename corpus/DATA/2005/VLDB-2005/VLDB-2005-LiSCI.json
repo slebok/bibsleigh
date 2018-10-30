@@ -1,13 +1,36 @@
 {
-	"author": ["Chengkai Li", "Mohamed A. Soliman", "Kevin Chen-Chuan Chang", "Ihab F. Ilyas"],
-	"booktitle": "VLDB",
+	"author": [
+		"Chengkai Li",
+		"Mohamed A. Soliman",
+		"Kevin Chen-Chuan Chang",
+		"Ihab F. Ilyas"
+	],
+	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/LiSCI05",
 	"ee": "http://www.vldb.org/conf/2005/papers/p1342-li.pdf",
 	"pages": "1342-1345",
 	"publisher": "ACM",
-	"stemmed": ["rank", "sql", "support", "rank", "queri", "in", "relat", "databas", "manag", "system"],
-	"tag": ["database", "named", "query", "ranking", "relational"],
+	"stemmed": [
+		"rank",
+		"sql",
+		"support",
+		"rank",
+		"queri",
+		"in",
+		"relat",
+		"databas",
+		"manag",
+		"system"
+	],
+	"tag": [
+		"database",
+		"named",
+		"query",
+		"ranking",
+		"relational"
+	],
 	"title": "RankSQL: Supporting Ranking Queries in Relational Database Management Systems",
 	"type": "inproceedings",
 	"venue": "VLDB",

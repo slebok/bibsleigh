@@ -1,15 +1,36 @@
 {
-	"author": ["Ganesh Balakrishnan", "Yan Solihin"],
-	"booktitle": "HPCA",
+	"author": [
+		"Ganesh Balakrishnan",
+		"Yan Solihin"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2012",
 	"dblpkey": "conf/hpca/BalakrishnanS12",
 	"doi": "10.1109/HPCA.2012.6169042",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2012.6169042", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6169042"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2012.6169042",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6169042"
+	],
 	"pages": "387-398",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["west", "clone", "data", "cach", "behavior", "use", "stochast", "trace"],
-	"tag": ["behaviour", "named", "probability", "using"],
+	"stemmed": [
+		"west",
+		"clone",
+		"data",
+		"cach",
+		"behavior",
+		"use",
+		"stochast",
+		"trace"
+	],
+	"tag": [
+		"behaviour",
+		"named",
+		"probability",
+		"using"
+	],
 	"title": "WEST: Cloning data cache behavior using Stochastic Traces",
 	"type": "inproceedings",
 	"venue": "HPCA",

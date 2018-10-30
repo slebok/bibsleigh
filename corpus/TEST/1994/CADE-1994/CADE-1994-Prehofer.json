@@ -1,6 +1,7 @@
 {
 	"author": "Christian Prehofer",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/Prehofer94",
 	"doi": "10.1007/3-540-58156-1_46",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["decid", "higher", "order", "unif", "problem"],
-	"tag": ["decidability", "higher-order", "problem", "unification"],
+	"stemmed": [
+		"decid",
+		"higher",
+		"order",
+		"unif",
+		"problem"
+	],
+	"tag": [
+		"decidability",
+		"higher-order",
+		"problem",
+		"unification"
+	],
 	"title": "Decidable Higher-Order Unification Problems",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

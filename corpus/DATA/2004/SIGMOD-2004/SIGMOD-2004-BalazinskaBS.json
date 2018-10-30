@@ -1,15 +1,37 @@
 {
-	"author": ["Magdalena Balazinska", "Hari Balakrishnan", "Michael Stonebraker"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Magdalena Balazinska",
+		"Hari Balakrishnan",
+		"Michael Stonebraker"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/BalazinskaBS04",
 	"doi": "10.1145/1007568.1007701",
-	"ee": ["http://doi.acm.org/10.1145/1007568.1007701", "http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/D-177.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1007568.1007701",
+		"http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/D-177.pdf"
+	],
 	"pages": "929-930",
 	"publisher": "ACM",
-	"stemmed": ["load", "manag", "and", "high", "avail", "in", "the", "medusa", "distribut", "stream", "process", "system"],
-	"tag": ["distributed"],
+	"stemmed": [
+		"load",
+		"manag",
+		"and",
+		"high",
+		"avail",
+		"in",
+		"the",
+		"medusa",
+		"distribut",
+		"stream",
+		"process",
+		"system"
+	],
+	"tag": [
+		"distributed"
+	],
 	"title": "Load Management and High Availability in the Medusa Distributed Stream Processing System",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

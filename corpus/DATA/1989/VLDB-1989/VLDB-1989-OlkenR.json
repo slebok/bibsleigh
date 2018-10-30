@@ -1,14 +1,44 @@
 {
-	"author": ["Frank Olken", "Doron Rotem"],
-	"booktitle": "VLDB",
-	"cite": ["...", "...", "books/wi/Cochran77", "journals/cj/ErnvallN82", "...", "journals/is/Ghosh88", "conf/pods/HouOT88", "books/aw/Knuth73", "...", "...", "...", "journals/tods/Palvia85", "conf/icde/SrivastavaL88", "journals/cacm/Vitter84", "journals/toms/Vitter85", "journals/siamcomp/WongE80", "journals/cacm/Yao77"],
+	"author": [
+		"Frank Olken",
+		"Doron Rotem"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"...",
+		"books/wi/Cochran77",
+		"journals/cj/ErnvallN82",
+		"...",
+		"journals/is/Ghosh88",
+		"conf/pods/HouOT88",
+		"books/aw/Knuth73",
+		"...",
+		"...",
+		"...",
+		"journals/tods/Palvia85",
+		"conf/icde/SrivastavaL88",
+		"journals/cacm/Vitter84",
+		"journals/toms/Vitter85",
+		"journals/siamcomp/WongE80",
+		"journals/cacm/Yao77"
+	],
 	"crossref": "conf/vldb/89",
 	"dblpkey": "conf/vldb/OlkenR89",
 	"ee": "http://www.vldb.org/conf/1989/P269.PDF",
 	"pages": "269-277",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["random", "sampl", "from", "b", "tree"],
-	"tag": ["random"],
+	"stemmed": [
+		"random",
+		"sampl",
+		"from",
+		"b",
+		"tree"
+	],
+	"tag": [
+		"random"
+	],
 	"title": "Random Sampling from B+ Trees",
 	"type": "inproceedings",
 	"venue": "VLDB",

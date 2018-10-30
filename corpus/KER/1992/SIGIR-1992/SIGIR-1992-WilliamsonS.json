@@ -1,6 +1,10 @@
 {
-	"author": ["Christopher Williamson", "Ben Shneiderman"],
+	"author": [
+		"Christopher Williamson",
+		"Ben Shneiderman"
+	],
 	"booktitle": "Proceedings of the 15th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1992/P338.pdf",
 	"crossref": "conf/sigir/92",
 	"dblpkey": "conf/sigir/WilliamsonS92",
@@ -8,8 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/133160.133216",
 	"pages": "338-346",
 	"publisher": "ACM",
-	"stemmed": ["the", "dynam", "home", "finder", "evalu", "dynam", "queri", "in", "a", "real", "estat", "inform", "explor", "system"],
-	"tag": ["query"],
+	"stemmed": [
+		"the",
+		"dynam",
+		"home",
+		"finder",
+		"evalu",
+		"dynam",
+		"queri",
+		"in",
+		"a",
+		"real",
+		"estat",
+		"inform",
+		"explor",
+		"system"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "The Dynamic HomeFinder: Evaluating Dynamic Queries in a Real-Estate Information Exploration System",
 	"type": "inproceedings",
 	"venue": "SIGIR",

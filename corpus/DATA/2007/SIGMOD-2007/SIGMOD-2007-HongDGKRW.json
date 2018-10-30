@@ -1,6 +1,13 @@
 {
-	"author": ["Mingsheng Hong", "Alan J. Demers", "Johannes Gehrke", "Christoph Koch", "Mirek Riedewald", "Walker M. White"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Mingsheng Hong",
+		"Alan J. Demers",
+		"Johannes Gehrke",
+		"Christoph Koch",
+		"Mirek Riedewald",
+		"Walker M. White"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/HongDGKRW07",
@@ -8,8 +15,20 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247564",
 	"pages": "761-772",
 	"publisher": "ACM",
-	"stemmed": ["massiv", "multi", "queri", "join", "process", "in", "publish", "subscrib", "system"],
-	"tag": ["multi"],
+	"stemmed": [
+		"massiv",
+		"multi",
+		"queri",
+		"join",
+		"process",
+		"in",
+		"publish",
+		"subscrib",
+		"system"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "Massively multi-query join processing in publish/subscribe systems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

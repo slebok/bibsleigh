@@ -1,6 +1,10 @@
 {
-	"author": ["Catherine Berrut", "Patrick Palmer"],
+	"author": [
+		"Catherine Berrut",
+		"Patrick Palmer"
+	],
 	"booktitle": "Proceedings of the Ninth International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1986/P123.pdf",
 	"crossref": "conf/sigir/86",
 	"dblpkey": "conf/sigir/BerrutP86",
@@ -8,8 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/253168.253196",
 	"pages": "123-130",
 	"publisher": "ACM",
-	"stemmed": ["solv", "grammat", "ambigu", "within", "a", "surfac", "syntact", "parser", "for", "automat", "index"],
-	"tag": ["automation", "parsing"],
+	"stemmed": [
+		"solv",
+		"grammat",
+		"ambigu",
+		"within",
+		"a",
+		"surfac",
+		"syntact",
+		"parser",
+		"for",
+		"automat",
+		"index"
+	],
+	"tag": [
+		"automation",
+		"parsing"
+	],
 	"title": "Solving Grammatical Ambiguities within a Surface Syntactical Parser for Automatic Indexing",
 	"type": "inproceedings",
 	"venue": "SIGIR",

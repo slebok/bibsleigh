@@ -1,6 +1,10 @@
 {
-	"author": ["Asterios Katsifodimos", "Ioana Manolescu", "Vasilis Vassalos"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Asterios Katsifodimos",
+		"Ioana Manolescu",
+		"Vasilis Vassalos"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/KatsifodimosMV12",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213900",
 	"pages": "565-576",
 	"publisher": "ACM",
-	"stemmed": ["materi", "view", "select", "for", "x", "queri", "workload"],
-	"tag": ["xquery"],
+	"stemmed": [
+		"materi",
+		"view",
+		"select",
+		"for",
+		"x",
+		"queri",
+		"workload"
+	],
+	"tag": [
+		"xquery"
+	],
 	"title": "Materialized view selection for XQuery workloads",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,24 @@
 {
 	"author": "James R. Goodman",
-	"booktitle": "ASPLOS",
+	"booktitle": "Proceedings of the Second International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1987",
 	"dblpkey": "conf/asplos/Goodman87",
 	"doi": "10.1145/36206.36186",
 	"ee": "http://doi.acm.org/10.1145/36206.36186",
 	"pages": "72-81",
 	"publisher": "ACM Press",
-	"stemmed": ["coher", "for", "multiprocessor", "virtual", "address", "cach"],
-	"tag": ["multi"],
+	"stemmed": [
+		"coher",
+		"for",
+		"multiprocessor",
+		"virtual",
+		"address",
+		"cach"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "Coherency for Multiprocessor Virtual Address Caches",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

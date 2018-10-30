@@ -1,14 +1,43 @@
 {
-	"author": ["Banu Özden", "Alexandros Biliris", "Rajeev Rastogi", "Abraham Silberschatz"],
-	"booktitle": "VLDB",
-	"cite": ["journals/cacm/Gall91", "...", "journals/tocs/AndersonOG92", "...", "journals/tkde/RanganV93", "journals/tois/GemmellC92", "journals/cacm/YuSBYBT89", "journals/tkde/GhandeharizadehR93"],
+	"author": [
+		"Banu Özden",
+		"Alexandros Biliris",
+		"Rajeev Rastogi",
+		"Abraham Silberschatz"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/cacm/Gall91",
+		"...",
+		"journals/tocs/AndersonOG92",
+		"...",
+		"journals/tkde/RanganV93",
+		"journals/tois/GemmellC92",
+		"journals/cacm/YuSBYBT89",
+		"journals/tkde/GhandeharizadehR93"
+	],
 	"crossref": "conf/vldb/94",
 	"dblpkey": "conf/vldb/OzdenBRS94",
 	"ee": "http://www.vldb.org/conf/1994/P594.PDF",
 	"pages": "594-605",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["a", "low", "cost", "storag", "server", "for", "movi", "on", "demand", "databas"],
-	"tag": ["database", "low cost"],
+	"stemmed": [
+		"a",
+		"low",
+		"cost",
+		"storag",
+		"server",
+		"for",
+		"movi",
+		"on",
+		"demand",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"low cost"
+	],
 	"title": "A Low-Cost Storage Server for Movie on Demand Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

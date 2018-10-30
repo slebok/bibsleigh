@@ -1,14 +1,31 @@
 {
-	"author": ["Seyed Majid Zahedi", "Benjamin C. Lee"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Seyed Majid Zahedi",
+		"Benjamin C. Lee"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2014",
 	"dblpkey": "conf/asplos/ZahediL14",
 	"doi": "10.1145/2541940.2541962",
 	"ee": "http://doi.acm.org/10.1145/2541940.2541962",
 	"pages": "145-160",
 	"publisher": "ACM",
-	"stemmed": ["ref", "resourc", "elast", "fair", "with", "share", "incent", "for", "multiprocessor"],
-	"tag": ["multi", "named"],
+	"stemmed": [
+		"ref",
+		"resourc",
+		"elast",
+		"fair",
+		"with",
+		"share",
+		"incent",
+		"for",
+		"multiprocessor"
+	],
+	"tag": [
+		"multi",
+		"named"
+	],
 	"title": "REF: resource elasticity fairness with sharing incentives for multiprocessors",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

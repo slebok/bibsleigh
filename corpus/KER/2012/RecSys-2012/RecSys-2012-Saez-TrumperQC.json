@@ -1,14 +1,33 @@
 {
-	"author": ["Diego Sáez-Trumper", "Daniele Quercia", "Jon Crowcroft"],
-	"booktitle": "RecSys",
+	"author": [
+		"Diego Sáez-Trumper",
+		"Daniele Quercia",
+		"Jon Crowcroft"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2012",
 	"dblpkey": "conf/recsys/Saez-TrumperQC12",
 	"doi": "10.1145/2365952.2365988",
 	"ee": "http://doi.acm.org/10.1145/2365952.2365988",
 	"pages": "187-194",
 	"publisher": "ACM",
-	"stemmed": ["ad", "and", "the", "citi", "consid", "geograph", "distanc", "goe", "a", "long", "way"],
-	"tag": ["distance"],
+	"stemmed": [
+		"ad",
+		"and",
+		"the",
+		"citi",
+		"consid",
+		"geograph",
+		"distanc",
+		"goe",
+		"a",
+		"long",
+		"way"
+	],
+	"tag": [
+		"distance"
+	],
 	"title": "Ads and the city: considering geographic distance goes a long way",
 	"type": "inproceedings",
 	"venue": "RecSys",

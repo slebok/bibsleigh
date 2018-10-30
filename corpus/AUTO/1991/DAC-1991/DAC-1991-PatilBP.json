@@ -1,13 +1,33 @@
 {
-	"author": ["Srinivas Patil", "Prithviraj Banerjee", "Janak H. Patel"],
-	"booktitle": "DAC",
+	"author": [
+		"Srinivas Patil",
+		"Prithviraj Banerjee",
+		"Janak H. Patel"
+	],
+	"booktitle": "Proceedings of the 28th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/PatilBP91",
 	"doi": "10.1145/127601.127651",
 	"ee": "http://doi.acm.org/10.1145/127601.127651",
 	"pages": "155-159",
 	"publisher": "ACM",
-	"stemmed": ["parallel", "test", "generat", "for", "sequenti", "circuit", "on", "general", "purpos", "multiprocessor"],
-	"tag": ["generative", "parallel", "testing"],
+	"stemmed": [
+		"parallel",
+		"test",
+		"generat",
+		"for",
+		"sequenti",
+		"circuit",
+		"on",
+		"general",
+		"purpos",
+		"multiprocessor"
+	],
+	"tag": [
+		"generative",
+		"parallel",
+		"testing"
+	],
 	"title": "Parallel Test Generation for Sequential Circuits on General-Purpose Multiprocessors",
 	"type": "inproceedings",
 	"venue": "DAC",

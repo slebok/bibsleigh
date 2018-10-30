@@ -1,6 +1,10 @@
 {
-	"author": ["Jean-François Couchot", "Stéphane Lescuyer"],
-	"booktitle": "CADE",
+	"author": [
+		"Jean-François Couchot",
+		"Stéphane Lescuyer"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2007",
 	"dblpkey": "conf/cade/CouchotL07",
 	"doi": "10.1007/978-3-540-73595-3_18",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["handl", "polymorph", "in", "autom", "deduct"],
-	"tag": ["automation", "deduction", "morphism", "polymorphism"],
+	"stemmed": [
+		"handl",
+		"polymorph",
+		"in",
+		"autom",
+		"deduct"
+	],
+	"tag": [
+		"automation",
+		"deduction",
+		"morphism",
+		"polymorphism"
+	],
 	"title": "Handling Polymorphism in Automated Deduction",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 4603,
+	"volume": "4603",
 	"year": 2007
 }

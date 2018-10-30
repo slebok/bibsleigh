@@ -1,6 +1,11 @@
 {
-	"author": ["Koen Claessen", "Ann Lillieström", "Nicholas Smallbone"],
-	"booktitle": "CADE",
+	"author": [
+		"Koen Claessen",
+		"Ann Lillieström",
+		"Nicholas Smallbone"
+	],
+	"booktitle": "Proceedings of the 23rd International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2011",
 	"dblpkey": "conf/cade/ClaessenLS11",
 	"doi": "10.1007/978-3-642-22438-6_17",
@@ -10,11 +15,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["sort", "it", "out", "with", "monoton", "translat", "between", "mani", "sort", "and", "unsort", "first", "order", "logic"],
-	"tag": ["first-order", "logic"],
+	"stemmed": [
+		"sort",
+		"it",
+		"out",
+		"with",
+		"monoton",
+		"translat",
+		"between",
+		"mani",
+		"sort",
+		"and",
+		"unsort",
+		"first",
+		"order",
+		"logic"
+	],
+	"tag": [
+		"first-order",
+		"logic"
+	],
 	"title": "Sort It Out with Monotonicity — Translating between Many-Sorted and Unsorted First-Order Logic",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 6803,
+	"volume": "6803",
 	"year": 2011
 }

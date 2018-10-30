@@ -1,14 +1,33 @@
 {
-	"author": ["Lukas Cavigelli", "Michele Magno", "Luca Benini"],
-	"booktitle": "DAC",
+	"author": [
+		"Lukas Cavigelli",
+		"Michele Magno",
+		"Luca Benini"
+	],
+	"booktitle": "Proceedings of the 52nd Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2015",
 	"dblpkey": "conf/dac/CavigelliMB15",
 	"doi": "10.1145/2744769.2744788",
 	"ee": "http://doi.acm.org/10.1145/2744769.2744788",
 	"pages": "108:1-108:6",
 	"publisher": "ACM",
-	"stemmed": ["acceler", "real", "time", "embed", "scene", "label", "with", "convolut", "network"],
-	"tag": ["embedded", "network", "realtime"],
+	"stemmed": [
+		"acceler",
+		"real",
+		"time",
+		"embed",
+		"scene",
+		"label",
+		"with",
+		"convolut",
+		"network"
+	],
+	"tag": [
+		"embedded",
+		"network",
+		"realtime"
+	],
 	"title": "Accelerating real-time embedded scene labeling with convolutional networks",
 	"type": "inproceedings",
 	"venue": "DAC",

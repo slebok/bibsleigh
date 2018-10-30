@@ -1,15 +1,34 @@
 {
-	"author": ["Junli Gu", "Steven S. Lumetta", "Rakesh Kumar", "Yihe Sun"],
-	"booktitle": "HPCA",
+	"author": [
+		"Junli Gu",
+		"Steven S. Lumetta",
+		"Rakesh Kumar",
+		"Yihe Sun"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2011",
 	"dblpkey": "conf/hpca/GuLKS11",
 	"doi": "10.1109/HPCA.2011.5749721",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2011.5749721", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2011.5749721"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2011.5749721",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2011.5749721"
+	],
 	"pages": "111-120",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["mope", "orchestr", "interprocess", "messag", "data", "on", "cmps"],
-	"tag": ["named"],
+	"stemmed": [
+		"mope",
+		"orchestr",
+		"interprocess",
+		"messag",
+		"data",
+		"on",
+		"cmps"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "MOPED: Orchestrating interprocess message data on CMPs",
 	"type": "inproceedings",
 	"venue": "HPCA",

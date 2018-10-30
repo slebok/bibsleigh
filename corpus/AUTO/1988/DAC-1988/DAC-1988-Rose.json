@@ -1,12 +1,27 @@
 {
 	"acmid": "285730.285762",
 	"author": "Jonathan Rose",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 25th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/Rose88",
 	"pages": "189-195",
 	"publisher": "ACM",
-	"stemmed": ["locus", "rout", "a", "parallel", "global", "router", "for", "standard", "cell"],
-	"tag": ["named", "parallel", "standard"],
+	"stemmed": [
+		"locus",
+		"rout",
+		"a",
+		"parallel",
+		"global",
+		"router",
+		"for",
+		"standard",
+		"cell"
+	],
+	"tag": [
+		"named",
+		"parallel",
+		"standard"
+	],
 	"title": "LocusRoute: A Parallel Global Router for Standard Cells",
 	"type": "inproceedings",
 	"venue": "DAC",

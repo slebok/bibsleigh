@@ -1,19 +1,49 @@
 {
-	"address": ["Dagstuhl", "", "Germany"],
+	"address": [
+		"Dagstuhl",
+		"",
+		"Germany"
+	],
 	"author": "Artur Boronat",
 	"booktitle": "Proceedings of the Dagstuhl Seminar 11031 on Bidirectional Transformations",
-	"editor": ["Zhenjiang Hu", "Andy Schürr", "Perdita Stevens", "James Terwilliger"],
+	"booktitleshort": "BX",
+	"editor": [
+		"Zhenjiang Hu",
+		"Andy Schürr",
+		"Perdita Stevens",
+		"James Terwilliger"
+	],
 	"month": "jan",
-	"number": 1,
-	"pages": 53,
+	"number": "1",
+	"pages": "53",
 	"publisher": "Schloss Dagstuhl — Leibniz-Zentrum für Informatik",
 	"publishershort": "Dagstuhl",
 	"series": "Dagstuhl Reports",
-	"stemmed": ["inconsist", "detect", "and", "resolut", "in", "heterogen", "model", "base", "specif", "use", "maud"],
-	"tag": ["consistency", "detection", "maude", "modelling", "nondeterminism", "specification", "using"],
+	"stemmed": [
+		"inconsist",
+		"detect",
+		"and",
+		"resolut",
+		"in",
+		"heterogen",
+		"model",
+		"base",
+		"specif",
+		"use",
+		"maud"
+	],
+	"tag": [
+		"consistency",
+		"detection",
+		"maude",
+		"modelling",
+		"nondeterminism",
+		"specification",
+		"using"
+	],
 	"title": "Inconsistency detection and resolution in heterogenous model-based specifications using Maude",
 	"type": "inproceedings",
 	"venue": "BX",
-	"volume": 1,
+	"volume": "1",
 	"year": 2011
 }

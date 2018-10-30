@@ -1,13 +1,27 @@
 {
-	"author": ["Sujit Dey", "Franc Brglez", "Gershon Kedem"],
-	"booktitle": "DAC",
+	"author": [
+		"Sujit Dey",
+		"Franc Brglez",
+		"Gershon Kedem"
+	],
+	"booktitle": "Proceedings of the 27th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/DeyBK90",
 	"doi": "10.1145/123186.123416",
 	"ee": "http://doi.acm.org/10.1145/123186.123416",
 	"pages": "607-612",
 	"publisher": "IEEE Computer Society Press",
-	"stemmed": ["corolla", "base", "circuit", "partit", "and", "resynthesi"],
-	"tag": ["clustering"],
+	"stemmed": [
+		"corolla",
+		"base",
+		"circuit",
+		"partit",
+		"and",
+		"resynthesi"
+	],
+	"tag": [
+		"clustering"
+	],
 	"title": "Corolla Based Circuit Partitioning and Resynthesis",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,13 +1,38 @@
 {
-	"author": ["Wolfram Fenske", "Sandro Schulze", "Daniel Meyer", "Gunter Saake"],
-	"booktitle": "SCAM",
+	"author": [
+		"Wolfram Fenske",
+		"Sandro Schulze",
+		"Daniel Meyer",
+		"Gunter Saake"
+	],
+	"booktitle": "Proceedings of the 15th International Working Conference on Source Code Analysis and Manipulation",
+	"booktitleshort": "SCAM",
 	"crossref": "conf/scam/2015",
 	"dblpkey": "conf/scam/FenskeSMS15",
 	"doi": "10.1109/SCAM.2015.7335413",
 	"pages": "171-180",
 	"publisher": "IEEE",
-	"stemmed": ["when", "code", "smell", "twice", "as", "much", "metric", "base", "detect", "of", "variabl", "awar", "code", "smell"],
-	"tag": ["detection", "smell", "variability"],
+	"stemmed": [
+		"when",
+		"code",
+		"smell",
+		"twice",
+		"as",
+		"much",
+		"metric",
+		"base",
+		"detect",
+		"of",
+		"variabl",
+		"awar",
+		"code",
+		"smell"
+	],
+	"tag": [
+		"detection",
+		"smell",
+		"variability"
+	],
 	"title": "When code smells twice as much: Metric-based detection of variability-aware code smells",
 	"type": "inproceedings",
 	"venue": "SCAM",

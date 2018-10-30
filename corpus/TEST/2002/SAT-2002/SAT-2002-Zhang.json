@@ -1,12 +1,30 @@
 {
-	"address": ["Cincinnati", "Ohio", "USA"],
+	"address": [
+		"Cincinnati",
+		"Ohio",
+		"USA"
+	],
 	"author": "Hantao Zhang",
 	"booktitle": "Proceedings of the Fifth International Symposium on the Theory and Applications of Satisfiability Testing",
+	"booktitleshort": "SAT",
 	"editor": "John Franco",
 	"month": "may",
-	"pages": 39,
-	"stemmed": ["generat", "colleg", "confer", "basketbal", "schedul", "by", "a", "sat", "solver"],
-	"tag": ["generative", "satisfiability"],
+	"pages": "39",
+	"stemmed": [
+		"generat",
+		"colleg",
+		"confer",
+		"basketbal",
+		"schedul",
+		"by",
+		"a",
+		"sat",
+		"solver"
+	],
+	"tag": [
+		"generative",
+		"satisfiability"
+	],
 	"title": "Generating college conference basketball schedules by a SAT solver",
 	"type": "inproceedings",
 	"venue": "SAT",

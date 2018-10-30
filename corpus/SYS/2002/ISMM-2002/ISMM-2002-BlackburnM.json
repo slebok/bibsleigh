@@ -1,6 +1,9 @@
 {
-	"author": ["Stephen Blackburn", "Kathryn S. McKinley"],
-	"booktitle": "MSP/ISMM",
+	"author": [
+		"Stephen Blackburn",
+		"Kathryn S. McKinley"
+	],
+	"booktitle": "Proceedings of the Third International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2002",
 	"dblpkey": "conf/iwmm/BlackburnM02",
@@ -8,7 +11,17 @@
 	"ee": "http://doi.acm.org/10.1145/773039.512452",
 	"pages": "281-290",
 	"publisher": "ACM",
-	"stemmed": ["in", "or", "out", "put", "write", "barrier", "in", "their", "place"],
+	"stemmed": [
+		"in",
+		"or",
+		"out",
+		"put",
+		"write",
+		"barrier",
+		"in",
+		"their",
+		"place"
+	],
 	"title": "In or out?: putting write barriers in their place",
 	"type": "inproceedings",
 	"venue": "ISMM",

@@ -1,13 +1,31 @@
 {
-	"author": ["Mona Attariyan", "Jason Flinn"],
-	"booktitle": "OSDI",
+	"author": [
+		"Mona Attariyan",
+		"Jason Flinn"
+	],
+	"booktitle": "Proceedings of the Ninth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2010",
 	"dblpkey": "conf/osdi/AttariyanF10",
 	"ee": "http://www.usenix.org/events/osdi10/tech/full_papers/Attariyan.pdf",
 	"pages": "237-250",
 	"publisher": "USENIX Association",
-	"stemmed": ["autom", "configur", "troubleshoot", "with", "dynam", "inform", "flow", "analysi"],
-	"tag": ["analysis", "automation", "data flow", "information management"],
+	"stemmed": [
+		"autom",
+		"configur",
+		"troubleshoot",
+		"with",
+		"dynam",
+		"inform",
+		"flow",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"automation",
+		"data flow",
+		"information management"
+	],
 	"title": "Automating Configuration Troubleshooting with Dynamic Information Flow Analysis",
 	"type": "inproceedings",
 	"venue": "OSDI",

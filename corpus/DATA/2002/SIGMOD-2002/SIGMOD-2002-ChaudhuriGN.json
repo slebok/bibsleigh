@@ -1,6 +1,10 @@
 {
-	"author": ["Surajit Chaudhuri", "Ashish Kumar Gupta", "Vivek R. Narasayya"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Surajit Chaudhuri",
+		"Ashish Kumar Gupta",
+		"Vivek R. Narasayya"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/ChaudhuriGN02",
@@ -8,8 +12,14 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564747",
 	"pages": "488-499",
 	"publisher": "ACM",
-	"stemmed": ["compress", "sql", "workload"],
-	"tag": ["sql"],
+	"stemmed": [
+		"compress",
+		"sql",
+		"workload"
+	],
+	"tag": [
+		"sql"
+	],
 	"title": "Compressing SQL workloads",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

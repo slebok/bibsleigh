@@ -1,6 +1,11 @@
 {
-	"author": ["Karl Schnaitter", "Serge Abiteboul", "Tova Milo", "Neoklis Polyzotis"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Karl Schnaitter",
+		"Serge Abiteboul",
+		"Tova Milo",
+		"Neoklis Polyzotis"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/SchnaitterAMP06",
@@ -8,8 +13,17 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142592",
 	"pages": "793-795",
 	"publisher": "ACM",
-	"stemmed": ["colt", "continu", "on", "line", "tune"],
-	"tag": ["named", "online"],
+	"stemmed": [
+		"colt",
+		"continu",
+		"on",
+		"line",
+		"tune"
+	],
+	"tag": [
+		"named",
+		"online"
+	],
 	"title": "COLT: continuous on-line tuning",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

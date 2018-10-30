@@ -1,12 +1,31 @@
 {
-	"address": ["Cincinnati", "Ohio", "USA"],
-	"author": ["Chu Min Li", "Bernard Jurkowiak", "Paul Walton Purdom"],
+	"address": [
+		"Cincinnati",
+		"Ohio",
+		"USA"
+	],
+	"author": [
+		"Chu Min Li",
+		"Bernard Jurkowiak",
+		"Paul Walton Purdom"
+	],
 	"booktitle": "Proceedings of the Fifth International Symposium on the Theory and Applications of Satisfiability Testing",
+	"booktitleshort": "SAT",
 	"editor": "John Franco",
 	"month": "may",
-	"pages": 18,
-	"stemmed": ["integr", "symmetri", "break", "into", "a", "dll", "procedur"],
-	"tag": ["symmetry"],
+	"pages": "18",
+	"stemmed": [
+		"integr",
+		"symmetri",
+		"break",
+		"into",
+		"a",
+		"dll",
+		"procedur"
+	],
+	"tag": [
+		"symmetry"
+	],
 	"title": "Integrating symmetry breaking into a DLL procedure",
 	"type": "inproceedings",
 	"venue": "SAT",

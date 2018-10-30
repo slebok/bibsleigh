@@ -1,6 +1,11 @@
 {
-	"author": ["Hicham Bensaid", "Ricardo Caferra", "Nicolas Peltier"],
-	"booktitle": "CADE",
+	"author": [
+		"Hicham Bensaid",
+		"Ricardo Caferra",
+		"Nicolas Peltier"
+	],
+	"booktitle": "Proceedings of the 22nd International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2009",
 	"dblpkey": "conf/cade/BensaidCP09",
 	"doi": "10.1007/978-3-642-02959-2_11",
@@ -10,11 +15,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["dei", "a", "theorem", "prover", "for", "term", "with", "integ", "expon"],
-	"tag": ["integer", "named", "proving", "theorem proving"],
+	"stemmed": [
+		"dei",
+		"a",
+		"theorem",
+		"prover",
+		"for",
+		"term",
+		"with",
+		"integ",
+		"expon"
+	],
+	"tag": [
+		"integer",
+		"named",
+		"proving",
+		"theorem proving"
+	],
 	"title": "Dei: A Theorem Prover for Terms with Integer Exponents",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 5663,
+	"volume": "5663",
 	"year": 2009
 }

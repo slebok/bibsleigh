@@ -1,15 +1,34 @@
 {
-	"author": ["Khaled Z. Ibrahim", "Gregory T. Byrd", "Eric Rotenberg"],
-	"booktitle": "HPCA",
+	"author": [
+		"Khaled Z. Ibrahim",
+		"Gregory T. Byrd",
+		"Eric Rotenberg"
+	],
+	"booktitle": "Proceedings of the Ninth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2003",
 	"dblpkey": "conf/hpca/IbrahimBR03",
 	"doi": "10.1109/HPCA.2003.1183536",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2003.1183536", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2003.1183536"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2003.1183536",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2003.1183536"
+	],
 	"pages": "179-190",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["slipstream", "execut", "mode", "for", "cmp", "base", "multiprocessor"],
-	"tag": ["execution", "multi"],
+	"stemmed": [
+		"slipstream",
+		"execut",
+		"mode",
+		"for",
+		"cmp",
+		"base",
+		"multiprocessor"
+	],
+	"tag": [
+		"execution",
+		"multi"
+	],
 	"title": "Slipstream Execution Mode for CMP-Based Multiprocessors",
 	"type": "inproceedings",
 	"venue": "HPCA",

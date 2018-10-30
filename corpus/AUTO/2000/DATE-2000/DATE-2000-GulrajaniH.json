@@ -1,6 +1,10 @@
 {
-	"author": ["Kabir Gulrajani", "Michael S. Hsiao"],
-	"booktitle": "DATE",
+	"author": [
+		"Kabir Gulrajani",
+		"Michael S. Hsiao"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/GulrajaniH00",
 	"doi": "10.1109/DATE.2000.840868",
@@ -8,8 +12,21 @@
 	"pages": "729-733",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["multi", "node", "static", "logic", "implic", "for", "redund", "identif"],
-	"tag": ["identification", "logic", "multi"],
+	"stemmed": [
+		"multi",
+		"node",
+		"static",
+		"logic",
+		"implic",
+		"for",
+		"redund",
+		"identif"
+	],
+	"tag": [
+		"identification",
+		"logic",
+		"multi"
+	],
 	"title": "Multi-Node Static Logic Implications for Redundancy Identification",
 	"type": "inproceedings",
 	"venue": "DATE",

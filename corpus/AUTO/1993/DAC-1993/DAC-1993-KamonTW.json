@@ -1,13 +1,32 @@
 {
-	"author": ["Mattan Kamon", "Michael J. Tsuk", "Jacob White"],
-	"booktitle": "DAC",
+	"author": [
+		"Mattan Kamon",
+		"Michael J. Tsuk",
+		"Jacob White"
+	],
+	"booktitle": "Proceedings of the 30th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/KamonTW93",
 	"doi": "10.1145/157485.165090",
 	"ee": "http://doi.acm.org/10.1145/157485.165090",
 	"pages": "678-683",
 	"publisher": "ACM Press",
-	"stemmed": ["fast", "henri", "a", "multipol", "acceler", "d", "induct", "extract", "program"],
-	"tag": ["3d", "multi", "named"],
+	"stemmed": [
+		"fast",
+		"henri",
+		"a",
+		"multipol",
+		"acceler",
+		"d",
+		"induct",
+		"extract",
+		"program"
+	],
+	"tag": [
+		"3d",
+		"multi",
+		"named"
+	],
 	"title": "FastHenry: A Multipole-Accelerated 3-D Inductance Extraction Program",
 	"type": "inproceedings",
 	"venue": "DAC",

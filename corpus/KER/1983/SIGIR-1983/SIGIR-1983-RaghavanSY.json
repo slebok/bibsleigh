@@ -1,6 +1,11 @@
 {
-	"author": ["Vijay V. Raghavan", "Hong-Pao Shi", "Clement T. Yu"],
+	"author": [
+		"Vijay V. Raghavan",
+		"Hong-Pao Shi",
+		"Clement T. Yu"
+	],
 	"booktitle": "Proceedings of the Sixth Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1983/P088.pdf",
 	"crossref": "conf/sigir/83",
 	"dblpkey": "conf/sigir/RaghavanSY83",
@@ -8,8 +13,27 @@
 	"ee": "http://doi.acm.org/10.1145/511793.511806",
 	"pages": "88-100",
 	"publisher": "ACM",
-	"stemmed": ["evalu", "of", "the", "poisson", "model", "as", "a", "basi", "for", "use", "term", "frequenc", "data", "in", "search"],
-	"tag": ["evaluation", "using"],
+	"stemmed": [
+		"evalu",
+		"of",
+		"the",
+		"poisson",
+		"model",
+		"as",
+		"a",
+		"basi",
+		"for",
+		"use",
+		"term",
+		"frequenc",
+		"data",
+		"in",
+		"search"
+	],
+	"tag": [
+		"evaluation",
+		"using"
+	],
 	"title": "Evaluation of The 2-Poisson Model as a Basis for Using Term Frequency Data in Searching",
 	"type": "inproceedings",
 	"venue": "SIGIR",

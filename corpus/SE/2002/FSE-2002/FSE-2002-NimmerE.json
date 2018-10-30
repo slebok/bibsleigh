@@ -1,7 +1,10 @@
 {
-	"author": ["Jeremy W. Nimmer", "Michael D. Ernst"],
+	"author": [
+		"Jeremy W. Nimmer",
+		"Michael D. Ernst"
+	],
 	"booktitle": "Proceedings of the 10th Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2002",
 	"dblpkey": "conf/sigsoft/NimmerE02",
 	"doi": "10.1145/587051.587054",
@@ -9,8 +12,17 @@
 	"isbn": "1-58113-514-9",
 	"pages": "11-20",
 	"publisher": "ACM",
-	"stemmed": ["invari", "infer", "for", "static", "check"],
-	"tag": ["invariant", "static analysis"],
+	"stemmed": [
+		"invari",
+		"infer",
+		"for",
+		"static",
+		"check"
+	],
+	"tag": [
+		"invariant",
+		"static analysis"
+	],
 	"title": "Invariant inference for static checking",
 	"type": "inproceedings",
 	"venue": "FSE",

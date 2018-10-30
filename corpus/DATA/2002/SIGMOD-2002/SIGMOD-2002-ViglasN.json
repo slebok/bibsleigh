@@ -1,6 +1,9 @@
 {
-	"author": ["Stratis Viglas", "Jeffrey F. Naughton"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Stratis Viglas",
+		"Jeffrey F. Naughton"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/ViglasN02",
@@ -8,8 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564697",
 	"pages": "37-48",
 	"publisher": "ACM",
-	"stemmed": ["rate", "base", "queri", "optim", "for", "stream", "inform", "sourc"],
-	"tag": ["optimisation", "query", "streaming"],
+	"stemmed": [
+		"rate",
+		"base",
+		"queri",
+		"optim",
+		"for",
+		"stream",
+		"inform",
+		"sourc"
+	],
+	"tag": [
+		"optimisation",
+		"query",
+		"streaming"
+	],
 	"title": "Rate-based query optimization for streaming information sources",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

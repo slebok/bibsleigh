@@ -1,15 +1,36 @@
 {
-	"author": ["Wilson W. L. Fung", "Tor M. Aamodt"],
-	"booktitle": "HPCA",
+	"author": [
+		"Wilson W. L. Fung",
+		"Tor M. Aamodt"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2011",
 	"dblpkey": "conf/hpca/FungA11",
 	"doi": "10.1109/HPCA.2011.5749714",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2011.5749714", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2011.5749714"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2011.5749714",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2011.5749714"
+	],
 	"pages": "25-36",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["thread", "block", "compact", "for", "effici", "simt", "control", "flow"],
-	"tag": ["concurrent", "control flow", "performance", "thread"],
+	"stemmed": [
+		"thread",
+		"block",
+		"compact",
+		"for",
+		"effici",
+		"simt",
+		"control",
+		"flow"
+	],
+	"tag": [
+		"concurrent",
+		"control flow",
+		"performance",
+		"thread"
+	],
 	"title": "Thread block compaction for efficient SIMT control flow",
 	"type": "inproceedings",
 	"venue": "HPCA",

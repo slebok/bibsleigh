@@ -1,6 +1,10 @@
 {
-	"author": ["Rakesh M. Verma", "I. V. Ramakrishnan"],
-	"booktitle": "CADE",
+	"author": [
+		"Rakesh M. Verma",
+		"I. V. Ramakrishnan"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/VermaR88",
 	"doi": "10.1007/BFb0012867",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["optim", "time", "bound", "for", "parallel", "term", "match"],
-	"tag": ["bound", "parallel"],
+	"stemmed": [
+		"optim",
+		"time",
+		"bound",
+		"for",
+		"parallel",
+		"term",
+		"match"
+	],
+	"tag": [
+		"bound",
+		"parallel"
+	],
 	"title": "Optimal Time Bounds for Parallel Term Matching",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

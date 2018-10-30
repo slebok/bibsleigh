@@ -1,6 +1,7 @@
 {
 	"author": "John L. Pollock",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/Pollock90",
 	"doi": "10.1007/3-540-52885-7_134",
@@ -10,10 +11,12 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["oscar"],
+	"stemmed": [
+		"oscar"
+	],
 	"title": "OSCAR",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

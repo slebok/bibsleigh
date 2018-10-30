@@ -1,6 +1,11 @@
 {
-	"author": ["Nicholas Freitag McPhee", "Shang-Ching Chou", "Xiao-Shan Gao"],
-	"booktitle": "CADE",
+	"author": [
+		"Nicholas Freitag McPhee",
+		"Shang-Ching Chou",
+		"Xiao-Shan Gao"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/McPheeCG94",
 	"doi": "10.1007/3-540-58156-1_28",
@@ -10,11 +15,31 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["mechan", "prove", "geometri", "theorem", "use", "a", "combin", "of", "wu", "s", "method", "and", "collin", "method"],
-	"tag": ["geometry", "proving", "theorem", "using"],
+	"stemmed": [
+		"mechan",
+		"prove",
+		"geometri",
+		"theorem",
+		"use",
+		"a",
+		"combin",
+		"of",
+		"wu",
+		"s",
+		"method",
+		"and",
+		"collin",
+		"method"
+	],
+	"tag": [
+		"geometry",
+		"proving",
+		"theorem",
+		"using"
+	],
 	"title": "Mechanically Proving Geometry Theorems Using a Combination of Wu’s Method and Collins’ Method",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

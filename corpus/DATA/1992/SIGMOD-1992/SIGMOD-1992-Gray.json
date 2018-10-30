@@ -1,14 +1,26 @@
 {
 	"author": "Jim Gray",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 22nd ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD92/P006.PDF",
 	"crossref": "conf/sigmod/92",
 	"dblpkey": "conf/sigmod/Gray92",
 	"doi": "10.1145/130283.130288",
 	"ee": "http://doi.acm.org/10.1145/130283.130288",
-	"pages": 6,
-	"stemmed": ["databas", "and", "transact", "process", "benchmark"],
-	"tag": ["benchmark", "database", "metric", "transaction"],
+	"pages": "6",
+	"stemmed": [
+		"databas",
+		"and",
+		"transact",
+		"process",
+		"benchmark"
+	],
+	"tag": [
+		"benchmark",
+		"database",
+		"metric",
+		"transaction"
+	],
 	"title": "Database and Transaction Processing Benchmarks",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

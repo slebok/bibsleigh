@@ -1,14 +1,48 @@
 {
-	"author": ["Michael J. Carey", "Eugene J. Shekita", "George Lapis", "Bruce G. Lindsay", "John McPherson"],
-	"booktitle": "VLDB",
-	"cite": ["journals/tods/AstrahanBCEGGKLMMPTWW76", "conf/vldb/BittonDT83", "conf/sigmod/RubensteinKC87", "journals/cacm/ChamberlinABGKLLMPPSSSTWY81", "conf/vldb/Date81", "...", "books/bc/ElmasriN89", "conf/sigmod/HaasFLP89", "journals/tkde/HaasCLMWLLPCS90", "conf/sigmod/LindsayMP87", "conf/sigmod/Lohman88", "...", "journals/tods/Shapiro86", "conf/oodbs/SchwarzCFLMMP86", "conf/sigmod/ShekitaC89", "conf/sigmod/ShekitaC90", "journals/tods/Valduriez87"],
+	"author": [
+		"Michael J. Carey",
+		"Eugene J. Shekita",
+		"George Lapis",
+		"Bruce G. Lindsay",
+		"John McPherson"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/tods/AstrahanBCEGGKLMMPTWW76",
+		"conf/vldb/BittonDT83",
+		"conf/sigmod/RubensteinKC87",
+		"journals/cacm/ChamberlinABGKLLMPPSSSTWY81",
+		"conf/vldb/Date81",
+		"...",
+		"books/bc/ElmasriN89",
+		"conf/sigmod/HaasFLP89",
+		"journals/tkde/HaasCLMWLLPCS90",
+		"conf/sigmod/LindsayMP87",
+		"conf/sigmod/Lohman88",
+		"...",
+		"journals/tods/Shapiro86",
+		"conf/oodbs/SchwarzCFLMMP86",
+		"conf/sigmod/ShekitaC89",
+		"conf/sigmod/ShekitaC90",
+		"journals/tods/Valduriez87"
+	],
 	"crossref": "conf/vldb/90",
 	"dblpkey": "conf/vldb/CareySLLM90",
 	"ee": "http://www.vldb.org/conf/1990/P662.PDF",
 	"pages": "662-673",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["an", "increment", "join", "attach", "for", "starburst"],
-	"tag": ["incremental"],
+	"stemmed": [
+		"an",
+		"increment",
+		"join",
+		"attach",
+		"for",
+		"starburst"
+	],
+	"tag": [
+		"incremental"
+	],
 	"title": "An Incremental Join Attachment for Starburst",
 	"type": "inproceedings",
 	"venue": "VLDB",

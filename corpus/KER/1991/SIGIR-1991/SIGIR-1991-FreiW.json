@@ -1,6 +1,10 @@
 {
-	"author": ["Hans-Peter Frei", "M. F. Wyle"],
+	"author": [
+		"Hans-Peter Frei",
+		"M. F. Wyle"
+	],
 	"booktitle": "Proceedings of the 14th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1991/P114.pdf",
 	"crossref": "conf/sigir/91",
 	"dblpkey": "conf/sigir/FreiW91",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/122860.122871",
 	"pages": "114-122",
 	"publisher": "ACM",
-	"stemmed": ["retriev", "algorithm", "effect", "in", "a", "wide", "area", "network", "inform", "filter"],
-	"tag": ["algorithm", "effectiveness", "network", "retrieval"],
+	"stemmed": [
+		"retriev",
+		"algorithm",
+		"effect",
+		"in",
+		"a",
+		"wide",
+		"area",
+		"network",
+		"inform",
+		"filter"
+	],
+	"tag": [
+		"algorithm",
+		"effectiveness",
+		"network",
+		"retrieval"
+	],
 	"title": "Retrieval Algorithm Effectiveness in a Wide Area Network Information Filter",
 	"type": "inproceedings",
 	"venue": "SIGIR",

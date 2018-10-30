@@ -1,13 +1,29 @@
 {
-	"author": ["Chris Gniady", "Ali Raza Butt", "Y. Charlie Hu"],
-	"booktitle": "OSDI",
+	"author": [
+		"Chris Gniady",
+		"Ali Raza Butt",
+		"Y. Charlie Hu"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2004",
 	"dblpkey": "conf/osdi/GniadyBH04",
 	"ee": "http://www.usenix.org/events/osdi04/tech/gnaidy.html",
 	"pages": "395-408",
 	"publisher": "USENIX Association",
-	"stemmed": ["program", "counter", "base", "pattern", "classif", "in", "buffer", "cach"],
-	"tag": ["classification"],
+	"stemmed": [
+		"program",
+		"counter",
+		"base",
+		"pattern",
+		"classif",
+		"in",
+		"buffer",
+		"cach"
+	],
+	"tag": [
+		"classification"
+	],
 	"title": "Program-Counter-Based Pattern Classification in Buffer Caching",
 	"type": "inproceedings",
 	"venue": "OSDI",

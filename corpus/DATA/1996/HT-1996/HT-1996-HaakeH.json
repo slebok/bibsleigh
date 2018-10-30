@@ -1,6 +1,10 @@
 {
-	"author": ["Anja Haake", "David L. Hicks"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Anja Haake",
+		"David L. Hicks"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1996/P224.pdf",
 	"crossref": "conf/ht/96",
 	"dblpkey": "conf/ht/HaakeH96",
@@ -8,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/234828.234850",
 	"pages": "224-234",
 	"publisher": "ACM",
-	"stemmed": ["ver", "se", "toward", "hypertext", "version", "style"],
-	"tag": ["hypermedia", "named", "towards", "version control"],
+	"stemmed": [
+		"ver",
+		"se",
+		"toward",
+		"hypertext",
+		"version",
+		"style"
+	],
+	"tag": [
+		"hypermedia",
+		"named",
+		"towards",
+		"version control"
+	],
 	"title": "VerSE: Towards Hypertext Versioning Styles",
 	"type": "inproceedings",
 	"venue": "HT",

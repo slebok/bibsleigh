@@ -1,14 +1,33 @@
 {
-	"author": ["Nathan Beckmann", "Po-An Tsai", "Daniel Sánchez"],
-	"booktitle": "HPCA",
+	"author": [
+		"Nathan Beckmann",
+		"Po-An Tsai",
+		"Daniel Sánchez"
+	],
+	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2015",
 	"dblpkey": "conf/hpca/BeckmannTS15",
 	"doi": "10.1109/HPCA.2015.7056061",
 	"ee": "http://dx.doi.org/10.1109/HPCA.2015.7056061",
 	"pages": "538-550",
 	"publisher": "IEEE",
-	"stemmed": ["scale", "distribut", "cach", "hierarchi", "through", "comput", "and", "data", "co", "schedul"],
-	"tag": ["distributed", "scalability"],
+	"stemmed": [
+		"scale",
+		"distribut",
+		"cach",
+		"hierarchi",
+		"through",
+		"comput",
+		"and",
+		"data",
+		"co",
+		"schedul"
+	],
+	"tag": [
+		"distributed",
+		"scalability"
+	],
 	"title": "Scaling distributed cache hierarchies through computation and data co-scheduling",
 	"type": "inproceedings",
 	"venue": "HPCA",

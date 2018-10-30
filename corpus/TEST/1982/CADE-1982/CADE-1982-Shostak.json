@@ -1,6 +1,7 @@
 {
 	"author": "Robert E. Shostak",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Sixth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1982",
 	"dblpkey": "conf/cade/Shostak82",
 	"doi": "10.1007/BFb0000061",
@@ -10,10 +11,15 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["decid", "combin", "of", "theori"],
+	"stemmed": [
+		"decid",
+		"combin",
+		"of",
+		"theori"
+	],
 	"title": "Deciding Combinations of Theories",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 138,
+	"volume": "138",
 	"year": 1982
 }

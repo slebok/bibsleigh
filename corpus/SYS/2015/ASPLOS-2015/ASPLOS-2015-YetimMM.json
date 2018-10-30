@@ -1,14 +1,36 @@
 {
-	"author": ["Yavuz Yetim", "Sharad Malik", "Margaret Martonosi"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Yavuz Yetim",
+		"Sharad Malik",
+		"Margaret Martonosi"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2015",
 	"dblpkey": "conf/asplos/YetimMM15",
 	"doi": "10.1145/2694344.2694354",
 	"ee": "http://doi.acm.org/10.1145/2694344.2694354",
 	"pages": "311-323",
 	"publisher": "ACM",
-	"stemmed": ["comm", "guard", "mitig", "communic", "error", "in", "error", "prone", "parallel", "execut"],
-	"tag": ["communication", "execution", "fault", "named", "parallel"],
+	"stemmed": [
+		"comm",
+		"guard",
+		"mitig",
+		"communic",
+		"error",
+		"in",
+		"error",
+		"prone",
+		"parallel",
+		"execut"
+	],
+	"tag": [
+		"communication",
+		"execution",
+		"fault",
+		"named",
+		"parallel"
+	],
 	"title": "CommGuard: Mitigating Communication Errors in Error-Prone Parallel Execution",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

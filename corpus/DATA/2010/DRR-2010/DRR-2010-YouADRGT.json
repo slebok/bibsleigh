@@ -1,6 +1,14 @@
 {
-	"author": ["Daekeun You", "Sameer Antani", "Dina Demner-Fushman", "Md. Mahmudur Rahman", "Venu Govindaraju", "George R. Thoma"],
-	"booktitle": "DRR",
+	"author": [
+		"Daekeun You",
+		"Sameer Antani",
+		"Dina Demner-Fushman",
+		"Md. Mahmudur Rahman",
+		"Venu Govindaraju",
+		"George R. Thoma"
+	],
+	"booktitle": "Proceedings of the 17th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2010",
 	"dblpkey": "conf/drr/YouADRGT10",
 	"doi": "10.1117/12.838973",
@@ -8,11 +16,30 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["biomed", "articl", "retriev", "use", "multimod", "featur", "and", "imag", "annot", "in", "region", "base", "cbir"],
-	"tag": ["image", "multimodal", "retrieval", "using"],
+	"stemmed": [
+		"biomed",
+		"articl",
+		"retriev",
+		"use",
+		"multimod",
+		"featur",
+		"and",
+		"imag",
+		"annot",
+		"in",
+		"region",
+		"base",
+		"cbir"
+	],
+	"tag": [
+		"image",
+		"multimodal",
+		"retrieval",
+		"using"
+	],
 	"title": "Biomedical article retrieval using multimodal features and image annotations in region-based CBIR",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7534,
+	"volume": "7534",
 	"year": 2010
 }

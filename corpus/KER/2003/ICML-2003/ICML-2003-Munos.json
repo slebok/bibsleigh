@@ -1,13 +1,26 @@
 {
 	"author": "Rémi Munos",
 	"booktitle": "Proceedings of the 20th International Conference on Machine Learning",
+	"booktitleshort": "ICML",
 	"crossref": "conf/icml/2003",
 	"dblpkey": "conf/icml/Munos03",
 	"ee": "http://www.aaai.org/Library/ICML/2003/icml03-074.php",
 	"pages": "560-567",
 	"publisher": "AAAI Press",
-	"stemmed": ["error", "bound", "for", "approxim", "polici", "iter"],
-	"tag": ["approximate", "bound", "fault", "policy"],
+	"stemmed": [
+		"error",
+		"bound",
+		"for",
+		"approxim",
+		"polici",
+		"iter"
+	],
+	"tag": [
+		"approximate",
+		"bound",
+		"fault",
+		"policy"
+	],
 	"title": "Error Bounds for Approximate Policy Iteration",
 	"type": "inproceedings",
 	"venue": "ICML",

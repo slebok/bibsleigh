@@ -1,15 +1,42 @@
 {
-	"author": ["Peter Jamieson", "Angelos Bilas"],
-	"booktitle": "HPCA",
+	"author": [
+		"Peter Jamieson",
+		"Angelos Bilas"
+	],
+	"booktitle": "Proceedings of the Eighth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2002",
 	"dblpkey": "conf/hpca/JamiesonB02",
 	"doi": "10.1109/HPCA.2002.995716",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2002.995716", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2002.995716"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2002.995716",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2002.995716"
+	],
 	"pages": "263-274",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["cabl", "s", "thread", "control", "and", "memori", "manag", "extens", "for", "share", "virtual", "memori", "cluster"],
-	"tag": ["clustering", "concurrent", "memory management", "named", "thread"],
+	"stemmed": [
+		"cabl",
+		"s",
+		"thread",
+		"control",
+		"and",
+		"memori",
+		"manag",
+		"extens",
+		"for",
+		"share",
+		"virtual",
+		"memori",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"concurrent",
+		"memory management",
+		"named",
+		"thread"
+	],
 	"title": "CableS: Thread Control and Memory Management Extensions for Shared Virtual Memory Clusters",
 	"type": "inproceedings",
 	"venue": "HPCA",

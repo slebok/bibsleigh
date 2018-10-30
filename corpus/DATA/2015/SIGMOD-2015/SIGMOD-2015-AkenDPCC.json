@@ -1,6 +1,12 @@
 {
-	"author": ["Dana Van Aken", "Djellel Eddine Difallah", "Andrew Pavlo", "Carlo Curino", "Philippe Cudré-Mauroux"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Dana Van Aken",
+		"Djellel Eddine Difallah",
+		"Andrew Pavlo",
+		"Carlo Curino",
+		"Philippe Cudré-Mauroux"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/AkenDPCC15",
@@ -8,8 +14,21 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2735354",
 	"pages": "1069-1073",
 	"publisher": "ACM",
-	"stemmed": ["bench", "press", "dynam", "workload", "control", "in", "the", "oltp", "bench", "testb"],
-	"tag": ["named"],
+	"stemmed": [
+		"bench",
+		"press",
+		"dynam",
+		"workload",
+		"control",
+		"in",
+		"the",
+		"oltp",
+		"bench",
+		"testb"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "BenchPress: Dynamic Workload Control in the OLTP-Bench Testbed",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,32 @@
 {
-	"author": ["Quan Phan", "Zoltan Somogyi", "Gerda Janssens"],
-	"booktitle": "ISMM",
+	"author": [
+		"Quan Phan",
+		"Zoltan Somogyi",
+		"Gerda Janssens"
+	],
+	"booktitle": "Proceedings of the Seventh International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2008",
 	"dblpkey": "conf/iwmm/PhanSJ08",
 	"doi": "10.1145/1375634.1375644",
 	"ee": "http://doi.acm.org/10.1145/1375634.1375644",
 	"pages": "61-70",
 	"publisher": "ACM",
-	"stemmed": ["runtim", "support", "for", "region", "base", "memori", "manag", "in", "mercuri"],
-	"tag": ["memory management", "runtime"],
+	"stemmed": [
+		"runtim",
+		"support",
+		"for",
+		"region",
+		"base",
+		"memori",
+		"manag",
+		"in",
+		"mercuri"
+	],
+	"tag": [
+		"memory management",
+		"runtime"
+	],
 	"title": "Runtime support for region-based memory management in Mercury",
 	"type": "inproceedings",
 	"venue": "ISMM",

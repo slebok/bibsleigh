@@ -1,6 +1,9 @@
 {
-	"author": ["Anshuman Dutt", "Jayant R. Haritsa"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Anshuman Dutt",
+		"Jayant R. Haritsa"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/DuttH14",
@@ -8,8 +11,19 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2588566",
 	"pages": "1039-1050",
 	"publisher": "ACM",
-	"stemmed": ["plan", "bouquet", "queri", "process", "without", "select", "estim"],
-	"tag": ["estimation", "query"],
+	"stemmed": [
+		"plan",
+		"bouquet",
+		"queri",
+		"process",
+		"without",
+		"select",
+		"estim"
+	],
+	"tag": [
+		"estimation",
+		"query"
+	],
 	"title": "Plan bouquets: query processing without selectivity estimation",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

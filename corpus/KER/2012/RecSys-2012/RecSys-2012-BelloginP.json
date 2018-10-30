@@ -1,14 +1,36 @@
 {
-	"author": ["Alejandro Bellogín", "Javier Parapar"],
-	"booktitle": "RecSys",
+	"author": [
+		"Alejandro Bellogín",
+		"Javier Parapar"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2012",
 	"dblpkey": "conf/recsys/BelloginP12",
 	"doi": "10.1145/2365952.2365997",
 	"ee": "http://doi.acm.org/10.1145/2365952.2365997",
 	"pages": "213-216",
 	"publisher": "ACM",
-	"stemmed": ["use", "graph", "partit", "techniqu", "for", "neighbour", "select", "in", "user", "base", "collabor", "filter"],
-	"tag": ["clustering", "collaboration", "graph", "using"],
+	"stemmed": [
+		"use",
+		"graph",
+		"partit",
+		"techniqu",
+		"for",
+		"neighbour",
+		"select",
+		"in",
+		"user",
+		"base",
+		"collabor",
+		"filter"
+	],
+	"tag": [
+		"clustering",
+		"collaboration",
+		"graph",
+		"using"
+	],
 	"title": "Using graph partitioning techniques for neighbour selection in user-based collaborative filtering",
 	"type": "inproceedings",
 	"venue": "RecSys",

@@ -1,6 +1,10 @@
 {
-	"author": ["Stan Matwin", "Tomasz Pietrzykowski"],
-	"booktitle": "CADE",
+	"author": [
+		"Stan Matwin",
+		"Tomasz Pietrzykowski"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1982",
 	"dblpkey": "conf/cade/MatwinP82",
 	"doi": "10.1007/BFb0000063",
@@ -10,11 +14,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["exponenti", "improv", "of", "effici", "backtrack", "data", "structur", "and", "implement"],
-	"tag": ["backtracking", "data type", "exponential", "implementation", "performance"],
+	"stemmed": [
+		"exponenti",
+		"improv",
+		"of",
+		"effici",
+		"backtrack",
+		"data",
+		"structur",
+		"and",
+		"implement"
+	],
+	"tag": [
+		"backtracking",
+		"data type",
+		"exponential",
+		"implementation",
+		"performance"
+	],
 	"title": "Exponential Improvement of Efficient Backtracking: data Structure and Implementation",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 138,
+	"volume": "138",
 	"year": 1982
 }

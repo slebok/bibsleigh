@@ -1,15 +1,33 @@
 {
-	"author": ["Guy M. Lohman", "John A. Muckstadt"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Guy M. Lohman",
+		"John A. Muckstadt"
+	],
+	"booktitle": "Proceedings of the Seventh ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD77/P157.PDF",
 	"crossref": "conf/sigmod/77",
 	"dblpkey": "conf/sigmod/LohmanM77",
 	"doi": "10.1145/509404.509429",
 	"ee": "http://doi.acm.org/10.1145/509404.509429",
-	"pages": 157,
+	"pages": "157",
 	"publisher": "ACM",
-	"stemmed": ["optim", "polici", "for", "batch", "oper", "backup", "checkpoint", "reorgan", "and", "updat", "abstract"],
-	"tag": ["policy"],
+	"stemmed": [
+		"optim",
+		"polici",
+		"for",
+		"batch",
+		"oper",
+		"backup",
+		"checkpoint",
+		"reorgan",
+		"and",
+		"updat",
+		"abstract"
+	],
+	"tag": [
+		"policy"
+	],
 	"title": "Optimal Policy for Batch Operations: Backup, Checkpointing, Reorganization, and Updating (Abstract)",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

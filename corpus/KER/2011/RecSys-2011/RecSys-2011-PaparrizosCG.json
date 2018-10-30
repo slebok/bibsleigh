@@ -1,14 +1,26 @@
 {
-	"author": ["Ioannis K. Paparrizos", "Berkant Barla Cambazoglu", "Aristides Gionis"],
-	"booktitle": "RecSys",
+	"author": [
+		"Ioannis K. Paparrizos",
+		"Berkant Barla Cambazoglu",
+		"Aristides Gionis"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2011",
 	"dblpkey": "conf/recsys/PaparrizosCG11",
 	"doi": "10.1145/2043932.2043994",
 	"ee": "http://doi.acm.org/10.1145/2043932.2043994",
 	"pages": "325-328",
 	"publisher": "ACM",
-	"stemmed": ["machin", "learn", "job", "recommend"],
-	"tag": ["recommendation"],
+	"stemmed": [
+		"machin",
+		"learn",
+		"job",
+		"recommend"
+	],
+	"tag": [
+		"recommendation"
+	],
 	"title": "Machine learned job recommendation",
 	"type": "inproceedings",
 	"venue": "RecSys",

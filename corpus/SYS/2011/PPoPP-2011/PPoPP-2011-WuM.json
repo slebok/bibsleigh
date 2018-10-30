@@ -1,14 +1,32 @@
 {
-	"author": ["Xing Wu", "Frank Müller"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Xing Wu",
+		"Frank Müller"
+	],
+	"booktitle": "Proceedings of the 16th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2011",
 	"dblpkey": "conf/ppopp/WuM11",
 	"doi": "10.1145/1941553.1941569",
 	"ee": "http://doi.acm.org/10.1145/1941553.1941569",
 	"pages": "113-122",
 	"publisher": "ACM",
-	"stemmed": ["scala", "extrap", "trace", "base", "communic", "extrapol", "for", "spmd", "program"],
-	"tag": ["communication", "named", "source code"],
+	"stemmed": [
+		"scala",
+		"extrap",
+		"trace",
+		"base",
+		"communic",
+		"extrapol",
+		"for",
+		"spmd",
+		"program"
+	],
+	"tag": [
+		"communication",
+		"named",
+		"source code"
+	],
 	"title": "ScalaExtrap: trace-based communication extrapolation for spmd programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

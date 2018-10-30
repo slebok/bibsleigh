@@ -1,14 +1,34 @@
 {
-	"author": ["Parantapa Bhattacharya", "Muhammad Bilal Zafar", "Niloy Ganguly", "Saptarshi Ghosh", "Krishna P. Gummadi"],
-	"booktitle": "RecSys",
+	"author": [
+		"Parantapa Bhattacharya",
+		"Muhammad Bilal Zafar",
+		"Niloy Ganguly",
+		"Saptarshi Ghosh",
+		"Krishna P. Gummadi"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2014",
 	"dblpkey": "conf/recsys/BhattacharyaZGGG14",
 	"doi": "10.1145/2645710.2645765",
 	"ee": "http://doi.acm.org/10.1145/2645710.2645765",
 	"pages": "357-360",
 	"publisher": "ACM",
-	"stemmed": ["infer", "user", "interest", "in", "the", "twitter", "social", "network"],
-	"tag": ["network", "social", "twitter"],
+	"stemmed": [
+		"infer",
+		"user",
+		"interest",
+		"in",
+		"the",
+		"twitter",
+		"social",
+		"network"
+	],
+	"tag": [
+		"network",
+		"social",
+		"twitter"
+	],
 	"title": "Inferring user interests in the Twitter social network",
 	"type": "inproceedings",
 	"venue": "RecSys",

@@ -1,6 +1,10 @@
 {
-	"author": ["Yannis Papakonstantinou", "Michalis Petropoulos", "Vasilis Vassalos"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yannis Papakonstantinou",
+		"Michalis Petropoulos",
+		"Vasilis Vassalos"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/PapakonstantinouPV02",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564714",
 	"pages": "192-203",
 	"publisher": "ACM",
-	"stemmed": ["qurs", "queri", "and", "report", "semistructur", "data"],
-	"tag": ["named", "query", "semistructured data"],
+	"stemmed": [
+		"qurs",
+		"queri",
+		"and",
+		"report",
+		"semistructur",
+		"data"
+	],
+	"tag": [
+		"named",
+		"query",
+		"semistructured data"
+	],
 	"title": "QURSED: querying and reporting semistructured data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

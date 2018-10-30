@@ -1,14 +1,28 @@
 {
-	"author": ["Yu Chen", "Puneet Gupta", "Andrew B. Kahng"],
-	"booktitle": "DAC",
+	"author": [
+		"Yu Chen",
+		"Puneet Gupta",
+		"Andrew B. Kahng"
+	],
+	"booktitle": "Proceedings of the 40th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2003",
 	"dblpkey": "conf/dac/ChenGK03",
 	"doi": "10.1145/775832.775841",
 	"ee": "http://doi.acm.org/10.1145/775832.775841",
 	"pages": "22-27",
 	"publisher": "ACM",
-	"stemmed": ["perform", "impact", "limit", "area", "fill", "synthesi"],
-	"tag": ["synthesis"],
+	"stemmed": [
+		"perform",
+		"impact",
+		"limit",
+		"area",
+		"fill",
+		"synthesi"
+	],
+	"tag": [
+		"synthesis"
+	],
 	"title": "Performance-impact limited area fill synthesis",
 	"type": "inproceedings",
 	"venue": "DAC",

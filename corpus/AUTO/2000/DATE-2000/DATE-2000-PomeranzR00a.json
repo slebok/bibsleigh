@@ -1,6 +1,10 @@
 {
-	"author": ["Irith Pomeranz", "Sudhakar M. Reddy"],
-	"booktitle": "DATE",
+	"author": [
+		"Irith Pomeranz",
+		"Sudhakar M. Reddy"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/PomeranzR00a",
 	"doi": "10.1109/DATE.2000.840302",
@@ -8,8 +12,20 @@
 	"pages": "396-401",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["function", "test", "generat", "for", "full", "scan", "circuit"],
-	"tag": ["functional", "generative", "testing"],
+	"stemmed": [
+		"function",
+		"test",
+		"generat",
+		"for",
+		"full",
+		"scan",
+		"circuit"
+	],
+	"tag": [
+		"functional",
+		"generative",
+		"testing"
+	],
 	"title": "Functional Test Generation for Full Scan Circuits",
 	"type": "inproceedings",
 	"venue": "DATE",

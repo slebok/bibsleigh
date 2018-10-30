@@ -1,6 +1,12 @@
 {
-	"author": ["Stefan Fiel", "Fabian Hollaus", "Melanie Gau", "Robert Sablatnig"],
-	"booktitle": "DRR",
+	"author": [
+		"Stefan Fiel",
+		"Fabian Hollaus",
+		"Melanie Gau",
+		"Robert Sablatnig"
+	],
+	"booktitle": "Proceedings of the 21st Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2014",
 	"dblpkey": "conf/drr/FielHGS14",
 	"doi": "10.1117/12.2042338",
@@ -8,11 +14,21 @@
 	"pages": "902102-902102-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["writer", "identif", "on", "histor", "glagolit", "document"],
-	"tag": ["documentation", "identification"],
+	"stemmed": [
+		"writer",
+		"identif",
+		"on",
+		"histor",
+		"glagolit",
+		"document"
+	],
+	"tag": [
+		"documentation",
+		"identification"
+	],
 	"title": "Writer identification on historical Glagolitic documents",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 9021,
+	"volume": "9021",
 	"year": 2014
 }

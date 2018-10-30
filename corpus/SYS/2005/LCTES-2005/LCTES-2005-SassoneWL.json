@@ -1,14 +1,35 @@
 {
-	"author": ["Peter G. Sassone", "D. Scott Wills", "Gabriel H. Loh"],
-	"booktitle": "LCTES",
+	"author": [
+		"Peter G. Sassone",
+		"D. Scott Wills",
+		"Gabriel H. Loh"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2005",
 	"dblpkey": "conf/lctrts/SassoneWL05",
 	"doi": "10.1145/1070891.1065929",
 	"ee": "http://doi.acm.org/10.1145/1070891.1065929",
 	"pages": "127-136",
 	"publisher": "ACM",
-	"stemmed": ["static", "strand", "safe", "collaps", "depend", "chain", "for", "increas", "embed", "power", "effici"],
-	"tag": ["dependence", "embedded", "performance"],
+	"stemmed": [
+		"static",
+		"strand",
+		"safe",
+		"collaps",
+		"depend",
+		"chain",
+		"for",
+		"increas",
+		"embed",
+		"power",
+		"effici"
+	],
+	"tag": [
+		"dependence",
+		"embedded",
+		"performance"
+	],
 	"title": "Static strands: safely collapsing dependence chains for increasing embedded power efficiency",
 	"type": "inproceedings",
 	"venue": "LCTES",

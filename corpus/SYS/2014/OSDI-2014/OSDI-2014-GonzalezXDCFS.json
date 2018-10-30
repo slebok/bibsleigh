@@ -1,13 +1,37 @@
 {
-	"author": ["Joseph E. Gonzalez", "Reynold S. Xin", "Ankur Dave", "Daniel Crankshaw", "Michael J. Franklin", "Ion Stoica"],
-	"booktitle": "OSDI",
+	"author": [
+		"Joseph E. Gonzalez",
+		"Reynold S. Xin",
+		"Ankur Dave",
+		"Daniel Crankshaw",
+		"Michael J. Franklin",
+		"Ion Stoica"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2014",
 	"dblpkey": "conf/osdi/GonzalezXDCFS14",
 	"ee": "https://www.usenix.org/conference/osdi14/technical-sessions/presentation/gonzalez",
 	"pages": "599-613",
 	"publisher": "USENIX Association",
-	"stemmed": ["graph", "x", "graph", "process", "in", "a", "distribut", "dataflow", "framework"],
-	"tag": ["data flow", "distributed", "framework", "graph", "named"],
+	"stemmed": [
+		"graph",
+		"x",
+		"graph",
+		"process",
+		"in",
+		"a",
+		"distribut",
+		"dataflow",
+		"framework"
+	],
+	"tag": [
+		"data flow",
+		"distributed",
+		"framework",
+		"graph",
+		"named"
+	],
 	"title": "GraphX: Graph Processing in a Distributed Dataflow Framework",
 	"type": "inproceedings",
 	"venue": "OSDI",

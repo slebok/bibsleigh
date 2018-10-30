@@ -1,16 +1,44 @@
 {
-	"author": ["Umeshwar Dayal", "Nathan Goodman", "Randy H. Katz"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS82/P117.PDF", "journals/anthology/dvd1:text/1-3/PODS82/P117.PDF"],
-	"cite": ["journals/siamcomp/AhoSU79", "journals/tods/AhoSU79", "...", "journals/tods/Chen76", "...", "journals/tods/Shipman81"],
+	"author": [
+		"Umeshwar Dayal",
+		"Nathan Goodman",
+		"Randy H. Katz"
+	],
+	"booktitle": "Proceedings of the First Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS82/P117.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS82/P117.PDF"
+	],
+	"cite": [
+		"journals/siamcomp/AhoSU79",
+		"journals/tods/AhoSU79",
+		"...",
+		"journals/tods/Chen76",
+		"...",
+		"journals/tods/Shipman81"
+	],
 	"crossref": "conf/pods/82",
 	"dblpkey": "conf/pods/DayalGK82",
 	"doi": "10.1145/588111.588132",
 	"ee": "http://doi.acm.org/10.1145/588111.588132",
 	"pages": "117-123",
 	"publisher": "ACM",
-	"stemmed": ["an", "extend", "relat", "algebra", "with", "control", "over", "duplic", "elimin"],
-	"tag": ["algebra", "relational"],
+	"stemmed": [
+		"an",
+		"extend",
+		"relat",
+		"algebra",
+		"with",
+		"control",
+		"over",
+		"duplic",
+		"elimin"
+	],
+	"tag": [
+		"algebra",
+		"relational"
+	],
 	"title": "An Extended Relational Algebra with Control over Duplicate Elimination",
 	"type": "inproceedings",
 	"venue": "PODS",

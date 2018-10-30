@@ -1,14 +1,40 @@
 {
-	"author": ["Meichun Hsu", "Wei-Pang Yang"],
-	"booktitle": "VLDB",
-	"cite": ["journals/acta/BayerS77", "journals/tods/FaginNPS79", "conf/hpts/HsuC85", "conf/pods/HsuM83", "conf/sigmod/KungP79", "journals/tods/KungR81", "journals/jacm/KedemS83", "journals/tods/LehmanY81", "conf/vldb/MondR85", "conf/hpts/ONeil85", "journals/jacm/Papadimitriou79b", "journals/jacm/SilberschatzK80", "conf/vldb/YangD84"],
+	"author": [
+		"Meichun Hsu",
+		"Wei-Pang Yang"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/acta/BayerS77",
+		"journals/tods/FaginNPS79",
+		"conf/hpts/HsuC85",
+		"conf/pods/HsuM83",
+		"conf/sigmod/KungP79",
+		"journals/tods/KungR81",
+		"journals/jacm/KedemS83",
+		"journals/tods/LehmanY81",
+		"conf/vldb/MondR85",
+		"conf/hpts/ONeil85",
+		"journals/jacm/Papadimitriou79b",
+		"journals/jacm/SilberschatzK80",
+		"conf/vldb/YangD84"
+	],
 	"crossref": "conf/vldb/86",
 	"dblpkey": "conf/vldb/HsuY86",
 	"ee": "http://www.vldb.org/conf/1986/P241.PDF",
 	"pages": "241-247",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["concurr", "oper", "in", "extend", "hash"],
-	"tag": ["concurrent"],
+	"stemmed": [
+		"concurr",
+		"oper",
+		"in",
+		"extend",
+		"hash"
+	],
+	"tag": [
+		"concurrent"
+	],
 	"title": "Concurrent Operations in Extendible Hashing",
 	"type": "inproceedings",
 	"venue": "VLDB",

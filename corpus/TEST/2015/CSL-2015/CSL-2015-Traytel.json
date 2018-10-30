@@ -1,6 +1,7 @@
 {
 	"author": "Dmitriy Traytel",
-	"booktitle": "CSL",
+	"booktitle": "24th EACSL Annual Conference on Computer Science Logic, CSL 2015, September 7-10, 2015, Berlin, Germany",
+	"booktitleshort": "CSL",
 	"crossref": "conf/csl/2015",
 	"dblpkey": "conf/csl/Traytel15",
 	"doi": "10.4230/LIPIcs.CSL.2015.487",
@@ -10,11 +11,21 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["a", "coalgebra", "decis", "procedur", "for", "ws", "s"],
-	"tag": ["algebra"],
+	"stemmed": [
+		"a",
+		"coalgebra",
+		"decis",
+		"procedur",
+		"for",
+		"ws",
+		"s"
+	],
+	"tag": [
+		"algebra"
+	],
 	"title": "A Coalgebraic Decision Procedure for WS1S",
 	"type": "inproceedings",
 	"venue": "CSL",
-	"volume": 41,
+	"volume": "41",
 	"year": 2015
 }

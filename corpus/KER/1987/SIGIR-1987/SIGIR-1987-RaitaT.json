@@ -1,6 +1,10 @@
 {
-	"author": ["Timo Raita", "Jukka Teuhola"],
+	"author": [
+		"Timo Raita",
+		"Jukka Teuhola"
+	],
 	"booktitle": "Proceedings of the 10th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1987/P223.pdf",
 	"crossref": "conf/sigir/87",
 	"dblpkey": "conf/sigir/RaitaT87",
@@ -8,8 +12,16 @@
 	"ee": "http://doi.acm.org/10.1145/42005.42031",
 	"pages": "223-233",
 	"publisher": "ACM",
-	"stemmed": ["predict", "text", "compress", "by", "hash"],
-	"tag": ["predict"],
+	"stemmed": [
+		"predict",
+		"text",
+		"compress",
+		"by",
+		"hash"
+	],
+	"tag": [
+		"predict"
+	],
 	"title": "Predictive Text Compression by Hashing",
 	"type": "inproceedings",
 	"venue": "SIGIR",

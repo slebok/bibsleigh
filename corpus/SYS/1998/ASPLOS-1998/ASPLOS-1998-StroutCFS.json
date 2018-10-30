@@ -1,14 +1,29 @@
 {
-	"author": ["Michelle Mills Strout", "Larry Carter", "Jeanne Ferrante", "Beth Simon"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Michelle Mills Strout",
+		"Larry Carter",
+		"Jeanne Ferrante",
+		"Beth Simon"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1998",
 	"dblpkey": "conf/asplos/StroutCFS98",
 	"doi": "10.1145/291069.291015",
 	"ee": "http://doi.acm.org/10.1145/291069.291015",
 	"pages": "24-33",
 	"publisher": "ACM Press",
-	"stemmed": ["schedul", "independ", "storag", "map", "for", "loop"],
-	"tag": ["independence"],
+	"stemmed": [
+		"schedul",
+		"independ",
+		"storag",
+		"map",
+		"for",
+		"loop"
+	],
+	"tag": [
+		"independence"
+	],
 	"title": "Schedule-Independent Storage Mapping for Loops",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

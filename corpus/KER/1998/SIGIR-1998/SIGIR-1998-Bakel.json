@@ -1,6 +1,7 @@
 {
 	"author": "Bas van Bakel",
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P333.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/Bakel98",
@@ -8,8 +9,24 @@
 	"ee": "http://doi.acm.org/10.1145/290941.291024",
 	"pages": "333-334",
 	"publisher": "ACM",
-	"stemmed": ["modern", "classic", "document", "index", "a", "linguist", "contribut", "to", "knowledg", "base", "ir"],
-	"tag": ["documentation", "information retrieval", "knowledge-based"],
+	"stemmed": [
+		"modern",
+		"classic",
+		"document",
+		"index",
+		"a",
+		"linguist",
+		"contribut",
+		"to",
+		"knowledg",
+		"base",
+		"ir"
+	],
+	"tag": [
+		"documentation",
+		"information retrieval",
+		"knowledge-based"
+	],
 	"title": "Modern Classical Document Indexing: A Linguistic Contribution to Knowledge-Based IR",
 	"type": "inproceedings",
 	"venue": "SIGIR",

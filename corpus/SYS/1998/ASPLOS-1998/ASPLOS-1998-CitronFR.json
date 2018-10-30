@@ -1,14 +1,35 @@
 {
-	"author": ["Daniel Citron", "Dror G. Feitelson", "Larry Rudolph"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Daniel Citron",
+		"Dror G. Feitelson",
+		"Larry Rudolph"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1998",
 	"dblpkey": "conf/asplos/CitronFR98",
 	"doi": "10.1145/291069.291056",
 	"ee": "http://doi.acm.org/10.1145/291069.291056",
 	"pages": "252-261",
 	"publisher": "ACM Press",
-	"stemmed": ["acceler", "multi", "media", "process", "by", "implement", "memo", "in", "multipl", "and", "divis", "unit"],
-	"tag": ["implementation", "multi"],
+	"stemmed": [
+		"acceler",
+		"multi",
+		"media",
+		"process",
+		"by",
+		"implement",
+		"memo",
+		"in",
+		"multipl",
+		"and",
+		"divis",
+		"unit"
+	],
+	"tag": [
+		"implementation",
+		"multi"
+	],
 	"title": "Accelerating Multi-Media Processing by Implementing Memoing in Multiplication and Division Units",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

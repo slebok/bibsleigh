@@ -1,14 +1,31 @@
 {
-	"author": ["Sean Rul", "Hans Vandierendonck", "Koen De Bosschere"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Sean Rul",
+		"Hans Vandierendonck",
+		"Koen De Bosschere"
+	],
+	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/RulVB08",
 	"doi": "10.1145/1345206.1345256",
 	"ee": "http://doi.acm.org/10.1145/1345206.1345256",
 	"pages": "281-282",
 	"publisher": "ACM",
-	"stemmed": ["extract", "coars", "grain", "parallel", "in", "general", "purpos", "program"],
-	"tag": ["parallel", "source code"],
+	"stemmed": [
+		"extract",
+		"coars",
+		"grain",
+		"parallel",
+		"in",
+		"general",
+		"purpos",
+		"program"
+	],
+	"tag": [
+		"parallel",
+		"source code"
+	],
 	"title": "Extracting coarse-grain parallelism in general-purpose programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

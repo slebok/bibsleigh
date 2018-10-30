@@ -1,14 +1,29 @@
 {
-	"author": ["John Dielissen", "Andries Hekstra"],
-	"booktitle": "DATE",
+	"author": [
+		"John Dielissen",
+		"Andries Hekstra"
+	],
+	"booktitle": "Proceedings of the 11th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2007",
 	"dblpkey": "conf/date/DielissenH07",
 	"doi": "10.1145/1266366.1266438",
 	"ee": "http://doi.acm.org/10.1145/1266366.1266438",
 	"pages": "337-342",
 	"publisher": "ACM",
-	"stemmed": ["non", "fraction", "parallel", "in", "ldpc", "decod", "implement"],
-	"tag": ["implementation", "parallel"],
+	"stemmed": [
+		"non",
+		"fraction",
+		"parallel",
+		"in",
+		"ldpc",
+		"decod",
+		"implement"
+	],
+	"tag": [
+		"implementation",
+		"parallel"
+	],
 	"title": "Non-fractional parallelism in LDPC decoder implementations",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,13 +1,25 @@
 {
-	"author": ["Michael A. Bender", "Martin Farach-Colton", "Sándor P. Fekete", "Jeremy T. Fineman", "Seth Gilbert"],
-	"booktitle": "PODS",
+	"author": [
+		"Michael A. Bender",
+		"Martin Farach-Colton",
+		"Sándor P. Fekete",
+		"Jeremy T. Fineman",
+		"Seth Gilbert"
+	],
+	"booktitle": "Proceedings of the 33rd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2014",
 	"dblpkey": "conf/pods/BenderFFFG14",
 	"doi": "10.1145/2594538.2594548",
 	"ee": "http://doi.acm.org/10.1145/2594538.2594548",
 	"pages": "278-288",
 	"publisher": "ACM",
-	"stemmed": ["cost", "oblivi", "storag", "realloc"],
+	"stemmed": [
+		"cost",
+		"oblivi",
+		"storag",
+		"realloc"
+	],
 	"title": "Cost-oblivious storage reallocation",
 	"type": "inproceedings",
 	"venue": "PODS",

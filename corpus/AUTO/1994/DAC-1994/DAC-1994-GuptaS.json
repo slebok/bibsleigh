@@ -1,13 +1,33 @@
 {
-	"author": ["Anurag P. Gupta", "Daniel P. Siewiorek"],
-	"booktitle": "DAC",
+	"author": [
+		"Anurag P. Gupta",
+		"Daniel P. Siewiorek"
+	],
+	"booktitle": "Proceedings of the 31st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/GuptaS94",
 	"doi": "10.1145/196244.196299",
 	"ee": "http://doi.acm.org/10.1145/196244.196299",
 	"pages": "113-119",
 	"publisher": "ACM Press",
-	"stemmed": ["autom", "multi", "cycl", "symbol", "time", "verif", "of", "microprocessor", "base", "design"],
-	"tag": ["automation", "design", "multi", "verification"],
+	"stemmed": [
+		"autom",
+		"multi",
+		"cycl",
+		"symbol",
+		"time",
+		"verif",
+		"of",
+		"microprocessor",
+		"base",
+		"design"
+	],
+	"tag": [
+		"automation",
+		"design",
+		"multi",
+		"verification"
+	],
 	"title": "Automated Multi-Cycle Symbolic Timing Verification of Microprocessor-Based Designs",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,13 +1,31 @@
 {
-	"author": ["Eric Li", "Li Liu"],
-	"booktitle": "VLDB",
+	"author": [
+		"Eric Li",
+		"Li Liu"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/LiL07",
 	"ee": "http://www.vldb.org/conf/2007/papers/industrial/p1275-liu.pdf",
 	"pages": "1275-1285",
 	"publisher": "ACM",
-	"stemmed": ["optim", "of", "frequent", "itemset", "mine", "on", "multipl", "core", "processor"],
-	"tag": ["mining", "multi", "optimisation"],
+	"stemmed": [
+		"optim",
+		"of",
+		"frequent",
+		"itemset",
+		"mine",
+		"on",
+		"multipl",
+		"core",
+		"processor"
+	],
+	"tag": [
+		"mining",
+		"multi",
+		"optimisation"
+	],
 	"title": "Optimization of Frequent Itemset Mining on Multiple-Core Processor",
 	"type": "inproceedings",
 	"venue": "VLDB",

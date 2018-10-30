@@ -1,6 +1,10 @@
 {
-	"author": ["Yevgeny Kazakov", "Hans de Nivelle"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Yevgeny Kazakov",
+		"Hans de Nivelle"
+	],
+	"booktitle": "Proceedings of the Second International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2004",
 	"dblpkey": "conf/cade/KazakovN04",
 	"doi": "10.1007/978-3-540-25984-8_7",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "resolut", "decis", "procedur", "for", "the", "guard", "fragment", "with", "transit", "guard"],
-	"tag": ["transitive"],
+	"stemmed": [
+		"a",
+		"resolut",
+		"decis",
+		"procedur",
+		"for",
+		"the",
+		"guard",
+		"fragment",
+		"with",
+		"transit",
+		"guard"
+	],
+	"tag": [
+		"transitive"
+	],
 	"title": "A Resolution Decision Procedure for the Guarded Fragment with Transitive Guards",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 3097,
+	"volume": "3097",
 	"year": 2004
 }

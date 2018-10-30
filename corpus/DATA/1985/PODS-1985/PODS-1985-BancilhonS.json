@@ -1,16 +1,44 @@
 {
-	"author": ["François Bancilhon", "Nicolas Spyratos"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS85/P149.PDF", "journals/anthology/dvd1:text/1-3/PODS85/P149.PDF"],
-	"cite": ["...", "...", "conf/vldb/BancilhonS81", "conf/sigmod/BiskupDB79", "conf/sigmod/BiskupDB79", "conf/sigmod/BiskupDB79", "journals/ipl/Spyratos82"],
+	"author": [
+		"François Bancilhon",
+		"Nicolas Spyratos"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS85/P149.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS85/P149.PDF"
+	],
+	"cite": [
+		"...",
+		"...",
+		"conf/vldb/BancilhonS81",
+		"conf/sigmod/BiskupDB79",
+		"conf/sigmod/BiskupDB79",
+		"conf/sigmod/BiskupDB79",
+		"journals/ipl/Spyratos82"
+	],
 	"crossref": "conf/pods/85",
 	"dblpkey": "conf/pods/BancilhonS85",
 	"doi": "10.1145/325405.325424",
 	"ee": "http://doi.acm.org/10.1145/325405.325424",
 	"pages": "149-153",
 	"publisher": "ACM",
-	"stemmed": ["algebra", "versus", "probabilist", "independ", "in", "data", "base"],
-	"tag": ["algebra", "database", "independence", "probability"],
+	"stemmed": [
+		"algebra",
+		"versus",
+		"probabilist",
+		"independ",
+		"in",
+		"data",
+		"base"
+	],
+	"tag": [
+		"algebra",
+		"database",
+		"independence",
+		"probability"
+	],
 	"title": "Algebraic Versus Probabilistic Independence in Data Bases",
 	"type": "inproceedings",
 	"venue": "PODS",

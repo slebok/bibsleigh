@@ -1,14 +1,35 @@
 {
-	"author": ["Zhi Guo", "Betul Buyukkurt", "Walid A. Najjar"],
-	"booktitle": "LCTES",
+	"author": [
+		"Zhi Guo",
+		"Betul Buyukkurt",
+		"Walid A. Najjar"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2004",
 	"dblpkey": "conf/lctrts/GuoBN04",
 	"doi": "10.1145/997163.997199",
 	"ee": "http://doi.acm.org/10.1145/997163.997199",
 	"pages": "249-256",
 	"publisher": "ACM",
-	"stemmed": ["input", "data", "reus", "in", "compil", "window", "oper", "onto", "reconfigur", "hardwar"],
-	"tag": ["compilation", "configuration management", "hardware", "reuse"],
+	"stemmed": [
+		"input",
+		"data",
+		"reus",
+		"in",
+		"compil",
+		"window",
+		"oper",
+		"onto",
+		"reconfigur",
+		"hardwar"
+	],
+	"tag": [
+		"compilation",
+		"configuration management",
+		"hardware",
+		"reuse"
+	],
 	"title": "Input data reuse in compiling window operations onto reconfigurable hardware",
 	"type": "inproceedings",
 	"venue": "LCTES",

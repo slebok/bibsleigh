@@ -1,14 +1,33 @@
 {
-	"author": ["Motohiro Kawahito", "Hideaki Komatsu", "Toshio Nakatani"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Motohiro Kawahito",
+		"Hideaki Komatsu",
+		"Toshio Nakatani"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2000",
 	"dblpkey": "conf/asplos/KawahitoKN00",
 	"doi": "10.1145/378993.379234",
 	"ee": "http://doi.acm.org/10.1145/378993.379234",
 	"pages": "139-149",
 	"publisher": "ACM Press",
-	"stemmed": ["effect", "null", "pointer", "check", "elimin", "util", "hardwar", "trap"],
-	"tag": ["effectiveness", "hardware", "null", "pointer"],
+	"stemmed": [
+		"effect",
+		"null",
+		"pointer",
+		"check",
+		"elimin",
+		"util",
+		"hardwar",
+		"trap"
+	],
+	"tag": [
+		"effectiveness",
+		"hardware",
+		"null",
+		"pointer"
+	],
 	"title": "Effective Null Pointer Check Elimination Utilizing Hardware Trap",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

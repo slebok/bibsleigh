@@ -1,14 +1,37 @@
 {
-	"author": ["Wei Shen", "Jianyong Wang", "Ping Luo", "Min Wang"],
-	"booktitle": "KDD",
+	"author": [
+		"Wei Shen",
+		"Jianyong Wang",
+		"Ping Luo",
+		"Min Wang"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/ShenWLW13",
 	"doi": "10.1145/2487575.2487686",
 	"ee": "http://doi.acm.org/10.1145/2487575.2487686",
 	"pages": "68-76",
 	"publisher": "ACM",
-	"stemmed": ["link", "name", "entiti", "in", "tweet", "with", "knowledg", "base", "via", "user", "interest", "model"],
-	"tag": ["knowledge base", "modelling", "twitter"],
+	"stemmed": [
+		"link",
+		"name",
+		"entiti",
+		"in",
+		"tweet",
+		"with",
+		"knowledg",
+		"base",
+		"via",
+		"user",
+		"interest",
+		"model"
+	],
+	"tag": [
+		"knowledge base",
+		"modelling",
+		"twitter"
+	],
 	"title": "Linking named entities in Tweets with knowledge base via user interest modeling",
 	"type": "inproceedings",
 	"venue": "KDD",

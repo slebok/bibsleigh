@@ -1,14 +1,28 @@
 {
-	"author": ["Nathan E. Rosenblum", "Barton P. Miller", "Xiaojin Zhu"],
-	"booktitle": "PASTE",
+	"author": [
+		"Nathan E. Rosenblum",
+		"Barton P. Miller",
+		"Xiaojin Zhu"
+	],
+	"booktitle": "Proceedings of the Ninth Workshop on Program Analysis for Software Tools and Engineering",
+	"booktitleshort": "PASTE",
 	"crossref": "conf/paste/2010",
 	"dblpkey": "conf/paste/RosenblumMZ10",
 	"doi": "10.1145/1806672.1806678",
 	"ee": "http://doi.acm.org/10.1145/1806672.1806678",
 	"pages": "21-28",
 	"publisher": "ACM",
-	"stemmed": ["extract", "compil", "proven", "from", "program", "binari"],
-	"tag": ["compilation"],
+	"stemmed": [
+		"extract",
+		"compil",
+		"proven",
+		"from",
+		"program",
+		"binari"
+	],
+	"tag": [
+		"compilation"
+	],
 	"title": "Extracting compiler provenance from program binaries",
 	"type": "inproceedings",
 	"venue": "PASTE",

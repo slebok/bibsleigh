@@ -1,14 +1,35 @@
 {
-	"author": ["Ruan de Clercq", "Leif Uhsadel", "Anthony Van Herrewege", "Ingrid Verbauwhede"],
-	"booktitle": "DAC",
+	"author": [
+		"Ruan de Clercq",
+		"Leif Uhsadel",
+		"Anthony Van Herrewege",
+		"Ingrid Verbauwhede"
+	],
+	"booktitle": "Proceedings of the 51st Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2014",
 	"dblpkey": "conf/dac/ClercqUHV14",
 	"doi": "10.1145/2593069.2593238",
 	"ee": "http://doi.acm.org/10.1145/2593069.2593238",
 	"pages": "112:1-112:6",
 	"publisher": "ACM",
-	"stemmed": ["ultra", "low", "power", "implement", "of", "ecc", "on", "the", "arm", "cortex", "m"],
-	"tag": ["implementation", "power management"],
+	"stemmed": [
+		"ultra",
+		"low",
+		"power",
+		"implement",
+		"of",
+		"ecc",
+		"on",
+		"the",
+		"arm",
+		"cortex",
+		"m"
+	],
+	"tag": [
+		"implementation",
+		"power management"
+	],
 	"title": "Ultra Low-Power implementation of ECC on the ARM Cortex-M0+",
 	"type": "inproceedings",
 	"venue": "DAC",

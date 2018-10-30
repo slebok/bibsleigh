@@ -1,14 +1,36 @@
 {
-	"author": ["Dominik Kowald", "Elisabeth Lex"],
-	"booktitle": "RecSys",
+	"author": [
+		"Dominik Kowald",
+		"Elisabeth Lex"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2015",
 	"dblpkey": "conf/recsys/KowaldL15",
 	"doi": "10.1145/2792838.2799664",
 	"ee": "http://doi.acm.org/10.1145/2792838.2799664",
 	"pages": "265-268",
 	"publisher": "ACM",
-	"stemmed": ["evalu", "tag", "recommend", "algorithm", "in", "real", "world", "folksonomi", "a", "compar", "studi"],
-	"tag": ["algorithm", "case study", "comparative", "folksonomy", "recommendation"],
+	"stemmed": [
+		"evalu",
+		"tag",
+		"recommend",
+		"algorithm",
+		"in",
+		"real",
+		"world",
+		"folksonomi",
+		"a",
+		"compar",
+		"studi"
+	],
+	"tag": [
+		"algorithm",
+		"case study",
+		"comparative",
+		"folksonomy",
+		"recommendation"
+	],
 	"title": "Evaluating Tag Recommender Algorithms in Real-World Folksonomies: A Comparative Study",
 	"type": "inproceedings",
 	"venue": "RecSys",

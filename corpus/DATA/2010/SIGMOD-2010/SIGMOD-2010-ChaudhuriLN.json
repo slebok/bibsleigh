@@ -1,6 +1,10 @@
 {
-	"author": ["Surajit Chaudhuri", "Hongrae Lee", "Vivek R. Narasayya"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Surajit Chaudhuri",
+		"Hongrae Lee",
+		"Vivek R. Narasayya"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/ChaudhuriLN10",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807226",
 	"pages": "531-542",
 	"publisher": "ACM",
-	"stemmed": ["varianc", "awar", "optim", "of", "parameter", "queri"],
-	"tag": ["optimisation", "query"],
+	"stemmed": [
+		"varianc",
+		"awar",
+		"optim",
+		"of",
+		"parameter",
+		"queri"
+	],
+	"tag": [
+		"optimisation",
+		"query"
+	],
 	"title": "Variance aware optimization of parameterized queries",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,28 @@
 {
-	"author": ["Seung-Taek Park", "Wei Chu"],
-	"booktitle": "RecSys",
+	"author": [
+		"Seung-Taek Park",
+		"Wei Chu"
+	],
+	"booktitle": "Proceedings of the Third Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2009",
 	"dblpkey": "conf/recsys/ParkC09",
 	"doi": "10.1145/1639714.1639720",
 	"ee": "http://doi.acm.org/10.1145/1639714.1639720",
 	"pages": "21-28",
 	"publisher": "ACM",
-	"stemmed": ["pairwis", "prefer", "regress", "for", "cold", "start", "recommend"],
-	"tag": ["recommendation"],
+	"stemmed": [
+		"pairwis",
+		"prefer",
+		"regress",
+		"for",
+		"cold",
+		"start",
+		"recommend"
+	],
+	"tag": [
+		"recommendation"
+	],
 	"title": "Pairwise preference regression for cold-start recommendation",
 	"type": "inproceedings",
 	"venue": "RecSys",

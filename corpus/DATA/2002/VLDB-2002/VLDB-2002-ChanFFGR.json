@@ -1,13 +1,32 @@
 {
-	"author": ["Chee Yong Chan", "Wenfei Fan", "Pascal Felber", "Minos N. Garofalakis", "Rajeev Rastogi"],
-	"booktitle": "VLDB",
+	"author": [
+		"Chee Yong Chan",
+		"Wenfei Fan",
+		"Pascal Felber",
+		"Minos N. Garofalakis",
+		"Rajeev Rastogi"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/ChanFFGR02",
 	"ee": "http://www.vldb.org/conf/2002/S23P02.pdf",
 	"pages": "826-837",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["tree", "pattern", "aggreg", "for", "scalabl", "xml", "data", "dissemin"],
-	"tag": ["scalability", "xml"],
+	"stemmed": [
+		"tree",
+		"pattern",
+		"aggreg",
+		"for",
+		"scalabl",
+		"xml",
+		"data",
+		"dissemin"
+	],
+	"tag": [
+		"scalability",
+		"xml"
+	],
 	"title": "Tree Pattern Aggregation for Scalable XML Data Dissemination",
 	"type": "inproceedings",
 	"venue": "VLDB",

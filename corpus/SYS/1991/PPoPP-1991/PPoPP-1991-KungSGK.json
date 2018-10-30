@@ -1,14 +1,36 @@
 {
-	"author": ["H. T. Kung", "Peter Steenkiste", "Marco Gubitoso", "Manpreet Khaira"],
-	"booktitle": "PPOPP",
+	"author": [
+		"H. T. Kung",
+		"Peter Steenkiste",
+		"Marco Gubitoso",
+		"Manpreet Khaira"
+	],
+	"booktitle": "Proceedings of the Third Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1991",
 	"dblpkey": "conf/ppopp/KungSGK91",
 	"doi": "10.1145/109625.109643",
 	"ee": "http://doi.acm.org/10.1145/109625.109643",
 	"pages": "167-177",
 	"publisher": "ACM",
-	"stemmed": ["parallel", "a", "new", "class", "of", "larg", "applic", "over", "high", "speed", "network"],
-	"tag": ["network", "performance", "scalability"],
+	"stemmed": [
+		"parallel",
+		"a",
+		"new",
+		"class",
+		"of",
+		"larg",
+		"applic",
+		"over",
+		"high",
+		"speed",
+		"network"
+	],
+	"tag": [
+		"network",
+		"performance",
+		"scalability"
+	],
 	"title": "Parallelizing a New Class of Large Applications over High-speed Networks",
 	"type": "inproceedings",
 	"venue": "PPoPP",

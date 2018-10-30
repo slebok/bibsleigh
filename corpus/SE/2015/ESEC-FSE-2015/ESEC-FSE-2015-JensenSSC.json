@@ -1,14 +1,35 @@
 {
-	"author": ["Simon Holm Jensen", "Manu Sridharan", "Koushik Sen", "Satish Chandra"],
-	"booktitle": "ESEC/SIGSOFT FSE",
+	"author": [
+		"Simon Holm Jensen",
+		"Manu Sridharan",
+		"Koushik Sen",
+		"Satish Chandra"
+	],
+	"booktitle": "Proceedings of the 10th Joint Meeting of the 15th European Software Engineering Conference and the 23rd Symposium on the Foundations of Software Engineering",
+	"booktitleshort": "ESEC/SIGSOFT FSE",
 	"crossref": "conf/sigsoft/2015",
 	"dblpkey": "conf/sigsoft/JensenSSC15",
 	"doi": "10.1145/2786805.2786860",
 	"ee": "http://doi.acm.org/10.1145/2786805.2786860",
 	"pages": "345-356",
 	"publisher": "ACM",
-	"stemmed": ["mem", "insight", "platform", "independ", "memori", "debug", "for", "javascript"],
-	"tag": ["debugging", "independence", "javascript", "memory management", "named"],
+	"stemmed": [
+		"mem",
+		"insight",
+		"platform",
+		"independ",
+		"memori",
+		"debug",
+		"for",
+		"javascript"
+	],
+	"tag": [
+		"debugging",
+		"independence",
+		"javascript",
+		"memory management",
+		"named"
+	],
 	"title": "MemInsight: platform-independent memory debugging for JavaScript",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

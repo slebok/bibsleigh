@@ -1,15 +1,40 @@
 {
-	"author": ["Mohamed F. Mokbel", "Xiaopeng Xiong", "Walid G. Aref"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Mohamed F. Mokbel",
+		"Xiaopeng Xiong",
+		"Walid G. Aref"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/MokbelXA04",
 	"doi": "10.1145/1007568.1007638",
-	"ee": ["http://doi.acm.org/10.1145/1007568.1007638", "http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-432.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1007568.1007638",
+		"http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/R-432.pdf"
+	],
 	"pages": "623-634",
 	"publisher": "ACM",
-	"stemmed": ["sina", "scalabl", "increment", "process", "of", "continu", "queri", "in", "spatio", "tempor", "databas"],
-	"tag": ["database", "incremental", "named", "query", "scalability"],
+	"stemmed": [
+		"sina",
+		"scalabl",
+		"increment",
+		"process",
+		"of",
+		"continu",
+		"queri",
+		"in",
+		"spatio",
+		"tempor",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"incremental",
+		"named",
+		"query",
+		"scalability"
+	],
 	"title": "SINA: Scalable Incremental Processing of Continuous Queries in Spatio-temporal Databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,31 @@
 {
-	"author": ["Jaideep Vaidya", "Chris Clifton"],
-	"booktitle": "KDD",
+	"author": [
+		"Jaideep Vaidya",
+		"Chris Clifton"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2003",
 	"dblpkey": "conf/kdd/VaidyaC03",
 	"doi": "10.1145/956750.956776",
 	"ee": "http://doi.acm.org/10.1145/956750.956776",
 	"pages": "206-215",
 	"publisher": "ACM",
-	"stemmed": ["privaci", "preserv", "k", "mean", "cluster", "over", "vertic", "partit", "data"],
-	"tag": ["clustering", "privacy"],
+	"stemmed": [
+		"privaci",
+		"preserv",
+		"k",
+		"mean",
+		"cluster",
+		"over",
+		"vertic",
+		"partit",
+		"data"
+	],
+	"tag": [
+		"clustering",
+		"privacy"
+	],
 	"title": "Privacy-preserving k-means clustering over vertically partitioned data",
 	"type": "inproceedings",
 	"venue": "KDD",

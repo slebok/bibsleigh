@@ -1,16 +1,33 @@
 {
-	"author": ["Alessandro Aldini", "Marco Bernardo"],
-	"booktitle": "QAPL",
+	"author": [
+		"Alessandro Aldini",
+		"Marco Bernardo"
+	],
+	"booktitle": "Proceedings of the 13th Workshop on Quantitative Aspects of Programming Languages and Systems",
+	"booktitleshort": "QAPL",
 	"crossref": "journals/corr/BertrandT15",
 	"dblpkey": "journals/corr/AldiniB15",
 	"doi": "10.4204/EPTCS.194.1",
 	"pages": "1-15",
 	"series": "EPTCS",
-	"stemmed": ["expect", "delay", "sum", "weak", "bisimilar", "for", "markov", "automata"],
-	"tag": ["automaton", "markov", "similarity"],
+	"stemmed": [
+		"expect",
+		"delay",
+		"sum",
+		"weak",
+		"bisimilar",
+		"for",
+		"markov",
+		"automata"
+	],
+	"tag": [
+		"automaton",
+		"markov",
+		"similarity"
+	],
 	"title": "Expected-Delay-Summing Weak Bisimilarity for Markov Automata",
 	"type": "inproceedings",
 	"venue": "QAPL",
-	"volume": 194,
+	"volume": "194",
 	"year": 2015
 }

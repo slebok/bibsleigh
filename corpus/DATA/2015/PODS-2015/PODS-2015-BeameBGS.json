@@ -1,14 +1,30 @@
 {
-	"author": ["Paul Beame", "Guy Van den Broeck", "Eric Gribkoff", "Dan Suciu"],
-	"booktitle": "PODS",
+	"author": [
+		"Paul Beame",
+		"Guy Van den Broeck",
+		"Eric Gribkoff",
+		"Dan Suciu"
+	],
+	"booktitle": "Proceedings of the 34th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2015",
 	"dblpkey": "conf/pods/BeameBGS15",
 	"doi": "10.1145/2745754.2745760",
 	"ee": "http://doi.acm.org/10.1145/2745754.2745760",
 	"pages": "313-328",
 	"publisher": "ACM",
-	"stemmed": ["symmetr", "weight", "first", "order", "model", "count"],
-	"tag": ["first-order", "symmetry"],
+	"stemmed": [
+		"symmetr",
+		"weight",
+		"first",
+		"order",
+		"model",
+		"count"
+	],
+	"tag": [
+		"first-order",
+		"symmetry"
+	],
 	"title": "Symmetric Weighted First-Order Model Counting",
 	"type": "inproceedings",
 	"venue": "PODS",

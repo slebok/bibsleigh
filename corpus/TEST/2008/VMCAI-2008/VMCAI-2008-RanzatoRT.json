@@ -1,6 +1,11 @@
 {
-	"author": ["Francesco Ranzato", "Olivia Rossi-Doria", "Francesco Tapparo"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Francesco Ranzato",
+		"Olivia Rossi-Doria",
+		"Francesco Tapparo"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2008",
 	"dblpkey": "conf/vmcai/RanzatoRT08",
 	"doi": "10.1007/978-3-540-78163-9_22",
@@ -10,11 +15,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "forward", "backward", "abstract", "refin", "algorithm"],
-	"tag": ["abstraction", "algorithm", "refinement"],
+	"stemmed": [
+		"a",
+		"forward",
+		"backward",
+		"abstract",
+		"refin",
+		"algorithm"
+	],
+	"tag": [
+		"abstraction",
+		"algorithm",
+		"refinement"
+	],
 	"title": "A Forward-Backward Abstraction Refinement Algorithm",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 4905,
+	"volume": "4905",
 	"year": 2008
 }

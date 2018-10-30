@@ -1,14 +1,28 @@
 {
-	"author": ["Mel Gorman", "Patrick Healy"],
-	"booktitle": "ISMM",
+	"author": [
+		"Mel Gorman",
+		"Patrick Healy"
+	],
+	"booktitle": "Proceedings of the Seventh International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2008",
 	"dblpkey": "conf/iwmm/GormanH08",
 	"doi": "10.1145/1375634.1375641",
 	"ee": "http://doi.acm.org/10.1145/1375634.1375641",
 	"pages": "41-50",
 	"publisher": "ACM",
-	"stemmed": ["support", "superpag", "alloc", "without", "addit", "hardwar", "support"],
-	"tag": ["hardware"],
+	"stemmed": [
+		"support",
+		"superpag",
+		"alloc",
+		"without",
+		"addit",
+		"hardwar",
+		"support"
+	],
+	"tag": [
+		"hardware"
+	],
 	"title": "Supporting superpage allocation without additional hardware support",
 	"type": "inproceedings",
 	"venue": "ISMM",

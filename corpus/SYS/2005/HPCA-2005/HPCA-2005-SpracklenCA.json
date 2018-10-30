@@ -1,15 +1,37 @@
 {
-	"author": ["Lawrence Spracklen", "Yuan Chou", "Santosh G. Abraham"],
-	"booktitle": "HPCA",
+	"author": [
+		"Lawrence Spracklen",
+		"Yuan Chou",
+		"Santosh G. Abraham"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2005",
 	"dblpkey": "conf/hpca/SpracklenCA05",
 	"doi": "10.1109/HPCA.2005.13",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2005.13", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2005.13"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2005.13",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2005.13"
+	],
 	"pages": "225-236",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["effect", "instruct", "prefetch", "in", "chip", "multiprocessor", "for", "modern", "commerci", "applic"],
-	"tag": ["effectiveness", "multi"],
+	"stemmed": [
+		"effect",
+		"instruct",
+		"prefetch",
+		"in",
+		"chip",
+		"multiprocessor",
+		"for",
+		"modern",
+		"commerci",
+		"applic"
+	],
+	"tag": [
+		"effectiveness",
+		"multi"
+	],
 	"title": "Effective Instruction Prefetching in Chip Multiprocessors for Modern Commercial Applications",
 	"type": "inproceedings",
 	"venue": "HPCA",

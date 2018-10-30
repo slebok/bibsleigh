@@ -1,6 +1,10 @@
 {
-	"author": ["Howard R. Turtle", "W. Bruce Croft"],
+	"author": [
+		"Howard R. Turtle",
+		"W. Bruce Croft"
+	],
 	"booktitle": "Proceedings of the 13th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1990/P001.pdf",
 	"crossref": "conf/sigir/90",
 	"dblpkey": "conf/sigir/TurtleC90",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/96749.98006",
 	"pages": "1-24",
 	"publisher": "ACM",
-	"stemmed": ["infer", "network", "for", "document", "retriev"],
-	"tag": ["documentation", "network", "retrieval"],
+	"stemmed": [
+		"infer",
+		"network",
+		"for",
+		"document",
+		"retriev"
+	],
+	"tag": [
+		"documentation",
+		"network",
+		"retrieval"
+	],
 	"title": "Inference Networks for Document Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

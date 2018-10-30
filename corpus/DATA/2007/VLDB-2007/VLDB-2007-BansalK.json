@@ -1,13 +1,34 @@
 {
-	"author": ["Nilesh Bansal", "Nick Koudas"],
-	"booktitle": "VLDB",
+	"author": [
+		"Nilesh Bansal",
+		"Nick Koudas"
+	],
+	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/BansalK07",
 	"ee": "http://www.vldb.org/conf/2007/papers/demo/p1410-bansal.pdf",
 	"pages": "1410-1413",
 	"publisher": "ACM",
-	"stemmed": ["blog", "scope", "a", "system", "for", "onlin", "analysi", "of", "high", "volum", "text", "stream"],
-	"tag": ["analysis", "named", "online"],
+	"stemmed": [
+		"blog",
+		"scope",
+		"a",
+		"system",
+		"for",
+		"onlin",
+		"analysi",
+		"of",
+		"high",
+		"volum",
+		"text",
+		"stream"
+	],
+	"tag": [
+		"analysis",
+		"named",
+		"online"
+	],
 	"title": "BlogScope: A System for Online Analysis of High Volume Text Streams",
 	"type": "inproceedings",
 	"venue": "VLDB",

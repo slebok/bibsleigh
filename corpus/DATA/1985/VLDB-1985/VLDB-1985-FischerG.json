@@ -1,13 +1,39 @@
 {
-	"author": ["Patrick C. Fischer", "Dirk Van Gucht"],
-	"booktitle": "VLDB",
-	"cite": ["conf/pods/AbiteboulB84", "journals/cacm/Codd70", "conf/pods/FischerG84", "conf/stacs/FischerG85", "...", "conf/pods/JaeschkeS82", "...", "conf/vldb/Makinouchi77", "...", "journals/acr/ThomasF86", "...", "books/cs/Ullman82"],
+	"author": [
+		"Patrick C. Fischer",
+		"Dirk Van Gucht"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/pods/AbiteboulB84",
+		"journals/cacm/Codd70",
+		"conf/pods/FischerG84",
+		"conf/stacs/FischerG85",
+		"...",
+		"conf/pods/JaeschkeS82",
+		"...",
+		"conf/vldb/Makinouchi77",
+		"...",
+		"journals/acr/ThomasF86",
+		"...",
+		"books/cs/Ullman82"
+	],
 	"crossref": "conf/vldb/85",
 	"dblpkey": "conf/vldb/FischerG85",
 	"ee": "http://www.vldb.org/conf/1985/P171.PDF",
 	"pages": "171-180",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["determin", "when", "a", "structur", "is", "a", "nest", "relat"],
+	"stemmed": [
+		"determin",
+		"when",
+		"a",
+		"structur",
+		"is",
+		"a",
+		"nest",
+		"relat"
+	],
 	"title": "Determining when a Structure is a Nested Relation",
 	"type": "inproceedings",
 	"venue": "VLDB",

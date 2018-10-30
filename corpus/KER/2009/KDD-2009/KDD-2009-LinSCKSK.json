@@ -1,14 +1,35 @@
 {
-	"author": ["Yu-Ru Lin", "Jimeng Sun", "Paul Castro", "Ravi B. Konuru", "Hari Sundaram", "Aisling Kelliher"],
-	"booktitle": "KDD",
+	"author": [
+		"Yu-Ru Lin",
+		"Jimeng Sun",
+		"Paul Castro",
+		"Ravi B. Konuru",
+		"Hari Sundaram",
+		"Aisling Kelliher"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/LinSCKSK09",
 	"doi": "10.1145/1557019.1557080",
 	"ee": "http://doi.acm.org/10.1145/1557019.1557080",
 	"pages": "527-536",
 	"publisher": "ACM",
-	"stemmed": ["meta", "fac", "communiti", "discoveri", "via", "relat", "hypergraph", "factor"],
-	"tag": ["community", "named", "relational"],
+	"stemmed": [
+		"meta",
+		"fac",
+		"communiti",
+		"discoveri",
+		"via",
+		"relat",
+		"hypergraph",
+		"factor"
+	],
+	"tag": [
+		"community",
+		"named",
+		"relational"
+	],
 	"title": "MetaFac: community discovery via relational hypergraph factorization",
 	"type": "inproceedings",
 	"venue": "KDD",

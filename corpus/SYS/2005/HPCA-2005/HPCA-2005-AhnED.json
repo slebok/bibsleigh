@@ -1,6 +1,11 @@
 {
-	"author": ["Jung Ho Ahn", "Mattan Erez", "William J. Dally"],
-	"booktitle": "HPCA",
+	"author": [
+		"Jung Ho Ahn",
+		"Mattan Erez",
+		"William J. Dally"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2005",
 	"dblpkey": "conf/hpca/AhnED05",
 	"doi": "10.1109/HPCA.2005.30",
@@ -8,8 +13,18 @@
 	"pages": "132-142",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["scatter", "add", "in", "data", "parallel", "architectur"],
-	"tag": ["architecture", "parallel"],
+	"stemmed": [
+		"scatter",
+		"add",
+		"in",
+		"data",
+		"parallel",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"parallel"
+	],
 	"title": "Scatter-Add in Data Parallel Architectures",
 	"type": "inproceedings",
 	"venue": "HPCA",

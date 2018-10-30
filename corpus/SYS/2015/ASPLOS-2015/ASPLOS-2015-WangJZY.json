@@ -1,14 +1,37 @@
 {
-	"author": ["Rujia Wang", "Lei Jiang", "Youtao Zhang", "Jun Yang"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Rujia Wang",
+		"Lei Jiang",
+		"Youtao Zhang",
+		"Jun Yang"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2015",
 	"dblpkey": "conf/asplos/WangJZY15",
 	"doi": "10.1145/2694344.2694352",
 	"ee": "http://doi.acm.org/10.1145/2694344.2694352",
 	"pages": "19-31",
 	"publisher": "ACM",
-	"stemmed": ["sd", "pcm", "construct", "reliabl", "super", "dens", "phase", "chang", "memori", "under", "write", "disturb"],
-	"tag": ["memory management", "named", "reliability"],
+	"stemmed": [
+		"sd",
+		"pcm",
+		"construct",
+		"reliabl",
+		"super",
+		"dens",
+		"phase",
+		"chang",
+		"memori",
+		"under",
+		"write",
+		"disturb"
+	],
+	"tag": [
+		"memory management",
+		"named",
+		"reliability"
+	],
 	"title": "SD-PCM: Constructing Reliable Super Dense Phase Change Memory under Write Disturbance",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

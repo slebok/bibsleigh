@@ -1,15 +1,44 @@
 {
-	"author": ["Xuehai Qian", "He Huang", "Benjamin Sahelices", "Depei Qian"],
-	"booktitle": "HPCA",
+	"author": [
+		"Xuehai Qian",
+		"He Huang",
+		"Benjamin Sahelices",
+		"Depei Qian"
+	],
+	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/QianHSQ13",
 	"doi": "10.1109/HPCA.2013.6522349",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522349", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522349"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2013.6522349",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522349"
+	],
 	"pages": "554-565",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["rainbow", "effici", "memori", "depend", "record", "with", "high", "replay", "parallel", "for", "relax", "memori", "model"],
-	"tag": ["dependence", "memory management", "named", "parallel", "performance"],
+	"stemmed": [
+		"rainbow",
+		"effici",
+		"memori",
+		"depend",
+		"record",
+		"with",
+		"high",
+		"replay",
+		"parallel",
+		"for",
+		"relax",
+		"memori",
+		"model"
+	],
+	"tag": [
+		"dependence",
+		"memory management",
+		"named",
+		"parallel",
+		"performance"
+	],
 	"title": "Rainbow: Efficient memory dependence recording with high replay parallelism for relaxed memory model",
 	"type": "inproceedings",
 	"venue": "HPCA",

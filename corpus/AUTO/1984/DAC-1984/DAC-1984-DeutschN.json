@@ -1,13 +1,31 @@
 {
-	"acmid": 800819,
-	"author": ["Jeffrey T. Deutsch", "A. Richard Newton"],
-	"booktitle": "DAC",
+	"acmid": "800819",
+	"author": [
+		"Jeffrey T. Deutsch",
+		"A. Richard Newton"
+	],
+	"booktitle": "Proceedings of the 21st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1984",
 	"dblpkey": "conf/dac/DeutschN84",
 	"pages": "350-357",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["a", "multiprocessor", "implement", "of", "relax", "base", "electr", "circuit", "simul"],
-	"tag": ["implementation", "multi", "simulation"],
+	"stemmed": [
+		"a",
+		"multiprocessor",
+		"implement",
+		"of",
+		"relax",
+		"base",
+		"electr",
+		"circuit",
+		"simul"
+	],
+	"tag": [
+		"implementation",
+		"multi",
+		"simulation"
+	],
 	"title": "A multiprocessor implementation of relaxation-based electrical circuit simulation",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,30 @@
 {
-	"author": ["Negar Hariri", "Bamshad Mobasher", "Robin D. Burke"],
-	"booktitle": "RecSys",
+	"author": [
+		"Negar Hariri",
+		"Bamshad Mobasher",
+		"Robin D. Burke"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2014",
 	"dblpkey": "conf/recsys/HaririMB14",
 	"doi": "10.1145/2645710.2645753",
 	"ee": "http://doi.acm.org/10.1145/2645710.2645753",
 	"pages": "41-48",
 	"publisher": "ACM",
-	"stemmed": ["context", "adapt", "in", "interact", "recommend", "system"],
-	"tag": ["adaptation", "interactive", "recommendation"],
+	"stemmed": [
+		"context",
+		"adapt",
+		"in",
+		"interact",
+		"recommend",
+		"system"
+	],
+	"tag": [
+		"adaptation",
+		"interactive",
+		"recommendation"
+	],
 	"title": "Context adaptation in interactive recommender systems",
 	"type": "inproceedings",
 	"venue": "RecSys",

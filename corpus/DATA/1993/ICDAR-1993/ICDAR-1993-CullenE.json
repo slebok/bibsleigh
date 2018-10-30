@@ -1,14 +1,35 @@
 {
-	"author": ["John F. Cullen", "Koichi Ejiri"],
-	"booktitle": "ICDAR",
+	"author": [
+		"John F. Cullen",
+		"Koichi Ejiri"
+	],
+	"booktitle": "Proceedings of the Second International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/1993",
 	"dblpkey": "conf/icdar/CullenE93",
 	"doi": "10.1109/ICDAR.1993.395627",
 	"ee": "http://dx.doi.org/10.1109/ICDAR.1993.395627",
 	"pages": "757-760",
 	"publisher": "IEEE",
-	"stemmed": ["weak", "model", "depend", "page", "segment", "and", "skew", "correct", "for", "process", "document", "imag"],
-	"tag": ["documentation", "image", "segmentation"],
+	"stemmed": [
+		"weak",
+		"model",
+		"depend",
+		"page",
+		"segment",
+		"and",
+		"skew",
+		"correct",
+		"for",
+		"process",
+		"document",
+		"imag"
+	],
+	"tag": [
+		"documentation",
+		"image",
+		"segmentation"
+	],
 	"title": "Weak model-dependent page segmentation and skew correction for processing document images",
 	"type": "inproceedings",
 	"venue": "ICDAR",

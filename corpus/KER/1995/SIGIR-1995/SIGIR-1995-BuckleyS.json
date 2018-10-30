@@ -1,6 +1,10 @@
 {
-	"author": ["Chris Buckley", "Gerard Salton"],
+	"author": [
+		"Chris Buckley",
+		"Gerard Salton"
+	],
 	"booktitle": "Proceedings of the 18th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1995/P351.pdf",
 	"crossref": "conf/sigir/95",
 	"dblpkey": "conf/sigir/BuckleyS95",
@@ -8,8 +12,17 @@
 	"ee": "http://doi.acm.org/10.1145/215206.215383",
 	"pages": "351-357",
 	"publisher": "ACM Press",
-	"stemmed": ["optim", "of", "relev", "feedback", "weight"],
-	"tag": ["feedback", "optimisation"],
+	"stemmed": [
+		"optim",
+		"of",
+		"relev",
+		"feedback",
+		"weight"
+	],
+	"tag": [
+		"feedback",
+		"optimisation"
+	],
 	"title": "Optimization of Relevance Feedback Weights",
 	"type": "inproceedings",
 	"venue": "SIGIR",

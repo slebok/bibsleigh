@@ -1,6 +1,13 @@
 {
-	"author": ["Graham Cormode", "Theodore Johnson", "Flip Korn", "S. Muthukrishnan", "Oliver Spatscheck", "Divesh Srivastava"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Graham Cormode",
+		"Theodore Johnson",
+		"Flip Korn",
+		"S. Muthukrishnan",
+		"Oliver Spatscheck",
+		"Divesh Srivastava"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/JohnsonCKMSS04",
@@ -8,8 +15,16 @@
 	"ee": "http://doi.acm.org/10.1145/1007568.1007575",
 	"pages": "35-46",
 	"publisher": "ACM",
-	"stemmed": ["holist", "udaf", "at", "stream", "speed"],
-	"tag": ["streaming"],
+	"stemmed": [
+		"holist",
+		"udaf",
+		"at",
+		"stream",
+		"speed"
+	],
+	"tag": [
+		"streaming"
+	],
 	"title": "Holistic UDAFs at streaming speeds",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

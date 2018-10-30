@@ -1,6 +1,11 @@
 {
-	"author": ["Richard Berntsson-Svensson", "Tony Gorschek", "Björn Regnell"],
-	"booktitle": "REFSQ",
+	"author": [
+		"Richard Berntsson-Svensson",
+		"Tony Gorschek",
+		"Björn Regnell"
+	],
+	"booktitle": "Proceedings of the 15th International Working Conference on Requirements Engineering: Foundation for Software Quality",
+	"booktitleshort": "REFSQ",
 	"crossref": "conf/refsq/2009",
 	"dblpkey": "conf/refsq/Berntsson-SvenssonGR09",
 	"doi": "10.1007/978-3-642-02050-6_19",
@@ -9,11 +14,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["qualiti", "requir", "in", "practic", "an", "interview", "studi", "in", "requir", "engin", "for", "embed", "system"],
-	"tag": ["embedded", "quality", "requirements"],
+	"stemmed": [
+		"qualiti",
+		"requir",
+		"in",
+		"practic",
+		"an",
+		"interview",
+		"studi",
+		"in",
+		"requir",
+		"engin",
+		"for",
+		"embed",
+		"system"
+	],
+	"tag": [
+		"embedded",
+		"quality",
+		"requirements"
+	],
 	"title": "Quality Requirements in Practice: An Interview Study in Requirements Engineering for Embedded Systems",
 	"type": "inproceedings",
 	"venue": "REFSQ",
-	"volume": 5512,
+	"volume": "5512",
 	"year": 2009
 }

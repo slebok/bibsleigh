@@ -1,13 +1,36 @@
 {
-	"author": ["Piotr Indyk", "Nick Koudas", "S. Muthukrishnan"],
-	"booktitle": "VLDB",
+	"author": [
+		"Piotr Indyk",
+		"Nick Koudas",
+		"S. Muthukrishnan"
+	],
+	"booktitle": "Proceedings of the 26th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2000",
 	"dblpkey": "conf/vldb/KoudasIM00",
 	"ee": "http://www.vldb.org/conf/2000/P363.pdf",
 	"pages": "363-372",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["identifi", "repres", "trend", "in", "massiv", "time", "seri", "data", "set", "use", "sketch"],
-	"tag": ["identification", "roadmap", "set", "sketching", "using"],
+	"stemmed": [
+		"identifi",
+		"repres",
+		"trend",
+		"in",
+		"massiv",
+		"time",
+		"seri",
+		"data",
+		"set",
+		"use",
+		"sketch"
+	],
+	"tag": [
+		"identification",
+		"roadmap",
+		"set",
+		"sketching",
+		"using"
+	],
 	"title": "Identifying Representative Trends in Massive Time Series Data Sets Using Sketches",
 	"type": "inproceedings",
 	"venue": "VLDB",

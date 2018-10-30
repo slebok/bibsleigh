@@ -1,14 +1,30 @@
 {
-	"author": ["Dongwoo Lee", "Vladimir Zolotov", "David Blaauw"],
-	"booktitle": "DAC",
+	"author": [
+		"Dongwoo Lee",
+		"Vladimir Zolotov",
+		"David Blaauw"
+	],
+	"booktitle": "Proceedings of the 41st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2004",
 	"dblpkey": "conf/dac/LeeZB04",
 	"doi": "10.1145/996566.996747",
 	"ee": "http://doi.acm.org/10.1145/996566.996747",
 	"pages": "664-669",
 	"publisher": "ACM",
-	"stemmed": ["static", "time", "analysi", "use", "backward", "signal", "propag"],
-	"tag": ["analysis", "using"],
+	"stemmed": [
+		"static",
+		"time",
+		"analysi",
+		"use",
+		"backward",
+		"signal",
+		"propag"
+	],
+	"tag": [
+		"analysis",
+		"using"
+	],
 	"title": "Static timing analysis using backward signal propagation",
 	"type": "inproceedings",
 	"venue": "DAC",

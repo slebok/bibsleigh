@@ -1,15 +1,40 @@
 {
-	"author": ["Yusuke Ojima", "Satoshi Kirigaya", "Toru Wakahara"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Yusuke Ojima",
+		"Satoshi Kirigaya",
+		"Toru Wakahara"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2005",
 	"dblpkey": "conf/icdar/OjimaKW05",
 	"doi": "10.1109/ICDAR.2005.86",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2005.86", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.86"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2005.86",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.86"
+	],
 	"pages": "555-559",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["determin", "optim", "filter", "for", "binar", "of", "degrad", "grayscal", "charact", "use", "genet", "algorithm"],
-	"tag": ["algorithm", "search-based", "using"],
+	"stemmed": [
+		"determin",
+		"optim",
+		"filter",
+		"for",
+		"binar",
+		"of",
+		"degrad",
+		"grayscal",
+		"charact",
+		"use",
+		"genet",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"search-based",
+		"using"
+	],
 	"title": "Determining Optimal Filters for Binarization of Degraded Grayscale Characters Using Genetic Algorithms",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,6 +1,9 @@
 {
-	"author": ["Arthur Meacham", "Dennis Shasha"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Arthur Meacham",
+		"Dennis Shasha"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/MeachamS12",
@@ -8,8 +11,25 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213918",
 	"pages": "633-636",
 	"publisher": "ACM",
-	"stemmed": ["just", "my", "friend", "full", "sql", "full", "transact", "amen", "and", "access", "privaci"],
-	"tag": ["named", "privacy", "sql", "transaction"],
+	"stemmed": [
+		"just",
+		"my",
+		"friend",
+		"full",
+		"sql",
+		"full",
+		"transact",
+		"amen",
+		"and",
+		"access",
+		"privaci"
+	],
+	"tag": [
+		"named",
+		"privacy",
+		"sql",
+		"transaction"
+	],
 	"title": "JustMyFriends: full SQL, full transactional amenities, and access privacy",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

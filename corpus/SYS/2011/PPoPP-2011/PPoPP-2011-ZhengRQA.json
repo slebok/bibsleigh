@@ -1,14 +1,39 @@
 {
-	"author": ["Mai Zheng", "Vignesh T. Ravi", "Feng Qin", "Gagan Agrawal"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Mai Zheng",
+		"Vignesh T. Ravi",
+		"Feng Qin",
+		"Gagan Agrawal"
+	],
+	"booktitle": "Proceedings of the 16th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2011",
 	"dblpkey": "conf/ppopp/ZhengRQA11",
 	"doi": "10.1145/1941553.1941574",
 	"ee": "http://doi.acm.org/10.1145/1941553.1941574",
 	"pages": "135-146",
 	"publisher": "ACM",
-	"stemmed": ["g", "race", "a", "low", "overhead", "mechan", "for", "detect", "data", "race", "in", "gpu", "program"],
-	"tag": ["detection", "gpu", "named", "source code"],
+	"stemmed": [
+		"g",
+		"race",
+		"a",
+		"low",
+		"overhead",
+		"mechan",
+		"for",
+		"detect",
+		"data",
+		"race",
+		"in",
+		"gpu",
+		"program"
+	],
+	"tag": [
+		"detection",
+		"gpu",
+		"named",
+		"source code"
+	],
 	"title": "GRace: a low-overhead mechanism for detecting data races in GPU programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

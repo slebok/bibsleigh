@@ -1,16 +1,39 @@
 {
-	"acmid": 1545057,
-	"author": ["Paul Berube", "José Nelson Amaral", "Rayson Ho", "Raúl Silvera"],
-	"booktitle": "CGO",
+	"acmid": "1545057",
+	"author": [
+		"Paul Berube",
+		"José Nelson Amaral",
+		"Rayson Ho",
+		"Raúl Silvera"
+	],
+	"booktitle": "Proceedings of the Seventh International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2009",
 	"dblpkey": "conf/cgo/BerubeAHS09",
 	"doi": "10.1109/CGO.2009.23",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2009.23", "http://doi.ieeecomputersociety.org/10.1109/CGO.2009.23", "http://dl.acm.org/citation.cfm?id=1545057"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2009.23",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2009.23",
+		"http://dl.acm.org/citation.cfm?id=1545057"
+	],
 	"pages": "59-69",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["workload", "reduct", "for", "multi", "input", "feedback", "direct", "optim"],
-	"tag": ["multi", "optimisation", "reduction"],
+	"stemmed": [
+		"workload",
+		"reduct",
+		"for",
+		"multi",
+		"input",
+		"feedback",
+		"direct",
+		"optim"
+	],
+	"tag": [
+		"multi",
+		"optimisation",
+		"reduction"
+	],
 	"title": "Workload Reduction for Multi-input Feedback-Directed Optimization",
 	"type": "inproceedings",
 	"venue": "CGO",

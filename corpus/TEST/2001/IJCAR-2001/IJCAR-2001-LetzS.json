@@ -1,6 +1,10 @@
 {
-	"author": ["Reinhold Letz", "Gernot Stenz"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Reinhold Letz",
+		"Gernot Stenz"
+	],
+	"booktitle": "Proceedings of the First International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2001",
 	"dblpkey": "conf/cade/LetzS01",
 	"doi": "10.1007/3-540-45744-5_30",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["dctp", "a", "disconnect", "calculus", "theorem", "prover", "system", "abstract"],
-	"tag": ["calculus", "named", "proving", "theorem proving"],
+	"stemmed": [
+		"dctp",
+		"a",
+		"disconnect",
+		"calculus",
+		"theorem",
+		"prover",
+		"system",
+		"abstract"
+	],
+	"tag": [
+		"calculus",
+		"named",
+		"proving",
+		"theorem proving"
+	],
 	"title": "DCTP — A Disconnection Calculus Theorem Prover — System Abstract",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 2083,
+	"volume": "2083",
 	"year": 2001
 }

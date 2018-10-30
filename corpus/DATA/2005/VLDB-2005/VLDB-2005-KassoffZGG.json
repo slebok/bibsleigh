@@ -1,13 +1,31 @@
 {
-	"author": ["Michael Kassoff", "Lee-Ming Zen", "Ankit Garg", "Michael R. Genesereth"],
-	"booktitle": "VLDB",
+	"author": [
+		"Michael Kassoff",
+		"Lee-Ming Zen",
+		"Ankit Garg",
+		"Michael R. Genesereth"
+	],
+	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/KassoffZGG05",
 	"ee": "http://www.vldb.org/conf/2005/papers/p1247-kassoff.pdf",
 	"pages": "1247-1250",
 	"publisher": "ACM",
-	"stemmed": ["predi", "calc", "a", "logic", "spreadsheet", "manag", "system"],
-	"tag": ["logic", "named", "spreadsheet"],
+	"stemmed": [
+		"predi",
+		"calc",
+		"a",
+		"logic",
+		"spreadsheet",
+		"manag",
+		"system"
+	],
+	"tag": [
+		"logic",
+		"named",
+		"spreadsheet"
+	],
 	"title": "PrediCalc: A Logical Spreadsheet Management System",
 	"type": "inproceedings",
 	"venue": "VLDB",

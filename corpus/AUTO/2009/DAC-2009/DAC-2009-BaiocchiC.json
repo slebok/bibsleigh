@@ -1,14 +1,35 @@
 {
-	"author": ["José Baiocchi", "Bruce R. Childers"],
-	"booktitle": "DAC",
+	"author": [
+		"José Baiocchi",
+		"Bruce R. Childers"
+	],
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/BaiocchiC09",
 	"doi": "10.1145/1629911.1630103",
 	"ee": "http://doi.acm.org/10.1145/1629911.1630103",
 	"pages": "744-749",
 	"publisher": "ACM",
-	"stemmed": ["heterogen", "code", "cach", "use", "scratchpad", "and", "main", "memori", "in", "dynam", "binari", "translat"],
-	"tag": ["in memory", "memory management", "using"],
+	"stemmed": [
+		"heterogen",
+		"code",
+		"cach",
+		"use",
+		"scratchpad",
+		"and",
+		"main",
+		"memori",
+		"in",
+		"dynam",
+		"binari",
+		"translat"
+	],
+	"tag": [
+		"in memory",
+		"memory management",
+		"using"
+	],
 	"title": "Heterogeneous code cache: using scratchpad and main memory in dynamic binary translators",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,14 +1,35 @@
 {
-	"author": ["Jared Casper", "Tayo Oguntebi", "Sungpack Hong", "Nathan Grasso Bronson", "Christos Kozyrakis", "Kunle Olukotun"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Jared Casper",
+		"Tayo Oguntebi",
+		"Sungpack Hong",
+		"Nathan Grasso Bronson",
+		"Christos Kozyrakis",
+		"Kunle Olukotun"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2011",
 	"dblpkey": "conf/asplos/CasperOHBKO11",
 	"doi": "10.1145/1950365.1950372",
 	"ee": "http://doi.acm.org/10.1145/1950365.1950372",
 	"pages": "27-38",
 	"publisher": "ACM",
-	"stemmed": ["hardwar", "acceler", "of", "transact", "memori", "on", "commod", "system"],
-	"tag": ["hardware", "memory management", "transaction"],
+	"stemmed": [
+		"hardwar",
+		"acceler",
+		"of",
+		"transact",
+		"memori",
+		"on",
+		"commod",
+		"system"
+	],
+	"tag": [
+		"hardware",
+		"memory management",
+		"transaction"
+	],
 	"title": "Hardware acceleration of transactional memory on commodity systems",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,14 +1,31 @@
 {
-	"author": ["Ravi Rajwar", "James R. Goodman"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Ravi Rajwar",
+		"James R. Goodman"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2002",
 	"dblpkey": "conf/asplos/RajwarG02",
 	"doi": "10.1145/605397.605399",
 	"ee": "http://doi.acm.org/10.1145/605397.605399",
 	"pages": "5-17",
 	"publisher": "ACM Press",
-	"stemmed": ["transact", "lock", "free", "execut", "of", "lock", "base", "program"],
-	"tag": ["execution", "source code", "transaction"],
+	"stemmed": [
+		"transact",
+		"lock",
+		"free",
+		"execut",
+		"of",
+		"lock",
+		"base",
+		"program"
+	],
+	"tag": [
+		"execution",
+		"source code",
+		"transaction"
+	],
 	"title": "Transactional lock-free execution of lock-based programs",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,6 +1,10 @@
 {
-	"author": ["Rüdiger Ehlers", "Martin Lange"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Rüdiger Ehlers",
+		"Martin Lange"
+	],
+	"booktitle": "Proceedings of the Seventh International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2014",
 	"dblpkey": "conf/cade/EhlersL14",
 	"doi": "10.1007/978-3-319-08587-6_27",
@@ -10,11 +14,30 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "tool", "that", "increment", "approxim", "finit", "satisfi", "in", "full", "interv", "tempor", "logic"],
-	"tag": ["approximate", "finite", "incremental", "logic", "satisfiability"],
+	"stemmed": [
+		"a",
+		"tool",
+		"that",
+		"increment",
+		"approxim",
+		"finit",
+		"satisfi",
+		"in",
+		"full",
+		"interv",
+		"tempor",
+		"logic"
+	],
+	"tag": [
+		"approximate",
+		"finite",
+		"incremental",
+		"logic",
+		"satisfiability"
+	],
 	"title": "A Tool That Incrementally Approximates Finite Satisfiability in Full Interval Temporal Logic",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 8562,
+	"volume": "8562",
 	"year": 2014
 }

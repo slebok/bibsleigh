@@ -1,14 +1,35 @@
 {
-	"author": ["Weihua Zhang", "Xinglong Qian", "Ye Wang", "Binyu Zang", "Chuanqi Zhu"],
-	"booktitle": "LCTES",
+	"author": [
+		"Weihua Zhang",
+		"Xinglong Qian",
+		"Ye Wang",
+		"Binyu Zang",
+		"Chuanqi Zhu"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2006",
 	"dblpkey": "conf/lctrts/ZhangQWZZ06",
 	"doi": "10.1145/1134650.1134679",
 	"ee": "http://doi.acm.org/10.1145/1134650.1134679",
 	"pages": "199-208",
 	"publisher": "ACM",
-	"stemmed": ["optim", "compil", "for", "share", "memori", "multipl", "simd", "architectur"],
-	"tag": ["architecture", "compilation", "multi", "optimisation"],
+	"stemmed": [
+		"optim",
+		"compil",
+		"for",
+		"share",
+		"memori",
+		"multipl",
+		"simd",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"compilation",
+		"multi",
+		"optimisation"
+	],
 	"title": "Optimizing compiler for shared-memory multiple SIMD architecture",
 	"type": "inproceedings",
 	"venue": "LCTES",

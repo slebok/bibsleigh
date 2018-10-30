@@ -1,14 +1,34 @@
 {
-	"author": ["Vivy Suhendra", "Tulika Mitra"],
-	"booktitle": "DAC",
+	"author": [
+		"Vivy Suhendra",
+		"Tulika Mitra"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/SuhendraM08",
 	"doi": "10.1145/1391469.1391545",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391545",
 	"pages": "300-303",
 	"publisher": "ACM",
-	"stemmed": ["explor", "lock", "amp", "partit", "for", "predict", "share", "cach", "on", "multi", "core"],
-	"tag": ["clustering", "multi", "predict"],
+	"stemmed": [
+		"explor",
+		"lock",
+		"amp",
+		"partit",
+		"for",
+		"predict",
+		"share",
+		"cach",
+		"on",
+		"multi",
+		"core"
+	],
+	"tag": [
+		"clustering",
+		"multi",
+		"predict"
+	],
 	"title": "Exploring locking &amp; partitioning for predictable shared caches on multi-cores",
 	"type": "inproceedings",
 	"venue": "DAC",

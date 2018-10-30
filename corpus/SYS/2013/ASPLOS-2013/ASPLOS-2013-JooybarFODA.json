@@ -1,14 +1,32 @@
 {
-	"author": ["Hadi Jooybar", "Wilson W. L. Fung", "Mike O'Connor", "Joseph Devietti", "Tor M. Aamodt"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Hadi Jooybar",
+		"Wilson W. L. Fung",
+		"Mike O'Connor",
+		"Joseph Devietti",
+		"Tor M. Aamodt"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2013",
 	"dblpkey": "conf/asplos/JooybarFODA13",
 	"doi": "10.1145/2451116.2451118",
 	"ee": "http://doi.acm.org/10.1145/2451116.2451118",
 	"pages": "1-12",
 	"publisher": "ACM",
-	"stemmed": ["gpu", "det", "a", "determinist", "gpu", "architectur"],
-	"tag": ["architecture", "gpu", "named"],
+	"stemmed": [
+		"gpu",
+		"det",
+		"a",
+		"determinist",
+		"gpu",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"gpu",
+		"named"
+	],
 	"title": "GPUDet: a deterministic GPU architecture",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

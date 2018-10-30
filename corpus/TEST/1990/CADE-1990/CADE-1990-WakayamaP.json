@@ -1,6 +1,10 @@
 {
-	"author": ["Toshiro Wakayama", "T. H. Payne"],
-	"booktitle": "CADE",
+	"author": [
+		"Toshiro Wakayama",
+		"T. H. Payne"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/WakayamaP90",
 	"doi": "10.1007/3-540-52885-7_81",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["case", "free", "program", "an", "abstract", "of", "definit", "horn", "program"],
-	"tag": ["abstraction", "source code"],
+	"stemmed": [
+		"case",
+		"free",
+		"program",
+		"an",
+		"abstract",
+		"of",
+		"definit",
+		"horn",
+		"program"
+	],
+	"tag": [
+		"abstraction",
+		"source code"
+	],
 	"title": "Case-Free Programs: An Abstraction of Definite Horn Programs",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

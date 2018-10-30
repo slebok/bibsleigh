@@ -1,6 +1,10 @@
 {
-	"author": ["Chang An", "Henry S. Baird"],
-	"booktitle": "DRR",
+	"author": [
+		"Chang An",
+		"Henry S. Baird"
+	],
+	"booktitle": "Proceedings of the 18th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2011",
 	"dblpkey": "conf/drr/AnB11",
 	"doi": "10.1117/12.876706",
@@ -8,11 +12,19 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["high", "recal", "document", "content", "extract"],
-	"tag": ["documentation"],
+	"stemmed": [
+		"high",
+		"recal",
+		"document",
+		"content",
+		"extract"
+	],
+	"tag": [
+		"documentation"
+	],
 	"title": "High recall document content extraction",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7874,
+	"volume": "7874",
 	"year": 2011
 }

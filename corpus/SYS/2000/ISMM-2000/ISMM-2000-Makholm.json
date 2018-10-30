@@ -1,14 +1,26 @@
 {
 	"author": "Henning Makholm",
-	"booktitle": "ISMM",
+	"booktitle": "Proceedings of the Second International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2000",
 	"dblpkey": "conf/iwmm/Makholm00",
 	"doi": "10.1145/362422.362434",
 	"ee": "http://doi.acm.org/10.1145/362422.362434",
 	"pages": "25-34",
 	"publisher": "ACM",
-	"stemmed": ["a", "region", "base", "memori", "manag", "for", "prolog"],
-	"tag": ["memory management", "prolog"],
+	"stemmed": [
+		"a",
+		"region",
+		"base",
+		"memori",
+		"manag",
+		"for",
+		"prolog"
+	],
+	"tag": [
+		"memory management",
+		"prolog"
+	],
 	"title": "A Region-Based Memory Manager for Prolog",
 	"type": "inproceedings",
 	"venue": "ISMM",

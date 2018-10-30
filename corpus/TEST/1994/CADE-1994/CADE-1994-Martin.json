@@ -1,6 +1,7 @@
 {
 	"author": "Ursula Martin",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/Martin94",
 	"doi": "10.1007/3-540-58156-1_31",
@@ -10,11 +11,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["termin", "geometri", "and", "invari"],
-	"tag": ["geometry", "invariant", "termination"],
+	"stemmed": [
+		"termin",
+		"geometri",
+		"and",
+		"invari"
+	],
+	"tag": [
+		"geometry",
+		"invariant",
+		"termination"
+	],
 	"title": "Termination, Geometry and Invariants",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

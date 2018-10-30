@@ -1,6 +1,12 @@
 {
-	"author": ["Bernhard Beckert", "Reiner Hähnle", "Peter Oel", "Martin Sulzmann"],
-	"booktitle": "CADE",
+	"author": [
+		"Bernhard Beckert",
+		"Reiner Hähnle",
+		"Peter Oel",
+		"Martin Sulzmann"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/BeckertHOS96",
 	"doi": "10.1007/3-540-61511-3_95",
@@ -10,11 +16,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "tableau", "base", "theorem", "prover", "tap", "version"],
-	"tag": ["proving", "theorem proving"],
+	"stemmed": [
+		"the",
+		"tableau",
+		"base",
+		"theorem",
+		"prover",
+		"tap",
+		"version"
+	],
+	"tag": [
+		"proving",
+		"theorem proving"
+	],
 	"title": "The Tableau-based Theorem Prover 3TAP Version 4.0",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

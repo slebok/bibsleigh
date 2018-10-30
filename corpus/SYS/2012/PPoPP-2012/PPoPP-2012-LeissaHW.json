@@ -1,14 +1,31 @@
 {
-	"author": ["Roland Leißa", "Sebastian Hack", "Ingo Wald"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Roland Leißa",
+		"Sebastian Hack",
+		"Ingo Wald"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/LeissaHW12",
 	"doi": "10.1145/2145816.2145825",
 	"ee": "http://doi.acm.org/10.1145/2145816.2145825",
 	"pages": "65-74",
 	"publisher": "ACM",
-	"stemmed": ["extend", "a", "c", "like", "languag", "for", "portabl", "simd", "program"],
-	"tag": ["programming"],
+	"stemmed": [
+		"extend",
+		"a",
+		"c",
+		"like",
+		"languag",
+		"for",
+		"portabl",
+		"simd",
+		"program"
+	],
+	"tag": [
+		"programming"
+	],
 	"title": "Extending a C-like language for portable SIMD programming",
 	"type": "inproceedings",
 	"venue": "PPoPP",

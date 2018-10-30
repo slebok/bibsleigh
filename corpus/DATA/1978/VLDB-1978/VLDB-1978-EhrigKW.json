@@ -1,15 +1,46 @@
 {
-	"author": ["Hartmut Ehrig", "Hans-Jörg Kreowski", "Herbert Weber"],
-	"booktitle": "VLDB",
+	"author": [
+		"Hartmut Ehrig",
+		"Hans-Jörg Kreowski",
+		"Herbert Weber"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB78/P427.PDF",
-	"cite": ["...", "journals/cacm/Codd70", "...", "conf/icalp/EhrigKP78", "...", "journals/cacm/Guttag77", "...", "journals/cacm/Mills75", "conf/sigmod/PaoliniP77", "conf/stoc/ThatcherWW78", "...", "conf/vldb/Weber78", "..."],
+	"cite": [
+		"...",
+		"journals/cacm/Codd70",
+		"...",
+		"conf/icalp/EhrigKP78",
+		"...",
+		"journals/cacm/Guttag77",
+		"...",
+		"journals/cacm/Mills75",
+		"conf/sigmod/PaoliniP77",
+		"conf/stoc/ThatcherWW78",
+		"...",
+		"conf/vldb/Weber78",
+		"..."
+	],
 	"crossref": "conf/vldb/78",
 	"dblpkey": "conf/vldb/EhrigKW78",
 	"pages": "427-440",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["algebra", "specif", "scheme", "for", "data", "base", "system"],
-	"tag": ["algebra", "database", "specification"],
+	"stemmed": [
+		"algebra",
+		"specif",
+		"scheme",
+		"for",
+		"data",
+		"base",
+		"system"
+	],
+	"tag": [
+		"algebra",
+		"database",
+		"specification"
+	],
 	"title": "Algebraic Specification Schemes for Data Base Systems",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,15 +1,43 @@
 {
-	"author": ["Henk Neefs", "Hans Vandierendonck", "Koenraad De Bosschere"],
-	"booktitle": "HPCA",
+	"author": [
+		"Henk Neefs",
+		"Hans Vandierendonck",
+		"Koenraad De Bosschere"
+	],
+	"booktitle": "Proceedings of the Sixth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2000",
 	"dblpkey": "conf/hpca/NeefsVB00",
 	"doi": "10.1109/HPCA.2000.824360",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2000.824360", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2000.824360"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2000.824360",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2000.824360"
+	],
 	"pages": "313-324",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "techniqu", "for", "high", "bandwidth", "and", "determinist", "low", "latenc", "load", "store", "access", "to", "multipl", "cach", "bank"],
-	"tag": ["latency", "multi"],
+	"stemmed": [
+		"a",
+		"techniqu",
+		"for",
+		"high",
+		"bandwidth",
+		"and",
+		"determinist",
+		"low",
+		"latenc",
+		"load",
+		"store",
+		"access",
+		"to",
+		"multipl",
+		"cach",
+		"bank"
+	],
+	"tag": [
+		"latency",
+		"multi"
+	],
 	"title": "A Technique for High Bandwidth and Deterministic Low Latency Load/Store Accesses to Multiple Cache Banks",
 	"type": "inproceedings",
 	"venue": "HPCA",

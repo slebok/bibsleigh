@@ -1,6 +1,10 @@
 {
-	"author": ["Pieter Hooimeijer", "Margus Veanes"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Pieter Hooimeijer",
+		"Margus Veanes"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2011",
 	"dblpkey": "conf/vmcai/HooimeijerV11",
 	"doi": "10.1007/978-3-642-18275-4_18",
@@ -10,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "evalu", "of", "automata", "algorithm", "for", "string", "analysi"],
-	"tag": ["algorithm", "analysis", "automaton", "evaluation", "string"],
+	"stemmed": [
+		"an",
+		"evalu",
+		"of",
+		"automata",
+		"algorithm",
+		"for",
+		"string",
+		"analysi"
+	],
+	"tag": [
+		"algorithm",
+		"analysis",
+		"automaton",
+		"evaluation",
+		"string"
+	],
 	"title": "An Evaluation of Automata Algorithms for String Analysis",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 6538,
+	"volume": "6538",
 	"year": 2011
 }

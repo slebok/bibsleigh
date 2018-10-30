@@ -1,6 +1,11 @@
 {
-	"author": ["James A. Behymer", "Robert A. Ogilive", "Alan G. Merten"],
-	"booktitle": "SIGMOD Workshop, Vol. 1",
+	"author": [
+		"James A. Behymer",
+		"Robert A. Ogilive",
+		"Alan G. Merten"
+	],
+	"booktitle": "Proceedings of the Fourth ACM-SIGFIDET Workshop on Data Description, Access and Control",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGFIDET74-1/P389.pdf",
 	"crossref": "conf/sigmod/74",
 	"dblpkey": "conf/sigmod/BehymerOM74",
@@ -8,8 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/800296.811522",
 	"pages": "389-417",
 	"publisher": "ACM",
-	"stemmed": ["analysi", "of", "index", "sequenti", "and", "direct", "access", "file", "organ"],
-	"tag": ["analysis"],
+	"stemmed": [
+		"analysi",
+		"of",
+		"index",
+		"sequenti",
+		"and",
+		"direct",
+		"access",
+		"file",
+		"organ"
+	],
+	"tag": [
+		"analysis"
+	],
 	"title": "Analysis of Indexed Sequential and Direct Access File Organizations",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

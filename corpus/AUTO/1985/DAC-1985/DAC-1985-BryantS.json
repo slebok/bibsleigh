@@ -1,14 +1,34 @@
 {
-	"author": ["Randal E. Bryant", "Michael Dd. Schuster"],
-	"booktitle": "DAC",
+	"author": [
+		"Randal E. Bryant",
+		"Michael Dd. Schuster"
+	],
+	"booktitle": "Proceedings of the 22nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1985",
 	"dblpkey": "conf/dac/BryantS85",
 	"doi": "10.1145/317825.317968",
 	"ee": "http://doi.acm.org/10.1145/317825.317968",
 	"pages": "715-719",
 	"publisher": "ACM",
-	"stemmed": ["perform", "evalu", "of", "fmossim", "a", "concurr", "switch", "level", "fault", "simul"],
-	"tag": ["concurrent", "evaluation", "fault", "performance"],
+	"stemmed": [
+		"perform",
+		"evalu",
+		"of",
+		"fmossim",
+		"a",
+		"concurr",
+		"switch",
+		"level",
+		"fault",
+		"simul"
+	],
+	"tag": [
+		"concurrent",
+		"evaluation",
+		"fault",
+		"performance"
+	],
 	"title": "Performance evaluation of FMOSSIM, a concurrent switch-level fault simulator",
 	"type": "inproceedings",
 	"venue": "DAC",

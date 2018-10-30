@@ -1,6 +1,11 @@
 {
-	"author": ["Jörg Henkel", "Tony Givargis", "Frank Vahid"],
-	"booktitle": "DATE",
+	"author": [
+		"Jörg Henkel",
+		"Tony Givargis",
+		"Frank Vahid"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/HenkeGV00",
 	"doi": "10.1109/DATE.2000.840292",
@@ -8,8 +13,26 @@
 	"pages": "333-338",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["fast", "cach", "and", "bus", "power", "estim", "for", "parameter", "system", "on", "a", "chip", "design"],
-	"tag": ["design", "estimation", "performance"],
+	"stemmed": [
+		"fast",
+		"cach",
+		"and",
+		"bus",
+		"power",
+		"estim",
+		"for",
+		"parameter",
+		"system",
+		"on",
+		"a",
+		"chip",
+		"design"
+	],
+	"tag": [
+		"design",
+		"estimation",
+		"performance"
+	],
 	"title": "Fast Cache and Bus Power Estimation for Parameterized System-on-a-Chip Design",
 	"type": "inproceedings",
 	"venue": "DATE",

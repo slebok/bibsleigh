@@ -1,6 +1,10 @@
 {
-	"author": ["Parag Agrawal", "Arvind Arasu", "Raghav Kaushik"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Parag Agrawal",
+		"Arvind Arasu",
+		"Raghav Kaushik"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/AgrawalAK10",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807267",
 	"pages": "927-938",
 	"publisher": "ACM",
-	"stemmed": ["on", "index", "error", "toler", "set", "contain"],
-	"tag": ["on the", "set"],
+	"stemmed": [
+		"on",
+		"index",
+		"error",
+		"toler",
+		"set",
+		"contain"
+	],
+	"tag": [
+		"on the",
+		"set"
+	],
 	"title": "On indexing error-tolerant set containment",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

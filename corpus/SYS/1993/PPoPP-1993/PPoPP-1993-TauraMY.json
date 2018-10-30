@@ -1,14 +1,38 @@
 {
-	"author": ["Kenjiro Taura", "Satoshi Matsuoka", "Akinori Yonezawa"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Kenjiro Taura",
+		"Satoshi Matsuoka",
+		"Akinori Yonezawa"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1993",
 	"dblpkey": "conf/ppopp/TauraMY93",
 	"doi": "10.1145/155332.155355",
 	"ee": "http://doi.acm.org/10.1145/155332.155355",
 	"pages": "218-228",
 	"publisher": "ACM",
-	"stemmed": ["an", "effici", "implement", "scheme", "of", "concurr", "object", "orient", "languag", "on", "stock", "multicomput"],
-	"tag": ["concurrent", "implementation", "multi", "object-oriented", "performance"],
+	"stemmed": [
+		"an",
+		"effici",
+		"implement",
+		"scheme",
+		"of",
+		"concurr",
+		"object",
+		"orient",
+		"languag",
+		"on",
+		"stock",
+		"multicomput"
+	],
+	"tag": [
+		"concurrent",
+		"implementation",
+		"multi",
+		"object-oriented",
+		"performance"
+	],
 	"title": "An Efficient Implementation Scheme of Concurrent Object-Oriented Languages on Stock Multicomputers",
 	"type": "inproceedings",
 	"venue": "PPoPP",

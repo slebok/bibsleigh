@@ -1,12 +1,27 @@
 {
 	"author": "Sanmay Das",
 	"booktitle": "Proceedings of the 18th International Conference on Machine Learning",
+	"booktitleshort": "ICML",
 	"crossref": "conf/icml/2001",
 	"dblpkey": "conf/icml/Das01",
 	"pages": "74-81",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["filter", "wrapper", "and", "a", "boost", "base", "hybrid", "for", "featur", "select"],
-	"tag": ["feature model", "hybrid"],
+	"stemmed": [
+		"filter",
+		"wrapper",
+		"and",
+		"a",
+		"boost",
+		"base",
+		"hybrid",
+		"for",
+		"featur",
+		"select"
+	],
+	"tag": [
+		"feature model",
+		"hybrid"
+	],
 	"title": "Filters, Wrappers and a Boosting-Based Hybrid for Feature Selection",
 	"type": "inproceedings",
 	"venue": "ICML",

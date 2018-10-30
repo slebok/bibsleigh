@@ -1,6 +1,7 @@
 {
 	"author": "Peretz Shoval",
 	"booktitle": "Proceedings of the Fourth International Conference on Information Storage and Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1981/P145.pdf",
 	"crossref": "conf/sigir/81",
 	"dblpkey": "conf/sigir/Shoval81",
@@ -8,8 +9,27 @@
 	"ee": "http://doi.acm.org/10.1145/511754.511775",
 	"pages": "145-149",
 	"publisher": "ACM",
-	"stemmed": ["expert", "consult", "system", "for", "a", "retriev", "data", "base", "with", "semant", "network", "of", "concept"],
-	"tag": ["concept", "network", "retrieval", "semantics"],
+	"stemmed": [
+		"expert",
+		"consult",
+		"system",
+		"for",
+		"a",
+		"retriev",
+		"data",
+		"base",
+		"with",
+		"semant",
+		"network",
+		"of",
+		"concept"
+	],
+	"tag": [
+		"concept",
+		"network",
+		"retrieval",
+		"semantics"
+	],
 	"title": "Expert/Consultation System for a Retrieval Data-Base with Semantic Network of Concepts",
 	"type": "inproceedings",
 	"venue": "SIGIR",

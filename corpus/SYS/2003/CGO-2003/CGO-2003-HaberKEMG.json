@@ -1,16 +1,38 @@
 {
-	"acmid": 776286,
-	"author": ["Gadi Haber", "Moshe Klausner", "Vadim Eisenberg", "Bilha Mendelson", "Maxim Gurevich"],
-	"booktitle": "CGO",
+	"acmid": "776286",
+	"author": [
+		"Gadi Haber",
+		"Moshe Klausner",
+		"Vadim Eisenberg",
+		"Bilha Mendelson",
+		"Maxim Gurevich"
+	],
+	"booktitle": "Proceedings of the First International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2003",
 	"dblpkey": "conf/cgo/HaberKEMG03",
 	"doi": "10.1109/CGO.2003.1191548",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2003.1191548", "http://doi.ieeecomputersociety.org/10.1109/CGO.2003.1191548", "http://dl.acm.org/citation.cfm?id=776286"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2003.1191548",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2003.1191548",
+		"http://dl.acm.org/citation.cfm?id=776286"
+	],
 	"pages": "228-240",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["optim", "opportun", "creat", "by", "global", "data", "reorder"],
-	"tag": ["optimisation", "order"],
+	"stemmed": [
+		"optim",
+		"opportun",
+		"creat",
+		"by",
+		"global",
+		"data",
+		"reorder"
+	],
+	"tag": [
+		"optimisation",
+		"order"
+	],
 	"title": "Optimization Opportunities Created by Global Data Reordering",
 	"type": "inproceedings",
 	"venue": "CGO",

@@ -1,14 +1,35 @@
 {
-	"author": ["Paul A. Griffin", "Witawas Srisa-an", "J. Morris Chang"],
-	"booktitle": "LCTES",
+	"author": [
+		"Paul A. Griffin",
+		"Witawas Srisa-an",
+		"J. Morris Chang"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2005",
 	"dblpkey": "conf/lctrts/GriffinSC05",
 	"doi": "10.1145/1070891.1065943",
 	"ee": "http://doi.acm.org/10.1145/1070891.1065943",
 	"pages": "230-238",
 	"publisher": "ACM",
-	"stemmed": ["an", "energi", "effici", "garbag", "collector", "for", "java", "embed", "devic"],
-	"tag": ["embedded", "energy", "garbage collection", "java", "performance"],
+	"stemmed": [
+		"an",
+		"energi",
+		"effici",
+		"garbag",
+		"collector",
+		"for",
+		"java",
+		"embed",
+		"devic"
+	],
+	"tag": [
+		"embedded",
+		"energy",
+		"garbage collection",
+		"java",
+		"performance"
+	],
 	"title": "An energy efficient garbage collector for java embedded devices",
 	"type": "inproceedings",
 	"venue": "LCTES",

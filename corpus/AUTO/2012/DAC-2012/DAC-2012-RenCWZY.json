@@ -1,14 +1,35 @@
 {
-	"author": ["Ling Ren", "Xiaoming Chen", "Yu Wang", "Chenxi Zhang", "Huazhong Yang"],
-	"booktitle": "DAC",
+	"author": [
+		"Ling Ren",
+		"Xiaoming Chen",
+		"Yu Wang",
+		"Chenxi Zhang",
+		"Huazhong Yang"
+	],
+	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/RenCWZY12",
 	"doi": "10.1145/2228360.2228565",
 	"ee": "http://doi.acm.org/10.1145/2228360.2228565",
 	"pages": "1125-1130",
 	"publisher": "ACM",
-	"stemmed": ["spars", "lu", "factor", "for", "parallel", "circuit", "simul", "on", "gpu"],
-	"tag": ["gpu", "parallel", "simulation"],
+	"stemmed": [
+		"spars",
+		"lu",
+		"factor",
+		"for",
+		"parallel",
+		"circuit",
+		"simul",
+		"on",
+		"gpu"
+	],
+	"tag": [
+		"gpu",
+		"parallel",
+		"simulation"
+	],
 	"title": "Sparse LU factorization for parallel circuit simulation on GPU",
 	"type": "inproceedings",
 	"venue": "DAC",

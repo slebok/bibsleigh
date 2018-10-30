@@ -1,6 +1,10 @@
 {
-	"author": ["Stefan Hendricx", "Luc J. M. Claesen"],
-	"booktitle": "DATE",
+	"author": [
+		"Stefan Hendricx",
+		"Luc J. M. Claesen"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/HendricxC99",
 	"doi": "10.1109/DATE.1999.761111",
@@ -8,7 +12,12 @@
 	"pages": "150-",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["formal", "verifi", "redund", "remov"],
+	"stemmed": [
+		"formal",
+		"verifi",
+		"redund",
+		"remov"
+	],
 	"title": "Formally Verified Redundancy Removal",
 	"type": "inproceedings",
 	"venue": "DATE",

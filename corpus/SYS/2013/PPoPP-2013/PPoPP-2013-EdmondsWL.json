@@ -1,14 +1,31 @@
 {
-	"author": ["Nick Edmonds", "Jeremiah Willcock", "Andrew Lumsdaine"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Nick Edmonds",
+		"Jeremiah Willcock",
+		"Andrew Lumsdaine"
+	],
+	"booktitle": "Proceedings of the 18th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2013",
 	"dblpkey": "conf/ppopp/EdmondsWL13",
 	"doi": "10.1145/2442516.2442549",
 	"ee": "http://doi.acm.org/10.1145/2442516.2442549",
 	"pages": "289-290",
 	"publisher": "ACM",
-	"stemmed": ["express", "graph", "algorithm", "use", "general", "activ", "messag"],
-	"tag": ["algorithm", "graph", "using"],
+	"stemmed": [
+		"express",
+		"graph",
+		"algorithm",
+		"use",
+		"general",
+		"activ",
+		"messag"
+	],
+	"tag": [
+		"algorithm",
+		"graph",
+		"using"
+	],
 	"title": "Expressing graph algorithms using generalized active messages",
 	"type": "inproceedings",
 	"venue": "PPoPP",

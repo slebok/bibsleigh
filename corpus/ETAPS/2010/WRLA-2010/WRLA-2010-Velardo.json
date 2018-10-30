@@ -1,6 +1,7 @@
 {
 	"author": "Fernando Rosa-Velardo",
-	"booktitle": "WRLA",
+	"booktitle": "Revised Selected Papers of the Eighth International Workshop on Rewriting Logic and its Applications",
+	"booktitleshort": "WRLA",
 	"crossref": "conf/wrla/2010",
 	"dblpkey": "conf/wrla/Velardo10",
 	"doi": "10.1007/978-3-642-16310-4_13",
@@ -10,11 +11,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["multiset", "rewrit", "a", "semant", "framework", "for", "concurr", "with", "name", "bind"],
-	"tag": ["concurrent", "framework", "multi", "semantics"],
+	"stemmed": [
+		"multiset",
+		"rewrit",
+		"a",
+		"semant",
+		"framework",
+		"for",
+		"concurr",
+		"with",
+		"name",
+		"bind"
+	],
+	"tag": [
+		"concurrent",
+		"framework",
+		"multi",
+		"semantics"
+	],
 	"title": "Multiset Rewriting: A Semantic Framework for Concurrency with Name Binding",
 	"type": "inproceedings",
 	"venue": "WRLA",
-	"volume": 6381,
+	"volume": "6381",
 	"year": 2010
 }

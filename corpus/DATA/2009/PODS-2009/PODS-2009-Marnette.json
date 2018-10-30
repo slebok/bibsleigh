@@ -1,14 +1,25 @@
 {
 	"author": "Bruno Marnette",
-	"booktitle": "PODS",
+	"booktitle": "Proceedings of the 28th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2009",
 	"dblpkey": "conf/pods/Marnette09",
 	"doi": "10.1145/1559795.1559799",
 	"ee": "http://doi.acm.org/10.1145/1559795.1559799",
 	"pages": "13-22",
 	"publisher": "ACM",
-	"stemmed": ["general", "schema", "map", "from", "termin", "to", "tractabl"],
-	"tag": ["termination"],
+	"stemmed": [
+		"general",
+		"schema",
+		"map",
+		"from",
+		"termin",
+		"to",
+		"tractabl"
+	],
+	"tag": [
+		"termination"
+	],
 	"title": "Generalized schema-mappings: from termination to tractability",
 	"type": "inproceedings",
 	"venue": "PODS",

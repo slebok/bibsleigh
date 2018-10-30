@@ -1,6 +1,10 @@
 {
-	"author": ["Duncan A. Buell", "Donald H. Kraft"],
+	"author": [
+		"Duncan A. Buell",
+		"Donald H. Kraft"
+	],
 	"booktitle": "Proceedings of the Fourth International Conference on Information Storage and Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1981/P056.pdf",
 	"crossref": "conf/sigir/81",
 	"dblpkey": "conf/sigir/BuellK81",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/511754.511762",
 	"pages": "56-62",
 	"publisher": "ACM",
-	"stemmed": ["perform", "measur", "in", "a", "fuzzi", "retriev", "environ"],
-	"tag": ["fuzzy", "metric", "performance", "retrieval"],
+	"stemmed": [
+		"perform",
+		"measur",
+		"in",
+		"a",
+		"fuzzi",
+		"retriev",
+		"environ"
+	],
+	"tag": [
+		"fuzzy",
+		"metric",
+		"performance",
+		"retrieval"
+	],
 	"title": "Performance Measurement in a Fuzzy Retrieval Environment",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,14 +1,36 @@
 {
-	"author": ["Susan J. Eggers", "Randy H. Katz"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Susan J. Eggers",
+		"Randy H. Katz"
+	],
+	"booktitle": "Proceedings of the Third International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1989",
 	"dblpkey": "conf/asplos/EggersK89",
 	"doi": "10.1145/70082.68206",
 	"ee": "http://doi.acm.org/10.1145/70082.68206",
 	"pages": "257-270",
 	"publisher": "ACM Press",
-	"stemmed": ["the", "effect", "of", "share", "on", "the", "cach", "and", "bus", "perform", "of", "parallel", "program"],
-	"tag": ["parallel", "performance", "source code"],
+	"stemmed": [
+		"the",
+		"effect",
+		"of",
+		"share",
+		"on",
+		"the",
+		"cach",
+		"and",
+		"bus",
+		"perform",
+		"of",
+		"parallel",
+		"program"
+	],
+	"tag": [
+		"parallel",
+		"performance",
+		"source code"
+	],
 	"title": "The Effect of Sharing on the Cache and Bus Performance of Parallel Programs",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

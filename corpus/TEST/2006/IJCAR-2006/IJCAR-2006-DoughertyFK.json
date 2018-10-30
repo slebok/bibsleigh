@@ -1,6 +1,11 @@
 {
-	"author": ["Daniel J. Dougherty", "Kathi Fisler", "Shriram Krishnamurthi"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Daniel J. Dougherty",
+		"Kathi Fisler",
+		"Shriram Krishnamurthi"
+	],
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/DoughertyFK06",
 	"doi": "10.1007/11814771_51",
@@ -10,11 +15,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["specifi", "and", "reason", "about", "dynam", "access", "control", "polici"],
-	"tag": ["policy", "reasoning", "specification"],
+	"stemmed": [
+		"specifi",
+		"and",
+		"reason",
+		"about",
+		"dynam",
+		"access",
+		"control",
+		"polici"
+	],
+	"tag": [
+		"policy",
+		"reasoning",
+		"specification"
+	],
 	"title": "Specifying and Reasoning About Dynamic Access-Control Policies",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

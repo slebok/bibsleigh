@@ -1,14 +1,39 @@
 {
-	"author": ["Jason Cong", "Chunyue Liu", "Glenn Reinman"],
-	"booktitle": "DAC",
+	"author": [
+		"Jason Cong",
+		"Chunyue Liu",
+		"Glenn Reinman"
+	],
+	"booktitle": "Proceedings of the 47th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2010",
 	"dblpkey": "conf/dac/CongLR10",
 	"doi": "10.1145/1837274.1837385",
 	"ee": "http://doi.acm.org/10.1145/1837274.1837385",
 	"pages": "443-448",
 	"publisher": "ACM",
-	"stemmed": ["ace", "applic", "specif", "cycl", "elimin", "and", "split", "for", "deadlock", "free", "rout", "on", "irregular", "network", "on", "chip"],
-	"tag": ["concurrent", "named"],
+	"stemmed": [
+		"ace",
+		"applic",
+		"specif",
+		"cycl",
+		"elimin",
+		"and",
+		"split",
+		"for",
+		"deadlock",
+		"free",
+		"rout",
+		"on",
+		"irregular",
+		"network",
+		"on",
+		"chip"
+	],
+	"tag": [
+		"concurrent",
+		"named"
+	],
 	"title": "ACES: application-specific cycle elimination and splitting for deadlock-free routing on irregular network-on-chip",
 	"type": "inproceedings",
 	"venue": "DAC",

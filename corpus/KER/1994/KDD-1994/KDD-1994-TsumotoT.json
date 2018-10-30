@@ -1,13 +1,34 @@
 {
-	"author": ["Shusaku Tsumoto", "Hiroshi Tanaka"],
-	"booktitle": "KDD Workshop",
+	"author": [
+		"Shusaku Tsumoto",
+		"Hiroshi Tanaka"
+	],
+	"booktitle": "Papers from the AAAI Workshop on Knowledge Discovery in Databases. Technical Report WS-94-03",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1994",
 	"dblpkey": "conf/kdd/TsumotoT94",
 	"pages": "121-132",
 	"publisher": "AAAI Press",
-	"stemmed": ["select", "of", "probabilist", "measur", "estim", "method", "base", "on", "recurs", "iter", "of", "resampl", "method"],
-	"tag": ["estimation", "probability", "recursion"],
+	"stemmed": [
+		"select",
+		"of",
+		"probabilist",
+		"measur",
+		"estim",
+		"method",
+		"base",
+		"on",
+		"recurs",
+		"iter",
+		"of",
+		"resampl",
+		"method"
+	],
+	"tag": [
+		"estimation",
+		"probability",
+		"recursion"
+	],
 	"title": "Selection of Probabilistic Measure Estimation Method Based on Recursive Iteration of Resampling Methods",
 	"type": "inproceedings",
 	"venue": "KDD",

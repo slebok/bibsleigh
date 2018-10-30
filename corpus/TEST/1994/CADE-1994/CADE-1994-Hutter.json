@@ -1,6 +1,7 @@
 {
 	"author": "Dieter Hutter",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/Hutter94",
 	"doi": "10.1007/3-540-58156-1_3",
@@ -10,11 +11,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["synthesi", "of", "induct", "order", "for", "exist", "proof"],
-	"tag": ["induction", "order", "proving", "synthesis"],
+	"stemmed": [
+		"synthesi",
+		"of",
+		"induct",
+		"order",
+		"for",
+		"exist",
+		"proof"
+	],
+	"tag": [
+		"induction",
+		"order",
+		"proving",
+		"synthesis"
+	],
 	"title": "Synthesis of Induction Orderings for Existence Proofs",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

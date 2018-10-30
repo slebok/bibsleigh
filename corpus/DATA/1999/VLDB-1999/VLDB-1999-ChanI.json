@@ -1,14 +1,43 @@
 {
-	"author": ["Chee Yong Chan", "Yannis E. Ioannidis"],
-	"booktitle": "VLDB",
-	"cite": ["conf/sigmod/ChanI98", "...", "...", "conf/icde/GeffnerAAS99", "conf/sigmod/HoAMS97", "journals/debu/JohnsonS97", "conf/vldb/Moerkotte98", "conf/sigmod/MumickQM97", "conf/sigmod/ONeilQ97", "conf/sigmod/RoussopoulosKR97", "...", "journals/debu/Sarawagi97", "conf/pods/SmithLCJ98", "conf/sigmod/VitterW99"],
+	"author": [
+		"Chee Yong Chan",
+		"Yannis E. Ioannidis"
+	],
+	"booktitle": "Proceedings of the 25th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/sigmod/ChanI98",
+		"...",
+		"...",
+		"conf/icde/GeffnerAAS99",
+		"conf/sigmod/HoAMS97",
+		"journals/debu/JohnsonS97",
+		"conf/vldb/Moerkotte98",
+		"conf/sigmod/MumickQM97",
+		"conf/sigmod/ONeilQ97",
+		"conf/sigmod/RoussopoulosKR97",
+		"...",
+		"journals/debu/Sarawagi97",
+		"conf/pods/SmithLCJ98",
+		"conf/sigmod/VitterW99"
+	],
 	"crossref": "conf/vldb/99",
 	"dblpkey": "conf/vldb/ChanI99",
 	"ee": "http://www.vldb.org/conf/1999/P63.pdf",
 	"pages": "675-686",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["hierarch", "prefix", "cube", "for", "rang", "sum", "queri"],
-	"tag": ["query"],
+	"stemmed": [
+		"hierarch",
+		"prefix",
+		"cube",
+		"for",
+		"rang",
+		"sum",
+		"queri"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Hierarchical Prefix Cubes for Range-Sum Queries",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,10 @@
 {
-	"author": ["Tie-Cheng Wang", "Allen Goldberg"],
-	"booktitle": "CADE",
+	"author": [
+		"Tie-Cheng Wang",
+		"Allen Goldberg"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/WangG94",
 	"doi": "10.1007/3-540-58156-1_70",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["kitp", "an", "autom", "infer", "system", "for", "program", "analysi"],
-	"tag": ["automation", "named", "program analysis"],
+	"stemmed": [
+		"kitp",
+		"an",
+		"autom",
+		"infer",
+		"system",
+		"for",
+		"program",
+		"analysi"
+	],
+	"tag": [
+		"automation",
+		"named",
+		"program analysis"
+	],
 	"title": "KITP-93: An Automated Inference System for Program Analysis",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

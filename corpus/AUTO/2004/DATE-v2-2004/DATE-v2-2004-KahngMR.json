@@ -1,6 +1,11 @@
 {
-	"author": ["Andrew B. Kahng", "Igor L. Markov", "Sherief Reda"],
-	"booktitle": "DATE",
+	"author": [
+		"Andrew B. Kahng",
+		"Igor L. Markov",
+		"Sherief Reda"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/KahngMR04",
 	"doi": "10.1109/DATE.2004.1269039",
@@ -8,8 +13,19 @@
 	"pages": "1098-1103",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["boost", "min", "cut", "placement", "with", "improv", "signal", "delay"],
-	"tag": ["named"],
+	"stemmed": [
+		"boost",
+		"min",
+		"cut",
+		"placement",
+		"with",
+		"improv",
+		"signal",
+		"delay"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "Boosting: Min-Cut Placement with Improved Signal Delay",
 	"type": "inproceedings",
 	"venue": "DATE",

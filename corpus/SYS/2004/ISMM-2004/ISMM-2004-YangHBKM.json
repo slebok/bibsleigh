@@ -1,14 +1,33 @@
 {
-	"author": ["Ting Yang", "Matthew Hertz", "Emery D. Berger", "Scott F. Kaplan", "J. Eliot B. Moss"],
-	"booktitle": "ISMM",
+	"author": [
+		"Ting Yang",
+		"Matthew Hertz",
+		"Emery D. Berger",
+		"Scott F. Kaplan",
+		"J. Eliot B. Moss"
+	],
+	"booktitle": "Proceedings of the Fourth International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2004",
 	"dblpkey": "conf/iwmm/YangHBKM04",
 	"doi": "10.1145/1029873.1029881",
 	"ee": "http://doi.acm.org/10.1145/1029873.1029881",
 	"pages": "61-72",
 	"publisher": "ACM",
-	"stemmed": ["automat", "heap", "size", "take", "real", "memori", "into", "account"],
-	"tag": ["automation", "memory management"],
+	"stemmed": [
+		"automat",
+		"heap",
+		"size",
+		"take",
+		"real",
+		"memori",
+		"into",
+		"account"
+	],
+	"tag": [
+		"automation",
+		"memory management"
+	],
 	"title": "Automatic heap sizing: taking real memory into account",
 	"type": "inproceedings",
 	"venue": "ISMM",

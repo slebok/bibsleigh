@@ -1,14 +1,29 @@
 {
 	"author": "David Keppel",
-	"booktitle": "ASPLOS",
+	"booktitle": "Proceedings of the Fourth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1991",
 	"dblpkey": "conf/asplos/Keppel91",
 	"doi": "10.1145/106972.106983",
 	"ee": "http://doi.acm.org/10.1145/106972.106983",
 	"pages": "86-95",
 	"publisher": "ACM Press",
-	"stemmed": ["a", "portabl", "interfac", "for", "on", "the", "fli", "instruct", "space", "modifict"],
-	"tag": ["interface", "on the fly"],
+	"stemmed": [
+		"a",
+		"portabl",
+		"interfac",
+		"for",
+		"on",
+		"the",
+		"fli",
+		"instruct",
+		"space",
+		"modifict"
+	],
+	"tag": [
+		"interface",
+		"on the fly"
+	],
 	"title": "A Portable Interface for On-the-Fly Instruction Space Modifiction",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

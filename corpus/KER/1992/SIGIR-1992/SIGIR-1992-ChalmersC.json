@@ -1,6 +1,10 @@
 {
-	"author": ["Matthew Chalmers", "Paul Chitson"],
+	"author": [
+		"Matthew Chalmers",
+		"Paul Chitson"
+	],
 	"booktitle": "Proceedings of the 15th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1992/P330.pdf",
 	"crossref": "conf/sigir/92",
 	"dblpkey": "conf/sigir/ChalmersC92",
@@ -8,8 +12,17 @@
 	"ee": "http://doi.acm.org/10.1145/133160.133215",
 	"pages": "330-337",
 	"publisher": "ACM",
-	"stemmed": ["bead", "explor", "in", "inform", "visual"],
-	"tag": ["named", "visualisation"],
+	"stemmed": [
+		"bead",
+		"explor",
+		"in",
+		"inform",
+		"visual"
+	],
+	"tag": [
+		"named",
+		"visualisation"
+	],
 	"title": "Bead: Explorations in Information Visualization",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,16 +1,38 @@
 {
-	"author": ["Alexandros Biliris", "Thomas A. Funkhouser", "William O'Connell", "Euthimios Panagos"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Alexandros Biliris",
+		"Thomas A. Funkhouser",
+		"William O'Connell",
+		"Euthimios Panagos"
+	],
+	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD96/P556.PDF",
-	"cite": ["conf/icde/BilirisP95", "..."],
+	"cite": [
+		"conf/icde/BilirisP95",
+		"..."
+	],
 	"crossref": "conf/sigmod/96",
 	"dblpkey": "conf/sigmod/BilirisFOP96",
 	"doi": "10.1145/233269.280362",
 	"ee": "http://doi.acm.org/10.1145/233269.280362",
-	"pages": 556,
+	"pages": "556",
 	"publisher": "ACM Press",
-	"stemmed": ["be", "ss", "storag", "support", "for", "interact", "visual", "system"],
-	"tag": ["interactive", "named", "visualisation"],
+	"stemmed": [
+		"be",
+		"ss",
+		"storag",
+		"support",
+		"for",
+		"interact",
+		"visual",
+		"system"
+	],
+	"tag": [
+		"interactive",
+		"named",
+		"visualisation"
+	],
 	"title": "BeSS: Storage Support for Interactive Visualization Systems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

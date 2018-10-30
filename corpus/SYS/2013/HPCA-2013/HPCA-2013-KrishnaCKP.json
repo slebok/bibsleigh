@@ -1,15 +1,36 @@
 {
-	"author": ["Tushar Krishna", "Chia-Hsin Owen Chen", "Woo-Cheol Kwon", "Li-Shiuan Peh"],
-	"booktitle": "HPCA",
+	"author": [
+		"Tushar Krishna",
+		"Chia-Hsin Owen Chen",
+		"Woo-Cheol Kwon",
+		"Li-Shiuan Peh"
+	],
+	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/KrishnaCKP13",
 	"doi": "10.1109/HPCA.2013.6522334",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522334", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522334"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2013.6522334",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522334"
+	],
 	"pages": "378-389",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["break", "the", "on", "chip", "latenc", "barrier", "use", "smart"],
-	"tag": ["latency", "using"],
+	"stemmed": [
+		"break",
+		"the",
+		"on",
+		"chip",
+		"latenc",
+		"barrier",
+		"use",
+		"smart"
+	],
+	"tag": [
+		"latency",
+		"using"
+	],
 	"title": "Breaking the on-chip latency barrier using SMART",
 	"type": "inproceedings",
 	"venue": "HPCA",

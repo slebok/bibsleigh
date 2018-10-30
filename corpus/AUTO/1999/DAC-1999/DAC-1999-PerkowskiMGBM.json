@@ -1,13 +1,35 @@
 {
-	"author": ["Marek A. Perkowski", "Rahul Malvi", "Stan Grygiel", "Michael Burns", "Alan Mishchenko"],
-	"booktitle": "DAC",
+	"author": [
+		"Marek A. Perkowski",
+		"Rahul Malvi",
+		"Stan Grygiel",
+		"Michael Burns",
+		"Alan Mishchenko"
+	],
+	"booktitle": "Proceedings of the 36th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/PerkowskiMGBM99",
 	"doi": "10.1145/309847.309918",
 	"ee": "http://doi.acm.org/10.1145/309847.309918",
 	"pages": "225-230",
 	"publisher": "ACM Press",
-	"stemmed": ["graph", "color", "algorithm", "for", "fast", "evalu", "of", "curti", "decomposit"],
-	"tag": ["algorithm", "evaluation", "graph", "performance"],
+	"stemmed": [
+		"graph",
+		"color",
+		"algorithm",
+		"for",
+		"fast",
+		"evalu",
+		"of",
+		"curti",
+		"decomposit"
+	],
+	"tag": [
+		"algorithm",
+		"evaluation",
+		"graph",
+		"performance"
+	],
 	"title": "Graph Coloring Algorithms for Fast Evaluation of Curtis Decompositions",
 	"type": "inproceedings",
 	"venue": "DAC",

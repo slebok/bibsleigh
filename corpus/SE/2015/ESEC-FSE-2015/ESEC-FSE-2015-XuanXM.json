@@ -1,14 +1,33 @@
 {
-	"author": ["Jifeng Xuan", "Xiaoyuan Xie", "Martin Monperrus"],
-	"booktitle": "ESEC/SIGSOFT FSE",
+	"author": [
+		"Jifeng Xuan",
+		"Xiaoyuan Xie",
+		"Martin Monperrus"
+	],
+	"booktitle": "Proceedings of the 10th Joint Meeting of the 15th European Software Engineering Conference and the 23rd Symposium on the Foundations of Software Engineering",
+	"booktitleshort": "ESEC/SIGSOFT FSE",
 	"crossref": "conf/sigsoft/2015",
 	"dblpkey": "conf/sigsoft/XuanXM15",
 	"doi": "10.1145/2786805.2803206",
 	"ee": "http://doi.acm.org/10.1145/2786805.2803206",
 	"pages": "910-913",
 	"publisher": "ACM",
-	"stemmed": ["crash", "reproduct", "via", "test", "case", "mutat", "let", "exist", "test", "case", "help"],
-	"tag": ["testing"],
+	"stemmed": [
+		"crash",
+		"reproduct",
+		"via",
+		"test",
+		"case",
+		"mutat",
+		"let",
+		"exist",
+		"test",
+		"case",
+		"help"
+	],
+	"tag": [
+		"testing"
+	],
 	"title": "Crash reproduction via test case mutation: let existing test cases help",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

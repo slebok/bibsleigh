@@ -1,12 +1,28 @@
 {
-	"author": ["Yanlei Diao", "Michael J. Franklin"],
-	"booktitle": "VLDB",
+	"author": [
+		"Yanlei Diao",
+		"Michael J. Franklin"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/DiaoF03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S09P02.pdf",
 	"pages": "261-272",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["queri", "process", "for", "high", "volum", "xml", "messag", "broker"],
-	"tag": ["query", "xml"],
+	"stemmed": [
+		"queri",
+		"process",
+		"for",
+		"high",
+		"volum",
+		"xml",
+		"messag",
+		"broker"
+	],
+	"tag": [
+		"query",
+		"xml"
+	],
 	"title": "Query Processing for High-Volume XML Message Brokering",
 	"type": "inproceedings",
 	"venue": "VLDB",

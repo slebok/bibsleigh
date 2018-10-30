@@ -1,6 +1,10 @@
 {
-	"author": ["Ferucio Laurentiu Tiplea", "Aurora Tiplea"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Ferucio Laurentiu Tiplea",
+		"Aurora Tiplea"
+	],
+	"booktitle": "Proceedings of the Third International Workshop on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2002",
 	"dblpkey": "conf/vmcai/TipleaT02",
 	"doi": "10.1007/3-540-47813-2_19",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "simul", "preorder", "for", "abstract", "of", "reactiv", "system"],
-	"tag": ["abstraction", "simulation"],
+	"stemmed": [
+		"a",
+		"simul",
+		"preorder",
+		"for",
+		"abstract",
+		"of",
+		"reactiv",
+		"system"
+	],
+	"tag": [
+		"abstraction",
+		"simulation"
+	],
 	"title": "A Simulation Preorder for Abstraction of Reactive Systems",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2294,
+	"volume": "2294",
 	"year": 2002
 }

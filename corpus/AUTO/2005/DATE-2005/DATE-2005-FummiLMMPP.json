@@ -1,6 +1,14 @@
 {
-	"author": ["Franco Fummi", "Mirko Loghi", "Stefano Martini", "Marco Monguzzi", "Giovanni Perbellini", "Massimo Poncino"],
-	"booktitle": "DATE",
+	"author": [
+		"Franco Fummi",
+		"Mirko Loghi",
+		"Stefano Martini",
+		"Marco Monguzzi",
+		"Giovanni Perbellini",
+		"Massimo Poncino"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/FummiLMMPP05",
 	"doi": "10.1109/DATE.2005.327",
@@ -8,8 +16,21 @@
 	"pages": "798-803",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["virtual", "hardwar", "prototyp", "through", "time", "hardwar", "softwar", "co", "simul"],
-	"tag": ["hardware", "prototype"],
+	"stemmed": [
+		"virtual",
+		"hardwar",
+		"prototyp",
+		"through",
+		"time",
+		"hardwar",
+		"softwar",
+		"co",
+		"simul"
+	],
+	"tag": [
+		"hardware",
+		"prototype"
+	],
 	"title": "Virtual Hardware Prototyping through Timed Hardware-Software Co-Simulation",
 	"type": "inproceedings",
 	"venue": "DATE",

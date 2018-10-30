@@ -1,6 +1,12 @@
 {
-	"author": ["Lei Ma", "Frank K. Soong", "Peng Liu", "Yi-Jian Wu"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Lei Ma",
+		"Frank K. Soong",
+		"Peng Liu",
+		"Yi-Jian Wu"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/MaSLW07",
 	"doi": "10.1109/ICDAR.2007.20",
@@ -8,8 +14,26 @@
 	"pages": "128-132",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "msd", "hmm", "approach", "to", "pen", "trajectori", "model", "for", "onlin", "handwrit", "recognit"],
-	"tag": ["approach", "modelling", "online", "recognition"],
+	"stemmed": [
+		"a",
+		"msd",
+		"hmm",
+		"approach",
+		"to",
+		"pen",
+		"trajectori",
+		"model",
+		"for",
+		"onlin",
+		"handwrit",
+		"recognit"
+	],
+	"tag": [
+		"approach",
+		"modelling",
+		"online",
+		"recognition"
+	],
 	"title": "A MSD-HMM Approach to Pen Trajectory Modeling for Online Handwriting Recognition",
 	"type": "inproceedings",
 	"venue": "ICDAR",

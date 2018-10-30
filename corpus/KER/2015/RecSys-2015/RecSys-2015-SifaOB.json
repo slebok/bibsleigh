@@ -1,14 +1,29 @@
 {
-	"author": ["Rafet Sifa", "César Ojeda", "Christian Bauckhage"],
-	"booktitle": "RecSys",
+	"author": [
+		"Rafet Sifa",
+		"César Ojeda",
+		"Christian Bauckhage"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2015",
 	"dblpkey": "conf/recsys/SifaOB15",
 	"doi": "10.1145/2792838.2799680",
 	"ee": "http://doi.acm.org/10.1145/2792838.2799680",
 	"pages": "321-324",
 	"publisher": "ACM",
-	"stemmed": ["user", "churn", "migrat", "analysi", "with", "dedicom"],
-	"tag": ["analysis", "migration"],
+	"stemmed": [
+		"user",
+		"churn",
+		"migrat",
+		"analysi",
+		"with",
+		"dedicom"
+	],
+	"tag": [
+		"analysis",
+		"migration"
+	],
 	"title": "User Churn Migration Analysis with DEDICOM",
 	"type": "inproceedings",
 	"venue": "RecSys",

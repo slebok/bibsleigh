@@ -1,14 +1,28 @@
 {
-	"author": ["Chunsheng Yang", "Sylvain Létourneau"],
-	"booktitle": "KDD",
+	"author": [
+		"Chunsheng Yang",
+		"Sylvain Létourneau"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2005",
 	"dblpkey": "conf/kdd/YangL05",
 	"doi": "10.1145/1081870.1081929",
 	"ee": "http://doi.acm.org/10.1145/1081870.1081929",
 	"pages": "516-525",
 	"publisher": "ACM",
-	"stemmed": ["learn", "to", "predict", "train", "wheel", "failur"],
-	"tag": ["learning", "predict"],
+	"stemmed": [
+		"learn",
+		"to",
+		"predict",
+		"train",
+		"wheel",
+		"failur"
+	],
+	"tag": [
+		"learning",
+		"predict"
+	],
 	"title": "Learning to predict train wheel failures",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,6 +1,9 @@
 {
-	"author": ["Anoop Gupta", "Andrew Tucker"],
-	"booktitle": "PPOPP/PPEALS",
+	"author": [
+		"Anoop Gupta",
+		"Andrew Tucker"
+	],
+	"booktitle": "Proceedings of the First Symposium on Parallel Programming: Experience with Applications, Languages and Systems",
 	"booktitleshort": "PPEALS",
 	"crossref": "conf/ppopp/1988",
 	"dblpkey": "conf/ppopp/GuptaT88",
@@ -8,8 +11,18 @@
 	"ee": "http://doi.acm.org/10.1145/62115.62135",
 	"pages": "212-221",
 	"publisher": "ACM",
-	"stemmed": ["exploit", "variabl", "grain", "parallel", "at", "runtim"],
-	"tag": ["parallel", "runtime"],
+	"stemmed": [
+		"exploit",
+		"variabl",
+		"grain",
+		"parallel",
+		"at",
+		"runtim"
+	],
+	"tag": [
+		"parallel",
+		"runtime"
+	],
 	"title": "Exploiting Variable Grain Parallelism at Runtime",
 	"type": "inproceedings",
 	"venue": "PPoPP",

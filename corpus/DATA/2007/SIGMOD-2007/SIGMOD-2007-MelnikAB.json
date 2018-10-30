@@ -1,6 +1,10 @@
 {
-	"author": ["Sergey Melnik", "Atul Adya", "Philip A. Bernstein"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Sergey Melnik",
+		"Atul Adya",
+		"Philip A. Bernstein"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/MelnikAB07",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247532",
 	"pages": "461-472",
 	"publisher": "ACM",
-	"stemmed": ["compil", "map", "to", "bridg", "applic", "and", "databas"],
-	"tag": ["compilation", "database"],
+	"stemmed": [
+		"compil",
+		"map",
+		"to",
+		"bridg",
+		"applic",
+		"and",
+		"databas"
+	],
+	"tag": [
+		"compilation",
+		"database"
+	],
 	"title": "Compiling mappings to bridge applications and databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,33 @@
 {
-	"author": ["Yifan Zhu", "Frank Müller"],
-	"booktitle": "LCTES",
+	"author": [
+		"Yifan Zhu",
+		"Frank Müller"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2005",
 	"dblpkey": "conf/lctrts/ZhuM05",
 	"doi": "10.1145/1070891.1065939",
 	"ee": "http://doi.acm.org/10.1145/1070891.1065939",
 	"pages": "203-212",
 	"publisher": "ACM",
-	"stemmed": ["feedback", "edf", "schedul", "exploit", "hardwar", "assist", "asynchron", "dynam", "voltag", "scale"],
-	"tag": ["feedback", "scalability", "scheduling"],
+	"stemmed": [
+		"feedback",
+		"edf",
+		"schedul",
+		"exploit",
+		"hardwar",
+		"assist",
+		"asynchron",
+		"dynam",
+		"voltag",
+		"scale"
+	],
+	"tag": [
+		"feedback",
+		"scalability",
+		"scheduling"
+	],
 	"title": "Feedback EDF scheduling exploiting hardware-assisted asynchronous dynamic voltage scaling",
 	"type": "inproceedings",
 	"venue": "LCTES",

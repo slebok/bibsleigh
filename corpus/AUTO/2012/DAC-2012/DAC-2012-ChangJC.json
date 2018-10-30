@@ -1,14 +1,34 @@
 {
-	"author": ["Hua-Yu Chang", "Iris Hui-Ru Jiang", "Yao-Wen Chang"],
-	"booktitle": "DAC",
+	"author": [
+		"Hua-Yu Chang",
+		"Iris Hui-Ru Jiang",
+		"Yao-Wen Chang"
+	],
+	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/ChangJC12",
 	"doi": "10.1145/2228360.2228505",
 	"ee": "http://doi.acm.org/10.1145/2228360.2228505",
 	"pages": "802-807",
 	"publisher": "ACM",
-	"stemmed": ["time", "eco", "optim", "use", "metal", "configur", "gate", "array", "spare", "cell"],
-	"tag": ["configuration management", "optimisation", "using"],
+	"stemmed": [
+		"time",
+		"eco",
+		"optim",
+		"use",
+		"metal",
+		"configur",
+		"gate",
+		"array",
+		"spare",
+		"cell"
+	],
+	"tag": [
+		"configuration management",
+		"optimisation",
+		"using"
+	],
 	"title": "Timing ECO optimization using metal-configurable gate-array spare cells",
 	"type": "inproceedings",
 	"venue": "DAC",

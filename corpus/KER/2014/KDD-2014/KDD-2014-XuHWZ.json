@@ -1,14 +1,27 @@
 {
-	"author": ["Zhixiang Eddie Xu", "Gao Huang", "Kilian Q. Weinberger", "Alice X. Zheng"],
-	"booktitle": "KDD",
+	"author": [
+		"Zhixiang Eddie Xu",
+		"Gao Huang",
+		"Kilian Q. Weinberger",
+		"Alice X. Zheng"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/XuHWZ14",
 	"doi": "10.1145/2623330.2623635",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623635",
 	"pages": "522-531",
 	"publisher": "ACM",
-	"stemmed": ["gradient", "boost", "featur", "select"],
-	"tag": ["feature model"],
+	"stemmed": [
+		"gradient",
+		"boost",
+		"featur",
+		"select"
+	],
+	"tag": [
+		"feature model"
+	],
 	"title": "Gradient boosted feature selection",
 	"type": "inproceedings",
 	"venue": "KDD",

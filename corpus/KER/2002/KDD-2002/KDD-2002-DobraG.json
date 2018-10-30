@@ -1,14 +1,31 @@
 {
-	"author": ["Alin Dobra", "Johannes Gehrke"],
-	"booktitle": "KDD",
+	"author": [
+		"Alin Dobra",
+		"Johannes Gehrke"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/DobraG02",
 	"doi": "10.1145/775047.775117",
 	"ee": "http://doi.acm.org/10.1145/775047.775117",
 	"pages": "481-487",
 	"publisher": "ACM",
-	"stemmed": ["secret", "a", "scalabl", "linear", "regress", "tree", "algorithm"],
-	"tag": ["algorithm", "linear", "named", "scalability"],
+	"stemmed": [
+		"secret",
+		"a",
+		"scalabl",
+		"linear",
+		"regress",
+		"tree",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"linear",
+		"named",
+		"scalability"
+	],
 	"title": "SECRET: a scalable linear regression tree algorithm",
 	"type": "inproceedings",
 	"venue": "KDD",

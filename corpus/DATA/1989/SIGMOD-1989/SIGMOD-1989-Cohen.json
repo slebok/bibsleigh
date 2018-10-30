@@ -1,15 +1,37 @@
 {
 	"author": "Donald Cohen",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 19th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD89/P225.PDF",
-	"cite": ["...", "conf/aaai/Cohen86", "conf/vldb/EswaranC75", "...", "conf/vldb/HammerM75", "conf/sigmod/HammerS78", "journals/acta/Nicolas82", "conf/vldb/QianW86", "...", "conf/sigmod/Stonebraker75", "..."],
+	"cite": [
+		"...",
+		"conf/aaai/Cohen86",
+		"conf/vldb/EswaranC75",
+		"...",
+		"conf/vldb/HammerM75",
+		"conf/sigmod/HammerS78",
+		"journals/acta/Nicolas82",
+		"conf/vldb/QianW86",
+		"...",
+		"conf/sigmod/Stonebraker75",
+		"..."
+	],
 	"crossref": "conf/sigmod/89",
 	"dblpkey": "conf/sigmod/Cohen89",
 	"doi": "10.1145/67544.66947",
 	"ee": "http://doi.acm.org/10.1145/67544.66947",
 	"pages": "225-234",
-	"stemmed": ["compil", "complex", "databas", "transit", "trigger"],
-	"tag": ["compilation", "database"],
+	"stemmed": [
+		"compil",
+		"complex",
+		"databas",
+		"transit",
+		"trigger"
+	],
+	"tag": [
+		"compilation",
+		"database"
+	],
 	"title": "Compiling Complex Database Transition Triggers",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

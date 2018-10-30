@@ -1,13 +1,36 @@
 {
-	"author": ["Yufei Tao", "Reynold Cheng", "Xiaokui Xiao", "Wang Kay Ngai", "Ben Kao", "Sunil Prabhakar"],
-	"booktitle": "VLDB",
+	"author": [
+		"Yufei Tao",
+		"Reynold Cheng",
+		"Xiaokui Xiao",
+		"Wang Kay Ngai",
+		"Ben Kao",
+		"Sunil Prabhakar"
+	],
+	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/TaoCXNKP05",
 	"ee": "http://www.vldb2005.org/program/paper/fri/p922-tao.pdf",
 	"pages": "922-933",
 	"publisher": "ACM",
-	"stemmed": ["index", "multi", "dimension", "uncertain", "data", "with", "arbitrari", "probabl", "densiti", "function"],
-	"tag": ["multi", "nondeterminism", "probability"],
+	"stemmed": [
+		"index",
+		"multi",
+		"dimension",
+		"uncertain",
+		"data",
+		"with",
+		"arbitrari",
+		"probabl",
+		"densiti",
+		"function"
+	],
+	"tag": [
+		"multi",
+		"nondeterminism",
+		"probability"
+	],
 	"title": "Indexing Multi-Dimensional Uncertain Data with Arbitrary Probability Density Functions",
 	"type": "inproceedings",
 	"venue": "VLDB",

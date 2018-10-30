@@ -1,6 +1,10 @@
 {
-	"author": ["Natalia Sidorova", "Martin Steffen"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Natalia Sidorova",
+		"Martin Steffen"
+	],
+	"booktitle": "Proceedings of the Third International Workshop on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2002",
 	"dblpkey": "conf/vmcai/SidorovaS02",
 	"doi": "10.1007/3-540-47813-2_6",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["synchron", "close", "of", "time", "sdl", "system", "for", "model", "check"],
-	"tag": ["model checking"],
+	"stemmed": [
+		"synchron",
+		"close",
+		"of",
+		"time",
+		"sdl",
+		"system",
+		"for",
+		"model",
+		"check"
+	],
+	"tag": [
+		"model checking"
+	],
 	"title": "Synchronous Closing of Timed SDL Systems for Model Checking",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2294,
+	"volume": "2294",
 	"year": 2002
 }

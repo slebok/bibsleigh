@@ -1,14 +1,30 @@
 {
-	"author": ["Chen Tian", "Changhui Lin", "Min Feng", "Rajiv Gupta"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Chen Tian",
+		"Changhui Lin",
+		"Min Feng",
+		"Rajiv Gupta"
+	],
+	"booktitle": "Proceedings of the 16th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2011",
 	"dblpkey": "conf/ppopp/TianLFG11",
 	"doi": "10.1145/1941553.1941580",
 	"ee": "http://doi.acm.org/10.1145/1941553.1941580",
 	"pages": "189-200",
 	"publisher": "ACM",
-	"stemmed": ["enhanc", "specul", "parallel", "via", "increment", "recoveri"],
-	"tag": ["incremental", "parallel"],
+	"stemmed": [
+		"enhanc",
+		"specul",
+		"parallel",
+		"via",
+		"increment",
+		"recoveri"
+	],
+	"tag": [
+		"incremental",
+		"parallel"
+	],
 	"title": "Enhanced speculative parallelization via incremental recovery",
 	"type": "inproceedings",
 	"venue": "PPoPP",

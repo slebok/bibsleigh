@@ -1,10 +1,31 @@
 {
-	"address": ["Limerick", "", "Ireland"],
-	"author": ["Kurt C. Wallnau", "Daniel Plakosh"],
+	"address": [
+		"Limerick",
+		"",
+		"Ireland"
+	],
+	"author": [
+		"Kurt C. Wallnau",
+		"Daniel Plakosh"
+	],
 	"booktitle": "Proceedings of the Third International Workshop on Component-Based Software Engineering: Reflection in Practice",
-	"pages": 15,
-	"stemmed": ["water", "bean", "a", "custom", "compon", "model", "and", "framework"],
-	"tag": ["component", "framework", "named"],
+	"booktitleshort": "CBSE",
+	"pages": "15",
+	"stemmed": [
+		"water",
+		"bean",
+		"a",
+		"custom",
+		"compon",
+		"model",
+		"and",
+		"framework"
+	],
+	"tag": [
+		"component",
+		"framework",
+		"named"
+	],
 	"title": "WaterBeans: A Custom Component Model and Framework",
 	"type": "inproceedings",
 	"venue": "CBSE",

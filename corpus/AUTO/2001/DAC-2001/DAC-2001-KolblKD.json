@@ -1,14 +1,25 @@
 {
-	"author": ["Alfred Kölbl", "James H. Kukula", "Robert F. Damiano"],
-	"booktitle": "DAC",
+	"author": [
+		"Alfred Kölbl",
+		"James H. Kukula",
+		"Robert F. Damiano"
+	],
+	"booktitle": "Proceedings of the 38th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2001",
 	"dblpkey": "conf/dac/KolblKD01",
 	"doi": "10.1145/378239.378278",
 	"ee": "http://doi.acm.org/10.1145/378239.378278",
 	"pages": "47-52",
 	"publisher": "ACM",
-	"stemmed": ["symbol", "rtl", "simul"],
-	"tag": ["simulation"],
+	"stemmed": [
+		"symbol",
+		"rtl",
+		"simul"
+	],
+	"tag": [
+		"simulation"
+	],
 	"title": "Symbolic RTL Simulation",
 	"type": "inproceedings",
 	"venue": "DAC",

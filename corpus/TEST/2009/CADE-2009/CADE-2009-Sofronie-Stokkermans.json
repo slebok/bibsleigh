@@ -1,6 +1,7 @@
 {
 	"author": "Viorica Sofronie-Stokkermans",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 22nd International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2009",
 	"dblpkey": "conf/cade/Sofronie-Stokkermans09",
 	"doi": "10.1007/978-3-642-02959-2_5",
@@ -10,11 +11,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["local", "result", "for", "certain", "extens", "of", "theori", "with", "bridg", "function"],
-	"tag": ["locality"],
+	"stemmed": [
+		"local",
+		"result",
+		"for",
+		"certain",
+		"extens",
+		"of",
+		"theori",
+		"with",
+		"bridg",
+		"function"
+	],
+	"tag": [
+		"locality"
+	],
 	"title": "Locality Results for Certain Extensions of Theories with Bridging Functions",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 5663,
+	"volume": "5663",
 	"year": 2009
 }

@@ -1,14 +1,33 @@
 {
-	"author": ["Wei Chu", "Martin Zinkevich", "Lihong Li", "Achint Thomas", "Belle L. Tseng"],
-	"booktitle": "KDD",
+	"author": [
+		"Wei Chu",
+		"Martin Zinkevich",
+		"Lihong Li",
+		"Achint Thomas",
+		"Belle L. Tseng"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/ChuZLTT11",
 	"doi": "10.1145/2020408.2020444",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020444",
 	"pages": "195-203",
 	"publisher": "ACM",
-	"stemmed": ["unbias", "onlin", "activ", "learn", "in", "data", "stream"],
-	"tag": ["data type", "learning", "online"],
+	"stemmed": [
+		"unbias",
+		"onlin",
+		"activ",
+		"learn",
+		"in",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"data type",
+		"learning",
+		"online"
+	],
 	"title": "Unbiased online active learning in data streams",
 	"type": "inproceedings",
 	"venue": "KDD",

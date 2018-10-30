@@ -1,13 +1,33 @@
 {
-	"author": ["David S. Johnson", "Shankar Krishnan", "Jatin Chhugani", "Subodh Kumar", "Suresh Venkatasubramanian"],
-	"booktitle": "VLDB",
+	"author": [
+		"David S. Johnson",
+		"Shankar Krishnan",
+		"Jatin Chhugani",
+		"Subodh Kumar",
+		"Suresh Venkatasubramanian"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/JohnsonKCKV04",
 	"ee": "http://www.vldb.org/conf/2004/RS1P1.PDF",
 	"pages": "13-23",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["compress", "larg", "boolean", "matric", "use", "reorder", "techniqu"],
-	"tag": ["matrix", "order", "scalability", "using"],
+	"stemmed": [
+		"compress",
+		"larg",
+		"boolean",
+		"matric",
+		"use",
+		"reorder",
+		"techniqu"
+	],
+	"tag": [
+		"matrix",
+		"order",
+		"scalability",
+		"using"
+	],
 	"title": "Compressing Large Boolean Matrices using Reordering Techniques",
 	"type": "inproceedings",
 	"venue": "VLDB",

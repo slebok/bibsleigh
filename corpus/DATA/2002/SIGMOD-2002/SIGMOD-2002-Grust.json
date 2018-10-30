@@ -1,6 +1,6 @@
 {
 	"author": "Torsten Grust",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/Grust02",
@@ -8,8 +8,16 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564705",
 	"pages": "109-120",
 	"publisher": "ACM",
-	"stemmed": ["acceler", "x", "path", "locat", "step"],
-	"tag": ["xpath"],
+	"stemmed": [
+		"acceler",
+		"x",
+		"path",
+		"locat",
+		"step"
+	],
+	"tag": [
+		"xpath"
+	],
 	"title": "Accelerating XPath location steps",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

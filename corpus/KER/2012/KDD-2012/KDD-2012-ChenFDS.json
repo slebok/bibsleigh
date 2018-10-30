@@ -1,14 +1,36 @@
 {
-	"author": ["Rui Chen", "Benjamin C. M. Fung", "Bipin C. Desai", "Nériah M. Sossou"],
-	"booktitle": "KDD",
+	"author": [
+		"Rui Chen",
+		"Benjamin C. M. Fung",
+		"Bipin C. Desai",
+		"Nériah M. Sossou"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/ChenFDS12",
 	"doi": "10.1145/2339530.2339564",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339564",
 	"pages": "213-221",
 	"publisher": "ACM",
-	"stemmed": ["differenti", "privat", "transit", "data", "public", "a", "case", "studi", "on", "the", "montreal", "transport", "system"],
-	"tag": ["case study"],
+	"stemmed": [
+		"differenti",
+		"privat",
+		"transit",
+		"data",
+		"public",
+		"a",
+		"case",
+		"studi",
+		"on",
+		"the",
+		"montreal",
+		"transport",
+		"system"
+	],
+	"tag": [
+		"case study"
+	],
 	"title": "Differentially private transit data publication: a case study on the montreal transportation system",
 	"type": "inproceedings",
 	"venue": "KDD",

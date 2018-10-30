@@ -1,6 +1,7 @@
 {
 	"author": "Rolf Socher",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/Socher88",
 	"doi": "10.1007/BFb0012858",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "subsumpt", "algorithm", "base", "on", "characterist", "matric"],
-	"tag": ["algorithm", "matrix"],
+	"stemmed": [
+		"a",
+		"subsumpt",
+		"algorithm",
+		"base",
+		"on",
+		"characterist",
+		"matric"
+	],
+	"tag": [
+		"algorithm",
+		"matrix"
+	],
 	"title": "A Subsumption Algorithm Based on Characteristic Matrices",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

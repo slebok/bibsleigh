@@ -1,14 +1,42 @@
 {
-	"author": ["Yehudit Mond", "Yoav Raz"],
-	"booktitle": "VLDB",
-	"cite": ["journals/acta/BayerS77", "conf/focs/GuibasS78", "...", "...", "books/aw/Knuth73", "...", "...", "...", "journals/ipl/Samadi76"],
+	"author": [
+		"Yehudit Mond",
+		"Yoav Raz"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/acta/BayerS77",
+		"conf/focs/GuibasS78",
+		"...",
+		"...",
+		"books/aw/Knuth73",
+		"...",
+		"...",
+		"...",
+		"journals/ipl/Samadi76"
+	],
 	"crossref": "conf/vldb/85",
 	"dblpkey": "conf/vldb/MondR85",
 	"ee": "http://www.vldb.org/conf/1985/P331.PDF",
 	"pages": "331-334",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["concurr", "control", "in", "b", "tree", "databas", "use", "preparatori", "oper"],
-	"tag": ["concurrent", "database", "using"],
+	"stemmed": [
+		"concurr",
+		"control",
+		"in",
+		"b",
+		"tree",
+		"databas",
+		"use",
+		"preparatori",
+		"oper"
+	],
+	"tag": [
+		"concurrent",
+		"database",
+		"using"
+	],
 	"title": "Concurrency Control in B+-Trees Databases Using Preparatory Operations",
 	"type": "inproceedings",
 	"venue": "VLDB",

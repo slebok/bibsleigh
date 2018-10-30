@@ -1,13 +1,27 @@
 {
-	"author": ["Brian Lent", "Rakesh Agrawal", "Ramakrishnan Srikant"],
-	"booktitle": "KDD",
+	"author": [
+		"Brian Lent",
+		"Rakesh Agrawal",
+		"Ramakrishnan Srikant"
+	],
+	"booktitle": "Proceedings of the Third International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1997",
 	"dblpkey": "conf/kdd/LentAS97",
 	"ee": "http://www.aaai.org/Library/KDD/1997/kdd97-046.php",
 	"pages": "227-230",
 	"publisher": "AAAI Press",
-	"stemmed": ["discov", "trend", "in", "text", "databas"],
-	"tag": ["database", "roadmap"],
+	"stemmed": [
+		"discov",
+		"trend",
+		"in",
+		"text",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"roadmap"
+	],
 	"title": "Discovering Trends in Text Databases",
 	"type": "inproceedings",
 	"venue": "KDD",

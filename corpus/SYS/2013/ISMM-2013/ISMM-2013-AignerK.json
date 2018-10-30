@@ -1,14 +1,34 @@
 {
-	"author": ["Martin Aigner", "Christoph M. Kirsch"],
-	"booktitle": "ISMM",
+	"author": [
+		"Martin Aigner",
+		"Christoph M. Kirsch"
+	],
+	"booktitle": "Proceedings of the 12th International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2013",
 	"dblpkey": "conf/iwmm/AignerK13",
 	"doi": "10.1145/2464157.2464161",
 	"ee": "http://doi.acm.org/10.1145/2464157.2464161",
 	"pages": "75-84",
 	"publisher": "ACM",
-	"stemmed": ["acdc", "toward", "a", "univers", "mutat", "for", "benchmark", "heap", "manag", "system"],
-	"tag": ["benchmark", "metric", "named", "towards"],
+	"stemmed": [
+		"acdc",
+		"toward",
+		"a",
+		"univers",
+		"mutat",
+		"for",
+		"benchmark",
+		"heap",
+		"manag",
+		"system"
+	],
+	"tag": [
+		"benchmark",
+		"metric",
+		"named",
+		"towards"
+	],
 	"title": "ACDC: towards a universal mutator for benchmarking heap management systems",
 	"type": "inproceedings",
 	"venue": "ISMM",

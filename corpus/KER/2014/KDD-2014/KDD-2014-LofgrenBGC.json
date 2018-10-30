@@ -1,14 +1,37 @@
 {
-	"author": ["Peter Lofgren", "Siddhartha Banerjee", "Ashish Goel", "Seshadhri Comandur"],
-	"booktitle": "KDD",
+	"author": [
+		"Peter Lofgren",
+		"Siddhartha Banerjee",
+		"Ashish Goel",
+		"Seshadhri Comandur"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/LofgrenBGC14",
 	"doi": "10.1145/2623330.2623745",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623745",
 	"pages": "1436-1445",
 	"publisher": "ACM",
-	"stemmed": ["fast", "ppr", "scale", "person", "pagerank", "estim", "for", "larg", "graph"],
-	"tag": ["estimation", "graph", "named", "personalisation", "rank", "scalability"],
+	"stemmed": [
+		"fast",
+		"ppr",
+		"scale",
+		"person",
+		"pagerank",
+		"estim",
+		"for",
+		"larg",
+		"graph"
+	],
+	"tag": [
+		"estimation",
+		"graph",
+		"named",
+		"personalisation",
+		"rank",
+		"scalability"
+	],
 	"title": "FAST-PPR: scaling personalized pagerank estimation for large graphs",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,14 +1,39 @@
 {
-	"author": ["Mohammad Dashti", "Alexandra Fedorova", "Justin R. Funston", "Fabien Gaud", "Renaud Lachaize", "Baptiste Lepers", "Vivien Quéma", "Mark Roth"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Mohammad Dashti",
+		"Alexandra Fedorova",
+		"Justin R. Funston",
+		"Fabien Gaud",
+		"Renaud Lachaize",
+		"Baptiste Lepers",
+		"Vivien Quéma",
+		"Mark Roth"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2013",
 	"dblpkey": "conf/asplos/DashtiFFGLLQR13",
 	"doi": "10.1145/2451116.2451157",
 	"ee": "http://doi.acm.org/10.1145/2451116.2451157",
 	"pages": "381-394",
 	"publisher": "ACM",
-	"stemmed": ["traffic", "manag", "a", "holist", "approach", "to", "memori", "placement", "on", "numa", "system"],
-	"tag": ["approach", "memory management"],
+	"stemmed": [
+		"traffic",
+		"manag",
+		"a",
+		"holist",
+		"approach",
+		"to",
+		"memori",
+		"placement",
+		"on",
+		"numa",
+		"system"
+	],
+	"tag": [
+		"approach",
+		"memory management"
+	],
 	"title": "Traffic management: a holistic approach to memory placement on NUMA systems",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

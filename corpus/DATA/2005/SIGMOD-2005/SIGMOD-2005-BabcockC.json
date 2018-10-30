@@ -1,6 +1,9 @@
 {
-	"author": ["Brian Babcock", "Surajit Chaudhuri"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Brian Babcock",
+		"Surajit Chaudhuri"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/BabcockC05",
@@ -8,8 +11,24 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066172",
 	"pages": "119-130",
 	"publisher": "ACM",
-	"stemmed": ["toward", "a", "robust", "queri", "optim", "a", "principl", "and", "practic", "approach"],
-	"tag": ["approach", "query", "robust", "towards"],
+	"stemmed": [
+		"toward",
+		"a",
+		"robust",
+		"queri",
+		"optim",
+		"a",
+		"principl",
+		"and",
+		"practic",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"query",
+		"robust",
+		"towards"
+	],
 	"title": "Towards a Robust Query Optimizer: A Principled and Practical Approach",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

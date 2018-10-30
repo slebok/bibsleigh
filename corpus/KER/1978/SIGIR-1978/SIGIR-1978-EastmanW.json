@@ -1,6 +1,10 @@
 {
-	"author": ["Caroline M. Eastman", "Stephen F. Weiss"],
+	"author": [
+		"Caroline M. Eastman",
+		"Stephen F. Weiss"
+	],
 	"booktitle": "Proceedings of the ACM SIGIR International Conference on Information Storage and Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1978/P131.pdf",
 	"crossref": "conf/sigir/78",
 	"dblpkey": "conf/sigir/EastmanW78",
@@ -8,8 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/800096.803139",
 	"pages": "131-149",
 	"publisher": "ACM",
-	"stemmed": ["a", "tree", "algorithm", "for", "nearest", "neighbor", "search", "in", "document", "retriev", "system"],
-	"tag": ["algorithm", "documentation", "nearest neighbour", "retrieval"],
+	"stemmed": [
+		"a",
+		"tree",
+		"algorithm",
+		"for",
+		"nearest",
+		"neighbor",
+		"search",
+		"in",
+		"document",
+		"retriev",
+		"system"
+	],
+	"tag": [
+		"algorithm",
+		"documentation",
+		"nearest neighbour",
+		"retrieval"
+	],
 	"title": "A Tree Algorithm For Nearest Neighbor Searching In Document Retrieval Systems",
 	"type": "inproceedings",
 	"venue": "SIGIR",

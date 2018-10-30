@@ -1,6 +1,7 @@
 {
 	"author": "Kenneth L. McMillan",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the Eighth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2007",
 	"dblpkey": "conf/vmcai/McMillan07",
 	"doi": "10.1007/978-3-540-69738-1_6",
@@ -10,11 +11,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["interpol", "and", "symbol", "model", "check"],
-	"tag": ["model checking"],
+	"stemmed": [
+		"interpol",
+		"and",
+		"symbol",
+		"model",
+		"check"
+	],
+	"tag": [
+		"model checking"
+	],
 	"title": "Interpolants and Symbolic Model Checking",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 4349,
+	"volume": "4349",
 	"year": 2007
 }

@@ -1,16 +1,43 @@
 {
-	"author": ["Michael J. Carey", "David J. DeWitt", "Jeffrey F. Naughton"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Michael J. Carey",
+		"David J. DeWitt",
+		"Jeffrey F. Naughton"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD93/P012.PDF",
-	"cite": ["conf/edbt/AndersonBMPS90", "...", "journals/tods/CattellS92", "conf/oopsla/DuhlD88", "conf/vldb/DeWittFMV90", "...", "conf/sigmod/FranklinZTCD92", "journals/csur/GrayMBLLPPT81", "journals/spe/RichardsonC89", "conf/sigmod/RubensteinKC87", "conf/pos/SchuhCD90", "...", "conf/vldb/WhiteD92"],
+	"cite": [
+		"conf/edbt/AndersonBMPS90",
+		"...",
+		"journals/tods/CattellS92",
+		"conf/oopsla/DuhlD88",
+		"conf/vldb/DeWittFMV90",
+		"...",
+		"conf/sigmod/FranklinZTCD92",
+		"journals/csur/GrayMBLLPPT81",
+		"journals/spe/RichardsonC89",
+		"conf/sigmod/RubensteinKC87",
+		"conf/pos/SchuhCD90",
+		"...",
+		"conf/vldb/WhiteD92"
+	],
 	"crossref": "conf/sigmod/93",
 	"dblpkey": "conf/sigmod/CareyDN93",
 	"doi": "10.1145/170035.170041",
 	"ee": "http://doi.acm.org/10.1145/170035.170041",
 	"pages": "12-21",
 	"publisher": "ACM Press",
-	"stemmed": ["the", "oo", "benchmark"],
-	"tag": ["benchmark", "metric", "object-oriented"],
+	"stemmed": [
+		"the",
+		"oo",
+		"benchmark"
+	],
+	"tag": [
+		"benchmark",
+		"metric",
+		"object-oriented"
+	],
 	"title": "The oo7 Benchmark",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

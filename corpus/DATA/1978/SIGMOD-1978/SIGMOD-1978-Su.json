@@ -1,6 +1,7 @@
 {
 	"author": "Stanley Y. W. Su",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the Eighth ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD78/P157.PDF",
 	"crossref": "conf/sigmod/78",
 	"dblpkey": "conf/sigmod/Su78",
@@ -8,8 +9,13 @@
 	"ee": "http://doi.acm.org/10.1145/509252.509288",
 	"pages": "157-158",
 	"publisher": "ACM",
-	"stemmed": ["databas", "machin"],
-	"tag": ["database"],
+	"stemmed": [
+		"databas",
+		"machin"
+	],
+	"tag": [
+		"database"
+	],
 	"title": "Database Machines",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

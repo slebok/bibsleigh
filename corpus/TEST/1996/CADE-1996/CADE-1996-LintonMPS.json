@@ -1,6 +1,12 @@
 {
-	"author": ["Steve Linton", "Ursula Martin", "Péter Pröhle", "Duncan Shand"],
-	"booktitle": "CADE",
+	"author": [
+		"Steve Linton",
+		"Ursula Martin",
+		"Péter Pröhle",
+		"Duncan Shand"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/LintonMPS96",
 	"doi": "10.1007/3-540-61511-3_106",
@@ -10,11 +16,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["algebra", "and", "autom", "deduct"],
-	"tag": ["algebra", "automation", "deduction"],
+	"stemmed": [
+		"algebra",
+		"and",
+		"autom",
+		"deduct"
+	],
+	"tag": [
+		"algebra",
+		"automation",
+		"deduction"
+	],
 	"title": "Algebra and Automated Deduction",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

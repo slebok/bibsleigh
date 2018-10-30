@@ -1,15 +1,39 @@
 {
-	"author": ["Ravi K. Venkatesan", "Stephen Herr", "Eric Rotenberg"],
-	"booktitle": "HPCA",
+	"author": [
+		"Ravi K. Venkatesan",
+		"Stephen Herr",
+		"Eric Rotenberg"
+	],
+	"booktitle": "Proceedings of the 12th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2006",
 	"dblpkey": "conf/hpca/VenkatesanHR06",
 	"doi": "10.1109/HPCA.2006.1598122",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2006.1598122", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2006.1598122"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2006.1598122",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2006.1598122"
+	],
 	"pages": "155-165",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["retent", "awar", "placement", "in", "dram", "rapid", "softwar", "method", "for", "quasi", "non", "volatil", "dram"],
-	"tag": ["agile"],
+	"stemmed": [
+		"retent",
+		"awar",
+		"placement",
+		"in",
+		"dram",
+		"rapid",
+		"softwar",
+		"method",
+		"for",
+		"quasi",
+		"non",
+		"volatil",
+		"dram"
+	],
+	"tag": [
+		"agile"
+	],
 	"title": "Retention-aware placement in DRAM (RAPID): software methods for quasi-non-volatile DRAM",
 	"type": "inproceedings",
 	"venue": "HPCA",

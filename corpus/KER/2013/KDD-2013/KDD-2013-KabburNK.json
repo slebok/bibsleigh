@@ -1,14 +1,35 @@
 {
-	"author": ["Santosh Kabbur", "Xia Ning", "George Karypis"],
-	"booktitle": "KDD",
+	"author": [
+		"Santosh Kabbur",
+		"Xia Ning",
+		"George Karypis"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/KabburNK13",
 	"doi": "10.1145/2487575.2487589",
 	"ee": "http://doi.acm.org/10.1145/2487575.2487589",
 	"pages": "659-667",
 	"publisher": "ACM",
-	"stemmed": ["fism", "factor", "item", "similar", "model", "for", "top", "n", "recommend", "system"],
-	"tag": ["modelling", "named", "recommendation", "similarity"],
+	"stemmed": [
+		"fism",
+		"factor",
+		"item",
+		"similar",
+		"model",
+		"for",
+		"top",
+		"n",
+		"recommend",
+		"system"
+	],
+	"tag": [
+		"modelling",
+		"named",
+		"recommendation",
+		"similarity"
+	],
 	"title": "FISM: factored item similarity models for top-N recommender systems",
 	"type": "inproceedings",
 	"venue": "KDD",

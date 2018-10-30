@@ -1,14 +1,38 @@
 {
-	"author": ["Michael I. Gordon", "William Thies", "Michal Karczmarek", "Jasper Lin", "Ali S. Meli", "Andrew A. Lamb", "Chris Leger", "Jeremy Wong", "Henry Hoffmann", "David Maze", "Saman P. Amarasinghe"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Michael I. Gordon",
+		"William Thies",
+		"Michal Karczmarek",
+		"Jasper Lin",
+		"Ali S. Meli",
+		"Andrew A. Lamb",
+		"Chris Leger",
+		"Jeremy Wong",
+		"Henry Hoffmann",
+		"David Maze",
+		"Saman P. Amarasinghe"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2002",
 	"dblpkey": "conf/asplos/GordonTKLMLLWHMA02",
 	"doi": "10.1145/605397.605428",
 	"ee": "http://doi.acm.org/10.1145/605397.605428",
 	"pages": "291-303",
 	"publisher": "ACM Press",
-	"stemmed": ["a", "stream", "compil", "for", "communic", "expos", "architectur"],
-	"tag": ["architecture", "compilation"],
+	"stemmed": [
+		"a",
+		"stream",
+		"compil",
+		"for",
+		"communic",
+		"expos",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"compilation"
+	],
 	"title": "A stream compiler for communication-exposed architectures",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

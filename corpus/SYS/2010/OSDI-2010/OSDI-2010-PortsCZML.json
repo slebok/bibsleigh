@@ -1,13 +1,35 @@
 {
-	"author": ["Dan R. K. Ports", "Austin T. Clements", "Irene Zhang", "Samuel Madden", "Barbara Liskov"],
-	"booktitle": "OSDI",
+	"author": [
+		"Dan R. K. Ports",
+		"Austin T. Clements",
+		"Irene Zhang",
+		"Samuel Madden",
+		"Barbara Liskov"
+	],
+	"booktitle": "Proceedings of the Ninth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2010",
 	"dblpkey": "conf/osdi/PortsCZML10",
 	"ee": "http://www.usenix.org/events/osdi10/tech/full_papers/Ports.pdf",
 	"pages": "279-292",
 	"publisher": "USENIX Association",
-	"stemmed": ["transact", "consist", "and", "automat", "manag", "in", "an", "applic", "data", "cach"],
-	"tag": ["automation", "consistency", "transaction"],
+	"stemmed": [
+		"transact",
+		"consist",
+		"and",
+		"automat",
+		"manag",
+		"in",
+		"an",
+		"applic",
+		"data",
+		"cach"
+	],
+	"tag": [
+		"automation",
+		"consistency",
+		"transaction"
+	],
 	"title": "Transactional Consistency and Automatic Management in an Application Data Cache",
 	"type": "inproceedings",
 	"venue": "OSDI",

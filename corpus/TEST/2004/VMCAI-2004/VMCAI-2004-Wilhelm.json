@@ -1,6 +1,7 @@
 {
 	"author": "Reinhard Wilhelm",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the Fifth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2004",
 	"dblpkey": "conf/vmcai/Wilhelm04",
 	"doi": "10.1007/978-3-540-24622-0_25",
@@ -10,11 +11,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["whi", "ai", "ilp", "is", "good", "for", "wcet", "but", "mc", "is", "not", "nor", "ilp", "alon"],
-	"tag": ["why"],
+	"stemmed": [
+		"whi",
+		"ai",
+		"ilp",
+		"is",
+		"good",
+		"for",
+		"wcet",
+		"but",
+		"mc",
+		"is",
+		"not",
+		"nor",
+		"ilp",
+		"alon"
+	],
+	"tag": [
+		"why"
+	],
 	"title": "Why AI + ILP Is Good for WCET, but MC Is Not, Nor ILP Alone",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2937,
+	"volume": "2937",
 	"year": 2004
 }

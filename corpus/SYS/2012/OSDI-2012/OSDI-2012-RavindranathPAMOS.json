@@ -1,13 +1,36 @@
 {
-	"author": ["Lenin Ravindranath", "Jitendra Padhye", "Sharad Agarwal", "Ratul Mahajan", "Ian Obermiller", "Shahin Shayandeh"],
-	"booktitle": "OSDI",
+	"author": [
+		"Lenin Ravindranath",
+		"Jitendra Padhye",
+		"Sharad Agarwal",
+		"Ratul Mahajan",
+		"Ian Obermiller",
+		"Shahin Shayandeh"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2012",
 	"dblpkey": "conf/osdi/RavindranathPAMOS12",
 	"ee": "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/ravindranath",
 	"pages": "107-120",
 	"publisher": "USENIX Association",
-	"stemmed": ["app", "insight", "mobil", "app", "perform", "monitor", "in", "the", "wild"],
-	"tag": ["mobile", "monitoring", "named", "performance"],
+	"stemmed": [
+		"app",
+		"insight",
+		"mobil",
+		"app",
+		"perform",
+		"monitor",
+		"in",
+		"the",
+		"wild"
+	],
+	"tag": [
+		"mobile",
+		"monitoring",
+		"named",
+		"performance"
+	],
 	"title": "AppInsight: Mobile App Performance Monitoring in the Wild",
 	"type": "inproceedings",
 	"venue": "OSDI",

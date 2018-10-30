@@ -1,14 +1,39 @@
 {
-	"author": ["Christopher W. Fletcher", "Ling Ren", "Albert Kwon", "Marten van Dijk", "Srinivas Devadas"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Christopher W. Fletcher",
+		"Ling Ren",
+		"Albert Kwon",
+		"Marten van Dijk",
+		"Srinivas Devadas"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2015",
 	"dblpkey": "conf/asplos/FletcherRKDD15",
 	"doi": "10.1145/2694344.2694353",
 	"ee": "http://doi.acm.org/10.1145/2694344.2694353",
 	"pages": "103-116",
 	"publisher": "ACM",
-	"stemmed": ["freecurs", "oram", "near", "free", "recurs", "and", "integr", "verif", "for", "posit", "base", "oblivi", "ram"],
-	"tag": ["ram", "recursion", "verification"],
+	"stemmed": [
+		"freecurs",
+		"oram",
+		"near",
+		"free",
+		"recurs",
+		"and",
+		"integr",
+		"verif",
+		"for",
+		"posit",
+		"base",
+		"oblivi",
+		"ram"
+	],
+	"tag": [
+		"ram",
+		"recursion",
+		"verification"
+	],
 	"title": "Freecursive ORAM: [Nearly] Free Recursion and Integrity Verification for Position-based Oblivious RAM",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

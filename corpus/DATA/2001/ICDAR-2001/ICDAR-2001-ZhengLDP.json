@@ -1,15 +1,36 @@
 {
-	"author": ["Yefeng Zheng", "Changsong Liu", "Xiaoqing Ding", "Shiyan Pan"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Yefeng Zheng",
+		"Changsong Liu",
+		"Xiaoqing Ding",
+		"Shiyan Pan"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2001",
 	"dblpkey": "conf/icdar/ZhengLDP01",
 	"doi": "10.1109/ICDAR.2001.953880",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2001.953880", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953880"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2001.953880",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953880"
+	],
 	"pages": "699-703",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["form", "frame", "line", "detect", "with", "direct", "singl", "connect", "chain"],
-	"tag": ["detection"],
+	"stemmed": [
+		"form",
+		"frame",
+		"line",
+		"detect",
+		"with",
+		"direct",
+		"singl",
+		"connect",
+		"chain"
+	],
+	"tag": [
+		"detection"
+	],
 	"title": "Form Frame Line Detection with Directional Single-Connected Chain",
 	"type": "inproceedings",
 	"venue": "ICDAR",

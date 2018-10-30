@@ -1,6 +1,10 @@
 {
-	"author": ["Andrey Balmin", "Tim Kaldewey", "Sandeep Tata"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Andrey Balmin",
+		"Tim Kaldewey",
+		"Sandeep Tata"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/BalminKT12",
@@ -8,8 +12,17 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213938",
 	"pages": "705-708",
 	"publisher": "ACM",
-	"stemmed": ["clydesdal", "structur", "data", "process", "on", "hadoop"],
-	"tag": ["named"],
+	"stemmed": [
+		"clydesdal",
+		"structur",
+		"data",
+		"process",
+		"on",
+		"hadoop"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "Clydesdale: structured data processing on hadoop",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

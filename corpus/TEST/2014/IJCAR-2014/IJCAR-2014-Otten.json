@@ -1,6 +1,7 @@
 {
 	"author": "Jens Otten",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Seventh International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2014",
 	"dblpkey": "conf/cade/Otten14",
 	"doi": "10.1007/978-3-319-08587-6_20",
@@ -10,11 +11,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["mlean", "co", "p", "a", "connect", "prover", "for", "first", "order", "modal", "logic"],
-	"tag": ["first-order", "logic", "named", "proving"],
+	"stemmed": [
+		"mlean",
+		"co",
+		"p",
+		"a",
+		"connect",
+		"prover",
+		"for",
+		"first",
+		"order",
+		"modal",
+		"logic"
+	],
+	"tag": [
+		"first-order",
+		"logic",
+		"named",
+		"proving"
+	],
 	"title": "MleanCoP: A Connection Prover for First-Order Modal Logic",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 8562,
+	"volume": "8562",
 	"year": 2014
 }

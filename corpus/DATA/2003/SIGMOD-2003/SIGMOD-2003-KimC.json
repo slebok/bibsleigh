@@ -1,6 +1,9 @@
 {
-	"author": ["Deok-Hwan Kim", "Chin-Wan Chung"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Deok-Hwan Kim",
+		"Chin-Wan Chung"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/KimC03",
@@ -8,8 +11,28 @@
 	"ee": "http://doi.acm.org/10.1145/872757.872829",
 	"pages": "599-610",
 	"publisher": "ACM",
-	"stemmed": ["qcluster", "relev", "feedback", "use", "adapt", "cluster", "for", "content", "base", "imag", "retriev"],
-	"tag": ["adaptation", "clustering", "feedback", "image", "named", "retrieval", "using"],
+	"stemmed": [
+		"qcluster",
+		"relev",
+		"feedback",
+		"use",
+		"adapt",
+		"cluster",
+		"for",
+		"content",
+		"base",
+		"imag",
+		"retriev"
+	],
+	"tag": [
+		"adaptation",
+		"clustering",
+		"feedback",
+		"image",
+		"named",
+		"retrieval",
+		"using"
+	],
 	"title": "Qcluster: Relevance Feedback Using Adaptive Clustering for Content-Based Image Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

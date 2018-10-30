@@ -1,6 +1,7 @@
 {
 	"author": "Hubert Comon",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Comon86",
 	"doi": "10.1007/3-540-16780-3_85",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["suffici", "complet", "term", "rewrit", "system", "and", "anti", "unif"],
-	"tag": ["anti", "term rewriting"],
+	"stemmed": [
+		"suffici",
+		"complet",
+		"term",
+		"rewrit",
+		"system",
+		"and",
+		"anti",
+		"unif"
+	],
+	"tag": [
+		"anti",
+		"term rewriting"
+	],
 	"title": "Sufficient Completeness, Term Rewriting Systems and “Anti-Unification”",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

@@ -1,14 +1,35 @@
 {
-	"author": ["Martha Mercaldi", "Steven Swanson", "Andrew Petersen", "Andrew Putnam", "Andrew Schwerin", "Mark Oskin", "Susan J. Eggers"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Martha Mercaldi",
+		"Steven Swanson",
+		"Andrew Petersen",
+		"Andrew Putnam",
+		"Andrew Schwerin",
+		"Mark Oskin",
+		"Susan J. Eggers"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/MercaldiSPPSOE06",
 	"doi": "10.1145/1168857.1168876",
 	"ee": "http://doi.acm.org/10.1145/1168857.1168876",
 	"pages": "141-150",
 	"publisher": "ACM",
-	"stemmed": ["instruct", "schedul", "for", "a", "tile", "dataflow", "architectur"],
-	"tag": ["architecture", "data flow", "scheduling"],
+	"stemmed": [
+		"instruct",
+		"schedul",
+		"for",
+		"a",
+		"tile",
+		"dataflow",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"data flow",
+		"scheduling"
+	],
 	"title": "Instruction scheduling for a tiled dataflow architecture",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

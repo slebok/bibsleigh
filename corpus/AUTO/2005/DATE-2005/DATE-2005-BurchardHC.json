@@ -1,6 +1,11 @@
 {
-	"author": ["Artur Burchard", "Ewa Hekstra-Nowacka", "Atul Chauhan"],
-	"booktitle": "DATE",
+	"author": [
+		"Artur Burchard",
+		"Ewa Hekstra-Nowacka",
+		"Atul Chauhan"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/BurchardHC05",
 	"doi": "10.1109/DATE.2005.34",
@@ -8,8 +13,19 @@
 	"pages": "20-25",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "real", "time", "stream", "memori", "control"],
-	"tag": ["memory management", "realtime", "streaming"],
+	"stemmed": [
+		"a",
+		"real",
+		"time",
+		"stream",
+		"memori",
+		"control"
+	],
+	"tag": [
+		"memory management",
+		"realtime",
+		"streaming"
+	],
 	"title": "A Real-Time Streaming Memory Controller",
 	"type": "inproceedings",
 	"venue": "DATE",

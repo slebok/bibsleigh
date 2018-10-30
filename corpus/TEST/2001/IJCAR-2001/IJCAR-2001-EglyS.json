@@ -1,6 +1,10 @@
 {
-	"author": ["Uwe Egly", "Stephan Schmitt"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Uwe Egly",
+		"Stephan Schmitt"
+	],
+	"booktitle": "Proceedings of the First International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2001",
 	"dblpkey": "conf/cade/EglyS01",
 	"doi": "10.1007/3-540-45744-5_47",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["deriv", "modular", "program", "from", "short", "proof"],
-	"tag": ["composition", "proving", "source code"],
+	"stemmed": [
+		"deriv",
+		"modular",
+		"program",
+		"from",
+		"short",
+		"proof"
+	],
+	"tag": [
+		"composition",
+		"proving",
+		"source code"
+	],
 	"title": "Deriving Modular Programs from Short Proofs",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 2083,
+	"volume": "2083",
 	"year": 2001
 }

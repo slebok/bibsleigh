@@ -1,15 +1,47 @@
 {
-	"author": ["Stratos Idreos", "Manolis Koubarakis", "Christos Tryfonopoulos"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Stratos Idreos",
+		"Manolis Koubarakis",
+		"Christos Tryfonopoulos"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/IdreosKT04",
 	"doi": "10.1145/1007568.1007704",
-	"ee": ["http://doi.acm.org/10.1145/1007568.1007704", "http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/D-115.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1007568.1007704",
+		"http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/D-115.pdf"
+	],
 	"pages": "933-934",
 	"publisher": "ACM",
-	"stemmed": ["p", "p", "diet", "an", "extens", "p", "p", "servic", "that", "unifi", "ad", "hoc", "and", "continu", "queri", "in", "super", "peer", "network"],
-	"tag": ["ad hoc", "named", "network", "query"],
+	"stemmed": [
+		"p",
+		"p",
+		"diet",
+		"an",
+		"extens",
+		"p",
+		"p",
+		"servic",
+		"that",
+		"unifi",
+		"ad",
+		"hoc",
+		"and",
+		"continu",
+		"queri",
+		"in",
+		"super",
+		"peer",
+		"network"
+	],
+	"tag": [
+		"ad hoc",
+		"named",
+		"network",
+		"query"
+	],
 	"title": "P2P-DIET: An Extensible P2P Service that Unifies Ad-hoc and Continuous Querying in Super-Peer Networks",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

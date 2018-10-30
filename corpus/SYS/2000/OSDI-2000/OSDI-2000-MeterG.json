@@ -1,13 +1,25 @@
 {
-	"acmid": 1251237,
-	"author": ["Rodney Van Meter", "Minxi Gao"],
-	"booktitle": "OSDI",
+	"acmid": "1251237",
+	"author": [
+		"Rodney Van Meter",
+		"Minxi Gao"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2000",
 	"dblpkey": "conf/osdi/MeterG00",
 	"pages": "103-118",
 	"publisher": "USENIX Association",
-	"stemmed": ["latenc", "manag", "in", "storag", "system"],
-	"tag": ["latency"],
+	"stemmed": [
+		"latenc",
+		"manag",
+		"in",
+		"storag",
+		"system"
+	],
+	"tag": [
+		"latency"
+	],
 	"title": "Latency Management in Storage Systems",
 	"type": "inproceedings",
 	"venue": "OSDI",

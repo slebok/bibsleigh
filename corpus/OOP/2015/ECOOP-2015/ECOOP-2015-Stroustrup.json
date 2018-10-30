@@ -1,6 +1,7 @@
 {
 	"author": "Bjarne Stroustrup",
-	"booktitle": "ECOOP",
+	"booktitle": "Proceedings of the 29th European Conference on Object-Oriented Programming",
+	"booktitleshort": "ECOOP",
 	"crossref": "conf/ecoop/2015",
 	"dblpkey": "conf/ecoop/Stroustrup15",
 	"doi": "10.4230/LIPIcs.ECOOP.2015.1",
@@ -10,11 +11,23 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["object", "orient", "program", "without", "inherit", "invit", "talk"],
-	"tag": ["inheritance", "object-oriented", "programming"],
+	"stemmed": [
+		"object",
+		"orient",
+		"program",
+		"without",
+		"inherit",
+		"invit",
+		"talk"
+	],
+	"tag": [
+		"inheritance",
+		"object-oriented",
+		"programming"
+	],
 	"title": "Object-Oriented Programming without Inheritance (Invited Talk)",
 	"type": "inproceedings",
 	"venue": "ECOOP",
-	"volume": 37,
+	"volume": "37",
 	"year": 2015
 }

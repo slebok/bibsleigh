@@ -1,6 +1,11 @@
 {
-	"author": ["Marisa Luisa López-Vallejo", "Jesús Grajal", "Juan Carlos López"],
-	"booktitle": "DATE",
+	"author": [
+		"Marisa Luisa López-Vallejo",
+		"Jesús Grajal",
+		"Juan Carlos López"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/Lopez-VallejoGL00",
 	"doi": "10.1109/DATE.2000.840304",
@@ -8,8 +13,16 @@
 	"pages": "411-416",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["constraint", "driven", "system", "partit"],
-	"tag": ["clustering", "constraints"],
+	"stemmed": [
+		"constraint",
+		"driven",
+		"system",
+		"partit"
+	],
+	"tag": [
+		"clustering",
+		"constraints"
+	],
 	"title": "Constraint-Driven System Partitioning",
 	"type": "inproceedings",
 	"venue": "DATE",

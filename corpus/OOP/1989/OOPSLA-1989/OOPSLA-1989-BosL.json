@@ -1,6 +1,9 @@
 {
-	"author": ["Jan van den Bos", "Chris Laffra"],
-	"booktitle": "Proceedings of the Fourth Conference on Object-Oriented Programming: Systems, Languages, and Applications",
+	"author": [
+		"Jan van den Bos",
+		"Chris Laffra"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1989",
 	"dblpkey": "conf/oopsla/BosL89",
@@ -10,8 +13,20 @@
 	"isbn": "0-89791-333-7",
 	"pages": "95-102",
 	"publisher": "ACM",
-	"stemmed": ["procol", "a", "parallel", "object", "languag", "with", "protocol"],
-	"tag": ["named", "parallel", "protocol"],
+	"stemmed": [
+		"procol",
+		"a",
+		"parallel",
+		"object",
+		"languag",
+		"with",
+		"protocol"
+	],
+	"tag": [
+		"named",
+		"parallel",
+		"protocol"
+	],
 	"title": "PROCOL — A Parallel Object Language with Protocols",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

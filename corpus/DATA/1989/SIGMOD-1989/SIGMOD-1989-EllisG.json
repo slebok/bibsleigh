@@ -1,15 +1,43 @@
 {
-	"author": ["Clarence A. Ellis", "Simon J. Gibbs"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Clarence A. Ellis",
+		"Simon J. Gibbs"
+	],
+	"booktitle": "Proceedings of the 19th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD89/P399.PDF",
-	"cite": ["conf/vldb/BancilhonKK85", "books/aw/BernsteinHG87", "...", "...", "...", "...", "...", "...", "conf/popl/GreifSW86", "...", "journals/cacm/Lamport78", "...", "...", "...", "journals/cacm/StefikFBKLS87"],
+	"cite": [
+		"conf/vldb/BancilhonKK85",
+		"books/aw/BernsteinHG87",
+		"...",
+		"...",
+		"...",
+		"...",
+		"...",
+		"...",
+		"conf/popl/GreifSW86",
+		"...",
+		"journals/cacm/Lamport78",
+		"...",
+		"...",
+		"...",
+		"journals/cacm/StefikFBKLS87"
+	],
 	"crossref": "conf/sigmod/89",
 	"dblpkey": "conf/sigmod/EllisG89",
 	"doi": "10.1145/67544.66963",
 	"ee": "http://doi.acm.org/10.1145/67544.66963",
 	"pages": "399-407",
-	"stemmed": ["concurr", "control", "in", "groupwar", "system"],
-	"tag": ["concurrent"],
+	"stemmed": [
+		"concurr",
+		"control",
+		"in",
+		"groupwar",
+		"system"
+	],
+	"tag": [
+		"concurrent"
+	],
 	"title": "Concurrency Control in Groupware Systems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

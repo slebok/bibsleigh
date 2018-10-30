@@ -1,6 +1,15 @@
 {
-	"author": ["Ron Weiss", "Bienvenido Vélez", "Mark A. Sheldon", "Chanathip Namprempre", "Péter Szilágyi", "Andrzej Duda", "David K. Gifford"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Ron Weiss",
+		"Bienvenido Vélez",
+		"Mark A. Sheldon",
+		"Chanathip Namprempre",
+		"Péter Szilágyi",
+		"Andrzej Duda",
+		"David K. Gifford"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1996/P180.pdf",
 	"crossref": "conf/ht/96",
 	"dblpkey": "conf/ht/WeissVSNSDG96",
@@ -8,8 +17,27 @@
 	"ee": "http://doi.acm.org/10.1145/234828.234846",
 	"pages": "180-193",
 	"publisher": "ACM",
-	"stemmed": ["hy", "pursuit", "a", "hierarch", "network", "search", "engin", "that", "exploit", "content", "link", "hypertext", "cluster"],
-	"tag": ["clustering", "hypermedia", "named", "network"],
+	"stemmed": [
+		"hy",
+		"pursuit",
+		"a",
+		"hierarch",
+		"network",
+		"search",
+		"engin",
+		"that",
+		"exploit",
+		"content",
+		"link",
+		"hypertext",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"hypermedia",
+		"named",
+		"network"
+	],
 	"title": "HyPursuit: A Hierarchical Network Search Engine that Exploits Content-Link Hypertext Clustering",
 	"type": "inproceedings",
 	"venue": "HT",

@@ -1,14 +1,29 @@
 {
-	"acmid": 1164189,
-	"author": ["Khuzaima Daudjee", "Kenneth Salem"],
-	"booktitle": "VLDB",
+	"acmid": "1164189",
+	"author": [
+		"Khuzaima Daudjee",
+		"Kenneth Salem"
+	],
+	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
 	"dblpkey": "conf/vldb/DaudjeeS06",
 	"ee": "http://www.vldb.org/conf/2006/p715-daudjee.pdf",
 	"pages": "715-726",
 	"publisher": "ACM",
-	"stemmed": ["lazi", "databas", "replic", "with", "snapshot", "isol"],
-	"tag": ["database", "lazy evaluation", "replication"],
+	"stemmed": [
+		"lazi",
+		"databas",
+		"replic",
+		"with",
+		"snapshot",
+		"isol"
+	],
+	"tag": [
+		"database",
+		"lazy evaluation",
+		"replication"
+	],
 	"title": "Lazy Database Replication with Snapshot Isolation",
 	"type": "inproceedings",
 	"venue": "VLDB",

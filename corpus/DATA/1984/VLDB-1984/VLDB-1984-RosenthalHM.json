@@ -1,14 +1,40 @@
 {
-	"author": ["Arnon Rosenthal", "Sandra Heiler", "Frank Manola"],
-	"booktitle": "VLDB",
-	"cite": ["conf/popl/AhoU79", "journals/tods/Clemons81", "conf/sigmod/Guttman84", "..."],
+	"author": [
+		"Arnon Rosenthal",
+		"Sandra Heiler",
+		"Frank Manola"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/popl/AhoU79",
+		"journals/tods/Clemons81",
+		"conf/sigmod/Guttman84",
+		"..."
+	],
 	"crossref": "conf/vldb/84",
 	"dblpkey": "conf/vldb/RosenthalHM84",
 	"ee": "http://www.vldb.org/conf/1984/P363.PDF",
 	"pages": "363-370",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["an", "exampl", "of", "knowledg", "base", "queri", "process", "in", "a", "cad", "cam", "dbms"],
-	"tag": ["knowledge-based", "query"],
+	"stemmed": [
+		"an",
+		"exampl",
+		"of",
+		"knowledg",
+		"base",
+		"queri",
+		"process",
+		"in",
+		"a",
+		"cad",
+		"cam",
+		"dbms"
+	],
+	"tag": [
+		"knowledge-based",
+		"query"
+	],
 	"title": "An Example of Knowledge-Based Query Processing in a CAD/CAM DBMS",
 	"type": "inproceedings",
 	"venue": "VLDB",

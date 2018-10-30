@@ -1,6 +1,10 @@
 {
-	"author": ["Thomas Lundqvist", "Per Stenström"],
-	"booktitle": "LCTES",
+	"author": [
+		"Thomas Lundqvist",
+		"Per Stenström"
+	],
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/1998",
 	"dblpkey": "conf/lctrts/LundqvistS98",
 	"doi": "10.1007/BFb0057776",
@@ -10,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["integr", "path", "and", "time", "analysi", "use", "instruct", "level", "simul", "techniqu"],
-	"tag": ["analysis", "simulation", "using"],
+	"stemmed": [
+		"integr",
+		"path",
+		"and",
+		"time",
+		"analysi",
+		"use",
+		"instruct",
+		"level",
+		"simul",
+		"techniqu"
+	],
+	"tag": [
+		"analysis",
+		"simulation",
+		"using"
+	],
 	"title": "Integrating Path and Timing Analysis Using Instruction-Level Simulation Techniques",
 	"type": "inproceedings",
 	"venue": "LCTES",
-	"volume": 1474,
+	"volume": "1474",
 	"year": 1998
 }

@@ -1,6 +1,13 @@
 {
-	"author": ["Jiannan Wang", "Sanjay Krishnan", "Michael J. Franklin", "Ken Goldberg", "Tim Kraska", "Tova Milo"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jiannan Wang",
+		"Sanjay Krishnan",
+		"Michael J. Franklin",
+		"Ken Goldberg",
+		"Tim Kraska",
+		"Tova Milo"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/WangKFGKM14",
@@ -8,8 +15,27 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2610505",
 	"pages": "469-480",
 	"publisher": "ACM",
-	"stemmed": ["a", "sampl", "and", "clean", "framework", "for", "fast", "and", "accur", "queri", "process", "on", "dirti", "data"],
-	"tag": ["framework", "performance", "query"],
+	"stemmed": [
+		"a",
+		"sampl",
+		"and",
+		"clean",
+		"framework",
+		"for",
+		"fast",
+		"and",
+		"accur",
+		"queri",
+		"process",
+		"on",
+		"dirti",
+		"data"
+	],
+	"tag": [
+		"framework",
+		"performance",
+		"query"
+	],
 	"title": "A sample-and-clean framework for fast and accurate query processing on dirty data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,33 @@
 {
-	"author": ["Shunsuke Hirose", "Kenji Yamanishi", "Takayuki Nakata", "Ryohei Fujimaki"],
-	"booktitle": "KDD",
+	"author": [
+		"Shunsuke Hirose",
+		"Kenji Yamanishi",
+		"Takayuki Nakata",
+		"Ryohei Fujimaki"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/HiroseYNF09",
 	"doi": "10.1145/1557019.1557147",
 	"ee": "http://doi.acm.org/10.1145/1557019.1557147",
 	"pages": "1185-1194",
 	"publisher": "ACM",
-	"stemmed": ["network", "anomali", "detect", "base", "on", "eigen", "equat", "compress"],
-	"tag": ["detection", "equation", "network"],
+	"stemmed": [
+		"network",
+		"anomali",
+		"detect",
+		"base",
+		"on",
+		"eigen",
+		"equat",
+		"compress"
+	],
+	"tag": [
+		"detection",
+		"equation",
+		"network"
+	],
 	"title": "Network anomaly detection based on Eigen equation compression",
 	"type": "inproceedings",
 	"venue": "KDD",

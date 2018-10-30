@@ -1,6 +1,10 @@
 {
-	"author": ["Kiraku Shintani", "Nao Hirokawa"],
-	"booktitle": "CADE",
+	"author": [
+		"Kiraku Shintani",
+		"Nao Hirokawa"
+	],
+	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
 	"dblpkey": "conf/cade/ShintaniH15",
 	"doi": "10.1007/978-3-319-21401-6_8",
@@ -10,11 +14,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["co", "ll", "a", "confluenc", "tool", "for", "left", "linear", "term", "rewrit", "system"],
-	"tag": ["confluence", "linear", "named", "term rewriting"],
+	"stemmed": [
+		"co",
+		"ll",
+		"a",
+		"confluenc",
+		"tool",
+		"for",
+		"left",
+		"linear",
+		"term",
+		"rewrit",
+		"system"
+	],
+	"tag": [
+		"confluence",
+		"linear",
+		"named",
+		"term rewriting"
+	],
 	"title": "CoLL: A Confluence Tool for Left-Linear Term Rewrite Systems",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 9195,
+	"volume": "9195",
 	"year": 2015
 }

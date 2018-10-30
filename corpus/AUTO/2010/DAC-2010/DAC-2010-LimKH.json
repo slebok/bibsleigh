@@ -1,14 +1,37 @@
 {
-	"author": ["ByongChan Lim", "Jaeha Kim", "Mark A. Horowitz"],
-	"booktitle": "DAC",
+	"author": [
+		"ByongChan Lim",
+		"Jaeha Kim",
+		"Mark A. Horowitz"
+	],
+	"booktitle": "Proceedings of the 47th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2010",
 	"dblpkey": "conf/dac/LimKH10",
 	"doi": "10.1145/1837274.1837468",
 	"ee": "http://doi.acm.org/10.1145/1837274.1837468",
 	"pages": "767-772",
 	"publisher": "ACM",
-	"stemmed": ["an", "effici", "test", "vector", "generat", "for", "check", "analog", "mix", "signal", "function", "model"],
-	"tag": ["functional", "generative", "modelling", "performance"],
+	"stemmed": [
+		"an",
+		"effici",
+		"test",
+		"vector",
+		"generat",
+		"for",
+		"check",
+		"analog",
+		"mix",
+		"signal",
+		"function",
+		"model"
+	],
+	"tag": [
+		"functional",
+		"generative",
+		"modelling",
+		"performance"
+	],
 	"title": "An efficient test vector generation for checking analog/mixed-signal functional models",
 	"type": "inproceedings",
 	"venue": "DAC",

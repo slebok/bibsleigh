@@ -1,14 +1,31 @@
 {
-	"author": ["Padmini Gopalakrishnan", "Xin Li", "Lawrence T. Pileggi"],
-	"booktitle": "DAC",
+	"author": [
+		"Padmini Gopalakrishnan",
+		"Xin Li",
+		"Lawrence T. Pileggi"
+	],
+	"booktitle": "Proceedings of the 43rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/GopalakrishnanLP06",
 	"doi": "10.1145/1146909.1147033",
 	"ee": "http://doi.acm.org/10.1145/1146909.1147033",
 	"pages": "460-465",
 	"publisher": "ACM",
-	"stemmed": ["architectur", "awar", "fpga", "placement", "use", "metric", "embed"],
-	"tag": ["architecture", "metric", "using"],
+	"stemmed": [
+		"architectur",
+		"awar",
+		"fpga",
+		"placement",
+		"use",
+		"metric",
+		"embed"
+	],
+	"tag": [
+		"architecture",
+		"metric",
+		"using"
+	],
 	"title": "Architecture-aware FPGA placement using metric embedding",
 	"type": "inproceedings",
 	"venue": "DAC",

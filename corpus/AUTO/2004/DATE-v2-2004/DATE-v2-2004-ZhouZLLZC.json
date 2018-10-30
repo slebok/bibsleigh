@@ -1,6 +1,14 @@
 {
-	"author": ["Xin Zhou", "Dian Zhou", "Jin Liu", "Ruiming Li", "Xuan Zeng", "Charles Chiang"],
-	"booktitle": "DATE",
+	"author": [
+		"Xin Zhou",
+		"Dian Zhou",
+		"Jin Liu",
+		"Ruiming Li",
+		"Xuan Zeng",
+		"Charles Chiang"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/ZhouZLLZC04",
 	"doi": "10.1109/DATE.2004.1269078",
@@ -8,8 +16,23 @@
 	"pages": "1322-1326",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["steadi", "state", "analysi", "of", "nonlinear", "circuit", "use", "discret", "singular", "convolut", "method"],
-	"tag": ["analysis", "using"],
+	"stemmed": [
+		"steadi",
+		"state",
+		"analysi",
+		"of",
+		"nonlinear",
+		"circuit",
+		"use",
+		"discret",
+		"singular",
+		"convolut",
+		"method"
+	],
+	"tag": [
+		"analysis",
+		"using"
+	],
 	"title": "Steady-State Analysis of Nonlinear Circuits Using Discrete Singular Convolution Method",
 	"type": "inproceedings",
 	"venue": "DATE",

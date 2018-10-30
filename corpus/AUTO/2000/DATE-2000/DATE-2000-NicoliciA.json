@@ -1,6 +1,10 @@
 {
-	"author": ["Nicola Nicolici", "Bashir M. Al-Hashimi"],
-	"booktitle": "DATE",
+	"author": [
+		"Nicola Nicolici",
+		"Bashir M. Al-Hashimi"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/NicoliciA00",
 	"doi": "10.1109/DATE.2000.840866",
@@ -8,8 +12,28 @@
 	"pages": "715-722",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["scan", "latch", "partit", "into", "multipl", "scan", "chain", "for", "power", "minim", "in", "full", "scan", "sequenti", "circuit"],
-	"tag": ["clustering", "multi", "power management"],
+	"stemmed": [
+		"scan",
+		"latch",
+		"partit",
+		"into",
+		"multipl",
+		"scan",
+		"chain",
+		"for",
+		"power",
+		"minim",
+		"in",
+		"full",
+		"scan",
+		"sequenti",
+		"circuit"
+	],
+	"tag": [
+		"clustering",
+		"multi",
+		"power management"
+	],
 	"title": "Scan Latch Partitioning into Multiple Scan Chains for Power Minimization in Full Scan Sequential Circuits",
 	"type": "inproceedings",
 	"venue": "DATE",

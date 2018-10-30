@@ -1,6 +1,11 @@
 {
-	"author": ["Stephen E. Robertson", "M. E. Maron", "William S. Cooper"],
+	"author": [
+		"Stephen E. Robertson",
+		"M. E. Maron",
+		"William S. Cooper"
+	],
 	"booktitle": "Proceedings of the Fifth Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"dblpkey": "conf/sigir/RobertsonMC82",
 	"doi": "10.1007/BFb0036342",
 	"ee": "http://dx.doi.org/10.1007/BFb0036342",
@@ -9,11 +14,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "unifi", "probabilist", "model", "for", "ir"],
-	"tag": ["information retrieval", "probability"],
+	"stemmed": [
+		"the",
+		"unifi",
+		"probabilist",
+		"model",
+		"for",
+		"ir"
+	],
+	"tag": [
+		"information retrieval",
+		"probability"
+	],
 	"title": "The Unified Probabilistic Model for IR",
 	"type": "inproceedings",
 	"venue": "SIGIR",
-	"volume": 146,
+	"volume": "146",
 	"year": 1982
 }

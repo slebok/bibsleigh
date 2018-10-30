@@ -1,14 +1,28 @@
 {
-	"author": ["Yong Ge", "Hui Xiong", "Alexander Tuzhilin", "Qi Liu"],
-	"booktitle": "RecSys",
+	"author": [
+		"Yong Ge",
+		"Hui Xiong",
+		"Alexander Tuzhilin",
+		"Qi Liu"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2011",
 	"dblpkey": "conf/recsys/GeXTL11",
 	"doi": "10.1145/2043932.2043983",
 	"ee": "http://doi.acm.org/10.1145/2043932.2043983",
 	"pages": "281-284",
 	"publisher": "ACM",
-	"stemmed": ["collabor", "filter", "with", "collect", "train"],
-	"tag": ["collaboration"],
+	"stemmed": [
+		"collabor",
+		"filter",
+		"with",
+		"collect",
+		"train"
+	],
+	"tag": [
+		"collaboration"
+	],
 	"title": "Collaborative filtering with collective training",
 	"type": "inproceedings",
 	"venue": "RecSys",

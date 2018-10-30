@@ -1,6 +1,10 @@
 {
-	"author": ["Mathias Péron", "Nicolas Halbwachs"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Mathias Péron",
+		"Nicolas Halbwachs"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2007",
 	"dblpkey": "conf/vmcai/PeronH07",
 	"doi": "10.1007/978-3-540-69738-1_20",
@@ -10,11 +14,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "abstract", "domain", "extend", "differ", "bound", "matric", "with", "disequ", "constraint"],
-	"tag": ["abstract domain", "bound", "constraints", "matrix"],
+	"stemmed": [
+		"an",
+		"abstract",
+		"domain",
+		"extend",
+		"differ",
+		"bound",
+		"matric",
+		"with",
+		"disequ",
+		"constraint"
+	],
+	"tag": [
+		"abstract domain",
+		"bound",
+		"constraints",
+		"matrix"
+	],
 	"title": "An Abstract Domain Extending Difference-Bound Matrices with Disequality Constraints",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 4349,
+	"volume": "4349",
 	"year": 2007
 }

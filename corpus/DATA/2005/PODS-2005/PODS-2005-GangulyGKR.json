@@ -1,14 +1,30 @@
 {
-	"author": ["Sumit Ganguly", "Minos N. Garofalakis", "Amit Kumar", "Rajeev Rastogi"],
-	"booktitle": "PODS",
+	"author": [
+		"Sumit Ganguly",
+		"Minos N. Garofalakis",
+		"Amit Kumar",
+		"Rajeev Rastogi"
+	],
+	"booktitle": "Proceedings of the 24th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2005",
 	"dblpkey": "conf/pods/GangulyGKR05",
 	"doi": "10.1145/1065167.1065200",
 	"ee": "http://doi.acm.org/10.1145/1065167.1065200",
 	"pages": "259-270",
 	"publisher": "ACM",
-	"stemmed": ["join", "distinct", "aggreg", "estim", "over", "updat", "stream"],
-	"tag": ["estimation"],
+	"stemmed": [
+		"join",
+		"distinct",
+		"aggreg",
+		"estim",
+		"over",
+		"updat",
+		"stream"
+	],
+	"tag": [
+		"estimation"
+	],
 	"title": "Join-distinct aggregate estimation over update streams",
 	"type": "inproceedings",
 	"venue": "PODS",

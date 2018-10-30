@@ -1,6 +1,7 @@
 {
 	"author": "Mark E. Stickel",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 22nd International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2009",
 	"dblpkey": "conf/cade/Stickel09",
 	"doi": "10.1007/978-3-642-02959-2_24",
@@ -10,11 +11,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["build", "theorem", "prover"],
-	"tag": ["proving", "theorem proving"],
+	"stemmed": [
+		"build",
+		"theorem",
+		"prover"
+	],
+	"tag": [
+		"proving",
+		"theorem proving"
+	],
 	"title": "Building Theorem Provers",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 5663,
+	"volume": "5663",
 	"year": 2009
 }

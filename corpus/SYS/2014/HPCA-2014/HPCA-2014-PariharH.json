@@ -1,6 +1,10 @@
 {
-	"author": ["Raj Parihar", "Michael C. Huang"],
-	"booktitle": "HPCA",
+	"author": [
+		"Raj Parihar",
+		"Michael C. Huang"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/PariharH14",
 	"doi": "10.1109/HPCA.2014.6835974",
@@ -8,8 +12,24 @@
 	"pages": "662-677",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["acceler", "decoupl", "look", "ahead", "via", "weak", "depend", "remov", "a", "metaheurist", "approach"],
-	"tag": ["approach", "dependence", "metaheuristic"],
+	"stemmed": [
+		"acceler",
+		"decoupl",
+		"look",
+		"ahead",
+		"via",
+		"weak",
+		"depend",
+		"remov",
+		"a",
+		"metaheurist",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"dependence",
+		"metaheuristic"
+	],
 	"title": "Accelerating decoupled look-ahead via weak dependence removal: A metaheuristic approach",
 	"type": "inproceedings",
 	"venue": "HPCA",

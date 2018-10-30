@@ -1,6 +1,12 @@
 {
-	"author": ["Robert Schwencker", "Frank Schenkel", "Helmut E. Graeb", "Kurt Antreich"],
-	"booktitle": "DATE",
+	"author": [
+		"Robert Schwencker",
+		"Frank Schenkel",
+		"Helmut E. Graeb",
+		"Kurt Antreich"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/SchwenckerSGA00",
 	"doi": "10.1109/DATE.2000.840013",
@@ -8,8 +14,30 @@
 	"pages": "42-47",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["the", "general", "boundari", "curv", "a", "common", "method", "for", "automat", "nomin", "design", "and", "design", "center", "of", "analog", "circuit"],
-	"tag": ["automation", "bound", "design"],
+	"stemmed": [
+		"the",
+		"general",
+		"boundari",
+		"curv",
+		"a",
+		"common",
+		"method",
+		"for",
+		"automat",
+		"nomin",
+		"design",
+		"and",
+		"design",
+		"center",
+		"of",
+		"analog",
+		"circuit"
+	],
+	"tag": [
+		"automation",
+		"bound",
+		"design"
+	],
 	"title": "The Generalized Boundary Curve-A Common Method for Automatic Nominal Design and Design Centering of Analog Circuits",
 	"type": "inproceedings",
 	"venue": "DATE",

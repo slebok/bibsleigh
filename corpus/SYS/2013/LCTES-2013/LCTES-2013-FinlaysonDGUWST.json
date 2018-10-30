@@ -1,14 +1,34 @@
 {
-	"author": ["Ian Finlayson", "Brandon Davis", "Peter Gavin", "Gang-Ryung Uh", "David B. Whalley", "Magnus Själander", "Gary S. Tyson"],
-	"booktitle": "LCTES",
+	"author": [
+		"Ian Finlayson",
+		"Brandon Davis",
+		"Peter Gavin",
+		"Gang-Ryung Uh",
+		"David B. Whalley",
+		"Magnus Själander",
+		"Gary S. Tyson"
+	],
+	"booktitle": "Proceedings of the 14th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2013",
 	"dblpkey": "conf/lctrts/FinlaysonDGUWST13",
 	"doi": "10.1145/2465554.2465559",
 	"ee": "http://doi.acm.org/10.1145/2465554.2465559",
 	"pages": "33-44",
 	"publisher": "ACM",
-	"stemmed": ["improv", "processor", "effici", "by", "static", "pipelin", "instruct"],
-	"tag": ["performance", "pipes and filters"],
+	"stemmed": [
+		"improv",
+		"processor",
+		"effici",
+		"by",
+		"static",
+		"pipelin",
+		"instruct"
+	],
+	"tag": [
+		"performance",
+		"pipes and filters"
+	],
 	"title": "Improving processor efficiency by statically pipelining instructions",
 	"type": "inproceedings",
 	"venue": "LCTES",

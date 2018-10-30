@@ -1,6 +1,7 @@
 {
 	"author": "Kelvin D. Nilsen",
-	"booktitle": "IWMM",
+	"booktitle": "Proceedings of the Second International Workshop on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/95",
 	"dblpkey": "conf/iwmm/Nilsen95",
 	"doi": "10.1007/3-540-60368-9_34",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["progress", "in", "hardwar", "assist", "real", "time", "garbag", "collect"],
-	"tag": ["garbage collection", "realtime"],
+	"stemmed": [
+		"progress",
+		"in",
+		"hardwar",
+		"assist",
+		"real",
+		"time",
+		"garbag",
+		"collect"
+	],
+	"tag": [
+		"garbage collection",
+		"realtime"
+	],
 	"title": "Progress in Hardware-Assisted Real-Time Garbage Collection",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 986,
+	"volume": "986",
 	"year": 1995
 }

@@ -1,14 +1,29 @@
 {
-	"author": ["Klaus Julisch", "Marc Dacier"],
-	"booktitle": "KDD",
+	"author": [
+		"Klaus Julisch",
+		"Marc Dacier"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/JulischD02",
 	"doi": "10.1145/775047.775101",
 	"ee": "http://doi.acm.org/10.1145/775047.775101",
 	"pages": "366-375",
 	"publisher": "ACM",
-	"stemmed": ["mine", "intrus", "detect", "alarm", "for", "action", "knowledg"],
-	"tag": ["detection", "mining"],
+	"stemmed": [
+		"mine",
+		"intrus",
+		"detect",
+		"alarm",
+		"for",
+		"action",
+		"knowledg"
+	],
+	"tag": [
+		"detection",
+		"mining"
+	],
 	"title": "Mining intrusion detection alarms for actionable knowledge",
 	"type": "inproceedings",
 	"venue": "KDD",

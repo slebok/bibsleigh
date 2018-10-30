@@ -1,6 +1,7 @@
 {
 	"author": "Thomas Genet",
-	"booktitle": "WRLA",
+	"booktitle": "Revised Selected Papers of the 10th International Workshop on Rewriting Logic and its Applications",
+	"booktitleshort": "WRLA",
 	"crossref": "conf/wrla/2014",
 	"dblpkey": "conf/wrla/Genet14",
 	"doi": "10.1007/978-3-319-12904-4_8",
@@ -10,11 +11,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["toward", "static", "analysi", "of", "function", "program", "use", "tree", "automata", "complet"],
-	"tag": ["automaton", "functional", "source code", "static analysis", "towards", "using"],
+	"stemmed": [
+		"toward",
+		"static",
+		"analysi",
+		"of",
+		"function",
+		"program",
+		"use",
+		"tree",
+		"automata",
+		"complet"
+	],
+	"tag": [
+		"automaton",
+		"functional",
+		"source code",
+		"static analysis",
+		"towards",
+		"using"
+	],
 	"title": "Towards Static Analysis of Functional Programs Using Tree Automata Completion",
 	"type": "inproceedings",
 	"venue": "WRLA",
-	"volume": 8663,
+	"volume": "8663",
 	"year": 2014
 }

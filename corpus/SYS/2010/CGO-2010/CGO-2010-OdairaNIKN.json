@@ -1,14 +1,32 @@
 {
-	"author": ["Rei Odaira", "Takuya Nakaike", "Tatsushi Inagaki", "Hideaki Komatsu", "Toshio Nakatani"],
-	"booktitle": "CGO",
+	"author": [
+		"Rei Odaira",
+		"Takuya Nakaike",
+		"Tatsushi Inagaki",
+		"Hideaki Komatsu",
+		"Toshio Nakatani"
+	],
+	"booktitle": "Proceedings of the Eighth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2010",
 	"dblpkey": "conf/cgo/OdairaNIKN10",
 	"doi": "10.1145/1772954.1772978",
 	"ee": "http://doi.acm.org/10.1145/1772954.1772978",
 	"pages": "160-169",
 	"publisher": "ACM",
-	"stemmed": ["color", "base", "coalesc", "for", "graph", "color", "regist", "alloc"],
-	"tag": ["graph"],
+	"stemmed": [
+		"color",
+		"base",
+		"coalesc",
+		"for",
+		"graph",
+		"color",
+		"regist",
+		"alloc"
+	],
+	"tag": [
+		"graph"
+	],
 	"title": "Coloring-based coalescing for graph coloring register allocation",
 	"type": "inproceedings",
 	"venue": "CGO",

@@ -1,6 +1,12 @@
 {
-	"author": ["Daekeun You", "Sameer Antani", "Dina Demner-Fushman", "George R. Thoma"],
-	"booktitle": "DRR",
+	"author": [
+		"Daekeun You",
+		"Sameer Antani",
+		"Dina Demner-Fushman",
+		"George R. Thoma"
+	],
+	"booktitle": "Proceedings of the 21st Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2014",
 	"dblpkey": "conf/drr/YouADT14",
 	"doi": "10.1117/12.2042526",
@@ -8,11 +14,27 @@
 	"pages": "90210L-90210L-12",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["a", "contour", "base", "shape", "descriptor", "for", "biomed", "imag", "classif", "and", "retriev"],
-	"tag": ["classification", "image", "retrieval"],
+	"stemmed": [
+		"a",
+		"contour",
+		"base",
+		"shape",
+		"descriptor",
+		"for",
+		"biomed",
+		"imag",
+		"classif",
+		"and",
+		"retriev"
+	],
+	"tag": [
+		"classification",
+		"image",
+		"retrieval"
+	],
 	"title": "A contour-based shape descriptor for biomedical image classification and retrieval",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 9021,
+	"volume": "9021",
 	"year": 2014
 }

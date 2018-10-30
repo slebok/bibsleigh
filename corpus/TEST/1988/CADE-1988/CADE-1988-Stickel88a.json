@@ -1,6 +1,7 @@
 {
 	"author": "Mark E. Stickel",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/Stickel88a",
 	"doi": "10.1007/BFb0012881",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "prolog", "technolog", "theorem", "prover"],
-	"tag": ["prolog", "proving", "theorem proving"],
+	"stemmed": [
+		"a",
+		"prolog",
+		"technolog",
+		"theorem",
+		"prover"
+	],
+	"tag": [
+		"prolog",
+		"proving",
+		"theorem proving"
+	],
 	"title": "A Prolog Technology Theorem Prover",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

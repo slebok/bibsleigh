@@ -1,6 +1,11 @@
 {
-	"author": ["Nalini Venkatasubramanian", "Gul Agha", "Carolyn L. Talcott"],
-	"booktitle": "IWMM",
+	"author": [
+		"Nalini Venkatasubramanian",
+		"Gul Agha",
+		"Carolyn L. Talcott"
+	],
+	"booktitle": "Proceedings of the First International Workshop on Memory Management",
+	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
 	"dblpkey": "conf/iwmm/VenkatasubramanianAT92",
 	"doi": "10.1007/BFb0017187",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["scalabl", "distribut", "garbag", "collect", "for", "system", "of", "activ", "object"],
-	"tag": ["distributed", "garbage collection", "scalability"],
+	"stemmed": [
+		"scalabl",
+		"distribut",
+		"garbag",
+		"collect",
+		"for",
+		"system",
+		"of",
+		"activ",
+		"object"
+	],
+	"tag": [
+		"distributed",
+		"garbage collection",
+		"scalability"
+	],
 	"title": "Scalable Distributed Garbage Collection for Systems of Active Objects",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 637,
+	"volume": "637",
 	"year": 1992
 }

@@ -1,6 +1,12 @@
 {
-	"author": ["Carsten Lutz", "Holger Sturm", "Frank Wolter", "Michael Zakharyaschev"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Carsten Lutz",
+		"Holger Sturm",
+		"Frank Wolter",
+		"Michael Zakharyaschev"
+	],
+	"booktitle": "Proceedings of the First International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2001",
 	"dblpkey": "conf/cade/LutzSWZ01",
 	"doi": "10.1007/3-540-45744-5_10",
@@ -10,11 +16,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["tableaux", "for", "tempor", "descript", "logic", "with", "constant", "domain"],
-	"tag": ["constant", "logic"],
+	"stemmed": [
+		"tableaux",
+		"for",
+		"tempor",
+		"descript",
+		"logic",
+		"with",
+		"constant",
+		"domain"
+	],
+	"tag": [
+		"constant",
+		"logic"
+	],
 	"title": "Tableaux for Temporal Description Logic with Constant Domains",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 2083,
+	"volume": "2083",
 	"year": 2001
 }

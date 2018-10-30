@@ -1,17 +1,35 @@
 {
 	"author": "Bruno Blanchet",
-	"booktitle": "Proceedings of the 14th Conference on Object-Oriented Programming Systems, Languages & Applications",
+	"booktitle": "Proceedings of the 14th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1999",
 	"dblpkey": "conf/oopsla/Blanchet99",
 	"doi": "10.1145/320384.320387",
-	"editor": ["Brent Hailpern", "Linda M. Northrop", "A. Michael Berman"],
+	"editor": [
+		"Brent Hailpern",
+		"Linda M. Northrop",
+		"A. Michael Berman"
+	],
 	"ee": "http://doi.acm.org/10.1145/320384.320387",
 	"isbn": "1-58113-238-7",
 	"pages": "20-34",
 	"publisher": "ACM",
-	"stemmed": ["escap", "analysi", "for", "object", "orient", "languag", "applic", "to", "java"],
-	"tag": ["analysis", "java", "object-oriented"],
+	"stemmed": [
+		"escap",
+		"analysi",
+		"for",
+		"object",
+		"orient",
+		"languag",
+		"applic",
+		"to",
+		"java"
+	],
+	"tag": [
+		"analysis",
+		"java",
+		"object-oriented"
+	],
 	"title": "Escape Analysis for Object-Oriented Languages: Application to Java",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

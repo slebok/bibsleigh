@@ -1,12 +1,21 @@
 {
 	"author": "Jim Gray",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 19th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD89/P002.PDF",
 	"crossref": "conf/sigmod/89",
 	"dblpkey": "conf/sigmod/Gray89",
-	"pages": 2,
-	"stemmed": ["databas", "perform", "metric"],
-	"tag": ["database", "metric", "performance"],
+	"pages": "2",
+	"stemmed": [
+		"databas",
+		"perform",
+		"metric"
+	],
+	"tag": [
+		"database",
+		"metric",
+		"performance"
+	],
 	"title": "Database Performance Metrics",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

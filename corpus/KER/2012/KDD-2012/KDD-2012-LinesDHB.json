@@ -1,14 +1,30 @@
 {
-	"author": ["Jason Lines", "Luke M. Davis", "Jon Hills", "Anthony Bagnall"],
-	"booktitle": "KDD",
+	"author": [
+		"Jason Lines",
+		"Luke M. Davis",
+		"Jon Hills",
+		"Anthony Bagnall"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/LinesDHB12",
 	"doi": "10.1145/2339530.2339579",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339579",
 	"pages": "289-297",
 	"publisher": "ACM",
-	"stemmed": ["a", "shapelet", "transform", "for", "time", "seri", "classif"],
-	"tag": ["classification"],
+	"stemmed": [
+		"a",
+		"shapelet",
+		"transform",
+		"for",
+		"time",
+		"seri",
+		"classif"
+	],
+	"tag": [
+		"classification"
+	],
 	"title": "A shapelet transform for time series classification",
 	"type": "inproceedings",
 	"venue": "KDD",

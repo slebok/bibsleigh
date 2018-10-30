@@ -1,6 +1,11 @@
 {
-	"author": ["Basilios Gatos", "Apostolos Antonacopoulos", "Nikolaos Stamatopoulos"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Basilios Gatos",
+		"Apostolos Antonacopoulos",
+		"Nikolaos Stamatopoulos"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/GatosAS07",
 	"doi": "10.1109/ICDAR.2007.127",
@@ -8,8 +13,15 @@
 	"pages": "1284-1288",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["handwrit", "segment", "contest"],
-	"tag": ["contest", "segmentation"],
+	"stemmed": [
+		"handwrit",
+		"segment",
+		"contest"
+	],
+	"tag": [
+		"contest",
+		"segmentation"
+	],
 	"title": "Handwriting Segmentation Contest",
 	"type": "inproceedings",
 	"venue": "ICDAR",

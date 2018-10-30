@@ -1,6 +1,13 @@
 {
-	"author": ["Arijit Khan", "Nan Li", "Xifeng Yan", "Ziyu Guan", "Supriyo Chakraborty", "Shu Tao"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Arijit Khan",
+		"Nan Li",
+		"Xifeng Yan",
+		"Ziyu Guan",
+		"Supriyo Chakraborty",
+		"Shu Tao"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/KhanLYGCT11",
@@ -8,8 +15,22 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989418",
 	"pages": "901-912",
 	"publisher": "ACM",
-	"stemmed": ["neighborhood", "base", "fast", "graph", "search", "in", "larg", "network"],
-	"tag": ["graph", "network", "performance", "scalability"],
+	"stemmed": [
+		"neighborhood",
+		"base",
+		"fast",
+		"graph",
+		"search",
+		"in",
+		"larg",
+		"network"
+	],
+	"tag": [
+		"graph",
+		"network",
+		"performance",
+		"scalability"
+	],
 	"title": "Neighborhood based fast graph search in large networks",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,11 @@
 {
-	"author": ["Hiroshi Sawada", "Shigeru Yamashita", "Akira Nagoya"],
-	"booktitle": "DATE",
+	"author": [
+		"Hiroshi Sawada",
+		"Shigeru Yamashita",
+		"Akira Nagoya"
+	],
+	"booktitle": "Proceedings of the Third Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1998",
 	"dblpkey": "conf/date/SawadaYN98",
 	"doi": "10.1109/DATE.1998.655943",
@@ -8,8 +13,21 @@
 	"pages": "755-759",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["restructur", "logic", "represent", "with", "easili", "detect", "simpl", "disjunct", "decomposit"],
-	"tag": ["detection", "logic"],
+	"stemmed": [
+		"restructur",
+		"logic",
+		"represent",
+		"with",
+		"easili",
+		"detect",
+		"simpl",
+		"disjunct",
+		"decomposit"
+	],
+	"tag": [
+		"detection",
+		"logic"
+	],
 	"title": "Restructuring Logic Representations with Easily Detectable Simple Disjunctive Decompositions",
 	"type": "inproceedings",
 	"venue": "DATE",

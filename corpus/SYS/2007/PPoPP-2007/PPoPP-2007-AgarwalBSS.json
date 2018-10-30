@@ -1,14 +1,32 @@
 {
-	"author": ["Shivali Agarwal", "Rajkishore Barik", "Vivek Sarkar", "R. K. Shyamasundar"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Shivali Agarwal",
+		"Rajkishore Barik",
+		"Vivek Sarkar",
+		"R. K. Shyamasundar"
+	],
+	"booktitle": "Proceedings of the 12th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2007",
 	"dblpkey": "conf/ppopp/AgarwalBSS07",
 	"doi": "10.1145/1229428.1229471",
 	"ee": "http://doi.acm.org/10.1145/1229428.1229471",
 	"pages": "183-193",
 	"publisher": "ACM",
-	"stemmed": ["may", "happen", "in", "parallel", "analysi", "of", "x", "program"],
-	"tag": ["analysis", "source code"],
+	"stemmed": [
+		"may",
+		"happen",
+		"in",
+		"parallel",
+		"analysi",
+		"of",
+		"x",
+		"program"
+	],
+	"tag": [
+		"analysis",
+		"source code"
+	],
 	"title": "May-happen-in-parallel analysis of X10 programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

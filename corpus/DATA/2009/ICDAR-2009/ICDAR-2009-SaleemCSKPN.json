@@ -1,15 +1,40 @@
 {
-	"author": ["Shirin Saleem", "Huaigu Cao", "Krishna Subramanian", "Matin Kamali", "Rohit Prasad", "Premkumar Natarajan"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Shirin Saleem",
+		"Huaigu Cao",
+		"Krishna Subramanian",
+		"Matin Kamali",
+		"Rohit Prasad",
+		"Premkumar Natarajan"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2009",
 	"dblpkey": "conf/icdar/SaleemCSKPN09",
 	"doi": "10.1109/ICDAR.2009.282",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2009.282", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2009.282"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2009.282",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2009.282"
+	],
 	"pages": "773-777",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["improv", "in", "bbn", "s", "hmm", "base", "offlin", "arab", "handwrit", "recognit", "system"],
-	"tag": ["recognition"],
+	"stemmed": [
+		"improv",
+		"in",
+		"bbn",
+		"s",
+		"hmm",
+		"base",
+		"offlin",
+		"arab",
+		"handwrit",
+		"recognit",
+		"system"
+	],
+	"tag": [
+		"recognition"
+	],
 	"title": "Improvements in BBN’s HMM-Based Offline Arabic Handwriting Recognition System",
 	"type": "inproceedings",
 	"venue": "ICDAR",

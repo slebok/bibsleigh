@@ -1,6 +1,13 @@
 {
-	"author": ["Zhe Wang", "Daniel A. Jiménez", "Cong Xu", "Guangyu Sun", "Yuan Xie"],
-	"booktitle": "HPCA",
+	"author": [
+		"Zhe Wang",
+		"Daniel A. Jiménez",
+		"Cong Xu",
+		"Guangyu Sun",
+		"Yuan Xie"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/WangJXSX14",
 	"doi": "10.1109/HPCA.2014.6835933",
@@ -8,8 +15,26 @@
 	"pages": "13-24",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["adapt", "placement", "and", "migrat", "polici", "for", "an", "stt", "ram", "base", "hybrid", "cach"],
-	"tag": ["adaptation", "hybrid", "migration", "policy"],
+	"stemmed": [
+		"adapt",
+		"placement",
+		"and",
+		"migrat",
+		"polici",
+		"for",
+		"an",
+		"stt",
+		"ram",
+		"base",
+		"hybrid",
+		"cach"
+	],
+	"tag": [
+		"adaptation",
+		"hybrid",
+		"migration",
+		"policy"
+	],
 	"title": "Adaptive placement and migration policy for an STT-RAM-based hybrid cache",
 	"type": "inproceedings",
 	"venue": "HPCA",

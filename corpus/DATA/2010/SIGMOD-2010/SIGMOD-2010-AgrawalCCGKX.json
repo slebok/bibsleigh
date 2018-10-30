@@ -1,6 +1,13 @@
 {
-	"author": ["Sanjay Agrawal", "Kaushik Chakrabarti", "Surajit Chaudhuri", "Venkatesh Ganti", "Arnd Christian König", "Dong Xin"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Sanjay Agrawal",
+		"Kaushik Chakrabarti",
+		"Surajit Chaudhuri",
+		"Venkatesh Ganti",
+		"Arnd Christian König",
+		"Dong Xin"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/AgrawalCCGKX10",
@@ -8,8 +15,23 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807310",
 	"pages": "1171-1174",
 	"publisher": "ACM",
-	"stemmed": ["queri", "portal", "dynam", "generat", "portal", "for", "entiti", "orient", "web", "queri"],
-	"tag": ["generative", "query", "web"],
+	"stemmed": [
+		"queri",
+		"portal",
+		"dynam",
+		"generat",
+		"portal",
+		"for",
+		"entiti",
+		"orient",
+		"web",
+		"queri"
+	],
+	"tag": [
+		"generative",
+		"query",
+		"web"
+	],
 	"title": "Query portals: dynamically generating portals for entity-oriented web queries",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

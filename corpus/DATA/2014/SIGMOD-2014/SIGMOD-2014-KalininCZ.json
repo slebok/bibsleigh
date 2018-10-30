@@ -1,6 +1,10 @@
 {
-	"author": ["Alexander Kalinin", "Ugur Çetintemel", "Stanley B. Zdonik"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Alexander Kalinin",
+		"Ugur Çetintemel",
+		"Stanley B. Zdonik"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/KalininCZ14",
@@ -8,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2593666",
 	"pages": "505-516",
 	"publisher": "ACM",
-	"stemmed": ["interact", "data", "explor", "use", "semant", "window"],
-	"tag": ["data analysis", "interactive", "semantics", "using"],
+	"stemmed": [
+		"interact",
+		"data",
+		"explor",
+		"use",
+		"semant",
+		"window"
+	],
+	"tag": [
+		"data analysis",
+		"interactive",
+		"semantics",
+		"using"
+	],
 	"title": "Interactive data exploration using semantic windows",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

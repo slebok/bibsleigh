@@ -1,6 +1,7 @@
 {
 	"author": "Robert L. Rappaport",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the Fifth ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD75/P001.PDF",
 	"crossref": "conf/sigmod/75",
 	"dblpkey": "conf/sigmod/Rappaport75",
@@ -8,8 +9,21 @@
 	"ee": "http://doi.acm.org/10.1145/500080.500082",
 	"pages": "1-14",
 	"publisher": "ACM",
-	"stemmed": ["file", "structur", "design", "to", "facilit", "on", "line", "instantan", "updat"],
-	"tag": ["design", "online"],
+	"stemmed": [
+		"file",
+		"structur",
+		"design",
+		"to",
+		"facilit",
+		"on",
+		"line",
+		"instantan",
+		"updat"
+	],
+	"tag": [
+		"design",
+		"online"
+	],
 	"title": "File Structure Design to Facilitate On-Line Instantaneous Updating",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

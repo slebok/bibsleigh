@@ -1,6 +1,6 @@
 {
 	"author": "Sven Gestegård Robertz",
-	"booktitle": "MSP/ISMM",
+	"booktitle": "Proceedings of the Third International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2002",
 	"dblpkey": "conf/iwmm/Robertz02",
@@ -8,8 +8,16 @@
 	"ee": "http://doi.acm.org/10.1145/773039.512431",
 	"pages": "108-118",
 	"publisher": "ACM",
-	"stemmed": ["appli", "prioriti", "to", "memori", "alloc"],
-	"tag": ["memory management"],
+	"stemmed": [
+		"appli",
+		"prioriti",
+		"to",
+		"memori",
+		"alloc"
+	],
+	"tag": [
+		"memory management"
+	],
 	"title": "Applying priorities to memory allocation",
 	"type": "inproceedings",
 	"venue": "ISMM",

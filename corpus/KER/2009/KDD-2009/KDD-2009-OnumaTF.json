@@ -1,14 +1,32 @@
 {
-	"author": ["Kensuke Onuma", "Hanghang Tong", "Christos Faloutsos"],
-	"booktitle": "KDD",
+	"author": [
+		"Kensuke Onuma",
+		"Hanghang Tong",
+		"Christos Faloutsos"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/OnumaTF09",
 	"doi": "10.1145/1557019.1557093",
 	"ee": "http://doi.acm.org/10.1145/1557019.1557093",
 	"pages": "657-666",
 	"publisher": "ACM",
-	"stemmed": ["tangent", "a", "novel", "surpris", "me", "recommend", "algorithm"],
-	"tag": ["algorithm", "named", "novel", "recommendation"],
+	"stemmed": [
+		"tangent",
+		"a",
+		"novel",
+		"surpris",
+		"me",
+		"recommend",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"named",
+		"novel",
+		"recommendation"
+	],
 	"title": "TANGENT: a novel, “Surprise me”, recommendation algorithm",
 	"type": "inproceedings",
 	"venue": "KDD",

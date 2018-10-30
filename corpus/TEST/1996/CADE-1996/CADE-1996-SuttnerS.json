@@ -1,6 +1,10 @@
 {
-	"author": ["Christian B. Suttner", "Geoff Sutcliffe"],
-	"booktitle": "CADE",
+	"author": [
+		"Christian B. Suttner",
+		"Geoff Sutcliffe"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/SuttnerS96",
 	"doi": "10.1007/3-540-61511-3_76",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "design", "of", "the", "cade", "atp", "system", "competit"],
-	"tag": ["contest", "design"],
+	"stemmed": [
+		"the",
+		"design",
+		"of",
+		"the",
+		"cade",
+		"atp",
+		"system",
+		"competit"
+	],
+	"tag": [
+		"contest",
+		"design"
+	],
 	"title": "The Design of the CADE-13 ATP System Competition",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

@@ -1,6 +1,10 @@
 {
-	"author": ["Martin Franz", "Salim Roukos"],
+	"author": [
+		"Martin Franz",
+		"Salim Roukos"
+	],
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P337.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/FranzR98",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/290941.291027",
 	"pages": "337-338",
 	"publisher": "ACM",
-	"stemmed": ["a", "method", "for", "score", "correl", "featur", "in", "queri", "expans"],
-	"tag": ["correlation", "query"],
+	"stemmed": [
+		"a",
+		"method",
+		"for",
+		"score",
+		"correl",
+		"featur",
+		"in",
+		"queri",
+		"expans"
+	],
+	"tag": [
+		"correlation",
+		"query"
+	],
 	"title": "A Method for Scoring Correlated Features in Query Expansion",
 	"type": "inproceedings",
 	"venue": "SIGIR",

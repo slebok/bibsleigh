@@ -1,14 +1,29 @@
 {
-	"author": ["Graham Cormode", "S. Muthukrishnan"],
-	"booktitle": "PODS",
+	"author": [
+		"Graham Cormode",
+		"S. Muthukrishnan"
+	],
+	"booktitle": "Proceedings of the 24th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2005",
 	"dblpkey": "conf/pods/CormodeM05",
 	"doi": "10.1145/1065167.1065201",
 	"ee": "http://doi.acm.org/10.1145/1065167.1065201",
 	"pages": "271-282",
 	"publisher": "ACM",
-	"stemmed": ["space", "effici", "mine", "of", "multigraph", "stream"],
-	"tag": ["mining", "multi", "performance"],
+	"stemmed": [
+		"space",
+		"effici",
+		"mine",
+		"of",
+		"multigraph",
+		"stream"
+	],
+	"tag": [
+		"mining",
+		"multi",
+		"performance"
+	],
 	"title": "Space efficient mining of multigraph streams",
 	"type": "inproceedings",
 	"venue": "PODS",

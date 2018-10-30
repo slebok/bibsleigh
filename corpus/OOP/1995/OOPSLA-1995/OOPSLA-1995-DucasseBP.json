@@ -1,6 +1,10 @@
 {
-	"author": ["Stéphane Ducasse", "Mireille Blay-Fornarino", "Anne-Marie Pinna-Dery"],
-	"booktitle": "Proceedings of the 10th Annual Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"author": [
+		"Stéphane Ducasse",
+		"Mireille Blay-Fornarino",
+		"Anne-Marie Pinna-Dery"
+	],
+	"booktitle": "Proceedings of the 10th Annual Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1995",
 	"dblpkey": "conf/oopsla/DucasseBP95",
@@ -10,8 +14,18 @@
 	"isbn": "0-89791-703-0",
 	"pages": "265-280",
 	"publisher": "ACM",
-	"stemmed": ["a", "reflect", "model", "for", "first", "class", "depend"],
-	"tag": ["dependence"],
+	"stemmed": [
+		"a",
+		"reflect",
+		"model",
+		"for",
+		"first",
+		"class",
+		"depend"
+	],
+	"tag": [
+		"dependence"
+	],
 	"title": "A Reflective Model for First Class Dependencies",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

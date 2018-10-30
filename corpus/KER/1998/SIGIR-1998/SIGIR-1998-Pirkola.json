@@ -1,6 +1,7 @@
 {
 	"author": "Ari Pirkola",
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P055.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/Pirkola98",
@@ -8,8 +9,28 @@
 	"ee": "http://doi.acm.org/10.1145/290941.290957",
 	"pages": "55-63",
 	"publisher": "ACM",
-	"stemmed": ["the", "effect", "of", "queri", "structur", "and", "dictionari", "setup", "in", "dictionari", "base", "cross", "languag", "inform", "retriev"],
-	"tag": ["information retrieval", "query", "taxonomy"],
+	"stemmed": [
+		"the",
+		"effect",
+		"of",
+		"queri",
+		"structur",
+		"and",
+		"dictionari",
+		"setup",
+		"in",
+		"dictionari",
+		"base",
+		"cross",
+		"languag",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"information retrieval",
+		"query",
+		"taxonomy"
+	],
 	"title": "The Effects of Query Structure and Dictionary Setups in Dictionary-Based Cross-Language Information Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

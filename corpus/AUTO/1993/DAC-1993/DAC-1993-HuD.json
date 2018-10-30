@@ -1,13 +1,28 @@
 {
-	"author": ["Alan J. Hu", "David L. Dill"],
-	"booktitle": "DAC",
+	"author": [
+		"Alan J. Hu",
+		"David L. Dill"
+	],
+	"booktitle": "Proceedings of the 30th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/HuD93",
 	"doi": "10.1145/157485.164888",
 	"ee": "http://doi.acm.org/10.1145/157485.164888",
 	"pages": "266-271",
 	"publisher": "ACM Press",
-	"stemmed": ["reduc", "bdd", "size", "by", "exploit", "function", "depend"],
-	"tag": ["dependence", "functional"],
+	"stemmed": [
+		"reduc",
+		"bdd",
+		"size",
+		"by",
+		"exploit",
+		"function",
+		"depend"
+	],
+	"tag": [
+		"dependence",
+		"functional"
+	],
 	"title": "Reducing BDD Size by Exploiting Functional Dependencies",
 	"type": "inproceedings",
 	"venue": "DAC",

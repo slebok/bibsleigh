@@ -1,6 +1,7 @@
 {
 	"author": "David D. Lewis",
 	"booktitle": "Proceedings of the 15th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1992/P037.pdf",
 	"crossref": "conf/sigir/92",
 	"dblpkey": "conf/sigir/Lewis92",
@@ -8,8 +9,25 @@
 	"ee": "http://doi.acm.org/10.1145/133160.133172",
 	"pages": "37-50",
 	"publisher": "ACM",
-	"stemmed": ["an", "evalu", "of", "phrasal", "and", "cluster", "represent", "on", "a", "text", "categor", "task"],
-	"tag": ["categorisation", "clustering", "evaluation"],
+	"stemmed": [
+		"an",
+		"evalu",
+		"of",
+		"phrasal",
+		"and",
+		"cluster",
+		"represent",
+		"on",
+		"a",
+		"text",
+		"categor",
+		"task"
+	],
+	"tag": [
+		"categorisation",
+		"clustering",
+		"evaluation"
+	],
 	"title": "An Evaluation of Phrasal and Clustered Representations on a Text Categorization Task",
 	"type": "inproceedings",
 	"venue": "SIGIR",

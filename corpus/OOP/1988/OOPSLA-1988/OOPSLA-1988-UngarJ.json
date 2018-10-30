@@ -1,6 +1,9 @@
 {
-	"author": ["David Ungar", "Frank Jackson"],
-	"booktitle": "Proceedings of the Third Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"author": [
+		"David Ungar",
+		"Frank Jackson"
+	],
+	"booktitle": "Proceedings of the Third Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1988",
 	"dblpkey": "conf/oopsla/UngarJ88",
@@ -10,8 +13,18 @@
 	"isbn": "0-89791-284-5",
 	"pages": "1-17",
 	"publisher": "ACM",
-	"stemmed": ["tenur", "polici", "for", "generat", "base", "storag", "reclam"],
-	"tag": ["policy"],
+	"stemmed": [
+		"tenur",
+		"polici",
+		"for",
+		"generat",
+		"base",
+		"storag",
+		"reclam"
+	],
+	"tag": [
+		"policy"
+	],
 	"title": "Tenuring Policies for Generation-Based Storage Reclamation",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

@@ -1,13 +1,34 @@
 {
-	"author": ["Wenfei Fan", "Leonid Libkin"],
-	"booktitle": "PODS",
+	"author": [
+		"Wenfei Fan",
+		"Leonid Libkin"
+	],
+	"booktitle": "Proceedings of the 20th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2001",
 	"dblpkey": "conf/pods/FanL01",
 	"doi": "10.1145/375551.375568",
-	"ee": ["http://doi.acm.org/10.1145/375551.375568", "http://www.acm.org/sigs/sigmod/pods/proc01/online/p54.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/375551.375568",
+		"http://www.acm.org/sigs/sigmod/pods/proc01/online/p54.pdf"
+	],
 	"publisher": "ACM",
-	"stemmed": ["on", "xml", "integr", "constraint", "in", "the", "presenc", "of", "dtds"],
-	"tag": ["constraints", "on the", "xml"],
+	"stemmed": [
+		"on",
+		"xml",
+		"integr",
+		"constraint",
+		"in",
+		"the",
+		"presenc",
+		"of",
+		"dtds"
+	],
+	"tag": [
+		"constraints",
+		"on the",
+		"xml"
+	],
 	"title": "On XML Integrity Constraints in the Presence of DTDs",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,13 +1,30 @@
 {
 	"author": "Wing K. Luk",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 28th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/Luk91",
 	"doi": "10.1145/127601.114161",
 	"ee": "http://doi.acm.org/10.1145/127601.114161",
 	"pages": "626-631",
 	"publisher": "ACM",
-	"stemmed": ["a", "fast", "physic", "constraint", "generat", "for", "time", "driven", "layout"],
-	"tag": ["constraints", "generative", "layout", "performance", "physics"],
+	"stemmed": [
+		"a",
+		"fast",
+		"physic",
+		"constraint",
+		"generat",
+		"for",
+		"time",
+		"driven",
+		"layout"
+	],
+	"tag": [
+		"constraints",
+		"generative",
+		"layout",
+		"performance",
+		"physics"
+	],
 	"title": "A Fast Physical Constraint Generator for Timing Driven Layout",
 	"type": "inproceedings",
 	"venue": "DAC",

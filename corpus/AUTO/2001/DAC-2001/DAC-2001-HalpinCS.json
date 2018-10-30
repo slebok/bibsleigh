@@ -1,14 +1,31 @@
 {
-	"author": ["Bill Halpin", "C. Y. Roger Chen", "Naresh Sehgal"],
-	"booktitle": "DAC",
+	"author": [
+		"Bill Halpin",
+		"C. Y. Roger Chen",
+		"Naresh Sehgal"
+	],
+	"booktitle": "Proceedings of the 38th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2001",
 	"dblpkey": "conf/dac/HalpinCS01",
 	"doi": "10.1145/378239.379065",
 	"ee": "http://doi.acm.org/10.1145/378239.379065",
 	"pages": "780-783",
 	"publisher": "ACM",
-	"stemmed": ["time", "driven", "placement", "use", "physic", "net", "constraint"],
-	"tag": ["constraints", "physics", "using"],
+	"stemmed": [
+		"time",
+		"driven",
+		"placement",
+		"use",
+		"physic",
+		"net",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"physics",
+		"using"
+	],
 	"title": "Timing Driven Placement using Physical Net Constraints",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,6 +1,9 @@
 {
-	"author": ["Arnab Nandi", "H. V. Jagadish"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Arnab Nandi",
+		"H. V. Jagadish"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/NandiJ07",
@@ -8,8 +11,19 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247640",
 	"pages": "1156-1158",
 	"publisher": "ACM",
-	"stemmed": ["assist", "queri", "use", "instant", "respons", "interfac"],
-	"tag": ["interface", "query", "using"],
+	"stemmed": [
+		"assist",
+		"queri",
+		"use",
+		"instant",
+		"respons",
+		"interfac"
+	],
+	"tag": [
+		"interface",
+		"query",
+		"using"
+	],
 	"title": "Assisted querying using instant-response interfaces",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

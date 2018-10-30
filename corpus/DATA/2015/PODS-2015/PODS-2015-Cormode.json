@@ -1,14 +1,25 @@
 {
 	"author": "Graham Cormode",
-	"booktitle": "PODS",
+	"booktitle": "Proceedings of the 34th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2015",
 	"dblpkey": "conf/pods/Cormode15",
 	"doi": "10.1145/2745754.2745781",
 	"ee": "http://doi.acm.org/10.1145/2745754.2745781",
 	"pages": "157-158",
 	"publisher": "ACM",
-	"stemmed": ["compact", "summari", "over", "larg", "dataset"],
-	"tag": ["dataset", "scalability", "summary"],
+	"stemmed": [
+		"compact",
+		"summari",
+		"over",
+		"larg",
+		"dataset"
+	],
+	"tag": [
+		"dataset",
+		"scalability",
+		"summary"
+	],
 	"title": "Compact Summaries over Large Datasets",
 	"type": "inproceedings",
 	"venue": "PODS",

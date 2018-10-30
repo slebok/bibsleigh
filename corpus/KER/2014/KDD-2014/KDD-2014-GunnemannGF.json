@@ -1,14 +1,39 @@
 {
-	"author": ["Stephan Günnemann", "Nikou Günnemann", "Christos Faloutsos"],
-	"booktitle": "KDD",
+	"author": [
+		"Stephan Günnemann",
+		"Nikou Günnemann",
+		"Christos Faloutsos"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/GunnemannGF14",
 	"doi": "10.1145/2623330.2623721",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623721",
 	"pages": "841-850",
 	"publisher": "ACM",
-	"stemmed": ["detect", "anomali", "in", "dynam", "rate", "data", "a", "robust", "probabilist", "model", "for", "rate", "evolut"],
-	"tag": ["detection", "evolution", "probability", "rating", "robust"],
+	"stemmed": [
+		"detect",
+		"anomali",
+		"in",
+		"dynam",
+		"rate",
+		"data",
+		"a",
+		"robust",
+		"probabilist",
+		"model",
+		"for",
+		"rate",
+		"evolut"
+	],
+	"tag": [
+		"detection",
+		"evolution",
+		"probability",
+		"rating",
+		"robust"
+	],
 	"title": "Detecting anomalies in dynamic rating data: a robust probabilistic model for rating evolution",
 	"type": "inproceedings",
 	"venue": "KDD",

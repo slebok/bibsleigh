@@ -1,6 +1,11 @@
 {
-	"author": ["Robert Nieuwenhuis", "Fernando Orejas", "Albert Rubio"],
-	"booktitle": "CADE",
+	"author": [
+		"Robert Nieuwenhuis",
+		"Fernando Orejas",
+		"Albert Rubio"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/NieuwenhuisOR90",
 	"doi": "10.1007/3-540-52885-7_133",
@@ -10,11 +15,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["trip", "an", "implement", "of", "clausal", "rewrit"],
-	"tag": ["implementation", "named"],
+	"stemmed": [
+		"trip",
+		"an",
+		"implement",
+		"of",
+		"clausal",
+		"rewrit"
+	],
+	"tag": [
+		"implementation",
+		"named"
+	],
 	"title": "TRIP: An Implementation of Clausal Rewriting",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

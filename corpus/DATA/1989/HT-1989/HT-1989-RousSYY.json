@@ -1,6 +1,12 @@
 {
-	"author": ["Bernard Rous", "Ben Shneiderman", "Nicole Yankelovich", "Elise A. Yoder"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Bernard Rous",
+		"Ben Shneiderman",
+		"Nicole Yankelovich",
+		"Elise A. Yoder"
+	],
+	"booktitle": "Proceedings of the Second Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1989/P385.pdf",
 	"crossref": "conf/ht/89",
 	"dblpkey": "conf/ht/RousSYY89",
@@ -8,8 +14,21 @@
 	"ee": "http://doi.acm.org/10.1145/74224.74255",
 	"pages": "385-386",
 	"publisher": "ACM",
-	"stemmed": ["lesson", "learn", "from", "the", "acm", "hypertext", "on", "hypertext", "project"],
-	"tag": ["hypermedia", "lessons learnt"],
+	"stemmed": [
+		"lesson",
+		"learn",
+		"from",
+		"the",
+		"acm",
+		"hypertext",
+		"on",
+		"hypertext",
+		"project"
+	],
+	"tag": [
+		"hypermedia",
+		"lessons learnt"
+	],
 	"title": "Lessons Learned from the ACM Hypertext on Hypertext Project",
 	"type": "inproceedings",
 	"venue": "HT",

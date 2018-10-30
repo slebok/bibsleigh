@@ -1,6 +1,7 @@
 {
 	"author": "Hans de Nivelle",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
 	"dblpkey": "conf/cade/Nivelle97",
 	"doi": "10.1007/3-540-63104-6_33",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "classif", "of", "non", "liftabl", "order", "for", "resolut"],
-	"tag": ["classification", "order"],
+	"stemmed": [
+		"a",
+		"classif",
+		"of",
+		"non",
+		"liftabl",
+		"order",
+		"for",
+		"resolut"
+	],
+	"tag": [
+		"classification",
+		"order"
+	],
 	"title": "A Classification of Non-liftable Orders for Resolution",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1249,
+	"volume": "1249",
 	"year": 1997
 }

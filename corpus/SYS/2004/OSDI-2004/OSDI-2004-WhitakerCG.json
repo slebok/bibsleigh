@@ -1,13 +1,31 @@
 {
-	"author": ["Andrew Whitaker", "Richard S. Cox", "Steven D. Gribble"],
-	"booktitle": "OSDI",
+	"author": [
+		"Andrew Whitaker",
+		"Richard S. Cox",
+		"Steven D. Gribble"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2004",
 	"dblpkey": "conf/osdi/WhitakerCG04",
 	"ee": "http://www.usenix.org/events/osdi04/tech/whitaker.html",
 	"pages": "77-90",
 	"publisher": "USENIX Association",
-	"stemmed": ["configur", "debug", "as", "search", "find", "the", "needl", "in", "the", "haystack"],
-	"tag": ["debugging"],
+	"stemmed": [
+		"configur",
+		"debug",
+		"as",
+		"search",
+		"find",
+		"the",
+		"needl",
+		"in",
+		"the",
+		"haystack"
+	],
+	"tag": [
+		"debugging"
+	],
 	"title": "Configuration Debugging as Search: Finding the Needle in the Haystack",
 	"type": "inproceedings",
 	"venue": "OSDI",

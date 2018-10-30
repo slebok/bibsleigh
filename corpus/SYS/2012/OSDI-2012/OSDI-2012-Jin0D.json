@@ -1,13 +1,25 @@
 {
-	"author": ["Guoliang Jin", "Wei Zhang", "Dongdong Deng"],
-	"booktitle": "OSDI",
+	"author": [
+		"Guoliang Jin",
+		"Wei Zhang",
+		"Dongdong Deng"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2012",
 	"dblpkey": "conf/osdi/Jin0D12",
 	"ee": "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/jin",
 	"pages": "221-236",
 	"publisher": "USENIX Association",
-	"stemmed": ["autom", "concurr", "bug", "fix"],
-	"tag": ["automation"],
+	"stemmed": [
+		"autom",
+		"concurr",
+		"bug",
+		"fix"
+	],
+	"tag": [
+		"automation"
+	],
 	"title": "Automated Concurrency-Bug Fixing",
 	"type": "inproceedings",
 	"venue": "OSDI",

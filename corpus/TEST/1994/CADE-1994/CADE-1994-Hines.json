@@ -1,6 +1,7 @@
 {
 	"author": "Larry M. Hines",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/Hines94",
 	"doi": "10.1007/3-540-58156-1_29",
@@ -10,11 +11,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["str", "ve", "and", "integ"],
-	"tag": ["integer"],
+	"stemmed": [
+		"str",
+		"ve",
+		"and",
+		"integ"
+	],
+	"tag": [
+		"integer"
+	],
 	"title": "Str+ve and Integers",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

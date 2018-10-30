@@ -1,14 +1,35 @@
 {
-	"author": ["Marcelo Arenas", "Wenfei Fan", "Leonid Libkin"],
-	"booktitle": "PODS",
+	"author": [
+		"Marcelo Arenas",
+		"Wenfei Fan",
+		"Leonid Libkin"
+	],
+	"booktitle": "Proceedings of the 21st Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2002",
 	"dblpkey": "conf/pods/ArenasFL02",
 	"doi": "10.1145/543613.543647",
-	"ee": ["http://doi.acm.org/10.1145/543613.543647", "http://www.acm.org/sigs/sigmod/pods/proc02/papers/259-ArenasFL.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/543613.543647",
+		"http://www.acm.org/sigs/sigmod/pods/proc02/papers/259-ArenasFL.pdf"
+	],
 	"pages": "259-270",
 	"publisher": "ACM",
-	"stemmed": ["on", "verifi", "consist", "of", "xml", "specif"],
-	"tag": ["consistency", "on the", "specification", "verification", "xml"],
+	"stemmed": [
+		"on",
+		"verifi",
+		"consist",
+		"of",
+		"xml",
+		"specif"
+	],
+	"tag": [
+		"consistency",
+		"on the",
+		"specification",
+		"verification",
+		"xml"
+	],
 	"title": "On Verifying Consistency of XML Specifications",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,6 +1,12 @@
 {
-	"author": ["Tiffany Dohzen", "Mujde Pamuk", "Seok-Won Seong", "Joachim Hammer", "Michael Stonebraker"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Tiffany Dohzen",
+		"Mujde Pamuk",
+		"Seok-Won Seong",
+		"Joachim Hammer",
+		"Michael Stonebraker"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/DohzenPSHS06",
@@ -8,8 +14,21 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142571",
 	"pages": "736-738",
 	"publisher": "ACM",
-	"stemmed": ["data", "integr", "through", "transform", "reus", "in", "the", "morpheus", "project"],
-	"tag": ["integration", "reuse"],
+	"stemmed": [
+		"data",
+		"integr",
+		"through",
+		"transform",
+		"reus",
+		"in",
+		"the",
+		"morpheus",
+		"project"
+	],
+	"tag": [
+		"integration",
+		"reuse"
+	],
 	"title": "Data integration through transform reuse in the Morpheus project",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

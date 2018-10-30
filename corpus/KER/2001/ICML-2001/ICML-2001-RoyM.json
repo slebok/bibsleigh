@@ -1,12 +1,33 @@
 {
-	"author": ["Nicholas Roy", "Andrew McCallum"],
+	"author": [
+		"Nicholas Roy",
+		"Andrew McCallum"
+	],
 	"booktitle": "Proceedings of the 18th International Conference on Machine Learning",
+	"booktitleshort": "ICML",
 	"crossref": "conf/icml/2001",
 	"dblpkey": "conf/icml/RoyM01",
 	"pages": "441-448",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["toward", "optim", "activ", "learn", "through", "sampl", "estim", "of", "error", "reduct"],
-	"tag": ["estimation", "fault", "learning", "reduction", "towards"],
+	"stemmed": [
+		"toward",
+		"optim",
+		"activ",
+		"learn",
+		"through",
+		"sampl",
+		"estim",
+		"of",
+		"error",
+		"reduct"
+	],
+	"tag": [
+		"estimation",
+		"fault",
+		"learning",
+		"reduction",
+		"towards"
+	],
 	"title": "Toward Optimal Active Learning through Sampling Estimation of Error Reduction",
 	"type": "inproceedings",
 	"venue": "ICML",

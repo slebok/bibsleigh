@@ -1,14 +1,45 @@
 {
-	"author": ["Cheng Hian Goh", "Beng Chin Ooi", "D. Sim", "Kian-Lee Tan"],
-	"booktitle": "VLDB",
-	"cite": ["...", "journals/acta/BayerM72", "conf/sigmod/BerchtoldBK98", "conf/vldb/ChanOL92", "conf/vldb/ChouD85", "journals/csur/Comer79", "journals/tods/EffelsbergH84", "conf/focs/GuibasS78", "conf/sigmod/Guttman84", "conf/sigmod/ONeilOW93", "conf/vldb/OoiGT98", "conf/vldb/Sacco87", "conf/vldb/SaccoS82", "journals/jacm/SleatorT85", "journals/cacm/Yao77"],
+	"author": [
+		"Cheng Hian Goh",
+		"Beng Chin Ooi",
+		"D. Sim",
+		"Kian-Lee Tan"
+	],
+	"booktitle": "Proceedings of the 25th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"journals/acta/BayerM72",
+		"conf/sigmod/BerchtoldBK98",
+		"conf/vldb/ChanOL92",
+		"conf/vldb/ChouD85",
+		"journals/csur/Comer79",
+		"journals/tods/EffelsbergH84",
+		"conf/focs/GuibasS78",
+		"conf/sigmod/Guttman84",
+		"conf/sigmod/ONeilOW93",
+		"conf/vldb/OoiGT98",
+		"conf/vldb/Sacco87",
+		"conf/vldb/SaccoS82",
+		"journals/jacm/SleatorT85",
+		"journals/cacm/Yao77"
+	],
 	"crossref": "conf/vldb/99",
 	"dblpkey": "conf/vldb/GohOST99",
 	"ee": "http://www.vldb.org/conf/1999/P34.pdf",
 	"pages": "339-350",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["ghost", "fine", "granular", "buffer", "of", "index"],
-	"tag": ["named"],
+	"stemmed": [
+		"ghost",
+		"fine",
+		"granular",
+		"buffer",
+		"of",
+		"index"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "GHOST: Fine Granularity Buffering of Indexes",
 	"type": "inproceedings",
 	"venue": "VLDB",

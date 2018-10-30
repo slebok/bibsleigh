@@ -1,6 +1,7 @@
 {
 	"author": "Robert H. Ledwith",
 	"booktitle": "Proceedings of the 11th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P651.pdf",
 	"crossref": "conf/sigir/88",
 	"dblpkey": "conf/sigir/Ledwith88",
@@ -8,8 +9,25 @@
 	"ee": "http://doi.acm.org/10.1145/62437.62503",
 	"pages": "651-661",
 	"publisher": "ACM",
-	"stemmed": ["develop", "of", "a", "larg", "concept", "orient", "databas", "for", "inform", "retriev"],
-	"tag": ["concept", "database", "development", "information retrieval", "scalability"],
+	"stemmed": [
+		"develop",
+		"of",
+		"a",
+		"larg",
+		"concept",
+		"orient",
+		"databas",
+		"for",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"concept",
+		"database",
+		"development",
+		"information retrieval",
+		"scalability"
+	],
 	"title": "Development of a Large, Concept-Oriented Database for Information Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

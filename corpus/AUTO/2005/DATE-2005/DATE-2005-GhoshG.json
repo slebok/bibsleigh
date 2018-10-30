@@ -1,6 +1,10 @@
 {
-	"author": ["Arijit Ghosh", "Tony Givargis"],
-	"booktitle": "DATE",
+	"author": [
+		"Arijit Ghosh",
+		"Tony Givargis"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/GhoshG05",
 	"doi": "10.1109/DATE.2005.200",
@@ -8,8 +12,30 @@
 	"pages": "190-195",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["lord", "a", "local", "reactiv", "and", "distribut", "protocol", "for", "node", "schedul", "in", "wireless", "sensor", "network"],
-	"tag": ["distributed", "locality", "named", "network", "protocol", "scheduling"],
+	"stemmed": [
+		"lord",
+		"a",
+		"local",
+		"reactiv",
+		"and",
+		"distribut",
+		"protocol",
+		"for",
+		"node",
+		"schedul",
+		"in",
+		"wireless",
+		"sensor",
+		"network"
+	],
+	"tag": [
+		"distributed",
+		"locality",
+		"named",
+		"network",
+		"protocol",
+		"scheduling"
+	],
 	"title": "LORD: A Localized, Reactive and Distributed Protocol for Node Scheduling in Wireless Sensor Networks",
 	"type": "inproceedings",
 	"venue": "DATE",

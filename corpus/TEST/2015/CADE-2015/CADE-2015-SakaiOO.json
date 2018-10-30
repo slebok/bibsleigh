@@ -1,6 +1,11 @@
 {
-	"author": ["Masahiko Sakai", "Michio Oyamaguchi", "Mizuhito Ogawa"],
-	"booktitle": "CADE",
+	"author": [
+		"Masahiko Sakai",
+		"Michio Oyamaguchi",
+		"Mizuhito Ogawa"
+	],
+	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
 	"dblpkey": "conf/cade/SakaiOO15",
 	"doi": "10.1007/978-3-319-21401-6_7",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["non", "e", "overlap", "weak", "shallow", "and", "non", "collaps", "trss", "are", "confluent"],
-	"tag": ["confluence"],
+	"stemmed": [
+		"non",
+		"e",
+		"overlap",
+		"weak",
+		"shallow",
+		"and",
+		"non",
+		"collaps",
+		"trss",
+		"are",
+		"confluent"
+	],
+	"tag": [
+		"confluence"
+	],
 	"title": "Non-E-Overlapping, Weakly Shallow, and Non-Collapsing TRSs are Confluent",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 9195,
+	"volume": "9195",
 	"year": 2015
 }

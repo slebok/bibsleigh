@@ -1,6 +1,12 @@
 {
-	"author": ["Vu Nguyen", "Michael Blumenstein", "Vallipuram Muthukkumarasamy", "Graham Leedham"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Vu Nguyen",
+		"Michael Blumenstein",
+		"Vallipuram Muthukkumarasamy",
+		"Graham Leedham"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/NguyenBML07",
 	"doi": "10.1109/ICDAR.2007.192",
@@ -8,8 +14,31 @@
 	"pages": "734-738",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["off", "line", "signatur", "verif", "use", "enhanc", "modifi", "direct", "featur", "in", "conjunct", "with", "neural", "classifi", "and", "support", "vector", "machin"],
-	"tag": ["classification", "using", "verification"],
+	"stemmed": [
+		"off",
+		"line",
+		"signatur",
+		"verif",
+		"use",
+		"enhanc",
+		"modifi",
+		"direct",
+		"featur",
+		"in",
+		"conjunct",
+		"with",
+		"neural",
+		"classifi",
+		"and",
+		"support",
+		"vector",
+		"machin"
+	],
+	"tag": [
+		"classification",
+		"using",
+		"verification"
+	],
 	"title": "Off-line Signature Verification Using Enhanced Modified Direction Features in Conjunction with Neural Classifiers and Support Vector Machines",
 	"type": "inproceedings",
 	"venue": "ICDAR",

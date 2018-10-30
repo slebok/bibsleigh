@@ -1,13 +1,24 @@
 {
 	"author": "Gilles Fecteau",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the 21st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/95",
 	"dblpkey": "conf/vldb/Fecteau95",
 	"ee": "http://www.vldb.org/conf/1995/P692.PDF",
 	"pages": "692-693",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["manag", "a", "db", "parallel", "edit", "databas"],
-	"tag": ["database", "parallel"],
+	"stemmed": [
+		"manag",
+		"a",
+		"db",
+		"parallel",
+		"edit",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"parallel"
+	],
 	"title": "Managing a DB2 Parallel Edition Database",
 	"type": "inproceedings",
 	"venue": "VLDB",

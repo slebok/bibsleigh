@@ -1,14 +1,37 @@
 {
-	"author": ["Corin R. Anderson", "Pedro M. Domingos", "Daniel S. Weld"],
-	"booktitle": "KDD",
+	"author": [
+		"Corin R. Anderson",
+		"Pedro M. Domingos",
+		"Daniel S. Weld"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/AndersonDW02",
 	"doi": "10.1145/775047.775068",
 	"ee": "http://doi.acm.org/10.1145/775047.775068",
 	"pages": "143-152",
 	"publisher": "ACM",
-	"stemmed": ["relat", "markov", "model", "and", "their", "applic", "to", "adapt", "web", "navig"],
-	"tag": ["adaptation", "markov", "modelling", "navigation", "relational", "web"],
+	"stemmed": [
+		"relat",
+		"markov",
+		"model",
+		"and",
+		"their",
+		"applic",
+		"to",
+		"adapt",
+		"web",
+		"navig"
+	],
+	"tag": [
+		"adaptation",
+		"markov",
+		"modelling",
+		"navigation",
+		"relational",
+		"web"
+	],
 	"title": "Relational Markov models and their application to adaptive web navigation",
 	"type": "inproceedings",
 	"venue": "KDD",

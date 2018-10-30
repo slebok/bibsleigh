@@ -1,14 +1,29 @@
 {
-	"author": ["Bruno D. Abrahao", "Flavio Chierichetti", "Robert Kleinberg", "Alessandro Panconesi"],
-	"booktitle": "KDD",
+	"author": [
+		"Bruno D. Abrahao",
+		"Flavio Chierichetti",
+		"Robert Kleinberg",
+		"Alessandro Panconesi"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/AbrahaoCKP13",
 	"doi": "10.1145/2487575.2487664",
 	"ee": "http://doi.acm.org/10.1145/2487575.2487664",
 	"pages": "491-499",
 	"publisher": "ACM",
-	"stemmed": ["trace", "complex", "of", "network", "infer"],
-	"tag": ["complexity", "network"],
+	"stemmed": [
+		"trace",
+		"complex",
+		"of",
+		"network",
+		"infer"
+	],
+	"tag": [
+		"complexity",
+		"network"
+	],
 	"title": "Trace complexity of network inference",
 	"type": "inproceedings",
 	"venue": "KDD",

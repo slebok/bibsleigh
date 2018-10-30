@@ -1,13 +1,31 @@
 {
-	"author": ["Dierk Lüdemann", "Rainer Koschke"],
-	"booktitle": "SCAM",
+	"author": [
+		"Dierk Lüdemann",
+		"Rainer Koschke"
+	],
+	"booktitle": "Proceedings of the 15th International Working Conference on Source Code Analysis and Manipulation",
+	"booktitleshort": "SCAM",
 	"crossref": "conf/scam/2015",
 	"dblpkey": "conf/scam/LudemannK15",
 	"doi": "10.1109/SCAM.2015.7335417",
 	"pages": "211-220",
 	"publisher": "IEEE",
-	"stemmed": ["from", "preprocessor", "constrain", "pars", "graph", "to", "preprocessor", "constrain", "control", "flow"],
-	"tag": ["control flow", "graph"],
+	"stemmed": [
+		"from",
+		"preprocessor",
+		"constrain",
+		"pars",
+		"graph",
+		"to",
+		"preprocessor",
+		"constrain",
+		"control",
+		"flow"
+	],
+	"tag": [
+		"control flow",
+		"graph"
+	],
 	"title": "From preprocessor-constrained parse graphs to preprocessor-constrained control flow",
 	"type": "inproceedings",
 	"venue": "SCAM",

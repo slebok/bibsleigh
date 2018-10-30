@@ -1,6 +1,10 @@
 {
-	"author": ["Yvon Kermarrec", "Laurent Pautet"],
-	"booktitle": "CSEE",
+	"author": [
+		"Yvon Kermarrec",
+		"Laurent Pautet"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Software Engineering Education and Training",
+	"booktitleshort": "CSEE",
 	"crossref": "conf/csee/1994",
 	"dblpkey": "conf/csee/KermarrecP94",
 	"doi": "10.1007/BFb0017608",
@@ -9,11 +13,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["ada", "reusabl", "softwar", "compon", "for", "teach", "distribut", "system"],
-	"tag": ["ada", "component", "distributed", "education", "reuse"],
+	"stemmed": [
+		"ada",
+		"reusabl",
+		"softwar",
+		"compon",
+		"for",
+		"teach",
+		"distribut",
+		"system"
+	],
+	"tag": [
+		"ada",
+		"component",
+		"distributed",
+		"education",
+		"reuse"
+	],
 	"title": "Ada Reusable Software Components for Teaching Distributed Systems",
 	"type": "inproceedings",
 	"venue": "CSEET",
-	"volume": 750,
+	"volume": "750",
 	"year": 1994
 }

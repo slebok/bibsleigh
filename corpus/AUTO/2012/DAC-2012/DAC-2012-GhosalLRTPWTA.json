@@ -1,14 +1,38 @@
 {
-	"author": ["Arkadeb Ghosal", "Rhishikesh Limaye", "Kaushik Ravindran", "Stavros Tripakis", "Ankita Prasad", "Guoqiang Wang", "Trung N. Tran", "Hugo A. Andrade"],
-	"booktitle": "DAC",
+	"author": [
+		"Arkadeb Ghosal",
+		"Rhishikesh Limaye",
+		"Kaushik Ravindran",
+		"Stavros Tripakis",
+		"Ankita Prasad",
+		"Guoqiang Wang",
+		"Trung N. Tran",
+		"Hugo A. Andrade"
+	],
+	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/GhosalLRTPWTA12",
 	"doi": "10.1145/2228360.2228479",
 	"ee": "http://doi.acm.org/10.1145/2228360.2228479",
 	"pages": "656-663",
 	"publisher": "ACM",
-	"stemmed": ["static", "dataflow", "with", "access", "pattern", "semant", "and", "analysi"],
-	"tag": ["analysis", "data access", "data flow", "semantics"],
+	"stemmed": [
+		"static",
+		"dataflow",
+		"with",
+		"access",
+		"pattern",
+		"semant",
+		"and",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"data access",
+		"data flow",
+		"semantics"
+	],
 	"title": "Static dataflow with access patterns: semantics and analysis",
 	"type": "inproceedings",
 	"venue": "DAC",

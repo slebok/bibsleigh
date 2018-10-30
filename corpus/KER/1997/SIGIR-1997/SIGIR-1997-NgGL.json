@@ -1,6 +1,11 @@
 {
-	"author": ["Hwee Tou Ng", "Wei Boon Goh", "Kok Leong Low"],
+	"author": [
+		"Hwee Tou Ng",
+		"Wei Boon Goh",
+		"Kok Leong Low"
+	],
 	"booktitle": "Proceedings of the 20th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1997/P067.pdf",
 	"crossref": "conf/sigir/97",
 	"dblpkey": "conf/sigir/NgGL97",
@@ -8,8 +13,27 @@
 	"ee": "http://doi.acm.org/10.1145/258525.258537",
 	"pages": "67-73",
 	"publisher": "ACM",
-	"stemmed": ["featur", "select", "perceptron", "learn", "and", "a", "usabl", "case", "studi", "for", "text", "categor"],
-	"tag": ["case study", "categorisation", "feature model", "learning", "usability"],
+	"stemmed": [
+		"featur",
+		"select",
+		"perceptron",
+		"learn",
+		"and",
+		"a",
+		"usabl",
+		"case",
+		"studi",
+		"for",
+		"text",
+		"categor"
+	],
+	"tag": [
+		"case study",
+		"categorisation",
+		"feature model",
+		"learning",
+		"usability"
+	],
 	"title": "Feature Selection, Perceptron Learning, and a Usability Case Study for Text Categorization",
 	"type": "inproceedings",
 	"venue": "SIGIR",

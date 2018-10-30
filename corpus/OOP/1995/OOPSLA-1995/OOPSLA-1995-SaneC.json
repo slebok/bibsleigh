@@ -1,6 +1,9 @@
 {
-	"author": ["Aamod Sane", "Roy H. Campbell"],
-	"booktitle": "Proceedings of the 10th Annual Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"author": [
+		"Aamod Sane",
+		"Roy H. Campbell"
+	],
+	"booktitle": "Proceedings of the 10th Annual Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1995",
 	"dblpkey": "conf/oopsla/SaneC95",
@@ -10,8 +13,23 @@
 	"isbn": "0-89791-703-0",
 	"pages": "17-32",
 	"publisher": "ACM",
-	"stemmed": ["object", "orient", "state", "machin", "subclass", "composit", "deleg", "and", "generic"],
-	"tag": ["composition", "object-oriented", "state machine", "subclass"],
+	"stemmed": [
+		"object",
+		"orient",
+		"state",
+		"machin",
+		"subclass",
+		"composit",
+		"deleg",
+		"and",
+		"generic"
+	],
+	"tag": [
+		"composition",
+		"object-oriented",
+		"state machine",
+		"subclass"
+	],
 	"title": "Object-Oriented State Machines: Subclassing, Composition, Delegation and Genericity",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

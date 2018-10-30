@@ -1,14 +1,27 @@
 {
-	"author": ["Cody Cutler", "Robert Morris"],
-	"booktitle": "ISMM",
+	"author": [
+		"Cody Cutler",
+		"Robert Morris"
+	],
+	"booktitle": "Proceedings of the 14th International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2015",
 	"dblpkey": "conf/iwmm/CutlerM15",
 	"doi": "10.1145/2754169.2754184",
 	"ee": "http://doi.acm.org/10.1145/2754169.2754184",
 	"pages": "131-142",
 	"publisher": "ACM",
-	"stemmed": ["reduc", "paus", "time", "with", "cluster", "collect"],
-	"tag": ["clustering"],
+	"stemmed": [
+		"reduc",
+		"paus",
+		"time",
+		"with",
+		"cluster",
+		"collect"
+	],
+	"tag": [
+		"clustering"
+	],
 	"title": "Reducing pause times with clustered collection",
 	"type": "inproceedings",
 	"venue": "ISMM",

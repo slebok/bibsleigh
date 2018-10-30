@@ -1,6 +1,9 @@
 {
-	"author": ["Feng Qian", "Laurie J. Hendren"],
-	"booktitle": "MSP/ISMM",
+	"author": [
+		"Feng Qian",
+		"Laurie J. Hendren"
+	],
+	"booktitle": "Proceedings of the Third International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2002",
 	"dblpkey": "conf/iwmm/QianH02",
@@ -8,8 +11,19 @@
 	"ee": "http://doi.acm.org/10.1145/773039.512446",
 	"pages": "233-244",
 	"publisher": "ACM",
-	"stemmed": ["an", "adapt", "region", "base", "alloc", "for", "java"],
-	"tag": ["adaptation", "java"],
+	"stemmed": [
+		"an",
+		"adapt",
+		"region",
+		"base",
+		"alloc",
+		"for",
+		"java"
+	],
+	"tag": [
+		"adaptation",
+		"java"
+	],
 	"title": "An adaptive, region-based allocator for java",
 	"type": "inproceedings",
 	"venue": "ISMM",

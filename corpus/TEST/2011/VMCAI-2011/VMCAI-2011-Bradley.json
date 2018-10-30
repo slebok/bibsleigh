@@ -1,6 +1,7 @@
 {
 	"author": "Aaron R. Bradley",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the 12th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2011",
 	"dblpkey": "conf/vmcai/Bradley11",
 	"doi": "10.1007/978-3-642-18275-4_7",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["sat", "base", "model", "check", "without", "unrol"],
-	"tag": ["model checking", "satisfiability"],
+	"stemmed": [
+		"sat",
+		"base",
+		"model",
+		"check",
+		"without",
+		"unrol"
+	],
+	"tag": [
+		"model checking",
+		"satisfiability"
+	],
 	"title": "SAT-Based Model Checking without Unrolling",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 6538,
+	"volume": "6538",
 	"year": 2011
 }

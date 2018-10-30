@@ -1,14 +1,30 @@
 {
-	"author": ["Tom J. Ameloot", "Frank Neven", "Jan Van den Bussche"],
-	"booktitle": "PODS",
+	"author": [
+		"Tom J. Ameloot",
+		"Frank Neven",
+		"Jan Van den Bussche"
+	],
+	"booktitle": "Proceedings of the 30th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2011",
 	"dblpkey": "conf/pods/AmelootNB11",
 	"doi": "10.1145/1989284.1989321",
 	"ee": "http://doi.acm.org/10.1145/1989284.1989321",
 	"pages": "283-292",
 	"publisher": "ACM",
-	"stemmed": ["relat", "transduc", "for", "declar", "network"],
-	"tag": ["declarative", "network", "relational", "transducer"],
+	"stemmed": [
+		"relat",
+		"transduc",
+		"for",
+		"declar",
+		"network"
+	],
+	"tag": [
+		"declarative",
+		"network",
+		"relational",
+		"transducer"
+	],
 	"title": "Relational transducers for declarative networking",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,6 +1,11 @@
 {
-	"author": ["Peng Sun", "Ziyang Liu", "Susan B. Davidson", "Yi Chen"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Peng Sun",
+		"Ziyang Liu",
+		"Susan B. Davidson",
+		"Yi Chen"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/SunLDC09",
@@ -8,8 +13,23 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559903",
 	"pages": "549-562",
 	"publisher": "ACM",
-	"stemmed": ["detect", "and", "resolv", "unsound", "workflow", "view", "for", "correct", "proven", "analysi"],
-	"tag": ["analysis", "detection", "workflow"],
+	"stemmed": [
+		"detect",
+		"and",
+		"resolv",
+		"unsound",
+		"workflow",
+		"view",
+		"for",
+		"correct",
+		"proven",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"detection",
+		"workflow"
+	],
 	"title": "Detecting and resolving unsound workflow views for correct provenance analysis",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

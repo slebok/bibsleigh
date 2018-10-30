@@ -1,6 +1,11 @@
 {
-	"author": ["Samuel Fricker", "Tony Gorschek", "Petri Myllyperkiö"],
-	"booktitle": "REFSQ",
+	"author": [
+		"Samuel Fricker",
+		"Tony Gorschek",
+		"Petri Myllyperkiö"
+	],
+	"booktitle": "Proceedings of the 13th International Working Conference on Requirements Engineering: Foundation for Software Quality",
+	"booktitleshort": "REFSQ",
 	"crossref": "conf/refsq/2007",
 	"dblpkey": "conf/refsq/FrickerGM07",
 	"doi": "10.1007/978-3-540-73031-6_11",
@@ -9,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["handshak", "between", "softwar", "project", "and", "stakehold", "use", "implement", "propos"],
-	"tag": ["implementation", "using"],
+	"stemmed": [
+		"handshak",
+		"between",
+		"softwar",
+		"project",
+		"and",
+		"stakehold",
+		"use",
+		"implement",
+		"propos"
+	],
+	"tag": [
+		"implementation",
+		"using"
+	],
 	"title": "Handshaking Between Software Projects and Stakeholders Using Implementation Proposals",
 	"type": "inproceedings",
 	"venue": "REFSQ",
-	"volume": 4542,
+	"volume": "4542",
 	"year": 2007
 }

@@ -1,15 +1,41 @@
 {
-	"author": ["Todd C. Mowy", "Charles Q. C. Chan", "Adley K. W. Lo"],
-	"booktitle": "HPCA",
+	"author": [
+		"Todd C. Mowy",
+		"Charles Q. C. Chan",
+		"Adley K. W. Lo"
+	],
+	"booktitle": "Proceedings of the Fourth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1998",
 	"dblpkey": "conf/hpca/MowyCL98",
 	"doi": "10.1109/HPCA.1998.650569",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1998.650569", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1998.650569"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1998.650569",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1998.650569"
+	],
 	"pages": "300-311",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["compar", "evalu", "of", "latenc", "toler", "techniqu", "for", "softwar", "distribut", "share", "memori"],
-	"tag": ["comparative", "distributed", "evaluation", "latency", "memory management"],
+	"stemmed": [
+		"compar",
+		"evalu",
+		"of",
+		"latenc",
+		"toler",
+		"techniqu",
+		"for",
+		"softwar",
+		"distribut",
+		"share",
+		"memori"
+	],
+	"tag": [
+		"comparative",
+		"distributed",
+		"evaluation",
+		"latency",
+		"memory management"
+	],
 	"title": "Comparative Evaluation of Latency Tolerance Techniques for Software Distributed Shared Memory",
 	"type": "inproceedings",
 	"venue": "HPCA",

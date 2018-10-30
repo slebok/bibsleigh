@@ -1,15 +1,41 @@
 {
-	"author": ["Yojiro Tonouchi", "Akinori Kawamura"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Yojiro Tonouchi",
+		"Akinori Kawamura"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/1997",
 	"dblpkey": "conf/icdar/TonouchiK97",
 	"doi": "10.1109/ICDAR.1997.620582",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1997.620582", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1997.620582"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1997.620582",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1997.620582"
+	],
 	"pages": "633-636",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["an", "on", "line", "japanes", "charact", "recognit", "method", "use", "length", "base", "stroke", "correspond", "algorithm"],
-	"tag": ["algorithm", "online", "recognition", "using"],
+	"stemmed": [
+		"an",
+		"on",
+		"line",
+		"japanes",
+		"charact",
+		"recognit",
+		"method",
+		"use",
+		"length",
+		"base",
+		"stroke",
+		"correspond",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"online",
+		"recognition",
+		"using"
+	],
 	"title": "An on-line Japanese character recognition method using length-based stroke correspondence algorithm",
 	"type": "inproceedings",
 	"venue": "ICDAR",

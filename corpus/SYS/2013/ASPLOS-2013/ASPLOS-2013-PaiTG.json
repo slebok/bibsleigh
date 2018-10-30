@@ -1,14 +1,29 @@
 {
-	"author": ["Sreepathi Pai", "Matthew J. Thazhuthaveetil", "R. Govindarajan"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Sreepathi Pai",
+		"Matthew J. Thazhuthaveetil",
+		"R. Govindarajan"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2013",
 	"dblpkey": "conf/asplos/PaiTG13",
 	"doi": "10.1145/2451116.2451160",
 	"ee": "http://doi.acm.org/10.1145/2451116.2451160",
 	"pages": "407-418",
 	"publisher": "ACM",
-	"stemmed": ["improv", "gpgpu", "concurr", "with", "elast", "kernel"],
-	"tag": ["concurrent", "kernel"],
+	"stemmed": [
+		"improv",
+		"gpgpu",
+		"concurr",
+		"with",
+		"elast",
+		"kernel"
+	],
+	"tag": [
+		"concurrent",
+		"kernel"
+	],
 	"title": "Improving GPGPU concurrency with elastic kernels",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

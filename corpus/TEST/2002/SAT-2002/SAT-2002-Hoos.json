@@ -1,12 +1,33 @@
 {
-	"address": ["Cincinnati", "Ohio", "USA"],
+	"address": [
+		"Cincinnati",
+		"Ohio",
+		"USA"
+	],
 	"author": "Holger Hoos",
 	"booktitle": "Proceedings of the Fifth International Symposium on the Theory and Applications of Satisfiability Testing",
+	"booktitleshort": "SAT",
 	"editor": "John Franco",
 	"month": "may",
-	"pages": 41,
-	"stemmed": ["sls", "algorithm", "for", "sat", "irregular", "instanc", "search", "stagnat", "and", "mixtur", "model"],
-	"tag": ["algorithm", "modelling", "satisfiability"],
+	"pages": "41",
+	"stemmed": [
+		"sls",
+		"algorithm",
+		"for",
+		"sat",
+		"irregular",
+		"instanc",
+		"search",
+		"stagnat",
+		"and",
+		"mixtur",
+		"model"
+	],
+	"tag": [
+		"algorithm",
+		"modelling",
+		"satisfiability"
+	],
 	"title": "SLS algorithms for SAT: irregular instances, search stagnation, and mixture models",
 	"type": "inproceedings",
 	"venue": "SAT",

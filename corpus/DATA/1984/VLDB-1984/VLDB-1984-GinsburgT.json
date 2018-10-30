@@ -1,14 +1,38 @@
 {
-	"author": ["Seymour Ginsburg", "Katsumi Tanaka"],
-	"booktitle": "VLDB",
-	"cite": ["journals/cacm/Allen83", "...", "journals/tods/CliffordW83", "journals/tods/DayalB82", "journals/tods/GinsburgT86", "journals/tcs/GinsburgT95", "conf/er/Klopprogge81", "journals/tods/KlugP82", "books/cs/Ullman82"],
+	"author": [
+		"Seymour Ginsburg",
+		"Katsumi Tanaka"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/cacm/Allen83",
+		"...",
+		"journals/tods/CliffordW83",
+		"journals/tods/DayalB82",
+		"journals/tods/GinsburgT86",
+		"journals/tcs/GinsburgT95",
+		"conf/er/Klopprogge81",
+		"journals/tods/KlugP82",
+		"books/cs/Ullman82"
+	],
 	"crossref": "conf/vldb/84",
 	"dblpkey": "conf/vldb/GinsburgT84",
 	"ee": "http://www.vldb.org/conf/1984/P208.PDF",
 	"pages": "208-217",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["interv", "queri", "on", "object", "histori", "extend", "abstract"],
-	"tag": ["query"],
+	"stemmed": [
+		"interv",
+		"queri",
+		"on",
+		"object",
+		"histori",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Interval Queries on Object Histories: Extended Abstract",
 	"type": "inproceedings",
 	"venue": "VLDB",

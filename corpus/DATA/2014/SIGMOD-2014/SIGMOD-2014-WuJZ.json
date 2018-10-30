@@ -1,6 +1,10 @@
 {
-	"author": ["Yubao Wu", "Ruoming Jin", "Xiang Zhang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yubao Wu",
+		"Ruoming Jin",
+		"Xiang Zhang"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/WuJZ14",
@@ -8,8 +12,32 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2610500",
 	"pages": "1139-1150",
 	"publisher": "ACM",
-	"stemmed": ["fast", "and", "unifi", "local", "search", "for", "random", "walk", "base", "k", "nearest", "neighbor", "queri", "in", "larg", "graph"],
-	"tag": ["graph", "nearest neighbour", "performance", "query", "random", "scalability"],
+	"stemmed": [
+		"fast",
+		"and",
+		"unifi",
+		"local",
+		"search",
+		"for",
+		"random",
+		"walk",
+		"base",
+		"k",
+		"nearest",
+		"neighbor",
+		"queri",
+		"in",
+		"larg",
+		"graph"
+	],
+	"tag": [
+		"graph",
+		"nearest neighbour",
+		"performance",
+		"query",
+		"random",
+		"scalability"
+	],
 	"title": "Fast and unified local search for random walk based k-nearest-neighbor query in large graphs",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

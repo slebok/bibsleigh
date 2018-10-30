@@ -1,6 +1,10 @@
 {
-	"author": ["James Harland", "David J. Pym"],
-	"booktitle": "CADE",
+	"author": [
+		"James Harland",
+		"David J. Pym"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
 	"dblpkey": "conf/cade/HarlandP97",
 	"doi": "10.1007/3-540-63104-6_21",
@@ -10,11 +14,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["resourc", "distribut", "via", "boolean", "constraint", "extend", "abstract"],
-	"tag": ["constraints"],
+	"stemmed": [
+		"resourc",
+		"distribut",
+		"via",
+		"boolean",
+		"constraint",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"constraints"
+	],
 	"title": "Resource-Distribution via Boolean Constraint (Extended Abstract)",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1249,
+	"volume": "1249",
 	"year": 1997
 }

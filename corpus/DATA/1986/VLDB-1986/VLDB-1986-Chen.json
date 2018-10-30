@@ -1,14 +1,35 @@
 {
 	"author": "Qiming Chen",
-	"booktitle": "VLDB",
-	"cite": ["conf/sigmod/Chen86", "...", "...", "journals/cacm/EswarranGLT76", "conf/icod/MelkanoffC83", "conf/vldb/StonebrakerR84"],
+	"booktitle": "Proceedings of the 12th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/sigmod/Chen86",
+		"...",
+		"...",
+		"journals/cacm/EswarranGLT76",
+		"conf/icod/MelkanoffC83",
+		"conf/vldb/StonebrakerR84"
+	],
 	"crossref": "conf/vldb/86",
 	"dblpkey": "conf/vldb/Chen86",
 	"ee": "http://www.vldb.org/conf/1986/P248.PDF",
-	"pages": 248,
+	"pages": "248",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["the", "manag", "of", "dynam", "distribut", "databas", "window", "extend", "abstract"],
-	"tag": ["database", "distributed"],
+	"stemmed": [
+		"the",
+		"manag",
+		"of",
+		"dynam",
+		"distribut",
+		"databas",
+		"window",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"database",
+		"distributed"
+	],
 	"title": "The Management of Dynamically Distributed Database Windows (Extended Abstract)",
 	"type": "inproceedings",
 	"venue": "VLDB",

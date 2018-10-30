@@ -1,6 +1,13 @@
 {
-	"author": ["Michael G. Burke", "Ron Cytron", "Jeanne Ferrante", "Wilson C. Hsieh", "Vivek Sarkar", "David Shields"],
-	"booktitle": "PPOPP/PPEALS",
+	"author": [
+		"Michael G. Burke",
+		"Ron Cytron",
+		"Jeanne Ferrante",
+		"Wilson C. Hsieh",
+		"Vivek Sarkar",
+		"David Shields"
+	],
+	"booktitle": "Proceedings of the First Symposium on Parallel Programming: Experience with Applications, Languages and Systems",
 	"booktitleshort": "PPEALS",
 	"crossref": "conf/ppopp/1988",
 	"dblpkey": "conf/ppopp/BurkeCFHSS88",
@@ -8,8 +15,24 @@
 	"ee": "http://doi.acm.org/10.1145/62115.62124",
 	"pages": "77-84",
 	"publisher": "ACM",
-	"stemmed": ["automat", "discoveri", "of", "parallel", "a", "tool", "and", "an", "experi", "extend", "abstract"],
-	"tag": ["automation", "empirical", "parallel"],
+	"stemmed": [
+		"automat",
+		"discoveri",
+		"of",
+		"parallel",
+		"a",
+		"tool",
+		"and",
+		"an",
+		"experi",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"automation",
+		"empirical",
+		"parallel"
+	],
 	"title": "Automatic Discovery of Parallelism: A Tool and an Experiment (Extended Abstract)",
 	"type": "inproceedings",
 	"venue": "PPoPP",

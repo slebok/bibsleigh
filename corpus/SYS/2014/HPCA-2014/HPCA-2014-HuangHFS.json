@@ -1,6 +1,12 @@
 {
-	"author": ["Ruirui C. Huang", "Erik Halberg", "Andrew Ferraiuolo", "G. Edward Suh"],
-	"booktitle": "HPCA",
+	"author": [
+		"Ruirui C. Huang",
+		"Erik Halberg",
+		"Andrew Ferraiuolo",
+		"G. Edward Suh"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/HuangHFS14",
 	"doi": "10.1109/HPCA.2014.6835979",
@@ -8,8 +14,29 @@
 	"pages": "96-107",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["low", "overhead", "and", "high", "coverag", "run", "time", "race", "detect", "through", "select", "meta", "data", "manag"],
-	"tag": ["concurrent", "data transformation", "detection", "metadata", "runtime"],
+	"stemmed": [
+		"low",
+		"overhead",
+		"and",
+		"high",
+		"coverag",
+		"run",
+		"time",
+		"race",
+		"detect",
+		"through",
+		"select",
+		"meta",
+		"data",
+		"manag"
+	],
+	"tag": [
+		"concurrent",
+		"data transformation",
+		"detection",
+		"metadata",
+		"runtime"
+	],
 	"title": "Low-overhead and high coverage run-time race detection through selective meta-data management",
 	"type": "inproceedings",
 	"venue": "HPCA",

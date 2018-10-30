@@ -1,6 +1,7 @@
 {
 	"author": "Barry Arons",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the Third Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1991/P133.pdf",
 	"crossref": "conf/ht/91",
 	"dblpkey": "conf/ht/Arons91",
@@ -8,8 +9,19 @@
 	"ee": "http://doi.acm.org/10.1145/122974.122989",
 	"pages": "133-146",
 	"publisher": "ACM",
-	"stemmed": ["hyperspeech", "navig", "in", "speech", "onli", "hypermedia"],
-	"tag": ["hypermedia", "named", "navigation"],
+	"stemmed": [
+		"hyperspeech",
+		"navig",
+		"in",
+		"speech",
+		"onli",
+		"hypermedia"
+	],
+	"tag": [
+		"hypermedia",
+		"named",
+		"navigation"
+	],
 	"title": "Hyperspeech: Navigating in Speech-Only Hypermedia",
 	"type": "inproceedings",
 	"venue": "HT",

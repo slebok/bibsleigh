@@ -1,14 +1,38 @@
 {
-	"author": ["Sujan Pandey", "Manfred Glesner"],
-	"booktitle": "DAC",
+	"author": [
+		"Sujan Pandey",
+		"Manfred Glesner"
+	],
+	"booktitle": "Proceedings of the 43rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/PandeyG06",
 	"doi": "10.1145/1146909.1147078",
 	"ee": "http://doi.acm.org/10.1145/1146909.1147078",
 	"pages": "663-668",
 	"publisher": "ACM",
-	"stemmed": ["statist", "on", "chip", "communic", "bus", "synthesi", "and", "voltag", "scale", "under", "time", "yield", "constraint"],
-	"tag": ["communication", "constraints", "scalability", "statistics", "synthesis"],
+	"stemmed": [
+		"statist",
+		"on",
+		"chip",
+		"communic",
+		"bus",
+		"synthesi",
+		"and",
+		"voltag",
+		"scale",
+		"under",
+		"time",
+		"yield",
+		"constraint"
+	],
+	"tag": [
+		"communication",
+		"constraints",
+		"scalability",
+		"statistics",
+		"synthesis"
+	],
 	"title": "Statistical on-chip communication bus synthesis and voltage scaling under timing yield constraint",
 	"type": "inproceedings",
 	"venue": "DAC",

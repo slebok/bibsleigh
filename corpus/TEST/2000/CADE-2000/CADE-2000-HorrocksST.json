@@ -1,6 +1,11 @@
 {
-	"author": ["Ian Horrocks", "Ulrike Sattler", "Stephan Tobies"],
-	"booktitle": "CADE",
+	"author": [
+		"Ian Horrocks",
+		"Ulrike Sattler",
+		"Stephan Tobies"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2000",
 	"dblpkey": "conf/cade/HorrocksST00",
 	"doi": "10.1007/10721959_39",
@@ -10,11 +15,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["reason", "with", "individu", "for", "the", "descript", "logic", "shiq"],
-	"tag": ["logic", "reasoning"],
+	"stemmed": [
+		"reason",
+		"with",
+		"individu",
+		"for",
+		"the",
+		"descript",
+		"logic",
+		"shiq"
+	],
+	"tag": [
+		"logic",
+		"reasoning"
+	],
 	"title": "Reasoning with Individuals for the Description Logic SHIQ",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1831,
+	"volume": "1831",
 	"year": 2000
 }

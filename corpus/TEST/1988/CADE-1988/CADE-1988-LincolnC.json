@@ -1,6 +1,10 @@
 {
-	"author": ["Patrick Lincoln", "Jim Christian"],
-	"booktitle": "CADE",
+	"author": [
+		"Patrick Lincoln",
+		"Jim Christian"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/LincolnC88",
 	"doi": "10.1007/BFb0012843",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["adventur", "in", "associ", "commut", "unif", "a", "summari"],
-	"tag": ["commutative", "summary", "unification"],
+	"stemmed": [
+		"adventur",
+		"in",
+		"associ",
+		"commut",
+		"unif",
+		"a",
+		"summari"
+	],
+	"tag": [
+		"commutative",
+		"summary",
+		"unification"
+	],
 	"title": "Adventures in Associative-Commutative Unification (A Summary)",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

@@ -1,12 +1,24 @@
 {
-	"author": ["Yufei Tao", "Dimitris Papadias", "Xiang Lian"],
-	"booktitle": "VLDB",
+	"author": [
+		"Yufei Tao",
+		"Dimitris Papadias",
+		"Xiang Lian"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/TaoPL04",
 	"ee": "http://www.vldb.org/conf/2004/RS20P1.PDF",
 	"pages": "744-755",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["revers", "knn", "search", "in", "arbitrari", "dimension"],
+	"stemmed": [
+		"revers",
+		"knn",
+		"search",
+		"in",
+		"arbitrari",
+		"dimension"
+	],
 	"title": "Reverse kNN Search in Arbitrary Dimensionality",
 	"type": "inproceedings",
 	"venue": "VLDB",

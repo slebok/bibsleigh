@@ -1,6 +1,15 @@
 {
-	"author": ["Chaitanya K. Baru", "Gilles Fecteau", "Ambuj Goyal", "Hui-I Hsiao", "Anant Jhingran", "Sriram Padmanabhan", "Walter G. Wilson"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Chaitanya K. Baru",
+		"Gilles Fecteau",
+		"Ambuj Goyal",
+		"Hui-I Hsiao",
+		"Anant Jhingran",
+		"Sriram Padmanabhan",
+		"Walter G. Wilson"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD95/P460.PDF",
 	"crossref": "conf/sigmod/95",
 	"dblpkey": "conf/sigmod/BaruFGHJPW95",
@@ -8,8 +17,18 @@
 	"ee": "http://doi.acm.org/10.1145/223784.223876",
 	"pages": "460-462",
 	"publisher": "ACM Press",
-	"stemmed": ["an", "overview", "of", "db", "parallel", "edit"],
-	"tag": ["bibliography", "parallel"],
+	"stemmed": [
+		"an",
+		"overview",
+		"of",
+		"db",
+		"parallel",
+		"edit"
+	],
+	"tag": [
+		"bibliography",
+		"parallel"
+	],
 	"title": "An Overview of DB2 Parallel Edition",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,7 @@
 {
 	"author": "IJsbrand Jan Aalbersberg",
 	"booktitle": "Proceedings of the 14th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1991/P072.pdf",
 	"crossref": "conf/sigir/91",
 	"dblpkey": "conf/sigir/Aalbersberg91",
@@ -8,8 +9,17 @@
 	"ee": "http://doi.acm.org/10.1145/122860.122868",
 	"pages": "72-81",
 	"publisher": "ACM",
-	"stemmed": ["post", "compress", "in", "dynam", "retriev", "environ"],
-	"tag": ["retrieval"],
+	"stemmed": [
+		"post",
+		"compress",
+		"in",
+		"dynam",
+		"retriev",
+		"environ"
+	],
+	"tag": [
+		"retrieval"
+	],
 	"title": "Posting Compression in Dynamic Retrieval Environments",
 	"type": "inproceedings",
 	"venue": "SIGIR",

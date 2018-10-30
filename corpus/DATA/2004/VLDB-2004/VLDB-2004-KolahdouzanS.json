@@ -1,13 +1,32 @@
 {
-	"author": ["Mohammad R. Kolahdouzan", "Cyrus Shahabi"],
-	"booktitle": "VLDB",
+	"author": [
+		"Mohammad R. Kolahdouzan",
+		"Cyrus Shahabi"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/KolahdouzanS04",
 	"ee": "http://www.vldb.org/conf/2004/RS21P6.PDF",
 	"pages": "840-851",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["voronoi", "base", "k", "nearest", "neighbor", "search", "for", "spatial", "network", "databas"],
-	"tag": ["database", "nearest neighbour", "network"],
+	"stemmed": [
+		"voronoi",
+		"base",
+		"k",
+		"nearest",
+		"neighbor",
+		"search",
+		"for",
+		"spatial",
+		"network",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"nearest neighbour",
+		"network"
+	],
 	"title": "Voronoi-Based K Nearest Neighbor Search for Spatial Network Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

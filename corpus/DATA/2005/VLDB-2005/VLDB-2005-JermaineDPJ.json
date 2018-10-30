@@ -1,13 +1,32 @@
 {
-	"author": ["Chris Jermaine", "Alin Dobra", "Abhijit Pol", "Shantanu Joshi"],
-	"booktitle": "VLDB",
+	"author": [
+		"Chris Jermaine",
+		"Alin Dobra",
+		"Abhijit Pol",
+		"Shantanu Joshi"
+	],
+	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/JermaineDPJ05",
 	"ee": "http://www.vldb2005.org/program/paper/thu/p745-jermaine.pdf",
 	"pages": "745-756",
 	"publisher": "ACM",
-	"stemmed": ["onlin", "estim", "for", "subset", "base", "sql", "queri"],
-	"tag": ["estimation", "online", "query", "sql"],
+	"stemmed": [
+		"onlin",
+		"estim",
+		"for",
+		"subset",
+		"base",
+		"sql",
+		"queri"
+	],
+	"tag": [
+		"estimation",
+		"online",
+		"query",
+		"sql"
+	],
 	"title": "Online Estimation For Subset-Based SQL Queries",
 	"type": "inproceedings",
 	"venue": "VLDB",

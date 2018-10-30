@@ -1,6 +1,10 @@
 {
-	"author": ["Konstantin Korovin", "Christoph Sticksel"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Konstantin Korovin",
+		"Christoph Sticksel"
+	],
+	"booktitle": "Proceedings of the Fifth International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2010",
 	"dblpkey": "conf/cade/KorovinS10",
 	"doi": "10.1007/978-3-642-14203-1_17",
@@ -10,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["iprov", "eq", "an", "instanti", "base", "theorem", "prover", "with", "equal"],
-	"tag": ["named", "proving", "similarity", "theorem proving"],
+	"stemmed": [
+		"iprov",
+		"eq",
+		"an",
+		"instanti",
+		"base",
+		"theorem",
+		"prover",
+		"with",
+		"equal"
+	],
+	"tag": [
+		"named",
+		"proving",
+		"similarity",
+		"theorem proving"
+	],
 	"title": "iProver-Eq: An Instantiation-Based Theorem Prover with Equality",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 6173,
+	"volume": "6173",
 	"year": 2010
 }

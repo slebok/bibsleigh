@@ -1,13 +1,28 @@
 {
-	"author": ["Tong Chen", "Tao Zhang", "Zehra Sura", "Marc Gonzáles Tallada"],
-	"booktitle": "CGO",
+	"author": [
+		"Tong Chen",
+		"Tao Zhang",
+		"Zehra Sura",
+		"Marc Gonzáles Tallada"
+	],
+	"booktitle": "Proceedings of the Sixth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2008",
 	"dblpkey": "conf/cgo/ChenZST08",
 	"doi": "10.1145/1356058.1356079",
 	"ee": "http://doi.acm.org/10.1145/1356058.1356079",
 	"pages": "155-164",
 	"publisher": "ACM",
-	"stemmed": ["prefetch", "irregular", "refer", "for", "softwar", "cach", "on", "cell"],
+	"stemmed": [
+		"prefetch",
+		"irregular",
+		"refer",
+		"for",
+		"softwar",
+		"cach",
+		"on",
+		"cell"
+	],
 	"title": "Prefetching irregular references for software cache on cell",
 	"type": "inproceedings",
 	"venue": "CGO",

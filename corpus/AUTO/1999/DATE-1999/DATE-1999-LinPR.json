@@ -1,6 +1,11 @@
 {
-	"author": ["Xijiang Lin", "Irith Pomeranz", "Sudhakar M. Reddy"],
-	"booktitle": "DATE",
+	"author": [
+		"Xijiang Lin",
+		"Irith Pomeranz",
+		"Sudhakar M. Reddy"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/LinPR99",
 	"doi": "10.1109/DATE.1999.761167",
@@ -8,8 +13,18 @@
 	"pages": "468-472",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["full", "scan", "fault", "coverag", "with", "partial", "scan"],
-	"tag": ["fault"],
+	"stemmed": [
+		"full",
+		"scan",
+		"fault",
+		"coverag",
+		"with",
+		"partial",
+		"scan"
+	],
+	"tag": [
+		"fault"
+	],
 	"title": "Full Scan Fault Coverage With Partial Scan",
 	"type": "inproceedings",
 	"venue": "DATE",

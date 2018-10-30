@@ -1,14 +1,28 @@
 {
-	"author": ["Landon P. Cox", "Christopher D. Murray", "Brian D. Noble"],
-	"booktitle": "OSDI",
+	"author": [
+		"Landon P. Cox",
+		"Christopher D. Murray",
+		"Brian D. Noble"
+	],
+	"booktitle": "Proceedings of the Fifth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2002",
 	"dblpkey": "conf/osdi/CoxMN02",
 	"doi": "10.1145/1060289.1060316",
 	"ee": "http://www.usenix.org/events/osdi02/tech/cox.html",
 	"pages": "285-298",
 	"publisher": "USENIX Association",
-	"stemmed": ["pastich", "make", "backup", "cheap", "and", "easi"],
-	"tag": ["named"],
+	"stemmed": [
+		"pastich",
+		"make",
+		"backup",
+		"cheap",
+		"and",
+		"easi"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "Pastiche: Making Backup Cheap and Easy",
 	"type": "inproceedings",
 	"venue": "OSDI",

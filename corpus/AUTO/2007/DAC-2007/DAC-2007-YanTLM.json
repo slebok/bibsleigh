@@ -1,14 +1,37 @@
 {
-	"author": ["Boyuan Yan", "Sheldon X.-D. Tan", "Pu Liu", "Bruce McGaughy"],
-	"booktitle": "DAC",
+	"author": [
+		"Boyuan Yan",
+		"Sheldon X.-D. Tan",
+		"Pu Liu",
+		"Bruce McGaughy"
+	],
+	"booktitle": "Proceedings of the 44th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2007",
 	"dblpkey": "conf/dac/YanTLM07",
 	"doi": "10.1145/1278480.1278519",
 	"ee": "http://doi.acm.org/10.1145/1278480.1278519",
 	"pages": "158-161",
 	"publisher": "IEEE",
-	"stemmed": ["sbpor", "second", "order", "balanc", "truncat", "for", "passiv", "order", "reduct", "of", "rlc", "circuit"],
-	"tag": ["higher-order", "named", "reduction"],
+	"stemmed": [
+		"sbpor",
+		"second",
+		"order",
+		"balanc",
+		"truncat",
+		"for",
+		"passiv",
+		"order",
+		"reduct",
+		"of",
+		"rlc",
+		"circuit"
+	],
+	"tag": [
+		"higher-order",
+		"named",
+		"reduction"
+	],
 	"title": "SBPOR: Second-Order Balanced Truncation for Passive Order Reduction of RLC Circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

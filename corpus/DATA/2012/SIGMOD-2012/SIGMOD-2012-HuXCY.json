@@ -1,6 +1,11 @@
 {
-	"author": ["Haibo Hu", "Jianliang Xu", "Qian Chen", "Ziwei Yang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Haibo Hu",
+		"Jianliang Xu",
+		"Qian Chen",
+		"Ziwei Yang"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/HuXCY12",
@@ -8,8 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213871",
 	"pages": "301-312",
 	"publisher": "ACM",
-	"stemmed": ["authent", "locat", "base", "servic", "without", "compromis", "locat", "privaci"],
-	"tag": ["authentication", "privacy"],
+	"stemmed": [
+		"authent",
+		"locat",
+		"base",
+		"servic",
+		"without",
+		"compromis",
+		"locat",
+		"privaci"
+	],
+	"tag": [
+		"authentication",
+		"privacy"
+	],
 	"title": "Authenticating location-based services without compromising location privacy",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

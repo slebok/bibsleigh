@@ -1,6 +1,13 @@
 {
-	"author": ["Gi-Ho Park", "Kil-Whan Lee", "Jae-Hyuk Lee", "Tack-Don Han", "Shin-Dug Kim"],
-	"booktitle": "LCTES",
+	"author": [
+		"Gi-Ho Park",
+		"Kil-Whan Lee",
+		"Jae-Hyuk Lee",
+		"Tack-Don Han",
+		"Shin-Dug Kim"
+	],
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2000",
 	"dblpkey": "conf/lctrts/ParkLLHK00",
 	"doi": "10.1007/3-540-45245-1_11",
@@ -10,11 +17,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "power", "effici", "cach", "structur", "for", "embed", "processor", "base", "on", "the", "dual", "cach", "structur"],
-	"tag": ["embedded", "performance"],
+	"stemmed": [
+		"a",
+		"power",
+		"effici",
+		"cach",
+		"structur",
+		"for",
+		"embed",
+		"processor",
+		"base",
+		"on",
+		"the",
+		"dual",
+		"cach",
+		"structur"
+	],
+	"tag": [
+		"embedded",
+		"performance"
+	],
 	"title": "A Power Efficient Cache Structure for Embedded Processors Based on the Dual Cache Structure",
 	"type": "inproceedings",
 	"venue": "LCTES",
-	"volume": 1985,
+	"volume": "1985",
 	"year": 2000
 }

@@ -1,14 +1,35 @@
 {
-	"author": ["Gianpiero Cabodi", "Paolo Camurati", "Stefano Quer"],
-	"booktitle": "DAC",
+	"author": [
+		"Gianpiero Cabodi",
+		"Paolo Camurati",
+		"Stefano Quer"
+	],
+	"booktitle": "Proceedings of the 39th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2002",
 	"dblpkey": "conf/dac/CabodiCQ02",
 	"doi": "10.1145/513918.513949",
 	"ee": "http://doi.acm.org/10.1145/513918.513949",
 	"pages": "117-122",
 	"publisher": "ACM",
-	"stemmed": ["can", "bdds", "compet", "with", "sat", "solver", "on", "bound", "model", "check"],
-	"tag": ["bound", "model checking", "question", "satisfiability"],
+	"stemmed": [
+		"can",
+		"bdds",
+		"compet",
+		"with",
+		"sat",
+		"solver",
+		"on",
+		"bound",
+		"model",
+		"check"
+	],
+	"tag": [
+		"bound",
+		"model checking",
+		"question",
+		"satisfiability"
+	],
 	"title": "Can BDDs compete with SAT solvers on bounded model checking?",
 	"type": "inproceedings",
 	"venue": "DAC",

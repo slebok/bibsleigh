@@ -1,15 +1,38 @@
 {
-	"author": ["Jan Scheffczyk", "Uwe M. Borghoff", "Peter Rödig", "Lothar Schmitz"],
-	"booktitle": "ACM Symposium on Document Engineering",
-	"booktitleshort": "DocEng",
+	"author": [
+		"Jan Scheffczyk",
+		"Uwe M. Borghoff",
+		"Peter Rödig",
+		"Lothar Schmitz"
+	],
+	"booktitle": "Proceedings of the Third Symposium on Document Engineering",
+	"booktitleshort": "ACM Symposium on Document Engineering",
 	"crossref": "conf/doceng/2003",
 	"dblpkey": "conf/doceng/ScheffczykBRS03",
 	"doi": "10.1145/958220.958246",
 	"ee": "http://doi.acm.org/10.1145/958220.958246",
 	"pages": "140-149",
 	"publisher": "ACM",
-	"stemmed": ["consist", "document", "engin", "formal", "type", "safe", "consist", "rule", "for", "heterogen", "repositori"],
-	"tag": ["consistency", "documentation", "formal method", "repository", "type safety"],
+	"stemmed": [
+		"consist",
+		"document",
+		"engin",
+		"formal",
+		"type",
+		"safe",
+		"consist",
+		"rule",
+		"for",
+		"heterogen",
+		"repositori"
+	],
+	"tag": [
+		"consistency",
+		"documentation",
+		"formal method",
+		"repository",
+		"type safety"
+	],
 	"title": "Consistent document engineering: formalizing type-safe consistency rules for heterogeneous repositories",
 	"type": "inproceedings",
 	"venue": "DocEng",

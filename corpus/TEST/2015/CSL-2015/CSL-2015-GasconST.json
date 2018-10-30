@@ -1,6 +1,11 @@
 {
-	"author": ["Adria Gascón", "Manfred Schmidt-Schauß", "Ashish Tiwari"],
-	"booktitle": "CSL",
+	"author": [
+		"Adria Gascón",
+		"Manfred Schmidt-Schauß",
+		"Ashish Tiwari"
+	],
+	"booktitle": "24th EACSL Annual Conference on Computer Science Logic, CSL 2015, September 7-10, 2015, Berlin, Germany",
+	"booktitleshort": "CSL",
 	"crossref": "conf/csl/2015",
 	"dblpkey": "conf/csl/GasconST15",
 	"doi": "10.4230/LIPIcs.CSL.2015.405",
@@ -10,11 +15,25 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["two", "restrict", "one", "context", "unif", "is", "in", "polynomi", "time"],
-	"tag": ["polynomial", "strict", "unification"],
+	"stemmed": [
+		"two",
+		"restrict",
+		"one",
+		"context",
+		"unif",
+		"is",
+		"in",
+		"polynomi",
+		"time"
+	],
+	"tag": [
+		"polynomial",
+		"strict",
+		"unification"
+	],
 	"title": "Two-Restricted One Context Unification is in Polynomial Time",
 	"type": "inproceedings",
 	"venue": "CSL",
-	"volume": 41,
+	"volume": "41",
 	"year": 2015
 }

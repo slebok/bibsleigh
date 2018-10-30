@@ -1,6 +1,11 @@
 {
-	"author": ["Diederik Verkest", "Joachim Kunkel", "Frank Schirrmeister"],
-	"booktitle": "DATE",
+	"author": [
+		"Diederik Verkest",
+		"Joachim Kunkel",
+		"Frank Schirrmeister"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/VerkestKS00",
 	"doi": "10.1109/DATE.2000.840020",
@@ -8,8 +13,18 @@
 	"pages": "74-81",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["system", "level", "design", "use", "c"],
-	"tag": ["c++", "design", "using"],
+	"stemmed": [
+		"system",
+		"level",
+		"design",
+		"use",
+		"c"
+	],
+	"tag": [
+		"c++",
+		"design",
+		"using"
+	],
 	"title": "System Level Design Using C++",
 	"type": "inproceedings",
 	"venue": "DATE",

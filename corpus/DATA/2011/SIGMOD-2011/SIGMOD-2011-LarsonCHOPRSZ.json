@@ -1,6 +1,15 @@
 {
-	"author": ["Per-Åke Larson", "Cipri Clinciu", "Eric N. Hanson", "Artem Oks", "Susan L. Price", "Srikumar Rangarajan", "Aleksandras Surna", "Qingqing Zhou"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Per-Åke Larson",
+		"Cipri Clinciu",
+		"Eric N. Hanson",
+		"Artem Oks",
+		"Susan L. Price",
+		"Srikumar Rangarajan",
+		"Aleksandras Surna",
+		"Qingqing Zhou"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/LarsonCHOPRSZ11",
@@ -8,8 +17,16 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989448",
 	"pages": "1177-1184",
 	"publisher": "ACM",
-	"stemmed": ["sql", "server", "column", "store", "index"],
-	"tag": ["sql"],
+	"stemmed": [
+		"sql",
+		"server",
+		"column",
+		"store",
+		"index"
+	],
+	"tag": [
+		"sql"
+	],
 	"title": "SQL server column store indexes",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

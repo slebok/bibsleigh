@@ -1,6 +1,12 @@
 {
-	"author": ["David Martínez", "Tony Ribeiro", "Katsumi Inoue", "Guillem Alenyà", "Carme Torras"],
-	"booktitle": "ICLP (Technical Communications)",
+	"author": [
+		"David Martínez",
+		"Tony Ribeiro",
+		"Katsumi Inoue",
+		"Guillem Alenyà",
+		"Carme Torras"
+	],
+	"booktitle": "Technical Communications of the 31st International Conference on Logic Programming",
 	"booktitleshort": "ICLP TC",
 	"crossref": "conf/iclp/2015tc",
 	"dblpkey": "conf/iclp/0004RIAT15",
@@ -8,11 +14,23 @@
 	"publisher": "CEUR-WS.org",
 	"series": "CEUR Workshop Proceedings",
 	"seriesshort": "CEUR",
-	"stemmed": ["learn", "probabilist", "action", "model", "from", "interpret", "transit"],
-	"tag": ["learning", "modelling", "probability"],
+	"stemmed": [
+		"learn",
+		"probabilist",
+		"action",
+		"model",
+		"from",
+		"interpret",
+		"transit"
+	],
+	"tag": [
+		"learning",
+		"modelling",
+		"probability"
+	],
 	"title": "Learning Probabilistic Action Models from Interpretation Transitions",
 	"type": "inproceedings",
 	"venue": "ICLP",
-	"volume": 1433,
+	"volume": "1433",
 	"year": 2015
 }

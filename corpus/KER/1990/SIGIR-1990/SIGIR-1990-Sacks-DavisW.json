@@ -1,6 +1,10 @@
 {
-	"author": ["Ron Sacks-Davis", "Peter Wallis"],
+	"author": [
+		"Ron Sacks-Davis",
+		"Peter Wallis"
+	],
 	"booktitle": "Proceedings of the 13th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1990/P179.pdf",
 	"crossref": "conf/sigir/90",
 	"dblpkey": "conf/sigir/Sacks-DavisW90",
@@ -8,8 +12,26 @@
 	"ee": "http://doi.acm.org/10.1145/96749.98219",
 	"pages": "179-192",
 	"publisher": "ACM",
-	"stemmed": ["use", "syntact", "analysi", "in", "a", "document", "retriev", "system", "that", "use", "signatur", "file"],
-	"tag": ["analysis", "documentation", "retrieval", "using"],
+	"stemmed": [
+		"use",
+		"syntact",
+		"analysi",
+		"in",
+		"a",
+		"document",
+		"retriev",
+		"system",
+		"that",
+		"use",
+		"signatur",
+		"file"
+	],
+	"tag": [
+		"analysis",
+		"documentation",
+		"retrieval",
+		"using"
+	],
 	"title": "Using Syntactic Analysis in a Document Retrieval System that uses Signature Files",
 	"type": "inproceedings",
 	"venue": "SIGIR",

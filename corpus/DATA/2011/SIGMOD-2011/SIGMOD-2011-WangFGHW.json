@@ -1,6 +1,12 @@
 {
-	"author": ["Daisy Zhe Wang", "Michael J. Franklin", "Minos N. Garofalakis", "Joseph M. Hellerstein", "Michael L. Wick"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Daisy Zhe Wang",
+		"Michael J. Franklin",
+		"Minos N. Garofalakis",
+		"Joseph M. Hellerstein",
+		"Michael L. Wick"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/WangFGHW11",
@@ -8,8 +14,21 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989378",
 	"pages": "517-528",
 	"publisher": "ACM",
-	"stemmed": ["hybrid", "in", "databas", "infer", "for", "declar", "inform", "extract"],
-	"tag": ["declarative", "hybrid", "information management"],
+	"stemmed": [
+		"hybrid",
+		"in",
+		"databas",
+		"infer",
+		"for",
+		"declar",
+		"inform",
+		"extract"
+	],
+	"tag": [
+		"declarative",
+		"hybrid",
+		"information management"
+	],
 	"title": "Hybrid in-database inference for declarative information extraction",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

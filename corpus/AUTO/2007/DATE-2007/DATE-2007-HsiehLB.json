@@ -1,14 +1,35 @@
 {
-	"author": ["Tong-Yu Hsieh", "Kuen-Jong Lee", "Melvin A. Breuer"],
-	"booktitle": "DATE",
+	"author": [
+		"Tong-Yu Hsieh",
+		"Kuen-Jong Lee",
+		"Melvin A. Breuer"
+	],
+	"booktitle": "Proceedings of the 11th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2007",
 	"dblpkey": "conf/date/HsiehLB07",
 	"doi": "10.1145/1266366.1266717",
 	"ee": "http://doi.acm.org/10.1145/1266366.1266717",
 	"pages": "1599-1604",
 	"publisher": "ACM",
-	"stemmed": ["reduct", "of", "detect", "accept", "fault", "for", "yield", "improv", "via", "error", "toler"],
-	"tag": ["detection", "fault", "reduction"],
+	"stemmed": [
+		"reduct",
+		"of",
+		"detect",
+		"accept",
+		"fault",
+		"for",
+		"yield",
+		"improv",
+		"via",
+		"error",
+		"toler"
+	],
+	"tag": [
+		"detection",
+		"fault",
+		"reduction"
+	],
 	"title": "Reduction of detected acceptable faults for yield improvement via error-tolerance",
 	"type": "inproceedings",
 	"venue": "DATE",

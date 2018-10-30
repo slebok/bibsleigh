@@ -1,6 +1,11 @@
 {
-	"author": ["Nikos Sarkas", "Gautam Das", "Nick Koudas", "Anthony K. H. Tung"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Nikos Sarkas",
+		"Gautam Das",
+		"Nick Koudas",
+		"Anthony K. H. Tung"
+	],
+	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2008",
 	"dblpkey": "conf/sigmod/SarkasDKT08",
@@ -8,8 +13,17 @@
 	"ee": "http://doi.acm.org/10.1145/1376616.1376643",
 	"pages": "239-250",
 	"publisher": "ACM",
-	"stemmed": ["categor", "skylin", "for", "stream", "data"],
-	"tag": ["category theory", "streaming"],
+	"stemmed": [
+		"categor",
+		"skylin",
+		"for",
+		"stream",
+		"data"
+	],
+	"tag": [
+		"category theory",
+		"streaming"
+	],
 	"title": "Categorical skylines for streaming data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

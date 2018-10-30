@@ -1,14 +1,31 @@
 {
-	"author": ["Ali-Reza Adl-Tabatabai", "Christos Kozyrakis", "Bratin Saha"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Ali-Reza Adl-Tabatabai",
+		"Christos Kozyrakis",
+		"Bratin Saha"
+	],
+	"booktitle": "Proceedings of the 12th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2007",
 	"dblpkey": "conf/ppopp/Adl-TabatabaiKS07",
 	"doi": "10.1145/1229428.1229484",
 	"ee": "http://doi.acm.org/10.1145/1229428.1229484",
-	"pages": 272,
+	"pages": "272",
 	"publisher": "ACM",
-	"stemmed": ["transact", "program", "in", "a", "multi", "core", "environ"],
-	"tag": ["manycore", "programming", "transaction"],
+	"stemmed": [
+		"transact",
+		"program",
+		"in",
+		"a",
+		"multi",
+		"core",
+		"environ"
+	],
+	"tag": [
+		"manycore",
+		"programming",
+		"transaction"
+	],
 	"title": "Transactional programming in a multi-core environment",
 	"type": "inproceedings",
 	"venue": "PPoPP",

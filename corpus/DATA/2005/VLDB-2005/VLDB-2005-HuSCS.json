@@ -1,13 +1,36 @@
 {
-	"author": ["Ying Hu", "Seema Sundara", "Timothy Chorma", "Jagannathan Srinivasan"],
-	"booktitle": "VLDB",
+	"author": [
+		"Ying Hu",
+		"Seema Sundara",
+		"Timothy Chorma",
+		"Jagannathan Srinivasan"
+	],
+	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/HuSCS05",
 	"ee": "http://www.vldb2005.org/program/paper/wed/p1140-hu.pdf",
 	"pages": "1140-1151",
 	"publisher": "ACM",
-	"stemmed": ["support", "rfid", "base", "item", "track", "applic", "in", "oracl", "dbms", "use", "a", "bitmap", "datatyp"],
-	"tag": ["data type", "using"],
+	"stemmed": [
+		"support",
+		"rfid",
+		"base",
+		"item",
+		"track",
+		"applic",
+		"in",
+		"oracl",
+		"dbms",
+		"use",
+		"a",
+		"bitmap",
+		"datatyp"
+	],
+	"tag": [
+		"data type",
+		"using"
+	],
 	"title": "Supporting RFID-based Item Tracking Applications in Oracle DBMS Using a Bitmap Datatype",
 	"type": "inproceedings",
 	"venue": "VLDB",

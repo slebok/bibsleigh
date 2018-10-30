@@ -1,6 +1,16 @@
 {
-	"author": ["Blake A. Hechtman", "Shuai Che", "Derek R. Hower", "Yingying Tian", "Bradford M. Beckmann", "Mark D. Hill", "Steven K. Reinhardt", "David A. Wood"],
-	"booktitle": "HPCA",
+	"author": [
+		"Blake A. Hechtman",
+		"Shuai Che",
+		"Derek R. Hower",
+		"Yingying Tian",
+		"Bradford M. Beckmann",
+		"Mark D. Hill",
+		"Steven K. Reinhardt",
+		"David A. Wood"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/HechtmanCHTBHRW14",
 	"doi": "10.1109/HPCA.2014.6835930",
@@ -8,8 +18,24 @@
 	"pages": "189-200",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["quick", "releas", "a", "throughput", "orient", "approach", "to", "releas", "consist", "on", "gpus"],
-	"tag": ["approach", "consistency", "named"],
+	"stemmed": [
+		"quick",
+		"releas",
+		"a",
+		"throughput",
+		"orient",
+		"approach",
+		"to",
+		"releas",
+		"consist",
+		"on",
+		"gpus"
+	],
+	"tag": [
+		"approach",
+		"consistency",
+		"named"
+	],
 	"title": "QuickRelease: A throughput-oriented approach to release consistency on GPUs",
 	"type": "inproceedings",
 	"venue": "HPCA",

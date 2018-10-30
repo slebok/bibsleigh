@@ -1,6 +1,7 @@
 {
 	"author": "John J. O'Donnell",
-	"booktitle": "FPLE",
+	"booktitle": "First International Symposium on Functional Programming Languages in Education",
+	"booktitleshort": "FPLE",
 	"crossref": "conf/fple/1995",
 	"dblpkey": "conf/fple/ODonnell95",
 	"doi": "10.1007/3-540-60675-0_46",
@@ -9,11 +10,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["from", "transistor", "to", "comput", "architectur", "teach", "function", "circuit", "specif", "in", "hydra"],
-	"tag": ["architecture", "education", "functional", "specification"],
+	"stemmed": [
+		"from",
+		"transistor",
+		"to",
+		"comput",
+		"architectur",
+		"teach",
+		"function",
+		"circuit",
+		"specif",
+		"in",
+		"hydra"
+	],
+	"tag": [
+		"architecture",
+		"education",
+		"functional",
+		"specification"
+	],
 	"title": "From Transistors to Computer Architecture: Teaching Functional Circuit Specification in Hydra",
 	"type": "inproceedings",
 	"venue": "TFPIE",
-	"volume": 1022,
+	"volume": "1022",
 	"year": 1995
 }

@@ -1,14 +1,35 @@
 {
-	"author": ["Wilson Harvey", "Dirk Kalp", "Milind Tambe", "David McKeown", "Allen Newell"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Wilson Harvey",
+		"Dirk Kalp",
+		"Milind Tambe",
+		"David McKeown",
+		"Allen Newell"
+	],
+	"booktitle": "Proceedings of the Second Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1990",
 	"dblpkey": "conf/ppopp/HarveyKTMN90",
 	"doi": "10.1145/99163.99181",
 	"ee": "http://doi.acm.org/10.1145/99163.99181",
 	"pages": "156-167",
 	"publisher": "ACM",
-	"stemmed": ["the", "effect", "of", "task", "level", "parallel", "for", "high", "level", "vision"],
-	"tag": ["effectiveness", "parallel"],
+	"stemmed": [
+		"the",
+		"effect",
+		"of",
+		"task",
+		"level",
+		"parallel",
+		"for",
+		"high",
+		"level",
+		"vision"
+	],
+	"tag": [
+		"effectiveness",
+		"parallel"
+	],
 	"title": "The Effectiveness of Task-Level Parallelism for High-Level Vision",
 	"type": "inproceedings",
 	"venue": "PPoPP",

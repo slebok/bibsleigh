@@ -1,14 +1,32 @@
 {
-	"author": ["Marco Degemmis", "Pasquale Lops", "Giovanni Semeraro", "Pierpaolo Basile"],
-	"booktitle": "RecSys",
+	"author": [
+		"Marco Degemmis",
+		"Pasquale Lops",
+		"Giovanni Semeraro",
+		"Pierpaolo Basile"
+	],
+	"booktitle": "Proceedings of the Second Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2008",
 	"dblpkey": "conf/recsys/DegemmisLSB08",
 	"doi": "10.1145/1454008.1454036",
 	"ee": "http://doi.acm.org/10.1145/1454008.1454036",
 	"pages": "163-170",
 	"publisher": "ACM",
-	"stemmed": ["integr", "tag", "in", "a", "semant", "content", "base", "recommend"],
-	"tag": ["recommendation", "semantics"],
+	"stemmed": [
+		"integr",
+		"tag",
+		"in",
+		"a",
+		"semant",
+		"content",
+		"base",
+		"recommend"
+	],
+	"tag": [
+		"recommendation",
+		"semantics"
+	],
 	"title": "Integrating tags in a semantic content-based recommender",
 	"type": "inproceedings",
 	"venue": "RecSys",

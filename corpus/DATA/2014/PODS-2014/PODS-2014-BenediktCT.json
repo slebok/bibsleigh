@@ -1,14 +1,30 @@
 {
-	"author": ["Michael Benedikt", "Balder ten Cate", "Efthymia Tsamoura"],
-	"booktitle": "PODS",
+	"author": [
+		"Michael Benedikt",
+		"Balder ten Cate",
+		"Efthymia Tsamoura"
+	],
+	"booktitle": "Proceedings of the 33rd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2014",
 	"dblpkey": "conf/pods/BenediktCT14",
 	"doi": "10.1145/2594538.2594550",
 	"ee": "http://doi.acm.org/10.1145/2594538.2594550",
 	"pages": "200-211",
 	"publisher": "ACM",
-	"stemmed": ["generat", "low", "cost", "plan", "from", "proof"],
-	"tag": ["generative", "low cost", "proving"],
+	"stemmed": [
+		"generat",
+		"low",
+		"cost",
+		"plan",
+		"from",
+		"proof"
+	],
+	"tag": [
+		"generative",
+		"low cost",
+		"proving"
+	],
 	"title": "Generating low-cost plans from proofs",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,6 +1,12 @@
 {
-	"author": ["Huaigu Cao", "Rohit Prasad", "Premkumar Natarajan", "Ehry MacRostie"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Huaigu Cao",
+		"Rohit Prasad",
+		"Premkumar Natarajan",
+		"Ehry MacRostie"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/CaoPNM07",
 	"doi": "10.1109/ICDAR.2007.225",
@@ -8,8 +14,31 @@
 	"pages": "392-396",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["robust", "page", "segment", "base", "on", "smear", "and", "error", "correct", "unifi", "top", "down", "and", "bottom", "up", "approach"],
-	"tag": ["bottom-up", "fault", "robust", "segmentation", "top-down"],
+	"stemmed": [
+		"robust",
+		"page",
+		"segment",
+		"base",
+		"on",
+		"smear",
+		"and",
+		"error",
+		"correct",
+		"unifi",
+		"top",
+		"down",
+		"and",
+		"bottom",
+		"up",
+		"approach"
+	],
+	"tag": [
+		"bottom-up",
+		"fault",
+		"robust",
+		"segmentation",
+		"top-down"
+	],
 	"title": "Robust Page Segmentation Based on Smearing and Error Correction Unifying Top-down and Bottom-up Approaches",
 	"type": "inproceedings",
 	"venue": "ICDAR",

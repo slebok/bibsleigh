@@ -1,17 +1,42 @@
 {
-	"author": ["Hezi Azatchi", "Yossi Levanoni", "Harel Paz", "Erez Petrank"],
-	"booktitle": "Proceedings of the 18th Conference on Object-Oriented Programming Systems, Languages and Applications",
+	"author": [
+		"Hezi Azatchi",
+		"Yossi Levanoni",
+		"Harel Paz",
+		"Erez Petrank"
+	],
+	"booktitle": "Proceedings of the 18th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2003p",
 	"dblpkey": "conf/oopsla/AzatchiLPP03",
 	"doi": "10.1145/949305.949329",
-	"editor": ["Ron Crocker", "Guy L. Steele Jr."],
+	"editor": [
+		"Ron Crocker",
+		"Guy L. Steele Jr."
+	],
 	"ee": "http://doi.acm.org/10.1145/949305.949329",
 	"isbn": "1-58113-712-5",
 	"pages": "269-281",
 	"publisher": "ACM",
-	"stemmed": ["an", "on", "the", "fli", "mark", "and", "sweep", "garbag", "collector", "base", "on", "slide", "view"],
-	"tag": ["garbage collection", "on the fly"],
+	"stemmed": [
+		"an",
+		"on",
+		"the",
+		"fli",
+		"mark",
+		"and",
+		"sweep",
+		"garbag",
+		"collector",
+		"base",
+		"on",
+		"slide",
+		"view"
+	],
+	"tag": [
+		"garbage collection",
+		"on the fly"
+	],
 	"title": "An on-the-fly mark and sweep garbage collector based on sliding views",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

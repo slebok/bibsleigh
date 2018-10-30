@@ -1,6 +1,12 @@
 {
-	"author": ["Subi Arumugam", "Alin Dobra", "Christopher M. Jermaine", "Niketan Pansare", "Luis Leopoldo Perez"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Subi Arumugam",
+		"Alin Dobra",
+		"Christopher M. Jermaine",
+		"Niketan Pansare",
+		"Luis Leopoldo Perez"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/ArumugamDJPP10",
@@ -8,8 +14,25 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807224",
 	"pages": "519-530",
 	"publisher": "ACM",
-	"stemmed": ["the", "data", "path", "system", "a", "data", "centric", "analyt", "process", "engin", "for", "larg", "data", "warehous"],
-	"tag": ["scalability"],
+	"stemmed": [
+		"the",
+		"data",
+		"path",
+		"system",
+		"a",
+		"data",
+		"centric",
+		"analyt",
+		"process",
+		"engin",
+		"for",
+		"larg",
+		"data",
+		"warehous"
+	],
+	"tag": [
+		"scalability"
+	],
 	"title": "The DataPath system: a data-centric analytic processing engine for large data warehouses",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

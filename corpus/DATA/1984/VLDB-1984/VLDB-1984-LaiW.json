@@ -1,14 +1,46 @@
 {
-	"author": ["Ming-Yee Lai", "W. Kevin Wilkinson"],
-	"booktitle": "VLDB",
-	"cite": ["...", "journals/tods/BanerjeeHB78", "conf/sosp/BaskettHM77", "conf/berkeley/CeriO82", "conf/sigmod/FishmanLW84", "...", "...", "journals/tods/KungR81", "journals/cacm/Lamport78", "...", "journals/tods/Lorie77", "...", "...", "conf/vldb/Schlageter81", "conf/sosp/SolomonF79", "journals/tods/StonebrakerWKH76", "journals/cacm/Stonebraker81", "..."],
+	"author": [
+		"Ming-Yee Lai",
+		"W. Kevin Wilkinson"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"journals/tods/BanerjeeHB78",
+		"conf/sosp/BaskettHM77",
+		"conf/berkeley/CeriO82",
+		"conf/sigmod/FishmanLW84",
+		"...",
+		"...",
+		"journals/tods/KungR81",
+		"journals/cacm/Lamport78",
+		"...",
+		"journals/tods/Lorie77",
+		"...",
+		"...",
+		"conf/vldb/Schlageter81",
+		"conf/sosp/SolomonF79",
+		"journals/tods/StonebrakerWKH76",
+		"journals/cacm/Stonebraker81",
+		"..."
+	],
 	"crossref": "conf/vldb/84",
 	"dblpkey": "conf/vldb/LaiW84",
 	"ee": "http://www.vldb.org/conf/1984/P466.PDF",
 	"pages": "466-470",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["distribut", "transact", "manag", "in", "jasmin"],
-	"tag": ["distributed", "transaction"],
+	"stemmed": [
+		"distribut",
+		"transact",
+		"manag",
+		"in",
+		"jasmin"
+	],
+	"tag": [
+		"distributed",
+		"transaction"
+	],
 	"title": "Distributed Transaction Management in Jasmin",
 	"type": "inproceedings",
 	"venue": "VLDB",

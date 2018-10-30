@@ -1,6 +1,10 @@
 {
-	"author": ["Oren Zamir", "Oren Etzioni"],
+	"author": [
+		"Oren Zamir",
+		"Oren Etzioni"
+	],
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P046.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/ZamirE98",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/290941.290956",
 	"pages": "46-54",
 	"publisher": "ACM",
-	"stemmed": ["web", "document", "cluster", "a", "feasibl", "demonstr"],
-	"tag": ["clustering", "documentation", "web"],
+	"stemmed": [
+		"web",
+		"document",
+		"cluster",
+		"a",
+		"feasibl",
+		"demonstr"
+	],
+	"tag": [
+		"clustering",
+		"documentation",
+		"web"
+	],
 	"title": "Web Document Clustering: A Feasibility Demonstration",
 	"type": "inproceedings",
 	"venue": "SIGIR",

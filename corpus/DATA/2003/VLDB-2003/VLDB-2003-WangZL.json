@@ -1,12 +1,37 @@
 {
-	"author": ["Haixun Wang", "Carlo Zaniolo", "Chang Luo"],
-	"booktitle": "VLDB",
+	"author": [
+		"Haixun Wang",
+		"Carlo Zaniolo",
+		"Chang Luo"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/WangZL03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S37P01.pdf",
 	"pages": "1113-1116",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["atlas", "a", "small", "but", "complet", "sql", "extens", "for", "data", "mine", "and", "data", "stream"],
-	"tag": ["data mining", "data type", "mining", "named", "sql"],
+	"stemmed": [
+		"atlas",
+		"a",
+		"small",
+		"but",
+		"complet",
+		"sql",
+		"extens",
+		"for",
+		"data",
+		"mine",
+		"and",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"data mining",
+		"data type",
+		"mining",
+		"named",
+		"sql"
+	],
 	"title": "ATLAS: A Small but Complete SQL Extension for Data Mining and Data Streams",
 	"type": "inproceedings",
 	"venue": "VLDB",

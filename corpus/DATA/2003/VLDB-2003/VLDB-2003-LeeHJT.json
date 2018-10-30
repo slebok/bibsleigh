@@ -1,12 +1,33 @@
 {
-	"author": ["Mong-Li Lee", "Wynne Hsu", "Christian S. Jensen", "Bin Cui", "Keng Lik Teo"],
-	"booktitle": "VLDB",
+	"author": [
+		"Mong-Li Lee",
+		"Wynne Hsu",
+		"Christian S. Jensen",
+		"Bin Cui",
+		"Keng Lik Teo"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/LeeHJT03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S19P01.pdf",
 	"pages": "608-619",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["support", "frequent", "updat", "in", "r", "tree", "a", "bottom", "up", "approach"],
-	"tag": ["approach", "bottom-up"],
+	"stemmed": [
+		"support",
+		"frequent",
+		"updat",
+		"in",
+		"r",
+		"tree",
+		"a",
+		"bottom",
+		"up",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"bottom-up"
+	],
 	"title": "Supporting Frequent Updates in R-Trees: A Bottom-Up Approach",
 	"type": "inproceedings",
 	"venue": "VLDB",

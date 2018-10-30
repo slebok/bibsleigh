@@ -1,6 +1,7 @@
 {
 	"author": "W. Bruce Croft",
 	"booktitle": "Proceedings of the Second International Conference on Information Storage and Retrieval: Information Implications into the Eighties",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1979/P071.pdf",
 	"crossref": "conf/sigir/79",
 	"dblpkey": "conf/sigir/Croft79",
@@ -8,8 +9,24 @@
 	"ee": "http://doi.acm.org/10.1145/511706.511717",
 	"pages": "71-77",
 	"publisher": "ACM",
-	"stemmed": ["on", "the", "implement", "of", "some", "model", "of", "document", "retriev"],
-	"tag": ["documentation", "implementation", "modelling", "on the", "retrieval"],
+	"stemmed": [
+		"on",
+		"the",
+		"implement",
+		"of",
+		"some",
+		"model",
+		"of",
+		"document",
+		"retriev"
+	],
+	"tag": [
+		"documentation",
+		"implementation",
+		"modelling",
+		"on the",
+		"retrieval"
+	],
 	"title": "On the Implementation of Some Models of Document Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

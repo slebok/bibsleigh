@@ -1,6 +1,7 @@
 {
 	"author": "Matt Kaufmann",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/Kaufmann88",
 	"doi": "10.1007/BFb0012872",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "interact", "enhanc", "to", "the", "boyer", "moor", "theorem", "prover"],
-	"tag": ["interactive", "proving", "theorem proving"],
+	"stemmed": [
+		"an",
+		"interact",
+		"enhanc",
+		"to",
+		"the",
+		"boyer",
+		"moor",
+		"theorem",
+		"prover"
+	],
+	"tag": [
+		"interactive",
+		"proving",
+		"theorem proving"
+	],
 	"title": "An Interactive Enhancement to the Boyer-Moore Theorem Prover",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

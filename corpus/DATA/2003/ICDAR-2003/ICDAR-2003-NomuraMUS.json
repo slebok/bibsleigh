@@ -1,15 +1,37 @@
 {
-	"author": ["Akihiro Nomura", "Kazuyuki Michishita", "Seiichi Uchida", "Masakazu Suzuki"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Akihiro Nomura",
+		"Kazuyuki Michishita",
+		"Seiichi Uchida",
+		"Masakazu Suzuki"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2003",
 	"dblpkey": "conf/icdar/NomuraMUS03",
 	"doi": "10.1109/ICDAR.2003.1227645",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2003.1227645", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2003.1227645"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2003.1227645",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2003.1227645"
+	],
 	"pages": "126-130",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["detect", "and", "segment", "of", "touch", "charact", "in", "mathemat", "express"],
-	"tag": ["detection", "segmentation"],
+	"stemmed": [
+		"detect",
+		"and",
+		"segment",
+		"of",
+		"touch",
+		"charact",
+		"in",
+		"mathemat",
+		"express"
+	],
+	"tag": [
+		"detection",
+		"segmentation"
+	],
 	"title": "Detection and Segmentation of Touching Characters in Mathematical Expression",
 	"type": "inproceedings",
 	"venue": "ICDAR",

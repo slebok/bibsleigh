@@ -1,14 +1,33 @@
 {
-	"author": ["Biswadeep Nag", "Prasad Deshpande", "David J. DeWitt"],
-	"booktitle": "KDD",
+	"author": [
+		"Biswadeep Nag",
+		"Prasad Deshpande",
+		"David J. DeWitt"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1999",
 	"dblpkey": "conf/kdd/NagDD99",
 	"doi": "10.1145/312129.312238",
 	"ee": "http://doi.acm.org/10.1145/312129.312238",
 	"pages": "244-253",
 	"publisher": "ACM",
-	"stemmed": ["use", "a", "knowledg", "cach", "for", "interact", "discoveri", "of", "associ", "rule"],
-	"tag": ["interactive", "using"],
+	"stemmed": [
+		"use",
+		"a",
+		"knowledg",
+		"cach",
+		"for",
+		"interact",
+		"discoveri",
+		"of",
+		"associ",
+		"rule"
+	],
+	"tag": [
+		"interactive",
+		"using"
+	],
 	"title": "Using a Knowledge Cache for Interactive Discovery of Association Rules",
 	"type": "inproceedings",
 	"venue": "KDD",

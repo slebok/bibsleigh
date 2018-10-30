@@ -1,12 +1,31 @@
 {
-	"author": ["Charu C. Aggarwal", "Jiawei Han", "Jianyong Wang", "Philip S. Yu"],
-	"booktitle": "VLDB",
+	"author": [
+		"Charu C. Aggarwal",
+		"Jiawei Han",
+		"Jianyong Wang",
+		"Philip S. Yu"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/AggarwalHWY03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S04P02.pdf",
 	"pages": "81-92",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["a", "framework", "for", "cluster", "evolv", "data", "stream"],
-	"tag": ["clustering", "data type", "evolution", "framework"],
+	"stemmed": [
+		"a",
+		"framework",
+		"for",
+		"cluster",
+		"evolv",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"clustering",
+		"data type",
+		"evolution",
+		"framework"
+	],
 	"title": "A Framework for Clustering Evolving Data Streams",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,14 +1,34 @@
 {
-	"author": ["Chao Lan", "Jun Huan"],
-	"booktitle": "KDD",
+	"author": [
+		"Chao Lan",
+		"Jun Huan"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/LanH15",
 	"doi": "10.1145/2783258.2783409",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783409",
 	"pages": "627-634",
 	"publisher": "ACM",
-	"stemmed": ["reduc", "the", "unlabel", "sampl", "complex", "of", "semi", "supervis", "multi", "view", "learn"],
-	"tag": ["complexity", "learning", "multi"],
+	"stemmed": [
+		"reduc",
+		"the",
+		"unlabel",
+		"sampl",
+		"complex",
+		"of",
+		"semi",
+		"supervis",
+		"multi",
+		"view",
+		"learn"
+	],
+	"tag": [
+		"complexity",
+		"learning",
+		"multi"
+	],
 	"title": "Reducing the Unlabeled Sample Complexity of Semi-Supervised Multi-View Learning",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,6 +1,7 @@
 {
 	"author": "Kousha Etessami",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the Fifth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2004",
 	"dblpkey": "conf/vmcai/Etessami04",
 	"doi": "10.1007/978-3-540-24622-0_23",
@@ -10,11 +11,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["analysi", "of", "recurs", "game", "graph", "use", "data", "flow", "equat"],
-	"tag": ["analysis", "data flow", "equation", "game studies", "graph", "recursion", "using"],
+	"stemmed": [
+		"analysi",
+		"of",
+		"recurs",
+		"game",
+		"graph",
+		"use",
+		"data",
+		"flow",
+		"equat"
+	],
+	"tag": [
+		"analysis",
+		"data flow",
+		"equation",
+		"game studies",
+		"graph",
+		"recursion",
+		"using"
+	],
 	"title": "Analysis of Recursive Game Graphs Using Data Flow Equations",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2937,
+	"volume": "2937",
 	"year": 2004
 }

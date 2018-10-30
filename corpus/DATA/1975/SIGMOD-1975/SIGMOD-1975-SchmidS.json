@@ -1,16 +1,44 @@
 {
-	"author": ["Hans Albrecht Schmid", "J. Richard Swenson"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Hans Albrecht Schmid",
+		"J. Richard Swenson"
+	],
+	"booktitle": "Proceedings of the Fifth ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD75/P211.PDF",
-	"cite": ["conf/sigmod/BernsteinST75", "journals/cacm/Codd70", "persons/Codd71a", "conf/sigmod/Codd71a", "conf/ifip/Codd74", "...", "conf/sigmod/DateC74", "conf/sigmod/Heath71", "...", "..."],
+	"cite": [
+		"conf/sigmod/BernsteinST75",
+		"journals/cacm/Codd70",
+		"persons/Codd71a",
+		"conf/sigmod/Codd71a",
+		"conf/ifip/Codd74",
+		"...",
+		"conf/sigmod/DateC74",
+		"conf/sigmod/Heath71",
+		"...",
+		"..."
+	],
 	"crossref": "conf/sigmod/75",
 	"dblpkey": "conf/sigmod/SchmidS75",
 	"doi": "10.1145/500080.500110",
 	"ee": "http://doi.acm.org/10.1145/500080.500110",
 	"pages": "211-223",
 	"publisher": "ACM",
-	"stemmed": ["on", "the", "semant", "of", "the", "relat", "data", "model"],
-	"tag": ["on the", "relational", "semantics"],
+	"stemmed": [
+		"on",
+		"the",
+		"semant",
+		"of",
+		"the",
+		"relat",
+		"data",
+		"model"
+	],
+	"tag": [
+		"on the",
+		"relational",
+		"semantics"
+	],
 	"title": "On the Semantics of the Relational Data Model",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

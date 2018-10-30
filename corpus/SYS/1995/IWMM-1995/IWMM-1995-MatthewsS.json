@@ -1,6 +1,10 @@
 {
-	"author": ["David C. J. Matthews", "Thierry Le Sergent"],
-	"booktitle": "IWMM",
+	"author": [
+		"David C. J. Matthews",
+		"Thierry Le Sergent"
+	],
+	"booktitle": "Proceedings of the Second International Workshop on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/95",
 	"dblpkey": "conf/iwmm/MatthewsS95",
 	"doi": "10.1007/3-540-60368-9_30",
@@ -10,11 +14,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["lemma", "a", "distribut", "share", "memori", "with", "global", "and", "local", "garbag", "collect"],
-	"tag": ["distributed", "garbage collection", "memory management", "named"],
+	"stemmed": [
+		"lemma",
+		"a",
+		"distribut",
+		"share",
+		"memori",
+		"with",
+		"global",
+		"and",
+		"local",
+		"garbag",
+		"collect"
+	],
+	"tag": [
+		"distributed",
+		"garbage collection",
+		"memory management",
+		"named"
+	],
 	"title": "LEMMA: A Distributed Shared Memory with Global and Local Garbage Collection",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 986,
+	"volume": "986",
 	"year": 1995
 }

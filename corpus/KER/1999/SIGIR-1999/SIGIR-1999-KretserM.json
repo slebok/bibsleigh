@@ -1,6 +1,10 @@
 {
-	"author": ["Owen de Kretser", "Alistair Moffat"],
+	"author": [
+		"Owen de Kretser",
+		"Alistair Moffat"
+	],
 	"booktitle": "Proceedings of the 22nd International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1999/P113.pdf",
 	"crossref": "conf/sigir/99",
 	"dblpkey": "conf/sigir/KretserM99",
@@ -8,8 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/312624.312664",
 	"pages": "113-120",
 	"publisher": "ACM",
-	"stemmed": ["effect", "document", "present", "with", "a", "local", "base", "similar", "heurist"],
-	"tag": ["documentation", "effectiveness", "heuristic", "similarity"],
+	"stemmed": [
+		"effect",
+		"document",
+		"present",
+		"with",
+		"a",
+		"local",
+		"base",
+		"similar",
+		"heurist"
+	],
+	"tag": [
+		"documentation",
+		"effectiveness",
+		"heuristic",
+		"similarity"
+	],
 	"title": "Effective Document Presentation with a Locality-Based Similarity Heuristic",
 	"type": "inproceedings",
 	"venue": "SIGIR",

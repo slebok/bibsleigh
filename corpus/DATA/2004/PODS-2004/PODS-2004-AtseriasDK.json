@@ -1,14 +1,36 @@
 {
-	"author": ["Albert Atserias", "Anuj Dawar", "Phokion G. Kolaitis"],
-	"booktitle": "PODS",
+	"author": [
+		"Albert Atserias",
+		"Anuj Dawar",
+		"Phokion G. Kolaitis"
+	],
+	"booktitle": "Proceedings of the 23rd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2004",
 	"dblpkey": "conf/pods/AtseriasDK04",
 	"doi": "10.1145/1055558.1055602",
-	"ee": ["http://doi.acm.org/10.1145/1055558.1055602", "http://www.acm.org/sigmod/pods/proc04/pdf/P-32.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1055558.1055602",
+		"http://www.acm.org/sigmod/pods/proc04/pdf/P-32.pdf"
+	],
 	"pages": "319-329",
 	"publisher": "ACM",
-	"stemmed": ["on", "preserv", "under", "homomorph", "and", "union", "of", "conjunct", "queri"],
-	"tag": ["morphism", "on the", "query"],
+	"stemmed": [
+		"on",
+		"preserv",
+		"under",
+		"homomorph",
+		"and",
+		"union",
+		"of",
+		"conjunct",
+		"queri"
+	],
+	"tag": [
+		"morphism",
+		"on the",
+		"query"
+	],
 	"title": "On Preservation under Homomorphisms and Unions of Conjunctive Queries",
 	"type": "inproceedings",
 	"venue": "PODS",

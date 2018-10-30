@@ -1,6 +1,15 @@
 {
-	"author": ["Tomas Karnagel", "Roman Dementiev", "Ravi Rajwar", "Konrad Lai", "Thomas Legler", "Benjamin Schlegel", "Wolfgang Lehner"],
-	"booktitle": "HPCA",
+	"author": [
+		"Tomas Karnagel",
+		"Roman Dementiev",
+		"Ravi Rajwar",
+		"Konrad Lai",
+		"Thomas Legler",
+		"Benjamin Schlegel",
+		"Wolfgang Lehner"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/KarnagelDRLLSL14",
 	"doi": "10.1109/HPCA.2014.6835957",
@@ -8,8 +17,25 @@
 	"pages": "476-487",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["improv", "in", "memori", "databas", "index", "perform", "with", "intel", "transact", "synchron", "extens"],
-	"tag": ["database", "in memory", "performance", "transaction"],
+	"stemmed": [
+		"improv",
+		"in",
+		"memori",
+		"databas",
+		"index",
+		"perform",
+		"with",
+		"intel",
+		"transact",
+		"synchron",
+		"extens"
+	],
+	"tag": [
+		"database",
+		"in memory",
+		"performance",
+		"transaction"
+	],
 	"title": "Improving in-memory database index performance with Intel® Transactional Synchronization Extensions",
 	"type": "inproceedings",
 	"venue": "HPCA",

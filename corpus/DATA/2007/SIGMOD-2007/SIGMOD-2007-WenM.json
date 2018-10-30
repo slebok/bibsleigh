@@ -1,6 +1,9 @@
 {
-	"author": ["Ji-Rong Wen", "Wei-Ying Ma"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ji-Rong Wen",
+		"Wei-Ying Ma"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/WenM07",
@@ -8,8 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247578",
 	"pages": "875-876",
 	"publisher": "ACM",
-	"stemmed": ["webstudio", "build", "infrastructur", "for", "web", "data", "manag"],
-	"tag": ["data transformation", "framework", "named", "web"],
+	"stemmed": [
+		"webstudio",
+		"build",
+		"infrastructur",
+		"for",
+		"web",
+		"data",
+		"manag"
+	],
+	"tag": [
+		"data transformation",
+		"framework",
+		"named",
+		"web"
+	],
 	"title": "Webstudio: building infrastructure for web data management",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

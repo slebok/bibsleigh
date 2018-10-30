@@ -1,14 +1,32 @@
 {
-	"author": ["Wonsun Ahn", "Yuelu Duan", "Josep Torrellas"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Wonsun Ahn",
+		"Yuelu Duan",
+		"Josep Torrellas"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2013",
 	"dblpkey": "conf/asplos/AhnDT13",
 	"doi": "10.1145/2451116.2451136",
 	"ee": "http://doi.acm.org/10.1145/2451116.2451136",
 	"pages": "167-180",
 	"publisher": "ACM",
-	"stemmed": ["de", "alias", "alia", "specul", "use", "atom", "region", "support"],
-	"tag": ["alias", "named", "using"],
+	"stemmed": [
+		"de",
+		"alias",
+		"alia",
+		"specul",
+		"use",
+		"atom",
+		"region",
+		"support"
+	],
+	"tag": [
+		"alias",
+		"named",
+		"using"
+	],
 	"title": "DeAliaser: alias speculation using atomic region support",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

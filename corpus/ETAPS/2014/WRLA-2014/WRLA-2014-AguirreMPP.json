@@ -1,6 +1,12 @@
 {
-	"author": ["Luis Aguirre", "Narciso Martí-Oliet", "Miguel Palomino", "Isabel Pita"],
-	"booktitle": "WRLA",
+	"author": [
+		"Luis Aguirre",
+		"Narciso Martí-Oliet",
+		"Miguel Palomino",
+		"Isabel Pita"
+	],
+	"booktitle": "Revised Selected Papers of the 10th International Workshop on Rewriting Logic and its Applications",
+	"booktitleshort": "WRLA",
 	"crossref": "conf/wrla/2014",
 	"dblpkey": "conf/wrla/AguirreMPP14",
 	"doi": "10.1007/978-3-319-12904-4_4",
@@ -10,11 +16,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["condit", "narrow", "modulo", "in", "rewrit", "logic", "and", "maud"],
-	"tag": ["logic", "maude"],
+	"stemmed": [
+		"condit",
+		"narrow",
+		"modulo",
+		"in",
+		"rewrit",
+		"logic",
+		"and",
+		"maud"
+	],
+	"tag": [
+		"logic",
+		"maude"
+	],
 	"title": "Conditional Narrowing Modulo in Rewriting Logic and Maude",
 	"type": "inproceedings",
 	"venue": "WRLA",
-	"volume": 8663,
+	"volume": "8663",
 	"year": 2014
 }

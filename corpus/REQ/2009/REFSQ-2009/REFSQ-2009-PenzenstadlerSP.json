@@ -1,6 +1,11 @@
 {
-	"author": ["Birgit Penzenstadler", "Ernst Sikora", "Klaus Pohl"],
-	"booktitle": "REFSQ",
+	"author": [
+		"Birgit Penzenstadler",
+		"Ernst Sikora",
+		"Klaus Pohl"
+	],
+	"booktitle": "Proceedings of the 15th International Working Conference on Requirements Engineering: Foundation for Software Quality",
+	"booktitleshort": "REFSQ",
 	"crossref": "conf/refsq/2009",
 	"dblpkey": "conf/refsq/PenzenstadlerSP09",
 	"doi": "10.1007/978-3-642-02050-6_18",
@@ -9,11 +14,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "requir", "refer", "model", "for", "model", "base", "requir", "engin", "in", "the", "automot", "domain"],
-	"tag": ["modelling", "requirements"],
+	"stemmed": [
+		"a",
+		"requir",
+		"refer",
+		"model",
+		"for",
+		"model",
+		"base",
+		"requir",
+		"engin",
+		"in",
+		"the",
+		"automot",
+		"domain"
+	],
+	"tag": [
+		"modelling",
+		"requirements"
+	],
 	"title": "A Requirements Reference Model for Model-Based Requirements Engineering in the Automotive Domain",
 	"type": "inproceedings",
 	"venue": "REFSQ",
-	"volume": 5512,
+	"volume": "5512",
 	"year": 2009
 }

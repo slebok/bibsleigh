@@ -1,14 +1,35 @@
 {
-	"author": ["Monica S. Lam", "John Whaley", "V. Benjamin Livshits", "Michael C. Martin", "Dzintars Avots", "Michael Carbin", "Christopher Unkel"],
-	"booktitle": "PODS",
+	"author": [
+		"Monica S. Lam",
+		"John Whaley",
+		"V. Benjamin Livshits",
+		"Michael C. Martin",
+		"Dzintars Avots",
+		"Michael Carbin",
+		"Christopher Unkel"
+	],
+	"booktitle": "Proceedings of the 24th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2005",
 	"dblpkey": "conf/pods/LamWLMACU05",
 	"doi": "10.1145/1065167.1065169",
 	"ee": "http://doi.acm.org/10.1145/1065167.1065169",
 	"pages": "1-12",
 	"publisher": "ACM",
-	"stemmed": ["context", "sensit", "program", "analysi", "as", "databas", "queri"],
-	"tag": ["database", "program analysis", "query"],
+	"stemmed": [
+		"context",
+		"sensit",
+		"program",
+		"analysi",
+		"as",
+		"databas",
+		"queri"
+	],
+	"tag": [
+		"database",
+		"program analysis",
+		"query"
+	],
 	"title": "Context-sensitive program analysis as database queries",
 	"type": "inproceedings",
 	"venue": "PODS",

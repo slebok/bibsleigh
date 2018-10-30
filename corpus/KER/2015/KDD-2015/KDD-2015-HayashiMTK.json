@@ -1,14 +1,38 @@
 {
-	"author": ["Kohei Hayashi", "Takanori Maehara", "Masashi Toyoda", "Ken-ichi Kawarabayashi"],
-	"booktitle": "KDD",
+	"author": [
+		"Kohei Hayashi",
+		"Takanori Maehara",
+		"Masashi Toyoda",
+		"Ken-ichi Kawarabayashi"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/HayashiMTK15",
 	"doi": "10.1145/2783258.2783402",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783402",
 	"pages": "417-426",
 	"publisher": "ACM",
-	"stemmed": ["real", "time", "top", "r", "topic", "detect", "on", "twitter", "with", "topic", "hijack", "filter"],
-	"tag": ["detection", "realtime", "topic", "twitter"],
+	"stemmed": [
+		"real",
+		"time",
+		"top",
+		"r",
+		"topic",
+		"detect",
+		"on",
+		"twitter",
+		"with",
+		"topic",
+		"hijack",
+		"filter"
+	],
+	"tag": [
+		"detection",
+		"realtime",
+		"topic",
+		"twitter"
+	],
 	"title": "Real-Time Top-R Topic Detection on Twitter with Topic Hijack Filtering",
 	"type": "inproceedings",
 	"venue": "KDD",

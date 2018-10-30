@@ -1,6 +1,7 @@
 {
 	"author": "Marc Bezem",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/Bezem88",
 	"doi": "10.1007/BFb0012830",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["consist", "of", "rule", "base", "expert", "system"],
-	"tag": ["consistency", "rule-based"],
+	"stemmed": [
+		"consist",
+		"of",
+		"rule",
+		"base",
+		"expert",
+		"system"
+	],
+	"tag": [
+		"consistency",
+		"rule-based"
+	],
 	"title": "Consistency of Rule-based Expert System",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

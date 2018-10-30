@@ -1,6 +1,10 @@
 {
-	"author": ["Ruzica Piskac", "Thomas Wies"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Ruzica Piskac",
+		"Thomas Wies"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2011",
 	"dblpkey": "conf/vmcai/PiskacW11",
 	"doi": "10.1007/978-3-642-18275-4_26",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["decis", "procedur", "for", "autom", "termin", "proof"],
-	"tag": ["automation", "proving", "termination"],
+	"stemmed": [
+		"decis",
+		"procedur",
+		"for",
+		"autom",
+		"termin",
+		"proof"
+	],
+	"tag": [
+		"automation",
+		"proving",
+		"termination"
+	],
 	"title": "Decision Procedures for Automating Termination Proofs",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 6538,
+	"volume": "6538",
 	"year": 2011
 }

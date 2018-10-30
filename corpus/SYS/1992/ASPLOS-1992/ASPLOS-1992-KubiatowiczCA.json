@@ -1,14 +1,33 @@
 {
-	"author": ["John Kubiatowicz", "David Chaiken", "Anant Agarwal"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"John Kubiatowicz",
+		"David Chaiken",
+		"Anant Agarwal"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1992",
 	"dblpkey": "conf/asplos/KubiatowiczCA92",
 	"doi": "10.1145/143365.143540",
 	"ee": "http://doi.acm.org/10.1145/143365.143540",
 	"pages": "274-284",
 	"publisher": "ACM Press",
-	"stemmed": ["close", "the", "window", "of", "vulner", "in", "multiphas", "memori", "transact"],
-	"tag": ["memory management", "multi", "transaction"],
+	"stemmed": [
+		"close",
+		"the",
+		"window",
+		"of",
+		"vulner",
+		"in",
+		"multiphas",
+		"memori",
+		"transact"
+	],
+	"tag": [
+		"memory management",
+		"multi",
+		"transaction"
+	],
 	"title": "Closing the Window of Vulnerability in Multiphase Memory Transactions",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

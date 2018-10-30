@@ -1,6 +1,11 @@
 {
-	"author": ["Douglas E. Shackelford", "John B. Smith", "F. Donelson Smith"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Douglas E. Shackelford",
+		"John B. Smith",
+		"F. Donelson Smith"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1993/P001.pdf",
 	"crossref": "conf/ht/93",
 	"dblpkey": "conf/ht/ShackelfordSS93",
@@ -8,8 +13,24 @@
 	"ee": "http://doi.acm.org/10.1145/168750.168753",
 	"pages": "1-13",
 	"publisher": "ACM",
-	"stemmed": ["the", "architectur", "and", "implement", "of", "a", "distribut", "hypermedia", "storag", "system"],
-	"tag": ["architecture", "distributed", "hypermedia", "implementation"],
+	"stemmed": [
+		"the",
+		"architectur",
+		"and",
+		"implement",
+		"of",
+		"a",
+		"distribut",
+		"hypermedia",
+		"storag",
+		"system"
+	],
+	"tag": [
+		"architecture",
+		"distributed",
+		"hypermedia",
+		"implementation"
+	],
 	"title": "The Architecture and Implementation of a Distributed Hypermedia Storage System",
 	"type": "inproceedings",
 	"venue": "HT",

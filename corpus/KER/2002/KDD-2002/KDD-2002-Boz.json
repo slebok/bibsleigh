@@ -1,14 +1,25 @@
 {
 	"author": "Olcay Boz",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/Boz02",
 	"doi": "10.1145/775047.775113",
 	"ee": "http://doi.acm.org/10.1145/775047.775113",
 	"pages": "456-461",
 	"publisher": "ACM",
-	"stemmed": ["extract", "decis", "tree", "from", "train", "neural", "network"],
-	"tag": ["network"],
+	"stemmed": [
+		"extract",
+		"decis",
+		"tree",
+		"from",
+		"train",
+		"neural",
+		"network"
+	],
+	"tag": [
+		"network"
+	],
 	"title": "Extracting decision trees from trained neural networks",
 	"type": "inproceedings",
 	"venue": "KDD",

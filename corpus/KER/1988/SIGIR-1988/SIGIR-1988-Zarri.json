@@ -1,6 +1,7 @@
 {
 	"author": "Gian Piero Zarri",
 	"booktitle": "Proceedings of the 11th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P551.pdf",
 	"crossref": "conf/sigir/88",
 	"dblpkey": "conf/sigir/Zarri88",
@@ -8,8 +9,24 @@
 	"ee": "http://doi.acm.org/10.1145/62437.62497",
 	"pages": "551-565",
 	"publisher": "ACM",
-	"stemmed": ["conceptu", "represent", "for", "knowledg", "base", "and", "intellig", "inform", "retriev", "system"],
-	"tag": ["concept", "information retrieval", "knowledge base", "representation"],
+	"stemmed": [
+		"conceptu",
+		"represent",
+		"for",
+		"knowledg",
+		"base",
+		"and",
+		"intellig",
+		"inform",
+		"retriev",
+		"system"
+	],
+	"tag": [
+		"concept",
+		"information retrieval",
+		"knowledge base",
+		"representation"
+	],
 	"title": "Conceptual Representation for Knowledge Bases and “Intelligent” Information Retrieval Systems",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,6 +1,11 @@
 {
-	"author": ["Raimund Ubar", "Jaan Raik", "Adam Morawiec"],
-	"booktitle": "DATE",
+	"author": [
+		"Raimund Ubar",
+		"Jaan Raik",
+		"Adam Morawiec"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/UbarRM99",
 	"doi": "10.1109/DATE.1999.761165",
@@ -8,8 +13,18 @@
 	"pages": "454-458",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["cycl", "base", "simul", "with", "decis", "diagram"],
-	"tag": ["diagrams", "simulation"],
+	"stemmed": [
+		"cycl",
+		"base",
+		"simul",
+		"with",
+		"decis",
+		"diagram"
+	],
+	"tag": [
+		"diagrams",
+		"simulation"
+	],
 	"title": "Cycle-based Simulation with Decision Diagrams",
 	"type": "inproceedings",
 	"venue": "DATE",

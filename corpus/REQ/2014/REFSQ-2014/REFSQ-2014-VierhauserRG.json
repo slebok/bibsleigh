@@ -1,6 +1,11 @@
 {
-	"author": ["Michael Vierhauser", "Rick Rabiser", "Paul Grünbacher"],
-	"booktitle": "REFSQ",
+	"author": [
+		"Michael Vierhauser",
+		"Rick Rabiser",
+		"Paul Grünbacher"
+	],
+	"booktitle": "Proceedings of the 20th International Working Conference on Requirements Engineering: Foundation for Software Quality",
+	"booktitleshort": "REFSQ",
 	"crossref": "conf/refsq/2014",
 	"dblpkey": "conf/refsq/VierhauserRG14",
 	"doi": "10.1007/978-3-319-05843-6_7",
@@ -9,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "requir", "monitor", "infrastructur", "for", "veri", "larg", "scale", "softwar", "system"],
-	"tag": ["framework", "monitoring", "requirements"],
+	"stemmed": [
+		"a",
+		"requir",
+		"monitor",
+		"infrastructur",
+		"for",
+		"veri",
+		"larg",
+		"scale",
+		"softwar",
+		"system"
+	],
+	"tag": [
+		"framework",
+		"monitoring",
+		"requirements"
+	],
 	"title": "A Requirements Monitoring Infrastructure for Very-Large-Scale Software Systems",
 	"type": "inproceedings",
 	"venue": "REFSQ",
-	"volume": 8396,
+	"volume": "8396",
 	"year": 2014
 }

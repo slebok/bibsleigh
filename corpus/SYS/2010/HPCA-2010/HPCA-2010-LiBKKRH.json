@@ -1,6 +1,14 @@
 {
-	"author": ["Tong Li", "Paul Brett", "Rob C. Knauerhase", "David A. Koufaty", "Dheeraj Reddy", "Scott Hahn"],
-	"booktitle": "HPCA",
+	"author": [
+		"Tong Li",
+		"Paul Brett",
+		"Rob C. Knauerhase",
+		"David A. Koufaty",
+		"Dheeraj Reddy",
+		"Scott Hahn"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2010",
 	"dblpkey": "conf/hpca/LiBKKRH10",
 	"doi": "10.1109/HPCA.2010.5416660",
@@ -8,8 +16,23 @@
 	"pages": "1-12",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["oper", "system", "support", "for", "overlap", "isa", "heterogen", "multi", "core", "architectur"],
-	"tag": ["architecture", "manycore", "operating system"],
+	"stemmed": [
+		"oper",
+		"system",
+		"support",
+		"for",
+		"overlap",
+		"isa",
+		"heterogen",
+		"multi",
+		"core",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"manycore",
+		"operating system"
+	],
 	"title": "Operating system support for overlapping-ISA heterogeneous multi-core architectures",
 	"type": "inproceedings",
 	"venue": "HPCA",

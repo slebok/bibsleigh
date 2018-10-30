@@ -1,14 +1,27 @@
 {
 	"author": "Daniel R. Ries",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the Seventh International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB81/P386.PDF",
 	"crossref": "conf/vldb/81",
 	"dblpkey": "conf/vldb/Ries81",
-	"pages": 386,
+	"pages": "386",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["distribut", "data", "process", "versus", "distribut", "data", "base", "process"],
-	"tag": ["database", "distributed"],
+	"stemmed": [
+		"distribut",
+		"data",
+		"process",
+		"versus",
+		"distribut",
+		"data",
+		"base",
+		"process"
+	],
+	"tag": [
+		"database",
+		"distributed"
+	],
 	"title": "Distributed Data Processing Versus Distributed Data Base Processing",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,15 +1,47 @@
 {
-	"author": ["Philip A. Bernstein", "Barbara T. Blaustein", "Edmund M. Clarke"],
-	"booktitle": "VLDB",
+	"author": [
+		"Philip A. Bernstein",
+		"Barbara T. Blaustein",
+		"Edmund M. Clarke"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB80/P126.PDF",
-	"cite": ["...", "journals/jacm/Clarke79", "persons/Codd72", "books/ph/Dijkstra76", "conf/vldb/HammerM75", "conf/sigmod/HammerS78", "journals/cacm/Hoare69", "journals/acta/HoareW73", "...", "conf/sigmod/Stonebraker75"],
+	"cite": [
+		"...",
+		"journals/jacm/Clarke79",
+		"persons/Codd72",
+		"books/ph/Dijkstra76",
+		"conf/vldb/HammerM75",
+		"conf/sigmod/HammerS78",
+		"journals/cacm/Hoare69",
+		"journals/acta/HoareW73",
+		"...",
+		"conf/sigmod/Stonebraker75"
+	],
 	"crossref": "conf/vldb/80",
 	"dblpkey": "conf/vldb/BernsteinBC80",
 	"pages": "126-136",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["fast", "mainten", "of", "semant", "integr", "assert", "use", "redund", "aggreg", "data"],
-	"tag": ["maintenance", "performance", "semantics", "using"],
+	"stemmed": [
+		"fast",
+		"mainten",
+		"of",
+		"semant",
+		"integr",
+		"assert",
+		"use",
+		"redund",
+		"aggreg",
+		"data"
+	],
+	"tag": [
+		"maintenance",
+		"performance",
+		"semantics",
+		"using"
+	],
 	"title": "Fast Maintenance of Semantic Integrity Assertions Using Redundant Aggregate Data",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,14 @@
 {
-	"author": ["Xu Chu", "John Morcos", "Ihab F. Ilyas", "Mourad Ouzzani", "Paolo Papotti", "Nan Tang", "Yin Ye"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Xu Chu",
+		"John Morcos",
+		"Ihab F. Ilyas",
+		"Mourad Ouzzani",
+		"Paolo Papotti",
+		"Nan Tang",
+		"Yin Ye"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/ChuMIOP0Y15",
@@ -8,8 +16,24 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2749431",
 	"pages": "1247-1261",
 	"publisher": "ACM",
-	"stemmed": ["katara", "a", "data", "clean", "system", "power", "by", "knowledg", "base", "and", "crowdsourc"],
-	"tag": ["crowdsourcing", "knowledge base", "named"],
+	"stemmed": [
+		"katara",
+		"a",
+		"data",
+		"clean",
+		"system",
+		"power",
+		"by",
+		"knowledg",
+		"base",
+		"and",
+		"crowdsourc"
+	],
+	"tag": [
+		"crowdsourcing",
+		"knowledge base",
+		"named"
+	],
 	"title": "KATARA: A Data Cleaning System Powered by Knowledge Bases and Crowdsourcing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

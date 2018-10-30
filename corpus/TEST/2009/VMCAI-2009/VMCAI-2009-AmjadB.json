@@ -1,6 +1,10 @@
 {
-	"author": ["Hasan Amjad", "Richard Bornat"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Hasan Amjad",
+		"Richard Bornat"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2009",
 	"dblpkey": "conf/vmcai/AmjadB09",
 	"doi": "10.1007/978-3-540-93900-9_6",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["toward", "automat", "stabil", "analysi", "for", "reli", "guarante", "proof"],
-	"tag": ["analysis", "automation", "proving", "towards"],
+	"stemmed": [
+		"toward",
+		"automat",
+		"stabil",
+		"analysi",
+		"for",
+		"reli",
+		"guarante",
+		"proof"
+	],
+	"tag": [
+		"analysis",
+		"automation",
+		"proving",
+		"towards"
+	],
 	"title": "Towards Automatic Stability Analysis for Rely-Guarantee Proofs",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 5403,
+	"volume": "5403",
 	"year": 2009
 }

@@ -1,14 +1,33 @@
 {
-	"author": ["Wush Chi-Hsuan Wu", "Mi-Yen Yeh", "Ming-Syan Chen"],
-	"booktitle": "KDD",
+	"author": [
+		"Wush Chi-Hsuan Wu",
+		"Mi-Yen Yeh",
+		"Ming-Syan Chen"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/WuYC15",
 	"doi": "10.1145/2783258.2783276",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783276",
 	"pages": "1305-1314",
 	"publisher": "ACM",
-	"stemmed": ["predict", "win", "price", "in", "real", "time", "bid", "with", "censor", "data"],
-	"tag": ["predict", "realtime"],
+	"stemmed": [
+		"predict",
+		"win",
+		"price",
+		"in",
+		"real",
+		"time",
+		"bid",
+		"with",
+		"censor",
+		"data"
+	],
+	"tag": [
+		"predict",
+		"realtime"
+	],
 	"title": "Predicting Winning Price in Real Time Bidding with Censored Data",
 	"type": "inproceedings",
 	"venue": "KDD",

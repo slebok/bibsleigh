@@ -1,14 +1,32 @@
 {
-	"author": ["Guy E. Blelloch", "Jeremy T. Fineman", "Phillip B. Gibbons", "Julian Shun"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Guy E. Blelloch",
+		"Jeremy T. Fineman",
+		"Phillip B. Gibbons",
+		"Julian Shun"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/BlellochFGS12",
 	"doi": "10.1145/2145816.2145840",
 	"ee": "http://doi.acm.org/10.1145/2145816.2145840",
 	"pages": "181-192",
 	"publisher": "ACM",
-	"stemmed": ["intern", "determinist", "parallel", "algorithm", "can", "be", "fast"],
-	"tag": ["algorithm", "parallel", "performance"],
+	"stemmed": [
+		"intern",
+		"determinist",
+		"parallel",
+		"algorithm",
+		"can",
+		"be",
+		"fast"
+	],
+	"tag": [
+		"algorithm",
+		"parallel",
+		"performance"
+	],
 	"title": "Internally deterministic parallel algorithms can be fast",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,14 +1,34 @@
 {
-	"author": ["Liang Zhao", "Qian Sun", "Jieping Ye", "Feng Chen", "Chang-Tien Lu", "Naren Ramakrishnan"],
-	"booktitle": "KDD",
+	"author": [
+		"Liang Zhao",
+		"Qian Sun",
+		"Jieping Ye",
+		"Feng Chen",
+		"Chang-Tien Lu",
+		"Naren Ramakrishnan"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/ZhaoSYCLR15",
 	"doi": "10.1145/2783258.2783377",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783377",
 	"pages": "1503-1512",
 	"publisher": "ACM",
-	"stemmed": ["multi", "task", "learn", "for", "spatio", "tempor", "event", "forecast"],
-	"tag": ["learning", "multi"],
+	"stemmed": [
+		"multi",
+		"task",
+		"learn",
+		"for",
+		"spatio",
+		"tempor",
+		"event",
+		"forecast"
+	],
+	"tag": [
+		"learning",
+		"multi"
+	],
 	"title": "Multi-Task Learning for Spatio-Temporal Event Forecasting",
 	"type": "inproceedings",
 	"venue": "KDD",

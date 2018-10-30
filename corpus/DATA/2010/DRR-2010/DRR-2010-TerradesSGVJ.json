@@ -1,6 +1,13 @@
 {
-	"author": ["Oriol Ramos Terrades", "Nicolás Serrano", "Albert Gordo", "Ernest Valveny", "Alfons Juan"],
-	"booktitle": "DRR",
+	"author": [
+		"Oriol Ramos Terrades",
+		"Nicolás Serrano",
+		"Albert Gordo",
+		"Ernest Valveny",
+		"Alfons Juan"
+	],
+	"booktitle": "Proceedings of the 17th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2010",
 	"dblpkey": "conf/drr/TerradesSGVJ10",
 	"doi": "10.1117/12.839665",
@@ -8,11 +15,22 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["interact", "predict", "detect", "of", "handwritten", "text", "block"],
-	"tag": ["detection", "predict"],
+	"stemmed": [
+		"interact",
+		"predict",
+		"detect",
+		"of",
+		"handwritten",
+		"text",
+		"block"
+	],
+	"tag": [
+		"detection",
+		"predict"
+	],
 	"title": "Interactive-predictive detection of handwritten text blocks",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7534,
+	"volume": "7534",
 	"year": 2010
 }

@@ -1,6 +1,7 @@
 {
 	"author": "Tin Kam Ho",
-	"booktitle": "ICDAR",
+	"booktitle": "Proceedings of the Third International Conference on Document Analysis and Recognition (Volume I)",
+	"booktitleshort": "ICDAR v1",
 	"crossref": "conf/icdar/1995-1",
 	"dblpkey": "conf/icdar/Ho95",
 	"doi": "10.1109/ICDAR.1995.598994",
@@ -8,8 +9,14 @@
 	"pages": "278-282",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["random", "decis", "forest"],
-	"tag": ["random"],
+	"stemmed": [
+		"random",
+		"decis",
+		"forest"
+	],
+	"tag": [
+		"random"
+	],
 	"title": "Random decision forests",
 	"type": "inproceedings",
 	"venue": "ICDAR",

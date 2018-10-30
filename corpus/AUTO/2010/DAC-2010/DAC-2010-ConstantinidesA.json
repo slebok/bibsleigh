@@ -1,14 +1,34 @@
 {
-	"author": ["Kypros Constantinides", "Todd M. Austin"],
-	"booktitle": "DAC",
+	"author": [
+		"Kypros Constantinides",
+		"Todd M. Austin"
+	],
+	"booktitle": "Proceedings of the 47th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2010",
 	"dblpkey": "conf/dac/ConstantinidesA10",
 	"doi": "10.1145/1837274.1837407",
 	"ee": "http://doi.acm.org/10.1145/1837274.1837407",
 	"pages": "537-542",
 	"publisher": "ACM",
-	"stemmed": ["use", "introspect", "softwar", "base", "test", "for", "post", "silicon", "debug", "and", "repair"],
-	"tag": ["debugging", "testing", "using"],
+	"stemmed": [
+		"use",
+		"introspect",
+		"softwar",
+		"base",
+		"test",
+		"for",
+		"post",
+		"silicon",
+		"debug",
+		"and",
+		"repair"
+	],
+	"tag": [
+		"debugging",
+		"testing",
+		"using"
+	],
 	"title": "Using introspective software-based testing for post-silicon debug and repair",
 	"type": "inproceedings",
 	"venue": "DAC",

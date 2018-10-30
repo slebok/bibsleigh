@@ -1,14 +1,38 @@
 {
-	"author": ["Boaz Barak", "Kamalika Chaudhuri", "Cynthia Dwork", "Satyen Kale", "Frank McSherry", "Kunal Talwar"],
-	"booktitle": "PODS",
+	"author": [
+		"Boaz Barak",
+		"Kamalika Chaudhuri",
+		"Cynthia Dwork",
+		"Satyen Kale",
+		"Frank McSherry",
+		"Kunal Talwar"
+	],
+	"booktitle": "Proceedings of the 26th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2007",
 	"dblpkey": "conf/pods/BarakCDKMT07",
 	"doi": "10.1145/1265530.1265569",
 	"ee": "http://doi.acm.org/10.1145/1265530.1265569",
 	"pages": "273-282",
 	"publisher": "ACM",
-	"stemmed": ["privaci", "accuraci", "and", "consist", "too", "a", "holist", "solut", "to", "conting", "tabl", "releas"],
-	"tag": ["consistency", "privacy"],
+	"stemmed": [
+		"privaci",
+		"accuraci",
+		"and",
+		"consist",
+		"too",
+		"a",
+		"holist",
+		"solut",
+		"to",
+		"conting",
+		"tabl",
+		"releas"
+	],
+	"tag": [
+		"consistency",
+		"privacy"
+	],
 	"title": "Privacy, accuracy, and consistency too: a holistic solution to contingency table release",
 	"type": "inproceedings",
 	"venue": "PODS",

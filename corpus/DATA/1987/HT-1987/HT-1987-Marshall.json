@@ -1,6 +1,7 @@
 {
 	"author": "Catherine C. Marshall",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the First Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1987/P253.pdf",
 	"crossref": "conf/ht/87",
 	"dblpkey": "conf/ht/Marshall87",
@@ -8,8 +9,19 @@
 	"ee": "http://doi.acm.org/10.1145/317426.317445",
 	"pages": "253-268",
 	"publisher": "ACM",
-	"stemmed": ["explor", "represent", "problem", "use", "hypertext"],
-	"tag": ["hypermedia", "problem", "representation", "using"],
+	"stemmed": [
+		"explor",
+		"represent",
+		"problem",
+		"use",
+		"hypertext"
+	],
+	"tag": [
+		"hypermedia",
+		"problem",
+		"representation",
+		"using"
+	],
 	"title": "Exploring Representation Problems Using Hypertext",
 	"type": "inproceedings",
 	"venue": "HT",

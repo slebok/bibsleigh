@@ -1,6 +1,7 @@
 {
 	"author": "Marco Benedetti",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the First International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2001",
 	"dblpkey": "conf/cade/Benedetti01",
 	"doi": "10.1007/3-540-45744-5_25",
@@ -10,11 +11,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["condit", "pure", "liter", "graph"],
-	"tag": ["graph"],
+	"stemmed": [
+		"condit",
+		"pure",
+		"liter",
+		"graph"
+	],
+	"tag": [
+		"graph"
+	],
 	"title": "Conditional Pure Literal Graphs",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 2083,
+	"volume": "2083",
 	"year": 2001
 }

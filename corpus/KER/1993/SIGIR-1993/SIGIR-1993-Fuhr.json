@@ -1,6 +1,7 @@
 {
 	"author": "Norbert Fuhr",
 	"booktitle": "Proceedings of the 16th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1993/P309.pdf",
 	"crossref": "conf/sigir/93",
 	"dblpkey": "conf/sigir/Fuhr93",
@@ -8,8 +9,26 @@
 	"ee": "http://doi.acm.org/10.1145/160688.160754",
 	"pages": "309-317",
 	"publisher": "ACM",
-	"stemmed": ["a", "probabilist", "relat", "model", "for", "the", "integr", "of", "ir", "and", "databas"],
-	"tag": ["database", "information retrieval", "integration", "probability", "relational"],
+	"stemmed": [
+		"a",
+		"probabilist",
+		"relat",
+		"model",
+		"for",
+		"the",
+		"integr",
+		"of",
+		"ir",
+		"and",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"information retrieval",
+		"integration",
+		"probability",
+		"relational"
+	],
 	"title": "A Probabilistic Relational Model for the Integration of IR and Databases",
 	"type": "inproceedings",
 	"venue": "SIGIR",

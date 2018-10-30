@@ -1,14 +1,38 @@
 {
-	"author": ["Per Gunnar Kjeldsberg", "Francky Catthoor", "Einar J. Aas"],
-	"booktitle": "DAC",
+	"author": [
+		"Per Gunnar Kjeldsberg",
+		"Francky Catthoor",
+		"Einar J. Aas"
+	],
+	"booktitle": "Proceedings of the 38th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2001",
 	"dblpkey": "conf/dac/KjeldsbergCA01",
 	"doi": "10.1145/378239.378525",
 	"ee": "http://doi.acm.org/10.1145/378239.378525",
 	"pages": "365-370",
 	"publisher": "ACM",
-	"stemmed": ["detect", "of", "partial", "simultan", "aliv", "signal", "in", "storag", "requir", "estim", "for", "data", "intens", "applic"],
-	"tag": ["data-driven", "detection", "estimation"],
+	"stemmed": [
+		"detect",
+		"of",
+		"partial",
+		"simultan",
+		"aliv",
+		"signal",
+		"in",
+		"storag",
+		"requir",
+		"estim",
+		"for",
+		"data",
+		"intens",
+		"applic"
+	],
+	"tag": [
+		"data-driven",
+		"detection",
+		"estimation"
+	],
 	"title": "Detection of Partially Simultaneously Alive Signals in Storage Requirement Estimation for Data Intensive Applications",
 	"type": "inproceedings",
 	"venue": "DAC",

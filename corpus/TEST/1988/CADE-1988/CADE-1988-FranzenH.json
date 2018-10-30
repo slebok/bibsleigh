@@ -1,6 +1,10 @@
 {
-	"author": ["Mark Franzen", "Lawrence J. Henschen"],
-	"booktitle": "CADE",
+	"author": [
+		"Mark Franzen",
+		"Lawrence J. Henschen"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/FranzenH88",
 	"doi": "10.1007/BFb0012863",
@@ -10,11 +14,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "new", "approach", "to", "univers", "unif", "and", "it", "applic", "to", "ac", "unif"],
-	"tag": ["approach", "unification"],
+	"stemmed": [
+		"a",
+		"new",
+		"approach",
+		"to",
+		"univers",
+		"unif",
+		"and",
+		"it",
+		"applic",
+		"to",
+		"ac",
+		"unif"
+	],
+	"tag": [
+		"approach",
+		"unification"
+	],
 	"title": "A New Approach to Universal Unification and Its Application to AC-Unification",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

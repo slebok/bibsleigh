@@ -1,14 +1,37 @@
 {
-	"author": ["Andreas Kern", "Helge Zinner", "Thilo Streichert", "Josef Nöbauer", "Jürgen Teich"],
-	"booktitle": "DAC",
+	"author": [
+		"Andreas Kern",
+		"Helge Zinner",
+		"Thilo Streichert",
+		"Josef Nöbauer",
+		"Jürgen Teich"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/KernZSNT11",
 	"doi": "10.1145/2024724.2024862",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024862",
 	"pages": "597-602",
 	"publisher": "ACM",
-	"stemmed": ["accuraci", "of", "ethernet", "avb", "time", "synchron", "under", "vari", "temperatur", "condit", "for", "automot", "network"],
-	"tag": ["network"],
+	"stemmed": [
+		"accuraci",
+		"of",
+		"ethernet",
+		"avb",
+		"time",
+		"synchron",
+		"under",
+		"vari",
+		"temperatur",
+		"condit",
+		"for",
+		"automot",
+		"network"
+	],
+	"tag": [
+		"network"
+	],
 	"title": "Accuracy of ethernet AVB time synchronization under varying temperature conditions for automotive networks",
 	"type": "inproceedings",
 	"venue": "DAC",

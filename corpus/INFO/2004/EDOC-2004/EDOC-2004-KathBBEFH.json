@@ -1,6 +1,14 @@
 {
-	"author": ["Olaf Kath", "Andrei Blazarenas", "Marc Born", "Klaus-Peter Eckert", "Motohisa Funabashi", "Chiaki Hirai"],
-	"booktitle": "EDOC",
+	"author": [
+		"Olaf Kath",
+		"Andrei Blazarenas",
+		"Marc Born",
+		"Klaus-Peter Eckert",
+		"Motohisa Funabashi",
+		"Chiaki Hirai"
+	],
+	"booktitle": "Proceedings of the Eighth International Enterprise Distributed Object Computing Conference",
+	"booktitleshort": "EDOC",
 	"crossref": "conf/edoc/2004",
 	"dblpkey": "conf/edoc/KathBBEFH04",
 	"doi": "10.1109/EDOC.2004.10025",
@@ -8,8 +16,26 @@
 	"pages": "267-274",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["toward", "execut", "model", "transform", "edoc", "behavior", "model", "to", "corba", "and", "bpel"],
-	"tag": ["behaviour", "corba", "execution", "modelling", "towards"],
+	"stemmed": [
+		"toward",
+		"execut",
+		"model",
+		"transform",
+		"edoc",
+		"behavior",
+		"model",
+		"to",
+		"corba",
+		"and",
+		"bpel"
+	],
+	"tag": [
+		"behaviour",
+		"corba",
+		"execution",
+		"modelling",
+		"towards"
+	],
 	"title": "Towards Executable Models: Transforming EDOC Behavior Models to CORBA and BPEL",
 	"type": "inproceedings",
 	"venue": "EDOC",

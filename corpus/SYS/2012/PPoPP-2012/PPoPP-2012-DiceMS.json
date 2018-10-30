@@ -1,14 +1,31 @@
 {
-	"author": ["David Dice", "Virendra J. Marathe", "Nir Shavit"],
-	"booktitle": "PPOPP",
+	"author": [
+		"David Dice",
+		"Virendra J. Marathe",
+		"Nir Shavit"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/DiceMS12",
 	"doi": "10.1145/2145816.2145848",
 	"ee": "http://doi.acm.org/10.1145/2145816.2145848",
 	"pages": "247-256",
 	"publisher": "ACM",
-	"stemmed": ["lock", "cohort", "a", "general", "techniqu", "for", "design", "numa", "lock"],
-	"tag": ["design"],
+	"stemmed": [
+		"lock",
+		"cohort",
+		"a",
+		"general",
+		"techniqu",
+		"for",
+		"design",
+		"numa",
+		"lock"
+	],
+	"tag": [
+		"design"
+	],
 	"title": "Lock cohorting: a general technique for designing NUMA locks",
 	"type": "inproceedings",
 	"venue": "PPoPP",

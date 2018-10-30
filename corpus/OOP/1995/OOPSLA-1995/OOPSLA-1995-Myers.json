@@ -1,6 +1,6 @@
 {
 	"author": "Andrew C. Myers",
-	"booktitle": "Proceedings of the 10th Annual Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"booktitle": "Proceedings of the 10th Annual Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1995",
 	"dblpkey": "conf/oopsla/Myers95",
@@ -10,8 +10,19 @@
 	"isbn": "0-89791-703-0",
 	"pages": "124-139",
 	"publisher": "ACM",
-	"stemmed": ["bidirect", "object", "layout", "for", "separ", "compil"],
-	"tag": ["bidirectional", "compilation", "layout"],
+	"stemmed": [
+		"bidirect",
+		"object",
+		"layout",
+		"for",
+		"separ",
+		"compil"
+	],
+	"tag": [
+		"bidirectional",
+		"compilation",
+		"layout"
+	],
 	"title": "Bidirectional Object Layout for Separate Compilation",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

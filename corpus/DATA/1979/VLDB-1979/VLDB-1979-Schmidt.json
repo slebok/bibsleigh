@@ -1,15 +1,39 @@
 {
 	"author": "Joachim W. Schmidt",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the Fifth International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB79/P398.PDF",
-	"cite": ["journals/tods/BayerHR80", "...", "journals/cacm/EswarranGLT76", "...", "...", "...", "journals/tods/RiesS77", "conf/vldb/RothnieG77", "journals/tods/Schmidt77", "..."],
+	"cite": [
+		"journals/tods/BayerHR80",
+		"...",
+		"journals/cacm/EswarranGLT76",
+		"...",
+		"...",
+		"...",
+		"journals/tods/RiesS77",
+		"conf/vldb/RothnieG77",
+		"journals/tods/Schmidt77",
+		"..."
+	],
 	"crossref": "conf/vldb/79",
 	"dblpkey": "conf/vldb/Schmidt79",
 	"pages": "398-408",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["parallel", "process", "of", "relat", "a", "singl", "assign", "approach"],
-	"tag": ["approach", "parallel"],
+	"stemmed": [
+		"parallel",
+		"process",
+		"of",
+		"relat",
+		"a",
+		"singl",
+		"assign",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"parallel"
+	],
 	"title": "Parallel Processing of Relations: A Single-Assignment Approach",
 	"type": "inproceedings",
 	"venue": "VLDB",

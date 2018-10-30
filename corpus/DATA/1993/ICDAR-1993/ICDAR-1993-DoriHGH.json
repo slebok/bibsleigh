@@ -1,14 +1,33 @@
 {
-	"author": ["Dov Dori", "Adam I. Harris", "Gustavo Gambach", "Robert M. Haralick"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Dov Dori",
+		"Adam I. Harris",
+		"Gustavo Gambach",
+		"Robert M. Haralick"
+	],
+	"booktitle": "Proceedings of the Second International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/1993",
 	"dblpkey": "conf/icdar/DoriHGH93",
 	"doi": "10.1109/ICDAR.1993.395675",
 	"ee": "http://dx.doi.org/10.1109/ICDAR.1993.395675",
 	"pages": "553-556",
 	"publisher": "IEEE",
-	"stemmed": ["radiograph", "as", "medic", "document", "autom", "standard", "measur"],
-	"tag": ["automation", "documentation", "metric", "standard"],
+	"stemmed": [
+		"radiograph",
+		"as",
+		"medic",
+		"document",
+		"autom",
+		"standard",
+		"measur"
+	],
+	"tag": [
+		"automation",
+		"documentation",
+		"metric",
+		"standard"
+	],
 	"title": "Radiographs as medical documents: automating standard measurements",
 	"type": "inproceedings",
 	"venue": "ICDAR",

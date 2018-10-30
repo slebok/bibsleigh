@@ -1,6 +1,12 @@
 {
-	"author": ["Stéphane Nicolas", "J. Dardenne", "Thierry Paquet", "Laurent Heutte"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Stéphane Nicolas",
+		"J. Dardenne",
+		"Thierry Paquet",
+		"Laurent Heutte"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/NicolasDPH07",
 	"doi": "10.1109/ICDAR.2007.102",
@@ -8,8 +14,26 @@
 	"pages": "407-411",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["document", "imag", "segment", "use", "a", "d", "condit", "random", "field", "model"],
-	"tag": ["2d", "documentation", "image", "random", "segmentation", "using"],
+	"stemmed": [
+		"document",
+		"imag",
+		"segment",
+		"use",
+		"a",
+		"d",
+		"condit",
+		"random",
+		"field",
+		"model"
+	],
+	"tag": [
+		"2d",
+		"documentation",
+		"image",
+		"random",
+		"segmentation",
+		"using"
+	],
 	"title": "Document Image Segmentation Using a 2D Conditional Random Field Model",
 	"type": "inproceedings",
 	"venue": "ICDAR",

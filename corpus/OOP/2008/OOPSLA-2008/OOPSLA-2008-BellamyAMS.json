@@ -1,6 +1,11 @@
 {
-	"author": ["Ben Bellamy", "Pavel Avgustinov", "Oege de Moor", "Damien Sereni"],
-	"booktitle": "Proceedings of the 23rd Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Ben Bellamy",
+		"Pavel Avgustinov",
+		"Oege de Moor",
+		"Damien Sereni"
+	],
+	"booktitle": "Proceedings of the 23rd Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2008",
 	"dblpkey": "conf/oopsla/BellamyAMS08",
@@ -10,8 +15,16 @@
 	"isbn": "978-1-60558-215-3",
 	"pages": "475-492",
 	"publisher": "ACM",
-	"stemmed": ["effici", "local", "type", "infer"],
-	"tag": ["performance", "type inference"],
+	"stemmed": [
+		"effici",
+		"local",
+		"type",
+		"infer"
+	],
+	"tag": [
+		"performance",
+		"type inference"
+	],
 	"title": "Efficient local type inference",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

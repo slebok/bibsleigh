@@ -1,6 +1,12 @@
 {
-	"author": ["Volker Markl", "Marcel Kutsch", "Tam Minh Tran", "Peter J. Haas", "Nimrod Megiddo"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Volker Markl",
+		"Marcel Kutsch",
+		"Tam Minh Tran",
+		"Peter J. Haas",
+		"Nimrod Megiddo"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/MarklKTHM06",
@@ -8,8 +14,19 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142586",
 	"pages": "775-777",
 	"publisher": "ACM",
-	"stemmed": ["maxent", "consist", "cardin", "estim", "in", "action"],
-	"tag": ["consistency", "estimation", "named"],
+	"stemmed": [
+		"maxent",
+		"consist",
+		"cardin",
+		"estim",
+		"in",
+		"action"
+	],
+	"tag": [
+		"consistency",
+		"estimation",
+		"named"
+	],
 	"title": "MAXENT: consistent cardinality estimation in action",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

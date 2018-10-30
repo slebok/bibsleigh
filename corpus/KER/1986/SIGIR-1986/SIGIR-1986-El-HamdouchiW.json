@@ -1,6 +1,10 @@
 {
-	"author": ["Abdelmoula El-Hamdouchi", "Peter Willett"],
+	"author": [
+		"Abdelmoula El-Hamdouchi",
+		"Peter Willett"
+	],
 	"booktitle": "Proceedings of the Ninth International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1986/P149.pdf",
 	"crossref": "conf/sigir/86",
 	"dblpkey": "conf/sigir/El-HamdouchiW86",
@@ -8,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/253168.253200",
 	"pages": "149-156",
 	"publisher": "ACM",
-	"stemmed": ["hierarch", "document", "cluster", "use", "ward", "s", "method"],
-	"tag": ["clustering", "documentation", "using"],
+	"stemmed": [
+		"hierarch",
+		"document",
+		"cluster",
+		"use",
+		"ward",
+		"s",
+		"method"
+	],
+	"tag": [
+		"clustering",
+		"documentation",
+		"using"
+	],
 	"title": "Hierarchic Document Clustering Using Ward’s Method",
 	"type": "inproceedings",
 	"venue": "SIGIR",

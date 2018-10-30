@@ -1,6 +1,10 @@
 {
-	"author": ["Riyaz Haque", "Jens Palsberg"],
-	"booktitle": "ECOOP",
+	"author": [
+		"Riyaz Haque",
+		"Jens Palsberg"
+	],
+	"booktitle": "Proceedings of the 29th European Conference on Object-Oriented Programming",
+	"booktitleshort": "ECOOP",
 	"crossref": "conf/ecoop/2015",
 	"dblpkey": "conf/ecoop/HaqueP15",
 	"doi": "10.4230/LIPIcs.ECOOP.2015.371",
@@ -10,11 +14,20 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["type", "infer", "for", "place", "oblivi", "object"],
-	"tag": ["type inference"],
+	"stemmed": [
+		"type",
+		"infer",
+		"for",
+		"place",
+		"oblivi",
+		"object"
+	],
+	"tag": [
+		"type inference"
+	],
 	"title": "Type Inference for Place-Oblivious Objects",
 	"type": "inproceedings",
 	"venue": "ECOOP",
-	"volume": 37,
+	"volume": "37",
 	"year": 2015
 }

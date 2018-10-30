@@ -1,14 +1,32 @@
 {
-	"author": ["Dirk Grunwald", "Richard Neves"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Dirk Grunwald",
+		"Richard Neves"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1996",
 	"dblpkey": "conf/asplos/GrunwaldN96",
 	"doi": "10.1145/237090.237149",
 	"ee": "http://doi.acm.org/10.1145/237090.237149",
 	"pages": "50-59",
 	"publisher": "ACM Press",
-	"stemmed": ["whole", "program", "optim", "for", "time", "and", "space", "effici", "thread"],
-	"tag": ["optimisation", "performance", "thread"],
+	"stemmed": [
+		"whole",
+		"program",
+		"optim",
+		"for",
+		"time",
+		"and",
+		"space",
+		"effici",
+		"thread"
+	],
+	"tag": [
+		"optimisation",
+		"performance",
+		"thread"
+	],
 	"title": "Whole-Program Optimization for Time and Space Efficient Threads",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

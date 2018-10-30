@@ -1,6 +1,10 @@
 {
-	"author": ["Gilles Défourneaux", "Nicolas Peltier"],
-	"booktitle": "CADE",
+	"author": [
+		"Gilles Défourneaux",
+		"Nicolas Peltier"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
 	"dblpkey": "conf/cade/DefourneauxP97",
 	"doi": "10.1007/3-540-63104-6_43",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["partial", "match", "for", "analog", "discoveri", "in", "proof", "and", "counter", "exampl"],
-	"tag": ["proving"],
+	"stemmed": [
+		"partial",
+		"match",
+		"for",
+		"analog",
+		"discoveri",
+		"in",
+		"proof",
+		"and",
+		"counter",
+		"exampl"
+	],
+	"tag": [
+		"proving"
+	],
 	"title": "Partial Matching for Analogy Discovery in Proofs and Counter-Examples",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1249,
+	"volume": "1249",
 	"year": 1997
 }

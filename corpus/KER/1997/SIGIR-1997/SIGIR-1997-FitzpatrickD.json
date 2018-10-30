@@ -1,6 +1,10 @@
 {
-	"author": ["Larry Fitzpatrick", "Mei Dent"],
+	"author": [
+		"Larry Fitzpatrick",
+		"Mei Dent"
+	],
 	"booktitle": "Proceedings of the 20th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1997/P306.pdf",
 	"crossref": "conf/sigir/97",
 	"dblpkey": "conf/sigir/FitzpatrickD97",
@@ -8,8 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/258525.258597",
 	"pages": "306-313",
 	"publisher": "ACM",
-	"stemmed": ["automat", "feedback", "use", "past", "queri", "social", "search"],
-	"tag": ["automation", "feedback", "query", "question", "social", "using"],
+	"stemmed": [
+		"automat",
+		"feedback",
+		"use",
+		"past",
+		"queri",
+		"social",
+		"search"
+	],
+	"tag": [
+		"automation",
+		"feedback",
+		"query",
+		"question",
+		"social",
+		"using"
+	],
 	"title": "Automatic Feedback Using Past Queries: Social Searching?",
 	"type": "inproceedings",
 	"venue": "SIGIR",

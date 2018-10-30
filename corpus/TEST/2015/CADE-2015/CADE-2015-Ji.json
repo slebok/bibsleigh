@@ -1,6 +1,7 @@
 {
 	"author": "Kailiang Ji",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
 	"dblpkey": "conf/cade/Ji15",
 	"doi": "10.1007/978-3-319-21401-6_20",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["ctl", "model", "check", "in", "deduct", "modulo"],
-	"tag": ["deduction", "model checking"],
+	"stemmed": [
+		"ctl",
+		"model",
+		"check",
+		"in",
+		"deduct",
+		"modulo"
+	],
+	"tag": [
+		"deduction",
+		"model checking"
+	],
 	"title": "CTL Model Checking in Deduction Modulo",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 9195,
+	"volume": "9195",
 	"year": 2015
 }

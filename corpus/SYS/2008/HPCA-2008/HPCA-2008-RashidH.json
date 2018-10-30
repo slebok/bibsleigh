@@ -1,6 +1,10 @@
 {
-	"author": ["M. Wasiur Rashid", "Michael C. Huang"],
-	"booktitle": "HPCA",
+	"author": [
+		"M. Wasiur Rashid",
+		"Michael C. Huang"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2008",
 	"dblpkey": "conf/hpca/RashidH08",
 	"doi": "10.1109/HPCA.2008.4658655",
@@ -8,8 +12,23 @@
 	"pages": "393-404",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["support", "high", "decoupl", "thread", "level", "redund", "for", "parallel", "program"],
-	"tag": ["concurrent", "parallel", "source code", "thread"],
+	"stemmed": [
+		"support",
+		"high",
+		"decoupl",
+		"thread",
+		"level",
+		"redund",
+		"for",
+		"parallel",
+		"program"
+	],
+	"tag": [
+		"concurrent",
+		"parallel",
+		"source code",
+		"thread"
+	],
 	"title": "Supporting highly-decoupled thread-level redundancy for parallel programs",
 	"type": "inproceedings",
 	"venue": "HPCA",

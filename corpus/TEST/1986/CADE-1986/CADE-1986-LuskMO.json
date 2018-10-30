@@ -1,6 +1,11 @@
 {
-	"author": ["Ewing L. Lusk", "William McCune", "Ross A. Overbeek"],
-	"booktitle": "CADE",
+	"author": [
+		"Ewing L. Lusk",
+		"William McCune",
+		"Ross A. Overbeek"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/LuskMO86",
 	"doi": "10.1007/3-540-16780-3_143",
@@ -10,10 +15,16 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["itp", "at", "argonn", "nation", "laboratori"],
+	"stemmed": [
+		"itp",
+		"at",
+		"argonn",
+		"nation",
+		"laboratori"
+	],
 	"title": "ITP at Argonne National Laboratory",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

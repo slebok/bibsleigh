@@ -1,6 +1,10 @@
 {
-	"author": ["James A. Altucher", "Prakash Panangaden"],
-	"booktitle": "CADE",
+	"author": [
+		"James A. Altucher",
+		"Prakash Panangaden"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/AltucherP90",
 	"doi": "10.1007/3-540-52885-7_110",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "mechan", "assist", "construct", "proof", "in", "categori", "theori"],
-	"tag": ["category theory", "proving"],
+	"stemmed": [
+		"a",
+		"mechan",
+		"assist",
+		"construct",
+		"proof",
+		"in",
+		"categori",
+		"theori"
+	],
+	"tag": [
+		"category theory",
+		"proving"
+	],
 	"title": "A Mechanically Assisted Constructive Proof in Category Theory",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

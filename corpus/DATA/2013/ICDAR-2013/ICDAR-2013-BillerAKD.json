@@ -1,15 +1,43 @@
 {
-	"author": ["Ofer Biller", "Abedelkadir Asi", "Klara Kedem", "Its'hak Dinstein"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Ofer Biller",
+		"Abedelkadir Asi",
+		"Klara Kedem",
+		"Its'hak Dinstein"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2013",
 	"dblpkey": "conf/icdar/BillerAKD13",
 	"doi": "10.1109/ICDAR.2013.68",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2013.68", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2013.68"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2013.68",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2013.68"
+	],
 	"pages": "305-308",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["web", "gt", "an", "interact", "web", "base", "system", "for", "histor", "document", "ground", "truth", "generat"],
-	"tag": ["documentation", "generative", "interactive", "named"],
+	"stemmed": [
+		"web",
+		"gt",
+		"an",
+		"interact",
+		"web",
+		"base",
+		"system",
+		"for",
+		"histor",
+		"document",
+		"ground",
+		"truth",
+		"generat"
+	],
+	"tag": [
+		"documentation",
+		"generative",
+		"interactive",
+		"named"
+	],
 	"title": "WebGT: An Interactive Web-Based System for Historical Document Ground Truth Generation",
 	"type": "inproceedings",
 	"venue": "ICDAR",

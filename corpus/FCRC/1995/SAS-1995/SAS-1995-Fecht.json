@@ -1,6 +1,7 @@
 {
 	"author": "Christian Fecht",
 	"booktitle": "Proceedings of the Second International Static Analysis Symposium",
+	"booktitleshort": "SAS",
 	"crossref": "conf/sas/95",
 	"dblpkey": "conf/sas/Fecht95",
 	"doi": "10.1007/3-540-60360-3_53",
@@ -10,11 +11,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["gena", "a", "tool", "for", "generat", "prolog", "analyz", "from", "specif"],
-	"tag": ["generative", "named", "prolog", "specification"],
+	"stemmed": [
+		"gena",
+		"a",
+		"tool",
+		"for",
+		"generat",
+		"prolog",
+		"analyz",
+		"from",
+		"specif"
+	],
+	"tag": [
+		"generative",
+		"named",
+		"prolog",
+		"specification"
+	],
 	"title": "GENA — A Tool for Generating Prolog Analyzers from Specifications",
 	"type": "inproceedings",
 	"venue": "SAS",
-	"volume": 983,
+	"volume": "983",
 	"year": 1995
 }

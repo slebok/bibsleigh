@@ -1,13 +1,28 @@
 {
-	"author": ["Gianpiero Cabodi", "Stefano Quer", "Fabio Somenzi"],
-	"booktitle": "DAC",
+	"author": [
+		"Gianpiero Cabodi",
+		"Stefano Quer",
+		"Fabio Somenzi"
+	],
+	"booktitle": "Proceedings of the 37th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/CabodiQS00",
 	"doi": "10.1145/337292.337591",
 	"ee": "http://doi.acm.org/10.1145/337292.337591",
 	"pages": "601-606",
 	"publisher": "ACM",
-	"stemmed": ["optim", "sequenti", "verif", "by", "retim", "transform"],
-	"tag": ["optimisation", "verification"],
+	"stemmed": [
+		"optim",
+		"sequenti",
+		"verif",
+		"by",
+		"retim",
+		"transform"
+	],
+	"tag": [
+		"optimisation",
+		"verification"
+	],
 	"title": "Optimizing sequential verification by retiming transformations",
 	"type": "inproceedings",
 	"venue": "DAC",

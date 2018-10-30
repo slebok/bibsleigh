@@ -1,6 +1,7 @@
 {
 	"author": "Julian Seward",
 	"booktitle": "Proceedings of the Second International Static Analysis Symposium",
+	"booktitleshort": "SAS",
 	"crossref": "conf/sas/95",
 	"dblpkey": "conf/sas/Seward95",
 	"doi": "10.1007/3-540-60360-3_51",
@@ -10,11 +11,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["beyond", "prototyp", "implement", "polymorph", "project", "analysi", "for", "glasgow", "haskel"],
-	"tag": ["analysis", "haskell", "implementation", "polymorphism", "prototype"],
+	"stemmed": [
+		"beyond",
+		"prototyp",
+		"implement",
+		"polymorph",
+		"project",
+		"analysi",
+		"for",
+		"glasgow",
+		"haskel"
+	],
+	"tag": [
+		"analysis",
+		"haskell",
+		"implementation",
+		"polymorphism",
+		"prototype"
+	],
 	"title": "Beyond Prototype Implementations: Polymorphic Projection Analysis for Glasgow Haskell",
 	"type": "inproceedings",
 	"venue": "SAS",
-	"volume": 983,
+	"volume": "983",
 	"year": 1995
 }

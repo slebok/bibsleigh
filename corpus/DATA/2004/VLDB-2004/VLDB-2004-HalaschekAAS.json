@@ -1,13 +1,35 @@
 {
-	"author": ["Christian Halaschek-Wiener", "Boanerges Aleman-Meza", "Ismailcem Budak Arpinar", "Amit P. Sheth"],
-	"booktitle": "VLDB",
+	"author": [
+		"Christian Halaschek-Wiener",
+		"Boanerges Aleman-Meza",
+		"Ismailcem Budak Arpinar",
+		"Amit P. Sheth"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/HalaschekAAS04",
 	"ee": "http://www.vldb.org/conf/2004/DEMP17.PDF",
 	"pages": "1317-1320",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["discov", "and", "rank", "semant", "associ", "over", "a", "larg", "rdf", "metabas"],
-	"tag": ["ranking", "rdf", "scalability", "semantics"],
+	"stemmed": [
+		"discov",
+		"and",
+		"rank",
+		"semant",
+		"associ",
+		"over",
+		"a",
+		"larg",
+		"rdf",
+		"metabas"
+	],
+	"tag": [
+		"ranking",
+		"rdf",
+		"scalability",
+		"semantics"
+	],
 	"title": "Discovering and Ranking Semantic Associations over a Large RDF Metabase",
 	"type": "inproceedings",
 	"venue": "VLDB",

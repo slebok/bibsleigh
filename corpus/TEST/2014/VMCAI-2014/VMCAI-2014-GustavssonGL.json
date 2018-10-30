@@ -1,6 +1,11 @@
 {
-	"author": ["Andreas Gustavsson", "Jan Gustafsson", "Björn Lisper"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Andreas Gustavsson",
+		"Jan Gustafsson",
+		"Björn Lisper"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2014",
 	"dblpkey": "conf/vmcai/GustavssonGL14",
 	"doi": "10.1007/978-3-642-54013-4_4",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["time", "analysi", "of", "parallel", "softwar", "use", "abstract", "execut"],
-	"tag": ["analysis", "execution", "parallel", "using"],
+	"stemmed": [
+		"time",
+		"analysi",
+		"of",
+		"parallel",
+		"softwar",
+		"use",
+		"abstract",
+		"execut"
+	],
+	"tag": [
+		"analysis",
+		"execution",
+		"parallel",
+		"using"
+	],
 	"title": "Timing Analysis of Parallel Software Using Abstract Execution",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 8318,
+	"volume": "8318",
 	"year": 2014
 }

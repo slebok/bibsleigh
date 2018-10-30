@@ -1,14 +1,30 @@
 {
-	"author": ["Adam Woznica", "Phong Nguyen", "Alexandros Kalousis"],
-	"booktitle": "KDD",
+	"author": [
+		"Adam Woznica",
+		"Phong Nguyen",
+		"Alexandros Kalousis"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/WoznicaNK12",
 	"doi": "10.1145/2339530.2339674",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339674",
 	"pages": "913-921",
 	"publisher": "ACM",
-	"stemmed": ["model", "mine", "for", "robust", "featur", "select"],
-	"tag": ["feature model", "mining", "robust"],
+	"stemmed": [
+		"model",
+		"mine",
+		"for",
+		"robust",
+		"featur",
+		"select"
+	],
+	"tag": [
+		"feature model",
+		"mining",
+		"robust"
+	],
 	"title": "Model mining for robust feature selection",
 	"type": "inproceedings",
 	"venue": "KDD",

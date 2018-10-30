@@ -1,6 +1,11 @@
 {
-	"author": ["Patrick Cousot", "Radhia Cousot", "Francesco Logozzo"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Patrick Cousot",
+		"Radhia Cousot",
+		"Francesco Logozzo"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2011",
 	"dblpkey": "conf/vmcai/CousotCL11",
 	"doi": "10.1007/978-3-642-18275-4_12",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["precondit", "infer", "from", "intermitt", "assert", "and", "applic", "to", "contract", "on", "collect"],
-	"tag": ["contract"],
+	"stemmed": [
+		"precondit",
+		"infer",
+		"from",
+		"intermitt",
+		"assert",
+		"and",
+		"applic",
+		"to",
+		"contract",
+		"on",
+		"collect"
+	],
+	"tag": [
+		"contract"
+	],
 	"title": "Precondition Inference from Intermittent Assertions and Application to Contracts on Collections",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 6538,
+	"volume": "6538",
 	"year": 2011
 }

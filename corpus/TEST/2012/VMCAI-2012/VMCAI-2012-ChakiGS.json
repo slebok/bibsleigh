@@ -1,6 +1,11 @@
 {
-	"author": ["Sagar Chaki", "Arie Gurfinkel", "Ofer Strichman"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Sagar Chaki",
+		"Arie Gurfinkel",
+		"Ofer Strichman"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2012",
 	"dblpkey": "conf/vmcai/ChakiGS12",
 	"doi": "10.1007/978-3-642-27940-9_9",
@@ -10,11 +15,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["regress", "verif", "for", "multi", "thread", "program"],
-	"tag": ["concurrent", "multi", "source code", "thread", "verification"],
+	"stemmed": [
+		"regress",
+		"verif",
+		"for",
+		"multi",
+		"thread",
+		"program"
+	],
+	"tag": [
+		"concurrent",
+		"multi",
+		"source code",
+		"thread",
+		"verification"
+	],
 	"title": "Regression Verification for Multi-threaded Programs",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 7148,
+	"volume": "7148",
 	"year": 2012
 }

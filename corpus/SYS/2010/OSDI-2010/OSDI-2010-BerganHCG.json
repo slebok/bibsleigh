@@ -1,13 +1,27 @@
 {
-	"author": ["Tom Bergan", "Nicholas Hunt", "Luis Ceze", "Steven D. Gribble"],
-	"booktitle": "OSDI",
+	"author": [
+		"Tom Bergan",
+		"Nicholas Hunt",
+		"Luis Ceze",
+		"Steven D. Gribble"
+	],
+	"booktitle": "Proceedings of the Ninth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2010",
 	"dblpkey": "conf/osdi/BerganHCG10",
 	"ee": "http://www.usenix.org/events/osdi10/tech/full_papers/Bergan.pdf",
 	"pages": "177-191",
 	"publisher": "USENIX Association",
-	"stemmed": ["determinist", "process", "group", "in", "dos"],
-	"tag": ["process"],
+	"stemmed": [
+		"determinist",
+		"process",
+		"group",
+		"in",
+		"dos"
+	],
+	"tag": [
+		"process"
+	],
 	"title": "Deterministic Process Groups in dOS",
 	"type": "inproceedings",
 	"venue": "OSDI",

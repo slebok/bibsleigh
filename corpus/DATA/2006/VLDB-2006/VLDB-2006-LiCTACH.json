@@ -1,14 +1,37 @@
 {
-	"acmid": 1164131,
-	"author": ["Hua-Gang Li", "Songting Chen", "Jun'ichi Tatemura", "Divyakant Agrawal", "K. Selçuk Candan", "Wang-Pin Hsiung"],
-	"booktitle": "VLDB",
+	"acmid": "1164131",
+	"author": [
+		"Hua-Gang Li",
+		"Songting Chen",
+		"Jun'ichi Tatemura",
+		"Divyakant Agrawal",
+		"K. Selçuk Candan",
+		"Wang-Pin Hsiung"
+	],
+	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
 	"dblpkey": "conf/vldb/LiCTACH06",
 	"ee": "http://www.vldb.org/conf/2006/p19-li.pdf",
 	"pages": "19-30",
 	"publisher": "ACM",
-	"stemmed": ["safeti", "guarante", "of", "continu", "join", "queri", "over", "punctuat", "data", "stream"],
-	"tag": ["data type", "query", "safety"],
+	"stemmed": [
+		"safeti",
+		"guarante",
+		"of",
+		"continu",
+		"join",
+		"queri",
+		"over",
+		"punctuat",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"data type",
+		"query",
+		"safety"
+	],
 	"title": "Safety Guarantee of Continuous Join Queries over Punctuated Data Streams",
 	"type": "inproceedings",
 	"venue": "VLDB",

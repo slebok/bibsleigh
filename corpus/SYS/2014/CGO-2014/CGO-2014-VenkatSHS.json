@@ -1,14 +1,30 @@
 {
-	"author": ["Anand Venkat", "Manu Shantharam", "Mary W. Hall", "Michelle Mills Strout"],
-	"booktitle": "CGO",
+	"author": [
+		"Anand Venkat",
+		"Manu Shantharam",
+		"Mary W. Hall",
+		"Michelle Mills Strout"
+	],
+	"booktitle": "Proceedings of the 12th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2014",
 	"dblpkey": "conf/cgo/VenkatSHS14",
 	"doi": "10.1145/2544137.2544141",
 	"ee": "http://doi.acm.org/10.1145/2544137.2544141",
-	"pages": 185,
+	"pages": "185",
 	"publisher": "ACM",
-	"stemmed": ["non", "affin", "extens", "to", "polyhedr", "code", "generat"],
-	"tag": ["code generation"],
+	"stemmed": [
+		"non",
+		"affin",
+		"extens",
+		"to",
+		"polyhedr",
+		"code",
+		"generat"
+	],
+	"tag": [
+		"code generation"
+	],
 	"title": "Non-affine Extensions to Polyhedral Code Generation",
 	"type": "inproceedings",
 	"venue": "CGO",

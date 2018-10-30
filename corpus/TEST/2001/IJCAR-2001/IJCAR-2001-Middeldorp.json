@@ -1,6 +1,7 @@
 {
 	"author": "Aart Middeldorp",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the First International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2001",
 	"dblpkey": "conf/cade/Middeldorp01",
 	"doi": "10.1007/3-540-45744-5_49",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["approxim", "depend", "graph", "use", "tree", "automata", "techniqu"],
-	"tag": ["approximate", "automaton", "dependence", "graph", "using"],
+	"stemmed": [
+		"approxim",
+		"depend",
+		"graph",
+		"use",
+		"tree",
+		"automata",
+		"techniqu"
+	],
+	"tag": [
+		"approximate",
+		"automaton",
+		"dependence",
+		"graph",
+		"using"
+	],
 	"title": "Approximating Dependency Graphs Using Tree Automata Techniques",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 2083,
+	"volume": "2083",
 	"year": 2001
 }

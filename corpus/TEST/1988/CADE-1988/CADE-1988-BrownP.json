@@ -1,6 +1,10 @@
 {
-	"author": ["Frank M. Brown", "Seung S. Park"],
-	"booktitle": "CADE",
+	"author": [
+		"Frank M. Brown",
+		"Seung S. Park"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/BrownP88",
 	"doi": "10.1007/BFb0012883",
@@ -10,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["symev", "a", "theorem", "prover", "base", "on", "the", "experiment", "logic"],
-	"tag": ["logic", "named", "proving", "theorem proving"],
+	"stemmed": [
+		"symev",
+		"a",
+		"theorem",
+		"prover",
+		"base",
+		"on",
+		"the",
+		"experiment",
+		"logic"
+	],
+	"tag": [
+		"logic",
+		"named",
+		"proving",
+		"theorem proving"
+	],
 	"title": "SYMEVAL: A Theorem Prover Based on the Experimental Logic",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

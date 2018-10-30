@@ -1,6 +1,10 @@
 {
-	"author": ["Allen Van Gelder", "Geoff Sutcliffe"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Allen Van Gelder",
+		"Geoff Sutcliffe"
+	],
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/GelderS06",
 	"doi": "10.1007/11814771_15",
@@ -10,11 +14,30 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["extend", "the", "tptp", "languag", "to", "higher", "order", "logic", "with", "autom", "parser", "generat"],
-	"tag": ["automation", "generative", "higher-order", "logic", "parsing"],
+	"stemmed": [
+		"extend",
+		"the",
+		"tptp",
+		"languag",
+		"to",
+		"higher",
+		"order",
+		"logic",
+		"with",
+		"autom",
+		"parser",
+		"generat"
+	],
+	"tag": [
+		"automation",
+		"generative",
+		"higher-order",
+		"logic",
+		"parsing"
+	],
 	"title": "Extending the TPTP Language to Higher-Order Logic with Automated Parser Generation",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

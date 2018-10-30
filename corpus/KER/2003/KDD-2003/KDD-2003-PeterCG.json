@@ -1,14 +1,32 @@
 {
-	"author": ["William Peter", "John Chiochetti", "Clare Giardina"],
-	"booktitle": "KDD",
+	"author": [
+		"William Peter",
+		"John Chiochetti",
+		"Clare Giardina"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2003",
 	"dblpkey": "conf/kdd/PeterCG03",
 	"doi": "10.1145/956750.956833",
 	"ee": "http://doi.acm.org/10.1145/956750.956833",
 	"pages": "643-648",
 	"publisher": "ACM",
-	"stemmed": ["new", "unsupervis", "cluster", "algorithm", "for", "larg", "dataset"],
-	"tag": ["algorithm", "clustering", "dataset", "scalability"],
+	"stemmed": [
+		"new",
+		"unsupervis",
+		"cluster",
+		"algorithm",
+		"for",
+		"larg",
+		"dataset"
+	],
+	"tag": [
+		"algorithm",
+		"clustering",
+		"dataset",
+		"scalability"
+	],
 	"title": "New unsupervised clustering algorithm for large datasets",
 	"type": "inproceedings",
 	"venue": "KDD",

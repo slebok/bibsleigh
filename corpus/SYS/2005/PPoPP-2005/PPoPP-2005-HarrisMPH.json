@@ -1,14 +1,28 @@
 {
-	"author": ["Tim Harris", "Simon Marlow", "Simon L. Peyton Jones", "Maurice Herlihy"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Tim Harris",
+		"Simon Marlow",
+		"Simon L. Peyton Jones",
+		"Maurice Herlihy"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2005",
 	"dblpkey": "conf/ppopp/HarrisMPH05",
 	"doi": "10.1145/1065944.1065952",
 	"ee": "http://doi.acm.org/10.1145/1065944.1065952",
 	"pages": "48-60",
 	"publisher": "ACM",
-	"stemmed": ["compos", "memori", "transact"],
-	"tag": ["composition", "memory management", "transaction"],
+	"stemmed": [
+		"compos",
+		"memori",
+		"transact"
+	],
+	"tag": [
+		"composition",
+		"memory management",
+		"transaction"
+	],
 	"title": "Composable memory transactions",
 	"type": "inproceedings",
 	"venue": "PPoPP",

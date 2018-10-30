@@ -1,7 +1,10 @@
 {
-	"author": ["Yichen Xie", "Dawson R. Engler"],
+	"author": [
+		"Yichen Xie",
+		"Dawson R. Engler"
+	],
 	"booktitle": "Proceedings of the 10th Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2002",
 	"dblpkey": "conf/sigsoft/XieE02",
 	"doi": "10.1145/587051.587060",
@@ -9,8 +12,17 @@
 	"isbn": "1-58113-514-9",
 	"pages": "51-60",
 	"publisher": "ACM",
-	"stemmed": ["use", "redund", "to", "find", "error"],
-	"tag": ["fault", "using"],
+	"stemmed": [
+		"use",
+		"redund",
+		"to",
+		"find",
+		"error"
+	],
+	"tag": [
+		"fault",
+		"using"
+	],
 	"title": "Using redundancies to find errors",
 	"type": "inproceedings",
 	"venue": "FSE",

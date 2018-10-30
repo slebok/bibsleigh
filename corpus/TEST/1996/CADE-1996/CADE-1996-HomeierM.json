@@ -1,6 +1,10 @@
 {
-	"author": ["Peter V. Homeier", "David F. Martin"],
-	"booktitle": "CADE",
+	"author": [
+		"Peter V. Homeier",
+		"David F. Martin"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/HomeierM96",
 	"doi": "10.1007/3-540-61511-3_81",
@@ -10,11 +14,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["mechan", "verif", "of", "mutual", "recurs", "procedur"],
-	"tag": ["recursion", "verification"],
+	"stemmed": [
+		"mechan",
+		"verif",
+		"of",
+		"mutual",
+		"recurs",
+		"procedur"
+	],
+	"tag": [
+		"recursion",
+		"verification"
+	],
 	"title": "Mechanical Verification of Mutually Recursive Procedures",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

@@ -1,14 +1,35 @@
 {
-	"author": ["Jeremy D. Frens", "David S. Wise"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Jeremy D. Frens",
+		"David S. Wise"
+	],
+	"booktitle": "Proceedings of the Ninth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2003",
 	"dblpkey": "conf/ppopp/FrensW03",
 	"doi": "10.1145/781498.781525",
 	"ee": "http://doi.acm.org/10.1145/781498.781525",
 	"pages": "144-154",
 	"publisher": "ACM",
-	"stemmed": ["factor", "with", "morton", "order", "quadtre", "matric", "for", "memori", "re", "use", "and", "parallel"],
-	"tag": ["matrix", "memory management", "parallel"],
+	"stemmed": [
+		"factor",
+		"with",
+		"morton",
+		"order",
+		"quadtre",
+		"matric",
+		"for",
+		"memori",
+		"re",
+		"use",
+		"and",
+		"parallel"
+	],
+	"tag": [
+		"matrix",
+		"memory management",
+		"parallel"
+	],
 	"title": "Factorization with morton-ordered quadtree matrices for memory re-use and parallelism",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,15 +1,37 @@
 {
-	"author": ["Janani Mukundan", "José F. Martínez"],
-	"booktitle": "HPCA",
+	"author": [
+		"Janani Mukundan",
+		"José F. Martínez"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2012",
 	"dblpkey": "conf/hpca/MukundanM12",
 	"doi": "10.1109/HPCA.2012.6168945",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2012.6168945", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6168945"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2012.6168945",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6168945"
+	],
 	"pages": "65-76",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["mors", "multi", "object", "reconfigur", "self", "optim", "memori", "schedul"],
-	"tag": ["configuration management", "memory management", "multi", "named", "self"],
+	"stemmed": [
+		"mors",
+		"multi",
+		"object",
+		"reconfigur",
+		"self",
+		"optim",
+		"memori",
+		"schedul"
+	],
+	"tag": [
+		"configuration management",
+		"memory management",
+		"multi",
+		"named",
+		"self"
+	],
 	"title": "MORSE: Multi-objective reconfigurable self-optimizing memory scheduler",
 	"type": "inproceedings",
 	"venue": "HPCA",

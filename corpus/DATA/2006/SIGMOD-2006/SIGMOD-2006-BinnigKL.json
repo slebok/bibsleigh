@@ -1,6 +1,10 @@
 {
-	"author": ["Carsten Binnig", "Donald Kossmann", "Eric Lo"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Carsten Binnig",
+		"Donald Kossmann",
+		"Eric Lo"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/BinnigKL06",
@@ -8,8 +12,15 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142572",
 	"pages": "739-741",
 	"publisher": "ACM",
-	"stemmed": ["test", "databas", "applic"],
-	"tag": ["database", "testing"],
+	"stemmed": [
+		"test",
+		"databas",
+		"applic"
+	],
+	"tag": [
+		"database",
+		"testing"
+	],
 	"title": "Testing database applications",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

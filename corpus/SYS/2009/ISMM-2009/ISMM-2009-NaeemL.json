@@ -1,14 +1,32 @@
 {
-	"author": ["Nomair A. Naeem", "Ondrej Lhoták"],
-	"booktitle": "ISMM",
+	"author": [
+		"Nomair A. Naeem",
+		"Ondrej Lhoták"
+	],
+	"booktitle": "Proceedings of the Eighth International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2009",
 	"dblpkey": "conf/iwmm/NaeemL09",
 	"doi": "10.1145/1542431.1542443",
 	"ee": "http://doi.acm.org/10.1145/1542431.1542443",
 	"pages": "79-88",
 	"publisher": "ACM",
-	"stemmed": ["effici", "alia", "set", "analysi", "use", "ssa", "form"],
-	"tag": ["alias", "analysis", "performance", "set", "using"],
+	"stemmed": [
+		"effici",
+		"alia",
+		"set",
+		"analysi",
+		"use",
+		"ssa",
+		"form"
+	],
+	"tag": [
+		"alias",
+		"analysis",
+		"performance",
+		"set",
+		"using"
+	],
 	"title": "Efficient alias set analysis using SSA form",
 	"type": "inproceedings",
 	"venue": "ISMM",

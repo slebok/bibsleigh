@@ -1,14 +1,32 @@
 {
-	"author": ["Torsten Hoefler", "Christian Siebert", "Andrew Lumsdaine"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Torsten Hoefler",
+		"Christian Siebert",
+		"Andrew Lumsdaine"
+	],
+	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/HoeflerSL10",
 	"doi": "10.1145/1693453.1693476",
 	"ee": "http://doi.acm.org/10.1145/1693453.1693476",
 	"pages": "159-168",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "communic", "protocol", "for", "dynam", "spars", "data", "exchang"],
-	"tag": ["communication", "protocol", "scalability"],
+	"stemmed": [
+		"scalabl",
+		"communic",
+		"protocol",
+		"for",
+		"dynam",
+		"spars",
+		"data",
+		"exchang"
+	],
+	"tag": [
+		"communication",
+		"protocol",
+		"scalability"
+	],
 	"title": "Scalable communication protocols for dynamic sparse data exchange",
 	"type": "inproceedings",
 	"venue": "PPoPP",

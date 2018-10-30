@@ -1,14 +1,35 @@
 {
-	"author": ["Satish Chandra", "James R. Larus", "Anne Rogers"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Satish Chandra",
+		"James R. Larus",
+		"Anne Rogers"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1994",
 	"dblpkey": "conf/asplos/ChandraLR94",
 	"doi": "10.1145/195473.195501",
 	"ee": "http://doi.acm.org/10.1145/195473.195501",
 	"pages": "61-73",
 	"publisher": "ACM Press",
-	"stemmed": ["where", "is", "time", "spent", "in", "messag", "pass", "and", "share", "memori", "program"],
-	"tag": ["message passing", "question", "source code"],
+	"stemmed": [
+		"where",
+		"is",
+		"time",
+		"spent",
+		"in",
+		"messag",
+		"pass",
+		"and",
+		"share",
+		"memori",
+		"program"
+	],
+	"tag": [
+		"message passing",
+		"question",
+		"source code"
+	],
 	"title": "Where is Time Spent in Message-Passing and Shared-Memory Programs?",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

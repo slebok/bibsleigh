@@ -1,13 +1,25 @@
 {
-	"author": ["Hiroshi Yamaguchi", "Shigeru Chiba"],
-	"booktitle": "GPCE",
+	"author": [
+		"Hiroshi Yamaguchi",
+		"Shigeru Chiba"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Generative Programming: Concepts and Experiences",
+	"booktitleshort": "GPCE",
 	"crossref": "conf/gpce/2015",
 	"dblpkey": "conf/gpce/YamaguchiC15",
 	"doi": "10.1145/2814204.2814213",
 	"pages": "85-94",
 	"publisher": "ACM",
-	"stemmed": ["invers", "macro", "in", "scala"],
-	"tag": ["metaprogramming", "scala"],
+	"stemmed": [
+		"invers",
+		"macro",
+		"in",
+		"scala"
+	],
+	"tag": [
+		"metaprogramming",
+		"scala"
+	],
 	"title": "Inverse macro in Scala",
 	"type": "inproceedings",
 	"venue": "GPCE",

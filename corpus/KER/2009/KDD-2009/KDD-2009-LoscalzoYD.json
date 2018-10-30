@@ -1,14 +1,27 @@
 {
-	"author": ["Steven Loscalzo", "Lei Yu", "Chris H. Q. Ding"],
-	"booktitle": "KDD",
+	"author": [
+		"Steven Loscalzo",
+		"Lei Yu",
+		"Chris H. Q. Ding"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/LoscalzoYD09",
 	"doi": "10.1145/1557019.1557084",
 	"ee": "http://doi.acm.org/10.1145/1557019.1557084",
 	"pages": "567-576",
 	"publisher": "ACM",
-	"stemmed": ["consensus", "group", "stabl", "featur", "select"],
-	"tag": ["feature model"],
+	"stemmed": [
+		"consensus",
+		"group",
+		"stabl",
+		"featur",
+		"select"
+	],
+	"tag": [
+		"feature model"
+	],
 	"title": "Consensus group stable feature selection",
 	"type": "inproceedings",
 	"venue": "KDD",

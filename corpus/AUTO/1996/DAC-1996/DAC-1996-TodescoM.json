@@ -1,13 +1,35 @@
 {
-	"author": ["Antonio R. W. Todesco", "Teresa H. Y. Meng"],
-	"booktitle": "DAC",
+	"author": [
+		"Antonio R. W. Todesco",
+		"Teresa H. Y. Meng"
+	],
+	"booktitle": "Proceedings of the 33rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/TodescoM96",
 	"doi": "10.1145/240518.240546",
 	"ee": "http://doi.acm.org/10.1145/240518.240546",
 	"pages": "149-154",
 	"publisher": "ACM Press",
-	"stemmed": ["symphoni", "a", "simul", "backplan", "for", "parallel", "mix", "mode", "co", "simul", "of", "vlsi", "system"],
-	"tag": ["named", "parallel", "simulation"],
+	"stemmed": [
+		"symphoni",
+		"a",
+		"simul",
+		"backplan",
+		"for",
+		"parallel",
+		"mix",
+		"mode",
+		"co",
+		"simul",
+		"of",
+		"vlsi",
+		"system"
+	],
+	"tag": [
+		"named",
+		"parallel",
+		"simulation"
+	],
 	"title": "Symphony: A Simulation Backplane for Parallel Mixed-Mode Co-Simulation of VLSI Systems",
 	"type": "inproceedings",
 	"venue": "DAC",

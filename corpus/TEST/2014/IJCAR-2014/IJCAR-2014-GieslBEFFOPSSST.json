@@ -1,6 +1,19 @@
 {
-	"author": ["Jürgen Giesl", "Marc Brockschmidt", "Fabian Emmes", "Florian Frohn", "Carsten Fuhs", "Carsten Otto", "Martin Plücker", "Peter Schneider-Kamp", "Thomas Ströder", "Stephanie Swiderski", "René Thiemann"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Jürgen Giesl",
+		"Marc Brockschmidt",
+		"Fabian Emmes",
+		"Florian Frohn",
+		"Carsten Fuhs",
+		"Carsten Otto",
+		"Martin Plücker",
+		"Peter Schneider-Kamp",
+		"Thomas Ströder",
+		"Stephanie Swiderski",
+		"René Thiemann"
+	],
+	"booktitle": "Proceedings of the Seventh International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2014",
 	"dblpkey": "conf/cade/GieslBEFFOPSSST14",
 	"doi": "10.1007/978-3-319-08587-6_13",
@@ -10,11 +23,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["prove", "termin", "of", "program", "automat", "with", "aprov"],
-	"tag": ["automation", "proving", "source code", "termination"],
+	"stemmed": [
+		"prove",
+		"termin",
+		"of",
+		"program",
+		"automat",
+		"with",
+		"aprov"
+	],
+	"tag": [
+		"automation",
+		"proving",
+		"source code",
+		"termination"
+	],
 	"title": "Proving Termination of Programs Automatically with AProVE",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 8562,
+	"volume": "8562",
 	"year": 2014
 }

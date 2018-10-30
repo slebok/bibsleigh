@@ -1,14 +1,35 @@
 {
-	"author": ["Guan Yu", "Rui-zhang Huang", "Zhaojun Wang"],
-	"booktitle": "KDD",
+	"author": [
+		"Guan Yu",
+		"Rui-zhang Huang",
+		"Zhaojun Wang"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/YuHW10",
 	"doi": "10.1145/1835804.1835901",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835901",
 	"pages": "763-772",
 	"publisher": "ACM",
-	"stemmed": ["document", "cluster", "via", "dirichlet", "process", "mixtur", "model", "with", "featur", "select"],
-	"tag": ["clustering", "documentation", "feature model", "process"],
+	"stemmed": [
+		"document",
+		"cluster",
+		"via",
+		"dirichlet",
+		"process",
+		"mixtur",
+		"model",
+		"with",
+		"featur",
+		"select"
+	],
+	"tag": [
+		"clustering",
+		"documentation",
+		"feature model",
+		"process"
+	],
 	"title": "Document clustering via dirichlet process mixture model with feature selection",
 	"type": "inproceedings",
 	"venue": "KDD",

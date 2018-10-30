@@ -1,16 +1,42 @@
 {
-	"acmid": 874442,
-	"author": ["Sezer Gören", "F. Joel Ferguson"],
-	"booktitle": "DATE",
+	"acmid": "874442",
+	"author": [
+		"Sezer Gören",
+		"F. Joel Ferguson"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2002",
 	"dblpkey": "conf/date/GorenF02",
 	"doi": "10.1109/DATE.2002.998280",
-	"ee": ["http://doi.ieeecomputersociety.org/10.1109/DATE.2002.998280", "http://dl.acm.org/citation.cfm?id=874442"],
+	"ee": [
+		"http://doi.ieeecomputersociety.org/10.1109/DATE.2002.998280",
+		"http://dl.acm.org/citation.cfm?id=874442"
+	],
 	"pages": "248-254",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["chesmin", "a", "heurist", "for", "state", "reduct", "in", "incomplet", "specifi", "finit", "state", "machin"],
-	"tag": ["finite", "heuristic", "named", "reduction", "state machine"],
+	"stemmed": [
+		"chesmin",
+		"a",
+		"heurist",
+		"for",
+		"state",
+		"reduct",
+		"in",
+		"incomplet",
+		"specifi",
+		"finit",
+		"state",
+		"machin"
+	],
+	"tag": [
+		"finite",
+		"heuristic",
+		"named",
+		"reduction",
+		"state machine"
+	],
 	"title": "CHESMIN: A Heuristic for State Reduction in Incompletely Specified Finite State Machines",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,6 +1,10 @@
 {
-	"author": ["Siu-Kei Wong", "Chi-Ying Tsui"],
-	"booktitle": "DATE",
+	"author": [
+		"Siu-Kei Wong",
+		"Chi-Ying Tsui"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/WongT04",
 	"doi": "10.1109/DATE.2004.1268838",
@@ -8,8 +12,33 @@
 	"pages": "130-135",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["re", "configur", "bus", "encod", "scheme", "for", "reduc", "power", "consumpt", "of", "the", "cross", "coupl", "capacit", "for", "deep", "sub", "micron", "instruct", "bus"],
-	"tag": ["configuration management", "encoding", "power management"],
+	"stemmed": [
+		"re",
+		"configur",
+		"bus",
+		"encod",
+		"scheme",
+		"for",
+		"reduc",
+		"power",
+		"consumpt",
+		"of",
+		"the",
+		"cross",
+		"coupl",
+		"capacit",
+		"for",
+		"deep",
+		"sub",
+		"micron",
+		"instruct",
+		"bus"
+	],
+	"tag": [
+		"configuration management",
+		"encoding",
+		"power management"
+	],
 	"title": "Re-Configurable Bus Encoding Scheme for Reducing Power Consumption of the Cross Coupling Capacitance for Deep Sub-Micron Instruction Bus",
 	"type": "inproceedings",
 	"venue": "DATE",

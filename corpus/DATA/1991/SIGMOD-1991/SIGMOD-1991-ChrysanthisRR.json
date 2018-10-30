@@ -1,15 +1,45 @@
 {
-	"author": ["Panos K. Chrysanthis", "S. Raghuram", "Krithi Ramamritham"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Panos K. Chrysanthis",
+		"S. Raghuram",
+		"Krithi Ramamritham"
+	],
+	"booktitle": "Proceedings of the 21st ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD91/P108.PDF",
-	"cite": ["...", "conf/sigmod/BadrinathR90", "journals/tods/BadrinathR92", "books/aw/BernsteinHG87", "conf/sigmod/ChrysanthisR90", "journals/cacm/EswarranGLT76", "conf/vldb/Gray81", "conf/pods/HerlihyW88", "conf/oopsla/KimBCGW87", "...", "conf/sigmod/MossGG86", "...", "journals/tocs/SchwarzS84", "books/mk/Stonebraker88", "..."],
+	"cite": [
+		"...",
+		"conf/sigmod/BadrinathR90",
+		"journals/tods/BadrinathR92",
+		"books/aw/BernsteinHG87",
+		"conf/sigmod/ChrysanthisR90",
+		"journals/cacm/EswarranGLT76",
+		"conf/vldb/Gray81",
+		"conf/pods/HerlihyW88",
+		"conf/oopsla/KimBCGW87",
+		"...",
+		"conf/sigmod/MossGG86",
+		"...",
+		"journals/tocs/SchwarzS84",
+		"books/mk/Stonebraker88",
+		"..."
+	],
 	"crossref": "conf/sigmod/91",
 	"dblpkey": "conf/sigmod/ChrysanthisRR91",
 	"doi": "10.1145/115790.115803",
 	"ee": "http://doi.acm.org/10.1145/115790.115803",
 	"pages": "108-117",
-	"stemmed": ["extract", "concurr", "from", "object", "a", "methodolog"],
-	"tag": ["concurrent"],
+	"stemmed": [
+		"extract",
+		"concurr",
+		"from",
+		"object",
+		"a",
+		"methodolog"
+	],
+	"tag": [
+		"concurrent"
+	],
 	"title": "Extracting Concurrency from Objects: A Methodology",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,7 @@
 {
 	"author": "Viktor Vafeiadis",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the 10th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2009",
 	"dblpkey": "conf/vmcai/Vafeiadis09",
 	"doi": "10.1007/978-3-540-93900-9_27",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["shape", "valu", "abstract", "for", "verifi", "lineariz"],
-	"tag": ["abstraction", "verification"],
+	"stemmed": [
+		"shape",
+		"valu",
+		"abstract",
+		"for",
+		"verifi",
+		"lineariz"
+	],
+	"tag": [
+		"abstraction",
+		"verification"
+	],
 	"title": "Shape-Value Abstraction for Verifying Linearizability",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 5403,
+	"volume": "5403",
 	"year": 2009
 }

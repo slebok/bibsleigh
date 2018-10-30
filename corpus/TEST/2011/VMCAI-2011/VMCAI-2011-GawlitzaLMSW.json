@@ -1,6 +1,13 @@
 {
-	"author": ["Thomas Martin Gawlitza", "Peter Lammich", "Markus Müller-Olm", "Helmut Seidl", "Alexander Wenner"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Thomas Martin Gawlitza",
+		"Peter Lammich",
+		"Markus Müller-Olm",
+		"Helmut Seidl",
+		"Alexander Wenner"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2011",
 	"dblpkey": "conf/vmcai/GawlitzaLMSW11",
 	"doi": "10.1007/978-3-642-18275-4_15",
@@ -10,11 +17,31 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["join", "lock", "sensit", "forward", "reachabl", "analysi", "for", "concurr", "program", "with", "dynam", "process", "creation"],
-	"tag": ["analysis", "concurrent", "process", "reachability", "source code"],
+	"stemmed": [
+		"join",
+		"lock",
+		"sensit",
+		"forward",
+		"reachabl",
+		"analysi",
+		"for",
+		"concurr",
+		"program",
+		"with",
+		"dynam",
+		"process",
+		"creation"
+	],
+	"tag": [
+		"analysis",
+		"concurrent",
+		"process",
+		"reachability",
+		"source code"
+	],
 	"title": "Join-Lock-Sensitive Forward Reachability Analysis for Concurrent Programs with Dynamic Process Creation",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 6538,
+	"volume": "6538",
 	"year": 2011
 }

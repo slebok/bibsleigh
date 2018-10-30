@@ -1,6 +1,9 @@
 {
-	"author": ["Mansheng Yang", "Richard T. B. Ma"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Mansheng Yang",
+		"Richard T. B. Ma"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/YangM15",
@@ -8,8 +11,17 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2764941",
 	"pages": "2067-2068",
 	"publisher": "ACM",
-	"stemmed": ["smooth", "task", "migrat", "in", "apach", "storm"],
-	"tag": ["migration"],
+	"stemmed": [
+		"smooth",
+		"task",
+		"migrat",
+		"in",
+		"apach",
+		"storm"
+	],
+	"tag": [
+		"migration"
+	],
 	"title": "Smooth Task Migration in Apache Storm",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

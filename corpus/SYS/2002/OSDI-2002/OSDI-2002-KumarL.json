@@ -1,14 +1,30 @@
 {
-	"author": ["Sanjeev Kumar", "Kai Li"],
-	"booktitle": "OSDI",
+	"author": [
+		"Sanjeev Kumar",
+		"Kai Li"
+	],
+	"booktitle": "Proceedings of the Fifth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2002",
 	"dblpkey": "conf/osdi/KumarL02",
 	"doi": "10.1145/1060289.1060296",
 	"ee": "http://www.usenix.org/events/osdi02/tech/kumar.html",
 	"pages": "61-74",
 	"publisher": "USENIX Association",
-	"stemmed": ["use", "model", "check", "to", "debug", "devic", "firmwar"],
-	"tag": ["debugging", "model checking", "using"],
+	"stemmed": [
+		"use",
+		"model",
+		"check",
+		"to",
+		"debug",
+		"devic",
+		"firmwar"
+	],
+	"tag": [
+		"debugging",
+		"model checking",
+		"using"
+	],
 	"title": "Using Model Checking to Debug Device Firmware",
 	"type": "inproceedings",
 	"venue": "OSDI",

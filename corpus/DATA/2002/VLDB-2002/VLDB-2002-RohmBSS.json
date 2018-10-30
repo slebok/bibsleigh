@@ -1,13 +1,38 @@
 {
-	"author": ["Uwe Röhm", "Klemens Böhm", "Hans-Jörg Schek", "Heiko Schuldt"],
-	"booktitle": "VLDB",
+	"author": [
+		"Uwe Röhm",
+		"Klemens Böhm",
+		"Hans-Jörg Schek",
+		"Heiko Schuldt"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/RohmBSS02",
 	"ee": "http://www.vldb.org/conf/2002/S21P03.pdf",
 	"pages": "754-765",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["fas", "a", "fresh", "sensit", "coordin", "middlewar", "for", "a", "cluster", "of", "olap", "compon"],
-	"tag": ["clustering", "component", "coordination", "middleware", "named"],
+	"stemmed": [
+		"fas",
+		"a",
+		"fresh",
+		"sensit",
+		"coordin",
+		"middlewar",
+		"for",
+		"a",
+		"cluster",
+		"of",
+		"olap",
+		"compon"
+	],
+	"tag": [
+		"clustering",
+		"component",
+		"coordination",
+		"middleware",
+		"named"
+	],
 	"title": "FAS — A Freshness-Sensitive Coordination Middleware for a Cluster of OLAP Components",
 	"type": "inproceedings",
 	"venue": "VLDB",

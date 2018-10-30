@@ -1,6 +1,10 @@
 {
-	"author": ["Feng Pan", "Xiang Zhang", "Wei Wang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Feng Pan",
+		"Xiang Zhang",
+		"Wei Wang"
+	],
+	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2008",
 	"dblpkey": "conf/sigmod/PanZW08",
@@ -8,8 +12,29 @@
 	"ee": "http://doi.acm.org/10.1145/1376616.1376637",
 	"pages": "173-184",
 	"publisher": "ACM",
-	"stemmed": ["crd", "fast", "co", "cluster", "on", "larg", "dataset", "util", "sampl", "base", "matrix", "decomposit"],
-	"tag": ["clustering", "composition", "dataset", "matrix", "named", "performance", "scalability"],
+	"stemmed": [
+		"crd",
+		"fast",
+		"co",
+		"cluster",
+		"on",
+		"larg",
+		"dataset",
+		"util",
+		"sampl",
+		"base",
+		"matrix",
+		"decomposit"
+	],
+	"tag": [
+		"clustering",
+		"composition",
+		"dataset",
+		"matrix",
+		"named",
+		"performance",
+		"scalability"
+	],
 	"title": "CRD: fast co-clustering on large datasets utilizing sampling-based matrix decomposition",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

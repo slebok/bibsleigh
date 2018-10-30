@@ -1,11 +1,18 @@
 {
-	"author": ["Theo Dirk Meijler", "Serge Demeyer", "Robert Engel"],
+	"author": [
+		"Theo Dirk Meijler",
+		"Serge Demeyer",
+		"Robert Engel"
+	],
 	"booktitle": "Proceedings of the Sixth European Software Engineering Conference / Fifth Symposium on Foundations of Software Engineering",
-	"booktitleshort": "ESEC",
+	"booktitleshort": "ESEC/FSE",
 	"crossref": "conf/esec/1997",
 	"dblpkey": "conf/esec/MeijlerDE98",
 	"doi": "10.1145/267895.267905",
-	"editor": ["Mehdi Jazayeri", "Helmut Schauer"],
+	"editor": [
+		"Mehdi Jazayeri",
+		"Helmut Schauer"
+	],
 	"ee": "http://doi.acm.org/10.1145/267895.267905",
 	"isbn": "3-540-63531-9",
 	"pages": "94-110",
@@ -13,11 +20,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["make", "design", "pattern", "explicit", "in", "face", "a", "frame", "work", "adapt", "composit", "environ"],
-	"tag": ["adaptation", "composition", "design pattern"],
+	"stemmed": [
+		"make",
+		"design",
+		"pattern",
+		"explicit",
+		"in",
+		"face",
+		"a",
+		"frame",
+		"work",
+		"adapt",
+		"composit",
+		"environ"
+	],
+	"tag": [
+		"adaptation",
+		"composition",
+		"design pattern"
+	],
 	"title": "Making Design Patterns Explicit in FACE: A Frame Work Adaptive Composition Environment",
 	"type": "inproceedings",
 	"venue": "ESEC",
-	"volume": 1301,
+	"volume": "1301",
 	"year": 1997
 }

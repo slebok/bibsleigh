@@ -1,6 +1,11 @@
 {
-	"author": ["Zhenjie Zhang", "Marios Hadjieleftheriou", "Beng Chin Ooi", "Divesh Srivastava"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Zhenjie Zhang",
+		"Marios Hadjieleftheriou",
+		"Beng Chin Ooi",
+		"Divesh Srivastava"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/ZhangHOS10",
@@ -8,8 +13,30 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807266",
 	"pages": "915-926",
 	"publisher": "ACM",
-	"stemmed": ["bed", "tree", "an", "all", "purpos", "index", "structur", "for", "string", "similar", "search", "base", "on", "edit", "distanc"],
-	"tag": ["distance", "edit distance", "named", "similarity", "string"],
+	"stemmed": [
+		"bed",
+		"tree",
+		"an",
+		"all",
+		"purpos",
+		"index",
+		"structur",
+		"for",
+		"string",
+		"similar",
+		"search",
+		"base",
+		"on",
+		"edit",
+		"distanc"
+	],
+	"tag": [
+		"distance",
+		"edit distance",
+		"named",
+		"similarity",
+		"string"
+	],
 	"title": "Bed-tree: an all-purpose index structure for string similarity search based on edit distance",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

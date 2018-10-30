@@ -1,6 +1,10 @@
 {
-	"author": ["Roddy W. Erickson", "David R. Musser"],
-	"booktitle": "CADE",
+	"author": [
+		"Roddy W. Erickson",
+		"David R. Musser"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1980",
 	"dblpkey": "conf/cade/EricksonM80",
 	"doi": "10.1007/3-540-10009-1_18",
@@ -10,11 +14,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "affirm", "theorem", "prover", "proof", "forest", "and", "manag", "of", "larg", "proof"],
-	"tag": ["proving", "scalability", "theorem proving"],
+	"stemmed": [
+		"the",
+		"affirm",
+		"theorem",
+		"prover",
+		"proof",
+		"forest",
+		"and",
+		"manag",
+		"of",
+		"larg",
+		"proof"
+	],
+	"tag": [
+		"proving",
+		"scalability",
+		"theorem proving"
+	],
 	"title": "The AFFIRM Theorem Prover: Proof Forests and Management of Large Proofs",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 87,
+	"volume": "87",
 	"year": 1980
 }

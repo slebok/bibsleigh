@@ -1,15 +1,35 @@
 {
 	"author": "Atsuhiro Takasu",
-	"booktitle": "ICDAR",
+	"booktitle": "Proceedings of the Sixth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2001",
 	"dblpkey": "conf/icdar/Takasu01",
 	"doi": "10.1109/ICDAR.2001.953919",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2001.953919", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953919"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2001.953919",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953919"
+	],
 	"pages": "916-920",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["document", "filter", "for", "fast", "approxim", "string", "match", "of", "errorn", "text"],
-	"tag": ["approximate", "documentation", "performance", "string"],
+	"stemmed": [
+		"document",
+		"filter",
+		"for",
+		"fast",
+		"approxim",
+		"string",
+		"match",
+		"of",
+		"errorn",
+		"text"
+	],
+	"tag": [
+		"approximate",
+		"documentation",
+		"performance",
+		"string"
+	],
 	"title": "Document Filtering for Fast Approximate String Matching of Errorneous Text",
 	"type": "inproceedings",
 	"venue": "ICDAR",

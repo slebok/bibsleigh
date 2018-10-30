@@ -1,6 +1,11 @@
 {
-	"author": ["Ittai Balaban", "Amir Pnueli", "Lenore D. Zuck"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Ittai Balaban",
+		"Amir Pnueli",
+		"Lenore D. Zuck"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2007",
 	"dblpkey": "conf/vmcai/BalabanPZ07",
 	"doi": "10.1007/978-3-540-69738-1_7",
@@ -10,11 +15,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["shape", "analysi", "of", "singl", "parent", "heap"],
-	"tag": ["analysis"],
+	"stemmed": [
+		"shape",
+		"analysi",
+		"of",
+		"singl",
+		"parent",
+		"heap"
+	],
+	"tag": [
+		"analysis"
+	],
 	"title": "Shape Analysis of Single-Parent Heaps",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 4349,
+	"volume": "4349",
 	"year": 2007
 }

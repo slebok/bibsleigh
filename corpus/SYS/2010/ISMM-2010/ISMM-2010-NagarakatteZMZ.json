@@ -1,14 +1,33 @@
 {
-	"author": ["Santosh Nagarakatte", "Jianzhou Zhao", "Milo M. K. Martin", "Steve Zdancewic"],
-	"booktitle": "ISMM",
+	"author": [
+		"Santosh Nagarakatte",
+		"Jianzhou Zhao",
+		"Milo M. K. Martin",
+		"Steve Zdancewic"
+	],
+	"booktitle": "Proceedings of the Ninth International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2010",
 	"dblpkey": "conf/iwmm/NagarakatteZMZ10",
 	"doi": "10.1145/1806651.1806657",
 	"ee": "http://doi.acm.org/10.1145/1806651.1806657",
 	"pages": "31-40",
 	"publisher": "ACM",
-	"stemmed": ["cet", "compil", "enforc", "tempor", "safeti", "for", "c"],
-	"tag": ["c", "compilation", "named", "safety"],
+	"stemmed": [
+		"cet",
+		"compil",
+		"enforc",
+		"tempor",
+		"safeti",
+		"for",
+		"c"
+	],
+	"tag": [
+		"c",
+		"compilation",
+		"named",
+		"safety"
+	],
 	"title": "CETS: compiler enforced temporal safety for C",
 	"type": "inproceedings",
 	"venue": "ISMM",

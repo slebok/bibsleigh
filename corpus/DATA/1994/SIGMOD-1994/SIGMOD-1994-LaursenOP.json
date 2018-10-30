@@ -1,6 +1,11 @@
 {
-	"author": ["Andrew Laursen", "Jeffrey Olkin", "Mark Porter"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Andrew Laursen",
+		"Jeffrey Olkin",
+		"Mark Porter"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD94/P470.PDF",
 	"crossref": "conf/sigmod/94",
 	"dblpkey": "conf/sigmod/LaursenOP94",
@@ -8,8 +13,23 @@
 	"ee": "http://doi.acm.org/10.1145/191839.191933",
 	"pages": "470-477",
 	"publisher": "ACM Press",
-	"stemmed": ["oracl", "media", "server", "provid", "consum", "base", "interact", "access", "to", "multimedia", "data"],
-	"tag": ["interactive", "multi"],
+	"stemmed": [
+		"oracl",
+		"media",
+		"server",
+		"provid",
+		"consum",
+		"base",
+		"interact",
+		"access",
+		"to",
+		"multimedia",
+		"data"
+	],
+	"tag": [
+		"interactive",
+		"multi"
+	],
 	"title": "Oracle Media Server: Providing Consumer Based Interactive Access to Multimedia Data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

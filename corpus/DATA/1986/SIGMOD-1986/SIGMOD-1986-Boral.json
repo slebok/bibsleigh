@@ -1,15 +1,30 @@
 {
 	"author": "Haran Boral",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 16th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD86/P153.PDF",
-	"cite": ["...", "conf/vldb/BittonDT83", "...", "conf/sigmod/BoralD84"],
+	"cite": [
+		"...",
+		"conf/vldb/BittonDT83",
+		"...",
+		"conf/sigmod/BoralD84"
+	],
 	"crossref": "conf/sigmod/86",
 	"dblpkey": "conf/sigmod/Boral86",
 	"doi": "10.1145/16894.16869",
 	"ee": "http://doi.acm.org/10.1145/16894.16869",
 	"pages": "153-154",
-	"stemmed": ["databas", "system", "perform", "measur"],
-	"tag": ["database", "metric", "performance"],
+	"stemmed": [
+		"databas",
+		"system",
+		"perform",
+		"measur"
+	],
+	"tag": [
+		"database",
+		"metric",
+		"performance"
+	],
 	"title": "Database System Performance Measurement",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

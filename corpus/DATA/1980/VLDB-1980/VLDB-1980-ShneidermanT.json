@@ -1,15 +1,45 @@
 {
-	"author": ["Ben Shneiderman", "Glenn Thomas"],
-	"booktitle": "VLDB",
+	"author": [
+		"Ben Shneiderman",
+		"Glenn Thomas"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB80/P033.PDF",
-	"cite": ["...", "conf/vldb/Hardgrave79", "...", "journals/tse/Reisner77", "...", "...", "...", "...", "...", "..."],
+	"cite": [
+		"...",
+		"conf/vldb/Hardgrave79",
+		"...",
+		"journals/tse/Reisner77",
+		"...",
+		"...",
+		"...",
+		"...",
+		"...",
+		"..."
+	],
 	"crossref": "conf/vldb/80",
 	"dblpkey": "conf/vldb/ShneidermanT80",
 	"pages": "33-44",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["path", "express", "for", "complex", "queri", "and", "automat", "databas", "program", "convers"],
-	"tag": ["automation", "database", "query"],
+	"stemmed": [
+		"path",
+		"express",
+		"for",
+		"complex",
+		"queri",
+		"and",
+		"automat",
+		"databas",
+		"program",
+		"convers"
+	],
+	"tag": [
+		"automation",
+		"database",
+		"query"
+	],
 	"title": "Path Expressions for Complex Queries and Automatic Database Program Conversion",
 	"type": "inproceedings",
 	"venue": "VLDB",

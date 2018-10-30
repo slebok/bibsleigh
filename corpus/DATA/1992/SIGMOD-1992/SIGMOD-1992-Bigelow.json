@@ -1,15 +1,26 @@
 {
 	"author": "Richard Bigelow",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 22nd ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD92/P382.PDF",
 	"cite": "conf/sigmod/JagannathanGFTT88",
 	"crossref": "conf/sigmod/92",
 	"dblpkey": "conf/sigmod/Bigelow92",
 	"doi": "10.1145/130283.130340",
 	"ee": "http://doi.acm.org/10.1145/130283.130340",
-	"pages": 382,
-	"stemmed": ["implement", "of", "general", "constraint", "in", "sim"],
-	"tag": ["constraints", "implementation"],
+	"pages": "382",
+	"stemmed": [
+		"implement",
+		"of",
+		"general",
+		"constraint",
+		"in",
+		"sim"
+	],
+	"tag": [
+		"constraints",
+		"implementation"
+	],
 	"title": "Implementation of General Constraints in SIM",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

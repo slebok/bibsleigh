@@ -1,6 +1,10 @@
 {
-	"author": ["Kedar S. Namjoshi", "Richard J. Trefler"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Kedar S. Namjoshi",
+		"Richard J. Trefler"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2013",
 	"dblpkey": "conf/vmcai/NamjoshiT13",
 	"doi": "10.1007/978-3-642-35873-9_29",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["uncov", "symmetri", "in", "irregular", "process", "network"],
-	"tag": ["network", "process", "symmetry"],
+	"stemmed": [
+		"uncov",
+		"symmetri",
+		"in",
+		"irregular",
+		"process",
+		"network"
+	],
+	"tag": [
+		"network",
+		"process",
+		"symmetry"
+	],
 	"title": "Uncovering Symmetries in Irregular Process Networks",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 7737,
+	"volume": "7737",
 	"year": 2013
 }

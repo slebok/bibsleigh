@@ -1,6 +1,11 @@
 {
-	"author": ["Yu Zhang", "Peng Liu", "Frank K. Soong"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Yu Zhang",
+		"Peng Liu",
+		"Frank K. Soong"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/ZhangLS07",
 	"doi": "10.1109/ICDAR.2007.170",
@@ -8,8 +13,24 @@
 	"pages": "53-57",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["minimum", "error", "discrimin", "train", "for", "radic", "base", "onlin", "chines", "handwrit", "recognit"],
-	"tag": ["fault", "online", "recognition"],
+	"stemmed": [
+		"minimum",
+		"error",
+		"discrimin",
+		"train",
+		"for",
+		"radic",
+		"base",
+		"onlin",
+		"chines",
+		"handwrit",
+		"recognit"
+	],
+	"tag": [
+		"fault",
+		"online",
+		"recognition"
+	],
 	"title": "Minimum Error Discriminative Training for Radical-Based Online Chinese Handwriting Recognition",
 	"type": "inproceedings",
 	"venue": "ICDAR",

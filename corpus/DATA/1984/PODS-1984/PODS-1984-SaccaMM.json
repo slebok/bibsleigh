@@ -1,16 +1,51 @@
 {
-	"author": ["Domenico Saccà", "F. Manfredi", "A. Mecchia"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS84/P019.PDF", "journals/anthology/dvd1:text/1-3/PODS84/P019.PDF"],
-	"cite": ["conf/sigmod/BeeriFH77", "journals/jacm/BeeriFMY83", "journals/tods/FaginMU82", "journals/jacm/Honeyman82", "...", "journals/jacm/Lien82", "conf/sigmod/LaverMG83", "journals/tods/MaierMS79", "journals/jacm/MaierSY81", "conf/pods/Sacca83", "...", "...", "...", "conf/vldb/Yannakakis81"],
+	"author": [
+		"Domenico Saccà",
+		"F. Manfredi",
+		"A. Mecchia"
+	],
+	"booktitle": "Proceedings of the Third Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS84/P019.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS84/P019.PDF"
+	],
+	"cite": [
+		"conf/sigmod/BeeriFH77",
+		"journals/jacm/BeeriFMY83",
+		"journals/tods/FaginMU82",
+		"journals/jacm/Honeyman82",
+		"...",
+		"journals/jacm/Lien82",
+		"conf/sigmod/LaverMG83",
+		"journals/tods/MaierMS79",
+		"journals/jacm/MaierSY81",
+		"conf/pods/Sacca83",
+		"...",
+		"...",
+		"...",
+		"conf/vldb/Yannakakis81"
+	],
 	"crossref": "conf/pods/84",
 	"dblpkey": "conf/pods/SaccaMM84",
 	"doi": "10.1145/588011.588015",
 	"ee": "http://doi.acm.org/10.1145/588011.588015",
 	"pages": "19-28",
 	"publisher": "ACM",
-	"stemmed": ["properti", "of", "databas", "schemata", "with", "function", "depend"],
-	"tag": ["database", "dependence", "functional"],
+	"stemmed": [
+		"properti",
+		"of",
+		"databas",
+		"schemata",
+		"with",
+		"function",
+		"depend"
+	],
+	"tag": [
+		"database",
+		"dependence",
+		"functional"
+	],
 	"title": "Properties of Database Schemata with Functional Dependencies",
 	"type": "inproceedings",
 	"venue": "PODS",

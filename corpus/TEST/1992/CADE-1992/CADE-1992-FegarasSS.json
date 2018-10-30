@@ -1,6 +1,11 @@
 {
-	"author": ["Leonidas Fegaras", "Tim Sheard", "David W. Stemple"],
-	"booktitle": "CADE",
+	"author": [
+		"Leonidas Fegaras",
+		"Tim Sheard",
+		"David W. Stemple"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/FegarasSS92",
 	"doi": "10.1007/3-540-55602-8_162",
@@ -10,11 +15,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["uniform", "travers", "combin", "definit", "use", "and", "properti"],
-	"tag": ["combinator", "traversal"],
+	"stemmed": [
+		"uniform",
+		"travers",
+		"combin",
+		"definit",
+		"use",
+		"and",
+		"properti"
+	],
+	"tag": [
+		"combinator",
+		"traversal"
+	],
 	"title": "Uniform Traversal Combinators: Definition, Use and Properties",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

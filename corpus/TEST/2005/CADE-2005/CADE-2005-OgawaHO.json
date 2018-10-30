@@ -1,6 +1,11 @@
 {
-	"author": ["Mizuhito Ogawa", "Eiichi Horita", "Satoshi Ono"],
-	"booktitle": "CADE",
+	"author": [
+		"Mizuhito Ogawa",
+		"Eiichi Horita",
+		"Satoshi Ono"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2005",
 	"dblpkey": "conf/cade/OgawaHO05",
 	"doi": "10.1007/11532231_31",
@@ -10,11 +15,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["prove", "properti", "of", "increment", "merkl", "tree"],
-	"tag": ["incremental", "proving"],
+	"stemmed": [
+		"prove",
+		"properti",
+		"of",
+		"increment",
+		"merkl",
+		"tree"
+	],
+	"tag": [
+		"incremental",
+		"proving"
+	],
 	"title": "Proving Properties of Incremental Merkle Trees",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 3632,
+	"volume": "3632",
 	"year": 2005
 }

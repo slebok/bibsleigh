@@ -1,15 +1,40 @@
 {
-	"author": ["Pedro López", "Juan Miguel Martínez", "José Duato"],
-	"booktitle": "HPCA",
+	"author": [
+		"Pedro López",
+		"Juan Miguel Martínez",
+		"José Duato"
+	],
+	"booktitle": "Proceedings of the Fourth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1998",
 	"dblpkey": "conf/hpca/LopezMD98",
 	"doi": "10.1109/HPCA.1998.650546",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1998.650546", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1998.650546"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1998.650546",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1998.650546"
+	],
 	"pages": "57-66",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "veri", "effici", "distribut", "deadlock", "detect", "mechan", "for", "wormhol", "network"],
-	"tag": ["concurrent", "detection", "distributed", "network", "performance"],
+	"stemmed": [
+		"a",
+		"veri",
+		"effici",
+		"distribut",
+		"deadlock",
+		"detect",
+		"mechan",
+		"for",
+		"wormhol",
+		"network"
+	],
+	"tag": [
+		"concurrent",
+		"detection",
+		"distributed",
+		"network",
+		"performance"
+	],
 	"title": "A Very Efficient Distributed Deadlock Detection Mechanism for Wormhole Networks",
 	"type": "inproceedings",
 	"venue": "HPCA",

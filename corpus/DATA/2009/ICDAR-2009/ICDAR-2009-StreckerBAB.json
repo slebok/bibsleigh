@@ -1,15 +1,39 @@
 {
-	"author": ["Thomas Strecker", "Joost van Beusekom", "Sahin Albayrak", "Thomas M. Breuel"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Thomas Strecker",
+		"Joost van Beusekom",
+		"Sahin Albayrak",
+		"Thomas M. Breuel"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2009",
 	"dblpkey": "conf/icdar/StreckerBAB09",
 	"doi": "10.1109/ICDAR.2009.214",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2009.214", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2009.214"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2009.214",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2009.214"
+	],
 	"pages": "1275-1279",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["autom", "ground", "truth", "data", "generat", "for", "newspap", "document", "imag"],
-	"tag": ["automation", "documentation", "generative", "image"],
+	"stemmed": [
+		"autom",
+		"ground",
+		"truth",
+		"data",
+		"generat",
+		"for",
+		"newspap",
+		"document",
+		"imag"
+	],
+	"tag": [
+		"automation",
+		"documentation",
+		"generative",
+		"image"
+	],
 	"title": "Automated Ground Truth Data Generation for Newspaper Document Images",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,15 +1,46 @@
 {
-	"author": ["Michael J. Maher", "Divesh Srivastava"],
-	"booktitle": "PODS",
-	"cite": ["books/aw/AbiteboulHV95", "conf/icdt/BaudinetCW95", "journals/jlp/BeeriR91", "journals/jacm/BeeriV84", "...", "...", "conf/pods/Elkan89", "conf/pods/Elkan90", "conf/popl/JaffarL87", "journals/jlp/JaffarM94", "journals/jcss/KanellakisKR95", "journals/tods/Klug80", "conf/lics/LassezM90", "conf/vldb/LevyS93", "conf/iclp/Maher93", "conf/cp/Maher95", "...", "conf/dood/ZhangO93"],
+	"author": [
+		"Michael J. Maher",
+		"Divesh Srivastava"
+	],
+	"booktitle": "Proceedings of the 15th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cite": [
+		"books/aw/AbiteboulHV95",
+		"conf/icdt/BaudinetCW95",
+		"journals/jlp/BeeriR91",
+		"journals/jacm/BeeriV84",
+		"...",
+		"...",
+		"conf/pods/Elkan89",
+		"conf/pods/Elkan90",
+		"conf/popl/JaffarL87",
+		"journals/jlp/JaffarM94",
+		"journals/jcss/KanellakisKR95",
+		"journals/tods/Klug80",
+		"conf/lics/LassezM90",
+		"conf/vldb/LevyS93",
+		"conf/iclp/Maher93",
+		"conf/cp/Maher95",
+		"...",
+		"conf/dood/ZhangO93"
+	],
 	"crossref": "conf/pods/96",
 	"dblpkey": "conf/pods/MaherS96",
 	"doi": "10.1145/237661.237693",
 	"ee": "http://doi.acm.org/10.1145/237661.237693",
 	"pages": "128-138",
 	"publisher": "ACM Press",
-	"stemmed": ["chase", "constrain", "tupl", "generat", "depend"],
-	"tag": ["dependence"],
+	"stemmed": [
+		"chase",
+		"constrain",
+		"tupl",
+		"generat",
+		"depend"
+	],
+	"tag": [
+		"dependence"
+	],
 	"title": "Chasing Constrained Tuple-Generating Dependencies",
 	"type": "inproceedings",
 	"venue": "PODS",

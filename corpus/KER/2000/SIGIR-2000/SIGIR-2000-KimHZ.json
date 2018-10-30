@@ -1,13 +1,29 @@
 {
-	"author": ["Yu-Hwan Kim", "Shang-Yoon Hahn", "Byoung-Tak Zhang"],
+	"author": [
+		"Yu-Hwan Kim",
+		"Shang-Yoon Hahn",
+		"Byoung-Tak Zhang"
+	],
 	"booktitle": "Proceedings of the 23rd International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"dblpkey": "conf/sigir/KimHZ00",
 	"doi": "10.1145/345508.345572",
 	"ee": "http://doi.acm.org/10.1145/345508.345572",
 	"pages": "168-175",
 	"publisher": "ACM",
-	"stemmed": ["text", "filter", "by", "boost", "naiv", "bay", "classifi"],
-	"tag": ["classification", "naive bayes"],
+	"stemmed": [
+		"text",
+		"filter",
+		"by",
+		"boost",
+		"naiv",
+		"bay",
+		"classifi"
+	],
+	"tag": [
+		"classification",
+		"naive bayes"
+	],
 	"title": "Text filtering by boosting naive bayes classifiers",
 	"type": "inproceedings",
 	"venue": "SIGIR",

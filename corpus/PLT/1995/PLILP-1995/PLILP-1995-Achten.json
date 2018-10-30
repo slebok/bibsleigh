@@ -1,6 +1,7 @@
 {
 	"author": "Peter Achten",
 	"booktitle": "Proceedings of the Seventh International Symposium on Programming Languages: Implementations, Logics and Programs",
+	"booktitleshort": "PPDP",
 	"crossref": "conf/plilp/95",
 	"dblpkey": "conf/plilp/Achten95",
 	"doi": "10.1007/BFb0026835",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "function", "framework", "for", "determinist", "interleav", "interact", "program"],
-	"tag": ["framework", "functional", "interactive", "source code"],
+	"stemmed": [
+		"a",
+		"function",
+		"framework",
+		"for",
+		"determinist",
+		"interleav",
+		"interact",
+		"program"
+	],
+	"tag": [
+		"framework",
+		"functional",
+		"interactive",
+		"source code"
+	],
 	"title": "A Functional Framework for Deterministically Interleaved Interactive Programs",
 	"type": "inproceedings",
 	"venue": "PPDP",
-	"volume": 982,
+	"volume": "982",
 	"year": 1995
 }

@@ -1,6 +1,10 @@
 {
-	"author": ["Jeppe Rishede Thomsen", "Man Lung Yiu", "Christian S. Jensen"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jeppe Rishede Thomsen",
+		"Man Lung Yiu",
+		"Christian S. Jensen"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/ThomsenYJ12",
@@ -8,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213872",
 	"pages": "313-324",
 	"publisher": "ACM",
-	"stemmed": ["effect", "cach", "of", "shortest", "path", "for", "locat", "base", "servic"],
-	"tag": ["effectiveness"],
+	"stemmed": [
+		"effect",
+		"cach",
+		"of",
+		"shortest",
+		"path",
+		"for",
+		"locat",
+		"base",
+		"servic"
+	],
+	"tag": [
+		"effectiveness"
+	],
 	"title": "Effective caching of shortest paths for location-based services",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

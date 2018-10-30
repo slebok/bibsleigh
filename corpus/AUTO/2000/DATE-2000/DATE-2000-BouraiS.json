@@ -1,6 +1,10 @@
 {
-	"author": ["Youcef Bourai", "C.-J. Richard Shi"],
-	"booktitle": "DATE",
+	"author": [
+		"Youcef Bourai",
+		"C.-J. Richard Shi"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/BouraiS00",
 	"doi": "10.1109/DATE.2000.840027",
@@ -8,8 +12,21 @@
 	"pages": "122-125",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["layout", "compact", "for", "yield", "optim", "via", "critic", "area", "minim"],
-	"tag": ["layout", "optimisation"],
+	"stemmed": [
+		"layout",
+		"compact",
+		"for",
+		"yield",
+		"optim",
+		"via",
+		"critic",
+		"area",
+		"minim"
+	],
+	"tag": [
+		"layout",
+		"optimisation"
+	],
 	"title": "Layout Compaction for Yield Optimization via Critical Area Minimization",
 	"type": "inproceedings",
 	"venue": "DATE",

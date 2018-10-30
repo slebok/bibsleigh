@@ -1,15 +1,33 @@
 {
-	"author": ["Juan L. Aragón", "José González", "Antonio González"],
-	"booktitle": "HPCA",
+	"author": [
+		"Juan L. Aragón",
+		"José González",
+		"Antonio González"
+	],
+	"booktitle": "Proceedings of the Ninth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2003",
 	"dblpkey": "conf/hpca/AragonGG03",
 	"doi": "10.1109/HPCA.2003.1183528",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2003.1183528", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2003.1183528"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2003.1183528",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2003.1183528"
+	],
 	"pages": "103-112",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["power", "awar", "control", "specul", "through", "select", "throttl"],
-	"tag": ["power management"],
+	"stemmed": [
+		"power",
+		"awar",
+		"control",
+		"specul",
+		"through",
+		"select",
+		"throttl"
+	],
+	"tag": [
+		"power management"
+	],
 	"title": "Power-Aware Control Speculation through Selective Throttling",
 	"type": "inproceedings",
 	"venue": "HPCA",

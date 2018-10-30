@@ -1,13 +1,30 @@
 {
 	"author": "Phillip B. Gibbons",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the 27th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2001",
 	"dblpkey": "conf/vldb/Gibbons01",
 	"ee": "http://www.vldb.org/conf/2001/P541.pdf",
 	"pages": "541-550",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["distinct", "sampl", "for", "high", "accur", "answer", "to", "distinct", "valu", "queri", "and", "event", "report"],
-	"tag": ["query"],
+	"stemmed": [
+		"distinct",
+		"sampl",
+		"for",
+		"high",
+		"accur",
+		"answer",
+		"to",
+		"distinct",
+		"valu",
+		"queri",
+		"and",
+		"event",
+		"report"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Distinct Sampling for Highly-Accurate Answers to Distinct Values Queries and Event Reports",
 	"type": "inproceedings",
 	"venue": "VLDB",

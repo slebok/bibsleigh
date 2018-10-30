@@ -1,14 +1,35 @@
 {
-	"author": ["Cristian Bucila", "Johannes Gehrke", "Daniel Kifer", "Walker M. White"],
-	"booktitle": "KDD",
+	"author": [
+		"Cristian Bucila",
+		"Johannes Gehrke",
+		"Daniel Kifer",
+		"Walker M. White"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/BucilaGKW02",
 	"doi": "10.1145/775047.775054",
 	"ee": "http://doi.acm.org/10.1145/775047.775054",
 	"pages": "42-51",
 	"publisher": "ACM",
-	"stemmed": ["dual", "miner", "a", "dual", "prune", "algorithm", "for", "itemset", "with", "constraint"],
-	"tag": ["algorithm", "constraints", "named"],
+	"stemmed": [
+		"dual",
+		"miner",
+		"a",
+		"dual",
+		"prune",
+		"algorithm",
+		"for",
+		"itemset",
+		"with",
+		"constraint"
+	],
+	"tag": [
+		"algorithm",
+		"constraints",
+		"named"
+	],
 	"title": "DualMiner: a dual-pruning algorithm for itemsets with constraints",
 	"type": "inproceedings",
 	"venue": "KDD",

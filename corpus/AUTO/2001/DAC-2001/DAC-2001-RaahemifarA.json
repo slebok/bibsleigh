@@ -1,14 +1,38 @@
 {
-	"author": ["Kaamran Raahemifar", "Majid Ahmadi"],
-	"booktitle": "DAC",
+	"author": [
+		"Kaamran Raahemifar",
+		"Majid Ahmadi"
+	],
+	"booktitle": "Proceedings of the 38th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2001",
 	"dblpkey": "conf/dac/RaahemifarA01",
 	"doi": "10.1145/378239.378496",
 	"ee": "http://doi.acm.org/10.1145/378239.378496",
 	"pages": "313-316",
 	"publisher": "ACM",
-	"stemmed": ["fault", "character", "and", "design", "for", "testabl", "techniqu", "for", "detect", "iddq", "fault", "in", "cmos", "bi", "cmos", "circuit"],
-	"tag": ["detection", "fault"],
+	"stemmed": [
+		"fault",
+		"character",
+		"and",
+		"design",
+		"for",
+		"testabl",
+		"techniqu",
+		"for",
+		"detect",
+		"iddq",
+		"fault",
+		"in",
+		"cmos",
+		"bi",
+		"cmos",
+		"circuit"
+	],
+	"tag": [
+		"detection",
+		"fault"
+	],
 	"title": "Fault Characterizations and Design-for-Testability Technique for Detecting IDDQ Faults in CMOS/BiCMOS Circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

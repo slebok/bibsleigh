@@ -1,14 +1,31 @@
 {
-	"author": ["Asim Kadav", "Matthew J. Renzelmann", "Michael M. Swift"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Asim Kadav",
+		"Matthew J. Renzelmann",
+		"Michael M. Swift"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2013",
 	"dblpkey": "conf/asplos/KadavRS13",
 	"doi": "10.1145/2451116.2451168",
 	"ee": "http://doi.acm.org/10.1145/2451116.2451168",
 	"pages": "473-484",
 	"publisher": "ACM",
-	"stemmed": ["fine", "grain", "fault", "toler", "use", "devic", "checkpoint"],
-	"tag": ["fault tolerance", "fine-grained", "using"],
+	"stemmed": [
+		"fine",
+		"grain",
+		"fault",
+		"toler",
+		"use",
+		"devic",
+		"checkpoint"
+	],
+	"tag": [
+		"fault tolerance",
+		"fine-grained",
+		"using"
+	],
 	"title": "Fine-grained fault tolerance using device checkpoints",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

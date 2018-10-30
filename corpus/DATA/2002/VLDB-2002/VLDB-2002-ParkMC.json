@@ -1,13 +1,32 @@
 {
-	"author": ["Chang-Won Park", "Jun-Ki Min", "Chin-Wan Chung"],
-	"booktitle": "VLDB",
+	"author": [
+		"Chang-Won Park",
+		"Jun-Ki Min",
+		"Chin-Wan Chung"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/ParkMC02",
 	"ee": "http://www.vldb.org/conf/2002/S04P01.pdf",
 	"pages": "83-94",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["structur", "function", "inlin", "techniqu", "for", "structur", "recurs", "xml", "queri"],
-	"tag": ["query", "recursion", "xml"],
+	"stemmed": [
+		"structur",
+		"function",
+		"inlin",
+		"techniqu",
+		"for",
+		"structur",
+		"recurs",
+		"xml",
+		"queri"
+	],
+	"tag": [
+		"query",
+		"recursion",
+		"xml"
+	],
 	"title": "Structural Function Inlining Technique for Structurally Recursive XML Queries",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,14 +1,31 @@
 {
-	"author": ["Limin Wang", "Vivek S. Pai", "Larry L. Peterson"],
-	"booktitle": "OSDI",
+	"author": [
+		"Limin Wang",
+		"Vivek S. Pai",
+		"Larry L. Peterson"
+	],
+	"booktitle": "Proceedings of the Fifth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2002",
 	"dblpkey": "conf/osdi/WangPP02",
 	"doi": "10.1145/1060289.1060321",
 	"ee": "http://www.usenix.org/events/osdi02/tech/wang.html",
 	"pages": "345-360",
 	"publisher": "USENIX Association",
-	"stemmed": ["the", "effect", "of", "request", "redirect", "on", "cdn", "robust"],
-	"tag": ["effectiveness", "robust"],
+	"stemmed": [
+		"the",
+		"effect",
+		"of",
+		"request",
+		"redirect",
+		"on",
+		"cdn",
+		"robust"
+	],
+	"tag": [
+		"effectiveness",
+		"robust"
+	],
 	"title": "The Effectiveness of Request Redirection on CDN Robustness",
 	"type": "inproceedings",
 	"venue": "OSDI",

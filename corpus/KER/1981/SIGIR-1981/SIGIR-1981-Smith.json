@@ -1,6 +1,7 @@
 {
 	"author": "Linda C. Smith",
 	"booktitle": "Proceedings of the Fourth International Conference on Information Storage and Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1981/P100.pdf",
 	"crossref": "conf/sigir/81",
 	"dblpkey": "conf/sigir/Smith81",
@@ -8,8 +9,20 @@
 	"ee": "http://doi.acm.org/10.1145/511754.511770",
 	"pages": "100-105",
 	"publisher": "ACM",
-	"stemmed": ["represent", "issu", "in", "inform", "retriev", "system", "design"],
-	"tag": ["design", "information retrieval", "representation"],
+	"stemmed": [
+		"represent",
+		"issu",
+		"in",
+		"inform",
+		"retriev",
+		"system",
+		"design"
+	],
+	"tag": [
+		"design",
+		"information retrieval",
+		"representation"
+	],
 	"title": "Representation Issues in Information Retrieval System Design",
 	"type": "inproceedings",
 	"venue": "SIGIR",

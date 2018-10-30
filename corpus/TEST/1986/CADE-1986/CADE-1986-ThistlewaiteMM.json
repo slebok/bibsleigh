@@ -1,6 +1,11 @@
 {
-	"author": ["Paul B. Thistlewaite", "Michael A. McRobbie", "Robert K. Meyer"],
-	"booktitle": "CADE",
+	"author": [
+		"Paul B. Thistlewaite",
+		"Michael A. McRobbie",
+		"Robert K. Meyer"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/ThistlewaiteMM86",
 	"doi": "10.1007/3-540-16780-3_147",
@@ -10,11 +15,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "kripk", "autom", "theorem", "prove", "system"],
-	"tag": ["automation", "proving", "theorem proving"],
+	"stemmed": [
+		"the",
+		"kripk",
+		"autom",
+		"theorem",
+		"prove",
+		"system"
+	],
+	"tag": [
+		"automation",
+		"proving",
+		"theorem proving"
+	],
 	"title": "The KRIPKE Automated Theorem Proving System",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

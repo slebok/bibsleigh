@@ -1,14 +1,31 @@
 {
-	"author": ["Aristides Gionis", "Heikki Mannila", "Taneli Mielikäinen", "Panayiotis Tsaparas"],
-	"booktitle": "KDD",
+	"author": [
+		"Aristides Gionis",
+		"Heikki Mannila",
+		"Taneli Mielikäinen",
+		"Panayiotis Tsaparas"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/GionisMMT06",
 	"doi": "10.1145/1150402.1150424",
 	"ee": "http://doi.acm.org/10.1145/1150402.1150424",
 	"pages": "167-176",
 	"publisher": "ACM",
-	"stemmed": ["assess", "data", "mine", "result", "via", "swap", "random"],
-	"tag": ["data mining", "mining"],
+	"stemmed": [
+		"assess",
+		"data",
+		"mine",
+		"result",
+		"via",
+		"swap",
+		"random"
+	],
+	"tag": [
+		"data mining",
+		"mining"
+	],
 	"title": "Assessing data mining results via swap randomization",
 	"type": "inproceedings",
 	"venue": "KDD",

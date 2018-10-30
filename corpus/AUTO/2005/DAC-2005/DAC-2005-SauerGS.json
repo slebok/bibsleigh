@@ -1,14 +1,36 @@
 {
-	"author": ["Christian Sauer", "Matthias Gries", "Sören Sonntag"],
-	"booktitle": "DAC",
+	"author": [
+		"Christian Sauer",
+		"Matthias Gries",
+		"Sören Sonntag"
+	],
+	"booktitle": "Proceedings of the 42nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/SauerGS05",
 	"doi": "10.1145/1065579.1065646",
 	"ee": "http://doi.acm.org/10.1145/1065579.1065646",
 	"pages": "254-259",
 	"publisher": "ACM",
-	"stemmed": ["modular", "domain", "specif", "implement", "and", "explor", "framework", "for", "embed", "softwar", "platform"],
-	"tag": ["composition", "embedded", "framework", "implementation"],
+	"stemmed": [
+		"modular",
+		"domain",
+		"specif",
+		"implement",
+		"and",
+		"explor",
+		"framework",
+		"for",
+		"embed",
+		"softwar",
+		"platform"
+	],
+	"tag": [
+		"composition",
+		"embedded",
+		"framework",
+		"implementation"
+	],
 	"title": "Modular domain-specific implementation and exploration framework for embedded software platforms",
 	"type": "inproceedings",
 	"venue": "DAC",

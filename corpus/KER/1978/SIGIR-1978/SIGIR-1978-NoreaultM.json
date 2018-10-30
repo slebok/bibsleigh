@@ -1,6 +1,7 @@
 {
 	"author": "Inspector",
 	"booktitle": "Proceedings of the ACM SIGIR International Conference on Information Storage and Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1978/P175.pdf",
 	"crossref": "conf/sigir/78",
 	"dblpkey": "conf/sigir/Inspector78",
@@ -8,7 +9,9 @@
 	"ee": "http://doi.acm.org/10.1145/800096.803143",
 	"pages": "175-176",
 	"publisher": "ACM",
-	"stemmed": ["inspector"],
+	"stemmed": [
+		"inspector"
+	],
 	"title": "INSPECTOR",
 	"type": "inproceedings",
 	"venue": "SIGIR",

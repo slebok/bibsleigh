@@ -1,14 +1,29 @@
 {
-	"author": ["Galen C. Hunt", "Michael L. Scott"],
-	"booktitle": "OSDI",
+	"author": [
+		"Galen C. Hunt",
+		"Michael L. Scott"
+	],
+	"booktitle": "Proceedings of the Third Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/1999",
 	"dblpkey": "conf/osdi/HuntS99",
 	"doi": "10.1145/296806.296826",
 	"ee": "http://doi.acm.org/10.1145/296806.296826",
 	"pages": "187-200",
 	"publisher": "USENIX Association",
-	"stemmed": ["the", "coign", "automat", "distribut", "partit", "system"],
-	"tag": ["automation", "clustering", "distributed"],
+	"stemmed": [
+		"the",
+		"coign",
+		"automat",
+		"distribut",
+		"partit",
+		"system"
+	],
+	"tag": [
+		"automation",
+		"clustering",
+		"distributed"
+	],
 	"title": "The Coign Automatic Distributed Partitioning System",
 	"type": "inproceedings",
 	"venue": "OSDI",

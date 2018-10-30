@@ -1,14 +1,23 @@
 {
 	"author": "Charles E. Leiserson",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/Leiserson09",
 	"doi": "10.1145/1629911.1630048",
 	"ee": "http://doi.acm.org/10.1145/1629911.1630048",
 	"pages": "522-527",
 	"publisher": "ACM",
-	"stemmed": ["the", "cilk", "concurr", "platform"],
-	"tag": ["concurrent", "framework"],
+	"stemmed": [
+		"the",
+		"cilk",
+		"concurr",
+		"platform"
+	],
+	"tag": [
+		"concurrent",
+		"framework"
+	],
 	"title": "The Cilk++ concurrency platform",
 	"type": "inproceedings",
 	"venue": "DAC",

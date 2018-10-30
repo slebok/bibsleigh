@@ -1,15 +1,38 @@
 {
 	"author": "Milos Prvulovic",
-	"booktitle": "HPCA",
+	"booktitle": "Proceedings of the 12th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2006",
 	"dblpkey": "conf/hpca/Prvulovic06",
 	"doi": "10.1109/HPCA.2006.1598132",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2006.1598132", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2006.1598132"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2006.1598132",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2006.1598132"
+	],
 	"pages": "232-243",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["cord", "cost", "effect", "and", "near", "overhead", "free", "order", "record", "and", "data", "race", "detect"],
-	"tag": ["concurrent", "detection", "effectiveness", "named"],
+	"stemmed": [
+		"cord",
+		"cost",
+		"effect",
+		"and",
+		"near",
+		"overhead",
+		"free",
+		"order",
+		"record",
+		"and",
+		"data",
+		"race",
+		"detect"
+	],
+	"tag": [
+		"concurrent",
+		"detection",
+		"effectiveness",
+		"named"
+	],
 	"title": "CORD: cost-effective (and nearly overhead-free) order-recording and data race detection",
 	"type": "inproceedings",
 	"venue": "HPCA",

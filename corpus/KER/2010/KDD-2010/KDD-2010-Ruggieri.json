@@ -1,14 +1,22 @@
 {
 	"author": "Salvatore Ruggieri",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/Ruggieri10",
 	"doi": "10.1145/1835804.1835840",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835840",
 	"pages": "263-272",
 	"publisher": "ACM",
-	"stemmed": ["frequent", "regular", "itemset", "mine"],
-	"tag": ["mining"],
+	"stemmed": [
+		"frequent",
+		"regular",
+		"itemset",
+		"mine"
+	],
+	"tag": [
+		"mining"
+	],
 	"title": "Frequent regular itemset mining",
 	"type": "inproceedings",
 	"venue": "KDD",

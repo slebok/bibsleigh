@@ -1,14 +1,29 @@
 {
-	"author": ["Ronald Veldema", "Michael Philippsen"],
-	"booktitle": "ISMM",
+	"author": [
+		"Ronald Veldema",
+		"Michael Philippsen"
+	],
+	"booktitle": "Proceedings of the 10th International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2011",
 	"dblpkey": "conf/iwmm/VeldemaP11",
 	"doi": "10.1145/1993478.1993480",
 	"ee": "http://doi.acm.org/10.1145/1993478.1993480",
 	"pages": "1-10",
 	"publisher": "ACM",
-	"stemmed": ["iter", "data", "parallel", "mark", "sweep", "on", "a", "gpu"],
-	"tag": ["gpu"],
+	"stemmed": [
+		"iter",
+		"data",
+		"parallel",
+		"mark",
+		"sweep",
+		"on",
+		"a",
+		"gpu"
+	],
+	"tag": [
+		"gpu"
+	],
 	"title": "Iterative data-parallel mark&sweep on a GPU",
 	"type": "inproceedings",
 	"venue": "ISMM",

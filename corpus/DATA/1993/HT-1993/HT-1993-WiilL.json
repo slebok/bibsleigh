@@ -1,6 +1,10 @@
 {
-	"author": ["Uffe Kock Wiil", "John J. Leggett"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Uffe Kock Wiil",
+		"John J. Leggett"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1993/P014.pdf",
 	"crossref": "conf/ht/93",
 	"dblpkey": "conf/ht/WiilL93",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/168750.168761",
 	"pages": "14-24",
 	"publisher": "ACM",
-	"stemmed": ["concurr", "control", "in", "collabor", "hypertext", "system"],
-	"tag": ["collaboration", "concurrent", "hypermedia"],
+	"stemmed": [
+		"concurr",
+		"control",
+		"in",
+		"collabor",
+		"hypertext",
+		"system"
+	],
+	"tag": [
+		"collaboration",
+		"concurrent",
+		"hypermedia"
+	],
 	"title": "Concurrency Control in Collaborative Hypertext Systems",
 	"type": "inproceedings",
 	"venue": "HT",

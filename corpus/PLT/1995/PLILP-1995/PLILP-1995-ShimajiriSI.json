@@ -1,6 +1,11 @@
 {
-	"author": ["Yuka Shimajiri", "Hiroshi Seki", "Hidenori Itoh"],
+	"author": [
+		"Yuka Shimajiri",
+		"Hiroshi Seki",
+		"Hidenori Itoh"
+	],
 	"booktitle": "Proceedings of the Seventh International Symposium on Programming Languages: Implementations, Logics and Programs",
+	"booktitleshort": "PPDP",
 	"crossref": "conf/plilp/95",
 	"dblpkey": "conf/plilp/ShimajiriSI95",
 	"doi": "10.1007/BFb0026833",
@@ -10,11 +15,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["goal", "direct", "queri", "process", "in", "disjunct", "logic", "databas"],
-	"tag": ["database", "logic", "query"],
+	"stemmed": [
+		"goal",
+		"direct",
+		"queri",
+		"process",
+		"in",
+		"disjunct",
+		"logic",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"logic",
+		"query"
+	],
 	"title": "Goal-Directed Query Processing in Disjunctive Logic Databases",
 	"type": "inproceedings",
 	"venue": "PPDP",
-	"volume": 982,
+	"volume": "982",
 	"year": 1995
 }

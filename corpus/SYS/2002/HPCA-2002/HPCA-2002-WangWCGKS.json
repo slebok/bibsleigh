@@ -1,15 +1,44 @@
 {
-	"author": ["Perry H. Wang", "Hong Wang", "Jamison D. Collins", "Ed Grochowski", "Ralph-Michael Kling", "John Paul Shen"],
-	"booktitle": "HPCA",
+	"author": [
+		"Perry H. Wang",
+		"Hong Wang",
+		"Jamison D. Collins",
+		"Ed Grochowski",
+		"Ralph-Michael Kling",
+		"John Paul Shen"
+	],
+	"booktitle": "Proceedings of the Eighth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2002",
 	"dblpkey": "conf/hpca/WangWCGKS02",
 	"doi": "10.1109/HPCA.2002.995709",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2002.995709", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2002.995709"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2002.995709",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2002.995709"
+	],
 	"pages": "187-196",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["memori", "latenc", "toler", "approach", "for", "itanium", "processor", "out", "of", "order", "execut", "vs", "specul", "precomput"],
-	"tag": ["execution", "memory management"],
+	"stemmed": [
+		"memori",
+		"latenc",
+		"toler",
+		"approach",
+		"for",
+		"itanium",
+		"processor",
+		"out",
+		"of",
+		"order",
+		"execut",
+		"vs",
+		"specul",
+		"precomput"
+	],
+	"tag": [
+		"execution",
+		"memory management"
+	],
 	"title": "Memory Latency-Tolerance Approaches for Itanium Processors: Out-of-Order Execution vs. Speculative Precomputation",
 	"type": "inproceedings",
 	"venue": "HPCA",

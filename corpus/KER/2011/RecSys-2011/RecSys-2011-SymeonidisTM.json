@@ -1,14 +1,38 @@
 {
-	"author": ["Panagiotis Symeonidis", "Eleftherios Tiakas", "Yannis Manolopoulos"],
-	"booktitle": "RecSys",
+	"author": [
+		"Panagiotis Symeonidis",
+		"Eleftherios Tiakas",
+		"Yannis Manolopoulos"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2011",
 	"dblpkey": "conf/recsys/SymeonidisTM11",
 	"doi": "10.1145/2043932.2043947",
 	"ee": "http://doi.acm.org/10.1145/2043932.2043947",
 	"pages": "61-68",
 	"publisher": "ACM",
-	"stemmed": ["product", "recommend", "and", "rate", "predict", "base", "on", "multi", "modal", "social", "network"],
-	"tag": ["multi", "network", "predict", "rating", "recommendation", "social"],
+	"stemmed": [
+		"product",
+		"recommend",
+		"and",
+		"rate",
+		"predict",
+		"base",
+		"on",
+		"multi",
+		"modal",
+		"social",
+		"network"
+	],
+	"tag": [
+		"multi",
+		"network",
+		"predict",
+		"rating",
+		"recommendation",
+		"social"
+	],
 	"title": "Product recommendation and rating prediction based on multi-modal social networks",
 	"type": "inproceedings",
 	"venue": "RecSys",

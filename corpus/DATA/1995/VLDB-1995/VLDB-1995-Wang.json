@@ -1,14 +1,33 @@
 {
 	"author": "Yun Wang",
-	"booktitle": "VLDB",
-	"cite": ["journals/ibmsj/MohanPTW94", "...", "...", "...", "..."],
+	"booktitle": "Proceedings of the 21st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/ibmsj/MohanPTW94",
+		"...",
+		"...",
+		"...",
+		"..."
+	],
 	"crossref": "conf/vldb/95",
 	"dblpkey": "conf/vldb/Wang95",
 	"ee": "http://www.vldb.org/conf/1995/P686.PDF",
 	"pages": "686-691",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["db", "queri", "parallel", "stage", "and", "implement"],
-	"tag": ["implementation", "parallel", "query", "staging"],
+	"stemmed": [
+		"db",
+		"queri",
+		"parallel",
+		"stage",
+		"and",
+		"implement"
+	],
+	"tag": [
+		"implementation",
+		"parallel",
+		"query",
+		"staging"
+	],
 	"title": "DB2 Query Parallelism: Staging and Implementation",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,7 @@
 {
 	"author": "Thomas Käufl",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Kafl86",
 	"doi": "10.1007/3-540-16780-3_98",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["program", "verifi", "tatzelwurm", "reason", "about", "system", "of", "linear", "inequ"],
-	"tag": ["linear", "reasoning", "verification"],
+	"stemmed": [
+		"program",
+		"verifi",
+		"tatzelwurm",
+		"reason",
+		"about",
+		"system",
+		"of",
+		"linear",
+		"inequ"
+	],
+	"tag": [
+		"linear",
+		"reasoning",
+		"verification"
+	],
 	"title": "Program Verifier “Tatzelwurm”: Reasoning about Systems of Linear Inequalities",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

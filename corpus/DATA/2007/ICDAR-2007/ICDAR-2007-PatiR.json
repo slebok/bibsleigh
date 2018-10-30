@@ -1,6 +1,10 @@
 {
-	"author": ["P. Pati", "A. Ramakrishnan"],
-	"booktitle": "ICDAR",
+	"author": [
+		"P. Pati",
+		"A. Ramakrishnan"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/PatiR07",
 	"doi": "10.1109/ICDAR.2007.2",
@@ -8,8 +12,21 @@
 	"pages": "1248-1252",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "blind", "indic", "script", "recogn", "for", "multi", "script", "document"],
-	"tag": ["documentation", "multi"],
+	"stemmed": [
+		"a",
+		"blind",
+		"indic",
+		"script",
+		"recogn",
+		"for",
+		"multi",
+		"script",
+		"document"
+	],
+	"tag": [
+		"documentation",
+		"multi"
+	],
 	"title": "A Blind Indic Script Recognizer for Multi-script Documents",
 	"type": "inproceedings",
 	"venue": "ICDAR",

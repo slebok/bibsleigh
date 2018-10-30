@@ -1,14 +1,36 @@
 {
-	"author": ["Sanjit A. Seshia", "Shuvendu K. Lahiri", "Randal E. Bryant"],
-	"booktitle": "DAC",
+	"author": [
+		"Sanjit A. Seshia",
+		"Shuvendu K. Lahiri",
+		"Randal E. Bryant"
+	],
+	"booktitle": "Proceedings of the 40th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2003",
 	"dblpkey": "conf/dac/SeshiaLB03",
 	"doi": "10.1145/775832.775945",
 	"ee": "http://doi.acm.org/10.1145/775832.775945",
 	"pages": "425-430",
 	"publisher": "ACM",
-	"stemmed": ["a", "hybrid", "sat", "base", "decis", "procedur", "for", "separ", "logic", "with", "uninterpret", "function"],
-	"tag": ["hybrid", "logic", "satisfiability"],
+	"stemmed": [
+		"a",
+		"hybrid",
+		"sat",
+		"base",
+		"decis",
+		"procedur",
+		"for",
+		"separ",
+		"logic",
+		"with",
+		"uninterpret",
+		"function"
+	],
+	"tag": [
+		"hybrid",
+		"logic",
+		"satisfiability"
+	],
 	"title": "A hybrid SAT-based decision procedure for separation logic with uninterpreted functions",
 	"type": "inproceedings",
 	"venue": "DAC",

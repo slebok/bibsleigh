@@ -1,14 +1,37 @@
 {
-	"author": ["Mohammad Abdullah Al Faruque", "Rudolf Krist", "Jörg Henkel"],
-	"booktitle": "DAC",
+	"author": [
+		"Mohammad Abdullah Al Faruque",
+		"Rudolf Krist",
+		"Jörg Henkel"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/FaruqueKH08",
 	"doi": "10.1145/1391469.1391664",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391664",
 	"pages": "760-765",
 	"publisher": "ACM",
-	"stemmed": ["adam", "run", "time", "agent", "base", "distribut", "applic", "map", "for", "on", "chip", "communic"],
-	"tag": ["communication", "distributed", "named", "runtime"],
+	"stemmed": [
+		"adam",
+		"run",
+		"time",
+		"agent",
+		"base",
+		"distribut",
+		"applic",
+		"map",
+		"for",
+		"on",
+		"chip",
+		"communic"
+	],
+	"tag": [
+		"communication",
+		"distributed",
+		"named",
+		"runtime"
+	],
 	"title": "ADAM: run-time agent-based distributed application mapping for on-chip communication",
 	"type": "inproceedings",
 	"venue": "DAC",

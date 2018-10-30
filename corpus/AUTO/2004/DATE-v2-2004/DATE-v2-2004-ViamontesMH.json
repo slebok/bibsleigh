@@ -1,6 +1,11 @@
 {
-	"author": ["George F. Viamontes", "Igor L. Markov", "John P. Hayes"],
-	"booktitle": "DATE",
+	"author": [
+		"George F. Viamontes",
+		"Igor L. Markov",
+		"John P. Hayes"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/ViamontesMH04",
 	"doi": "10.1109/DATE.2004.1269084",
@@ -8,8 +13,21 @@
 	"pages": "1354-1355",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["high", "perform", "qu", "idd", "base", "simul", "of", "quantum", "circuit"],
-	"tag": ["quantum", "simulation"],
+	"stemmed": [
+		"high",
+		"perform",
+		"qu",
+		"idd",
+		"base",
+		"simul",
+		"of",
+		"quantum",
+		"circuit"
+	],
+	"tag": [
+		"quantum",
+		"simulation"
+	],
 	"title": "High-Performance QuIDD-Based Simulation of Quantum Circuits",
 	"type": "inproceedings",
 	"venue": "DATE",

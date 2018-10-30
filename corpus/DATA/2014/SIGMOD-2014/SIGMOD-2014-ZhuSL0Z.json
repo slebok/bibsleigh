@@ -1,6 +1,12 @@
 {
-	"author": ["Xiaochen Zhu", "Shaoxu Song", "Xiang Lian", "Jianmin Wang", "Lei Zou"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Xiaochen Zhu",
+		"Shaoxu Song",
+		"Xiang Lian",
+		"Jianmin Wang",
+		"Lei Zou"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/ZhuSL0Z14",
@@ -8,7 +14,12 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2588570",
 	"pages": "1211-1222",
 	"publisher": "ACM",
-	"stemmed": ["match", "heterogen", "event", "data"],
+	"stemmed": [
+		"match",
+		"heterogen",
+		"event",
+		"data"
+	],
 	"title": "Matching heterogeneous event data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

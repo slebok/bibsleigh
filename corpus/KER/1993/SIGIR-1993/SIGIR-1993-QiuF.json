@@ -1,6 +1,10 @@
 {
-	"author": ["Yonggang Qiu", "Hans-Peter Frei"],
+	"author": [
+		"Yonggang Qiu",
+		"Hans-Peter Frei"
+	],
 	"booktitle": "Proceedings of the 16th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1993/P160.pdf",
 	"crossref": "conf/sigir/93",
 	"dblpkey": "conf/sigir/QiuF93",
@@ -8,8 +12,16 @@
 	"ee": "http://doi.acm.org/10.1145/160688.160713",
 	"pages": "160-169",
 	"publisher": "ACM",
-	"stemmed": ["concept", "base", "queri", "expans"],
-	"tag": ["concept", "query"],
+	"stemmed": [
+		"concept",
+		"base",
+		"queri",
+		"expans"
+	],
+	"tag": [
+		"concept",
+		"query"
+	],
 	"title": "Concept Based Query Expansion",
 	"type": "inproceedings",
 	"venue": "SIGIR",

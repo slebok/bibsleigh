@@ -1,14 +1,37 @@
 {
-	"author": ["Yutao Zhang", "Jie Tang", "Zhilin Yang", "Jian Pei", "Philip S. Yu"],
-	"booktitle": "KDD",
+	"author": [
+		"Yutao Zhang",
+		"Jie Tang",
+		"Zhilin Yang",
+		"Jian Pei",
+		"Philip S. Yu"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/ZhangTYPY15",
 	"doi": "10.1145/2783258.2783268",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783268",
 	"pages": "1485-1494",
 	"publisher": "ACM",
-	"stemmed": ["cosnet", "connect", "heterogen", "social", "network", "with", "local", "and", "global", "consist"],
-	"tag": ["consistency", "named", "network", "social"],
+	"stemmed": [
+		"cosnet",
+		"connect",
+		"heterogen",
+		"social",
+		"network",
+		"with",
+		"local",
+		"and",
+		"global",
+		"consist"
+	],
+	"tag": [
+		"consistency",
+		"named",
+		"network",
+		"social"
+	],
 	"title": "COSNET: Connecting Heterogeneous Social Networks with Local and Global Consistency",
 	"type": "inproceedings",
 	"venue": "KDD",

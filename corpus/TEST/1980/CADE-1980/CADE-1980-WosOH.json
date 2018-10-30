@@ -1,6 +1,11 @@
 {
-	"author": ["Larry Wos", "Ross A. Overbeek", "Lawrence J. Henschen"],
-	"booktitle": "CADE",
+	"author": [
+		"Larry Wos",
+		"Ross A. Overbeek",
+		"Lawrence J. Henschen"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1980",
 	"dblpkey": "conf/cade/WosOH80",
 	"doi": "10.1007/3-540-10009-1_17",
@@ -10,11 +15,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["hyperparamodul", "a", "refin", "of", "paramodul"],
-	"tag": ["named", "refinement"],
+	"stemmed": [
+		"hyperparamodul",
+		"a",
+		"refin",
+		"of",
+		"paramodul"
+	],
+	"tag": [
+		"named",
+		"refinement"
+	],
 	"title": "Hyperparamodulation: A Refinement of Paramodulation",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 87,
+	"volume": "87",
 	"year": 1980
 }

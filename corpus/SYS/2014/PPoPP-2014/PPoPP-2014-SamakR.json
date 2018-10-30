@@ -1,14 +1,29 @@
 {
-	"author": ["Malavika Samak", "Murali Krishna Ramanathan"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Malavika Samak",
+		"Murali Krishna Ramanathan"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/SamakR14",
 	"doi": "10.1145/2555243.2555262",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555262",
 	"pages": "29-42",
 	"publisher": "ACM",
-	"stemmed": ["trace", "driven", "dynam", "deadlock", "detect", "and", "reproduct"],
-	"tag": ["concurrent", "detection"],
+	"stemmed": [
+		"trace",
+		"driven",
+		"dynam",
+		"deadlock",
+		"detect",
+		"and",
+		"reproduct"
+	],
+	"tag": [
+		"concurrent",
+		"detection"
+	],
 	"title": "Trace driven dynamic deadlock detection and reproduction",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,6 +1,9 @@
 {
-	"author": ["Harold Lim", "Shivnath Babu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Harold Lim",
+		"Shivnath Babu"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/LimB13",
@@ -8,8 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465248",
 	"pages": "1069-1072",
 	"publisher": "ACM",
-	"stemmed": ["execut", "and", "optim", "of", "continu", "queri", "with", "cyclop"],
-	"tag": ["execution", "optimisation", "query"],
+	"stemmed": [
+		"execut",
+		"and",
+		"optim",
+		"of",
+		"continu",
+		"queri",
+		"with",
+		"cyclop"
+	],
+	"tag": [
+		"execution",
+		"optimisation",
+		"query"
+	],
 	"title": "Execution and optimization of continuous queries with cyclops",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

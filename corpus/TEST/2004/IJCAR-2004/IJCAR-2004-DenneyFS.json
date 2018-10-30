@@ -1,6 +1,11 @@
 {
-	"author": ["Ewen Denney", "Bernd Fischer", "Johann Schumann"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Ewen Denney",
+		"Bernd Fischer",
+		"Johann Schumann"
+	],
+	"booktitle": "Proceedings of the Second International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2004",
 	"dblpkey": "conf/cade/DenneyFS04",
 	"doi": "10.1007/978-3-540-25984-8_12",
@@ -10,11 +15,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["use", "autom", "theorem", "prover", "to", "certifi", "auto", "generat", "aerospac", "softwar"],
-	"tag": ["automation", "proving", "theorem proving", "using"],
+	"stemmed": [
+		"use",
+		"autom",
+		"theorem",
+		"prover",
+		"to",
+		"certifi",
+		"auto",
+		"generat",
+		"aerospac",
+		"softwar"
+	],
+	"tag": [
+		"automation",
+		"proving",
+		"theorem proving",
+		"using"
+	],
 	"title": "Using Automated Theorem Provers to Certify Auto-generated Aerospace Software",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 3097,
+	"volume": "3097",
 	"year": 2004
 }

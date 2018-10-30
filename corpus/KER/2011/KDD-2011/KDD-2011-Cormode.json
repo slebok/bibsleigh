@@ -1,14 +1,28 @@
 {
 	"author": "Graham Cormode",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/Cormode11",
 	"doi": "10.1145/2020408.2020598",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020598",
 	"pages": "1253-1261",
 	"publisher": "ACM",
-	"stemmed": ["person", "privaci", "vs", "popul", "privaci", "learn", "to", "attack", "anonym"],
-	"tag": ["learning", "privacy"],
+	"stemmed": [
+		"person",
+		"privaci",
+		"vs",
+		"popul",
+		"privaci",
+		"learn",
+		"to",
+		"attack",
+		"anonym"
+	],
+	"tag": [
+		"learning",
+		"privacy"
+	],
 	"title": "Personal privacy vs population privacy: learning to attack anonymization",
 	"type": "inproceedings",
 	"venue": "KDD",

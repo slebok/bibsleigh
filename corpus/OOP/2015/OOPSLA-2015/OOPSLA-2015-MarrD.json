@@ -1,13 +1,33 @@
 {
-	"author": ["Stefan Marr", "Stéphane Ducasse"],
-	"booktitle": "OOPSLA",
+	"author": [
+		"Stefan Marr",
+		"Stéphane Ducasse"
+	],
+	"booktitle": "Proceedings of the 30th Conference on Object-Oriented Programming, Systems, Languages and Applications",
+	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2015",
 	"dblpkey": "conf/oopsla/MarrD15",
 	"doi": "10.1145/2814270.2814275",
 	"pages": "821-839",
 	"publisher": "ACM",
-	"stemmed": ["trace", "vs", "partial", "evalu", "compar", "meta", "compil", "approach", "for", "self", "optim", "interpret"],
-	"tag": ["partial evaluation", "self"],
+	"stemmed": [
+		"trace",
+		"vs",
+		"partial",
+		"evalu",
+		"compar",
+		"meta",
+		"compil",
+		"approach",
+		"for",
+		"self",
+		"optim",
+		"interpret"
+	],
+	"tag": [
+		"partial evaluation",
+		"self"
+	],
 	"title": "Tracing vs. partial evaluation: comparing meta-compilation approaches for self-optimizing interpreters",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

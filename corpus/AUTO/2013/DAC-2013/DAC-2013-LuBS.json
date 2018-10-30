@@ -1,14 +1,35 @@
 {
-	"author": ["Jing Lu", "Ke Bai", "Aviral Shrivastava"],
-	"booktitle": "DAC",
+	"author": [
+		"Jing Lu",
+		"Ke Bai",
+		"Aviral Shrivastava"
+	],
+	"booktitle": "Proceedings of the 50th Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2013",
 	"dblpkey": "conf/dac/LuBS13",
 	"doi": "10.1145/2463209.2488918",
 	"ee": "http://doi.acm.org/10.1145/2463209.2488918",
 	"pages": "149:1-149:8",
 	"publisher": "ACM",
-	"stemmed": ["ssdm", "smart", "stack", "data", "manag", "for", "softwar", "manag", "multicor", "smms"],
-	"tag": ["data transformation", "multi", "named", "stack"],
+	"stemmed": [
+		"ssdm",
+		"smart",
+		"stack",
+		"data",
+		"manag",
+		"for",
+		"softwar",
+		"manag",
+		"multicor",
+		"smms"
+	],
+	"tag": [
+		"data transformation",
+		"multi",
+		"named",
+		"stack"
+	],
 	"title": "SSDM: smart stack data management for software managed multicores (SMMs)",
 	"type": "inproceedings",
 	"venue": "DAC",

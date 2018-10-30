@@ -1,6 +1,10 @@
 {
-	"author": ["A. J. van de Goor", "J. de Neef"],
-	"booktitle": "DATE",
+	"author": [
+		"A. J. van de Goor",
+		"J. de Neef"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/GoorN99",
 	"doi": "10.1109/DATE.1999.761194",
@@ -8,8 +12,18 @@
 	"pages": "623-630",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["industri", "evalu", "of", "dram", "test"],
-	"tag": ["evaluation", "industrial", "testing"],
+	"stemmed": [
+		"industri",
+		"evalu",
+		"of",
+		"dram",
+		"test"
+	],
+	"tag": [
+		"evaluation",
+		"industrial",
+		"testing"
+	],
 	"title": "Industrial Evaluation of DRAM Tests",
 	"type": "inproceedings",
 	"venue": "DATE",

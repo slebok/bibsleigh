@@ -1,16 +1,46 @@
 {
-	"author": ["Gustavo Alonso", "Armin Fessler", "Guy Pardon", "Hans-Jörg Schek"],
-	"booktitle": "PODS",
+	"author": [
+		"Gustavo Alonso",
+		"Armin Fessler",
+		"Guy Pardon",
+		"Hans-Jörg Schek"
+	],
+	"booktitle": "Proceedings of the 18th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"cdrom": "DiSC2_1/out/papers/pods/correctnessingeguarg.pdf",
-	"cite": ["conf/pods/AlonsoBFS97", "conf/icdt/AlonsoFPS99", "journals/jacm/BeeriBG89", "books/aw/BernsteinHG87", "conf/edbt/BeeriSW88", "books/mk/GrayR93", "...", "...", "books/infix/Schaad96", "conf/ride/SchekWS91", "journals/tods/Weikum91"],
+	"cite": [
+		"conf/pods/AlonsoBFS97",
+		"conf/icdt/AlonsoFPS99",
+		"journals/jacm/BeeriBG89",
+		"books/aw/BernsteinHG87",
+		"conf/edbt/BeeriSW88",
+		"books/mk/GrayR93",
+		"...",
+		"...",
+		"books/infix/Schaad96",
+		"conf/ride/SchekWS91",
+		"journals/tods/Weikum91"
+	],
 	"crossref": "conf/pods/99",
 	"dblpkey": "conf/pods/AlonsoFPS99",
 	"doi": "10.1145/303976.304004",
 	"ee": "http://doi.acm.org/10.1145/303976.304004",
 	"pages": "285-293",
 	"publisher": "ACM Press",
-	"stemmed": ["correct", "in", "general", "configur", "of", "transact", "compon"],
-	"tag": ["component", "correctness", "transaction"],
+	"stemmed": [
+		"correct",
+		"in",
+		"general",
+		"configur",
+		"of",
+		"transact",
+		"compon"
+	],
+	"tag": [
+		"component",
+		"correctness",
+		"transaction"
+	],
 	"title": "Correctness in General Configurations of Transactional Components",
 	"type": "inproceedings",
 	"venue": "PODS",

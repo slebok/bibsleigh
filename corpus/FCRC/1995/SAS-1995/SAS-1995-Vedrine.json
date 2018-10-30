@@ -1,6 +1,7 @@
 {
 	"author": "Franck Védrine",
 	"booktitle": "Proceedings of the Second International Static Analysis Symposium",
+	"booktitleshort": "SAS",
 	"crossref": "conf/sas/95",
 	"dblpkey": "conf/sas/Vedrine95",
 	"doi": "10.1007/3-540-60360-3_52",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["bind", "time", "analysi", "and", "strict", "analysi", "by", "abstract", "interpret"],
-	"tag": ["abstract interpretation", "analysis", "strict"],
+	"stemmed": [
+		"bind",
+		"time",
+		"analysi",
+		"and",
+		"strict",
+		"analysi",
+		"by",
+		"abstract",
+		"interpret"
+	],
+	"tag": [
+		"abstract interpretation",
+		"analysis",
+		"strict"
+	],
 	"title": "Binding-Time Analysis and Strictness Analysis by Abstract Interpretation",
 	"type": "inproceedings",
 	"venue": "SAS",
-	"volume": 983,
+	"volume": "983",
 	"year": 1995
 }

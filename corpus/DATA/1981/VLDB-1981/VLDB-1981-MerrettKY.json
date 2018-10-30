@@ -1,15 +1,36 @@
 {
-	"author": ["T. H. Merrett", "Yahiko Kambayashi", "H. Yasuura"],
-	"booktitle": "VLDB",
+	"author": [
+		"T. H. Merrett",
+		"Yahiko Kambayashi",
+		"H. Yasuura"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB81/P488.PDF",
-	"cite": ["conf/sigmod/Kim80", "journals/siamcomp/GareyJT76", "...", "books/aw/AhoHU74", "conf/fodo/MerrettK81"],
+	"cite": [
+		"conf/sigmod/Kim80",
+		"journals/siamcomp/GareyJT76",
+		"...",
+		"books/aw/AhoHU74",
+		"conf/fodo/MerrettK81"
+	],
 	"crossref": "conf/vldb/81",
 	"dblpkey": "conf/vldb/MerrettKY81",
 	"pages": "488-498",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["schedul", "of", "page", "fetch", "in", "join", "oper"],
-	"tag": ["scheduling"],
+	"stemmed": [
+		"schedul",
+		"of",
+		"page",
+		"fetch",
+		"in",
+		"join",
+		"oper"
+	],
+	"tag": [
+		"scheduling"
+	],
 	"title": "Scheduling of Page-Fetches in Join Operations",
 	"type": "inproceedings",
 	"venue": "VLDB",

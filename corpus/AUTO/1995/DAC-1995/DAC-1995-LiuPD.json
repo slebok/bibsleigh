@@ -1,13 +1,30 @@
 {
-	"author": ["Shihming Liu", "Massoud Pedram", "Alvin M. Despain"],
-	"booktitle": "DAC",
+	"author": [
+		"Shihming Liu",
+		"Massoud Pedram",
+		"Alvin M. Despain"
+	],
+	"booktitle": "Proceedings of the 32nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/LiuPD95",
 	"doi": "10.1145/217474.217550",
 	"ee": "http://doi.acm.org/10.1145/217474.217550",
 	"pages": "327-332",
 	"publisher": "ACM Press",
-	"stemmed": ["a", "fast", "state", "assign", "procedur", "for", "larg", "fsms"],
-	"tag": ["performance", "scalability"],
+	"stemmed": [
+		"a",
+		"fast",
+		"state",
+		"assign",
+		"procedur",
+		"for",
+		"larg",
+		"fsms"
+	],
+	"tag": [
+		"performance",
+		"scalability"
+	],
 	"title": "A Fast State Assignment Procedure for Large FSMs",
 	"type": "inproceedings",
 	"venue": "DAC",

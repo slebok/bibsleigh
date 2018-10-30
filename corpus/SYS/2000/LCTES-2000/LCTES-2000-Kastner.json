@@ -1,6 +1,7 @@
 {
 	"author": "Daniel Kästner",
-	"booktitle": "LCTES",
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2000",
 	"dblpkey": "conf/lctrts/Kastner00",
 	"doi": "10.1007/3-540-45245-1_5",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["propan", "a", "retarget", "system", "for", "postpass", "optimis", "and", "analys"],
-	"tag": ["analysis", "named", "optimisation"],
+	"stemmed": [
+		"propan",
+		"a",
+		"retarget",
+		"system",
+		"for",
+		"postpass",
+		"optimis",
+		"and",
+		"analys"
+	],
+	"tag": [
+		"analysis",
+		"named",
+		"optimisation"
+	],
 	"title": "PROPAN: A Retargetable System for Postpass Optimisations and Analyses",
 	"type": "inproceedings",
 	"venue": "LCTES",
-	"volume": 1985,
+	"volume": "1985",
 	"year": 2000
 }

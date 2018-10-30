@@ -1,14 +1,39 @@
 {
-	"author": ["Richard R. Muntz", "John C. S. Lui"],
-	"booktitle": "VLDB",
-	"cite": ["conf/sigmetrics/ChenGKP90", "journals/csur/ColbournO89", "conf/sigmod/CopelandK89", "...", "conf/icde/HsiaoD90", "conf/dpds/LakshmiY88", "conf/sigmod/PattersonGK88", "conf/icde/StonebrakerS90"],
+	"author": [
+		"Richard R. Muntz",
+		"John C. S. Lui"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/sigmetrics/ChenGKP90",
+		"journals/csur/ColbournO89",
+		"conf/sigmod/CopelandK89",
+		"...",
+		"conf/icde/HsiaoD90",
+		"conf/dpds/LakshmiY88",
+		"conf/sigmod/PattersonGK88",
+		"conf/icde/StonebrakerS90"
+	],
 	"crossref": "conf/vldb/90",
 	"dblpkey": "conf/vldb/MuntzL90",
 	"ee": "http://www.vldb.org/conf/1990/P162.PDF",
 	"pages": "162-173",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["perform", "analysi", "of", "disk", "array", "under", "failur"],
-	"tag": ["analysis", "array", "performance"],
+	"stemmed": [
+		"perform",
+		"analysi",
+		"of",
+		"disk",
+		"array",
+		"under",
+		"failur"
+	],
+	"tag": [
+		"analysis",
+		"array",
+		"performance"
+	],
 	"title": "Performance Analysis of Disk Arrays under Failure",
 	"type": "inproceedings",
 	"venue": "VLDB",

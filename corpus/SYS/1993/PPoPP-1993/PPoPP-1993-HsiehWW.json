@@ -1,14 +1,33 @@
 {
-	"author": ["Wilson C. Hsieh", "Paul Wang", "William E. Weihl"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Wilson C. Hsieh",
+		"Paul Wang",
+		"William E. Weihl"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1993",
 	"dblpkey": "conf/ppopp/HsiehWW93",
 	"doi": "10.1145/155332.155357",
 	"ee": "http://doi.acm.org/10.1145/155332.155357",
 	"pages": "239-248",
 	"publisher": "ACM",
-	"stemmed": ["comput", "migrat", "enhanc", "local", "for", "distribut", "memori", "parallel", "system"],
-	"tag": ["locality", "migration", "parallel"],
+	"stemmed": [
+		"comput",
+		"migrat",
+		"enhanc",
+		"local",
+		"for",
+		"distribut",
+		"memori",
+		"parallel",
+		"system"
+	],
+	"tag": [
+		"locality",
+		"migration",
+		"parallel"
+	],
 	"title": "Computation Migration: Enhancing Locality for Distributed-Memory Parallel Systems",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,14 +1,32 @@
 {
-	"author": ["Zoltan Majo", "Thomas R. Gross"],
-	"booktitle": "CGO",
+	"author": [
+		"Zoltan Majo",
+		"Thomas R. Gross"
+	],
+	"booktitle": "Proceedings of the 10th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2012",
 	"dblpkey": "conf/cgo/MajoG12",
 	"doi": "10.1145/2259016.2259046",
 	"ee": "http://doi.acm.org/10.1145/2259016.2259046",
 	"pages": "230-241",
 	"publisher": "ACM",
-	"stemmed": ["match", "memori", "access", "pattern", "and", "data", "placement", "for", "numa", "system"],
-	"tag": ["data access", "memory management"],
+	"stemmed": [
+		"match",
+		"memori",
+		"access",
+		"pattern",
+		"and",
+		"data",
+		"placement",
+		"for",
+		"numa",
+		"system"
+	],
+	"tag": [
+		"data access",
+		"memory management"
+	],
 	"title": "Matching memory access patterns and data placement for NUMA systems",
 	"type": "inproceedings",
 	"venue": "CGO",

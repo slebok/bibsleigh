@@ -1,13 +1,25 @@
 {
-	"acmid": 800851,
+	"acmid": "800851",
 	"author": "John K. Ousterhout",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 21st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1984",
 	"dblpkey": "conf/dac/Ousterhout84",
 	"pages": "542-548",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["switch", "level", "delay", "model", "for", "digit", "mos", "vlsi"],
-	"tag": ["modelling"],
+	"stemmed": [
+		"switch",
+		"level",
+		"delay",
+		"model",
+		"for",
+		"digit",
+		"mos",
+		"vlsi"
+	],
+	"tag": [
+		"modelling"
+	],
 	"title": "Switch-level delay models for digital MOS VLSI",
 	"type": "inproceedings",
 	"venue": "DAC",

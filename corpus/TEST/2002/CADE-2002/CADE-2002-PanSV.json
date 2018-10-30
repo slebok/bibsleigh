@@ -1,6 +1,11 @@
 {
-	"author": ["Guoqiang Pan", "Ulrike Sattler", "Moshe Y. Vardi"],
-	"booktitle": "CADE",
+	"author": [
+		"Guoqiang Pan",
+		"Ulrike Sattler",
+		"Moshe Y. Vardi"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2002",
 	"dblpkey": "conf/cade/PanSV02",
 	"doi": "10.1007/3-540-45620-1_2",
@@ -10,10 +15,17 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["bdd", "base", "decis", "procedur", "for", "k"],
+	"stemmed": [
+		"bdd",
+		"base",
+		"decis",
+		"procedur",
+		"for",
+		"k"
+	],
 	"title": "BDD-Based Decision Procedures for K",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2392,
+	"volume": "2392",
 	"year": 2002
 }

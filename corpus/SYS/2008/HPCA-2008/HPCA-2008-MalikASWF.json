@@ -1,6 +1,13 @@
 {
-	"author": ["Kshitiz Malik", "Mayank Agarwal", "Sam S. Stone", "Kevin M. Woley", "Matthew I. Frank"],
-	"booktitle": "HPCA",
+	"author": [
+		"Kshitiz Malik",
+		"Mayank Agarwal",
+		"Sam S. Stone",
+		"Kevin M. Woley",
+		"Matthew I. Frank"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2008",
 	"dblpkey": "conf/hpca/MalikASWF08",
 	"doi": "10.1109/HPCA.2008.4658628",
@@ -8,8 +15,21 @@
 	"pages": "62-73",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["branch", "mispredict", "level", "parallel", "blp", "for", "control", "independ"],
-	"tag": ["independence", "parallel", "predict"],
+	"stemmed": [
+		"branch",
+		"mispredict",
+		"level",
+		"parallel",
+		"blp",
+		"for",
+		"control",
+		"independ"
+	],
+	"tag": [
+		"independence",
+		"parallel",
+		"predict"
+	],
 	"title": "Branch-mispredict level parallelism (BLP) for control independence",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,14 +1,31 @@
 {
-	"author": ["Michael J. Feeley", "Brian N. Bershad", "Jeffrey S. Chase", "Henry M. Levy"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Michael J. Feeley",
+		"Brian N. Bershad",
+		"Jeffrey S. Chase",
+		"Henry M. Levy"
+	],
+	"booktitle": "Proceedings of the Third Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1991",
 	"dblpkey": "conf/ppopp/FeeleyBCL91",
 	"doi": "10.1145/109625.109638",
 	"ee": "http://doi.acm.org/10.1145/109625.109638",
 	"pages": "114-121",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "node", "reconfigur", "in", "a", "parallel", "distribut", "environ"],
-	"tag": ["configuration management"],
+	"stemmed": [
+		"dynam",
+		"node",
+		"reconfigur",
+		"in",
+		"a",
+		"parallel",
+		"distribut",
+		"environ"
+	],
+	"tag": [
+		"configuration management"
+	],
 	"title": "Dynamic Node Reconfiguration in a Parallel-Distributed Environment",
 	"type": "inproceedings",
 	"venue": "PPoPP",

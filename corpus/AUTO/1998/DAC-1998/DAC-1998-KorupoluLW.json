@@ -1,13 +1,34 @@
 {
-	"author": ["Madhukar R. Korupolu", "K. K. Lee", "D. F. Wong"],
-	"booktitle": "DAC",
+	"author": [
+		"Madhukar R. Korupolu",
+		"K. K. Lee",
+		"D. F. Wong"
+	],
+	"booktitle": "Proceedings of the 35th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/KorupoluLW98",
 	"doi": "10.1145/277044.277222",
 	"ee": "http://doi.acm.org/10.1145/277044.277222",
 	"pages": "708-711",
 	"publisher": "ACM Press",
-	"stemmed": ["exact", "tree", "base", "fpga", "technolog", "map", "for", "logic", "block", "with", "independ", "lut"],
-	"tag": ["independence", "logic"],
+	"stemmed": [
+		"exact",
+		"tree",
+		"base",
+		"fpga",
+		"technolog",
+		"map",
+		"for",
+		"logic",
+		"block",
+		"with",
+		"independ",
+		"lut"
+	],
+	"tag": [
+		"independence",
+		"logic"
+	],
 	"title": "Exact Tree-based FPGA Technology Mapping for Logic Blocks with Independent LUTs",
 	"type": "inproceedings",
 	"venue": "DAC",

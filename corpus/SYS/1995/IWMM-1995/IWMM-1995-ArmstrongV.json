@@ -1,6 +1,10 @@
 {
-	"author": ["Joe L. Armstrong", "Robert Virding"],
-	"booktitle": "IWMM",
+	"author": [
+		"Joe L. Armstrong",
+		"Robert Virding"
+	],
+	"booktitle": "Proceedings of the Second International Workshop on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/95",
 	"dblpkey": "conf/iwmm/ArmstrongV95",
 	"doi": "10.1007/3-540-60368-9_31",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["one", "pass", "real", "time", "generat", "mark", "sweep", "garbag", "collect"],
-	"tag": ["garbage collection", "realtime"],
+	"stemmed": [
+		"one",
+		"pass",
+		"real",
+		"time",
+		"generat",
+		"mark",
+		"sweep",
+		"garbag",
+		"collect"
+	],
+	"tag": [
+		"garbage collection",
+		"realtime"
+	],
 	"title": "One Pass Real-Time Generational Mark-Sweep Garbage Collection",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 986,
+	"volume": "986",
 	"year": 1995
 }

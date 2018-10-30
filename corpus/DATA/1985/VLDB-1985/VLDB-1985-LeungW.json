@@ -1,14 +1,39 @@
 {
-	"author": ["Clement H. C. Leung", "K. S. Wong"],
-	"booktitle": "VLDB",
-	"cite": ["journals/jacm/CalderbankCF84", "...", "...", "...", "journals/acta/LeungC82", "journals/tse/Leung83", "conf/ifip/Maller80", "..."],
+	"author": [
+		"Clement H. C. Leung",
+		"K. S. Wong"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/jacm/CalderbankCF84",
+		"...",
+		"...",
+		"...",
+		"journals/acta/LeungC82",
+		"journals/tse/Leung83",
+		"conf/ifip/Maller80",
+		"..."
+	],
 	"crossref": "conf/vldb/85",
 	"dblpkey": "conf/vldb/LeungW85",
 	"ee": "http://www.vldb.org/conf/1985/P282.PDF",
 	"pages": "282-291",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["file", "process", "effici", "on", "the", "content", "address", "file", "store"],
-	"tag": ["performance"],
+	"stemmed": [
+		"file",
+		"process",
+		"effici",
+		"on",
+		"the",
+		"content",
+		"address",
+		"file",
+		"store"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "File Processing Efficiency on the Content Addressable File Store",
 	"type": "inproceedings",
 	"venue": "VLDB",

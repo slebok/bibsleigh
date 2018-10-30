@@ -1,14 +1,28 @@
 {
 	"author": "David Kirk",
-	"booktitle": "ISMM",
+	"booktitle": "Proceedings of the Sixth International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2007",
 	"dblpkey": "conf/iwmm/Kirk07",
 	"doi": "10.1145/1296907.1296909",
 	"ee": "http://doi.acm.org/10.1145/1296907.1296909",
 	"pages": "103-104",
 	"publisher": "ACM",
-	"stemmed": ["nvidia", "cuda", "softwar", "and", "gpu", "parallel", "comput", "architectur"],
-	"tag": ["architecture", "gpu", "parallel"],
+	"stemmed": [
+		"nvidia",
+		"cuda",
+		"softwar",
+		"and",
+		"gpu",
+		"parallel",
+		"comput",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"gpu",
+		"parallel"
+	],
 	"title": "NVIDIA cuda software and gpu parallel computing architecture",
 	"type": "inproceedings",
 	"venue": "ISMM",

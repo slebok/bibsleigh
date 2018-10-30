@@ -1,14 +1,29 @@
 {
-	"author": ["Marcelo Arenas", "Jorge Pérez"],
-	"booktitle": "PODS",
+	"author": [
+		"Marcelo Arenas",
+		"Jorge Pérez"
+	],
+	"booktitle": "Proceedings of the 30th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2011",
 	"dblpkey": "conf/pods/ArenasP11",
 	"doi": "10.1145/1989284.1989312",
 	"ee": "http://doi.acm.org/10.1145/1989284.1989312",
 	"pages": "305-316",
 	"publisher": "ACM",
-	"stemmed": ["queri", "semant", "web", "data", "with", "sparql"],
-	"tag": ["query", "semantics", "web"],
+	"stemmed": [
+		"queri",
+		"semant",
+		"web",
+		"data",
+		"with",
+		"sparql"
+	],
+	"tag": [
+		"query",
+		"semantics",
+		"web"
+	],
 	"title": "Querying semantic web data with SPARQL",
 	"type": "inproceedings",
 	"venue": "PODS",

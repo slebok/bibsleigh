@@ -1,16 +1,43 @@
 {
-	"author": ["Tomasz Imielinski", "S. Viswanathan", "B. R. Badrinath"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Tomasz Imielinski",
+		"S. Viswanathan",
+		"B. R. Badrinath"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD94/P025.PDF",
-	"cite": ["...", "journals/cacm/BowenGHHLMRW92", "...", "...", "...", "conf/sigmod/HermanGLW87", "journals/cacm/ImielinskiB94", "conf/edbt/ImielinskiVB94", "...", "...", "...", "conf/sigmod/TerryGNO92"],
+	"cite": [
+		"...",
+		"journals/cacm/BowenGHHLMRW92",
+		"...",
+		"...",
+		"...",
+		"conf/sigmod/HermanGLW87",
+		"journals/cacm/ImielinskiB94",
+		"conf/edbt/ImielinskiVB94",
+		"...",
+		"...",
+		"...",
+		"conf/sigmod/TerryGNO92"
+	],
 	"crossref": "conf/sigmod/94",
 	"dblpkey": "conf/sigmod/ImielinskiVB94",
 	"doi": "10.1145/191839.191846",
 	"ee": "http://doi.acm.org/10.1145/191839.191846",
 	"pages": "25-36",
 	"publisher": "ACM Press",
-	"stemmed": ["energi", "effici", "index", "on", "air"],
-	"tag": ["energy", "performance"],
+	"stemmed": [
+		"energi",
+		"effici",
+		"index",
+		"on",
+		"air"
+	],
+	"tag": [
+		"energy",
+		"performance"
+	],
 	"title": "Energy Efficient Indexing on Air",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

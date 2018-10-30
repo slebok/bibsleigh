@@ -1,14 +1,33 @@
 {
-	"author": ["Kevin M. Lepak", "Irwan Luwandi", "Lei He"],
-	"booktitle": "DAC",
+	"author": [
+		"Kevin M. Lepak",
+		"Irwan Luwandi",
+		"Lei He"
+	],
+	"booktitle": "Proceedings of the 38th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2001",
 	"dblpkey": "conf/dac/LepakLH01",
 	"doi": "10.1145/378239.378463",
 	"ee": "http://doi.acm.org/10.1145/378239.378463",
 	"pages": "199-202",
 	"publisher": "ACM",
-	"stemmed": ["simultan", "shield", "insert", "and", "net", "order", "under", "explicit", "rlc", "nois", "constraint"],
-	"tag": ["constraints"],
+	"stemmed": [
+		"simultan",
+		"shield",
+		"insert",
+		"and",
+		"net",
+		"order",
+		"under",
+		"explicit",
+		"rlc",
+		"nois",
+		"constraint"
+	],
+	"tag": [
+		"constraints"
+	],
 	"title": "Simultaneous Shield Insertion and Net Ordering under Explicit RLC Noise Constraint",
 	"type": "inproceedings",
 	"venue": "DAC",

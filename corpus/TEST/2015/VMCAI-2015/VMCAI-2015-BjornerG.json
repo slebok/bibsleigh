@@ -1,6 +1,10 @@
 {
-	"author": ["Nikolaj Bjørner", "Arie Gurfinkel"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Nikolaj Bjørner",
+		"Arie Gurfinkel"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2015",
 	"dblpkey": "conf/vmcai/BjornerG15",
 	"doi": "10.1007/978-3-662-46081-8_15",
@@ -10,11 +14,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["properti", "direct", "polyhedr", "abstract"],
-	"tag": ["abstraction"],
+	"stemmed": [
+		"properti",
+		"direct",
+		"polyhedr",
+		"abstract"
+	],
+	"tag": [
+		"abstraction"
+	],
 	"title": "Property Directed Polyhedral Abstraction",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 8931,
+	"volume": "8931",
 	"year": 2015
 }

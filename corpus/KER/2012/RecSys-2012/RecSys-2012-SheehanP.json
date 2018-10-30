@@ -1,14 +1,34 @@
 {
-	"author": ["Mark Sheehan", "Young Park"],
-	"booktitle": "RecSys",
+	"author": [
+		"Mark Sheehan",
+		"Young Park"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2012",
 	"dblpkey": "conf/recsys/SheehanP12",
 	"doi": "10.1145/2365952.2366027",
 	"ee": "http://doi.acm.org/10.1145/2365952.2366027",
 	"pages": "309-310",
 	"publisher": "ACM",
-	"stemmed": ["pgpa", "a", "person", "grade", "predict", "tool", "to", "aid", "student", "success"],
-	"tag": ["named", "personalisation", "predict", "student"],
+	"stemmed": [
+		"pgpa",
+		"a",
+		"person",
+		"grade",
+		"predict",
+		"tool",
+		"to",
+		"aid",
+		"student",
+		"success"
+	],
+	"tag": [
+		"named",
+		"personalisation",
+		"predict",
+		"student"
+	],
 	"title": "pGPA: a personalized grade prediction tool to aid student success",
 	"type": "inproceedings",
 	"venue": "RecSys",

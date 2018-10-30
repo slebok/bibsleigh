@@ -1,6 +1,10 @@
 {
-	"author": ["Andreas Schlapbach", "Horst Bunke"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Andreas Schlapbach",
+		"Horst Bunke"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/SchlapbachB07",
 	"doi": "10.1109/ICDAR.2007.122",
@@ -8,8 +12,21 @@
 	"pages": "103-107",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["fuse", "asynchron", "featur", "stream", "for", "on", "line", "writer", "identif"],
-	"tag": ["identification", "online"],
+	"stemmed": [
+		"fuse",
+		"asynchron",
+		"featur",
+		"stream",
+		"for",
+		"on",
+		"line",
+		"writer",
+		"identif"
+	],
+	"tag": [
+		"identification",
+		"online"
+	],
 	"title": "Fusing Asynchronous Feature Streams for On-line Writer Identification",
 	"type": "inproceedings",
 	"venue": "ICDAR",

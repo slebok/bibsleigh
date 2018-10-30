@@ -1,6 +1,11 @@
 {
-	"author": ["Chang Hong Lin", "Yuan Xie", "Wayne Wolf"],
-	"booktitle": "DATE",
+	"author": [
+		"Chang Hong Lin",
+		"Yuan Xie",
+		"Wayne Wolf"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Designers’ Forum",
+	"booktitleshort": "DATE DF",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/LinXW04",
 	"doi": "10.1109/DATE.2004.1269210",
@@ -8,8 +13,19 @@
 	"pages": "76-81",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["lzw", "base", "code", "compress", "for", "vliw", "embed", "system"],
-	"tag": ["embedded"],
+	"stemmed": [
+		"lzw",
+		"base",
+		"code",
+		"compress",
+		"for",
+		"vliw",
+		"embed",
+		"system"
+	],
+	"tag": [
+		"embedded"
+	],
 	"title": "LZW-Based Code Compression for VLIW Embedded Systems",
 	"type": "inproceedings",
 	"venue": "DATE",

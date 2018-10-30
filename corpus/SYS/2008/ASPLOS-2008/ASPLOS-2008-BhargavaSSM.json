@@ -1,14 +1,31 @@
 {
-	"author": ["Ravi Bhargava", "Ben Serebrin", "Francesco Spadini", "Srilatha Manne"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Ravi Bhargava",
+		"Ben Serebrin",
+		"Francesco Spadini",
+		"Srilatha Manne"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2008",
 	"dblpkey": "conf/asplos/BhargavaSSM08",
 	"doi": "10.1145/1346281.1346286",
 	"ee": "http://doi.acm.org/10.1145/1346281.1346286",
 	"pages": "26-35",
 	"publisher": "ACM",
-	"stemmed": ["acceler", "two", "dimension", "page", "walk", "for", "virtual", "system"],
-	"tag": ["2d"],
+	"stemmed": [
+		"acceler",
+		"two",
+		"dimension",
+		"page",
+		"walk",
+		"for",
+		"virtual",
+		"system"
+	],
+	"tag": [
+		"2d"
+	],
 	"title": "Accelerating two-dimensional page walks for virtualized systems",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

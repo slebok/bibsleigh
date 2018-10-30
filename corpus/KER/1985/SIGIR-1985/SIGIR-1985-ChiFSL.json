@@ -1,14 +1,34 @@
 {
-	"author": ["Emile C. Chi", "Carol Friedman", "Naomi Sager", "Margaret S. Lyman"],
+	"author": [
+		"Emile C. Chi",
+		"Carol Friedman",
+		"Naomi Sager",
+		"Margaret S. Lyman"
+	],
 	"booktitle": "Proceedings of the Eighth annual international ACM SIGIR conference on Research and development in information retrieval",
+	"booktitleshort": "SIGIR",
 	"crossref": "conf/sigir/85",
 	"dblpkey": "conf/sigir/ChiFSL85",
 	"doi": "10.1145/253495.253513",
 	"ee": "http://doi.acm.org/10.1145/253495.253513",
 	"pages": "82-90",
 	"publisher": "ACM",
-	"stemmed": ["process", "free", "text", "input", "to", "obtain", "a", "databas", "of", "medic", "inform"],
-	"tag": ["database"],
+	"stemmed": [
+		"process",
+		"free",
+		"text",
+		"input",
+		"to",
+		"obtain",
+		"a",
+		"databas",
+		"of",
+		"medic",
+		"inform"
+	],
+	"tag": [
+		"database"
+	],
 	"title": "Processing Free-Text Input to Obtain a Database of Medical Information",
 	"type": "inproceedings",
 	"venue": "SIGIR",

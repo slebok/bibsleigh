@@ -1,15 +1,33 @@
 {
-	"author": ["Mayank Agarwal", "Kshitiz Malik", "Kevin M. Woley", "Sam S. Stone", "Matthew I. Frank"],
-	"booktitle": "HPCA",
+	"author": [
+		"Mayank Agarwal",
+		"Kshitiz Malik",
+		"Kevin M. Woley",
+		"Sam S. Stone",
+		"Matthew I. Frank"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2007",
 	"dblpkey": "conf/hpca/AgarwalMWSF07",
 	"doi": "10.1109/HPCA.2007.346207",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2007.346207", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2007.346207"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2007.346207",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2007.346207"
+	],
 	"pages": "295-305",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["exploit", "postdomin", "for", "specul", "parallel"],
-	"tag": ["parallel"],
+	"stemmed": [
+		"exploit",
+		"postdomin",
+		"for",
+		"specul",
+		"parallel"
+	],
+	"tag": [
+		"parallel"
+	],
 	"title": "Exploiting Postdominance for Speculative Parallelization",
 	"type": "inproceedings",
 	"venue": "HPCA",

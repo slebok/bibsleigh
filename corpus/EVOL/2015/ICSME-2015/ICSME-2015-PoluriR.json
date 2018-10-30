@@ -1,13 +1,28 @@
 {
-	"author": ["Sri Varun Poluri", "Murali Krishna Ramanathan"],
-	"booktitle": "ICSME",
+	"author": [
+		"Sri Varun Poluri",
+		"Murali Krishna Ramanathan"
+	],
+	"booktitle": "Proceedings of the 31st International Conference on Software Maintenance and Evolution",
+	"booktitleshort": "ICSME",
 	"crossref": "conf/icsm/2015",
 	"dblpkey": "conf/icsm/PoluriR15",
 	"doi": "10.1109/ICSM.2015.7332464",
 	"pages": "181-190",
 	"publisher": "IEEE",
-	"stemmed": ["determinist", "dynam", "race", "detect", "across", "program", "version"],
-	"tag": ["concurrent", "detection"],
+	"stemmed": [
+		"determinist",
+		"dynam",
+		"race",
+		"detect",
+		"across",
+		"program",
+		"version"
+	],
+	"tag": [
+		"concurrent",
+		"detection"
+	],
 	"title": "Deterministic dynamic race detection across program versions",
 	"type": "inproceedings",
 	"venue": "ICSME",

@@ -1,14 +1,21 @@
 {
 	"author": "Butler W. Lampson",
-	"booktitle": "ASPLOS",
+	"booktitle": "Proceedings of the First Symposium on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1982",
 	"dblpkey": "conf/asplos/Lampson82",
 	"doi": "10.1145/800050.801827",
 	"ee": "http://doi.acm.org/10.1145/800050.801827",
 	"pages": "66-76",
 	"publisher": "ACM Press",
-	"stemmed": ["fast", "procedur", "call"],
-	"tag": ["performance"],
+	"stemmed": [
+		"fast",
+		"procedur",
+		"call"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Fast Procedure Calls",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

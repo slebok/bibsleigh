@@ -1,17 +1,34 @@
 {
 	"author": "Ed Seidewitz",
-	"booktitle": "Proceedings of the Ninth Annual Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"booktitle": "Proceedings of the Ninth Annual Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1994",
 	"dblpkey": "conf/oopsla/Seidewitz94",
 	"doi": "10.1145/191080.191109",
-	"editor": ["Jeff McKenna", "J. Eliot B. Moss", "Richard L. Wexelblat"],
+	"editor": [
+		"Jeff McKenna",
+		"J. Eliot B. Moss",
+		"Richard L. Wexelblat"
+	],
 	"ee": "http://doi.acm.org/10.1145/191080.191109",
 	"isbn": "0-89791-688-3",
 	"pages": "153-163",
 	"publisher": "ACM",
-	"stemmed": ["generic", "versus", "inherit", "reconsid", "self", "refer", "use", "generic"],
-	"tag": ["inheritance", "self", "using"],
+	"stemmed": [
+		"generic",
+		"versus",
+		"inherit",
+		"reconsid",
+		"self",
+		"refer",
+		"use",
+		"generic"
+	],
+	"tag": [
+		"inheritance",
+		"self",
+		"using"
+	],
 	"title": "Genericity versus Inheritance Reconsidered: Self-Reference Using Generics",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

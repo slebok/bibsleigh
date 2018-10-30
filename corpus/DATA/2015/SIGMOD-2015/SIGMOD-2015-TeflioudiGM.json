@@ -1,6 +1,10 @@
 {
-	"author": ["Christina Teflioudi", "Rainer Gemulla", "Olga Mykytiuk"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Christina Teflioudi",
+		"Rainer Gemulla",
+		"Olga Mykytiuk"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/TeflioudiGM15",
@@ -8,8 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2747647",
 	"pages": "107-122",
 	"publisher": "ACM",
-	"stemmed": ["lemp", "fast", "retriev", "of", "larg", "entri", "in", "a", "matrix", "product"],
-	"tag": ["matrix", "named", "performance", "retrieval", "scalability"],
+	"stemmed": [
+		"lemp",
+		"fast",
+		"retriev",
+		"of",
+		"larg",
+		"entri",
+		"in",
+		"a",
+		"matrix",
+		"product"
+	],
+	"tag": [
+		"matrix",
+		"named",
+		"performance",
+		"retrieval",
+		"scalability"
+	],
 	"title": "LEMP: Fast Retrieval of Large Entries in a Matrix Product",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

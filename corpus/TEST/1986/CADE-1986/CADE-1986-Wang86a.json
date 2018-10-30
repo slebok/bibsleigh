@@ -1,6 +1,7 @@
 {
 	"author": "Tie-Cheng Wang",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Wang86a",
 	"doi": "10.1007/3-540-16780-3_148",
@@ -10,10 +11,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["shd", "prover", "at", "univers", "of", "texa", "at", "austin"],
+	"stemmed": [
+		"shd",
+		"prover",
+		"at",
+		"univers",
+		"of",
+		"texa",
+		"at",
+		"austin"
+	],
 	"title": "SHD-Prover at University of Texas at Austin",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

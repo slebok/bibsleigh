@@ -1,14 +1,33 @@
 {
-	"author": ["Fred J. Pollack", "George W. Cox", "Dan W. Hammerstrom", "Kevin C. Kahn", "Konrad K. Lai", "Justin R. Rattner"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Fred J. Pollack",
+		"George W. Cox",
+		"Dan W. Hammerstrom",
+		"Kevin C. Kahn",
+		"Konrad K. Lai",
+		"Justin R. Rattner"
+	],
+	"booktitle": "Proceedings of the First Symposium on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1982",
 	"dblpkey": "conf/asplos/PollackCHKLR82",
 	"doi": "10.1145/800050.801835",
 	"ee": "http://doi.acm.org/10.1145/800050.801835",
 	"pages": "117-131",
 	"publisher": "ACM Press",
-	"stemmed": ["support", "ada", "memori", "manag", "in", "the", "iapx"],
-	"tag": ["ada", "memory management"],
+	"stemmed": [
+		"support",
+		"ada",
+		"memori",
+		"manag",
+		"in",
+		"the",
+		"iapx"
+	],
+	"tag": [
+		"ada",
+		"memory management"
+	],
 	"title": "Supporting Ada Memory Management in the iAPX-432",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

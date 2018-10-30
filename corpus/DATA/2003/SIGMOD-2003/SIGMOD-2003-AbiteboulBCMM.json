@@ -1,6 +1,12 @@
 {
-	"author": ["Serge Abiteboul", "Angela Bonifati", "Gregory Cobena", "Ioana Manolescu", "Tova Milo"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Serge Abiteboul",
+		"Angela Bonifati",
+		"Gregory Cobena",
+		"Ioana Manolescu",
+		"Tova Milo"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/AbiteboulBCMM03",
@@ -8,8 +14,20 @@
 	"ee": "http://doi.acm.org/10.1145/872757.872821",
 	"pages": "527-538",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "xml", "document", "with", "distribut", "and", "replic"],
-	"tag": ["documentation", "replication", "xml"],
+	"stemmed": [
+		"dynam",
+		"xml",
+		"document",
+		"with",
+		"distribut",
+		"and",
+		"replic"
+	],
+	"tag": [
+		"documentation",
+		"replication",
+		"xml"
+	],
 	"title": "Dynamic XML documents with distribution and replication",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

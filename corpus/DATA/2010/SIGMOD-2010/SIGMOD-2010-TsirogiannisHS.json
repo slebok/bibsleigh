@@ -1,6 +1,10 @@
 {
-	"author": ["Dimitris Tsirogiannis", "Stavros Harizopoulos", "Mehul A. Shah"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Dimitris Tsirogiannis",
+		"Stavros Harizopoulos",
+		"Mehul A. Shah"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/TsirogiannisHS10",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807194",
 	"pages": "231-242",
 	"publisher": "ACM",
-	"stemmed": ["analyz", "the", "energi", "effici", "of", "a", "databas", "server"],
-	"tag": ["database", "energy", "performance"],
+	"stemmed": [
+		"analyz",
+		"the",
+		"energi",
+		"effici",
+		"of",
+		"a",
+		"databas",
+		"server"
+	],
+	"tag": [
+		"database",
+		"energy",
+		"performance"
+	],
 	"title": "Analyzing the energy efficiency of a database server",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

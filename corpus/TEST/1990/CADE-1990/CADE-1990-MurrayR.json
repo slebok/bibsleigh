@@ -1,6 +1,10 @@
 {
-	"author": ["Neil V. Murray", "Erik Rosenthal"],
-	"booktitle": "CADE",
+	"author": [
+		"Neil V. Murray",
+		"Erik Rosenthal"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/MurrayR90",
 	"doi": "10.1007/3-540-52885-7_132",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["dissolv", "a", "dissolut", "base", "theorem", "prover"],
-	"tag": ["named", "proving", "theorem proving"],
+	"stemmed": [
+		"dissolv",
+		"a",
+		"dissolut",
+		"base",
+		"theorem",
+		"prover"
+	],
+	"tag": [
+		"named",
+		"proving",
+		"theorem proving"
+	],
 	"title": "DISSOLVER: A Dissolution-based Theorem Prover",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

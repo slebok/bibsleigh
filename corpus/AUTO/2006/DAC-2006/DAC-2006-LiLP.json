@@ -1,14 +1,38 @@
 {
-	"author": ["Xin Li", "Jiayong Le", "Lawrence T. Pileggi"],
-	"booktitle": "DAC",
+	"author": [
+		"Xin Li",
+		"Jiayong Le",
+		"Lawrence T. Pileggi"
+	],
+	"booktitle": "Proceedings of the 43rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/LiLP06",
 	"doi": "10.1145/1146909.1146941",
 	"ee": "http://doi.acm.org/10.1145/1146909.1146941",
 	"pages": "103-108",
 	"publisher": "ACM",
-	"stemmed": ["project", "base", "statist", "analysi", "of", "full", "chip", "leakag", "power", "with", "non", "log", "normal", "distribut"],
-	"tag": ["analysis", "power management", "statistics"],
+	"stemmed": [
+		"project",
+		"base",
+		"statist",
+		"analysi",
+		"of",
+		"full",
+		"chip",
+		"leakag",
+		"power",
+		"with",
+		"non",
+		"log",
+		"normal",
+		"distribut"
+	],
+	"tag": [
+		"analysis",
+		"power management",
+		"statistics"
+	],
 	"title": "Projection-based statistical analysis of full-chip leakage power with non-log-normal distributions",
 	"type": "inproceedings",
 	"venue": "DAC",

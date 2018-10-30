@@ -1,6 +1,7 @@
 {
 	"author": "Andreas Meier",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 17th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2000",
 	"dblpkey": "conf/cade/Meier00",
 	"doi": "10.1007/10721959_37",
@@ -10,11 +11,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "tramp", "transform", "of", "machin", "found", "proof", "into", "nd", "proof", "at", "the", "assert", "level"],
-	"tag": ["proving"],
+	"stemmed": [
+		"system",
+		"descript",
+		"tramp",
+		"transform",
+		"of",
+		"machin",
+		"found",
+		"proof",
+		"into",
+		"nd",
+		"proof",
+		"at",
+		"the",
+		"assert",
+		"level"
+	],
+	"tag": [
+		"proving"
+	],
 	"title": "System Description: TRAMP: Transformation of Machine-Found Proofs into ND-Proofs at the Assertion Level",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1831,
+	"volume": "1831",
 	"year": 2000
 }

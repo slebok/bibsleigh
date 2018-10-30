@@ -1,15 +1,38 @@
 {
-	"author": ["Shinji Tsuruoka", "Toru Tanaka", "Tomohiro Yoshikawa", "Tsuyoshi Shinogi", "Kensuke Takao"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Shinji Tsuruoka",
+		"Toru Tanaka",
+		"Tomohiro Yoshikawa",
+		"Tsuyoshi Shinogi",
+		"Kensuke Takao"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2001",
 	"dblpkey": "conf/icdar/TsuruokaTYST01",
 	"doi": "10.1109/ICDAR.2001.953882",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2001.953882", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953882"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2001.953882",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2001.953882"
+	],
 	"pages": "709-715",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["region", "segment", "for", "tabl", "imag", "with", "unknown", "complex", "structur"],
-	"tag": ["image", "segmentation"],
+	"stemmed": [
+		"region",
+		"segment",
+		"for",
+		"tabl",
+		"imag",
+		"with",
+		"unknown",
+		"complex",
+		"structur"
+	],
+	"tag": [
+		"image",
+		"segmentation"
+	],
 	"title": "Region Segmentation for Table Image with Unknown Complex Structure",
 	"type": "inproceedings",
 	"venue": "ICDAR",

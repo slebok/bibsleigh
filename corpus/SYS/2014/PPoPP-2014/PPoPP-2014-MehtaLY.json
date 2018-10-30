@@ -1,14 +1,29 @@
 {
-	"author": ["Sanyam Mehta", "Pei-Hung Lin", "Pen-Chung Yew"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Sanyam Mehta",
+		"Pei-Hung Lin",
+		"Pen-Chung Yew"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/MehtaLY14",
 	"doi": "10.1145/2555243.2555250",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555250",
 	"pages": "233-246",
 	"publisher": "ACM",
-	"stemmed": ["revisit", "loop", "fusion", "in", "the", "polyhedr", "framework"],
-	"tag": ["framework"],
+	"stemmed": [
+		"revisit",
+		"loop",
+		"fusion",
+		"in",
+		"the",
+		"polyhedr",
+		"framework"
+	],
+	"tag": [
+		"framework"
+	],
 	"title": "Revisiting loop fusion in the polyhedral framework",
 	"type": "inproceedings",
 	"venue": "PPoPP",

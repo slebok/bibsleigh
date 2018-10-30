@@ -1,6 +1,7 @@
 {
 	"author": "Lawrence J. Mazlack",
 	"booktitle": "Proceedings of the Second International Conference on Information Storage and Retrieval: Information Implications into the Eighties",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1979/P033.pdf",
 	"crossref": "conf/sigir/79",
 	"dblpkey": "conf/sigir/Mazlack79",
@@ -8,8 +9,24 @@
 	"ee": "http://doi.acm.org/10.1145/511706.511711",
 	"pages": "33-40",
 	"publisher": "ACM",
-	"stemmed": ["an", "empir", "comparison", "tree", "and", "lattic", "structur", "for", "symbol", "data", "base"],
-	"tag": ["comparison", "database", "empirical"],
+	"stemmed": [
+		"an",
+		"empir",
+		"comparison",
+		"tree",
+		"and",
+		"lattic",
+		"structur",
+		"for",
+		"symbol",
+		"data",
+		"base"
+	],
+	"tag": [
+		"comparison",
+		"database",
+		"empirical"
+	],
 	"title": "An Empirical Comparison: Tree and Lattice Structures for Symbolic Data Bases",
 	"type": "inproceedings",
 	"venue": "SIGIR",

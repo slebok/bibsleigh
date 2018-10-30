@@ -1,14 +1,37 @@
 {
-	"author": ["Andrew DeOrio", "Konstantinos Aisopos", "Valeria Bertacco", "Li-Shiuan Peh"],
-	"booktitle": "DAC",
+	"author": [
+		"Andrew DeOrio",
+		"Konstantinos Aisopos",
+		"Valeria Bertacco",
+		"Li-Shiuan Peh"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/DeOrioABP11",
 	"doi": "10.1145/2024724.2024928",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024928",
 	"pages": "912-917",
 	"publisher": "ACM",
-	"stemmed": ["drain", "distribut", "recoveri", "architectur", "for", "inaccess", "node", "in", "multi", "core", "chip"],
-	"tag": ["architecture", "distributed", "manycore", "named"],
+	"stemmed": [
+		"drain",
+		"distribut",
+		"recoveri",
+		"architectur",
+		"for",
+		"inaccess",
+		"node",
+		"in",
+		"multi",
+		"core",
+		"chip"
+	],
+	"tag": [
+		"architecture",
+		"distributed",
+		"manycore",
+		"named"
+	],
 	"title": "DRAIN: distributed recovery architecture for inaccessible nodes in multi-core chips",
 	"type": "inproceedings",
 	"venue": "DAC",

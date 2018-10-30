@@ -1,13 +1,32 @@
 {
-	"author": ["Sebastian Erdweg", "Moritz Lichter", "Manuel Weiel"],
-	"booktitle": "OOPSLA",
+	"author": [
+		"Sebastian Erdweg",
+		"Moritz Lichter",
+		"Manuel Weiel"
+	],
+	"booktitle": "Proceedings of the 30th Conference on Object-Oriented Programming, Systems, Languages and Applications",
+	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2015",
 	"dblpkey": "conf/oopsla/ErdwegLW15",
 	"doi": "10.1145/2814270.2814316",
 	"pages": "89-106",
 	"publisher": "ACM",
-	"stemmed": ["a", "sound", "and", "optim", "increment", "build", "system", "with", "dynam", "depend"],
-	"tag": ["dependence", "incremental"],
+	"stemmed": [
+		"a",
+		"sound",
+		"and",
+		"optim",
+		"increment",
+		"build",
+		"system",
+		"with",
+		"dynam",
+		"depend"
+	],
+	"tag": [
+		"dependence",
+		"incremental"
+	],
 	"title": "A sound and optimal incremental build system with dynamic dependencies",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

@@ -1,6 +1,7 @@
 {
 	"author": "David A. Plaisted",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/Plaisted94",
 	"doi": "10.1007/3-540-58156-1_5",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "search", "effici", "of", "theorem", "prove", "strategi"],
-	"tag": ["performance", "proving", "theorem proving"],
+	"stemmed": [
+		"the",
+		"search",
+		"effici",
+		"of",
+		"theorem",
+		"prove",
+		"strategi"
+	],
+	"tag": [
+		"performance",
+		"proving",
+		"theorem proving"
+	],
 	"title": "The Search Efficiency of Theorem Proving Strategies",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

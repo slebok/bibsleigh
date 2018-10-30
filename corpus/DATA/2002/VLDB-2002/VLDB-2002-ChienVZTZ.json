@@ -1,13 +1,32 @@
 {
-	"author": ["Shu-Yao Chien", "Zografoula Vagena", "Donghui Zhang", "Vassilis J. Tsotras", "Carlo Zaniolo"],
-	"booktitle": "VLDB",
+	"author": [
+		"Shu-Yao Chien",
+		"Zografoula Vagena",
+		"Donghui Zhang",
+		"Vassilis J. Tsotras",
+		"Carlo Zaniolo"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/ChienVZTZ02",
 	"ee": "http://www.vldb.org/conf/2002/S08P03.pdf",
 	"pages": "263-274",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["effici", "structur", "join", "on", "index", "xml", "document"],
-	"tag": ["documentation", "performance", "xml"],
+	"stemmed": [
+		"effici",
+		"structur",
+		"join",
+		"on",
+		"index",
+		"xml",
+		"document"
+	],
+	"tag": [
+		"documentation",
+		"performance",
+		"xml"
+	],
 	"title": "Efficient Structural Joins on Indexed XML Documents",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,14 @@
 {
-	"author": ["Ananta K. Majhi", "Mohamed Azimane", "Guido Gronthoud", "Maurice Lousberg", "Stefan Eichenberger", "Fred Bowen"],
-	"booktitle": "DATE",
+	"author": [
+		"Ananta K. Majhi",
+		"Mohamed Azimane",
+		"Guido Gronthoud",
+		"Maurice Lousberg",
+		"Stefan Eichenberger",
+		"Fred Bowen"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/MajhiAGLEB05",
 	"doi": "10.1109/DATE.2005.206",
@@ -8,8 +16,23 @@
 	"pages": "438-443",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["memori", "test", "under", "differ", "stress", "condit", "an", "industri", "evalu"],
-	"tag": ["evaluation", "industrial", "memory management", "testing"],
+	"stemmed": [
+		"memori",
+		"test",
+		"under",
+		"differ",
+		"stress",
+		"condit",
+		"an",
+		"industri",
+		"evalu"
+	],
+	"tag": [
+		"evaluation",
+		"industrial",
+		"memory management",
+		"testing"
+	],
 	"title": "Memory Testing Under Different Stress Conditions: An Industrial Evaluation",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,6 +1,12 @@
 {
-	"author": ["Heinz Ulrich Hoppe", "Karin Ammersbach", "Barbara Lutes-Schaab", "Gaby Zinßmeister"],
+	"author": [
+		"Heinz Ulrich Hoppe",
+		"Karin Ammersbach",
+		"Barbara Lutes-Schaab",
+		"Gaby Zinßmeister"
+	],
 	"booktitle": "Proceedings of the 13th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1990/P063.pdf",
 	"crossref": "conf/sigir/90",
 	"dblpkey": "conf/sigir/HoppeALZ90",
@@ -8,8 +14,21 @@
 	"ee": "http://doi.acm.org/10.1145/96749.98009",
 	"pages": "63-81",
 	"publisher": "ACM",
-	"stemmed": ["express", "an", "experiment", "interfac", "for", "factual", "inform", "retriev"],
-	"tag": ["information retrieval", "interface", "named"],
+	"stemmed": [
+		"express",
+		"an",
+		"experiment",
+		"interfac",
+		"for",
+		"factual",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"information retrieval",
+		"interface",
+		"named"
+	],
 	"title": "EXPRESS: An Experimental Interface for Factual Information Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

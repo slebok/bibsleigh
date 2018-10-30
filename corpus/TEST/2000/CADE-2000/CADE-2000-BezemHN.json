@@ -1,6 +1,11 @@
 {
-	"author": ["Marc Bezem", "Dimitri Hendriks", "Hans de Nivelle"],
-	"booktitle": "CADE",
+	"author": [
+		"Marc Bezem",
+		"Dimitri Hendriks",
+		"Hans de Nivelle"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2000",
 	"dblpkey": "conf/cade/BezemHN00",
 	"doi": "10.1007/10721959_10",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["autom", "proof", "construct", "in", "type", "theori", "use", "resolut"],
-	"tag": ["automation", "proving", "type system", "using"],
+	"stemmed": [
+		"autom",
+		"proof",
+		"construct",
+		"in",
+		"type",
+		"theori",
+		"use",
+		"resolut"
+	],
+	"tag": [
+		"automation",
+		"proving",
+		"type system",
+		"using"
+	],
 	"title": "Automated Proof Construction in Type Theory Using Resolution",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1831,
+	"volume": "1831",
 	"year": 2000
 }

@@ -1,14 +1,36 @@
 {
-	"author": ["Junfu Yin", "Zhigang Zheng", "Longbing Cao"],
-	"booktitle": "KDD",
+	"author": [
+		"Junfu Yin",
+		"Zhigang Zheng",
+		"Longbing Cao"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/YinZC12",
 	"doi": "10.1145/2339530.2339636",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339636",
 	"pages": "660-668",
 	"publisher": "ACM",
-	"stemmed": ["u", "span", "an", "effici", "algorithm", "for", "mine", "high", "util", "sequenti", "pattern"],
-	"tag": ["algorithm", "mining", "named", "performance"],
+	"stemmed": [
+		"u",
+		"span",
+		"an",
+		"effici",
+		"algorithm",
+		"for",
+		"mine",
+		"high",
+		"util",
+		"sequenti",
+		"pattern"
+	],
+	"tag": [
+		"algorithm",
+		"mining",
+		"named",
+		"performance"
+	],
 	"title": "USpan: an efficient algorithm for mining high utility sequential patterns",
 	"type": "inproceedings",
 	"venue": "KDD",

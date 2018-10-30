@@ -1,14 +1,28 @@
 {
-	"author": ["Guizhen Yang", "Michael Kifer", "Vinay K. Chaudhri"],
-	"booktitle": "PODS",
+	"author": [
+		"Guizhen Yang",
+		"Michael Kifer",
+		"Vinay K. Chaudhri"
+	],
+	"booktitle": "Proceedings of the 25th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2006",
 	"dblpkey": "conf/pods/YangKC06",
 	"doi": "10.1145/1142351.1142378",
 	"ee": "http://doi.acm.org/10.1145/1142351.1142378",
 	"pages": "183-192",
 	"publisher": "ACM",
-	"stemmed": ["effici", "order", "subgoal", "with", "access", "constraint"],
-	"tag": ["constraints"],
+	"stemmed": [
+		"effici",
+		"order",
+		"subgoal",
+		"with",
+		"access",
+		"constraint"
+	],
+	"tag": [
+		"constraints"
+	],
 	"title": "Efficiently ordering subgoals with access constraints",
 	"type": "inproceedings",
 	"venue": "PODS",

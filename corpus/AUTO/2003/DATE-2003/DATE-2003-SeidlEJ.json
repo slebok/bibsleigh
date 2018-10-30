@@ -1,16 +1,37 @@
 {
-	"acmid": 1022818,
-	"author": ["Ulrich Seidl", "Klaus Eckl", "Frank M. Johannes"],
-	"booktitle": "DATE",
+	"acmid": "1022818",
+	"author": [
+		"Ulrich Seidl",
+		"Klaus Eckl",
+		"Frank M. Johannes"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2003",
 	"dblpkey": "conf/date/SeidlEJ03",
 	"doi": "10.1109/DATE.2003.10046",
-	"ee": ["http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10046", "http://dl.acm.org/citation.cfm?id=1022818"],
+	"ee": [
+		"http://doi.ieeecomputersociety.org/10.1109/DATE.2003.10046",
+		"http://dl.acm.org/citation.cfm?id=1022818"
+	],
 	"pages": "10770-10777",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["perform", "direct", "retim", "for", "fpgas", "use", "post", "placement", "delay", "inform"],
-	"tag": ["using"],
+	"stemmed": [
+		"perform",
+		"direct",
+		"retim",
+		"for",
+		"fpgas",
+		"use",
+		"post",
+		"placement",
+		"delay",
+		"inform"
+	],
+	"tag": [
+		"using"
+	],
 	"title": "Performance-Directed Retiming for FPGAs Using Post-Placement Delay Information",
 	"type": "inproceedings",
 	"venue": "DATE",

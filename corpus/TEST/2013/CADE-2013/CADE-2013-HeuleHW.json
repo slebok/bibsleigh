@@ -1,6 +1,11 @@
 {
-	"author": ["Marijn Heule", "Warren A. Hunt Jr.", "Nathan Wetzler"],
-	"booktitle": "CADE",
+	"author": [
+		"Marijn Heule",
+		"Warren A. Hunt Jr.",
+		"Nathan Wetzler"
+	],
+	"booktitle": "Proceedings of the 24th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2013",
 	"dblpkey": "conf/cade/HeuleHW13",
 	"doi": "10.1007/978-3-642-38574-2_24",
@@ -10,11 +15,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["verifi", "refut", "with", "extend", "resolut"],
-	"tag": ["verification"],
+	"stemmed": [
+		"verifi",
+		"refut",
+		"with",
+		"extend",
+		"resolut"
+	],
+	"tag": [
+		"verification"
+	],
 	"title": "Verifying Refutations with Extended Resolution",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 7898,
+	"volume": "7898",
 	"year": 2013
 }

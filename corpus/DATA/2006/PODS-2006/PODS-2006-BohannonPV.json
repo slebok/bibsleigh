@@ -1,14 +1,30 @@
 {
-	"author": ["Aaron Bohannon", "Benjamin C. Pierce", "Jeffrey A. Vaughan"],
-	"booktitle": "PODS",
+	"author": [
+		"Aaron Bohannon",
+		"Benjamin C. Pierce",
+		"Jeffrey A. Vaughan"
+	],
+	"booktitle": "Proceedings of the 25th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2006",
 	"dblpkey": "conf/pods/BohannonPV06",
 	"doi": "10.1145/1142351.1142399",
 	"ee": "http://doi.acm.org/10.1145/1142351.1142399",
 	"pages": "338-347",
 	"publisher": "ACM",
-	"stemmed": ["relat", "lens", "a", "languag", "for", "updat", "view"],
-	"tag": ["lens", "relational"],
+	"stemmed": [
+		"relat",
+		"lens",
+		"a",
+		"languag",
+		"for",
+		"updat",
+		"view"
+	],
+	"tag": [
+		"lens",
+		"relational"
+	],
 	"title": "Relational lenses: a language for updatable views",
 	"type": "inproceedings",
 	"venue": "PODS",

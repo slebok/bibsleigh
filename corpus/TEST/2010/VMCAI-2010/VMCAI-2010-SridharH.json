@@ -1,6 +1,10 @@
 {
-	"author": ["Meera Sridhar", "Kevin W. Hamlen"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Meera Sridhar",
+		"Kevin W. Hamlen"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2010",
 	"dblpkey": "conf/vmcai/SridharH10",
 	"doi": "10.1007/978-3-642-11319-2_23",
@@ -10,11 +14,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["model", "check", "in", "line", "refer", "monitor"],
-	"tag": ["model checking", "monitoring"],
+	"stemmed": [
+		"model",
+		"check",
+		"in",
+		"line",
+		"refer",
+		"monitor"
+	],
+	"tag": [
+		"model checking",
+		"monitoring"
+	],
 	"title": "Model-Checking In-Lined Reference Monitors",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 5944,
+	"volume": "5944",
 	"year": 2010
 }

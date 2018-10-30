@@ -1,6 +1,11 @@
 {
-	"author": ["Ismail Kadayif", "Mahmut T. Kandemir", "Ibrahim Kolcu"],
-	"booktitle": "DATE",
+	"author": [
+		"Ismail Kadayif",
+		"Mahmut T. Kandemir",
+		"Ibrahim Kolcu"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/KadayifKK04",
 	"doi": "10.1109/DATE.2004.1269048",
@@ -8,8 +13,23 @@
 	"pages": "1158-1163",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["exploit", "processor", "workload", "heterogen", "for", "reduc", "energi", "consumpt", "in", "chip", "multiprocessor"],
-	"tag": ["energy", "multi"],
+	"stemmed": [
+		"exploit",
+		"processor",
+		"workload",
+		"heterogen",
+		"for",
+		"reduc",
+		"energi",
+		"consumpt",
+		"in",
+		"chip",
+		"multiprocessor"
+	],
+	"tag": [
+		"energy",
+		"multi"
+	],
 	"title": "Exploiting Processor Workload Heterogeneity for Reducing Energy Consumption in Chip Multiprocessors",
 	"type": "inproceedings",
 	"venue": "DATE",

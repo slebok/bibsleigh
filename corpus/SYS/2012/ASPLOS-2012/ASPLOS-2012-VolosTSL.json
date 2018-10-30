@@ -1,14 +1,32 @@
 {
-	"author": ["Haris Volos", "Andres Jaan Tack", "Michael M. Swift", "Shan Lu"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Haris Volos",
+		"Andres Jaan Tack",
+		"Michael M. Swift",
+		"Shan Lu"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2012",
 	"dblpkey": "conf/asplos/VolosTSL12",
 	"doi": "10.1145/2150976.2150999",
 	"ee": "http://doi.acm.org/10.1145/2150976.2150999",
 	"pages": "211-222",
 	"publisher": "ACM",
-	"stemmed": ["appli", "transact", "memori", "to", "concurr", "bug"],
-	"tag": ["concurrent", "debugging", "memory management", "transaction"],
+	"stemmed": [
+		"appli",
+		"transact",
+		"memori",
+		"to",
+		"concurr",
+		"bug"
+	],
+	"tag": [
+		"concurrent",
+		"debugging",
+		"memory management",
+		"transaction"
+	],
 	"title": "Applying transactional memory to concurrency bugs",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

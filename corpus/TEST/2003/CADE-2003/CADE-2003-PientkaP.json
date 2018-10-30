@@ -1,6 +1,10 @@
 {
-	"author": ["Brigitte Pientka", "Frank Pfenning"],
-	"booktitle": "CADE",
+	"author": [
+		"Brigitte Pientka",
+		"Frank Pfenning"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2003",
 	"dblpkey": "conf/cade/PientkaP03",
 	"doi": "10.1007/978-3-540-45085-6_40",
@@ -10,11 +14,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["optim", "higher", "order", "pattern", "unif"],
-	"tag": ["higher-order", "optimisation", "unification"],
+	"stemmed": [
+		"optim",
+		"higher",
+		"order",
+		"pattern",
+		"unif"
+	],
+	"tag": [
+		"higher-order",
+		"optimisation",
+		"unification"
+	],
 	"title": "Optimizing Higher-Order Pattern Unification",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2741,
+	"volume": "2741",
 	"year": 2003
 }

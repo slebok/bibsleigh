@@ -1,14 +1,41 @@
 {
-	"author": ["Peter Triantafillou", "Thomas Papadakis"],
-	"booktitle": "VLDB",
-	"cite": ["conf/sigmod/BersonGMJ94", "journals/csur/ChristodoulakisT95", "journals/comcom/GhandeharizadehDS95", "conf/mm/GhandeharizadehS94", "conf/compcon/KienzleDST95", "conf/sigmod/PattersonGK88", "conf/icde/SalemG86", "...", "..."],
+	"author": [
+		"Peter Triantafillou",
+		"Thomas Papadakis"
+	],
+	"booktitle": "Proceedings of the 23rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/sigmod/BersonGMJ94",
+		"journals/csur/ChristodoulakisT95",
+		"journals/comcom/GhandeharizadehDS95",
+		"conf/mm/GhandeharizadehS94",
+		"conf/compcon/KienzleDST95",
+		"conf/sigmod/PattersonGK88",
+		"conf/icde/SalemG86",
+		"...",
+		"..."
+	],
 	"crossref": "conf/vldb/97",
 	"dblpkey": "conf/vldb/TriantafillouP97",
 	"ee": "http://www.vldb.org/conf/1997/P226.PDF",
 	"pages": "226-235",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["on", "demand", "data", "elev", "in", "hierarch", "multimedia", "storag", "server"],
-	"tag": ["multi", "on-demand"],
+	"stemmed": [
+		"on",
+		"demand",
+		"data",
+		"elev",
+		"in",
+		"hierarch",
+		"multimedia",
+		"storag",
+		"server"
+	],
+	"tag": [
+		"multi",
+		"on-demand"
+	],
 	"title": "On-Demand Data Elevation in Hierarchical Multimedia Storage Servers",
 	"type": "inproceedings",
 	"venue": "VLDB",

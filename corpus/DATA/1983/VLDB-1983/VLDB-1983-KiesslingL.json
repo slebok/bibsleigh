@@ -1,14 +1,45 @@
 {
-	"author": ["Werner Kießling", "G. Landherr"],
-	"booktitle": "VLDB",
-	"cite": ["conf/vldb/Badal80", "...", "conf/ddb/BayerEHR82", "journals/tods/BayerHR80", "...", "journals/cacm/EswarranGLT76", "...", "conf/icalp/Gray80", "conf/vldb/KungR79", "...", "journals/is/MenasceN82", "journals/cacm/PotierL80", "journals/tods/RiesS79", "journals/tods/RosenkrantzSL78"],
+	"author": [
+		"Werner Kießling",
+		"G. Landherr"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/vldb/Badal80",
+		"...",
+		"conf/ddb/BayerEHR82",
+		"journals/tods/BayerHR80",
+		"...",
+		"journals/cacm/EswarranGLT76",
+		"...",
+		"conf/icalp/Gray80",
+		"conf/vldb/KungR79",
+		"...",
+		"journals/is/MenasceN82",
+		"journals/cacm/PotierL80",
+		"journals/tods/RiesS79",
+		"journals/tods/RosenkrantzSL78"
+	],
 	"crossref": "conf/vldb/83",
 	"dblpkey": "conf/vldb/KiesslingL83",
 	"ee": "http://www.vldb.org/conf/1983/P120.PDF",
 	"pages": "120-130",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["a", "quantit", "comparison", "of", "lockprotocol", "for", "central", "databas"],
-	"tag": ["comparison", "database"],
+	"stemmed": [
+		"a",
+		"quantit",
+		"comparison",
+		"of",
+		"lockprotocol",
+		"for",
+		"central",
+		"databas"
+	],
+	"tag": [
+		"comparison",
+		"database"
+	],
 	"title": "A Quantitative Comparison of Lockprotocols for Centralized Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

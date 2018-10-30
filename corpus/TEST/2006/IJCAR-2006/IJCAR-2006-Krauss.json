@@ -1,6 +1,7 @@
 {
 	"author": "Alexander Krauss",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/Krauss06",
 	"doi": "10.1007/11814771_48",
@@ -10,11 +11,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["partial", "recurs", "function", "in", "higher", "order", "logic"],
-	"tag": ["higher-order", "logic", "recursion"],
+	"stemmed": [
+		"partial",
+		"recurs",
+		"function",
+		"in",
+		"higher",
+		"order",
+		"logic"
+	],
+	"tag": [
+		"higher-order",
+		"logic",
+		"recursion"
+	],
 	"title": "Partial Recursive Functions in Higher-Order Logic",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

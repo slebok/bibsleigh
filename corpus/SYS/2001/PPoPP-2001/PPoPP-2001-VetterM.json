@@ -1,14 +1,34 @@
 {
-	"author": ["Jeffrey S. Vetter", "Michael O. McCracken"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Jeffrey S. Vetter",
+		"Michael O. McCracken"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2001",
 	"dblpkey": "conf/ppopp/VetterM01",
 	"doi": "10.1145/379539.379590",
 	"ee": "http://doi.acm.org/10.1145/379539.379590",
 	"pages": "123-132",
 	"publisher": "ACM",
-	"stemmed": ["statist", "scalabl", "analysi", "of", "communic", "oper", "in", "distribut", "applic"],
-	"tag": ["analysis", "communication", "distributed", "scalability", "statistics"],
+	"stemmed": [
+		"statist",
+		"scalabl",
+		"analysi",
+		"of",
+		"communic",
+		"oper",
+		"in",
+		"distribut",
+		"applic"
+	],
+	"tag": [
+		"analysis",
+		"communication",
+		"distributed",
+		"scalability",
+		"statistics"
+	],
 	"title": "Statistical scalability analysis of communication operations in distributed applications",
 	"type": "inproceedings",
 	"venue": "PPoPP",

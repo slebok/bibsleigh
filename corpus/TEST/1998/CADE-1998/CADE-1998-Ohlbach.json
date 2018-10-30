@@ -1,6 +1,7 @@
 {
 	"author": "Hans Jürgen Ohlbach",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 15th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1998",
 	"dblpkey": "conf/cade/Ohlbach98",
 	"ee": "http://link.springer.de/link/service/series/0558/bibs/1421/14210205.htm",
@@ -9,11 +10,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["combin", "hilbert", "style", "and", "semant", "reason", "in", "a", "resolut", "framework"],
-	"tag": ["framework", "reasoning", "semantics"],
+	"stemmed": [
+		"combin",
+		"hilbert",
+		"style",
+		"and",
+		"semant",
+		"reason",
+		"in",
+		"a",
+		"resolut",
+		"framework"
+	],
+	"tag": [
+		"framework",
+		"reasoning",
+		"semantics"
+	],
 	"title": "Combining Hilbert Style and Semantic Reasoning in a Resolution Framework",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1421,
+	"volume": "1421",
 	"year": 1998
 }

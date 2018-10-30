@@ -1,6 +1,10 @@
 {
-	"author": ["Douglas R. Cutting", "Jan O. Pedersen"],
+	"author": [
+		"Douglas R. Cutting",
+		"Jan O. Pedersen"
+	],
 	"booktitle": "Proceedings of the 13th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1990/P405.pdf",
 	"crossref": "conf/sigir/90",
 	"dblpkey": "conf/sigir/CuttingP90",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/96749.98245",
 	"pages": "405-411",
 	"publisher": "ACM",
-	"stemmed": ["optim", "for", "dynam", "invert", "index", "mainten"],
-	"tag": ["maintenance", "optimisation"],
+	"stemmed": [
+		"optim",
+		"for",
+		"dynam",
+		"invert",
+		"index",
+		"mainten"
+	],
+	"tag": [
+		"maintenance",
+		"optimisation"
+	],
 	"title": "Optimizations for Dynamic Inverted Index Maintenance",
 	"type": "inproceedings",
 	"venue": "SIGIR",

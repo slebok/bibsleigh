@@ -1,16 +1,45 @@
 {
-	"author": ["Jochen Van den Bercken", "Jens-Peter Dittrich", "Bernhard Seeger"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jochen Van den Bercken",
+		"Jens-Peter Dittrich",
+		"Bernhard Seeger"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
-	"cite": ["conf/edbt/BerckenSS00", "conf/sigmod/CareyDFHMNSSTTWZ94", "conf/icde/DittrichS00", "journals/tkde/Graefe94", "conf/vldb/HellersteinNP95", "books/cu/MehlhornN99", "..."],
+	"cite": [
+		"conf/edbt/BerckenSS00",
+		"conf/sigmod/CareyDFHMNSSTTWZ94",
+		"conf/icde/DittrichS00",
+		"journals/tkde/Graefe94",
+		"conf/vldb/HellersteinNP95",
+		"books/cu/MehlhornN99",
+		"..."
+	],
 	"crossref": "conf/sigmod/2000",
 	"dblpkey": "conf/sigmod/BerckenDS00",
 	"doi": "10.1145/342009.336562",
 	"ee": "http://doi.acm.org/10.1145/342009.336562",
-	"pages": 588,
+	"pages": "588",
 	"publisher": "ACM",
-	"stemmed": ["javax", "xxl", "a", "prototyp", "for", "a", "librari", "of", "queri", "process", "algorithm"],
-	"tag": ["algorithm", "library", "prototype", "query"],
+	"stemmed": [
+		"javax",
+		"xxl",
+		"a",
+		"prototyp",
+		"for",
+		"a",
+		"librari",
+		"of",
+		"queri",
+		"process",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"library",
+		"prototype",
+		"query"
+	],
 	"title": "javax.XXL: A prototype for a Library of Query processing Algorithms",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

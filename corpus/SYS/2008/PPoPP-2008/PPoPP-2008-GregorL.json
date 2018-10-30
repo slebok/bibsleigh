@@ -1,14 +1,39 @@
 {
-	"author": ["Douglas Gregor", "Andrew Lumsdaine"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Douglas Gregor",
+		"Andrew Lumsdaine"
+	],
+	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/GregorL08",
 	"doi": "10.1145/1345206.1345228",
 	"ee": "http://doi.acm.org/10.1145/1345206.1345228",
 	"pages": "133-142",
 	"publisher": "ACM",
-	"stemmed": ["design", "and", "implement", "of", "a", "high", "perform", "mpi", "for", "c", "and", "the", "common", "languag", "infrastructur"],
-	"tag": ["c#", "design", "framework", "implementation"],
+	"stemmed": [
+		"design",
+		"and",
+		"implement",
+		"of",
+		"a",
+		"high",
+		"perform",
+		"mpi",
+		"for",
+		"c",
+		"and",
+		"the",
+		"common",
+		"languag",
+		"infrastructur"
+	],
+	"tag": [
+		"c#",
+		"design",
+		"framework",
+		"implementation"
+	],
 	"title": "Design and implementation of a high-performance MPI for C# and the common language infrastructure",
 	"type": "inproceedings",
 	"venue": "PPoPP",

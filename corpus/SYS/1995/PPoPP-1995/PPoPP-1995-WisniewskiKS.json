@@ -1,14 +1,31 @@
 {
-	"author": ["Robert W. Wisniewski", "Leonidas I. Kontothanassis", "Michael L. Scott"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Robert W. Wisniewski",
+		"Leonidas I. Kontothanassis",
+		"Michael L. Scott"
+	],
+	"booktitle": "Proceedings of the Fifth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1995",
 	"dblpkey": "conf/ppopp/WisniewskiKS95",
 	"doi": "10.1145/209936.209957",
 	"ee": "http://doi.acm.org/10.1145/209936.209957",
 	"pages": "199-206",
 	"publisher": "ACM",
-	"stemmed": ["high", "perform", "synchron", "algorithm", "for", "multiprogram", "multiprocessor"],
-	"tag": ["algorithm", "multi", "performance"],
+	"stemmed": [
+		"high",
+		"perform",
+		"synchron",
+		"algorithm",
+		"for",
+		"multiprogram",
+		"multiprocessor"
+	],
+	"tag": [
+		"algorithm",
+		"multi",
+		"performance"
+	],
 	"title": "High Performance Synchronization Algorithms for Multiprogrammed Multiprocessors",
 	"type": "inproceedings",
 	"venue": "PPoPP",

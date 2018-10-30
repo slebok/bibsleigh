@@ -1,14 +1,31 @@
 {
-	"author": ["Subodh M. Reddy", "Gustavo R. Wilke", "Rajeev Murgai"],
-	"booktitle": "DATE",
+	"author": [
+		"Subodh M. Reddy",
+		"Gustavo R. Wilke",
+		"Rajeev Murgai"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2006p",
 	"dblpkey": "conf/date/ReddyWM06",
 	"doi": "10.1145/1131783",
 	"ee": "http://doi.acm.org/10.1145/1131783",
 	"pages": "1097-1102",
 	"publisher": "European Design and Automation Association, Leuven, Belgium",
-	"stemmed": ["analyz", "time", "uncertainti", "in", "mesh", "base", "clock", "architectur"],
-	"tag": ["architecture", "nondeterminism"],
+	"stemmed": [
+		"analyz",
+		"time",
+		"uncertainti",
+		"in",
+		"mesh",
+		"base",
+		"clock",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"nondeterminism"
+	],
 	"title": "Analyzing timing uncertainty in mesh-based clock architectures",
 	"type": "inproceedings",
 	"venue": "DATE",

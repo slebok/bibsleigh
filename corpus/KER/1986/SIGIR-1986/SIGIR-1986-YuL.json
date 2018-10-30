@@ -1,6 +1,10 @@
 {
-	"author": ["Clement T. Yu", "T. C. Lee"],
+	"author": [
+		"Clement T. Yu",
+		"T. C. Lee"
+	],
 	"booktitle": "Proceedings of the Ninth International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1986/P265.pdf",
 	"crossref": "conf/sigir/86",
 	"dblpkey": "conf/sigir/YuL86",
@@ -8,8 +12,15 @@
 	"ee": "http://doi.acm.org/10.1145/253168.253224",
 	"pages": "265-268",
 	"publisher": "ACM",
-	"stemmed": ["non", "binari", "independ", "model"],
-	"tag": ["independence"],
+	"stemmed": [
+		"non",
+		"binari",
+		"independ",
+		"model"
+	],
+	"tag": [
+		"independence"
+	],
 	"title": "Non-Binary Independence Model",
 	"type": "inproceedings",
 	"venue": "SIGIR",

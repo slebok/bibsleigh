@@ -1,6 +1,7 @@
 {
 	"author": "Jonathan Traugott",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Traugott86",
 	"doi": "10.1007/3-540-16780-3_106",
@@ -10,10 +11,13 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["nest", "resolut"],
+	"stemmed": [
+		"nest",
+		"resolut"
+	],
 	"title": "Nested Resolution",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

@@ -1,14 +1,39 @@
 {
-	"author": ["Jeffrey K. Hollingsworth", "R. Bruce Irvin", "Barton P. Miller"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Jeffrey K. Hollingsworth",
+		"R. Bruce Irvin",
+		"Barton P. Miller"
+	],
+	"booktitle": "Proceedings of the Third Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1991",
 	"dblpkey": "conf/ppopp/HollingsworthIM91",
 	"doi": "10.1145/109625.109645",
 	"ee": "http://doi.acm.org/10.1145/109625.109645",
 	"pages": "189-200",
 	"publisher": "ACM",
-	"stemmed": ["the", "integr", "of", "applic", "and", "system", "base", "metric", "in", "a", "parallel", "program", "perform", "tool"],
-	"tag": ["integration", "metric", "parallel", "performance"],
+	"stemmed": [
+		"the",
+		"integr",
+		"of",
+		"applic",
+		"and",
+		"system",
+		"base",
+		"metric",
+		"in",
+		"a",
+		"parallel",
+		"program",
+		"perform",
+		"tool"
+	],
+	"tag": [
+		"integration",
+		"metric",
+		"parallel",
+		"performance"
+	],
 	"title": "The Integration of Application and System Based Metrics in a Parallel Program Performance Tool",
 	"type": "inproceedings",
 	"venue": "PPoPP",

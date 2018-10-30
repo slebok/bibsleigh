@@ -1,15 +1,42 @@
 {
-	"author": ["Muhammad Umar Farooq", "Khubaib", "Lizy K. John"],
-	"booktitle": "HPCA",
+	"author": [
+		"Muhammad Umar Farooq",
+		"Khubaib",
+		"Lizy K. John"
+	],
+	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/FarooqKJ13",
 	"doi": "10.1109/HPCA.2013.6522307",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522307", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522307"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2013.6522307",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522307"
+	],
 	"pages": "59-70",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["store", "load", "branch", "slb", "predictor", "a", "compil", "assist", "branch", "predict", "for", "data", "depend", "branch"],
-	"tag": ["branch", "compilation", "predict"],
+	"stemmed": [
+		"store",
+		"load",
+		"branch",
+		"slb",
+		"predictor",
+		"a",
+		"compil",
+		"assist",
+		"branch",
+		"predict",
+		"for",
+		"data",
+		"depend",
+		"branch"
+	],
+	"tag": [
+		"branch",
+		"compilation",
+		"predict"
+	],
 	"title": "Store-Load-Branch (SLB) predictor: A compiler assisted branch prediction for data dependent branches",
 	"type": "inproceedings",
 	"venue": "HPCA",

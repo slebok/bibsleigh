@@ -1,13 +1,34 @@
 {
-	"author": ["Balakrishnan Iyer", "Ramesh Karri"],
-	"booktitle": "DAC",
+	"author": [
+		"Balakrishnan Iyer",
+		"Ramesh Karri"
+	],
+	"booktitle": "Proceedings of the 33rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/IyerK96",
 	"doi": "10.1145/240518.240544",
 	"ee": "http://doi.acm.org/10.1145/240518.240544",
 	"pages": "137-142",
 	"publisher": "ACM Press",
-	"stemmed": ["introspect", "a", "low", "overhead", "bind", "techniqu", "dure", "self", "diagnos", "microarchitectur", "synthesi"],
-	"tag": ["architecture", "named", "self", "synthesis"],
+	"stemmed": [
+		"introspect",
+		"a",
+		"low",
+		"overhead",
+		"bind",
+		"techniqu",
+		"dure",
+		"self",
+		"diagnos",
+		"microarchitectur",
+		"synthesi"
+	],
+	"tag": [
+		"architecture",
+		"named",
+		"self",
+		"synthesis"
+	],
 	"title": "Introspection: A Low Overhead Binding Technique During Self-Diagnosing Microarchitecture Synthesis",
 	"type": "inproceedings",
 	"venue": "DAC",

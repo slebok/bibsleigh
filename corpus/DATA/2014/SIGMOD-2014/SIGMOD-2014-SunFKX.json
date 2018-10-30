@@ -1,6 +1,11 @@
 {
-	"author": ["Liwen Sun", "Michael J. Franklin", "Sanjay Krishnan", "Reynold S. Xin"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Liwen Sun",
+		"Michael J. Franklin",
+		"Sanjay Krishnan",
+		"Reynold S. Xin"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/SunFKX14",
@@ -8,8 +13,19 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2610515",
 	"pages": "1115-1126",
 	"publisher": "ACM",
-	"stemmed": ["fine", "grain", "partit", "for", "aggress", "data", "skip"],
-	"tag": ["clustering", "fine-grained"],
+	"stemmed": [
+		"fine",
+		"grain",
+		"partit",
+		"for",
+		"aggress",
+		"data",
+		"skip"
+	],
+	"tag": [
+		"clustering",
+		"fine-grained"
+	],
 	"title": "Fine-grained partitioning for aggressive data skipping",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

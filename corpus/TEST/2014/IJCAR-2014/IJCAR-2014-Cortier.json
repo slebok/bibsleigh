@@ -1,6 +1,7 @@
 {
 	"author": "Véronique Cortier",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Seventh International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2014",
 	"dblpkey": "conf/cade/Cortier14",
 	"doi": "10.1007/978-3-319-08587-6_2",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["electron", "vote", "how", "logic", "can", "help"],
-	"tag": ["how", "logic"],
+	"stemmed": [
+		"electron",
+		"vote",
+		"how",
+		"logic",
+		"can",
+		"help"
+	],
+	"tag": [
+		"how",
+		"logic"
+	],
 	"title": "Electronic Voting: How Logic Can Help",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 8562,
+	"volume": "8562",
 	"year": 2014
 }

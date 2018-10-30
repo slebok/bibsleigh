@@ -1,6 +1,10 @@
 {
-	"author": ["René Müller", "Jens Teubner", "Gustavo Alonso"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"René Müller",
+		"Jens Teubner",
+		"Gustavo Alonso"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/MullerTA10",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807307",
 	"pages": "1159-1162",
 	"publisher": "ACM",
-	"stemmed": ["glacier", "a", "queri", "to", "hardwar", "compil"],
-	"tag": ["compilation", "named"],
+	"stemmed": [
+		"glacier",
+		"a",
+		"queri",
+		"to",
+		"hardwar",
+		"compil"
+	],
+	"tag": [
+		"compilation",
+		"named"
+	],
 	"title": "Glacier: a query-to-hardware compiler",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

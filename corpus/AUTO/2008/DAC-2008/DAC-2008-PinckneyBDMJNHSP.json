@@ -1,14 +1,32 @@
 {
-	"author": ["Nathaniel Ross Pinckney", "Thomas Barr", "Michael Dayringer", "Matthew McKnett", "Nan Jiang", "Carl Nygaard", "David Money Harris", "Joel Stanley", "Braden Phillips"],
-	"booktitle": "DAC",
+	"author": [
+		"Nathaniel Ross Pinckney",
+		"Thomas Barr",
+		"Michael Dayringer",
+		"Matthew McKnett",
+		"Nan Jiang",
+		"Carl Nygaard",
+		"David Money Harris",
+		"Joel Stanley",
+		"Braden Phillips"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/PinckneyBDMJNHSP08",
 	"doi": "10.1145/1391469.1391497",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391497",
 	"pages": "102-107",
 	"publisher": "ACM",
-	"stemmed": ["a", "mip", "r", "implement"],
-	"tag": ["implementation"],
+	"stemmed": [
+		"a",
+		"mip",
+		"r",
+		"implement"
+	],
+	"tag": [
+		"implementation"
+	],
 	"title": "A MIPS R2000 implementation",
 	"type": "inproceedings",
 	"venue": "DAC",

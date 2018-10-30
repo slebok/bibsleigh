@@ -1,14 +1,32 @@
 {
-	"author": ["Dan Alistarh", "Justin Kopinsky", "Jerry Li", "Nir Shavit"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Dan Alistarh",
+		"Justin Kopinsky",
+		"Jerry Li",
+		"Nir Shavit"
+	],
+	"booktitle": "Proceedings of the 20th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2015",
 	"dblpkey": "conf/ppopp/AlistarhKLS15",
 	"doi": "10.1145/2688500.2688523",
 	"ee": "http://doi.acm.org/10.1145/2688500.2688523",
 	"pages": "11-20",
 	"publisher": "ACM",
-	"stemmed": ["the", "spray", "list", "a", "scalabl", "relax", "prioriti", "queue"],
-	"tag": ["queue", "scalability"],
+	"stemmed": [
+		"the",
+		"spray",
+		"list",
+		"a",
+		"scalabl",
+		"relax",
+		"prioriti",
+		"queue"
+	],
+	"tag": [
+		"queue",
+		"scalability"
+	],
 	"title": "The SprayList: a scalable relaxed priority queue",
 	"type": "inproceedings",
 	"venue": "PPoPP",

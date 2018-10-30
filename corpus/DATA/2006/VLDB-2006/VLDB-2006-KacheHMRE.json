@@ -1,14 +1,36 @@
 {
-	"acmid": 1164237,
-	"author": ["Holger Kache", "Wook-Shin Han", "Volker Markl", "Vijayshankar Raman", "Stephan Ewen"],
-	"booktitle": "VLDB",
+	"acmid": "1164237",
+	"author": [
+		"Holger Kache",
+		"Wook-Shin Han",
+		"Volker Markl",
+		"Vijayshankar Raman",
+		"Stephan Ewen"
+	],
+	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
 	"dblpkey": "conf/vldb/KacheHMRE06",
 	"ee": "http://www.vldb.org/conf/2006/p1175-kache.pdf",
 	"pages": "1175-1178",
 	"publisher": "ACM",
-	"stemmed": ["pop", "fed", "progress", "queri", "optim", "for", "feder", "queri", "in", "db"],
-	"tag": ["named", "optimisation", "query"],
+	"stemmed": [
+		"pop",
+		"fed",
+		"progress",
+		"queri",
+		"optim",
+		"for",
+		"feder",
+		"queri",
+		"in",
+		"db"
+	],
+	"tag": [
+		"named",
+		"optimisation",
+		"query"
+	],
 	"title": "POP/FED: Progressive Query Optimization for Federated Queries in DB2",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,15 +1,37 @@
 {
 	"author": "Wei Hong",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 22nd ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD92/P019.PDF",
-	"cite": ["conf/icde/BhideS88", "conf/sigmod/CopelandABK88", "journals/tkde/DeWittGSBHR90", "conf/sigmod/Graefe90", "conf/pdis/HongS91", "conf/vldb/LuST91", "conf/dpds/PiraheshMCLS90", "conf/vldb/SchneiderD90", "journals/debu/Stonebraker86", "conf/vldb/StonebrakerKPO88", "journals/cacm/StonebrakerK91"],
+	"cite": [
+		"conf/icde/BhideS88",
+		"conf/sigmod/CopelandABK88",
+		"journals/tkde/DeWittGSBHR90",
+		"conf/sigmod/Graefe90",
+		"conf/pdis/HongS91",
+		"conf/vldb/LuST91",
+		"conf/dpds/PiraheshMCLS90",
+		"conf/vldb/SchneiderD90",
+		"journals/debu/Stonebraker86",
+		"conf/vldb/StonebrakerKPO88",
+		"journals/cacm/StonebrakerK91"
+	],
 	"crossref": "conf/sigmod/92",
 	"dblpkey": "conf/sigmod/Hong92",
 	"doi": "10.1145/130283.130292",
 	"ee": "http://doi.acm.org/10.1145/130283.130292",
 	"pages": "19-28",
-	"stemmed": ["exploit", "inter", "oper", "parallel", "in", "xprs"],
-	"tag": ["parallel"],
+	"stemmed": [
+		"exploit",
+		"inter",
+		"oper",
+		"parallel",
+		"in",
+		"xprs"
+	],
+	"tag": [
+		"parallel"
+	],
 	"title": "Exploiting Inter-Operation Parallelism in XPRS",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

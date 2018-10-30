@@ -1,15 +1,39 @@
 {
-	"author": ["Susan J. Eggers", "Arie Shoshani"],
-	"booktitle": "VLDB",
+	"author": [
+		"Susan J. Eggers",
+		"Arie Shoshani"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB80/P205.PDF",
-	"cite": ["...", "...", "journals/tods/Batory79", "...", "journals/cacm/Hahn74", "conf/sigmod/HammerN79", "books/cs/HorowitzS78", "books/aw/Knuth73", "conf/vldb/Svensson79", "journals/cacm/TarjanY79", "conf/vldb/TurnerHC79"],
+	"cite": [
+		"...",
+		"...",
+		"journals/tods/Batory79",
+		"...",
+		"journals/cacm/Hahn74",
+		"conf/sigmod/HammerN79",
+		"books/cs/HorowitzS78",
+		"books/aw/Knuth73",
+		"conf/vldb/Svensson79",
+		"journals/cacm/TarjanY79",
+		"conf/vldb/TurnerHC79"
+	],
 	"crossref": "conf/vldb/80",
 	"dblpkey": "conf/vldb/EggersS80",
 	"pages": "205-211",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["effici", "access", "of", "compress", "data"],
-	"tag": ["performance"],
+	"stemmed": [
+		"effici",
+		"access",
+		"of",
+		"compress",
+		"data"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Efficient Access of Compressed Data",
 	"type": "inproceedings",
 	"venue": "VLDB",

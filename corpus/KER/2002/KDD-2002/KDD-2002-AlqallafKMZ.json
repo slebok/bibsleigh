@@ -1,14 +1,36 @@
 {
-	"author": ["Fatemah A. Alqallaf", "Kjell P. Konis", "R. Douglas Martin", "Ruben H. Zamar"],
-	"booktitle": "KDD",
+	"author": [
+		"Fatemah A. Alqallaf",
+		"Kjell P. Konis",
+		"R. Douglas Martin",
+		"Ruben H. Zamar"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/AlqallafKMZ02",
 	"doi": "10.1145/775047.775050",
 	"ee": "http://doi.acm.org/10.1145/775047.775050",
 	"pages": "14-23",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "robust", "covari", "and", "correl", "estim", "for", "data", "mine"],
-	"tag": ["correlation", "data mining", "mining", "robust", "scalability"],
+	"stemmed": [
+		"scalabl",
+		"robust",
+		"covari",
+		"and",
+		"correl",
+		"estim",
+		"for",
+		"data",
+		"mine"
+	],
+	"tag": [
+		"correlation",
+		"data mining",
+		"mining",
+		"robust",
+		"scalability"
+	],
 	"title": "Scalable robust covariance and correlation estimates for data mining",
 	"type": "inproceedings",
 	"venue": "KDD",

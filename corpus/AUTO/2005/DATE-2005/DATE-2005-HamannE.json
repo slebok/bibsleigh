@@ -1,6 +1,10 @@
 {
-	"author": ["Arne Hamann", "Rolf Ernst"],
-	"booktitle": "DATE",
+	"author": [
+		"Arne Hamann",
+		"Rolf Ernst"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/HamannE05",
 	"doi": "10.1109/DATE.2005.299",
@@ -8,8 +12,22 @@
 	"pages": "312-317",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["tdma", "time", "slot", "and", "turn", "optim", "with", "evolutionari", "search", "techniqu"],
-	"tag": ["optimisation", "search-based"],
+	"stemmed": [
+		"tdma",
+		"time",
+		"slot",
+		"and",
+		"turn",
+		"optim",
+		"with",
+		"evolutionari",
+		"search",
+		"techniqu"
+	],
+	"tag": [
+		"optimisation",
+		"search-based"
+	],
 	"title": "TDMA Time Slot and Turn Optimization with Evolutionary Search Techniques",
 	"type": "inproceedings",
 	"venue": "DATE",

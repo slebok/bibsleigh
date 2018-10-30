@@ -1,15 +1,39 @@
 {
-	"author": ["Chun Liu", "Anand Sivasubramaniam", "Mahmut T. Kandemir"],
-	"booktitle": "HPCA",
+	"author": [
+		"Chun Liu",
+		"Anand Sivasubramaniam",
+		"Mahmut T. Kandemir"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2004",
 	"dblpkey": "conf/hpca/LiuSK04",
 	"doi": "10.1109/HPCA.2004.10017",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2004.10017", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2004.10017"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2004.10017",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2004.10017"
+	],
 	"pages": "176-185",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["organ", "the", "last", "line", "of", "defens", "befor", "hit", "the", "memori", "wall", "for", "cmp"],
-	"tag": ["memory management"],
+	"stemmed": [
+		"organ",
+		"the",
+		"last",
+		"line",
+		"of",
+		"defens",
+		"befor",
+		"hit",
+		"the",
+		"memori",
+		"wall",
+		"for",
+		"cmp"
+	],
+	"tag": [
+		"memory management"
+	],
 	"title": "Organizing the Last Line of Defense before Hitting the Memory Wall for CMP",
 	"type": "inproceedings",
 	"venue": "HPCA",

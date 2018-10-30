@@ -1,14 +1,36 @@
 {
-	"author": ["Sandeep Chaudhary", "Sebastian Fischmeister", "Lin Tan"],
-	"booktitle": "LCTES",
+	"author": [
+		"Sandeep Chaudhary",
+		"Sebastian Fischmeister",
+		"Lin Tan"
+	],
+	"booktitle": "Proceedings of the 15th Conference on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2014",
 	"dblpkey": "conf/lctrts/ChaudharyFT14",
 	"doi": "10.1145/2597809.2597823",
 	"ee": "http://doi.acm.org/10.1145/2597809.2597823",
 	"pages": "105-114",
 	"publisher": "ACM",
-	"stemmed": ["em", "spade", "a", "compil", "extens", "for", "check", "rule", "extract", "from", "processor", "specif"],
-	"tag": ["compilation", "named", "specification"],
+	"stemmed": [
+		"em",
+		"spade",
+		"a",
+		"compil",
+		"extens",
+		"for",
+		"check",
+		"rule",
+		"extract",
+		"from",
+		"processor",
+		"specif"
+	],
+	"tag": [
+		"compilation",
+		"named",
+		"specification"
+	],
 	"title": "em-SPADE: a compiler extension for checking rules extracted from processor specifications",
 	"type": "inproceedings",
 	"venue": "LCTES",

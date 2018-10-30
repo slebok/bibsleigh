@@ -1,14 +1,32 @@
 {
-	"author": ["Philip Reames", "George C. Necula"],
-	"booktitle": "ISMM",
+	"author": [
+		"Philip Reames",
+		"George C. Necula"
+	],
+	"booktitle": "Proceedings of the 12th International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2013",
 	"dblpkey": "conf/iwmm/ReamesN13",
 	"doi": "10.1145/2464157.2464158",
 	"ee": "http://doi.acm.org/10.1145/2464157.2464158",
 	"pages": "3-14",
 	"publisher": "ACM",
-	"stemmed": ["toward", "hint", "collect", "annot", "for", "decreas", "garbag", "collector", "paus", "time"],
-	"tag": ["garbage collection", "towards"],
+	"stemmed": [
+		"toward",
+		"hint",
+		"collect",
+		"annot",
+		"for",
+		"decreas",
+		"garbag",
+		"collector",
+		"paus",
+		"time"
+	],
+	"tag": [
+		"garbage collection",
+		"towards"
+	],
 	"title": "Towards hinted collection: annotations for decreasing garbage collector pause times",
 	"type": "inproceedings",
 	"venue": "ISMM",

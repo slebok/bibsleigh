@@ -1,6 +1,11 @@
 {
-	"author": ["Mourad Mechkour", "David J. Harper", "Gheorghe Muresan"],
+	"author": [
+		"Mourad Mechkour",
+		"David J. Harper",
+		"Gheorghe Muresan"
+	],
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P357.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/MechkourHM98",
@@ -8,8 +13,27 @@
 	"ee": "http://doi.acm.org/10.1145/290941.291047",
 	"pages": "357-358",
 	"publisher": "ACM",
-	"stemmed": ["the", "web", "cluster", "project", "use", "cluster", "for", "mediat", "access", "to", "the", "world", "wide", "web"],
-	"tag": ["clustering", "using", "web"],
+	"stemmed": [
+		"the",
+		"web",
+		"cluster",
+		"project",
+		"use",
+		"cluster",
+		"for",
+		"mediat",
+		"access",
+		"to",
+		"the",
+		"world",
+		"wide",
+		"web"
+	],
+	"tag": [
+		"clustering",
+		"using",
+		"web"
+	],
 	"title": "The WebCluster Project: Using Clustering for Mediating Access to the World Wide Web",
 	"type": "inproceedings",
 	"venue": "SIGIR",

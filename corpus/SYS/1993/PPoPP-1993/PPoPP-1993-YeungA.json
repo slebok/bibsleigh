@@ -1,14 +1,33 @@
 {
-	"author": ["Donald Yeung", "Anant Agarwal"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Donald Yeung",
+		"Anant Agarwal"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1993",
 	"dblpkey": "conf/ppopp/YeungA93",
 	"doi": "10.1145/155332.155352",
 	"ee": "http://doi.acm.org/10.1145/155332.155352",
 	"pages": "187-197",
 	"publisher": "ACM",
-	"stemmed": ["experi", "with", "fine", "grain", "synchron", "in", "mimd", "machin", "for", "precondit", "conjug", "gradient"],
-	"tag": ["experience"],
+	"stemmed": [
+		"experi",
+		"with",
+		"fine",
+		"grain",
+		"synchron",
+		"in",
+		"mimd",
+		"machin",
+		"for",
+		"precondit",
+		"conjug",
+		"gradient"
+	],
+	"tag": [
+		"experience"
+	],
 	"title": "Experience with Fine-Grain Synchronization in MIMD Machines for Preconditioned Conjugate Gradient",
 	"type": "inproceedings",
 	"venue": "PPoPP",

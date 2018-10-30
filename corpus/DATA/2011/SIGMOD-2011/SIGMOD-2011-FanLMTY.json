@@ -1,6 +1,12 @@
 {
-	"author": ["Wenfei Fan", "Jianzhong Li", "Shuai Ma", "Nan Tang", "Wenyuan Yu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Wenfei Fan",
+		"Jianzhong Li",
+		"Shuai Ma",
+		"Nan Tang",
+		"Wenyuan Yu"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/FanLMTY11",
@@ -8,8 +14,19 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989373",
 	"pages": "469-480",
 	"publisher": "ACM",
-	"stemmed": ["interact", "between", "record", "match", "and", "data", "repair"],
-	"tag": ["interactive", "program repair"],
+	"stemmed": [
+		"interact",
+		"between",
+		"record",
+		"match",
+		"and",
+		"data",
+		"repair"
+	],
+	"tag": [
+		"interactive",
+		"program repair"
+	],
 	"title": "Interaction between record matching and data repairing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

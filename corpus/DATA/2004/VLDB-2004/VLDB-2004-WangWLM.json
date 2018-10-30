@@ -1,13 +1,36 @@
 {
-	"author": ["Jiying Wang", "Ji-Rong Wen", "Frederick H. Lochovsky", "Wei-Ying Ma"],
-	"booktitle": "VLDB",
+	"author": [
+		"Jiying Wang",
+		"Ji-Rong Wen",
+		"Frederick H. Lochovsky",
+		"Wei-Ying Ma"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/WangWLM04",
 	"ee": "http://www.vldb.org/conf/2004/RS10P4.PDF",
 	"pages": "408-419",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["instanc", "base", "schema", "match", "for", "web", "databas", "by", "domain", "specif", "queri", "probe"],
-	"tag": ["database", "query", "web"],
+	"stemmed": [
+		"instanc",
+		"base",
+		"schema",
+		"match",
+		"for",
+		"web",
+		"databas",
+		"by",
+		"domain",
+		"specif",
+		"queri",
+		"probe"
+	],
+	"tag": [
+		"database",
+		"query",
+		"web"
+	],
 	"title": "Instance-based Schema Matching for Web Databases by Domain-specific Query Probing",
 	"type": "inproceedings",
 	"venue": "VLDB",

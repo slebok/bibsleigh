@@ -1,6 +1,12 @@
 {
-	"author": ["Remko Tronçon", "Maurice Bruynooghe", "Gerda Janssens", "Francky Catthoor"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Remko Tronçon",
+		"Maurice Bruynooghe",
+		"Gerda Janssens",
+		"Francky Catthoor"
+	],
+	"booktitle": "Proceedings of the Third International Workshop on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2002",
 	"dblpkey": "conf/vmcai/TronconBJC02",
 	"doi": "10.1007/3-540-47813-2_12",
@@ -10,11 +16,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["storag", "size", "reduct", "by", "in", "place", "map", "of", "array"],
-	"tag": ["array", "reduction"],
+	"stemmed": [
+		"storag",
+		"size",
+		"reduct",
+		"by",
+		"in",
+		"place",
+		"map",
+		"of",
+		"array"
+	],
+	"tag": [
+		"array",
+		"reduction"
+	],
 	"title": "Storage Size Reduction by In-place Mapping of Arrays",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2294,
+	"volume": "2294",
 	"year": 2002
 }

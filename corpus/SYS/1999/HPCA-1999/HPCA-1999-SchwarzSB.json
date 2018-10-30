@@ -1,15 +1,33 @@
 {
-	"author": ["Thomas J. E. Schwarz", "Jesse Steinberg", "Walter A. Burkhard"],
-	"booktitle": "HPCA",
+	"author": [
+		"Thomas J. E. Schwarz",
+		"Jesse Steinberg",
+		"Walter A. Burkhard"
+	],
+	"booktitle": "Proceedings of the Fifth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1999",
 	"dblpkey": "conf/hpca/SchwarzSB99",
 	"doi": "10.1109/HPCA.1999.744365",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1999.744365", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744365"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1999.744365",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744365"
+	],
 	"pages": "214-217",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["permut", "develop", "data", "layout", "pddl"],
-	"tag": ["development", "layout", "permutation"],
+	"stemmed": [
+		"permut",
+		"develop",
+		"data",
+		"layout",
+		"pddl"
+	],
+	"tag": [
+		"development",
+		"layout",
+		"permutation"
+	],
 	"title": "Permutation Development Data Layout (PDDL)",
 	"type": "inproceedings",
 	"venue": "HPCA",

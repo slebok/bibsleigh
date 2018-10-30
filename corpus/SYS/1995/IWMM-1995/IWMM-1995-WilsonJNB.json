@@ -1,6 +1,12 @@
 {
-	"author": ["Paul R. Wilson", "Mark S. Johnstone", "Michael Neely", "David Boles"],
-	"booktitle": "IWMM",
+	"author": [
+		"Paul R. Wilson",
+		"Mark S. Johnstone",
+		"Michael Neely",
+		"David Boles"
+	],
+	"booktitle": "Proceedings of the Second International Workshop on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/95",
 	"dblpkey": "conf/iwmm/WilsonJNB95",
 	"doi": "10.1007/3-540-60368-9_19",
@@ -10,11 +16,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["dynam", "storag", "alloc", "a", "survey", "and", "critic", "review"],
-	"tag": ["bibliography", "perspective"],
+	"stemmed": [
+		"dynam",
+		"storag",
+		"alloc",
+		"a",
+		"survey",
+		"and",
+		"critic",
+		"review"
+	],
+	"tag": [
+		"bibliography",
+		"perspective"
+	],
 	"title": "Dynamic Storage Allocation: A Survey and Critical Review",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 986,
+	"volume": "986",
 	"year": 1995
 }

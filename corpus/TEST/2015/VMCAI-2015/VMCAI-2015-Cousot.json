@@ -1,6 +1,7 @@
 {
 	"author": "Patrick Cousot",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the 16th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2015",
 	"dblpkey": "conf/vmcai/Cousot15",
 	"doi": "10.1007/978-3-662-46081-8_2",
@@ -10,11 +11,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["abstract", "induct", "by", "extrapol", "and", "interpol"],
-	"tag": ["induction"],
+	"stemmed": [
+		"abstract",
+		"induct",
+		"by",
+		"extrapol",
+		"and",
+		"interpol"
+	],
+	"tag": [
+		"induction"
+	],
 	"title": "Abstracting Induction by Extrapolation and Interpolation",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 8931,
+	"volume": "8931",
 	"year": 2015
 }

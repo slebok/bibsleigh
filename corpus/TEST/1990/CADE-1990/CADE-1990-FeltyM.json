@@ -1,6 +1,10 @@
 {
-	"author": ["Amy P. Felty", "Dale Miller"],
-	"booktitle": "CADE",
+	"author": [
+		"Amy P. Felty",
+		"Dale Miller"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1990",
 	"dblpkey": "conf/cade/FeltyM90",
 	"doi": "10.1007/3-540-52885-7_90",
@@ -10,11 +14,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["encod", "a", "depend", "type", "lambda", "calculus", "in", "a", "logic", "program", "languag"],
-	"tag": ["encoding", "logic programming", "programming language", "λ-calculus"],
+	"stemmed": [
+		"encod",
+		"a",
+		"depend",
+		"type",
+		"lambda",
+		"calculus",
+		"in",
+		"a",
+		"logic",
+		"program",
+		"languag"
+	],
+	"tag": [
+		"encoding",
+		"logic programming",
+		"programming language",
+		"λ-calculus"
+	],
 	"title": "Encoding a Dependent-Type Lambda-Calculus in a Logic Programming Language",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 449,
+	"volume": "449",
 	"year": 1990
 }

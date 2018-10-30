@@ -1,6 +1,10 @@
 {
-	"author": ["David Ameller", "Xavier Franch"],
-	"booktitle": "REFSQ",
+	"author": [
+		"David Ameller",
+		"Xavier Franch"
+	],
+	"booktitle": "Proceedings of the 16th International Working Conference on Requirements Engineering: Foundation for Software Quality",
+	"booktitleshort": "REFSQ",
 	"crossref": "conf/refsq/2010",
 	"dblpkey": "conf/refsq/AmellerF10",
 	"doi": "10.1007/978-3-642-14192-8_25",
@@ -9,11 +13,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["how", "do", "softwar", "architect", "consid", "non", "function", "requir", "a", "survey"],
-	"tag": ["architecture", "bibliography", "how", "non-functional", "requirements"],
+	"stemmed": [
+		"how",
+		"do",
+		"softwar",
+		"architect",
+		"consid",
+		"non",
+		"function",
+		"requir",
+		"a",
+		"survey"
+	],
+	"tag": [
+		"architecture",
+		"bibliography",
+		"how",
+		"non-functional",
+		"requirements"
+	],
 	"title": "How Do Software Architects Consider Non-Functional Requirements: A Survey",
 	"type": "inproceedings",
 	"venue": "REFSQ",
-	"volume": 6182,
+	"volume": "6182",
 	"year": 2010
 }

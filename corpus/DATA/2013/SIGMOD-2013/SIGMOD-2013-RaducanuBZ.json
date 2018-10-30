@@ -1,6 +1,10 @@
 {
-	"author": ["Bogdan Raducanu", "Peter A. Boncz", "Marcin Zukowski"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Bogdan Raducanu",
+		"Peter A. Boncz",
+		"Marcin Zukowski"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/RaducanuBZ13",
@@ -8,8 +12,15 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465292",
 	"pages": "1231-1242",
 	"publisher": "ACM",
-	"stemmed": ["micro", "adapt", "in", "vectorwis"],
-	"tag": ["adaptation"],
+	"stemmed": [
+		"micro",
+		"adapt",
+		"in",
+		"vectorwis"
+	],
+	"tag": [
+		"adaptation"
+	],
 	"title": "Micro adaptivity in Vectorwise",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

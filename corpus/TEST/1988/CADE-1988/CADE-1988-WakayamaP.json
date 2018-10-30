@@ -1,6 +1,10 @@
 {
-	"author": ["Toshiro Wakayama", "T. H. Payne"],
-	"booktitle": "CADE",
+	"author": [
+		"Toshiro Wakayama",
+		"T. H. Payne"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/WakayamaP88",
 	"doi": "10.1007/BFb0012839",
@@ -10,10 +14,17 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["case", "infer", "in", "resolut", "base", "languag"],
+	"stemmed": [
+		"case",
+		"infer",
+		"in",
+		"resolut",
+		"base",
+		"languag"
+	],
 	"title": "Case Inference in Resolution-Based Languages",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

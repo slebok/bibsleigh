@@ -1,15 +1,37 @@
 {
-	"author": ["Frank Rosner", "Alexander Hinneburg", "Martin Gleditzsch", "Matthias Priebe", "Andreas Both"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Frank Rosner",
+		"Alexander Hinneburg",
+		"Martin Gleditzsch",
+		"Matthias Priebe",
+		"Andreas Both"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/RosnerHGPB12",
 	"doi": "10.1145/2213836.2213976",
 	"ee": "http://doi.acm.org/10.1145/2213836.2213976",
-	"pages": 866,
+	"pages": "866",
 	"publisher": "ACM",
-	"stemmed": ["fast", "sampl", "word", "correl", "of", "high", "dimension", "text", "data", "abstract", "onli"],
-	"tag": ["correlation", "performance", "word"],
+	"stemmed": [
+		"fast",
+		"sampl",
+		"word",
+		"correl",
+		"of",
+		"high",
+		"dimension",
+		"text",
+		"data",
+		"abstract",
+		"onli"
+	],
+	"tag": [
+		"correlation",
+		"performance",
+		"word"
+	],
 	"title": "Fast sampling word correlations of high dimensional text data (abstract only)",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

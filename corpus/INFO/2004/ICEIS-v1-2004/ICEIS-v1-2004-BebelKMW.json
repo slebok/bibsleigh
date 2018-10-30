@@ -1,11 +1,28 @@
 {
-	"author": ["Bartosz Bebel", "Zbyszko Królikowski", "Tadeusz Morzy", "Robert Wrembel"],
-	"booktitle": "ICEIS (1)",
+	"author": [
+		"Bartosz Bebel",
+		"Zbyszko Królikowski",
+		"Tadeusz Morzy",
+		"Robert Wrembel"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Enterprise Information Systems, Volume 1",
 	"booktitleshort": "ICEIS v1",
 	"dblpkey": "conf/iceis/BebelKMW04",
 	"pages": "290-297",
-	"stemmed": ["transact", "concept", "for", "support", "chang", "in", "data", "warehous"],
-	"tag": ["concept", "transaction"],
+	"stemmed": [
+		"transact",
+		"concept",
+		"for",
+		"support",
+		"chang",
+		"in",
+		"data",
+		"warehous"
+	],
+	"tag": [
+		"concept",
+		"transaction"
+	],
 	"title": "Transaction Concepts for Supporting Changes in Data Warehouses",
 	"type": "inproceedings",
 	"venue": "ICEIS",

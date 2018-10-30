@@ -1,6 +1,10 @@
 {
-	"author": ["Pierre Salverda", "Craig B. Zilles"],
-	"booktitle": "HPCA",
+	"author": [
+		"Pierre Salverda",
+		"Craig B. Zilles"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2008",
 	"dblpkey": "conf/hpca/SalverdaZ08",
 	"doi": "10.1109/HPCA.2008.4658644",
@@ -8,8 +12,22 @@
 	"pages": "252-263",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["fundament", "perform", "constraint", "in", "horizont", "fusion", "of", "in", "order", "core"],
-	"tag": ["constraints", "performance"],
+	"stemmed": [
+		"fundament",
+		"perform",
+		"constraint",
+		"in",
+		"horizont",
+		"fusion",
+		"of",
+		"in",
+		"order",
+		"core"
+	],
+	"tag": [
+		"constraints",
+		"performance"
+	],
 	"title": "Fundamental performance constraints in horizontal fusion of in-order cores",
 	"type": "inproceedings",
 	"venue": "HPCA",

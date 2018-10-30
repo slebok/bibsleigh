@@ -1,6 +1,15 @@
 {
-	"author": ["Sameer Agarwal", "Henry Milner", "Ariel Kleiner", "Ameet Talwalkar", "Michael I. Jordan", "Samuel Madden", "Barzan Mozafari", "Ion Stoica"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Sameer Agarwal",
+		"Henry Milner",
+		"Ariel Kleiner",
+		"Ameet Talwalkar",
+		"Michael I. Jordan",
+		"Samuel Madden",
+		"Barzan Mozafari",
+		"Ion Stoica"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/AgarwalMKTJMMS14",
@@ -8,8 +17,27 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2593667",
 	"pages": "481-492",
 	"publisher": "ACM",
-	"stemmed": ["know", "when", "you", "re", "wrong", "build", "fast", "and", "reliabl", "approxim", "queri", "process", "system"],
-	"tag": ["approximate", "performance", "query", "reliability"],
+	"stemmed": [
+		"know",
+		"when",
+		"you",
+		"re",
+		"wrong",
+		"build",
+		"fast",
+		"and",
+		"reliabl",
+		"approxim",
+		"queri",
+		"process",
+		"system"
+	],
+	"tag": [
+		"approximate",
+		"performance",
+		"query",
+		"reliability"
+	],
 	"title": "Knowing when you’re wrong: building fast and reliable approximate query processing systems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

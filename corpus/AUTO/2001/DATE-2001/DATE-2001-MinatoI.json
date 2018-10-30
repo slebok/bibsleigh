@@ -1,14 +1,32 @@
 {
-	"author": ["Shin-ichi Minato", "Shinya Ishihara"],
-	"booktitle": "DATE",
+	"author": [
+		"Shin-ichi Minato",
+		"Shinya Ishihara"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2001",
 	"dblpkey": "conf/date/MinatoI01",
 	"doi": "10.1145/367072.367856",
 	"ee": "http://doi.acm.org/10.1145/367072.367856",
 	"pages": "702-707",
 	"publisher": "ACM",
-	"stemmed": ["stream", "bdd", "manipul", "for", "larg", "scale", "combinatori", "problem"],
-	"tag": ["combinator", "problem", "scalability", "streaming"],
+	"stemmed": [
+		"stream",
+		"bdd",
+		"manipul",
+		"for",
+		"larg",
+		"scale",
+		"combinatori",
+		"problem"
+	],
+	"tag": [
+		"combinator",
+		"problem",
+		"scalability",
+		"streaming"
+	],
 	"title": "Streaming BDD manipulation for large-scale combinatorial problems",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,13 +1,36 @@
 {
-	"author": ["Tong Li", "Ching-Han Tsai", "Elyse Rosenbaum", "Sung-Mo Kang"],
-	"booktitle": "DAC",
+	"author": [
+		"Tong Li",
+		"Ching-Han Tsai",
+		"Elyse Rosenbaum",
+		"Sung-Mo Kang"
+	],
+	"booktitle": "Proceedings of the 36th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/LiTRK99",
 	"doi": "10.1145/309847.309996",
 	"ee": "http://doi.acm.org/10.1145/309847.309996",
 	"pages": "549-554",
 	"publisher": "ACM Press",
-	"stemmed": ["substrat", "model", "and", "lump", "substrat", "resist", "extract", "for", "cmos", "esd", "latchup", "circuit", "simul"],
-	"tag": ["modelling", "simulation"],
+	"stemmed": [
+		"substrat",
+		"model",
+		"and",
+		"lump",
+		"substrat",
+		"resist",
+		"extract",
+		"for",
+		"cmos",
+		"esd",
+		"latchup",
+		"circuit",
+		"simul"
+	],
+	"tag": [
+		"modelling",
+		"simulation"
+	],
 	"title": "Substrate Modeling and Lumped Substrate Resistance Extraction for CMOS ESD/Latchup Circuit Simulation",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,6 +1,7 @@
 {
 	"author": "Guy Vardi",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the 10th Conference on Hypertext and Hypermedia",
+	"booktitleshort": "HT",
 	"cdrom": "HT1999/P131.pdf",
 	"crossref": "conf/ht/99",
 	"dblpkey": "conf/ht/Vardi99",
@@ -8,8 +9,21 @@
 	"ee": "http://doi.acm.org/10.1145/294469.294500",
 	"pages": "131-132",
 	"publisher": "ACM",
-	"stemmed": ["navig", "scheme", "for", "interact", "movi", "with", "linear", "narrat"],
-	"tag": ["interactive", "linear", "navigation"],
+	"stemmed": [
+		"navig",
+		"scheme",
+		"for",
+		"interact",
+		"movi",
+		"with",
+		"linear",
+		"narrat"
+	],
+	"tag": [
+		"interactive",
+		"linear",
+		"navigation"
+	],
 	"title": "Navigation Scheme for Interactive Movies with Linear Narrative",
 	"type": "inproceedings",
 	"venue": "HT",

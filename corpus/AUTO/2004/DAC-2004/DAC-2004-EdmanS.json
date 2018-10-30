@@ -1,14 +1,31 @@
 {
-	"author": ["Anders Edman", "Christer Svensson"],
-	"booktitle": "DAC",
+	"author": [
+		"Anders Edman",
+		"Christer Svensson"
+	],
+	"booktitle": "Proceedings of the 41st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2004",
 	"dblpkey": "conf/dac/EdmanS04",
 	"doi": "10.1145/996566.996586",
 	"ee": "http://doi.acm.org/10.1145/996566.996586",
 	"pages": "71-74",
 	"publisher": "ACM",
-	"stemmed": ["time", "closur", "through", "a", "global", "synchron", "time", "partit", "design", "methodolog"],
-	"tag": ["design"],
+	"stemmed": [
+		"time",
+		"closur",
+		"through",
+		"a",
+		"global",
+		"synchron",
+		"time",
+		"partit",
+		"design",
+		"methodolog"
+	],
+	"tag": [
+		"design"
+	],
 	"title": "Timing closure through a globally synchronous, timing partitioned design methodology",
 	"type": "inproceedings",
 	"venue": "DAC",

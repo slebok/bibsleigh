@@ -1,14 +1,38 @@
 {
-	"author": ["Kaushal R. Gandhi", "Nihar R. Mahapatra"],
-	"booktitle": "DATE",
+	"author": [
+		"Kaushal R. Gandhi",
+		"Nihar R. Mahapatra"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2006p",
 	"dblpkey": "conf/date/GandhiM06",
 	"doi": "10.1145/1131759",
 	"ee": "http://doi.acm.org/10.1145/1131759",
 	"pages": "1001-1006",
 	"publisher": "European Design and Automation Association, Leuven, Belgium",
-	"stemmed": ["exploit", "data", "depend", "slack", "use", "dynam", "multi", "vdd", "to", "minim", "energi", "consumpt", "in", "datapath", "circuit"],
-	"tag": ["energy", "multi", "using"],
+	"stemmed": [
+		"exploit",
+		"data",
+		"depend",
+		"slack",
+		"use",
+		"dynam",
+		"multi",
+		"vdd",
+		"to",
+		"minim",
+		"energi",
+		"consumpt",
+		"in",
+		"datapath",
+		"circuit"
+	],
+	"tag": [
+		"energy",
+		"multi",
+		"using"
+	],
 	"title": "Exploiting data-dependent slack using dynamic multi-VDD to minimize energy consumption in datapath circuits",
 	"type": "inproceedings",
 	"venue": "DATE",

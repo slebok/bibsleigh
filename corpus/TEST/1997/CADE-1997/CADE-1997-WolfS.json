@@ -1,6 +1,10 @@
 {
-	"author": ["Andreas Wolf", "Johann Schumann"],
-	"booktitle": "CADE",
+	"author": [
+		"Andreas Wolf",
+		"Johann Schumann"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
 	"dblpkey": "conf/cade/WolfS97",
 	"doi": "10.1007/3-540-63104-6_8",
@@ -10,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["ilf", "setheo", "process", "model", "elimin", "proof", "for", "natur", "languag", "output"],
-	"tag": ["named", "natural language", "proving"],
+	"stemmed": [
+		"ilf",
+		"setheo",
+		"process",
+		"model",
+		"elimin",
+		"proof",
+		"for",
+		"natur",
+		"languag",
+		"output"
+	],
+	"tag": [
+		"named",
+		"natural language",
+		"proving"
+	],
 	"title": "ILF-SETHEO: Processing Model Elimination Proofs for Natural Language Output",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1249,
+	"volume": "1249",
 	"year": 1997
 }

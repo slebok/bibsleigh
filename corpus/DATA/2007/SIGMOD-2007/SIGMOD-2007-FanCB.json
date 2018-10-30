@@ -1,6 +1,10 @@
 {
-	"author": ["Wenfei Fan", "Gao Cong", "Philip Bohannon"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Wenfei Fan",
+		"Gao Cong",
+		"Philip Bohannon"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/FanCB07",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247515",
 	"pages": "293-304",
 	"publisher": "ACM",
-	"stemmed": ["queri", "xml", "with", "updat", "syntax"],
-	"tag": ["query", "syntax", "xml"],
+	"stemmed": [
+		"queri",
+		"xml",
+		"with",
+		"updat",
+		"syntax"
+	],
+	"tag": [
+		"query",
+		"syntax",
+		"xml"
+	],
 	"title": "Querying xml with update syntax",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

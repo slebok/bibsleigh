@@ -1,13 +1,34 @@
 {
-	"author": ["Vincent Boisselle", "Bram Adams"],
-	"booktitle": "SCAM",
+	"author": [
+		"Vincent Boisselle",
+		"Bram Adams"
+	],
+	"booktitle": "Proceedings of the 15th International Working Conference on Source Code Analysis and Manipulation",
+	"booktitleshort": "SCAM",
 	"crossref": "conf/scam/2015",
 	"dblpkey": "conf/scam/BoisselleA15",
 	"doi": "10.1109/SCAM.2015.7335409",
 	"pages": "131-140",
 	"publisher": "IEEE",
-	"stemmed": ["the", "impact", "of", "cross", "distribut", "bug", "duplic", "empir", "studi", "on", "debian", "and", "ubuntu"],
-	"tag": ["debugging", "empirical"],
+	"stemmed": [
+		"the",
+		"impact",
+		"of",
+		"cross",
+		"distribut",
+		"bug",
+		"duplic",
+		"empir",
+		"studi",
+		"on",
+		"debian",
+		"and",
+		"ubuntu"
+	],
+	"tag": [
+		"debugging",
+		"empirical"
+	],
 	"title": "The impact of cross-distribution bug duplicates, empirical study on Debian and Ubuntu",
 	"type": "inproceedings",
 	"venue": "SCAM",

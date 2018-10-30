@@ -1,6 +1,7 @@
 {
 	"author": "Claude Kirchner",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Seventh International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1984",
 	"dblpkey": "conf/cade/Kirchner84",
 	"doi": "10.1007/BFb0047124",
@@ -10,11 +11,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "new", "equat", "unif", "method", "a", "general", "of", "martelli", "montanari", "s", "algorithm"],
-	"tag": ["algorithm", "equation", "unification"],
+	"stemmed": [
+		"a",
+		"new",
+		"equat",
+		"unif",
+		"method",
+		"a",
+		"general",
+		"of",
+		"martelli",
+		"montanari",
+		"s",
+		"algorithm"
+	],
+	"tag": [
+		"algorithm",
+		"equation",
+		"unification"
+	],
 	"title": "A New Equational Unification Method: A Generalization of Martelli-Montanari’s Algorithm",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 170,
+	"volume": "170",
 	"year": 1984
 }

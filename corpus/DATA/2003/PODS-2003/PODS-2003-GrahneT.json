@@ -1,14 +1,35 @@
 {
-	"author": ["Gösta Grahne", "Alex Thomo"],
-	"booktitle": "PODS",
+	"author": [
+		"Gösta Grahne",
+		"Alex Thomo"
+	],
+	"booktitle": "Proceedings of the 22nd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2003",
 	"dblpkey": "conf/pods/GrahneT03",
 	"doi": "10.1145/773153.773165",
 	"ee": "http://doi.acm.org/10.1145/773153.773165",
 	"pages": "111-122",
 	"publisher": "ACM",
-	"stemmed": ["queri", "contain", "and", "rewrit", "use", "view", "for", "regular", "path", "queri", "under", "constraint"],
-	"tag": ["constraints", "query", "using"],
+	"stemmed": [
+		"queri",
+		"contain",
+		"and",
+		"rewrit",
+		"use",
+		"view",
+		"for",
+		"regular",
+		"path",
+		"queri",
+		"under",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"query",
+		"using"
+	],
 	"title": "Query containment and rewriting using views for regular path queries under constraints",
 	"type": "inproceedings",
 	"venue": "PODS",

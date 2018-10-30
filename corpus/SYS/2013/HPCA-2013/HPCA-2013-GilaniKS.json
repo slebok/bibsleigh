@@ -1,15 +1,34 @@
 {
-	"author": ["Syed Zohaib Gilani", "Nam Sung Kim", "Michael J. Schulte"],
-	"booktitle": "HPCA",
+	"author": [
+		"Syed Zohaib Gilani",
+		"Nam Sung Kim",
+		"Michael J. Schulte"
+	],
+	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/GilaniKS13",
 	"doi": "10.1109/HPCA.2013.6522330",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522330", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522330"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2013.6522330",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522330"
+	],
 	"pages": "330-341",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["power", "effici", "comput", "for", "comput", "intens", "gpgpu", "applic"],
-	"tag": ["power management"],
+	"stemmed": [
+		"power",
+		"effici",
+		"comput",
+		"for",
+		"comput",
+		"intens",
+		"gpgpu",
+		"applic"
+	],
+	"tag": [
+		"power management"
+	],
 	"title": "Power-efficient computing for compute-intensive GPGPU applications",
 	"type": "inproceedings",
 	"venue": "HPCA",

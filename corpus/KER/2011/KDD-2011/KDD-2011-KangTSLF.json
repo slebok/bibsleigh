@@ -1,14 +1,34 @@
 {
-	"author": ["U. Kang", "Hanghang Tong", "Jimeng Sun", "Ching-Yung Lin", "Christos Faloutsos"],
-	"booktitle": "KDD",
+	"author": [
+		"U. Kang",
+		"Hanghang Tong",
+		"Jimeng Sun",
+		"Ching-Yung Lin",
+		"Christos Faloutsos"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/KangTSLF11",
 	"doi": "10.1145/2020408.2020580",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020580",
 	"pages": "1091-1099",
 	"publisher": "ACM",
-	"stemmed": ["gbase", "a", "scalabl", "and", "general", "graph", "manag", "system"],
-	"tag": ["graph", "named", "scalability"],
+	"stemmed": [
+		"gbase",
+		"a",
+		"scalabl",
+		"and",
+		"general",
+		"graph",
+		"manag",
+		"system"
+	],
+	"tag": [
+		"graph",
+		"named",
+		"scalability"
+	],
 	"title": "GBASE: a scalable and general graph management system",
 	"type": "inproceedings",
 	"venue": "KDD",

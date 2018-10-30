@@ -1,6 +1,10 @@
 {
-	"author": ["Robert Dyer", "Hridesh Rajan", "Tien N. Nguyen"],
-	"booktitle": "Proceedings of the 12th International Conference on Generative Programming: Concepts & Experiences",
+	"author": [
+		"Robert Dyer",
+		"Hridesh Rajan",
+		"Tien N. Nguyen"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Generative Programming: Concepts and Experiences",
 	"booktitleshort": "GPCE",
 	"crossref": "conf/gpce/2013",
 	"dblpkey": "conf/gpce/0001RN13",
@@ -8,8 +12,32 @@
 	"ee": "http://doi.acm.org/10.1145/2517208.2517226",
 	"pages": "23-32",
 	"publisher": "ACM",
-	"stemmed": ["declar", "visitor", "to", "eas", "fine", "grain", "sourc", "code", "mine", "with", "full", "histori", "on", "billion", "of", "ast", "node"],
-	"tag": ["abstract syntax tree", "declarative", "fine-grained", "mining", "source code"],
+	"stemmed": [
+		"declar",
+		"visitor",
+		"to",
+		"eas",
+		"fine",
+		"grain",
+		"sourc",
+		"code",
+		"mine",
+		"with",
+		"full",
+		"histori",
+		"on",
+		"billion",
+		"of",
+		"ast",
+		"node"
+	],
+	"tag": [
+		"abstract syntax tree",
+		"declarative",
+		"fine-grained",
+		"mining",
+		"source code"
+	],
 	"title": "Declarative visitors to ease fine-grained source code mining with full history on billions of AST nodes",
 	"type": "inproceedings",
 	"venue": "GPCE",

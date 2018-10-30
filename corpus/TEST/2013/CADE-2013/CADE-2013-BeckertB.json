@@ -1,6 +1,10 @@
 {
-	"author": ["Bernhard Beckert", "Daniel Bruns"],
-	"booktitle": "CADE",
+	"author": [
+		"Bernhard Beckert",
+		"Daniel Bruns"
+	],
+	"booktitle": "Proceedings of the 24th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2013",
 	"dblpkey": "conf/cade/BeckertB13",
 	"doi": "10.1007/978-3-642-38574-2_22",
@@ -10,11 +14,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["dynam", "logic", "with", "trace", "semant"],
-	"tag": ["logic", "semantics"],
+	"stemmed": [
+		"dynam",
+		"logic",
+		"with",
+		"trace",
+		"semant"
+	],
+	"tag": [
+		"logic",
+		"semantics"
+	],
 	"title": "Dynamic Logic with Trace Semantics",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 7898,
+	"volume": "7898",
 	"year": 2013
 }

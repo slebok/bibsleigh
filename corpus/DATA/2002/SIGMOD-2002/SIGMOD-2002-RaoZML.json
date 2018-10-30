@@ -1,6 +1,11 @@
 {
-	"author": ["Jun Rao", "Chun Zhang", "Nimrod Megiddo", "Guy M. Lohman"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jun Rao",
+		"Chun Zhang",
+		"Nimrod Megiddo",
+		"Guy M. Lohman"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/RaoZML02",
@@ -8,8 +13,23 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564757",
 	"pages": "558-569",
 	"publisher": "ACM",
-	"stemmed": ["autom", "physic", "databas", "design", "in", "a", "parallel", "databas"],
-	"tag": ["automation", "database", "design", "parallel", "physics"],
+	"stemmed": [
+		"autom",
+		"physic",
+		"databas",
+		"design",
+		"in",
+		"a",
+		"parallel",
+		"databas"
+	],
+	"tag": [
+		"automation",
+		"database",
+		"design",
+		"parallel",
+		"physics"
+	],
 	"title": "Automating physical database design in a parallel database",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

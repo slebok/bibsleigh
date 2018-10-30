@@ -1,14 +1,29 @@
 {
-	"author": ["Tiberiu Chelcea", "Girish Venkataramani", "Seth Copen Goldstein"],
-	"booktitle": "DAC",
+	"author": [
+		"Tiberiu Chelcea",
+		"Girish Venkataramani",
+		"Seth Copen Goldstein"
+	],
+	"booktitle": "Proceedings of the 44th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2007",
 	"dblpkey": "conf/dac/ChelceaVG07",
 	"doi": "10.1145/1278480.1278723",
 	"ee": "http://doi.acm.org/10.1145/1278480.1278723",
 	"pages": "986-989",
 	"publisher": "IEEE",
-	"stemmed": ["self", "reset", "latch", "for", "asynchron", "micro", "pipelin"],
-	"tag": ["self"],
+	"stemmed": [
+		"self",
+		"reset",
+		"latch",
+		"for",
+		"asynchron",
+		"micro",
+		"pipelin"
+	],
+	"tag": [
+		"self"
+	],
 	"title": "Self-Resetting Latches for Asynchronous Micro-Pipelines",
 	"type": "inproceedings",
 	"venue": "DAC",

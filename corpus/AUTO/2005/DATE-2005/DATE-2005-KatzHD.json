@@ -1,6 +1,11 @@
 {
-	"author": ["Jacob Katz", "Ziyad Hanna", "Nachum Dershowitz"],
-	"booktitle": "DATE",
+	"author": [
+		"Jacob Katz",
+		"Ziyad Hanna",
+		"Nachum Dershowitz"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/KatzHD05",
 	"doi": "10.1109/DATE.2005.276",
@@ -8,8 +13,17 @@
 	"pages": "686-687",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["space", "effici", "bound", "model", "check"],
-	"tag": ["bound", "model checking"],
+	"stemmed": [
+		"space",
+		"effici",
+		"bound",
+		"model",
+		"check"
+	],
+	"tag": [
+		"bound",
+		"model checking"
+	],
 	"title": "Space-Efficient Bounded Model Checking",
 	"type": "inproceedings",
 	"venue": "DATE",

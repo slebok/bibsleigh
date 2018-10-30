@@ -1,6 +1,9 @@
 {
-	"author": ["Kevin J. Lang", "Barak A. Pearlmutter"],
-	"booktitle": "Proceedings of the First Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"author": [
+		"Kevin J. Lang",
+		"Barak A. Pearlmutter"
+	],
+	"booktitle": "Proceedings of the First Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1986",
 	"dblpkey": "conf/oopsla/LangP86",
@@ -10,8 +13,21 @@
 	"isbn": "0-89791-204-7",
 	"pages": "30-37",
 	"publisher": "ACM",
-	"stemmed": ["oaklisp", "an", "object", "orient", "scheme", "with", "first", "class", "type"],
-	"tag": ["named", "object-oriented"],
+	"stemmed": [
+		"oaklisp",
+		"an",
+		"object",
+		"orient",
+		"scheme",
+		"with",
+		"first",
+		"class",
+		"type"
+	],
+	"tag": [
+		"named",
+		"object-oriented"
+	],
 	"title": "Oaklisp: an Object-Oriented Scheme with First Class Types",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

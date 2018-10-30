@@ -1,6 +1,10 @@
 {
-	"author": ["Yueh-Hsuan Chiang", "AnHai Doan", "Jeffrey F. Naughton"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yueh-Hsuan Chiang",
+		"AnHai Doan",
+		"Jeffrey F. Naughton"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/ChiangDN14",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2588560",
 	"pages": "1175-1186",
 	"publisher": "ACM",
-	"stemmed": ["model", "entiti", "evolut", "for", "tempor", "record", "match"],
-	"tag": ["evolution", "modelling"],
+	"stemmed": [
+		"model",
+		"entiti",
+		"evolut",
+		"for",
+		"tempor",
+		"record",
+		"match"
+	],
+	"tag": [
+		"evolution",
+		"modelling"
+	],
 	"title": "Modeling entity evolution for temporal record matching",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

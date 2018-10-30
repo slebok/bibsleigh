@@ -1,6 +1,7 @@
 {
 	"author": "Mark E. Stickel",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Seventh International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1984",
 	"dblpkey": "conf/cade/Stickel84",
 	"doi": "10.1007/BFb0047125",
@@ -10,11 +11,35 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "case", "studi", "of", "theorem", "prove", "by", "the", "knuth", "bendix", "method", "discov", "that", "x", "x", "impli", "ring", "commut"],
-	"tag": ["case study", "commutative", "proving", "theorem proving"],
+	"stemmed": [
+		"a",
+		"case",
+		"studi",
+		"of",
+		"theorem",
+		"prove",
+		"by",
+		"the",
+		"knuth",
+		"bendix",
+		"method",
+		"discov",
+		"that",
+		"x",
+		"x",
+		"impli",
+		"ring",
+		"commut"
+	],
+	"tag": [
+		"case study",
+		"commutative",
+		"proving",
+		"theorem proving"
+	],
 	"title": "A Case Study of Theorem Proving by the Knuth-Bendix Method: Discovering That x³=x Implies Ring Commutativity",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 170,
+	"volume": "170",
 	"year": 1984
 }

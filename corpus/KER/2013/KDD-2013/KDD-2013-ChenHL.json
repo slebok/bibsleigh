@@ -1,14 +1,28 @@
 {
-	"author": ["Wei Chen", "Wynne Hsu", "Mong-Li Lee"],
-	"booktitle": "KDD",
+	"author": [
+		"Wei Chen",
+		"Wynne Hsu",
+		"Mong-Li Lee"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/ChenHL13",
 	"doi": "10.1145/2487575.2487638",
 	"ee": "http://doi.acm.org/10.1145/2487575.2487638",
 	"pages": "892-900",
 	"publisher": "ACM",
-	"stemmed": ["make", "recommend", "from", "multipl", "domain"],
-	"tag": ["multi", "recommendation"],
+	"stemmed": [
+		"make",
+		"recommend",
+		"from",
+		"multipl",
+		"domain"
+	],
+	"tag": [
+		"multi",
+		"recommendation"
+	],
 	"title": "Making recommendations from multiple domains",
 	"type": "inproceedings",
 	"venue": "KDD",

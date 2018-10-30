@@ -1,13 +1,32 @@
 {
-	"author": ["John Dunagan", "Nicholas J. A. Harvey", "Michael B. Jones", "Dejan Kostic", "Marvin Theimer", "Alec Wolman"],
-	"booktitle": "OSDI",
+	"author": [
+		"John Dunagan",
+		"Nicholas J. A. Harvey",
+		"Michael B. Jones",
+		"Dejan Kostic",
+		"Marvin Theimer",
+		"Alec Wolman"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2004",
 	"dblpkey": "conf/osdi/DunaganHJKTW04",
 	"ee": "http://www.usenix.org/events/osdi04/tech/dunagan.html",
 	"pages": "151-166",
 	"publisher": "USENIX Association",
-	"stemmed": ["fuse", "lightweight", "guarante", "distribut", "failur", "notif"],
-	"tag": ["distributed", "lightweight", "named"],
+	"stemmed": [
+		"fuse",
+		"lightweight",
+		"guarante",
+		"distribut",
+		"failur",
+		"notif"
+	],
+	"tag": [
+		"distributed",
+		"lightweight",
+		"named"
+	],
 	"title": "FUSE: Lightweight Guaranteed Distributed Failure Notification",
 	"type": "inproceedings",
 	"venue": "OSDI",

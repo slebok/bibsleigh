@@ -1,6 +1,6 @@
 {
 	"author": "Sara Cohen",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/Cohen13",
@@ -8,8 +8,21 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2463716",
 	"pages": "49-60",
 	"publisher": "ACM",
-	"stemmed": ["index", "for", "subtre", "similar", "search", "use", "edit", "distanc"],
-	"tag": ["distance", "edit distance", "using"],
+	"stemmed": [
+		"index",
+		"for",
+		"subtre",
+		"similar",
+		"search",
+		"use",
+		"edit",
+		"distanc"
+	],
+	"tag": [
+		"distance",
+		"edit distance",
+		"using"
+	],
 	"title": "Indexing for subtree similarity-search using edit distance",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

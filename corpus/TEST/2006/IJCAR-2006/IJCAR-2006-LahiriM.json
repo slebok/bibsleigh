@@ -1,6 +1,10 @@
 {
-	"author": ["Shuvendu K. Lahiri", "Madanlal Musuvathi"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Shuvendu K. Lahiri",
+		"Madanlal Musuvathi"
+	],
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/LahiriM06",
 	"doi": "10.1007/11814771_39",
@@ -10,11 +14,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["solv", "spars", "linear", "constraint"],
-	"tag": ["constraints", "linear"],
+	"stemmed": [
+		"solv",
+		"spars",
+		"linear",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"linear"
+	],
 	"title": "Solving Sparse Linear Constraints",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

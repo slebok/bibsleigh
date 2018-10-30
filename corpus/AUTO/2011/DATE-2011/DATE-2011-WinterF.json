@@ -1,13 +1,34 @@
 {
-	"author": ["Markus Winter", "Gerhard Fettweis"],
-	"booktitle": "DATE",
+	"author": [
+		"Markus Winter",
+		"Gerhard Fettweis"
+	],
+	"booktitle": "Proceedings of the 15th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2011",
 	"dblpkey": "conf/date/WinterF11",
 	"ieeearid": 5763073,
 	"pages": "419-424",
 	"publisher": "IEEE",
-	"stemmed": ["guarante", "servic", "virtual", "channel", "alloc", "in", "no", "cs", "for", "run", "time", "task", "schedul"],
-	"tag": ["runtime", "scheduling"],
+	"stemmed": [
+		"guarante",
+		"servic",
+		"virtual",
+		"channel",
+		"alloc",
+		"in",
+		"no",
+		"cs",
+		"for",
+		"run",
+		"time",
+		"task",
+		"schedul"
+	],
+	"tag": [
+		"runtime",
+		"scheduling"
+	],
 	"title": "Guaranteed service virtual channel allocation in NoCs for run-time task scheduling",
 	"type": "inproceedings",
 	"venue": "DATE",

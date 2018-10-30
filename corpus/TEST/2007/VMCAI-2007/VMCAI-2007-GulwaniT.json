@@ -1,6 +1,10 @@
 {
-	"author": ["Sumit Gulwani", "Ashish Tiwari"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Sumit Gulwani",
+		"Ashish Tiwari"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2007",
 	"dblpkey": "conf/vmcai/GulwaniT07",
 	"doi": "10.1007/978-3-540-69738-1_26",
@@ -10,10 +14,14 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["assert", "check", "unifi"],
+	"stemmed": [
+		"assert",
+		"check",
+		"unifi"
+	],
 	"title": "Assertion Checking Unified",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 4349,
+	"volume": "4349",
 	"year": 2007
 }

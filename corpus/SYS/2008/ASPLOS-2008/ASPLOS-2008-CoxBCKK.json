@@ -1,14 +1,33 @@
 {
-	"author": ["Russ Cox", "Tom Bergan", "Austin T. Clements", "M. Frans Kaashoek", "Eddie Kohler"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Russ Cox",
+		"Tom Bergan",
+		"Austin T. Clements",
+		"M. Frans Kaashoek",
+		"Eddie Kohler"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2008",
 	"dblpkey": "conf/asplos/CoxBCKK08",
 	"doi": "10.1145/1346281.1346312",
 	"ee": "http://doi.acm.org/10.1145/1346281.1346312",
 	"pages": "244-254",
 	"publisher": "ACM",
-	"stemmed": ["xoc", "an", "extens", "orient", "compil", "for", "system", "program"],
-	"tag": ["compilation", "programming"],
+	"stemmed": [
+		"xoc",
+		"an",
+		"extens",
+		"orient",
+		"compil",
+		"for",
+		"system",
+		"program"
+	],
+	"tag": [
+		"compilation",
+		"programming"
+	],
 	"title": "Xoc, an extension-oriented compiler for systems programming",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,14 +1,39 @@
 {
-	"author": ["Zhuo Feng", "Peng Li", "Yaping Zhan"],
-	"booktitle": "DAC",
+	"author": [
+		"Zhuo Feng",
+		"Peng Li",
+		"Yaping Zhan"
+	],
+	"booktitle": "Proceedings of the 44th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2007",
 	"dblpkey": "conf/dac/FengLZ07",
 	"doi": "10.1145/1278480.1278540",
 	"ee": "http://doi.acm.org/10.1145/1278480.1278540",
 	"pages": "244-249",
 	"publisher": "IEEE",
-	"stemmed": ["fast", "second", "order", "statist", "static", "time", "analysi", "use", "paramet", "dimens", "reduct"],
-	"tag": ["analysis", "higher-order", "parametricity", "performance", "reduction", "statistics", "using"],
+	"stemmed": [
+		"fast",
+		"second",
+		"order",
+		"statist",
+		"static",
+		"time",
+		"analysi",
+		"use",
+		"paramet",
+		"dimens",
+		"reduct"
+	],
+	"tag": [
+		"analysis",
+		"higher-order",
+		"parametricity",
+		"performance",
+		"reduction",
+		"statistics",
+		"using"
+	],
 	"title": "Fast Second-Order Statistical Static Timing Analysis Using Parameter Dimension Reduction",
 	"type": "inproceedings",
 	"venue": "DAC",

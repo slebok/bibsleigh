@@ -1,6 +1,7 @@
 {
 	"author": "Anatoly Prihozhy",
-	"booktitle": "DATE",
+	"booktitle": "Proceedings of the Third Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1998",
 	"dblpkey": "conf/date/Prihozhy98",
 	"doi": "10.1109/DATE.1998.655990",
@@ -8,8 +9,15 @@
 	"pages": "963-964",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["asynchron", "schedul", "and", "alloc"],
-	"tag": ["scheduling"],
+	"stemmed": [
+		"asynchron",
+		"schedul",
+		"and",
+		"alloc"
+	],
+	"tag": [
+		"scheduling"
+	],
 	"title": "Asynchronous Scheduling and Allocation",
 	"type": "inproceedings",
 	"venue": "DATE",

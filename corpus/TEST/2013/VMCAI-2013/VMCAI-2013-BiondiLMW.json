@@ -1,6 +1,12 @@
 {
-	"author": ["Fabrizio Biondi", "Axel Legay", "Pasquale Malacaria", "Andrzej Wasowski"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Fabrizio Biondi",
+		"Axel Legay",
+		"Pasquale Malacaria",
+		"Andrzej Wasowski"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2013",
 	"dblpkey": "conf/vmcai/BiondiLMW13",
 	"doi": "10.1007/978-3-642-35873-9_7",
@@ -10,11 +16,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["quantifi", "inform", "leakag", "of", "random", "protocol"],
-	"tag": ["information management", "protocol", "random"],
+	"stemmed": [
+		"quantifi",
+		"inform",
+		"leakag",
+		"of",
+		"random",
+		"protocol"
+	],
+	"tag": [
+		"information management",
+		"protocol",
+		"random"
+	],
 	"title": "Quantifying Information Leakage of Randomized Protocols",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 7737,
+	"volume": "7737",
 	"year": 2013
 }

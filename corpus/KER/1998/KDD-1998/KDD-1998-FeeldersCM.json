@@ -1,13 +1,35 @@
 {
-	"author": ["A. J. Feelders", "Soong Chang", "Geoffrey J. McLachlan"],
-	"booktitle": "KDD",
+	"author": [
+		"A. J. Feelders",
+		"Soong Chang",
+		"Geoffrey J. McLachlan"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1998",
 	"dblpkey": "conf/kdd/FeeldersCM98",
 	"ee": "http://www.aaai.org/Library/KDD/1998/kdd98-033.php",
 	"pages": "199-203",
 	"publisher": "AAAI Press",
-	"stemmed": ["mine", "in", "the", "presenc", "of", "select", "bias", "and", "it", "applic", "to", "reject", "infer"],
-	"tag": ["bias", "mining"],
+	"stemmed": [
+		"mine",
+		"in",
+		"the",
+		"presenc",
+		"of",
+		"select",
+		"bias",
+		"and",
+		"it",
+		"applic",
+		"to",
+		"reject",
+		"infer"
+	],
+	"tag": [
+		"bias",
+		"mining"
+	],
 	"title": "Mining in the Presence of Selectivity Bias and its Application to Reject Inference",
 	"type": "inproceedings",
 	"venue": "KDD",

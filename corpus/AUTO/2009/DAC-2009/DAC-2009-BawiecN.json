@@ -1,14 +1,31 @@
 {
-	"author": ["Marek A. Bawiec", "Maciej Nikodem"],
-	"booktitle": "DAC",
+	"author": [
+		"Marek A. Bawiec",
+		"Maciej Nikodem"
+	],
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/BawiecN09",
 	"doi": "10.1145/1629911.1629935",
 	"ee": "http://doi.acm.org/10.1145/1629911.1629935",
 	"pages": "83-86",
 	"publisher": "ACM",
-	"stemmed": ["boolean", "logic", "function", "synthesi", "for", "generalis", "threshold", "gate", "circuit"],
-	"tag": ["logic", "synthesis"],
+	"stemmed": [
+		"boolean",
+		"logic",
+		"function",
+		"synthesi",
+		"for",
+		"generalis",
+		"threshold",
+		"gate",
+		"circuit"
+	],
+	"tag": [
+		"logic",
+		"synthesis"
+	],
 	"title": "Boolean logic function synthesis for generalised threshold gate circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

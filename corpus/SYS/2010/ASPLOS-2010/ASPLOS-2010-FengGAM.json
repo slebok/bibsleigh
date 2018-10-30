@@ -1,14 +1,35 @@
 {
-	"author": ["Shuguang Feng", "Shantanu Gupta", "Amin Ansari", "Scott A. Mahlke"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Shuguang Feng",
+		"Shantanu Gupta",
+		"Amin Ansari",
+		"Scott A. Mahlke"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2010",
 	"dblpkey": "conf/asplos/FengGAM10",
 	"doi": "10.1145/1736020.1736063",
 	"ee": "http://doi.acm.org/10.1145/1736020.1736063",
 	"pages": "385-396",
 	"publisher": "ACM",
-	"stemmed": ["shoestr", "probabilist", "soft", "error", "reliabl", "on", "the", "cheap"],
-	"tag": ["fault", "named", "probability", "reliability", "string"],
+	"stemmed": [
+		"shoestr",
+		"probabilist",
+		"soft",
+		"error",
+		"reliabl",
+		"on",
+		"the",
+		"cheap"
+	],
+	"tag": [
+		"fault",
+		"named",
+		"probability",
+		"reliability",
+		"string"
+	],
 	"title": "Shoestring: probabilistic soft error reliability on the cheap",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

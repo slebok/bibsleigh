@@ -1,14 +1,37 @@
 {
-	"author": ["Felipe Llinares-López", "Mahito Sugiyama", "Laetitia Papaxanthos", "Karsten M. Borgwardt"],
-	"booktitle": "KDD",
+	"author": [
+		"Felipe Llinares-López",
+		"Mahito Sugiyama",
+		"Laetitia Papaxanthos",
+		"Karsten M. Borgwardt"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/Llinares-LopezS15",
 	"doi": "10.1145/2783258.2783363",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783363",
 	"pages": "725-734",
 	"publisher": "ACM",
-	"stemmed": ["fast", "and", "memori", "effici", "signific", "pattern", "mine", "via", "permut", "test"],
-	"tag": ["mining", "mutation testing", "performance", "permutation", "testing"],
+	"stemmed": [
+		"fast",
+		"and",
+		"memori",
+		"effici",
+		"signific",
+		"pattern",
+		"mine",
+		"via",
+		"permut",
+		"test"
+	],
+	"tag": [
+		"mining",
+		"mutation testing",
+		"performance",
+		"permutation",
+		"testing"
+	],
 	"title": "Fast and Memory-Efficient Significant Pattern Mining via Permutation Testing",
 	"type": "inproceedings",
 	"venue": "KDD",

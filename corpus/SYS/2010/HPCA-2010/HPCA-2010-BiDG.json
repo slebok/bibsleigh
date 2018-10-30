@@ -1,6 +1,11 @@
 {
-	"author": ["Mingsong Bi", "Ran Duan", "Chris Gniady"],
-	"booktitle": "HPCA",
+	"author": [
+		"Mingsong Bi",
+		"Ran Duan",
+		"Chris Gniady"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2010",
 	"dblpkey": "conf/hpca/BiDG10",
 	"doi": "10.1109/HPCA.2010.5416646",
@@ -8,8 +13,18 @@
 	"pages": "1-10",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["delay", "hide", "energi", "manag", "mechan", "for", "dram"],
-	"tag": ["energy"],
+	"stemmed": [
+		"delay",
+		"hide",
+		"energi",
+		"manag",
+		"mechan",
+		"for",
+		"dram"
+	],
+	"tag": [
+		"energy"
+	],
 	"title": "Delay-Hiding energy management mechanisms for DRAM",
 	"type": "inproceedings",
 	"venue": "HPCA",

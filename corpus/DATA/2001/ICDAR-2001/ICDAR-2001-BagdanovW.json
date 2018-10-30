@@ -1,6 +1,10 @@
 {
-	"author": ["Andrew D. Bagdanov", "Marcel Worring"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Andrew D. Bagdanov",
+		"Marcel Worring"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2001",
 	"dblpkey": "conf/icdar/BagdanovW01",
 	"doi": "10.1109/ICDAR.2001.953759",
@@ -8,8 +12,27 @@
 	"pages": "79-85",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["fine", "grain", "document", "genr", "classif", "use", "first", "order", "random", "graph"],
-	"tag": ["classification", "documentation", "fine-grained", "first-order", "graph", "random", "using"],
+	"stemmed": [
+		"fine",
+		"grain",
+		"document",
+		"genr",
+		"classif",
+		"use",
+		"first",
+		"order",
+		"random",
+		"graph"
+	],
+	"tag": [
+		"classification",
+		"documentation",
+		"fine-grained",
+		"first-order",
+		"graph",
+		"random",
+		"using"
+	],
 	"title": "Fine-Grained Document Genre Classification Using First Order Random Graphs",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,6 +1,10 @@
 {
-	"author": ["Lisa F. Rau", "Paul S. Jacobs"],
+	"author": [
+		"Lisa F. Rau",
+		"Paul S. Jacobs"
+	],
 	"booktitle": "Proceedings of the 14th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1991/P337.pdf",
 	"crossref": "conf/sigir/91",
 	"dblpkey": "conf/sigir/RauJ91",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/122860.122894",
 	"pages": "337-346",
 	"publisher": "ACM",
-	"stemmed": ["creat", "segment", "databas", "from", "free", "text", "for", "text", "retriev"],
-	"tag": ["database", "retrieval"],
+	"stemmed": [
+		"creat",
+		"segment",
+		"databas",
+		"from",
+		"free",
+		"text",
+		"for",
+		"text",
+		"retriev"
+	],
+	"tag": [
+		"database",
+		"retrieval"
+	],
 	"title": "Creating Segmented Databases from Free Text for Text Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

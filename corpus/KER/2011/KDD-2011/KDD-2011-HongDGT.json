@@ -1,14 +1,33 @@
 {
-	"author": ["Liangjie Hong", "Byron Dom", "Siva Gurumurthy", "Kostas Tsioutsiouliklis"],
-	"booktitle": "KDD",
+	"author": [
+		"Liangjie Hong",
+		"Byron Dom",
+		"Siva Gurumurthy",
+		"Kostas Tsioutsiouliklis"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/HongDGT11",
 	"doi": "10.1145/2020408.2020551",
 	"ee": "http://doi.acm.org/10.1145/2020408.2020551",
 	"pages": "832-840",
 	"publisher": "ACM",
-	"stemmed": ["a", "time", "depend", "topic", "model", "for", "multipl", "text", "stream"],
-	"tag": ["multi", "topic"],
+	"stemmed": [
+		"a",
+		"time",
+		"depend",
+		"topic",
+		"model",
+		"for",
+		"multipl",
+		"text",
+		"stream"
+	],
+	"tag": [
+		"multi",
+		"topic"
+	],
 	"title": "A time-dependent topic model for multiple text streams",
 	"type": "inproceedings",
 	"venue": "KDD",

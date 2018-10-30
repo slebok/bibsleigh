@@ -1,6 +1,11 @@
 {
-	"author": ["Marian Daun", "Thorsten Weyer", "Klaus Pohl"],
-	"booktitle": "REFSQ",
+	"author": [
+		"Marian Daun",
+		"Thorsten Weyer",
+		"Klaus Pohl"
+	],
+	"booktitle": "Proceedings of the 21st International Working Conference on Requirements Engineering: Foundation for Software Quality",
+	"booktitleshort": "REFSQ",
 	"crossref": "conf/refsq/2015",
 	"dblpkey": "conf/refsq/DaunWP15",
 	"doi": "10.1007/978-3-319-16101-3_5",
@@ -9,11 +14,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["detect", "and", "correct", "outdat", "requir", "in", "function", "center", "engin", "of", "embed", "system"],
-	"tag": ["detection", "embedded", "requirements"],
+	"stemmed": [
+		"detect",
+		"and",
+		"correct",
+		"outdat",
+		"requir",
+		"in",
+		"function",
+		"center",
+		"engin",
+		"of",
+		"embed",
+		"system"
+	],
+	"tag": [
+		"detection",
+		"embedded",
+		"requirements"
+	],
 	"title": "Detecting and Correcting Outdated Requirements in Function-Centered Engineering of Embedded Systems",
 	"type": "inproceedings",
 	"venue": "REFSQ",
-	"volume": 9013,
+	"volume": "9013",
 	"year": 2015
 }

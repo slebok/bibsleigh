@@ -1,6 +1,11 @@
 {
-	"author": ["Andrew DeOrio", "Ilya Wagner", "Valeria Bertacco"],
-	"booktitle": "HPCA",
+	"author": [
+		"Andrew DeOrio",
+		"Ilya Wagner",
+		"Valeria Bertacco"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2009",
 	"dblpkey": "conf/hpca/DeOrioWB09",
 	"doi": "10.1109/HPCA.2009.4798278",
@@ -8,8 +13,27 @@
 	"pages": "405-416",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["dacota", "post", "silicon", "valid", "of", "the", "memori", "subsystem", "in", "multi", "core", "design"],
-	"tag": ["design", "manycore", "memory management", "named", "validation"],
+	"stemmed": [
+		"dacota",
+		"post",
+		"silicon",
+		"valid",
+		"of",
+		"the",
+		"memori",
+		"subsystem",
+		"in",
+		"multi",
+		"core",
+		"design"
+	],
+	"tag": [
+		"design",
+		"manycore",
+		"memory management",
+		"named",
+		"validation"
+	],
 	"title": "Dacota: Post-silicon validation of the memory subsystem in multi-core designs",
 	"type": "inproceedings",
 	"venue": "HPCA",

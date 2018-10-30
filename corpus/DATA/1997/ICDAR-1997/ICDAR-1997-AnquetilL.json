@@ -1,6 +1,10 @@
 {
-	"author": ["Éric Anquetil", "Guy Lorette"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Éric Anquetil",
+		"Guy Lorette"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/1997",
 	"dblpkey": "conf/icdar/AnquetilL97",
 	"doi": "10.1109/ICDAR.1997.619824",
@@ -8,8 +12,23 @@
 	"pages": "112-",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["perceptu", "model", "of", "handwrit", "draw", "applic", "to", "the", "handwrit", "segment", "problem"],
-	"tag": ["problem", "segmentation"],
+	"stemmed": [
+		"perceptu",
+		"model",
+		"of",
+		"handwrit",
+		"draw",
+		"applic",
+		"to",
+		"the",
+		"handwrit",
+		"segment",
+		"problem"
+	],
+	"tag": [
+		"problem",
+		"segmentation"
+	],
 	"title": "Perceptual Model of Handwriting Drawing Application to the Handwriting Segmentation Problem",
 	"type": "inproceedings",
 	"venue": "ICDAR",

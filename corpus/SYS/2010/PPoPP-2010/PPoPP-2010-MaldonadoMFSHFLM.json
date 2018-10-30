@@ -1,14 +1,36 @@
 {
-	"author": ["Walther Maldonado", "Patrick Marlier", "Pascal Felber", "Adi Suissa", "Danny Hendler", "Alexandra Fedorova", "Julia L. Lawall", "Gilles Muller"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Walther Maldonado",
+		"Patrick Marlier",
+		"Pascal Felber",
+		"Adi Suissa",
+		"Danny Hendler",
+		"Alexandra Fedorova",
+		"Julia L. Lawall",
+		"Gilles Muller"
+	],
+	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/MaldonadoMFSHFLM10",
 	"doi": "10.1145/1693453.1693465",
 	"ee": "http://doi.acm.org/10.1145/1693453.1693465",
 	"pages": "79-90",
 	"publisher": "ACM",
-	"stemmed": ["schedul", "support", "for", "transact", "memori", "content", "manag"],
-	"tag": ["memory management", "scheduling", "transaction"],
+	"stemmed": [
+		"schedul",
+		"support",
+		"for",
+		"transact",
+		"memori",
+		"content",
+		"manag"
+	],
+	"tag": [
+		"memory management",
+		"scheduling",
+		"transaction"
+	],
 	"title": "Scheduling support for transactional memory contention management",
 	"type": "inproceedings",
 	"venue": "PPoPP",

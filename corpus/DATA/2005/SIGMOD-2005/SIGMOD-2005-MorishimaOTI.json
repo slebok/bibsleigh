@@ -1,6 +1,11 @@
 {
-	"author": ["Atsuyuki Morishima", "Toshiaki Okawara", "Jun'ichi Tanaka", "Ken'ichi Ishikawa"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Atsuyuki Morishima",
+		"Toshiaki Okawara",
+		"Jun'ichi Tanaka",
+		"Ken'ichi Ishikawa"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/MorishimaOTI05",
@@ -8,8 +13,24 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066284",
 	"pages": "909-911",
 	"publisher": "ACM",
-	"stemmed": ["smart", "a", "tool", "for", "semant", "driven", "creation", "of", "complex", "xml", "map"],
-	"tag": ["named", "semantics", "xml"],
+	"stemmed": [
+		"smart",
+		"a",
+		"tool",
+		"for",
+		"semant",
+		"driven",
+		"creation",
+		"of",
+		"complex",
+		"xml",
+		"map"
+	],
+	"tag": [
+		"named",
+		"semantics",
+		"xml"
+	],
 	"title": "SMART: a tool for semantic-driven creation of complex XML mappings",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

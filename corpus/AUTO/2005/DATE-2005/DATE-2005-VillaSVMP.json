@@ -1,6 +1,13 @@
 {
-	"author": ["Oreste Villa", "Patrick Schaumont", "Ingrid Verbauwhede", "Matteo Monchiero", "Gianluca Palermo"],
-	"booktitle": "DATE",
+	"author": [
+		"Oreste Villa",
+		"Patrick Schaumont",
+		"Ingrid Verbauwhede",
+		"Matteo Monchiero",
+		"Gianluca Palermo"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/VillaSVMP05",
 	"doi": "10.1109/DATE.2005.153",
@@ -8,8 +15,28 @@
 	"pages": "804-805",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["fast", "dynam", "memori", "integr", "in", "co", "simul", "framework", "for", "multiprocessor", "system", "on", "chip"],
-	"tag": ["framework", "integration", "memory management", "multi", "performance"],
+	"stemmed": [
+		"fast",
+		"dynam",
+		"memori",
+		"integr",
+		"in",
+		"co",
+		"simul",
+		"framework",
+		"for",
+		"multiprocessor",
+		"system",
+		"on",
+		"chip"
+	],
+	"tag": [
+		"framework",
+		"integration",
+		"memory management",
+		"multi",
+		"performance"
+	],
 	"title": "Fast Dynamic Memory Integration in Co-Simulation Frameworks for Multiprocessor System on-Chip",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,14 +1,29 @@
 {
-	"author": ["Kenneth Eguro", "Scott Hauck"],
-	"booktitle": "DAC",
+	"author": [
+		"Kenneth Eguro",
+		"Scott Hauck"
+	],
+	"booktitle": "Proceedings of the 45th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2008",
 	"dblpkey": "conf/dac/EguroH08",
 	"doi": "10.1145/1391469.1391480",
 	"ee": "http://doi.acm.org/10.1145/1391469.1391480",
 	"pages": "34-37",
 	"publisher": "ACM",
-	"stemmed": ["enhanc", "time", "driven", "fpga", "placement", "for", "pipelin", "netlist"],
-	"tag": ["pipes and filters"],
+	"stemmed": [
+		"enhanc",
+		"time",
+		"driven",
+		"fpga",
+		"placement",
+		"for",
+		"pipelin",
+		"netlist"
+	],
+	"tag": [
+		"pipes and filters"
+	],
 	"title": "Enhancing timing-driven FPGA placement for pipelined netlists",
 	"type": "inproceedings",
 	"venue": "DAC",

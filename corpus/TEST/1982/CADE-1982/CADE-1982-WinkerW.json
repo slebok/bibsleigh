@@ -1,6 +1,10 @@
 {
-	"author": ["Steven K. Winker", "Larry Wos"],
-	"booktitle": "CADE",
+	"author": [
+		"Steven K. Winker",
+		"Larry Wos"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1982",
 	"dblpkey": "conf/cade/WinkerW82",
 	"doi": "10.1007/BFb0000054",
@@ -10,11 +14,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["procedur", "implement", "through", "demodul", "and", "relat", "trick"],
-	"tag": ["implementation"],
+	"stemmed": [
+		"procedur",
+		"implement",
+		"through",
+		"demodul",
+		"and",
+		"relat",
+		"trick"
+	],
+	"tag": [
+		"implementation"
+	],
 	"title": "Procedure Implementation Through Demodulation and Related Tricks",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 138,
+	"volume": "138",
 	"year": 1982
 }

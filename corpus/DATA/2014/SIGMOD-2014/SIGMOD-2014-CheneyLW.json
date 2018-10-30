@@ -1,6 +1,10 @@
 {
-	"author": ["James Cheney", "Sam Lindley", "Philip Wadler"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"James Cheney",
+		"Sam Lindley",
+		"Philip Wadler"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/CheneyLW14",
@@ -8,8 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2612186",
 	"pages": "1027-1038",
 	"publisher": "ACM",
-	"stemmed": ["queri", "shred", "effici", "relat", "evalu", "of", "queri", "over", "nest", "multiset"],
-	"tag": ["evaluation", "multi", "performance", "query", "relational"],
+	"stemmed": [
+		"queri",
+		"shred",
+		"effici",
+		"relat",
+		"evalu",
+		"of",
+		"queri",
+		"over",
+		"nest",
+		"multiset"
+	],
+	"tag": [
+		"evaluation",
+		"multi",
+		"performance",
+		"query",
+		"relational"
+	],
 	"title": "Query shredding: efficient relational evaluation of queries over nested multisets",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

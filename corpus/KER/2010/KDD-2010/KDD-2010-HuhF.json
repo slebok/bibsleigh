@@ -1,14 +1,30 @@
 {
-	"author": ["Seungil Huh", "Stephen E. Fienberg"],
-	"booktitle": "KDD",
+	"author": [
+		"Seungil Huh",
+		"Stephen E. Fienberg"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/HuhF10",
 	"doi": "10.1145/1835804.1835888",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835888",
 	"pages": "653-662",
 	"publisher": "ACM",
-	"stemmed": ["discrimin", "topic", "model", "base", "on", "manifold", "learn"],
-	"tag": ["learning", "modelling", "topic"],
+	"stemmed": [
+		"discrimin",
+		"topic",
+		"model",
+		"base",
+		"on",
+		"manifold",
+		"learn"
+	],
+	"tag": [
+		"learning",
+		"modelling",
+		"topic"
+	],
 	"title": "Discriminative topic modeling based on manifold learning",
 	"type": "inproceedings",
 	"venue": "KDD",

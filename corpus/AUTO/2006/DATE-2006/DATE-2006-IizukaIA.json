@@ -1,14 +1,36 @@
 {
-	"author": ["Tetsuya Iizuka", "Makoto Ikeda", "Kunihiro Asada"],
-	"booktitle": "DATE",
+	"author": [
+		"Tetsuya Iizuka",
+		"Makoto Ikeda",
+		"Kunihiro Asada"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2006p",
 	"dblpkey": "conf/date/IizukaIA06",
 	"doi": "10.1145/1131731",
 	"ee": "http://doi.acm.org/10.1145/1131731",
 	"pages": "884-889",
 	"publisher": "European Design and Automation Association, Leuven, Belgium",
-	"stemmed": ["time", "driven", "cell", "layout", "de", "compact", "for", "yield", "optim", "by", "critic", "area", "minim"],
-	"tag": ["layout", "optimisation"],
+	"stemmed": [
+		"time",
+		"driven",
+		"cell",
+		"layout",
+		"de",
+		"compact",
+		"for",
+		"yield",
+		"optim",
+		"by",
+		"critic",
+		"area",
+		"minim"
+	],
+	"tag": [
+		"layout",
+		"optimisation"
+	],
 	"title": "Timing-driven cell layout de-compaction for yield optimization by critical area minimization",
 	"type": "inproceedings",
 	"venue": "DATE",

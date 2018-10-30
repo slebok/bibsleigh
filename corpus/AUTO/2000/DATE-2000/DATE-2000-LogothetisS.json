@@ -1,6 +1,10 @@
 {
-	"author": ["George Logothetis", "Klaus Schneider"],
-	"booktitle": "DATE",
+	"author": [
+		"George Logothetis",
+		"Klaus Schneider"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/LogothetisS00",
 	"doi": "10.1109/DATE.2000.840829",
@@ -8,8 +12,21 @@
 	"pages": "486-493",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["abstract", "from", "counter", "an", "applic", "on", "real", "time", "system"],
-	"tag": ["abstraction", "realtime"],
+	"stemmed": [
+		"abstract",
+		"from",
+		"counter",
+		"an",
+		"applic",
+		"on",
+		"real",
+		"time",
+		"system"
+	],
+	"tag": [
+		"abstraction",
+		"realtime"
+	],
 	"title": "Abstraction from Counters: An Application on Real-Time Systems",
 	"type": "inproceedings",
 	"venue": "DATE",

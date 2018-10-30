@@ -1,6 +1,7 @@
 {
 	"author": "Amélie David",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
 	"dblpkey": "conf/cade/David15",
 	"doi": "10.1007/978-3-319-21401-6_14",
@@ -10,11 +11,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["decid", "atl", "satisfi", "by", "tableaux"],
-	"tag": ["satisfiability"],
+	"stemmed": [
+		"decid",
+		"atl",
+		"satisfi",
+		"by",
+		"tableaux"
+	],
+	"tag": [
+		"satisfiability"
+	],
 	"title": "Deciding ATL* Satisfiability by Tableaux",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 9195,
+	"volume": "9195",
 	"year": 2015
 }

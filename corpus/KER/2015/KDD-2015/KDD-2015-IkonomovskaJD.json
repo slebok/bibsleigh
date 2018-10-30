@@ -1,14 +1,34 @@
 {
-	"author": ["Elena Ikonomovska", "Sina Jafarpour", "Ali Dasdan"],
-	"booktitle": "KDD",
+	"author": [
+		"Elena Ikonomovska",
+		"Sina Jafarpour",
+		"Ali Dasdan"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/IkonomovskaJD15",
 	"doi": "10.1145/2783258.2788586",
 	"ee": "http://doi.acm.org/10.1145/2783258.2788586",
 	"pages": "1869-1878",
 	"publisher": "ACM",
-	"stemmed": ["real", "time", "bid", "predict", "use", "thompson", "sampl", "base", "expert", "select"],
-	"tag": ["predict", "realtime", "using"],
+	"stemmed": [
+		"real",
+		"time",
+		"bid",
+		"predict",
+		"use",
+		"thompson",
+		"sampl",
+		"base",
+		"expert",
+		"select"
+	],
+	"tag": [
+		"predict",
+		"realtime",
+		"using"
+	],
 	"title": "Real-Time Bid Prediction using Thompson Sampling-Based Expert Selection",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,14 +1,38 @@
 {
-	"author": ["William W. Cohen", "Jacob Richman"],
-	"booktitle": "KDD",
+	"author": [
+		"William W. Cohen",
+		"Jacob Richman"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/CohenR02",
 	"doi": "10.1145/775047.775116",
 	"ee": "http://doi.acm.org/10.1145/775047.775116",
 	"pages": "475-480",
 	"publisher": "ACM",
-	"stemmed": ["learn", "to", "match", "and", "cluster", "larg", "high", "dimension", "data", "set", "for", "data", "integr"],
-	"tag": ["clustering", "integration", "learning", "scalability", "set"],
+	"stemmed": [
+		"learn",
+		"to",
+		"match",
+		"and",
+		"cluster",
+		"larg",
+		"high",
+		"dimension",
+		"data",
+		"set",
+		"for",
+		"data",
+		"integr"
+	],
+	"tag": [
+		"clustering",
+		"integration",
+		"learning",
+		"scalability",
+		"set"
+	],
 	"title": "Learning to match and cluster large high-dimensional data sets for data integration",
 	"type": "inproceedings",
 	"venue": "KDD",

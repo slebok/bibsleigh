@@ -1,6 +1,7 @@
 {
 	"author": "K. L. Kwok",
 	"booktitle": "Proceedings of the 20th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1997/P034.pdf",
 	"crossref": "conf/sigir/97",
 	"dblpkey": "conf/sigir/Kwok97",
@@ -8,8 +9,17 @@
 	"ee": "http://doi.acm.org/10.1145/258525.258531",
 	"pages": "34-41",
 	"publisher": "ACM",
-	"stemmed": ["compar", "represent", "in", "chines", "inform", "retriev"],
-	"tag": ["information retrieval"],
+	"stemmed": [
+		"compar",
+		"represent",
+		"in",
+		"chines",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"information retrieval"
+	],
 	"title": "Comparing Representations in Chinese Information Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

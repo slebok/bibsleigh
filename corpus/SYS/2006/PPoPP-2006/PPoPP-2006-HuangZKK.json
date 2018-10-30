@@ -1,14 +1,30 @@
 {
-	"author": ["Chao Huang", "Gengbin Zheng", "Laxmikant V. Kalé", "Sameer Kumar"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Chao Huang",
+		"Gengbin Zheng",
+		"Laxmikant V. Kalé",
+		"Sameer Kumar"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2006",
 	"dblpkey": "conf/ppopp/HuangZKK06",
 	"doi": "10.1145/1122971.1122976",
 	"ee": "http://doi.acm.org/10.1145/1122971.1122976",
 	"pages": "12-21",
 	"publisher": "ACM",
-	"stemmed": ["perform", "evalu", "of", "adapt", "mpi"],
-	"tag": ["adaptation", "evaluation", "performance"],
+	"stemmed": [
+		"perform",
+		"evalu",
+		"of",
+		"adapt",
+		"mpi"
+	],
+	"tag": [
+		"adaptation",
+		"evaluation",
+		"performance"
+	],
 	"title": "Performance evaluation of adaptive MPI",
 	"type": "inproceedings",
 	"venue": "PPoPP",

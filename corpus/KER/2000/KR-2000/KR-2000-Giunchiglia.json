@@ -1,12 +1,30 @@
 {
 	"author": "Enrico Giunchiglia",
-	"booktitle": "KR",
+	"booktitle": "Proceedings of the Seventh International Conference on Principles of Knowledge Representation and Reasoning",
+	"booktitleshort": "KR",
 	"crossref": "conf/kr/2000",
 	"dblpkey": "conf/kr/Giunchiglia00",
 	"pages": "657-666",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["plan", "as", "satisfi", "with", "express", "action", "languag", "concurr", "constraint", "and", "nondetermin"],
-	"tag": ["concurrent", "constraints", "nondeterminism", "satisfiability"],
+	"stemmed": [
+		"plan",
+		"as",
+		"satisfi",
+		"with",
+		"express",
+		"action",
+		"languag",
+		"concurr",
+		"constraint",
+		"and",
+		"nondetermin"
+	],
+	"tag": [
+		"concurrent",
+		"constraints",
+		"nondeterminism",
+		"satisfiability"
+	],
 	"title": "Planning as Satisfiability with Expressive Action Languages: Concurrency, Constraints and Nondeterminism",
 	"type": "inproceedings",
 	"venue": "KR",

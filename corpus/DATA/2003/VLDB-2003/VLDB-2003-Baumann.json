@@ -1,12 +1,29 @@
 {
 	"author": "Peter Baumann",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/Baumann03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S37P08.pdf",
 	"pages": "1141-1144",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["larg", "scale", "standard", "base", "earth", "observ", "imageri", "and", "web", "map", "servic"],
-	"tag": ["scalability", "standard", "web"],
+	"stemmed": [
+		"larg",
+		"scale",
+		"standard",
+		"base",
+		"earth",
+		"observ",
+		"imageri",
+		"and",
+		"web",
+		"map",
+		"servic"
+	],
+	"tag": [
+		"scalability",
+		"standard",
+		"web"
+	],
 	"title": "Large-Scale, Standards-Based Earth Observation Imagery and Web Mapping Services",
 	"type": "inproceedings",
 	"venue": "VLDB",

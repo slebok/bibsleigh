@@ -1,14 +1,33 @@
 {
-	"author": ["Brian Babcock", "Mayur Datar", "Rajeev Motwani", "Liadan O'Callaghan"],
-	"booktitle": "PODS",
+	"author": [
+		"Brian Babcock",
+		"Mayur Datar",
+		"Rajeev Motwani",
+		"Liadan O'Callaghan"
+	],
+	"booktitle": "Proceedings of the 22nd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2003",
 	"dblpkey": "conf/pods/BabcockDMO03",
 	"doi": "10.1145/773153.773176",
 	"ee": "http://doi.acm.org/10.1145/773153.773176",
 	"pages": "234-243",
 	"publisher": "ACM",
-	"stemmed": ["maintain", "varianc", "and", "k", "median", "over", "data", "stream", "window"],
-	"tag": ["data type", "maintenance"],
+	"stemmed": [
+		"maintain",
+		"varianc",
+		"and",
+		"k",
+		"median",
+		"over",
+		"data",
+		"stream",
+		"window"
+	],
+	"tag": [
+		"data type",
+		"maintenance"
+	],
 	"title": "Maintaining variance and k-medians over data stream windows",
 	"type": "inproceedings",
 	"venue": "PODS",

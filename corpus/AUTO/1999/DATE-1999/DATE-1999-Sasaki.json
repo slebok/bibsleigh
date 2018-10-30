@@ -1,6 +1,7 @@
 {
 	"author": "Hisashi Sasaki",
-	"booktitle": "DATE",
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/Sasaki99",
 	"doi": "10.1109/DATE.1999.761145",
@@ -8,8 +9,25 @@
 	"pages": "353-",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "formal", "semant", "for", "verilog", "vhdl", "simul", "interoper", "by", "abstact", "state", "machin"],
-	"tag": ["semantics", "simulation", "state machine"],
+	"stemmed": [
+		"a",
+		"formal",
+		"semant",
+		"for",
+		"verilog",
+		"vhdl",
+		"simul",
+		"interoper",
+		"by",
+		"abstact",
+		"state",
+		"machin"
+	],
+	"tag": [
+		"semantics",
+		"simulation",
+		"state machine"
+	],
 	"title": "A Formal Semantics for Verilog-VHDL Simulation Interoperability by Abstact State Machine",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,6 +1,10 @@
 {
-	"author": ["Robert S. Boyer", "Yuan Yu"],
-	"booktitle": "CADE",
+	"author": [
+		"Robert S. Boyer",
+		"Yuan Yu"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/BoyerY92",
 	"doi": "10.1007/3-540-55602-8_181",
@@ -10,11 +14,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["autom", "correct", "proof", "of", "machin", "code", "program", "for", "a", "commerci", "microprocessor"],
-	"tag": ["automation", "correctness", "proving", "source code"],
+	"stemmed": [
+		"autom",
+		"correct",
+		"proof",
+		"of",
+		"machin",
+		"code",
+		"program",
+		"for",
+		"a",
+		"commerci",
+		"microprocessor"
+	],
+	"tag": [
+		"automation",
+		"correctness",
+		"proving",
+		"source code"
+	],
 	"title": "Automated Correctness Proofs of Machine Code Programs for a Commercial Microprocessor",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

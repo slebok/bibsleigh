@@ -1,6 +1,7 @@
 {
 	"author": "Frank Pfenning",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/Pfenning94",
 	"doi": "10.1007/3-540-58156-1_66",
@@ -10,11 +11,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["elf", "a", "meta", "languag", "for", "deduct", "system", "system", "descrit"],
-	"tag": ["deduction", "metalanguage", "named"],
+	"stemmed": [
+		"elf",
+		"a",
+		"meta",
+		"languag",
+		"for",
+		"deduct",
+		"system",
+		"system",
+		"descrit"
+	],
+	"tag": [
+		"deduction",
+		"metalanguage",
+		"named"
+	],
 	"title": "Elf: A Meta-Language for Deductive Systems (System Descrition)",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

@@ -1,6 +1,9 @@
 {
-	"author": ["Vibhor Rastogi", "Suman Nath"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Vibhor Rastogi",
+		"Suman Nath"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/RastogiN10",
@@ -8,8 +11,23 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807247",
 	"pages": "735-746",
 	"publisher": "ACM",
-	"stemmed": ["differenti", "privat", "aggreg", "of", "distribut", "time", "seri", "with", "transform", "and", "encrypt"],
-	"tag": ["distributed", "encryption"],
+	"stemmed": [
+		"differenti",
+		"privat",
+		"aggreg",
+		"of",
+		"distribut",
+		"time",
+		"seri",
+		"with",
+		"transform",
+		"and",
+		"encrypt"
+	],
+	"tag": [
+		"distributed",
+		"encryption"
+	],
 	"title": "Differentially private aggregation of distributed time-series with transformation and encryption",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

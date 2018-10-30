@@ -1,6 +1,12 @@
 {
-	"author": ["Arjun Dasgupta", "Xin Jin", "Bradley Jewell", "Nan Zhang", "Gautam Das"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Arjun Dasgupta",
+		"Xin Jin",
+		"Bradley Jewell",
+		"Nan Zhang",
+		"Gautam Das"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/DasguptaJJZD10",
@@ -8,8 +14,24 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807259",
 	"pages": "855-866",
 	"publisher": "ACM",
-	"stemmed": ["unbias", "estim", "of", "size", "and", "other", "aggreg", "over", "hidden", "web", "databas"],
-	"tag": ["database", "estimation", "web"],
+	"stemmed": [
+		"unbias",
+		"estim",
+		"of",
+		"size",
+		"and",
+		"other",
+		"aggreg",
+		"over",
+		"hidden",
+		"web",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"estimation",
+		"web"
+	],
 	"title": "Unbiased estimation of size and other aggregates over hidden web databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

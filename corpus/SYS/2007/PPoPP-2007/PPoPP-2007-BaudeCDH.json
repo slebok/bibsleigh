@@ -1,14 +1,30 @@
 {
-	"author": ["Françoise Baude", "Denis Caromel", "Christian Delbé", "Ludovic Henrio"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Françoise Baude",
+		"Denis Caromel",
+		"Christian Delbé",
+		"Ludovic Henrio"
+	],
+	"booktitle": "Proceedings of the 12th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2007",
 	"dblpkey": "conf/ppopp/BaudeCDH07",
 	"doi": "10.1145/1229428.1229463",
 	"ee": "http://doi.acm.org/10.1145/1229428.1229463",
 	"pages": "154-155",
 	"publisher": "ACM",
-	"stemmed": ["promis", "messag", "recov", "from", "inconsist", "global", "state"],
-	"tag": ["consistency"],
+	"stemmed": [
+		"promis",
+		"messag",
+		"recov",
+		"from",
+		"inconsist",
+		"global",
+		"state"
+	],
+	"tag": [
+		"consistency"
+	],
 	"title": "Promised messages: recovering from inconsistent global states",
 	"type": "inproceedings",
 	"venue": "PPoPP",

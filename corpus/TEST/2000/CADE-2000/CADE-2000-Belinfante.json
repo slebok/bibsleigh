@@ -1,6 +1,7 @@
 {
 	"author": "Johan G. F. Belinfante",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 17th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2000",
 	"dblpkey": "conf/cade/Belinfante00",
 	"doi": "10.1007/10721959_9",
@@ -10,11 +11,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["gödel", "s", "algorithm", "for", "class", "format"],
-	"tag": ["algorithm"],
+	"stemmed": [
+		"gödel",
+		"s",
+		"algorithm",
+		"for",
+		"class",
+		"format"
+	],
+	"tag": [
+		"algorithm"
+	],
 	"title": "Gödel’s Algorithm for Class Formation",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1831,
+	"volume": "1831",
 	"year": 2000
 }

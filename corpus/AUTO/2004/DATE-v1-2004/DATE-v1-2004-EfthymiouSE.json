@@ -1,6 +1,11 @@
 {
-	"author": ["Aristides Efthymiou", "Christos P. Sotiriou", "Douglas A. Edwards"],
-	"booktitle": "DATE",
+	"author": [
+		"Aristides Efthymiou",
+		"Christos P. Sotiriou",
+		"Douglas A. Edwards"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/EfthymiouSE04",
 	"doi": "10.1109/DATE.2004.1268924",
@@ -8,8 +13,21 @@
 	"pages": "672-673",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["automat", "scan", "insert", "and", "pattern", "generat", "for", "asynchron", "circuit"],
-	"tag": ["automation", "generative"],
+	"stemmed": [
+		"automat",
+		"scan",
+		"insert",
+		"and",
+		"pattern",
+		"generat",
+		"for",
+		"asynchron",
+		"circuit"
+	],
+	"tag": [
+		"automation",
+		"generative"
+	],
 	"title": "Automatic Scan Insertion and Pattern Generation for Asynchronous Circuits",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,14 +1,34 @@
 {
-	"author": ["Nicola Bombieri", "Nicola Deganello", "Franco Fummi"],
-	"booktitle": "DATE",
+	"author": [
+		"Nicola Bombieri",
+		"Nicola Deganello",
+		"Franco Fummi"
+	],
+	"booktitle": "Proceedings of the 12th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2008",
 	"dblpkey": "conf/date/BombieriDF08",
 	"doi": "10.1109/DATE.2008.4484653",
 	"ee": "http://dx.doi.org/10.1109/DATE.2008.4484653",
 	"pages": "15-20",
 	"publisher": "IEEE",
-	"stemmed": ["integr", "rtl", "ip", "into", "tlm", "design", "through", "automat", "transactor", "generat"],
-	"tag": ["automation", "design", "generative"],
+	"stemmed": [
+		"integr",
+		"rtl",
+		"ip",
+		"into",
+		"tlm",
+		"design",
+		"through",
+		"automat",
+		"transactor",
+		"generat"
+	],
+	"tag": [
+		"automation",
+		"design",
+		"generative"
+	],
 	"title": "Integrating RTL IPs into TLM Designs Through Automatic Transactor Generation",
 	"type": "inproceedings",
 	"venue": "DATE",

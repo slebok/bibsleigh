@@ -1,6 +1,10 @@
 {
-	"author": ["Kedarnath J. Balakrishnan", "Nur A. Touba"],
-	"booktitle": "DATE",
+	"author": [
+		"Kedarnath J. Balakrishnan",
+		"Nur A. Touba"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/BalakrishnanT05",
 	"doi": "10.1109/DATE.2005.255",
@@ -8,8 +12,20 @@
 	"pages": "1130-1135",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["reconfigur", "linear", "decompressor", "use", "symbol", "gaussian", "elimin"],
-	"tag": ["configuration management", "linear", "using"],
+	"stemmed": [
+		"reconfigur",
+		"linear",
+		"decompressor",
+		"use",
+		"symbol",
+		"gaussian",
+		"elimin"
+	],
+	"tag": [
+		"configuration management",
+		"linear",
+		"using"
+	],
 	"title": "Reconfigurable Linear Decompressors Using Symbolic Gaussian Elimination",
 	"type": "inproceedings",
 	"venue": "DATE",

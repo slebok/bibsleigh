@@ -1,12 +1,28 @@
 {
-	"address": ["Cincinnati", "Ohio", "USA"],
-	"author": ["Inna Davydova", "Gennady Davydov"],
+	"address": [
+		"Cincinnati",
+		"Ohio",
+		"USA"
+	],
+	"author": [
+		"Inna Davydova",
+		"Gennady Davydov"
+	],
 	"booktitle": "Proceedings of the Fifth International Symposium on the Theory and Applications of Satisfiability Testing",
+	"booktitleshort": "SAT",
 	"editor": "John Franco",
 	"month": "may",
-	"pages": 44,
-	"stemmed": ["cnf", "applic", "in", "discret", "optim"],
-	"tag": ["optimisation"],
+	"pages": "44",
+	"stemmed": [
+		"cnf",
+		"applic",
+		"in",
+		"discret",
+		"optim"
+	],
+	"tag": [
+		"optimisation"
+	],
 	"title": "CNF application in discrete optimization",
 	"type": "inproceedings",
 	"venue": "SAT",

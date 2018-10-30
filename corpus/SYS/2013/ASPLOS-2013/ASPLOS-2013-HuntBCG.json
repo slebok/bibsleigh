@@ -1,14 +1,31 @@
 {
-	"author": ["Nicholas Hunt", "Tom Bergan", "Luis Ceze", "Steven D. Gribble"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Nicholas Hunt",
+		"Tom Bergan",
+		"Luis Ceze",
+		"Steven D. Gribble"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2013",
 	"dblpkey": "conf/asplos/HuntBCG13",
 	"doi": "10.1145/2451116.2451170",
 	"ee": "http://doi.acm.org/10.1145/2451116.2451170",
 	"pages": "499-508",
 	"publisher": "ACM",
-	"stemmed": ["ddos", "tame", "nondetermin", "in", "distribut", "system"],
-	"tag": ["distributed", "named", "nondeterminism"],
+	"stemmed": [
+		"ddos",
+		"tame",
+		"nondetermin",
+		"in",
+		"distribut",
+		"system"
+	],
+	"tag": [
+		"distributed",
+		"named",
+		"nondeterminism"
+	],
 	"title": "DDOS: taming nondeterminism in distributed systems",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

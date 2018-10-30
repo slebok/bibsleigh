@@ -1,14 +1,37 @@
 {
-	"author": ["Wenke Lee", "Salvatore J. Stolfo", "Kui W. Mok"],
-	"booktitle": "KDD",
+	"author": [
+		"Wenke Lee",
+		"Salvatore J. Stolfo",
+		"Kui W. Mok"
+	],
+	"booktitle": "Proceedings of the Fifth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1999",
 	"dblpkey": "conf/kdd/LeeSM99",
 	"doi": "10.1145/312129.312212",
 	"ee": "http://doi.acm.org/10.1145/312129.312212",
 	"pages": "114-124",
 	"publisher": "ACM",
-	"stemmed": ["mine", "in", "a", "data", "flow", "environ", "experi", "in", "network", "intrus", "detect"],
-	"tag": ["data flow", "detection", "experience", "mining", "network"],
+	"stemmed": [
+		"mine",
+		"in",
+		"a",
+		"data",
+		"flow",
+		"environ",
+		"experi",
+		"in",
+		"network",
+		"intrus",
+		"detect"
+	],
+	"tag": [
+		"data flow",
+		"detection",
+		"experience",
+		"mining",
+		"network"
+	],
 	"title": "Mining in a Data-Flow Environment: Experience in Network Intrusion Detection",
 	"type": "inproceedings",
 	"venue": "KDD",

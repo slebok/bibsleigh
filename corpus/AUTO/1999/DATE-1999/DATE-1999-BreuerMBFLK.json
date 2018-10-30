@@ -1,6 +1,14 @@
 {
-	"author": ["Peter T. Breuer", "Natividad Martínez Madrid", "Jonathan P. Bowen", "Robert B. France", "Maria M. Larrondo-Petrie", "Carlos Delgado Kloos"],
-	"booktitle": "DATE",
+	"author": [
+		"Peter T. Breuer",
+		"Natividad Martínez Madrid",
+		"Jonathan P. Bowen",
+		"Robert B. France",
+		"Maria M. Larrondo-Petrie",
+		"Carlos Delgado Kloos"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/BreuerMBFLK99",
 	"doi": "10.1109/DATE.1999.761144",
@@ -8,8 +16,22 @@
 	"pages": "346-352",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["reason", "about", "vhdl", "and", "vhdl", "am", "use", "denot", "semant"],
-	"tag": ["reasoning", "semantics", "using"],
+	"stemmed": [
+		"reason",
+		"about",
+		"vhdl",
+		"and",
+		"vhdl",
+		"am",
+		"use",
+		"denot",
+		"semant"
+	],
+	"tag": [
+		"reasoning",
+		"semantics",
+		"using"
+	],
 	"title": "Reasoning about VHDL and VHDL-AMS using Denotational Semantics",
 	"type": "inproceedings",
 	"venue": "DATE",

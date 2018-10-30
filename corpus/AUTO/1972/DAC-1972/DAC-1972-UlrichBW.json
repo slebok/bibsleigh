@@ -1,14 +1,32 @@
 {
-	"author": ["Ernst G. Ulrich", "Thomas E. Baker", "L. R. Williams"],
-	"booktitle": "DAC",
+	"author": [
+		"Ernst G. Ulrich",
+		"Thomas E. Baker",
+		"L. R. Williams"
+	],
+	"booktitle": "Proceedings of the Ninth Design Automation Workshop",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1972",
 	"dblpkey": "conf/dac/UlrichBW72",
 	"doi": "10.1145/800153.804936",
 	"ee": "http://doi.acm.org/10.1145/800153.804936",
 	"pages": "111-115",
 	"publisher": "ACM",
-	"stemmed": ["fault", "test", "analysi", "techniqu", "base", "on", "logic", "simul"],
-	"tag": ["analysis", "logic", "simulation"],
+	"stemmed": [
+		"fault",
+		"test",
+		"analysi",
+		"techniqu",
+		"base",
+		"on",
+		"logic",
+		"simul"
+	],
+	"tag": [
+		"analysis",
+		"logic",
+		"simulation"
+	],
 	"title": "Fault-test analysis techniques based on logic simulation",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,6 +1,13 @@
 {
-	"author": ["Jean-Yves Brunel", "Marco Di Natale", "Alberto Ferrari", "Paolo Giusto", "Luciano Lavagno"],
-	"booktitle": "DATE",
+	"author": [
+		"Jean-Yves Brunel",
+		"Marco Di Natale",
+		"Alberto Ferrari",
+		"Paolo Giusto",
+		"Luciano Lavagno"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/BrunelNFGL04",
 	"doi": "10.1109/DATE.2004.1268873",
@@ -8,8 +15,26 @@
 	"pages": "358-363",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["soft", "contract", "an", "assert", "base", "softwar", "develop", "process", "that", "enabl", "design", "by", "contract"],
-	"tag": ["development", "named", "process"],
+	"stemmed": [
+		"soft",
+		"contract",
+		"an",
+		"assert",
+		"base",
+		"softwar",
+		"develop",
+		"process",
+		"that",
+		"enabl",
+		"design",
+		"by",
+		"contract"
+	],
+	"tag": [
+		"development",
+		"named",
+		"process"
+	],
 	"title": "SoftContract: an Assertion-Based Software Development Process that Enables Design-by-Contract",
 	"type": "inproceedings",
 	"venue": "DATE",

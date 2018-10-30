@@ -1,6 +1,10 @@
 {
-	"author": ["Norbert Fuhr", "Ulrich Pfeifer"],
+	"author": [
+		"Norbert Fuhr",
+		"Ulrich Pfeifer"
+	],
 	"booktitle": "Proceedings of the 14th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1991/P046.pdf",
 	"crossref": "conf/sigir/91",
 	"dblpkey": "conf/sigir/FuhrP91",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/122860.122865",
 	"pages": "46-56",
 	"publisher": "ACM",
-	"stemmed": ["combin", "model", "orient", "and", "descript", "orient", "approach", "for", "probabilist", "index"],
-	"tag": ["probability"],
+	"stemmed": [
+		"combin",
+		"model",
+		"orient",
+		"and",
+		"descript",
+		"orient",
+		"approach",
+		"for",
+		"probabilist",
+		"index"
+	],
+	"tag": [
+		"probability"
+	],
 	"title": "Combining Model-Oriented and Description-Oriented Approaches for Probabilistic Indexing",
 	"type": "inproceedings",
 	"venue": "SIGIR",

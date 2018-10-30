@@ -1,14 +1,30 @@
 {
-	"author": ["Kunal Agrawal", "Charles E. Leiserson", "Jim Sukha"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Kunal Agrawal",
+		"Charles E. Leiserson",
+		"Jim Sukha"
+	],
+	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/AgrawalLS10",
 	"doi": "10.1145/1693453.1693487",
 	"ee": "http://doi.acm.org/10.1145/1693453.1693487",
 	"pages": "245-256",
 	"publisher": "ACM",
-	"stemmed": ["helper", "lock", "for", "fork", "join", "parallel", "program"],
-	"tag": ["parallel", "programming"],
+	"stemmed": [
+		"helper",
+		"lock",
+		"for",
+		"fork",
+		"join",
+		"parallel",
+		"program"
+	],
+	"tag": [
+		"parallel",
+		"programming"
+	],
 	"title": "Helper locks for fork-join parallel programming",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,14 +1,31 @@
 {
-	"author": ["Christos Boutsidis", "Michael W. Mahoney", "Petros Drineas"],
-	"booktitle": "KDD",
+	"author": [
+		"Christos Boutsidis",
+		"Michael W. Mahoney",
+		"Petros Drineas"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/BoutsidisMD08",
 	"doi": "10.1145/1401890.1401903",
 	"ee": "http://doi.acm.org/10.1145/1401890.1401903",
 	"pages": "61-69",
 	"publisher": "ACM",
-	"stemmed": ["unsupervis", "featur", "select", "for", "princip", "compon", "analysi"],
-	"tag": ["analysis", "component", "feature model"],
+	"stemmed": [
+		"unsupervis",
+		"featur",
+		"select",
+		"for",
+		"princip",
+		"compon",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"component",
+		"feature model"
+	],
 	"title": "Unsupervised feature selection for principal components analysis",
 	"type": "inproceedings",
 	"venue": "KDD",

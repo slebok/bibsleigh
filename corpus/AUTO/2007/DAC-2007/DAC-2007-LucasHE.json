@@ -1,14 +1,36 @@
 {
-	"author": ["Amilcar do Carmo Lucas", "Sven Heithecker", "Rolf Ernst"],
-	"booktitle": "DAC",
+	"author": [
+		"Amilcar do Carmo Lucas",
+		"Sven Heithecker",
+		"Rolf Ernst"
+	],
+	"booktitle": "Proceedings of the 44th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2007",
 	"dblpkey": "conf/dac/LucasHE07",
 	"doi": "10.1145/1278480.1278706",
 	"ee": "http://doi.acm.org/10.1145/1278480.1278706",
 	"pages": "916-921",
 	"publisher": "IEEE",
-	"stemmed": ["flex", "wafe", "a", "high", "end", "real", "time", "stream", "process", "librari", "for", "fpgas"],
-	"tag": ["library", "named", "realtime"],
+	"stemmed": [
+		"flex",
+		"wafe",
+		"a",
+		"high",
+		"end",
+		"real",
+		"time",
+		"stream",
+		"process",
+		"librari",
+		"for",
+		"fpgas"
+	],
+	"tag": [
+		"library",
+		"named",
+		"realtime"
+	],
 	"title": "FlexWAFE — A High-end Real-Time Stream Processing Library for FPGAs",
 	"type": "inproceedings",
 	"venue": "DAC",

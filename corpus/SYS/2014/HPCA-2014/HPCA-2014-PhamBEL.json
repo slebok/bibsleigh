@@ -1,6 +1,12 @@
 {
-	"author": ["Binh Pham", "Abhishek Bhattacharjee", "Yasuko Eckert", "Gabriel H. Loh"],
-	"booktitle": "HPCA",
+	"author": [
+		"Binh Pham",
+		"Abhishek Bhattacharjee",
+		"Yasuko Eckert",
+		"Gabriel H. Loh"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/PhamBEL14",
 	"doi": "10.1109/HPCA.2014.6835964",
@@ -8,8 +14,20 @@
 	"pages": "558-567",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["increas", "tlb", "reach", "by", "exploit", "cluster", "in", "page", "translat"],
-	"tag": ["clustering"],
+	"stemmed": [
+		"increas",
+		"tlb",
+		"reach",
+		"by",
+		"exploit",
+		"cluster",
+		"in",
+		"page",
+		"translat"
+	],
+	"tag": [
+		"clustering"
+	],
 	"title": "Increasing TLB reach by exploiting clustering in page translations",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,14 +1,29 @@
 {
-	"author": ["Luciana S. Buriol", "Gereon Frahling", "Stefano Leonardi", "Alberto Marchetti-Spaccamela", "Christian Sohler"],
-	"booktitle": "PODS",
+	"author": [
+		"Luciana S. Buriol",
+		"Gereon Frahling",
+		"Stefano Leonardi",
+		"Alberto Marchetti-Spaccamela",
+		"Christian Sohler"
+	],
+	"booktitle": "Proceedings of the 25th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2006",
 	"dblpkey": "conf/pods/BuriolFLMS06",
 	"doi": "10.1145/1142351.1142388",
 	"ee": "http://doi.acm.org/10.1145/1142351.1142388",
 	"pages": "253-262",
 	"publisher": "ACM",
-	"stemmed": ["count", "triangl", "in", "data", "stream"],
-	"tag": ["data type"],
+	"stemmed": [
+		"count",
+		"triangl",
+		"in",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"data type"
+	],
 	"title": "Counting triangles in data streams",
 	"type": "inproceedings",
 	"venue": "PODS",

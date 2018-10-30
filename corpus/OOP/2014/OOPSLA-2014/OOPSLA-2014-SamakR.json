@@ -1,6 +1,9 @@
 {
-	"author": ["Malavika Samak", "Murali Krishna Ramanathan"],
-	"booktitle": "Proceedings of the 29th International Conference on Object Oriented Programming Systems Languages & Applications",
+	"author": [
+		"Malavika Samak",
+		"Murali Krishna Ramanathan"
+	],
+	"booktitle": "Proceedings of the 29th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2014",
 	"dblpkey": "conf/oopsla/SamakR14",
@@ -8,8 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/2660193.2660238",
 	"pages": "473-489",
 	"publisher": "ACM",
-	"stemmed": ["multithread", "test", "synthesi", "for", "deadlock", "detect"],
-	"tag": ["concurrent", "detection", "parallel", "synthesis", "thread"],
+	"stemmed": [
+		"multithread",
+		"test",
+		"synthesi",
+		"for",
+		"deadlock",
+		"detect"
+	],
+	"tag": [
+		"concurrent",
+		"detection",
+		"parallel",
+		"synthesis",
+		"thread"
+	],
 	"title": "Multithreaded test synthesis for deadlock detection",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

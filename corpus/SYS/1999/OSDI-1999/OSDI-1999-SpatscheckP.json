@@ -1,13 +1,26 @@
 {
-	"author": ["Oliver Spatscheck", "Larry L. Peterson"],
-	"booktitle": "OSDI",
+	"author": [
+		"Oliver Spatscheck",
+		"Larry L. Peterson"
+	],
+	"booktitle": "Proceedings of the Third Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/1999",
 	"dblpkey": "conf/osdi/SpatscheckP99",
 	"doi": "10.1145/296806.296811",
 	"ee": "http://doi.acm.org/10.1145/296806.296811",
 	"pages": "59-72",
 	"publisher": "USENIX Association",
-	"stemmed": ["defend", "against", "denial", "of", "servic", "attack", "in", "scout"],
+	"stemmed": [
+		"defend",
+		"against",
+		"denial",
+		"of",
+		"servic",
+		"attack",
+		"in",
+		"scout"
+	],
 	"title": "Defending Against Denial of Service Attacks in Scout",
 	"type": "inproceedings",
 	"venue": "OSDI",

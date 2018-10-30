@@ -1,6 +1,7 @@
 {
 	"author": "Eve Wilson",
 	"booktitle": "Proceedings of the 11th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P663.pdf",
 	"crossref": "conf/sigir/88",
 	"dblpkey": "conf/sigir/Wilson88",
@@ -8,8 +9,21 @@
 	"ee": "http://doi.acm.org/10.1145/62437.62505",
 	"pages": "663-677",
 	"publisher": "ACM",
-	"stemmed": ["integr", "inform", "retriev", "for", "law", "in", "a", "hypertext", "environ"],
-	"tag": ["hypermedia", "information retrieval"],
+	"stemmed": [
+		"integr",
+		"inform",
+		"retriev",
+		"for",
+		"law",
+		"in",
+		"a",
+		"hypertext",
+		"environ"
+	],
+	"tag": [
+		"hypermedia",
+		"information retrieval"
+	],
 	"title": "Integrated Information Retrieval for Law in a Hypertext Environment",
 	"type": "inproceedings",
 	"venue": "SIGIR",

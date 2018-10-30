@@ -1,6 +1,11 @@
 {
-	"author": ["Matteo Corti", "Roberto Brega", "Thomas R. Gross"],
-	"booktitle": "LCTES",
+	"author": [
+		"Matteo Corti",
+		"Roberto Brega",
+		"Thomas R. Gross"
+	],
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2000",
 	"dblpkey": "conf/lctrts/CortiBG00",
 	"doi": "10.1007/3-540-45245-1_12",
@@ -10,11 +15,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["approxim", "of", "worst", "case", "execut", "time", "for", "preemptiv", "multitask", "system"],
-	"tag": ["approximate", "execution", "multi", "worst-case"],
+	"stemmed": [
+		"approxim",
+		"of",
+		"worst",
+		"case",
+		"execut",
+		"time",
+		"for",
+		"preemptiv",
+		"multitask",
+		"system"
+	],
+	"tag": [
+		"approximate",
+		"execution",
+		"multi",
+		"worst-case"
+	],
 	"title": "Approximation of Worst-Case Execution Time for Preemptive Multitasking Systems",
 	"type": "inproceedings",
 	"venue": "LCTES",
-	"volume": 1985,
+	"volume": "1985",
 	"year": 2000
 }

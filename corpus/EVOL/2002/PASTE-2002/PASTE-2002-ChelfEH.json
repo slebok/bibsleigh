@@ -1,14 +1,32 @@
 {
-	"author": ["Benjamin Chelf", "Dawson R. Engler", "Seth Hallem"],
-	"booktitle": "PASTE",
+	"author": [
+		"Benjamin Chelf",
+		"Dawson R. Engler",
+		"Seth Hallem"
+	],
+	"booktitle": "Proceedings of the Fourth Workshop on Program Analysis for Software Tools and Engineering",
+	"booktitleshort": "PASTE",
 	"crossref": "conf/paste/2002",
 	"dblpkey": "conf/paste/ChelfEH02",
 	"doi": "10.1145/586094.586097",
 	"ee": "http://doi.acm.org/10.1145/586094.586097",
 	"pages": "51-60",
 	"publisher": "ACM",
-	"stemmed": ["how", "to", "write", "system", "specif", "static", "checker", "in", "metal"],
-	"tag": ["how", "static analysis"],
+	"stemmed": [
+		"how",
+		"to",
+		"write",
+		"system",
+		"specif",
+		"static",
+		"checker",
+		"in",
+		"metal"
+	],
+	"tag": [
+		"how",
+		"static analysis"
+	],
 	"title": "How to write system-specific, static checkers in metal",
 	"type": "inproceedings",
 	"venue": "PASTE",

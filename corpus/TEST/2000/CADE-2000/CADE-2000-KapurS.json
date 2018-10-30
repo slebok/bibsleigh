@@ -1,6 +1,10 @@
 {
-	"author": ["Deepak Kapur", "Mahadevan Subramaniam"],
-	"booktitle": "CADE",
+	"author": [
+		"Deepak Kapur",
+		"Mahadevan Subramaniam"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2000",
 	"dblpkey": "conf/cade/KapurS00",
 	"doi": "10.1007/10721959_26",
@@ -10,11 +14,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["extend", "decis", "procedur", "with", "induct", "scheme"],
-	"tag": ["induction"],
+	"stemmed": [
+		"extend",
+		"decis",
+		"procedur",
+		"with",
+		"induct",
+		"scheme"
+	],
+	"tag": [
+		"induction"
+	],
 	"title": "Extending Decision Procedures with Induction Schemes",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1831,
+	"volume": "1831",
 	"year": 2000
 }

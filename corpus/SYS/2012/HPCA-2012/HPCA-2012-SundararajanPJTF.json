@@ -1,15 +1,39 @@
 {
-	"author": ["Karthik T. Sundararajan", "Vasileios Porpodas", "Timothy M. Jones", "Nigel P. Topham", "Björn Franke"],
-	"booktitle": "HPCA",
+	"author": [
+		"Karthik T. Sundararajan",
+		"Vasileios Porpodas",
+		"Timothy M. Jones",
+		"Nigel P. Topham",
+		"Björn Franke"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2012",
 	"dblpkey": "conf/hpca/SundararajanPJTF12",
 	"doi": "10.1109/HPCA.2012.6169036",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2012.6169036", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6169036"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2012.6169036",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6169036"
+	],
 	"pages": "311-322",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["cooper", "partit", "energi", "effici", "cach", "partit", "for", "high", "perform", "cmps"],
-	"tag": ["clustering", "energy"],
+	"stemmed": [
+		"cooper",
+		"partit",
+		"energi",
+		"effici",
+		"cach",
+		"partit",
+		"for",
+		"high",
+		"perform",
+		"cmps"
+	],
+	"tag": [
+		"clustering",
+		"energy"
+	],
 	"title": "Cooperative partitioning: Energy-efficient cache partitioning for high-performance CMPs",
 	"type": "inproceedings",
 	"venue": "HPCA",

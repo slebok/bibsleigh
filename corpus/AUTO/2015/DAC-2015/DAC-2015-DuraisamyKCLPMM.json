@@ -1,14 +1,38 @@
 {
-	"author": ["Karthi Duraisamy", "Ryan Gary Kim", "Wonje Choi", "Guangshuo Liu", "Partha Pratim Pande", "Radu Marculescu", "Diana Marculescu"],
-	"booktitle": "DAC",
+	"author": [
+		"Karthi Duraisamy",
+		"Ryan Gary Kim",
+		"Wonje Choi",
+		"Guangshuo Liu",
+		"Partha Pratim Pande",
+		"Radu Marculescu",
+		"Diana Marculescu"
+	],
+	"booktitle": "Proceedings of the 52nd Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2015",
 	"dblpkey": "conf/dac/DuraisamyKCLPMM15",
 	"doi": "10.1145/2744769.2744835",
 	"ee": "http://doi.acm.org/10.1145/2744769.2744835",
 	"pages": "6:1-6:6",
 	"publisher": "ACM",
-	"stemmed": ["energi", "effici", "map", "reduc", "with", "vfi", "enabl", "multicor", "platform"],
-	"tag": ["energy", "manycore", "performance", "pipes and filters"],
+	"stemmed": [
+		"energi",
+		"effici",
+		"map",
+		"reduc",
+		"with",
+		"vfi",
+		"enabl",
+		"multicor",
+		"platform"
+	],
+	"tag": [
+		"energy",
+		"manycore",
+		"performance",
+		"pipes and filters"
+	],
 	"title": "Energy efficient MapReduce with VFI-enabled multicore platforms",
 	"type": "inproceedings",
 	"venue": "DAC",

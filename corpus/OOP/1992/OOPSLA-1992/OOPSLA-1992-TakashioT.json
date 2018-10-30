@@ -1,6 +1,9 @@
 {
-	"author": ["Kazunori Takashio", "Mario Tokoro"],
-	"booktitle": "Proceedings of the Seventh Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"author": [
+		"Kazunori Takashio",
+		"Mario Tokoro"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1992",
 	"dblpkey": "conf/oopsla/TakashioT92",
@@ -10,8 +13,26 @@
 	"isbn": "0-201-53372-3",
 	"pages": "276-294",
 	"publisher": "ACM",
-	"stemmed": ["drol", "an", "object", "orient", "program", "languag", "for", "distribut", "real", "time", "system"],
-	"tag": ["distributed", "named", "object-oriented", "programming language", "realtime"],
+	"stemmed": [
+		"drol",
+		"an",
+		"object",
+		"orient",
+		"program",
+		"languag",
+		"for",
+		"distribut",
+		"real",
+		"time",
+		"system"
+	],
+	"tag": [
+		"distributed",
+		"named",
+		"object-oriented",
+		"programming language",
+		"realtime"
+	],
 	"title": "DROL: An Object-Oriented Programming Language for Distributed Real-Time Systems",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

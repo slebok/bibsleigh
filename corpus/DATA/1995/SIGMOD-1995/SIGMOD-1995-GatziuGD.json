@@ -1,16 +1,34 @@
 {
-	"author": ["Stella Gatziu", "Andreas Geppert", "Klaus R. Dittrich"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Stella Gatziu",
+		"Andreas Geppert",
+		"Klaus R. Dittrich"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD95/P480.PDF",
-	"cite": ["conf/dbpl/GatziuGD91", "conf/rules/GatziuD93", "conf/ride/GatziuD94", "..."],
+	"cite": [
+		"conf/dbpl/GatziuGD91",
+		"conf/rules/GatziuD93",
+		"conf/ride/GatziuD94",
+		"..."
+	],
 	"crossref": "conf/sigmod/95",
 	"dblpkey": "conf/sigmod/GatziuGD95",
 	"doi": "10.1145/223784.223893",
 	"ee": "http://doi.acm.org/10.1145/223784.223893",
-	"pages": 480,
+	"pages": "480",
 	"publisher": "ACM Press",
-	"stemmed": ["the", "samo", "activ", "dbms", "prototyp"],
-	"tag": ["prototype"],
+	"stemmed": [
+		"the",
+		"samo",
+		"activ",
+		"dbms",
+		"prototyp"
+	],
+	"tag": [
+		"prototype"
+	],
 	"title": "The SAMOS Active DBMS Prototype",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,11 @@
 {
-	"author": ["Qing Guo", "Paliath Narendran", "David A. Wolfram"],
-	"booktitle": "CADE",
+	"author": [
+		"Qing Guo",
+		"Paliath Narendran",
+		"David A. Wolfram"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/GuoNW96",
 	"doi": "10.1007/3-540-61511-3_90",
@@ -10,11 +15,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["unif", "and", "match", "modulo", "nilpot"],
-	"tag": ["unification"],
+	"stemmed": [
+		"unif",
+		"and",
+		"match",
+		"modulo",
+		"nilpot"
+	],
+	"tag": [
+		"unification"
+	],
 	"title": "Unification and Matching Modulo Nilpotence",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

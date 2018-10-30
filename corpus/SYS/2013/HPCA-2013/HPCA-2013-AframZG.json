@@ -1,15 +1,38 @@
 {
-	"author": ["Furat Afram", "Hui Zeng", "Kanad Ghose"],
-	"booktitle": "HPCA",
+	"author": [
+		"Furat Afram",
+		"Hui Zeng",
+		"Kanad Ghose"
+	],
+	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/AframZG13",
 	"doi": "10.1109/HPCA.2013.6522306",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522306", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522306"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2013.6522306",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522306"
+	],
 	"pages": "47-58",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "group", "commit", "mechan", "for", "rob", "base", "processor", "implement", "the", "x", "isa"],
-	"tag": ["implementation"],
+	"stemmed": [
+		"a",
+		"group",
+		"commit",
+		"mechan",
+		"for",
+		"rob",
+		"base",
+		"processor",
+		"implement",
+		"the",
+		"x",
+		"isa"
+	],
+	"tag": [
+		"implementation"
+	],
 	"title": "A group-commit mechanism for ROB-based processors implementing the X86 ISA",
 	"type": "inproceedings",
 	"venue": "HPCA",

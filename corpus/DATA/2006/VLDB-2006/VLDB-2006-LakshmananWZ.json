@@ -1,14 +1,29 @@
 {
-	"acmid": 1164177,
-	"author": ["Laks V. S. Lakshmanan", "Wendy Hui Wang", "Zheng (Jessica) Zhao"],
-	"booktitle": "VLDB",
+	"acmid": "1164177",
+	"author": [
+		"Laks V. S. Lakshmanan",
+		"Wendy Hui Wang",
+		"Zheng (Jessica) Zhao"
+	],
+	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
 	"dblpkey": "conf/vldb/LakshmananWZ06",
 	"ee": "http://www.vldb.org/conf/2006/p571-lakshmanan.pdf",
 	"pages": "571-582",
 	"publisher": "ACM",
-	"stemmed": ["answer", "tree", "pattern", "queri", "use", "view"],
-	"tag": ["query", "using"],
+	"stemmed": [
+		"answer",
+		"tree",
+		"pattern",
+		"queri",
+		"use",
+		"view"
+	],
+	"tag": [
+		"query",
+		"using"
+	],
 	"title": "Answering Tree Pattern Queries Using Views",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,14 +1,40 @@
 {
-	"author": ["Cory J. Hoelting", "Dale A. Schoenefeld", "Roger L. Wainwright"],
+	"author": [
+		"Cory J. Hoelting",
+		"Dale A. Schoenefeld",
+		"Roger L. Wainwright"
+	],
 	"booktitle": "Proceedings of the 11th Symposium on Applied Computing",
+	"booktitleshort": "SAC",
 	"crossref": "conf/sac/1996",
 	"dblpkey": "conf/sac/HoeltingSW96a",
 	"doi": "10.1145/331119.331187",
 	"ee": "http://doi.acm.org/10.1145/331119.331187",
 	"pages": "258-262",
 	"publisher": "ACM",
-	"stemmed": ["a", "genet", "algorithm", "for", "the", "minimum", "broadcast", "time", "problem", "use", "a", "global", "preced", "vector"],
-	"tag": ["algorithm", "precedence", "problem", "search-based", "using"],
+	"stemmed": [
+		"a",
+		"genet",
+		"algorithm",
+		"for",
+		"the",
+		"minimum",
+		"broadcast",
+		"time",
+		"problem",
+		"use",
+		"a",
+		"global",
+		"preced",
+		"vector"
+	],
+	"tag": [
+		"algorithm",
+		"precedence",
+		"problem",
+		"search-based",
+		"using"
+	],
 	"title": "A genetic algorithm for the minimum broadcast time problem using a global precedence vector",
 	"type": "inproceedings",
 	"venue": "SAC",

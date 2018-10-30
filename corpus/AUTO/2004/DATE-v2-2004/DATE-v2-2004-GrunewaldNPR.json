@@ -1,6 +1,12 @@
 {
-	"author": ["Matthias Grünewald", "Jörg-Christian Niemann", "Mario Porrmann", "Ulrich Rückert"],
-	"booktitle": "DATE",
+	"author": [
+		"Matthias Grünewald",
+		"Jörg-Christian Niemann",
+		"Mario Porrmann",
+		"Ulrich Rückert"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/GrunewaldNPR04",
 	"doi": "10.1109/DATE.2004.1268970",
@@ -8,8 +14,24 @@
 	"pages": "758-763",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "map", "strategi", "for", "resourc", "effici", "network", "process", "on", "multiprocessor", "so", "c"],
-	"tag": ["multi", "network"],
+	"stemmed": [
+		"a",
+		"map",
+		"strategi",
+		"for",
+		"resourc",
+		"effici",
+		"network",
+		"process",
+		"on",
+		"multiprocessor",
+		"so",
+		"c"
+	],
+	"tag": [
+		"multi",
+		"network"
+	],
 	"title": "A Mapping Strategy for Resource-Efficient Network Processing on Multiprocessor SoC",
 	"type": "inproceedings",
 	"venue": "DATE",

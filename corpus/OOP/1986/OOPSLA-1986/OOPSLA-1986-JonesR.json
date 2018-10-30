@@ -1,6 +1,9 @@
 {
-	"author": ["Michael B. Jones", "Richard F. Rashid"],
-	"booktitle": "Proceedings of the First Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"author": [
+		"Michael B. Jones",
+		"Richard F. Rashid"
+	],
+	"booktitle": "Proceedings of the First Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1986",
 	"dblpkey": "conf/oopsla/JonesR86",
@@ -10,8 +13,25 @@
 	"isbn": "0-89791-204-7",
 	"pages": "67-77",
 	"publisher": "ACM",
-	"stemmed": ["mach", "and", "matchmak", "kernel", "and", "languag", "support", "for", "object", "orient", "distribut", "system"],
-	"tag": ["distributed", "kernel", "object-oriented"],
+	"stemmed": [
+		"mach",
+		"and",
+		"matchmak",
+		"kernel",
+		"and",
+		"languag",
+		"support",
+		"for",
+		"object",
+		"orient",
+		"distribut",
+		"system"
+	],
+	"tag": [
+		"distributed",
+		"kernel",
+		"object-oriented"
+	],
 	"title": "Mach and Matchmaker: Kernel and Language Support for Object-Oriented Distributed Systems",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

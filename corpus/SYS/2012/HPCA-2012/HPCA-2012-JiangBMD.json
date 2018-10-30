@@ -1,15 +1,33 @@
 {
-	"author": ["Nan Jiang", "Daniel U. Becker", "George Michelogiannakis", "William J. Dally"],
-	"booktitle": "HPCA",
+	"author": [
+		"Nan Jiang",
+		"Daniel U. Becker",
+		"George Michelogiannakis",
+		"William J. Dally"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2012",
 	"dblpkey": "conf/hpca/JiangBMD12",
 	"doi": "10.1109/HPCA.2012.6169047",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2012.6169047", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6169047"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2012.6169047",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6169047"
+	],
 	"pages": "443-454",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["network", "congest", "avoid", "through", "specul", "reserv"],
-	"tag": ["network"],
+	"stemmed": [
+		"network",
+		"congest",
+		"avoid",
+		"through",
+		"specul",
+		"reserv"
+	],
+	"tag": [
+		"network"
+	],
 	"title": "Network congestion avoidance through Speculative Reservation",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,14 +1,44 @@
 {
-	"author": ["Won Kim", "Raymond A. Lorie", "Dan McNabb", "Wil Plouffe"],
-	"booktitle": "VLDB",
-	"cite": ["...", "journals/cacm/ChamberlinABGKLLMPPSSSTWY81", "...", "conf/ac/Gray78", "conf/vldb/Gray81", "conf/sigmod/HaskinL82", "...", "...", "...", "...", "..."],
+	"author": [
+		"Won Kim",
+		"Raymond A. Lorie",
+		"Dan McNabb",
+		"Wil Plouffe"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"journals/cacm/ChamberlinABGKLLMPPSSSTWY81",
+		"...",
+		"conf/ac/Gray78",
+		"conf/vldb/Gray81",
+		"conf/sigmod/HaskinL82",
+		"...",
+		"...",
+		"...",
+		"...",
+		"..."
+	],
 	"crossref": "conf/vldb/84",
 	"dblpkey": "conf/vldb/KimLMP84",
 	"ee": "http://www.vldb.org/conf/1984/P355.PDF",
 	"pages": "355-362",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["a", "transact", "mechan", "for", "engin", "design", "databas"],
-	"tag": ["database", "design", "transaction"],
+	"stemmed": [
+		"a",
+		"transact",
+		"mechan",
+		"for",
+		"engin",
+		"design",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"design",
+		"transaction"
+	],
 	"title": "A Transaction Mechanism for Engineering Design Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,12 @@
 {
-	"author": ["Dong-In Kang", "Richard Gerber", "Leana Golubchik", "Jeffrey K. Hollingsworth", "Manas Saksena"],
-	"booktitle": "Workshop on Languages, Compilers, and Tools for Embedded Systems",
+	"author": [
+		"Dong-In Kang",
+		"Richard Gerber",
+		"Leana Golubchik",
+		"Jeffrey K. Hollingsworth",
+		"Manas Saksena"
+	],
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Embedded Systems",
 	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/1999",
 	"dblpkey": "conf/lctrts/KangGGHS99",
@@ -8,8 +14,23 @@
 	"ee": "http://doi.acm.org/10.1145/314403.314468",
 	"pages": "87-95",
 	"publisher": "ACM",
-	"stemmed": ["a", "softwar", "synthesi", "tool", "for", "distribut", "embed", "system", "design"],
-	"tag": ["design", "distributed", "embedded", "synthesis"],
+	"stemmed": [
+		"a",
+		"softwar",
+		"synthesi",
+		"tool",
+		"for",
+		"distribut",
+		"embed",
+		"system",
+		"design"
+	],
+	"tag": [
+		"design",
+		"distributed",
+		"embedded",
+		"synthesis"
+	],
 	"title": "A Software Synthesis Tool for Distributed Embedded System Design",
 	"type": "inproceedings",
 	"venue": "LCTES",

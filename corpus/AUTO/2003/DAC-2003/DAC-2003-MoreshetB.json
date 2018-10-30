@@ -1,14 +1,31 @@
 {
-	"author": ["Tali Moreshet", "R. Iris Bahar"],
-	"booktitle": "DAC",
+	"author": [
+		"Tali Moreshet",
+		"R. Iris Bahar"
+	],
+	"booktitle": "Proceedings of the 40th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2003",
 	"dblpkey": "conf/dac/MoreshetB03",
 	"doi": "10.1145/775832.775991",
 	"ee": "http://doi.acm.org/10.1145/775832.775991",
 	"pages": "634-637",
 	"publisher": "ACM",
-	"stemmed": ["power", "awar", "issu", "queue", "design", "for", "specul", "instruct"],
-	"tag": ["design", "power management", "queue"],
+	"stemmed": [
+		"power",
+		"awar",
+		"issu",
+		"queue",
+		"design",
+		"for",
+		"specul",
+		"instruct"
+	],
+	"tag": [
+		"design",
+		"power management",
+		"queue"
+	],
 	"title": "Power-aware issue queue design for speculative instructions",
 	"type": "inproceedings",
 	"venue": "DAC",

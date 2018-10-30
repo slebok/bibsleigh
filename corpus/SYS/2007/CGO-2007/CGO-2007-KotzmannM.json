@@ -1,16 +1,38 @@
 {
-	"acmid": 1252531,
-	"author": ["Thomas Kotzmann", "Hanspeter Mössenböck"],
-	"booktitle": "CGO",
+	"acmid": "1252531",
+	"author": [
+		"Thomas Kotzmann",
+		"Hanspeter Mössenböck"
+	],
+	"booktitle": "Proceedings of the Fifth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2007",
 	"dblpkey": "conf/cgo/KotzmannM07",
 	"doi": "10.1109/CGO.2007.34",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2007.34", "http://doi.ieeecomputersociety.org/10.1109/CGO.2007.34", "http://dl.acm.org/citation.cfm?id=1252531"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2007.34",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2007.34",
+		"http://dl.acm.org/citation.cfm?id=1252531"
+	],
 	"pages": "49-60",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["run", "time", "support", "for", "optim", "base", "on", "escap", "analysi"],
-	"tag": ["analysis", "optimisation", "runtime"],
+	"stemmed": [
+		"run",
+		"time",
+		"support",
+		"for",
+		"optim",
+		"base",
+		"on",
+		"escap",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"optimisation",
+		"runtime"
+	],
 	"title": "Run-Time Support for Optimizations Based on Escape Analysis",
 	"type": "inproceedings",
 	"venue": "CGO",

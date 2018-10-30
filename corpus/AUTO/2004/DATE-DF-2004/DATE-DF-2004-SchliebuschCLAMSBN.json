@@ -1,6 +1,16 @@
 {
-	"author": ["Oliver Schliebusch", "Anupam Chattopadhyay", "Rainer Leupers", "Gerd Ascheid", "Heinrich Meyr", "Mario Steinert", "Gunnar Braun", "Achim Nohl"],
-	"booktitle": "DATE",
+	"author": [
+		"Oliver Schliebusch",
+		"Anupam Chattopadhyay",
+		"Rainer Leupers",
+		"Gerd Ascheid",
+		"Heinrich Meyr",
+		"Mario Steinert",
+		"Gunnar Braun",
+		"Achim Nohl"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Designers’ Forum",
+	"booktitleshort": "DATE DF",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/SchliebuschCLAMSBN04",
 	"doi": "10.1109/DATE.2004.1269223",
@@ -8,8 +18,21 @@
 	"pages": "156-160",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["rtl", "processor", "synthesi", "for", "architectur", "explor", "and", "implement"],
-	"tag": ["architecture", "implementation", "synthesis"],
+	"stemmed": [
+		"rtl",
+		"processor",
+		"synthesi",
+		"for",
+		"architectur",
+		"explor",
+		"and",
+		"implement"
+	],
+	"tag": [
+		"architecture",
+		"implementation",
+		"synthesis"
+	],
 	"title": "RTL Processor Synthesis for Architecture Exploration and Implementation",
 	"type": "inproceedings",
 	"venue": "DATE",

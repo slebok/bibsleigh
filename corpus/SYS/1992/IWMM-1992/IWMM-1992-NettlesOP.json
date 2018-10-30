@@ -1,6 +1,11 @@
 {
-	"author": ["Scott Nettles", "James O'Toole", "David Pierce"],
-	"booktitle": "IWMM",
+	"author": [
+		"Scott Nettles",
+		"James O'Toole",
+		"David Pierce"
+	],
+	"booktitle": "Proceedings of the First International Workshop on Memory Management",
+	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
 	"dblpkey": "conf/iwmm/NettlesOP92",
 	"doi": "10.1007/BFb0017201",
@@ -10,11 +15,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["replic", "base", "increment", "copi", "collect"],
-	"tag": ["incremental"],
+	"stemmed": [
+		"replic",
+		"base",
+		"increment",
+		"copi",
+		"collect"
+	],
+	"tag": [
+		"incremental"
+	],
 	"title": "Replication-Based Incremental Copying Collection",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 637,
+	"volume": "637",
 	"year": 1992
 }

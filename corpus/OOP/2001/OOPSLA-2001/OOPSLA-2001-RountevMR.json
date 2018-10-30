@@ -1,17 +1,39 @@
 {
-	"author": ["Atanas Rountev", "Ana Milanova", "Barbara G. Ryder"],
-	"booktitle": "Proceedings of the 16th Conference on Object-Oriented Programming Systems, Languages and Applications",
+	"author": [
+		"Atanas Rountev",
+		"Ana Milanova",
+		"Barbara G. Ryder"
+	],
+	"booktitle": "Proceedings of the 16th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2001",
 	"dblpkey": "conf/oopsla/RountevMR01",
 	"doi": "10.1145/504282.504286",
-	"editor": ["Linda M. Northrop", "John M. Vlissides"],
+	"editor": [
+		"Linda M. Northrop",
+		"John M. Vlissides"
+	],
 	"ee": "http://doi.acm.org/10.1145/504282.504286",
 	"isbn": "1-58113-335-9",
 	"pages": "43-55",
 	"publisher": "ACM",
-	"stemmed": ["point", "to", "analysi", "for", "java", "use", "annot", "constraint"],
-	"tag": ["analysis", "constraints", "java", "points-to", "using"],
+	"stemmed": [
+		"point",
+		"to",
+		"analysi",
+		"for",
+		"java",
+		"use",
+		"annot",
+		"constraint"
+	],
+	"tag": [
+		"analysis",
+		"constraints",
+		"java",
+		"points-to",
+		"using"
+	],
 	"title": "Points-To Analysis for Java using Annotated Constraints",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

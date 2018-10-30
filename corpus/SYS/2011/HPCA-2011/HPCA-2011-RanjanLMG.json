@@ -1,15 +1,40 @@
 {
-	"author": ["Rakesh Ranjan", "Fernando Latorre", "Pedro Marcuello", "Antonio González"],
-	"booktitle": "HPCA",
+	"author": [
+		"Rakesh Ranjan",
+		"Fernando Latorre",
+		"Pedro Marcuello",
+		"Antonio González"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2011",
 	"dblpkey": "conf/hpca/RanjanLMG11",
 	"doi": "10.1109/HPCA.2011.5749713",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2011.5749713", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2011.5749713"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2011.5749713",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2011.5749713"
+	],
 	"pages": "15-24",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["fg", "stp", "fine", "grain", "singl", "thread", "partit", "on", "multicor"],
-	"tag": ["clustering", "concurrent", "multi", "named", "thread"],
+	"stemmed": [
+		"fg",
+		"stp",
+		"fine",
+		"grain",
+		"singl",
+		"thread",
+		"partit",
+		"on",
+		"multicor"
+	],
+	"tag": [
+		"clustering",
+		"concurrent",
+		"multi",
+		"named",
+		"thread"
+	],
 	"title": "Fg-STP: Fine-Grain Single Thread Partitioning on Multicores",
 	"type": "inproceedings",
 	"venue": "HPCA",

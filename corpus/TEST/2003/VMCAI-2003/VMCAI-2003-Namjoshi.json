@@ -1,6 +1,7 @@
 {
 	"author": "Kedar S. Namjoshi",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the Fourth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2003",
 	"dblpkey": "conf/vmcai/Namjoshi03",
 	"doi": "10.1007/3-540-36384-X_16",
@@ -10,11 +11,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["lift", "tempor", "proof", "through", "abstract"],
-	"tag": ["abstraction", "proving"],
+	"stemmed": [
+		"lift",
+		"tempor",
+		"proof",
+		"through",
+		"abstract"
+	],
+	"tag": [
+		"abstraction",
+		"proving"
+	],
 	"title": "Lifting Temporal Proofs through Abstractions",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2575,
+	"volume": "2575",
 	"year": 2003
 }

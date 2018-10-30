@@ -1,14 +1,35 @@
 {
-	"author": ["Dehao Chen", "Neil Vachharajani", "Robert Hundt", "Shih-wei Liao", "Vinodha Ramasamy", "Paul Yuan", "Wenguang Chen", "Weimin Zheng"],
-	"booktitle": "CGO",
+	"author": [
+		"Dehao Chen",
+		"Neil Vachharajani",
+		"Robert Hundt",
+		"Shih-wei Liao",
+		"Vinodha Ramasamy",
+		"Paul Yuan",
+		"Wenguang Chen",
+		"Weimin Zheng"
+	],
+	"booktitle": "Proceedings of the Eighth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2010",
 	"dblpkey": "conf/cgo/ChenVHLRYCZ10",
 	"doi": "10.1145/1772954.1772963",
 	"ee": "http://doi.acm.org/10.1145/1772954.1772963",
 	"pages": "42-52",
 	"publisher": "ACM",
-	"stemmed": ["tame", "hardwar", "event", "sampl", "for", "fdo", "compil"],
-	"tag": ["compilation", "hardware"],
+	"stemmed": [
+		"tame",
+		"hardwar",
+		"event",
+		"sampl",
+		"for",
+		"fdo",
+		"compil"
+	],
+	"tag": [
+		"compilation",
+		"hardware"
+	],
 	"title": "Taming hardware event samples for FDO compilation",
 	"type": "inproceedings",
 	"venue": "CGO",

@@ -1,15 +1,40 @@
 {
-	"author": ["Divyakant Agrawal", "Amr El Abbadi"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS90/P085.PDF", "journals/anthology/dvd1:text/1-3/PODS90/P085.PDF"],
-	"cite": ["...", "books/aw/BernsteinHG87", "journals/tse/BernsteinSW79", "...", "journals/cacm/EswarranGLT76", "journals/jacm/Hadzilacos88", "journals/csur/Holt72", "journals/jacm/Korth83", "journals/jacm/Papadimitriou79b", "conf/hpts/SalemGA87", "journals/jacm/Yannakakis84", "conf/focs/YannakakisPK79"],
+	"author": [
+		"Divyakant Agrawal",
+		"Amr El Abbadi"
+	],
+	"booktitle": "Proceedings of the Ninth Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS90/P085.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS90/P085.PDF"
+	],
+	"cite": [
+		"...",
+		"books/aw/BernsteinHG87",
+		"journals/tse/BernsteinSW79",
+		"...",
+		"journals/cacm/EswarranGLT76",
+		"journals/jacm/Hadzilacos88",
+		"journals/csur/Holt72",
+		"journals/jacm/Korth83",
+		"journals/jacm/Papadimitriou79b",
+		"conf/hpts/SalemGA87",
+		"journals/jacm/Yannakakis84",
+		"conf/focs/YannakakisPK79"
+	],
 	"crossref": "conf/pods/90",
 	"dblpkey": "conf/pods/AgrawalA90",
 	"doi": "10.1145/298514.298545",
 	"ee": "http://doi.acm.org/10.1145/298514.298545",
 	"pages": "85-93",
 	"publisher": "ACM Press",
-	"stemmed": ["lock", "with", "constrain", "share"],
+	"stemmed": [
+		"lock",
+		"with",
+		"constrain",
+		"share"
+	],
 	"title": "Locks with Constrained Sharing",
 	"type": "inproceedings",
 	"venue": "PODS",

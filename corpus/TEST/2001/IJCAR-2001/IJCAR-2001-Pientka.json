@@ -1,6 +1,7 @@
 {
 	"author": "Brigitte Pientka",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the First International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2001",
 	"dblpkey": "conf/cade/Pientka01",
 	"doi": "10.1007/3-540-45744-5_32",
@@ -10,11 +11,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["termin", "and", "reduct", "check", "for", "higher", "order", "logic", "program"],
-	"tag": ["higher-order", "logic programming", "reduction", "source code", "termination"],
+	"stemmed": [
+		"termin",
+		"and",
+		"reduct",
+		"check",
+		"for",
+		"higher",
+		"order",
+		"logic",
+		"program"
+	],
+	"tag": [
+		"higher-order",
+		"logic programming",
+		"reduction",
+		"source code",
+		"termination"
+	],
 	"title": "Termination and Reduction Checking for Higher-Order Logic Programs",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 2083,
+	"volume": "2083",
 	"year": 2001
 }

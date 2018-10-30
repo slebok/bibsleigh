@@ -1,17 +1,41 @@
 {
-	"author": ["Laura Effinger-Dean", "Brandon Lucia", "Luis Ceze", "Dan Grossman", "Hans-Juergen Boehm"],
-	"booktitle": "Proceedings of the 27th Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Laura Effinger-Dean",
+		"Brandon Lucia",
+		"Luis Ceze",
+		"Dan Grossman",
+		"Hans-Juergen Boehm"
+	],
+	"booktitle": "Proceedings of the 27th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2012",
 	"dblpkey": "conf/oopsla/Effinger-DeanLCGB12",
 	"doi": "10.1145/2384616.2384650",
-	"editor": ["Gary T. Leavens", "Matthew B. Dwyer"],
+	"editor": [
+		"Gary T. Leavens",
+		"Matthew B. Dwyer"
+	],
 	"ee": "http://doi.acm.org/10.1145/2384616.2384650",
 	"isbn": "978-1-4503-1561-6",
 	"pages": "467-484",
 	"publisher": "ACM",
-	"stemmed": ["if", "rit", "interfer", "free", "region", "for", "dynam", "data", "race", "detect"],
-	"tag": ["concurrent", "detection", "named"],
+	"stemmed": [
+		"if",
+		"rit",
+		"interfer",
+		"free",
+		"region",
+		"for",
+		"dynam",
+		"data",
+		"race",
+		"detect"
+	],
+	"tag": [
+		"concurrent",
+		"detection",
+		"named"
+	],
 	"title": "IFRit: interference-free regions for dynamic data-race detection",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

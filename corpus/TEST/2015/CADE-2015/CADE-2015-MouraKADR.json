@@ -1,6 +1,13 @@
 {
-	"author": ["Leonardo Mendonça de Moura", "Soonho Kong", "Jeremy Avigad", "Floris van Doorn", "Jakob von Raumer"],
-	"booktitle": "CADE",
+	"author": [
+		"Leonardo Mendonça de Moura",
+		"Soonho Kong",
+		"Jeremy Avigad",
+		"Floris van Doorn",
+		"Jakob von Raumer"
+	],
+	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
 	"dblpkey": "conf/cade/MouraKADR15",
 	"doi": "10.1007/978-3-319-21401-6_26",
@@ -10,11 +17,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "lean", "theorem", "prover", "system", "descript"],
-	"tag": ["agile", "proving", "theorem proving"],
+	"stemmed": [
+		"the",
+		"lean",
+		"theorem",
+		"prover",
+		"system",
+		"descript"
+	],
+	"tag": [
+		"agile",
+		"proving",
+		"theorem proving"
+	],
 	"title": "The Lean Theorem Prover (System Description)",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 9195,
+	"volume": "9195",
 	"year": 2015
 }

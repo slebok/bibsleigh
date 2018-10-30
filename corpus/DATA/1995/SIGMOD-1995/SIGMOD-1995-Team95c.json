@@ -1,14 +1,26 @@
 {
 	"author": "The Access Team",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/95",
 	"dblpkey": "conf/sigmod/Team95c",
 	"doi": "10.1145/223784.223858",
 	"ee": "http://doi.acm.org/10.1145/223784.223858",
 	"pages": "425-426",
 	"publisher": "ACM Press",
-	"stemmed": ["upsiz", "from", "file", "server", "to", "clent", "server", "architectur"],
-	"tag": ["architecture"],
+	"stemmed": [
+		"upsiz",
+		"from",
+		"file",
+		"server",
+		"to",
+		"clent",
+		"server",
+		"architectur"
+	],
+	"tag": [
+		"architecture"
+	],
 	"title": "Upsizing from File Server to Clent Server Architectures",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

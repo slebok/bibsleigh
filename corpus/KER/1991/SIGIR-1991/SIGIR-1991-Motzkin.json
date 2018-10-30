@@ -1,6 +1,7 @@
 {
 	"author": "Dalia Motzkin",
 	"booktitle": "Proceedings of the 14th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1991/P291.pdf",
 	"crossref": "conf/sigir/91",
 	"dblpkey": "conf/sigir/Motzkin91",
@@ -8,8 +9,20 @@
 	"ee": "http://doi.acm.org/10.1145/122860.122890",
 	"pages": "291-303",
 	"publisher": "ACM",
-	"stemmed": ["an", "effici", "directori", "system", "for", "document", "retriev"],
-	"tag": ["documentation", "performance", "retrieval"],
+	"stemmed": [
+		"an",
+		"effici",
+		"directori",
+		"system",
+		"for",
+		"document",
+		"retriev"
+	],
+	"tag": [
+		"documentation",
+		"performance",
+		"retrieval"
+	],
 	"title": "An Efficient Directory System for Document Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

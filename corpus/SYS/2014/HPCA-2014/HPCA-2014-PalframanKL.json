@@ -1,6 +1,11 @@
 {
-	"author": ["David J. Palframan", "Nam Sung Kim", "Mikko H. Lipasti"],
-	"booktitle": "HPCA",
+	"author": [
+		"David J. Palframan",
+		"Nam Sung Kim",
+		"Mikko H. Lipasti"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/PalframanKL14",
 	"doi": "10.1109/HPCA.2014.6835966",
@@ -8,8 +13,18 @@
 	"pages": "49-59",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["precis", "awar", "soft", "error", "protect", "for", "gpus"],
-	"tag": ["fault"],
+	"stemmed": [
+		"precis",
+		"awar",
+		"soft",
+		"error",
+		"protect",
+		"for",
+		"gpus"
+	],
+	"tag": [
+		"fault"
+	],
 	"title": "Precision-aware soft error protection for GPUs",
 	"type": "inproceedings",
 	"venue": "HPCA",

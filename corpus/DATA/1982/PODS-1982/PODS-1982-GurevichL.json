@@ -1,16 +1,44 @@
 {
-	"author": ["Yuri Gurevich", "Harry R. Lewis"],
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS82/P221.PDF", "journals/anthology/dvd1:text/1-3/PODS82/P221.PDF"],
-	"cite": ["conf/stoc/ChandraLM81", "...", "...", "conf/stoc/Fagin80", "journals/siamcomp/FaginMUY83", "...", "conf/stoc/SadriU80", "...", "conf/pods/Vardi82", "conf/focs/YannakakisP80"],
+	"author": [
+		"Yuri Gurevich",
+		"Harry R. Lewis"
+	],
+	"booktitle": "Proceedings of the First Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS82/P221.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS82/P221.PDF"
+	],
+	"cite": [
+		"conf/stoc/ChandraLM81",
+		"...",
+		"...",
+		"conf/stoc/Fagin80",
+		"journals/siamcomp/FaginMUY83",
+		"...",
+		"conf/stoc/SadriU80",
+		"...",
+		"conf/pods/Vardi82",
+		"conf/focs/YannakakisP80"
+	],
 	"crossref": "conf/pods/82",
 	"dblpkey": "conf/pods/GurevichL82",
 	"doi": "10.1145/588111.588148",
 	"ee": "http://doi.acm.org/10.1145/588111.588148",
 	"pages": "221-229",
 	"publisher": "ACM",
-	"stemmed": ["the", "infer", "problem", "for", "templat", "depend"],
-	"tag": ["dependence", "problem"],
+	"stemmed": [
+		"the",
+		"infer",
+		"problem",
+		"for",
+		"templat",
+		"depend"
+	],
+	"tag": [
+		"dependence",
+		"problem"
+	],
 	"title": "The Inference Problem for Template Dependencies",
 	"type": "inproceedings",
 	"venue": "PODS",

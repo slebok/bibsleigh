@@ -1,12 +1,32 @@
 {
-	"author": ["Luc Bouganim", "François Dang Ngoc", "Philippe Pucheral", "Lilan Wu"],
-	"booktitle": "VLDB",
+	"author": [
+		"Luc Bouganim",
+		"François Dang Ngoc",
+		"Philippe Pucheral",
+		"Lilan Wu"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/BouganimNPW03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S37P06.pdf",
 	"pages": "1133-1136",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["chip", "secur", "data", "access", "reconcil", "access", "right", "with", "data", "encrypt"],
-	"tag": ["data access", "encryption"],
+	"stemmed": [
+		"chip",
+		"secur",
+		"data",
+		"access",
+		"reconcil",
+		"access",
+		"right",
+		"with",
+		"data",
+		"encrypt"
+	],
+	"tag": [
+		"data access",
+		"encryption"
+	],
 	"title": "Chip-Secured Data Access: Reconciling Access Rights with Data Encryption",
 	"type": "inproceedings",
 	"venue": "VLDB",

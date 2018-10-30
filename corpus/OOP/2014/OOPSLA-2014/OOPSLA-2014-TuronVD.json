@@ -1,6 +1,10 @@
 {
-	"author": ["Aaron Turon", "Viktor Vafeiadis", "Derek Dreyer"],
-	"booktitle": "Proceedings of the 29th International Conference on Object Oriented Programming Systems Languages & Applications",
+	"author": [
+		"Aaron Turon",
+		"Viktor Vafeiadis",
+		"Derek Dreyer"
+	],
+	"booktitle": "Proceedings of the 29th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2014",
 	"dblpkey": "conf/oopsla/TuronVD14",
@@ -8,8 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/2660193.2660243",
 	"pages": "691-707",
 	"publisher": "ACM",
-	"stemmed": ["gps", "navig", "weak", "memori", "with", "ghost", "protocol", "and", "separ"],
-	"tag": ["memory management", "named", "navigation", "protocol"],
+	"stemmed": [
+		"gps",
+		"navig",
+		"weak",
+		"memori",
+		"with",
+		"ghost",
+		"protocol",
+		"and",
+		"separ"
+	],
+	"tag": [
+		"memory management",
+		"named",
+		"navigation",
+		"protocol"
+	],
 	"title": "GPS: navigating weak memory with ghosts, protocols, and separation",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

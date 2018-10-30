@@ -1,6 +1,9 @@
 {
-	"author": ["Robert Christensen", "Feifei Li"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Robert Christensen",
+		"Feifei Li"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/ChristensenL13",
@@ -8,8 +11,18 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465341",
 	"pages": "1283-1284",
 	"publisher": "ACM",
-	"stemmed": ["adapt", "log", "compress", "for", "massiv", "log", "data"],
-	"tag": ["adaptation"],
+	"stemmed": [
+		"adapt",
+		"log",
+		"compress",
+		"for",
+		"massiv",
+		"log",
+		"data"
+	],
+	"tag": [
+		"adaptation"
+	],
 	"title": "Adaptive log compression for massive log data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,15 +1,43 @@
 {
-	"author": ["Hsi-Jian Lee", "Cheng-Huang Tung"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Hsi-Jian Lee",
+		"Cheng-Huang Tung"
+	],
+	"booktitle": "Proceedings of the Third International Conference on Document Analysis and Recognition (Volume I)",
+	"booktitleshort": "ICDAR v1",
 	"crossref": "conf/icdar/1995-1",
 	"dblpkey": "conf/icdar/LeeT95",
 	"doi": "10.1109/ICDAR.1995.599033",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1995.599033", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.599033"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1995.599033",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.599033"
+	],
 	"pages": "450-453",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "languag", "model", "base", "on", "semant", "cluster", "word", "in", "a", "chines", "charact", "recognit", "system"],
-	"tag": ["clustering", "modelling", "recognition", "semantics", "word"],
+	"stemmed": [
+		"a",
+		"languag",
+		"model",
+		"base",
+		"on",
+		"semant",
+		"cluster",
+		"word",
+		"in",
+		"a",
+		"chines",
+		"charact",
+		"recognit",
+		"system"
+	],
+	"tag": [
+		"clustering",
+		"modelling",
+		"recognition",
+		"semantics",
+		"word"
+	],
 	"title": "A language model based on semantically clustered words in a Chinese character recognition system",
 	"type": "inproceedings",
 	"venue": "ICDAR",

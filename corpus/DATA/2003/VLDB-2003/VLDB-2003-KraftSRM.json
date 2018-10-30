@@ -1,12 +1,32 @@
 {
-	"author": ["Tobias Kraft", "Holger Schwarz", "Ralf Rantzau", "Bernhard Mitschang"],
-	"booktitle": "VLDB",
+	"author": [
+		"Tobias Kraft",
+		"Holger Schwarz",
+		"Ralf Rantzau",
+		"Bernhard Mitschang"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/KraftSRM03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S15P03.pdf",
 	"pages": "488-499",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["coars", "grain", "optim", "techniqu", "for", "rewrit", "sql", "statement", "sequenc"],
-	"tag": ["optimisation", "sequence", "sql"],
+	"stemmed": [
+		"coars",
+		"grain",
+		"optim",
+		"techniqu",
+		"for",
+		"rewrit",
+		"sql",
+		"statement",
+		"sequenc"
+	],
+	"tag": [
+		"optimisation",
+		"sequence",
+		"sql"
+	],
 	"title": "Coarse-Grained Optimization: Techniques for Rewriting SQL Statement Sequences",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,14 +1,30 @@
 {
-	"author": ["Lei Cheng", "Deming Chen", "Martin D. F. Wong"],
-	"booktitle": "DAC",
+	"author": [
+		"Lei Cheng",
+		"Deming Chen",
+		"Martin D. F. Wong"
+	],
+	"booktitle": "Proceedings of the 44th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2007",
 	"dblpkey": "conf/dac/ChengCW07a",
 	"doi": "10.1145/1278480.1278705",
 	"ee": "http://doi.acm.org/10.1145/1278480.1278705",
 	"pages": "910-915",
 	"publisher": "IEEE",
-	"stemmed": ["ddbdd", "delay", "driven", "bdd", "synthesi", "for", "fpgas"],
-	"tag": ["named", "synthesis"],
+	"stemmed": [
+		"ddbdd",
+		"delay",
+		"driven",
+		"bdd",
+		"synthesi",
+		"for",
+		"fpgas"
+	],
+	"tag": [
+		"named",
+		"synthesis"
+	],
 	"title": "DDBDD: Delay-Driven BDD Synthesis for FPGAs",
 	"type": "inproceedings",
 	"venue": "DAC",

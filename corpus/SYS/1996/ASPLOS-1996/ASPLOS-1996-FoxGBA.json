@@ -1,14 +1,37 @@
 {
-	"author": ["Armando Fox", "Steven D. Gribble", "Eric A. Brewer", "Elan Amir"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Armando Fox",
+		"Steven D. Gribble",
+		"Eric A. Brewer",
+		"Elan Amir"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1996",
 	"dblpkey": "conf/asplos/FoxGBA96",
 	"doi": "10.1145/237090.237177",
 	"ee": "http://doi.acm.org/10.1145/237090.237177",
 	"pages": "160-170",
 	"publisher": "ACM Press",
-	"stemmed": ["adapt", "to", "network", "and", "client", "variabl", "via", "on", "demand", "dynam", "distil"],
-	"tag": ["adaptation", "network", "on-demand", "variability"],
+	"stemmed": [
+		"adapt",
+		"to",
+		"network",
+		"and",
+		"client",
+		"variabl",
+		"via",
+		"on",
+		"demand",
+		"dynam",
+		"distil"
+	],
+	"tag": [
+		"adaptation",
+		"network",
+		"on-demand",
+		"variability"
+	],
 	"title": "Adapting to Network and Client Variability via On-Demand Dynamic Distillation",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

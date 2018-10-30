@@ -1,6 +1,6 @@
 {
 	"author": "Swaminathan Sivasubramanian",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/Sivasubramanian12",
@@ -8,8 +8,21 @@
 	"ee": "http://doi.acm.org/10.1145/2213836.2213945",
 	"pages": "729-730",
 	"publisher": "ACM",
-	"stemmed": ["amazon", "dynamodb", "a", "seamless", "scalabl", "non", "relat", "databas", "servic"],
-	"tag": ["database", "scalability"],
+	"stemmed": [
+		"amazon",
+		"dynamodb",
+		"a",
+		"seamless",
+		"scalabl",
+		"non",
+		"relat",
+		"databas",
+		"servic"
+	],
+	"tag": [
+		"database",
+		"scalability"
+	],
 	"title": "Amazon dynamoDB: a seamlessly scalable non-relational database service",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

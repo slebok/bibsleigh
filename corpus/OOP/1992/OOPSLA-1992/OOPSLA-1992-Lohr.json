@@ -1,6 +1,6 @@
 {
 	"author": "Klaus-Peter Löhr",
-	"booktitle": "Proceedings of the Seventh Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"booktitle": "Proceedings of the Seventh Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1992",
 	"dblpkey": "conf/oopsla/Lohr92",
@@ -10,8 +10,13 @@
 	"isbn": "0-201-53372-3",
 	"pages": "327-340",
 	"publisher": "ACM",
-	"stemmed": ["concurr", "annot"],
-	"tag": ["concurrent"],
+	"stemmed": [
+		"concurr",
+		"annot"
+	],
+	"tag": [
+		"concurrent"
+	],
 	"title": "Concurrency Annotations",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

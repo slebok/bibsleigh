@@ -1,14 +1,38 @@
 {
-	"author": ["Tsung-Hao Chen", "Charlie Chung-Ping Chen"],
-	"booktitle": "DAC",
+	"author": [
+		"Tsung-Hao Chen",
+		"Charlie Chung-Ping Chen"
+	],
+	"booktitle": "Proceedings of the 38th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2001",
 	"dblpkey": "conf/dac/ChenC01",
 	"doi": "10.1145/378239.379023",
 	"ee": "http://doi.acm.org/10.1145/378239.379023",
 	"pages": "559-562",
 	"publisher": "ACM",
-	"stemmed": ["effici", "larg", "scale", "power", "grid", "analysi", "base", "on", "precondit", "krylov", "subspac", "iter", "method"],
-	"tag": ["analysis", "grid", "performance", "power management", "scalability"],
+	"stemmed": [
+		"effici",
+		"larg",
+		"scale",
+		"power",
+		"grid",
+		"analysi",
+		"base",
+		"on",
+		"precondit",
+		"krylov",
+		"subspac",
+		"iter",
+		"method"
+	],
+	"tag": [
+		"analysis",
+		"grid",
+		"performance",
+		"power management",
+		"scalability"
+	],
 	"title": "Efficient Large-Scale Power Grid Analysis Based on Preconditioned Krylov-Subspace Iterative Methods",
 	"type": "inproceedings",
 	"venue": "DAC",

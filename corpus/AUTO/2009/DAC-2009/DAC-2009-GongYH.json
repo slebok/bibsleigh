@@ -1,14 +1,38 @@
 {
-	"author": ["Fang Gong", "Hao Yu", "Lei He"],
-	"booktitle": "DAC",
+	"author": [
+		"Fang Gong",
+		"Hao Yu",
+		"Lei He"
+	],
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/GongYH09",
 	"doi": "10.1145/1629911.1630109",
 	"ee": "http://doi.acm.org/10.1145/1629911.1630109",
 	"pages": "764-769",
 	"publisher": "ACM",
-	"stemmed": ["pi", "cap", "a", "parallel", "and", "increment", "capacit", "extract", "consid", "stochast", "process", "variat"],
-	"tag": ["incremental", "named", "parallel", "probability", "process"],
+	"stemmed": [
+		"pi",
+		"cap",
+		"a",
+		"parallel",
+		"and",
+		"increment",
+		"capacit",
+		"extract",
+		"consid",
+		"stochast",
+		"process",
+		"variat"
+	],
+	"tag": [
+		"incremental",
+		"named",
+		"parallel",
+		"probability",
+		"process"
+	],
 	"title": "PiCAP: a parallel and incremental capacitance extraction considering stochastic process variation",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,15 +1,33 @@
 {
-	"author": ["Naoko Kosugi", "Yasushi Sakurai", "Masashi Morimoto"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Naoko Kosugi",
+		"Yasushi Sakurai",
+		"Masashi Morimoto"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2004",
 	"dblpkey": "conf/sigmod/KosugiSM04",
 	"doi": "10.1145/1007568.1007677",
-	"ee": ["http://doi.acm.org/10.1145/1007568.1007677", "http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/I-004a.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/1007568.1007677",
+		"http://www.sigmod.org/sigmod/sigmod04/eproceedings/pdf/I-004a.pdf"
+	],
 	"pages": "881-886",
 	"publisher": "ACM",
-	"stemmed": ["sound", "compass", "a", "practic", "queri", "by", "hum", "system"],
-	"tag": ["named"],
+	"stemmed": [
+		"sound",
+		"compass",
+		"a",
+		"practic",
+		"queri",
+		"by",
+		"hum",
+		"system"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "SoundCompass: A Practical Query-by-Humming System",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

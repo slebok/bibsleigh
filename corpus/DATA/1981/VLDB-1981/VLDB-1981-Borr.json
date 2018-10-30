@@ -1,15 +1,37 @@
 {
 	"author": "Andrea J. Borr",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the Seventh International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB81/P155.PDF",
-	"cite": ["...", "conf/sosp/Bartlett81", "conf/ac/Gray78", "...", "...", "..."],
+	"cite": [
+		"...",
+		"conf/sosp/Bartlett81",
+		"conf/ac/Gray78",
+		"...",
+		"...",
+		"..."
+	],
 	"crossref": "conf/vldb/81",
 	"dblpkey": "conf/vldb/Borr81",
 	"pages": "155-165",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["transact", "monitor", "in", "encompass", "reliabl", "distribut", "transact", "process"],
-	"tag": ["distributed", "monitoring", "reliability", "transaction"],
+	"stemmed": [
+		"transact",
+		"monitor",
+		"in",
+		"encompass",
+		"reliabl",
+		"distribut",
+		"transact",
+		"process"
+	],
+	"tag": [
+		"distributed",
+		"monitoring",
+		"reliability",
+		"transaction"
+	],
 	"title": "Transaction Monitoring in ENCOMPASS: Reliable Distributed Transaction Processing",
 	"type": "inproceedings",
 	"venue": "VLDB",

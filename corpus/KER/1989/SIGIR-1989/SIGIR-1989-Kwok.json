@@ -1,6 +1,7 @@
 {
 	"author": "K. L. Kwok",
 	"booktitle": "Proceedings of the 12th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P021.pdf",
 	"crossref": "conf/sigir/89",
 	"dblpkey": "conf/sigir/Kwok89",
@@ -8,8 +9,20 @@
 	"ee": "http://doi.acm.org/10.1145/75334.75338",
 	"pages": "21-30",
 	"publisher": "ACM",
-	"stemmed": ["a", "neural", "network", "for", "probabilist", "inform", "retriev"],
-	"tag": ["information retrieval", "network", "probability"],
+	"stemmed": [
+		"a",
+		"neural",
+		"network",
+		"for",
+		"probabilist",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"information retrieval",
+		"network",
+		"probability"
+	],
 	"title": "A Neural Network for Probabilistic Information Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

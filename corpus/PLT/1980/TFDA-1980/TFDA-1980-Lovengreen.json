@@ -1,6 +1,7 @@
 {
 	"author": "Hans Henrik Løvengreen",
 	"booktitle": "Towards a Formal Description of Ada",
+	"booktitleshort": "Towards a Formal Description of Ada",
 	"crossref": "conf/sigada/1980",
 	"dblpkey": "conf/sigada/Lovengreen80",
 	"doi": "10.1007/3-540-10283-3_4",
@@ -10,11 +11,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["parallel", "in", "ada"],
-	"tag": ["ada", "parallel"],
+	"stemmed": [
+		"parallel",
+		"in",
+		"ada"
+	],
+	"tag": [
+		"ada",
+		"parallel"
+	],
 	"title": "Parallelism in Ada",
 	"type": "inproceedings",
 	"venue": "Ada",
-	"volume": 98,
+	"volume": "98",
 	"year": 1980
 }

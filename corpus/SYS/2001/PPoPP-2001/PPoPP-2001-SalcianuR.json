@@ -1,14 +1,32 @@
 {
-	"author": ["Alexandru Salcianu", "Martin C. Rinard"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Alexandru Salcianu",
+		"Martin C. Rinard"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2001",
 	"dblpkey": "conf/ppopp/SalcianuR01",
 	"doi": "10.1145/379539.379553",
 	"ee": "http://doi.acm.org/10.1145/379539.379553",
 	"pages": "12-23",
 	"publisher": "ACM",
-	"stemmed": ["pointer", "and", "escap", "analysi", "for", "multithread", "program"],
-	"tag": ["analysis", "parallel", "pointer", "source code", "thread"],
+	"stemmed": [
+		"pointer",
+		"and",
+		"escap",
+		"analysi",
+		"for",
+		"multithread",
+		"program"
+	],
+	"tag": [
+		"analysis",
+		"parallel",
+		"pointer",
+		"source code",
+		"thread"
+	],
 	"title": "Pointer and escape analysis for multithreaded programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

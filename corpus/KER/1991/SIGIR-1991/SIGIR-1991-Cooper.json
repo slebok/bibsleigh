@@ -1,6 +1,7 @@
 {
 	"author": "William S. Cooper",
 	"booktitle": "Proceedings of the 14th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1991/P057.pdf",
 	"crossref": "conf/sigir/91",
 	"dblpkey": "conf/sigir/Cooper91",
@@ -8,8 +9,20 @@
 	"ee": "http://doi.acm.org/10.1145/122860.122866",
 	"pages": "57-61",
 	"publisher": "ACM",
-	"stemmed": ["inconsist", "and", "misnom", "in", "probabilist", "ir"],
-	"tag": ["consistency", "information retrieval", "nondeterminism", "probability"],
+	"stemmed": [
+		"inconsist",
+		"and",
+		"misnom",
+		"in",
+		"probabilist",
+		"ir"
+	],
+	"tag": [
+		"consistency",
+		"information retrieval",
+		"nondeterminism",
+		"probability"
+	],
 	"title": "Inconsistencies and Misnomers in Probabilistic IR",
 	"type": "inproceedings",
 	"venue": "SIGIR",

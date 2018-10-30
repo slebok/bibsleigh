@@ -1,6 +1,9 @@
 {
-	"author": ["Joshua Spiegel", "Neoklis Polyzotis"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Joshua Spiegel",
+		"Neoklis Polyzotis"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/SpiegelP06",
@@ -8,8 +11,20 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142497",
 	"pages": "205-216",
 	"publisher": "ACM",
-	"stemmed": ["graph", "base", "synops", "for", "relat", "select", "estim"],
-	"tag": ["estimation", "graph", "relational"],
+	"stemmed": [
+		"graph",
+		"base",
+		"synops",
+		"for",
+		"relat",
+		"select",
+		"estim"
+	],
+	"tag": [
+		"estimation",
+		"graph",
+		"relational"
+	],
 	"title": "Graph-based synopses for relational selectivity estimation",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

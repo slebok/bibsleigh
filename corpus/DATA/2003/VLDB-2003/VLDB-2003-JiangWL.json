@@ -1,12 +1,29 @@
 {
-	"author": ["Haifeng Jiang", "Wei Wang", "Hongjun Lu", "Jeffrey Xu Yu"],
-	"booktitle": "VLDB",
+	"author": [
+		"Haifeng Jiang",
+		"Wei Wang",
+		"Hongjun Lu",
+		"Jeffrey Xu Yu"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/JiangWL03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S09P03.pdf",
 	"pages": "273-284",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["holist", "twig", "join", "on", "index", "xml", "document"],
-	"tag": ["documentation", "xml"],
+	"stemmed": [
+		"holist",
+		"twig",
+		"join",
+		"on",
+		"index",
+		"xml",
+		"document"
+	],
+	"tag": [
+		"documentation",
+		"xml"
+	],
 	"title": "Holistic Twig Joins on Indexed XML Documents",
 	"type": "inproceedings",
 	"venue": "VLDB",

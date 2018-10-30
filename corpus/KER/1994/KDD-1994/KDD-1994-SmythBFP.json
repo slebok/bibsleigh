@@ -1,13 +1,37 @@
 {
-	"author": ["Padhraic Smyth", "Michael C. Burl", "Usama M. Fayyad", "Pietro Perona"],
-	"booktitle": "KDD Workshop",
+	"author": [
+		"Padhraic Smyth",
+		"Michael C. Burl",
+		"Usama M. Fayyad",
+		"Pietro Perona"
+	],
+	"booktitle": "Papers from the AAAI Workshop on Knowledge Discovery in Databases. Technical Report WS-94-03",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1994",
 	"dblpkey": "conf/kdd/SmythBFP94",
 	"pages": "109-120",
 	"publisher": "AAAI Press",
-	"stemmed": ["knowledg", "discoveri", "in", "larg", "imag", "databas", "deal", "with", "uncertainti", "in", "ground", "truth"],
-	"tag": ["database", "image", "information management", "nondeterminism", "scalability"],
+	"stemmed": [
+		"knowledg",
+		"discoveri",
+		"in",
+		"larg",
+		"imag",
+		"databas",
+		"deal",
+		"with",
+		"uncertainti",
+		"in",
+		"ground",
+		"truth"
+	],
+	"tag": [
+		"database",
+		"image",
+		"information management",
+		"nondeterminism",
+		"scalability"
+	],
 	"title": "Knowledge Discovery in Large Image Databases: Dealing with Uncertainties in Ground Truth",
 	"type": "inproceedings",
 	"venue": "KDD",

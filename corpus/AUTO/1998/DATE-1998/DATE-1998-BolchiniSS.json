@@ -1,6 +1,11 @@
 {
-	"author": ["Cristiana Bolchini", "Fabio Salice", "Donatella Sciuto"],
-	"booktitle": "DATE",
+	"author": [
+		"Cristiana Bolchini",
+		"Fabio Salice",
+		"Donatella Sciuto"
+	],
+	"booktitle": "Proceedings of the Third Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1998",
 	"dblpkey": "conf/date/BolchiniSS98",
 	"doi": "10.1109/DATE.1998.655987",
@@ -8,8 +13,24 @@
 	"pages": "957-958",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["fault", "analysi", "in", "network", "with", "concurr", "error", "detect", "properti"],
-	"tag": ["analysis", "concurrent", "detection", "fault", "network"],
+	"stemmed": [
+		"fault",
+		"analysi",
+		"in",
+		"network",
+		"with",
+		"concurr",
+		"error",
+		"detect",
+		"properti"
+	],
+	"tag": [
+		"analysis",
+		"concurrent",
+		"detection",
+		"fault",
+		"network"
+	],
 	"title": "Fault Analysis in Networks with Concurrent Error Detection Properties",
 	"type": "inproceedings",
 	"venue": "DATE",

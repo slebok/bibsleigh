@@ -1,14 +1,28 @@
 {
 	"author": "Pramod G. Joisha",
-	"booktitle": "ISMM",
+	"booktitle": "Proceedings of the Fifth International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2006",
 	"dblpkey": "conf/iwmm/Joisha06",
 	"doi": "10.1145/1133956.1133976",
 	"ee": "http://doi.acm.org/10.1145/1133956.1133976",
 	"pages": "150-161",
 	"publisher": "ACM",
-	"stemmed": ["compil", "optim", "for", "nondef", "refer", "count", "garbag", "collect"],
-	"tag": ["compilation", "garbage collection", "optimisation"],
+	"stemmed": [
+		"compil",
+		"optim",
+		"for",
+		"nondef",
+		"refer",
+		"count",
+		"garbag",
+		"collect"
+	],
+	"tag": [
+		"compilation",
+		"garbage collection",
+		"optimisation"
+	],
 	"title": "Compiler optimizations for nondeferred reference-counting garbage collection",
 	"type": "inproceedings",
 	"venue": "ISMM",

@@ -1,14 +1,35 @@
 {
-	"author": ["Adrian M. Caulfield", "Todor I. Mollov", "Louis Alex Eisner", "Arup De", "Joel Coburn", "Steven Swanson"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Adrian M. Caulfield",
+		"Todor I. Mollov",
+		"Louis Alex Eisner",
+		"Arup De",
+		"Joel Coburn",
+		"Steven Swanson"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2012",
 	"dblpkey": "conf/asplos/CaulfieldMEDCS12",
 	"doi": "10.1145/2150976.2151017",
 	"ee": "http://doi.acm.org/10.1145/2150976.2151017",
 	"pages": "387-400",
 	"publisher": "ACM",
-	"stemmed": ["provid", "safe", "user", "space", "access", "to", "fast", "solid", "state", "disk"],
-	"tag": ["performance"],
+	"stemmed": [
+		"provid",
+		"safe",
+		"user",
+		"space",
+		"access",
+		"to",
+		"fast",
+		"solid",
+		"state",
+		"disk"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Providing safe, user space access to fast, solid state disks",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

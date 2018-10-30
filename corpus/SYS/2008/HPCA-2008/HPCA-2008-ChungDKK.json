@@ -1,6 +1,12 @@
 {
-	"author": ["JaeWoong Chung", "Michael Dalton", "Hari Kannan", "Christos Kozyrakis"],
-	"booktitle": "HPCA",
+	"author": [
+		"JaeWoong Chung",
+		"Michael Dalton",
+		"Hari Kannan",
+		"Christos Kozyrakis"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2008",
 	"dblpkey": "conf/hpca/ChungDKK08",
 	"doi": "10.1109/HPCA.2008.4658646",
@@ -8,8 +14,22 @@
 	"pages": "279-289",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["thread", "safe", "dynam", "binari", "translat", "use", "transact", "memori"],
-	"tag": ["memory management", "thread", "transaction", "using"],
+	"stemmed": [
+		"thread",
+		"safe",
+		"dynam",
+		"binari",
+		"translat",
+		"use",
+		"transact",
+		"memori"
+	],
+	"tag": [
+		"memory management",
+		"thread",
+		"transaction",
+		"using"
+	],
 	"title": "Thread-safe dynamic binary translation using transactional memory",
 	"type": "inproceedings",
 	"venue": "HPCA",

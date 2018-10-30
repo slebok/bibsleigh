@@ -1,6 +1,10 @@
 {
-	"author": ["Gordon McAlpine", "Peter Ingwersen"],
+	"author": [
+		"Gordon McAlpine",
+		"Peter Ingwersen"
+	],
 	"booktitle": "Proceedings of the 12th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P048.pdf",
 	"crossref": "conf/sigir/89",
 	"dblpkey": "conf/sigir/McAlpineI89",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/75334.75341",
 	"pages": "48-57",
 	"publisher": "ACM",
-	"stemmed": ["integr", "inform", "retriev", "in", "a", "knowledg", "worker", "support", "system"],
-	"tag": ["information management", "information retrieval"],
+	"stemmed": [
+		"integr",
+		"inform",
+		"retriev",
+		"in",
+		"a",
+		"knowledg",
+		"worker",
+		"support",
+		"system"
+	],
+	"tag": [
+		"information management",
+		"information retrieval"
+	],
 	"title": "Integrated Information Retrieval in a Knowledge Worker Support System",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,13 +1,28 @@
 {
 	"author": "Victor Vianu",
-	"booktitle": "PODS",
+	"booktitle": "Proceedings of the 20th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2001",
 	"dblpkey": "conf/pods/Vianu01",
 	"doi": "10.1145/375551.375554",
-	"ee": ["http://doi.acm.org/10.1145/375551.375554", "http://www.acm.org/sigs/sigmod/pods/proc01/online/invited.pdf"],
+	"ee": [
+		"http://doi.acm.org/10.1145/375551.375554",
+		"http://www.acm.org/sigs/sigmod/pods/proc01/online/invited.pdf"
+	],
 	"publisher": "ACM",
-	"stemmed": ["a", "web", "odyssey", "from", "codd", "to", "xml"],
-	"tag": ["web", "xml"],
+	"stemmed": [
+		"a",
+		"web",
+		"odyssey",
+		"from",
+		"codd",
+		"to",
+		"xml"
+	],
+	"tag": [
+		"web",
+		"xml"
+	],
 	"title": "A Web Odyssey: From Codd to XML",
 	"type": "inproceedings",
 	"venue": "PODS",

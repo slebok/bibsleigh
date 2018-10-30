@@ -1,13 +1,28 @@
 {
-	"author": ["Fatih Kocan", "Daniel G. Saab"],
-	"booktitle": "DAC",
+	"author": [
+		"Fatih Kocan",
+		"Daniel G. Saab"
+	],
+	"booktitle": "Proceedings of the 36th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/KocanS99",
 	"doi": "10.1145/309847.310029",
 	"ee": "http://doi.acm.org/10.1145/309847.310029",
 	"pages": "691-696",
 	"publisher": "ACM Press",
-	"stemmed": ["dynam", "fault", "diagnosi", "on", "reconfigur", "hardwar"],
-	"tag": ["configuration management", "fault", "hardware"],
+	"stemmed": [
+		"dynam",
+		"fault",
+		"diagnosi",
+		"on",
+		"reconfigur",
+		"hardwar"
+	],
+	"tag": [
+		"configuration management",
+		"fault",
+		"hardware"
+	],
 	"title": "Dynamic Fault Diagnosis on Reconfigurable Hardware",
 	"type": "inproceedings",
 	"venue": "DAC",

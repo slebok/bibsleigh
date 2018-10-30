@@ -1,13 +1,39 @@
 {
-	"author": ["Zhenyu Guo", "Xuepeng Fan", "Rishan Chen", "Jiaxing Zhang", "Hucheng Zhou", "Sean McDirmid", "Chang Liu", "Wei Lin", "Jingren Zhou", "Lidong Zhou"],
-	"booktitle": "OSDI",
+	"author": [
+		"Zhenyu Guo",
+		"Xuepeng Fan",
+		"Rishan Chen",
+		"Jiaxing Zhang",
+		"Hucheng Zhou",
+		"Sean McDirmid",
+		"Chang Liu",
+		"Wei Lin",
+		"Jingren Zhou",
+		"Lidong Zhou"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2012",
 	"dblpkey": "conf/osdi/GuoFCZZMLLZZ12",
 	"ee": "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/guo",
 	"pages": "121-133",
 	"publisher": "USENIX Association",
-	"stemmed": ["spot", "code", "optim", "in", "data", "parallel", "pipelin", "through", "peri", "scope"],
-	"tag": ["optimisation", "pipes and filters"],
+	"stemmed": [
+		"spot",
+		"code",
+		"optim",
+		"in",
+		"data",
+		"parallel",
+		"pipelin",
+		"through",
+		"peri",
+		"scope"
+	],
+	"tag": [
+		"optimisation",
+		"pipes and filters"
+	],
 	"title": "Spotting Code Optimizations in Data-Parallel Pipelines through PeriSCOPE",
 	"type": "inproceedings",
 	"venue": "OSDI",

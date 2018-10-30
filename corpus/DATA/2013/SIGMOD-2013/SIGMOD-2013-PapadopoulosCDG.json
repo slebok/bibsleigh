@@ -1,6 +1,11 @@
 {
-	"author": ["Stavros Papadopoulos", "Graham Cormode", "Antonios Deligiannakis", "Minos N. Garofalakis"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Stavros Papadopoulos",
+		"Graham Cormode",
+		"Antonios Deligiannakis",
+		"Minos N. Garofalakis"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/PapadopoulosCDG13",
@@ -8,8 +13,25 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465281",
 	"pages": "881-892",
 	"publisher": "ACM",
-	"stemmed": ["lightweight", "authent", "of", "linear", "algebra", "queri", "on", "data", "stream"],
-	"tag": ["algebra", "authentication", "data type", "lightweight", "linear", "query"],
+	"stemmed": [
+		"lightweight",
+		"authent",
+		"of",
+		"linear",
+		"algebra",
+		"queri",
+		"on",
+		"data",
+		"stream"
+	],
+	"tag": [
+		"algebra",
+		"authentication",
+		"data type",
+		"lightweight",
+		"linear",
+		"query"
+	],
 	"title": "Lightweight authentication of linear algebraic queries on data streams",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

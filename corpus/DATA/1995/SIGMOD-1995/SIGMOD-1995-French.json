@@ -1,6 +1,7 @@
 {
 	"author": "Clark D. French",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD95/P449.PDF",
 	"crossref": "conf/sigmod/95",
 	"dblpkey": "conf/sigmod/French95",
@@ -8,8 +9,23 @@
 	"ee": "http://doi.acm.org/10.1145/223784.223871",
 	"pages": "449-450",
 	"publisher": "ACM Press",
-	"stemmed": ["one", "size", "fit", "all", "databas", "architectur", "do", "not", "work", "for", "dds"],
-	"tag": ["architecture", "database"],
+	"stemmed": [
+		"one",
+		"size",
+		"fit",
+		"all",
+		"databas",
+		"architectur",
+		"do",
+		"not",
+		"work",
+		"for",
+		"dds"
+	],
+	"tag": [
+		"architecture",
+		"database"
+	],
 	"title": "“One Size Fits All” Database Architectures Do Not Work for DDS",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

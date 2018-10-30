@@ -1,6 +1,7 @@
 {
 	"author": "Janet H. Walker",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the First Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1987/P307.pdf",
 	"crossref": "conf/ht/87",
 	"dblpkey": "conf/ht/Walker87",
@@ -8,8 +9,20 @@
 	"ee": "http://doi.acm.org/10.1145/317426.317448",
 	"pages": "307-323",
 	"publisher": "ACM",
-	"stemmed": ["document", "examin", "deliveri", "interfac", "for", "hypertext", "document"],
-	"tag": ["documentation", "hypermedia", "interface"],
+	"stemmed": [
+		"document",
+		"examin",
+		"deliveri",
+		"interfac",
+		"for",
+		"hypertext",
+		"document"
+	],
+	"tag": [
+		"documentation",
+		"hypermedia",
+		"interface"
+	],
 	"title": "Document Examiner: Delivery Interface for Hypertext Documents",
 	"type": "inproceedings",
 	"venue": "HT",

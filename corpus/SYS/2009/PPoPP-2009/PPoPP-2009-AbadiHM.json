@@ -1,14 +1,38 @@
 {
-	"author": ["Martín Abadi", "Tim Harris", "Mojtaba Mehrara"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Martín Abadi",
+		"Tim Harris",
+		"Mojtaba Mehrara"
+	],
+	"booktitle": "Proceedings of the 14th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2009",
 	"dblpkey": "conf/ppopp/AbadiHM09",
 	"doi": "10.1145/1504176.1504203",
 	"ee": "http://doi.acm.org/10.1145/1504176.1504203",
 	"pages": "185-196",
 	"publisher": "ACM",
-	"stemmed": ["transact", "memori", "with", "strong", "atom", "use", "off", "the", "shelf", "memori", "protect", "hardwar"],
-	"tag": ["hardware", "memory management", "off the shelf", "transaction", "using"],
+	"stemmed": [
+		"transact",
+		"memori",
+		"with",
+		"strong",
+		"atom",
+		"use",
+		"off",
+		"the",
+		"shelf",
+		"memori",
+		"protect",
+		"hardwar"
+	],
+	"tag": [
+		"hardware",
+		"memory management",
+		"off the shelf",
+		"transaction",
+		"using"
+	],
 	"title": "Transactional memory with strong atomicity using off-the-shelf memory protection hardware",
 	"type": "inproceedings",
 	"venue": "PPoPP",

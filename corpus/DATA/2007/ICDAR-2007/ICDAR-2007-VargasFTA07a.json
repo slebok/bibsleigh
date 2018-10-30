@@ -1,6 +1,12 @@
 {
-	"author": ["Jesus Francisco Vargas Bonilla", "Miguel Angel Ferrer-Ballester", "Carlos Manuel Travieso-González", "Jesús B. Alonso"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Jesus Francisco Vargas Bonilla",
+		"Miguel Angel Ferrer-Ballester",
+		"Carlos Manuel Travieso-González",
+		"Jesús B. Alonso"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/VargasFTA07a",
 	"doi": "10.1109/ICDAR.2007.191",
@@ -8,8 +14,23 @@
 	"pages": "834-838",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["off", "line", "signatur", "verif", "system", "perform", "against", "imag", "acquisit", "resolut"],
-	"tag": ["image", "performance", "verification"],
+	"stemmed": [
+		"off",
+		"line",
+		"signatur",
+		"verif",
+		"system",
+		"perform",
+		"against",
+		"imag",
+		"acquisit",
+		"resolut"
+	],
+	"tag": [
+		"image",
+		"performance",
+		"verification"
+	],
 	"title": "Off-line Signature Verification System Performance against Image Acquisition Resolution",
 	"type": "inproceedings",
 	"venue": "ICDAR",

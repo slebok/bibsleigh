@@ -1,13 +1,32 @@
 {
-	"author": ["Josef Scheichenzuber", "Werner Grass", "Ulrich Lauther", "Sabine März"],
-	"booktitle": "DAC",
+	"author": [
+		"Josef Scheichenzuber",
+		"Werner Grass",
+		"Ulrich Lauther",
+		"Sabine März"
+	],
+	"booktitle": "Proceedings of the 27th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/ScheichenzuberGLM90",
 	"doi": "10.1145/123186.123337",
 	"ee": "http://doi.acm.org/10.1145/123186.123337",
 	"pages": "456-461",
 	"publisher": "IEEE Computer Society Press",
-	"stemmed": ["global", "hardwar", "synthesi", "from", "behavior", "dataflow", "descript"],
-	"tag": ["behaviour", "data flow", "hardware", "synthesis"],
+	"stemmed": [
+		"global",
+		"hardwar",
+		"synthesi",
+		"from",
+		"behavior",
+		"dataflow",
+		"descript"
+	],
+	"tag": [
+		"behaviour",
+		"data flow",
+		"hardware",
+		"synthesis"
+	],
 	"title": "Global Hardware Synthesis from Behavioral Dataflow Descriptions",
 	"type": "inproceedings",
 	"venue": "DAC",

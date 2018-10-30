@@ -1,6 +1,10 @@
 {
-	"author": ["L. Douglas Baker", "Andrew McCallum"],
+	"author": [
+		"L. Douglas Baker",
+		"Andrew McCallum"
+	],
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P096.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/BakerM98",
@@ -8,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/290941.290970",
 	"pages": "96-103",
 	"publisher": "ACM",
-	"stemmed": ["distribut", "cluster", "of", "word", "for", "text", "classif"],
-	"tag": ["classification", "clustering", "word"],
+	"stemmed": [
+		"distribut",
+		"cluster",
+		"of",
+		"word",
+		"for",
+		"text",
+		"classif"
+	],
+	"tag": [
+		"classification",
+		"clustering",
+		"word"
+	],
 	"title": "Distributional Clustering of Words for Text Classification",
 	"type": "inproceedings",
 	"venue": "SIGIR",

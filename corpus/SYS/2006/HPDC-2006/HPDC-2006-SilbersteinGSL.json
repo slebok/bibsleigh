@@ -1,14 +1,39 @@
 {
-	"author": ["Mark Silberstein", "Dan Geiger", "Assaf Schuster", "Miron Livny"],
+	"author": [
+		"Mark Silberstein",
+		"Dan Geiger",
+		"Assaf Schuster",
+		"Miron Livny"
+	],
 	"booktitle": "Proceedings of the 15th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2006",
 	"dblpkey": "conf/hpdc/SilbersteinGSL06",
 	"doi": "10.1109/HPDC.2006.1652160",
-	"ee": ["http://dx.doi.org/10.1109/HPDC.2006.1652160", "http://doi.ieeecomputersociety.org/10.1109/HPDC.2006.1652160"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPDC.2006.1652160",
+		"http://doi.ieeecomputersociety.org/10.1109/HPDC.2006.1652160"
+	],
 	"pages": "291-302",
 	"publisher": "IEEE",
-	"stemmed": ["schedul", "mix", "workload", "in", "multi", "grid", "the", "grid", "execut", "hierarchi"],
-	"tag": ["execution", "grid", "multi", "scheduling"],
+	"stemmed": [
+		"schedul",
+		"mix",
+		"workload",
+		"in",
+		"multi",
+		"grid",
+		"the",
+		"grid",
+		"execut",
+		"hierarchi"
+	],
+	"tag": [
+		"execution",
+		"grid",
+		"multi",
+		"scheduling"
+	],
 	"title": "Scheduling Mixed Workloads in Multi-grids: The Grid Execution Hierarchy",
 	"type": "inproceedings",
 	"venue": "HPDC",

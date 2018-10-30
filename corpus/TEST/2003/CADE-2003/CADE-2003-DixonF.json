@@ -1,6 +1,10 @@
 {
-	"author": ["Lucas Dixon", "Jacques D. Fleuriot"],
-	"booktitle": "CADE",
+	"author": [
+		"Lucas Dixon",
+		"Jacques D. Fleuriot"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2003",
 	"dblpkey": "conf/cade/DixonF03",
 	"doi": "10.1007/978-3-540-45085-6_22",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["isa", "planner", "a", "prototyp", "proof", "planner", "in", "isabell"],
-	"tag": ["named", "prototype", "proving", "theorem proving"],
+	"stemmed": [
+		"isa",
+		"planner",
+		"a",
+		"prototyp",
+		"proof",
+		"planner",
+		"in",
+		"isabell"
+	],
+	"tag": [
+		"named",
+		"prototype",
+		"proving",
+		"theorem proving"
+	],
 	"title": "IsaPlanner: A Prototype Proof Planner in Isabelle",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2741,
+	"volume": "2741",
 	"year": 2003
 }

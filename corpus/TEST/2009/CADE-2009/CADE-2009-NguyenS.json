@@ -1,6 +1,10 @@
 {
-	"author": ["Linh Anh Nguyen", "Andrzej Szalas"],
-	"booktitle": "CADE",
+	"author": [
+		"Linh Anh Nguyen",
+		"Andrzej Szalas"
+	],
+	"booktitle": "Proceedings of the 22nd International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2009",
 	"dblpkey": "conf/cade/NguyenS09",
 	"doi": "10.1007/978-3-642-02959-2_31",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "tableau", "calculus", "for", "regular", "grammar", "logic", "with", "convers"],
-	"tag": ["calculus", "logic"],
+	"stemmed": [
+		"a",
+		"tableau",
+		"calculus",
+		"for",
+		"regular",
+		"grammar",
+		"logic",
+		"with",
+		"convers"
+	],
+	"tag": [
+		"calculus",
+		"logic"
+	],
 	"title": "A Tableau Calculus for Regular Grammar Logics with Converse",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 5663,
+	"volume": "5663",
 	"year": 2009
 }

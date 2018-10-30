@@ -1,14 +1,30 @@
 {
-	"author": ["Kaustav Das", "Jeff G. Schneider", "Daniel B. Neill"],
-	"booktitle": "KDD",
+	"author": [
+		"Kaustav Das",
+		"Jeff G. Schneider",
+		"Daniel B. Neill"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/DasSN08",
 	"doi": "10.1145/1401890.1401915",
 	"ee": "http://doi.acm.org/10.1145/1401890.1401915",
 	"pages": "169-176",
 	"publisher": "ACM",
-	"stemmed": ["anomali", "pattern", "detect", "in", "categor", "dataset"],
-	"tag": ["category theory", "dataset", "detection"],
+	"stemmed": [
+		"anomali",
+		"pattern",
+		"detect",
+		"in",
+		"categor",
+		"dataset"
+	],
+	"tag": [
+		"category theory",
+		"dataset",
+		"detection"
+	],
 	"title": "Anomaly pattern detection in categorical datasets",
 	"type": "inproceedings",
 	"venue": "KDD",

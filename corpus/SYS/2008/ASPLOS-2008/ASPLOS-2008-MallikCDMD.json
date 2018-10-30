@@ -1,14 +1,36 @@
 {
-	"author": ["Arindam Mallik", "Jack Cosgrove", "Robert P. Dick", "Gokhan Memik", "Peter A. Dinda"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Arindam Mallik",
+		"Jack Cosgrove",
+		"Robert P. Dick",
+		"Gokhan Memik",
+		"Peter A. Dinda"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2008",
 	"dblpkey": "conf/asplos/MallikCDMD08",
 	"doi": "10.1145/1346281.1346291",
 	"ee": "http://doi.acm.org/10.1145/1346281.1346291",
 	"pages": "70-79",
 	"publisher": "ACM",
-	"stemmed": ["picsel", "measur", "user", "perceiv", "perform", "to", "control", "dynam", "frequenc", "scale"],
-	"tag": ["named", "performance", "scalability"],
+	"stemmed": [
+		"picsel",
+		"measur",
+		"user",
+		"perceiv",
+		"perform",
+		"to",
+		"control",
+		"dynam",
+		"frequenc",
+		"scale"
+	],
+	"tag": [
+		"named",
+		"performance",
+		"scalability"
+	],
 	"title": "PICSEL: measuring user-perceived performance to control dynamic frequency scaling",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,6 +1,11 @@
 {
-	"author": ["Kathryn C. Malcolm", "Steven E. Poltrock", "Douglas Schuler"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Kathryn C. Malcolm",
+		"Steven E. Poltrock",
+		"Douglas Schuler"
+	],
+	"booktitle": "Proceedings of the Third Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1991/P013.pdf",
 	"crossref": "conf/ht/91",
 	"dblpkey": "conf/ht/MalcolmPS91",
@@ -8,8 +13,24 @@
 	"ee": "http://doi.acm.org/10.1145/122974.122977",
 	"pages": "13-24",
 	"publisher": "ACM",
-	"stemmed": ["industri", "strength", "hypermedia", "requir", "for", "a", "larg", "engin", "enterpris"],
-	"tag": ["enterprise", "hypermedia", "industrial", "requirements", "scalability"],
+	"stemmed": [
+		"industri",
+		"strength",
+		"hypermedia",
+		"requir",
+		"for",
+		"a",
+		"larg",
+		"engin",
+		"enterpris"
+	],
+	"tag": [
+		"enterprise",
+		"hypermedia",
+		"industrial",
+		"requirements",
+		"scalability"
+	],
 	"title": "Industrial Strength Hypermedia: Requirements for a Large Engineering Enterprise",
 	"type": "inproceedings",
 	"venue": "HT",

@@ -1,14 +1,28 @@
 {
-	"author": ["Zhichen Xu", "James R. Larus", "Barton P. Miller"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Zhichen Xu",
+		"James R. Larus",
+		"Barton P. Miller"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1997",
 	"dblpkey": "conf/ppopp/XuLM97",
 	"doi": "10.1145/263764.263796",
 	"ee": "http://doi.acm.org/10.1145/263764.263796",
 	"pages": "240-251",
 	"publisher": "ACM",
-	"stemmed": ["share", "memori", "perform", "profil"],
-	"tag": ["memory management", "performance", "profiling"],
+	"stemmed": [
+		"share",
+		"memori",
+		"perform",
+		"profil"
+	],
+	"tag": [
+		"memory management",
+		"performance",
+		"profiling"
+	],
 	"title": "Shared Memory Performance Profiling",
 	"type": "inproceedings",
 	"venue": "PPoPP",

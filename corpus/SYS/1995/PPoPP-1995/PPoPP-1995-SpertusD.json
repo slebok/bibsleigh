@@ -1,14 +1,28 @@
 {
-	"author": ["Ellen Spertus", "William J. Dally"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Ellen Spertus",
+		"William J. Dally"
+	],
+	"booktitle": "Proceedings of the Fifth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1995",
 	"dblpkey": "conf/ppopp/SpertusD95",
 	"doi": "10.1145/209936.209956",
 	"ee": "http://doi.acm.org/10.1145/209936.209956",
 	"pages": "189-198",
 	"publisher": "ACM",
-	"stemmed": ["evalu", "the", "local", "benefit", "of", "activ", "messag"],
-	"tag": ["locality"],
+	"stemmed": [
+		"evalu",
+		"the",
+		"local",
+		"benefit",
+		"of",
+		"activ",
+		"messag"
+	],
+	"tag": [
+		"locality"
+	],
 	"title": "Evaluating the Locality Benefits of Active Messages",
 	"type": "inproceedings",
 	"venue": "PPoPP",

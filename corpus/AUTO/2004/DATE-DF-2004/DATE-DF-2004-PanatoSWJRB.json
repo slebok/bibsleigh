@@ -1,6 +1,14 @@
 {
-	"author": ["Alex Panato", "Sandro V. Silva", "Flávio Rech Wagner", "Marcelo O. Johann", "Ricardo Reis", "Sergio Bampi"],
-	"booktitle": "DATE",
+	"author": [
+		"Alex Panato",
+		"Sandro V. Silva",
+		"Flávio Rech Wagner",
+		"Marcelo O. Johann",
+		"Ricardo Reis",
+		"Sergio Bampi"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Designers’ Forum",
+	"booktitleshort": "DATE DF",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/PanatoSWJRB04",
 	"doi": "10.1109/DATE.2004.1269200",
@@ -8,8 +16,21 @@
 	"pages": "52-57",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["design", "of", "veri", "deep", "pipelin", "multipli", "for", "fpgas"],
-	"tag": ["design", "multi", "pipes and filters"],
+	"stemmed": [
+		"design",
+		"of",
+		"veri",
+		"deep",
+		"pipelin",
+		"multipli",
+		"for",
+		"fpgas"
+	],
+	"tag": [
+		"design",
+		"multi",
+		"pipes and filters"
+	],
 	"title": "Design of Very Deep Pipelined Multipliers for FPGAs",
 	"type": "inproceedings",
 	"venue": "DATE",

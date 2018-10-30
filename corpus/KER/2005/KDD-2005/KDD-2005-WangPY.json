@@ -1,14 +1,30 @@
 {
-	"author": ["Haixun Wang", "Jian Pei", "Philip S. Yu"],
-	"booktitle": "KDD",
+	"author": [
+		"Haixun Wang",
+		"Jian Pei",
+		"Philip S. Yu"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2005",
 	"dblpkey": "conf/kdd/WangPY05",
 	"doi": "10.1145/1081870.1081978",
 	"ee": "http://doi.acm.org/10.1145/1081870.1081978",
 	"pages": "814-819",
 	"publisher": "ACM",
-	"stemmed": ["pattern", "base", "similar", "search", "for", "microarray", "data"],
-	"tag": ["array", "similarity"],
+	"stemmed": [
+		"pattern",
+		"base",
+		"similar",
+		"search",
+		"for",
+		"microarray",
+		"data"
+	],
+	"tag": [
+		"array",
+		"similarity"
+	],
 	"title": "Pattern-based similarity search for microarray data",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,14 +1,35 @@
 {
-	"author": ["Owen Phelan", "Kevin McCarthy", "Barry Smyth"],
-	"booktitle": "RecSys",
+	"author": [
+		"Owen Phelan",
+		"Kevin McCarthy",
+		"Barry Smyth"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2012",
 	"dblpkey": "conf/recsys/PhelanMS12",
 	"doi": "10.1145/2365952.2366026",
 	"ee": "http://doi.acm.org/10.1145/2365952.2366026",
 	"pages": "307-308",
 	"publisher": "ACM",
-	"stemmed": ["yoki", "explor", "in", "curat", "real", "time", "search", "discoveri", "use", "twitter"],
-	"tag": ["named", "realtime", "twitter", "using"],
+	"stemmed": [
+		"yoki",
+		"explor",
+		"in",
+		"curat",
+		"real",
+		"time",
+		"search",
+		"discoveri",
+		"use",
+		"twitter"
+	],
+	"tag": [
+		"named",
+		"realtime",
+		"twitter",
+		"using"
+	],
 	"title": "Yokie: explorations in curated real-time search & discovery using twitter",
 	"type": "inproceedings",
 	"venue": "RecSys",

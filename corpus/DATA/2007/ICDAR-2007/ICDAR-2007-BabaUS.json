@@ -1,6 +1,11 @@
 {
-	"author": ["D. Baba", "Seiichi Uchida", "Hiroaki Sakoe"],
-	"booktitle": "ICDAR",
+	"author": [
+		"D. Baba",
+		"Seiichi Uchida",
+		"Hiroaki Sakoe"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/BabaUS07",
 	"doi": "10.1109/ICDAR.2007.210",
@@ -8,8 +13,21 @@
 	"pages": "674-678",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["predict", "dp", "match", "for", "on", "line", "charact", "recognit"],
-	"tag": ["online", "predict", "recognition"],
+	"stemmed": [
+		"predict",
+		"dp",
+		"match",
+		"for",
+		"on",
+		"line",
+		"charact",
+		"recognit"
+	],
+	"tag": [
+		"online",
+		"predict",
+		"recognition"
+	],
 	"title": "Predictive DP Matching for On-Line Character Recognition",
 	"type": "inproceedings",
 	"venue": "ICDAR",

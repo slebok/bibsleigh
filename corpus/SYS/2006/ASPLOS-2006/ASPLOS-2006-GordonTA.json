@@ -1,14 +1,35 @@
 {
-	"author": ["Michael I. Gordon", "William Thies", "Saman P. Amarasinghe"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Michael I. Gordon",
+		"William Thies",
+		"Saman P. Amarasinghe"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/GordonTA06",
 	"doi": "10.1145/1168857.1168877",
 	"ee": "http://doi.acm.org/10.1145/1168857.1168877",
 	"pages": "151-162",
 	"publisher": "ACM",
-	"stemmed": ["exploit", "coars", "grain", "task", "data", "and", "pipelin", "parallel", "in", "stream", "program"],
-	"tag": ["parallel", "pipes and filters", "source code"],
+	"stemmed": [
+		"exploit",
+		"coars",
+		"grain",
+		"task",
+		"data",
+		"and",
+		"pipelin",
+		"parallel",
+		"in",
+		"stream",
+		"program"
+	],
+	"tag": [
+		"parallel",
+		"pipes and filters",
+		"source code"
+	],
 	"title": "Exploiting coarse-grained task, data, and pipeline parallelism in stream programs",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,13 +1,32 @@
 {
-	"author": ["Tolga Urhan", "Michael J. Franklin"],
-	"booktitle": "VLDB",
+	"author": [
+		"Tolga Urhan",
+		"Michael J. Franklin"
+	],
+	"booktitle": "Proceedings of the 27th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2001",
 	"dblpkey": "conf/vldb/UrhanF01",
 	"ee": "http://www.vldb.org/conf/2001/P501.pdf",
 	"pages": "501-510",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["dynam", "pipelin", "schedul", "for", "improv", "interact", "queri", "perform"],
-	"tag": ["interactive", "performance", "pipes and filters", "query", "scheduling"],
+	"stemmed": [
+		"dynam",
+		"pipelin",
+		"schedul",
+		"for",
+		"improv",
+		"interact",
+		"queri",
+		"perform"
+	],
+	"tag": [
+		"interactive",
+		"performance",
+		"pipes and filters",
+		"query",
+		"scheduling"
+	],
 	"title": "Dynamic Pipeline Scheduling for Improving Interactive Query Performance",
 	"type": "inproceedings",
 	"venue": "VLDB",

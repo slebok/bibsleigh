@@ -1,6 +1,10 @@
 {
-	"author": ["Yi-Reun Kim", "Kyu-Young Whang", "Il-Yeol Song"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yi-Reun Kim",
+		"Kyu-Young Whang",
+		"Il-Yeol Song"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/KimWS10",
@@ -8,8 +12,29 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807208",
 	"pages": "363-374",
 	"publisher": "ACM",
-	"stemmed": ["page", "differenti", "log", "an", "effici", "and", "dbms", "independ", "approach", "for", "store", "data", "into", "flash", "memori"],
-	"tag": ["approach", "independence", "memory management", "performance"],
+	"stemmed": [
+		"page",
+		"differenti",
+		"log",
+		"an",
+		"effici",
+		"and",
+		"dbms",
+		"independ",
+		"approach",
+		"for",
+		"store",
+		"data",
+		"into",
+		"flash",
+		"memori"
+	],
+	"tag": [
+		"approach",
+		"independence",
+		"memory management",
+		"performance"
+	],
 	"title": "Page-differential logging: an efficient and DBMS-independent approach for storing data into flash memory",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

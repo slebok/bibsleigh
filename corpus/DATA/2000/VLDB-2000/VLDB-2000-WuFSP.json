@@ -1,13 +1,33 @@
 {
-	"author": ["Leejay Wu", "Christos Faloutsos", "Katia P. Sycara", "Terry R. Payne"],
-	"booktitle": "VLDB",
+	"author": [
+		"Leejay Wu",
+		"Christos Faloutsos",
+		"Katia P. Sycara",
+		"Terry R. Payne"
+	],
+	"booktitle": "Proceedings of the 26th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2000",
 	"dblpkey": "conf/vldb/WuFSP00",
 	"ee": "http://www.vldb.org/conf/2000/P297.pdf",
 	"pages": "297-306",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["falcon", "feedback", "adapt", "loop", "for", "content", "base", "retriev"],
-	"tag": ["adaptation", "feedback", "named", "retrieval"],
+	"stemmed": [
+		"falcon",
+		"feedback",
+		"adapt",
+		"loop",
+		"for",
+		"content",
+		"base",
+		"retriev"
+	],
+	"tag": [
+		"adaptation",
+		"feedback",
+		"named",
+		"retrieval"
+	],
 	"title": "FALCON: Feedback Adaptive Loop for Content-Based Retrieval",
 	"type": "inproceedings",
 	"venue": "VLDB",

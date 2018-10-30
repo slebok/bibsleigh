@@ -1,6 +1,11 @@
 {
-	"author": ["Chuan-Yue Yang", "Jian-Jia Chen", "Tei-Wei Kuo"],
-	"booktitle": "DATE",
+	"author": [
+		"Chuan-Yue Yang",
+		"Jian-Jia Chen",
+		"Tei-Wei Kuo"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/YangCK05",
 	"doi": "10.1109/DATE.2005.51",
@@ -8,8 +13,26 @@
 	"pages": "468-473",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["an", "approxim", "algorithm", "for", "energi", "effici", "schedul", "on", "a", "chip", "multiprocessor"],
-	"tag": ["algorithm", "approximate", "energy", "multi", "scheduling"],
+	"stemmed": [
+		"an",
+		"approxim",
+		"algorithm",
+		"for",
+		"energi",
+		"effici",
+		"schedul",
+		"on",
+		"a",
+		"chip",
+		"multiprocessor"
+	],
+	"tag": [
+		"algorithm",
+		"approximate",
+		"energy",
+		"multi",
+		"scheduling"
+	],
 	"title": "An Approximation Algorithm for Energy-Efficient Scheduling on A Chip Multiprocessor",
 	"type": "inproceedings",
 	"venue": "DATE",

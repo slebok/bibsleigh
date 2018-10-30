@@ -1,6 +1,10 @@
 {
-	"author": ["Tohru Ishihara", "Hiroto Yasuura"],
-	"booktitle": "DATE",
+	"author": [
+		"Tohru Ishihara",
+		"Hiroto Yasuura"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/IshiharaY00",
 	"doi": "10.1109/DATE.2000.840849",
@@ -8,8 +12,25 @@
 	"pages": "617-623",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "power", "reduct", "techniqu", "with", "object", "code", "merg", "for", "applic", "specif", "embed", "processor"],
-	"tag": ["embedded", "reduction"],
+	"stemmed": [
+		"a",
+		"power",
+		"reduct",
+		"techniqu",
+		"with",
+		"object",
+		"code",
+		"merg",
+		"for",
+		"applic",
+		"specif",
+		"embed",
+		"processor"
+	],
+	"tag": [
+		"embedded",
+		"reduction"
+	],
 	"title": "A Power Reduction Technique with Object Code Merging for Application Specific Embedded Processors",
 	"type": "inproceedings",
 	"venue": "DATE",

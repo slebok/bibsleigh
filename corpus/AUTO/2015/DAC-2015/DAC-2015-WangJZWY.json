@@ -1,14 +1,38 @@
 {
-	"author": ["Rujia Wang", "Lei Jiang", "Youtao Zhang", "Linzhang Wang", "Jun Yang"],
-	"booktitle": "DAC",
+	"author": [
+		"Rujia Wang",
+		"Lei Jiang",
+		"Youtao Zhang",
+		"Linzhang Wang",
+		"Jun Yang"
+	],
+	"booktitle": "Proceedings of the 52nd Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2015",
 	"dblpkey": "conf/dac/WangJZWY15",
 	"doi": "10.1145/2744769.2744908",
 	"ee": "http://doi.acm.org/10.1145/2744769.2744908",
 	"pages": "21:1-21:6",
 	"publisher": "ACM",
-	"stemmed": ["select", "restor", "an", "energi", "effici", "read", "disturb", "mitig", "scheme", "for", "futur", "stt", "mram"],
-	"tag": ["energy", "performance"],
+	"stemmed": [
+		"select",
+		"restor",
+		"an",
+		"energi",
+		"effici",
+		"read",
+		"disturb",
+		"mitig",
+		"scheme",
+		"for",
+		"futur",
+		"stt",
+		"mram"
+	],
+	"tag": [
+		"energy",
+		"performance"
+	],
 	"title": "Selective restore: an energy efficient read disturbance mitigation scheme for future STT-MRAM",
 	"type": "inproceedings",
 	"venue": "DAC",

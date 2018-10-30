@@ -1,6 +1,11 @@
 {
-	"author": ["Albrecht Mayer", "Harry Siebert", "Klaus D. McDonald-Maier"],
-	"booktitle": "DATE",
+	"author": [
+		"Albrecht Mayer",
+		"Harry Siebert",
+		"Klaus D. McDonald-Maier"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/MayerSM05",
 	"doi": "10.1109/DATE.2005.109",
@@ -8,8 +13,25 @@
 	"pages": "148-152",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["debug", "support", "calibr", "and", "emul", "for", "multipl", "processor", "and", "powertrain", "control", "so", "cs"],
-	"tag": ["debugging", "multi"],
+	"stemmed": [
+		"debug",
+		"support",
+		"calibr",
+		"and",
+		"emul",
+		"for",
+		"multipl",
+		"processor",
+		"and",
+		"powertrain",
+		"control",
+		"so",
+		"cs"
+	],
+	"tag": [
+		"debugging",
+		"multi"
+	],
 	"title": "Debug Support, Calibration and Emulation for Multiple Processor and Powertrain Control SoCs",
 	"type": "inproceedings",
 	"venue": "DATE",

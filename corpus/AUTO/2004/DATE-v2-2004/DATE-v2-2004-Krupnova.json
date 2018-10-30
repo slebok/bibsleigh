@@ -1,6 +1,7 @@
 {
 	"author": "Helena Krupnova",
-	"booktitle": "DATE",
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/Krupnova04",
 	"doi": "10.1109/DATE.2004.1269065",
@@ -8,8 +9,25 @@
 	"pages": "1236-1243",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["map", "multi", "million", "gate", "so", "cs", "on", "fpgas", "industri", "methodolog", "and", "experi"],
-	"tag": ["experience", "industrial", "multi"],
+	"stemmed": [
+		"map",
+		"multi",
+		"million",
+		"gate",
+		"so",
+		"cs",
+		"on",
+		"fpgas",
+		"industri",
+		"methodolog",
+		"and",
+		"experi"
+	],
+	"tag": [
+		"experience",
+		"industrial",
+		"multi"
+	],
 	"title": "Mapping Multi-Million Gate SoCs on FPGAs: Industrial Methodology and Experience",
 	"type": "inproceedings",
 	"venue": "DATE",

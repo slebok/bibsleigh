@@ -1,6 +1,10 @@
 {
-	"author": ["Laurent George", "Pascale Minet"],
-	"booktitle": "LCTES",
+	"author": [
+		"Laurent George",
+		"Pascale Minet"
+	],
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/1998",
 	"dblpkey": "conf/lctrts/GeorgeM98",
 	"doi": "10.1007/BFb0057781",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "uniform", "reliabl", "multicast", "protocol", "with", "guarante", "respons", "time"],
-	"tag": ["multi", "protocol", "reliability"],
+	"stemmed": [
+		"a",
+		"uniform",
+		"reliabl",
+		"multicast",
+		"protocol",
+		"with",
+		"guarante",
+		"respons",
+		"time"
+	],
+	"tag": [
+		"multi",
+		"protocol",
+		"reliability"
+	],
 	"title": "A Uniform Reliable Multicast Protocol with Guaranteed Response Times",
 	"type": "inproceedings",
 	"venue": "LCTES",
-	"volume": 1474,
+	"volume": "1474",
 	"year": 1998
 }

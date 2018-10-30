@@ -1,14 +1,28 @@
 {
-	"author": ["Cinda Heeren", "H. V. Jagadish", "Leonard Pitt"],
-	"booktitle": "PODS",
+	"author": [
+		"Cinda Heeren",
+		"H. V. Jagadish",
+		"Leonard Pitt"
+	],
+	"booktitle": "Proceedings of the 22nd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2003",
 	"dblpkey": "conf/pods/HeerenJP03",
 	"doi": "10.1145/773153.773177",
 	"ee": "http://doi.acm.org/10.1145/773153.773177",
 	"pages": "244-251",
 	"publisher": "ACM",
-	"stemmed": ["optim", "index", "use", "near", "minim", "space"],
-	"tag": ["using"],
+	"stemmed": [
+		"optim",
+		"index",
+		"use",
+		"near",
+		"minim",
+		"space"
+	],
+	"tag": [
+		"using"
+	],
 	"title": "Optimal indexing using near-minimal space",
 	"type": "inproceedings",
 	"venue": "PODS",

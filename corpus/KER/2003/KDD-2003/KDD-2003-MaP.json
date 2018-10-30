@@ -1,14 +1,29 @@
 {
-	"author": ["Junshui Ma", "Simon Perkins"],
-	"booktitle": "KDD",
+	"author": [
+		"Junshui Ma",
+		"Simon Perkins"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2003",
 	"dblpkey": "conf/kdd/MaP03",
 	"doi": "10.1145/956750.956828",
 	"ee": "http://doi.acm.org/10.1145/956750.956828",
 	"pages": "613-618",
 	"publisher": "ACM",
-	"stemmed": ["onlin", "novelti", "detect", "on", "tempor", "sequenc"],
-	"tag": ["detection", "online", "sequence"],
+	"stemmed": [
+		"onlin",
+		"novelti",
+		"detect",
+		"on",
+		"tempor",
+		"sequenc"
+	],
+	"tag": [
+		"detection",
+		"online",
+		"sequence"
+	],
 	"title": "Online novelty detection on temporal sequences",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,13 +1,23 @@
 {
-	"acmid": 802360,
+	"acmid": "802360",
 	"author": "James A. Wilmore",
-	"booktitle": "DAC",
+	"booktitle": "Proceedings of the 18th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1981",
 	"dblpkey": "conf/dac/Wilmore81",
 	"pages": "571-579",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["effici", "boolean", "oper", "on", "ic", "mask"],
-	"tag": ["performance"],
+	"stemmed": [
+		"effici",
+		"boolean",
+		"oper",
+		"on",
+		"ic",
+		"mask"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Efficient Boolean operations on IC masks",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,6 +1,11 @@
 {
-	"author": ["Elke Mittendorf", "Peter Schäuble", "Paraic Sheridan"],
+	"author": [
+		"Elke Mittendorf",
+		"Peter Schäuble",
+		"Paraic Sheridan"
+	],
 	"booktitle": "Proceedings of the 18th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1995/P328.pdf",
 	"crossref": "conf/sigir/95",
 	"dblpkey": "conf/sigir/MittendorfSS95",
@@ -8,8 +13,29 @@
 	"ee": "http://doi.acm.org/10.1145/215206.215379",
 	"pages": "328-335",
 	"publisher": "ACM Press",
-	"stemmed": ["appli", "probabilist", "term", "weight", "to", "ocr", "text", "in", "the", "case", "of", "a", "larg", "alphabet", "librari", "catalogu"],
-	"tag": ["library", "probability", "scalability"],
+	"stemmed": [
+		"appli",
+		"probabilist",
+		"term",
+		"weight",
+		"to",
+		"ocr",
+		"text",
+		"in",
+		"the",
+		"case",
+		"of",
+		"a",
+		"larg",
+		"alphabet",
+		"librari",
+		"catalogu"
+	],
+	"tag": [
+		"library",
+		"probability",
+		"scalability"
+	],
 	"title": "Applying Probabilistic Term Weighting to OCR Text in the Case of a Large Alphabetic Library Catalogue",
 	"type": "inproceedings",
 	"venue": "SIGIR",

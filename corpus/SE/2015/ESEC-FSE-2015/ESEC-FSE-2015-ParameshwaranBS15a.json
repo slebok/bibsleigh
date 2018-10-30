@@ -1,14 +1,38 @@
 {
-	"author": ["Inian Parameshwaran", "Enrico Budianto", "Shweta Shinde", "Hung Dang", "Atul Sadhu", "Prateek Saxena"],
-	"booktitle": "ESEC/SIGSOFT FSE",
+	"author": [
+		"Inian Parameshwaran",
+		"Enrico Budianto",
+		"Shweta Shinde",
+		"Hung Dang",
+		"Atul Sadhu",
+		"Prateek Saxena"
+	],
+	"booktitle": "Proceedings of the 10th Joint Meeting of the 15th European Software Engineering Conference and the 23rd Symposium on the Foundations of Software Engineering",
+	"booktitleshort": "ESEC/SIGSOFT FSE",
 	"crossref": "conf/sigsoft/2015",
 	"dblpkey": "conf/sigsoft/ParameshwaranBS15a",
 	"doi": "10.1145/2786805.2803191",
 	"ee": "http://doi.acm.org/10.1145/2786805.2803191",
 	"pages": "946-949",
 	"publisher": "ACM",
-	"stemmed": ["dexter", "js", "robust", "test", "platform", "for", "dom", "base", "xss", "vulner"],
-	"tag": ["framework", "named", "robust", "testing"],
+	"stemmed": [
+		"dexter",
+		"js",
+		"robust",
+		"test",
+		"platform",
+		"for",
+		"dom",
+		"base",
+		"xss",
+		"vulner"
+	],
+	"tag": [
+		"framework",
+		"named",
+		"robust",
+		"testing"
+	],
 	"title": "DexterJS: robust testing platform for DOM-based XSS vulnerabilities",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

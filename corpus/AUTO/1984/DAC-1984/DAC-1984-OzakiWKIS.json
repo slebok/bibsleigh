@@ -1,13 +1,32 @@
 {
-	"acmid": 800855,
-	"author": ["Masaru Ozaki", "Miho Watanabe", "Morio Kakinuma", "Mikio Ikeda", "Koji Sato"],
-	"booktitle": "DAC",
+	"acmid": "800855",
+	"author": [
+		"Masaru Ozaki",
+		"Miho Watanabe",
+		"Morio Kakinuma",
+		"Mikio Ikeda",
+		"Koji Sato"
+	],
+	"booktitle": "Proceedings of the 21st Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1984",
 	"dblpkey": "conf/dac/OzakiWKIS84",
 	"pages": "572-579",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["mgx", "an", "integr", "symbol", "layout", "system", "for", "vlsi"],
-	"tag": ["layout", "named"],
+	"stemmed": [
+		"mgx",
+		"an",
+		"integr",
+		"symbol",
+		"layout",
+		"system",
+		"for",
+		"vlsi"
+	],
+	"tag": [
+		"layout",
+		"named"
+	],
 	"title": "MGX: An integrated symbolic layout system for VLSI",
 	"type": "inproceedings",
 	"venue": "DAC",

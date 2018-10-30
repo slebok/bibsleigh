@@ -1,6 +1,7 @@
 {
 	"author": "Justin Picard",
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P182.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/Picard98",
@@ -8,8 +9,26 @@
 	"ee": "http://doi.acm.org/10.1145/290941.290989",
 	"pages": "182-189",
 	"publisher": "ACM",
-	"stemmed": ["model", "and", "combin", "evid", "provid", "by", "document", "relationship", "use", "probabilist", "argument", "system"],
-	"tag": ["documentation", "modelling", "probability", "using"],
+	"stemmed": [
+		"model",
+		"and",
+		"combin",
+		"evid",
+		"provid",
+		"by",
+		"document",
+		"relationship",
+		"use",
+		"probabilist",
+		"argument",
+		"system"
+	],
+	"tag": [
+		"documentation",
+		"modelling",
+		"probability",
+		"using"
+	],
 	"title": "Modeling and Combining Evidence Provided by Document Relationships Using Probabilistic Argumentation Systems",
 	"type": "inproceedings",
 	"venue": "SIGIR",

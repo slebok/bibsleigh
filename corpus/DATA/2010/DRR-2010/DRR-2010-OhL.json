@@ -1,6 +1,10 @@
 {
-	"author": ["Il-Seok Oh", "Jin-Seon Lee"],
-	"booktitle": "DRR",
+	"author": [
+		"Il-Seok Oh",
+		"Jin-Seon Lee"
+	],
+	"booktitle": "Proceedings of the 17th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2010",
 	"dblpkey": "conf/drr/OhL10",
 	"doi": "10.1117/12.839924",
@@ -8,11 +12,29 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["ant", "coloni", "optim", "with", "select", "evalu", "for", "featur", "select", "in", "charact", "recognit"],
-	"tag": ["evaluation", "feature model", "optimisation", "recognition"],
+	"stemmed": [
+		"ant",
+		"coloni",
+		"optim",
+		"with",
+		"select",
+		"evalu",
+		"for",
+		"featur",
+		"select",
+		"in",
+		"charact",
+		"recognit"
+	],
+	"tag": [
+		"evaluation",
+		"feature model",
+		"optimisation",
+		"recognition"
+	],
 	"title": "Ant colony optimization with selective evaluation for feature selection in character recognition",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7534,
+	"volume": "7534",
 	"year": 2010
 }

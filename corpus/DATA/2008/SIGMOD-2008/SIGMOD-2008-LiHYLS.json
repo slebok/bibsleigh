@@ -1,6 +1,12 @@
 {
-	"author": ["Xiaolei Li", "Jiawei Han", "Zhijun Yin", "Jae-Gil Lee", "Yizhou Sun"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Xiaolei Li",
+		"Jiawei Han",
+		"Zhijun Yin",
+		"Jae-Gil Lee",
+		"Yizhou Sun"
+	],
+	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2008",
 	"dblpkey": "conf/sigmod/LiHYLS08",
@@ -8,8 +14,22 @@
 	"ee": "http://doi.acm.org/10.1145/1376616.1376695",
 	"pages": "779-790",
 	"publisher": "ACM",
-	"stemmed": ["sampl", "cube", "a", "framework", "for", "statist", "olap", "over", "sampl", "data"],
-	"tag": ["framework", "statistics"],
+	"stemmed": [
+		"sampl",
+		"cube",
+		"a",
+		"framework",
+		"for",
+		"statist",
+		"olap",
+		"over",
+		"sampl",
+		"data"
+	],
+	"tag": [
+		"framework",
+		"statistics"
+	],
 	"title": "Sampling cube: a framework for statistical olap over sampling data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

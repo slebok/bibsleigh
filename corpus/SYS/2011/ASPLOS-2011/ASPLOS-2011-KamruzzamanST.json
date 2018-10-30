@@ -1,14 +1,35 @@
 {
-	"author": ["Md Kamruzzaman", "Steven Swanson", "Dean M. Tullsen"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Md Kamruzzaman",
+		"Steven Swanson",
+		"Dean M. Tullsen"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2011",
 	"dblpkey": "conf/asplos/KamruzzamanST11",
 	"doi": "10.1145/1950365.1950411",
 	"ee": "http://doi.acm.org/10.1145/1950365.1950411",
 	"pages": "393-404",
 	"publisher": "ACM",
-	"stemmed": ["inter", "core", "prefetch", "for", "multicor", "processor", "use", "migrat", "helper", "thread"],
-	"tag": ["manycore", "migration", "thread", "using"],
+	"stemmed": [
+		"inter",
+		"core",
+		"prefetch",
+		"for",
+		"multicor",
+		"processor",
+		"use",
+		"migrat",
+		"helper",
+		"thread"
+	],
+	"tag": [
+		"manycore",
+		"migration",
+		"thread",
+		"using"
+	],
 	"title": "Inter-core prefetching for multicore processors using migrating helper threads",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

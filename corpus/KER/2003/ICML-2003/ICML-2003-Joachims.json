@@ -1,13 +1,25 @@
 {
 	"author": "Thorsten Joachims",
 	"booktitle": "Proceedings of the 20th International Conference on Machine Learning",
+	"booktitleshort": "ICML",
 	"crossref": "conf/icml/2003",
 	"dblpkey": "conf/icml/Joachims03",
 	"ee": "http://www.aaai.org/Library/ICML/2003/icml03-040.php",
 	"pages": "290-297",
 	"publisher": "AAAI Press",
-	"stemmed": ["transduct", "learn", "via", "spectral", "graph", "partit"],
-	"tag": ["clustering", "graph", "learning"],
+	"stemmed": [
+		"transduct",
+		"learn",
+		"via",
+		"spectral",
+		"graph",
+		"partit"
+	],
+	"tag": [
+		"clustering",
+		"graph",
+		"learning"
+	],
 	"title": "Transductive Learning via Spectral Graph Partitioning",
 	"type": "inproceedings",
 	"venue": "ICML",

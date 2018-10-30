@@ -1,6 +1,11 @@
 {
-	"author": ["Joel R. Remde", "Louis M. Gomez", "Thomas K. Landauer"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Joel R. Remde",
+		"Louis M. Gomez",
+		"Thomas K. Landauer"
+	],
+	"booktitle": "Proceedings of the First Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1987/P175.pdf",
 	"crossref": "conf/ht/87",
 	"dblpkey": "conf/ht/RemdeGL87",
@@ -8,8 +13,23 @@
 	"ee": "http://doi.acm.org/10.1145/317426.317440",
 	"pages": "175-188",
 	"publisher": "ACM",
-	"stemmed": ["super", "book", "an", "automat", "tool", "for", "inform", "explor", "hypertext"],
-	"tag": ["automation", "hypermedia", "named", "question"],
+	"stemmed": [
+		"super",
+		"book",
+		"an",
+		"automat",
+		"tool",
+		"for",
+		"inform",
+		"explor",
+		"hypertext"
+	],
+	"tag": [
+		"automation",
+		"hypermedia",
+		"named",
+		"question"
+	],
 	"title": "SuperBook: An Automatic Tool for Information Exploration — Hypertext?",
 	"type": "inproceedings",
 	"venue": "HT",

@@ -1,6 +1,10 @@
 {
-	"author": ["David A. McAllester", "Kostas Arkoudas"],
-	"booktitle": "CADE",
+	"author": [
+		"David A. McAllester",
+		"Kostas Arkoudas"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
 	"dblpkey": "conf/cade/McAllesterA96",
 	"doi": "10.1007/3-540-61511-3_119",
@@ -10,11 +14,16 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["walther", "recurs"],
-	"tag": ["recursion"],
+	"stemmed": [
+		"walther",
+		"recurs"
+	],
+	"tag": [
+		"recursion"
+	],
 	"title": "Walther Recursion",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1104,
+	"volume": "1104",
 	"year": 1996
 }

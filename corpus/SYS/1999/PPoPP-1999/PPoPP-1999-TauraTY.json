@@ -1,14 +1,32 @@
 {
-	"author": ["Kenjiro Taura", "Kunio Tabata", "Akinori Yonezawa"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Kenjiro Taura",
+		"Kunio Tabata",
+		"Akinori Yonezawa"
+	],
+	"booktitle": "Proceedings of the Seventh Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1999",
 	"dblpkey": "conf/ppopp/TauraTY99",
 	"doi": "10.1145/301104.301110",
 	"ee": "http://doi.acm.org/10.1145/301104.301110",
 	"pages": "60-71",
 	"publisher": "ACM",
-	"stemmed": ["stack", "thread", "mp", "integr", "futur", "into", "call", "standard"],
-	"tag": ["named", "standard", "thread"],
+	"stemmed": [
+		"stack",
+		"thread",
+		"mp",
+		"integr",
+		"futur",
+		"into",
+		"call",
+		"standard"
+	],
+	"tag": [
+		"named",
+		"standard",
+		"thread"
+	],
 	"title": "StackThreads/MP: Integrating Futures into Calling Standards",
 	"type": "inproceedings",
 	"venue": "PPoPP",

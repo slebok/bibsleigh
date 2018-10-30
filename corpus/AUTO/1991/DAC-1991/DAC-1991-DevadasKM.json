@@ -1,13 +1,34 @@
 {
-	"author": ["Srinivas Devadas", "Kurt Keutzer", "Sharad Malik"],
-	"booktitle": "DAC",
+	"author": [
+		"Srinivas Devadas",
+		"Kurt Keutzer",
+		"Sharad Malik"
+	],
+	"booktitle": "Proceedings of the 28th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/DevadasKM91",
 	"doi": "10.1145/127601.127694",
 	"ee": "http://doi.acm.org/10.1145/127601.127694",
 	"pages": "359-365",
 	"publisher": "ACM",
-	"stemmed": ["a", "synthesi", "base", "test", "generat", "and", "compact", "algorithm", "for", "multifault"],
-	"tag": ["algorithm", "generative", "multi", "testing"],
+	"stemmed": [
+		"a",
+		"synthesi",
+		"base",
+		"test",
+		"generat",
+		"and",
+		"compact",
+		"algorithm",
+		"for",
+		"multifault"
+	],
+	"tag": [
+		"algorithm",
+		"generative",
+		"multi",
+		"testing"
+	],
 	"title": "A Synthesis-Based Test Generation and Compaction Algorithm for Multifaults",
 	"type": "inproceedings",
 	"venue": "DAC",

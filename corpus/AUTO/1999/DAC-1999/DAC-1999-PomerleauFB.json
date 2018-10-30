@@ -1,13 +1,28 @@
 {
-	"author": ["Real G. Pomerleau", "Paul D. Frazon", "Griff L. Bilbro"],
-	"booktitle": "DAC",
+	"author": [
+		"Real G. Pomerleau",
+		"Paul D. Frazon",
+		"Griff L. Bilbro"
+	],
+	"booktitle": "Proceedings of the 36th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/PomerleauFB99",
 	"doi": "10.1145/309847.309986",
 	"ee": "http://doi.acm.org/10.1145/309847.309986",
 	"pages": "497-501",
 	"publisher": "ACM Press",
-	"stemmed": ["improv", "selay", "predict", "for", "on", "chip", "buse"],
-	"tag": ["predict"],
+	"stemmed": [
+		"improv",
+		"selay",
+		"predict",
+		"for",
+		"on",
+		"chip",
+		"buse"
+	],
+	"tag": [
+		"predict"
+	],
 	"title": "Improved Selay Prediction for On-Chip Buses",
 	"type": "inproceedings",
 	"venue": "DAC",

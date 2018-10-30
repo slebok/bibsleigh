@@ -1,6 +1,9 @@
 {
-	"author": ["Yufei Tao", "Dimitris Papadias"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yufei Tao",
+		"Dimitris Papadias"
+	],
+	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/TaoP02",
@@ -8,8 +11,19 @@
 	"ee": "http://doi.acm.org/10.1145/564691.564730",
 	"pages": "334-345",
 	"publisher": "ACM",
-	"stemmed": ["time", "parameter", "queri", "in", "spatio", "tempor", "databas"],
-	"tag": ["database", "query"],
+	"stemmed": [
+		"time",
+		"parameter",
+		"queri",
+		"in",
+		"spatio",
+		"tempor",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"query"
+	],
 	"title": "Time-parameterized queries in spatio-temporal databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

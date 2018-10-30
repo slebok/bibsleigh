@@ -1,6 +1,7 @@
 {
 	"author": "Krzysztof Kuchcinski",
-	"booktitle": "DATE",
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/Kuchcinski99",
 	"doi": "10.1109/DATE.1999.761224",
@@ -8,8 +9,27 @@
 	"pages": "772-773",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["integr", "resourc", "assign", "and", "schedul", "of", "task", "graph", "use", "finit", "domain", "constraint"],
-	"tag": ["constraints", "finite", "graph", "scheduling", "using"],
+	"stemmed": [
+		"integr",
+		"resourc",
+		"assign",
+		"and",
+		"schedul",
+		"of",
+		"task",
+		"graph",
+		"use",
+		"finit",
+		"domain",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"finite",
+		"graph",
+		"scheduling",
+		"using"
+	],
 	"title": "Integrated Resource Assignment and Scheduling of Task Graphs Using Finite Domain Constraints",
 	"type": "inproceedings",
 	"venue": "DATE",

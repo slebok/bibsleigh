@@ -1,14 +1,35 @@
 {
-	"author": ["Xi Chen", "Abhijit Davare", "Harry Hsieh", "Alberto L. Sangiovanni-Vincentelli", "Yosinori Watanabe"],
-	"booktitle": "DAC",
+	"author": [
+		"Xi Chen",
+		"Abhijit Davare",
+		"Harry Hsieh",
+		"Alberto L. Sangiovanni-Vincentelli",
+		"Yosinori Watanabe"
+	],
+	"booktitle": "Proceedings of the 42nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/ChenDHSW05",
 	"doi": "10.1145/1065579.1065647",
 	"ee": "http://doi.acm.org/10.1145/1065579.1065647",
 	"pages": "260-265",
 	"publisher": "ACM",
-	"stemmed": ["simul", "base", "deadlock", "analysi", "for", "system", "level", "design"],
-	"tag": ["analysis", "concurrent", "design", "simulation"],
+	"stemmed": [
+		"simul",
+		"base",
+		"deadlock",
+		"analysi",
+		"for",
+		"system",
+		"level",
+		"design"
+	],
+	"tag": [
+		"analysis",
+		"concurrent",
+		"design",
+		"simulation"
+	],
 	"title": "Simulation based deadlock analysis for system level designs",
 	"type": "inproceedings",
 	"venue": "DAC",

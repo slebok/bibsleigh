@@ -1,14 +1,34 @@
 {
-	"author": ["Wei-Fan Chiang", "Ganesh Gopalakrishnan", "Zvonimir Rakamaric", "Alexey Solovyev"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Wei-Fan Chiang",
+		"Ganesh Gopalakrishnan",
+		"Zvonimir Rakamaric",
+		"Alexey Solovyev"
+	],
+	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/ChiangGRS14",
 	"doi": "10.1145/2555243.2555265",
 	"ee": "http://doi.acm.org/10.1145/2555243.2555265",
 	"pages": "43-52",
 	"publisher": "ACM",
-	"stemmed": ["effici", "search", "for", "input", "caus", "high", "float", "point", "error"],
-	"tag": ["fault", "float", "performance"],
+	"stemmed": [
+		"effici",
+		"search",
+		"for",
+		"input",
+		"caus",
+		"high",
+		"float",
+		"point",
+		"error"
+	],
+	"tag": [
+		"fault",
+		"float",
+		"performance"
+	],
 	"title": "Efficient search for inputs causing high floating-point errors",
 	"type": "inproceedings",
 	"venue": "PPoPP",

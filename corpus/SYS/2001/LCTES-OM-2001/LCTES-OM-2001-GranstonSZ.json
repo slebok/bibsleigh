@@ -1,14 +1,34 @@
 {
-	"author": ["Elana D. Granston", "Eric Stotzer", "Joe Zbiciak"],
-	"booktitle": "LCTES/OM",
+	"author": [
+		"Elana D. Granston",
+		"Eric Stotzer",
+		"Joe Zbiciak"
+	],
+	"booktitle": "Proceedings of the Joint Workshop on Languages, Compilers, and Tools for Embedded Systems and Workshop on Optimization of Middleware and Distributed Systems",
+	"booktitleshort": "LCTES/OM",
 	"crossref": "conf/lctrts/2001",
 	"dblpkey": "conf/lctrts/GranstonSZ01",
 	"doi": "10.1145/384197.384216",
 	"ee": "http://doi.acm.org/10.1145/384197.384216",
 	"pages": "138-144",
 	"publisher": "ACM",
-	"stemmed": ["softwar", "pipelin", "irregular", "loop", "on", "the", "tms", "c", "vliw", "dsp", "architectur"],
-	"tag": ["architecture", "pipes and filters"],
+	"stemmed": [
+		"softwar",
+		"pipelin",
+		"irregular",
+		"loop",
+		"on",
+		"the",
+		"tms",
+		"c",
+		"vliw",
+		"dsp",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"pipes and filters"
+	],
 	"title": "Software Pipelining Irregular Loops on the TMS320C6000 VLIW DSP Architecture",
 	"type": "inproceedings",
 	"venue": "LCTES",

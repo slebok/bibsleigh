@@ -1,6 +1,10 @@
 {
-	"author": ["Gang Tan", "Andrew W. Appel"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Gang Tan",
+		"Andrew W. Appel"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2006",
 	"dblpkey": "conf/vmcai/TanA06",
 	"doi": "10.1007/11609773_6",
@@ -10,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "composit", "logic", "for", "control", "flow"],
-	"tag": ["composition", "control flow", "logic"],
+	"stemmed": [
+		"a",
+		"composit",
+		"logic",
+		"for",
+		"control",
+		"flow"
+	],
+	"tag": [
+		"composition",
+		"control flow",
+		"logic"
+	],
 	"title": "A Compositional Logic for Control Flow",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3855,
+	"volume": "3855",
 	"year": 2006
 }

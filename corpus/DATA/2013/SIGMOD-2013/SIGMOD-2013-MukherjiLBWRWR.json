@@ -1,6 +1,14 @@
 {
-	"author": ["Abhishek Mukherji", "Xika Lin", "Christopher R. Botaish", "Jason Whitehouse", "Elke A. Rundensteiner", "Matthew O. Ward", "Carolina Ruiz"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Abhishek Mukherji",
+		"Xika Lin",
+		"Christopher R. Botaish",
+		"Jason Whitehouse",
+		"Elke A. Rundensteiner",
+		"Matthew O. Ward",
+		"Carolina Ruiz"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/MukherjiLBWRWR13",
@@ -8,8 +16,23 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465245",
 	"pages": "1017-1020",
 	"publisher": "ACM",
-	"stemmed": ["para", "interact", "paramet", "space", "explor", "for", "associ", "rule", "mine"],
-	"tag": ["interactive", "mining", "named", "parametricity"],
+	"stemmed": [
+		"para",
+		"interact",
+		"paramet",
+		"space",
+		"explor",
+		"for",
+		"associ",
+		"rule",
+		"mine"
+	],
+	"tag": [
+		"interactive",
+		"mining",
+		"named",
+		"parametricity"
+	],
 	"title": "PARAS: interactive parameter space exploration for association rule mining",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

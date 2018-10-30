@@ -1,14 +1,31 @@
 {
-	"author": ["Bhuvan Urgaonkar", "Prashant J. Shenoy", "Timothy Roscoe"],
-	"booktitle": "OSDI",
+	"author": [
+		"Bhuvan Urgaonkar",
+		"Prashant J. Shenoy",
+		"Timothy Roscoe"
+	],
+	"booktitle": "Proceedings of the Fifth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2002",
 	"dblpkey": "conf/osdi/UrgaonkarSR02",
 	"doi": "10.1145/1060289.1060312",
 	"ee": "http://www.usenix.org/events/osdi02/tech/urgaonkar.html",
 	"pages": "239-254",
 	"publisher": "USENIX Association",
-	"stemmed": ["resourc", "overbook", "and", "applic", "profil", "in", "share", "host", "platform"],
-	"tag": ["profiling"],
+	"stemmed": [
+		"resourc",
+		"overbook",
+		"and",
+		"applic",
+		"profil",
+		"in",
+		"share",
+		"host",
+		"platform"
+	],
+	"tag": [
+		"profiling"
+	],
 	"title": "Resource Overbooking and Application Profiling in Shared Hosting Platforms",
 	"type": "inproceedings",
 	"venue": "OSDI",

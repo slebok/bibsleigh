@@ -1,6 +1,9 @@
 {
-	"author": ["Ziya Aral", "Ilya Gertner"],
-	"booktitle": "PPOPP/PPEALS",
+	"author": [
+		"Ziya Aral",
+		"Ilya Gertner"
+	],
+	"booktitle": "Proceedings of the First Symposium on Parallel Programming: Experience with Applications, Languages and Systems",
 	"booktitleshort": "PPEALS",
 	"crossref": "conf/ppopp/1988",
 	"dblpkey": "conf/ppopp/AralG88",
@@ -8,8 +11,19 @@
 	"ee": "http://doi.acm.org/10.1145/62115.62119",
 	"pages": "21-30",
 	"publisher": "ACM",
-	"stemmed": ["non", "intrus", "and", "interact", "profil", "in", "parasight"],
-	"tag": ["interactive", "profiling"],
+	"stemmed": [
+		"non",
+		"intrus",
+		"and",
+		"interact",
+		"profil",
+		"in",
+		"parasight"
+	],
+	"tag": [
+		"interactive",
+		"profiling"
+	],
 	"title": "Non-Intrusive and Interactive Profiling in Parasight",
 	"type": "inproceedings",
 	"venue": "PPoPP",

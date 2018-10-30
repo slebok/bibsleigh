@@ -1,6 +1,12 @@
 {
-	"author": ["Wook-Shin Han", "Jack Ng", "Volker Markl", "Holger Kache", "Mokhtar Kandil"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Wook-Shin Han",
+		"Jack Ng",
+		"Volker Markl",
+		"Holger Kache",
+		"Mokhtar Kandil"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/HanNMKK07",
@@ -8,8 +14,21 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247569",
 	"pages": "809-820",
 	"publisher": "ACM",
-	"stemmed": ["progress", "optim", "in", "a", "share", "noth", "parallel", "databas"],
-	"tag": ["database", "optimisation", "parallel"],
+	"stemmed": [
+		"progress",
+		"optim",
+		"in",
+		"a",
+		"share",
+		"noth",
+		"parallel",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"optimisation",
+		"parallel"
+	],
 	"title": "Progressive optimization in a shared-nothing parallel database",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

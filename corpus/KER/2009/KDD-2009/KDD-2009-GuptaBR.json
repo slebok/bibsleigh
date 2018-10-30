@@ -1,14 +1,31 @@
 {
-	"author": ["Sonal Gupta", "Mikhail Bilenko", "Matthew Richardson"],
-	"booktitle": "KDD",
+	"author": [
+		"Sonal Gupta",
+		"Mikhail Bilenko",
+		"Matthew Richardson"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/GuptaBR09",
 	"doi": "10.1145/1557019.1557145",
 	"ee": "http://doi.acm.org/10.1145/1557019.1557145",
 	"pages": "1165-1174",
 	"publisher": "ACM",
-	"stemmed": ["catch", "the", "drift", "learn", "broad", "match", "from", "clickthrough", "data"],
-	"tag": ["learning"],
+	"stemmed": [
+		"catch",
+		"the",
+		"drift",
+		"learn",
+		"broad",
+		"match",
+		"from",
+		"clickthrough",
+		"data"
+	],
+	"tag": [
+		"learning"
+	],
 	"title": "Catching the drift: learning broad matches from clickthrough data",
 	"type": "inproceedings",
 	"venue": "KDD",

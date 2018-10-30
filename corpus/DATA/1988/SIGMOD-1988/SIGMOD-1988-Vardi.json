@@ -1,12 +1,27 @@
 {
 	"author": "Moshe Y. Vardi",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 18th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD88/P007.PDF",
 	"crossref": "conf/sigmod/88",
 	"dblpkey": "conf/sigmod/Vardi88",
-	"pages": 7,
-	"stemmed": ["databas", "logic", "program", "deduct", "databas", "and", "expert", "databas", "system"],
-	"tag": ["database", "deduction", "logic programming"],
+	"pages": "7",
+	"stemmed": [
+		"databas",
+		"logic",
+		"program",
+		"deduct",
+		"databas",
+		"and",
+		"expert",
+		"databas",
+		"system"
+	],
+	"tag": [
+		"database",
+		"deduction",
+		"logic programming"
+	],
 	"title": "Database Logic Programming, Deductive Databases, and Expert Database Systems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,14 +1,31 @@
 {
-	"author": ["Lukas Stadler", "Thomas Würthinger", "Hanspeter Mössenböck"],
-	"booktitle": "CGO",
+	"author": [
+		"Lukas Stadler",
+		"Thomas Würthinger",
+		"Hanspeter Mössenböck"
+	],
+	"booktitle": "Proceedings of the 12th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2014",
 	"dblpkey": "conf/cgo/StadlerWM14",
 	"doi": "10.1145/2544137.2544157",
 	"ee": "http://doi.acm.org/10.1145/2544137.2544157",
-	"pages": 165,
+	"pages": "165",
 	"publisher": "ACM",
-	"stemmed": ["partial", "escap", "analysi", "and", "scalar", "replac", "for", "java"],
-	"tag": ["analysis", "java"],
+	"stemmed": [
+		"partial",
+		"escap",
+		"analysi",
+		"and",
+		"scalar",
+		"replac",
+		"for",
+		"java"
+	],
+	"tag": [
+		"analysis",
+		"java"
+	],
 	"title": "Partial Escape Analysis and Scalar Replacement for Java",
 	"type": "inproceedings",
 	"venue": "CGO",

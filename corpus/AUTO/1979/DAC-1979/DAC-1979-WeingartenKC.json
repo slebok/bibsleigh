@@ -1,13 +1,35 @@
 {
-	"acmid": 811703,
-	"author": ["Nicholas H. Weingarten", "William Kovacs", "Michael Corden"],
-	"booktitle": "DAC",
+	"acmid": "811703",
+	"author": [
+		"Nicholas H. Weingarten",
+		"William Kovacs",
+		"Michael Corden"
+	],
+	"booktitle": "Proceedings of the 16th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1979",
 	"dblpkey": "conf/dac/WeingartenKC79",
 	"pages": "135-141",
 	"publisher": "ACM",
-	"stemmed": ["draw", "d", "time", "share", "graphic", "interact", "use", "a", "devic", "space", "buffer"],
-	"tag": ["3d", "interactive", "named", "using"],
+	"stemmed": [
+		"draw",
+		"d",
+		"time",
+		"share",
+		"graphic",
+		"interact",
+		"use",
+		"a",
+		"devic",
+		"space",
+		"buffer"
+	],
+	"tag": [
+		"3d",
+		"interactive",
+		"named",
+		"using"
+	],
 	"title": "DRAW3D: Time sharing graphic interaction using a device-space buffer",
 	"type": "inproceedings",
 	"venue": "DAC",

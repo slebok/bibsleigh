@@ -1,6 +1,10 @@
 {
-	"author": ["Sebastian Herbert", "Diana Marculescu"],
-	"booktitle": "HPCA",
+	"author": [
+		"Sebastian Herbert",
+		"Diana Marculescu"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2009",
 	"dblpkey": "conf/hpca/HerbertM09",
 	"doi": "10.1109/HPCA.2009.4798265",
@@ -8,8 +12,17 @@
 	"pages": "301-312",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["variat", "awar", "dynam", "voltag", "frequenc", "scale"],
-	"tag": ["scalability"],
+	"stemmed": [
+		"variat",
+		"awar",
+		"dynam",
+		"voltag",
+		"frequenc",
+		"scale"
+	],
+	"tag": [
+		"scalability"
+	],
 	"title": "Variation-aware dynamic voltage/frequency scaling",
 	"type": "inproceedings",
 	"venue": "HPCA",

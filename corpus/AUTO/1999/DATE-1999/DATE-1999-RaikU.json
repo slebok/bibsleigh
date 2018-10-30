@@ -1,6 +1,10 @@
 {
-	"author": ["Jaan Raik", "Raimund Ubar"],
-	"booktitle": "DATE",
+	"author": [
+		"Jaan Raik",
+		"Raimund Ubar"
+	],
+	"booktitle": "Proceedings of the Fourth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1999",
 	"dblpkey": "conf/date/RaikU99",
 	"doi": "10.1109/DATE.1999.761212",
@@ -8,8 +12,23 @@
 	"pages": "736-740",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["sequenti", "circuit", "test", "generat", "use", "decis", "diagram", "model"],
-	"tag": ["diagrams", "generative", "modelling", "testing", "using"],
+	"stemmed": [
+		"sequenti",
+		"circuit",
+		"test",
+		"generat",
+		"use",
+		"decis",
+		"diagram",
+		"model"
+	],
+	"tag": [
+		"diagrams",
+		"generative",
+		"modelling",
+		"testing",
+		"using"
+	],
 	"title": "Sequential Circuit Test Generation Using Decision Diagram Models",
 	"type": "inproceedings",
 	"venue": "DATE",

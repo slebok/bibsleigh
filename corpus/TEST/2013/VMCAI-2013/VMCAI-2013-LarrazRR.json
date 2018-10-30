@@ -1,6 +1,11 @@
 {
-	"author": ["Daniel Larraz", "Enric Rodríguez-Carbonell", "Albert Rubio"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Daniel Larraz",
+		"Enric Rodríguez-Carbonell",
+		"Albert Rubio"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2013",
 	"dblpkey": "conf/vmcai/LarrazRR13",
 	"doi": "10.1007/978-3-642-35873-9_12",
@@ -10,11 +15,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["smt", "base", "array", "invari", "generat"],
-	"tag": ["array", "generative", "invariant", "smt"],
+	"stemmed": [
+		"smt",
+		"base",
+		"array",
+		"invari",
+		"generat"
+	],
+	"tag": [
+		"array",
+		"generative",
+		"invariant",
+		"smt"
+	],
 	"title": "SMT-Based Array Invariant Generation",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 7737,
+	"volume": "7737",
 	"year": 2013
 }

@@ -1,6 +1,11 @@
 {
-	"author": ["Leslie P. Jones", "Cary deBessonet", "Sukhmay Kundu"],
+	"author": [
+		"Leslie P. Jones",
+		"Cary deBessonet",
+		"Sukhmay Kundu"
+	],
 	"booktitle": "Proceedings of the 11th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P191.pdf",
 	"crossref": "conf/sigir/88",
 	"dblpkey": "conf/sigir/JonesdK88",
@@ -8,8 +13,23 @@
 	"ee": "http://doi.acm.org/10.1145/62437.62450",
 	"pages": "191-199",
 	"publisher": "ACM",
-	"stemmed": ["alloy", "an", "amalgam", "of", "expert", "linguist", "and", "statist", "index", "method"],
-	"tag": ["alloy", "named", "statistics"],
+	"stemmed": [
+		"alloy",
+		"an",
+		"amalgam",
+		"of",
+		"expert",
+		"linguist",
+		"and",
+		"statist",
+		"index",
+		"method"
+	],
+	"tag": [
+		"alloy",
+		"named",
+		"statistics"
+	],
 	"title": "ALLOY: An Amalgamation of Expert, Linguistic and Statistical Indexing Methods",
 	"type": "inproceedings",
 	"venue": "SIGIR",

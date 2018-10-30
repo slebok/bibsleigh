@@ -1,6 +1,7 @@
 {
 	"author": "Ellen M. Voorhees",
 	"booktitle": "Proceedings of the Ninth International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1986/P164.pdf",
 	"crossref": "conf/sigir/86",
 	"dblpkey": "conf/sigir/Voorhees86",
@@ -8,8 +9,20 @@
 	"ee": "http://doi.acm.org/10.1145/253168.253203",
 	"pages": "164-174",
 	"publisher": "ACM",
-	"stemmed": ["the", "effici", "of", "invert", "index", "and", "cluster", "search"],
-	"tag": ["clustering", "performance"],
+	"stemmed": [
+		"the",
+		"effici",
+		"of",
+		"invert",
+		"index",
+		"and",
+		"cluster",
+		"search"
+	],
+	"tag": [
+		"clustering",
+		"performance"
+	],
 	"title": "The Efficiency of Inverted Index and Cluster Searches",
 	"type": "inproceedings",
 	"venue": "SIGIR",

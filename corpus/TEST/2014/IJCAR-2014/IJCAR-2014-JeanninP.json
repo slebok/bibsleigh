@@ -1,6 +1,10 @@
 {
-	"author": ["Jean-Baptiste Jeannin", "André Platzer"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Jean-Baptiste Jeannin",
+		"André Platzer"
+	],
+	"booktitle": "Proceedings of the Seventh International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2014",
 	"dblpkey": "conf/cade/JeanninP14",
 	"doi": "10.1007/978-3-319-08587-6_22",
@@ -10,11 +14,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["dtl", "differenti", "tempor", "dynam", "logic", "with", "nest", "tempor", "for", "hybrid", "system"],
-	"tag": ["difference", "hybrid", "logic", "named"],
+	"stemmed": [
+		"dtl",
+		"differenti",
+		"tempor",
+		"dynam",
+		"logic",
+		"with",
+		"nest",
+		"tempor",
+		"for",
+		"hybrid",
+		"system"
+	],
+	"tag": [
+		"difference",
+		"hybrid",
+		"logic",
+		"named"
+	],
 	"title": "dTL2: Differential Temporal Dynamic Logic with Nested Temporalities for Hybrid Systems",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 8562,
+	"volume": "8562",
 	"year": 2014
 }

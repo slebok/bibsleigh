@@ -1,14 +1,28 @@
 {
 	"author": "Nicole Schweikardt",
-	"booktitle": "PODS",
+	"booktitle": "Proceedings of the 26th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2007",
 	"dblpkey": "conf/pods/Schweikardt07",
 	"doi": "10.1145/1265530.1265537",
 	"ee": "http://doi.acm.org/10.1145/1265530.1265537",
 	"pages": "41-52",
 	"publisher": "ACM",
-	"stemmed": ["machin", "model", "and", "lower", "bound", "for", "queri", "process"],
-	"tag": ["bound", "modelling", "query"],
+	"stemmed": [
+		"machin",
+		"model",
+		"and",
+		"lower",
+		"bound",
+		"for",
+		"queri",
+		"process"
+	],
+	"tag": [
+		"bound",
+		"modelling",
+		"query"
+	],
 	"title": "Machine models and lower bounds for query processing",
 	"type": "inproceedings",
 	"venue": "PODS",

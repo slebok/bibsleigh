@@ -1,6 +1,10 @@
 {
-	"author": ["David Haines", "W. Bruce Croft"],
+	"author": [
+		"David Haines",
+		"W. Bruce Croft"
+	],
 	"booktitle": "Proceedings of the 16th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1993/P002.pdf",
 	"crossref": "conf/sigir/93",
 	"dblpkey": "conf/sigir/HainesC93",
@@ -8,8 +12,17 @@
 	"ee": "http://doi.acm.org/10.1145/160688.160689",
 	"pages": "2-11",
 	"publisher": "ACM",
-	"stemmed": ["relev", "feedback", "and", "infer", "network"],
-	"tag": ["feedback", "network"],
+	"stemmed": [
+		"relev",
+		"feedback",
+		"and",
+		"infer",
+		"network"
+	],
+	"tag": [
+		"feedback",
+		"network"
+	],
 	"title": "Relevance Feedback and Inference Networks",
 	"type": "inproceedings",
 	"venue": "SIGIR",

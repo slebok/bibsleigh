@@ -1,14 +1,35 @@
 {
-	"author": ["Hossein Jowhari", "Mert Saglam", "Gábor Tardos"],
-	"booktitle": "PODS",
+	"author": [
+		"Hossein Jowhari",
+		"Mert Saglam",
+		"Gábor Tardos"
+	],
+	"booktitle": "Proceedings of the 30th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2011",
 	"dblpkey": "conf/pods/JowhariST11",
 	"doi": "10.1145/1989284.1989289",
 	"ee": "http://doi.acm.org/10.1145/1989284.1989289",
 	"pages": "49-58",
 	"publisher": "ACM",
-	"stemmed": ["tight", "bound", "for", "lp", "sampler", "find", "duplic", "in", "stream", "and", "relat", "problem"],
-	"tag": ["bound", "problem"],
+	"stemmed": [
+		"tight",
+		"bound",
+		"for",
+		"lp",
+		"sampler",
+		"find",
+		"duplic",
+		"in",
+		"stream",
+		"and",
+		"relat",
+		"problem"
+	],
+	"tag": [
+		"bound",
+		"problem"
+	],
 	"title": "Tight bounds for Lp samplers, finding duplicates in streams, and related problems",
 	"type": "inproceedings",
 	"venue": "PODS",

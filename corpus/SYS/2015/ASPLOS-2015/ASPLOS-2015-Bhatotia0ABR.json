@@ -1,14 +1,36 @@
 {
-	"author": ["Pramod Bhatotia", "Pedro Fonseca", "Umut A. Acar", "Björn B. Brandenburg", "Rodrigo Rodrigues"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Pramod Bhatotia",
+		"Pedro Fonseca",
+		"Umut A. Acar",
+		"Björn B. Brandenburg",
+		"Rodrigo Rodrigues"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2015",
 	"dblpkey": "conf/asplos/Bhatotia0ABR15",
 	"doi": "10.1145/2694344.2694371",
 	"ee": "http://doi.acm.org/10.1145/2694344.2694371",
 	"pages": "645-659",
 	"publisher": "ACM",
-	"stemmed": ["ithread", "a", "thread", "librari", "for", "parallel", "increment", "comput"],
-	"tag": ["incremental", "library", "named", "parallel", "thread"],
+	"stemmed": [
+		"ithread",
+		"a",
+		"thread",
+		"librari",
+		"for",
+		"parallel",
+		"increment",
+		"comput"
+	],
+	"tag": [
+		"incremental",
+		"library",
+		"named",
+		"parallel",
+		"thread"
+	],
 	"title": "iThreads: A Threading Library for Parallel Incremental Computation",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

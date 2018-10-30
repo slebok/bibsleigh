@@ -1,16 +1,37 @@
 {
 	"author": "Dale Skeen",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 11th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD81/P133.PDF",
-	"cite": ["...", "conf/ac/Gray78", "journals/tods/HammerS80", "...", "...", "journals/tods/Lorie77", "conf/vldb/RothnieG77", "journals/tse/SkeenS83", "...", "journals/tse/Stonebraker79", "...", "..."],
+	"cite": [
+		"...",
+		"conf/ac/Gray78",
+		"journals/tods/HammerS80",
+		"...",
+		"...",
+		"journals/tods/Lorie77",
+		"conf/vldb/RothnieG77",
+		"journals/tse/SkeenS83",
+		"...",
+		"journals/tse/Stonebraker79",
+		"...",
+		"..."
+	],
 	"crossref": "conf/sigmod/81",
 	"dblpkey": "conf/sigmod/Skeen81",
 	"doi": "10.1145/582318.582339",
 	"ee": "http://doi.acm.org/10.1145/582318.582339",
 	"pages": "133-142",
 	"publisher": "ACM Press",
-	"stemmed": ["nonblock", "commit", "protocol"],
-	"tag": ["commit", "protocol"],
+	"stemmed": [
+		"nonblock",
+		"commit",
+		"protocol"
+	],
+	"tag": [
+		"commit",
+		"protocol"
+	],
 	"title": "Nonblocking Commit Protocols",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

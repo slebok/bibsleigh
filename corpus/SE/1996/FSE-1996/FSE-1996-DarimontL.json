@@ -1,7 +1,10 @@
 {
-	"author": ["Robert Darimont", "Axel van Lamsweerde"],
+	"author": [
+		"Robert Darimont",
+		"Axel van Lamsweerde"
+	],
 	"booktitle": "Proceedings of the Fourth Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/1996",
 	"dblpkey": "conf/sigsoft/DarimontL96",
 	"doi": "10.1145/239098.239131",
@@ -9,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/239098.239131",
 	"pages": "179-190",
 	"publisher": "ACM",
-	"stemmed": ["formal", "refin", "pattern", "for", "goal", "driven", "requir", "elabor"],
-	"tag": ["refinement", "requirements"],
+	"stemmed": [
+		"formal",
+		"refin",
+		"pattern",
+		"for",
+		"goal",
+		"driven",
+		"requir",
+		"elabor"
+	],
+	"tag": [
+		"refinement",
+		"requirements"
+	],
 	"title": "Formal Refinement Patterns for Goal-Driven Requirements Elaboration",
 	"type": "inproceedings",
 	"venue": "FSE",

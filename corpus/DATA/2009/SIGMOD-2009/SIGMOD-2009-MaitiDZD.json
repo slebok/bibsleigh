@@ -1,6 +1,11 @@
 {
-	"author": ["Anirban Maiti", "Arjun Dasgupta", "Nan Zhang", "Gautam Das"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Anirban Maiti",
+		"Arjun Dasgupta",
+		"Nan Zhang",
+		"Gautam Das"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/MaitiDZD09",
@@ -8,8 +13,21 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1560001",
 	"pages": "1131-1134",
 	"publisher": "ACM",
-	"stemmed": ["hd", "sampler", "reveal", "data", "behind", "web", "form", "interfac"],
-	"tag": ["interface", "named", "web"],
+	"stemmed": [
+		"hd",
+		"sampler",
+		"reveal",
+		"data",
+		"behind",
+		"web",
+		"form",
+		"interfac"
+	],
+	"tag": [
+		"interface",
+		"named",
+		"web"
+	],
 	"title": "HDSampler: revealing data behind web form interfaces",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

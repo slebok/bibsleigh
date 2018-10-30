@@ -1,6 +1,10 @@
 {
-	"author": ["Ahlem Ben Cherifa", "Pierre Lescanne"],
-	"booktitle": "CADE",
+	"author": [
+		"Ahlem Ben Cherifa",
+		"Pierre Lescanne"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/CherifaL86",
 	"doi": "10.1007/3-540-16780-3_78",
@@ -10,11 +14,36 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "actual", "implement", "of", "a", "procedur", "that", "mechan", "prove", "termin", "of", "rewrit", "system", "base", "on", "inequ", "between", "polynomi", "interpret"],
-	"tag": ["implementation", "polynomial", "term rewriting", "termination"],
+	"stemmed": [
+		"an",
+		"actual",
+		"implement",
+		"of",
+		"a",
+		"procedur",
+		"that",
+		"mechan",
+		"prove",
+		"termin",
+		"of",
+		"rewrit",
+		"system",
+		"base",
+		"on",
+		"inequ",
+		"between",
+		"polynomi",
+		"interpret"
+	],
+	"tag": [
+		"implementation",
+		"polynomial",
+		"term rewriting",
+		"termination"
+	],
 	"title": "An Actual Implementation of a Procedure That Mechanically Proves Termination of Rewriting Systems Based on Inequalities Between Polynomial Interpretations",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

@@ -1,13 +1,35 @@
 {
-	"author": ["Jens Dietrich", "Nicholas Hollingum", "Bernhard Scholz"],
-	"booktitle": "OOPSLA",
+	"author": [
+		"Jens Dietrich",
+		"Nicholas Hollingum",
+		"Bernhard Scholz"
+	],
+	"booktitle": "Proceedings of the 30th Conference on Object-Oriented Programming, Systems, Languages and Applications",
+	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2015",
 	"dblpkey": "conf/oopsla/DietrichHS15",
 	"doi": "10.1145/2814270.2814307",
 	"pages": "535-551",
 	"publisher": "ACM",
-	"stemmed": ["giga", "scale", "exhaust", "point", "to", "analysi", "for", "java", "in", "under", "a", "minut"],
-	"tag": ["analysis", "java", "points-to"],
+	"stemmed": [
+		"giga",
+		"scale",
+		"exhaust",
+		"point",
+		"to",
+		"analysi",
+		"for",
+		"java",
+		"in",
+		"under",
+		"a",
+		"minut"
+	],
+	"tag": [
+		"analysis",
+		"java",
+		"points-to"
+	],
 	"title": "Giga-scale exhaustive points-to analysis for Java in under a minute",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

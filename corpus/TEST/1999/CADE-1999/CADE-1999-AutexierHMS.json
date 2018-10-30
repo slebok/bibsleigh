@@ -1,6 +1,12 @@
 {
-	"author": ["Serge Autexier", "Dieter Hutter", "Heiko Mantel", "Axel Schairer"],
-	"booktitle": "CADE",
+	"author": [
+		"Serge Autexier",
+		"Dieter Hutter",
+		"Heiko Mantel",
+		"Axel Schairer"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1999",
 	"dblpkey": "conf/cade/AutexierHMS99",
 	"doi": "10.1007/3-540-48660-7_15",
@@ -10,11 +16,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "inka", "a", "logic", "voyag"],
-	"tag": ["logic"],
+	"stemmed": [
+		"system",
+		"descript",
+		"inka",
+		"a",
+		"logic",
+		"voyag"
+	],
+	"tag": [
+		"logic"
+	],
 	"title": "System Description: inka 5.0 — A Logic Voyager",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1632,
+	"volume": "1632",
 	"year": 1999
 }

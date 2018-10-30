@@ -1,14 +1,28 @@
 {
-	"author": ["R. E. McLear", "D. M. Scheibelhut", "E. Tammaru"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"R. E. McLear",
+		"D. M. Scheibelhut",
+		"E. Tammaru"
+	],
+	"booktitle": "Proceedings of the First Symposium on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1982",
 	"dblpkey": "conf/asplos/McLearST82",
 	"doi": "10.1145/800050.801833",
 	"ee": "http://doi.acm.org/10.1145/800050.801833",
 	"pages": "100-106",
 	"publisher": "ACM Press",
-	"stemmed": ["guidelin", "for", "creat", "a", "debugg", "processor"],
-	"tag": ["guidelines"],
+	"stemmed": [
+		"guidelin",
+		"for",
+		"creat",
+		"a",
+		"debugg",
+		"processor"
+	],
+	"tag": [
+		"guidelines"
+	],
 	"title": "Guidelines for Creating a Debuggable Processor",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

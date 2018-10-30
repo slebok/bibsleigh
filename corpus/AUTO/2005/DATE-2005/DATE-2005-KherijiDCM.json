@@ -1,6 +1,12 @@
 {
-	"author": ["Rabeb Kheriji", "V. Danelon", "Jean-Louis Carbonéro", "Salvador Mir"],
-	"booktitle": "DATE",
+	"author": [
+		"Rabeb Kheriji",
+		"V. Danelon",
+		"Jean-Louis Carbonéro",
+		"Salvador Mir"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/KherijiDCM05",
 	"doi": "10.1109/DATE.2005.233",
@@ -8,8 +14,26 @@
 	"pages": "170-171",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["optimis", "test", "set", "for", "a", "low", "nois", "amplifi", "with", "a", "defect", "orient", "approach"],
-	"tag": ["approach", "optimisation", "testing"],
+	"stemmed": [
+		"optimis",
+		"test",
+		"set",
+		"for",
+		"a",
+		"low",
+		"nois",
+		"amplifi",
+		"with",
+		"a",
+		"defect",
+		"orient",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"optimisation",
+		"testing"
+	],
 	"title": "Optimising Test Sets for a Low Noise Amplifier with a Defect-Oriented Approach",
 	"type": "inproceedings",
 	"venue": "DATE",

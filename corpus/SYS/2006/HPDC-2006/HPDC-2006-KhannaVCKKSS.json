@@ -1,14 +1,45 @@
 {
-	"author": ["Gaurav Khanna", "Nagavijayalakshmi Vydyanathan", "Ümit V. Çatalyürek", "Tahsin M. Kurç", "Sriram Krishnamoorthy", "P. Sadayappan", "Joel H. Saltz"],
+	"author": [
+		"Gaurav Khanna",
+		"Nagavijayalakshmi Vydyanathan",
+		"Ümit V. Çatalyürek",
+		"Tahsin M. Kurç",
+		"Sriram Krishnamoorthy",
+		"P. Sadayappan",
+		"Joel H. Saltz"
+	],
 	"booktitle": "Proceedings of the 15th International Symposium on High Performance Parallel and Distributed Computing",
+	"booktitleshort": "HPDC",
 	"crossref": "conf/hpdc/2006",
 	"dblpkey": "conf/hpdc/KhannaVCKKSS06",
 	"doi": "10.1109/HPDC.2006.1652155",
-	"ee": ["http://dx.doi.org/10.1109/HPDC.2006.1652155", "http://doi.ieeecomputersociety.org/10.1109/HPDC.2006.1652155"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPDC.2006.1652155",
+		"http://doi.ieeecomputersociety.org/10.1109/HPDC.2006.1652155"
+	],
 	"pages": "241-252",
 	"publisher": "IEEE",
-	"stemmed": ["task", "schedul", "and", "file", "replic", "for", "data", "intens", "job", "with", "batch", "share", "i", "o"],
-	"tag": ["data-driven", "replication", "scheduling"],
+	"stemmed": [
+		"task",
+		"schedul",
+		"and",
+		"file",
+		"replic",
+		"for",
+		"data",
+		"intens",
+		"job",
+		"with",
+		"batch",
+		"share",
+		"i",
+		"o"
+	],
+	"tag": [
+		"data-driven",
+		"replication",
+		"scheduling"
+	],
 	"title": "Task Scheduling and File Replication for Data-Intensive Jobs with Batch-shared I/O",
 	"type": "inproceedings",
 	"venue": "HPDC",

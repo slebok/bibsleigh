@@ -1,14 +1,30 @@
 {
-	"author": ["Cort Dougan", "Paul Mackerras", "Victor Yodaiken"],
-	"booktitle": "OSDI",
+	"author": [
+		"Cort Dougan",
+		"Paul Mackerras",
+		"Victor Yodaiken"
+	],
+	"booktitle": "Proceedings of the Third Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/1999",
 	"dblpkey": "conf/osdi/DouganMY99",
 	"doi": "10.1145/296806.296833",
 	"ee": "http://doi.acm.org/10.1145/296806.296833",
 	"pages": "229-237",
 	"publisher": "USENIX Association",
-	"stemmed": ["optim", "the", "idl", "task", "and", "other", "mmu", "trick"],
-	"tag": ["optimisation"],
+	"stemmed": [
+		"optim",
+		"the",
+		"idl",
+		"task",
+		"and",
+		"other",
+		"mmu",
+		"trick"
+	],
+	"tag": [
+		"optimisation"
+	],
 	"title": "Optimizing the Idle Task and Other MMU Tricks",
 	"type": "inproceedings",
 	"venue": "OSDI",

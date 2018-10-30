@@ -1,14 +1,36 @@
 {
-	"author": ["Milo M. K. Martin", "Daniel J. Sorin", "Anastassia Ailamaki", "Alaa R. Alameldeen", "Ross M. Dickson", "Carl J. Mauer", "Kevin E. Moore", "Manoj Plakal", "Mark D. Hill", "David A. Wood"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Milo M. K. Martin",
+		"Daniel J. Sorin",
+		"Anastassia Ailamaki",
+		"Alaa R. Alameldeen",
+		"Ross M. Dickson",
+		"Carl J. Mauer",
+		"Kevin E. Moore",
+		"Manoj Plakal",
+		"Mark D. Hill",
+		"David A. Wood"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2000",
 	"dblpkey": "conf/asplos/MartinSAADMMPHW00",
 	"doi": "10.1145/356989.356992",
 	"ee": "http://doi.acm.org/10.1145/356989.356992",
 	"pages": "25-36",
 	"publisher": "ACM Press",
-	"stemmed": ["timestamp", "snoop", "an", "approach", "for", "extend", "smps"],
-	"tag": ["approach"],
+	"stemmed": [
+		"timestamp",
+		"snoop",
+		"an",
+		"approach",
+		"for",
+		"extend",
+		"smps"
+	],
+	"tag": [
+		"approach"
+	],
 	"title": "Timestamp snooping: an approach for extending SMPs",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

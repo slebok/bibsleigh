@@ -1,14 +1,33 @@
 {
-	"author": ["Jian Wang", "Badrul Sarwar", "Neel Sundaresan"],
-	"booktitle": "RecSys",
+	"author": [
+		"Jian Wang",
+		"Badrul Sarwar",
+		"Neel Sundaresan"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2011",
 	"dblpkey": "conf/recsys/WangSS11",
 	"doi": "10.1145/2043932.2043995",
 	"ee": "http://doi.acm.org/10.1145/2043932.2043995",
 	"pages": "329-332",
 	"publisher": "ACM",
-	"stemmed": ["util", "relat", "product", "for", "post", "purchas", "recommend", "in", "e", "commerc"],
-	"tag": ["e-commerce", "recommendation"],
+	"stemmed": [
+		"util",
+		"relat",
+		"product",
+		"for",
+		"post",
+		"purchas",
+		"recommend",
+		"in",
+		"e",
+		"commerc"
+	],
+	"tag": [
+		"e-commerce",
+		"recommendation"
+	],
 	"title": "Utilizing related products for post-purchase recommendation in e-commerce",
 	"type": "inproceedings",
 	"venue": "RecSys",

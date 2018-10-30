@@ -1,6 +1,7 @@
 {
 	"author": "Pankaj K. Garg",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the First Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1987/P375.pdf",
 	"crossref": "conf/ht/87",
 	"dblpkey": "conf/ht/Garg87",
@@ -8,8 +9,16 @@
 	"ee": "http://doi.acm.org/10.1145/317426.317453",
 	"pages": "375-395",
 	"publisher": "ACM",
-	"stemmed": ["abstract", "mechan", "in", "hypertext"],
-	"tag": ["abstraction", "hypermedia"],
+	"stemmed": [
+		"abstract",
+		"mechan",
+		"in",
+		"hypertext"
+	],
+	"tag": [
+		"abstraction",
+		"hypermedia"
+	],
 	"title": "Abstraction Mechanisms in Hypertext",
 	"type": "inproceedings",
 	"venue": "HT",

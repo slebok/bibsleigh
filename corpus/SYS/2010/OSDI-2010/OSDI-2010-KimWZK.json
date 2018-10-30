@@ -1,13 +1,28 @@
 {
-	"author": ["Taesoo Kim", "Xi Wang", "Nickolai Zeldovich", "M. Frans Kaashoek"],
-	"booktitle": "OSDI",
+	"author": [
+		"Taesoo Kim",
+		"Xi Wang",
+		"Nickolai Zeldovich",
+		"M. Frans Kaashoek"
+	],
+	"booktitle": "Proceedings of the Ninth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2010",
 	"dblpkey": "conf/osdi/KimWZK10",
 	"ee": "http://www.usenix.org/events/osdi10/tech/full_papers/Kim.pdf",
 	"pages": "89-104",
 	"publisher": "USENIX Association",
-	"stemmed": ["intrus", "recoveri", "use", "select", "re", "execut"],
-	"tag": ["using"],
+	"stemmed": [
+		"intrus",
+		"recoveri",
+		"use",
+		"select",
+		"re",
+		"execut"
+	],
+	"tag": [
+		"using"
+	],
 	"title": "Intrusion Recovery Using Selective Re-execution",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,14 +1,29 @@
 {
-	"author": ["Ke Wang", "Yuelong Jiang", "Laks V. S. Lakshmanan"],
-	"booktitle": "KDD",
+	"author": [
+		"Ke Wang",
+		"Yuelong Jiang",
+		"Laks V. S. Lakshmanan"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2003",
 	"dblpkey": "conf/kdd/WangJL03",
 	"doi": "10.1145/956750.956780",
 	"ee": "http://doi.acm.org/10.1145/956750.956780",
 	"pages": "246-255",
 	"publisher": "ACM",
-	"stemmed": ["mine", "unexpect", "rule", "by", "push", "user", "dynam"],
-	"tag": ["mining"],
+	"stemmed": [
+		"mine",
+		"unexpect",
+		"rule",
+		"by",
+		"push",
+		"user",
+		"dynam"
+	],
+	"tag": [
+		"mining"
+	],
 	"title": "Mining unexpected rules by pushing user dynamics",
 	"type": "inproceedings",
 	"venue": "KDD",

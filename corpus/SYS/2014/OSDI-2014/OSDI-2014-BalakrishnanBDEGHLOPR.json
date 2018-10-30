@@ -1,13 +1,37 @@
 {
-	"author": ["Shobana Balakrishnan", "Richard Black", "Austin Donnelly", "Paul England", "Adam Glass", "David Harper", "Sergey Legtchenko", "Aaron Ogus", "Eric Peterson", "Antony I. T. Rowstron"],
-	"booktitle": "OSDI",
+	"author": [
+		"Shobana Balakrishnan",
+		"Richard Black",
+		"Austin Donnelly",
+		"Paul England",
+		"Adam Glass",
+		"David Harper",
+		"Sergey Legtchenko",
+		"Aaron Ogus",
+		"Eric Peterson",
+		"Antony I. T. Rowstron"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2014",
 	"dblpkey": "conf/osdi/BalakrishnanBDEGHLOPR14",
 	"ee": "https://www.usenix.org/conference/osdi14/technical-sessions/presentation/balakrishnan",
 	"pages": "351-365",
 	"publisher": "USENIX Association",
-	"stemmed": ["pelican", "a", "build", "block", "for", "exascal", "cold", "data", "storag"],
-	"tag": ["named"],
+	"stemmed": [
+		"pelican",
+		"a",
+		"build",
+		"block",
+		"for",
+		"exascal",
+		"cold",
+		"data",
+		"storag"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "Pelican: A Building Block for Exascale Cold Data Storage",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,6 +1,7 @@
 {
 	"author": "Airi Salminen",
 	"booktitle": "Proceedings of the 10th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1987/P196.pdf",
 	"crossref": "conf/sigir/87",
 	"dblpkey": "conf/sigir/Salminen87",
@@ -8,8 +9,18 @@
 	"ee": "http://doi.acm.org/10.1145/42005.42028",
 	"pages": "196-207",
 	"publisher": "ACM",
-	"stemmed": ["a", "relat", "model", "for", "unstructur", "document"],
-	"tag": ["documentation", "relational"],
+	"stemmed": [
+		"a",
+		"relat",
+		"model",
+		"for",
+		"unstructur",
+		"document"
+	],
+	"tag": [
+		"documentation",
+		"relational"
+	],
 	"title": "A Relational Model for Unstructured Documents",
 	"type": "inproceedings",
 	"venue": "SIGIR",

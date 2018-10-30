@@ -1,6 +1,7 @@
 {
 	"author": "Carsten Sinz",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 17th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2000",
 	"dblpkey": "conf/cade/Sinz00",
 	"doi": "10.1007/10721959_13",
@@ -10,11 +11,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "ara", "an", "automat", "theorem", "prover", "for", "relat", "algebra"],
-	"tag": ["algebra", "automation", "proving", "theorem proving"],
+	"stemmed": [
+		"system",
+		"descript",
+		"ara",
+		"an",
+		"automat",
+		"theorem",
+		"prover",
+		"for",
+		"relat",
+		"algebra"
+	],
+	"tag": [
+		"algebra",
+		"automation",
+		"proving",
+		"theorem proving"
+	],
 	"title": "System Description: ARA — An Automatic Theorem Prover for Relation Algebras",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1831,
+	"volume": "1831",
 	"year": 2000
 }

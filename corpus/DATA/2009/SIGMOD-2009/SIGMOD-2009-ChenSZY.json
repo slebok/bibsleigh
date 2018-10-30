@@ -1,6 +1,11 @@
 {
-	"author": ["Zaiben Chen", "Heng Tao Shen", "Xiaofang Zhou", "Jeffrey Xu Yu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Zaiben Chen",
+		"Heng Tao Shen",
+		"Xiaofang Zhou",
+		"Jeffrey Xu Yu"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/ChenSZY09",
@@ -8,8 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559907",
 	"pages": "591-602",
 	"publisher": "ACM",
-	"stemmed": ["monitor", "path", "nearest", "neighbor", "in", "road", "network"],
-	"tag": ["monitoring", "nearest neighbour", "network"],
+	"stemmed": [
+		"monitor",
+		"path",
+		"nearest",
+		"neighbor",
+		"in",
+		"road",
+		"network"
+	],
+	"tag": [
+		"monitoring",
+		"nearest neighbour",
+		"network"
+	],
 	"title": "Monitoring path nearest neighbor in road networks",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

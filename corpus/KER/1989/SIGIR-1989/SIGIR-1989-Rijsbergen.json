@@ -1,6 +1,7 @@
 {
 	"author": "C. J. van Rijsbergen",
 	"booktitle": "Proceedings of the 12th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P077.pdf",
 	"crossref": "conf/sigir/89",
 	"dblpkey": "conf/sigir/Rijsbergen89",
@@ -8,8 +9,16 @@
 	"ee": "http://doi.acm.org/10.1145/75334.75344",
 	"pages": "77-86",
 	"publisher": "ACM",
-	"stemmed": ["toward", "an", "inform", "logic"],
-	"tag": ["logic", "towards"],
+	"stemmed": [
+		"toward",
+		"an",
+		"inform",
+		"logic"
+	],
+	"tag": [
+		"logic",
+		"towards"
+	],
 	"title": "Towards an Information Logic",
 	"type": "inproceedings",
 	"venue": "SIGIR",

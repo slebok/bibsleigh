@@ -1,6 +1,11 @@
 {
-	"author": ["Kenneth M. Kahn", "Eric Dean Tribble", "Mark S. Miller", "Daniel G. Bobrow"],
-	"booktitle": "Proceedings of the First Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"author": [
+		"Kenneth M. Kahn",
+		"Eric Dean Tribble",
+		"Mark S. Miller",
+		"Daniel G. Bobrow"
+	],
+	"booktitle": "Proceedings of the First Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1986",
 	"dblpkey": "conf/oopsla/KahnTMB86",
@@ -10,8 +15,19 @@
 	"isbn": "0-89791-204-7",
 	"pages": "242-257",
 	"publisher": "ACM",
-	"stemmed": ["object", "in", "concurr", "logic", "program", "languag"],
-	"tag": ["concurrent", "logic programming", "programming language"],
+	"stemmed": [
+		"object",
+		"in",
+		"concurr",
+		"logic",
+		"program",
+		"languag"
+	],
+	"tag": [
+		"concurrent",
+		"logic programming",
+		"programming language"
+	],
 	"title": "Objects in Concurrent Logic Programming Languages",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

@@ -1,6 +1,10 @@
 {
-	"author": ["Guy L. Steele Jr.", "Doug Lea", "Christine H. Flood"],
-	"booktitle": "Proceedings of the 29th International Conference on Object Oriented Programming Systems Languages & Applications",
+	"author": [
+		"Guy L. Steele Jr.",
+		"Doug Lea",
+		"Christine H. Flood"
+	],
+	"booktitle": "Proceedings of the 29th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2014",
 	"dblpkey": "conf/oopsla/SteeleLF14",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/2660193.2660195",
 	"pages": "453-472",
 	"publisher": "ACM",
-	"stemmed": ["fast", "splittabl", "pseudorandom", "number", "generat"],
-	"tag": ["generative", "performance", "pseudo"],
+	"stemmed": [
+		"fast",
+		"splittabl",
+		"pseudorandom",
+		"number",
+		"generat"
+	],
+	"tag": [
+		"generative",
+		"performance",
+		"pseudo"
+	],
 	"title": "Fast splittable pseudorandom number generators",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

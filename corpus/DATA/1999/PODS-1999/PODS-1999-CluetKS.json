@@ -1,16 +1,44 @@
 {
-	"author": ["Sophie Cluet", "Olga Kapitskaia", "Divesh Srivastava"],
-	"booktitle": "PODS",
+	"author": [
+		"Sophie Cluet",
+		"Olga Kapitskaia",
+		"Divesh Srivastava"
+	],
+	"booktitle": "Proceedings of the 18th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"cdrom": "DiSC2_1/out/papers/pods/usingldapdirectsoold.pdf",
-	"cite": ["journals/jodl/AbiteboulQMWW97", "conf/sigmod/BunemanDHS96", "conf/vldb/DarFJST96", "conf/sigmod/DeshpandeRSN98", "journals/sigmod/FernandezFLS97", "books/kl/Franklin96", "books/fm/GareyJ79", "...", "...", "...", "conf/sigmod/JagadishLMSV99", "journals/vldb/KellerB96", "conf/pods/LevyMSS95", "journals/debu/RoussopoulosCKDP95", "conf/vldb/SrivastavaDJL96"],
+	"cite": [
+		"journals/jodl/AbiteboulQMWW97",
+		"conf/sigmod/BunemanDHS96",
+		"conf/vldb/DarFJST96",
+		"conf/sigmod/DeshpandeRSN98",
+		"journals/sigmod/FernandezFLS97",
+		"books/kl/Franklin96",
+		"books/fm/GareyJ79",
+		"...",
+		"...",
+		"...",
+		"conf/sigmod/JagadishLMSV99",
+		"journals/vldb/KellerB96",
+		"conf/pods/LevyMSS95",
+		"journals/debu/RoussopoulosCKDP95",
+		"conf/vldb/SrivastavaDJL96"
+	],
 	"crossref": "conf/pods/99",
 	"dblpkey": "conf/pods/CluetKS99",
 	"doi": "10.1145/303976.304003",
 	"ee": "http://doi.acm.org/10.1145/303976.304003",
 	"pages": "273-284",
 	"publisher": "ACM Press",
-	"stemmed": ["use", "ldap", "directori", "cach"],
-	"tag": ["using"],
+	"stemmed": [
+		"use",
+		"ldap",
+		"directori",
+		"cach"
+	],
+	"tag": [
+		"using"
+	],
 	"title": "Using LDAP Directory Caches",
 	"type": "inproceedings",
 	"venue": "PODS",

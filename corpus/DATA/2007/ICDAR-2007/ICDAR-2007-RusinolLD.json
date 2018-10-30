@@ -1,6 +1,11 @@
 {
-	"author": ["Marçal Rusiñol", "Josep Lladós", "Philippe Dosch"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Marçal Rusiñol",
+		"Josep Lladós",
+		"Philippe Dosch"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/RusinolLD07",
 	"doi": "10.1109/ICDAR.2007.76",
@@ -8,8 +13,17 @@
 	"pages": "884-888",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["camera", "base", "graphic", "symbol", "detect"],
-	"tag": ["detection", "visual notation"],
+	"stemmed": [
+		"camera",
+		"base",
+		"graphic",
+		"symbol",
+		"detect"
+	],
+	"tag": [
+		"detection",
+		"visual notation"
+	],
 	"title": "Camera-Based Graphical Symbol Detection",
 	"type": "inproceedings",
 	"venue": "ICDAR",

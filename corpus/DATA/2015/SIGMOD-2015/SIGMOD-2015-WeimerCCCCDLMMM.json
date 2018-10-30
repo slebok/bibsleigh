@@ -1,6 +1,24 @@
 {
-	"author": ["Markus Weimer", "Yingda Chen", "Byung-Gon Chun", "Tyson Condie", "Carlo Curino", "Chris Douglas", "Yunseong Lee", "Tony Majestro", "Dahlia Malkhi", "Sergiy Matusevych", "Brandon Myers", "Shravan Narayanamurthy", "Raghu Ramakrishnan", "Sriram Rao", "Russell Sears", "Beysim Sezgin", "Julia Wang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Markus Weimer",
+		"Yingda Chen",
+		"Byung-Gon Chun",
+		"Tyson Condie",
+		"Carlo Curino",
+		"Chris Douglas",
+		"Yunseong Lee",
+		"Tony Majestro",
+		"Dahlia Malkhi",
+		"Sergiy Matusevych",
+		"Brandon Myers",
+		"Shravan Narayanamurthy",
+		"Raghu Ramakrishnan",
+		"Sriram Rao",
+		"Russell Sears",
+		"Beysim Sezgin",
+		"Julia Wang"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/WeimerCCCCDLMMM15",
@@ -8,8 +26,18 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2742793",
 	"pages": "1343-1355",
 	"publisher": "ACM",
-	"stemmed": ["reef", "retain", "evalu", "execut", "framework"],
-	"tag": ["execution", "framework", "named"],
+	"stemmed": [
+		"reef",
+		"retain",
+		"evalu",
+		"execut",
+		"framework"
+	],
+	"tag": [
+		"execution",
+		"framework",
+		"named"
+	],
 	"title": "REEF: Retainable Evaluator Execution Framework",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

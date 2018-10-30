@@ -1,6 +1,11 @@
 {
-	"author": ["Joemon M. Jose", "Jonathan Furner", "David J. Harper"],
+	"author": [
+		"Joemon M. Jose",
+		"Jonathan Furner",
+		"David J. Harper"
+	],
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P232.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/JoseFH98",
@@ -8,8 +13,23 @@
 	"ee": "http://doi.acm.org/10.1145/290941.291000",
 	"pages": "232-240",
 	"publisher": "ACM",
-	"stemmed": ["spatial", "queri", "for", "imag", "retriev", "a", "user", "orient", "evalu"],
-	"tag": ["evaluation", "image", "query", "retrieval"],
+	"stemmed": [
+		"spatial",
+		"queri",
+		"for",
+		"imag",
+		"retriev",
+		"a",
+		"user",
+		"orient",
+		"evalu"
+	],
+	"tag": [
+		"evaluation",
+		"image",
+		"query",
+		"retrieval"
+	],
 	"title": "Spatial Querying for Image Retrieval: A User-Oriented Evaluation",
 	"type": "inproceedings",
 	"venue": "SIGIR",

@@ -1,16 +1,47 @@
 {
 	"author": "Tim Connors",
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS85/P143.PDF", "journals/anthology/dvd1:text/1-3/PODS85/P143.PDF"],
-	"cite": ["journals/tcs/AtzeniABM82", "journals/siamcomp/AhoSU79", "journals/siamcomp/BeeriMSU81", "...", "...", "...", "...", "...", "...", "...", "conf/pods/Hull84", "journals/jcss/MaierMSU80", "...", "...", "journals/tods/ZanioloM81"],
+	"booktitle": "Proceedings of the Fourth Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS85/P143.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS85/P143.PDF"
+	],
+	"cite": [
+		"journals/tcs/AtzeniABM82",
+		"journals/siamcomp/AhoSU79",
+		"journals/siamcomp/BeeriMSU81",
+		"...",
+		"...",
+		"...",
+		"...",
+		"...",
+		"...",
+		"...",
+		"conf/pods/Hull84",
+		"journals/jcss/MaierMSU80",
+		"...",
+		"...",
+		"journals/tods/ZanioloM81"
+	],
 	"crossref": "conf/pods/85",
 	"dblpkey": "conf/pods/Connors85",
 	"doi": "10.1145/325405.325422",
 	"ee": "http://doi.acm.org/10.1145/325405.325422",
 	"pages": "143-148",
 	"publisher": "ACM",
-	"stemmed": ["equival", "of", "view", "by", "queri", "capac"],
-	"tag": ["capacity", "equivalence", "query"],
+	"stemmed": [
+		"equival",
+		"of",
+		"view",
+		"by",
+		"queri",
+		"capac"
+	],
+	"tag": [
+		"capacity",
+		"equivalence",
+		"query"
+	],
 	"title": "Equivalence of Views by Query Capacity",
 	"type": "inproceedings",
 	"venue": "PODS",

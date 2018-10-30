@@ -1,6 +1,7 @@
 {
 	"author": "Xiaorong Huang",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
 	"dblpkey": "conf/cade/Huang94",
 	"doi": "10.1007/3-540-58156-1_53",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["reconstruct", "proof", "at", "the", "assert", "level"],
-	"tag": ["proving", "re-engineering"],
+	"stemmed": [
+		"reconstruct",
+		"proof",
+		"at",
+		"the",
+		"assert",
+		"level"
+	],
+	"tag": [
+		"proving",
+		"re-engineering"
+	],
 	"title": "Reconstruction Proofs at the Assertion Level",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 814,
+	"volume": "814",
 	"year": 1994
 }

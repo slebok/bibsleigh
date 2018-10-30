@@ -1,14 +1,30 @@
 {
-	"author": ["Martin Wimmer", "Daniel Cederman", "Jesper Larsson Träff", "Philippas Tsigas"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Martin Wimmer",
+		"Daniel Cederman",
+		"Jesper Larsson Träff",
+		"Philippas Tsigas"
+	],
+	"booktitle": "Proceedings of the 18th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2013",
 	"dblpkey": "conf/ppopp/0003CTT13",
 	"doi": "10.1145/2442516.2442562",
 	"ee": "http://doi.acm.org/10.1145/2442516.2442562",
 	"pages": "315-316",
 	"publisher": "ACM",
-	"stemmed": ["work", "steal", "with", "configur", "schedul", "strategi"],
-	"tag": ["configuration management", "scheduling"],
+	"stemmed": [
+		"work",
+		"steal",
+		"with",
+		"configur",
+		"schedul",
+		"strategi"
+	],
+	"tag": [
+		"configuration management",
+		"scheduling"
+	],
 	"title": "Work-stealing with configurable scheduling strategies",
 	"type": "inproceedings",
 	"venue": "PPoPP",

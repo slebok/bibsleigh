@@ -1,16 +1,41 @@
 {
-	"acmid": 874343,
-	"author": ["Chunsheng Liu", "Krishnendu Chakrabarty", "Michael Gössel"],
-	"booktitle": "DATE",
+	"acmid": "874343",
+	"author": [
+		"Chunsheng Liu",
+		"Krishnendu Chakrabarty",
+		"Michael Gössel"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2002",
 	"dblpkey": "conf/date/LiuCG02",
 	"doi": "10.1109/DATE.2002.998302",
-	"ee": ["http://doi.ieeecomputersociety.org/10.1109/DATE.2002.998302", "http://dl.acm.org/citation.cfm?id=874343"],
+	"ee": [
+		"http://doi.ieeecomputersociety.org/10.1109/DATE.2002.998302",
+		"http://dl.acm.org/citation.cfm?id=874343"
+	],
 	"pages": "382-386",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["an", "interv", "base", "diagnosi", "scheme", "for", "identifi", "fail", "vector", "in", "a", "scan", "bist", "environ"],
-	"tag": ["identification"],
+	"stemmed": [
+		"an",
+		"interv",
+		"base",
+		"diagnosi",
+		"scheme",
+		"for",
+		"identifi",
+		"fail",
+		"vector",
+		"in",
+		"a",
+		"scan",
+		"bist",
+		"environ"
+	],
+	"tag": [
+		"identification"
+	],
 	"title": "An Interval-Based Diagnosis Scheme for Identifying Failing Vectors in a Scan-BIST Environment",
 	"type": "inproceedings",
 	"venue": "DATE",

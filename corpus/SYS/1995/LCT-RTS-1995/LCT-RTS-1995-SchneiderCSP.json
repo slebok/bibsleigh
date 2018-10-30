@@ -1,6 +1,11 @@
 {
-	"author": ["Stanley A. Schneider", "Vincent W. Chen", "Jay Steele", "Gerardo Pardo-Castellote"],
-	"booktitle": "Workshop on Languages, Compilers, & Tools for Real-Time Systems",
+	"author": [
+		"Stanley A. Schneider",
+		"Vincent W. Chen",
+		"Jay Steele",
+		"Gerardo Pardo-Castellote"
+	],
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Real-Time Systems",
 	"booktitleshort": "LCT-RTS",
 	"crossref": "conf/lctrts/1995",
 	"dblpkey": "conf/lctrts/SchneiderCSP95",
@@ -8,8 +13,30 @@
 	"ee": "http://doi.acm.org/10.1145/216636.216681",
 	"pages": "146-155",
 	"publisher": "ACM",
-	"stemmed": ["the", "control", "shell", "compon", "base", "real", "time", "program", "system", "and", "it", "applic", "to", "the", "marsokhod", "martian", "rover"],
-	"tag": ["component", "programming", "realtime"],
+	"stemmed": [
+		"the",
+		"control",
+		"shell",
+		"compon",
+		"base",
+		"real",
+		"time",
+		"program",
+		"system",
+		"and",
+		"it",
+		"applic",
+		"to",
+		"the",
+		"marsokhod",
+		"martian",
+		"rover"
+	],
+	"tag": [
+		"component",
+		"programming",
+		"realtime"
+	],
 	"title": "The ControlShell Component-Based Real-Time Programming System, and its Application to the Marsokhod Martian Rover",
 	"type": "inproceedings",
 	"venue": "LCTES",

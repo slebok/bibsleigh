@@ -1,6 +1,9 @@
 {
-	"author": ["Tony Printezis", "Alex Garthwaite"],
-	"booktitle": "MSP/ISMM",
+	"author": [
+		"Tony Printezis",
+		"Alex Garthwaite"
+	],
+	"booktitle": "Proceedings of the Third International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2002",
 	"dblpkey": "conf/iwmm/PrintezisG02",
@@ -8,8 +11,17 @@
 	"ee": "http://doi.acm.org/10.1145/773039.512436",
 	"pages": "157-170",
 	"publisher": "ACM",
-	"stemmed": ["visualis", "the", "train", "garbag", "collector"],
-	"tag": ["garbage collection", "visualisation"],
+	"stemmed": [
+		"visualis",
+		"the",
+		"train",
+		"garbag",
+		"collector"
+	],
+	"tag": [
+		"garbage collection",
+		"visualisation"
+	],
 	"title": "Visualising the train garbage collector",
 	"type": "inproceedings",
 	"venue": "ISMM",

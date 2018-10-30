@@ -1,6 +1,7 @@
 {
 	"author": "Sta Jean-David",
 	"booktitle": "Proceedings of the 21st International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1998/P371.pdf",
 	"crossref": "conf/sigir/98",
 	"dblpkey": "conf/sigir/Jean-David98",
@@ -8,8 +9,24 @@
 	"ee": "http://doi.acm.org/10.1145/290941.291060",
 	"pages": "371-372",
 	"publisher": "ACM",
-	"stemmed": ["automat", "acquisit", "of", "terminolog", "relat", "from", "a", "corpus", "for", "queri", "expans"],
-	"tag": ["automation", "corpus", "query"],
+	"stemmed": [
+		"automat",
+		"acquisit",
+		"of",
+		"terminolog",
+		"relat",
+		"from",
+		"a",
+		"corpus",
+		"for",
+		"queri",
+		"expans"
+	],
+	"tag": [
+		"automation",
+		"corpus",
+		"query"
+	],
 	"title": "Automatic Acquisition of Terminological Relations from a Corpus for Query Expansion",
 	"type": "inproceedings",
 	"venue": "SIGIR",

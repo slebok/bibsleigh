@@ -1,16 +1,35 @@
 {
 	"author": "Dale Skeen",
-	"booktitle": "PODS",
-	"cdrom": ["journals/anthology/cd1-3:PODS83/P016.PDF", "journals/anthology/dvd1:text/1-3/PODS83/P016.PDF"],
-	"cite": ["conf/pods/GoodmanSCDFR83", "journals/tods/HammerS80", "journals/cacm/Lamport78", "...", "..."],
+	"booktitle": "Proceedings of the Second Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cdrom": [
+		"journals/anthology/cd1-3:PODS83/P016.PDF",
+		"journals/anthology/dvd1:text/1-3/PODS83/P016.PDF"
+	],
+	"cite": [
+		"conf/pods/GoodmanSCDFR83",
+		"journals/tods/HammerS80",
+		"journals/cacm/Lamport78",
+		"...",
+		"..."
+	],
 	"crossref": "conf/pods/83",
 	"dblpkey": "conf/pods/Skeen83",
 	"doi": "10.1145/588058.588062",
 	"ee": "http://doi.acm.org/10.1145/588058.588062",
 	"pages": "16-24",
 	"publisher": "ACM",
-	"stemmed": ["determin", "the", "last", "process", "to", "fail"],
-	"tag": ["process"],
+	"stemmed": [
+		"determin",
+		"the",
+		"last",
+		"process",
+		"to",
+		"fail"
+	],
+	"tag": [
+		"process"
+	],
 	"title": "Determining the Last Process to Fail",
 	"type": "inproceedings",
 	"venue": "PODS",

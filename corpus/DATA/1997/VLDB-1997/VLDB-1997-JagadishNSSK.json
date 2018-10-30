@@ -1,14 +1,41 @@
 {
-	"author": ["H. V. Jagadish", "P. P. S. Narayan", "S. Seshadri", "S. Sudarshan", "Rama Kanneganti"],
-	"booktitle": "VLDB",
-	"cite": ["conf/pods/JagadishMS95", "books/aw/Knuth73", "conf/vldb/Mohan90", "journals/tods/MohanHLPS92", "journals/acta/ONeilCGO96", "conf/hpts/ONeilW93", "books/mg/SilberschatzKS97", "journals/tods/SeveranceL76", "conf/hpts/SrinivasanC91"],
+	"author": [
+		"H. V. Jagadish",
+		"P. P. S. Narayan",
+		"S. Seshadri",
+		"S. Sudarshan",
+		"Rama Kanneganti"
+	],
+	"booktitle": "Proceedings of the 23rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/pods/JagadishMS95",
+		"books/aw/Knuth73",
+		"conf/vldb/Mohan90",
+		"journals/tods/MohanHLPS92",
+		"journals/acta/ONeilCGO96",
+		"conf/hpts/ONeilW93",
+		"books/mg/SilberschatzKS97",
+		"journals/tods/SeveranceL76",
+		"conf/hpts/SrinivasanC91"
+	],
 	"crossref": "conf/vldb/97",
 	"dblpkey": "conf/vldb/JagadishNSSK97",
 	"ee": "http://www.vldb.org/conf/1997/P016.PDF",
 	"pages": "16-25",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["increment", "organ", "for", "data", "record", "and", "wareh"],
-	"tag": ["incremental"],
+	"stemmed": [
+		"increment",
+		"organ",
+		"for",
+		"data",
+		"record",
+		"and",
+		"wareh"
+	],
+	"tag": [
+		"incremental"
+	],
 	"title": "Incremental Organization for Data Recording and Warehousing",
 	"type": "inproceedings",
 	"venue": "VLDB",

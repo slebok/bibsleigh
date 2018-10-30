@@ -1,20 +1,38 @@
 {
 	"author": "Philip Wadler",
-	"booktitle": "IWMM",
+	"booktitle": "Proceedings of the Second International Workshop on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/95",
 	"dblpkey": "conf/iwmm/Wadler95",
 	"doi": "10.1007/3-540-60368-9_20",
 	"ee": "http://dx.doi.org/10.1007/3-540-60368-9_20",
-	"pages": 117,
+	"pages": "117",
 	"publisher": "Springer-Verlag",
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["static", "analysi", "refus", "to", "stay", "still", "prospect", "of", "static", "analysi", "for", "dynam", "alloc", "abstract"],
-	"tag": ["static analysis"],
+	"stemmed": [
+		"static",
+		"analysi",
+		"refus",
+		"to",
+		"stay",
+		"still",
+		"prospect",
+		"of",
+		"static",
+		"analysi",
+		"for",
+		"dynam",
+		"alloc",
+		"abstract"
+	],
+	"tag": [
+		"static analysis"
+	],
 	"title": "Static Analysis Refuses to Stay Still: Prospects of Static Analysis for Dynamic Allocation (Abstract)",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": 986,
+	"volume": "986",
 	"year": 1995
 }

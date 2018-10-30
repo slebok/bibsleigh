@@ -1,6 +1,12 @@
 {
-	"author": ["Alexandre M. Amory", "Marcelo Lubaszewski", "Fernando Gehm Moraes", "Edson I. Moreno"],
-	"booktitle": "DATE",
+	"author": [
+		"Alexandre M. Amory",
+		"Marcelo Lubaszewski",
+		"Fernando Gehm Moraes",
+		"Edson I. Moreno"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/AmoryLMM05",
 	"doi": "10.1109/DATE.2005.304",
@@ -8,8 +14,27 @@
 	"pages": "62-63",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["test", "time", "reduct", "reus", "multipl", "processor", "in", "a", "network", "on", "chip", "base", "architectur"],
-	"tag": ["architecture", "multi", "reduction", "reuse"],
+	"stemmed": [
+		"test",
+		"time",
+		"reduct",
+		"reus",
+		"multipl",
+		"processor",
+		"in",
+		"a",
+		"network",
+		"on",
+		"chip",
+		"base",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"multi",
+		"reduction",
+		"reuse"
+	],
 	"title": "Test Time Reduction Reusing Multiple Processors in a Network-on-Chip Based Architecture",
 	"type": "inproceedings",
 	"venue": "DATE",

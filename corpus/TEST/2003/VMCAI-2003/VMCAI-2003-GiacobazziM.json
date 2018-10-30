@@ -1,6 +1,10 @@
 {
-	"author": ["Roberto Giacobazzi", "Isabella Mastroeni"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Roberto Giacobazzi",
+		"Isabella Mastroeni"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2003",
 	"dblpkey": "conf/vmcai/GiacobazziM03",
 	"doi": "10.1007/3-540-36384-X_14",
@@ -10,11 +14,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["domain", "compress", "for", "complet", "abstract"],
-	"tag": ["abstraction"],
+	"stemmed": [
+		"domain",
+		"compress",
+		"for",
+		"complet",
+		"abstract"
+	],
+	"tag": [
+		"abstraction"
+	],
 	"title": "Domain Compression for Complete Abstractions",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2575,
+	"volume": "2575",
 	"year": 2003
 }

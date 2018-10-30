@@ -1,6 +1,7 @@
 {
 	"author": "Bernard N. Sheehan",
-	"booktitle": "DATE",
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/Sheehan00",
 	"doi": "10.1109/DATE.2000.840834",
@@ -8,8 +9,17 @@
 	"pages": "517-521",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["predict", "coupl", "nois", "in", "rc", "circuit"],
-	"tag": ["predict"],
+	"stemmed": [
+		"predict",
+		"coupl",
+		"nois",
+		"in",
+		"rc",
+		"circuit"
+	],
+	"tag": [
+		"predict"
+	],
 	"title": "Predicting Coupled Noise in RC Circuits",
 	"type": "inproceedings",
 	"venue": "DATE",

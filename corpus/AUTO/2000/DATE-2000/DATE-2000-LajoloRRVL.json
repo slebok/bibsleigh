@@ -1,6 +1,13 @@
 {
-	"author": ["Marcello Lajolo", "Maurizio Rebaudengo", "Matteo Sonza Reorda", "Massimo Violante", "Luciano Lavagno"],
-	"booktitle": "DATE",
+	"author": [
+		"Marcello Lajolo",
+		"Maurizio Rebaudengo",
+		"Matteo Sonza Reorda",
+		"Massimo Violante",
+		"Luciano Lavagno"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/LajoloRRVL00",
 	"doi": "10.1109/DATE.2000.840844",
@@ -8,8 +15,22 @@
 	"pages": "586-590",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["evalu", "system", "depend", "in", "a", "co", "design", "framework"],
-	"tag": ["co-evolution", "dependence", "design", "framework"],
+	"stemmed": [
+		"evalu",
+		"system",
+		"depend",
+		"in",
+		"a",
+		"co",
+		"design",
+		"framework"
+	],
+	"tag": [
+		"co-evolution",
+		"dependence",
+		"design",
+		"framework"
+	],
 	"title": "Evaluating System Dependability in a Co-Design Framework",
 	"type": "inproceedings",
 	"venue": "DATE",

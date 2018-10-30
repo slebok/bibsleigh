@@ -1,16 +1,46 @@
 {
-	"author": ["Yoshiharu Ishikawa", "Hiroyuki Kitagawa", "Nobuo Ohbo"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yoshiharu Ishikawa",
+		"Hiroyuki Kitagawa",
+		"Nobuo Ohbo"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD93/P247.PDF",
-	"cite": ["journals/tkde/BertinoK89", "journals/tois/FaloutsosC84", "journals/csur/Faloutsos85", "journals/tois/FaloutsosC87", "conf/vldb/FaloutsosC88", "journals/tse/KimCB88", "...", "journals/cacm/PfaltzBC80", "journals/tods/Sacks-DavisK87", "..."],
+	"cite": [
+		"journals/tkde/BertinoK89",
+		"journals/tois/FaloutsosC84",
+		"journals/csur/Faloutsos85",
+		"journals/tois/FaloutsosC87",
+		"conf/vldb/FaloutsosC88",
+		"journals/tse/KimCB88",
+		"...",
+		"journals/cacm/PfaltzBC80",
+		"journals/tods/Sacks-DavisK87",
+		"..."
+	],
 	"crossref": "conf/sigmod/93",
 	"dblpkey": "conf/sigmod/IshikawaKO93",
 	"doi": "10.1145/170035.170076",
 	"ee": "http://doi.acm.org/10.1145/170035.170076",
 	"pages": "247-256",
 	"publisher": "ACM Press",
-	"stemmed": ["evalu", "of", "signatur", "file", "as", "set", "access", "facil", "in", "oodb"],
-	"tag": ["evaluation", "set"],
+	"stemmed": [
+		"evalu",
+		"of",
+		"signatur",
+		"file",
+		"as",
+		"set",
+		"access",
+		"facil",
+		"in",
+		"oodb"
+	],
+	"tag": [
+		"evaluation",
+		"set"
+	],
 	"title": "Evaluation of Signature Files as Set Access Facilities in OODBs",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

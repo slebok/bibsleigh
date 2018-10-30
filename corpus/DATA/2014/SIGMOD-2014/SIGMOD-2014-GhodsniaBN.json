@@ -1,6 +1,10 @@
 {
-	"author": ["Pedram Ghodsnia", "Ivan T. Bowman", "Anisoara Nica"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Pedram Ghodsnia",
+		"Ivan T. Bowman",
+		"Anisoara Nica"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/GhodsniaBN14",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2595635",
 	"pages": "349-360",
 	"publisher": "ACM",
-	"stemmed": ["parallel", "i", "o", "awar", "queri", "optim"],
-	"tag": ["optimisation", "parallel", "query"],
+	"stemmed": [
+		"parallel",
+		"i",
+		"o",
+		"awar",
+		"queri",
+		"optim"
+	],
+	"tag": [
+		"optimisation",
+		"parallel",
+		"query"
+	],
 	"title": "Parallel I/O aware query optimization",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

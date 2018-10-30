@@ -1,6 +1,10 @@
 {
-	"author": ["Jae-Gil Lee", "Jiawei Han", "Kyu-Young Whang"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Jae-Gil Lee",
+		"Jiawei Han",
+		"Kyu-Young Whang"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/LeeHW07",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247546",
 	"pages": "593-604",
 	"publisher": "ACM",
-	"stemmed": ["trajectori", "cluster", "a", "partit", "and", "group", "framework"],
-	"tag": ["clustering", "framework"],
+	"stemmed": [
+		"trajectori",
+		"cluster",
+		"a",
+		"partit",
+		"and",
+		"group",
+		"framework"
+	],
+	"tag": [
+		"clustering",
+		"framework"
+	],
 	"title": "Trajectory clustering: a partition-and-group framework",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,7 @@
 {
 	"author": "Jakob Nielsen",
-	"booktitle": "Hypertext",
+	"booktitle": "Proceedings of the Second Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1989/P239.pdf",
 	"crossref": "conf/ht/89",
 	"dblpkey": "conf/ht/Nielsen89",
@@ -8,8 +9,21 @@
 	"ee": "http://doi.acm.org/10.1145/74224.74244",
 	"pages": "239-248",
 	"publisher": "ACM",
-	"stemmed": ["the", "matter", "that", "realli", "matter", "for", "hypertext", "usabl"],
-	"tag": ["hypermedia", "matter", "usability"],
+	"stemmed": [
+		"the",
+		"matter",
+		"that",
+		"realli",
+		"matter",
+		"for",
+		"hypertext",
+		"usabl"
+	],
+	"tag": [
+		"hypermedia",
+		"matter",
+		"usability"
+	],
 	"title": "The Matters that Really Matter for Hypertext Usability",
 	"type": "inproceedings",
 	"venue": "HT",

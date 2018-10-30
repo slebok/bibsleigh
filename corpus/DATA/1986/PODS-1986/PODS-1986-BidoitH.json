@@ -1,15 +1,46 @@
 {
-	"author": ["Nicole Bidoit", "Richard Hull"],
-	"booktitle": "PODS",
-	"cite": ["journals/jcss/BidoitH89", "journals/ai/BossuS85", "...", "...", "...", "journals/cacm/Codd70", "...", "journals/csur/GallaireMN84", "conf/pods/KuperUV84", "books/sp/Lloyd84", "journals/ai/McCarthy80", "conf/cade/Minker82", "...", "journals/ai/Reiter80", "journals/jacm/Reiter80", "..."],
+	"author": [
+		"Nicole Bidoit",
+		"Richard Hull"
+	],
+	"booktitle": "Proceedings of the Fifth Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cite": [
+		"journals/jcss/BidoitH89",
+		"journals/ai/BossuS85",
+		"...",
+		"...",
+		"...",
+		"journals/cacm/Codd70",
+		"...",
+		"journals/csur/GallaireMN84",
+		"conf/pods/KuperUV84",
+		"books/sp/Lloyd84",
+		"journals/ai/McCarthy80",
+		"conf/cade/Minker82",
+		"...",
+		"journals/ai/Reiter80",
+		"journals/jacm/Reiter80",
+		"..."
+	],
 	"crossref": "conf/pods/86",
 	"dblpkey": "conf/pods/BidoitH86",
 	"doi": "10.1145/6012.15409",
 	"ee": "http://doi.acm.org/10.1145/6012.15409",
 	"pages": "123-132",
 	"publisher": "ACM",
-	"stemmed": ["positiv", "vs", "minim", "in", "deduct", "databas"],
-	"tag": ["database", "deduction"],
+	"stemmed": [
+		"positiv",
+		"vs",
+		"minim",
+		"in",
+		"deduct",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"deduction"
+	],
 	"title": "Positivism vs. Minimalism in Deductive Databases",
 	"type": "inproceedings",
 	"venue": "PODS",

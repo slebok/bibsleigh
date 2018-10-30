@@ -1,6 +1,7 @@
 {
 	"author": "Dennis Shasha",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD97/P498.PDF",
 	"cite": "conf/sigmod/GrayHOS96",
 	"crossref": "conf/sigmod/97",
@@ -9,8 +10,25 @@
 	"ee": "http://doi.acm.org/10.1145/253260.253368",
 	"pages": "498-501",
 	"publisher": "ACM Press",
-	"stemmed": ["lesson", "from", "wall", "street", "case", "studi", "in", "configur", "tune", "and", "distribut", "tutori"],
-	"tag": ["case study", "lessons learnt", "tutorial"],
+	"stemmed": [
+		"lesson",
+		"from",
+		"wall",
+		"street",
+		"case",
+		"studi",
+		"in",
+		"configur",
+		"tune",
+		"and",
+		"distribut",
+		"tutori"
+	],
+	"tag": [
+		"case study",
+		"lessons learnt",
+		"tutorial"
+	],
 	"title": "Lessons from Wall Street: Case Studies in Configuration, Tuning, and Distribution (Tutorial)",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

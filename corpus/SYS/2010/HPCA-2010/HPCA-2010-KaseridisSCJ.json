@@ -1,6 +1,12 @@
 {
-	"author": ["Dimitris Kaseridis", "Jeffrey Stuecheli", "Jian Chen", "Lizy Kurian John"],
-	"booktitle": "HPCA",
+	"author": [
+		"Dimitris Kaseridis",
+		"Jeffrey Stuecheli",
+		"Jian Chen",
+		"Lizy Kurian John"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2010",
 	"dblpkey": "conf/hpca/KaseridisSCJ10",
 	"doi": "10.1109/HPCA.2010.5416654",
@@ -8,8 +14,29 @@
 	"pages": "1-11",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "bandwidth", "awar", "memori", "subsystem", "resourc", "manag", "use", "non", "invas", "resourc", "profil", "for", "larg", "cmp", "system"],
-	"tag": ["resource management", "scalability", "using"],
+	"stemmed": [
+		"a",
+		"bandwidth",
+		"awar",
+		"memori",
+		"subsystem",
+		"resourc",
+		"manag",
+		"use",
+		"non",
+		"invas",
+		"resourc",
+		"profil",
+		"for",
+		"larg",
+		"cmp",
+		"system"
+	],
+	"tag": [
+		"resource management",
+		"scalability",
+		"using"
+	],
 	"title": "A bandwidth-aware memory-subsystem resource management using non-invasive resource profilers for large CMP systems",
 	"type": "inproceedings",
 	"venue": "HPCA",

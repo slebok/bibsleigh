@@ -1,6 +1,10 @@
 {
-	"author": ["Francesco Ranzato", "Francesco Tapparo"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Francesco Ranzato",
+		"Francesco Tapparo"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2006",
 	"dblpkey": "conf/vmcai/RanzatoT06",
 	"doi": "10.1007/11609773_22",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["strong", "preserv", "of", "tempor", "fixpoint", "base", "oper", "by", "abstract", "interpret"],
-	"tag": ["abstract interpretation"],
+	"stemmed": [
+		"strong",
+		"preserv",
+		"of",
+		"tempor",
+		"fixpoint",
+		"base",
+		"oper",
+		"by",
+		"abstract",
+		"interpret"
+	],
+	"tag": [
+		"abstract interpretation"
+	],
 	"title": "Strong Preservation of Temporal Fixpoint-Based Operators by Abstract Interpretation",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3855,
+	"volume": "3855",
 	"year": 2006
 }

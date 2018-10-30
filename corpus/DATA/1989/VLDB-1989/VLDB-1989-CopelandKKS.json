@@ -1,14 +1,43 @@
 {
-	"author": ["George P. Copeland", "Tom W. Keller", "Ravi Krishnamurthy", "Marc G. Smith"],
-	"booktitle": "VLDB",
-	"cite": ["...", "...", "...", "conf/sigmod/DeWittKOSSW84", "...", "journals/debu/GawlickK85", "conf/ac/Gray78", "conf/sigmod/GrayP87", "journals/csur/HarderR83", "...", "...", "journals/tods/MohanHLPS92", "...", "..."],
+	"author": [
+		"George P. Copeland",
+		"Tom W. Keller",
+		"Ravi Krishnamurthy",
+		"Marc G. Smith"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"...",
+		"...",
+		"conf/sigmod/DeWittKOSSW84",
+		"...",
+		"journals/debu/GawlickK85",
+		"conf/ac/Gray78",
+		"conf/sigmod/GrayP87",
+		"journals/csur/HarderR83",
+		"...",
+		"...",
+		"journals/tods/MohanHLPS92",
+		"...",
+		"..."
+	],
 	"crossref": "conf/vldb/89",
 	"dblpkey": "conf/vldb/CopelandKKS89",
 	"ee": "http://www.vldb.org/conf/1989/P327.PDF",
 	"pages": "327-335",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["the", "case", "for", "safe", "ram"],
-	"tag": ["ram"],
+	"stemmed": [
+		"the",
+		"case",
+		"for",
+		"safe",
+		"ram"
+	],
+	"tag": [
+		"ram"
+	],
 	"title": "The Case For Safe RAM",
 	"type": "inproceedings",
 	"venue": "VLDB",

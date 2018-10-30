@@ -1,6 +1,7 @@
 {
 	"author": "Andreas Podelski",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the 14th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2013",
 	"dblpkey": "conf/vmcai/Podelski13",
 	"doi": "10.1007/978-3-642-35873-9_2",
@@ -10,11 +11,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["automata", "as", "proof"],
-	"tag": ["automaton", "proving"],
+	"stemmed": [
+		"automata",
+		"as",
+		"proof"
+	],
+	"tag": [
+		"automaton",
+		"proving"
+	],
 	"title": "Automata as Proofs",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 7737,
+	"volume": "7737",
 	"year": 2013
 }

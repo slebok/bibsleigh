@@ -1,6 +1,10 @@
 {
-	"author": ["Bilan Zhu", "Masaki Nakagawa"],
-	"booktitle": "DRR",
+	"author": [
+		"Bilan Zhu",
+		"Masaki Nakagawa"
+	],
+	"booktitle": "Proceedings of the 18th Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2011",
 	"dblpkey": "conf/drr/ZhuN11",
 	"doi": "10.1117/12.873366",
@@ -8,11 +12,33 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["a", "mrf", "model", "with", "paramet", "optim", "by", "crf", "for", "on", "line", "recognit", "of", "handwritten", "japanes", "charact"],
-	"tag": ["online", "optimisation", "parametricity", "recognition"],
+	"stemmed": [
+		"a",
+		"mrf",
+		"model",
+		"with",
+		"paramet",
+		"optim",
+		"by",
+		"crf",
+		"for",
+		"on",
+		"line",
+		"recognit",
+		"of",
+		"handwritten",
+		"japanes",
+		"charact"
+	],
+	"tag": [
+		"online",
+		"optimisation",
+		"parametricity",
+		"recognition"
+	],
 	"title": "A MRF model with parameter optimization by CRF for on-line recognition of handwritten Japanese characters",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 7874,
+	"volume": "7874",
 	"year": 2011
 }

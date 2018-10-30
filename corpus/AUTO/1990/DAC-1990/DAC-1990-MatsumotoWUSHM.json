@@ -1,13 +1,33 @@
 {
-	"author": ["Nobu Matsumoto", "Yoko Watanabe", "Kimiyoshi Usami", "Yukio Sugeno", "Hiroshi Hatada", "Shojiro Mori"],
-	"booktitle": "DAC",
+	"author": [
+		"Nobu Matsumoto",
+		"Yoko Watanabe",
+		"Kimiyoshi Usami",
+		"Yukio Sugeno",
+		"Hiroshi Hatada",
+		"Shojiro Mori"
+	],
+	"booktitle": "Proceedings of the 27th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/MatsumotoWUSHM90",
 	"doi": "10.1145/123186.123314",
 	"ee": "http://doi.acm.org/10.1145/123186.123314",
 	"pages": "388-393",
 	"publisher": "IEEE Computer Society Press",
-	"stemmed": ["datapath", "generat", "base", "on", "gate", "level", "symbol", "layout"],
-	"tag": ["generative", "layout"],
+	"stemmed": [
+		"datapath",
+		"generat",
+		"base",
+		"on",
+		"gate",
+		"level",
+		"symbol",
+		"layout"
+	],
+	"tag": [
+		"generative",
+		"layout"
+	],
 	"title": "Datapath Generator Based on Gate-Level Symbolic Layout",
 	"type": "inproceedings",
 	"venue": "DAC",

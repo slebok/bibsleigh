@@ -1,6 +1,10 @@
 {
-	"author": ["Wahbeh H. Qardaji", "Weining Yang", "Ninghui Li"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Wahbeh H. Qardaji",
+		"Weining Yang",
+		"Ninghui Li"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/QardajiYL14",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2588575",
 	"pages": "1435-1446",
 	"publisher": "ACM",
-	"stemmed": ["pri", "view", "practic", "differenti", "privat", "releas", "of", "margin", "conting", "tabl"],
-	"tag": ["named"],
+	"stemmed": [
+		"pri",
+		"view",
+		"practic",
+		"differenti",
+		"privat",
+		"releas",
+		"of",
+		"margin",
+		"conting",
+		"tabl"
+	],
+	"tag": [
+		"named"
+	],
 	"title": "PriView: practical differentially private release of marginal contingency tables",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

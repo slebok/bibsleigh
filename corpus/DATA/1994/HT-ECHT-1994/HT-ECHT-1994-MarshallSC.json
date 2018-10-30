@@ -1,6 +1,11 @@
 {
-	"author": ["Catherine C. Marshall", "Frank M. Shipman III", "James H. Coombs"],
-	"booktitle": "ECHT",
+	"author": [
+		"Catherine C. Marshall",
+		"Frank M. Shipman III",
+		"James H. Coombs"
+	],
+	"booktitle": "Proceedings of the European Conference on Hypertext Technology",
+	"booktitleshort": "HT/ECHT",
 	"cdrom": "ECHT1994/P013.pdf",
 	"crossref": "conf/echt/94",
 	"dblpkey": "conf/echt/MarshallSC94",
@@ -8,8 +13,18 @@
 	"ee": "http://doi.acm.org/10.1145/192757.192759",
 	"pages": "13-23",
 	"publisher": "ACM",
-	"stemmed": ["viki", "spatial", "hypertext", "support", "emerg", "structur"],
-	"tag": ["hypermedia", "named"],
+	"stemmed": [
+		"viki",
+		"spatial",
+		"hypertext",
+		"support",
+		"emerg",
+		"structur"
+	],
+	"tag": [
+		"hypermedia",
+		"named"
+	],
 	"title": "VIKI: Spatial Hypertext Supporting Emergent Structure",
 	"type": "inproceedings",
 	"venue": "HT",

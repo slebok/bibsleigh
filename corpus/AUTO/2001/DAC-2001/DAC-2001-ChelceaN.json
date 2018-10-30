@@ -1,14 +1,35 @@
 {
-	"author": ["Tiberiu Chelcea", "Steven M. Nowick"],
-	"booktitle": "DAC",
+	"author": [
+		"Tiberiu Chelcea",
+		"Steven M. Nowick"
+	],
+	"booktitle": "Proceedings of the 38th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2001",
 	"dblpkey": "conf/dac/ChelceaN01",
 	"doi": "10.1145/378239.378256",
 	"ee": "http://doi.acm.org/10.1145/378239.378256",
 	"pages": "21-26",
 	"publisher": "ACM",
-	"stemmed": ["robust", "interfac", "for", "mix", "time", "system", "with", "applic", "to", "latenc", "insensit", "protocol"],
-	"tag": ["interface", "protocol", "robust"],
+	"stemmed": [
+		"robust",
+		"interfac",
+		"for",
+		"mix",
+		"time",
+		"system",
+		"with",
+		"applic",
+		"to",
+		"latenc",
+		"insensit",
+		"protocol"
+	],
+	"tag": [
+		"interface",
+		"protocol",
+		"robust"
+	],
 	"title": "Robust Interfaces for Mixed-Timing Systems with Application to Latency-Insensitive Protocols",
 	"type": "inproceedings",
 	"venue": "DAC",

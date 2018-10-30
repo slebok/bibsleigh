@@ -1,13 +1,30 @@
 {
-	"author": ["Jeffrey Svajlenko", "Chanchal K. Roy"],
-	"booktitle": "ICSME",
+	"author": [
+		"Jeffrey Svajlenko",
+		"Chanchal K. Roy"
+	],
+	"booktitle": "Proceedings of the 31st International Conference on Software Maintenance and Evolution",
+	"booktitleshort": "ICSME",
 	"crossref": "conf/icsm/2015",
 	"dblpkey": "conf/icsm/SvajlenkoR15",
 	"doi": "10.1109/ICSM.2015.7332459",
 	"pages": "131-140",
 	"publisher": "IEEE",
-	"stemmed": ["evalu", "clone", "detect", "tool", "with", "big", "clone", "bench"],
-	"tag": ["clone detection", "detection", "tool support"],
+	"stemmed": [
+		"evalu",
+		"clone",
+		"detect",
+		"tool",
+		"with",
+		"big",
+		"clone",
+		"bench"
+	],
+	"tag": [
+		"clone detection",
+		"detection",
+		"tool support"
+	],
 	"title": "Evaluating clone detection tools with BigCloneBench",
 	"type": "inproceedings",
 	"venue": "ICSME",

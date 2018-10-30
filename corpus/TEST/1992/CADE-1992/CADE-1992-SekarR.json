@@ -1,6 +1,10 @@
 {
-	"author": ["R. C. Sekar", "I. V. Ramakrishnan"],
-	"booktitle": "CADE",
+	"author": [
+		"R. C. Sekar",
+		"I. V. Ramakrishnan"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
 	"dblpkey": "conf/cade/SekarR92",
 	"doi": "10.1007/3-540-55602-8_196",
@@ -10,11 +14,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["program", "with", "equat", "a", "framework", "for", "lazi", "parallel", "evalu"],
-	"tag": ["equation", "evaluation", "framework", "lazy evaluation", "parallel", "programming"],
+	"stemmed": [
+		"program",
+		"with",
+		"equat",
+		"a",
+		"framework",
+		"for",
+		"lazi",
+		"parallel",
+		"evalu"
+	],
+	"tag": [
+		"equation",
+		"evaluation",
+		"framework",
+		"lazy evaluation",
+		"parallel",
+		"programming"
+	],
 	"title": "Programming with Equations: A Framework for Lazy Parallel Evaluation",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 607,
+	"volume": "607",
 	"year": 1992
 }

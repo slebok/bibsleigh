@@ -1,14 +1,37 @@
 {
-	"author": ["Shanchan Wu", "Leanna Gong", "William Rand", "Louiqa Raschid"],
-	"booktitle": "RecSys",
+	"author": [
+		"Shanchan Wu",
+		"Leanna Gong",
+		"William Rand",
+		"Louiqa Raschid"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2012",
 	"dblpkey": "conf/recsys/WuGRR12",
 	"doi": "10.1145/2365952.2366010",
 	"ee": "http://doi.acm.org/10.1145/2365952.2366010",
 	"pages": "265-268",
 	"publisher": "ACM",
-	"stemmed": ["make", "recommend", "in", "a", "microblog", "to", "improv", "the", "impact", "of", "a", "focal", "user"],
-	"tag": ["microblog", "recommendation"],
+	"stemmed": [
+		"make",
+		"recommend",
+		"in",
+		"a",
+		"microblog",
+		"to",
+		"improv",
+		"the",
+		"impact",
+		"of",
+		"a",
+		"focal",
+		"user"
+	],
+	"tag": [
+		"microblog",
+		"recommendation"
+	],
 	"title": "Making recommendations in a microblog to improve the impact of a focal user",
 	"type": "inproceedings",
 	"venue": "RecSys",

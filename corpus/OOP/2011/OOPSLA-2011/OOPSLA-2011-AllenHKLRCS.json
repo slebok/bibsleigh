@@ -1,17 +1,48 @@
 {
-	"author": ["Eric E. Allen", "Justin Hilburn", "Scott Kilpatrick", "Victor Luchangco", "Sukyoung Ryu", "David Chase", "Guy L. Steele Jr."],
-	"booktitle": "Proceedings of the 26th Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Eric E. Allen",
+		"Justin Hilburn",
+		"Scott Kilpatrick",
+		"Victor Luchangco",
+		"Sukyoung Ryu",
+		"David Chase",
+		"Guy L. Steele Jr."
+	],
+	"booktitle": "Proceedings of the 26th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2011",
 	"dblpkey": "conf/oopsla/AllenHKLRCS11",
 	"doi": "10.1145/2048066.2048140",
-	"editor": ["Cristina Videira Lopes", "Kathleen Fisher"],
+	"editor": [
+		"Cristina Videira Lopes",
+		"Kathleen Fisher"
+	],
 	"ee": "http://doi.acm.org/10.1145/2048066.2048140",
 	"isbn": "978-1-4503-0940-0",
 	"pages": "973-992",
 	"publisher": "ACM",
-	"stemmed": ["type", "check", "modular", "multipl", "dispatch", "with", "parametr", "polymorph", "and", "multipl", "inherit"],
-	"tag": ["composition", "inheritance", "morphism", "multi", "parametricity", "polymorphism", "type checking"],
+	"stemmed": [
+		"type",
+		"check",
+		"modular",
+		"multipl",
+		"dispatch",
+		"with",
+		"parametr",
+		"polymorph",
+		"and",
+		"multipl",
+		"inherit"
+	],
+	"tag": [
+		"composition",
+		"inheritance",
+		"morphism",
+		"multi",
+		"parametricity",
+		"polymorphism",
+		"type checking"
+	],
 	"title": "Type checking modular multiple dispatch with parametric polymorphism and multiple inheritance",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

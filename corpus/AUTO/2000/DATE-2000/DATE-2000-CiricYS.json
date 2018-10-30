@@ -1,6 +1,11 @@
 {
-	"author": ["Jovanka Ciric", "Gin Yee", "Carl Sechen"],
-	"booktitle": "DATE",
+	"author": [
+		"Jovanka Ciric",
+		"Gin Yee",
+		"Carl Sechen"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/CiricYS00",
 	"doi": "10.1109/DATE.2000.840284",
@@ -8,8 +13,29 @@
 	"pages": "277-282",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["delay", "minim", "and", "technolog", "map", "of", "two", "level", "structur", "and", "implement", "use", "clock", "delay", "domino", "logic"],
-	"tag": ["implementation", "logic", "using"],
+	"stemmed": [
+		"delay",
+		"minim",
+		"and",
+		"technolog",
+		"map",
+		"of",
+		"two",
+		"level",
+		"structur",
+		"and",
+		"implement",
+		"use",
+		"clock",
+		"delay",
+		"domino",
+		"logic"
+	],
+	"tag": [
+		"implementation",
+		"logic",
+		"using"
+	],
 	"title": "Delay Minimization and Technology Mapping of Two-Level Structures and Implementation Using Clock-Delayed Domino Logic",
 	"type": "inproceedings",
 	"venue": "DATE",

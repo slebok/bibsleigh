@@ -1,6 +1,11 @@
 {
-	"author": ["Mark E. Frisse", "Steve B. Cousins", "Scott W. Hassan"],
-	"booktitle": "Hypertext",
+	"author": [
+		"Mark E. Frisse",
+		"Steve B. Cousins",
+		"Scott W. Hassan"
+	],
+	"booktitle": "Proceedings of the Third Conference on Hypertext",
+	"booktitleshort": "HT",
 	"cdrom": "HT1991/P389.pdf",
 	"crossref": "conf/ht/91",
 	"dblpkey": "conf/ht/FrisseCH91",
@@ -8,8 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/122974.125117",
 	"pages": "389-394",
 	"publisher": "ACM",
-	"stemmed": ["walt", "a", "research", "environ", "for", "medic", "hypertext"],
-	"tag": ["hypermedia", "named", "research"],
+	"stemmed": [
+		"walt",
+		"a",
+		"research",
+		"environ",
+		"for",
+		"medic",
+		"hypertext"
+	],
+	"tag": [
+		"hypermedia",
+		"named",
+		"research"
+	],
 	"title": "WALT: A Research Environment for Medical Hypertext",
 	"type": "inproceedings",
 	"venue": "HT",

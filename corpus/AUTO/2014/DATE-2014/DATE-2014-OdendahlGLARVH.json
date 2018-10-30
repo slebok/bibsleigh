@@ -1,14 +1,32 @@
 {
-	"author": ["Maximilian Odendahl", "Andres Goens", "Rainer Leupers", "Gerd Ascheid", "Benjamin Ries", "Berthold Vöcking", "Tomas Henriksson"],
-	"booktitle": "DATE",
+	"author": [
+		"Maximilian Odendahl",
+		"Andres Goens",
+		"Rainer Leupers",
+		"Gerd Ascheid",
+		"Benjamin Ries",
+		"Berthold Vöcking",
+		"Tomas Henriksson"
+	],
+	"booktitle": "Proceedings of the 18th Conference and Exhibition on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2014",
 	"dblpkey": "conf/date/OdendahlGLARVH14",
 	"doi": "10.7873/DATE.2014.337",
 	"ee": "http://dx.doi.org/10.7873/DATE.2014.337",
 	"pages": "1-6",
 	"publisher": "IEEE",
-	"stemmed": ["optim", "buffer", "alloc", "in", "multicor", "platform"],
-	"tag": ["manycore"],
+	"stemmed": [
+		"optim",
+		"buffer",
+		"alloc",
+		"in",
+		"multicor",
+		"platform"
+	],
+	"tag": [
+		"manycore"
+	],
 	"title": "Optimized buffer allocation in multicore platforms",
 	"type": "inproceedings",
 	"venue": "DATE",

@@ -1,6 +1,9 @@
 {
-	"author": ["Haridimos Kondylakis", "Dimitris Plexousakis"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Haridimos Kondylakis",
+		"Dimitris Plexousakis"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/KondylakisP11",
@@ -8,8 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989477",
 	"pages": "1283-1286",
 	"publisher": "ACM",
-	"stemmed": ["exelixi", "evolv", "ontolog", "base", "data", "integr", "system"],
-	"tag": ["evolution", "integration", "named", "ontology"],
+	"stemmed": [
+		"exelixi",
+		"evolv",
+		"ontolog",
+		"base",
+		"data",
+		"integr",
+		"system"
+	],
+	"tag": [
+		"evolution",
+		"integration",
+		"named",
+		"ontology"
+	],
 	"title": "Exelixis: evolving ontology-based data integration system",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

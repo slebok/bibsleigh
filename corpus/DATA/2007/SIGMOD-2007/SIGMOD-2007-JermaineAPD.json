@@ -1,6 +1,11 @@
 {
-	"author": ["Christopher M. Jermaine", "Subramanian Arumugam", "Abhijit Pol", "Alin Dobra"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Christopher M. Jermaine",
+		"Subramanian Arumugam",
+		"Abhijit Pol",
+		"Alin Dobra"
+	],
+	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/JermaineAPD07",
@@ -8,8 +13,21 @@
 	"ee": "http://doi.acm.org/10.1145/1247480.1247560",
 	"pages": "725-736",
 	"publisher": "ACM",
-	"stemmed": ["scalabl", "approxim", "queri", "process", "with", "the", "dbo", "engin"],
-	"tag": ["approximate", "query", "scalability"],
+	"stemmed": [
+		"scalabl",
+		"approxim",
+		"queri",
+		"process",
+		"with",
+		"the",
+		"dbo",
+		"engin"
+	],
+	"tag": [
+		"approximate",
+		"query",
+		"scalability"
+	],
 	"title": "Scalable approximate query processing with the DBO engine",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

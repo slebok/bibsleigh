@@ -1,17 +1,40 @@
 {
-	"author": ["Yunho Kim", "Moonzoo Kim"],
+	"author": [
+		"Yunho Kim",
+		"Moonzoo Kim"
+	],
 	"booktitle": "Proceedings of the 19th Symposium on the Foundations of Software Engineering and the 13rd European Software Engineering Conference",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "ESEC/FSE",
 	"crossref": "conf/sigsoft/2011",
 	"dblpkey": "conf/sigsoft/KimK11",
 	"doi": "10.1145/2025113.2025180",
-	"editor": ["Tibor Gyimóthy", "Andreas Zeller"],
+	"editor": [
+		"Tibor Gyimóthy",
+		"Andreas Zeller"
+	],
 	"ee": "http://doi.acm.org/10.1145/2025113.2025180",
 	"isbn": "978-1-4503-0443-6",
 	"pages": "420-423",
 	"publisher": "ACM",
-	"stemmed": ["score", "a", "scalabl", "concol", "test", "tool", "for", "reliabl", "embed", "softwar"],
-	"tag": ["embedded", "named", "reliability", "scalability", "testing"],
+	"stemmed": [
+		"score",
+		"a",
+		"scalabl",
+		"concol",
+		"test",
+		"tool",
+		"for",
+		"reliabl",
+		"embed",
+		"softwar"
+	],
+	"tag": [
+		"embedded",
+		"named",
+		"reliability",
+		"scalability",
+		"testing"
+	],
 	"title": "SCORE: a scalable concolic testing tool for reliable embedded software",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

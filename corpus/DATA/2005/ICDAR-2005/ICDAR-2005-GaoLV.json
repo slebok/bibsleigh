@@ -1,15 +1,42 @@
 {
-	"author": ["Xue Gao", "Pierre Michel Lallican", "Christian Viard-Gaudin"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Xue Gao",
+		"Pierre Michel Lallican",
+		"Christian Viard-Gaudin"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2005",
 	"dblpkey": "conf/icdar/GaoLV05",
 	"doi": "10.1109/ICDAR.2005.39",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2005.39", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.39"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2005.39",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2005.39"
+	],
 	"pages": "735-739",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["a", "two", "stage", "onlin", "handwritten", "chines", "charact", "segment", "algorithm", "base", "on", "dynam", "program"],
-	"tag": ["algorithm", "online", "programming", "segmentation"],
+	"stemmed": [
+		"a",
+		"two",
+		"stage",
+		"onlin",
+		"handwritten",
+		"chines",
+		"charact",
+		"segment",
+		"algorithm",
+		"base",
+		"on",
+		"dynam",
+		"program"
+	],
+	"tag": [
+		"algorithm",
+		"online",
+		"programming",
+		"segmentation"
+	],
 	"title": "A Two-stage Online Handwritten Chinese Character Segmentation Algorithm Based on Dynamic Programming",
 	"type": "inproceedings",
 	"venue": "ICDAR",

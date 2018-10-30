@@ -1,16 +1,42 @@
 {
-	"author": ["Junghoo Cho", "Hector Garcia-Molina"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Junghoo Cho",
+		"Hector Garcia-Molina"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
-	"cite": ["www/com/google", "journals/cn/ChakrabartiBD99", "...", "...", "journals/cn/ChoGP98", "...", "journals/debu/HammerGWLZ95", "conf/sigmod/HarinarayanRU96", "...", "journals/cn/BrinP98", "...", "...", "conf/sigmod/ZhugeGHW95"],
+	"cite": [
+		"www/com/google",
+		"journals/cn/ChakrabartiBD99",
+		"...",
+		"...",
+		"journals/cn/ChoGP98",
+		"...",
+		"journals/debu/HammerGWLZ95",
+		"conf/sigmod/HarinarayanRU96",
+		"...",
+		"journals/cn/BrinP98",
+		"...",
+		"...",
+		"conf/sigmod/ZhugeGHW95"
+	],
 	"crossref": "conf/sigmod/2000",
 	"dblpkey": "conf/sigmod/ChoG00",
 	"doi": "10.1145/342009.335391",
 	"ee": "http://doi.acm.org/10.1145/342009.335391",
 	"pages": "117-128",
 	"publisher": "ACM",
-	"stemmed": ["synchron", "a", "databas", "to", "improv", "fresh"],
-	"tag": ["database"],
+	"stemmed": [
+		"synchron",
+		"a",
+		"databas",
+		"to",
+		"improv",
+		"fresh"
+	],
+	"tag": [
+		"database"
+	],
 	"title": "Synchronizing a Database to Improve Freshness",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,13 +1,28 @@
 {
-	"author": ["Xiangqi Li", "Matthew Flatt"],
-	"booktitle": "SLE",
+	"author": [
+		"Xiangqi Li",
+		"Matthew Flatt"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Software Language Engineering",
+	"booktitleshort": "SLE",
 	"crossref": "conf/sle/2017",
 	"dblpkey": "conf/sle/LiF17",
 	"doi": "10.1145/3136014.3136019",
 	"pages": "91-102",
 	"publisher": "ACM",
-	"stemmed": ["debug", "with", "domain", "specif", "event", "via", "macro"],
-	"tag": ["debugging", "metaprogramming"],
+	"stemmed": [
+		"debug",
+		"with",
+		"domain",
+		"specif",
+		"event",
+		"via",
+		"macro"
+	],
+	"tag": [
+		"debugging",
+		"metaprogramming"
+	],
 	"title": "Debugging with domain-specific events via macros",
 	"type": "inproceedings",
 	"venue": "SLE",

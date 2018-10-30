@@ -1,15 +1,43 @@
 {
-	"author": ["Kyusik Chung", "Jongmin Yoon"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Kyusik Chung",
+		"Jongmin Yoon"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/1997",
 	"dblpkey": "conf/icdar/ChungY97",
 	"doi": "10.1109/ICDAR.1997.619805",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.1997.619805", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1997.619805"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.1997.619805",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1997.619805"
+	],
 	"pages": "11-15",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["perform", "comparison", "of", "sever", "featur", "select", "method", "base", "on", "node", "prune", "in", "handwritten", "charact", "recognit"],
-	"tag": ["comparison", "feature model", "performance", "recognition"],
+	"stemmed": [
+		"perform",
+		"comparison",
+		"of",
+		"sever",
+		"featur",
+		"select",
+		"method",
+		"base",
+		"on",
+		"node",
+		"prune",
+		"in",
+		"handwritten",
+		"charact",
+		"recognit"
+	],
+	"tag": [
+		"comparison",
+		"feature model",
+		"performance",
+		"recognition"
+	],
 	"title": "Performance comparison of several feature selection methods based on node pruning in handwritten character recognition",
 	"type": "inproceedings",
 	"venue": "ICDAR",

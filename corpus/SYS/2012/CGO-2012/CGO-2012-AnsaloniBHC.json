@@ -1,14 +1,32 @@
 {
-	"author": ["Danilo Ansaloni", "Walter Binder", "Abbas Heydarnoori", "Lydia Y. Chen"],
-	"booktitle": "CGO",
+	"author": [
+		"Danilo Ansaloni",
+		"Walter Binder",
+		"Abbas Heydarnoori",
+		"Lydia Y. Chen"
+	],
+	"booktitle": "Proceedings of the 10th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2012",
 	"dblpkey": "conf/cgo/AnsaloniBHC12",
 	"doi": "10.1145/2259016.2259048",
 	"ee": "http://doi.acm.org/10.1145/2259016.2259048",
 	"pages": "242-251",
 	"publisher": "ACM",
-	"stemmed": ["defer", "method", "acceler", "dynam", "program", "analysi", "on", "multicor"],
-	"tag": ["multi", "program analysis"],
+	"stemmed": [
+		"defer",
+		"method",
+		"acceler",
+		"dynam",
+		"program",
+		"analysi",
+		"on",
+		"multicor"
+	],
+	"tag": [
+		"multi",
+		"program analysis"
+	],
 	"title": "Deferred methods: accelerating dynamic program analysis on multicores",
 	"type": "inproceedings",
 	"venue": "CGO",

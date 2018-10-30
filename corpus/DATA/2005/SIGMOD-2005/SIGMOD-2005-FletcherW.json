@@ -1,6 +1,9 @@
 {
-	"author": ["George H. L. Fletcher", "Catharine M. Wyss"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"George H. L. Fletcher",
+		"Catharine M. Wyss"
+	],
+	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/FletcherW05",
@@ -8,8 +11,16 @@
 	"ee": "http://doi.acm.org/10.1145/1066157.1066285",
 	"pages": "912-914",
 	"publisher": "ACM",
-	"stemmed": ["relat", "data", "map", "in", "miqi"],
-	"tag": ["relational"],
+	"stemmed": [
+		"relat",
+		"data",
+		"map",
+		"in",
+		"miqi"
+	],
+	"tag": [
+		"relational"
+	],
 	"title": "Relational data mapping in MIQIS",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

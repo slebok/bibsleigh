@@ -1,6 +1,11 @@
 {
-	"author": ["Benedikt Gleich", "Oliver Creighton", "Leonid Kof"],
-	"booktitle": "REFSQ",
+	"author": [
+		"Benedikt Gleich",
+		"Oliver Creighton",
+		"Leonid Kof"
+	],
+	"booktitle": "Proceedings of the 16th International Working Conference on Requirements Engineering: Foundation for Software Quality",
+	"booktitleshort": "REFSQ",
 	"crossref": "conf/refsq/2010",
 	"dblpkey": "conf/refsq/GleichCK10",
 	"doi": "10.1007/978-3-642-14192-8_20",
@@ -9,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["ambigu", "detect", "toward", "a", "tool", "explain", "ambigu", "sourc"],
-	"tag": ["ambiguity", "detection", "towards"],
+	"stemmed": [
+		"ambigu",
+		"detect",
+		"toward",
+		"a",
+		"tool",
+		"explain",
+		"ambigu",
+		"sourc"
+	],
+	"tag": [
+		"ambiguity",
+		"detection",
+		"towards"
+	],
 	"title": "Ambiguity Detection: Towards a Tool Explaining Ambiguity Sources",
 	"type": "inproceedings",
 	"venue": "REFSQ",
-	"volume": 6182,
+	"volume": "6182",
 	"year": 2010
 }

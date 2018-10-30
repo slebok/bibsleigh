@@ -1,6 +1,10 @@
 {
-	"author": ["E. T. A. F. Jacobs", "Michel R. C. M. Berkelaar"],
-	"booktitle": "DATE",
+	"author": [
+		"E. T. A. F. Jacobs",
+		"Michel R. C. M. Berkelaar"
+	],
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/JacobsB00",
 	"doi": "10.1109/DATE.2000.840285",
@@ -8,8 +12,19 @@
 	"pages": "283-290",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["gate", "size", "use", "a", "statist", "delay", "model"],
-	"tag": ["statistics", "using"],
+	"stemmed": [
+		"gate",
+		"size",
+		"use",
+		"a",
+		"statist",
+		"delay",
+		"model"
+	],
+	"tag": [
+		"statistics",
+		"using"
+	],
 	"title": "Gate Sizing Using a Statistical Delay Model",
 	"type": "inproceedings",
 	"venue": "DATE",

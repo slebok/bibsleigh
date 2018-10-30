@@ -1,6 +1,11 @@
 {
-	"author": ["Santiago Escobar", "Ralf Sasse", "José Meseguer"],
-	"booktitle": "WRLA",
+	"author": [
+		"Santiago Escobar",
+		"Ralf Sasse",
+		"José Meseguer"
+	],
+	"booktitle": "Revised Selected Papers of the Eighth International Workshop on Rewriting Logic and its Applications",
+	"booktitleshort": "WRLA",
 	"crossref": "conf/wrla/2010",
 	"dblpkey": "conf/wrla/EscobarSM10",
 	"doi": "10.1007/978-3-642-16310-4_5",
@@ -10,11 +15,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["fold", "variant", "narrow", "and", "optim", "variant", "termin"],
-	"tag": ["termination"],
+	"stemmed": [
+		"fold",
+		"variant",
+		"narrow",
+		"and",
+		"optim",
+		"variant",
+		"termin"
+	],
+	"tag": [
+		"termination"
+	],
 	"title": "Folding Variant Narrowing and Optimal Variant Termination",
 	"type": "inproceedings",
 	"venue": "WRLA",
-	"volume": 6381,
+	"volume": "6381",
 	"year": 2010
 }

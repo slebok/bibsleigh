@@ -1,6 +1,9 @@
 {
-	"author": ["Florin Rusu", "Alin Dobra"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Florin Rusu",
+		"Alin Dobra"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/RusuD06",
@@ -8,8 +11,22 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142496",
 	"pages": "193-204",
 	"publisher": "ACM",
-	"stemmed": ["fast", "rang", "summabl", "random", "variabl", "for", "effici", "aggreg", "estim"],
-	"tag": ["estimation", "performance", "random"],
+	"stemmed": [
+		"fast",
+		"rang",
+		"summabl",
+		"random",
+		"variabl",
+		"for",
+		"effici",
+		"aggreg",
+		"estim"
+	],
+	"tag": [
+		"estimation",
+		"performance",
+		"random"
+	],
 	"title": "Fast range-summable random variables for efficient aggregate estimation",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

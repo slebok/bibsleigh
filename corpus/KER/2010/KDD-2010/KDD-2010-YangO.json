@@ -1,14 +1,33 @@
 {
-	"author": ["Jian-Bo Yang", "Chong Jin Ong"],
-	"booktitle": "KDD",
+	"author": [
+		"Jian-Bo Yang",
+		"Chong Jin Ong"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/YangO10",
 	"doi": "10.1145/1835804.1835849",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835849",
 	"pages": "343-352",
 	"publisher": "ACM",
-	"stemmed": ["featur", "select", "for", "support", "vector", "regress", "use", "probabilist", "predict"],
-	"tag": ["feature model", "predict", "probability", "using"],
+	"stemmed": [
+		"featur",
+		"select",
+		"for",
+		"support",
+		"vector",
+		"regress",
+		"use",
+		"probabilist",
+		"predict"
+	],
+	"tag": [
+		"feature model",
+		"predict",
+		"probability",
+		"using"
+	],
 	"title": "Feature selection for support vector regression using probabilistic prediction",
 	"type": "inproceedings",
 	"venue": "KDD",

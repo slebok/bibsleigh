@@ -1,6 +1,7 @@
 {
 	"author": "Robert Holeman",
-	"booktitle": "CSEE",
+	"booktitle": "Proceedings of the Eighth Conference on Software Engineering Education and Training",
+	"booktitleshort": "CSEE",
 	"crossref": "conf/csee/1995",
 	"dblpkey": "conf/csee/Holeman95",
 	"doi": "10.1007/3-540-58951-1_109",
@@ -9,11 +10,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "softwar", "process", "improv", "game"],
-	"tag": ["game studies", "process"],
+	"stemmed": [
+		"the",
+		"softwar",
+		"process",
+		"improv",
+		"game"
+	],
+	"tag": [
+		"game studies",
+		"process"
+	],
 	"title": "The Software Process Improvement Game",
 	"type": "inproceedings",
 	"venue": "CSEET",
-	"volume": 895,
+	"volume": "895",
 	"year": 1995
 }

@@ -1,14 +1,28 @@
 {
-	"author": ["Jason E. Miller", "Anant Agarwal"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Jason E. Miller",
+		"Anant Agarwal"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/MillerA06",
 	"doi": "10.1145/1168857.1168894",
 	"ee": "http://doi.acm.org/10.1145/1168857.1168894",
 	"pages": "293-302",
 	"publisher": "ACM",
-	"stemmed": ["softwar", "base", "instruct", "cach", "for", "embed", "processor"],
-	"tag": ["embedded"],
+	"stemmed": [
+		"softwar",
+		"base",
+		"instruct",
+		"cach",
+		"for",
+		"embed",
+		"processor"
+	],
+	"tag": [
+		"embedded"
+	],
 	"title": "Software-based instruction caching for embedded processors",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

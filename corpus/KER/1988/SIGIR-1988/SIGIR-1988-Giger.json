@@ -1,6 +1,7 @@
 {
 	"author": "H. P. Giger",
 	"booktitle": "Proceedings of the 11th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1988/P275.pdf",
 	"crossref": "conf/sigir/88",
 	"dblpkey": "conf/sigir/Giger88",
@@ -8,8 +9,19 @@
 	"ee": "http://doi.acm.org/10.1145/62437.62461",
 	"pages": "275-289",
 	"publisher": "ACM",
-	"stemmed": ["concept", "base", "retriev", "in", "classic", "ir", "system"],
-	"tag": ["concept", "information retrieval"],
+	"stemmed": [
+		"concept",
+		"base",
+		"retriev",
+		"in",
+		"classic",
+		"ir",
+		"system"
+	],
+	"tag": [
+		"concept",
+		"information retrieval"
+	],
 	"title": "Concept Based Retrieval in Classical IR Systems",
 	"type": "inproceedings",
 	"venue": "SIGIR",

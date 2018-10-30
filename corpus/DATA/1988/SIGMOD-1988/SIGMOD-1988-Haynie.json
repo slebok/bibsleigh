@@ -1,15 +1,39 @@
 {
 	"author": "Mark N. Haynie",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 18th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD88/P269.PDF",
-	"cite": ["conf/oodbs/Rao86", "...", "...", "journals/debu/HaynieG84", "conf/sigmod/KatzCB86", "conf/oodbs/Ketabchi86", "...", "...", "journals/tods/StonebrakerAH87"],
+	"cite": [
+		"conf/oodbs/Rao86",
+		"...",
+		"...",
+		"journals/debu/HaynieG84",
+		"conf/sigmod/KatzCB86",
+		"conf/oodbs/Ketabchi86",
+		"...",
+		"...",
+		"journals/tods/StonebrakerAH87"
+	],
 	"crossref": "conf/sigmod/88",
 	"dblpkey": "conf/sigmod/Haynie88",
 	"doi": "10.1145/50202.50235",
 	"ee": "http://doi.acm.org/10.1145/50202.50235",
 	"pages": "269-276",
-	"stemmed": ["a", "dbms", "for", "larg", "design", "autom", "databas"],
-	"tag": ["automation", "database", "design", "scalability"],
+	"stemmed": [
+		"a",
+		"dbms",
+		"for",
+		"larg",
+		"design",
+		"autom",
+		"databas"
+	],
+	"tag": [
+		"automation",
+		"database",
+		"design",
+		"scalability"
+	],
 	"title": "A DBMS for Large Design Automation Databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

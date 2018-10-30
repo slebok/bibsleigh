@@ -1,6 +1,12 @@
 {
-	"author": ["Johannes Dyck", "Holger Giese", "Leen Lambers", "Sebastian Schlesinger", "Sabine Glesner"],
-	"booktitle": "AMT@MoDELS",
+	"author": [
+		"Johannes Dyck",
+		"Holger Giese",
+		"Leen Lambers",
+		"Sebastian Schlesinger",
+		"Sabine Glesner"
+	],
+	"booktitle": "Proceedings of the Fourth Workshop on the Analysis of Model Transformations",
 	"booktitleshort": "AMT",
 	"crossref": "conf/models/2015amt",
 	"dblpkey": "conf/models/DyckGLSG15",
@@ -9,11 +15,33 @@
 	"publisher": "CEUR-WS.org",
 	"series": "CEUR Workshop Proceedings",
 	"seriesshort": "CEUR",
-	"stemmed": ["toward", "the", "automat", "verif", "of", "behavior", "preserv", "at", "the", "transform", "level", "for", "oper", "model", "transform"],
-	"tag": ["automation", "behaviour", "model transformation", "towards", "verification"],
+	"stemmed": [
+		"toward",
+		"the",
+		"automat",
+		"verif",
+		"of",
+		"behavior",
+		"preserv",
+		"at",
+		"the",
+		"transform",
+		"level",
+		"for",
+		"oper",
+		"model",
+		"transform"
+	],
+	"tag": [
+		"automation",
+		"behaviour",
+		"model transformation",
+		"towards",
+		"verification"
+	],
 	"title": "Towards the Automatic Verification of Behavior Preservation at the Transformation Level for Operational Model Transformations",
 	"type": "inproceedings",
 	"venue": "AMT",
-	"volume": 1500,
+	"volume": "1500",
 	"year": 2015
 }

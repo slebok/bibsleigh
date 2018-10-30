@@ -1,6 +1,7 @@
 {
 	"author": "Stefan Szeider",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the First International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2001",
 	"dblpkey": "conf/cade/Szeider01",
 	"doi": "10.1007/3-540-45744-5_13",
@@ -10,10 +11,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["np", "complet", "of", "refut", "by", "liter", "onc", "resolut"],
+	"stemmed": [
+		"np",
+		"complet",
+		"of",
+		"refut",
+		"by",
+		"liter",
+		"onc",
+		"resolut"
+	],
 	"title": "NP-Completeness of Refutability by Literal-Once Resolution",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 2083,
+	"volume": "2083",
 	"year": 2001
 }

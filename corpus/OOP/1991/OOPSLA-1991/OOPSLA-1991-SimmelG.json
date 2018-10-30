@@ -1,6 +1,9 @@
 {
-	"author": ["Sergui S. Simmel", "Ivan Godard"],
-	"booktitle": "Proceedings of the Sixth Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"author": [
+		"Sergui S. Simmel",
+		"Ivan Godard"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1991",
 	"dblpkey": "conf/oopsla/SimmelG91",
@@ -10,8 +13,27 @@
 	"isbn": "0-201-55417-8",
 	"pages": "230-246",
 	"publisher": "ACM",
-	"stemmed": ["the", "kala", "basket", "a", "semant", "primit", "unifi", "object", "transact", "access", "control", "version", "and", "configur"],
-	"tag": ["data access", "semantics", "transaction"],
+	"stemmed": [
+		"the",
+		"kala",
+		"basket",
+		"a",
+		"semant",
+		"primit",
+		"unifi",
+		"object",
+		"transact",
+		"access",
+		"control",
+		"version",
+		"and",
+		"configur"
+	],
+	"tag": [
+		"data access",
+		"semantics",
+		"transaction"
+	],
 	"title": "The Kala Basket: A Semantic Primitive Unifying Object Transactions, Access Control, Versions, and Configurations",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

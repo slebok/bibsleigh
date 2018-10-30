@@ -1,6 +1,9 @@
 {
-	"author": ["Jane Laursen", "Robert G. Atkinson"],
-	"booktitle": "Proceedings of the Second Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"author": [
+		"Jane Laursen",
+		"Robert G. Atkinson"
+	],
+	"booktitle": "Proceedings of the Second Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1987",
 	"dblpkey": "conf/oopsla/LaursenA87",
@@ -10,8 +13,17 @@
 	"isbn": "0-89791-247-0",
 	"pages": "377-387",
 	"publisher": "ACM",
-	"stemmed": ["opus", "a", "smalltalk", "product", "system"],
-	"tag": ["named", "smalltalk"],
+	"stemmed": [
+		"opus",
+		"a",
+		"smalltalk",
+		"product",
+		"system"
+	],
+	"tag": [
+		"named",
+		"smalltalk"
+	],
 	"title": "Opus: A Smalltalk Production System",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

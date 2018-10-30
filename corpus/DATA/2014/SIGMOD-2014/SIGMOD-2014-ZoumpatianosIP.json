@@ -1,6 +1,10 @@
 {
-	"author": ["Kostas Zoumpatianos", "Stratos Idreos", "Themis Palpanas"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Kostas Zoumpatianos",
+		"Stratos Idreos",
+		"Themis Palpanas"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/ZoumpatianosIP14",
@@ -8,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2610498",
 	"pages": "1555-1566",
 	"publisher": "ACM",
-	"stemmed": ["index", "for", "interact", "explor", "of", "big", "data", "seri"],
-	"tag": ["big data", "interactive"],
+	"stemmed": [
+		"index",
+		"for",
+		"interact",
+		"explor",
+		"of",
+		"big",
+		"data",
+		"seri"
+	],
+	"tag": [
+		"big data",
+		"interactive"
+	],
 	"title": "Indexing for interactive exploration of big data series",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

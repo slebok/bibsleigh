@@ -1,14 +1,37 @@
 {
-	"author": ["Steffen Rendle", "Lars Schmidt-Thieme"],
-	"booktitle": "RecSys",
+	"author": [
+		"Steffen Rendle",
+		"Lars Schmidt-Thieme"
+	],
+	"booktitle": "Proceedings of the Second Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2008",
 	"dblpkey": "conf/recsys/RendleS08",
 	"doi": "10.1145/1454008.1454047",
 	"ee": "http://doi.acm.org/10.1145/1454008.1454047",
 	"pages": "251-258",
 	"publisher": "ACM",
-	"stemmed": ["onlin", "updat", "regular", "kernel", "matrix", "factor", "model", "for", "larg", "scale", "recommend", "system"],
-	"tag": ["kernel", "matrix", "modelling", "recommendation", "scalability"],
+	"stemmed": [
+		"onlin",
+		"updat",
+		"regular",
+		"kernel",
+		"matrix",
+		"factor",
+		"model",
+		"for",
+		"larg",
+		"scale",
+		"recommend",
+		"system"
+	],
+	"tag": [
+		"kernel",
+		"matrix",
+		"modelling",
+		"recommendation",
+		"scalability"
+	],
 	"title": "Online-updating regularized kernel matrix factorization models for large-scale recommender systems",
 	"type": "inproceedings",
 	"venue": "RecSys",

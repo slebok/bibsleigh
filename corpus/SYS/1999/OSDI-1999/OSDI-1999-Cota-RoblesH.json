@@ -1,14 +1,36 @@
 {
-	"author": ["Erik Cota-Robles", "James P. Held"],
-	"booktitle": "OSDI",
+	"author": [
+		"Erik Cota-Robles",
+		"James P. Held"
+	],
+	"booktitle": "Proceedings of the Third Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/1999",
 	"dblpkey": "conf/osdi/Cota-RoblesH99",
 	"doi": "10.1145/296806.296823",
 	"ee": "http://doi.acm.org/10.1145/296806.296823",
 	"pages": "159-172",
 	"publisher": "USENIX Association",
-	"stemmed": ["a", "comparison", "of", "window", "driver", "model", "latenc", "perform", "on", "window", "nt", "and", "window"],
-	"tag": ["comparison", "latency", "performance"],
+	"stemmed": [
+		"a",
+		"comparison",
+		"of",
+		"window",
+		"driver",
+		"model",
+		"latenc",
+		"perform",
+		"on",
+		"window",
+		"nt",
+		"and",
+		"window"
+	],
+	"tag": [
+		"comparison",
+		"latency",
+		"performance"
+	],
 	"title": "A Comparison of Windows Driver Model Latency Performance on Windows NT and Windows 98",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,6 +1,7 @@
 {
 	"author": "Chris Eaton",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD98/P508.PDF",
 	"crossref": "conf/sigmod/98",
 	"dblpkey": "conf/sigmod/Eaton98",
@@ -8,8 +9,17 @@
 	"ee": "http://doi.acm.org/10.1145/276304.276357",
 	"pages": "508-509",
 	"publisher": "ACM Press",
-	"stemmed": ["manag", "larg", "system", "with", "db", "udb"],
-	"tag": ["scalability"],
+	"stemmed": [
+		"manag",
+		"larg",
+		"system",
+		"with",
+		"db",
+		"udb"
+	],
+	"tag": [
+		"scalability"
+	],
 	"title": "Managing Large Systems with DB2 UDB",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

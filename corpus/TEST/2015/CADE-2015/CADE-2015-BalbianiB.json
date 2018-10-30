@@ -1,6 +1,10 @@
 {
-	"author": ["Philippe Balbiani", "Joseph Boudou"],
-	"booktitle": "CADE",
+	"author": [
+		"Philippe Balbiani",
+		"Joseph Boudou"
+	],
+	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
 	"dblpkey": "conf/cade/BalbianiB15",
 	"doi": "10.1007/978-3-319-21401-6_37",
@@ -10,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["tableaux", "method", "for", "proposit", "dynam", "logic", "with", "separ", "parallel", "composit"],
-	"tag": ["composition", "logic", "parallel"],
+	"stemmed": [
+		"tableaux",
+		"method",
+		"for",
+		"proposit",
+		"dynam",
+		"logic",
+		"with",
+		"separ",
+		"parallel",
+		"composit"
+	],
+	"tag": [
+		"composition",
+		"logic",
+		"parallel"
+	],
 	"title": "Tableaux Methods for Propositional Dynamic Logics with Separating Parallel Composition",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 9195,
+	"volume": "9195",
 	"year": 2015
 }

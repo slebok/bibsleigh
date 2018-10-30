@@ -1,6 +1,10 @@
 {
-	"author": ["Yinan Li", "Craig Chasseur", "Jignesh M. Patel"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yinan Li",
+		"Craig Chasseur",
+		"Jignesh M. Patel"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/LiCP15",
@@ -8,8 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2737787",
 	"pages": "1509-1524",
 	"publisher": "ACM",
-	"stemmed": ["a", "pad", "encod", "scheme", "to", "acceler", "scan", "by", "leverag", "skew"],
-	"tag": ["encoding"],
+	"stemmed": [
+		"a",
+		"pad",
+		"encod",
+		"scheme",
+		"to",
+		"acceler",
+		"scan",
+		"by",
+		"leverag",
+		"skew"
+	],
+	"tag": [
+		"encoding"
+	],
 	"title": "A Padded Encoding Scheme to Accelerate Scans by Leveraging Skew",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,6 +1,10 @@
 {
-	"author": ["Alan M. Frisch", "James F. Allen"],
-	"booktitle": "CADE",
+	"author": [
+		"Alan M. Frisch",
+		"James F. Allen"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1982",
 	"dblpkey": "conf/cade/FrischA82",
 	"doi": "10.1007/BFb0000065",
@@ -10,11 +14,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["knowledg", "retriev", "as", "limit", "infer"],
-	"tag": ["retrieval"],
+	"stemmed": [
+		"knowledg",
+		"retriev",
+		"as",
+		"limit",
+		"infer"
+	],
+	"tag": [
+		"retrieval"
+	],
 	"title": "Knowledge Retrieval as Limited Inference",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 138,
+	"volume": "138",
 	"year": 1982
 }

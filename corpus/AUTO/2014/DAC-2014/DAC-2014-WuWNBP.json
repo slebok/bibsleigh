@@ -1,14 +1,33 @@
 {
-	"author": ["Pei-Ci Wu", "Martin D. F. Wong", "Ivailo Nedelchev", "Sarvesh Bhardwaj", "Vidyamani Parkhe"],
-	"booktitle": "DAC",
+	"author": [
+		"Pei-Ci Wu",
+		"Martin D. F. Wong",
+		"Ivailo Nedelchev",
+		"Sarvesh Bhardwaj",
+		"Vidyamani Parkhe"
+	],
+	"booktitle": "Proceedings of the 51st Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2014",
 	"dblpkey": "conf/dac/WuWNBP14",
 	"doi": "10.1145/2593069.2593171",
 	"ee": "http://doi.acm.org/10.1145/2593069.2593171",
 	"pages": "6:1-6:6",
 	"publisher": "ACM",
-	"stemmed": ["on", "time", "closur", "buffer", "insert", "for", "hold", "violat", "remov"],
-	"tag": ["on the"],
+	"stemmed": [
+		"on",
+		"time",
+		"closur",
+		"buffer",
+		"insert",
+		"for",
+		"hold",
+		"violat",
+		"remov"
+	],
+	"tag": [
+		"on the"
+	],
 	"title": "On Timing Closure: Buffer Insertion for Hold-Violation Removal",
 	"type": "inproceedings",
 	"venue": "DAC",

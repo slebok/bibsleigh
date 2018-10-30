@@ -1,14 +1,32 @@
 {
-	"author": ["Rasmus Pagh", "Morten Stöckel", "David P. Woodruff"],
-	"booktitle": "PODS",
+	"author": [
+		"Rasmus Pagh",
+		"Morten Stöckel",
+		"David P. Woodruff"
+	],
+	"booktitle": "Proceedings of the 33rd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2014",
 	"dblpkey": "conf/pods/PaghSW14",
 	"doi": "10.1145/2594538.2594554",
 	"ee": "http://doi.acm.org/10.1145/2594538.2594554",
 	"pages": "109-120",
 	"publisher": "ACM",
-	"stemmed": ["is", "min", "wise", "hash", "optim", "for", "summar", "set", "intersect"],
-	"tag": ["question", "set"],
+	"stemmed": [
+		"is",
+		"min",
+		"wise",
+		"hash",
+		"optim",
+		"for",
+		"summar",
+		"set",
+		"intersect"
+	],
+	"tag": [
+		"question",
+		"set"
+	],
 	"title": "Is min-wise hashing optimal for summarizing set intersection?",
 	"type": "inproceedings",
 	"venue": "PODS",

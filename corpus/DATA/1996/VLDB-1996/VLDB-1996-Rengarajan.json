@@ -1,13 +1,25 @@
 {
 	"author": "T. K. Rengarajan",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the 22nd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/96",
 	"dblpkey": "conf/vldb/Rengarajan96",
 	"ee": "http://www.vldb.org/conf/1996/P590.PDF",
-	"pages": 590,
+	"pages": "590",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["how", "system", "sql", "server", "becam", "fast"],
-	"tag": ["how", "performance", "sql"],
+	"stemmed": [
+		"how",
+		"system",
+		"sql",
+		"server",
+		"becam",
+		"fast"
+	],
+	"tag": [
+		"how",
+		"performance",
+		"sql"
+	],
 	"title": "How System 11 SQL Server Became Fast",
 	"type": "inproceedings",
 	"venue": "VLDB",

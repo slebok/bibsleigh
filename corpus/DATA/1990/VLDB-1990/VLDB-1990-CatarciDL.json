@@ -1,14 +1,44 @@
 {
-	"author": ["Tiziana Catarci", "Giovanna D'Angiolini", "Maurizio Lenzerini"],
-	"booktitle": "VLDB",
-	"cite": ["...", "journals/is/BattistaB88", "...", "conf/vldb/CatarciDL90", "...", "journals/tse/Ghosh86", "conf/lilog/NebelS89", "journals/tse/OzsoyogluO85", "journals/tods/OzsoyogluOM87", "journals/tse/ShoshaniW85", "journals/ai/Schmidt-SchaussS91", "..."],
+	"author": [
+		"Tiziana Catarci",
+		"Giovanna D'Angiolini",
+		"Maurizio Lenzerini"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"journals/is/BattistaB88",
+		"...",
+		"conf/vldb/CatarciDL90",
+		"...",
+		"journals/tse/Ghosh86",
+		"conf/lilog/NebelS89",
+		"journals/tse/OzsoyogluO85",
+		"journals/tods/OzsoyogluOM87",
+		"journals/tse/ShoshaniW85",
+		"journals/ai/Schmidt-SchaussS91",
+		"..."
+	],
 	"crossref": "conf/vldb/90",
 	"dblpkey": "conf/vldb/CatarciDL90",
 	"ee": "http://www.vldb.org/conf/1990/P722.PDF",
 	"pages": "722-729",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["concept", "descript", "languag", "for", "statist", "data", "model"],
-	"tag": ["concept", "modelling", "statistics"],
+	"stemmed": [
+		"concept",
+		"descript",
+		"languag",
+		"for",
+		"statist",
+		"data",
+		"model"
+	],
+	"tag": [
+		"concept",
+		"modelling",
+		"statistics"
+	],
 	"title": "Concept Description Language for Statistical Data Modeling",
 	"type": "inproceedings",
 	"venue": "VLDB",

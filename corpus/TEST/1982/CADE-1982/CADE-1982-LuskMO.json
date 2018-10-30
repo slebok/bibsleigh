@@ -1,6 +1,11 @@
 {
-	"author": ["Ewing L. Lusk", "William McCune", "Ross A. Overbeek"],
-	"booktitle": "CADE",
+	"author": [
+		"Ewing L. Lusk",
+		"William McCune",
+		"Ross A. Overbeek"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1982",
 	"dblpkey": "conf/cade/LuskMO82",
 	"doi": "10.1007/BFb0000052",
@@ -10,11 +15,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["logic", "machin", "architectur", "kernel", "funtion"],
-	"tag": ["architecture", "kernel", "logic"],
+	"stemmed": [
+		"logic",
+		"machin",
+		"architectur",
+		"kernel",
+		"funtion"
+	],
+	"tag": [
+		"architecture",
+		"kernel",
+		"logic"
+	],
 	"title": "Logic Machine Architecture: Kernel Funtions",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 138,
+	"volume": "138",
 	"year": 1982
 }

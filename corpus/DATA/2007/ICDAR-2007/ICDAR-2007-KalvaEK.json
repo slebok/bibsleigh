@@ -1,6 +1,11 @@
 {
-	"author": ["Pedro R. Kalva", "Fabrício Enembreck", "Alessandro L. Koerich"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Pedro R. Kalva",
+		"Fabrício Enembreck",
+		"Alessandro L. Koerich"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/KalvaEK07",
 	"doi": "10.1109/ICDAR.2007.264",
@@ -8,8 +13,25 @@
 	"pages": "561-568",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["web", "imag", "classif", "base", "on", "the", "fusion", "of", "imag", "and", "text", "classifi"],
-	"tag": ["classification", "image", "web"],
+	"stemmed": [
+		"web",
+		"imag",
+		"classif",
+		"base",
+		"on",
+		"the",
+		"fusion",
+		"of",
+		"imag",
+		"and",
+		"text",
+		"classifi"
+	],
+	"tag": [
+		"classification",
+		"image",
+		"web"
+	],
 	"title": "WEB Image Classification Based on the Fusion of Image and Text Classifiers",
 	"type": "inproceedings",
 	"venue": "ICDAR",

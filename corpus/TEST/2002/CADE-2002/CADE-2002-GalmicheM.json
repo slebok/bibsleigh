@@ -1,6 +1,10 @@
 {
-	"author": ["Didier Galmiche", "Daniel Méry"],
-	"booktitle": "CADE",
+	"author": [
+		"Didier Galmiche",
+		"Daniel Méry"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2002",
 	"dblpkey": "conf/cade/GalmicheM02",
 	"doi": "10.1007/3-540-45620-1_8",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["connect", "base", "proof", "search", "in", "proposit", "bi", "logic"],
-	"tag": ["logic", "proving"],
+	"stemmed": [
+		"connect",
+		"base",
+		"proof",
+		"search",
+		"in",
+		"proposit",
+		"bi",
+		"logic"
+	],
+	"tag": [
+		"logic",
+		"proving"
+	],
 	"title": "Connection-Based Proof Search in Propositional BI Logic",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 2392,
+	"volume": "2392",
 	"year": 2002
 }

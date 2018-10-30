@@ -1,6 +1,6 @@
 {
 	"author": "Fang Wei 0001",
-	"booktitle": "SIGMOD Conference",
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/Wei10",
@@ -8,8 +8,22 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807181",
 	"pages": "99-110",
 	"publisher": "ACM",
-	"stemmed": ["tedi", "effici", "shortest", "path", "queri", "answer", "on", "graph"],
-	"tag": ["graph", "named", "performance", "query"],
+	"stemmed": [
+		"tedi",
+		"effici",
+		"shortest",
+		"path",
+		"queri",
+		"answer",
+		"on",
+		"graph"
+	],
+	"tag": [
+		"graph",
+		"named",
+		"performance",
+		"query"
+	],
 	"title": "TEDI: efficient shortest path query answering on graphs",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

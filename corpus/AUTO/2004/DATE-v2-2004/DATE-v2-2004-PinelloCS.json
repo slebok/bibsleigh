@@ -1,6 +1,11 @@
 {
-	"author": ["Claudio Pinello", "Luca P. Carloni", "Alberto L. Sangiovanni-Vincentelli"],
-	"booktitle": "DATE",
+	"author": [
+		"Claudio Pinello",
+		"Luca P. Carloni",
+		"Alberto L. Sangiovanni-Vincentelli"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/PinelloCS04",
 	"doi": "10.1109/DATE.2004.1269049",
@@ -8,8 +13,28 @@
 	"pages": "1164-1169",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["fault", "toler", "deploy", "of", "embed", "softwar", "for", "cost", "sensit", "real", "time", "feedback", "control", "applic"],
-	"tag": ["deployment", "embedded", "fault tolerance", "realtime"],
+	"stemmed": [
+		"fault",
+		"toler",
+		"deploy",
+		"of",
+		"embed",
+		"softwar",
+		"for",
+		"cost",
+		"sensit",
+		"real",
+		"time",
+		"feedback",
+		"control",
+		"applic"
+	],
+	"tag": [
+		"deployment",
+		"embedded",
+		"fault tolerance",
+		"realtime"
+	],
 	"title": "Fault-Tolerant Deployment of Embedded Software for Cost-Sensitive Real-Time Feedback-Control Applications",
 	"type": "inproceedings",
 	"venue": "DATE",

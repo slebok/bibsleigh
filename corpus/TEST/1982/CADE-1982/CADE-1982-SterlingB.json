@@ -1,6 +1,10 @@
 {
-	"author": ["Leon Sterling", "Alan Bundy"],
-	"booktitle": "CADE",
+	"author": [
+		"Leon Sterling",
+		"Alan Bundy"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1982",
 	"dblpkey": "conf/cade/SterlingB82",
 	"doi": "10.1007/BFb0000056",
@@ -10,11 +14,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["meta", "level", "infer", "and", "program", "verif"],
-	"tag": ["verification"],
+	"stemmed": [
+		"meta",
+		"level",
+		"infer",
+		"and",
+		"program",
+		"verif"
+	],
+	"tag": [
+		"verification"
+	],
 	"title": "Meta-Level Inference and Program Verification",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 138,
+	"volume": "138",
 	"year": 1982
 }

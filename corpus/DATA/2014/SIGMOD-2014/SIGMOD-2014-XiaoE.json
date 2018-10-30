@@ -1,6 +1,9 @@
 {
-	"author": ["Dongqing Xiao", "Mohamed Y. Eltabakh"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Dongqing Xiao",
+		"Mohamed Y. Eltabakh"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/XiaoE14",
@@ -8,8 +11,22 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2610501",
 	"pages": "661-672",
 	"publisher": "ACM",
-	"stemmed": ["insight", "note", "summari", "base", "annot", "manag", "in", "relat", "databas"],
-	"tag": ["database", "named", "relational"],
+	"stemmed": [
+		"insight",
+		"note",
+		"summari",
+		"base",
+		"annot",
+		"manag",
+		"in",
+		"relat",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"named",
+		"relational"
+	],
 	"title": "InsightNotes: summary-based annotation management in relational databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

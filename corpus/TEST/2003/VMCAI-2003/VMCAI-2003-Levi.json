@@ -1,6 +1,7 @@
 {
 	"author": "Francesca Levi",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the Fourth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2003",
 	"dblpkey": "conf/vmcai/Levi03",
 	"doi": "10.1007/3-540-36384-X_11",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["type", "for", "evolv", "communic", "in", "safe", "ambient"],
-	"tag": ["communication", "evolution"],
+	"stemmed": [
+		"type",
+		"for",
+		"evolv",
+		"communic",
+		"in",
+		"safe",
+		"ambient"
+	],
+	"tag": [
+		"communication",
+		"evolution"
+	],
 	"title": "Types for Evolving Communication in Safe Ambients",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2575,
+	"volume": "2575",
 	"year": 2003
 }

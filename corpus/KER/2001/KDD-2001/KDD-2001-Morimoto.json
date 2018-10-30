@@ -1,13 +1,27 @@
 {
 	"acmid": "502512.502564",
 	"author": "Yasuhiko Morimoto",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the Seventh International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2001",
 	"dblpkey": "conf/kdd/Morimoto01",
 	"pages": "353-358",
 	"publisher": "ACM",
-	"stemmed": ["mine", "frequent", "neighbor", "class", "set", "in", "spatial", "databas"],
-	"tag": ["database", "mining", "set"],
+	"stemmed": [
+		"mine",
+		"frequent",
+		"neighbor",
+		"class",
+		"set",
+		"in",
+		"spatial",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"mining",
+		"set"
+	],
 	"title": "Mining frequent neighboring class sets in spatial databases",
 	"type": "inproceedings",
 	"venue": "KDD",

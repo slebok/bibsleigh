@@ -1,6 +1,13 @@
 {
-	"author": ["Lucy T. Nowell", "Robert K. France", "Deborah Hix", "Lenwood S. Heath", "Edward A. Fox"],
+	"author": [
+		"Lucy T. Nowell",
+		"Robert K. France",
+		"Deborah Hix",
+		"Lenwood S. Heath",
+		"Edward A. Fox"
+	],
 	"booktitle": "Proceedings of the 19th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1996/P067.pdf",
 	"crossref": "conf/sigir/96",
 	"dblpkey": "conf/sigir/NowellFHHF96",
@@ -8,8 +15,21 @@
 	"ee": "http://doi.acm.org/10.1145/243199.243214",
 	"pages": "67-75",
 	"publisher": "ACM",
-	"stemmed": ["visual", "search", "result", "some", "altern", "to", "queri", "document", "similar"],
-	"tag": ["similarity", "visualisation"],
+	"stemmed": [
+		"visual",
+		"search",
+		"result",
+		"some",
+		"altern",
+		"to",
+		"queri",
+		"document",
+		"similar"
+	],
+	"tag": [
+		"similarity",
+		"visualisation"
+	],
 	"title": "Visualizing Search Results: Some Alternatives to Query-Document Similarity",
 	"type": "inproceedings",
 	"venue": "SIGIR",

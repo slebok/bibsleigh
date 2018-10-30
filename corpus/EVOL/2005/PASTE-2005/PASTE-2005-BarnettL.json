@@ -1,14 +1,26 @@
 {
-	"author": ["Michael Barnett", "K. Rustan M. Leino"],
-	"booktitle": "PASTE",
+	"author": [
+		"Michael Barnett",
+		"K. Rustan M. Leino"
+	],
+	"booktitle": "Proceedings of the Sixth Workshop on Program Analysis for Software Tools and Engineering",
+	"booktitleshort": "PASTE",
 	"crossref": "conf/paste/2005",
 	"dblpkey": "conf/paste/BarnettL05",
 	"doi": "10.1145/1108792.1108813",
 	"ee": "http://doi.acm.org/10.1145/1108792.1108813",
 	"pages": "82-87",
 	"publisher": "ACM",
-	"stemmed": ["weakest", "precondit", "of", "unstructur", "program"],
-	"tag": ["source code"],
+	"stemmed": [
+		"weakest",
+		"precondit",
+		"of",
+		"unstructur",
+		"program"
+	],
+	"tag": [
+		"source code"
+	],
 	"title": "Weakest-precondition of unstructured programs",
 	"type": "inproceedings",
 	"venue": "PASTE",

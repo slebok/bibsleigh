@@ -1,13 +1,34 @@
 {
-	"author": ["Armin Biere", "Alessandro Cimatti", "Edmund M. Clarke", "Masahiro Fujita", "Yunshan Zhu"],
-	"booktitle": "DAC",
+	"author": [
+		"Armin Biere",
+		"Alessandro Cimatti",
+		"Edmund M. Clarke",
+		"Masahiro Fujita",
+		"Yunshan Zhu"
+	],
+	"booktitle": "Proceedings of the 36th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/BiereCCFZ99",
 	"doi": "10.1145/309847.309942",
 	"ee": "http://doi.acm.org/10.1145/309847.309942",
 	"pages": "317-320",
 	"publisher": "ACM Press",
-	"stemmed": ["symbol", "model", "check", "use", "sat", "procedur", "instead", "of", "bdds"],
-	"tag": ["model checking", "satisfiability", "using"],
+	"stemmed": [
+		"symbol",
+		"model",
+		"check",
+		"use",
+		"sat",
+		"procedur",
+		"instead",
+		"of",
+		"bdds"
+	],
+	"tag": [
+		"model checking",
+		"satisfiability",
+		"using"
+	],
 	"title": "Symbolic Model Checking Using SAT Procedures instead of BDDs",
 	"type": "inproceedings",
 	"venue": "DAC",

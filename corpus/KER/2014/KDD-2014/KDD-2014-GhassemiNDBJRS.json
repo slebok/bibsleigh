@@ -1,14 +1,35 @@
 {
-	"author": ["Marzyeh Ghassemi", "Tristan Naumann", "Finale Doshi-Velez", "Nicole Brimmer", "Rohit Joshi", "Anna Rumshisky", "Peter Szolovits"],
-	"booktitle": "KDD",
+	"author": [
+		"Marzyeh Ghassemi",
+		"Tristan Naumann",
+		"Finale Doshi-Velez",
+		"Nicole Brimmer",
+		"Rohit Joshi",
+		"Anna Rumshisky",
+		"Peter Szolovits"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/GhassemiNDBJRS14",
 	"doi": "10.1145/2623330.2623742",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623742",
 	"pages": "75-84",
 	"publisher": "ACM",
-	"stemmed": ["unfold", "physiolog", "state", "mortal", "model", "in", "intens", "care", "unit"],
-	"tag": ["modelling"],
+	"stemmed": [
+		"unfold",
+		"physiolog",
+		"state",
+		"mortal",
+		"model",
+		"in",
+		"intens",
+		"care",
+		"unit"
+	],
+	"tag": [
+		"modelling"
+	],
 	"title": "Unfolding physiological state: mortality modelling in intensive care units",
 	"type": "inproceedings",
 	"venue": "KDD",

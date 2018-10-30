@@ -1,6 +1,11 @@
 {
-	"author": ["Sriram Sankaranarayanan", "Henny B. Sipma", "Zohar Manna"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Sriram Sankaranarayanan",
+		"Henny B. Sipma",
+		"Zohar Manna"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2005",
 	"dblpkey": "conf/vmcai/SankaranarayananSM05",
 	"doi": "10.1007/978-3-540-30579-8_2",
@@ -10,11 +15,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["scalabl", "analysi", "of", "linear", "system", "use", "mathemat", "program"],
-	"tag": ["analysis", "linear", "programming", "scalability", "using"],
+	"stemmed": [
+		"scalabl",
+		"analysi",
+		"of",
+		"linear",
+		"system",
+		"use",
+		"mathemat",
+		"program"
+	],
+	"tag": [
+		"analysis",
+		"linear",
+		"programming",
+		"scalability",
+		"using"
+	],
 	"title": "Scalable Analysis of Linear Systems Using Mathematical Programming",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3385,
+	"volume": "3385",
 	"year": 2005
 }

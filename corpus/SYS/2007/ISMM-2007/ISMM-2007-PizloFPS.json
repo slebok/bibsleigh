@@ -1,14 +1,34 @@
 {
-	"author": ["Filip Pizlo", "Daniel Frampton", "Erez Petrank", "Bjarne Steensgaard"],
-	"booktitle": "ISMM",
+	"author": [
+		"Filip Pizlo",
+		"Daniel Frampton",
+		"Erez Petrank",
+		"Bjarne Steensgaard"
+	],
+	"booktitle": "Proceedings of the Sixth International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2007",
 	"dblpkey": "conf/iwmm/PizloFPS07",
 	"doi": "10.1145/1296907.1296927",
 	"ee": "http://doi.acm.org/10.1145/1296907.1296927",
 	"pages": "159-172",
 	"publisher": "ACM",
-	"stemmed": ["stopless", "a", "real", "time", "garbag", "collector", "for", "multiprocessor"],
-	"tag": ["garbage collection", "multi", "named", "realtime"],
+	"stemmed": [
+		"stopless",
+		"a",
+		"real",
+		"time",
+		"garbag",
+		"collector",
+		"for",
+		"multiprocessor"
+	],
+	"tag": [
+		"garbage collection",
+		"multi",
+		"named",
+		"realtime"
+	],
 	"title": "Stopless: a real-time garbage collector for multiprocessors",
 	"type": "inproceedings",
 	"venue": "ISMM",

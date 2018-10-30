@@ -1,14 +1,43 @@
 {
-	"author": ["Weimin Du", "Ravi Krishnamurthy", "Ming-Chien Shan"],
-	"booktitle": "VLDB",
-	"cite": ["journals/computer/AhmedSDKKLRS91", "conf/vldb/BittonDT83", "conf/edbt/ChimentiGK90", "books/mg/CeriP84", "...", "conf/sigmod/GangulyHK92", "...", "...", "...", "conf/vldb/KrishnamurthyBZ86", "...", "conf/sigmod/SelingerACLP79", "journals/tods/WhangK90"],
+	"author": [
+		"Weimin Du",
+		"Ravi Krishnamurthy",
+		"Ming-Chien Shan"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/computer/AhmedSDKKLRS91",
+		"conf/vldb/BittonDT83",
+		"conf/edbt/ChimentiGK90",
+		"books/mg/CeriP84",
+		"...",
+		"conf/sigmod/GangulyHK92",
+		"...",
+		"...",
+		"...",
+		"conf/vldb/KrishnamurthyBZ86",
+		"...",
+		"conf/sigmod/SelingerACLP79",
+		"journals/tods/WhangK90"
+	],
 	"crossref": "conf/vldb/92",
 	"dblpkey": "conf/vldb/DuKS92",
 	"ee": "http://www.vldb.org/conf/1992/P277.PDF",
 	"pages": "277-291",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["queri", "optim", "in", "a", "heterogen", "dbms"],
-	"tag": ["optimisation", "query"],
+	"stemmed": [
+		"queri",
+		"optim",
+		"in",
+		"a",
+		"heterogen",
+		"dbms"
+	],
+	"tag": [
+		"optimisation",
+		"query"
+	],
 	"title": "Query Optimization in a Heterogeneous DBMS",
 	"type": "inproceedings",
 	"venue": "VLDB",

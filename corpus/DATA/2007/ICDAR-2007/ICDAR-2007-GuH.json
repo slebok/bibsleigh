@@ -1,6 +1,10 @@
 {
-	"author": ["G. Gu", "W. Han"],
-	"booktitle": "ICDAR",
+	"author": [
+		"G. Gu",
+		"W. Han"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/GuH07",
 	"doi": "10.1109/ICDAR.2007.42",
@@ -8,8 +12,20 @@
 	"pages": "223-226",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["adapt", "window", "base", "uneven", "light", "document", "segment"],
-	"tag": ["adaptation", "documentation", "segmentation"],
+	"stemmed": [
+		"adapt",
+		"window",
+		"base",
+		"uneven",
+		"light",
+		"document",
+		"segment"
+	],
+	"tag": [
+		"adaptation",
+		"documentation",
+		"segmentation"
+	],
 	"title": "Adaptive Window Based Uneven Lighting Document Segmentation",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,13 +1,32 @@
 {
-	"author": ["Vu Le", "Chengnian Sun", "Zhendong Su"],
-	"booktitle": "OOPSLA",
+	"author": [
+		"Vu Le",
+		"Chengnian Sun",
+		"Zhendong Su"
+	],
+	"booktitle": "Proceedings of the 30th Conference on Object-Oriented Programming, Systems, Languages and Applications",
+	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2015",
 	"dblpkey": "conf/oopsla/LeSS15",
 	"doi": "10.1145/2814270.2814319",
 	"pages": "386-399",
 	"publisher": "ACM",
-	"stemmed": ["find", "deep", "compil", "bug", "via", "guid", "stochast", "program", "mutat"],
-	"tag": ["compilation", "debugging", "probability"],
+	"stemmed": [
+		"find",
+		"deep",
+		"compil",
+		"bug",
+		"via",
+		"guid",
+		"stochast",
+		"program",
+		"mutat"
+	],
+	"tag": [
+		"compilation",
+		"debugging",
+		"probability"
+	],
 	"title": "Finding deep compiler bugs via guided stochastic program mutation",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

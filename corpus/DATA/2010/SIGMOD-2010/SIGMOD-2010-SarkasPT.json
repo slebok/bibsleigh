@@ -1,6 +1,10 @@
 {
-	"author": ["Nikos Sarkas", "Stelios Paparizos", "Panayiotis Tsaparas"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Nikos Sarkas",
+		"Stelios Paparizos",
+		"Panayiotis Tsaparas"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/SarkasPT10",
@@ -8,8 +12,17 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807251",
 	"pages": "771-782",
 	"publisher": "ACM",
-	"stemmed": ["structur", "annot", "of", "web", "queri"],
-	"tag": ["query", "web"],
+	"stemmed": [
+		"structur",
+		"annot",
+		"of",
+		"web",
+		"queri"
+	],
+	"tag": [
+		"query",
+		"web"
+	],
 	"title": "Structured annotations of web queries",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,15 +1,38 @@
 {
-	"author": ["Yingmin Li", "Benjamin C. Lee", "David M. Brooks", "Zhigang Hu", "Kevin Skadron"],
-	"booktitle": "HPCA",
+	"author": [
+		"Yingmin Li",
+		"Benjamin C. Lee",
+		"David M. Brooks",
+		"Zhigang Hu",
+		"Kevin Skadron"
+	],
+	"booktitle": "Proceedings of the 12th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2006",
 	"dblpkey": "conf/hpca/LiLBHS06",
 	"doi": "10.1109/HPCA.2006.1598109",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2006.1598109", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2006.1598109"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2006.1598109",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2006.1598109"
+	],
 	"pages": "17-28",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["cmp", "design", "space", "explor", "subject", "to", "physic", "constraint"],
-	"tag": ["constraints", "design", "physics"],
+	"stemmed": [
+		"cmp",
+		"design",
+		"space",
+		"explor",
+		"subject",
+		"to",
+		"physic",
+		"constraint"
+	],
+	"tag": [
+		"constraints",
+		"design",
+		"physics"
+	],
 	"title": "CMP design space exploration subject to physical constraints",
 	"type": "inproceedings",
 	"venue": "HPCA",

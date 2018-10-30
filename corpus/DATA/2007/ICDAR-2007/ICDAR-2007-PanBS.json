@@ -1,6 +1,11 @@
 {
-	"author": ["Wumo Pan", "Tien D. Bui", "Ching Y. Suen"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Wumo Pan",
+		"Tien D. Bui",
+		"Ching Y. Suen"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/PanBS07",
 	"doi": "10.1109/ICDAR.2007.246",
@@ -8,8 +13,20 @@
 	"pages": "412-416",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["text", "segment", "from", "complex", "background", "use", "spars", "represent"],
-	"tag": ["segmentation", "using"],
+	"stemmed": [
+		"text",
+		"segment",
+		"from",
+		"complex",
+		"background",
+		"use",
+		"spars",
+		"represent"
+	],
+	"tag": [
+		"segmentation",
+		"using"
+	],
 	"title": "Text Segmentation from Complex Background Using Sparse Representations",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,13 +1,34 @@
 {
-	"acmid": 811696,
-	"author": ["Toshiro Akino", "Masafumi Shimode", "Yukinaga Kurashige", "Toshio Negishi"],
-	"booktitle": "DAC",
+	"acmid": "811696",
+	"author": [
+		"Toshiro Akino",
+		"Masafumi Shimode",
+		"Yukinaga Kurashige",
+		"Toshio Negishi"
+	],
+	"booktitle": "Proceedings of the 16th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1979",
 	"dblpkey": "conf/dac/AkinoSKN79",
 	"pages": "88-94",
 	"publisher": "ACM",
-	"stemmed": ["circuit", "simul", "and", "time", "verif", "base", "on", "mos", "lsi", "mask", "inform"],
-	"tag": ["simulation", "verification"],
+	"stemmed": [
+		"circuit",
+		"simul",
+		"and",
+		"time",
+		"verif",
+		"base",
+		"on",
+		"mos",
+		"lsi",
+		"mask",
+		"inform"
+	],
+	"tag": [
+		"simulation",
+		"verification"
+	],
 	"title": "Circuit simulation and timing verification based on MOS/LSI mask information",
 	"type": "inproceedings",
 	"venue": "DAC",

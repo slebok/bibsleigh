@@ -1,6 +1,7 @@
 {
 	"author": "Peter H. Schmitt",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Eighth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1986",
 	"dblpkey": "conf/cade/Schmitt86",
 	"doi": "10.1007/3-540-16780-3_90",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["comput", "aspect", "of", "three", "valu", "logic"],
-	"tag": ["aspect-oriented", "logic"],
+	"stemmed": [
+		"comput",
+		"aspect",
+		"of",
+		"three",
+		"valu",
+		"logic"
+	],
+	"tag": [
+		"aspect-oriented",
+		"logic"
+	],
 	"title": "Computational Aspects of Three-Valued Logic",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 230,
+	"volume": "230",
 	"year": 1986
 }

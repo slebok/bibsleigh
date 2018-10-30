@@ -1,12 +1,22 @@
 {
-	"acmid": 1251234,
-	"author": ["Julita Corbalán", "Xavier Martorell", "Jesús Labarta"],
-	"booktitle": "OSDI",
+	"acmid": "1251234",
+	"author": [
+		"Julita Corbalán",
+		"Xavier Martorell",
+		"Jesús Labarta"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2000",
 	"dblpkey": "conf/osdi/CorbalanML00",
 	"pages": "59-73",
 	"publisher": "USENIX Association",
-	"stemmed": ["perform", "driven", "processor", "alloc"],
+	"stemmed": [
+		"perform",
+		"driven",
+		"processor",
+		"alloc"
+	],
 	"title": "Performance-Driven Processor Allocation",
 	"type": "inproceedings",
 	"venue": "OSDI",

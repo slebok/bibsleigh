@@ -1,14 +1,32 @@
 {
-	"author": ["John W. Romein", "P. Chris Broekema", "Jan David Mol", "Rob van Nieuwpoort"],
-	"booktitle": "PPOPP",
+	"author": [
+		"John W. Romein",
+		"P. Chris Broekema",
+		"Jan David Mol",
+		"Rob van Nieuwpoort"
+	],
+	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/RomeinBMN10",
 	"doi": "10.1145/1693453.1693477",
 	"ee": "http://doi.acm.org/10.1145/1693453.1693477",
 	"pages": "169-178",
 	"publisher": "ACM",
-	"stemmed": ["the", "lofar", "correl", "implement", "and", "perform", "analysi"],
-	"tag": ["analysis", "implementation", "performance"],
+	"stemmed": [
+		"the",
+		"lofar",
+		"correl",
+		"implement",
+		"and",
+		"perform",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"implementation",
+		"performance"
+	],
 	"title": "The LOFAR correlator: implementation and performance analysis",
 	"type": "inproceedings",
 	"venue": "PPoPP",

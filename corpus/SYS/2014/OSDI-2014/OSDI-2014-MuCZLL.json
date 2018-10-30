@@ -1,13 +1,31 @@
 {
-	"author": ["Shuai Mu", "Yang Cui", "Yang Zhang", "Wyatt Lloyd", "Jinyang Li"],
-	"booktitle": "OSDI",
+	"author": [
+		"Shuai Mu",
+		"Yang Cui",
+		"Yang Zhang",
+		"Wyatt Lloyd",
+		"Jinyang Li"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2014",
 	"dblpkey": "conf/osdi/MuCZLL14",
 	"ee": "https://www.usenix.org/conference/osdi14/technical-sessions/presentation/mu",
 	"pages": "479-494",
 	"publisher": "USENIX Association",
-	"stemmed": ["extract", "more", "concurr", "from", "distribut", "transact"],
-	"tag": ["concurrent", "distributed", "transaction"],
+	"stemmed": [
+		"extract",
+		"more",
+		"concurr",
+		"from",
+		"distribut",
+		"transact"
+	],
+	"tag": [
+		"concurrent",
+		"distributed",
+		"transaction"
+	],
 	"title": "Extracting More Concurrency from Distributed Transactions",
 	"type": "inproceedings",
 	"venue": "OSDI",

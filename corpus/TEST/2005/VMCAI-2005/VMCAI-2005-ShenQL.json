@@ -1,6 +1,11 @@
 {
-	"author": ["ShengYu Shen", "Ying Qin", "Sikun Li"],
-	"booktitle": "VMCAI",
+	"author": [
+		"ShengYu Shen",
+		"Ying Qin",
+		"Sikun Li"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2005",
 	"dblpkey": "conf/vmcai/ShenQL05",
 	"doi": "10.1007/978-3-540-30579-8_20",
@@ -10,11 +15,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["minim", "counterexampl", "with", "unit", "core", "extract", "and", "increment", "sat"],
-	"tag": ["incremental", "satisfiability"],
+	"stemmed": [
+		"minim",
+		"counterexampl",
+		"with",
+		"unit",
+		"core",
+		"extract",
+		"and",
+		"increment",
+		"sat"
+	],
+	"tag": [
+		"incremental",
+		"satisfiability"
+	],
 	"title": "Minimizing Counterexample with Unit Core Extraction and Incremental SAT",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 3385,
+	"volume": "3385",
 	"year": 2005
 }

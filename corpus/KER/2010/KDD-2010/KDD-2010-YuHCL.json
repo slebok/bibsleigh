@@ -1,14 +1,36 @@
 {
-	"author": ["Hsiang-Fu Yu", "Cho-Jui Hsieh", "Kai-Wei Chang", "Chih-Jen Lin"],
-	"booktitle": "KDD",
+	"author": [
+		"Hsiang-Fu Yu",
+		"Cho-Jui Hsieh",
+		"Kai-Wei Chang",
+		"Chih-Jen Lin"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/YuHCL10",
 	"doi": "10.1145/1835804.1835910",
 	"ee": "http://doi.acm.org/10.1145/1835804.1835910",
 	"pages": "833-842",
 	"publisher": "ACM",
-	"stemmed": ["larg", "linear", "classif", "when", "data", "cannot", "fit", "in", "memori"],
-	"tag": ["classification", "in memory", "linear", "memory management", "scalability"],
+	"stemmed": [
+		"larg",
+		"linear",
+		"classif",
+		"when",
+		"data",
+		"cannot",
+		"fit",
+		"in",
+		"memori"
+	],
+	"tag": [
+		"classification",
+		"in memory",
+		"linear",
+		"memory management",
+		"scalability"
+	],
 	"title": "Large linear classification when data cannot fit in memory",
 	"type": "inproceedings",
 	"venue": "KDD",

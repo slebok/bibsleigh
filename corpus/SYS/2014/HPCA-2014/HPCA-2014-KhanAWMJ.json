@@ -1,6 +1,13 @@
 {
-	"author": ["Samira Manabi Khan", "Alaa R. Alameldeen", "Chris Wilkerson", "Onur Mutlu", "Daniel A. Jiménez"],
-	"booktitle": "HPCA",
+	"author": [
+		"Samira Manabi Khan",
+		"Alaa R. Alameldeen",
+		"Chris Wilkerson",
+		"Onur Mutlu",
+		"Daniel A. Jiménez"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/KhanAWMJ14",
 	"doi": "10.1109/HPCA.2014.6835954",
@@ -8,8 +15,20 @@
 	"pages": "452-463",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["improv", "cach", "perform", "use", "read", "write", "partit"],
-	"tag": ["clustering", "performance", "using"],
+	"stemmed": [
+		"improv",
+		"cach",
+		"perform",
+		"use",
+		"read",
+		"write",
+		"partit"
+	],
+	"tag": [
+		"clustering",
+		"performance",
+		"using"
+	],
 	"title": "Improving cache performance using read-write partitioning",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,13 +1,33 @@
 {
-	"acmid": 802313,
-	"author": ["Pauline Ng", "Wolfram Glauert", "Robert Kirk"],
-	"booktitle": "DAC",
+	"acmid": "802313",
+	"author": [
+		"Pauline Ng",
+		"Wolfram Glauert",
+		"Robert Kirk"
+	],
+	"booktitle": "Proceedings of the 18th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1981",
 	"dblpkey": "conf/dac/NgGK81",
 	"pages": "288-292",
 	"publisher": "ACM/IEEE",
-	"stemmed": ["a", "time", "verif", "system", "base", "on", "extract", "mos", "vlsi", "circuit", "paramet"],
-	"tag": ["parametricity", "verification"],
+	"stemmed": [
+		"a",
+		"time",
+		"verif",
+		"system",
+		"base",
+		"on",
+		"extract",
+		"mos",
+		"vlsi",
+		"circuit",
+		"paramet"
+	],
+	"tag": [
+		"parametricity",
+		"verification"
+	],
 	"title": "A timing verification system based on extracted MOS/VLSI circuit parameters",
 	"type": "inproceedings",
 	"venue": "DAC",

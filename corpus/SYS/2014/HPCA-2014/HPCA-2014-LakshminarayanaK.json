@@ -1,6 +1,10 @@
 {
-	"author": ["Nagesh B. Lakshminarayana", "Hyesoon Kim"],
-	"booktitle": "HPCA",
+	"author": [
+		"Nagesh B. Lakshminarayana",
+		"Hyesoon Kim"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/LakshminarayanaK14",
 	"doi": "10.1109/HPCA.2014.6835970",
@@ -8,8 +12,21 @@
 	"pages": "614-625",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["spare", "regist", "awar", "prefetch", "for", "graph", "algorithm", "on", "gpus"],
-	"tag": ["algorithm", "graph"],
+	"stemmed": [
+		"spare",
+		"regist",
+		"awar",
+		"prefetch",
+		"for",
+		"graph",
+		"algorithm",
+		"on",
+		"gpus"
+	],
+	"tag": [
+		"algorithm",
+		"graph"
+	],
 	"title": "Spare register aware prefetching for graph algorithms on GPUs",
 	"type": "inproceedings",
 	"venue": "HPCA",

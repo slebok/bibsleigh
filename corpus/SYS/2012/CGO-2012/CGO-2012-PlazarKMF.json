@@ -1,13 +1,27 @@
 {
-	"author": ["Sascha Plazar", "Jan C. Kleinsorge", "Peter Marwedel", "Heiko Falk"],
-	"booktitle": "CGO",
+	"author": [
+		"Sascha Plazar",
+		"Jan C. Kleinsorge",
+		"Peter Marwedel",
+		"Heiko Falk"
+	],
+	"booktitle": "Proceedings of the 10th International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2012",
 	"dblpkey": "conf/cgo/PlazarKMF12",
 	"doi": "10.1145/2259016.2259023",
 	"ee": "http://doi.acm.org/10.1145/2259016.2259023",
 	"pages": "44-52",
 	"publisher": "ACM",
-	"stemmed": ["wcet", "awar", "static", "lock", "of", "instruct", "cach"],
+	"stemmed": [
+		"wcet",
+		"awar",
+		"static",
+		"lock",
+		"of",
+		"instruct",
+		"cach"
+	],
 	"title": "WCET-aware static locking of instruction caches",
 	"type": "inproceedings",
 	"venue": "CGO",

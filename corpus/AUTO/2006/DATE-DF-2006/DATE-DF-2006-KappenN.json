@@ -1,14 +1,34 @@
 {
-	"author": ["Götz Kappen", "Tobias G. Noll"],
-	"booktitle": "DATE Designers’ Forum",
+	"author": [
+		"Götz Kappen",
+		"Tobias G. Noll"
+	],
+	"booktitle": "Proceedings of the 10th Conference on Design, Automation and Test in Europe: Designers’ Forum",
+	"booktitleshort": "DATE Designers’ Forum",
 	"crossref": "conf/date/2006",
 	"dblpkey": "conf/date/KappenN06",
 	"doi": "10.1145/1131355.1131368",
 	"ee": "http://doi.acm.org/10.1145/1131355.1131368",
 	"pages": "58-63",
 	"publisher": "European Design and Automation Association, Leuven, Belgium",
-	"stemmed": ["applic", "specif", "instruct", "processor", "base", "implement", "of", "a", "gnss", "receiv", "on", "an", "fpga"],
-	"tag": ["implementation"],
+	"stemmed": [
+		"applic",
+		"specif",
+		"instruct",
+		"processor",
+		"base",
+		"implement",
+		"of",
+		"a",
+		"gnss",
+		"receiv",
+		"on",
+		"an",
+		"fpga"
+	],
+	"tag": [
+		"implementation"
+	],
 	"title": "Application specific instruction processor based implementation of a GNSS receiver on an FPGA",
 	"type": "inproceedings",
 	"venue": "DATE",

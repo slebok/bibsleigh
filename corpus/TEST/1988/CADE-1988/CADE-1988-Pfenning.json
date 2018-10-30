@@ -1,6 +1,7 @@
 {
 	"author": "Frank Pfenning",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/Pfenning88",
 	"doi": "10.1007/BFb0012869",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["singl", "axiom", "in", "the", "implic", "proposit", "calculus"],
-	"tag": ["axiom", "calculus"],
+	"stemmed": [
+		"singl",
+		"axiom",
+		"in",
+		"the",
+		"implic",
+		"proposit",
+		"calculus"
+	],
+	"tag": [
+		"axiom",
+		"calculus"
+	],
 	"title": "Single Axioms in the Implicational Propositional Calculus",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

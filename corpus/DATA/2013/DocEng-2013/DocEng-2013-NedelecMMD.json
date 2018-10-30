@@ -1,15 +1,38 @@
 {
-	"author": ["Brice Nédelec", "Pascal Molli", "Achour Mostéfaoui", "Emmanuel Desmontils"],
-	"booktitle": "ACM Symposium on Document Engineering",
-	"booktitleshort": "DocEng",
+	"author": [
+		"Brice Nédelec",
+		"Pascal Molli",
+		"Achour Mostéfaoui",
+		"Emmanuel Desmontils"
+	],
+	"booktitle": "Proceedings of the 13th Symposium on Document Engineering",
+	"booktitleshort": "ACM Symposium on Document Engineering",
 	"crossref": "conf/doceng/2013",
 	"dblpkey": "conf/doceng/NedelecMMD13",
 	"doi": "10.1145/2494266.2494278",
 	"ee": "http://doi.acm.org/10.1145/2494266.2494278",
 	"pages": "37-46",
 	"publisher": "ACM",
-	"stemmed": ["lseq", "an", "adapt", "structur", "for", "sequenc", "in", "distribut", "collabor", "edit"],
-	"tag": ["adaptation", "collaboration", "distributed", "editing", "named", "sequence"],
+	"stemmed": [
+		"lseq",
+		"an",
+		"adapt",
+		"structur",
+		"for",
+		"sequenc",
+		"in",
+		"distribut",
+		"collabor",
+		"edit"
+	],
+	"tag": [
+		"adaptation",
+		"collaboration",
+		"distributed",
+		"editing",
+		"named",
+		"sequence"
+	],
 	"title": "LSEQ: an adaptive structure for sequences in distributed collaborative editing",
 	"type": "inproceedings",
 	"venue": "DocEng",

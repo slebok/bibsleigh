@@ -1,17 +1,41 @@
 {
-	"author": ["Gus Lopez", "Bjørn N. Freeman-Benson", "Alan Borning"],
-	"booktitle": "Proceedings of the Ninth Annual Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"author": [
+		"Gus Lopez",
+		"Bjørn N. Freeman-Benson",
+		"Alan Borning"
+	],
+	"booktitle": "Proceedings of the Ninth Annual Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1994",
 	"dblpkey": "conf/oopsla/LopezFB94",
 	"doi": "10.1145/191080.191118",
-	"editor": ["Jeff McKenna", "J. Eliot B. Moss", "Richard L. Wexelblat"],
+	"editor": [
+		"Jeff McKenna",
+		"J. Eliot B. Moss",
+		"Richard L. Wexelblat"
+	],
 	"ee": "http://doi.acm.org/10.1145/191080.191118",
 	"isbn": "0-89791-688-3",
 	"pages": "259-271",
 	"publisher": "ACM",
-	"stemmed": ["implement", "constraint", "imper", "program", "languag", "the", "kaleidospac", "virtual", "machin"],
-	"tag": ["constraints", "imperative", "implementation", "programming language", "virtual machine"],
+	"stemmed": [
+		"implement",
+		"constraint",
+		"imper",
+		"program",
+		"languag",
+		"the",
+		"kaleidospac",
+		"virtual",
+		"machin"
+	],
+	"tag": [
+		"constraints",
+		"imperative",
+		"implementation",
+		"programming language",
+		"virtual machine"
+	],
 	"title": "Implementing Constraint Imperative Programming Languages: The Kaleidospace’93 Virtual Machine",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

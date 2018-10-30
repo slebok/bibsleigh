@@ -1,14 +1,27 @@
 {
-	"author": ["Yehuda Afek", "David Dice", "Adam Morrison"],
-	"booktitle": "ISMM",
+	"author": [
+		"Yehuda Afek",
+		"David Dice",
+		"Adam Morrison"
+	],
+	"booktitle": "Proceedings of the 10th International Symposium on Memory Management",
+	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2011",
 	"dblpkey": "conf/iwmm/AfekDM11",
 	"doi": "10.1145/1993478.1993486",
 	"ee": "http://doi.acm.org/10.1145/1993478.1993486",
 	"pages": "55-64",
 	"publisher": "ACM",
-	"stemmed": ["cach", "index", "awar", "memori", "alloc"],
-	"tag": ["memory management"],
+	"stemmed": [
+		"cach",
+		"index",
+		"awar",
+		"memori",
+		"alloc"
+	],
+	"tag": [
+		"memory management"
+	],
 	"title": "Cache index-aware memory allocation",
 	"type": "inproceedings",
 	"venue": "ISMM",

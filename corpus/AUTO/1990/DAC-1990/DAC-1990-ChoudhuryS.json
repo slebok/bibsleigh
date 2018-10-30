@@ -1,13 +1,27 @@
 {
-	"author": ["Umakanta Choudhury", "Alberto L. Sangiovanni-Vincentelli"],
-	"booktitle": "DAC",
+	"author": [
+		"Umakanta Choudhury",
+		"Alberto L. Sangiovanni-Vincentelli"
+	],
+	"booktitle": "Proceedings of the 27th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/ChoudhuryS90",
 	"doi": "10.1145/123186.123403",
 	"ee": "http://doi.acm.org/10.1145/123186.123403",
 	"pages": "561-566",
 	"publisher": "IEEE Computer Society Press",
-	"stemmed": ["constraint", "generat", "for", "rout", "analog", "circuit"],
-	"tag": ["constraints", "generative"],
+	"stemmed": [
+		"constraint",
+		"generat",
+		"for",
+		"rout",
+		"analog",
+		"circuit"
+	],
+	"tag": [
+		"constraints",
+		"generative"
+	],
 	"title": "Constraint Generation for Routing Analog Circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

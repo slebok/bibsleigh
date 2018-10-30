@@ -1,6 +1,10 @@
 {
-	"author": ["Andreas Moshovos", "Gurindar S. Sohi"],
-	"booktitle": "HPCA",
+	"author": [
+		"Andreas Moshovos",
+		"Gurindar S. Sohi"
+	],
+	"booktitle": "Proceedings of the Sixth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2000",
 	"dblpkey": "conf/hpca/MoshovosS00",
 	"doi": "10.1109/HPCA.2000.824359",
@@ -8,8 +12,23 @@
 	"pages": "301-312",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["memori", "depend", "specul", "tradeoff", "in", "central", "continu", "window", "superscalar", "processor"],
-	"tag": ["dependence", "memory management", "trade-off"],
+	"stemmed": [
+		"memori",
+		"depend",
+		"specul",
+		"tradeoff",
+		"in",
+		"central",
+		"continu",
+		"window",
+		"superscalar",
+		"processor"
+	],
+	"tag": [
+		"dependence",
+		"memory management",
+		"trade-off"
+	],
 	"title": "Memory Dependence Speculation Tradeoffs in Centralized, Continuous-Window Superscalar Processors",
 	"type": "inproceedings",
 	"venue": "HPCA",

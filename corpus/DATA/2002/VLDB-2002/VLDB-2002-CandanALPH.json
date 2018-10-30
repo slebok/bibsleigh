@@ -1,13 +1,33 @@
 {
-	"author": ["K. Selçuk Candan", "Divyakant Agrawal", "Wen-Syan Li", "Oliver Po", "Wang-Pin Hsiung"],
-	"booktitle": "VLDB",
+	"author": [
+		"K. Selçuk Candan",
+		"Divyakant Agrawal",
+		"Wen-Syan Li",
+		"Oliver Po",
+		"Wang-Pin Hsiung"
+	],
+	"booktitle": "Proceedings of the 28th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2002",
 	"dblpkey": "conf/vldb/CandanALPH02",
 	"ee": "http://www.vldb.org/conf/2002/S16P02.pdf",
 	"pages": "562-573",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["view", "invalid", "for", "dynam", "content", "cach", "in", "multiti", "architectur"],
-	"tag": ["architecture", "multi"],
+	"stemmed": [
+		"view",
+		"invalid",
+		"for",
+		"dynam",
+		"content",
+		"cach",
+		"in",
+		"multiti",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"multi"
+	],
 	"title": "View Invalidation for Dynamic Content Caching in Multitiered Architectures",
 	"type": "inproceedings",
 	"venue": "VLDB",

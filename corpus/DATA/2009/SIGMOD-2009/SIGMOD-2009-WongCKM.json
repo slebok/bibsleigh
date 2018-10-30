@@ -1,6 +1,11 @@
 {
-	"author": ["Wai Kit Wong", "David Wai-Lok Cheung", "Ben Kao", "Nikos Mamoulis"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Wai Kit Wong",
+		"David Wai-Lok Cheung",
+		"Ben Kao",
+		"Nikos Mamoulis"
+	],
+	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/WongCKM09",
@@ -8,8 +13,17 @@
 	"ee": "http://doi.acm.org/10.1145/1559845.1559862",
 	"pages": "139-152",
 	"publisher": "ACM",
-	"stemmed": ["secur", "knn", "comput", "on", "encrypt", "databas"],
-	"tag": ["database"],
+	"stemmed": [
+		"secur",
+		"knn",
+		"comput",
+		"on",
+		"encrypt",
+		"databas"
+	],
+	"tag": [
+		"database"
+	],
 	"title": "Secure kNN computation on encrypted databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

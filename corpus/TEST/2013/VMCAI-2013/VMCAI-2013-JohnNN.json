@@ -1,6 +1,11 @@
 {
-	"author": ["Mathias John", "Mirabelle Nebut", "Joachim Niehren"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Mathias John",
+		"Mirabelle Nebut",
+		"Joachim Niehren"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2013",
 	"dblpkey": "conf/vmcai/JohnNN13",
 	"doi": "10.1007/978-3-642-35873-9_22",
@@ -10,11 +15,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["knockout", "predict", "for", "reaction", "network", "with", "partial", "kinet", "inform"],
-	"tag": ["network", "predict"],
+	"stemmed": [
+		"knockout",
+		"predict",
+		"for",
+		"reaction",
+		"network",
+		"with",
+		"partial",
+		"kinet",
+		"inform"
+	],
+	"tag": [
+		"network",
+		"predict"
+	],
 	"title": "Knockout Prediction for Reaction Networks with Partial Kinetic Information",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 7737,
+	"volume": "7737",
 	"year": 2013
 }

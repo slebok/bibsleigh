@@ -1,16 +1,42 @@
 {
-	"acmid": 1252545,
-	"author": ["Özcan Özturk", "Guilin Chen", "Mahmut T. Kandemir", "Mustafa Karaköy"],
-	"booktitle": "CGO",
+	"acmid": "1252545",
+	"author": [
+		"Özcan Özturk",
+		"Guilin Chen",
+		"Mahmut T. Kandemir",
+		"Mustafa Karaköy"
+	],
+	"booktitle": "Proceedings of the Fifth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2007",
 	"dblpkey": "conf/cgo/OzturkCKK07",
 	"doi": "10.1109/CGO.2007.6",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2007.6", "http://doi.ieeecomputersociety.org/10.1109/CGO.2007.6", "http://dl.acm.org/citation.cfm?id=1252545"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2007.6",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2007.6",
+		"http://dl.acm.org/citation.cfm?id=1252545"
+	],
 	"pages": "232-243",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["compil", "direct", "variabl", "latenc", "awar", "spm", "manag", "to", "cope", "with", "time", "problem"],
-	"tag": ["latency", "problem"],
+	"stemmed": [
+		"compil",
+		"direct",
+		"variabl",
+		"latenc",
+		"awar",
+		"spm",
+		"manag",
+		"to",
+		"cope",
+		"with",
+		"time",
+		"problem"
+	],
+	"tag": [
+		"latency",
+		"problem"
+	],
 	"title": "Compiler-Directed Variable Latency Aware SPM Management to CopeWith Timing Problems",
 	"type": "inproceedings",
 	"venue": "CGO",

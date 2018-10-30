@@ -1,6 +1,7 @@
 {
 	"author": "Rainer Leupers",
-	"booktitle": "DATE",
+	"booktitle": "Proceedings of the Fifth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2000",
 	"dblpkey": "conf/date/Leupers00",
 	"doi": "10.1109/DATE.2000.840007",
@@ -8,7 +9,16 @@
 	"pages": "4-8",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["code", "select", "for", "media", "processor", "with", "simd", "instruct"],
+	"stemmed": [
+		"code",
+		"select",
+		"for",
+		"media",
+		"processor",
+		"with",
+		"simd",
+		"instruct"
+	],
 	"title": "Code Selection for Media Processors with SIMD Instructions",
 	"type": "inproceedings",
 	"venue": "DATE",

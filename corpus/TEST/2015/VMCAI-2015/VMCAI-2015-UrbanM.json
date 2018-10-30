@@ -1,6 +1,10 @@
 {
-	"author": ["Caterina Urban", "Antoine Miné"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Caterina Urban",
+		"Antoine Miné"
+	],
+	"booktitle": "Proceedings of the 16th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2015",
 	"dblpkey": "conf/vmcai/UrbanM15",
 	"doi": "10.1007/978-3-662-46081-8_11",
@@ -10,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["prove", "guarante", "and", "recurr", "tempor", "properti", "by", "abstract", "interpret"],
-	"tag": ["abstract interpretation", "proving"],
+	"stemmed": [
+		"prove",
+		"guarante",
+		"and",
+		"recurr",
+		"tempor",
+		"properti",
+		"by",
+		"abstract",
+		"interpret"
+	],
+	"tag": [
+		"abstract interpretation",
+		"proving"
+	],
 	"title": "Proving Guarantee and Recurrence Temporal Properties by Abstract Interpretation",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 8931,
+	"volume": "8931",
 	"year": 2015
 }

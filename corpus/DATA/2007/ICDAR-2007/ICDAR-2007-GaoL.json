@@ -1,6 +1,10 @@
 {
-	"author": ["T.-F. Gao", "C.-L. Liu"],
-	"booktitle": "ICDAR",
+	"author": [
+		"T.-F. Gao",
+		"C.-L. Liu"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/GaoL07",
 	"doi": "10.1109/ICDAR.2007.156",
@@ -8,8 +12,21 @@
 	"pages": "904-908",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["lda", "base", "compound", "distanc", "for", "handwritten", "chines", "charact", "recognit"],
-	"tag": ["distance", "recognition"],
+	"stemmed": [
+		"lda",
+		"base",
+		"compound",
+		"distanc",
+		"for",
+		"handwritten",
+		"chines",
+		"charact",
+		"recognit"
+	],
+	"tag": [
+		"distance",
+		"recognition"
+	],
 	"title": "LDA-Based Compound Distance for Handwritten Chinese Character Recognition",
 	"type": "inproceedings",
 	"venue": "ICDAR",

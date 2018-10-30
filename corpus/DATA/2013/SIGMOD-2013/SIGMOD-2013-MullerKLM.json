@@ -1,6 +1,11 @@
 {
-	"author": ["René Müller", "Tim Kaldewey", "Guy M. Lohman", "John McPherson"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"René Müller",
+		"Tim Kaldewey",
+		"Guy M. Lohman",
+		"John McPherson"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/MullerKLM13",
@@ -8,8 +13,26 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465267",
 	"pages": "961-964",
 	"publisher": "ACM",
-	"stemmed": ["wow", "what", "the", "world", "of", "data", "wareh", "can", "learn", "from", "the", "world", "of", "warcraft"],
-	"tag": ["named", "what"],
+	"stemmed": [
+		"wow",
+		"what",
+		"the",
+		"world",
+		"of",
+		"data",
+		"wareh",
+		"can",
+		"learn",
+		"from",
+		"the",
+		"world",
+		"of",
+		"warcraft"
+	],
+	"tag": [
+		"named",
+		"what"
+	],
 	"title": "WOW: what the world of (data) warehousing can learn from the World of Warcraft",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

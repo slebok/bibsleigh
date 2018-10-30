@@ -1,15 +1,40 @@
 {
-	"author": ["Sergey Milyaev", "Olga Barinova", "Tatiana Novikova", "Pushmeet Kohli", "Victor S. Lempitsky"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Sergey Milyaev",
+		"Olga Barinova",
+		"Tatiana Novikova",
+		"Pushmeet Kohli",
+		"Victor S. Lempitsky"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2013",
 	"dblpkey": "conf/icdar/MilyaevBNKL13",
 	"doi": "10.1109/ICDAR.2013.33",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2013.33", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2013.33"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2013.33",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2013.33"
+	],
 	"pages": "128-132",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["imag", "binar", "for", "end", "to", "end", "text", "understand", "in", "natur", "imag"],
-	"tag": ["comprehension", "image"],
+	"stemmed": [
+		"imag",
+		"binar",
+		"for",
+		"end",
+		"to",
+		"end",
+		"text",
+		"understand",
+		"in",
+		"natur",
+		"imag"
+	],
+	"tag": [
+		"comprehension",
+		"image"
+	],
 	"title": "Image Binarization for End-to-End Text Understanding in Natural Images",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,6 +1,10 @@
 {
-	"author": ["Yanhong A. Liu", "Gustavo Gomez"],
-	"booktitle": "LCTES",
+	"author": [
+		"Yanhong A. Liu",
+		"Gustavo Gomez"
+	],
+	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Embedded Systems",
+	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/1998",
 	"dblpkey": "conf/lctrts/LiuG98",
 	"doi": "10.1007/BFb0057778",
@@ -10,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["automat", "accur", "time", "bound", "analysi", "for", "high", "level", "languag"],
-	"tag": ["analysis", "automation", "bound"],
+	"stemmed": [
+		"automat",
+		"accur",
+		"time",
+		"bound",
+		"analysi",
+		"for",
+		"high",
+		"level",
+		"languag"
+	],
+	"tag": [
+		"analysis",
+		"automation",
+		"bound"
+	],
 	"title": "Automatic Accurate Time-Bound Analysis for High-Level Languages",
 	"type": "inproceedings",
 	"venue": "LCTES",
-	"volume": 1474,
+	"volume": "1474",
 	"year": 1998
 }

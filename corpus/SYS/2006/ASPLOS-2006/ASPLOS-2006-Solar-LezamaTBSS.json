@@ -1,14 +1,32 @@
 {
-	"author": ["Armando Solar-Lezama", "Liviu Tancau", "Rastislav Bodík", "Sanjit A. Seshia", "Vijay A. Saraswat"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Armando Solar-Lezama",
+		"Liviu Tancau",
+		"Rastislav Bodík",
+		"Sanjit A. Seshia",
+		"Vijay A. Saraswat"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/Solar-LezamaTBSS06",
 	"doi": "10.1145/1168857.1168907",
 	"ee": "http://doi.acm.org/10.1145/1168857.1168907",
 	"pages": "404-415",
 	"publisher": "ACM",
-	"stemmed": ["combinatori", "sketch", "for", "finit", "program"],
-	"tag": ["combinator", "finite", "sketching", "source code"],
+	"stemmed": [
+		"combinatori",
+		"sketch",
+		"for",
+		"finit",
+		"program"
+	],
+	"tag": [
+		"combinator",
+		"finite",
+		"sketching",
+		"source code"
+	],
 	"title": "Combinatorial sketching for finite programs",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,13 +1,30 @@
 {
-	"acmid": 804009,
-	"author": ["Ernst G. Ulrich", "Thomas E. Baker"],
-	"booktitle": "DAC",
+	"acmid": "804009",
+	"author": [
+		"Ernst G. Ulrich",
+		"Thomas E. Baker"
+	],
+	"booktitle": "Proceedings of the 10th Design Automation Workshop",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/1973",
 	"dblpkey": "conf/dac/UlrichB73",
 	"pages": "145-150",
 	"publisher": "ACM",
-	"stemmed": ["the", "concurr", "simul", "of", "near", "ident", "digit", "network"],
-	"tag": ["concurrent", "network", "simulation"],
+	"stemmed": [
+		"the",
+		"concurr",
+		"simul",
+		"of",
+		"near",
+		"ident",
+		"digit",
+		"network"
+	],
+	"tag": [
+		"concurrent",
+		"network",
+		"simulation"
+	],
 	"title": "The concurrent simulation of nearly identical digital networks",
 	"type": "inproceedings",
 	"venue": "DAC",

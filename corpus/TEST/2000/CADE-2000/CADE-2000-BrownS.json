@@ -1,6 +1,10 @@
 {
-	"author": ["Marianne Brown", "Geoff Sutcliffe"],
-	"booktitle": "CADE",
+	"author": [
+		"Marianne Brown",
+		"Geoff Sutcliffe"
+	],
+	"booktitle": "Proceedings of the 17th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2000",
 	"dblpkey": "conf/cade/BrownS00",
 	"doi": "10.1007/10721959_32",
@@ -10,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["system", "descript", "pttp", "g", "li", "des", "semant", "guid", "pttp"],
-	"tag": ["semantics"],
+	"stemmed": [
+		"system",
+		"descript",
+		"pttp",
+		"g",
+		"li",
+		"des",
+		"semant",
+		"guid",
+		"pttp"
+	],
+	"tag": [
+		"semantics"
+	],
 	"title": "System Description: PTTP+GLiDes: Semantically Guided PTTP",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1831,
+	"volume": "1831",
 	"year": 2000
 }

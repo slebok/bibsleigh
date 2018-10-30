@@ -1,15 +1,40 @@
 {
-	"author": ["Brinda Ganesh", "Aamer Jaleel", "David Wang", "Bruce L. Jacob"],
-	"booktitle": "HPCA",
+	"author": [
+		"Brinda Ganesh",
+		"Aamer Jaleel",
+		"David Wang",
+		"Bruce L. Jacob"
+	],
+	"booktitle": "Proceedings of the 13th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2007",
 	"dblpkey": "conf/hpca/GaneshJWJ07",
 	"doi": "10.1109/HPCA.2007.346190",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2007.346190", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2007.346190"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2007.346190",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2007.346190"
+	],
 	"pages": "109-120",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["fulli", "buffer", "dimm", "memori", "architectur", "understand", "mechan", "overhead", "and", "scale"],
-	"tag": ["architecture", "comprehension", "memory management", "scalability"],
+	"stemmed": [
+		"fulli",
+		"buffer",
+		"dimm",
+		"memori",
+		"architectur",
+		"understand",
+		"mechan",
+		"overhead",
+		"and",
+		"scale"
+	],
+	"tag": [
+		"architecture",
+		"comprehension",
+		"memory management",
+		"scalability"
+	],
 	"title": "Fully-Buffered DIMM Memory Architectures: Understanding Mechanisms, Overheads and Scaling",
 	"type": "inproceedings",
 	"venue": "HPCA",

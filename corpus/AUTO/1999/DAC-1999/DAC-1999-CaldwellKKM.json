@@ -1,13 +1,36 @@
 {
-	"author": ["Andrew E. Caldwell", "Andrew B. Kahng", "Andrew A. Kennings", "Igor L. Markov"],
-	"booktitle": "DAC",
+	"author": [
+		"Andrew E. Caldwell",
+		"Andrew B. Kahng",
+		"Andrew A. Kennings",
+		"Igor L. Markov"
+	],
+	"booktitle": "Proceedings of the 36th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/CaldwellKKM99",
 	"doi": "10.1145/309847.309955",
 	"ee": "http://doi.acm.org/10.1145/309847.309955",
 	"pages": "349-354",
 	"publisher": "ACM Press",
-	"stemmed": ["hypergraph", "partit", "for", "vlsi", "cad", "methodolog", "for", "heurist", "develop", "experiment", "and", "report"],
-	"tag": ["clustering", "development", "heuristic"],
+	"stemmed": [
+		"hypergraph",
+		"partit",
+		"for",
+		"vlsi",
+		"cad",
+		"methodolog",
+		"for",
+		"heurist",
+		"develop",
+		"experiment",
+		"and",
+		"report"
+	],
+	"tag": [
+		"clustering",
+		"development",
+		"heuristic"
+	],
 	"title": "Hypergraph Partitioning for VLSI CAD: Methodology for Heuristic Development, Experimentation and Reporting",
 	"type": "inproceedings",
 	"venue": "DAC",

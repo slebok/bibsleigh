@@ -1,13 +1,35 @@
 {
-	"author": ["Daniel Baudisch", "Jens Brandt", "Klaus Schneider"],
-	"booktitle": "DATE",
+	"author": [
+		"Daniel Baudisch",
+		"Jens Brandt",
+		"Klaus Schneider"
+	],
+	"booktitle": "Proceedings of the 14th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2010",
 	"dblpkey": "conf/date/BaudischBS10",
 	"ieeearid": 5456915,
 	"pages": "949-952",
 	"publisher": "IEEE",
-	"stemmed": ["multithread", "code", "from", "synchron", "program", "extract", "independ", "thread", "for", "open", "mp"],
-	"tag": ["independence", "parallel", "source code", "thread"],
+	"stemmed": [
+		"multithread",
+		"code",
+		"from",
+		"synchron",
+		"program",
+		"extract",
+		"independ",
+		"thread",
+		"for",
+		"open",
+		"mp"
+	],
+	"tag": [
+		"independence",
+		"parallel",
+		"source code",
+		"thread"
+	],
 	"title": "Multithreaded code from synchronous programs: Extracting independent threads for OpenMP",
 	"type": "inproceedings",
 	"venue": "DATE",

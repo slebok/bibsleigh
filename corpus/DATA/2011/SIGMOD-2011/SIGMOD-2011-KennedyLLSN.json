@@ -1,6 +1,12 @@
 {
-	"author": ["Oliver Kennedy", "Steve Lee", "Charles Loboz", "Slawek Smyl", "Suman Nath"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Oliver Kennedy",
+		"Steve Lee",
+		"Charles Loboz",
+		"Slawek Smyl",
+		"Suman Nath"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/KennedyLLSN11",
@@ -8,8 +14,22 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989482",
 	"pages": "1303-1306",
 	"publisher": "ACM",
-	"stemmed": ["fuzzi", "prophet", "paramet", "explor", "in", "uncertain", "enterpris", "scenario"],
-	"tag": ["enterprise", "fuzzy", "nondeterminism", "parametricity"],
+	"stemmed": [
+		"fuzzi",
+		"prophet",
+		"paramet",
+		"explor",
+		"in",
+		"uncertain",
+		"enterpris",
+		"scenario"
+	],
+	"tag": [
+		"enterprise",
+		"fuzzy",
+		"nondeterminism",
+		"parametricity"
+	],
 	"title": "Fuzzy prophet: parameter exploration in uncertain enterprise scenarios",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

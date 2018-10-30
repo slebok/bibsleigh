@@ -1,15 +1,33 @@
 {
-	"author": ["Beth Simon", "Brad Calder", "Jeanne Ferrante"],
-	"booktitle": "HPCA",
+	"author": [
+		"Beth Simon",
+		"Brad Calder",
+		"Jeanne Ferrante"
+	],
+	"booktitle": "Proceedings of the Ninth International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2003",
 	"dblpkey": "conf/hpca/SimonCF03",
 	"doi": "10.1109/HPCA.2003.1183524",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2003.1183524", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2003.1183524"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2003.1183524",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2003.1183524"
+	],
 	"pages": "53-64",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["incorpor", "predic", "inform", "into", "branch", "predictor"],
-	"tag": ["branch", "predict"],
+	"stemmed": [
+		"incorpor",
+		"predic",
+		"inform",
+		"into",
+		"branch",
+		"predictor"
+	],
+	"tag": [
+		"branch",
+		"predict"
+	],
 	"title": "Incorporating Predicate Information into Branch Predictors",
 	"type": "inproceedings",
 	"venue": "HPCA",

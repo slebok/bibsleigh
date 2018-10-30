@@ -1,15 +1,40 @@
 {
-	"author": ["Patrice Y. Simard", "Richard Szeliski", "Josh Benaloh", "Julien Couvreur", "Iulian Calinov"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Patrice Y. Simard",
+		"Richard Szeliski",
+		"Josh Benaloh",
+		"Julien Couvreur",
+		"Iulian Calinov"
+	],
+	"booktitle": "Proceedings of the Seventh International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2003",
 	"dblpkey": "conf/icdar/SimardSBCC03",
 	"doi": "10.1109/ICDAR.2003.1227701",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2003.1227701", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2003.1227701"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2003.1227701",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2003.1227701"
+	],
 	"pages": "418-423",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["use", "charact", "recognit", "and", "segment", "to", "tell", "comput", "from", "human"],
-	"tag": ["recognition", "segmentation", "using"],
+	"stemmed": [
+		"use",
+		"charact",
+		"recognit",
+		"and",
+		"segment",
+		"to",
+		"tell",
+		"comput",
+		"from",
+		"human"
+	],
+	"tag": [
+		"recognition",
+		"segmentation",
+		"using"
+	],
 	"title": "Using Character Recognition and Segmentation to Tell Computer from Humans",
 	"type": "inproceedings",
 	"venue": "ICDAR",

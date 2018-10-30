@@ -1,14 +1,39 @@
 {
-	"author": ["Xin Dong", "Evgeniy Gabrilovich", "Geremy Heitz", "Wilko Horn", "Ni Lao", "Kevin Murphy", "Thomas Strohmann", "Shaohua Sun", "Wei Zhang"],
-	"booktitle": "KDD",
+	"author": [
+		"Xin Dong",
+		"Evgeniy Gabrilovich",
+		"Geremy Heitz",
+		"Wilko Horn",
+		"Ni Lao",
+		"Kevin Murphy",
+		"Thomas Strohmann",
+		"Shaohua Sun",
+		"Wei Zhang"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/0001GHHLMSSZ14",
 	"doi": "10.1145/2623330.2623623",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623623",
 	"pages": "601-610",
 	"publisher": "ACM",
-	"stemmed": ["knowledg", "vault", "a", "web", "scale", "approach", "to", "probabilist", "knowledg", "fusion"],
-	"tag": ["approach", "probability"],
+	"stemmed": [
+		"knowledg",
+		"vault",
+		"a",
+		"web",
+		"scale",
+		"approach",
+		"to",
+		"probabilist",
+		"knowledg",
+		"fusion"
+	],
+	"tag": [
+		"approach",
+		"probability"
+	],
 	"title": "Knowledge vault: a web-scale approach to probabilistic knowledge fusion",
 	"type": "inproceedings",
 	"venue": "KDD",

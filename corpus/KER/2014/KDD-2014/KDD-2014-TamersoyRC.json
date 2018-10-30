@@ -1,14 +1,37 @@
 {
-	"author": ["Acar Tamersoy", "Kevin A. Roundy", "Duen Horng Chau"],
-	"booktitle": "KDD",
+	"author": [
+		"Acar Tamersoy",
+		"Kevin A. Roundy",
+		"Duen Horng Chau"
+	],
+	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/TamersoyRC14",
 	"doi": "10.1145/2623330.2623342",
 	"ee": "http://doi.acm.org/10.1145/2623330.2623342",
 	"pages": "1524-1533",
 	"publisher": "ACM",
-	"stemmed": ["guilt", "by", "associ", "larg", "scale", "malwar", "detect", "by", "mine", "file", "relat", "graph"],
-	"tag": ["detection", "graph", "mining", "scalability"],
+	"stemmed": [
+		"guilt",
+		"by",
+		"associ",
+		"larg",
+		"scale",
+		"malwar",
+		"detect",
+		"by",
+		"mine",
+		"file",
+		"relat",
+		"graph"
+	],
+	"tag": [
+		"detection",
+		"graph",
+		"mining",
+		"scalability"
+	],
 	"title": "Guilt by association: large scale malware detection by mining file-relation graphs",
 	"type": "inproceedings",
 	"venue": "KDD",

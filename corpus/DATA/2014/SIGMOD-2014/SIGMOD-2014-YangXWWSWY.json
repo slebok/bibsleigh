@@ -1,6 +1,14 @@
 {
-	"author": ["Shengqi Yang", "Yanan Xie", "Yinghui Wu", "Tianyi Wu", "Huan Sun", "Jian Wu", "Xifeng Yan"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Shengqi Yang",
+		"Yanan Xie",
+		"Yinghui Wu",
+		"Tianyi Wu",
+		"Huan Sun",
+		"Jian Wu",
+		"Xifeng Yan"
+	],
+	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/YangXWWSWY14",
@@ -8,8 +16,20 @@
 	"ee": "http://doi.acm.org/10.1145/2588555.2594516",
 	"pages": "893-896",
 	"publisher": "ACM",
-	"stemmed": ["slq", "a", "user", "friend", "graph", "queri", "system"],
-	"tag": ["graph", "named", "query"],
+	"stemmed": [
+		"slq",
+		"a",
+		"user",
+		"friend",
+		"graph",
+		"queri",
+		"system"
+	],
+	"tag": [
+		"graph",
+		"named",
+		"query"
+	],
 	"title": "SLQ: a user-friendly graph querying system",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

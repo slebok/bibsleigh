@@ -1,6 +1,7 @@
 {
 	"author": "Joseph A. Goguen",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Fifth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1980",
 	"dblpkey": "conf/cade/Guguen80",
 	"doi": "10.1007/3-540-10009-1_27",
@@ -10,11 +11,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["how", "to", "prove", "algebra", "induct", "hypothes", "without", "induct"],
-	"tag": ["algebra", "how", "induction"],
+	"stemmed": [
+		"how",
+		"to",
+		"prove",
+		"algebra",
+		"induct",
+		"hypothes",
+		"without",
+		"induct"
+	],
+	"tag": [
+		"algebra",
+		"how",
+		"induction"
+	],
 	"title": "How to Prove Algebraic Inductive Hypotheses Without Induction",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 87,
+	"volume": "87",
 	"year": 1980
 }

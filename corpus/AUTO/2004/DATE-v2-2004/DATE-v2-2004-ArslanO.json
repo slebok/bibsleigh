@@ -1,6 +1,10 @@
 {
-	"author": ["Baris Arslan", "Alex Orailoglu"],
-	"booktitle": "DATE",
+	"author": [
+		"Baris Arslan",
+		"Alex Orailoglu"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 2",
+	"booktitleshort": "DATE v2",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/ArslanO04",
 	"doi": "10.1109/DATE.2004.1269073",
@@ -8,8 +12,22 @@
 	"pages": "1290-1295",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["circular", "scan", "a", "scan", "architectur", "for", "test", "cost", "reduct"],
-	"tag": ["architecture", "named", "reduction"],
+	"stemmed": [
+		"circular",
+		"scan",
+		"a",
+		"scan",
+		"architectur",
+		"for",
+		"test",
+		"cost",
+		"reduct"
+	],
+	"tag": [
+		"architecture",
+		"named",
+		"reduction"
+	],
 	"title": "CircularScan: A Scan Architecture for Test Cost Reduction",
 	"type": "inproceedings",
 	"venue": "DATE",

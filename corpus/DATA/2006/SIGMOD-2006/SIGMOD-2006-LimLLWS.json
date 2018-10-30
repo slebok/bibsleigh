@@ -1,6 +1,12 @@
 {
-	"author": ["Hyo-Sang Lim", "Jae-Gil Lee", "Min-Jae Lee", "Kyu-Young Whang", "Il-Yeol Song"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Hyo-Sang Lim",
+		"Jae-Gil Lee",
+		"Min-Jae Lee",
+		"Kyu-Young Whang",
+		"Il-Yeol Song"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/LimLLWS06",
@@ -8,8 +14,25 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142509",
 	"pages": "313-324",
 	"publisher": "ACM",
-	"stemmed": ["continu", "queri", "process", "in", "data", "stream", "use", "dualiti", "of", "data", "and", "queri"],
-	"tag": ["data type", "query", "using"],
+	"stemmed": [
+		"continu",
+		"queri",
+		"process",
+		"in",
+		"data",
+		"stream",
+		"use",
+		"dualiti",
+		"of",
+		"data",
+		"and",
+		"queri"
+	],
+	"tag": [
+		"data type",
+		"query",
+		"using"
+	],
 	"title": "Continuous query processing in data streams using duality of data and queries",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

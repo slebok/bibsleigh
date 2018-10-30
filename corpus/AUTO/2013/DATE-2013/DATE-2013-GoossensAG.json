@@ -1,13 +1,32 @@
 {
-	"acmid": 2485418,
-	"author": ["Sven Goossens", "Benny Akesson", "Kees Goossens"],
-	"booktitle": "DATE",
+	"acmid": "2485418",
+	"author": [
+		"Sven Goossens",
+		"Benny Akesson",
+		"Kees Goossens"
+	],
+	"booktitle": "Proceedings of the 17th Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2013",
 	"dblpkey": "conf/date/GoossensAG13",
 	"pages": "525-530",
 	"publisher": "EDA Consortium San Jose, CA, USA / ACM DL",
-	"stemmed": ["conserv", "open", "page", "polici", "for", "mix", "time", "critic", "memori", "control"],
-	"tag": ["memory management", "policy"],
+	"stemmed": [
+		"conserv",
+		"open",
+		"page",
+		"polici",
+		"for",
+		"mix",
+		"time",
+		"critic",
+		"memori",
+		"control"
+	],
+	"tag": [
+		"memory management",
+		"policy"
+	],
 	"title": "Conservative open-page policy for mixed time-criticality memory controllers",
 	"type": "inproceedings",
 	"venue": "DATE",

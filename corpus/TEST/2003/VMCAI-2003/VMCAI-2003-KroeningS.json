@@ -1,6 +1,10 @@
 {
-	"author": ["Daniel Kröning", "Ofer Strichman"],
-	"booktitle": "VMCAI",
+	"author": [
+		"Daniel Kröning",
+		"Ofer Strichman"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2003",
 	"dblpkey": "conf/vmcai/KroeningS03",
 	"doi": "10.1007/3-540-36384-X_24",
@@ -10,11 +14,19 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["effici", "comput", "of", "recurr", "diamet"],
-	"tag": ["performance"],
+	"stemmed": [
+		"effici",
+		"comput",
+		"of",
+		"recurr",
+		"diamet"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "Efficient Computation of Recurrence Diameters",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 2575,
+	"volume": "2575",
 	"year": 2003
 }

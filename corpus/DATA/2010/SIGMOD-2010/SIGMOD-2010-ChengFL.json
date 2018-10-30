@@ -1,6 +1,10 @@
 {
-	"author": ["James Cheng", "Ada Wai-Chee Fu", "Jia Liu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"James Cheng",
+		"Ada Wai-Chee Fu",
+		"Jia Liu"
+	],
+	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/ChengFL10",
@@ -8,8 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/1807167.1807218",
 	"pages": "459-470",
 	"publisher": "ACM",
-	"stemmed": ["k", "isomorph", "privaci", "preserv", "network", "public", "against", "structur", "attack"],
-	"tag": ["morphism", "named", "network", "privacy"],
+	"stemmed": [
+		"k",
+		"isomorph",
+		"privaci",
+		"preserv",
+		"network",
+		"public",
+		"against",
+		"structur",
+		"attack"
+	],
+	"tag": [
+		"morphism",
+		"named",
+		"network",
+		"privacy"
+	],
 	"title": "K-isomorphism: privacy preserving network publication against structural attacks",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

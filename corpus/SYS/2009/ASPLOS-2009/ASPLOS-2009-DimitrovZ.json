@@ -1,14 +1,38 @@
 {
-	"author": ["Martin Dimitrov", "Huiyang Zhou"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Martin Dimitrov",
+		"Huiyang Zhou"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2009",
 	"dblpkey": "conf/asplos/DimitrovZ09",
 	"doi": "10.1145/1508244.1508252",
 	"ee": "http://doi.acm.org/10.1145/1508244.1508252",
 	"pages": "61-72",
 	"publisher": "ACM",
-	"stemmed": ["anomali", "base", "bug", "predict", "isol", "and", "valid", "an", "autom", "approach", "for", "softwar", "debug"],
-	"tag": ["approach", "automation", "debugging", "predict", "validation"],
+	"stemmed": [
+		"anomali",
+		"base",
+		"bug",
+		"predict",
+		"isol",
+		"and",
+		"valid",
+		"an",
+		"autom",
+		"approach",
+		"for",
+		"softwar",
+		"debug"
+	],
+	"tag": [
+		"approach",
+		"automation",
+		"debugging",
+		"predict",
+		"validation"
+	],
 	"title": "Anomaly-based bug prediction, isolation, and validation: an automated approach for software debugging",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

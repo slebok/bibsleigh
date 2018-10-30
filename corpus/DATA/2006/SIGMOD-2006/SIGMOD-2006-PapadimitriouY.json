@@ -1,6 +1,9 @@
 {
-	"author": ["Spiros Papadimitriou", "Philip S. Yu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Spiros Papadimitriou",
+		"Philip S. Yu"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/PapadimitriouY06",
@@ -8,8 +11,19 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142545",
 	"pages": "647-658",
 	"publisher": "ACM",
-	"stemmed": ["optim", "multi", "scale", "pattern", "in", "time", "seri", "stream"],
-	"tag": ["multi"],
+	"stemmed": [
+		"optim",
+		"multi",
+		"scale",
+		"pattern",
+		"in",
+		"time",
+		"seri",
+		"stream"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "Optimal multi-scale patterns in time series streams",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

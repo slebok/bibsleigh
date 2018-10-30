@@ -1,15 +1,34 @@
 {
-	"author": ["Quinn Jacobson", "Steve Bennett", "Nikhil Sharma", "James E. Smith"],
-	"booktitle": "HPCA",
+	"author": [
+		"Quinn Jacobson",
+		"Steve Bennett",
+		"Nikhil Sharma",
+		"James E. Smith"
+	],
+	"booktitle": "Proceedings of the Third International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1997",
 	"dblpkey": "conf/hpca/JacobsonBSS97",
 	"doi": "10.1109/HPCA.1997.569673",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1997.569673", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1997.569673"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1997.569673",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1997.569673"
+	],
 	"pages": "218-229",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["control", "flow", "specul", "in", "multiscalar", "processor"],
-	"tag": ["control flow", "multi"],
+	"stemmed": [
+		"control",
+		"flow",
+		"specul",
+		"in",
+		"multiscalar",
+		"processor"
+	],
+	"tag": [
+		"control flow",
+		"multi"
+	],
 	"title": "Control Flow Speculation in Multiscalar Processors",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,14 +1,36 @@
 {
-	"author": ["Jeremy Tantrum", "Alejandro Murua", "Werner Stuetzle"],
-	"booktitle": "KDD",
+	"author": [
+		"Jeremy Tantrum",
+		"Alejandro Murua",
+		"Werner Stuetzle"
+	],
+	"booktitle": "Proceedings of the Eighth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2002",
 	"dblpkey": "conf/kdd/TantrumMS02",
 	"doi": "10.1145/775047.775074",
 	"ee": "http://doi.acm.org/10.1145/775047.775074",
 	"pages": "183-190",
 	"publisher": "ACM",
-	"stemmed": ["hierarch", "model", "base", "cluster", "of", "larg", "dataset", "through", "fraction", "and", "refraction"],
-	"tag": ["clustering", "dataset", "modelling", "scalability"],
+	"stemmed": [
+		"hierarch",
+		"model",
+		"base",
+		"cluster",
+		"of",
+		"larg",
+		"dataset",
+		"through",
+		"fraction",
+		"and",
+		"refraction"
+	],
+	"tag": [
+		"clustering",
+		"dataset",
+		"modelling",
+		"scalability"
+	],
 	"title": "Hierarchical model-based clustering of large datasets through fractionation and refractionation",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,6 +1,12 @@
 {
-	"author": ["Tarvo Raudvere", "Ashish Kumar Singh", "Ingo Sander", "Axel Jantsch"],
-	"booktitle": "DATE",
+	"author": [
+		"Tarvo Raudvere",
+		"Ashish Kumar Singh",
+		"Ingo Sander",
+		"Axel Jantsch"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Volume 1",
+	"booktitleshort": "DATE v1",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/RaudvereSSJ04",
 	"doi": "10.1109/DATE.2004.1268933",
@@ -8,8 +14,22 @@
 	"pages": "690-691",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["polynomi", "abstract", "for", "verif", "of", "sequenti", "implement", "combin", "circuit"],
-	"tag": ["abstraction", "polynomial", "verification"],
+	"stemmed": [
+		"polynomi",
+		"abstract",
+		"for",
+		"verif",
+		"of",
+		"sequenti",
+		"implement",
+		"combin",
+		"circuit"
+	],
+	"tag": [
+		"abstraction",
+		"polynomial",
+		"verification"
+	],
 	"title": "Polynomial Abstraction for Verification of Sequentially Implemented Combinational Circuits",
 	"type": "inproceedings",
 	"venue": "DATE",

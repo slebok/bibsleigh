@@ -1,6 +1,15 @@
 {
-	"author": ["Bernhard Beckert", "Martin Giese", "Reiner Hähnle", "Vladimir Klebanov", "Philipp Rümmer", "Steffen Schlager", "Peter H. Schmitt"],
-	"booktitle": "CADE",
+	"author": [
+		"Bernhard Beckert",
+		"Martin Giese",
+		"Reiner Hähnle",
+		"Vladimir Klebanov",
+		"Philipp Rümmer",
+		"Steffen Schlager",
+		"Peter H. Schmitt"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2007",
 	"dblpkey": "conf/cade/BeckertGHKRSS07",
 	"doi": "10.1007/978-3-540-73595-3_26",
@@ -10,11 +19,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "ke", "y", "system", "deduct", "compon"],
-	"tag": ["component", "deduction"],
+	"stemmed": [
+		"the",
+		"ke",
+		"y",
+		"system",
+		"deduct",
+		"compon"
+	],
+	"tag": [
+		"component",
+		"deduction"
+	],
 	"title": "The KeY system 1.0 (Deduction Component)",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 4603,
+	"volume": "4603",
 	"year": 2007
 }

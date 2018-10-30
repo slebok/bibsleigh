@@ -1,6 +1,10 @@
 {
-	"author": ["Salvador Lucas", "José Meseguer"],
-	"booktitle": "WRLA",
+	"author": [
+		"Salvador Lucas",
+		"José Meseguer"
+	],
+	"booktitle": "Revised Selected Papers of the 10th International Workshop on Rewriting Logic and its Applications",
+	"booktitleshort": "WRLA",
 	"crossref": "conf/wrla/2014",
 	"dblpkey": "conf/wrla/LucasM14a",
 	"doi": "10.1007/978-3-319-12904-4_11",
@@ -10,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["d", "depend", "pair", "for", "prove", "oper", "termin", "of", "ctrss"],
-	"tag": ["2d", "dependence", "proving", "termination"],
+	"stemmed": [
+		"d",
+		"depend",
+		"pair",
+		"for",
+		"prove",
+		"oper",
+		"termin",
+		"of",
+		"ctrss"
+	],
+	"tag": [
+		"2d",
+		"dependence",
+		"proving",
+		"termination"
+	],
 	"title": "2D Dependency Pairs for Proving Operational Termination of CTRSs",
 	"type": "inproceedings",
 	"venue": "WRLA",
-	"volume": 8663,
+	"volume": "8663",
 	"year": 2014
 }

@@ -1,15 +1,29 @@
 {
-	"author": ["Konstantinos F. Sagonas", "Terrance Swift", "David Scott Warren"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Konstantinos F. Sagonas",
+		"Terrance Swift",
+		"David Scott Warren"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD94/P512.PDF",
 	"crossref": "conf/sigmod/94",
 	"dblpkey": "conf/sigmod/SagonasSW94a",
 	"doi": "10.1145/191839.191970",
 	"ee": "http://doi.acm.org/10.1145/191839.191970",
-	"pages": 512,
+	"pages": "512",
 	"publisher": "ACM Press",
-	"stemmed": ["xsb", "as", "a", "deduct", "databas"],
-	"tag": ["database", "deduction"],
+	"stemmed": [
+		"xsb",
+		"as",
+		"a",
+		"deduct",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"deduction"
+	],
 	"title": "XSB as a Deductive Database",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

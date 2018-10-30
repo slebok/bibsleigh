@@ -1,6 +1,7 @@
 {
 	"author": "Brigitte Pientka",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/Pientka06",
 	"doi": "10.1007/11814771_32",
@@ -10,11 +11,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["elimin", "redund", "in", "higher", "order", "unif", "a", "lightweight", "approach"],
-	"tag": ["approach", "higher-order", "lightweight", "unification"],
+	"stemmed": [
+		"elimin",
+		"redund",
+		"in",
+		"higher",
+		"order",
+		"unif",
+		"a",
+		"lightweight",
+		"approach"
+	],
+	"tag": [
+		"approach",
+		"higher-order",
+		"lightweight",
+		"unification"
+	],
 	"title": "Eliminating Redundancy in Higher-Order Unification: A Lightweight Approach",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

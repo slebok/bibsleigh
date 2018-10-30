@@ -1,13 +1,33 @@
 {
-	"author": ["Shiby Thomas", "Sunita Sarawagi"],
-	"booktitle": "KDD",
+	"author": [
+		"Shiby Thomas",
+		"Sunita Sarawagi"
+	],
+	"booktitle": "Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1998",
 	"dblpkey": "conf/kdd/ThomasS98",
 	"ee": "http://www.aaai.org/Library/KDD/1998/kdd98-062.php",
 	"pages": "344-348",
 	"publisher": "AAAI Press",
-	"stemmed": ["mine", "general", "associ", "rule", "and", "sequenti", "pattern", "use", "sql", "queri"],
-	"tag": ["mining", "query", "sql", "using"],
+	"stemmed": [
+		"mine",
+		"general",
+		"associ",
+		"rule",
+		"and",
+		"sequenti",
+		"pattern",
+		"use",
+		"sql",
+		"queri"
+	],
+	"tag": [
+		"mining",
+		"query",
+		"sql",
+		"using"
+	],
 	"title": "Mining Generalized Association Rules and Sequential Patterns Using SQL Queries",
 	"type": "inproceedings",
 	"venue": "KDD",

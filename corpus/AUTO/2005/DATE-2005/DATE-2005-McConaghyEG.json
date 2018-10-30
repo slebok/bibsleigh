@@ -1,6 +1,11 @@
 {
-	"author": ["Trent McConaghy", "Tom Eeckelaert", "Georges G. E. Gielen"],
-	"booktitle": "DATE",
+	"author": [
+		"Trent McConaghy",
+		"Tom Eeckelaert",
+		"Georges G. E. Gielen"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/McConaghyEG05",
 	"doi": "10.1109/DATE.2005.89",
@@ -8,8 +13,31 @@
 	"pages": "1082-1087",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["caffein", "templat", "free", "symbol", "model", "generat", "of", "analog", "circuit", "via", "canon", "form", "function", "and", "genet", "program"],
-	"tag": ["canonical", "generative", "named", "programming", "search-based"],
+	"stemmed": [
+		"caffein",
+		"templat",
+		"free",
+		"symbol",
+		"model",
+		"generat",
+		"of",
+		"analog",
+		"circuit",
+		"via",
+		"canon",
+		"form",
+		"function",
+		"and",
+		"genet",
+		"program"
+	],
+	"tag": [
+		"canonical",
+		"generative",
+		"named",
+		"programming",
+		"search-based"
+	],
 	"title": "CAFFEINE: Template-Free Symbolic Model Generation of Analog Circuits via Canonical Form Functions and Genetic Programming",
 	"type": "inproceedings",
 	"venue": "DATE",

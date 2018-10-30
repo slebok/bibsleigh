@@ -1,14 +1,32 @@
 {
-	"author": ["Mango Chia-Tso Chao", "Hao-Yu Yang", "Rei-Fu Huang", "Shih-Chin Lin", "Ching-Yu Chin"],
-	"booktitle": "DAC",
+	"author": [
+		"Mango Chia-Tso Chao",
+		"Hao-Yu Yang",
+		"Rei-Fu Huang",
+		"Shih-Chin Lin",
+		"Ching-Yu Chin"
+	],
+	"booktitle": "Proceedings of the 46th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/ChaoYHLC09",
 	"doi": "10.1145/1629911.1630097",
 	"ee": "http://doi.acm.org/10.1145/1629911.1630097",
 	"pages": "714-719",
 	"publisher": "ACM",
-	"stemmed": ["fault", "model", "for", "embed", "dram", "macro"],
-	"tag": ["fault", "metaprogramming", "modelling"],
+	"stemmed": [
+		"fault",
+		"model",
+		"for",
+		"embed",
+		"dram",
+		"macro"
+	],
+	"tag": [
+		"fault",
+		"metaprogramming",
+		"modelling"
+	],
 	"title": "Fault models for embedded-DRAM macros",
 	"type": "inproceedings",
 	"venue": "DAC",

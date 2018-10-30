@@ -1,14 +1,33 @@
 {
-	"author": ["Henry Blanco", "Francesco Ricci"],
-	"booktitle": "RecSys",
+	"author": [
+		"Henry Blanco",
+		"Francesco Ricci"
+	],
+	"booktitle": "Proceedings of the Seventh Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2013",
 	"dblpkey": "conf/recsys/BlancoR13",
 	"doi": "10.1145/2507157.2507217",
 	"ee": "http://doi.acm.org/10.1145/2507157.2507217",
 	"pages": "307-310",
 	"publisher": "ACM",
-	"stemmed": ["acquir", "user", "profil", "from", "implicit", "feedback", "in", "a", "convers", "recommend", "system"],
-	"tag": ["feedback", "recommendation"],
+	"stemmed": [
+		"acquir",
+		"user",
+		"profil",
+		"from",
+		"implicit",
+		"feedback",
+		"in",
+		"a",
+		"convers",
+		"recommend",
+		"system"
+	],
+	"tag": [
+		"feedback",
+		"recommendation"
+	],
 	"title": "Acquiring user profiles from implicit feedback in a conversational recommender system",
 	"type": "inproceedings",
 	"venue": "RecSys",

@@ -1,6 +1,7 @@
 {
 	"author": "Dale Miller",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/Miller06",
 	"doi": "10.1007/11814771_3",
@@ -10,11 +11,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["repres", "and", "reason", "with", "oper", "semant"],
-	"tag": ["reasoning", "representation", "semantics"],
+	"stemmed": [
+		"repres",
+		"and",
+		"reason",
+		"with",
+		"oper",
+		"semant"
+	],
+	"tag": [
+		"reasoning",
+		"representation",
+		"semantics"
+	],
 	"title": "Representing and Reasoning with Operational Semantics",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

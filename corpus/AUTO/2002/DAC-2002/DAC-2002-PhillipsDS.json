@@ -1,14 +1,31 @@
 {
-	"author": ["Joel R. Phillips", "Luca Daniel", "Luis Miguel Silveira"],
-	"booktitle": "DAC",
+	"author": [
+		"Joel R. Phillips",
+		"Luca Daniel",
+		"Luis Miguel Silveira"
+	],
+	"booktitle": "Proceedings of the 39th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2002",
 	"dblpkey": "conf/dac/PhillipsDS02",
 	"doi": "10.1145/513918.513933",
 	"ee": "http://doi.acm.org/10.1145/513918.513933",
 	"pages": "52-57",
 	"publisher": "ACM",
-	"stemmed": ["guarante", "passiv", "balanc", "transform", "for", "model", "order", "reduct"],
-	"tag": ["order", "reduction"],
+	"stemmed": [
+		"guarante",
+		"passiv",
+		"balanc",
+		"transform",
+		"for",
+		"model",
+		"order",
+		"reduct"
+	],
+	"tag": [
+		"order",
+		"reduction"
+	],
 	"title": "Guaranteed passive balancing transformations for model order reduction",
 	"type": "inproceedings",
 	"venue": "DAC",

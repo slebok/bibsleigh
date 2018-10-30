@@ -1,15 +1,35 @@
 {
-	"author": ["Serge Abiteboul", "Victor Vianu"],
-	"booktitle": "PODS",
-	"cite": ["conf/vldb/AbiteboulV84", "conf/pods/AbiteboulV85", "conf/vldb/Brodie81", "conf/vldb/CastilhoCF82", "books/cs/Maier83", "journals/tods/MylopoulosBW80", "..."],
+	"author": [
+		"Serge Abiteboul",
+		"Victor Vianu"
+	],
+	"booktitle": "Proceedings of the Fifth Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cite": [
+		"conf/vldb/AbiteboulV84",
+		"conf/pods/AbiteboulV85",
+		"conf/vldb/Brodie81",
+		"conf/vldb/CastilhoCF82",
+		"books/cs/Maier83",
+		"journals/tods/MylopoulosBW80",
+		"..."
+	],
 	"crossref": "conf/pods/86",
 	"dblpkey": "conf/pods/AbiteboulV86",
 	"doi": "10.1145/6012.15417",
 	"ee": "http://doi.acm.org/10.1145/6012.15417",
 	"pages": "235-239",
 	"publisher": "ACM",
-	"stemmed": ["decid", "properti", "of", "transact", "schema"],
-	"tag": ["transaction"],
+	"stemmed": [
+		"decid",
+		"properti",
+		"of",
+		"transact",
+		"schema"
+	],
+	"tag": [
+		"transaction"
+	],
 	"title": "Deciding Properties of Transactional Schemas",
 	"type": "inproceedings",
 	"venue": "PODS",

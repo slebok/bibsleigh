@@ -1,14 +1,31 @@
 {
-	"author": ["Aurelie C. Lozano", "Naoki Abe"],
-	"booktitle": "KDD",
+	"author": [
+		"Aurelie C. Lozano",
+		"Naoki Abe"
+	],
+	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/LozanoA08",
 	"doi": "10.1145/1401890.1401953",
 	"ee": "http://doi.acm.org/10.1145/1401890.1401953",
 	"pages": "506-514",
 	"publisher": "ACM",
-	"stemmed": ["multi", "class", "cost", "sensit", "boost", "with", "p", "norm", "loss", "function"],
-	"tag": ["multi"],
+	"stemmed": [
+		"multi",
+		"class",
+		"cost",
+		"sensit",
+		"boost",
+		"with",
+		"p",
+		"norm",
+		"loss",
+		"function"
+	],
+	"tag": [
+		"multi"
+	],
 	"title": "Multi-class cost-sensitive boosting with p-norm loss functions",
 	"type": "inproceedings",
 	"venue": "KDD",

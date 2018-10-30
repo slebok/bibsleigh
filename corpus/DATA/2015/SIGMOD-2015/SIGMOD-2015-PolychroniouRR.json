@@ -1,6 +1,10 @@
 {
-	"author": ["Orestis Polychroniou", "Arun Raghavan", "Kenneth A. Ross"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Orestis Polychroniou",
+		"Arun Raghavan",
+		"Kenneth A. Ross"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/PolychroniouRR15",
@@ -8,8 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2747645",
 	"pages": "1493-1508",
 	"publisher": "ACM",
-	"stemmed": ["rethink", "simd", "vector", "for", "in", "memori", "databas"],
-	"tag": ["database", "in memory"],
+	"stemmed": [
+		"rethink",
+		"simd",
+		"vector",
+		"for",
+		"in",
+		"memori",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"in memory"
+	],
 	"title": "Rethinking SIMD Vectorization for In-Memory Databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

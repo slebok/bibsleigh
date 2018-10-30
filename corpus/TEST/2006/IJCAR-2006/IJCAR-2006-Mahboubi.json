@@ -1,6 +1,7 @@
 {
 	"author": "Assia Mahboubi",
-	"booktitle": "IJCAR",
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/Mahboubi06",
 	"doi": "10.1007/11814771_37",
@@ -10,11 +11,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["prove", "formal", "the", "implement", "of", "an", "effici", "gcd", "algorithm", "for", "polynomi"],
-	"tag": ["algorithm", "implementation", "performance", "proving"],
+	"stemmed": [
+		"prove",
+		"formal",
+		"the",
+		"implement",
+		"of",
+		"an",
+		"effici",
+		"gcd",
+		"algorithm",
+		"for",
+		"polynomi"
+	],
+	"tag": [
+		"algorithm",
+		"implementation",
+		"performance",
+		"proving"
+	],
 	"title": "Proving Formally the Implementation of an Efficient gcd Algorithm for Polynomials",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

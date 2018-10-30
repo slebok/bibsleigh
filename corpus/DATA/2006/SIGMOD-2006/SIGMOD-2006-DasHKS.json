@@ -1,6 +1,11 @@
 {
-	"author": ["Gautam Das", "Vagelis Hristidis", "Nishant Kapoor", "S. Sudarshan"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Gautam Das",
+		"Vagelis Hristidis",
+		"Nishant Kapoor",
+		"S. Sudarshan"
+	],
+	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/DasHKS06",
@@ -8,8 +13,17 @@
 	"ee": "http://doi.acm.org/10.1145/1142473.1142518",
 	"pages": "395-406",
 	"publisher": "ACM",
-	"stemmed": ["order", "the", "attribut", "of", "queri", "result"],
-	"tag": ["query"],
+	"stemmed": [
+		"order",
+		"the",
+		"attribut",
+		"of",
+		"queri",
+		"result"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "Ordering the attributes of query results",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

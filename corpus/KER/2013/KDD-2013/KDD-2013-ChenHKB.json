@@ -1,14 +1,35 @@
 {
-	"author": ["Yanping Chen", "Bing Hu", "Eamonn J. Keogh", "Gustavo E. A. P. A. Batista"],
-	"booktitle": "KDD",
+	"author": [
+		"Yanping Chen",
+		"Bing Hu",
+		"Eamonn J. Keogh",
+		"Gustavo E. A. P. A. Batista"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/ChenHKB13",
 	"doi": "10.1145/2487575.2487633",
 	"ee": "http://doi.acm.org/10.1145/2487575.2487633",
 	"pages": "383-391",
 	"publisher": "ACM",
-	"stemmed": ["dtw", "d", "time", "seri", "semi", "supervis", "learn", "from", "a", "singl", "exampl"],
-	"tag": ["learning", "named"],
+	"stemmed": [
+		"dtw",
+		"d",
+		"time",
+		"seri",
+		"semi",
+		"supervis",
+		"learn",
+		"from",
+		"a",
+		"singl",
+		"exampl"
+	],
+	"tag": [
+		"learning",
+		"named"
+	],
 	"title": "DTW-D: time series semi-supervised learning from a single example",
 	"type": "inproceedings",
 	"venue": "KDD",

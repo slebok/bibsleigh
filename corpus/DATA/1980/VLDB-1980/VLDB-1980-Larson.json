@@ -1,15 +1,34 @@
 {
 	"author": "Per-Åke Larson",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the Sixth International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB80/P224.PDF",
-	"cite": ["...", "journals/tods/FaginNPS79", "conf/sigmod/Knott71", "journals/bit/Larson78", "...", "conf/vldb/Litwin78", "...", "...", "conf/vldb/Litwin80"],
+	"cite": [
+		"...",
+		"journals/tods/FaginNPS79",
+		"conf/sigmod/Knott71",
+		"journals/bit/Larson78",
+		"...",
+		"conf/vldb/Litwin78",
+		"...",
+		"...",
+		"conf/vldb/Litwin80"
+	],
 	"crossref": "conf/vldb/80",
 	"dblpkey": "conf/vldb/Larson80",
 	"pages": "224-232",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["linear", "hash", "with", "partial", "expans"],
-	"tag": ["linear"],
+	"stemmed": [
+		"linear",
+		"hash",
+		"with",
+		"partial",
+		"expans"
+	],
+	"tag": [
+		"linear"
+	],
 	"title": "Linear Hashing with Partial Expansions",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,7 @@
 {
 	"author": "Jussi Ketonen",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Seventh International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1984",
 	"dblpkey": "conf/cade/Ketonen84",
 	"doi": "10.1007/BFb0047114",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["ekl", "a", "mathemat", "orient", "proof", "checker"],
-	"tag": ["named", "proving"],
+	"stemmed": [
+		"ekl",
+		"a",
+		"mathemat",
+		"orient",
+		"proof",
+		"checker"
+	],
+	"tag": [
+		"named",
+		"proving"
+	],
 	"title": "EKL — A Mathematically Oriented Proof Checker",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 170,
+	"volume": "170",
 	"year": 1984
 }

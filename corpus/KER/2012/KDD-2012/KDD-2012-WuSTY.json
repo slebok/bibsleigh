@@ -1,14 +1,29 @@
 {
-	"author": ["Cheng-Wei Wu", "Bai-En Shie", "Vincent S. Tseng", "Philip S. Yu"],
-	"booktitle": "KDD",
+	"author": [
+		"Cheng-Wei Wu",
+		"Bai-En Shie",
+		"Vincent S. Tseng",
+		"Philip S. Yu"
+	],
+	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/WuSTY12",
 	"doi": "10.1145/2339530.2339546",
 	"ee": "http://doi.acm.org/10.1145/2339530.2339546",
 	"pages": "78-86",
 	"publisher": "ACM",
-	"stemmed": ["mine", "top", "k", "high", "util", "itemset"],
-	"tag": ["mining"],
+	"stemmed": [
+		"mine",
+		"top",
+		"k",
+		"high",
+		"util",
+		"itemset"
+	],
+	"tag": [
+		"mining"
+	],
 	"title": "Mining top-K high utility itemsets",
 	"type": "inproceedings",
 	"venue": "KDD",

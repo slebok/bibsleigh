@@ -1,14 +1,30 @@
 {
-	"author": ["Chris Drummond", "Robert C. Holte"],
-	"booktitle": "KDD",
+	"author": [
+		"Chris Drummond",
+		"Robert C. Holte"
+	],
+	"booktitle": "Proceedings of the Sixth International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2000",
 	"dblpkey": "conf/kdd/DrummondH00",
 	"doi": "10.1145/347090.347126",
 	"ee": "http://doi.acm.org/10.1145/347090.347126",
 	"pages": "198-207",
 	"publisher": "ACM",
-	"stemmed": ["explicit", "repres", "expect", "cost", "an", "altern", "to", "roc", "represent"],
-	"tag": ["representation"],
+	"stemmed": [
+		"explicit",
+		"repres",
+		"expect",
+		"cost",
+		"an",
+		"altern",
+		"to",
+		"roc",
+		"represent"
+	],
+	"tag": [
+		"representation"
+	],
 	"title": "Explicitly representing expected cost: an alternative to ROC representation",
 	"type": "inproceedings",
 	"venue": "KDD",

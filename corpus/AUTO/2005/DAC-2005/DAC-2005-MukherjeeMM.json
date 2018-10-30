@@ -1,14 +1,33 @@
 {
-	"author": ["Rajarshi Mukherjee", "Seda Ogrenci Memik", "Gokhan Memik"],
-	"booktitle": "DAC",
+	"author": [
+		"Rajarshi Mukherjee",
+		"Seda Ogrenci Memik",
+		"Gokhan Memik"
+	],
+	"booktitle": "Proceedings of the 42nd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/MukherjeeMM05",
 	"doi": "10.1145/1065579.1065633",
 	"ee": "http://doi.acm.org/10.1145/1065579.1065633",
 	"pages": "196-201",
 	"publisher": "ACM",
-	"stemmed": ["temperatur", "awar", "resourc", "alloc", "and", "bind", "in", "high", "level", "synthesi"],
-	"tag": ["resource management", "synthesis"],
+	"stemmed": [
+		"temperatur",
+		"awar",
+		"resourc",
+		"alloc",
+		"and",
+		"bind",
+		"in",
+		"high",
+		"level",
+		"synthesi"
+	],
+	"tag": [
+		"resource management",
+		"synthesis"
+	],
 	"title": "Temperature-aware resource allocation and binding in high-level synthesis",
 	"type": "inproceedings",
 	"venue": "DAC",

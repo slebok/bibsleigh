@@ -1,14 +1,36 @@
 {
-	"author": ["Joy Arulraj", "Guoliang Jin", "Shan Lu"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Joy Arulraj",
+		"Guoliang Jin",
+		"Shan Lu"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2014",
 	"dblpkey": "conf/asplos/ArulrajJL14",
 	"doi": "10.1145/2541940.2541973",
 	"ee": "http://doi.acm.org/10.1145/2541940.2541973",
 	"pages": "207-222",
 	"publisher": "ACM",
-	"stemmed": ["leverag", "the", "short", "term", "memori", "of", "hardwar", "to", "diagnos", "product", "run", "softwar", "failur"],
-	"tag": ["hardware", "memory management"],
+	"stemmed": [
+		"leverag",
+		"the",
+		"short",
+		"term",
+		"memori",
+		"of",
+		"hardwar",
+		"to",
+		"diagnos",
+		"product",
+		"run",
+		"softwar",
+		"failur"
+	],
+	"tag": [
+		"hardware",
+		"memory management"
+	],
 	"title": "Leveraging the short-term memory of hardware to diagnose production-run software failures",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

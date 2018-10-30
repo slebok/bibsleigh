@@ -1,15 +1,41 @@
 {
-	"author": ["Yuanping Zhu", "Jun Sun", "Akihiro Minagawa", "Yoshinobu Hotta", "Satoshi Naoi"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Yuanping Zhu",
+		"Jun Sun",
+		"Akihiro Minagawa",
+		"Yoshinobu Hotta",
+		"Satoshi Naoi"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2009",
 	"dblpkey": "conf/icdar/ZhuSMHN09",
 	"doi": "10.1109/ICDAR.2009.164",
-	"ee": ["http://dx.doi.org/10.1109/ICDAR.2009.164", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.2009.164"],
+	"ee": [
+		"http://dx.doi.org/10.1109/ICDAR.2009.164",
+		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.2009.164"
+	],
 	"pages": "1191-1195",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["separ", "chines", "charact", "and", "english", "charact", "by", "cascad", "classifi", "and", "featur", "select"],
-	"tag": ["classification", "feature model"],
+	"stemmed": [
+		"separ",
+		"chines",
+		"charact",
+		"and",
+		"english",
+		"charact",
+		"by",
+		"cascad",
+		"classifi",
+		"and",
+		"featur",
+		"select"
+	],
+	"tag": [
+		"classification",
+		"feature model"
+	],
 	"title": "Separate Chinese Character and English Character by Cascade Classifier and Feature Selection",
 	"type": "inproceedings",
 	"venue": "ICDAR",

@@ -1,13 +1,26 @@
 {
 	"author": "Roberto J. Bayardo Jr.",
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the Third International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/1997",
 	"dblpkey": "conf/kdd/Bayardo97",
 	"ee": "http://www.aaai.org/Library/KDD/1997/kdd97-020.php",
 	"pages": "123-126",
 	"publisher": "AAAI Press",
-	"stemmed": ["brute", "forc", "mine", "of", "high", "confid", "classif", "rule"],
-	"tag": ["classification", "mining"],
+	"stemmed": [
+		"brute",
+		"forc",
+		"mine",
+		"of",
+		"high",
+		"confid",
+		"classif",
+		"rule"
+	],
+	"tag": [
+		"classification",
+		"mining"
+	],
 	"title": "Brute-Force Mining of High-Confidence Classification Rules",
 	"type": "inproceedings",
 	"venue": "KDD",

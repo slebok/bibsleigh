@@ -1,6 +1,10 @@
 {
-	"author": ["Henning Köhler", "Jing Yang", "Xiaofang Zhou"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Henning Köhler",
+		"Jing Yang",
+		"Xiaofang Zhou"
+	],
+	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/KohlerYZ11",
@@ -8,8 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/1989323.1989333",
 	"pages": "85-96",
 	"publisher": "ACM",
-	"stemmed": ["effici", "parallel", "skylin", "process", "use", "hyperplan", "project"],
-	"tag": ["parallel", "performance", "using"],
+	"stemmed": [
+		"effici",
+		"parallel",
+		"skylin",
+		"process",
+		"use",
+		"hyperplan",
+		"project"
+	],
+	"tag": [
+		"parallel",
+		"performance",
+		"using"
+	],
 	"title": "Efficient parallel skyline processing using hyperplane projections",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

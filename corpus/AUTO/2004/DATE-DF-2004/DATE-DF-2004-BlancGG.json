@@ -1,6 +1,11 @@
 {
-	"author": ["Sara Blanc", "Joaquin Gracia", "Pedro J. Gil"],
-	"booktitle": "DATE",
+	"author": [
+		"Sara Blanc",
+		"Joaquin Gracia",
+		"Pedro J. Gil"
+	],
+	"booktitle": "Proceedings of the Eighth Conference on Design, Automation and Test in Europe, Designers’ Forum",
+	"booktitleshort": "DATE DF",
 	"crossref": "conf/date/2004",
 	"dblpkey": "conf/date/BlancGG04",
 	"doi": "10.1109/DATE.2004.1269243",
@@ -8,8 +13,24 @@
 	"pages": "256-261",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["experi", "dure", "the", "experiment", "valid", "of", "the", "time", "trigger", "architectur"],
-	"tag": ["architecture", "case study", "experience", "validation"],
+	"stemmed": [
+		"experi",
+		"dure",
+		"the",
+		"experiment",
+		"valid",
+		"of",
+		"the",
+		"time",
+		"trigger",
+		"architectur"
+	],
+	"tag": [
+		"architecture",
+		"case study",
+		"experience",
+		"validation"
+	],
 	"title": "Experiences during the Experimental Validation of the Time-Triggered Architecture",
 	"type": "inproceedings",
 	"venue": "DATE",

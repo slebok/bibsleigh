@@ -1,6 +1,11 @@
 {
-	"author": ["James Cheng", "Silu Huang", "Huanhuan Wu", "Ada Wai-Chee Fu"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"James Cheng",
+		"Silu Huang",
+		"Huanhuan Wu",
+		"Ada Wai-Chee Fu"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/ChengHWF13",
@@ -8,8 +13,29 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2465286",
 	"pages": "193-204",
 	"publisher": "ACM",
-	"stemmed": ["tf", "label", "a", "topolog", "fold", "label", "scheme", "for", "reachabl", "queri", "in", "a", "larg", "graph"],
-	"tag": ["graph", "named", "query", "reachability", "scalability"],
+	"stemmed": [
+		"tf",
+		"label",
+		"a",
+		"topolog",
+		"fold",
+		"label",
+		"scheme",
+		"for",
+		"reachabl",
+		"queri",
+		"in",
+		"a",
+		"larg",
+		"graph"
+	],
+	"tag": [
+		"graph",
+		"named",
+		"query",
+		"reachability",
+		"scalability"
+	],
 	"title": "TF-Label: a topological-folding labeling scheme for reachability querying in a large graph",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

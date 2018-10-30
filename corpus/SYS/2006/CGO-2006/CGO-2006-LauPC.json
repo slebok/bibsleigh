@@ -1,16 +1,36 @@
 {
-	"acmid": 1122399,
-	"author": ["Jeremy Lau", "Erez Perelman", "Brad Calder"],
-	"booktitle": "CGO",
+	"acmid": "1122399",
+	"author": [
+		"Jeremy Lau",
+		"Erez Perelman",
+		"Brad Calder"
+	],
+	"booktitle": "Proceedings of the Fourth International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2006",
 	"dblpkey": "conf/cgo/LauPC06",
 	"doi": "10.1109/CGO.2006.32",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2006.32", "http://doi.ieeecomputersociety.org/10.1109/CGO.2006.32", "http://dl.acm.org/citation.cfm?id=1122399"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2006.32",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2006.32",
+		"http://dl.acm.org/citation.cfm?id=1122399"
+	],
 	"pages": "135-146",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["select", "softwar", "phase", "marker", "with", "code", "structur", "analysi"],
-	"tag": ["analysis"],
+	"stemmed": [
+		"select",
+		"softwar",
+		"phase",
+		"marker",
+		"with",
+		"code",
+		"structur",
+		"analysi"
+	],
+	"tag": [
+		"analysis"
+	],
 	"title": "Selecting Software Phase Markers with Code Structure Analysis",
 	"type": "inproceedings",
 	"venue": "CGO",

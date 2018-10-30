@@ -1,14 +1,34 @@
 {
-	"author": ["Silvian Calman", "Jianwen Zhu"],
-	"booktitle": "PASTE",
+	"author": [
+		"Silvian Calman",
+		"Jianwen Zhu"
+	],
+	"booktitle": "Proceedings of the Ninth Workshop on Program Analysis for Software Tools and Engineering",
+	"booktitleshort": "PASTE",
 	"crossref": "conf/paste/2010",
 	"dblpkey": "conf/paste/CalmanZ10",
 	"doi": "10.1145/1806672.1806680",
 	"ee": "http://doi.acm.org/10.1145/1806672.1806680",
 	"pages": "37-44",
 	"publisher": "ACM",
-	"stemmed": ["interprocedur", "induct", "variabl", "analysi", "base", "on", "interprocedur", "ssa", "form", "ir"],
-	"tag": ["analysis", "induction", "information retrieval", "interprocedural"],
+	"stemmed": [
+		"interprocedur",
+		"induct",
+		"variabl",
+		"analysi",
+		"base",
+		"on",
+		"interprocedur",
+		"ssa",
+		"form",
+		"ir"
+	],
+	"tag": [
+		"analysis",
+		"induction",
+		"information retrieval",
+		"interprocedural"
+	],
 	"title": "Interprocedural induction variable analysis based on interprocedural SSA form IR",
 	"type": "inproceedings",
 	"venue": "PASTE",

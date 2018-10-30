@@ -1,14 +1,35 @@
 {
-	"author": ["Yoav Katz", "Michal Rimon", "Avi Ziv", "Gai Shaked"],
-	"booktitle": "DAC",
+	"author": [
+		"Yoav Katz",
+		"Michal Rimon",
+		"Avi Ziv",
+		"Gai Shaked"
+	],
+	"booktitle": "Proceedings of the 48th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/KatzRZS11",
 	"doi": "10.1145/2024724.2024914",
 	"ee": "http://doi.acm.org/10.1145/2024724.2024914",
 	"pages": "848-853",
 	"publisher": "ACM",
-	"stemmed": ["learn", "microarchitectur", "behavior", "to", "improv", "stimuli", "generat", "qualiti"],
-	"tag": ["architecture", "behaviour", "generative", "learning", "quality"],
+	"stemmed": [
+		"learn",
+		"microarchitectur",
+		"behavior",
+		"to",
+		"improv",
+		"stimuli",
+		"generat",
+		"qualiti"
+	],
+	"tag": [
+		"architecture",
+		"behaviour",
+		"generative",
+		"learning",
+		"quality"
+	],
 	"title": "Learning microarchitectural behaviors to improve stimuli generation quality",
 	"type": "inproceedings",
 	"venue": "DAC",

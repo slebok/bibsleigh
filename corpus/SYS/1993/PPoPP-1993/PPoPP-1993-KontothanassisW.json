@@ -1,14 +1,31 @@
 {
-	"author": ["Leonidas I. Kontothanassis", "Robert W. Wisniewski"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Leonidas I. Kontothanassis",
+		"Robert W. Wisniewski"
+	],
+	"booktitle": "Proceedings of the Fourth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1993",
 	"dblpkey": "conf/ppopp/KontothanassisW93",
 	"doi": "10.1145/155332.155339",
 	"ee": "http://doi.acm.org/10.1145/155332.155339",
 	"pages": "64-72",
 	"publisher": "ACM",
-	"stemmed": ["use", "schedul", "inform", "to", "achiev", "optim", "barrier", "synchron", "perform"],
-	"tag": ["performance", "using"],
+	"stemmed": [
+		"use",
+		"schedul",
+		"inform",
+		"to",
+		"achiev",
+		"optim",
+		"barrier",
+		"synchron",
+		"perform"
+	],
+	"tag": [
+		"performance",
+		"using"
+	],
 	"title": "Using Scheduler Information to Achieve Optimal Barrier Synchronization Performance",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,6 +1,12 @@
 {
-	"author": ["G. Fraidy Bouesse", "Marc Renaudin", "Sophie Dumont", "Fabien Germain"],
-	"booktitle": "DATE",
+	"author": [
+		"G. Fraidy Bouesse",
+		"Marc Renaudin",
+		"Sophie Dumont",
+		"Fabien Germain"
+	],
+	"booktitle": "Proceedings of the Ninth Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/2005",
 	"dblpkey": "conf/date/BouesseRDG05",
 	"doi": "10.1109/DATE.2005.124",
@@ -8,8 +14,21 @@
 	"pages": "424-429",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["dpa", "on", "quasi", "delay", "insensit", "asynchron", "circuit", "formal", "and", "improv"],
-	"tag": ["formal method"],
+	"stemmed": [
+		"dpa",
+		"on",
+		"quasi",
+		"delay",
+		"insensit",
+		"asynchron",
+		"circuit",
+		"formal",
+		"and",
+		"improv"
+	],
+	"tag": [
+		"formal method"
+	],
 	"title": "DPA on Quasi Delay Insensitive Asynchronous Circuits: Formalization and Improvement",
 	"type": "inproceedings",
 	"venue": "DATE",

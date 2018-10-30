@@ -1,12 +1,31 @@
 {
-	"author": ["Vagelis Hristidis", "Luis Gravano", "Yannis Papakonstantinou"],
-	"booktitle": "VLDB",
+	"author": [
+		"Vagelis Hristidis",
+		"Luis Gravano",
+		"Yannis Papakonstantinou"
+	],
+	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/HristidisGP03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S25P03.pdf",
 	"pages": "850-861",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["effici", "ir", "style", "keyword", "search", "over", "relat", "databas"],
-	"tag": ["database", "keyword", "performance", "relational"],
+	"stemmed": [
+		"effici",
+		"ir",
+		"style",
+		"keyword",
+		"search",
+		"over",
+		"relat",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"keyword",
+		"performance",
+		"relational"
+	],
 	"title": "Efficient IR-Style Keyword Search over Relational Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

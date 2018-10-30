@@ -1,6 +1,11 @@
 {
-	"author": ["Anja Gruenheid", "Donald Kossmann", "Theodoros Rekatsinas", "Divesh Srivastava"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Anja Gruenheid",
+		"Donald Kossmann",
+		"Theodoros Rekatsinas",
+		"Divesh Srivastava"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/GruenheidKRS15",
@@ -8,8 +13,19 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2735356",
 	"pages": "1415-1420",
 	"publisher": "ACM",
-	"stemmed": ["stori", "pivot", "compar", "and", "contrast", "stori", "evolut"],
-	"tag": ["evolution", "named"],
+	"stemmed": [
+		"stori",
+		"pivot",
+		"compar",
+		"and",
+		"contrast",
+		"stori",
+		"evolut"
+	],
+	"tag": [
+		"evolution",
+		"named"
+	],
 	"title": "StoryPivot: Comparing and Contrasting Story Evolution",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

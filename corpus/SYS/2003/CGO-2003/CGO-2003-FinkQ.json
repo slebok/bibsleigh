@@ -1,16 +1,41 @@
 {
-	"acmid": 776288,
-	"author": ["Stephen J. Fink", "Feng Qian"],
-	"booktitle": "CGO",
+	"acmid": "776288",
+	"author": [
+		"Stephen J. Fink",
+		"Feng Qian"
+	],
+	"booktitle": "Proceedings of the First International Symposium on Code Generation and Optimization",
+	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2003",
 	"dblpkey": "conf/cgo/FinkQ03",
 	"doi": "10.1109/CGO.2003.1191549",
-	"ee": ["http://dx.doi.org/10.1109/CGO.2003.1191549", "http://doi.ieeecomputersociety.org/10.1109/CGO.2003.1191549", "http://dl.acm.org/citation.cfm?id=776288"],
+	"ee": [
+		"http://dx.doi.org/10.1109/CGO.2003.1191549",
+		"http://doi.ieeecomputersociety.org/10.1109/CGO.2003.1191549",
+		"http://dl.acm.org/citation.cfm?id=776288"
+	],
 	"pages": "241-252",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["design", "implement", "and", "evalu", "of", "adapt", "recompil", "with", "on", "stack", "replac"],
-	"tag": ["adaptation", "design", "evaluation", "implementation"],
+	"stemmed": [
+		"design",
+		"implement",
+		"and",
+		"evalu",
+		"of",
+		"adapt",
+		"recompil",
+		"with",
+		"on",
+		"stack",
+		"replac"
+	],
+	"tag": [
+		"adaptation",
+		"design",
+		"evaluation",
+		"implementation"
+	],
 	"title": "Design, Implementation and Evaluation of Adaptive Recompilation with On-Stack Replacement",
 	"type": "inproceedings",
 	"venue": "CGO",

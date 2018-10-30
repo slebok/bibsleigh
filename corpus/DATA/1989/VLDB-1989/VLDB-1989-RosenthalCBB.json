@@ -1,14 +1,38 @@
 {
-	"author": ["Arnon Rosenthal", "Sharma Chakravarthy", "Barbara T. Blaustein", "José A. Blakeley"],
-	"booktitle": "VLDB",
-	"cite": ["conf/sigmod/BlakeleyLT86", "...", "...", "journals/sigmod/DayalBBCHLMRSCLJ88", "conf/jcdkb/Dayal88", "journals/sigmod/DittrichKM86", "conf/vldb/KoenigP81", "..."],
+	"author": [
+		"Arnon Rosenthal",
+		"Sharma Chakravarthy",
+		"Barbara T. Blaustein",
+		"José A. Blakeley"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/sigmod/BlakeleyLT86",
+		"...",
+		"...",
+		"journals/sigmod/DayalBBCHLMRSCLJ88",
+		"conf/jcdkb/Dayal88",
+		"journals/sigmod/DittrichKM86",
+		"conf/vldb/KoenigP81",
+		"..."
+	],
 	"crossref": "conf/vldb/89",
 	"dblpkey": "conf/vldb/RosenthalCBB89",
 	"ee": "http://www.vldb.org/conf/1989/P455.PDF",
 	"pages": "455-464",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["situat", "monitor", "for", "activ", "databas"],
-	"tag": ["database", "monitoring"],
+	"stemmed": [
+		"situat",
+		"monitor",
+		"for",
+		"activ",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"monitoring"
+	],
 	"title": "Situation Monitoring for Active Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,6 +1,7 @@
 {
 	"author": "Helga Noll",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Fifth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1980",
 	"dblpkey": "conf/cade/Noll80",
 	"doi": "10.1007/3-540-10009-1_20",
@@ -10,11 +11,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "note", "on", "resolut", "how", "to", "get", "rid", "of", "factor", "without", "loos", "complet"],
-	"tag": ["how"],
+	"stemmed": [
+		"a",
+		"note",
+		"on",
+		"resolut",
+		"how",
+		"to",
+		"get",
+		"rid",
+		"of",
+		"factor",
+		"without",
+		"loos",
+		"complet"
+	],
+	"tag": [
+		"how"
+	],
 	"title": "A Note on Resolution: How to Get Rid of Factoring without Loosing Completeness",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 87,
+	"volume": "87",
 	"year": 1980
 }

@@ -1,6 +1,7 @@
 {
 	"author": "Guillaume Burel",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 23rd International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2011",
 	"dblpkey": "conf/cade/Burel11",
 	"doi": "10.1007/978-3-642-22438-6_14",
@@ -10,11 +11,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["experi", "with", "deduct", "modulo"],
-	"tag": ["deduction"],
+	"stemmed": [
+		"experi",
+		"with",
+		"deduct",
+		"modulo"
+	],
+	"tag": [
+		"deduction"
+	],
 	"title": "Experimenting with Deduction Modulo",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 6803,
+	"volume": "6803",
 	"year": 2011
 }

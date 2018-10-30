@@ -1,14 +1,35 @@
 {
-	"author": ["Sang-Il Han", "Xavier Guerin", "Soo-Ik Chae", "Ahmed Amine Jerraya"],
-	"booktitle": "DAC",
+	"author": [
+		"Sang-Il Han",
+		"Xavier Guerin",
+		"Soo-Ik Chae",
+		"Ahmed Amine Jerraya"
+	],
+	"booktitle": "Proceedings of the 43rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/HanGCJ06",
 	"doi": "10.1145/1146909.1147084",
 	"ee": "http://doi.acm.org/10.1145/1146909.1147084",
 	"pages": "689-694",
 	"publisher": "ACM",
-	"stemmed": ["buffer", "memori", "optim", "for", "video", "codec", "applic", "model", "in", "simulink"],
-	"tag": ["memory management", "optimisation", "video"],
+	"stemmed": [
+		"buffer",
+		"memori",
+		"optim",
+		"for",
+		"video",
+		"codec",
+		"applic",
+		"model",
+		"in",
+		"simulink"
+	],
+	"tag": [
+		"memory management",
+		"optimisation",
+		"video"
+	],
 	"title": "Buffer memory optimization for video codec application modeled in Simulink",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,17 +1,43 @@
 {
-	"author": ["Feng Xian", "Witawas Srisa-an", "Hong Jiang"],
-	"booktitle": "Proceedings of the 22nd Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Feng Xian",
+		"Witawas Srisa-an",
+		"Hong Jiang"
+	],
+	"booktitle": "Proceedings of the 22nd Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2007",
 	"dblpkey": "conf/oopsla/XianSJ07",
 	"doi": "10.1145/1297027.1297034",
-	"editor": ["Richard P. Gabriel", "David F. Bacon", "Cristina Videira Lopes", "Guy L. Steele Jr."],
+	"editor": [
+		"Richard P. Gabriel",
+		"David F. Bacon",
+		"Cristina Videira Lopes",
+		"Guy L. Steele Jr."
+	],
 	"ee": "http://doi.acm.org/10.1145/1297027.1297034",
 	"isbn": "978-1-59593-786-5",
 	"pages": "77-96",
 	"publisher": "ACM",
-	"stemmed": ["microphas", "an", "approach", "to", "proactiv", "invok", "garbag", "collect", "for", "improv", "perform"],
-	"tag": ["approach", "garbage collection", "named", "performance"],
+	"stemmed": [
+		"microphas",
+		"an",
+		"approach",
+		"to",
+		"proactiv",
+		"invok",
+		"garbag",
+		"collect",
+		"for",
+		"improv",
+		"perform"
+	],
+	"tag": [
+		"approach",
+		"garbage collection",
+		"named",
+		"performance"
+	],
 	"title": "Microphase: an approach to proactively invoking garbage collection for improved performance",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

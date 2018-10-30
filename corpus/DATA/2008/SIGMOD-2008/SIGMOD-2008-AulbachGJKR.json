@@ -1,6 +1,12 @@
 {
-	"author": ["Stefan Aulbach", "Torsten Grust", "Dean Jacobs", "Alfons Kemper", "Jan Rittinger"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Stefan Aulbach",
+		"Torsten Grust",
+		"Dean Jacobs",
+		"Alfons Kemper",
+		"Jan Rittinger"
+	],
+	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2008",
 	"dblpkey": "conf/sigmod/AulbachGJKR08",
@@ -8,8 +14,24 @@
 	"ee": "http://doi.acm.org/10.1145/1376616.1376736",
 	"pages": "1195-1206",
 	"publisher": "ACM",
-	"stemmed": ["multi", "tenant", "databas", "for", "softwar", "as", "a", "servic", "schema", "map", "techniqu"],
-	"tag": ["as a service", "database", "multitenancy"],
+	"stemmed": [
+		"multi",
+		"tenant",
+		"databas",
+		"for",
+		"softwar",
+		"as",
+		"a",
+		"servic",
+		"schema",
+		"map",
+		"techniqu"
+	],
+	"tag": [
+		"as a service",
+		"database",
+		"multitenancy"
+	],
 	"title": "Multi-tenant databases for software as a service: schema-mapping techniques",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

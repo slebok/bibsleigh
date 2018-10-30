@@ -1,6 +1,11 @@
 {
-	"author": ["Gergely Kovásznai", "Andreas Fröhlich", "Armin Biere"],
-	"booktitle": "CADE",
+	"author": [
+		"Gergely Kovásznai",
+		"Andreas Fröhlich",
+		"Armin Biere"
+	],
+	"booktitle": "Proceedings of the 24th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2013",
 	"dblpkey": "conf/cade/KovasznaiFB13",
 	"doi": "10.1007/978-3-642-38574-2_32",
@@ -10,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "tool", "for", "polynomi", "translat", "quantifi", "free", "bit", "vector", "formula", "into"],
-	"tag": ["quantifier"],
+	"stemmed": [
+		"a",
+		"tool",
+		"for",
+		"polynomi",
+		"translat",
+		"quantifi",
+		"free",
+		"bit",
+		"vector",
+		"formula",
+		"into"
+	],
+	"tag": [
+		"quantifier"
+	],
 	"title": ": A Tool for Polynomially Translating Quantifier-Free Bit-Vector Formulas into",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 7898,
+	"volume": "7898",
 	"year": 2013
 }

@@ -1,6 +1,7 @@
 {
 	"author": "V. S. Subrahmanian",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
 	"dblpkey": "conf/cade/Subrahmanian88",
 	"doi": "10.1007/BFb0012824",
@@ -10,11 +11,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["queri", "process", "in", "quantit", "logic", "program"],
-	"tag": ["logic programming", "query"],
+	"stemmed": [
+		"queri",
+		"process",
+		"in",
+		"quantit",
+		"logic",
+		"program"
+	],
+	"tag": [
+		"logic programming",
+		"query"
+	],
 	"title": "Query Processing in Quantitative Logic Programming",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 310,
+	"volume": "310",
 	"year": 1988
 }

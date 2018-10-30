@@ -1,14 +1,33 @@
 {
-	"author": ["Fumihiko Ino", "Noriyuki Fujimoto", "Kenichi Hagihara"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Fumihiko Ino",
+		"Noriyuki Fujimoto",
+		"Kenichi Hagihara"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2001",
 	"dblpkey": "conf/ppopp/InoFH01",
 	"doi": "10.1145/379539.379592",
 	"ee": "http://doi.acm.org/10.1145/379539.379592",
 	"pages": "133-142",
 	"publisher": "ACM",
-	"stemmed": ["log", "gps", "a", "parallel", "comput", "model", "for", "synchron", "analysi"],
-	"tag": ["analysis", "named", "parallel"],
+	"stemmed": [
+		"log",
+		"gps",
+		"a",
+		"parallel",
+		"comput",
+		"model",
+		"for",
+		"synchron",
+		"analysi"
+	],
+	"tag": [
+		"analysis",
+		"named",
+		"parallel"
+	],
 	"title": "LogGPS: a parallel computational model for synchronization analysis",
 	"type": "inproceedings",
 	"venue": "PPoPP",

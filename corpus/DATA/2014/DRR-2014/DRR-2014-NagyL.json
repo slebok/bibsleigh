@@ -1,6 +1,10 @@
 {
-	"author": ["George Nagy", "Daniel P. Lopresti"],
-	"booktitle": "DRR",
+	"author": [
+		"George Nagy",
+		"Daniel P. Lopresti"
+	],
+	"booktitle": "Proceedings of the 21st Conference on Document Recognition and Retrieval",
+	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2014",
 	"dblpkey": "conf/drr/NagyL14",
 	"doi": "10.1117/12.2041956",
@@ -8,11 +12,27 @@
 	"pages": "902106-902106-8",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": ["form", "similar", "via", "levenshtein", "distanc", "between", "ortho", "filter", "logarithm", "rule", "gap", "ratio"],
-	"tag": ["distance", "similarity"],
+	"stemmed": [
+		"form",
+		"similar",
+		"via",
+		"levenshtein",
+		"distanc",
+		"between",
+		"ortho",
+		"filter",
+		"logarithm",
+		"rule",
+		"gap",
+		"ratio"
+	],
+	"tag": [
+		"distance",
+		"similarity"
+	],
 	"title": "Form similarity via Levenshtein distance between ortho-filtered logarithmic ruling-gap ratios",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": 9021,
+	"volume": "9021",
 	"year": 2014
 }

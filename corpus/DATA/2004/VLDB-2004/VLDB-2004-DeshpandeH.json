@@ -1,13 +1,30 @@
 {
-	"author": ["Amol Deshpande", "Joseph M. Hellerstein"],
-	"booktitle": "VLDB",
+	"author": [
+		"Amol Deshpande",
+		"Joseph M. Hellerstein"
+	],
+	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/DeshpandeH04",
 	"ee": "http://www.vldb.org/conf/2004/RS24P2.PDF",
 	"pages": "948-959",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["lift", "the", "burden", "of", "histori", "from", "adapt", "queri", "process"],
-	"tag": ["adaptation", "query"],
+	"stemmed": [
+		"lift",
+		"the",
+		"burden",
+		"of",
+		"histori",
+		"from",
+		"adapt",
+		"queri",
+		"process"
+	],
+	"tag": [
+		"adaptation",
+		"query"
+	],
 	"title": "Lifting the Burden of History from Adaptive Query Processing",
 	"type": "inproceedings",
 	"venue": "VLDB",

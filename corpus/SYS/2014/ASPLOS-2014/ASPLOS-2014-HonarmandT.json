@@ -1,14 +1,31 @@
 {
-	"author": ["Nima Honarmand", "Josep Torrellas"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Nima Honarmand",
+		"Josep Torrellas"
+	],
+	"booktitle": "Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2014",
 	"dblpkey": "conf/asplos/HonarmandT14",
 	"doi": "10.1145/2541940.2541979",
 	"ee": "http://doi.acm.org/10.1145/2541940.2541979",
 	"pages": "223-238",
 	"publisher": "ACM",
-	"stemmed": ["relax", "replay", "record", "and", "replay", "for", "relax", "consist", "multiprocessor"],
-	"tag": ["multi", "named"],
+	"stemmed": [
+		"relax",
+		"replay",
+		"record",
+		"and",
+		"replay",
+		"for",
+		"relax",
+		"consist",
+		"multiprocessor"
+	],
+	"tag": [
+		"multi",
+		"named"
+	],
 	"title": "RelaxReplay: record and replay for relaxed-consistency multiprocessors",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,13 +1,38 @@
 {
-	"author": ["Silas Boyd-Wickizer", "Haibo Chen", "Rong Chen", "Yandong Mao", "M. Frans Kaashoek", "Robert Morris", "Aleksey Pesterev", "Lex Stein", "Ming Wu", "Yue-hua Dai", "Yang Zhang", "Zheng Zhang"],
-	"booktitle": "OSDI",
+	"author": [
+		"Silas Boyd-Wickizer",
+		"Haibo Chen",
+		"Rong Chen",
+		"Yandong Mao",
+		"M. Frans Kaashoek",
+		"Robert Morris",
+		"Aleksey Pesterev",
+		"Lex Stein",
+		"Ming Wu",
+		"Yue-hua Dai",
+		"Yang Zhang",
+		"Zheng Zhang"
+	],
+	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/Boyd-WickizerCCMKMPSWDZZ08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/boyd-wickizer/boyd-wickizer.pdf",
 	"pages": "43-57",
 	"publisher": "USENIX Association",
-	"stemmed": ["corey", "an", "oper", "system", "for", "mani", "core"],
-	"tag": ["named", "operating system"],
+	"stemmed": [
+		"corey",
+		"an",
+		"oper",
+		"system",
+		"for",
+		"mani",
+		"core"
+	],
+	"tag": [
+		"named",
+		"operating system"
+	],
 	"title": "Corey: An Operating System for Many Cores",
 	"type": "inproceedings",
 	"venue": "OSDI",

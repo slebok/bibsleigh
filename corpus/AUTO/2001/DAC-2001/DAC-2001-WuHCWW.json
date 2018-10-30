@@ -1,14 +1,39 @@
 {
-	"author": ["Chi-Feng Wu", "Chih-Tsun Huang", "Kuo-Liang Cheng", "Chih-Wea Wang", "Cheng-Wen Wu"],
-	"booktitle": "DAC",
+	"author": [
+		"Chi-Feng Wu",
+		"Chih-Tsun Huang",
+		"Kuo-Liang Cheng",
+		"Chih-Wea Wang",
+		"Cheng-Wen Wu"
+	],
+	"booktitle": "Proceedings of the 38th Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2001",
 	"dblpkey": "conf/dac/WuHCWW01",
 	"doi": "10.1145/378239.378491",
 	"ee": "http://doi.acm.org/10.1145/378239.378491",
 	"pages": "301-306",
 	"publisher": "ACM",
-	"stemmed": ["simul", "base", "test", "algorithm", "generat", "and", "port", "schedul", "for", "multi", "port", "memori"],
-	"tag": ["algorithm", "generative", "multi", "scheduling"],
+	"stemmed": [
+		"simul",
+		"base",
+		"test",
+		"algorithm",
+		"generat",
+		"and",
+		"port",
+		"schedul",
+		"for",
+		"multi",
+		"port",
+		"memori"
+	],
+	"tag": [
+		"algorithm",
+		"generative",
+		"multi",
+		"scheduling"
+	],
 	"title": "Simulation-Based Test Algorithm Generation and Port Scheduling for Multi-Port Memories",
 	"type": "inproceedings",
 	"venue": "DAC",

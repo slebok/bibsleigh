@@ -1,6 +1,11 @@
 {
-	"author": ["Kimihiro Ogawa", "Michinari Kohno", "Fusako Kitamura"],
-	"booktitle": "DATE",
+	"author": [
+		"Kimihiro Ogawa",
+		"Michinari Kohno",
+		"Fusako Kitamura"
+	],
+	"booktitle": "Proceedings of the Third Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1998",
 	"dblpkey": "conf/date/OgawaKK98",
 	"doi": "10.1109/DATE.1998.655831",
@@ -8,8 +13,18 @@
 	"pages": "15-20",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["pastel", "a", "parameter", "memori", "character", "system"],
-	"tag": ["memory management", "named"],
+	"stemmed": [
+		"pastel",
+		"a",
+		"parameter",
+		"memori",
+		"character",
+		"system"
+	],
+	"tag": [
+		"memory management",
+		"named"
+	],
 	"title": "PASTEL: A Parameterized Memory Characterization System",
 	"type": "inproceedings",
 	"venue": "DATE",

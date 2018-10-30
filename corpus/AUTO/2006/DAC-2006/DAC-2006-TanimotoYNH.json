@@ -1,14 +1,39 @@
 {
-	"author": ["Tadaaki Tanimoto", "Seiji Yamaguchi", "Akio Nakata", "Teruo Higashino"],
-	"booktitle": "DAC",
+	"author": [
+		"Tadaaki Tanimoto",
+		"Seiji Yamaguchi",
+		"Akio Nakata",
+		"Teruo Higashino"
+	],
+	"booktitle": "Proceedings of the 43rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/TanimotoYNH06",
 	"doi": "10.1145/1146909.1146923",
 	"ee": "http://doi.acm.org/10.1145/1146909.1146923",
 	"pages": "37-42",
 	"publisher": "ACM",
-	"stemmed": ["a", "real", "time", "budget", "method", "for", "modul", "level", "pipelin", "bus", "base", "system", "use", "bus", "scenario"],
-	"tag": ["realtime", "using"],
+	"stemmed": [
+		"a",
+		"real",
+		"time",
+		"budget",
+		"method",
+		"for",
+		"modul",
+		"level",
+		"pipelin",
+		"bus",
+		"base",
+		"system",
+		"use",
+		"bus",
+		"scenario"
+	],
+	"tag": [
+		"realtime",
+		"using"
+	],
 	"title": "A real time budgeting method for module-level-pipelined bus based system using bus scenarios",
 	"type": "inproceedings",
 	"venue": "DAC",

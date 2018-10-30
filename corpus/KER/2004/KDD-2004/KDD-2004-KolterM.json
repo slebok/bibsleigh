@@ -1,14 +1,31 @@
 {
-	"author": ["Jeremy Z. Kolter", "Marcus A. Maloof"],
-	"booktitle": "KDD",
+	"author": [
+		"Jeremy Z. Kolter",
+		"Marcus A. Maloof"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2004",
 	"dblpkey": "conf/kdd/KolterM04",
 	"doi": "10.1145/1014052.1014105",
 	"ee": "http://doi.acm.org/10.1145/1014052.1014105",
 	"pages": "470-478",
 	"publisher": "ACM",
-	"stemmed": ["learn", "to", "detect", "malici", "execut", "in", "the", "wild"],
-	"tag": ["bytecode", "detection", "learning"],
+	"stemmed": [
+		"learn",
+		"to",
+		"detect",
+		"malici",
+		"execut",
+		"in",
+		"the",
+		"wild"
+	],
+	"tag": [
+		"bytecode",
+		"detection",
+		"learning"
+	],
 	"title": "Learning to detect malicious executables in the wild",
 	"type": "inproceedings",
 	"venue": "KDD",

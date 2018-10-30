@@ -1,14 +1,34 @@
 {
-	"author": ["Rada Chirkova", "Michael R. Genesereth"],
-	"booktitle": "PODS",
+	"author": [
+		"Rada Chirkova",
+		"Michael R. Genesereth"
+	],
+	"booktitle": "Proceedings of the 28th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2009",
 	"dblpkey": "conf/pods/ChirkovaG09",
 	"doi": "10.1145/1559795.1559829",
 	"ee": "http://doi.acm.org/10.1145/1559795.1559829",
 	"pages": "217-226",
 	"publisher": "ACM",
-	"stemmed": ["equival", "of", "sql", "queri", "in", "presenc", "of", "embed", "depend"],
-	"tag": ["dependence", "embedded", "equivalence", "query", "sql"],
+	"stemmed": [
+		"equival",
+		"of",
+		"sql",
+		"queri",
+		"in",
+		"presenc",
+		"of",
+		"embed",
+		"depend"
+	],
+	"tag": [
+		"dependence",
+		"embedded",
+		"equivalence",
+		"query",
+		"sql"
+	],
 	"title": "Equivalence of SQL queries in presence of embedded dependencies",
 	"type": "inproceedings",
 	"venue": "PODS",

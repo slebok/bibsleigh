@@ -1,14 +1,36 @@
 {
-	"author": ["John Robert Wernsing", "Greg Stitt"],
-	"booktitle": "PPOPP",
+	"author": [
+		"John Robert Wernsing",
+		"Greg Stitt"
+	],
+	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/WernsingS12",
 	"doi": "10.1145/2145816.2145875",
 	"ee": "http://doi.acm.org/10.1145/2145816.2145875",
 	"pages": "321-322",
 	"publisher": "ACM",
-	"stemmed": ["racecar", "a", "heurist", "for", "automat", "function", "special", "on", "multi", "core", "heterogen", "system"],
-	"tag": ["automation", "heuristic", "manycore", "named"],
+	"stemmed": [
+		"racecar",
+		"a",
+		"heurist",
+		"for",
+		"automat",
+		"function",
+		"special",
+		"on",
+		"multi",
+		"core",
+		"heterogen",
+		"system"
+	],
+	"tag": [
+		"automation",
+		"heuristic",
+		"manycore",
+		"named"
+	],
 	"title": "RACECAR: a heuristic for automatic function specialization on multi-core heterogeneous systems",
 	"type": "inproceedings",
 	"venue": "PPoPP",

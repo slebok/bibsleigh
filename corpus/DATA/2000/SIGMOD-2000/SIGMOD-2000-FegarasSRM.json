@@ -1,16 +1,38 @@
 {
-	"author": ["Leonidas Fegaras", "Chandrasekhar Srinivasan", "Arvind Rajendran", "David Maier"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Leonidas Fegaras",
+		"Chandrasekhar Srinivasan",
+		"Arvind Rajendran",
+		"David Maier"
+	],
+	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
-	"cite": ["conf/sigmod/CareyDFHMNSSTTWZ94", "books/mk/Cattell97", "conf/sigmod/Fegaras98", "conf/sigmod/FegarasM95"],
+	"cite": [
+		"conf/sigmod/CareyDFHMNSSTTWZ94",
+		"books/mk/Cattell97",
+		"conf/sigmod/Fegaras98",
+		"conf/sigmod/FegarasM95"
+	],
 	"crossref": "conf/sigmod/2000",
 	"dblpkey": "conf/sigmod/FegarasSRM00",
 	"doi": "10.1145/342009.335494",
 	"ee": "http://doi.acm.org/10.1145/342009.335494",
-	"pages": 583,
+	"pages": "583",
 	"publisher": "ACM",
-	"stemmed": ["lambda", "db", "an", "odmg", "base", "object", "orient", "dbms"],
-	"tag": ["named", "object-oriented"],
+	"stemmed": [
+		"lambda",
+		"db",
+		"an",
+		"odmg",
+		"base",
+		"object",
+		"orient",
+		"dbms"
+	],
+	"tag": [
+		"named",
+		"object-oriented"
+	],
 	"title": "lambda-DB: An ODMG-Based Object-Oriented DBMS",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

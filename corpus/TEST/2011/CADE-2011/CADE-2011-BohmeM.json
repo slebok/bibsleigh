@@ -1,6 +1,10 @@
 {
-	"author": ["Sascha Böhme", "Michal Moskal"],
-	"booktitle": "CADE",
+	"author": [
+		"Sascha Böhme",
+		"Michal Moskal"
+	],
+	"booktitle": "Proceedings of the 23rd International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2011",
 	"dblpkey": "conf/cade/BohmeM11",
 	"doi": "10.1007/978-3-642-22438-6_15",
@@ -10,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["heap", "and", "data", "structur", "a", "challeng", "for", "autom", "prover"],
-	"tag": ["automation", "challenge", "data type", "proving"],
+	"stemmed": [
+		"heap",
+		"and",
+		"data",
+		"structur",
+		"a",
+		"challeng",
+		"for",
+		"autom",
+		"prover"
+	],
+	"tag": [
+		"automation",
+		"challenge",
+		"data type",
+		"proving"
+	],
 	"title": "Heaps and Data Structures: A Challenge for Automated Provers",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 6803,
+	"volume": "6803",
 	"year": 2011
 }

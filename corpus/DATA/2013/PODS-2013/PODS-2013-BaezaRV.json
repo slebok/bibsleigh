@@ -1,14 +1,29 @@
 {
-	"author": ["Pablo Barceló Baeza", "Miguel Romero", "Moshe Y. Vardi"],
-	"booktitle": "PODS",
+	"author": [
+		"Pablo Barceló Baeza",
+		"Miguel Romero",
+		"Moshe Y. Vardi"
+	],
+	"booktitle": "Proceedings of the 32nd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2013",
 	"dblpkey": "conf/pods/BaezaRV13",
 	"doi": "10.1145/2463664.2463671",
 	"ee": "http://doi.acm.org/10.1145/2463664.2463671",
 	"pages": "237-248",
 	"publisher": "ACM",
-	"stemmed": ["semant", "acycl", "on", "graph", "databas"],
-	"tag": ["database", "graph", "semantics"],
+	"stemmed": [
+		"semant",
+		"acycl",
+		"on",
+		"graph",
+		"databas"
+	],
+	"tag": [
+		"database",
+		"graph",
+		"semantics"
+	],
 	"title": "Semantic acyclicity on graph databases",
 	"type": "inproceedings",
 	"venue": "PODS",

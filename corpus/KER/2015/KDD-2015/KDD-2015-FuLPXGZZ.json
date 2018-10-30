@@ -1,14 +1,36 @@
 {
-	"author": ["Yanjie Fu", "Guannan Liu", "Spiros Papadimitriou", "Hui Xiong", "Yong Ge", "Hengshu Zhu", "Chen Zhu"],
-	"booktitle": "KDD",
+	"author": [
+		"Yanjie Fu",
+		"Guannan Liu",
+		"Spiros Papadimitriou",
+		"Hui Xiong",
+		"Yong Ge",
+		"Hengshu Zhu",
+		"Chen Zhu"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/FuLPXGZZ15",
 	"doi": "10.1145/2783258.2783383",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783383",
 	"pages": "299-308",
 	"publisher": "ACM",
-	"stemmed": ["real", "estat", "rank", "via", "mix", "land", "use", "latent", "model"],
-	"tag": ["modelling", "ranking"],
+	"stemmed": [
+		"real",
+		"estat",
+		"rank",
+		"via",
+		"mix",
+		"land",
+		"use",
+		"latent",
+		"model"
+	],
+	"tag": [
+		"modelling",
+		"ranking"
+	],
 	"title": "Real Estate Ranking via Mixed Land-use Latent Models",
 	"type": "inproceedings",
 	"venue": "KDD",

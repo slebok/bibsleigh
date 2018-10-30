@@ -1,6 +1,10 @@
 {
-	"author": ["Ophir Frieder", "Hava T. Siegelmann"],
+	"author": [
+		"Ophir Frieder",
+		"Hava T. Siegelmann"
+	],
 	"booktitle": "Proceedings of the 14th International ACM SIGIR Conference on Research and Development in Information Retrieval (Special Issue of the SIGIR Forum)",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1991/P230.pdf",
 	"crossref": "conf/sigir/91",
 	"dblpkey": "conf/sigir/FriederS91",
@@ -8,8 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/122860.122884",
 	"pages": "230-239",
 	"publisher": "ACM",
-	"stemmed": ["on", "the", "alloc", "of", "document", "in", "multiprocessor", "inform", "retriev", "system"],
-	"tag": ["documentation", "information retrieval", "multi", "on the"],
+	"stemmed": [
+		"on",
+		"the",
+		"alloc",
+		"of",
+		"document",
+		"in",
+		"multiprocessor",
+		"inform",
+		"retriev",
+		"system"
+	],
+	"tag": [
+		"documentation",
+		"information retrieval",
+		"multi",
+		"on the"
+	],
 	"title": "On the Allocation of Documents in Multiprocessor Information Retrieval Systems",
 	"type": "inproceedings",
 	"venue": "SIGIR",

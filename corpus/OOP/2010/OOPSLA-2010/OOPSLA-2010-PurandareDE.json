@@ -1,17 +1,36 @@
 {
-	"author": ["Rahul Purandare", "Matthew B. Dwyer", "Sebastian G. Elbaum"],
-	"booktitle": "Proceedings of the 25th Annual Conference on Object-Oriented Programming, Systems, Languages, and Applications",
+	"author": [
+		"Rahul Purandare",
+		"Matthew B. Dwyer",
+		"Sebastian G. Elbaum"
+	],
+	"booktitle": "Proceedings of the 25th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2010",
 	"dblpkey": "conf/oopsla/PurandareDE10",
 	"doi": "10.1145/1869459.1869483",
-	"editor": ["William R. Cook", "Siobhán Clarke", "Martin C. Rinard"],
+	"editor": [
+		"William R. Cook",
+		"Siobhán Clarke",
+		"Martin C. Rinard"
+	],
 	"ee": "http://doi.acm.org/10.1145/1869459.1869483",
 	"isbn": "978-1-4503-0203-6",
 	"pages": "270-285",
 	"publisher": "ACM",
-	"stemmed": ["monitor", "optim", "via", "stutter", "equival", "loop", "transform"],
-	"tag": ["monitoring", "optimisation"],
+	"stemmed": [
+		"monitor",
+		"optim",
+		"via",
+		"stutter",
+		"equival",
+		"loop",
+		"transform"
+	],
+	"tag": [
+		"monitoring",
+		"optimisation"
+	],
 	"title": "Monitor optimization via stutter-equivalent loop transformation",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

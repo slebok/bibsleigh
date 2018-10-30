@@ -1,15 +1,47 @@
 {
-	"author": ["Hao Yu", "Ramendra K. Sahoo", "C. Howson", "G. Almasi", "José G. Castaños", "Manish Gupta", "José E. Moreira", "J. J. Parker", "Thomas Engelsiepen", "Robert B. Ross", "Rajeev Thakur", "Robert Latham", "William D. Gropp"],
-	"booktitle": "HPCA",
+	"author": [
+		"Hao Yu",
+		"Ramendra K. Sahoo",
+		"C. Howson",
+		"G. Almasi",
+		"José G. Castaños",
+		"Manish Gupta",
+		"José E. Moreira",
+		"J. J. Parker",
+		"Thomas Engelsiepen",
+		"Robert B. Ross",
+		"Rajeev Thakur",
+		"Robert Latham",
+		"William D. Gropp"
+	],
+	"booktitle": "Proceedings of the 12th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2006",
 	"dblpkey": "conf/hpca/YuSHACGMPERTLG06",
 	"doi": "10.1109/HPCA.2006.1598125",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2006.1598125", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2006.1598125"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2006.1598125",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2006.1598125"
+	],
 	"pages": "187-196",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["high", "perform", "file", "i", "o", "for", "the", "blue", "gene", "l", "supercomput"],
-	"tag": ["performance"],
+	"stemmed": [
+		"high",
+		"perform",
+		"file",
+		"i",
+		"o",
+		"for",
+		"the",
+		"blue",
+		"gene",
+		"l",
+		"supercomput"
+	],
+	"tag": [
+		"performance"
+	],
 	"title": "High performance file I/O for the Blue Gene/L supercomputer",
 	"type": "inproceedings",
 	"venue": "HPCA",

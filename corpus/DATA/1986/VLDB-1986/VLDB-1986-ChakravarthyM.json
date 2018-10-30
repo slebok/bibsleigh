@@ -1,14 +1,44 @@
 {
-	"author": ["Upen S. Chakravarthy", "Jack Minker"],
-	"booktitle": "VLDB",
-	"cite": ["journals/debu/ChakravarthyM82", "...", "conf/adbt/GrantM79", "books/sp/kimrb85/Jarke85", "...", "books/cs/Maier83", "books/cs/Ullman82", "journals/tods/WongY76"],
+	"author": [
+		"Upen S. Chakravarthy",
+		"Jack Minker"
+	],
+	"booktitle": "Proceedings of the 12th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"journals/debu/ChakravarthyM82",
+		"...",
+		"conf/adbt/GrantM79",
+		"books/sp/kimrb85/Jarke85",
+		"...",
+		"books/cs/Maier83",
+		"books/cs/Ullman82",
+		"journals/tods/WongY76"
+	],
 	"crossref": "conf/vldb/86",
 	"dblpkey": "conf/vldb/ChakravarthyM86",
 	"ee": "http://www.vldb.org/conf/1986/P384.PDF",
 	"pages": "384-391",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["multipl", "queri", "process", "in", "deduct", "databas", "use", "queri", "graph"],
-	"tag": ["database", "deduction", "graph", "multi", "query", "using"],
+	"stemmed": [
+		"multipl",
+		"queri",
+		"process",
+		"in",
+		"deduct",
+		"databas",
+		"use",
+		"queri",
+		"graph"
+	],
+	"tag": [
+		"database",
+		"deduction",
+		"graph",
+		"multi",
+		"query",
+		"using"
+	],
 	"title": "Multiple Query Processing in Deductive Databases using Query Graphs",
 	"type": "inproceedings",
 	"venue": "VLDB",

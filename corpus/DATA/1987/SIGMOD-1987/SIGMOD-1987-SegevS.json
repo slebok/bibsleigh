@@ -1,15 +1,43 @@
 {
-	"author": ["Arie Segev", "Arie Shoshani"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Arie Segev",
+		"Arie Shoshani"
+	],
+	"booktitle": "Proceedings of the 17th ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD87/P454.PDF",
-	"cite": ["conf/vldb/AdibaQ86", "...", "journals/sigmod/BolourADW82", "conf/sigmod/CliffordT85", "conf/icde/Gadia86", "conf/er/Klopprogge81", "conf/sigmod/LumDEGPWWW84", "conf/icde/RotemS87", "conf/tdb/SegevS87", "conf/vldb/ShoshaniK86", "journals/tods/SmithS77", "conf/pods/Snodgrass84", "conf/sigmod/SnodgrassA85", "conf/icde/Studer86"],
+	"cite": [
+		"conf/vldb/AdibaQ86",
+		"...",
+		"journals/sigmod/BolourADW82",
+		"conf/sigmod/CliffordT85",
+		"conf/icde/Gadia86",
+		"conf/er/Klopprogge81",
+		"conf/sigmod/LumDEGPWWW84",
+		"conf/icde/RotemS87",
+		"conf/tdb/SegevS87",
+		"conf/vldb/ShoshaniK86",
+		"journals/tods/SmithS77",
+		"conf/pods/Snodgrass84",
+		"conf/sigmod/SnodgrassA85",
+		"conf/icde/Studer86"
+	],
 	"crossref": "conf/sigmod/87",
 	"dblpkey": "conf/sigmod/SegevS87",
 	"doi": "10.1145/38713.38760",
 	"ee": "http://doi.acm.org/10.1145/38713.38760",
 	"pages": "454-466",
-	"stemmed": ["logic", "model", "of", "tempor", "data"],
-	"tag": ["logic", "modelling"],
+	"stemmed": [
+		"logic",
+		"model",
+		"of",
+		"tempor",
+		"data"
+	],
+	"tag": [
+		"logic",
+		"modelling"
+	],
 	"title": "Logical Modeling of Temporal Data",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

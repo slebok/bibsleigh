@@ -1,15 +1,31 @@
 {
 	"author": "Ennio Grasso",
-	"booktitle": "EDOC",
+	"booktitle": "Proceedings of the First International Enterprise Distributed Object Computing Conference",
+	"booktitleshort": "EDOC",
 	"crossref": "conf/edoc/1997",
 	"dblpkey": "conf/edoc/Grasso97",
 	"doi": "10.1109/EDOC.1997.628359",
-	"ee": ["http://dx.doi.org/10.1109/EDOC.1997.628359", "http://doi.ieeecomputersociety.org/10.1109/EDOC.1997.628359"],
+	"ee": [
+		"http://dx.doi.org/10.1109/EDOC.1997.628359",
+		"http://doi.ieeecomputersociety.org/10.1109/EDOC.1997.628359"
+	],
 	"pages": "184-189",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["implement", "interposit", "in", "corba", "object", "transact", "servic"],
-	"tag": ["corba", "implementation", "transaction"],
+	"stemmed": [
+		"implement",
+		"interposit",
+		"in",
+		"corba",
+		"object",
+		"transact",
+		"servic"
+	],
+	"tag": [
+		"corba",
+		"implementation",
+		"transaction"
+	],
 	"title": "Implementing interposition in CORBA Object Transaction Service",
 	"type": "inproceedings",
 	"venue": "EDOC",

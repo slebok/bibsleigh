@@ -1,14 +1,39 @@
 {
-	"author": ["Asher Levi", "Osnat Mokryn", "Christophe Diot", "Nina Taft"],
-	"booktitle": "RecSys",
+	"author": [
+		"Asher Levi",
+		"Osnat Mokryn",
+		"Christophe Diot",
+		"Nina Taft"
+	],
+	"booktitle": "Proceedings of the Sixth Conference on Recommender Systems",
+	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2012",
 	"dblpkey": "conf/recsys/LeviMDT12a",
 	"doi": "10.1145/2365952.2366025",
 	"ee": "http://doi.acm.org/10.1145/2365952.2366025",
 	"pages": "305-306",
 	"publisher": "ACM",
-	"stemmed": ["find", "a", "needl", "in", "a", "haystack", "of", "review", "cold", "start", "context", "base", "hotel", "recommend", "system", "demo"],
-	"tag": ["recommendation"],
+	"stemmed": [
+		"find",
+		"a",
+		"needl",
+		"in",
+		"a",
+		"haystack",
+		"of",
+		"review",
+		"cold",
+		"start",
+		"context",
+		"base",
+		"hotel",
+		"recommend",
+		"system",
+		"demo"
+	],
+	"tag": [
+		"recommendation"
+	],
 	"title": "Finding a needle in a haystack of reviews: cold start context-based hotel recommender system demo",
 	"type": "inproceedings",
 	"venue": "RecSys",

@@ -1,14 +1,38 @@
 {
-	"author": ["Donglin Liang", "Maikel Pennings", "Mary Jean Harrold"],
-	"booktitle": "PASTE",
+	"author": [
+		"Donglin Liang",
+		"Maikel Pennings",
+		"Mary Jean Harrold"
+	],
+	"booktitle": "Proceedings of the Sixth Workshop on Program Analysis for Software Tools and Engineering",
+	"booktitleshort": "PASTE",
 	"crossref": "conf/paste/2005",
 	"dblpkey": "conf/paste/LiangPH05",
 	"doi": "10.1145/1108792.1108797",
 	"ee": "http://doi.acm.org/10.1145/1108792.1108797",
 	"pages": "6-12",
 	"publisher": "ACM",
-	"stemmed": ["evalu", "the", "impact", "of", "context", "sensit", "on", "andersen", "s", "algorithm", "for", "java", "program"],
-	"tag": ["algorithm", "context-sensitive grammar", "java", "source code"],
+	"stemmed": [
+		"evalu",
+		"the",
+		"impact",
+		"of",
+		"context",
+		"sensit",
+		"on",
+		"andersen",
+		"s",
+		"algorithm",
+		"for",
+		"java",
+		"program"
+	],
+	"tag": [
+		"algorithm",
+		"context-sensitive grammar",
+		"java",
+		"source code"
+	],
 	"title": "Evaluating the impact of context-sensitivity on Andersen’s algorithm for Java programs",
 	"type": "inproceedings",
 	"venue": "PASTE",

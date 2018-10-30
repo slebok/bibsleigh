@@ -1,14 +1,32 @@
 {
 	"author": "J. H. ter Bekke",
-	"booktitle": "VLDB",
+	"booktitle": "Proceedings of the Second International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"cdrom": "VLDB76/P159.PDF",
-	"cite": ["journals/cacm/Codd70", "conf/sigmod/Codd71", "persons/Codd72", "journals/cacm/AstrahanC75"],
+	"cite": [
+		"journals/cacm/Codd70",
+		"conf/sigmod/Codd71",
+		"persons/Codd72",
+		"journals/cacm/AstrahanC75"
+	],
 	"crossref": "conf/vldb/76",
 	"dblpkey": "conf/vldb/Bekke76",
 	"pages": "159-168",
 	"publisher": "North Holland & IFIP",
-	"stemmed": ["a", "data", "manipul", "languag", "for", "relat", "data", "structur"],
-	"tag": ["data type", "relational"],
+	"stemmed": [
+		"a",
+		"data",
+		"manipul",
+		"languag",
+		"for",
+		"relat",
+		"data",
+		"structur"
+	],
+	"tag": [
+		"data type",
+		"relational"
+	],
 	"title": "A Data Manipulation Language for Relational Data Structures",
 	"type": "inproceedings",
 	"venue": "VLDB",

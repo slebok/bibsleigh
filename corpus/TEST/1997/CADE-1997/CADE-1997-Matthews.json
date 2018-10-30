@@ -1,6 +1,7 @@
 {
 	"author": "Seán Matthews",
-	"booktitle": "CADE",
+	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
 	"dblpkey": "conf/cade/Matthews97",
 	"doi": "10.1007/3-540-63104-6_31",
@@ -10,11 +11,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "practic", "implement", "of", "simpl", "consequ", "relat", "use", "induct", "definit"],
-	"tag": ["implementation", "induction", "using"],
+	"stemmed": [
+		"a",
+		"practic",
+		"implement",
+		"of",
+		"simpl",
+		"consequ",
+		"relat",
+		"use",
+		"induct",
+		"definit"
+	],
+	"tag": [
+		"implementation",
+		"induction",
+		"using"
+	],
 	"title": "A Practical Implementation of Simple Consequence Relations Using Inductive Definitions",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 1249,
+	"volume": "1249",
 	"year": 1997
 }

@@ -1,14 +1,46 @@
 {
-	"author": ["Luiz Tucherman", "Antonio L. Furtado", "Marco A. Casanova"],
-	"booktitle": "VLDB",
-	"cite": ["...", "...", "conf/vldb/DoschMW82", "conf/vldb/EhrigKW78", "...", "conf/eds/FurtadoM84", "...", "journals/tods/LockemannMWW79", "journals/tse/LiskovZ75", "journals/cacm/Parnas72a", "journals/is/SchielFNC84", "conf/er/SantosNF79", "conf/vldb/TuchermanFC83", "...", "..."],
+	"author": [
+		"Luiz Tucherman",
+		"Antonio L. Furtado",
+		"Marco A. Casanova"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"...",
+		"conf/vldb/DoschMW82",
+		"conf/vldb/EhrigKW78",
+		"...",
+		"conf/eds/FurtadoM84",
+		"...",
+		"journals/tods/LockemannMWW79",
+		"journals/tse/LiskovZ75",
+		"journals/cacm/Parnas72a",
+		"journals/is/SchielFNC84",
+		"conf/er/SantosNF79",
+		"conf/vldb/TuchermanFC83",
+		"...",
+		"..."
+	],
 	"crossref": "conf/vldb/85",
 	"dblpkey": "conf/vldb/TuchermanFC85",
 	"ee": "http://www.vldb.org/conf/1985/P436.PDF",
 	"pages": "436-447",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["a", "tool", "for", "modular", "databas", "design"],
-	"tag": ["composition", "database", "design"],
+	"stemmed": [
+		"a",
+		"tool",
+		"for",
+		"modular",
+		"databas",
+		"design"
+	],
+	"tag": [
+		"composition",
+		"database",
+		"design"
+	],
 	"title": "A Tool for Modular Database Design",
 	"type": "inproceedings",
 	"venue": "VLDB",

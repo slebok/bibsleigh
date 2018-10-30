@@ -1,14 +1,45 @@
 {
-	"author": ["Eric Simon", "Angelika Kotz Dittrich"],
-	"booktitle": "VLDB",
-	"cite": ["conf/adb/BaralisCMP94", "conf/ride/ChandraS94", "conf/vldb/CeriW90", "conf/jcdkb/Dayal88", "conf/sigmod/DayalHL90", "...", "books/mk/GrayR93", "...", "conf/ride/Horowitz94", "...", "conf/artdb/LlirbatS95", "books/ph/Shasha92", "journals/tods/ShashaLSV95", "journals/tkde/Stonebraker92", "conf/caise/TsalgatidouKL90", "books/mk/WidomC96"],
+	"author": [
+		"Eric Simon",
+		"Angelika Kotz Dittrich"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"conf/adb/BaralisCMP94",
+		"conf/ride/ChandraS94",
+		"conf/vldb/CeriW90",
+		"conf/jcdkb/Dayal88",
+		"conf/sigmod/DayalHL90",
+		"...",
+		"books/mk/GrayR93",
+		"...",
+		"conf/ride/Horowitz94",
+		"...",
+		"conf/artdb/LlirbatS95",
+		"books/ph/Shasha92",
+		"journals/tods/ShashaLSV95",
+		"journals/tkde/Stonebraker92",
+		"conf/caise/TsalgatidouKL90",
+		"books/mk/WidomC96"
+	],
 	"crossref": "conf/vldb/95",
 	"dblpkey": "conf/vldb/SimonD95",
 	"ee": "http://www.vldb.org/conf/1995/P642.PDF",
 	"pages": "642-653",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["promis", "and", "realiti", "of", "activ", "databas", "system"],
-	"tag": ["database"],
+	"stemmed": [
+		"promis",
+		"and",
+		"realiti",
+		"of",
+		"activ",
+		"databas",
+		"system"
+	],
+	"tag": [
+		"database"
+	],
 	"title": "Promises and Realities of Active Database Systems",
 	"type": "inproceedings",
 	"venue": "VLDB",

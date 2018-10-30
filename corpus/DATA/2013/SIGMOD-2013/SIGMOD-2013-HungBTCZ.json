@@ -1,6 +1,12 @@
 {
-	"author": ["Ho Hoang Hung", "Sourav S. Bhowmick", "Ba Quan Truong", "Byron Choi", "Shuigeng Zhou"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Ho Hoang Hung",
+		"Sourav S. Bhowmick",
+		"Ba Quan Truong",
+		"Byron Choi",
+		"Shuigeng Zhou"
+	],
+	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/HungBTCZ13",
@@ -8,8 +14,27 @@
 	"ee": "http://doi.acm.org/10.1145/2463676.2463681",
 	"pages": "1097-1100",
 	"publisher": "ACM",
-	"stemmed": ["qubl", "blend", "visual", "subgraph", "queri", "formul", "with", "queri", "process", "on", "larg", "network"],
-	"tag": ["named", "network", "query", "scalability", "visual notation"],
+	"stemmed": [
+		"qubl",
+		"blend",
+		"visual",
+		"subgraph",
+		"queri",
+		"formul",
+		"with",
+		"queri",
+		"process",
+		"on",
+		"larg",
+		"network"
+	],
+	"tag": [
+		"named",
+		"network",
+		"query",
+		"scalability",
+		"visual notation"
+	],
 	"title": "QUBLE: blending visual subgraph query formulation with query processing on large networks",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

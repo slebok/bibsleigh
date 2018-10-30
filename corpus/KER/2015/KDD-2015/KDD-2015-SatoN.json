@@ -1,14 +1,36 @@
 {
-	"author": ["Issei Sato", "Hiroshi Nakagawa"],
-	"booktitle": "KDD",
+	"author": [
+		"Issei Sato",
+		"Hiroshi Nakagawa"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/SatoN15",
 	"doi": "10.1145/2783258.2783355",
 	"ee": "http://doi.acm.org/10.1145/2783258.2783355",
 	"pages": "1035-1044",
 	"publisher": "ACM",
-	"stemmed": ["stochast", "diverg", "minim", "for", "onlin", "collaps", "variat", "bay", "zero", "infer", "of", "latent", "dirichlet", "alloc"],
-	"tag": ["online", "probability"],
+	"stemmed": [
+		"stochast",
+		"diverg",
+		"minim",
+		"for",
+		"onlin",
+		"collaps",
+		"variat",
+		"bay",
+		"zero",
+		"infer",
+		"of",
+		"latent",
+		"dirichlet",
+		"alloc"
+	],
+	"tag": [
+		"online",
+		"probability"
+	],
 	"title": "Stochastic Divergence Minimization for Online Collapsed Variational Bayes Zero Inference of Latent Dirichlet Allocation",
 	"type": "inproceedings",
 	"venue": "KDD",

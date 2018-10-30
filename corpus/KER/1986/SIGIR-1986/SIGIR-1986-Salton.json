@@ -1,6 +1,7 @@
 {
 	"author": "Gerard Salton",
 	"booktitle": "Proceedings of the Ninth International ACM SIGIR Conference on Research and Development in Information Retrieval",
+	"booktitleshort": "SIGIR",
 	"cdrom": "SIGIR1986/P001.pdf",
 	"crossref": "conf/sigir/86",
 	"dblpkey": "conf/sigir/Salton86",
@@ -8,8 +9,19 @@
 	"ee": "http://doi.acm.org/10.1145/253168.253171",
 	"pages": "1-10",
 	"publisher": "ACM",
-	"stemmed": ["recent", "trend", "in", "automat", "inform", "retriev"],
-	"tag": ["automation", "information retrieval", "roadmap"],
+	"stemmed": [
+		"recent",
+		"trend",
+		"in",
+		"automat",
+		"inform",
+		"retriev"
+	],
+	"tag": [
+		"automation",
+		"information retrieval",
+		"roadmap"
+	],
 	"title": "Recent Trends in Automatic Information Retrieval",
 	"type": "inproceedings",
 	"venue": "SIGIR",

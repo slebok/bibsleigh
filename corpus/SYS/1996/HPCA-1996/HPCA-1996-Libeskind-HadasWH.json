@@ -1,15 +1,38 @@
 {
-	"author": ["Ran Libeskind-Hadas", "Kevin Watkins", "Thomas Hehre"],
-	"booktitle": "HPCA",
+	"author": [
+		"Ran Libeskind-Hadas",
+		"Kevin Watkins",
+		"Thomas Hehre"
+	],
+	"booktitle": "Proceedings of the Second International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1996",
 	"dblpkey": "conf/hpca/Libeskind-HadasWH96",
 	"doi": "10.1109/HPCA.1996.501184",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.1996.501184", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1996.501184"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.1996.501184",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1996.501184"
+	],
 	"pages": "180-190",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["fault", "toler", "multicast", "rout", "in", "the", "mesh", "with", "no", "virtual", "channel"],
-	"tag": ["fault tolerance", "multi"],
+	"stemmed": [
+		"fault",
+		"toler",
+		"multicast",
+		"rout",
+		"in",
+		"the",
+		"mesh",
+		"with",
+		"no",
+		"virtual",
+		"channel"
+	],
+	"tag": [
+		"fault tolerance",
+		"multi"
+	],
 	"title": "Fault-Tolerant Multicast Routing in the Mesh with No Virtual Channels",
 	"type": "inproceedings",
 	"venue": "HPCA",

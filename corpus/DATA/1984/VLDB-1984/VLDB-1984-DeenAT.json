@@ -1,14 +1,41 @@
 {
-	"author": ["S. Misbah Deen", "R. R. Amin", "Malcolm C. Taylor"],
-	"booktitle": "VLDB",
-	"cite": ["...", "conf/sigmod/EpsteinSW78", "conf/vldb/Dayal83", "journals/cj/DeenAOT85", "journals/tse/DeenAT87", "conf/ddss/DeenAT84", "conf/sigmod/MotroB81", "conf/berkeley/DayalH82"],
+	"author": [
+		"S. Misbah Deen",
+		"R. R. Amin",
+		"Malcolm C. Taylor"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"conf/sigmod/EpsteinSW78",
+		"conf/vldb/Dayal83",
+		"journals/cj/DeenAOT85",
+		"journals/tse/DeenAT87",
+		"conf/ddss/DeenAT84",
+		"conf/sigmod/MotroB81",
+		"conf/berkeley/DayalH82"
+	],
 	"crossref": "conf/vldb/84",
 	"dblpkey": "conf/vldb/DeenAT84",
 	"ee": "http://www.vldb.org/conf/1984/P397.PDF",
 	"pages": "397-400",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["a", "strategi", "for", "decompos", "complex", "queri", "in", "a", "heterogen", "ddb"],
-	"tag": ["query"],
+	"stemmed": [
+		"a",
+		"strategi",
+		"for",
+		"decompos",
+		"complex",
+		"queri",
+		"in",
+		"a",
+		"heterogen",
+		"ddb"
+	],
+	"tag": [
+		"query"
+	],
 	"title": "A Strategy for Decomposing Complex Queries in a Heterogeneous DDB",
 	"type": "inproceedings",
 	"venue": "VLDB",

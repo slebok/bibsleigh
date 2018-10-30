@@ -1,6 +1,12 @@
 {
-	"author": ["Jürgen Giesl", "René Thiemann", "Stephan Swiderski", "Peter Schneider-Kamp"],
-	"booktitle": "CADE",
+	"author": [
+		"Jürgen Giesl",
+		"René Thiemann",
+		"Stephan Swiderski",
+		"Peter Schneider-Kamp"
+	],
+	"booktitle": "Proceedings of the 21st International Conference on Automated Deduction",
+	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2007",
 	"dblpkey": "conf/cade/GieslTSS07",
 	"doi": "10.1007/978-3-540-73595-3_33",
@@ -10,11 +16,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["prove", "termin", "by", "bound", "increas"],
-	"tag": ["bound", "proving", "termination"],
+	"stemmed": [
+		"prove",
+		"termin",
+		"by",
+		"bound",
+		"increas"
+	],
+	"tag": [
+		"bound",
+		"proving",
+		"termination"
+	],
 	"title": "Proving Termination by Bounded Increase",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": 4603,
+	"volume": "4603",
 	"year": 2007
 }

@@ -1,6 +1,10 @@
 {
-	"author": ["Hans de Nivelle", "Jia Meng"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Hans de Nivelle",
+		"Jia Meng"
+	],
+	"booktitle": "Proceedings of the Third International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2006",
 	"dblpkey": "conf/cade/NivelleM06",
 	"doi": "10.1007/11814771_28",
@@ -10,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["geometr", "resolut", "a", "proof", "procedur", "base", "on", "finit", "model", "search"],
-	"tag": ["finite", "geometry", "proving"],
+	"stemmed": [
+		"geometr",
+		"resolut",
+		"a",
+		"proof",
+		"procedur",
+		"base",
+		"on",
+		"finit",
+		"model",
+		"search"
+	],
+	"tag": [
+		"finite",
+		"geometry",
+		"proving"
+	],
 	"title": "Geometric Resolution: A Proof Procedure Based on Finite Model Search",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 4130,
+	"volume": "4130",
 	"year": 2006
 }

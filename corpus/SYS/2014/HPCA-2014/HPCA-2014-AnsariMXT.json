@@ -1,6 +1,12 @@
 {
-	"author": ["Amin Ansari", "Asit K. Mishra", "Jianping Xu", "Josep Torrellas"],
-	"booktitle": "HPCA",
+	"author": [
+		"Amin Ansari",
+		"Asit K. Mishra",
+		"Jianping Xu",
+		"Josep Torrellas"
+	],
+	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/AnsariMXT14",
 	"doi": "10.1109/HPCA.2014.6835953",
@@ -8,8 +14,27 @@
 	"pages": "440-451",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["tangl", "rout", "orient", "dynam", "voltag", "minim", "for", "variat", "afflict", "energi", "effici", "on", "chip", "network"],
-	"tag": ["energy", "named", "network"],
+	"stemmed": [
+		"tangl",
+		"rout",
+		"orient",
+		"dynam",
+		"voltag",
+		"minim",
+		"for",
+		"variat",
+		"afflict",
+		"energi",
+		"effici",
+		"on",
+		"chip",
+		"network"
+	],
+	"tag": [
+		"energy",
+		"named",
+		"network"
+	],
 	"title": "Tangle: Route-oriented dynamic voltage minimization for variation-afflicted, energy-efficient on-chip networks",
 	"type": "inproceedings",
 	"venue": "HPCA",

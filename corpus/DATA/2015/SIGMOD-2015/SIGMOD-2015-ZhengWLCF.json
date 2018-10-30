@@ -1,6 +1,12 @@
 {
-	"author": ["Yudian Zheng", "Jiannan Wang", "Guoliang Li", "Reynold Cheng", "Jianhua Feng"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Yudian Zheng",
+		"Jiannan Wang",
+		"Guoliang Li",
+		"Reynold Cheng",
+		"Jianhua Feng"
+	],
+	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/ZhengWLCF15",
@@ -8,8 +14,22 @@
 	"ee": "http://doi.acm.org/10.1145/2723372.2749430",
 	"pages": "1031-1046",
 	"publisher": "ACM",
-	"stemmed": ["qasca", "a", "qualiti", "awar", "task", "assign", "system", "for", "crowdsourc", "applic"],
-	"tag": ["crowdsourcing", "named"],
+	"stemmed": [
+		"qasca",
+		"a",
+		"qualiti",
+		"awar",
+		"task",
+		"assign",
+		"system",
+		"for",
+		"crowdsourc",
+		"applic"
+	],
+	"tag": [
+		"crowdsourcing",
+		"named"
+	],
 	"title": "QASCA: A Quality-Aware Task Assignment System for Crowdsourcing Applications",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,15 +1,30 @@
 {
-	"author": ["Nathan Tuck", "Dean M. Tullsen"],
-	"booktitle": "HPCA",
+	"author": [
+		"Nathan Tuck",
+		"Dean M. Tullsen"
+	],
+	"booktitle": "Proceedings of the 11th International Conference on High-Performance Computer Architecture",
+	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2005",
 	"dblpkey": "conf/hpca/TuckT05",
 	"doi": "10.1109/HPCA.2005.22",
-	"ee": ["http://dx.doi.org/10.1109/HPCA.2005.22", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2005.22"],
+	"ee": [
+		"http://dx.doi.org/10.1109/HPCA.2005.22",
+		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2005.22"
+	],
 	"pages": "5-15",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["multithread", "valu", "predict"],
-	"tag": ["parallel", "predict", "thread"],
+	"stemmed": [
+		"multithread",
+		"valu",
+		"predict"
+	],
+	"tag": [
+		"parallel",
+		"predict",
+		"thread"
+	],
 	"title": "Multithreaded Value Prediction",
 	"type": "inproceedings",
 	"venue": "HPCA",

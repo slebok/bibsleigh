@@ -1,13 +1,18 @@
 {
 	"author": "Ronald Fagin",
-	"booktitle": "PODS",
+	"booktitle": "Proceedings of the 25th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2006",
 	"dblpkey": "conf/pods/Fagin06",
 	"doi": "10.1145/1142351.1142359",
 	"ee": "http://doi.acm.org/10.1145/1142351.1142359",
 	"pages": "50-59",
 	"publisher": "ACM",
-	"stemmed": ["invert", "schema", "map"],
+	"stemmed": [
+		"invert",
+		"schema",
+		"map"
+	],
 	"title": "Inverting schema mappings",
 	"type": "inproceedings",
 	"venue": "PODS",

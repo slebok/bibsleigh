@@ -1,7 +1,11 @@
 {
-	"author": ["Sebastián Uchitel", "Jeff Kramer", "Jeff Magee"],
+	"author": [
+		"Sebastián Uchitel",
+		"Jeff Kramer",
+		"Jeff Magee"
+	],
 	"booktitle": "Proceedings of the 10th Symposium on Foundations of Software Engineering",
-	"booktitleshort": "SIGSOFT FSE",
+	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2002",
 	"dblpkey": "conf/sigsoft/UchitelKM02",
 	"doi": "10.1145/587051.587069",
@@ -9,8 +13,17 @@
 	"isbn": "1-58113-514-9",
 	"pages": "109-118",
 	"publisher": "ACM",
-	"stemmed": ["negat", "scenario", "for", "impli", "scenario", "elicit"],
-	"tag": ["elicitation"],
+	"stemmed": [
+		"negat",
+		"scenario",
+		"for",
+		"impli",
+		"scenario",
+		"elicit"
+	],
+	"tag": [
+		"elicitation"
+	],
 	"title": "Negative scenarios for implied scenario elicitation",
 	"type": "inproceedings",
 	"venue": "FSE",

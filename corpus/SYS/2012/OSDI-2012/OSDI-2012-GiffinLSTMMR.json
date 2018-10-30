@@ -1,13 +1,35 @@
 {
-	"author": ["Daniel B. Giffin", "Amit Levy", "Deian Stefan", "David Terei", "David Mazières", "John C. Mitchell", "Alejandro Russo"],
-	"booktitle": "OSDI",
+	"author": [
+		"Daniel B. Giffin",
+		"Amit Levy",
+		"Deian Stefan",
+		"David Terei",
+		"David Mazières",
+		"John C. Mitchell",
+		"Alejandro Russo"
+	],
+	"booktitle": "Proceedings of the 10th Symposium on Operating Systems Design and Implementation",
+	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2012",
 	"dblpkey": "conf/osdi/GiffinLSTMMR12",
 	"ee": "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/giffin",
 	"pages": "47-60",
 	"publisher": "USENIX Association",
-	"stemmed": ["hail", "protect", "data", "privaci", "in", "untrust", "web", "applic"],
-	"tag": ["named", "privacy", "web"],
+	"stemmed": [
+		"hail",
+		"protect",
+		"data",
+		"privaci",
+		"in",
+		"untrust",
+		"web",
+		"applic"
+	],
+	"tag": [
+		"named",
+		"privacy",
+		"web"
+	],
 	"title": "Hails: Protecting Data Privacy in Untrusted Web Applications",
 	"type": "inproceedings",
 	"venue": "OSDI",

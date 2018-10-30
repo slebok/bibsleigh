@@ -1,16 +1,33 @@
 {
-	"author": ["Y. Edmund Lien", "Peter J. Weinberger"],
-	"booktitle": "SIGMOD Conference",
+	"author": [
+		"Y. Edmund Lien",
+		"Peter J. Weinberger"
+	],
+	"booktitle": "Proceedings of the Eighth ACM SIGMOD International Conference on Management of Data",
+	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD78/P009.PDF",
-	"cite": ["journals/cacm/EswarranGLT76", "conf/vldb/GrayLPT75", "..."],
+	"cite": [
+		"journals/cacm/EswarranGLT76",
+		"conf/vldb/GrayLPT75",
+		"..."
+	],
 	"crossref": "conf/sigmod/78",
 	"dblpkey": "conf/sigmod/LienW78",
 	"doi": "10.1145/509252.509258",
 	"ee": "http://doi.acm.org/10.1145/509252.509258",
 	"pages": "9-14",
 	"publisher": "ACM",
-	"stemmed": ["consist", "concurr", "and", "crash", "recoveri"],
-	"tag": ["concurrent", "consistency"],
+	"stemmed": [
+		"consist",
+		"concurr",
+		"and",
+		"crash",
+		"recoveri"
+	],
+	"tag": [
+		"concurrent",
+		"consistency"
+	],
 	"title": "Consistency, Concurrency and Crash Recovery",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

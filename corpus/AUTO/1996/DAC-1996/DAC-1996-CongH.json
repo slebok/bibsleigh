@@ -1,13 +1,34 @@
 {
-	"author": ["Jason Cong", "Yean-Yow Hwang"],
-	"booktitle": "DAC",
+	"author": [
+		"Jason Cong",
+		"Yean-Yow Hwang"
+	],
+	"booktitle": "Proceedings of the 33rd Design Automation Conference",
+	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/CongH96",
 	"doi": "10.1145/240518.240656",
 	"ee": "http://doi.acm.org/10.1145/240518.240656",
 	"pages": "726-729",
 	"publisher": "ACM Press",
-	"stemmed": ["structur", "gate", "decomposit", "for", "depth", "optim", "technolog", "map", "in", "lut", "base", "fpga", "design"],
-	"tag": ["composition", "design"],
+	"stemmed": [
+		"structur",
+		"gate",
+		"decomposit",
+		"for",
+		"depth",
+		"optim",
+		"technolog",
+		"map",
+		"in",
+		"lut",
+		"base",
+		"fpga",
+		"design"
+	],
+	"tag": [
+		"composition",
+		"design"
+	],
 	"title": "Structural Gate Decomposition for Depth-Optimal Technology Mapping in LUT-based FPGA Design",
 	"type": "inproceedings",
 	"venue": "DAC",

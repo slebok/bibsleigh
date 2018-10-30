@@ -1,6 +1,10 @@
 {
-	"author": ["Michael W. Tian", "C.-J. Richard Shi"],
-	"booktitle": "DATE",
+	"author": [
+		"Michael W. Tian",
+		"C.-J. Richard Shi"
+	],
+	"booktitle": "Proceedings of the Third Conference on Design, Automation and Test in Europe",
+	"booktitleshort": "DATE",
 	"crossref": "conf/date/1998",
 	"dblpkey": "conf/date/TianS98",
 	"doi": "10.1109/DATE.1998.655964",
@@ -8,8 +12,21 @@
 	"pages": "899-904",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["effici", "dc", "fault", "simul", "of", "nonlinear", "analog", "circuit"],
-	"tag": ["fault", "performance", "simulation"],
+	"stemmed": [
+		"effici",
+		"dc",
+		"fault",
+		"simul",
+		"of",
+		"nonlinear",
+		"analog",
+		"circuit"
+	],
+	"tag": [
+		"fault",
+		"performance",
+		"simulation"
+	],
 	"title": "Efficient DC Fault Simulation of Nonlinear Analog Circuits",
 	"type": "inproceedings",
 	"venue": "DATE",

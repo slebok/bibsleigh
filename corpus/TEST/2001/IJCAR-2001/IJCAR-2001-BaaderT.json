@@ -1,6 +1,10 @@
 {
-	"author": ["Franz Baader", "Stephan Tobies"],
-	"booktitle": "IJCAR",
+	"author": [
+		"Franz Baader",
+		"Stephan Tobies"
+	],
+	"booktitle": "Proceedings of the First International Joint Conference on Automated Reasoning",
+	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2001",
 	"dblpkey": "conf/cade/BaaderT01",
 	"doi": "10.1007/3-540-45744-5_8",
@@ -10,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "invers", "method", "implement", "the", "automata", "approach", "for", "modal", "satisfi"],
-	"tag": ["approach", "automaton", "satisfiability"],
+	"stemmed": [
+		"the",
+		"invers",
+		"method",
+		"implement",
+		"the",
+		"automata",
+		"approach",
+		"for",
+		"modal",
+		"satisfi"
+	],
+	"tag": [
+		"approach",
+		"automaton",
+		"satisfiability"
+	],
 	"title": "The Inverse Method Implements the Automata Approach for Modal Satisfiability",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": 2083,
+	"volume": "2083",
 	"year": 2001
 }

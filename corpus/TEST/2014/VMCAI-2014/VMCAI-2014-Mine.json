@@ -1,6 +1,7 @@
 {
 	"author": "Antoine Miné",
-	"booktitle": "VMCAI",
+	"booktitle": "Proceedings of the 15th International Conference on Verification, Model Checking and Abstract Interpretation",
+	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2014",
 	"dblpkey": "conf/vmcai/Mine14",
 	"doi": "10.1007/978-3-642-54013-4_3",
@@ -10,11 +11,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["relat", "thread", "modular", "static", "valu", "analysi", "by", "abstract", "interpret"],
-	"tag": ["abstract interpretation", "analysis", "relational", "thread"],
+	"stemmed": [
+		"relat",
+		"thread",
+		"modular",
+		"static",
+		"valu",
+		"analysi",
+		"by",
+		"abstract",
+		"interpret"
+	],
+	"tag": [
+		"abstract interpretation",
+		"analysis",
+		"relational",
+		"thread"
+	],
 	"title": "Relational Thread-Modular Static Value Analysis by Abstract Interpretation",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": 8318,
+	"volume": "8318",
 	"year": 2014
 }

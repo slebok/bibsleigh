@@ -1,6 +1,11 @@
 {
-	"author": ["Vasiliki Kokla", "Alexandra Psarrou", "Vassilis Konstantinou"],
-	"booktitle": "ICDAR",
+	"author": [
+		"Vasiliki Kokla",
+		"Alexandra Psarrou",
+		"Vassilis Konstantinou"
+	],
+	"booktitle": "Proceedings of the Ninth International Conference on Document Analysis and Recognition",
+	"booktitleshort": "ICDAR",
 	"crossref": "conf/icdar/2007",
 	"dblpkey": "conf/icdar/KoklaPK07",
 	"doi": "10.1109/ICDAR.2007.146",
@@ -8,8 +13,24 @@
 	"pages": "1148-1152",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["ink", "discrimin", "base", "on", "co", "occurr", "analysi", "of", "visibl", "and", "infrar", "imag"],
-	"tag": ["analysis", "image"],
+	"stemmed": [
+		"ink",
+		"discrimin",
+		"base",
+		"on",
+		"co",
+		"occurr",
+		"analysi",
+		"of",
+		"visibl",
+		"and",
+		"infrar",
+		"imag"
+	],
+	"tag": [
+		"analysis",
+		"image"
+	],
 	"title": "Ink Discrimination Based on Co-occurrence Analysis of Visible and Infrared Images",
 	"type": "inproceedings",
 	"venue": "ICDAR",

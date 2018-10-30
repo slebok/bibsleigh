@@ -1,14 +1,36 @@
 {
-	"author": ["Yarui Peng", "Dusan Petranovic", "Sung Kyu Lim"],
-	"booktitle": "DAC",
+	"author": [
+		"Yarui Peng",
+		"Dusan Petranovic",
+		"Sung Kyu Lim"
+	],
+	"booktitle": "Proceedings of the 51st Annual Design Automation Conference",
+	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2014",
 	"dblpkey": "conf/dac/PengPL14",
 	"doi": "10.1145/2593069.2593139",
 	"ee": "http://doi.acm.org/10.1145/2593069.2593139",
 	"pages": "28:1-28:6",
 	"publisher": "ACM",
-	"stemmed": ["fast", "and", "accur", "full", "chip", "extract", "and", "optim", "of", "tsv", "to", "wire", "coupl"],
-	"tag": ["optimisation", "performance"],
+	"stemmed": [
+		"fast",
+		"and",
+		"accur",
+		"full",
+		"chip",
+		"extract",
+		"and",
+		"optim",
+		"of",
+		"tsv",
+		"to",
+		"wire",
+		"coupl"
+	],
+	"tag": [
+		"optimisation",
+		"performance"
+	],
 	"title": "Fast and Accurate Full-chip Extraction and Optimization of TSV-to-Wire Coupling",
 	"type": "inproceedings",
 	"venue": "DAC",

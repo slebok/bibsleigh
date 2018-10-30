@@ -1,15 +1,44 @@
 {
-	"author": ["Catriel Beeri", "Tova Milo", "Paula Ta-Shma"],
-	"booktitle": "PODS",
-	"cite": ["journals/vldb/AbiteboulB95", "conf/popl/AhoU79", "...", "conf/dbpl/TannenBN91", "conf/icdt/TannenBW92", "conf/popl/Chandra81", "journals/jcss/ChandraH80", "...", "conf/pods/HirstH93", "journals/jacm/HullY84", "conf/pods/HillebrandK94", "...", "conf/pods/ParedaensBG94", "...", "..."],
+	"author": [
+		"Catriel Beeri",
+		"Tova Milo",
+		"Paula Ta-Shma"
+	],
+	"booktitle": "Proceedings of the 15th Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
+	"cite": [
+		"journals/vldb/AbiteboulB95",
+		"conf/popl/AhoU79",
+		"...",
+		"conf/dbpl/TannenBN91",
+		"conf/icdt/TannenBW92",
+		"conf/popl/Chandra81",
+		"journals/jcss/ChandraH80",
+		"...",
+		"conf/pods/HirstH93",
+		"journals/jacm/HullY84",
+		"conf/pods/HillebrandK94",
+		"...",
+		"conf/pods/ParedaensBG94",
+		"...",
+		"..."
+	],
 	"crossref": "conf/pods/96",
 	"dblpkey": "conf/pods/BeeriMT96",
 	"doi": "10.1145/237661.237689",
 	"ee": "http://doi.acm.org/10.1145/237661.237689",
 	"pages": "104-116",
 	"publisher": "ACM Press",
-	"stemmed": ["on", "generic", "and", "parametr"],
-	"tag": ["on the", "parametricity"],
+	"stemmed": [
+		"on",
+		"generic",
+		"and",
+		"parametr"
+	],
+	"tag": [
+		"on the",
+		"parametricity"
+	],
 	"title": "On Genericity and Parametricity",
 	"type": "inproceedings",
 	"venue": "PODS",

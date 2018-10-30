@@ -1,14 +1,31 @@
 {
-	"author": ["Kenichi Yoshida", "Fuminori Adachi", "Takashi Washio", "Hiroshi Motoda", "Teruaki Homma", "Akihiro Nakashima", "Hiromitsu Fujikawa", "Katsuyuki Yamazaki"],
-	"booktitle": "KDD",
+	"author": [
+		"Kenichi Yoshida",
+		"Fuminori Adachi",
+		"Takashi Washio",
+		"Hiroshi Motoda",
+		"Teruaki Homma",
+		"Akihiro Nakashima",
+		"Hiromitsu Fujikawa",
+		"Katsuyuki Yamazaki"
+	],
+	"booktitle": "Proceedings of the 10th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2004",
 	"dblpkey": "conf/kdd/YoshidaAWMHNFY04",
 	"doi": "10.1145/1014052.1014107",
 	"ee": "http://doi.acm.org/10.1145/1014052.1014107",
 	"pages": "486-493",
 	"publisher": "ACM",
-	"stemmed": ["densiti", "base", "spam", "detector"],
-	"tag": ["detection"],
+	"stemmed": [
+		"densiti",
+		"base",
+		"spam",
+		"detector"
+	],
+	"tag": [
+		"detection"
+	],
 	"title": "Density-based spam detector",
 	"type": "inproceedings",
 	"venue": "KDD",

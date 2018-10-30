@@ -1,14 +1,42 @@
 {
-	"author": ["Jörg-Uwe Kietz", "Ulrich Reimer", "Martin Staudt"],
-	"booktitle": "VLDB",
-	"cite": ["...", "journals/ml/Fisher87", "...", "...", "...", "...", "...", "conf/edbt/MehtaAR96", "books/mk/Natarajan91", "conf/ecml/QuinlanC93", "books/mk/Quinlan93", "...", "conf/kdd/WrobelWSE96"],
+	"author": [
+		"Jörg-Uwe Kietz",
+		"Ulrich Reimer",
+		"Martin Staudt"
+	],
+	"booktitle": "Proceedings of the 23rd International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
+	"cite": [
+		"...",
+		"journals/ml/Fisher87",
+		"...",
+		"...",
+		"...",
+		"...",
+		"...",
+		"conf/edbt/MehtaAR96",
+		"books/mk/Natarajan91",
+		"conf/ecml/QuinlanC93",
+		"books/mk/Quinlan93",
+		"...",
+		"conf/kdd/WrobelWSE96"
+	],
 	"crossref": "conf/vldb/97",
 	"dblpkey": "conf/vldb/KietzRS97",
 	"ee": "http://www.vldb.org/conf/1997/P562.PDF",
 	"pages": "562-566",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["mine", "insur", "data", "at", "swiss", "life"],
-	"tag": ["mining"],
+	"stemmed": [
+		"mine",
+		"insur",
+		"data",
+		"at",
+		"swiss",
+		"life"
+	],
+	"tag": [
+		"mining"
+	],
 	"title": "Mining Insurance Data at Swiss Life",
 	"type": "inproceedings",
 	"venue": "VLDB",

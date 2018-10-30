@@ -1,14 +1,36 @@
 {
-	"author": ["Ganesh Venkatesh", "Jack Sampson", "Nathan Goulding", "Saturnino Garcia", "Vladyslav Bryksin", "Jose Lugo-Martinez", "Steven Swanson", "Michael Bedford Taylor"],
-	"booktitle": "ASPLOS",
+	"author": [
+		"Ganesh Venkatesh",
+		"Jack Sampson",
+		"Nathan Goulding",
+		"Saturnino Garcia",
+		"Vladyslav Bryksin",
+		"Jose Lugo-Martinez",
+		"Steven Swanson",
+		"Michael Bedford Taylor"
+	],
+	"booktitle": "Proceedings of the 15th International Conference on Architectural Support for Programming Languages and Operating Systems",
+	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2010",
 	"dblpkey": "conf/asplos/VenkateshSGGBLST10",
 	"doi": "10.1145/1736020.1736044",
 	"ee": "http://doi.acm.org/10.1145/1736020.1736044",
 	"pages": "205-218",
 	"publisher": "ACM",
-	"stemmed": ["conserv", "core", "reduc", "the", "energi", "of", "matur", "comput"],
-	"tag": ["energy", "maturity"],
+	"stemmed": [
+		"conserv",
+		"core",
+		"reduc",
+		"the",
+		"energi",
+		"of",
+		"matur",
+		"comput"
+	],
+	"tag": [
+		"energy",
+		"maturity"
+	],
 	"title": "Conservation cores: reducing the energy of mature computations",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

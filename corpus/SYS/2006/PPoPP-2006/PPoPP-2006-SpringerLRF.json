@@ -1,14 +1,39 @@
 {
-	"author": ["Robert Springer", "David K. Lowenthal", "Barry Rountree", "Vincent W. Freeh"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Robert Springer",
+		"David K. Lowenthal",
+		"Barry Rountree",
+		"Vincent W. Freeh"
+	],
+	"booktitle": "Proceedings of the 11th Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2006",
 	"dblpkey": "conf/ppopp/SpringerLRF06",
 	"doi": "10.1145/1122971.1123006",
 	"ee": "http://doi.acm.org/10.1145/1122971.1123006",
 	"pages": "230-238",
 	"publisher": "ACM",
-	"stemmed": ["minim", "execut", "time", "in", "mpi", "program", "on", "an", "energi", "constrain", "power", "scalabl", "cluster"],
-	"tag": ["clustering", "energy", "execution", "source code"],
+	"stemmed": [
+		"minim",
+		"execut",
+		"time",
+		"in",
+		"mpi",
+		"program",
+		"on",
+		"an",
+		"energi",
+		"constrain",
+		"power",
+		"scalabl",
+		"cluster"
+	],
+	"tag": [
+		"clustering",
+		"energy",
+		"execution",
+		"source code"
+	],
 	"title": "Minimizing execution time in MPI programs on an energy-constrained, power-scalable cluster",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,14 +1,32 @@
 {
-	"author": ["Alexandre V. Evfimievski", "Johannes Gehrke", "Ramakrishnan Srikant"],
-	"booktitle": "PODS",
+	"author": [
+		"Alexandre V. Evfimievski",
+		"Johannes Gehrke",
+		"Ramakrishnan Srikant"
+	],
+	"booktitle": "Proceedings of the 22nd Symposium on Principles of Database Systems",
+	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2003",
 	"dblpkey": "conf/pods/EvfimievskiGS03",
 	"doi": "10.1145/773153.773174",
 	"ee": "http://doi.acm.org/10.1145/773153.773174",
 	"pages": "211-222",
 	"publisher": "ACM",
-	"stemmed": ["limit", "privaci", "breach", "in", "privaci", "preserv", "data", "mine"],
-	"tag": ["data mining", "mining", "privacy"],
+	"stemmed": [
+		"limit",
+		"privaci",
+		"breach",
+		"in",
+		"privaci",
+		"preserv",
+		"data",
+		"mine"
+	],
+	"tag": [
+		"data mining",
+		"mining",
+		"privacy"
+	],
 	"title": "Limiting privacy breaches in privacy preserving data mining",
 	"type": "inproceedings",
 	"venue": "PODS",

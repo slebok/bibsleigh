@@ -1,6 +1,6 @@
 {
 	"author": "John R. Rose",
-	"booktitle": "Proceedings of the Third Conference on Object-Oriented Programming Systems, Languages, and Applications",
+	"booktitle": "Proceedings of the Third Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1988",
 	"dblpkey": "conf/oopsla/Rose88",
@@ -10,8 +10,18 @@
 	"isbn": "0-89791-284-5",
 	"pages": "27-35",
 	"publisher": "ACM",
-	"stemmed": ["fast", "dispatch", "mechan", "for", "stock", "hardwar"],
-	"tag": ["hardware", "performance"],
+	"stemmed": [
+		"fast",
+		"dispatch",
+		"mechan",
+		"for",
+		"stock",
+		"hardwar"
+	],
+	"tag": [
+		"hardware",
+		"performance"
+	],
 	"title": "Fast Dispatch Mechanisms for Stock Hardware",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

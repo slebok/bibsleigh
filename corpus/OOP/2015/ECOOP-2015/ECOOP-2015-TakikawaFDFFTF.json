@@ -1,6 +1,15 @@
 {
-	"author": ["Asumu Takikawa", "Daniel Feltey", "Earl Dean", "Matthew Flatt", "Robert Bruce Findler", "Sam Tobin-Hochstadt", "Matthias Felleisen"],
-	"booktitle": "ECOOP",
+	"author": [
+		"Asumu Takikawa",
+		"Daniel Feltey",
+		"Earl Dean",
+		"Matthew Flatt",
+		"Robert Bruce Findler",
+		"Sam Tobin-Hochstadt",
+		"Matthias Felleisen"
+	],
+	"booktitle": "Proceedings of the 29th European Conference on Object-Oriented Programming",
+	"booktitleshort": "ECOOP",
 	"crossref": "conf/ecoop/2015",
 	"dblpkey": "conf/ecoop/TakikawaFDFFTF15",
 	"doi": "10.4230/LIPIcs.ECOOP.2015.4",
@@ -10,11 +19,19 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["toward", "practic", "gradual", "type"],
-	"tag": ["towards", "type system"],
+	"stemmed": [
+		"toward",
+		"practic",
+		"gradual",
+		"type"
+	],
+	"tag": [
+		"towards",
+		"type system"
+	],
 	"title": "Towards Practical Gradual Typing",
 	"type": "inproceedings",
 	"venue": "ECOOP",
-	"volume": 37,
+	"volume": "37",
 	"year": 2015
 }

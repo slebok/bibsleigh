@@ -1,13 +1,37 @@
 {
-	"author": ["Sang Kyun Cha", "Sangyong Hwang", "Kihong Kim", "Keunjoo Kwon"],
-	"booktitle": "VLDB",
+	"author": [
+		"Sang Kyun Cha",
+		"Sangyong Hwang",
+		"Kihong Kim",
+		"Keunjoo Kwon"
+	],
+	"booktitle": "Proceedings of the 27th International Conference on Very Large Data Bases",
+	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2001",
 	"dblpkey": "conf/vldb/ChaHKK01",
 	"ee": "http://www.vldb.org/conf/2001/P181.pdf",
 	"pages": "181-190",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": ["cach", "conscious", "concurr", "control", "of", "main", "memori", "index", "on", "share", "memori", "multiprocessor", "system"],
-	"tag": ["concurrent", "in memory", "multi"],
+	"stemmed": [
+		"cach",
+		"conscious",
+		"concurr",
+		"control",
+		"of",
+		"main",
+		"memori",
+		"index",
+		"on",
+		"share",
+		"memori",
+		"multiprocessor",
+		"system"
+	],
+	"tag": [
+		"concurrent",
+		"in memory",
+		"multi"
+	],
 	"title": "Cache-Conscious Concurrency Control of Main-Memory Indexes on Shared-Memory Multiprocessor Systems",
 	"type": "inproceedings",
 	"venue": "VLDB",

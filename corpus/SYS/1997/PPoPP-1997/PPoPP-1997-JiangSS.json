@@ -1,14 +1,37 @@
 {
-	"author": ["Dongming Jiang", "Hongzhang Shan", "Jaswinder Pal Singh"],
-	"booktitle": "PPOPP",
+	"author": [
+		"Dongming Jiang",
+		"Hongzhang Shan",
+		"Jaswinder Pal Singh"
+	],
+	"booktitle": "Proceedings of the Sixth Symposium on Principles and Practice of Parallel Programming",
+	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1997",
 	"dblpkey": "conf/ppopp/JiangSS97",
 	"doi": "10.1145/263764.263792",
 	"ee": "http://doi.acm.org/10.1145/263764.263792",
 	"pages": "217-229",
 	"publisher": "ACM",
-	"stemmed": ["applic", "restructur", "and", "perform", "portabl", "on", "share", "virtual", "memori", "and", "hardwar", "coher", "multiprocessor"],
-	"tag": ["memory management", "multi", "performance"],
+	"stemmed": [
+		"applic",
+		"restructur",
+		"and",
+		"perform",
+		"portabl",
+		"on",
+		"share",
+		"virtual",
+		"memori",
+		"and",
+		"hardwar",
+		"coher",
+		"multiprocessor"
+	],
+	"tag": [
+		"memory management",
+		"multi",
+		"performance"
+	],
 	"title": "Application Restructuring and Performance Portability on Shared Virtual Memory and Hardware-Coherent Multiprocessors",
 	"type": "inproceedings",
 	"venue": "PPoPP",
