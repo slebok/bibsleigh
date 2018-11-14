@@ -1,5 +1,8 @@
 {
-	"author": ["Mark H. Overmars", "Jan van Leeuwen"],
+	"author": [
+		"Mark H. Overmars",
+		"Jan van Leeuwen"
+	],
 	"booktitle": "Proceedings of the 12th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC12",
@@ -8,9 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/800141.804661",
 	"pages": "135-145",
 	"publisher": "ACM",
-	"stemmed": ["dynam", "maintain", "configur", "in", "the", "plane", "detail", "abstract"],
-	"tag": ["maintenance"],
-	"title": "Dynamically Maintaining Configurations in the Plane (Detailed Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"dynam",
+		"maintain",
+		"configur",
+		"in",
+		"the",
+		"plane",
+		"detail",
+		"abstract"
+	],
+	"tag": [
+		"maintenance"
+	],
+	"title": "Dynamically Maintaining Configurations in the Plane",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1980

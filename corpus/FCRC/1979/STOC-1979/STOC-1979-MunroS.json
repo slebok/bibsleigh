@@ -1,5 +1,8 @@
 {
-	"author": ["J. Ian Munro", "Hendra Suwanda"],
+	"author": [
+		"J. Ian Munro",
+		"Hendra Suwanda"
+	],
 	"booktitle": "Proceedings of the 11th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC11",
@@ -8,9 +11,18 @@
 	"ee": "http://doi.acm.org/10.1145/800135.804404",
 	"pages": "108-117",
 	"publisher": "ACM",
-	"stemmed": ["implicit", "data", "structur", "preliminari", "draft"],
-	"tag": ["data type"],
-	"title": "Implicit Data Structures (Preliminary Draft)",
+	"status": "work in progress",
+	"stemmed": [
+		"implicit",
+		"data",
+		"structur",
+		"preliminari",
+		"draft"
+	],
+	"tag": [
+		"data type"
+	],
+	"title": "Implicit Data Structures",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1979

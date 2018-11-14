@@ -1,5 +1,9 @@
 {
-	"author": ["Michael Ben-Or", "Dexter Kozen", "John H. Reif"],
+	"author": [
+		"Michael Ben-Or",
+		"Dexter Kozen",
+		"John H. Reif"
+	],
 	"booktitle": "Proceedings of the 16th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC16",
@@ -8,9 +12,27 @@
 	"ee": "http://doi.acm.org/10.1145/800057.808712",
 	"pages": "457-464",
 	"publisher": "ACM",
-	"stemmed": ["the", "complex", "of", "elementari", "algebra", "and", "geometri", "preliminari", "abstract"],
-	"tag": ["algebra", "complexity", "geometry"],
-	"title": "The Complexity of Elementary Algebra and Geometry (Preliminary Abstract)",
+	"status": [
+		"abstract",
+		"work in progress"
+	],
+	"stemmed": [
+		"the",
+		"complex",
+		"of",
+		"elementari",
+		"algebra",
+		"and",
+		"geometri",
+		"preliminari",
+		"abstract"
+	],
+	"tag": [
+		"algebra",
+		"complexity",
+		"geometry"
+	],
+	"title": "The Complexity of Elementary Algebra and Geometry",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1984

@@ -1,12 +1,31 @@
 {
-	"address": ["Amsterdam", "", "The Netherlands"],
+	"address": [
+		"Amsterdam",
+		"",
+		"The Netherlands"
+	],
 	"author": "Colin Ware",
 	"booktitle": "Proceedings of the Second IEEE International Workshop on Visualizing Software for Understanding and Analysis",
 	"booktitleshort": "VISSOFT",
 	"pages": "2-28",
-	"stemmed": ["think", "with", "interact", "visual", "tutori", "keynot"],
-	"tag": ["interactive", "tutorial", "visualisation"],
-	"title": "Thinking with Interactive Visualization (Tutorial/Keynote)",
+	"status": [
+		"keynote",
+		"tutorial"
+	],
+	"stemmed": [
+		"think",
+		"with",
+		"interact",
+		"visual",
+		"tutori",
+		"keynot"
+	],
+	"tag": [
+		"interactive",
+		"tutorial",
+		"visualisation"
+	],
+	"title": "Thinking with Interactive Visualization",
 	"type": "inproceedings",
 	"venue": "VISSOFT",
 	"year": 2003

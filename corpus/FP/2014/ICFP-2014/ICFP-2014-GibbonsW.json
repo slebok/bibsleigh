@@ -1,18 +1,39 @@
 {
-	"author": ["Jeremy Gibbons", "Nicolas Wu"],
+	"author": [
+		"Jeremy Gibbons",
+		"Nicolas Wu"
+	],
 	"booktitle": "Proceedings of the 19th International Conference on Functional Programming",
 	"booktitleshort": "ICFP",
 	"crossref": "conf/icfp/2014",
 	"dblpkey": "conf/icfp/GibbonsW14",
 	"doi": "10.1145/2628136.2628138",
-	"editor": ["Johan Jeuring", "Manuel M. T. Chakravarty"],
+	"editor": [
+		"Johan Jeuring",
+		"Manuel M. T. Chakravarty"
+	],
 	"ee": "http://doi.acm.org/10.1145/2628136.2628138",
 	"isbn": "978-1-4503-2873-9",
 	"pages": "339-347",
 	"publisher": "ACM",
-	"stemmed": ["fold", "domain", "specif", "languag", "deep", "and", "shallow", "embed", "function", "pearl"],
-	"tag": ["domain-specific language", "functional"],
-	"title": "Folding domain-specific languages: deep and shallow embeddings (functional Pearl)",
+	"status": "pearl",
+	"stemmed": [
+		"fold",
+		"domain",
+		"specif",
+		"languag",
+		"deep",
+		"and",
+		"shallow",
+		"embed",
+		"function",
+		"pearl"
+	],
+	"tag": [
+		"domain-specific language",
+		"functional"
+	],
+	"title": "Folding domain-specific languages: deep and shallow embeddings",
 	"type": "inproceedings",
 	"venue": "ICFP",
 	"year": 2014
