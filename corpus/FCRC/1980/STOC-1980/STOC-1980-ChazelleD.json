@@ -1,5 +1,8 @@
 {
-	"author": ["Bernard Chazelle", "David P. Dobkin"],
+	"author": [
+		"Bernard Chazelle",
+		"David P. Dobkin"
+	],
 	"booktitle": "Proceedings of the 12th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC12",
@@ -8,9 +11,20 @@
 	"ee": "http://doi.acm.org/10.1145/800141.804662",
 	"pages": "146-153",
 	"publisher": "ACM",
-	"stemmed": ["detect", "is", "easier", "than", "comput", "extend", "abstract"],
-	"tag": ["detection"],
-	"title": "Detection is Easier than Computation (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"detect",
+		"is",
+		"easier",
+		"than",
+		"comput",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"detection"
+	],
+	"title": "Detection is Easier than Computation",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1980

@@ -1,5 +1,9 @@
 {
-	"author": ["Mike Paterson", "Walter L. Ruzzo", "Lawrence Snyder"],
+	"author": [
+		"Mike Paterson",
+		"Walter L. Ruzzo",
+		"Lawrence Snyder"
+	],
 	"booktitle": "Proceedings of the 13th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC13",
@@ -8,9 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/800076.802481",
 	"pages": "293-299",
 	"publisher": "ACM",
-	"stemmed": ["bound", "on", "minimax", "edg", "length", "for", "complet", "binari", "tree", "extend", "abstract"],
-	"tag": ["bound"],
-	"title": "Bounds on Minimax Edge Length for Complete Binary Trees (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"bound",
+		"on",
+		"minimax",
+		"edg",
+		"length",
+		"for",
+		"complet",
+		"binari",
+		"tree",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"bound"
+	],
+	"title": "Bounds on Minimax Edge Length for Complete Binary Trees",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1981

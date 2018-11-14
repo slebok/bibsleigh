@@ -1,5 +1,8 @@
 {
-	"author": ["Thomas Lengauer", "Egon Wanke"],
+	"author": [
+		"Thomas Lengauer",
+		"Egon Wanke"
+	],
 	"booktitle": "Proceedings of the 15th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1988",
@@ -11,11 +14,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["effici", "analysi", "of", "graph", "properti", "on", "context", "free", "graph", "languag", "extend", "abstract"],
-	"tag": ["analysis", "graph", "performance"],
-	"title": "Efficient Analysis of Graph Properties on Context-free Graph Languages (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"effici",
+		"analysi",
+		"of",
+		"graph",
+		"properti",
+		"on",
+		"context",
+		"free",
+		"graph",
+		"languag",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"analysis",
+		"graph",
+		"performance"
+	],
+	"title": "Efficient Analysis of Graph Properties on Context-free Graph Languages",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 317,
+	"volume": "317",
 	"year": 1988
 }

@@ -1,5 +1,9 @@
 {
-	"author": ["John L. Bruno", "Edward G. Coffman Jr.", "Ravi Sethi"],
+	"author": [
+		"John L. Bruno",
+		"Edward G. Coffman Jr.",
+		"Ravi Sethi"
+	],
 	"booktitle": "Proceedings of the Fourth Symposium on Operating System Principles",
 	"booktitleshort": "SOSP",
 	"crossref": "conf/sosp/1973",
@@ -8,9 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/800009.808056",
 	"pages": "102-103",
 	"publisher": "ACM",
-	"stemmed": ["schedul", "independ", "task", "to", "reduc", "mean", "finish", "time", "extend", "abstract"],
-	"tag": ["independence", "scheduling"],
-	"title": "Scheduling Independent Tasks to Reduce Mean Finishing Time (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"schedul",
+		"independ",
+		"task",
+		"to",
+		"reduc",
+		"mean",
+		"finish",
+		"time",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"independence",
+		"scheduling"
+	],
+	"title": "Scheduling Independent Tasks to Reduce Mean Finishing Time",
 	"type": "inproceedings",
 	"venue": "SOSP",
 	"year": 1973

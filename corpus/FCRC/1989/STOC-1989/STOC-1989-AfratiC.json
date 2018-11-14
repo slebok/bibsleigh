@@ -1,5 +1,8 @@
 {
-	"author": ["Foto N. Afrati", "Stavros S. Cosmadakis"],
+	"author": [
+		"Foto N. Afrati",
+		"Stavros S. Cosmadakis"
+	],
 	"booktitle": "Proceedings of the 21st Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC21",
@@ -8,9 +11,22 @@
 	"ee": "http://doi.acm.org/10.1145/73007.73018",
 	"pages": "113-126",
 	"publisher": "ACM",
-	"stemmed": ["express", "of", "restrict", "recurs", "queri", "extend", "abstract"],
-	"tag": ["query", "recursion", "strict"],
-	"title": "Expressiveness of Restricted Recursive Queries (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"express",
+		"of",
+		"restrict",
+		"recurs",
+		"queri",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"query",
+		"recursion",
+		"strict"
+	],
+	"title": "Expressiveness of Restricted Recursive Queries",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1989

@@ -1,5 +1,8 @@
 {
-	"author": ["William E. Hart", "Sorin Istrail"],
+	"author": [
+		"William E. Hart",
+		"Sorin Istrail"
+	],
 	"booktitle": "Proceedings of the 27th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC27",
@@ -8,9 +11,28 @@
 	"ee": "http://doi.acm.org/10.1145/225058.225106",
 	"pages": "157-168",
 	"publisher": "ACM",
-	"stemmed": ["fast", "protein", "fold", "in", "the", "hydrophob", "hydrophil", "model", "within", "three", "eight", "of", "optim", "extend", "abstract"],
-	"tag": ["performance"],
-	"title": "Fast protein folding in the hydrophobic-hydrophilic model within three-eights of optimal (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"fast",
+		"protein",
+		"fold",
+		"in",
+		"the",
+		"hydrophob",
+		"hydrophil",
+		"model",
+		"within",
+		"three",
+		"eight",
+		"of",
+		"optim",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"performance"
+	],
+	"title": "Fast protein folding in the hydrophobic-hydrophilic model within three-eights of optimal",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1995

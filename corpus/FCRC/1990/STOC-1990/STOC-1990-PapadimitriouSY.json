@@ -1,5 +1,9 @@
 {
-	"author": ["Christos H. Papadimitriou", "Alejandro A. Schäffer", "Mihalis Yannakakis"],
+	"author": [
+		"Christos H. Papadimitriou",
+		"Alejandro A. Schäffer",
+		"Mihalis Yannakakis"
+	],
 	"booktitle": "Proceedings of the 22nd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC22",
@@ -8,9 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/100216.100274",
 	"pages": "438-445",
 	"publisher": "ACM",
-	"stemmed": ["on", "the", "complex", "of", "local", "search", "extend", "abstract"],
-	"tag": ["complexity", "on the"],
-	"title": "On the Complexity of Local Search (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"on",
+		"the",
+		"complex",
+		"of",
+		"local",
+		"search",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"complexity",
+		"on the"
+	],
+	"title": "On the Complexity of Local Search",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1990

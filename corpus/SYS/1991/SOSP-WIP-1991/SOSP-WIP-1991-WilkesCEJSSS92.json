@@ -1,17 +1,35 @@
 {
-	"author": ["John Wilkes", "Chia Chao", "Robert English", "David Jacobson", "Bart Sears", "Carl Staelin", "Alexander A. Stepanov"],
+	"author": [
+		"John Wilkes",
+		"Chia Chao",
+		"Robert English",
+		"David Jacobson",
+		"Bart Sears",
+		"Carl Staelin",
+		"Alexander A. Stepanov"
+	],
 	"dblpkey": "journals/sigops/WilkesCEJSSS92",
 	"doi": "10.1145/142111.964570",
 	"ee": "http://doi.acm.org/10.1145/142111.964570",
 	"journal": "Operating Systems Review",
-	"number": 2,
-	"pages": 11,
+	"number": "2",
+	"pages": "11",
 	"publisher": "ACM",
-	"stemmed": ["data", "mesh", "parallel", "storag", "server", "abstract"],
-	"tag": ["parallel"],
-	"title": "DataMesh Parallel Storage Servers (Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"data",
+		"mesh",
+		"parallel",
+		"storag",
+		"server",
+		"abstract"
+	],
+	"tag": [
+		"parallel"
+	],
+	"title": "DataMesh Parallel Storage Servers",
 	"type": "article",
 	"venue": "SOSP",
-	"volume": 26,
+	"volume": "26",
 	"year": 1992
 }

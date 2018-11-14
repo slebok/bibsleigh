@@ -1,5 +1,9 @@
 {
-	"author": ["Alok Aggarwal", "Ashok K. Chandra", "Prabhakar Raghavan"],
+	"author": [
+		"Alok Aggarwal",
+		"Ashok K. Chandra",
+		"Prabhakar Raghavan"
+	],
 	"booktitle": "Proceedings of the 20th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC20",
@@ -8,9 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/62212.62230",
 	"pages": "205-216",
 	"publisher": "ACM",
-	"stemmed": ["energi", "consumpt", "in", "vlsi", "circuit", "preliminari", "version"],
-	"tag": ["energy"],
-	"title": "Energy Consumption in VLSI Circuits (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"energi",
+		"consumpt",
+		"in",
+		"vlsi",
+		"circuit",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"energy"
+	],
+	"title": "Energy Consumption in VLSI Circuits",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1988

@@ -1,5 +1,8 @@
 {
-	"author": ["Kurt Mehlhorn", "Erik Meineche Schmidt"],
+	"author": [
+		"Kurt Mehlhorn",
+		"Erik Meineche Schmidt"
+	],
 	"booktitle": "Proceedings of the 14th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC14",
@@ -8,9 +11,26 @@
 	"ee": "http://doi.acm.org/10.1145/800070.802208",
 	"pages": "330-337",
 	"publisher": "ACM",
-	"stemmed": ["las", "vega", "is", "better", "than", "determin", "in", "vlsi", "and", "distribut", "comput", "extend", "abstract"],
-	"tag": ["distributed"],
-	"title": "Las Vegas Is better than Determinism in VLSI and Distributed Computing (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"las",
+		"vega",
+		"is",
+		"better",
+		"than",
+		"determin",
+		"in",
+		"vlsi",
+		"and",
+		"distribut",
+		"comput",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"distributed"
+	],
+	"title": "Las Vegas Is better than Determinism in VLSI and Distributed Computing",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1982

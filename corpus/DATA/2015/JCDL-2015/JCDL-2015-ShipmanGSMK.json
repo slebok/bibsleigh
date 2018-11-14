@@ -1,11 +1,5 @@
 {
-	"author": [
-		"Frank Shipman",
-		"Ricardo Gutierrez-Osuna",
-		"Tamra Shipman",
-		"Caio D. D. Monteiro",
-		"Virendra Karappa"
-	],
+	"author": ["Frank Shipman", "Ricardo Gutierrez-Osuna", "Tamra Shipman", "Caio D. D. Monteiro", "Virendra Karappa"],
 	"booktitle": "Proceedings of the 15th Joint Conference on Digital Libraries",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2015",
@@ -13,11 +7,8 @@
 	"doi": "10.1145/2756406.2756945",
 	"pages": "187-190",
 	"publisher": "ACM",
-	"tag": [
-		"distributed",
-		"library",
-		"towards"
-	],
+	"stemmed": ["toward", "a", "distribut", "digit", "librari", "for", "sign", "languag", "content"],
+	"tag": ["distributed", "library", "towards"],
 	"title": "Towards a Distributed Digital Library for Sign Language Content",
 	"type": "inproceedings",
 	"venue": "JCDL",

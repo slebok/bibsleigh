@@ -1,5 +1,9 @@
 {
-	"author": ["Joost Engelfriet", "Grzegorz Rozenberg", "Giora Slutzki"],
+	"author": [
+		"Joost Engelfriet",
+		"Grzegorz Rozenberg",
+		"Giora Slutzki"
+	],
 	"booktitle": "Proceedings of the 10th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC10",
@@ -8,9 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/800133.804333",
 	"pages": "66-74",
 	"publisher": "ACM",
-	"stemmed": ["tree", "transduc", "l", "system", "and", "two", "way", "machin", "extend", "abstract"],
-	"tag": ["transducer"],
-	"title": "Tree Transducers, L Systems and Two-Way Machines (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"tree",
+		"transduc",
+		"l",
+		"system",
+		"and",
+		"two",
+		"way",
+		"machin",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"transducer"
+	],
+	"title": "Tree Transducers, L Systems and Two-Way Machines",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1978

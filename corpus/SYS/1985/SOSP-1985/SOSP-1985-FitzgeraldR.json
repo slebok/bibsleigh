@@ -1,5 +1,8 @@
 {
-	"author": ["Robert P. Fitzgerald", "Richard F. Rashid"],
+	"author": [
+		"Robert P. Fitzgerald",
+		"Richard F. Rashid"
+	],
 	"booktitle": "Proceedings of the 10th ACM Symposium on Operating System Principles",
 	"booktitleshort": "SOSP",
 	"crossref": "conf/sosp/1985",
@@ -9,9 +12,27 @@
 	"note": "long version: ACM Trans. Comput. Syst. 4(2): 147-177(1986)",
 	"pages": "13-14",
 	"publisher": "ACM",
-	"stemmed": ["the", "integr", "of", "virtual", "memori", "manag", "and", "interprocess", "communic", "in", "accent", "abstract"],
-	"tag": ["communication", "integration", "memory management"],
-	"title": "The Integration of Virtual Memory Management and Interprocess Communication in Accent (Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"the",
+		"integr",
+		"of",
+		"virtual",
+		"memori",
+		"manag",
+		"and",
+		"interprocess",
+		"communic",
+		"in",
+		"accent",
+		"abstract"
+	],
+	"tag": [
+		"communication",
+		"integration",
+		"memory management"
+	],
+	"title": "The Integration of Virtual Memory Management and Interprocess Communication in Accent",
 	"type": "inproceedings",
 	"venue": "SOSP",
 	"year": 1985

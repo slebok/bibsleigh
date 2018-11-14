@@ -5,7 +5,10 @@
 	"crossref": "conf/esec/1995",
 	"dblpkey": "conf/esec/Schwartzel95",
 	"doi": "10.1007/3-540-60406-5_1",
-	"editor": ["Wilhelm Schäfer", "Pere Botella"],
+	"editor": [
+		"Wilhelm Schäfer",
+		"Pere Botella"
+	],
 	"ee": "http://dx.doi.org/10.1007/3-540-60406-5_1",
 	"isbn": "3-540-60406-5",
 	"pages": "1-2",
@@ -13,11 +16,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["demand", "and", "perspect", "for", "futur", "softwar", "engin", "an", "industri", "viewpoint", "abstract"],
-	"tag": ["industrial"],
-	"title": "Demands and Perspectives for Future Software Engineers: An Industrial Viewpoint (Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"demand",
+		"and",
+		"perspect",
+		"for",
+		"futur",
+		"softwar",
+		"engin",
+		"an",
+		"industri",
+		"viewpoint",
+		"abstract"
+	],
+	"tag": [
+		"industrial"
+	],
+	"title": "Demands and Perspectives for Future Software Engineers: An Industrial Viewpoint",
 	"type": "inproceedings",
 	"venue": "ESEC",
-	"volume": 989,
+	"volume": "989",
 	"year": 1995
 }

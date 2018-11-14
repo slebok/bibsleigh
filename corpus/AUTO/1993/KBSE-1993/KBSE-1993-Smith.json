@@ -2,11 +2,28 @@
 	"author": "Douglas R. Smith",
 	"booktitle": "Proceedings of the Eighth Annual Knowledge-Based Software Engineering Conference",
 	"booktitleshort": "KBSE",
-	"editor": ["Bruce Johnson", "Mehdi Harandi", "Bill Sasso"],
-	"pages": 2,
-	"stemmed": ["kid", "an", "algorithm", "synthesi", "system", "tutori"],
-	"tag": ["algorithm", "named", "synthesis", "tutorial"],
-	"title": "KIDS: An Algorithm Synthesis System (Tutorial)",
+	"editor": [
+		"Bruce Johnson",
+		"Mehdi Harandi",
+		"Bill Sasso"
+	],
+	"pages": "2",
+	"status": "tutorial",
+	"stemmed": [
+		"kid",
+		"an",
+		"algorithm",
+		"synthesi",
+		"system",
+		"tutori"
+	],
+	"tag": [
+		"algorithm",
+		"named",
+		"synthesis",
+		"tutorial"
+	],
+	"title": "KIDS: An Algorithm Synthesis System",
 	"type": "inproceedings",
 	"venue": "ASE",
 	"year": 1993

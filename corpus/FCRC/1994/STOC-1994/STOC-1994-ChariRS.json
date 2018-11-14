@@ -1,5 +1,9 @@
 {
-	"author": ["Suresh Chari", "Pankaj Rohatgi", "Aravind Srinivasan"],
+	"author": [
+		"Suresh Chari",
+		"Pankaj Rohatgi",
+		"Aravind Srinivasan"
+	],
 	"booktitle": "Proceedings of the 26th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC26",
@@ -8,9 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/195058.195411",
 	"pages": "584-592",
 	"publisher": "ACM",
-	"stemmed": ["improv", "algorithm", "via", "approxim", "of", "probabl", "distribut", "extend", "abstract"],
-	"tag": ["algorithm", "approximate", "probability"],
-	"title": "Improved algorithms via approximations of probability distributions (extended abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"improv",
+		"algorithm",
+		"via",
+		"approxim",
+		"of",
+		"probabl",
+		"distribut",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"algorithm",
+		"approximate",
+		"probability"
+	],
+	"title": "Improved algorithms via approximations of probability distributions",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1994

@@ -1,5 +1,8 @@
 {
-	"author": ["Zhuoan Jiao", "Peter M. D. Gray"],
+	"author": [
+		"Zhuoan Jiao",
+		"Peter M. D. Gray"
+	],
 	"booktitle": "Proceedings of the First International Workshop on Logic Program Synthesis and Transformation",
 	"booktitleshort": "LOPSTR",
 	"crossref": "conf/lopstr/1991",
@@ -8,9 +11,29 @@
 	"publisher": "Springer-Verlag",
 	"publishershort": "Springer",
 	"series": "Workshops in Computing",
-	"stemmed": ["queri", "optim", "in", "an", "object", "orient", "databas", "use", "prolog", "extend", "abstract"],
-	"tag": ["database", "object-oriented", "optimisation", "prolog", "query", "using"],
-	"title": "Query Optimization in an Object-Oriented Database using Prolog (Extende Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"queri",
+		"optim",
+		"in",
+		"an",
+		"object",
+		"orient",
+		"databas",
+		"use",
+		"prolog",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"database",
+		"object-oriented",
+		"optimisation",
+		"prolog",
+		"query",
+		"using"
+	],
+	"title": "Query Optimization in an Object-Oriented Database using Prolog",
 	"type": "inproceedings",
 	"venue": "LOPSTR",
 	"year": 1991

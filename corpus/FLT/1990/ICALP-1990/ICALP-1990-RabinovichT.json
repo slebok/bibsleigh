@@ -1,5 +1,8 @@
 {
-	"author": ["Alexander Moshe Rabinovich", "Boris A. Trakhtenbrot"],
+	"author": [
+		"Alexander Moshe Rabinovich",
+		"Boris A. Trakhtenbrot"
+	],
 	"booktitle": "Proceedings of the 17th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1990",
@@ -11,11 +14,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["communic", "among", "relat", "extend", "abstract"],
-	"tag": ["communication"],
-	"title": "Communication among Relations (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"communic",
+		"among",
+		"relat",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"communication"
+	],
+	"title": "Communication among Relations",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 443,
+	"volume": "443",
 	"year": 1990
 }

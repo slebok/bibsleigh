@@ -1,5 +1,9 @@
 {
-	"author": ["Danny Krizanc", "David Peleg", "Eli Upfal"],
+	"author": [
+		"Danny Krizanc",
+		"David Peleg",
+		"Eli Upfal"
+	],
 	"booktitle": "Proceedings of the 20th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC20",
@@ -8,9 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/62212.62221",
 	"pages": "93-102",
 	"publisher": "ACM",
-	"stemmed": ["a", "time", "random", "tradeoff", "for", "oblivi", "rout", "extend", "abstract"],
-	"tag": ["trade-off"],
-	"title": "A Time-Randomness Tradeoff for Oblivious Routing (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"a",
+		"time",
+		"random",
+		"tradeoff",
+		"for",
+		"oblivi",
+		"rout",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"trade-off"
+	],
+	"title": "A Time-Randomness Tradeoff for Oblivious Routing",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1988

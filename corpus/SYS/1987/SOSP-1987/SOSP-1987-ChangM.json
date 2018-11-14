@@ -1,5 +1,8 @@
 {
-	"author": ["Albert Chang", "Mark F. Mergen"],
+	"author": [
+		"Albert Chang",
+		"Mark F. Mergen"
+	],
 	"booktitle": "Proceedings of the 11th ACM Symposium on Operating System Principles",
 	"booktitleshort": "SOSP",
 	"crossref": "conf/sosp/1987",
@@ -9,9 +12,20 @@
 	"note": "long version: ACM Trans. Comput. Syst. 6(1): 28-50(1988)",
 	"pages": "109-110",
 	"publisher": "ACM",
-	"stemmed": ["storag", "architectur", "and", "program", "extend", "abstract"],
-	"tag": ["architecture", "programming"],
-	"title": "801 Storage: Architecture and Programming (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"storag",
+		"architectur",
+		"and",
+		"program",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"architecture",
+		"programming"
+	],
+	"title": "801 Storage: Architecture and Programming",
 	"type": "inproceedings",
 	"venue": "SOSP",
 	"year": 1987

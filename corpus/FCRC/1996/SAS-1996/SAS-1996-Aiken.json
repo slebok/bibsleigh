@@ -6,16 +6,26 @@
 	"dblpkey": "conf/sas/Aiken96",
 	"doi": "10.1007/3-540-61739-6_29",
 	"ee": "http://dx.doi.org/10.1007/3-540-61739-6_29",
-	"pages": 1,
+	"pages": "1",
 	"publisher": "Springer-Verlag",
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["constraint", "base", "program", "analysi", "abstract"],
-	"tag": ["constraints", "program analysis"],
-	"title": "Constraint-Based Program Analysis (Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"constraint",
+		"base",
+		"program",
+		"analysi",
+		"abstract"
+	],
+	"tag": [
+		"constraints",
+		"program analysis"
+	],
+	"title": "Constraint-Based Program Analysis",
 	"type": "inproceedings",
 	"venue": "SAS",
-	"volume": 1145,
+	"volume": "1145",
 	"year": 1996
 }

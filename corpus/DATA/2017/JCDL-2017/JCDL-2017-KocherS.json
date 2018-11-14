@@ -1,9 +1,6 @@
 {
 	"acmid": "3200368",
-	"author": [
-		"Mirco Kocher",
-		"Jacques Savoy"
-	],
+	"author": ["Mirco Kocher", "Jacques Savoy"],
 	"booktitle": "Proceedings of the 2017 ACM/IEEE Joint Conference on Digital Libraries",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2017",
@@ -12,10 +9,8 @@
 	"ee": "https://doi.org/10.1109/JCDL.2017.7991586",
 	"pages": "265-268",
 	"publisher": "IEEE Computer Society",
-	"tag": [
-		"clustering",
-		"using"
-	],
+	"stemmed": ["author", "cluster", "use", "spatium"],
+	"tag": ["clustering", "using"],
 	"title": "Author Clustering Using SPATIUM",
 	"type": "inproceedings",
 	"venue": "JCDL",

@@ -1,5 +1,9 @@
 {
-	"author": ["Avrim Blum", "R. Ravi", "Santosh Vempala"],
+	"author": [
+		"Avrim Blum",
+		"R. Ravi",
+		"Santosh Vempala"
+	],
 	"booktitle": "Proceedings of the 28th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1996",
@@ -8,9 +12,27 @@
 	"ee": "http://doi.acm.org/10.1145/237814.237992",
 	"pages": "442-448",
 	"publisher": "ACM",
-	"stemmed": ["a", "constant", "factor", "approxim", "algorithm", "for", "the", "k", "mst", "problem", "extend", "abstract"],
-	"tag": ["algorithm", "approximate", "problem"],
-	"title": "A Constant-factor Approximation Algorithm for the k MST Problem (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"a",
+		"constant",
+		"factor",
+		"approxim",
+		"algorithm",
+		"for",
+		"the",
+		"k",
+		"mst",
+		"problem",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"algorithm",
+		"approximate",
+		"problem"
+	],
+	"title": "A Constant-factor Approximation Algorithm for the k MST Problem",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1996

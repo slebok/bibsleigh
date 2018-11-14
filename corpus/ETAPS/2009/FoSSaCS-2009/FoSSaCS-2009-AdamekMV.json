@@ -1,5 +1,9 @@
 {
-	"author": ["Jirí Adámek", "Stefan Milius", "Jiri Velebil"],
+	"author": [
+		"Jirí Adámek",
+		"Stefan Milius",
+		"Jiri Velebil"
+	],
 	"booktitle": "Proceedings of the 12th International Conference on Foundations of Software Science and Computation Structures",
 	"booktitleshort": "FOSSACS",
 	"crossref": "conf/fossacs/2009",
@@ -11,11 +15,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "descript", "of", "iter", "reflect", "of", "monad", "extend", "abstract"],
-	"tag": ["monad"],
-	"title": "A Description of Iterative Reflections of Monads (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"a",
+		"descript",
+		"of",
+		"iter",
+		"reflect",
+		"of",
+		"monad",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"monad"
+	],
+	"title": "A Description of Iterative Reflections of Monads",
 	"type": "inproceedings",
 	"venue": "FoSSaCS",
-	"volume": 5504,
+	"volume": "5504",
 	"year": 2009
 }

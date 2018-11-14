@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Pavlos Fafalios",
-		"Vaibhav Kasturia",
-		"Wolfgang Nejdl"
-	],
+	"author": ["Pavlos Fafalios", "Vaibhav Kasturia", "Wolfgang Nejdl"],
 	"booktitle": "Proceedings of the 18th ACM/IEEE on Joint Conference on Digital Libraries, JCDL 2018, Fort Worth, TX, USA, June 03-07, 2018",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2018",
@@ -11,12 +7,8 @@
 	"doi": "10.1145/3197026.3197049",
 	"pages": "155-164",
 	"publisher": "ACM",
-	"tag": [
-		"documentation",
-		"query",
-		"ranking",
-		"semantics"
-	],
+	"stemmed": ["rank", "archiv", "document", "for", "structur", "queri", "on", "semant", "layer"],
+	"tag": ["documentation", "query", "ranking", "semantics"],
 	"title": "Ranking Archived Documents for Structured Queries on Semantic Layers",
 	"type": "inproceedings",
 	"venue": "JCDL",

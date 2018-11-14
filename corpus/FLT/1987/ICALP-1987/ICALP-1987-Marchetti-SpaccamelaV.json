@@ -1,5 +1,8 @@
 {
-	"author": ["Alberto Marchetti-Spaccamela", "Carlo Vercellis"],
+	"author": [
+		"Alberto Marchetti-Spaccamela",
+		"Carlo Vercellis"
+	],
 	"booktitle": "Proceedings of the 14th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1987",
@@ -11,11 +14,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["effici", "on", "line", "algorithm", "for", "the", "knapsack", "problem", "extend", "abstract"],
-	"tag": ["algorithm", "online", "performance", "problem"],
-	"title": "Efficient On-Line Algorithms for the Knapsack Problem (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"effici",
+		"on",
+		"line",
+		"algorithm",
+		"for",
+		"the",
+		"knapsack",
+		"problem",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"algorithm",
+		"online",
+		"performance",
+		"problem"
+	],
+	"title": "Efficient On-Line Algorithms for the Knapsack Problem",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 267,
+	"volume": "267",
 	"year": 1987
 }

@@ -1,5 +1,8 @@
 {
-	"author": ["Greg N. Frederickson", "Mandayam A. Srinivas"],
+	"author": [
+		"Greg N. Frederickson",
+		"Mandayam A. Srinivas"
+	],
 	"booktitle": "Proceedings of the 16th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC16",
@@ -8,9 +11,26 @@
 	"ee": "http://doi.acm.org/10.1145/800057.808704",
 	"pages": "383-390",
 	"publisher": "ACM",
-	"stemmed": ["data", "structur", "for", "on", "line", "updat", "of", "matroid", "intersect", "solut", "preliminari", "version"],
-	"tag": ["data type", "online"],
-	"title": "Data Structures for On-Line Updating of Matroid Intersection Solutions (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"data",
+		"structur",
+		"for",
+		"on",
+		"line",
+		"updat",
+		"of",
+		"matroid",
+		"intersect",
+		"solut",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"data type",
+		"online"
+	],
+	"title": "Data Structures for On-Line Updating of Matroid Intersection Solutions",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1984

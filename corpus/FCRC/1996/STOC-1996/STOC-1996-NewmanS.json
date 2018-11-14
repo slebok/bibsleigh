@@ -1,5 +1,8 @@
 {
-	"author": ["Ilan Newman", "Mario Szegedy"],
+	"author": [
+		"Ilan Newman",
+		"Mario Szegedy"
+	],
 	"booktitle": "Proceedings of the 28th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1996",
@@ -8,9 +11,26 @@
 	"ee": "http://doi.acm.org/10.1145/237814.238004",
 	"pages": "561-570",
 	"publisher": "ACM",
-	"stemmed": ["public", "vs", "privat", "coin", "flip", "in", "one", "round", "communic", "game", "extend", "abstract"],
-	"tag": ["communication", "game studies"],
-	"title": "Public vs. Private Coin Flips in One Round Communication Games (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"public",
+		"vs",
+		"privat",
+		"coin",
+		"flip",
+		"in",
+		"one",
+		"round",
+		"communic",
+		"game",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"communication",
+		"game studies"
+	],
+	"title": "Public vs. Private Coin Flips in One Round Communication Games",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1996

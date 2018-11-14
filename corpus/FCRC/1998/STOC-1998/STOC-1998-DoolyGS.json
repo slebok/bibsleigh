@@ -1,5 +1,9 @@
 {
-	"author": ["Daniel R. Dooly", "Sally A. Goldman", "Stephen D. Scott"],
+	"author": [
+		"Daniel R. Dooly",
+		"Sally A. Goldman",
+		"Stephen D. Scott"
+	],
 	"booktitle": "Proceedings of the 30th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1998",
@@ -8,9 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/276698.276792",
 	"pages": "389-398",
 	"publisher": "ACM",
-	"stemmed": ["tcp", "dynam", "acknowledg", "delay", "theori", "and", "practic", "extend", "abstract"],
-	"tag": ["theory and practice"],
-	"title": "TCP Dynamic Acknowledgment Delay: Theory and Practice (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"tcp",
+		"dynam",
+		"acknowledg",
+		"delay",
+		"theori",
+		"and",
+		"practic",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"theory and practice"
+	],
+	"title": "TCP Dynamic Acknowledgment Delay: Theory and Practice",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1998

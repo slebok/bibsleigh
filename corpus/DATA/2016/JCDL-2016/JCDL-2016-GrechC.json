@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Daniel Grech",
-		"Paul D. Clough"
-	],
+	"author": ["Daniel Grech", "Paul D. Clough"],
 	"booktitle": "Proceedings of the 16th Joint Conference on Digital Libraries",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2016",
@@ -11,10 +8,8 @@
 	"ee": "http://ieeexplore.ieee.org/document/7559573/",
 	"pages": "115-118",
 	"publisher": "ACM",
-	"tag": [
-		"clustering",
-		"transaction"
-	],
+	"stemmed": ["investig", "cluster", "stabil", "when", "analyz", "transact", "log"],
+	"tag": ["clustering", "transaction"],
 	"title": "Investigating Cluster Stability when Analyzing Transaction Logs",
 	"type": "inproceedings",
 	"venue": "JCDL",

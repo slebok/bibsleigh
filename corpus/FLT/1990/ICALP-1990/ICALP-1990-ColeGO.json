@@ -1,5 +1,9 @@
 {
-	"author": ["Richard Cole", "Michael T. Goodrich", "Colm Ó'Dúnlaing"],
+	"author": [
+		"Richard Cole",
+		"Michael T. Goodrich",
+		"Colm Ó'Dúnlaing"
+	],
 	"booktitle": "Proceedings of the 17th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1990",
@@ -11,11 +15,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["merg", "free", "tree", "in", "parallel", "for", "effici", "voronoi", "diagram", "construct", "preliminari", "version"],
-	"tag": ["diagrams", "parallel", "performance"],
-	"title": "Merging Free Trees in Parallel for Efficient Voronoi Diagram Construction (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"merg",
+		"free",
+		"tree",
+		"in",
+		"parallel",
+		"for",
+		"effici",
+		"voronoi",
+		"diagram",
+		"construct",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"diagrams",
+		"parallel",
+		"performance"
+	],
+	"title": "Merging Free Trees in Parallel for Efficient Voronoi Diagram Construction",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 443,
+	"volume": "443",
 	"year": 1990
 }

@@ -1,5 +1,9 @@
 {
-	"author": ["Joseph Naor", "Moni Naor", "Alejandro A. Schäffer"],
+	"author": [
+		"Joseph Naor",
+		"Moni Naor",
+		"Alejandro A. Schäffer"
+	],
 	"booktitle": "Proceedings of the 19th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC19",
@@ -8,9 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/28395.28433",
 	"pages": "355-364",
 	"publisher": "ACM",
-	"stemmed": ["fast", "parallel", "algorithm", "for", "chordal", "graph", "extend", "abstract"],
-	"tag": ["algorithm", "graph", "parallel", "performance"],
-	"title": "Fast Parallel Algorithms for Chordal Graphs (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"fast",
+		"parallel",
+		"algorithm",
+		"for",
+		"chordal",
+		"graph",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"algorithm",
+		"graph",
+		"parallel",
+		"performance"
+	],
+	"title": "Fast Parallel Algorithms for Chordal Graphs",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1987

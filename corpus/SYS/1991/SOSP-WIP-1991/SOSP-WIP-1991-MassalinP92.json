@@ -1,17 +1,32 @@
 {
-	"author": ["Henry Massalin", "Calton Pu"],
+	"author": [
+		"Henry Massalin",
+		"Calton Pu"
+	],
 	"dblpkey": "journals/sigops/MassalinP92",
 	"doi": "10.1145/142111.993246",
 	"ee": "http://doi.acm.org/10.1145/142111.993246",
 	"journal": "Operating Systems Review",
-	"number": 2,
-	"pages": 8,
+	"number": "2",
+	"pages": "8",
 	"publisher": "ACM",
-	"stemmed": ["a", "lock", "free", "multiprocessor", "os", "kernel", "abstract"],
-	"tag": ["kernel", "multi"],
-	"title": "A Lock-Free Multiprocessor OS Kernel (Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"a",
+		"lock",
+		"free",
+		"multiprocessor",
+		"os",
+		"kernel",
+		"abstract"
+	],
+	"tag": [
+		"kernel",
+		"multi"
+	],
+	"title": "A Lock-Free Multiprocessor OS Kernel",
 	"type": "article",
 	"venue": "SOSP",
-	"volume": 26,
+	"volume": "26",
 	"year": 1992
 }

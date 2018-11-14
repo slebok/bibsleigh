@@ -1,5 +1,9 @@
 {
-	"author": ["Paul Feldman", "Joel Friedman", "Nicholas Pippenger"],
+	"author": [
+		"Paul Feldman",
+		"Joel Friedman",
+		"Nicholas Pippenger"
+	],
 	"booktitle": "Proceedings of the 18th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC18",
@@ -8,9 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/12130.12155",
 	"pages": "247-254",
 	"publisher": "ACM",
-	"stemmed": ["non", "block", "network", "preliminari", "version"],
-	"tag": ["network"],
-	"title": "Non-Blocking Networks (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"non",
+		"block",
+		"network",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"network"
+	],
+	"title": "Non-Blocking Networks",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1986

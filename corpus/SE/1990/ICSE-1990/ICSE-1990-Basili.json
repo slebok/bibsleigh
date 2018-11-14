@@ -1,18 +1,34 @@
 {
-	"acmid": 100301,
+	"acmid": "100301",
 	"author": "Victor R. Basili",
 	"booktitle": "Proceedings of the 12th International Conference on Software Engineering",
 	"booktitleshort": "ICSE",
 	"crossref": "conf/icse/1990",
 	"dblpkey": "conf/icse/Basili90",
-	"editor": ["François-Régis Valette", "Peter A. Freeman", "Marie-Claude Gaudel"],
+	"editor": [
+		"François-Régis Valette",
+		"Peter A. Freeman",
+		"Marie-Claude Gaudel"
+	],
 	"isbn": "0-8186-2026-9",
 	"pages": "44-49",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["recent", "advanc", "in", "softwar", "measur", "abstract", "for", "talk"],
-	"tag": ["metric"],
-	"title": "Recent Advances in Software Measurement (Abstract for Talk)",
+	"status": "abstract",
+	"stemmed": [
+		"recent",
+		"advanc",
+		"in",
+		"softwar",
+		"measur",
+		"abstract",
+		"for",
+		"talk"
+	],
+	"tag": [
+		"metric"
+	],
+	"title": "Recent Advances in Software Measurement",
 	"type": "inproceedings",
 	"venue": "ICSE",
 	"year": 1990

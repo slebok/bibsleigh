@@ -1,5 +1,9 @@
 {
-	"author": ["Oded Goldreich", "Tom Gur", "Ron D. Rothblum"],
+	"author": [
+		"Oded Goldreich",
+		"Tom Gur",
+		"Ron D. Rothblum"
+	],
 	"booktitle": "Proceedings of the 42nd International Colloquium on Automata, Languages, and Programming, Part I",
 	"booktitleshort": "ICALP (1)",
 	"crossref": "conf/icalp/2015-1",
@@ -11,11 +15,33 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["proof", "of", "proxim", "for", "context", "free", "languag", "and", "read", "onc", "branch", "program", "extend", "abstract"],
-	"tag": ["branch", "context-free grammar", "proving", "proximity", "source code"],
-	"title": "Proofs of Proximity for Context-Free Languages and Read-Once Branching Programs — (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"proof",
+		"of",
+		"proxim",
+		"for",
+		"context",
+		"free",
+		"languag",
+		"and",
+		"read",
+		"onc",
+		"branch",
+		"program",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"branch",
+		"context-free grammar",
+		"proving",
+		"proximity",
+		"source code"
+	],
+	"title": "Proofs of Proximity for Context-Free Languages and Read-Once Branching Programs —",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 9134,
+	"volume": "9134",
 	"year": 2015
 }

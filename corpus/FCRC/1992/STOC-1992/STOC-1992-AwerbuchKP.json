@@ -1,5 +1,9 @@
 {
-	"author": ["Baruch Awerbuch", "Shay Kutten", "David Peleg"],
+	"author": [
+		"Baruch Awerbuch",
+		"Shay Kutten",
+		"David Peleg"
+	],
 	"booktitle": "Proceedings of the 24th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC24",
@@ -8,9 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/129712.129768",
 	"pages": "571-580",
 	"publisher": "ACM",
-	"stemmed": ["competit", "distribut", "job", "schedul", "extend", "abstract"],
-	"tag": ["distributed", "scheduling"],
-	"title": "Competitive Distributed Job Scheduling (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"competit",
+		"distribut",
+		"job",
+		"schedul",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"distributed",
+		"scheduling"
+	],
+	"title": "Competitive Distributed Job Scheduling",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1992

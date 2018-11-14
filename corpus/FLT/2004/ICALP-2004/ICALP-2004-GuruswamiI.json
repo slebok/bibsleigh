@@ -1,5 +1,8 @@
 {
-	"author": ["Venkatesan Guruswami", "Piotr Indyk"],
+	"author": [
+		"Venkatesan Guruswami",
+		"Piotr Indyk"
+	],
 	"booktitle": "Proceedings of the 31st International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/2004",
@@ -11,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["linear", "time", "list", "decod", "in", "error", "free", "set", "extend", "abstract"],
-	"tag": ["linear"],
-	"title": "Linear-Time List Decoding in Error-Free Settings: (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"linear",
+		"time",
+		"list",
+		"decod",
+		"in",
+		"error",
+		"free",
+		"set",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"linear"
+	],
+	"title": "Linear-Time List Decoding in Error-Free Settings:",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 3142,
+	"volume": "3142",
 	"year": 2004
 }

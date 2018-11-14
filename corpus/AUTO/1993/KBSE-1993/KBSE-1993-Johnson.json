@@ -2,11 +2,30 @@
 	"author": "W. Lewis Johnson",
 	"booktitle": "Proceedings of the Eighth Annual Knowledge-Based Software Engineering Conference",
 	"booktitleshort": "KBSE",
-	"editor": ["Bruce Johnson", "Mehdi Harandi", "Bill Sasso"],
-	"pages": 1,
-	"stemmed": ["a", "survey", "of", "knowledg", "base", "softwar", "engin", "tutori"],
-	"tag": ["bibliography", "knowledge-based", "re-engineering", "tutorial"],
-	"title": "A Survey of Knowledge-Based Software Engineering (Tutorial)",
+	"editor": [
+		"Bruce Johnson",
+		"Mehdi Harandi",
+		"Bill Sasso"
+	],
+	"pages": "1",
+	"status": "tutorial",
+	"stemmed": [
+		"a",
+		"survey",
+		"of",
+		"knowledg",
+		"base",
+		"softwar",
+		"engin",
+		"tutori"
+	],
+	"tag": [
+		"knowledge-based",
+		"overview",
+		"re-engineering",
+		"tutorial"
+	],
+	"title": "A Survey of Knowledge-Based Software Engineering",
 	"type": "inproceedings",
 	"venue": "ASE",
 	"year": 1993

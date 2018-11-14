@@ -1,5 +1,9 @@
 {
-	"author": ["Joan Feigenbaum", "Christos H. Papadimitriou", "Scott Shenker"],
+	"author": [
+		"Joan Feigenbaum",
+		"Christos H. Papadimitriou",
+		"Scott Shenker"
+	],
 	"booktitle": "Proceedings of the 32nd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/2000",
@@ -8,9 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/335305.335332",
 	"pages": "218-227",
 	"publisher": "ACM",
-	"stemmed": ["share", "the", "cost", "of", "muliticast", "transmiss", "preliminari", "version"],
-	"tag": ["cost analysis", "low cost"],
-	"title": "Sharing the cost of muliticast transmissions (preliminary version)",
+	"status": "work in progress",
+	"stemmed": [
+		"share",
+		"the",
+		"cost",
+		"of",
+		"muliticast",
+		"transmiss",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"cost analysis",
+		"low cost"
+	],
+	"title": "Sharing the cost of muliticast transmissions",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 2000

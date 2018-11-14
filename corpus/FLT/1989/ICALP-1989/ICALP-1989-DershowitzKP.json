@@ -1,5 +1,9 @@
 {
-	"author": ["Nachum Dershowitz", "Stéphane Kaplan", "David A. Plaisted"],
+	"author": [
+		"Nachum Dershowitz",
+		"Stéphane Kaplan",
+		"David A. Plaisted"
+	],
 	"booktitle": "Proceedings of the 16th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1989",
@@ -11,11 +15,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["infinit", "normal", "form", "preliminari", "version"],
-	"tag": ["infinity", "normalisation"],
-	"title": "Infinite Normal Forms (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"infinit",
+		"normal",
+		"form",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"infinity",
+		"normalisation"
+	],
+	"title": "Infinite Normal Forms",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 372,
+	"volume": "372",
 	"year": 1989
 }

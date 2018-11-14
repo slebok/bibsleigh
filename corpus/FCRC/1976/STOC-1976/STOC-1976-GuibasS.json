@@ -1,5 +1,8 @@
 {
-	"author": ["Leonidas J. Guibas", "Endre Szemerédi"],
+	"author": [
+		"Leonidas J. Guibas",
+		"Endre Szemerédi"
+	],
 	"booktitle": "Proceedings of the Eighth Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC8",
@@ -8,9 +11,20 @@
 	"ee": "http://doi.acm.org/10.1145/800113.803647",
 	"pages": "187-191",
 	"publisher": "ACM",
-	"stemmed": ["the", "analysi", "of", "doubl", "hash", "extend", "abstract"],
-	"tag": ["analysis"],
-	"title": "The Analysis of Double Hashing (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"the",
+		"analysi",
+		"of",
+		"doubl",
+		"hash",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"analysis"
+	],
+	"title": "The Analysis of Double Hashing",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1976

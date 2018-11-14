@@ -1,5 +1,8 @@
 {
-	"author": ["Stephen A. Vavasis", "Yinyu Ye"],
+	"author": [
+		"Stephen A. Vavasis",
+		"Yinyu Ye"
+	],
 	"booktitle": "Proceedings of the 26th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC26",
@@ -8,8 +11,24 @@
 	"ee": "http://doi.acm.org/10.1145/195058.195248",
 	"pages": "512-521",
 	"publisher": "ACM",
-	"stemmed": ["an", "acceler", "interior", "point", "method", "whose", "run", "time", "depend", "onli", "on", "a", "extend", "abstract"],
-	"title": "An accelerated interior point method whose running time depends only on A (extended abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"an",
+		"acceler",
+		"interior",
+		"point",
+		"method",
+		"whose",
+		"run",
+		"time",
+		"depend",
+		"onli",
+		"on",
+		"a",
+		"extend",
+		"abstract"
+	],
+	"title": "An accelerated interior point method whose running time depends only on A",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1994

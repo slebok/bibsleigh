@@ -1,5 +1,8 @@
 {
-	"author": ["Edward G. Coffman Jr.", "T. A. Ryan"],
+	"author": [
+		"Edward G. Coffman Jr.",
+		"T. A. Ryan"
+	],
 	"booktitle": "Proceedings of the Third Symposium on Operating System Principles",
 	"booktitleshort": "SOSP",
 	"crossref": "conf/sosp/1971",
@@ -8,9 +11,25 @@
 	"ee": "http://doi.acm.org/10.1145/800212.806510",
 	"pages": "122-129",
 	"publisher": "ACM",
-	"stemmed": ["a", "studi", "of", "storag", "partit", "use", "a", "mathemat", "model", "abstract"],
-	"tag": ["case study", "clustering", "using"],
-	"title": "A Study of Storage Partitioning Using a Mathematical Model (Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"a",
+		"studi",
+		"of",
+		"storag",
+		"partit",
+		"use",
+		"a",
+		"mathemat",
+		"model",
+		"abstract"
+	],
+	"tag": [
+		"case study",
+		"clustering",
+		"using"
+	],
+	"title": "A Study of Storage Partitioning Using a Mathematical Model",
 	"type": "inproceedings",
 	"venue": "SOSP",
 	"year": 1971

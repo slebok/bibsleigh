@@ -1,5 +1,8 @@
 {
-	"author": ["Allan Borodin", "Prasoon Tiwari"],
+	"author": [
+		"Allan Borodin",
+		"Prasoon Tiwari"
+	],
 	"booktitle": "Proceedings of the 22nd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC22",
@@ -8,9 +11,25 @@
 	"ee": "http://doi.acm.org/10.1145/100216.100292",
 	"pages": "535-545",
 	"publisher": "ACM",
-	"stemmed": ["on", "the", "decid", "of", "spars", "univari", "polynomi", "interpol", "preliminari", "version"],
-	"tag": ["decidability", "on the", "polynomial"],
-	"title": "On the Decidability of Sparse Univariate Polynomial Interpolation (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"on",
+		"the",
+		"decid",
+		"of",
+		"spars",
+		"univari",
+		"polynomi",
+		"interpol",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"decidability",
+		"on the",
+		"polynomial"
+	],
+	"title": "On the Decidability of Sparse Univariate Polynomial Interpolation",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1990

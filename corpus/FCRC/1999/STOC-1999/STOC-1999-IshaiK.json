@@ -1,5 +1,8 @@
 {
-	"author": ["Yuval Ishai", "Eyal Kushilevitz"],
+	"author": [
+		"Yuval Ishai",
+		"Eyal Kushilevitz"
+	],
 	"booktitle": "Proceedings of the 31st Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1999",
@@ -8,9 +11,25 @@
 	"ee": "http://doi.acm.org/10.1145/301250.301275",
 	"pages": "79-88",
 	"publisher": "ACM",
-	"stemmed": ["improv", "upper", "bound", "on", "inform", "theoret", "privat", "inform", "retriev", "extend", "abstract"],
-	"tag": ["bound", "information retrieval"],
-	"title": "Improved Upper Bounds on Information-Theoretic Private Information Retrieval (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"improv",
+		"upper",
+		"bound",
+		"on",
+		"inform",
+		"theoret",
+		"privat",
+		"inform",
+		"retriev",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"bound",
+		"information retrieval"
+	],
+	"title": "Improved Upper Bounds on Information-Theoretic Private Information Retrieval",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1999

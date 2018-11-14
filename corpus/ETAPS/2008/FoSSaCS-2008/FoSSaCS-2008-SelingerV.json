@@ -1,5 +1,8 @@
 {
-	"author": ["Peter Selinger", "Benoît Valiron"],
+	"author": [
+		"Peter Selinger",
+		"Benoît Valiron"
+	],
 	"booktitle": "Proceedings of the 11th International Conference on Foundations of Software Science and Computation Structures",
 	"booktitleshort": "FoSSaCS",
 	"crossref": "conf/fossacs/2008",
@@ -11,11 +14,30 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "linear", "non", "linear", "model", "for", "a", "comput", "call", "by", "valu", "calculus", "extend", "abstract"],
-	"tag": ["call-by", "λ-calculus"],
-	"title": "A Linear-non-Linear Model for a Computational Call-by-Value λ Calculus (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"a",
+		"linear",
+		"non",
+		"linear",
+		"model",
+		"for",
+		"a",
+		"comput",
+		"call",
+		"by",
+		"valu",
+		"calculus",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"call-by",
+		"λ-calculus"
+	],
+	"title": "A Linear-non-Linear Model for a Computational Call-by-Value λ Calculus",
 	"type": "inproceedings",
 	"venue": "FoSSaCS",
-	"volume": 4962,
+	"volume": "4962",
 	"year": 2008
 }

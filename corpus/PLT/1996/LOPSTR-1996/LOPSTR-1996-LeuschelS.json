@@ -1,5 +1,8 @@
 {
-	"author": ["Michael Leuschel", "Danny De Schreye"],
+	"author": [
+		"Michael Leuschel",
+		"Danny De Schreye"
+	],
 	"booktitle": "Proceedings of the Sixth International Workshop on Logic Programming Synthesis and Transformation",
 	"booktitleshort": "LOPSTR",
 	"crossref": "conf/lopstr/1996",
@@ -7,16 +10,30 @@
 	"doi": "10.1007/3-540-62718-9_4",
 	"ee": "http://dx.doi.org/10.1007/3-540-62718-9_4",
 	"note": "full paper: PLILP 1996: 137-151",
-	"pages": 58,
+	"pages": "58",
 	"publisher": "Springer-Verlag",
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["logic", "program", "specialis", "how", "to", "be", "more", "specif", "abstract"],
-	"tag": ["how", "logic programming"],
-	"title": "Logic Program Specialisation: How to Be More Specific (Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"logic",
+		"program",
+		"specialis",
+		"how",
+		"to",
+		"be",
+		"more",
+		"specif",
+		"abstract"
+	],
+	"tag": [
+		"how",
+		"logic programming"
+	],
+	"title": "Logic Program Specialisation: How to Be More Specific",
 	"type": "inproceedings",
 	"venue": "LOPSTR",
-	"volume": 1207,
+	"volume": "1207",
 	"year": 1996
 }

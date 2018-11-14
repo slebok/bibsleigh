@@ -1,5 +1,12 @@
 {
-	"author": ["Mark Harman", "William B. Langdon", "Yue Jia", "David Robert White", "Andrea Arcuri", "John A. Clark"],
+	"author": [
+		"Mark Harman",
+		"William B. Langdon",
+		"Yue Jia",
+		"David Robert White",
+		"Andrea Arcuri",
+		"John A. Clark"
+	],
 	"booktitle": "Proceedings of the 27th IEEE/ACM International Conference on Automated Software Engineering",
 	"booktitleshort": "ASE",
 	"crossref": "conf/kbse/2012",
@@ -8,9 +15,34 @@
 	"ee": "http://doi.acm.org/10.1145/2351676.2351678",
 	"pages": "1-14",
 	"publisher": "ACM",
-	"stemmed": ["the", "gismo", "challeng", "construct", "the", "pareto", "program", "surfac", "use", "genet", "program", "to", "find", "better", "program", "keynot", "paper"],
-	"tag": ["challenge", "programming", "search-based", "source code", "using"],
-	"title": "The GISMOE challenge: constructing the pareto program surface using genetic programming to find better programs (keynote paper)",
+	"status": "keynote",
+	"stemmed": [
+		"the",
+		"gismo",
+		"challeng",
+		"construct",
+		"the",
+		"pareto",
+		"program",
+		"surfac",
+		"use",
+		"genet",
+		"program",
+		"to",
+		"find",
+		"better",
+		"program",
+		"keynot",
+		"paper"
+	],
+	"tag": [
+		"challenge",
+		"programming",
+		"search-based",
+		"source code",
+		"using"
+	],
+	"title": "The GISMOE challenge: constructing the pareto program surface using genetic programming to find better programs",
 	"type": "inproceedings",
 	"venue": "ASE",
 	"year": 2012

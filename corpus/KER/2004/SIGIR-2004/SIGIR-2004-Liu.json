@@ -6,11 +6,23 @@
 	"dblpkey": "conf/sigir/Liu04",
 	"doi": "10.1145/1008992.1009146",
 	"ee": "http://doi.acm.org/10.1145/1008992.1009146",
-	"pages": 602,
+	"pages": "602",
 	"publisher": "ACM",
-	"stemmed": ["support", "feder", "inform", "share", "communiti", "abstract", "onli"],
-	"tag": ["community", "information management"],
-	"title": "Supporting federated information sharing communities (abstract only)",
+	"status": "abstract",
+	"stemmed": [
+		"support",
+		"feder",
+		"inform",
+		"share",
+		"communiti",
+		"abstract",
+		"onli"
+	],
+	"tag": [
+		"community",
+		"information management"
+	],
+	"title": "Supporting federated information sharing communities",
 	"type": "inproceedings",
 	"venue": "SIGIR",
 	"year": 2004

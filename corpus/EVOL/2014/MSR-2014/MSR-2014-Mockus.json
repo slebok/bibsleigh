@@ -6,11 +6,23 @@
 	"dblpkey": "conf/msr/Mockus14",
 	"doi": "10.1145/2597073.2600728",
 	"ee": "http://doi.acm.org/10.1145/2597073.2600728",
-	"pages": 1,
+	"pages": "1",
 	"publisher": "ACM",
-	"stemmed": ["is", "mine", "softwar", "repositori", "data", "scienc", "keynot"],
-	"tag": ["mining", "repository"],
-	"title": "Is mining software repositories data science? (keynote)",
+	"status": "keynote",
+	"stemmed": [
+		"is",
+		"mine",
+		"softwar",
+		"repositori",
+		"data",
+		"scienc",
+		"keynot"
+	],
+	"tag": [
+		"mining",
+		"repository"
+	],
+	"title": "Is mining software repositories data science?",
 	"type": "inproceedings",
 	"venue": "MSR",
 	"year": 2014

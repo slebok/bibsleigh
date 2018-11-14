@@ -1,5 +1,8 @@
 {
-	"author": ["Ronald V. Book", "Franz-Josef Brandenburg"],
+	"author": [
+		"Ronald V. Book",
+		"Franz-Josef Brandenburg"
+	],
 	"booktitle": "Proceedings of the Sixth Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1979",
@@ -11,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["repres", "complex", "class", "by", "equal", "set", "preliminari", "report"],
-	"tag": ["complexity", "representation", "set", "similarity"],
-	"title": "Representing Complexity Classes by Equality Sets (Preliminary Report)",
+	"status": "work in progress",
+	"stemmed": [
+		"repres",
+		"complex",
+		"class",
+		"by",
+		"equal",
+		"set",
+		"preliminari",
+		"report"
+	],
+	"tag": [
+		"complexity",
+		"representation",
+		"set",
+		"similarity"
+	],
+	"title": "Representing Complexity Classes by Equality Sets",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 71,
+	"volume": "71",
 	"year": 1979
 }

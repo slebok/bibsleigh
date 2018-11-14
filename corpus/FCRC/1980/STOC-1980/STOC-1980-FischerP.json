@@ -1,5 +1,8 @@
 {
-	"author": ["Michael J. Fischer", "Mike Paterson"],
+	"author": [
+		"Michael J. Fischer",
+		"Mike Paterson"
+	],
 	"booktitle": "Proceedings of the 12th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC12",
@@ -8,9 +11,18 @@
 	"ee": "http://doi.acm.org/10.1145/800141.804665",
 	"pages": "177-189",
 	"publisher": "ACM",
-	"stemmed": ["optim", "tree", "layout", "preliminari", "version"],
-	"tag": ["layout"],
-	"title": "Optimal Tree Layout (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"optim",
+		"tree",
+		"layout",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"layout"
+	],
+	"title": "Optimal Tree Layout",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1980

@@ -1,5 +1,8 @@
 {
-	"author": ["Bernd Fischer", "Eelco Visser"],
+	"author": [
+		"Bernd Fischer",
+		"Eelco Visser"
+	],
 	"booktitle": "Revised Selected Papers of the 13th International Symposium on Logic Based Program Synthesis and Transformation",
 	"booktitleshort": "LOPSTR",
 	"crossref": "conf/lopstr/2003",
@@ -11,11 +14,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["ad", "concret", "syntax", "to", "a", "prolog", "base", "program", "synthesi", "system", "extend", "abstract"],
-	"tag": ["prolog", "syntax", "synthesis"],
-	"title": "Adding Concrete Syntax to a Prolog-Based Program Synthesis System (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"ad",
+		"concret",
+		"syntax",
+		"to",
+		"a",
+		"prolog",
+		"base",
+		"program",
+		"synthesi",
+		"system",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"prolog",
+		"syntax",
+		"synthesis"
+	],
+	"title": "Adding Concrete Syntax to a Prolog-Based Program Synthesis System",
 	"type": "inproceedings",
 	"venue": "LOPSTR",
-	"volume": 3018,
+	"volume": "3018",
 	"year": 2003
 }

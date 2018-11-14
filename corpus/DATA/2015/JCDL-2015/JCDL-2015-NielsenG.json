@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Matthias Nielsen",
-		"Kaj Grønbæk"
-	],
+	"author": ["Matthias Nielsen", "Kaj Grønbæk"],
 	"booktitle": "Proceedings of the 15th Joint Conference on Digital Libraries",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2015",
@@ -10,15 +7,8 @@
 	"doi": "10.1145/2756406.2756937",
 	"pages": "139-142",
 	"publisher": "ACM",
-	"tag": [
-		"analysis",
-		"interactive",
-		"library",
-		"multi",
-		"named",
-		"transaction",
-		"visual notation"
-	],
+	"stemmed": ["pivot", "viz", "interact", "visual", "analysi", "of", "multidimension", "librari", "transact", "data"],
+	"tag": ["analysis", "interactive", "library", "multi", "named", "transaction", "visual notation"],
 	"title": "PivotViz: Interactive Visual Analysis of Multidimensional Library Transaction Data",
 	"type": "inproceedings",
 	"venue": "JCDL",

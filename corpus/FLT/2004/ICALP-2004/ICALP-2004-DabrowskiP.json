@@ -1,5 +1,8 @@
 {
-	"author": ["Robert Dabrowski", "Wojciech Plandowski"],
+	"author": [
+		"Robert Dabrowski",
+		"Wojciech Plandowski"
+	],
 	"booktitle": "Proceedings of the 31st International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/2004",
@@ -11,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["solv", "two", "variabl", "word", "equat", "extend", "abstract"],
-	"tag": ["equation", "word"],
-	"title": "Solving Two-Variable Word Equations (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"solv",
+		"two",
+		"variabl",
+		"word",
+		"equat",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"equation",
+		"word"
+	],
+	"title": "Solving Two-Variable Word Equations",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 3142,
+	"volume": "3142",
 	"year": 2004
 }

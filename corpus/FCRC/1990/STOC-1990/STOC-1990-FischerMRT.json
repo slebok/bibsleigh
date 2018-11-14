@@ -1,5 +1,10 @@
 {
-	"author": ["Michael J. Fischer", "Shlomo Moran", "Steven Rudich", "Gadi Taubenfeld"],
+	"author": [
+		"Michael J. Fischer",
+		"Shlomo Moran",
+		"Steven Rudich",
+		"Gadi Taubenfeld"
+	],
 	"booktitle": "Proceedings of the 22nd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC22",
@@ -8,9 +13,18 @@
 	"ee": "http://doi.acm.org/10.1145/100216.100228",
 	"pages": "106-116",
 	"publisher": "ACM",
-	"stemmed": ["the", "wakeup", "problem", "extend", "abstract"],
-	"tag": ["problem"],
-	"title": "The Wakeup Problem (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"the",
+		"wakeup",
+		"problem",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"problem"
+	],
+	"title": "The Wakeup Problem",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1990

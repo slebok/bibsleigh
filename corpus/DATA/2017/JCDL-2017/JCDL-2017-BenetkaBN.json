@@ -1,10 +1,6 @@
 {
 	"acmid": "3200357",
-	"author": [
-		"Jan R. Benetka",
-		"Krisztian Balog",
-		"Kjetil Nørvåg"
-	],
+	"author": ["Jan R. Benetka", "Krisztian Balog", "Kjetil Nørvåg"],
 	"booktitle": "Proceedings of the 2017 ACM/IEEE Joint Conference on Digital Libraries",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2017",
@@ -13,11 +9,8 @@
 	"ee": "https://doi.org/10.1109/JCDL.2017.7991575",
 	"pages": "209-218",
 	"publisher": "IEEE Computer Society",
-	"tag": [
-		"knowledge base",
-		"towards",
-		"transaction"
-	],
+	"stemmed": ["toward", "build", "a", "knowledg", "base", "of", "monetari", "transact", "from", "a", "news", "collect"],
+	"tag": ["knowledge base", "towards", "transaction"],
 	"title": "Towards Building a Knowledge Base of Monetary Transactions from a News Collection",
 	"type": "inproceedings",
 	"venue": "JCDL",

@@ -11,11 +11,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["theorem", "prove", "for", "verif", "invit", "tutori"],
-	"tag": ["proving", "theorem proving", "tutorial", "verification"],
-	"title": "Theorem Proving for Verification (Invited Tutorial)",
+	"status": [
+		"invited",
+		"tutorial"
+	],
+	"stemmed": [
+		"theorem",
+		"prove",
+		"for",
+		"verif",
+		"invit",
+		"tutori"
+	],
+	"tag": [
+		"proving",
+		"theorem proving",
+		"tutorial",
+		"verification"
+	],
+	"title": "Theorem Proving for Verification",
 	"type": "inproceedings",
 	"venue": "CAV",
-	"volume": 5123,
+	"volume": "5123",
 	"year": 2008
 }

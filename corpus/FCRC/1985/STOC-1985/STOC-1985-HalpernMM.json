@@ -1,5 +1,9 @@
 {
-	"author": ["Joseph Y. Halpern", "Nimrod Megiddo", "Ashfaq A. Munshi"],
+	"author": [
+		"Joseph Y. Halpern",
+		"Nimrod Megiddo",
+		"Ashfaq A. Munshi"
+	],
 	"booktitle": "Proceedings of the 17th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC17",
@@ -8,9 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/22145.22183",
 	"pages": "346-355",
 	"publisher": "ACM",
-	"stemmed": ["optim", "precis", "in", "the", "presenc", "of", "uncertainti", "preliminari", "version"],
-	"tag": ["nondeterminism", "precise"],
-	"title": "Optimal Precision in the Presence of Uncertainty (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"optim",
+		"precis",
+		"in",
+		"the",
+		"presenc",
+		"of",
+		"uncertainti",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"nondeterminism",
+		"precise"
+	],
+	"title": "Optimal Precision in the Presence of Uncertainty",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1985

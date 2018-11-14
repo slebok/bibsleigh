@@ -1,5 +1,8 @@
 {
-	"author": ["Kazuo Iwano", "Kenneth Steiglitz"],
+	"author": [
+		"Kazuo Iwano",
+		"Kenneth Steiglitz"
+	],
 	"booktitle": "Proceedings of the 19th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC19",
@@ -8,9 +11,26 @@
 	"ee": "http://doi.acm.org/10.1145/28395.28401",
 	"pages": "46-55",
 	"publisher": "ACM",
-	"stemmed": ["test", "for", "cycl", "in", "infinit", "graph", "with", "period", "structur", "extend", "abstract"],
-	"tag": ["graph", "infinity", "testing"],
-	"title": "Testing for Cycles in Infinite Graphs with Periodic Structure (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"test",
+		"for",
+		"cycl",
+		"in",
+		"infinit",
+		"graph",
+		"with",
+		"period",
+		"structur",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"graph",
+		"infinity",
+		"testing"
+	],
+	"title": "Testing for Cycles in Infinite Graphs with Periodic Structure",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1987

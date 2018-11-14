@@ -1,5 +1,9 @@
 {
-	"author": ["Hung Q. Ngo", "Ely Porat", "Atri Rudra"],
+	"author": [
+		"Hung Q. Ngo",
+		"Ely Porat",
+		"Atri Rudra"
+	],
 	"booktitle": "Proceedings of the 38th International Colloquium on Automata, Languages and Programming, Part I",
 	"booktitleshort": "ICALP (1)",
 	"crossref": "conf/icalp/2011-1",
@@ -11,11 +15,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["effici", "decod", "error", "correct", "list", "disjunct", "matric", "and", "applic", "extend", "abstract"],
-	"tag": ["matrix"],
-	"title": "Efficiently Decodable Error-Correcting List Disjunct Matrices and Applications — (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"effici",
+		"decod",
+		"error",
+		"correct",
+		"list",
+		"disjunct",
+		"matric",
+		"and",
+		"applic",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"matrix"
+	],
+	"title": "Efficiently Decodable Error-Correcting List Disjunct Matrices and Applications —",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 6755,
+	"volume": "6755",
 	"year": 2011
 }

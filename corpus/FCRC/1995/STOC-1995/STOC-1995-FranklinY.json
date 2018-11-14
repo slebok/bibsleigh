@@ -1,5 +1,8 @@
 {
-	"author": ["Matthew K. Franklin", "Moti Yung"],
+	"author": [
+		"Matthew K. Franklin",
+		"Moti Yung"
+	],
 	"booktitle": "Proceedings of the 27th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC27",
@@ -8,9 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/225058.225077",
 	"pages": "36-44",
 	"publisher": "ACM",
-	"stemmed": ["secur", "hypergraph", "privaci", "from", "partial", "broadcast", "extend", "abstract"],
-	"tag": ["privacy"],
-	"title": "Secure hypergraphs: privacy from partial broadcast (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"secur",
+		"hypergraph",
+		"privaci",
+		"from",
+		"partial",
+		"broadcast",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"privacy"
+	],
+	"title": "Secure hypergraphs: privacy from partial broadcast",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1995

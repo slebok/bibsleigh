@@ -1,5 +1,9 @@
 {
-	"author": ["Andrei Z. Broder", "Alan M. Frieze", "Eli Shamir"],
+	"author": [
+		"Andrei Z. Broder",
+		"Alan M. Frieze",
+		"Eli Shamir"
+	],
 	"booktitle": "Proceedings of the 23rd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC23",
@@ -8,8 +12,16 @@
 	"ee": "http://doi.acm.org/10.1145/103418.103442",
 	"pages": "182-189",
 	"publisher": "ACM",
-	"stemmed": ["find", "hidden", "hamiltonian", "cycl", "extend", "abstract"],
-	"title": "Finding Hidden Hamiltonian Cycles (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"find",
+		"hidden",
+		"hamiltonian",
+		"cycl",
+		"extend",
+		"abstract"
+	],
+	"title": "Finding Hidden Hamiltonian Cycles",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1991

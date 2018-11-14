@@ -1,5 +1,8 @@
 {
-	"author": ["Louis Mandel", "Luc Maranget"],
+	"author": [
+		"Louis Mandel",
+		"Luc Maranget"
+	],
 	"booktitle": "Proceedings of the 17th European Symposium on Programming",
 	"booktitleshort": "ESOP",
 	"crossref": "conf/esop/2008",
@@ -13,11 +16,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["program", "in", "jo", "caml", "tool", "demonstr"],
-	"tag": ["programming", "tool support"],
-	"title": "Programming in JoCaml (Tool Demonstration)",
+	"status": "tool",
+	"stemmed": [
+		"program",
+		"in",
+		"jo",
+		"caml",
+		"tool",
+		"demonstr"
+	],
+	"tag": [
+		"programming",
+		"tool support"
+	],
+	"title": "Programming in JoCaml",
 	"type": "inproceedings",
 	"venue": "ESOP",
-	"volume": 4960,
+	"volume": "4960",
 	"year": 2008
 }

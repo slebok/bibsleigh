@@ -1,5 +1,9 @@
 {
-	"author": ["Danny Dolev", "Cynthia Dwork", "Moni Naor"],
+	"author": [
+		"Danny Dolev",
+		"Cynthia Dwork",
+		"Moni Naor"
+	],
 	"booktitle": "Proceedings of the 23rd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC23",
@@ -8,9 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/103418.103474",
 	"pages": "542-552",
 	"publisher": "ACM",
-	"stemmed": ["non", "malleabl", "cryptographi", "extend", "abstract"],
-	"tag": ["encryption"],
-	"title": "Non-Malleable Cryptography (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"non",
+		"malleabl",
+		"cryptographi",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"encryption"
+	],
+	"title": "Non-Malleable Cryptography",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1991

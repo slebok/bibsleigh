@@ -1,5 +1,8 @@
 {
-	"author": ["Benny Chor", "Niv Gilboa"],
+	"author": [
+		"Benny Chor",
+		"Niv Gilboa"
+	],
 	"booktitle": "Proceedings of the 29th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1997",
@@ -8,9 +11,19 @@
 	"ee": "http://doi.acm.org/10.1145/258533.258609",
 	"pages": "304-313",
 	"publisher": "ACM",
-	"stemmed": ["comput", "privat", "inform", "retriev", "extend", "abstract"],
-	"tag": ["information retrieval"],
-	"title": "Computationally Private Information Retrieval (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"comput",
+		"privat",
+		"inform",
+		"retriev",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"information retrieval"
+	],
+	"title": "Computationally Private Information Retrieval",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1997

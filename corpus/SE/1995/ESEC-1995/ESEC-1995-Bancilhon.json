@@ -5,7 +5,10 @@
 	"crossref": "conf/esec/1995",
 	"dblpkey": "conf/esec/Bancilhon95",
 	"doi": "10.1007/3-540-60406-5_2",
-	"editor": ["Wilhelm Schäfer", "Pere Botella"],
+	"editor": [
+		"Wilhelm Schäfer",
+		"Pere Botella"
+	],
 	"ee": "http://dx.doi.org/10.1007/3-540-60406-5_2",
 	"isbn": "3-540-60406-5",
 	"pages": "3-4",
@@ -13,11 +16,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["whi", "we", "need", "object", "databas", "abstract"],
-	"tag": ["database", "why"],
-	"title": "Why We Need Object Databases (Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"whi",
+		"we",
+		"need",
+		"object",
+		"databas",
+		"abstract"
+	],
+	"tag": [
+		"database",
+		"why"
+	],
+	"title": "Why We Need Object Databases",
 	"type": "inproceedings",
 	"venue": "ESEC",
-	"volume": 989,
+	"volume": "989",
 	"year": 1995
 }

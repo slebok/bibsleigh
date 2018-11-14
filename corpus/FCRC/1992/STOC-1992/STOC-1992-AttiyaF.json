@@ -1,5 +1,8 @@
 {
-	"author": ["Hagit Attiya", "Roy Friedman"],
+	"author": [
+		"Hagit Attiya",
+		"Roy Friedman"
+	],
 	"booktitle": "Proceedings of the 24th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC24",
@@ -8,9 +11,23 @@
 	"ee": "http://doi.acm.org/10.1145/129712.129778",
 	"pages": "679-690",
 	"publisher": "ACM",
-	"stemmed": ["a", "correct", "condit", "for", "high", "perform", "multiprocessor", "extend", "abstract"],
-	"tag": ["correctness", "multi"],
-	"title": "A Correctness Condition for High-Performance Multiprocessors (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"a",
+		"correct",
+		"condit",
+		"for",
+		"high",
+		"perform",
+		"multiprocessor",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"correctness",
+		"multi"
+	],
+	"title": "A Correctness Condition for High-Performance Multiprocessors",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1992

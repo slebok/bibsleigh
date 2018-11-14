@@ -1,5 +1,8 @@
 {
-	"author": ["Christos H. Papadimitriou", "Mihalis Yannakakis"],
+	"author": [
+		"Christos H. Papadimitriou",
+		"Mihalis Yannakakis"
+	],
 	"booktitle": "Proceedings of the 26th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC26",
@@ -8,9 +11,22 @@
 	"ee": "http://doi.acm.org/10.1145/195058.195445",
 	"pages": "726-733",
 	"publisher": "ACM",
-	"stemmed": ["on", "complex", "as", "bound", "ration", "extend", "abstract"],
-	"tag": ["bound", "complexity", "on the"],
-	"title": "On complexity as bounded rationality (extended abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"on",
+		"complex",
+		"as",
+		"bound",
+		"ration",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"bound",
+		"complexity",
+		"on the"
+	],
+	"title": "On complexity as bounded rationality",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1994

@@ -1,5 +1,8 @@
 {
-	"author": ["Krzysztof R. Apt", "Carole Delporte"],
+	"author": [
+		"Krzysztof R. Apt",
+		"Carole Delporte"
+	],
 	"booktitle": "Proceedings of the 10th Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1983",
@@ -11,11 +14,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "axiomat", "of", "the", "intermitt", "assert", "method", "use", "tempor", "logic", "extend", "abstract"],
-	"tag": ["axiom", "logic", "using"],
-	"title": "An Axiomatization of the Intermittent Assertion Method Using Temporal Logic (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"an",
+		"axiomat",
+		"of",
+		"the",
+		"intermitt",
+		"assert",
+		"method",
+		"use",
+		"tempor",
+		"logic",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"axiom",
+		"logic",
+		"using"
+	],
+	"title": "An Axiomatization of the Intermittent Assertion Method Using Temporal Logic",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 154,
+	"volume": "154",
 	"year": 1983
 }

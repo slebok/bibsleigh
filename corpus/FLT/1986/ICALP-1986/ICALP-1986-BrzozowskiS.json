@@ -1,5 +1,8 @@
 {
-	"author": ["Janusz A. Brzozowski", "Carl-Johan H. Seger"],
+	"author": [
+		"Janusz A. Brzozowski",
+		"Carl-Johan H. Seger"
+	],
 	"booktitle": "Proceedings of the 13th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1986",
@@ -11,11 +14,31 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["correspond", "between", "ternari", "simul", "and", "binari", "race", "analysi", "in", "gate", "network", "extend", "summari"],
-	"tag": ["analysis", "network", "simulation", "summary"],
-	"title": "Correspondence between Ternary Simulation and Binary Race Analysis in Gate Networks (Extended Summary)",
+	"status": "abstract",
+	"stemmed": [
+		"correspond",
+		"between",
+		"ternari",
+		"simul",
+		"and",
+		"binari",
+		"race",
+		"analysi",
+		"in",
+		"gate",
+		"network",
+		"extend",
+		"summari"
+	],
+	"tag": [
+		"analysis",
+		"network",
+		"simulation",
+		"summary"
+	],
+	"title": "Correspondence between Ternary Simulation and Binary Race Analysis in Gate Networks",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 226,
+	"volume": "226",
 	"year": 1986
 }

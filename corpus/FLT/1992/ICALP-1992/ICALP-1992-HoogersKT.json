@@ -1,5 +1,9 @@
 {
-	"author": ["P. W. Hoogers", "H. C. M. Kleijn", "P. S. Thiagarajan"],
+	"author": [
+		"P. W. Hoogers",
+		"H. C. M. Kleijn",
+		"P. S. Thiagarajan"
+	],
 	"booktitle": "Proceedings of the 19th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1992",
@@ -11,11 +15,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "trace", "semant", "for", "petri", "net", "extend", "abstract"],
-	"tag": ["petri net", "semantics"],
-	"title": "A Trace Semantics for Petri Nets (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"a",
+		"trace",
+		"semant",
+		"for",
+		"petri",
+		"net",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"petri net",
+		"semantics"
+	],
+	"title": "A Trace Semantics for Petri Nets",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 623,
+	"volume": "623",
 	"year": 1992
 }

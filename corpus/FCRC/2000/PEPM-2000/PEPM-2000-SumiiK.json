@@ -1,5 +1,8 @@
 {
-	"author": ["Eijiro Sumii", "Naoki Kobayashi"],
+	"author": [
+		"Eijiro Sumii",
+		"Naoki Kobayashi"
+	],
 	"booktitle": "Proceedings of the Seventh Workshop on Partial Evaluation and Semantics-Based Program Manipulation",
 	"booktitleshort": "PEPM",
 	"crossref": "conf/pepm/2000",
@@ -8,9 +11,24 @@
 	"ee": "http://doi.acm.org/10.1145/328690.328694",
 	"pages": "12-21",
 	"publisher": "ACM",
-	"stemmed": ["onlin", "and", "offlin", "partial", "evalu", "a", "mix", "approach", "extend", "abstract"],
-	"tag": ["approach", "partial evaluation"],
-	"title": "Online-and-Offline Partial Evaluation: A Mixed Approach (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"onlin",
+		"and",
+		"offlin",
+		"partial",
+		"evalu",
+		"a",
+		"mix",
+		"approach",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"approach",
+		"partial evaluation"
+	],
+	"title": "Online-and-Offline Partial Evaluation: A Mixed Approach",
 	"type": "inproceedings",
 	"venue": "PEPM",
 	"year": 2000

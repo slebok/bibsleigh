@@ -1,5 +1,8 @@
 {
-	"author": ["Jos C. M. Baeten", "Rob J. van Glabbeek"],
+	"author": [
+		"Jos C. M. Baeten",
+		"Rob J. van Glabbeek"
+	],
 	"booktitle": "Proceedings of the 14th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1987",
@@ -11,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["anoth", "look", "at", "abstract", "in", "process", "algebra", "extend", "abstract"],
-	"tag": ["abstraction", "algebra", "process"],
-	"title": "Another Look at Abstraction in Process Algebra (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"anoth",
+		"look",
+		"at",
+		"abstract",
+		"in",
+		"process",
+		"algebra",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"abstraction",
+		"algebra",
+		"process"
+	],
+	"title": "Another Look at Abstraction in Process Algebra",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 267,
+	"volume": "267",
 	"year": 1987
 }

@@ -1,5 +1,10 @@
 {
-	"author": ["Daniel J. Kleitman", "Frank Thomson Leighton", "Margaret Lepley", "Gary L. Miller"],
+	"author": [
+		"Daniel J. Kleitman",
+		"Frank Thomson Leighton",
+		"Margaret Lepley",
+		"Gary L. Miller"
+	],
 	"booktitle": "Proceedings of the 13th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC13",
@@ -8,9 +13,22 @@
 	"ee": "http://doi.acm.org/10.1145/800076.802480",
 	"pages": "278-292",
 	"publisher": "ACM",
-	"stemmed": ["new", "layout", "for", "the", "shuffl", "exchang", "graph", "extend", "abstract"],
-	"tag": ["graph"],
-	"title": "New Layouts for the Shuffle-Exchange Graph (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"new",
+		"layout",
+		"for",
+		"the",
+		"shuffl",
+		"exchang",
+		"graph",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"graph"
+	],
+	"title": "New Layouts for the Shuffle-Exchange Graph",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1981

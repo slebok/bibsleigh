@@ -1,5 +1,8 @@
 {
-	"author": ["Yossi Matias", "Uzi Vishkin"],
+	"author": [
+		"Yossi Matias",
+		"Uzi Vishkin"
+	],
 	"booktitle": "Proceedings of the 17th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1990",
@@ -11,11 +14,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["on", "parallel", "hash", "and", "integ", "sort", "extend", "summari"],
-	"tag": ["integer", "on the", "parallel", "sorting", "summary"],
-	"title": "On Parallel Hashing and Integer Sorting (Extended Summary)",
+	"status": "abstract",
+	"stemmed": [
+		"on",
+		"parallel",
+		"hash",
+		"and",
+		"integ",
+		"sort",
+		"extend",
+		"summari"
+	],
+	"tag": [
+		"integer",
+		"on the",
+		"parallel",
+		"sorting",
+		"summary"
+	],
+	"title": "On Parallel Hashing and Integer Sorting",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 443,
+	"volume": "443",
 	"year": 1990
 }

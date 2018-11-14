@@ -1,5 +1,11 @@
 {
-	"author": ["Omer Berkman", "Dany Breslauer", "Zvi Galil", "Baruch Schieber", "Uzi Vishkin"],
+	"author": [
+		"Omer Berkman",
+		"Dany Breslauer",
+		"Zvi Galil",
+		"Baruch Schieber",
+		"Uzi Vishkin"
+	],
 	"booktitle": "Proceedings of the 21st Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC21",
@@ -8,9 +14,18 @@
 	"ee": "http://doi.acm.org/10.1145/73007.73036",
 	"pages": "309-319",
 	"publisher": "ACM",
-	"stemmed": ["high", "paralleliz", "problem", "extend", "abstract"],
-	"tag": ["problem"],
-	"title": "Highly Parallelizable Problems (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"high",
+		"paralleliz",
+		"problem",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"problem"
+	],
+	"title": "Highly Parallelizable Problems",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1989

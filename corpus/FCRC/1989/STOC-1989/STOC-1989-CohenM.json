@@ -1,5 +1,8 @@
 {
-	"author": ["Edith Cohen", "Nimrod Megiddo"],
+	"author": [
+		"Edith Cohen",
+		"Nimrod Megiddo"
+	],
 	"booktitle": "Proceedings of the 21st Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC21",
@@ -8,9 +11,30 @@
 	"ee": "http://doi.acm.org/10.1145/73007.73057",
 	"pages": "523-534",
 	"publisher": "ACM",
-	"stemmed": ["strong", "polynomi", "time", "and", "nc", "algorithm", "for", "detect", "cycl", "in", "dynam", "graph", "preliminari", "version"],
-	"tag": ["algorithm", "detection", "graph", "polynomial"],
-	"title": "Strongly Polynomial-Time and NC Algorithms for Detecting Cycles in Dynamic Graphs (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"strong",
+		"polynomi",
+		"time",
+		"and",
+		"nc",
+		"algorithm",
+		"for",
+		"detect",
+		"cycl",
+		"in",
+		"dynam",
+		"graph",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"algorithm",
+		"detection",
+		"graph",
+		"polynomial"
+	],
+	"title": "Strongly Polynomial-Time and NC Algorithms for Detecting Cycles in Dynamic Graphs",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1989

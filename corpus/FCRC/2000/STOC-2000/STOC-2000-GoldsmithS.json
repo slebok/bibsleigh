@@ -1,5 +1,8 @@
 {
-	"author": ["Judy Goldsmith", "Robert H. Sloan"],
+	"author": [
+		"Judy Goldsmith",
+		"Robert H. Sloan"
+	],
 	"booktitle": "Proceedings of the 32nd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/2000",
@@ -8,9 +11,20 @@
 	"ee": "http://doi.acm.org/10.1145/335305.335356",
 	"pages": "441-448",
 	"publisher": "ACM",
-	"stemmed": ["more", "theori", "revis", "with", "queri", "extend", "abstract"],
-	"tag": ["query"],
-	"title": "More theory revision with queries (extended abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"more",
+		"theori",
+		"revis",
+		"with",
+		"queri",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"query"
+	],
+	"title": "More theory revision with queries",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 2000

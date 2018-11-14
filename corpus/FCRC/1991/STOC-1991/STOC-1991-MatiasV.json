@@ -1,5 +1,8 @@
 {
-	"author": ["Yossi Matias", "Uzi Vishkin"],
+	"author": [
+		"Yossi Matias",
+		"Uzi Vishkin"
+	],
 	"booktitle": "Proceedings of the 23rd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC23",
@@ -8,9 +11,28 @@
 	"ee": "http://doi.acm.org/10.1145/103418.103453",
 	"pages": "307-316",
 	"publisher": "ACM",
-	"stemmed": ["convert", "high", "probabl", "into", "near", "constant", "time", "with", "applic", "to", "parallel", "hash", "extend", "abstract"],
-	"tag": ["parallel", "probability"],
-	"title": "Converting High Probability into Nearly-Constant Time-with Applications to Parallel Hashing (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"convert",
+		"high",
+		"probabl",
+		"into",
+		"near",
+		"constant",
+		"time",
+		"with",
+		"applic",
+		"to",
+		"parallel",
+		"hash",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"parallel",
+		"probability"
+	],
+	"title": "Converting High Probability into Nearly-Constant Time-with Applications to Parallel Hashing",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1991

@@ -1,5 +1,8 @@
 {
-	"author": ["Jan Friso Groote", "Frits W. Vaandrager"],
+	"author": [
+		"Jan Friso Groote",
+		"Frits W. Vaandrager"
+	],
 	"booktitle": "Proceedings of the 16th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1989",
@@ -11,11 +14,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["structur", "oper", "semant", "and", "bisimul", "as", "a", "congruenc", "extend", "abstract"],
-	"tag": ["bisimulation", "congruence", "semantics"],
-	"title": "Structural Operational Semantics and Bisimulation as a Congruence (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"structur",
+		"oper",
+		"semant",
+		"and",
+		"bisimul",
+		"as",
+		"a",
+		"congruenc",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"bisimulation",
+		"congruence",
+		"semantics"
+	],
+	"title": "Structural Operational Semantics and Bisimulation as a Congruence",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 372,
+	"volume": "372",
 	"year": 1989
 }

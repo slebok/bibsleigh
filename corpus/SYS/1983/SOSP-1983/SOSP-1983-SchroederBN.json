@@ -1,5 +1,9 @@
 {
-	"author": ["Michael D. Schroeder", "Andrew Birrell", "Roger M. Needham"],
+	"author": [
+		"Michael D. Schroeder",
+		"Andrew Birrell",
+		"Roger M. Needham"
+	],
 	"booktitle": "Proceedings of the Ninth ACM Symposium on Operating System Principles",
 	"booktitleshort": "SOSP",
 	"crossref": "conf/sosp/1983",
@@ -9,9 +13,25 @@
 	"note": "long version: ACM Trans. Comput. Syst. 2(1): 3-23(1984)",
 	"pages": "141-142",
 	"publisher": "ACM",
-	"stemmed": ["experi", "with", "grapevin", "the", "growth", "of", "a", "distribut", "system", "summari"],
-	"tag": ["distributed", "experience", "summary"],
-	"title": "Experience with Grapevine: The Growth of a Distributed System (Summary)",
+	"status": "abstract",
+	"stemmed": [
+		"experi",
+		"with",
+		"grapevin",
+		"the",
+		"growth",
+		"of",
+		"a",
+		"distribut",
+		"system",
+		"summari"
+	],
+	"tag": [
+		"distributed",
+		"experience",
+		"summary"
+	],
+	"title": "Experience with Grapevine: The Growth of a Distributed System",
 	"type": "inproceedings",
 	"venue": "SOSP",
 	"year": 1983

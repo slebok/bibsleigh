@@ -1,18 +1,41 @@
 {
-	"author": ["Victor R. Basili", "Oliver Laitenberger", "Forrest Shull", "Ioana Rus"],
+	"author": [
+		"Victor R. Basili",
+		"Oliver Laitenberger",
+		"Forrest Shull",
+		"Ioana Rus"
+	],
 	"booktitle": "Proceedings of the 22nd International Conference on Software Engineering",
 	"booktitleshort": "ICSE",
 	"crossref": "conf/icse/2000",
 	"dblpkey": "conf/icse/BasiliLSR00",
 	"doi": "10.1145/337180.337865",
-	"editor": ["Carlo Ghezzi", "Mehdi Jazayeri", "Alexander L. Wolf"],
+	"editor": [
+		"Carlo Ghezzi",
+		"Mehdi Jazayeri",
+		"Alexander L. Wolf"
+	],
 	"ee": "http://doi.acm.org/10.1145/337180.337865",
 	"isbn": "1-58113-206-9",
 	"pages": "836-836",
 	"publisher": "ACM",
-	"stemmed": ["improv", "softwar", "inspect", "by", "use", "read", "techniqu", "tutori", "session"],
-	"tag": ["tutorial", "using"],
-	"title": "Improving software inspections by using reading techniques (tutorial session)",
+	"status": "tutorial",
+	"stemmed": [
+		"improv",
+		"softwar",
+		"inspect",
+		"by",
+		"use",
+		"read",
+		"techniqu",
+		"tutori",
+		"session"
+	],
+	"tag": [
+		"tutorial",
+		"using"
+	],
+	"title": "Improving software inspections by using reading techniques",
 	"type": "inproceedings",
 	"venue": "ICSE",
 	"year": 2000

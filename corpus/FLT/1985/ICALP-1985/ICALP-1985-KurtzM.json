@@ -1,5 +1,8 @@
 {
-	"author": ["Thomas G. Kurtz", "Udi Manber"],
+	"author": [
+		"Thomas G. Kurtz",
+		"Udi Manber"
+	],
 	"booktitle": "Proceedings of the 12th Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1985",
@@ -11,11 +14,31 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "probabilist", "distribut", "algorithm", "for", "set", "intersect", "and", "it", "analysi", "preliminari", "version"],
-	"tag": ["algorithm", "analysis", "distributed", "probability", "set"],
-	"title": "A Probabilistic Distributed Algorithm for Set Intersection and Its Analysis (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"a",
+		"probabilist",
+		"distribut",
+		"algorithm",
+		"for",
+		"set",
+		"intersect",
+		"and",
+		"it",
+		"analysi",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"algorithm",
+		"analysis",
+		"distributed",
+		"probability",
+		"set"
+	],
+	"title": "A Probabilistic Distributed Algorithm for Set Intersection and Its Analysis",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 194,
+	"volume": "194",
 	"year": 1985
 }

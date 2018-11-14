@@ -1,5 +1,9 @@
 {
-	"author": ["David Harel", "Albert R. Meyer", "Vaughan R. Pratt"],
+	"author": [
+		"David Harel",
+		"Albert R. Meyer",
+		"Vaughan R. Pratt"
+	],
 	"booktitle": "Proceedings of the Ninth Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC9",
@@ -8,9 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/800105.803416",
 	"pages": "261-268",
 	"publisher": "ACM",
-	"stemmed": ["comput", "and", "complet", "in", "logic", "of", "program", "preliminari", "report"],
-	"tag": ["logic", "source code"],
-	"title": "Computability and Completeness in Logics of Programs (Preliminary Report)",
+	"status": "work in progress",
+	"stemmed": [
+		"comput",
+		"and",
+		"complet",
+		"in",
+		"logic",
+		"of",
+		"program",
+		"preliminari",
+		"report"
+	],
+	"tag": [
+		"logic",
+		"source code"
+	],
+	"title": "Computability and Completeness in Logics of Programs",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1977

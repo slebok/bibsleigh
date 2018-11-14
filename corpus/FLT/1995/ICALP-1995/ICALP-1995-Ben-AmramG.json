@@ -1,5 +1,8 @@
 {
-	"author": ["Amir M. Ben-Amram", "Zvi Galil"],
+	"author": [
+		"Amir M. Ben-Amram",
+		"Zvi Galil"
+	],
 	"booktitle": "Proceedings of the 22nd International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1995",
@@ -11,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["lower", "bound", "on", "algebra", "random", "access", "machin", "extend", "abstract"],
-	"tag": ["algebra", "bound", "random"],
-	"title": "Lower Bounds on Algebraic Random Access Machines (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"lower",
+		"bound",
+		"on",
+		"algebra",
+		"random",
+		"access",
+		"machin",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"algebra",
+		"bound",
+		"random"
+	],
+	"title": "Lower Bounds on Algebraic Random Access Machines",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 944,
+	"volume": "944",
 	"year": 1995
 }

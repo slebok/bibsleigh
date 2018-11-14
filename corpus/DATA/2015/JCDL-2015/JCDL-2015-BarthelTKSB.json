@@ -1,11 +1,5 @@
 {
-	"author": [
-		"Simon Barthel",
-		"Sascha Tönnies",
-		"Benjamin Köhncke",
-		"Patrick Siehndel",
-		"Wolf-Tilo Balke"
-	],
+	"author": ["Simon Barthel", "Sascha Tönnies", "Benjamin Köhncke", "Patrick Siehndel", "Wolf-Tilo Balke"],
 	"booktitle": "Proceedings of the 15th Joint Conference on Digital Libraries",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2015",
@@ -13,10 +7,8 @@
 	"doi": "10.1145/2756406.2756913",
 	"pages": "119-128",
 	"publisher": "ACM",
-	"tag": [
-		"twitter",
-		"what"
-	],
+	"stemmed": ["what", "doe", "twitter", "measur", "influenc", "of", "divers", "user", "group", "in", "altmetr"],
+	"tag": ["twitter", "what"],
 	"title": "What does Twitter Measure?: Influence of Diverse User Groups in Altmetrics",
 	"type": "inproceedings",
 	"venue": "JCDL",

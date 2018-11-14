@@ -1,5 +1,10 @@
 {
-	"author": ["Zvi M. Kedem", "Krishna V. Palem", "A. Raghunathan", "Paul G. Spirakis"],
+	"author": [
+		"Zvi M. Kedem",
+		"Krishna V. Palem",
+		"A. Raghunathan",
+		"Paul G. Spirakis"
+	],
 	"booktitle": "Proceedings of the 23rd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC23",
@@ -8,9 +13,27 @@
 	"ee": "http://doi.acm.org/10.1145/103418.103459",
 	"pages": "381-390",
 	"publisher": "ACM",
-	"stemmed": ["combin", "tentat", "and", "definit", "execut", "for", "veri", "fast", "depend", "parallel", "comput", "extend", "abstract"],
-	"tag": ["parallel", "performance"],
-	"title": "Combining Tentative and Definite Executions for Very Fast Dependable Parallel Computing (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"combin",
+		"tentat",
+		"and",
+		"definit",
+		"execut",
+		"for",
+		"veri",
+		"fast",
+		"depend",
+		"parallel",
+		"comput",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"parallel",
+		"performance"
+	],
+	"title": "Combining Tentative and Definite Executions for Very Fast Dependable Parallel Computing",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1991

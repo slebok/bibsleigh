@@ -1,5 +1,8 @@
 {
-	"author": ["Tatiana Rybina", "Andrei Voronkov"],
+	"author": [
+		"Tatiana Rybina",
+		"Andrei Voronkov"
+	],
 	"booktitle": "Proceedings of the 12th EACSL Annual Conference / 17th International Workshop on Computer Science Logic",
 	"booktitleshort": "CSL",
 	"crossref": "conf/csl/2003",
@@ -11,11 +14,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["fast", "infinit", "state", "model", "check", "in", "integ", "base", "system", "invit", "lectur"],
-	"tag": ["infinity", "model checking", "performance"],
-	"title": "Fast Infinite-State Model Checking in Integer-Based Systems (Invited Lecture)",
+	"status": "invited",
+	"stemmed": [
+		"fast",
+		"infinit",
+		"state",
+		"model",
+		"check",
+		"in",
+		"integ",
+		"base",
+		"system",
+		"invit",
+		"lectur"
+	],
+	"tag": [
+		"infinity",
+		"model checking",
+		"performance"
+	],
+	"title": "Fast Infinite-State Model Checking in Integer-Based Systems",
 	"type": "inproceedings",
 	"venue": "CSL",
-	"volume": 2803,
+	"volume": "2803",
 	"year": 2003
 }

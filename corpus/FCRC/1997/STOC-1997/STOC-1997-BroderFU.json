@@ -1,5 +1,9 @@
 {
-	"author": ["Andrei Z. Broder", "Alan M. Frieze", "Eli Upfal"],
+	"author": [
+		"Andrei Z. Broder",
+		"Alan M. Frieze",
+		"Eli Upfal"
+	],
 	"booktitle": "Proceedings of the 29th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1997",
@@ -8,9 +12,29 @@
 	"ee": "http://doi.acm.org/10.1145/258533.258646",
 	"pages": "531-539",
 	"publisher": "ACM",
-	"stemmed": ["static", "and", "dynam", "path", "select", "on", "expand", "graph", "a", "random", "walk", "approach", "preliminari", "version"],
-	"tag": ["approach", "graph", "random"],
-	"title": "Static and Dynamic Path Selection on Expander Graphs: A Random Walk Approach (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"static",
+		"and",
+		"dynam",
+		"path",
+		"select",
+		"on",
+		"expand",
+		"graph",
+		"a",
+		"random",
+		"walk",
+		"approach",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"approach",
+		"graph",
+		"random"
+	],
+	"title": "Static and Dynamic Path Selection on Expander Graphs: A Random Walk Approach",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1997

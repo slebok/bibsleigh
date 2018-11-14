@@ -1,5 +1,8 @@
 {
-	"author": ["Claire Kenyon-Mathieu", "Jeffrey Scott Vitter"],
+	"author": [
+		"Claire Kenyon-Mathieu",
+		"Jeffrey Scott Vitter"
+	],
 	"booktitle": "Proceedings of the 16th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1989",
@@ -11,11 +14,31 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["general", "method", "for", "the", "analysi", "of", "the", "maximum", "size", "of", "dynam", "data", "structur", "extend", "abstract"],
-	"tag": ["analysis", "data type"],
-	"title": "General Methods for the Analysis of the Maximum Size of Dynamic Data Structures (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"general",
+		"method",
+		"for",
+		"the",
+		"analysi",
+		"of",
+		"the",
+		"maximum",
+		"size",
+		"of",
+		"dynam",
+		"data",
+		"structur",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"analysis",
+		"data type"
+	],
+	"title": "General Methods for the Analysis of the Maximum Size of Dynamic Data Structures",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 372,
+	"volume": "372",
 	"year": 1989
 }

@@ -1,5 +1,8 @@
 {
-	"author": ["Rafail Ostrovsky", "Victor Shoup"],
+	"author": [
+		"Rafail Ostrovsky",
+		"Victor Shoup"
+	],
 	"booktitle": "Proceedings of the 29th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1997",
@@ -8,8 +11,15 @@
 	"ee": "http://doi.acm.org/10.1145/258533.258606",
 	"pages": "294-303",
 	"publisher": "ACM",
-	"stemmed": ["privat", "inform", "storag", "extend", "abstract"],
-	"title": "Private Information Storage (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"privat",
+		"inform",
+		"storag",
+		"extend",
+		"abstract"
+	],
+	"title": "Private Information Storage",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1997

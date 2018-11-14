@@ -1,5 +1,9 @@
 {
-	"author": ["Peter Kirschenhofer", "Helmut Prodinger", "Wojciech Szpankowski"],
+	"author": [
+		"Peter Kirschenhofer",
+		"Helmut Prodinger",
+		"Wojciech Szpankowski"
+	],
 	"booktitle": "Proceedings of the 15th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1988",
@@ -11,10 +15,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["do", "we", "realli", "need", "to", "balanc", "patricia", "tree", "extend", "abstract"],
-	"title": "Do We Really Need to Balance Patricia Trees? (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"do",
+		"we",
+		"realli",
+		"need",
+		"to",
+		"balanc",
+		"patricia",
+		"tree",
+		"extend",
+		"abstract"
+	],
+	"title": "Do We Really Need to Balance Patricia Trees?",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 317,
+	"volume": "317",
 	"year": 1988
 }

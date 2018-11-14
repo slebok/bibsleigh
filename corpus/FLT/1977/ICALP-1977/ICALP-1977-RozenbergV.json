@@ -1,5 +1,8 @@
 {
-	"author": ["Grzegorz Rozenberg", "Dirk Vermeir"],
+	"author": [
+		"Grzegorz Rozenberg",
+		"Dirk Vermeir"
+	],
 	"booktitle": "Proceedings of the Fourth Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1977",
@@ -11,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["l", "system", "of", "finit", "index", "extend", "abstract"],
-	"tag": ["finite"],
-	"title": "L Systems of Finite Index (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"l",
+		"system",
+		"of",
+		"finit",
+		"index",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"finite"
+	],
+	"title": "L Systems of Finite Index",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 52,
+	"volume": "52",
 	"year": 1977
 }

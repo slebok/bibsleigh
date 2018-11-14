@@ -1,5 +1,8 @@
 {
-	"author": ["S. Rao Kosaraju", "Mikhail J. Atallah"],
+	"author": [
+		"S. Rao Kosaraju",
+		"Mikhail J. Atallah"
+	],
 	"booktitle": "Proceedings of the 18th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC18",
@@ -8,9 +11,24 @@
 	"ee": "http://doi.acm.org/10.1145/12130.12157",
 	"pages": "264-272",
 	"publisher": "ACM",
-	"stemmed": ["optim", "simul", "between", "mesh", "connect", "array", "of", "processor", "preliminari", "version"],
-	"tag": ["array", "simulation"],
-	"title": "Optimal Simulations between Mesh-Connected Arrays of Processors (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"optim",
+		"simul",
+		"between",
+		"mesh",
+		"connect",
+		"array",
+		"of",
+		"processor",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"array",
+		"simulation"
+	],
+	"title": "Optimal Simulations between Mesh-Connected Arrays of Processors",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1986

@@ -1,5 +1,8 @@
 {
-	"author": ["Deborah Joseph", "Paul Young"],
+	"author": [
+		"Deborah Joseph",
+		"Paul Young"
+	],
 	"booktitle": "Proceedings of the 12th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC12",
@@ -8,9 +11,20 @@
 	"ee": "http://doi.acm.org/10.1145/800141.804653",
 	"pages": "58-69",
 	"publisher": "ACM",
-	"stemmed": ["independ", "result", "in", "comput", "scienc", "preliminari", "version"],
-	"tag": ["independence"],
-	"title": "Independence Results in Computer Science? (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"independ",
+		"result",
+		"in",
+		"comput",
+		"scienc",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"independence"
+	],
+	"title": "Independence Results in Computer Science?",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1980

@@ -1,5 +1,8 @@
 {
-	"author": ["Ronald L. Rivest", "Robert E. Schapire"],
+	"author": [
+		"Ronald L. Rivest",
+		"Robert E. Schapire"
+	],
 	"booktitle": "Proceedings of the 21st Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC21",
@@ -8,9 +11,25 @@
 	"ee": "http://doi.acm.org/10.1145/73007.73047",
 	"pages": "411-420",
 	"publisher": "ACM",
-	"stemmed": ["infer", "of", "finit", "automata", "use", "home", "sequenc", "extend", "abstract"],
-	"tag": ["automaton", "finite", "sequence", "using"],
-	"title": "Inference of Finite Automata Using Homing Sequences (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"infer",
+		"of",
+		"finit",
+		"automata",
+		"use",
+		"home",
+		"sequenc",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"automaton",
+		"finite",
+		"sequence",
+		"using"
+	],
+	"title": "Inference of Finite Automata Using Homing Sequences",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1989

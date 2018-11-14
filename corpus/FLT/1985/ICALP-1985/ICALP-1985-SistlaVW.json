@@ -1,5 +1,9 @@
 {
-	"author": ["A. Prasad Sistla", "Moshe Y. Vardi", "Pierre Wolper"],
+	"author": [
+		"A. Prasad Sistla",
+		"Moshe Y. Vardi",
+		"Pierre Wolper"
+	],
 	"booktitle": "Proceedings of the 12th Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1985",
@@ -11,11 +15,30 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "complement", "problem", "for", "büchi", "automata", "with", "applic", "to", "tempor", "logic", "extend", "abstract"],
-	"tag": ["automaton", "logic", "problem"],
-	"title": "The Complementation Problem for Büchi Automata with Applications to Temporal Logic (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"the",
+		"complement",
+		"problem",
+		"for",
+		"büchi",
+		"automata",
+		"with",
+		"applic",
+		"to",
+		"tempor",
+		"logic",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"automaton",
+		"logic",
+		"problem"
+	],
+	"title": "The Complementation Problem for Büchi Automata with Applications to Temporal Logic",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 194,
+	"volume": "194",
 	"year": 1985
 }

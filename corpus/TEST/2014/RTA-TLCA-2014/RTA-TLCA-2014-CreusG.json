@@ -1,5 +1,8 @@
 {
-	"author": ["Carles Creus", "Guillem Godoy"],
+	"author": [
+		"Carles Creus",
+		"Guillem Godoy"
+	],
 	"booktitle": "Proceedings of the Joint International Conference of the 25th International Conference on Rewriting Techniques and Applications and the 12th International Conference on Typed Lambda Calculi and Applications",
 	"booktitleshort": "RTA-TLCA",
 	"crossref": "conf/rta/2014",
@@ -13,11 +16,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["automat", "evalu", "of", "context", "free", "grammar", "system", "descript"],
-	"tag": ["automation", "context-free grammar", "evaluation"],
-	"title": "Automatic Evaluation of Context-Free Grammars (System Description)",
+	"status": "system description",
+	"stemmed": [
+		"automat",
+		"evalu",
+		"of",
+		"context",
+		"free",
+		"grammar",
+		"system",
+		"descript"
+	],
+	"tag": [
+		"automation",
+		"context-free grammar",
+		"evaluation"
+	],
+	"title": "Automatic Evaluation of Context-Free Grammars",
 	"type": "inproceedings",
 	"venue": "RTA",
-	"volume": 8560,
+	"volume": "8560",
 	"year": 2014
 }

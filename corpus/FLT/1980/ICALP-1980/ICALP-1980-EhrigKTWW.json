@@ -1,5 +1,11 @@
 {
-	"author": ["Hartmut Ehrig", "Hans-Jörg Kreowski", "James W. Thatcher", "Eric G. Wagner", "Jesse B. Wright"],
+	"author": [
+		"Hartmut Ehrig",
+		"Hans-Jörg Kreowski",
+		"James W. Thatcher",
+		"Eric G. Wagner",
+		"Jesse B. Wright"
+	],
 	"booktitle": "Proceedings of the Seventh Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1980",
@@ -11,11 +17,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["parameter", "data", "type", "in", "algebra", "specif", "languag", "short", "version"],
-	"tag": ["algebra", "data type", "specification"],
-	"title": "Parameterized Data Types in Algebraic Specification Languages (Short Version)",
+	"status": "short",
+	"stemmed": [
+		"parameter",
+		"data",
+		"type",
+		"in",
+		"algebra",
+		"specif",
+		"languag",
+		"short",
+		"version"
+	],
+	"tag": [
+		"algebra",
+		"data type",
+		"specification"
+	],
+	"title": "Parameterized Data Types in Algebraic Specification Languages",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 85,
+	"volume": "85",
 	"year": 1980
 }

@@ -5,11 +5,23 @@
 	"dblpkey": "conf/issta/Dill00",
 	"doi": "10.1145/347324.349113",
 	"ee": "http://doi.acm.org/10.1145/347324.349113",
-	"pages": 179,
+	"pages": "179",
 	"publisher": "ACM",
-	"stemmed": ["model", "check", "java", "program", "abstract", "onli"],
-	"tag": ["java", "model checking", "source code"],
-	"title": "Model checking Java programs (abstract only)",
+	"status": "abstract",
+	"stemmed": [
+		"model",
+		"check",
+		"java",
+		"program",
+		"abstract",
+		"onli"
+	],
+	"tag": [
+		"java",
+		"model checking",
+		"source code"
+	],
+	"title": "Model checking Java programs",
 	"type": "inproceedings",
 	"venue": "ISSTA",
 	"year": 2000

@@ -1,5 +1,10 @@
 {
-	"author": ["Stephan Kottler", "Christian Zielke", "Paul Seitz", "Michael Kaufmann"],
+	"author": [
+		"Stephan Kottler",
+		"Christian Zielke",
+		"Paul Seitz",
+		"Michael Kaufmann"
+	],
 	"booktitle": "Proceedings of the 15th International Conference on Theory and Applications of Satisfiability Testing",
 	"booktitleshort": "SAT",
 	"crossref": "conf/sat/2012",
@@ -11,11 +16,30 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["copan", "explor", "recur", "pattern", "in", "conflict", "analysi", "of", "cdcl", "sat", "solver", "tool", "present"],
-	"tag": ["analysis", "named", "satisfiability"],
-	"title": "CoPAn: Exploring Recurring Patterns in Conflict Analysis of CDCL SAT Solvers — (Tool Presentation)",
+	"status": "tool",
+	"stemmed": [
+		"copan",
+		"explor",
+		"recur",
+		"pattern",
+		"in",
+		"conflict",
+		"analysi",
+		"of",
+		"cdcl",
+		"sat",
+		"solver",
+		"tool",
+		"present"
+	],
+	"tag": [
+		"analysis",
+		"named",
+		"satisfiability"
+	],
+	"title": "CoPAn: Exploring Recurring Patterns in Conflict Analysis of CDCL SAT Solvers —",
 	"type": "inproceedings",
 	"venue": "ICST",
-	"volume": 7317,
+	"volume": "7317",
 	"year": 2012
 }

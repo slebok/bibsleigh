@@ -1,5 +1,8 @@
 {
-	"author": ["Toby J. Teorey", "Tad B. Pinkerton"],
+	"author": [
+		"Toby J. Teorey",
+		"Tad B. Pinkerton"
+	],
 	"booktitle": "Proceedings of the Third Symposium on Operating System Principles",
 	"booktitleshort": "SOSP",
 	"crossref": "conf/sosp/1971",
@@ -8,9 +11,24 @@
 	"ee": "http://doi.acm.org/10.1145/800212.806509",
 	"pages": "114-121",
 	"publisher": "ACM",
-	"stemmed": ["a", "compar", "analysi", "of", "disk", "schedul", "polici", "abstract"],
-	"tag": ["analysis", "comparative", "policy", "scheduling"],
-	"title": "A Comparative Analysis of Disk Scheduling Policies (Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"a",
+		"compar",
+		"analysi",
+		"of",
+		"disk",
+		"schedul",
+		"polici",
+		"abstract"
+	],
+	"tag": [
+		"analysis",
+		"comparative",
+		"policy",
+		"scheduling"
+	],
+	"title": "A Comparative Analysis of Disk Scheduling Policies",
 	"type": "inproceedings",
 	"venue": "SOSP",
 	"year": 1971

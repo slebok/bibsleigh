@@ -1,15 +1,29 @@
 {
-	"author": ["Lori L. Pollock", "Mary P. Bivens", "Mary Lou Soffa"],
+	"author": [
+		"Lori L. Pollock",
+		"Mary P. Bivens",
+		"Mary Lou Soffa"
+	],
 	"booktitle": "Proceedings of the International Symposium on Software Testing and Analysis",
 	"booktitleshort": "ISSTA",
 	"dblpkey": "conf/issta/PollockBS94",
 	"doi": "10.1145/186258.187201",
 	"ee": "http://doi.acm.org/10.1145/186258.187201",
-	"pages": 201,
+	"pages": "201",
 	"series": "Software Engineering Notes",
-	"stemmed": ["debug", "optim", "code", "via", "tailor", "abstract"],
-	"tag": ["debugging"],
-	"title": "Debugging Optimized Code Via Tailoring (Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"debug",
+		"optim",
+		"code",
+		"via",
+		"tailor",
+		"abstract"
+	],
+	"tag": [
+		"debugging"
+	],
+	"title": "Debugging Optimized Code Via Tailoring",
 	"type": "inproceedings",
 	"venue": "ISSTA",
 	"year": 1994

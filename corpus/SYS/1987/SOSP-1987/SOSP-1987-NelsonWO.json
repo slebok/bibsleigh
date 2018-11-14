@@ -1,5 +1,9 @@
 {
-	"author": ["Michael N. Nelson", "Brent B. Welch", "John K. Ousterhout"],
+	"author": [
+		"Michael N. Nelson",
+		"Brent B. Welch",
+		"John K. Ousterhout"
+	],
 	"booktitle": "Proceedings of the 11th ACM Symposium on Operating System Principles",
 	"booktitleshort": "SOSP",
 	"crossref": "conf/sosp/1987",
@@ -9,9 +13,23 @@
 	"note": "long version: ACM Trans. Comput. Syst. 6(1): 134-154(1988)",
 	"pages": "3-4",
 	"publisher": "ACM",
-	"stemmed": ["cach", "in", "the", "sprite", "network", "file", "system", "extend", "abstract"],
-	"tag": ["file system", "network"],
-	"title": "Caching in the Sprite Network File System (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"cach",
+		"in",
+		"the",
+		"sprite",
+		"network",
+		"file",
+		"system",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"file system",
+		"network"
+	],
+	"title": "Caching in the Sprite Network File System",
 	"type": "inproceedings",
 	"venue": "SOSP",
 	"year": 1987

@@ -1,5 +1,8 @@
 {
-	"author": ["Andrzej Ehrenfeucht", "Grzegorz Rozenberg"],
+	"author": [
+		"Andrzej Ehrenfeucht",
+		"Grzegorz Rozenberg"
+	],
 	"booktitle": "Proceedings of the Seventh Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC7",
@@ -8,9 +11,23 @@
 	"ee": "http://doi.acm.org/10.1145/800116.803759",
 	"pages": "117-120",
 	"publisher": "ACM",
-	"stemmed": ["on", "un", "predict", "of", "formal", "languag", "extend", "abstract"],
-	"tag": ["formal method", "on the", "predict"],
-	"title": "On (Un)predictability of Formal Languages (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"on",
+		"un",
+		"predict",
+		"of",
+		"formal",
+		"languag",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"formal method",
+		"on the",
+		"predict"
+	],
+	"title": "On (Un)predictability of Formal Languages",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1975

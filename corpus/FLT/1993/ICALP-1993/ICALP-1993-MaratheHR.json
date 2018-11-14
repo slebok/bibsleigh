@@ -1,5 +1,9 @@
 {
-	"author": ["Madhav V. Marathe", "Harry B. Hunt III", "S. S. Ravi"],
+	"author": [
+		"Madhav V. Marathe",
+		"Harry B. Hunt III",
+		"S. S. Ravi"
+	],
 	"booktitle": "Proceedings of the 20th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1993",
@@ -11,11 +15,30 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "complex", "of", "approxim", "pspace", "complet", "problem", "for", "hierarch", "specif", "extend", "abstract"],
-	"tag": ["approximate", "complexity", "problem", "specification"],
-	"title": "The Complexity of Approximating PSPACE-Complete Problems for Hierarchical Specifications (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"the",
+		"complex",
+		"of",
+		"approxim",
+		"pspace",
+		"complet",
+		"problem",
+		"for",
+		"hierarch",
+		"specif",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"approximate",
+		"complexity",
+		"problem",
+		"specification"
+	],
+	"title": "The Complexity of Approximating PSPACE-Complete Problems for Hierarchical Specifications",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 700,
+	"volume": "700",
 	"year": 1993
 }

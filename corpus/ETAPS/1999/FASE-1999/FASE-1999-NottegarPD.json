@@ -1,5 +1,9 @@
 {
-	"author": ["Chiara Nottegar", "Corrado Priami", "Pierpaolo Degano"],
+	"author": [
+		"Chiara Nottegar",
+		"Corrado Priami",
+		"Pierpaolo Degano"
+	],
 	"booktitle": "Proceedings of the Second International Conference on Fundamental Approaches to Software Engineering",
 	"booktitleshort": "FASE",
 	"crossref": "conf/fase/1999",
@@ -11,11 +15,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["semant", "driven", "perform", "evalu", "extend", "abstract"],
-	"tag": ["evaluation", "performance", "semantics"],
-	"title": "Semantic-Driven Performance Evaluation (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"semant",
+		"driven",
+		"perform",
+		"evalu",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"evaluation",
+		"performance",
+		"semantics"
+	],
+	"title": "Semantic-Driven Performance Evaluation",
 	"type": "inproceedings",
 	"venue": "FASE",
-	"volume": 1577,
+	"volume": "1577",
 	"year": 1999
 }

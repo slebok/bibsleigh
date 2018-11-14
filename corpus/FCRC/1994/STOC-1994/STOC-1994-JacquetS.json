@@ -1,5 +1,8 @@
 {
-	"author": ["Philippe Jacquet", "Wojciech Szpankowski"],
+	"author": [
+		"Philippe Jacquet",
+		"Wojciech Szpankowski"
+	],
 	"booktitle": "Proceedings of the 26th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC26",
@@ -8,9 +11,28 @@
 	"ee": "http://doi.acm.org/10.1145/195058.195456",
 	"pages": "780-789",
 	"publisher": "ACM",
-	"stemmed": ["a", "function", "equat", "often", "aris", "in", "the", "analysi", "of", "algorithm", "extend", "abstract"],
-	"tag": ["algorithm", "analysis", "equation", "functional"],
-	"title": "A functional equation often arising in the analysis of algorithms (extended abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"a",
+		"function",
+		"equat",
+		"often",
+		"aris",
+		"in",
+		"the",
+		"analysi",
+		"of",
+		"algorithm",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"algorithm",
+		"analysis",
+		"equation",
+		"functional"
+	],
+	"title": "A functional equation often arising in the analysis of algorithms",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1994

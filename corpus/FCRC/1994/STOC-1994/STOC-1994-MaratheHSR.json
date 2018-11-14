@@ -1,5 +1,10 @@
 {
-	"author": ["Madhav V. Marathe", "Harry B. Hunt III", "Richard Edwin Stearns", "Venkatesh Radhakrishnan"],
+	"author": [
+		"Madhav V. Marathe",
+		"Harry B. Hunt III",
+		"Richard Edwin Stearns",
+		"Venkatesh Radhakrishnan"
+	],
 	"booktitle": "Proceedings of the 26th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC26",
@@ -8,9 +13,26 @@
 	"ee": "http://doi.acm.org/10.1145/195058.195233",
 	"pages": "468-477",
 	"publisher": "ACM",
-	"stemmed": ["approxim", "scheme", "for", "pspace", "complet", "problem", "for", "succinct", "specif", "preliminari", "version"],
-	"tag": ["approximate", "problem", "specification"],
-	"title": "Approximation schemes for PSPACE-complete problems for succinct specifications (preliminary version)",
+	"status": "work in progress",
+	"stemmed": [
+		"approxim",
+		"scheme",
+		"for",
+		"pspace",
+		"complet",
+		"problem",
+		"for",
+		"succinct",
+		"specif",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"approximate",
+		"problem",
+		"specification"
+	],
+	"title": "Approximation schemes for PSPACE-complete problems for succinct specifications",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1994

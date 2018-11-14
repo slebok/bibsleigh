@@ -1,5 +1,8 @@
 {
-	"author": ["Yael Krevner", "Amiram Yehudai"],
+	"author": [
+		"Yael Krevner",
+		"Amiram Yehudai"
+	],
 	"booktitle": "Proceedings of the Ninth Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1982",
@@ -11,11 +14,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "iter", "theorem", "for", "simpl", "preced", "languag", "extend", "abstract"],
-	"tag": ["precedence", "theorem"],
-	"title": "An Iteration Theorem for Simple Precedence Languages (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"an",
+		"iter",
+		"theorem",
+		"for",
+		"simpl",
+		"preced",
+		"languag",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"precedence",
+		"theorem"
+	],
+	"title": "An Iteration Theorem for Simple Precedence Languages",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 140,
+	"volume": "140",
 	"year": 1982
 }

@@ -1,5 +1,11 @@
 {
-	"author": ["Aina Niemetz", "Mathias Preiner", "Florian Lonsing", "Martina Seidl", "Armin Biere"],
+	"author": [
+		"Aina Niemetz",
+		"Mathias Preiner",
+		"Florian Lonsing",
+		"Martina Seidl",
+		"Armin Biere"
+	],
 	"booktitle": "Proceedings of the 15th International Conference on Theory and Applications of Satisfiability Testing",
 	"booktitleshort": "SAT",
 	"crossref": "conf/sat/2012",
@@ -11,10 +17,20 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["resolut", "base", "certif", "extract", "for", "qbf", "tool", "present"],
-	"title": "Resolution-Based Certificate Extraction for QBF — (Tool Presentation)",
+	"status": "tool",
+	"stemmed": [
+		"resolut",
+		"base",
+		"certif",
+		"extract",
+		"for",
+		"qbf",
+		"tool",
+		"present"
+	],
+	"title": "Resolution-Based Certificate Extraction for QBF —",
 	"type": "inproceedings",
 	"venue": "ICST",
-	"volume": 7317,
+	"volume": "7317",
 	"year": 2012
 }

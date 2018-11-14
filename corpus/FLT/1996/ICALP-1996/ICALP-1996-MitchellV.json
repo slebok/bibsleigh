@@ -1,5 +1,8 @@
 {
-	"author": ["John C. Mitchell", "Ramesh Viswanathan"],
+	"author": [
+		"John C. Mitchell",
+		"Ramesh Viswanathan"
+	],
 	"booktitle": "Proceedings of the 23rd International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1996",
@@ -11,11 +14,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["effect", "model", "of", "polymorph", "subtyp", "and", "recurs", "extend", "abstract"],
-	"tag": ["effectiveness", "modelling", "morphism", "polymorphism", "recursion", "type system"],
-	"title": "Effective Models of Polymorphism, Subtyping and Recursion (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"effect",
+		"model",
+		"of",
+		"polymorph",
+		"subtyp",
+		"and",
+		"recurs",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"effectiveness",
+		"modelling",
+		"morphism",
+		"polymorphism",
+		"recursion",
+		"type system"
+	],
+	"title": "Effective Models of Polymorphism, Subtyping and Recursion",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 1099,
+	"volume": "1099",
 	"year": 1996
 }

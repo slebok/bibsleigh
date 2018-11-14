@@ -1,5 +1,9 @@
 {
-	"author": ["David W. Juedes", "James I. Lathrop", "Jack H. Lutz"],
+	"author": [
+		"David W. Juedes",
+		"James I. Lathrop",
+		"Jack H. Lutz"
+	],
 	"booktitle": "Proceedings of the 20th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1993",
@@ -11,10 +15,18 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["comput", "depth", "and", "reduc", "extend", "abstract"],
-	"title": "Computational Depth and Reducibility (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"comput",
+		"depth",
+		"and",
+		"reduc",
+		"extend",
+		"abstract"
+	],
+	"title": "Computational Depth and Reducibility",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 700,
+	"volume": "700",
 	"year": 1993
 }

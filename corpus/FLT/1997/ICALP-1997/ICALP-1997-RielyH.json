@@ -1,5 +1,8 @@
 {
-	"author": ["James Riely", "Matthew Hennessy"],
+	"author": [
+		"James Riely",
+		"Matthew Hennessy"
+	],
 	"booktitle": "Proceedings of the 24th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1997",
@@ -11,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["distribut", "process", "and", "locat", "failur", "extend", "abstract"],
-	"tag": ["distributed", "process"],
-	"title": "Distributed Processes and Location Failures (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"distribut",
+		"process",
+		"and",
+		"locat",
+		"failur",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"distributed",
+		"process"
+	],
+	"title": "Distributed Processes and Location Failures",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 1256,
+	"volume": "1256",
 	"year": 1997
 }

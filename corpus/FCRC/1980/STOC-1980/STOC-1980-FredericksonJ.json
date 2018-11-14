@@ -1,5 +1,8 @@
 {
-	"author": ["Greg N. Frederickson", "Donald B. Johnson"],
+	"author": [
+		"Greg N. Frederickson",
+		"Donald B. Johnson"
+	],
 	"booktitle": "Proceedings of the 12th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC12",
@@ -8,9 +11,19 @@
 	"ee": "http://doi.acm.org/10.1145/800141.804690",
 	"pages": "420-428",
 	"publisher": "ACM",
-	"stemmed": ["general", "select", "and", "rank", "preliminari", "version"],
-	"tag": ["ranking"],
-	"title": "Generalized Selection and Ranking (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"general",
+		"select",
+		"and",
+		"rank",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"ranking"
+	],
+	"title": "Generalized Selection and Ranking",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1980

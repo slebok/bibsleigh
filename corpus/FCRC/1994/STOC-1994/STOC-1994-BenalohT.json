@@ -1,5 +1,8 @@
 {
-	"author": ["Josh Cohen Benaloh", "Dwight Tuinstra"],
+	"author": [
+		"Josh Cohen Benaloh",
+		"Dwight Tuinstra"
+	],
 	"booktitle": "Proceedings of the 26th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC26",
@@ -8,8 +11,17 @@
 	"ee": "http://doi.acm.org/10.1145/195058.195407",
 	"pages": "544-553",
 	"publisher": "ACM",
-	"stemmed": ["receipt", "free", "secret", "ballot", "elect", "extend", "abstract"],
-	"title": "Receipt-free secret-ballot elections (extended abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"receipt",
+		"free",
+		"secret",
+		"ballot",
+		"elect",
+		"extend",
+		"abstract"
+	],
+	"title": "Receipt-free secret-ballot elections",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1994

@@ -1,5 +1,9 @@
 {
-	"author": ["David B. Shmoys", "Éva Tardos", "Karen Aardal"],
+	"author": [
+		"David B. Shmoys",
+		"Éva Tardos",
+		"Karen Aardal"
+	],
 	"booktitle": "Proceedings of the 29th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1997",
@@ -8,9 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/258533.258600",
 	"pages": "265-274",
 	"publisher": "ACM",
-	"stemmed": ["approxim", "algorithm", "for", "facil", "locat", "problem", "extend", "abstract"],
-	"tag": ["algorithm", "approximate", "problem"],
-	"title": "Approximation Algorithms for Facility Location Problems (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"approxim",
+		"algorithm",
+		"for",
+		"facil",
+		"locat",
+		"problem",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"algorithm",
+		"approximate",
+		"problem"
+	],
+	"title": "Approximation Algorithms for Facility Location Problems",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1997

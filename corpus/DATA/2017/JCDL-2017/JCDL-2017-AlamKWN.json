@@ -1,11 +1,6 @@
 {
 	"acmid": "3200361",
-	"author": [
-		"Sawood Alam",
-		"Mat Kelly",
-		"Michele C. Weigle",
-		"Michael L. Nelson"
-	],
+	"author": ["Sawood Alam", "Mat Kelly", "Michele C. Weigle", "Michael L. Nelson"],
 	"booktitle": "Proceedings of the 2017 ACM/IEEE Joint Conference on Digital Libraries",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2017",
@@ -14,10 +9,8 @@
 	"ee": "https://doi.org/10.1109/JCDL.2017.7991579",
 	"pages": "237-240",
 	"publisher": "IEEE Computer Society",
-	"tag": [
-		"re-engineering",
-		"using"
-	],
+	"stemmed": ["client", "side", "reconstruct", "of", "composit", "memento", "use", "servic", "worker"],
+	"tag": ["re-engineering", "using"],
 	"title": "Client-Side Reconstruction of Composite Mementos Using ServiceWorker",
 	"type": "inproceedings",
 	"venue": "JCDL",

@@ -1,5 +1,8 @@
 {
-	"author": ["Martin Dietzfelbinger", "Rasmus Pagh"],
+	"author": [
+		"Martin Dietzfelbinger",
+		"Rasmus Pagh"
+	],
 	"booktitle": "Proceedings of the 35th International Colloquium on Automata, Languages and Programming, Track A: Algorithms, Automata, Complexity, and Games",
 	"booktitleshort": "ICALP (1)",
 	"crossref": "conf/icalp/2008-1",
@@ -11,11 +14,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["succinct", "data", "structur", "for", "retriev", "and", "approxim", "membership", "extend", "abstract"],
-	"tag": ["approximate", "data type", "retrieval"],
-	"title": "Succinct Data Structures for Retrieval and Approximate Membership (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"succinct",
+		"data",
+		"structur",
+		"for",
+		"retriev",
+		"and",
+		"approxim",
+		"membership",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"approximate",
+		"data type",
+		"retrieval"
+	],
+	"title": "Succinct Data Structures for Retrieval and Approximate Membership",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 5125,
+	"volume": "5125",
 	"year": 2008
 }

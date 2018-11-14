@@ -1,5 +1,8 @@
 {
-	"author": ["Ewen Denney", "Bernd Fischer"],
+	"author": [
+		"Ewen Denney",
+		"Bernd Fischer"
+	],
 	"booktitle": "Proceedings of the 21st IEEE/ACM International Conference on Automated Software Engineering",
 	"booktitleshort": "ASE",
 	"crossref": "conf/kbse/2006",
@@ -9,9 +12,26 @@
 	"pages": "265-268",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["annot", "infer", "for", "safeti", "certif", "of", "automat", "generat", "code", "extend", "abstract"],
-	"tag": ["automation", "certification", "safety"],
-	"title": "Annotation Inference for Safety Certification of Automatically Generated Code (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"annot",
+		"infer",
+		"for",
+		"safeti",
+		"certif",
+		"of",
+		"automat",
+		"generat",
+		"code",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"automation",
+		"certification",
+		"safety"
+	],
+	"title": "Annotation Inference for Safety Certification of Automatically Generated Code",
 	"type": "inproceedings",
 	"venue": "ASE",
 	"year": 2006

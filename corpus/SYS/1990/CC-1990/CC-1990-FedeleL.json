@@ -1,5 +1,8 @@
 {
-	"author": ["Carine Fédèle", "Olivier Lecarme"],
+	"author": [
+		"Carine Fédèle",
+		"Olivier Lecarme"
+	],
 	"booktitle": "Proceedings of the Third International Workshop on Compiler Compilers",
 	"booktitleshort": "CC",
 	"crossref": "conf/cc/1990",
@@ -11,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["comput", "aid", "build", "of", "a", "compil", "an", "exampl", "abstract"],
-	"tag": ["compilation"],
-	"title": "Computer-Aided Building of a Compiler: An Example (Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"comput",
+		"aid",
+		"build",
+		"of",
+		"a",
+		"compil",
+		"an",
+		"exampl",
+		"abstract"
+	],
+	"tag": [
+		"compilation"
+	],
+	"title": "Computer-Aided Building of a Compiler: An Example",
 	"type": "inproceedings",
 	"venue": "CC",
-	"volume": 477,
+	"volume": "477",
 	"year": 1990
 }

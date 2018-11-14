@@ -1,5 +1,10 @@
 {
-	"author": ["Cynthia A. Phillips", "Clifford Stein", "Eric Torng", "Joel Wein"],
+	"author": [
+		"Cynthia A. Phillips",
+		"Clifford Stein",
+		"Eric Torng",
+		"Joel Wein"
+	],
 	"booktitle": "Proceedings of the 29th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1997",
@@ -8,9 +13,22 @@
 	"ee": "http://doi.acm.org/10.1145/258533.258570",
 	"pages": "140-149",
 	"publisher": "ACM",
-	"stemmed": ["optim", "time", "critic", "schedul", "via", "resourc", "augment", "extend", "abstract"],
-	"tag": ["scheduling"],
-	"title": "Optimal Time-Critical Scheduling via Resource Augmentation (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"optim",
+		"time",
+		"critic",
+		"schedul",
+		"via",
+		"resourc",
+		"augment",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"scheduling"
+	],
+	"title": "Optimal Time-Critical Scheduling via Resource Augmentation",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1997

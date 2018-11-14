@@ -1,5 +1,10 @@
 {
-	"author": ["Yossi Azar", "Andrei Z. Broder", "Anna R. Karlin", "Eli Upfal"],
+	"author": [
+		"Yossi Azar",
+		"Andrei Z. Broder",
+		"Anna R. Karlin",
+		"Eli Upfal"
+	],
 	"booktitle": "Proceedings of the 26th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC26",
@@ -8,8 +13,14 @@
 	"ee": "http://doi.acm.org/10.1145/195058.195412",
 	"pages": "593-602",
 	"publisher": "ACM",
-	"stemmed": ["balanc", "alloc", "extend", "abstract"],
-	"title": "Balanced allocations (extended abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"balanc",
+		"alloc",
+		"extend",
+		"abstract"
+	],
+	"title": "Balanced allocations",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1994

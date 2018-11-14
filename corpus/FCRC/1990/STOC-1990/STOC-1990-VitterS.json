@@ -1,5 +1,8 @@
 {
-	"author": ["Jeffrey Scott Vitter", "Elizabeth A. M. Shriver"],
+	"author": [
+		"Jeffrey Scott Vitter",
+		"Elizabeth A. M. Shriver"
+	],
 	"booktitle": "Proceedings of the 22nd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC22",
@@ -8,9 +11,23 @@
 	"ee": "http://doi.acm.org/10.1145/100216.100234",
 	"pages": "159-169",
 	"publisher": "ACM",
-	"stemmed": ["optim", "disk", "i", "o", "with", "parallel", "block", "transfer", "extend", "abstract"],
-	"tag": ["parallel"],
-	"title": "Optimal Disk I/O with Parallel Block Transfer (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"optim",
+		"disk",
+		"i",
+		"o",
+		"with",
+		"parallel",
+		"block",
+		"transfer",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"parallel"
+	],
+	"title": "Optimal Disk I/O with Parallel Block Transfer",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1990

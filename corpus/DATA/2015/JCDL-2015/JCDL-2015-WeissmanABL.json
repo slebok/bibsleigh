@@ -1,10 +1,5 @@
 {
-	"author": [
-		"Sarah Weissman",
-		"Samet Ayhan",
-		"Joshua Bradley",
-		"Jimmy J. Lin"
-	],
+	"author": ["Sarah Weissman", "Samet Ayhan", "Joshua Bradley", "Jimmy J. Lin"],
 	"booktitle": "Proceedings of the 15th Joint Conference on Digital Libraries",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2015",
@@ -12,10 +7,8 @@
 	"doi": "10.1145/2756406.2756947",
 	"pages": "57-60",
 	"publisher": "ACM",
-	"tag": [
-		"identification",
-		"wiki"
-	],
+	"stemmed": ["identifi", "duplic", "and", "contradictori", "inform", "in", "wikipedia"],
+	"tag": ["identification", "wiki"],
 	"title": "Identifying Duplicate and Contradictory Information in Wikipedia",
 	"type": "inproceedings",
 	"venue": "JCDL",

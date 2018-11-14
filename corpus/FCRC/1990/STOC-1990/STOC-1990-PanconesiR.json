@@ -1,5 +1,8 @@
 {
-	"author": ["Alessandro Panconesi", "Desh Ranjan"],
+	"author": [
+		"Alessandro Panconesi",
+		"Desh Ranjan"
+	],
 	"booktitle": "Proceedings of the 22nd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC22",
@@ -8,9 +11,19 @@
 	"ee": "http://doi.acm.org/10.1145/100216.100275",
 	"pages": "446-456",
 	"publisher": "ACM",
-	"stemmed": ["quantifi", "and", "approxim", "extend", "abstract"],
-	"tag": ["approximate", "quantifier"],
-	"title": "Quantifiers and Approximation (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"quantifi",
+		"and",
+		"approxim",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"approximate",
+		"quantifier"
+	],
+	"title": "Quantifiers and Approximation",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1990

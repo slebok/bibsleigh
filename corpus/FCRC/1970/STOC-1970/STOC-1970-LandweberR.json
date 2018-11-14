@@ -1,5 +1,8 @@
 {
-	"author": ["Lawrence H. Landweber", "Edward L. Robertson"],
+	"author": [
+		"Lawrence H. Landweber",
+		"Edward L. Robertson"
+	],
 	"booktitle": "Proceedings of the Second Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC2",
@@ -8,9 +11,22 @@
 	"ee": "http://doi.acm.org/10.1145/800161.805146",
 	"pages": "31-36",
 	"publisher": "ACM",
-	"stemmed": ["recurs", "properti", "of", "abstract", "complex", "class", "preliminari", "version"],
-	"tag": ["complexity", "recursion"],
-	"title": "Recursive Properties of Abstract Complexity Classes (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"recurs",
+		"properti",
+		"of",
+		"abstract",
+		"complex",
+		"class",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"complexity",
+		"recursion"
+	],
+	"title": "Recursive Properties of Abstract Complexity Classes",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1970

@@ -1,5 +1,10 @@
 {
-	"author": ["Alain J. Mayer", "Yoram Ofek", "Rafail Ostrovsky", "Moti Yung"],
+	"author": [
+		"Alain J. Mayer",
+		"Yoram Ofek",
+		"Rafail Ostrovsky",
+		"Moti Yung"
+	],
 	"booktitle": "Proceedings of the 24th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC24",
@@ -8,9 +13,23 @@
 	"ee": "http://doi.acm.org/10.1145/129712.129777",
 	"pages": "667-678",
 	"publisher": "ACM",
-	"stemmed": ["self", "stabil", "symmetri", "break", "in", "constant", "space", "extend", "abstract"],
-	"tag": ["self", "symmetry"],
-	"title": "Self-Stabilizing Symmetry Breaking in Constant-Space (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"self",
+		"stabil",
+		"symmetri",
+		"break",
+		"in",
+		"constant",
+		"space",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"self",
+		"symmetry"
+	],
+	"title": "Self-Stabilizing Symmetry Breaking in Constant-Space",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1992

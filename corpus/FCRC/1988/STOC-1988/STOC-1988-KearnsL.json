@@ -1,5 +1,8 @@
 {
-	"author": ["Michael J. Kearns", "Ming Li"],
+	"author": [
+		"Michael J. Kearns",
+		"Ming Li"
+	],
 	"booktitle": "Proceedings of the 20th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC20",
@@ -8,9 +11,23 @@
 	"ee": "http://doi.acm.org/10.1145/62212.62238",
 	"pages": "267-280",
 	"publisher": "ACM",
-	"stemmed": ["learn", "in", "the", "presenc", "of", "malici", "error", "extend", "abstract"],
-	"tag": ["fault", "learning"],
-	"title": "Learning in the Presence of Malicious Errors (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"learn",
+		"in",
+		"the",
+		"presenc",
+		"of",
+		"malici",
+		"error",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"fault",
+		"learning"
+	],
+	"title": "Learning in the Presence of Malicious Errors",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1988

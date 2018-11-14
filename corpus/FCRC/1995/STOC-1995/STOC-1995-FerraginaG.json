@@ -1,5 +1,8 @@
 {
-	"author": ["Paolo Ferragina", "Roberto Grossi"],
+	"author": [
+		"Paolo Ferragina",
+		"Roberto Grossi"
+	],
 	"booktitle": "Proceedings of the 27th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC27",
@@ -8,9 +11,25 @@
 	"ee": "http://doi.acm.org/10.1145/225058.225287",
 	"pages": "693-702",
 	"publisher": "ACM",
-	"stemmed": ["a", "fulli", "dynam", "data", "structur", "for", "extern", "substr", "search", "extend", "abstract"],
-	"tag": ["data type", "string"],
-	"title": "A fully-dynamic data structure for external substring search (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"a",
+		"fulli",
+		"dynam",
+		"data",
+		"structur",
+		"for",
+		"extern",
+		"substr",
+		"search",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"data type",
+		"string"
+	],
+	"title": "A fully-dynamic data structure for external substring search",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1995

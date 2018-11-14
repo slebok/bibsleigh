@@ -1,5 +1,8 @@
 {
-	"author": ["Karel Culik II", "Simant Dube"],
+	"author": [
+		"Karel Culik II",
+		"Simant Dube"
+	],
 	"booktitle": "Proceedings of the 18th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1991",
@@ -11,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["balanc", "order", "and", "chao", "in", "imag", "generat", "extend", "abstract"],
-	"tag": ["generative", "image", "order"],
-	"title": "Balancing Order and Chaos in Image Generation (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"balanc",
+		"order",
+		"and",
+		"chao",
+		"in",
+		"imag",
+		"generat",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"generative",
+		"image",
+		"order"
+	],
+	"title": "Balancing Order and Chaos in Image Generation",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 510,
+	"volume": "510",
 	"year": 1991
 }

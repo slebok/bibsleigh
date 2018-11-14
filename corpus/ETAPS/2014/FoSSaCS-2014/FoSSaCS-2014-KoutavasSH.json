@@ -1,5 +1,9 @@
 {
-	"author": ["Vasileios Koutavas", "Carlo Spaccasassi", "Matthew Hennessy"],
+	"author": [
+		"Vasileios Koutavas",
+		"Carlo Spaccasassi",
+		"Matthew Hennessy"
+	],
 	"booktitle": "Proceedings of the 17th International Conference on Foundations of Software Science and Computation Structures",
 	"booktitleshort": "FoSSaCS",
 	"crossref": "conf/fossacs/2014",
@@ -11,11 +15,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["bisimul", "for", "communic", "transact", "extend", "abstract"],
-	"tag": ["bisimulation", "communication", "transaction"],
-	"title": "Bisimulations for Communicating Transactions — (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"bisimul",
+		"for",
+		"communic",
+		"transact",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"bisimulation",
+		"communication",
+		"transaction"
+	],
+	"title": "Bisimulations for Communicating Transactions —",
 	"type": "inproceedings",
 	"venue": "FoSSaCS",
-	"volume": 8412,
+	"volume": "8412",
 	"year": 2014
 }

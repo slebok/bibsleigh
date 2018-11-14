@@ -1,5 +1,9 @@
 {
-	"author": ["Hubert Comon", "Marianne Haberstrau", "Jean-Pierre Jouannaud"],
+	"author": [
+		"Hubert Comon",
+		"Marianne Haberstrau",
+		"Jean-Pierre Jouannaud"
+	],
 	"booktitle": "Proceedings of the Seventh Annual Symposium on Logic in Computer Science",
 	"booktitleshort": "LICS",
 	"crossref": "conf/lics/1992",
@@ -9,9 +13,23 @@
 	"pages": "255-265",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["decid", "problem", "in", "shallow", "equat", "theori", "extend", "abstract"],
-	"tag": ["decidability", "equation", "problem"],
-	"title": "Decidable Problems in Shallow Equational Theories (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"decid",
+		"problem",
+		"in",
+		"shallow",
+		"equat",
+		"theori",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"decidability",
+		"equation",
+		"problem"
+	],
+	"title": "Decidable Problems in Shallow Equational Theories",
 	"type": "inproceedings",
 	"venue": "LICS",
 	"year": 1992

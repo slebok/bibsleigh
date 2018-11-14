@@ -1,5 +1,9 @@
 {
-	"author": ["Yair Bartal", "Amos Fiat", "Yuval Rabani"],
+	"author": [
+		"Yair Bartal",
+		"Amos Fiat",
+		"Yuval Rabani"
+	],
 	"booktitle": "Proceedings of the 24th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC24",
@@ -8,9 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/129712.129717",
 	"pages": "39-50",
 	"publisher": "ACM",
-	"stemmed": ["competit", "algorithm", "for", "distribut", "data", "manag", "extend", "abstract"],
-	"tag": ["algorithm", "data transformation", "distributed"],
-	"title": "Competitive Algorithms for Distributed Data Management (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"competit",
+		"algorithm",
+		"for",
+		"distribut",
+		"data",
+		"manag",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"algorithm",
+		"data transformation",
+		"distributed"
+	],
+	"title": "Competitive Algorithms for Distributed Data Management",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1992

@@ -1,5 +1,8 @@
 {
-	"author": ["William M. Farmer", "Ronald J. Watro"],
+	"author": [
+		"William M. Farmer",
+		"Ronald J. Watro"
+	],
 	"booktitle": "Proceedings of the Fourth International Conference on Rewriting Techniques and Applications",
 	"booktitleshort": "RTA",
 	"crossref": "conf/rta/1991",
@@ -13,11 +16,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["redex", "captur", "in", "term", "graph", "rewrit", "concis", "version"],
-	"tag": ["graph grammar"],
-	"title": "Redex Capturing in Term Graph Rewriting (Concise Version)",
+	"status": "abstract",
+	"stemmed": [
+		"redex",
+		"captur",
+		"in",
+		"term",
+		"graph",
+		"rewrit",
+		"concis",
+		"version"
+	],
+	"tag": [
+		"graph grammar"
+	],
+	"title": "Redex Capturing in Term Graph Rewriting",
 	"type": "inproceedings",
 	"venue": "RTA",
-	"volume": 488,
+	"volume": "488",
 	"year": 1991
 }

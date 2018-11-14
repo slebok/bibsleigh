@@ -1,5 +1,8 @@
 {
-	"author": ["Tal Rabin", "Michael Ben-Or"],
+	"author": [
+		"Tal Rabin",
+		"Michael Ben-Or"
+	],
 	"booktitle": "Proceedings of the 21st Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC21",
@@ -8,9 +11,25 @@
 	"ee": "http://doi.acm.org/10.1145/73007.73014",
 	"pages": "73-85",
 	"publisher": "ACM",
-	"stemmed": ["verifi", "secret", "share", "and", "multiparti", "protocol", "with", "honest", "major", "extend", "abstract"],
-	"tag": ["multi", "protocol"],
-	"title": "Verifiable Secret Sharing and Multiparty Protocols with Honest Majority (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"verifi",
+		"secret",
+		"share",
+		"and",
+		"multiparti",
+		"protocol",
+		"with",
+		"honest",
+		"major",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"multi",
+		"protocol"
+	],
+	"title": "Verifiable Secret Sharing and Multiparty Protocols with Honest Majority",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1989

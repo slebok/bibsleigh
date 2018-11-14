@@ -1,5 +1,8 @@
 {
-	"author": ["Michael Luby", "Prabhakar Ragde"],
+	"author": [
+		"Michael Luby",
+		"Prabhakar Ragde"
+	],
 	"booktitle": "Proceedings of the 12th Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1985",
@@ -11,11 +14,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "bidirect", "shortest", "path", "algorithm", "with", "good", "averag", "case", "behavior", "preliminari", "version"],
-	"tag": ["algorithm", "behaviour", "bidirectional"],
-	"title": "A Bidirectional Shortest-Path Algorithm With Good Average-Case Behavior (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"a",
+		"bidirect",
+		"shortest",
+		"path",
+		"algorithm",
+		"with",
+		"good",
+		"averag",
+		"case",
+		"behavior",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"algorithm",
+		"behaviour",
+		"bidirectional"
+	],
+	"title": "A Bidirectional Shortest-Path Algorithm With Good Average-Case Behavior",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 194,
+	"volume": "194",
 	"year": 1985
 }

@@ -1,5 +1,10 @@
 {
-	"author": ["Shlomi Dolev", "Evangelos Kranakis", "Danny Krizanc", "David Peleg"],
+	"author": [
+		"Shlomi Dolev",
+		"Evangelos Kranakis",
+		"Danny Krizanc",
+		"David Peleg"
+	],
 	"booktitle": "Proceedings of the 27th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC27",
@@ -8,9 +13,27 @@
 	"ee": "http://doi.acm.org/10.1145/225058.225270",
 	"pages": "528-537",
 	"publisher": "ACM",
-	"stemmed": ["bubbl", "adapt", "rout", "scheme", "for", "high", "speed", "dynam", "network", "extend", "abstract"],
-	"tag": ["adaptation", "named", "network", "performance"],
-	"title": "Bubbles: adaptive routing scheme for high-speed dynamic networks (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"bubbl",
+		"adapt",
+		"rout",
+		"scheme",
+		"for",
+		"high",
+		"speed",
+		"dynam",
+		"network",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"adaptation",
+		"named",
+		"network",
+		"performance"
+	],
+	"title": "Bubbles: adaptive routing scheme for high-speed dynamic networks",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1995

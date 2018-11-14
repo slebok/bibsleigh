@@ -1,5 +1,8 @@
 {
-	"author": ["Leonard M. Adleman", "Kenneth L. Manders"],
+	"author": [
+		"Leonard M. Adleman",
+		"Kenneth L. Manders"
+	],
 	"booktitle": "Proceedings of the Ninth Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC9",
@@ -8,8 +11,15 @@
 	"ee": "http://doi.acm.org/10.1145/800105.803405",
 	"pages": "151-163",
 	"publisher": "ACM",
-	"stemmed": ["reduc", "random", "and", "intract", "abstract"],
-	"title": "Reducibility, Randomness, and Intractability (Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"reduc",
+		"random",
+		"and",
+		"intract",
+		"abstract"
+	],
+	"title": "Reducibility, Randomness, and Intractability",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1977

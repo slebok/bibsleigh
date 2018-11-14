@@ -1,5 +1,10 @@
 {
-	"author": ["Don Coppersmith", "Peter Doyle", "Prabhakar Raghavan", "Marc Snir"],
+	"author": [
+		"Don Coppersmith",
+		"Peter Doyle",
+		"Prabhakar Raghavan",
+		"Marc Snir"
+	],
 	"booktitle": "Proceedings of the 22nd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC22",
@@ -8,9 +13,29 @@
 	"ee": "http://doi.acm.org/10.1145/100216.100266",
 	"pages": "369-378",
 	"publisher": "ACM",
-	"stemmed": ["random", "walk", "on", "weight", "graph", "and", "applic", "to", "on", "line", "algorithm", "preliminari", "version"],
-	"tag": ["algorithm", "graph", "online", "random"],
-	"title": "Random Walks on Weighted Graphs, and Applications to On-line Algorithms (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"random",
+		"walk",
+		"on",
+		"weight",
+		"graph",
+		"and",
+		"applic",
+		"to",
+		"on",
+		"line",
+		"algorithm",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"algorithm",
+		"graph",
+		"online",
+		"random"
+	],
+	"title": "Random Walks on Weighted Graphs, and Applications to On-line Algorithms",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1990

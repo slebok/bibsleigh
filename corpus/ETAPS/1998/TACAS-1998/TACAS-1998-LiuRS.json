@@ -1,5 +1,9 @@
 {
-	"author": ["Xinxin Liu", "C. R. Ramakrishnan", "Scott A. Smolka"],
+	"author": [
+		"Xinxin Liu",
+		"C. R. Ramakrishnan",
+		"Scott A. Smolka"
+	],
 	"booktitle": "Proceedings of the Fourth International Conference on Tools and Algorithms for the Construction and Analysis of Systems",
 	"booktitleshort": "TACAS",
 	"crossref": "conf/tacas/1998",
@@ -11,11 +15,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["fulli", "local", "and", "effici", "evalu", "of", "altern", "fix", "point", "extend", "abstract"],
-	"tag": ["evaluation", "fixpoint", "performance"],
-	"title": "Fully Local and Efficient Evaluation of Alternating Fixed Points (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"fulli",
+		"local",
+		"and",
+		"effici",
+		"evalu",
+		"of",
+		"altern",
+		"fix",
+		"point",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"evaluation",
+		"fixpoint",
+		"performance"
+	],
+	"title": "Fully Local and Efficient Evaluation of Alternating Fixed Points",
 	"type": "inproceedings",
 	"venue": "TACAS",
-	"volume": 1384,
+	"volume": "1384",
 	"year": 1998
 }

@@ -1,5 +1,8 @@
 {
-	"author": ["Xinxin Liu", "Scott A. Smolka"],
+	"author": [
+		"Xinxin Liu",
+		"Scott A. Smolka"
+	],
 	"booktitle": "Proceedings of the 25th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1998",
@@ -11,11 +14,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["simpl", "linear", "time", "algorithm", "for", "minim", "fix", "point", "extend", "abstract"],
-	"tag": ["algorithm", "fixpoint", "linear"],
-	"title": "Simple Linear-Time Algorithms for Minimal Fixed Points (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"simpl",
+		"linear",
+		"time",
+		"algorithm",
+		"for",
+		"minim",
+		"fix",
+		"point",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"algorithm",
+		"fixpoint",
+		"linear"
+	],
+	"title": "Simple Linear-Time Algorithms for Minimal Fixed Points",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 1443,
+	"volume": "1443",
 	"year": 1998
 }

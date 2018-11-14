@@ -1,5 +1,10 @@
 {
-	"author": ["Matthew Andrews", "Frank Thomson Leighton", "Panagiotis Takis Metaxas", "Lisa Zhang"],
+	"author": [
+		"Matthew Andrews",
+		"Frank Thomson Leighton",
+		"Panagiotis Takis Metaxas",
+		"Lisa Zhang"
+	],
 	"booktitle": "Proceedings of the 28th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1996",
@@ -8,9 +13,26 @@
 	"ee": "http://doi.acm.org/10.1145/237814.237871",
 	"pages": "257-265",
 	"publisher": "ACM",
-	"stemmed": ["automat", "method", "for", "hide", "latenc", "in", "high", "bandwidth", "network", "extend", "abstract"],
-	"tag": ["automation", "latency", "network"],
-	"title": "Automatic Methods for Hiding Latency in High Bandwidth Networks (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"automat",
+		"method",
+		"for",
+		"hide",
+		"latenc",
+		"in",
+		"high",
+		"bandwidth",
+		"network",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"automation",
+		"latency",
+		"network"
+	],
+	"title": "Automatic Methods for Hiding Latency in High Bandwidth Networks",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1996

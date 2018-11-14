@@ -1,5 +1,8 @@
 {
-	"author": ["Michael J. Fischer", "Richard E. Ladner"],
+	"author": [
+		"Michael J. Fischer",
+		"Richard E. Ladner"
+	],
 	"booktitle": "Proceedings of the Ninth Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC9",
@@ -8,9 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/800105.803418",
 	"pages": "286-294",
 	"publisher": "ACM",
-	"stemmed": ["proposit", "modal", "logic", "of", "program", "extend", "abstract"],
-	"tag": ["logic", "source code"],
-	"title": "Propositional Modal Logic of Programs (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"proposit",
+		"modal",
+		"logic",
+		"of",
+		"program",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"logic",
+		"source code"
+	],
+	"title": "Propositional Modal Logic of Programs",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1977

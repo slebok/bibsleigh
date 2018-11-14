@@ -3,13 +3,26 @@
 	"dblpkey": "journals/pvldb/Dogac12",
 	"ee": "http://vldb.org/pvldb/vol5/p2026_asumandogac_vldb2012.pdf",
 	"journal": "PVLDB",
-	"number": 12,
+	"number": "12",
 	"pages": "2026-2027",
-	"stemmed": ["interoper", "in", "ehealth", "system", "invit", "tutori"],
-	"tag": ["tutorial"],
-	"title": "Interoperability in eHealth Systems (Invited Tutorial)",
+	"status": [
+		"invited",
+		"tutorial"
+	],
+	"stemmed": [
+		"interoper",
+		"in",
+		"ehealth",
+		"system",
+		"invit",
+		"tutori"
+	],
+	"tag": [
+		"tutorial"
+	],
+	"title": "Interoperability in eHealth Systems",
 	"type": "article",
 	"venue": "VLDB",
-	"volume": 5,
+	"volume": "5",
 	"year": 2012
 }

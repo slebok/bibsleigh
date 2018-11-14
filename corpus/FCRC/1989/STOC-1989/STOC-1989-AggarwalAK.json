@@ -1,5 +1,9 @@
 {
-	"author": ["Alok Aggarwal", "Richard J. Anderson", "Ming-Yang Kao"],
+	"author": [
+		"Alok Aggarwal",
+		"Richard J. Anderson",
+		"Ming-Yang Kao"
+	],
 	"booktitle": "Proceedings of the 21st Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC21",
@@ -8,9 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/73007.73035",
 	"pages": "297-308",
 	"publisher": "ACM",
-	"stemmed": ["parallel", "depth", "first", "search", "in", "general", "direct", "graph", "preliminari", "version"],
-	"tag": ["graph", "parallel"],
-	"title": "Parallel Depth-First Search in General Directed Graphs (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"parallel",
+		"depth",
+		"first",
+		"search",
+		"in",
+		"general",
+		"direct",
+		"graph",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"graph",
+		"parallel"
+	],
+	"title": "Parallel Depth-First Search in General Directed Graphs",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1989

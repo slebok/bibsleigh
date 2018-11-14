@@ -1,5 +1,11 @@
 {
-	"author": ["Bruce G. Lindsay", "Laura M. Haas", "C. Mohan", "Paul F. Wilms", "Robert A. Yost"],
+	"author": [
+		"Bruce G. Lindsay",
+		"Laura M. Haas",
+		"C. Mohan",
+		"Paul F. Wilms",
+		"Robert A. Yost"
+	],
 	"booktitle": "Proceedings of the Ninth ACM Symposium on Operating System Principles",
 	"booktitleshort": "SOSP",
 	"crossref": "conf/sosp/1983",
@@ -9,9 +15,25 @@
 	"note": "long version: ACM Trans. Comput. Syst. 2(1): 24-38(1984)",
 	"pages": "1-2",
 	"publisher": "ACM",
-	"stemmed": ["comput", "communic", "in", "r", "a", "distribut", "databas", "manag", "extend", "abstract"],
-	"tag": ["communication", "database", "distributed"],
-	"title": "Computation & Communication in R*: A Distributed Database Manager (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"comput",
+		"communic",
+		"in",
+		"r",
+		"a",
+		"distribut",
+		"databas",
+		"manag",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"communication",
+		"database",
+		"distributed"
+	],
+	"title": "Computation & Communication in R*: A Distributed Database Manager",
 	"type": "inproceedings",
 	"venue": "SOSP",
 	"year": 1983

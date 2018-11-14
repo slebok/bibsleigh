@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Federico Nanni",
-		"Simone Paolo Ponzetto",
-		"Laura Dietz"
-	],
+	"author": ["Federico Nanni", "Simone Paolo Ponzetto", "Laura Dietz"],
 	"booktitle": "Proceedings of the 18th ACM/IEEE on Joint Conference on Digital Libraries, JCDL 2018, Fort Worth, TX, USA, June 03-07, 2018",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2018",
@@ -11,10 +7,8 @@
 	"doi": "10.1145/3197026.3197047",
 	"pages": "49-58",
 	"publisher": "ACM",
-	"tag": [
-		"fine-grained",
-		"semantics"
-	],
+	"stemmed": ["entiti", "aspect", "link", "provid", "fine", "grain", "semant", "of", "entiti", "in", "context"],
+	"tag": ["fine-grained", "semantics"],
 	"title": "Entity-Aspect Linking: Providing Fine-Grained Semantics of Entities in Context",
 	"type": "inproceedings",
 	"venue": "JCDL",

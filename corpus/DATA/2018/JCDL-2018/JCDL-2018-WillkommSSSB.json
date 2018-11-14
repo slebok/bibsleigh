@@ -1,11 +1,5 @@
 {
-	"author": [
-		"Jens Willkomm",
-		"Christoph Schmidt-Petri",
-		"Martin Schäler",
-		"Michael Schefczyk",
-		"Klemens Böhm"
-	],
+	"author": ["Jens Willkomm", "Christoph Schmidt-Petri", "Martin Schäler", "Michael Schefczyk", "Klemens Böhm"],
 	"booktitle": "Proceedings of the 18th ACM/IEEE on Joint Conference on Digital Libraries, JCDL 2018, Fort Worth, TX, USA, June 03-07, 2018",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2018",
@@ -13,11 +7,8 @@
 	"doi": "10.1145/3197026.3197044",
 	"pages": "183-192",
 	"publisher": "ACM",
-	"tag": [
-		"algebra",
-		"corpus",
-		"query"
-	],
+	"stemmed": ["a", "queri", "algebra", "for", "tempor", "text", "corpora"],
+	"tag": ["algebra", "corpus", "query"],
 	"title": "A Query Algebra for Temporal Text Corpora",
 	"type": "inproceedings",
 	"venue": "JCDL",

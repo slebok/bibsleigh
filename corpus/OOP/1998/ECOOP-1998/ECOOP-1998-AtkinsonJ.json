@@ -1,5 +1,8 @@
 {
-	"author": ["Malcolm P. Atkinson", "Mick J. Jordan"],
+	"author": [
+		"Malcolm P. Atkinson",
+		"Mick J. Jordan"
+	],
 	"booktitle": "Proceedings of the 12th European Conference on Object-Oriented Programming",
 	"booktitleshort": "ECOOP",
 	"crossref": "conf/ecoop/1998",
@@ -13,11 +16,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["provid", "orthogon", "persist", "for", "java", "extend", "abstract"],
-	"tag": ["java", "orthogonal", "persistent"],
-	"title": "Providing Orthogonal Persistence for Java (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"provid",
+		"orthogon",
+		"persist",
+		"for",
+		"java",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"java",
+		"orthogonal",
+		"persistent"
+	],
+	"title": "Providing Orthogonal Persistence for Java",
 	"type": "inproceedings",
 	"venue": "ECOOP",
-	"volume": 1445,
+	"volume": "1445",
 	"year": 1998
 }

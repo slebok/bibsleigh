@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Gerhard Gossen",
-		"Elena Demidova",
-		"Thomas Risse 0001"
-	],
+	"author": ["Gerhard Gossen", "Elena Demidova", "Thomas Risse 0001"],
 	"booktitle": "Proceedings of the 15th Joint Conference on Digital Libraries",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2015",
@@ -11,12 +7,8 @@
 	"doi": "10.1145/2756406.2756925",
 	"pages": "75-84",
 	"publisher": "ACM",
-	"tag": [
-		"crawling",
-		"named",
-		"social",
-		"web"
-	],
+	"stemmed": ["icrawl", "improv", "the", "fresh", "of", "web", "collect", "by", "integr", "social", "web", "and", "focus", "web", "crawl"],
+	"tag": ["crawling", "named", "social", "web"],
 	"title": "iCrawl: Improving the Freshness of Web Collections by Integrating Social Web and Focused Web Crawling",
 	"type": "inproceedings",
 	"venue": "JCDL",

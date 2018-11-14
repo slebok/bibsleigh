@@ -1,5 +1,8 @@
 {
-	"author": ["Stephen A. Cook", "Alasdair Urquhart"],
+	"author": [
+		"Stephen A. Cook",
+		"Alasdair Urquhart"
+	],
 	"booktitle": "Proceedings of the 21st Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC21",
@@ -8,9 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/73007.73017",
 	"pages": "107-112",
 	"publisher": "ACM",
-	"stemmed": ["function", "interpret", "of", "feasibl", "construct", "arithmet", "extend", "abstract"],
-	"tag": ["functional"],
-	"title": "Functional Interpretations of Feasibly Constructive Arithmetic (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"function",
+		"interpret",
+		"of",
+		"feasibl",
+		"construct",
+		"arithmet",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"functional"
+	],
+	"title": "Functional Interpretations of Feasibly Constructive Arithmetic",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1989

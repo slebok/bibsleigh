@@ -1,5 +1,8 @@
 {
-	"author": ["Eyal Kushilevitz", "Yishay Mansour"],
+	"author": [
+		"Eyal Kushilevitz",
+		"Yishay Mansour"
+	],
 	"booktitle": "Proceedings of the 23rd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC23",
@@ -8,9 +11,24 @@
 	"ee": "http://doi.acm.org/10.1145/103418.103466",
 	"pages": "455-464",
 	"publisher": "ACM",
-	"stemmed": ["learn", "decis", "tree", "use", "the", "fourier", "sprectrum", "extend", "abstract"],
-	"tag": ["fourier", "learning", "using"],
-	"title": "Learning Decision Trees Using the Fourier Sprectrum (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"learn",
+		"decis",
+		"tree",
+		"use",
+		"the",
+		"fourier",
+		"sprectrum",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"fourier",
+		"learning",
+		"using"
+	],
+	"title": "Learning Decision Trees Using the Fourier Sprectrum",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1991

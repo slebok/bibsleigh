@@ -1,5 +1,8 @@
 {
-	"author": ["Richard M. Karp", "Robert Endre Tarjan"],
+	"author": [
+		"Richard M. Karp",
+		"Robert Endre Tarjan"
+	],
 	"booktitle": "Proceedings of the 12th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC12",
@@ -8,9 +11,24 @@
 	"ee": "http://doi.acm.org/10.1145/800141.804686",
 	"pages": "368-377",
 	"publisher": "ACM",
-	"stemmed": ["linear", "expect", "time", "algorithm", "for", "connect", "problem", "extend", "abstract"],
-	"tag": ["algorithm", "linear", "problem"],
-	"title": "Linear Expected-Time Algorithms for Connectivity Problems (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"linear",
+		"expect",
+		"time",
+		"algorithm",
+		"for",
+		"connect",
+		"problem",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"algorithm",
+		"linear",
+		"problem"
+	],
+	"title": "Linear Expected-Time Algorithms for Connectivity Problems",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1980

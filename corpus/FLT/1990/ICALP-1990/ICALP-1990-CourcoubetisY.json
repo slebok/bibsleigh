@@ -1,5 +1,8 @@
 {
-	"author": ["Costas Courcoubetis", "Mihalis Yannakakis"],
+	"author": [
+		"Costas Courcoubetis",
+		"Mihalis Yannakakis"
+	],
 	"booktitle": "Proceedings of the 17th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1990",
@@ -11,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["markov", "decis", "process", "and", "regular", "event", "extend", "abstract"],
-	"tag": ["markov", "process"],
-	"title": "Markov Decision Processes and Regular Events (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"markov",
+		"decis",
+		"process",
+		"and",
+		"regular",
+		"event",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"markov",
+		"process"
+	],
+	"title": "Markov Decision Processes and Regular Events",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 443,
+	"volume": "443",
 	"year": 1990
 }

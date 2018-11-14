@@ -1,5 +1,9 @@
 {
-	"author": ["Donald Beaver", "Silvio Micali", "Phillip Rogaway"],
+	"author": [
+		"Donald Beaver",
+		"Silvio Micali",
+		"Phillip Rogaway"
+	],
 	"booktitle": "Proceedings of the 22nd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC22",
@@ -8,9 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/100216.100287",
 	"pages": "503-513",
 	"publisher": "ACM",
-	"stemmed": ["the", "round", "complex", "of", "secur", "protocol", "extend", "abstract"],
-	"tag": ["complexity", "protocol"],
-	"title": "The Round Complexity of Secure Protocols (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"the",
+		"round",
+		"complex",
+		"of",
+		"secur",
+		"protocol",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"complexity",
+		"protocol"
+	],
+	"title": "The Round Complexity of Secure Protocols",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1990

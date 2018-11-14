@@ -1,5 +1,10 @@
 {
-	"author": ["Allan Borodin", "Sandy Irani", "Prabhakar Raghavan", "Baruch Schieber"],
+	"author": [
+		"Allan Borodin",
+		"Sandy Irani",
+		"Prabhakar Raghavan",
+		"Baruch Schieber"
+	],
 	"booktitle": "Proceedings of the 23rd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC23",
@@ -8,9 +13,21 @@
 	"ee": "http://doi.acm.org/10.1145/103418.103422",
 	"pages": "249-259",
 	"publisher": "ACM",
-	"stemmed": ["competit", "page", "with", "local", "of", "refer", "preliminari", "version"],
-	"tag": ["locality"],
-	"title": "Competitive Paging with Locality of Reference (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"competit",
+		"page",
+		"with",
+		"local",
+		"of",
+		"refer",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"locality"
+	],
+	"title": "Competitive Paging with Locality of Reference",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1991

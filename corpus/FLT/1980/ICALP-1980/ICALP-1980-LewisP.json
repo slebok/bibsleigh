@@ -1,5 +1,8 @@
 {
-	"author": ["Harry R. Lewis", "Christos H. Papadimitriou"],
+	"author": [
+		"Harry R. Lewis",
+		"Christos H. Papadimitriou"
+	],
 	"booktitle": "Proceedings of the Seventh Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1980",
@@ -11,11 +14,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["symmetr", "space", "bound", "comput", "extend", "abstract"],
-	"tag": ["bound", "symmetry"],
-	"title": "Symmetric Space-Bounded Computation (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"symmetr",
+		"space",
+		"bound",
+		"comput",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"bound",
+		"symmetry"
+	],
+	"title": "Symmetric Space-Bounded Computation",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 85,
+	"volume": "85",
 	"year": 1980
 }

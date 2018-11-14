@@ -1,5 +1,9 @@
 {
-	"author": ["Ran Canetti", "Daniele Micciancio", "Omer Reingold"],
+	"author": [
+		"Ran Canetti",
+		"Daniele Micciancio",
+		"Omer Reingold"
+	],
 	"booktitle": "Proceedings of the 30th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1998",
@@ -8,9 +12,21 @@
 	"ee": "http://doi.acm.org/10.1145/276698.276721",
 	"pages": "131-140",
 	"publisher": "ACM",
-	"stemmed": ["perfect", "one", "way", "probabilist", "hash", "function", "preliminari", "version"],
-	"tag": ["probability"],
-	"title": "Perfectly One-Way Probabilistic Hash Functions (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"perfect",
+		"one",
+		"way",
+		"probabilist",
+		"hash",
+		"function",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"probability"
+	],
+	"title": "Perfectly One-Way Probabilistic Hash Functions",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1998

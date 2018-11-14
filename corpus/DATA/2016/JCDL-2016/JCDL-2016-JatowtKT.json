@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Adam Jatowt",
-		"Daisuke Kawai",
-		"Katsumi Tanaka"
-	],
+	"author": ["Adam Jatowt", "Daisuke Kawai", "Katsumi Tanaka"],
 	"booktitle": "Proceedings of the 16th Joint Conference on Digital Libraries",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2016",
@@ -12,9 +8,8 @@
 	"ee": "http://ieeexplore.ieee.org/document/7559559/",
 	"pages": "17-26",
 	"publisher": "ACM",
-	"tag": [
-		"wiki"
-	],
+	"stemmed": ["digit", "histori", "meet", "wikipedia", "analyz", "histor", "person", "in", "wikipedia"],
+	"tag": ["wiki"],
 	"title": "Digital History Meets Wikipedia: Analyzing Historical Persons in Wikipedia",
 	"type": "inproceedings",
 	"venue": "JCDL",

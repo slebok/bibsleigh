@@ -1,5 +1,9 @@
 {
-	"author": ["David Chaum", "Claude Crépeau", "Ivan Damgård"],
+	"author": [
+		"David Chaum",
+		"Claude Crépeau",
+		"Ivan Damgård"
+	],
 	"booktitle": "Proceedings of the 20th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC20",
@@ -8,9 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/62212.62214",
 	"pages": "11-19",
 	"publisher": "ACM",
-	"stemmed": ["multiparti", "uncondit", "secur", "protocol", "extend", "abstract"],
-	"tag": ["multi", "protocol"],
-	"title": "Multiparty Unconditionally Secure Protocols (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"multiparti",
+		"uncondit",
+		"secur",
+		"protocol",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"multi",
+		"protocol"
+	],
+	"title": "Multiparty Unconditionally Secure Protocols",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1988

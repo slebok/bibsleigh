@@ -1,5 +1,9 @@
 {
-	"author": ["Noga Alon", "Asaf Shapira", "Benny Sudakov"],
+	"author": [
+		"Noga Alon",
+		"Asaf Shapira",
+		"Benny Sudakov"
+	],
 	"booktitle": "Proceedings of the 33rd International Colloquium on Automata, Languages and Programming, Part I",
 	"booktitleshort": "ICALP (1)",
 	"crossref": "conf/icalp/2006-1",
@@ -11,11 +15,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["addit", "approxim", "for", "edg", "delet", "problem", "abstract"],
-	"tag": ["approximate", "problem"],
-	"title": "Additive Approximation for Edge-Deletion Problems (Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"addit",
+		"approxim",
+		"for",
+		"edg",
+		"delet",
+		"problem",
+		"abstract"
+	],
+	"tag": [
+		"approximate",
+		"problem"
+	],
+	"title": "Additive Approximation for Edge-Deletion Problems",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 4051,
+	"volume": "4051",
 	"year": 2006
 }

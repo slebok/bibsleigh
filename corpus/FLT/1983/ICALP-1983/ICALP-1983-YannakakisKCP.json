@@ -1,5 +1,10 @@
 {
-	"author": ["Mihalis Yannakakis", "Paris C. Kanellakis", "Stavros S. Cosmadakis", "Christos H. Papadimitriou"],
+	"author": [
+		"Mihalis Yannakakis",
+		"Paris C. Kanellakis",
+		"Stavros S. Cosmadakis",
+		"Christos H. Papadimitriou"
+	],
 	"booktitle": "Proceedings of the 10th Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1983",
@@ -11,11 +16,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["cut", "and", "partit", "a", "graph", "aifter", "a", "fix", "pattern", "extend", "abstract"],
-	"tag": ["clustering", "graph"],
-	"title": "Cutting and Partitioning a Graph aifter a Fixed Pattern (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"cut",
+		"and",
+		"partit",
+		"a",
+		"graph",
+		"aifter",
+		"a",
+		"fix",
+		"pattern",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"clustering",
+		"graph"
+	],
+	"title": "Cutting and Partitioning a Graph aifter a Fixed Pattern",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 154,
+	"volume": "154",
 	"year": 1983
 }

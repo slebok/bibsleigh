@@ -6,11 +6,21 @@
 	"dblpkey": "conf/stoc/Yao01",
 	"doi": "10.1145/380752.380856",
 	"ee": "http://doi.acm.org/10.1145/380752.380856",
-	"pages": 600,
+	"pages": "600",
 	"publisher": "ACM",
-	"stemmed": ["some", "perspect", "on", "comput", "complex", "abstract"],
-	"tag": ["complexity"],
-	"title": "Some perspective on computational complexity (abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"some",
+		"perspect",
+		"on",
+		"comput",
+		"complex",
+		"abstract"
+	],
+	"tag": [
+		"complexity"
+	],
+	"title": "Some perspective on computational complexity",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 2001

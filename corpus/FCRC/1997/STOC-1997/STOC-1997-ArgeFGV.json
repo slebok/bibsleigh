@@ -1,5 +1,10 @@
 {
-	"author": ["Lars Arge", "Paolo Ferragina", "Roberto Grossi", "Jeffrey Scott Vitter"],
+	"author": [
+		"Lars Arge",
+		"Paolo Ferragina",
+		"Roberto Grossi",
+		"Jeffrey Scott Vitter"
+	],
 	"booktitle": "Proceedings of the 29th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1997",
@@ -8,9 +13,24 @@
 	"ee": "http://doi.acm.org/10.1145/258533.258647",
 	"pages": "540-548",
 	"publisher": "ACM",
-	"stemmed": ["on", "sort", "string", "in", "extern", "memori", "extend", "abstract"],
-	"tag": ["memory management", "on the", "sorting", "string"],
-	"title": "On Sorting Strings in External Memory (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"on",
+		"sort",
+		"string",
+		"in",
+		"extern",
+		"memori",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"memory management",
+		"on the",
+		"sorting",
+		"string"
+	],
+	"title": "On Sorting Strings in External Memory",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1997

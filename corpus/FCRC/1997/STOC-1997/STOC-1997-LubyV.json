@@ -1,5 +1,8 @@
 {
-	"author": ["Michael Luby", "Eric Vigoda"],
+	"author": [
+		"Michael Luby",
+		"Eric Vigoda"
+	],
 	"booktitle": "Proceedings of the 29th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1997",
@@ -8,9 +11,20 @@
 	"ee": "http://doi.acm.org/10.1145/258533.258663",
 	"pages": "682-687",
 	"publisher": "ACM",
-	"stemmed": ["approxim", "count", "up", "to", "four", "extend", "abstract"],
-	"tag": ["approximate"],
-	"title": "Approximately Counting Up To Four (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"approxim",
+		"count",
+		"up",
+		"to",
+		"four",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"approximate"
+	],
+	"title": "Approximately Counting Up To Four",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1997

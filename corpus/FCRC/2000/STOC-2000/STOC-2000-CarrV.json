@@ -1,5 +1,8 @@
 {
-	"author": ["Robert D. Carr", "Santosh Vempala"],
+	"author": [
+		"Robert D. Carr",
+		"Santosh Vempala"
+	],
 	"booktitle": "Proceedings of the 32nd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/2000",
@@ -8,9 +11,17 @@
 	"ee": "http://doi.acm.org/10.1145/335305.335312",
 	"pages": "58-62",
 	"publisher": "ACM",
-	"stemmed": ["random", "metaround", "extend", "abstract"],
-	"tag": ["random"],
-	"title": "Randomized metarounding (extended abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"random",
+		"metaround",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"random"
+	],
+	"title": "Randomized metarounding",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 2000

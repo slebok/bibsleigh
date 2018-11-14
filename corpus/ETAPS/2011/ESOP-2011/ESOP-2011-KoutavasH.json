@@ -1,5 +1,8 @@
 {
-	"author": ["Vasileios Koutavas", "Matthew Hennessy"],
+	"author": [
+		"Vasileios Koutavas",
+		"Matthew Hennessy"
+	],
 	"booktitle": "Proceedings of the 20th European Symposium on Programming",
 	"booktitleshort": "ESOP",
 	"crossref": "conf/esop/2011",
@@ -13,11 +16,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "test", "theori", "for", "a", "higher", "order", "cryptograph", "languag", "extend", "abstract"],
-	"tag": ["encryption", "higher-order", "testing"],
-	"title": "A Testing Theory for a Higher-Order Cryptographic Language — (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"a",
+		"test",
+		"theori",
+		"for",
+		"a",
+		"higher",
+		"order",
+		"cryptograph",
+		"languag",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"encryption",
+		"higher-order",
+		"testing"
+	],
+	"title": "A Testing Theory for a Higher-Order Cryptographic Language —",
 	"type": "inproceedings",
 	"venue": "ESOP",
-	"volume": 6602,
+	"volume": "6602",
 	"year": 2011
 }

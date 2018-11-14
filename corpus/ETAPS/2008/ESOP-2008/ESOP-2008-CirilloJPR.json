@@ -1,5 +1,10 @@
 {
-	"author": ["Andrew Cirillo", "Radha Jagadeesan", "Corin Pitcher", "James Riely"],
+	"author": [
+		"Andrew Cirillo",
+		"Radha Jagadeesan",
+		"Corin Pitcher",
+		"James Riely"
+	],
 	"booktitle": "Proceedings of the 17th European Symposium on Programming",
 	"booktitleshort": "ESOP",
 	"crossref": "conf/esop/2008",
@@ -13,11 +18,30 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["tapido", "trust", "and", "author", "via", "proven", "and", "integr", "in", "distribut", "object", "extend", "abstract"],
-	"tag": ["distributed", "named", "trust"],
-	"title": "Tapido: Trust and Authorization Via Provenance and Integrity in Distributed Objects (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"tapido",
+		"trust",
+		"and",
+		"author",
+		"via",
+		"proven",
+		"and",
+		"integr",
+		"in",
+		"distribut",
+		"object",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"distributed",
+		"named",
+		"trust"
+	],
+	"title": "Tapido: Trust and Authorization Via Provenance and Integrity in Distributed Objects",
 	"type": "inproceedings",
 	"venue": "ESOP",
-	"volume": 4960,
+	"volume": "4960",
 	"year": 2008
 }

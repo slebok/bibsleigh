@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Yasunobu Sumikawa",
-		"Adam Jatowt",
-		"Marten Düring"
-	],
+	"author": ["Yasunobu Sumikawa", "Adam Jatowt", "Marten Düring"],
 	"booktitle": "Proceedings of the 18th ACM/IEEE on Joint Conference on Digital Libraries, JCDL 2018, Fort Worth, TX, USA, June 03-07, 2018",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2018",
@@ -11,10 +7,8 @@
 	"doi": "10.1145/3197026.3197057",
 	"pages": "213-222",
 	"publisher": "ACM",
-	"tag": [
-		"microblog",
-		"twitter"
-	],
+	"stemmed": ["digit", "histori", "meet", "microblog", "analyz", "collect", "memori", "in", "twitter"],
+	"tag": ["microblog", "twitter"],
 	"title": "Digital History meets Microblogging: Analyzing Collective Memories in Twitter",
 	"type": "inproceedings",
 	"venue": "JCDL",

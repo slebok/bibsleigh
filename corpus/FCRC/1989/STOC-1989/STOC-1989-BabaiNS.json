@@ -1,5 +1,9 @@
 {
-	"author": ["László Babai", "Noam Nisan", "Mario Szegedy"],
+	"author": [
+		"László Babai",
+		"Noam Nisan",
+		"Mario Szegedy"
+	],
 	"booktitle": "Proceedings of the 21st Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC21",
@@ -8,9 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/73007.73008",
 	"pages": "1-11",
 	"publisher": "ACM",
-	"stemmed": ["multiparti", "protocol", "and", "logspac", "hard", "pseudorandom", "sequenc", "extend", "abstract"],
-	"tag": ["multi", "protocol", "pseudo", "sequence"],
-	"title": "Multiparty Protocols and Logspace-hard Pseudorandom Sequences (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"multiparti",
+		"protocol",
+		"and",
+		"logspac",
+		"hard",
+		"pseudorandom",
+		"sequenc",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"multi",
+		"protocol",
+		"pseudo",
+		"sequence"
+	],
+	"title": "Multiparty Protocols and Logspace-hard Pseudorandom Sequences",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1989

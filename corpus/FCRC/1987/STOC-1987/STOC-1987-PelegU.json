@@ -1,5 +1,8 @@
 {
-	"author": ["David Peleg", "Eli Upfal"],
+	"author": [
+		"David Peleg",
+		"Eli Upfal"
+	],
 	"booktitle": "Proceedings of the 19th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC19",
@@ -8,9 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/28395.28424",
 	"pages": "264-273",
 	"publisher": "ACM",
-	"stemmed": ["construct", "disjoint", "path", "on", "expand", "graph", "extend", "abstract"],
-	"tag": ["graph"],
-	"title": "Constructing Disjoint Paths on Expander Graphs (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"construct",
+		"disjoint",
+		"path",
+		"on",
+		"expand",
+		"graph",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"graph"
+	],
+	"title": "Constructing Disjoint Paths on Expander Graphs",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1987

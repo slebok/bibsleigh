@@ -1,5 +1,9 @@
 {
-	"author": ["Shafi Goldwasser", "Silvio Micali", "Charles Rackoff"],
+	"author": [
+		"Shafi Goldwasser",
+		"Silvio Micali",
+		"Charles Rackoff"
+	],
 	"booktitle": "Proceedings of the 17th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC17",
@@ -8,9 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/22145.22178",
 	"pages": "291-304",
 	"publisher": "ACM",
-	"stemmed": ["the", "knowledg", "complex", "of", "interact", "proof", "system", "extend", "abstract"],
-	"tag": ["complexity", "interactive"],
-	"title": "The Knowledge Complexity of Interactive Proof-Systems (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"the",
+		"knowledg",
+		"complex",
+		"of",
+		"interact",
+		"proof",
+		"system",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"complexity",
+		"interactive"
+	],
+	"title": "The Knowledge Complexity of Interactive Proof-Systems",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1985

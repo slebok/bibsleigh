@@ -1,5 +1,9 @@
 {
-	"author": ["Stuart A. Kurtz", "Stephen R. Mahaney", "James S. Royer"],
+	"author": [
+		"Stuart A. Kurtz",
+		"Stephen R. Mahaney",
+		"James S. Royer"
+	],
 	"booktitle": "Proceedings of the 21st Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC21",
@@ -8,9 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/73007.73022",
 	"pages": "157-166",
 	"publisher": "ACM",
-	"stemmed": ["the", "isomorph", "conjectur", "fail", "relat", "to", "a", "random", "oracl", "extend", "abstract"],
-	"tag": ["morphism", "random"],
-	"title": "The Isomorphism Conjecture Fails Relative to a Random Oracle (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"the",
+		"isomorph",
+		"conjectur",
+		"fail",
+		"relat",
+		"to",
+		"a",
+		"random",
+		"oracl",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"morphism",
+		"random"
+	],
+	"title": "The Isomorphism Conjecture Fails Relative to a Random Oracle",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1989

@@ -1,5 +1,8 @@
 {
-	"author": ["Mark Jerrum", "Alistair Sinclair"],
+	"author": [
+		"Mark Jerrum",
+		"Alistair Sinclair"
+	],
 	"booktitle": "Proceedings of the 17th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1990",
@@ -11,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["polynomi", "time", "approxim", "algorithm", "for", "ise", "model", "extend", "abstract"],
-	"tag": ["algorithm", "approximate", "polynomial"],
-	"title": "Polynomial-Time Approximation Algorithms for Ising Model (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"polynomi",
+		"time",
+		"approxim",
+		"algorithm",
+		"for",
+		"ise",
+		"model",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"algorithm",
+		"approximate",
+		"polynomial"
+	],
+	"title": "Polynomial-Time Approximation Algorithms for Ising Model",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 443,
+	"volume": "443",
 	"year": 1990
 }

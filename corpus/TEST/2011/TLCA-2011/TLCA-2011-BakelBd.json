@@ -1,5 +1,9 @@
 {
-	"author": ["Steffen van Bakel", "Franco Barbanera", "Ugo de'Liguoro"],
+	"author": [
+		"Steffen van Bakel",
+		"Franco Barbanera",
+		"Ugo de'Liguoro"
+	],
 	"booktitle": "Proceedings of the 10th International Conference on Typed Lambda Calculi and Applications",
 	"booktitleshort": "TLCA",
 	"crossref": "conf/tlca/2011",
@@ -11,11 +15,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["a", "filter", "model", "for", "the", "calculus", "extend", "abstract"],
-	"tag": ["λ-calculus", "μ-calculus"],
-	"title": "A Filter Model for the λμ-Calculus — (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"a",
+		"filter",
+		"model",
+		"for",
+		"the",
+		"calculus",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"λ-calculus",
+		"μ-calculus"
+	],
+	"title": "A Filter Model for the λμ-Calculus —",
 	"type": "inproceedings",
 	"venue": "TLCA",
-	"volume": 6690,
+	"volume": "6690",
 	"year": 2011
 }

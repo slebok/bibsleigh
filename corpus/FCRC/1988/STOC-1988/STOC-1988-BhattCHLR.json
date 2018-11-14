@@ -1,5 +1,11 @@
 {
-	"author": ["Sandeep N. Bhatt", "Fan R. K. Chung", "Jia-Wei Hong", "Frank Thomson Leighton", "Arnold L. Rosenberg"],
+	"author": [
+		"Sandeep N. Bhatt",
+		"Fan R. K. Chung",
+		"Jia-Wei Hong",
+		"Frank Thomson Leighton",
+		"Arnold L. Rosenberg"
+	],
 	"booktitle": "Proceedings of the 20th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC20",
@@ -8,9 +14,21 @@
 	"ee": "http://doi.acm.org/10.1145/62212.62229",
 	"pages": "192-204",
 	"publisher": "ACM",
-	"stemmed": ["optim", "simul", "by", "butterfli", "network", "preliminari", "version"],
-	"tag": ["network", "simulation"],
-	"title": "Optimal Simulations by Butterfly Networks (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"optim",
+		"simul",
+		"by",
+		"butterfli",
+		"network",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"network",
+		"simulation"
+	],
+	"title": "Optimal Simulations by Butterfly Networks",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1988

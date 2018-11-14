@@ -1,17 +1,37 @@
 {
-	"author": ["Jonathan Walpole", "Richard Staehli"],
+	"author": [
+		"Jonathan Walpole",
+		"Richard Staehli"
+	],
 	"dblpkey": "journals/sigops/WalpoleS92",
 	"doi": "10.1145/142111.993267",
 	"ee": "http://doi.acm.org/10.1145/142111.993267",
 	"journal": "Operating Systems Review",
-	"number": 2,
-	"pages": 28,
+	"number": "2",
+	"pages": "28",
 	"publisher": "ACM",
-	"stemmed": ["support", "access", "to", "store", "multimedia", "data", "in", "larg", "distribut", "system", "abstract"],
-	"tag": ["distributed", "multi", "scalability"],
-	"title": "Supporting Access to Stored Multimedia Data in Large Distributed Systems (Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"support",
+		"access",
+		"to",
+		"store",
+		"multimedia",
+		"data",
+		"in",
+		"larg",
+		"distribut",
+		"system",
+		"abstract"
+	],
+	"tag": [
+		"distributed",
+		"multi",
+		"scalability"
+	],
+	"title": "Supporting Access to Stored Multimedia Data in Large Distributed Systems",
 	"type": "article",
 	"venue": "SOSP",
-	"volume": 26,
+	"volume": "26",
 	"year": 1992
 }

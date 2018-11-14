@@ -1,5 +1,10 @@
 {
-	"author": ["Baruch Awerbuch", "Amotz Bar-Noy", "Nathan Linial", "David Peleg"],
+	"author": [
+		"Baruch Awerbuch",
+		"Amotz Bar-Noy",
+		"Nathan Linial",
+		"David Peleg"
+	],
 	"booktitle": "Proceedings of the 21st Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC21",
@@ -8,9 +13,24 @@
 	"ee": "http://doi.acm.org/10.1145/73007.73053",
 	"pages": "479-489",
 	"publisher": "ACM",
-	"stemmed": ["compact", "distribut", "data", "structur", "for", "adapt", "rout", "extend", "abstract"],
-	"tag": ["adaptation", "data type", "distributed"],
-	"title": "Compact Distributed Data Structures for Adaptive Routing (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"compact",
+		"distribut",
+		"data",
+		"structur",
+		"for",
+		"adapt",
+		"rout",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"adaptation",
+		"data type",
+		"distributed"
+	],
+	"title": "Compact Distributed Data Structures for Adaptive Routing",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1989

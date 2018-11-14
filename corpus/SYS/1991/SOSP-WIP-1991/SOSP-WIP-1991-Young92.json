@@ -4,14 +4,30 @@
 	"doi": "10.1145/142111.964621",
 	"ee": "http://doi.acm.org/10.1145/142111.964621",
 	"journal": "Operating Systems Review",
-	"number": 2,
-	"pages": 20,
+	"number": "2",
+	"pages": "20",
 	"publisher": "ACM",
-	"stemmed": ["episod", "lazi", "transact", "for", "filesystem", "meta", "data", "updat", "abstract"],
-	"tag": ["lazy evaluation", "metadata", "named", "transaction"],
-	"title": "Episode: Lazy Transactions for Filesystem Meta-Data Updates (Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"episod",
+		"lazi",
+		"transact",
+		"for",
+		"filesystem",
+		"meta",
+		"data",
+		"updat",
+		"abstract"
+	],
+	"tag": [
+		"lazy evaluation",
+		"metadata",
+		"named",
+		"transaction"
+	],
+	"title": "Episode: Lazy Transactions for Filesystem Meta-Data Updates",
 	"type": "article",
 	"venue": "SOSP",
-	"volume": 26,
+	"volume": "26",
 	"year": 1992
 }

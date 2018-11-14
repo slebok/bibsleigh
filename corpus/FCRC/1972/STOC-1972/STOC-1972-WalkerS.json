@@ -1,5 +1,8 @@
 {
-	"author": ["S. A. Walker", "H. Raymond Strong"],
+	"author": [
+		"S. A. Walker",
+		"H. Raymond Strong"
+	],
 	"booktitle": "Proceedings of the Fourth Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC4",
@@ -8,9 +11,19 @@
 	"ee": "http://doi.acm.org/10.1145/800152.804893",
 	"pages": "18-34",
 	"publisher": "ACM",
-	"stemmed": ["character", "of", "flowchart", "recurs", "short", "version"],
-	"tag": ["recursion"],
-	"title": "Characterization of Flowchartable Recursions (Short Version)",
+	"status": "short",
+	"stemmed": [
+		"character",
+		"of",
+		"flowchart",
+		"recurs",
+		"short",
+		"version"
+	],
+	"tag": [
+		"recursion"
+	],
+	"title": "Characterization of Flowchartable Recursions",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1972

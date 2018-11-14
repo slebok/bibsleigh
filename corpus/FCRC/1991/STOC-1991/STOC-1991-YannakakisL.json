@@ -1,5 +1,8 @@
 {
-	"author": ["Mihalis Yannakakis", "David Lee"],
+	"author": [
+		"Mihalis Yannakakis",
+		"David Lee"
+	],
 	"booktitle": "Proceedings of the 23rd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC23",
@@ -8,9 +11,21 @@
 	"ee": "http://doi.acm.org/10.1145/103418.103468",
 	"pages": "476-485",
 	"publisher": "ACM",
-	"stemmed": ["test", "finit", "state", "machin", "extend", "abstract"],
-	"tag": ["finite", "state machine", "testing"],
-	"title": "Testing Finite State Machines (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"test",
+		"finit",
+		"state",
+		"machin",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"finite",
+		"state machine",
+		"testing"
+	],
+	"title": "Testing Finite State Machines",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1991

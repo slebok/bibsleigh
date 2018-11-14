@@ -1,5 +1,9 @@
 {
-	"author": ["Brenda S. Baker", "Sandeep N. Bhatt", "Frank Thomson Leighton"],
+	"author": [
+		"Brenda S. Baker",
+		"Sandeep N. Bhatt",
+		"Frank Thomson Leighton"
+	],
 	"booktitle": "Proceedings of the 15th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC15",
@@ -8,9 +12,22 @@
 	"ee": "http://doi.acm.org/10.1145/800061.808779",
 	"pages": "477-486",
 	"publisher": "ACM",
-	"stemmed": ["an", "approxim", "algorithm", "for", "manhattan", "rout", "extend", "abstract"],
-	"tag": ["algorithm", "approximate"],
-	"title": "An Approximation Algorithm for Manhattan Routing (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"an",
+		"approxim",
+		"algorithm",
+		"for",
+		"manhattan",
+		"rout",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"algorithm",
+		"approximate"
+	],
+	"title": "An Approximation Algorithm for Manhattan Routing",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1983

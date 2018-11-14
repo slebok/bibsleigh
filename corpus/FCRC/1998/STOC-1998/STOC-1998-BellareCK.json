@@ -1,5 +1,9 @@
 {
-	"author": ["Mihir Bellare", "Ran Canetti", "Hugo Krawczyk"],
+	"author": [
+		"Mihir Bellare",
+		"Ran Canetti",
+		"Hugo Krawczyk"
+	],
 	"booktitle": "Proceedings of the 30th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1998",
@@ -8,9 +12,34 @@
 	"ee": "http://doi.acm.org/10.1145/276698.276854",
 	"pages": "419-428",
 	"publisher": "ACM",
-	"stemmed": ["a", "modular", "approach", "to", "the", "design", "and", "analysi", "of", "authent", "and", "key", "exchang", "protocol", "extend", "abstract"],
-	"tag": ["analysis", "approach", "authentication", "composition", "design", "protocol"],
-	"title": "A Modular Approach to the Design and Analysis of Authentication and Key Exchange Protocols (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"a",
+		"modular",
+		"approach",
+		"to",
+		"the",
+		"design",
+		"and",
+		"analysi",
+		"of",
+		"authent",
+		"and",
+		"key",
+		"exchang",
+		"protocol",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"analysis",
+		"approach",
+		"authentication",
+		"composition",
+		"design",
+		"protocol"
+	],
+	"title": "A Modular Approach to the Design and Analysis of Authentication and Key Exchange Protocols",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1998

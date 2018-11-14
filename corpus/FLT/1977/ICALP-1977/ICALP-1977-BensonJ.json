@@ -1,5 +1,8 @@
 {
-	"author": ["David B. Benson", "Ralph D. Jeffords"],
+	"author": [
+		"David B. Benson",
+		"Ralph D. Jeffords"
+	],
 	"booktitle": "Proceedings of the Fourth Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1977",
@@ -11,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["parallel", "decomposit", "of", "lr", "k", "parser", "extend", "abstract"],
-	"tag": ["composition", "lr", "parallel", "parsing"],
-	"title": "Parallel Decomposition of LR(k) Parsers (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"parallel",
+		"decomposit",
+		"of",
+		"lr",
+		"k",
+		"parser",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"composition",
+		"lr",
+		"parallel",
+		"parsing"
+	],
+	"title": "Parallel Decomposition of LR(k) Parsers",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 52,
+	"volume": "52",
 	"year": 1977
 }

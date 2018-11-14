@@ -1,5 +1,8 @@
 {
-	"author": ["Alok Aggarwal", "Jeffrey Scott Vitter"],
+	"author": [
+		"Alok Aggarwal",
+		"Jeffrey Scott Vitter"
+	],
 	"booktitle": "Proceedings of the 14th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1987",
@@ -11,11 +14,28 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "i", "o", "complex", "of", "sort", "and", "relat", "problem", "extend", "abstract"],
-	"tag": ["complexity", "problem", "sorting"],
-	"title": "The I/O Complexity of Sorting and Related Problems (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"the",
+		"i",
+		"o",
+		"complex",
+		"of",
+		"sort",
+		"and",
+		"relat",
+		"problem",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"complexity",
+		"problem",
+		"sorting"
+	],
+	"title": "The I/O Complexity of Sorting and Related Problems",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 267,
+	"volume": "267",
 	"year": 1987
 }

@@ -1,5 +1,8 @@
 {
-	"author": ["Moshe Y. Vardi", "Pierre Wolper"],
+	"author": [
+		"Moshe Y. Vardi",
+		"Pierre Wolper"
+	],
 	"booktitle": "Proceedings of the 16th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC16",
@@ -8,9 +11,25 @@
 	"ee": "http://doi.acm.org/10.1145/800057.808711",
 	"pages": "446-456",
 	"publisher": "ACM",
-	"stemmed": ["automata", "theoret", "techniqu", "for", "modal", "logic", "of", "program", "extend", "abstract"],
-	"tag": ["automaton", "logic", "source code"],
-	"title": "Automata Theoretic Techniques for Modal Logics of Programs (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"automata",
+		"theoret",
+		"techniqu",
+		"for",
+		"modal",
+		"logic",
+		"of",
+		"program",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"automaton",
+		"logic",
+		"source code"
+	],
+	"title": "Automata Theoretic Techniques for Modal Logics of Programs",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1984

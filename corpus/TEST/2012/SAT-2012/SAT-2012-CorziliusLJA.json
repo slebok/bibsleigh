@@ -1,5 +1,10 @@
 {
-	"author": ["Florian Corzilius", "Ulrich Loup", "Sebastian Junges", "Erika Ábrahám"],
+	"author": [
+		"Florian Corzilius",
+		"Ulrich Loup",
+		"Sebastian Junges",
+		"Erika Ábrahám"
+	],
 	"booktitle": "Proceedings of the 15th International Conference on Theory and Applications of Satisfiability Testing",
 	"booktitleshort": "SAT",
 	"crossref": "conf/sat/2012",
@@ -11,11 +16,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["smt", "rat", "an", "smt", "compliant", "nonlinear", "real", "arithmet", "toolbox", "tool", "present"],
-	"tag": ["named"],
-	"title": "SMT-RAT: An SMT-Compliant Nonlinear Real Arithmetic Toolbox — (Tool Presentation)",
+	"status": "tool",
+	"stemmed": [
+		"smt",
+		"rat",
+		"an",
+		"smt",
+		"compliant",
+		"nonlinear",
+		"real",
+		"arithmet",
+		"toolbox",
+		"tool",
+		"present"
+	],
+	"tag": [
+		"named"
+	],
+	"title": "SMT-RAT: An SMT-Compliant Nonlinear Real Arithmetic Toolbox —",
 	"type": "inproceedings",
 	"venue": "ICST",
-	"volume": 7317,
+	"volume": "7317",
 	"year": 2012
 }

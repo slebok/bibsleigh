@@ -1,5 +1,9 @@
 {
-	"author": ["Rajeev Alur", "Costas Courcoubetis", "David L. Dill"],
+	"author": [
+		"Rajeev Alur",
+		"Costas Courcoubetis",
+		"David L. Dill"
+	],
 	"booktitle": "Proceedings of the 18th International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1991",
@@ -11,11 +15,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["model", "check", "for", "probabilist", "real", "time", "system", "extend", "abstract"],
-	"tag": ["model checking", "probability", "realtime"],
-	"title": "Model-Checking for Probabilistic Real-Time Systems (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"model",
+		"check",
+		"for",
+		"probabilist",
+		"real",
+		"time",
+		"system",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"model checking",
+		"probability",
+		"realtime"
+	],
+	"title": "Model-Checking for Probabilistic Real-Time Systems",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 510,
+	"volume": "510",
 	"year": 1991
 }

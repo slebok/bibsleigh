@@ -1,5 +1,8 @@
 {
-	"author": ["Piotr Berman", "Chris Coulston"],
+	"author": [
+		"Piotr Berman",
+		"Chris Coulston"
+	],
 	"booktitle": "Proceedings of the 29th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1997",
@@ -8,9 +11,24 @@
 	"ee": "http://doi.acm.org/10.1145/258533.258618",
 	"pages": "344-353",
 	"publisher": "ACM",
-	"stemmed": ["on", "line", "algorithm", "for", "steiner", "tree", "problem", "extend", "abstract"],
-	"tag": ["algorithm", "online", "problem"],
-	"title": "On-Line Algorithms for Steiner Tree Problems (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"on",
+		"line",
+		"algorithm",
+		"for",
+		"steiner",
+		"tree",
+		"problem",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"algorithm",
+		"online",
+		"problem"
+	],
+	"title": "On-Line Algorithms for Steiner Tree Problems",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1997

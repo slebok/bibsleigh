@@ -1,5 +1,10 @@
 {
-	"author": ["Zvi M. Kedem", "Krishna V. Palem", "Michael O. Rabin", "A. Raghunathan"],
+	"author": [
+		"Zvi M. Kedem",
+		"Krishna V. Palem",
+		"Michael O. Rabin",
+		"A. Raghunathan"
+	],
 	"booktitle": "Proceedings of the 24th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC24",
@@ -8,9 +13,26 @@
 	"ee": "http://doi.acm.org/10.1145/129712.129742",
 	"pages": "306-317",
 	"publisher": "ACM",
-	"stemmed": ["effici", "program", "transform", "for", "resili", "parallel", "comput", "via", "random", "preliminari", "version"],
-	"tag": ["parallel", "performance", "program transformation"],
-	"title": "Efficient Program Transformations for Resilient Parallel Computation via Randomization (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"effici",
+		"program",
+		"transform",
+		"for",
+		"resili",
+		"parallel",
+		"comput",
+		"via",
+		"random",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"parallel",
+		"performance",
+		"program transformation"
+	],
+	"title": "Efficient Program Transformations for Resilient Parallel Computation via Randomization",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1992

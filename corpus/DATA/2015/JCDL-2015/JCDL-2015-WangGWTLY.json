@@ -1,12 +1,5 @@
 {
-	"author": [
-		"Yuehan Wang",
-		"Liangcai Gao",
-		"Simeng Wang",
-		"Zhi Tang",
-		"Xiaozhong Liu",
-		"Ke Yuan"
-	],
+	"author": ["Yuehan Wang", "Liangcai Gao", "Simeng Wang", "Zhi Tang", "Xiaozhong Liu", "Ke Yuan"],
 	"booktitle": "Proceedings of the 15th Joint Conference on Digital Libraries",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2015",
@@ -14,10 +7,8 @@
 	"doi": "10.1145/2756406.2756918",
 	"pages": "173-182",
 	"publisher": "ACM",
-	"tag": [
-		"documentation",
-		"hybrid"
-	],
+	"stemmed": ["wiki", "mir", "a", "hybrid", "mir", "system", "base", "on", "the", "context", "structur", "and", "import", "of", "formula", "in", "a", "document"],
+	"tag": ["documentation", "hybrid"],
 	"title": "WikiMirs 3.0: A Hybrid MIR System Based on the Context, Structure and Importance of Formulae in a Document",
 	"type": "inproceedings",
 	"venue": "JCDL",

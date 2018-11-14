@@ -1,5 +1,8 @@
 {
-	"author": ["Chandra M. R. Kintala", "Patrick C. Fischer"],
+	"author": [
+		"Chandra M. R. Kintala",
+		"Patrick C. Fischer"
+	],
 	"booktitle": "Proceedings of the Ninth Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC9",
@@ -8,9 +11,24 @@
 	"ee": "http://doi.acm.org/10.1145/800105.803407",
 	"pages": "178-185",
 	"publisher": "ACM",
-	"stemmed": ["comput", "with", "a", "restrict", "number", "of", "nondeterminist", "step", "extend", "abstract"],
-	"tag": ["nondeterminism", "strict"],
-	"title": "Computations with a Restricted Number of Nondeterministic Steps (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"comput",
+		"with",
+		"a",
+		"restrict",
+		"number",
+		"of",
+		"nondeterminist",
+		"step",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"nondeterminism",
+		"strict"
+	],
+	"title": "Computations with a Restricted Number of Nondeterministic Steps",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1977

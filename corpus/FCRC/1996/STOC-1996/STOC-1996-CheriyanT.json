@@ -1,5 +1,8 @@
 {
-	"author": ["Joseph Cheriyan", "Ramakrishna Thurimella"],
+	"author": [
+		"Joseph Cheriyan",
+		"Ramakrishna Thurimella"
+	],
 	"booktitle": "Proceedings of the 28th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1996",
@@ -8,9 +11,26 @@
 	"ee": "http://doi.acm.org/10.1145/237814.237826",
 	"pages": "37-46",
 	"publisher": "ACM",
-	"stemmed": ["fast", "algorithm", "for", "k", "shredder", "and", "k", "node", "connect", "augment", "extend", "abstract"],
-	"tag": ["algorithm", "performance"],
-	"title": "Fast Algorithms for k-Shredders and k-Node Connectivity Augmentation (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"fast",
+		"algorithm",
+		"for",
+		"k",
+		"shredder",
+		"and",
+		"k",
+		"node",
+		"connect",
+		"augment",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"algorithm",
+		"performance"
+	],
+	"title": "Fast Algorithms for k-Shredders and k-Node Connectivity Augmentation",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1996

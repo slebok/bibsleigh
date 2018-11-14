@@ -1,5 +1,8 @@
 {
-	"author": ["George S. Sacerdote", "Richard L. Tenney"],
+	"author": [
+		"George S. Sacerdote",
+		"Richard L. Tenney"
+	],
 	"booktitle": "Proceedings of the Ninth Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC9",
@@ -8,9 +11,27 @@
 	"ee": "http://doi.acm.org/10.1145/800105.803396",
 	"pages": "61-76",
 	"publisher": "ACM",
-	"stemmed": ["the", "decid", "of", "the", "reachabl", "problem", "for", "vector", "addit", "system", "preliminari", "version"],
-	"tag": ["decidability", "problem", "reachability"],
-	"title": "The Decidability of the Reachability Problem for Vector Addition Systems (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"the",
+		"decid",
+		"of",
+		"the",
+		"reachabl",
+		"problem",
+		"for",
+		"vector",
+		"addit",
+		"system",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"decidability",
+		"problem",
+		"reachability"
+	],
+	"title": "The Decidability of the Reachability Problem for Vector Addition Systems",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1977

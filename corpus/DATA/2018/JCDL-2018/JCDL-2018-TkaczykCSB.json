@@ -1,10 +1,5 @@
 {
-	"author": [
-		"Dominika Tkaczyk",
-		"Andrew Collins",
-		"Paraic Sheridan",
-		"Jöran Beel"
-	],
+	"author": ["Dominika Tkaczyk", "Andrew Collins", "Paraic Sheridan", "Jöran Beel"],
 	"booktitle": "Proceedings of the 18th ACM/IEEE on Joint Conference on Digital Libraries, JCDL 2018, Fort Worth, TX, USA, June 03-07, 2018",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2018",
@@ -12,12 +7,8 @@
 	"doi": "10.1145/3197026.3197048",
 	"pages": "99-108",
 	"publisher": "ACM",
-	"tag": [
-		"evaluation",
-		"machine learning",
-		"open source",
-		"parsing"
-	],
+	"stemmed": ["machin", "learn", "vs", "rule", "and", "out", "of", "the", "box", "vs", "retrain", "an", "evalu", "of", "open", "sourc", "bibliograph", "refer", "and", "citat", "parser"],
+	"tag": ["evaluation", "machine learning", "open source", "parsing"],
 	"title": "Machine Learning vs. Rules and Out-of-the-Box vs. Retrained: An Evaluation of Open-Source Bibliographic Reference and Citation Parsers",
 	"type": "inproceedings",
 	"venue": "JCDL",

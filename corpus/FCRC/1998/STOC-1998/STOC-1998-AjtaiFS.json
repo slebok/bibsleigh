@@ -1,5 +1,9 @@
 {
-	"author": ["Miklós Ajtai", "Ronald Fagin", "Larry J. Stockmeyer"],
+	"author": [
+		"Miklós Ajtai",
+		"Ronald Fagin",
+		"Larry J. Stockmeyer"
+	],
 	"booktitle": "Proceedings of the 30th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1998",
@@ -8,9 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/276698.276771",
 	"pages": "309-318",
 	"publisher": "ACM",
-	"stemmed": ["the", "closur", "of", "monad", "np", "extend", "abstract"],
-	"tag": ["monad"],
-	"title": "The Closure of Monadic NP (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"the",
+		"closur",
+		"of",
+		"monad",
+		"np",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"monad"
+	],
+	"title": "The Closure of Monadic NP",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1998

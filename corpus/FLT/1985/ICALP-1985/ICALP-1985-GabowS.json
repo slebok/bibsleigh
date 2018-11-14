@@ -1,5 +1,8 @@
 {
-	"author": ["Harold N. Gabow", "Matthias F. M. Stallmann"],
+	"author": [
+		"Harold N. Gabow",
+		"Matthias F. M. Stallmann"
+	],
 	"booktitle": "Proceedings of the 12th Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1985",
@@ -11,11 +14,26 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["effici", "algorithm", "for", "graphic", "matroid", "intersect", "and", "pariti", "extend", "abstract"],
-	"tag": ["algorithm", "performance"],
-	"title": "Efficient Algorithms for Graphic Matroid Intersection and Parity (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"effici",
+		"algorithm",
+		"for",
+		"graphic",
+		"matroid",
+		"intersect",
+		"and",
+		"pariti",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"algorithm",
+		"performance"
+	],
+	"title": "Efficient Algorithms for Graphic Matroid Intersection and Parity",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 194,
+	"volume": "194",
 	"year": 1985
 }

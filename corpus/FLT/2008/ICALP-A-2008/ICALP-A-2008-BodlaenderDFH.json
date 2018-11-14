@@ -1,5 +1,10 @@
 {
-	"author": ["Hans L. Bodlaender", "Rodney G. Downey", "Michael R. Fellows", "Danny Hermelin"],
+	"author": [
+		"Hans L. Bodlaender",
+		"Rodney G. Downey",
+		"Michael R. Fellows",
+		"Danny Hermelin"
+	],
 	"booktitle": "Proceedings of the 35th International Colloquium on Automata, Languages and Programming, Track A: Algorithms, Automata, Complexity, and Games",
 	"booktitleshort": "ICALP (1)",
 	"crossref": "conf/icalp/2008-1",
@@ -11,11 +16,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["on", "problem", "without", "polynomi", "kernel", "extend", "abstract"],
-	"tag": ["kernel", "on the", "polynomial", "problem"],
-	"title": "On Problems without Polynomial Kernels (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"on",
+		"problem",
+		"without",
+		"polynomi",
+		"kernel",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"kernel",
+		"on the",
+		"polynomial",
+		"problem"
+	],
+	"title": "On Problems without Polynomial Kernels",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 5125,
+	"volume": "5125",
 	"year": 2008
 }

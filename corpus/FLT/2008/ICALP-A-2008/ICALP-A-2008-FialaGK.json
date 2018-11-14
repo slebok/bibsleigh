@@ -1,5 +1,9 @@
 {
-	"author": ["Jirí Fiala", "Petr A. Golovach", "Jan Kratochvíl"],
+	"author": [
+		"Jirí Fiala",
+		"Petr A. Golovach",
+		"Jan Kratochvíl"
+	],
 	"booktitle": "Proceedings of the 35th International Colloquium on Automata, Languages and Programming, Track A: Algorithms, Automata, Complexity, and Games",
 	"booktitleshort": "ICALP (1)",
 	"crossref": "conf/icalp/2008-1",
@@ -11,11 +15,29 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["comput", "complex", "of", "the", "distanc", "constrain", "label", "problem", "for", "tree", "extend", "abstract"],
-	"tag": ["complexity", "distance", "problem"],
-	"title": "Computational Complexity of the Distance Constrained Labeling Problem for Trees (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"comput",
+		"complex",
+		"of",
+		"the",
+		"distanc",
+		"constrain",
+		"label",
+		"problem",
+		"for",
+		"tree",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"complexity",
+		"distance",
+		"problem"
+	],
+	"title": "Computational Complexity of the Distance Constrained Labeling Problem for Trees",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 5125,
+	"volume": "5125",
 	"year": 2008
 }

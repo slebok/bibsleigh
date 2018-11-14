@@ -1,17 +1,41 @@
 {
-	"acmid": 807675,
+	"acmid": "807675",
 	"author": "David Gries",
 	"booktitle": "Proceedings of the Second International Conference on Software Engineering",
 	"booktitleshort": "ICSE",
 	"crossref": "conf/icse/1976",
 	"dblpkey": "conf/icse/Gries76",
-	"editor": ["Raymond T. Yeh", "C. V. Ramamoorthy"],
+	"editor": [
+		"Raymond T. Yeh",
+		"C. V. Ramamoorthy"
+	],
 	"pages": "200-200",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["an", "illustr", "of", "current", "idea", "on", "the", "deriv", "of", "correct", "proof", "and", "correct", "program", "abstract"],
-	"tag": ["correctness", "proving", "source code"],
-	"title": "An Illustration of Current Ideas on the Derivation of Correctness Proofs and Correct Programs (Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"an",
+		"illustr",
+		"of",
+		"current",
+		"idea",
+		"on",
+		"the",
+		"deriv",
+		"of",
+		"correct",
+		"proof",
+		"and",
+		"correct",
+		"program",
+		"abstract"
+	],
+	"tag": [
+		"correctness",
+		"proving",
+		"source code"
+	],
+	"title": "An Illustration of Current Ideas on the Derivation of Correctness Proofs and Correct Programs",
 	"type": "inproceedings",
 	"venue": "ICSE",
 	"year": 1976

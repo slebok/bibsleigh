@@ -1,5 +1,8 @@
 {
-	"author": ["Tsutomu Kamimura", "Giora Slutzki"],
+	"author": [
+		"Tsutomu Kamimura",
+		"Giora Slutzki"
+	],
 	"booktitle": "Proceedings of the Sixth Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1979",
@@ -11,11 +14,21 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["dag", "and", "chomski", "hierarchi", "extend", "abstract"],
-	"tag": ["graph"],
-	"title": "DAGs and Chomsky Hierarchy (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"dag",
+		"and",
+		"chomski",
+		"hierarchi",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"graph"
+	],
+	"title": "DAGs and Chomsky Hierarchy",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 71,
+	"volume": "71",
 	"year": 1979
 }

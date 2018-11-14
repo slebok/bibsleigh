@@ -1,5 +1,9 @@
 {
-	"author": ["Ronald V. Book", "Maurice Nivat", "Mike Paterson"],
+	"author": [
+		"Ronald V. Book",
+		"Maurice Nivat",
+		"Mike Paterson"
+	],
 	"booktitle": "Proceedings of the Sixth Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC6",
@@ -8,9 +12,29 @@
 	"ee": "http://doi.acm.org/10.1145/800119.803906",
 	"pages": "290-296",
 	"publisher": "ACM",
-	"stemmed": ["intersect", "of", "linear", "context", "free", "languag", "and", "revers", "bound", "multipushdown", "machin", "extend", "abstract"],
-	"tag": ["bound", "context-free grammar", "linear", "multi"],
-	"title": "Intersections of Linear Context-Free Languages and Reversal-Bounded Multipushdown Machines (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"intersect",
+		"of",
+		"linear",
+		"context",
+		"free",
+		"languag",
+		"and",
+		"revers",
+		"bound",
+		"multipushdown",
+		"machin",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"bound",
+		"context-free grammar",
+		"linear",
+		"multi"
+	],
+	"title": "Intersections of Linear Context-Free Languages and Reversal-Bounded Multipushdown Machines",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1974

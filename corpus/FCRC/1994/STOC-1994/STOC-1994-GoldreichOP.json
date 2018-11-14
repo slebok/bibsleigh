@@ -1,5 +1,9 @@
 {
-	"author": ["Oded Goldreich", "Rafail Ostrovsky", "Erez Petrank"],
+	"author": [
+		"Oded Goldreich",
+		"Rafail Ostrovsky",
+		"Erez Petrank"
+	],
 	"booktitle": "Proceedings of the 26th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC26",
@@ -8,9 +12,20 @@
 	"ee": "http://doi.acm.org/10.1145/195058.195406",
 	"pages": "534-543",
 	"publisher": "ACM",
-	"stemmed": ["comput", "complex", "and", "knowledg", "complex", "extend", "abstract"],
-	"tag": ["complexity"],
-	"title": "Computational complexity and knowledge complexity (extended abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"comput",
+		"complex",
+		"and",
+		"knowledg",
+		"complex",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"complexity"
+	],
+	"title": "Computational complexity and knowledge complexity",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1994

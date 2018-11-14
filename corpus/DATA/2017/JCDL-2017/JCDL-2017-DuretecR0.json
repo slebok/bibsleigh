@@ -1,10 +1,6 @@
 {
 	"acmid": "3200347",
-	"author": [
-		"Kresimir Duretec",
-		"Andreas Rauber",
-		"Christoph Becker 0001"
-	],
+	"author": ["Kresimir Duretec", "Andreas Rauber", "Christoph Becker 0001"],
 	"booktitle": "Proceedings of the 2017 ACM/IEEE Joint Conference on Digital Libraries",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2017",
@@ -13,11 +9,8 @@
 	"ee": "https://doi.org/10.1109/JCDL.2017.7991565",
 	"pages": "109-118",
 	"publisher": "IEEE Computer Society",
-	"tag": [
-		"benchmark",
-		"dataset",
-		"metric"
-	],
+	"stemmed": ["a", "text", "extract", "softwar", "benchmark", "base", "on", "a", "synthes", "dataset"],
+	"tag": ["benchmark", "dataset", "metric"],
 	"title": "A Text Extraction Software Benchmark Based on a Synthesized Dataset",
 	"type": "inproceedings",
 	"venue": "JCDL",

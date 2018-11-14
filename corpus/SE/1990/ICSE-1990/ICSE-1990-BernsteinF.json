@@ -1,18 +1,47 @@
 {
-	"acmid": 100340,
-	"author": ["David B. Bernstein", "Rodney Farrow"],
+	"acmid": "100340",
+	"author": [
+		"David B. Bernstein",
+		"Rodney Farrow"
+	],
 	"booktitle": "Proceedings of the 12th International Conference on Software Engineering",
 	"booktitleshort": "ICSE",
 	"crossref": "conf/icse/1990",
 	"dblpkey": "conf/icse/BernsteinF90",
-	"editor": ["François-Régis Valette", "Peter A. Freeman", "Marie-Claude Gaudel"],
+	"editor": [
+		"François-Régis Valette",
+		"Peter A. Freeman",
+		"Marie-Claude Gaudel"
+	],
 	"isbn": "0-8186-2026-9",
 	"pages": "310-315",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["automat", "mainten", "of", "routin", "program", "task", "base", "on", "a", "declar", "descript", "experi", "report"],
-	"tag": ["automation", "case study", "declarative", "experience", "maintenance", "programming"],
-	"title": "Automatic Maintenance of Routine Programming Tasks Based on a Declarative Description (Experience Report)",
+	"status": "report",
+	"stemmed": [
+		"automat",
+		"mainten",
+		"of",
+		"routin",
+		"program",
+		"task",
+		"base",
+		"on",
+		"a",
+		"declar",
+		"descript",
+		"experi",
+		"report"
+	],
+	"tag": [
+		"automation",
+		"case study",
+		"declarative",
+		"experience",
+		"maintenance",
+		"programming"
+	],
+	"title": "Automatic Maintenance of Routine Programming Tasks Based on a Declarative Description",
 	"type": "inproceedings",
 	"venue": "ICSE",
 	"year": 1990

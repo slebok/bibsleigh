@@ -1,5 +1,8 @@
 {
-	"author": ["Uriel Feige", "Christian Scheideler"],
+	"author": [
+		"Uriel Feige",
+		"Christian Scheideler"
+	],
 	"booktitle": "Proceedings of the 30th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1998",
@@ -8,9 +11,23 @@
 	"ee": "http://doi.acm.org/10.1145/276698.276878",
 	"pages": "624-633",
 	"publisher": "ACM",
-	"stemmed": ["improv", "bound", "for", "acycl", "job", "shop", "schedul", "extend", "abstract"],
-	"tag": ["bound", "scheduling"],
-	"title": "Improved Bounds for Acyclic Job Shop Scheduling (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"improv",
+		"bound",
+		"for",
+		"acycl",
+		"job",
+		"shop",
+		"schedul",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"bound",
+		"scheduling"
+	],
+	"title": "Improved Bounds for Acyclic Job Shop Scheduling",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1998

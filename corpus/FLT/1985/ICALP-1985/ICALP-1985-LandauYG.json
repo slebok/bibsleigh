@@ -1,5 +1,9 @@
 {
-	"author": ["Gad M. Landau", "Mordechai M. Yung", "Zvi Galil"],
+	"author": [
+		"Gad M. Landau",
+		"Mordechai M. Yung",
+		"Zvi Galil"
+	],
 	"booktitle": "Proceedings of the 12th Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1985",
@@ -11,11 +15,25 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["distribut", "algorithm", "in", "synchron", "broadcast", "network", "extend", "abstract"],
-	"tag": ["algorithm", "distributed", "network"],
-	"title": "Distributed Algorithms in Synchronous Broadcasting Networks (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"distribut",
+		"algorithm",
+		"in",
+		"synchron",
+		"broadcast",
+		"network",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"algorithm",
+		"distributed",
+		"network"
+	],
+	"title": "Distributed Algorithms in Synchronous Broadcasting Networks",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 194,
+	"volume": "194",
 	"year": 1985
 }

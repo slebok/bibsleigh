@@ -1,5 +1,8 @@
 {
-	"author": ["Ashok K. Chandra", "David Harel"],
+	"author": [
+		"Ashok K. Chandra",
+		"David Harel"
+	],
 	"booktitle": "Proceedings of the 11th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC11",
@@ -8,9 +11,23 @@
 	"ee": "http://doi.acm.org/10.1145/800135.804423",
 	"pages": "309-318",
 	"publisher": "ACM",
-	"stemmed": ["comput", "queri", "for", "relat", "data", "base", "preliminari", "report"],
-	"tag": ["database", "query", "relational"],
-	"title": "Computable Queries for Relational Data Bases (Preliminary Report)",
+	"status": "work in progress",
+	"stemmed": [
+		"comput",
+		"queri",
+		"for",
+		"relat",
+		"data",
+		"base",
+		"preliminari",
+		"report"
+	],
+	"tag": [
+		"database",
+		"query",
+		"relational"
+	],
+	"title": "Computable Queries for Relational Data Bases",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1979

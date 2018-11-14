@@ -1,5 +1,8 @@
 {
-	"author": ["E. Allen Emerson", "Kedar S. Namjoshi"],
+	"author": [
+		"E. Allen Emerson",
+		"Kedar S. Namjoshi"
+	],
 	"booktitle": "Proceedings of the Eighth International Conference on Computer Aided Verification",
 	"booktitleshort": "CAV",
 	"crossref": "conf/cav/1996",
@@ -11,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["automat", "verif", "of", "parameter", "synchron", "system", "extend", "abstract"],
-	"tag": ["automation", "verification"],
-	"title": "Automatic Verification of Parameterized Synchronous Systems (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"automat",
+		"verif",
+		"of",
+		"parameter",
+		"synchron",
+		"system",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"automation",
+		"verification"
+	],
+	"title": "Automatic Verification of Parameterized Synchronous Systems",
 	"type": "inproceedings",
 	"venue": "CAV",
-	"volume": 1102,
+	"volume": "1102",
 	"year": 1996
 }

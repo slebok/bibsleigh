@@ -1,5 +1,8 @@
 {
-	"author": ["Alok Aggarwal", "Ashok K. Chandra"],
+	"author": [
+		"Alok Aggarwal",
+		"Ashok K. Chandra"
+	],
 	"booktitle": "Proceedings of the 20th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC20",
@@ -8,9 +11,19 @@
 	"ee": "http://doi.acm.org/10.1145/62212.62227",
 	"pages": "173-185",
 	"publisher": "ACM",
-	"stemmed": ["virtual", "memori", "algorithm", "preliminari", "version"],
-	"tag": ["algorithm", "memory management"],
-	"title": "Virtual Memory Algorithms (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"virtual",
+		"memori",
+		"algorithm",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"algorithm",
+		"memory management"
+	],
+	"title": "Virtual Memory Algorithms",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1988

@@ -1,10 +1,5 @@
 {
-	"author": [
-		"Xinran Chen",
-		"Sei-Ching Joanna Sin",
-		"Yin-Leng Theng",
-		"Chei Sian Lee"
-	],
+	"author": ["Xinran Chen", "Sei-Ching Joanna Sin", "Yin-Leng Theng", "Chei Sian Lee"],
 	"booktitle": "Proceedings of the 15th Joint Conference on Digital Libraries",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2015",
@@ -12,12 +7,8 @@
 	"doi": "10.1145/2756406.2756941",
 	"pages": "111-114",
 	"publisher": "ACM",
-	"tag": [
-		"question",
-		"social",
-		"social media",
-		"why"
-	],
+	"stemmed": ["whi", "do", "social", "media", "user", "share", "misinform"],
+	"tag": ["question", "social", "social media", "why"],
 	"title": "Why Do Social Media Users Share Misinformation?",
 	"type": "inproceedings",
 	"venue": "JCDL",

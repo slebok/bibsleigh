@@ -1,5 +1,8 @@
 {
-	"author": ["Edith Cohen", "Nimrod Megiddo"],
+	"author": [
+		"Edith Cohen",
+		"Nimrod Megiddo"
+	],
 	"booktitle": "Proceedings of the 23rd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC23",
@@ -8,9 +11,27 @@
 	"ee": "http://doi.acm.org/10.1145/103418.103438",
 	"pages": "145-155",
 	"publisher": "ACM",
-	"stemmed": ["improv", "algorithm", "for", "linear", "inequ", "with", "two", "variabl", "per", "inequ", "extend", "abstract"],
-	"tag": ["algorithm", "difference", "linear"],
-	"title": "Improved Algorithms for Linear Inequalities with Two Variables per Inequality (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"improv",
+		"algorithm",
+		"for",
+		"linear",
+		"inequ",
+		"with",
+		"two",
+		"variabl",
+		"per",
+		"inequ",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"algorithm",
+		"difference",
+		"linear"
+	],
+	"title": "Improved Algorithms for Linear Inequalities with Two Variables per Inequality",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1991

@@ -6,11 +6,33 @@
 	"dblpkey": "conf/pepm/Das00",
 	"doi": "10.1145/328690.328692",
 	"ee": "http://doi.acm.org/10.1145/328690.328692",
-	"pages": 1,
+	"pages": "1",
 	"publisher": "ACM",
-	"stemmed": ["static", "analysi", "of", "larg", "program", "some", "experi", "abstract", "of", "invit", "talk"],
-	"tag": ["case study", "experience", "scalability", "source code", "static analysis"],
-	"title": "Static Analysis of Large Programs: Some Experiences (Abstract of Invited Talk)",
+	"status": [
+		"invited",
+		"abstract"
+	],
+	"stemmed": [
+		"static",
+		"analysi",
+		"of",
+		"larg",
+		"program",
+		"some",
+		"experi",
+		"abstract",
+		"of",
+		"invit",
+		"talk"
+	],
+	"tag": [
+		"case study",
+		"experience",
+		"scalability",
+		"source code",
+		"static analysis"
+	],
+	"title": "Static Analysis of Large Programs: Some Experiences",
 	"type": "inproceedings",
 	"venue": "PEPM",
 	"year": 2000

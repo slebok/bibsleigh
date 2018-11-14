@@ -1,5 +1,8 @@
 {
-	"author": ["Joos Heintz", "Claus-Peter Schnorr"],
+	"author": [
+		"Joos Heintz",
+		"Claus-Peter Schnorr"
+	],
 	"booktitle": "Proceedings of the 12th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC12",
@@ -8,9 +11,22 @@
 	"ee": "http://doi.acm.org/10.1145/800141.804674",
 	"pages": "262-272",
 	"publisher": "ACM",
-	"stemmed": ["test", "polynomi", "which", "are", "easi", "to", "comput", "extend", "abstract"],
-	"tag": ["testing"],
-	"title": "Testing Polynomials which Are Easy to Compute (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"test",
+		"polynomi",
+		"which",
+		"are",
+		"easi",
+		"to",
+		"comput",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"testing"
+	],
+	"title": "Testing Polynomials which Are Easy to Compute",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1980

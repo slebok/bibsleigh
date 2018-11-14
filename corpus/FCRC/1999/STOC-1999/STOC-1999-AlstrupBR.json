@@ -1,5 +1,9 @@
 {
-	"author": ["Stephen Alstrup", "Amir M. Ben-Amram", "Theis Rauhe"],
+	"author": [
+		"Stephen Alstrup",
+		"Amir M. Ben-Amram",
+		"Theis Rauhe"
+	],
 	"booktitle": "Proceedings of the 31st Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1999",
@@ -8,9 +12,23 @@
 	"ee": "http://doi.acm.org/10.1145/301250.301383",
 	"pages": "499-506",
 	"publisher": "ACM",
-	"stemmed": ["worst", "case", "and", "amortis", "optim", "in", "union", "find", "extend", "abstract"],
-	"tag": ["worst-case"],
-	"title": "Worst-Case and Amortised Optimality in Union-Find (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"worst",
+		"case",
+		"and",
+		"amortis",
+		"optim",
+		"in",
+		"union",
+		"find",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"worst-case"
+	],
+	"title": "Worst-Case and Amortised Optimality in Union-Find",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1999

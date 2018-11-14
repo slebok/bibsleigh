@@ -6,11 +6,23 @@
 	"dblpkey": "conf/pldi/Appel15",
 	"doi": "10.1145/2737924.2774972",
 	"ee": "http://doi.acm.org/10.1145/2737924.2774972",
-	"pages": 153,
+	"pages": "153",
 	"publisher": "ACM",
-	"stemmed": ["verif", "of", "a", "cryptograph", "primit", "sha", "abstract"],
-	"tag": ["encryption", "verification"],
-	"title": "Verification of a cryptographic primitive: SHA-256 (abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"verif",
+		"of",
+		"a",
+		"cryptograph",
+		"primit",
+		"sha",
+		"abstract"
+	],
+	"tag": [
+		"encryption",
+		"verification"
+	],
+	"title": "Verification of a cryptographic primitive: SHA-256",
 	"type": "inproceedings",
 	"venue": "PLDI",
 	"year": 2015

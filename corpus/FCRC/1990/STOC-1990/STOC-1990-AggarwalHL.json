@@ -1,5 +1,9 @@
 {
-	"author": ["Alok Aggarwal", "Mark Hansen", "Frank Thomson Leighton"],
+	"author": [
+		"Alok Aggarwal",
+		"Mark Hansen",
+		"Frank Thomson Leighton"
+	],
 	"booktitle": "Proceedings of the 22nd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC22",
@@ -8,9 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/100216.100260",
 	"pages": "331-340",
 	"publisher": "ACM",
-	"stemmed": ["solv", "queri", "retriev", "problem", "by", "compact", "voronoi", "diagram", "extend", "abstract"],
-	"tag": ["diagrams", "problem"],
-	"title": "Solving Query-Retrieval Problems by Compacting Voronoi Diagrams (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"solv",
+		"queri",
+		"retriev",
+		"problem",
+		"by",
+		"compact",
+		"voronoi",
+		"diagram",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"diagrams",
+		"problem"
+	],
+	"title": "Solving Query-Retrieval Problems by Compacting Voronoi Diagrams",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1990

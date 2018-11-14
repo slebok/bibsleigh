@@ -1,5 +1,8 @@
 {
-	"author": ["Andrew Chi-Chih Yao", "F. Frances Yao"],
+	"author": [
+		"Andrew Chi-Chih Yao",
+		"F. Frances Yao"
+	],
 	"booktitle": "Proceedings of the 17th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC17",
@@ -8,9 +11,25 @@
 	"ee": "http://doi.acm.org/10.1145/22145.22163",
 	"pages": "163-168",
 	"publisher": "ACM",
-	"stemmed": ["a", "general", "approach", "to", "d", "dimension", "geometr", "queri", "extend", "abstract"],
-	"tag": ["approach", "geometry", "query"],
-	"title": "A General Approach to d-Dimensional Geometric Queries (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"a",
+		"general",
+		"approach",
+		"to",
+		"d",
+		"dimension",
+		"geometr",
+		"queri",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"approach",
+		"geometry",
+		"query"
+	],
+	"title": "A General Approach to d-Dimensional Geometric Queries",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1985

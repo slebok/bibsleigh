@@ -1,5 +1,8 @@
 {
-	"author": ["Ran Canetti", "Rafail Ostrovsky"],
+	"author": [
+		"Ran Canetti",
+		"Rafail Ostrovsky"
+	],
 	"booktitle": "Proceedings of the 31st Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1999",
@@ -8,9 +11,27 @@
 	"ee": "http://doi.acm.org/10.1145/301250.301313",
 	"pages": "255-264",
 	"publisher": "ACM",
-	"stemmed": ["secur", "comput", "with", "honest", "look", "parti", "what", "if", "nobodi", "is", "truli", "honest", "extend", "abstract"],
-	"tag": ["what"],
-	"title": "Secure Computation with Honest-Looking Parties: What If Nobody Is Truly Honest? (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"secur",
+		"comput",
+		"with",
+		"honest",
+		"look",
+		"parti",
+		"what",
+		"if",
+		"nobodi",
+		"is",
+		"truli",
+		"honest",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"what"
+	],
+	"title": "Secure Computation with Honest-Looking Parties: What If Nobody Is Truly Honest?",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1999

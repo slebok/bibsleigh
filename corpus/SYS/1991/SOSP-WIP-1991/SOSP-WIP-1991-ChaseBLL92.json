@@ -1,17 +1,37 @@
 {
-	"author": ["Jeffrey S. Chase", "Miche Baker-Harvey", "Henry M. Levy", "Edward D. Lazowska"],
+	"author": [
+		"Jeffrey S. Chase",
+		"Miche Baker-Harvey",
+		"Henry M. Levy",
+		"Edward D. Lazowska"
+	],
 	"dblpkey": "journals/sigops/ChaseBLL92",
 	"doi": "10.1145/142111.964562",
 	"ee": "http://doi.acm.org/10.1145/142111.964562",
 	"journal": "Operating Systems Review",
-	"number": 2,
-	"pages": 9,
+	"number": "2",
+	"pages": "9",
 	"publisher": "ACM",
-	"stemmed": ["opal", "a", "singl", "address", "space", "system", "for", "bit", "architectur", "abstract"],
-	"tag": ["architecture", "named"],
-	"title": "Opal: A Single Address Space System for 64-Bit Architectures (Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"opal",
+		"a",
+		"singl",
+		"address",
+		"space",
+		"system",
+		"for",
+		"bit",
+		"architectur",
+		"abstract"
+	],
+	"tag": [
+		"architecture",
+		"named"
+	],
+	"title": "Opal: A Single Address Space System for 64-Bit Architectures",
 	"type": "article",
 	"venue": "SOSP",
-	"volume": 26,
+	"volume": "26",
 	"year": 1992
 }

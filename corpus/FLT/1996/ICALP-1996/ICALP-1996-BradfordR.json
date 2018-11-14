@@ -1,5 +1,8 @@
 {
-	"author": ["Phillip G. Bradford", "Knut Reinert"],
+	"author": [
+		"Phillip G. Bradford",
+		"Knut Reinert"
+	],
 	"booktitle": "Proceedings of the 23rd International Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1996",
@@ -11,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["lower", "bound", "for", "row", "minima", "search", "extend", "abstract"],
-	"tag": ["bound"],
-	"title": "Lower Bounds for Row Minima Searching (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"lower",
+		"bound",
+		"for",
+		"row",
+		"minima",
+		"search",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"bound"
+	],
+	"title": "Lower Bounds for Row Minima Searching",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 1099,
+	"volume": "1099",
 	"year": 1996
 }

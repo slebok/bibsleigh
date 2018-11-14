@@ -1,15 +1,26 @@
 {
-	"author": ["Dennis Ritchie", "Ken Thompson"],
+	"author": [
+		"Dennis Ritchie",
+		"Ken Thompson"
+	],
 	"booktitle": "Proceedings of the Fourth Symposium on Operating System Principles",
 	"booktitleshort": "SOSP",
 	"crossref": "conf/sosp/1973",
 	"dblpkey": "conf/sosp/RitchieT73",
 	"doi": "10.1145/800009.808045",
 	"ee": "http://doi.acm.org/10.1145/800009.808045",
-	"pages": 27,
+	"pages": "27",
 	"publisher": "ACM",
-	"stemmed": ["the", "unix", "time", "share", "system", "abstract"],
-	"title": "The UNIX Time-Sharing System (Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"the",
+		"unix",
+		"time",
+		"share",
+		"system",
+		"abstract"
+	],
+	"title": "The UNIX Time-Sharing System",
 	"type": "inproceedings",
 	"venue": "SOSP",
 	"year": 1973

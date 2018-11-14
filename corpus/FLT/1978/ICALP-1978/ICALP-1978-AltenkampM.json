@@ -1,5 +1,8 @@
 {
-	"author": ["Doris Altenkamp", "Kurt Mehlhorn"],
+	"author": [
+		"Doris Altenkamp",
+		"Kurt Mehlhorn"
+	],
 	"booktitle": "Proceedings of the Fifth Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1978",
@@ -11,11 +14,23 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["code", "unequ", "probabl", "unequ", "letter", "cost", "extend", "abstract"],
-	"tag": ["named"],
-	"title": "Codes: Unequal Probabilities, Unequal Letter Costs (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"code",
+		"unequ",
+		"probabl",
+		"unequ",
+		"letter",
+		"cost",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"named"
+	],
+	"title": "Codes: Unequal Probabilities, Unequal Letter Costs",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 62,
+	"volume": "62",
 	"year": 1978
 }

@@ -1,17 +1,39 @@
 {
-	"author": ["Hubert Comon", "Robert Nieuwenhuis", "Albert Rubio"],
+	"author": [
+		"Hubert Comon",
+		"Robert Nieuwenhuis",
+		"Albert Rubio"
+	],
 	"booktitle": "Proceedings of the 10th Annual IEEE Symposium on Logic in Computer Science",
 	"booktitleshort": "LICS",
 	"crossref": "conf/lics/1995",
 	"dblpkey": "conf/lics/ComonNR95",
 	"doi": "10.1109/LICS.1995.523272",
-	"ee": ["http://dx.doi.org/10.1109/LICS.1995.523272", "http://doi.ieeecomputersociety.org/10.1109/LICS.1995.523272"],
+	"ee": [
+		"http://dx.doi.org/10.1109/LICS.1995.523272",
+		"http://doi.ieeecomputersociety.org/10.1109/LICS.1995.523272"
+	],
 	"pages": "375-385",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": ["order", "ac", "theori", "and", "symbol", "constraint", "solv", "extend", "abstract"],
-	"tag": ["constraints", "order", "theorem proving"],
-	"title": "Orderings, AC-Theories and Symbolic Constraint Solving (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"order",
+		"ac",
+		"theori",
+		"and",
+		"symbol",
+		"constraint",
+		"solv",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"constraints",
+		"order",
+		"theorem proving"
+	],
+	"title": "Orderings, AC-Theories and Symbolic Constraint Solving",
 	"type": "inproceedings",
 	"venue": "LICS",
 	"year": 1995

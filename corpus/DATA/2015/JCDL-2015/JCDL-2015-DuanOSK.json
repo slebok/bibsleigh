@@ -1,10 +1,5 @@
 {
-	"author": [
-		"Lei Duan",
-		"Satoshi Oyama",
-		"Haruhiko Sato",
-		"Masahito Kurihara"
-	],
+	"author": ["Lei Duan", "Satoshi Oyama", "Haruhiko Sato", "Masahito Kurihara"],
 	"booktitle": "Proceedings of the 15th Joint Conference on Digital Libraries",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2015",
@@ -12,11 +7,8 @@
 	"doi": "10.1145/2756406.2756910",
 	"pages": "91-100",
 	"publisher": "ACM",
-	"tag": [
-		"crowdsourcing",
-		"estimation",
-		"multi"
-	],
+	"stemmed": ["multi", "emot", "estim", "in", "narrat", "from", "crowdsourc", "annot"],
+	"tag": ["crowdsourcing", "estimation", "multi"],
 	"title": "Multi-Emotion Estimation in Narratives from Crowdsourced Annotations",
 	"type": "inproceedings",
 	"venue": "JCDL",

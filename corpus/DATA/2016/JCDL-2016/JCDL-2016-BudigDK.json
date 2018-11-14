@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Benedikt Budig",
-		"Thomas C. van Dijk",
-		"Felix Kirchner"
-	],
+	"author": ["Benedikt Budig", "Thomas C. van Dijk", "Felix Kirchner"],
 	"booktitle": "Proceedings of the 16th Joint Conference on Digital Libraries",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2016",
@@ -12,9 +8,8 @@
 	"ee": "http://ieeexplore.ieee.org/document/7559561/",
 	"pages": "31-34",
 	"publisher": "ACM",
-	"tag": [
-		"mining"
-	],
+	"stemmed": ["glyph", "miner", "a", "system", "for", "effici", "extract", "glyph", "from", "earli", "print", "in", "the", "context", "of", "ocr"],
+	"tag": ["mining"],
 	"title": "Glyph Miner: A System for Efficiently Extracting Glyphs from Early Prints in the Context of OCR",
 	"type": "inproceedings",
 	"venue": "JCDL",

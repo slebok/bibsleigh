@@ -1,5 +1,14 @@
 {
-	"author": ["David D. Redell", "Yogen K. Dalal", "Thomas R. Horsley", "Hugh C. Lauer", "William C. Lynch", "Paul R. McJones", "Hal G. Murray", "Stephen C. Purcell"],
+	"author": [
+		"David D. Redell",
+		"Yogen K. Dalal",
+		"Thomas R. Horsley",
+		"Hugh C. Lauer",
+		"William C. Lynch",
+		"Paul R. McJones",
+		"Hal G. Murray",
+		"Stephen C. Purcell"
+	],
 	"booktitle": "Proceedings of the Seventh Symposium on Operating System Principles",
 	"booktitleshort": "SOSP",
 	"crossref": "conf/sosp/1979",
@@ -9,9 +18,24 @@
 	"note": "long version: CACM 23(2)",
 	"pages": "106-107",
 	"publisher": "ACM",
-	"stemmed": ["pilot", "an", "oper", "system", "for", "a", "person", "comput", "summari"],
-	"tag": ["named", "operating system", "summary"],
-	"title": "Pilot: An Operating System for a Personal Computer (Summary)",
+	"status": "abstract",
+	"stemmed": [
+		"pilot",
+		"an",
+		"oper",
+		"system",
+		"for",
+		"a",
+		"person",
+		"comput",
+		"summari"
+	],
+	"tag": [
+		"named",
+		"operating system",
+		"summary"
+	],
+	"title": "Pilot: An Operating System for a Personal Computer",
 	"type": "inproceedings",
 	"venue": "SOSP",
 	"year": 1979

@@ -1,5 +1,10 @@
 {
-	"author": ["Moses Charikar", "Sudipto Guha", "Éva Tardos", "David B. Shmoys"],
+	"author": [
+		"Moses Charikar",
+		"Sudipto Guha",
+		"Éva Tardos",
+		"David B. Shmoys"
+	],
 	"booktitle": "Proceedings of the 31st Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1999",
@@ -8,9 +13,27 @@
 	"ee": "http://doi.acm.org/10.1145/301250.301257",
 	"pages": "1-10",
 	"publisher": "ACM",
-	"stemmed": ["a", "constant", "factor", "approxim", "algorithm", "for", "the", "k", "median", "problem", "extend", "abstract"],
-	"tag": ["algorithm", "approximate", "problem"],
-	"title": "A Constant-Factor Approximation Algorithm for the k-Median Problem (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"a",
+		"constant",
+		"factor",
+		"approxim",
+		"algorithm",
+		"for",
+		"the",
+		"k",
+		"median",
+		"problem",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"algorithm",
+		"approximate",
+		"problem"
+	],
+	"title": "A Constant-Factor Approximation Algorithm for the k-Median Problem",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1999

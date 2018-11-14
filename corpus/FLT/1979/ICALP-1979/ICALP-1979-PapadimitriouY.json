@@ -1,5 +1,8 @@
 {
-	"author": ["Christos H. Papadimitriou", "Mihalis Yannakakis"],
+	"author": [
+		"Christos H. Papadimitriou",
+		"Mihalis Yannakakis"
+	],
 	"booktitle": "Proceedings of the Sixth Colloquium on Automata, Languages and Programming",
 	"booktitleshort": "ICALP",
 	"crossref": "conf/icalp/1979",
@@ -11,11 +14,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "complex", "of", "restrict", "minimum", "span", "tree", "problem", "extend", "abstract"],
-	"tag": ["complexity", "problem", "strict"],
-	"title": "The Complexity of Restricted Minimum Spanning Tree Problems (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"the",
+		"complex",
+		"of",
+		"restrict",
+		"minimum",
+		"span",
+		"tree",
+		"problem",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"complexity",
+		"problem",
+		"strict"
+	],
+	"title": "The Complexity of Restricted Minimum Spanning Tree Problems",
 	"type": "inproceedings",
 	"venue": "ICALP",
-	"volume": 71,
+	"volume": "71",
 	"year": 1979
 }

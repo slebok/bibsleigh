@@ -1,5 +1,8 @@
 {
-	"author": ["Dimitrios Vytiniotis", "Simon L. Peyton Jones"],
+	"author": [
+		"Dimitrios Vytiniotis",
+		"Simon L. Peyton Jones"
+	],
 	"booktitle": "Proceedings of the 24th International Conference on Rewriting Techniques and Applications",
 	"booktitleshort": "RTA",
 	"crossref": "conf/rta/2013",
@@ -13,11 +16,22 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": ["evid", "normal", "in", "system", "fc", "invit", "talk"],
-	"tag": ["normalisation"],
-	"title": "Evidence Normalization in System FC (Invited Talk)",
+	"status": "invited",
+	"stemmed": [
+		"evid",
+		"normal",
+		"in",
+		"system",
+		"fc",
+		"invit",
+		"talk"
+	],
+	"tag": [
+		"normalisation"
+	],
+	"title": "Evidence Normalization in System FC",
 	"type": "inproceedings",
 	"venue": "RTA",
-	"volume": 21,
+	"volume": "21",
 	"year": 2013
 }

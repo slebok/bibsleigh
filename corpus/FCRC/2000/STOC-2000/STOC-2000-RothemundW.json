@@ -1,5 +1,8 @@
 {
-	"author": ["Paul W. K. Rothemund", "Erik Winfree"],
+	"author": [
+		"Paul W. K. Rothemund",
+		"Erik Winfree"
+	],
 	"booktitle": "Proceedings of the 32nd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/2000",
@@ -8,9 +11,24 @@
 	"ee": "http://doi.acm.org/10.1145/335305.335358",
 	"pages": "459-468",
 	"publisher": "ACM",
-	"stemmed": ["the", "program", "size", "complex", "of", "self", "assembl", "squar", "extend", "abstract"],
-	"tag": ["complexity", "self"],
-	"title": "The program-size complexity of self-assembled squares (extended abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"the",
+		"program",
+		"size",
+		"complex",
+		"of",
+		"self",
+		"assembl",
+		"squar",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"complexity",
+		"self"
+	],
+	"title": "The program-size complexity of self-assembled squares",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 2000

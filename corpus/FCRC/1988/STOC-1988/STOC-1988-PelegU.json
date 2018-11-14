@@ -1,5 +1,8 @@
 {
-	"author": ["David Peleg", "Eli Upfal"],
+	"author": [
+		"David Peleg",
+		"Eli Upfal"
+	],
 	"booktitle": "Proceedings of the 20th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC20",
@@ -8,9 +11,25 @@
 	"ee": "http://doi.acm.org/10.1145/62212.62217",
 	"pages": "43-52",
 	"publisher": "ACM",
-	"stemmed": ["a", "tradeoff", "between", "space", "and", "effici", "for", "rout", "tabl", "extend", "abstract"],
-	"tag": ["performance", "trade-off"],
-	"title": "A Tradeoff between Space and Efficiency for Routing Tables (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"a",
+		"tradeoff",
+		"between",
+		"space",
+		"and",
+		"effici",
+		"for",
+		"rout",
+		"tabl",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"performance",
+		"trade-off"
+	],
+	"title": "A Tradeoff between Space and Efficiency for Routing Tables",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1988

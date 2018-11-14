@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Adam K. Kehoe",
-		"Vetle I. Torvik"
-	],
+	"author": ["Adam K. Kehoe", "Vetle I. Torvik"],
 	"booktitle": "Proceedings of the 16th Joint Conference on Digital Libraries",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2016",
@@ -11,10 +8,8 @@
 	"ee": "http://ieeexplore.ieee.org/document/7559580/",
 	"pages": "167-170",
 	"publisher": "ACM",
-	"tag": [
-		"predict",
-		"similarity"
-	],
+	"stemmed": ["predict", "medic", "subject", "head", "base", "on", "abstract", "similar", "and", "citat", "to", "medlin", "record"],
+	"tag": ["predict", "similarity"],
 	"title": "Predicting Medical Subject Headings Based on Abstract Similarity and Citations to MEDLINE Records",
 	"type": "inproceedings",
 	"venue": "JCDL",

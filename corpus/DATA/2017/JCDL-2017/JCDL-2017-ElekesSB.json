@@ -1,10 +1,6 @@
 {
 	"acmid": "3200350",
-	"author": [
-		"Abel Elekes",
-		"Martin Schäler",
-		"Klemens Böhm"
-	],
+	"author": ["Abel Elekes", "Martin Schäler", "Klemens Böhm"],
 	"booktitle": "Proceedings of the 2017 ACM/IEEE Joint Conference on Digital Libraries",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2017",
@@ -13,13 +9,8 @@
 	"ee": "https://doi.org/10.1109/JCDL.2017.7991568",
 	"pages": "139-148",
 	"publisher": "IEEE Computer Society",
-	"tag": [
-		"modelling",
-		"on the",
-		"semantics",
-		"similarity",
-		"word"
-	],
+	"stemmed": ["on", "the", "various", "semant", "of", "similar", "in", "word", "embed", "model"],
+	"tag": ["modelling", "on the", "semantics", "similarity", "word"],
 	"title": "On the Various Semantics of Similarity in Word Embedding Models",
 	"type": "inproceedings",
 	"venue": "JCDL",

@@ -1,5 +1,8 @@
 {
-	"author": ["Parosh Aziz Abdulla", "Bengt Jonsson"],
+	"author": [
+		"Parosh Aziz Abdulla",
+		"Bengt Jonsson"
+	],
 	"booktitle": "Proceedings of the Fourth International Conference on Tools and Algorithms for the Construction and Analysis of Systems",
 	"booktitleshort": "TACAS",
 	"crossref": "conf/tacas/1998",
@@ -11,11 +14,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["verifi", "network", "of", "time", "process", "extend", "abstract"],
-	"tag": ["network", "process", "verification"],
-	"title": "Verifying Networks of Timed Processes (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"verifi",
+		"network",
+		"of",
+		"time",
+		"process",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"network",
+		"process",
+		"verification"
+	],
+	"title": "Verifying Networks of Timed Processes",
 	"type": "inproceedings",
 	"venue": "TACAS",
-	"volume": 1384,
+	"volume": "1384",
 	"year": 1998
 }

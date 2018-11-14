@@ -1,5 +1,9 @@
 {
-	"author": ["Orna Bernholtz", "Moshe Y. Vardi", "Pierre Wolper"],
+	"author": [
+		"Orna Bernholtz",
+		"Moshe Y. Vardi",
+		"Pierre Wolper"
+	],
 	"booktitle": "Proceedings of the Sixth International Conference on Computer Aided Verification",
 	"booktitleshort": "CAV",
 	"crossref": "conf/cav/1994",
@@ -11,11 +15,27 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["an", "automata", "theoret", "approach", "to", "branch", "time", "model", "check", "extend", "abstract"],
-	"tag": ["approach", "model checking"],
-	"title": "An Automata-Theoretic Approach to Branching-Time Model Checking (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"an",
+		"automata",
+		"theoret",
+		"approach",
+		"to",
+		"branch",
+		"time",
+		"model",
+		"check",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"approach",
+		"model checking"
+	],
+	"title": "An Automata-Theoretic Approach to Branching-Time Model Checking",
 	"type": "inproceedings",
 	"venue": "CAV",
-	"volume": 818,
+	"volume": "818",
 	"year": 1994
 }

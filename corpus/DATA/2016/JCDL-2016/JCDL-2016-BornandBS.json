@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Nicolas J. Bornand",
-		"Lyudmila Balakireva",
-		"Herbert Van de Sompel"
-	],
+	"author": ["Nicolas J. Bornand", "Lyudmila Balakireva", "Herbert Van de Sompel"],
 	"booktitle": "Proceedings of the 16th Joint Conference on Digital Libraries",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2016",
@@ -12,10 +8,8 @@
 	"ee": "http://ieeexplore.ieee.org/document/7559566/",
 	"pages": "63-72",
 	"publisher": "ACM",
-	"tag": [
-		"classification",
-		"using"
-	],
+	"stemmed": ["rout", "memento", "request", "use", "binari", "classifi"],
+	"tag": ["classification", "using"],
 	"title": "Routing Memento Requests Using Binary Classifiers",
 	"type": "inproceedings",
 	"venue": "JCDL",

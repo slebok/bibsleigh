@@ -1,5 +1,8 @@
 {
-	"author": ["Shimon Even", "Sergio Rajsbaum"],
+	"author": [
+		"Shimon Even",
+		"Sergio Rajsbaum"
+	],
 	"booktitle": "Proceedings of the 22nd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC22",
@@ -8,9 +11,29 @@
 	"ee": "http://doi.acm.org/10.1145/100216.100227",
 	"pages": "95-105",
 	"publisher": "ACM",
-	"stemmed": ["the", "use", "of", "a", "synchron", "yield", "maximum", "comput", "rate", "in", "distribut", "network", "extend", "abstract"],
-	"tag": ["distributed", "network"],
-	"title": "The Use of a Synchronizer Yields Maximum Computation Rate in Distributed Networks (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"the",
+		"use",
+		"of",
+		"a",
+		"synchron",
+		"yield",
+		"maximum",
+		"comput",
+		"rate",
+		"in",
+		"distribut",
+		"network",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"distributed",
+		"network",
+		"using"
+	],
+	"title": "The Use of a Synchronizer Yields Maximum Computation Rate in Distributed Networks",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1990

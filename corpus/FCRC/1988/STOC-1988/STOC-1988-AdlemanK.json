@@ -1,5 +1,8 @@
 {
-	"author": ["Leonard M. Adleman", "Kireeti Kompella"],
+	"author": [
+		"Leonard M. Adleman",
+		"Kireeti Kompella"
+	],
 	"booktitle": "Proceedings of the 20th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC20",
@@ -8,9 +11,20 @@
 	"ee": "http://doi.acm.org/10.1145/62212.62264",
 	"pages": "528-538",
 	"publisher": "ACM",
-	"stemmed": ["use", "smooth", "to", "achiev", "parallel", "abstract"],
-	"tag": ["parallel", "using"],
-	"title": "Using Smoothness to Achieve Parallelism (Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"use",
+		"smooth",
+		"to",
+		"achiev",
+		"parallel",
+		"abstract"
+	],
+	"tag": [
+		"parallel",
+		"using"
+	],
+	"title": "Using Smoothness to Achieve Parallelism",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1988

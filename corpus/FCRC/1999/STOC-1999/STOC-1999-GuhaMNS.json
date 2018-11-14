@@ -1,5 +1,10 @@
 {
-	"author": ["Sudipto Guha", "Anna Moss", "Joseph Naor", "Baruch Schieber"],
+	"author": [
+		"Sudipto Guha",
+		"Anna Moss",
+		"Joseph Naor",
+		"Baruch Schieber"
+	],
 	"booktitle": "Proceedings of the 31st Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/1999",
@@ -8,9 +13,20 @@
 	"ee": "http://doi.acm.org/10.1145/301250.301406",
 	"pages": "574-582",
 	"publisher": "ACM",
-	"stemmed": ["effici", "recoveri", "from", "power", "outag", "extend", "abstract"],
-	"tag": ["performance"],
-	"title": "Efficient Recovery from Power Outage (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"effici",
+		"recoveri",
+		"from",
+		"power",
+		"outag",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"performance"
+	],
+	"title": "Efficient Recovery from Power Outage",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1999

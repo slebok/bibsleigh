@@ -1,5 +1,9 @@
 {
-	"author": ["Javier Cámara", "Gwen Salaün", "Carlos Canal"],
+	"author": [
+		"Javier Cámara",
+		"Gwen Salaün",
+		"Carlos Canal"
+	],
 	"booktitle": "Proceedings of the 11th International Conference on Fundamental Approaches to Software Engineering",
 	"booktitleshort": "FASE",
 	"crossref": "conf/fase/2008",
@@ -11,11 +15,24 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["clint", "a", "composit", "languag", "interpret", "tool", "paper"],
-	"tag": ["composition", "interpreter", "named"],
-	"title": "Clint: A Composition Language Interpreter (Tool Paper)",
+	"status": "tool",
+	"stemmed": [
+		"clint",
+		"a",
+		"composit",
+		"languag",
+		"interpret",
+		"tool",
+		"paper"
+	],
+	"tag": [
+		"composition",
+		"interpreter",
+		"named"
+	],
+	"title": "Clint: A Composition Language Interpreter",
 	"type": "inproceedings",
 	"venue": "FASE",
-	"volume": 4961,
+	"volume": "4961",
 	"year": 2008
 }

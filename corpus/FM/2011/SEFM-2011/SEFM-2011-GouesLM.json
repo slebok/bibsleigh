@@ -1,5 +1,9 @@
 {
-	"author": ["Claire Le Goues", "K. Rustan M. Leino", "Michal Moskal"],
+	"author": [
+		"Claire Le Goues",
+		"K. Rustan M. Leino",
+		"Michal Moskal"
+	],
 	"booktitle": "Proceedings of the Ninth International Conference on Software Engineering and Formal Methods",
 	"booktitleshort": "SEFM",
 	"crossref": "conf/sefm/2011",
@@ -11,11 +15,22 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": ["the", "boogi", "verif", "debugg", "tool", "paper"],
-	"tag": ["debugging", "verification"],
-	"title": "The Boogie Verification Debugger (Tool Paper)",
+	"status": "tool",
+	"stemmed": [
+		"the",
+		"boogi",
+		"verif",
+		"debugg",
+		"tool",
+		"paper"
+	],
+	"tag": [
+		"debugging",
+		"verification"
+	],
+	"title": "The Boogie Verification Debugger",
 	"type": "inproceedings",
 	"venue": "SEFM",
-	"volume": 7041,
+	"volume": "7041",
 	"year": 2011
 }

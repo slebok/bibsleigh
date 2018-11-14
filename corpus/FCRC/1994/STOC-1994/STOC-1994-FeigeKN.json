@@ -1,5 +1,9 @@
 {
-	"author": ["Uriel Feige", "Joe Kilian", "Moni Naor"],
+	"author": [
+		"Uriel Feige",
+		"Joe Kilian",
+		"Moni Naor"
+	],
 	"booktitle": "Proceedings of the 26th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC26",
@@ -8,8 +12,18 @@
 	"ee": "http://doi.acm.org/10.1145/195058.195408",
 	"pages": "554-563",
 	"publisher": "ACM",
-	"stemmed": ["a", "minim", "model", "for", "secur", "comput", "extend", "abstract"],
-	"title": "A minimal model for secure computation (extended abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"a",
+		"minim",
+		"model",
+		"for",
+		"secur",
+		"comput",
+		"extend",
+		"abstract"
+	],
+	"title": "A minimal model for secure computation",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1994

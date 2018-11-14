@@ -1,5 +1,9 @@
 {
-	"author": ["Laurent Hyafil", "F. Prusker", "Jean Vuillemin"],
+	"author": [
+		"Laurent Hyafil",
+		"F. Prusker",
+		"Jean Vuillemin"
+	],
 	"booktitle": "Proceedings of the Sixth Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC6",
@@ -8,9 +12,25 @@
 	"ee": "http://doi.acm.org/10.1145/800119.803899",
 	"pages": "216-229",
 	"publisher": "ACM",
-	"stemmed": ["an", "effici", "algorithm", "for", "comput", "optim", "desk", "merg", "pattern", "extend", "abstract"],
-	"tag": ["algorithm", "performance"],
-	"title": "An Efficient Algorithm for Computing Optimal Desk Merge Patterns (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"an",
+		"effici",
+		"algorithm",
+		"for",
+		"comput",
+		"optim",
+		"desk",
+		"merg",
+		"pattern",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"algorithm",
+		"performance"
+	],
+	"title": "An Efficient Algorithm for Computing Optimal Desk Merge Patterns",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1974

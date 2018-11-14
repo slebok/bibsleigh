@@ -1,5 +1,9 @@
 {
-	"author": ["Joseph Yossi Gil", "Friedhelm Meyer auf der Heide", "Avi Wigderson"],
+	"author": [
+		"Joseph Yossi Gil",
+		"Friedhelm Meyer auf der Heide",
+		"Avi Wigderson"
+	],
 	"booktitle": "Proceedings of the 22nd Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC22",
@@ -8,9 +12,24 @@
 	"ee": "http://doi.acm.org/10.1145/100216.100247",
 	"pages": "244-253",
 	"publisher": "ACM",
-	"stemmed": ["not", "all", "key", "can", "be", "hash", "in", "constant", "time", "preliminari", "version"],
-	"tag": ["constant"],
-	"title": "Not All Keys Can Be Hashed in Constant Time (Preliminary Version)",
+	"status": "work in progress",
+	"stemmed": [
+		"not",
+		"all",
+		"key",
+		"can",
+		"be",
+		"hash",
+		"in",
+		"constant",
+		"time",
+		"preliminari",
+		"version"
+	],
+	"tag": [
+		"constant"
+	],
+	"title": "Not All Keys Can Be Hashed in Constant Time",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1990

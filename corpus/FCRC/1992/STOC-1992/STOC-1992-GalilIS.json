@@ -1,5 +1,9 @@
 {
-	"author": ["Zvi Galil", "Giuseppe F. Italiano", "Neil Sarnak"],
+	"author": [
+		"Zvi Galil",
+		"Giuseppe F. Italiano",
+		"Neil Sarnak"
+	],
 	"booktitle": "Proceedings of the 24th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC24",
@@ -8,9 +12,19 @@
 	"ee": "http://doi.acm.org/10.1145/129712.129761",
 	"pages": "495-506",
 	"publisher": "ACM",
-	"stemmed": ["fulli", "dynam", "planar", "test", "extend", "abstract"],
-	"tag": ["testing"],
-	"title": "Fully Dynamic Planarity Testing (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"fulli",
+		"dynam",
+		"planar",
+		"test",
+		"extend",
+		"abstract"
+	],
+	"tag": [
+		"testing"
+	],
+	"title": "Fully Dynamic Planarity Testing",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1992

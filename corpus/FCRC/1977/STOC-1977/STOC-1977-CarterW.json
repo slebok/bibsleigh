@@ -1,5 +1,8 @@
 {
-	"author": ["Larry Carter", "Mark N. Wegman"],
+	"author": [
+		"Larry Carter",
+		"Mark N. Wegman"
+	],
 	"booktitle": "Proceedings of the Ninth Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC9",
@@ -8,8 +11,17 @@
 	"ee": "http://doi.acm.org/10.1145/800105.803400",
 	"pages": "106-112",
 	"publisher": "ACM",
-	"stemmed": ["univers", "class", "of", "hash", "function", "extend", "abstract"],
-	"title": "Universal Classes of Hash Functions (Extended Abstract)",
+	"status": "abstract",
+	"stemmed": [
+		"univers",
+		"class",
+		"of",
+		"hash",
+		"function",
+		"extend",
+		"abstract"
+	],
+	"title": "Universal Classes of Hash Functions",
 	"type": "inproceedings",
 	"venue": "STOC",
 	"year": 1977

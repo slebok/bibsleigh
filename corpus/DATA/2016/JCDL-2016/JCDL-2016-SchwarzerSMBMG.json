@@ -1,12 +1,5 @@
 {
-	"author": [
-		"Malte Schwarzer",
-		"Moritz Schubotz",
-		"Norman Meuschke",
-		"Corinna Breitinger",
-		"Volker Markl",
-		"Bela Gipp"
-	],
+	"author": ["Malte Schwarzer", "Moritz Schubotz", "Norman Meuschke", "Corinna Breitinger", "Volker Markl", "Bela Gipp"],
 	"booktitle": "Proceedings of the 16th Joint Conference on Digital Libraries",
 	"booktitleshort": "JCDL",
 	"crossref": "conf/jcdl/2016",
@@ -15,10 +8,8 @@
 	"ee": "http://ieeexplore.ieee.org/document/7559583/",
 	"pages": "191-200",
 	"publisher": "ACM",
-	"tag": [
-		"recommendation",
-		"wiki"
-	],
+	"stemmed": ["evalu", "link", "base", "recommend", "for", "wikipedia"],
+	"tag": ["recommendation", "wiki"],
 	"title": "Evaluating Link-based Recommendations for Wikipedia",
 	"type": "inproceedings",
 	"venue": "JCDL",
