@@ -1,0 +1,265 @@
+------------------------------------------------------------------------
+Call for Papers:
+[[SLE-2018|11th ACM SIGPLAN International Conference on Software Language Engineering
+(SLE 2018)]]
+co-located with SPLASH 2018
+November 5-6, 2018
+Boston, Massachusetts, United States
+[[https://conf.researchr.org/track/sle-2018/papers]]
+------------------------------------------------------------------------
+
+We are pleased to invite you to submit papers to the 11th ACM SIGPLAN
+International Conference on Software Language Engineering (SLE 2018), held
+in conjunction with SPLASH 2018 at Boston, Massachusetts on November 5-6,
+2018.
+
+---------------------------
+Scope
+---------------------------
+
+With the ubiquity of computers, software has become the dominating
+intellectual asset of our time. In turn, this software depends on software
+languages, namely the languages it is written in, the languages used to
+describe its environment, and the languages driving its development
+process. Given that everything depends on software and that software
+depends on software languages, it seems fair to say that for many years to
+come, everything will depend on software languages.
+
+Software language engineering (SLE) is the discipline of engineering
+languages and their [[#tool support|tools]] required for the creation of software. It
+abstracts from the differences between [[#programming language|programming languages]], [[#modelling]]
+languages, and other software languages, and emphasizes the engineering
+facet of the creation of such languages, that is, the establishment of the
+scientific methods and practices that enable the best results. While SLE is
+certainly driven by its metacircular character (software languages are
+engineered using software languages), SLE is not self-satisfying: its scope
+extends to the engineering of languages for all and everything.
+
+Like its predecessors, the 11th edition of the SLE conference, SLE 2018,
+will bring together researchers from different areas united by their common
+interest in the creation, capture, and tooling of software languages. It
+overlaps with traditional conferences on the design and implementation of
+programming languages, [[MDE|model-driven engineering]], and [[#compilation|compiler construction]],
+and emphasizes the fusion of their communities. To foster the latter, SLE
+traditionally fills a two-day program with a single track, with the only
+temporal overlap occurring between co-located events.
+
+---------------------------
+Topics of Interest
+---------------------------
+
+SLE 2018 solicits high-quality contributions in areas ranging from
+theoretical and conceptual contributions, to [[#tooling|tools]], techniques, and
+[[#framework]]s in the domain of software language engineering. Topics relevant
+to SLE cover generic aspects of software languages development rather than
+aspects of engineering a specific language. In particular, SLE is
+interested in contributions from the following areas:
+
+* Software Language [[#Design]] and [[#Implementation]]
+      - Approaches to and methods for language design
+      - Static [[#semantics]] (e.g., design rules, well-formedness constraints)
+      - Techniques for specifying behavioral / executable semantics
+      - [[#Generative]] approaches (incl. [[#code generation|code synthesis]], [[#compilation]])
+      - [[#metalanguage|Meta-languages]], [[#metaprogramming|meta-tools]], [[#language workbench]]es
+* Software Language [[#Validation]]
+      - [[#Verification]] and [[#formal method]]s for languages
+      - [[#Testing]] techniques for languages
+      - [[#Simulation]] techniques for languages
+* Software Language [[#Integration]] and [[#Composition]]
+      - [[#Coordination]] of heterogeneous languages and tools
+      - Mappings between languages (incl. [[#transformation language]]s)
+      - [[#Traceability]] between languages
+      - [[#Deployment]] of languages to different [[#platform]]s
+* Software Language [[#Maintenance]]
+      - Software language [[#reuse]]
+      - Language [[#evolution]]
+      - Language families and [[#variability]]
+* [[#domain-specific language|Domain-specific approaches]] for any aspects of SLE ([[#design]],
+[[#implementation]], [[#validation]], [[#maintenance]])
+* [[#Empirical]] [[#evaluation]] and [[#experience]] [[#case study|reports]] of language engineering tools
+      - [[#user study|User studies]] evaluating usability
+      - [[#Performance]] [[#benchmark]]s
+      - [[#Industrial]] applications
+
+---------------------------
+Important Dates
+---------------------------
+
+All dates are Anywhere on Earth.
+
+* Fri 29 June 2018 -  Abstract Submission
+* Fri 6 July 2018 - Paper Submission
+* Fri 24 August 2018 - Author Notification
+* Fri 31 August 2018 - Artifact Submission
+* Fri 5 October 2018 - Camera Ready Deadline
+* Wed 10 October 2018 - Artifact Notification
+* Fri 12 October 2018 - Deadline for Artifact-Related Paper Updates
+* Sun 4 Nov 2018 - SLE Workshops
+* Mon 5 Nov - Tue 6 Nov 2018 - SLE Conference
+
+---------------------------
+Types of Submissions
+---------------------------
+
+* Research papers
+These should report a substantial research contribution to SLE or
+successful application of SLE techniques or both. Full paper submissions
+must not exceed 12 pages excluding bibliography.
+
+* Tool papers
+Because of SLE's interest in [[#tooling|tools]], we seek papers that present software
+tools related to the field of SLE. Selection criteria include originality
+of the tool, its innovative aspects, and relevance to SLE. Any of the SLE
+topics of interest are appropriate areas for tool demonstrations.
+Submissions must provide a tool description of 4 pages excluding
+bibliography, and a demonstration outline including screenshots of up to 6
+pages. Tool demonstrations must have the keywords "Tool Demo" or "Tool
+Demonstration" in the title. The 4-page tool description will, if the
+demonstration is accepted, be published in the proceedings. The 6-page
+demonstration outline will be used by the program committee only for
+evaluating the submission.
+
+* New ideas / vision papers
+New ideas papers should describe new, non-conventional SLE research
+approaches that depart from standard practice. They are intended to
+describe well-defined research ideas that are at an early stage of
+investigation. Vision papers are intended to present new unifying theories
+about existing SLE research that can lead to the development of new
+technologies or approaches. New ideas / vision papers must not exceed 4
+pages excluding bibliography.
+
+Workshops: Workshops will be organized by SPLASH. Please inform us and
+contact the SPLASH organizers if you would like to organize a workshop of
+interest to the SLE audience. Information on how to submit workshops can be
+found at the SPLASH 2018 Website:
+[[https://conf.researchr.org/track/splash-2018/splash-2018-Workshops]].
+
+---------------------------
+Artifact Evaluation
+---------------------------
+
+For the third year SLE will use an evaluation process for assessing the
+quality of the artifacts on which papers are based to foster the culture of
+experimental reproducibility. Authors of accepted papers are invited to
+submit artifacts. More information will be announced on the Website.
+
+---------------------------
+Submission
+---------------------------
+
+Submissions have to use the ACM SIGPLAN Conference Format "acmart" (
+[[http://sigplan.org/Resources/Author/#acmart-format]]); please make sure that
+you always use the latest ACM SIGPLAN acmart LaTeX template (
+[[https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-master.zip]]),
+and that the document class definition is
+\documentclass[sigplan,screen]{acmart}. Do not make any changes to this
+format!
+
+Using the Word template is strongly discouraged.
+
+Ensure that your submission is legible when printed on a black and white
+printer. In particular, please check that colors remain distinct and font
+sizes in figures and tables are legible.
+
+SLE follows a single-blind review process. Thus, you do not have to blind
+your submission.
+
+All submissions must be in PDF format.
+
+Concurrent Submissions:
+Papers must describe unpublished work that is not currently submitted for
+publication elsewhere as described by SIGPLAN's Republication Policy (
+[[http://www.sigplan.org/Resources/Policies/Republication]]). Submitters should
+also be aware of ACM?s Policy and Procedures on Plagiarism (
+[[http://www.acm.org/publications/policies/plagiarism_policy]]). Submissions
+that violate these policies will be desk-rejected.
+
+Submission Site:
+Submissions will be accepted at [[https://sle18.hotcrp.com/]].
+
+---------------------------
+Reviewing Process
+---------------------------
+
+All submitted papers will be reviewed by at least three members of the
+program committee.  Research papers and tool papers will be evaluated
+concerning novelty, correctness, significance, readability, and alignment
+with the conference call. New ideas / vision papers will be evaluated
+primarily concerning novelty, significance, readability, and alignment with
+the conference call.
+
+For fairness reasons, all submitted papers must conform to the above
+instructions. Submissions that violate these instructions may be rejected
+without review, at the discretion of the PC chairs.
+
+---------------------------
+Awards
+---------------------------
+
+* Distinguished paper: Award for most notable paper, as determined by the
+PC chairs based on the recommendations of the programme committee.
+
+* Distinguished reviewer: Award for distinguished reviewer, as determined
+by the PC chairs.
+
+* Distinguished artifact: Award for the artifact most significantly
+exceeding expectations, as determined by the AEC chairs based on the
+recommendations of the artifact evaluation committee.
+
+---------------------------
+Publication
+---------------------------
+
+All accepted papers will be published in the ACM Digital Library.
+
+AUTHORS TAKE NOTE:
+The official publication date is the date the proceedings are made
+available in the ACM Digital Library. This date may be up to two weeks
+prior to the first day of the conference. The official publication date
+affects the deadline for any patent filings related to published work.
+
+---------------------------
+Program Committee
+---------------------------
+
+[[@Andrew Black]], Portland State University, USA
+[[@Erwan Bousse]], TU Wien, Austria
+[[@Marco Brambilla]], Politecnico di Milano, Italy
+[[@Ruth Breu]], University of Innsbruck, Austria
+[[@Walter Cazzola]], University of Milan, Italy
+[[@Marsha Chechik]], University of Toronto, Canada
+[[@Tony Clark]], Sheffield Hallam University, UK
+[[@Juan de Lara]], Universidad Autonoma de Madrid, Spain
+[[@Thomas Degueule]], CWI Amsterdam, Netherlands
+[[@Juergen Dingel]], Queen's University, Canada
+[[@Tom Dinkelaker]], Ericsson, Germany
+[[@Sebastian Erdweg]], Delft University of Technology, Netherlands
+[[@Bernd Fischer]], Stellenbosch University, South Africa
+[[@Esther Guerra]], Autonomous University of Madrid, Spain
+[[@Daco Harkes]], Delft University of Technology, Netherlands
+[[@Robert Hirschfeld]], University of Potsdam, Germany
+[[@Michael Homer]], Victoria University of Wellington, New Zealand
+[[@Dimitris Kolovos]], University of York, UK
+[[@Ralf Lämmel]], University of Koblenz-Landau, Germany
+[[@Marjan Mernik]], University of Maribor, Slovenia
+[[@Gunter Mussbacher]], McGill University, Canada
+[[@James Noble]], Victoria University of Wellington, New Zealand
+[[@Bruno Oliveira]], University of Hong Kong, China
+[[@Christoph Reichenbach]], Lund University, Sweden
+[[@Jan Oliver]] Ringert, University of Leicester, UK
+[[@Bernhard Rumpe]], RWTH Aachen University, Germany
+[[@Anthony Sloane]], Macquarie University, Australia
+[[@Emma Söderberg]], Google, Denmark
+[[@Mark van den Brand]], TU Eindhoven, Netherlands
+[[@Tijs van der Storm]], CWI Amsterdam, Netherlands
+[[@Eelco Visser]], Delft University of Technology, Netherlands
+[[@Eric Walkingshaw]], Oregon State University, USA
+[[@Andreas Wortmann]], RWTH Aachen University, Germany
+[[@Vadim Zaytsev]], Rain Code, Belgium
+
+---------------------------
+Contact
+---------------------------
+
+For additional information, clarification, or answers to questions, please
+contact the organizers by email: [email].
