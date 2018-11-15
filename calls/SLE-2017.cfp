@@ -1,0 +1,233 @@
+========================================================================
+
+**Call for Papers**
+
+[[SLE-2017|10th ACM SIGPLAN International Conference on Software Language
+Engineering (SLE 2017)]]
+
+23-24 October 2017, Vancouver, Canada
+
+(Co-located with SPLASH 2017)
+
+General chair:
+
+   [[@Benoit Combemale]], University of Rennes 1, France
+
+Program co-chairs:
+
+   [[@Marjan Mernik]], University of Maribor, Slovenia
+   [[@Bernhard Rumpe]], RWTH Aachen University, Germany
+
+Artifact evaluation chairs:
+
+   [[@Tanja Mayerhofer]], TU Wien, Austria
+   [[@Laurence Tratt]], King's College London, UK
+
+
+Keynote Speaker:
+
+    [[@Peter D. Mosses]], Swansea University, UK ([[http://cs.swan.ac.uk/~cspdm/]])
+
+
+[[http://conf.researchr.org/track/sle-2017/sle-2017-papers]]
+[[http://www.sleconf.org/2017]]
+Follow us on [[#twitter]]: [[https://twitter.com/sleconf]]
+
+========================================================================
+
+Software Language Engineering (SLE) is the application of systematic,
+disciplined, and measurable approaches to the [[#development]], use,
+[[#deployment]], and [[#maintenance]] of software languages. The term "software
+language" is used broadly, and includes: general-purpose [[#programming
+language]]s; [[#domain-specific language]]s (e.g. BPMN, Simulink, Modelica);
+[[#modelling|modeling]] and [[#metamodelling|metamodeling]] languages (e.g. SysML and [[#UML]]); data models
+and [[#ontology|ontologies]] (e.g. [[#XML]]-based and [[#OWL]]-based languages and
+vocabularies).
+
+### Important Dates
+
+Fri 2 Jun 2017 - Abstract Submission
+Fri 9 Jun 2017 - Paper Submission
+Fri 4 Aug 2017 - Author Notification
+Thu 10 Aug 2017 - Artifact Submission
+Fri 1 Sep 2017 - Artifact Notification
+Fri 8 Sep 2017 - Camera Ready Deadline
+Sun 22 Oct - SLE workshops
+Mon 23 Oct - Tue 24 Oct 2017 - SLE Conference
+
+### Topics of Interest
+
+SLE aims to be broad-minded and inclusive about relevance and scope.
+We solicit high-quality contributions in areas ranging from
+theoretical and conceptual contributions to [[#tooling|tools]], techniques, and
+[[#framework]]s in the domain of language engineering. Topics relevant to
+SLE cover generic aspects of software languages development rather
+than aspects of engineering a specific language. In particular, SLE is
+interested in principled engineering approaches and techniques in the
+following areas:
+
+* Language [[#Design]] and [[#Implementation]]
+   * Approaches and methodologies for language design
+   * Static [[#semantics]] (e.g., design rules, well-formedness constraints)
+   * Techniques for specifying behavioral / executable semantics
+   * [[#Generative]] approaches (incl. [[#code generation|code synthesis]], [[#compilation]])
+   * [[#metalanguage|Meta-languages]], [[#metaprogramming|meta-tools]], [[#language workbench]]es
+
+* Language [[#Validation]]
+   * [[#Verification]] and [[#formal method]]s for languages
+   * [[#Testing]] techniques for languages
+   * [[#Simulation]] techniques for languages
+
+* Language [[#Integration]] and [[#Composition]]
+   * [[#Coordination]] of heterogeneous languages and tools
+   * Mappings between languages (incl. [[#transformation language]]s)
+   * [[#Traceability]] between languages
+   * [[#Deployment]] of languages to different [[#platform]]s
+
+* Language [[#Maintenance]]
+   * Software language [[#reuse]]
+   * Language [[#evolution]]
+   * Language families and [[#variability]]
+
+* [[#domain-specific language|Domain-specific approaches]] for any aspects of SLE ([[#design]],
+[[#implementation]], [[#validation]], [[#maintenance]])
+
+* [[#Empirical]] [[#evaluation]] and [[#experience]] [[#case study|reports]] of language engineering tools
+   * [[#user study|User studies]] evaluating usability
+   * [[#Performance]] [[#benchmark]]s
+   * [[#Industrial]] applications
+
+### Types of Submissions
+
+* **Research papers**: These should report a substantial research
+contribution to SLE or successful application of SLE techniques or
+both. Full paper submissions must not exceed 12 pages including
+bibliography in ACM SIGPLAN acmart conference style
+([[http://www.sigplan.org/Resources/Author/]]).
+
+* **[[#tooling|Tool papers]]**: Because of SLE's interest in tools, we seek papers
+that present software tools related to the field of SLE. Selection
+criteria include originality of the tool, its innovative aspects, and
+relevance to SLE. Any of the SLE topics of interest are appropriate
+areas for tool demonstrations. Submissions must provide a tool
+description of 4 pages including bibliography in ACM SIGPLAN acmart
+conference style ([[http://www.sigplan.org/Resources/Author/]]), and a
+demonstration outline including screenshots of up to 6 pages. Tool
+demonstrations must have the keywords “Tool Demo” or “Tool
+Demonstration” in the title. The 4-page tool description will, if the
+demonstration is accepted, be published in the proceedings. The 6-page
+demonstration outline will be used by the program committee only for
+evaluating the submission.
+
+* **[[#Industrial]] papers**: These should describe real-world application
+scenarios of SLE in industry, explained in their context with an
+analysis of the challenges that were overcome and the [[#lessons learnt|lessons]] which
+the audience can learn from this experience. Industry paper
+submissions must not exceed 6 pages including bibliography in ACM
+SIGPLAN acmart conference style
+([[http://www.sigplan.org/Resources/Author/]]).
+
+* **New ideas / vision papers**: New ideas papers should describe new,
+non-conventional SLE research approaches that depart from standard
+practice. They are intended to describe well-defined research ideas
+that are at an early stage of investigation. Vision papers are
+intended to present new unifying theories about existing SLE research
+that can lead to the development of new technologies or approaches.
+New ideas / vision papers must not exceed 4 pages including
+bibliography in ACM SIGPLAN acmart conference style
+([[http://www.sigplan.org/Resources/Author/]]).
+
+### Artifact evaluation
+
+SLE will for the second year use an evaluation process for assessing
+the quality of artifacts on which papers are based. The aim of this
+evaluation process is to foster a culture of experimental
+reproducibility as well as a higher quality in the research area as a
+whole.
+
+Authors of papers accepted for SLE 2017 will be invited to submit
+artifacts. Any kind of artifact that is presented in the paper,
+supplements the paper with further details, or underlies the paper can
+be submitted. This includes, for instance, tools, grammars,
+metamodels, models, programs, algorithms, scripts, proofs, datasets,
+statistical tests, checklists, surveys, interview scripts,
+visualizations, annotated bibliographies, and tutorials.
+
+The submitted artifacts will be reviewed by a dedicated Artifact
+Evaluation Committee (AEC). Artifacts that live up to the expectations
+created by the paper will receive a badge of approval from the AEC.
+The approved artifacts will be invited for inclusion in the electronic
+conference proceedings published in the ACM Digital Library. This will
+ensure the permanent and durable storage of the artifacts alongside
+the published papers fostering the repeatability of experiments,
+enabling precise comparison with alternative approaches, and helping
+the dissemination of the author’s ideas in detail.
+
+Participating in the artifact evaluation and publishing approved
+artifacts in the ACM Digital Library is voluntary. However, we
+strongly encourage authors to consider this possibility as the
+availability of artifacts will greatly benefit readers of papers and
+increase the impact of the work. Note that the artifact evaluation
+cannot affect the acceptance of the paper, because it only happens
+after the decision about acceptance has been made.
+
+### Publications
+
+All submitted papers will be reviewed by at least three members of the
+program committee. All accepted papers, including tool papers,
+industrial papers and new ideas / vision papers will be published in
+ACM Digital Library.
+
+Selected accepted papers will be invited to a special issue of the
+Computer Languages, Systems and Structures (COMLAN) journal.
+
+### Awards
+
+* **Distinguished paper**: Award for most notable paper, as determined
+by the PC chairs based on the recommendations of the program
+committee.
+
+* **Distinguished reviewer**: Award for distinguished reviewer, as
+determined by the PC chairs using feedback from the authors.
+
+* **Distinguished artifact**: Award for the artifact most
+significantly exceeding expectations, as determined by the AEC chairs
+based on the recommendations of the artifact evaluation committee.
+
+
+### Program Committee
+
+[[@Marjan Mernik]] (co-chair), University of Maribor, Slovenia
+[[@Bernhard Rumpe]] (co-chair), RWTH Aachen University, Germany
+[[@Christian Berger]], Chalmers, Sweden
+[[@Mark van den Brand]], TU Eindhoven, The Netherlands
+[[@Ruth Breu]], University of Innsbruck, Austria
+[[@Jordi Cabot]], ICREA, Spain
+[[@Walter Cazzola]], University of Milan, Italy
+[[@Marsha Chechik]], University of Toronto, Canada
+[[@Tony Clark]], Middlesex University, UK
+[[@Tom Dinkelaker]], Ericsson, Germany
+[[@Bernd Fischer]], Stellenbosch University, South Africa
+[[@Sebastian Gerard]], CEA, France
+[[@Jeff Gray]], University of Alabama, USA
+[[@Esther Guerra]], Autonomous University of Madrid, Spain
+[[@Michael Homer]], Victoria University of Wellington, New Zealand
+[[@Ralf Lämmel]], University of Koblenz-Landau, Germany
+[[@Tihamer Levendovszky]], Microsoft, USA
+[[@Gunter Mussbacher]], McGill University, Canada
+[[@Terence Parr]], University of San Francisco, USA
+[[@Jaroslav Porubän]], University of Košice, Slovakia
+[[@Jan Ringert]], Tel Aviv University, Israel
+[[@Julia Rubin]], University of British Columbia, Canada
+[[@Tony Sloane]], Macquarie University, Australia
+[[@Eugene Syriani]], University of Montreal, Canada
+[[@Emma Söderberg]], Google, Denmark
+[[@Eric Van Wyk]], University of Minnesota, USA
+[[@Jurgen Vinju]], CWI, Netherlands
+[[@Eric Walkingshaw]], Oregon State University, USA
+[[@Andreas Wortmann]], RWTH Aachen University, Germany
+[[@Tian Zhang]], Nanjing University, China
+
+### Contact
+
+For any question, please contact the organizers via email: [email]

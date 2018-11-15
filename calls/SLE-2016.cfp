@@ -1,0 +1,143 @@
+========================================================================
+
+**Call for Papers**
+
+========================================================================
+
+[[SLE-2016|9th ACM SIGPLAN International Conference on Software Language Engineering (SLE 2016)]]
+
+Oct 31-Nov 1, 2016, Amsterdam, Netherlands
+
+(Co-located with SPLASH 2016)
+
+General chair:
+
+   [[@Tijs van der Storm]], CWI, Netherlands
+
+Program co-chairs:
+
+   [[@Dániel Varro]],  Budapest University of Technology and Economics, Hungary
+
+   [[@Emilie Balland]], Sensational AG, Switzerland
+
+[[http://conf.researchr.org/track/sle-2016/sle-2016-papers]]
+[[http://www.sleconf.org/2016/]]
+Follow us on [[#twitter]]: [[https://twitter.com/sleconf]]
+
+========================================================================
+
+Software Language Engineering (SLE) is the application of systematic, disciplined, and measurable approaches to the [[#development]], use, [[#deployment]], and [[#maintenance]] of software languages. The term "software language" is used broadly, and includes: general-purpose [[#programming language]]s; [[#domain-specific language]]s (e.g. BPMN, Simulink, Modelica); [[#modelling|modeling]] and [[#metamodelling|metamodeling]] languages (e.g. SysML and [[#UML]]); data models and [[#ontology|ontologies]] (e.g. [[#XML]]-based and [[#OWL]]-based languages and vocabularies).
+
+### Important Dates
+
+Fri 17 Jun 2016 - Abstract Submission
+Fri 24 Jun 2016 - Paper Submission
+Fri 26 Aug 2016 - Notification
+Fri 2 Sep 2016 - Artifact submission
+Fri 16 Sep 2016 - Artifact notification
+Fri 16 Sep 2016 - Camera ready deadline
+Mon 31 Oct 09:00 - Tue 1 Nov 18:00 2016 Conference
+
+### Topics of Interest
+
+SLE aims to be broad-minded and inclusive about relevance and scope. We solicit high-quality contributions in areas ranging from theoretical and conceptual contributions to [[#tooling|tools]], techniques, and [[#framework]]s in the domain of language engineering. Topics relevant to SLE cover generic aspects of software languages development rather than aspects of engineering a specific language. In particular, SLE is interested in principled engineering approaches and techniques in the following areas:
+
+* Language [[#Design]] and [[#Implementation]]
+   * Approaches and methodologies for language design
+   * Static [[#semantics]] (e.g., design rules, well-formedness constraints)
+   * Techniques for specifying behavioral / executable semantics
+   * [[#Generative]] approaches (incl. [[#code generation|code synthesis]], [[#compilation]])
+   * [[#metalanguage|Meta-languages]], [[#metaprogramming|meta-tools]], [[#language workbench]]es
+
+* Language [[#Validation]]
+   * [[#Verification]] and [[#formal method]]s for languages
+   * [[#Testing]] techniques for languages
+   * [[#Simulation]] techniques for languages
+
+* Language [[#Integration]]
+   * [[#Coordination]] of heterogeneous languages and tools
+   * Mappings between languages (incl. [[#transformation language]]s)
+   * [[#Traceability]] between languages
+   * [[#Deployment]] of languages to different [[#platform]]s
+
+* Language [[#Maintenance]]
+   * Software language [[#reuse]]
+   * Language [[#evolution]]
+   * Language families and [[#variability]]
+
+* [[#domain-specific language|Domain-specific approaches]] for any aspects of SLE ([[#design]], [[#implementation]], [[#validation]], [[#maintenance]])
+
+* [[#Empirical]] [[#evaluation]] and [[#experience]] [[#case study|reports]] of language engineering tools
+   * [[#user study|User studies]] evaluating usability
+   * [[#Performance]] [[#benchmark]]s
+   * [[#Industrial]] applications
+
+### Types of Submissions
+
+* **Research papers**: These should report a substantial research contribution to SLE or successful application of SLE techniques or both. Full paper submissions must not exceed 12 pages excluding bibliography (in ACM SIGPLAN conference style ([[http://www.sigplan.org/Resources/Author/]])).
+
+* **Tool papers**: Because of SLE’s interest in [[#tooling|tools]], we seek papers that present software tools related to the field of SLE. Selection criteria include originality of the tool, its innovative aspects, and relevance to SLE. Any of the SLE topics of interest are appropriate areas for tool demonstrations. Submissions must provide a tool description of 4 pages in SIGPLAN proceedings style (see above), with 1 optional additional page for bibliographic references, and a demonstration outline including screenshots of up to 4 pages. Tool demonstrations must have the keywords "Tool Demo" or “Tool Demonstration” in the title. The 4-page tool description will, if the demonstration is accepted, be published in the proceedings. The 4-page demonstration outline will be used by the program committee only for evaluating the submission.
+
+### Artifact evaluation
+
+Authors of accepted papers at SLE 2016 are encouraged to submit their experiment results used for underpinning research statements to an artifact evaluation process carried out in early September 2016. This submission is voluntary and will not influence the final decision regarding the papers. 
+
+Papers that go through the Artifact Evaluation process successfully receive a seal of approval printed on the first page of the paper in the proceedings. Authors of papers with accepted artifacts are encouraged to make these materials publicly available upon publication of the proceedings, by including them as "source materials" in the ACM Digital Library.
+
+### Publications
+
+All submitted papers will be reviewed by at least three members of the program committee. All accepted papers, including tool papers will be published in ACM Digital Library.
+
+Authors of distinguished papers from the conference will be invited to revise and submit extended versions of their papers for a Journal special issue.
+
+### Awards
+
+* Distinguished paper. Award for most notable paper, as determined by the PC chairs based on the recommendations of the program committee.
+
+* Distinguished reviewer. Award for distinguished reviewer, as determined by the PC chairs using feedback from the authors.
+
+### Program Committee
+
+[[@Emilie Balland]] (co-chair), Sensational AG (SUI) 
+[[@Daniel Varro]] (co-chair), BME (HUN) 
+[[@Anya Helene Bagge]], Univ. Bergen (NOR)
+[[@Ruth Breu]], Univ. Innsbruck (AUT)
+[[@Jordi Cabot]], Univ. Oberta de Catalunya (ESP)
+[[@Marsha Chechik]], Univ. Toronto (CAN)
+[[@Marcus Denker]], INRIA (FRA)
+[[@Davide Di Ruscio]], Univ. L’Aquila (ITA)
+[[@Martin Erwig]], Oregon State Univ. (USA)
+[[@Bernd Fischer]], Stellenbosch University (RSA)
+[[@Sebastian Gerard]], CEA (FRA)
+[[@Jeremy Gibbons]], Oxford Univ. (UK)
+[[@Holger Giese]], Hasso Plattner Inst. (GER)
+[[@Martin Gogolla]], Univ. Bremen (GER)
+[[@Jeff Gray]], Univ. Alabama (USA)
+[[@Esther Guerra]], Autonomous Univ. of Madrid (ESP)
+[[@Goerel Hedin|Gorel Hedin]], Lund Univ. (SWE)
+[[@Michael Homer]], Victoria Univ. Wellington (NZL)
+[[@Dimitris Kolovos]], Univ. York (UK)
+[[@Ralf Lämmel]], Univ. Koblenz (GER)
+[[@Julia Lawall]], LIP6 (FRA)
+[[@Tihamer Levendovszky]], Microsoft (USA)
+[[@Heather Miller]], EPFL (SUI)
+[[@Pierre-Etienne Moreau]], Loria (FRA)
+[[@Günter Mussbacher]], McGill Univ. (CAN)
+[[@Bruno Oliveira]], Univ. of Hong Kong (HKG)
+[[@Terence Parr]], Univ. San Francisco (USA)
+[[@István Ráth]], IncQuery Labs (HUN)
+[[@Julia Rubin]], MIT (USA)
+[[@Bernhard Schatz]], Fortiss (GER)
+[[@Sibylle Schupp]], Univ. Hamburg (GER)
+[[@Anthony Sloane]], Macquarie Univ. (AUS)
+[[@Emma Söderberg]], Google (USA)
+[[@Eugene Syriani]], Univ. Montréal (CAN)
+[[@Gabriele Taentzer|Gabi Taentzer]], Univ. Marburg (GER)
+[[@Eric Van Wyk]], Univ. Minnesota (USA)
+[[@Hans Vangheluwe]], Univ. Antwerp (BEL)
+[[@Jurgen Vinju]], CWI (NED)
+[[@Guido Wachsmuth]], TU Delft (NED)
+[[@Eric Walkingshaw]], Oregon State Univ. (USA)
+[[@Andrzej Wąsowski]], ITU (DEN)
+[[@Manuel Wimmer]], TU Wien (AUT)
+[[@Tian Zhang]], Nanjing Univ. (CHN)
