@@ -1,12 +1,5 @@
 {
-	"author": [
-		"Bard Bloom",
-		"David Grove",
-		"Benjamin Herta",
-		"Ashish Sabharwal",
-		"Horst Samulowitz",
-		"Vijay A. Saraswat"
-	],
+	"author": ["Bard Bloom", "David Grove", "Benjamin Herta", "Ashish Sabharwal", "Horst Samulowitz", "Vijay A. Saraswat"],
 	"booktitle": "Proceedings of the 15th International Conference on Theory and Applications of Satisfiability Testing",
 	"booktitleshort": "SAT",
 	"crossref": "conf/sat/2012",
@@ -19,27 +12,8 @@
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
 	"status": "tool",
-	"stemmed": [
-		"sat",
-		"x",
-		"a",
-		"scalabl",
-		"plug",
-		"play",
-		"parallel",
-		"sat",
-		"framework",
-		"tool",
-		"present"
-	],
-	"tag": [
-		"framework",
-		"game studies",
-		"named",
-		"parallel",
-		"satisfiability",
-		"scalability"
-	],
+	"stemmed": ["sat", "x", "a", "scalabl", "plug", "play", "parallel", "sat", "framework"],
+	"tag": ["framework", "game studies", "named", "parallel", "satisfiability", "scalability"],
 	"title": "SatX10: A Scalable Plug&Play Parallel SAT Framework —",
 	"type": "inproceedings",
 	"venue": "ICST",

@@ -1,10 +1,5 @@
 {
-	"author": [
-		"Micah Adler",
-		"Soumen Chakrabarti",
-		"Michael Mitzenmacher",
-		"Lars Eilstrup Rasmussen"
-	],
+	"author": ["Micah Adler", "Soumen Chakrabarti", "Michael Mitzenmacher", "Lars Eilstrup Rasmussen"],
 	"booktitle": "Proceedings of the 27th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC27",
@@ -14,18 +9,8 @@
 	"pages": "238-247",
 	"publisher": "ACM",
 	"status": "work in progress",
-	"stemmed": [
-		"parallel",
-		"random",
-		"load",
-		"balanc",
-		"preliminari",
-		"version"
-	],
-	"tag": [
-		"parallel",
-		"random"
-	],
+	"stemmed": ["parallel", "random", "load", "balanc"],
+	"tag": ["parallel", "random"],
 	"title": "Parallel randomized load balancing",
 	"type": "inproceedings",
 	"venue": "STOC",

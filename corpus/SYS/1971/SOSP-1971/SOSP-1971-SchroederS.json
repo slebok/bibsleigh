@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Michael D. Schroeder",
-		"Jerome H. Saltzer"
-	],
+	"author": ["Michael D. Schroeder", "Jerome H. Saltzer"],
 	"booktitle": "Proceedings of the Third Symposium on Operating System Principles",
 	"booktitleshort": "SOSP",
 	"crossref": "conf/sosp/1971",
@@ -12,21 +9,8 @@
 	"pages": "42-54",
 	"publisher": "ACM",
 	"status": "abstract",
-	"stemmed": [
-		"a",
-		"hardwar",
-		"architectur",
-		"for",
-		"implement",
-		"protect",
-		"ring",
-		"abstract"
-	],
-	"tag": [
-		"architecture",
-		"hardware",
-		"implementation"
-	],
+	"stemmed": ["a", "hardwar", "architectur", "for", "implement", "protect", "ring"],
+	"tag": ["architecture", "hardware", "implementation"],
 	"title": "A Hardware Architecture for Implementing Protection Rings",
 	"type": "inproceedings",
 	"venue": "SOSP",

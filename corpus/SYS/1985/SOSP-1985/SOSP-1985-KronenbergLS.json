@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Nancy P. Kronenberg",
-		"Henry M. Levy",
-		"William D. Strecker"
-	],
+	"author": ["Nancy P. Kronenberg", "Henry M. Levy", "William D. Strecker"],
 	"booktitle": "Proceedings of the 10th ACM Symposium on Operating System Principles",
 	"booktitleshort": "SOSP",
 	"crossref": "conf/sosp/1985",
@@ -14,21 +10,8 @@
 	"pages": "1",
 	"publisher": "ACM",
 	"status": "abstract",
-	"stemmed": [
-		"va",
-		"xcluster",
-		"a",
-		"close",
-		"coupl",
-		"distribut",
-		"system",
-		"abstract"
-	],
-	"tag": [
-		"clustering",
-		"distributed",
-		"named"
-	],
+	"stemmed": ["va", "xcluster", "a", "close", "coupl", "distribut", "system"],
+	"tag": ["clustering", "distributed", "named"],
 	"title": "VAXclusters: A Closely-Coupled Distributed System",
 	"type": "inproceedings",
 	"venue": "SOSP",

@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Jasper Denkers",
-		"Louis van Gool",
-		"Eelco Visser"
-	],
+	"author": ["Jasper Denkers", "Louis van Gool", "Eelco Visser"],
 	"booktitle": "Proceedings of the 11th International Conference on Software Language Engineering",
 	"booktitleshort": "SLE",
 	"crossref": "conf/sle/2018",
@@ -11,6 +7,8 @@
 	"ee": "http://doi.acm.org/10.1145/3276604.3276608",
 	"pages": "205-209",
 	"status": "tool",
+	"stemmed": ["migrat", "custom", "dsl", "implement", "to", "a", "languag", "workbench"],
+	"tag": ["domain-specific language", "implementation", "language workbench", "migration"],
 	"title": "Migrating custom DSL implementations to a language workbench",
 	"type": "inproceedings",
 	"url": "db/conf/sle/sle2018.html#DenkersGV18",

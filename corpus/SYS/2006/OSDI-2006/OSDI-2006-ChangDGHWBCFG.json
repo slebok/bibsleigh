@@ -1,15 +1,5 @@
 {
-	"author": [
-		"Fay Chang",
-		"Jeffrey Dean",
-		"Sanjay Ghemawat",
-		"Wilson C. Hsieh",
-		"Deborah A. Wallach",
-		"Michael Burrows",
-		"Tushar Chandra",
-		"Andrew Fikes",
-		"Robert Gruber"
-	],
+	"author": ["Fay Chang", "Jeffrey Dean", "Sanjay Ghemawat", "Wilson C. Hsieh", "Deborah A. Wallach", "Michael Burrows", "Tushar Chandra", "Andrew Fikes", "Robert Gruber"],
 	"booktitle": "Proceedings of the Seventh Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2006",
@@ -18,24 +8,8 @@
 	"pages": "205-218",
 	"publisher": "USENIX Association",
 	"status": "best paper",
-	"stemmed": [
-		"bigtabl",
-		"a",
-		"distribut",
-		"storag",
-		"system",
-		"for",
-		"structur",
-		"data",
-		"award",
-		"best",
-		"paper"
-	],
-	"tag": [
-		"distributed",
-		"exclamation",
-		"named"
-	],
+	"stemmed": ["bigtabl", "a", "distribut", "storag", "system", "for", "structur", "data"],
+	"tag": ["distributed", "named"],
 	"title": "Bigtable: A Distributed Storage System for Structured Data",
 	"type": "inproceedings",
 	"venue": "OSDI",

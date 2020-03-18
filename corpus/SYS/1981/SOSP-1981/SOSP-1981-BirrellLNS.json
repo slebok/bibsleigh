@@ -1,10 +1,5 @@
 {
-	"author": [
-		"Andrew Birrell",
-		"Roy Levin",
-		"Roger M. Needham",
-		"Michael D. Schroeder"
-	],
+	"author": ["Andrew Birrell", "Roy Levin", "Roger M. Needham", "Michael D. Schroeder"],
 	"booktitle": "Proceedings of the Eighth Symposium on Operating System Principles",
 	"booktitleshort": "SOSP",
 	"crossref": "conf/sosp/1981",
@@ -14,20 +9,8 @@
 	"pages": "178-179",
 	"publisher": "ACM",
 	"status": "abstract",
-	"stemmed": [
-		"gravevin",
-		"an",
-		"exercis",
-		"in",
-		"distribut",
-		"comput",
-		"summari"
-	],
-	"tag": [
-		"distributed",
-		"named",
-		"summary"
-	],
+	"stemmed": ["gravevin", "an", "exercis", "in", "distribut", "comput"],
+	"tag": ["distributed", "named"],
 	"title": "Gravevine: An Exercise in Distributed Computing",
 	"type": "inproceedings",
 	"venue": "SOSP",

@@ -1,12 +1,5 @@
 {
-	"author": [
-		"Misael Mongiovì",
-		"Petko Bogdanov",
-		"Razvan Ranca",
-		"Ambuj K. Singh",
-		"Evangelos E. Papalexakis",
-		"Christos Faloutsos"
-	],
+	"author": ["Misael Mongiovì", "Petko Bogdanov", "Razvan Ranca", "Ambuj K. Singh", "Evangelos E. Papalexakis", "Christos Faloutsos"],
 	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
@@ -16,25 +9,8 @@
 	"pages": "865",
 	"publisher": "ACM",
 	"status": "abstract",
-	"stemmed": [
-		"sig",
-		"spot",
-		"mine",
-		"signific",
-		"anomal",
-		"region",
-		"from",
-		"time",
-		"evolv",
-		"network",
-		"abstract",
-		"onli"
-	],
-	"tag": [
-		"mining",
-		"named",
-		"network"
-	],
+	"stemmed": ["sig", "spot", "mine", "signific", "anomal", "region", "from", "time", "evolv", "network"],
+	"tag": ["mining", "named", "network"],
 	"title": "SigSpot: mining significant anomalous regions from time-evolving networks",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

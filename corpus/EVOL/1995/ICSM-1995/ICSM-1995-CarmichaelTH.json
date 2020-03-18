@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Ian Carmichael",
-		"Vassilios Tzerpos",
-		"Richard C. Holt"
-	],
+	"author": ["Ian Carmichael", "Vassilios Tzerpos", "Richard C. Holt"],
 	"booktitle": "Proceedings of the 11th International Conference on Software Maintenance",
 	"booktitleshort": "ICSM",
 	"crossref": "conf/icsm/1995",
@@ -13,23 +9,8 @@
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
 	"status": "report",
-	"stemmed": [
-		"design",
-		"mainten",
-		"unexpect",
-		"architectur",
-		"interact",
-		"experi",
-		"report"
-	],
-	"tag": [
-		"architecture",
-		"case study",
-		"design",
-		"experience",
-		"interactive",
-		"maintenance"
-	],
+	"stemmed": ["design", "mainten", "unexpect", "architectur", "interact"],
+	"tag": ["architecture", "design", "interactive", "maintenance"],
 	"title": "Design maintenance: unexpected architectural interactions",
 	"type": "inproceedings",
 	"venue": "ICSME",

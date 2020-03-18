@@ -1,10 +1,5 @@
 {
-	"author": [
-		"M. Frans Kaashoek",
-		"Robbert van Renesse",
-		"Hans van Staveren",
-		"Andrew S. Tanenbaum"
-	],
+	"author": ["M. Frans Kaashoek", "Robbert van Renesse", "Hans van Staveren", "Andrew S. Tanenbaum"],
 	"dblpkey": "journals/sigops/KasshoekRST92",
 	"doi": "10.1145/142111.993339",
 	"ee": "http://doi.acm.org/10.1145/142111.993339",
@@ -13,21 +8,8 @@
 	"pages": "29",
 	"publisher": "ACM",
 	"status": "abstract",
-	"stemmed": [
-		"flip",
-		"an",
-		"internetwork",
-		"protocol",
-		"for",
-		"support",
-		"distribut",
-		"system",
-		"abstract"
-	],
-	"tag": [
-		"distributed",
-		"protocol"
-	],
+	"stemmed": ["flip", "an", "internetwork", "protocol", "for", "support", "distribut", "system"],
+	"tag": ["distributed", "protocol"],
 	"title": "FLIP; an Internetwork Protocol for Supporting Distributed Systems",
 	"type": "article",
 	"venue": "SOSP",

@@ -1,13 +1,5 @@
 {
-	"author": [
-		"John H. Howard",
-		"Michael L. Kazar",
-		"Sherri G. Menees",
-		"David A. Nichols",
-		"Mahadev Satyanarayanan",
-		"Robert N. Sidebotham",
-		"Michael J. West"
-	],
+	"author": ["John H. Howard", "Michael L. Kazar", "Sherri G. Menees", "David A. Nichols", "Mahadev Satyanarayanan", "Robert N. Sidebotham", "Michael J. West"],
 	"booktitle": "Proceedings of the 11th ACM Symposium on Operating System Principles",
 	"booktitleshort": "SOSP",
 	"crossref": "conf/sosp/1987",
@@ -18,23 +10,8 @@
 	"pages": "1-2",
 	"publisher": "ACM",
 	"status": "abstract",
-	"stemmed": [
-		"scale",
-		"and",
-		"perform",
-		"in",
-		"a",
-		"distribut",
-		"file",
-		"system",
-		"extend",
-		"abstract"
-	],
-	"tag": [
-		"distributed",
-		"file system",
-		"performance"
-	],
+	"stemmed": ["scale", "and", "perform", "in", "a", "distribut", "file", "system"],
+	"tag": ["distributed", "file system", "performance"],
 	"title": "Scale and Performance in a Distributed File System",
 	"type": "inproceedings",
 	"venue": "SOSP",

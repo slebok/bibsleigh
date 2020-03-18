@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Bernhard Beckert",
-		"Joachim Posegga"
-	],
+	"author": ["Bernhard Beckert", "Joachim Posegga"],
 	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
@@ -15,22 +12,8 @@
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
 	"status": "abstract",
-	"stemmed": [
-		"leantap",
-		"lean",
-		"tableau",
-		"base",
-		"theorem",
-		"prove",
-		"extend",
-		"abstract"
-	],
-	"tag": [
-		"agile",
-		"named",
-		"proving",
-		"theorem proving"
-	],
+	"stemmed": ["leantap", "lean", "tableau", "base", "theorem", "prove"],
+	"tag": ["agile", "named", "proving", "theorem proving"],
 	"title": "leanTAP: Lean Tableau-Based Theorem Proving",
 	"type": "inproceedings",
 	"venue": "CADE",

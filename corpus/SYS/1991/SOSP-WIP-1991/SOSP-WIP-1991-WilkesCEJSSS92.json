@@ -1,13 +1,5 @@
 {
-	"author": [
-		"John Wilkes",
-		"Chia Chao",
-		"Robert English",
-		"David Jacobson",
-		"Bart Sears",
-		"Carl Staelin",
-		"Alexander A. Stepanov"
-	],
+	"author": ["John Wilkes", "Chia Chao", "Robert English", "David Jacobson", "Bart Sears", "Carl Staelin", "Alexander A. Stepanov"],
 	"dblpkey": "journals/sigops/WilkesCEJSSS92",
 	"doi": "10.1145/142111.964570",
 	"ee": "http://doi.acm.org/10.1145/142111.964570",
@@ -16,17 +8,8 @@
 	"pages": "11",
 	"publisher": "ACM",
 	"status": "abstract",
-	"stemmed": [
-		"data",
-		"mesh",
-		"parallel",
-		"storag",
-		"server",
-		"abstract"
-	],
-	"tag": [
-		"parallel"
-	],
+	"stemmed": ["data", "mesh", "parallel", "storag", "server"],
+	"tag": ["parallel"],
 	"title": "DataMesh Parallel Storage Servers",
 	"type": "article",
 	"venue": "SOSP",

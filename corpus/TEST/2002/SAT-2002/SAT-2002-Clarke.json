@@ -1,9 +1,5 @@
 {
-	"address": [
-		"Cincinnati",
-		"Ohio",
-		"USA"
-	],
+	"address": ["Cincinnati", "Ohio", "USA"],
 	"author": "Edmund Clarke",
 	"booktitle": "Proceedings of the Fifth International Symposium on the Theory and Applications of Satisfiability Testing",
 	"booktitleshort": "SAT",
@@ -11,26 +7,8 @@
 	"month": "may",
 	"pages": "26",
 	"status": "keynote",
-	"stemmed": [
-		"sat",
-		"base",
-		"abstract",
-		"refin",
-		"in",
-		"tempor",
-		"logic",
-		"model",
-		"check",
-		"keynot",
-		"talk"
-	],
-	"tag": [
-		"abstraction",
-		"logic",
-		"model checking",
-		"refinement",
-		"satisfiability"
-	],
+	"stemmed": ["sat", "base", "abstract", "refin", "in", "tempor", "logic", "model", "check"],
+	"tag": ["abstraction", "logic", "model checking", "refinement", "satisfiability"],
 	"title": "SAT based abstraction refinement in temporal logic model checking",
 	"type": "inproceedings",
 	"venue": "SAT",

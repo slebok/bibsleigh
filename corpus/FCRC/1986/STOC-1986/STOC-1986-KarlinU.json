@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Anna R. Karlin",
-		"Eli Upfal"
-	],
+	"author": ["Anna R. Karlin", "Eli Upfal"],
 	"booktitle": "Proceedings of the 18th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC18",
@@ -12,24 +9,8 @@
 	"pages": "160-168",
 	"publisher": "ACM",
 	"status": "work in progress",
-	"stemmed": [
-		"parallel",
-		"hash",
-		"an",
-		"effici",
-		"implement",
-		"of",
-		"share",
-		"memori",
-		"preliminari",
-		"version"
-	],
-	"tag": [
-		"implementation",
-		"memory management",
-		"parallel",
-		"performance"
-	],
+	"stemmed": ["parallel", "hash", "an", "effici", "implement", "of", "share", "memori"],
+	"tag": ["implementation", "memory management", "parallel", "performance"],
 	"title": "Parallel Hashing-An Efficient Implementation of Shared Memory",
 	"type": "inproceedings",
 	"venue": "STOC",

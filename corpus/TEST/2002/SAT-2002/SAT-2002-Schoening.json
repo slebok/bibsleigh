@@ -1,9 +1,5 @@
 {
-	"address": [
-		"Cincinnati",
-		"Ohio",
-		"USA"
-	],
+	"address": ["Cincinnati", "Ohio", "USA"],
 	"author": "Uwe Schöning",
 	"booktitle": "Proceedings of the Fifth International Symposium on the Theory and Applications of Satisfiability Testing",
 	"booktitleshort": "SAT",
@@ -11,21 +7,8 @@
 	"month": "may",
 	"pages": "1",
 	"status": "keynote",
-	"stemmed": [
-		"new",
-		"worst",
-		"case",
-		"bound",
-		"on",
-		"k",
-		"sat",
-		"keynot",
-		"talk"
-	],
-	"tag": [
-		"bound",
-		"satisfiability"
-	],
+	"stemmed": ["new", "worst", "case", "bound", "on", "k", "sat"],
+	"tag": ["bound", "satisfiability"],
 	"title": "New worst case bounds on k-SAT",
 	"type": "inproceedings",
 	"url": "http://gauss.ececs.uc.edu/Conferences/SAT2002/Abstracts/satalg.ps",

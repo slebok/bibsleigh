@@ -1,10 +1,5 @@
 {
-	"author": [
-		"Fabien Coulon",
-		"Thomas Degueule",
-		"Tijs van der Storm",
-		"Benoît Combemale"
-	],
+	"author": ["Fabien Coulon", "Thomas Degueule", "Tijs van der Storm", "Benoît Combemale"],
 	"booktitle": "Proceedings of the 11th International Conference on Software Language Engineering",
 	"booktitleshort": "SLE",
 	"crossref": "conf/sle/2018",
@@ -12,6 +7,8 @@
 	"ee": "http://doi.acm.org/10.1145/3276604.3276623",
 	"pages": "215-219",
 	"status": "vision",
+	"stemmed": ["shape", "divers", "dsls", "languag", "without", "border"],
+	"tag": ["domain-specific language"],
 	"title": "Shape-diverse DSLs: languages without borders",
 	"type": "inproceedings",
 	"url": "db/conf/sle/sle2018.html#CoulonDSC18",

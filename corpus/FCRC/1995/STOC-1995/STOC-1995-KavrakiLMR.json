@@ -1,10 +1,5 @@
 {
-	"author": [
-		"Lydia E. Kavraki",
-		"Jean-Claude Latombe",
-		"Rajeev Motwani",
-		"Prabhakar Raghavan"
-	],
+	"author": ["Lydia E. Kavraki", "Jean-Claude Latombe", "Rajeev Motwani", "Prabhakar Raghavan"],
 	"booktitle": "Proceedings of the 27th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC27",
@@ -14,21 +9,8 @@
 	"pages": "353-362",
 	"publisher": "ACM",
 	"status": "abstract",
-	"stemmed": [
-		"random",
-		"queri",
-		"process",
-		"in",
-		"robot",
-		"path",
-		"plan",
-		"extend",
-		"abstract"
-	],
-	"tag": [
-		"query",
-		"random"
-	],
+	"stemmed": ["random", "queri", "process", "in", "robot", "path", "plan"],
+	"tag": ["query", "random"],
 	"title": "Randomized query processing in robot path planning",
 	"type": "inproceedings",
 	"venue": "STOC",

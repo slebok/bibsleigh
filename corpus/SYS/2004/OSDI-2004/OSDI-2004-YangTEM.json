@@ -1,10 +1,5 @@
 {
-	"author": [
-		"Junfeng Yang",
-		"Paul Twohey",
-		"Dawson R. Engler",
-		"Madanlal Musuvathi"
-	],
+	"author": ["Junfeng Yang", "Paul Twohey", "Dawson R. Engler", "Madanlal Musuvathi"],
 	"booktitle": "Proceedings of the Sixth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2004",
@@ -13,27 +8,8 @@
 	"pages": "273-288",
 	"publisher": "USENIX Association",
 	"status": "best paper",
-	"stemmed": [
-		"use",
-		"model",
-		"check",
-		"to",
-		"find",
-		"serious",
-		"file",
-		"system",
-		"error",
-		"award",
-		"best",
-		"paper"
-	],
-	"tag": [
-		"exclamation",
-		"fault",
-		"file system",
-		"model checking",
-		"using"
-	],
+	"stemmed": ["use", "model", "check", "to", "find", "serious", "file", "system", "error"],
+	"tag": ["fault", "file system", "model checking", "using"],
 	"title": "Using Model Checking to Find Serious File System Errors",
 	"type": "inproceedings",
 	"venue": "OSDI",

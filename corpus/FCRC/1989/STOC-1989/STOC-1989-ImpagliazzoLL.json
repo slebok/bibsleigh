@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Russell Impagliazzo",
-		"Leonid A. Levin",
-		"Michael Luby"
-	],
+	"author": ["Russell Impagliazzo", "Leonid A. Levin", "Michael Luby"],
 	"booktitle": "Proceedings of the 21st Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC21",
@@ -13,21 +9,8 @@
 	"pages": "12-24",
 	"publisher": "ACM",
 	"status": "abstract",
-	"stemmed": [
-		"pseudo",
-		"random",
-		"generat",
-		"from",
-		"one",
-		"way",
-		"function",
-		"extend",
-		"abstract"
-	],
-	"tag": [
-		"generative",
-		"pseudo"
-	],
+	"stemmed": ["pseudo", "random", "generat", "from", "one", "way", "function"],
+	"tag": ["generative", "pseudo"],
 	"title": "Pseudo-random Generation from one-way functions",
 	"type": "inproceedings",
 	"venue": "STOC",

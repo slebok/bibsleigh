@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Yehuda Afek",
-		"Dalia Dauber",
-		"Dan Touitou"
-	],
+	"author": ["Yehuda Afek", "Dalia Dauber", "Dan Touitou"],
 	"booktitle": "Proceedings of the 27th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC27",
@@ -13,17 +9,8 @@
 	"pages": "538-547",
 	"publisher": "ACM",
 	"status": "abstract",
-	"stemmed": [
-		"wait",
-		"free",
-		"made",
-		"fast",
-		"extend",
-		"abstract"
-	],
-	"tag": [
-		"performance"
-	],
+	"stemmed": ["wait", "free", "made", "fast"],
+	"tag": ["performance"],
 	"title": "Wait-free made fast",
 	"type": "inproceedings",
 	"venue": "STOC",

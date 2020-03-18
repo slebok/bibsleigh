@@ -1,9 +1,5 @@
 {
-	"author": [
-		"David A. Mix Barrington",
-		"Richard Beigel",
-		"Steven Rudich"
-	],
+	"author": ["David A. Mix Barrington", "Richard Beigel", "Steven Rudich"],
 	"booktitle": "Proceedings of the 24th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC24",
@@ -13,21 +9,8 @@
 	"pages": "455-461",
 	"publisher": "ACM",
 	"status": "abstract",
-	"stemmed": [
-		"repres",
-		"boolean",
-		"function",
-		"as",
-		"polynomi",
-		"modulo",
-		"composit",
-		"number",
-		"extend",
-		"abstract"
-	],
-	"tag": [
-		"representation"
-	],
+	"stemmed": ["repres", "boolean", "function", "as", "polynomi", "modulo", "composit", "number"],
+	"tag": ["representation"],
 	"title": "Representing Boolean Functions as Polynomials Modulo Composite Numbers",
 	"type": "inproceedings",
 	"venue": "STOC",

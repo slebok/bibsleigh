@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Patrice Godefroid",
-		"Didier Pirottin"
-	],
+	"author": ["Patrice Godefroid", "Didier Pirottin"],
 	"booktitle": "Proceedings of the Fifth International Conference on Computer Aided Verification",
 	"booktitleshort": "CAV",
 	"crossref": "conf/cav/1993",
@@ -15,22 +12,8 @@
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
 	"status": "abstract",
-	"stemmed": [
-		"refin",
-		"depend",
-		"improv",
-		"partial",
-		"order",
-		"verif",
-		"method",
-		"extend",
-		"abstract"
-	],
-	"tag": [
-		"dependence",
-		"partial order",
-		"verification"
-	],
+	"stemmed": ["refin", "depend", "improv", "partial", "order", "verif", "method"],
+	"tag": ["dependence", "partial order", "verification"],
 	"title": "Refining Dependencies Improves Partial-Order Verification Methods",
 	"type": "inproceedings",
 	"venue": "CAV",

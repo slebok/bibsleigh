@@ -1,8 +1,5 @@
 {
-	"author": [
-		"S. Rao Kosaraju",
-		"Gregory F. Sullivan"
-	],
+	"author": ["S. Rao Kosaraju", "Gregory F. Sullivan"],
 	"booktitle": "Proceedings of the 20th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC20",
@@ -12,23 +9,8 @@
 	"pages": "398-406",
 	"publisher": "ACM",
 	"status": "work in progress",
-	"stemmed": [
-		"detect",
-		"cycl",
-		"in",
-		"dynam",
-		"graph",
-		"in",
-		"polynomi",
-		"time",
-		"preliminari",
-		"version"
-	],
-	"tag": [
-		"detection",
-		"graph",
-		"polynomial"
-	],
+	"stemmed": ["detect", "cycl", "in", "dynam", "graph", "in", "polynomi", "time"],
+	"tag": ["detection", "graph", "polynomial"],
 	"title": "Detecting Cycles in Dynamic Graphs in Polynomial Time",
 	"type": "inproceedings",
 	"venue": "STOC",

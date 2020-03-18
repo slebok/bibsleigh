@@ -1,12 +1,5 @@
 {
-	"author": [
-		"M. D. Canon",
-		"D. H. Fritz",
-		"John H. Howard",
-		"T. D. Howell",
-		"Michael F. Mitoma",
-		"Juan Rodriguez-Rossel"
-	],
+	"author": ["M. D. Canon", "D. H. Fritz", "John H. Howard", "T. D. Howell", "Michael F. Mitoma", "Juan Rodriguez-Rossel"],
 	"booktitle": "Proceedings of the Seventh Symposium on Operating System Principles",
 	"booktitleshort": "SOSP",
 	"crossref": "conf/sosp/1979",
@@ -17,22 +10,8 @@
 	"pages": "1",
 	"publisher": "ACM",
 	"status": "abstract",
-	"stemmed": [
-		"a",
-		"virtual",
-		"machin",
-		"emul",
-		"for",
-		"perform",
-		"evalu",
-		"summari"
-	],
-	"tag": [
-		"evaluation",
-		"performance",
-		"summary",
-		"virtual machine"
-	],
+	"stemmed": ["a", "virtual", "machin", "emul", "for", "perform", "evalu"],
+	"tag": ["evaluation", "performance", "virtual machine"],
 	"title": "A Virtual Machine Emulator for Performance Evaluation",
 	"type": "inproceedings",
 	"venue": "SOSP",

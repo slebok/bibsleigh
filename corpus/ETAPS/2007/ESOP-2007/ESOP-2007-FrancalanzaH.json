@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Adrian Francalanza",
-		"Matthew Hennessy"
-	],
+	"author": ["Adrian Francalanza", "Matthew Hennessy"],
 	"booktitle": "Proceedings of the 16th European Symposium on Programming",
 	"booktitleshort": "ESOP",
 	"crossref": "conf/esop/2007",
@@ -17,22 +14,8 @@
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
 	"status": "abstract",
-	"stemmed": [
-		"a",
-		"fault",
-		"toler",
-		"bisimul",
-		"proof",
-		"for",
-		"consensus",
-		"extend",
-		"abstract"
-	],
-	"tag": [
-		"bisimulation",
-		"fault tolerance",
-		"proving"
-	],
+	"stemmed": ["a", "fault", "toler", "bisimul", "proof", "for", "consensus"],
+	"tag": ["bisimulation", "fault tolerance", "proving"],
 	"title": "A Fault Tolerance Bisimulation Proof for Consensus",
 	"type": "inproceedings",
 	"venue": "ESOP",

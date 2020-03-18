@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Kieran Harty",
-		"David R. Cheriton"
-	],
+	"author": ["Kieran Harty", "David R. Cheriton"],
 	"dblpkey": "journals/sigops/HartyC92",
 	"doi": "10.1145/142111.964620",
 	"ee": "http://doi.acm.org/10.1145/142111.964620",
@@ -11,23 +8,8 @@
 	"pages": "19",
 	"publisher": "ACM",
 	"status": "abstract",
-	"stemmed": [
-		"applic",
-		"control",
-		"physic",
-		"memori",
-		"use",
-		"extern",
-		"page",
-		"cach",
-		"manag",
-		"abstract"
-	],
-	"tag": [
-		"memory management",
-		"physics",
-		"using"
-	],
+	"stemmed": ["applic", "control", "physic", "memori", "use", "extern", "page", "cach", "manag"],
+	"tag": ["memory management", "physics", "using"],
 	"title": "Application-Controlled Physical Memory using External Page-Cache Management",
 	"type": "article",
 	"venue": "SOSP",

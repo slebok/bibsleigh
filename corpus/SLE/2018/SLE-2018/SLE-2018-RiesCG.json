@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Benoît Ries",
-		"Alfredo Capozucca",
-		"Nicolas Guelfi"
-	],
+	"author": ["Benoît Ries", "Alfredo Capozucca", "Nicolas Guelfi"],
 	"booktitle": "Proceedings of the 11th International Conference on Software Language Engineering",
 	"booktitleshort": "SLE",
 	"crossref": "conf/sle/2018",
@@ -11,6 +7,8 @@
 	"ee": "http://doi.acm.org/10.1145/3276604.3276614",
 	"pages": "103-107",
 	"status": "tool",
+	"stemmed": ["messir", "a", "text", "first", "dsl", "base", "approach", "for", "uml", "requir", "engin"],
+	"tag": ["approach", "named", "requirements", "uml"],
 	"title": "Messir: a text-first DSL-based approach for UML requirements engineering",
 	"type": "inproceedings",
 	"url": "db/conf/sle/sle2018.html#RiesCG18",

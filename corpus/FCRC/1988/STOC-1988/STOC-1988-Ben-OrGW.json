@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Michael Ben-Or",
-		"Shafi Goldwasser",
-		"Avi Wigderson"
-	],
+	"author": ["Michael Ben-Or", "Shafi Goldwasser", "Avi Wigderson"],
 	"booktitle": "Proceedings of the 20th Annual ACM Symposium on Theory of Computing",
 	"booktitleshort": "STOC",
 	"crossref": "conf/stoc/STOC20",
@@ -13,24 +9,8 @@
 	"pages": "1-10",
 	"publisher": "ACM",
 	"status": "abstract",
-	"stemmed": [
-		"complet",
-		"theorem",
-		"for",
-		"non",
-		"cryptograph",
-		"fault",
-		"toler",
-		"distribut",
-		"comput",
-		"extend",
-		"abstract"
-	],
-	"tag": [
-		"distributed",
-		"fault tolerance",
-		"theorem"
-	],
+	"stemmed": ["complet", "theorem", "for", "non", "cryptograph", "fault", "toler", "distribut", "comput"],
+	"tag": ["distributed", "fault tolerance", "theorem"],
 	"title": "Completeness Theorems for Non-Cryptographic Fault-Tolerant Distributed Computation",
 	"type": "inproceedings",
 	"venue": "STOC",

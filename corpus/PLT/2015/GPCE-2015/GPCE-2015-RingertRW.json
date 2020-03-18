@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Jan Oliver Ringert",
-		"Bernhard Rumpe",
-		"Andreas Wortmann"
-	],
+	"author": ["Jan Oliver Ringert", "Bernhard Rumpe", "Andreas Wortmann"],
 	"booktitle": "Proceedings of the 14th International Conference on Generative Programming: Concepts and Experiences",
 	"booktitleshort": "GPCE",
 	"crossref": "conf/gpce/2015",
@@ -12,27 +8,8 @@
 	"pages": "113-116",
 	"publisher": "ACM",
 	"status": "tool",
-	"stemmed": [
-		"compos",
-		"code",
-		"generat",
-		"for",
-		"c",
-		"c",
-		"adl",
-		"with",
-		"applic",
-		"specif",
-		"behavior",
-		"languag",
-		"tool",
-		"demonstr"
-	],
-	"tag": [
-		"behaviour",
-		"code generation",
-		"tool support"
-	],
+	"stemmed": ["compos", "code", "generat", "for", "c", "c", "adl", "with", "applic", "specif", "behavior", "languag"],
+	"tag": ["behaviour", "code generation"],
 	"title": "Composing code generators for C&C ADLs with Application-specific behavior languages",
 	"type": "inproceedings",
 	"venue": "GPCE",

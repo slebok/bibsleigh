@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Tomoya Tanjo",
-		"Naoyuki Tamura",
-		"Mutsunori Banbara"
-	],
+	"author": ["Tomoya Tanjo", "Naoyuki Tamura", "Mutsunori Banbara"],
 	"booktitle": "Proceedings of the 15th International Conference on Theory and Applications of Satisfiability Testing",
 	"booktitleshort": "SAT",
 	"crossref": "conf/sat/2012",
@@ -16,28 +12,8 @@
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
 	"status": "tool",
-	"stemmed": [
-		"azucar",
-		"a",
-		"sat",
-		"base",
-		"csp",
-		"solver",
-		"use",
-		"compact",
-		"order",
-		"encod",
-		"tool",
-		"present"
-	],
-	"tag": [
-		"csp",
-		"encoding",
-		"named",
-		"order",
-		"satisfiability",
-		"using"
-	],
+	"stemmed": ["azucar", "a", "sat", "base", "csp", "solver", "use", "compact", "order", "encod"],
+	"tag": ["csp", "encoding", "named", "order", "satisfiability", "using"],
 	"title": "Azucar: A SAT-Based CSP Solver Using Compact Order Encoding —",
 	"type": "inproceedings",
 	"venue": "ICST",
