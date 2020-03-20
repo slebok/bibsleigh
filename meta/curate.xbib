@@ -44,5 +44,9 @@ when acmid =~ https://dl.acm.org/citation.cfm?id=
 -- Specific to venues!
 when booktitle
 	rename to titleshort
+when titleshort ~= _Conference
+	truncate right 11
 when titleshort == ACM_Symposium_on_Document_Engineering
 	assign DocEng
+when no venue
+	assign $titleshort
