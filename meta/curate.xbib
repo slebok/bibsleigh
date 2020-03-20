@@ -1,0 +1,48 @@
+corpus c:\bigrepos\bibsleigh\json\corpus
+in */*/*/*
+
+-- If a paper has no venue, inherit from the conference
+when no venue
+	inherit venue
+
+-- Useless unclickable value, legacy of DBLP importing
+when url =~ db/conf/
+	remove url
+
+-- Convert EE to DOI, ACMID and other special fields
+when ee =~ https://doi.org/
+	rename to doi
+when ee =~ https://dl.acm.org/citation.cfm?id=
+	rename to acmid
+
+-- Curate DOI and ACMID fields of addresses
+when doi =~ https://doi.org/
+	truncate left 16
+when acmid =~ https://dl.acm.org/citation.cfm?id=
+	truncate left 35
+
+--always
+
+---------------------------------------------------------------
+-- now it's time for rewriting venues, not individual papers --
+---------------------------------------------------------------
+
+in */*/*
+
+-- Clones of things above
+when url =~ db/conf/
+	remove url
+when ee =~ https://doi.org/
+	rename to doi
+when ee =~ https://dl.acm.org/citation.cfm?id=
+	rename to acmid
+when doi =~ https://doi.org/
+	truncate left 16
+when acmid =~ https://dl.acm.org/citation.cfm?id=
+	truncate left 35
+
+-- Specific to venues!
+when booktitle
+	rename to titleshort
+when titleshort == ACM_Symposium_on_Document_Engineering
+	assign DocEng
