@@ -21,6 +21,10 @@ when doi =~ https://doi.org/
 when acmid =~ https://dl.acm.org/citation.cfm?id=
 	truncate left 35
 
+-- Inherit good booktitle
+when booktitle =^= titleshort
+	inherit title
+
 --always
 
 -- temp
