@@ -22,9 +22,9 @@ when acmid =~ https://dl.acm.org/citation.cfm?id=
 	truncate left 35
 
 -- Inherit good booktitle
--- the next misfires on journals
---when no booktitleshort
---	inherit titleshort
+when booktitle
+	when no booktitleshort
+		inherit titleshort
 when booktitle =^= titleshort
 	inherit title
 
