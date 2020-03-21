@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Cheng-Yin Wu",
-		"Chi-An Wu",
-		"Chien-Yu Lai",
-		"Chung-Yang (Ric) Huang"
-	],
+	"author": ["Cheng-Yin Wu", "Chi-An Wu", "Chien-Yu Lai", "Chung-Yang (Ric) Huang"],
 	"booktitle": "Proceedings of the 50th Annual Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2013",
 	"dblpkey": "conf/dac/WuWLH13",
 	"doi": "10.1145/2463209.2488879",
-	"ee": "http://doi.acm.org/10.1145/2463209.2488879",
 	"pages": "118:1-118:6",
 	"publisher": "ACM",
-	"stemmed": [
-		"a",
-		"counterexampl",
-		"guid",
-		"interpol",
-		"generat",
-		"algorithm",
-		"for",
-		"sat",
-		"base",
-		"model",
-		"check"
-	],
-	"tag": [
-		"algorithm",
-		"generative",
-		"model checking",
-		"satisfiability"
-	],
+	"stemmed": ["a", "counterexampl", "guid", "interpol", "generat", "algorithm", "for", "sat", "base", "model", "check"],
+	"tag": ["algorithm", "generative", "model checking", "satisfiability"],
 	"title": "A counterexample-guided interpolant generation algorithm for SAT-based model checking",
 	"type": "inproceedings",
 	"venue": "DAC",

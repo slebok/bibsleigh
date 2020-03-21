@@ -1,42 +1,16 @@
 {
-	"author": [
-		"Jeff Huang",
-		"Peng Liu",
-		"Charles Zhang"
-	],
+	"author": ["Jeff Huang", "Peng Liu", "Charles Zhang"],
 	"booktitle": "Proceedings of the 18th International Symposium on Foundations of Software Engineering",
 	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2010",
 	"dblpkey": "conf/sigsoft/HuangLZ10a",
 	"doi": "10.1145/1882291.1882361",
-	"editor": [
-		"Gruia-Catalin Roman",
-		"Kevin J. Sullivan"
-	],
-	"ee": "http://doi.acm.org/10.1145/1882291.1882361",
+	"editor": ["Gruia-Catalin Roman", "Kevin J. Sullivan"],
 	"isbn": "978-1-60558-791-2",
 	"pages": "385-386",
 	"publisher": "ACM",
-	"stemmed": [
-		"leap",
-		"lightweight",
-		"determinist",
-		"multi",
-		"processor",
-		"replay",
-		"of",
-		"concurr",
-		"java",
-		"program"
-	],
-	"tag": [
-		"concurrent",
-		"java",
-		"lightweight",
-		"multi",
-		"named",
-		"source code"
-	],
+	"stemmed": ["leap", "lightweight", "determinist", "multi", "processor", "replay", "of", "concurr", "java", "program"],
+	"tag": ["concurrent", "java", "lightweight", "multi", "named", "source code"],
 	"title": "LEAP: lightweight deterministic multi-processor replay of concurrent java programs",
 	"type": "inproceedings",
 	"venue": "FSE",

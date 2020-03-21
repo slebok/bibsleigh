@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Matthias Hauswirth",
-		"Trishul M. Chilimbi"
-	],
+	"author": ["Matthias Hauswirth", "Trishul M. Chilimbi"],
 	"booktitle": "Proceedings of the 11th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2004",
 	"dblpkey": "conf/asplos/HauswirthC04",
 	"doi": "10.1145/1024393.1024412",
-	"ee": "http://doi.acm.org/10.1145/1024393.1024412",
 	"pages": "156-164",
 	"publisher": "ACM",
-	"stemmed": [
-		"low",
-		"overhead",
-		"memori",
-		"leak",
-		"detect",
-		"use",
-		"adapt",
-		"statist",
-		"profil"
-	],
-	"tag": [
-		"adaptation",
-		"detection",
-		"memory management",
-		"profiling",
-		"statistics",
-		"using"
-	],
+	"stemmed": ["low", "overhead", "memori", "leak", "detect", "use", "adapt", "statist", "profil"],
+	"tag": ["adaptation", "detection", "memory management", "profiling", "statistics", "using"],
 	"title": "Low-overhead memory leak detection using adaptive statistical profiling",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

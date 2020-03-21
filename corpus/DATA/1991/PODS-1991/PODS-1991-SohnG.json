@@ -1,55 +1,16 @@
 {
-	"author": [
-		"Kirack Sohn",
-		"Allen Van Gelder"
-	],
+	"author": ["Kirack Sohn", "Allen Van Gelder"],
 	"booktitle": "Proceedings of the 10th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS91/P216.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS91/P216.PDF"
-	],
-	"cite": [
-		"journals/jcss/AfratiPPRSU89",
-		"conf/pods/BrodskyS89",
-		"conf/dood/BrodskyS89",
-		"conf/pods/BrodskyS91",
-		"...",
-		"conf/pods/Lassez90",
-		"conf/slp/LassezHM89",
-		"...",
-		"...",
-		"...",
-		"...",
-		"...",
-		"journals/tods/Ullman85",
-		"journals/jacm/UllmanG88",
-		"conf/pods/Gelder90",
-		"..."
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS91/P216.PDF", "journals/anthology/dvd1:text/1-3/PODS91/P216.PDF"],
+	"cite": ["journals/jcss/AfratiPPRSU89", "conf/pods/BrodskyS89", "conf/dood/BrodskyS89", "conf/pods/BrodskyS91", "...", "conf/pods/Lassez90", "conf/slp/LassezHM89", "...", "...", "...", "...", "...", "journals/tods/Ullman85", "journals/jacm/UllmanG88", "conf/pods/Gelder90", "..."],
 	"crossref": "conf/pods/91",
 	"dblpkey": "conf/pods/SohnG91",
 	"doi": "10.1145/113413.113433",
-	"ee": "http://doi.acm.org/10.1145/113413.113433",
 	"pages": "216-226",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"termin",
-		"detect",
-		"in",
-		"logic",
-		"program",
-		"use",
-		"argument",
-		"size"
-	],
-	"tag": [
-		"detection",
-		"logic programming",
-		"source code",
-		"termination",
-		"using"
-	],
+	"stemmed": ["termin", "detect", "in", "logic", "program", "use", "argument", "size"],
+	"tag": ["detection", "logic programming", "source code", "termination", "using"],
 	"title": "Termination Detection in Logic Programs using Argument Sizes",
 	"type": "inproceedings",
 	"venue": "PODS",

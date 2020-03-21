@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Manohar K. Prabhu",
-		"Kunle Olukotun"
-	],
+	"author": ["Manohar K. Prabhu", "Kunle Olukotun"],
 	"booktitle": "Proceedings of the Ninth Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2003",
 	"dblpkey": "conf/ppopp/PrabhuO03",
 	"doi": "10.1145/781498.781500",
-	"ee": "http://doi.acm.org/10.1145/781498.781500",
 	"pages": "1-12",
 	"publisher": "ACM",
-	"stemmed": [
-		"use",
-		"thread",
-		"level",
-		"specul",
-		"to",
-		"simplifi",
-		"manual",
-		"parallel"
-	],
-	"tag": [
-		"concurrent",
-		"parallel",
-		"thread",
-		"using"
-	],
+	"stemmed": ["use", "thread", "level", "specul", "to", "simplifi", "manual", "parallel"],
+	"tag": ["concurrent", "parallel", "thread", "using"],
 	"title": "Using thread-level speculation to simplify manual parallelization",
 	"type": "inproceedings",
 	"venue": "PPoPP",

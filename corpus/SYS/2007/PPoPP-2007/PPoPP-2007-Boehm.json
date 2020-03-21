@@ -5,22 +5,10 @@
 	"crossref": "conf/ppopp/2007",
 	"dblpkey": "conf/ppopp/Boehm07",
 	"doi": "10.1145/1229428.1229470",
-	"ee": "http://doi.acm.org/10.1145/1229428.1229470",
 	"pages": "173-182",
 	"publisher": "ACM",
-	"stemmed": [
-		"reorder",
-		"constraint",
-		"for",
-		"pthread",
-		"style",
-		"lock"
-	],
-	"tag": [
-		"constraints",
-		"order",
-		"thread"
-	],
+	"stemmed": ["reorder", "constraint", "for", "pthread", "style", "lock"],
+	"tag": ["constraints", "order", "thread"],
 	"title": "Reordering constraints for pthread-style locks",
 	"type": "inproceedings",
 	"venue": "PPoPP",

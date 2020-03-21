@@ -1,44 +1,16 @@
 {
-	"author": [
-		"Heather Miller",
-		"Philipp Haller",
-		"Eugene Burmako",
-		"Martin Odersky"
-	],
+	"author": ["Heather Miller", "Philipp Haller", "Eugene Burmako", "Martin Odersky"],
 	"booktitle": "Proceedings of the 28th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2013",
 	"dblpkey": "conf/oopsla/MillerHBO13",
 	"doi": "10.1145/2509136.2509547",
-	"editor": [
-		"Antony L. Hosking",
-		"Patrick Th. Eugster",
-		"Cristina Videira Lopes"
-	],
-	"ee": "http://doi.acm.org/10.1145/2509136.2509547",
+	"editor": ["Antony L. Hosking", "Patrick Th. Eugster", "Cristina Videira Lopes"],
 	"isbn": "978-1-4503-2374-1",
 	"pages": "183-202",
 	"publisher": "ACM",
-	"stemmed": [
-		"instant",
-		"pickl",
-		"generat",
-		"object",
-		"orient",
-		"pickler",
-		"combin",
-		"for",
-		"fast",
-		"and",
-		"extens",
-		"serial"
-	],
-	"tag": [
-		"combinator",
-		"generative",
-		"object-oriented",
-		"performance"
-	],
+	"stemmed": ["instant", "pickl", "generat", "object", "orient", "pickler", "combin", "for", "fast", "and", "extens", "serial"],
+	"tag": ["combinator", "generative", "object-oriented", "performance"],
 	"title": "Instant pickles: generating object-oriented pickler combinators for fast and extensible serialization",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

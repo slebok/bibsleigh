@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Luca Becchetti",
-		"Paolo Boldi",
-		"Carlos Castillo",
-		"Aristides Gionis"
-	],
+	"author": ["Luca Becchetti", "Paolo Boldi", "Carlos Castillo", "Aristides Gionis"],
 	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/BecchettiBCG08",
 	"doi": "10.1145/1401890.1401898",
-	"ee": "http://doi.acm.org/10.1145/1401890.1401898",
 	"pages": "16-24",
 	"publisher": "ACM",
-	"stemmed": [
-		"effici",
-		"semi",
-		"stream",
-		"algorithm",
-		"for",
-		"local",
-		"triangl",
-		"count",
-		"in",
-		"massiv",
-		"graph"
-	],
-	"tag": [
-		"algorithm",
-		"graph",
-		"performance"
-	],
+	"stemmed": ["effici", "semi", "stream", "algorithm", "for", "local", "triangl", "count", "in", "massiv", "graph"],
+	"tag": ["algorithm", "graph", "performance"],
 	"title": "Efficient semi-streaming algorithms for local triangle counting in massive graphs",
 	"type": "inproceedings",
 	"venue": "KDD",

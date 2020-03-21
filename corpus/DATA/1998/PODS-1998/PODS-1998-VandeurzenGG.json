@@ -1,57 +1,16 @@
 {
-	"author": [
-		"Luc Vandeurzen",
-		"Marc Gyssens",
-		"Dirk Van Gucht"
-	],
+	"author": ["Luc Vandeurzen", "Marc Gyssens", "Dirk Van Gucht"],
 	"booktitle": "Proceedings of the 17th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS98/P109.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS98/P109.PDF"
-	],
-	"cite": [
-		"conf/cdb/AfratiAK97",
-		"conf/ppcp/AfratiCGK94",
-		"conf/pods/BenediktDLW96",
-		"conf/pods/BenediktL97",
-		"conf/pods/BenediktL98",
-		"...",
-		"...",
-		"conf/pods/ChomickiGK96",
-		"conf/pods/GuchtDGV97",
-		"...",
-		"conf/lcc/GrumbachST94",
-		"...",
-		"journals/jcss/KanellakisKR95",
-		"journals/cj/NievergeltF94",
-		"...",
-		"conf/pods/ParedaensBG94",
-		"journals/sigmod/PissinouSEMOPSTD94",
-		"conf/ssd/VandeurzenGG95",
-		"conf/cp/VandeurzenGG96"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS98/P109.PDF", "journals/anthology/dvd1:text/1-3/PODS98/P109.PDF"],
+	"cite": ["conf/cdb/AfratiAK97", "conf/ppcp/AfratiCGK94", "conf/pods/BenediktDLW96", "conf/pods/BenediktL97", "conf/pods/BenediktL98", "...", "...", "conf/pods/ChomickiGK96", "conf/pods/GuchtDGV97", "...", "conf/lcc/GrumbachST94", "...", "journals/jcss/KanellakisKR95", "journals/cj/NievergeltF94", "...", "conf/pods/ParedaensBG94", "journals/sigmod/PissinouSEMOPSTD94", "conf/ssd/VandeurzenGG95", "conf/cp/VandeurzenGG96"],
 	"crossref": "conf/pods/98",
 	"dblpkey": "conf/pods/VandeurzenGG98",
 	"doi": "10.1145/275487.275500",
-	"ee": "http://doi.acm.org/10.1145/275487.275500",
 	"pages": "109-118",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"an",
-		"express",
-		"languag",
-		"for",
-		"linear",
-		"spatial",
-		"databas",
-		"queri"
-	],
-	"tag": [
-		"database",
-		"linear",
-		"query"
-	],
+	"stemmed": ["an", "express", "languag", "for", "linear", "spatial", "databas", "queri"],
+	"tag": ["database", "linear", "query"],
 	"title": "An Expressive Language for Linear Spatial Database Queries",
 	"type": "inproceedings",
 	"venue": "PODS",

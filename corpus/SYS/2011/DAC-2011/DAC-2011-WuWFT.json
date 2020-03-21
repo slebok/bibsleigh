@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Meng-Huan Wu",
-		"Peng-Chih Wang",
-		"Cheng-Yang Fu",
-		"Ren-Song Tsay"
-	],
+	"author": ["Meng-Huan Wu", "Peng-Chih Wang", "Cheng-Yang Fu", "Ren-Song Tsay"],
 	"booktitle": "Proceedings of the 48th Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/WuWFT11",
 	"doi": "10.1145/2024724.2024807",
-	"ee": "http://doi.acm.org/10.1145/2024724.2024807",
 	"pages": "339-344",
 	"publisher": "ACM",
-	"stemmed": [
-		"a",
-		"high",
-		"parallel",
-		"distribut",
-		"schedul",
-		"mechan",
-		"for",
-		"multi",
-		"core",
-		"instruct",
-		"set",
-		"simul"
-	],
-	"tag": [
-		"distributed",
-		"manycore",
-		"scheduling",
-		"simulation"
-	],
+	"stemmed": ["a", "high", "parallel", "distribut", "schedul", "mechan", "for", "multi", "core", "instruct", "set", "simul"],
+	"tag": ["distributed", "manycore", "scheduling", "simulation"],
 	"title": "A high-parallelism distributed scheduling mechanism for multi-core instruction-set simulation",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Cristiana Amza",
-		"Alan L. Cox",
-		"Karthick Rajamani",
-		"Willy Zwaenepoel"
-	],
+	"author": ["Cristiana Amza", "Alan L. Cox", "Karthick Rajamani", "Willy Zwaenepoel"],
 	"booktitle": "Proceedings of the Sixth Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1997",
 	"dblpkey": "conf/ppopp/AmzaCRZ97",
 	"doi": "10.1145/263764.263778",
-	"ee": "http://doi.acm.org/10.1145/263764.263778",
 	"pages": "90-99",
 	"publisher": "ACM",
-	"stemmed": [
-		"trade",
-		"off",
-		"between",
-		"fals",
-		"share",
-		"and",
-		"aggreg",
-		"in",
-		"softwar",
-		"distribut",
-		"share",
-		"memori"
-	],
-	"tag": [
-		"distributed",
-		"memory management",
-		"trade-off"
-	],
+	"stemmed": ["trade", "off", "between", "fals", "share", "and", "aggreg", "in", "softwar", "distribut", "share", "memori"],
+	"tag": ["distributed", "memory management", "trade-off"],
 	"title": "Trade-offs Between False Sharing and Aggregation in Software Distributed Shared Memory",
 	"type": "inproceedings",
 	"venue": "PPoPP",

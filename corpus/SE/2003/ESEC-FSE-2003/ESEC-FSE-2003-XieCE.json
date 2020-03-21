@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Yichen Xie",
-		"Andy Chou",
-		"Dawson R. Engler"
-	],
+	"author": ["Yichen Xie", "Andy Chou", "Dawson R. Engler"],
 	"booktitle": "Proceedings of the 11th Symposium on Foundations of Software Engineering held jointly with the Ninth European Software Engineering Conference",
 	"booktitleshort": "ESEC/FSE",
 	"crossref": "conf/sigsoft/2003",
 	"dblpkey": "conf/sigsoft/XieCE03",
 	"doi": "10.1145/940071.940115",
-	"ee": "http://doi.acm.org/10.1145/940071.940115",
 	"pages": "327-336",
 	"publisher": "ACM",
-	"stemmed": [
-		"archer",
-		"use",
-		"symbol",
-		"path",
-		"sensit",
-		"analysi",
-		"to",
-		"detect",
-		"memori",
-		"access",
-		"error"
-	],
-	"tag": [
-		"analysis",
-		"detection",
-		"fault",
-		"memory management",
-		"named",
-		"using"
-	],
+	"stemmed": ["archer", "use", "symbol", "path", "sensit", "analysi", "to", "detect", "memori", "access", "error"],
+	"tag": ["analysis", "detection", "fault", "memory management", "named", "using"],
 	"title": "ARCHER: using symbolic, path-sensitive analysis to detect memory access errors",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

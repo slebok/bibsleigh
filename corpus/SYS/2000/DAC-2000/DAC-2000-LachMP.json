@@ -1,35 +1,13 @@
 {
-	"author": [
-		"John Lach",
-		"William H. Mangione-Smith",
-		"Miodrag Potkonjak"
-	],
+	"author": ["John Lach", "William H. Mangione-Smith", "Miodrag Potkonjak"],
 	"booktitle": "Proceedings of the 37th Design Automation Conference",
 	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/LachMP00",
 	"doi": "10.1145/337292.337391",
-	"ee": "http://doi.acm.org/10.1145/337292.337391",
 	"pages": "207-212",
 	"publisher": "ACM",
-	"stemmed": [
-		"effici",
-		"error",
-		"detect",
-		"local",
-		"and",
-		"correct",
-		"for",
-		"fpga",
-		"base",
-		"debug"
-	],
-	"tag": [
-		"debugging",
-		"detection",
-		"fault",
-		"locality",
-		"performance"
-	],
+	"stemmed": ["effici", "error", "detect", "local", "and", "correct", "for", "fpga", "base", "debug"],
+	"tag": ["debugging", "detection", "fault", "locality", "performance"],
 	"title": "Efficient error detection, localization, and correction for FPGA-based debugging",
 	"type": "inproceedings",
 	"venue": "DAC",

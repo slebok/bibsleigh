@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Aaron Schein",
-		"John William Paisley",
-		"David M. Blei",
-		"Hanna M. Wallach"
-	],
+	"author": ["Aaron Schein", "John William Paisley", "David M. Blei", "Hanna M. Wallach"],
 	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/ScheinPBW15",
 	"doi": "10.1145/2783258.2783414",
-	"ee": "http://doi.acm.org/10.1145/2783258.2783414",
 	"pages": "1045-1054",
 	"publisher": "ACM",
-	"stemmed": [
-		"bayesian",
-		"poisson",
-		"tensor",
-		"factor",
-		"for",
-		"infer",
-		"multilater",
-		"relat",
-		"from",
-		"spars",
-		"dyadic",
-		"event",
-		"count"
-	],
-	"tag": [
-		"multi"
-	],
+	"stemmed": ["bayesian", "poisson", "tensor", "factor", "for", "infer", "multilater", "relat", "from", "spars", "dyadic", "event", "count"],
+	"tag": ["multi"],
 	"title": "Bayesian Poisson Tensor Factorization for Inferring Multilateral Relations from Sparse Dyadic Event Counts",
 	"type": "inproceedings",
 	"venue": "KDD",

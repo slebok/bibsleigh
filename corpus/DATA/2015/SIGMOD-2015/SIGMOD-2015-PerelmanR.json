@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Adam Perelman",
-		"Christopher Ré"
-	],
+	"author": ["Adam Perelman", "Christopher Ré"],
 	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/PerelmanR15",
 	"doi": "10.1145/2723372.2764945",
-	"ee": "http://doi.acm.org/10.1145/2723372.2764945",
 	"pages": "2075-2076",
 	"publisher": "ACM",
-	"stemmed": [
-		"dunc",
-		"cap",
-		"compil",
-		"worst",
-		"case",
-		"optim",
-		"queri",
-		"plan"
-	],
-	"tag": [
-		"compilation",
-		"named",
-		"query",
-		"worst-case"
-	],
+	"stemmed": ["dunc", "cap", "compil", "worst", "case", "optim", "queri", "plan"],
+	"tag": ["compilation", "named", "query", "worst-case"],
 	"title": "DunceCap: Compiling Worst-Case Optimal Query Plans",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

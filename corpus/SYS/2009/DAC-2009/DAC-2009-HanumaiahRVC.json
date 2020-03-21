@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Vinay Hanumaiah",
-		"Ravishankar Rao",
-		"Sarma B. K. Vrudhula",
-		"Karam S. Chatha"
-	],
+	"author": ["Vinay Hanumaiah", "Ravishankar Rao", "Sarma B. K. Vrudhula", "Karam S. Chatha"],
 	"booktitle": "Proceedings of the 46th Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/HanumaiahRVC09",
 	"doi": "10.1145/1629911.1630112",
-	"ee": "http://doi.acm.org/10.1145/1629911.1630112",
 	"pages": "776-781",
 	"publisher": "ACM",
-	"stemmed": [
-		"throughput",
-		"optim",
-		"task",
-		"alloc",
-		"under",
-		"thermal",
-		"constraint",
-		"for",
-		"multi",
-		"core",
-		"processor"
-	],
-	"tag": [
-		"constraints",
-		"manycore",
-		"throughput"
-	],
+	"stemmed": ["throughput", "optim", "task", "alloc", "under", "thermal", "constraint", "for", "multi", "core", "processor"],
+	"tag": ["constraints", "manycore", "throughput"],
 	"title": "Throughput optimal task allocation under thermal constraints for multi-core processors",
 	"type": "inproceedings",
 	"venue": "DAC",

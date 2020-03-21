@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Nima Asadi",
-		"Jimmy Lin",
-		"Michael Busch"
-	],
+	"author": ["Nima Asadi", "Jimmy Lin", "Michael Busch"],
 	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/AsadiLB13",
 	"doi": "10.1145/2487575.2488221",
-	"ee": "http://doi.acm.org/10.1145/2487575.2488221",
 	"pages": "1186-1194",
 	"publisher": "ACM",
-	"stemmed": [
-		"dynam",
-		"memori",
-		"alloc",
-		"polici",
-		"for",
-		"post",
-		"in",
-		"real",
-		"time",
-		"twitter",
-		"search"
-	],
-	"tag": [
-		"memory management",
-		"policy",
-		"realtime",
-		"twitter"
-	],
+	"stemmed": ["dynam", "memori", "alloc", "polici", "for", "post", "in", "real", "time", "twitter", "search"],
+	"tag": ["memory management", "policy", "realtime", "twitter"],
 	"title": "Dynamic memory allocation policies for postings in real-time Twitter search",
 	"type": "inproceedings",
 	"venue": "KDD",

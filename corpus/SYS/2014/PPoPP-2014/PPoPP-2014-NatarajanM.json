@@ -1,29 +1,14 @@
 {
-	"author": [
-		"Aravind Natarajan",
-		"Neeraj Mittal"
-	],
+	"author": ["Aravind Natarajan", "Neeraj Mittal"],
 	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/NatarajanM14",
 	"doi": "10.1145/2555243.2555256",
-	"ee": "http://doi.acm.org/10.1145/2555243.2555256",
 	"pages": "317-328",
 	"publisher": "ACM",
-	"stemmed": [
-		"fast",
-		"concurr",
-		"lock",
-		"free",
-		"binari",
-		"search",
-		"tree"
-	],
-	"tag": [
-		"concurrent",
-		"performance"
-	],
+	"stemmed": ["fast", "concurr", "lock", "free", "binari", "search", "tree"],
+	"tag": ["concurrent", "performance"],
 	"title": "Fast concurrent lock-free binary search trees",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Donald G. Morris",
-		"David K. Lowenthal"
-	],
+	"author": ["Donald G. Morris", "David K. Lowenthal"],
 	"booktitle": "Proceedings of the Eighth Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2001",
 	"dblpkey": "conf/ppopp/MorrisL01",
 	"doi": "10.1145/379539.379570",
-	"ee": "http://doi.acm.org/10.1145/379539.379570",
 	"pages": "62-71",
 	"publisher": "ACM",
-	"stemmed": [
-		"accur",
-		"data",
-		"redistribut",
-		"cost",
-		"estim",
-		"in",
-		"softwar",
-		"distribut",
-		"share",
-		"memori",
-		"system"
-	],
-	"tag": [
-		"distributed",
-		"estimation",
-		"memory management"
-	],
+	"stemmed": ["accur", "data", "redistribut", "cost", "estim", "in", "softwar", "distribut", "share", "memori", "system"],
+	"tag": ["distributed", "estimation", "memory management"],
 	"title": "Accurate data redistribution cost estimation in software distributed shared memory systems",
 	"type": "inproceedings",
 	"venue": "PPoPP",

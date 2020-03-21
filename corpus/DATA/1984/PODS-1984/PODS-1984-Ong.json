@@ -2,38 +2,15 @@
 	"author": "Kee S. Ong",
 	"booktitle": "Proceedings of the Third Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS84/P079.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS84/P079.PDF"
-	],
-	"cite": [
-		"journals/cacm/EswarranGLT76",
-		"...",
-		"conf/ac/Gray78",
-		"...",
-		"...",
-		"journals/debu/Jones83",
-		"conf/vldb/Litwin80",
-		"journals/cacm/Stonebraker81",
-		"journals/sigops/Traiger82"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS84/P079.PDF", "journals/anthology/dvd1:text/1-3/PODS84/P079.PDF"],
+	"cite": ["journals/cacm/EswarranGLT76", "...", "conf/ac/Gray78", "...", "...", "journals/debu/Jones83", "conf/vldb/Litwin80", "journals/cacm/Stonebraker81", "journals/sigops/Traiger82"],
 	"crossref": "conf/pods/84",
 	"dblpkey": "conf/pods/Ong84",
 	"doi": "10.1145/588011.588024",
-	"ee": "http://doi.acm.org/10.1145/588011.588024",
 	"pages": "79-85",
 	"publisher": "ACM",
-	"stemmed": [
-		"synaps",
-		"approach",
-		"to",
-		"databas",
-		"recoveri"
-	],
-	"tag": [
-		"approach",
-		"database"
-	],
+	"stemmed": ["synaps", "approach", "to", "databas", "recoveri"],
+	"tag": ["approach", "database"],
 	"title": "Synapse Approach to Database Recovery",
 	"type": "inproceedings",
 	"venue": "PODS",

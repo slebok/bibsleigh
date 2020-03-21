@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Liqiang Wang",
-		"Scott D. Stoller"
-	],
+	"author": ["Liqiang Wang", "Scott D. Stoller"],
 	"booktitle": "Proceedings of the 11th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2006",
 	"dblpkey": "conf/ppopp/WangS06",
 	"doi": "10.1145/1122971.1122993",
-	"ee": "http://doi.acm.org/10.1145/1122971.1122993",
 	"pages": "137-146",
 	"publisher": "ACM",
-	"stemmed": [
-		"accur",
-		"and",
-		"effici",
-		"runtim",
-		"detect",
-		"of",
-		"atom",
-		"error",
-		"in",
-		"concurr",
-		"program"
-	],
-	"tag": [
-		"concurrent",
-		"detection",
-		"fault",
-		"performance",
-		"runtime",
-		"source code"
-	],
+	"stemmed": ["accur", "and", "effici", "runtim", "detect", "of", "atom", "error", "in", "concurr", "program"],
+	"tag": ["concurrent", "detection", "fault", "performance", "runtime", "source code"],
 	"title": "Accurate and efficient runtime detection of atomicity errors in concurrent programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

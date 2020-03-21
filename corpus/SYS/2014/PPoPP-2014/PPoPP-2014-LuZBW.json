@@ -1,31 +1,14 @@
 {
-	"author": [
-		"Kai Lu",
-		"Xu Zhou",
-		"Tom Bergan",
-		"Xiaoping Wang"
-	],
+	"author": ["Kai Lu", "Xu Zhou", "Tom Bergan", "Xiaoping Wang"],
 	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/LuZBW14",
 	"doi": "10.1145/2555243.2555252",
-	"ee": "http://doi.acm.org/10.1145/2555243.2555252",
 	"pages": "287-300",
 	"publisher": "ACM",
-	"stemmed": [
-		"effici",
-		"determinist",
-		"multithread",
-		"without",
-		"global",
-		"barrier"
-	],
-	"tag": [
-		"multi",
-		"performance",
-		"thread"
-	],
+	"stemmed": ["effici", "determinist", "multithread", "without", "global", "barrier"],
+	"tag": ["multi", "performance", "thread"],
 	"title": "Efficient deterministic multithreading without global barriers",
 	"type": "inproceedings",
 	"venue": "PPoPP",

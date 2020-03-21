@@ -1,44 +1,16 @@
 {
-	"author": [
-		"Daniel Hagimont",
-		"Pierre-Yves Chevalier",
-		"André Freyssinet",
-		"Sacha Krakowiak",
-		"Serge Lacourte",
-		"Jacques Mossière",
-		"Xavier Rousset de Pina"
-	],
+	"author": ["Daniel Hagimont", "Pierre-Yves Chevalier", "André Freyssinet", "Sacha Krakowiak", "Serge Lacourte", "Jacques Mossière", "Xavier Rousset de Pina"],
 	"booktitle": "Proceedings of the Ninth Annual Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1994",
 	"dblpkey": "conf/oopsla/HagimontCFKLMP94",
 	"doi": "10.1145/191080.191106",
-	"editor": [
-		"Jeff McKenna",
-		"J. Eliot B. Moss",
-		"Richard L. Wexelblat"
-	],
-	"ee": "http://doi.acm.org/10.1145/191080.191106",
+	"editor": ["Jeff McKenna", "J. Eliot B. Moss", "Richard L. Wexelblat"],
 	"isbn": "0-89791-688-3",
 	"pages": "129-144",
 	"publisher": "ACM",
-	"stemmed": [
-		"persist",
-		"share",
-		"object",
-		"support",
-		"in",
-		"the",
-		"guid",
-		"system",
-		"evalu",
-		"relat",
-		"work"
-	],
-	"tag": [
-		"evaluation",
-		"persistent"
-	],
+	"stemmed": ["persist", "share", "object", "support", "in", "the", "guid", "system", "evalu", "relat", "work"],
+	"tag": ["evaluation", "persistent"],
 	"title": "Persistent Shared Object Support in the Guide System: Evaluation & Related Work",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

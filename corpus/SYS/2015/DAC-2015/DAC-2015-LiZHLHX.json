@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Qing'an Li",
-		"Mengying Zhao",
-		"Jingtong Hu",
-		"Yongpan Liu",
-		"Yanxiang He",
-		"Chun Jason Xue"
-	],
+	"author": ["Qing'an Li", "Mengying Zhao", "Jingtong Hu", "Yongpan Liu", "Yanxiang He", "Chun Jason Xue"],
 	"booktitle": "Proceedings of the 52nd Annual Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2015",
 	"dblpkey": "conf/dac/LiZHLHX15",
 	"doi": "10.1145/2744769.2744809",
-	"ee": "http://doi.acm.org/10.1145/2744769.2744809",
 	"pages": "183:1-183:6",
 	"publisher": "ACM",
-	"stemmed": [
-		"compil",
-		"direct",
-		"automat",
-		"stack",
-		"trim",
-		"for",
-		"effici",
-		"non",
-		"volatil",
-		"processor"
-	],
-	"tag": [
-		"automation",
-		"compilation",
-		"performance",
-		"stack"
-	],
+	"stemmed": ["compil", "direct", "automat", "stack", "trim", "for", "effici", "non", "volatil", "processor"],
+	"tag": ["automation", "compilation", "performance", "stack"],
 	"title": "Compiler directed automatic stack trimming for efficient non-volatile processors",
 	"type": "inproceedings",
 	"venue": "DAC",

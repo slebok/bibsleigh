@@ -1,46 +1,16 @@
 {
-	"author": [
-		"Harry B. Hunt III",
-		"Daniel J. Rosenkrantz"
-	],
+	"author": ["Harry B. Hunt III", "Daniel J. Rosenkrantz"],
 	"booktitle": "Proceedings of the Ninth ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD79/P127.PDF",
-	"cite": [
-		"journals/tods/AstrahanBCEGGKLMMPTWW76",
-		"journals/cacm/Bentley75",
-		"conf/stoc/Cook71",
-		"...",
-		"...",
-		"conf/vldb/EswaranC75",
-		"journals/cacm/EswarranGLT76",
-		"journals/acta/FinkelB74",
-		"...",
-		"books/aw/Knuth73a",
-		"books/aw/Knuth73",
-		"journals/siamcomp/Rivest76",
-		"...",
-		"conf/berkeley/StonebrakerN77",
-		"journals/tods/WongE77"
-	],
+	"cite": ["journals/tods/AstrahanBCEGGKLMMPTWW76", "journals/cacm/Bentley75", "conf/stoc/Cook71", "...", "...", "conf/vldb/EswaranC75", "journals/cacm/EswarranGLT76", "journals/acta/FinkelB74", "...", "books/aw/Knuth73a", "books/aw/Knuth73", "journals/siamcomp/Rivest76", "...", "conf/berkeley/StonebrakerN77", "journals/tods/WongE77"],
 	"crossref": "conf/sigmod/79",
 	"dblpkey": "conf/sigmod/HuntR79",
 	"doi": "10.1145/582095.582115",
-	"ee": "http://doi.acm.org/10.1145/582095.582115",
 	"pages": "127-133",
 	"publisher": "ACM",
-	"stemmed": [
-		"the",
-		"complex",
-		"of",
-		"test",
-		"predic",
-		"lock"
-	],
-	"tag": [
-		"complexity",
-		"testing"
-	],
+	"stemmed": ["the", "complex", "of", "test", "predic", "lock"],
+	"tag": ["complexity", "testing"],
 	"title": "The Complexity of Testing Predicate Locks",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

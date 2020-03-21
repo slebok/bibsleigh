@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Benny Kimelfeld",
-		"Yehoshua Sagiv"
-	],
+	"author": ["Benny Kimelfeld", "Yehoshua Sagiv"],
 	"booktitle": "Proceedings of the 25th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2006",
 	"dblpkey": "conf/pods/KimelfeldS06",
 	"doi": "10.1145/1142351.1142377",
-	"ee": "http://doi.acm.org/10.1145/1142351.1142377",
 	"pages": "173-182",
 	"publisher": "ACM",
-	"stemmed": [
-		"find",
-		"and",
-		"approxim",
-		"top",
-		"k",
-		"answer",
-		"in",
-		"keyword",
-		"proxim",
-		"search"
-	],
-	"tag": [
-		"approximate",
-		"keyword",
-		"proximity"
-	],
+	"stemmed": ["find", "and", "approxim", "top", "k", "answer", "in", "keyword", "proxim", "search"],
+	"tag": ["approximate", "keyword", "proximity"],
 	"title": "Finding and approximating top-k answers in keyword proximity search",
 	"type": "inproceedings",
 	"venue": "PODS",

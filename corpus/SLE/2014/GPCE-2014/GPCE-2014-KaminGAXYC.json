@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Sam Kamin",
-		"María Jesús Garzarán",
-		"Baris Aktemur",
-		"Danqing Xu",
-		"Buse Yilmaz",
-		"Zhongbo Chen"
-	],
+	"author": ["Sam Kamin", "María Jesús Garzarán", "Baris Aktemur", "Danqing Xu", "Buse Yilmaz", "Zhongbo Chen"],
 	"booktitle": "Proceedings of the 13th International Conference on Generative Programming: Concepts and Experiences",
 	"booktitleshort": "GPCE",
 	"crossref": "conf/gpce/2014",
 	"dblpkey": "conf/gpce/KaminGAXYC14",
 	"doi": "10.1145/2658761.2658773",
-	"ee": "http://doi.acm.org/10.1145/2658761.2658773",
 	"pages": "93-102",
 	"publisher": "ACM",
-	"stemmed": [
-		"optim",
-		"by",
-		"runtim",
-		"special",
-		"for",
-		"spars",
-		"matrix",
-		"vector",
-		"multipl"
-	],
-	"tag": [
-		"multi",
-		"optimisation",
-		"runtime"
-	],
+	"stemmed": ["optim", "by", "runtim", "special", "for", "spars", "matrix", "vector", "multipl"],
+	"tag": ["multi", "optimisation", "runtime"],
 	"title": "Optimization by runtime specialization for sparse matrix-vector multiplication",
 	"type": "inproceedings",
 	"venue": "GPCE",

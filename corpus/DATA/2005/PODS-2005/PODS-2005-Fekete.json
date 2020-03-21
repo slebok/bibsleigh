@@ -5,19 +5,10 @@
 	"crossref": "conf/pods/2005",
 	"dblpkey": "conf/pods/Fekete05",
 	"doi": "10.1145/1065167.1065193",
-	"ee": "http://doi.acm.org/10.1145/1065167.1065193",
 	"pages": "206-215",
 	"publisher": "ACM",
-	"stemmed": [
-		"alloc",
-		"isol",
-		"level",
-		"to",
-		"transact"
-	],
-	"tag": [
-		"transaction"
-	],
+	"stemmed": ["alloc", "isol", "level", "to", "transact"],
+	"tag": ["transaction"],
 	"title": "Allocating isolation levels to transactions",
 	"type": "inproceedings",
 	"venue": "PODS",

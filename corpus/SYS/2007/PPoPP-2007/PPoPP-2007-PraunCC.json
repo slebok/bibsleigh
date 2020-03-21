@@ -1,29 +1,14 @@
 {
-	"author": [
-		"Christoph von Praun",
-		"Luis Ceze",
-		"Calin Cascaval"
-	],
+	"author": ["Christoph von Praun", "Luis Ceze", "Calin Cascaval"],
 	"booktitle": "Proceedings of the 12th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2007",
 	"dblpkey": "conf/ppopp/PraunCC07",
 	"doi": "10.1145/1229428.1229443",
-	"ee": "http://doi.acm.org/10.1145/1229428.1229443",
 	"pages": "79-89",
 	"publisher": "ACM",
-	"stemmed": [
-		"implicit",
-		"parallel",
-		"with",
-		"order",
-		"transact"
-	],
-	"tag": [
-		"order",
-		"parallel",
-		"transaction"
-	],
+	"stemmed": ["implicit", "parallel", "with", "order", "transact"],
+	"tag": ["order", "parallel", "transaction"],
 	"title": "Implicit parallelism with ordered transactions",
 	"type": "inproceedings",
 	"venue": "PPoPP",

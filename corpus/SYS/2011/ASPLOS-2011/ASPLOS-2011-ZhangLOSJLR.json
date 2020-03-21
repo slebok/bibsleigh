@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Wei Zhang",
-		"Junghee Lim",
-		"Ramya Olichandran",
-		"Joel Scherpelz",
-		"Guoliang Jin",
-		"Shan Lu",
-		"Thomas W. Reps"
-	],
+	"author": ["Wei Zhang", "Junghee Lim", "Ramya Olichandran", "Joel Scherpelz", "Guoliang Jin", "Shan Lu", "Thomas W. Reps"],
 	"booktitle": "Proceedings of the 16th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2011",
 	"dblpkey": "conf/asplos/ZhangLOSJLR11",
 	"doi": "10.1145/1950365.1950395",
-	"ee": "http://doi.acm.org/10.1145/1950365.1950395",
 	"pages": "251-264",
 	"publisher": "ACM",
-	"stemmed": [
-		"con",
-		"seq",
-		"detect",
-		"concurr",
-		"bug",
-		"through",
-		"sequenti",
-		"error"
-	],
-	"tag": [
-		"concurrent",
-		"debugging",
-		"detection",
-		"fault",
-		"named"
-	],
+	"stemmed": ["con", "seq", "detect", "concurr", "bug", "through", "sequenti", "error"],
+	"tag": ["concurrent", "debugging", "detection", "fault", "named"],
 	"title": "ConSeq: detecting concurrency bugs through sequential errors",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

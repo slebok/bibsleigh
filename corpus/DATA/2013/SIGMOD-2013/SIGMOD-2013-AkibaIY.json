@@ -1,39 +1,14 @@
 {
-	"author": [
-		"Takuya Akiba",
-		"Yoichi Iwata",
-		"Yuichi Yoshida"
-	],
+	"author": ["Takuya Akiba", "Yoichi Iwata", "Yuichi Yoshida"],
 	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/AkibaIY13",
 	"doi": "10.1145/2463676.2465315",
-	"ee": "http://doi.acm.org/10.1145/2463676.2465315",
 	"pages": "349-360",
 	"publisher": "ACM",
-	"stemmed": [
-		"fast",
-		"exact",
-		"shortest",
-		"path",
-		"distanc",
-		"queri",
-		"on",
-		"larg",
-		"network",
-		"by",
-		"prune",
-		"landmark",
-		"label"
-	],
-	"tag": [
-		"distance",
-		"network",
-		"performance",
-		"query",
-		"scalability"
-	],
+	"stemmed": ["fast", "exact", "shortest", "path", "distanc", "queri", "on", "larg", "network", "by", "prune", "landmark", "label"],
+	"tag": ["distance", "network", "performance", "query", "scalability"],
 	"title": "Fast exact shortest-path distance queries on large networks by pruned landmark labeling",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

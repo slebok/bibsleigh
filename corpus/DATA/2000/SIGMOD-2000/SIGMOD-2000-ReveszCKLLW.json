@@ -1,40 +1,15 @@
 {
-	"author": [
-		"Peter Z. Revesz",
-		"Rui Chen",
-		"Pradip Kanjamala",
-		"Yiming Li",
-		"Yuguo Liu",
-		"Yonghui Wang"
-	],
+	"author": ["Peter Z. Revesz", "Rui Chen", "Pradip Kanjamala", "Yiming Li", "Yuguo Liu", "Yonghui Wang"],
 	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
-	"cite": [
-		"conf/sigmod/BrodskySCE99",
-		"conf/stdbm/ChomickiLR99",
-		"conf/sigmod/GrumbachRS98",
-		"...",
-		"journals/jcss/KanellakisKR95",
-		"conf/ideas/ReveszL97"
-	],
+	"cite": ["conf/sigmod/BrodskySCE99", "conf/stdbm/ChomickiLR99", "conf/sigmod/GrumbachRS98", "...", "journals/jcss/KanellakisKR95", "conf/ideas/ReveszL97"],
 	"crossref": "conf/sigmod/2000",
 	"dblpkey": "conf/sigmod/ReveszCKLLW00",
 	"doi": "10.1145/342009.336590",
-	"ee": "http://doi.acm.org/10.1145/342009.336590",
 	"pages": "601",
 	"publisher": "ACM",
-	"stemmed": [
-		"the",
-		"mlpq",
-		"gis",
-		"constraint",
-		"databas",
-		"system"
-	],
-	"tag": [
-		"constraints",
-		"database"
-	],
+	"stemmed": ["the", "mlpq", "gis", "constraint", "databas", "system"],
+	"tag": ["constraints", "database"],
 	"title": "The MLPQ/GIS Constraint Database System",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

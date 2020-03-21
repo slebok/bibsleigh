@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Michael Andersch",
-		"Chi Ching Chi",
-		"Ben H. H. Juurlink"
-	],
+	"author": ["Michael Andersch", "Chi Ching Chi", "Ben H. H. Juurlink"],
 	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/AnderschCJ12",
 	"doi": "10.1145/2145816.2145854",
-	"ee": "http://doi.acm.org/10.1145/2145816.2145854",
 	"pages": "281-282",
 	"publisher": "ACM",
-	"stemmed": [
-		"program",
-		"parallel",
-		"embed",
-		"and",
-		"consum",
-		"applic",
-		"in",
-		"open",
-		"mp",
-		"superscalar"
-	],
-	"tag": [
-		"embedded",
-		"parallel",
-		"programming"
-	],
+	"stemmed": ["program", "parallel", "embed", "and", "consum", "applic", "in", "open", "mp", "superscalar"],
+	"tag": ["embedded", "parallel", "programming"],
 	"title": "Programming parallel embedded and consumer applications in OpenMP superscalar",
 	"type": "inproceedings",
 	"venue": "PPoPP",

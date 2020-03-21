@@ -1,28 +1,14 @@
 {
-	"author": [
-		"Robert O'Callahan",
-		"Jong-Deok Choi"
-	],
+	"author": ["Robert O'Callahan", "Jong-Deok Choi"],
 	"booktitle": "Proceedings of the Ninth Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2003",
 	"dblpkey": "conf/ppopp/OCallahanC03",
 	"doi": "10.1145/781498.781528",
-	"ee": "http://doi.acm.org/10.1145/781498.781528",
 	"pages": "167-178",
 	"publisher": "ACM",
-	"stemmed": [
-		"hybrid",
-		"dynam",
-		"data",
-		"race",
-		"detect"
-	],
-	"tag": [
-		"concurrent",
-		"detection",
-		"hybrid"
-	],
+	"stemmed": ["hybrid", "dynam", "data", "race", "detect"],
+	"tag": ["concurrent", "detection", "hybrid"],
 	"title": "Hybrid dynamic data race detection",
 	"type": "inproceedings",
 	"venue": "PPoPP",

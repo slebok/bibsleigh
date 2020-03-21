@@ -1,44 +1,16 @@
 {
-	"author": [
-		"Michael D. Bond",
-		"Nicholas Nethercote",
-		"Stephen W. Kent",
-		"Samuel Z. Guyer",
-		"Kathryn S. McKinley"
-	],
+	"author": ["Michael D. Bond", "Nicholas Nethercote", "Stephen W. Kent", "Samuel Z. Guyer", "Kathryn S. McKinley"],
 	"booktitle": "Proceedings of the 22nd Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2007",
 	"dblpkey": "conf/oopsla/BondNKGM07",
 	"doi": "10.1145/1297027.1297057",
-	"editor": [
-		"Richard P. Gabriel",
-		"David F. Bacon",
-		"Cristina Videira Lopes",
-		"Guy L. Steele Jr."
-	],
-	"ee": "http://doi.acm.org/10.1145/1297027.1297057",
+	"editor": ["Richard P. Gabriel", "David F. Bacon", "Cristina Videira Lopes", "Guy L. Steele Jr."],
 	"isbn": "978-1-59593-786-5",
 	"pages": "405-422",
 	"publisher": "ACM",
-	"stemmed": [
-		"track",
-		"bad",
-		"appl",
-		"report",
-		"the",
-		"origin",
-		"of",
-		"null",
-		"and",
-		"undefin",
-		"valu",
-		"error"
-	],
-	"tag": [
-		"fault",
-		"null"
-	],
+	"stemmed": ["track", "bad", "appl", "report", "the", "origin", "of", "null", "and", "undefin", "valu", "error"],
+	"tag": ["fault", "null"],
 	"title": "Tracking bad apples: reporting the origin of null and undefined value errors",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

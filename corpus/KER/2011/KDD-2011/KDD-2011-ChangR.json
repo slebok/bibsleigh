@@ -1,39 +1,14 @@
 {
-	"author": [
-		"Kai-Wei Chang",
-		"Dan Roth"
-	],
+	"author": ["Kai-Wei Chang", "Dan Roth"],
 	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/ChangR11",
 	"doi": "10.1145/2020408.2020517",
-	"ee": "http://doi.acm.org/10.1145/2020408.2020517",
 	"pages": "699-707",
 	"publisher": "ACM",
-	"stemmed": [
-		"select",
-		"block",
-		"minim",
-		"for",
-		"faster",
-		"converg",
-		"of",
-		"limit",
-		"memori",
-		"larg",
-		"scale",
-		"linear",
-		"model"
-	],
-	"tag": [
-		"convergence",
-		"linear",
-		"memory management",
-		"modelling",
-		"performance",
-		"scalability"
-	],
+	"stemmed": ["select", "block", "minim", "for", "faster", "converg", "of", "limit", "memori", "larg", "scale", "linear", "model"],
+	"tag": ["convergence", "linear", "memory management", "modelling", "performance", "scalability"],
 	"title": "Selective block minimization for faster convergence of limited memory large-scale linear models",
 	"type": "inproceedings",
 	"venue": "KDD",

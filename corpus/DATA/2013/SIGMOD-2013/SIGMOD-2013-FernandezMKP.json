@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Raul Castro Fernandez",
-		"Matteo Migliavacca",
-		"Evangelia Kalyvianaki",
-		"Peter Pietzuch"
-	],
+	"author": ["Raul Castro Fernandez", "Matteo Migliavacca", "Evangelia Kalyvianaki", "Peter Pietzuch"],
 	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/FernandezMKP13",
 	"doi": "10.1145/2463676.2465282",
-	"ee": "http://doi.acm.org/10.1145/2463676.2465282",
 	"pages": "725-736",
 	"publisher": "ACM",
-	"stemmed": [
-		"integr",
-		"scale",
-		"out",
-		"and",
-		"fault",
-		"toler",
-		"in",
-		"stream",
-		"process",
-		"use",
-		"oper",
-		"state",
-		"manag"
-	],
-	"tag": [
-		"fault tolerance",
-		"using"
-	],
+	"stemmed": ["integr", "scale", "out", "and", "fault", "toler", "in", "stream", "process", "use", "oper", "state", "manag"],
+	"tag": ["fault tolerance", "using"],
 	"title": "Integrating scale out and fault tolerance in stream processing using operator state management",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

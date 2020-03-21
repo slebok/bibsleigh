@@ -1,30 +1,14 @@
 {
-	"author": [
-		"Jong-Deok Choi",
-		"Sang Lyul Min"
-	],
+	"author": ["Jong-Deok Choi", "Sang Lyul Min"],
 	"booktitle": "Proceedings of the Third Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1991",
 	"dblpkey": "conf/ppopp/ChoiM91",
 	"doi": "10.1145/109625.109641",
-	"ee": "http://doi.acm.org/10.1145/109625.109641",
 	"pages": "145-154",
 	"publisher": "ACM",
-	"stemmed": [
-		"race",
-		"frontier",
-		"reproduc",
-		"data",
-		"race",
-		"in",
-		"parallel",
-		"program",
-		"debug"
-	],
-	"tag": [
-		"debugging"
-	],
+	"stemmed": ["race", "frontier", "reproduc", "data", "race", "in", "parallel", "program", "debug"],
+	"tag": ["debugging"],
 	"title": "Race Frontier: Reproducing Data Races in Parallel-Program Debugging",
 	"type": "inproceedings",
 	"venue": "PPoPP",

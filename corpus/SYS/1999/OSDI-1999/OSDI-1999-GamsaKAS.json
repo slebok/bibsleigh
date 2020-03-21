@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Benjamin Gamsa",
-		"Orran Krieger",
-		"Jonathan Appavoo",
-		"Michael Stumm"
-	],
+	"author": ["Benjamin Gamsa", "Orran Krieger", "Jonathan Appavoo", "Michael Stumm"],
 	"booktitle": "Proceedings of the Third Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/1999",
 	"dblpkey": "conf/osdi/GamsaKAS99",
 	"doi": "10.1145/296806.296814",
-	"ee": "http://doi.acm.org/10.1145/296806.296814",
 	"pages": "87-100",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"tornado",
-		"maxim",
-		"local",
-		"and",
-		"concurr",
-		"in",
-		"a",
-		"share",
-		"memori",
-		"multiprocessor",
-		"oper",
-		"system"
-	],
-	"tag": [
-		"concurrent",
-		"locality",
-		"memory management",
-		"multi",
-		"named",
-		"operating system"
-	],
+	"stemmed": ["tornado", "maxim", "local", "and", "concurr", "in", "a", "share", "memori", "multiprocessor", "oper", "system"],
+	"tag": ["concurrent", "locality", "memory management", "multi", "named", "operating system"],
 	"title": "Tornado: Maximizing Locality and Concurrency in a Shared Memory Multiprocessor Operating System",
 	"type": "inproceedings",
 	"venue": "OSDI",

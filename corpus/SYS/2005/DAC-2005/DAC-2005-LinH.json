@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Yan Lin",
-		"Lei He"
-	],
+	"author": ["Yan Lin", "Lei He"],
 	"booktitle": "Proceedings of the 42nd Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/LinH05",
 	"doi": "10.1145/1065579.1065769",
-	"ee": "http://doi.acm.org/10.1145/1065579.1065769",
 	"pages": "720-725",
 	"publisher": "ACM",
-	"stemmed": [
-		"leakag",
-		"effici",
-		"chip",
-		"level",
-		"dual",
-		"vdd",
-		"assign",
-		"with",
-		"time",
-		"slack",
-		"alloc",
-		"for",
-		"fpga",
-		"power",
-		"reduct"
-	],
-	"tag": [
-		"performance",
-		"reduction"
-	],
+	"stemmed": ["leakag", "effici", "chip", "level", "dual", "vdd", "assign", "with", "time", "slack", "alloc", "for", "fpga", "power", "reduct"],
+	"tag": ["performance", "reduction"],
 	"title": "Leakage efficient chip-level dual-Vdd assignment with time slack allocation for FPGA power reduction",
 	"type": "inproceedings",
 	"venue": "DAC",

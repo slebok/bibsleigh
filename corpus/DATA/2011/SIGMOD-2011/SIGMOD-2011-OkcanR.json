@@ -1,28 +1,14 @@
 {
-	"author": [
-		"Alper Okcan",
-		"Mirek Riedewald"
-	],
+	"author": ["Alper Okcan", "Mirek Riedewald"],
 	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/OkcanR11",
 	"doi": "10.1145/1989323.1989423",
-	"ee": "http://doi.acm.org/10.1145/1989323.1989423",
 	"pages": "949-960",
 	"publisher": "ACM",
-	"stemmed": [
-		"process",
-		"theta",
-		"join",
-		"use",
-		"map",
-		"reduc"
-	],
-	"tag": [
-		"pipes and filters",
-		"using"
-	],
+	"stemmed": ["process", "theta", "join", "use", "map", "reduc"],
+	"tag": ["pipes and filters", "using"],
 	"title": "Processing theta-joins using MapReduce",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

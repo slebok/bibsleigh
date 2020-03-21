@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Nima Honarmand",
-		"Nathan Dautenhahn",
-		"Josep Torrellas",
-		"Samuel T. King",
-		"Gilles Pokam",
-		"Cristiano Pereira"
-	],
+	"author": ["Nima Honarmand", "Nathan Dautenhahn", "Josep Torrellas", "Samuel T. King", "Gilles Pokam", "Cristiano Pereira"],
 	"booktitle": "Proceedings of the 18th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2013",
 	"dblpkey": "conf/asplos/HonarmandDTKPP13",
 	"doi": "10.1145/2451116.2451138",
-	"ee": "http://doi.acm.org/10.1145/2451116.2451138",
 	"pages": "193-206",
 	"publisher": "ACM",
-	"stemmed": [
-		"cyrus",
-		"unintrus",
-		"applic",
-		"level",
-		"record",
-		"replay",
-		"for",
-		"replay",
-		"parallel"
-	],
-	"tag": [
-		"named",
-		"parallel"
-	],
+	"stemmed": ["cyrus", "unintrus", "applic", "level", "record", "replay", "for", "replay", "parallel"],
+	"tag": ["named", "parallel"],
 	"title": "Cyrus: unintrusive application-level record-replay for replay parallelism",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

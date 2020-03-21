@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Ernie Chan",
-		"Field G. Van Zee",
-		"Paolo Bientinesi",
-		"Enrique S. Quintana-Ortí",
-		"Gregorio Quintana-Ortí",
-		"Robert A. van de Geijn"
-	],
+	"author": ["Ernie Chan", "Field G. Van Zee", "Paolo Bientinesi", "Enrique S. Quintana-Ortí", "Gregorio Quintana-Ortí", "Robert A. van de Geijn"],
 	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/ChanZBQQG08",
 	"doi": "10.1145/1345206.1345227",
-	"ee": "http://doi.acm.org/10.1145/1345206.1345227",
 	"pages": "123-132",
 	"publisher": "ACM",
-	"stemmed": [
-		"super",
-		"matrix",
-		"a",
-		"multithread",
-		"runtim",
-		"schedul",
-		"system",
-		"for",
-		"algorithm",
-		"by",
-		"block"
-	],
-	"tag": [
-		"named",
-		"parallel",
-		"runtime",
-		"scheduling",
-		"thread"
-	],
+	"stemmed": ["super", "matrix", "a", "multithread", "runtim", "schedul", "system", "for", "algorithm", "by", "block"],
+	"tag": ["named", "parallel", "runtime", "scheduling", "thread"],
 	"title": "SuperMatrix: a multithreaded runtime scheduling system for algorithms-by-blocks",
 	"type": "inproceedings",
 	"venue": "PPoPP",

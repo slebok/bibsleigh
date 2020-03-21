@@ -1,39 +1,14 @@
 {
-	"author": [
-		"Hong Tang",
-		"Kai Shen",
-		"Tao Yang"
-	],
+	"author": ["Hong Tang", "Kai Shen", "Tao Yang"],
 	"booktitle": "Proceedings of the Seventh Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1999",
 	"dblpkey": "conf/ppopp/TangSY99",
 	"doi": "10.1145/301104.301114",
-	"ee": "http://doi.acm.org/10.1145/301104.301114",
 	"pages": "107-118",
 	"publisher": "ACM",
-	"stemmed": [
-		"compil",
-		"run",
-		"time",
-		"support",
-		"for",
-		"thread",
-		"mpi",
-		"execut",
-		"on",
-		"multiprogram",
-		"share",
-		"memori",
-		"machin"
-	],
-	"tag": [
-		"execution",
-		"memory management",
-		"multi",
-		"runtime",
-		"thread"
-	],
+	"stemmed": ["compil", "run", "time", "support", "for", "thread", "mpi", "execut", "on", "multiprogram", "share", "memori", "machin"],
+	"tag": ["execution", "memory management", "multi", "runtime", "thread"],
 	"title": "Compile/Run-Time Support for Threaded MPI Execution on Multiprogrammed Shared Memory Machines",
 	"type": "inproceedings",
 	"venue": "PPoPP",

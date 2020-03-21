@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Kunal Agrawal",
-		"Jeremy T. Fineman",
-		"Brendan Sheridan",
-		"Jim Sukha",
-		"Robert Utterback"
-	],
+	"author": ["Kunal Agrawal", "Jeremy T. Fineman", "Brendan Sheridan", "Jim Sukha", "Robert Utterback"],
 	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/AgrawalFSSU14",
 	"doi": "10.1145/2555243.2555284",
-	"ee": "http://doi.acm.org/10.1145/2555243.2555284",
 	"pages": "389-390",
 	"publisher": "ACM",
-	"stemmed": [
-		"provabl",
-		"good",
-		"schedul",
-		"for",
-		"parallel",
-		"program",
-		"that",
-		"use",
-		"data",
-		"structur",
-		"through",
-		"implicit",
-		"batch"
-	],
-	"tag": [
-		"data type",
-		"parallel",
-		"scheduling",
-		"source code"
-	],
+	"stemmed": ["provabl", "good", "schedul", "for", "parallel", "program", "that", "use", "data", "structur", "through", "implicit", "batch"],
+	"tag": ["data type", "parallel", "scheduling", "source code"],
 	"title": "Provably good scheduling for parallel programs that use data structures through implicit batching",
 	"type": "inproceedings",
 	"venue": "PPoPP",

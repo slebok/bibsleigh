@@ -1,38 +1,16 @@
 {
-	"author": [
-		"Veselin Raychev",
-		"Martin T. Vechev",
-		"Manu Sridharan"
-	],
+	"author": ["Veselin Raychev", "Martin T. Vechev", "Manu Sridharan"],
 	"booktitle": "Proceedings of the 28th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2013",
 	"dblpkey": "conf/oopsla/RaychevVS13",
 	"doi": "10.1145/2509136.2509538",
-	"editor": [
-		"Antony L. Hosking",
-		"Patrick Th. Eugster",
-		"Cristina Videira Lopes"
-	],
-	"ee": "http://doi.acm.org/10.1145/2509136.2509538",
+	"editor": ["Antony L. Hosking", "Patrick Th. Eugster", "Cristina Videira Lopes"],
 	"isbn": "978-1-4503-2374-1",
 	"pages": "151-166",
 	"publisher": "ACM",
-	"stemmed": [
-		"effect",
-		"race",
-		"detect",
-		"for",
-		"event",
-		"driven",
-		"program"
-	],
-	"tag": [
-		"concurrent",
-		"detection",
-		"effectiveness",
-		"source code"
-	],
+	"stemmed": ["effect", "race", "detect", "for", "event", "driven", "program"],
+	"tag": ["concurrent", "detection", "effectiveness", "source code"],
 	"title": "Effective race detection for event-driven programs",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

@@ -1,29 +1,14 @@
 {
-	"author": [
-		"Rohit Chandra",
-		"Anoop Gupta",
-		"John L. Hennessy"
-	],
+	"author": ["Rohit Chandra", "Anoop Gupta", "John L. Hennessy"],
 	"booktitle": "Proceedings of the Fourth Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1993",
 	"dblpkey": "conf/ppopp/ChandraGH93",
 	"doi": "10.1145/155332.155358",
-	"ee": "http://doi.acm.org/10.1145/155332.155358",
 	"pages": "249-259",
 	"publisher": "ACM",
-	"stemmed": [
-		"data",
-		"local",
-		"and",
-		"load",
-		"balanc",
-		"in",
-		"cool"
-	],
-	"tag": [
-		"locality"
-	],
+	"stemmed": ["data", "local", "and", "load", "balanc", "in", "cool"],
+	"tag": ["locality"],
 	"title": "Data Locality and Load Balancing in COOL",
 	"type": "inproceedings",
 	"venue": "PPoPP",

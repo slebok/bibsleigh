@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Wenjia Ruan",
-		"Trilok Vyas",
-		"Yujie Liu",
-		"Michael F. Spear"
-	],
+	"author": ["Wenjia Ruan", "Trilok Vyas", "Yujie Liu", "Michael F. Spear"],
 	"booktitle": "Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2014",
 	"dblpkey": "conf/asplos/RuanVLS14",
 	"doi": "10.1145/2541940.2541960",
-	"ee": "http://doi.acm.org/10.1145/2541940.2541960",
 	"pages": "399-412",
 	"publisher": "ACM",
-	"stemmed": [
-		"transaction",
-		"legaci",
-		"code",
-		"an",
-		"experi",
-		"report",
-		"use",
-		"gcc",
-		"and",
-		"memcach"
-	],
-	"tag": [
-		"case study",
-		"experience",
-		"legacy",
-		"transaction",
-		"using"
-	],
+	"stemmed": ["transaction", "legaci", "code", "an", "experi", "report", "use", "gcc", "and", "memcach"],
+	"tag": ["case study", "experience", "legacy", "transaction", "using"],
 	"title": "Transactionalizing legacy code: an experience report using GCC and Memcached",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

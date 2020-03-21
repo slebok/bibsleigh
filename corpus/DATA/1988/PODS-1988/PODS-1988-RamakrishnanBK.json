@@ -1,48 +1,16 @@
 {
-	"author": [
-		"Raghu Ramakrishnan",
-		"Catriel Beeri",
-		"Ravi Krishnamurthy"
-	],
+	"author": ["Raghu Ramakrishnan", "Catriel Beeri", "Ravi Krishnamurthy"],
 	"booktitle": "Proceedings of the Seventh Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS88/P089.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS88/P089.PDF"
-	],
-	"cite": [
-		"conf/pods/AfratiPPRSU86",
-		"conf/popl/AhoU79",
-		"conf/pods/BancilhonMSU86",
-		"conf/sigmod/BancilhonR86",
-		"...",
-		"conf/pods/BeeriR87",
-		"...",
-		"books/aw/HopcroftU79",
-		"books/sp/Lloyd84",
-		"conf/vldb/Mendelzon85",
-		"conf/pods/RamakrishnanBS87",
-		"conf/pods/Shmueli87",
-		"journals/tods/Ullman85",
-		"conf/eds/Zaniolo86"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS88/P089.PDF", "journals/anthology/dvd1:text/1-3/PODS88/P089.PDF"],
+	"cite": ["conf/pods/AfratiPPRSU86", "conf/popl/AhoU79", "conf/pods/BancilhonMSU86", "conf/sigmod/BancilhonR86", "...", "conf/pods/BeeriR87", "...", "books/aw/HopcroftU79", "books/sp/Lloyd84", "conf/vldb/Mendelzon85", "conf/pods/RamakrishnanBS87", "conf/pods/Shmueli87", "journals/tods/Ullman85", "conf/eds/Zaniolo86"],
 	"crossref": "conf/pods/88",
 	"dblpkey": "conf/pods/RamakrishnanBK88",
 	"doi": "10.1145/308386.308420",
-	"ee": "http://doi.acm.org/10.1145/308386.308420",
 	"pages": "89-102",
 	"publisher": "ACM",
-	"stemmed": [
-		"optim",
-		"existenti",
-		"datalog",
-		"queri"
-	],
-	"tag": [
-		"datalog",
-		"optimisation",
-		"query"
-	],
+	"stemmed": ["optim", "existenti", "datalog", "queri"],
+	"tag": ["datalog", "optimisation", "query"],
 	"title": "Optimizing Existential Datalog Queries",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Ioannis Schoinas",
-		"Babak Falsafi",
-		"Alvin R. Lebeck",
-		"Steven K. Reinhardt",
-		"James R. Larus",
-		"David A. Wood"
-	],
+	"author": ["Ioannis Schoinas", "Babak Falsafi", "Alvin R. Lebeck", "Steven K. Reinhardt", "James R. Larus", "David A. Wood"],
 	"booktitle": "Proceedings of the Sixth International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1994",
 	"dblpkey": "conf/asplos/SchoinasFLRLW94",
 	"doi": "10.1145/195473.195575",
-	"ee": "http://doi.acm.org/10.1145/195473.195575",
 	"pages": "297-306",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"fine",
-		"grain",
-		"access",
-		"control",
-		"for",
-		"distribut",
-		"share",
-		"memori"
-	],
-	"tag": [
-		"data access",
-		"distributed",
-		"memory management"
-	],
+	"stemmed": ["fine", "grain", "access", "control", "for", "distribut", "share", "memori"],
+	"tag": ["data access", "distributed", "memory management"],
 	"title": "Fine-grain Access Control for Distributed Shared Memory",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

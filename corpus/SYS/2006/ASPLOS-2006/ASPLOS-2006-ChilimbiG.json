@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Trishul M. Chilimbi",
-		"Vinod Ganapathy"
-	],
+	"author": ["Trishul M. Chilimbi", "Vinod Ganapathy"],
 	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/ChilimbiG06",
 	"doi": "10.1145/1168857.1168885",
-	"ee": "http://doi.acm.org/10.1145/1168857.1168885",
 	"pages": "219-228",
 	"publisher": "ACM",
-	"stemmed": [
-		"heap",
-		"md",
-		"identifi",
-		"heap",
-		"base",
-		"bug",
-		"use",
-		"anomali",
-		"detect"
-	],
-	"tag": [
-		"debugging",
-		"detection",
-		"identification",
-		"named",
-		"using"
-	],
+	"stemmed": ["heap", "md", "identifi", "heap", "base", "bug", "use", "anomali", "detect"],
+	"tag": ["debugging", "detection", "identification", "named", "using"],
 	"title": "HeapMD: identifying heap-based bugs using anomaly detection",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

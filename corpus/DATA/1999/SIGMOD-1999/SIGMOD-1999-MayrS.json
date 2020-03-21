@@ -1,45 +1,16 @@
 {
-	"author": [
-		"Tobias Mayr",
-		"Praveen Seshadri"
-	],
+	"author": ["Tobias Mayr", "Praveen Seshadri"],
 	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "DiSC2_1/out/papers/sigmod/clientsitequerytopr.pdf",
-	"cite": [
-		"conf/sigmod/ChaudhuriDY95",
-		"conf/vldb/ChimentiGK89",
-		"conf/vldb/ChaudhuriS93",
-		"conf/vldb/ChaudhuriS96",
-		"...",
-		"conf/sigmod/FranklinJK96",
-		"conf/sigmod/GodfreySE98",
-		"phd/Hellerstein95",
-		"conf/sigmod/HellersteinN96",
-		"conf/sigmod/HellersteinS93",
-		"journals/tods/IbarakiK84",
-		"conf/vldb/KrishnamurthyBZ86",
-		"conf/vldb/MackertL86",
-		"journals/vldb/Seshadri98",
-		"conf/icod/SelingerA80",
-		"conf/icde/SwamiI93",
-		"conf/sigmod/SelingerACLP79"
-	],
+	"cite": ["conf/sigmod/ChaudhuriDY95", "conf/vldb/ChimentiGK89", "conf/vldb/ChaudhuriS93", "conf/vldb/ChaudhuriS96", "...", "conf/sigmod/FranklinJK96", "conf/sigmod/GodfreySE98", "phd/Hellerstein95", "conf/sigmod/HellersteinN96", "conf/sigmod/HellersteinS93", "journals/tods/IbarakiK84", "conf/vldb/KrishnamurthyBZ86", "conf/vldb/MackertL86", "journals/vldb/Seshadri98", "conf/icod/SelingerA80", "conf/icde/SwamiI93", "conf/sigmod/SelingerACLP79"],
 	"crossref": "conf/sigmod/99",
 	"dblpkey": "conf/sigmod/MayrS99",
 	"doi": "10.1145/304182.304213",
-	"ee": "http://doi.acm.org/10.1145/304182.304213",
 	"pages": "347-358",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"client",
-		"site",
-		"queri",
-		"extens"
-	],
-	"tag": [
-		"query"
-	],
+	"stemmed": ["client", "site", "queri", "extens"],
+	"tag": ["query"],
 	"title": "Client-Site Query Extensions",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,39 +1,14 @@
 {
-	"author": [
-		"Yi Guo",
-		"Yisheng Zhao",
-		"Vincent Cavé",
-		"Vivek Sarkar"
-	],
+	"author": ["Yi Guo", "Yisheng Zhao", "Vincent Cavé", "Vivek Sarkar"],
 	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/GuoZCS10",
 	"doi": "10.1145/1693453.1693504",
-	"ee": "http://doi.acm.org/10.1145/1693453.1693504",
 	"pages": "341-342",
 	"publisher": "ACM",
-	"stemmed": [
-		"slaw",
-		"a",
-		"scalabl",
-		"local",
-		"awar",
-		"adapt",
-		"work",
-		"steal",
-		"schedul",
-		"for",
-		"multi",
-		"core",
-		"system"
-	],
-	"tag": [
-		"adaptation",
-		"manycore",
-		"named",
-		"scalability"
-	],
+	"stemmed": ["slaw", "a", "scalabl", "local", "awar", "adapt", "work", "steal", "schedul", "for", "multi", "core", "system"],
+	"tag": ["adaptation", "manycore", "named", "scalability"],
 	"title": "SLAW: a scalable locality-aware adaptive work-stealing scheduler for multi-core systems",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,31 +1,14 @@
 {
-	"author": [
-		"Scott Schneider",
-		"Christos D. Antonopoulos",
-		"Dimitrios S. Nikolopoulos"
-	],
+	"author": ["Scott Schneider", "Christos D. Antonopoulos", "Dimitrios S. Nikolopoulos"],
 	"booktitle": "Proceedings of the Fifth International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2006",
 	"dblpkey": "conf/iwmm/SchneiderAN06",
 	"doi": "10.1145/1133956.1133968",
-	"ee": "http://doi.acm.org/10.1145/1133956.1133968",
 	"pages": "84-94",
 	"publisher": "ACM",
-	"stemmed": [
-		"scalabl",
-		"local",
-		"conscious",
-		"multithread",
-		"memori",
-		"alloc"
-	],
-	"tag": [
-		"memory management",
-		"parallel",
-		"scalability",
-		"thread"
-	],
+	"stemmed": ["scalabl", "local", "conscious", "multithread", "memori", "alloc"],
+	"tag": ["memory management", "parallel", "scalability", "thread"],
 	"title": "Scalable locality-conscious multithreaded memory allocation",
 	"type": "inproceedings",
 	"venue": "ISMM",

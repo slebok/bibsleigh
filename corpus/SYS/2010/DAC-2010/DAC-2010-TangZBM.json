@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Qin Tang",
-		"Amir Zjajo",
-		"Michel Berkelaar",
-		"Nick van der Meijs"
-	],
+	"author": ["Qin Tang", "Amir Zjajo", "Michel Berkelaar", "Nick van der Meijs"],
 	"booktitle": "Proceedings of the 47th Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2010",
 	"dblpkey": "conf/dac/TangZBM10",
 	"doi": "10.1145/1837274.1837473",
-	"ee": "http://doi.acm.org/10.1145/1837274.1837473",
 	"pages": "787-792",
 	"publisher": "ACM",
-	"stemmed": [
-		"rde",
-		"base",
-		"transistor",
-		"level",
-		"gate",
-		"simul",
-		"for",
-		"statist",
-		"static",
-		"time",
-		"analysi"
-	],
-	"tag": [
-		"analysis",
-		"simulation",
-		"statistics"
-	],
+	"stemmed": ["rde", "base", "transistor", "level", "gate", "simul", "for", "statist", "static", "time", "analysi"],
+	"tag": ["analysis", "simulation", "statistics"],
 	"title": "RDE-based transistor-level gate simulation for statistical static timing analysis",
 	"type": "inproceedings",
 	"venue": "DAC",

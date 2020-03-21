@@ -1,52 +1,16 @@
 {
-	"author": [
-		"Jan Chomicki",
-		"Damian Niwinski"
-	],
+	"author": ["Jan Chomicki", "Damian Niwinski"],
 	"booktitle": "Proceedings of the 12th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS93/P202.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS93/P202.PDF"
-	],
-	"cite": [
-		"conf/icde/Chomicki92",
-		"conf/pods/Chomicki92",
-		"journals/sigmod/DayalBBCHLMRSCLJ88",
-		"conf/vldb/CastilhoCF82",
-		"...",
-		"...",
-		"conf/sigmod/GehaniJS92",
-		"conf/icde/GertzL93",
-		"journals/acta/HulsmannS91",
-		"journals/is/LipeckS87",
-		"...",
-		"conf/sigmod/QianW88",
-		"conf/podc/Sistla85",
-		"journals/jacm/SistlaC85",
-		"journals/tkde/SistlaW95",
-		"..."
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS93/P202.PDF", "journals/anthology/dvd1:text/1-3/PODS93/P202.PDF"],
+	"cite": ["conf/icde/Chomicki92", "conf/pods/Chomicki92", "journals/sigmod/DayalBBCHLMRSCLJ88", "conf/vldb/CastilhoCF82", "...", "...", "conf/sigmod/GehaniJS92", "conf/icde/GertzL93", "journals/acta/HulsmannS91", "journals/is/LipeckS87", "...", "conf/sigmod/QianW88", "conf/podc/Sistla85", "journals/jacm/SistlaC85", "journals/tkde/SistlaW95", "..."],
 	"crossref": "conf/pods/93",
 	"dblpkey": "conf/pods/ChomickiN93",
 	"doi": "10.1145/153850.153876",
-	"ee": "http://doi.acm.org/10.1145/153850.153876",
 	"pages": "202-213",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"on",
-		"the",
-		"feasibl",
-		"of",
-		"check",
-		"tempor",
-		"integr",
-		"constraint"
-	],
-	"tag": [
-		"constraints",
-		"on the"
-	],
+	"stemmed": ["on", "the", "feasibl", "of", "check", "tempor", "integr", "constraint"],
+	"tag": ["constraints", "on the"],
 	"title": "On the Feasibility of Checking Temporal Integrity Constraints",
 	"type": "inproceedings",
 	"venue": "PODS",

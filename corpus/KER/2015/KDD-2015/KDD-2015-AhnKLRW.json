@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Sungjin Ahn",
-		"Anoop Korattikara",
-		"Nathan Liu",
-		"Suju Rajan",
-		"Max Welling"
-	],
+	"author": ["Sungjin Ahn", "Anoop Korattikara", "Nathan Liu", "Suju Rajan", "Max Welling"],
 	"booktitle": "Proceedings of the 21st International Conference on Knowledge Discovery and Data Mining",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2015",
 	"dblpkey": "conf/kdd/AhnKLRW15",
 	"doi": "10.1145/2783258.2783373",
-	"ee": "http://doi.acm.org/10.1145/2783258.2783373",
 	"pages": "9-18",
 	"publisher": "ACM",
-	"stemmed": [
-		"larg",
-		"scale",
-		"distribut",
-		"bayesian",
-		"matrix",
-		"factor",
-		"use",
-		"stochast",
-		"gradient",
-		"mcmc"
-	],
-	"tag": [
-		"distributed",
-		"matrix",
-		"probability",
-		"scalability",
-		"using"
-	],
+	"stemmed": ["larg", "scale", "distribut", "bayesian", "matrix", "factor", "use", "stochast", "gradient", "mcmc"],
+	"tag": ["distributed", "matrix", "probability", "scalability", "using"],
 	"title": "Large-Scale Distributed Bayesian Matrix Factorization using Stochastic Gradient MCMC",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Mary Baker",
-		"Satoshi Asami",
-		"Etienne Deprit",
-		"John K. Ousterhout",
-		"Margo I. Seltzer"
-	],
+	"author": ["Mary Baker", "Satoshi Asami", "Etienne Deprit", "John K. Ousterhout", "Margo I. Seltzer"],
 	"booktitle": "Proceedings of the Fifth International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1992",
 	"dblpkey": "conf/asplos/BakerADOS92",
 	"doi": "10.1145/143365.143380",
-	"ee": "http://doi.acm.org/10.1145/143365.143380",
 	"pages": "10-22",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"non",
-		"volatil",
-		"memori",
-		"for",
-		"fast",
-		"reliabl",
-		"file",
-		"system"
-	],
-	"tag": [
-		"file system",
-		"memory management",
-		"performance",
-		"reliability"
-	],
+	"stemmed": ["non", "volatil", "memori", "for", "fast", "reliabl", "file", "system"],
+	"tag": ["file system", "memory management", "performance", "reliability"],
 	"title": "Non-Volatile Memory for Fast, Reliable File Systems",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,52 +1,16 @@
 {
-	"author": [
-		"Peter Buneman",
-		"Susan B. Davidson",
-		"Aaron Watters"
-	],
+	"author": ["Peter Buneman", "Susan B. Davidson", "Aaron Watters"],
 	"booktitle": "Proceedings of the Seventh Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS88/P305.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS88/P305.PDF"
-	],
-	"cite": [
-		"conf/pods/BancilhonK86",
-		"conf/pods/AbiteboulH84",
-		"journals/tods/RothKS88",
-		"journals/tods/OzsoyogluY87",
-		"...",
-		"conf/lics/RoundsK86",
-		"conf/icalp/Scott82",
-		"journals/tcs/BunemanJO91",
-		"journals/jcss/Smyth78",
-		"journals/jacm/ImielinskiL84",
-		"...",
-		"...",
-		"journals/tcs/Winskel85",
-		"journals/tcs/Ait-Kaci86"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS88/P305.PDF", "journals/anthology/dvd1:text/1-3/PODS88/P305.PDF"],
+	"cite": ["conf/pods/BancilhonK86", "conf/pods/AbiteboulH84", "journals/tods/RothKS88", "journals/tods/OzsoyogluY87", "...", "conf/lics/RoundsK86", "conf/icalp/Scott82", "journals/tcs/BunemanJO91", "journals/jcss/Smyth78", "journals/jacm/ImielinskiL84", "...", "...", "journals/tcs/Winskel85", "journals/tcs/Ait-Kaci86"],
 	"crossref": "conf/pods/88",
 	"dblpkey": "conf/pods/BunemanDW88",
 	"doi": "10.1145/308386.308463",
-	"ee": "http://doi.acm.org/10.1145/308386.308463",
 	"pages": "305-314",
 	"publisher": "ACM",
-	"stemmed": [
-		"a",
-		"semant",
-		"for",
-		"complex",
-		"object",
-		"and",
-		"approxim",
-		"queri"
-	],
-	"tag": [
-		"approximate",
-		"query",
-		"semantics"
-	],
+	"stemmed": ["a", "semant", "for", "complex", "object", "and", "approxim", "queri"],
+	"tag": ["approximate", "query", "semantics"],
 	"title": "A Semantics for Complex Objects and Approximate Queries",
 	"type": "inproceedings",
 	"venue": "PODS",

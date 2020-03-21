@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Collin McCurdy",
-		"Charles N. Fischer"
-	],
+	"author": ["Collin McCurdy", "Charles N. Fischer"],
 	"booktitle": "Proceedings of the Ninth Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2003",
 	"dblpkey": "conf/ppopp/McCurdyF03",
 	"doi": "10.1145/781498.781507",
-	"ee": "http://doi.acm.org/10.1145/781498.781507",
 	"pages": "73-82",
 	"publisher": "ACM",
-	"stemmed": [
-		"user",
-		"control",
-		"coher",
-		"for",
-		"high",
-		"perform",
-		"share",
-		"memori",
-		"multiprocessor"
-	],
-	"tag": [
-		"memory management",
-		"multi",
-		"performance"
-	],
+	"stemmed": ["user", "control", "coher", "for", "high", "perform", "share", "memori", "multiprocessor"],
+	"tag": ["memory management", "multi", "performance"],
 	"title": "User-controllable coherence for high performance shared memory multiprocessors",
 	"type": "inproceedings",
 	"venue": "PPoPP",

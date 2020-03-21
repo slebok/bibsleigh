@@ -1,39 +1,14 @@
 {
-	"author": [
-		"Jieping Ye",
-		"Qi Li",
-		"Hui Xiong",
-		"Haesun Park",
-		"Ravi Janardan",
-		"Vipin Kumar"
-	],
+	"author": ["Jieping Ye", "Qi Li", "Hui Xiong", "Haesun Park", "Ravi Janardan", "Vipin Kumar"],
 	"booktitle": "Proceedings of the 10th International Conference on Knowledge Discovery and Data Mining",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2004",
 	"dblpkey": "conf/kdd/YePLJXK04",
 	"doi": "10.1145/1014052.1014093",
-	"ee": "http://doi.acm.org/10.1145/1014052.1014093",
 	"pages": "364-373",
 	"publisher": "ACM",
-	"stemmed": [
-		"idr",
-		"qr",
-		"an",
-		"increment",
-		"dimens",
-		"reduct",
-		"algorithm",
-		"via",
-		"qr",
-		"decomposit"
-	],
-	"tag": [
-		"algorithm",
-		"composition",
-		"incremental",
-		"named",
-		"reduction"
-	],
+	"stemmed": ["idr", "qr", "an", "increment", "dimens", "reduct", "algorithm", "via", "qr", "decomposit"],
+	"tag": ["algorithm", "composition", "incremental", "named", "reduction"],
 	"title": "IDR/QR: an incremental dimension reduction algorithm via QR decomposition",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,58 +1,16 @@
 {
-	"author": [
-		"Man Hon Wong",
-		"Divyakant Agrawal"
-	],
+	"author": ["Man Hon Wong", "Divyakant Agrawal"],
 	"booktitle": "Proceedings of the 12th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS93/P276.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS93/P276.PDF"
-	],
-	"cite": [
-		"journals/tods/BadrinathR92",
-		"journals/csur/BernsteinG81",
-		"journals/tse/BernsteinSW79",
-		"conf/sigmod/ChrysanthisRR91",
-		"journals/cacm/EswarranGLT76",
-		"journals/tocs/Herlihy86",
-		"journals/jcss/HerlihyW91",
-		"journals/tods/PapadimitriouK84",
-		"journals/jacm/Korth83",
-		"journals/cacm/Lamport78",
-		"journals/jacm/Papadimitriou79b",
-		"...",
-		"journals/tocs/SchwarzS84",
-		"...",
-		"journals/toplas/Weihl89",
-		"journals/jcss/Weihl93",
-		"journals/tods/Weikum91",
-		"...",
-		"conf/icdt/WongA92"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS93/P276.PDF", "journals/anthology/dvd1:text/1-3/PODS93/P276.PDF"],
+	"cite": ["journals/tods/BadrinathR92", "journals/csur/BernsteinG81", "journals/tse/BernsteinSW79", "conf/sigmod/ChrysanthisRR91", "journals/cacm/EswarranGLT76", "journals/tocs/Herlihy86", "journals/jcss/HerlihyW91", "journals/tods/PapadimitriouK84", "journals/jacm/Korth83", "journals/cacm/Lamport78", "journals/jacm/Papadimitriou79b", "...", "journals/tocs/SchwarzS84", "...", "journals/toplas/Weihl89", "journals/jcss/Weihl93", "journals/tods/Weikum91", "...", "conf/icdt/WongA92"],
 	"crossref": "conf/pods/93",
 	"dblpkey": "conf/pods/WongA93",
 	"doi": "10.1145/153850.153922",
-	"ee": "http://doi.acm.org/10.1145/153850.153922",
 	"pages": "276-287",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"context",
-		"base",
-		"synchronis",
-		"an",
-		"approach",
-		"beyond",
-		"semant",
-		"for",
-		"concurr",
-		"control"
-	],
-	"tag": [
-		"approach",
-		"concurrent",
-		"semantics"
-	],
+	"stemmed": ["context", "base", "synchronis", "an", "approach", "beyond", "semant", "for", "concurr", "control"],
+	"tag": ["approach", "concurrent", "semantics"],
 	"title": "Context-Based Synchronisation: An Approach beyond Semantics for Concurrency Control",
 	"type": "inproceedings",
 	"venue": "PODS",

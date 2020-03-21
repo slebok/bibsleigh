@@ -1,38 +1,16 @@
 {
-	"author": [
-		"Matthew Arnold",
-		"Martin T. Vechev",
-		"Eran Yahav"
-	],
+	"author": ["Matthew Arnold", "Martin T. Vechev", "Eran Yahav"],
 	"booktitle": "Proceedings of the 23rd Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2008",
 	"dblpkey": "conf/oopsla/ArnoldVY08",
 	"doi": "10.1145/1449764.1449776",
 	"editor": "Gail E. Harris",
-	"ee": "http://doi.acm.org/10.1145/1449764.1449776",
 	"isbn": "978-1-60558-215-3",
 	"pages": "143-162",
 	"publisher": "ACM",
-	"stemmed": [
-		"qvm",
-		"an",
-		"effici",
-		"runtim",
-		"for",
-		"detect",
-		"defect",
-		"in",
-		"deploy",
-		"system"
-	],
-	"tag": [
-		"detection",
-		"fault",
-		"named",
-		"performance",
-		"runtime"
-	],
+	"stemmed": ["qvm", "an", "effici", "runtim", "for", "detect", "defect", "in", "deploy", "system"],
+	"tag": ["detection", "fault", "named", "performance", "runtime"],
 	"title": "QVM: an efficient runtime for detecting defects in deployed systems",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

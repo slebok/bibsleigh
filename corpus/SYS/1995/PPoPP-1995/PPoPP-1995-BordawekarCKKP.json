@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Rajesh Bordawekar",
-		"Alok N. Choudhary",
-		"Ken Kennedy",
-		"Charles Koelbel",
-		"Michael H. Paleczny"
-	],
+	"author": ["Rajesh Bordawekar", "Alok N. Choudhary", "Ken Kennedy", "Charles Koelbel", "Michael H. Paleczny"],
 	"booktitle": "Proceedings of the Fifth Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1995",
 	"dblpkey": "conf/ppopp/BordawekarCKKP95",
 	"doi": "10.1145/209936.209938",
-	"ee": "http://doi.acm.org/10.1145/209936.209938",
 	"pages": "1-10",
 	"publisher": "ACM",
-	"stemmed": [
-		"a",
-		"model",
-		"and",
-		"compil",
-		"strategi",
-		"for",
-		"out",
-		"of",
-		"core",
-		"data",
-		"parallel",
-		"program"
-	],
-	"tag": [
-		"compilation",
-		"parallel",
-		"source code"
-	],
+	"stemmed": ["a", "model", "and", "compil", "strategi", "for", "out", "of", "core", "data", "parallel", "program"],
+	"tag": ["compilation", "parallel", "source code"],
 	"title": "A Model and Compilation Strategy for Out-of-Core Data Parallel Programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

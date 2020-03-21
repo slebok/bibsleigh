@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Seung Woo Son",
-		"Mahmut T. Kandemir",
-		"Mustafa Karaköy",
-		"Dhruva R. Chakrabarti"
-	],
+	"author": ["Seung Woo Son", "Mahmut T. Kandemir", "Mustafa Karaköy", "Dhruva R. Chakrabarti"],
 	"booktitle": "Proceedings of the 14th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2009",
 	"dblpkey": "conf/ppopp/SonKKC09",
 	"doi": "10.1145/1504176.1504208",
-	"ee": "http://doi.acm.org/10.1145/1504176.1504208",
 	"pages": "209-218",
 	"publisher": "ACM",
-	"stemmed": [
-		"a",
-		"compil",
-		"direct",
-		"data",
-		"prefetch",
-		"scheme",
-		"for",
-		"chip",
-		"multiprocessor"
-	],
-	"tag": [
-		"multi"
-	],
+	"stemmed": ["a", "compil", "direct", "data", "prefetch", "scheme", "for", "chip", "multiprocessor"],
+	"tag": ["multi"],
 	"title": "A compiler-directed data prefetching scheme for chip multiprocessors",
 	"type": "inproceedings",
 	"venue": "PPoPP",

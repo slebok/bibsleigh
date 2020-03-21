@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Witawas Srisa-an",
-		"Myra B. Cohen",
-		"Yu Shang",
-		"Mithuna Soundararaj"
-	],
+	"author": ["Witawas Srisa-an", "Myra B. Cohen", "Yu Shang", "Mithuna Soundararaj"],
 	"booktitle": "Proceedings of the Eighth International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2010",
 	"dblpkey": "conf/cgo/Srisa-anCSS10",
 	"doi": "10.1145/1772954.1772968",
-	"ee": "http://doi.acm.org/10.1145/1772954.1772968",
 	"pages": "82-91",
 	"publisher": "ACM",
-	"stemmed": [
-		"a",
-		"self",
-		"adjust",
-		"code",
-		"cach",
-		"manag",
-		"to",
-		"balanc",
-		"start",
-		"up",
-		"time",
-		"and",
-		"memori",
-		"usag"
-	],
-	"tag": [
-		"memory management",
-		"self"
-	],
+	"stemmed": ["a", "self", "adjust", "code", "cach", "manag", "to", "balanc", "start", "up", "time", "and", "memori", "usag"],
+	"tag": ["memory management", "self"],
 	"title": "A self-adjusting code cache manager to balance start-up time and memory usage",
 	"type": "inproceedings",
 	"venue": "CGO",

@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Kai Li",
-		"Jeffrey F. Naughton",
-		"James S. Plank"
-	],
+	"author": ["Kai Li", "Jeffrey F. Naughton", "James S. Plank"],
 	"booktitle": "Proceedings of the Second Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1990",
 	"dblpkey": "conf/ppopp/LiNP90",
 	"doi": "10.1145/99163.99173",
-	"ee": "http://doi.acm.org/10.1145/99163.99173",
 	"pages": "79-88",
 	"publisher": "ACM",
-	"stemmed": [
-		"real",
-		"time",
-		"concurr",
-		"checkpoint",
-		"for",
-		"parallel",
-		"program"
-	],
-	"tag": [
-		"concurrent",
-		"parallel",
-		"realtime",
-		"source code"
-	],
+	"stemmed": ["real", "time", "concurr", "checkpoint", "for", "parallel", "program"],
+	"tag": ["concurrent", "parallel", "realtime", "source code"],
 	"title": "Real-Time, Concurrent Checkpoint for Parallel Programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

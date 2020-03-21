@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Nikos Giatrakos",
-		"Antonios Deligiannakis",
-		"Minos N. Garofalakis",
-		"Izchak Sharfman",
-		"Assaf Schuster"
-	],
+	"author": ["Nikos Giatrakos", "Antonios Deligiannakis", "Minos N. Garofalakis", "Izchak Sharfman", "Assaf Schuster"],
 	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/GiatrakosDGSS12",
 	"doi": "10.1145/2213836.2213867",
-	"ee": "http://doi.acm.org/10.1145/2213836.2213867",
 	"pages": "265-276",
 	"publisher": "ACM",
-	"stemmed": [
-		"predict",
-		"base",
-		"geometr",
-		"monitor",
-		"over",
-		"distribut",
-		"data",
-		"stream"
-	],
-	"tag": [
-		"data type",
-		"distributed",
-		"geometry",
-		"monitoring",
-		"predict"
-	],
+	"stemmed": ["predict", "base", "geometr", "monitor", "over", "distribut", "data", "stream"],
+	"tag": ["data type", "distributed", "geometry", "monitoring", "predict"],
 	"title": "Prediction-based geometric monitoring over distributed data streams",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

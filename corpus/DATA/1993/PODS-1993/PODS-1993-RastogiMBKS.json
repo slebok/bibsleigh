@@ -1,51 +1,16 @@
 {
-	"author": [
-		"Rajeev Rastogi",
-		"Sharad Mehrotra",
-		"Yuri Breitbart",
-		"Henry F. Korth",
-		"Abraham Silberschatz"
-	],
+	"author": ["Rajeev Rastogi", "Sharad Mehrotra", "Yuri Breitbart", "Henry F. Korth", "Abraham Silberschatz"],
 	"booktitle": "Proceedings of the 12th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS93/P097.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS93/P097.PDF"
-	],
-	"cite": [
-		"...",
-		"journals/vldb/BreitbartGS92",
-		"books/aw/BernsteinHG87",
-		"conf/icde/BadrinathR87",
-		"conf/sigmod/ChrysanthisRR91",
-		"journals/tods/FarragO89",
-		"journals/tods/Garcia-Molina83",
-		"conf/sigmod/Garcia-MolinaS87",
-		"journals/tods/Herlihy90",
-		"...",
-		"journals/jacm/Korth83",
-		"conf/pdis/MehrotraRKS91",
-		"...",
-		"..."
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS93/P097.PDF", "journals/anthology/dvd1:text/1-3/PODS93/P097.PDF"],
+	"cite": ["...", "journals/vldb/BreitbartGS92", "books/aw/BernsteinHG87", "conf/icde/BadrinathR87", "conf/sigmod/ChrysanthisRR91", "journals/tods/FarragO89", "journals/tods/Garcia-Molina83", "conf/sigmod/Garcia-MolinaS87", "journals/tods/Herlihy90", "...", "journals/jacm/Korth83", "conf/pdis/MehrotraRKS91", "...", "..."],
 	"crossref": "conf/pods/93",
 	"dblpkey": "conf/pods/RastogiMBKS93",
 	"doi": "10.1145/153850.153859",
-	"ee": "http://doi.acm.org/10.1145/153850.153859",
 	"pages": "97-108",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"on",
-		"correct",
-		"of",
-		"non",
-		"serializ",
-		"execut"
-	],
-	"tag": [
-		"correctness",
-		"on the"
-	],
+	"stemmed": ["on", "correct", "of", "non", "serializ", "execut"],
+	"tag": ["correctness", "on the"],
 	"title": "On Correctness of Non-serializable Executions",
 	"type": "inproceedings",
 	"venue": "PODS",

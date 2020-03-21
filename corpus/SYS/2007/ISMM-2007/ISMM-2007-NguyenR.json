@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Huu Hai Nguyen",
-		"Martin C. Rinard"
-	],
+	"author": ["Huu Hai Nguyen", "Martin C. Rinard"],
 	"booktitle": "Proceedings of the Sixth International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2007",
 	"dblpkey": "conf/iwmm/NguyenR07",
 	"doi": "10.1145/1296907.1296912",
-	"ee": "http://doi.acm.org/10.1145/1296907.1296912",
 	"pages": "15-30",
 	"publisher": "ACM",
-	"stemmed": [
-		"detect",
-		"and",
-		"elimin",
-		"memori",
-		"leak",
-		"use",
-		"cyclic",
-		"memori",
-		"alloc"
-	],
-	"tag": [
-		"detection",
-		"memory management",
-		"using"
-	],
+	"stemmed": ["detect", "and", "elimin", "memori", "leak", "use", "cyclic", "memori", "alloc"],
+	"tag": ["detection", "memory management", "using"],
 	"title": "Detecting and eliminating memory leaks using cyclic memory allocation",
 	"type": "inproceedings",
 	"venue": "ISMM",

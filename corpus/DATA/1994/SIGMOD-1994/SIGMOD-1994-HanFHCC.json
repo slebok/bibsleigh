@@ -1,47 +1,16 @@
 {
-	"author": [
-		"Jiawei Han",
-		"Yongjian Fu",
-		"Yue Huang",
-		"Yandong Cai",
-		"Nick Cercone"
-	],
+	"author": ["Jiawei Han", "Yongjian Fu", "Yue Huang", "Yandong Cai", "Nick Cercone"],
 	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD94/P516.PDF",
-	"cite": [
-		"...",
-		"conf/vldb/HanCC92",
-		"journals/tkde/HanCC93",
-		"books/mit/PiatetskyF91",
-		"journals/cacm/SilberschatzSU91"
-	],
+	"cite": ["...", "conf/vldb/HanCC92", "journals/tkde/HanCC93", "books/mit/PiatetskyF91", "journals/cacm/SilberschatzSU91"],
 	"crossref": "conf/sigmod/94",
 	"dblpkey": "conf/sigmod/HanFHCC94",
 	"doi": "10.1145/191839.191979",
-	"ee": "http://doi.acm.org/10.1145/191839.191979",
 	"pages": "516",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"db",
-		"learn",
-		"a",
-		"system",
-		"prototyp",
-		"for",
-		"knowledg",
-		"discoveri",
-		"in",
-		"relat",
-		"databas"
-	],
-	"tag": [
-		"database",
-		"information management",
-		"named",
-		"prototype",
-		"relational"
-	],
+	"stemmed": ["db", "learn", "a", "system", "prototyp", "for", "knowledg", "discoveri", "in", "relat", "databas"],
+	"tag": ["database", "information management", "named", "prototype", "relational"],
 	"title": "DBLearn: A System Prototype for Knowledge Discovery in Relational Databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

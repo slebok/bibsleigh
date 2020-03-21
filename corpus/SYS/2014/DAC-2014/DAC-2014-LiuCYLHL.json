@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Ren-Shuo Liu",
-		"Meng-Yen Chuang",
-		"Chia-Lin Yang",
-		"Cheng-Hsuan Li",
-		"Kin-Chu Ho",
-		"Hsiang-Pang Li"
-	],
+	"author": ["Ren-Shuo Liu", "Meng-Yen Chuang", "Chia-Lin Yang", "Cheng-Hsuan Li", "Kin-Chu Ho", "Hsiang-Pang Li"],
 	"booktitle": "Proceedings of the 51st Annual Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2014",
 	"dblpkey": "conf/dac/LiuCYLHL14",
 	"doi": "10.1145/2593069.2593130",
-	"ee": "http://doi.acm.org/10.1145/2593069.2593130",
 	"pages": "145:1-145:6",
 	"publisher": "ACM",
-	"stemmed": [
-		"ec",
-		"cach",
-		"exploit",
-		"error",
-		"local",
-		"to",
-		"optim",
-		"ldpc",
-		"in",
-		"nand",
-		"flash",
-		"base",
-		"ssds"
-	],
-	"tag": [
-		"fault",
-		"locality",
-		"named"
-	],
+	"stemmed": ["ec", "cach", "exploit", "error", "local", "to", "optim", "ldpc", "in", "nand", "flash", "base", "ssds"],
+	"tag": ["fault", "locality", "named"],
 	"title": "EC-Cache: Exploiting Error Locality to Optimize LDPC in NAND Flash-Based SSDs",
 	"type": "inproceedings",
 	"venue": "DAC",

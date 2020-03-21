@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Nathan P. Ricci",
-		"Samuel Z. Guyer",
-		"J. Eliot B. Moss"
-	],
+	"author": ["Nathan P. Ricci", "Samuel Z. Guyer", "J. Eliot B. Moss"],
 	"booktitle": "Proceedings of the 12th International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2013",
 	"dblpkey": "conf/iwmm/RicciGM13",
 	"doi": "10.1145/2464157.2466484",
-	"ee": "http://doi.acm.org/10.1145/2464157.2466484",
 	"pages": "109-118",
 	"publisher": "ACM",
-	"stemmed": [
-		"eleph",
-		"track",
-		"portabl",
-		"product",
-		"of",
-		"complet",
-		"and",
-		"precis",
-		"gc",
-		"trace"
-	],
-	"tag": [
-		"garbage collection",
-		"precise"
-	],
+	"stemmed": ["eleph", "track", "portabl", "product", "of", "complet", "and", "precis", "gc", "trace"],
+	"tag": ["garbage collection", "precise"],
 	"title": "Elephant tracks: portable production of complete and precise gc traces",
 	"type": "inproceedings",
 	"venue": "ISMM",

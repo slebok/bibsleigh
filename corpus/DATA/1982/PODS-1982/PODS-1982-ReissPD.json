@@ -1,42 +1,16 @@
 {
-	"author": [
-		"Steven P. Reiss",
-		"Mark J. Post",
-		"Tore Dalenius"
-	],
+	"author": ["Steven P. Reiss", "Mark J. Post", "Tore Dalenius"],
 	"booktitle": "Proceedings of the First Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS82/P139.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS82/P139.PDF"
-	],
-	"cite": [
-		"journals/tods/Beck80",
-		"...",
-		"...",
-		"...",
-		"journals/tods/DenningDS79",
-		"journals/tods/Denning80",
-		"...",
-		"journals/tods/Reiss84",
-		"...",
-		"books/cs/Ullman80"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS82/P139.PDF", "journals/anthology/dvd1:text/1-3/PODS82/P139.PDF"],
+	"cite": ["journals/tods/Beck80", "...", "...", "...", "journals/tods/DenningDS79", "journals/tods/Denning80", "...", "journals/tods/Reiss84", "...", "books/cs/Ullman80"],
 	"crossref": "conf/pods/82",
 	"dblpkey": "conf/pods/ReissPD82",
 	"doi": "10.1145/588111.588134",
-	"ee": "http://doi.acm.org/10.1145/588111.588134",
 	"pages": "139-146",
 	"publisher": "ACM",
-	"stemmed": [
-		"non",
-		"revers",
-		"privaci",
-		"transform"
-	],
-	"tag": [
-		"privacy"
-	],
+	"stemmed": ["non", "revers", "privaci", "transform"],
+	"tag": ["privacy"],
 	"title": "Non-reversible Privacy Transformations",
 	"type": "inproceedings",
 	"venue": "PODS",

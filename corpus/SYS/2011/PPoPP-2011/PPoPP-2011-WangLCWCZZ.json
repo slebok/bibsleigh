@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Zhaoguo Wang",
-		"Ran Liu",
-		"Yufei Chen",
-		"Xi Wu",
-		"Haibo Chen",
-		"Weihua Zhang",
-		"Binyu Zang"
-	],
+	"author": ["Zhaoguo Wang", "Ran Liu", "Yufei Chen", "Xi Wu", "Haibo Chen", "Weihua Zhang", "Binyu Zang"],
 	"booktitle": "Proceedings of the 16th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2011",
 	"dblpkey": "conf/ppopp/WangLCWCZZ11",
 	"doi": "10.1145/1941553.1941583",
-	"ee": "http://doi.acm.org/10.1145/1941553.1941583",
 	"pages": "213-222",
 	"publisher": "ACM",
-	"stemmed": [
-		"coremu",
-		"a",
-		"scalabl",
-		"and",
-		"portabl",
-		"parallel",
-		"full",
-		"system",
-		"emul"
-	],
-	"tag": [
-		"named",
-		"parallel",
-		"scalability"
-	],
+	"stemmed": ["coremu", "a", "scalabl", "and", "portabl", "parallel", "full", "system", "emul"],
+	"tag": ["named", "parallel", "scalability"],
 	"title": "COREMU: a scalable and portable parallel full-system emulator",
 	"type": "inproceedings",
 	"venue": "PPoPP",

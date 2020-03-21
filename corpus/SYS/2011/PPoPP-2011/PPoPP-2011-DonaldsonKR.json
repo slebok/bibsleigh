@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Alastair F. Donaldson",
-		"Daniel Kröning",
-		"Philipp Rümmer"
-	],
+	"author": ["Alastair F. Donaldson", "Daniel Kröning", "Philipp Rümmer"],
 	"booktitle": "Proceedings of the 16th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2011",
 	"dblpkey": "conf/ppopp/DonaldsonKR11",
 	"doi": "10.1145/1941553.1941604",
-	"ee": "http://doi.acm.org/10.1145/1941553.1941604",
 	"pages": "311-312",
 	"publisher": "ACM",
-	"stemmed": [
-		"scratch",
-		"a",
-		"tool",
-		"for",
-		"automat",
-		"analysi",
-		"of",
-		"dma",
-		"race"
-	],
-	"tag": [
-		"analysis",
-		"automation",
-		"named"
-	],
+	"stemmed": ["scratch", "a", "tool", "for", "automat", "analysi", "of", "dma", "race"],
+	"tag": ["analysis", "automation", "named"],
 	"title": "SCRATCH: a tool for automatic analysis of dma races",
 	"type": "inproceedings",
 	"venue": "PPoPP",

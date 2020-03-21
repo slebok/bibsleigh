@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Dong Deng",
-		"Guoliang Li",
-		"Jianhua Feng"
-	],
+	"author": ["Dong Deng", "Guoliang Li", "Jianhua Feng"],
 	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/DengLF14",
 	"doi": "10.1145/2588555.2593675",
-	"ee": "http://doi.acm.org/10.1145/2588555.2593675",
 	"pages": "673-684",
 	"publisher": "ACM",
-	"stemmed": [
-		"a",
-		"pivot",
-		"prefix",
-		"base",
-		"filter",
-		"algorithm",
-		"for",
-		"string",
-		"similar",
-		"search"
-	],
-	"tag": [
-		"algorithm",
-		"similarity",
-		"string"
-	],
+	"stemmed": ["a", "pivot", "prefix", "base", "filter", "algorithm", "for", "string", "similar", "search"],
+	"tag": ["algorithm", "similarity", "string"],
 	"title": "A pivotal prefix based filtering algorithm for string similarity search",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

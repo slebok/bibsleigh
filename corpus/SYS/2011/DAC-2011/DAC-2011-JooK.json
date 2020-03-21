@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Deokjin Joo",
-		"Taewhan Kim"
-	],
+	"author": ["Deokjin Joo", "Taewhan Kim"],
 	"booktitle": "Proceedings of the 48th Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/JooK11",
 	"doi": "10.1145/2024724.2024846",
-	"ee": "http://doi.acm.org/10.1145/2024724.2024846",
 	"pages": "522-527",
 	"publisher": "ACM",
-	"stemmed": [
-		"wave",
-		"min",
-		"a",
-		"fine",
-		"grain",
-		"clock",
-		"buffer",
-		"polar",
-		"assign",
-		"combin",
-		"with",
-		"buffer",
-		"size"
-	],
-	"tag": [
-		"fine-grained",
-		"named"
-	],
+	"stemmed": ["wave", "min", "a", "fine", "grain", "clock", "buffer", "polar", "assign", "combin", "with", "buffer", "size"],
+	"tag": ["fine-grained", "named"],
 	"title": "WaveMin: a fine-grained clock buffer polarity assignment combined with buffer sizing",
 	"type": "inproceedings",
 	"venue": "DAC",

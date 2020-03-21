@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Yongjun Park",
-		"Sangwon Seo",
-		"Hyunchul Park",
-		"Hyoun Kyu Cho",
-		"Scott A. Mahlke"
-	],
+	"author": ["Yongjun Park", "Sangwon Seo", "Hyunchul Park", "Hyoun Kyu Cho", "Scott A. Mahlke"],
 	"booktitle": "Proceedings of the 17th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2012",
 	"dblpkey": "conf/asplos/ParkSPCM12",
 	"doi": "10.1145/2150976.2151014",
-	"ee": "http://doi.acm.org/10.1145/2150976.2151014",
 	"pages": "363-374",
 	"publisher": "ACM",
-	"stemmed": [
-		"simd",
-		"defragment",
-		"effici",
-		"ilp",
-		"realiz",
-		"on",
-		"data",
-		"parallel",
-		"architectur"
-	],
-	"tag": [
-		"architecture",
-		"performance"
-	],
+	"stemmed": ["simd", "defragment", "effici", "ilp", "realiz", "on", "data", "parallel", "architectur"],
+	"tag": ["architecture", "performance"],
 	"title": "SIMD defragmenter: efficient ILP realization on data-parallel architectures",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

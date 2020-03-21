@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Olatunji Ruwase",
-		"Michael A. Kozuch",
-		"Phillip B. Gibbons",
-		"Todd C. Mowry"
-	],
+	"author": ["Olatunji Ruwase", "Michael A. Kozuch", "Phillip B. Gibbons", "Todd C. Mowry"],
 	"booktitle": "Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2014",
 	"dblpkey": "conf/asplos/RuwaseKGM14",
 	"doi": "10.1145/2541940.2541970",
-	"ee": "http://doi.acm.org/10.1145/2541940.2541970",
 	"pages": "655-670",
 	"publisher": "ACM",
-	"stemmed": [
-		"guardrail",
-		"a",
-		"high",
-		"fidel",
-		"approach",
-		"to",
-		"protect",
-		"hardwar",
-		"devic",
-		"from",
-		"buggi",
-		"driver"
-	],
-	"tag": [
-		"approach",
-		"hardware",
-		"named"
-	],
+	"stemmed": ["guardrail", "a", "high", "fidel", "approach", "to", "protect", "hardwar", "devic", "from", "buggi", "driver"],
+	"tag": ["approach", "hardware", "named"],
 	"title": "Guardrail: a high fidelity approach to protecting hardware devices from buggy drivers",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Yooseong Kim",
-		"Aviral Shrivastava"
-	],
+	"author": ["Yooseong Kim", "Aviral Shrivastava"],
 	"booktitle": "Proceedings of the 48th Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/KimS11",
 	"doi": "10.1145/2024724.2024754",
-	"ee": "http://doi.acm.org/10.1145/2024724.2024754",
 	"pages": "128-133",
 	"publisher": "ACM",
-	"stemmed": [
-		"cumapz",
-		"a",
-		"tool",
-		"to",
-		"analyz",
-		"memori",
-		"access",
-		"pattern",
-		"in",
-		"cuda"
-	],
-	"tag": [
-		"data access",
-		"memory management",
-		"named"
-	],
+	"stemmed": ["cumapz", "a", "tool", "to", "analyz", "memori", "access", "pattern", "in", "cuda"],
+	"tag": ["data access", "memory management", "named"],
 	"title": "CuMAPz: a tool to analyze memory access patterns in CUDA",
 	"type": "inproceedings",
 	"venue": "DAC",

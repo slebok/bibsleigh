@@ -1,56 +1,16 @@
 {
-	"author": [
-		"Francesco M. Malvestuto",
-		"Marina Moscarini",
-		"Maurizio Rafanelli"
-	],
+	"author": ["Francesco M. Malvestuto", "Marina Moscarini", "Maurizio Rafanelli"],
 	"booktitle": "Proceedings of the 10th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS91/P252.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS91/P252.PDF"
-	],
-	"cite": [
-		"journals/csur/AdamW89",
-		"...",
-		"journals/tse/ChinO82",
-		"...",
-		"...",
-		"journals/computer/DenningS83",
-		"...",
-		"...",
-		"journals/siamcomp/Gusfield88",
-		"conf/vldb/MalvestutoM89",
-		"...",
-		"journals/tkde/MalvestutoM90",
-		"..."
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS91/P252.PDF", "journals/anthology/dvd1:text/1-3/PODS91/P252.PDF"],
+	"cite": ["journals/csur/AdamW89", "...", "journals/tse/ChinO82", "...", "...", "journals/computer/DenningS83", "...", "...", "journals/siamcomp/Gusfield88", "conf/vldb/MalvestutoM89", "...", "journals/tkde/MalvestutoM90", "..."],
 	"crossref": "conf/pods/91",
 	"dblpkey": "conf/pods/MalvestutoMR91",
 	"doi": "10.1145/113413.113436",
-	"ee": "http://doi.acm.org/10.1145/113413.113436",
 	"pages": "252-258",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"suppress",
-		"margin",
-		"cell",
-		"to",
-		"protect",
-		"sensit",
-		"inform",
-		"in",
-		"a",
-		"two",
-		"dimension",
-		"statist",
-		"tabl"
-	],
-	"tag": [
-		"2d",
-		"information management",
-		"statistics"
-	],
+	"stemmed": ["suppress", "margin", "cell", "to", "protect", "sensit", "inform", "in", "a", "two", "dimension", "statist", "tabl"],
+	"tag": ["2d", "information management", "statistics"],
 	"title": "Suppressing Marginal Cells to Protect Sensitive Information in a Two-Dimensional Statistical Table",
 	"type": "inproceedings",
 	"venue": "PODS",

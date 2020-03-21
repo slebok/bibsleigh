@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Shengen Yan",
-		"Guoping Long",
-		"Yunquan Zhang"
-	],
+	"author": ["Shengen Yan", "Guoping Long", "Yunquan Zhang"],
 	"booktitle": "Proceedings of the 18th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2013",
 	"dblpkey": "conf/ppopp/YanLZ13",
 	"doi": "10.1145/2442516.2442539",
-	"ee": "http://doi.acm.org/10.1145/2442516.2442539",
 	"pages": "229-238",
 	"publisher": "ACM",
-	"stemmed": [
-		"stream",
-		"scan",
-		"fast",
-		"scan",
-		"algorithm",
-		"for",
-		"gpus",
-		"without",
-		"global",
-		"barrier",
-		"synchron"
-	],
-	"tag": [
-		"algorithm",
-		"named",
-		"performance"
-	],
+	"stemmed": ["stream", "scan", "fast", "scan", "algorithm", "for", "gpus", "without", "global", "barrier", "synchron"],
+	"tag": ["algorithm", "named", "performance"],
 	"title": "StreamScan: fast scan algorithms for GPUs without global barrier synchronization",
 	"type": "inproceedings",
 	"venue": "PPoPP",

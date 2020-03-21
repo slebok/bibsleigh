@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Sukhyun Song",
-		"Jeffrey K. Hollingsworth"
-	],
+	"author": ["Sukhyun Song", "Jeffrey K. Hollingsworth"],
 	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/SongH14",
 	"doi": "10.1145/2555243.2555249",
-	"ee": "http://doi.acm.org/10.1145/2555243.2555249",
 	"pages": "181-192",
 	"publisher": "ACM",
-	"stemmed": [
-		"design",
-		"and",
-		"auto",
-		"tune",
-		"parallel",
-		"d",
-		"fft",
-		"for",
-		"comput",
-		"communic",
-		"overlap"
-	],
-	"tag": [
-		"3d",
-		"design",
-		"parallel"
-	],
+	"stemmed": ["design", "and", "auto", "tune", "parallel", "d", "fft", "for", "comput", "communic", "overlap"],
+	"tag": ["3d", "design", "parallel"],
 	"title": "Designing and auto-tuning parallel 3-D FFT for computation-communication overlap",
 	"type": "inproceedings",
 	"venue": "PPoPP",

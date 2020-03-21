@@ -1,29 +1,14 @@
 {
-	"author": [
-		"Alex Kogan",
-		"Erez Petrank"
-	],
+	"author": ["Alex Kogan", "Erez Petrank"],
 	"booktitle": "Proceedings of the 16th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2011",
 	"dblpkey": "conf/ppopp/KoganP11",
 	"doi": "10.1145/1941553.1941585",
-	"ee": "http://doi.acm.org/10.1145/1941553.1941585",
 	"pages": "223-234",
 	"publisher": "ACM",
-	"stemmed": [
-		"wait",
-		"free",
-		"queue",
-		"with",
-		"multipl",
-		"enqueuer",
-		"and",
-		"dequeuer"
-	],
-	"tag": [
-		"multi"
-	],
+	"stemmed": ["wait", "free", "queue", "with", "multipl", "enqueuer", "and", "dequeuer"],
+	"tag": ["multi"],
 	"title": "Wait-free queues with multiple enqueuers and dequeuers",
 	"type": "inproceedings",
 	"venue": "PPoPP",

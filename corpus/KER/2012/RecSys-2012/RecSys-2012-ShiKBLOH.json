@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Yue Shi",
-		"Alexandros Karatzoglou",
-		"Linas Baltrunas",
-		"Martha Larson",
-		"Nuria Oliver",
-		"Alan Hanjalic"
-	],
+	"author": ["Yue Shi", "Alexandros Karatzoglou", "Linas Baltrunas", "Martha Larson", "Nuria Oliver", "Alan Hanjalic"],
 	"booktitle": "Proceedings of the Sixth Conference on Recommender Systems",
 	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2012",
 	"dblpkey": "conf/recsys/ShiKBLOH12",
 	"doi": "10.1145/2365952.2365981",
-	"ee": "http://doi.acm.org/10.1145/2365952.2365981",
 	"pages": "139-146",
 	"publisher": "ACM",
-	"stemmed": [
-		"climf",
-		"learn",
-		"to",
-		"maxim",
-		"reciproc",
-		"rank",
-		"with",
-		"collabor",
-		"less",
-		"is",
-		"more",
-		"filter"
-	],
-	"tag": [
-		"collaboration",
-		"learning",
-		"named",
-		"rank"
-	],
+	"stemmed": ["climf", "learn", "to", "maxim", "reciproc", "rank", "with", "collabor", "less", "is", "more", "filter"],
+	"tag": ["collaboration", "learning", "named", "rank"],
 	"title": "CLiMF: learning to maximize reciprocal rank with collaborative less-is-more filtering",
 	"type": "inproceedings",
 	"venue": "RecSys",

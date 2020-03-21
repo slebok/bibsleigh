@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Xiaoyang Gao",
-		"Swarup Kumar Sahoo",
-		"Chi-Chung Lam",
-		"J. Ramanujam",
-		"Qingda Lu",
-		"Gerald Baumgartner",
-		"P. Sadayappan"
-	],
+	"author": ["Xiaoyang Gao", "Swarup Kumar Sahoo", "Chi-Chung Lam", "J. Ramanujam", "Qingda Lu", "Gerald Baumgartner", "P. Sadayappan"],
 	"booktitle": "Proceedings of the 10th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2005",
 	"dblpkey": "conf/ppopp/GaoSLRLBS05",
 	"doi": "10.1145/1065944.1065980",
-	"ee": "http://doi.acm.org/10.1145/1065944.1065980",
 	"pages": "266-276",
 	"publisher": "ACM",
-	"stemmed": [
-		"perform",
-		"model",
-		"and",
-		"optim",
-		"of",
-		"parallel",
-		"out",
-		"of",
-		"core",
-		"tensor",
-		"contract"
-	],
-	"tag": [
-		"modelling",
-		"optimisation",
-		"parallel",
-		"performance"
-	],
+	"stemmed": ["perform", "model", "and", "optim", "of", "parallel", "out", "of", "core", "tensor", "contract"],
+	"tag": ["modelling", "optimisation", "parallel", "performance"],
 	"title": "Performance modeling and optimization of parallel out-of-core tensor contractions",
 	"type": "inproceedings",
 	"venue": "PPoPP",

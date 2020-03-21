@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Yun Zou",
-		"Sanjay V. Rajopadhye"
-	],
+	"author": ["Yun Zou", "Sanjay V. Rajopadhye"],
 	"booktitle": "Proceedings of the 10th International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2012",
 	"dblpkey": "conf/cgo/ZouR12",
 	"doi": "10.1145/2259016.2259027",
-	"ee": "http://doi.acm.org/10.1145/2259016.2259027",
 	"pages": "74-83",
 	"publisher": "ACM",
-	"stemmed": [
-		"scan",
-		"detect",
-		"and",
-		"parallel",
-		"in",
-		"inher",
-		"sequenti",
-		"nest",
-		"loop",
-		"program"
-	],
-	"tag": [
-		"detection",
-		"parallel",
-		"source code"
-	],
+	"stemmed": ["scan", "detect", "and", "parallel", "in", "inher", "sequenti", "nest", "loop", "program"],
+	"tag": ["detection", "parallel", "source code"],
 	"title": "Scan detection and parallelization in “inherently sequential” nested loop programs",
 	"type": "inproceedings",
 	"venue": "CGO",

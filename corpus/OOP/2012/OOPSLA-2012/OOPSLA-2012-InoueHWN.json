@@ -1,43 +1,16 @@
 {
-	"author": [
-		"Hiroshi Inoue",
-		"Hiroshige Hayashizaki",
-		"Peng Wu",
-		"Toshio Nakatani"
-	],
+	"author": ["Hiroshi Inoue", "Hiroshige Hayashizaki", "Peng Wu", "Toshio Nakatani"],
 	"booktitle": "Proceedings of the 27th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2012",
 	"dblpkey": "conf/oopsla/InoueHWN12",
 	"doi": "10.1145/2384616.2384630",
-	"editor": [
-		"Gary T. Leavens",
-		"Matthew B. Dwyer"
-	],
-	"ee": "http://doi.acm.org/10.1145/2384616.2384630",
+	"editor": ["Gary T. Leavens", "Matthew B. Dwyer"],
 	"isbn": "978-1-4503-1561-6",
 	"pages": "179-194",
 	"publisher": "ACM",
-	"stemmed": [
-		"adapt",
-		"multi",
-		"level",
-		"compil",
-		"in",
-		"a",
-		"trace",
-		"base",
-		"java",
-		"jit",
-		"compil"
-	],
-	"tag": [
-		"adaptation",
-		"compilation",
-		"java",
-		"jit",
-		"multi"
-	],
+	"stemmed": ["adapt", "multi", "level", "compil", "in", "a", "trace", "base", "java", "jit", "compil"],
+	"tag": ["adaptation", "compilation", "java", "jit", "multi"],
 	"title": "Adaptive multi-level compilation in a trace-based Java JIT compiler",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

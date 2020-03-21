@@ -1,45 +1,15 @@
 {
-	"author": [
-		"Nathan Goodman",
-		"Oded Shmueli"
-	],
+	"author": ["Nathan Goodman", "Oded Shmueli"],
 	"booktitle": "Proceedings of the First Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS82/P049.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS82/P049.PDF"
-	],
-	"cite": [
-		"journals/jacm/BernsteinC81",
-		"...",
-		"conf/stoc/BeeriFMMUY81",
-		"journals/siamcomp/BernsteinG81",
-		"journals/tods/FaginMU82",
-		"journals/siamcomp/Gavril72",
-		"...",
-		"...",
-		"journals/jacm/GoodmanS83",
-		"...",
-		"journals/jcss/Hull83",
-		"journals/tods/MaierU83",
-		"conf/pods/MaierU82",
-		"journals/tods/WongY76",
-		"conf/stoc/Yannakakis78",
-		"..."
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS82/P049.PDF", "journals/anthology/dvd1:text/1-3/PODS82/P049.PDF"],
+	"cite": ["journals/jacm/BernsteinC81", "...", "conf/stoc/BeeriFMMUY81", "journals/siamcomp/BernsteinG81", "journals/tods/FaginMU82", "journals/siamcomp/Gavril72", "...", "...", "journals/jacm/GoodmanS83", "...", "journals/jcss/Hull83", "journals/tods/MaierU83", "conf/pods/MaierU82", "journals/tods/WongY76", "conf/stoc/Yannakakis78", "..."],
 	"crossref": "conf/pods/82",
 	"dblpkey": "conf/pods/GoodmanS82a",
 	"doi": "10.1145/588111.588120",
-	"ee": "http://doi.acm.org/10.1145/588111.588120",
 	"pages": "49-54",
 	"publisher": "ACM",
-	"stemmed": [
-		"transform",
-		"cyclic",
-		"schema",
-		"into",
-		"tree"
-	],
+	"stemmed": ["transform", "cyclic", "schema", "into", "tree"],
 	"title": "Transforming Cyclic Schemas into Trees",
 	"type": "inproceedings",
 	"venue": "PODS",

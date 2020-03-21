@@ -1,44 +1,19 @@
 {
-	"author": [
-		"Yih-Farn Chen",
-		"Emden R. Gansner",
-		"Eleftherios Koutsofios"
-	],
+	"author": ["Yih-Farn Chen", "Emden R. Gansner", "Eleftherios Koutsofios"],
 	"booktitle": "Proceedings of the Sixth European Software Engineering Conference / Fifth Symposium on Foundations of Software Engineering",
 	"booktitleshort": "ESEC/FSE",
 	"crossref": "conf/esec/1997",
 	"dblpkey": "conf/esec/ChenGK98",
 	"doi": "10.1145/267895.267924",
-	"editor": [
-		"Mehdi Jazayeri",
-		"Helmut Schauer"
-	],
-	"ee": "http://doi.acm.org/10.1145/267895.267924",
+	"editor": ["Mehdi Jazayeri", "Helmut Schauer"],
 	"isbn": "3-540-63531-9",
 	"pages": "414-431",
 	"publisher": "Springer-Verlag",
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"a",
-		"c",
-		"data",
-		"model",
-		"support",
-		"reachabl",
-		"analysi",
-		"and",
-		"dead",
-		"code",
-		"detect"
-	],
-	"tag": [
-		"analysis",
-		"c++",
-		"detection",
-		"reachability"
-	],
+	"stemmed": ["a", "c", "data", "model", "support", "reachabl", "analysi", "and", "dead", "code", "detect"],
+	"tag": ["analysis", "c++", "detection", "reachability"],
 	"title": "A C++ Data Model Supporting Reachability Analysis and Dead Code Detection",
 	"type": "inproceedings",
 	"venue": "ESEC",

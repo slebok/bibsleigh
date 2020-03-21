@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Qingyuan Deng",
-		"David Meisner",
-		"Luiz E. Ramos",
-		"Thomas F. Wenisch",
-		"Ricardo Bianchini"
-	],
+	"author": ["Qingyuan Deng", "David Meisner", "Luiz E. Ramos", "Thomas F. Wenisch", "Ricardo Bianchini"],
 	"booktitle": "Proceedings of the 16th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2011",
 	"dblpkey": "conf/asplos/DengMRWB11",
 	"doi": "10.1145/1950365.1950392",
-	"ee": "http://doi.acm.org/10.1145/1950365.1950392",
 	"pages": "225-238",
 	"publisher": "ACM",
-	"stemmed": [
-		"mem",
-		"scale",
-		"activ",
-		"low",
-		"power",
-		"mode",
-		"for",
-		"main",
-		"memori"
-	],
-	"tag": [
-		"in memory",
-		"memory management",
-		"named",
-		"power management"
-	],
+	"stemmed": ["mem", "scale", "activ", "low", "power", "mode", "for", "main", "memori"],
+	"tag": ["in memory", "memory management", "named", "power management"],
 	"title": "MemScale: active low-power modes for main memory",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

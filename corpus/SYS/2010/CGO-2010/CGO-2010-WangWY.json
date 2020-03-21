@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Zhenjiang Wang",
-		"Chenggang Wu",
-		"Pen-Chung Yew"
-	],
+	"author": ["Zhenjiang Wang", "Chenggang Wu", "Pen-Chung Yew"],
 	"booktitle": "Proceedings of the Eighth International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2010",
 	"dblpkey": "conf/cgo/WangWY10",
 	"doi": "10.1145/1772954.1772969",
-	"ee": "http://doi.acm.org/10.1145/1772954.1772969",
 	"pages": "92-100",
 	"publisher": "ACM",
-	"stemmed": [
-		"on",
-		"improv",
-		"heap",
-		"memori",
-		"layout",
-		"by",
-		"dynam",
-		"pool",
-		"alloc"
-	],
-	"tag": [
-		"layout",
-		"memory management",
-		"on the"
-	],
+	"stemmed": ["on", "improv", "heap", "memori", "layout", "by", "dynam", "pool", "alloc"],
+	"tag": ["layout", "memory management", "on the"],
 	"title": "On improving heap memory layout by dynamic pool allocation",
 	"type": "inproceedings",
 	"venue": "CGO",

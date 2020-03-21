@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Yi Yang",
-		"Ping Xiang",
-		"Jingfei Kong",
-		"Huiyang Zhou"
-	],
+	"author": ["Yi Yang", "Ping Xiang", "Jingfei Kong", "Huiyang Zhou"],
 	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/YangXKZ10",
 	"doi": "10.1145/1693453.1693505",
-	"ee": "http://doi.acm.org/10.1145/1693453.1693505",
 	"pages": "343-344",
 	"publisher": "ACM",
-	"stemmed": [
-		"an",
-		"optim",
-		"compil",
-		"for",
-		"gpgpu",
-		"program",
-		"with",
-		"input",
-		"data",
-		"share"
-	],
-	"tag": [
-		"compilation",
-		"optimisation",
-		"source code"
-	],
+	"stemmed": ["an", "optim", "compil", "for", "gpgpu", "program", "with", "input", "data", "share"],
+	"tag": ["compilation", "optimisation", "source code"],
 	"title": "An optimizing compiler for GPGPU programs with input-data sharing",
 	"type": "inproceedings",
 	"venue": "PPoPP",

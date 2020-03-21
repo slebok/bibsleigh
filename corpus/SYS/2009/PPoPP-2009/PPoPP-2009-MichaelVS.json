@@ -1,22 +1,13 @@
 {
-	"author": [
-		"Maged M. Michael",
-		"Martin T. Vechev",
-		"Vijay A. Saraswat"
-	],
+	"author": ["Maged M. Michael", "Martin T. Vechev", "Vijay A. Saraswat"],
 	"booktitle": "Proceedings of the 14th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2009",
 	"dblpkey": "conf/ppopp/MichaelVS09",
 	"doi": "10.1145/1504176.1504186",
-	"ee": "http://doi.acm.org/10.1145/1504176.1504186",
 	"pages": "45-54",
 	"publisher": "ACM",
-	"stemmed": [
-		"idempot",
-		"work",
-		"steal"
-	],
+	"stemmed": ["idempot", "work", "steal"],
 	"title": "Idempotent work stealing",
 	"type": "inproceedings",
 	"venue": "PPoPP",

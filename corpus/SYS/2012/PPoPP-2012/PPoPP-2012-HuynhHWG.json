@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Huynh Phung Huynh",
-		"Andrei Hagiescu",
-		"Weng-Fai Wong",
-		"Rick Siow Mong Goh"
-	],
+	"author": ["Huynh Phung Huynh", "Andrei Hagiescu", "Weng-Fai Wong", "Rick Siow Mong Goh"],
 	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/HuynhHWG12",
 	"doi": "10.1145/2145816.2145818",
-	"ee": "http://doi.acm.org/10.1145/2145816.2145818",
 	"pages": "1-10",
 	"publisher": "ACM",
-	"stemmed": [
-		"scalabl",
-		"framework",
-		"for",
-		"map",
-		"stream",
-		"applic",
-		"onto",
-		"multi",
-		"gpu",
-		"system"
-	],
-	"tag": [
-		"framework",
-		"multi",
-		"scalability",
-		"streaming"
-	],
+	"stemmed": ["scalabl", "framework", "for", "map", "stream", "applic", "onto", "multi", "gpu", "system"],
+	"tag": ["framework", "multi", "scalability", "streaming"],
 	"title": "Scalable framework for mapping streaming applications onto multi-GPU systems",
 	"type": "inproceedings",
 	"venue": "PPoPP",

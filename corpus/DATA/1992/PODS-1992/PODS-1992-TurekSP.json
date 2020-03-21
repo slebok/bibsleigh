@@ -1,55 +1,16 @@
 {
-	"author": [
-		"John Turek",
-		"Dennis Shasha",
-		"Sundeep Prakash"
-	],
+	"author": ["John Turek", "Dennis Shasha", "Sundeep Prakash"],
 	"booktitle": "Proceedings of the 11th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS92/P212.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS92/P212.PDF"
-	],
-	"cite": [
-		"journals/acta/BayerS77",
-		"...",
-		"conf/podc/Herlihy88",
-		"...",
-		"conf/pods/JohnsonS90",
-		"journals/tods/KungL80",
-		"journals/tods/LehmanY81",
-		"...",
-		"conf/podc/Plotkin89",
-		"conf/sigmod/SrinivasanC91",
-		"journals/tods/ShashaG88",
-		"...",
-		"...",
-		"..."
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS92/P212.PDF", "journals/anthology/dvd1:text/1-3/PODS92/P212.PDF"],
+	"cite": ["journals/acta/BayerS77", "...", "conf/podc/Herlihy88", "...", "conf/pods/JohnsonS90", "journals/tods/KungL80", "journals/tods/LehmanY81", "...", "conf/podc/Plotkin89", "conf/sigmod/SrinivasanC91", "journals/tods/ShashaG88", "...", "...", "..."],
 	"crossref": "conf/pods/92",
 	"dblpkey": "conf/pods/TurekSP92",
 	"doi": "10.1145/137097.137873",
-	"ee": "http://doi.acm.org/10.1145/137097.137873",
 	"pages": "212-222",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"lock",
-		"without",
-		"block",
-		"make",
-		"lock",
-		"base",
-		"concurr",
-		"data",
-		"structur",
-		"algorithm",
-		"nonblock"
-	],
-	"tag": [
-		"algorithm",
-		"concurrent",
-		"data type"
-	],
+	"stemmed": ["lock", "without", "block", "make", "lock", "base", "concurr", "data", "structur", "algorithm", "nonblock"],
+	"tag": ["algorithm", "concurrent", "data type"],
 	"title": "Locking without Blocking: Making Lock Based Concurrent Data Structure Algorithms Nonblocking",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,48 +1,16 @@
 {
-	"author": [
-		"Sumit Ganguly",
-		"Phillip B. Gibbons",
-		"Yossi Matias",
-		"Abraham Silberschatz"
-	],
+	"author": ["Sumit Ganguly", "Phillip B. Gibbons", "Yossi Matias", "Abraham Silberschatz"],
 	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD96/P271.PDF",
-	"cite": [
-		"conf/pods/HaasNS94",
-		"conf/pods/HaasNSS93",
-		"conf/vldb/HaasNSS95",
-		"conf/sigmod/HouOD91",
-		"...",
-		"conf/pods/HouOT88",
-		"conf/sigmod/HouOT89",
-		"conf/sigmod/HaasS92",
-		"conf/vldb/LiptonN89",
-		"conf/pods/LiptonN90",
-		"journals/jcss/LiptonN95",
-		"conf/sigmod/LiptonNS90",
-		"journals/tcs/LiptonNSS93",
-		"journals/sigmod/LingS92"
-	],
+	"cite": ["conf/pods/HaasNS94", "conf/pods/HaasNSS93", "conf/vldb/HaasNSS95", "conf/sigmod/HouOD91", "...", "conf/pods/HouOT88", "conf/sigmod/HouOT89", "conf/sigmod/HaasS92", "conf/vldb/LiptonN89", "conf/pods/LiptonN90", "journals/jcss/LiptonN95", "conf/sigmod/LiptonNS90", "journals/tcs/LiptonNSS93", "journals/sigmod/LingS92"],
 	"crossref": "conf/sigmod/96",
 	"dblpkey": "conf/sigmod/GangulyGMS96",
 	"doi": "10.1145/233269.233340",
-	"ee": "http://doi.acm.org/10.1145/233269.233340",
 	"pages": "271-281",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"bifoc",
-		"sampl",
-		"for",
-		"skew",
-		"resist",
-		"join",
-		"size",
-		"estim"
-	],
-	"tag": [
-		"estimation"
-	],
+	"stemmed": ["bifoc", "sampl", "for", "skew", "resist", "join", "size", "estim"],
+	"tag": ["estimation"],
 	"title": "Bifocal Sampling for Skew-Resistant Join Size Estimation",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

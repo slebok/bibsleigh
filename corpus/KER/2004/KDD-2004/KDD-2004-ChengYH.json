@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Hong Cheng",
-		"Xifeng Yan",
-		"Jiawei Han"
-	],
+	"author": ["Hong Cheng", "Xifeng Yan", "Jiawei Han"],
 	"booktitle": "Proceedings of the 10th International Conference on Knowledge Discovery and Data Mining",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2004",
 	"dblpkey": "conf/kdd/ChengYH04",
 	"doi": "10.1145/1014052.1014114",
-	"ee": "http://doi.acm.org/10.1145/1014052.1014114",
 	"pages": "527-532",
 	"publisher": "ACM",
-	"stemmed": [
-		"inc",
-		"span",
-		"increment",
-		"mine",
-		"of",
-		"sequenti",
-		"pattern",
-		"in",
-		"larg",
-		"databas"
-	],
-	"tag": [
-		"database",
-		"incremental",
-		"mining",
-		"named",
-		"scalability"
-	],
+	"stemmed": ["inc", "span", "increment", "mine", "of", "sequenti", "pattern", "in", "larg", "databas"],
+	"tag": ["database", "incremental", "mining", "named", "scalability"],
 	"title": "IncSpan: incremental mining of sequential patterns in large database",
 	"type": "inproceedings",
 	"venue": "KDD",

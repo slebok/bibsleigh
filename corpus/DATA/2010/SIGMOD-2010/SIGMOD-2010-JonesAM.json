@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Evan P. C. Jones",
-		"Daniel J. Abadi",
-		"Samuel Madden"
-	],
+	"author": ["Evan P. C. Jones", "Daniel J. Abadi", "Samuel Madden"],
 	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/JonesAM10",
 	"doi": "10.1145/1807167.1807233",
-	"ee": "http://doi.acm.org/10.1145/1807167.1807233",
 	"pages": "603-614",
 	"publisher": "ACM",
-	"stemmed": [
-		"low",
-		"overhead",
-		"concurr",
-		"control",
-		"for",
-		"partit",
-		"main",
-		"memori",
-		"databas"
-	],
-	"tag": [
-		"concurrent",
-		"database",
-		"in memory",
-		"memory management"
-	],
+	"stemmed": ["low", "overhead", "concurr", "control", "for", "partit", "main", "memori", "databas"],
+	"tag": ["concurrent", "database", "in memory", "memory management"],
 	"title": "Low overhead concurrency control for partitioned main memory databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

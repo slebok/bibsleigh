@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Sorin Manolache",
-		"Petru Eles",
-		"Zebo Peng"
-	],
+	"author": ["Sorin Manolache", "Petru Eles", "Zebo Peng"],
 	"booktitle": "Proceedings of the 42nd Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/ManolacheEP05",
 	"doi": "10.1145/1065579.1065648",
-	"ee": "http://doi.acm.org/10.1145/1065579.1065648",
 	"pages": "266-269",
 	"publisher": "ACM",
-	"stemmed": [
-		"fault",
-		"and",
-		"energi",
-		"awar",
-		"communic",
-		"map",
-		"with",
-		"guarante",
-		"latenc",
-		"for",
-		"applic",
-		"implement",
-		"on",
-		"no",
-		"c"
-	],
-	"tag": [
-		"communication",
-		"energy",
-		"fault",
-		"latency"
-	],
+	"stemmed": ["fault", "and", "energi", "awar", "communic", "map", "with", "guarante", "latenc", "for", "applic", "implement", "on", "no", "c"],
+	"tag": ["communication", "energy", "fault", "latency"],
 	"title": "Fault and energy-aware communication mapping with guaranteed latency for applications implemented on NoC",
 	"type": "inproceedings",
 	"venue": "DAC",

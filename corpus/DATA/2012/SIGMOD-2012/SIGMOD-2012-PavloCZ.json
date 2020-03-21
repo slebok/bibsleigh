@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Andrew Pavlo",
-		"Carlo Curino",
-		"Stanley B. Zdonik"
-	],
+	"author": ["Andrew Pavlo", "Carlo Curino", "Stanley B. Zdonik"],
 	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/PavloCZ12",
 	"doi": "10.1145/2213836.2213844",
-	"ee": "http://doi.acm.org/10.1145/2213836.2213844",
 	"pages": "61-72",
 	"publisher": "ACM",
-	"stemmed": [
-		"skew",
-		"awar",
-		"automat",
-		"databas",
-		"partit",
-		"in",
-		"share",
-		"noth",
-		"parallel",
-		"oltp",
-		"system"
-	],
-	"tag": [
-		"automation",
-		"clustering",
-		"database",
-		"parallel"
-	],
+	"stemmed": ["skew", "awar", "automat", "databas", "partit", "in", "share", "noth", "parallel", "oltp", "system"],
+	"tag": ["automation", "clustering", "database", "parallel"],
 	"title": "Skew-aware automatic database partitioning in shared-nothing, parallel OLTP systems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

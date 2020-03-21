@@ -1,30 +1,14 @@
 {
-	"author": [
-		"Maurice Herlihy",
-		"Eric Koskinen"
-	],
+	"author": ["Maurice Herlihy", "Eric Koskinen"],
 	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/HerlihyK08",
 	"doi": "10.1145/1345206.1345237",
-	"ee": "http://doi.acm.org/10.1145/1345206.1345237",
 	"pages": "207-216",
 	"publisher": "ACM",
-	"stemmed": [
-		"transact",
-		"boost",
-		"a",
-		"methodolog",
-		"for",
-		"high",
-		"concurr",
-		"transact",
-		"object"
-	],
-	"tag": [
-		"transaction"
-	],
+	"stemmed": ["transact", "boost", "a", "methodolog", "for", "high", "concurr", "transact", "object"],
+	"tag": ["transaction"],
 	"title": "Transactional boosting: a methodology for highly-concurrent transactional objects",
 	"type": "inproceedings",
 	"venue": "PPoPP",

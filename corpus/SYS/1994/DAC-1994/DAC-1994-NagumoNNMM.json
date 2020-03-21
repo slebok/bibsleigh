@@ -1,38 +1,13 @@
 {
-	"author": [
-		"Takaharu Nagumo",
-		"Masahiko Nagai",
-		"Takao Nishida",
-		"Masayuki Miyoshi",
-		"Shunsuke Miyamoto"
-	],
+	"author": ["Takaharu Nagumo", "Masahiko Nagai", "Takao Nishida", "Masayuki Miyoshi", "Shunsuke Miyamoto"],
 	"booktitle": "Proceedings of the 31st Design Automation Conference",
 	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/NagumoNNMM94",
 	"doi": "10.1145/196244.196519",
-	"ee": "http://doi.acm.org/10.1145/196244.196519",
 	"pages": "510-515",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"vfsim",
-		"vector",
-		"fault",
-		"simul",
-		"use",
-		"a",
-		"reduct",
-		"techniqu",
-		"exclud",
-		"temporarili",
-		"unobserv",
-		"fault"
-	],
-	"tag": [
-		"fault",
-		"named",
-		"reduction",
-		"using"
-	],
+	"stemmed": ["vfsim", "vector", "fault", "simul", "use", "a", "reduct", "techniqu", "exclud", "temporarili", "unobserv", "fault"],
+	"tag": ["fault", "named", "reduction", "using"],
 	"title": "VFSIM: Vectorized Fault Simulator Using a Reduction Technique Excluding Temporarily Unobservable Faults",
 	"type": "inproceedings",
 	"venue": "DAC",

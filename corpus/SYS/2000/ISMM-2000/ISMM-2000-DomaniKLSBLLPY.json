@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Tamar Domani",
-		"Elliot K. Kolodner",
-		"Ethan Lewis",
-		"Eliot E. Salant",
-		"Katherine Barabash",
-		"Itai Lahan",
-		"Yossi Levanoni",
-		"Erez Petrank",
-		"Igor Yanover"
-	],
+	"author": ["Tamar Domani", "Elliot K. Kolodner", "Ethan Lewis", "Eliot E. Salant", "Katherine Barabash", "Itai Lahan", "Yossi Levanoni", "Erez Petrank", "Igor Yanover"],
 	"booktitle": "Proceedings of the Second International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2000",
 	"dblpkey": "conf/iwmm/DomaniKLSBLLPY00",
 	"doi": "10.1145/362422.362484",
-	"ee": "http://doi.acm.org/10.1145/362422.362484",
 	"pages": "155-166",
 	"publisher": "ACM",
-	"stemmed": [
-		"implement",
-		"an",
-		"on",
-		"the",
-		"fli",
-		"garbag",
-		"collector",
-		"for",
-		"java"
-	],
-	"tag": [
-		"garbage collection",
-		"implementation",
-		"java",
-		"on the fly"
-	],
+	"stemmed": ["implement", "an", "on", "the", "fli", "garbag", "collector", "for", "java"],
+	"tag": ["garbage collection", "implementation", "java", "on the fly"],
 	"title": "Implementing an On-the-Fly Garbage Collector for Java",
 	"type": "inproceedings",
 	"venue": "ISMM",

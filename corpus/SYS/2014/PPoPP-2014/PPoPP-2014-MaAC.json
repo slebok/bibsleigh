@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Lin Ma",
-		"Kunal Agrawal",
-		"Roger D. Chamberlain"
-	],
+	"author": ["Lin Ma", "Kunal Agrawal", "Roger D. Chamberlain"],
 	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/MaAC14",
 	"doi": "10.1145/2555243.2555285",
-	"ee": "http://doi.acm.org/10.1145/2555243.2555285",
 	"pages": "391-392",
 	"publisher": "ACM",
-	"stemmed": [
-		"theoret",
-		"analysi",
-		"of",
-		"classic",
-		"algorithm",
-		"on",
-		"high",
-		"thread",
-		"mani",
-		"core",
-		"gpus"
-	],
-	"tag": [
-		"algorithm",
-		"analysis",
-		"manycore",
-		"thread"
-	],
+	"stemmed": ["theoret", "analysi", "of", "classic", "algorithm", "on", "high", "thread", "mani", "core", "gpus"],
+	"tag": ["algorithm", "analysis", "manycore", "thread"],
 	"title": "Theoretical analysis of classic algorithms on highly-threaded many-core GPUs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

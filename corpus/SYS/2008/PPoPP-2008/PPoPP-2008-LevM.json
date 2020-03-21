@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Yossi Lev",
-		"Jan-Willem Maessen"
-	],
+	"author": ["Yossi Lev", "Jan-Willem Maessen"],
 	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/LevM08",
 	"doi": "10.1145/1345206.1345236",
-	"ee": "http://doi.acm.org/10.1145/1345206.1345236",
 	"pages": "197-206",
 	"publisher": "ACM",
-	"stemmed": [
-		"split",
-		"hardwar",
-		"transact",
-		"true",
-		"nest",
-		"of",
-		"transact",
-		"use",
-		"best",
-		"effort",
-		"hardwar",
-		"transact",
-		"memori"
-	],
-	"tag": [
-		"hardware",
-		"memory management",
-		"transaction",
-		"using"
-	],
+	"stemmed": ["split", "hardwar", "transact", "true", "nest", "of", "transact", "use", "best", "effort", "hardwar", "transact", "memori"],
+	"tag": ["hardware", "memory management", "transaction", "using"],
 	"title": "Split hardware transactions: true nesting of transactions using best-effort hardware transactional memory",
 	"type": "inproceedings",
 	"venue": "PPoPP",

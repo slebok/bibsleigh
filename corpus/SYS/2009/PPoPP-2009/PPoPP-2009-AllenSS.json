@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Matthew D. Allen",
-		"Srinath Sridharan",
-		"Gurindar S. Sohi"
-	],
+	"author": ["Matthew D. Allen", "Srinath Sridharan", "Gurindar S. Sohi"],
 	"booktitle": "Proceedings of the 14th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2009",
 	"dblpkey": "conf/ppopp/AllenSS09",
 	"doi": "10.1145/1504176.1504190",
-	"ee": "http://doi.acm.org/10.1145/1504176.1504190",
 	"pages": "85-96",
 	"publisher": "ACM",
-	"stemmed": [
-		"serial",
-		"set",
-		"a",
-		"dynam",
-		"depend",
-		"base",
-		"parallel",
-		"execut",
-		"model"
-	],
-	"tag": [
-		"dependence",
-		"execution",
-		"parallel",
-		"set"
-	],
+	"stemmed": ["serial", "set", "a", "dynam", "depend", "base", "parallel", "execut", "model"],
+	"tag": ["dependence", "execution", "parallel", "set"],
 	"title": "Serialization sets: a dynamic dependence-based parallel execution model",
 	"type": "inproceedings",
 	"venue": "PPoPP",

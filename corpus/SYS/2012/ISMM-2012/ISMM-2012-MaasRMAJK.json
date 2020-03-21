@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Martin Maas",
-		"Philip Reames",
-		"Jeffrey Morlan",
-		"Krste Asanovic",
-		"Anthony D. Joseph",
-		"John Kubiatowicz"
-	],
+	"author": ["Martin Maas", "Philip Reames", "Jeffrey Morlan", "Krste Asanovic", "Anthony D. Joseph", "John Kubiatowicz"],
 	"booktitle": "Proceedings of the 11th International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2012",
 	"dblpkey": "conf/iwmm/MaasRMAJK12",
 	"doi": "10.1145/2258996.2259002",
-	"ee": "http://doi.acm.org/10.1145/2258996.2259002",
 	"pages": "25-36",
 	"publisher": "ACM",
-	"stemmed": [
-		"gpus",
-		"as",
-		"an",
-		"opportun",
-		"for",
-		"offload",
-		"garbag",
-		"collect"
-	],
-	"tag": [
-		"garbage collection"
-	],
+	"stemmed": ["gpus", "as", "an", "opportun", "for", "offload", "garbag", "collect"],
+	"tag": ["garbage collection"],
 	"title": "GPUs as an opportunity for offloading garbage collection",
 	"type": "inproceedings",
 	"venue": "ISMM",

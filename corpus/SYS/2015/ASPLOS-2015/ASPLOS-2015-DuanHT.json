@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Yuelu Duan",
-		"Nima Honarmand",
-		"Josep Torrellas"
-	],
+	"author": ["Yuelu Duan", "Nima Honarmand", "Josep Torrellas"],
 	"booktitle": "Proceedings of the 20th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2015",
 	"dblpkey": "conf/asplos/DuanHT15",
 	"doi": "10.1145/2694344.2694388",
-	"ee": "http://doi.acm.org/10.1145/2694344.2694388",
 	"pages": "531-543",
 	"publisher": "ACM",
-	"stemmed": [
-		"asymmetr",
-		"memori",
-		"fenc",
-		"optim",
-		"both",
-		"perform",
-		"and",
-		"implement"
-	],
-	"tag": [
-		"memory management",
-		"optimisation",
-		"performance",
-		"symmetry"
-	],
+	"stemmed": ["asymmetr", "memori", "fenc", "optim", "both", "perform", "and", "implement"],
+	"tag": ["memory management", "optimisation", "performance", "symmetry"],
 	"title": "Asymmetric Memory Fences: Optimizing Both Performance and Implementability",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

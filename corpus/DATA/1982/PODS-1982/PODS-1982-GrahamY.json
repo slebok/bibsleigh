@@ -1,45 +1,16 @@
 {
-	"author": [
-		"Marc H. Graham",
-		"Mihalis Yannakakis"
-	],
+	"author": ["Marc H. Graham", "Mihalis Yannakakis"],
 	"booktitle": "Proceedings of the First Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS82/P199.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS82/P199.PDF"
-	],
-	"cite": [
-		"conf/ifip/Armstrong74",
-		"journals/tods/AhoBU79",
-		"conf/vldb/BeeriBG78",
-		"conf/stoc/BeeriFMMUY81",
-		"journals/siamcomp/BeeriH81",
-		"...",
-		"journals/tods/FaginMU82",
-		"...",
-		"journals/jacm/Honeyman82",
-		"journals/tods/Mendelzon84",
-		"conf/sigmod/Sagiv81",
-		"journals/tods/Sagiv83",
-		"...",
-		"conf/vldb/Yannakakis81"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS82/P199.PDF", "journals/anthology/dvd1:text/1-3/PODS82/P199.PDF"],
+	"cite": ["conf/ifip/Armstrong74", "journals/tods/AhoBU79", "conf/vldb/BeeriBG78", "conf/stoc/BeeriFMMUY81", "journals/siamcomp/BeeriH81", "...", "journals/tods/FaginMU82", "...", "journals/jacm/Honeyman82", "journals/tods/Mendelzon84", "conf/sigmod/Sagiv81", "journals/tods/Sagiv83", "...", "conf/vldb/Yannakakis81"],
 	"crossref": "conf/pods/82",
 	"dblpkey": "conf/pods/GrahamY82",
 	"doi": "10.1145/588111.588144",
-	"ee": "http://doi.acm.org/10.1145/588111.588144",
 	"pages": "199-204",
 	"publisher": "ACM",
-	"stemmed": [
-		"independ",
-		"databas",
-		"schema"
-	],
-	"tag": [
-		"database",
-		"independence"
-	],
+	"stemmed": ["independ", "databas", "schema"],
+	"tag": ["database", "independence"],
 	"title": "Independent Database Schemas",
 	"type": "inproceedings",
 	"venue": "PODS",

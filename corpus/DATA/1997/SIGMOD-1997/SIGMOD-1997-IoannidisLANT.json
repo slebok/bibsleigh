@@ -1,45 +1,16 @@
 {
-	"author": [
-		"Yannis E. Ioannidis",
-		"Miron Livny",
-		"Anastassia Ailamaki",
-		"Anand Narayanan",
-		"Andrew Therber"
-	],
+	"author": ["Yannis E. Ioannidis", "Miron Livny", "Anastassia Ailamaki", "Anand Narayanan", "Andrew Therber"],
 	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD97/P580.PDF",
-	"cite": [
-		"conf/ssdbm/AnjurIL96",
-		"journals/sigmod/FrenchJP90",
-		"journals/jiis/HaberIL94",
-		"conf/vldb/HaberIL95",
-		"conf/ifip/IoannidisL89",
-		"journals/ijcis/IoannidisL92",
-		"...",
-		"conf/vldb/IoannidisLGP96",
-		"...",
-		"...",
-		"conf/vldb/ShoshaniOW84",
-		"conf/dbpl/WienerI93"
-	],
+	"cite": ["conf/ssdbm/AnjurIL96", "journals/sigmod/FrenchJP90", "journals/jiis/HaberIL94", "conf/vldb/HaberIL95", "conf/ifip/IoannidisL89", "journals/ijcis/IoannidisL92", "...", "conf/vldb/IoannidisLGP96", "...", "...", "conf/vldb/ShoshaniOW84", "conf/dbpl/WienerI93"],
 	"crossref": "conf/sigmod/97",
 	"dblpkey": "conf/sigmod/IoannidisLANT97",
 	"doi": "10.1145/253260.253415",
-	"ee": "http://doi.acm.org/10.1145/253260.253415",
 	"pages": "580-583",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"zoo",
-		"a",
-		"desktop",
-		"emperi",
-		"manag",
-		"environ"
-	],
-	"tag": [
-		"named"
-	],
+	"stemmed": ["zoo", "a", "desktop", "emperi", "manag", "environ"],
+	"tag": ["named"],
 	"title": "ZOO: A Desktop Emperiment Management Environment",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

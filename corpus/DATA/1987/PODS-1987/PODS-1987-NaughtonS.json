@@ -1,46 +1,16 @@
 {
-	"author": [
-		"Jeffrey F. Naughton",
-		"Yehoshua Sagiv"
-	],
+	"author": ["Jeffrey F. Naughton", "Yehoshua Sagiv"],
 	"booktitle": "Proceedings of the Sixth Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS87/P227.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS87/P227.PDF"
-	],
-	"cite": [
-		"journals/siamcomp/AhoSU79",
-		"journals/jacm/GaifmanMSV93",
-		"...",
-		"journals/algorithmica/Ioannidis86",
-		"conf/icdt/Kanellakis86",
-		"conf/iclp/Maher86",
-		"conf/pods/Naughton86",
-		"journals/jcss/Naughton89",
-		"...",
-		"conf/pods/Sagiv87",
-		"journals/jacm/EmdenK76"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS87/P227.PDF", "journals/anthology/dvd1:text/1-3/PODS87/P227.PDF"],
+	"cite": ["journals/siamcomp/AhoSU79", "journals/jacm/GaifmanMSV93", "...", "journals/algorithmica/Ioannidis86", "conf/icdt/Kanellakis86", "conf/iclp/Maher86", "conf/pods/Naughton86", "journals/jcss/Naughton89", "...", "conf/pods/Sagiv87", "journals/jacm/EmdenK76"],
 	"crossref": "conf/pods/87",
 	"dblpkey": "conf/pods/NaughtonS87",
 	"doi": "10.1145/28659.28684",
-	"ee": "http://doi.acm.org/10.1145/28659.28684",
 	"pages": "227-236",
 	"publisher": "ACM",
-	"stemmed": [
-		"a",
-		"decid",
-		"class",
-		"of",
-		"bound",
-		"recurs"
-	],
-	"tag": [
-		"bound",
-		"decidability",
-		"recursion"
-	],
+	"stemmed": ["a", "decid", "class", "of", "bound", "recurs"],
+	"tag": ["bound", "decidability", "recursion"],
 	"title": "A Decidable Class of Bounded Recursions",
 	"type": "inproceedings",
 	"venue": "PODS",

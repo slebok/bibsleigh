@@ -1,34 +1,14 @@
 {
-	"author": [
-		"John K. Bennett",
-		"John B. Carter",
-		"Willy Zwaenepoel"
-	],
+	"author": ["John K. Bennett", "John B. Carter", "Willy Zwaenepoel"],
 	"booktitle": "Proceedings of the Second Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1990",
 	"dblpkey": "conf/ppopp/BennettCZ90",
 	"doi": "10.1145/99163.99182",
-	"ee": "http://doi.acm.org/10.1145/99163.99182",
 	"pages": "168-176",
 	"publisher": "ACM",
-	"stemmed": [
-		"munin",
-		"distribut",
-		"share",
-		"memori",
-		"base",
-		"on",
-		"type",
-		"specif",
-		"memori",
-		"coher"
-	],
-	"tag": [
-		"distributed",
-		"memory management",
-		"named"
-	],
+	"stemmed": ["munin", "distribut", "share", "memori", "base", "on", "type", "specif", "memori", "coher"],
+	"tag": ["distributed", "memory management", "named"],
 	"title": "Munin: Distributed Shared Memory Based on Type-Specific Memory Coherence",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,45 +1,16 @@
 {
-	"author": [
-		"Raghu Ramakrishnan",
-		"François Bancilhon",
-		"Abraham Silberschatz"
-	],
+	"author": ["Raghu Ramakrishnan", "François Bancilhon", "Abraham Silberschatz"],
 	"booktitle": "Proceedings of the Sixth Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS87/P328.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS87/P328.PDF"
-	],
-	"cite": [
-		"conf/pods/AfratiPPRSU86",
-		"...",
-		"...",
-		"books/cs/Ullman82",
-		"...",
-		"conf/eds/Zaniolo86"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS87/P328.PDF", "journals/anthology/dvd1:text/1-3/PODS87/P328.PDF"],
+	"cite": ["conf/pods/AfratiPPRSU86", "...", "...", "books/cs/Ullman82", "...", "conf/eds/Zaniolo86"],
 	"crossref": "conf/pods/87",
 	"dblpkey": "conf/pods/RamakrishnanBS87",
 	"doi": "10.1145/28659.28694",
-	"ee": "http://doi.acm.org/10.1145/28659.28694",
 	"pages": "328-339",
 	"publisher": "ACM",
-	"stemmed": [
-		"safeti",
-		"of",
-		"recurs",
-		"horn",
-		"claus",
-		"with",
-		"infinit",
-		"relat"
-	],
-	"tag": [
-		"horn clause",
-		"infinity",
-		"recursion",
-		"safety"
-	],
+	"stemmed": ["safeti", "of", "recurs", "horn", "claus", "with", "infinit", "relat"],
+	"tag": ["horn clause", "infinity", "recursion", "safety"],
 	"title": "Safety of Recursive Horn Clauses With Infinite Relations",
 	"type": "inproceedings",
 	"venue": "PODS",

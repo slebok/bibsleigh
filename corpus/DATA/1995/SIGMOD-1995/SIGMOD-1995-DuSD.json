@@ -1,49 +1,16 @@
 {
-	"author": [
-		"Weimin Du",
-		"Ming-Chien Shan",
-		"Umeshwar Dayal"
-	],
+	"author": ["Weimin Du", "Ming-Chien Shan", "Umeshwar Dayal"],
 	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD95/P293.PDF",
-	"cite": [
-		"conf/icde/BrillTY84",
-		"...",
-		"conf/vldb/Dayal83",
-		"...",
-		"journals/tse/DayalH84",
-		"conf/vldb/DuKS92",
-		"...",
-		"...",
-		"conf/sigmod/Hong92",
-		"journals/dpd/HongS93",
-		"conf/sigmod/IoannidisK90",
-		"...",
-		"conf/sigmod/SelingerACLP79",
-		"...",
-		"journals/csur/ShethL90"
-	],
+	"cite": ["conf/icde/BrillTY84", "...", "conf/vldb/Dayal83", "...", "journals/tse/DayalH84", "conf/vldb/DuKS92", "...", "...", "conf/sigmod/Hong92", "journals/dpd/HongS93", "conf/sigmod/IoannidisK90", "...", "conf/sigmod/SelingerACLP79", "...", "journals/csur/ShethL90"],
 	"crossref": "conf/sigmod/95",
 	"dblpkey": "conf/sigmod/DuSD95",
 	"doi": "10.1145/223784.223846",
-	"ee": "http://doi.acm.org/10.1145/223784.223846",
 	"pages": "293-303",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"reduc",
-		"multidatabas",
-		"queri",
-		"respons",
-		"time",
-		"by",
-		"tree",
-		"balanc"
-	],
-	"tag": [
-		"multi",
-		"query"
-	],
+	"stemmed": ["reduc", "multidatabas", "queri", "respons", "time", "by", "tree", "balanc"],
+	"tag": ["multi", "query"],
 	"title": "Reducing Multidatabase Query Response Time by Tree Balancing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

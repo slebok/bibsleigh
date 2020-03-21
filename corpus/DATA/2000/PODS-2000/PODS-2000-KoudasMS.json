@@ -1,41 +1,15 @@
 {
-	"author": [
-		"Nick Koudas",
-		"S. Muthukrishnan",
-		"Divesh Srivastava"
-	],
+	"author": ["Nick Koudas", "S. Muthukrishnan", "Divesh Srivastava"],
 	"booktitle": "Proceedings of the 19th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cite": [
-		"conf/sigmod/AboulnagaC99",
-		"conf/vldb/Ioannidis93",
-		"journals/tods/IoannidisC93",
-		"conf/sigmod/IoannidisP95",
-		"conf/vldb/JagadishKMPSS98",
-		"conf/vldb/JagadishLS99",
-		"journals/csur/ManninoCS88",
-		"conf/sigmod/MatiasVW98",
-		"conf/sigmod/MuralikrishnaD88",
-		"conf/sigmod/PoosalaIHS96",
-		"conf/sigmod/SelingerACLP79"
-	],
+	"cite": ["conf/sigmod/AboulnagaC99", "conf/vldb/Ioannidis93", "journals/tods/IoannidisC93", "conf/sigmod/IoannidisP95", "conf/vldb/JagadishKMPSS98", "conf/vldb/JagadishLS99", "journals/csur/ManninoCS88", "conf/sigmod/MatiasVW98", "conf/sigmod/MuralikrishnaD88", "conf/sigmod/PoosalaIHS96", "conf/sigmod/SelingerACLP79"],
 	"crossref": "conf/pods/00",
 	"dblpkey": "conf/pods/KoudasMS00",
 	"doi": "10.1145/335168.335223",
-	"ee": "http://doi.acm.org/10.1145/335168.335223",
 	"pages": "196-204",
 	"publisher": "ACM",
-	"stemmed": [
-		"optim",
-		"histogram",
-		"for",
-		"hierarch",
-		"rang",
-		"queri"
-	],
-	"tag": [
-		"query"
-	],
+	"stemmed": ["optim", "histogram", "for", "hierarch", "rang", "queri"],
+	"tag": ["query"],
 	"title": "Optimal Histograms for Hierarchical Range Queries",
 	"type": "inproceedings",
 	"venue": "PODS",

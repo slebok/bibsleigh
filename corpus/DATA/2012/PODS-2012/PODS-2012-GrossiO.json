@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Roberto Grossi",
-		"Giuseppe Ottaviano"
-	],
+	"author": ["Roberto Grossi", "Giuseppe Ottaviano"],
 	"booktitle": "Proceedings of the 31st Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2012",
 	"dblpkey": "conf/pods/GrossiO12",
 	"doi": "10.1145/2213556.2213586",
-	"ee": "http://doi.acm.org/10.1145/2213556.2213586",
 	"pages": "203-214",
 	"publisher": "ACM",
-	"stemmed": [
-		"the",
-		"wavelet",
-		"trie",
-		"maintain",
-		"an",
-		"index",
-		"sequenc",
-		"of",
-		"string",
-		"in",
-		"compress",
-		"space"
-	],
-	"tag": [
-		"maintenance",
-		"sequence",
-		"string"
-	],
+	"stemmed": ["the", "wavelet", "trie", "maintain", "an", "index", "sequenc", "of", "string", "in", "compress", "space"],
+	"tag": ["maintenance", "sequence", "string"],
 	"title": "The wavelet trie: maintaining an indexed sequence of strings in compressed space",
 	"type": "inproceedings",
 	"venue": "PODS",

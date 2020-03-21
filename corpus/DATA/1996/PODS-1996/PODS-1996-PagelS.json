@@ -1,48 +1,15 @@
 {
-	"author": [
-		"Bernd-Uwe Pagel",
-		"Hans-Werner Six"
-	],
+	"author": ["Bernd-Uwe Pagel", "Hans-Werner Six"],
 	"booktitle": "Proceedings of the 15th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cite": [
-		"conf/vldb/BelussiF95",
-		"conf/sigmod/BeckmannKSS90",
-		"conf/sigmod/Guttman84",
-		"...",
-		"conf/vldb/HenrichSW89",
-		"conf/cikm/KamelF93",
-		"journals/tods/NievergeltHS84",
-		"...",
-		"conf/ssd/PagelST93",
-		"conf/pods/PagelSTW93",
-		"conf/pods/PagelSW95",
-		"...",
-		"conf/ssd/Seeger91",
-		"conf/sigmod/StonebrakerFGM93",
-		"conf/vldb/SeegerK90",
-		"conf/vldb/SellisRF87"
-	],
+	"cite": ["conf/vldb/BelussiF95", "conf/sigmod/BeckmannKSS90", "conf/sigmod/Guttman84", "...", "conf/vldb/HenrichSW89", "conf/cikm/KamelF93", "journals/tods/NievergeltHS84", "...", "conf/ssd/PagelST93", "conf/pods/PagelSTW93", "conf/pods/PagelSW95", "...", "conf/ssd/Seeger91", "conf/sigmod/StonebrakerFGM93", "conf/vldb/SeegerK90", "conf/vldb/SellisRF87"],
 	"crossref": "conf/pods/96",
 	"dblpkey": "conf/pods/PagelS96",
 	"doi": "10.1145/237661.237704",
-	"ee": "http://doi.acm.org/10.1145/237661.237704",
 	"pages": "150-160",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"are",
-		"window",
-		"queri",
-		"repres",
-		"for",
-		"arbitrari",
-		"rang",
-		"queri"
-	],
-	"tag": [
-		"query",
-		"question"
-	],
+	"stemmed": ["are", "window", "queri", "repres", "for", "arbitrari", "rang", "queri"],
+	"tag": ["query", "question"],
 	"title": "Are Window Queries Representative for Arbitrary Range Queries?",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,41 +1,16 @@
 {
-	"author": [
-		"Azadeh Farzan",
-		"P. Madhusudan",
-		"Niloofar Razavi",
-		"Francesco Sorrentino"
-	],
+	"author": ["Azadeh Farzan", "P. Madhusudan", "Niloofar Razavi", "Francesco Sorrentino"],
 	"booktitle": "Proceedings of the 20th Symposium on the Foundations of Software Engineering",
 	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2012",
 	"dblpkey": "conf/sigsoft/FarzanMRS12",
 	"doi": "10.1145/2393596.2393651",
-	"editor": [
-		"Will Tracz",
-		"Martin P. Robillard",
-		"Tevfik Bultan"
-	],
-	"ee": "http://doi.acm.org/10.1145/2393596.2393651",
-	"isbn": [
-		"978-1-4503-1614-9",
-		"978-1-4503-0443-6"
-	],
+	"editor": ["Will Tracz", "Martin P. Robillard", "Tevfik Bultan"],
+	"isbn": ["978-1-4503-1614-9", "978-1-4503-0443-6"],
 	"pages": "47-47",
 	"publisher": "ACM",
-	"stemmed": [
-		"predict",
-		"null",
-		"pointer",
-		"derefer",
-		"in",
-		"concurr",
-		"program"
-	],
-	"tag": [
-		"concurrent",
-		"predict",
-		"source code"
-	],
+	"stemmed": ["predict", "null", "pointer", "derefer", "in", "concurr", "program"],
+	"tag": ["concurrent", "predict", "source code"],
 	"title": "Predicting null-pointer dereferences in concurrent programs",
 	"type": "inproceedings",
 	"venue": "FSE",

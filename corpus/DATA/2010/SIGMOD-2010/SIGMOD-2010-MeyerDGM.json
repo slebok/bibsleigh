@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Scott M. Meyer",
-		"Jutta Degener",
-		"John Giannandrea",
-		"Barak Michener"
-	],
+	"author": ["Scott M. Meyer", "Jutta Degener", "John Giannandrea", "Barak Michener"],
 	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/MeyerDGM10",
 	"doi": "10.1145/1807167.1807283",
-	"ee": "http://doi.acm.org/10.1145/1807167.1807283",
 	"pages": "1047-1056",
 	"publisher": "ACM",
-	"stemmed": [
-		"optim",
-		"schema",
-		"last",
-		"tupl",
-		"store",
-		"queri",
-		"in",
-		"graphd"
-	],
-	"tag": [
-		"optimisation",
-		"query"
-	],
+	"stemmed": ["optim", "schema", "last", "tupl", "store", "queri", "in", "graphd"],
+	"tag": ["optimisation", "query"],
 	"title": "Optimizing schema-last tuple-store queries in graphd",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

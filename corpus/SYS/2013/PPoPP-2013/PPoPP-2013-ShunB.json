@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Julian Shun",
-		"Guy E. Blelloch"
-	],
+	"author": ["Julian Shun", "Guy E. Blelloch"],
 	"booktitle": "Proceedings of the 18th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2013",
 	"dblpkey": "conf/ppopp/ShunB13",
 	"doi": "10.1145/2442516.2442530",
-	"ee": "http://doi.acm.org/10.1145/2442516.2442530",
 	"pages": "135-146",
 	"publisher": "ACM",
-	"stemmed": [
-		"ligra",
-		"a",
-		"lightweight",
-		"graph",
-		"process",
-		"framework",
-		"for",
-		"share",
-		"memori"
-	],
-	"tag": [
-		"framework",
-		"graph",
-		"lightweight",
-		"memory management",
-		"named"
-	],
+	"stemmed": ["ligra", "a", "lightweight", "graph", "process", "framework", "for", "share", "memori"],
+	"tag": ["framework", "graph", "lightweight", "memory management", "named"],
 	"title": "Ligra: a lightweight graph processing framework for shared memory",
 	"type": "inproceedings",
 	"venue": "PPoPP",

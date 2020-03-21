@@ -2,34 +2,15 @@
 	"author": "Nancy A. Lynch",
 	"booktitle": "Proceedings of the First Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS82/P063.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS82/P063.PDF"
-	],
-	"cite": [
-		"...",
-		"...",
-		"journals/cacm/EswarranGLT76",
-		"journals/tse/FischerGL82",
-		"journals/tods/Garcia-Molina83",
-		"...",
-		"...",
-		"journals/tcs/LynchF81",
-		"journals/tods/RosenkrantzSL78"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS82/P063.PDF", "journals/anthology/dvd1:text/1-3/PODS82/P063.PDF"],
+	"cite": ["...", "...", "journals/cacm/EswarranGLT76", "journals/tse/FischerGL82", "journals/tods/Garcia-Molina83", "...", "...", "journals/tcs/LynchF81", "journals/tods/RosenkrantzSL78"],
 	"crossref": "conf/pods/82",
 	"dblpkey": "conf/pods/Lynch82",
 	"doi": "10.1145/588111.588123",
-	"ee": "http://doi.acm.org/10.1145/588111.588123",
 	"pages": "63-69",
 	"publisher": "ACM",
-	"stemmed": [
-		"multilevel",
-		"atom"
-	],
-	"tag": [
-		"multi"
-	],
+	"stemmed": ["multilevel", "atom"],
+	"tag": ["multi"],
 	"title": "Multilevel Atomicity",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,39 +1,14 @@
 {
-	"author": [
-		"Guangming Tan",
-		"Dongrui Fan",
-		"Junchao Zhang",
-		"Andrew Russo",
-		"Guang R. Gao"
-	],
+	"author": ["Guangming Tan", "Dongrui Fan", "Junchao Zhang", "Andrew Russo", "Guang R. Gao"],
 	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/TanFZRG08",
 	"doi": "10.1145/1345206.1345255",
-	"ee": "http://doi.acm.org/10.1145/1345206.1345255",
 	"pages": "279-280",
 	"publisher": "ACM",
-	"stemmed": [
-		"experi",
-		"on",
-		"optim",
-		"irregular",
-		"comput",
-		"for",
-		"memori",
-		"hierarchi",
-		"in",
-		"manycor",
-		"architectur"
-	],
-	"tag": [
-		"architecture",
-		"experience",
-		"manycore",
-		"memory management",
-		"optimisation"
-	],
+	"stemmed": ["experi", "on", "optim", "irregular", "comput", "for", "memori", "hierarchi", "in", "manycor", "architectur"],
+	"tag": ["architecture", "experience", "manycore", "memory management", "optimisation"],
 	"title": "Experience on optimizing irregular computation for memory hierarchy in manycore architecture",
 	"type": "inproceedings",
 	"venue": "PPoPP",

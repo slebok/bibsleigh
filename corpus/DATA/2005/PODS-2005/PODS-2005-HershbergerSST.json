@@ -1,36 +1,14 @@
 {
-	"author": [
-		"John Hershberger",
-		"Nisheeth Shrivastava",
-		"Subhash Suri",
-		"Csaba D. Tóth"
-	],
+	"author": ["John Hershberger", "Nisheeth Shrivastava", "Subhash Suri", "Csaba D. Tóth"],
 	"booktitle": "Proceedings of the 24th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2005",
 	"dblpkey": "conf/pods/HershbergerSST05",
 	"doi": "10.1145/1065167.1065211",
-	"ee": "http://doi.acm.org/10.1145/1065167.1065211",
 	"pages": "338-347",
 	"publisher": "ACM",
-	"stemmed": [
-		"space",
-		"complex",
-		"of",
-		"hierarch",
-		"heavi",
-		"hitter",
-		"in",
-		"multi",
-		"dimension",
-		"data",
-		"stream"
-	],
-	"tag": [
-		"complexity",
-		"data type",
-		"multi"
-	],
+	"stemmed": ["space", "complex", "of", "hierarch", "heavi", "hitter", "in", "multi", "dimension", "data", "stream"],
+	"tag": ["complexity", "data type", "multi"],
 	"title": "Space complexity of hierarchical heavy hitters in multi-dimensional data streams",
 	"type": "inproceedings",
 	"venue": "PODS",

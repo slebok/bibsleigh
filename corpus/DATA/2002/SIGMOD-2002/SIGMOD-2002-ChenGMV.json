@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Shimin Chen",
-		"Phillip B. Gibbons",
-		"Todd C. Mowry",
-		"Gary Valentin"
-	],
+	"author": ["Shimin Chen", "Phillip B. Gibbons", "Todd C. Mowry", "Gary Valentin"],
 	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/ChenGMV02",
 	"doi": "10.1145/564691.564710",
-	"ee": "http://doi.acm.org/10.1145/564691.564710",
 	"pages": "157-168",
 	"publisher": "ACM",
-	"stemmed": [
-		"fractal",
-		"prefetch",
-		"b",
-		"tree",
-		"optim",
-		"both",
-		"cach",
-		"and",
-		"disk",
-		"perform"
-	],
-	"tag": [
-		"optimisation",
-		"performance"
-	],
+	"stemmed": ["fractal", "prefetch", "b", "tree", "optim", "both", "cach", "and", "disk", "perform"],
+	"tag": ["optimisation", "performance"],
 	"title": "Fractal prefetching B±Trees: optimizing both cache and disk performance",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

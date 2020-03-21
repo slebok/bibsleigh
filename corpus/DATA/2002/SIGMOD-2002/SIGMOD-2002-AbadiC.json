@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Daniel J. Abadi",
-		"Mitch Cherniack"
-	],
+	"author": ["Daniel J. Abadi", "Mitch Cherniack"],
 	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/AbadiC02",
 	"doi": "10.1145/564691.564770",
-	"ee": "http://doi.acm.org/10.1145/564691.564770",
 	"pages": "617",
 	"publisher": "ACM",
-	"stemmed": [
-		"visual",
-		"coko",
-		"a",
-		"debugg",
-		"for",
-		"queri",
-		"optim",
-		"develop"
-	],
-	"tag": [
-		"debugging",
-		"development",
-		"query",
-		"visual notation"
-	],
+	"stemmed": ["visual", "coko", "a", "debugg", "for", "queri", "optim", "develop"],
+	"tag": ["debugging", "development", "query", "visual notation"],
 	"title": "Visual COKO: a debugger for query optimizer development",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

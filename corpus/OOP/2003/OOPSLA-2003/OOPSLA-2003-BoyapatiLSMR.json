@@ -1,38 +1,16 @@
 {
-	"author": [
-		"Chandrasekhar Boyapati",
-		"Barbara Liskov",
-		"Liuba Shrira",
-		"Chuang-Hue Moh",
-		"Steven Richman"
-	],
+	"author": ["Chandrasekhar Boyapati", "Barbara Liskov", "Liuba Shrira", "Chuang-Hue Moh", "Steven Richman"],
 	"booktitle": "Proceedings of the 18th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2003p",
 	"dblpkey": "conf/oopsla/BoyapatiLSMR03",
 	"doi": "10.1145/949305.949341",
-	"editor": [
-		"Ron Crocker",
-		"Guy L. Steele Jr."
-	],
-	"ee": "http://doi.acm.org/10.1145/949305.949341",
+	"editor": ["Ron Crocker", "Guy L. Steele Jr."],
 	"isbn": "1-58113-712-5",
 	"pages": "403-417",
 	"publisher": "ACM",
-	"stemmed": [
-		"lazi",
-		"modular",
-		"upgrad",
-		"in",
-		"persist",
-		"object",
-		"store"
-	],
-	"tag": [
-		"composition",
-		"lazy evaluation",
-		"persistent"
-	],
+	"stemmed": ["lazi", "modular", "upgrad", "in", "persist", "object", "store"],
+	"tag": ["composition", "lazy evaluation", "persistent"],
 	"title": "Lazy modular upgrades in persistent object stores",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

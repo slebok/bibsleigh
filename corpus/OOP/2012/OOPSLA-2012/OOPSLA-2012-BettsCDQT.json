@@ -1,39 +1,16 @@
 {
-	"author": [
-		"Adam Betts",
-		"Nathan Chong",
-		"Alastair F. Donaldson",
-		"Shaz Qadeer",
-		"Paul Thomson"
-	],
+	"author": ["Adam Betts", "Nathan Chong", "Alastair F. Donaldson", "Shaz Qadeer", "Paul Thomson"],
 	"booktitle": "Proceedings of the 27th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2012",
 	"dblpkey": "conf/oopsla/BettsCDQT12",
 	"doi": "10.1145/2384616.2384625",
-	"editor": [
-		"Gary T. Leavens",
-		"Matthew B. Dwyer"
-	],
-	"ee": "http://doi.acm.org/10.1145/2384616.2384625",
+	"editor": ["Gary T. Leavens", "Matthew B. Dwyer"],
 	"isbn": "978-1-4503-1561-6",
 	"pages": "113-132",
 	"publisher": "ACM",
-	"stemmed": [
-		"gpu",
-		"verifi",
-		"a",
-		"verifi",
-		"for",
-		"gpu",
-		"kernel"
-	],
-	"tag": [
-		"gpu",
-		"kernel",
-		"named",
-		"verification"
-	],
+	"stemmed": ["gpu", "verifi", "a", "verifi", "for", "gpu", "kernel"],
+	"tag": ["gpu", "kernel", "named", "verification"],
 	"title": "GPUVerify: a verifier for GPU kernels",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

@@ -1,52 +1,16 @@
 {
-	"author": [
-		"Serge Abiteboul",
-		"Victor Vianu"
-	],
+	"author": ["Serge Abiteboul", "Victor Vianu"],
 	"booktitle": "Proceedings of the Fourth Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS85/P193.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS85/P193.PDF"
-	],
-	"cite": [
-		"conf/pods/AbiteboulH84",
-		"...",
-		"conf/vldb/AbiteboulV84",
-		"...",
-		"journals/jacm/BeeriV84",
-		"conf/sigmod/BernsteinB82",
-		"conf/vldb/Brodie81",
-		"conf/vldb/CastilhoCF82",
-		"journals/tods/Chen76",
-		"journals/cacm/Codd70",
-		"conf/stoc/Fagin80",
-		"conf/vldb/GardarinM79",
-		"...",
-		"conf/jcdkb/KingM82",
-		"books/cs/Maier83",
-		"journals/tods/MylopoulosBW80",
-		"...",
-		"books/cs/Ullman82",
-		"journals/ipl/Vardi81",
-		"conf/pods/Vianu83"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS85/P193.PDF", "journals/anthology/dvd1:text/1-3/PODS85/P193.PDF"],
+	"cite": ["conf/pods/AbiteboulH84", "...", "conf/vldb/AbiteboulV84", "...", "journals/jacm/BeeriV84", "conf/sigmod/BernsteinB82", "conf/vldb/Brodie81", "conf/vldb/CastilhoCF82", "journals/tods/Chen76", "journals/cacm/Codd70", "conf/stoc/Fagin80", "conf/vldb/GardarinM79", "...", "conf/jcdkb/KingM82", "books/cs/Maier83", "journals/tods/MylopoulosBW80", "...", "books/cs/Ullman82", "journals/ipl/Vardi81", "conf/pods/Vianu83"],
 	"crossref": "conf/pods/85",
 	"dblpkey": "conf/pods/AbiteboulV85",
 	"doi": "10.1145/325405.325439",
-	"ee": "http://doi.acm.org/10.1145/325405.325439",
 	"pages": "193-204",
 	"publisher": "ACM",
-	"stemmed": [
-		"transact",
-		"and",
-		"integr",
-		"constraint"
-	],
-	"tag": [
-		"constraints",
-		"transaction"
-	],
+	"stemmed": ["transact", "and", "integr", "constraint"],
+	"tag": ["constraints", "transaction"],
 	"title": "Transactions and Integrity Constraints",
 	"type": "inproceedings",
 	"venue": "PODS",

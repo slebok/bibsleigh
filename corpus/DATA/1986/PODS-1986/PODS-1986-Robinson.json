@@ -2,35 +2,14 @@
 	"author": "John T. Robinson",
 	"booktitle": "Proceedings of the Fifth Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cite": [
-		"journals/bit/Burkhard83",
-		"journals/jcss/CarterW79",
-		"conf/vldb/Litwin80",
-		"conf/vldb/Larson80",
-		"journals/tods/Larson82"
-	],
+	"cite": ["journals/bit/Burkhard83", "journals/jcss/CarterW79", "conf/vldb/Litwin80", "conf/vldb/Larson80", "journals/tods/Larson82"],
 	"crossref": "conf/pods/86",
 	"dblpkey": "conf/pods/Robinson86",
 	"doi": "10.1145/6012.6014",
-	"ee": "http://doi.acm.org/10.1145/6012.6014",
 	"pages": "91-99",
 	"publisher": "ACM",
-	"stemmed": [
-		"order",
-		"preserv",
-		"linear",
-		"hash",
-		"use",
-		"dynam",
-		"key",
-		"statist"
-	],
-	"tag": [
-		"linear",
-		"order",
-		"statistics",
-		"using"
-	],
+	"stemmed": ["order", "preserv", "linear", "hash", "use", "dynam", "key", "statist"],
+	"tag": ["linear", "order", "statistics", "using"],
 	"title": "Order Preserving Linear Hashing Using Dynamic Key Statistics",
 	"type": "inproceedings",
 	"venue": "PODS",

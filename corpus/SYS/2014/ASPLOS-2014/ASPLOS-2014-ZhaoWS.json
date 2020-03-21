@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Zhijia Zhao",
-		"Bo Wu",
-		"Xipeng Shen"
-	],
+	"author": ["Zhijia Zhao", "Bo Wu", "Xipeng Shen"],
 	"booktitle": "Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2014",
 	"dblpkey": "conf/asplos/ZhaoWS14",
 	"doi": "10.1145/2541940.2541989",
-	"ee": "http://doi.acm.org/10.1145/2541940.2541989",
 	"pages": "543-558",
 	"publisher": "ACM",
-	"stemmed": [
-		"challeng",
-		"the",
-		"embarrass",
-		"sequenti",
-		"parallel",
-		"finit",
-		"state",
-		"machin",
-		"base",
-		"comput",
-		"through",
-		"principl",
-		"specul"
-	],
-	"tag": [
-		"finite",
-		"state machine"
-	],
+	"stemmed": ["challeng", "the", "embarrass", "sequenti", "parallel", "finit", "state", "machin", "base", "comput", "through", "principl", "specul"],
+	"tag": ["finite", "state machine"],
 	"title": "Challenging the “embarrassingly sequential”: parallelizing finite state machine-based computations through principled speculation",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

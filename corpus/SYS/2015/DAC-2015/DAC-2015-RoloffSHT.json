@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Sascha Roloff",
-		"David Schafhauser",
-		"Frank Hannig",
-		"Jürgen Teich"
-	],
+	"author": ["Sascha Roloff", "David Schafhauser", "Frank Hannig", "Jürgen Teich"],
 	"booktitle": "Proceedings of the 52nd Annual Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2015",
 	"dblpkey": "conf/dac/RoloffSHT15",
 	"doi": "10.1145/2744769.2744840",
-	"ee": "http://doi.acm.org/10.1145/2744769.2744840",
 	"pages": "44:1-44:6",
 	"publisher": "ACM",
-	"stemmed": [
-		"execut",
-		"driven",
-		"parallel",
-		"simul",
-		"of",
-		"pgas",
-		"applic",
-		"on",
-		"heterogen",
-		"tile",
-		"architectur"
-	],
-	"tag": [
-		"architecture",
-		"parallel",
-		"simulation"
-	],
+	"stemmed": ["execut", "driven", "parallel", "simul", "of", "pgas", "applic", "on", "heterogen", "tile", "architectur"],
+	"tag": ["architecture", "parallel", "simulation"],
 	"title": "Execution-driven parallel simulation of PGAS applications on heterogeneous tiled architectures",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Minh Ngoc Dinh",
-		"David Abramson",
-		"Chao Jin",
-		"Andrew Gontarek",
-		"Bob Moench",
-		"Luiz De Rose"
-	],
+	"author": ["Minh Ngoc Dinh", "David Abramson", "Chao Jin", "Andrew Gontarek", "Bob Moench", "Luiz De Rose"],
 	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/DinhAJGMR12",
 	"doi": "10.1145/2145816.2145870",
-	"ee": "http://doi.acm.org/10.1145/2145816.2145870",
 	"pages": "311-312",
 	"publisher": "ACM",
-	"stemmed": [
-		"scalabl",
-		"parallel",
-		"debug",
-		"with",
-		"statist",
-		"assert"
-	],
-	"tag": [
-		"debugging",
-		"parallel",
-		"scalability",
-		"statistics"
-	],
+	"stemmed": ["scalabl", "parallel", "debug", "with", "statist", "assert"],
+	"tag": ["debugging", "parallel", "scalability", "statistics"],
 	"title": "Scalable parallel debugging with statistical assertions",
 	"type": "inproceedings",
 	"venue": "PPoPP",

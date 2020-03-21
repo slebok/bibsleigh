@@ -1,31 +1,14 @@
 {
-	"author": [
-		"Tien-Fu Chen",
-		"Jean-Loup Baer"
-	],
+	"author": ["Tien-Fu Chen", "Jean-Loup Baer"],
 	"booktitle": "Proceedings of the Fifth International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1992",
 	"dblpkey": "conf/asplos/ChenB92",
 	"doi": "10.1145/143365.143486",
-	"ee": "http://doi.acm.org/10.1145/143365.143486",
 	"pages": "51-61",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"reduc",
-		"memori",
-		"latenc",
-		"via",
-		"non",
-		"block",
-		"and",
-		"prefetch",
-		"cach"
-	],
-	"tag": [
-		"latency",
-		"memory management"
-	],
+	"stemmed": ["reduc", "memori", "latenc", "via", "non", "block", "and", "prefetch", "cach"],
+	"tag": ["latency", "memory management"],
 	"title": "Reducing Memory Latency via Non-blocking and Prefetching Caches",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,45 +1,15 @@
 {
-	"author": [
-		"Raymond T. Ng",
-		"Christos Faloutsos",
-		"Timos K. Sellis"
-	],
+	"author": ["Raymond T. Ng", "Christos Faloutsos", "Timos K. Sellis"],
 	"booktitle": "Proceedings of the 21st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD91/P387.PDF",
-	"cite": [
-		"journals/cacm/Cardenas75",
-		"conf/vldb/ChouD85",
-		"journals/tods/Christodoulakis84",
-		"conf/vldb/CornellY89",
-		"journals/tods/EffelsbergH84",
-		"...",
-		"...",
-		"...",
-		"journals/tods/LangWF77",
-		"...",
-		"conf/vldb/SaccoS82",
-		"journals/tods/ShermanB76",
-		"journals/tods/StonebrakerWKH76",
-		"journals/cacm/Yao77"
-	],
+	"cite": ["journals/cacm/Cardenas75", "conf/vldb/ChouD85", "journals/tods/Christodoulakis84", "conf/vldb/CornellY89", "journals/tods/EffelsbergH84", "...", "...", "...", "journals/tods/LangWF77", "...", "conf/vldb/SaccoS82", "journals/tods/ShermanB76", "journals/tods/StonebrakerWKH76", "journals/cacm/Yao77"],
 	"crossref": "conf/sigmod/91",
 	"dblpkey": "conf/sigmod/NgFS91",
 	"doi": "10.1145/115790.115857",
-	"ee": "http://doi.acm.org/10.1145/115790.115857",
 	"pages": "387-396",
-	"stemmed": [
-		"flexibl",
-		"buffer",
-		"alloc",
-		"base",
-		"on",
-		"margin",
-		"gain"
-	],
-	"tag": [
-		"flexibility"
-	],
+	"stemmed": ["flexibl", "buffer", "alloc", "base", "on", "margin", "gain"],
+	"tag": ["flexibility"],
 	"title": "Flexible Buffer Allocation Based on Marginal Gains",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

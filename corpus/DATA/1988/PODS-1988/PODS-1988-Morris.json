@@ -2,36 +2,15 @@
 	"author": "Katherine A. Morris",
 	"booktitle": "Proceedings of the Seventh Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS88/P082.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS88/P082.PDF"
-	],
-	"cite": [
-		"conf/pods/BancilhonMSU86",
-		"conf/iclp/MorrisUG86",
-		"journals/debu/MorrisNSUG87",
-		"journals/tods/Ullman85",
-		"conf/pods/UllmanV88"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS88/P082.PDF", "journals/anthology/dvd1:text/1-3/PODS88/P082.PDF"],
+	"cite": ["conf/pods/BancilhonMSU86", "conf/iclp/MorrisUG86", "journals/debu/MorrisNSUG87", "journals/tods/Ullman85", "conf/pods/UllmanV88"],
 	"crossref": "conf/pods/88",
 	"dblpkey": "conf/pods/Morris88",
 	"doi": "10.1145/308386.308419",
-	"ee": "http://doi.acm.org/10.1145/308386.308419",
 	"pages": "82-88",
 	"publisher": "ACM",
-	"stemmed": [
-		"an",
-		"algorithm",
-		"for",
-		"order",
-		"subgoal",
-		"in",
-		"nail"
-	],
-	"tag": [
-		"algorithm",
-		"exclamation"
-	],
+	"stemmed": ["an", "algorithm", "for", "order", "subgoal", "in", "nail"],
+	"tag": ["algorithm", "exclamation"],
 	"title": "An Algorithm for Ordering Subgoals in NAIL!",
 	"type": "inproceedings",
 	"venue": "PODS",

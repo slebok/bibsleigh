@@ -1,31 +1,14 @@
 {
-	"author": [
-		"Mingjing Chen",
-		"Alex Orailoglu"
-	],
+	"author": ["Mingjing Chen", "Alex Orailoglu"],
 	"booktitle": "Proceedings of the 48th Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2011",
 	"dblpkey": "conf/dac/ChenO11",
 	"doi": "10.1145/2024724.2024823",
-	"ee": "http://doi.acm.org/10.1145/2024724.2024823",
 	"pages": "423-428",
 	"publisher": "ACM",
-	"stemmed": [
-		"diagnos",
-		"scan",
-		"clock",
-		"delay",
-		"fault",
-		"through",
-		"statist",
-		"time",
-		"prune"
-	],
-	"tag": [
-		"fault",
-		"statistics"
-	],
+	"stemmed": ["diagnos", "scan", "clock", "delay", "fault", "through", "statist", "time", "prune"],
+	"tag": ["fault", "statistics"],
 	"title": "Diagnosing scan clock delay faults through statistical timing pruning",
 	"type": "inproceedings",
 	"venue": "DAC",

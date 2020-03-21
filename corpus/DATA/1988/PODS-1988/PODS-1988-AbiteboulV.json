@@ -1,49 +1,16 @@
 {
-	"author": [
-		"Serge Abiteboul",
-		"Victor Vianu"
-	],
+	"author": ["Serge Abiteboul", "Victor Vianu"],
 	"booktitle": "Proceedings of the Seventh Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS88/P240.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS88/P240.PDF"
-	],
-	"cite": [
-		"conf/pods/AbiteboulV87",
-		"...",
-		"...",
-		"conf/popl/AhoU79",
-		"...",
-		"conf/vldb/Brodie81",
-		"conf/vldb/CastilhoCF82",
-		"journals/jcss/ChandraH80",
-		"conf/popl/Chandra81",
-		"...",
-		"conf/focs/GurevichS85",
-		"journals/siamcomp/Hull86",
-		"...",
-		"conf/pods/KolaitisP88",
-		"journals/ipl/Paredaens78"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS88/P240.PDF", "journals/anthology/dvd1:text/1-3/PODS88/P240.PDF"],
+	"cite": ["conf/pods/AbiteboulV87", "...", "...", "conf/popl/AhoU79", "...", "conf/vldb/Brodie81", "conf/vldb/CastilhoCF82", "journals/jcss/ChandraH80", "conf/popl/Chandra81", "...", "conf/focs/GurevichS85", "journals/siamcomp/Hull86", "...", "conf/pods/KolaitisP88", "journals/ipl/Paredaens78"],
 	"crossref": "conf/pods/88",
 	"dblpkey": "conf/pods/AbiteboulV88",
 	"doi": "10.1145/308386.308448",
-	"ee": "http://doi.acm.org/10.1145/308386.308448",
 	"pages": "240-250",
 	"publisher": "ACM",
-	"stemmed": [
-		"procedur",
-		"and",
-		"declar",
-		"databas",
-		"updat",
-		"languag"
-	],
-	"tag": [
-		"database",
-		"declarative"
-	],
+	"stemmed": ["procedur", "and", "declar", "databas", "updat", "languag"],
+	"tag": ["database", "declarative"],
 	"title": "Procedural and Declarative Database Update Languages",
 	"type": "inproceedings",
 	"venue": "PODS",

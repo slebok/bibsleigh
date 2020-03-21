@@ -1,32 +1,14 @@
 {
-	"author": [
-		"David J. Pearce",
-		"Paul H. J. Kelly",
-		"Chris Hankin"
-	],
+	"author": ["David J. Pearce", "Paul H. J. Kelly", "Chris Hankin"],
 	"booktitle": "Proceedings of the Fifth Workshop on Program Analysis for Software Tools and Engineering",
 	"booktitleshort": "PASTE",
 	"crossref": "conf/paste/2004",
 	"dblpkey": "conf/paste/PearceKH04",
 	"doi": "10.1145/996821.996835",
-	"ee": "http://doi.acm.org/10.1145/996821.996835",
 	"pages": "37-42",
 	"publisher": "ACM",
-	"stemmed": [
-		"effici",
-		"field",
-		"sensit",
-		"pointer",
-		"analysi",
-		"for",
-		"c"
-	],
-	"tag": [
-		"analysis",
-		"c",
-		"performance",
-		"pointer"
-	],
+	"stemmed": ["effici", "field", "sensit", "pointer", "analysi", "for", "c"],
+	"tag": ["analysis", "c", "performance", "pointer"],
 	"title": "Efficient field-sensitive pointer analysis for C",
 	"type": "inproceedings",
 	"venue": "PASTE",

@@ -1,44 +1,15 @@
 {
-	"author": [
-		"Christophe Lécluse",
-		"Philippe Richard",
-		"Fernando Vélez"
-	],
+	"author": ["Christophe Lécluse", "Philippe Richard", "Fernando Vélez"],
 	"booktitle": "Proceedings of the 18th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD88/P424.PDF",
-	"cite": [
-		"journals/tods/AlbanoCO85",
-		"conf/oopsla/AndrewsH87",
-		"conf/pods/BancilhonK86",
-		"...",
-		"journals/tois/BanerjeeCGKWBK87",
-		"conf/dbpl/BruceW87",
-		"journals/iandc/Cardelli88",
-		"conf/sigmod/CopelandM84",
-		"conf/oopsla/KhoshafianC86",
-		"books/aw/GoldbergR83",
-		"conf/pods/KuperV84",
-		"conf/oopsla/Meyer86",
-		"conf/sigmod/NixonCLBMS87",
-		"..."
-	],
+	"cite": ["journals/tods/AlbanoCO85", "conf/oopsla/AndrewsH87", "conf/pods/BancilhonK86", "...", "journals/tois/BanerjeeCGKWBK87", "conf/dbpl/BruceW87", "journals/iandc/Cardelli88", "conf/sigmod/CopelandM84", "conf/oopsla/KhoshafianC86", "books/aw/GoldbergR83", "conf/pods/KuperV84", "conf/oopsla/Meyer86", "conf/sigmod/NixonCLBMS87", "..."],
 	"crossref": "conf/sigmod/88",
 	"dblpkey": "conf/sigmod/LecluseRV88",
 	"doi": "10.1145/50202.50253",
-	"ee": "http://doi.acm.org/10.1145/50202.50253",
 	"pages": "424-433",
-	"stemmed": [
-		"o",
-		"an",
-		"object",
-		"orient",
-		"data",
-		"model"
-	],
-	"tag": [
-		"object-oriented"
-	],
+	"stemmed": ["o", "an", "object", "orient", "data", "model"],
+	"tag": ["object-oriented"],
 	"title": "O2, an Object-Oriented Data Model",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

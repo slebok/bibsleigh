@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Thomas Neumann",
-		"Tobias Mühlbauer",
-		"Alfons Kemper"
-	],
+	"author": ["Thomas Neumann", "Tobias Mühlbauer", "Alfons Kemper"],
 	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/0001MK15",
 	"doi": "10.1145/2723372.2749436",
-	"ee": "http://doi.acm.org/10.1145/2723372.2749436",
 	"pages": "677-689",
 	"publisher": "ACM",
-	"stemmed": [
-		"fast",
-		"serializ",
-		"multi",
-		"version",
-		"concurr",
-		"control",
-		"for",
-		"main",
-		"memori",
-		"databas",
-		"system"
-	],
-	"tag": [
-		"concurrent",
-		"database",
-		"in memory",
-		"multi",
-		"performance"
-	],
+	"stemmed": ["fast", "serializ", "multi", "version", "concurr", "control", "for", "main", "memori", "databas", "system"],
+	"tag": ["concurrent", "database", "in memory", "multi", "performance"],
 	"title": "Fast Serializable Multi-Version Concurrency Control for Main-Memory Database Systems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

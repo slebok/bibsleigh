@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Tian F. Lim",
-		"Przemyslaw Pardyak",
-		"Brian N. Bershad"
-	],
+	"author": ["Tian F. Lim", "Przemyslaw Pardyak", "Brian N. Bershad"],
 	"booktitle": "Proceedings of the First International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/1998",
 	"dblpkey": "conf/iwmm/LimPB98",
 	"doi": "10.1145/286860.286873",
-	"ee": "http://doi.acm.org/10.1145/286860.286873",
 	"pages": "118-129",
 	"publisher": "ACM",
-	"stemmed": [
-		"a",
-		"memori",
-		"effici",
-		"real",
-		"time",
-		"non",
-		"copi",
-		"garbag",
-		"collector"
-	],
-	"tag": [
-		"garbage collection",
-		"realtime"
-	],
+	"stemmed": ["a", "memori", "effici", "real", "time", "non", "copi", "garbag", "collector"],
+	"tag": ["garbage collection", "realtime"],
 	"title": "A Memory-Efficient Real-Time Non-Copying Garbage Collector",
 	"type": "inproceedings",
 	"venue": "ISMM",

@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Per-Åke Larson",
-		"Wolfgang Lehner",
-		"Jingren Zhou",
-		"Peter Zabback"
-	],
+	"author": ["Per-Åke Larson", "Wolfgang Lehner", "Jingren Zhou", "Peter Zabback"],
 	"booktitle": "Proceedings of the 25th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2007",
 	"dblpkey": "conf/sigmod/LarsonLZZ07a",
 	"doi": "10.1145/1247480.1247610",
-	"ee": "http://doi.acm.org/10.1145/1247480.1247610",
 	"pages": "1073-1075",
 	"publisher": "ACM",
-	"stemmed": [
-		"exploit",
-		"self",
-		"monitor",
-		"sampl",
-		"view",
-		"for",
-		"cardin",
-		"estim"
-	],
-	"tag": [
-		"estimation",
-		"self"
-	],
+	"stemmed": ["exploit", "self", "monitor", "sampl", "view", "for", "cardin", "estim"],
+	"tag": ["estimation", "self"],
 	"title": "Exploiting self-monitoring sample views for cardinality estimation",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

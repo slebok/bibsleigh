@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Fei Chen",
-		"Tere Gonzalez",
-		"Jun Li",
-		"Manish Marwah",
-		"Jim Pruyne",
-		"Krishnamurthy Viswanathan",
-		"Mijung Kim"
-	],
+	"author": ["Fei Chen", "Tere Gonzalez", "Jun Li", "Manish Marwah", "Jim Pruyne", "Krishnamurthy Viswanathan", "Mijung Kim"],
 	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/ChenGLMPVK14",
 	"doi": "10.1145/2588555.2594509",
-	"ee": "http://doi.acm.org/10.1145/2588555.2594509",
 	"pages": "705-708",
 	"publisher": "ACM",
-	"stemmed": [
-		"palett",
-		"enabl",
-		"scalabl",
-		"analyt",
-		"for",
-		"big",
-		"memori",
-		"multicor",
-		"machin"
-	],
-	"tag": [
-		"manycore",
-		"named",
-		"scalability"
-	],
+	"stemmed": ["palett", "enabl", "scalabl", "analyt", "for", "big", "memori", "multicor", "machin"],
+	"tag": ["manycore", "named", "scalability"],
 	"title": "Palette: enabling scalable analytics for big-memory, multicore machines",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

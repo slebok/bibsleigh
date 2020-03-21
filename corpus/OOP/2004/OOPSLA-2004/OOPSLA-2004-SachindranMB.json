@@ -1,40 +1,17 @@
 {
-	"author": [
-		"Narendran Sachindran",
-		"J. Eliot B. Moss",
-		"Emery D. Berger"
-	],
+	"author": ["Narendran Sachindran", "J. Eliot B. Moss", "Emery D. Berger"],
 	"booktitle": "Proceedings of the 19th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2004p",
 	"dblpkey": "conf/oopsla/SachindranMB04",
 	"doi": "10.1145/1028976.1028984",
-	"editor": [
-		"John M. Vlissides",
-		"Douglas C. Schmidt"
-	],
-	"ee": "http://doi.acm.org/10.1145/1028976.1028984",
+	"editor": ["John M. Vlissides", "Douglas C. Schmidt"],
 	"isbn": "1-58113-831-8",
 	"pages": "81-98",
 	"publisher": "ACM",
-	"stemmed": [
-		"mc",
-		"sup",
-		"sup",
-		"high",
-		"perform",
-		"garbag",
-		"collect",
-		"for",
-		"memori",
-		"constrain",
-		"environ"
-	],
-	"tag": [
-		"garbage collection",
-		"named"
-	],
-	"title": "MC<sup>2</sup>: high-performance garbage collection for memory-constrained environments",
+	"stemmed": ["mc", "sup", "sup", "high", "perform", "garbag", "collect", "for", "memori", "constrain", "environ"],
+	"tag": ["garbage collection", "named"],
+	"title": "MC<sup>2<\/sup>: high-performance garbage collection for memory-constrained environments",
 	"type": "inproceedings",
 	"venue": "OOPSLA",
 	"year": 2004

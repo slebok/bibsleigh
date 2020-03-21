@@ -1,36 +1,16 @@
 {
-	"author": [
-		"Wei Le",
-		"Mary Lou Soffa"
-	],
+	"author": ["Wei Le", "Mary Lou Soffa"],
 	"booktitle": "Proceedings of the 16th International Symposium on Foundations of Software Engineering",
 	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2008",
 	"dblpkey": "conf/sigsoft/LeS08",
 	"doi": "10.1145/1453101.1453137",
-	"editor": [
-		"Mary Jean Harrold",
-		"Gail C. Murphy"
-	],
-	"ee": "http://doi.acm.org/10.1145/1453101.1453137",
+	"editor": ["Mary Jean Harrold", "Gail C. Murphy"],
 	"isbn": "978-1-59593-995-1",
 	"pages": "272-282",
 	"publisher": "ACM",
-	"stemmed": [
-		"marpl",
-		"a",
-		"demand",
-		"driven",
-		"path",
-		"sensit",
-		"buffer",
-		"overflow",
-		"detector"
-	],
-	"tag": [
-		"detection",
-		"named"
-	],
+	"stemmed": ["marpl", "a", "demand", "driven", "path", "sensit", "buffer", "overflow", "detector"],
+	"tag": ["detection", "named"],
 	"title": "Marple: a demand-driven path-sensitive buffer overflow detector",
 	"type": "inproceedings",
 	"venue": "FSE",

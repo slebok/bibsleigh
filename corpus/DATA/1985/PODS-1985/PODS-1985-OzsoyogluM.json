@@ -1,50 +1,16 @@
 {
-	"author": [
-		"Gultekin Özsoyoglu",
-		"Victor Matos"
-	],
+	"author": ["Gultekin Özsoyoglu", "Victor Matos"],
 	"booktitle": "Proceedings of the Fourth Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS85/P038.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS85/P038.PDF"
-	],
-	"cite": [
-		"books/aw/AhoHU74",
-		"journals/tods/Codd79",
-		"journals/tods/Kim82",
-		"...",
-		"conf/sigmod/Klug82",
-		"journals/jacm/Klug82",
-		"...",
-		"...",
-		"...",
-		"...",
-		"...",
-		"conf/vldb/RosenthalR84",
-		"books/cs/Ullman82",
-		"journals/ibmsj/Zloof77"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS85/P038.PDF", "journals/anthology/dvd1:text/1-3/PODS85/P038.PDF"],
+	"cite": ["books/aw/AhoHU74", "journals/tods/Codd79", "journals/tods/Kim82", "...", "conf/sigmod/Klug82", "journals/jacm/Klug82", "...", "...", "...", "...", "...", "conf/vldb/RosenthalR84", "books/cs/Ullman82", "journals/ibmsj/Zloof77"],
 	"crossref": "conf/pods/85",
 	"dblpkey": "conf/pods/OzsoyogluM85",
 	"doi": "10.1145/325405.325410",
-	"ee": "http://doi.acm.org/10.1145/325405.325410",
 	"pages": "38-50",
 	"publisher": "ACM",
-	"stemmed": [
-		"on",
-		"optim",
-		"summari",
-		"tabl",
-		"by",
-		"exampl",
-		"queri"
-	],
-	"tag": [
-		"on the",
-		"optimisation",
-		"query"
-	],
+	"stemmed": ["on", "optim", "summari", "tabl", "by", "exampl", "queri"],
+	"tag": ["on the", "optimisation", "query"],
 	"title": "On Optimizing Summary-Table-by-Example Queries",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,39 +1,14 @@
 {
-	"author": [
-		"Panfeng Wang",
-		"Xuejun Yang",
-		"Hongyi Fu",
-		"Yunfei Du",
-		"Zhiyun Wang",
-		"Jia Jia"
-	],
+	"author": ["Panfeng Wang", "Xuejun Yang", "Hongyi Fu", "Yunfei Du", "Zhiyun Wang", "Jia Jia"],
 	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/WangYFDWJ08",
 	"doi": "10.1145/1345206.1345252",
-	"ee": "http://doi.acm.org/10.1145/1345206.1345252",
 	"pages": "273-274",
 	"publisher": "ACM",
-	"stemmed": [
-		"autom",
-		"applic",
-		"level",
-		"checkpoint",
-		"base",
-		"on",
-		"live",
-		"variabl",
-		"analysi",
-		"in",
-		"mpi",
-		"program"
-	],
-	"tag": [
-		"analysis",
-		"automation",
-		"source code"
-	],
+	"stemmed": ["autom", "applic", "level", "checkpoint", "base", "on", "live", "variabl", "analysi", "in", "mpi", "program"],
+	"tag": ["analysis", "automation", "source code"],
 	"title": "Automated application-level checkpointing based on live-variable analysis in MPI programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

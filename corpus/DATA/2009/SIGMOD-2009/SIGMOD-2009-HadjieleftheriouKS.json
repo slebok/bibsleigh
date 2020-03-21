@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Marios Hadjieleftheriou",
-		"Nick Koudas",
-		"Divesh Srivastava"
-	],
+	"author": ["Marios Hadjieleftheriou", "Nick Koudas", "Divesh Srivastava"],
 	"booktitle": "Proceedings of the 27th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2009",
 	"dblpkey": "conf/sigmod/HadjieleftheriouKS09",
 	"doi": "10.1145/1559845.1559891",
-	"ee": "http://doi.acm.org/10.1145/1559845.1559891",
 	"pages": "429-440",
 	"publisher": "ACM",
-	"stemmed": [
-		"increment",
-		"mainten",
-		"of",
-		"length",
-		"normal",
-		"index",
-		"for",
-		"approxim",
-		"string",
-		"match"
-	],
-	"tag": [
-		"approximate",
-		"incremental",
-		"maintenance",
-		"normalisation",
-		"string"
-	],
+	"stemmed": ["increment", "mainten", "of", "length", "normal", "index", "for", "approxim", "string", "match"],
+	"tag": ["approximate", "incremental", "maintenance", "normalisation", "string"],
 	"title": "Incremental maintenance of length normalized indexes for approximate string matching",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

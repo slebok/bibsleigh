@@ -2,39 +2,15 @@
 	"author": "Witold Lipski Jr.",
 	"booktitle": "Proceedings of the Third Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS84/P201.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS84/P201.PDF"
-	],
-	"cite": [
-		"conf/vldb/ImielinskiL81",
-		"journals/jacm/ImielinskiL84",
-		"conf/sigmod/ImielinskiL83",
-		"...",
-		"books/cs/Maier83",
-		"journals/tods/MaierUV84",
-		"...",
-		"books/cs/Ullman82"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS84/P201.PDF", "journals/anthology/dvd1:text/1-3/PODS84/P201.PDF"],
+	"cite": ["conf/vldb/ImielinskiL81", "journals/jacm/ImielinskiL84", "conf/sigmod/ImielinskiL83", "...", "books/cs/Maier83", "journals/tods/MaierUV84", "...", "books/cs/Ullman82"],
 	"crossref": "conf/pods/84",
 	"dblpkey": "conf/pods/Lipski84",
 	"doi": "10.1145/588011.588040",
-	"ee": "http://doi.acm.org/10.1145/588011.588040",
 	"pages": "201-203",
 	"publisher": "ACM",
-	"stemmed": [
-		"on",
-		"relat",
-		"algebra",
-		"with",
-		"mark",
-		"null"
-	],
-	"tag": [
-		"algebra",
-		"on the",
-		"relational"
-	],
+	"stemmed": ["on", "relat", "algebra", "with", "mark", "null"],
+	"tag": ["algebra", "on the", "relational"],
 	"title": "On Relational Algebra with Marked Nulls",
 	"type": "inproceedings",
 	"venue": "PODS",

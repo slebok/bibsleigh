@@ -1,29 +1,14 @@
 {
-	"author": [
-		"Katherine Barabash",
-		"Erez Petrank"
-	],
+	"author": ["Katherine Barabash", "Erez Petrank"],
 	"booktitle": "Proceedings of the Ninth International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2010",
 	"dblpkey": "conf/iwmm/BarabashP10",
 	"doi": "10.1145/1806651.1806653",
-	"ee": "http://doi.acm.org/10.1145/1806651.1806653",
 	"pages": "1-10",
 	"publisher": "ACM",
-	"stemmed": [
-		"trace",
-		"garbag",
-		"collect",
-		"on",
-		"high",
-		"parallel",
-		"platform"
-	],
-	"tag": [
-		"garbage collection",
-		"parallel"
-	],
+	"stemmed": ["trace", "garbag", "collect", "on", "high", "parallel", "platform"],
+	"tag": ["garbage collection", "parallel"],
 	"title": "Tracing garbage collection on highly parallel platforms",
 	"type": "inproceedings",
 	"venue": "ISMM",

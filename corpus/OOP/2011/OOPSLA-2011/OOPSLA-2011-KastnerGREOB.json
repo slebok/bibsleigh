@@ -1,45 +1,16 @@
 {
-	"author": [
-		"Christian Kästner",
-		"Paolo G. Giarrusso",
-		"Tillmann Rendel",
-		"Sebastian Erdweg",
-		"Klaus Ostermann",
-		"Thorsten Berger"
-	],
+	"author": ["Christian Kästner", "Paolo G. Giarrusso", "Tillmann Rendel", "Sebastian Erdweg", "Klaus Ostermann", "Thorsten Berger"],
 	"booktitle": "Proceedings of the 26th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2011",
 	"dblpkey": "conf/oopsla/KastnerGREOB11",
 	"doi": "10.1145/2048066.2048128",
-	"editor": [
-		"Cristina Videira Lopes",
-		"Kathleen Fisher"
-	],
-	"ee": "http://doi.acm.org/10.1145/2048066.2048128",
+	"editor": ["Cristina Videira Lopes", "Kathleen Fisher"],
 	"isbn": "978-1-4503-0940-0",
 	"pages": "805-824",
 	"publisher": "ACM",
-	"stemmed": [
-		"variabl",
-		"awar",
-		"pars",
-		"in",
-		"the",
-		"presenc",
-		"of",
-		"lexic",
-		"macro",
-		"and",
-		"condit",
-		"compil"
-	],
-	"tag": [
-		"compilation",
-		"metaprogramming",
-		"parsing",
-		"variability"
-	],
+	"stemmed": ["variabl", "awar", "pars", "in", "the", "presenc", "of", "lexic", "macro", "and", "condit", "compil"],
+	"tag": ["compilation", "metaprogramming", "parsing", "variability"],
 	"title": "Variability-aware parsing in the presence of lexical macros and conditional compilation",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

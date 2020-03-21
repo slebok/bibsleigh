@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Christoph von Praun",
-		"Rajesh Bordawekar",
-		"Calin Cascaval"
-	],
+	"author": ["Christoph von Praun", "Rajesh Bordawekar", "Calin Cascaval"],
 	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/PraunBC08",
 	"doi": "10.1145/1345206.1345234",
-	"ee": "http://doi.acm.org/10.1145/1345206.1345234",
 	"pages": "185-196",
 	"publisher": "ACM",
-	"stemmed": [
-		"model",
-		"optimist",
-		"concurr",
-		"use",
-		"quantit",
-		"depend",
-		"analysi"
-	],
-	"tag": [
-		"analysis",
-		"concurrent",
-		"dependence",
-		"modelling",
-		"using"
-	],
+	"stemmed": ["model", "optimist", "concurr", "use", "quantit", "depend", "analysi"],
+	"tag": ["analysis", "concurrent", "dependence", "modelling", "using"],
 	"title": "Modeling optimistic concurrency using quantitative dependence analysis",
 	"type": "inproceedings",
 	"venue": "PPoPP",

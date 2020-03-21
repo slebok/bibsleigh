@@ -1,45 +1,15 @@
 {
-	"author": [
-		"Marc H. Graham",
-		"Ke Wang"
-	],
+	"author": ["Marc H. Graham", "Ke Wang"],
 	"booktitle": "Proceedings of the Fifth Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cite": [
-		"conf/pods/AtzeniC85",
-		"conf/vldb/BeeriBG78",
-		"conf/pods/BrosdaV85",
-		"...",
-		"journals/jacm/GrahamMV86",
-		"conf/pods/GrahamV84",
-		"journals/jcss/GrahamY84",
-		"conf/vldb/Honeyman80",
-		"conf/sigmod/HoneymanS83",
-		"conf/sigmod/Sagiv81",
-		"journals/tods/Sagiv83",
-		"conf/pods/Sagiv85a"
-	],
+	"cite": ["conf/pods/AtzeniC85", "conf/vldb/BeeriBG78", "conf/pods/BrosdaV85", "...", "journals/jacm/GrahamMV86", "conf/pods/GrahamV84", "journals/jcss/GrahamY84", "conf/vldb/Honeyman80", "conf/sigmod/HoneymanS83", "conf/sigmod/Sagiv81", "journals/tods/Sagiv83", "conf/pods/Sagiv85a"],
 	"crossref": "conf/pods/86",
 	"dblpkey": "conf/pods/GrahamW86",
 	"doi": "10.1145/6012.6017",
-	"ee": "http://doi.acm.org/10.1145/6012.6017",
 	"pages": "202-216",
 	"publisher": "ACM",
-	"stemmed": [
-		"constant",
-		"time",
-		"mainten",
-		"or",
-		"the",
-		"triumph",
-		"of",
-		"the",
-		"fd"
-	],
-	"tag": [
-		"constant",
-		"maintenance"
-	],
+	"stemmed": ["constant", "time", "mainten", "or", "the", "triumph", "of", "the", "fd"],
+	"tag": ["constant", "maintenance"],
 	"title": "Constant Time Maintenance or The Triumph of the fd",
 	"type": "inproceedings",
 	"venue": "PODS",

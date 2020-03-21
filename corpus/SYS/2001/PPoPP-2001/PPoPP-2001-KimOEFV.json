@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Seon Wook Kim",
-		"Chong-liang Ooi",
-		"Rudolf Eigenmann",
-		"Babak Falsafi",
-		"T. N. Vijaykumar"
-	],
+	"author": ["Seon Wook Kim", "Chong-liang Ooi", "Rudolf Eigenmann", "Babak Falsafi", "T. N. Vijaykumar"],
 	"booktitle": "Proceedings of the Eighth Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2001",
 	"dblpkey": "conf/ppopp/KimOEFV01",
 	"doi": "10.1145/379539.379547",
-	"ee": "http://doi.acm.org/10.1145/379539.379547",
 	"pages": "2-11",
 	"publisher": "ACM",
-	"stemmed": [
-		"refer",
-		"idempot",
-		"analysi",
-		"a",
-		"framework",
-		"for",
-		"optim",
-		"specul",
-		"execut"
-	],
-	"tag": [
-		"analysis",
-		"execution",
-		"framework",
-		"optimisation"
-	],
+	"stemmed": ["refer", "idempot", "analysi", "a", "framework", "for", "optim", "specul", "execut"],
+	"tag": ["analysis", "execution", "framework", "optimisation"],
 	"title": "Reference idempotency analysis: a framework for optimizing speculative execution",
 	"type": "inproceedings",
 	"venue": "PPoPP",

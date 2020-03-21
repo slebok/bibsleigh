@@ -1,31 +1,14 @@
 {
-	"author": [
-		"Greg Bronevetsky",
-		"Daniel Marques",
-		"Keshav Pingali",
-		"Paul Stodghill"
-	],
+	"author": ["Greg Bronevetsky", "Daniel Marques", "Keshav Pingali", "Paul Stodghill"],
 	"booktitle": "Proceedings of the Ninth Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2003",
 	"dblpkey": "conf/ppopp/BronevetskyMPS03",
 	"doi": "10.1145/781498.781513",
-	"ee": "http://doi.acm.org/10.1145/781498.781513",
 	"pages": "84-94",
 	"publisher": "ACM",
-	"stemmed": [
-		"autom",
-		"applic",
-		"level",
-		"checkpoint",
-		"of",
-		"mpi",
-		"program"
-	],
-	"tag": [
-		"automation",
-		"source code"
-	],
+	"stemmed": ["autom", "applic", "level", "checkpoint", "of", "mpi", "program"],
+	"tag": ["automation", "source code"],
 	"title": "Automated application-level checkpointing of MPI programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Andrew Kerr",
-		"Gregory Frederick Diamos",
-		"Sudhakar Yalamanchili"
-	],
+	"author": ["Andrew Kerr", "Gregory Frederick Diamos", "Sudhakar Yalamanchili"],
 	"booktitle": "Proceedings of the 10th International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2012",
 	"dblpkey": "conf/cgo/KerrDY12",
 	"doi": "10.1145/2259016.2259020",
-	"ee": "http://doi.acm.org/10.1145/2259016.2259020",
 	"pages": "23-32",
 	"publisher": "ACM",
-	"stemmed": [
-		"dynam",
-		"compil",
-		"of",
-		"data",
-		"parallel",
-		"kernel",
-		"for",
-		"vector",
-		"processor"
-	],
-	"tag": [
-		"compilation",
-		"kernel"
-	],
+	"stemmed": ["dynam", "compil", "of", "data", "parallel", "kernel", "for", "vector", "processor"],
+	"tag": ["compilation", "kernel"],
 	"title": "Dynamic compilation of data-parallel kernels for vector processors",
 	"type": "inproceedings",
 	"venue": "CGO",

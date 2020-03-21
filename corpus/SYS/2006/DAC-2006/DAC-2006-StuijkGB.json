@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Sander Stuijk",
-		"Marc Geilen",
-		"Twan Basten"
-	],
+	"author": ["Sander Stuijk", "Marc Geilen", "Twan Basten"],
 	"booktitle": "Proceedings of the 43rd Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2006",
 	"dblpkey": "conf/dac/StuijkGB06",
 	"doi": "10.1145/1146909.1147138",
-	"ee": "http://doi.acm.org/10.1145/1146909.1147138",
 	"pages": "899-904",
 	"publisher": "ACM",
-	"stemmed": [
-		"explor",
-		"trade",
-		"off",
-		"in",
-		"buffer",
-		"requir",
-		"and",
-		"throughput",
-		"constraint",
-		"for",
-		"synchron",
-		"dataflow",
-		"graph"
-	],
-	"tag": [
-		"constraints",
-		"data flow",
-		"graph",
-		"requirements",
-		"throughput",
-		"trade-off"
-	],
+	"stemmed": ["explor", "trade", "off", "in", "buffer", "requir", "and", "throughput", "constraint", "for", "synchron", "dataflow", "graph"],
+	"tag": ["constraints", "data flow", "graph", "requirements", "throughput", "trade-off"],
 	"title": "Exploring trade-offs in buffer requirements and throughput constraints for synchronous dataflow graphs",
 	"type": "inproceedings",
 	"venue": "DAC",

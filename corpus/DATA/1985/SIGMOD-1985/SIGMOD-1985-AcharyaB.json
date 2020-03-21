@@ -1,46 +1,16 @@
 {
-	"author": [
-		"Shridhar Acharya",
-		"Gael N. Buckley"
-	],
+	"author": ["Shridhar Acharya", "Gael N. Buckley"],
 	"booktitle": "Proceedings of the 15th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD85/P364.PDF",
-	"cite": [
-		"...",
-		"conf/podc/BernsteinG82",
-		"journals/cacm/EswarranGLT76",
-		"journals/csur/GallaireMN84",
-		"...",
-		"journals/tods/KungR81",
-		"conf/popl/LiskovS82",
-		"...",
-		"...",
-		"conf/eds/ScioreW84",
-		"journals/jacm/SilberschatzK80",
-		"...",
-		"conf/fgcs/Warren84",
-		"journals/jacm/Yannakakis82"
-	],
+	"cite": ["...", "conf/podc/BernsteinG82", "journals/cacm/EswarranGLT76", "journals/csur/GallaireMN84", "...", "journals/tods/KungR81", "conf/popl/LiskovS82", "...", "...", "conf/eds/ScioreW84", "journals/jacm/SilberschatzK80", "...", "conf/fgcs/Warren84", "journals/jacm/Yannakakis82"],
 	"crossref": "conf/sigmod/85",
 	"dblpkey": "conf/sigmod/AcharyaB85",
 	"doi": "10.1145/318898.318986",
-	"ee": "http://doi.acm.org/10.1145/318898.318986",
 	"pages": "364-373",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"transact",
-		"restart",
-		"in",
-		"prolog",
-		"databas",
-		"system"
-	],
-	"tag": [
-		"database",
-		"prolog",
-		"transaction"
-	],
+	"stemmed": ["transact", "restart", "in", "prolog", "databas", "system"],
+	"tag": ["database", "prolog", "transaction"],
 	"title": "Transaction Restarts in Prolog Database Systems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

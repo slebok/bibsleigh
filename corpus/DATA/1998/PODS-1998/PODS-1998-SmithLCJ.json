@@ -1,49 +1,16 @@
 {
-	"author": [
-		"John R. Smith",
-		"Chung-Sheng Li",
-		"Vittorio Castelli",
-		"Anant Jhingran"
-	],
+	"author": ["John R. Smith", "Chung-Sheng Li", "Vittorio Castelli", "Anant Jhingran"],
 	"booktitle": "Proceedings of the 17th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS98/P274.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS98/P274.PDF"
-	],
-	"cite": [
-		"conf/icde/AgrawalGS97",
-		"conf/vldb/AgarwalADGNRS96",
-		"...",
-		"...",
-		"...",
-		"conf/icde/GrayBLP96",
-		"conf/icde/GuptaHRU97",
-		"conf/sigmod/HarinarayanRU96",
-		"conf/sigmod/HoAMS97",
-		"conf/vldb/RossS97",
-		"...",
-		"...",
-		"conf/sigmod/ZhaoDN97"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS98/P274.PDF", "journals/anthology/dvd1:text/1-3/PODS98/P274.PDF"],
+	"cite": ["conf/icde/AgrawalGS97", "conf/vldb/AgarwalADGNRS96", "...", "...", "...", "conf/icde/GrayBLP96", "conf/icde/GuptaHRU97", "conf/sigmod/HarinarayanRU96", "conf/sigmod/HoAMS97", "conf/vldb/RossS97", "...", "...", "conf/sigmod/ZhaoDN97"],
 	"crossref": "conf/pods/98",
 	"dblpkey": "conf/pods/SmithLCJ98",
 	"doi": "10.1145/275487.275518",
-	"ee": "http://doi.acm.org/10.1145/275487.275518",
 	"pages": "274-283",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"dynam",
-		"assembl",
-		"of",
-		"view",
-		"in",
-		"data",
-		"cube"
-	],
-	"tag": [
-		"assembly"
-	],
+	"stemmed": ["dynam", "assembl", "of", "view", "in", "data", "cube"],
+	"tag": ["assembly"],
 	"title": "Dynamic Assembly of Views in Data Cubes",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Naga K. Govindaraju",
-		"Jim Gray",
-		"Ritesh Kumar",
-		"Dinesh Manocha"
-	],
+	"author": ["Naga K. Govindaraju", "Jim Gray", "Ritesh Kumar", "Dinesh Manocha"],
 	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/GovindarajuGKM06",
 	"doi": "10.1145/1142473.1142511",
-	"ee": "http://doi.acm.org/10.1145/1142473.1142511",
 	"pages": "325-336",
 	"publisher": "ACM",
-	"stemmed": [
-		"gpu",
-		"tera",
-		"sort",
-		"high",
-		"perform",
-		"graphic",
-		"co",
-		"processor",
-		"sort",
-		"for",
-		"larg",
-		"databas",
-		"manag"
-	],
-	"tag": [
-		"database",
-		"named",
-		"performance",
-		"scalability",
-		"sorting"
-	],
+	"stemmed": ["gpu", "tera", "sort", "high", "perform", "graphic", "co", "processor", "sort", "for", "larg", "databas", "manag"],
+	"tag": ["database", "named", "performance", "scalability", "sorting"],
 	"title": "GPUTeraSort: high performance graphics co-processor sorting for large database management",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

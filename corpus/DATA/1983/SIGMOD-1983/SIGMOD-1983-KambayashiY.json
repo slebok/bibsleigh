@@ -1,44 +1,16 @@
 {
-	"author": [
-		"Yahiko Kambayashi",
-		"Masatoshi Yoshikawa"
-	],
+	"author": ["Yahiko Kambayashi", "Masatoshi Yoshikawa"],
 	"booktitle": "Proceedings of the 13th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD83/P055.PDF",
-	"cite": [
-		"journals/tods/ArmstrongD80",
-		"conf/stoc/BeeriFMMUY81",
-		"journals/jacm/BernsteinC81",
-		"journals/siamcomp/BernsteinG81",
-		"books/fm/GareyJ79",
-		"conf/pods/GoodmanS82",
-		"conf/sigmod/KambayashiYY82",
-		"...",
-		"...",
-		"journals/tods/WongY76",
-		"..."
-	],
+	"cite": ["journals/tods/ArmstrongD80", "conf/stoc/BeeriFMMUY81", "journals/jacm/BernsteinC81", "journals/siamcomp/BernsteinG81", "books/fm/GareyJ79", "conf/pods/GoodmanS82", "conf/sigmod/KambayashiYY82", "...", "...", "journals/tods/WongY76", "..."],
 	"crossref": "conf/sigmod/83",
 	"dblpkey": "conf/sigmod/KambayashiY83",
 	"doi": "10.1145/582192.582205",
-	"ee": "http://doi.acm.org/10.1145/582192.582205",
 	"pages": "55-67",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"queri",
-		"process",
-		"util",
-		"depend",
-		"and",
-		"horizont",
-		"decomposit"
-	],
-	"tag": [
-		"composition",
-		"dependence",
-		"query"
-	],
+	"stemmed": ["queri", "process", "util", "depend", "and", "horizont", "decomposit"],
+	"tag": ["composition", "dependence", "query"],
 	"title": "Query Processing Utilizing Dependencies and Horizontal Decomposition",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

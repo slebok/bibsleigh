@@ -1,50 +1,16 @@
 {
-	"author": [
-		"Surajit Chaudhuri",
-		"Moshe Y. Vardi"
-	],
+	"author": ["Surajit Chaudhuri", "Moshe Y. Vardi"],
 	"booktitle": "Proceedings of the 12th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS93/P059.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS93/P059.PDF"
-	],
-	"cite": [
-		"journals/siamcomp/AhoSU79",
-		"journals/tods/AhoSU79",
-		"conf/stoc/ChandraM77",
-		"...",
-		"conf/pods/DayalGK82",
-		"conf/icdt/DublishBS90",
-		"books/fm/GareyJ79",
-		"...",
-		"journals/csur/JarkeK84",
-		"...",
-		"journals/jacm/Klug88",
-		"conf/vldb/MumickPR90",
-		"journals/tods/NegriPS91",
-		"conf/sigmod/SelingerACLP79",
-		"journals/tcs/Stockmeyer76",
-		"journals/jacm/SagivY80",
-		"books/cs/Ullman89"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS93/P059.PDF", "journals/anthology/dvd1:text/1-3/PODS93/P059.PDF"],
+	"cite": ["journals/siamcomp/AhoSU79", "journals/tods/AhoSU79", "conf/stoc/ChandraM77", "...", "conf/pods/DayalGK82", "conf/icdt/DublishBS90", "books/fm/GareyJ79", "...", "journals/csur/JarkeK84", "...", "journals/jacm/Klug88", "conf/vldb/MumickPR90", "journals/tods/NegriPS91", "conf/sigmod/SelingerACLP79", "journals/tcs/Stockmeyer76", "journals/jacm/SagivY80", "books/cs/Ullman89"],
 	"crossref": "conf/pods/93",
 	"dblpkey": "conf/pods/ChaudhuriV93",
 	"doi": "10.1145/153850.153856",
-	"ee": "http://doi.acm.org/10.1145/153850.153856",
 	"pages": "59-70",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"optim",
-		"of",
-		"real",
-		"conjunct",
-		"queri"
-	],
-	"tag": [
-		"optimisation",
-		"query"
-	],
+	"stemmed": ["optim", "of", "real", "conjunct", "queri"],
+	"tag": ["optimisation", "query"],
 	"title": "Optimization of Real Conjunctive Queries",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Sapan Bhatia",
-		"Charles Consel",
-		"Julia L. Lawall"
-	],
+	"author": ["Sapan Bhatia", "Charles Consel", "Julia L. Lawall"],
 	"booktitle": "Proceedings of the Fifth International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2006",
 	"dblpkey": "conf/iwmm/BhatiaCL06",
 	"doi": "10.1145/1133956.1133971",
-	"ee": "http://doi.acm.org/10.1145/1133956.1133971",
 	"pages": "104-114",
 	"publisher": "ACM",
-	"stemmed": [
-		"memori",
-		"manag",
-		"schedul",
-		"co",
-		"design",
-		"optim",
-		"event",
-		"driven",
-		"server",
-		"to",
-		"improv",
-		"cach",
-		"behavior"
-	],
-	"tag": [
-		"behaviour",
-		"co-evolution",
-		"design",
-		"optimisation"
-	],
+	"stemmed": ["memori", "manag", "schedul", "co", "design", "optim", "event", "driven", "server", "to", "improv", "cach", "behavior"],
+	"tag": ["behaviour", "co-evolution", "design", "optimisation"],
 	"title": "Memory-manager/scheduler co-design: optimizing event-driven servers to improve cache behavior",
 	"type": "inproceedings",
 	"venue": "ISMM",

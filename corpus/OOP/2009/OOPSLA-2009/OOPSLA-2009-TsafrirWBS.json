@@ -1,40 +1,16 @@
 {
-	"author": [
-		"Dan Tsafrir",
-		"Robert W. Wisniewski",
-		"David F. Bacon",
-		"Bjarne Stroustrup"
-	],
+	"author": ["Dan Tsafrir", "Robert W. Wisniewski", "David F. Bacon", "Bjarne Stroustrup"],
 	"booktitle": "Proceedings of the 24th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2009",
 	"dblpkey": "conf/oopsla/TsafrirWBS09",
 	"doi": "10.1145/1640089.1640121",
-	"editor": [
-		"Shail Arora",
-		"Gary T. Leavens"
-	],
-	"ee": "http://doi.acm.org/10.1145/1640089.1640121",
+	"editor": ["Shail Arora", "Gary T. Leavens"],
 	"isbn": "978-1-60558-766-0",
 	"pages": "425-444",
 	"publisher": "ACM",
-	"stemmed": [
-		"minim",
-		"depend",
-		"within",
-		"generic",
-		"class",
-		"for",
-		"faster",
-		"and",
-		"smaller",
-		"program"
-	],
-	"tag": [
-		"dependence",
-		"performance",
-		"source code"
-	],
+	"stemmed": ["minim", "depend", "within", "generic", "class", "for", "faster", "and", "smaller", "program"],
+	"tag": ["dependence", "performance", "source code"],
 	"title": "Minimizing dependencies within generic classes for faster and smaller programs",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

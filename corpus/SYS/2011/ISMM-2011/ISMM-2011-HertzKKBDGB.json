@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Matthew Hertz",
-		"Stephen Kane",
-		"Elizabeth Keudel",
-		"Tongxin Bai",
-		"Chen Ding",
-		"Xiaoming Gu",
-		"Jonathan E. Bard"
-	],
+	"author": ["Matthew Hertz", "Stephen Kane", "Elizabeth Keudel", "Tongxin Bai", "Chen Ding", "Xiaoming Gu", "Jonathan E. Bard"],
 	"booktitle": "Proceedings of the 10th International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2011",
 	"dblpkey": "conf/iwmm/HertzKKBDGB11",
 	"doi": "10.1145/1993478.1993487",
-	"ee": "http://doi.acm.org/10.1145/1993478.1993487",
 	"pages": "65-76",
 	"publisher": "ACM",
-	"stemmed": [
-		"wast",
-		"not",
-		"want",
-		"not",
-		"resourc",
-		"base",
-		"garbag",
-		"collect",
-		"in",
-		"a",
-		"share",
-		"environ"
-	],
-	"tag": [
-		"garbage collection"
-	],
+	"stemmed": ["wast", "not", "want", "not", "resourc", "base", "garbag", "collect", "in", "a", "share", "environ"],
+	"tag": ["garbage collection"],
 	"title": "Waste not, want not: resource-based garbage collection in a shared environment",
 	"type": "inproceedings",
 	"venue": "ISMM",

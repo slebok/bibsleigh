@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Jonathan Lifflander",
-		"Phil Miller",
-		"Laxmikant V. Kalé"
-	],
+	"author": ["Jonathan Lifflander", "Phil Miller", "Laxmikant V. Kalé"],
 	"booktitle": "Proceedings of the 18th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2013",
 	"dblpkey": "conf/ppopp/LifflanderMK13",
 	"doi": "10.1145/2442516.2442519",
-	"ee": "http://doi.acm.org/10.1145/2442516.2442519",
 	"pages": "13-22",
 	"publisher": "ACM",
-	"stemmed": [
-		"adopt",
-		"protocol",
-		"for",
-		"fanout",
-		"optim",
-		"fault",
-		"toler",
-		"termin",
-		"detect"
-	],
-	"tag": [
-		"detection",
-		"fault tolerance",
-		"protocol",
-		"termination"
-	],
+	"stemmed": ["adopt", "protocol", "for", "fanout", "optim", "fault", "toler", "termin", "detect"],
+	"tag": ["detection", "fault tolerance", "protocol", "termination"],
 	"title": "Adoption protocols for fanout-optimal fault-tolerant termination detection",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Sergio Miguel Fernandes",
-		"João P. Cachopo"
-	],
+	"author": ["Sergio Miguel Fernandes", "João P. Cachopo"],
 	"booktitle": "Proceedings of the 16th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2011",
 	"dblpkey": "conf/ppopp/FernandesC11",
 	"doi": "10.1145/1941553.1941579",
-	"ee": "http://doi.acm.org/10.1145/1941553.1941579",
 	"pages": "179-188",
 	"publisher": "ACM",
-	"stemmed": [
-		"lock",
-		"free",
-		"and",
-		"scalabl",
-		"multi",
-		"version",
-		"softwar",
-		"transact",
-		"memori"
-	],
-	"tag": [
-		"memory management",
-		"multi",
-		"scalability",
-		"transaction"
-	],
+	"stemmed": ["lock", "free", "and", "scalabl", "multi", "version", "softwar", "transact", "memori"],
+	"tag": ["memory management", "multi", "scalability", "transaction"],
 	"title": "Lock-free and scalable multi-version software transactional memory",
 	"type": "inproceedings",
 	"venue": "PPoPP",

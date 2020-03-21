@@ -1,39 +1,14 @@
 {
-	"author": [
-		"Sandya Mannarswamy",
-		"Dhruva R. Chakrabarti",
-		"Kaushik Rajan",
-		"Sujoy Saraswati"
-	],
+	"author": ["Sandya Mannarswamy", "Dhruva R. Chakrabarti", "Kaushik Rajan", "Sujoy Saraswati"],
 	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/MannarswamyCRS10",
 	"doi": "10.1145/1693453.1693460",
-	"ee": "http://doi.acm.org/10.1145/1693453.1693460",
 	"pages": "37-46",
 	"publisher": "ACM",
-	"stemmed": [
-		"compil",
-		"aid",
-		"select",
-		"lock",
-		"assign",
-		"for",
-		"improv",
-		"the",
-		"perform",
-		"of",
-		"softwar",
-		"transact",
-		"memori"
-	],
-	"tag": [
-		"compilation",
-		"memory management",
-		"performance",
-		"transaction"
-	],
+	"stemmed": ["compil", "aid", "select", "lock", "assign", "for", "improv", "the", "perform", "of", "softwar", "transact", "memori"],
+	"tag": ["compilation", "memory management", "performance", "transaction"],
 	"title": "Compiler aided selective lock assignment for improving the performance of software transactional memory",
 	"type": "inproceedings",
 	"venue": "PPoPP",

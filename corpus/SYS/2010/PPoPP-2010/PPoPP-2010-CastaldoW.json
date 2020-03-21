@@ -1,31 +1,14 @@
 {
-	"author": [
-		"Anthony M. Castaldo",
-		"R. Clint Whaley"
-	],
+	"author": ["Anthony M. Castaldo", "R. Clint Whaley"],
 	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/CastaldoW10",
 	"doi": "10.1145/1693453.1693484",
-	"ee": "http://doi.acm.org/10.1145/1693453.1693484",
 	"pages": "223-232",
 	"publisher": "ACM",
-	"stemmed": [
-		"scale",
-		"lapack",
-		"panel",
-		"oper",
-		"use",
-		"parallel",
-		"cach",
-		"assign"
-	],
-	"tag": [
-		"parallel",
-		"scalability",
-		"using"
-	],
+	"stemmed": ["scale", "lapack", "panel", "oper", "use", "parallel", "cach", "assign"],
+	"tag": ["parallel", "scalability", "using"],
 	"title": "Scaling LAPACK panel operations using parallel cache assignment",
 	"type": "inproceedings",
 	"venue": "PPoPP",

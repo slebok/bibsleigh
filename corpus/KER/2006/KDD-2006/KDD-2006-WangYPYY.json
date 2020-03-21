@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Haixun Wang",
-		"Jian Yin",
-		"Jian Pei",
-		"Philip S. Yu",
-		"Jeffrey Xu Yu"
-	],
+	"author": ["Haixun Wang", "Jian Yin", "Jian Pei", "Philip S. Yu", "Jeffrey Xu Yu"],
 	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/WangYPYY06",
 	"doi": "10.1145/1150402.1150496",
-	"ee": "http://doi.acm.org/10.1145/1150402.1150496",
 	"pages": "736-741",
 	"publisher": "ACM",
-	"stemmed": [
-		"suppress",
-		"model",
-		"overfit",
-		"in",
-		"mine",
-		"concept",
-		"drift",
-		"data",
-		"stream"
-	],
-	"tag": [
-		"concept",
-		"data type",
-		"mining"
-	],
+	"stemmed": ["suppress", "model", "overfit", "in", "mine", "concept", "drift", "data", "stream"],
+	"tag": ["concept", "data type", "mining"],
 	"title": "Suppressing model overfitting in mining concept-drifting data streams",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,38 +1,16 @@
 {
-	"author": [
-		"Yannis Smaragdakis",
-		"George Balatsouras",
-		"George Kastrinis"
-	],
+	"author": ["Yannis Smaragdakis", "George Balatsouras", "George Kastrinis"],
 	"booktitle": "Proceedings of the 28th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2013",
 	"dblpkey": "conf/oopsla/SmaragdakisBK13",
 	"doi": "10.1145/2509136.2509524",
-	"editor": [
-		"Antony L. Hosking",
-		"Patrick Th. Eugster",
-		"Cristina Videira Lopes"
-	],
-	"ee": "http://doi.acm.org/10.1145/2509136.2509524",
+	"editor": ["Antony L. Hosking", "Patrick Th. Eugster", "Cristina Videira Lopes"],
 	"isbn": "978-1-4503-2374-1",
 	"pages": "253-270",
 	"publisher": "ACM",
-	"stemmed": [
-		"set",
-		"base",
-		"pre",
-		"process",
-		"for",
-		"point",
-		"to",
-		"analysi"
-	],
-	"tag": [
-		"analysis",
-		"points-to",
-		"preprocessor"
-	],
+	"stemmed": ["set", "base", "pre", "process", "for", "point", "to", "analysi"],
+	"tag": ["analysis", "points-to", "preprocessor"],
 	"title": "Set-based pre-processing for points-to analysis",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

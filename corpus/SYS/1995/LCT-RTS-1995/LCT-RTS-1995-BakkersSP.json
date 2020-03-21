@@ -1,40 +1,14 @@
 {
-	"author": [
-		"André Bakkers",
-		"Johan Sunter",
-		"Evert Ploeg"
-	],
+	"author": ["André Bakkers", "Johan Sunter", "Evert Ploeg"],
 	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Real-Time Systems",
 	"booktitleshort": "LCT-RTS",
 	"crossref": "conf/lctrts/1995",
 	"dblpkey": "conf/lctrts/BakkersSP95",
 	"doi": "10.1145/216636.216679",
-	"ee": "http://doi.acm.org/10.1145/216636.216679",
 	"pages": "134-145",
 	"publisher": "ACM",
-	"stemmed": [
-		"automat",
-		"generat",
-		"of",
-		"schedul",
-		"and",
-		"communic",
-		"code",
-		"in",
-		"real",
-		"time",
-		"parallel",
-		"program"
-	],
-	"tag": [
-		"automation",
-		"communication",
-		"generative",
-		"parallel",
-		"realtime",
-		"scheduling",
-		"source code"
-	],
+	"stemmed": ["automat", "generat", "of", "schedul", "and", "communic", "code", "in", "real", "time", "parallel", "program"],
+	"tag": ["automation", "communication", "generative", "parallel", "realtime", "scheduling", "source code"],
 	"title": "Automatic Generation of Scheduling and Communication Code in Real-Time Parallel Programs",
 	"type": "inproceedings",
 	"venue": "LCTES",

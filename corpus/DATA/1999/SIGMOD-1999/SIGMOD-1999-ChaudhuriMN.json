@@ -1,44 +1,16 @@
 {
-	"author": [
-		"Surajit Chaudhuri",
-		"Rajeev Motwani",
-		"Vivek R. Narasayya"
-	],
+	"author": ["Surajit Chaudhuri", "Rajeev Motwani", "Vivek R. Narasayya"],
 	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "DiSC2_1/out/papers/sigmod/onrandomsamplinsurav.pdf",
-	"cite": [
-		"conf/sigmod/ChaudhuriMN98",
-		"conf/sigmod/GangulyGMS96",
-		"conf/pods/HaasNS94",
-		"conf/sigmod/HellersteinHW97",
-		"conf/sigmod/HouOD91",
-		"journals/tcs/LiptonNSS93",
-		"books/cu/MotwaniR95",
-		"conf/icdt/NaughtonS90",
-		"conf/vldb/OlkenR86",
-		"...",
-		"conf/sigmod/Piatetsky-ShapiroC84",
-		"journals/toms/Vitter85",
-		"books/aw/Zipf49"
-	],
+	"cite": ["conf/sigmod/ChaudhuriMN98", "conf/sigmod/GangulyGMS96", "conf/pods/HaasNS94", "conf/sigmod/HellersteinHW97", "conf/sigmod/HouOD91", "journals/tcs/LiptonNSS93", "books/cu/MotwaniR95", "conf/icdt/NaughtonS90", "conf/vldb/OlkenR86", "...", "conf/sigmod/Piatetsky-ShapiroC84", "journals/toms/Vitter85", "books/aw/Zipf49"],
 	"crossref": "conf/sigmod/99",
 	"dblpkey": "conf/sigmod/ChaudhuriMN99",
 	"doi": "10.1145/304182.304206",
-	"ee": "http://doi.acm.org/10.1145/304182.304206",
 	"pages": "263-274",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"on",
-		"random",
-		"sampl",
-		"over",
-		"join"
-	],
-	"tag": [
-		"on the",
-		"random"
-	],
+	"stemmed": ["on", "random", "sampl", "over", "join"],
+	"tag": ["on the", "random"],
 	"title": "On Random Sampling over Joins",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

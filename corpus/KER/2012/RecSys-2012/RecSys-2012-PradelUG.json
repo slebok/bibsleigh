@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Bruno Pradel",
-		"Nicolas Usunier",
-		"Patrick Gallinari"
-	],
+	"author": ["Bruno Pradel", "Nicolas Usunier", "Patrick Gallinari"],
 	"booktitle": "Proceedings of the Sixth Conference on Recommender Systems",
 	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2012",
 	"dblpkey": "conf/recsys/PradelUG12",
 	"doi": "10.1145/2365952.2365982",
-	"ee": "http://doi.acm.org/10.1145/2365952.2365982",
 	"pages": "147-154",
 	"publisher": "ACM",
-	"stemmed": [
-		"rank",
-		"with",
-		"non",
-		"random",
-		"miss",
-		"rate",
-		"influenc",
-		"of",
-		"popular",
-		"and",
-		"posit",
-		"on",
-		"evalu",
-		"metric"
-	],
-	"tag": [
-		"evaluation",
-		"metric",
-		"ranking"
-	],
+	"stemmed": ["rank", "with", "non", "random", "miss", "rate", "influenc", "of", "popular", "and", "posit", "on", "evalu", "metric"],
+	"tag": ["evaluation", "metric", "ranking"],
 	"title": "Ranking with non-random missing ratings: influence of popularity and positivity on evaluation metrics",
 	"type": "inproceedings",
 	"venue": "RecSys",

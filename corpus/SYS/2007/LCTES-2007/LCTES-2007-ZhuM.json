@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Yifan Zhu",
-		"Frank Müller"
-	],
+	"author": ["Yifan Zhu", "Frank Müller"],
 	"booktitle": "Proceedings of the Eighth Conference on Languages, Compilers, and Tools for Embedded Systems",
 	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2007",
 	"dblpkey": "conf/lctrts/ZhuM07",
 	"doi": "10.1145/1254766.1254772",
-	"ee": "http://doi.acm.org/10.1145/1254766.1254772",
 	"pages": "31-40",
 	"publisher": "ACM",
-	"stemmed": [
-		"dv",
-		"sleak",
-		"combin",
-		"leakag",
-		"reduct",
-		"and",
-		"voltag",
-		"scale",
-		"in",
-		"feedback",
-		"edf",
-		"schedul"
-	],
-	"tag": [
-		"feedback",
-		"named",
-		"reduction",
-		"scalability",
-		"scheduling"
-	],
+	"stemmed": ["dv", "sleak", "combin", "leakag", "reduct", "and", "voltag", "scale", "in", "feedback", "edf", "schedul"],
+	"tag": ["feedback", "named", "reduction", "scalability", "scheduling"],
 	"title": "DVSleak: combining leakage reduction and voltage scaling in feedback EDF scheduling",
 	"type": "inproceedings",
 	"venue": "LCTES",

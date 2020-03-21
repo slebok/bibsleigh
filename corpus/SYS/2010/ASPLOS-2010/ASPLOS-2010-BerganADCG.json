@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Tom Bergan",
-		"Owen Anderson",
-		"Joseph Devietti",
-		"Luis Ceze",
-		"Dan Grossman"
-	],
+	"author": ["Tom Bergan", "Owen Anderson", "Joseph Devietti", "Luis Ceze", "Dan Grossman"],
 	"booktitle": "Proceedings of the 15th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2010",
 	"dblpkey": "conf/asplos/BerganADCG10",
 	"doi": "10.1145/1736020.1736029",
-	"ee": "http://doi.acm.org/10.1145/1736020.1736029",
 	"pages": "53-64",
 	"publisher": "ACM",
-	"stemmed": [
-		"core",
-		"det",
-		"a",
-		"compil",
-		"and",
-		"runtim",
-		"system",
-		"for",
-		"determinist",
-		"multithread",
-		"execut"
-	],
-	"tag": [
-		"compilation",
-		"execution",
-		"named",
-		"parallel",
-		"runtime",
-		"thread"
-	],
+	"stemmed": ["core", "det", "a", "compil", "and", "runtim", "system", "for", "determinist", "multithread", "execut"],
+	"tag": ["compilation", "execution", "named", "parallel", "runtime", "thread"],
 	"title": "CoreDet: a compiler and runtime system for deterministic multithreaded execution",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

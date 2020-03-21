@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Ren-Shuo Liu",
-		"De-Yu Shen",
-		"Chia-Lin Yang",
-		"Shun-Chih Yu",
-		"Cheng-Yuan Michael Wang"
-	],
+	"author": ["Ren-Shuo Liu", "De-Yu Shen", "Chia-Lin Yang", "Shun-Chih Yu", "Cheng-Yuan Michael Wang"],
 	"booktitle": "Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2014",
 	"dblpkey": "conf/asplos/LiuSYYW14",
 	"doi": "10.1145/2541940.2541957",
-	"ee": "http://doi.acm.org/10.1145/2541940.2541957",
 	"pages": "455-470",
 	"publisher": "ACM",
-	"stemmed": [
-		"nvm",
-		"duet",
-		"unifi",
-		"work",
-		"memori",
-		"and",
-		"persist",
-		"store",
-		"architectur"
-	],
-	"tag": [
-		"architecture",
-		"memory management",
-		"persistent"
-	],
+	"stemmed": ["nvm", "duet", "unifi", "work", "memori", "and", "persist", "store", "architectur"],
+	"tag": ["architecture", "memory management", "persistent"],
 	"title": "NVM duet: unified working memory and persistent store architecture",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

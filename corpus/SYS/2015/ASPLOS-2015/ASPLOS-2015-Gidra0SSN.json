@@ -1,39 +1,14 @@
 {
-	"author": [
-		"Lokesh Gidra",
-		"Gaël Thomas",
-		"Julien Sopena",
-		"Marc Shapiro",
-		"Nhan Nguyen"
-	],
+	"author": ["Lokesh Gidra", "Gaël Thomas", "Julien Sopena", "Marc Shapiro", "Nhan Nguyen"],
 	"booktitle": "Proceedings of the 20th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2015",
 	"dblpkey": "conf/asplos/Gidra0SSN15",
 	"doi": "10.1145/2694344.2694361",
-	"ee": "http://doi.acm.org/10.1145/2694344.2694361",
 	"pages": "661-673",
 	"publisher": "ACM",
-	"stemmed": [
-		"numa",
-		"gi",
-		"c",
-		"a",
-		"garbag",
-		"collector",
-		"for",
-		"big",
-		"data",
-		"on",
-		"big",
-		"numa",
-		"machin"
-	],
-	"tag": [
-		"big data",
-		"garbage collection",
-		"named"
-	],
+	"stemmed": ["numa", "gi", "c", "a", "garbag", "collector", "for", "big", "data", "on", "big", "numa", "machin"],
+	"tag": ["big data", "garbage collection", "named"],
 	"title": "NumaGiC: a Garbage Collector for Big Data on Big NUMA Machines",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

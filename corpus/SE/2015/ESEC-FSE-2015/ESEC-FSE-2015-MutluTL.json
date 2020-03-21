@@ -1,29 +1,14 @@
 {
-	"author": [
-		"Erdal Mutlu",
-		"Serdar Tasiran",
-		"Benjamin Livshits"
-	],
+	"author": ["Erdal Mutlu", "Serdar Tasiran", "Benjamin Livshits"],
 	"booktitle": "Proceedings of the 10th Joint Meeting of the 15th European Software Engineering Conference and the 23rd Symposium on the Foundations of Software Engineering",
 	"booktitleshort": "ESEC/SIGSOFT FSE",
 	"crossref": "conf/sigsoft/2015",
 	"dblpkey": "conf/sigsoft/MutluTL15",
 	"doi": "10.1145/2786805.2786820",
-	"ee": "http://doi.acm.org/10.1145/2786805.2786820",
 	"pages": "381-392",
 	"publisher": "ACM",
-	"stemmed": [
-		"detect",
-		"javascript",
-		"race",
-		"that",
-		"matter"
-	],
-	"tag": [
-		"detection",
-		"javascript",
-		"matter"
-	],
+	"stemmed": ["detect", "javascript", "race", "that", "matter"],
+	"tag": ["detection", "javascript", "matter"],
 	"title": "Detecting JavaScript races that matter",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

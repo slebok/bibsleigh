@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Darius Sidlauskas",
-		"Simonas Saltenis",
-		"Christian S. Jensen"
-	],
+	"author": ["Darius Sidlauskas", "Simonas Saltenis", "Christian S. Jensen"],
 	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/SidlauskasSJ12",
 	"doi": "10.1145/2213836.2213842",
-	"ee": "http://doi.acm.org/10.1145/2213836.2213842",
 	"pages": "37-48",
 	"publisher": "ACM",
-	"stemmed": [
-		"parallel",
-		"main",
-		"memori",
-		"index",
-		"for",
-		"move",
-		"object",
-		"queri",
-		"and",
-		"updat",
-		"workload"
-	],
-	"tag": [
-		"in memory",
-		"parallel",
-		"query"
-	],
+	"stemmed": ["parallel", "main", "memori", "index", "for", "move", "object", "queri", "and", "updat", "workload"],
+	"tag": ["in memory", "parallel", "query"],
 	"title": "Parallel main-memory indexing for moving-object query and update workloads",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

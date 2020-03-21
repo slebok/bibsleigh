@@ -1,29 +1,14 @@
 {
-	"author": [
-		"Jelani Nelson",
-		"David P. Woodruff"
-	],
+	"author": ["Jelani Nelson", "David P. Woodruff"],
 	"booktitle": "Proceedings of the 29th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2010",
 	"dblpkey": "conf/pods/NelsonW10",
 	"doi": "10.1145/1807085.1807101",
-	"ee": "http://doi.acm.org/10.1145/1807085.1807101",
 	"pages": "99-110",
 	"publisher": "ACM",
-	"stemmed": [
-		"fast",
-		"manhattan",
-		"sketch",
-		"in",
-		"data",
-		"stream"
-	],
-	"tag": [
-		"data type",
-		"performance",
-		"sketching"
-	],
+	"stemmed": ["fast", "manhattan", "sketch", "in", "data", "stream"],
+	"tag": ["data type", "performance", "sketching"],
 	"title": "Fast Manhattan sketches in data streams",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Abel Gordon",
-		"Nadav Amit",
-		"Nadav Har'El",
-		"Muli Ben-Yehuda",
-		"Alex Landau",
-		"Assaf Schuster",
-		"Dan Tsafrir"
-	],
+	"author": ["Abel Gordon", "Nadav Amit", "Nadav Har'El", "Muli Ben-Yehuda", "Alex Landau", "Assaf Schuster", "Dan Tsafrir"],
 	"booktitle": "Proceedings of the 17th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2012",
 	"dblpkey": "conf/asplos/GordonAHBLST12",
 	"doi": "10.1145/2150976.2151020",
-	"ee": "http://doi.acm.org/10.1145/2150976.2151020",
 	"pages": "411-422",
 	"publisher": "ACM",
-	"stemmed": [
-		"eli",
-		"bare",
-		"metal",
-		"perform",
-		"for",
-		"i",
-		"o",
-		"virtual"
-	],
-	"tag": [
-		"eli",
-		"named",
-		"performance"
-	],
+	"stemmed": ["eli", "bare", "metal", "perform", "for", "i", "o", "virtual"],
+	"tag": ["eli", "named", "performance"],
 	"title": "ELI: bare-metal performance for I/O virtualization",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

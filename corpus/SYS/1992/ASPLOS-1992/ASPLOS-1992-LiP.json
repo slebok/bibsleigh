@@ -1,30 +1,15 @@
 {
-	"author": [
-		"Wei Li",
-		"Keshav Pingali"
-	],
+	"author": ["Wei Li", "Keshav Pingali"],
 	"booktitle": "Proceedings of the Fifth International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1992",
 	"dblpkey": "conf/asplos/LiP92",
 	"doi": "10.1145/143365.143541",
-	"ee": "http://doi.acm.org/10.1145/143365.143541",
 	"note": "long version: TOCS 11(4): 353-375",
 	"pages": "285-295",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"access",
-		"normal",
-		"loop",
-		"restructur",
-		"for",
-		"numa",
-		"compil"
-	],
-	"tag": [
-		"compilation",
-		"normalisation"
-	],
+	"stemmed": ["access", "normal", "loop", "restructur", "for", "numa", "compil"],
+	"tag": ["compilation", "normalisation"],
 	"title": "Access Normalization: Loop Restructuring for NUMA Compilers",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

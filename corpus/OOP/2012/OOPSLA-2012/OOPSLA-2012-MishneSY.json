@@ -1,37 +1,16 @@
 {
-	"author": [
-		"Alon Mishne",
-		"Sharon Shoham",
-		"Eran Yahav"
-	],
+	"author": ["Alon Mishne", "Sharon Shoham", "Eran Yahav"],
 	"booktitle": "Proceedings of the 27th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2012",
 	"dblpkey": "conf/oopsla/MishneSY12",
 	"doi": "10.1145/2384616.2384689",
-	"editor": [
-		"Gary T. Leavens",
-		"Matthew B. Dwyer"
-	],
-	"ee": "http://doi.acm.org/10.1145/2384616.2384689",
+	"editor": ["Gary T. Leavens", "Matthew B. Dwyer"],
 	"isbn": "978-1-4503-1561-6",
 	"pages": "997-1016",
 	"publisher": "ACM",
-	"stemmed": [
-		"typest",
-		"base",
-		"semant",
-		"code",
-		"search",
-		"over",
-		"partial",
-		"program"
-	],
-	"tag": [
-		"code search",
-		"semantics",
-		"source code"
-	],
+	"stemmed": ["typest", "base", "semant", "code", "search", "over", "partial", "program"],
+	"tag": ["code search", "semantics", "source code"],
 	"title": "Typestate-based semantic code search over partial programs",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

@@ -1,50 +1,16 @@
 {
-	"author": [
-		"Eljas Soisalon-Soininen",
-		"Derick Wood"
-	],
+	"author": ["Eljas Soisalon-Soininen", "Derick Wood"],
 	"booktitle": "Proceedings of the First Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS82/P108.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS82/P108.PDF"
-	],
-	"cite": [
-		"books/aw/AhoHU74",
-		"...",
-		"journals/cacm/EswarranGLT76",
-		"journals/jal/LipskiP81b",
-		"conf/focs/YannakakisPK79"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS82/P108.PDF", "journals/anthology/dvd1:text/1-3/PODS82/P108.PDF"],
+	"cite": ["books/aw/AhoHU74", "...", "journals/cacm/EswarranGLT76", "journals/jal/LipskiP81b", "conf/focs/YannakakisPK79"],
 	"crossref": "conf/pods/82",
 	"dblpkey": "conf/pods/Soisalon-SoininenW82",
 	"doi": "10.1145/588111.588130",
-	"ee": "http://doi.acm.org/10.1145/588111.588130",
 	"pages": "108-116",
 	"publisher": "ACM",
-	"stemmed": [
-		"an",
-		"optim",
-		"algorithm",
-		"for",
-		"test",
-		"for",
-		"safeti",
-		"and",
-		"detect",
-		"deadlock",
-		"in",
-		"lock",
-		"transact",
-		"system"
-	],
-	"tag": [
-		"algorithm",
-		"detection",
-		"safety",
-		"testing",
-		"transaction"
-	],
+	"stemmed": ["an", "optim", "algorithm", "for", "test", "for", "safeti", "and", "detect", "deadlock", "in", "lock", "transact", "system"],
+	"tag": ["algorithm", "detection", "safety", "testing", "transaction"],
 	"title": "An Optimal Algorithm for Testing for Safety and Detecting Deadlocks in Locked Transaction Systems",
 	"type": "inproceedings",
 	"venue": "PODS",

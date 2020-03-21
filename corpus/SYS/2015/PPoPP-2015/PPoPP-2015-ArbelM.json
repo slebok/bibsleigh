@@ -1,30 +1,14 @@
 {
-	"author": [
-		"Maya Arbel",
-		"Adam Morrison"
-	],
+	"author": ["Maya Arbel", "Adam Morrison"],
 	"booktitle": "Proceedings of the 20th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2015",
 	"dblpkey": "conf/ppopp/ArbelM15",
 	"doi": "10.1145/2688500.2688518",
-	"ee": "http://doi.acm.org/10.1145/2688500.2688518",
 	"pages": "21-30",
 	"publisher": "ACM",
-	"stemmed": [
-		"predic",
-		"rcu",
-		"an",
-		"rcu",
-		"for",
-		"scalabl",
-		"concurr",
-		"updat"
-	],
-	"tag": [
-		"concurrent",
-		"scalability"
-	],
+	"stemmed": ["predic", "rcu", "an", "rcu", "for", "scalabl", "concurr", "updat"],
+	"tag": ["concurrent", "scalability"],
 	"title": "Predicate RCU: an RCU for scalable concurrent updates",
 	"type": "inproceedings",
 	"venue": "PPoPP",

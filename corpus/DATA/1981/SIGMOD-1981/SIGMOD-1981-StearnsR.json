@@ -1,47 +1,16 @@
 {
-	"author": [
-		"Richard Edwin Stearns",
-		"Daniel J. Rosenkrantz"
-	],
+	"author": ["Richard Edwin Stearns", "Daniel J. Rosenkrantz"],
 	"booktitle": "Proceedings of the 11th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD81/P074.PDF",
-	"cite": [
-		"conf/vldb/BayerEHR80",
-		"journals/tods/BayerHR80",
-		"conf/vldb/BernsteinG80a",
-		"...",
-		"journals/cacm/EswarranGLT76",
-		"conf/ac/Gray78",
-		"...",
-		"journals/cacm/Lamport78",
-		"...",
-		"journals/tods/RosenkrantzSL78",
-		"journals/siamcomp/RosenkrantzSL84",
-		"conf/focs/StearnsLR76",
-		"conf/berkeley/StonebrakerN77"
-	],
+	"cite": ["conf/vldb/BayerEHR80", "journals/tods/BayerHR80", "conf/vldb/BernsteinG80a", "...", "journals/cacm/EswarranGLT76", "conf/ac/Gray78", "...", "journals/cacm/Lamport78", "...", "journals/tods/RosenkrantzSL78", "journals/siamcomp/RosenkrantzSL84", "conf/focs/StearnsLR76", "conf/berkeley/StonebrakerN77"],
 	"crossref": "conf/sigmod/81",
 	"dblpkey": "conf/sigmod/StearnsR81",
 	"doi": "10.1145/582318.582330",
-	"ee": "http://doi.acm.org/10.1145/582318.582330",
 	"pages": "74-83",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"distribut",
-		"databas",
-		"concurr",
-		"control",
-		"use",
-		"befor",
-		"valu"
-	],
-	"tag": [
-		"concurrent",
-		"database",
-		"distributed",
-		"using"
-	],
+	"stemmed": ["distribut", "databas", "concurr", "control", "use", "befor", "valu"],
+	"tag": ["concurrent", "database", "distributed", "using"],
 	"title": "Distributed Database Concurrency Controls Using Before-Values",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,45 +1,16 @@
 {
-	"author": [
-		"D. M. Chiu",
-		"Yu-Chi Ho"
-	],
+	"author": ["D. M. Chiu", "Yu-Chi Ho"],
 	"booktitle": "Proceedings of the 10th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD80/P169.PDF",
-	"cite": [
-		"conf/berkeley/Wong77",
-		"journals/jacm/BernsteinC81",
-		"journals/tse/HevnerY79",
-		"...",
-		"journals/tods/RothnieBFGHLRSW80",
-		"...",
-		"...",
-		"...",
-		"conf/sigmod/AhoSU78",
-		"persons/Codd72"
-	],
+	"cite": ["conf/berkeley/Wong77", "journals/jacm/BernsteinC81", "journals/tse/HevnerY79", "...", "journals/tods/RothnieBFGHLRSW80", "...", "...", "...", "conf/sigmod/AhoSU78", "persons/Codd72"],
 	"crossref": "conf/sigmod/80",
 	"dblpkey": "conf/sigmod/ChiuH80",
 	"doi": "10.1145/582250.582277",
-	"ee": "http://doi.acm.org/10.1145/582250.582277",
 	"pages": "169-178",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"a",
-		"methodolog",
-		"for",
-		"interpret",
-		"tree",
-		"queri",
-		"into",
-		"optim",
-		"semi",
-		"join",
-		"express"
-	],
-	"tag": [
-		"query"
-	],
+	"stemmed": ["a", "methodolog", "for", "interpret", "tree", "queri", "into", "optim", "semi", "join", "express"],
+	"tag": ["query"],
 	"title": "A Methodology for Interpreting Tree Queries Into Optimal Semi-Join Expressions",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

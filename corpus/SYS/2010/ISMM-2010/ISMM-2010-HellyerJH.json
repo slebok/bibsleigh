@@ -1,29 +1,14 @@
 {
-	"author": [
-		"Laurence Hellyer",
-		"Richard E. Jones",
-		"Antony L. Hosking"
-	],
+	"author": ["Laurence Hellyer", "Richard E. Jones", "Antony L. Hosking"],
 	"booktitle": "Proceedings of the Ninth International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2010",
 	"dblpkey": "conf/iwmm/HellyerJH10",
 	"doi": "10.1145/1806651.1806666",
-	"ee": "http://doi.acm.org/10.1145/1806651.1806666",
 	"pages": "83-92",
 	"publisher": "ACM",
-	"stemmed": [
-		"the",
-		"local",
-		"of",
-		"concurr",
-		"write",
-		"barrier"
-	],
-	"tag": [
-		"concurrent",
-		"locality"
-	],
+	"stemmed": ["the", "local", "of", "concurr", "write", "barrier"],
+	"tag": ["concurrent", "locality"],
 	"title": "The locality of concurrent write barriers",
 	"type": "inproceedings",
 	"venue": "ISMM",

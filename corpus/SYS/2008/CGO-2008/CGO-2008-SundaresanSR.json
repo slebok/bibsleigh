@@ -1,28 +1,14 @@
 {
-	"author": [
-		"Vijay Sundaresan",
-		"Mark G. Stoodley",
-		"Pramod Ramarao"
-	],
+	"author": ["Vijay Sundaresan", "Mark G. Stoodley", "Pramod Ramarao"],
 	"booktitle": "Proceedings of the Sixth International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2008",
 	"dblpkey": "conf/cgo/SundaresanSR08",
 	"doi": "10.1145/1356058.1356077",
-	"ee": "http://doi.acm.org/10.1145/1356058.1356077",
 	"pages": "134-143",
 	"publisher": "ACM",
-	"stemmed": [
-		"remov",
-		"redund",
-		"via",
-		"except",
-		"check",
-		"motion"
-	],
-	"tag": [
-		"exception"
-	],
+	"stemmed": ["remov", "redund", "via", "except", "check", "motion"],
+	"tag": ["exception"],
 	"title": "Removing redundancy via exception check motion",
 	"type": "inproceedings",
 	"venue": "CGO",

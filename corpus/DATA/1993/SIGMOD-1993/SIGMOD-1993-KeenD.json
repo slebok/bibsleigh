@@ -1,42 +1,16 @@
 {
-	"author": [
-		"John S. Keen",
-		"William J. Dally"
-	],
+	"author": ["John S. Keen", "William J. Dally"],
 	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD93/P187.PDF",
-	"cite": [
-		"books/aw/BernsteinHG87",
-		"books/mg/CormenLR89",
-		"journals/cacm/DeWittG92",
-		"journals/csur/GrayMBLLPPT81",
-		"journals/csur/HarderR83",
-		"...",
-		"...",
-		"journals/cacm/KaunitzE84",
-		"...",
-		"journals/cacm/LiebermanH83",
-		"...",
-		"journals/cacm/Stonebraker81"
-	],
+	"cite": ["books/aw/BernsteinHG87", "books/mg/CormenLR89", "journals/cacm/DeWittG92", "journals/csur/GrayMBLLPPT81", "journals/csur/HarderR83", "...", "...", "journals/cacm/KaunitzE84", "...", "journals/cacm/LiebermanH83", "...", "journals/cacm/Stonebraker81"],
 	"crossref": "conf/sigmod/93",
 	"dblpkey": "conf/sigmod/KeenD93",
 	"doi": "10.1145/170035.170070",
-	"ee": "http://doi.acm.org/10.1145/170035.170070",
 	"pages": "187-196",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"perform",
-		"evalu",
-		"of",
-		"ephemer",
-		"log"
-	],
-	"tag": [
-		"evaluation",
-		"performance"
-	],
+	"stemmed": ["perform", "evalu", "of", "ephemer", "log"],
+	"tag": ["evaluation", "performance"],
 	"title": "Performance Evaluation of Ephemeral Logging",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

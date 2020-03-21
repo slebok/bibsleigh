@@ -1,55 +1,16 @@
 {
-	"author": [
-		"Jan Chomicki",
-		"Tomasz Imielinski"
-	],
+	"author": ["Jan Chomicki", "Tomasz Imielinski"],
 	"booktitle": "Proceedings of the Seventh Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS88/P061.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS88/P061.PDF"
-	],
-	"cite": [
-		"journals/cacm/Allen83",
-		"journals/ai/Allen84",
-		"conf/slp/AbadiM87",
-		"conf/sigmod/BarbicP85",
-		"journals/tods/CliffordW83",
-		"...",
-		"journals/ai/DeanM87",
-		"books/fm/GareyJ79",
-		"books/aw/HopcroftU79",
-		"journals/jlp/Imielinski87",
-		"...",
-		"journals/jcss/Plaisted84",
-		"...",
-		"conf/pods/RamakrishnanBS87",
-		"journals/jacm/SistlaC85",
-		"journals/sigmod/Snodgrass86",
-		"journals/tods/Snodgrass87",
-		"conf/stoc/Vardi82",
-		"...",
-		"journals/jacm/EmdenK76"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS88/P061.PDF", "journals/anthology/dvd1:text/1-3/PODS88/P061.PDF"],
+	"cite": ["journals/cacm/Allen83", "journals/ai/Allen84", "conf/slp/AbadiM87", "conf/sigmod/BarbicP85", "journals/tods/CliffordW83", "...", "journals/ai/DeanM87", "books/fm/GareyJ79", "books/aw/HopcroftU79", "journals/jlp/Imielinski87", "...", "journals/jcss/Plaisted84", "...", "conf/pods/RamakrishnanBS87", "journals/jacm/SistlaC85", "journals/sigmod/Snodgrass86", "journals/tods/Snodgrass87", "conf/stoc/Vardi82", "...", "journals/jacm/EmdenK76"],
 	"crossref": "conf/pods/88",
 	"dblpkey": "conf/pods/ChomickiI88",
 	"doi": "10.1145/308386.308416",
-	"ee": "http://doi.acm.org/10.1145/308386.308416",
 	"pages": "61-73",
 	"publisher": "ACM",
-	"stemmed": [
-		"tempor",
-		"deduct",
-		"databas",
-		"and",
-		"infinit",
-		"object"
-	],
-	"tag": [
-		"database",
-		"deduction",
-		"infinity"
-	],
+	"stemmed": ["tempor", "deduct", "databas", "and", "infinit", "object"],
+	"tag": ["database", "deduction", "infinity"],
 	"title": "Temporal Deductive Databases and Infinite Objects",
 	"type": "inproceedings",
 	"venue": "PODS",

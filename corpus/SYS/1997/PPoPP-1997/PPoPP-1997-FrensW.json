@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Jeremy D. Frens",
-		"David S. Wise"
-	],
+	"author": ["Jeremy D. Frens", "David S. Wise"],
 	"booktitle": "Proceedings of the Sixth Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1997",
 	"dblpkey": "conf/ppopp/FrensW97",
 	"doi": "10.1145/263764.263789",
-	"ee": "http://doi.acm.org/10.1145/263764.263789",
 	"pages": "206-216",
 	"publisher": "ACM",
-	"stemmed": [
-		"auto",
-		"block",
-		"matrix",
-		"multipl",
-		"or",
-		"track",
-		"blas",
-		"perform",
-		"with",
-		"sourc",
-		"code"
-	],
-	"tag": [
-		"multi",
-		"performance",
-		"source code"
-	],
+	"stemmed": ["auto", "block", "matrix", "multipl", "or", "track", "blas", "perform", "with", "sourc", "code"],
+	"tag": ["multi", "performance", "source code"],
 	"title": "Auto-blocking Matrix-Multiplication or Tracking BLAS3 Performance with Source Code",
 	"type": "inproceedings",
 	"venue": "PPoPP",

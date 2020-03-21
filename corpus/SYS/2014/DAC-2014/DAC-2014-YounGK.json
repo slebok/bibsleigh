@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Sangho Youn",
-		"Chenjie Gu",
-		"Jaeha Kim"
-	],
+	"author": ["Sangho Youn", "Chenjie Gu", "Jaeha Kim"],
 	"booktitle": "Proceedings of the 51st Annual Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2014",
 	"dblpkey": "conf/dac/YounGK14",
 	"doi": "10.1145/2593069.2593190",
-	"ee": "http://doi.acm.org/10.1145/2593069.2593190",
 	"pages": "120:1-120:6",
 	"publisher": "ACM",
-	"stemmed": [
-		"probabilist",
-		"bug",
-		"local",
-		"via",
-		"statist",
-		"infer",
-		"base",
-		"on",
-		"partial",
-		"observ",
-		"data"
-	],
-	"tag": [
-		"debugging",
-		"locality",
-		"probability",
-		"statistics"
-	],
+	"stemmed": ["probabilist", "bug", "local", "via", "statist", "infer", "base", "on", "partial", "observ", "data"],
+	"tag": ["debugging", "locality", "probability", "statistics"],
 	"title": "Probabilistic Bug Localization via Statistical Inference based on Partially Observed Data",
 	"type": "inproceedings",
 	"venue": "DAC",

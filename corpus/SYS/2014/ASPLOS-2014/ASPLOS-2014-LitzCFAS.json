@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Heiner Litz",
-		"David R. Cheriton",
-		"Amin Firoozshahian",
-		"Omid Azizi",
-		"John P. Stevenson"
-	],
+	"author": ["Heiner Litz", "David R. Cheriton", "Amin Firoozshahian", "Omid Azizi", "John P. Stevenson"],
 	"booktitle": "Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2014",
 	"dblpkey": "conf/asplos/LitzCFAS14",
 	"doi": "10.1145/2541940.2541952",
-	"ee": "http://doi.acm.org/10.1145/2541940.2541952",
 	"pages": "383-398",
 	"publisher": "ACM",
-	"stemmed": [
-		"si",
-		"tm",
-		"reduc",
-		"transact",
-		"memori",
-		"abort",
-		"rate",
-		"through",
-		"snapshot",
-		"isol"
-	],
-	"tag": [
-		"memory management",
-		"named",
-		"transaction"
-	],
+	"stemmed": ["si", "tm", "reduc", "transact", "memori", "abort", "rate", "through", "snapshot", "isol"],
+	"tag": ["memory management", "named", "transaction"],
 	"title": "SI-TM: reducing transactional memory abort rates through snapshot isolation",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

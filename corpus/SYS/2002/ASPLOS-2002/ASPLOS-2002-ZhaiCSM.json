@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Antonia Zhai",
-		"Christopher B. Colohan",
-		"J. Gregory Steffan",
-		"Todd C. Mowry"
-	],
+	"author": ["Antonia Zhai", "Christopher B. Colohan", "J. Gregory Steffan", "Todd C. Mowry"],
 	"booktitle": "Proceedings of the 10th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2002",
 	"dblpkey": "conf/asplos/ZhaiCSM02",
 	"doi": "10.1145/605397.605416",
-	"ee": "http://doi.acm.org/10.1145/605397.605416",
 	"pages": "171-183",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"compil",
-		"optim",
-		"of",
-		"scalar",
-		"valu",
-		"communic",
-		"between",
-		"specul",
-		"thread"
-	],
-	"tag": [
-		"communication",
-		"compilation",
-		"optimisation",
-		"thread"
-	],
+	"stemmed": ["compil", "optim", "of", "scalar", "valu", "communic", "between", "specul", "thread"],
+	"tag": ["communication", "compilation", "optimisation", "thread"],
 	"title": "Compiler optimization of scalar value communication between speculative threads",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

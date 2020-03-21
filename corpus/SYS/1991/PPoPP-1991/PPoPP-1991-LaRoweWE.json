@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Richard P. LaRowe Jr.",
-		"James T. Wilkes",
-		"Carla Schlatter Ellis"
-	],
+	"author": ["Richard P. LaRowe Jr.", "James T. Wilkes", "Carla Schlatter Ellis"],
 	"booktitle": "Proceedings of the Third Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1991",
 	"dblpkey": "conf/ppopp/LaRoweWE91",
 	"doi": "10.1145/109625.109639",
-	"ee": "http://doi.acm.org/10.1145/109625.109639",
 	"pages": "122-132",
 	"publisher": "ACM",
-	"stemmed": [
-		"exploit",
-		"oper",
-		"system",
-		"support",
-		"for",
-		"dynam",
-		"page",
-		"placement",
-		"on",
-		"a",
-		"numa",
-		"share",
-		"memori",
-		"multiprocessor"
-	],
-	"tag": [
-		"memory management",
-		"multi",
-		"operating system"
-	],
+	"stemmed": ["exploit", "oper", "system", "support", "for", "dynam", "page", "placement", "on", "a", "numa", "share", "memori", "multiprocessor"],
+	"tag": ["memory management", "multi", "operating system"],
 	"title": "Exploiting Operating System Support for Dynamic Page Placement on a NUMA Shared Memory Multiprocessor",
 	"type": "inproceedings",
 	"venue": "PPoPP",

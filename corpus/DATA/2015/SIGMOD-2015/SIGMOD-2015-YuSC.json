@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Lele Yu",
-		"Yingxia Shao",
-		"Bin Cui"
-	],
+	"author": ["Lele Yu", "Yingxia Shao", "Bin Cui"],
 	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/YuSC15",
 	"doi": "10.1145/2723372.2723712",
-	"ee": "http://doi.acm.org/10.1145/2723372.2723712",
 	"pages": "93-105",
 	"publisher": "ACM",
-	"stemmed": [
-		"exploit",
-		"matrix",
-		"depend",
-		"for",
-		"effici",
-		"distribut",
-		"matrix",
-		"comput"
-	],
-	"tag": [
-		"dependence",
-		"distributed",
-		"matrix",
-		"performance"
-	],
+	"stemmed": ["exploit", "matrix", "depend", "for", "effici", "distribut", "matrix", "comput"],
+	"tag": ["dependence", "distributed", "matrix", "performance"],
 	"title": "Exploiting Matrix Dependency for Efficient Distributed Matrix Computation",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

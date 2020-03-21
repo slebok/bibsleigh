@@ -2,44 +2,15 @@
 	"author": "Carla Schlatter Ellis",
 	"booktitle": "Proceedings of the Fourth Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS85/P001.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS85/P001.PDF"
-	],
-	"cite": [
-		"journals/acta/BayerS77",
-		"conf/pods/Ellis83",
-		"journals/acta/Ellis80",
-		"...",
-		"journals/tods/FaginNPS79",
-		"...",
-		"journals/tods/KungL80",
-		"journals/tse/KwongW82",
-		"journals/bit/Larson78",
-		"journals/tods/LehmanY81",
-		"conf/vldb/Litwin80",
-		"journals/tods/Lomet83",
-		"conf/pods/ManberL82",
-		"...",
-		"...",
-		"..."
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS85/P001.PDF", "journals/anthology/dvd1:text/1-3/PODS85/P001.PDF"],
+	"cite": ["journals/acta/BayerS77", "conf/pods/Ellis83", "journals/acta/Ellis80", "...", "journals/tods/FaginNPS79", "...", "journals/tods/KungL80", "journals/tse/KwongW82", "journals/bit/Larson78", "journals/tods/LehmanY81", "conf/vldb/Litwin80", "journals/tods/Lomet83", "conf/pods/ManberL82", "...", "...", "..."],
 	"crossref": "conf/pods/85",
 	"dblpkey": "conf/pods/Ellis85",
 	"doi": "10.1145/325405.325406",
-	"ee": "http://doi.acm.org/10.1145/325405.325406",
 	"pages": "1-7",
 	"publisher": "ACM",
-	"stemmed": [
-		"concurr",
-		"and",
-		"linear",
-		"hash"
-	],
-	"tag": [
-		"concurrent",
-		"linear"
-	],
+	"stemmed": ["concurr", "and", "linear", "hash"],
+	"tag": ["concurrent", "linear"],
 	"title": "Concurrency and Linear Hashing",
 	"type": "inproceedings",
 	"venue": "PODS",

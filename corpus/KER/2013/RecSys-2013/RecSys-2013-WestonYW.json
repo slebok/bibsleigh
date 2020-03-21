@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Jason Weston",
-		"Hector Yee",
-		"Ron J. Weiss"
-	],
+	"author": ["Jason Weston", "Hector Yee", "Ron J. Weiss"],
 	"booktitle": "Proceedings of the Seventh Conference on Recommender Systems",
 	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2013",
 	"dblpkey": "conf/recsys/WestonYW13",
 	"doi": "10.1145/2507157.2507210",
-	"ee": "http://doi.acm.org/10.1145/2507157.2507210",
 	"pages": "245-248",
 	"publisher": "ACM",
-	"stemmed": [
-		"learn",
-		"to",
-		"rank",
-		"recommend",
-		"with",
-		"the",
-		"k",
-		"order",
-		"statist",
-		"loss"
-	],
-	"tag": [
-		"learning",
-		"rank",
-		"recommendation",
-		"statistics"
-	],
+	"stemmed": ["learn", "to", "rank", "recommend", "with", "the", "k", "order", "statist", "loss"],
+	"tag": ["learning", "rank", "recommendation", "statistics"],
 	"title": "Learning to rank recommendations with the k-order statistic loss",
 	"type": "inproceedings",
 	"venue": "RecSys",

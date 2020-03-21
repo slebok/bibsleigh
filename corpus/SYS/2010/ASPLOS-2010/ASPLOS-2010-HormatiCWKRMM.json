@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Amir Hormati",
-		"Yoonseo Choi",
-		"Mark Woh",
-		"Manjunath Kudlur",
-		"Rodric M. Rabbah",
-		"Trevor N. Mudge",
-		"Scott A. Mahlke"
-	],
+	"author": ["Amir Hormati", "Yoonseo Choi", "Mark Woh", "Manjunath Kudlur", "Rodric M. Rabbah", "Trevor N. Mudge", "Scott A. Mahlke"],
 	"booktitle": "Proceedings of the 15th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2010",
 	"dblpkey": "conf/asplos/HormatiCWKRMM10",
 	"doi": "10.1145/1736020.1736053",
-	"ee": "http://doi.acm.org/10.1145/1736020.1736053",
 	"pages": "285-296",
 	"publisher": "ACM",
-	"stemmed": [
-		"macro",
-		"ss",
-		"macro",
-		"sim",
-		"dizat",
-		"of",
-		"stream",
-		"applic"
-	],
-	"tag": [
-		"named",
-		"streaming"
-	],
+	"stemmed": ["macro", "ss", "macro", "sim", "dizat", "of", "stream", "applic"],
+	"tag": ["named", "streaming"],
 	"title": "MacroSS: macro-SIMDization of streaming applications",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

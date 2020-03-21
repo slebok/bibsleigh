@@ -1,46 +1,16 @@
 {
-	"author": [
-		"Banu Özden",
-		"Rajeev Rastogi",
-		"Prashant J. Shenoy",
-		"Abraham Silberschatz"
-	],
+	"author": ["Banu Özden", "Rajeev Rastogi", "Prashant J. Shenoy", "Abraham Silberschatz"],
 	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD96/P079.PDF",
-	"cite": [
-		"conf/sigmod/BersonGM95",
-		"conf/mm/ChenKY93",
-		"journals/csur/ChenLGKP94",
-		"conf/asplos/HollandG92",
-		"...",
-		"conf/vldb/MuntzL90",
-		"...",
-		"...",
-		"...",
-		"conf/sigmod/PattersonGK88",
-		"books/aw/SilberschatzG94",
-		"conf/mm/TobagiPBG93"
-	],
+	"cite": ["conf/sigmod/BersonGM95", "conf/mm/ChenKY93", "journals/csur/ChenLGKP94", "conf/asplos/HollandG92", "...", "conf/vldb/MuntzL90", "...", "...", "...", "conf/sigmod/PattersonGK88", "books/aw/SilberschatzG94", "conf/mm/TobagiPBG93"],
 	"crossref": "conf/sigmod/96",
 	"dblpkey": "conf/sigmod/OzdenRSS96",
 	"doi": "10.1145/233269.233322",
-	"ee": "http://doi.acm.org/10.1145/233269.233322",
 	"pages": "79-90",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"fault",
-		"toler",
-		"architectur",
-		"for",
-		"continu",
-		"media",
-		"server"
-	],
-	"tag": [
-		"architecture",
-		"fault tolerance"
-	],
+	"stemmed": ["fault", "toler", "architectur", "for", "continu", "media", "server"],
+	"tag": ["architecture", "fault tolerance"],
 	"title": "Fault-tolerant Architectures for Continuous Media Servers",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

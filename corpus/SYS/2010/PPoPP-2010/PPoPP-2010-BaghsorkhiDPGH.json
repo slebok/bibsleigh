@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Sara S. Baghsorkhi",
-		"Matthieu Delahaye",
-		"Sanjay J. Patel",
-		"William D. Gropp",
-		"Wen-mei W. Hwu"
-	],
+	"author": ["Sara S. Baghsorkhi", "Matthieu Delahaye", "Sanjay J. Patel", "William D. Gropp", "Wen-mei W. Hwu"],
 	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/BaghsorkhiDPGH10",
 	"doi": "10.1145/1693453.1693470",
-	"ee": "http://doi.acm.org/10.1145/1693453.1693470",
 	"pages": "105-114",
 	"publisher": "ACM",
-	"stemmed": [
-		"an",
-		"adapt",
-		"perform",
-		"model",
-		"tool",
-		"for",
-		"gpu",
-		"architectur"
-	],
-	"tag": [
-		"adaptation",
-		"architecture",
-		"gpu",
-		"modelling",
-		"performance"
-	],
+	"stemmed": ["an", "adapt", "perform", "model", "tool", "for", "gpu", "architectur"],
+	"tag": ["adaptation", "architecture", "gpu", "modelling", "performance"],
 	"title": "An adaptive performance modeling tool for GPU architectures",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,37 +1,15 @@
 {
-	"author": [
-		"Thanasis Hadzilacos",
-		"Mihalis Yannakakis"
-	],
+	"author": ["Thanasis Hadzilacos", "Mihalis Yannakakis"],
 	"booktitle": "Proceedings of the Fifth Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cite": [
-		"journals/tods/BayerHR80",
-		"conf/vldb/BernsteinG82",
-		"conf/sigmod/BoralG84",
-		"books/fm/GareyJ79",
-		"journals/cacm/EswarranGLT76",
-		"journals/jacm/Hadzilacos88",
-		"conf/pods/HadzilacosP85",
-		"...",
-		"journals/tods/Schlageter78",
-		"conf/sigmod/StearnsR81",
-		"journals/jacm/Yannakakis84"
-	],
+	"cite": ["journals/tods/BayerHR80", "conf/vldb/BernsteinG82", "conf/sigmod/BoralG84", "books/fm/GareyJ79", "journals/cacm/EswarranGLT76", "journals/jacm/Hadzilacos88", "conf/pods/HadzilacosP85", "...", "journals/tods/Schlageter78", "conf/sigmod/StearnsR81", "journals/jacm/Yannakakis84"],
 	"crossref": "conf/pods/86",
 	"dblpkey": "conf/pods/Hadzilacos86",
 	"doi": "10.1145/6012.15402",
-	"ee": "http://doi.acm.org/10.1145/6012.15402",
 	"pages": "43-46",
 	"publisher": "ACM",
-	"stemmed": [
-		"delet",
-		"complet",
-		"transact"
-	],
-	"tag": [
-		"transaction"
-	],
+	"stemmed": ["delet", "complet", "transact"],
+	"tag": ["transaction"],
 	"title": "Deleting Completed Transactions",
 	"type": "inproceedings",
 	"venue": "PODS",

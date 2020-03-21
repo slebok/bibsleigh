@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Marc Lupon",
-		"Enric Gibert",
-		"Grigorios Magklis",
-		"Sridhar Samudrala",
-		"Raúl Martínez",
-		"Kyriakos Stavrou",
-		"David R. Ditzel"
-	],
+	"author": ["Marc Lupon", "Enric Gibert", "Grigorios Magklis", "Sridhar Samudrala", "Raúl Martínez", "Kyriakos Stavrou", "David R. Ditzel"],
 	"booktitle": "Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2014",
 	"dblpkey": "conf/asplos/LuponGMSMSD14",
 	"doi": "10.1145/2541940.2541978",
-	"ee": "http://doi.acm.org/10.1145/2541940.2541978",
 	"pages": "623-638",
 	"publisher": "ACM",
-	"stemmed": [
-		"specul",
-		"hardwar",
-		"softwar",
-		"co",
-		"design",
-		"float",
-		"point",
-		"multipli",
-		"add",
-		"fusion"
-	],
-	"tag": [
-		"float",
-		"hardware",
-		"multi"
-	],
+	"stemmed": ["specul", "hardwar", "softwar", "co", "design", "float", "point", "multipli", "add", "fusion"],
+	"tag": ["float", "hardware", "multi"],
 	"title": "Speculative hardware/software co-designed floating-point multiply-add fusion",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

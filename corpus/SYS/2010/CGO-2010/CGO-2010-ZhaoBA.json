@@ -1,31 +1,14 @@
 {
-	"author": [
-		"Qin Zhao",
-		"Derek Bruening",
-		"Saman P. Amarasinghe"
-	],
+	"author": ["Qin Zhao", "Derek Bruening", "Saman P. Amarasinghe"],
 	"booktitle": "Proceedings of the Eighth International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2010",
 	"dblpkey": "conf/cgo/ZhaoBA10",
 	"doi": "10.1145/1772954.1772960",
-	"ee": "http://doi.acm.org/10.1145/1772954.1772960",
 	"pages": "22-31",
 	"publisher": "ACM",
-	"stemmed": [
-		"umbra",
-		"effici",
-		"and",
-		"scalabl",
-		"memori",
-		"shadow"
-	],
-	"tag": [
-		"memory management",
-		"named",
-		"performance",
-		"scalability"
-	],
+	"stemmed": ["umbra", "effici", "and", "scalabl", "memori", "shadow"],
+	"tag": ["memory management", "named", "performance", "scalability"],
 	"title": "Umbra: efficient and scalable memory shadowing",
 	"type": "inproceedings",
 	"venue": "CGO",

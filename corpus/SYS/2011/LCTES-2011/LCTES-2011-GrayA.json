@@ -1,39 +1,14 @@
 {
-	"author": [
-		"Ian Gray",
-		"Neil C. Audsley"
-	],
+	"author": ["Ian Gray", "Neil C. Audsley"],
 	"booktitle": "Proceedings of the 12th Conference on Languages, Compilers, and Tools for Embedded Systems",
 	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2011",
 	"dblpkey": "conf/lctrts/GrayA11",
 	"doi": "10.1145/1967677.1967685",
-	"ee": "http://doi.acm.org/10.1145/1967677.1967685",
 	"pages": "51-60",
 	"publisher": "ACM",
-	"stemmed": [
-		"target",
-		"complex",
-		"embed",
-		"architectur",
-		"by",
-		"combin",
-		"the",
-		"multicor",
-		"communic",
-		"api",
-		"mcapi",
-		"with",
-		"compil",
-		"time",
-		"virtualis"
-	],
-	"tag": [
-		"api",
-		"architecture",
-		"embedded",
-		"manycore"
-	],
+	"stemmed": ["target", "complex", "embed", "architectur", "by", "combin", "the", "multicor", "communic", "api", "mcapi", "with", "compil", "time", "virtualis"],
+	"tag": ["api", "architecture", "embedded", "manycore"],
 	"title": "Targeting complex embedded architectures by combining the multicore communications API (mcapi) with compile-time virtualisation",
 	"type": "inproceedings",
 	"venue": "LCTES",

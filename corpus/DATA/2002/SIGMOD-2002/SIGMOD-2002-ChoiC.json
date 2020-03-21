@@ -1,31 +1,14 @@
 {
-	"author": [
-		"Yong-Jin Choi",
-		"Chin-Wan Chung"
-	],
+	"author": ["Yong-Jin Choi", "Chin-Wan Chung"],
 	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/ChoiC02",
 	"doi": "10.1145/564691.564742",
-	"ee": "http://doi.acm.org/10.1145/564691.564742",
 	"pages": "440-451",
 	"publisher": "ACM",
-	"stemmed": [
-		"select",
-		"estim",
-		"for",
-		"spatio",
-		"tempor",
-		"queri",
-		"to",
-		"move",
-		"object"
-	],
-	"tag": [
-		"estimation",
-		"query"
-	],
+	"stemmed": ["select", "estim", "for", "spatio", "tempor", "queri", "to", "move", "object"],
+	"tag": ["estimation", "query"],
 	"title": "Selectivity estimation for spatio-temporal queries to moving objects",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

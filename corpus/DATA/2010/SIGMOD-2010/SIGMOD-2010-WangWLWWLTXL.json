@@ -1,39 +1,14 @@
 {
-	"author": [
-		"Chaokun Wang",
-		"Jianmin Wang",
-		"Xuemin Lin",
-		"Wei Wang",
-		"Haixun Wang",
-		"Hongsong Li",
-		"Wanpeng Tian",
-		"Jun Xu",
-		"Rui Li"
-	],
+	"author": ["Chaokun Wang", "Jianmin Wang", "Xuemin Lin", "Wei Wang", "Haixun Wang", "Hongsong Li", "Wanpeng Tian", "Jun Xu", "Rui Li"],
 	"booktitle": "Proceedings of the 28th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2010",
 	"dblpkey": "conf/sigmod/WangWLWWLTXL10",
 	"doi": "10.1145/1807167.1807296",
-	"ee": "http://doi.acm.org/10.1145/1807167.1807296",
 	"pages": "1119-1122",
 	"publisher": "ACM",
-	"stemmed": [
-		"map",
-		"dup",
-		"reduc",
-		"detect",
-		"near",
-		"duplic",
-		"over",
-		"massiv",
-		"dataset"
-	],
-	"tag": [
-		"dataset",
-		"detection",
-		"named"
-	],
+	"stemmed": ["map", "dup", "reduc", "detect", "near", "duplic", "over", "massiv", "dataset"],
+	"tag": ["dataset", "detection", "named"],
 	"title": "MapDupReducer: detecting near duplicates over massive datasets",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

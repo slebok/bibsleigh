@@ -1,28 +1,14 @@
 {
-	"author": [
-		"Graham Cormode",
-		"S. Muthukrishnan",
-		"Ke Yi",
-		"Qin Zhang"
-	],
+	"author": ["Graham Cormode", "S. Muthukrishnan", "Ke Yi", "Qin Zhang"],
 	"booktitle": "Proceedings of the 29th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2010",
 	"dblpkey": "conf/pods/CormodeMYZ10",
 	"doi": "10.1145/1807085.1807099",
-	"ee": "http://doi.acm.org/10.1145/1807085.1807099",
 	"pages": "77-86",
 	"publisher": "ACM",
-	"stemmed": [
-		"optim",
-		"sampl",
-		"from",
-		"distribut",
-		"stream"
-	],
-	"tag": [
-		"distributed"
-	],
+	"stemmed": ["optim", "sampl", "from", "distribut", "stream"],
+	"tag": ["distributed"],
 	"title": "Optimal sampling from distributed streams",
 	"type": "inproceedings",
 	"venue": "PODS",

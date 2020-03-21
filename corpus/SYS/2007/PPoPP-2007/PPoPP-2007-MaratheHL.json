@@ -1,30 +1,14 @@
 {
-	"author": [
-		"Virendra J. Marathe",
-		"Timothy L. Harris",
-		"James R. Larus"
-	],
+	"author": ["Virendra J. Marathe", "Timothy L. Harris", "James R. Larus"],
 	"booktitle": "Proceedings of the 12th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2007",
 	"dblpkey": "conf/ppopp/MaratheHL07",
 	"doi": "10.1145/1229428.1229453",
-	"ee": "http://doi.acm.org/10.1145/1229428.1229453",
 	"pages": "134-135",
 	"publisher": "ACM",
-	"stemmed": [
-		"featherweight",
-		"transact",
-		"decoupl",
-		"thread",
-		"and",
-		"atom",
-		"block"
-	],
-	"tag": [
-		"thread",
-		"transaction"
-	],
+	"stemmed": ["featherweight", "transact", "decoupl", "thread", "and", "atom", "block"],
+	"tag": ["thread", "transaction"],
 	"title": "Featherweight transactions: decoupling threads and atomic blocks",
 	"type": "inproceedings",
 	"venue": "PPoPP",

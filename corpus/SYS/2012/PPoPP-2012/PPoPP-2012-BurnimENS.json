@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Jacob Burnim",
-		"Tayfun Elmas",
-		"George C. Necula",
-		"Koushik Sen"
-	],
+	"author": ["Jacob Burnim", "Tayfun Elmas", "George C. Necula", "Koushik Sen"],
 	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/BurnimENS12",
 	"doi": "10.1145/2145816.2145879",
-	"ee": "http://doi.acm.org/10.1145/2145816.2145879",
 	"pages": "329-330",
 	"publisher": "ACM",
-	"stemmed": [
-		"n",
-		"determin",
-		"infer",
-		"nondeterminist",
-		"sequenti",
-		"specif",
-		"for",
-		"parallel",
-		"correct"
-	],
-	"tag": [
-		"correctness",
-		"named",
-		"nondeterminism",
-		"parallel",
-		"specification"
-	],
+	"stemmed": ["n", "determin", "infer", "nondeterminist", "sequenti", "specif", "for", "parallel", "correct"],
+	"tag": ["correctness", "named", "nondeterminism", "parallel", "specification"],
 	"title": "NDetermin: inferring nondeterministic sequential specifications for parallelism correctness",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Andrew McGregor",
-		"A. Pavan",
-		"Srikanta Tirthapura",
-		"David P. Woodruff"
-	],
+	"author": ["Andrew McGregor", "A. Pavan", "Srikanta Tirthapura", "David P. Woodruff"],
 	"booktitle": "Proceedings of the 31st Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2012",
 	"dblpkey": "conf/pods/McGregorPTW12",
 	"doi": "10.1145/2213556.2213594",
-	"ee": "http://doi.acm.org/10.1145/2213556.2213594",
 	"pages": "273-282",
 	"publisher": "ACM",
-	"stemmed": [
-		"space",
-		"effici",
-		"estim",
-		"of",
-		"statist",
-		"over",
-		"sub",
-		"sampl",
-		"stream"
-	],
-	"tag": [
-		"estimation",
-		"statistics"
-	],
+	"stemmed": ["space", "effici", "estim", "of", "statist", "over", "sub", "sampl", "stream"],
+	"tag": ["estimation", "statistics"],
 	"title": "Space-efficient estimation of statistics over sub-sampled streams",
 	"type": "inproceedings",
 	"venue": "PODS",

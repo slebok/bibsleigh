@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Koushik Sen",
-		"Grigore Rosu",
-		"Gul Agha"
-	],
+	"author": ["Koushik Sen", "Grigore Rosu", "Gul Agha"],
 	"booktitle": "Proceedings of the 11th Symposium on Foundations of Software Engineering held jointly with the Ninth European Software Engineering Conference",
 	"booktitleshort": "ESEC/FSE",
 	"crossref": "conf/sigsoft/2003",
 	"dblpkey": "conf/sigsoft/SenRA03",
 	"doi": "10.1145/940071.940116",
-	"ee": "http://doi.acm.org/10.1145/940071.940116",
 	"pages": "337-346",
 	"publisher": "ACM",
-	"stemmed": [
-		"runtim",
-		"safeti",
-		"analysi",
-		"of",
-		"multithread",
-		"program"
-	],
-	"tag": [
-		"analysis",
-		"parallel",
-		"runtime",
-		"safety",
-		"source code",
-		"thread"
-	],
+	"stemmed": ["runtim", "safeti", "analysi", "of", "multithread", "program"],
+	"tag": ["analysis", "parallel", "runtime", "safety", "source code", "thread"],
 	"title": "Runtime safety analysis of multithreaded programs",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Ricardo Bianchini",
-		"Leonidas I. Kontothanassis",
-		"Raquel Pinto",
-		"M. De Maria",
-		"M. Abud",
-		"Claudio Luis de Amorim"
-	],
+	"author": ["Ricardo Bianchini", "Leonidas I. Kontothanassis", "Raquel Pinto", "M. De Maria", "M. Abud", "Claudio Luis de Amorim"],
 	"booktitle": "Proceedings of the Seventh International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1996",
 	"dblpkey": "conf/asplos/BianchiniKPMAA96",
 	"doi": "10.1145/237090.237185",
-	"ee": "http://doi.acm.org/10.1145/237090.237185",
 	"pages": "198-209",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"hide",
-		"communic",
-		"latenc",
-		"and",
-		"coher",
-		"overhead",
-		"in",
-		"softwar",
-		"dsms"
-	],
-	"tag": [
-		"communication",
-		"latency"
-	],
+	"stemmed": ["hide", "communic", "latenc", "and", "coher", "overhead", "in", "softwar", "dsms"],
+	"tag": ["communication", "latency"],
 	"title": "Hiding Communication Latency and Coherence Overhead in Software DSMs",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

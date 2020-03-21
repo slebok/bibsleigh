@@ -1,39 +1,14 @@
 {
-	"author": [
-		"Jiaqi Zhang",
-		"Lakshminarayanan Renganarayana",
-		"Xiaolan Zhang",
-		"Niyu Ge",
-		"Vasanth Bala",
-		"Tianyin Xu",
-		"Yuanyuan Zhou"
-	],
+	"author": ["Jiaqi Zhang", "Lakshminarayanan Renganarayana", "Xiaolan Zhang", "Niyu Ge", "Vasanth Bala", "Tianyin Xu", "Yuanyuan Zhou"],
 	"booktitle": "Proceedings of the 19th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2014",
 	"dblpkey": "conf/asplos/ZhangRZGBXZ14",
 	"doi": "10.1145/2541940.2541983",
-	"ee": "http://doi.acm.org/10.1145/2541940.2541983",
 	"pages": "687-700",
 	"publisher": "ACM",
-	"stemmed": [
-		"en",
-		"core",
-		"exploit",
-		"system",
-		"environ",
-		"and",
-		"correl",
-		"inform",
-		"for",
-		"misconfigur",
-		"detect"
-	],
-	"tag": [
-		"correlation",
-		"detection",
-		"named"
-	],
+	"stemmed": ["en", "core", "exploit", "system", "environ", "and", "correl", "inform", "for", "misconfigur", "detect"],
+	"tag": ["correlation", "detection", "named"],
 	"title": "EnCore: exploiting system environment and correlation information for misconfiguration detection",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

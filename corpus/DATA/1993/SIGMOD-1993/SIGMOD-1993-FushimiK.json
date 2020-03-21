@@ -1,45 +1,16 @@
 {
-	"author": [
-		"Shinya Fushimi",
-		"Masaru Kitsuregawa"
-	],
+	"author": ["Shinya Fushimi", "Masaru Kitsuregawa"],
 	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD93/P449.PDF",
-	"cite": [
-		"...",
-		"conf/vldb/FushimiKT86",
-		"journals/cacm/DeWittG92",
-		"conf/iwdm/KitsuregawaYF89",
-		"conf/iwdm/KitsuregawaYST87",
-		"journals/ngc/KitsuregawaTM83",
-		"conf/icde/KitsuregawaNT91"
-	],
+	"cite": ["...", "conf/vldb/FushimiKT86", "journals/cacm/DeWittG92", "conf/iwdm/KitsuregawaYF89", "conf/iwdm/KitsuregawaYST87", "journals/ngc/KitsuregawaTM83", "conf/icde/KitsuregawaNT91"],
 	"crossref": "conf/sigmod/93",
 	"dblpkey": "conf/sigmod/FushimiK93",
 	"doi": "10.1145/170035.170130",
-	"ee": "http://doi.acm.org/10.1145/170035.170130",
 	"pages": "449-452",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"greo",
-		"a",
-		"commerci",
-		"databas",
-		"processor",
-		"base",
-		"on",
-		"a",
-		"pipelin",
-		"hardwar",
-		"sorter"
-	],
-	"tag": [
-		"database",
-		"hardware",
-		"named",
-		"pipes and filters"
-	],
+	"stemmed": ["greo", "a", "commerci", "databas", "processor", "base", "on", "a", "pipelin", "hardwar", "sorter"],
+	"tag": ["database", "hardware", "named", "pipes and filters"],
 	"title": "GREO: A Commercial Database Processor Based on A Pipelined Hardware Sorter",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

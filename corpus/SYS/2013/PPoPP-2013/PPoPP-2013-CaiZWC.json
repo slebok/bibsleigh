@@ -1,39 +1,14 @@
 {
-	"author": [
-		"Yan Cai",
-		"Ke Zhai",
-		"Shangru Wu",
-		"Wing Kwong Chan"
-	],
+	"author": ["Yan Cai", "Ke Zhai", "Shangru Wu", "Wing Kwong Chan"],
 	"booktitle": "Proceedings of the 18th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2013",
 	"dblpkey": "conf/ppopp/CaiZWC13",
 	"doi": "10.1145/2442516.2442560",
-	"ee": "http://doi.acm.org/10.1145/2442516.2442560",
 	"pages": "311-312",
 	"publisher": "ACM",
-	"stemmed": [
-		"team",
-		"work",
-		"synchron",
-		"thread",
-		"global",
-		"to",
-		"detect",
-		"real",
-		"deadlock",
-		"for",
-		"multithread",
-		"program"
-	],
-	"tag": [
-		"detection",
-		"named",
-		"parallel",
-		"source code",
-		"thread"
-	],
+	"stemmed": ["team", "work", "synchron", "thread", "global", "to", "detect", "real", "deadlock", "for", "multithread", "program"],
+	"tag": ["detection", "named", "parallel", "source code", "thread"],
 	"title": "TeamWork: synchronizing threads globally to detect real deadlocks for multithreaded programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

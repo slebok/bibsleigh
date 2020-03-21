@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Pascal Felber",
-		"Christof Fetzer",
-		"Torvald Riegel"
-	],
+	"author": ["Pascal Felber", "Christof Fetzer", "Torvald Riegel"],
 	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/FelberFR08",
 	"doi": "10.1145/1345206.1345241",
-	"ee": "http://doi.acm.org/10.1145/1345206.1345241",
 	"pages": "237-246",
 	"publisher": "ACM",
-	"stemmed": [
-		"dynam",
-		"perform",
-		"tune",
-		"of",
-		"word",
-		"base",
-		"softwar",
-		"transact",
-		"memori"
-	],
-	"tag": [
-		"memory management",
-		"performance",
-		"transaction"
-	],
+	"stemmed": ["dynam", "perform", "tune", "of", "word", "base", "softwar", "transact", "memori"],
+	"tag": ["memory management", "performance", "transaction"],
 	"title": "Dynamic performance tuning of word-based software transactional memory",
 	"type": "inproceedings",
 	"venue": "PPoPP",

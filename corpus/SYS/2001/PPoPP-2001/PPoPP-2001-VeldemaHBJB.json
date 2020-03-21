@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Ronald Veldema",
-		"Rutger F. H. Hofman",
-		"Raoul Bhoedjang",
-		"Ceriel J. H. Jacobs",
-		"Henri E. Bal"
-	],
+	"author": ["Ronald Veldema", "Rutger F. H. Hofman", "Raoul Bhoedjang", "Ceriel J. H. Jacobs", "Henri E. Bal"],
 	"booktitle": "Proceedings of the Eighth Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2001",
 	"dblpkey": "conf/ppopp/VeldemaHBJB01",
 	"doi": "10.1145/379539.379578",
-	"ee": "http://doi.acm.org/10.1145/379539.379578",
 	"pages": "83-92",
 	"publisher": "ACM",
-	"stemmed": [
-		"sourc",
-		"level",
-		"global",
-		"optim",
-		"for",
-		"fine",
-		"grain",
-		"distribut",
-		"share",
-		"memori",
-		"system"
-	],
-	"tag": [
-		"distributed",
-		"memory management",
-		"optimisation"
-	],
+	"stemmed": ["sourc", "level", "global", "optim", "for", "fine", "grain", "distribut", "share", "memori", "system"],
+	"tag": ["distributed", "memory management", "optimisation"],
 	"title": "Source-level global optimizations for fine-grain distributed shared memory systems",
 	"type": "inproceedings",
 	"venue": "PPoPP",

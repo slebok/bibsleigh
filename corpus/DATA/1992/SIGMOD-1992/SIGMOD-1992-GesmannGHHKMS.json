@@ -1,43 +1,15 @@
 {
-	"author": [
-		"Michael Gesmann",
-		"Andreas Grasnickel",
-		"Theo Härder",
-		"Christoph Hübel",
-		"Wolfgang Käfer",
-		"Bernhard Mitschang",
-		"Harald Schöning"
-	],
+	"author": ["Michael Gesmann", "Andreas Grasnickel", "Theo Härder", "Christoph Hübel", "Wolfgang Käfer", "Bernhard Mitschang", "Harald Schöning"],
 	"booktitle": "Proceedings of the 22nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD92/P005.PDF",
-	"cite": [
-		"conf/vldb/HarderMMS87",
-		"conf/dpds/HarderSS88",
-		"conf/eds/Mitschang88",
-		"conf/vldb/Mitschang89",
-		"conf/dood/Schoning89"
-	],
+	"cite": ["conf/vldb/HarderMMS87", "conf/dpds/HarderSS88", "conf/eds/Mitschang88", "conf/vldb/Mitschang89", "conf/dood/Schoning89"],
 	"crossref": "conf/sigmod/92",
 	"dblpkey": "conf/sigmod/GesmannGHHKMS92",
 	"doi": "10.1145/130283.130287",
-	"ee": "http://doi.acm.org/10.1145/130283.130287",
 	"pages": "5",
-	"stemmed": [
-		"prima",
-		"a",
-		"databas",
-		"system",
-		"support",
-		"dynam",
-		"defin",
-		"composit",
-		"object"
-	],
-	"tag": [
-		"database",
-		"named"
-	],
+	"stemmed": ["prima", "a", "databas", "system", "support", "dynam", "defin", "composit", "object"],
+	"tag": ["database", "named"],
 	"title": "PRIMA — A Database System Supporting Dynamically Defined Composite Objects",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

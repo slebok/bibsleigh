@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Antonia Zhai",
-		"Shengyue Wang",
-		"Pen-Chung Yew",
-		"Guojin He"
-	],
+	"author": ["Antonia Zhai", "Shengyue Wang", "Pen-Chung Yew", "Guojin He"],
 	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/ZhaiWYH08",
 	"doi": "10.1145/1345206.1345251",
-	"ee": "http://doi.acm.org/10.1145/1345206.1345251",
 	"pages": "271-272",
 	"publisher": "ACM",
-	"stemmed": [
-		"compil",
-		"optim",
-		"for",
-		"parallel",
-		"general",
-		"purpos",
-		"applic",
-		"under",
-		"thread",
-		"level",
-		"specul"
-	],
-	"tag": [
-		"compilation",
-		"concurrent",
-		"optimisation",
-		"thread"
-	],
+	"stemmed": ["compil", "optim", "for", "parallel", "general", "purpos", "applic", "under", "thread", "level", "specul"],
+	"tag": ["compilation", "concurrent", "optimisation", "thread"],
 	"title": "Compiler optimizations for parallelizing general-purpose applications under thread-level speculation",
 	"type": "inproceedings",
 	"venue": "PPoPP",

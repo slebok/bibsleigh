@@ -1,39 +1,14 @@
 {
-	"author": [
-		"Sairam Gurajada",
-		"Stephan Seufert",
-		"Iris Miliaraki",
-		"Martin Theobald"
-	],
+	"author": ["Sairam Gurajada", "Stephan Seufert", "Iris Miliaraki", "Martin Theobald"],
 	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/GurajadaSMT14",
 	"doi": "10.1145/2588555.2610511",
-	"ee": "http://doi.acm.org/10.1145/2588555.2610511",
 	"pages": "289-300",
 	"publisher": "ACM",
-	"stemmed": [
-		"tri",
-		"ad",
-		"a",
-		"distribut",
-		"share",
-		"noth",
-		"rdf",
-		"engin",
-		"base",
-		"on",
-		"asynchron",
-		"messag",
-		"pass"
-	],
-	"tag": [
-		"distributed",
-		"message passing",
-		"named",
-		"rdf"
-	],
+	"stemmed": ["tri", "ad", "a", "distribut", "share", "noth", "rdf", "engin", "base", "on", "asynchron", "messag", "pass"],
+	"tag": ["distributed", "message passing", "named", "rdf"],
 	"title": "TriAD: a distributed shared-nothing RDF engine based on asynchronous message passing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

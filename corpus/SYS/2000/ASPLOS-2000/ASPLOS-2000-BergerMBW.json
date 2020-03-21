@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Emery D. Berger",
-		"Kathryn S. McKinley",
-		"Robert D. Blumofe",
-		"Paul R. Wilson"
-	],
+	"author": ["Emery D. Berger", "Kathryn S. McKinley", "Robert D. Blumofe", "Paul R. Wilson"],
 	"booktitle": "Proceedings of the Ninth International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2000",
 	"dblpkey": "conf/asplos/BergerMBW00",
 	"doi": "10.1145/356989.357000",
-	"ee": "http://doi.acm.org/10.1145/356989.357000",
 	"pages": "117-128",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"hoard",
-		"a",
-		"scalabl",
-		"memori",
-		"alloc",
-		"for",
-		"multithread",
-		"applic"
-	],
-	"tag": [
-		"memory management",
-		"named",
-		"parallel",
-		"scalability",
-		"thread"
-	],
+	"stemmed": ["hoard", "a", "scalabl", "memori", "alloc", "for", "multithread", "applic"],
+	"tag": ["memory management", "named", "parallel", "scalability", "thread"],
 	"title": "Hoard: A Scalable Memory Allocator for Multithreaded Applications",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

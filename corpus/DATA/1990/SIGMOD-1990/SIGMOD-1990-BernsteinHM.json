@@ -1,47 +1,15 @@
 {
-	"author": [
-		"Philip A. Bernstein",
-		"Meichun Hsu",
-		"Bruce Mann"
-	],
+	"author": ["Philip A. Bernstein", "Meichun Hsu", "Bruce Mann"],
 	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD90/P112.PDF",
-	"cite": [
-		"books/aw/BernsteinHG87",
-		"journals/tocs/BirrelN84",
-		"...",
-		"...",
-		"conf/sigmod/Garcia-MolinaS87",
-		"conf/ac/Gray78",
-		"conf/icalp/Gray80",
-		"conf/vldb/Gray81",
-		"...",
-		"journals/tocs/JulLHB88",
-		"...",
-		"...",
-		"...",
-		"...",
-		"conf/hpts/Group87",
-		"...",
-		"..."
-	],
+	"cite": ["books/aw/BernsteinHG87", "journals/tocs/BirrelN84", "...", "...", "conf/sigmod/Garcia-MolinaS87", "conf/ac/Gray78", "conf/icalp/Gray80", "conf/vldb/Gray81", "...", "journals/tocs/JulLHB88", "...", "...", "...", "...", "conf/hpts/Group87", "...", "..."],
 	"crossref": "conf/sigmod/90",
 	"dblpkey": "conf/sigmod/BernsteinHM90",
 	"doi": "10.1145/93597.98721",
-	"ee": "http://doi.acm.org/10.1145/93597.98721",
 	"pages": "112-122",
-	"stemmed": [
-		"implement",
-		"recover",
-		"request",
-		"use",
-		"queue"
-	],
-	"tag": [
-		"implementation",
-		"using"
-	],
+	"stemmed": ["implement", "recover", "request", "use", "queue"],
+	"tag": ["implementation", "using"],
 	"title": "Implementing Recoverable Requests Using Queues",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

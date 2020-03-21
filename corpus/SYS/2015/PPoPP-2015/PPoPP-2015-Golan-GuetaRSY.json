@@ -1,31 +1,14 @@
 {
-	"author": [
-		"Guy Golan-Gueta",
-		"G. Ramalingam",
-		"Mooly Sagiv",
-		"Eran Yahav"
-	],
+	"author": ["Guy Golan-Gueta", "G. Ramalingam", "Mooly Sagiv", "Eran Yahav"],
 	"booktitle": "Proceedings of the 20th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2015",
 	"dblpkey": "conf/ppopp/Golan-GuetaRSY15",
 	"doi": "10.1145/2688500.2688511",
-	"ee": "http://doi.acm.org/10.1145/2688500.2688511",
 	"pages": "31-41",
 	"publisher": "ACM",
-	"stemmed": [
-		"automat",
-		"scalabl",
-		"atom",
-		"via",
-		"semant",
-		"lock"
-	],
-	"tag": [
-		"automation",
-		"scalability",
-		"semantics"
-	],
+	"stemmed": ["automat", "scalabl", "atom", "via", "semant", "lock"],
+	"tag": ["automation", "scalability", "semantics"],
 	"title": "Automatic scalable atomicity via semantic locking",
 	"type": "inproceedings",
 	"venue": "PPoPP",

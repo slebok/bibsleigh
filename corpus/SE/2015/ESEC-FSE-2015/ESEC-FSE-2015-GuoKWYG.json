@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Shengjian Guo",
-		"Markus Kusano",
-		"Chao Wang",
-		"Zijiang Yang",
-		"Aarti Gupta"
-	],
+	"author": ["Shengjian Guo", "Markus Kusano", "Chao Wang", "Zijiang Yang", "Aarti Gupta"],
 	"booktitle": "Proceedings of the 10th Joint Meeting of the 15th European Software Engineering Conference and the 23rd Symposium on the Foundations of Software Engineering",
 	"booktitleshort": "ESEC/SIGSOFT FSE",
 	"crossref": "conf/sigsoft/2015",
 	"dblpkey": "conf/sigsoft/GuoKWYG15",
 	"doi": "10.1145/2786805.2786841",
-	"ee": "http://doi.acm.org/10.1145/2786805.2786841",
 	"pages": "854-865",
 	"publisher": "ACM",
-	"stemmed": [
-		"assert",
-		"guid",
-		"symbol",
-		"execut",
-		"of",
-		"multithread",
-		"program"
-	],
-	"tag": [
-		"execution",
-		"parallel",
-		"source code",
-		"symbolic computation",
-		"thread"
-	],
+	"stemmed": ["assert", "guid", "symbol", "execut", "of", "multithread", "program"],
+	"tag": ["execution", "parallel", "source code", "symbolic computation", "thread"],
 	"title": "Assertion guided symbolic execution of multithreaded programs",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Hideo Saito",
-		"Kenjiro Taura"
-	],
+	"author": ["Hideo Saito", "Kenjiro Taura"],
 	"booktitle": "Proceedings of the 12th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2007",
 	"dblpkey": "conf/ppopp/SaitoT07",
 	"doi": "10.1145/1229428.1229461",
-	"ee": "http://doi.acm.org/10.1145/1229428.1229461",
 	"pages": "150-151",
 	"publisher": "ACM",
-	"stemmed": [
-		"local",
-		"awar",
-		"connect",
-		"manag",
-		"and",
-		"rank",
-		"assign",
-		"for",
-		"wide",
-		"area",
-		"mpi"
-	],
-	"tag": [
-		"rank"
-	],
+	"stemmed": ["local", "awar", "connect", "manag", "and", "rank", "assign", "for", "wide", "area", "mpi"],
+	"tag": ["rank"],
 	"title": "Locality-aware connection management and rank assignment for wide-area MPI",
 	"type": "inproceedings",
 	"venue": "PPoPP",

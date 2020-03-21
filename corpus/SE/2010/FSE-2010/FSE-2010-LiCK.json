@@ -1,38 +1,16 @@
 {
-	"author": [
-		"Lian Li",
-		"Cristina Cifuentes",
-		"Nathan Keynes"
-	],
+	"author": ["Lian Li", "Cristina Cifuentes", "Nathan Keynes"],
 	"booktitle": "Proceedings of the 18th International Symposium on Foundations of Software Engineering",
 	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2010",
 	"dblpkey": "conf/sigsoft/LiCK10",
 	"doi": "10.1145/1882291.1882338",
-	"editor": [
-		"Gruia-Catalin Roman",
-		"Kevin J. Sullivan"
-	],
-	"ee": "http://doi.acm.org/10.1145/1882291.1882338",
+	"editor": ["Gruia-Catalin Roman", "Kevin J. Sullivan"],
 	"isbn": "978-1-60558-791-2",
 	"pages": "317-326",
 	"publisher": "ACM",
-	"stemmed": [
-		"practic",
-		"and",
-		"effect",
-		"symbol",
-		"analysi",
-		"for",
-		"buffer",
-		"overflow",
-		"detect"
-	],
-	"tag": [
-		"analysis",
-		"detection",
-		"effectiveness"
-	],
+	"stemmed": ["practic", "and", "effect", "symbol", "analysi", "for", "buffer", "overflow", "detect"],
+	"tag": ["analysis", "detection", "effectiveness"],
 	"title": "Practical and effective symbolic analysis for buffer overflow detection",
 	"type": "inproceedings",
 	"venue": "FSE",

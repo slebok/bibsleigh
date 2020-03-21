@@ -1,31 +1,14 @@
 {
-	"author": [
-		"Jonathan K. Lee",
-		"Jens Palsberg"
-	],
+	"author": ["Jonathan K. Lee", "Jens Palsberg"],
 	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/LeeP10",
 	"doi": "10.1145/1693453.1693459",
-	"ee": "http://doi.acm.org/10.1145/1693453.1693459",
 	"pages": "25-36",
 	"publisher": "ACM",
-	"stemmed": [
-		"featherweight",
-		"x",
-		"a",
-		"core",
-		"calculus",
-		"for",
-		"async",
-		"finish",
-		"parallel"
-	],
-	"tag": [
-		"calculus",
-		"parallel"
-	],
+	"stemmed": ["featherweight", "x", "a", "core", "calculus", "for", "async", "finish", "parallel"],
+	"tag": ["calculus", "parallel"],
 	"title": "Featherweight X10: a core calculus for async-finish parallelism",
 	"type": "inproceedings",
 	"venue": "PPoPP",

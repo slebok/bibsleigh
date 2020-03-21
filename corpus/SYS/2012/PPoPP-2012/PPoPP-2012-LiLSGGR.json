@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Guodong Li",
-		"Peng Li",
-		"Geoffrey Sawaya",
-		"Ganesh Gopalakrishnan",
-		"Indradeep Ghosh",
-		"Sreeranga P. Rajan"
-	],
+	"author": ["Guodong Li", "Peng Li", "Geoffrey Sawaya", "Ganesh Gopalakrishnan", "Indradeep Ghosh", "Sreeranga P. Rajan"],
 	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/LiLSGGR12",
 	"doi": "10.1145/2145816.2145844",
-	"ee": "http://doi.acm.org/10.1145/2145816.2145844",
 	"pages": "215-224",
 	"publisher": "ACM",
-	"stemmed": [
-		"gklee",
-		"concol",
-		"verif",
-		"and",
-		"test",
-		"generat",
-		"for",
-		"gpus"
-	],
-	"tag": [
-		"generative",
-		"named",
-		"testing",
-		"verification"
-	],
+	"stemmed": ["gklee", "concol", "verif", "and", "test", "generat", "for", "gpus"],
+	"tag": ["generative", "named", "testing", "verification"],
 	"title": "GKLEE: concolic verification and test generation for GPUs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

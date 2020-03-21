@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Amy W. Lim",
-		"Shih-Wei Liao",
-		"Monica S. Lam"
-	],
+	"author": ["Amy W. Lim", "Shih-Wei Liao", "Monica S. Lam"],
 	"booktitle": "Proceedings of the Eighth Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2001",
 	"dblpkey": "conf/ppopp/LimLL01",
 	"doi": "10.1145/379539.379586",
-	"ee": "http://doi.acm.org/10.1145/379539.379586",
 	"pages": "103-112",
 	"publisher": "ACM",
-	"stemmed": [
-		"block",
-		"and",
-		"array",
-		"contract",
-		"across",
-		"arbitrarili",
-		"nest",
-		"loop",
-		"use",
-		"affin",
-		"partit"
-	],
-	"tag": [
-		"array",
-		"clustering",
-		"using"
-	],
+	"stemmed": ["block", "and", "array", "contract", "across", "arbitrarili", "nest", "loop", "use", "affin", "partit"],
+	"tag": ["array", "clustering", "using"],
 	"title": "Blocking and array contraction across arbitrarily nested loops using affine partitioning",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Ian Porteous",
-		"David Newman",
-		"Alexander T. Ihler",
-		"Arthur U. Asuncion",
-		"Padhraic Smyth",
-		"Max Welling"
-	],
+	"author": ["Ian Porteous", "David Newman", "Alexander T. Ihler", "Arthur U. Asuncion", "Padhraic Smyth", "Max Welling"],
 	"booktitle": "Proceedings of the 14th International Conference on Knowledge Discovery and Data Mining",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2008",
 	"dblpkey": "conf/kdd/PorteousNIASW08",
 	"doi": "10.1145/1401890.1401960",
-	"ee": "http://doi.acm.org/10.1145/1401890.1401960",
 	"pages": "569-577",
 	"publisher": "ACM",
-	"stemmed": [
-		"fast",
-		"collaps",
-		"gibb",
-		"sampl",
-		"for",
-		"latent",
-		"dirichlet",
-		"alloc"
-	],
-	"tag": [
-		"performance"
-	],
+	"stemmed": ["fast", "collaps", "gibb", "sampl", "for", "latent", "dirichlet", "alloc"],
+	"tag": ["performance"],
 	"title": "Fast collapsed gibbs sampling for latent dirichlet allocation",
 	"type": "inproceedings",
 	"venue": "KDD",

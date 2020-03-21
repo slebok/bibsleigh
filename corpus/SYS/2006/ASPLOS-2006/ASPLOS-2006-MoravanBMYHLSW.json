@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Michelle J. Moravan",
-		"Jayaram Bobba",
-		"Kevin E. Moore",
-		"Luke Yen",
-		"Mark D. Hill",
-		"Ben Liblit",
-		"Michael M. Swift",
-		"David A. Wood"
-	],
+	"author": ["Michelle J. Moravan", "Jayaram Bobba", "Kevin E. Moore", "Luke Yen", "Mark D. Hill", "Ben Liblit", "Michael M. Swift", "David A. Wood"],
 	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/MoravanBMYHLSW06",
 	"doi": "10.1145/1168857.1168902",
-	"ee": "http://doi.acm.org/10.1145/1168857.1168902",
 	"pages": "359-370",
 	"publisher": "ACM",
-	"stemmed": [
-		"support",
-		"nest",
-		"transact",
-		"memori",
-		"in",
-		"logtm"
-	],
-	"tag": [
-		"memory management",
-		"transaction"
-	],
+	"stemmed": ["support", "nest", "transact", "memori", "in", "logtm"],
+	"tag": ["memory management", "transaction"],
 	"title": "Supporting nested transactional memory in logTM",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

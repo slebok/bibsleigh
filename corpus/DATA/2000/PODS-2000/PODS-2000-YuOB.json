@@ -1,45 +1,15 @@
 {
-	"author": [
-		"Beng Chin Ooi",
-		"Kian-Lee Tan",
-		"Cui Yu",
-		"Stéphane Bressan"
-	],
+	"author": ["Beng Chin Ooi", "Kian-Lee Tan", "Cui Yu", "Stéphane Bressan"],
 	"booktitle": "Proceedings of the 19th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cite": [
-		"books/kl/Bertino97",
-		"conf/sigmod/Guttman84",
-		"conf/sigmod/BeckmannKSS90",
-		"conf/vldb/WeberSB98",
-		"conf/sigmod/BerchtoldBK98",
-		"journals/csur/Comer79"
-	],
+	"cite": ["books/kl/Bertino97", "conf/sigmod/Guttman84", "conf/sigmod/BeckmannKSS90", "conf/vldb/WeberSB98", "conf/sigmod/BerchtoldBK98", "journals/csur/Comer79"],
 	"crossref": "conf/pods/00",
 	"dblpkey": "conf/pods/YuOB00",
 	"doi": "10.1145/335168.335219",
-	"ee": "http://doi.acm.org/10.1145/335168.335219",
 	"pages": "166-174",
 	"publisher": "ACM",
-	"stemmed": [
-		"index",
-		"the",
-		"edg",
-		"a",
-		"simpl",
-		"and",
-		"yet",
-		"effici",
-		"approach",
-		"to",
-		"high",
-		"dimension",
-		"index"
-	],
-	"tag": [
-		"approach",
-		"performance"
-	],
+	"stemmed": ["index", "the", "edg", "a", "simpl", "and", "yet", "effici", "approach", "to", "high", "dimension", "index"],
+	"tag": ["approach", "performance"],
 	"title": "Indexing the Edges — A Simple and Yet Efficient Approach to High-Dimensional Indexing",
 	"type": "inproceedings",
 	"venue": "PODS",

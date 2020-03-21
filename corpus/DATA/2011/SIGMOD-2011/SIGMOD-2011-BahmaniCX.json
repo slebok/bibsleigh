@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Bahman Bahmani",
-		"Kaushik Chakrabarti",
-		"Dong Xin"
-	],
+	"author": ["Bahman Bahmani", "Kaushik Chakrabarti", "Dong Xin"],
 	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2011",
 	"dblpkey": "conf/sigmod/BahmaniCX11",
 	"doi": "10.1145/1989323.1989425",
-	"ee": "http://doi.acm.org/10.1145/1989323.1989425",
 	"pages": "973-984",
 	"publisher": "ACM",
-	"stemmed": [
-		"fast",
-		"person",
-		"page",
-		"rank",
-		"on",
-		"map",
-		"reduc"
-	],
-	"tag": [
-		"performance",
-		"personalisation",
-		"pipes and filters",
-		"rank"
-	],
+	"stemmed": ["fast", "person", "page", "rank", "on", "map", "reduc"],
+	"tag": ["performance", "personalisation", "pipes and filters", "rank"],
 	"title": "Fast personalized PageRank on MapReduce",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

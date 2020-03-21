@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Lorenz Huelsbergen",
-		"James R. Larus"
-	],
+	"author": ["Lorenz Huelsbergen", "James R. Larus"],
 	"booktitle": "Proceedings of the Fourth Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1993",
 	"dblpkey": "conf/ppopp/HuelsbergenL93",
 	"doi": "10.1145/155332.155340",
-	"ee": "http://doi.acm.org/10.1145/155332.155340",
 	"pages": "73-82",
 	"publisher": "ACM",
-	"stemmed": [
-		"a",
-		"concurr",
-		"copi",
-		"garbag",
-		"collector",
-		"for",
-		"languag",
-		"that",
-		"distinguish",
-		"im",
-		"mutabl",
-		"data"
-	],
-	"tag": [
-		"concurrent",
-		"garbage collection"
-	],
+	"stemmed": ["a", "concurr", "copi", "garbag", "collector", "for", "languag", "that", "distinguish", "im", "mutabl", "data"],
+	"tag": ["concurrent", "garbage collection"],
 	"title": "A Concurrent Copying Garbage Collector for Languages that Distinguish (Im)mutable Data",
 	"type": "inproceedings",
 	"venue": "PPoPP",

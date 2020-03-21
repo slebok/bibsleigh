@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Kenjiro Taura",
-		"Akinori Yonezawa"
-	],
+	"author": ["Kenjiro Taura", "Akinori Yonezawa"],
 	"booktitle": "Proceedings of the Sixth Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1997",
 	"dblpkey": "conf/ppopp/TauraY97",
 	"doi": "10.1145/263764.263801",
-	"ee": "http://doi.acm.org/10.1145/263764.263801",
 	"pages": "264-275",
 	"publisher": "ACM",
-	"stemmed": [
-		"an",
-		"effect",
-		"garbag",
-		"collect",
-		"strategi",
-		"for",
-		"parallel",
-		"program",
-		"languag",
-		"on",
-		"larg",
-		"scale",
-		"distribut",
-		"memori",
-		"machin"
-	],
-	"tag": [
-		"effectiveness",
-		"garbage collection",
-		"parallel",
-		"programming language",
-		"scalability"
-	],
+	"stemmed": ["an", "effect", "garbag", "collect", "strategi", "for", "parallel", "program", "languag", "on", "larg", "scale", "distribut", "memori", "machin"],
+	"tag": ["effectiveness", "garbage collection", "parallel", "programming language", "scalability"],
 	"title": "An Effective Garbage Collection Strategy for Parallel Programming Languages on Large Scale Distributed-Memory Machines",
 	"type": "inproceedings",
 	"venue": "PPoPP",

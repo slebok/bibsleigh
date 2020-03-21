@@ -1,26 +1,13 @@
 {
-	"author": [
-		"Phil McGachey",
-		"Antony L. Hosking"
-	],
+	"author": ["Phil McGachey", "Antony L. Hosking"],
 	"booktitle": "Proceedings of the Fifth International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2006",
 	"dblpkey": "conf/iwmm/McGacheyH06",
 	"doi": "10.1145/1133956.1133960",
-	"ee": "http://doi.acm.org/10.1145/1133956.1133960",
 	"pages": "17-28",
 	"publisher": "ACM",
-	"stemmed": [
-		"reduc",
-		"generat",
-		"copi",
-		"reserv",
-		"overhead",
-		"with",
-		"fallback",
-		"compact"
-	],
+	"stemmed": ["reduc", "generat", "copi", "reserv", "overhead", "with", "fallback", "compact"],
 	"title": "Reducing generational copy reserve overhead with fallback compaction",
 	"type": "inproceedings",
 	"venue": "ISMM",

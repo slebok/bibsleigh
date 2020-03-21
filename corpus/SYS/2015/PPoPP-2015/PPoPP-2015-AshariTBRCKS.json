@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Arash Ashari",
-		"Shirish Tatikonda",
-		"Matthias Böhm",
-		"Berthold Reinwald",
-		"Keith Campbell",
-		"John Keenleyside",
-		"P. Sadayappan"
-	],
+	"author": ["Arash Ashari", "Shirish Tatikonda", "Matthias Böhm", "Berthold Reinwald", "Keith Campbell", "John Keenleyside", "P. Sadayappan"],
 	"booktitle": "Proceedings of the 20th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2015",
 	"dblpkey": "conf/ppopp/AshariTBRCKS15",
 	"doi": "10.1145/2688500.2688521",
-	"ee": "http://doi.acm.org/10.1145/2688500.2688521",
 	"pages": "173-182",
 	"publisher": "ACM",
-	"stemmed": [
-		"on",
-		"optim",
-		"machin",
-		"learn",
-		"workload",
-		"via",
-		"kernel",
-		"fusion"
-	],
-	"tag": [
-		"kernel",
-		"machine learning",
-		"on the",
-		"optimisation"
-	],
+	"stemmed": ["on", "optim", "machin", "learn", "workload", "via", "kernel", "fusion"],
+	"tag": ["kernel", "machine learning", "on the", "optimisation"],
 	"title": "On optimizing machine learning workloads via kernel fusion",
 	"type": "inproceedings",
 	"venue": "PPoPP",

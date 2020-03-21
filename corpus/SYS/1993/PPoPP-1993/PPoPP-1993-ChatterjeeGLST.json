@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Siddhartha Chatterjee",
-		"John R. Gilbert",
-		"Fred J. E. Long",
-		"Robert Schreiber",
-		"Shang-Hua Teng"
-	],
+	"author": ["Siddhartha Chatterjee", "John R. Gilbert", "Fred J. E. Long", "Robert Schreiber", "Shang-Hua Teng"],
 	"booktitle": "Proceedings of the Fourth Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1993",
 	"dblpkey": "conf/ppopp/ChatterjeeGLST93",
 	"doi": "10.1145/155332.155348",
-	"ee": "http://doi.acm.org/10.1145/155332.155348",
 	"pages": "149-158",
 	"publisher": "ACM",
-	"stemmed": [
-		"generat",
-		"local",
-		"address",
-		"and",
-		"communic",
-		"set",
-		"for",
-		"data",
-		"parallel",
-		"program"
-	],
-	"tag": [
-		"communication",
-		"generative",
-		"set",
-		"source code"
-	],
+	"stemmed": ["generat", "local", "address", "and", "communic", "set", "for", "data", "parallel", "program"],
+	"tag": ["communication", "generative", "set", "source code"],
 	"title": "Generating Local Address and Communication Sets for Data-Parallel Programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Michael Cochez",
-		"Hao Mou"
-	],
+	"author": ["Michael Cochez", "Hao Mou"],
 	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/CochezM15",
 	"doi": "10.1145/2723372.2751521",
-	"ee": "http://doi.acm.org/10.1145/2723372.2751521",
 	"pages": "505-517",
 	"publisher": "ACM",
-	"stemmed": [
-		"twister",
-		"tri",
-		"approxim",
-		"hierarch",
-		"agglom",
-		"cluster",
-		"for",
-		"averag",
-		"distanc",
-		"in",
-		"linear",
-		"time"
-	],
-	"tag": [
-		"approximate",
-		"clustering",
-		"distance",
-		"linear"
-	],
+	"stemmed": ["twister", "tri", "approxim", "hierarch", "agglom", "cluster", "for", "averag", "distanc", "in", "linear", "time"],
+	"tag": ["approximate", "clustering", "distance", "linear"],
 	"title": "Twister Tries: Approximate Hierarchical Agglomerative Clustering for Average Distance in Linear Time",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

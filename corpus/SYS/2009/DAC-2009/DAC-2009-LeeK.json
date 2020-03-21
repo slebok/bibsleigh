@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Jungseob Lee",
-		"Nam Sung Kim"
-	],
+	"author": ["Jungseob Lee", "Nam Sung Kim"],
 	"booktitle": "Proceedings of the 46th Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/LeeK09",
 	"doi": "10.1145/1629911.1629926",
-	"ee": "http://doi.acm.org/10.1145/1629911.1629926",
 	"pages": "47-50",
 	"publisher": "ACM",
-	"stemmed": [
-		"optim",
-		"throughput",
-		"of",
-		"power",
-		"and",
-		"thermal",
-		"constrain",
-		"multicor",
-		"processor",
-		"use",
-		"dvfs",
-		"and",
-		"per",
-		"core",
-		"power",
-		"gate"
-	],
-	"tag": [
-		"manycore",
-		"optimisation",
-		"throughput",
-		"using"
-	],
+	"stemmed": ["optim", "throughput", "of", "power", "and", "thermal", "constrain", "multicor", "processor", "use", "dvfs", "and", "per", "core", "power", "gate"],
+	"tag": ["manycore", "optimisation", "throughput", "using"],
 	"title": "Optimizing throughput of power- and thermal-constrained multicore processors using DVFS and per-core power-gating",
 	"type": "inproceedings",
 	"venue": "DAC",

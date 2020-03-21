@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Edans Flavius de Oliveira Sandes",
-		"Alba Cristina Magalhaes Alves de Melo"
-	],
+	"author": ["Edans Flavius de Oliveira Sandes", "Alba Cristina Magalhaes Alves de Melo"],
 	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/SandesM10",
 	"doi": "10.1145/1693453.1693473",
-	"ee": "http://doi.acm.org/10.1145/1693453.1693473",
 	"pages": "137-146",
 	"publisher": "ACM",
-	"stemmed": [
-		"cud",
-		"align",
-		"use",
-		"gpu",
-		"to",
-		"acceler",
-		"the",
-		"comparison",
-		"of",
-		"megabas",
-		"genom",
-		"sequenc"
-	],
-	"tag": [
-		"comparison",
-		"gpu",
-		"named",
-		"sequence",
-		"using"
-	],
+	"stemmed": ["cud", "align", "use", "gpu", "to", "acceler", "the", "comparison", "of", "megabas", "genom", "sequenc"],
+	"tag": ["comparison", "gpu", "named", "sequence", "using"],
 	"title": "CUDAlign: using GPU to accelerate the comparison of megabase genomic sequences",
 	"type": "inproceedings",
 	"venue": "PPoPP",

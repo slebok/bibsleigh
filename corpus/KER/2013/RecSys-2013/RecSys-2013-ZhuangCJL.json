@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Yong Zhuang",
-		"Wei-Sheng Chin",
-		"Yu-Chin Juan",
-		"Chih-Jen Lin"
-	],
+	"author": ["Yong Zhuang", "Wei-Sheng Chin", "Yu-Chin Juan", "Chih-Jen Lin"],
 	"booktitle": "Proceedings of the Seventh Conference on Recommender Systems",
 	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2013",
 	"dblpkey": "conf/recsys/ZhuangCJL13",
 	"doi": "10.1145/2507157.2507164",
-	"ee": "http://doi.acm.org/10.1145/2507157.2507164",
 	"pages": "249-256",
 	"publisher": "ACM",
-	"stemmed": [
-		"a",
-		"fast",
-		"parallel",
-		"sgd",
-		"for",
-		"matrix",
-		"factor",
-		"in",
-		"share",
-		"memori",
-		"system"
-	],
-	"tag": [
-		"matrix",
-		"memory management",
-		"parallel",
-		"performance"
-	],
+	"stemmed": ["a", "fast", "parallel", "sgd", "for", "matrix", "factor", "in", "share", "memori", "system"],
+	"tag": ["matrix", "memory management", "parallel", "performance"],
 	"title": "A fast parallel SGD for matrix factorization in shared memory systems",
 	"type": "inproceedings",
 	"venue": "RecSys",

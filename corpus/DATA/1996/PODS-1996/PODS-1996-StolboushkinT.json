@@ -1,47 +1,15 @@
 {
-	"author": [
-		"Alexei P. Stolboushkin",
-		"Michael A. Taitslin"
-	],
+	"author": ["Alexei P. Stolboushkin", "Michael A. Taitslin"],
 	"booktitle": "Proceedings of the 15th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cite": [
-		"...",
-		"conf/pods/BenediktDLW96",
-		"conf/lics/BenediktL96",
-		"...",
-		"conf/pods/GrumbachS94",
-		"conf/pods/GrumbachS95",
-		"...",
-		"conf/lcc/GrumbachST94",
-		"...",
-		"conf/pods/KanellakisKR90",
-		"journals/jcss/KanellakisKR95",
-		"conf/lics/ParedaensBG95",
-		"conf/pods/StoloboushkinT95"
-	],
+	"cite": ["...", "conf/pods/BenediktDLW96", "conf/lics/BenediktL96", "...", "conf/pods/GrumbachS94", "conf/pods/GrumbachS95", "...", "conf/lcc/GrumbachST94", "...", "conf/pods/KanellakisKR90", "journals/jcss/KanellakisKR95", "conf/lics/ParedaensBG95", "conf/pods/StoloboushkinT95"],
 	"crossref": "conf/pods/96",
 	"dblpkey": "conf/pods/StolboushkinT96",
 	"doi": "10.1145/237661.237669",
-	"ee": "http://doi.acm.org/10.1145/237661.237669",
 	"pages": "17-27",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"linear",
-		"vs",
-		"order",
-		"contstrain",
-		"queri",
-		"over",
-		"ration",
-		"databas"
-	],
-	"tag": [
-		"database",
-		"linear",
-		"order",
-		"query"
-	],
+	"stemmed": ["linear", "vs", "order", "contstrain", "queri", "over", "ration", "databas"],
+	"tag": ["database", "linear", "order", "query"],
 	"title": "Linear vs. Order Contstrained Queries Over Rational Databases",
 	"type": "inproceedings",
 	"venue": "PODS",

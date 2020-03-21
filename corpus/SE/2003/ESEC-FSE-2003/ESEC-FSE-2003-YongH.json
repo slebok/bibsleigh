@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Suan Hsi Yong",
-		"Susan Horwitz"
-	],
+	"author": ["Suan Hsi Yong", "Susan Horwitz"],
 	"booktitle": "Proceedings of the 11th Symposium on Foundations of Software Engineering held jointly with the Ninth European Software Engineering Conference",
 	"booktitleshort": "ESEC/FSE",
 	"crossref": "conf/sigsoft/2003",
 	"dblpkey": "conf/sigsoft/YongH03",
 	"doi": "10.1145/940071.940113",
-	"ee": "http://doi.acm.org/10.1145/940071.940113",
 	"pages": "307-316",
 	"publisher": "ACM",
-	"stemmed": [
-		"protect",
-		"c",
-		"program",
-		"from",
-		"attack",
-		"via",
-		"invalid",
-		"pointer",
-		"derefer"
-	],
-	"tag": [
-		"c",
-		"pointer",
-		"source code"
-	],
+	"stemmed": ["protect", "c", "program", "from", "attack", "via", "invalid", "pointer", "derefer"],
+	"tag": ["c", "pointer", "source code"],
 	"title": "Protecting C programs from attacks via invalid pointer dereferences",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

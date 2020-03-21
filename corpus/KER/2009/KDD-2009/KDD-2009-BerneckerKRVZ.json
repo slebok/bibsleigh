@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Thomas Bernecker",
-		"Hans-Peter Kriegel",
-		"Matthias Renz",
-		"Florian Verhein",
-		"Andreas Züfle"
-	],
+	"author": ["Thomas Bernecker", "Hans-Peter Kriegel", "Matthias Renz", "Florian Verhein", "Andreas Züfle"],
 	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/BerneckerKRVZ09",
 	"doi": "10.1145/1557019.1557039",
-	"ee": "http://doi.acm.org/10.1145/1557019.1557039",
 	"pages": "119-128",
 	"publisher": "ACM",
-	"stemmed": [
-		"probabilist",
-		"frequent",
-		"itemset",
-		"mine",
-		"in",
-		"uncertain",
-		"databas"
-	],
-	"tag": [
-		"database",
-		"mining",
-		"nondeterminism",
-		"probability"
-	],
+	"stemmed": ["probabilist", "frequent", "itemset", "mine", "in", "uncertain", "databas"],
+	"tag": ["database", "mining", "nondeterminism", "probability"],
 	"title": "Probabilistic frequent itemset mining in uncertain databases",
 	"type": "inproceedings",
 	"venue": "KDD",

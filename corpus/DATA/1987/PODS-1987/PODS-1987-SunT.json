@@ -1,56 +1,16 @@
 {
-	"author": [
-		"Rong Sun",
-		"Gomer Thomas"
-	],
+	"author": ["Rong Sun", "Gomer Thomas"],
 	"booktitle": "Proceedings of the Sixth Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS87/P177.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS87/P177.PDF"
-	],
-	"cite": [
-		"journals/csur/BernsteinG81",
-		"conf/podc/BernsteinG82",
-		"conf/vldb/BuckleyS83",
-		"conf/vldb/CareyS84",
-		"journals/tocs/CareyM86",
-		"...",
-		"...",
-		"conf/vldb/LinN83",
-		"...",
-		"...",
-		"journals/tocs/Reed83",
-		"...",
-		"journals/jacm/TaySG85",
-		"journals/tods/TayGS85",
-		"...",
-		"...",
-		"conf/sigmetrics/Witkowski86"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS87/P177.PDF", "journals/anthology/dvd1:text/1-3/PODS87/P177.PDF"],
+	"cite": ["journals/csur/BernsteinG81", "conf/podc/BernsteinG82", "conf/vldb/BuckleyS83", "conf/vldb/CareyS84", "journals/tocs/CareyM86", "...", "...", "conf/vldb/LinN83", "...", "...", "journals/tocs/Reed83", "...", "journals/jacm/TaySG85", "journals/tods/TayGS85", "...", "...", "conf/sigmetrics/Witkowski86"],
 	"crossref": "conf/pods/87",
 	"dblpkey": "conf/pods/SunT87",
 	"doi": "10.1145/28659.28678",
-	"ee": "http://doi.acm.org/10.1145/28659.28678",
 	"pages": "177-184",
 	"publisher": "ACM",
-	"stemmed": [
-		"perform",
-		"result",
-		"in",
-		"multivers",
-		"timestamp",
-		"concurr",
-		"control",
-		"with",
-		"predeclar",
-		"writeset"
-	],
-	"tag": [
-		"concurrent",
-		"multi",
-		"performance"
-	],
+	"stemmed": ["perform", "result", "in", "multivers", "timestamp", "concurr", "control", "with", "predeclar", "writeset"],
+	"tag": ["concurrent", "multi", "performance"],
 	"title": "Performance Results in Multiversion Timestamp Concurrency Control with Predeclared Writesets",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,48 +1,15 @@
 {
-	"author": [
-		"Henry F. Korth",
-		"Gregory D. Speegle"
-	],
+	"author": ["Henry F. Korth", "Gregory D. Speegle"],
 	"booktitle": "Proceedings of the 18th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD88/P379.PDF",
-	"cite": [
-		"conf/vldb/BancilhonKK85",
-		"journals/jacm/BeeriBG89",
-		"books/aw/BernsteinHG87",
-		"journals/cacm/EswarranGLT76",
-		"conf/pods/FeketeLMW87",
-		"conf/vldb/KimLMP84",
-		"journals/jacm/Korth83",
-		"...",
-		"conf/sosp/LiskovCJS87",
-		"...",
-		"journals/acr/Lynch86",
-		"...",
-		"conf/sigmod/MossGG86",
-		"journals/jacm/Papadimitriou79b",
-		"...",
-		"conf/pods/PapadimitriouK82",
-		"conf/vldb/WeikumS84",
-		"journals/jacm/Yannakakis82"
-	],
+	"cite": ["conf/vldb/BancilhonKK85", "journals/jacm/BeeriBG89", "books/aw/BernsteinHG87", "journals/cacm/EswarranGLT76", "conf/pods/FeketeLMW87", "conf/vldb/KimLMP84", "journals/jacm/Korth83", "...", "conf/sosp/LiskovCJS87", "...", "journals/acr/Lynch86", "...", "conf/sigmod/MossGG86", "journals/jacm/Papadimitriou79b", "...", "conf/pods/PapadimitriouK82", "conf/vldb/WeikumS84", "journals/jacm/Yannakakis82"],
 	"crossref": "conf/sigmod/88",
 	"dblpkey": "conf/sigmod/KorthS88",
 	"doi": "10.1145/50202.50248",
-	"ee": "http://doi.acm.org/10.1145/50202.50248",
 	"pages": "379-386",
-	"stemmed": [
-		"formal",
-		"model",
-		"of",
-		"correct",
-		"without",
-		"serializ"
-	],
-	"tag": [
-		"correctness",
-		"formal method"
-	],
+	"stemmed": ["formal", "model", "of", "correct", "without", "serializ"],
+	"tag": ["correctness", "formal method"],
 	"title": "Formal Model of Correctness Without Serializability",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

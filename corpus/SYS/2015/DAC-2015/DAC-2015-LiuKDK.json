@@ -1,39 +1,14 @@
 {
-	"author": [
-		"Jun Liu",
-		"Jagadish Kotra",
-		"Wei Ding",
-		"Mahmut T. Kandemir"
-	],
+	"author": ["Jun Liu", "Jagadish Kotra", "Wei Ding", "Mahmut T. Kandemir"],
 	"booktitle": "Proceedings of the 52nd Annual Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2015",
 	"dblpkey": "conf/dac/LiuKDK15",
 	"doi": "10.1145/2744769.2744876",
-	"ee": "http://doi.acm.org/10.1145/2744769.2744876",
 	"pages": "181:1-181:6",
 	"publisher": "ACM",
-	"stemmed": [
-		"network",
-		"footprint",
-		"reduct",
-		"through",
-		"data",
-		"access",
-		"and",
-		"comput",
-		"placement",
-		"in",
-		"no",
-		"c",
-		"base",
-		"manycor"
-	],
-	"tag": [
-		"data access",
-		"network",
-		"reduction"
-	],
+	"stemmed": ["network", "footprint", "reduct", "through", "data", "access", "and", "comput", "placement", "in", "no", "c", "base", "manycor"],
+	"tag": ["data access", "network", "reduction"],
 	"title": "Network footprint reduction through data access and computation placement in NoC-based manycores",
 	"type": "inproceedings",
 	"venue": "DAC",

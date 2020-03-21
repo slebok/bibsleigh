@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Lars Bergstrom",
-		"Matthew Fluet",
-		"Mike Rainey",
-		"John H. Reppy",
-		"Stephen Rosen",
-		"Adam Shaw"
-	],
+	"author": ["Lars Bergstrom", "Matthew Fluet", "Mike Rainey", "John H. Reppy", "Stephen Rosen", "Adam Shaw"],
 	"booktitle": "Proceedings of the 18th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2013",
 	"dblpkey": "conf/ppopp/BergstromFRRRS13",
 	"doi": "10.1145/2442516.2442525",
-	"ee": "http://doi.acm.org/10.1145/2442516.2442525",
 	"pages": "81-92",
 	"publisher": "ACM",
-	"stemmed": [
-		"data",
-		"onli",
-		"flatten",
-		"for",
-		"nest",
-		"data",
-		"parallel"
-	],
-	"tag": [
-		"parallel"
-	],
+	"stemmed": ["data", "onli", "flatten", "for", "nest", "data", "parallel"],
+	"tag": ["parallel"],
 	"title": "Data-only flattening for nested data parallelism",
 	"type": "inproceedings",
 	"venue": "PPoPP",

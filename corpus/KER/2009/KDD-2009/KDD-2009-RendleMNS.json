@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Steffen Rendle",
-		"Leandro Balby Marinho",
-		"Alexandros Nanopoulos",
-		"Lars Schmidt-Thieme"
-	],
+	"author": ["Steffen Rendle", "Leandro Balby Marinho", "Alexandros Nanopoulos", "Lars Schmidt-Thieme"],
 	"booktitle": "Proceedings of the 15th International Conference on Knowledge Discovery and Data Mining",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2009",
 	"dblpkey": "conf/kdd/RendleMNS09",
 	"doi": "10.1145/1557019.1557100",
-	"ee": "http://doi.acm.org/10.1145/1557019.1557100",
 	"pages": "727-736",
 	"publisher": "ACM",
-	"stemmed": [
-		"learn",
-		"optim",
-		"rank",
-		"with",
-		"tensor",
-		"factor",
-		"for",
-		"tag",
-		"recommend"
-	],
-	"tag": [
-		"learning",
-		"ranking",
-		"recommendation"
-	],
+	"stemmed": ["learn", "optim", "rank", "with", "tensor", "factor", "for", "tag", "recommend"],
+	"tag": ["learning", "ranking", "recommendation"],
 	"title": "Learning optimal ranking with tensor factorization for tag recommendation",
 	"type": "inproceedings",
 	"venue": "KDD",

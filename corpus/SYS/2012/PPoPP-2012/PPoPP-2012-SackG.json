@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Paul Sack",
-		"William Gropp"
-	],
+	"author": ["Paul Sack", "William Gropp"],
 	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/SackG12",
 	"doi": "10.1145/2145816.2145823",
-	"ee": "http://doi.acm.org/10.1145/2145816.2145823",
 	"pages": "45-54",
 	"publisher": "ACM",
-	"stemmed": [
-		"faster",
-		"topolog",
-		"awar",
-		"collect",
-		"algorithm",
-		"through",
-		"non",
-		"minim",
-		"communic"
-	],
-	"tag": [
-		"algorithm",
-		"communication",
-		"performance"
-	],
+	"stemmed": ["faster", "topolog", "awar", "collect", "algorithm", "through", "non", "minim", "communic"],
+	"tag": ["algorithm", "communication", "performance"],
 	"title": "Faster topology-aware collective algorithms through non-minimal communication",
 	"type": "inproceedings",
 	"venue": "PPoPP",

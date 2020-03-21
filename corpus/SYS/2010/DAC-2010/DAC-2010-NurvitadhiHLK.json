@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Eriko Nurvitadhi",
-		"James C. Hoe",
-		"Shih-Lien Lu",
-		"Timothy Kam"
-	],
+	"author": ["Eriko Nurvitadhi", "James C. Hoe", "Shih-Lien Lu", "Timothy Kam"],
 	"booktitle": "Proceedings of the 47th Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2010",
 	"dblpkey": "conf/dac/NurvitadhiHLK10",
 	"doi": "10.1145/1837274.1837356",
-	"ee": "http://doi.acm.org/10.1145/1837274.1837356",
 	"pages": "314-319",
 	"publisher": "ACM",
-	"stemmed": [
-		"automat",
-		"multithread",
-		"pipelin",
-		"synthesi",
-		"from",
-		"transact",
-		"datapath",
-		"specif"
-	],
-	"tag": [
-		"automation",
-		"parallel",
-		"pipes and filters",
-		"specification",
-		"synthesis",
-		"thread",
-		"transaction"
-	],
+	"stemmed": ["automat", "multithread", "pipelin", "synthesi", "from", "transact", "datapath", "specif"],
+	"tag": ["automation", "parallel", "pipes and filters", "specification", "synthesis", "thread", "transaction"],
 	"title": "Automatic multithreaded pipeline synthesis from transactional datapath specifications",
 	"type": "inproceedings",
 	"venue": "DAC",

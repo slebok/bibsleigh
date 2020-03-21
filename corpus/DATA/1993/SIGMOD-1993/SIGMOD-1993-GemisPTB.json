@@ -1,42 +1,16 @@
 {
-	"author": [
-		"Marc Gemis",
-		"Jan Paredaens",
-		"Inge Thyssens",
-		"Jan Van den Bussche"
-	],
+	"author": ["Marc Gemis", "Jan Paredaens", "Inge Thyssens", "Jan Van den Bussche"],
 	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD93/P505.PDF",
-	"cite": [
-		"journals/sigmod/ParedaensBAGGTGSS92",
-		"conf/pods/GyssensPG90",
-		"conf/sigmod/GyssensPG90",
-		"conf/edbt/AndriesGPTB92",
-		"...",
-		"conf/focs/BusscheGAG92",
-		"...",
-		"..."
-	],
+	"cite": ["journals/sigmod/ParedaensBAGGTGSS92", "conf/pods/GyssensPG90", "conf/sigmod/GyssensPG90", "conf/edbt/AndriesGPTB92", "...", "conf/focs/BusscheGAG92", "...", "..."],
 	"crossref": "conf/sigmod/93",
 	"dblpkey": "conf/sigmod/GemisPTB93",
 	"doi": "10.1145/170035.171533",
-	"ee": "http://doi.acm.org/10.1145/170035.171533",
 	"pages": "505-510",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"good",
-		"a",
-		"graph",
-		"orient",
-		"object",
-		"databas",
-		"system"
-	],
-	"tag": [
-		"database",
-		"named"
-	],
+	"stemmed": ["good", "a", "graph", "orient", "object", "databas", "system"],
+	"tag": ["database", "named"],
 	"title": "GOOD: AGraph-Oriented Object Database System",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

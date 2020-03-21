@@ -1,52 +1,16 @@
 {
-	"author": [
-		"Raghu Ramakrishnan",
-		"Yehoshua Sagiv",
-		"Jeffrey D. Ullman",
-		"Moshe Y. Vardi"
-	],
+	"author": ["Raghu Ramakrishnan", "Yehoshua Sagiv", "Jeffrey D. Ullman", "Moshe Y. Vardi"],
 	"booktitle": "Proceedings of the Eighth Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS89/P172.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS89/P172.PDF"
-	],
-	"cite": [
-		"conf/pods/BancilhonMSU86",
-		"conf/stoc/ChandraLM81",
-		"conf/stoc/ChandraM77",
-		"conf/pods/CosmadakisK86",
-		"conf/lics/GaifmanMSV87",
-		"conf/eds/IoannidisW88",
-		"journals/jlp/Ioannidis92",
-		"...",
-		"...",
-		"conf/sigmod/Naughton88",
-		"conf/pods/SaccaZ86",
-		"conf/pods/Sagiv87",
-		"conf/pods/Saraiya89",
-		"conf/pods/Shmueli87",
-		"books/cs/Ullman88",
-		"..."
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS89/P172.PDF", "journals/anthology/dvd1:text/1-3/PODS89/P172.PDF"],
+	"cite": ["conf/pods/BancilhonMSU86", "conf/stoc/ChandraLM81", "conf/stoc/ChandraM77", "conf/pods/CosmadakisK86", "conf/lics/GaifmanMSV87", "conf/eds/IoannidisW88", "journals/jlp/Ioannidis92", "...", "...", "conf/sigmod/Naughton88", "conf/pods/SaccaZ86", "conf/pods/Sagiv87", "conf/pods/Saraiya89", "conf/pods/Shmueli87", "books/cs/Ullman88", "..."],
 	"crossref": "conf/pods/89",
 	"dblpkey": "conf/pods/RamakrishnanSUV89",
 	"doi": "10.1145/73721.73739",
-	"ee": "http://doi.acm.org/10.1145/73721.73739",
 	"pages": "172-181",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"proof",
-		"tree",
-		"transform",
-		"theorem",
-		"and",
-		"their",
-		"applic"
-	],
-	"tag": [
-		"theorem"
-	],
+	"stemmed": ["proof", "tree", "transform", "theorem", "and", "their", "applic"],
+	"tag": ["theorem"],
 	"title": "Proof-Tree Transformation Theorems and Their Applications",
 	"type": "inproceedings",
 	"venue": "PODS",

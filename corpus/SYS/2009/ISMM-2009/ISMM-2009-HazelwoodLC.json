@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Kim M. Hazelwood",
-		"Greg Lueck",
-		"Robert Cohn"
-	],
+	"author": ["Kim M. Hazelwood", "Greg Lueck", "Robert Cohn"],
 	"booktitle": "Proceedings of the Eighth International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2009",
 	"dblpkey": "conf/iwmm/HazelwoodLC09",
 	"doi": "10.1145/1542431.1542435",
-	"ee": "http://doi.acm.org/10.1145/1542431.1542435",
 	"pages": "20-29",
 	"publisher": "ACM",
-	"stemmed": [
-		"scalabl",
-		"support",
-		"for",
-		"multithread",
-		"applic",
-		"on",
-		"dynam",
-		"binari",
-		"instrument",
-		"system"
-	],
-	"tag": [
-		"parallel",
-		"scalability",
-		"thread"
-	],
+	"stemmed": ["scalabl", "support", "for", "multithread", "applic", "on", "dynam", "binari", "instrument", "system"],
+	"tag": ["parallel", "scalability", "thread"],
 	"title": "Scalable support for multithreaded applications on dynamic binary instrumentation systems",
 	"type": "inproceedings",
 	"venue": "ISMM",

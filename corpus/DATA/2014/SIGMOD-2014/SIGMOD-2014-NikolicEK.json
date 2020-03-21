@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Milos Nikolic",
-		"Mohammed Elseidy",
-		"Christoph Koch"
-	],
+	"author": ["Milos Nikolic", "Mohammed Elseidy", "Christoph Koch"],
 	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/NikolicEK14",
 	"doi": "10.1145/2588555.2610519",
-	"ee": "http://doi.acm.org/10.1145/2588555.2610519",
 	"pages": "253-264",
 	"publisher": "ACM",
-	"stemmed": [
-		"linview",
-		"increment",
-		"view",
-		"mainten",
-		"for",
-		"complex",
-		"analyt",
-		"queri"
-	],
-	"tag": [
-		"incremental",
-		"maintenance",
-		"named",
-		"query"
-	],
+	"stemmed": ["linview", "increment", "view", "mainten", "for", "complex", "analyt", "queri"],
+	"tag": ["incremental", "maintenance", "named", "query"],
 	"title": "LINVIEW: incremental view maintenance for complex analytical queries",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

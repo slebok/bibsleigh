@@ -1,52 +1,16 @@
 {
-	"author": [
-		"Bing-Chao Huang",
-		"Michael A. Langston"
-	],
+	"author": ["Bing-Chao Huang", "Michael A. Langston"],
 	"booktitle": "Proceedings of the Seventh Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS88/P288.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS88/P288.PDF"
-	],
-	"cite": [
-		"...",
-		"journals/acta/HuangL89",
-		"journals/cacm/HuangL88",
-		"...",
-		"journals/jacm/Horvath78",
-		"books/aw/Knuth73",
-		"...",
-		"...",
-		"...",
-		"...",
-		"journals/siamcomp/Pardo77",
-		"journals/jacm/Reingold72",
-		"journals/acta/Sedgewick77",
-		"journals/ipl/SaloweS87"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS88/P288.PDF", "journals/anthology/dvd1:text/1-3/PODS88/P288.PDF"],
+	"cite": ["...", "journals/acta/HuangL89", "journals/cacm/HuangL88", "...", "journals/jacm/Horvath78", "books/aw/Knuth73", "...", "...", "...", "...", "journals/siamcomp/Pardo77", "journals/jacm/Reingold72", "journals/acta/Sedgewick77", "journals/ipl/SaloweS87"],
 	"crossref": "conf/pods/88",
 	"dblpkey": "conf/pods/HuangL88",
 	"doi": "10.1145/308386.308458",
-	"ee": "http://doi.acm.org/10.1145/308386.308458",
 	"pages": "288-293",
 	"publisher": "ACM",
-	"stemmed": [
-		"stabl",
-		"set",
-		"and",
-		"multiset",
-		"oper",
-		"in",
-		"optim",
-		"time",
-		"and",
-		"space"
-	],
-	"tag": [
-		"multi",
-		"set"
-	],
+	"stemmed": ["stabl", "set", "and", "multiset", "oper", "in", "optim", "time", "and", "space"],
+	"tag": ["multi", "set"],
 	"title": "Stable Set and Multiset Operations in Optimal Time and Space",
 	"type": "inproceedings",
 	"venue": "PODS",

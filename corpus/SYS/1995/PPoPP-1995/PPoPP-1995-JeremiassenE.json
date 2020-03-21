@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Tor E. Jeremiassen",
-		"Susan J. Eggers"
-	],
+	"author": ["Tor E. Jeremiassen", "Susan J. Eggers"],
 	"booktitle": "Proceedings of the Fifth Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1995",
 	"dblpkey": "conf/ppopp/JeremiassenE95",
 	"doi": "10.1145/209936.209955",
-	"ee": "http://doi.acm.org/10.1145/209936.209955",
 	"pages": "179-188",
 	"publisher": "ACM",
-	"stemmed": [
-		"reduc",
-		"fals",
-		"share",
-		"on",
-		"share",
-		"memori",
-		"multiprocessor",
-		"through",
-		"compil",
-		"time",
-		"data",
-		"transform"
-	],
-	"tag": [
-		"data transformation",
-		"memory management",
-		"multi"
-	],
+	"stemmed": ["reduc", "fals", "share", "on", "share", "memori", "multiprocessor", "through", "compil", "time", "data", "transform"],
+	"tag": ["data transformation", "memory management", "multi"],
 	"title": "Reducing False Sharing on Shared Memory Multiprocessors through Compile Time Data Transformations",
 	"type": "inproceedings",
 	"venue": "PPoPP",

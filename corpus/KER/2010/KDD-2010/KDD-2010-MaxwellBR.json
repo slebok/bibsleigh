@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Evan K. Maxwell",
-		"Godmar Back",
-		"Naren Ramakrishnan"
-	],
+	"author": ["Evan K. Maxwell", "Godmar Back", "Naren Ramakrishnan"],
 	"booktitle": "Proceedings of the 16th International Conference on Knowledge Discovery and Data Mining",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2010",
 	"dblpkey": "conf/kdd/MaxwellBR10",
 	"doi": "10.1145/1835804.1835822",
-	"ee": "http://doi.acm.org/10.1145/1835804.1835822",
 	"pages": "115-124",
 	"publisher": "ACM",
-	"stemmed": [
-		"diagnos",
-		"memori",
-		"leak",
-		"use",
-		"graph",
-		"mine",
-		"on",
-		"heap",
-		"dump"
-	],
-	"tag": [
-		"graph",
-		"memory management",
-		"mining",
-		"using"
-	],
+	"stemmed": ["diagnos", "memori", "leak", "use", "graph", "mine", "on", "heap", "dump"],
+	"tag": ["graph", "memory management", "mining", "using"],
 	"title": "Diagnosing memory leaks using graph mining on heap dumps",
 	"type": "inproceedings",
 	"venue": "KDD",

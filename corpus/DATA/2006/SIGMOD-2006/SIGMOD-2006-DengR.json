@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Fan Deng",
-		"Davood Rafiei"
-	],
+	"author": ["Fan Deng", "Davood Rafiei"],
 	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2006",
 	"dblpkey": "conf/sigmod/DengR06",
 	"doi": "10.1145/1142473.1142477",
-	"ee": "http://doi.acm.org/10.1145/1142473.1142477",
 	"pages": "25-36",
 	"publisher": "ACM",
-	"stemmed": [
-		"approxim",
-		"detect",
-		"duplic",
-		"for",
-		"stream",
-		"data",
-		"use",
-		"stabl",
-		"bloom",
-		"filter"
-	],
-	"tag": [
-		"approximate",
-		"detection",
-		"streaming",
-		"using"
-	],
+	"stemmed": ["approxim", "detect", "duplic", "for", "stream", "data", "use", "stabl", "bloom", "filter"],
+	"tag": ["approximate", "detection", "streaming", "using"],
 	"title": "Approximately detecting duplicates for streaming data using stable bloom filters",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

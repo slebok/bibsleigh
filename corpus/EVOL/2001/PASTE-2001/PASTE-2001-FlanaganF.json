@@ -1,29 +1,14 @@
 {
-	"author": [
-		"Cormac Flanagan",
-		"Stephen N. Freund"
-	],
+	"author": ["Cormac Flanagan", "Stephen N. Freund"],
 	"booktitle": "Proceedings of the Third Workshop on Program Analysis for Software Tools and Engineering",
 	"booktitleshort": "PASTE",
 	"crossref": "conf/paste/2001",
 	"dblpkey": "conf/paste/FlanaganF01",
 	"doi": "10.1145/379605.379687",
-	"ee": "http://doi.acm.org/10.1145/379605.379687",
 	"pages": "90-96",
 	"publisher": "ACM",
-	"stemmed": [
-		"detect",
-		"race",
-		"condit",
-		"in",
-		"larg",
-		"program"
-	],
-	"tag": [
-		"detection",
-		"scalability",
-		"source code"
-	],
+	"stemmed": ["detect", "race", "condit", "in", "larg", "program"],
+	"tag": ["detection", "scalability", "source code"],
 	"title": "Detecting race conditions in large programs",
 	"type": "inproceedings",
 	"venue": "PASTE",

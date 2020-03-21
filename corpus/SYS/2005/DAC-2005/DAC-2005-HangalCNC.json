@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Sudheendra Hangal",
-		"Naveen Chandra",
-		"Sridhar Narayanan",
-		"Sandeep Chakravorty"
-	],
+	"author": ["Sudheendra Hangal", "Naveen Chandra", "Sridhar Narayanan", "Sandeep Chakravorty"],
 	"booktitle": "Proceedings of the 42nd Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2005",
 	"dblpkey": "conf/dac/HangalCNC05",
 	"doi": "10.1145/1065579.1065786",
-	"ee": "http://doi.acm.org/10.1145/1065579.1065786",
 	"pages": "775-778",
 	"publisher": "ACM",
-	"stemmed": [
-		"iodin",
-		"a",
-		"tool",
-		"to",
-		"automat",
-		"infer",
-		"dynam",
-		"invari",
-		"for",
-		"hardwar",
-		"design"
-	],
-	"tag": [
-		"automation",
-		"design",
-		"hardware",
-		"invariant",
-		"named"
-	],
+	"stemmed": ["iodin", "a", "tool", "to", "automat", "infer", "dynam", "invari", "for", "hardwar", "design"],
+	"tag": ["automation", "design", "hardware", "invariant", "named"],
 	"title": "IODINE: a tool to automatically infer dynamic invariants for hardware designs",
 	"type": "inproceedings",
 	"venue": "DAC",

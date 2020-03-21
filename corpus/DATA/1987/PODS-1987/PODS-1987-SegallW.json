@@ -1,46 +1,16 @@
 {
-	"author": [
-		"Adrian Segall",
-		"Ouri Wolfson"
-	],
+	"author": ["Adrian Segall", "Ouri Wolfson"],
 	"booktitle": "Proceedings of the Sixth Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS87/P112.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS87/P112.PDF"
-	],
-	"cite": [
-		"conf/podc/CoanL86",
-		"books/mg/CeriP84",
-		"conf/podc/DworkS83",
-		"conf/podc/DworkS84",
-		"...",
-		"journals/jacm/FischerLP85",
-		"...",
-		"conf/ac/Gray78",
-		"journals/cacm/Lamport78",
-		"conf/pods/Ramarao85",
-		"...",
-		"conf/sigmod/Skeen81"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS87/P112.PDF", "journals/anthology/dvd1:text/1-3/PODS87/P112.PDF"],
+	"cite": ["conf/podc/CoanL86", "books/mg/CeriP84", "conf/podc/DworkS83", "conf/podc/DworkS84", "...", "journals/jacm/FischerLP85", "...", "conf/ac/Gray78", "journals/cacm/Lamport78", "conf/pods/Ramarao85", "...", "conf/sigmod/Skeen81"],
 	"crossref": "conf/pods/87",
 	"dblpkey": "conf/pods/SegallW87",
 	"doi": "10.1145/28659.28670",
-	"ee": "http://doi.acm.org/10.1145/28659.28670",
 	"pages": "112-118",
 	"publisher": "ACM",
-	"stemmed": [
-		"transact",
-		"commit",
-		"at",
-		"minim",
-		"communic",
-		"cost"
-	],
-	"tag": [
-		"communication",
-		"transaction"
-	],
+	"stemmed": ["transact", "commit", "at", "minim", "communic", "cost"],
+	"tag": ["communication", "transaction"],
 	"title": "Transaction Commitment at Minimal Communication Cost",
 	"type": "inproceedings",
 	"venue": "PODS",

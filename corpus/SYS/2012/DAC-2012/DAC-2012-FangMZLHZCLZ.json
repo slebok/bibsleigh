@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Zhenman Fang",
-		"Qinghao Min",
-		"Keyong Zhou",
-		"Yi Lu",
-		"Yibin Hu",
-		"Weihua Zhang",
-		"Haibo Chen",
-		"Jian Li",
-		"Binyu Zang"
-	],
+	"author": ["Zhenman Fang", "Qinghao Min", "Keyong Zhou", "Yi Lu", "Yibin Hu", "Weihua Zhang", "Haibo Chen", "Jian Li", "Binyu Zang"],
 	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/FangMZLHZCLZ12",
 	"doi": "10.1145/2228360.2228381",
-	"ee": "http://doi.acm.org/10.1145/2228360.2228381",
 	"pages": "106-114",
 	"publisher": "ACM",
-	"stemmed": [
-		"transform",
-		"a",
-		"function",
-		"driven",
-		"cycl",
-		"accur",
-		"multicor",
-		"simul"
-	],
-	"tag": [
-		"manycore",
-		"named"
-	],
+	"stemmed": ["transform", "a", "function", "driven", "cycl", "accur", "multicor", "simul"],
+	"tag": ["manycore", "named"],
 	"title": "Transformer: a functional-driven cycle-accurate multicore simulator",
 	"type": "inproceedings",
 	"venue": "DAC",

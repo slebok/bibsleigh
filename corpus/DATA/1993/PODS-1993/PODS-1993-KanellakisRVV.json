@@ -1,57 +1,16 @@
 {
-	"author": [
-		"Paris C. Kanellakis",
-		"Sridhar Ramaswamy",
-		"Darren Erik Vengroff",
-		"Jeffrey Scott Vitter"
-	],
+	"author": ["Paris C. Kanellakis", "Sridhar Ramaswamy", "Darren Erik Vengroff", "Jeffrey Scott Vitter"],
 	"booktitle": "Proceedings of the 12th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS93/P233.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS93/P233.PDF"
-	],
-	"cite": [
-		"journals/acta/BayerM72",
-		"...",
-		"journals/cacm/Codd70",
-		"journals/csur/Comer79",
-		"...",
-		"conf/popl/JaffarL87",
-		"conf/pods/KanellakisKR90",
-		"...",
-		"...",
-		"conf/sigmod/LowOL92",
-		"conf/oodbs/MaierS86",
-		"journals/siamcomp/McCreight85",
-		"journals/acta/OvermarsSBK89",
-		"...",
-		"books/aw/Samet90",
-		"journals/jcss/SleatorT83",
-		"journals/acta/SmidO89",
-		"conf/stacs/Vitter91",
-		"books/mk/ZdonikM90"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS93/P233.PDF", "journals/anthology/dvd1:text/1-3/PODS93/P233.PDF"],
+	"cite": ["journals/acta/BayerM72", "...", "journals/cacm/Codd70", "journals/csur/Comer79", "...", "conf/popl/JaffarL87", "conf/pods/KanellakisKR90", "...", "...", "conf/sigmod/LowOL92", "conf/oodbs/MaierS86", "journals/siamcomp/McCreight85", "journals/acta/OvermarsSBK89", "...", "books/aw/Samet90", "journals/jcss/SleatorT83", "journals/acta/SmidO89", "conf/stacs/Vitter91", "books/mk/ZdonikM90"],
 	"crossref": "conf/pods/93",
 	"dblpkey": "conf/pods/KanellakisRVV93",
 	"doi": "10.1145/153850.153884",
-	"ee": "http://doi.acm.org/10.1145/153850.153884",
 	"pages": "233-243",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"index",
-		"for",
-		"data",
-		"model",
-		"with",
-		"constraint",
-		"and",
-		"class"
-	],
-	"tag": [
-		"constraints",
-		"modelling"
-	],
+	"stemmed": ["index", "for", "data", "model", "with", "constraint", "and", "class"],
+	"tag": ["constraints", "modelling"],
 	"title": "Indexing for Data Models with Constraints and Classes",
 	"type": "inproceedings",
 	"venue": "PODS",

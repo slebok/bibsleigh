@@ -1,55 +1,16 @@
 {
-	"author": [
-		"S. Seshadri",
-		"Jeffrey F. Naughton"
-	],
+	"author": ["S. Seshadri", "Jeffrey F. Naughton"],
 	"booktitle": "Proceedings of the 10th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS91/P268.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS91/P268.PDF"
-	],
-	"cite": [
-		"...",
-		"conf/pods/BeeriKBR87",
-		"conf/pods/BancilhonMSU86",
-		"...",
-		"conf/pods/BeeriR87",
-		"...",
-		"conf/icde/GangulyKS91",
-		"conf/icde/HanL86",
-		"conf/pods/HaddadN88",
-		"...",
-		"conf/pods/Marchetti-SpaccamelaPS87",
-		"...",
-		"conf/vldb/NaughtonRSU89",
-		"conf/focs/Raghavan86",
-		"conf/iclp/Ramakrishnan88",
-		"...",
-		"conf/sigmod/SaccaZ87"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS91/P268.PDF", "journals/anthology/dvd1:text/1-3/PODS91/P268.PDF"],
+	"cite": ["...", "conf/pods/BeeriKBR87", "conf/pods/BancilhonMSU86", "...", "conf/pods/BeeriR87", "...", "conf/icde/GangulyKS91", "conf/icde/HanL86", "conf/pods/HaddadN88", "...", "conf/pods/Marchetti-SpaccamelaPS87", "...", "conf/vldb/NaughtonRSU89", "conf/focs/Raghavan86", "conf/iclp/Ramakrishnan88", "...", "conf/sigmod/SaccaZ87"],
 	"crossref": "conf/pods/91",
 	"dblpkey": "conf/pods/SeshadriN91",
 	"doi": "10.1145/113413.113438",
-	"ee": "http://doi.acm.org/10.1145/113413.113438",
 	"pages": "268-279",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"on",
-		"the",
-		"expect",
-		"size",
-		"of",
-		"recurs",
-		"datalog",
-		"queri"
-	],
-	"tag": [
-		"datalog",
-		"on the",
-		"query",
-		"recursion"
-	],
+	"stemmed": ["on", "the", "expect", "size", "of", "recurs", "datalog", "queri"],
+	"tag": ["datalog", "on the", "query", "recursion"],
 	"title": "On the Expected Size of Recursive Datalog Queries",
 	"type": "inproceedings",
 	"venue": "PODS",

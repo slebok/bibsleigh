@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Ben Verghese",
-		"Scott Devine",
-		"Anoop Gupta",
-		"Mendel Rosenblum"
-	],
+	"author": ["Ben Verghese", "Scott Devine", "Anoop Gupta", "Mendel Rosenblum"],
 	"booktitle": "Proceedings of the Seventh International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1996",
 	"dblpkey": "conf/asplos/VergheseDGR96",
 	"doi": "10.1145/237090.237205",
-	"ee": "http://doi.acm.org/10.1145/237090.237205",
 	"pages": "279-289",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"oper",
-		"system",
-		"support",
-		"for",
-		"improv",
-		"data",
-		"local",
-		"on",
-		"cc",
-		"numa",
-		"comput",
-		"server"
-	],
-	"tag": [
-		"locality",
-		"operating system"
-	],
+	"stemmed": ["oper", "system", "support", "for", "improv", "data", "local", "on", "cc", "numa", "comput", "server"],
+	"tag": ["locality", "operating system"],
 	"title": "Operating System Support for Improving Data Locality on CC-NUMA Compute Servers",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

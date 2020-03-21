@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Puneet Gupta",
-		"Andrew B. Kahng",
-		"Puneet Sharma",
-		"Dennis Sylvester"
-	],
+	"author": ["Puneet Gupta", "Andrew B. Kahng", "Puneet Sharma", "Dennis Sylvester"],
 	"booktitle": "Proceedings of the 41st Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2004",
 	"dblpkey": "conf/dac/GuptaKSS04",
 	"doi": "10.1145/996566.996661",
-	"ee": "http://doi.acm.org/10.1145/996566.996661",
 	"pages": "327-330",
 	"publisher": "ACM",
-	"stemmed": [
-		"select",
-		"gate",
-		"length",
-		"bias",
-		"for",
-		"cost",
-		"effect",
-		"runtim",
-		"leakag",
-		"control"
-	],
-	"tag": [
-		"effectiveness",
-		"runtime"
-	],
+	"stemmed": ["select", "gate", "length", "bias", "for", "cost", "effect", "runtim", "leakag", "control"],
+	"tag": ["effectiveness", "runtime"],
 	"title": "Selective gate-length biasing for cost-effective runtime leakage control",
 	"type": "inproceedings",
 	"venue": "DAC",

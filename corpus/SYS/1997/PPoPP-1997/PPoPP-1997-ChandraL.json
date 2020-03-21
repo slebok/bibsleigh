@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Satish Chandra",
-		"James R. Larus"
-	],
+	"author": ["Satish Chandra", "James R. Larus"],
 	"booktitle": "Proceedings of the Sixth Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1997",
 	"dblpkey": "conf/ppopp/ChandraL97",
 	"doi": "10.1145/263764.263780",
-	"ee": "http://doi.acm.org/10.1145/263764.263780",
 	"pages": "100-111",
 	"publisher": "ACM",
-	"stemmed": [
-		"optim",
-		"communic",
-		"in",
-		"hpf",
-		"program",
-		"for",
-		"fine",
-		"grain",
-		"distribut",
-		"share",
-		"memori"
-	],
-	"tag": [
-		"communication",
-		"distributed",
-		"memory management",
-		"optimisation",
-		"source code"
-	],
+	"stemmed": ["optim", "communic", "in", "hpf", "program", "for", "fine", "grain", "distribut", "share", "memori"],
+	"tag": ["communication", "distributed", "memory management", "optimisation", "source code"],
 	"title": "Optimizing Communication in HPF programs for Fine-Grain Distributed Shared Memory",
 	"type": "inproceedings",
 	"venue": "PPoPP",

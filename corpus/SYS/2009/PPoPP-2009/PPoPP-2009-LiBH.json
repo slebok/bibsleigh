@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Tong Li",
-		"Dan P. Baumberger",
-		"Scott Hahn"
-	],
+	"author": ["Tong Li", "Dan P. Baumberger", "Scott Hahn"],
 	"booktitle": "Proceedings of the 14th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2009",
 	"dblpkey": "conf/ppopp/LiBH09",
 	"doi": "10.1145/1504176.1504188",
-	"ee": "http://doi.acm.org/10.1145/1504176.1504188",
 	"pages": "65-74",
 	"publisher": "ACM",
-	"stemmed": [
-		"effici",
-		"and",
-		"scalabl",
-		"multiprocessor",
-		"fair",
-		"schedul",
-		"use",
-		"distribut",
-		"weight",
-		"round",
-		"robin"
-	],
-	"tag": [
-		"distributed",
-		"multi",
-		"performance",
-		"scalability",
-		"scheduling",
-		"using"
-	],
+	"stemmed": ["effici", "and", "scalabl", "multiprocessor", "fair", "schedul", "use", "distribut", "weight", "round", "robin"],
+	"tag": ["distributed", "multi", "performance", "scalability", "scheduling", "using"],
 	"title": "Efficient and scalable multiprocessor fair scheduling using distributed weighted round-robin",
 	"type": "inproceedings",
 	"venue": "PPoPP",

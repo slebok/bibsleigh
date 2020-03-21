@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Sari Onaissi",
-		"Khaled R. Heloue",
-		"Farid N. Najm"
-	],
+	"author": ["Sari Onaissi", "Khaled R. Heloue", "Farid N. Najm"],
 	"booktitle": "Proceedings of the 46th Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/OnaissiHN09",
 	"doi": "10.1145/1629911.1629964",
-	"ee": "http://doi.acm.org/10.1145/1629911.1629964",
 	"pages": "196-201",
 	"publisher": "ACM",
-	"stemmed": [
-		"clock",
-		"skew",
-		"optim",
-		"via",
-		"wires",
-		"for",
-		"time",
-		"sign",
-		"off",
-		"cover",
-		"all",
-		"process",
-		"corner"
-	],
-	"tag": [
-		"optimisation",
-		"process"
-	],
+	"stemmed": ["clock", "skew", "optim", "via", "wires", "for", "time", "sign", "off", "cover", "all", "process", "corner"],
+	"tag": ["optimisation", "process"],
 	"title": "Clock skew optimization via wiresizing for timing sign-off covering all process corners",
 	"type": "inproceedings",
 	"venue": "DAC",

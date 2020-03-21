@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Evgueni Brevnov",
-		"Yuri Dolgov",
-		"Boris Kuznetsov",
-		"Dmitry Yershov",
-		"Vyacheslav Shakin",
-		"Dong-yuan Chen",
-		"Vijay Menon",
-		"Suresh Srinivas"
-	],
+	"author": ["Evgueni Brevnov", "Yuri Dolgov", "Boris Kuznetsov", "Dmitry Yershov", "Vyacheslav Shakin", "Dong-yuan Chen", "Vijay Menon", "Suresh Srinivas"],
 	"booktitle": "Proceedings of the 13th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2008",
 	"dblpkey": "conf/ppopp/BrevnovDKYSCMS08",
 	"doi": "10.1145/1345206.1345259",
-	"ee": "http://doi.acm.org/10.1145/1345206.1345259",
 	"pages": "287-288",
 	"publisher": "ACM",
-	"stemmed": [
-		"practic",
-		"experi",
-		"with",
-		"java",
-		"softwar",
-		"transact",
-		"memori"
-	],
-	"tag": [
-		"case study",
-		"experience",
-		"java",
-		"memory management",
-		"transaction"
-	],
+	"stemmed": ["practic", "experi", "with", "java", "softwar", "transact", "memori"],
+	"tag": ["case study", "experience", "java", "memory management", "transaction"],
 	"title": "Practical experiences with Java software transactional memory",
 	"type": "inproceedings",
 	"venue": "PPoPP",

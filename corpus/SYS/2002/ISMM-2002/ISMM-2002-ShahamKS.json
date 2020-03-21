@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Ran Shaham",
-		"Elliot K. Kolodner",
-		"Shmuel Sagiv"
-	],
+	"author": ["Ran Shaham", "Elliot K. Kolodner", "Shmuel Sagiv"],
 	"booktitle": "Proceedings of the Third International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2002",
 	"dblpkey": "conf/iwmm/ShahamKS02",
 	"doi": "10.1145/773039.512437",
-	"ee": "http://doi.acm.org/10.1145/773039.512437",
 	"pages": "171-182",
 	"publisher": "ACM",
-	"stemmed": [
-		"estim",
-		"the",
-		"impact",
-		"of",
-		"heap",
-		"live",
-		"inform",
-		"on",
-		"space",
-		"consumpt",
-		"in",
-		"java"
-	],
-	"tag": [
-		"impact analysis",
-		"java",
-		"liveness"
-	],
+	"stemmed": ["estim", "the", "impact", "of", "heap", "live", "inform", "on", "space", "consumpt", "in", "java"],
+	"tag": ["impact analysis", "java", "liveness"],
 	"title": "Estimating the impact of heap liveness information on space consumption in Java",
 	"type": "inproceedings",
 	"venue": "ISMM",

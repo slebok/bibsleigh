@@ -1,30 +1,14 @@
 {
-	"author": [
-		"Erik M. Nystrom",
-		"Hong-Seok Kim",
-		"Wen-mei W. Hwu"
-	],
+	"author": ["Erik M. Nystrom", "Hong-Seok Kim", "Wen-mei W. Hwu"],
 	"booktitle": "Proceedings of the Fifth Workshop on Program Analysis for Software Tools and Engineering",
 	"booktitleshort": "PASTE",
 	"crossref": "conf/paste/2004",
 	"dblpkey": "conf/paste/NystromKH04",
 	"doi": "10.1145/996821.996836",
-	"ee": "http://doi.acm.org/10.1145/996821.996836",
 	"pages": "43-48",
 	"publisher": "ACM",
-	"stemmed": [
-		"import",
-		"of",
-		"heap",
-		"special",
-		"in",
-		"pointer",
-		"analysi"
-	],
-	"tag": [
-		"analysis",
-		"pointer"
-	],
+	"stemmed": ["import", "of", "heap", "special", "in", "pointer", "analysi"],
+	"tag": ["analysis", "pointer"],
 	"title": "Importance of heap specialization in pointer analysis",
 	"type": "inproceedings",
 	"venue": "PASTE",

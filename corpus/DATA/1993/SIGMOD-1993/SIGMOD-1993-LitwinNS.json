@@ -1,46 +1,16 @@
 {
-	"author": [
-		"Witold Litwin",
-		"Marie-Anne Neimat",
-		"Donovan A. Schneider"
-	],
+	"author": ["Witold Litwin", "Marie-Anne Neimat", "Donovan A. Schneider"],
 	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD93/P327.PDF",
-	"cite": [
-		"journals/csur/EnbodyD88",
-		"journals/tods/Ellis87",
-		"conf/icde/HachemB89",
-		"conf/icdt/KriegelS86",
-		"conf/vldb/Larson80",
-		"journals/cacm/Larson88",
-		"conf/vldb/Litwin80",
-		"...",
-		"journals/tse/LitwinRLH91",
-		"journals/cj/OuT91",
-		"books/ph/Salzberg88",
-		"books/aw/Samet90",
-		"...",
-		"conf/vldb/SeverancePW90"
-	],
+	"cite": ["journals/csur/EnbodyD88", "journals/tods/Ellis87", "conf/icde/HachemB89", "conf/icdt/KriegelS86", "conf/vldb/Larson80", "journals/cacm/Larson88", "conf/vldb/Litwin80", "...", "journals/tse/LitwinRLH91", "journals/cj/OuT91", "books/ph/Salzberg88", "books/aw/Samet90", "...", "conf/vldb/SeverancePW90"],
 	"crossref": "conf/sigmod/93",
 	"dblpkey": "conf/sigmod/LitwinNS93",
 	"doi": "10.1145/170035.170084",
-	"ee": "http://doi.acm.org/10.1145/170035.170084",
 	"pages": "327-336",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"lh",
-		"linear",
-		"hash",
-		"for",
-		"distribut",
-		"file"
-	],
-	"tag": [
-		"distributed",
-		"linear"
-	],
+	"stemmed": ["lh", "linear", "hash", "for", "distribut", "file"],
+	"tag": ["distributed", "linear"],
 	"title": "LH* — Linear Hashing for Distributed Files",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Nan Jiang",
-		"Le Gruenwald"
-	],
+	"author": ["Nan Jiang", "Le Gruenwald"],
 	"booktitle": "Proceedings of the 12th International Conference on Knowledge Discovery and Data Mining",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2006",
 	"dblpkey": "conf/kdd/JiangG06",
 	"doi": "10.1145/1150402.1150473",
-	"ee": "http://doi.acm.org/10.1145/1150402.1150473",
 	"pages": "592-597",
 	"publisher": "ACM",
-	"stemmed": [
-		"cfi",
-		"stream",
-		"mine",
-		"close",
-		"frequent",
-		"itemset",
-		"in",
-		"data",
-		"stream"
-	],
-	"tag": [
-		"data type",
-		"mining",
-		"named"
-	],
+	"stemmed": ["cfi", "stream", "mine", "close", "frequent", "itemset", "in", "data", "stream"],
+	"tag": ["data type", "mining", "named"],
 	"title": "CFI-Stream: mining closed frequent itemsets in data streams",
 	"type": "inproceedings",
 	"venue": "KDD",

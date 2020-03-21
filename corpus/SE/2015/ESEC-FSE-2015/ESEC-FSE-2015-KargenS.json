@@ -1,39 +1,14 @@
 {
-	"author": [
-		"Ulf Kargen",
-		"Nahid Shahmehri"
-	],
+	"author": ["Ulf Kargen", "Nahid Shahmehri"],
 	"booktitle": "Proceedings of the 10th Joint Meeting of the 15th European Software Engineering Conference and the 23rd Symposium on the Foundations of Software Engineering",
 	"booktitleshort": "ESEC/SIGSOFT FSE",
 	"crossref": "conf/sigsoft/2015",
 	"dblpkey": "conf/sigsoft/KargenS15",
 	"doi": "10.1145/2786805.2786844",
-	"ee": "http://doi.acm.org/10.1145/2786805.2786844",
 	"pages": "782-792",
 	"publisher": "ACM",
-	"stemmed": [
-		"turn",
-		"program",
-		"against",
-		"each",
-		"other",
-		"high",
-		"coverag",
-		"fuzz",
-		"test",
-		"use",
-		"binari",
-		"code",
-		"mutat",
-		"and",
-		"dynam",
-		"slice"
-	],
-	"tag": [
-		"slicing",
-		"source code",
-		"using"
-	],
+	"stemmed": ["turn", "program", "against", "each", "other", "high", "coverag", "fuzz", "test", "use", "binari", "code", "mutat", "and", "dynam", "slice"],
+	"tag": ["slicing", "source code", "using"],
 	"title": "Turning programs against each other: high coverage fuzz-testing using binary-code mutation and dynamic slicing",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

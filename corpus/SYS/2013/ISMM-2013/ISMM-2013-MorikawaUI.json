@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Kazuya Morikawa",
-		"Tomoharu Ugawa",
-		"Hideya Iwasaki"
-	],
+	"author": ["Kazuya Morikawa", "Tomoharu Ugawa", "Hideya Iwasaki"],
 	"booktitle": "Proceedings of the 12th International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2013",
 	"dblpkey": "conf/iwmm/MorikawaUI13",
 	"doi": "10.1145/2464157.2466480",
-	"ee": "http://doi.acm.org/10.1145/2464157.2466480",
 	"pages": "15-26",
 	"publisher": "ACM",
-	"stemmed": [
-		"adapt",
-		"scan",
-		"reduc",
-		"sweep",
-		"time",
-		"for",
-		"the",
-		"lisp",
-		"mark",
-		"compact",
-		"garbag",
-		"collector"
-	],
-	"tag": [
-		"adaptation",
-		"garbage collection",
-		"lisp"
-	],
+	"stemmed": ["adapt", "scan", "reduc", "sweep", "time", "for", "the", "lisp", "mark", "compact", "garbag", "collector"],
+	"tag": ["adaptation", "garbage collection", "lisp"],
 	"title": "Adaptive scanning reduces sweep time for the Lisp2 mark-compact garbage collector",
 	"type": "inproceedings",
 	"venue": "ISMM",

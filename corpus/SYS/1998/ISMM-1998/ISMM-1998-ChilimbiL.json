@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Trishul M. Chilimbi",
-		"James R. Larus"
-	],
+	"author": ["Trishul M. Chilimbi", "James R. Larus"],
 	"booktitle": "Proceedings of the First International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/1998",
 	"dblpkey": "conf/iwmm/ChilimbiL98",
 	"doi": "10.1145/286860.286865",
-	"ee": "http://doi.acm.org/10.1145/286860.286865",
 	"pages": "37-48",
 	"publisher": "ACM",
-	"stemmed": [
-		"use",
-		"generat",
-		"garbag",
-		"collect",
-		"to",
-		"implement",
-		"cach",
-		"conscious",
-		"data",
-		"placement"
-	],
-	"tag": [
-		"garbage collection",
-		"using"
-	],
+	"stemmed": ["use", "generat", "garbag", "collect", "to", "implement", "cach", "conscious", "data", "placement"],
+	"tag": ["garbage collection", "using"],
 	"title": "Using Generational Garbage Collection To Implement Cache-Conscious Data Placement",
 	"type": "inproceedings",
 	"venue": "ISMM",

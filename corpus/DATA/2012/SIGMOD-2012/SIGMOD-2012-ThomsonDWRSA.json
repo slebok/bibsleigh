@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Alexander Thomson",
-		"Thaddeus Diamond",
-		"Shu-Chun Weng",
-		"Kun Ren",
-		"Philip Shao",
-		"Daniel J. Abadi"
-	],
+	"author": ["Alexander Thomson", "Thaddeus Diamond", "Shu-Chun Weng", "Kun Ren", "Philip Shao", "Daniel J. Abadi"],
 	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/ThomsonDWRSA12",
 	"doi": "10.1145/2213836.2213838",
-	"ee": "http://doi.acm.org/10.1145/2213836.2213838",
 	"pages": "1-12",
 	"publisher": "ACM",
-	"stemmed": [
-		"calvin",
-		"fast",
-		"distribut",
-		"transact",
-		"for",
-		"partit",
-		"databas",
-		"system"
-	],
-	"tag": [
-		"database",
-		"distributed",
-		"named",
-		"performance",
-		"transaction"
-	],
+	"stemmed": ["calvin", "fast", "distribut", "transact", "for", "partit", "databas", "system"],
+	"tag": ["database", "distributed", "named", "performance", "transaction"],
 	"title": "Calvin: fast distributed transactions for partitioned database systems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

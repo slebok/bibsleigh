@@ -2,40 +2,15 @@
 	"author": "Chandra M. R. Kintala",
 	"booktitle": "Proceedings of the Second Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS83/P137.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS83/P137.PDF"
-	],
-	"cite": [
-		"journals/tods/ShuHTGL77",
-		"conf/popl/GansnerHKMS82",
-		"conf/sigmod/Zaniolo79",
-		"conf/pods/KuckS82",
-		"journals/tods/Lien81",
-		"conf/popl/GanapathiF82",
-		"conf/sigplan/Farrow82",
-		"...",
-		"journals/mst/Knuth68",
-		"journals/jcss/LewisRS74"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS83/P137.PDF", "journals/anthology/dvd1:text/1-3/PODS83/P137.PDF"],
+	"cite": ["journals/tods/ShuHTGL77", "conf/popl/GansnerHKMS82", "conf/sigmod/Zaniolo79", "conf/pods/KuckS82", "journals/tods/Lien81", "conf/popl/GanapathiF82", "conf/sigplan/Farrow82", "...", "journals/mst/Knuth68", "journals/jcss/LewisRS74"],
 	"crossref": "conf/pods/83",
 	"dblpkey": "conf/pods/Kintala83",
 	"doi": "10.1145/588058.588076",
-	"ee": "http://doi.acm.org/10.1145/588058.588076",
 	"pages": "137-148",
 	"publisher": "ACM",
-	"stemmed": [
-		"attribut",
-		"grammar",
-		"for",
-		"queri",
-		"languag",
-		"translat"
-	],
-	"tag": [
-		"attribute grammar",
-		"query"
-	],
+	"stemmed": ["attribut", "grammar", "for", "queri", "languag", "translat"],
+	"tag": ["attribute grammar", "query"],
 	"title": "Attributed Grammars for Query Language Translations",
 	"type": "inproceedings",
 	"venue": "PODS",

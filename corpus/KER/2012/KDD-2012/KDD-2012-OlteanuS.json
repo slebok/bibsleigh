@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Dan Olteanu",
-		"Sebastiaan J. van Schaik"
-	],
+	"author": ["Dan Olteanu", "Sebastiaan J. van Schaik"],
 	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/OlteanuS12",
 	"doi": "10.1145/2339530.2339766",
-	"ee": "http://doi.acm.org/10.1145/2339530.2339766",
 	"pages": "1504-1507",
 	"publisher": "ACM",
-	"stemmed": [
-		"da",
-		"gger",
-		"cluster",
-		"correl",
-		"uncertain",
-		"data",
-		"to",
-		"predict",
-		"asset",
-		"failur",
-		"in",
-		"energi",
-		"network"
-	],
-	"tag": [
-		"clustering",
-		"correlation",
-		"energy",
-		"named",
-		"network",
-		"nondeterminism",
-		"predict"
-	],
+	"stemmed": ["da", "gger", "cluster", "correl", "uncertain", "data", "to", "predict", "asset", "failur", "in", "energi", "network"],
+	"tag": ["clustering", "correlation", "energy", "named", "network", "nondeterminism", "predict"],
 	"title": "DAGger: clustering correlated uncertain data (to predict asset failure in energy networks)",
 	"type": "inproceedings",
 	"venue": "KDD",

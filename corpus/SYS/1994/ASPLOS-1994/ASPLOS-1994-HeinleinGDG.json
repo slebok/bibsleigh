@@ -1,38 +1,14 @@
 {
-	"author": [
-		"John Heinlein",
-		"Kourosh Gharachorloo",
-		"Scott Dresser",
-		"Anoop Gupta"
-	],
+	"author": ["John Heinlein", "Kourosh Gharachorloo", "Scott Dresser", "Anoop Gupta"],
 	"booktitle": "Proceedings of the Sixth International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1994",
 	"dblpkey": "conf/asplos/HeinleinGDG94",
 	"doi": "10.1145/195473.195494",
-	"ee": "http://doi.acm.org/10.1145/195473.195494",
 	"pages": "38-50",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"integr",
-		"of",
-		"messag",
-		"pass",
-		"and",
-		"share",
-		"memori",
-		"in",
-		"the",
-		"stanford",
-		"flash",
-		"multiprocessor"
-	],
-	"tag": [
-		"integration",
-		"memory management",
-		"message passing",
-		"multi"
-	],
+	"stemmed": ["integr", "of", "messag", "pass", "and", "share", "memori", "in", "the", "stanford", "flash", "multiprocessor"],
+	"tag": ["integration", "memory management", "message passing", "multi"],
 	"title": "Integration of Message Passing and Shared Memory in the Stanford FLASH Multiprocessor",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

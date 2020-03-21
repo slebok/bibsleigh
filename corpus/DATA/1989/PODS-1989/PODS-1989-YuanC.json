@@ -1,55 +1,16 @@
 {
-	"author": [
-		"Li-Yan Yuan",
-		"Ding-An Chiang"
-	],
+	"author": ["Li-Yan Yuan", "Ding-An Chiang"],
 	"booktitle": "Proceedings of the Eighth Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS89/P066.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS89/P066.PDF"
-	],
-	"cite": [
-		"journals/tods/Codd79",
-		"journals/csur/GallaireMN84",
-		"journals/jacm/ImielinskiL84",
-		"...",
-		"...",
-		"journals/jacm/Reiter86",
-		"books/cs/Ullman82",
-		"conf/pods/Vardi85",
-		"conf/sigmod/YuanC88",
-		"journals/jar/YahyaH85",
-		"..."
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS89/P066.PDF", "journals/anthology/dvd1:text/1-3/PODS89/P066.PDF"],
+	"cite": ["journals/tods/Codd79", "journals/csur/GallaireMN84", "journals/jacm/ImielinskiL84", "...", "...", "journals/jacm/Reiter86", "books/cs/Ullman82", "conf/pods/Vardi85", "conf/sigmod/YuanC88", "journals/jar/YahyaH85", "..."],
 	"crossref": "conf/pods/89",
 	"dblpkey": "conf/pods/YuanC89",
 	"doi": "10.1145/73721.73727",
-	"ee": "http://doi.acm.org/10.1145/73721.73727",
 	"pages": "66-74",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"a",
-		"sound",
-		"and",
-		"complet",
-		"queri",
-		"evalu",
-		"algorithm",
-		"for",
-		"relat",
-		"databas",
-		"with",
-		"disjunct",
-		"inform"
-	],
-	"tag": [
-		"algorithm",
-		"database",
-		"evaluation",
-		"query",
-		"relational"
-	],
+	"stemmed": ["a", "sound", "and", "complet", "queri", "evalu", "algorithm", "for", "relat", "databas", "with", "disjunct", "inform"],
+	"tag": ["algorithm", "database", "evaluation", "query", "relational"],
 	"title": "A Sound and Complete Query Evaluation Algorithm for Relational Databases with Disjunctive Information",
 	"type": "inproceedings",
 	"venue": "PODS",

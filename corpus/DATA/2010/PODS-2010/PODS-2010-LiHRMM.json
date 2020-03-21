@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Chao Li",
-		"Michael Hay",
-		"Vibhor Rastogi",
-		"Gerome Miklau",
-		"Andrew McGregor"
-	],
+	"author": ["Chao Li", "Michael Hay", "Vibhor Rastogi", "Gerome Miklau", "Andrew McGregor"],
 	"booktitle": "Proceedings of the 29th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2010",
 	"dblpkey": "conf/pods/LiHRMM10",
 	"doi": "10.1145/1807085.1807104",
-	"ee": "http://doi.acm.org/10.1145/1807085.1807104",
 	"pages": "123-134",
 	"publisher": "ACM",
-	"stemmed": [
-		"optim",
-		"linear",
-		"count",
-		"queri",
-		"under",
-		"differenti",
-		"privaci"
-	],
-	"tag": [
-		"difference",
-		"linear",
-		"optimisation",
-		"privacy",
-		"query"
-	],
+	"stemmed": ["optim", "linear", "count", "queri", "under", "differenti", "privaci"],
+	"tag": ["difference", "linear", "optimisation", "privacy", "query"],
 	"title": "Optimizing linear counting queries under differential privacy",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,41 +1,16 @@
 {
-	"author": [
-		"Eric Bodden",
-		"Patrick Lam",
-		"Laurie J. Hendren"
-	],
+	"author": ["Eric Bodden", "Patrick Lam", "Laurie J. Hendren"],
 	"booktitle": "Proceedings of the 16th International Symposium on Foundations of Software Engineering",
 	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2008",
 	"dblpkey": "conf/sigsoft/BoddenLH08",
 	"doi": "10.1145/1453101.1453109",
-	"editor": [
-		"Mary Jean Harrold",
-		"Gail C. Murphy"
-	],
-	"ee": "http://doi.acm.org/10.1145/1453101.1453109",
+	"editor": ["Mary Jean Harrold", "Gail C. Murphy"],
 	"isbn": "978-1-59593-995-1",
 	"pages": "36-47",
 	"publisher": "ACM",
-	"stemmed": [
-		"find",
-		"program",
-		"error",
-		"earlier",
-		"by",
-		"evalu",
-		"runtim",
-		"monitor",
-		"ahead",
-		"of",
-		"time"
-	],
-	"tag": [
-		"fault",
-		"monitoring",
-		"programming",
-		"runtime"
-	],
+	"stemmed": ["find", "program", "error", "earlier", "by", "evalu", "runtim", "monitor", "ahead", "of", "time"],
+	"tag": ["fault", "monitoring", "programming", "runtime"],
 	"title": "Finding programming errors earlier by evaluating runtime monitors ahead-of-time",
 	"type": "inproceedings",
 	"venue": "FSE",

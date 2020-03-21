@@ -1,51 +1,16 @@
 {
-	"author": [
-		"Christos H. Papadimitriou",
-		"Paris C. Kanellakis"
-	],
+	"author": ["Christos H. Papadimitriou", "Paris C. Kanellakis"],
 	"booktitle": "Proceedings of the First Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS82/P076.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS82/P076.PDF"
-	],
-	"cite": [
-		"journals/tods/BayerHR80",
-		"journals/csur/BernsteinG81",
-		"journals/cacm/EswarranGLT76",
-		"books/fm/GareyJ79",
-		"conf/ac/Gray78",
-		"conf/sigmod/KungP79",
-		"conf/eci/Lausen81",
-		"...",
-		"journals/jcss/MuroKM84",
-		"journals/jacm/Papadimitriou79b",
-		"conf/sigmod/Papadimitriou81",
-		"...",
-		"conf/focs/StearnsLR76",
-		"conf/sigmod/StearnsR81",
-		"conf/focs/YannakakisPK79",
-		"..."
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS82/P076.PDF", "journals/anthology/dvd1:text/1-3/PODS82/P076.PDF"],
+	"cite": ["journals/tods/BayerHR80", "journals/csur/BernsteinG81", "journals/cacm/EswarranGLT76", "books/fm/GareyJ79", "conf/ac/Gray78", "conf/sigmod/KungP79", "conf/eci/Lausen81", "...", "journals/jcss/MuroKM84", "journals/jacm/Papadimitriou79b", "conf/sigmod/Papadimitriou81", "...", "conf/focs/StearnsLR76", "conf/sigmod/StearnsR81", "conf/focs/YannakakisPK79", "..."],
 	"crossref": "conf/pods/82",
 	"dblpkey": "conf/pods/PapadimitriouK82",
 	"doi": "10.1145/588111.588125",
-	"ee": "http://doi.acm.org/10.1145/588111.588125",
 	"pages": "76-82",
 	"publisher": "ACM",
-	"stemmed": [
-		"on",
-		"concurr",
-		"control",
-		"by",
-		"multipl",
-		"version"
-	],
-	"tag": [
-		"concurrent",
-		"multi",
-		"on the"
-	],
+	"stemmed": ["on", "concurr", "control", "by", "multipl", "version"],
+	"tag": ["concurrent", "multi", "on the"],
 	"title": "On Concurrency Control by Multiple Versions",
 	"type": "inproceedings",
 	"venue": "PODS",

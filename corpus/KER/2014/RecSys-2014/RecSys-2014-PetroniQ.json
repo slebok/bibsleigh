@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Fabio Petroni",
-		"Leonardo Querzoni"
-	],
+	"author": ["Fabio Petroni", "Leonardo Querzoni"],
 	"booktitle": "Proceedings of the Eighth Conference on Recommender Systems",
 	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2014",
 	"dblpkey": "conf/recsys/PetroniQ14",
 	"doi": "10.1145/2645710.2645725",
-	"ee": "http://doi.acm.org/10.1145/2645710.2645725",
 	"pages": "241-248",
 	"publisher": "ACM",
-	"stemmed": [
-		"gasgd",
-		"stochast",
-		"gradient",
-		"descent",
-		"for",
-		"distribut",
-		"asynchron",
-		"matrix",
-		"complet",
-		"via",
-		"graph",
-		"partit"
-	],
-	"tag": [
-		"clustering",
-		"distributed",
-		"graph",
-		"matrix",
-		"named",
-		"probability"
-	],
+	"stemmed": ["gasgd", "stochast", "gradient", "descent", "for", "distribut", "asynchron", "matrix", "complet", "via", "graph", "partit"],
+	"tag": ["clustering", "distributed", "graph", "matrix", "named", "probability"],
 	"title": "GASGD: stochastic gradient descent for distributed asynchronous matrix completion via graph partitioning",
 	"type": "inproceedings",
 	"venue": "RecSys",

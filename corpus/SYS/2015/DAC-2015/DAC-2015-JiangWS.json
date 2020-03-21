@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Zhewei Jiang",
-		"Qi Wang",
-		"Mingoo Seok"
-	],
+	"author": ["Zhewei Jiang", "Qi Wang", "Mingoo Seok"],
 	"booktitle": "Proceedings of the 52nd Annual Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2015",
 	"dblpkey": "conf/dac/JiangWS15",
 	"doi": "10.1145/2744769.2744779",
-	"ee": "http://doi.acm.org/10.1145/2744769.2744779",
 	"pages": "174:1-174:6",
 	"publisher": "ACM",
-	"stemmed": [
-		"a",
-		"low",
-		"power",
-		"unsupervis",
-		"spike",
-		"sort",
-		"acceler",
-		"insensit",
-		"to",
-		"cluster",
-		"initi",
-		"in",
-		"sub",
-		"optim",
-		"featur",
-		"space"
-	],
-	"tag": [
-		"clustering",
-		"power management",
-		"sorting"
-	],
+	"stemmed": ["a", "low", "power", "unsupervis", "spike", "sort", "acceler", "insensit", "to", "cluster", "initi", "in", "sub", "optim", "featur", "space"],
+	"tag": ["clustering", "power management", "sorting"],
 	"title": "A low power unsupervised spike sorting accelerator insensitive to clustering initialization in sub-optimal feature space",
 	"type": "inproceedings",
 	"venue": "DAC",

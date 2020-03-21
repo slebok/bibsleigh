@@ -1,41 +1,16 @@
 {
-	"author": [
-		"Jeff Huang",
-		"Charles Zhang"
-	],
+	"author": ["Jeff Huang", "Charles Zhang"],
 	"booktitle": "Proceedings of the 27th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2012",
 	"dblpkey": "conf/oopsla/HuangZ12",
 	"doi": "10.1145/2384616.2384649",
-	"editor": [
-		"Gary T. Leavens",
-		"Matthew B. Dwyer"
-	],
-	"ee": "http://doi.acm.org/10.1145/2384616.2384649",
+	"editor": ["Gary T. Leavens", "Matthew B. Dwyer"],
 	"isbn": "978-1-4503-1561-6",
 	"pages": "451-466",
 	"publisher": "ACM",
-	"stemmed": [
-		"lean",
-		"simplifi",
-		"concurr",
-		"bug",
-		"reproduct",
-		"via",
-		"replay",
-		"support",
-		"execut",
-		"reduct"
-	],
-	"tag": [
-		"agile",
-		"concurrent",
-		"debugging",
-		"execution",
-		"named",
-		"reduction"
-	],
+	"stemmed": ["lean", "simplifi", "concurr", "bug", "reproduct", "via", "replay", "support", "execut", "reduct"],
+	"tag": ["agile", "concurrent", "debugging", "execution", "named", "reduction"],
 	"title": "LEAN: simplifying concurrency bug reproduction via replay-supported execution reduction",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

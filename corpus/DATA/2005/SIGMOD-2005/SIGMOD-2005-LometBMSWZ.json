@@ -1,34 +1,14 @@
 {
-	"author": [
-		"David B. Lomet",
-		"Roger S. Barga",
-		"Mohamed F. Mokbel",
-		"German Shegalov",
-		"Rui Wang",
-		"Yunyue Zhu"
-	],
+	"author": ["David B. Lomet", "Roger S. Barga", "Mohamed F. Mokbel", "German Shegalov", "Rui Wang", "Yunyue Zhu"],
 	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/LometBMSWZ05",
 	"doi": "10.1145/1066157.1066295",
-	"ee": "http://doi.acm.org/10.1145/1066157.1066295",
 	"pages": "939-941",
 	"publisher": "ACM",
-	"stemmed": [
-		"immort",
-		"db",
-		"transact",
-		"time",
-		"support",
-		"for",
-		"sql",
-		"server"
-	],
-	"tag": [
-		"sql",
-		"transaction"
-	],
+	"stemmed": ["immort", "db", "transact", "time", "support", "for", "sql", "server"],
+	"tag": ["sql", "transaction"],
 	"title": "Immortal DB: transaction time support for SQL server",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

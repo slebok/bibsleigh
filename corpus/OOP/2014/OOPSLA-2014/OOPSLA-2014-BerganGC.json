@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Tom Bergan",
-		"Dan Grossman",
-		"Luis Ceze"
-	],
+	"author": ["Tom Bergan", "Dan Grossman", "Luis Ceze"],
 	"booktitle": "Proceedings of the 29th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2014",
 	"dblpkey": "conf/oopsla/BerganGC14",
 	"doi": "10.1145/2660193.2660200",
-	"ee": "http://doi.acm.org/10.1145/2660193.2660200",
 	"pages": "491-506",
 	"publisher": "ACM",
-	"stemmed": [
-		"symbol",
-		"execut",
-		"of",
-		"multithread",
-		"program",
-		"from",
-		"arbitrari",
-		"program",
-		"context"
-	],
-	"tag": [
-		"execution",
-		"parallel",
-		"source code",
-		"symbolic computation",
-		"thread"
-	],
+	"stemmed": ["symbol", "execut", "of", "multithread", "program", "from", "arbitrari", "program", "context"],
+	"tag": ["execution", "parallel", "source code", "symbolic computation", "thread"],
 	"title": "Symbolic execution of multithreaded programs from arbitrary program contexts",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

@@ -1,43 +1,15 @@
 {
-	"author": [
-		"Wilburt Labio",
-		"Janet L. Wiener",
-		"Hector Garcia-Molina",
-		"Vlad Gorelik"
-	],
+	"author": ["Wilburt Labio", "Janet L. Wiener", "Hector Garcia-Molina", "Vlad Gorelik"],
 	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
-	"cite": [
-		"conf/sigmod/BernsteinHM90",
-		"books/mk/BernsteinN96",
-		"...",
-		"www/org/tpc",
-		"books/mk/GrayR93",
-		"...",
-		"...",
-		"conf/sigmod/MohanN92",
-		"...",
-		"...",
-		"conf/vldb/WienerN95",
-		"conf/vldb/WitkowskiCK93"
-	],
+	"cite": ["conf/sigmod/BernsteinHM90", "books/mk/BernsteinN96", "...", "www/org/tpc", "books/mk/GrayR93", "...", "...", "conf/sigmod/MohanN92", "...", "...", "conf/vldb/WienerN95", "conf/vldb/WitkowskiCK93"],
 	"crossref": "conf/sigmod/2000",
 	"dblpkey": "conf/sigmod/LabioWGG00",
 	"doi": "10.1145/342009.335379",
-	"ee": "http://doi.acm.org/10.1145/342009.335379",
 	"pages": "46-57",
 	"publisher": "ACM",
-	"stemmed": [
-		"effici",
-		"resumpt",
-		"of",
-		"interrupt",
-		"warehous",
-		"load"
-	],
-	"tag": [
-		"performance"
-	],
+	"stemmed": ["effici", "resumpt", "of", "interrupt", "warehous", "load"],
+	"tag": ["performance"],
 	"title": "Efficient Resumption of Interrupted Warehouse Loads",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

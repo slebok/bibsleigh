@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Gleb Naumovich",
-		"George S. Avrunin"
-	],
+	"author": ["Gleb Naumovich", "George S. Avrunin"],
 	"booktitle": "Proceedings of the Sixth International Symposium on Foundations of Software Engineering",
 	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/1998",
 	"dblpkey": "conf/sigsoft/NaumovichA98",
 	"doi": "10.1145/288195.288213",
-	"ee": "http://doi.acm.org/10.1145/288195.288213",
 	"pages": "24-34",
 	"publisher": "ACM",
-	"stemmed": [
-		"a",
-		"conserv",
-		"data",
-		"flow",
-		"algorithm",
-		"for",
-		"detect",
-		"all",
-		"pair",
-		"of",
-		"statement",
-		"that",
-		"may",
-		"happen",
-		"in",
-		"parallel"
-	],
-	"tag": [
-		"algorithm",
-		"data flow",
-		"detection",
-		"parallel"
-	],
+	"stemmed": ["a", "conserv", "data", "flow", "algorithm", "for", "detect", "all", "pair", "of", "statement", "that", "may", "happen", "in", "parallel"],
+	"tag": ["algorithm", "data flow", "detection", "parallel"],
 	"title": "A Conservative Data Flow Algorithm for Detecting All Pairs of Statement That May Happen in Parallel",
 	"type": "inproceedings",
 	"venue": "FSE",

@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Stephen T. Jones",
-		"Andrea C. Arpaci-Dusseau",
-		"Remzi H. Arpaci-Dusseau"
-	],
+	"author": ["Stephen T. Jones", "Andrea C. Arpaci-Dusseau", "Remzi H. Arpaci-Dusseau"],
 	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/JonesAA06",
 	"doi": "10.1145/1168857.1168861",
-	"ee": "http://doi.acm.org/10.1145/1168857.1168861",
 	"pages": "14-24",
 	"publisher": "ACM",
-	"stemmed": [
-		"geiger",
-		"monitor",
-		"the",
-		"buffer",
-		"cach",
-		"in",
-		"a",
-		"virtual",
-		"machin",
-		"environ"
-	],
-	"tag": [
-		"monitoring",
-		"named",
-		"virtual machine"
-	],
+	"stemmed": ["geiger", "monitor", "the", "buffer", "cach", "in", "a", "virtual", "machin", "environ"],
+	"tag": ["monitoring", "named", "virtual machine"],
 	"title": "Geiger: monitoring the buffer cache in a virtual machine environment",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

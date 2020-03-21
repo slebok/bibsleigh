@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Rainer Gemulla",
-		"Erik Nijkamp",
-		"Peter J. Haas",
-		"Yannis Sismanis"
-	],
+	"author": ["Rainer Gemulla", "Erik Nijkamp", "Peter J. Haas", "Yannis Sismanis"],
 	"booktitle": "Proceedings of the 17th International Conference on Knowledge Discovery and Data Mining",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2011",
 	"dblpkey": "conf/kdd/GemullaNHS11",
 	"doi": "10.1145/2020408.2020426",
-	"ee": "http://doi.acm.org/10.1145/2020408.2020426",
 	"pages": "69-77",
 	"publisher": "ACM",
-	"stemmed": [
-		"larg",
-		"scale",
-		"matrix",
-		"factor",
-		"with",
-		"distribut",
-		"stochast",
-		"gradient",
-		"descent"
-	],
-	"tag": [
-		"distributed",
-		"matrix",
-		"probability",
-		"scalability"
-	],
+	"stemmed": ["larg", "scale", "matrix", "factor", "with", "distribut", "stochast", "gradient", "descent"],
+	"tag": ["distributed", "matrix", "probability", "scalability"],
 	"title": "Large-scale matrix factorization with distributed stochastic gradient descent",
 	"type": "inproceedings",
 	"venue": "KDD",

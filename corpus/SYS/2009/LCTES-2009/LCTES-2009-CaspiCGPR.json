@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Paul Caspi",
-		"Jean-Louis Colaço",
-		"Léonard Gérard",
-		"Marc Pouzet",
-		"Pascal Raymond"
-	],
+	"author": ["Paul Caspi", "Jean-Louis Colaço", "Léonard Gérard", "Marc Pouzet", "Pascal Raymond"],
 	"booktitle": "Proceedings of the 10th Conference on Languages, Compilers, and Tools for Embedded Systems",
 	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2009",
 	"dblpkey": "conf/lctrts/CaspiCGPR09",
 	"doi": "10.1145/1542452.1542455",
-	"ee": "http://doi.acm.org/10.1145/1542452.1542455",
 	"pages": "11-20",
 	"publisher": "ACM",
-	"stemmed": [
-		"synchron",
-		"object",
-		"with",
-		"schedul",
-		"polici",
-		"introduc",
-		"safe",
-		"share",
-		"memori",
-		"in",
-		"lustr"
-	],
-	"tag": [
-		"memory management",
-		"policy",
-		"scheduling"
-	],
+	"stemmed": ["synchron", "object", "with", "schedul", "polici", "introduc", "safe", "share", "memori", "in", "lustr"],
+	"tag": ["memory management", "policy", "scheduling"],
 	"title": "Synchronous objects with scheduling policies: introducing safe shared memory in lustre",
 	"type": "inproceedings",
 	"venue": "LCTES",

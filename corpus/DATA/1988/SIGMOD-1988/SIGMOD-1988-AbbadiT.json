@@ -1,47 +1,15 @@
 {
-	"author": [
-		"Amr El Abbadi",
-		"Sam Toueg"
-	],
+	"author": ["Amr El Abbadi", "Sam Toueg"],
 	"booktitle": "Proceedings of the 18th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD88/P126.PDF",
-	"cite": [
-		"journals/tods/BernsteinSR80",
-		"conf/podc/BernsteinG83",
-		"books/aw/BernsteinHG87",
-		"conf/podc/CoanOK86",
-		"journals/csur/DavidsonG85",
-		"journals/tods/EagerS83",
-		"conf/pods/AbbadiT86",
-		"...",
-		"journals/cacm/EswarranGLT76",
-		"conf/sosp/Gifford79",
-		"journals/tods/Herlihy87",
-		"...",
-		"journals/tocs/Reed83",
-		"conf/pods/SkeenW84",
-		"journals/tods/Thomas79"
-	],
+	"cite": ["journals/tods/BernsteinSR80", "conf/podc/BernsteinG83", "books/aw/BernsteinHG87", "conf/podc/CoanOK86", "journals/csur/DavidsonG85", "journals/tods/EagerS83", "conf/pods/AbbadiT86", "...", "journals/cacm/EswarranGLT76", "conf/sosp/Gifford79", "journals/tods/Herlihy87", "...", "journals/tocs/Reed83", "conf/pods/SkeenW84", "journals/tods/Thomas79"],
 	"crossref": "conf/sigmod/88",
 	"dblpkey": "conf/sigmod/AbbadiT88",
 	"doi": "10.1145/50202.50216",
-	"ee": "http://doi.acm.org/10.1145/50202.50216",
 	"pages": "126-134",
-	"stemmed": [
-		"the",
-		"group",
-		"paradigm",
-		"for",
-		"concurr",
-		"control",
-		"protocol"
-	],
-	"tag": [
-		"concurrent",
-		"paradigm",
-		"protocol"
-	],
+	"stemmed": ["the", "group", "paradigm", "for", "concurr", "control", "protocol"],
+	"tag": ["concurrent", "paradigm", "protocol"],
 	"title": "The Group Paradigm for Concurrency Control Protocols",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

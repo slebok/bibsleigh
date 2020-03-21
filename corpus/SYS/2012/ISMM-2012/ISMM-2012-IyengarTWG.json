@@ -1,27 +1,13 @@
 {
-	"author": [
-		"Balaji Iyengar",
-		"Gil Tene",
-		"Michael Wolf",
-		"Edward F. Gehringer"
-	],
+	"author": ["Balaji Iyengar", "Gil Tene", "Michael Wolf", "Edward F. Gehringer"],
 	"booktitle": "Proceedings of the 11th International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2012",
 	"dblpkey": "conf/iwmm/IyengarTWG12",
 	"doi": "10.1145/2258996.2259009",
-	"ee": "http://doi.acm.org/10.1145/2258996.2259009",
 	"pages": "85-96",
 	"publisher": "ACM",
-	"stemmed": [
-		"the",
-		"colli",
-		"a",
-		"wait",
-		"free",
-		"compact",
-		"collector"
-	],
+	"stemmed": ["the", "colli", "a", "wait", "free", "compact", "collector"],
 	"title": "The Collie: a wait-free compacting collector",
 	"type": "inproceedings",
 	"venue": "ISMM",

@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Baojing Lu",
-		"Qinghua Zou",
-		"William Perrizo"
-	],
+	"author": ["Baojing Lu", "Qinghua Zou", "William Perrizo"],
 	"booktitle": "Proceedings of the 16th Symposium on Applied Computing",
 	"booktitleshort": "SAC",
 	"crossref": "conf/sac/2001",
 	"dblpkey": "conf/sac/LuZP01",
 	"doi": "10.1145/372202.372343",
-	"ee": "http://doi.acm.org/10.1145/372202.372343",
 	"pages": "290-294",
 	"publisher": "ACM",
-	"stemmed": [
-		"a",
-		"dual",
-		"copi",
-		"method",
-		"for",
-		"transact",
-		"separ",
-		"with",
-		"multivers",
-		"control",
-		"for",
-		"read",
-		"onli",
-		"transact"
-	],
-	"tag": [
-		"multi",
-		"transaction",
-		"version control"
-	],
+	"stemmed": ["a", "dual", "copi", "method", "for", "transact", "separ", "with", "multivers", "control", "for", "read", "onli", "transact"],
+	"tag": ["multi", "transaction", "version control"],
 	"title": "A dual copy method for transaction separation with multiversion control for read-only transactions",
 	"type": "inproceedings",
 	"venue": "SAC",

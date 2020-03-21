@@ -1,39 +1,16 @@
 {
-	"author": [
-		"Charles Edwin Killian",
-		"Karthik Nagaraj",
-		"Salman Pervez",
-		"Ryan Braud",
-		"James W. Anderson",
-		"Ranjit Jhala"
-	],
+	"author": ["Charles Edwin Killian", "Karthik Nagaraj", "Salman Pervez", "Ryan Braud", "James W. Anderson", "Ranjit Jhala"],
 	"booktitle": "Proceedings of the 18th International Symposium on Foundations of Software Engineering",
 	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2010",
 	"dblpkey": "conf/sigsoft/KillianNPBAJ10",
 	"doi": "10.1145/1882291.1882297",
-	"editor": [
-		"Gruia-Catalin Roman",
-		"Kevin J. Sullivan"
-	],
-	"ee": "http://doi.acm.org/10.1145/1882291.1882297",
+	"editor": ["Gruia-Catalin Roman", "Kevin J. Sullivan"],
 	"isbn": "978-1-60558-791-2",
 	"pages": "17-26",
 	"publisher": "ACM",
-	"stemmed": [
-		"find",
-		"latent",
-		"perform",
-		"bug",
-		"in",
-		"system",
-		"implement"
-	],
-	"tag": [
-		"debugging",
-		"implementation",
-		"performance"
-	],
+	"stemmed": ["find", "latent", "perform", "bug", "in", "system", "implement"],
+	"tag": ["debugging", "implementation", "performance"],
 	"title": "Finding latent performance bugs in systems implementations",
 	"type": "inproceedings",
 	"venue": "FSE",

@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Thilo Kielmann",
-		"Rutger F. H. Hofman",
-		"Henri E. Bal",
-		"Aske Plaat",
-		"Raoul Bhoedjang"
-	],
+	"author": ["Thilo Kielmann", "Rutger F. H. Hofman", "Henri E. Bal", "Aske Plaat", "Raoul Bhoedjang"],
 	"booktitle": "Proceedings of the Seventh Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1999",
 	"dblpkey": "conf/ppopp/KielmannHBPB99",
 	"doi": "10.1145/301104.301116",
-	"ee": "http://doi.acm.org/10.1145/301104.301116",
 	"pages": "131-140",
 	"publisher": "ACM",
-	"stemmed": [
-		"magpi",
-		"mpi",
-		"s",
-		"collect",
-		"communic",
-		"oper",
-		"for",
-		"cluster",
-		"wide",
-		"area",
-		"system"
-	],
-	"tag": [
-		"clustering",
-		"communication",
-		"named"
-	],
+	"stemmed": ["magpi", "mpi", "s", "collect", "communic", "oper", "for", "cluster", "wide", "area", "system"],
+	"tag": ["clustering", "communication", "named"],
 	"title": "MagPIe: MPI’s Collective Communication Operations for Clustered Wide Area Systems",
 	"type": "inproceedings",
 	"venue": "PPoPP",

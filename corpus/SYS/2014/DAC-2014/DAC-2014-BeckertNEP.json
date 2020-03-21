@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Matthias Beckert",
-		"Moritz Neukirchner",
-		"Rolf Ernst",
-		"Stefan M. Petters"
-	],
+	"author": ["Matthias Beckert", "Moritz Neukirchner", "Rolf Ernst", "Stefan M. Petters"],
 	"booktitle": "Proceedings of the 51st Annual Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2014",
 	"dblpkey": "conf/dac/BeckertNEP14",
 	"doi": "10.1145/2593069.2593222",
-	"ee": "http://doi.acm.org/10.1145/2593069.2593222",
 	"pages": "86:1-86:6",
 	"publisher": "ACM",
-	"stemmed": [
-		"suffici",
-		"tempor",
-		"independ",
-		"and",
-		"improv",
-		"interrupt",
-		"latenc",
-		"in",
-		"a",
-		"real",
-		"time",
-		"hypervisor"
-	],
-	"tag": [
-		"independence",
-		"realtime"
-	],
+	"stemmed": ["suffici", "tempor", "independ", "and", "improv", "interrupt", "latenc", "in", "a", "real", "time", "hypervisor"],
+	"tag": ["independence", "realtime"],
 	"title": "Sufficient Temporal Independence and Improved Interrupt Latencies in a Real-Time Hypervisor",
 	"type": "inproceedings",
 	"venue": "DAC",

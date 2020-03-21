@@ -1,41 +1,15 @@
 {
-	"author": [
-		"David B. Lomet",
-		"Betty Salzberg"
-	],
+	"author": ["David B. Lomet", "Betty Salzberg"],
 	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD90/P353.PDF",
-	"cite": [
-		"journals/is/AhnS88",
-		"journals/tkde/Baeza-YatesL89",
-		"journals/ibmrd/Easton86",
-		"journals/iandc/WoodEZM82",
-		"journals/tkde/JensenMR91",
-		"conf/sigmod/LometS89",
-		"journals/sigmod/McKenzie86",
-		"conf/sigmod/SegevS87",
-		"conf/sigmod/SnodgrassA85",
-		"conf/vldb/Stonebraker87"
-	],
+	"cite": ["journals/is/AhnS88", "journals/tkde/Baeza-YatesL89", "journals/ibmrd/Easton86", "journals/iandc/WoodEZM82", "journals/tkde/JensenMR91", "conf/sigmod/LometS89", "journals/sigmod/McKenzie86", "conf/sigmod/SegevS87", "conf/sigmod/SnodgrassA85", "conf/vldb/Stonebraker87"],
 	"crossref": "conf/sigmod/90",
 	"dblpkey": "conf/sigmod/LometS90",
 	"doi": "10.1145/93597.98744",
-	"ee": "http://doi.acm.org/10.1145/93597.98744",
 	"pages": "353-363",
-	"stemmed": [
-		"the",
-		"perform",
-		"of",
-		"a",
-		"multivers",
-		"access",
-		"method"
-	],
-	"tag": [
-		"multi",
-		"performance"
-	],
+	"stemmed": ["the", "perform", "of", "a", "multivers", "access", "method"],
+	"tag": ["multi", "performance"],
 	"title": "The Performance of a Multiversion Access Method",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

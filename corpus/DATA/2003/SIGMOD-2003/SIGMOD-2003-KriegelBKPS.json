@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Hans-Peter Kriegel",
-		"Stefan Brecheisen",
-		"Peer Kröger",
-		"Martin Pfeifle",
-		"Matthias Schubert"
-	],
+	"author": ["Hans-Peter Kriegel", "Stefan Brecheisen", "Peer Kröger", "Martin Pfeifle", "Matthias Schubert"],
 	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2003",
 	"dblpkey": "conf/sigmod/KriegelBKPS03",
 	"doi": "10.1145/872757.872828",
-	"ee": "http://doi.acm.org/10.1145/872757.872828",
 	"pages": "587-598",
 	"publisher": "ACM",
-	"stemmed": [
-		"use",
-		"set",
-		"of",
-		"featur",
-		"vector",
-		"for",
-		"similar",
-		"search",
-		"on",
-		"voxel",
-		"cad",
-		"object"
-	],
-	"tag": [
-		"set",
-		"similarity",
-		"using"
-	],
+	"stemmed": ["use", "set", "of", "featur", "vector", "for", "similar", "search", "on", "voxel", "cad", "object"],
+	"tag": ["set", "similarity", "using"],
 	"title": "Using Sets of Feature Vectors for Similarity Search on Voxelized CAD Objects",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

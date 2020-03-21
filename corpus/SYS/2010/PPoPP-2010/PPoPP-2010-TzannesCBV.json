@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Alexandros Tzannes",
-		"George C. Caragea",
-		"Rajeev Barua",
-		"Uzi Vishkin"
-	],
+	"author": ["Alexandros Tzannes", "George C. Caragea", "Rajeev Barua", "Uzi Vishkin"],
 	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/TzannesCBV10",
 	"doi": "10.1145/1693453.1693479",
-	"ee": "http://doi.acm.org/10.1145/1693453.1693479",
 	"pages": "179-190",
 	"publisher": "ACM",
-	"stemmed": [
-		"lazi",
-		"binari",
-		"split",
-		"a",
-		"run",
-		"time",
-		"adapt",
-		"work",
-		"steal",
-		"schedul"
-	],
-	"tag": [
-		"adaptation",
-		"lazy evaluation",
-		"runtime"
-	],
+	"stemmed": ["lazi", "binari", "split", "a", "run", "time", "adapt", "work", "steal", "schedul"],
+	"tag": ["adaptation", "lazy evaluation", "runtime"],
 	"title": "Lazy binary-splitting: a run-time adaptive work-stealing scheduler",
 	"type": "inproceedings",
 	"venue": "PPoPP",

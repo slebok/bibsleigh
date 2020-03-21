@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Weihaw Chuang",
-		"Satish Narayanasamy",
-		"Ganesh Venkatesh",
-		"Jack Sampson",
-		"Michael Van Biesbrouck",
-		"Gilles Pokam",
-		"Brad Calder",
-		"Osvaldo Colavin"
-	],
+	"author": ["Weihaw Chuang", "Satish Narayanasamy", "Ganesh Venkatesh", "Jack Sampson", "Michael Van Biesbrouck", "Gilles Pokam", "Brad Calder", "Osvaldo Colavin"],
 	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/ChuangNVSBPCC06",
 	"doi": "10.1145/1168857.1168901",
-	"ee": "http://doi.acm.org/10.1145/1168857.1168901",
 	"pages": "347-358",
 	"publisher": "ACM",
-	"stemmed": [
-		"unbound",
-		"page",
-		"base",
-		"transact",
-		"memori"
-	],
-	"tag": [
-		"bound",
-		"memory management",
-		"transaction"
-	],
+	"stemmed": ["unbound", "page", "base", "transact", "memori"],
+	"tag": ["bound", "memory management", "transaction"],
 	"title": "Unbounded page-based transactional memory",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

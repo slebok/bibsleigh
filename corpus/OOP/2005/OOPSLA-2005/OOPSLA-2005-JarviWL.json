@@ -1,38 +1,16 @@
 {
-	"author": [
-		"Jaakko Järvi",
-		"Jeremiah Willcock",
-		"Andrew Lumsdaine"
-	],
+	"author": ["Jaakko Järvi", "Jeremiah Willcock", "Andrew Lumsdaine"],
 	"booktitle": "Proceedings of the 20th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2005",
 	"dblpkey": "conf/oopsla/JarviWL05",
 	"doi": "10.1145/1094811.1094813",
-	"editor": [
-		"Ralph E. Johnson",
-		"Richard P. Gabriel"
-	],
-	"ee": "http://doi.acm.org/10.1145/1094811.1094813",
+	"editor": ["Ralph E. Johnson", "Richard P. Gabriel"],
 	"isbn": "1-59593-031-0",
 	"pages": "1-19",
 	"publisher": "ACM",
-	"stemmed": [
-		"associ",
-		"type",
-		"and",
-		"constraint",
-		"propag",
-		"for",
-		"mainstream",
-		"object",
-		"orient",
-		"generic"
-	],
-	"tag": [
-		"constraints",
-		"object-oriented"
-	],
+	"stemmed": ["associ", "type", "and", "constraint", "propag", "for", "mainstream", "object", "orient", "generic"],
+	"tag": ["constraints", "object-oriented"],
 	"title": "Associated types and constraint propagation for mainstream object-oriented generics",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

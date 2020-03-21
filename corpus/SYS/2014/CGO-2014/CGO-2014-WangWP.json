@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Haichuan Wang",
-		"Peng Wu",
-		"David A. Padua"
-	],
+	"author": ["Haichuan Wang", "Peng Wu", "David A. Padua"],
 	"booktitle": "Proceedings of the 12th International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2014",
 	"dblpkey": "conf/cgo/WangWP14",
 	"doi": "10.1145/2544137.2544153",
-	"ee": "http://doi.acm.org/10.1145/2544137.2544153",
 	"pages": "295",
 	"publisher": "ACM",
-	"stemmed": [
-		"optim",
-		"r",
-		"vm",
-		"alloc",
-		"remov",
-		"and",
-		"path",
-		"length",
-		"reduct",
-		"via",
-		"interpret",
-		"level",
-		"special"
-	],
-	"tag": [
-		"optimisation",
-		"reduction",
-		"virtual machine"
-	],
+	"stemmed": ["optim", "r", "vm", "alloc", "remov", "and", "path", "length", "reduct", "via", "interpret", "level", "special"],
+	"tag": ["optimisation", "reduction", "virtual machine"],
 	"title": "Optimizing R VM: Allocation Removal and Path Length Reduction via Interpreter-level Specialization",
 	"type": "inproceedings",
 	"venue": "CGO",

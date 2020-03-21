@@ -1,46 +1,16 @@
 {
-	"author": [
-		"Tong Zhou",
-		"Ling Liu",
-		"Calton Pu"
-	],
+	"author": ["Tong Zhou", "Ling Liu", "Calton Pu"],
 	"booktitle": "Proceedings of the 29th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "DiSC2_1/out/papers/sigmod/tamasystemfordytolic.pdf",
-	"cite": [
-		"conf/vldb/BargaP95",
-		"journals/cacm/Bernstein90",
-		"books/mk/Elmagarmid92",
-		"books/mk/GrayR93",
-		"journals/tods/LiuM96",
-		"conf/er/LiuP97",
-		"conf/icde/LiuP98",
-		"...",
-		"conf/vldb/PuKH88",
-		"conf/pdis/ZhouPL96",
-		"conf/cikm/ZhouPL98"
-	],
+	"cite": ["conf/vldb/BargaP95", "journals/cacm/Bernstein90", "books/mk/Elmagarmid92", "books/mk/GrayR93", "journals/tods/LiuM96", "conf/er/LiuP97", "conf/icde/LiuP98", "...", "conf/vldb/PuKH88", "conf/pdis/ZhouPL96", "conf/cikm/ZhouPL98"],
 	"crossref": "conf/sigmod/99",
 	"dblpkey": "conf/sigmod/ZhouLP99",
 	"doi": "10.1145/304182.304580",
-	"ee": "http://doi.acm.org/10.1145/304182.304580",
 	"pages": "571-573",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"tam",
-		"a",
-		"system",
-		"for",
-		"dynam",
-		"transact",
-		"activ",
-		"manag"
-	],
-	"tag": [
-		"named",
-		"process",
-		"transaction"
-	],
+	"stemmed": ["tam", "a", "system", "for", "dynam", "transact", "activ", "manag"],
+	"tag": ["named", "process", "transaction"],
 	"title": "TAM: A System for Dynamic Transactional Activity Management",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,44 +1,16 @@
 {
-	"author": [
-		"Thomas Brinkhoff",
-		"Hans-Peter Kriegel",
-		"Ralf Schneider",
-		"Bernhard Seeger"
-	],
+	"author": ["Thomas Brinkhoff", "Hans-Peter Kriegel", "Ralf Schneider", "Bernhard Seeger"],
 	"booktitle": "Proceedings of the 24th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD94/P519.PDF",
-	"cite": [
-		"conf/ssd/BrinkhoffHKS93",
-		"conf/sigmod/BrinkhoffKS93",
-		"conf/icde/BrinkhoffKS93",
-		"conf/sigmod/BeckmannKSS90",
-		"conf/sigmod/BrinkhoffKSS94",
-		"journals/debu/KriegelBS93",
-		"conf/ssd/KriegelHS91",
-		"..."
-	],
+	"cite": ["conf/ssd/BrinkhoffHKS93", "conf/sigmod/BrinkhoffKS93", "conf/icde/BrinkhoffKS93", "conf/sigmod/BeckmannKSS90", "conf/sigmod/BrinkhoffKSS94", "journals/debu/KriegelBS93", "conf/ssd/KriegelHS91", "..."],
 	"crossref": "conf/sigmod/94",
 	"dblpkey": "conf/sigmod/BrinkhoffKSS94a",
 	"doi": "10.1145/191839.191988",
-	"ee": "http://doi.acm.org/10.1145/191839.191988",
 	"pages": "519",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"genesi",
-		"a",
-		"system",
-		"for",
-		"effici",
-		"spatial",
-		"queri",
-		"process"
-	],
-	"tag": [
-		"named",
-		"performance",
-		"query"
-	],
+	"stemmed": ["genesi", "a", "system", "for", "effici", "spatial", "queri", "process"],
+	"tag": ["named", "performance", "query"],
 	"title": "GENESYS: A System for Efficient Spatial Query Processing",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

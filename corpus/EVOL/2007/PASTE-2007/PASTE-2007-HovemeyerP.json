@@ -1,32 +1,14 @@
 {
-	"author": [
-		"David Hovemeyer",
-		"William Pugh"
-	],
+	"author": ["David Hovemeyer", "William Pugh"],
 	"booktitle": "Proceedings of the Seventh Workshop on Program Analysis for Software Tools and Engineering",
 	"booktitleshort": "PASTE",
 	"crossref": "conf/paste/2007",
 	"dblpkey": "conf/paste/HovemeyerP07",
 	"doi": "10.1145/1251535.1251537",
-	"ee": "http://doi.acm.org/10.1145/1251535.1251537",
 	"pages": "9-14",
 	"publisher": "ACM",
-	"stemmed": [
-		"find",
-		"more",
-		"null",
-		"pointer",
-		"bug",
-		"but",
-		"not",
-		"too",
-		"mani"
-	],
-	"tag": [
-		"debugging",
-		"null",
-		"pointer"
-	],
+	"stemmed": ["find", "more", "null", "pointer", "bug", "but", "not", "too", "mani"],
+	"tag": ["debugging", "null", "pointer"],
 	"title": "Finding more null pointer bugs, but not too many",
 	"type": "inproceedings",
 	"venue": "PASTE",

@@ -1,39 +1,16 @@
 {
-	"author": [
-		"John Whaley",
-		"Martin C. Rinard"
-	],
+	"author": ["John Whaley", "Martin C. Rinard"],
 	"booktitle": "Proceedings of the 14th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1999",
 	"dblpkey": "conf/oopsla/WhaleyR99",
 	"doi": "10.1145/320384.320400",
-	"editor": [
-		"Brent Hailpern",
-		"Linda M. Northrop",
-		"A. Michael Berman"
-	],
-	"ee": "http://doi.acm.org/10.1145/320384.320400",
+	"editor": ["Brent Hailpern", "Linda M. Northrop", "A. Michael Berman"],
 	"isbn": "1-58113-238-7",
 	"pages": "187-206",
 	"publisher": "ACM",
-	"stemmed": [
-		"composit",
-		"pointer",
-		"and",
-		"escap",
-		"analysi",
-		"for",
-		"java",
-		"program"
-	],
-	"tag": [
-		"analysis",
-		"composition",
-		"java",
-		"pointer",
-		"source code"
-	],
+	"stemmed": ["composit", "pointer", "and", "escap", "analysi", "for", "java", "program"],
+	"tag": ["analysis", "composition", "java", "pointer", "source code"],
 	"title": "Compositional Pointer and Escape Analysis for Java Programs",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Nhat Minh Lê",
-		"Antoniu Pop",
-		"Albert Cohen",
-		"Francesco Zappa Nardelli"
-	],
+	"author": ["Nhat Minh Lê", "Antoniu Pop", "Albert Cohen", "Francesco Zappa Nardelli"],
 	"booktitle": "Proceedings of the 18th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2013",
 	"dblpkey": "conf/ppopp/LePCN13",
 	"doi": "10.1145/2442516.2442524",
-	"ee": "http://doi.acm.org/10.1145/2442516.2442524",
 	"pages": "69-80",
 	"publisher": "ACM",
-	"stemmed": [
-		"correct",
-		"and",
-		"effici",
-		"work",
-		"steal",
-		"for",
-		"weak",
-		"memori",
-		"model"
-	],
-	"tag": [
-		"memory management",
-		"modelling",
-		"performance"
-	],
+	"stemmed": ["correct", "and", "effici", "work", "steal", "for", "weak", "memori", "model"],
+	"tag": ["memory management", "modelling", "performance"],
 	"title": "Correct and efficient work-stealing for weak memory models",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,49 +1,16 @@
 {
-	"author": [
-		"Claire Morpain",
-		"Michèle Cart",
-		"Jean Ferrié",
-		"Jean-François Pons"
-	],
+	"author": ["Claire Morpain", "Michèle Cart", "Jean Ferrié", "Jean-François Pons"],
 	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD96/P459.PDF",
-	"cite": [
-		"books/aw/BernsteinHG87",
-		"journals/vldb/BreitbartGS92",
-		"conf/vldb/DuE89",
-		"...",
-		"conf/icde/GeorgakopoulosRS91",
-		"conf/pdis/MehrotraRKS91",
-		"...",
-		"conf/ride/MehrotraRKS92"
-	],
+	"cite": ["books/aw/BernsteinHG87", "journals/vldb/BreitbartGS92", "conf/vldb/DuE89", "...", "conf/icde/GeorgakopoulosRS91", "conf/pdis/MehrotraRKS91", "...", "conf/ride/MehrotraRKS92"],
 	"crossref": "conf/sigmod/96",
 	"dblpkey": "conf/sigmod/MorpainCFP96",
 	"doi": "10.1145/233269.233362",
-	"ee": "http://doi.acm.org/10.1145/233269.233362",
 	"pages": "459-468",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"maintain",
-		"databas",
-		"consist",
-		"in",
-		"presenc",
-		"of",
-		"valu",
-		"depend",
-		"in",
-		"multidatabas",
-		"system"
-	],
-	"tag": [
-		"consistency",
-		"database",
-		"dependence",
-		"maintenance",
-		"multi"
-	],
+	"stemmed": ["maintain", "databas", "consist", "in", "presenc", "of", "valu", "depend", "in", "multidatabas", "system"],
+	"tag": ["consistency", "database", "dependence", "maintenance", "multi"],
 	"title": "Maintaining Database Consistency in Presence of Value Dependencies in Multidatabase Systems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

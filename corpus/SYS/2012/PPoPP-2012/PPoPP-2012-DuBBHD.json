@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Peng Du",
-		"Aurelien Bouteiller",
-		"George Bosilca",
-		"Thomas Hérault",
-		"Jack Dongarra"
-	],
+	"author": ["Peng Du", "Aurelien Bouteiller", "George Bosilca", "Thomas Hérault", "Jack Dongarra"],
 	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/DuBBHD12",
 	"doi": "10.1145/2145816.2145845",
-	"ee": "http://doi.acm.org/10.1145/2145816.2145845",
 	"pages": "225-234",
 	"publisher": "ACM",
-	"stemmed": [
-		"algorithm",
-		"base",
-		"fault",
-		"toler",
-		"for",
-		"dens",
-		"matrix",
-		"factor"
-	],
-	"tag": [
-		"fault tolerance",
-		"matrix"
-	],
+	"stemmed": ["algorithm", "base", "fault", "toler", "for", "dens", "matrix", "factor"],
+	"tag": ["fault tolerance", "matrix"],
 	"title": "Algorithm-based fault tolerance for dense matrix factorizations",
 	"type": "inproceedings",
 	"venue": "PPoPP",

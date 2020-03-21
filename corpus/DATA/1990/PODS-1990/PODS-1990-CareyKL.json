@@ -1,55 +1,16 @@
 {
-	"author": [
-		"Michael J. Carey",
-		"Sanjay Krishnamurthi",
-		"Miron Livny"
-	],
+	"author": ["Michael J. Carey", "Sanjay Krishnamurthi", "Miron Livny"],
 	"booktitle": "Proceedings of the Ninth Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS90/P072.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS90/P072.PDF"
-	],
-	"cite": [
-		"journals/tods/AgrawalCL87",
-		"journals/tse/AgrawalCM87",
-		"conf/podc/BalterBD82",
-		"books/aw/BernsteinHG87",
-		"phd/Carey83",
-		"conf/vldb/CareyS84",
-		"journals/tocs/CareyM86",
-		"conf/vldb/ChouD85",
-		"...",
-		"journals/tods/ElhardB84",
-		"journals/tods/FranaszekR85",
-		"conf/ac/Gray78",
-		"...",
-		"...",
-		"...",
-		"journals/tods/SaccoS86",
-		"...",
-		"journals/tods/TayGS85"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS90/P072.PDF", "journals/anthology/dvd1:text/1-3/PODS90/P072.PDF"],
+	"cite": ["journals/tods/AgrawalCL87", "journals/tse/AgrawalCM87", "conf/podc/BalterBD82", "books/aw/BernsteinHG87", "phd/Carey83", "conf/vldb/CareyS84", "journals/tocs/CareyM86", "conf/vldb/ChouD85", "...", "journals/tods/ElhardB84", "journals/tods/FranaszekR85", "conf/ac/Gray78", "...", "...", "...", "journals/tods/SaccoS86", "...", "journals/tods/TayGS85"],
 	"crossref": "conf/pods/90",
 	"dblpkey": "conf/pods/CareyKL90",
 	"doi": "10.1145/298514.298543",
-	"ee": "http://doi.acm.org/10.1145/298514.298543",
 	"pages": "72-84",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"load",
-		"control",
-		"for",
-		"lock",
-		"the",
-		"half",
-		"and",
-		"half",
-		"approach"
-	],
-	"tag": [
-		"approach"
-	],
+	"stemmed": ["load", "control", "for", "lock", "the", "half", "and", "half", "approach"],
+	"tag": ["approach"],
 	"title": "Load Control for Locking: The “Half-and-Half” Approach",
 	"type": "inproceedings",
 	"venue": "PODS",

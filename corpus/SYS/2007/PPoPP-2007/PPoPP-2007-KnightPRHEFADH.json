@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Timothy J. Knight",
-		"Ji Young Park",
-		"Manman Ren",
-		"Mike Houston",
-		"Mattan Erez",
-		"Kayvon Fatahalian",
-		"Alex Aiken",
-		"William J. Dally",
-		"Pat Hanrahan"
-	],
+	"author": ["Timothy J. Knight", "Ji Young Park", "Manman Ren", "Mike Houston", "Mattan Erez", "Kayvon Fatahalian", "Alex Aiken", "William J. Dally", "Pat Hanrahan"],
 	"booktitle": "Proceedings of the 12th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2007",
 	"dblpkey": "conf/ppopp/KnightPRHEFADH07",
 	"doi": "10.1145/1229428.1229477",
-	"ee": "http://doi.acm.org/10.1145/1229428.1229477",
 	"pages": "226-236",
 	"publisher": "ACM",
-	"stemmed": [
-		"compil",
-		"for",
-		"explicit",
-		"manag",
-		"memori",
-		"hierarchi"
-	],
-	"tag": [
-		"compilation",
-		"memory management"
-	],
+	"stemmed": ["compil", "for", "explicit", "manag", "memori", "hierarchi"],
+	"tag": ["compilation", "memory management"],
 	"title": "Compilation for explicitly managed memory hierarchies",
 	"type": "inproceedings",
 	"venue": "PPoPP",

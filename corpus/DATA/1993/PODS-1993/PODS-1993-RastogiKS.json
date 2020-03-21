@@ -1,48 +1,16 @@
 {
-	"author": [
-		"Rajeev Rastogi",
-		"Henry F. Korth",
-		"Abraham Silberschatz"
-	],
+	"author": ["Rajeev Rastogi", "Henry F. Korth", "Abraham Silberschatz"],
 	"booktitle": "Proceedings of the 12th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS93/P288.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS93/P288.PDF"
-	],
-	"cite": [
-		"books/aw/BernsteinHG87",
-		"journals/tods/BadrinathR92",
-		"...",
-		"journals/tods/Herlihy90",
-		"journals/jacm/Korth83",
-		"conf/sigmod/Lomet92",
-		"journals/tods/MohanHLPS92",
-		"...",
-		"journals/tocs/SchwarzS84",
-		"...",
-		"journals/toplas/Weihl89",
-		"conf/pods/WeikumHBM90"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS93/P288.PDF", "journals/anthology/dvd1:text/1-3/PODS93/P288.PDF"],
+	"cite": ["books/aw/BernsteinHG87", "journals/tods/BadrinathR92", "...", "journals/tods/Herlihy90", "journals/jacm/Korth83", "conf/sigmod/Lomet92", "journals/tods/MohanHLPS92", "...", "journals/tocs/SchwarzS84", "...", "journals/toplas/Weihl89", "conf/pods/WeikumHBM90"],
 	"crossref": "conf/pods/93",
 	"dblpkey": "conf/pods/RastogiKS93",
 	"doi": "10.1145/153850.153934",
-	"ee": "http://doi.acm.org/10.1145/153850.153934",
 	"pages": "288-299",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"strict",
-		"histori",
-		"in",
-		"object",
-		"base",
-		"databas",
-		"system"
-	],
-	"tag": [
-		"database",
-		"strict"
-	],
+	"stemmed": ["strict", "histori", "in", "object", "base", "databas", "system"],
+	"tag": ["database", "strict"],
 	"title": "Strict Histories in Object-Based Database Systems",
 	"type": "inproceedings",
 	"venue": "PODS",

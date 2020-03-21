@@ -1,31 +1,14 @@
 {
-	"author": [
-		"Ross McIlroy",
-		"Peter Dickman",
-		"Joe Sventek"
-	],
+	"author": ["Ross McIlroy", "Peter Dickman", "Joe Sventek"],
 	"booktitle": "Proceedings of the Seventh International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2008",
 	"dblpkey": "conf/iwmm/McIlroyDS08",
 	"doi": "10.1145/1375634.1375640",
-	"ee": "http://doi.acm.org/10.1145/1375634.1375640",
 	"pages": "31-40",
 	"publisher": "ACM",
-	"stemmed": [
-		"effici",
-		"dynam",
-		"heap",
-		"alloc",
-		"of",
-		"scratch",
-		"pad",
-		"memori"
-	],
-	"tag": [
-		"memory management",
-		"performance"
-	],
+	"stemmed": ["effici", "dynam", "heap", "alloc", "of", "scratch", "pad", "memori"],
+	"tag": ["memory management", "performance"],
 	"title": "Efficient dynamic heap allocation of scratch-pad memory",
 	"type": "inproceedings",
 	"venue": "ISMM",

@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Alexandro Baldassin",
-		"Edson Borin",
-		"Guido Araujo"
-	],
+	"author": ["Alexandro Baldassin", "Edson Borin", "Guido Araujo"],
 	"booktitle": "Proceedings of the 20th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2015",
 	"dblpkey": "conf/ppopp/BaldassinBA15",
 	"doi": "10.1145/2688500.2688504",
-	"ee": "http://doi.acm.org/10.1145/2688500.2688504",
 	"pages": "87-96",
 	"publisher": "ACM",
-	"stemmed": [
-		"perform",
-		"implic",
-		"of",
-		"dynam",
-		"memori",
-		"alloc",
-		"on",
-		"transact",
-		"memori",
-		"system"
-	],
-	"tag": [
-		"memory management",
-		"performance",
-		"transaction"
-	],
+	"stemmed": ["perform", "implic", "of", "dynam", "memori", "alloc", "on", "transact", "memori", "system"],
+	"tag": ["memory management", "performance", "transaction"],
 	"title": "Performance implications of dynamic memory allocators on transactional memory systems",
 	"type": "inproceedings",
 	"venue": "PPoPP",

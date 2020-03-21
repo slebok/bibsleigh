@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Charles Koelbel",
-		"Piyush Mehrotra",
-		"John Van Rosendale"
-	],
+	"author": ["Charles Koelbel", "Piyush Mehrotra", "John Van Rosendale"],
 	"booktitle": "Proceedings of the Second Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/1990",
 	"dblpkey": "conf/ppopp/KoelbelMR90",
 	"doi": "10.1145/99163.99183",
-	"ee": "http://doi.acm.org/10.1145/99163.99183",
 	"pages": "177-186",
 	"publisher": "ACM",
-	"stemmed": [
-		"support",
-		"share",
-		"data",
-		"structur",
-		"on",
-		"distribut",
-		"memori",
-		"architectur"
-	],
-	"tag": [
-		"architecture",
-		"data type",
-		"distributed",
-		"memory management"
-	],
+	"stemmed": ["support", "share", "data", "structur", "on", "distribut", "memori", "architectur"],
+	"tag": ["architecture", "data type", "distributed", "memory management"],
 	"title": "Supporting Shared Data Structures on Distributed Memory Architectures",
 	"type": "inproceedings",
 	"venue": "PPoPP",

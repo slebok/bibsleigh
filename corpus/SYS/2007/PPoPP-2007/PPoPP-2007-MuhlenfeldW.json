@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Arndt Mühlenfeld",
-		"Franz Wotawa"
-	],
+	"author": ["Arndt Mühlenfeld", "Franz Wotawa"],
 	"booktitle": "Proceedings of the 12th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2007",
 	"dblpkey": "conf/ppopp/MuhlenfeldW07",
 	"doi": "10.1145/1229428.1229457",
-	"ee": "http://doi.acm.org/10.1145/1229428.1229457",
 	"pages": "142-143",
 	"publisher": "ACM",
-	"stemmed": [
-		"fault",
-		"detect",
-		"in",
-		"multi",
-		"thread",
-		"c",
-		"server",
-		"applic"
-	],
-	"tag": [
-		"c++",
-		"concurrent",
-		"detection",
-		"fault",
-		"multi",
-		"thread"
-	],
+	"stemmed": ["fault", "detect", "in", "multi", "thread", "c", "server", "applic"],
+	"tag": ["c++", "concurrent", "detection", "fault", "multi", "thread"],
 	"title": "Fault detection in multi-threaded c++ server applications",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,39 +1,14 @@
 {
-	"author": [
-		"Suparna Bhattacharya",
-		"C. Mohan",
-		"Karen Brannon",
-		"Inderpal Narang",
-		"Hui-I Hsiao",
-		"Mahadevan Subramanian"
-	],
+	"author": ["Suparna Bhattacharya", "C. Mohan", "Karen Brannon", "Inderpal Narang", "Hui-I Hsiao", "Mahadevan Subramanian"],
 	"booktitle": "Proceedings of the 20th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2002",
 	"dblpkey": "conf/sigmod/BhattacharyaMBNHS02",
 	"doi": "10.1145/564691.564749",
-	"ee": "http://doi.acm.org/10.1145/564691.564749",
 	"pages": "500-511",
 	"publisher": "ACM",
-	"stemmed": [
-		"coordin",
-		"backup",
-		"recoveri",
-		"and",
-		"data",
-		"consist",
-		"between",
-		"databas",
-		"and",
-		"file",
-		"system"
-	],
-	"tag": [
-		"consistency",
-		"coordination",
-		"database",
-		"file system"
-	],
+	"stemmed": ["coordin", "backup", "recoveri", "and", "data", "consist", "between", "databas", "and", "file", "system"],
+	"tag": ["consistency", "coordination", "database", "file system"],
 	"title": "Coordinating backup/recovery and data consistency between database and file systems",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

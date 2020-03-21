@@ -1,38 +1,16 @@
 {
-	"author": [
-		"Eric Amiel",
-		"Olivier Gruber",
-		"Eric Simon"
-	],
+	"author": ["Eric Amiel", "Olivier Gruber", "Eric Simon"],
 	"booktitle": "Proceedings of the Ninth Annual Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1994",
 	"dblpkey": "conf/oopsla/AmielGS94",
 	"doi": "10.1145/191080.191117",
-	"editor": [
-		"Jeff McKenna",
-		"J. Eliot B. Moss",
-		"Richard L. Wexelblat"
-	],
-	"ee": "http://doi.acm.org/10.1145/191080.191117",
+	"editor": ["Jeff McKenna", "J. Eliot B. Moss", "Richard L. Wexelblat"],
 	"isbn": "0-89791-688-3",
 	"pages": "244-258",
 	"publisher": "ACM",
-	"stemmed": [
-		"optim",
-		"multi",
-		"method",
-		"dispatch",
-		"use",
-		"compress",
-		"dispatch",
-		"tabl"
-	],
-	"tag": [
-		"multi",
-		"optimisation",
-		"using"
-	],
+	"stemmed": ["optim", "multi", "method", "dispatch", "use", "compress", "dispatch", "tabl"],
+	"tag": ["multi", "optimisation", "using"],
 	"title": "Optimizing Multi-Method Dispatch Using Compressed Dispatch Tables",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

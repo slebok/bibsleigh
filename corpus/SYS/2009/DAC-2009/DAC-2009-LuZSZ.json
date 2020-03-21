@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Yinghai Lu",
-		"Hai Zhou",
-		"Li Shang",
-		"Xuan Zeng"
-	],
+	"author": ["Yinghai Lu", "Hai Zhou", "Li Shang", "Xuan Zeng"],
 	"booktitle": "Proceedings of the 46th Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2009",
 	"dblpkey": "conf/dac/LuZSZ09",
 	"doi": "10.1145/1629911.1630124",
-	"ee": "http://doi.acm.org/10.1145/1629911.1630124",
 	"pages": "832-837",
 	"publisher": "ACM",
-	"stemmed": [
-		"multicor",
-		"parallel",
-		"min",
-		"cost",
-		"flow",
-		"algorithm",
-		"for",
-		"cad",
-		"applic"
-	],
-	"tag": [
-		"algorithm",
-		"manycore",
-		"parallel"
-	],
+	"stemmed": ["multicor", "parallel", "min", "cost", "flow", "algorithm", "for", "cad", "applic"],
+	"tag": ["algorithm", "manycore", "parallel"],
 	"title": "Multicore parallel min-cost flow algorithm for CAD applications",
 	"type": "inproceedings",
 	"venue": "DAC",

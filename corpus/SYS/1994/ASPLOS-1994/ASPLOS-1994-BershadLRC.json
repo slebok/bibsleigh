@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Brian N. Bershad",
-		"Dennis Lee",
-		"Theodore H. Romer",
-		"J. Bradley Chen"
-	],
+	"author": ["Brian N. Bershad", "Dennis Lee", "Theodore H. Romer", "J. Bradley Chen"],
 	"booktitle": "Proceedings of the Sixth International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1994",
 	"dblpkey": "conf/asplos/BershadLRC94",
 	"doi": "10.1145/195473.195527",
-	"ee": "http://doi.acm.org/10.1145/195473.195527",
 	"pages": "158-170",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"avoid",
-		"conflict",
-		"miss",
-		"dynam",
-		"in",
-		"larg",
-		"direct",
-		"map",
-		"cach"
-	],
-	"tag": [
-		"scalability"
-	],
+	"stemmed": ["avoid", "conflict", "miss", "dynam", "in", "larg", "direct", "map", "cach"],
+	"tag": ["scalability"],
 	"title": "Avoiding Conflict Misses Dynamically in Large Direct-Mapped Caches",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

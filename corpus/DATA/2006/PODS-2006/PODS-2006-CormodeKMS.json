@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Graham Cormode",
-		"Flip Korn",
-		"S. Muthukrishnan",
-		"Divesh Srivastava"
-	],
+	"author": ["Graham Cormode", "Flip Korn", "S. Muthukrishnan", "Divesh Srivastava"],
 	"booktitle": "Proceedings of the 25th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2006",
 	"dblpkey": "conf/pods/CormodeKMS06",
 	"doi": "10.1145/1142351.1142389",
-	"ee": "http://doi.acm.org/10.1145/1142351.1142389",
 	"pages": "263-272",
 	"publisher": "ACM",
-	"stemmed": [
-		"space",
-		"and",
-		"time",
-		"effici",
-		"determinist",
-		"algorithm",
-		"for",
-		"bias",
-		"quantil",
-		"over",
-		"data",
-		"stream"
-	],
-	"tag": [
-		"algorithm",
-		"data type"
-	],
+	"stemmed": ["space", "and", "time", "effici", "determinist", "algorithm", "for", "bias", "quantil", "over", "data", "stream"],
+	"tag": ["algorithm", "data type"],
 	"title": "Space- and time-efficient deterministic algorithms for biased quantiles over data streams",
 	"type": "inproceedings",
 	"venue": "PODS",

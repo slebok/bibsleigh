@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Noam Koenigstein",
-		"Ulrich Paquet"
-	],
+	"author": ["Noam Koenigstein", "Ulrich Paquet"],
 	"booktitle": "Proceedings of the Seventh Conference on Recommender Systems",
 	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2013",
 	"dblpkey": "conf/recsys/KoenigsteinP13",
 	"doi": "10.1145/2507157.2507168",
-	"ee": "http://doi.acm.org/10.1145/2507157.2507168",
 	"pages": "129-136",
 	"publisher": "ACM",
-	"stemmed": [
-		"xbox",
-		"movi",
-		"recommend",
-		"variat",
-		"bay",
-		"matrix",
-		"factor",
-		"with",
-		"embed",
-		"featur",
-		"select"
-	],
-	"tag": [
-		"embedded",
-		"feature model",
-		"matrix",
-		"recommendation"
-	],
+	"stemmed": ["xbox", "movi", "recommend", "variat", "bay", "matrix", "factor", "with", "embed", "featur", "select"],
+	"tag": ["embedded", "feature model", "matrix", "recommendation"],
 	"title": "Xbox movies recommendations: variational bayes matrix factorization with embedded feature selection",
 	"type": "inproceedings",
 	"venue": "RecSys",

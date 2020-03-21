@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Cheng Wang",
-		"Youfeng Wu"
-	],
+	"author": ["Cheng Wang", "Youfeng Wu"],
 	"booktitle": "Proceedings of the 18th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2013",
 	"dblpkey": "conf/asplos/WangW13",
 	"doi": "10.1145/2451116.2451172",
-	"ee": "http://doi.acm.org/10.1145/2451116.2451172",
 	"pages": "509-520",
 	"publisher": "ACM",
-	"stemmed": [
-		"tso",
-		"atom",
-		"effici",
-		"hardwar",
-		"primit",
-		"for",
-		"tso",
-		"preserv",
-		"region",
-		"optim"
-	],
-	"tag": [
-		"hardware",
-		"named",
-		"optimisation",
-		"performance"
-	],
+	"stemmed": ["tso", "atom", "effici", "hardwar", "primit", "for", "tso", "preserv", "region", "optim"],
+	"tag": ["hardware", "named", "optimisation", "performance"],
 	"title": "TSO_ATOMICITY: efficient hardware primitive for TSO-preserving region optimizations",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

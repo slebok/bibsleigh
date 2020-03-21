@@ -1,45 +1,16 @@
 {
-	"author": [
-		"Christoph Reichenbach",
-		"Neil Immerman",
-		"Yannis Smaragdakis",
-		"Edward Aftandilian",
-		"Samuel Z. Guyer"
-	],
+	"author": ["Christoph Reichenbach", "Neil Immerman", "Yannis Smaragdakis", "Edward Aftandilian", "Samuel Z. Guyer"],
 	"booktitle": "Proceedings of the 25th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2010",
 	"dblpkey": "conf/oopsla/ReichenbachISAG10",
 	"doi": "10.1145/1869459.1869482",
-	"editor": [
-		"William R. Cook",
-		"Siobhán Clarke",
-		"Martin C. Rinard"
-	],
-	"ee": "http://doi.acm.org/10.1145/1869459.1869482",
+	"editor": ["William R. Cook", "Siobhán Clarke", "Martin C. Rinard"],
 	"isbn": "978-1-4503-0203-6",
 	"pages": "256-269",
 	"publisher": "ACM",
-	"stemmed": [
-		"what",
-		"can",
-		"the",
-		"gc",
-		"comput",
-		"effici",
-		"a",
-		"languag",
-		"for",
-		"heap",
-		"assert",
-		"at",
-		"gc",
-		"time"
-	],
-	"tag": [
-		"garbage collection",
-		"what"
-	],
+	"stemmed": ["what", "can", "the", "gc", "comput", "effici", "a", "languag", "for", "heap", "assert", "at", "gc", "time"],
+	"tag": ["garbage collection", "what"],
 	"title": "What can the GC compute efficiently?: a language for heap assertions at GC time",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

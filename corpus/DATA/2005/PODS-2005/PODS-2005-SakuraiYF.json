@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Yasushi Sakurai",
-		"Masatoshi Yoshikawa",
-		"Christos Faloutsos"
-	],
+	"author": ["Yasushi Sakurai", "Masatoshi Yoshikawa", "Christos Faloutsos"],
 	"booktitle": "Proceedings of the 24th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2005",
 	"dblpkey": "conf/pods/SakuraiYF05",
 	"doi": "10.1145/1065167.1065210",
-	"ee": "http://doi.acm.org/10.1145/1065167.1065210",
 	"pages": "326-337",
 	"publisher": "ACM",
-	"stemmed": [
-		"ftw",
-		"fast",
-		"similar",
-		"search",
-		"under",
-		"the",
-		"time",
-		"warp",
-		"distanc"
-	],
-	"tag": [
-		"distance",
-		"named",
-		"performance",
-		"similarity"
-	],
+	"stemmed": ["ftw", "fast", "similar", "search", "under", "the", "time", "warp", "distanc"],
+	"tag": ["distance", "named", "performance", "similarity"],
 	"title": "FTW: fast similarity search under the time warping distance",
 	"type": "inproceedings",
 	"venue": "PODS",

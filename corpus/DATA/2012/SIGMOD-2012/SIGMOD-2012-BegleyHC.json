@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Steven Keith Begley",
-		"Zhen He",
-		"Yi-Ping Phoebe Chen"
-	],
+	"author": ["Steven Keith Begley", "Zhen He", "Yi-Ping Phoebe Chen"],
 	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/BegleyHC12",
 	"doi": "10.1145/2213836.2213851",
-	"ee": "http://doi.acm.org/10.1145/2213836.2213851",
 	"pages": "121-132",
 	"publisher": "ACM",
-	"stemmed": [
-		"mc",
-		"join",
-		"a",
-		"memori",
-		"constrain",
-		"join",
-		"for",
-		"column",
-		"store",
-		"main",
-		"memori",
-		"databas"
-	],
-	"tag": [
-		"database",
-		"in memory",
-		"named"
-	],
+	"stemmed": ["mc", "join", "a", "memori", "constrain", "join", "for", "column", "store", "main", "memori", "databas"],
+	"tag": ["database", "in memory", "named"],
 	"title": "MCJoin: a memory-constrained join for column-store main-memory databases",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

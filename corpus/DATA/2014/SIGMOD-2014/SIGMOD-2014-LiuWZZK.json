@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Siyuan Liu",
-		"Shuhui Wang",
-		"Feida Zhu",
-		"Jinbo Zhang",
-		"Ramayya Krishnan"
-	],
+	"author": ["Siyuan Liu", "Shuhui Wang", "Feida Zhu", "Jinbo Zhang", "Ramayya Krishnan"],
 	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/LiuWZZK14",
 	"doi": "10.1145/2588555.2588559",
-	"ee": "http://doi.acm.org/10.1145/2588555.2588559",
 	"pages": "51-62",
 	"publisher": "ACM",
-	"stemmed": [
-		"hydra",
-		"larg",
-		"scale",
-		"social",
-		"ident",
-		"linkag",
-		"via",
-		"heterogen",
-		"behavior",
-		"model"
-	],
-	"tag": [
-		"behaviour",
-		"modelling",
-		"named",
-		"scalability",
-		"social"
-	],
+	"stemmed": ["hydra", "larg", "scale", "social", "ident", "linkag", "via", "heterogen", "behavior", "model"],
+	"tag": ["behaviour", "modelling", "named", "scalability", "social"],
 	"title": "HYDRA: large-scale social identity linkage via heterogeneous behavior modeling",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

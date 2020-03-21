@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Kota Mizushima",
-		"Atusi Maeda",
-		"Yoshinori Yamaguchi"
-	],
+	"author": ["Kota Mizushima", "Atusi Maeda", "Yoshinori Yamaguchi"],
 	"booktitle": "Proceedings of the Ninth Workshop on Program Analysis for Software Tools and Engineering",
 	"booktitleshort": "PASTE",
 	"crossref": "conf/paste/2010",
 	"dblpkey": "conf/paste/MizushimaMY10",
 	"doi": "10.1145/1806672.1806679",
-	"ee": "http://doi.acm.org/10.1145/1806672.1806679",
 	"pages": "29-36",
 	"publisher": "ACM",
-	"stemmed": [
-		"packrat",
-		"parser",
-		"can",
-		"handl",
-		"practic",
-		"grammar",
-		"in",
-		"most",
-		"constant",
-		"space"
-	],
-	"tag": [
-		"constant",
-		"parsing"
-	],
+	"stemmed": ["packrat", "parser", "can", "handl", "practic", "grammar", "in", "most", "constant", "space"],
+	"tag": ["constant", "parsing"],
 	"title": "Packrat parsers can handle practical grammars in mostly constant space",
 	"type": "inproceedings",
 	"venue": "PASTE",

@@ -1,40 +1,16 @@
 {
-	"author": [
-		"Jeffrey D. Ullman",
-		"Moshe Y. Vardi"
-	],
+	"author": ["Jeffrey D. Ullman", "Moshe Y. Vardi"],
 	"booktitle": "Proceedings of the Seventh Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS88/P074.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS88/P074.PDF"
-	],
-	"cite": [
-		"conf/pods/BancilhonMSU86",
-		"journals/jacm/ChandraKS81",
-		"journals/jcss/Cook74",
-		"conf/pods/Morris88",
-		"journals/debu/MorrisNSUG87",
-		"conf/iclp/SaccaZ87",
-		"journals/jlp/Shapiro84",
-		"journals/tods/Ullman85"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS88/P074.PDF", "journals/anthology/dvd1:text/1-3/PODS88/P074.PDF"],
+	"cite": ["conf/pods/BancilhonMSU86", "journals/jacm/ChandraKS81", "journals/jcss/Cook74", "conf/pods/Morris88", "journals/debu/MorrisNSUG87", "conf/iclp/SaccaZ87", "journals/jlp/Shapiro84", "journals/tods/Ullman85"],
 	"crossref": "conf/pods/88",
 	"dblpkey": "conf/pods/UllmanV88",
 	"doi": "10.1145/308386.308417",
-	"ee": "http://doi.acm.org/10.1145/308386.308417",
 	"pages": "74-81",
 	"publisher": "ACM",
-	"stemmed": [
-		"the",
-		"complex",
-		"of",
-		"order",
-		"subgoal"
-	],
-	"tag": [
-		"complexity"
-	],
+	"stemmed": ["the", "complex", "of", "order", "subgoal"],
+	"tag": ["complexity"],
 	"title": "The Complexity of Ordering Subgoals",
 	"type": "inproceedings",
 	"venue": "PODS",

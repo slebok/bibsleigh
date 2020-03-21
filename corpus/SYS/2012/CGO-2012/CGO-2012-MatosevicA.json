@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Ivan Matosevic",
-		"Tarek S. Abdelrahman"
-	],
+	"author": ["Ivan Matosevic", "Tarek S. Abdelrahman"],
 	"booktitle": "Proceedings of the 10th International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2012",
 	"dblpkey": "conf/cgo/MatosevicA12",
 	"doi": "10.1145/2259016.2259049",
-	"ee": "http://doi.acm.org/10.1145/2259016.2259049",
 	"pages": "252-263",
 	"publisher": "ACM",
-	"stemmed": [
-		"effici",
-		"bottom",
-		"up",
-		"heap",
-		"analysi",
-		"for",
-		"symbol",
-		"path",
-		"base",
-		"data",
-		"access",
-		"summari"
-	],
-	"tag": [
-		"analysis",
-		"bottom-up",
-		"data access",
-		"performance",
-		"summary"
-	],
+	"stemmed": ["effici", "bottom", "up", "heap", "analysi", "for", "symbol", "path", "base", "data", "access", "summari"],
+	"tag": ["analysis", "bottom-up", "data access", "performance", "summary"],
 	"title": "Efficient bottom-up heap analysis for symbolic path-based data access summaries",
 	"type": "inproceedings",
 	"venue": "CGO",

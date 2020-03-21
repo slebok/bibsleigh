@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Vimal K. Reddy",
-		"Eric Rotenberg",
-		"Sailashri Parthasarathy"
-	],
+	"author": ["Vimal K. Reddy", "Eric Rotenberg", "Sailashri Parthasarathy"],
 	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/ReddyRP06",
 	"doi": "10.1145/1168857.1168869",
-	"ee": "http://doi.acm.org/10.1145/1168857.1168869",
 	"pages": "83-94",
 	"publisher": "ACM",
-	"stemmed": [
-		"understand",
-		"predict",
-		"base",
-		"partial",
-		"redund",
-		"thread",
-		"for",
-		"low",
-		"overhead",
-		"high",
-		"coverag",
-		"fault",
-		"toler"
-	],
-	"tag": [
-		"comprehension",
-		"fault tolerance",
-		"predict",
-		"thread"
-	],
+	"stemmed": ["understand", "predict", "base", "partial", "redund", "thread", "for", "low", "overhead", "high", "coverag", "fault", "toler"],
+	"tag": ["comprehension", "fault tolerance", "predict", "thread"],
 	"title": "Understanding prediction-based partial redundant threading for low-overhead, high- coverage fault tolerance",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

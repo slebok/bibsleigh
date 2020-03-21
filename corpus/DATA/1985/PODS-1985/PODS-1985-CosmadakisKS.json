@@ -1,51 +1,16 @@
 {
-	"author": [
-		"Stavros S. Cosmadakis",
-		"Paris C. Kanellakis",
-		"Nicolas Spyratos"
-	],
+	"author": ["Stavros S. Cosmadakis", "Paris C. Kanellakis", "Nicolas Spyratos"],
 	"booktitle": "Proceedings of the Fourth Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS85/P261.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS85/P261.PDF"
-	],
-	"cite": [
-		"conf/popl/AhoU79",
-		"journals/siamcomp/BeeriV84",
-		"...",
-		"...",
-		"journals/jacm/Fagin82",
-		"books/fm/GareyJ79",
-		"...",
-		"journals/jacm/Honeyman82",
-		"books/aw/HopcroftU79",
-		"...",
-		"conf/stoc/Kozen77",
-		"books/cs/Maier83",
-		"...",
-		"journals/jacm/SadriU82",
-		"...",
-		"books/cs/Ullman82",
-		"...",
-		"...",
-		"journals/jcss/YannakakisP82"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS85/P261.PDF", "journals/anthology/dvd1:text/1-3/PODS85/P261.PDF"],
+	"cite": ["conf/popl/AhoU79", "journals/siamcomp/BeeriV84", "...", "...", "journals/jacm/Fagin82", "books/fm/GareyJ79", "...", "journals/jacm/Honeyman82", "books/aw/HopcroftU79", "...", "conf/stoc/Kozen77", "books/cs/Maier83", "...", "journals/jacm/SadriU82", "...", "books/cs/Ullman82", "...", "...", "journals/jcss/YannakakisP82"],
 	"crossref": "conf/pods/85",
 	"dblpkey": "conf/pods/CosmadakisKS85",
 	"doi": "10.1145/325405.325452",
-	"ee": "http://doi.acm.org/10.1145/325405.325452",
 	"pages": "261-275",
 	"publisher": "ACM",
-	"stemmed": [
-		"partit",
-		"semant",
-		"for",
-		"relat"
-	],
-	"tag": [
-		"semantics"
-	],
+	"stemmed": ["partit", "semant", "for", "relat"],
+	"tag": ["semantics"],
 	"title": "Partition Semantics for Relations",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Ernie Chan",
-		"Robert A. van de Geijn",
-		"William Gropp",
-		"Rajeev Thakur"
-	],
+	"author": ["Ernie Chan", "Robert A. van de Geijn", "William Gropp", "Rajeev Thakur"],
 	"booktitle": "Proceedings of the 11th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2006",
 	"dblpkey": "conf/ppopp/ChanGGT06",
 	"doi": "10.1145/1122971.1122975",
-	"ee": "http://doi.acm.org/10.1145/1122971.1122975",
 	"pages": "2-11",
 	"publisher": "ACM",
-	"stemmed": [
-		"collect",
-		"communic",
-		"on",
-		"architectur",
-		"that",
-		"support",
-		"simultan",
-		"communic",
-		"over",
-		"multipl",
-		"link"
-	],
-	"tag": [
-		"architecture",
-		"communication",
-		"multi"
-	],
+	"stemmed": ["collect", "communic", "on", "architectur", "that", "support", "simultan", "communic", "over", "multipl", "link"],
+	"tag": ["architecture", "communication", "multi"],
 	"title": "Collective communication on architectures that support simultaneous communication over multiple links",
 	"type": "inproceedings",
 	"venue": "PPoPP",

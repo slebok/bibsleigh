@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Eli Pozniansky",
-		"Assaf Schuster"
-	],
+	"author": ["Eli Pozniansky", "Assaf Schuster"],
 	"booktitle": "Proceedings of the Ninth Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2003",
 	"dblpkey": "conf/ppopp/PoznianskyS03",
 	"doi": "10.1145/781498.781529",
-	"ee": "http://doi.acm.org/10.1145/781498.781529",
 	"pages": "179-190",
 	"publisher": "ACM",
-	"stemmed": [
-		"effici",
-		"on",
-		"the",
-		"fli",
-		"data",
-		"race",
-		"detect",
-		"in",
-		"multihread",
-		"c",
-		"program"
-	],
-	"tag": [
-		"c++",
-		"concurrent",
-		"detection",
-		"multi",
-		"on the fly",
-		"performance",
-		"source code"
-	],
+	"stemmed": ["effici", "on", "the", "fli", "data", "race", "detect", "in", "multihread", "c", "program"],
+	"tag": ["c++", "concurrent", "detection", "multi", "on the fly", "performance", "source code"],
 	"title": "Efficient on-the-fly data race detection in multihreaded C++ programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

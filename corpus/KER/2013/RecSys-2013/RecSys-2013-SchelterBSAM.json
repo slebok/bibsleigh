@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Sebastian Schelter",
-		"Christoph Boden",
-		"Martin Schenck",
-		"Alexander Alexandrov",
-		"Volker Markl"
-	],
+	"author": ["Sebastian Schelter", "Christoph Boden", "Martin Schenck", "Alexander Alexandrov", "Volker Markl"],
 	"booktitle": "Proceedings of the Seventh Conference on Recommender Systems",
 	"booktitleshort": "RecSys",
 	"crossref": "conf/recsys/2013",
 	"dblpkey": "conf/recsys/SchelterBSAM13",
 	"doi": "10.1145/2507157.2507195",
-	"ee": "http://doi.acm.org/10.1145/2507157.2507195",
 	"pages": "281-284",
 	"publisher": "ACM",
-	"stemmed": [
-		"distribut",
-		"matrix",
-		"factor",
-		"with",
-		"mapreduc",
-		"use",
-		"a",
-		"seri",
-		"of",
-		"broadcast",
-		"join"
-	],
-	"tag": [
-		"distributed",
-		"matrix",
-		"pipes and filters",
-		"using"
-	],
+	"stemmed": ["distribut", "matrix", "factor", "with", "mapreduc", "use", "a", "seri", "of", "broadcast", "join"],
+	"tag": ["distributed", "matrix", "pipes and filters", "using"],
 	"title": "Distributed matrix factorization with mapreduce using a series of broadcast-joins",
 	"type": "inproceedings",
 	"venue": "RecSys",

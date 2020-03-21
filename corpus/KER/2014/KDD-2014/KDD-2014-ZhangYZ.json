@@ -1,31 +1,14 @@
 {
-	"author": [
-		"Jiawei Zhang",
-		"Philip S. Yu",
-		"Zhi-Hua Zhou"
-	],
+	"author": ["Jiawei Zhang", "Philip S. Yu", "Zhi-Hua Zhou"],
 	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/ZhangYZ14",
 	"doi": "10.1145/2623330.2623645",
-	"ee": "http://doi.acm.org/10.1145/2623330.2623645",
 	"pages": "1286-1295",
 	"publisher": "ACM",
-	"stemmed": [
-		"meta",
-		"path",
-		"base",
-		"multi",
-		"network",
-		"collect",
-		"link",
-		"predict"
-	],
-	"tag": [
-		"multi",
-		"predict"
-	],
+	"stemmed": ["meta", "path", "base", "multi", "network", "collect", "link", "predict"],
+	"tag": ["multi", "predict"],
 	"title": "Meta-path based multi-network collective link prediction",
 	"type": "inproceedings",
 	"venue": "KDD",

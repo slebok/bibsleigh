@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Michal Spivak",
-		"Sivan Toledo"
-	],
+	"author": ["Michal Spivak", "Sivan Toledo"],
 	"booktitle": "Proceedings of the Seventh Conference on Languages, Compilers, and Tools for Embedded Systems",
 	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2006",
 	"dblpkey": "conf/lctrts/SpivakT06",
 	"doi": "10.1145/1134650.1134655",
-	"ee": "http://doi.acm.org/10.1145/1134650.1134655",
 	"pages": "22-33",
 	"publisher": "ACM",
-	"stemmed": [
-		"store",
-		"a",
-		"persist",
-		"transact",
-		"object",
-		"heap",
-		"on",
-		"flash",
-		"memori"
-	],
-	"tag": [
-		"memory management",
-		"persistent",
-		"transaction"
-	],
+	"stemmed": ["store", "a", "persist", "transact", "object", "heap", "on", "flash", "memori"],
+	"tag": ["memory management", "persistent", "transaction"],
 	"title": "Storing a persistent transactional object heap on flash memory",
 	"type": "inproceedings",
 	"venue": "LCTES",

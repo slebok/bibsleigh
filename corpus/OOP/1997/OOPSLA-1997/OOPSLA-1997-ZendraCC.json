@@ -1,40 +1,16 @@
 {
-	"author": [
-		"Olivier Zendra",
-		"Dominique Colnet",
-		"Suzanne Collin"
-	],
+	"author": ["Olivier Zendra", "Dominique Colnet", "Suzanne Collin"],
 	"booktitle": "Proceedings of the 12th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/1997",
 	"dblpkey": "conf/oopsla/ZendraCC97",
 	"doi": "10.1145/263698.263728",
-	"editor": [
-		"Mary E. S. Loomis",
-		"Toby Bloom",
-		"A. Michael Berman"
-	],
-	"ee": "http://doi.acm.org/10.1145/263698.263728",
+	"editor": ["Mary E. S. Loomis", "Toby Bloom", "A. Michael Berman"],
 	"isbn": "0-89791-908-4",
 	"pages": "125-141",
 	"publisher": "ACM",
-	"stemmed": [
-		"effici",
-		"dynam",
-		"dispatch",
-		"without",
-		"virtual",
-		"function",
-		"tabl",
-		"the",
-		"small",
-		"eiffel",
-		"compil"
-	],
-	"tag": [
-		"compilation",
-		"performance"
-	],
+	"stemmed": ["effici", "dynam", "dispatch", "without", "virtual", "function", "tabl", "the", "small", "eiffel", "compil"],
+	"tag": ["compilation", "performance"],
 	"title": "Efficient Dynamic Dispatch without Virtual Function Tables: The SmallEiffel Compiler",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

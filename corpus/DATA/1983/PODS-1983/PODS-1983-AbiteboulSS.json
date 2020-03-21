@@ -1,45 +1,16 @@
 {
-	"author": [
-		"Serge Abiteboul",
-		"M. Spyratos",
-		"Nicolas Spyratos"
-	],
+	"author": ["Serge Abiteboul", "M. Spyratos", "Nicolas Spyratos"],
 	"booktitle": "Proceedings of the Second Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS83/P312.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS83/P312.PDF"
-	],
-	"cite": [
-		"journals/tods/BancilhonS81",
-		"conf/vldb/BancilhonS81",
-		"journals/cacm/Codd70",
-		"journals/jacm/GinsburgZ82",
-		"...",
-		"...",
-		"journals/tods/Rissanen77",
-		"conf/pods/Spyratos82",
-		"journals/ipl/Spyratos82",
-		"conf/focs/YannakakisP80"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS83/P312.PDF", "journals/anthology/dvd1:text/1-3/PODS83/P312.PDF"],
+	"cite": ["journals/tods/BancilhonS81", "conf/vldb/BancilhonS81", "journals/cacm/Codd70", "journals/jacm/GinsburgZ82", "...", "...", "journals/tods/Rissanen77", "conf/pods/Spyratos82", "journals/ipl/Spyratos82", "conf/focs/YannakakisP80"],
 	"crossref": "conf/pods/83",
 	"dblpkey": "conf/pods/AbiteboulSS83",
 	"doi": "10.1145/588058.588095",
-	"ee": "http://doi.acm.org/10.1145/588058.588095",
 	"pages": "312-316",
 	"publisher": "ACM",
-	"stemmed": [
-		"inform",
-		"theoret",
-		"aspect",
-		"of",
-		"data",
-		"base"
-	],
-	"tag": [
-		"aspect-oriented",
-		"database"
-	],
+	"stemmed": ["inform", "theoret", "aspect", "of", "data", "base"],
+	"tag": ["aspect-oriented", "database"],
 	"title": "Information Theoretic Aspects of Data Bases",
 	"type": "inproceedings",
 	"venue": "PODS",

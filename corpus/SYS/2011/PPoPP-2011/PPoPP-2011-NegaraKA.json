@@ -1,30 +1,14 @@
 {
-	"author": [
-		"Stas Negara",
-		"Rajesh K. Karmani",
-		"Gul A. Agha"
-	],
+	"author": ["Stas Negara", "Rajesh K. Karmani", "Gul A. Agha"],
 	"booktitle": "Proceedings of the 16th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2011",
 	"dblpkey": "conf/ppopp/NegaraKA11",
 	"doi": "10.1145/1941553.1941566",
-	"ee": "http://doi.acm.org/10.1145/1941553.1941566",
 	"pages": "81-90",
 	"publisher": "ACM",
-	"stemmed": [
-		"infer",
-		"ownership",
-		"transfer",
-		"for",
-		"effici",
-		"messag",
-		"pass"
-	],
-	"tag": [
-		"message passing",
-		"performance"
-	],
+	"stemmed": ["infer", "ownership", "transfer", "for", "effici", "messag", "pass"],
+	"tag": ["message passing", "performance"],
 	"title": "Inferring ownership transfer for efficient message passing",
 	"type": "inproceedings",
 	"venue": "PPoPP",

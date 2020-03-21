@@ -6,24 +6,34 @@ when no venue
 	inherit venue
 
 -- Useless unclickable value, legacy of DBLP importing
-when url =~ db/conf/
-	remove url
-when url =~ db/series/
-	remove url
-when url =~ db/journals/
-	remove url
+for each
+	when url =~ db/conf/
+		remove url
+for each
+	when url =~ db/series/
+		remove url
+for each
+	when url =~ db/journals/
+		remove url
 
 -- Convert EE to DOI, ACMID and other special fields
 when ee =~ https://doi.org/
 	rename to doi
 when ee =~ https://dl.acm.org/citation.cfm?id=
 	rename to acmid
+when ee =~ http://doi.acm.org/
+	rename to doi
 
 -- Curate DOI and ACMID fields of addresses
-when doi =~ https://doi.org/
-	truncate left 16
-when acmid =~ https://dl.acm.org/citation.cfm?id=
-	truncate left 35
+for each
+	when doi =~ http://doi.acm.org/
+		truncate left 19
+for each
+	when doi =~ https://doi.org/
+		truncate left 16
+for each
+	when acmid =~ https://dl.acm.org/citation.cfm?id=
+		truncate left 35
 
 -- Inherit good booktitle
 when booktitle

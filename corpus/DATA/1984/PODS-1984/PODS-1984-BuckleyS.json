@@ -1,48 +1,16 @@
 {
-	"author": [
-		"Gael N. Buckley",
-		"Abraham Silberschatz"
-	],
+	"author": ["Gael N. Buckley", "Abraham Silberschatz"],
 	"booktitle": "Proceedings of the Third Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS84/P045.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS84/P045.PDF"
-	],
-	"cite": [
-		"...",
-		"journals/cacm/EswarranGLT76",
-		"conf/vldb/KedemS80",
-		"journals/jacm/KedemS83",
-		"journals/jacm/Korth83",
-		"journals/tods/Korth82",
-		"journals/jacm/SilberschatzK80",
-		"journals/jacm/Yannakakis82",
-		"journals/siamcomp/Yannakakis82"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS84/P045.PDF", "journals/anthology/dvd1:text/1-3/PODS84/P045.PDF"],
+	"cite": ["...", "journals/cacm/EswarranGLT76", "conf/vldb/KedemS80", "journals/jacm/KedemS83", "journals/jacm/Korth83", "journals/tods/Korth82", "journals/jacm/SilberschatzK80", "journals/jacm/Yannakakis82", "journals/siamcomp/Yannakakis82"],
 	"crossref": "conf/pods/84",
 	"dblpkey": "conf/pods/BuckleyS84",
 	"doi": "10.1145/588011.588019",
-	"ee": "http://doi.acm.org/10.1145/588011.588019",
 	"pages": "45-50",
 	"publisher": "ACM",
-	"stemmed": [
-		"concurr",
-		"control",
-		"in",
-		"graph",
-		"protocol",
-		"by",
-		"use",
-		"edg",
-		"lock"
-	],
-	"tag": [
-		"concurrent",
-		"graph",
-		"protocol",
-		"using"
-	],
+	"stemmed": ["concurr", "control", "in", "graph", "protocol", "by", "use", "edg", "lock"],
+	"tag": ["concurrent", "graph", "protocol", "using"],
 	"title": "Concurrency Control in Graph Protocols by Using Edge Locks",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,47 +1,15 @@
 {
-	"author": [
-		"Bernhard Seeger",
-		"Per-Åke Larson"
-	],
+	"author": ["Bernhard Seeger", "Per-Åke Larson"],
 	"booktitle": "Proceedings of the 21st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD91/P436.PDF",
-	"cite": [
-		"journals/acta/BayerM72",
-		"journals/csur/Comer79",
-		"conf/sigmod/CopelandABK88",
-		"journals/tkde/DeWittGSBHR90",
-		"...",
-		"conf/pods/FaloutsosM89",
-		"conf/vldb/GhandeharizadehD90",
-		"conf/vldb/HuaL90",
-		"...",
-		"conf/sigmod/KimP88",
-		"conf/sigmetrics/LivnyKB87",
-		"conf/icde/LitwinL86",
-		"conf/sigmod/PattersonGK88",
-		"books/mk/PattersonH90",
-		"journals/tc/PramanikK90",
-		"conf/icde/SalemG86",
-		"books/ph/Salzberg88",
-		"conf/vldb/SeegerK90",
-		"...",
-		"journals/tods/WuB87"
-	],
+	"cite": ["journals/acta/BayerM72", "journals/csur/Comer79", "conf/sigmod/CopelandABK88", "journals/tkde/DeWittGSBHR90", "...", "conf/pods/FaloutsosM89", "conf/vldb/GhandeharizadehD90", "conf/vldb/HuaL90", "...", "conf/sigmod/KimP88", "conf/sigmetrics/LivnyKB87", "conf/icde/LitwinL86", "conf/sigmod/PattersonGK88", "books/mk/PattersonH90", "journals/tc/PramanikK90", "conf/icde/SalemG86", "books/ph/Salzberg88", "conf/vldb/SeegerK90", "...", "journals/tods/WuB87"],
 	"crossref": "conf/sigmod/91",
 	"dblpkey": "conf/sigmod/SeegerL91",
 	"doi": "10.1145/115790.115862",
-	"ee": "http://doi.acm.org/10.1145/115790.115862",
 	"pages": "436-445",
-	"stemmed": [
-		"multi",
-		"disk",
-		"b",
-		"tree"
-	],
-	"tag": [
-		"multi"
-	],
+	"stemmed": ["multi", "disk", "b", "tree"],
+	"tag": ["multi"],
 	"title": "Multi-Disk B-trees",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

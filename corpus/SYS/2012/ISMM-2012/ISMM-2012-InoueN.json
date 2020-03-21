@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Hiroshi Inoue",
-		"Toshio Nakatani"
-	],
+	"author": ["Hiroshi Inoue", "Toshio Nakatani"],
 	"booktitle": "Proceedings of the 11th International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2012",
 	"dblpkey": "conf/iwmm/InoueN12",
 	"doi": "10.1145/2258996.2259014",
-	"ee": "http://doi.acm.org/10.1145/2258996.2259014",
 	"pages": "133-142",
 	"publisher": "ACM",
-	"stemmed": [
-		"identifi",
-		"the",
-		"sourc",
-		"of",
-		"cach",
-		"miss",
-		"in",
-		"java",
-		"program",
-		"without",
-		"reli",
-		"on",
-		"hardwar",
-		"counter"
-	],
-	"tag": [
-		"hardware",
-		"identification",
-		"java",
-		"source code"
-	],
+	"stemmed": ["identifi", "the", "sourc", "of", "cach", "miss", "in", "java", "program", "without", "reli", "on", "hardwar", "counter"],
+	"tag": ["hardware", "identification", "java", "source code"],
 	"title": "Identifying the sources of cache misses in Java programs without relying on hardware counters",
 	"type": "inproceedings",
 	"venue": "ISMM",

@@ -1,43 +1,16 @@
 {
-	"author": [
-		"Elvira Albert",
-		"Antonio Flores-Montoya",
-		"Samir Genaim"
-	],
+	"author": ["Elvira Albert", "Antonio Flores-Montoya", "Samir Genaim"],
 	"booktitle": "Proceedings of the 20th Symposium on the Foundations of Software Engineering",
 	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2012",
 	"dblpkey": "conf/sigsoft/AlbertFG12",
 	"doi": "10.1145/2393596.2393611",
-	"editor": [
-		"Will Tracz",
-		"Martin P. Robillard",
-		"Tevfik Bultan"
-	],
-	"ee": "http://doi.acm.org/10.1145/2393596.2393611",
-	"isbn": [
-		"978-1-4503-1614-9",
-		"978-1-4503-0443-6"
-	],
+	"editor": ["Will Tracz", "Martin P. Robillard", "Tevfik Bultan"],
+	"isbn": ["978-1-4503-1614-9", "978-1-4503-0443-6"],
 	"pages": "14-14",
 	"publisher": "ACM",
-	"stemmed": [
-		"may",
-		"par",
-		"a",
-		"may",
-		"happen",
-		"in",
-		"parallel",
-		"analyz",
-		"for",
-		"concurr",
-		"object"
-	],
-	"tag": [
-		"concurrent",
-		"named"
-	],
+	"stemmed": ["may", "par", "a", "may", "happen", "in", "parallel", "analyz", "for", "concurr", "object"],
+	"tag": ["concurrent", "named"],
 	"title": "MayPar: a may-happen-in-parallel analyzer for concurrent objects",
 	"type": "inproceedings",
 	"venue": "FSE",

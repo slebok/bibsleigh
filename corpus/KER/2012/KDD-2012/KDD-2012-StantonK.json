@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Isabelle Stanton",
-		"Gabriel Kliot"
-	],
+	"author": ["Isabelle Stanton", "Gabriel Kliot"],
 	"booktitle": "Proceedings of the 18th International Conference on Knowledge Discovery and Data Mining",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2012",
 	"dblpkey": "conf/kdd/StantonK12",
 	"doi": "10.1145/2339530.2339722",
-	"ee": "http://doi.acm.org/10.1145/2339530.2339722",
 	"pages": "1222-1230",
 	"publisher": "ACM",
-	"stemmed": [
-		"stream",
-		"graph",
-		"partit",
-		"for",
-		"larg",
-		"distribut",
-		"graph"
-	],
-	"tag": [
-		"clustering",
-		"distributed",
-		"graph",
-		"scalability",
-		"streaming"
-	],
+	"stemmed": ["stream", "graph", "partit", "for", "larg", "distribut", "graph"],
+	"tag": ["clustering", "distributed", "graph", "scalability", "streaming"],
 	"title": "Streaming graph partitioning for large distributed graphs",
 	"type": "inproceedings",
 	"venue": "KDD",

@@ -1,33 +1,14 @@
 {
-	"author": [
-		"José F. Martínez",
-		"Josep Torrellas"
-	],
+	"author": ["José F. Martínez", "Josep Torrellas"],
 	"booktitle": "Proceedings of the 10th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2002",
 	"dblpkey": "conf/asplos/MartinezT02",
 	"doi": "10.1145/605397.605400",
-	"ee": "http://doi.acm.org/10.1145/605397.605400",
 	"pages": "18-29",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"specul",
-		"synchron",
-		"appli",
-		"thread",
-		"level",
-		"specul",
-		"to",
-		"explicit",
-		"parallel",
-		"applic"
-	],
-	"tag": [
-		"concurrent",
-		"parallel",
-		"thread"
-	],
+	"stemmed": ["specul", "synchron", "appli", "thread", "level", "specul", "to", "explicit", "parallel", "applic"],
+	"tag": ["concurrent", "parallel", "thread"],
 	"title": "Speculative synchronization: applying thread-level speculation to explicitly parallel applications",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

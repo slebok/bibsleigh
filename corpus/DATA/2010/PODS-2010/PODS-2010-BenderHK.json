@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Michael A. Bender",
-		"Haodong Hu",
-		"Bradley C. Kuszmaul"
-	],
+	"author": ["Michael A. Bender", "Haodong Hu", "Bradley C. Kuszmaul"],
 	"booktitle": "Proceedings of the 29th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2010",
 	"dblpkey": "conf/pods/BenderHK10",
 	"doi": "10.1145/1807085.1807125",
-	"ee": "http://doi.acm.org/10.1145/1807085.1807125",
 	"pages": "305-316",
 	"publisher": "ACM",
-	"stemmed": [
-		"perform",
-		"guarante",
-		"for",
-		"b",
-		"tree",
-		"with",
-		"differ",
-		"size",
-		"atom",
-		"key"
-	],
-	"tag": [
-		"performance"
-	],
+	"stemmed": ["perform", "guarante", "for", "b", "tree", "with", "differ", "size", "atom", "key"],
+	"tag": ["performance"],
 	"title": "Performance guarantees for B-trees with different-sized atomic keys",
 	"type": "inproceedings",
 	"venue": "PODS",

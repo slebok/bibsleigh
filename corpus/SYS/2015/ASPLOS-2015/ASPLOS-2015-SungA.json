@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Hyojin Sung",
-		"Sarita V. Adve"
-	],
+	"author": ["Hyojin Sung", "Sarita V. Adve"],
 	"booktitle": "Proceedings of the 20th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2015",
 	"dblpkey": "conf/asplos/SungA15",
 	"doi": "10.1145/2694344.2694356",
-	"ee": "http://doi.acm.org/10.1145/2694344.2694356",
 	"pages": "545-559",
 	"publisher": "ACM",
-	"stemmed": [
-		"de",
-		"novo",
-		"sync",
-		"effici",
-		"support",
-		"for",
-		"arbitrari",
-		"synchron",
-		"without",
-		"writer",
-		"initi",
-		"invalid"
-	],
-	"tag": [
-		"named",
-		"performance"
-	],
+	"stemmed": ["de", "novo", "sync", "effici", "support", "for", "arbitrari", "synchron", "without", "writer", "initi", "invalid"],
+	"tag": ["named", "performance"],
 	"title": "DeNovoSync: Efficient Support for Arbitrary Synchronization without Writer-Initiated Invalidations",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,39 +1,14 @@
 {
-	"author": [
-		"George Tzenakis",
-		"Angelos Papatriantafyllou",
-		"John Kesapides",
-		"Polyvios Pratikakis",
-		"Hans Vandierendonck",
-		"Dimitrios S. Nikolopoulos"
-	],
+	"author": ["George Tzenakis", "Angelos Papatriantafyllou", "John Kesapides", "Polyvios Pratikakis", "Hans Vandierendonck", "Dimitrios S. Nikolopoulos"],
 	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/TzenakisPKPVN12",
 	"doi": "10.1145/2145816.2145864",
-	"ee": "http://doi.acm.org/10.1145/2145816.2145864",
 	"pages": "301-302",
 	"publisher": "ACM",
-	"stemmed": [
-		"bddt",
-		"block",
-		"level",
-		"dynam",
-		"depend",
-		"analysi",
-		"for",
-		"determinist",
-		"task",
-		"base",
-		"parallel"
-	],
-	"tag": [
-		"analysis",
-		"dependence",
-		"named",
-		"parallel"
-	],
+	"stemmed": ["bddt", "block", "level", "dynam", "depend", "analysi", "for", "determinist", "task", "base", "parallel"],
+	"tag": ["analysis", "dependence", "named", "parallel"],
 	"title": "BDDT: : block-level dynamic dependence analysis for deterministic task-based parallelism",
 	"type": "inproceedings",
 	"venue": "PPoPP",

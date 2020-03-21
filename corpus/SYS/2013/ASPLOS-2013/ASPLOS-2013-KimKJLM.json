@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Hwanju Kim",
-		"Sangwook Kim",
-		"Jinkyu Jeong",
-		"Joonwon Lee",
-		"Seungryoul Maeng"
-	],
+	"author": ["Hwanju Kim", "Sangwook Kim", "Jinkyu Jeong", "Joonwon Lee", "Seungryoul Maeng"],
 	"booktitle": "Proceedings of the 18th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2013",
 	"dblpkey": "conf/asplos/KimKJLM13",
 	"doi": "10.1145/2451116.2451156",
-	"ee": "http://doi.acm.org/10.1145/2451116.2451156",
 	"pages": "369-380",
 	"publisher": "ACM",
-	"stemmed": [
-		"demand",
-		"base",
-		"coordin",
-		"schedul",
-		"for",
-		"smp",
-		"vms"
-	],
-	"tag": [
-		"coordination",
-		"scheduling",
-		"virtual machine"
-	],
+	"stemmed": ["demand", "base", "coordin", "schedul", "for", "smp", "vms"],
+	"tag": ["coordination", "scheduling", "virtual machine"],
 	"title": "Demand-based coordinated scheduling for SMP VMs",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

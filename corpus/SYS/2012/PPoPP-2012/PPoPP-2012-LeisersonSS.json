@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Charles E. Leiserson",
-		"Tao B. Schardl",
-		"Jim Sukha"
-	],
+	"author": ["Charles E. Leiserson", "Tao B. Schardl", "Jim Sukha"],
 	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/LeisersonSS12",
 	"doi": "10.1145/2145816.2145841",
-	"ee": "http://doi.acm.org/10.1145/2145816.2145841",
 	"pages": "193-204",
 	"publisher": "ACM",
-	"stemmed": [
-		"determinist",
-		"parallel",
-		"random",
-		"number",
-		"generat",
-		"for",
-		"dynam",
-		"multithread",
-		"platform"
-	],
-	"tag": [
-		"generative",
-		"parallel",
-		"thread"
-	],
+	"stemmed": ["determinist", "parallel", "random", "number", "generat", "for", "dynam", "multithread", "platform"],
+	"tag": ["generative", "parallel", "thread"],
 	"title": "Deterministic parallel random-number generation for dynamic-multithreading platforms",
 	"type": "inproceedings",
 	"venue": "PPoPP",

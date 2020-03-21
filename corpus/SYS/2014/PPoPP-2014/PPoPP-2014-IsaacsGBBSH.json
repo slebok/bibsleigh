@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Katherine E. Isaacs",
-		"Todd Gamblin",
-		"Abhinav Bhatele",
-		"Peer-Timo Bremer",
-		"Martin Schulz",
-		"Bernd Hamann"
-	],
+	"author": ["Katherine E. Isaacs", "Todd Gamblin", "Abhinav Bhatele", "Peer-Timo Bremer", "Martin Schulz", "Bernd Hamann"],
 	"booktitle": "Proceedings of the 19th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2014",
 	"dblpkey": "conf/ppopp/IsaacsGBBSH14",
 	"doi": "10.1145/2555243.2555288",
-	"ee": "http://doi.acm.org/10.1145/2555243.2555288",
 	"pages": "397-398",
 	"publisher": "ACM",
-	"stemmed": [
-		"extract",
-		"logic",
-		"structur",
-		"and",
-		"identifi",
-		"straggler",
-		"in",
-		"parallel",
-		"execut",
-		"trace"
-	],
-	"tag": [
-		"execution",
-		"identification",
-		"logic",
-		"parallel"
-	],
+	"stemmed": ["extract", "logic", "structur", "and", "identifi", "straggler", "in", "parallel", "execut", "trace"],
+	"tag": ["execution", "identification", "logic", "parallel"],
 	"title": "Extracting logical structure and identifying stragglers in parallel execution traces",
 	"type": "inproceedings",
 	"venue": "PPoPP",

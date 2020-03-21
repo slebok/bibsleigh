@@ -1,30 +1,14 @@
 {
-	"author": [
-		"Seonggun Kim",
-		"Hwansoo Han"
-	],
+	"author": ["Seonggun Kim", "Hwansoo Han"],
 	"booktitle": "Proceedings of the 17th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2012",
 	"dblpkey": "conf/ppopp/KimH12",
 	"doi": "10.1145/2145816.2145824",
-	"ee": "http://doi.acm.org/10.1145/2145816.2145824",
 	"pages": "55-64",
 	"publisher": "ACM",
-	"stemmed": [
-		"effici",
-		"simd",
-		"code",
-		"generat",
-		"for",
-		"irregular",
-		"kernel"
-	],
-	"tag": [
-		"code generation",
-		"kernel",
-		"performance"
-	],
+	"stemmed": ["effici", "simd", "code", "generat", "for", "irregular", "kernel"],
+	"tag": ["code generation", "kernel", "performance"],
 	"title": "Efficient SIMD code generation for irregular kernels",
 	"type": "inproceedings",
 	"venue": "PPoPP",

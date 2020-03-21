@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Manohar Jonnalagedda",
-		"Thierry Coppey",
-		"Sandro Stucki",
-		"Tiark Rompf",
-		"Martin Odersky"
-	],
+	"author": ["Manohar Jonnalagedda", "Thierry Coppey", "Sandro Stucki", "Tiark Rompf", "Martin Odersky"],
 	"booktitle": "Proceedings of the 29th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2014",
 	"dblpkey": "conf/oopsla/JonnalageddaCSRO14",
 	"doi": "10.1145/2660193.2660241",
-	"ee": "http://doi.acm.org/10.1145/2660193.2660241",
 	"pages": "637-653",
 	"publisher": "ACM",
-	"stemmed": [
-		"stage",
-		"parser",
-		"combin",
-		"for",
-		"effici",
-		"data",
-		"process"
-	],
-	"tag": [
-		"combinator",
-		"parsing",
-		"performance",
-		"staged"
-	],
+	"stemmed": ["stage", "parser", "combin", "for", "effici", "data", "process"],
+	"tag": ["combinator", "parsing", "performance", "staged"],
 	"title": "Staged parser combinators for efficient data processing",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

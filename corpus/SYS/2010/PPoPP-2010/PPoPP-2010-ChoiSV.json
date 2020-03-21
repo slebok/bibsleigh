@@ -1,33 +1,14 @@
 {
-	"author": [
-		"JeeWhan Choi",
-		"Amik Singh",
-		"Richard W. Vuduc"
-	],
+	"author": ["JeeWhan Choi", "Amik Singh", "Richard W. Vuduc"],
 	"booktitle": "Proceedings of the 15th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2010",
 	"dblpkey": "conf/ppopp/ChoiSV10",
 	"doi": "10.1145/1693453.1693471",
-	"ee": "http://doi.acm.org/10.1145/1693453.1693471",
 	"pages": "115-126",
 	"publisher": "ACM",
-	"stemmed": [
-		"model",
-		"driven",
-		"autotun",
-		"of",
-		"spars",
-		"matrix",
-		"vector",
-		"multipli",
-		"on",
-		"gpus"
-	],
-	"tag": [
-		"modelling",
-		"multi"
-	],
+	"stemmed": ["model", "driven", "autotun", "of", "spars", "matrix", "vector", "multipli", "on", "gpus"],
+	"tag": ["modelling", "multi"],
 	"title": "Model-driven autotuning of sparse matrix-vector multiply on GPUs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

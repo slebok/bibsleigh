@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Andrew J. McPherson",
-		"Vijay Nagarajan",
-		"Susmit Sarkar",
-		"Marcelo Cintra"
-	],
+	"author": ["Andrew J. McPherson", "Vijay Nagarajan", "Susmit Sarkar", "Marcelo Cintra"],
 	"booktitle": "Proceedings of the 20th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2015",
 	"dblpkey": "conf/ppopp/McPhersonNSC15",
 	"doi": "10.1145/2688500.2688524",
-	"ee": "http://doi.acm.org/10.1145/2688500.2688524",
 	"pages": "249-250",
 	"publisher": "ACM",
-	"stemmed": [
-		"fenc",
-		"placement",
-		"for",
-		"legaci",
-		"data",
-		"race",
-		"free",
-		"program",
-		"via",
-		"synchron",
-		"read",
-		"detect"
-	],
-	"tag": [
-		"detection",
-		"legacy",
-		"source code"
-	],
+	"stemmed": ["fenc", "placement", "for", "legaci", "data", "race", "free", "program", "via", "synchron", "read", "detect"],
+	"tag": ["detection", "legacy", "source code"],
 	"title": "Fence placement for legacy data-race-free programs via synchronization read detection",
 	"type": "inproceedings",
 	"venue": "PPoPP",

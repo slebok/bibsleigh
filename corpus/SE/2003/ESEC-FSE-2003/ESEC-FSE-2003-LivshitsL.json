@@ -1,39 +1,14 @@
 {
-	"author": [
-		"V. Benjamin Livshits",
-		"Monica S. Lam"
-	],
+	"author": ["V. Benjamin Livshits", "Monica S. Lam"],
 	"booktitle": "Proceedings of the 11th Symposium on Foundations of Software Engineering held jointly with the Ninth European Software Engineering Conference",
 	"booktitleshort": "ESEC/FSE",
 	"crossref": "conf/sigsoft/2003",
 	"dblpkey": "conf/sigsoft/LivshitsL03",
 	"doi": "10.1145/940071.940114",
-	"ee": "http://doi.acm.org/10.1145/940071.940114",
 	"pages": "317-326",
 	"publisher": "ACM",
-	"stemmed": [
-		"track",
-		"pointer",
-		"with",
-		"path",
-		"and",
-		"context",
-		"sensit",
-		"for",
-		"bug",
-		"detect",
-		"in",
-		"c",
-		"program"
-	],
-	"tag": [
-		"c",
-		"context-sensitive grammar",
-		"debugging",
-		"detection",
-		"pointer",
-		"source code"
-	],
+	"stemmed": ["track", "pointer", "with", "path", "and", "context", "sensit", "for", "bug", "detect", "in", "c", "program"],
+	"tag": ["c", "context-sensitive grammar", "debugging", "detection", "pointer", "source code"],
 	"title": "Tracking pointers with path and context sensitivity for bug detection in C programs",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

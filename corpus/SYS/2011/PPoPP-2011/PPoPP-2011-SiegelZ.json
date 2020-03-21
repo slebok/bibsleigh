@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Stephen F. Siegel",
-		"Timothy K. Zirkel"
-	],
+	"author": ["Stephen F. Siegel", "Timothy K. Zirkel"],
 	"booktitle": "Proceedings of the 16th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2011",
 	"dblpkey": "conf/ppopp/SiegelZ11",
 	"doi": "10.1145/1941553.1941603",
-	"ee": "http://doi.acm.org/10.1145/1941553.1941603",
 	"pages": "309-310",
 	"publisher": "ACM",
-	"stemmed": [
-		"automat",
-		"formal",
-		"verif",
-		"of",
-		"mpi",
-		"base",
-		"parallel",
-		"program"
-	],
-	"tag": [
-		"automation",
-		"parallel",
-		"source code",
-		"verification"
-	],
+	"stemmed": ["automat", "formal", "verif", "of", "mpi", "base", "parallel", "program"],
+	"tag": ["automation", "parallel", "source code", "verification"],
 	"title": "Automatic formal verification of MPI-based parallel programs",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,42 +1,16 @@
 {
-	"author": [
-		"Heikki Mannila",
-		"Kari-Jouko Räihä"
-	],
+	"author": ["Heikki Mannila", "Kari-Jouko Räihä"],
 	"booktitle": "Proceedings of the Fourth Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS85/P245.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS85/P245.PDF"
-	],
-	"cite": [
-		"...",
-		"journals/jacm/BeeriDFS84",
-		"...",
-		"journals/jacm/Fagin82",
-		"journals/ipl/FaginV83",
-		"books/cs/Maier83",
-		"...",
-		"books/cs/Ullman82"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS85/P245.PDF", "journals/anthology/dvd1:text/1-3/PODS85/P245.PDF"],
+	"cite": ["...", "journals/jacm/BeeriDFS84", "...", "journals/jacm/Fagin82", "journals/ipl/FaginV83", "books/cs/Maier83", "...", "books/cs/Ullman82"],
 	"crossref": "conf/pods/85",
 	"dblpkey": "conf/pods/MannilaR85",
 	"doi": "10.1145/325405.325449",
-	"ee": "http://doi.acm.org/10.1145/325405.325449",
 	"pages": "245-250",
 	"publisher": "ACM",
-	"stemmed": [
-		"small",
-		"armstrong",
-		"relat",
-		"for",
-		"databas",
-		"design"
-	],
-	"tag": [
-		"database",
-		"design"
-	],
+	"stemmed": ["small", "armstrong", "relat", "for", "databas", "design"],
+	"tag": ["database", "design"],
 	"title": "Small Armstrong Relations for Database Design",
 	"type": "inproceedings",
 	"venue": "PODS",

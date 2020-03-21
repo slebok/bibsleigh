@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Xilun Chen",
-		"K. Selçuk Candan"
-	],
+	"author": ["Xilun Chen", "K. Selçuk Candan"],
 	"booktitle": "Proceedings of the 20th International Conference on Knowledge Discovery and Data Mining",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2014",
 	"dblpkey": "conf/kdd/ChenC14",
 	"doi": "10.1145/2623330.2623671",
-	"ee": "http://doi.acm.org/10.1145/2623330.2623671",
 	"pages": "987-996",
 	"publisher": "ACM",
-	"stemmed": [
-		"lwi",
-		"svd",
-		"low",
-		"rank",
-		"window",
-		"increment",
-		"singular",
-		"valu",
-		"decomposit",
-		"on",
-		"time",
-		"evolv",
-		"data",
-		"set"
-	],
-	"tag": [
-		"incremental",
-		"named",
-		"rank",
-		"set"
-	],
+	"stemmed": ["lwi", "svd", "low", "rank", "window", "increment", "singular", "valu", "decomposit", "on", "time", "evolv", "data", "set"],
+	"tag": ["incremental", "named", "rank", "set"],
 	"title": "LWI-SVD: low-rank, windowed, incremental singular value decompositions on time-evolving data sets",
 	"type": "inproceedings",
 	"venue": "KDD",

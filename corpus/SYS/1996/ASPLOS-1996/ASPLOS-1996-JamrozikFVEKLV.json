@@ -1,39 +1,14 @@
 {
-	"author": [
-		"Hervé A. Jamrozik",
-		"Michael J. Feeley",
-		"Geoffrey M. Voelker",
-		"James Evans II",
-		"Anna R. Karlin",
-		"Henry M. Levy",
-		"Mary K. Vernon"
-	],
+	"author": ["Hervé A. Jamrozik", "Michael J. Feeley", "Geoffrey M. Voelker", "James Evans II", "Anna R. Karlin", "Henry M. Levy", "Mary K. Vernon"],
 	"booktitle": "Proceedings of the Seventh International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1996",
 	"dblpkey": "conf/asplos/JamrozikFVEKLV96",
 	"doi": "10.1145/237090.237198",
-	"ee": "http://doi.acm.org/10.1145/237090.237198",
 	"pages": "258-267",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"reduc",
-		"network",
-		"latenc",
-		"use",
-		"subpag",
-		"in",
-		"a",
-		"global",
-		"memori",
-		"environ"
-	],
-	"tag": [
-		"latency",
-		"memory management",
-		"network",
-		"using"
-	],
+	"stemmed": ["reduc", "network", "latenc", "use", "subpag", "in", "a", "global", "memori", "environ"],
+	"tag": ["latency", "memory management", "network", "using"],
 	"title": "Reducing Network Latency Using Subpages in a Global Memory Environment",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

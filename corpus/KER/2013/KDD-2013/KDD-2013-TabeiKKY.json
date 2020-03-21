@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Yasuo Tabei",
-		"Akihiro Kishimoto",
-		"Masaaki Kotera",
-		"Yoshihiro Yamanishi"
-	],
+	"author": ["Yasuo Tabei", "Akihiro Kishimoto", "Masaaki Kotera", "Yoshihiro Yamanishi"],
 	"booktitle": "Proceedings of the 19th International Conference on Knowledge Discovery and Data Mining",
 	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2013",
 	"dblpkey": "conf/kdd/TabeiKKY13",
 	"doi": "10.1145/2487575.2487637",
-	"ee": "http://doi.acm.org/10.1145/2487575.2487637",
 	"pages": "176-184",
 	"publisher": "ACM",
-	"stemmed": [
-		"succinct",
-		"interv",
-		"split",
-		"tree",
-		"for",
-		"scalabl",
-		"similar",
-		"search",
-		"of",
-		"compound",
-		"protein",
-		"pair",
-		"with",
-		"properti",
-		"constraint"
-	],
-	"tag": [
-		"constraints",
-		"scalability",
-		"similarity"
-	],
+	"stemmed": ["succinct", "interv", "split", "tree", "for", "scalabl", "similar", "search", "of", "compound", "protein", "pair", "with", "properti", "constraint"],
+	"tag": ["constraints", "scalability", "similarity"],
 	"title": "Succinct interval-splitting tree for scalable similarity search of compound-protein pairs with property constraints",
 	"type": "inproceedings",
 	"venue": "KDD",

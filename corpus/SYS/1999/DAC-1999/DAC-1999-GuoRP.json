@@ -1,36 +1,13 @@
 {
-	"author": [
-		"Ruifeng Guo",
-		"Sudhakar M. Reddy",
-		"Irith Pomeranz"
-	],
+	"author": ["Ruifeng Guo", "Sudhakar M. Reddy", "Irith Pomeranz"],
 	"booktitle": "Proceedings of the 36th Design Automation Conference",
 	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/GuoRP99",
 	"doi": "10.1145/309847.310019",
-	"ee": "http://doi.acm.org/10.1145/309847.310019",
 	"pages": "653-659",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"proptest",
-		"a",
-		"properti",
-		"base",
-		"test",
-		"pattern",
-		"generat",
-		"for",
-		"sequenti",
-		"circuit",
-		"use",
-		"test",
-		"compact"
-	],
-	"tag": [
-		"generative",
-		"named",
-		"using"
-	],
+	"stemmed": ["proptest", "a", "properti", "base", "test", "pattern", "generat", "for", "sequenti", "circuit", "use", "test", "compact"],
+	"tag": ["generative", "named", "using"],
 	"title": "Proptest: A Property Based Test Pattern Generator for Sequential Circuits Using Test Compaction",
 	"type": "inproceedings",
 	"venue": "DAC",

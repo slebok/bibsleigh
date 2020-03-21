@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Andrew M. Cheadle",
-		"A. J. Field",
-		"Simon Marlow",
-		"Simon L. Peyton Jones",
-		"R. Lyndon While"
-	],
+	"author": ["Andrew M. Cheadle", "A. J. Field", "Simon Marlow", "Simon L. Peyton Jones", "R. Lyndon While"],
 	"booktitle": "Proceedings of the Fourth International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2004",
 	"dblpkey": "conf/iwmm/CheadleFMJW04",
 	"doi": "10.1145/1029873.1029893",
-	"ee": "http://doi.acm.org/10.1145/1029873.1029893",
 	"pages": "163-174",
 	"publisher": "ACM",
-	"stemmed": [
-		"explor",
-		"the",
-		"barrier",
-		"to",
-		"entri",
-		"increment",
-		"generat",
-		"garbag",
-		"collect",
-		"for",
-		"haskel"
-	],
-	"tag": [
-		"garbage collection",
-		"haskell",
-		"incremental"
-	],
+	"stemmed": ["explor", "the", "barrier", "to", "entri", "increment", "generat", "garbag", "collect", "for", "haskel"],
+	"tag": ["garbage collection", "haskell", "incremental"],
 	"title": "Exploring the barrier to entry: incremental generational garbage collection for Haskell",
 	"type": "inproceedings",
 	"venue": "ISMM",

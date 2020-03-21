@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Koushik Sen",
-		"George C. Necula",
-		"Liang Gong",
-		"Wontae Choi"
-	],
+	"author": ["Koushik Sen", "George C. Necula", "Liang Gong", "Wontae Choi"],
 	"booktitle": "Proceedings of the 10th Joint Meeting of the 15th European Software Engineering Conference and the 23rd Symposium on the Foundations of Software Engineering",
 	"booktitleshort": "ESEC/SIGSOFT FSE",
 	"crossref": "conf/sigsoft/2015",
 	"dblpkey": "conf/sigsoft/SenNGC15",
 	"doi": "10.1145/2786805.2786830",
-	"ee": "http://doi.acm.org/10.1145/2786805.2786830",
 	"pages": "842-853",
 	"publisher": "ACM",
-	"stemmed": [
-		"multi",
-		"se",
-		"multi",
-		"path",
-		"symbol",
-		"execut",
-		"use",
-		"valu",
-		"summari"
-	],
-	"tag": [
-		"execution",
-		"multi",
-		"named",
-		"summary",
-		"symbolic computation",
-		"using"
-	],
+	"stemmed": ["multi", "se", "multi", "path", "symbol", "execut", "use", "valu", "summari"],
+	"tag": ["execution", "multi", "named", "summary", "symbolic computation", "using"],
 	"title": "MultiSE: multi-path symbolic execution using value summaries",
 	"type": "inproceedings",
 	"venue": "ESEC-FSE",

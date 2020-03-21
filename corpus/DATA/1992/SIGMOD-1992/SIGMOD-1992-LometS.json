@@ -1,46 +1,15 @@
 {
-	"author": [
-		"David B. Lomet",
-		"Betty Salzberg"
-	],
+	"author": ["David B. Lomet", "Betty Salzberg"],
 	"booktitle": "Proceedings of the 22nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD92/P351.PDF",
-	"cite": [
-		"journals/acta/BayerS77",
-		"journals/cacm/EswarranGLT76",
-		"...",
-		"...",
-		"books/mk/GrayR93",
-		"journals/tods/LehmanY81",
-		"conf/ldrs/Lomet77",
-		"journals/tse/Lomet80",
-		"...",
-		"conf/sigmod/LometS89",
-		"journals/tods/LometS90",
-		"...",
-		"journals/tods/MohanHLPS92",
-		"conf/sigmod/MohanL92",
-		"journals/jcss/Sagiv86",
-		"...",
-		"journals/tods/ShashaG88",
-		"conf/sigmod/SrinivasanC91"
-	],
+	"cite": ["journals/acta/BayerS77", "journals/cacm/EswarranGLT76", "...", "...", "books/mk/GrayR93", "journals/tods/LehmanY81", "conf/ldrs/Lomet77", "journals/tse/Lomet80", "...", "conf/sigmod/LometS89", "journals/tods/LometS90", "...", "journals/tods/MohanHLPS92", "conf/sigmod/MohanL92", "journals/jcss/Sagiv86", "...", "journals/tods/ShashaG88", "conf/sigmod/SrinivasanC91"],
 	"crossref": "conf/sigmod/92",
 	"dblpkey": "conf/sigmod/LometS92",
 	"doi": "10.1145/130283.130336",
-	"ee": "http://doi.acm.org/10.1145/130283.130336",
 	"pages": "351-360",
-	"stemmed": [
-		"access",
-		"method",
-		"concurr",
-		"with",
-		"recoveri"
-	],
-	"tag": [
-		"concurrent"
-	],
+	"stemmed": ["access", "method", "concurr", "with", "recoveri"],
+	"tag": ["concurrent"],
 	"title": "Access Method Concurrency with Recovery",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

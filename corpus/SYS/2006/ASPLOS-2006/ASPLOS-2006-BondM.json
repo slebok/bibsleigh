@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Michael D. Bond",
-		"Kathryn S. McKinley"
-	],
+	"author": ["Michael D. Bond", "Kathryn S. McKinley"],
 	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/BondM06",
 	"doi": "10.1145/1168857.1168866",
-	"ee": "http://doi.acm.org/10.1145/1168857.1168866",
 	"pages": "61-72",
 	"publisher": "ACM",
-	"stemmed": [
-		"bell",
-		"bit",
-		"encod",
-		"onlin",
-		"memori",
-		"leak",
-		"detect"
-	],
-	"tag": [
-		"detection",
-		"encoding",
-		"memory management",
-		"named",
-		"online"
-	],
+	"stemmed": ["bell", "bit", "encod", "onlin", "memori", "leak", "detect"],
+	"tag": ["detection", "encoding", "memory management", "named", "online"],
 	"title": "Bell: bit-encoding online memory leak detection",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

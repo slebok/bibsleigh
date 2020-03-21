@@ -1,36 +1,16 @@
 {
-	"author": [
-		"Tim Harris",
-		"Martín Abadi",
-		"Rebecca Isaacs",
-		"Ross McIlroy"
-	],
+	"author": ["Tim Harris", "Martín Abadi", "Rebecca Isaacs", "Ross McIlroy"],
 	"booktitle": "Proceedings of the 26th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2011",
 	"dblpkey": "conf/oopsla/HarrisAIM11",
 	"doi": "10.1145/2048066.2048134",
-	"editor": [
-		"Cristina Videira Lopes",
-		"Kathleen Fisher"
-	],
-	"ee": "http://doi.acm.org/10.1145/2048066.2048134",
+	"editor": ["Cristina Videira Lopes", "Kathleen Fisher"],
 	"isbn": "978-1-4503-0940-0",
 	"pages": "903-920",
 	"publisher": "ACM",
-	"stemmed": [
-		"ac",
-		"compos",
-		"asynchron",
-		"io",
-		"for",
-		"nativ",
-		"languag"
-	],
-	"tag": [
-		"composition",
-		"named"
-	],
+	"stemmed": ["ac", "compos", "asynchron", "io", "for", "nativ", "languag"],
+	"tag": ["composition", "named"],
 	"title": "AC: composable asynchronous IO for native languages",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

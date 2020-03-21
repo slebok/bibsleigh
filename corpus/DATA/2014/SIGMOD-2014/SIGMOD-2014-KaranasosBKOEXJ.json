@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Konstantinos Karanasos",
-		"Andrey Balmin",
-		"Marcel Kutsch",
-		"Fatma Özcan",
-		"Vuk Ercegovac",
-		"Chunyang Xia",
-		"Jesse Jackson"
-	],
+	"author": ["Konstantinos Karanasos", "Andrey Balmin", "Marcel Kutsch", "Fatma Özcan", "Vuk Ercegovac", "Chunyang Xia", "Jesse Jackson"],
 	"booktitle": "Proceedings of the 32nd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2014",
 	"dblpkey": "conf/sigmod/KaranasosBKOEXJ14",
 	"doi": "10.1145/2588555.2610531",
-	"ee": "http://doi.acm.org/10.1145/2588555.2610531",
 	"pages": "943-954",
 	"publisher": "ACM",
-	"stemmed": [
-		"dynam",
-		"optim",
-		"queri",
-		"over",
-		"larg",
-		"scale",
-		"data",
-		"platform"
-	],
-	"tag": [
-		"optimisation",
-		"query",
-		"scalability"
-	],
+	"stemmed": ["dynam", "optim", "queri", "over", "larg", "scale", "data", "platform"],
+	"tag": ["optimisation", "query", "scalability"],
 	"title": "Dynamically optimizing queries over large scale data platforms",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

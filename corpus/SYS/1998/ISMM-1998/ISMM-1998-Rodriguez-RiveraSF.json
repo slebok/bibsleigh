@@ -1,29 +1,14 @@
 {
-	"author": [
-		"Gustavo Rodriguez-Rivera",
-		"Michael Spertus",
-		"Charles Fiterman"
-	],
+	"author": ["Gustavo Rodriguez-Rivera", "Michael Spertus", "Charles Fiterman"],
 	"booktitle": "Proceedings of the First International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/1998",
 	"dblpkey": "conf/iwmm/Rodriguez-RiveraSF98",
 	"doi": "10.1145/286860.286869",
-	"ee": "http://doi.acm.org/10.1145/286860.286869",
 	"pages": "79-85",
 	"publisher": "ACM",
-	"stemmed": [
-		"a",
-		"non",
-		"fragment",
-		"non",
-		"mmove",
-		"garbag",
-		"collector"
-	],
-	"tag": [
-		"garbage collection"
-	],
+	"stemmed": ["a", "non", "fragment", "non", "mmove", "garbag", "collector"],
+	"tag": ["garbage collection"],
 	"title": "A Non-Fragmenting NonMmoving, Garbage Collector",
 	"type": "inproceedings",
 	"venue": "ISMM",

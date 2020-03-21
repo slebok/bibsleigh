@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Daniel J. Scales",
-		"Kourosh Gharachorloo",
-		"Chandramohan A. Thekkath"
-	],
+	"author": ["Daniel J. Scales", "Kourosh Gharachorloo", "Chandramohan A. Thekkath"],
 	"booktitle": "Proceedings of the Seventh International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1996",
 	"dblpkey": "conf/asplos/ScalesGT96",
 	"doi": "10.1145/237090.237179",
-	"ee": "http://doi.acm.org/10.1145/237090.237179",
 	"pages": "174-185",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"shasta",
-		"a",
-		"low",
-		"overhead",
-		"softwar",
-		"onli",
-		"approach",
-		"for",
-		"support",
-		"fine",
-		"grain",
-		"share",
-		"memori"
-	],
-	"tag": [
-		"approach",
-		"memory management",
-		"named"
-	],
+	"stemmed": ["shasta", "a", "low", "overhead", "softwar", "onli", "approach", "for", "support", "fine", "grain", "share", "memori"],
+	"tag": ["approach", "memory management", "named"],
 	"title": "Shasta: A Low Overhead, Software-Only Approach for Supporting Fine-Grain Shared Memory",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

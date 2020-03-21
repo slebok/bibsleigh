@@ -1,27 +1,14 @@
 {
-	"author": [
-		"Tony Printezis",
-		"David Detlefs"
-	],
+	"author": ["Tony Printezis", "David Detlefs"],
 	"booktitle": "Proceedings of the Second International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2000",
 	"dblpkey": "conf/iwmm/PrintezisD00",
 	"doi": "10.1145/362422.362480",
-	"ee": "http://doi.acm.org/10.1145/362422.362480",
 	"pages": "143-154",
 	"publisher": "ACM",
-	"stemmed": [
-		"a",
-		"generat",
-		"most",
-		"concurr",
-		"garbag",
-		"collector"
-	],
-	"tag": [
-		"garbage collection"
-	],
+	"stemmed": ["a", "generat", "most", "concurr", "garbag", "collector"],
+	"tag": ["garbage collection"],
 	"title": "A Generational Mostly-Concurrent Garbage Collector",
 	"type": "inproceedings",
 	"venue": "ISMM",

@@ -1,49 +1,15 @@
 {
-	"author": [
-		"Jens Lechtenbörger",
-		"Gottfried Vossen"
-	],
+	"author": ["Jens Lechtenbörger", "Gottfried Vossen"],
 	"booktitle": "Proceedings of the 19th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cite": [
-		"journals/is/AlonsoVABASW94",
-		"conf/edbt/BeeriSW88",
-		"books/aw/BernsteinHG87",
-		"journals/tse/BreitbartGRS91",
-		"journals/jacm/Hadzilacos88",
-		"journals/is/Harder84",
-		"journals/tods/KungR81",
-		"journals/is/Lausen83",
-		"...",
-		"books/cs/Papadimitriou86",
-		"conf/icde/PradelSU86",
-		"conf/pods/SchekWY93",
-		"journals/tcs/VingralekHBS98",
-		"journals/jcss/Weihl93"
-	],
+	"cite": ["journals/is/AlonsoVABASW94", "conf/edbt/BeeriSW88", "books/aw/BernsteinHG87", "journals/tse/BreitbartGRS91", "journals/jacm/Hadzilacos88", "journals/is/Harder84", "journals/tods/KungR81", "journals/is/Lausen83", "...", "books/cs/Papadimitriou86", "conf/icde/PradelSU86", "conf/pods/SchekWY93", "journals/tcs/VingralekHBS98", "journals/jcss/Weihl93"],
 	"crossref": "conf/pods/00",
 	"dblpkey": "conf/pods/LechtenborgerV00",
 	"doi": "10.1145/335168.335221",
-	"ee": "http://doi.acm.org/10.1145/335168.335221",
 	"pages": "187-194",
 	"publisher": "ACM",
-	"stemmed": [
-		"on",
-		"herbrand",
-		"semant",
-		"and",
-		"conflict",
-		"serializ",
-		"of",
-		"read",
-		"write",
-		"transact"
-	],
-	"tag": [
-		"on the",
-		"semantics",
-		"transaction"
-	],
+	"stemmed": ["on", "herbrand", "semant", "and", "conflict", "serializ", "of", "read", "write", "transact"],
+	"tag": ["on the", "semantics", "transaction"],
 	"title": "On Herbrand Semantics and Conflict Serializability of Read-Write Transactions",
 	"type": "inproceedings",
 	"venue": "PODS",

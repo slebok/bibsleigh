@@ -1,50 +1,16 @@
 {
-	"author": [
-		"Lingming Zhang",
-		"Miryung Kim",
-		"Sarfraz Khurshid"
-	],
+	"author": ["Lingming Zhang", "Miryung Kim", "Sarfraz Khurshid"],
 	"booktitle": "Proceedings of the 20th Symposium on the Foundations of Software Engineering",
 	"booktitleshort": "FSE",
 	"crossref": "conf/sigsoft/2012",
 	"dblpkey": "conf/sigsoft/ZhangKK12",
 	"doi": "10.1145/2393596.2393642",
-	"editor": [
-		"Will Tracz",
-		"Martin P. Robillard",
-		"Tevfik Bultan"
-	],
-	"ee": "http://doi.acm.org/10.1145/2393596.2393642",
-	"isbn": [
-		"978-1-4503-1614-9",
-		"978-1-4503-0443-6"
-	],
+	"editor": ["Will Tracz", "Martin P. Robillard", "Tevfik Bultan"],
+	"isbn": ["978-1-4503-1614-9", "978-1-4503-0443-6"],
 	"pages": "40-40",
 	"publisher": "ACM",
-	"stemmed": [
-		"fault",
-		"tracer",
-		"a",
-		"chang",
-		"impact",
-		"and",
-		"regress",
-		"fault",
-		"analysi",
-		"tool",
-		"for",
-		"evolv",
-		"java",
-		"program"
-	],
-	"tag": [
-		"evolution",
-		"fault",
-		"impact analysis",
-		"java",
-		"named",
-		"source code"
-	],
+	"stemmed": ["fault", "tracer", "a", "chang", "impact", "and", "regress", "fault", "analysi", "tool", "for", "evolv", "java", "program"],
+	"tag": ["evolution", "fault", "impact analysis", "java", "named", "source code"],
 	"title": "FaultTracer: a change impact and regression fault analysis tool for evolving Java programs",
 	"type": "inproceedings",
 	"venue": "FSE",

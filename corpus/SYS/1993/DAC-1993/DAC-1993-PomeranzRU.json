@@ -1,38 +1,13 @@
 {
-	"author": [
-		"Irith Pomeranz",
-		"Sudhakar M. Reddy",
-		"Prasanti Uppaluri"
-	],
+	"author": ["Irith Pomeranz", "Sudhakar M. Reddy", "Prasanti Uppaluri"],
 	"booktitle": "Proceedings of the 30th Design Automation Conference",
 	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/PomeranzRU93",
 	"doi": "10.1145/157485.164967",
-	"ee": "http://doi.acm.org/10.1145/157485.164967",
 	"pages": "439-445",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"nest",
-		"a",
-		"non",
-		"enum",
-		"test",
-		"generat",
-		"method",
-		"for",
-		"path",
-		"delay",
-		"fault",
-		"in",
-		"combin",
-		"circuit"
-	],
-	"tag": [
-		"fault",
-		"generative",
-		"named",
-		"testing"
-	],
+	"stemmed": ["nest", "a", "non", "enum", "test", "generat", "method", "for", "path", "delay", "fault", "in", "combin", "circuit"],
+	"tag": ["fault", "generative", "named", "testing"],
 	"title": "NEST: A Non-Enumerative Test Generation Method for Path Delay Faults in Combinational Circuits",
 	"type": "inproceedings",
 	"venue": "DAC",

@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Jade Alglave",
-		"Mark Batty",
-		"Alastair F. Donaldson",
-		"Ganesh Gopalakrishnan",
-		"Jeroen Ketema",
-		"Daniel Pötzl",
-		"Tyler Sorensen",
-		"John Wickerson"
-	],
+	"author": ["Jade Alglave", "Mark Batty", "Alastair F. Donaldson", "Ganesh Gopalakrishnan", "Jeroen Ketema", "Daniel Pötzl", "Tyler Sorensen", "John Wickerson"],
 	"booktitle": "Proceedings of the 20th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2015",
 	"dblpkey": "conf/asplos/AlglaveBDGKPSW15",
 	"doi": "10.1145/2694344.2694391",
-	"ee": "http://doi.acm.org/10.1145/2694344.2694391",
 	"pages": "577-591",
 	"publisher": "ACM",
-	"stemmed": [
-		"gpu",
-		"concurr",
-		"weak",
-		"behaviour",
-		"and",
-		"program",
-		"assumpt"
-	],
-	"tag": [
-		"behaviour",
-		"concurrent",
-		"gpu",
-		"programming"
-	],
+	"stemmed": ["gpu", "concurr", "weak", "behaviour", "and", "program", "assumpt"],
+	"tag": ["behaviour", "concurrent", "gpu", "programming"],
 	"title": "GPU Concurrency: Weak Behaviours and Programming Assumptions",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,39 +1,15 @@
 {
-	"author": [
-		"Inderpal Singh Mumick",
-		"Sheldon J. Finkelstein",
-		"Hamid Pirahesh",
-		"Raghu Ramakrishnan"
-	],
+	"author": ["Inderpal Singh Mumick", "Sheldon J. Finkelstein", "Hamid Pirahesh", "Raghu Ramakrishnan"],
 	"booktitle": "Proceedings of the Ninth Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS90/P314.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS90/P314.PDF"
-	],
-	"cite": [
-		"conf/slp/KempRBM89",
-		"conf/pods/BancilhonMSU86",
-		"conf/pods/BeeriR87",
-		"conf/sigmod/HaasFLP89",
-		"...",
-		"...",
-		"conf/vldb/MumickPR90",
-		"conf/sigmod/MumickFPR90",
-		"conf/pods/Morris88",
-		"conf/iclp/Ramakrishnan88",
-		"books/cs/Ullman88"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS90/P314.PDF", "journals/anthology/dvd1:text/1-3/PODS90/P314.PDF"],
+	"cite": ["conf/slp/KempRBM89", "conf/pods/BancilhonMSU86", "conf/pods/BeeriR87", "conf/sigmod/HaasFLP89", "...", "...", "conf/vldb/MumickPR90", "conf/sigmod/MumickFPR90", "conf/pods/Morris88", "conf/iclp/Ramakrishnan88", "books/cs/Ullman88"],
 	"crossref": "conf/pods/90",
 	"dblpkey": "conf/pods/MumickFPR90",
 	"doi": "10.1145/298514.298584",
-	"ee": "http://doi.acm.org/10.1145/298514.298584",
 	"pages": "314-330",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"magic",
-		"condit"
-	],
+	"stemmed": ["magic", "condit"],
 	"title": "Magic Conditions",
 	"type": "inproceedings",
 	"venue": "PODS",

@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Lukas M. Maas",
-		"Thomas Kissinger",
-		"Dirk Habich",
-		"Wolfgang Lehner"
-	],
+	"author": ["Lukas M. Maas", "Thomas Kissinger", "Dirk Habich", "Wolfgang Lehner"],
 	"booktitle": "Proceedings of the 31st ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2013",
 	"dblpkey": "conf/sigmod/MaasKHL13",
 	"doi": "10.1145/2463676.2465342",
-	"ee": "http://doi.acm.org/10.1145/2463676.2465342",
 	"pages": "1285-1286",
 	"publisher": "ACM",
-	"stemmed": [
-		"buzzard",
-		"a",
-		"numa",
-		"awar",
-		"in",
-		"memori",
-		"index",
-		"system"
-	],
-	"tag": [
-		"in memory",
-		"named"
-	],
+	"stemmed": ["buzzard", "a", "numa", "awar", "in", "memori", "index", "system"],
+	"tag": ["in memory", "named"],
 	"title": "BUZZARD: a NUMA-aware in-memory indexing system",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

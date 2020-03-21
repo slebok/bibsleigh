@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Ruoming Jin",
-		"Ning Ruan",
-		"Yang Xiang",
-		"Victor E. Lee"
-	],
+	"author": ["Ruoming Jin", "Ning Ruan", "Yang Xiang", "Victor E. Lee"],
 	"booktitle": "Proceedings of the 30th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2012",
 	"dblpkey": "conf/sigmod/JinRXL12",
 	"doi": "10.1145/2213836.2213887",
-	"ee": "http://doi.acm.org/10.1145/2213836.2213887",
 	"pages": "445-456",
 	"publisher": "ACM",
-	"stemmed": [
-		"a",
-		"highway",
-		"centric",
-		"label",
-		"approach",
-		"for",
-		"answer",
-		"distanc",
-		"queri",
-		"on",
-		"larg",
-		"spars",
-		"graph"
-	],
-	"tag": [
-		"approach",
-		"distance",
-		"graph",
-		"query",
-		"scalability"
-	],
+	"stemmed": ["a", "highway", "centric", "label", "approach", "for", "answer", "distanc", "queri", "on", "larg", "spars", "graph"],
+	"tag": ["approach", "distance", "graph", "query", "scalability"],
 	"title": "A highway-centric labeling approach for answering distance queries on large sparse graphs",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

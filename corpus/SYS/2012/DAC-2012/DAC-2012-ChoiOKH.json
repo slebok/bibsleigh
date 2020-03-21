@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Junchul Choi",
-		"Hyunok Oh",
-		"Sungchan Kim",
-		"Soonhoi Ha"
-	],
+	"author": ["Junchul Choi", "Hyunok Oh", "Sungchan Kim", "Soonhoi Ha"],
 	"booktitle": "Proceedings of the 49th Annual Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2012",
 	"dblpkey": "conf/dac/ChoiOKH12",
 	"doi": "10.1145/2228360.2228480",
-	"ee": "http://doi.acm.org/10.1145/2228360.2228480",
 	"pages": "664-671",
 	"publisher": "ACM",
-	"stemmed": [
-		"execut",
-		"synchron",
-		"dataflow",
-		"graph",
-		"on",
-		"a",
-		"spm",
-		"base",
-		"multicor",
-		"architectur"
-	],
-	"tag": [
-		"architecture",
-		"data flow",
-		"graph",
-		"manycore"
-	],
+	"stemmed": ["execut", "synchron", "dataflow", "graph", "on", "a", "spm", "base", "multicor", "architectur"],
+	"tag": ["architecture", "data flow", "graph", "manycore"],
 	"title": "Executing synchronous dataflow graphs on a SPM-based multicore architecture",
 	"type": "inproceedings",
 	"venue": "DAC",

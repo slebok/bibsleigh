@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Angshuman Parashar",
-		"Anand Sivasubramaniam",
-		"Sudhanva Gurumurthi"
-	],
+	"author": ["Angshuman Parashar", "Anand Sivasubramaniam", "Sudhanva Gurumurthi"],
 	"booktitle": "Proceedings of the 12th International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/2006",
 	"dblpkey": "conf/asplos/ParasharSG06",
 	"doi": "10.1145/1168857.1168870",
-	"ee": "http://doi.acm.org/10.1145/1168857.1168870",
 	"pages": "95-105",
 	"publisher": "ACM",
-	"stemmed": [
-		"slic",
-		"k",
-		"slice",
-		"base",
-		"local",
-		"exploit",
-		"for",
-		"effici",
-		"redund",
-		"multithread"
-	],
-	"tag": [
-		"locality",
-		"multi",
-		"named",
-		"performance",
-		"thread"
-	],
+	"stemmed": ["slic", "k", "slice", "base", "local", "exploit", "for", "effici", "redund", "multithread"],
+	"tag": ["locality", "multi", "named", "performance", "thread"],
 	"title": "SlicK: slice-based locality exploitation for efficient redundant multithreading",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

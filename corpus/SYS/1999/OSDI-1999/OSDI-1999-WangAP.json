@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Randolph Y. Wang",
-		"Thomas E. Anderson",
-		"David A. Patterson"
-	],
+	"author": ["Randolph Y. Wang", "Thomas E. Anderson", "David A. Patterson"],
 	"booktitle": "Proceedings of the Third Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/1999",
 	"dblpkey": "conf/osdi/WangAP99",
 	"doi": "10.1145/296806.296809",
-	"ee": "http://doi.acm.org/10.1145/296806.296809",
 	"pages": "29-43",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"virtual",
-		"log",
-		"base",
-		"file",
-		"system",
-		"for",
-		"a",
-		"programm",
-		"disk"
-	],
-	"tag": [
-		"file system",
-		"programmable"
-	],
+	"stemmed": ["virtual", "log", "base", "file", "system", "for", "a", "programm", "disk"],
+	"tag": ["file system", "programmable"],
 	"title": "Virtual Log Based File Systems for a Programmable Disk",
 	"type": "inproceedings",
 	"venue": "OSDI",

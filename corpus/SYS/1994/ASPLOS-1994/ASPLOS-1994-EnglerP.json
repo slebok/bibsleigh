@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Dawson R. Engler",
-		"Todd A. Proebsting"
-	],
+	"author": ["Dawson R. Engler", "Todd A. Proebsting"],
 	"booktitle": "Proceedings of the Sixth International Conference on Architectural Support for Programming Languages and Operating Systems",
 	"booktitleshort": "ASPLOS",
 	"crossref": "conf/asplos/1994",
 	"dblpkey": "conf/asplos/EnglerP94",
 	"doi": "10.1145/195473.195567",
-	"ee": "http://doi.acm.org/10.1145/195473.195567",
 	"pages": "263-272",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"dcg",
-		"an",
-		"effici",
-		"retarget",
-		"dynam",
-		"code",
-		"generat",
-		"system"
-	],
-	"tag": [
-		"code generation",
-		"definite clause grammar",
-		"named",
-		"performance"
-	],
+	"stemmed": ["dcg", "an", "effici", "retarget", "dynam", "code", "generat", "system"],
+	"tag": ["code generation", "definite clause grammar", "named", "performance"],
 	"title": "DCG: An Efficient, Retargetable Dynamic Code Generation System",
 	"type": "inproceedings",
 	"venue": "ASPLOS",

@@ -1,38 +1,14 @@
 {
-	"author": [
-		"Stefan Kraemer",
-		"Rainer Leupers",
-		"Gerd Ascheid",
-		"Heinrich Meyr"
-	],
+	"author": ["Stefan Kraemer", "Rainer Leupers", "Gerd Ascheid", "Heinrich Meyr"],
 	"booktitle": "Proceedings of the 11th Conference on Design, Automation and Test in Europe",
 	"booktitleshort": "DATE",
 	"crossref": "conf/date/2007",
 	"dblpkey": "conf/date/KraemerLAM07",
 	"doi": "10.1145/1266366.1266660",
-	"ee": "http://doi.acm.org/10.1145/1266366.1266660",
 	"pages": "1349-1354",
 	"publisher": "ACM",
-	"stemmed": [
-		"interact",
-		"present",
-		"soft",
-		"simd",
-		"exploit",
-		"subword",
-		"parallel",
-		"use",
-		"sourc",
-		"code",
-		"transform"
-	],
-	"tag": [
-		"interactive",
-		"parallel",
-		"program transformation",
-		"source code",
-		"using"
-	],
+	"stemmed": ["interact", "present", "soft", "simd", "exploit", "subword", "parallel", "use", "sourc", "code", "transform"],
+	"tag": ["interactive", "parallel", "program transformation", "source code", "using"],
 	"title": "Interactive presentation: SoftSIMD — exploiting subword parallelism using source code transformations",
 	"type": "inproceedings",
 	"venue": "DATE",

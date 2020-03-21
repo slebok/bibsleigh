@@ -1,37 +1,14 @@
 {
-	"author": [
-		"Yufei Tao",
-		"Man Lung Yiu",
-		"Dimitris Papadias",
-		"Marios Hadjieleftheriou",
-		"Nikos Mamoulis"
-	],
+	"author": ["Yufei Tao", "Man Lung Yiu", "Dimitris Papadias", "Marios Hadjieleftheriou", "Nikos Mamoulis"],
 	"booktitle": "Proceedings of the 23rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2005",
 	"dblpkey": "conf/sigmod/TaoYPMH05",
 	"doi": "10.1145/1066157.1066200",
-	"ee": "http://doi.acm.org/10.1145/1066157.1066200",
 	"pages": "371-382",
 	"publisher": "ACM",
-	"stemmed": [
-		"rpj",
-		"produc",
-		"fast",
-		"join",
-		"result",
-		"on",
-		"stream",
-		"through",
-		"rate",
-		"base",
-		"optim"
-	],
-	"tag": [
-		"named",
-		"optimisation",
-		"performance"
-	],
+	"stemmed": ["rpj", "produc", "fast", "join", "result", "on", "stream", "through", "rate", "base", "optim"],
+	"tag": ["named", "optimisation", "performance"],
 	"title": "RPJ: Producing Fast Join Results on Streams through Rate-based Optimization",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

@@ -1,45 +1,16 @@
 {
-	"author": [
-		"Bennet Vance",
-		"David Maier"
-	],
+	"author": ["Bennet Vance", "David Maier"],
 	"booktitle": "Proceedings of the 26th ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"cdrom": "SIGMOD96/P035.PDF",
-	"cite": [
-		"conf/icdt/CluetM95",
-		"conf/vldb/Galindo-LegariaPK94",
-		"conf/icde/GraefeM93",
-		"conf/sigmod/HellersteinS93",
-		"journals/tods/IbarakiK84",
-		"conf/sigmod/IoannidisK91",
-		"books/aw/Knuth73a",
-		"...",
-		"conf/vldb/OnoL90",
-		"conf/sigmod/SelingerACLP79",
-		"...",
-		"books/infix/Steinbrunn96"
-	],
+	"cite": ["conf/icdt/CluetM95", "conf/vldb/Galindo-LegariaPK94", "conf/icde/GraefeM93", "conf/sigmod/HellersteinS93", "journals/tods/IbarakiK84", "conf/sigmod/IoannidisK91", "books/aw/Knuth73a", "...", "conf/vldb/OnoL90", "conf/sigmod/SelingerACLP79", "...", "books/infix/Steinbrunn96"],
 	"crossref": "conf/sigmod/96",
 	"dblpkey": "conf/sigmod/VanceM96",
 	"doi": "10.1145/233269.233317",
-	"ee": "http://doi.acm.org/10.1145/233269.233317",
 	"pages": "35-46",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"rapid",
-		"bushi",
-		"join",
-		"order",
-		"optim",
-		"with",
-		"cartesian",
-		"product"
-	],
-	"tag": [
-		"agile",
-		"optimisation"
-	],
+	"stemmed": ["rapid", "bushi", "join", "order", "optim", "with", "cartesian", "product"],
+	"tag": ["agile", "optimisation"],
 	"title": "Rapid Bushy Join-order Optimization with Cartesian Products",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

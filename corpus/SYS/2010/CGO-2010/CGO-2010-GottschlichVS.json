@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Justin Emile Gottschlich",
-		"Manish Vachharajani",
-		"Jeremy G. Siek"
-	],
+	"author": ["Justin Emile Gottschlich", "Manish Vachharajani", "Jeremy G. Siek"],
 	"booktitle": "Proceedings of the Eighth International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2010",
 	"dblpkey": "conf/cgo/GottschlichVS10",
 	"doi": "10.1145/1772954.1772970",
-	"ee": "http://doi.acm.org/10.1145/1772954.1772970",
 	"pages": "101-110",
 	"publisher": "ACM",
-	"stemmed": [
-		"an",
-		"effici",
-		"softwar",
-		"transact",
-		"memori",
-		"use",
-		"commit",
-		"time",
-		"invalid"
-	],
-	"tag": [
-		"memory management",
-		"performance",
-		"transaction",
-		"using"
-	],
+	"stemmed": ["an", "effici", "softwar", "transact", "memori", "use", "commit", "time", "invalid"],
+	"tag": ["memory management", "performance", "transaction", "using"],
 	"title": "An efficient software transactional memory using commit-time invalidation",
 	"type": "inproceedings",
 	"venue": "CGO",

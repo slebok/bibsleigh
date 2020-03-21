@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Sven Gestegård Robertz",
-		"Roger Henriksson"
-	],
+	"author": ["Sven Gestegård Robertz", "Roger Henriksson"],
 	"booktitle": "Proceedings of the Fourth Conference on Languages, Compilers, and Tools for Embedded Systems",
 	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/2003",
 	"dblpkey": "conf/lctrts/RobertzH03",
 	"doi": "10.1145/780732.780745",
-	"ee": "http://doi.acm.org/10.1145/780732.780745",
 	"pages": "93-102",
 	"publisher": "ACM",
-	"stemmed": [
-		"time",
-		"trigger",
-		"garbag",
-		"collect",
-		"robust",
-		"and",
-		"adapt",
-		"real",
-		"time",
-		"gc",
-		"schedul",
-		"for",
-		"embed",
-		"system"
-	],
-	"tag": [
-		"adaptation",
-		"embedded",
-		"garbage collection",
-		"realtime",
-		"robust",
-		"scheduling"
-	],
+	"stemmed": ["time", "trigger", "garbag", "collect", "robust", "and", "adapt", "real", "time", "gc", "schedul", "for", "embed", "system"],
+	"tag": ["adaptation", "embedded", "garbage collection", "realtime", "robust", "scheduling"],
 	"title": "Time-triggered garbage collection: robust and adaptive real-time GC scheduling for embedded systems",
 	"type": "inproceedings",
 	"venue": "LCTES",

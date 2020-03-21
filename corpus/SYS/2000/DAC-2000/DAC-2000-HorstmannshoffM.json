@@ -1,35 +1,13 @@
 {
-	"author": [
-		"Jens Horstmannshoff",
-		"Heinrich Meyr"
-	],
+	"author": ["Jens Horstmannshoff", "Heinrich Meyr"],
 	"booktitle": "Proceedings of the 37th Design Automation Conference",
 	"booktitleshort": "DAC",
 	"dblpkey": "conf/dac/HorstmannshoffM00",
 	"doi": "10.1145/337292.337576",
-	"ee": "http://doi.acm.org/10.1145/337292.337576",
 	"pages": "552-555",
 	"publisher": "ACM",
-	"stemmed": [
-		"effici",
-		"build",
-		"block",
-		"base",
-		"rtl",
-		"code",
-		"generat",
-		"from",
-		"synchron",
-		"data",
-		"flow",
-		"graph"
-	],
-	"tag": [
-		"code generation",
-		"data flow",
-		"graph",
-		"performance"
-	],
+	"stemmed": ["effici", "build", "block", "base", "rtl", "code", "generat", "from", "synchron", "data", "flow", "graph"],
+	"tag": ["code generation", "data flow", "graph", "performance"],
 	"title": "Efficient building block based RTL code generation from synchronous data flow graphs",
 	"type": "inproceedings",
 	"venue": "DAC",

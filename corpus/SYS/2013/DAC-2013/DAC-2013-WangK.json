@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Xueyang Wang",
-		"Ramesh Karri"
-	],
+	"author": ["Xueyang Wang", "Ramesh Karri"],
 	"booktitle": "Proceedings of the 50th Annual Design Automation Conference",
 	"booktitleshort": "DAC",
 	"crossref": "conf/dac/2013",
 	"dblpkey": "conf/dac/WangK13",
 	"doi": "10.1145/2463209.2488831",
-	"ee": "http://doi.acm.org/10.1145/2463209.2488831",
 	"pages": "79:1-79:7",
 	"publisher": "ACM",
-	"stemmed": [
-		"num",
-		"checker",
-		"detect",
-		"kernel",
-		"control",
-		"flow",
-		"modifi",
-		"rootkit",
-		"by",
-		"use",
-		"hardwar",
-		"perform",
-		"counter"
-	],
-	"tag": [
-		"control flow",
-		"detection",
-		"hardware",
-		"kernel",
-		"named",
-		"performance",
-		"using"
-	],
+	"stemmed": ["num", "checker", "detect", "kernel", "control", "flow", "modifi", "rootkit", "by", "use", "hardwar", "perform", "counter"],
+	"tag": ["control flow", "detection", "hardware", "kernel", "named", "performance", "using"],
 	"title": "NumChecker: detecting kernel control-flow modifying rootkits by using hardware performance counters",
 	"type": "inproceedings",
 	"venue": "DAC",

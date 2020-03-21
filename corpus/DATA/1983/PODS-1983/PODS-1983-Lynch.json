@@ -2,40 +2,15 @@
 	"author": "Nancy A. Lynch",
 	"booktitle": "Proceedings of the Second Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS83/P166.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS83/P166.PDF"
-	],
-	"cite": [
-		"conf/podc/BernsteinG82",
-		"journals/cacm/EswarranGLT76",
-		"...",
-		"conf/pods/PapadimitriouK82",
-		"journals/cacm/Lamport78",
-		"conf/popl/LiskovS82",
-		"...",
-		"journals/tse/Randell75",
-		"...",
-		"..."
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS83/P166.PDF", "journals/anthology/dvd1:text/1-3/PODS83/P166.PDF"],
+	"cite": ["conf/podc/BernsteinG82", "journals/cacm/EswarranGLT76", "...", "conf/pods/PapadimitriouK82", "journals/cacm/Lamport78", "conf/popl/LiskovS82", "...", "journals/tse/Randell75", "...", "..."],
 	"crossref": "conf/pods/83",
 	"dblpkey": "conf/pods/Lynch83",
 	"doi": "10.1145/588058.588080",
-	"ee": "http://doi.acm.org/10.1145/588058.588080",
 	"pages": "166-181",
 	"publisher": "ACM",
-	"stemmed": [
-		"concurr",
-		"control",
-		"for",
-		"resili",
-		"nest",
-		"transact"
-	],
-	"tag": [
-		"concurrent",
-		"transaction"
-	],
+	"stemmed": ["concurr", "control", "for", "resili", "nest", "transact"],
+	"tag": ["concurrent", "transaction"],
 	"title": "Concurrency Control for Resilient Nested Transactions",
 	"type": "inproceedings",
 	"venue": "PODS",

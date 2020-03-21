@@ -1,47 +1,15 @@
 {
-	"author": [
-		"Alexei P. Stolboushkin",
-		"Michael A. Taitslin"
-	],
+	"author": ["Alexei P. Stolboushkin", "Michael A. Taitslin"],
 	"booktitle": "Proceedings of the 14th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cite": [
-		"...",
-		"conf/lics/AvronH91",
-		"journals/cacm/Codd70",
-		"...",
-		"journals/jacm/Paola69a",
-		"...",
-		"...",
-		"conf/csl/Hirshfeld91",
-		"conf/jcdkb/Kifer88",
-		"conf/pods/KanellakisKR90",
-		"...",
-		"books/cs/Ullman82",
-		"books/cs/Ullman88",
-		"books/cs/Ullman89"
-	],
+	"cite": ["...", "conf/lics/AvronH91", "journals/cacm/Codd70", "...", "journals/jacm/Paola69a", "...", "...", "conf/csl/Hirshfeld91", "conf/jcdkb/Kifer88", "conf/pods/KanellakisKR90", "...", "books/cs/Ullman82", "books/cs/Ullman88", "books/cs/Ullman89"],
 	"crossref": "conf/pods/95",
 	"dblpkey": "conf/pods/StoloboushkinT95",
 	"doi": "10.1145/212433.212477",
-	"ee": "http://doi.acm.org/10.1145/212433.212477",
 	"pages": "277-285",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"finit",
-		"queri",
-		"do",
-		"not",
-		"have",
-		"effect",
-		"syntax"
-	],
-	"tag": [
-		"effectiveness",
-		"finite",
-		"query",
-		"syntax"
-	],
+	"stemmed": ["finit", "queri", "do", "not", "have", "effect", "syntax"],
+	"tag": ["effectiveness", "finite", "query", "syntax"],
 	"title": "Finite Queries do not Have Effective Syntax",
 	"type": "inproceedings",
 	"venue": "PODS",

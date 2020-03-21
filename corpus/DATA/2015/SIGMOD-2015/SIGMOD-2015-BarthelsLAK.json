@@ -1,32 +1,14 @@
 {
-	"author": [
-		"Claude Barthels",
-		"Simon Loesing",
-		"Gustavo Alonso",
-		"Donald Kossmann"
-	],
+	"author": ["Claude Barthels", "Simon Loesing", "Gustavo Alonso", "Donald Kossmann"],
 	"booktitle": "Proceedings of the 33rd ACM SIGMOD International Conference on Management of Data",
 	"booktitleshort": "SIGMOD",
 	"crossref": "conf/sigmod/2015",
 	"dblpkey": "conf/sigmod/BarthelsLAK15",
 	"doi": "10.1145/2723372.2750547",
-	"ee": "http://doi.acm.org/10.1145/2723372.2750547",
 	"pages": "1463-1475",
 	"publisher": "ACM",
-	"stemmed": [
-		"rack",
-		"scale",
-		"in",
-		"memori",
-		"join",
-		"process",
-		"use",
-		"rdma"
-	],
-	"tag": [
-		"in memory",
-		"using"
-	],
+	"stemmed": ["rack", "scale", "in", "memori", "join", "process", "use", "rdma"],
+	"tag": ["in memory", "using"],
 	"title": "Rack-Scale In-Memory Join Processing using RDMA",
 	"type": "inproceedings",
 	"venue": "SIGMOD",

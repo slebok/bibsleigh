@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Chenning Xie",
-		"Rong Chen",
-		"Haibing Guan",
-		"Binyu Zang",
-		"Haibo Chen"
-	],
+	"author": ["Chenning Xie", "Rong Chen", "Haibing Guan", "Binyu Zang", "Haibo Chen"],
 	"booktitle": "Proceedings of the 20th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2015",
 	"dblpkey": "conf/ppopp/XieCGZC15",
 	"doi": "10.1145/2688500.2688508",
-	"ee": "http://doi.acm.org/10.1145/2688500.2688508",
 	"pages": "194-204",
 	"publisher": "ACM",
-	"stemmed": [
-		"sync",
-		"or",
-		"async",
-		"time",
-		"to",
-		"fuse",
-		"for",
-		"distribut",
-		"graph",
-		"parallel",
-		"comput"
-	],
-	"tag": [
-		"distributed"
-	],
+	"stemmed": ["sync", "or", "async", "time", "to", "fuse", "for", "distribut", "graph", "parallel", "comput"],
+	"tag": ["distributed"],
 	"title": "SYNC or ASYNC: time to fuse for distributed graph-parallel computation",
 	"type": "inproceedings",
 	"venue": "PPoPP",

@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Kornilios Kourtis",
-		"Vasileios Karakasis",
-		"Georgios I. Goumas",
-		"Nectarios Koziris"
-	],
+	"author": ["Kornilios Kourtis", "Vasileios Karakasis", "Georgios I. Goumas", "Nectarios Koziris"],
 	"booktitle": "Proceedings of the 16th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2011",
 	"dblpkey": "conf/ppopp/KourtisKGK11",
 	"doi": "10.1145/1941553.1941587",
-	"ee": "http://doi.acm.org/10.1145/1941553.1941587",
 	"pages": "247-256",
 	"publisher": "ACM",
-	"stemmed": [
-		"csx",
-		"an",
-		"extend",
-		"compress",
-		"format",
-		"for",
-		"spmv",
-		"on",
-		"share",
-		"memori",
-		"system"
-	],
-	"tag": [
-		"memory management",
-		"named"
-	],
+	"stemmed": ["csx", "an", "extend", "compress", "format", "for", "spmv", "on", "share", "memori", "system"],
+	"tag": ["memory management", "named"],
 	"title": "CSX: an extended compression format for spmv on shared memory systems",
 	"type": "inproceedings",
 	"venue": "PPoPP",

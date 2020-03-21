@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Carl G. Ritson",
-		"Tomoharu Ugawa",
-		"Richard E. Jones"
-	],
+	"author": ["Carl G. Ritson", "Tomoharu Ugawa", "Richard E. Jones"],
 	"booktitle": "Proceedings of the 13th International Symposium on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/2014",
 	"dblpkey": "conf/iwmm/RitsonUJ14",
 	"doi": "10.1145/2602988.2602992",
-	"ee": "http://doi.acm.org/10.1145/2602988.2602992",
 	"pages": "105-115",
 	"publisher": "ACM",
-	"stemmed": [
-		"explor",
-		"garbag",
-		"collect",
-		"with",
-		"haswel",
-		"hardwar",
-		"transact",
-		"memori"
-	],
-	"tag": [
-		"garbage collection",
-		"hardware",
-		"memory management",
-		"transaction"
-	],
+	"stemmed": ["explor", "garbag", "collect", "with", "haswel", "hardwar", "transact", "memori"],
+	"tag": ["garbage collection", "hardware", "memory management", "transaction"],
 	"title": "Exploring garbage collection with haswell hardware transactional memory",
 	"type": "inproceedings",
 	"venue": "ISMM",

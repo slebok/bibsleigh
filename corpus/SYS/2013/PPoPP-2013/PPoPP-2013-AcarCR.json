@@ -1,33 +1,14 @@
 {
-	"author": [
-		"Umut A. Acar",
-		"Arthur Charguéraud",
-		"Mike Rainey"
-	],
+	"author": ["Umut A. Acar", "Arthur Charguéraud", "Mike Rainey"],
 	"booktitle": "Proceedings of the 18th Symposium on Principles and Practice of Parallel Programming",
 	"booktitleshort": "PPoPP",
 	"crossref": "conf/ppopp/2013",
 	"dblpkey": "conf/ppopp/AcarCR13",
 	"doi": "10.1145/2442516.2442538",
-	"ee": "http://doi.acm.org/10.1145/2442516.2442538",
 	"pages": "219-228",
 	"publisher": "ACM",
-	"stemmed": [
-		"schedul",
-		"parallel",
-		"program",
-		"by",
-		"work",
-		"steal",
-		"with",
-		"privat",
-		"dequ"
-	],
-	"tag": [
-		"parallel",
-		"scheduling",
-		"source code"
-	],
+	"stemmed": ["schedul", "parallel", "program", "by", "work", "steal", "with", "privat", "dequ"],
+	"tag": ["parallel", "scheduling", "source code"],
 	"title": "Scheduling parallel programs by work stealing with private deques",
 	"type": "inproceedings",
 	"venue": "PPoPP",

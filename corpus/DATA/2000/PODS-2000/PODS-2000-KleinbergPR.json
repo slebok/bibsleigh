@@ -1,40 +1,14 @@
 {
-	"author": [
-		"Jon M. Kleinberg",
-		"Christos H. Papadimitriou",
-		"Prabhakar Raghavan"
-	],
+	"author": ["Jon M. Kleinberg", "Christos H. Papadimitriou", "Prabhakar Raghavan"],
 	"booktitle": "Proceedings of the 19th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cite": [
-		"journals/csur/AdamW89",
-		"journals/tods/Beck80",
-		"journals/tods/Chin78",
-		"journals/tods/ChinO81",
-		"journals/tse/ChinO82",
-		"...",
-		"books/mg/CormenLR89",
-		"...",
-		"journals/tods/DobkinJL79",
-		"conf/sp/FriedmanH80",
-		"journals/tods/LiewCL85",
-		"journals/tse/OzsoyogluC82",
-		"journals/tods/Reiss84",
-		"conf/icde/Rowe84",
-		"...",
-		"journals/tods/TraubYW84"
-	],
+	"cite": ["journals/csur/AdamW89", "journals/tods/Beck80", "journals/tods/Chin78", "journals/tods/ChinO81", "journals/tse/ChinO82", "...", "books/mg/CormenLR89", "...", "journals/tods/DobkinJL79", "conf/sp/FriedmanH80", "journals/tods/LiewCL85", "journals/tse/OzsoyogluC82", "journals/tods/Reiss84", "conf/icde/Rowe84", "...", "journals/tods/TraubYW84"],
 	"crossref": "conf/pods/00",
 	"dblpkey": "conf/pods/KleinbergPR00",
 	"doi": "10.1145/335168.335210",
-	"ee": "http://doi.acm.org/10.1145/335168.335210",
 	"pages": "86-91",
 	"publisher": "ACM",
-	"stemmed": [
-		"audit",
-		"boolean",
-		"attribut"
-	],
+	"stemmed": ["audit", "boolean", "attribut"],
 	"title": "Auditing Boolean Attributes",
 	"type": "inproceedings",
 	"venue": "PODS",

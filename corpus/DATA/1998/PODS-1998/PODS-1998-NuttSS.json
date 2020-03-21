@@ -1,47 +1,16 @@
 {
-	"author": [
-		"Werner Nutt",
-		"Yehoshua Sagiv",
-		"Sara Shurin"
-	],
+	"author": ["Werner Nutt", "Yehoshua Sagiv", "Sara Shurin"],
 	"booktitle": "Proceedings of the 17th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
-	"cdrom": [
-		"journals/anthology/cd1-3:PODS98/P214.PDF",
-		"journals/anthology/dvd1:text/1-3/PODS98/P214.PDF"
-	],
-	"cite": [
-		"journals/tods/AhoSU79",
-		"conf/icde/ChaudhuriKPS95",
-		"conf/stoc/ChandraM77",
-		"conf/pods/ChaudhuriV93",
-		"conf/vldb/SrivastavaDJL96",
-		"conf/vldb/GuptaHQ95",
-		"journals/tods/IoannidisR95",
-		"journals/siamcomp/JohnsonK83",
-		"conf/pods/LevyMSS93",
-		"conf/pods/LevyS95",
-		"...",
-		"...",
-		"journals/jacm/SagivY80",
-		"conf/pods/Meyden92"
-	],
+	"cdrom": ["journals/anthology/cd1-3:PODS98/P214.PDF", "journals/anthology/dvd1:text/1-3/PODS98/P214.PDF"],
+	"cite": ["journals/tods/AhoSU79", "conf/icde/ChaudhuriKPS95", "conf/stoc/ChandraM77", "conf/pods/ChaudhuriV93", "conf/vldb/SrivastavaDJL96", "conf/vldb/GuptaHQ95", "journals/tods/IoannidisR95", "journals/siamcomp/JohnsonK83", "conf/pods/LevyMSS93", "conf/pods/LevyS95", "...", "...", "journals/jacm/SagivY80", "conf/pods/Meyden92"],
 	"crossref": "conf/pods/98",
 	"dblpkey": "conf/pods/NuttSS98",
 	"doi": "10.1145/275487.275512",
-	"ee": "http://doi.acm.org/10.1145/275487.275512",
 	"pages": "214-223",
 	"publisher": "ACM Press",
-	"stemmed": [
-		"decid",
-		"equival",
-		"among",
-		"aggreg",
-		"queri"
-	],
-	"tag": [
-		"query"
-	],
+	"stemmed": ["decid", "equival", "among", "aggreg", "queri"],
+	"tag": ["query"],
 	"title": "Deciding Equivalences Among Aggregate Queries",
 	"type": "inproceedings",
 	"venue": "PODS",

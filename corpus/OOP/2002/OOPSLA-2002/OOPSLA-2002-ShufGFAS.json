@@ -1,44 +1,16 @@
 {
-	"author": [
-		"Yefim Shuf",
-		"Manish Gupta",
-		"Hubertus Franke",
-		"Andrew W. Appel",
-		"Jaswinder Pal Singh"
-	],
+	"author": ["Yefim Shuf", "Manish Gupta", "Hubertus Franke", "Andrew W. Appel", "Jaswinder Pal Singh"],
 	"booktitle": "Proceedings of the 17th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2002",
 	"dblpkey": "conf/oopsla/ShufGFAS02",
 	"doi": "10.1145/582419.582422",
-	"editor": [
-		"Mamdouh Ibrahim",
-		"Satoshi Matsuoka"
-	],
-	"ee": "http://doi.acm.org/10.1145/582419.582422",
+	"editor": ["Mamdouh Ibrahim", "Satoshi Matsuoka"],
 	"isbn": "1-58113-471-1",
 	"pages": "13-25",
 	"publisher": "ACM",
-	"stemmed": [
-		"creat",
-		"and",
-		"preserv",
-		"local",
-		"of",
-		"java",
-		"applic",
-		"at",
-		"alloc",
-		"and",
-		"garbag",
-		"collect",
-		"time"
-	],
-	"tag": [
-		"garbage collection",
-		"java",
-		"locality"
-	],
+	"stemmed": ["creat", "and", "preserv", "local", "of", "java", "applic", "at", "alloc", "and", "garbag", "collect", "time"],
+	"tag": ["garbage collection", "java", "locality"],
 	"title": "Creating and preserving locality of java applications at allocation and garbage collection times",
 	"type": "inproceedings",
 	"venue": "OOPSLA",
