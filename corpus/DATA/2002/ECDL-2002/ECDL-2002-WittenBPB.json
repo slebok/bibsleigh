@@ -1,10 +1,5 @@
 {
-	"author": [
-		"Ian H. Witten",
-		"David Bainbridge",
-		"Gordon W. Paynter",
-		"Stefan J. Boddie"
-	],
+	"author": ["Ian H. Witten", "David Bainbridge", "Gordon W. Paynter", "Stefan J. Boddie"],
 	"booktitle": "Proceedings of the Sixth European Conference on Research and Advanced Technology for Digital Libraries",
 	"booktitleshort": "ECDL",
 	"crossref": "conf/ercimdl/2002",
@@ -13,29 +8,9 @@
 	"pages": "390-405",
 	"publisher": "Springer",
 	"series": "Lecture Notes in Computer Science",
-	"stemmed": [
-		"import",
-		"document",
-		"and",
-		"metadata",
-		"into",
-		"digit",
-		"librari",
-		"requir",
-		"analysi",
-		"and",
-		"an",
-		"extens",
-		"architectur"
-	],
-	"tag": [
-		"analysis",
-		"architecture",
-		"documentation",
-		"library",
-		"metadata",
-		"requirements"
-	],
+	"seriesshort": "LNCS",
+	"stemmed": ["import", "document", "and", "metadata", "into", "digit", "librari", "requir", "analysi", "and", "an", "extens", "architectur"],
+	"tag": ["analysis", "architecture", "documentation", "library", "metadata", "requirements"],
 	"title": "Importing Documents and Metadata into Digital Libraries: Requirements Analysis and an Extensible Architecture",
 	"type": "inproceedings",
 	"venue": "TPDL",

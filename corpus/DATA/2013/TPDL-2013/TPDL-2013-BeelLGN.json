@@ -1,10 +1,5 @@
 {
-	"author": [
-		"Jöran Beel",
-		"Stefan Langer",
-		"Marcel Genzmehr",
-		"Andreas Nürnberger"
-	],
+	"author": ["Jöran Beel", "Stefan Langer", "Marcel Genzmehr", "Andreas Nürnberger"],
 	"booktitle": "Proceedings of the 17th International Conference on Theory and Practice of Digital Libraries",
 	"booktitleshort": "TPDL",
 	"crossref": "conf/ercimdl/2013",
@@ -13,27 +8,9 @@
 	"pages": "386-390",
 	"publisher": "Springer",
 	"series": "Lecture Notes in Computer Science",
-	"stemmed": [
-		"persist",
-		"in",
-		"recommend",
-		"system",
-		"give",
-		"the",
-		"same",
-		"recommend",
-		"to",
-		"the",
-		"same",
-		"user",
-		"multipl",
-		"time"
-	],
-	"tag": [
-		"multi",
-		"persistent",
-		"recommendation"
-	],
+	"seriesshort": "LNCS",
+	"stemmed": ["persist", "in", "recommend", "system", "give", "the", "same", "recommend", "to", "the", "same", "user", "multipl", "time"],
+	"tag": ["multi", "persistent", "recommendation"],
 	"title": "Persistence in Recommender Systems: Giving the Same Recommendations to the Same Users Multiple Times",
 	"type": "inproceedings",
 	"venue": "TPDL",

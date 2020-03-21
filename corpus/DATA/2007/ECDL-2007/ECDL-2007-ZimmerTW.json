@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Christian Zimmer",
-		"Christos Tryfonopoulos",
-		"Gerhard Weikum"
-	],
+	"author": ["Christian Zimmer", "Christos Tryfonopoulos", "Gerhard Weikum"],
 	"booktitle": "Proceedings of the 11th European Conference on Research and Advanced Technology for Digital Libraries",
 	"booktitleshort": "ECDL",
 	"crossref": "conf/ercimdl/2007",
@@ -12,28 +8,9 @@
 	"pages": "148-160",
 	"publisher": "Springer",
 	"series": "Lecture Notes in Computer Science",
-	"stemmed": [
-		"minerva",
-		"dl",
-		"an",
-		"architectur",
-		"for",
-		"inform",
-		"retriev",
-		"and",
-		"filter",
-		"in",
-		"distribut",
-		"digit",
-		"librari"
-	],
-	"tag": [
-		"architecture",
-		"distributed",
-		"information retrieval",
-		"library",
-		"named"
-	],
+	"seriesshort": "LNCS",
+	"stemmed": ["minerva", "dl", "an", "architectur", "for", "inform", "retriev", "and", "filter", "in", "distribut", "digit", "librari"],
+	"tag": ["architecture", "distributed", "information retrieval", "library", "named"],
 	"title": "MinervaDL: An Architecture for Information Retrieval and Filtering in Distributed Digital Libraries",
 	"type": "inproceedings",
 	"venue": "TPDL",

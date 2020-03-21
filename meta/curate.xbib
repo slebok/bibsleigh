@@ -8,6 +8,10 @@ when no venue
 -- Useless unclickable value, legacy of DBLP importing
 when url =~ db/conf/
 	remove url
+when url =~ db/series/
+	remove url
+when url =~ db/journals/
+	remove url
 
 -- Convert EE to DOI, ACMID and other special fields
 when ee =~ https://doi.org/
@@ -31,10 +35,20 @@ when journal =^= journalshort
 	inherit journal
 
 -- Normalise known names
-when journal == Electronic_Communications_of_the_EASST
-	add journalshort ECEASST
-when journal == Theory_and_Practice_of_Logic_Programming
-	add journalshort TPLP
+when journal == Theor._Comput._Sci.
+	assign Theoretical_Computer_Science
+when no journalshort
+	when journal == Electronic_Communications_of_the_EASST
+		add journalshort ECEASST
+when no journalshort
+	when journal == Theory_and_Practice_of_Logic_Programming
+		add journalshort TPLP
+when no issn
+	when journal == Theoretical_Computer_Science
+		add issn 0304-3975
+when no seriesshort
+	when series == Lecture_Notes_in_Computer_Science
+		add seriesshort LNCS
 
 --always
 
@@ -61,8 +75,9 @@ when acmid =~ https://dl.acm.org/citation.cfm?id=
 -- Normalise known names
 when journal == ECEASST
 	assign Electronic_Communications_of_the_EASST
-when journal == Electronic_Communications_of_the_EASST
-	add journalshort ECEASST
+when no journalshort
+	when journal == Electronic_Communications_of_the_EASST
+		add journalshort ECEASST
 
 -- Specific to venues!
 when booktitle

@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Hyunki Kim",
-		"Myung-Gil Jang",
-		"Su-Shing Chen"
-	],
+	"author": ["Hyunki Kim", "Myung-Gil Jang", "Su-Shing Chen"],
 	"booktitle": "Proceedings of the Ninth European Conference on Research and Advanced Technology for Digital Libraries",
 	"booktitleshort": "ECDL",
 	"crossref": "conf/ercimdl/2005",
@@ -12,28 +8,9 @@
 	"pages": "500-501",
 	"publisher": "Springer",
 	"series": "Lecture Notes in Computer Science",
-	"stemmed": [
-		"build",
-		"semant",
-		"digit",
-		"librari",
-		"autom",
-		"ontolog",
-		"link",
-		"by",
-		"associ",
-		"naïv",
-		"bay",
-		"classifi"
-	],
-	"tag": [
-		"automation",
-		"classification",
-		"library",
-		"naive bayes",
-		"ontology",
-		"semantics"
-	],
+	"seriesshort": "LNCS",
+	"stemmed": ["build", "semant", "digit", "librari", "autom", "ontolog", "link", "by", "associ", "naïv", "bay", "classifi"],
+	"tag": ["automation", "classification", "library", "naive bayes", "ontology", "semantics"],
 	"title": "Building Semantic Digital Libraries: Automated Ontology Linking by Associative Naïve Bayes Classifier",
 	"type": "inproceedings",
 	"venue": "TPDL",

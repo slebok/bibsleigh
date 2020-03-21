@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Christos Tryfonopoulos",
-		"Stratos Idreos",
-		"Manolis Koubarakis"
-	],
+	"author": ["Christos Tryfonopoulos", "Stratos Idreos", "Manolis Koubarakis"],
 	"booktitle": "Proceedings of the Ninth European Conference on Research and Advanced Technology for Digital Libraries",
 	"booktitleshort": "ECDL",
 	"crossref": "conf/ercimdl/2005",
@@ -12,25 +8,9 @@
 	"pages": "25-36",
 	"publisher": "Springer",
 	"series": "Lecture Notes in Computer Science",
-	"stemmed": [
-		"libra",
-		"ring",
-		"an",
-		"architectur",
-		"for",
-		"distribut",
-		"digit",
-		"librari",
-		"base",
-		"on",
-		"dhts"
-	],
-	"tag": [
-		"architecture",
-		"distributed",
-		"library",
-		"named"
-	],
+	"seriesshort": "LNCS",
+	"stemmed": ["libra", "ring", "an", "architectur", "for", "distribut", "digit", "librari", "base", "on", "dhts"],
+	"tag": ["architecture", "distributed", "library", "named"],
 	"title": "LibraRing: An Architecture for Distributed Digital Libraries Based on DHTs",
 	"type": "inproceedings",
 	"venue": "TPDL",
