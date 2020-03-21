@@ -1,8 +1,5 @@
 {
-	"author": [
-		"David Plainfossé",
-		"Marc Shapiro"
-	],
+	"author": ["David Plainfossé", "Marc Shapiro"],
 	"booktitle": "Proceedings of the First International Workshop on Memory Management",
 	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
@@ -14,29 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"experi",
-		"with",
-		"a",
-		"fault",
-		"toler",
-		"garbag",
-		"collector",
-		"in",
-		"a",
-		"distribut",
-		"list",
-		"system"
-	],
-	"tag": [
-		"distributed",
-		"experience",
-		"fault tolerance",
-		"garbage collection"
-	],
+	"stemmed": ["experi", "with", "a", "fault", "toler", "garbag", "collector", "in", "a", "distribut", "list", "system"],
+	"tag": ["distributed", "experience", "fault tolerance", "garbage collection"],
 	"title": "Experience with a Fault-Tolerant Garbage Collector in a Distributed List System",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": "637",
+	"volume": 637,
 	"year": 1992
 }

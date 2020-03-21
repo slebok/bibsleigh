@@ -1,10 +1,5 @@
 {
-	"author": [
-		"Eric Hilsdale",
-		"J. Michael Ashley",
-		"R. Kent Dybvig",
-		"Daniel P. Friedman"
-	],
+	"author": ["Eric Hilsdale", "J. Michael Ashley", "R. Kent Dybvig", "Daniel P. Friedman"],
 	"booktitle": "First International Symposium on Functional Programming Languages in Education",
 	"booktitleshort": "FPLE",
 	"crossref": "conf/fple/1995",
@@ -15,19 +10,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"compil",
-		"construct",
-		"use",
-		"scheme"
-	],
-	"tag": [
-		"compilation",
-		"using"
-	],
+	"stemmed": ["compil", "construct", "use", "scheme"],
+	"tag": ["compilation", "using"],
 	"title": "Compiler Construction Using Scheme",
 	"type": "inproceedings",
 	"venue": "TFPIE",
-	"volume": "1022",
+	"volume": 1022,
 	"year": 1995
 }

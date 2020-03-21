@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Adam Koprowski",
-		"Aart Middeldorp"
-	],
+	"author": ["Adam Koprowski", "Aart Middeldorp"],
 	"booktitle": "Proceedings of the 21st International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2007",
@@ -14,24 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"predict",
-		"label",
-		"with",
-		"depend",
-		"pair",
-		"use",
-		"sat"
-	],
-	"tag": [
-		"dependence",
-		"predict",
-		"satisfiability",
-		"using"
-	],
+	"stemmed": ["predict", "label", "with", "depend", "pair", "use", "sat"],
+	"tag": ["dependence", "predict", "satisfiability", "using"],
 	"title": "Predictive Labeling with Dependency Pairs Using SAT",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "4603",
+	"volume": 4603,
 	"year": 2007
 }

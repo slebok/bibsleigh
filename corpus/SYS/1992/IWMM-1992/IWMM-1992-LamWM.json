@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Michael S. Lam",
-		"Paul R. Wilson",
-		"Thomas G. Moher"
-	],
+	"author": ["Michael S. Lam", "Paul R. Wilson", "Thomas G. Moher"],
 	"booktitle": "Proceedings of the First International Workshop on Memory Management",
 	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
@@ -15,23 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"object",
-		"type",
-		"direct",
-		"garbag",
-		"collect",
-		"to",
-		"improv",
-		"local"
-	],
-	"tag": [
-		"garbage collection",
-		"locality"
-	],
+	"stemmed": ["object", "type", "direct", "garbag", "collect", "to", "improv", "local"],
+	"tag": ["garbage collection", "locality"],
 	"title": "Object Type Directed Garbage Collection To Improve Locality",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": "637",
+	"volume": 637,
 	"year": 1992
 }

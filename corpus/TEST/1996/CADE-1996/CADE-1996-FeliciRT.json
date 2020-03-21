@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Giovanni Felici",
-		"Giovanni Rinaldi",
-		"Klaus Truemper"
-	],
+	"author": ["Giovanni Felici", "Giovanni Rinaldi", "Klaus Truemper"],
 	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
@@ -15,28 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"fas",
-		"tra",
-		"c",
-		"a",
-		"decentr",
-		"traffic",
-		"control",
-		"system",
-		"base",
-		"on",
-		"logic",
-		"program"
-	],
-	"tag": [
-		"distributed",
-		"logic programming",
-		"named"
-	],
+	"stemmed": ["fas", "tra", "c", "a", "decentr", "traffic", "control", "system", "base", "on", "logic", "program"],
+	"tag": ["distributed", "logic programming", "named"],
 	"title": "FasTraC: A Decentralized Traffic Control System Based on Logic Programming",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "1104",
+	"volume": 1104,
 	"year": 1996
 }

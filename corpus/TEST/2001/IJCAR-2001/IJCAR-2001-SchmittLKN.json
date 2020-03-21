@@ -1,10 +1,5 @@
 {
-	"author": [
-		"Stephan Schmitt",
-		"Lori Lorigo",
-		"Christoph Kreitz",
-		"Aleksey Nogin"
-	],
+	"author": ["Stephan Schmitt", "Lori Lorigo", "Christoph Kreitz", "Aleksey Nogin"],
 	"booktitle": "Proceedings of the First International Joint Conference on Automated Reasoning",
 	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2001",
@@ -16,27 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"j",
-		"prover",
-		"integr",
-		"connect",
-		"base",
-		"theorem",
-		"prove",
-		"into",
-		"interact",
-		"proof",
-		"assist"
-	],
-	"tag": [
-		"interactive",
-		"proving",
-		"theorem proving"
-	],
+	"stemmed": ["j", "prover", "integr", "connect", "base", "theorem", "prove", "into", "interact", "proof", "assist"],
+	"tag": ["interactive", "proving", "theorem proving"],
 	"title": "JProver : Integrating Connection-Based Theorem Proving into Interactive Proof Assistants",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": "2083",
+	"volume": 2083,
 	"year": 2001
 }

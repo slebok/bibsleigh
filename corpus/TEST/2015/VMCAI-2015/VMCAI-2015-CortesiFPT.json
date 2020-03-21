@@ -1,10 +1,5 @@
 {
-	"author": [
-		"Agostino Cortesi",
-		"Pietro Ferrara",
-		"Marco Pistoia",
-		"Omer Tripp"
-	],
+	"author": ["Agostino Cortesi", "Pietro Ferrara", "Marco Pistoia", "Omer Tripp"],
 	"booktitle": "Proceedings of the 16th International Conference on Verification, Model Checking and Abstract Interpretation",
 	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2015",
@@ -16,29 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"datacentr",
-		"semant",
-		"for",
-		"verif",
-		"of",
-		"privaci",
-		"polici",
-		"complianc",
-		"by",
-		"mobil",
-		"applic"
-	],
-	"tag": [
-		"mobile",
-		"policy",
-		"privacy",
-		"semantics",
-		"verification"
-	],
+	"stemmed": ["datacentr", "semant", "for", "verif", "of", "privaci", "polici", "complianc", "by", "mobil", "applic"],
+	"tag": ["mobile", "policy", "privacy", "semantics", "verification"],
 	"title": "Datacentric Semantics for Verification of Privacy Policy Compliance by Mobile Applications",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": "8931",
+	"volume": 8931,
 	"year": 2015
 }

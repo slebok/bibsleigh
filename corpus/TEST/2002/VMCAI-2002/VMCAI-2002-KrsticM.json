@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Sava Krstic",
-		"John Matthews"
-	],
+	"author": ["Sava Krstic", "John Matthews"],
 	"booktitle": "Proceedings of the Third International Workshop on Verification, Model Checking and Abstract Interpretation",
 	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2002",
@@ -14,22 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"verifi",
-		"bdd",
-		"algorithm",
-		"through",
-		"monad",
-		"interpret"
-	],
-	"tag": [
-		"algorithm",
-		"monad",
-		"verification"
-	],
+	"stemmed": ["verifi", "bdd", "algorithm", "through", "monad", "interpret"],
+	"tag": ["algorithm", "monad", "verification"],
 	"title": "Verifying BDD Algorithms through Monadic Interpretation",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": "2294",
+	"volume": 2294,
 	"year": 2002
 }

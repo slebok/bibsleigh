@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Vincent Rabeux",
-		"Nicholas Journet",
-		"Jean-Philippe Domenger"
-	],
+	"author": ["Vincent Rabeux", "Nicholas Journet", "Jean-Philippe Domenger"],
 	"booktitle": "Proceedings of the 18th Conference on Document Recognition and Retrieval",
 	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2011",
@@ -13,30 +9,11 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": [
-		"ancient",
-		"document",
-		"bleed",
-		"through",
-		"evalu",
-		"and",
-		"it",
-		"applic",
-		"for",
-		"predict",
-		"ocr",
-		"error",
-		"rate"
-	],
-	"tag": [
-		"documentation",
-		"evaluation",
-		"fault",
-		"predict"
-	],
+	"stemmed": ["ancient", "document", "bleed", "through", "evalu", "and", "it", "applic", "for", "predict", "ocr", "error", "rate"],
+	"tag": ["documentation", "evaluation", "fault", "predict"],
 	"title": "Ancient documents bleed-through evaluation and its application for predicting OCR error rates",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": "7874",
+	"volume": 7874,
 	"year": 2011
 }

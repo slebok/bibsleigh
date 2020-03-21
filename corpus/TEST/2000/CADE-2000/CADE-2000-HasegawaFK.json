@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Ryuzo Hasegawa",
-		"Hiroshi Fujita",
-		"Miyuki Koshimura"
-	],
+	"author": ["Ryuzo Hasegawa", "Hiroshi Fujita", "Miyuki Koshimura"],
 	"booktitle": "Proceedings of the 17th International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2000",
@@ -15,24 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"effici",
-		"minim",
-		"model",
-		"generat",
-		"use",
-		"branch",
-		"lemma"
-	],
-	"tag": [
-		"branch",
-		"generative",
-		"performance",
-		"using"
-	],
+	"stemmed": ["effici", "minim", "model", "generat", "use", "branch", "lemma"],
+	"tag": ["branch", "generative", "performance", "using"],
 	"title": "Efficient Minimal Model Generation Using Branching Lemmas",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "1831",
+	"volume": 1831,
 	"year": 2000
 }

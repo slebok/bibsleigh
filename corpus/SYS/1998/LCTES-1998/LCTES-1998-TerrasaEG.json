@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Andrés Terrasa",
-		"Agustín Espinosa",
-		"Ana García-Fornes"
-	],
+	"author": ["Andrés Terrasa", "Agustín Espinosa", "Ana García-Fornes"],
 	"booktitle": "Proceedings of the Workshop on Languages, Compilers, and Tools for Embedded Systems",
 	"booktitleshort": "LCTES",
 	"crossref": "conf/lctrts/1998",
@@ -15,29 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"extend",
-		"rt",
-		"linux",
-		"to",
-		"support",
-		"flexibl",
-		"hard",
-		"real",
-		"time",
-		"system",
-		"with",
-		"option",
-		"compon"
-	],
-	"tag": [
-		"component",
-		"flexibility",
-		"realtime"
-	],
+	"stemmed": ["extend", "rt", "linux", "to", "support", "flexibl", "hard", "real", "time", "system", "with", "option", "compon"],
+	"tag": ["component", "flexibility", "realtime"],
 	"title": "Extending RT-Linux to Support Flexible Hard Real-Time Systems with Optional Components",
 	"type": "inproceedings",
 	"venue": "LCTES",
-	"volume": "1474",
+	"volume": 1474,
 	"year": 1998
 }

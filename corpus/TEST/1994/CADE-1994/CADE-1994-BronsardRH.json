@@ -1,9 +1,5 @@
 {
-	"author": [
-		"François Bronsard",
-		"Uday S. Reddy",
-		"Robert W. Hasker"
-	],
+	"author": ["François Bronsard", "Uday S. Reddy", "Robert W. Hasker"],
 	"booktitle": "Proceedings of the 12th International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1994",
@@ -15,20 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"induct",
-		"use",
-		"term",
-		"order"
-	],
-	"tag": [
-		"induction",
-		"order",
-		"using"
-	],
+	"stemmed": ["induct", "use", "term", "order"],
+	"tag": ["induction", "order", "using"],
 	"title": "Induction using Term Orderings",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "814",
+	"volume": 814,
 	"year": 1994
 }

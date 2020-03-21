@@ -1,37 +1,16 @@
 {
-	"acmid": "2190062",
-	"author": [
-		"Dorit Nuzman",
-		"Sergei Dyshel",
-		"Erven Rohou",
-		"Ira Rosen",
-		"Kevin Williams",
-		"David Yuste",
-		"Albert Cohen",
-		"Ayal Zaks"
-	],
+	"acmid": 2190062,
+	"author": ["Dorit Nuzman", "Sergei Dyshel", "Erven Rohou", "Ira Rosen", "Kevin Williams", "David Yuste", "Albert Cohen", "Ayal Zaks"],
 	"booktitle": "Proceedings of the Ninth International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2011",
 	"dblpkey": "conf/cgo/NuzmanDRRWYCZ11",
 	"doi": "10.1109/CGO.2011.5764683",
-	"ee": [
-		"http://dx.doi.org/10.1109/CGO.2011.5764683",
-		"http://doi.ieeecomputersociety.org/10.1109/CGO.2011.5764683",
-		"http://dl.acm.org/citation.cfm?id=2190062"
-	],
+	"ee": ["http://dx.doi.org/10.1109/CGO.2011.5764683", "http://doi.ieeecomputersociety.org/10.1109/CGO.2011.5764683", "http://dl.acm.org/citation.cfm?id=2190062"],
 	"pages": "151-160",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"vapor",
-		"simd",
-		"auto",
-		"vector",
-		"onc",
-		"run",
-		"everywher"
-	],
+	"stemmed": ["vapor", "simd", "auto", "vector", "onc", "run", "everywher"],
 	"title": "Vapor SIMD: Auto-vectorize once, run everywhere",
 	"type": "inproceedings",
 	"venue": "CGO",

@@ -1,11 +1,5 @@
 {
-	"author": [
-		"Yue Wu",
-		"Shengxin Zha",
-		"Huaigu Cao",
-		"Daben Liu",
-		"Premkumar Natarajan"
-	],
+	"author": ["Yue Wu", "Shengxin Zha", "Huaigu Cao", "Daben Liu", "Premkumar Natarajan"],
 	"booktitle": "Proceedings of the 21st Conference on Document Recognition and Retrieval",
 	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2014",
@@ -15,28 +9,11 @@
 	"pages": "90210C-90210C-12",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": [
-		"a",
-		"markov",
-		"chain",
-		"base",
-		"line",
-		"segment",
-		"framework",
-		"for",
-		"handwritten",
-		"charact",
-		"recognit"
-	],
-	"tag": [
-		"framework",
-		"markov",
-		"recognition",
-		"segmentation"
-	],
+	"stemmed": ["a", "markov", "chain", "base", "line", "segment", "framework", "for", "handwritten", "charact", "recognit"],
+	"tag": ["framework", "markov", "recognition", "segmentation"],
 	"title": "A Markov chain based line segmentation framework for handwritten character recognition",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": "9021",
+	"volume": 9021,
 	"year": 2014
 }

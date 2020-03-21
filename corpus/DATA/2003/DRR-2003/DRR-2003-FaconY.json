@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Jacques Facon",
-		"Eduardo Akira Yonekura"
-	],
+	"author": ["Jacques Facon", "Eduardo Akira Yonekura"],
 	"booktitle": "Proceedings of the 10th Conference on Document Recognition and Retrieval",
 	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2003",
@@ -11,23 +8,11 @@
 	"pages": "294-304",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": [
-		"morpholog",
-		"postal",
-		"envelop",
-		"segment",
-		"by",
-		"co",
-		"occurr",
-		"matrix"
-	],
-	"tag": [
-		"matrix",
-		"segmentation"
-	],
+	"stemmed": ["morpholog", "postal", "envelop", "segment", "by", "co", "occurr", "matrix"],
+	"tag": ["matrix", "segmentation"],
 	"title": "Morphological postal envelope segmentation by co-occurrence matrix",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": "5010",
+	"volume": 5010,
 	"year": 2003
 }

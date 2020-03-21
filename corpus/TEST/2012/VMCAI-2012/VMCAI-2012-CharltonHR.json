@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Nathaniel Charlton",
-		"Ben Horsfall",
-		"Bernhard Reus"
-	],
+	"author": ["Nathaniel Charlton", "Ben Horsfall", "Bernhard Reus"],
 	"booktitle": "Proceedings of the 13th International Conference on Verification, Model Checking and Abstract Interpretation",
 	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2012",
@@ -15,25 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"crowfoot",
-		"a",
-		"verifi",
-		"for",
-		"higher",
-		"order",
-		"store",
-		"program"
-	],
-	"tag": [
-		"higher-order",
-		"named",
-		"source code",
-		"verification"
-	],
+	"stemmed": ["crowfoot", "a", "verifi", "for", "higher", "order", "store", "program"],
+	"tag": ["higher-order", "named", "source code", "verification"],
 	"title": "Crowfoot: A Verifier for Higher-Order Store Programs",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": "7148",
+	"volume": 7148,
 	"year": 2012
 }

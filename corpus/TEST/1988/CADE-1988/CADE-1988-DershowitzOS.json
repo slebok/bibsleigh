@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Nachum Dershowitz",
-		"Mitsuhiro Okada",
-		"G. Sivakumar"
-	],
+	"author": ["Nachum Dershowitz", "Mitsuhiro Okada", "G. Sivakumar"],
 	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
@@ -15,19 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"canon",
-		"condit",
-		"rewrit",
-		"system"
-	],
-	"tag": [
-		"canonical",
-		"term rewriting"
-	],
+	"stemmed": ["canon", "condit", "rewrit", "system"],
+	"tag": ["canonical", "term rewriting"],
 	"title": "Canonical Conditional Rewrite Systems",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "310",
+	"volume": 310,
 	"year": 1988
 }

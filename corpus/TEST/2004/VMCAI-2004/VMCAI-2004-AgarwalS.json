@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Rahul Agarwal",
-		"Scott D. Stoller"
-	],
+	"author": ["Rahul Agarwal", "Scott D. Stoller"],
 	"booktitle": "Proceedings of the Fifth International Conference on Verification, Model Checking and Abstract Interpretation",
 	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2004",
@@ -14,22 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"type",
-		"infer",
-		"for",
-		"parameter",
-		"race",
-		"free",
-		"java"
-	],
-	"tag": [
-		"java",
-		"type inference"
-	],
+	"stemmed": ["type", "infer", "for", "parameter", "race", "free", "java"],
+	"tag": ["java", "type inference"],
 	"title": "Type Inference for Parameterized Race-Free Java",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": "2937",
+	"volume": 2937,
 	"year": 2004
 }

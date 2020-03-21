@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Mohan Yang",
-		"Alexander Shkapsky",
-		"Carlo Zaniolo"
-	],
+	"author": ["Mohan Yang", "Alexander Shkapsky", "Carlo Zaniolo"],
 	"booktitle": "Technical Communications of the 31st International Conference on Logic Programming",
 	"booktitleshort": "ICLP TC",
 	"crossref": "conf/iclp/2015tc",
@@ -12,33 +8,11 @@
 	"publisher": "CEUR-WS.org",
 	"series": "CEUR Workshop Proceedings",
 	"seriesshort": "CEUR",
-	"stemmed": [
-		"parallel",
-		"bottom",
-		"up",
-		"evalu",
-		"of",
-		"logic",
-		"program",
-		"de",
-		"al",
-		"on",
-		"share",
-		"memori",
-		"multicor",
-		"machin"
-	],
-	"tag": [
-		"bottom-up",
-		"evaluation",
-		"logic programming",
-		"manycore",
-		"parallel",
-		"source code"
-	],
+	"stemmed": ["parallel", "bottom", "up", "evalu", "of", "logic", "program", "de", "al", "on", "share", "memori", "multicor", "machin"],
+	"tag": ["bottom-up", "evaluation", "logic programming", "manycore", "parallel", "source code"],
 	"title": "Parallel Bottom-Up Evaluation of Logic Programs: DeALS on Shared-Memory Multicore Machines",
 	"type": "inproceedings",
 	"venue": "ICLP",
-	"volume": "1433",
+	"volume": 1433,
 	"year": 2015
 }

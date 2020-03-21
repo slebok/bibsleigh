@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Joachim Niehren",
-		"Manfred Pinkal",
-		"Peter Ruhrberg"
-	],
+	"author": ["Joachim Niehren", "Manfred Pinkal", "Peter Ruhrberg"],
 	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
@@ -15,32 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"on",
-		"equal",
-		"up",
-		"to",
-		"constraint",
-		"over",
-		"finit",
-		"tree",
-		"context",
-		"unif",
-		"and",
-		"one",
-		"step",
-		"rewrit"
-	],
-	"tag": [
-		"constraints",
-		"finite",
-		"on the",
-		"similarity",
-		"unification"
-	],
+	"stemmed": ["on", "equal", "up", "to", "constraint", "over", "finit", "tree", "context", "unif", "and", "one", "step", "rewrit"],
+	"tag": ["constraints", "finite", "on the", "similarity", "unification"],
 	"title": "On Equality Up-to Constraints over Finite Trees, Context Unification, and One-Step Rewriting",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "1249",
+	"volume": 1249,
 	"year": 1997
 }

@@ -1,36 +1,17 @@
 {
-	"acmid": "1122411",
-	"author": [
-		"Jianhui Li",
-		"Qi Zhang",
-		"Shu Xu",
-		"Bo Huang"
-	],
+	"acmid": 1122411,
+	"author": ["Jianhui Li", "Qi Zhang", "Shu Xu", "Bo Huang"],
 	"booktitle": "Proceedings of the Fourth International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2006",
 	"dblpkey": "conf/cgo/LiZXH06",
 	"doi": "10.1109/CGO.2006.27",
-	"ee": [
-		"http://dx.doi.org/10.1109/CGO.2006.27",
-		"http://doi.ieeecomputersociety.org/10.1109/CGO.2006.27",
-		"http://dl.acm.org/citation.cfm?id=1122411"
-	],
+	"ee": ["http://dx.doi.org/10.1109/CGO.2006.27", "http://doi.ieeecomputersociety.org/10.1109/CGO.2006.27", "http://dl.acm.org/citation.cfm?id=1122411"],
 	"pages": "269-280",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"optim",
-		"dynam",
-		"binari",
-		"translat",
-		"for",
-		"simd",
-		"instruct"
-	],
-	"tag": [
-		"optimisation"
-	],
+	"stemmed": ["optim", "dynam", "binari", "translat", "for", "simd", "instruct"],
+	"tag": ["optimisation"],
 	"title": "Optimizing Dynamic Binary Translation for SIMD Instructions",
 	"type": "inproceedings",
 	"venue": "CGO",

@@ -1,11 +1,6 @@
 {
-	"acmid": "1164147",
-	"author": [
-		"Peter Buneman",
-		"Gao Cong",
-		"Wenfei Fan",
-		"Anastasios Kementsietsidis"
-	],
+	"acmid": 1164147,
+	"author": ["Peter Buneman", "Gao Cong", "Wenfei Fan", "Anastasios Kementsietsidis"],
 	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
@@ -13,21 +8,8 @@
 	"ee": "http://www.vldb.org/conf/2006/p211-buneman.pdf",
 	"pages": "211-222",
 	"publisher": "ACM",
-	"stemmed": [
-		"use",
-		"partial",
-		"evalu",
-		"in",
-		"distribut",
-		"queri",
-		"evalu"
-	],
-	"tag": [
-		"distributed",
-		"partial evaluation",
-		"query",
-		"using"
-	],
+	"stemmed": ["use", "partial", "evalu", "in", "distribut", "queri", "evalu"],
+	"tag": ["distributed", "partial evaluation", "query", "using"],
 	"title": "Using Partial Evaluation in Distributed Query Evaluation",
 	"type": "inproceedings",
 	"venue": "VLDB",

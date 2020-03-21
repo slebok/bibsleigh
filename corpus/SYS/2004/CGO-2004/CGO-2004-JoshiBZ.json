@@ -1,42 +1,17 @@
 {
-	"acmid": "977660",
-	"author": [
-		"Rahul Joshi",
-		"Michael D. Bond",
-		"Craig B. Zilles"
-	],
+	"acmid": 977660,
+	"author": ["Rahul Joshi", "Michael D. Bond", "Craig B. Zilles"],
 	"booktitle": "Proceedings of the Second International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2004",
 	"dblpkey": "conf/cgo/JoshiBZ04",
 	"doi": "10.1109/CGO.2004.1281678",
-	"ee": [
-		"http://dx.doi.org/10.1109/CGO.2004.1281678",
-		"http://doi.ieeecomputersociety.org/10.1109/CGO.2004.1281678",
-		"http://dl.acm.org/citation.cfm?id=977660"
-	],
+	"ee": ["http://dx.doi.org/10.1109/CGO.2004.1281678", "http://doi.ieeecomputersociety.org/10.1109/CGO.2004.1281678", "http://dl.acm.org/citation.cfm?id=977660"],
 	"pages": "239-250",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"target",
-		"path",
-		"profil",
-		"lower",
-		"overhead",
-		"path",
-		"profil",
-		"for",
-		"stage",
-		"dynam",
-		"optim",
-		"system"
-	],
-	"tag": [
-		"optimisation",
-		"profiling",
-		"staged"
-	],
+	"stemmed": ["target", "path", "profil", "lower", "overhead", "path", "profil", "for", "stage", "dynam", "optim", "system"],
+	"tag": ["optimisation", "profiling", "staged"],
 	"title": "Targeted Path Profiling: Lower Overhead Path Profiling for Staged Dynamic Optimization Systems",
 	"type": "inproceedings",
 	"venue": "CGO",

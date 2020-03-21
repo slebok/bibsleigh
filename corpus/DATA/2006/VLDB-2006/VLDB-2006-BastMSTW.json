@@ -1,12 +1,6 @@
 {
-	"acmid": "1164169",
-	"author": [
-		"H. Bast",
-		"Debapriyo Majumdar",
-		"Ralf Schenkel",
-		"Martin Theobald",
-		"Gerhard Weikum"
-	],
+	"acmid": 1164169,
+	"author": ["H. Bast", "Debapriyo Majumdar", "Ralf Schenkel", "Martin Theobald", "Gerhard Weikum"],
 	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
@@ -14,22 +8,8 @@
 	"ee": "http://www.vldb.org/conf/2006/p475-bast.pdf",
 	"pages": "475-486",
 	"publisher": "ACM",
-	"stemmed": [
-		"io",
-		"top",
-		"k",
-		"index",
-		"access",
-		"optim",
-		"top",
-		"k",
-		"queri",
-		"process"
-	],
-	"tag": [
-		"named",
-		"query"
-	],
+	"stemmed": ["io", "top", "k", "index", "access", "optim", "top", "k", "queri", "process"],
+	"tag": ["named", "query"],
 	"title": "IO-Top-k: Index-access Optimized Top-k Query Processing",
 	"type": "inproceedings",
 	"venue": "VLDB",

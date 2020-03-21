@@ -1,10 +1,5 @@
 {
-	"author": [
-		"Beibei Cheng",
-		"Sameer Antani",
-		"R. Joe Stanley",
-		"George R. Thoma"
-	],
+	"author": ["Beibei Cheng", "Sameer Antani", "R. Joe Stanley", "George R. Thoma"],
 	"booktitle": "Proceedings of the 18th Conference on Document Recognition and Retrieval",
 	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2011",
@@ -14,30 +9,11 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": [
-		"automat",
-		"segment",
-		"of",
-		"subfigur",
-		"imag",
-		"panel",
-		"for",
-		"multimod",
-		"biomed",
-		"document",
-		"retriev"
-	],
-	"tag": [
-		"automation",
-		"documentation",
-		"image",
-		"multimodal",
-		"retrieval",
-		"segmentation"
-	],
+	"stemmed": ["automat", "segment", "of", "subfigur", "imag", "panel", "for", "multimod", "biomed", "document", "retriev"],
+	"tag": ["automation", "documentation", "image", "multimodal", "retrieval", "segmentation"],
 	"title": "Automatic segmentation of subfigure image panels for multimodal biomedical document retrieval",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": "7874",
+	"volume": 7874,
 	"year": 2011
 }

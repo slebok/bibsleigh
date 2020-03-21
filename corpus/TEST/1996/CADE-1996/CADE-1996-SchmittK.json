@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Stephan Schmitt",
-		"Christoph Kreitz"
-	],
+	"author": ["Stephan Schmitt", "Christoph Kreitz"],
 	"booktitle": "Proceedings of the 13th International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1996",
@@ -14,24 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"convert",
-		"non",
-		"classic",
-		"matrix",
-		"proof",
-		"into",
-		"sequent",
-		"style",
-		"system"
-	],
-	"tag": [
-		"matrix",
-		"proving"
-	],
+	"stemmed": ["convert", "non", "classic", "matrix", "proof", "into", "sequent", "style", "system"],
+	"tag": ["matrix", "proving"],
 	"title": "Converting Non-Classical Matrix Proofs into Sequent-Style Systems",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "1104",
+	"volume": 1104,
 	"year": 1996
 }

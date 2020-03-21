@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Matthias Böhm",
-		"Dirk Habich",
-		"Wolfgang Lehner"
-	],
+	"author": ["Matthias Böhm", "Dirk Habich", "Wolfgang Lehner"],
 	"booktitle": "Revised Selected Papers of the 12th International Conference on Enterprise Information Systems",
 	"booktitleshort": "Post-ICEIS",
 	"crossref": "conf/iceis/2010",
@@ -15,25 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Business Information Processing",
 	"seriesshort": "LNBIP",
-	"stemmed": [
-		"multi",
-		"flow",
-		"optim",
-		"via",
-		"horizont",
-		"messag",
-		"queue",
-		"partit"
-	],
-	"tag": [
-		"clustering",
-		"multi",
-		"optimisation",
-		"queue"
-	],
+	"stemmed": ["multi", "flow", "optim", "via", "horizont", "messag", "queue", "partit"],
+	"tag": ["clustering", "multi", "optimisation", "queue"],
 	"title": "Multi-flow Optimization via Horizontal Message Queue Partitioning",
 	"type": "inproceedings",
 	"venue": "ICEIS",
-	"volume": "73",
+	"volume": 73,
 	"year": 2010
 }

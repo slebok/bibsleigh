@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Néstor Cataño",
-		"Marieke Huisman"
-	],
+	"author": ["Néstor Cataño", "Marieke Huisman"],
 	"booktitle": "Proceedings of the Fourth International Conference on Verification, Model Checking and Abstract Interpretation",
 	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2003",
@@ -14,25 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"chase",
-		"a",
-		"static",
-		"checker",
-		"for",
-		"jml",
-		"s",
-		"assign",
-		"claus"
-	],
-	"tag": [
-		"ml",
-		"named",
-		"static analysis"
-	],
+	"stemmed": ["chase", "a", "static", "checker", "for", "jml", "s", "assign", "claus"],
+	"tag": ["ml", "named", "static analysis"],
 	"title": "CHASE: A Static Checker for JML’s Assignable Clause",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": "2575",
+	"volume": 2575,
 	"year": 2003
 }

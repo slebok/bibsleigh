@@ -1,10 +1,6 @@
 {
-	"acmid": "1164179",
-	"author": [
-		"Rainer Gemulla",
-		"Wolfgang Lehner",
-		"Peter J. Haas"
-	],
+	"acmid": 1164179,
+	"author": ["Rainer Gemulla", "Wolfgang Lehner", "Peter J. Haas"],
 	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
@@ -12,24 +8,8 @@
 	"ee": "http://www.vldb.org/conf/2006/p595-gemulla.pdf",
 	"pages": "595-606",
 	"publisher": "ACM",
-	"stemmed": [
-		"a",
-		"dip",
-		"in",
-		"the",
-		"reservoir",
-		"maintain",
-		"sampl",
-		"synops",
-		"of",
-		"evolv",
-		"dataset"
-	],
-	"tag": [
-		"dataset",
-		"evolution",
-		"maintenance"
-	],
+	"stemmed": ["a", "dip", "in", "the", "reservoir", "maintain", "sampl", "synops", "of", "evolv", "dataset"],
+	"tag": ["dataset", "evolution", "maintenance"],
 	"title": "A Dip in the Reservoir: Maintaining Sample Synopses of Evolving Datasets",
 	"type": "inproceedings",
 	"venue": "VLDB",

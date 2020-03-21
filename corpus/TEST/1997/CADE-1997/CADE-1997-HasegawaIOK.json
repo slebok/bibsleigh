@@ -1,10 +1,5 @@
 {
-	"author": [
-		"Ryuzo Hasegawa",
-		"Katsumi Inoue",
-		"Yoshihiko Ohta",
-		"Miyuki Koshimura"
-	],
+	"author": ["Ryuzo Hasegawa", "Katsumi Inoue", "Yoshihiko Ohta", "Miyuki Koshimura"],
 	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
@@ -16,32 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"non",
-		"horn",
-		"magic",
-		"set",
-		"to",
-		"incorpor",
-		"top",
-		"down",
-		"infer",
-		"into",
-		"bottom",
-		"up",
-		"theorem",
-		"prove"
-	],
-	"tag": [
-		"bottom-up",
-		"proving",
-		"set",
-		"theorem proving",
-		"top-down"
-	],
+	"stemmed": ["non", "horn", "magic", "set", "to", "incorpor", "top", "down", "infer", "into", "bottom", "up", "theorem", "prove"],
+	"tag": ["bottom-up", "proving", "set", "theorem proving", "top-down"],
 	"title": "Non-Horn Magic Sets to Incorporate Top-down Inference into Bottom-up Theorem Proving",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "1249",
+	"volume": 1249,
 	"year": 1997
 }

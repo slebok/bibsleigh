@@ -1,11 +1,5 @@
 {
-	"author": [
-		"Jean H. Gallier",
-		"Paliath Narendran",
-		"David A. Plaisted",
-		"Stan Raatz",
-		"Wayne Snyder"
-	],
+	"author": ["Jean H. Gallier", "Paliath Narendran", "David A. Plaisted", "Stan Raatz", "Wayne Snyder"],
 	"booktitle": "Proceedings of the Ninth International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1988",
@@ -17,34 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"find",
-		"canon",
-		"rewrit",
-		"system",
-		"equival",
-		"to",
-		"a",
-		"finit",
-		"set",
-		"of",
-		"ground",
-		"equat",
-		"in",
-		"polynomi",
-		"time"
-	],
-	"tag": [
-		"canonical",
-		"equation",
-		"finite",
-		"polynomial",
-		"set",
-		"term rewriting"
-	],
+	"stemmed": ["find", "canon", "rewrit", "system", "equival", "to", "a", "finit", "set", "of", "ground", "equat", "in", "polynomi", "time"],
+	"tag": ["canonical", "equation", "finite", "polynomial", "set", "term rewriting"],
 	"title": "Finding Canonical Rewriting Systems Equivalent to a Finite Set of Ground Equations in Polynomial Time",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "310",
+	"volume": 310,
 	"year": 1988
 }

@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Naoki Kobayashi",
-		"Motoki Nakade",
-		"Akinori Yonezawa"
-	],
+	"author": ["Naoki Kobayashi", "Motoki Nakade", "Akinori Yonezawa"],
 	"booktitle": "Proceedings of the Second International Static Analysis Symposium",
 	"booktitleshort": "SAS",
 	"crossref": "conf/sas/95",
@@ -15,26 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"static",
-		"analysi",
-		"of",
-		"communic",
-		"for",
-		"asynchron",
-		"concurr",
-		"program",
-		"languag"
-	],
-	"tag": [
-		"communication",
-		"concurrent",
-		"programming language",
-		"static analysis"
-	],
+	"stemmed": ["static", "analysi", "of", "communic", "for", "asynchron", "concurr", "program", "languag"],
+	"tag": ["communication", "concurrent", "programming language", "static analysis"],
 	"title": "Static Analysis of Communication for Asynchronous Concurrent Programming Languages",
 	"type": "inproceedings",
 	"venue": "SAS",
-	"volume": "983",
+	"volume": 983,
 	"year": 1995
 }

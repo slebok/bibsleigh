@@ -1,31 +1,14 @@
 {
-	"acmid": "1251241",
-	"author": [
-		"John D. Strunk",
-		"Garth R. Goodson",
-		"Michael L. Scheinholtz",
-		"Craig A. N. Soules",
-		"Gregory R. Ganger"
-	],
+	"acmid": 1251241,
+	"author": ["John D. Strunk", "Garth R. Goodson", "Michael L. Scheinholtz", "Craig A. N. Soules", "Gregory R. Ganger"],
 	"booktitle": "Proceedings of the Fourth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2000",
 	"dblpkey": "conf/osdi/StrunkGSSG00",
 	"pages": "165-180",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"self",
-		"secur",
-		"storag",
-		"protect",
-		"data",
-		"in",
-		"compromis",
-		"system"
-	],
-	"tag": [
-		"self"
-	],
+	"stemmed": ["self", "secur", "storag", "protect", "data", "in", "compromis", "system"],
+	"tag": ["self"],
 	"title": "Self-Securing Storage: Protecting Data in Compromised Systems",
 	"type": "inproceedings",
 	"venue": "OSDI",

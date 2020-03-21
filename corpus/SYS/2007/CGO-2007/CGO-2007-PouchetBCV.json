@@ -1,40 +1,17 @@
 {
-	"acmid": "1252537",
-	"author": [
-		"Louis-Noël Pouchet",
-		"Cédric Bastoul",
-		"Albert Cohen",
-		"Nicolas Vasilache"
-	],
+	"acmid": 1252537,
+	"author": ["Louis-Noël Pouchet", "Cédric Bastoul", "Albert Cohen", "Nicolas Vasilache"],
 	"booktitle": "Proceedings of the Fifth International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2007",
 	"dblpkey": "conf/cgo/PouchetBCV07",
 	"doi": "10.1109/CGO.2007.21",
-	"ee": [
-		"http://dx.doi.org/10.1109/CGO.2007.21",
-		"http://doi.ieeecomputersociety.org/10.1109/CGO.2007.21",
-		"http://dl.acm.org/citation.cfm?id=1252537"
-	],
+	"ee": ["http://dx.doi.org/10.1109/CGO.2007.21", "http://doi.ieeecomputersociety.org/10.1109/CGO.2007.21", "http://dl.acm.org/citation.cfm?id=1252537"],
 	"pages": "144-156",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"iter",
-		"optim",
-		"in",
-		"the",
-		"polyhedr",
-		"model",
-		"part",
-		"i",
-		"one",
-		"dimension",
-		"time"
-	],
-	"tag": [
-		"optimisation"
-	],
+	"stemmed": ["iter", "optim", "in", "the", "polyhedr", "model", "part", "i", "one", "dimension", "time"],
+	"tag": ["optimisation"],
 	"title": "Iterative Optimization in the Polyhedral Model: Part I, One-Dimensional Time",
 	"type": "inproceedings",
 	"venue": "CGO",

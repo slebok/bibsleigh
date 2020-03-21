@@ -1,10 +1,6 @@
 {
-	"acmid": "1164150",
-	"author": [
-		"Nikolaus Augsten",
-		"Michael H. Böhlen",
-		"Johann Gamper"
-	],
+	"acmid": 1164150,
+	"author": ["Nikolaus Augsten", "Michael H. Böhlen", "Johann Gamper"],
 	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
@@ -12,22 +8,8 @@
 	"ee": "http://www.vldb.org/conf/2006/p247-augsten.pdf",
 	"pages": "247-258",
 	"publisher": "ACM",
-	"stemmed": [
-		"an",
-		"increment",
-		"maintain",
-		"index",
-		"for",
-		"approxim",
-		"lookup",
-		"in",
-		"hierarch",
-		"data"
-	],
-	"tag": [
-		"approximate",
-		"incremental"
-	],
+	"stemmed": ["an", "increment", "maintain", "index", "for", "approxim", "lookup", "in", "hierarch", "data"],
+	"tag": ["approximate", "incremental"],
 	"title": "An Incrementally Maintainable Index for Approximate Lookups in Hierarchical Data",
 	"type": "inproceedings",
 	"venue": "VLDB",

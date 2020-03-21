@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Zvonimir Rakamaric",
-		"Jesse D. Bingham",
-		"Alan J. Hu"
-	],
+	"author": ["Zvonimir Rakamaric", "Jesse D. Bingham", "Alan J. Hu"],
 	"booktitle": "Proceedings of the Eighth International Conference on Verification, Model Checking and Abstract Interpretation",
 	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2007",
@@ -15,35 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"an",
-		"infer",
-		"rule",
-		"base",
-		"decis",
-		"procedur",
-		"for",
-		"verif",
-		"of",
-		"heap",
-		"manipul",
-		"program",
-		"with",
-		"mutabl",
-		"data",
-		"and",
-		"cyclic",
-		"data",
-		"structur"
-	],
-	"tag": [
-		"data type",
-		"source code",
-		"verification"
-	],
+	"stemmed": ["an", "infer", "rule", "base", "decis", "procedur", "for", "verif", "of", "heap", "manipul", "program", "with", "mutabl", "data", "and", "cyclic", "data", "structur"],
+	"tag": ["data type", "source code", "verification"],
 	"title": "An Inference-Rule-Based Decision Procedure for Verification of Heap-Manipulating Programs with Mutable Data and Cyclic Data Structures",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": "4349",
+	"volume": 4349,
 	"year": 2007
 }

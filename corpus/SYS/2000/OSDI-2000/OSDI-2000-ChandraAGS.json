@@ -1,38 +1,14 @@
 {
-	"acmid": "1251233",
-	"author": [
-		"Abhishek Chandra",
-		"Micah Adler",
-		"Pawan Goyal",
-		"Prashant J. Shenoy"
-	],
+	"acmid": 1251233,
+	"author": ["Abhishek Chandra", "Micah Adler", "Pawan Goyal", "Prashant J. Shenoy"],
 	"booktitle": "Proceedings of the Fourth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2000",
 	"dblpkey": "conf/osdi/ChandraAGS00",
 	"pages": "45-58",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"surplus",
-		"fair",
-		"schedul",
-		"a",
-		"proport",
-		"share",
-		"cpu",
-		"schedul",
-		"algorithm",
-		"for",
-		"symmetr",
-		"multiprocessor"
-	],
-	"tag": [
-		"algorithm",
-		"cpu",
-		"multi",
-		"scheduling",
-		"symmetry"
-	],
+	"stemmed": ["surplus", "fair", "schedul", "a", "proport", "share", "cpu", "schedul", "algorithm", "for", "symmetr", "multiprocessor"],
+	"tag": ["algorithm", "cpu", "multi", "scheduling", "symmetry"],
 	"title": "Surplus Fair Scheduling: A Proportional-Share CPU Scheduling Algorithm for Symmetric Multiprocessors",
 	"type": "inproceedings",
 	"venue": "OSDI",

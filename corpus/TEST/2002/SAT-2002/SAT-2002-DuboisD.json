@@ -1,37 +1,13 @@
 {
-	"address": [
-		"Cincinnati",
-		"Ohio",
-		"USA"
-	],
-	"author": [
-		"Olivier Dubois",
-		"Gilles Dequen"
-	],
+	"address": ["Cincinnati", "Ohio", "USA"],
+	"author": ["Olivier Dubois", "Gilles Dequen"],
 	"booktitle": "Proceedings of the Fifth International Symposium on the Theory and Applications of Satisfiability Testing",
 	"booktitleshort": "SAT",
 	"editor": "John Franco",
 	"month": "may",
-	"pages": "15",
-	"stemmed": [
-		"renorm",
-		"as",
-		"a",
-		"function",
-		"of",
-		"claus",
-		"length",
-		"for",
-		"solv",
-		"random",
-		"k",
-		"sat",
-		"formula"
-	],
-	"tag": [
-		"random",
-		"satisfiability"
-	],
+	"pages": 15,
+	"stemmed": ["renorm", "as", "a", "function", "of", "claus", "length", "for", "solv", "random", "k", "sat", "formula"],
+	"tag": ["random", "satisfiability"],
 	"title": "Renormalization as a function of clause lengths for solving random k-SAT formulae",
 	"type": "inproceedings",
 	"venue": "SAT",

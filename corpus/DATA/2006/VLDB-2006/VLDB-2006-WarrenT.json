@@ -1,9 +1,6 @@
 {
-	"acmid": "1164157",
-	"author": [
-		"Robert H. Warren",
-		"Frank Wm. Tompa"
-	],
+	"acmid": 1164157,
+	"author": ["Robert H. Warren", "Frank Wm. Tompa"],
 	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
@@ -11,21 +8,8 @@
 	"ee": "http://www.vldb.org/conf/2006/p331-warren.pdf",
 	"pages": "331-342",
 	"publisher": "ACM",
-	"stemmed": [
-		"multi",
-		"column",
-		"substr",
-		"match",
-		"for",
-		"databas",
-		"schema",
-		"translat"
-	],
-	"tag": [
-		"database",
-		"multi",
-		"string"
-	],
+	"stemmed": ["multi", "column", "substr", "match", "for", "databas", "schema", "translat"],
+	"tag": ["database", "multi", "string"],
 	"title": "Multi-column Substring Matching for Database Schema Translation",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,31 +1,14 @@
 {
-	"acmid": "1251242",
-	"author": [
-		"Kevin Fu",
-		"M. Frans Kaashoek",
-		"David Mazières"
-	],
+	"acmid": 1251242,
+	"author": ["Kevin Fu", "M. Frans Kaashoek", "David Mazières"],
 	"booktitle": "Proceedings of the Fourth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2000",
 	"dblpkey": "conf/osdi/FuKM00",
 	"pages": "181-196",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"fast",
-		"and",
-		"secur",
-		"distribut",
-		"read",
-		"onli",
-		"file",
-		"system"
-	],
-	"tag": [
-		"distributed",
-		"file system",
-		"performance"
-	],
+	"stemmed": ["fast", "and", "secur", "distribut", "read", "onli", "file", "system"],
+	"tag": ["distributed", "file system", "performance"],
 	"title": "Fast and Secure Distributed Read-Only File System",
 	"type": "inproceedings",
 	"venue": "OSDI",

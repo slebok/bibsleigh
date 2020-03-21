@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Filip Maric",
-		"Predrag Janicic",
-		"Marko Malikovic"
-	],
+	"author": ["Filip Maric", "Predrag Janicic", "Marko Malikovic"],
 	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
@@ -15,31 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"prove",
-		"correct",
-		"of",
-		"a",
-		"krk",
-		"chess",
-		"endgam",
-		"strategi",
-		"by",
-		"use",
-		"isabell",
-		"hol",
-		"and",
-		"z"
-	],
-	"tag": [
-		"correctness",
-		"higher-order",
-		"proving",
-		"using"
-	],
+	"stemmed": ["prove", "correct", "of", "a", "krk", "chess", "endgam", "strategi", "by", "use", "isabell", "hol", "and", "z"],
+	"tag": ["correctness", "higher-order", "proving", "using"],
 	"title": "Proving Correctness of a KRK Chess Endgame Strategy by Using Isabelle/HOL and Z3",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "9195",
+	"volume": 9195,
 	"year": 2015
 }

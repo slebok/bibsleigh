@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Thierry Le Sergent",
-		"Bernard Berthomieu"
-	],
+	"author": ["Thierry Le Sergent", "Bernard Berthomieu"],
 	"booktitle": "Proceedings of the First International Workshop on Memory Management",
 	"booktitleshort": "IWMM",
 	"crossref": "conf/iwmm/1992",
@@ -14,30 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"increment",
-		"multi",
-		"thread",
-		"garbag",
-		"collect",
-		"on",
-		"virtual",
-		"share",
-		"memori",
-		"architectur"
-	],
-	"tag": [
-		"architecture",
-		"concurrent",
-		"garbage collection",
-		"incremental",
-		"memory management",
-		"multi",
-		"thread"
-	],
+	"stemmed": ["increment", "multi", "thread", "garbag", "collect", "on", "virtual", "share", "memori", "architectur"],
+	"tag": ["architecture", "concurrent", "garbage collection", "incremental", "memory management", "multi", "thread"],
 	"title": "Incremental Multi-threaded Garbage Collection on Virtual Shared Memory Architectures",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": "637",
+	"volume": 637,
 	"year": 1992
 }

@@ -1,41 +1,17 @@
 {
-	"acmid": "1122392",
-	"author": [
-		"Weifeng Zhang",
-		"Brad Calder",
-		"Dean M. Tullsen"
-	],
+	"acmid": 1122392,
+	"author": ["Weifeng Zhang", "Brad Calder", "Dean M. Tullsen"],
 	"booktitle": "Proceedings of the Fourth International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2006",
 	"dblpkey": "conf/cgo/ZhangCT06",
 	"doi": "10.1109/CGO.2006.4",
-	"ee": [
-		"http://dx.doi.org/10.1109/CGO.2006.4",
-		"http://doi.ieeecomputersociety.org/10.1109/CGO.2006.4",
-		"http://dl.acm.org/citation.cfm?id=1122392"
-	],
+	"ee": ["http://dx.doi.org/10.1109/CGO.2006.4", "http://doi.ieeecomputersociety.org/10.1109/CGO.2006.4", "http://dl.acm.org/citation.cfm?id=1122392"],
 	"pages": "50-64",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"a",
-		"self",
-		"repair",
-		"prefetch",
-		"in",
-		"an",
-		"event",
-		"driven",
-		"dynam",
-		"optim",
-		"framework"
-	],
-	"tag": [
-		"framework",
-		"optimisation",
-		"self"
-	],
+	"stemmed": ["a", "self", "repair", "prefetch", "in", "an", "event", "driven", "dynam", "optim", "framework"],
+	"tag": ["framework", "optimisation", "self"],
 	"title": "A Self-Repairing Prefetcher in an Event-Driven Dynamic Optimization Framework",
 	"type": "inproceedings",
 	"venue": "CGO",

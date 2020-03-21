@@ -1,28 +1,14 @@
 {
-	"acmid": "1251248",
-	"author": [
-		"Miguel Castro",
-		"Barbara Liskov"
-	],
+	"acmid": 1251248,
+	"author": ["Miguel Castro", "Barbara Liskov"],
 	"booktitle": "Proceedings of the Fourth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2000",
 	"dblpkey": "conf/osdi/CastroL00",
 	"pages": "273-288",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"proactiv",
-		"recoveri",
-		"in",
-		"a",
-		"byzantin",
-		"fault",
-		"toler",
-		"system"
-	],
-	"tag": [
-		"fault tolerance"
-	],
+	"stemmed": ["proactiv", "recoveri", "in", "a", "byzantin", "fault", "toler", "system"],
+	"tag": ["fault tolerance"],
 	"title": "Proactive Recovery in a Byzantine-Fault-Tolerant System",
 	"type": "inproceedings",
 	"venue": "OSDI",

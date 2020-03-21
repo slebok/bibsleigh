@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Vidyadhar Phalke",
-		"B. Gopinath"
-	],
+	"author": ["Vidyadhar Phalke", "B. Gopinath"],
 	"booktitle": "Proceedings of the Second International Workshop on Memory Management",
 	"booktitleshort": "ISMM",
 	"crossref": "conf/iwmm/95",
@@ -14,22 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"a",
-		"miss",
-		"histori",
-		"base",
-		"architectur",
-		"for",
-		"cach",
-		"prefetch"
-	],
-	"tag": [
-		"architecture"
-	],
+	"stemmed": ["a", "miss", "histori", "base", "architectur", "for", "cach", "prefetch"],
+	"tag": ["architecture"],
 	"title": "A Miss History-based Architecture for Cache Prefetching",
 	"type": "inproceedings",
 	"venue": "ISMM",
-	"volume": "986",
+	"volume": 986,
 	"year": 1995
 }

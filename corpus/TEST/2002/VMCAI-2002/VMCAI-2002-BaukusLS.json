@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Kai Baukus",
-		"Yassine Lakhnech",
-		"Karsten Stahl"
-	],
+	"author": ["Kai Baukus", "Yassine Lakhnech", "Karsten Stahl"],
 	"booktitle": "Proceedings of the Third International Workshop on Verification, Model Checking and Abstract Interpretation",
 	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2002",
@@ -15,27 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"parameter",
-		"verif",
-		"of",
-		"a",
-		"cach",
-		"coher",
-		"protocol",
-		"safeti",
-		"and",
-		"live"
-	],
-	"tag": [
-		"liveness",
-		"protocol",
-		"safety",
-		"verification"
-	],
+	"stemmed": ["parameter", "verif", "of", "a", "cach", "coher", "protocol", "safeti", "and", "live"],
+	"tag": ["liveness", "protocol", "safety", "verification"],
 	"title": "Parameterized Verification of a Cache Coherence Protocol: Safety and Liveness",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": "2294",
+	"volume": 2294,
 	"year": 2002
 }

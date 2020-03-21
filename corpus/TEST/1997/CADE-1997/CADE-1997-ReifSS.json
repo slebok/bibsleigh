@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Wolfgang Reif",
-		"Gerhard Schellhorn",
-		"Kurt Stenzel"
-	],
+	"author": ["Wolfgang Reif", "Gerhard Schellhorn", "Kurt Stenzel"],
 	"booktitle": "Proceedings of the 14th International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1997",
@@ -15,20 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"prove",
-		"system",
-		"correct",
-		"with",
-		"kiv"
-	],
-	"tag": [
-		"correctness",
-		"proving"
-	],
+	"stemmed": ["prove", "system", "correct", "with", "kiv"],
+	"tag": ["correctness", "proving"],
 	"title": "Proving System Correctness with KIV 3.0",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "1249",
+	"volume": 1249,
 	"year": 1997
 }

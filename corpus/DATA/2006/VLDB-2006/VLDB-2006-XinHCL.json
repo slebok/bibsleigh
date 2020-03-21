@@ -1,11 +1,6 @@
 {
-	"acmid": "1164168",
-	"author": [
-		"Dong Xin",
-		"Jiawei Han",
-		"Hong Cheng",
-		"Xiaolei Li"
-	],
+	"acmid": 1164168,
+	"author": ["Dong Xin", "Jiawei Han", "Hong Cheng", "Xiaolei Li"],
 	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
@@ -13,26 +8,8 @@
 	"ee": "http://www.vldb.org/conf/2006/p463-xin.pdf",
 	"pages": "463-475",
 	"publisher": "ACM",
-	"stemmed": [
-		"answer",
-		"top",
-		"k",
-		"queri",
-		"with",
-		"multi",
-		"dimension",
-		"select",
-		"the",
-		"rank",
-		"cube",
-		"approach"
-	],
-	"tag": [
-		"approach",
-		"multi",
-		"query",
-		"ranking"
-	],
+	"stemmed": ["answer", "top", "k", "queri", "with", "multi", "dimension", "select", "the", "rank", "cube", "approach"],
+	"tag": ["approach", "multi", "query", "ranking"],
 	"title": "Answering Top-k Queries with Multi-Dimensional Selections: The Ranking Cube Approach",
 	"type": "inproceedings",
 	"venue": "VLDB",

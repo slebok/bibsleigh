@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Cristina Borralleras",
-		"Maria Ferreira",
-		"Albert Rubio"
-	],
+	"author": ["Cristina Borralleras", "Maria Ferreira", "Albert Rubio"],
 	"booktitle": "Proceedings of the 17th International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2000",
@@ -15,20 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"complet",
-		"monoton",
-		"semant",
-		"path",
-		"order"
-	],
-	"tag": [
-		"order",
-		"semantics"
-	],
+	"stemmed": ["complet", "monoton", "semant", "path", "order"],
+	"tag": ["order", "semantics"],
 	"title": "Complete Monotonic Semantic Path Orderings",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "1831",
+	"volume": 1831,
 	"year": 2000
 }

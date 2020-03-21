@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Ralf Wimmer",
-		"Bettina Braitling",
-		"Bernd Becker"
-	],
+	"author": ["Ralf Wimmer", "Bettina Braitling", "Bernd Becker"],
 	"booktitle": "Proceedings of the 10th International Conference on Verification, Model Checking and Abstract Interpretation",
 	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2009",
@@ -15,29 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"counterexampl",
-		"generat",
-		"for",
-		"discret",
-		"time",
-		"markov",
-		"chain",
-		"use",
-		"bound",
-		"model",
-		"check"
-	],
-	"tag": [
-		"bound",
-		"generative",
-		"markov",
-		"model checking",
-		"using"
-	],
+	"stemmed": ["counterexampl", "generat", "for", "discret", "time", "markov", "chain", "use", "bound", "model", "check"],
+	"tag": ["bound", "generative", "markov", "model checking", "using"],
 	"title": "Counterexample Generation for Discrete-Time Markov Chains Using Bounded Model Checking",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": "5403",
+	"volume": 5403,
 	"year": 2009
 }

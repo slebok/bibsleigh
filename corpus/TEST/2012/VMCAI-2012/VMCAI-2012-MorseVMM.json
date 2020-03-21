@@ -1,10 +1,5 @@
 {
-	"author": [
-		"Everett Morse",
-		"Nick Vrvilo",
-		"Eric Mercer",
-		"Jay McCarthy"
-	],
+	"author": ["Everett Morse", "Nick Vrvilo", "Eric Mercer", "Jay McCarthy"],
 	"booktitle": "Proceedings of the 13th International Conference on Verification, Model Checking and Abstract Interpretation",
 	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2012",
@@ -16,24 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"model",
-		"asynchron",
-		"messag",
-		"pass",
-		"for",
-		"c",
-		"program"
-	],
-	"tag": [
-		"c",
-		"message passing",
-		"modelling",
-		"source code"
-	],
+	"stemmed": ["model", "asynchron", "messag", "pass", "for", "c", "program"],
+	"tag": ["c", "message passing", "modelling", "source code"],
 	"title": "Modeling Asynchronous Message Passing for C Programs",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": "7148",
+	"volume": 7148,
 	"year": 2012
 }

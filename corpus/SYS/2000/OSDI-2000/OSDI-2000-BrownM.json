@@ -1,35 +1,14 @@
 {
-	"acmid": "1251232",
-	"author": [
-		"Angela Demke Brown",
-		"Todd C. Mowry"
-	],
+	"acmid": 1251232,
+	"author": ["Angela Demke Brown", "Todd C. Mowry"],
 	"booktitle": "Proceedings of the Fourth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2000",
 	"dblpkey": "conf/osdi/BrownM00",
 	"pages": "31-44",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"tame",
-		"the",
-		"memori",
-		"hog",
-		"use",
-		"compil",
-		"insert",
-		"releas",
-		"to",
-		"manag",
-		"physic",
-		"memori",
-		"intellig"
-	],
-	"tag": [
-		"memory management",
-		"physics",
-		"using"
-	],
+	"stemmed": ["tame", "the", "memori", "hog", "use", "compil", "insert", "releas", "to", "manag", "physic", "memori", "intellig"],
+	"tag": ["memory management", "physics", "using"],
 	"title": "Taming the Memory Hogs: Using Compiler-Inserted Releases to Manage Physical Memory Intelligently",
 	"type": "inproceedings",
 	"venue": "OSDI",

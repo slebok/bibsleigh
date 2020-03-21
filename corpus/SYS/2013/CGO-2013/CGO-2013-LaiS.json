@@ -1,43 +1,17 @@
 {
-	"acmid": "2495909",
-	"author": [
-		"Junjie Lai",
-		"André Seznec"
-	],
+	"acmid": 2495909,
+	"author": ["Junjie Lai", "André Seznec"],
 	"booktitle": "Proceedings of the 11th International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2013",
 	"dblpkey": "conf/cgo/LaiS13",
 	"doi": "10.1109/CGO.2013.6494986",
-	"ee": [
-		"http://dx.doi.org/10.1109/CGO.2013.6494986",
-		"http://doi.ieeecomputersociety.org/10.1109/CGO.2013.6494986",
-		"http://dl.acm.org/citation.cfm?id=2495909"
-	],
+	"ee": ["http://dx.doi.org/10.1109/CGO.2013.6494986", "http://doi.ieeecomputersociety.org/10.1109/CGO.2013.6494986", "http://dl.acm.org/citation.cfm?id=2495909"],
 	"pages": "4:1-4:10",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"perform",
-		"upper",
-		"bound",
-		"analysi",
-		"and",
-		"optim",
-		"of",
-		"sgemm",
-		"on",
-		"fermi",
-		"and",
-		"kepler",
-		"gpus"
-	],
-	"tag": [
-		"analysis",
-		"bound",
-		"optimisation",
-		"performance"
-	],
+	"stemmed": ["perform", "upper", "bound", "analysi", "and", "optim", "of", "sgemm", "on", "fermi", "and", "kepler", "gpus"],
+	"tag": ["analysis", "bound", "optimisation", "performance"],
 	"title": "Performance upper bound analysis and optimization of SGEMM on Fermi and Kepler GPUs",
 	"type": "inproceedings",
 	"venue": "CGO",

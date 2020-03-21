@@ -1,39 +1,13 @@
 {
-	"address": [
-		"Cincinnati",
-		"Ohio",
-		"USA"
-	],
-	"author": [
-		"Edward Hirsch",
-		"Arist Kojevnikov"
-	],
+	"address": ["Cincinnati", "Ohio", "USA"],
+	"author": ["Edward Hirsch", "Arist Kojevnikov"],
 	"booktitle": "Proceedings of the Fifth International Symposium on the Theory and Applications of Satisfiability Testing",
 	"booktitleshort": "SAT",
 	"editor": "John Franco",
 	"month": "may",
-	"pages": "38",
-	"stemmed": [
-		"unit",
-		"walk",
-		"a",
-		"new",
-		"sat",
-		"solver",
-		"that",
-		"use",
-		"local",
-		"search",
-		"guid",
-		"by",
-		"unit",
-		"claus",
-		"elimin"
-	],
-	"tag": [
-		"named",
-		"satisfiability"
-	],
+	"pages": 38,
+	"stemmed": ["unit", "walk", "a", "new", "sat", "solver", "that", "use", "local", "search", "guid", "by", "unit", "claus", "elimin"],
+	"tag": ["named", "satisfiability"],
 	"title": "UnitWalk: A new SAT solver that uses local search guided by unit clause elimination",
 	"type": "inproceedings",
 	"venue": "SAT",

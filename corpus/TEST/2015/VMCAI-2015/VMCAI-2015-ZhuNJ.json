@@ -1,9 +1,5 @@
 {
-	"author": [
-		"He Zhu",
-		"Aditya V. Nori",
-		"Suresh Jagannathan"
-	],
+	"author": ["He Zhu", "Aditya V. Nori", "Suresh Jagannathan"],
 	"booktitle": "Proceedings of the 16th International Conference on Verification, Model Checking and Abstract Interpretation",
 	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2015",
@@ -15,22 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"depend",
-		"array",
-		"type",
-		"infer",
-		"from",
-		"test"
-	],
-	"tag": [
-		"array",
-		"testing",
-		"type inference"
-	],
+	"stemmed": ["depend", "array", "type", "infer", "from", "test"],
+	"tag": ["array", "testing", "type inference"],
 	"title": "Dependent Array Type Inference from Tests",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": "8931",
+	"volume": 8931,
 	"year": 2015
 }

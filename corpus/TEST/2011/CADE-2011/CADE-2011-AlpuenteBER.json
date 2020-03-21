@@ -1,10 +1,5 @@
 {
-	"author": [
-		"María Alpuente",
-		"Demis Ballis",
-		"Javier Espert",
-		"Daniel Romero"
-	],
+	"author": ["María Alpuente", "Demis Ballis", "Javier Espert", "Daniel Romero"],
 	"booktitle": "Proceedings of the 23rd International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2011",
@@ -16,22 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"backward",
-		"trace",
-		"slice",
-		"for",
-		"rewrit",
-		"logic",
-		"theori"
-	],
-	"tag": [
-		"logic",
-		"slicing"
-	],
+	"stemmed": ["backward", "trace", "slice", "for", "rewrit", "logic", "theori"],
+	"tag": ["logic", "slicing"],
 	"title": "Backward Trace Slicing for Rewriting Logic Theories",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "6803",
+	"volume": 6803,
 	"year": 2011
 }

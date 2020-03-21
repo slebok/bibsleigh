@@ -1,38 +1,17 @@
 {
-	"acmid": "2190064",
-	"author": [
-		"Xu Liu",
-		"John M. Mellor-Crummey"
-	],
+	"acmid": 2190064,
+	"author": ["Xu Liu", "John M. Mellor-Crummey"],
 	"booktitle": "Proceedings of the Ninth International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2011",
 	"dblpkey": "conf/cgo/LiuM11",
 	"doi": "10.1109/CGO.2011.5764685",
-	"ee": [
-		"http://dx.doi.org/10.1109/CGO.2011.5764685",
-		"http://doi.ieeecomputersociety.org/10.1109/CGO.2011.5764685",
-		"http://dl.acm.org/citation.cfm?id=2190064"
-	],
+	"ee": ["http://dx.doi.org/10.1109/CGO.2011.5764685", "http://doi.ieeecomputersociety.org/10.1109/CGO.2011.5764685", "http://dl.acm.org/citation.cfm?id=2190064"],
 	"pages": "171-180",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"pinpoint",
-		"data",
-		"local",
-		"problem",
-		"use",
-		"data",
-		"centric",
-		"analysi"
-	],
-	"tag": [
-		"analysis",
-		"locality",
-		"problem",
-		"using"
-	],
+	"stemmed": ["pinpoint", "data", "local", "problem", "use", "data", "centric", "analysi"],
+	"tag": ["analysis", "locality", "problem", "using"],
 	"title": "Pinpointing data locality problems using data-centric analysis",
 	"type": "inproceedings",
 	"venue": "CGO",

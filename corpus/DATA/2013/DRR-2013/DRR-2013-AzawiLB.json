@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Mayce Ibrahim Ali Al Azawi",
-		"Marcus Liwicki",
-		"Thomas M. Breuel"
-	],
+	"author": ["Mayce Ibrahim Ali Al Azawi", "Marcus Liwicki", "Thomas M. Breuel"],
 	"booktitle": "Proceedings of the 20th Conference on Document Recognition and Retrieval",
 	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2013",
@@ -12,30 +8,11 @@
 	"ee": "http://dx.doi.org/10.1117/12.2003134",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": [
-		"wfst",
-		"base",
-		"ground",
-		"truth",
-		"align",
-		"for",
-		"difficult",
-		"histor",
-		"document",
-		"with",
-		"text",
-		"modif",
-		"and",
-		"layout",
-		"variat"
-	],
-	"tag": [
-		"documentation",
-		"layout"
-	],
+	"stemmed": ["wfst", "base", "ground", "truth", "align", "for", "difficult", "histor", "document", "with", "text", "modif", "and", "layout", "variat"],
+	"tag": ["documentation", "layout"],
 	"title": "WFST-based ground truth alignment for difficult historical documents with text modification and layout variations",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": "8658",
+	"volume": 8658,
 	"year": 2013
 }

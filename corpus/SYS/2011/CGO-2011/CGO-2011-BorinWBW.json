@@ -1,39 +1,17 @@
 {
-	"acmid": "2190053",
-	"author": [
-		"Edson Borin",
-		"Youfeng Wu",
-		"Mauricio Breternitz Jr.",
-		"Cheng Wang"
-	],
+	"acmid": 2190053,
+	"author": ["Edson Borin", "Youfeng Wu", "Mauricio Breternitz Jr.", "Cheng Wang"],
 	"booktitle": "Proceedings of the Ninth International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2011",
 	"dblpkey": "conf/cgo/BorinWBW11",
 	"doi": "10.1109/CGO.2011.5764674",
-	"ee": [
-		"http://dx.doi.org/10.1109/CGO.2011.5764674",
-		"http://doi.ieeecomputersociety.org/10.1109/CGO.2011.5764674",
-		"http://dl.acm.org/citation.cfm?id=2190053"
-	],
+	"ee": ["http://dx.doi.org/10.1109/CGO.2011.5764674", "http://doi.ieeecomputersociety.org/10.1109/CGO.2011.5764674", "http://dl.acm.org/citation.cfm?id=2190053"],
 	"pages": "54-63",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"lar",
-		"cc",
-		"larg",
-		"atom",
-		"region",
-		"with",
-		"condit",
-		"commit"
-	],
-	"tag": [
-		"commit",
-		"named",
-		"scalability"
-	],
+	"stemmed": ["lar", "cc", "larg", "atom", "region", "with", "condit", "commit"],
+	"tag": ["commit", "named", "scalability"],
 	"title": "LAR-CC: Large atomic regions with conditional commits",
 	"type": "inproceedings",
 	"venue": "CGO",

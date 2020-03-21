@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Josh Berdine",
-		"Nikolaj Bjørner"
-	],
+	"author": ["Josh Berdine", "Nikolaj Bjørner"],
 	"booktitle": "Proceedings of the Seventh International Joint Conference on Automated Reasoning",
 	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2014",
@@ -14,24 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"comput",
-		"all",
-		"impli",
-		"equal",
-		"via",
-		"smt",
-		"base",
-		"partit",
-		"refin"
-	],
-	"tag": [
-		"refinement",
-		"smt"
-	],
+	"stemmed": ["comput", "all", "impli", "equal", "via", "smt", "base", "partit", "refin"],
+	"tag": ["refinement", "smt"],
 	"title": "Computing All Implied Equalities via SMT-Based Partition Refinement",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": "8562",
+	"volume": 8562,
 	"year": 2014
 }

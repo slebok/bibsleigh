@@ -1,10 +1,5 @@
 {
-	"author": [
-		"Nicholas Kidd",
-		"Thomas W. Reps",
-		"Julian Dolby",
-		"Mandana Vaziri"
-	],
+	"author": ["Nicholas Kidd", "Thomas W. Reps", "Julian Dolby", "Mandana Vaziri"],
 	"booktitle": "Proceedings of the 10th International Conference on Verification, Model Checking and Abstract Interpretation",
 	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2009",
@@ -16,23 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"find",
-		"concurr",
-		"relat",
-		"bug",
-		"use",
-		"random",
-		"isol"
-	],
-	"tag": [
-		"debugging",
-		"random",
-		"using"
-	],
+	"stemmed": ["find", "concurr", "relat", "bug", "use", "random", "isol"],
+	"tag": ["debugging", "random", "using"],
 	"title": "Finding Concurrency-Related Bugs Using Random Isolation",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": "5403",
+	"volume": 5403,
 	"year": 2009
 }

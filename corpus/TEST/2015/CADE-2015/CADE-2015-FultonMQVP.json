@@ -1,11 +1,5 @@
 {
-	"author": [
-		"Nathan Fulton",
-		"Stefan Mitsch",
-		"Jan-David Quesel",
-		"Marcus Völp",
-		"André Platzer"
-	],
+	"author": ["Nathan Fulton", "Stefan Mitsch", "Jan-David Quesel", "Marcus Völp", "André Platzer"],
 	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
@@ -17,28 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"ke",
-		"ymaera",
-		"x",
-		"an",
-		"axiomat",
-		"tactic",
-		"theorem",
-		"prover",
-		"for",
-		"hybrid",
-		"system"
-	],
-	"tag": [
-		"axiom",
-		"hybrid",
-		"proving",
-		"theorem proving"
-	],
+	"stemmed": ["ke", "ymaera", "x", "an", "axiomat", "tactic", "theorem", "prover", "for", "hybrid", "system"],
+	"tag": ["axiom", "hybrid", "proving", "theorem proving"],
 	"title": "KeYmaera X: An Axiomatic Tactical Theorem Prover for Hybrid Systems",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "9195",
+	"volume": 9195,
 	"year": 2015
 }

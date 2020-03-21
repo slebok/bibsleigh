@@ -1,10 +1,5 @@
 {
-	"author": [
-		"José Iborra",
-		"Naoki Nishida",
-		"Germán Vidal",
-		"Akihisa Yamada"
-	],
+	"author": ["José Iborra", "Naoki Nishida", "Germán Vidal", "Akihisa Yamada"],
 	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
@@ -16,23 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"reduc",
-		"relat",
-		"termin",
-		"to",
-		"depend",
-		"pair",
-		"problem"
-	],
-	"tag": [
-		"dependence",
-		"problem",
-		"termination"
-	],
+	"stemmed": ["reduc", "relat", "termin", "to", "depend", "pair", "problem"],
+	"tag": ["dependence", "problem", "termination"],
 	"title": "Reducing Relative Termination to Dependency Pair Problems",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "9195",
+	"volume": 9195,
 	"year": 2015
 }

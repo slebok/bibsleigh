@@ -1,30 +1,14 @@
 {
-	"author": [
-		"A. J. van de Goor",
-		"Yervant Zorian",
-		"Ivo Schanstra"
-	],
+	"author": ["A. J. van de Goor", "Yervant Zorian", "Ivo Schanstra"],
 	"booktitle": "Proceedings of the European Conference on Design Automation (EDAC), European Test Conference (ETC) and the European Event in ASIC Design (EUROASIC)",
 	"booktitleshort": "EDAC-ETC-EUROASIC",
 	"crossref": "conf/eurodac/1994edac",
 	"dblpkey": "conf/eurodac/AGZS94",
-	"pages": "666",
+	"pages": 666,
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"function",
-		"test",
-		"for",
-		"ring",
-		"address",
-		"sram",
-		"type",
-		"fifo"
-	],
-	"tag": [
-		"functional",
-		"testing"
-	],
+	"stemmed": ["function", "test", "for", "ring", "address", "sram", "type", "fifo"],
+	"tag": ["functional", "testing"],
 	"title": "Functional Tests for Ring-Address SRAM-type FIFOs",
 	"type": "inproceedings",
 	"venue": "DATE",

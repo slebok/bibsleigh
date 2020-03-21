@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Vincent Aravantinos",
-		"Ricardo Caferra",
-		"Nicolas Peltier"
-	],
+	"author": ["Vincent Aravantinos", "Ricardo Caferra", "Nicolas Peltier"],
 	"booktitle": "Proceedings of the Fifth International Joint Conference on Automated Reasoning",
 	"booktitleshort": "IJCAR",
 	"crossref": "conf/cade/2010",
@@ -15,23 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"reg",
-		"stab",
-		"a",
-		"sat",
-		"solver",
-		"for",
-		"proposit",
-		"schemata"
-	],
-	"tag": [
-		"named",
-		"satisfiability"
-	],
+	"stemmed": ["reg", "stab", "a", "sat", "solver", "for", "proposit", "schemata"],
+	"tag": ["named", "satisfiability"],
 	"title": "RegSTAB: A SAT Solver for Propositional Schemata",
 	"type": "inproceedings",
 	"venue": "IJCAR",
-	"volume": "6173",
+	"volume": 6173,
 	"year": 2010
 }

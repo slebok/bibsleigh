@@ -1,48 +1,17 @@
 {
-	"acmid": "2495926",
-	"author": [
-		"Jie Yan",
-		"Guangming Tan",
-		"Xiuxia Zhang",
-		"Erlin Yao",
-		"Ninghui Sun"
-	],
+	"acmid": 2495926,
+	"author": ["Jie Yan", "Guangming Tan", "Xiuxia Zhang", "Erlin Yao", "Ninghui Sun"],
 	"booktitle": "Proceedings of the 11th International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2013",
 	"dblpkey": "conf/cgo/YanTZYS13",
 	"doi": "10.1109/CGO.2013.6494991",
-	"ee": [
-		"http://dx.doi.org/10.1109/CGO.2013.6494991",
-		"http://doi.ieeecomputersociety.org/10.1109/CGO.2013.6494991",
-		"http://dl.acm.org/citation.cfm?id=2495926"
-	],
+	"ee": ["http://dx.doi.org/10.1109/CGO.2013.6494991", "http://doi.ieeecomputersociety.org/10.1109/CGO.2013.6494991", "http://dl.acm.org/citation.cfm?id=2495926"],
 	"pages": "21:1-21:10",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"vlock",
-		"lock",
-		"virtual",
-		"mechan",
-		"for",
-		"exploit",
-		"fine",
-		"grain",
-		"parallel",
-		"in",
-		"graph",
-		"travers",
-		"algorithm"
-	],
-	"tag": [
-		"algorithm",
-		"fine-grained",
-		"graph",
-		"named",
-		"parallel",
-		"traversal"
-	],
+	"stemmed": ["vlock", "lock", "virtual", "mechan", "for", "exploit", "fine", "grain", "parallel", "in", "graph", "travers", "algorithm"],
+	"tag": ["algorithm", "fine-grained", "graph", "named", "parallel", "traversal"],
 	"title": "Vlock: Lock virtualization mechanism for exploiting fine-grained parallelism in graph traversal algorithms",
 	"type": "inproceedings",
 	"venue": "CGO",

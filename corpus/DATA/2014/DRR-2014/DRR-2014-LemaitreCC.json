@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Aurélie Lemaitre",
-		"Jean Camillerapp",
-		"Bertrand Coüasnon"
-	],
+	"author": ["Aurélie Lemaitre", "Jean Camillerapp", "Bertrand Coüasnon"],
 	"booktitle": "Proceedings of the 21st Conference on Document Recognition and Retrieval",
 	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2014",
@@ -13,22 +9,11 @@
 	"pages": "90210D-90210D-12",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": [
-		"handwritten",
-		"text",
-		"segment",
-		"use",
-		"blur",
-		"imag"
-	],
-	"tag": [
-		"image",
-		"segmentation",
-		"using"
-	],
+	"stemmed": ["handwritten", "text", "segment", "use", "blur", "imag"],
+	"tag": ["image", "segmentation", "using"],
 	"title": "Handwritten text segmentation using blurred image",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": "9021",
+	"volume": 9021,
 	"year": 2014
 }

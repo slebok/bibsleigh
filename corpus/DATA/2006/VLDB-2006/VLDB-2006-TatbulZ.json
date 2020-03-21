@@ -1,9 +1,6 @@
 {
-	"acmid": "1164196",
-	"author": [
-		"Nesime Tatbul",
-		"Stanley B. Zdonik"
-	],
+	"acmid": 1164196,
+	"author": ["Nesime Tatbul", "Stanley B. Zdonik"],
 	"booktitle": "Proceedings of the 32nd International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2006",
@@ -11,22 +8,8 @@
 	"ee": "http://www.vldb.org/conf/2006/p799-tatbul.pdf",
 	"pages": "799-810",
 	"publisher": "ACM",
-	"stemmed": [
-		"window",
-		"awar",
-		"load",
-		"shed",
-		"for",
-		"aggreg",
-		"queri",
-		"over",
-		"data",
-		"stream"
-	],
-	"tag": [
-		"data type",
-		"query"
-	],
+	"stemmed": ["window", "awar", "load", "shed", "for", "aggreg", "queri", "over", "data", "stream"],
+	"tag": ["data type", "query"],
 	"title": "Window-Aware Load Shedding for Aggregation Queries over Data Streams",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Michael Schneider",
-		"Geoff Sutcliffe"
-	],
+	"author": ["Michael Schneider", "Geoff Sutcliffe"],
 	"booktitle": "Proceedings of the 23rd International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2011",
@@ -14,34 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"reason",
-		"in",
-		"the",
-		"owl",
-		"full",
-		"ontolog",
-		"languag",
-		"use",
-		"first",
-		"order",
-		"autom",
-		"theorem",
-		"prove"
-	],
-	"tag": [
-		"automation",
-		"first-order",
-		"ontology",
-		"owl",
-		"proving",
-		"reasoning",
-		"theorem proving",
-		"using"
-	],
+	"stemmed": ["reason", "in", "the", "owl", "full", "ontolog", "languag", "use", "first", "order", "autom", "theorem", "prove"],
+	"tag": ["automation", "first-order", "ontology", "owl", "proving", "reasoning", "theorem proving", "using"],
 	"title": "Reasoning in the OWL 2 Full Ontology Language Using First-Order Automated Theorem Proving",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "6803",
+	"volume": 6803,
 	"year": 2011
 }

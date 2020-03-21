@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Maxime Chevalier-Boisvert",
-		"Marc Feeley"
-	],
+	"author": ["Maxime Chevalier-Boisvert", "Marc Feeley"],
 	"booktitle": "Proceedings of the 29th European Conference on Object-Oriented Programming",
 	"booktitleshort": "ECOOP",
 	"crossref": "conf/ecoop/2015",
@@ -14,27 +11,11 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": [
-		"simpl",
-		"and",
-		"effect",
-		"type",
-		"check",
-		"remov",
-		"through",
-		"lazi",
-		"basic",
-		"block",
-		"version"
-	],
-	"tag": [
-		"effectiveness",
-		"lazy evaluation",
-		"version control"
-	],
+	"stemmed": ["simpl", "and", "effect", "type", "check", "remov", "through", "lazi", "basic", "block", "version"],
+	"tag": ["effectiveness", "lazy evaluation", "version control"],
 	"title": "Simple and Effective Type Check Removal through Lazy Basic Block Versioning",
 	"type": "inproceedings",
 	"venue": "ECOOP",
-	"volume": "37",
+	"volume": 37,
 	"year": 2015
 }

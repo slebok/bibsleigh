@@ -1,6 +1,9 @@
 corpus c:\bigrepos\bibsleigh\json\corpus
 in */*/*/*
 
+-- Prefer numbers to strings
+use the force
+
 -- If a paper has no venue, inherit from the conference
 when no venue
 	inherit venue

@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Sebastian Burckhardt",
-		"Rajeev Alur",
-		"Milo M. K. Martin"
-	],
+	"author": ["Sebastian Burckhardt", "Rajeev Alur", "Milo M. K. Martin"],
 	"booktitle": "Proceedings of the Sixth International Conference on Verification, Model Checking and Abstract Interpretation",
 	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2005",
@@ -15,30 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"verifi",
-		"safeti",
-		"of",
-		"a",
-		"token",
-		"coher",
-		"implement",
-		"by",
-		"parametr",
-		"composit",
-		"refin"
-	],
-	"tag": [
-		"composition",
-		"implementation",
-		"parametricity",
-		"refinement",
-		"safety",
-		"verification"
-	],
+	"stemmed": ["verifi", "safeti", "of", "a", "token", "coher", "implement", "by", "parametr", "composit", "refin"],
+	"tag": ["composition", "implementation", "parametricity", "refinement", "safety", "verification"],
 	"title": "Verifying Safety of a Token Coherence Implementation by Parametric Compositional Refinement",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": "3385",
+	"volume": 3385,
 	"year": 2005
 }

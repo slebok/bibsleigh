@@ -1,40 +1,17 @@
 {
-	"acmid": "1252532",
-	"author": [
-		"Vijay Janapa Reddi",
-		"Dan Connors",
-		"Robert Cohn",
-		"Michael D. Smith"
-	],
+	"acmid": 1252532,
+	"author": ["Vijay Janapa Reddi", "Dan Connors", "Robert Cohn", "Michael D. Smith"],
 	"booktitle": "Proceedings of the Fifth International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2007",
 	"dblpkey": "conf/cgo/ReddiCCS07",
 	"doi": "10.1109/CGO.2007.29",
-	"ee": [
-		"http://dx.doi.org/10.1109/CGO.2007.29",
-		"http://doi.ieeecomputersociety.org/10.1109/CGO.2007.29",
-		"http://dl.acm.org/citation.cfm?id=1252532"
-	],
+	"ee": ["http://dx.doi.org/10.1109/CGO.2007.29", "http://doi.ieeecomputersociety.org/10.1109/CGO.2007.29", "http://dl.acm.org/citation.cfm?id=1252532"],
 	"pages": "74-88",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"persist",
-		"code",
-		"cach",
-		"exploit",
-		"code",
-		"reus",
-		"across",
-		"execut",
-		"and",
-		"applic"
-	],
-	"tag": [
-		"persistent",
-		"reuse"
-	],
+	"stemmed": ["persist", "code", "cach", "exploit", "code", "reus", "across", "execut", "and", "applic"],
+	"tag": ["persistent", "reuse"],
 	"title": "Persistent Code Caching: Exploiting Code Reuse Across Executions and Applications",
 	"type": "inproceedings",
 	"venue": "CGO",

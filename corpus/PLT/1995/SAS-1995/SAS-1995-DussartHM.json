@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Dirk Dussart",
-		"Fritz Henglein",
-		"Christian Mossin"
-	],
+	"author": ["Dirk Dussart", "Fritz Henglein", "Christian Mossin"],
 	"booktitle": "Proceedings of the Second International Static Analysis Symposium",
 	"booktitleshort": "SAS",
 	"crossref": "conf/sas/95",
@@ -15,30 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"polymorph",
-		"recurs",
-		"and",
-		"subtyp",
-		"qualif",
-		"polymorph",
-		"bind",
-		"time",
-		"analysi",
-		"in",
-		"polynomi",
-		"time"
-	],
-	"tag": [
-		"analysis",
-		"polymorphism",
-		"polynomial",
-		"recursion",
-		"type system"
-	],
+	"stemmed": ["polymorph", "recurs", "and", "subtyp", "qualif", "polymorph", "bind", "time", "analysi", "in", "polynomi", "time"],
+	"tag": ["analysis", "polymorphism", "polynomial", "recursion", "type system"],
 	"title": "Polymorphic Recursion and Subtype Qualifications: Polymorphic Binding-Time Analysis in Polynomial Time",
 	"type": "inproceedings",
 	"venue": "SAS",
-	"volume": "983",
+	"volume": 983,
 	"year": 1995
 }

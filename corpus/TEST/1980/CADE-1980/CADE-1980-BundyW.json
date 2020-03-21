@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Alan Bundy",
-		"Bob Welham"
-	],
+	"author": ["Alan Bundy", "Bob Welham"],
 	"booktitle": "Proceedings of the Fifth International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1980",
@@ -14,30 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"use",
-		"meta",
-		"level",
-		"infer",
-		"for",
-		"select",
-		"applic",
-		"of",
-		"multipl",
-		"rewrit",
-		"rule",
-		"in",
-		"algebra",
-		"manipul"
-	],
-	"tag": [
-		"algebra",
-		"multi",
-		"using"
-	],
+	"stemmed": ["use", "meta", "level", "infer", "for", "select", "applic", "of", "multipl", "rewrit", "rule", "in", "algebra", "manipul"],
+	"tag": ["algebra", "multi", "using"],
 	"title": "Using Meta-Level Inference for Selective Application of Multiple Rewrite Rules in Algebraic Manipulation",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "87",
+	"volume": 87,
 	"year": 1980
 }

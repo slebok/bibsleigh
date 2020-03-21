@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Jane Hesketh",
-		"Alan Bundy",
-		"Alan Smaill"
-	],
+	"author": ["Jane Hesketh", "Alan Bundy", "Alan Smaill"],
 	"booktitle": "Proceedings of the 11th International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/1992",
@@ -15,30 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"use",
-		"middl",
-		"out",
-		"reason",
-		"to",
-		"control",
-		"the",
-		"synthesi",
-		"of",
-		"tail",
-		"recurs",
-		"program"
-	],
-	"tag": [
-		"reasoning",
-		"recursion",
-		"source code",
-		"synthesis",
-		"using"
-	],
+	"stemmed": ["use", "middl", "out", "reason", "to", "control", "the", "synthesi", "of", "tail", "recurs", "program"],
+	"tag": ["reasoning", "recursion", "source code", "synthesis", "using"],
 	"title": "Using Middle-Out Reasoning to Control the Synthesis of Tail-Recursive Programs",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "607",
+	"volume": 607,
 	"year": 1992
 }

@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Lu Fang",
-		"Liang Dou",
-		"Guoqing (Harry) Xu"
-	],
+	"author": ["Lu Fang", "Liang Dou", "Guoqing (Harry) Xu"],
 	"booktitle": "Proceedings of the 29th European Conference on Object-Oriented Programming",
 	"booktitleshort": "ECOOP",
 	"crossref": "conf/ecoop/2015",
@@ -15,27 +11,11 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": [
-		"perf",
-		"blower",
-		"quick",
-		"detect",
-		"memori",
-		"relat",
-		"perform",
-		"problem",
-		"via",
-		"amplif"
-	],
-	"tag": [
-		"detection",
-		"named",
-		"performance",
-		"problem"
-	],
+	"stemmed": ["perf", "blower", "quick", "detect", "memori", "relat", "perform", "problem", "via", "amplif"],
+	"tag": ["detection", "named", "performance", "problem"],
 	"title": "PerfBlower: Quickly Detecting Memory-Related Performance Problems via Amplification",
 	"type": "inproceedings",
 	"venue": "ECOOP",
-	"volume": "37",
+	"volume": 37,
 	"year": 2015
 }

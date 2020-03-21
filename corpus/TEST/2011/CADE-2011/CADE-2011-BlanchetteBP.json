@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Jasmin Christian Blanchette",
-		"Sascha Böhme",
-		"Lawrence C. Paulson"
-	],
+	"author": ["Jasmin Christian Blanchette", "Sascha Böhme", "Lawrence C. Paulson"],
 	"booktitle": "Proceedings of the 23rd International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2011",
@@ -15,19 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"extend",
-		"sledgehamm",
-		"with",
-		"smt",
-		"solver"
-	],
-	"tag": [
-		"smt"
-	],
+	"stemmed": ["extend", "sledgehamm", "with", "smt", "solver"],
+	"tag": ["smt"],
 	"title": "Extending Sledgehammer with SMT Solvers",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "6803",
+	"volume": 6803,
 	"year": 2011
 }

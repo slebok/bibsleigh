@@ -1,35 +1,13 @@
 {
-	"address": [
-		"Cincinnati",
-		"Ohio",
-		"USA"
-	],
-	"author": [
-		"Fadi A. Aloul",
-		"Arathi Ramani",
-		"Igor Markov",
-		"Karem Sakallah"
-	],
+	"address": ["Cincinnati", "Ohio", "USA"],
+	"author": ["Fadi A. Aloul", "Arathi Ramani", "Igor Markov", "Karem Sakallah"],
 	"booktitle": "Proceedings of the Fifth International Symposium on the Theory and Applications of Satisfiability Testing",
 	"booktitleshort": "SAT",
 	"editor": "John Franco",
 	"month": "may",
-	"pages": "37",
-	"stemmed": [
-		"pbs",
-		"a",
-		"backtrack",
-		"search",
-		"psuedo",
-		"boolean",
-		"solver",
-		"and",
-		"optim"
-	],
-	"tag": [
-		"backtracking",
-		"named"
-	],
+	"pages": 37,
+	"stemmed": ["pbs", "a", "backtrack", "search", "psuedo", "boolean", "solver", "and", "optim"],
+	"tag": ["backtracking", "named"],
 	"title": "PBS: A backtrack-search psuedo-Boolean solver and optimizer",
 	"type": "inproceedings",
 	"venue": "SAT",

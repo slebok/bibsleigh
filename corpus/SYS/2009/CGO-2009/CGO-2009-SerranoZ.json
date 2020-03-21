@@ -1,35 +1,17 @@
 {
-	"acmid": "1545072",
-	"author": [
-		"Mauricio J. Serrano",
-		"Xiaotong Zhuang"
-	],
+	"acmid": 1545072,
+	"author": ["Mauricio J. Serrano", "Xiaotong Zhuang"],
 	"booktitle": "Proceedings of the Seventh International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2009",
 	"dblpkey": "conf/cgo/SerranoZ09",
 	"doi": "10.1109/CGO.2009.12",
-	"ee": [
-		"http://dx.doi.org/10.1109/CGO.2009.12",
-		"http://doi.ieeecomputersociety.org/10.1109/CGO.2009.12",
-		"http://dl.acm.org/citation.cfm?id=1545072"
-	],
+	"ee": ["http://dx.doi.org/10.1109/CGO.2009.12", "http://doi.ieeecomputersociety.org/10.1109/CGO.2009.12", "http://dl.acm.org/citation.cfm?id=1545072"],
 	"pages": "221-230",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"build",
-		"approxim",
-		"call",
-		"context",
-		"from",
-		"partial",
-		"call",
-		"trace"
-	],
-	"tag": [
-		"approximate"
-	],
+	"stemmed": ["build", "approxim", "call", "context", "from", "partial", "call", "trace"],
+	"tag": ["approximate"],
 	"title": "Building Approximate Calling Context from Partial Call Traces",
 	"type": "inproceedings",
 	"venue": "CGO",

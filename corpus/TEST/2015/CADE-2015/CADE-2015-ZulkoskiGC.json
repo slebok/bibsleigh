@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Edward Zulkoski",
-		"Vijay Ganesh",
-		"Krzysztof Czarnecki"
-	],
+	"author": ["Edward Zulkoski", "Vijay Ganesh", "Krzysztof Czarnecki"],
 	"booktitle": "Proceedings of the 25th International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2015",
@@ -15,31 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"math",
-		"check",
-		"a",
-		"math",
-		"assist",
-		"via",
-		"a",
-		"combin",
-		"of",
-		"comput",
-		"algebra",
-		"system",
-		"and",
-		"sat",
-		"solver"
-	],
-	"tag": [
-		"algebra",
-		"named",
-		"satisfiability"
-	],
+	"stemmed": ["math", "check", "a", "math", "assist", "via", "a", "combin", "of", "comput", "algebra", "system", "and", "sat", "solver"],
+	"tag": ["algebra", "named", "satisfiability"],
 	"title": "MathCheck: A Math Assistant via a Combination of Computer Algebra Systems and SAT Solvers",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "9195",
+	"volume": 9195,
 	"year": 2015
 }

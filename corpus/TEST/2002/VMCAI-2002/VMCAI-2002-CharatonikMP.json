@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Witold Charatonik",
-		"Supratik Mukhopadhyay",
-		"Andreas Podelski"
-	],
+	"author": ["Witold Charatonik", "Supratik Mukhopadhyay", "Andreas Podelski"],
 	"booktitle": "Proceedings of the Third International Workshop on Verification, Model Checking and Abstract Interpretation",
 	"booktitleshort": "VMCAI",
 	"crossref": "conf/vmcai/2002",
@@ -15,23 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"composit",
-		"termin",
-		"analysi",
-		"of",
-		"symbol",
-		"forward",
-		"analysi"
-	],
-	"tag": [
-		"analysis",
-		"composition",
-		"termination"
-	],
+	"stemmed": ["composit", "termin", "analysi", "of", "symbol", "forward", "analysi"],
+	"tag": ["analysis", "composition", "termination"],
 	"title": "Compositional Termination Analysis of Symbolic Forward Analysis",
 	"type": "inproceedings",
 	"venue": "VMCAI",
-	"volume": "2294",
+	"volume": 2294,
 	"year": 2002
 }

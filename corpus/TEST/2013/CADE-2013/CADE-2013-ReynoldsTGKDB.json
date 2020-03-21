@@ -1,12 +1,5 @@
 {
-	"author": [
-		"Andrew Reynolds",
-		"Cesare Tinelli",
-		"Amit Goel",
-		"Sava Krstic",
-		"Morgan Deters",
-		"Clark Barrett"
-	],
+	"author": ["Andrew Reynolds", "Cesare Tinelli", "Amit Goel", "Sava Krstic", "Morgan Deters", "Clark Barrett"],
 	"booktitle": "Proceedings of the 24th International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2013",
@@ -18,25 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"quantifi",
-		"instanti",
-		"techniqu",
-		"for",
-		"finit",
-		"model",
-		"find",
-		"in",
-		"smt"
-	],
-	"tag": [
-		"finite",
-		"quantifier",
-		"smt"
-	],
+	"stemmed": ["quantifi", "instanti", "techniqu", "for", "finit", "model", "find", "in", "smt"],
+	"tag": ["finite", "quantifier", "smt"],
 	"title": "Quantifier Instantiation Techniques for Finite Model Finding in SMT",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "7898",
+	"volume": 7898,
 	"year": 2013
 }

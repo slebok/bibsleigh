@@ -1,35 +1,17 @@
 {
-	"acmid": "2738610",
-	"author": [
-		"Byron Hawkins",
-		"Brian Demsky",
-		"Derek Bruening",
-		"Qin Zhao"
-	],
+	"acmid": 2738610,
+	"author": ["Byron Hawkins", "Brian Demsky", "Derek Bruening", "Qin Zhao"],
 	"booktitle": "Proceedings of the 13th International Symposium on Code Generation and Optimization",
 	"booktitleshort": "CGO",
 	"crossref": "conf/cgo/2015",
 	"dblpkey": "conf/cgo/HawkinsDBZ15",
 	"doi": "10.1109/CGO.2015.7054188",
-	"ee": [
-		"http://dx.doi.org/10.1109/CGO.2015.7054188",
-		"http://dl.acm.org/citation.cfm?id=2738610"
-	],
+	"ee": ["http://dx.doi.org/10.1109/CGO.2015.7054188", "http://dl.acm.org/citation.cfm?id=2738610"],
 	"pages": "68-78",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"optim",
-		"binari",
-		"translat",
-		"of",
-		"dynam",
-		"generat",
-		"code"
-	],
-	"tag": [
-		"optimisation"
-	],
+	"stemmed": ["optim", "binari", "translat", "of", "dynam", "generat", "code"],
+	"tag": ["optimisation"],
 	"title": "Optimizing binary translation of dynamically generated code",
 	"type": "inproceedings",
 	"venue": "CGO",

@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Michael Jackson",
-		"Helen Lowe"
-	],
+	"author": ["Michael Jackson", "Helen Lowe"],
 	"booktitle": "Proceedings of the 17th International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2000",
@@ -14,23 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"system",
-		"descript",
-		"interact",
-		"proof",
-		"critic",
-		"in",
-		"x",
-		"barnacl"
-	],
-	"tag": [
-		"interactive",
-		"proving"
-	],
+	"stemmed": ["system", "descript", "interact", "proof", "critic", "in", "x", "barnacl"],
+	"tag": ["interactive", "proving"],
 	"title": "System Description: Interactive Proof Critics in XBarnacle",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "1831",
+	"volume": 1831,
 	"year": 2000
 }

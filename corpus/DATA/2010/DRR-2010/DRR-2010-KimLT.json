@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Jongwoo Kim",
-		"Daniel X. Le",
-		"George R. Thoma"
-	],
+	"author": ["Jongwoo Kim", "Daniel X. Le", "George R. Thoma"],
 	"booktitle": "Proceedings of the 17th Conference on Document Recognition and Retrieval",
 	"booktitleshort": "DRR",
 	"crossref": "conf/drr/2010",
@@ -13,31 +9,11 @@
 	"pages": "1-10",
 	"publisher": "SPIE",
 	"series": "SPIE Proceedings",
-	"stemmed": [
-		"naïv",
-		"bay",
-		"and",
-		"svm",
-		"classifi",
-		"for",
-		"classifi",
-		"databank",
-		"access",
-		"number",
-		"sentenc",
-		"from",
-		"onlin",
-		"biomed",
-		"articl"
-	],
-	"tag": [
-		"classification",
-		"naive bayes",
-		"online"
-	],
+	"stemmed": ["naïv", "bay", "and", "svm", "classifi", "for", "classifi", "databank", "access", "number", "sentenc", "from", "onlin", "biomed", "articl"],
+	"tag": ["classification", "naive bayes", "online"],
 	"title": "Naïve Bayes and SVM classifiers for classifying databank accession number sentences from online biomedical articles",
 	"type": "inproceedings",
 	"venue": "DRR",
-	"volume": "7534",
+	"volume": 7534,
 	"year": 2010
 }

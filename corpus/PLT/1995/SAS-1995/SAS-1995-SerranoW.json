@@ -1,8 +1,5 @@
 {
-	"author": [
-		"Manuel Serrano",
-		"Pierre Weis"
-	],
+	"author": ["Manuel Serrano", "Pierre Weis"],
 	"booktitle": "Proceedings of the Second International Static Analysis Symposium",
 	"booktitleshort": "SAS",
 	"crossref": "conf/sas/95",
@@ -14,28 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"bigloo",
-		"a",
-		"portabl",
-		"and",
-		"optim",
-		"compil",
-		"for",
-		"strict",
-		"function",
-		"languag"
-	],
-	"tag": [
-		"compilation",
-		"functional",
-		"named",
-		"optimisation",
-		"strict"
-	],
+	"stemmed": ["bigloo", "a", "portabl", "and", "optim", "compil", "for", "strict", "function", "languag"],
+	"tag": ["compilation", "functional", "named", "optimisation", "strict"],
 	"title": "Bigloo: A Portable and Optimizing Compiler for Strict Functional Languages",
 	"type": "inproceedings",
 	"venue": "SAS",
-	"volume": "983",
+	"volume": 983,
 	"year": 1995
 }

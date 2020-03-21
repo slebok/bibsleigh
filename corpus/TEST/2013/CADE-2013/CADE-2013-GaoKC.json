@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Sicun Gao",
-		"Soonho Kong",
-		"Edmund M. Clarke"
-	],
+	"author": ["Sicun Gao", "Soonho Kong", "Edmund M. Clarke"],
 	"booktitle": "Proceedings of the 24th International Conference on Automated Deduction",
 	"booktitleshort": "CADE",
 	"crossref": "conf/cade/2013",
@@ -15,25 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"dreal",
-		"an",
-		"smt",
-		"solver",
-		"for",
-		"nonlinear",
-		"theori",
-		"over",
-		"the",
-		"real"
-	],
-	"tag": [
-		"named",
-		"smt"
-	],
+	"stemmed": ["dreal", "an", "smt", "solver", "for", "nonlinear", "theori", "over", "the", "real"],
+	"tag": ["named", "smt"],
 	"title": "dReal: An SMT Solver for Nonlinear Theories over the Reals",
 	"type": "inproceedings",
 	"venue": "CADE",
-	"volume": "7898",
+	"volume": 7898,
 	"year": 2013
 }

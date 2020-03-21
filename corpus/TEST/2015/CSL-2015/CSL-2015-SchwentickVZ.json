@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Thomas Schwentick",
-		"Nils Vortmeier",
-		"Thomas Zeume"
-	],
+	"author": ["Thomas Schwentick", "Nils Vortmeier", "Thomas Zeume"],
 	"booktitle": "24th EACSL Annual Conference on Computer Science Logic, CSL 2015, September 7-10, 2015, Berlin, Germany",
 	"booktitleshort": "CSL",
 	"crossref": "conf/csl/2015",
@@ -15,22 +11,11 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": [
-		"static",
-		"analysi",
-		"for",
-		"logic",
-		"base",
-		"dynam",
-		"program"
-	],
-	"tag": [
-		"source code",
-		"static analysis"
-	],
+	"stemmed": ["static", "analysi", "for", "logic", "base", "dynam", "program"],
+	"tag": ["source code", "static analysis"],
 	"title": "Static Analysis for Logic-based Dynamic Programs",
 	"type": "inproceedings",
 	"venue": "CSL",
-	"volume": "41",
+	"volume": 41,
 	"year": 2015
 }

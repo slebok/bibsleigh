@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Bart Jacobs",
-		"Dragan Bošnački",
-		"Ruurd Kuiper"
-	],
+	"author": ["Bart Jacobs", "Dragan Bošnački", "Ruurd Kuiper"],
 	"booktitle": "Proceedings of the 29th European Conference on Object-Oriented Programming",
 	"booktitleshort": "ECOOP",
 	"crossref": "conf/ecoop/2015",
@@ -15,19 +11,11 @@
 	"publishershort": "Dagstuhl",
 	"series": "Leibniz International Proceedings in Informatics",
 	"seriesshort": "LIPIcs",
-	"stemmed": [
-		"modular",
-		"termin",
-		"verif"
-	],
-	"tag": [
-		"composition",
-		"termination",
-		"verification"
-	],
+	"stemmed": ["modular", "termin", "verif"],
+	"tag": ["composition", "termination", "verification"],
 	"title": "Modular Termination Verification",
 	"type": "inproceedings",
 	"venue": "ECOOP",
-	"volume": "37",
+	"volume": 37,
 	"year": 2015
 }

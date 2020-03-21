@@ -1,9 +1,5 @@
 {
-	"author": [
-		"Magnus Nordin",
-		"Thomas Lindgren",
-		"Håkan Millroth"
-	],
+	"author": ["Magnus Nordin", "Thomas Lindgren", "Håkan Millroth"],
 	"booktitle": "Proceedings of the Second International Static Analysis Symposium",
 	"booktitleshort": "SAS",
 	"crossref": "conf/sas/95",
@@ -15,24 +11,11 @@
 	"publishershort": "Springer",
 	"series": "Lecture Notes in Computer Science",
 	"seriesshort": "LNCS",
-	"stemmed": [
-		"igor",
-		"a",
-		"tool",
-		"for",
-		"develop",
-		"prolog",
-		"dataflow",
-		"analyz"
-	],
-	"tag": [
-		"data flow",
-		"named",
-		"prolog"
-	],
+	"stemmed": ["igor", "a", "tool", "for", "develop", "prolog", "dataflow", "analyz"],
+	"tag": ["data flow", "named", "prolog"],
 	"title": "IGOR: A Tool for Developing Prolog Dataflow Analyzers",
 	"type": "inproceedings",
 	"venue": "SAS",
-	"volume": "983",
+	"volume": 983,
 	"year": 1995
 }
