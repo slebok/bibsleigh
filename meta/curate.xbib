@@ -37,6 +37,11 @@ when journal =^= journalshort
 -- Normalise known names
 when journal == Theor._Comput._Sci.
 	assign Theoretical_Computer_Science
+when journal == Electron._Notes_Theor._Comput._Sci.
+	assign Electronic_Notes_in_Theoretical_Computer_Science
+when no journalshort
+	when journal == Electronic_Notes_in_Theoretical_Computer_Science
+		add journalshort ENTCS
 when no journalshort
 	when journal == Electronic_Communications_of_the_EASST
 		add journalshort ECEASST
