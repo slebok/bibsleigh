@@ -1,7 +1,9 @@
 {
 	"address": ["St. Louis", "Missouri", "USA"],
 	"dblpkey": "conf/amost/2005",
-	"isbn": "1-59593-115-5",
+	"doi": ["https://doi.org/10.1145/1062455.1062606", "10.1145/1083274"],
+	"editor": ["Siddhartha Dalal", "Ashish Jain", "Jesse H. Poore"],
+	"isbn": "978-1-59593-115-3",
 	"publisher": "ACM",
 	"tagged": [["testing", 13],
 		["modelling", 8],
@@ -15,6 +17,6 @@
 	"title": "Proceedings of the First Workshop on Advances in Model-Based Software Testing",
 	"titleshort": "A-MOST",
 	"type": "proceedings",
-	"venue": "AMOST",
+	"venue": "A-MOST",
 	"year": 2005
 }
