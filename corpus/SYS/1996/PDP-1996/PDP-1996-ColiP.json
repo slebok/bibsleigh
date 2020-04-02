@@ -1,39 +1,14 @@
 {
-	"author": [
-		"Moreno Coli",
-		"Paolo Palazzari"
-	],
-	"booktitle": "Proceedings of the 4th Euromicro Workshop on Parallel and Distributed Processing",
+	"author": ["Moreno Coli", "Paolo Palazzari"],
+	"booktitle": "Proceedings of the Fourth Euromicro Workshop on Parallel and Distributed Processing",
 	"booktitleshort": "PDP",
 	"crossref": "conf/pdp/1996",
 	"dblpkey": "conf/pdp/ColiP96",
 	"doi": "10.1109/EMPDP.1996.500594",
 	"pages": "252-257",
 	"publisher": "IEEE Computer Society",
-	"stemmed": [
-		"load",
-		"balanc",
-		"with",
-		"internod",
-		"preced",
-		"relat",
-		"a",
-		"new",
-		"method",
-		"for",
-		"static",
-		"alloc",
-		"of",
-		"dag",
-		"into",
-		"parallel",
-		"system"
-	],
-	"tag": [
-		"graph",
-		"parallel",
-		"precedence"
-	],
+	"stemmed": ["load", "balanc", "with", "internod", "preced", "relat", "a", "new", "method", "for", "static", "alloc", "of", "dag", "into", "parallel", "system"],
+	"tag": ["graph", "parallel", "precedence"],
 	"title": "Load Balancing with Internode Precedence Relations: A New Method for Static Allocation of DAGs into Parallel Systems",
 	"type": "inproceedings",
 	"venue": "PDP",
