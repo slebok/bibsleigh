@@ -42,8 +42,9 @@ for each
 when booktitle
 	when no booktitleshort
 		inherit titleshort
-when booktitle =^= titleshort
-	inherit title
+when no title
+	when booktitle =^= titleshort
+		inherit title
 when journal =^= journalshort
 	inherit journal
 
