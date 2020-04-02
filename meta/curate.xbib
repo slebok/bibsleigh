@@ -7,10 +7,6 @@ use the force
 -- If a paper has no venue, inherit from the conference
 when no venue
 	inherit venue
-when no journal
-	when booktitleshort
-		when no booktitle
-			inherit title
 
 -- Useless unclickable value, legacy of DBLP importing
 for each
@@ -42,7 +38,14 @@ for each
 	when acmid =~ https://dl.acm.org/citation.cfm?id=
 		truncate left 35
 
+-- Drop booktitle if it's useless
+when booktitle == $booktitleshort
+	remove booktitle
 -- Inherit good booktitle
+when no journal
+	when booktitleshort
+		when no booktitle
+			inherit title
 when booktitle
 	when no booktitleshort
 		inherit titleshort
