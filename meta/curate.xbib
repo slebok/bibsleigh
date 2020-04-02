@@ -143,6 +143,11 @@ when no seriesshort
 when no seriesshort
 	when series == Leibniz_International_Proceedings_in_Informatics
 		add seriesshort LIPIcs
+when publisher == International_Educational_Data_Mining_Society_(IEDMS)
+	truncate right 8
+when no publishershort 
+	when publisher == International_Educational_Data_Mining_Society
+		add publishershort IEDMS
 
 -- Specific to venues!
 when booktitle
