@@ -1,13 +1,13 @@
 {
 	"author": ["Tamás Szabó", "Gábor Bergmann", "Sebastian Erdweg", "Markus Voelter"],
 	"dblpkey": "journals/pacmpl/SzaboBEV18",
-	"ee": "https://doi.org/10.1145/3276509",
-	"journal": "PACMPL",
+	"doi": "10.1145/3276509",
+	"journal": ["PACMPL", "Proceedings of the ACM on Programming Languages"],
 	"number": "OOPSLA",
 	"pages": "139:1-139:29",
 	"title": "Incrementalizing lattice-based program analyses in Datalog",
 	"type": "article",
-	"url": "db/journals/pacmpl/pacmpl2.html#SzaboBEV18",
-	"volume": "2",
-	"year": "2018"
+	"venue": "OOPSLA",
+	"volume": 2,
+	"year": 2018
 }

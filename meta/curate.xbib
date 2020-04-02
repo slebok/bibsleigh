@@ -7,6 +7,10 @@ use the force
 -- If a paper has no venue, inherit from the conference
 when no venue
 	inherit venue
+--when no journal
+--	when booktitleshort
+--		when no booktitle
+--			inherit title
 
 -- Useless unclickable value, legacy of DBLP importing
 for each

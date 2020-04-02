@@ -1,13 +1,13 @@
 {
 	"author": ["Tiago Cogumbreiro", "Rishi Surendran", "Francisco Martins", "Vivek Sarkar", "Vasco T. Vasconcelos", "Max Grossman"],
 	"dblpkey": "journals/pacmpl/CogumbreiroSMSV17",
-	"ee": "https://doi.org/10.1145/3143359",
-	"journal": "PACMPL",
+	"doi": "10.1145/3143359",
+	"journal": ["PACMPL", "Proceedings of the ACM on Programming Languages"],
 	"number": "OOPSLA",
 	"pages": "103:1-103:26",
 	"title": "Deadlock avoidance in parallel programs with futures: why parallel tasks should not wait for strangers",
 	"type": "article",
-	"url": "db/journals/pacmpl/pacmpl1.html#CogumbreiroSMSV17",
-	"volume": "1",
-	"year": "2017"
+	"venue": "OOPSLA",
+	"volume": 1,
+	"year": 2017
 }
