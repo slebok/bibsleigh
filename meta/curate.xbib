@@ -62,6 +62,10 @@ when journal == Electron._Notes_Theor._Comput._Sci.
 	assign Electronic_Notes_in_Theoretical_Computer_Science
 when journal == JSAT
 	assign Journal_on_Satisfiability,_Boolean_Modeling_and_Computation
+when series == LNCS
+	assign Lecture_Notes_in_Computer_Science
+when series == LIPIcs
+	assign Leibniz_International_Proceedings_in_Informatics
 when journal == PACMPL
 	assign Proceedings_of_the_ACM_on_Programming_Languages
 when journal == PVLDB
@@ -83,6 +87,9 @@ when no journalshort
 when no seriesshort
 	when series == Lecture_Notes_in_Computer_Science
 		add seriesshort LNCS
+when no seriesshort
+	when series == Leibniz_International_Proceedings_in_Informatics
+		add seriesshort LIPIcs
 when no journalshort
 	when journal == Proceedings_of_the_ACM_on_Programming_Languages
 		add journalshort PACMPL
@@ -126,6 +133,16 @@ when journal == ECEASST
 when no journalshort
 	when journal == Electronic_Communications_of_the_EASST
 		add journalshort ECEASST
+when series == LNCS
+	assign Lecture_Notes_in_Computer_Science
+when series == LIPIcs
+	assign Leibniz_International_Proceedings_in_Informatics
+when no seriesshort
+	when series == Lecture_Notes_in_Computer_Science
+		add seriesshort LNCS
+when no seriesshort
+	when series == Leibniz_International_Proceedings_in_Informatics
+		add seriesshort LIPIcs
 
 -- Specific to venues!
 when booktitle
