@@ -1,37 +1,15 @@
 {
-	"author": [
-		"João Guerreiro",
-		"Aleksandar Ilic",
-		"Nuno Roma",
-		"Pedro Tomás"
-	],
+	"author": ["João Guerreiro", "Aleksandar Ilic", "Nuno Roma", "Pedro Tomás"],
 	"booktitle": "Proceedings of the 23rd Euromicro International Conference on Parallel, Distributed, and Network-Based Processing",
 	"booktitleshort": "PDP",
 	"crossref": "conf/pdp/2015",
 	"dblpkey": "conf/pdp/GuerreiroIRT15",
 	"doi": "10.1109/PDP.2015.44",
+	"isbn": "978-1-4799-8491-6",
 	"pages": "438-445",
 	"publisher": "IEEE",
-	"stemmed": [
-		"multi",
-		"kernel",
-		"auto",
-		"tune",
-		"on",
-		"gpus",
-		"perform",
-		"and",
-		"energi",
-		"awar",
-		"optim"
-	],
-	"tag": [
-		"energy",
-		"kernel",
-		"multi",
-		"optimisation",
-		"performance"
-	],
+	"stemmed": ["multi", "kernel", "auto", "tune", "on", "gpus", "perform", "and", "energi", "awar", "optim"],
+	"tag": ["energy", "kernel", "multi", "optimisation", "performance"],
 	"title": "Multi-kernel Auto-Tuning on GPUs: Performance and Energy-Aware Optimization",
 	"type": "inproceedings",
 	"venue": "PDP",

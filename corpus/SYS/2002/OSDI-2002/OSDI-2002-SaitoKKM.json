@@ -1,34 +1,16 @@
 {
-	"author": [
-		"Yasushi Saito",
-		"Christos T. Karamanolis",
-		"Magnus Karlsson",
-		"Mallik Mahalingam"
-	],
+	"author": ["Yasushi Saito", "Christos T. Karamanolis", "Magnus Karlsson", "Mallik Mahalingam"],
 	"booktitle": "Proceedings of the Fifth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2002",
 	"dblpkey": "conf/osdi/SaitoKKM02",
 	"doi": "10.1145/1060289.1060292",
 	"ee": "http://www.usenix.org/events/osdi02/tech/saito.html",
+	"isbn": "978-1-4503-0111-4",
 	"pages": "15-30",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"tame",
-		"aggress",
-		"replic",
-		"in",
-		"the",
-		"pangaea",
-		"wide",
-		"area",
-		"file",
-		"system"
-	],
-	"tag": [
-		"file system",
-		"replication"
-	],
+	"stemmed": ["tame", "aggress", "replic", "in", "the", "pangaea", "wide", "area", "file", "system"],
+	"tag": ["file system", "replication"],
 	"title": "Taming Aggressive Replication in the Pangaea Wide-Area File System",
 	"type": "inproceedings",
 	"venue": "OSDI",

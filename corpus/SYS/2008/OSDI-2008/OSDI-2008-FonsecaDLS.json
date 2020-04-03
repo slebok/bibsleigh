@@ -1,31 +1,15 @@
 {
-	"author": [
-		"Rodrigo Fonseca",
-		"Prabal Dutta",
-		"Philip Levis",
-		"Ion Stoica"
-	],
+	"author": ["Rodrigo Fonseca", "Prabal Dutta", "Philip Levis", "Ion Stoica"],
 	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/FonsecaDLS08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/fonseca/fonseca.pdf",
+	"isbn": "978-1-931971-65-2",
 	"pages": "323-338",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"quanto",
-		"track",
-		"energi",
-		"in",
-		"network",
-		"embed",
-		"system"
-	],
-	"tag": [
-		"embedded",
-		"energy",
-		"named"
-	],
+	"stemmed": ["quanto", "track", "energi", "in", "network", "embed", "system"],
+	"tag": ["embedded", "energy", "named"],
 	"title": "Quanto: Tracking Energy in Networked Embedded Systems",
 	"type": "inproceedings",
 	"venue": "OSDI",

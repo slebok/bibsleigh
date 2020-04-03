@@ -1,29 +1,14 @@
 {
-	"author": [
-		"Nesime Tatbul",
-		"Ugur Çetintemel",
-		"Stanley B. Zdonik",
-		"Mitch Cherniack",
-		"Michael Stonebraker"
-	],
+	"author": ["Nesime Tatbul", "Ugur Çetintemel", "Stanley B. Zdonik", "Mitch Cherniack", "Michael Stonebraker"],
 	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/TatbulCZCS03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S10P03.pdf",
+	"isbn": "0-12-722442-4",
 	"pages": "309-320",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"load",
-		"shed",
-		"in",
-		"a",
-		"data",
-		"stream",
-		"manag"
-	],
-	"tag": [
-		"data type"
-	],
+	"stemmed": ["load", "shed", "in", "a", "data", "stream", "manag"],
+	"tag": ["data type"],
 	"title": "Load Shedding in a Data Stream Manager",
 	"type": "inproceedings",
 	"venue": "VLDB",

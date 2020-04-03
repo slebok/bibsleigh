@@ -1,43 +1,17 @@
 {
-	"author": [
-		"Feng Qin",
-		"Shan Lu",
-		"Yuanyuan Zhou"
-	],
+	"author": ["Feng Qin", "Shan Lu", "Yuanyuan Zhou"],
 	"booktitle": "Proceedings of the 11th International Conference on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2005",
 	"dblpkey": "conf/hpca/QinLZ05",
 	"doi": "10.1109/HPCA.2005.29",
-	"ee": [
-		"http://dx.doi.org/10.1109/HPCA.2005.29",
-		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2005.29"
-	],
+	"ee": ["http://dx.doi.org/10.1109/HPCA.2005.29", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2005.29"],
+	"isbn": "0-7695-2275-0",
 	"pages": "291-302",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"safe",
-		"mem",
-		"exploit",
-		"ecc",
-		"memori",
-		"for",
-		"detect",
-		"memori",
-		"leak",
-		"and",
-		"memori",
-		"corrupt",
-		"dure",
-		"product",
-		"run"
-	],
-	"tag": [
-		"detection",
-		"memory management",
-		"named"
-	],
+	"stemmed": ["safe", "mem", "exploit", "ecc", "memori", "for", "detect", "memori", "leak", "and", "memori", "corrupt", "dure", "product", "run"],
+	"tag": ["detection", "memory management", "named"],
 	"title": "SafeMem: Exploiting ECC-Memory for Detecting Memory Leaks and Memory Corruption During Production Runs",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,36 +1,15 @@
 {
-	"author": [
-		"Meikel Pöss",
-		"Raghunath Othayoth Nambiar"
-	],
+	"author": ["Meikel Pöss", "Raghunath Othayoth Nambiar"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/PoessO05",
 	"ee": "http://www.vldb2005.org/program/paper/tue/p1055-poess.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "1055-1066",
 	"publisher": "ACM",
-	"stemmed": [
-		"larg",
-		"scale",
-		"data",
-		"warehous",
-		"on",
-		"grid",
-		"oracl",
-		"databas",
-		"g",
-		"and",
-		"hp",
-		"pro",
-		"liant",
-		"system"
-	],
-	"tag": [
-		"database",
-		"grid",
-		"scalability"
-	],
+	"stemmed": ["larg", "scale", "data", "warehous", "on", "grid", "oracl", "databas", "g", "and", "hp", "pro", "liant", "system"],
+	"tag": ["database", "grid", "scalability"],
 	"title": "Large Scale Data Warehouses on Grid: Oracle Database 10g and HP ProLiant Systems",
 	"type": "inproceedings",
 	"venue": "VLDB",

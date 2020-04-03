@@ -1,30 +1,15 @@
 {
-	"author": [
-		"Christopher B. Colohan",
-		"Anastassia Ailamaki",
-		"J. Gregory Steffan",
-		"Todd C. Mowry"
-	],
+	"author": ["Christopher B. Colohan", "Anastassia Ailamaki", "J. Gregory Steffan", "Todd C. Mowry"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/ColohanASM05",
 	"ee": "http://www.vldb2005.org/program/paper/tue/p73-colohan.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "73-84",
 	"publisher": "ACM",
-	"stemmed": [
-		"optimist",
-		"intra",
-		"transact",
-		"parallel",
-		"on",
-		"chip",
-		"multiprocessor"
-	],
-	"tag": [
-		"parallel",
-		"transaction"
-	],
+	"stemmed": ["optimist", "intra", "transact", "parallel", "on", "chip", "multiprocessor"],
+	"tag": ["parallel", "transaction"],
 	"title": "Optimistic Intra-Transaction Parallelism on Chip Multiprocessors",
 	"type": "inproceedings",
 	"venue": "VLDB",

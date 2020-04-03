@@ -1,48 +1,16 @@
 {
-	"author": [
-		"Hiroshi Arisawa",
-		"Kunihiko Moriya",
-		"Takao Miura"
-	],
+	"author": ["Hiroshi Arisawa", "Kunihiko Moriya", "Takao Miura"],
 	"booktitle": "Proceedings of the Ninth International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"journals/cacm/Codd70",
-		"journals/tods/Fagin77",
-		"journals/tods/Chen76",
-		"books/cs/Ullman80",
-		"...",
-		"conf/vldb/Makinouchi77",
-		"conf/pods/JaeschkeS82",
-		"conf/vldb/SchekP82",
-		"...",
-		"conf/vldb/BeeriBG78",
-		"...",
-		"conf/er/Arisawa79",
-		"journals/tods/Bernstein76"
-	],
+	"cite": ["journals/cacm/Codd70", "journals/tods/Fagin77", "journals/tods/Chen76", "books/cs/Ullman80", "...", "conf/vldb/Makinouchi77", "conf/pods/JaeschkeS82", "conf/vldb/SchekP82", "...", "conf/vldb/BeeriBG78", "...", "conf/er/Arisawa79", "journals/tods/Bernstein76"],
 	"crossref": "conf/vldb/83",
 	"dblpkey": "conf/vldb/ArisawaMM83",
 	"ee": "http://www.vldb.org/conf/1983/P197.PDF",
+	"isbn": "0-934613-15-X",
 	"pages": "197-204",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"oper",
-		"and",
-		"the",
-		"properti",
-		"on",
-		"non",
-		"first",
-		"normal",
-		"form",
-		"relat",
-		"databas"
-	],
-	"tag": [
-		"database",
-		"relational"
-	],
+	"stemmed": ["oper", "and", "the", "properti", "on", "non", "first", "normal", "form", "relat", "databas"],
+	"tag": ["database", "relational"],
 	"title": "Operations and the Properties on Non-First-Normal-Form Relational Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

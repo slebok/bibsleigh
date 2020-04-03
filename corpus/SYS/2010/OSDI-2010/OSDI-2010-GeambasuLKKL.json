@@ -1,31 +1,15 @@
 {
-	"author": [
-		"Roxana Geambasu",
-		"Amit A. Levy",
-		"Tadayoshi Kohno",
-		"Arvind Krishnamurthy",
-		"Henry M. Levy"
-	],
+	"author": ["Roxana Geambasu", "Amit A. Levy", "Tadayoshi Kohno", "Arvind Krishnamurthy", "Henry M. Levy"],
 	"booktitle": "Proceedings of the Ninth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2010",
 	"dblpkey": "conf/osdi/GeambasuLKKL10",
 	"ee": "http://www.usenix.org/events/osdi10/tech/full_papers/Geambasu.pdf",
+	"isbn": "978-1-931971-79-9",
 	"pages": "323-336",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"comet",
-		"an",
-		"activ",
-		"distribut",
-		"key",
-		"valu",
-		"store"
-	],
-	"tag": [
-		"distributed",
-		"named"
-	],
+	"stemmed": ["comet", "an", "activ", "distribut", "key", "valu", "store"],
+	"tag": ["distributed", "named"],
 	"title": "Comet: An active distributed key-value store",
 	"type": "inproceedings",
 	"venue": "OSDI",

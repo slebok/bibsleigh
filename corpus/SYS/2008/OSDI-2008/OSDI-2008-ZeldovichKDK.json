@@ -1,35 +1,15 @@
 {
-	"author": [
-		"Nickolai Zeldovich",
-		"Hari Kannan",
-		"Michael Dalton",
-		"Christos Kozyrakis"
-	],
+	"author": ["Nickolai Zeldovich", "Hari Kannan", "Michael Dalton", "Christos Kozyrakis"],
 	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/ZeldovichKDK08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/zeldovich/zeldovich.pdf",
+	"isbn": "978-1-931971-65-2",
 	"pages": "225-240",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"hardwar",
-		"enforc",
-		"of",
-		"applic",
-		"secur",
-		"polici",
-		"use",
-		"tag",
-		"memori"
-	],
-	"tag": [
-		"hardware",
-		"memory management",
-		"policy",
-		"security",
-		"using"
-	],
+	"stemmed": ["hardwar", "enforc", "of", "applic", "secur", "polici", "use", "tag", "memori"],
+	"tag": ["hardware", "memory management", "policy", "security", "using"],
 	"title": "Hardware Enforcement of Application Security Policies Using Tagged Memory",
 	"type": "inproceedings",
 	"venue": "OSDI",

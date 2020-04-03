@@ -1,48 +1,16 @@
 {
-	"author": [
-		"Richard J. Lipton",
-		"Jeffrey F. Naughton"
-	],
+	"author": ["Richard J. Lipton", "Jeffrey F. Naughton"],
 	"booktitle": "Proceedings of the 15th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"conf/vldb/AgrawalJ87",
-		"conf/sigmod/Christodoulakis83",
-		"conf/vldb/Demolombe80",
-		"conf/pods/HouOT88",
-		"conf/vldb/Ioannidis86",
-		"conf/vldb/IoannidisR88",
-		"conf/sigmod/Ioannidis87",
-		"conf/vldb/KrishnamurthyBZ86",
-		"conf/icde/LuMR87",
-		"...",
-		"conf/vldb/Lu87",
-		"conf/vldb/Lynch88",
-		"conf/pods/Naughton87",
-		"conf/sigmod/NaughtonRSU89",
-		"conf/sigmod/Piatetsky-ShapiroC84",
-		"conf/sigmod/RosenthalHDM86",
-		"conf/sigmod/Rowe83",
-		"journals/ai/SmithG85",
-		"conf/sigmod/SwamiG88"
-	],
+	"cite": ["conf/vldb/AgrawalJ87", "conf/sigmod/Christodoulakis83", "conf/vldb/Demolombe80", "conf/pods/HouOT88", "conf/vldb/Ioannidis86", "conf/vldb/IoannidisR88", "conf/sigmod/Ioannidis87", "conf/vldb/KrishnamurthyBZ86", "conf/icde/LuMR87", "...", "conf/vldb/Lu87", "conf/vldb/Lynch88", "conf/pods/Naughton87", "conf/sigmod/NaughtonRSU89", "conf/sigmod/Piatetsky-ShapiroC84", "conf/sigmod/RosenthalHDM86", "conf/sigmod/Rowe83", "journals/ai/SmithG85", "conf/sigmod/SwamiG88"],
 	"crossref": "conf/vldb/89",
 	"dblpkey": "conf/vldb/LiptonN89",
 	"ee": "http://www.vldb.org/conf/1989/P165.PDF",
+	"isbn": "1-55860-101-5",
 	"pages": "165-171",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"estim",
-		"the",
-		"size",
-		"of",
-		"general",
-		"transit",
-		"closur"
-	],
-	"tag": [
-		"transitive"
-	],
+	"stemmed": ["estim", "the", "size", "of", "general", "transit", "closur"],
+	"tag": ["transitive"],
 	"title": "Estimating the Size of Generalized Transitive Closures",
 	"type": "inproceedings",
 	"venue": "VLDB",

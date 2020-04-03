@@ -1,36 +1,15 @@
 {
-	"author": [
-		"Ronald Fagin",
-		"Phokion G. Kolaitis",
-		"Ravi Kumar",
-		"Jasmine Novak",
-		"D. Sivakumar",
-		"Andrew Tomkins"
-	],
+	"author": ["Ronald Fagin", "Phokion G. Kolaitis", "Ravi Kumar", "Jasmine Novak", "D. Sivakumar", "Andrew Tomkins"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/FaginKKNST05",
 	"ee": "http://www.vldb2005.org/program/paper/fri/p958-fagin.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "958-969",
 	"publisher": "ACM",
-	"stemmed": [
-		"effici",
-		"implement",
-		"of",
-		"larg",
-		"scale",
-		"multi",
-		"structur",
-		"databas"
-	],
-	"tag": [
-		"database",
-		"implementation",
-		"multi",
-		"performance",
-		"scalability"
-	],
+	"stemmed": ["effici", "implement", "of", "larg", "scale", "multi", "structur", "databas"],
+	"tag": ["database", "implementation", "multi", "performance", "scalability"],
 	"title": "Efficient Implementation of Large-Scale Multi-Structural Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,39 +1,17 @@
 {
-	"author": [
-		"Seth H. Pugsley",
-		"Zeshan Chishti",
-		"Chris Wilkerson",
-		"Peng-fei Chuang",
-		"Robert L. Scott",
-		"Aamer Jaleel",
-		"Shih-Lien Lu",
-		"Kingsum Chow",
-		"Rajeev Balasubramonian"
-	],
+	"author": ["Seth H. Pugsley", "Zeshan Chishti", "Chris Wilkerson", "Peng-fei Chuang", "Robert L. Scott", "Aamer Jaleel", "Shih-Lien Lu", "Kingsum Chow", "Rajeev Balasubramonian"],
 	"booktitle": "Proceedings of the 20th International Symposium on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2014",
 	"dblpkey": "conf/hpca/PugsleyCWCSJLCB14",
 	"doi": "10.1109/HPCA.2014.6835971",
 	"ee": "http://dx.doi.org/10.1109/HPCA.2014.6835971",
+	"isbn": "978-1-4799-3097-5",
 	"pages": "626-637",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"sandbox",
-		"prefetch",
-		"safe",
-		"run",
-		"time",
-		"evalu",
-		"of",
-		"aggress",
-		"prefetch"
-	],
-	"tag": [
-		"evaluation",
-		"runtime"
-	],
+	"stemmed": ["sandbox", "prefetch", "safe", "run", "time", "evalu", "of", "aggress", "prefetch"],
+	"tag": ["evaluation", "runtime"],
 	"title": "Sandbox Prefetching: Safe run-time evaluation of aggressive prefetchers",
 	"type": "inproceedings",
 	"venue": "HPCA",

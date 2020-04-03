@@ -1,28 +1,15 @@
 {
-	"author": [
-		"Philip A. Bernstein",
-		"Sergey Melnik",
-		"Peter Mork"
-	],
+	"author": ["Philip A. Bernstein", "Sergey Melnik", "Peter Mork"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/BernsteinMM05",
 	"ee": "http://www.vldb.org/conf/2005/papers/p1283-bernstein.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "1283-1286",
 	"publisher": "ACM",
-	"stemmed": [
-		"interact",
-		"schema",
-		"translat",
-		"with",
-		"instanc",
-		"level",
-		"map"
-	],
-	"tag": [
-		"interactive"
-	],
+	"stemmed": ["interact", "schema", "translat", "with", "instanc", "level", "map"],
+	"tag": ["interactive"],
 	"title": "Interactive Schema Translation with Instance-Level Mappings",
 	"type": "inproceedings",
 	"venue": "VLDB",

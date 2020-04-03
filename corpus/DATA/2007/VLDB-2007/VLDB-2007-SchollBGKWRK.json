@@ -1,38 +1,15 @@
 {
-	"author": [
-		"Tobias Scholl",
-		"Bernhard Bauer",
-		"Benjamin Gufler",
-		"Richard Kuntschke",
-		"Daniel Weber",
-		"Angelika Reiser",
-		"Alfons Kemper"
-	],
+	"author": ["Tobias Scholl", "Bernhard Bauer", "Benjamin Gufler", "Richard Kuntschke", "Daniel Weber", "Angelika Reiser", "Alfons Kemper"],
 	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/SchollBGKWRK07",
 	"ee": "http://www.vldb.org/conf/2007/papers/demo/p1394-scholl.pdf",
+	"isbn": "978-1-59593-649-3",
 	"pages": "1394-1397",
 	"publisher": "ACM",
-	"stemmed": [
-		"hi",
-		"sbase",
-		"histogram",
-		"base",
-		"p",
-		"p",
-		"main",
-		"memori",
-		"data",
-		"manag"
-	],
-	"tag": [
-		"data transformation",
-		"in memory",
-		"memory management",
-		"named"
-	],
+	"stemmed": ["hi", "sbase", "histogram", "base", "p", "p", "main", "memori", "data", "manag"],
+	"tag": ["data transformation", "in memory", "memory management", "named"],
 	"title": "HiSbase: Histogram-based P2P Main Memory Data Management",
 	"type": "inproceedings",
 	"venue": "VLDB",

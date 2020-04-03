@@ -1,31 +1,15 @@
 {
-	"author": [
-		"Yanhua Mao",
-		"Flavio Paiva Junqueira",
-		"Keith Marzullo"
-	],
+	"author": ["Yanhua Mao", "Flavio Paiva Junqueira", "Keith Marzullo"],
 	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/MaoJM08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/mao/mao.pdf",
+	"isbn": "978-1-931971-65-2",
 	"pages": "369-384",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"mencius",
-		"build",
-		"effici",
-		"replic",
-		"state",
-		"machin",
-		"for",
-		"wan"
-	],
-	"tag": [
-		"named",
-		"performance",
-		"state machine"
-	],
+	"stemmed": ["mencius", "build", "effici", "replic", "state", "machin", "for", "wan"],
+	"tag": ["named", "performance", "state machine"],
 	"title": "Mencius: Building Efficient Replicated State Machine for WANs",
 	"type": "inproceedings",
 	"venue": "OSDI",

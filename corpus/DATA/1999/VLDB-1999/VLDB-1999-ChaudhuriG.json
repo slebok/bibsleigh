@@ -1,42 +1,16 @@
 {
-	"author": [
-		"Surajit Chaudhuri",
-		"Luis Gravano"
-	],
+	"author": ["Surajit Chaudhuri", "Luis Gravano"],
 	"booktitle": "Proceedings of the 25th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"conf/sigmod/CareyK97",
-		"conf/vldb/CareyK98",
-		"conf/sigmod/ChaudhuriG96",
-		"conf/pods/Fagin96",
-		"conf/pods/Fagin98",
-		"conf/vldb/GravanoG97",
-		"conf/vldb/KornSFSP96",
-		"conf/vldb/MengLYWCR98",
-		"journals/tois/Motro88",
-		"conf/sigmod/MuralikrishnaD88",
-		"conf/vldb/PoosalaI97",
-		"conf/sigmod/PoosalaIHS96",
-		"books/mg/SaltonG83",
-		"conf/sigmod/SeidlK98",
-		"books/aw/Zipf49"
-	],
+	"cite": ["conf/sigmod/CareyK97", "conf/vldb/CareyK98", "conf/sigmod/ChaudhuriG96", "conf/pods/Fagin96", "conf/pods/Fagin98", "conf/vldb/GravanoG97", "conf/vldb/KornSFSP96", "conf/vldb/MengLYWCR98", "journals/tois/Motro88", "conf/sigmod/MuralikrishnaD88", "conf/vldb/PoosalaI97", "conf/sigmod/PoosalaIHS96", "books/mg/SaltonG83", "conf/sigmod/SeidlK98", "books/aw/Zipf49"],
 	"crossref": "conf/vldb/99",
 	"dblpkey": "conf/vldb/ChaudhuriG99",
 	"ee": "http://www.vldb.org/conf/1999/P39.pdf",
+	"isbn": "1-55860-615-7",
 	"pages": "397-410",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"evalu",
-		"top",
-		"k",
-		"select",
-		"queri"
-	],
-	"tag": [
-		"query"
-	],
+	"stemmed": ["evalu", "top", "k", "select", "queri"],
+	"tag": ["query"],
 	"title": "Evaluating Top-k Selection Queries",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,36 +1,16 @@
 {
-	"author": [
-		"Amin Vahdat",
-		"Ken Yocum",
-		"Kevin Walsh",
-		"Priya Mahadevan",
-		"Dejan Kostic",
-		"Jeffrey S. Chase",
-		"David Becker"
-	],
+	"author": ["Amin Vahdat", "Ken Yocum", "Kevin Walsh", "Priya Mahadevan", "Dejan Kostic", "Jeffrey S. Chase", "David Becker"],
 	"booktitle": "Proceedings of the Fifth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2002",
 	"dblpkey": "conf/osdi/VahdatYWMKCB02",
 	"doi": "10.1145/1060289.1060315",
 	"ee": "http://www.usenix.org/events/osdi02/tech/vahdat.html",
+	"isbn": "978-1-4503-0111-4",
 	"pages": "271-284",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"scalabl",
-		"and",
-		"accuraci",
-		"in",
-		"a",
-		"larg",
-		"scale",
-		"network",
-		"emul"
-	],
-	"tag": [
-		"network",
-		"scalability"
-	],
+	"stemmed": ["scalabl", "and", "accuraci", "in", "a", "larg", "scale", "network", "emul"],
+	"tag": ["network", "scalability"],
 	"title": "Scalability and Accuracy in a Large-Scale Network Emulator",
 	"type": "inproceedings",
 	"venue": "OSDI",

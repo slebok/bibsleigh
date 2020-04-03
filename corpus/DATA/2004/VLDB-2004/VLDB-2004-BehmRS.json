@@ -1,26 +1,14 @@
 {
-	"author": [
-		"Andreas Behm",
-		"Serge Rielau",
-		"Richard Swagerman"
-	],
+	"author": ["Andreas Behm", "Serge Rielau", "Richard Swagerman"],
 	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/BehmRS04",
 	"ee": "http://www.vldb.org/conf/2004/IND1P1.PDF",
+	"isbn": "0-12-088469-0",
 	"pages": "987-997",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"return",
-		"modifi",
-		"row",
-		"select",
-		"statement",
-		"with",
-		"side",
-		"effect"
-	],
+	"stemmed": ["return", "modifi", "row", "select", "statement", "with", "side", "effect"],
 	"title": "Returning Modified Rows — SELECT Statements with Side Effects",
 	"type": "inproceedings",
 	"venue": "VLDB",

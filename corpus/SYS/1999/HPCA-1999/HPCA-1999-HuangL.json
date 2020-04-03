@@ -1,34 +1,17 @@
 {
-	"author": [
-		"Jian Huang",
-		"David J. Lilja"
-	],
+	"author": ["Jian Huang", "David J. Lilja"],
 	"booktitle": "Proceedings of the Fifth International Symposium on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1999",
 	"dblpkey": "conf/hpca/HuangL99",
 	"doi": "10.1109/HPCA.1999.744342",
-	"ee": [
-		"http://dx.doi.org/10.1109/HPCA.1999.744342",
-		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744342"
-	],
+	"ee": ["http://dx.doi.org/10.1109/HPCA.1999.744342", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744342"],
+	"isbn": "0-7695-0004-8",
 	"pages": "106-114",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"exploit",
-		"basic",
-		"block",
-		"valu",
-		"local",
-		"with",
-		"block",
-		"reus"
-	],
-	"tag": [
-		"locality",
-		"reuse"
-	],
+	"stemmed": ["exploit", "basic", "block", "valu", "local", "with", "block", "reus"],
+	"tag": ["locality", "reuse"],
 	"title": "Exploiting Basic Block Value Locality with Block Reuse",
 	"type": "inproceedings",
 	"venue": "HPCA",

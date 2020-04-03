@@ -1,34 +1,16 @@
 {
-	"author": [
-		"Nikolaos Chrysos",
-		"Cyriel Minkenberg",
-		"Mark Rudquist",
-		"Claude Basso",
-		"Brian Vanderpool"
-	],
+	"author": ["Nikolaos Chrysos", "Cyriel Minkenberg", "Mark Rudquist", "Claude Basso", "Brian Vanderpool"],
 	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2015",
 	"dblpkey": "conf/hpca/ChrysosMRBV15",
 	"doi": "10.1109/HPCA.2015.7056050",
 	"ee": "http://dx.doi.org/10.1109/HPCA.2015.7056050",
+	"isbn": "978-1-4799-8930-0",
 	"pages": "402-414",
 	"publisher": "IEEE",
-	"stemmed": [
-		"scoc",
-		"high",
-		"radix",
-		"switch",
-		"made",
-		"of",
-		"bufferless",
-		"clos",
-		"network"
-	],
-	"tag": [
-		"named",
-		"network"
-	],
+	"stemmed": ["scoc", "high", "radix", "switch", "made", "of", "bufferless", "clos", "network"],
+	"tag": ["named", "network"],
 	"title": "SCOC: High-radix switches made of bufferless clos networks",
 	"type": "inproceedings",
 	"venue": "HPCA",

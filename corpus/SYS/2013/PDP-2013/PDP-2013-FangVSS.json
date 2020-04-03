@@ -1,38 +1,15 @@
 {
-	"author": [
-		"Jianbin Fang",
-		"Ana Lucia Varbanescu",
-		"Jie Shen",
-		"Henk J. Sips"
-	],
+	"author": ["Jianbin Fang", "Ana Lucia Varbanescu", "Jie Shen", "Henk J. Sips"],
 	"booktitle": "Proceedings of the 21st Euromicro International Conference on Parallel, Distributed, and Network-Based Processing",
 	"booktitleshort": "PDP",
 	"crossref": "conf/pdp/2013",
 	"dblpkey": "conf/pdp/FangVSS13",
 	"doi": "10.1109/PDP.2013.61",
+	"isbn": "978-1-4673-5321-2",
 	"pages": "375-383",
 	"publisher": "IEEE Computer Society",
-	"stemmed": [
-		"elmo",
-		"a",
-		"user",
-		"friend",
-		"api",
-		"to",
-		"enabl",
-		"local",
-		"memori",
-		"in",
-		"open",
-		"cl",
-		"kernel"
-	],
-	"tag": [
-		"api",
-		"kernel",
-		"memory management",
-		"named"
-	],
+	"stemmed": ["elmo", "a", "user", "friend", "api", "to", "enabl", "local", "memori", "in", "open", "cl", "kernel"],
+	"tag": ["api", "kernel", "memory management", "named"],
 	"title": "ELMO: A User-Friendly API to Enable Local Memory in OpenCL Kernels",
 	"type": "inproceedings",
 	"venue": "PDP",

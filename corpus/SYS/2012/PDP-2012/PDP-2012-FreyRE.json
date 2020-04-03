@@ -1,32 +1,15 @@
 {
-	"author": [
-		"Steffen Frey",
-		"Guido Reina",
-		"Thomas Ertl"
-	],
+	"author": ["Steffen Frey", "Guido Reina", "Thomas Ertl"],
 	"booktitle": "Proceedings of the 20th Euromicro International Conference on Parallel, Distributed and Network-Based Processing, PDP 2012, Munich, Germany, February 15-17, 2012",
 	"booktitleshort": "PDP",
 	"crossref": "conf/pdp/2012",
 	"dblpkey": "conf/pdp/FreyRE12",
 	"doi": "10.1109/PDP.2012.62",
+	"isbn": "978-1-4673-0226-5",
 	"pages": "399-406",
 	"publisher": "IEEE",
-	"stemmed": [
-		"simt",
-		"microschedul",
-		"reduc",
-		"thread",
-		"stall",
-		"in",
-		"diverg",
-		"iter",
-		"algorithm"
-	],
-	"tag": [
-		"algorithm",
-		"concurrent",
-		"thread"
-	],
+	"stemmed": ["simt", "microschedul", "reduc", "thread", "stall", "in", "diverg", "iter", "algorithm"],
+	"tag": ["algorithm", "concurrent", "thread"],
 	"title": "SIMT Microscheduling: Reducing Thread Stalling in Divergent Iterative Algorithms",
 	"type": "inproceedings",
 	"venue": "PDP",

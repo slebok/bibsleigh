@@ -1,46 +1,16 @@
 {
-	"author": [
-		"Donko Donjerkovic",
-		"Raghu Ramakrishnan"
-	],
+	"author": ["Donko Donjerkovic", "Raghu Ramakrishnan"],
 	"booktitle": "Proceedings of the 25th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"conf/vldb/CareyK98",
-		"conf/pods/ChuHS99",
-		"conf/vldb/FangSGMU98",
-		"conf/sigmod/IoannidisC91",
-		"conf/vldb/JagadishKMPSS98",
-		"conf/sigmod/HellersteinHW97",
-		"...",
-		"conf/vldb/LevyRO96",
-		"conf/sigmod/CareyK97",
-		"conf/sigmod/PoosalaIHS96",
-		"...",
-		"journals/tods/Shapiro86",
-		"conf/sigmod/ChaudhuriMN98",
-		"conf/sigmod/UrhanFA98",
-		"books/cu/PressTVF92",
-		"books/aw/Zipf49"
-	],
+	"cite": ["conf/vldb/CareyK98", "conf/pods/ChuHS99", "conf/vldb/FangSGMU98", "conf/sigmod/IoannidisC91", "conf/vldb/JagadishKMPSS98", "conf/sigmod/HellersteinHW97", "...", "conf/vldb/LevyRO96", "conf/sigmod/CareyK97", "conf/sigmod/PoosalaIHS96", "...", "journals/tods/Shapiro86", "conf/sigmod/ChaudhuriMN98", "conf/sigmod/UrhanFA98", "books/cu/PressTVF92", "books/aw/Zipf49"],
 	"crossref": "conf/vldb/99",
 	"dblpkey": "conf/vldb/DonjerkovicR99",
 	"ee": "http://www.vldb.org/conf/1999/P40.pdf",
+	"isbn": "1-55860-615-7",
 	"pages": "411-422",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"probabilist",
-		"optim",
-		"of",
-		"top",
-		"n",
-		"queri"
-	],
-	"tag": [
-		"optimisation",
-		"probability",
-		"query"
-	],
+	"stemmed": ["probabilist", "optim", "of", "top", "n", "queri"],
+	"tag": ["optimisation", "probability", "query"],
 	"title": "Probabilistic Optimization of Top N Queries",
 	"type": "inproceedings",
 	"venue": "VLDB",

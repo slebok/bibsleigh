@@ -1,34 +1,15 @@
 {
-	"author": [
-		"Joseph E. Gonzalez",
-		"Yucheng Low",
-		"Haijie Gu",
-		"Danny Bickson",
-		"Carlos Guestrin"
-	],
+	"author": ["Joseph E. Gonzalez", "Yucheng Low", "Haijie Gu", "Danny Bickson", "Carlos Guestrin"],
 	"booktitle": "Proceedings of the 10th Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2012",
 	"dblpkey": "conf/osdi/GonzalezLGBG12",
 	"ee": "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/gonzalez",
+	"isbn": "978-1-931971-96-6",
 	"pages": "17-30",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"power",
-		"graph",
-		"distribut",
-		"graph",
-		"parallel",
-		"comput",
-		"on",
-		"natur",
-		"graph"
-	],
-	"tag": [
-		"distributed",
-		"graph",
-		"named"
-	],
+	"stemmed": ["power", "graph", "distribut", "graph", "parallel", "comput", "on", "natur", "graph"],
+	"tag": ["distributed", "graph", "named"],
 	"title": "PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs",
 	"type": "inproceedings",
 	"venue": "OSDI",

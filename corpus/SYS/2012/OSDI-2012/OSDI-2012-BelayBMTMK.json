@@ -1,34 +1,15 @@
 {
-	"author": [
-		"Adam Belay",
-		"Andrea Bittau",
-		"Ali José Mashtizadeh",
-		"David Terei",
-		"David Mazières",
-		"Christos Kozyrakis"
-	],
+	"author": ["Adam Belay", "Andrea Bittau", "Ali José Mashtizadeh", "David Terei", "David Mazières", "Christos Kozyrakis"],
 	"booktitle": "Proceedings of the 10th Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2012",
 	"dblpkey": "conf/osdi/BelayBMTMK12",
 	"ee": "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/belay",
+	"isbn": "978-1-931971-96-6",
 	"pages": "335-348",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"dune",
-		"safe",
-		"user",
-		"level",
-		"access",
-		"to",
-		"privileg",
-		"cpu",
-		"featur"
-	],
-	"tag": [
-		"cpu",
-		"named"
-	],
+	"stemmed": ["dune", "safe", "user", "level", "access", "to", "privileg", "cpu", "featur"],
+	"tag": ["cpu", "named"],
 	"title": "Dune: Safe User-level Access to Privileged CPU Features",
 	"type": "inproceedings",
 	"venue": "OSDI",

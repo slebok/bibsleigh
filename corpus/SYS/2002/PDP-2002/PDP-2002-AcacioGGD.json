@@ -1,39 +1,15 @@
 {
-	"author": [
-		"Manuel E. Acacio",
-		"José González",
-		"José M. García",
-		"José Duato"
-	],
+	"author": ["Manuel E. Acacio", "José González", "José M. García", "José Duato"],
 	"booktitle": "Proceedings of the 10th Euromicro Workshop on Parallel, Distributed and Network-Based Processing",
 	"booktitleshort": "PDP",
 	"crossref": "conf/pdp/2002",
 	"dblpkey": "conf/pdp/AcacioGGD02",
 	"doi": "10.1109/EMPDP.2002.994312",
+	"isbn": "0-7695-1444-8",
 	"pages": "368-375",
 	"publisher": "IEEE Computer Society",
-	"stemmed": [
-		"reduc",
-		"the",
-		"latenc",
-		"of",
-		"l",
-		"miss",
-		"in",
-		"share",
-		"memori",
-		"multiprocessor",
-		"through",
-		"on",
-		"chip",
-		"directori",
-		"integr"
-	],
-	"tag": [
-		"integration",
-		"latency",
-		"multi"
-	],
+	"stemmed": ["reduc", "the", "latenc", "of", "l", "miss", "in", "share", "memori", "multiprocessor", "through", "on", "chip", "directori", "integr"],
+	"tag": ["integration", "latency", "multi"],
 	"title": "Reducing the Latency of L2 Misses in Shared-Memory Multiprocessors through On-Chip Directory Integration",
 	"type": "inproceedings",
 	"venue": "PDP",

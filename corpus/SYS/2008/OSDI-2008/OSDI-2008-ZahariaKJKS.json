@@ -1,31 +1,15 @@
 {
-	"author": [
-		"Matei Zaharia",
-		"Andy Konwinski",
-		"Anthony D. Joseph",
-		"Randy H. Katz",
-		"Ion Stoica"
-	],
+	"author": ["Matei Zaharia", "Andy Konwinski", "Anthony D. Joseph", "Randy H. Katz", "Ion Stoica"],
 	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/ZahariaKJKS08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/zaharia/zaharia.pdf",
+	"isbn": "978-1-931971-65-2",
 	"pages": "29-42",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"improv",
-		"map",
-		"reduc",
-		"perform",
-		"in",
-		"heterogen",
-		"environ"
-	],
-	"tag": [
-		"performance",
-		"pipes and filters"
-	],
+	"stemmed": ["improv", "map", "reduc", "perform", "in", "heterogen", "environ"],
+	"tag": ["performance", "pipes and filters"],
 	"title": "Improving MapReduce Performance in Heterogeneous Environments",
 	"type": "inproceedings",
 	"venue": "OSDI",

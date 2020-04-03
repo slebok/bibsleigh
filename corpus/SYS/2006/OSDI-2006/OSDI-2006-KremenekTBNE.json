@@ -1,32 +1,15 @@
 {
-	"author": [
-		"Ted Kremenek",
-		"Paul Twohey",
-		"Godmar Back",
-		"Andrew Y. Ng",
-		"Dawson R. Engler"
-	],
+	"author": ["Ted Kremenek", "Paul Twohey", "Godmar Back", "Andrew Y. Ng", "Dawson R. Engler"],
 	"booktitle": "Proceedings of the Seventh Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2006",
 	"dblpkey": "conf/osdi/KremenekTBNE06",
 	"ee": "http://www.usenix.org/events/osdi06/tech/kremenek.html",
+	"isbn": "1-931971-47-1",
 	"pages": "161-176",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"from",
-		"uncertainti",
-		"to",
-		"belief",
-		"infer",
-		"the",
-		"specif",
-		"within"
-	],
-	"tag": [
-		"nondeterminism",
-		"specification"
-	],
+	"stemmed": ["from", "uncertainti", "to", "belief", "infer", "the", "specif", "within"],
+	"tag": ["nondeterminism", "specification"],
 	"title": "From Uncertainty to Belief: Inferring the Specification Within",
 	"type": "inproceedings",
 	"venue": "OSDI",

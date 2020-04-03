@@ -1,43 +1,17 @@
 {
-	"author": [
-		"Jun Nakano",
-		"Pablo Montesinos",
-		"Kourosh Gharachorloo",
-		"Josep Torrellas"
-	],
+	"author": ["Jun Nakano", "Pablo Montesinos", "Kourosh Gharachorloo", "Josep Torrellas"],
 	"booktitle": "Proceedings of the 12th International Symposium on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2006",
 	"dblpkey": "conf/hpca/NakanoMGT06",
 	"doi": "10.1109/HPCA.2006.1598129",
-	"ee": [
-		"http://dx.doi.org/10.1109/HPCA.2006.1598129",
-		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2006.1598129"
-	],
+	"ee": ["http://dx.doi.org/10.1109/HPCA.2006.1598129", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2006.1598129"],
+	"isbn": "0-7803-9368-6",
 	"pages": "200-211",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"re",
-		"vive",
-		"i",
-		"o",
-		"effici",
-		"handl",
-		"of",
-		"i",
-		"o",
-		"in",
-		"high",
-		"avail",
-		"rollback",
-		"recoveri",
-		"server"
-	],
-	"tag": [
-		"named",
-		"performance"
-	],
+	"stemmed": ["re", "vive", "i", "o", "effici", "handl", "of", "i", "o", "in", "high", "avail", "rollback", "recoveri", "server"],
+	"tag": ["named", "performance"],
 	"title": "ReViveI/O: efficient handling of I/O in highly-available rollback-recovery servers",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,32 +1,16 @@
 {
-	"author": [
-		"Daniel Kroening",
-		"Daniel Poetzl",
-		"Peter Schrammel",
-		"Björn Wachter"
-	],
+	"author": ["Daniel Kroening", "Daniel Poetzl", "Peter Schrammel", "Björn Wachter"],
 	"booktitle": "Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering",
 	"booktitleshort": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/KroeningPSW16",
 	"doi": "10.1145/2970276.2970309",
 	"ee": "http://ieeexplore.ieee.org/document/7582774/",
+	"isbn": "978-1-4503-3845-5",
 	"pages": "379-390",
 	"publisher": "ACM",
-	"stemmed": [
-		"sound",
-		"static",
-		"deadlock",
-		"analysi",
-		"for",
-		"c",
-		"pthread"
-	],
-	"tag": [
-		"analysis",
-		"concurrent",
-		"thread"
-	],
+	"stemmed": ["sound", "static", "deadlock", "analysi", "for", "c", "pthread"],
+	"tag": ["analysis", "concurrent", "thread"],
 	"title": "Sound static deadlock analysis for C/Pthreads",
 	"type": "inproceedings",
 	"venue": "ASE",

@@ -1,39 +1,15 @@
 {
-	"author": [
-		"Chen Li",
-		"Bin Wang",
-		"Xiaochun Yang"
-	],
+	"author": ["Chen Li", "Bin Wang", "Xiaochun Yang"],
 	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/LiWY07",
 	"ee": "http://www.vldb.org/conf/2007/papers/research/p303-li.pdf",
+	"isbn": "978-1-59593-649-3",
 	"pages": "303-314",
 	"publisher": "ACM",
-	"stemmed": [
-		"vgram",
-		"improv",
-		"perform",
-		"of",
-		"approxim",
-		"queri",
-		"on",
-		"string",
-		"collect",
-		"use",
-		"variabl",
-		"length",
-		"gram"
-	],
-	"tag": [
-		"approximate",
-		"named",
-		"performance",
-		"query",
-		"string",
-		"using"
-	],
+	"stemmed": ["vgram", "improv", "perform", "of", "approxim", "queri", "on", "string", "collect", "use", "variabl", "length", "gram"],
+	"tag": ["approximate", "named", "performance", "query", "string", "using"],
 	"title": "VGRAM: Improving Performance of Approximate Queries on String Collections Using Variable-Length Grams",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,35 +1,15 @@
 {
-	"author": [
-		"Stefan Krompass",
-		"Umeshwar Dayal",
-		"Harumi A. Kuno",
-		"Alfons Kemper"
-	],
+	"author": ["Stefan Krompass", "Umeshwar Dayal", "Harumi A. Kuno", "Alfons Kemper"],
 	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/KrompassDKK07",
 	"ee": "http://www.vldb.org/conf/2007/papers/industrial/p1105-krompass.pdf",
+	"isbn": "978-1-59593-649-3",
 	"pages": "1105-1115",
 	"publisher": "ACM",
-	"stemmed": [
-		"dynam",
-		"workload",
-		"manag",
-		"for",
-		"veri",
-		"larg",
-		"data",
-		"warehous",
-		"juggl",
-		"feather",
-		"and",
-		"bowl",
-		"ball"
-	],
-	"tag": [
-		"scalability"
-	],
+	"stemmed": ["dynam", "workload", "manag", "for", "veri", "larg", "data", "warehous", "juggl", "feather", "and", "bowl", "ball"],
+	"tag": ["scalability"],
 	"title": "Dynamic Workload Management for Very Large Data Warehouses: Juggling Feathers and Bowling Balls",
 	"type": "inproceedings",
 	"venue": "VLDB",

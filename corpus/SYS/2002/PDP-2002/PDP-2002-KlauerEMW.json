@@ -1,38 +1,15 @@
 {
-	"author": [
-		"Bernd Klauer",
-		"Frank Eschmann",
-		"Ronald Moore",
-		"Klaus Waldschmidt"
-	],
+	"author": ["Bernd Klauer", "Frank Eschmann", "Ronald Moore", "Klaus Waldschmidt"],
 	"booktitle": "Proceedings of the 10th Euromicro Workshop on Parallel, Distributed and Network-Based Processing",
 	"booktitleshort": "PDP",
 	"crossref": "conf/pdp/2002",
 	"dblpkey": "conf/pdp/KlauerEMW02",
 	"doi": "10.1109/EMPDP.2002.994274",
+	"isbn": "0-7695-1444-8",
 	"pages": "219-226",
 	"publisher": "IEEE Computer Society",
-	"stemmed": [
-		"the",
-		"cdag",
-		"a",
-		"data",
-		"structur",
-		"for",
-		"automat",
-		"parallel",
-		"for",
-		"a",
-		"multithread",
-		"architectur"
-	],
-	"tag": [
-		"architecture",
-		"automation",
-		"data type",
-		"parallel",
-		"thread"
-	],
+	"stemmed": ["the", "cdag", "a", "data", "structur", "for", "automat", "parallel", "for", "a", "multithread", "architectur"],
+	"tag": ["architecture", "automation", "data type", "parallel", "thread"],
 	"title": "The CDAG: A Data Structure for Automatic Parallelization for a Multithreaded Architecture",
 	"type": "inproceedings",
 	"venue": "PDP",

@@ -1,32 +1,15 @@
 {
-	"author": [
-		"Keishi Tajima",
-		"Yoshiki Fukui"
-	],
+	"author": ["Keishi Tajima", "Yoshiki Fukui"],
 	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/TajimaF04",
 	"ee": "http://www.vldb.org/conf/2004/RS2P1.PDF",
+	"isbn": "0-12-088469-0",
 	"pages": "48-59",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"answer",
-		"x",
-		"path",
-		"queri",
-		"over",
-		"network",
-		"by",
-		"send",
-		"minim",
-		"view"
-	],
-	"tag": [
-		"network",
-		"query",
-		"xpath"
-	],
+	"stemmed": ["answer", "x", "path", "queri", "over", "network", "by", "send", "minim", "view"],
+	"tag": ["network", "query", "xpath"],
 	"title": "Answering XPath Queries over Networks by Sending Minimal Views",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,37 +1,17 @@
 {
-	"author": [
-		"Yi Yang",
-		"Ping Xiang",
-		"Mike Mantor",
-		"Huiyang Zhou"
-	],
+	"author": ["Yi Yang", "Ping Xiang", "Mike Mantor", "Huiyang Zhou"],
 	"booktitle": "Proceedings of the 18th International Conference on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2012",
 	"dblpkey": "conf/hpca/YangXMZ12",
 	"doi": "10.1109/HPCA.2012.6168948",
-	"ee": [
-		"http://dx.doi.org/10.1109/HPCA.2012.6168948",
-		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6168948"
-	],
+	"ee": ["http://dx.doi.org/10.1109/HPCA.2012.6168948", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6168948"],
+	"isbn": "978-1-4673-0827-4",
 	"pages": "103-114",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"cpu",
-		"assist",
-		"gpgpu",
-		"on",
-		"fuse",
-		"cpu",
-		"gpu",
-		"architectur"
-	],
-	"tag": [
-		"architecture",
-		"cpu",
-		"gpu"
-	],
+	"stemmed": ["cpu", "assist", "gpgpu", "on", "fuse", "cpu", "gpu", "architectur"],
+	"tag": ["architecture", "cpu", "gpu"],
 	"title": "CPU-assisted GPGPU on fused CPU-GPU architectures",
 	"type": "inproceedings",
 	"venue": "HPCA",

@@ -1,48 +1,16 @@
 {
-	"author": [
-		"Peter Klahold",
-		"Gunter Schlageter",
-		"Wolfgang Wilkes"
-	],
+	"author": ["Peter Klahold", "Gunter Schlageter", "Wolfgang Wilkes"],
 	"booktitle": "Proceedings of the 12th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"journals/tods/AlbanoCO85",
-		"journals/tods/BatoryK85",
-		"...",
-		"conf/sigmod/DadamKABEGLPW86",
-		"conf/vldb/DadamLW84",
-		"journals/tse/DittrichL88",
-		"...",
-		"...",
-		"journals/tse/KatzL84",
-		"conf/fodo/KimB85",
-		"...",
-		"conf/sigmod/KlaholdSUW85",
-		"conf/btw/LockemannABDFGKLLM85",
-		"conf/fodo/LumDEGPWWW85",
-		"...",
-		"journals/tods/MylopoulosBW80",
-		"..."
-	],
+	"cite": ["journals/tods/AlbanoCO85", "journals/tods/BatoryK85", "...", "conf/sigmod/DadamKABEGLPW86", "conf/vldb/DadamLW84", "journals/tse/DittrichL88", "...", "...", "journals/tse/KatzL84", "conf/fodo/KimB85", "...", "conf/sigmod/KlaholdSUW85", "conf/btw/LockemannABDFGKLLM85", "conf/fodo/LumDEGPWWW85", "...", "journals/tods/MylopoulosBW80", "..."],
 	"crossref": "conf/vldb/86",
 	"dblpkey": "conf/vldb/KlaholdSW86",
 	"ee": "http://www.vldb.org/conf/1986/P319.PDF",
+	"isbn": "0-934613-18-4",
 	"pages": "319-327",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"a",
-		"general",
-		"model",
-		"for",
-		"version",
-		"manag",
-		"in",
-		"databas"
-	],
-	"tag": [
-		"database"
-	],
+	"stemmed": ["a", "general", "model", "for", "version", "manag", "in", "databas"],
+	"tag": ["database"],
 	"title": "A General Model for Version Management in Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,41 +1,16 @@
 {
-	"author": [
-		"Elena Baralis",
-		"Stefano Paraboschi",
-		"Ernest Teniente"
-	],
+	"author": ["Elena Baralis", "Stefano Paraboschi", "Ernest Teniente"],
 	"booktitle": "Proceedings of the 23rd International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"conf/vldb/AgarwalADGNRS96",
-		"conf/icde/GrayBLP96",
-		"conf/icde/GuptaHRU97",
-		"conf/icdt/Gupta97",
-		"conf/sigmod/HarinarayanRU96",
-		"books/wi/Kimball96",
-		"conf/sigmod/RossSS96",
-		"conf/vldb/ShuklaDNR96",
-		"...",
-		"conf/sigmod/ZhugeGHW95"
-	],
+	"cite": ["conf/vldb/AgarwalADGNRS96", "conf/icde/GrayBLP96", "conf/icde/GuptaHRU97", "conf/icdt/Gupta97", "conf/sigmod/HarinarayanRU96", "books/wi/Kimball96", "conf/sigmod/RossSS96", "conf/vldb/ShuklaDNR96", "...", "conf/sigmod/ZhugeGHW95"],
 	"crossref": "conf/vldb/97",
 	"dblpkey": "conf/vldb/BaralisPT97",
 	"ee": "http://www.vldb.org/conf/1997/P156.PDF",
+	"isbn": "1-55860-470-7",
 	"pages": "156-165",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"materi",
-		"view",
-		"select",
-		"in",
-		"a",
-		"multidimension",
-		"databas"
-	],
-	"tag": [
-		"database",
-		"multi"
-	],
+	"stemmed": ["materi", "view", "select", "in", "a", "multidimension", "databas"],
+	"tag": ["database", "multi"],
 	"title": "Materialized Views Selection in a Multidimensional Database",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,35 +1,17 @@
 {
-	"author": [
-		"Stefanos Kaxiras",
-		"James R. Goodman"
-	],
+	"author": ["Stefanos Kaxiras", "James R. Goodman"],
 	"booktitle": "Proceedings of the Fifth International Symposium on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1999",
 	"dblpkey": "conf/hpca/KaxirasG99",
 	"doi": "10.1109/HPCA.1999.744359",
-	"ee": [
-		"http://dx.doi.org/10.1109/HPCA.1999.744359",
-		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744359"
-	],
+	"ee": ["http://dx.doi.org/10.1109/HPCA.1999.744359", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744359"],
+	"isbn": "0-7695-0004-8",
 	"pages": "161-170",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"improv",
-		"cc",
-		"numa",
-		"perform",
-		"use",
-		"instruct",
-		"base",
-		"predict"
-	],
-	"tag": [
-		"performance",
-		"predict",
-		"using"
-	],
+	"stemmed": ["improv", "cc", "numa", "perform", "use", "instruct", "base", "predict"],
+	"tag": ["performance", "predict", "using"],
 	"title": "Improving CC-NUMA Performance Using Instruction-Based Prediction",
 	"type": "inproceedings",
 	"venue": "HPCA",

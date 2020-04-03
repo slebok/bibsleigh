@@ -1,29 +1,15 @@
 {
-	"author": [
-		"Jingyue Wu",
-		"Heming Cui",
-		"Junfeng Yang"
-	],
+	"author": ["Jingyue Wu", "Heming Cui", "Junfeng Yang"],
 	"booktitle": "Proceedings of the Ninth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2010",
 	"dblpkey": "conf/osdi/WuCY10",
 	"ee": "http://www.usenix.org/events/osdi10/tech/full_papers/Wu.pdf",
+	"isbn": "978-1-931971-79-9",
 	"pages": "135-149",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"bypass",
-		"race",
-		"in",
-		"live",
-		"applic",
-		"with",
-		"execut",
-		"filter"
-	],
-	"tag": [
-		"execution"
-	],
+	"stemmed": ["bypass", "race", "in", "live", "applic", "with", "execut", "filter"],
+	"tag": ["execution"],
 	"title": "Bypassing Races in Live Applications with Execution Filters",
 	"type": "inproceedings",
 	"venue": "OSDI",

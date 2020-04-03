@@ -1,35 +1,15 @@
 {
-	"author": [
-		"Varun Kacholia",
-		"Shashank Pandit",
-		"Soumen Chakrabarti",
-		"S. Sudarshan",
-		"Rushi Desai",
-		"Hrishikesh Karambelkar"
-	],
+	"author": ["Varun Kacholia", "Shashank Pandit", "Soumen Chakrabarti", "S. Sudarshan", "Rushi Desai", "Hrishikesh Karambelkar"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/KacholiaPCSDK05",
 	"ee": "http://www.vldb2005.org/program/paper/wed/p505-kacholia.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "505-516",
 	"publisher": "ACM",
-	"stemmed": [
-		"bidirect",
-		"expans",
-		"for",
-		"keyword",
-		"search",
-		"on",
-		"graph",
-		"databas"
-	],
-	"tag": [
-		"bidirectional",
-		"database",
-		"graph",
-		"keyword"
-	],
+	"stemmed": ["bidirect", "expans", "for", "keyword", "search", "on", "graph", "databas"],
+	"tag": ["bidirectional", "database", "graph", "keyword"],
 	"title": "Bidirectional Expansion For Keyword Search on Graph Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

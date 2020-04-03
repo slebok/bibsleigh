@@ -1,46 +1,16 @@
 {
-	"author": [
-		"Craig Silverstein",
-		"Sergey Brin",
-		"Rajeev Motwani",
-		"Jeffrey D. Ullman"
-	],
+	"author": ["Craig Silverstein", "Sergey Brin", "Rajeev Motwani", "Jeffrey D. Ullman"],
 	"booktitle": "Proceedings of the 24th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"conf/sigmod/AgrawalIS93",
-		"...",
-		"...",
-		"conf/sigmod/BrinMS97",
-		"journals/datamine/Cooper97",
-		"...",
-		"...",
-		"journals/datamine/Heckerman97",
-		"...",
-		"...",
-		"...",
-		"...",
-		"...",
-		"conf/kr/PearlV91",
-		"..."
-	],
+	"cite": ["conf/sigmod/AgrawalIS93", "...", "...", "conf/sigmod/BrinMS97", "journals/datamine/Cooper97", "...", "...", "journals/datamine/Heckerman97", "...", "...", "...", "...", "...", "conf/kr/PearlV91", "..."],
 	"crossref": "conf/vldb/98",
 	"dblpkey": "conf/vldb/SilversteinBMU98",
 	"ee": "http://www.vldb.org/conf/1998/p594.pdf",
+	"isbn": "1-55860-566-5",
 	"pages": "594-605",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"scalabl",
-		"techniqu",
-		"for",
-		"mine",
-		"causal",
-		"structur"
-	],
-	"tag": [
-		"mining",
-		"scalability"
-	],
+	"stemmed": ["scalabl", "techniqu", "for", "mine", "causal", "structur"],
+	"tag": ["mining", "scalability"],
 	"title": "Scalable Techniques for Mining Causal Structures",
 	"type": "inproceedings",
 	"venue": "VLDB",

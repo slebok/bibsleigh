@@ -1,47 +1,16 @@
 {
-	"author": [
-		"Hansjörg Zeller",
-		"Jim Gray"
-	],
+	"author": ["Hansjörg Zeller", "Jim Gray"],
 	"booktitle": "Proceedings of the 16th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"conf/vldb/Bratbergsengen84",
-		"conf/vldb/BittonDT83",
-		"conf/sigmod/DeWittKOSSW84",
-		"conf/vldb/DeWittG85",
-		"...",
-		"...",
-		"journals/ngc/KitsuregawaTM83",
-		"conf/vldb/NakayamaK88",
-		"...",
-		"conf/sigmod/SchneiderD89",
-		"journals/tods/Shapiro86",
-		"...",
-		"conf/hpts/Group87",
-		"journals/tods/ValduriezG84",
-		"conf/btw/Zeller89"
-	],
+	"cite": ["conf/vldb/Bratbergsengen84", "conf/vldb/BittonDT83", "conf/sigmod/DeWittKOSSW84", "conf/vldb/DeWittG85", "...", "...", "journals/ngc/KitsuregawaTM83", "conf/vldb/NakayamaK88", "...", "conf/sigmod/SchneiderD89", "journals/tods/Shapiro86", "...", "conf/hpts/Group87", "journals/tods/ValduriezG84", "conf/btw/Zeller89"],
 	"crossref": "conf/vldb/90",
 	"dblpkey": "conf/vldb/ZellerG90",
 	"ee": "http://www.vldb.org/conf/1990/P186.PDF",
+	"isbn": "1-55860-149-X",
 	"pages": "186-197",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"an",
-		"adapt",
-		"hash",
-		"join",
-		"algorithm",
-		"for",
-		"multius",
-		"environ"
-	],
-	"tag": [
-		"adaptation",
-		"algorithm",
-		"multi"
-	],
+	"stemmed": ["an", "adapt", "hash", "join", "algorithm", "for", "multius", "environ"],
+	"tag": ["adaptation", "algorithm", "multi"],
 	"title": "An Adaptive Hash Join Algorithm for Multiuser Environments",
 	"type": "inproceedings",
 	"venue": "VLDB",

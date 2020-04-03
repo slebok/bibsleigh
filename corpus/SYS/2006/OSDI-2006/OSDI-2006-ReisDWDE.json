@@ -1,32 +1,15 @@
 {
-	"author": [
-		"Charles Reis",
-		"John Dunagan",
-		"Helen J. Wang",
-		"Opher Dubrovsky",
-		"Saher Esmeir"
-	],
+	"author": ["Charles Reis", "John Dunagan", "Helen J. Wang", "Opher Dubrovsky", "Saher Esmeir"],
 	"booktitle": "Proceedings of the Seventh Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2006",
 	"dblpkey": "conf/osdi/ReisDWDE06",
 	"ee": "http://www.usenix.org/events/osdi06/tech/reis.html",
+	"isbn": "1-931971-47-1",
 	"pages": "61-74",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"browser",
-		"shield",
-		"vulner",
-		"driven",
-		"filter",
-		"of",
-		"dynam",
-		"html"
-	],
-	"tag": [
-		"html",
-		"named"
-	],
+	"stemmed": ["browser", "shield", "vulner", "driven", "filter", "of", "dynam", "html"],
+	"tag": ["html", "named"],
 	"title": "BrowserShield: Vulnerability-Driven Filtering of Dynamic HTML",
 	"type": "inproceedings",
 	"venue": "OSDI",

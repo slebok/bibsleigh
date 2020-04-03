@@ -1,31 +1,15 @@
 {
-	"author": [
-		"Ariel J. Feldman",
-		"William P. Zeller",
-		"Michael J. Freedman",
-		"Edward W. Felten"
-	],
+	"author": ["Ariel J. Feldman", "William P. Zeller", "Michael J. Freedman", "Edward W. Felten"],
 	"booktitle": "Proceedings of the Ninth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2010",
 	"dblpkey": "conf/osdi/FeldmanZFF10",
 	"ee": "http://www.usenix.org/events/osdi10/tech/full_papers/Feldman.pdf",
+	"isbn": "978-1-931971-79-9",
 	"pages": "337-350",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"sporc",
-		"group",
-		"collabor",
-		"use",
-		"untrust",
-		"cloud",
-		"resourc"
-	],
-	"tag": [
-		"collaboration",
-		"named",
-		"using"
-	],
+	"stemmed": ["sporc", "group", "collabor", "use", "untrust", "cloud", "resourc"],
+	"tag": ["collaboration", "named", "using"],
 	"title": "SPORC: Group Collaboration using Untrusted Cloud Resources",
 	"type": "inproceedings",
 	"venue": "OSDI",

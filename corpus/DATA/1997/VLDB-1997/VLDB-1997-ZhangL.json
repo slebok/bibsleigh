@@ -1,36 +1,16 @@
 {
-	"author": [
-		"Weiye Zhang",
-		"Per-Åke Larson"
-	],
+	"author": ["Weiye Zhang", "Per-Åke Larson"],
 	"booktitle": "Proceedings of the 23rd International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"conf/vldb/DavisonG94",
-		"journals/csur/Graefe93",
-		"books/aw/Knuth73",
-		"conf/sigmod/NybergBCGL94",
-		"conf/vldb/PangCL93",
-		"conf/sigmod/PangCL93",
-		"...",
-		"conf/vldb/ZellerG90"
-	],
+	"cite": ["conf/vldb/DavisonG94", "journals/csur/Graefe93", "books/aw/Knuth73", "conf/sigmod/NybergBCGL94", "conf/vldb/PangCL93", "conf/sigmod/PangCL93", "...", "conf/vldb/ZellerG90"],
 	"crossref": "conf/vldb/97",
 	"dblpkey": "conf/vldb/ZhangL97",
 	"ee": "http://www.vldb.org/conf/1997/P376.PDF",
+	"isbn": "1-55860-470-7",
 	"pages": "376-385",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"dynam",
-		"memori",
-		"adjust",
-		"for",
-		"extern",
-		"mergesort"
-	],
-	"tag": [
-		"memory management"
-	],
+	"stemmed": ["dynam", "memori", "adjust", "for", "extern", "mergesort"],
+	"tag": ["memory management"],
 	"title": "Dynamic Memory Adjustment for External Mergesort",
 	"type": "inproceedings",
 	"venue": "VLDB",

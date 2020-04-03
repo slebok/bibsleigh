@@ -1,43 +1,17 @@
 {
-	"author": [
-		"Koji Inoue",
-		"Koji Kai",
-		"Kazuaki Murakami"
-	],
+	"author": ["Koji Inoue", "Koji Kai", "Kazuaki Murakami"],
 	"booktitle": "Proceedings of the Fifth International Symposium on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1999",
 	"dblpkey": "conf/hpca/InoueKM99",
 	"doi": "10.1109/HPCA.1999.744366",
-	"ee": [
-		"http://dx.doi.org/10.1109/HPCA.1999.744366",
-		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744366"
-	],
+	"ee": ["http://dx.doi.org/10.1109/HPCA.1999.744366", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1999.744366"],
+	"isbn": "0-7695-0004-8",
 	"pages": "218-222",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"dynam",
-		"variabl",
-		"line",
-		"size",
-		"cach",
-		"exploit",
-		"high",
-		"on",
-		"chip",
-		"memori",
-		"bandwidth",
-		"of",
-		"merg",
-		"dram",
-		"logic",
-		"lsis"
-	],
-	"tag": [
-		"logic",
-		"memory management"
-	],
+	"stemmed": ["dynam", "variabl", "line", "size", "cach", "exploit", "high", "on", "chip", "memori", "bandwidth", "of", "merg", "dram", "logic", "lsis"],
+	"tag": ["logic", "memory management"],
 	"title": "Dynamically Variable Line-Size Cache Exploiting High On-Chip Memory Bandwidth of Merged DRAM/Logic LSIs",
 	"type": "inproceedings",
 	"venue": "HPCA",

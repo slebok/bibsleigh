@@ -1,33 +1,15 @@
 {
-	"author": [
-		"Serge Abiteboul",
-		"Luc Segoufin",
-		"Victor Vianu"
-	],
+	"author": ["Serge Abiteboul", "Luc Segoufin", "Victor Vianu"],
 	"booktitle": "Proceedings of the 20th Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2001",
 	"dblpkey": "conf/pods/AbiteboulSV01",
 	"doi": "10.1145/375551.375571",
-	"ee": [
-		"http://doi.acm.org/10.1145/375551.375571",
-		"http://www.acm.org/sigs/sigmod/pods/proc01/online/p40.pdf"
-	],
+	"ee": ["http://doi.acm.org/10.1145/375551.375571", "http://www.acm.org/sigs/sigmod/pods/proc01/online/p40.pdf"],
+	"isbn": "1-58113-361-8",
 	"publisher": "ACM",
-	"stemmed": [
-		"repres",
-		"and",
-		"queri",
-		"xml",
-		"with",
-		"incomplet",
-		"inform"
-	],
-	"tag": [
-		"query",
-		"representation",
-		"xml"
-	],
+	"stemmed": ["repres", "and", "queri", "xml", "with", "incomplet", "inform"],
+	"tag": ["query", "representation", "xml"],
 	"title": "Representing and Querying XML with Incomplete Information",
 	"type": "inproceedings",
 	"venue": "PODS",

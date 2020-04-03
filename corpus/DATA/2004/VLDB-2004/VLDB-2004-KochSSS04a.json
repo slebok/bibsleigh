@@ -1,36 +1,15 @@
 {
-	"author": [
-		"Christoph Koch",
-		"Stefanie Scherzinger",
-		"Nicole Schweikardt",
-		"Bernhard Stegmaier"
-	],
+	"author": ["Christoph Koch", "Stefanie Scherzinger", "Nicole Schweikardt", "Bernhard Stegmaier"],
 	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/KochSSS04a",
 	"ee": "http://www.vldb.org/conf/2004/DEMP15.PDF",
+	"isbn": "0-12-088469-0",
 	"pages": "1309-1312",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"fluxqueri",
-		"an",
-		"optim",
-		"x",
-		"queri",
-		"processor",
-		"for",
-		"stream",
-		"xml",
-		"data"
-	],
-	"tag": [
-		"named",
-		"optimisation",
-		"streaming",
-		"xml",
-		"xquery"
-	],
+	"stemmed": ["fluxqueri", "an", "optim", "x", "queri", "processor", "for", "stream", "xml", "data"],
+	"tag": ["named", "optimisation", "streaming", "xml", "xquery"],
 	"title": "FluXQuery: An Optimizing XQuery Processor for Streaming XML Data",
 	"type": "inproceedings",
 	"venue": "VLDB",

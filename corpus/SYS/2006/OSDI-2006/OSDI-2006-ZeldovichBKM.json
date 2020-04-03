@@ -1,29 +1,15 @@
 {
-	"author": [
-		"Nickolai Zeldovich",
-		"Silas Boyd-Wickizer",
-		"Eddie Kohler",
-		"David Mazières"
-	],
+	"author": ["Nickolai Zeldovich", "Silas Boyd-Wickizer", "Eddie Kohler", "David Mazières"],
 	"booktitle": "Proceedings of the Seventh Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2006",
 	"dblpkey": "conf/osdi/ZeldovichBKM06",
 	"ee": "http://www.usenix.org/events/osdi06/tech/zeldovich.html",
+	"isbn": "1-931971-47-1",
 	"pages": "263-278",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"make",
-		"inform",
-		"flow",
-		"explicit",
-		"in",
-		"hi",
-		"star"
-	],
-	"tag": [
-		"data flow"
-	],
+	"stemmed": ["make", "inform", "flow", "explicit", "in", "hi", "star"],
+	"tag": ["data flow"],
 	"title": "Making Information Flow Explicit in HiStar",
 	"type": "inproceedings",
 	"venue": "OSDI",

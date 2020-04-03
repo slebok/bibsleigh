@@ -1,35 +1,17 @@
 {
-	"author": [
-		"Amit Gandhi",
-		"Haitham Akkary",
-		"Srikanth T. Srinivasan"
-	],
+	"author": ["Amit Gandhi", "Haitham Akkary", "Srikanth T. Srinivasan"],
 	"booktitle": "Proceedings of the 10th International Conference on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2004",
 	"dblpkey": "conf/hpca/GandhiAS04",
 	"doi": "10.1109/HPCA.2004.10004",
-	"ee": [
-		"http://dx.doi.org/10.1109/HPCA.2004.10004",
-		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2004.10004"
-	],
+	"ee": ["http://dx.doi.org/10.1109/HPCA.2004.10004", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2004.10004"],
+	"isbn": "0-7695-2053-7",
 	"pages": "254-264",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"reduc",
-		"branch",
-		"mispredict",
-		"penalti",
-		"via",
-		"select",
-		"branch",
-		"recoveri"
-	],
-	"tag": [
-		"branch",
-		"predict"
-	],
+	"stemmed": ["reduc", "branch", "mispredict", "penalti", "via", "select", "branch", "recoveri"],
+	"tag": ["branch", "predict"],
 	"title": "Reducing Branch Misprediction Penalty via Selective Branch Recovery",
 	"type": "inproceedings",
 	"venue": "HPCA",

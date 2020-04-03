@@ -1,35 +1,15 @@
 {
-	"author": [
-		"Javier Cuenca",
-		"Luis-Pedro García",
-		"Domingo Giménez"
-	],
+	"author": ["Javier Cuenca", "Luis-Pedro García", "Domingo Giménez"],
 	"booktitle": "Proceedings of the 20th Euromicro International Conference on Parallel, Distributed and Network-Based Processing, PDP 2012, Munich, Germany, February 15-17, 2012",
 	"booktitleshort": "PDP",
 	"crossref": "conf/pdp/2012",
 	"dblpkey": "conf/pdp/CuencaGG12",
 	"doi": "10.1109/PDP.2012.12",
+	"isbn": "978-1-4673-0226-5",
 	"pages": "66-73",
 	"publisher": "IEEE",
-	"stemmed": [
-		"improv",
-		"linear",
-		"algebra",
-		"comput",
-		"on",
-		"numa",
-		"platform",
-		"through",
-		"auto",
-		"tune",
-		"nest",
-		"parallel"
-	],
-	"tag": [
-		"algebra",
-		"linear",
-		"parallel"
-	],
+	"stemmed": ["improv", "linear", "algebra", "comput", "on", "numa", "platform", "through", "auto", "tune", "nest", "parallel"],
+	"tag": ["algebra", "linear", "parallel"],
 	"title": "Improving Linear Algebra Computation on NUMA Platforms through Auto-tuned Nested Parallelism",
 	"type": "inproceedings",
 	"venue": "PDP",

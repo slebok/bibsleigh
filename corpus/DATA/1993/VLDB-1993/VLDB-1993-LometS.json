@@ -1,43 +1,16 @@
 {
-	"author": [
-		"David B. Lomet",
-		"Betty Salzberg"
-	],
+	"author": ["David B. Lomet", "Betty Salzberg"],
 	"booktitle": "Proceedings of the 19th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"journals/acta/BayerS77",
-		"conf/ac/Gray78",
-		"journals/sigmod/GuntherB90",
-		"journals/tods/LehmanY81",
-		"...",
-		"conf/sigmod/LometS89",
-		"conf/sigmod/LometS90",
-		"conf/sigmod/LometS92",
-		"...",
-		"...",
-		"journals/tocs/Reed83",
-		"conf/sosp/RosenblumO91",
-		"journals/tods/ShashaG88",
-		"conf/vldb/Stonebraker87",
-		"books/bc/TanselCGJSS93"
-	],
+	"cite": ["journals/acta/BayerS77", "conf/ac/Gray78", "journals/sigmod/GuntherB90", "journals/tods/LehmanY81", "...", "conf/sigmod/LometS89", "conf/sigmod/LometS90", "conf/sigmod/LometS92", "...", "...", "journals/tocs/Reed83", "conf/sosp/RosenblumO91", "journals/tods/ShashaG88", "conf/vldb/Stonebraker87", "books/bc/TanselCGJSS93"],
 	"crossref": "conf/vldb/93",
 	"dblpkey": "conf/vldb/LometS93",
 	"ee": "http://www.vldb.org/conf/1993/P380.PDF",
+	"isbn": "1-55860-152-X",
 	"pages": "380-390",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"exploit",
-		"a",
-		"histori",
-		"databas",
-		"for",
-		"backup"
-	],
-	"tag": [
-		"database"
-	],
+	"stemmed": ["exploit", "a", "histori", "databas", "for", "backup"],
+	"tag": ["database"],
 	"title": "Exploiting A History Database for Backup",
 	"type": "inproceedings",
 	"venue": "VLDB",

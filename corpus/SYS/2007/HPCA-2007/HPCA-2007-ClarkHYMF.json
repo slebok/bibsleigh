@@ -1,39 +1,17 @@
 {
-	"author": [
-		"Nathan Clark",
-		"Amir Hormati",
-		"Sami Yehia",
-		"Scott A. Mahlke",
-		"Krisztián Flautner"
-	],
+	"author": ["Nathan Clark", "Amir Hormati", "Sami Yehia", "Scott A. Mahlke", "Krisztián Flautner"],
 	"booktitle": "Proceedings of the 13th International Conference on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2007",
 	"dblpkey": "conf/hpca/ClarkHYMF07",
 	"doi": "10.1109/HPCA.2007.346199",
-	"ee": [
-		"http://dx.doi.org/10.1109/HPCA.2007.346199",
-		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2007.346199"
-	],
+	"ee": ["http://dx.doi.org/10.1109/HPCA.2007.346199", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2007.346199"],
+	"isbn": "1-4244-0804-0",
 	"pages": "216-227",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"liquid",
-		"simd",
-		"abstract",
-		"simd",
-		"hardwar",
-		"use",
-		"lightweight",
-		"dynam",
-		"map"
-	],
-	"tag": [
-		"hardware",
-		"lightweight",
-		"using"
-	],
+	"stemmed": ["liquid", "simd", "abstract", "simd", "hardwar", "use", "lightweight", "dynam", "map"],
+	"tag": ["hardware", "lightweight", "using"],
 	"title": "Liquid SIMD: Abstracting SIMD Hardware using Lightweight Dynamic Mapping",
 	"type": "inproceedings",
 	"venue": "HPCA",

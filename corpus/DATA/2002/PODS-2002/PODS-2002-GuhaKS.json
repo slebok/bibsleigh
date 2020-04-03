@@ -1,33 +1,16 @@
 {
-	"author": [
-		"Sudipto Guha",
-		"Nick Koudas",
-		"Divesh Srivastava"
-	],
+	"author": ["Sudipto Guha", "Nick Koudas", "Divesh Srivastava"],
 	"booktitle": "Proceedings of the 21st Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2002",
 	"dblpkey": "conf/pods/GuhaKS02",
 	"doi": "10.1145/543613.543637",
-	"ee": [
-		"http://doi.acm.org/10.1145/543613.543637",
-		"http://www.acm.org/sigs/sigmod/pods/proc02/papers/180-GuhaKS.pdf"
-	],
+	"ee": ["http://doi.acm.org/10.1145/543613.543637", "http://www.acm.org/sigs/sigmod/pods/proc02/papers/180-GuhaKS.pdf"],
+	"isbn": "1-58113-507-6",
 	"pages": "180-187",
 	"publisher": "ACM",
-	"stemmed": [
-		"fast",
-		"algorithm",
-		"for",
-		"hierarch",
-		"rang",
-		"histogram",
-		"construct"
-	],
-	"tag": [
-		"algorithm",
-		"performance"
-	],
+	"stemmed": ["fast", "algorithm", "for", "hierarch", "rang", "histogram", "construct"],
+	"tag": ["algorithm", "performance"],
 	"title": "Fast Algorithms For Hierarchical Range Histogram Construction",
 	"type": "inproceedings",
 	"venue": "PODS",

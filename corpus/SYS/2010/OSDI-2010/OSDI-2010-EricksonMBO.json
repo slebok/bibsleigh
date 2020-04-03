@@ -1,32 +1,15 @@
 {
-	"author": [
-		"John Erickson",
-		"Madanlal Musuvathi",
-		"Sebastian Burckhardt",
-		"Kirk Olynyk"
-	],
+	"author": ["John Erickson", "Madanlal Musuvathi", "Sebastian Burckhardt", "Kirk Olynyk"],
 	"booktitle": "Proceedings of the Ninth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2010",
 	"dblpkey": "conf/osdi/EricksonMBO10",
 	"ee": "http://www.usenix.org/events/osdi10/tech/full_papers/Erickson.pdf",
+	"isbn": "978-1-931971-79-9",
 	"pages": "151-162",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"effect",
-		"data",
-		"race",
-		"detect",
-		"for",
-		"the",
-		"kernel"
-	],
-	"tag": [
-		"concurrent",
-		"detection",
-		"effectiveness",
-		"kernel"
-	],
+	"stemmed": ["effect", "data", "race", "detect", "for", "the", "kernel"],
+	"tag": ["concurrent", "detection", "effectiveness", "kernel"],
 	"title": "Effective Data-Race Detection for the Kernel",
 	"type": "inproceedings",
 	"venue": "OSDI",

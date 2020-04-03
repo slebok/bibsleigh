@@ -1,36 +1,15 @@
 {
-	"author": [
-		"Ferdinando Alessi",
-		"Annalisa Massini",
-		"Roberto Basili"
-	],
+	"author": ["Ferdinando Alessi", "Annalisa Massini", "Roberto Basili"],
 	"booktitle": "Proceedings of the 20th Euromicro International Conference on Parallel, Distributed and Network-Based Processing, PDP 2012, Munich, Germany, February 15-17, 2012",
 	"booktitleshort": "PDP",
 	"crossref": "conf/pdp/2012",
 	"dblpkey": "conf/pdp/AlessiMB12",
 	"doi": "10.1109/PDP.2012.85",
+	"isbn": "978-1-4673-0226-5",
 	"pages": "434-441",
 	"publisher": "IEEE",
-	"stemmed": [
-		"acceler",
-		"the",
-		"product",
-		"of",
-		"synthet",
-		"seismogram",
-		"by",
-		"a",
-		"multicor",
-		"processor",
-		"cluster",
-		"with",
-		"multipl",
-		"gpus"
-	],
-	"tag": [
-		"clustering",
-		"manycore"
-	],
+	"stemmed": ["acceler", "the", "product", "of", "synthet", "seismogram", "by", "a", "multicor", "processor", "cluster", "with", "multipl", "gpus"],
+	"tag": ["clustering", "manycore"],
 	"title": "Accelerating the Production of Synthetic Seismograms by a Multicore Processor Cluster with Multiple GPUs",
 	"type": "inproceedings",
 	"venue": "PDP",

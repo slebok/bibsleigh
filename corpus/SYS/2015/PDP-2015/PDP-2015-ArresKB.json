@@ -1,35 +1,15 @@
 {
-	"author": [
-		"Billel Arres",
-		"Nadia Kabachi",
-		"Omar Boussaïd"
-	],
+	"author": ["Billel Arres", "Nadia Kabachi", "Omar Boussaïd"],
 	"booktitle": "Proceedings of the 23rd Euromicro International Conference on Parallel, Distributed, and Network-Based Processing",
 	"booktitleshort": "PDP",
 	"crossref": "conf/pdp/2015",
 	"dblpkey": "conf/pdp/ArresKB15",
 	"doi": "10.1109/PDP.2015.45",
+	"isbn": "978-1-4799-8491-6",
 	"pages": "520-524",
 	"publisher": "IEEE",
-	"stemmed": [
-		"optim",
-		"olap",
-		"cube",
-		"construct",
-		"by",
-		"improv",
-		"data",
-		"placement",
-		"on",
-		"multi",
-		"node",
-		"cluster"
-	],
-	"tag": [
-		"clustering",
-		"multi",
-		"optimisation"
-	],
+	"stemmed": ["optim", "olap", "cube", "construct", "by", "improv", "data", "placement", "on", "multi", "node", "cluster"],
+	"tag": ["clustering", "multi", "optimisation"],
 	"title": "Optimizing OLAP Cubes Construction by Improving Data Placement on Multi-nodes Clusters",
 	"type": "inproceedings",
 	"venue": "PDP",

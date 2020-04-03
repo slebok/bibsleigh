@@ -1,44 +1,17 @@
 {
-	"author": [
-		"María Jesús Garzarán",
-		"Milos Prvulovic",
-		"José María Llabería",
-		"Víctor Viñals",
-		"Lawrence Rauchwerger",
-		"Josep Torrellas"
-	],
+	"author": ["María Jesús Garzarán", "Milos Prvulovic", "José María Llabería", "Víctor Viñals", "Lawrence Rauchwerger", "Josep Torrellas"],
 	"booktitle": "Proceedings of the Ninth International Symposium on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2003",
 	"dblpkey": "conf/hpca/GarzaranPLVRT03",
 	"doi": "10.1109/HPCA.2003.1183537",
-	"ee": [
-		"http://dx.doi.org/10.1109/HPCA.2003.1183537",
-		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2003.1183537"
-	],
+	"ee": ["http://dx.doi.org/10.1109/HPCA.2003.1183537", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2003.1183537"],
+	"isbn": "0-7695-1871-0",
 	"pages": "191-202",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"tradeoff",
-		"in",
-		"buffer",
-		"memori",
-		"state",
-		"for",
-		"thread",
-		"level",
-		"specul",
-		"in",
-		"multiprocessor"
-	],
-	"tag": [
-		"concurrent",
-		"memory management",
-		"multi",
-		"thread",
-		"trade-off"
-	],
+	"stemmed": ["tradeoff", "in", "buffer", "memori", "state", "for", "thread", "level", "specul", "in", "multiprocessor"],
+	"tag": ["concurrent", "memory management", "multi", "thread", "trade-off"],
 	"title": "Tradeoffs in Buffering Memory State for Thread-Level Speculation in Multiprocessors",
 	"type": "inproceedings",
 	"venue": "HPCA",

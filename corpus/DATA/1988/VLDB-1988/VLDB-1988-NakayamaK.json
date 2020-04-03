@@ -1,38 +1,16 @@
 {
-	"author": [
-		"Masaya Nakayama",
-		"Masaru Kitsuregawa",
-		"Mikio Takagi"
-	],
+	"author": ["Masaya Nakayama", "Masaru Kitsuregawa", "Mikio Takagi"],
 	"booktitle": "Proceedings of the 14th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"conf/vldb/BittonDT83",
-		"conf/sigmod/DeWittKOSSW84",
-		"conf/vldb/DeWittG85",
-		"...",
-		"journals/ngc/KitsuregawaTM83",
-		"journals/tods/Shapiro86",
-		"journals/tods/StonebrakerWKH76"
-	],
+	"cite": ["conf/vldb/BittonDT83", "conf/sigmod/DeWittKOSSW84", "conf/vldb/DeWittG85", "...", "journals/ngc/KitsuregawaTM83", "journals/tods/Shapiro86", "journals/tods/StonebrakerWKH76"],
 	"crossref": "conf/vldb/88",
 	"dblpkey": "conf/vldb/NakayamaK88",
 	"ee": "http://www.vldb.org/conf/1988/P468.PDF",
+	"isbn": "0-934613-75-3",
 	"pages": "468-478",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"hash",
-		"partit",
-		"join",
-		"method",
-		"use",
-		"dynam",
-		"destag",
-		"strategi"
-	],
-	"tag": [
-		"using"
-	],
+	"stemmed": ["hash", "partit", "join", "method", "use", "dynam", "destag", "strategi"],
+	"tag": ["using"],
 	"title": "Hash-Partitioned Join Method Using Dynamic Destaging Strategy",
 	"type": "inproceedings",
 	"venue": "VLDB",

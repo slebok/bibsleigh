@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Bishwaranjan Bhattacharjee",
-		"Sriram Padmanabhan",
-		"Timothy Malkemus",
-		"Tony Lai",
-		"Leslie Cranston",
-		"Matthew Huras"
-	],
+	"author": ["Bishwaranjan Bhattacharjee", "Sriram Padmanabhan", "Timothy Malkemus", "Tony Lai", "Leslie Cranston", "Matthew Huras"],
 	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/BhattacharjeePMLCH03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S29P01.pdf",
+	"isbn": "0-12-722442-4",
 	"pages": "963-974",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"effici",
-		"queri",
-		"process",
-		"for",
-		"multi",
-		"dimension",
-		"cluster",
-		"tabl",
-		"in",
-		"db"
-	],
-	"tag": [
-		"clustering",
-		"multi",
-		"performance",
-		"query"
-	],
+	"stemmed": ["effici", "queri", "process", "for", "multi", "dimension", "cluster", "tabl", "in", "db"],
+	"tag": ["clustering", "multi", "performance", "query"],
 	"title": "Efficient Query Processing for Multi-Dimensionally Clustered Tables in DB2",
 	"type": "inproceedings",
 	"venue": "VLDB",

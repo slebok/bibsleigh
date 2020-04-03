@@ -1,36 +1,16 @@
 {
-	"author": [
-		"Gennady Pekhimenko",
-		"Tyler Huberty",
-		"Rui Cai",
-		"Onur Mutlu",
-		"Phillip B. Gibbons",
-		"Michael A. Kozuch",
-		"Todd C. Mowry"
-	],
+	"author": ["Gennady Pekhimenko", "Tyler Huberty", "Rui Cai", "Onur Mutlu", "Phillip B. Gibbons", "Michael A. Kozuch", "Todd C. Mowry"],
 	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2015",
 	"dblpkey": "conf/hpca/PekhimenkoHCMGK15",
 	"doi": "10.1109/HPCA.2015.7056021",
 	"ee": "http://dx.doi.org/10.1109/HPCA.2015.7056021",
+	"isbn": "978-1-4799-8930-0",
 	"pages": "51-63",
 	"publisher": "IEEE",
-	"stemmed": [
-		"exploit",
-		"compress",
-		"block",
-		"size",
-		"as",
-		"an",
-		"indic",
-		"of",
-		"futur",
-		"reus"
-	],
-	"tag": [
-		"reuse"
-	],
+	"stemmed": ["exploit", "compress", "block", "size", "as", "an", "indic", "of", "futur", "reus"],
+	"tag": ["reuse"],
 	"title": "Exploiting compressed block size as an indicator of future reuse",
 	"type": "inproceedings",
 	"venue": "HPCA",

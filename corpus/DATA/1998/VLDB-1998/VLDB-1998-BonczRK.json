@@ -1,35 +1,16 @@
 {
-	"author": [
-		"Peter A. Boncz",
-		"Tim Rühl",
-		"Fred Kwakkel"
-	],
+	"author": ["Peter A. Boncz", "Tim Rühl", "Fred Kwakkel"],
 	"booktitle": "Proceedings of the 24th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"conf/vldb/AgrawalS94",
-		"conf/icde/BronczWK98",
-		"journals/tkde/Garcia-MolinaS92",
-		"books/mk/Gray93",
-		"...",
-		"conf/vldb/ShatdalKN94",
-		"..."
-	],
+	"cite": ["conf/vldb/AgrawalS94", "conf/icde/BronczWK98", "journals/tkde/Garcia-MolinaS92", "books/mk/Gray93", "...", "conf/vldb/ShatdalKN94", "..."],
 	"crossref": "conf/vldb/98",
 	"dblpkey": "conf/vldb/BonczRK98",
 	"ee": "http://www.vldb.org/conf/1998/p628.pdf",
+	"isbn": "1-55860-566-5",
 	"pages": "628-632",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"the",
-		"drill",
-		"down",
-		"benchmark"
-	],
-	"tag": [
-		"benchmark",
-		"metric"
-	],
+	"stemmed": ["the", "drill", "down", "benchmark"],
+	"tag": ["benchmark", "metric"],
 	"title": "The Drill Down Benchmark",
 	"type": "inproceedings",
 	"venue": "VLDB",

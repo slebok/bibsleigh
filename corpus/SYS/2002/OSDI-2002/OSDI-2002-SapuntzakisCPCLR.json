@@ -1,32 +1,16 @@
 {
-	"author": [
-		"Constantine P. Sapuntzakis",
-		"Ramesh Chandra",
-		"Ben Pfaff",
-		"Jim Chow",
-		"Monica S. Lam",
-		"Mendel Rosenblum"
-	],
+	"author": ["Constantine P. Sapuntzakis", "Ramesh Chandra", "Ben Pfaff", "Jim Chow", "Monica S. Lam", "Mendel Rosenblum"],
 	"booktitle": "Proceedings of the Fifth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2002",
 	"dblpkey": "conf/osdi/SapuntzakisCPCLR02",
 	"doi": "10.1145/1060289.1060324",
 	"ee": "http://www.usenix.org/events/osdi02/tech/sapuntzakis.html",
+	"isbn": "978-1-4503-0111-4",
 	"pages": "377-390",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"optim",
-		"the",
-		"migrat",
-		"of",
-		"virtual",
-		"comput"
-	],
-	"tag": [
-		"migration",
-		"optimisation"
-	],
+	"stemmed": ["optim", "the", "migrat", "of", "virtual", "comput"],
+	"tag": ["migration", "optimisation"],
 	"title": "Optimizing the Migration of Virtual Computers",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,34 +1,14 @@
 {
-	"author": [
-		"Alan Halverson",
-		"Josef Burger",
-		"Leonidas Galanis",
-		"Ameet Kini",
-		"Rajasekar Krishnamurthy",
-		"Ajith Nagaraja Rao",
-		"Feng Tian",
-		"Stratis Viglas",
-		"Yuan Wang",
-		"Jeffrey F. Naughton",
-		"David J. DeWitt"
-	],
+	"author": ["Alan Halverson", "Josef Burger", "Leonidas Galanis", "Ameet Kini", "Rajasekar Krishnamurthy", "Ajith Nagaraja Rao", "Feng Tian", "Stratis Viglas", "Yuan Wang", "Jeffrey F. Naughton", "David J. DeWitt"],
 	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/HalversonBKKRTVWND03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S08P02.pdf",
+	"isbn": "0-12-722442-4",
 	"pages": "225-236",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"mix",
-		"mode",
-		"xml",
-		"queri",
-		"process"
-	],
-	"tag": [
-		"query",
-		"xml"
-	],
+	"stemmed": ["mix", "mode", "xml", "queri", "process"],
+	"tag": ["query", "xml"],
 	"title": "Mixed Mode XML Query Processing",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,34 +1,15 @@
 {
-	"author": [
-		"Hong Su",
-		"Elke A. Rundensteiner",
-		"Murali Mani"
-	],
+	"author": ["Hong Su", "Elke A. Rundensteiner", "Murali Mani"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/SuRM05",
 	"ee": "http://www.vldb2005.org/program/paper/wed/p277-su.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "277-288",
 	"publisher": "ACM",
-	"stemmed": [
-		"semant",
-		"queri",
-		"optim",
-		"for",
-		"x",
-		"queri",
-		"over",
-		"xml",
-		"stream"
-	],
-	"tag": [
-		"optimisation",
-		"query",
-		"semantics",
-		"xml",
-		"xquery"
-	],
+	"stemmed": ["semant", "queri", "optim", "for", "x", "queri", "over", "xml", "stream"],
+	"tag": ["optimisation", "query", "semantics", "xml", "xquery"],
 	"title": "Semantic Query Optimization for XQuery over XML Streams",
 	"type": "inproceedings",
 	"venue": "VLDB",

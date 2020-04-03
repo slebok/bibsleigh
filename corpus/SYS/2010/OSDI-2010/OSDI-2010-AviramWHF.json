@@ -1,28 +1,15 @@
 {
-	"author": [
-		"Amittai Aviram",
-		"Shu-Chun Weng",
-		"Sen Hu",
-		"Bryan Ford"
-	],
+	"author": ["Amittai Aviram", "Shu-Chun Weng", "Sen Hu", "Bryan Ford"],
 	"booktitle": "Proceedings of the Ninth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2010",
 	"dblpkey": "conf/osdi/AviramWHF10",
 	"ee": "http://www.usenix.org/events/osdi10/tech/full_papers/Aviram.pdf",
+	"isbn": "978-1-931971-79-9",
 	"pages": "193-206",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"effici",
-		"system",
-		"enforc",
-		"determinist",
-		"parallel"
-	],
-	"tag": [
-		"parallel",
-		"performance"
-	],
+	"stemmed": ["effici", "system", "enforc", "determinist", "parallel"],
+	"tag": ["parallel", "performance"],
 	"title": "Efficient System-Enforced Deterministic Parallelism",
 	"type": "inproceedings",
 	"venue": "OSDI",

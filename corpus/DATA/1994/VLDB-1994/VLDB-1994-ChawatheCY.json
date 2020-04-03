@@ -1,47 +1,16 @@
 {
-	"author": [
-		"Sudarshan S. Chawathe",
-		"Ming-Syan Chen",
-		"Philip S. Yu"
-	],
+	"author": ["Sudarshan S. Chawathe", "Ming-Syan Chen", "Philip S. Yu"],
 	"booktitle": "Proceedings of the 20th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"conf/edbt/Bertino90",
-		"conf/ride/BertinoG92",
-		"journals/tkde/BertinoK89",
-		"conf/sigmod/CareyDN93",
-		"books/aw/Cattell91",
-		"conf/icde/ChoenniBBC94",
-		"journals/tods/Christodoulakis84",
-		"...",
-		"journals/is/KemperM92",
-		"conf/icde/KimKD89",
-		"...",
-		"conf/dood/LowLOH91",
-		"conf/oodbs/MaierS86",
-		"conf/oopsla/MaierSOP86",
-		"...",
-		"conf/dood/Ullman91"
-	],
+	"cite": ["conf/edbt/Bertino90", "conf/ride/BertinoG92", "journals/tkde/BertinoK89", "conf/sigmod/CareyDN93", "books/aw/Cattell91", "conf/icde/ChoenniBBC94", "journals/tods/Christodoulakis84", "...", "journals/is/KemperM92", "conf/icde/KimKD89", "...", "conf/dood/LowLOH91", "conf/oodbs/MaierS86", "conf/oopsla/MaierSOP86", "...", "conf/dood/Ullman91"],
 	"crossref": "conf/vldb/94",
 	"dblpkey": "conf/vldb/ChawatheCY94",
 	"ee": "http://www.vldb.org/conf/1994/P331.PDF",
+	"isbn": "1-55860-153-8",
 	"pages": "331-341",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"on",
-		"index",
-		"select",
-		"scheme",
-		"for",
-		"nest",
-		"object",
-		"hierarchi"
-	],
-	"tag": [
-		"on the"
-	],
+	"stemmed": ["on", "index", "select", "scheme", "for", "nest", "object", "hierarchi"],
+	"tag": ["on the"],
 	"title": "On Index Selection Schemes for Nested Object Hierarchies",
 	"type": "inproceedings",
 	"venue": "VLDB",

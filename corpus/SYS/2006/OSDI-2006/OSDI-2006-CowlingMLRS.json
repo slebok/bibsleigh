@@ -1,36 +1,15 @@
 {
-	"author": [
-		"James A. Cowling",
-		"Daniel S. Myers",
-		"Barbara Liskov",
-		"Rodrigo Rodrigues",
-		"Liuba Shrira"
-	],
+	"author": ["James A. Cowling", "Daniel S. Myers", "Barbara Liskov", "Rodrigo Rodrigues", "Liuba Shrira"],
 	"booktitle": "Proceedings of the Seventh Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2006",
 	"dblpkey": "conf/osdi/CowlingMLRS06",
 	"ee": "http://www.usenix.org/events/osdi06/tech/cowling.html",
+	"isbn": "1-931971-47-1",
 	"pages": "177-190",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"hq",
-		"replic",
-		"a",
-		"hybrid",
-		"quorum",
-		"protocol",
-		"for",
-		"byzantin",
-		"fault",
-		"toler"
-	],
-	"tag": [
-		"fault tolerance",
-		"hybrid",
-		"protocol",
-		"replication"
-	],
+	"stemmed": ["hq", "replic", "a", "hybrid", "quorum", "protocol", "for", "byzantin", "fault", "toler"],
+	"tag": ["fault tolerance", "hybrid", "protocol", "replication"],
 	"title": "HQ Replication: A Hybrid Quorum Protocol for Byzantine Fault Tolerance",
 	"type": "inproceedings",
 	"venue": "OSDI",

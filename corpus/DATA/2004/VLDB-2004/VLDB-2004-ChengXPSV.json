@@ -1,36 +1,15 @@
 {
-	"author": [
-		"Reynold Cheng",
-		"Yuni Xia",
-		"Sunil Prabhakar",
-		"Rahul Shah",
-		"Jeffrey Scott Vitter"
-	],
+	"author": ["Reynold Cheng", "Yuni Xia", "Sunil Prabhakar", "Rahul Shah", "Jeffrey Scott Vitter"],
 	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/ChengXPSV04",
 	"ee": "http://www.vldb.org/conf/2004/RS22P2.PDF",
+	"isbn": "0-12-088469-0",
 	"pages": "876-887",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"effici",
-		"index",
-		"method",
-		"for",
-		"probabilist",
-		"threshold",
-		"queri",
-		"over",
-		"uncertain",
-		"data"
-	],
-	"tag": [
-		"nondeterminism",
-		"performance",
-		"probability",
-		"query"
-	],
+	"stemmed": ["effici", "index", "method", "for", "probabilist", "threshold", "queri", "over", "uncertain", "data"],
+	"tag": ["nondeterminism", "performance", "probability", "query"],
 	"title": "Efficient Indexing Methods for Probabilistic Threshold Queries over Uncertain Data",
 	"type": "inproceedings",
 	"venue": "VLDB",

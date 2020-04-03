@@ -1,32 +1,15 @@
 {
-	"author": [
-		"Brian Demsky",
-		"Patrick Lam"
-	],
+	"author": ["Brian Demsky", "Patrick Lam"],
 	"booktitle": "Proceedings of the 30th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2015",
 	"dblpkey": "conf/oopsla/DemskyL15",
 	"doi": "10.1145/2814270.2814297",
+	"isbn": "978-1-4503-3689-5",
 	"pages": "20-36",
 	"publisher": "ACM",
-	"stemmed": [
-		"sat",
-		"check",
-		"sat",
-		"direct",
-		"stateless",
-		"model",
-		"check",
-		"for",
-		"sc",
-		"and",
-		"tso"
-	],
-	"tag": [
-		"model checking",
-		"named"
-	],
+	"stemmed": ["sat", "check", "sat", "direct", "stateless", "model", "check", "for", "sc", "and", "tso"],
+	"tag": ["model checking", "named"],
 	"title": "SATCheck: SAT-directed stateless model checking for SC and TSO",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

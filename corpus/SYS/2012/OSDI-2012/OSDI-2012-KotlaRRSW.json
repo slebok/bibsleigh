@@ -1,35 +1,15 @@
 {
-	"author": [
-		"Ramakrishna Kotla",
-		"Tom Rodeheffer",
-		"Indrajit Roy",
-		"Patrick Stuedi",
-		"Benjamin Wester"
-	],
+	"author": ["Ramakrishna Kotla", "Tom Rodeheffer", "Indrajit Roy", "Patrick Stuedi", "Benjamin Wester"],
 	"booktitle": "Proceedings of the 10th Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2012",
 	"dblpkey": "conf/osdi/KotlaRRSW12",
 	"ee": "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kotla",
+	"isbn": "978-1-931971-96-6",
 	"pages": "321-334",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"pastur",
-		"secur",
-		"offlin",
-		"data",
-		"access",
-		"use",
-		"commod",
-		"trust",
-		"hardwar"
-	],
-	"tag": [
-		"data access",
-		"hardware",
-		"named",
-		"using"
-	],
+	"stemmed": ["pastur", "secur", "offlin", "data", "access", "use", "commod", "trust", "hardwar"],
+	"tag": ["data access", "hardware", "named", "using"],
 	"title": "Pasture: Secure Offline Data Access Using Commodity Trusted Hardware",
 	"type": "inproceedings",
 	"venue": "OSDI",

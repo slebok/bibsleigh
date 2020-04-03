@@ -1,34 +1,15 @@
 {
-	"author": [
-		"José M. Badía",
-		"Antonio M. Vidal"
-	],
+	"author": ["José M. Badía", "Antonio M. Vidal"],
 	"booktitle": "Proceedings of the Euromicro Workshop on Parallel and Distributed Processing",
 	"booktitleshort": "PDP",
 	"crossref": "conf/pdp/1993",
 	"dblpkey": "conf/pdp/BadiaV93",
 	"doi": "10.1109/EMPDP.1993.336402",
+	"isbn": "0-8186-3610-6",
 	"pages": "203-210",
 	"publisher": "IEEE",
-	"stemmed": [
-		"a",
-		"parallel",
-		"algorithm",
-		"to",
-		"solv",
-		"tridiagon",
-		"system",
-		"on",
-		"distribut",
-		"memori",
-		"multiprocessor"
-	],
-	"tag": [
-		"algorithm",
-		"distributed",
-		"memory management",
-		"parallel"
-	],
+	"stemmed": ["a", "parallel", "algorithm", "to", "solv", "tridiagon", "system", "on", "distribut", "memori", "multiprocessor"],
+	"tag": ["algorithm", "distributed", "memory management", "parallel"],
 	"title": "A parallel algorithm to solve tridiagonal systems on distributed memory multiprocessors",
 	"type": "inproceedings",
 	"venue": "PDP",

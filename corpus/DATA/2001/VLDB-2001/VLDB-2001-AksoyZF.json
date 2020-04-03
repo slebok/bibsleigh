@@ -1,28 +1,15 @@
 {
-	"author": [
-		"Demet Aksoy",
-		"Michael J. Franklin",
-		"Stanley B. Zdonik"
-	],
+	"author": ["Demet Aksoy", "Michael J. Franklin", "Stanley B. Zdonik"],
 	"booktitle": "Proceedings of the 27th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2001",
 	"dblpkey": "conf/vldb/AksoyZF01",
 	"ee": "http://www.vldb.org/conf/2001/P571.pdf",
+	"isbn": "1-55860-804-4",
 	"pages": "571-580",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"data",
-		"stage",
-		"for",
-		"on",
-		"demand",
-		"broadcast"
-	],
-	"tag": [
-		"on-demand",
-		"staging"
-	],
+	"stemmed": ["data", "stage", "for", "on", "demand", "broadcast"],
+	"tag": ["on-demand", "staging"],
 	"title": "Data Staging for On-Demand Broadcast",
 	"type": "inproceedings",
 	"venue": "VLDB",

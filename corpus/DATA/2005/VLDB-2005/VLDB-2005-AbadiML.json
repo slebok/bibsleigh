@@ -1,35 +1,15 @@
 {
-	"author": [
-		"Daniel J. Abadi",
-		"Samuel Madden",
-		"Wolfgang Lindner"
-	],
+	"author": ["Daniel J. Abadi", "Samuel Madden", "Wolfgang Lindner"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/AbadiML05",
 	"ee": "http://www.vldb2005.org/program/paper/thu/p769-abadi.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "769-780",
 	"publisher": "ACM",
-	"stemmed": [
-		"reed",
-		"robust",
-		"effici",
-		"filter",
-		"and",
-		"event",
-		"detect",
-		"in",
-		"sensor",
-		"network"
-	],
-	"tag": [
-		"detection",
-		"named",
-		"network",
-		"performance",
-		"robust"
-	],
+	"stemmed": ["reed", "robust", "effici", "filter", "and", "event", "detect", "in", "sensor", "network"],
+	"tag": ["detection", "named", "network", "performance", "robust"],
 	"title": "REED: Robust, Efficient Filtering and Event Detection in Sensor Networks",
 	"type": "inproceedings",
 	"venue": "VLDB",

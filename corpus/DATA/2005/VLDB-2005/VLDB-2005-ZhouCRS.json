@@ -1,32 +1,15 @@
 {
-	"author": [
-		"Jingren Zhou",
-		"John Cieslewicz",
-		"Kenneth A. Ross",
-		"Mihir Shah"
-	],
+	"author": ["Jingren Zhou", "John Cieslewicz", "Kenneth A. Ross", "Mihir Shah"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/ZhouCRS05",
 	"ee": "http://www.vldb2005.org/program/paper/tue/p49-zhou.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "49-60",
 	"publisher": "ACM",
-	"stemmed": [
-		"improv",
-		"databas",
-		"perform",
-		"on",
-		"simultan",
-		"multithread",
-		"processor"
-	],
-	"tag": [
-		"database",
-		"multi",
-		"performance",
-		"thread"
-	],
+	"stemmed": ["improv", "databas", "perform", "on", "simultan", "multithread", "processor"],
+	"tag": ["database", "multi", "performance", "thread"],
 	"title": "Improving Database Performance on Simultaneous Multithreading Processors",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,29 +1,15 @@
 {
-	"author": [
-		"Sudipto Guha",
-		"Kyuseok Shim",
-		"Jungchul Woo"
-	],
+	"author": ["Sudipto Guha", "Kyuseok Shim", "Jungchul Woo"],
 	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/GuhaSW04",
 	"ee": "http://www.vldb.org/conf/2004/RS8P2.PDF",
+	"isbn": "0-12-088469-0",
 	"pages": "300-311",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"rehist",
-		"relat",
-		"error",
-		"histogram",
-		"construct",
-		"algorithm"
-	],
-	"tag": [
-		"algorithm",
-		"fault",
-		"named"
-	],
+	"stemmed": ["rehist", "relat", "error", "histogram", "construct", "algorithm"],
+	"tag": ["algorithm", "fault", "named"],
 	"title": "REHIST: Relative Error Histogram Construction Algorithms",
 	"type": "inproceedings",
 	"venue": "VLDB",

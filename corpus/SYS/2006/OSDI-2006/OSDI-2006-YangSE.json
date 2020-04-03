@@ -1,34 +1,15 @@
 {
-	"author": [
-		"Junfeng Yang",
-		"Can Sar",
-		"Dawson R. Engler"
-	],
+	"author": ["Junfeng Yang", "Can Sar", "Dawson R. Engler"],
 	"booktitle": "Proceedings of the Seventh Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2006",
 	"dblpkey": "conf/osdi/YangSE06",
 	"ee": "http://www.usenix.org/events/osdi06/tech/yang_junfeng.html",
+	"isbn": "1-931971-47-1",
 	"pages": "131-146",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"explod",
-		"a",
-		"lightweight",
-		"general",
-		"system",
-		"for",
-		"find",
-		"serious",
-		"storag",
-		"system",
-		"error"
-	],
-	"tag": [
-		"fault",
-		"lightweight",
-		"named"
-	],
+	"stemmed": ["explod", "a", "lightweight", "general", "system", "for", "find", "serious", "storag", "system", "error"],
+	"tag": ["fault", "lightweight", "named"],
 	"title": "EXPLODE: A Lightweight, General System for Finding Serious Storage System Errors",
 	"type": "inproceedings",
 	"venue": "OSDI",

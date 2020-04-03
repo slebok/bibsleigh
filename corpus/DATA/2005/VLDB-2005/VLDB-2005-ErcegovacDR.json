@@ -1,37 +1,15 @@
 {
-	"author": [
-		"Vuk Ercegovac",
-		"David J. DeWitt",
-		"Raghu Ramakrishnan"
-	],
+	"author": ["Vuk Ercegovac", "David J. DeWitt", "Raghu Ramakrishnan"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/ErcegovacDR05",
 	"ee": "http://www.vldb2005.org/program/paper/wed/p313-ercegovac.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "313-324",
 	"publisher": "ACM",
-	"stemmed": [
-		"the",
-		"textur",
-		"benchmark",
-		"measur",
-		"perform",
-		"of",
-		"text",
-		"queri",
-		"on",
-		"a",
-		"relat",
-		"dbms"
-	],
-	"tag": [
-		"benchmark",
-		"metric",
-		"performance",
-		"query",
-		"relational"
-	],
+	"stemmed": ["the", "textur", "benchmark", "measur", "perform", "of", "text", "queri", "on", "a", "relat", "dbms"],
+	"tag": ["benchmark", "metric", "performance", "query", "relational"],
 	"title": "The TEXTURE Benchmark: Measuring Performance of Text Queries on a Relational DBMS",
 	"type": "inproceedings",
 	"venue": "VLDB",

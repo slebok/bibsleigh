@@ -1,38 +1,15 @@
 {
-	"author": [
-		"Filippo Spiga",
-		"Ivan Girotto"
-	],
+	"author": ["Filippo Spiga", "Ivan Girotto"],
 	"booktitle": "Proceedings of the 20th Euromicro International Conference on Parallel, Distributed and Network-Based Processing, PDP 2012, Munich, Germany, February 15-17, 2012",
 	"booktitleshort": "PDP",
 	"crossref": "conf/pdp/2012",
 	"dblpkey": "conf/pdp/SpigaG12",
 	"doi": "10.1109/PDP.2012.72",
+	"isbn": "978-1-4673-0226-5",
 	"pages": "368-375",
 	"publisher": "IEEE",
-	"stemmed": [
-		"phigemm",
-		"a",
-		"cpu",
-		"gpu",
-		"librari",
-		"for",
-		"port",
-		"quantum",
-		"espresso",
-		"on",
-		"hybrid",
-		"system"
-	],
-	"tag": [
-		"cpu",
-		"gpu",
-		"hybrid",
-		"library",
-		"migration",
-		"named",
-		"quantum"
-	],
+	"stemmed": ["phigemm", "a", "cpu", "gpu", "librari", "for", "port", "quantum", "espresso", "on", "hybrid", "system"],
+	"tag": ["cpu", "gpu", "hybrid", "library", "migration", "named", "quantum"],
 	"title": "phiGEMM: A CPU-GPU Library for Porting Quantum ESPRESSO on Hybrid Systems",
 	"type": "inproceedings",
 	"venue": "PDP",

@@ -1,31 +1,17 @@
 {
-	"author": [
-		"Zhigang Hu",
-		"Margaret Martonosi",
-		"Stefanos Kaxiras"
-	],
+	"author": ["Zhigang Hu", "Margaret Martonosi", "Stefanos Kaxiras"],
 	"booktitle": "Proceedings of the Ninth International Symposium on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2003",
 	"dblpkey": "conf/hpca/HuMK03",
 	"doi": "10.1109/HPCA.2003.1183549",
-	"ee": [
-		"http://dx.doi.org/10.1109/HPCA.2003.1183549",
-		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2003.1183549"
-	],
+	"ee": ["http://dx.doi.org/10.1109/HPCA.2003.1183549", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2003.1183549"],
+	"isbn": "0-7695-1871-0",
 	"pages": "317-326",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"tcp",
-		"tag",
-		"correl",
-		"prefetch"
-	],
-	"tag": [
-		"correlation",
-		"named"
-	],
+	"stemmed": ["tcp", "tag", "correl", "prefetch"],
+	"tag": ["correlation", "named"],
 	"title": "TCP: Tag Correlating Prefetchers",
 	"type": "inproceedings",
 	"venue": "HPCA",

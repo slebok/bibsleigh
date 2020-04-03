@@ -1,30 +1,15 @@
 {
-	"author": [
-		"Taesoo Kim",
-		"Ramesh Chandra",
-		"Nickolai Zeldovich"
-	],
+	"author": ["Taesoo Kim", "Ramesh Chandra", "Nickolai Zeldovich"],
 	"booktitle": "Proceedings of the 10th Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2012",
 	"dblpkey": "conf/osdi/KimCZ12",
 	"ee": "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kim",
+	"isbn": "978-1-931971-96-6",
 	"pages": "193-206",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"effici",
-		"patch",
-		"base",
-		"audit",
-		"for",
-		"web",
-		"applic",
-		"vulner"
-	],
-	"tag": [
-		"performance",
-		"web"
-	],
+	"stemmed": ["effici", "patch", "base", "audit", "for", "web", "applic", "vulner"],
+	"tag": ["performance", "web"],
 	"title": "Efficient Patch-based Auditing for Web Application Vulnerabilities",
 	"type": "inproceedings",
 	"venue": "OSDI",

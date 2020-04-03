@@ -1,32 +1,15 @@
 {
-	"author": [
-		"Sang Kyun Cha",
-		"Changbin Song"
-	],
+	"author": ["Sang Kyun Cha", "Changbin Song"],
 	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/Cha04",
 	"ee": "http://www.vldb.org/conf/2004/IND2P2.PDF",
+	"isbn": "0-12-088469-0",
 	"pages": "1033-1044",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"p",
-		"time",
-		"high",
-		"scalabl",
-		"oltp",
-		"dbms",
-		"for",
-		"manag",
-		"updat",
-		"intens",
-		"stream",
-		"workload"
-	],
-	"tag": [
-		"scalability"
-	],
+	"stemmed": ["p", "time", "high", "scalabl", "oltp", "dbms", "for", "manag", "updat", "intens", "stream", "workload"],
+	"tag": ["scalability"],
 	"title": "P*TIME: Highly Scalable OLTP DBMS for Managing Update-Intensive Stream Workload",
 	"type": "inproceedings",
 	"venue": "VLDB",

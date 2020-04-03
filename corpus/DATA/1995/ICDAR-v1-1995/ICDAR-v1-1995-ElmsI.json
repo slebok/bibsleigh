@@ -1,39 +1,17 @@
 {
-	"author": [
-		"A. J. Elms",
-		"John Illingworth"
-	],
+	"author": ["A. J. Elms", "John Illingworth"],
 	"booktitle": "Proceedings of the Third International Conference on Document Analysis and Recognition (Volume I)",
 	"booktitleshort": "ICDAR v1",
 	"crossref": "conf/icdar/1995-1",
 	"dblpkey": "conf/icdar/ElmsI95",
 	"doi": "10.1109/ICDAR.1995.599044",
-	"ee": [
-		"http://dx.doi.org/10.1109/ICDAR.1995.599044",
-		"http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.599044"
-	],
+	"ee": ["http://dx.doi.org/10.1109/ICDAR.1995.599044", "http://doi.ieeecomputersociety.org/10.1109/ICDAR.1995.599044"],
+	"isbn": "0-8186-7128-9",
 	"pages": "504-507",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"model",
-		"polyfont",
-		"print",
-		"charact",
-		"with",
-		"hmms",
-		"and",
-		"a",
-		"shift",
-		"invari",
-		"ham",
-		"distanc"
-	],
-	"tag": [
-		"distance",
-		"invariant",
-		"modelling"
-	],
+	"stemmed": ["model", "polyfont", "print", "charact", "with", "hmms", "and", "a", "shift", "invari", "ham", "distanc"],
+	"tag": ["distance", "invariant", "modelling"],
 	"title": "Modelling polyfont printed characters with HMMs and a shift invariant Hamming distance",
 	"type": "inproceedings",
 	"venue": "ICDAR",

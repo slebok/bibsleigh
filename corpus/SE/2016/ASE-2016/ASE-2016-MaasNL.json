@@ -1,31 +1,16 @@
 {
-	"author": [
-		"Alisa J. Maas",
-		"Henrique Nazaré",
-		"Ben Liblit"
-	],
+	"author": ["Alisa J. Maas", "Henrique Nazaré", "Ben Liblit"],
 	"booktitle": "Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering",
 	"booktitleshort": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/MaasNL16",
 	"doi": "10.1145/2970276.2970310",
 	"ee": "http://ieeexplore.ieee.org/document/7582782/",
+	"isbn": "978-1-4503-3845-5",
 	"pages": "461-471",
 	"publisher": "ACM",
-	"stemmed": [
-		"array",
-		"length",
-		"infer",
-		"for",
-		"c",
-		"librari",
-		"bind"
-	],
-	"tag": [
-		"array",
-		"c",
-		"library"
-	],
+	"stemmed": ["array", "length", "infer", "for", "c", "librari", "bind"],
+	"tag": ["array", "c", "library"],
 	"title": "Array length inference for C library bindings",
 	"type": "inproceedings",
 	"venue": "ASE",

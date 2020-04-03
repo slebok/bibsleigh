@@ -1,36 +1,15 @@
 {
-	"author": [
-		"Diwaker Gupta",
-		"Sangmin Lee",
-		"Michael Vrable",
-		"Stefan Savage",
-		"Alex C. Snoeren",
-		"George Varghese",
-		"Geoffrey M. Voelker",
-		"Amin Vahdat"
-	],
+	"author": ["Diwaker Gupta", "Sangmin Lee", "Michael Vrable", "Stefan Savage", "Alex C. Snoeren", "George Varghese", "Geoffrey M. Voelker", "Amin Vahdat"],
 	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/GuptaLVSSVVV08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/gupta/gupta.pdf",
+	"isbn": "978-1-931971-65-2",
 	"pages": "309-322",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"differ",
-		"engin",
-		"har",
-		"memori",
-		"redund",
-		"in",
-		"virtual",
-		"machin"
-	],
-	"tag": [
-		"difference",
-		"memory management",
-		"virtual machine"
-	],
+	"stemmed": ["differ", "engin", "har", "memori", "redund", "in", "virtual", "machin"],
+	"tag": ["difference", "memory management", "virtual machine"],
 	"title": "Difference Engine: Harnessing Memory Redundancy in Virtual Machines",
 	"type": "inproceedings",
 	"venue": "OSDI",

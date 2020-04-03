@@ -1,31 +1,15 @@
 {
-	"author": [
-		"Ravindra Guravannavar",
-		"H. S. Ramanujam",
-		"S. Sudarshan"
-	],
+	"author": ["Ravindra Guravannavar", "H. S. Ramanujam", "S. Sudarshan"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/GuravannavarRS05",
 	"ee": "http://www.vldb2005.org/program/paper/wed/p481-guravannavar.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "481-492",
 	"publisher": "ACM",
-	"stemmed": [
-		"optim",
-		"nest",
-		"queri",
-		"with",
-		"paramet",
-		"sort",
-		"order"
-	],
-	"tag": [
-		"optimisation",
-		"order",
-		"parametricity",
-		"query"
-	],
+	"stemmed": ["optim", "nest", "queri", "with", "paramet", "sort", "order"],
+	"tag": ["optimisation", "order", "parametricity", "query"],
 	"title": "Optimizing Nested Queries with Parameter Sort Orders",
 	"type": "inproceedings",
 	"venue": "VLDB",

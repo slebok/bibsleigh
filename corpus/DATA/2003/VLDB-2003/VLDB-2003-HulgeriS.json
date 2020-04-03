@@ -1,35 +1,14 @@
 {
-	"author": [
-		"Arvind Hulgeri",
-		"S. Sudarshan"
-	],
+	"author": ["Arvind Hulgeri", "S. Sudarshan"],
 	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/HulgeriS03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S23P02.pdf",
+	"isbn": "0-12-722442-4",
 	"pages": "766-777",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"ani",
-		"pqo",
-		"almost",
-		"non",
-		"intrus",
-		"parametr",
-		"queri",
-		"optim",
-		"for",
-		"nonlinear",
-		"cost",
-		"function"
-	],
-	"tag": [
-		"cost analysis",
-		"named",
-		"optimisation",
-		"parametricity",
-		"query"
-	],
+	"stemmed": ["ani", "pqo", "almost", "non", "intrus", "parametr", "queri", "optim", "for", "nonlinear", "cost", "function"],
+	"tag": ["cost analysis", "named", "optimisation", "parametricity", "query"],
 	"title": "AniPQO: Almost Non-intrusive Parametric Query Optimization for Nonlinear Cost Functions",
 	"type": "inproceedings",
 	"venue": "VLDB",

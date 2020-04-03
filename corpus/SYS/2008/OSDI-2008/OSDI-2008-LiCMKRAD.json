@@ -1,33 +1,15 @@
 {
-	"author": [
-		"Harry C. Li",
-		"Allen Clement",
-		"Mirco Marchetti",
-		"Manos Kapritsos",
-		"Luke Robison",
-		"Lorenzo Alvisi",
-		"Michael Dahlin"
-	],
+	"author": ["Harry C. Li", "Allen Clement", "Mirco Marchetti", "Manos Kapritsos", "Luke Robison", "Lorenzo Alvisi", "Michael Dahlin"],
 	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/LiCMKRAD08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/li_h/li_h.pdf",
+	"isbn": "978-1-931971-65-2",
 	"pages": "355-368",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"flight",
-		"path",
-		"obedi",
-		"vs",
-		"choic",
-		"in",
-		"cooper",
-		"servic"
-	],
-	"tag": [
-		"named"
-	],
+	"stemmed": ["flight", "path", "obedi", "vs", "choic", "in", "cooper", "servic"],
+	"tag": ["named"],
 	"title": "FlightPath: Obedience vs. Choice in Cooperative Services",
 	"type": "inproceedings",
 	"venue": "OSDI",

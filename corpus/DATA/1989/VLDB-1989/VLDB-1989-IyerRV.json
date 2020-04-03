@@ -1,48 +1,16 @@
 {
-	"author": [
-		"Balakrishna R. Iyer",
-		"Gary R. Ricard",
-		"Peter J. Varman"
-	],
+	"author": ["Balakrishna R. Iyer", "Gary R. Ricard", "Peter J. Varman"],
 	"booktitle": "Proceedings of the 15th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"journals/tc/AklS87",
-		"conf/afips/Batcher68",
-		"journals/tc/BeckBW88",
-		"journals/tods/BittonBDW83",
-		"...",
-		"journals/tc/FrancisM88",
-		"journals/jcss/FredericksonJ82",
-		"...",
-		"...",
-		"...",
-		"conf/vldb/LorieY89",
-		"...",
-		"books/aw/Knuth73",
-		"conf/vldb/OlkenR86",
-		"journals/tods/ValduriezG84",
-		"...",
-		"journals/toms/Vitter85"
-	],
+	"cite": ["journals/tc/AklS87", "conf/afips/Batcher68", "journals/tc/BeckBW88", "journals/tods/BittonBDW83", "...", "journals/tc/FrancisM88", "journals/jcss/FredericksonJ82", "...", "...", "...", "conf/vldb/LorieY89", "...", "books/aw/Knuth73", "conf/vldb/OlkenR86", "journals/tods/ValduriezG84", "...", "journals/toms/Vitter85"],
 	"crossref": "conf/vldb/89",
 	"dblpkey": "conf/vldb/IyerRV89",
 	"ee": "http://www.vldb.org/conf/1989/P135.PDF",
+	"isbn": "1-55860-101-5",
 	"pages": "135-144",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"percentil",
-		"find",
-		"algorithm",
-		"for",
-		"multipl",
-		"sort",
-		"run"
-	],
-	"tag": [
-		"algorithm",
-		"multi"
-	],
+	"stemmed": ["percentil", "find", "algorithm", "for", "multipl", "sort", "run"],
+	"tag": ["algorithm", "multi"],
 	"title": "Percentile Finding Algorithm for Multiple Sorted Runs",
 	"type": "inproceedings",
 	"venue": "VLDB",

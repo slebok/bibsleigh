@@ -1,33 +1,16 @@
 {
-	"author": [
-		"Martin White",
-		"Michele Tufano",
-		"Christopher Vendome",
-		"Denys Poshyvanyk"
-	],
+	"author": ["Martin White", "Michele Tufano", "Christopher Vendome", "Denys Poshyvanyk"],
 	"booktitle": "Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering",
 	"booktitleshort": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/WhiteTVP16",
 	"doi": "10.1145/2970276.2970326",
 	"ee": "http://ieeexplore.ieee.org/document/7582748/",
+	"isbn": "978-1-4503-3845-5",
 	"pages": "87-98",
 	"publisher": "ACM",
-	"stemmed": [
-		"deep",
-		"learn",
-		"code",
-		"fragment",
-		"for",
-		"code",
-		"clone",
-		"detect"
-	],
-	"tag": [
-		"clone detection",
-		"detection",
-		"learning"
-	],
+	"stemmed": ["deep", "learn", "code", "fragment", "for", "code", "clone", "detect"],
+	"tag": ["clone detection", "detection", "learning"],
 	"title": "Deep learning code fragments for code clone detection",
 	"type": "inproceedings",
 	"venue": "ASE",

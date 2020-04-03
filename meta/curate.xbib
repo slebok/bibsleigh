@@ -52,6 +52,12 @@ when no title
 when journal =^= journalshort
 	inherit journal
 
+-- Fill in the gaps from the parent
+when no isbn
+	inherit isbn
+when no publisher
+	inherit publisher
+
 apply known_names
 
 -- Prefer numbers to strings

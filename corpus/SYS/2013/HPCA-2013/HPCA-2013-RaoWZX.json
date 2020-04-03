@@ -1,38 +1,17 @@
 {
-	"author": [
-		"Jia Rao",
-		"Kun Wang",
-		"Xiaobo Zhou",
-		"Cheng-Zhong Xu"
-	],
+	"author": ["Jia Rao", "Kun Wang", "Xiaobo Zhou", "Cheng-Zhong Xu"],
 	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/RaoWZX13",
 	"doi": "10.1109/HPCA.2013.6522328",
-	"ee": [
-		"http://dx.doi.org/10.1109/HPCA.2013.6522328",
-		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522328"
-	],
+	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522328", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522328"],
+	"isbn": "978-1-4673-5585-8",
 	"pages": "306-317",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"optim",
-		"virtual",
-		"machin",
-		"schedul",
-		"in",
-		"numa",
-		"multicor",
-		"system"
-	],
-	"tag": [
-		"manycore",
-		"optimisation",
-		"scheduling",
-		"virtual machine"
-	],
+	"stemmed": ["optim", "virtual", "machin", "schedul", "in", "numa", "multicor", "system"],
+	"tag": ["manycore", "optimisation", "scheduling", "virtual machine"],
 	"title": "Optimizing virtual machine scheduling in NUMA multicore systems",
 	"type": "inproceedings",
 	"venue": "HPCA",

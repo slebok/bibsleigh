@@ -1,46 +1,16 @@
 {
-	"author": [
-		"Hans-Ulrich Heiß",
-		"Roger Wagner"
-	],
+	"author": ["Hans-Ulrich Heiß", "Roger Wagner"],
 	"booktitle": "Proceedings of the 17th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"journals/tods/AgrawalCL87",
-		"books/aw/BernsteinHG87",
-		"conf/icde/DanTK88",
-		"...",
-		"journals/tse/Denning80",
-		"journals/acta/DenningKLPS76",
-		"journals/tods/FranaszekR85",
-		"...",
-		"...",
-		"journals/pe/Heiss91",
-		"...",
-		"journals/tods/TayGS85",
-		"journals/jacm/RyuT90",
-		"...",
-		"...",
-		"..."
-	],
+	"cite": ["journals/tods/AgrawalCL87", "books/aw/BernsteinHG87", "conf/icde/DanTK88", "...", "journals/tse/Denning80", "journals/acta/DenningKLPS76", "journals/tods/FranaszekR85", "...", "...", "journals/pe/Heiss91", "...", "journals/tods/TayGS85", "journals/jacm/RyuT90", "...", "...", "..."],
 	"crossref": "conf/vldb/91",
 	"dblpkey": "conf/vldb/HeissW91",
 	"ee": "http://www.vldb.org/conf/1991/P047.PDF",
+	"isbn": "1-55860-150-3",
 	"pages": "47-54",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"adapt",
-		"load",
-		"control",
-		"in",
-		"transact",
-		"process",
-		"system"
-	],
-	"tag": [
-		"adaptation",
-		"transaction"
-	],
+	"stemmed": ["adapt", "load", "control", "in", "transact", "process", "system"],
+	"tag": ["adaptation", "transaction"],
 	"title": "Adaptive Load Control in Transaction Processing Systems",
 	"type": "inproceedings",
 	"venue": "VLDB",

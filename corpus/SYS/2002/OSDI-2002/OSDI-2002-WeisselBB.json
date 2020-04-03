@@ -1,36 +1,16 @@
 {
-	"author": [
-		"Andreas Weissel",
-		"Bjórn Beutel",
-		"Frank Bellosa"
-	],
+	"author": ["Andreas Weissel", "Bjórn Beutel", "Frank Bellosa"],
 	"booktitle": "Proceedings of the Fifth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2002",
 	"dblpkey": "conf/osdi/WeisselBB02",
 	"doi": "10.1145/1060289.1060301",
 	"ee": "http://www.usenix.org/events/osdi02/tech/weissel.html",
+	"isbn": "978-1-4503-0111-4",
 	"pages": "117-129",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"cooper",
-		"i",
-		"o",
-		"a",
-		"novel",
-		"i",
-		"o",
-		"semant",
-		"for",
-		"energi",
-		"awar",
-		"applic"
-	],
-	"tag": [
-		"energy",
-		"novel",
-		"semantics"
-	],
+	"stemmed": ["cooper", "i", "o", "a", "novel", "i", "o", "semant", "for", "energi", "awar", "applic"],
+	"tag": ["energy", "novel", "semantics"],
 	"title": "Cooperative I/O: A Novel I/O Semantics for Energy-Aware Applications",
 	"type": "inproceedings",
 	"venue": "OSDI",

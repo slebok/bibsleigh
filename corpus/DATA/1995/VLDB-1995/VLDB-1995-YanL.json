@@ -1,38 +1,16 @@
 {
-	"author": [
-		"Weipeng P. Yan",
-		"Per-Åke Larson"
-	],
+	"author": ["Weipeng P. Yan", "Per-Åke Larson"],
 	"booktitle": "Proceedings of the 21st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"conf/vldb/ChaudhuriS94",
-		"...",
-		"conf/vldb/GuptaHQ95",
-		"...",
-		"conf/sigmod/Lohman88",
-		"conf/sigmod/PiraheshHH92",
-		"...",
-		"...",
-		"...",
-		"conf/icde/YanL94",
-		"..."
-	],
+	"cite": ["conf/vldb/ChaudhuriS94", "...", "conf/vldb/GuptaHQ95", "...", "conf/sigmod/Lohman88", "conf/sigmod/PiraheshHH92", "...", "...", "...", "conf/icde/YanL94", "..."],
 	"crossref": "conf/vldb/95",
 	"dblpkey": "conf/vldb/YanL95",
 	"ee": "http://www.vldb.org/conf/1995/P345.PDF",
+	"isbn": "1-55860-379-4",
 	"pages": "345-357",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"eager",
-		"aggreg",
-		"and",
-		"lazi",
-		"aggreg"
-	],
-	"tag": [
-		"lazy evaluation"
-	],
+	"stemmed": ["eager", "aggreg", "and", "lazi", "aggreg"],
+	"tag": ["lazy evaluation"],
 	"title": "Eager Aggregation and Lazy Aggregation",
 	"type": "inproceedings",
 	"venue": "VLDB",

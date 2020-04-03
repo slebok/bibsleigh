@@ -1,38 +1,17 @@
 {
-	"author": [
-		"Pierre Michaud",
-		"André Seznec"
-	],
+	"author": ["Pierre Michaud", "André Seznec"],
 	"booktitle": "Proceedings of the Seventh International Symposium on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2001",
 	"dblpkey": "conf/hpca/MichaudS01",
 	"doi": "10.1109/HPCA.2001.903249",
-	"ee": [
-		"http://dx.doi.org/10.1109/HPCA.2001.903249",
-		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2001.903249"
-	],
+	"ee": ["http://dx.doi.org/10.1109/HPCA.2001.903249", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2001.903249"],
+	"isbn": "0-7695-1019-1",
 	"pages": "27-36",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"data",
-		"flow",
-		"preschedul",
-		"for",
-		"larg",
-		"instruct",
-		"window",
-		"in",
-		"out",
-		"of",
-		"order",
-		"processor"
-	],
-	"tag": [
-		"data flow",
-		"scalability"
-	],
+	"stemmed": ["data", "flow", "preschedul", "for", "larg", "instruct", "window", "in", "out", "of", "order", "processor"],
+	"tag": ["data flow", "scalability"],
 	"title": "Data-Flow Prescheduling for Large Instruction Windows in Out-of-Order Processors",
 	"type": "inproceedings",
 	"venue": "HPCA",

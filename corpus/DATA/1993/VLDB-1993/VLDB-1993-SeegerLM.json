@@ -1,37 +1,16 @@
 {
-	"author": [
-		"Bernhard Seeger",
-		"Per-Åke Larson",
-		"Ron McFadyen"
-	],
+	"author": ["Bernhard Seeger", "Per-Åke Larson", "Ron McFadyen"],
 	"booktitle": "Proceedings of the 19th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"conf/icde/HutfleszSW88",
-		"...",
-		"journals/tods/Palvia85",
-		"journals/is/Palvia88",
-		"journals/tods/Smith78",
-		"journals/cacm/WhangWS83",
-		"conf/icde/Weikum89",
-		"journals/cacm/Yao77"
-	],
+	"cite": ["conf/icde/HutfleszSW88", "...", "journals/tods/Palvia85", "journals/is/Palvia88", "journals/tods/Smith78", "journals/cacm/WhangWS83", "conf/icde/Weikum89", "journals/cacm/Yao77"],
 	"crossref": "conf/vldb/93",
 	"dblpkey": "conf/vldb/SeegerLM93",
 	"ee": "http://www.vldb.org/conf/1993/P592.PDF",
+	"isbn": "1-55860-152-X",
 	"pages": "592-603",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"read",
-		"a",
-		"set",
-		"of",
-		"disk",
-		"page"
-	],
-	"tag": [
-		"set"
-	],
+	"stemmed": ["read", "a", "set", "of", "disk", "page"],
+	"tag": ["set"],
 	"title": "Reading a Set of Disk Pages",
 	"type": "inproceedings",
 	"venue": "VLDB",

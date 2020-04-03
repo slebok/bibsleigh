@@ -1,32 +1,15 @@
 {
-	"author": [
-		"Conor Cunningham",
-		"Goetz Graefe",
-		"César A. Galindo-Legaria"
-	],
+	"author": ["Conor Cunningham", "Goetz Graefe", "César A. Galindo-Legaria"],
 	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/CunninghamGG04",
 	"ee": "http://www.vldb.org/conf/2004/IND1P2.PDF",
+	"isbn": "0-12-088469-0",
 	"pages": "998-1009",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"pivot",
-		"and",
-		"unpivot",
-		"optim",
-		"and",
-		"execut",
-		"strategi",
-		"in",
-		"an",
-		"rdbms"
-	],
-	"tag": [
-		"execution",
-		"optimisation"
-	],
+	"stemmed": ["pivot", "and", "unpivot", "optim", "and", "execut", "strategi", "in", "an", "rdbms"],
+	"tag": ["execution", "optimisation"],
 	"title": "PIVOT and UNPIVOT: Optimization and Execution Strategies in an RDBMS",
 	"type": "inproceedings",
 	"venue": "VLDB",

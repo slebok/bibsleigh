@@ -1,35 +1,15 @@
 {
-	"author": [
-		"Silas Boyd-Wickizer",
-		"Austin T. Clements",
-		"Yandong Mao",
-		"Aleksey Pesterev",
-		"M. Frans Kaashoek",
-		"Robert Morris",
-		"Nickolai Zeldovich"
-	],
+	"author": ["Silas Boyd-Wickizer", "Austin T. Clements", "Yandong Mao", "Aleksey Pesterev", "M. Frans Kaashoek", "Robert Morris", "Nickolai Zeldovich"],
 	"booktitle": "Proceedings of the Ninth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2010",
 	"dblpkey": "conf/osdi/Boyd-WickizerCMPKMZ10",
 	"ee": "http://www.usenix.org/events/osdi10/tech/full_papers/Boyd-Wickizer.pdf",
+	"isbn": "978-1-931971-79-9",
 	"pages": "1-16",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"an",
-		"analysi",
-		"of",
-		"linux",
-		"scalabl",
-		"to",
-		"mani",
-		"core"
-	],
-	"tag": [
-		"analysis",
-		"linux",
-		"scalability"
-	],
+	"stemmed": ["an", "analysi", "of", "linux", "scalabl", "to", "mani", "core"],
+	"tag": ["analysis", "linux", "scalability"],
 	"title": "An Analysis of Linux Scalability to Many Cores",
 	"type": "inproceedings",
 	"venue": "OSDI",

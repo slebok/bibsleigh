@@ -1,39 +1,15 @@
 {
-	"author": [
-		"Min-Soo Kim",
-		"Kyu-Young Whang",
-		"Jae-Gil Lee",
-		"Min-Jae Lee"
-	],
+	"author": ["Min-Soo Kim", "Kyu-Young Whang", "Jae-Gil Lee", "Min-Jae Lee"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/KimWLL05",
 	"ee": "http://www.vldb2005.org/program/paper/wed/p325-kim.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "325-336",
 	"publisher": "ACM",
-	"stemmed": [
-		"n",
-		"gram",
-		"l",
-		"a",
-		"space",
-		"and",
-		"time",
-		"effici",
-		"two",
-		"level",
-		"n",
-		"gram",
-		"invert",
-		"index",
-		"structur"
-	],
-	"tag": [
-		"n-gram",
-		"named",
-		"performance"
-	],
+	"stemmed": ["n", "gram", "l", "a", "space", "and", "time", "effici", "two", "level", "n", "gram", "invert", "index", "structur"],
+	"tag": ["n-gram", "named", "performance"],
 	"title": "n-Gram/2L: A Space and Time Efficient Two-Level n-Gram Inverted Index Structure",
 	"type": "inproceedings",
 	"venue": "VLDB",

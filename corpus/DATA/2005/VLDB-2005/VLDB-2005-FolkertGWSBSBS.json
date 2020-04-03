@@ -1,35 +1,15 @@
 {
-	"author": [
-		"Nathan Folkert",
-		"Abhinav Gupta",
-		"Andrew Witkowski",
-		"Sankar Subramanian",
-		"Srikanth Bellamkonda",
-		"Shrikanth Shankar",
-		"Tolga Bozkaya",
-		"Lei Sheng"
-	],
+	"author": ["Nathan Folkert", "Abhinav Gupta", "Andrew Witkowski", "Sankar Subramanian", "Srikanth Bellamkonda", "Shrikanth Shankar", "Tolga Bozkaya", "Lei Sheng"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/FolkertGWSBSBS05",
 	"ee": "http://www.vldb2005.org/program/paper/tue/p1043-folkert.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "1043-1054",
 	"publisher": "ACM",
-	"stemmed": [
-		"optim",
-		"refresh",
-		"of",
-		"a",
-		"set",
-		"of",
-		"materi",
-		"view"
-	],
-	"tag": [
-		"optimisation",
-		"set"
-	],
+	"stemmed": ["optim", "refresh", "of", "a", "set", "of", "materi", "view"],
+	"tag": ["optimisation", "set"],
 	"title": "Optimizing Refresh of a Set of Materialized Views",
 	"type": "inproceedings",
 	"venue": "VLDB",

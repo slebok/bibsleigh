@@ -1,28 +1,14 @@
 {
-	"author": [
-		"Graham Cormode",
-		"Flip Korn",
-		"S. Muthukrishnan",
-		"Divesh Srivastava"
-	],
+	"author": ["Graham Cormode", "Flip Korn", "S. Muthukrishnan", "Divesh Srivastava"],
 	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/CormodeKMS03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S15P01.pdf",
+	"isbn": "0-12-722442-4",
 	"pages": "464-475",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"find",
-		"hierarch",
-		"heavi",
-		"hitter",
-		"in",
-		"data",
-		"stream"
-	],
-	"tag": [
-		"data type"
-	],
+	"stemmed": ["find", "hierarch", "heavi", "hitter", "in", "data", "stream"],
+	"tag": ["data type"],
 	"title": "Finding Hierarchical Heavy Hitters in Data Streams",
 	"type": "inproceedings",
 	"venue": "VLDB",

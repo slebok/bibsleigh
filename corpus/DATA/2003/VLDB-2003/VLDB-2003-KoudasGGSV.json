@@ -1,36 +1,14 @@
 {
-	"author": [
-		"Sudipto Guha",
-		"Dimitrios Gunopulos",
-		"Nick Koudas",
-		"Divesh Srivastava",
-		"Michail Vlachos"
-	],
+	"author": ["Sudipto Guha", "Dimitrios Gunopulos", "Nick Koudas", "Divesh Srivastava", "Michail Vlachos"],
 	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/KoudasGGSV03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S23P03.pdf",
+	"isbn": "0-12-722442-4",
 	"pages": "778-789",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"effici",
-		"approxim",
-		"of",
-		"optim",
-		"queri",
-		"under",
-		"parametr",
-		"aggreg",
-		"constraint"
-	],
-	"tag": [
-		"approximate",
-		"constraints",
-		"optimisation",
-		"parametricity",
-		"performance",
-		"query"
-	],
+	"stemmed": ["effici", "approxim", "of", "optim", "queri", "under", "parametr", "aggreg", "constraint"],
+	"tag": ["approximate", "constraints", "optimisation", "parametricity", "performance", "query"],
 	"title": "Efficient Approximation Of Optimization Queries Under Parametric Aggregation Constraints",
 	"type": "inproceedings",
 	"venue": "VLDB",

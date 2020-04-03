@@ -1,36 +1,15 @@
 {
-	"author": [
-		"Xu Chen",
-		"Ming Zhang",
-		"Zhuoqing Morley Mao",
-		"Paramvir Bahl"
-	],
+	"author": ["Xu Chen", "Ming Zhang", "Zhuoqing Morley Mao", "Paramvir Bahl"],
 	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/ChenZMB08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/chen_xu/chen_xu.pdf",
+	"isbn": "978-1-931971-65-2",
 	"pages": "117-130",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"autom",
-		"network",
-		"applic",
-		"depend",
-		"discoveri",
-		"experi",
-		"limit",
-		"and",
-		"new",
-		"solut"
-	],
-	"tag": [
-		"automation",
-		"case study",
-		"dependence",
-		"experience",
-		"network"
-	],
+	"stemmed": ["autom", "network", "applic", "depend", "discoveri", "experi", "limit", "and", "new", "solut"],
+	"tag": ["automation", "case study", "dependence", "experience", "network"],
 	"title": "Automating Network Application Dependency Discovery: Experiences, Limitations, and New Solutions",
 	"type": "inproceedings",
 	"venue": "OSDI",

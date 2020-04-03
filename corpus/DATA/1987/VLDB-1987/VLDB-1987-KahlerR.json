@@ -1,38 +1,16 @@
 {
-	"author": [
-		"Bo Kähler",
-		"Oddvar Risnes"
-	],
+	"author": ["Bo Kähler", "Oddvar Risnes"],
 	"booktitle": "Proceedings of the 13th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"conf/vldb/AdibaL80",
-		"conf/sigmod/BlakeleyLT86",
-		"...",
-		"conf/sigmod/HaskinL82",
-		"conf/sigmod/LindsayHM86",
-		"books/sp/kimrb85/LohmanMHDLSW85",
-		"conf/vldb/MackertL86",
-		"...",
-		"...",
-		"conf/sigmod/SelingerACLP79"
-	],
+	"cite": ["conf/vldb/AdibaL80", "conf/sigmod/BlakeleyLT86", "...", "conf/sigmod/HaskinL82", "conf/sigmod/LindsayHM86", "books/sp/kimrb85/LohmanMHDLSW85", "conf/vldb/MackertL86", "...", "...", "conf/sigmod/SelingerACLP79"],
 	"crossref": "conf/vldb/87",
 	"dblpkey": "conf/vldb/KahlerR87",
 	"ee": "http://www.vldb.org/conf/1987/P389.PDF",
+	"isbn": "0-934613-46-X",
 	"pages": "389-398",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"extend",
-		"log",
-		"for",
-		"databas",
-		"snapshot",
-		"refresh"
-	],
-	"tag": [
-		"database"
-	],
+	"stemmed": ["extend", "log", "for", "databas", "snapshot", "refresh"],
+	"tag": ["database"],
 	"title": "Extending Logging for Database Snapshot Refresh",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,35 +1,15 @@
 {
-	"author": [
-		"Ariel Fuxman",
-		"Diego Fuxman",
-		"Renée J. Miller"
-	],
+	"author": ["Ariel Fuxman", "Diego Fuxman", "Renée J. Miller"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/FuxmanFM05",
 	"ee": "http://www.vldb.org/conf/2005/papers/p1354-fuxman.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "1354-1357",
 	"publisher": "ACM",
-	"stemmed": [
-		"con",
-		"quer",
-		"a",
-		"system",
-		"for",
-		"effici",
-		"queri",
-		"over",
-		"inconsist",
-		"databas"
-	],
-	"tag": [
-		"consistency",
-		"database",
-		"named",
-		"performance",
-		"query"
-	],
+	"stemmed": ["con", "quer", "a", "system", "for", "effici", "queri", "over", "inconsist", "databas"],
+	"tag": ["consistency", "database", "named", "performance", "query"],
 	"title": "ConQuer: A System for Efficient Querying Over Inconsistent Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

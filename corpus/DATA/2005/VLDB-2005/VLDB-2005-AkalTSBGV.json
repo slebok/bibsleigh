@@ -1,37 +1,15 @@
 {
-	"author": [
-		"Fuat Akal",
-		"Can Türker",
-		"Hans-Jörg Schek",
-		"Yuri Breitbart",
-		"Torsten Grabs",
-		"Lourens Veen"
-	],
+	"author": ["Fuat Akal", "Can Türker", "Hans-Jörg Schek", "Yuri Breitbart", "Torsten Grabs", "Lourens Veen"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/AkalTSBGV05",
 	"ee": "http://www.vldb2005.org/program/paper/thu/p565-akal.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "565-576",
 	"publisher": "ACM",
-	"stemmed": [
-		"fine",
-		"grain",
-		"replic",
-		"and",
-		"schedul",
-		"with",
-		"fresh",
-		"and",
-		"correct",
-		"guarante"
-	],
-	"tag": [
-		"correctness",
-		"fine-grained",
-		"replication",
-		"scheduling"
-	],
+	"stemmed": ["fine", "grain", "replic", "and", "schedul", "with", "fresh", "and", "correct", "guarante"],
+	"tag": ["correctness", "fine-grained", "replication", "scheduling"],
 	"title": "Fine-Grained Replication and Scheduling with Freshness and Correctness Guarantees",
 	"type": "inproceedings",
 	"venue": "VLDB",

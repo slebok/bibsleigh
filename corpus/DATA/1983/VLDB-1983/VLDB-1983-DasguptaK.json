@@ -1,46 +1,16 @@
 {
-	"author": [
-		"Partha Dasgupta",
-		"Zvi M. Kedem"
-	],
+	"author": ["Partha Dasgupta", "Zvi M. Kedem"],
 	"booktitle": "Proceedings of the Ninth International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"...",
-		"journals/tse/BernsteinSW79",
-		"...",
-		"journals/cacm/EswarranGLT76",
-		"conf/vldb/KedemS80",
-		"conf/pods/PapadimitriouK82",
-		"journals/jacm/Papadimitriou79b",
-		"journals/tods/RosenkrantzSL78",
-		"journals/jacm/SilberschatzK80",
-		"books/cs/Ullman82"
-	],
+	"cite": ["...", "journals/tse/BernsteinSW79", "...", "journals/cacm/EswarranGLT76", "conf/vldb/KedemS80", "conf/pods/PapadimitriouK82", "journals/jacm/Papadimitriou79b", "journals/tods/RosenkrantzSL78", "journals/jacm/SilberschatzK80", "books/cs/Ullman82"],
 	"crossref": "conf/vldb/83",
 	"dblpkey": "conf/vldb/DasguptaK83",
 	"ee": "http://www.vldb.org/conf/1983/P092.PDF",
+	"isbn": "0-934613-15-X",
 	"pages": "92-94",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"a",
-		"non",
-		"two",
-		"phase",
-		"lock",
-		"protocol",
-		"for",
-		"concurr",
-		"control",
-		"in",
-		"general",
-		"databas"
-	],
-	"tag": [
-		"concurrent",
-		"database",
-		"protocol"
-	],
+	"stemmed": ["a", "non", "two", "phase", "lock", "protocol", "for", "concurr", "control", "in", "general", "databas"],
+	"tag": ["concurrent", "database", "protocol"],
 	"title": "A Non-Two-Phase Locking Protocol for Concurrency Control in General Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

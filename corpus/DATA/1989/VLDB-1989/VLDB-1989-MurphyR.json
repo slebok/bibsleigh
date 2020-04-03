@@ -1,43 +1,16 @@
 {
-	"author": [
-		"Marguerite C. Murphy",
-		"Doron Rotem"
-	],
+	"author": ["Marguerite C. Murphy", "Doron Rotem"],
 	"booktitle": "Proceedings of the 15th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"books/aw/AhoHU74",
-		"...",
-		"books/fm/GareyJ79",
-		"conf/icde/GoyalLRS88",
-		"...",
-		"conf/vldb/MerrettKY81",
-		"conf/icde/MurphyR89",
-		"journals/cacm/ParkM88",
-		"...",
-		"...",
-		"journals/tods/Valduriez87"
-	],
+	"cite": ["books/aw/AhoHU74", "...", "books/fm/GareyJ79", "conf/icde/GoyalLRS88", "...", "conf/vldb/MerrettKY81", "conf/icde/MurphyR89", "journals/cacm/ParkM88", "...", "...", "journals/tods/Valduriez87"],
 	"crossref": "conf/vldb/89",
 	"dblpkey": "conf/vldb/MurphyR89",
 	"ee": "http://www.vldb.org/conf/1989/P067.PDF",
+	"isbn": "1-55860-101-5",
 	"pages": "67-75",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"effect",
-		"resourc",
-		"util",
-		"for",
-		"multiprocessor",
-		"join",
-		"execut"
-	],
-	"tag": [
-		"effectiveness",
-		"execution",
-		"multi",
-		"resource management"
-	],
+	"stemmed": ["effect", "resourc", "util", "for", "multiprocessor", "join", "execut"],
+	"tag": ["effectiveness", "execution", "multi", "resource management"],
 	"title": "Effective Resource Utilization for Multiprocessor Join Execution",
 	"type": "inproceedings",
 	"venue": "VLDB",

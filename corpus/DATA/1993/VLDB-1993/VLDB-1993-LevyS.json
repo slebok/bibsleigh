@@ -1,39 +1,16 @@
 {
-	"author": [
-		"Alon Y. Levy",
-		"Yehoshua Sagiv"
-	],
+	"author": ["Alon Y. Levy", "Yehoshua Sagiv"],
 	"booktitle": "Proceedings of the 19th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"journals/tods/BlakeleyCL89",
-		"conf/pods/Elkan90",
-		"conf/sigmod/GuptaW93",
-		"conf/pods/KanellakisKR90",
-		"journals/jacm/Klug88",
-		"...",
-		"conf/pods/LevyS92",
-		"conf/pods/LevyMSS93",
-		"books/mk/minker88/Sagiv88",
-		"conf/pods/Shmueli87",
-		"books/cs/Ullman88",
-		"conf/pods/Meyden92"
-	],
+	"cite": ["journals/tods/BlakeleyCL89", "conf/pods/Elkan90", "conf/sigmod/GuptaW93", "conf/pods/KanellakisKR90", "journals/jacm/Klug88", "...", "conf/pods/LevyS92", "conf/pods/LevyMSS93", "books/mk/minker88/Sagiv88", "conf/pods/Shmueli87", "books/cs/Ullman88", "conf/pods/Meyden92"],
 	"crossref": "conf/vldb/93",
 	"dblpkey": "conf/vldb/LevyS93",
 	"ee": "http://www.vldb.org/conf/1993/P171.PDF",
+	"isbn": "1-55860-152-X",
 	"pages": "171-181",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"queri",
-		"independ",
-		"of",
-		"updat"
-	],
-	"tag": [
-		"independence",
-		"query"
-	],
+	"stemmed": ["queri", "independ", "of", "updat"],
+	"tag": ["independence", "query"],
 	"title": "Queries Independent of Updates",
 	"type": "inproceedings",
 	"venue": "VLDB",

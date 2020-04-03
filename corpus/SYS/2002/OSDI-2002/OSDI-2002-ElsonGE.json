@@ -1,32 +1,16 @@
 {
-	"author": [
-		"Jeremy Elson",
-		"Lewis Girod",
-		"Deborah Estrin"
-	],
+	"author": ["Jeremy Elson", "Lewis Girod", "Deborah Estrin"],
 	"booktitle": "Proceedings of the Fifth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2002",
 	"dblpkey": "conf/osdi/ElsonGE02",
 	"doi": "10.1145/1060289.1060304",
 	"ee": "http://www.usenix.org/events/osdi02/tech/elson.html",
+	"isbn": "978-1-4503-0111-4",
 	"pages": "147-163",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"fine",
-		"grain",
-		"network",
-		"time",
-		"synchron",
-		"use",
-		"refer",
-		"broadcast"
-	],
-	"tag": [
-		"fine-grained",
-		"network",
-		"using"
-	],
+	"stemmed": ["fine", "grain", "network", "time", "synchron", "use", "refer", "broadcast"],
+	"tag": ["fine-grained", "network", "using"],
 	"title": "Fine-Grained Network Time Synchronization Using Reference Broadcasts",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,37 +1,15 @@
 {
-	"author": [
-		"Masoumeh Ebrahimi",
-		"Masoud Daneshtalab",
-		"Juha Plosila"
-	],
+	"author": ["Masoumeh Ebrahimi", "Masoud Daneshtalab", "Juha Plosila"],
 	"booktitle": "Proceedings of the 21st Euromicro International Conference on Parallel, Distributed, and Network-Based Processing",
 	"booktitleshort": "PDP",
 	"crossref": "conf/pdp/2013",
 	"dblpkey": "conf/pdp/EbrahimiDP13",
 	"doi": "10.1109/PDP.2013.75",
+	"isbn": "978-1-4673-5321-2",
 	"pages": "462-469",
 	"publisher": "IEEE Computer Society",
-	"stemmed": [
-		"high",
-		"perform",
-		"fault",
-		"toler",
-		"rout",
-		"algorithm",
-		"for",
-		"no",
-		"c",
-		"base",
-		"mani",
-		"core",
-		"system"
-	],
-	"tag": [
-		"algorithm",
-		"fault tolerance",
-		"manycore",
-		"performance"
-	],
+	"stemmed": ["high", "perform", "fault", "toler", "rout", "algorithm", "for", "no", "c", "base", "mani", "core", "system"],
+	"tag": ["algorithm", "fault tolerance", "manycore", "performance"],
 	"title": "High Performance Fault-Tolerant Routing Algorithm for NoC-Based Many-Core Systems",
 	"type": "inproceedings",
 	"venue": "PDP",

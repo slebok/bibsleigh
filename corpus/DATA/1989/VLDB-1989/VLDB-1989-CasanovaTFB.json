@@ -1,44 +1,16 @@
 {
-	"author": [
-		"Marco A. Casanova",
-		"Luiz Tucherman",
-		"Antonio L. Furtado",
-		"Anelise P. Braga"
-	],
+	"author": ["Marco A. Casanova", "Luiz Tucherman", "Antonio L. Furtado", "Anelise P. Braga"],
 	"booktitle": "Proceedings of the 15th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"conf/vldb/ArisawaMM83",
-		"journals/jcss/CasanovaFP84",
-		"conf/vldb/CasanovaTF88",
-		"...",
-		"...",
-		"...",
-		"conf/vldb/FischerG85",
-		"...",
-		"books/cs/Maier83",
-		"journals/tods/OzsoyogluY87",
-		"..."
-	],
+	"cite": ["conf/vldb/ArisawaMM83", "journals/jcss/CasanovaFP84", "conf/vldb/CasanovaTF88", "...", "...", "...", "conf/vldb/FischerG85", "...", "books/cs/Maier83", "journals/tods/OzsoyogluY87", "..."],
 	"crossref": "conf/vldb/89",
 	"dblpkey": "conf/vldb/CasanovaTFB89",
 	"ee": "http://www.vldb.org/conf/1989/P317.PDF",
+	"isbn": "1-55860-101-5",
 	"pages": "317-325",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"optim",
-		"of",
-		"relat",
-		"schema",
-		"contain",
-		"inclus",
-		"depend"
-	],
-	"tag": [
-		"dependence",
-		"optimisation",
-		"relational"
-	],
+	"stemmed": ["optim", "of", "relat", "schema", "contain", "inclus", "depend"],
+	"tag": ["dependence", "optimisation", "relational"],
 	"title": "Optimization of Relational Schemas Containing Inclusion Dependencies",
 	"type": "inproceedings",
 	"venue": "VLDB",

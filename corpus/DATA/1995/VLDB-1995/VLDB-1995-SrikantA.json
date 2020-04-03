@@ -1,35 +1,16 @@
 {
-	"author": [
-		"Ramakrishnan Srikant",
-		"Rakesh Agrawal"
-	],
+	"author": ["Ramakrishnan Srikant", "Rakesh Agrawal"],
 	"booktitle": "Proceedings of the 21st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"conf/sigmod/AgrawalIS93",
-		"conf/vldb/AgrawalS94",
-		"books/wi/AlonS92",
-		"journals/ipl/HagerupR90",
-		"conf/icde/HoutsmaS95",
-		"conf/kdd/MannilaTV94",
-		"conf/sigmod/ParkCY95",
-		"books/mit/PF91/Piatetsky91",
-		"conf/vldb/SrikantA95"
-	],
+	"cite": ["conf/sigmod/AgrawalIS93", "conf/vldb/AgrawalS94", "books/wi/AlonS92", "journals/ipl/HagerupR90", "conf/icde/HoutsmaS95", "conf/kdd/MannilaTV94", "conf/sigmod/ParkCY95", "books/mit/PF91/Piatetsky91", "conf/vldb/SrikantA95"],
 	"crossref": "conf/vldb/95",
 	"dblpkey": "conf/vldb/SrikantA95",
 	"ee": "http://www.vldb.org/conf/1995/P407.PDF",
+	"isbn": "1-55860-379-4",
 	"pages": "407-419",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"mine",
-		"general",
-		"associ",
-		"rule"
-	],
-	"tag": [
-		"mining"
-	],
+	"stemmed": ["mine", "general", "associ", "rule"],
+	"tag": ["mining"],
 	"title": "Mining Generalized Association Rules",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,39 +1,15 @@
 {
-	"author": [
-		"Mohamed F. Mokbel",
-		"Xiaopeng Xiong",
-		"Walid G. Aref",
-		"Susanne E. Hambrusch",
-		"Sunil Prabhakar",
-		"Moustafa A. Hammad"
-	],
+	"author": ["Mohamed F. Mokbel", "Xiaopeng Xiong", "Walid G. Aref", "Susanne E. Hambrusch", "Sunil Prabhakar", "Moustafa A. Hammad"],
 	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/MokbelXAHPH04",
 	"ee": "http://www.vldb.org/conf/2004/DEMP32.PDF",
+	"isbn": "0-12-088469-0",
 	"pages": "1377-1380",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"place",
-		"a",
-		"queri",
-		"processor",
-		"for",
-		"handl",
-		"real",
-		"time",
-		"spatio",
-		"tempor",
-		"data",
-		"stream"
-	],
-	"tag": [
-		"data type",
-		"named",
-		"query",
-		"realtime"
-	],
+	"stemmed": ["place", "a", "queri", "processor", "for", "handl", "real", "time", "spatio", "tempor", "data", "stream"],
+	"tag": ["data type", "named", "query", "realtime"],
 	"title": "PLACE: A Query Processor for Handling Real-time Spatio-temporal Data Streams",
 	"type": "inproceedings",
 	"venue": "VLDB",

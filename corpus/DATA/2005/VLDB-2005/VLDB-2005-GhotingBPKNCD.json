@@ -1,34 +1,15 @@
 {
-	"author": [
-		"Amol Ghoting",
-		"Gregory Buehrer",
-		"Srinivasan Parthasarathy",
-		"Daehyun Kim",
-		"Anthony D. Nguyen",
-		"Yen-Kuang Chen",
-		"Pradeep Dubey"
-	],
+	"author": ["Amol Ghoting", "Gregory Buehrer", "Srinivasan Parthasarathy", "Daehyun Kim", "Anthony D. Nguyen", "Yen-Kuang Chen", "Pradeep Dubey"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/GhotingBPKNCD05",
 	"ee": "http://www.vldb2005.org/program/paper/thu/p577-ghoting.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "577-588",
 	"publisher": "ACM",
-	"stemmed": [
-		"cach",
-		"conscious",
-		"frequent",
-		"pattern",
-		"mine",
-		"on",
-		"a",
-		"modern",
-		"processor"
-	],
-	"tag": [
-		"mining"
-	],
+	"stemmed": ["cach", "conscious", "frequent", "pattern", "mine", "on", "a", "modern", "processor"],
+	"tag": ["mining"],
 	"title": "Cache-conscious Frequent Pattern Mining on a Modern Processor",
 	"type": "inproceedings",
 	"venue": "VLDB",

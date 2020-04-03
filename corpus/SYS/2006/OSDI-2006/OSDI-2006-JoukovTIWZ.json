@@ -1,32 +1,15 @@
 {
-	"author": [
-		"Nikolai Joukov",
-		"Avishay Traeger",
-		"Rakesh Iyer",
-		"Charles P. Wright",
-		"Erez Zadok"
-	],
+	"author": ["Nikolai Joukov", "Avishay Traeger", "Rakesh Iyer", "Charles P. Wright", "Erez Zadok"],
 	"booktitle": "Proceedings of the Seventh Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2006",
 	"dblpkey": "conf/osdi/JoukovTIWZ06",
 	"ee": "http://www.usenix.org/events/osdi06/tech/joukov.html",
+	"isbn": "1-931971-47-1",
 	"pages": "89-102",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"oper",
-		"system",
-		"profil",
-		"via",
-		"latenc",
-		"analysi"
-	],
-	"tag": [
-		"analysis",
-		"latency",
-		"operating system",
-		"profiling"
-	],
+	"stemmed": ["oper", "system", "profil", "via", "latenc", "analysi"],
+	"tag": ["analysis", "latency", "operating system", "profiling"],
 	"title": "Operating System Profiling via Latency Analysis",
 	"type": "inproceedings",
 	"venue": "OSDI",

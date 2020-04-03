@@ -2,32 +2,15 @@
 	"author": "David B. Lomet",
 	"booktitle": "Proceedings of the 19th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"books/aw/BernsteinHG87",
-		"journals/cacm/EswarranGLT76",
-		"...",
-		"books/mk/GrayR93",
-		"...",
-		"conf/vldb/Mohan90",
-		"conf/sigmod/MohanL92"
-	],
+	"cite": ["books/aw/BernsteinHG87", "journals/cacm/EswarranGLT76", "...", "books/mk/GrayR93", "...", "conf/vldb/Mohan90", "conf/sigmod/MohanL92"],
 	"crossref": "conf/vldb/93",
 	"dblpkey": "conf/vldb/Lomet93",
 	"ee": "http://www.vldb.org/conf/1993/P655.PDF",
+	"isbn": "1-55860-152-X",
 	"pages": "655-664",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"key",
-		"rang",
-		"lock",
-		"strategi",
-		"for",
-		"improv",
-		"concurr"
-	],
-	"tag": [
-		"concurrent"
-	],
+	"stemmed": ["key", "rang", "lock", "strategi", "for", "improv", "concurr"],
+	"tag": ["concurrent"],
 	"title": "Key Range Locking Strategies for Improved Concurrency",
 	"type": "inproceedings",
 	"venue": "VLDB",

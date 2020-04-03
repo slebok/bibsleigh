@@ -1,47 +1,16 @@
 {
-	"author": [
-		"François Llirbat",
-		"Eric Simon",
-		"Dimitri Tombroff"
-	],
+	"author": ["François Llirbat", "Eric Simon", "Dimitri Tombroff"],
 	"booktitle": "Proceedings of the 23rd International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"conf/sigmod/AgrawalK91",
-		"conf/sigmod/BerensonBGMOO95",
-		"conf/icde/BoberC92",
-		"books/aw/BernsteinHG87",
-		"conf/sigmod/BadalP79",
-		"conf/sigmod/ChanFLNR82",
-		"conf/pods/CareyKL90",
-		"...",
-		"...",
-		"conf/vldb/Mohan90a",
-		"conf/sigmod/MohanPL92",
-		"journals/tocs/Reed83",
-		"journals/tods/ShashaLSV95",
-		"conf/icde/Thomasian91"
-	],
+	"cite": ["conf/sigmod/AgrawalK91", "conf/sigmod/BerensonBGMOO95", "conf/icde/BoberC92", "books/aw/BernsteinHG87", "conf/sigmod/BadalP79", "conf/sigmod/ChanFLNR82", "conf/pods/CareyKL90", "...", "...", "conf/vldb/Mohan90a", "conf/sigmod/MohanPL92", "journals/tocs/Reed83", "journals/tods/ShashaLSV95", "conf/icde/Thomasian91"],
 	"crossref": "conf/vldb/97",
 	"dblpkey": "conf/vldb/LlirbatST97",
 	"ee": "http://www.vldb.org/conf/1997/P096.PDF",
+	"isbn": "1-55860-470-7",
 	"pages": "96-105",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"use",
-		"version",
-		"in",
-		"updat",
-		"transact",
-		"applic",
-		"to",
-		"integr",
-		"check"
-	],
-	"tag": [
-		"transaction",
-		"using"
-	],
+	"stemmed": ["use", "version", "in", "updat", "transact", "applic", "to", "integr", "check"],
+	"tag": ["transaction", "using"],
 	"title": "Using Versions in Update Transactions: Application to Integrity Checking",
 	"type": "inproceedings",
 	"venue": "VLDB",

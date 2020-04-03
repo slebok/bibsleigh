@@ -1,46 +1,16 @@
 {
-	"author": [
-		"Swarup Acharya",
-		"Phillip B. Gibbons",
-		"Viswanath Poosala"
-	],
+	"author": ["Swarup Acharya", "Phillip B. Gibbons", "Viswanath Poosala"],
 	"booktitle": "Proceedings of the 25th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"...",
-		"conf/sigmod/AcharyaGPR99a",
-		"conf/sigmod/GibbonsM98",
-		"conf/vldb/GibbonsMP97",
-		"conf/sigmod/HellersteinHW97",
-		"conf/vldb/IoannidisP99",
-		"conf/ssdbm/PoosalaG99",
-		"journals/tkde/VrbskyL93",
-		"conf/cikm/VitterWI98"
-	],
+	"cite": ["...", "conf/sigmod/AcharyaGPR99a", "conf/sigmod/GibbonsM98", "conf/vldb/GibbonsMP97", "conf/sigmod/HellersteinHW97", "conf/vldb/IoannidisP99", "conf/ssdbm/PoosalaG99", "journals/tkde/VrbskyL93", "conf/cikm/VitterWI98"],
 	"crossref": "conf/vldb/99",
 	"dblpkey": "conf/vldb/AcharyaGP99",
 	"ee": "http://www.vldb.org/conf/1999/P76.pdf",
+	"isbn": "1-55860-615-7",
 	"pages": "754-757",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"aqua",
-		"a",
-		"fast",
-		"decis",
-		"support",
-		"system",
-		"use",
-		"approxim",
-		"queri",
-		"answer"
-	],
-	"tag": [
-		"approximate",
-		"named",
-		"performance",
-		"query",
-		"using"
-	],
+	"stemmed": ["aqua", "a", "fast", "decis", "support", "system", "use", "approxim", "queri", "answer"],
+	"tag": ["approximate", "named", "performance", "query", "using"],
 	"title": "Aqua: A Fast Decision Support Systems Using Approximate Query Answers",
 	"type": "inproceedings",
 	"venue": "VLDB",

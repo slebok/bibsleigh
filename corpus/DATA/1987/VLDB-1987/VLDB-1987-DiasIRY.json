@@ -1,43 +1,16 @@
 {
-	"author": [
-		"Daniel M. Dias",
-		"Balakrishna R. Iyer",
-		"John T. Robinson",
-		"Philip S. Yu"
-	],
+	"author": ["Daniel M. Dias", "Balakrishna R. Iyer", "John T. Robinson", "Philip S. Yu"],
 	"booktitle": "Proceedings of the 13th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"journals/tse/CornellDY86",
-		"conf/berkeley/GrayHKO81",
-		"conf/sigmetrics/Lavenberg84",
-		"...",
-		"journals/tocs/Smith85",
-		"...",
-		"conf/sigmetrics/YuDRIC85",
-		"...",
-		"conf/icdcs/YuCDT86",
-		"..."
-	],
+	"cite": ["journals/tse/CornellDY86", "conf/berkeley/GrayHKO81", "conf/sigmetrics/Lavenberg84", "...", "journals/tocs/Smith85", "...", "conf/sigmetrics/YuDRIC85", "...", "conf/icdcs/YuCDT86", "..."],
 	"crossref": "conf/vldb/87",
 	"dblpkey": "conf/vldb/DiasIRY87",
 	"ee": "http://www.vldb.org/conf/1987/P463.PDF",
+	"isbn": "0-934613-46-X",
 	"pages": "463-471",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"design",
-		"and",
-		"analysi",
-		"of",
-		"integr",
-		"concurr",
-		"coher",
-		"control"
-	],
-	"tag": [
-		"analysis",
-		"design"
-	],
+	"stemmed": ["design", "and", "analysi", "of", "integr", "concurr", "coher", "control"],
+	"tag": ["analysis", "design"],
 	"title": "Design and Analysis of Integrated Concurrency-Coherence Controls",
 	"type": "inproceedings",
 	"venue": "VLDB",

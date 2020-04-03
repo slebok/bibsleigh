@@ -1,46 +1,16 @@
 {
-	"author": [
-		"Johann Christoph Freytag",
-		"Nathan Goodman"
-	],
+	"author": ["Johann Christoph Freytag", "Nathan Goodman"],
 	"booktitle": "Proceedings of the 12th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"journals/tods/AstrahanBCEGGKLMMPTWW76",
-		"journals/cacm/Backus78",
-		"journals/scp/Bellegarde86",
-		"journals/toplas/Bird84",
-		"journals/tods/BittonD83",
-		"journals/jacm/BurstallD77",
-		"...",
-		"journals/acta/DarlingtonB76",
-		"...",
-		"conf/sigmod/FreytagG86",
-		"...",
-		"journals/jacm/Huet80",
-		"journals/csur/JarkeK84",
-		"conf/sigmod/Klug82",
-		"books/aw/Knuth73",
-		"journals/tods/StonebrakerWKH76",
-		"..."
-	],
+	"cite": ["journals/tods/AstrahanBCEGGKLMMPTWW76", "journals/cacm/Backus78", "journals/scp/Bellegarde86", "journals/toplas/Bird84", "journals/tods/BittonD83", "journals/jacm/BurstallD77", "...", "journals/acta/DarlingtonB76", "...", "conf/sigmod/FreytagG86", "...", "journals/jacm/Huet80", "journals/csur/JarkeK84", "conf/sigmod/Klug82", "books/aw/Knuth73", "journals/tods/StonebrakerWKH76", "..."],
 	"crossref": "conf/vldb/86",
 	"dblpkey": "conf/vldb/Freytag86",
 	"ee": "http://www.vldb.org/conf/1986/P138.PDF",
+	"isbn": "0-934613-18-4",
 	"pages": "138-146",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"translat",
-		"aggreg",
-		"queri",
-		"into",
-		"iter",
-		"program"
-	],
-	"tag": [
-		"query",
-		"source code"
-	],
+	"stemmed": ["translat", "aggreg", "queri", "into", "iter", "program"],
+	"tag": ["query", "source code"],
 	"title": "Translating Aggregate Queries into Iterative Programs",
 	"type": "inproceedings",
 	"venue": "VLDB",

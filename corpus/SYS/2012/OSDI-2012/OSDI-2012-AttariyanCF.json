@@ -1,35 +1,15 @@
 {
-	"author": [
-		"Mona Attariyan",
-		"Michael Chow",
-		"Jason Flinn"
-	],
+	"author": ["Mona Attariyan", "Michael Chow", "Jason Flinn"],
 	"booktitle": "Proceedings of the 10th Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2012",
 	"dblpkey": "conf/osdi/AttariyanCF12",
 	"ee": "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/attariyan",
+	"isbn": "978-1-931971-96-6",
 	"pages": "307-320",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"x",
-		"ray",
-		"autom",
-		"root",
-		"caus",
-		"diagnosi",
-		"of",
-		"perform",
-		"anomali",
-		"in",
-		"product",
-		"softwar"
-	],
-	"tag": [
-		"automation",
-		"named",
-		"performance"
-	],
+	"stemmed": ["x", "ray", "autom", "root", "caus", "diagnosi", "of", "perform", "anomali", "in", "product", "softwar"],
+	"tag": ["automation", "named", "performance"],
 	"title": "X-ray: Automating Root-Cause Diagnosis of Performance Anomalies in Production Software",
 	"type": "inproceedings",
 	"venue": "OSDI",

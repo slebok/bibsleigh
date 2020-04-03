@@ -1,34 +1,15 @@
 {
-	"author": [
-		"Yufei Tao",
-		"Dimitris Papadias"
-	],
+	"author": ["Yufei Tao", "Dimitris Papadias"],
 	"booktitle": "Proceedings of the 27th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2001",
 	"dblpkey": "conf/vldb/PapadiasT01",
 	"ee": "http://www.vldb.org/conf/2001/P431.pdf",
+	"isbn": "1-55860-804-4",
 	"pages": "431-440",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"mv",
-		"r",
-		"tree",
-		"a",
-		"spatio",
-		"tempor",
-		"access",
-		"method",
-		"for",
-		"timestamp",
-		"and",
-		"interv",
-		"queri"
-	],
-	"tag": [
-		"named",
-		"query"
-	],
+	"stemmed": ["mv", "r", "tree", "a", "spatio", "tempor", "access", "method", "for", "timestamp", "and", "interv", "queri"],
+	"tag": ["named", "query"],
 	"title": "MV3R-Tree: A Spatio-Temporal Access Method for Timestamp and Interval Queries",
 	"type": "inproceedings",
 	"venue": "VLDB",

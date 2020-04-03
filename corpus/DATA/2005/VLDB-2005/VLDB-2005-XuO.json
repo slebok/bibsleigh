@@ -1,29 +1,15 @@
 {
-	"author": [
-		"Wanhong Xu",
-		"Z. Meral Özsoyoglu"
-	],
+	"author": ["Wanhong Xu", "Z. Meral Özsoyoglu"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/XuO05",
 	"ee": "http://www.vldb2005.org/program/paper/tue/p121-xu.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "121-132",
 	"publisher": "ACM",
-	"stemmed": [
-		"rewrit",
-		"x",
-		"path",
-		"queri",
-		"use",
-		"materi",
-		"view"
-	],
-	"tag": [
-		"query",
-		"using",
-		"xpath"
-	],
+	"stemmed": ["rewrit", "x", "path", "queri", "use", "materi", "view"],
+	"tag": ["query", "using", "xpath"],
 	"title": "Rewriting XPath Queries Using Materialized Views",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,36 +1,16 @@
 {
-	"author": [
-		"Marcelo Arenas",
-		"Pablo Barceló",
-		"Ronald Fagin",
-		"Leonid Libkin"
-	],
+	"author": ["Marcelo Arenas", "Pablo Barceló", "Ronald Fagin", "Leonid Libkin"],
 	"booktitle": "Proceedings of the 23rd Symposium on Principles of Database Systems",
 	"booktitleshort": "PODS",
 	"crossref": "conf/pods/2004",
 	"dblpkey": "conf/pods/ArenasBLF04",
 	"doi": "10.1145/1055558.1055592",
-	"ee": [
-		"http://doi.acm.org/10.1145/1055558.1055592",
-		"http://www.acm.org/sigmod/pods/proc04/pdf/P-24.pdf"
-	],
+	"ee": ["http://doi.acm.org/10.1145/1055558.1055592", "http://www.acm.org/sigmod/pods/proc04/pdf/P-24.pdf"],
+	"isbn": "1-58113-858-X",
 	"pages": "229-240",
 	"publisher": "ACM",
-	"stemmed": [
-		"local",
-		"consist",
-		"transform",
-		"and",
-		"queri",
-		"answer",
-		"in",
-		"data",
-		"exchang"
-	],
-	"tag": [
-		"consistency",
-		"query"
-	],
+	"stemmed": ["local", "consist", "transform", "and", "queri", "answer", "in", "data", "exchang"],
+	"tag": ["consistency", "query"],
 	"title": "Locally Consistent Transformations and Query Answering in Data Exchange",
 	"type": "inproceedings",
 	"venue": "PODS",

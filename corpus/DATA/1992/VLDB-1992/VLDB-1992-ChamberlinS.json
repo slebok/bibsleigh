@@ -1,46 +1,16 @@
 {
-	"author": [
-		"Donald D. Chamberlin",
-		"Frank B. Schmuck"
-	],
+	"author": ["Donald D. Chamberlin", "Frank B. Schmuck"],
 	"booktitle": "Proceedings of the 18th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"conf/podc/BernsteinG83",
-		"...",
-		"conf/vldb/Borr81",
-		"...",
-		"conf/pods/AbbadiSC85",
-		"conf/sosp/Gifford79",
-		"conf/ac/Gray78",
-		"journals/csur/GrayMBLLPPT81",
-		"conf/icde/HsiaoD90",
-		"journals/tods/MohanHLPS92",
-		"conf/sigmod/PattersonGK88",
-		"...",
-		"journals/tods/TraigerGGL82"
-	],
+	"cite": ["conf/podc/BernsteinG83", "...", "conf/vldb/Borr81", "...", "conf/pods/AbbadiSC85", "conf/sosp/Gifford79", "conf/ac/Gray78", "journals/csur/GrayMBLLPPT81", "conf/icde/HsiaoD90", "journals/tods/MohanHLPS92", "conf/sigmod/PattersonGK88", "...", "journals/tods/TraigerGGL82"],
 	"crossref": "conf/vldb/92",
 	"dblpkey": "conf/vldb/ChamberlinS92",
 	"ee": "http://www.vldb.org/conf/1992/P163.PDF",
+	"isbn": "1-55860-151-1",
 	"pages": "163-174",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"dynam",
-		"data",
-		"distribut",
-		"d",
-		"in",
-		"a",
-		"share",
-		"noth",
-		"multiprocessor",
-		"data",
-		"store"
-	],
-	"tag": [
-		"multi"
-	],
+	"stemmed": ["dynam", "data", "distribut", "d", "in", "a", "share", "noth", "multiprocessor", "data", "store"],
+	"tag": ["multi"],
 	"title": "Dynamic Data Distribution (D3) in a Shared-Nothing Multiprocessor Data Store",
 	"type": "inproceedings",
 	"venue": "VLDB",

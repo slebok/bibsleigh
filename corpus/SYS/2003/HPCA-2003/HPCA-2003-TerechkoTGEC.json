@@ -1,38 +1,17 @@
 {
-	"author": [
-		"Andrei Terechko",
-		"Erwan Le Thenaff",
-		"Manish Garg",
-		"Jos T. J. van Eijndhoven",
-		"Henk Corporaal"
-	],
+	"author": ["Andrei Terechko", "Erwan Le Thenaff", "Manish Garg", "Jos T. J. van Eijndhoven", "Henk Corporaal"],
 	"booktitle": "Proceedings of the Ninth International Symposium on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2003",
 	"dblpkey": "conf/hpca/TerechkoTGEC03",
 	"doi": "10.1109/HPCA.2003.1183552",
-	"ee": [
-		"http://dx.doi.org/10.1109/HPCA.2003.1183552",
-		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2003.1183552"
-	],
+	"ee": ["http://dx.doi.org/10.1109/HPCA.2003.1183552", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2003.1183552"],
+	"isbn": "0-7695-1871-0",
 	"pages": "354-364",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"inter",
-		"cluster",
-		"communic",
-		"model",
-		"for",
-		"cluster",
-		"vliw",
-		"processor"
-	],
-	"tag": [
-		"clustering",
-		"communication",
-		"modelling"
-	],
+	"stemmed": ["inter", "cluster", "communic", "model", "for", "cluster", "vliw", "processor"],
+	"tag": ["clustering", "communication", "modelling"],
 	"title": "Inter-Cluster Communication Models for Clustered VLIW Processors",
 	"type": "inproceedings",
 	"venue": "HPCA",

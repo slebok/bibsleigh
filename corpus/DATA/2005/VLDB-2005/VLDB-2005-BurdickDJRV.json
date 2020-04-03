@@ -1,29 +1,15 @@
 {
-	"author": [
-		"Douglas Burdick",
-		"Prasad Deshpande",
-		"T. S. Jayram",
-		"Raghu Ramakrishnan",
-		"Shivakumar Vaithyanathan"
-	],
+	"author": ["Douglas Burdick", "Prasad Deshpande", "T. S. Jayram", "Raghu Ramakrishnan", "Shivakumar Vaithyanathan"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/BurdickDJRV05",
 	"ee": "http://www.vldb2005.org/program/paper/fri/p970-burdick.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "970-981",
 	"publisher": "ACM",
-	"stemmed": [
-		"olap",
-		"over",
-		"uncertain",
-		"and",
-		"imprecis",
-		"data"
-	],
-	"tag": [
-		"nondeterminism"
-	],
+	"stemmed": ["olap", "over", "uncertain", "and", "imprecis", "data"],
+	"tag": ["nondeterminism"],
 	"title": "OLAP Over Uncertain and Imprecise Data",
 	"type": "inproceedings",
 	"venue": "VLDB",

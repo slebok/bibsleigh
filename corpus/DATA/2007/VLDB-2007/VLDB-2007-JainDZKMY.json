@@ -1,34 +1,15 @@
 {
-	"author": [
-		"Navendu Jain",
-		"Michael Dahlin",
-		"Yin Zhang",
-		"Dmitry Kit",
-		"Prince Mahajan",
-		"Praveen Yalagandula"
-	],
+	"author": ["Navendu Jain", "Michael Dahlin", "Yin Zhang", "Dmitry Kit", "Prince Mahajan", "Praveen Yalagandula"],
 	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/JainDZKMY07",
 	"ee": "http://www.vldb.org/conf/2007/papers/research/p962-jain.pdf",
+	"isbn": "978-1-59593-649-3",
 	"pages": "962-973",
 	"publisher": "ACM",
-	"stemmed": [
-		"star",
-		"self",
-		"tune",
-		"aggreg",
-		"for",
-		"scalabl",
-		"monitor"
-	],
-	"tag": [
-		"monitoring",
-		"named",
-		"scalability",
-		"self"
-	],
+	"stemmed": ["star", "self", "tune", "aggreg", "for", "scalabl", "monitor"],
+	"tag": ["monitoring", "named", "scalability", "self"],
 	"title": "STAR: Self-Tuning Aggregation for Scalable Monitoring",
 	"type": "inproceedings",
 	"venue": "VLDB",

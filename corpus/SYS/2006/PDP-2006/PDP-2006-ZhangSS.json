@@ -1,32 +1,15 @@
 {
-	"author": [
-		"Zhang Zhang",
-		"Jeevan Savant",
-		"Steven Seidel"
-	],
+	"author": ["Zhang Zhang", "Jeevan Savant", "Steven Seidel"],
 	"booktitle": "Proceedings of the 14th Euromicro International Conference on Parallel, Distributed and Network-Based Processing",
 	"booktitleshort": "PDP",
 	"crossref": "conf/pdp/2006",
 	"dblpkey": "conf/pdp/ZhangSS06",
 	"doi": "10.1109/PDP.2006.16",
+	"isbn": "0-7695-2513-X",
 	"pages": "195-202",
 	"publisher": "IEEE Computer Society",
-	"stemmed": [
-		"a",
-		"upc",
-		"runtim",
-		"system",
-		"base",
-		"on",
-		"mpi",
-		"and",
-		"posix",
-		"thread"
-	],
-	"tag": [
-		"runtime",
-		"thread"
-	],
+	"stemmed": ["a", "upc", "runtim", "system", "base", "on", "mpi", "and", "posix", "thread"],
+	"tag": ["runtime", "thread"],
 	"title": "A UPC Runtime System Based on MPI and POSIX Threads",
 	"type": "inproceedings",
 	"venue": "PDP",

@@ -1,46 +1,16 @@
 {
-	"author": [
-		"Jian Yang",
-		"Kamalakar Karlapalem",
-		"Qing Li"
-	],
+	"author": ["Jian Yang", "Kamalakar Karlapalem", "Qing Li"],
 	"booktitle": "Proceedings of the 23rd International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"journals/tods/BellNNS96",
-		"conf/vldb/ChaudhuriS94",
-		"conf/vldb/Dayal87",
-		"journals/dpd/EgyhazyTB96",
-		"conf/icdt/Gupta97",
-		"persons/Hall74",
-		"journals/ibmrd/Hall76",
-		"conf/sigmod/HarinarayanRU96",
-		"books/sp/kimrb85/Jarke85",
-		"journals/sigmod/KarlapalemLS95",
-		"conf/icde/YanL94",
-		"conf/icdcs/YangKL97",
-		"conf/ride/YangKL97"
-	],
+	"cite": ["journals/tods/BellNNS96", "conf/vldb/ChaudhuriS94", "conf/vldb/Dayal87", "journals/dpd/EgyhazyTB96", "conf/icdt/Gupta97", "persons/Hall74", "journals/ibmrd/Hall76", "conf/sigmod/HarinarayanRU96", "books/sp/kimrb85/Jarke85", "journals/sigmod/KarlapalemLS95", "conf/icde/YanL94", "conf/icdcs/YangKL97", "conf/ride/YangKL97"],
 	"crossref": "conf/vldb/97",
 	"dblpkey": "conf/vldb/YangKL97",
 	"ee": "http://www.vldb.org/conf/1997/P136.PDF",
+	"isbn": "1-55860-470-7",
 	"pages": "136-145",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"algorithm",
-		"for",
-		"materi",
-		"view",
-		"design",
-		"in",
-		"data",
-		"wareh",
-		"environ"
-	],
-	"tag": [
-		"algorithm",
-		"design"
-	],
+	"stemmed": ["algorithm", "for", "materi", "view", "design", "in", "data", "wareh", "environ"],
+	"tag": ["algorithm", "design"],
 	"title": "Algorithms for Materialized View Design in Data Warehousing Environment",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,28 +1,15 @@
 {
-	"author": [
-		"Dong Xin",
-		"Jiawei Han",
-		"Xifeng Yan",
-		"Hong Cheng"
-	],
+	"author": ["Dong Xin", "Jiawei Han", "Xifeng Yan", "Hong Cheng"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/XinHYC05",
 	"ee": "http://www.vldb2005.org/program/paper/thu/p709-xin.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "709-720",
 	"publisher": "ACM",
-	"stemmed": [
-		"mine",
-		"compress",
-		"frequent",
-		"pattern",
-		"set"
-	],
-	"tag": [
-		"mining",
-		"set"
-	],
+	"stemmed": ["mine", "compress", "frequent", "pattern", "set"],
+	"tag": ["mining", "set"],
 	"title": "Mining Compressed Frequent-Pattern Sets",
 	"type": "inproceedings",
 	"venue": "VLDB",

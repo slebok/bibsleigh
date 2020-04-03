@@ -1,34 +1,15 @@
 {
-	"author": [
-		"Christoph Koch",
-		"Stefanie Scherzinger",
-		"Michael Schmidt"
-	],
+	"author": ["Christoph Koch", "Stefanie Scherzinger", "Michael Schmidt"],
 	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/KochSS07",
 	"ee": "http://www.vldb.org/conf/2007/papers/demo/p1378-koch.pdf",
+	"isbn": "978-1-59593-649-3",
 	"pages": "1378-1381",
 	"publisher": "ACM",
-	"stemmed": [
-		"the",
-		"gcx",
-		"system",
-		"dynam",
-		"buffer",
-		"minim",
-		"in",
-		"stream",
-		"x",
-		"queri",
-		"evalu"
-	],
-	"tag": [
-		"evaluation",
-		"streaming",
-		"xquery"
-	],
+	"stemmed": ["the", "gcx", "system", "dynam", "buffer", "minim", "in", "stream", "x", "queri", "evalu"],
+	"tag": ["evaluation", "streaming", "xquery"],
 	"title": "The GCX System: Dynamic Buffer Minimization in Streaming XQuery Evaluation",
 	"type": "inproceedings",
 	"venue": "VLDB",

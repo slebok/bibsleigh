@@ -1,38 +1,17 @@
 {
-	"author": [
-		"Shanxiang Qi",
-		"Norimasa Otsuki",
-		"Lois Orosa Nogueira",
-		"Abdullah Muzahid",
-		"Josep Torrellas"
-	],
+	"author": ["Shanxiang Qi", "Norimasa Otsuki", "Lois Orosa Nogueira", "Abdullah Muzahid", "Josep Torrellas"],
 	"booktitle": "Proceedings of the 18th International Conference on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2012",
 	"dblpkey": "conf/hpca/QiONMT12",
 	"doi": "10.1109/HPCA.2012.6169039",
-	"ee": [
-		"http://dx.doi.org/10.1109/HPCA.2012.6169039",
-		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6169039"
-	],
+	"ee": ["http://dx.doi.org/10.1109/HPCA.2012.6169039", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6169039"],
+	"isbn": "978-1-4673-0827-4",
 	"pages": "349-360",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"pacman",
-		"toler",
-		"asymmetr",
-		"data",
-		"race",
-		"with",
-		"unintrus",
-		"hardwar"
-	],
-	"tag": [
-		"hardware",
-		"named",
-		"symmetry"
-	],
+	"stemmed": ["pacman", "toler", "asymmetr", "data", "race", "with", "unintrus", "hardwar"],
+	"tag": ["hardware", "named", "symmetry"],
 	"title": "Pacman: Tolerating asymmetric data races with unintrusive hardware",
 	"type": "inproceedings",
 	"venue": "HPCA",

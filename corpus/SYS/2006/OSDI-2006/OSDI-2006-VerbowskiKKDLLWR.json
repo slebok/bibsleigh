@@ -1,38 +1,15 @@
 {
-	"author": [
-		"Chad Verbowski",
-		"Emre Kiciman",
-		"Arunvijay Kumar",
-		"Brad Daniels",
-		"Shan Lu",
-		"Juhan Lee",
-		"Yi-Min Wang",
-		"Roussi Roussev"
-	],
+	"author": ["Chad Verbowski", "Emre Kiciman", "Arunvijay Kumar", "Brad Daniels", "Shan Lu", "Juhan Lee", "Yi-Min Wang", "Roussi Roussev"],
 	"booktitle": "Proceedings of the Seventh Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2006",
 	"dblpkey": "conf/osdi/VerbowskiKKDLLWR06",
 	"ee": "http://www.usenix.org/events/osdi06/tech/verbowski.html",
+	"isbn": "1-931971-47-1",
 	"pages": "117-130",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"flight",
-		"data",
-		"record",
-		"monitor",
-		"persist",
-		"state",
-		"interact",
-		"to",
-		"improv",
-		"system",
-		"manag"
-	],
-	"tag": [
-		"interactive",
-		"monitoring"
-	],
+	"stemmed": ["flight", "data", "record", "monitor", "persist", "state", "interact", "to", "improv", "system", "manag"],
+	"tag": ["interactive", "monitoring"],
 	"title": "Flight Data Recorder: Monitoring Persistent-State Interactions to Improve Systems Management",
 	"type": "inproceedings",
 	"venue": "OSDI",

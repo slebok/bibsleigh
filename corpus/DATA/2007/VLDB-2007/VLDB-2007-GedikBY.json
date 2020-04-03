@@ -1,32 +1,15 @@
 {
-	"author": [
-		"Bugra Gedik",
-		"Rajesh Bordawekar",
-		"Philip S. Yu"
-	],
+	"author": ["Bugra Gedik", "Rajesh Bordawekar", "Philip S. Yu"],
 	"booktitle": "Proceedings of the 33rd International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2007",
 	"dblpkey": "conf/vldb/GedikBY07",
 	"ee": "http://www.vldb.org/conf/2007/papers/industrial/p1286-gedik.pdf",
+	"isbn": "978-1-59593-649-3",
 	"pages": "1286-1207",
 	"publisher": "ACM",
-	"stemmed": [
-		"cell",
-		"sort",
-		"high",
-		"perform",
-		"sort",
-		"on",
-		"the",
-		"cell",
-		"processor"
-	],
-	"tag": [
-		"named",
-		"performance",
-		"sorting"
-	],
+	"stemmed": ["cell", "sort", "high", "perform", "sort", "on", "the", "cell", "processor"],
+	"tag": ["named", "performance", "sorting"],
 	"title": "CellSort: High Performance Sorting on the Cell Processor",
 	"type": "inproceedings",
 	"venue": "VLDB",

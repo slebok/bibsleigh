@@ -1,34 +1,15 @@
 {
-	"author": [
-		"Sage A. Weil",
-		"Scott A. Brandt",
-		"Ethan L. Miller",
-		"Darrell D. E. Long",
-		"Carlos Maltzahn"
-	],
+	"author": ["Sage A. Weil", "Scott A. Brandt", "Ethan L. Miller", "Darrell D. E. Long", "Carlos Maltzahn"],
 	"booktitle": "Proceedings of the Seventh Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2006",
 	"dblpkey": "conf/osdi/WeilBMLM06",
 	"ee": "http://www.usenix.org/events/osdi06/tech/weil.html",
+	"isbn": "1-931971-47-1",
 	"pages": "307-320",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"ceph",
-		"a",
-		"scalabl",
-		"high",
-		"perform",
-		"distribut",
-		"file",
-		"system"
-	],
-	"tag": [
-		"distributed",
-		"file system",
-		"named",
-		"scalability"
-	],
+	"stemmed": ["ceph", "a", "scalabl", "high", "perform", "distribut", "file", "system"],
+	"tag": ["distributed", "file system", "named", "scalability"],
 	"title": "Ceph: A Scalable, High-Performance Distributed File System",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,46 +1,16 @@
 {
-	"author": [
-		"H. V. Jagadish",
-		"Abraham Silberschatz",
-		"S. Sudarshan"
-	],
+	"author": ["H. V. Jagadish", "Abraham Silberschatz", "S. Sudarshan"],
 	"booktitle": "Proceedings of the 19th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"...",
-		"journals/tods/BadrinathR92",
-		"conf/edbt/BeeriSW88",
-		"books/aw/BernsteinHG87",
-		"...",
-		"...",
-		"conf/icde/Eich87",
-		"journals/tkde/Garcia-MolinaS92",
-		"books/mk/GrayR93",
-		"journals/tc/Hagmann86",
-		"conf/sigmod/LehmanC87",
-		"journals/tkde/LevyS92",
-		"conf/icde/LiE93",
-		"journals/tods/MohanHLPS92",
-		"journals/algorithmica/Pu86",
-		"...",
-		"journals/tkde/SalemG90",
-		"journals/tc/Weihl88"
-	],
+	"cite": ["...", "journals/tods/BadrinathR92", "conf/edbt/BeeriSW88", "books/aw/BernsteinHG87", "...", "...", "conf/icde/Eich87", "journals/tkde/Garcia-MolinaS92", "books/mk/GrayR93", "journals/tc/Hagmann86", "conf/sigmod/LehmanC87", "journals/tkde/LevyS92", "conf/icde/LiE93", "journals/tods/MohanHLPS92", "journals/algorithmica/Pu86", "...", "journals/tkde/SalemG90", "journals/tc/Weihl88"],
 	"crossref": "conf/vldb/93",
 	"dblpkey": "conf/vldb/JagadishSS93",
 	"ee": "http://www.vldb.org/conf/1993/P391.PDF",
+	"isbn": "1-55860-152-X",
 	"pages": "391-404",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"recov",
-		"from",
-		"main",
-		"memori",
-		"laps"
-	],
-	"tag": [
-		"in memory"
-	],
+	"stemmed": ["recov", "from", "main", "memori", "laps"],
+	"tag": ["in memory"],
 	"title": "Recovering from Main-Memory Lapses",
 	"type": "inproceedings",
 	"venue": "VLDB",

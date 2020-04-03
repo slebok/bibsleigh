@@ -1,37 +1,15 @@
 {
-	"author": [
-		"Feng Zhou",
-		"Jeremy Condit",
-		"Zachary R. Anderson",
-		"Ilya Bagrak",
-		"Robert Ennals",
-		"Matthew Harren",
-		"George C. Necula",
-		"Eric A. Brewer"
-	],
+	"author": ["Feng Zhou", "Jeremy Condit", "Zachary R. Anderson", "Ilya Bagrak", "Robert Ennals", "Matthew Harren", "George C. Necula", "Eric A. Brewer"],
 	"booktitle": "Proceedings of the Seventh Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2006",
 	"dblpkey": "conf/osdi/ZhouCABEHNB06",
 	"ee": "http://www.usenix.org/events/osdi06/tech/zhou.html",
+	"isbn": "1-931971-47-1",
 	"pages": "45-60",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"safe",
-		"drive",
-		"safe",
-		"and",
-		"recover",
-		"extens",
-		"use",
-		"languag",
-		"base",
-		"techniqu"
-	],
-	"tag": [
-		"named",
-		"using"
-	],
+	"stemmed": ["safe", "drive", "safe", "and", "recover", "extens", "use", "languag", "base", "techniqu"],
+	"tag": ["named", "using"],
 	"title": "SafeDrive: Safe and Recoverable Extensions Using Language-Based Techniques",
 	"type": "inproceedings",
 	"venue": "OSDI",

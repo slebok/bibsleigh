@@ -1,37 +1,16 @@
 {
-	"author": [
-		"Donghyuk Lee",
-		"Yoongu Kim",
-		"Gennady Pekhimenko",
-		"Samira Manabi Khan",
-		"Vivek Seshadri",
-		"Kevin Kai-Wei Chang",
-		"Onur Mutlu"
-	],
+	"author": ["Donghyuk Lee", "Yoongu Kim", "Gennady Pekhimenko", "Samira Manabi Khan", "Vivek Seshadri", "Kevin Kai-Wei Chang", "Onur Mutlu"],
 	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2015",
 	"dblpkey": "conf/hpca/LeeKPKSCM15",
 	"doi": "10.1109/HPCA.2015.7056057",
 	"ee": "http://dx.doi.org/10.1109/HPCA.2015.7056057",
+	"isbn": "978-1-4799-8930-0",
 	"pages": "489-501",
 	"publisher": "IEEE",
-	"stemmed": [
-		"adapt",
-		"latenc",
-		"dram",
-		"optim",
-		"dram",
-		"time",
-		"for",
-		"the",
-		"common",
-		"case"
-	],
-	"tag": [
-		"adaptation",
-		"optimisation"
-	],
+	"stemmed": ["adapt", "latenc", "dram", "optim", "dram", "time", "for", "the", "common", "case"],
+	"tag": ["adaptation", "optimisation"],
 	"title": "Adaptive-latency DRAM: Optimizing DRAM timing for the common-case",
 	"type": "inproceedings",
 	"venue": "HPCA",

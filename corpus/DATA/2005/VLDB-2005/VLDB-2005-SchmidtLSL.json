@@ -1,32 +1,15 @@
 {
-	"author": [
-		"Sven Schmidt",
-		"Thomas Legler",
-		"Sebastian Schär",
-		"Wolfgang Lehner"
-	],
+	"author": ["Sven Schmidt", "Thomas Legler", "Sebastian Schär", "Wolfgang Lehner"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/SchmidtLSL05",
 	"ee": "http://www.vldb.org/conf/2005/papers/p1299-schmidt.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "1299-1302",
 	"publisher": "ACM",
-	"stemmed": [
-		"robust",
-		"real",
-		"time",
-		"queri",
-		"process",
-		"with",
-		"q",
-		"stream"
-	],
-	"tag": [
-		"query",
-		"realtime",
-		"robust"
-	],
+	"stemmed": ["robust", "real", "time", "queri", "process", "with", "q", "stream"],
+	"tag": ["query", "realtime", "robust"],
 	"title": "Robust Real-time Query Processing with QStream",
 	"type": "inproceedings",
 	"venue": "VLDB",

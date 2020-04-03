@@ -1,34 +1,16 @@
 {
-	"author": [
-		"Miguel Castro",
-		"Peter Druschel",
-		"Ayalvadi J. Ganesh",
-		"Antony I. T. Rowstron",
-		"Dan S. Wallach"
-	],
+	"author": ["Miguel Castro", "Peter Druschel", "Ayalvadi J. Ganesh", "Antony I. T. Rowstron", "Dan S. Wallach"],
 	"booktitle": "Proceedings of the Fifth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2002",
 	"dblpkey": "conf/osdi/CastroDGRW02",
 	"doi": "10.1145/1060289.1060317",
 	"ee": "http://www.usenix.org/events/osdi02/tech/castro.html",
+	"isbn": "978-1-4503-0111-4",
 	"pages": "299-314",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"secur",
-		"rout",
-		"for",
-		"structur",
-		"peer",
-		"to",
-		"peer",
-		"overlay",
-		"network"
-	],
-	"tag": [
-		"network",
-		"peer-to-peer"
-	],
+	"stemmed": ["secur", "rout", "for", "structur", "peer", "to", "peer", "overlay", "network"],
+	"tag": ["network", "peer-to-peer"],
 	"title": "Secure Routing for Structured Peer-to-Peer Overlay Networks",
 	"type": "inproceedings",
 	"venue": "OSDI",

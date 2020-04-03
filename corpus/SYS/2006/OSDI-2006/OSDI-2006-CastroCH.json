@@ -1,28 +1,15 @@
 {
-	"author": [
-		"Miguel Castro",
-		"Manuel Costa",
-		"Timothy L. Harris"
-	],
+	"author": ["Miguel Castro", "Manuel Costa", "Timothy L. Harris"],
 	"booktitle": "Proceedings of the Seventh Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2006",
 	"dblpkey": "conf/osdi/CastroCH06",
 	"ee": "http://www.usenix.org/events/osdi06/tech/castro.html",
+	"isbn": "1-931971-47-1",
 	"pages": "147-160",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"secur",
-		"softwar",
-		"by",
-		"enforc",
-		"data",
-		"flow",
-		"integr"
-	],
-	"tag": [
-		"data flow"
-	],
+	"stemmed": ["secur", "softwar", "by", "enforc", "data", "flow", "integr"],
+	"tag": ["data flow"],
 	"title": "Securing Software by Enforcing Data-flow Integrity",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,30 +1,15 @@
 {
-	"author": [
-		"Yun Chi",
-		"Haixun Wang",
-		"Philip S. Yu"
-	],
+	"author": ["Yun Chi", "Haixun Wang", "Philip S. Yu"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/ChiWY05",
 	"ee": "http://www.vldb.org/conf/2005/papers/p1303-chi.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "1303-1305",
 	"publisher": "ACM",
-	"stemmed": [
-		"loadstar",
-		"load",
-		"shed",
-		"in",
-		"data",
-		"stream",
-		"mine"
-	],
-	"tag": [
-		"data type",
-		"mining",
-		"named"
-	],
+	"stemmed": ["loadstar", "load", "shed", "in", "data", "stream", "mine"],
+	"tag": ["data type", "mining", "named"],
 	"title": "Loadstar: Load Shedding in Data Stream Mining",
 	"type": "inproceedings",
 	"venue": "VLDB",

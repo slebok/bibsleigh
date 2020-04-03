@@ -1,31 +1,15 @@
 {
-	"author": [
-		"Massimo Bernaschi",
-		"Giorgio Richelli"
-	],
+	"author": ["Massimo Bernaschi", "Giorgio Richelli"],
 	"booktitle": "Proceedings of the Ninth Euromicro Workshop on Parallel and Distributed Processing",
 	"booktitleshort": "PDP",
 	"crossref": "conf/pdp/2001",
 	"dblpkey": "conf/pdp/BernaschiR01",
 	"doi": "10.1109/EMPDP.2001.905038",
+	"isbn": "0-7695-0987-8",
 	"pages": "159-164",
 	"publisher": "IEEE Computer Society",
-	"stemmed": [
-		"mpi",
-		"collect",
-		"communic",
-		"oper",
-		"on",
-		"larg",
-		"share",
-		"memori",
-		"system"
-	],
-	"tag": [
-		"communication",
-		"memory management",
-		"scalability"
-	],
+	"stemmed": ["mpi", "collect", "communic", "oper", "on", "larg", "share", "memori", "system"],
+	"tag": ["communication", "memory management", "scalability"],
 	"title": "MPI Collective Communication Operations on Large Shared Memory Systems",
 	"type": "inproceedings",
 	"venue": "PDP",

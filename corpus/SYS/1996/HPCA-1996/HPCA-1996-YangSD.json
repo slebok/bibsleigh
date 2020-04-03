@@ -1,42 +1,17 @@
 {
-	"author": [
-		"Wen-jann Yang",
-		"Ramalingam Sridhar",
-		"Victor Demjanenko"
-	],
+	"author": ["Wen-jann Yang", "Ramalingam Sridhar", "Victor Demjanenko"],
 	"booktitle": "Proceedings of the Second International Symposium on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/1996",
 	"dblpkey": "conf/hpca/YangSD96",
 	"doi": "10.1109/HPCA.1996.501189",
-	"ee": [
-		"http://dx.doi.org/10.1109/HPCA.1996.501189",
-		"http://doi.ieeecomputersociety.org/10.1109/HPCA.1996.501189"
-	],
+	"ee": ["http://dx.doi.org/10.1109/HPCA.1996.501189", "http://doi.ieeecomputersociety.org/10.1109/HPCA.1996.501189"],
+	"isbn": "0-8186-7237-4",
 	"pages": "232-241",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"parallel",
-		"intersect",
-		"compress",
-		"bit",
-		"vector",
-		"in",
-		"a",
-		"high",
-		"speed",
-		"queri",
-		"server",
-		"for",
-		"process",
-		"postal",
-		"address"
-	],
-	"tag": [
-		"parallel",
-		"query"
-	],
+	"stemmed": ["parallel", "intersect", "compress", "bit", "vector", "in", "a", "high", "speed", "queri", "server", "for", "process", "postal", "address"],
+	"tag": ["parallel", "query"],
 	"title": "Parallel Intersecting Compressed Bit Vectors in a High Speed Query Server for Processing Postal Addresses",
 	"type": "inproceedings",
 	"venue": "HPCA",

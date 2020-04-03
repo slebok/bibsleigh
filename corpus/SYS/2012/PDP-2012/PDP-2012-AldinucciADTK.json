@@ -1,35 +1,15 @@
 {
-	"author": [
-		"Marco Aldinucci",
-		"L. Anardu",
-		"Marco Danelutto",
-		"Massimo Torquati",
-		"Peter Kilpatrick"
-	],
+	"author": ["Marco Aldinucci", "L. Anardu", "Marco Danelutto", "Massimo Torquati", "Peter Kilpatrick"],
 	"booktitle": "Proceedings of the 20th Euromicro International Conference on Parallel, Distributed and Network-Based Processing, PDP 2012, Munich, Germany, February 15-17, 2012",
 	"booktitleshort": "PDP",
 	"crossref": "conf/pdp/2012",
 	"dblpkey": "conf/pdp/AldinucciADTK12",
 	"doi": "10.1109/PDP.2012.44",
+	"isbn": "978-1-4673-0226-5",
 	"pages": "27-36",
 	"publisher": "IEEE",
-	"stemmed": [
-		"parallel",
-		"pattern",
-		"macro",
-		"data",
-		"flow",
-		"for",
-		"multi",
-		"core",
-		"program"
-	],
-	"tag": [
-		"data flow",
-		"manycore",
-		"metaprogramming",
-		"parallel"
-	],
+	"stemmed": ["parallel", "pattern", "macro", "data", "flow", "for", "multi", "core", "program"],
+	"tag": ["data flow", "manycore", "metaprogramming", "parallel"],
 	"title": "Parallel Patterns + Macro Data Flow for Multi-core Programming",
 	"type": "inproceedings",
 	"venue": "PDP",

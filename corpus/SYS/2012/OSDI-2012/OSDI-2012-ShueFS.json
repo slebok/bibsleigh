@@ -1,31 +1,15 @@
 {
-	"author": [
-		"David Shue",
-		"Michael J. Freedman",
-		"Anees Shaikh"
-	],
+	"author": ["David Shue", "Michael J. Freedman", "Anees Shaikh"],
 	"booktitle": "Proceedings of the 10th Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2012",
 	"dblpkey": "conf/osdi/ShueFS12",
 	"ee": "https://www.usenix.org/conference/osdi12/technical-sessions/presentation/shue",
+	"isbn": "978-1-931971-96-6",
 	"pages": "349-362",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"perform",
-		"isol",
-		"and",
-		"fair",
-		"for",
-		"multi",
-		"tenant",
-		"cloud",
-		"storag"
-	],
-	"tag": [
-		"multitenancy",
-		"performance"
-	],
+	"stemmed": ["perform", "isol", "and", "fair", "for", "multi", "tenant", "cloud", "storag"],
+	"tag": ["multitenancy", "performance"],
 	"title": "Performance Isolation and Fairness for Multi-Tenant Cloud Storage",
 	"type": "inproceedings",
 	"venue": "OSDI",

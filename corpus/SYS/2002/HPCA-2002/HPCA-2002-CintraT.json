@@ -1,41 +1,17 @@
 {
-	"author": [
-		"Marcelo H. Cintra",
-		"Josep Torrellas"
-	],
+	"author": ["Marcelo H. Cintra", "Josep Torrellas"],
 	"booktitle": "Proceedings of the Eighth International Symposium on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2002",
 	"dblpkey": "conf/hpca/CintraT02",
 	"doi": "10.1109/HPCA.2002.995697",
-	"ee": [
-		"http://dx.doi.org/10.1109/HPCA.2002.995697",
-		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2002.995697"
-	],
+	"ee": ["http://dx.doi.org/10.1109/HPCA.2002.995697", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2002.995697"],
+	"isbn": "0-7695-1525-8",
 	"pages": "43-54",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"specul",
-		"multithread",
-		"elimin",
-		"squash",
-		"through",
-		"learn",
-		"cross",
-		"thread",
-		"violat",
-		"in",
-		"specul",
-		"parallel",
-		"for",
-		"multiprocessor"
-	],
-	"tag": [
-		"learning",
-		"parallel",
-		"thread"
-	],
+	"stemmed": ["specul", "multithread", "elimin", "squash", "through", "learn", "cross", "thread", "violat", "in", "specul", "parallel", "for", "multiprocessor"],
+	"tag": ["learning", "parallel", "thread"],
 	"title": "Speculative Multithreading Eliminating Squashes through Learning Cross-Thread Violations in Speculative Parallelization for Multiprocessors",
 	"type": "inproceedings",
 	"venue": "HPCA",

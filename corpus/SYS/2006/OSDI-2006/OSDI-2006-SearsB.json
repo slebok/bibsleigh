@@ -1,26 +1,15 @@
 {
-	"author": [
-		"Russell Sears",
-		"Eric A. Brewer"
-	],
+	"author": ["Russell Sears", "Eric A. Brewer"],
 	"booktitle": "Proceedings of the Seventh Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2006",
 	"dblpkey": "conf/osdi/SearsB06",
 	"ee": "http://www.usenix.org/events/osdi06/tech/sears.html",
+	"isbn": "1-931971-47-1",
 	"pages": "29-44",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"stasi",
-		"flexibl",
-		"transact",
-		"storag"
-	],
-	"tag": [
-		"flexibility",
-		"named",
-		"transaction"
-	],
+	"stemmed": ["stasi", "flexibl", "transact", "storag"],
+	"tag": ["flexibility", "named", "transaction"],
 	"title": "Stasis: Flexible Transactional Storage",
 	"type": "inproceedings",
 	"venue": "OSDI",

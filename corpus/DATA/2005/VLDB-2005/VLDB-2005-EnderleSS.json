@@ -1,35 +1,15 @@
 {
-	"author": [
-		"Jost Enderle",
-		"Nicole Schneider",
-		"Thomas Seidl"
-	],
+	"author": ["Jost Enderle", "Nicole Schneider", "Thomas Seidl"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/EnderleSS05",
 	"ee": "http://www.vldb2005.org/program/paper/wed/p385-enderle.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "385-396",
 	"publisher": "ACM",
-	"stemmed": [
-		"effici",
-		"process",
-		"queri",
-		"on",
-		"interv",
-		"and",
-		"valu",
-		"tupl",
-		"in",
-		"relat",
-		"databas"
-	],
-	"tag": [
-		"database",
-		"query",
-		"relational",
-		"tuple"
-	],
+	"stemmed": ["effici", "process", "queri", "on", "interv", "and", "valu", "tupl", "in", "relat", "databas"],
+	"tag": ["database", "query", "relational", "tuple"],
 	"title": "Efficiently Processing Queries on Interval-and-Value Tuples in Relational Databases",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,46 +1,16 @@
 {
-	"author": [
-		"Yossi Matias",
-		"Jeffrey Scott Vitter",
-		"Min Wang"
-	],
+	"author": ["Yossi Matias", "Jeffrey Scott Vitter", "Min Wang"],
 	"booktitle": "Proceedings of the 26th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"conf/sigmod/AboulnagaC99",
-		"conf/icde/DonjerkovicIR00",
-		"journals/jcss/FlajoletM85",
-		"conf/vldb/GibbonsMP97",
-		"...",
-		"conf/sigmod/LeeKC99",
-		"conf/sigmod/MuralikrishnaD88",
-		"conf/sigmod/RajagopalanML98",
-		"conf/sigmod/MatiasVW98",
-		"conf/vldb/PoosalaI97",
-		"conf/sigmod/PoosalaIHS96",
-		"phd/Poosala97",
-		"conf/sigmod/Piatetsky-ShapiroC84",
-		"...",
-		"conf/sigmod/VitterW99",
-		"conf/cikm/VitterWI98",
-		"books/aw/Zipf49"
-	],
+	"cite": ["conf/sigmod/AboulnagaC99", "conf/icde/DonjerkovicIR00", "journals/jcss/FlajoletM85", "conf/vldb/GibbonsMP97", "...", "conf/sigmod/LeeKC99", "conf/sigmod/MuralikrishnaD88", "conf/sigmod/RajagopalanML98", "conf/sigmod/MatiasVW98", "conf/vldb/PoosalaI97", "conf/sigmod/PoosalaIHS96", "phd/Poosala97", "conf/sigmod/Piatetsky-ShapiroC84", "...", "conf/sigmod/VitterW99", "conf/cikm/VitterWI98", "books/aw/Zipf49"],
 	"crossref": "conf/vldb/2000",
 	"dblpkey": "conf/vldb/MatiasVW00",
 	"ee": "http://www.vldb.org/conf/2000/P101.pdf",
+	"isbn": "1-55860-715-3",
 	"pages": "101-110",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"dynam",
-		"mainten",
-		"of",
-		"wavelet",
-		"base",
-		"histogram"
-	],
-	"tag": [
-		"maintenance"
-	],
+	"stemmed": ["dynam", "mainten", "of", "wavelet", "base", "histogram"],
+	"tag": ["maintenance"],
 	"title": "Dynamic Maintenance of Wavelet-Based Histograms",
 	"type": "inproceedings",
 	"venue": "VLDB",

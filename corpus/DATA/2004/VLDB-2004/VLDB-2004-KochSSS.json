@@ -1,39 +1,15 @@
 {
-	"author": [
-		"Christoph Koch",
-		"Stefanie Scherzinger",
-		"Nicole Schweikardt",
-		"Bernhard Stegmaier"
-	],
+	"author": ["Christoph Koch", "Stefanie Scherzinger", "Nicole Schweikardt", "Bernhard Stegmaier"],
 	"booktitle": "Proceedings of the 30th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2004",
 	"dblpkey": "conf/vldb/KochSSS04",
 	"ee": "http://www.vldb.org/conf/2004/RS6P2.PDF",
+	"isbn": "0-12-088469-0",
 	"pages": "228-239",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"schema",
-		"base",
-		"schedul",
-		"of",
-		"event",
-		"processor",
-		"and",
-		"buffer",
-		"minim",
-		"for",
-		"queri",
-		"on",
-		"structur",
-		"data",
-		"stream"
-	],
-	"tag": [
-		"data type",
-		"query",
-		"scheduling"
-	],
+	"stemmed": ["schema", "base", "schedul", "of", "event", "processor", "and", "buffer", "minim", "for", "queri", "on", "structur", "data", "stream"],
+	"tag": ["data type", "query", "scheduling"],
 	"title": "Schema-based Scheduling of Event Processors and Buffer Minimization for Queries on Structured Data Streams",
 	"type": "inproceedings",
 	"venue": "VLDB",

@@ -1,47 +1,16 @@
 {
-	"author": [
-		"Mourad Ouzzani",
-		"M. A. Atroun",
-		"N. L. Belkhodja"
-	],
+	"author": ["Mourad Ouzzani", "M. A. Atroun", "N. L. Belkhodja"],
 	"booktitle": "Proceedings of the 20th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"journals/debu/AlonsoGS87",
-		"books/aw/BernsteinHG87",
-		"journals/vldb/BreitbartGS92",
-		"conf/sigmod/BreitbartS88",
-		"conf/vldb/DuE89",
-		"conf/icde/DuEK91",
-		"conf/icde/ElmagarmidD90",
-		"...",
-		"conf/icde/GeorgakopoulosRS91",
-		"conf/sigmod/MehrotraRBKS92",
-		"conf/pdis/MehrotraRKS91",
-		"conf/icde/Pu88",
-		"journals/csur/ShethL90",
-		"conf/icde/Sugihara87",
-		"conf/icde/VeijalainenW92"
-	],
+	"cite": ["journals/debu/AlonsoGS87", "books/aw/BernsteinHG87", "journals/vldb/BreitbartGS92", "conf/sigmod/BreitbartS88", "conf/vldb/DuE89", "conf/icde/DuEK91", "conf/icde/ElmagarmidD90", "...", "conf/icde/GeorgakopoulosRS91", "conf/sigmod/MehrotraRBKS92", "conf/pdis/MehrotraRKS91", "conf/icde/Pu88", "journals/csur/ShethL90", "conf/icde/Sugihara87", "conf/icde/VeijalainenW92"],
 	"crossref": "conf/vldb/94",
 	"dblpkey": "conf/vldb/OuzzaniAB94",
 	"ee": "http://www.vldb.org/conf/1994/P226.PDF",
+	"isbn": "1-55860-153-8",
 	"pages": "226-237",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"a",
-		"top",
-		"down",
-		"approach",
-		"for",
-		"two",
-		"level",
-		"serializ"
-	],
-	"tag": [
-		"approach",
-		"top-down"
-	],
+	"stemmed": ["a", "top", "down", "approach", "for", "two", "level", "serializ"],
+	"tag": ["approach", "top-down"],
 	"title": "A Top-Down Approach for Two Level Serializability",
 	"type": "inproceedings",
 	"venue": "VLDB",

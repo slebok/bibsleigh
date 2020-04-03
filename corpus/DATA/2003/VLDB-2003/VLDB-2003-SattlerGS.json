@@ -1,26 +1,14 @@
 {
-	"author": [
-		"Kai-Uwe Sattler",
-		"Ingolf Geist",
-		"Eike Schallehn"
-	],
+	"author": ["Kai-Uwe Sattler", "Ingolf Geist", "Eike Schallehn"],
 	"booktitle": "Proceedings of the 29th International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"dblpkey": "conf/vldb/SattlerGS03",
 	"ee": "http://www.vldb.org/conf/2003/papers/S37P05.pdf",
+	"isbn": "0-12-722442-4",
 	"pages": "1129-1132",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"quiet",
-		"continu",
-		"queri",
-		"driven",
-		"index",
-		"tune"
-	],
-	"tag": [
-		"named"
-	],
+	"stemmed": ["quiet", "continu", "queri", "driven", "index", "tune"],
+	"tag": ["named"],
 	"title": "QUIET: Continuous Query-driven Index Tuning",
 	"type": "inproceedings",
 	"venue": "VLDB",

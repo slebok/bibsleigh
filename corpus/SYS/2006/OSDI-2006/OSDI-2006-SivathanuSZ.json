@@ -1,24 +1,15 @@
 {
-	"author": [
-		"Gopalan Sivathanu",
-		"Swaminathan Sundararaman",
-		"Erez Zadok"
-	],
+	"author": ["Gopalan Sivathanu", "Swaminathan Sundararaman", "Erez Zadok"],
 	"booktitle": "Proceedings of the Seventh Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2006",
 	"dblpkey": "conf/osdi/SivathanuSZ06",
 	"ee": "http://www.usenix.org/events/osdi06/tech/sivathanu.html",
+	"isbn": "1-931971-47-1",
 	"pages": "15-28",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"type",
-		"safe",
-		"disk"
-	],
-	"tag": [
-		"type safety"
-	],
+	"stemmed": ["type", "safe", "disk"],
+	"tag": ["type safety"],
 	"title": "Type-Safe Disks",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,42 +1,17 @@
 {
-	"author": [
-		"Jue Wang",
-		"Xiangyu Dong",
-		"Yuan Xie",
-		"Norman P. Jouppi"
-	],
+	"author": ["Jue Wang", "Xiangyu Dong", "Yuan Xie", "Norman P. Jouppi"],
 	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/WangDXJ13",
 	"doi": "10.1109/HPCA.2013.6522322",
-	"ee": [
-		"http://dx.doi.org/10.1109/HPCA.2013.6522322",
-		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522322"
-	],
+	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522322", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522322"],
+	"isbn": "978-1-4673-5585-8",
 	"pages": "234-245",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"i",
-		"wap",
-		"improv",
-		"non",
-		"volatil",
-		"cach",
-		"lifetim",
-		"by",
-		"reduc",
-		"inter",
-		"and",
-		"intra",
-		"set",
-		"write",
-		"variat"
-	],
-	"tag": [
-		"named"
-	],
+	"stemmed": ["i", "wap", "improv", "non", "volatil", "cach", "lifetim", "by", "reduc", "inter", "and", "intra", "set", "write", "variat"],
+	"tag": ["named"],
 	"title": "i2WAP: Improving non-volatile cache lifetime by reducing inter- and intra-set write variations",
 	"type": "inproceedings",
 	"venue": "HPCA",

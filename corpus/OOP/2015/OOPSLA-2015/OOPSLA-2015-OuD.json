@@ -1,35 +1,15 @@
 {
-	"author": [
-		"Peizhao Ou",
-		"Brian Demsky"
-	],
+	"author": ["Peizhao Ou", "Brian Demsky"],
 	"booktitle": "Proceedings of the 30th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2015",
 	"dblpkey": "conf/oopsla/OuD15",
 	"doi": "10.1145/2814270.2814286",
+	"isbn": "978-1-4503-3689-5",
 	"pages": "221-240",
 	"publisher": "ACM",
-	"stemmed": [
-		"auto",
-		"mo",
-		"automat",
-		"infer",
-		"of",
-		"memori",
-		"order",
-		"paramet",
-		"for",
-		"c",
-		"c"
-	],
-	"tag": [
-		"automation",
-		"memory management",
-		"named",
-		"order",
-		"parametricity"
-	],
+	"stemmed": ["auto", "mo", "automat", "infer", "of", "memori", "order", "paramet", "for", "c", "c"],
+	"tag": ["automation", "memory management", "named", "order", "parametricity"],
 	"title": "AutoMO: automatic inference of memory order parameters for C/C++11",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

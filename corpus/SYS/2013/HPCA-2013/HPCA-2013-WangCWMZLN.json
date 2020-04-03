@@ -1,47 +1,17 @@
 {
-	"author": [
-		"Yaohua Wang",
-		"Shuming Chen",
-		"Jianghua Wan",
-		"Jiayuan Meng",
-		"Kai Zhang",
-		"Wei Liu",
-		"Xi Ning"
-	],
+	"author": ["Yaohua Wang", "Shuming Chen", "Jianghua Wan", "Jiayuan Meng", "Kai Zhang", "Wei Liu", "Xi Ning"],
 	"booktitle": "Proceedings of the 19th International Symposium on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2013",
 	"dblpkey": "conf/hpca/WangCWMZLN13",
 	"doi": "10.1109/HPCA.2013.6522353",
-	"ee": [
-		"http://dx.doi.org/10.1109/HPCA.2013.6522353",
-		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522353"
-	],
+	"ee": ["http://dx.doi.org/10.1109/HPCA.2013.6522353", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2013.6522353"],
+	"isbn": "978-1-4673-5585-8",
 	"pages": "603-614",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"a",
-		"multipl",
-		"simd",
-		"multipl",
-		"data",
-		"msmd",
-		"architectur",
-		"parallel",
-		"execut",
-		"of",
-		"dynam",
-		"and",
-		"static",
-		"simd",
-		"fragment"
-	],
-	"tag": [
-		"architecture",
-		"execution",
-		"parallel"
-	],
+	"stemmed": ["a", "multipl", "simd", "multipl", "data", "msmd", "architectur", "parallel", "execut", "of", "dynam", "and", "static", "simd", "fragment"],
+	"tag": ["architecture", "execution", "parallel"],
 	"title": "A multiple SIMD, multiple data (MSMD) architecture: Parallel execution of dynamic and static SIMD fragments",
 	"type": "inproceedings",
 	"venue": "HPCA",

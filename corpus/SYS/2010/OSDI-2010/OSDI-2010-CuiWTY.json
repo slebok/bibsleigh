@@ -1,29 +1,15 @@
 {
-	"author": [
-		"Heming Cui",
-		"Jingyue Wu",
-		"Chia-che Tsai",
-		"Junfeng Yang"
-	],
+	"author": ["Heming Cui", "Jingyue Wu", "Chia-che Tsai", "Junfeng Yang"],
 	"booktitle": "Proceedings of the Ninth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2010",
 	"dblpkey": "conf/osdi/CuiWTY10",
 	"ee": "http://www.usenix.org/events/osdi10/tech/full_papers/Cui.pdf",
+	"isbn": "978-1-931971-79-9",
 	"pages": "207-221",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"stabl",
-		"determinist",
-		"multithread",
-		"through",
-		"schedul",
-		"memoiz"
-	],
-	"tag": [
-		"multi",
-		"thread"
-	],
+	"stemmed": ["stabl", "determinist", "multithread", "through", "schedul", "memoiz"],
+	"tag": ["multi", "thread"],
 	"title": "Stable Deterministic Multithreading through Schedule Memoization",
 	"type": "inproceedings",
 	"venue": "OSDI",

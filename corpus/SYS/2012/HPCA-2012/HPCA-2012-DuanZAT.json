@@ -1,41 +1,17 @@
 {
-	"author": [
-		"Yuelu Duan",
-		"Xing Zhou",
-		"Wonsun Ahn",
-		"Josep Torrellas"
-	],
+	"author": ["Yuelu Duan", "Xing Zhou", "Wonsun Ahn", "Josep Torrellas"],
 	"booktitle": "Proceedings of the 18th International Conference on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2012",
 	"dblpkey": "conf/hpca/DuanZAT12",
 	"doi": "10.1109/HPCA.2012.6169040",
-	"ee": [
-		"http://dx.doi.org/10.1109/HPCA.2012.6169040",
-		"http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6169040"
-	],
+	"ee": ["http://dx.doi.org/10.1109/HPCA.2012.6169040", "http://doi.ieeecomputersociety.org/10.1109/HPCA.2012.6169040"],
+	"isbn": "978-1-4673-0827-4",
 	"pages": "361-372",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"bulk",
-		"compactor",
-		"optim",
-		"determinist",
-		"execut",
-		"via",
-		"conflict",
-		"awar",
-		"commit",
-		"of",
-		"atom",
-		"block"
-	],
-	"tag": [
-		"commit",
-		"execution",
-		"named"
-	],
+	"stemmed": ["bulk", "compactor", "optim", "determinist", "execut", "via", "conflict", "awar", "commit", "of", "atom", "block"],
+	"tag": ["commit", "execution", "named"],
 	"title": "BulkCompactor: Optimized deterministic execution via Conflict-Aware commit of atomic blocks",
 	"type": "inproceedings",
 	"venue": "HPCA",

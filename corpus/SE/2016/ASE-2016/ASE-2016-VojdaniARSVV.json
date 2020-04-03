@@ -1,36 +1,16 @@
 {
-	"author": [
-		"Vesal Vojdani",
-		"Kalmer Apinis",
-		"Vootele Rõtov",
-		"Helmut Seidl",
-		"Varmo Vene",
-		"Ralf Vogler"
-	],
+	"author": ["Vesal Vojdani", "Kalmer Apinis", "Vootele Rõtov", "Helmut Seidl", "Varmo Vene", "Ralf Vogler"],
 	"booktitle": "Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering",
 	"booktitleshort": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/VojdaniARSVV16",
 	"doi": "10.1145/2970276.2970337",
 	"ee": "http://ieeexplore.ieee.org/document/7582775/",
+	"isbn": "978-1-4503-3845-5",
 	"pages": "391-402",
 	"publisher": "ACM",
-	"stemmed": [
-		"static",
-		"race",
-		"detect",
-		"for",
-		"devic",
-		"driver",
-		"the",
-		"goblint",
-		"approach"
-	],
-	"tag": [
-		"approach",
-		"concurrent",
-		"detection"
-	],
+	"stemmed": ["static", "race", "detect", "for", "devic", "driver", "the", "goblint", "approach"],
+	"tag": ["approach", "concurrent", "detection"],
 	"title": "Static race detection for device drivers: the Goblint approach",
 	"type": "inproceedings",
 	"venue": "ASE",

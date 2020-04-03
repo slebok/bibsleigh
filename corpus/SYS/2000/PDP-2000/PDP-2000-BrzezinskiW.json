@@ -1,38 +1,15 @@
 {
-	"author": [
-		"Jerzy Brzezinski",
-		"Dariusz Wawrzyniak"
-	],
+	"author": ["Jerzy Brzezinski", "Dariusz Wawrzyniak"],
 	"booktitle": "Proceedings of the Eight Euromicro Workshop on Parallel and Distributed Processing",
 	"booktitleshort": "PDP",
 	"crossref": "conf/pdp/2000",
 	"dblpkey": "conf/pdp/BrzezinskiW00",
 	"doi": "10.1109/EMPDP.2000.823415",
+	"isbn": "0-7695-0500-7",
 	"pages": "220-226",
 	"publisher": "IEEE Computer Society",
-	"stemmed": [
-		"consist",
-		"requir",
-		"of",
-		"distribut",
-		"share",
-		"memori",
-		"for",
-		"lamport",
-		"s",
-		"bakeri",
-		"algorithm",
-		"for",
-		"mutual",
-		"exclus"
-	],
-	"tag": [
-		"algorithm",
-		"consistency",
-		"distributed",
-		"memory management",
-		"requirements"
-	],
+	"stemmed": ["consist", "requir", "of", "distribut", "share", "memori", "for", "lamport", "s", "bakeri", "algorithm", "for", "mutual", "exclus"],
+	"tag": ["algorithm", "consistency", "distributed", "memory management", "requirements"],
 	"title": "Consistency requirements of distributed shared memory for Lamport’s bakery algorithm for mutual exclusion",
 	"type": "inproceedings",
 	"venue": "PDP",

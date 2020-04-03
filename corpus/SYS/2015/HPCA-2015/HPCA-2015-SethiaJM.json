@@ -1,33 +1,16 @@
 {
-	"author": [
-		"Ankit Sethia",
-		"Davoud Anoushe Jamshidi",
-		"Scott A. Mahlke"
-	],
+	"author": ["Ankit Sethia", "Davoud Anoushe Jamshidi", "Scott A. Mahlke"],
 	"booktitle": "Proceedings of the 21st International Symposium on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2015",
 	"dblpkey": "conf/hpca/SethiaJM15",
 	"doi": "10.1109/HPCA.2015.7056031",
 	"ee": "http://dx.doi.org/10.1109/HPCA.2015.7056031",
+	"isbn": "978-1-4799-8930-0",
 	"pages": "174-185",
 	"publisher": "IEEE",
-	"stemmed": [
-		"mascar",
-		"speed",
-		"up",
-		"gpu",
-		"warp",
-		"by",
-		"reduc",
-		"memori",
-		"pitstop"
-	],
-	"tag": [
-		"gpu",
-		"memory management",
-		"named"
-	],
+	"stemmed": ["mascar", "speed", "up", "gpu", "warp", "by", "reduc", "memori", "pitstop"],
+	"tag": ["gpu", "memory management", "named"],
 	"title": "Mascar: Speeding up GPU warps by reducing memory pitstops",
 	"type": "inproceedings",
 	"venue": "HPCA",

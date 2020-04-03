@@ -1,27 +1,16 @@
 {
-	"author": [
-		"Matthias Höschele",
-		"Andreas Zeller"
-	],
+	"author": ["Matthias Höschele", "Andreas Zeller"],
 	"booktitle": "Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering",
 	"booktitleshort": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/HoscheleZ16",
 	"doi": "10.1145/2970276.2970321",
 	"ee": "http://ieeexplore.ieee.org/document/7582807/",
+	"isbn": "978-1-4503-3845-5",
 	"pages": "720-725",
 	"publisher": "ACM",
-	"stemmed": [
-		"mine",
-		"input",
-		"grammar",
-		"from",
-		"dynam",
-		"taint"
-	],
-	"tag": [
-		"mining"
-	],
+	"stemmed": ["mine", "input", "grammar", "from", "dynam", "taint"],
+	"tag": ["mining"],
 	"title": "Mining input grammars from dynamic taints",
 	"type": "inproceedings",
 	"venue": "ASE",

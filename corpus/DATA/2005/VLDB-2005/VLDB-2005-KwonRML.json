@@ -1,35 +1,15 @@
 {
-	"author": [
-		"Joonho Kwon",
-		"Praveen Rao",
-		"Bongki Moon",
-		"Sukho Lee"
-	],
+	"author": ["Joonho Kwon", "Praveen Rao", "Bongki Moon", "Sukho Lee"],
 	"booktitle": "Proceedings of the 31st International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
 	"crossref": "conf/vldb/2005",
 	"dblpkey": "conf/vldb/KwonRML05",
 	"ee": "http://www.vldb2005.org/program/paper/tue/p217-kwon.pdf",
+	"isbn": ["1-59593-154-6", "1-59593-177-5"],
 	"pages": "217-228",
 	"publisher": "ACM",
-	"stemmed": [
-		"fi",
-		"st",
-		"scalabl",
-		"xml",
-		"document",
-		"filter",
-		"by",
-		"sequenc",
-		"twig",
-		"pattern"
-	],
-	"tag": [
-		"documentation",
-		"named",
-		"scalability",
-		"xml"
-	],
+	"stemmed": ["fi", "st", "scalabl", "xml", "document", "filter", "by", "sequenc", "twig", "pattern"],
+	"tag": ["documentation", "named", "scalability", "xml"],
 	"title": "FiST: Scalable XML Document Filtering by Sequencing Twig Patterns",
 	"type": "inproceedings",
 	"venue": "VLDB",

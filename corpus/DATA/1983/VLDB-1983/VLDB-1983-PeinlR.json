@@ -1,48 +1,16 @@
 {
-	"author": [
-		"Peter Peinl",
-		"Andreas Reuter"
-	],
+	"author": ["Peter Peinl", "Andreas Reuter"],
 	"booktitle": "Proceedings of the Ninth International Conference on Very Large Data Bases",
 	"booktitleshort": "VLDB",
-	"cite": [
-		"conf/ddb/BayerEHR82",
-		"journals/tods/BayerHR80",
-		"journals/tse/BernsteinSW79",
-		"journals/cacm/EswarranGLT76",
-		"journals/tods/EffelsbergH84",
-		"...",
-		"conf/ac/Gray78",
-		"journals/is/Harder84",
-		"...",
-		"journals/tods/KungR81",
-		"journals/is/MenasceN82",
-		"conf/gi/PradelSU82",
-		"conf/pods/Reuter82",
-		"journals/tods/RiesS77",
-		"journals/tods/RiesS79",
-		"conf/vldb/Schlageter81",
-		"..."
-	],
+	"cite": ["conf/ddb/BayerEHR82", "journals/tods/BayerHR80", "journals/tse/BernsteinSW79", "journals/cacm/EswarranGLT76", "journals/tods/EffelsbergH84", "...", "conf/ac/Gray78", "journals/is/Harder84", "...", "journals/tods/KungR81", "journals/is/MenasceN82", "conf/gi/PradelSU82", "conf/pods/Reuter82", "journals/tods/RiesS77", "journals/tods/RiesS79", "conf/vldb/Schlageter81", "..."],
 	"crossref": "conf/vldb/83",
 	"dblpkey": "conf/vldb/PeinlR83",
 	"ee": "http://www.vldb.org/conf/1983/P097.PDF",
+	"isbn": "0-934613-15-X",
 	"pages": "97-108",
 	"publisher": "Morgan Kaufmann",
-	"stemmed": [
-		"empir",
-		"comparison",
-		"of",
-		"databas",
-		"concurr",
-		"scheme"
-	],
-	"tag": [
-		"comparison",
-		"concurrent",
-		"database",
-		"empirical"
-	],
+	"stemmed": ["empir", "comparison", "of", "databas", "concurr", "scheme"],
+	"tag": ["comparison", "concurrent", "database", "empirical"],
 	"title": "Empirical Comparison of Database Concurrency Schemes",
 	"type": "inproceedings",
 	"venue": "VLDB",

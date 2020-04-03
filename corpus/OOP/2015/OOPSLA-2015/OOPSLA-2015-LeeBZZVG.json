@@ -1,36 +1,15 @@
 {
-	"author": [
-		"Wen-Chuan Lee",
-		"Tao Bao",
-		"Yunhui Zheng",
-		"Xiangyu Zhang",
-		"Keval Vora",
-		"Rajiv Gupta"
-	],
+	"author": ["Wen-Chuan Lee", "Tao Bao", "Yunhui Zheng", "Xiangyu Zhang", "Keval Vora", "Rajiv Gupta"],
 	"booktitle": "Proceedings of the 30th Conference on Object-Oriented Programming, Systems, Languages and Applications",
 	"booktitleshort": "OOPSLA",
 	"crossref": "conf/oopsla/2015",
 	"dblpkey": "conf/oopsla/LeeBZZVG15",
 	"doi": "10.1145/2814270.2814299",
+	"isbn": "978-1-4503-3689-5",
 	"pages": "623-638",
 	"publisher": "ACM",
-	"stemmed": [
-		"raiv",
-		"runtim",
-		"assess",
-		"of",
-		"float",
-		"point",
-		"instabl",
-		"by",
-		"vector"
-	],
-	"tag": [
-		"assessment",
-		"float",
-		"named",
-		"runtime"
-	],
+	"stemmed": ["raiv", "runtim", "assess", "of", "float", "point", "instabl", "by", "vector"],
+	"tag": ["assessment", "float", "named", "runtime"],
 	"title": "RAIVE: runtime assessment of floating-point instability by vectorization",
 	"type": "inproceedings",
 	"venue": "OOPSLA",

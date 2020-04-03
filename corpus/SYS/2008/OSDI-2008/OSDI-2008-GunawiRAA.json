@@ -1,30 +1,15 @@
 {
-	"author": [
-		"Haryadi S. Gunawi",
-		"Abhishek Rajimwale",
-		"Andrea C. Arpaci-Dusseau",
-		"Remzi H. Arpaci-Dusseau"
-	],
+	"author": ["Haryadi S. Gunawi", "Abhishek Rajimwale", "Andrea C. Arpaci-Dusseau", "Remzi H. Arpaci-Dusseau"],
 	"booktitle": "Proceedings of the Eighth Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2008",
 	"dblpkey": "conf/osdi/GunawiRAA08",
 	"ee": "http://www.usenix.org/events/osdi08/tech/full_papers/gunawi/gunawi.pdf",
+	"isbn": "978-1-931971-65-2",
 	"pages": "131-146",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"sqck",
-		"a",
-		"declar",
-		"file",
-		"system",
-		"checker"
-	],
-	"tag": [
-		"declarative",
-		"file system",
-		"named"
-	],
+	"stemmed": ["sqck", "a", "declar", "file", "system", "checker"],
+	"tag": ["declarative", "file system", "named"],
 	"title": "SQCK: A Declarative File System Checker",
 	"type": "inproceedings",
 	"venue": "OSDI",

@@ -1,36 +1,16 @@
 {
-	"author": [
-		"Marcelino Rodriguez-Cancio",
-		"Benoît Combemale",
-		"Benoit Baudry"
-	],
+	"author": ["Marcelino Rodriguez-Cancio", "Benoît Combemale", "Benoit Baudry"],
 	"booktitle": "Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering",
 	"booktitleshort": "ASE",
 	"crossref": "conf/kbse/2016",
 	"dblpkey": "conf/kbse/Rodriguez-Cancio16",
 	"doi": "10.1145/2970276.2970346",
 	"ee": "http://ieeexplore.ieee.org/document/7582752/",
+	"isbn": "978-1-4503-3845-5",
 	"pages": "132-143",
 	"publisher": "ACM",
-	"stemmed": [
-		"automat",
-		"microbenchmark",
-		"generat",
-		"to",
-		"prevent",
-		"dead",
-		"code",
-		"elimin",
-		"and",
-		"constant",
-		"fold"
-	],
-	"tag": [
-		"automation",
-		"benchmark",
-		"constant",
-		"generative"
-	],
+	"stemmed": ["automat", "microbenchmark", "generat", "to", "prevent", "dead", "code", "elimin", "and", "constant", "fold"],
+	"tag": ["automation", "benchmark", "constant", "generative"],
 	"title": "Automatic microbenchmark generation to prevent dead code elimination and constant folding",
 	"type": "inproceedings",
 	"venue": "ASE",

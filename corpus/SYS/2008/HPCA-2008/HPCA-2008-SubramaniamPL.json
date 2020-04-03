@@ -1,36 +1,17 @@
 {
-	"author": [
-		"Samantika Subramaniam",
-		"Milos Prvulovic",
-		"Gabriel H. Loh"
-	],
+	"author": ["Samantika Subramaniam", "Milos Prvulovic", "Gabriel H. Loh"],
 	"booktitle": "Proceedings of the 14th International Conference on High-Performance Computer Architecture",
 	"booktitleshort": "HPCA",
 	"crossref": "conf/hpca/2008",
 	"dblpkey": "conf/hpca/SubramaniamPL08",
 	"doi": "10.1109/HPCA.2008.4658634",
 	"ee": "http://dx.doi.org/10.1109/HPCA.2008.4658634",
+	"isbn": "978-1-4244-2070-4",
 	"pages": "137-148",
 	"publisher": "IEEE Computer Society",
 	"publishershort": "IEEE CS",
-	"stemmed": [
-		"peep",
-		"exploit",
-		"predict",
-		"of",
-		"memori",
-		"depend",
-		"in",
-		"smt",
-		"processor"
-	],
-	"tag": [
-		"dependence",
-		"memory management",
-		"named",
-		"predict",
-		"smt"
-	],
+	"stemmed": ["peep", "exploit", "predict", "of", "memori", "depend", "in", "smt", "processor"],
+	"tag": ["dependence", "memory management", "named", "predict", "smt"],
 	"title": "PEEP: Exploiting predictability of memory dependences in SMT processors",
 	"type": "inproceedings",
 	"venue": "HPCA",

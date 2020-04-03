@@ -1,39 +1,15 @@
 {
-	"author": [
-		"François Broquedis",
-		"Jérôme Clet-Ortega",
-		"Stephanie Moreaud",
-		"Nathalie Furmento",
-		"Brice Goglin",
-		"Guillaume Mercier",
-		"Samuel Thibault",
-		"Raymond Namyst"
-	],
+	"author": ["François Broquedis", "Jérôme Clet-Ortega", "Stephanie Moreaud", "Nathalie Furmento", "Brice Goglin", "Guillaume Mercier", "Samuel Thibault", "Raymond Namyst"],
 	"booktitle": "Proceedings of the 18th Euromicro Conference on Parallel, Distributed and Network-based Processing, PDP 2010, Pisa, Italy, February 17-19, 2010",
 	"booktitleshort": "PDP",
 	"crossref": "conf/pdp/2010",
 	"dblpkey": "conf/pdp/BroquedisCMFGMTN10",
 	"doi": "10.1109/PDP.2010.67",
+	"isbn": "978-0-7695-3939-3",
 	"pages": "180-186",
 	"publisher": "IEEE Computer Society",
-	"stemmed": [
-		"hwloc",
-		"a",
-		"generic",
-		"framework",
-		"for",
-		"manag",
-		"hardwar",
-		"affin",
-		"in",
-		"hpc",
-		"applic"
-	],
-	"tag": [
-		"framework",
-		"hardware",
-		"named"
-	],
+	"stemmed": ["hwloc", "a", "generic", "framework", "for", "manag", "hardwar", "affin", "in", "hpc", "applic"],
+	"tag": ["framework", "hardware", "named"],
 	"title": "hwloc: A Generic Framework for Managing Hardware Affinities in HPC Applications",
 	"type": "inproceedings",
 	"venue": "PDP",

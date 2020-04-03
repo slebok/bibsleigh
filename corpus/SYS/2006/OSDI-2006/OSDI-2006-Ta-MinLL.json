@@ -1,34 +1,15 @@
 {
-	"author": [
-		"Richard Ta-Min",
-		"Lionel Litty",
-		"David Lie"
-	],
+	"author": ["Richard Ta-Min", "Lionel Litty", "David Lie"],
 	"booktitle": "Proceedings of the Seventh Symposium on Operating Systems Design and Implementation",
 	"booktitleshort": "OSDI",
 	"crossref": "conf/osdi/2006",
 	"dblpkey": "conf/osdi/Ta-MinLL06",
 	"ee": "http://www.usenix.org/events/osdi06/tech/ta-min.html",
+	"isbn": "1-931971-47-1",
 	"pages": "279-292",
 	"publisher": "USENIX Association",
-	"stemmed": [
-		"split",
-		"interfac",
-		"make",
-		"trust",
-		"between",
-		"applic",
-		"and",
-		"oper",
-		"system",
-		"configur"
-	],
-	"tag": [
-		"configuration management",
-		"interface",
-		"operating system",
-		"trust"
-	],
+	"stemmed": ["split", "interfac", "make", "trust", "between", "applic", "and", "oper", "system", "configur"],
+	"tag": ["configuration management", "interface", "operating system", "trust"],
 	"title": "Splitting Interfaces: Making Trust Between Applications and Operating Systems Configurable",
 	"type": "inproceedings",
 	"venue": "OSDI",
