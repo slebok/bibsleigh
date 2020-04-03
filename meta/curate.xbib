@@ -52,57 +52,7 @@ when no title
 when journal =^= journalshort
 	inherit journal
 
--- Normalise known names
-when journal == ECEASST
-	assign Electronic_Communications_of_the_EASST
-when journal == Electron._Notes_Theor._Comput._Sci.
-	assign Electronic_Notes_in_Theoretical_Computer_Science
-when journal == JSAT
-	assign Journal_on_Satisfiability,_Boolean_Modeling_and_Computation
-when series == LNCS
-	assign Lecture_Notes_in_Computer_Science
-when series == LIPIcs
-	assign Leibniz_International_Proceedings_in_Informatics
-when journal == PACMPL
-	assign Proceedings_of_the_ACM_on_Programming_Languages
-when journal == PVLDB
-	assign Proceedings_of_the_VLDB_Endowment
-when journal == Theor._Comput._Sci.
-	assign Theoretical_Computer_Science
-when journal == TPLP
-	assign Theory_and_Practice_of_Logic_Programming
--- Assign short names to known long ones
-when no journalshort
-	when journal == Electronic_Communications_of_the_EASST
-		add journalshort ECEASST
-when no journalshort
-	when journal == Electronic_Notes_in_Theoretical_Computer_Science
-		add journalshort ENTCS
-when no journalshort
-	when journal == Journal_on_Satisfiability,_Boolean_Modeling_and_Computation
-		add journalshort JSAT
-when no seriesshort
-	when series == Lecture_Notes_in_Computer_Science
-		add seriesshort LNCS
-when no seriesshort
-	when series == Leibniz_International_Proceedings_in_Informatics
-		add seriesshort LIPIcs
-when no journalshort
-	when journal == Proceedings_of_the_ACM_on_Programming_Languages
-		add journalshort PACMPL
-when no journalshort
-	when journal == Proceedings_of_the_VLDB_Endowment
-		add journalshort PVLDB
-when no journalshort
-	when journal == Theory_and_Practice_of_Logic_Programming
-		add journalshort TPLP
-
--- Known ISSNs and ISBNs
-when no issn
-	when journal == Theoretical_Computer_Science
-		add issn 0304-3975
-
---always
+apply known_names
 
 -- Prefer numbers to strings
 use the force
@@ -127,27 +77,7 @@ when doi =~ https://doi.org/
 when acmid =~ https://dl.acm.org/citation.cfm?id=
 	truncate left 35
 
--- Normalise known names
-when journal == ECEASST
-	assign Electronic_Communications_of_the_EASST
-when no journalshort
-	when journal == Electronic_Communications_of_the_EASST
-		add journalshort ECEASST
-when series == LNCS
-	assign Lecture_Notes_in_Computer_Science
-when series == LIPIcs
-	assign Leibniz_International_Proceedings_in_Informatics
-when no seriesshort
-	when series == Lecture_Notes_in_Computer_Science
-		add seriesshort LNCS
-when no seriesshort
-	when series == Leibniz_International_Proceedings_in_Informatics
-		add seriesshort LIPIcs
-when publisher == International_Educational_Data_Mining_Society_(IEDMS)
-	truncate right 8
-when no publishershort 
-	when publisher == International_Educational_Data_Mining_Society
-		add publishershort IEDMS
+apply known_names
 
 -- Specific to venues!
 when booktitle
