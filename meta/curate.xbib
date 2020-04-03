@@ -1,9 +1,6 @@
 corpus c:\bigrepos\bibsleigh\json\corpus
 in */*/*/*
 
--- Prefer numbers to strings
-use the force
-
 -- If a paper has no venue, inherit from the conference
 when no venue
 	inherit venue
@@ -107,6 +104,9 @@ when no issn
 
 --always
 
+-- Prefer numbers to strings
+use the force
+
 -- temp
 
 ---------------------------------------------------------------
@@ -158,3 +158,6 @@ when titleshort == ACM_Symposium_on_Document_Engineering
 	assign DocEng
 when no venue
 	assign $titleshort
+
+-- Prefer numbers to strings
+use the force
