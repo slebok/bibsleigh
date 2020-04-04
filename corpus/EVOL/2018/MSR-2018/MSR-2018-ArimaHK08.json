@@ -1,12 +1,14 @@
 {
 	"author": ["Ryo Arima", "Yoshiki Higo", "Shinji Kusumoto"],
-	"booktitle": "MSR",
+	"booktitle": "Proceedings of the 15th Working Conference on Mining Software Repositories",
+	"booktitleshort": "MSR",
 	"crossref": "conf/msr/2018",
 	"dblpkey": "conf/msr/ArimaHK08",
 	"ee": ["https://doi.org/10.1145/3196398.3196406", "http://ieeexplore.ieee.org/document/8595217"],
 	"pages": "336-340",
+	"publisher": "ACM",
 	"title": "A study on inappropriately partitioned commits: how much and what kinds of IP commits in Java projects?",
 	"type": "inproceedings",
-	"url": "db/conf/msr/msr2018.html#ArimaHK08",
-	"year": "2018"
+	"venue": "MSR",
+	"year": 2018
 }

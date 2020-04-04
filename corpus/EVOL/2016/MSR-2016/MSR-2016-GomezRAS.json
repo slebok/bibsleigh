@@ -1,12 +1,15 @@
 {
 	"author": ["María Gómez 0001", "Romain Rouvoy", "Bram Adams", "Lionel Seinturier"],
-	"booktitle": "MSR",
+	"booktitle": "Proceedings of the 13th Working Conference on Mining Software Repositories",
+	"booktitleshort": "MSR",
 	"crossref": "conf/msr/2016",
 	"dblpkey": "conf/msr/GomezRAS16",
-	"ee": "https://doi.org/10.1145/2901739.2901747",
+	"doi": "10.1145/2901739.2901747",
+	"isbn": "978-1-4503-4186-8",
 	"pages": "13-24",
+	"publisher": "ACM",
 	"title": "Mining test repositories for automatic detection of UI performance regressions in Android apps",
 	"type": "inproceedings",
-	"url": "db/conf/msr/msr2016.html#GomezRAS16",
-	"year": "2016"
+	"venue": "MSR",
+	"year": 2016
 }
