@@ -1,12 +1,14 @@
 {
 	"author": ["Jaewoo Lee", "Daniel Kifer"],
-	"booktitle": "KDD",
+	"booktitle": "Proceedings of the 24th International Conference on Knowledge Discovery and Data Mining",
+	"booktitleshort": "KDD",
 	"crossref": "conf/kdd/2018",
 	"dblpkey": "conf/kdd/LeeK18",
-	"ee": "https://doi.org/10.1145/3219819.3220076",
+	"doi": "10.1145/3219819.3220076",
 	"pages": "1656-1665",
+	"publisher": "ACM",
 	"title": "Concentrated Differentially Private Gradient Descent with Adaptive per-Iteration Privacy Budget",
 	"type": "inproceedings",
-	"url": "db/conf/kdd/kdd2018.html#LeeK18",
-	"year": "2018"
+	"venue": "KDD",
+	"year": 2018
 }
