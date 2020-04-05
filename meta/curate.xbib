@@ -46,11 +46,21 @@ when no journal
 when booktitle
 	when no booktitleshort
 		inherit titleshort
-when no title
-	when booktitle =^= titleshort
-		inherit title
+when booktitle =^= titleshort
+	inherit title
+when booktitle =^= title
+	when no booktitleshort
+		inherit titleshort
+when no journalshort
+	when no journal
+		when no booktitleshort
+			when no booktitle
+				inherit title
 when journal =^= journalshort
 	inherit journal
+-- This is to fix previous mistakes, never run this commant on the conference level!
+when titleshort
+	remove titleshort
 
 -- Fill in the gaps from the parent
 when no isbn
