@@ -1,14 +1,14 @@
 {
 	"author": ["Stephanie Weirich", "Pritam Choudhury", "Antoine Voizard", "Richard A. Eisenberg"],
 	"dblpkey": "journals/pacmpl/WeirichCVE19",
-	"ee": "https://doi.org/10.1145/3341705",
-	"journal": "PACMPL",
+	"doi": "10.1145/3341705",
+	"journal": ["PACMPL", "Proceedings of the ACM on Programming Languages"],
 	"number": "ICFP",
 	"pages": "101:1-101:29",
 	"tag": ["dependent type", "haskell"],
 	"title": "A role for dependent types in Haskell",
 	"type": "article",
-	"url": "db/journals/pacmpl/pacmpl3.html#WeirichCVE19",
-	"volume": "3",
-	"year": "2019"
+	"venue": "ICFP",
+	"volume": 3,
+	"year": 2019
 }

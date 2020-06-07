@@ -1,13 +1,16 @@
 {
 	"author": ["Andrii Kovalov", "Elisabeth Lobe", "Andreas Gerndt", "Daniel Lüdtke"],
-	"booktitle": "IFM",
+	"booktitle": "Proceedings of the 13th International Conference on Integrated Formal Methods",
+	"booktitleshort": "IFM",
 	"crossref": "conf/ifm/2017",
 	"dblpkey": "conf/ifm/KovalovLGL17",
-	"ee": "https://doi.org/10.1007/978-3-319-66845-1_12",
+	"doi": "10.1007/978-3-319-66845-1_12",
+	"isbn": ["978-3-319-66844-4", "978-3-319-66845-1"],
 	"pages": "177-191",
+	"publisher": "Springer",
 	"tag": ["network", "smt", "using"],
 	"title": "Task-Node Mapping in an Arbitrary Computer Network Using SMT Solver",
 	"type": "inproceedings",
-	"url": "db/conf/ifm/ifm2017.html#KovalovLGL17",
-	"year": "2017"
+	"venue": "IFM",
+	"year": 2017
 }

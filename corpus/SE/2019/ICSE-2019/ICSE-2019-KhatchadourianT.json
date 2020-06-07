@@ -1,13 +1,16 @@
 {
 	"author": ["Raffi Khatchadourian", "Yiming Tang", "Mehdi Bagherzadeh", "Syed Ahmed"],
-	"booktitle": "ICSE",
+	"booktitle": "Proceedings of the 41st International Conference on Software Engineering",
+	"booktitleshort": "ICSE",
 	"crossref": "conf/icse/2019",
 	"dblpkey": "conf/icse/KhatchadourianT19",
 	"ee": ["https://doi.org/10.1109/ICSE.2019.00072", "https://dl.acm.org/citation.cfm?id=3339586"],
+	"isbn": "978-1-7281-0869-8",
 	"pages": "619-630",
+	"publisher": "IEEE / ACM",
 	"tag": ["automation", "java", "parallel", "refactoring"],
 	"title": "Safe automated refactoring for intelligent parallelization of Java 8 streams",
 	"type": "inproceedings",
-	"url": "db/conf/icse/icse2019.html#KhatchadourianT19",
-	"year": "2019"
+	"venue": "ICSE",
+	"year": 2019
 }

@@ -1,14 +1,14 @@
 {
 	"author": ["Frédéric Bour", "Thomas Refis", "Gabriel Scherer"],
 	"dblpkey": "journals/pacmpl/BourRS18",
-	"ee": "https://doi.org/10.1145/3236798",
-	"journal": "PACMPL",
+	"doi": "10.1145/3236798",
+	"journal": ["PACMPL", "Proceedings of the ACM on Programming Languages"],
 	"number": "ICFP",
 	"pages": "103:1-103:15",
 	"tag": ["case study", "experience", "ml", "named"],
 	"title": "Merlin: a language server for OCaml (experience report)",
 	"type": "article",
-	"url": "db/journals/pacmpl/pacmpl2.html#BourRS18",
-	"volume": "2",
-	"year": "2018"
+	"venue": "ICFP",
+	"volume": 2,
+	"year": 2018
 }

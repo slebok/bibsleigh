@@ -1,14 +1,14 @@
 {
 	"author": "Ivan Perez 0003",
 	"dblpkey": "journals/pacmpl/Perez18",
-	"ee": "https://doi.org/10.1145/3236791",
-	"journal": "PACMPL",
+	"doi": "10.1145/3236791",
+	"journal": ["PACMPL", "Proceedings of the ACM on Programming Languages"],
 	"number": "ICFP",
 	"pages": "96:1-96:30",
 	"tag": ["fault tolerance", "functional", "programming"],
 	"title": "Fault tolerant functional reactive programming (functional pearl)",
 	"type": "article",
-	"url": "db/journals/pacmpl/pacmpl2.html#Perez18",
-	"volume": "2",
-	"year": "2018"
+	"venue": "ICFP",
+	"volume": 2,
+	"year": 2018
 }

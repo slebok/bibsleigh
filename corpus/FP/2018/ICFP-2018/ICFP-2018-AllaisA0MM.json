@@ -1,14 +1,14 @@
 {
 	"author": ["Guillaume Allais", "Robert Atkey", "James Chapman 0001", "Conor McBride", "James McKinna"],
 	"dblpkey": "journals/pacmpl/AllaisA0MM18",
-	"ee": "https://doi.org/10.1145/3236785",
-	"journal": "PACMPL",
+	"doi": "10.1145/3236785",
+	"journal": ["PACMPL", "Proceedings of the ACM on Programming Languages"],
 	"number": "ICFP",
 	"pages": "90:1-90:30",
 	"tag": ["proving", "semantics"],
 	"title": "A type and scope safe universe of syntaxes with binding: their semantics and proofs",
 	"type": "article",
-	"url": "db/journals/pacmpl/pacmpl2.html#AllaisA0MM18",
-	"volume": "2",
-	"year": "2018"
+	"venue": "ICFP",
+	"volume": 2,
+	"year": 2018
 }

@@ -1,14 +1,14 @@
 {
 	"author": ["Guillaume Boisseau", "Jeremy Gibbons"],
 	"dblpkey": "journals/pacmpl/BoisseauG18",
-	"ee": "https://doi.org/10.1145/3236779",
-	"journal": "PACMPL",
+	"doi": "10.1145/3236779",
+	"journal": ["PACMPL", "Proceedings of the ACM on Programming Languages"],
 	"number": "ICFP",
 	"pages": "84:1-84:27",
 	"tag": ["functional", "what"],
 	"title": "What you needa know about Yoneda: profunctor optics and the Yoneda lemma (functional pearl)",
 	"type": "article",
-	"url": "db/journals/pacmpl/pacmpl2.html#BoisseauG18",
-	"volume": "2",
-	"year": "2018"
+	"venue": "ICFP",
+	"volume": 2,
+	"year": 2018
 }

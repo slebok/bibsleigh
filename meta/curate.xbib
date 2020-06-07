@@ -36,8 +36,9 @@ for each
 		truncate left 35
 
 -- Drop booktitle if it's useless
-when booktitle == $booktitleshort
-	remove booktitle
+for each
+	when booktitle == $booktitleshort
+		remove booktitle
 -- Inherit good booktitle
 when no journal
 	when booktitleshort

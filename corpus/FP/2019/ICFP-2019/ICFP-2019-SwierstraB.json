@@ -1,14 +1,14 @@
 {
 	"author": ["Wouter Swierstra", "Tim Baanen"],
 	"dblpkey": "journals/pacmpl/SwierstraB19",
-	"ee": "https://doi.org/10.1145/3341707",
-	"journal": "PACMPL",
+	"doi": "10.1145/3341707",
+	"journal": ["PACMPL", "Proceedings of the ACM on Programming Languages"],
 	"number": "ICFP",
 	"pages": "103:1-103:26",
 	"tag": ["functional", "semantics"],
 	"title": "A predicate transformer semantics for effects (functional pearl)",
 	"type": "article",
-	"url": "db/journals/pacmpl/pacmpl3.html#SwierstraB19",
-	"volume": "3",
-	"year": "2019"
+	"venue": "ICFP",
+	"volume": 3,
+	"year": 2019
 }

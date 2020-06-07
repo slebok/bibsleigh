@@ -1,13 +1,16 @@
 {
 	"author": ["Chiao Hsieh", "Sayan Mitra"],
-	"booktitle": "IFM",
+	"booktitle": "Proceedings of the 15th International Conference on Integrated Formal Methods",
+	"booktitleshort": "IFM",
 	"crossref": "conf/ifm/2019",
 	"dblpkey": "conf/ifm/HsiehM19",
-	"ee": "https://doi.org/10.1007/978-3-030-34968-4_13",
+	"doi": "10.1007/978-3-030-34968-4_13",
+	"isbn": ["978-3-030-34967-7", "978-3-030-34968-4"],
 	"pages": "227-245",
+	"publisher": "Springer",
 	"tag": ["automaton", "named", "protocol", "verification"],
 	"title": "Dione: A Protocol Verification System Built with Dafny for I/O Automata",
 	"type": "inproceedings",
-	"url": "db/conf/ifm/ifm2019.html#HsiehM19",
-	"year": "2019"
+	"venue": "IFM",
+	"year": 2019
 }

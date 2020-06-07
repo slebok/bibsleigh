@@ -1,13 +1,16 @@
 {
 	"author": ["Jörg Pfähler", "Gidon Ernst", "Stefan Bodenmüller", "Gerhard Schellhorn", "Wolfgang Reif"],
-	"booktitle": "IFM",
+	"booktitle": "Proceedings of the 13th International Conference on Integrated Formal Methods",
+	"booktitleshort": "IFM",
 	"crossref": "conf/ifm/2017",
 	"dblpkey": "conf/ifm/PfahlerEBSR17",
-	"ee": "https://doi.org/10.1007/978-3-319-66845-1_25",
+	"doi": "10.1007/978-3-319-66845-1_25",
+	"isbn": ["978-3-319-66844-4", "978-3-319-66845-1"],
 	"pages": "375-390",
+	"publisher": "Springer",
 	"tag": ["composition", "verification"],
 	"title": "Modular Verification of Order-Preserving Write-Back Caches",
 	"type": "inproceedings",
-	"url": "db/conf/ifm/ifm2017.html#PfahlerEBSR17",
-	"year": "2017"
+	"venue": "IFM",
+	"year": 2017
 }

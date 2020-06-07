@@ -1,13 +1,16 @@
 {
 	"author": ["Ankit Choudhary", "Shan Lu", "Michael Pradel"],
-	"booktitle": "ICSE",
+	"booktitle": "Proceedings of the 39th International Conference on Software Engineering",
+	"booktitleshort": "ICSE",
 	"crossref": "conf/icse/2017",
 	"dblpkey": "conf/icse/ChoudharyLP17",
 	"ee": ["https://doi.org/10.1109/ICSE.2017.32", "http://doi.ieeecomputersociety.org/10.1109/ICSE.2017.32", "http://dl.acm.org/citation.cfm?id=3097401"],
+	"isbn": "978-1-5386-3868-2",
 	"pages": "266-277",
+	"publisher": "IEEE / ACM",
 	"tag": ["concurrent", "detection", "generative", "performance", "safety", "testing", "thread"],
 	"title": "Efficient detection of thread safety violations via coverage-guided generation of concurrent tests",
 	"type": "inproceedings",
-	"url": "db/conf/icse/icse2017.html#ChoudharyLP17",
-	"year": "2017"
+	"venue": "ICSE",
+	"year": 2017
 }

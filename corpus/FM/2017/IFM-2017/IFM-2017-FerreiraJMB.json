@@ -1,13 +1,16 @@
 {
 	"author": ["João F. Ferreira", "Saul A. Johnson", "Alexandra Mendes", "Phillip J. Brooke"],
-	"booktitle": "IFM",
+	"booktitle": "Proceedings of the 13th International Conference on Integrated Formal Methods",
+	"booktitleshort": "IFM",
 	"crossref": "conf/ifm/2017",
 	"dblpkey": "conf/ifm/FerreiraJMB17",
-	"ee": "https://doi.org/10.1007/978-3-319-66845-1_27",
+	"doi": "10.1007/978-3-319-66845-1_27",
+	"isbn": ["978-3-319-66844-4", "978-3-319-66845-1"],
 	"pages": "407-421",
+	"publisher": "Springer",
 	"tag": ["authentication", "case study", "coq", "linux", "quality", "using"],
 	"title": "Certified Password Quality - A Case Study Using Coq and Linux Pluggable Authentication Modules",
 	"type": "inproceedings",
-	"url": "db/conf/ifm/ifm2017.html#FerreiraJMB17",
-	"year": "2017"
+	"venue": "IFM",
+	"year": 2017
 }

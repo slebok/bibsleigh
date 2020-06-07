@@ -1,13 +1,16 @@
 {
 	"author": ["Yibiao Yang", "Yuming Zhou", "Hao Sun", "Zhendong Su", "Zhiqiang Zuo 0002", "Lei Xu 0003", "Baowen Xu"],
-	"booktitle": "ICSE",
+	"booktitle": "Proceedings of the 41st International Conference on Software Engineering",
+	"booktitleshort": "ICSE",
 	"crossref": "conf/icse/2019",
 	"dblpkey": "conf/icse/YangZSS00X19",
 	"ee": ["https://doi.org/10.1109/ICSE.2019.00061", "https://dl.acm.org/citation.cfm?id=3339569"],
+	"isbn": "978-1-7281-0869-8",
 	"pages": "488-498",
+	"publisher": "IEEE / ACM",
 	"tag": ["debugging", "difference", "random", "test coverage", "testing", "tool support"],
 	"title": "Hunting for bugs in code coverage tools via randomized differential testing",
 	"type": "inproceedings",
-	"url": "db/conf/icse/icse2019.html#YangZSS00X19",
-	"year": "2019"
+	"venue": "ICSE",
+	"year": 2019
 }

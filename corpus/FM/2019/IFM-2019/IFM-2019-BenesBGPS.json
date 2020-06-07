@@ -1,13 +1,16 @@
 {
 	"author": ["Nikola Benes", "Lubos Brim", "Martin Geletka", "Samuel Pastva", "David Safránek"],
-	"booktitle": "IFM",
+	"booktitle": "Proceedings of the 15th International Conference on Integrated Formal Methods",
+	"booktitleshort": "IFM",
 	"crossref": "conf/ifm/2019",
 	"dblpkey": "conf/ifm/BenesBGPS19",
-	"ee": "https://doi.org/10.1007/978-3-030-34968-4_2",
+	"doi": "10.1007/978-3-030-34968-4_2",
+	"isbn": ["978-3-030-34967-7", "978-3-030-34968-4"],
 	"pages": "27-45",
+	"publisher": "Springer",
 	"tag": ["algebra", "constraints", "parametricity", "synthesis", "using"],
 	"title": "Accelerating Parameter Synthesis Using Semi-algebraic Constraints",
 	"type": "inproceedings",
-	"url": "db/conf/ifm/ifm2019.html#BenesBGPS19",
-	"year": "2019"
+	"venue": "IFM",
+	"year": 2019
 }

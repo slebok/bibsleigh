@@ -1,14 +1,14 @@
 {
 	"author": ["Daniel Patterson", "Amal Ahmed"],
 	"dblpkey": "journals/pacmpl/0001A19",
-	"ee": "https://doi.org/10.1145/3341689",
-	"journal": "PACMPL",
+	"doi": "10.1145/3341689",
+	"journal": ["PACMPL", "Proceedings of the ACM on Programming Languages"],
 	"number": "ICFP",
 	"pages": "85:1-85:29",
 	"tag": ["compilation", "correctness", "functional", "theorem"],
 	"title": "The next 700 compiler correctness theorems (functional pearl)",
 	"type": "article",
-	"url": "db/journals/pacmpl/pacmpl3.html#0001A19",
-	"volume": "3",
-	"year": "2019"
+	"venue": "ICFP",
+	"volume": 3,
+	"year": 2019
 }

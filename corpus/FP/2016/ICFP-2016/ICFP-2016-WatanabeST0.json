@@ -1,13 +1,16 @@
 {
 	"author": ["Keiichi Watanabe", "Ryosuke Sato", "Takeshi Tsukada", "Naoki Kobayashi 0001"],
-	"booktitle": "ICFP",
+	"booktitle": "Proceedings of the 21st International Conference on Functional Programming",
+	"booktitleshort": "ICFP",
 	"crossref": "conf/icfp/2016",
 	"dblpkey": "conf/icfp/WatanabeST016",
-	"ee": "https://doi.org/10.1145/2951913.2951919",
+	"doi": "10.1145/2951913.2951919",
+	"isbn": "978-1-4503-4219-3",
 	"pages": "243-255",
+	"publisher": "ACM",
 	"tag": ["automation", "functional", "higher-order", "source code", "termination"],
 	"title": "Automatically disproving fair termination of higher-order functional programs",
 	"type": "inproceedings",
-	"url": "db/conf/icfp/icfp2016.html#WatanabeST016",
-	"year": "2016"
+	"venue": "IFCP",
+	"year": 2016
 }

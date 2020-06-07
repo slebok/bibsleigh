@@ -1,14 +1,14 @@
 {
 	"author": ["Joonwon Choi", "Muralidaran Vijayaraghavan", "Benjamin Sherman", "Adam Chlipala", "Arvind"],
 	"dblpkey": "journals/pacmpl/ChoiVSCA17",
-	"ee": "https://doi.org/10.1145/3110268",
-	"journal": "PACMPL",
+	"doi": "10.1145/3110268",
+	"journal": ["PACMPL", "Proceedings of the ACM on Programming Languages"],
 	"number": "ICFP",
 	"pages": "24:1-24:30",
 	"tag": ["composition", "framework", "hardware", "named", "parametricity", "platform", "specification", "verification"],
 	"title": "Kami: a platform for high-level parametric hardware specification and its modular verification",
 	"type": "article",
-	"url": "db/journals/pacmpl/pacmpl1.html#ChoiVSCA17",
-	"volume": "1",
-	"year": "2017"
+	"venue": "ICFP",
+	"volume": 1,
+	"year": 2017
 }

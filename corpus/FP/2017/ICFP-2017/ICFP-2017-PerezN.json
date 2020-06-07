@@ -1,14 +1,14 @@
 {
 	"author": ["Ivan Perez 0001", "Henrik Nilsson"],
 	"dblpkey": "journals/pacmpl/PerezN17",
-	"ee": "https://doi.org/10.1145/3110246",
-	"journal": "PACMPL",
+	"doi": "10.1145/3110246",
+	"journal": ["PACMPL", "Proceedings of the ACM on Programming Languages"],
 	"number": "ICFP",
 	"pages": "2:1-2:27",
 	"tag": ["debugging", "functional", "programming", "testing"],
 	"title": "Testing and debugging functional reactive programming",
 	"type": "article",
-	"url": "db/journals/pacmpl/pacmpl1.html#PerezN17",
-	"volume": "1",
-	"year": "2017"
+	"venue": "ICFP",
+	"volume": 1,
+	"year": 2017
 }

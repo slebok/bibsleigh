@@ -1,13 +1,16 @@
 {
 	"author": ["Simon Doherty", "Brijesh Dongol", "Heike Wehrheim", "John Derrick"],
-	"booktitle": "IFM",
+	"booktitle": "Proceedings of the 14th International Conference on Integrated Formal Methods",
+	"booktitleshort": "IFM",
 	"crossref": "conf/ifm/2018",
 	"dblpkey": "conf/ifm/DohertyDWD18",
-	"ee": "https://doi.org/10.1007/978-3-319-98938-9_7",
+	"doi": "10.1007/978-3-319-98938-9_7",
+	"isbn": ["978-3-319-98937-2", "978-3-319-98938-9"],
 	"pages": "110-129",
+	"publisher": "Springer",
 	"tag": ["composition", "order"],
 	"title": "Making Linearizability Compositional for Partially Ordered Executions",
 	"type": "inproceedings",
-	"url": "db/conf/ifm/ifm2018.html#DohertyDWD18",
-	"year": "2018"
+	"venue": "IFM",
+	"year": 2018
 }

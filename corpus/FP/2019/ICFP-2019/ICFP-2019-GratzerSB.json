@@ -1,14 +1,14 @@
 {
 	"author": ["Daniel Gratzer", "Jonathan Sterling", "Lars Birkedal"],
 	"dblpkey": "journals/pacmpl/GratzerSB19",
-	"ee": "https://doi.org/10.1145/3341711",
-	"journal": "PACMPL",
+	"doi": "10.1145/3341711",
+	"journal": ["PACMPL", "Proceedings of the ACM on Programming Languages"],
 	"number": "ICFP",
 	"pages": "107:1-107:29",
 	"tag": ["dependent type", "implementation", "type system"],
 	"title": "Implementing a modal dependent type theory",
 	"type": "article",
-	"url": "db/journals/pacmpl/pacmpl3.html#GratzerSB19",
-	"volume": "3",
-	"year": "2019"
+	"venue": "ICFP",
+	"volume": 3,
+	"year": 2019
 }

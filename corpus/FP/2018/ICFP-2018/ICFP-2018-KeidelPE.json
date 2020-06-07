@@ -1,14 +1,14 @@
 {
 	"author": ["Sven Keidel", "Casper Bach Poulsen", "Sebastian Erdweg"],
 	"dblpkey": "journals/pacmpl/KeidelPE18",
-	"ee": "https://doi.org/10.1145/3236767",
-	"journal": "PACMPL",
+	"doi": "10.1145/3236767",
+	"journal": ["PACMPL", "Proceedings of the ACM on Programming Languages"],
 	"number": "ICFP",
 	"pages": "72:1-72:26",
 	"tag": ["composition", "proving"],
 	"title": "Compositional soundness proofs of abstract interpreters",
 	"type": "article",
-	"url": "db/journals/pacmpl/pacmpl2.html#KeidelPE18",
-	"volume": "2",
-	"year": "2018"
+	"venue": "ICFP",
+	"volume": 2,
+	"year": 2018
 }

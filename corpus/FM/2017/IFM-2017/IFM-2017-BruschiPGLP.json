@@ -1,13 +1,16 @@
 {
 	"author": ["Danilo Bruschi", "Andrea Di Pasquale", "Silvio Ghilardi", "Andrea Lanzi", "Elena Pagani"],
-	"booktitle": "IFM",
+	"booktitle": "Proceedings of the 13th International Conference on Integrated Formal Methods",
+	"booktitleshort": "IFM",
 	"crossref": "conf/ifm/2017",
 	"dblpkey": "conf/ifm/BruschiPGLP17",
-	"ee": "https://doi.org/10.1007/978-3-319-66845-1_26",
+	"doi": "10.1007/978-3-319-66845-1_26",
+	"isbn": ["978-3-319-66844-4", "978-3-319-66845-1"],
 	"pages": "391-406",
+	"publisher": "Springer",
 	"tag": ["case study", "model checking", "protocol", "smt", "verification"],
 	"title": "Formal Verification of ARP (Address Resolution Protocol) Through SMT-Based Model Checking - A Case Study -",
 	"type": "inproceedings",
-	"url": "db/conf/ifm/ifm2017.html#BruschiPGLP17",
-	"year": "2017"
+	"venue": "IFM",
+	"year": 2017
 }

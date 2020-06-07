@@ -1,14 +1,14 @@
 {
 	"author": ["Andrea Vezzosi", "Anders Mörtberg", "Andreas Abel 0001"],
 	"dblpkey": "journals/pacmpl/VezzosiM019",
-	"ee": "https://doi.org/10.1145/3341691",
-	"journal": "PACMPL",
+	"doi": "10.1145/3341691",
+	"journal": ["PACMPL", "Proceedings of the ACM on Programming Languages"],
 	"number": "ICFP",
 	"pages": "87:1-87:29",
 	"tag": ["induction", "programming language"],
 	"title": "Cubical agda: a dependently typed programming language with univalence and higher inductive types",
 	"type": "article",
-	"url": "db/journals/pacmpl/pacmpl3.html#VezzosiM019",
-	"volume": "3",
-	"year": "2019"
+	"venue": "ICFP",
+	"volume": 3,
+	"year": 2019
 }

@@ -1,13 +1,16 @@
 {
 	"author": ["Muhammad Osama", "Anton Wijs"],
-	"booktitle": "IFM",
+	"booktitle": "Proceedings of the 15th International Conference on Integrated Formal Methods",
+	"booktitleshort": "IFM",
 	"crossref": "conf/ifm/2019",
 	"dblpkey": "conf/ifm/OsamaW19",
-	"ee": "https://doi.org/10.1007/978-3-030-34968-4_29",
+	"doi": "10.1007/978-3-030-34968-4_29",
+	"isbn": ["978-3-030-34967-7", "978-3-030-34968-4"],
 	"pages": "514-522",
+	"publisher": "Springer",
 	"tag": ["gpu", "named", "satisfiability"],
 	"title": "SIGmA: GPU Accelerated Simplification of SAT Formulas",
 	"type": "inproceedings",
-	"url": "db/conf/ifm/ifm2019.html#OsamaW19",
-	"year": "2019"
+	"venue": "IFM",
+	"year": 2019
 }

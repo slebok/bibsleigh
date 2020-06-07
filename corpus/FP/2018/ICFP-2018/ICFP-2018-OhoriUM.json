@@ -1,14 +1,14 @@
 {
 	"author": ["Atsushi Ohori", "Katsuhiro Ueno", "Hisayuki Mima"],
 	"dblpkey": "journals/pacmpl/OhoriUM18",
-	"ee": "https://doi.org/10.1145/3236776",
-	"journal": "PACMPL",
+	"doi": "10.1145/3236776",
+	"journal": ["PACMPL", "Proceedings of the ACM on Programming Languages"],
 	"number": "ICFP",
 	"pages": "81:1-81:29",
 	"tag": ["compilation", "morphism", "optimisation", "polymorphism"],
 	"title": "Finitary polymorphism for optimizing type-directed compilation",
 	"type": "article",
-	"url": "db/journals/pacmpl/pacmpl2.html#OhoriUM18",
-	"volume": "2",
-	"year": "2018"
+	"venue": "ICFP",
+	"volume": 2,
+	"year": 2018
 }

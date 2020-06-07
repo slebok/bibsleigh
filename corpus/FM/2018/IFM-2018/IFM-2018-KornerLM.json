@@ -1,13 +1,16 @@
 {
 	"author": ["Philipp Körner", "Michael Leuschel", "Jeroen Meijer"],
-	"booktitle": "IFM",
+	"booktitle": "Proceedings of the 14th International Conference on Integrated Formal Methods",
+	"booktitleshort": "IFM",
 	"crossref": "conf/ifm/2018",
 	"dblpkey": "conf/ifm/KornerLM18",
-	"ee": "https://doi.org/10.1007/978-3-319-98938-9_16",
+	"doi": "10.1007/978-3-319-98938-9_16",
+	"isbn": ["978-3-319-98937-2", "978-3-319-98938-9"],
 	"pages": "275-295",
+	"publisher": "Springer",
 	"tag": ["model checking", "state of the art", "using"],
 	"title": "State-of-the-Art Model Checking for B and Event-B Using ProB and LTSmin",
 	"type": "inproceedings",
-	"url": "db/conf/ifm/ifm2018.html#KornerLM18",
-	"year": "2018"
+	"venue": "IFM",
+	"year": 2018
 }

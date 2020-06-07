@@ -1,14 +1,14 @@
 {
 	"author": "J. Michael Spivey",
 	"dblpkey": "journals/pacmpl/Spivey17",
-	"ee": "https://doi.org/10.1145/3110249",
-	"journal": "PACMPL",
+	"doi": "10.1145/3110249",
+	"journal": ["PACMPL", "Proceedings of the ACM on Programming Languages"],
 	"number": "ICFP",
 	"pages": "5:1-5:23",
 	"tag": ["performance", "pipes and filters"],
 	"title": "Faster coroutine pipelines",
 	"type": "article",
-	"url": "db/journals/pacmpl/pacmpl1.html#Spivey17",
-	"volume": "1",
-	"year": "2017"
+	"venue": "ICFP",
+	"volume": 1,
+	"year": 2017
 }

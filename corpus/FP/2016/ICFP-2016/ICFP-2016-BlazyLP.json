@@ -1,13 +1,16 @@
 {
 	"author": ["Sandrine Blazy", "Vincent Laporte", "David Pichardie"],
-	"booktitle": "ICFP",
+	"booktitle": "Proceedings of the 21st International Conference on Functional Programming",
+	"booktitleshort": "ICFP",
 	"crossref": "conf/icfp/2016",
 	"dblpkey": "conf/icfp/BlazyLP16",
-	"ee": "https://doi.org/10.1145/2951913.2951937",
+	"doi": "10.1145/2951913.2951937",
+	"isbn": "978-1-4503-4219-3",
 	"pages": "325-337",
+	"publisher": "ACM",
 	"tag": ["c", "memory management"],
 	"title": "An abstract memory functor for verified C static analyzers",
 	"type": "inproceedings",
-	"url": "db/conf/icfp/icfp2016.html#BlazyLP16",
-	"year": "2016"
+	"venue": "IFCP",
+	"year": 2016
 }
