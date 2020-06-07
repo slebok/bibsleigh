@@ -11,8 +11,9 @@ when series == LNCS
 	assign Lecture_Notes_in_Computer_Science
 when series == LIPIcs
 	assign Leibniz_International_Proceedings_in_Informatics
-when journal == PACMPL
-	assign Proceedings_of_the_ACM_on_Programming_Languages
+for each
+	when journal == PACMPL
+		assign Proceedings_of_the_ACM_on_Programming_Languages
 when journal == PVLDB
 	assign Proceedings_of_the_VLDB_Endowment
 when journal == Theor._Comput._Sci.

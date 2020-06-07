@@ -39,6 +39,9 @@ for each
 for each
 	when booktitle == $booktitleshort
 		remove booktitle
+for each
+	when journal == $journalshort
+		remove journal
 -- Inherit good booktitle
 when no journal
 	when booktitleshort
