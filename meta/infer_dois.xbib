@@ -1,14 +1,19 @@
 -- Convert EE to DOI, ACMID and other special fields
-when ee =~ http://doi.acm.org/
-	rename to doi
-when ee =~ http://doi.ieeecomputersociety.org/
-	rename to doi
-when ee =~ http://dx.doi.org/
-	rename to doi
-when ee =~ https://dl.acm.org/citation.cfm?id=
-	rename to acmid
-when ee =~ https://doi.org/
-	rename to doi
+for each
+	when ee =~ http://doi.acm.org/
+		rename to doi
+for each
+	when ee =~ http://doi.ieeecomputersociety.org/
+		rename to doi
+for each
+	when ee =~ http://dx.doi.org/
+		rename to doi
+for each
+	when ee =~ https://dl.acm.org/citation.cfm?id=
+		rename to acmid
+for each
+	when ee =~ https://doi.org/
+		rename to doi
 
 -- Curate DOI and ACMID fields of addresses
 for each
