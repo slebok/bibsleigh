@@ -14,6 +14,8 @@ when series == LIPIcs
 for each
 	when journal == PACMPL
 		assign Proceedings_of_the_ACM_on_Programming_Languages
+when journal == Proc._VLDB_Endow.
+	assign Proceedings_of_the_VLDB_Endowment
 when journal == PVLDB
 	assign Proceedings_of_the_VLDB_Endowment
 when journal == Theor._Comput._Sci.
