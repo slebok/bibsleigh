@@ -1,0 +1,28 @@
+-- Convert EE to DOI, ACMID and other special fields
+when ee =~ http://doi.acm.org/
+	rename to doi
+when ee =~ http://doi.ieeecomputersociety.org/
+	rename to doi
+when ee =~ http://dx.doi.org/
+	rename to doi
+when ee =~ https://dl.acm.org/citation.cfm?id=
+	rename to acmid
+when ee =~ https://doi.org/
+	rename to doi
+
+-- Curate DOI and ACMID fields of addresses
+for each
+	when doi =~ http://doi.acm.org/
+		truncate left 19
+for each
+	when doi =~ http://doi.ieeecomputersociety.org/
+		truncate left 35
+for each
+	when doi =~ http://dx.doi.org/
+		truncate left 18
+for each
+	when acmid =~ https://dl.acm.org/citation.cfm?id=
+		truncate left 35
+for each
+	when doi =~ https://doi.org/
+		truncate left 16
