@@ -1,12 +1,15 @@
 {
 	"author": ["Nitin Agrawal 0001", "Ashish Vulimiri"],
-	"booktitle": "SOSP",
+	"booktitle": "Proceedings of the 26th Symposium on Operating Systems Principles",
+	"booktitleshort": "SOSP",
 	"crossref": "conf/sosp/2017",
 	"dblpkey": "conf/sosp/AgrawalV17",
-	"ee": "https://doi.org/10.1145/3132747.3132758",
+	"doi": "10.1145/3132747.3132758",
+	"isbn": "978-1-4503-5085-3",
 	"pages": "647-664",
+	"publisher": "ACM",
 	"title": "Low-Latency Analytics on Colossal Data Streams with SummaryStore",
 	"type": "inproceedings",
-	"url": "db/conf/sosp/sosp2017.html#AgrawalV17",
-	"year": "2017"
+	"venue": "SOSP",
+	"year": 2017
 }

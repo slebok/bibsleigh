@@ -1,12 +1,15 @@
 {
 	"author": ["Xin Jin 0008", "Xiaozhou Li", "Haoyu Zhang", "Robert Soulé", "Jeongkeun Lee", "Nate Foster", "Changhoon Kim", "Ion Stoica"],
-	"booktitle": "SOSP",
+	"booktitle": "Proceedings of the 26th Symposium on Operating Systems Principles",
+	"booktitleshort": "SOSP",
 	"crossref": "conf/sosp/2017",
 	"dblpkey": "conf/sosp/JinLZSLFKS17",
-	"ee": "https://doi.org/10.1145/3132747.3132764",
+	"doi": "10.1145/3132747.3132764",
+	"isbn": "978-1-4503-5085-3",
 	"pages": "121-136",
+	"publisher": "ACM",
 	"title": "NetCache: Balancing Key-Value Stores with Fast In-Network Caching",
 	"type": "inproceedings",
-	"url": "db/conf/sosp/sosp2017.html#JinLZSLFKS17",
-	"year": "2017"
+	"venue": "SOSP",
+	"year": 2017
 }

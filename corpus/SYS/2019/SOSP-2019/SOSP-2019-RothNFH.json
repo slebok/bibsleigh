@@ -1,12 +1,15 @@
 {
 	"author": ["Edo Roth", "Daniel Noble", "Brett Hemenway Falk", "Andreas Haeberlen"],
-	"booktitle": "SOSP",
+	"booktitle": "Proceedings of the 27th Symposium on Operating Systems Principles",
+	"booktitleshort": "SOSP",
 	"crossref": "conf/sosp/2019",
 	"dblpkey": "conf/sosp/RothNFH19",
-	"ee": "https://doi.org/10.1145/3341301.3359660",
+	"doi": "10.1145/3341301.3359660",
+	"isbn": "978-1-4503-6873-5",
 	"pages": "196-210",
+	"publisher": "ACM",
 	"title": "Honeycrisp: large-scale differentially private aggregation without a trusted core",
 	"type": "inproceedings",
-	"url": "db/conf/sosp/sosp2019.html#RothNFH19",
-	"year": "2019"
+	"venue": "SOSP",
+	"year": 2019
 }

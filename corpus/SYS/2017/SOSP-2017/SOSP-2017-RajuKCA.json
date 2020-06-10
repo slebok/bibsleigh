@@ -1,12 +1,15 @@
 {
 	"author": ["Pandian Raju", "Rohan Kadekodi", "Vijay Chidambaram", "Ittai Abraham"],
-	"booktitle": "SOSP",
+	"booktitle": "Proceedings of the 26th Symposium on Operating Systems Principles",
+	"booktitleshort": "SOSP",
 	"crossref": "conf/sosp/2017",
 	"dblpkey": "conf/sosp/RajuKCA17",
-	"ee": "https://doi.org/10.1145/3132747.3132765",
+	"doi": "10.1145/3132747.3132765",
+	"isbn": "978-1-4503-5085-3",
 	"pages": "497-514",
+	"publisher": "ACM",
 	"title": "PebblesDB: Building Key-Value Stores using Fragmented Log-Structured Merge Trees",
 	"type": "inproceedings",
-	"url": "db/conf/sosp/sosp2017.html#RajuKCA17",
-	"year": "2017"
+	"venue": "SOSP",
+	"year": 2017
 }

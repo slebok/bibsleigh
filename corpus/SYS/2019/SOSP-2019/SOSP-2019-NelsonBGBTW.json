@@ -1,12 +1,15 @@
 {
 	"author": ["Luke Nelson", "James Bornholt", "Ronghui Gu", "Andrew Baumann", "Emina Torlak", "Xi Wang"],
-	"booktitle": "SOSP",
+	"booktitle": "Proceedings of the 27th Symposium on Operating Systems Principles",
+	"booktitleshort": "SOSP",
 	"crossref": "conf/sosp/2019",
 	"dblpkey": "conf/sosp/NelsonBGBTW19",
-	"ee": "https://doi.org/10.1145/3341301.3359641",
+	"doi": "10.1145/3341301.3359641",
+	"isbn": "978-1-4503-6873-5",
 	"pages": "225-242",
+	"publisher": "ACM",
 	"title": "Scaling symbolic evaluation for automated verification of systems code with Serval",
 	"type": "inproceedings",
-	"url": "db/conf/sosp/sosp2019.html#NelsonBGBTW19",
-	"year": "2019"
+	"venue": "SOSP",
+	"year": 2019
 }

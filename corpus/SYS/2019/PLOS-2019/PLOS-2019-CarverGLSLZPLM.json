@@ -1,12 +1,15 @@
 {
 	"author": ["Damien Carver", "Redha Gouicem", "Jean-Pierre Lozi", "Julien Sopena", "Baptiste Lepers", "Willy Zwaenepoel", "Nicolas Palix", "Julia Lawall", "Gilles Muller"],
-	"booktitle": "PLOS",
+	"booktitle": "Proceedings of the 10th Workshop on Programming Languages and Operating Systems",
+	"booktitleshort": "PLOS",
 	"crossref": "conf/sosp/2019plos",
 	"dblpkey": "conf/sosp/CarverGLSLZPLM19",
-	"ee": "https://doi.org/10.1145/3365137.3365400",
+	"doi": "10.1145/3365137.3365400",
+	"isbn": "978-1-4503-7017-2",
 	"pages": "53-59",
+	"publisher": "ACM",
 	"title": "Fork/Wait and Multicore Frequency Scaling: a Generational Clash",
 	"type": "inproceedings",
-	"url": "db/conf/sosp/plos2019.html#CarverGLSLZPLM19",
-	"year": "2019"
+	"venue": "PLOS",
+	"year": 2019
 }
