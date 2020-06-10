@@ -1,12 +1,15 @@
 {
 	"author": ["Daniel Selsam", "Nikolaj Bjørner"],
-	"booktitle": "SAT",
+	"booktitle": "Proceedings of the 22nd International Conference on Theory and Applications of Satisfiability Testing",
+	"booktitleshort": "SAT",
 	"crossref": "conf/sat/2019",
 	"dblpkey": "conf/sat/SelsamB19",
-	"ee": "https://doi.org/10.1007/978-3-030-24258-9_24",
+	"doi": "10.1007/978-3-030-24258-9_24",
+	"isbn": ["978-3-030-24257-2", "978-3-030-24258-9"],
 	"pages": "336-353",
+	"publisher": "Springer",
 	"title": "Guiding High-Performance SAT Solvers with Unsat-Core Predictions",
 	"type": "inproceedings",
-	"url": "db/conf/sat/sat2019.html#SelsamB19",
-	"year": "2019"
+	"venue": "SAT",
+	"year": 2019
 }

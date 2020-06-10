@@ -1,12 +1,15 @@
 {
 	"author": ["Shubhani Gupta", "Aseem Saxena", "Anmol Mahajan", "Sorav Bansal"],
-	"booktitle": "SAT",
+	"booktitle": "Proceedings of the 21st International Conference on Theory and Applications of Satisfiability Testing",
+	"booktitleshort": "SAT",
 	"crossref": "conf/sat/2018",
 	"dblpkey": "conf/sat/GuptaSMB18",
-	"ee": "https://doi.org/10.1007/978-3-319-94144-8_22",
+	"doi": "10.1007/978-3-319-94144-8_22",
+	"isbn": ["978-3-319-94143-1", "978-3-319-94144-8"],
 	"pages": "365-382",
+	"publisher": "Springer",
 	"title": "Effective Use of SMT Solvers for Program Equivalence Checking Through Invariant-Sketching and Query-Decomposition",
 	"type": "inproceedings",
-	"url": "db/conf/sat/sat2018.html#GuptaSMB18",
-	"year": "2018"
+	"venue": "SAT",
+	"year": 2018
 }

@@ -1,12 +1,16 @@
 {
 	"author": ["Ivan Lanese", "Naoki Nishida 0001", "Adrián Palacios", "Germán Vidal"],
-	"booktitle": "FLOPS",
+	"booktitle": "Proceedings of the 14th International Symposium on Functional and Logic Programming",
+	"booktitleshort": "FLOPS",
 	"crossref": "conf/flops/2018",
 	"dblpkey": "conf/flops/Lanese0PV18",
-	"ee": ["https://doi.org/10.1007/978-3-319-90686-7_16", "https://www.wikidata.org/entity/Q57573905"],
+	"doi": "10.1007/978-3-319-90686-7_16",
+	"ee": "https://www.wikidata.org/entity/Q57573905",
+	"isbn": ["978-3-319-90685-0", "978-3-319-90686-7"],
 	"pages": "247-263",
+	"publisher": "Springer",
 	"title": "CauDEr: A Causal-Consistent Reversible Debugger for Erlang",
 	"type": "inproceedings",
-	"url": "db/conf/flops/flops2018.html#Lanese0PV18",
-	"year": "2018"
+	"venue": "FLOPS",
+	"year": 2018
 }

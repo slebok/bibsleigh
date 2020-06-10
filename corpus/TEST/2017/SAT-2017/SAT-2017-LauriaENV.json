@@ -1,12 +1,15 @@
 {
 	"author": ["Massimo Lauria", "Jan Elffers", "Jakob Nordström", "Marc Vinyals"],
-	"booktitle": "SAT",
+	"booktitle": "Proceedings of the 20th International Conference on Theory and Applications of Satisfiability Testing",
+	"booktitleshort": "SAT",
 	"crossref": "conf/sat/2017",
 	"dblpkey": "conf/sat/LauriaENV17",
-	"ee": "https://doi.org/10.1007/978-3-319-66263-3_30",
+	"doi": "10.1007/978-3-319-66263-3_30",
+	"isbn": ["978-3-319-66262-6", "978-3-319-66263-3"],
 	"pages": "464-473",
+	"publisher": "Springer",
 	"title": "CNFgen: A Generator of Crafted Benchmarks",
 	"type": "inproceedings",
-	"url": "db/conf/sat/sat2017.html#LauriaENV17",
-	"year": "2017"
+	"venue": "SAT",
+	"year": 2017
 }
