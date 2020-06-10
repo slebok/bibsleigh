@@ -9,6 +9,9 @@ for each
 	when ee =~ http://dx.doi.org/
 		rename to doi
 for each
+	when ee =~ http://dl.acm.org/citation.cfm?id=
+		rename to acmid
+for each
 	when ee =~ https://dl.acm.org/citation.cfm?id=
 		rename to acmid
 for each
@@ -25,6 +28,9 @@ for each
 for each
 	when doi =~ http://dx.doi.org/
 		truncate left 18
+for each
+	when acmid =~ http://dl.acm.org/citation.cfm?id=
+		truncate left 34
 for each
 	when acmid =~ https://dl.acm.org/citation.cfm?id=
 		truncate left 35
